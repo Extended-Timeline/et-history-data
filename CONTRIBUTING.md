@@ -37,7 +37,7 @@ Go to [github.com](https://github.com/login) and sign up — it’s free.
 
 ### 2️⃣ Go to Our Repository
 Open our project link:  
-👉 **https://github.com/et-history-data**
+👉 **https://github.com/Extended-Timeline/et-history-data**
 
 ---
 
@@ -124,4 +124,4 @@ If you ever get stuck, open an issue or ask a question on Discord — we’ll be
 
 ---
 
-> 🗂️ Repository: [et-tools/history-data](https://github.com/et-tools/history-data)
+> 🗂️ Repository: [et-tools/history-data](https://github.com/Extended-Timeline/et-history-data)

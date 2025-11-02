@@ -1,0 +1,104 @@
+#imported from EU4 file: history/provinces/62 - Leipzig.txt
+2.1.1:
+  owner: HERM
+  controller: HERM
+  cores:
+    HERM: yes
+  resource: wool
+  pop:
+    ethnicity: east_franconian
+    religion: germanic
+    estate: peasant
+    size: 1000
+260.1.1:
+  owner: WARI
+  controller: WARI
+  cores:
+    HERM: no
+    WARI: yes
+  pop:
+    ethnicity: saxon
+    estate: peasant
+    size: 1000
+453.1.1:
+  owner: THU
+  controller: THU
+  cores:
+    WARI: no
+    THU: yes
+  pop:
+    ethnicity: east_franconian
+    estate: peasant
+    size: 1000
+600.1.1:
+  owner: SORB
+  controller: SORB
+  cores:
+    THU: no
+    SORB: yes
+  pop:
+    ethnicity: sorbian
+    religion: slavic
+    estate: peasant
+    size: 1000
+804.1.1:
+  owner: FRAN
+  controller: FRAN
+  cores:
+    VELE: no
+    FRAN: yes
+820.1.1:
+  pop:
+    ethnicity: saxon
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+840.6.21:
+  owner: EFRA
+  controller: EFRA
+  cores:
+    FRAN: no
+    EFRA: yes
+867.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+911.11.10:
+  owner: SAX
+  controller: SAX
+  cores:
+    EFRA: no
+    SAX: yes
+1539.1.1:
+  pop:
+    religion: lutheran
+    estate: peasant
+    size: 1000
+1871.1.18:
+  owner: GER
+  controller: GER
+  cores:
+    GER: yes
+1900.1.1:
+  cores:
+    PRU: no
+1930.1.1:
+  resource: cars
+1945.4.18:
+  controller: USA
+1945.5.8:
+  owner: EGER
+  controller: EGER
+  cores:
+    EGER: yes
+1970.1.1:
+  pop:
+    religion: irreligious
+    estate: peasant
+    size: 1000
+1990.10.3:
+  owner: GER
+  controller: GER
+  cores:
+    EGER: no

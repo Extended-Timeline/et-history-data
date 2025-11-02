@@ -1,0 +1,161 @@
+#imported from EU4 file: history/provinces/577 - Quetta.txt
+2.1.1:
+  owner: IPAR
+  controller: IPAR
+  cores:
+    IPAR: yes
+    BALU: yes
+  resource: grain
+  pop:
+    ethnicity: baloch_culture
+    religion: hindu
+    estate: peasant
+    size: 1000
+46.1.1:
+  owner: BALU
+  controller: BALU
+  cores:
+    IPAR: no
+300.1.1:
+  owner: ERA
+  controller: ERA
+  cores:
+    ERA: yes
+620.1.1:
+  owner: BALU
+  controller: BALU
+  cores:
+    ERA: no
+    BALU: yes
+636.1.1:
+  owner: SND
+  controller: SND
+  cores:
+    SND: yes
+652.1.1:
+  owner: RASH
+  controller: RASH
+  cores:
+    SND: no
+    RASH: yes
+661.7.28:
+  owner: UMAY
+  controller: UMAY
+  cores:
+    RASH: no
+    UMAY: yes
+750.8.6:
+  owner: ABBA
+  controller: ABBA
+  cores:
+    UMAY: no
+    ABBA: yes
+800.1.1:
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+841.1.1:
+  owner: SND
+  controller: SND
+  cores:
+    ABBA: no
+    SND: yes
+875.1.1:
+  owner: SIST
+  controller: SIST
+  cores:
+    SND: no
+    SIST: yes
+913.5.24:
+  owner: BUKH
+  controller: BUKH
+922.5.1:
+  owner: SIST
+  controller: SIST
+1002.1.1:
+  owner: GHAZ
+  controller: GHAZ
+  cores:
+    SIST: no
+    GHAZ: yes
+1175.1.1:
+  owner: GHOR
+  controller: GHOR
+  cores:
+    GHAZ: no
+    GHOR: yes
+1206.1.1:
+  owner: BALU
+  controller: BALU
+  cores:
+    GHOR: no
+    BALU: yes
+1231.1.1:
+  owner: MGE
+  controller: MGE
+  cores:
+    MGE: yes
+1260.1.1:
+  owner: ILK
+  controller: ILK
+  cores:
+    MGE: no
+    ILK: yes
+1335.1.1:
+  owner: BALU
+  controller: BALU
+  cores:
+    ILK: no
+1547.1.1:
+  owner: MUG
+  controller: MUG
+  cores:
+    MUG: yes
+1558.1.1:
+  owner: IRA
+  controller: IRA
+  cores:
+    IRA: yes
+1595.1.1:
+  owner: MUG
+  controller: MUG
+1617.1.1:
+  controller: IRA
+1618.1.1:
+  owner: IRA
+1637.1.1:
+  controller: MUG
+1638.1.1:
+  owner: MUG
+1649.1.1:
+  controller: IRA
+1653.1.1:
+  owner: IRA
+1666.1.1:
+  owner: BALU
+  controller: BALU
+  cores:
+    IRA: no
+    MUG: no
+1747.10.1:
+  owner: AFGH
+  controller: AFGH
+  cores:
+    AFGH: yes
+1822.1.1:
+  controller: AFGH
+1876.1.1:
+  owner: GBR
+  controller: GBR
+  cores:
+    AFGH: no
+    GBR: yes
+1930.12.29:
+  cores:
+    PAKI: yes
+1947.8.14:
+  owner: PAKI
+  controller: PAKI
+  cores:
+    GBR: no

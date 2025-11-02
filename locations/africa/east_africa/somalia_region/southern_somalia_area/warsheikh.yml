@@ -1,0 +1,41 @@
+#imported from EU4 file: history/provinces/1205 - Mogadishu.txt
+2.1.1:
+  owner: MDI
+  controller: MDI
+  cores:
+    MDI: yes
+  resource: ivory
+  pop:
+    ethnicity: somali_culture
+    religion: bantu_religion
+    estate: peasant
+    size: 1000
+850.1.1:
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+1555.1.1:
+  owner: AJU
+  controller: AJU
+  cores:
+    AJU: yes
+1620.1.1:
+  owner: MDI
+  controller: MDI
+  cores:
+    AJU: no
+1889.1.7:
+  owner: ITA
+  controller: ITA
+  cores:
+    ITA: yes
+1960.7.1:
+  owner: SOMA
+  controller: SOMA
+  cores:
+    ITA: no
+    MDI: no
+    SOMA: yes
+2007.1.6:
+  controller: SOMA

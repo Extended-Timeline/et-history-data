@@ -1,0 +1,55 @@
+#imported from EU4 file: history/provinces/312 - Vologda.txt
+2.1.1:
+  pop:
+    ethnicity: vepsian
+    religion: muinaisusko
+    estate: peasant
+    size: 1000
+750.1.1:
+  owner: VEPS
+  controller: VEPS
+  cores:
+    VEPS: yes
+  resource: naval_supplies
+1146.1.1:
+  owner: VLR
+  controller: VLR
+  cores:
+    VEPS: no
+    VLR: yes
+1200.1.1:
+  pop:
+    ethnicity: novgorodian
+    religion: orthodox
+    estate: peasant
+    size: 1000
+1238.1.1:
+  owner: BLO
+  controller: BLO
+  cores:
+    VLR: no
+    BLO: yes
+1486.1.1:
+  owner: MOS
+  controller: MOS
+  cores:
+    BLO: no
+    MOS: yes
+1503.4.1:
+  owner: RUS
+  controller: RUS
+  cores:
+    MOS: no
+    RUS: yes
+1922.12.30:
+  owner: SOVI
+  controller: SOVI
+  cores:
+    RUS: no
+    SOVI: yes
+1991.12.25:
+  owner: RUS
+  controller: RUS
+  cores:
+    SOVI: no
+    RUS: yes

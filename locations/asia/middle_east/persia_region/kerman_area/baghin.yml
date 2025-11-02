@@ -1,0 +1,168 @@
+#imported from EU4 file: history/provinces/2234 - Rafsanjan.txt
+2.1.1:
+  owner: PART
+  controller: PART
+  cores:
+    PART: yes
+  resource: copper
+  pop:
+    ethnicity: farsi_culture
+    religion: zoroastrian
+    estate: peasant
+    size: 1000
+224.4.24:
+  owner: ERA
+  controller: ERA
+  cores:
+    PART: no
+    ERA: yes
+643.1.1:
+  owner: RASH
+  controller: RASH
+  cores:
+    ERA: no
+    RASH: yes
+661.7.28:
+  owner: UMAY
+  controller: UMAY
+  cores:
+    RASH: no
+    UMAY: yes
+698.1.1:
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+750.8.6:
+  owner: ABBA
+  controller: ABBA
+  cores:
+    UMAY: no
+    ABBA: yes
+820.1.1:
+  pop:
+    religion: shia
+    estate: peasant
+    size: 1000
+821.1.1:
+  owner: KHOR
+  controller: KHOR
+  cores:
+    KHOR: yes
+861.1.1:
+  cores:
+    ABBA: no
+864.1.1:
+  owner: SIST
+  controller: SIST
+  cores:
+    KHOR: no
+    SIST: yes
+913.5.24:
+  owner: BUKH
+  controller: BUKH
+  cores:
+    SIST: no
+    BUKH: yes
+932.1.1:
+  owner: KRM
+  controller: KRM
+  cores:
+    BUKH: no
+    KRM: yes
+936.1.1:
+  owner: FARS
+  controller: FARS
+  cores:
+    ABBA: no
+    FARS: yes
+978.3.1:
+  owner: IRA
+  controller: IRA
+  cores:
+    IRA: yes
+989.9.7:
+  owner: FARS
+  controller: FARS
+998.12.1:
+  owner: IRA
+  controller: IRA
+1041.1.1:
+  owner: KRM
+  controller: KRM
+  cores:
+    KRM: yes
+1196.1.1:
+  owner: KHWA
+  controller: KHWA
+  cores:
+    KHWA: yes
+1231.1.1:
+  owner: MGE
+  controller: MGE
+  cores:
+    KHWA: no
+    MGE: yes
+    IRA: yes
+1260.1.1:
+  owner: ILK
+  controller: ILK
+  cores:
+    MGE: no
+    ILK: yes
+1335.1.1:
+  owner: YAZD
+  controller: YAZD
+  cores:
+    ILK: no
+    YAZD: yes
+1357.1.1:
+  owner: IRA
+  controller: IRA
+  cores:
+    IRA: yes
+1380.1.1:
+  cores:
+    TIM: yes
+1393.1.1:
+  owner: TIM
+  controller: TIM
+  cores:
+    YAZD: no
+1447.3.13:
+  owner: QOM
+  controller: QOM
+  cores:
+    QOM: yes
+1451.1.1:
+  owner: KHOR
+  controller: KHOR
+  cores:
+    QOM: no
+    TIM: no
+    KHOR: yes
+1458.12.22:
+  owner: TIM
+  controller: TIM
+  cores:
+    TIM: yes
+1469.2.4:
+  owner: AKQO
+  controller: AKQO
+  cores:
+    TIM: no
+    AKQO: yes
+1501.7.1:
+  controller: AKQO
+1504.1.1:
+  owner: IRA
+  controller: IRA
+  cores:
+    KHOR: no
+    IRA: yes
+1935.1.1:
+  owner: IRAN
+  controller: IRAN
+  cores:
+    IRA: no
+    IRAN: yes

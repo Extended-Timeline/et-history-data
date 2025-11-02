@@ -1,0 +1,121 @@
+#imported from EU4 file: history/provinces/398 - Qawasim.txt
+2.1.1:
+  owner: MASC
+  controller: MASC
+  cores:
+    MASC: yes
+  resource: livestock
+  pop:
+    ethnicity: bahrani_culture
+    religion: south_arabian
+    estate: peasant
+    size: 1000
+325.1.1:
+  owner: ERA
+  controller: ERA
+  cores:
+    MASC: no
+    ERA: yes
+634.1.1:
+  owner: RASH
+  controller: RASH
+  cores:
+    ERA: no
+    RASH: yes
+  pop:
+    religion: islam
+    estate: peasant
+    size: 1000
+661.7.28:
+  owner: UMAY
+  controller: UMAY
+  cores:
+    RASH: no
+    UMAY: yes
+  pop:
+    religion: shia
+    estate: peasant
+    size: 1000
+750.8.6:
+  owner: ABBA
+  controller: ABBA
+  cores:
+    UMAY: no
+    ABBA: yes
+780.1.1:
+  pop:
+    religion: ibadi
+    estate: peasant
+    size: 1000
+840.1.1:
+  owner: OMA
+  controller: OMA
+  cores:
+    ABBA: no
+    OMA: yes
+967.1.1:
+  owner: FARS
+  controller: FARS
+  cores:
+    FARS: yes
+978.3.1:
+  owner: IRA
+  controller: IRA
+  cores:
+    IRA: yes
+989.9.7:
+  owner: FARS
+  controller: FARS
+998.12.1:
+  owner: IRA
+  controller: IRA
+1053.1.1:
+  owner: OMA
+  controller: OMA
+  cores:
+    IRA: no
+    FARS: no
+    OMA: yes
+1073.5.16:
+  owner: KRM
+  controller: KRM
+  cores:
+    KRM: yes
+1154.1.1:
+  owner: OMA
+  controller: OMA
+  cores:
+    KRM: no
+1350.1.1:
+  owner: ORM
+  controller: ORM
+  cores:
+    ORM: yes
+1514.1.1:
+  owner: POR
+  controller: POR
+  cores:
+    POR: yes
+1624.1.1:
+  owner: OMA
+  controller: OMA
+  cores:
+    POR: no
+    ORM: yes
+1660.1.1:
+  pop:
+    religion: shia
+    estate: peasant
+    size: 1000
+1727.1.1:
+  owner: SHAR
+  controller: SHAR
+  cores:
+    OMA: no
+1969.1.1:
+  resource: oil
+1971.12.2:
+  owner: UAEM
+  controller: UAEM
+  cores:
+    UAEM: yes

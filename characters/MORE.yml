@@ -1,0 +1,49 @@
+more_theodoros_i_palaiologos:
+  1353.1.1:
+    birth: mystras #TODO: Date and location guessed, check if better data is available
+    first_name: theodoros
+    dynasty: palaiologos_dynasty
+    adm: 45
+    dip: 30
+    mil: 30
+    religion: orthodox
+    culture: greek_culture
+  1407.1.1:
+    death: yes
+more_theodoros_ii_palaiologos:
+  1396.1.1:
+    birth: mystras #TODO: Date and location guessed, check if better data is available
+    first_name: theodoros
+    dynasty: palaiologos_dynasty
+    father: more_theodoros_i_palaiologos #TODO: check if this makes sense
+    adm: 45
+    dip: 45
+    mil: 60
+    religion: orthodox
+    culture: greek_culture
+  1448.6.26:
+    death: yes
+more_theodoros_ii_palaiologos_1:
+  1377.1.1:
+    birth: mystras #TODO: Date and location guessed, check if better data is available
+    first_name: theodoros
+    dynasty: palaiologos_dynasty
+    adm: 45
+    dip: 45
+    mil: 60
+    religion: orthodox
+    culture: greek_culture
+  1443.1.1:
+    death: yes
+more_demetrios_ii_palaiologos:
+  1413.1.1:
+    birth: mystras #TODO: Date and location guessed, check if better data is available
+    first_name: demetrios
+    dynasty: palaiologos_dynasty
+    adm: 30
+    dip: 15
+    mil: 15
+    religion: orthodox
+    culture: greek_culture
+  3000.1.1:
+    death: yes

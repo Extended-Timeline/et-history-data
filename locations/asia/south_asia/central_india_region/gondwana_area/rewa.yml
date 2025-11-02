@@ -1,0 +1,113 @@
+#imported from EU4 file: history/provinces/2097 - Baghelkhand.txt
+2.1.1:
+  owner: DASA
+  controller: DASA
+  cores:
+    DASA: yes
+  resource: naval_supplies
+  pop:
+    ethnicity: bagheli
+    religion: hindu
+    estate: peasant
+    size: 1000
+320.1.1:
+  owner: GUPT
+  controller: GUPT
+  cores:
+    DASA: no
+    GUPT: yes
+360.1.1:
+  owner: BGK
+  controller: BGK
+  cores:
+    GUPT: no
+    BGK: yes
+533.1.1:
+  owner: GUPT
+  controller: GUPT
+  cores:
+    GUPT: yes
+600.1.1:
+  owner: KANN
+  controller: KANN
+  cores:
+    GUPT: no
+    KANN: yes
+620.1.1:
+  owner: PUSH
+  controller: PUSH
+  cores:
+    PUSH: yes
+647.1.1:
+  owner: KANN
+  controller: KANN
+  cores:
+    PUSH: no
+750.1.1:
+  owner: PALA
+  controller: PALA
+  cores:
+    KANN: no
+    PALA: yes
+836.1.1:
+  owner: GURJ
+  controller: GURJ
+  cores:
+    GURJ: yes
+860.1.1:
+  owner: BND
+  controller: BND
+  cores:
+    GURJ: no
+    BND: yes
+1030.1.1:
+  owner: KALC
+  controller: KALC
+  cores:
+    KALC: yes
+1080.1.1:
+  owner: BND
+  controller: BND
+  cores:
+    KALC: no
+    BND: yes
+1315.1.1:
+  owner: BGK
+  controller: BGK
+  cores:
+    BND: no
+    BGK: yes
+1494.1.1:
+  controller: DLH
+1495.1.1:
+  controller: BGK
+1562.1.1:
+  controller: MUG
+1563.1.1:
+  controller: BGK
+1595.1.1:
+  controller: MUG
+1597.1.1:
+  controller: BGK
+1751.1.1:
+  owner: NAGP
+  controller: NAGP
+1809.1.1:
+  owner: BGK
+  controller: BGK
+1871.3.1:
+  owner: GBR
+  controller: GBR
+  cores:
+    GBR: yes
+1920.1.1:
+  resource: aluminum
+1930.1.1:
+  cores:
+    BGK: no
+    INDI: yes
+1947.8.15:
+  owner: INDI
+  controller: INDI
+  cores:
+    GBR: no

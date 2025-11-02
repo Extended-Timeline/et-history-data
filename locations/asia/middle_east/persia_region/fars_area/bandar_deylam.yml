@@ -1,0 +1,167 @@
+#imported from EU4 file: history/provinces/430 - Rushehr.txt
+2.1.1:
+  owner: PESS
+  controller: PESS
+  cores:
+    PESS: yes
+  resource: silk
+  pop:
+    ethnicity: khuzi
+    religion: zoroastrian
+    estate: peasant
+    size: 1000
+207.1.1:
+  owner: ERA
+  controller: ERA
+  cores:
+    PESS: no
+    ERA: yes
+643.1.1:
+  owner: RASH
+  controller: RASH
+  cores:
+    ERA: no
+    RASH: yes
+661.7.28:
+  owner: UMAY
+  controller: UMAY
+  cores:
+    RASH: no
+    UMAY: yes
+680.1.1:
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+750.8.6:
+  owner: ABBA
+  controller: ABBA
+  cores:
+    UMAY: no
+    ABBA: yes
+840.1.1:
+  pop:
+    religion: shia
+    estate: peasant
+    size: 1000
+870.1.1:
+  owner: FARS
+  controller: FARS
+  cores:
+    FARS: yes
+875.8.1:
+  owner: SIST
+  controller: SIST
+  cores:
+    SIST: yes
+900.1.1:
+  pop:
+    ethnicity: lur_culture
+    estate: peasant
+    size: 1000
+912.1.1:
+  owner: ABBA
+  controller: ABBA
+  cores:
+    SIST: no
+934.5.1:
+  owner: FARS
+  controller: FARS
+  cores:
+    ABBA: no
+978.3.1:
+  owner: IRA
+  controller: IRA
+  cores:
+    IRA: yes
+989.9.7:
+  owner: FARS
+  controller: FARS
+998.12.1:
+  owner: IRA
+  controller: IRA
+1062.1.1:
+  owner: SHB
+  controller: SHB
+  cores:
+    SHB: yes
+1064.1.1:
+  owner: SELJ
+  controller: SELJ
+  cores:
+    SELJ: yes
+1148.1.1:
+  owner: FARS
+  controller: FARS
+  cores:
+    FARS: yes
+1157.5.8:
+  cores:
+    SELJ: no
+1282.1.1:
+  owner: ILK
+  controller: ILK
+  cores:
+    ILK: yes
+1335.1.1:
+  owner: FARS
+  controller: FARS
+  cores:
+    ILK: no
+    FARS: yes
+1353.1.1:
+  owner: YAZD
+  controller: YAZD
+  cores:
+    YAZD: yes
+1357.1.1:
+  owner: IRA
+  controller: IRA
+  cores:
+    YAZD: no
+    IRA: yes
+1380.1.1:
+  cores:
+    TIM: yes
+1393.5.1:
+  owner: TIM
+  controller: TIM
+1442.1.1:
+  owner: FARS
+  controller: FARS
+  cores:
+    FARS: yes
+1447.3.13:
+  owner: QOM
+  controller: QOM
+  cores:
+    QOM: yes
+1451.1.1:
+  owner: QAKO
+  controller: QAKO
+  cores:
+    QOM: no
+    TIM: no
+    QAKO: yes
+1468.6.1:
+  controller: TIM
+1469.2.4:
+  owner: AKQO
+  controller: AKQO
+  cores:
+    QAKO: no
+    AKQO: yes
+1501.7.1:
+  controller: AKQO
+1504.1.1:
+  owner: IRA
+  controller: IRA
+  cores:
+    AKQO: no
+    IRA: yes
+1935.1.1:
+  owner: IRAN
+  controller: IRAN
+  cores:
+    IRA: no
+    IRAN: yes

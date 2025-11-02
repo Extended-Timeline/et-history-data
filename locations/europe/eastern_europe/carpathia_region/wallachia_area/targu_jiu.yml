@@ -1,0 +1,130 @@
+#imported from EU4 file: history/provinces/4532 - Severin.txt
+2.1.1:
+  owner: DACI
+  controller: DACI
+  cores:
+    DACI: yes
+  resource: livestock
+  pop:
+    ethnicity: dacian
+    religion: zamolxism
+    estate: peasant
+    size: 1000
+106.1.1:
+  owner: ROM
+  controller: ROM
+  cores:
+    ROM: yes
+160.1.1:
+  cores:
+    DACI: no
+271.1.1:
+  owner: VISG
+  controller: VISG
+  cores:
+    ROM: no
+    VISG: yes
+  pop:
+    ethnicity: gothic
+    estate: peasant
+    size: 1000
+290.1.1:
+  pop:
+    religion: germanic
+    estate: peasant
+    size: 1000
+376.1.1:
+  owner: HUNS
+  controller: HUNS
+  cores:
+    VISG: no
+    HUNS: yes
+400.1.1:
+  pop:
+    religion: 
+    estate: peasant
+    size: 1000
+469.1.1:
+  owner: GEPI
+  controller: GEPI
+  cores:
+    HUNS: no
+    GEPI: yes
+567.1.1:
+  owner: AVR
+  controller: AVR
+  cores:
+    GEPI: no
+    AVR: yes
+681.1.1:
+  owner: BUL
+  controller: BUL
+  cores:
+    AVR: no
+    BUL: yes
+  pop:
+    ethnicity: wallachian
+    estate: peasant
+    size: 1000
+867.1.1:
+  pop:
+    religion: orthodox
+    estate: peasant
+    size: 1000
+1003.1.1:
+  owner: HUN
+  controller: HUN
+  cores:
+    BUL: no
+    HUN: yes
+1015.1.1:
+  owner: PECH
+  controller: PECH
+  cores:
+    HUN: no
+    PECH: yes
+1094.1.1:
+  owner: CUMA
+  controller: CUMA
+  cores:
+    PECH: no
+    CUMA: yes
+1185.1.1:
+  owner: BUL
+  controller: BUL
+  cores:
+    CUMA: no
+    BUL: yes
+1330.1.1:
+  owner: WAL
+  controller: WAL
+  cores:
+    BUL: no
+    WAL: yes
+1658.1.1:
+  controller: WAL
+1718.1.1:
+  owner: HAB
+  controller: HAB
+  cores:
+    HAB: yes
+1739.1.1:
+  owner: WAL
+  controller: WAL
+  cores:
+    TUR: yes
+    HAB: no
+1789.1.1:
+  controller: HAB
+1791.8.4:
+  controller: WAL
+1806.1.1:
+  controller: RUS
+1812.5.28:
+  controller: WAL
+1862.2.5:
+  owner: RMN
+  controller: RMN
+  cores:
+    WAL: no
+    RMN: yes

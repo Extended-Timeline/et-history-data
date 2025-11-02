@@ -1,0 +1,91 @@
+#imported from EU4 file: history/provinces/70 - Wurttemberg.txt
+2.1.1:
+  owner: ALEM
+  controller: ALEM
+  cores:
+    ALEM: yes
+  resource: grain
+  pop:
+    ethnicity: swabian
+    religion: germanic
+    estate: peasant
+    size: 1000
+75.1.1:
+  owner: ROM
+  controller: ROM
+  cores:
+    ROM: yes
+260.1.1:
+  owner: ALEM
+  controller: ALEM
+  cores:
+    ROM: no
+600.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+746.1.1:
+  owner: FRAN
+  controller: FRAN
+  cores:
+    FRAN: yes
+840.6.21:
+  owner: EFRA
+  controller: EFRA
+  cores:
+    FRAN: no
+    EFRA: yes
+867.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+911.11.10:
+  owner: SWA
+  controller: SWA
+  cores:
+    EFRA: no
+    ALEM: no
+    SWA: yes
+1268.1.1:
+  owner: WUR
+  controller: WUR
+  cores:
+    SWA: no
+    WUR: yes
+1519.1.1:
+  owner: HAB
+  controller: HAB
+  cores:
+    HAB: yes
+1534.1.1:
+  owner: WUR
+  controller: WUR
+  pop:
+    religion: lutheran
+    estate: peasant
+    size: 1000
+1850.1.1:
+  cores:
+    HAB: no
+1871.1.18:
+  owner: GER
+  controller: GER
+  cores:
+    GER: yes
+1900.1.1:
+  cores:
+    WUR: no
+1945.4.21:
+  controller: FRA
+1945.5.8:
+  owner: WGER
+  controller: WGER
+  cores:
+    WGER: yes
+1990.10.3:
+  owner: GER
+  controller: GER
+  cores:
+    WGER: no

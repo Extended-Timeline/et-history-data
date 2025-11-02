@@ -1,0 +1,45 @@
+#imported from EU4 file: history/provinces/2275 - Niger.txt
+2.1.1:
+  pop:
+    ethnicity: toubou_culture
+    religion: bantu_religion
+    estate: peasant
+    size: 1000
+1230.1.1:
+  owner: KBO
+  controller: KBO
+  cores:
+    KBO: yes
+  resource: grain
+1380.1.1:
+  owner: XXX
+  controller: XXX
+  cores:
+    KBO: no
+1901.1.1:
+  owner: FRA
+  controller: FRA
+  cores:
+    FRA: yes
+  resource: grain
+1910.1.1:
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+1940.6.14:
+  owner: VFRA
+  controller: VFRA
+  cores:
+    VFRA: yes
+1942.11.16:
+  owner: FRA
+  controller: FRA
+  cores:
+    VFRA: no
+1960.8.3:
+  owner: NIGE
+  controller: NIGE
+  cores:
+    FRA: no
+    NIGE: yes

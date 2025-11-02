@@ -1,0 +1,77 @@
+#imported from EU4 file: history/provinces/275 - Polotsk.txt
+2.1.1:
+  pop:
+    ethnicity: polatskian_culture
+    religion: slavic
+    estate: peasant
+    size: 1000
+550.1.1:
+  owner: KRIV
+  controller: KRIV
+  cores:
+    KRIV: yes
+  resource: iron
+880.1.1:
+  owner: KIEV
+  controller: KIEV
+  cores:
+    KRIV: no
+    KIEV: yes
+    POK: yes
+945.1.1:
+  owner: POK
+  controller: POK
+  cores:
+    POK: yes
+988.1.1:
+  pop:
+    religion: orthodox
+    estate: peasant
+    size: 1000
+1054.2.20:
+  cores:
+    KIEV: no
+1252.1.1:
+  owner: LIT
+  controller: LIT
+  cores:
+    LIT: yes
+1563.2.15:
+  controller: RUS
+1569.7.1:
+  owner: PLC
+  cores:
+    PLC: yes
+1579.9.30:
+  controller: PLC
+1772.8.5:
+  owner: RUS
+  controller: RUS
+  cores:
+    PLC: no
+    RUS: yes
+1918.3.25:
+  owner: BELA
+  controller: BELA
+  cores:
+    POK: no
+    BELA: yes
+1919.1.5:
+  owner: RUS
+  controller: RUS
+1922.12.30:
+  owner: SOVI
+  controller: SOVI
+  cores:
+    RUS: no
+    SOVI: yes
+1941.6.10:
+  controller: GER
+1944.7.26:
+  controller: SOVI
+1990.7.27:
+  owner: BELA
+  controller: BELA
+  cores:
+    RUS: no
+    SOVI: no

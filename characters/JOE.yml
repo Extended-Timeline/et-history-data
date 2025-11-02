@@ -1,0 +1,48 @@
+joe_gojong_yi:
+  1833.1.1:
+    birth: namgyeong #TODO: Date and location guessed, check if better data is available
+    first_name: gojong
+    dynasty: yi_dynasty
+    adm: 45
+    dip: 30
+    mil: 60
+    religion: sanjiao
+    culture: korean_culture
+  1907.7.20:
+    death: yes
+joe_sunjong_yi:
+  1874.3.25:
+    birth: namgyeong #TODO: Location guessed, check if better data is available
+    first_name: sunjong
+    dynasty: yi_dynasty
+    father: joe_gojong_yi #TODO: check if this makes sense
+    adm: 75
+    dip: 30
+    mil: 45
+    religion: sanjiao
+    culture: korean_culture
+  1926.4.24:
+    death: yes
+joe_sunjong_yi_1:
+  1877.1.1:
+    birth: namgyeong #TODO: Date and location guessed, check if better data is available
+    first_name: sunjong
+    dynasty: yi_dynasty
+    adm: 75
+    dip: 30
+    mil: 45
+    religion: secularism
+    culture: korean_culture
+  1945.8.15:
+    death: yes
+joe_kim_gu:
+  1915.1.1:
+    birth: namgyeong #TODO: Date and location guessed, check if better data is available
+    first_name: kim_gu
+    adm: 30
+    dip: 30
+    mil: 30
+    religion: muism
+    culture: korean_culture
+  3000.1.1:
+    death: yes

@@ -1,0 +1,62 @@
+#imported from EU4 file: history/provinces/2778 - Haud.txt
+2.1.1:
+  pop:
+    ethnicity: somali_culture
+    religion: bantu_religion
+    estate: peasant
+    size: 1000
+1100.1.1:
+  owner: MARH
+  controller: MARH
+  cores:
+    MARH: yes
+  resource: slaves
+1200.1.1:
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+1526.1.1:
+  owner: ADA
+  controller: ADA
+1555.1.1:
+  owner: MARH
+  controller: MARH
+1650.1.1:
+  owner: MAJE
+  controller: MAJE
+  cores:
+    MARH: no
+    MAJE: yes
+1800.1.1:
+  resource: wool
+1878.1.1:
+  owner: HOBY
+  controller: HOBY
+  cores:
+    MAJE: no
+    HOBY: yes
+1896.1.1:
+  owner: DERV
+  controller: DERV
+  cores:
+    HOBY: no
+    DERV: yes
+1920.2.9:
+  owner: ETH
+  controller: ETH
+  cores:
+    DERV: no
+    ETH: yes
+1925.12.26:
+  owner: ITA
+  controller: ITA
+1941.3.27:
+  controller: GBR
+1941.11.27:
+  owner: ETH
+  controller: ETH
+1977.7.20:
+  controller: SOMA
+1978.3.15:
+  controller: ETH

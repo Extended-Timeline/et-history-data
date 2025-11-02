@@ -1,0 +1,88 @@
+#imported from EU4 file: history/provinces/1066 - Altai.txt
+2.1.1:
+  owner: YKYR
+  controller: YKYR
+  cores:
+    YKYR: yes
+  resource: fur
+  pop:
+    ethnicity: kyrgyz_culture
+    religion: 
+    estate: peasant
+    size: 1000
+1219.1.1:
+  owner: MGE
+  controller: MGE
+  cores:
+    MGE: yes
+1250.1.1:
+  cores:
+    YKYR: no
+  pop:
+    ethnicity: tuvan_culture
+    estate: peasant
+    size: 1000
+1271.1.1:
+  owner: YUA
+  controller: YUA
+  cores:
+    MGE: no
+    YUA: yes
+1368.1.23:
+  owner: MGE
+  controller: MGE
+  cores:
+    YUA: no
+    MGE: yes
+1399.1.1:
+  owner: OIR
+  controller: OIR
+  cores:
+    MGE: no
+    OIR: yes
+1552.1.1:
+  owner: MGE
+  controller: MGE
+  cores:
+    MGE: yes
+1586.1.1:
+  pop:
+    religion: tibetan_buddhism
+    estate: peasant
+    size: 1000
+1623.1.1:
+  owner: OIR
+  controller: OIR
+1635.1.1:
+  owner: ZUNG
+  controller: ZUNG
+  cores:
+    ZUNG: yes
+1754.1.1:
+  owner: QNG
+  controller: QNG
+  cores:
+    QNG: yes
+1911.12.29:
+  owner: RUS
+  controller: RUS
+  cores:
+    QNG: no
+    RUS: yes
+1920.1.1:
+  pop:
+    religion: orthodox
+    estate: peasant
+    size: 1000
+1922.12.30:
+  owner: SOVI
+  controller: SOVI
+  cores:
+    RUS: no
+    SOVI: yes
+1991.12.25:
+  owner: RUS
+  controller: RUS
+  cores:
+    SOVI: no
+    RUS: yes

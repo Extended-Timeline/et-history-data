@@ -1,0 +1,116 @@
+#imported from EU4 file: history/provinces/4208 - Qurqarasu.txt
+2.1.1:
+  owner: WUSU
+  controller: WUSU
+  cores:
+    WUSU: yes
+  resource: grain
+  pop:
+    ethnicity: uyghur_culture
+    religion: 
+    estate: peasant
+    size: 1000
+150.1.1:
+  owner: XIAN
+  controller: XIAN
+  cores:
+    WUSU: no
+    XIAN: yes
+330.1.1:
+  owner: ROUR
+  controller: ROUR
+  cores:
+    XIAN: no
+    ROUR: yes
+460.1.1:
+  owner: UYGH
+  controller: UYGH
+  cores:
+    UYGH: yes
+487.1.1:
+  owner: TIEL
+  controller: TIEL
+  cores:
+    ROUR: no
+    TIEL: yes
+547.1.1:
+  owner: GOKT
+  controller: GOKT
+  cores:
+    TIEL: no
+    GOKT: yes
+627.1.1:
+  owner: UYGH
+  controller: UYGH
+  cores:
+    GOKT: no
+    UYGH: yes
+763.1.1:
+  pop:
+    religion: manichaeism
+    estate: peasant
+    size: 1000
+840.1.1:
+  pop:
+    religion: 
+    estate: peasant
+    size: 1000
+1130.1.1:
+  owner: KKHI
+  controller: KKHI
+  cores:
+    UYGH: no
+    KKHI: yes
+1218.1.1:
+  owner: MGE
+  controller: MGE
+  cores:
+    KKHI: no
+    MGE: yes
+1260.1.1:
+  owner: CHG
+  controller: CHG
+  cores:
+    MGE: no
+    CHG: yes
+1347.1.1:
+  owner: MOGH
+  controller: MOGH
+  cores:
+    CHG: no
+    MOGH: yes
+1350.1.1:
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+1518.1.1:
+  owner: OIR
+  controller: OIR
+1635.1.1:
+  owner: ZUNG
+  controller: ZUNG
+  cores:
+    ZUNG: yes
+1755.1.1:
+  owner: QNG
+  controller: QNG
+  cores:
+    QNG: yes
+1850.1.1:
+  cores:
+    OIR: no
+1866.1.1:
+  cores:
+    UYGH: yes
+1871.7.4:
+  controller: QNG
+1912.2.12:
+  owner: CHI
+  controller: CHI
+  cores:
+    QNG: no
+    CHI: yes
+1933.11.12:
+  cores:
+    UYGH: yes

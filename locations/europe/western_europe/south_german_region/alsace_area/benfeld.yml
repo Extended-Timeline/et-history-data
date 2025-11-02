@@ -1,0 +1,140 @@
+#imported from EU4 file: history/provinces/75 - Elsass.txt
+2.1.1:
+  owner: ROM
+  controller: ROM
+  cores:
+    ROM: yes
+  resource: wine
+  pop:
+    ethnicity: high_alemannic
+    religion: germanic
+    estate: peasant
+    size: 1000
+360.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+395.1.17:
+  owner: ROMW
+  controller: ROMW
+  cores:
+    ROM: no
+    ROMW: yes
+450.1.1:
+  owner: ALEM
+  controller: ALEM
+  cores:
+    ROMW: no
+    ALEM: yes
+746.1.1:
+  owner: FRAN
+  controller: FRAN
+  cores:
+    FRAN: yes
+840.6.21:
+  owner: MFRA
+  controller: MFRA
+  cores:
+    FRAN: no
+    MFRA: yes
+855.9.30:
+  owner: LOT
+  controller: LOT
+  cores:
+    MFRA: no
+    LOT: yes
+867.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+870.8.8:
+  owner: EFRA
+  controller: EFRA
+  cores:
+    LOT: no
+    EFRA: yes
+911.11.10:
+  owner: LOT
+  controller: LOT
+  cores:
+    EFRA: no
+    ALEM: no
+    LOT: yes
+925.1.1:
+  owner: SWA
+  controller: SWA
+  cores:
+    LOT: no
+    SWA: yes
+982.1.1:
+  owner: ALS
+  controller: ALS
+  cores:
+    SWA: no
+    ALS: yes
+1250.1.1:
+  resource: paper
+1467.6.15:
+  cores:
+    BUR: yes
+1469.1.1:
+  owner: BUR
+  controller: BUR
+1477.1.5:
+  owner: ALS
+  controller: ALS
+  cores:
+    BUR: no
+1525.1.1:
+  pop:
+    religion: lutheran
+    estate: peasant
+    size: 1000
+1525.6.15:
+  controller: ALS
+1670.1.1:
+  cores:
+    FRA: yes
+1681.1.1:
+  owner: FRA
+  controller: FRA
+1686.1.17:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+1870.9.4:
+  owner: FRA
+  controller: FRA
+  cores:
+    FRA: yes
+    ALS: no
+1870.10.24:
+  controller: PRU
+1871.1.18:
+  controller: GER
+1871.5.10:
+  owner: GER
+  cores:
+    GER: yes
+1918.11.21:
+  controller: FRA
+1919.6.28:
+  owner: FRA
+1940.6.14:
+  owner: GER
+  controller: GER
+1944.11.23:
+  controller: FRA
+1945.5.8:
+  owner: FRA
+  controller: FRA
+  cores:
+    GER: no
+1946.1.1:
+  pop:
+    ethnicity: french
+    estate: peasant
+    size: 1000

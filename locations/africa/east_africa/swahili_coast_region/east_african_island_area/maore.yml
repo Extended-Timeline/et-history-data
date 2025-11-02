@@ -1,0 +1,39 @@
+#imported from EU4 file: history/provinces/4020 - Comores.txt
+2.1.1:
+  pop:
+    ethnicity: uninhabited
+    religion: bimoism
+    estate: peasant
+    size: 1000
+800.1.1:
+  pop:
+    ethnicity: swahili_culture
+    estate: peasant
+    size: 1000
+1200.1.1:
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+1886.1.1:
+  owner: FRA
+  controller: FRA
+  cores:
+    FRA: yes
+  resource: fish
+1940.6.14:
+  owner: VFRA
+  controller: VFRA
+  cores:
+    VFRA: yes
+1942.10.1:
+  owner: FRA
+  controller: FRA
+  cores:
+    VFRA: no
+1975.7.6:
+  owner: COMO
+  controller: COMO
+  cores:
+    FRA: no
+    COMO: yes

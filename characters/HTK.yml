@@ -1,0 +1,303 @@
+htk_masatsuna_taira:
+  1007.1.1:
+    birth: toshima_kanto #TODO: Date and location guessed, check if better data is available
+    first_name: masatsuna
+    dynasty: taira_dynasty
+    adm: 60
+    dip: 30
+    mil: 30
+    religion: shinto
+    culture: saigoku_culture
+  1040.1.1:
+    death: yes
+htk_takemoto_taira:
+  1020.1.1:
+    birth: toshima_kanto #TODO: Date and location guessed, check if better data is available
+    first_name: takemoto
+    dynasty: taira_dynasty
+    father: htk_masatsuna_taira #TODO: check if this makes sense
+    adm: 30
+    dip: 30
+    mil: 30
+    religion: shinto
+    culture: saigoku_culture
+  1050.1.1:
+    death: yes
+htk_takemoto_taira_1:
+  1010.1.1:
+    birth: toshima_kanto #TODO: Date and location guessed, check if better data is available
+    first_name: takemoto
+    dynasty: taira_dynasty
+    adm: 30
+    dip: 30
+    mil: 30
+    religion: shinto
+    culture: saigoku_culture
+  1050.1.1:
+    death: yes
+htk_taketsuna_taira:
+  1020.1.1:
+    birth: toshima_kanto #TODO: Date and location guessed, check if better data is available
+    first_name: taketsuna
+    dynasty: taira_dynasty
+    adm: 15
+    dip: 30
+    mil: 30
+    religion: shinto
+    culture: saigoku_culture
+  1100.1.1:
+    death: yes
+htk_shigetsuna_chichibu:
+  1070.1.1:
+    birth: toshima_kanto #TODO: Date and location guessed, check if better data is available
+    first_name: shigetsuna
+    dynasty: chichibu_dynasty
+    adm: 15
+    dip: 60
+    mil: 0
+    religion: shinto
+    culture: saigoku_culture
+  1140.1.1:
+    death: yes
+htk_shigetaka_chichibu:
+  1110.1.1:
+    birth: toshima_kanto #TODO: Date and location guessed, check if better data is available
+    first_name: shigetaka
+    dynasty: chichibu_dynasty
+    adm: 45
+    dip: 75
+    mil: 75
+    religion: shinto
+    culture: saigoku_culture
+  1155.9.14:
+    death: yes
+htk_shigeyoshi_hatakeyama:
+  1125.1.1:
+    birth: toshima_kanto #TODO: Date and location guessed, check if better data is available
+    first_name: shigeyoshi
+    dynasty: hatakeyama_dynasty
+    adm: 45
+    dip: 75
+    mil: 60
+    religion: shinto
+    culture: saigoku_culture
+  1180.1.1:
+    death: yes
+htk_shigetada_hatakeyama:
+  1164.1.1:
+    birth: kaisou #TODO: Date and location guessed, check if better data is available
+    first_name: shigetada
+    dynasty: hatakeyama_dynasty
+    adm: 45
+    dip: 30
+    mil: 45
+    religion: shinto
+    culture: saigoku_culture
+  1205.7.10:
+    death: yes
+htk_shigeyasu_hatakeyama:
+  1190.1.1:
+    birth: toshima_kanto #TODO: Date and location guessed, check if better data is available
+    first_name: shigeyasu
+    dynasty: hatakeyama_dynasty
+    father: htk_shigetada_hatakeyama #TODO: check if this makes sense
+    adm: 30
+    dip: 30
+    mil: 15
+    religion: shinto
+    culture: saigoku_culture
+  1205.7.10:
+    death: yes
+htk_kunikiyo_hatakeyama:
+  1305.1.1:
+    birth: kaisou #TODO: Date and location guessed, check if better data is available
+    first_name: kunikiyo
+    dynasty: hatakeyama_dynasty
+    adm: 30
+    dip: 30
+    mil: 45
+    religion: shinto
+    culture: saigoku_culture
+  1362.1.1:
+    death: yes
+htk_yoshito_hatakeyama:
+  1331.1.1:
+    birth: nyuu #TODO: Date and location guessed, check if better data is available
+    first_name: yoshito
+    dynasty: hatakeyama_dynasty
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: shinto
+    culture: saigoku_culture
+  1379.11.21:
+    death: yes
+htk_motokuni_hatakeyama:
+  1352.1.1:
+    birth: imizu #TODO: Date and location guessed, check if better data is available
+    first_name: motokuni
+    dynasty: hatakeyama_dynasty
+    adm: 60
+    dip: 45
+    mil: 60
+    religion: shinto
+    culture: saigoku_culture
+  1406.2.5:
+    death: yes
+htk_mitsuie_hatakeyama:
+  1372.1.1:
+    birth: imizu #TODO: Date and location guessed, check if better data is available
+    first_name: mitsuie
+    dynasty: hatakeyama_dynasty
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: shinto
+    culture: saigoku_culture
+  1433.10.31:
+    death: yes
+htk_mochikuni_hatakeyama:
+  1398.1.1:
+    birth: imizu #TODO: Date and location guessed, check if better data is available
+    first_name: mochikuni
+    dynasty: hatakeyama_dynasty
+    adm: 30
+    dip: 30
+    mil: 30
+    religion: shinto
+    culture: saigoku_culture
+  1455.4.12:
+    death: yes
+htk_mochitomi_hatakeyama:
+  1390.1.1:
+    birth: imizu #TODO: Date and location guessed, check if better data is available
+    first_name: mochitomi
+    dynasty: hatakeyama_dynasty
+    father: htk_mochikuni_hatakeyama #TODO: check if this makes sense
+    adm: 30
+    dip: 30
+    mil: 30
+    religion: shinto
+    culture: saigoku_culture
+  1452.1.1:
+    death: yes
+htk_yoshinari_hatakeyama:
+  1437.1.1:
+    birth: imizu #TODO: Date and location guessed, check if better data is available
+    first_name: yoshinari
+    dynasty: hatakeyama_dynasty
+    adm: 30
+    dip: 15
+    mil: 30
+    religion: shinto
+    culture: saigoku_culture
+  1490.1.1:
+    death: yes
+htk_masanaga_hatakeyama:
+  1430.1.1:
+    birth: indrapura #TODO: Date and location guessed, check if better data is available
+    first_name: masanaga
+    dynasty: hatakeyama_dynasty
+    adm: 15
+    dip: 45
+    mil: 30
+    religion: shinto
+    culture: saigoku_culture
+  1493.5.1:
+    death: yes
+htk_hisayori_hatakeyama:
+  1475.1.1:
+    birth: indrapura #TODO: Date and location guessed, check if better data is available
+    first_name: hisayori
+    dynasty: hatakeyama_dynasty
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: shinto
+    culture: saigoku_culture
+  1522.8.17:
+    death: yes
+htk_yoshitoyo_hatakeyama:
+  1469.1.1:
+    birth: indrapura #TODO: Date and location guessed, check if better data is available
+    first_name: yoshitoyo
+    dynasty: hatakeyama_dynasty
+    adm: 15
+    dip: 15
+    mil: 15
+    religion: shinto
+    culture: saigoku_culture
+  1499.1.1:
+    death: yes
+htk_tanenaga_hatakeyama:
+  1504.1.1:
+    birth: indrapura #TODO: Date and location guessed, check if better data is available
+    first_name: tanenaga
+    dynasty: hatakeyama_dynasty
+    adm: 30
+    dip: 30
+    mil: 45
+    religion: shinto
+    culture: saigoku_culture
+  1545.6.23:
+    death: yes
+htk_nagatsune_hatakeyama:
+  1508.1.1:
+    birth: indrapura #TODO: Date and location guessed, check if better data is available
+    first_name: nagatsune
+    dynasty: hatakeyama_dynasty
+    adm: 15
+    dip: 15
+    mil: 15
+    religion: shinto
+    culture: saigoku_culture
+  1548.1.1:
+    death: yes
+htk_masakuni_hatakeyama:
+  1496.1.1:
+    birth: indrapura #TODO: Date and location guessed, check if better data is available
+    first_name: masakuni
+    dynasty: hatakeyama_dynasty
+    adm: 15
+    dip: 15
+    mil: 15
+    religion: shinto
+    culture: saigoku_culture
+  1550.9.22:
+    death: yes
+htk_takamasa_hatakeyama:
+  1527.1.1:
+    birth: indrapura #TODO: Date and location guessed, check if better data is available
+    first_name: takamasa
+    dynasty: hatakeyama_dynasty
+    adm: 30
+    dip: 30
+    mil: 30
+    religion: shinto
+    culture: saigoku_culture
+  1576.11.5:
+    death: yes
+htk_akitaka_hatakeyama:
+  1534.1.1:
+    birth: indrapura #TODO: Date and location guessed, check if better data is available
+    first_name: akitaka
+    dynasty: hatakeyama_dynasty
+    adm: 30
+    dip: 30
+    mil: 30
+    religion: shinto
+    culture: saigoku_culture
+  1573.7.23:
+    death: yes
+htk_masanao_hatakeyama:
+  1533.1.1:
+    birth: indrapura #TODO: Date and location guessed, check if better data is available
+    first_name: masanao
+    dynasty: hatakeyama_dynasty
+    adm: 15
+    dip: 15
+    mil: 15
+    religion: shinto
+    culture: saigoku_culture
+  3000.1.1:
+    death: yes

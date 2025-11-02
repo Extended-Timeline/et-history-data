@@ -1,0 +1,71 @@
+#imported from EU4 file: history/provinces/1196 - Kilwa.txt
+2.1.1:
+  pop:
+    ethnicity: sandawe_culture
+    religion: bantu_religion
+    estate: peasant
+    size: 1000
+300.1.1:
+  pop:
+    ethnicity: swahili_culture
+    estate: peasant
+    size: 1000
+850.1.1:
+  owner: ZAN
+  controller: ZAN
+  cores:
+    ZAN: yes
+  resource: gold
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+1513.1.1:
+  resource: ivory
+1710.1.1:
+  owner: OMA
+  controller: OMA
+  cores:
+    OMA: yes
+1730.1.1:
+  controller: OMA
+1751.1.1:
+  owner: MBA
+  controller: MBA
+  cores:
+    OMA: no
+    MBA: yes
+1760.1.1:
+  resource: slaves
+1785.1.1:
+  owner: OMA
+  controller: OMA
+  cores:
+    OMA: yes
+1856.10.19:
+  owner: ZZB
+  controller: ZZB
+  cores:
+    OMA: no
+    MBA: no
+    ZZB: yes
+1885.2.27:
+  owner: GER
+  controller: GER
+  cores:
+    ZZB: no
+    GER: yes
+  resource: gold
+1919.6.28:
+  owner: GBR
+  controller: GBR
+  cores:
+    GER: no
+    GBR: yes
+1961.12.9:
+  owner: TANZ
+  controller: TANZ
+  cores:
+    GBR: no
+    ZAN: no
+    TANZ: yes

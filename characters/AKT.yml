@@ -1,0 +1,259 @@
+akt_sadasue_ando:
+  1270.1.1:
+    birth: kamiura #TODO: Date and location guessed, check if better data is available
+    first_name: sadasue
+    dynasty: ando_dynasty
+    adm: 60
+    dip: 45
+    mil: 15
+    religion: shinto
+    culture: saigoku_culture
+  1318.1.1:
+    death: yes
+akt_suenaga_ando:
+  1288.1.1:
+    birth: kamiura #TODO: Date and location guessed, check if better data is available
+    first_name: suenaga
+    dynasty: ando_dynasty
+    adm: 75
+    dip: 15
+    mil: 45
+    religion: shinto
+    culture: saigoku_culture
+  1325.7.16:
+    death: yes
+akt_munesue_ando:
+  1295.1.1:
+    birth: kamiura #TODO: Date and location guessed, check if better data is available
+    first_name: munesue
+    dynasty: ando_dynasty
+    adm: 0
+    dip: 60
+    mil: 30
+    religion: shinto
+    culture: saigoku_culture
+  1330.6.30:
+    death: yes
+akt_morosue_ando:
+  1300.1.1:
+    birth: kamiura #TODO: Date and location guessed, check if better data is available
+    first_name: morosue
+    dynasty: ando_dynasty
+    adm: 75
+    dip: 0
+    mil: 30
+    religion: shinto
+    culture: saigoku_culture
+  1360.1.1:
+    death: yes
+akt_norisue_ando:
+  1330.1.1:
+    birth: kamiura #TODO: Date and location guessed, check if better data is available
+    first_name: norisue
+    dynasty: ando_dynasty
+    adm: 30
+    dip: 60
+    mil: 30
+    religion: shinto
+    culture: saigoku_culture
+  1398.1.1:
+    death: yes
+akt_morisue_ando:
+  1380.1.1:
+    birth: kamiura #TODO: Date and location guessed, check if better data is available
+    first_name: morisue
+    dynasty: ando_dynasty
+    father: akt_norisue_ando #TODO: check if this makes sense
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: shinto
+    culture: saigoku_culture
+  1443.1.1:
+    death: yes
+akt_morisue_ando_1:
+  1368.1.1:
+    birth: kamiura #TODO: Date and location guessed, check if better data is available
+    first_name: morisue
+    dynasty: ando_dynasty
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: shinto
+    culture: saigoku_culture
+  1443.1.1:
+    death: yes
+akt_yasusue_ando:
+  1400.1.1:
+    birth: kamiura #TODO: Date and location guessed, check if better data is available
+    first_name: yasusue
+    dynasty: ando_dynasty
+    father: akt_morisue_ando_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: shinto
+    culture: saigoku_culture
+  1446.1.1:
+    death: yes
+akt_yasusue_ando_1:
+  1413.1.1:
+    birth: kamiura #TODO: Date and location guessed, check if better data is available
+    first_name: yasusue
+    dynasty: ando_dynasty
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: shinto
+    culture: saigoku_culture
+  1446.1.1:
+    death: yes
+akt_yoshisue_ando:
+  1420.1.1:
+    birth: kamiura #TODO: Date and location guessed, check if better data is available
+    first_name: yoshisue
+    dynasty: ando_dynasty
+    father: akt_yasusue_ando_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 45
+    mil: 30
+    religion: shinto
+    culture: saigoku_culture
+  1453.1.1:
+    death: yes
+akt_yoshisue_ando_1:
+  1416.1.1:
+    birth: kamiura #TODO: Date and location guessed, check if better data is available
+    first_name: yoshisue
+    dynasty: ando_dynasty
+    adm: 30
+    dip: 30
+    mil: 30
+    religion: shinto
+    culture: saigoku_culture
+  1453.1.1:
+    death: yes
+akt_masasue_ando:
+  1430.1.1:
+    birth: kamiura #TODO: Date and location guessed, check if better data is available
+    first_name: masasue
+    dynasty: ando_dynasty
+    father: akt_yoshisue_ando_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: shinto
+    culture: saigoku_culture
+  1488.9.15:
+    death: yes
+akt_masasue_ando_1:
+  1423.1.1:
+    birth: kamiura #TODO: Date and location guessed, check if better data is available
+    first_name: masasue
+    dynasty: ando_dynasty
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: shinto
+    culture: saigoku_culture
+  1488.9.15:
+    death: yes
+akt_tadasue_ando:
+  1450.1.1:
+    birth: kamiura #TODO: Date and location guessed, check if better data is available
+    first_name: tadasue
+    dynasty: ando_dynasty
+    father: akt_masasue_ando_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 30
+    mil: 30
+    religion: shinto
+    culture: saigoku_culture
+  1511.8.19:
+    death: yes
+akt_tadasue_ando_1:
+  1458.1.1:
+    birth: kamiura #TODO: Date and location guessed, check if better data is available
+    first_name: tadasue
+    dynasty: ando_dynasty
+    adm: 30
+    dip: 30
+    mil: 30
+    religion: shinto
+    culture: saigoku_culture
+  1511.8.19:
+    death: yes
+akt_hirosue_ando:
+  1480.1.1:
+    birth: kamiura #TODO: Date and location guessed, check if better data is available
+    first_name: hirosue
+    dynasty: ando_dynasty
+    father: akt_tadasue_ando_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 45
+    mil: 45
+    religion: shinto
+    culture: saigoku_culture
+  1547.2.27:
+    death: yes
+akt_hirosue_ando_1:
+  1481.1.1:
+    birth: kamiura #TODO: Date and location guessed, check if better data is available
+    first_name: hirosue
+    dynasty: ando_dynasty
+    adm: 30
+    dip: 45
+    mil: 45
+    religion: shinto
+    culture: saigoku_culture
+  1547.2.27:
+    death: yes
+akt_kiyosue_ando:
+  1514.1.1:
+    birth: kamiura #TODO: Date and location guessed, check if better data is available
+    first_name: kiyosue
+    dynasty: ando_dynasty
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: shinto
+    culture: saigoku_culture
+  1553.9.18:
+    death: yes
+akt_chikasue_ando:
+  1539.1.1:
+    birth: kamiura #TODO: Date and location guessed, check if better data is available
+    first_name: chikasue
+    dynasty: ando_dynasty
+    adm: 45
+    dip: 60
+    mil: 60
+    religion: shinto
+    culture: saigoku_culture
+  1587.10.2:
+    death: yes
+akt_sanesue_akita:
+  1576.1.1:
+    birth: kamiura #TODO: Date and location guessed, check if better data is available
+    first_name: sanesue
+    dynasty: akita_dynasty
+    father: akt_chikasue_ando #TODO: check if this makes sense
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: shinto
+    culture: saigoku_culture
+  1660.1.11:
+    death: yes
+akt_sanesue_ando:
+  1576.1.1:
+    birth: kamiura #TODO: Date and location guessed, check if better data is available
+    first_name: sanesue
+    dynasty: ando_dynasty
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: shinto
+    culture: saigoku_culture
+  3000.1.1:
+    death: yes

@@ -1,0 +1,54 @@
+#imported from EU4 file: history/provinces/1148 - Gobir.txt
+2.1.1:
+  pop:
+    ethnicity: hausa
+    religion: bantu_religion
+    estate: peasant
+    size: 1000
+523.1.1:
+  owner: GOB
+  controller: GOB
+  cores:
+    GOB: yes
+  resource: iron
+1360.1.1:
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+1514.1.1:
+  owner: SON
+  controller: SON
+  cores:
+    SON: yes
+1516.1.1:
+  owner: KEB
+  controller: KEB
+  cores:
+    SON: no
+    KEB: yes
+1556.1.1:
+  owner: GOB
+  controller: GOB
+  cores:
+    KEB: no
+1808.10.1:
+  owner: SOKO
+  controller: SOKO
+  cores:
+    SOKO: yes
+1810.1.1:
+  cores:
+    KEB: no
+1903.1.1:
+  owner: GBR
+  controller: GBR
+  cores:
+    GBR: yes
+1960.10.1:
+  owner: NIGR
+  controller: NIGR
+  cores:
+    GBR: no
+    SOKO: no
+    NIGR: yes

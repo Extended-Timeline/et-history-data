@@ -1,0 +1,43 @@
+#imported from EU4 file: history/provinces/1125 - Kong.txt
+2.1.1:
+  pop:
+    ethnicity: dyula
+    religion: bantu_religion
+    estate: peasant
+    size: 1000
+1150.1.1:
+  owner: KNG
+  controller: KNG
+  cores:
+    KNG: yes
+  resource: ivory
+1735.1.1:
+  cores:
+    ASHA: yes
+1860.1.1:
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+1898.1.1:
+  owner: FRA
+  controller: FRA
+  cores:
+    FRA: yes
+1940.6.14:
+  owner: VFRA
+  controller: VFRA
+  cores:
+    VFRA: yes
+1942.11.16:
+  owner: FRA
+  controller: FRA
+  cores:
+    VFRA: no
+1960.8.7:
+  owner: IVOR
+  controller: IVOR
+  cores:
+    FRA: no
+    KNG: no
+    IVOR: yes

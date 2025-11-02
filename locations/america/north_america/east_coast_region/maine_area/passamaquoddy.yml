@@ -1,0 +1,123 @@
+#imported from EU4 file: history/provinces/2566 - Passamaquoddy.txt
+2.1.1:
+  pop:
+    ethnicity: wolastoqiyik_culture
+    religion: iroquoian_totemism
+    estate: peasant
+    size: 1000
+1613.1.1:
+  owner: FRA
+  controller: FRA
+  cores:
+    FRA: yes
+  resource: fish
+  pop:
+    ethnicity: french
+    religion: catholic
+    estate: peasant
+    size: 1000
+1626.1.1:
+  owner: ENG
+  controller: ENG
+  cores:
+    FRA: no
+    ENG: yes
+  pop:
+    ethnicity: english
+    religion: lutheran
+    estate: peasant
+    size: 1000
+1632.3.29:
+  owner: FRA
+  controller: FRA
+  cores:
+    ENG: no
+    FRA: yes
+  pop:
+    ethnicity: french
+    religion: catholic
+    estate: peasant
+    size: 1000
+1654.1.1:
+  owner: ENG
+  controller: ENG
+  cores:
+    FRA: no
+    ENG: yes
+  pop:
+    ethnicity: english
+    religion: lutheran
+    estate: peasant
+    size: 1000
+1670.1.1:
+  owner: FRA
+  controller: FRA
+  cores:
+    ENG: no
+    FRA: yes
+  pop:
+    ethnicity: french
+    religion: catholic
+    estate: peasant
+    size: 1000
+1674.1.1:
+  owner: NED
+  controller: NED
+  cores:
+    FRA: no
+    NED: yes
+  pop:
+    ethnicity: low_franconian
+    religion: calvinist
+    estate: peasant
+    size: 1000
+1676.1.1:
+  owner: FRA
+  controller: FRA
+  cores:
+    NED: no
+    FRA: yes
+  pop:
+    ethnicity: french
+    religion: catholic
+    estate: peasant
+    size: 1000
+1698.1.1:
+  owner: ABEN
+  controller: ABEN
+  cores:
+    FRA: no
+    ABEN: yes
+  pop:
+    ethnicity: eastern_abenaki_culture
+    estate: peasant
+    size: 1000
+1727.1.1:
+  owner: MLS
+  controller: MLS
+  cores:
+    ABEN: no
+    MLS: yes
+  pop:
+    ethnicity: wolastoqiyik_culture
+    estate: peasant
+    size: 1000
+1763.1.1:
+  owner: GBR
+  controller: GBR
+  cores:
+    GBR: yes
+  pop:
+    ethnicity: american
+    religion: lutheran
+    estate: peasant
+    size: 1000
+1776.7.4:
+  owner: USA
+  controller: USA
+  cores:
+    GBR: no
+    USA: yes
+1801.7.4:
+  cores:
+    USA: yes

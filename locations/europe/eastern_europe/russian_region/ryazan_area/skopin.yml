@@ -1,0 +1,73 @@
+#imported from EU4 file: history/provinces/4255 - Pronsk.txt
+2.1.1:
+  pop:
+    ethnicity: hungarian
+    religion: 
+    estate: peasant
+    size: 1000
+600.1.1:
+  owner: HUN
+  controller: HUN
+  cores:
+    HUN: yes
+  resource: iron
+720.1.1:
+  owner: MESC
+  controller: MESC
+  cores:
+    HUN: no
+    MESC: yes
+  pop:
+    ethnicity: meschera_culture
+    religion: muinaisusko
+    estate: peasant
+    size: 1000
+1000.1.1:
+  owner: KIEV
+  controller: KIEV
+  cores:
+    MESC: no
+    KIEV: yes
+1050.1.1:
+  pop:
+    ethnicity: muscovite
+    estate: peasant
+    size: 1000
+1054.2.20:
+  owner: CHR
+  controller: CHR
+  cores:
+    KIEV: no
+    CHR: yes
+1090.1.1:
+  pop:
+    religion: orthodox
+    estate: peasant
+    size: 1000
+1097.1.1:
+  owner: RYA
+  controller: RYA
+  cores:
+    CHR: no
+    RYA: yes
+1521.8.1:
+  owner: RUS
+  controller: RUS
+  cores:
+    RYA: no
+    RUS: yes
+1850.1.1:
+  cores:
+    RYA: no
+1922.12.30:
+  owner: SOVI
+  controller: SOVI
+  cores:
+    RUS: no
+    SOVI: yes
+1991.12.25:
+  owner: RUS
+  controller: RUS
+  cores:
+    SOVI: no
+    RUS: yes

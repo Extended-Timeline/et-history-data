@@ -1,0 +1,112 @@
+#imported from EU4 file: history/provinces/546 - East Berar.txt
+2.1.1:
+  owner: SATA
+  controller: SATA
+  cores:
+    SATA: yes
+  resource: cotton
+  pop:
+    ethnicity: gond
+    religion: mahayana
+    estate: peasant
+    size: 1000
+220.1.1:
+  owner: ABHI
+  controller: ABHI
+  cores:
+    SATA: no
+    ABHI: yes
+250.1.1:
+  owner: VAKA
+  controller: VAKA
+  cores:
+    ABHI: no
+    VAKA: yes
+280.1.1:
+  pop:
+    religion: hindu
+    estate: peasant
+    size: 1000
+500.1.1:
+  owner: RDY
+  controller: RDY
+  cores:
+    VAKA: no
+    RDY: yes
+616.1.1:
+  owner: CHAL
+  controller: CHAL
+  cores:
+    RDY: no
+    CHAL: yes
+753.1.1:
+  owner: RAST
+  controller: RAST
+  cores:
+    CHAL: no
+    RAST: yes
+973.1.1:
+  owner: CHAL
+  controller: CHAL
+  cores:
+    RAST: no
+    CHAL: yes
+1189.1.1:
+  owner: YADA
+  controller: YADA
+  cores:
+    CHAL: no
+    YADA: yes
+1250.1.1:
+  owner: CHD
+  controller: CHD
+  cores:
+    YADA: no
+    CHD: yes
+1350.1.1:
+  owner: BAH
+  controller: BAH
+  cores:
+    CHD: no
+    BAH: yes
+1490.1.1:
+  owner: BERR
+  controller: BERR
+  cores:
+    BAH: no
+1572.1.1:
+  controller: AHMA
+1574.1.1:
+  owner: CHD
+  controller: CHD
+  cores:
+    CHD: yes
+1672.1.1:
+  owner: GOND
+  controller: GOND
+  cores:
+    GOND: yes
+1724.1.1:
+  owner: NAGP
+  controller: NAGP
+  cores:
+    NAGP: yes
+1741.1.1:
+  pop:
+    ethnicity: marathi_culture
+    estate: peasant
+    size: 1000
+1853.12.11:
+  owner: GBR
+  controller: GBR
+  cores:
+    GBR: yes
+1930.1.1:
+  cores:
+    GOND: no
+    INDI: yes
+1947.8.15:
+  owner: INDI
+  controller: INDI
+  cores:
+    GBR: no

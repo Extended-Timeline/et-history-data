@@ -1,0 +1,46 @@
+#imported from EU4 file: history/provinces/2278 - Kebbi.txt
+2.1.1:
+  pop:
+    ethnicity: hausa
+    religion: bantu_religion
+    estate: peasant
+    size: 1000
+523.1.1:
+  owner: KEB
+  controller: KEB
+  cores:
+    KEB: yes
+  resource: grain
+1440.1.1:
+  owner: SON
+  controller: SON
+  cores:
+    SON: yes
+1516.1.1:
+  owner: KEB
+  controller: KEB
+  cores:
+    SON: no
+    KEB: yes
+1831.1.1:
+  owner: SOKO
+  controller: SOKO
+  cores:
+    SOKO: yes
+1849.1.1:
+  owner: KEB
+  controller: KEB
+  cores:
+    SOKO: no
+1903.1.1:
+  owner: GBR
+  controller: GBR
+  cores:
+    GBR: yes
+1960.10.1:
+  owner: NIGR
+  controller: NIGR
+  cores:
+    GBR: no
+    SOKO: no
+    NIGR: yes

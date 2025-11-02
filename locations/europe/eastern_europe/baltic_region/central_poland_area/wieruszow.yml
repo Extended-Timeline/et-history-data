@@ -1,0 +1,98 @@
+#imported from EU4 file: history/provinces/4533 - Wielun.txt
+2.1.1:
+  owner: VAND
+  controller: VAND
+  cores:
+    VAND: yes
+  resource: cloth
+  pop:
+    ethnicity: vandal
+    religion: germanic
+    estate: peasant
+    size: 1000
+395.1.1:
+  owner: NAHA
+  controller: NAHA
+  cores:
+    VAND: no
+    NAHA: yes
+500.1.1:
+  owner: VIST
+  controller: VIST
+  cores:
+    NAHA: no
+    VIST: yes
+  pop:
+    ethnicity: lesser_polish
+    religion: slavic
+    estate: peasant
+    size: 1000
+550.1.1:
+  owner: POL
+  controller: POL
+  cores:
+    POL: yes
+966.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+1249.1.1:
+  owner: GPOL
+  controller: GPOL
+  cores:
+    GPOL: yes
+1290.1.1:
+  owner: POL
+  controller: POL
+  cores:
+    POL: yes
+1569.7.1:
+  owner: PLC
+  controller: PLC
+  cores:
+    PLC: yes
+    POL: no
+1589.1.1:
+  controller: PLC
+1608.1.1:
+  controller: PLC
+1655.1.1:
+  controller: SWE
+1660.1.1:
+  controller: PLC
+1735.1.1:
+  controller: PLC
+1795.10.24:
+  owner: HAB
+  controller: HAB
+  cores:
+    HAB: yes
+1807.7.9:
+  owner: POL
+  controller: POL
+  cores:
+    HAB: no
+    POL: yes
+1812.12.12:
+  controller: RUS
+1814.4.11:
+  owner: RUS
+  cores:
+    RUS: yes
+1914.12.6:
+  controller: GER
+1918.3.3:
+  owner: POL
+  controller: POL
+  cores:
+    RUS: no
+1939.9.8:
+  controller: GER
+1939.10.6:
+  owner: GER
+1945.1.18:
+  controller: SOVI
+1945.5.8:
+  owner: POL
+  controller: POL

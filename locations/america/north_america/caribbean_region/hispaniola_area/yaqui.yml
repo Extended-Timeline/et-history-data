@@ -1,0 +1,55 @@
+#imported from EU4 file: history/provinces/2659 - Magua.txt
+2.1.1:
+  pop:
+    ethnicity: arawak_culture
+    religion: muisca_religion
+    estate: peasant
+    size: 1000
+1502.1.1:
+  owner: CAS
+  controller: CAS
+  cores:
+    CAS: yes
+  resource: sugar
+  pop:
+    ethnicity: castilian
+    religion: catholic
+    estate: peasant
+    size: 1000
+1516.1.23:
+  owner: SPA
+  controller: SPA
+  cores:
+    CAS: no
+    SPA: yes
+1780.1.1:
+  pop:
+    ethnicity: iberian_caribbean
+    estate: peasant
+    size: 1000
+1821.12.1:
+  owner: DOMR
+  controller: DOMR
+  cores:
+    SPA: no
+    DOMR: yes
+1822.2.9:
+  owner: HAIT
+  controller: HAIT
+  cores:
+    HAIT: yes
+1844.2.17:
+  owner: DOMR
+  controller: DOMR
+  cores:
+    HAIT: no
+1861.3.18:
+  owner: SPA
+  controller: SPA
+  cores:
+    SPA: yes
+1865.8.16:
+  owner: DOMR
+  controller: DOMR
+  cores:
+    SPA: no

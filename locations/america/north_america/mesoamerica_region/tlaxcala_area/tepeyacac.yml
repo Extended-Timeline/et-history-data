@@ -1,0 +1,61 @@
+#imported from EU4 file: history/provinces/2628 - Tepeacac.txt
+2.1.1:
+  owner: CLL
+  controller: CLL
+  cores:
+    CLL: yes
+  resource: grain
+  pop:
+    ethnicity: nahua_culture
+    religion: nahuatl
+    estate: peasant
+    size: 1000
+650.1.1:
+  owner: XICA
+  controller: XICA
+  cores:
+    XICA: yes
+900.1.1:
+  owner: TOLT
+  controller: TOLT
+  cores:
+    TOLT: yes
+1250.1.1:
+  owner: TEO
+  controller: TEO
+  cores:
+    TOLT: no
+    TEO: yes
+1470.1.1:
+  owner: AZTE
+  controller: AZTE
+  cores:
+    AZTE: yes
+1521.8.13:
+  owner: SPA
+  controller: SPA
+  cores:
+    SPA: yes
+  pop:
+    ethnicity: castilian
+    religion: catholic
+    estate: peasant
+    size: 1000
+1770.1.1:
+  pop:
+    ethnicity: mexican
+    estate: peasant
+    size: 1000
+1810.9.16:
+  owner: MEX
+  controller: MEX
+  cores:
+    MEX: yes
+1821.9.27:
+  controller: MEX
+  cores:
+    SPA: no
+1847.3.1:
+  controller: USA
+1848.2.2:
+  controller: MEX

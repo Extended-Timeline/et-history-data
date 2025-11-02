@@ -1,0 +1,123 @@
+#imported from EU4 file: history/provinces/246 - Northumberland.txt
+2.1.1:
+  owner: BRIG
+  controller: BRIG
+  cores:
+    BRIG: yes
+  resource: wool
+  pop:
+    ethnicity: briton
+    religion: druidism
+    estate: peasant
+    size: 1000
+78.1.1:
+  owner: ROM
+  controller: ROM
+  cores:
+    ROM: yes
+380.1.1:
+  cores:
+    BRIG: no
+    BERN: yes
+395.1.17:
+  owner: ROMW
+  controller: ROMW
+  cores:
+    ROM: no
+    ROMW: yes
+410.1.1:
+  owner: BERN
+  controller: BERN
+  cores:
+    ROMW: no
+    BRIG: no
+    BERN: yes
+  pop:
+    ethnicity: welsh
+    estate: peasant
+    size: 1000
+547.1.1:
+  pop:
+    ethnicity: anglo_saxon
+    religion: germanic
+    estate: peasant
+    size: 1000
+630.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+634.1.1:
+  owner: NOL
+  controller: NOL
+  cores:
+    BERN: no
+    NOL: yes
+867.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+875.1.1:
+  owner: BERN
+  controller: BERN
+  cores:
+    NOL: no
+    BERN: yes
+910.1.1:
+  owner: NOL
+  controller: NOL
+  cores:
+    NOL: yes
+918.1.1:
+  owner: BERN
+  controller: BERN
+  cores:
+    NOL: no
+934.1.1:
+  owner: ENG
+  controller: ENG
+  cores:
+    BERN: no
+    ENG: yes
+939.1.1:
+  owner: NOL
+  controller: NOL
+944.1.1:
+  owner: ENG
+  controller: ENG
+947.1.1:
+  owner: NOL
+  controller: NOL
+954.1.1:
+  owner: ENG
+  controller: ENG
+1066.12.25:
+  pop:
+    ethnicity: english
+    estate: peasant
+    size: 1000
+1464.6.1:
+  controller: ENG
+1585.1.1:
+  pop:
+    religion: lutheran
+    estate: peasant
+    size: 1000
+1640.10.1:
+  controller: SCO
+1640.10.26:
+  controller: ENG
+1644.4.15:
+  controller: SCO
+1646.5.5:
+  controller: ENG
+1707.5.12:
+  owner: GBR
+  controller: GBR
+  cores:
+    ENG: no
+    GBR: yes
+1850.1.1:
+  cores:
+    NOL: no

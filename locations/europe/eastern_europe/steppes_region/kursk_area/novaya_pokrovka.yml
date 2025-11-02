@@ -1,0 +1,152 @@
+#imported from EU4 file: history/provinces/299 - Voronezh.txt
+2.1.1:
+  owner: SARM
+  controller: SARM
+  cores:
+    SARM: yes
+  resource: livestock
+  pop:
+    ethnicity: sarmatian
+    religion: 
+    estate: peasant
+    size: 1000
+350.1.1:
+  owner: HUNS
+  controller: HUNS
+  cores:
+    SARM: no
+    HUNS: yes
+  pop:
+    ethnicity: hunnic
+    estate: peasant
+    size: 1000
+420.1.1:
+  cores:
+    ONOG: yes
+  pop:
+    ethnicity: bolghar_culture
+    estate: peasant
+    size: 1000
+469.1.1:
+  owner: ONOG
+  controller: ONOG
+  cores:
+    HUNS: no
+632.1.1:
+  owner: HUN
+  controller: HUN
+  cores:
+    ONOG: no
+    BUL: yes
+    HUN: yes
+  pop:
+    ethnicity: hungarian
+    estate: peasant
+    size: 1000
+750.1.1:
+  owner: BURT
+  controller: BURT
+  cores:
+    HUN: no
+    BURT: yes
+  pop:
+    ethnicity: moksha_culture
+    estate: peasant
+    size: 1000
+969.1.1:
+  owner: PECH
+  controller: PECH
+  cores:
+    BURT: no
+    PECH: yes
+  pop:
+    ethnicity: cuman_culture
+    estate: peasant
+    size: 1000
+1055.1.1:
+  owner: CUMA
+  controller: CUMA
+  cores:
+    PECH: no
+    CUMA: yes
+1237.1.1:
+  owner: MGE
+  controller: MGE
+  cores:
+    CUMA: no
+    MGE: yes
+  pop:
+    ethnicity: crimean
+    estate: peasant
+    size: 1000
+1260.1.1:
+  owner: WHHO
+  controller: WHHO
+  cores:
+    MGE: no
+    WHHO: yes
+1280.1.1:
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+1372.1.1:
+  owner: BLHO
+  controller: BLHO
+  cores:
+    BLHO: yes
+1374.1.1:
+  owner: WHHO
+  controller: WHHO
+  cores:
+    BLHO: no
+1378.1.1:
+  owner: GLH
+  controller: GLH
+  cores:
+    GLH: yes
+1441.1.1:
+  cores:
+    CRIM: yes
+1442.1.1:
+  owner: GRHO
+  controller: GRHO
+  cores:
+    GLH: no
+    GRHO: yes
+1502.6.1:
+  owner: CRIM
+  controller: CRIM
+  cores:
+    GRHO: no
+1572.8.2:
+  owner: RUS
+  controller: RUS
+  cores:
+    CRIM: no
+    RUS: yes
+1600.1.1:
+  pop:
+    ethnicity: muscovite
+    religion: orthodox
+    estate: peasant
+    size: 1000
+1850.1.1:
+  cores:
+    CRIM: no
+1922.12.30:
+  owner: SOVI
+  controller: SOVI
+  cores:
+    RUS: no
+    SOVI: yes
+1941.7.24:
+  controller: GER
+1943.1.25:
+  controller: SOVI
+1991.12.25:
+  owner: RUS
+  controller: RUS
+  cores:
+    SOVI: no
+    RUS: yes

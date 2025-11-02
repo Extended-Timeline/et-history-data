@@ -1,0 +1,105 @@
+#imported from EU4 file: history/provinces/100 - Friesland.txt
+2.1.1:
+  owner: FRI
+  controller: FRI
+  cores:
+    FRI: yes
+  resource: livestock
+  pop:
+    ethnicity: frisian
+    religion: germanic
+    estate: peasant
+    size: 1000
+734.1.1:
+  owner: FRAN
+  controller: FRAN
+  cores:
+    FRAN: yes
+800.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+839.1.1:
+  owner: FRI
+  controller: FRI
+  cores:
+    FRAN: no
+    FRI: yes
+867.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+922.1.1:
+  owner: HOL
+  controller: HOL
+  cores:
+    HOL: yes
+993.9.18:
+  owner: FRI
+  controller: FRI
+  cores:
+    HOL: no
+    FRI: yes
+1445.1.1:
+  cores:
+    BUR: yes
+1473.2.23:
+  owner: BUR
+  controller: BUR
+1477.1.5:
+  owner: FRI
+  controller: FRI
+  cores:
+    BUR: no
+    HAB: yes
+1498.1.1:
+  owner: SAX
+  controller: SAX
+1515.5.15:
+  owner: HAB
+1519.1.12:
+  owner: SPA
+  cores:
+    HAB: no
+    SPA: yes
+1524.1.1:
+  controller: SPA
+1536.1.1:
+  pop:
+    religion: calvinist
+    estate: peasant
+    size: 1000
+1549.11.4:
+  owner: NED
+  controller: NED
+  cores:
+    SPA: no
+    NED: yes
+1568.7.21:
+  controller: SPA
+1579.1.23:
+  controller: NED
+1810.7.10:
+  owner: FRA
+  controller: FRA
+  cores:
+    FRA: yes
+1813.11.30:
+  owner: NED
+  controller: NED
+  cores:
+    FRA: no
+1900.1.1:
+  cores:
+    FRI: no
+1940.5.14:
+  controller: GER
+1940.5.17:
+  owner: GER
+1945.4.18:
+  controller: GBR
+1945.5.5:
+  owner: NED
+  controller: NED

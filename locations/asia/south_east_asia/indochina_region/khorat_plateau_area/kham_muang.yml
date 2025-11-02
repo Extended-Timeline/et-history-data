@@ -1,0 +1,72 @@
+#imported from EU4 file: history/provinces/2384 - Nong Khai.txt
+2.1.1:
+  pop:
+    ethnicity: bru_culture
+    religion: bimoism
+    estate: peasant
+    size: 1000
+550.1.1:
+  owner: SGOT
+  controller: SGOT
+  cores:
+    SGOT: yes
+  resource: silk
+880.1.1:
+  owner: CAMB
+  controller: CAMB
+  cores:
+    CAMB: yes
+1050.1.1:
+  owner: SGOT
+  controller: SGOT
+  cores:
+    CAMB: no
+    SGOT: yes
+1185.1.1:
+  owner: CAMB
+  controller: CAMB
+  cores:
+    CAMB: yes
+1195.1.1:
+  owner: SGOT
+  controller: SGOT
+  cores:
+    CAMB: no
+    SGOT: yes
+1300.1.1:
+  pop:
+    ethnicity: lao_culture
+    religion: satsana_phi
+    estate: peasant
+    size: 1000
+1310.1.1:
+  pop:
+    religion: theravada
+    estate: peasant
+    size: 1000
+1354.1.1:
+  owner: LAXA
+  controller: LAXA
+  cores:
+    LAXA: yes
+1380.1.1:
+  cores:
+    AYU: yes
+1707.1.1:
+  owner: VTN
+  controller: VTN
+  cores:
+    LAXA: no
+    VTN: yes
+1828.11.12:
+  owner: RTP
+  controller: RTP
+  cores:
+    VTN: no
+    RTP: yes
+1932.7.24:
+  owner: SIA
+  controller: SIA
+  cores:
+    RTP: no
+    SIA: yes

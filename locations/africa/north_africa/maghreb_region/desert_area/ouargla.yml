@@ -1,0 +1,59 @@
+#imported from EU4 file: history/provinces/2472 - Ouargla.txt
+2.1.1:
+  owner: MZB
+  controller: MZB
+  cores:
+    MZB: yes
+  resource: slaves
+  pop:
+    ethnicity: zenati
+    religion: bantu_religion
+    estate: peasant
+    size: 1000
+660.1.1:
+  owner: AURE
+  controller: AURE
+  cores:
+    MZB: no
+    AURE: yes
+777.1.1:
+  owner: MZB
+  controller: MZB
+  cores:
+    MZB: yes
+780.1.1:
+  pop:
+    religion: ibadi
+    estate: peasant
+    size: 1000
+909.1.1:
+  owner: TGT
+  controller: TGT
+  cores:
+    MZB: no
+    TGT: yes
+1901.1.1:
+  owner: FRA
+  controller: FRA
+  cores:
+    TGT: no
+    FRA: yes
+    ALG: yes
+  resource: grain
+1940.6.14:
+  owner: VFRA
+  controller: VFRA
+  cores:
+    VFRA: yes
+1942.11.16:
+  owner: FRA
+  controller: FRA
+  cores:
+    VFRA: no
+1954.1.1:
+  resource: oil
+1962.7.3:
+  owner: ALG
+  controller: ALG
+  cores:
+    FRA: no

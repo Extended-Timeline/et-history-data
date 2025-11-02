@@ -1,0 +1,102 @@
+#imported from EU4 file: history/provinces/254 - Poznan.txt
+2.1.1:
+  owner: BUR
+  controller: BUR
+  cores:
+    BUR: yes
+  resource: salt
+  pop:
+    ethnicity: burgundione
+    religion: germanic
+    estate: peasant
+    size: 1000
+280.1.1:
+  owner: LEMO
+  controller: LEMO
+  cores:
+    BUR: no
+    LEMO: yes
+  pop:
+    ethnicity: western_pomeranian
+    estate: peasant
+    size: 1000
+395.1.1:
+  owner: POL
+  controller: POL
+  cores:
+    LEMO: no
+    POL: yes
+  pop:
+    ethnicity: lesser_polish
+    religion: slavic
+    estate: peasant
+    size: 1000
+966.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+1138.10.28:
+  owner: GPOL
+  controller: GPOL
+  cores:
+    GPOL: yes
+1290.1.1:
+  owner: POL
+  controller: POL
+  cores:
+    POL: yes
+1530.1.1:
+  resource: paper
+1569.7.1:
+  owner: PLC
+  controller: PLC
+  cores:
+    PLC: yes
+    POL: no
+1589.1.1:
+  controller: PLC
+1655.1.1:
+  controller: SWE
+1660.1.1:
+  controller: PLC
+1735.1.1:
+  controller: PLC
+1793.1.23:
+  owner: PRU
+  controller: PRU
+  cores:
+    PRU: yes
+1794.11.16:
+  controller: PRU
+1807.7.9:
+  owner: POL
+  controller: POL
+  cores:
+    PRU: no
+    POL: yes
+1813.3.17:
+  controller: PRU
+1814.4.11:
+  owner: PRU
+  cores:
+    PRU: yes
+1871.1.18:
+  owner: GER
+  controller: GER
+  cores:
+    PRU: no
+    GER: yes
+1919.6.28:
+  owner: POL
+  controller: POL
+1939.10.6:
+  owner: GER
+  controller: GER
+1945.2.23:
+  controller: SOVI
+1945.5.8:
+  owner: POL
+  controller: POL
+  cores:
+    GER: no

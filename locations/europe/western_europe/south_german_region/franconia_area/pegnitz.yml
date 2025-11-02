@@ -1,0 +1,100 @@
+#imported from EU4 file: history/provinces/66 - Bamberg.txt
+2.1.1:
+  owner: VARI
+  controller: VARI
+  cores:
+    VARI: yes
+  resource: wine
+  pop:
+    ethnicity: swabian
+    religion: germanic
+    estate: peasant
+    size: 1000
+260.1.1:
+  owner: HERM
+  controller: HERM
+  cores:
+    VARI: no
+    HERM: yes
+  pop:
+    ethnicity: east_franconian
+    estate: peasant
+    size: 1000
+395.1.1:
+  owner: THU
+  controller: THU
+  cores:
+    HERM: no
+    THU: yes
+774.1.1:
+  owner: FRAN
+  controller: FRAN
+  cores:
+    FRAN: yes
+800.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+840.6.21:
+  owner: EFRA
+  controller: EFRA
+  cores:
+    FRAN: no
+    EFRA: yes
+849.1.1:
+  owner: THU
+  controller: THU
+  cores:
+    THU: yes
+867.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+908.8.3:
+  owner: EFRA
+  controller: EFRA
+  cores:
+    THU: no
+    EFRA: yes
+    FKN: yes
+911.11.10:
+  owner: FKN
+  controller: FKN
+  cores:
+    EFRA: no
+    FKN: yes
+1004.1.1:
+  owner: BAM
+  controller: BAM
+  cores:
+    FKN: no
+    BAM: yes
+1007.1.1:
+  cores:
+    THU: no
+1632.2.1:
+  controller: SWE
+1635.1.16:
+  controller: BAM
+1803.1.1:
+  owner: BAV
+  controller: BAV
+  cores:
+    BAV: yes
+1871.1.18:
+  owner: GER
+  controller: GER
+  cores:
+    GER: yes
+1945.5.8:
+  owner: WGER
+  controller: WGER
+  cores:
+    WGER: yes
+1990.10.3:
+  owner: GER
+  controller: GER
+  cores:
+    WGER: no

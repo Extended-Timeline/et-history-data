@@ -1,0 +1,135 @@
+#imported from EU4 file: history/provinces/1770 - Ostmarch.txt
+2.1.1:
+  owner: GOTI
+  controller: GOTI
+  cores:
+    GOTI: yes
+  resource: wine
+  pop:
+    ethnicity: pannonian
+    religion: druidism
+    estate: peasant
+    size: 1000
+173.1.1:
+  owner: MARC
+  controller: MARC
+  cores:
+    GOTI: no
+    MARC: yes
+  pop:
+    ethnicity: southern_bavarian
+    religion: germanic
+    estate: peasant
+    size: 1000
+454.1.1:
+  owner: RUGI
+  controller: RUGI
+  cores:
+    MARC: no
+    RUGI: yes
+460.1.1:
+  pop:
+    ethnicity: danube_bavarian
+    religion: arianism
+    estate: peasant
+    size: 1000
+487.1.1:
+  owner: ITA
+  controller: ITA
+489.1.1:
+  owner: LOMB
+  controller: LOMB
+  cores:
+    RUGI: no
+    LOMB: yes
+  pop:
+    ethnicity: langobardi
+    estate: peasant
+    size: 1000
+568.1.1:
+  owner: AVR
+  controller: AVR
+  cores:
+    LOMB: no
+    AVR: yes
+580.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+623.1.1:
+  owner: SAMO
+  controller: SAMO
+  cores:
+    AVR: no
+    SAMO: yes
+  pop:
+    ethnicity: czech
+    estate: peasant
+    size: 1000
+659.1.1:
+  owner: NITR
+  controller: NITR
+  cores:
+    SAMO: no
+    NITR: yes
+790.1.1:
+  owner: FRAN
+  controller: FRAN
+  cores:
+    NITR: no
+    FRAN: yes
+817.1.1:
+  owner: BAV
+  controller: BAV
+  cores:
+    FRAN: no
+    BAV: yes
+867.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+880.1.1:
+  owner: MVA
+  controller: MVA
+  cores:
+    BAV: no
+    MVA: yes
+894.1.1:
+  owner: BOH
+  controller: BOH
+  cores:
+    BOH: yes
+950.1.1:
+  pop:
+    ethnicity: danube_bavarian
+    estate: peasant
+    size: 1000
+960.1.1:
+  owner: HAB
+  controller: HAB
+  cores:
+    MVA: no
+    BOH: no
+    HAB: yes
+1260.7.1:
+  owner: BOH
+  controller: BOH
+  cores:
+    BOH: yes
+1278.8.26:
+  owner: HAB
+  controller: HAB
+  cores:
+    BOH: no
+1938.3.12:
+  owner: GER
+  controller: GER
+  cores:
+    GER: yes
+1945.5.8:
+  owner: HAB
+  controller: HAB
+  cores:
+    GER: no

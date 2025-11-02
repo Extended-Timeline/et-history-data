@@ -1,0 +1,95 @@
+#imported from EU4 file: history/provinces/2957 - Niederbayern.txt
+2.1.1:
+  owner: ROM
+  controller: ROM
+  cores:
+    ROM: yes
+  resource: cloth
+  pop:
+    ethnicity: swabian
+    religion: germanic
+    estate: peasant
+    size: 1000
+395.1.17:
+  owner: ROMW
+  controller: ROMW
+  cores:
+    ROM: no
+    ROMW: yes
+450.1.1:
+  owner: BAV
+  controller: BAV
+  cores:
+    BAV: yes
+  pop:
+    ethnicity: southern_bavarian
+    estate: peasant
+    size: 1000
+600.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+788.1.1:
+  owner: FRAN
+  controller: FRAN
+  cores:
+    FRAN: yes
+817.1.1:
+  owner: BAV
+  controller: BAV
+  cores:
+    FRAN: no
+    BAV: yes
+867.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+880.3.22:
+  owner: EFRA
+  controller: EFRA
+  cores:
+    EFRA: yes
+911.11.10:
+  owner: BAV
+  controller: BAV
+  cores:
+    EFRA: no
+    BAV: yes
+1245.1.1:
+  owner: REG
+  controller: REG
+  cores:
+    BAV: no
+    REG: yes
+1542.10.15:
+  pop:
+    religion: lutheran
+    estate: peasant
+    size: 1000
+1810.1.6:
+  owner: BAV
+  controller: BAV
+  cores:
+    BAV: yes
+1871.1.18:
+  owner: GER
+  controller: GER
+  cores:
+    GER: yes
+1900.1.1:
+  cores:
+    BAV: no
+1945.5.3:
+  controller: GBR
+1945.5.8:
+  owner: WGER
+  controller: WGER
+  cores:
+    WGER: yes
+1990.10.3:
+  owner: GER
+  controller: GER
+  cores:
+    WGER: no

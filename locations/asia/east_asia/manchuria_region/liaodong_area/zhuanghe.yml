@@ -1,0 +1,167 @@
+#imported from EU4 file: history/provinces/2113 - Gaizhou.txt
+2.1.1:
+  owner: HAN0
+  controller: HAN0
+  cores:
+    HAN0: yes
+    WEI0: yes
+  resource: fish
+  pop:
+    ethnicity: korean_culture
+    religion: sanjiao
+    estate: peasant
+    size: 1000
+9.1.10:
+  owner: XIN0
+  controller: XIN0
+  cores:
+    XIN0: yes
+23.10.5:
+  owner: HAN0
+  controller: HAN0
+  cores:
+    XIN0: no
+189.9.28:
+  owner: YAN0
+  controller: YAN0
+  cores:
+    HAN0: no
+    YAN0: yes
+238.1.1:
+  owner: WEI0
+  controller: WEI0
+  cores:
+    WEI0: yes
+265.2.4:
+  owner: JIN1
+  controller: JIN1
+  cores:
+    WEI0: no
+    JIN1: yes
+337.11.23:
+  owner: YAN0
+  controller: YAN0
+  cores:
+    JIN1: no
+    YAN0: yes
+370.12.11:
+  owner: QIN0
+  controller: QIN0
+  cores:
+    QIN0: yes
+384.1.1:
+  owner: YAN0
+  controller: YAN0
+  cores:
+    QIN0: no
+    YAN0: yes
+436.1.1:
+  owner: GOGU
+  controller: GOGU
+  cores:
+    YAN0: no
+    GOGU: yes
+668.10.1:
+  owner: TANG
+  controller: TANG
+  cores:
+    TANG: yes
+699.1.1:
+  owner: GOGU
+  controller: GOGU
+  cores:
+    TANG: no
+    GOGU: yes
+820.1.1:
+  owner: BALH
+  controller: BALH
+  cores:
+    GOGU: no
+    BALH: yes
+907.6.1:
+  owner: LIAO
+  controller: LIAO
+  cores:
+    BALH: no
+    LIAO: yes
+920.1.1:
+  pop:
+    ethnicity: khitan
+    estate: peasant
+    size: 1000
+1115.1.1:
+  owner: JIN0
+  controller: JIN0
+  cores:
+    LIAO: no
+    JIN0: yes
+1200.1.1:
+  pop:
+    ethnicity: jurchen_culture
+    estate: peasant
+    size: 1000
+1214.1.1:
+  owner: MGE
+  controller: MGE
+  cores:
+    JIN0: no
+    MGE: yes
+    CSH: yes
+1271.1.1:
+  owner: YUA
+  controller: YUA
+  cores:
+    MGE: no
+    YUA: yes
+1368.1.23:
+  owner: KHRC
+  controller: KHRC
+  cores:
+    YUA: no
+    KHRC: yes
+1387.7.14:
+  owner: MNG
+  controller: MNG
+  cores:
+    KHRC: no
+    MNG: yes
+1420.1.1:
+  pop:
+    ethnicity: shandong_culture
+    estate: peasant
+    size: 1000
+1620.1.1:
+  owner: MCH
+  controller: MCH
+  cores:
+    MNG: no
+    MCH: yes
+1636.5.15:
+  owner: QNG
+  controller: QNG
+  cores:
+    MCH: no
+    QNG: yes
+1912.2.12:
+  owner: CHI
+  controller: CHI
+  cores:
+    QNG: no
+    CSH: no
+    CHI: yes
+1924.11.3:
+  controller: CHI
+1932.1.3:
+  controller: JAP
+1932.2.18:
+  owner: MANC
+  controller: MANC
+  cores:
+    MANC: yes
+1945.1.1:
+  controller: SOVI
+1945.8.15:
+  owner: CHI
+  controller: CHI
+  cores:
+    MANC: no

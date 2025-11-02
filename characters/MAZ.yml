@@ -1,0 +1,260 @@
+maz_mieclaw_mazovian:
+  1004.1.1:
+    birth: warsaw #TODO: Date and location guessed, check if better data is available
+    first_name: mieclaw
+    dynasty: mazovian_dynasty
+    adm: 15
+    dip: 0
+    mil: 15
+    religion: catholic
+    culture: lesser_polish
+  1138.1.1:
+    death: yes
+maz_boleslaw_iv_piast:
+  1125.1.1:
+    birth: warsaw #TODO: Date and location guessed, check if better data is available
+    first_name: boleslaw
+    dynasty: piast_dynasty
+    father: maz_janusz_i_piast_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 60
+    mil: 60
+    religion: catholic
+    culture: lesser_polish
+  1173.1.5:
+    death: yes
+maz_leszek_i_piast:
+  1162.1.1:
+    birth: warsaw #TODO: Date and location guessed, check if better data is available
+    first_name: leszek
+    dynasty: piast_dynasty
+    adm: 15
+    dip: 15
+    mil: 15
+    religion: catholic
+    culture: lesser_polish
+  1194.5.5:
+    death: yes
+maz_boleslaw_i_piast:
+  1208.1.1:
+    birth: warsaw #TODO: Date and location guessed, check if better data is available
+    first_name: boleslaw
+    dynasty: piast_dynasty
+    adm: 45
+    dip: 30
+    mil: 15
+    religion: catholic
+    culture: lesser_polish
+  1248.2.25:
+    death: yes
+maz_konrad_i_piast:
+  1188.1.1:
+    birth: warsaw #TODO: Date and location guessed, check if better data is available
+    first_name: konrad
+    dynasty: piast_dynasty
+    adm: 60
+    dip: 45
+    mil: 45
+    religion: catholic
+    culture: lesser_polish
+  1247.8.31:
+    death: yes
+maz_siemowit_i_piast:
+  1224.1.1:
+    birth: warsaw #TODO: Date and location guessed, check if better data is available
+    first_name: siemowit
+    dynasty: piast_dynasty
+    adm: 75
+    dip: 15
+    mil: 15
+    religion: catholic
+    culture: lesser_polish
+  1262.6.23:
+    death: yes
+maz_konrad_ii_piast:
+  1250.1.1:
+    birth: warsaw #TODO: Date and location guessed, check if better data is available
+    first_name: konrad
+    dynasty: piast_dynasty
+    adm: 45
+    dip: 15
+    mil: 30
+    religion: catholic
+    culture: lesser_polish
+  1313.4.20:
+    death: yes
+maz_boleslaw_ii_piast:
+  1254.1.1:
+    birth: warsaw #TODO: Date and location guessed, check if better data is available
+    first_name: boleslaw
+    dynasty: piast_dynasty
+    father: maz_siemowit_i_piast #TODO: check if this makes sense
+    adm: 15
+    dip: 60
+    mil: 45
+    religion: catholic
+    culture: lesser_polish
+  1313.4.20:
+    death: yes
+maz_trojden_i_piast:
+  1285.1.1:
+    birth: warsaw #TODO: Date and location guessed, check if better data is available
+    first_name: trojden
+    dynasty: piast_dynasty
+    adm: 15
+    dip: 60
+    mil: 15
+    religion: catholic
+    culture: lesser_polish
+  1341.3.13:
+    death: yes
+maz_siemowit_iii_piast:
+  1320.1.1:
+    birth: warsaw #TODO: Date and location guessed, check if better data is available
+    first_name: siemowit
+    dynasty: piast_dynasty
+    father: maz_trojden_i_piast #TODO: check if this makes sense
+    adm: 45
+    dip: 60
+    mil: 45
+    religion: catholic
+    culture: lesser_polish
+  1381.6.16:
+    death: yes
+maz_siemowit_iii_piast_1:
+  1311.1.1:
+    birth: warsaw #TODO: Date and location guessed, check if better data is available
+    first_name: siemowit
+    dynasty: piast_dynasty
+    adm: 45
+    dip: 60
+    mil: 45
+    religion: catholic
+    culture: lesser_polish
+  1373.1.1:
+    death: yes
+maz_janusz_i_piast:
+  1347.1.1:
+    birth: warsaw #TODO: Date and location guessed, check if better data is available
+    first_name: janusz
+    dynasty: piast_dynasty
+    father: maz_siemowit_iii_piast_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 30
+    mil: 30
+    religion: catholic
+    culture: lesser_polish
+  1429.12.8:
+    death: yes
+maz_janusz_i_piast_1:
+  1343.1.1:
+    birth: warsaw #TODO: Date and location guessed, check if better data is available
+    first_name: janusz
+    dynasty: piast_dynasty
+    adm: 45
+    dip: 30
+    mil: 30
+    religion: catholic
+    culture: lesser_polish
+  1429.12.8:
+    death: yes
+maz_boleslaw_iv_piast_1:
+  1421.1.1:
+    birth: warsaw #TODO: Date and location guessed, check if better data is available
+    first_name: boleslaw
+    dynasty: piast_dynasty
+    father: maz_janusz_i_piast_1 #TODO: check if this makes sense
+    adm: 60
+    dip: 45
+    mil: 15
+    religion: catholic
+    culture: lesser_polish
+  1454.9.10:
+    death: yes
+maz_boleslaw_iv_piast_2:
+  1399.1.1:
+    birth: warsaw #TODO: Date and location guessed, check if better data is available
+    first_name: boleslaw
+    dynasty: piast_dynasty
+    adm: 60
+    dip: 45
+    mil: 15
+    religion: catholic
+    culture: lesser_polish
+  1454.9.10:
+    death: yes
+maz_konrad_iii_rudy_piast:
+  1448.1.1:
+    birth: warsaw #TODO: Date and location guessed, check if better data is available
+    first_name: konrad_iii_rudy
+    dynasty: piast_dynasty
+    father: maz_boleslaw_iv_piast_2 #TODO: check if this makes sense
+    adm: 45
+    dip: 45
+    mil: 15
+    religion: catholic
+    culture: lesser_polish
+  1503.10.28:
+    death: yes
+maz_konrad_iii_rudy_piast_1:
+  1424.1.1:
+    birth: warsaw #TODO: Date and location guessed, check if better data is available
+    first_name: konrad_iii_rudy
+    dynasty: piast_dynasty
+    adm: 45
+    dip: 45
+    mil: 15
+    religion: catholic
+    culture: lesser_polish
+  1503.10.28:
+    death: yes
+maz_stanislaw_i_piast:
+  1500.1.1:
+    birth: warsaw #TODO: Date and location guessed, check if better data is available
+    first_name: stanislaw
+    dynasty: piast_dynasty
+    father: maz_konrad_iii_rudy_piast_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 15
+    mil: 15
+    religion: catholic
+    culture: lesser_polish
+  1524.1.1:
+    death: yes
+maz_stanislaw_piast:
+  1473.1.1:
+    birth: warsaw #TODO: Date and location guessed, check if better data is available
+    first_name: stanislaw
+    dynasty: piast_dynasty
+    adm: 15
+    dip: 15
+    mil: 15
+    religion: catholic
+    culture: lesser_polish
+  1524.8.8:
+    death: yes
+maz_janusz_iii_piast:
+  1502.1.1:
+    birth: warsaw #TODO: Date and location guessed, check if better data is available
+    first_name: janusz
+    dynasty: piast_dynasty
+    father: maz_stanislaw_piast #TODO: check if this makes sense
+    adm: 15
+    dip: 15
+    mil: 15
+    religion: catholic
+    culture: lesser_polish
+  1526.1.1:
+    death: yes
+maz_janusz_iii_piast_1:
+  1494.1.1:
+    birth: warsaw #TODO: Date and location guessed, check if better data is available
+    first_name: janusz
+    dynasty: piast_dynasty
+    adm: 15
+    dip: 15
+    mil: 15
+    religion: catholic
+    culture: lesser_polish
+  3000.1.1:
+    death: yes

@@ -1,0 +1,64 @@
+#imported from EU4 file: history/provinces/166 - Schwyz.txt
+2.1.1:
+  owner: ROM
+  controller: ROM
+  cores:
+    ROM: yes
+  resource: iron
+  pop:
+    ethnicity: helvetian
+    religion: druidism
+    estate: peasant
+    size: 1000
+395.1.17:
+  owner: ROMW
+  controller: ROMW
+  cores:
+    ROM: no
+    ROMW: yes
+410.1.1:
+  owner: ALEM
+  controller: ALEM
+  cores:
+    ALEM: yes
+  pop:
+    ethnicity: high_alemannic
+    estate: peasant
+    size: 1000
+480.6.1:
+  cores:
+    ROMW: no
+620.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+746.1.1:
+  owner: FRAN
+  controller: FRAN
+  cores:
+    ALEM: no
+    FRAN: yes
+840.6.21:
+  owner: EFRA
+  controller: EFRA
+  cores:
+    FRAN: no
+    EFRA: yes
+867.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+911.11.10:
+  owner: SWA
+  controller: SWA
+  cores:
+    EFRA: no
+    SWA: yes
+1240.1.1:
+  owner: SWI
+  controller: SWI
+  cores:
+    SWA: no
+    SWI: yes

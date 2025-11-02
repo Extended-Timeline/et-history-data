@@ -1,0 +1,96 @@
+#imported from EU4 file: history/provinces/4219 - Bayan Tumen.txt
+2.1.1:
+  owner: XION
+  controller: XION
+  cores:
+    XION: yes
+  resource: livestock
+  pop:
+    ethnicity: mongolian_culture
+    religion: 
+    estate: peasant
+    size: 1000
+89.1.1:
+  owner: XIAN
+  controller: XIAN
+  cores:
+    XION: no
+    XIAN: yes
+330.1.1:
+  owner: ROUR
+  controller: ROUR
+  cores:
+    XIAN: no
+    ROUR: yes
+555.1.1:
+  owner: GOKT
+  controller: GOKT
+  cores:
+    ROUR: no
+    GOKT: yes
+744.1.1:
+  owner: UYGH
+  controller: UYGH
+  cores:
+    GOKT: no
+    UYGH: yes
+848.1.1:
+  owner: TATA
+  controller: TATA
+  cores:
+    UYGH: no
+    TATA: yes
+907.1.1:
+  owner: LIAO
+  controller: LIAO
+  cores:
+    TATA: no
+    LIAO: yes
+1125.1.1:
+  owner: TATA
+  controller: TATA
+  cores:
+    LIAO: no
+    TATA: yes
+1206.1.1:
+  owner: MGE
+  controller: MGE
+  cores:
+    TATA: no
+    MGE: yes
+1271.1.1:
+  owner: YUA
+  controller: YUA
+  cores:
+    MGE: no
+    YUA: yes
+1368.1.23:
+  owner: MGE
+  controller: MGE
+  cores:
+    YUA: no
+    MGE: yes
+1552.1.1:
+  controller: MGE
+1586.1.1:
+  pop:
+    religion: tibetan_buddhism
+    estate: peasant
+    size: 1000
+1688.1.1:
+  owner: ZUNG
+  controller: ZUNG
+1696.1.1:
+  owner: QNG
+  controller: QNG
+  cores:
+    QNG: yes
+1840.1.1:
+  cores:
+    MGE: yes
+1911.12.29:
+  owner: MGE
+  controller: MGE
+  cores:
+    QNG: no
+    MGE: yes

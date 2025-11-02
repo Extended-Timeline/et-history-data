@@ -1,0 +1,91 @@
+#imported from EU4 file: history/provinces/508 - Kashmir.txt
+2.1.1:
+  owner: KSH
+  controller: KSH
+  cores:
+    KSH: yes
+  resource: cloth
+  pop:
+    ethnicity: kashmiri_culture
+    religion: mahayana
+    estate: peasant
+    size: 1000
+375.1.1:
+  owner: KIDA
+  controller: KIDA
+  cores:
+    KIDA: yes
+515.1.1:
+  owner: KAPI
+  controller: KAPI
+  cores:
+    KIDA: no
+    KAPI: yes
+530.1.1:
+  owner: GAND
+  controller: GAND
+  cores:
+    KAPI: no
+    GAND: yes
+542.1.1:
+  owner: KSH
+  controller: KSH
+  cores:
+    GAND: no
+    KSH: yes
+700.1.1:
+  resource: paper
+1003.1.1:
+  pop:
+    religion: hindu
+    estate: peasant
+    size: 1000
+1500.1.1:
+  pop:
+    religion: shia
+    estate: peasant
+    size: 1000
+1589.7.28:
+  owner: MUG
+  controller: MUG
+  cores:
+    MUG: yes
+1738.1.1:
+  controller: IRA
+1739.5.1:
+  owner: IRA
+1747.10.1:
+  owner: AFGH
+  controller: AFGH
+  cores:
+    MUG: no
+    AFGH: yes
+1755.1.1:
+  owner: KSH
+  controller: KSH
+1762.1.1:
+  owner: AFGH
+  controller: AFGH
+1809.1.1:
+  owner: KSH
+  controller: KSH
+1819.1.1:
+  owner: PUN
+  controller: PUN
+  cores:
+    PUN: yes
+1846.3.16:
+  owner: KSH
+  controller: KSH
+  cores:
+    KSH: yes
+1930.1.1:
+  cores:
+    PUN: no
+    INDI: yes
+1930.12.29:
+  cores:
+    PAKI: yes
+1947.10.26:
+  owner: INDI
+  controller: INDI

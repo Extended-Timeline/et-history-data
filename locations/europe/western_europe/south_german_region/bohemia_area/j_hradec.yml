@@ -1,0 +1,108 @@
+#imported from EU4 file: history/provinces/4725 - Jindrichuv Hradec.txt
+2.1.1:
+  owner: MARC
+  controller: MARC
+  cores:
+    MARC: yes
+  resource: grain
+  pop:
+    ethnicity: southern_bavarian
+    religion: germanic
+    estate: peasant
+    size: 1000
+454.1.1:
+  owner: RUGI
+  controller: RUGI
+  cores:
+    MARC: no
+    RUGI: yes
+467.1.1:
+  owner: LOMB
+  controller: LOMB
+  cores:
+    RUGI: no
+    LOMB: yes
+  pop:
+    ethnicity: langobardi
+    estate: peasant
+    size: 1000
+569.1.1:
+  owner: MVA
+  controller: MVA
+  cores:
+    LOMB: no
+    MVA: yes
+  pop:
+    ethnicity: czech
+    religion: slavic
+    estate: peasant
+    size: 1000
+623.1.1:
+  owner: SAMO
+  controller: SAMO
+  cores:
+    SAMO: yes
+659.1.1:
+  owner: MVA
+  controller: MVA
+  cores:
+    SAMO: no
+880.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+894.1.1:
+  owner: BOH
+  controller: BOH
+  cores:
+    MVA: no
+    BOH: yes
+1466.1.1:
+  owner: HUN
+  controller: HUN
+  cores:
+    HUN: yes
+1490.4.26:
+  owner: BOH
+  controller: BOH
+  cores:
+    HUN: no
+1526.8.30:
+  owner: HAB
+  controller: HAB
+  cores:
+    BOH: no
+    HAB: yes
+1618.5.23:
+  owner: BOH
+  controller: BOH
+  cores:
+    BOH: yes
+1620.11.8:
+  owner: HAB
+  controller: HAB
+  cores:
+    BOH: no
+1918.10.28:
+  owner: CZES
+  controller: CZES
+  cores:
+    HAB: no
+    CZES: yes
+1939.3.16:
+  owner: GER
+  controller: GER
+  cores:
+    GER: yes
+1945.5.8:
+  owner: CZES
+  controller: CZES
+  cores:
+    GER: no
+1992.12.31:
+  owner: CZEC
+  controller: CZEC
+  cores:
+    CZES: no
+    CZEC: yes

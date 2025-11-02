@@ -1,0 +1,122 @@
+#imported from EU4 file: history/provinces/2044 - Bhagalpur.txt
+2.1.1:
+  owner: MAGA
+  controller: MAGA
+  cores:
+    MAGA: yes
+  resource: silk
+  pop:
+    ethnicity: magahi
+    religion: hindu
+    estate: peasant
+    size: 1000
+320.1.1:
+  owner: GUPT
+  controller: GUPT
+  cores:
+    MAGA: no
+    GUPT: yes
+625.1.1:
+  owner: PUSH
+  controller: PUSH
+  cores:
+    PUSH: yes
+647.1.1:
+  owner: GUPT
+  controller: GUPT
+  cores:
+    PUSH: no
+720.1.1:
+  owner: KANN
+  controller: KANN
+  cores:
+    GUPT: no
+    KANN: yes
+740.1.1:
+  pop:
+    religion: mahayana
+    estate: peasant
+    size: 1000
+750.1.1:
+  owner: PALA
+  controller: PALA
+  cores:
+    KANN: no
+    PALA: yes
+1170.1.1:
+  pop:
+    religion: hindu
+    estate: peasant
+    size: 1000
+1174.1.1:
+  owner: GAUD
+  controller: GAUD
+  cores:
+    PALA: no
+    GAUD: yes
+1203.1.1:
+  owner: BNG
+  controller: BNG
+  cores:
+    BNG: yes
+1227.1.1:
+  owner: DLH
+  controller: DLH
+1229.1.1:
+  owner: BNG
+  controller: BNG
+1231.1.1:
+  owner: DLH
+  controller: DLH
+  cores:
+    DLH: yes
+1287.1.1:
+  owner: BNG
+  controller: BNG
+  cores:
+    DLH: no
+1324.1.1:
+  owner: DLH
+  controller: DLH
+  cores:
+    DLH: yes
+1338.1.1:
+  owner: BNG
+  controller: BNG
+  cores:
+    DLH: no
+1529.1.1:
+  owner: BNG
+1538.1.1:
+  controller: BNG
+1538.6.1:
+  controller: MUG
+1539.1.1:
+  controller: BNG
+1576.7.12:
+  owner: MUG
+  controller: MUG
+  cores:
+    MUG: yes
+1623.5.1:
+  controller: MUG
+1658.12.28:
+  controller: MUG
+1707.3.15:
+  owner: BNG
+  controller: BNG
+1765.1.1:
+  owner: GBR
+  controller: GBR
+  cores:
+    MUG: no
+    GBR: yes
+1930.1.1:
+  cores:
+    BNG: no
+    INDI: yes
+1947.8.15:
+  owner: INDI
+  controller: INDI
+  cores:
+    GBR: no

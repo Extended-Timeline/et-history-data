@@ -1,0 +1,43 @@
+#imported from EU4 file: history/provinces/917 - Cahokia.txt
+2.1.1:
+  owner: CHK
+  controller: CHK
+  cores:
+    CHK: yes
+  resource: grain
+  pop:
+    ethnicity: cahokia_culture
+    religion: iroquoian_totemism
+    estate: peasant
+    size: 1000
+1699.1.1:
+  owner: FRA
+  controller: FRA
+  cores:
+    FRA: yes
+  pop:
+    ethnicity: french
+    religion: catholic
+    estate: peasant
+    size: 1000
+1763.2.10:
+  owner: GBR
+  controller: GBR
+  cores:
+    FRA: no
+    GBR: yes
+  pop:
+    ethnicity: english
+    religion: lutheran
+    estate: peasant
+    size: 1000
+1778.7.4:
+  owner: USA
+  controller: USA
+  cores:
+    GBR: no
+    USA: yes
+  pop:
+    ethnicity: american
+    estate: peasant
+    size: 1000

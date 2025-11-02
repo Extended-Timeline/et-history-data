@@ -1,0 +1,146 @@
+#imported from EU4 file: history/provinces/1952 - Maramaros.txt
+2.1.1:
+  owner: BAST
+  controller: BAST
+  cores:
+    BAST: yes
+  resource: naval_supplies
+  pop:
+    ethnicity: pannonian
+    religion: druidism
+    estate: peasant
+    size: 1000
+150.1.1:
+  pop:
+    ethnicity: gothic
+    religion: germanic
+    estate: peasant
+    size: 1000
+250.1.1:
+  owner: GEPI
+  controller: GEPI
+  cores:
+    BAST: no
+    GEPI: yes
+  pop:
+    ethnicity: gepid
+    religion: germanic
+    estate: peasant
+    size: 1000
+469.1.1:
+  owner: SCIR
+  controller: SCIR
+  cores:
+    GEPI: no
+    SCIR: yes
+  pop:
+    ethnicity: scirian
+    estate: peasant
+    size: 1000
+567.1.1:
+  owner: AVR
+  controller: AVR
+  cores:
+    SCIR: no
+    AVR: yes
+  pop:
+    ethnicity: avar_culture
+    religion: 
+    estate: peasant
+    size: 1000
+804.1.1:
+  owner: HUN
+  controller: HUN
+  cores:
+    AVR: no
+    HUN: yes
+  pop:
+    ethnicity: hungarian
+    estate: peasant
+    size: 1000
+1010.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+1100.1.1:
+  pop:
+    ethnicity: ruthenian
+    religion: orthodox
+    estate: peasant
+    size: 1000
+1280.1.1:
+  owner: HAL
+  controller: HAL
+  cores:
+    HAL: yes
+1320.1.1:
+  owner: HUN
+  controller: HUN
+  cores:
+    HAL: no
+    HUN: yes
+1526.8.30:
+  owner: TRA
+  controller: TRA
+  cores:
+    HAB: yes
+    TRA: yes
+1551.7.19:
+  owner: HAB
+  controller: HAB
+1556.10.1:
+  owner: TRA
+  controller: TRA
+1570.1.1:
+  owner: HAB
+  controller: HAB
+  cores:
+    TRA: no
+1606.1.1:
+  controller: HAB
+1626.1.1:
+  controller: HAB
+1646.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+1648.1.1:
+  owner: TRA
+  controller: TRA
+  cores:
+    HAB: no
+    TRA: yes
+1685.1.1:
+  owner: HAB
+  controller: HAB
+  cores:
+    TRA: no
+    HAB: yes
+1918.10.28:
+  owner: CZES
+  controller: CZES
+  cores:
+    HAB: no
+    CZES: yes
+1939.3.14:
+  owner: HUN
+  controller: HUN
+  cores:
+    HUN: yes
+1944.10.27:
+  controller: SOVI
+1945.6.29:
+  owner: SOVI
+  controller: SOVI
+  cores:
+    HUN: no
+    CZES: no
+    SOVI: yes
+1991.8.24:
+  owner: UKR
+  controller: UKR
+  cores:
+    SOVI: no
+    UKR: yes

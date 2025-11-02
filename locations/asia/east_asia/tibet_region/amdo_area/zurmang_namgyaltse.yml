@@ -1,0 +1,82 @@
+#imported from EU4 file: history/provinces/705 - Dangla.txt
+2.1.1:
+  owner: SUMP
+  controller: SUMP
+  cores:
+    SUMP: yes
+  resource: wool
+  pop:
+    ethnicity: amdowa_culture
+    religion: bon
+    estate: peasant
+    size: 1000
+600.1.1:
+  owner: YARL
+  controller: YARL
+  cores:
+    YARL: yes
+618.1.1:
+  owner: TIB
+  controller: TIB
+  cores:
+    YARL: no
+    TIB: yes
+630.1.1:
+  pop:
+    religion: tibetan_buddhism
+    estate: peasant
+    size: 1000
+842.1.1:
+  owner: PHAG
+  controller: PHAG
+  cores:
+    TIB: no
+    PHAG: yes
+880.1.1:
+  pop:
+    ethnicity: khampa_culture
+    estate: peasant
+    size: 1000
+910.1.1:
+  owner: DRG
+  controller: DRG
+  cores:
+    PHAG: no
+    DRG: yes
+1240.1.1:
+  owner: TIB
+  controller: TIB
+  cores:
+    TIB: yes
+1354.1.1:
+  owner: DRG
+  controller: DRG
+  cores:
+    TIB: no
+    DRG: yes
+1637.6.1:
+  owner: KHOS
+  controller: KHOS
+  cores:
+    KHOS: yes
+1717.1.1:
+  owner: ZUNG
+  controller: ZUNG
+1720.1.1:
+  owner: KHOS
+  controller: KHOS
+1724.1.1:
+  owner: QNG
+  controller: QNG
+  cores:
+    QNG: yes
+1912.2.12:
+  owner: CHI
+  controller: CHI
+  cores:
+    QNG: no
+    KHOS: no
+    CHI: yes
+    TIB: yes
+1949.10.1:
+  controller: CHI

@@ -1,0 +1,34 @@
+#imported from EU4 file: history/provinces/1136 - Gurma.txt
+2.1.1:
+  pop:
+    ethnicity: mossi
+    religion: bantu_religion
+    estate: peasant
+    size: 1000
+1050.1.1:
+  owner: GUR
+  controller: GUR
+  cores:
+    GUR: yes
+  resource: ivory
+1895.5.1:
+  owner: FRA
+  controller: FRA
+  cores:
+    FRA: yes
+1940.6.14:
+  owner: VFRA
+  controller: VFRA
+  cores:
+    VFRA: yes
+1942.11.16:
+  owner: FRA
+  controller: FRA
+  cores:
+    VFRA: no
+1960.8.5:
+  owner: BUFA
+  controller: BUFA
+  cores:
+    FRA: no
+    BUFA: yes

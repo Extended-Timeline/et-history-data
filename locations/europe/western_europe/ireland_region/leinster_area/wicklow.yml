@@ -1,0 +1,83 @@
+#imported from EU4 file: history/provinces/374 - Leinster.txt
+2.1.1:
+  owner: LEI
+  controller: LEI
+  cores:
+    LEI: yes
+  resource: livestock
+  pop:
+    ethnicity: irish
+    religion: druidism
+    estate: peasant
+    size: 1000
+600.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+867.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+996.1.1:
+  owner: DMS
+  controller: DMS
+998.1.1:
+  owner: LEI
+  controller: LEI
+999.1.1:
+  owner: DMS
+  controller: DMS
+  cores:
+    DMS: yes
+1002.1.1:
+  owner: IRE
+  controller: IRE
+  cores:
+    DMS: no
+    IRE: yes
+1014.4.23:
+  owner: LEI
+  controller: LEI
+  cores:
+    IRE: no
+1033.1.1:
+  owner: OSRA
+  controller: OSRA
+  cores:
+    OSRA: yes
+1039.1.1:
+  owner: LEI
+  controller: LEI
+  cores:
+    OSRA: no
+1632.1.1:
+  owner: ENG
+  controller: ENG
+  cores:
+    ENG: yes
+1642.6.7:
+  owner: IRE
+  controller: IRE
+  cores:
+    IRE: yes
+1650.3.28:
+  controller: ENG
+1652.4.1:
+  owner: ENG
+1690.8.1:
+  controller: ENG
+1707.5.12:
+  owner: GBR
+  controller: GBR
+  cores:
+    ENG: no
+    GBR: yes
+1919.1.21:
+  owner: IRE
+  controller: IRE
+1922.12.7:
+  cores:
+    GBR: no
+    LEI: no

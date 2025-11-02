@@ -1,0 +1,88 @@
+#imported from EU4 file: history/provinces/373 - Meath.txt
+2.1.1:
+  owner: LEI
+  controller: LEI
+  cores:
+    LEI: yes
+  resource: livestock
+  pop:
+    ethnicity: irish
+    religion: druidism
+    estate: peasant
+    size: 1000
+450.1.1:
+  owner: MTH
+  controller: MTH
+  cores:
+    LEI: no
+    MTH: yes
+700.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+853.1.1:
+  owner: LOI
+  controller: LOI
+  cores:
+    LOI: yes
+860.1.1:
+  pop:
+    religion: norse
+    estate: peasant
+    size: 1000
+902.1.1:
+  owner: MTH
+  controller: MTH
+  cores:
+    MTH: yes
+917.1.1:
+  owner: LOI
+  controller: LOI
+945.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+1052.1.1:
+  owner: LEI
+  controller: LEI
+  cores:
+    LEI: yes
+1091.1.1:
+  owner: LOI
+  controller: LOI
+  cores:
+    LOI: yes
+1094.1.1:
+  owner: LEI
+  controller: LEI
+1171.1.1:
+  owner: ENG
+  controller: ENG
+  cores:
+    ENG: yes
+1642.4.15:
+  controller: ENG
+1642.6.7:
+  cores:
+    IRE: yes
+1690.1.1:
+  controller: ENG
+1707.5.12:
+  owner: GBR
+  controller: GBR
+  cores:
+    ENG: no
+    GBR: yes
+1798.9.8:
+  controller: GBR
+1803.8.25:
+  controller: GBR
+1919.1.21:
+  owner: IRE
+  controller: IRE
+1922.12.7:
+  cores:
+    GBR: no
+    MTH: no

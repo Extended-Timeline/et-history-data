@@ -1,0 +1,85 @@
+#imported from EU4 file: history/provinces/4423 - Gutti.txt
+2.1.1:
+  owner: SATA
+  controller: SATA
+  cores:
+    SATA: yes
+  resource: iron
+  pop:
+    ethnicity: telugu
+    religion: hindu
+    estate: peasant
+    size: 1000
+220.1.1:
+  owner: CHOL
+  controller: CHOL
+  cores:
+    SATA: no
+    CHOL: yes
+275.1.1:
+  owner: PALL
+  controller: PALL
+  cores:
+    CHOL: no
+    PALL: yes
+590.1.1:
+  pop:
+    religion: jain
+    estate: peasant
+    size: 1000
+620.1.1:
+  pop:
+    religion: hindu
+    estate: peasant
+    size: 1000
+897.1.1:
+  owner: CHOL
+  controller: CHOL
+  cores:
+    PALL: no
+    CHOL: yes
+1026.1.1:
+  owner: HSL
+  controller: HSL
+  cores:
+    CHOL: no
+    HSL: yes
+1336.1.1:
+  owner: VIJ
+  controller: VIJ
+  cores:
+    HSL: no
+    VIJ: yes
+1565.7.1:
+  controller: VIJ
+1638.1.1:
+  owner: BIJA
+  controller: BIJA
+  cores:
+    VIJ: no
+1685.1.1:
+  controller: MUG
+1686.1.1:
+  owner: MUG
+  cores:
+    MUG: yes
+1712.1.1:
+  cores:
+    DEC: yes
+1724.1.1:
+  owner: DEC
+  controller: DEC
+1800.1.1:
+  owner: GBR
+  controller: GBR
+  cores:
+    GBR: yes
+1930.1.1:
+  cores:
+    CARN: no
+    INDI: yes
+1947.8.15:
+  owner: INDI
+  controller: INDI
+  cores:
+    GBR: no

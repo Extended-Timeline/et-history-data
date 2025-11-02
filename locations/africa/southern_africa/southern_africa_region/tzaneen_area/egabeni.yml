@@ -1,0 +1,28 @@
+#imported from EU4 file: history/provinces/4782 - Bophuthatswana.txt
+2.1.1:
+  pop:
+    ethnicity: xam_culture
+    religion: bantu_religion
+    estate: peasant
+    size: 1000
+400.1.1:
+  pop:
+    ethnicity: tswana_culture
+    estate: peasant
+    size: 1000
+1840.1.1:
+  owner: GBR
+  controller: GBR
+  cores:
+    GBR: yes
+  resource: wine
+  pop:
+    religion: lutheran
+    estate: peasant
+    size: 1000
+1910.3.31:
+  owner: SAFR
+  controller: SAFR
+  cores:
+    GBR: no
+    SAFR: yes

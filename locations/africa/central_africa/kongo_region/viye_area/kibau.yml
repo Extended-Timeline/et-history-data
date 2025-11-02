@@ -1,0 +1,35 @@
+#imported from EU4 file: history/provinces/4093 - Lunda.txt
+2.1.1:
+  pop:
+    ethnicity: lunda
+    religion: bantu_religion
+    estate: peasant
+    size: 1000
+1350.1.1:
+  owner: LND
+  controller: LND
+  cores:
+    LND: yes
+  resource: ivory
+1887.1.1:
+  owner: CHO
+  controller: CHO
+  cores:
+    CHO: yes
+1930.1.1:
+  owner: POR
+  controller: POR
+  cores:
+    POR: yes
+1950.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+1975.11.11:
+  owner: ANGO
+  controller: ANGO
+  cores:
+    POR: no
+    NDON: no
+    ANGO: yes

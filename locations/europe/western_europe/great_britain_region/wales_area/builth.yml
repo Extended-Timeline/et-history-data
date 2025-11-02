@@ -1,0 +1,63 @@
+#imported from EU4 file: history/provinces/4366 - Powys.txt
+2.1.1:
+  owner: ORDO
+  controller: ORDO
+  cores:
+    ORDO: yes
+  resource: iron
+  pop:
+    ethnicity: briton
+    religion: druidism
+    estate: peasant
+    size: 1000
+78.1.1:
+  owner: ROM
+  controller: ROM
+  cores:
+    ROM: yes
+200.1.1:
+  pop:
+    ethnicity: welsh
+    estate: peasant
+    size: 1000
+350.1.1:
+  owner: POWY
+  controller: POWY
+  cores:
+    ORDO: no
+    ROM: no
+    POWY: yes
+660.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+867.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+1283.1.1:
+  owner: ENG
+  controller: ENG
+  cores:
+    POWY: no
+    ENG: yes
+    WLS: yes
+1415.1.1:
+  controller: ENG
+1468.6.1:
+  controller: ENG
+1471.5.4:
+  controller: ENG
+1707.5.12:
+  owner: GBR
+  controller: GBR
+  cores:
+    ENG: no
+    GBR: yes
+1750.1.1:
+  pop:
+    religion: anglican
+    estate: peasant
+    size: 1000

@@ -1,0 +1,80 @@
+#imported from EU4 file: history/provinces/2342 - Wusta.txt
+2.1.1:
+  owner: AD00
+  controller: AD00
+  cores:
+    AD00: yes
+  resource: incense
+  pop:
+    ethnicity: mehri_culture
+    religion: south_arabian
+    estate: peasant
+    size: 1000
+634.1.1:
+  owner: RASH
+  controller: RASH
+  cores:
+    RASH: yes
+  pop:
+    religion: islam
+    estate: peasant
+    size: 1000
+661.7.28:
+  owner: UMAY
+  controller: UMAY
+  cores:
+    RASH: no
+    UMAY: yes
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+750.8.6:
+  owner: ABBA
+  controller: ABBA
+  cores:
+    UMAY: no
+    ABBA: yes
+840.1.1:
+  owner: OMA
+  controller: OMA
+  cores:
+    ABBA: no
+    OMA: yes
+1073.5.16:
+  owner: KRM
+  controller: KRM
+  cores:
+    KRM: yes
+1154.1.1:
+  owner: OMA
+  controller: OMA
+  cores:
+    KRM: no
+1507.6.1:
+  owner: POR
+  controller: POR
+  cores:
+    POR: yes
+1624.1.1:
+  owner: OMA
+  controller: OMA
+  cores:
+    POR: no
+    OMA: yes
+1741.1.1:
+  owner: IRA
+  controller: IRA
+  cores:
+    IRA: yes
+1749.6.10:
+  owner: OMA
+  controller: OMA
+  cores:
+    IRA: no
+1860.1.1:
+  pop:
+    ethnicity: omani_culture
+    religion: ibadi
+    estate: peasant
+    size: 1000

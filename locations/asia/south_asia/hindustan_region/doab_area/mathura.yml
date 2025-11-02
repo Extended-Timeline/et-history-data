@@ -1,0 +1,123 @@
+#imported from EU4 file: history/provinces/524 - Central Doab.txt
+2.1.1:
+  owner: NSAT
+  controller: NSAT
+  cores:
+    NSAT: yes
+  resource: silk
+  pop:
+    ethnicity: kannauji
+    religion: jain
+    estate: peasant
+    size: 1000
+120.1.1:
+  owner: KUSH
+  controller: KUSH
+  cores:
+    NSAT: no
+    KUSH: yes
+320.1.1:
+  owner: GUPT
+  controller: GUPT
+  cores:
+    KUSH: no
+    GUPT: yes
+420.1.1:
+  pop:
+    religion: hindu
+    estate: peasant
+    size: 1000
+540.1.1:
+  owner: KANN
+  controller: KANN
+  cores:
+    GUPT: no
+    KANN: yes
+620.1.1:
+  owner: PUSH
+  controller: PUSH
+  cores:
+    KANN: no
+    PUSH: yes
+647.1.1:
+  owner: GURJ
+  controller: GURJ
+  cores:
+    PUSH: no
+    GURJ: yes
+1036.1.1:
+  owner: CHAU
+  controller: CHAU
+  cores:
+    GURJ: no
+    CHAU: yes
+1193.1.1:
+  owner: GHOR
+  controller: GHOR
+  cores:
+    CHAU: no
+    GHOR: yes
+1206.1.1:
+  owner: DLH
+  controller: DLH
+  cores:
+    GHOR: no
+    DLH: yes
+1437.1.1:
+  owner: JNP
+  controller: JNP
+1452.1.1:
+  owner: DLH
+  controller: DLH
+1526.4.1:
+  controller: TIM
+1526.4.21:
+  owner: MUG
+  controller: MUG
+  cores:
+    DLH: no
+    MUG: yes
+1540.1.1:
+  owner: BNG
+  controller: BNG
+  cores:
+    BNG: yes
+1553.1.1:
+  owner: DLH
+  controller: DLH
+  cores:
+    BNG: no
+1555.7.23:
+  owner: MUG
+  controller: MUG
+1556.10.7:
+  controller: DLH
+1556.11.5:
+  controller: MUG
+1658.6.8:
+  controller: MUG
+1707.6.13:
+  controller: MUG
+1714.1.1:
+  owner: MEWA
+  controller: MEWA
+  cores:
+    MEWA: yes
+1784.1.1:
+  owner: GWA
+  controller: GWA
+1803.1.1:
+  owner: GBR
+  controller: GBR
+  cores:
+    GBR: yes
+1930.1.1:
+  cores:
+    INDI: yes
+1947.8.15:
+  owner: INDI
+  controller: INDI
+  cores:
+    GBR: no
+1970.1.1:
+  resource: cars

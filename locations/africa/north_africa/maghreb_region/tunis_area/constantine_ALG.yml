@@ -1,0 +1,138 @@
+#imported from EU4 file: history/provinces/340 - Constantine.txt
+2.1.1:
+  owner: ROM
+  controller: ROM
+  cores:
+    ROM: yes
+  resource: grain
+  pop:
+    ethnicity: zenati
+    religion: bantu_religion
+    estate: peasant
+    size: 1000
+300.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+395.1.17:
+  owner: ROMW
+  controller: ROMW
+  cores:
+    ROM: no
+    ROMW: yes
+432.1.1:
+  owner: VAND
+  controller: VAND
+  cores:
+    ROMW: no
+    VAND: yes
+  pop:
+    religion: arianism
+    estate: peasant
+    size: 1000
+534.3.1:
+  owner: BYZ
+  controller: BYZ
+  cores:
+    VAND: no
+    BYZ: yes
+550.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+697.1.1:
+  owner: UMAY
+  controller: UMAY
+  cores:
+    BYZ: no
+    UMAY: yes
+740.1.1:
+  pop:
+    ethnicity: algerian
+    religion: sunni
+    estate: peasant
+    size: 1000
+745.1.1:
+  owner: TUN
+  controller: TUN
+  cores:
+    UMAY: no
+    TUN: yes
+757.6.1:
+  owner: ABBA
+  controller: ABBA
+  cores:
+    ABBA: yes
+800.1.1:
+  owner: TUN
+  controller: TUN
+  cores:
+    ABBA: no
+    TUN: yes
+909.1.1:
+  owner: FATI
+  controller: FATI
+  cores:
+    TUN: no
+    FATI: yes
+973.1.1:
+  owner: TUN
+  controller: TUN
+  cores:
+    FATI: no
+    TUN: yes
+1018.1.1:
+  owner: KABY
+  controller: KABY
+  cores:
+    TUN: no
+    KABY: yes
+1152.1.1:
+  owner: MOR
+  controller: MOR
+  cores:
+    KABY: no
+    MOR: yes
+1229.1.1:
+  owner: TUN
+  controller: TUN
+  cores:
+    MOR: no
+    TUN: yes
+1521.1.1:
+  owner: ALG
+  controller: ALG
+  cores:
+    ALG: yes
+1830.7.10:
+  owner: KABY
+  controller: KABY
+  cores:
+    KABY: yes
+1837.4.1:
+  owner: FRA
+  controller: FRA
+  cores:
+    FRA: yes
+1870.9.4:
+  owner: FRA
+  controller: FRA
+  cores:
+    FRA: yes
+1940.6.14:
+  owner: VFRA
+  controller: VFRA
+  cores:
+    VFRA: yes
+1942.11.16:
+  owner: FRA
+  controller: FRA
+  cores:
+    VFRA: no
+1962.7.3:
+  owner: ALG
+  controller: ALG
+  cores:
+    FRA: no

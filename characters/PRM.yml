@@ -1,0 +1,62 @@
+prm_yermolay_i_velikopermsky:
+  1414.1.1:
+    birth: cherdyn #TODO: Date and location guessed, check if better data is available
+    first_name: yermolay
+    dynasty: velikopermsky_dynasty
+    adm: 60
+    dip: 30
+    mil: 45
+    religion: orthodox
+    culture: udmurt
+  1451.1.1:
+    death: yes
+prm_mikhail_i_velikopermsky:
+  1420.1.1:
+    birth: cherdyn #TODO: Date and location guessed, check if better data is available
+    first_name: mikhail
+    dynasty: velikopermsky_dynasty
+    father: prm_yermolay_i_velikopermsky #TODO: check if this makes sense
+    adm: 60
+    dip: 45
+    mil: 45
+    religion: orthodox
+    culture: udmurt
+  1481.1.1:
+    death: yes
+prm_mikhail_i_velikopermsky_1:
+  1421.1.1:
+    birth: cherdyn #TODO: Date and location guessed, check if better data is available
+    first_name: mikhail
+    dynasty: velikopermsky_dynasty
+    adm: 60
+    dip: 45
+    mil: 45
+    religion: orthodox
+    culture: udmurt
+  1481.1.1:
+    death: yes
+prm_matvey_i_velikopermsky:
+  1450.1.1:
+    birth: cherdyn #TODO: Date and location guessed, check if better data is available
+    first_name: matvey
+    dynasty: velikopermsky_dynasty
+    father: prm_mikhail_i_velikopermsky_1 #TODO: check if this makes sense
+    adm: 60
+    dip: 45
+    mil: 15
+    religion: orthodox
+    culture: udmurt
+  1520.1.1:
+    death: yes
+prm_matvey_i_velikopermsky_1:
+  1451.1.1:
+    birth: cherdyn #TODO: Date and location guessed, check if better data is available
+    first_name: matvey
+    dynasty: velikopermsky_dynasty
+    adm: 60
+    dip: 45
+    mil: 15
+    religion: orthodox
+    culture: udmurt
+  3000.1.1:
+    death: yes

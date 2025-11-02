@@ -1,0 +1,81 @@
+#imported from EU4 file: history/provinces/603 - Rayong.txt
+2.1.1:
+  owner: PEAR
+  controller: PEAR
+  cores:
+    PEAR: yes
+    FUNA: yes
+  resource: gems
+  pop:
+    ethnicity: pear
+    religion: bimoism
+    estate: peasant
+    size: 1000
+68.1.1:
+  owner: FUNA
+  controller: FUNA
+  cores:
+    FUNA: yes
+550.1.1:
+  owner: CHEN
+  controller: CHEN
+  cores:
+    FUNA: no
+    CHEN: yes
+707.2.6:
+  owner: PEAR
+  controller: PEAR
+  cores:
+    CHEN: no
+    PEAR: yes
+802.1.1:
+  owner: CAMB
+  controller: CAMB
+  cores:
+    PEAR: no
+    CAMB: yes
+820.1.1:
+  pop:
+    religion: theravada
+    estate: peasant
+    size: 1000
+850.1.1:
+  pop:
+    ethnicity: khmer_culture
+    estate: peasant
+    size: 1000
+1050.1.1:
+  pop:
+    ethnicity: thai_culture
+    estate: peasant
+    size: 1000
+1060.1.1:
+  owner: LAV
+  controller: LAV
+  cores:
+    CAMB: no
+1380.1.1:
+  owner: AYU
+  controller: AYU
+  cores:
+    AYU: yes
+1767.4.8:
+  owner: THON
+  controller: THON
+  cores:
+    THON: yes
+1768.1.1:
+  cores:
+    AYU: no
+1782.4.6:
+  owner: RTP
+  controller: RTP
+  cores:
+    THON: no
+    RTP: yes
+1932.7.24:
+  owner: SIA
+  controller: SIA
+  cores:
+    RTP: no
+    SIA: yes

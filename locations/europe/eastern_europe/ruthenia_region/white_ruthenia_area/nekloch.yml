@@ -1,0 +1,86 @@
+#imported from EU4 file: history/provinces/1960 - Ostrov.txt
+2.1.1:
+  pop:
+    ethnicity: novgorodian
+    religion: slavic
+    estate: peasant
+    size: 1000
+550.1.1:
+  owner: ILME
+  controller: ILME
+  cores:
+    ILME: yes
+  resource: naval_supplies
+880.1.1:
+  owner: KIEV
+  controller: KIEV
+  cores:
+    ILME: no
+    KIEV: yes
+988.1.1:
+  pop:
+    religion: orthodox
+    estate: peasant
+    size: 1000
+1054.2.20:
+  owner: NOV
+  controller: NOV
+  cores:
+    KIEV: no
+    NOV: yes
+1178.1.1:
+  owner: PSK
+  controller: PSK
+  cores:
+    NOV: no
+    PSK: yes
+1242.1.1:
+  owner: NOV
+  controller: NOV
+  cores:
+    NOV: yes
+1253.1.1:
+  owner: PSK
+  controller: PSK
+  cores:
+    NOV: no
+1323.1.1:
+  owner: NOV
+  controller: NOV
+  cores:
+    NOV: yes
+1327.1.1:
+  owner: PSK
+  controller: PSK
+  cores:
+    NOV: no
+1501.9.7:
+  controller: LIV
+1501.9.14:
+  controller: PSK
+1510.1.13:
+  owner: RUS
+  controller: RUS
+  cores:
+    PSK: no
+    RUS: yes
+1581.9.1:
+  controller: POL
+1582.1.15:
+  controller: RUS
+1922.12.30:
+  owner: SOVI
+  controller: SOVI
+  cores:
+    RUS: no
+    SOVI: yes
+1941.7.9:
+  controller: GER
+1944.7.23:
+  controller: SOVI
+1991.12.25:
+  owner: RUS
+  controller: RUS
+  cores:
+    SOVI: no
+    RUS: yes

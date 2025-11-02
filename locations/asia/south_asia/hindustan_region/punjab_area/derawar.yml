@@ -1,0 +1,158 @@
+#imported from EU4 file: history/provinces/2086 - Cholistan.txt
+2.1.1:
+  owner: IPAR
+  controller: IPAR
+  cores:
+    IPAR: yes
+  resource: livestock
+  pop:
+    ethnicity: punjabi
+    religion: hindu
+    estate: peasant
+    size: 1000
+76.1.1:
+  owner: KUSH
+  controller: KUSH
+  cores:
+    IPAR: no
+    KUSH: yes
+270.1.1:
+  owner: ABHI
+  controller: ABHI
+  cores:
+    KUSH: no
+    ABHI: yes
+388.1.1:
+  owner: GUPT
+  controller: GUPT
+  cores:
+    ABHI: no
+    GUPT: yes
+460.1.1:
+  owner: KAPI
+  controller: KAPI
+  cores:
+    GUPT: no
+    KAPI: yes
+528.1.1:
+  owner: MLW
+  controller: MLW
+  cores:
+    GUPT: no
+    SND: yes
+540.1.1:
+  owner: SND
+  controller: SND
+654.1.1:
+  owner: TAAN
+  controller: TAAN
+  cores:
+    SND: no
+    TAAN: yes
+711.1.1:
+  owner: UMAY
+  controller: UMAY
+  cores:
+    SND: no
+    UMAY: yes
+750.8.6:
+  owner: ABBA
+  controller: ABBA
+  cores:
+    UMAY: no
+    ABBA: yes
+841.1.1:
+  owner: SND
+  controller: SND
+  cores:
+    ABBA: no
+    SND: yes
+861.1.1:
+  owner: MULT
+  controller: MULT
+  cores:
+    SND: no
+    MULT: yes
+965.1.1:
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+1005.1.1:
+  owner: GHAZ
+  controller: GHAZ
+  cores:
+    GHAZ: yes
+1175.1.1:
+  owner: GHOR
+  controller: GHOR
+  cores:
+    GHAZ: no
+    GHOR: yes
+1210.1.1:
+  owner: MULT
+  controller: MULT
+  cores:
+    GHOR: no
+    MULT: yes
+1228.1.1:
+  owner: DLH
+  controller: DLH
+  cores:
+    DLH: yes
+    PUN: yes
+1398.1.1:
+  owner: MULT
+  controller: MULT
+  cores:
+    DLH: no
+    MULT: yes
+1414.1.1:
+  owner: DLH
+  controller: DLH
+1437.1.1:
+  owner: MULT
+  controller: MULT
+1526.1.1:
+  owner: SND
+  controller: SND
+  cores:
+    SND: yes
+1544.1.1:
+  owner: BNG
+  controller: BNG
+1545.1.1:
+  owner: SND
+  controller: SND
+1574.1.1:
+  owner: MUG
+  controller: MUG
+  cores:
+    SND: no
+    MUG: yes
+1752.1.1:
+  owner: AFGH
+  controller: AFGH
+  cores:
+    MUG: no
+    AFGH: yes
+1818.1.1:
+  owner: PUN
+  controller: PUN
+  cores:
+    AFGH: no
+    PUN: yes
+1849.1.1:
+  owner: GBR
+  controller: GBR
+  cores:
+    GBR: yes
+1930.12.29:
+  cores:
+    PUN: no
+    PAKI: yes
+1947.8.14:
+  owner: PAKI
+  controller: PAKI
+  cores:
+    GBR: no

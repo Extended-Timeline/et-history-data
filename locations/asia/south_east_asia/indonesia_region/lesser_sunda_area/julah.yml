@@ -1,0 +1,64 @@
+#imported from EU4 file: history/provinces/631 - Bali-Lombok.txt
+2.1.1:
+  pop:
+    ethnicity: javanese_culture
+    religion: hindu
+    estate: peasant
+    size: 1000
+914.1.1:
+  owner: BLI
+  controller: BLI
+  cores:
+    BLI: yes
+  resource: cloth
+1025.1.1:
+  owner: KAHU
+  controller: KAHU
+  cores:
+    KAHU: yes
+1045.1.1:
+  owner: BLI
+  controller: BLI
+  cores:
+    KAHU: no
+1284.1.1:
+  owner: SING
+  controller: SING
+  cores:
+    SING: yes
+1293.1.1:
+  owner: BLI
+  controller: BLI
+  cores:
+    SING: no
+1343.1.1:
+  owner: MAJ
+  controller: MAJ
+  cores:
+    MAJ: yes
+1500.1.1:
+  owner: BLI
+  controller: BLI
+  cores:
+    MAJ: no
+    BLI: yes
+1849.1.1:
+  owner: NED
+  controller: NED
+  cores:
+    NED: yes
+1912.9.10:
+  cores:
+    BLI: no
+    INDN: yes
+1942.3.9:
+  owner: JAP
+  controller: JAP
+1945.8.15:
+  owner: NED
+1945.8.17:
+  owner: INDN
+  controller: INDN
+1949.12.27:
+  cores:
+    NED: no

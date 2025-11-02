@@ -1,0 +1,116 @@
+#imported from EU4 file: history/provinces/438 - Kara Kum.txt
+2.1.1:
+  resource: livestock
+  pop:
+    ethnicity: parthian
+    religion: zoroastrian
+    estate: peasant
+    size: 1000
+600.1.1:
+  pop:
+    ethnicity: turkmen_culture
+    estate: peasant
+    size: 1000
+750.1.1:
+  owner: OGHU
+  controller: OGHU
+  cores:
+    OGHU: yes
+940.1.1:
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+1035.1.1:
+  owner: SELJ
+  controller: SELJ
+  cores:
+    OGHU: no
+    SELJ: yes
+1120.1.1:
+  owner: OGHU
+  controller: OGHU
+  cores:
+    SELJ: no
+    OGHU: yes
+1153.1.1:
+  owner: KHWA
+  controller: KHWA
+  cores:
+    OGHU: no
+    KHWA: yes
+1231.1.1:
+  owner: MGE
+  controller: MGE
+  cores:
+    KHWA: no
+    MGE: yes
+    IRA: yes
+1260.1.1:
+  owner: ILK
+  controller: ILK
+  cores:
+    MGE: no
+    ILK: yes
+1335.1.1:
+  owner: NOGA
+  controller: NOGA
+  cores:
+    ILK: no
+    NOGA: yes
+1380.1.1:
+  owner: TIM
+  controller: TIM
+  cores:
+    NOGA: no
+    TIM: yes
+1409.5.13:
+  owner: TRAN
+  controller: TRAN
+  cores:
+    TRAN: yes
+1448.3.1:
+  owner: TIM
+  controller: TIM
+  cores:
+    TRAN: no
+1502.1.1:
+  owner: KHOR
+  controller: KHOR
+  cores:
+    TIM: no
+    KHOR: yes
+1505.1.1:
+  controller: BUKH
+1506.1.1:
+  owner: BUKH
+  cores:
+    KHOR: no
+    BUKH: yes
+1511.1.1:
+  owner: KHIV
+  controller: KHIV
+  cores:
+    BUKH: no
+1879.1.1:
+  owner: RUS
+  controller: RUS
+  cores:
+    RUS: yes
+1922.12.30:
+  owner: SOVI
+  controller: SOVI
+  cores:
+    RUS: no
+    SOVI: yes
+1924.10.27:
+  cores:
+    KHIV: no
+    SHAY: no
+    TUKM: yes
+1991.10.27:
+  owner: TUKM
+  controller: TUKM
+  cores:
+    SOVI: no
+    RUS: no

@@ -1,0 +1,46 @@
+#imported from EU4 file: history/provinces/2790 - Sanaag.txt
+2.1.1:
+  owner: HEIS
+  controller: HEIS
+  cores:
+    HEIS: yes
+  resource: incense
+  pop:
+    ethnicity: somali_culture
+    religion: bantu_religion
+    estate: peasant
+    size: 1000
+1100.1.1:
+  owner: WAR
+  controller: WAR
+  cores:
+    WAR: yes
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+1526.1.1:
+  owner: ADA
+  controller: ADA
+1555.1.1:
+  owner: WAR
+  controller: WAR
+1886.1.1:
+  owner: GBR
+  controller: GBR
+  cores:
+    GBR: yes
+1940.8.1:
+  controller: ITA
+1941.3.1:
+  controller: GBR
+1960.7.1:
+  owner: SOMA
+  controller: SOMA
+  cores:
+    GBR: no
+    WAR: no
+    SOMA: yes
+2009.1.31:
+  cores:
+    SOML: yes

@@ -1,0 +1,158 @@
+#imported from EU4 file: history/provinces/198 - Rouergue.txt
+2.1.1:
+  owner: ROM
+  controller: ROM
+  cores:
+    ROM: yes
+  resource: livestock
+  pop:
+    ethnicity: gallian
+    religion: druidism
+    estate: peasant
+    size: 1000
+395.1.17:
+  owner: ROMW
+  controller: ROMW
+  cores:
+    ROM: no
+    ROMW: yes
+420.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+455.1.1:
+  owner: VISG
+  controller: VISG
+  cores:
+    ROMW: no
+    VISG: yes
+507.1.1:
+  owner: FRAN
+  controller: FRAN
+  cores:
+    VISG: no
+    FRAN: yes
+511.11.27:
+  owner: ASTS
+  controller: ASTS
+  cores:
+    ASTS: yes
+555.1.1:
+  owner: SOIS
+  controller: SOIS
+  cores:
+    ASTS: no
+    SOIS: yes
+558.12.23:
+  owner: FRAN
+  controller: FRAN
+  cores:
+    SOIS: no
+    FRAN: yes
+561.11.29:
+  owner: ASTS
+  controller: ASTS
+  cores:
+    ASTS: yes
+600.1.1:
+  pop:
+    ethnicity: languedocien
+    estate: peasant
+    size: 1000
+613.10.10:
+  owner: FRAN
+  controller: FRAN
+  cores:
+    FRAN: yes
+626.1.1:
+  owner: ASTS
+  controller: ASTS
+629.10.18:
+  owner: AQN
+  controller: AQN
+  cores:
+    AQN: yes
+769.2.1:
+  owner: FRAN
+  controller: FRAN
+  cores:
+    FRAN: yes
+781.1.1:
+  owner: AQN
+  controller: AQN
+  cores:
+    AQN: yes
+814.1.1:
+  owner: FRAN
+  controller: FRAN
+840.6.21:
+  owner: WFRA
+  controller: WFRA
+  cores:
+    FRAN: no
+    WFRA: yes
+849.1.1:
+  owner: AUV
+  controller: AUV
+  cores:
+    AUV: yes
+867.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+918.1.1:
+  owner: TOU
+  controller: TOU
+  cores:
+    AUV: no
+    TOU: yes
+987.7.3:
+  owner: FRA
+  controller: FRA
+  cores:
+    WFRA: no
+    FRA: yes
+    AQN: yes
+1271.1.1:
+  owner: FRA
+  controller: FRA
+1313.1.1:
+  owner: AMG
+  controller: AMG
+  cores:
+    AMG: yes
+1360.5.9:
+  owner: ENG
+  controller: ENG
+1377.1.1:
+  owner: AMG
+  controller: AMG
+1589.1.5:
+  owner: NAV
+  controller: NAV
+  cores:
+    NAV: yes
+1589.8.2:
+  owner: FRA
+  controller: FRA
+  cores:
+    FRA: yes
+1652.10.21:
+  controller: FRA
+1870.9.4:
+  owner: FRA
+  controller: FRA
+  cores:
+    FRA: yes
+1940.6.14:
+  owner: VFRA
+  controller: VFRA
+  cores:
+    VFRA: yes
+1944.8.25:
+  owner: FRA
+  controller: FRA
+  cores:
+    VFRA: no

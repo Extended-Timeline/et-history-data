@@ -1,0 +1,100 @@
+#imported from EU4 file: history/provinces/258 - Lodz.txt
+2.1.1:
+  owner: VAND
+  controller: VAND
+  cores:
+    VAND: yes
+  resource: grain
+  pop:
+    ethnicity: vandal
+    religion: germanic
+    estate: peasant
+    size: 1000
+250.1.1:
+  owner: VIST
+  controller: VIST
+  cores:
+    VAND: no
+    VIST: yes
+  pop:
+    ethnicity: lesser_polish
+    religion: slavic
+    estate: peasant
+    size: 1000
+550.1.1:
+  owner: POL
+  controller: POL
+  cores:
+    VIST: no
+    POL: yes
+966.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+1231.11.3:
+  owner: MAZ
+  controller: MAZ
+  cores:
+    POL: no
+    MAZ: yes
+1247.8.31:
+  owner: KYVA
+  controller: KYVA
+  cores:
+    MAZ: no
+    KYVA: yes
+1279.12.7:
+  owner: POL
+  controller: POL
+  cores:
+    POL: yes
+1569.7.1:
+  owner: PLC
+  controller: PLC
+  cores:
+    PLC: yes
+    POL: no
+1589.1.1:
+  controller: PLC
+1608.1.1:
+  controller: PLC
+1655.1.1:
+  controller: SWE
+1660.1.1:
+  controller: PLC
+1735.1.1:
+  controller: PLC
+1793.1.2:
+  owner: PRU
+  controller: PRU
+  cores:
+    PRU: yes
+1807.7.9:
+  owner: POL
+  controller: POL
+  cores:
+    PRU: no
+    POL: yes
+1812.12.12:
+  controller: RUS
+1814.4.11:
+  owner: RUS
+  cores:
+    RUS: yes
+1914.12.6:
+  controller: GER
+1918.3.3:
+  owner: POL
+  controller: POL
+  cores:
+    RUS: no
+1939.9.8:
+  controller: GER
+1939.10.6:
+  owner: GER
+1945.1.18:
+  controller: SOVI
+1945.5.8:
+  owner: POL
+  controller: POL

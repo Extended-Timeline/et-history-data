@@ -1,0 +1,76 @@
+#imported from EU4 file: history/provinces/4446 - Kalahandi.txt
+2.1.1:
+  owner: KLH
+  controller: KLH
+  cores:
+    KLH: yes
+  resource: gems
+  pop:
+    ethnicity: garjati
+    religion: hindu
+    estate: peasant
+    size: 1000
+120.1.1:
+  owner: SATA
+  controller: SATA
+  cores:
+    SATA: yes
+175.1.1:
+  owner: BST
+  controller: BST
+  cores:
+    SATA: no
+    BST: yes
+320.1.1:
+  owner: KLH
+  controller: KLH
+  cores:
+    BST: no
+    KLH: yes
+400.1.1:
+  resource: tropical_wood
+510.1.1:
+  owner: DAKS
+  controller: DAKS
+  cores:
+    DAKS: yes
+520.1.1:
+  owner: BST
+  controller: BST
+  cores:
+    DAKS: no
+    BST: yes
+815.1.1:
+  owner: RAST
+  controller: RAST
+  cores:
+    RAST: yes
+820.1.1:
+  owner: BST
+  controller: BST
+  cores:
+    RAST: no
+950.1.1:
+  owner: TOSH
+  controller: TOSH
+  cores:
+    BST: no
+    TOSH: yes
+1023.1.1:
+  owner: DAKS
+  controller: DAKS
+  cores:
+    TOSH: no
+    DAKS: yes
+1114.1.1:
+  owner: KLH
+  controller: KLH
+  cores:
+    DAKS: no
+    KLH: yes
+1930.1.1:
+  cores:
+    INDI: yes
+1947.8.15:
+  owner: INDI
+  controller: INDI

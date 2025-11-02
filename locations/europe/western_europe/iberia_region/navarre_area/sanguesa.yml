@@ -1,0 +1,111 @@
+#imported from EU4 file: history/provinces/210 - Navarra.txt
+2.1.1:
+  owner: VASC
+  controller: VASC
+  cores:
+    VASC: yes
+  resource: iron
+  pop:
+    ethnicity: basque
+    religion: bimoism
+    estate: peasant
+    size: 1000
+14.1.1:
+  owner: ROM
+  controller: ROM
+  cores:
+    ROM: yes
+395.1.17:
+  owner: ROMW
+  controller: ROMW
+  cores:
+    ROM: no
+    ROMW: yes
+420.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+455.1.1:
+  owner: VASC
+  controller: VASC
+  cores:
+    ROMW: no
+    VASC: yes
+466.1.1:
+  owner: VISG
+  controller: VISG
+472.1.1:
+  owner: VASC
+  controller: VASC
+581.1.1:
+  owner: VISG
+  controller: VISG
+  cores:
+    VISG: yes
+589.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+711.1.1:
+  owner: VASC
+  controller: VASC
+  cores:
+    VISG: no
+716.1.1:
+  owner: UMAY
+  controller: UMAY
+  cores:
+    UMAY: yes
+    FRAN: yes
+750.8.6:
+  owner: CRDB
+  controller: CRDB
+  cores:
+    UMAY: no
+    CRDB: yes
+778.1.1:
+  owner: VASC
+  controller: VASC
+824.1.1:
+  owner: NAV
+  controller: NAV
+  cores:
+    UMAY: no
+    FRAN: no
+    VASC: no
+    NAV: yes
+867.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+1512.7.24:
+  owner: ARA
+  controller: ARA
+  cores:
+    ARA: yes
+1515.7.7:
+  owner: CAS
+  controller: CAS
+  cores:
+    ARA: no
+    CAS: yes
+1516.1.23:
+  owner: SPA
+  controller: SPA
+  cores:
+    CAS: no
+    SPA: yes
+1521.5.1:
+  controller: FRA
+1521.6.30:
+  controller: SPA
+1808.12.1:
+  controller: SPA
+1813.12.11:
+  controller: SPA
+1839.1.1:
+  cores:
+    VASC: yes

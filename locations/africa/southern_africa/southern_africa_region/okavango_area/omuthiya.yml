@@ -1,0 +1,34 @@
+#imported from EU4 file: history/provinces/3014 - Okavango.txt
+2.1.1:
+  pop:
+    ethnicity: gxana_culture
+    religion: bantu_religion
+    estate: peasant
+    size: 1000
+1890.1.1:
+  owner: GER
+  controller: GER
+  cores:
+    GER: yes
+  resource: grain
+  pop:
+    religion: lutheran
+    estate: peasant
+    size: 1000
+1910.3.31:
+  cores:
+    SAFR: yes
+1915.7.9:
+  controller: GBR
+1919.6.28:
+  owner: SAFR
+  controller: SAFR
+  cores:
+    GER: no
+    SAFR: yes
+1990.3.21:
+  owner: NAMI
+  controller: NAMI
+  cores:
+    SAFR: no
+    NAMI: yes

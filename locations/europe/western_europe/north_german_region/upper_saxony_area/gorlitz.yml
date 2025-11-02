@@ -1,0 +1,159 @@
+#imported from EU4 file: history/provinces/4778 - Gorlitz.txt
+2.1.1:
+  owner: NAHA
+  controller: NAHA
+  cores:
+    NAHA: yes
+  resource: livestock
+  pop:
+    ethnicity: vandal
+    religion: germanic
+    estate: peasant
+    size: 1000
+395.1.1:
+  owner: LOMB
+  controller: LOMB
+  cores:
+    NAHA: no
+    LOMB: yes
+  pop:
+    ethnicity: langobardi
+    estate: peasant
+    size: 1000
+400.1.1:
+  owner: SORB
+  controller: SORB
+  cores:
+    LOMB: no
+    SORB: yes
+  pop:
+    ethnicity: sorbian
+    religion: slavic
+    estate: peasant
+    size: 1000
+932.1.1:
+  owner: SAX
+  controller: SAX
+  cores:
+    SORB: no
+    SAX: yes
+948.1.1:
+  owner: BRA
+  controller: BRA
+  cores:
+    SAX: no
+    BRA: yes
+965.1.1:
+  owner: SOR
+  controller: SOR
+  cores:
+    BRA: no
+    SOR: yes
+968.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+1003.1.1:
+  controller: POL
+1005.1.1:
+  controller: SOR
+1007.1.1:
+  controller: POL
+1018.1.30:
+  owner: POL
+  cores:
+    POL: yes
+1031.1.1:
+  owner: MEI
+  controller: MEI
+  cores:
+    SOR: no
+    POL: no
+    MEI: yes
+1250.1.1:
+  pop:
+    ethnicity: saxon
+    estate: peasant
+    size: 1000
+1253.1.1:
+  owner: BRA
+  controller: BRA
+  cores:
+    BRA: yes
+1319.1.1:
+  owner: BOH
+  controller: BOH
+  cores:
+    BRA: no
+    BOH: yes
+1453.1.1:
+  cores:
+    POL: yes
+1466.1.1:
+  owner: HUN
+  controller: HUN
+  cores:
+    HUN: yes
+1478.1.1:
+  cores:
+    POL: no
+1490.4.26:
+  owner: BOH
+  controller: BOH
+  cores:
+    HUN: no
+1526.8.30:
+  owner: HAB
+  controller: HAB
+  cores:
+    BOH: no
+    HAB: yes
+1531.1.1:
+  pop:
+    religion: lutheran
+    estate: peasant
+    size: 1000
+1618.5.23:
+  owner: BOH
+  controller: BOH
+  cores:
+    BOH: yes
+1620.11.8:
+  owner: SAX
+  controller: SAX
+  cores:
+    BOH: no
+    SAX: yes
+1815.6.9:
+  owner: PRU
+  controller: PRU
+  cores:
+    SAX: no
+    PRU: yes
+1840.1.1:
+  pop:
+    ethnicity: saxon
+    estate: peasant
+    size: 1000
+1871.1.18:
+  owner: GER
+  controller: GER
+  cores:
+    GER: yes
+1900.1.1:
+  cores:
+    PRU: no
+1945.4.30:
+  controller: SOVI
+1945.5.8:
+  owner: POL
+  controller: POL
+  cores:
+    GER: no
+    POL: yes
+  pop:
+    ethnicity: lesser_polish
+    religion: catholic
+    estate: peasant
+    size: 1000

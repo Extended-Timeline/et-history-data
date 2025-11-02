@@ -1,0 +1,42 @@
+#imported from EU4 file: history/provinces/2015 - Nipigon.txt
+2.1.1:
+  pop:
+    ethnicity: ojibwe_culture
+    religion: iroquoian_totemism
+    estate: peasant
+    size: 1000
+1684.1.1:
+  owner: FRA
+  controller: FRA
+  cores:
+    FRA: yes
+  resource: fur
+1700.1.1:
+  pop:
+    ethnicity: french
+    religion: catholic
+    estate: peasant
+    size: 1000
+1763.2.10:
+  owner: GBR
+  controller: GBR
+  cores:
+    FRA: no
+    GBR: yes
+  pop:
+    ethnicity: english
+    estate: peasant
+    size: 1000
+1790.1.1:
+  pop:
+    ethnicity: british_canadian
+    estate: peasant
+    size: 1000
+1850.1.1:
+  resource: paper
+1867.7.1:
+  owner: CAN
+  controller: CAN
+  cores:
+    GBR: no
+    CAN: yes

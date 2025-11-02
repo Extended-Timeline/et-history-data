@@ -1,0 +1,107 @@
+#imported from EU4 file: history/provinces/4444 - Manidurg.txt
+2.1.1:
+  owner: SATA
+  controller: SATA
+  cores:
+    SATA: yes
+  resource: tropical_wood
+  pop:
+    ethnicity: telugu
+    religion: mahayana
+    estate: peasant
+    size: 1000
+220.1.1:
+  owner: ABHI
+  controller: ABHI
+  cores:
+    SATA: no
+    ABHI: yes
+250.1.1:
+  owner: VAKA
+  controller: VAKA
+  cores:
+    ABHI: no
+    VAKA: yes
+260.1.1:
+  pop:
+    religion: hindu
+    estate: peasant
+    size: 1000
+500.1.1:
+  owner: RDY
+  controller: RDY
+  cores:
+    VAKA: no
+    RDY: yes
+616.1.1:
+  owner: CHAL
+  controller: CHAL
+  cores:
+    RDY: no
+    CHAL: yes
+753.1.1:
+  owner: RAST
+  controller: RAST
+  cores:
+    CHAL: no
+    RAST: yes
+973.1.1:
+  owner: CHAL
+  controller: CHAL
+  cores:
+    RAST: no
+    CHAL: yes
+1162.1.1:
+  owner: TELI
+  controller: TELI
+  cores:
+    CHAL: no
+    TELI: yes
+1324.1.1:
+  owner: DLH
+  controller: DLH
+  cores:
+    DLH: yes
+1336.1.1:
+  owner: TELI
+  controller: TELI
+  cores:
+    DLH: no
+1370.1.1:
+  owner: BAH
+  controller: BAH
+  cores:
+    BAH: yes
+1456.1.1:
+  controller: BAH
+1490.1.1:
+  owner: BERR
+  controller: BERR
+  cores:
+    BAH: no
+1574.1.1:
+  owner: GOLC
+  controller: GOLC
+  cores:
+    GOLC: yes
+1596.1.1:
+  owner: MUG
+  controller: MUG
+  cores:
+    MUG: yes
+1712.1.1:
+  cores:
+    DEC: yes
+1724.1.1:
+  owner: DEC
+  controller: DEC
+  cores:
+    MUG: no
+1930.1.1:
+  cores:
+    INDI: yes
+1948.9.1:
+  owner: INDI
+  controller: INDI
+  cores:
+    DEC: no

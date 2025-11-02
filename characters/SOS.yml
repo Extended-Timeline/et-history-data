@@ -1,0 +1,121 @@
+sos_ibn_tumart_almohad:
+  1080.1.1:
+    birth: tamdoult #TODO: Date and location guessed, check if better data is available
+    first_name: ibn_tumart
+    dynasty: almohad_dynasty
+    adm: 75
+    dip: 75
+    mil: 90
+    religion: sunni
+    culture: masmuda
+  1130.5.1:
+    death: yes
+sos_abd_al_mumin_almohad:
+  1094.1.1:
+    birth: tamdoult #TODO: Date and location guessed, check if better data is available
+    first_name: abd_al_mumin
+    dynasty: almohad_dynasty
+    adm: 75
+    dip: 75
+    mil: 90
+    religion: sunni
+    culture: masmuda
+  3000.1.1:
+    death: yes
+sos_abu_yaqub_yusuf_i_almohad:
+  1135.1.1:
+    birth: tamdoult #TODO: Date and location guessed, check if better data is available
+    first_name: abu_yaqub_yusuf
+    dynasty: almohad_dynasty
+    father: sos_abd_al_mumin_almohad #TODO: check if this makes sense
+    adm: 75
+    dip: 75
+    mil: 75
+    religion: sunni
+    culture: masmuda
+  1184.10.14:
+    death: yes
+sos_abdallah_banu_amghar:
+  1340.1.1:
+    birth: tamdoult #TODO: Date and location guessed, check if better data is available
+    first_name: abdallah
+    dynasty: banu_amghar_dynasty
+    adm: 30
+    dip: 30
+    mil: 15
+    religion: sunni
+    culture: masmuda
+  1400.1.1:
+    death: yes
+sos_mohammed_banu_amghar:
+  1370.1.1:
+    birth: tamdoult #TODO: Date and location guessed, check if better data is available
+    first_name: mohammed
+    dynasty: banu_amghar_dynasty
+    adm: 30
+    dip: 30
+    mil: 15
+    religion: sunni
+    culture: masmuda
+  1440.1.1:
+    death: yes
+sos_muhammad_al_jazuli:
+  1399.1.1:
+    birth: tamdoult #TODO: Date and location guessed, check if better data is available
+    first_name: muhammad_al_jazuli
+    adm: 60
+    dip: 75
+    mil: 30
+    religion: sunni
+    culture: masmuda
+  1472.1.1:
+    death: yes
+sos_barakat_al_tadsi:
+  1442.1.1:
+    birth: tamdoult #TODO: Date and location guessed, check if better data is available
+    first_name: barakat
+    dynasty: al_tadsi_dynasty
+    adm: 30
+    dip: 30
+    mil: 45
+    religion: sunni
+    culture: masmuda
+  1613.1.1:
+    death: yes
+sos_abu_hassun_al_ilighi:
+  1583.1.1:
+    birth: tamdoult #TODO: Date and location guessed, check if better data is available
+    first_name: abu_hassun
+    dynasty: al_ilighi_dynasty
+    adm: 60
+    dip: 30
+    mil: 45
+    religion: sunni
+    culture: masmuda
+  1659.1.1:
+    death: yes
+sos_muhammad_al_ilighi:
+  1613.1.1:
+    birth: tamdoult #TODO: Date and location guessed, check if better data is available
+    first_name: muhammad
+    dynasty: al_ilighi_dynasty
+    father: sos_abu_hassun_al_ilighi #TODO: check if this makes sense
+    adm: 15
+    dip: 15
+    mil: 30
+    religion: sunni
+    culture: masmuda
+  1680.1.1:
+    death: yes
+sos_muhammad_al_ilighi_1:
+  1629.1.1:
+    birth: tamdoult #TODO: Date and location guessed, check if better data is available
+    first_name: muhammad
+    dynasty: al_ilighi_dynasty
+    adm: 15
+    dip: 15
+    mil: 30
+    religion: sunni
+    culture: masmuda
+  3000.1.1:
+    death: yes

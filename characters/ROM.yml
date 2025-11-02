@@ -1,0 +1,791 @@
+rom_augustus_julio_claudian:
+  -28.1.1:
+    birth: rome #TODO: Date and location guessed, check if better data is available
+    first_name: augustus
+    dynasty: julio_claudian_dynasty
+    adm: 60
+    dip: 45
+    mil: 45
+    religion: hellenism_religion
+    culture: roman
+  14.9.18:
+    death: yes
+rom_tiberius_julio_claudian:
+  -16.1.1:
+    birth: rome #TODO: Date and location guessed, check if better data is available
+    first_name: tiberius
+    dynasty: julio_claudian_dynasty
+    adm: 60
+    dip: 45
+    mil: 45
+    religion: hellenism_religion
+    culture: roman
+  37.3.18:
+    death: yes
+rom_caligula_julio_claudian:
+  12.8.31:
+    birth: rome #TODO: Location guessed, check if better data is available
+    first_name: caligula
+    dynasty: julio_claudian_dynasty
+    father: rom_tiberius_julio_claudian #TODO: check if this makes sense
+    adm: 30
+    dip: 45
+    mil: 60
+    religion: hellenism_religion
+    culture: roman
+  41.1.24:
+    death: yes
+rom_caligula_julio_claudian_1:
+  7.1.1:
+    birth: rome #TODO: Date and location guessed, check if better data is available
+    first_name: caligula
+    dynasty: julio_claudian_dynasty
+    adm: 30
+    dip: 45
+    mil: 60
+    religion: hellenism_religion
+    culture: roman
+  41.1.24:
+    death: yes
+rom_claudius_julio_claudian:
+  2.1.1:
+    birth: rome #TODO: Date and location guessed, check if better data is available
+    first_name: claudius
+    dynasty: julio_claudian_dynasty
+    father: rom_caligula_julio_claudian_1 #TODO: check if this makes sense
+    adm: 75
+    dip: 30
+    mil: 45
+    religion: hellenism_religion
+    culture: roman
+  54.10.13:
+    death: yes
+rom_claudius_julio_claudian_1:
+  11.1.1:
+    birth: rome #TODO: Date and location guessed, check if better data is available
+    first_name: claudius
+    dynasty: julio_claudian_dynasty
+    adm: 75
+    dip: 30
+    mil: 45
+    religion: hellenism_religion
+    culture: roman
+  54.10.13:
+    death: yes
+rom_nero_julio_claudian:
+  37.12.15:
+    birth: rome #TODO: Location guessed, check if better data is available
+    first_name: nero
+    dynasty: julio_claudian_dynasty
+    adm: 15
+    dip: 45
+    mil: 45
+    religion: hellenism_religion
+    culture: roman
+  68.6.8:
+    death: yes
+rom_galba_severius_sulpicius:
+  38.1.1:
+    birth: rome #TODO: Date and location guessed, check if better data is available
+    first_name: galba
+    dynasty: severius_sulpicius_dynasty
+    adm: 30
+    dip: 30
+    mil: 30
+    religion: hellenism_religion
+    culture: roman
+  69.1.15:
+    death: yes
+rom_otho_marcus_salvius:
+  39.1.1:
+    birth: rome #TODO: Date and location guessed, check if better data is available
+    first_name: otho
+    dynasty: marcus_salvius_dynasty
+    adm: 15
+    dip: 60
+    mil: 15
+    religion: hellenism_religion
+    culture: roman
+  69.4.17:
+    death: yes
+rom_vitellius_aulus:
+  39.1.1:
+    birth: rome #TODO: Date and location guessed, check if better data is available
+    first_name: vitellius
+    dynasty: aulus_dynasty
+    adm: 45
+    dip: 30
+    mil: 30
+    religion: hellenism_religion
+    culture: roman
+  69.7.1:
+    death: yes
+rom_vespasian_flavian:
+  39.1.1:
+    birth: rome #TODO: Date and location guessed, check if better data is available
+    first_name: vespasian
+    dynasty: flavian_dynasty
+    adm: 60
+    dip: 45
+    mil: 90
+    religion: hellenism_religion
+    culture: roman
+  79.6.24:
+    death: yes
+rom_titus_flavian:
+  39.12.30:
+    birth: rome #TODO: Location guessed, check if better data is available
+    first_name: titus
+    dynasty: flavian_dynasty
+    father: rom_vespasian_flavian #TODO: check if this makes sense
+    adm: 60
+    dip: 45
+    mil: 75
+    religion: hellenism_religion
+    culture: roman
+  81.9.13:
+    death: yes
+rom_titus_flavian_1:
+  49.1.1:
+    birth: rome #TODO: Date and location guessed, check if better data is available
+    first_name: titus
+    dynasty: flavian_dynasty
+    adm: 60
+    dip: 45
+    mil: 75
+    religion: hellenism_religion
+    culture: roman
+  81.9.14:
+    death: yes
+rom_domitian_flavian:
+  51.1.1:
+    birth: rome #TODO: Date and location guessed, check if better data is available
+    first_name: domitian
+    dynasty: flavian_dynasty
+    adm: 60
+    dip: 30
+    mil: 60
+    religion: hellenism_religion
+    culture: roman
+  96.9.18:
+    death: yes
+rom_nerva_nerva_antonine:
+  66.1.1:
+    birth: rome #TODO: Date and location guessed, check if better data is available
+    first_name: nerva
+    dynasty: nerva_antonine_dynasty
+    adm: 60
+    dip: 75
+    mil: 45
+    religion: hellenism_religion
+    culture: roman
+  98.1.28:
+    death: yes
+rom_trajan_nerva_antonine:
+  53.9.18:
+    birth: rome #TODO: Location guessed, check if better data is available
+    first_name: trajan
+    dynasty: nerva_antonine_dynasty
+    father: rom_nerva_nerva_antonine #TODO: check if this makes sense
+    adm: 75
+    dip: 75
+    mil: 90
+    religion: hellenism_religion
+    culture: roman
+  117.8.9:
+    death: yes
+rom_trajan_nerva_antonine_1:
+  68.1.1:
+    birth: rome #TODO: Date and location guessed, check if better data is available
+    first_name: trajan
+    dynasty: nerva_antonine_dynasty
+    adm: 75
+    dip: 75
+    mil: 90
+    religion: hellenism_religion
+    culture: roman
+  117.8.11:
+    death: yes
+rom_hadrian_nerva_antonine:
+  76.1.24:
+    birth: rome #TODO: Location guessed, check if better data is available
+    first_name: hadrian
+    dynasty: nerva_antonine_dynasty
+    father: rom_trajan_nerva_antonine_1 #TODO: check if this makes sense
+    adm: 75
+    dip: 60
+    mil: 90
+    religion: hellenism_religion
+    culture: roman
+  138.7.10:
+    death: yes
+rom_hadrian_nerva_antonine_1:
+  87.1.1:
+    birth: rome #TODO: Date and location guessed, check if better data is available
+    first_name: hadrian
+    dynasty: nerva_antonine_dynasty
+    adm: 75
+    dip: 60
+    mil: 90
+    religion: hellenism_religion
+    culture: roman
+  138.6.10:
+    death: yes
+rom_antonius_pius_nerva_antonine:
+  86.9.19:
+    birth: rome #TODO: Location guessed, check if better data is available
+    first_name: antonius_pius
+    dynasty: nerva_antonine_dynasty
+    father: rom_hadrian_nerva_antonine_1 #TODO: check if this makes sense
+    adm: 60
+    dip: 45
+    mil: 45
+    religion: hellenism_religion
+    culture: roman
+  161.3.7:
+    death: yes
+rom_antonius_pius_nerva_antonine_1:
+  108.1.1:
+    birth: rome #TODO: Date and location guessed, check if better data is available
+    first_name: antonius_pius
+    dynasty: nerva_antonine_dynasty
+    adm: 60
+    dip: 45
+    mil: 45
+    religion: hellenism_religion
+    culture: roman
+  161.3.7:
+    death: yes
+rom_marcus_aurelius_nerva_antonine:
+  121.4.26:
+    birth: rome #TODO: Location guessed, check if better data is available
+    first_name: marcus_aurelius
+    dynasty: nerva_antonine_dynasty
+    father: rom_antonius_pius_nerva_antonine_1 #TODO: check if this makes sense
+    adm: 60
+    dip: 60
+    mil: 75
+    religion: hellenism_religion
+    culture: roman
+  180.3.17:
+    death: yes
+rom_marcus_aurelius_nerva_antonine_1:
+  131.1.1:
+    birth: rome #TODO: Date and location guessed, check if better data is available
+    first_name: marcus_aurelius
+    dynasty: nerva_antonine_dynasty
+    adm: 60
+    dip: 60
+    mil: 75
+    religion: hellenism_religion
+    culture: roman
+  180.3.17:
+    death: yes
+rom_commodus_nerva_antonine:
+  161.8.31:
+    birth: rome #TODO: Location guessed, check if better data is available
+    first_name: commodus
+    dynasty: nerva_antonine_dynasty
+    father: rom_marcus_aurelius_nerva_antonine_1 #TODO: check if this makes sense
+    adm: 0
+    dip: 15
+    mil: 30
+    religion: hellenism_religion
+    culture: roman
+  192.12.31:
+    death: yes
+rom_commodus_nerva_antonine_1:
+  150.1.1:
+    birth: rome #TODO: Date and location guessed, check if better data is available
+    first_name: commodus
+    dynasty: nerva_antonine_dynasty
+    adm: 0
+    dip: 15
+    mil: 30
+    religion: hellenism_religion
+    culture: roman
+  193.1.1:
+    death: yes
+rom_pertinax_publius_helvius:
+  163.1.1:
+    birth: rome #TODO: Date and location guessed, check if better data is available
+    first_name: pertinax
+    dynasty: publius_helvius_dynasty
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: hellenism_religion
+    culture: roman
+  193.3.28:
+    death: yes
+rom_didius_severus_julianus:
+  163.1.1:
+    birth: rome #TODO: Date and location guessed, check if better data is available
+    first_name: didius
+    dynasty: severus_julianus_dynasty
+    adm: 60
+    dip: 45
+    mil: 30
+    religion: hellenism_religion
+    culture: roman
+  193.6.1:
+    death: yes
+rom_septimius_severus_severan:
+  163.1.1:
+    birth: rome #TODO: Date and location guessed, check if better data is available
+    first_name: septimius_severus
+    dynasty: severan_dynasty
+    adm: 60
+    dip: 60
+    mil: 60
+    religion: hellenism_religion
+    culture: roman
+  211.2.5:
+    death: yes
+rom_caracalla_severan:
+  188.4.4:
+    birth: rome #TODO: Location guessed, check if better data is available
+    first_name: caracalla
+    dynasty: severan_dynasty
+    father: rom_septimius_severus_severan #TODO: check if this makes sense
+    adm: 30
+    dip: 60
+    mil: 45
+    religion: hellenism_religion
+    culture: roman
+  217.4.8:
+    death: yes
+rom_caracalla_severan_1:
+  181.1.1:
+    birth: rome #TODO: Date and location guessed, check if better data is available
+    first_name: caracalla
+    dynasty: severan_dynasty
+    adm: 30
+    dip: 60
+    mil: 45
+    religion: hellenism_religion
+    culture: roman
+  217.4.9:
+    death: yes
+rom_macrinus_pius_felix:
+  187.1.1:
+    birth: rome #TODO: Date and location guessed, check if better data is available
+    first_name: macrinus
+    dynasty: pius_felix_dynasty
+    adm: 30
+    dip: 45
+    mil: 60
+    religion: hellenism_religion
+    culture: roman
+  218.6.8:
+    death: yes
+rom_elagabalus_severan:
+  188.1.1:
+    birth: rome #TODO: Date and location guessed, check if better data is available
+    first_name: elagabalus
+    dynasty: severan_dynasty
+    adm: 60
+    dip: 45
+    mil: 30
+    religion: hellenism_religion
+    culture: roman
+  222.3.12:
+    death: yes
+rom_severus_alexander_severan:
+  192.1.1:
+    birth: rome #TODO: Date and location guessed, check if better data is available
+    first_name: severus_alexander
+    dynasty: severan_dynasty
+    adm: 60
+    dip: 45
+    mil: 60
+    religion: hellenism_religion
+    culture: roman
+  235.3.20:
+    death: yes
+rom_maximinus_i_julius_verus:
+  205.1.1:
+    birth: rome #TODO: Date and location guessed, check if better data is available
+    first_name: maximinus
+    dynasty: julius_verus_dynasty
+    adm: 30
+    dip: 15
+    mil: 45
+    religion: hellenism_religion
+    culture: roman
+  238.3.22:
+    death: yes
+rom_gordian_i_semporianus:
+  208.1.1:
+    birth: rome #TODO: Date and location guessed, check if better data is available
+    first_name: gordian
+    dynasty: semporianus_dynasty
+    adm: 60
+    dip: 45
+    mil: 60
+    religion: hellenism_religion
+    culture: roman
+  238.4.22:
+    death: yes
+rom_gordian_iii_marcus_antonius:
+  208.1.1:
+    birth: rome #TODO: Date and location guessed, check if better data is available
+    first_name: gordian
+    dynasty: marcus_antonius_dynasty
+    adm: 60
+    dip: 45
+    mil: 60
+    religion: hellenism_religion
+    culture: roman
+  244.2.12:
+    death: yes
+rom_philip_i_marcus_julius:
+  214.1.1:
+    birth: rome #TODO: Date and location guessed, check if better data is available
+    first_name: philip
+    dynasty: marcus_julius_dynasty
+    adm: 60
+    dip: 45
+    mil: 60
+    religion: hellenism_religion
+    culture: roman
+  249.10.1:
+    death: yes
+rom_trajan_decius_decian:
+  219.1.1:
+    birth: rome #TODO: Date and location guessed, check if better data is available
+    first_name: trajan_decius
+    dynasty: decian_dynasty
+    adm: 60
+    dip: 45
+    mil: 60
+    religion: hellenism_religion
+    culture: roman
+  251.6.14:
+    death: yes
+rom_hostilian_decian:
+  230.1.1:
+    birth: rome #TODO: Date and location guessed, check if better data is available
+    first_name: hostilian
+    dynasty: decian_dynasty
+    father: rom_trajan_decius_decian #TODO: check if this makes sense
+    adm: 60
+    dip: 45
+    mil: 60
+    religion: hellenism_religion
+    culture: roman
+  251.9.30:
+    death: yes
+rom_hostilian_decian_1:
+  221.1.1:
+    birth: rome #TODO: Date and location guessed, check if better data is available
+    first_name: hostilian
+    dynasty: decian_dynasty
+    adm: 60
+    dip: 45
+    mil: 60
+    religion: hellenism_religion
+    culture: roman
+  251.10.1:
+    death: yes
+rom_trebonianus_gallus_gaius_vibius:
+  221.1.1:
+    birth: rome #TODO: Date and location guessed, check if better data is available
+    first_name: trebonianus_gallus
+    dynasty: gaius_vibius_dynasty
+    adm: 60
+    dip: 45
+    mil: 60
+    religion: hellenism_religion
+    culture: roman
+  253.8.1:
+    death: yes
+rom_aemilian_aemilianus:
+  223.1.1:
+    birth: rome #TODO: Date and location guessed, check if better data is available
+    first_name: aemilian
+    dynasty: aemilianus_dynasty
+    adm: 60
+    dip: 45
+    mil: 60
+    religion: hellenism_religion
+    culture: roman
+  253.9.1:
+    death: yes
+rom_valerian_licinius:
+  223.1.1:
+    birth: rome #TODO: Date and location guessed, check if better data is available
+    first_name: valerian
+    dynasty: licinius_dynasty
+    adm: 60
+    dip: 45
+    mil: 60
+    religion: hellenism_religion
+    culture: roman
+  260.1.1:
+    death: yes
+rom_gallienus_licinius:
+  218.1.1:
+    birth: rome #TODO: Date and location guessed, check if better data is available
+    first_name: gallienus
+    dynasty: licinius_dynasty
+    father: rom_valerian_licinius #TODO: check if this makes sense
+    adm: 45
+    dip: 45
+    mil: 75
+    religion: hellenism_religion
+    culture: roman
+  268.8.31:
+    death: yes
+rom_gallienus_licinius_1:
+  230.1.1:
+    birth: rome #TODO: Date and location guessed, check if better data is available
+    first_name: gallienus
+    dynasty: licinius_dynasty
+    adm: 45
+    dip: 45
+    mil: 75
+    religion: hellenism_religion
+    culture: roman
+  268.9.1:
+    death: yes
+rom_claudius_gothicus_aurelius:
+  238.1.1:
+    birth: rome #TODO: Date and location guessed, check if better data is available
+    first_name: claudius_gothicus
+    dynasty: aurelius_dynasty
+    adm: 60
+    dip: 45
+    mil: 60
+    religion: hellenism_religion
+    culture: roman
+  270.1.1:
+    death: yes
+rom_quintillus_aurelius:
+  240.1.1:
+    birth: rome #TODO: Date and location guessed, check if better data is available
+    first_name: quintillus
+    dynasty: aurelius_dynasty
+    adm: 60
+    dip: 45
+    mil: 60
+    religion: hellenism_religion
+    culture: roman
+  270.9.1:
+    death: yes
+rom_aurelian_lucius_domitius:
+  240.1.1:
+    birth: rome #TODO: Date and location guessed, check if better data is available
+    first_name: aurelian
+    dynasty: lucius_domitius_dynasty
+    adm: 60
+    dip: 45
+    mil: 60
+    religion: hellenism_religion
+    culture: roman
+  275.9.25:
+    death: yes
+rom_tacitus_marcus:
+  245.1.1:
+    birth: rome #TODO: Date and location guessed, check if better data is available
+    first_name: tacitus
+    dynasty: marcus_dynasty
+    adm: 60
+    dip: 45
+    mil: 60
+    religion: hellenism_religion
+    culture: roman
+  276.6.1:
+    death: yes
+rom_florian_marcus:
+  246.1.1:
+    birth: rome #TODO: Date and location guessed, check if better data is available
+    first_name: florian
+    dynasty: marcus_dynasty
+    adm: 60
+    dip: 45
+    mil: 60
+    religion: hellenism_religion
+    culture: roman
+  276.9.1:
+    death: yes
+rom_probus_augustus:
+  246.1.1:
+    birth: rome #TODO: Date and location guessed, check if better data is available
+    first_name: probus
+    dynasty: augustus_dynasty
+    adm: 60
+    dip: 45
+    mil: 60
+    religion: hellenism_religion
+    culture: roman
+  282.10.1:
+    death: yes
+rom_carus_augustus:
+  252.1.1:
+    birth: rome #TODO: Date and location guessed, check if better data is available
+    first_name: carus
+    dynasty: augustus_dynasty
+    adm: 60
+    dip: 45
+    mil: 60
+    religion: hellenism_religion
+    culture: roman
+  283.8.1:
+    death: yes
+rom_carinus_augustus:
+  253.1.1:
+    birth: rome #TODO: Date and location guessed, check if better data is available
+    first_name: carinus
+    dynasty: augustus_dynasty
+    adm: 60
+    dip: 45
+    mil: 60
+    religion: hellenism_religion
+    culture: roman
+  284.11.20:
+    death: yes
+rom_diocletian_augustus:
+  254.1.1:
+    birth: rome #TODO: Date and location guessed, check if better data is available
+    first_name: diocletian
+    dynasty: augustus_dynasty
+    adm: 60
+    dip: 45
+    mil: 60
+    religion: hellenism_religion
+    culture: roman
+  305.3.1:
+    death: yes
+rom_constantinus_i_chlorus_constantinian:
+  275.1.1:
+    birth: rome #TODO: Date and location guessed, check if better data is available
+    first_name: constantinus_i_chlorus
+    dynasty: constantinian_dynasty
+    adm: 60
+    dip: 45
+    mil: 60
+    religion: hellenism_religion
+    culture: roman
+  306.7.1:
+    death: yes
+rom_severus_ii_constantinian:
+  276.1.1:
+    birth: rome #TODO: Date and location guessed, check if better data is available
+    first_name: severus
+    dynasty: constantinian_dynasty
+    adm: 60
+    dip: 45
+    mil: 60
+    religion: hellenism_religion
+    culture: roman
+  307.4.1:
+    death: yes
+rom_constantine_i_constantinian:
+  277.1.1:
+    birth: rome #TODO: Date and location guessed, check if better data is available
+    first_name: constantine
+    dynasty: constantinian_dynasty
+    adm: 60
+    dip: 45
+    mil: 60
+    religion: hellenism_religion
+    culture: roman
+  311.8.1:
+    death: yes
+rom_licinius_i_constantinian:
+  281.1.1:
+    birth: rome #TODO: Date and location guessed, check if better data is available
+    first_name: licinius
+    dynasty: constantinian_dynasty
+    adm: 60
+    dip: 45
+    mil: 60
+    religion: hellenism_religion
+    culture: roman
+  324.9.18:
+    death: yes
+rom_constantine_i_constantinian_1:
+  294.1.1:
+    birth: constantinople #TODO: Date and location guessed, check if better data is available
+    first_name: constantine
+    dynasty: constantinian_dynasty
+    adm: 60
+    dip: 45
+    mil: 60
+    religion: hellenism_religion
+    culture: roman
+  337.3.22:
+    death: yes
+rom_constantinus_ii_constantinian:
+  307.1.1:
+    birth: constantinople #TODO: Date and location guessed, check if better data is available
+    first_name: constantinus
+    dynasty: constantinian_dynasty
+    adm: 60
+    dip: 45
+    mil: 60
+    religion: hellenism_religion
+    culture: roman
+  360.2.18:
+    death: yes
+rom_julian_ii_constantinian:
+  330.1.1:
+    birth: constantinople #TODO: Date and location guessed, check if better data is available
+    first_name: julian
+    dynasty: constantinian_dynasty
+    adm: 60
+    dip: 45
+    mil: 60
+    religion: hellenism_religion
+    culture: roman
+  363.6.26:
+    death: yes
+rom_jovian_constantinian:
+  333.1.1:
+    birth: constantinople #TODO: Date and location guessed, check if better data is available
+    first_name: jovian
+    dynasty: constantinian_dynasty
+    adm: 60
+    dip: 45
+    mil: 60
+    religion: hellenism_religion
+    culture: roman
+  364.2.26:
+    death: yes
+rom_valentinian_i_valentinian:
+  334.1.1:
+    birth: constantinople #TODO: Date and location guessed, check if better data is available
+    first_name: valentinian
+    dynasty: valentinian_dynasty
+    adm: 60
+    dip: 45
+    mil: 60
+    religion: hellenism_religion
+    culture: roman
+  375.12.17:
+    death: yes
+rom_valentinian_ii_valentinian:
+  345.1.1:
+    birth: constantinople #TODO: Date and location guessed, check if better data is available
+    first_name: valentinian
+    dynasty: valentinian_dynasty
+    adm: 60
+    dip: 45
+    mil: 60
+    religion: chalcedonism
+    culture: roman
+  392.3.15:
+    death: yes
+rom_theodosius_i_theodosian:
+  362.1.1:
+    birth: constantinople #TODO: Date and location guessed, check if better data is available
+    first_name: theodosius
+    dynasty: theodosian_dynasty
+    adm: 60
+    dip: 45
+    mil: 60
+    religion: chalcedonism
+    culture: roman
+  3000.1.1:
+    death: yes

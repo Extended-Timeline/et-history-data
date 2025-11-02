@@ -1,0 +1,100 @@
+#imported from EU4 file: history/provinces/4465 - Ranthambore.txt
+2.1.1:
+  owner: PADM
+  controller: PADM
+  cores:
+    PADM: yes
+  resource: dyes
+  pop:
+    ethnicity: marwari
+    religion: hindu
+    estate: peasant
+    size: 1000
+360.1.1:
+  owner: GUPT
+  controller: GUPT
+  cores:
+    GUPT: yes
+540.1.1:
+  owner: PUSH
+  controller: PUSH
+  cores:
+    GUPT: no
+    PUSH: yes
+647.1.1:
+  owner: GURJ
+  controller: GURJ
+  cores:
+    PUSH: no
+    GURJ: yes
+1036.1.1:
+  owner: CHAU
+  controller: CHAU
+  cores:
+    GURJ: no
+    CHAU: yes
+1192.1.1:
+  owner: RANA
+  controller: RANA
+  cores:
+    CHAU: no
+    RANA: yes
+1301.7.10:
+  owner: DLH
+  controller: DLH
+  cores:
+    DLH: yes
+1350.1.1:
+  owner: MEW
+  controller: MEW
+  cores:
+    DLH: no
+    MEW: yes
+1456.1.1:
+  owner: MLW
+  controller: MLW
+  cores:
+    MLW: yes
+1519.1.1:
+  owner: HAD
+  controller: HAD
+  cores:
+    MLW: no
+1530.1.1:
+  owner: MUG
+  controller: MUG
+  cores:
+    MUG: yes
+1540.1.1:
+  owner: HAD
+  controller: HAD
+  cores:
+    MUG: no
+1544.1.1:
+  owner: BNG
+  controller: BNG
+  cores:
+    BNG: yes
+1545.5.22:
+  owner: HAD
+  controller: HAD
+  cores:
+    BNG: no
+1569.1.1:
+  owner: MUG
+  controller: MUG
+  cores:
+    MUG: yes
+1737.1.1:
+  owner: GWA
+  controller: GWA
+  cores:
+    MUG: no
+1930.1.1:
+  cores:
+    INDI: yes
+1947.8.15:
+  owner: INDI
+  controller: INDI
+  cores:
+    GWA: no

@@ -1,0 +1,72 @@
+#imported from EU4 file: history/provinces/4266 - Izhkar.txt
+2.1.1:
+  resource: iron
+  pop:
+    ethnicity: udmurt
+    religion: muinaisusko
+    estate: peasant
+    size: 1000
+750.1.1:
+  owner: UDMU
+  controller: UDMU
+  cores:
+    UDMU: yes
+  resource: iron
+1250.1.1:
+  owner: MGE
+  controller: MGE
+  cores:
+    MGE: yes
+    KAZN: yes
+1260.1.1:
+  owner: WHHO
+  controller: WHHO
+  cores:
+    MGE: no
+    WHHO: yes
+1372.1.1:
+  owner: BLHO
+  controller: BLHO
+  cores:
+    BLHO: yes
+1374.1.1:
+  owner: WHHO
+  controller: WHHO
+  cores:
+    BLHO: no
+1378.1.1:
+  owner: GLH
+  controller: GLH
+  cores:
+    GLH: yes
+1438.1.1:
+  owner: KAZN
+  controller: KAZN
+  cores:
+    GLH: no
+    KAZN: yes
+1552.10.2:
+  owner: RUS
+  controller: RUS
+  cores:
+    KAZN: no
+    RUS: yes
+1600.1.1:
+  pop:
+    religion: orthodox
+    estate: peasant
+    size: 1000
+1775.2.1:
+  controller: RUS
+1922.12.30:
+  owner: SOVI
+  controller: SOVI
+  cores:
+    RUS: no
+    SOVI: yes
+1991.12.25:
+  owner: RUS
+  controller: RUS
+  cores:
+    SOVI: no
+    RUS: yes

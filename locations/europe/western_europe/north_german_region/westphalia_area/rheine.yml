@@ -1,0 +1,153 @@
+#imported from EU4 file: history/provinces/2973 - Meppen.txt
+2.1.1:
+  owner: CHMV
+  controller: CHMV
+  cores:
+    CHMV: yes
+  resource: cloth
+  pop:
+    ethnicity: frankish
+    religion: germanic
+    estate: peasant
+    size: 1000
+290.1.1:
+  owner: FRAN
+  controller: FRAN
+  cores:
+    FRAN: yes
+400.1.1:
+  pop:
+    ethnicity: eastphalian
+    estate: peasant
+    size: 1000
+511.11.27:
+  owner: ASTS
+  controller: ASTS
+  cores:
+    ASTS: yes
+555.1.1:
+  owner: SOIS
+  controller: SOIS
+  cores:
+    SOIS: yes
+558.12.23:
+  owner: FRAN
+  controller: FRAN
+  cores:
+    SOIS: no
+    FRAN: yes
+561.11.29:
+  owner: ASTS
+  controller: ASTS
+613.10.10:
+  owner: FRAN
+  controller: FRAN
+  cores:
+    FRAN: yes
+623.1.1:
+  owner: ASTS
+  controller: ASTS
+629.10.18:
+  owner: FRAN
+  controller: FRAN
+634.1.1:
+  owner: ASTS
+  controller: ASTS
+679.12.23:
+  owner: FRAN
+  controller: FRAN
+797.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+840.6.21:
+  owner: EFRA
+  controller: EFRA
+  cores:
+    FRAN: no
+    EFRA: yes
+867.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+911.11.10:
+  owner: SAX
+  controller: SAX
+  cores:
+    EFRA: no
+    SAX: yes
+1180.1.1:
+  owner: MUN
+  controller: MUN
+  cores:
+    SAX: no
+    MUN: yes
+1585.1.1:
+  owner: KOL
+  controller: KOL
+  cores:
+    KOL: yes
+1650.1.1:
+  owner: MUN
+  controller: MUN
+  cores:
+    KOL: no
+1723.1.1:
+  owner: KOL
+  controller: KOL
+  cores:
+    MUN: no
+    KOL: yes
+1802.1.1:
+  owner: PRU
+  controller: PRU
+  cores:
+    PRU: yes
+1806.10.1:
+  controller: FRA
+1807.7.9:
+  owner: WES
+  controller: WES
+  cores:
+    PRU: no
+    WES: yes
+1813.10.13:
+  owner: PRU
+  controller: PRU
+  cores:
+    WES: no
+    PRU: yes
+1815.1.1:
+  owner: HAN
+  controller: HAN
+  cores:
+    PRU: no
+    HAN: yes
+1866.8.23:
+  owner: PRU
+  controller: PRU
+  cores:
+    PRU: yes
+1871.1.18:
+  owner: GER
+  controller: GER
+  cores:
+    PRU: no
+    GER: yes
+1900.1.1:
+  cores:
+    KOL: no
+1944.4.2:
+  controller: GBR
+1945.5.8:
+  owner: WGER
+  controller: WGER
+  cores:
+    WGER: yes
+1990.10.3:
+  owner: GER
+  controller: GER
+  cores:
+    WGER: no

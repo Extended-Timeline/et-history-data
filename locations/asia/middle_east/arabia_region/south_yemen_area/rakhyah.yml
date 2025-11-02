@@ -1,0 +1,79 @@
+#imported from EU4 file: history/provinces/2343 - Hadramut.txt
+2.1.1:
+  owner: HADR
+  controller: HADR
+  cores:
+    HADR: yes
+  resource: livestock
+  pop:
+    ethnicity: yemeni_culture
+    religion: south_arabian
+    estate: peasant
+    size: 1000
+635.1.1:
+  owner: RASH
+  controller: RASH
+  cores:
+    RASH: yes
+  pop:
+    religion: islam
+    estate: peasant
+    size: 1000
+661.7.28:
+  owner: UMAY
+  controller: UMAY
+  cores:
+    RASH: no
+    UMAY: yes
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+750.8.6:
+  owner: ABBA
+  controller: ABBA
+  cores:
+    UMAY: no
+    ABBA: yes
+845.1.1:
+  owner: HADR
+  controller: HADR
+  cores:
+    ABBA: no
+    HADR: yes
+1278.1.1:
+  owner: YEM
+  controller: YEM
+  cores:
+    YEM: yes
+1395.1.1:
+  owner: HADR
+  controller: HADR
+  cores:
+    YEM: no
+    HADR: yes
+1654.1.1:
+  owner: RASS
+  controller: RASS
+  cores:
+    RASS: yes
+1681.1.1:
+  owner: HADR
+  controller: HADR
+1967.11.30:
+  owner: ADEN
+  controller: ADEN
+  cores:
+    ADEN: yes
+1990.5.22:
+  owner: YEM
+  controller: YEM
+  cores:
+    ADEN: no
+    YEM: yes
+1994.5.21:
+  cores:
+    ADEN: yes
+1994.7.7:
+  cores:
+    ADEN: no

@@ -1,0 +1,43 @@
+#imported from EU4 file: history/provinces/4797 - Soppeng.txt
+2.1.1:
+  pop:
+    ethnicity: makassarese_culture
+    religion: bimoism
+    estate: peasant
+    size: 1000
+960.1.1:
+  owner: LUW
+  controller: LUW
+  cores:
+    LUW: yes
+  resource: spices
+1180.1.1:
+  owner: GOW
+  controller: GOW
+  cores:
+    LUW: no
+    GOW: yes
+1667.1.1:
+  owner: BNE
+  controller: BNE
+  cores:
+    BNE: yes
+1940.1.1:
+  owner: NED
+  controller: NED
+  cores:
+    BNE: no
+    NED: yes
+    INDN: yes
+1942.2.9:
+  controller: JAP
+1942.3.9:
+  owner: JAP
+1945.8.15:
+  owner: NED
+1945.8.17:
+  owner: INDN
+  controller: INDN
+1949.12.27:
+  cores:
+    NED: no

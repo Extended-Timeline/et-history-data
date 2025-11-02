@@ -1,0 +1,102 @@
+#imported from EU4 file: history/provinces/2260 - Mema.txt
+2.1.1:
+  pop:
+    ethnicity: bambara
+    religion: bantu_religion
+    estate: peasant
+    size: 1000
+350.1.1:
+  owner: GHAN
+  controller: GHAN
+  cores:
+    GHAN: yes
+  resource: grain
+1077.1.1:
+  owner: MOR
+  controller: MOR
+  cores:
+    MOR: yes
+1121.1.1:
+  owner: GHAN
+  controller: GHAN
+  cores:
+    MOR: no
+    GHAN: yes
+1200.1.1:
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+1240.1.1:
+  owner: MAL
+  controller: MAL
+  cores:
+    GHAN: no
+    MAL: yes
+1389.1.1:
+  owner: ZAFU
+  controller: ZAFU
+  cores:
+    MAL: no
+    ZAFU: yes
+1471.1.1:
+  owner: SON
+  controller: SON
+  cores:
+    SON: yes
+1593.1.1:
+  owner: MOR
+  controller: MOR
+  cores:
+    SON: no
+1618.1.1:
+  owner: ZAFU
+  controller: ZAFU
+  cores:
+    ZAFU: yes
+1670.1.1:
+  owner: SEGU
+  controller: SEGU
+  cores:
+    ZAFU: no
+    SEGU: yes
+1720.1.1:
+  controller: SEGU
+1819.1.1:
+  owner: ZAFU
+  controller: ZAFU
+  cores:
+    SEGU: no
+    ZAFU: yes
+1862.3.16:
+  owner: SEGU
+  controller: SEGU
+  cores:
+    ZAFU: no
+    SEGU: yes
+1890.1.1:
+  owner: FRA
+  controller: FRA
+  cores:
+    FRA: yes
+1940.6.14:
+  owner: VFRA
+  controller: VFRA
+  cores:
+    VFRA: yes
+1942.11.16:
+  owner: FRA
+  controller: FRA
+  cores:
+    VFRA: no
+1960.6.20:
+  owner: MAL
+  controller: MAL
+  cores:
+    FRA: no
+    MAL: yes
+2012.1.17:
+  cores:
+    AZAW: yes
+2012.6.26:
+  controller: MAL

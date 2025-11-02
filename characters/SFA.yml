@@ -1,0 +1,62 @@
+sfa_suleiman_i_al_mawahib:
+  1414.1.1:
+    birth: sofala #TODO: Date and location guessed, check if better data is available
+    first_name: suleiman
+    dynasty: al_mawahib_dynasty
+    adm: 30
+    dip: 45
+    mil: 30
+    religion: sunni
+    culture: sena
+  1490.1.1:
+    death: yes
+sfa_yussuf_i_al_mawahib:
+  1435.1.1:
+    birth: sofala #TODO: Date and location guessed, check if better data is available
+    first_name: yussuf
+    dynasty: al_mawahib_dynasty
+    father: sfa_yussuf_i_al_mawahib_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 45
+    mil: 30
+    religion: sunni
+    culture: sena
+  1505.1.1:
+    death: yes
+sfa_yussuf_i_al_mawahib_1:
+  1460.1.1:
+    birth: sofala #TODO: Date and location guessed, check if better data is available
+    first_name: yussuf
+    dynasty: al_mawahib_dynasty
+    adm: 45
+    dip: 45
+    mil: 30
+    religion: sunni
+    culture: sena
+  1505.1.1:
+    death: yes
+sfa_yussuf_i_al_mawahib_2:
+  1475.1.1:
+    birth: sofala #TODO: Date and location guessed, check if better data is available
+    first_name: yussuf
+    dynasty: al_mawahib_dynasty
+    father: sfa_yussuf_i_al_mawahib_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 15
+    mil: 30
+    religion: sunni
+    culture: sena
+  1540.1.1:
+    death: yes
+sfa_suleiman_ii_al_mawahib:
+  1475.1.1:
+    birth: sofala #TODO: Date and location guessed, check if better data is available
+    first_name: suleiman
+    dynasty: al_mawahib_dynasty
+    adm: 15
+    dip: 15
+    mil: 30
+    religion: sunni
+    culture: sena
+  3000.1.1:
+    death: yes

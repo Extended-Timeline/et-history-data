@@ -1,0 +1,54 @@
+#imported from EU4 file: history/provinces/2831 - Tiahuanaco.txt
+2.1.1:
+  pop:
+    ethnicity: aimara_culture
+    religion: inti
+    estate: peasant
+    size: 1000
+375.1.1:
+  owner: TIWA
+  controller: TIWA
+  cores:
+    TIWA: yes
+  resource: grain
+1380.1.1:
+  owner: PCJ
+  controller: PCJ
+  cores:
+    TIWA: no
+    PCJ: yes
+1476.1.1:
+  owner: INC
+  controller: INC
+  cores:
+    INC: yes
+1533.8.29:
+  owner: SPA
+  controller: SPA
+  cores:
+    SPA: yes
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+1558.8.29:
+  cores:
+    SPA: yes
+1825.8.6:
+  owner: BOLI
+  controller: BOLI
+  cores:
+    BOLI: yes
+1836.10.28:
+  owner: PERU
+  controller: PERU
+  cores:
+    PERU: yes
+1839.8.25:
+  owner: BOLI
+  controller: BOLI
+  cores:
+    PERU: no
+1847.7.21:
+  cores:
+    SPA: no

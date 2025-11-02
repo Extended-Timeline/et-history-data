@@ -1,0 +1,115 @@
+#imported from EU4 file: history/provinces/335 - Mellila.txt
+2.1.1:
+  owner: MAUT
+  controller: MAUT
+  cores:
+    MAUT: yes
+  resource: fish
+  pop:
+    ethnicity: zenati
+    religion: bantu_religion
+    estate: peasant
+    size: 1000
+40.1.1:
+  owner: ROM
+  controller: ROM
+  cores:
+    ROM: yes
+380.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+395.1.17:
+  owner: ROMW
+  controller: ROMW
+  cores:
+    ROM: no
+    ROMW: yes
+429.1.1:
+  owner: VAND
+  controller: VAND
+  cores:
+    ROMW: no
+    VAND: yes
+534.3.1:
+  owner: BYZ
+  controller: BYZ
+  cores:
+    VAND: no
+    BYZ: yes
+702.1.1:
+  owner: UMAY
+  controller: UMAY
+  cores:
+    BYZ: no
+    UMAY: yes
+735.1.1:
+  pop:
+    religion: ibadi
+    estate: peasant
+    size: 1000
+743.1.1:
+  owner: NEKO
+  controller: NEKO
+  cores:
+    UMAY: no
+    NEKO: yes
+1019.1.1:
+  owner: CRDB
+  controller: CRDB
+  cores:
+    CRDB: yes
+1031.1.1:
+  owner: FEZ
+  controller: FEZ
+  cores:
+    CRDB: no
+    NEKO: no
+    FEZ: yes
+1033.5.1:
+  owner: TLE
+  controller: TLE
+  cores:
+    TLE: yes
+1039.1.1:
+  owner: FEZ
+  controller: FEZ
+  cores:
+    TLE: no
+    FEZ: yes
+1070.1.1:
+  owner: MOR
+  controller: MOR
+  cores:
+    FEZ: no
+    MOR: yes
+1080.1.1:
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+1472.1.1:
+  owner: FEZ
+  controller: FEZ
+1497.9.17:
+  owner: CAS
+  controller: CAS
+  cores:
+    CAS: yes
+1516.1.23:
+  owner: SPA
+  controller: SPA
+  cores:
+    SPA: yes
+1556.1.1:
+  cores:
+    MOR: no
+1713.4.11:
+  cores:
+    CAS: no
+1780.12.25:
+  cores:
+    MOR: yes
+1926.5.27:
+  controller: SPA

@@ -1,0 +1,59 @@
+#imported from EU4 file: history/provinces/4147 - Rostov.txt
+2.1.1:
+  pop:
+    ethnicity: merya_culture
+    religion: muinaisusko
+    estate: peasant
+    size: 1000
+600.1.1:
+  owner: MERY
+  controller: MERY
+  cores:
+    MERY: yes
+  resource: grain
+1000.1.1:
+  owner: KIEV
+  controller: KIEV
+  cores:
+    MERY: no
+    KIEV: yes
+1040.1.1:
+  pop:
+    ethnicity: muscovite
+    religion: orthodox
+    estate: peasant
+    size: 1000
+1054.2.20:
+  owner: VLR
+  controller: VLR
+  cores:
+    KIEV: no
+    VLR: yes
+1238.1.1:
+  owner: RSO
+  controller: RSO
+  cores:
+    VLR: no
+    RSO: yes
+1474.1.1:
+  owner: MOS
+  controller: MOS
+1503.4.1:
+  owner: RUS
+  controller: RUS
+  cores:
+    MOS: no
+    RSO: no
+    RUS: yes
+1922.12.30:
+  owner: SOVI
+  controller: SOVI
+  cores:
+    RUS: no
+    SOVI: yes
+1991.12.25:
+  owner: RUS
+  controller: RUS
+  cores:
+    SOVI: no
+    RUS: yes

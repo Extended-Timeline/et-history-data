@@ -1,0 +1,59 @@
+#imported from EU4 file: history/provinces/2133 - Dege.txt
+2.1.1:
+  owner: DRG
+  controller: DRG
+  cores:
+    DRG: yes
+  resource: wool
+  pop:
+    ethnicity: khampa_culture
+    religion: bon
+    estate: peasant
+    size: 1000
+618.1.1:
+  owner: TIB
+  controller: TIB
+  cores:
+    DRG: no
+    TIB: yes
+630.1.1:
+  pop:
+    religion: tibetan_buddhism
+    estate: peasant
+    size: 1000
+842.1.1:
+  owner: PHAG
+  controller: PHAG
+  cores:
+    TIB: no
+    PHAG: yes
+860.1.1:
+  owner: DRG
+  controller: DRG
+  cores:
+    PHAG: no
+    DRG: yes
+1240.1.1:
+  owner: TIB
+  controller: TIB
+  cores:
+    TIB: yes
+1354.1.1:
+  owner: DRG
+  controller: DRG
+  cores:
+    TIB: no
+    DRG: yes
+1776.1.1:
+  owner: QNG
+  controller: QNG
+  cores:
+    QNG: yes
+1912.2.12:
+  owner: CHI
+  controller: CHI
+  cores:
+    QNG: no
+    CHI: yes
+1949.10.1:
+  controller: CHI

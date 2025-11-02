@@ -1,0 +1,53 @@
+#imported from EU4 file: history/provinces/1159 - Bagirmi.txt
+2.1.1:
+  pop:
+    ethnicity: bilala_culture
+    religion: bantu_religion
+    estate: peasant
+    size: 1000
+523.1.1:
+  owner: KOT
+  controller: KOT
+  cores:
+    KOT: yes
+  resource: ivory
+900.1.1:
+  owner: KBO
+  controller: KBO
+  cores:
+    KBO: yes
+1000.1.1:
+  cores:
+    KOT: no
+1380.1.1:
+  owner: YAO
+  controller: YAO
+  cores:
+    YAO: yes
+1522.1.1:
+  owner: BGI
+  controller: BGI
+  cores:
+    YAO: no
+    BGI: yes
+1580.1.1:
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+1720.1.1:
+  controller: BGI
+1752.1.1:
+  controller: BGI
+1901.1.1:
+  owner: FRA
+  controller: FRA
+  cores:
+    FRA: yes
+1960.8.11:
+  owner: CHAD
+  controller: CHAD
+  cores:
+    FRA: no
+    BGI: no
+    CHAD: yes

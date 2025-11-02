@@ -1,0 +1,114 @@
+#imported from EU4 file: history/provinces/1826 - Lika.txt
+2.1.1:
+  owner: ROM
+  controller: ROM
+  cores:
+    ROM: yes
+  resource: fish
+  pop:
+    ethnicity: dalmatian
+    religion: hellenism_religion
+    estate: peasant
+    size: 1000
+340.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+395.1.17:
+  owner: ROMW
+  controller: ROMW
+  cores:
+    ROM: no
+    ROMW: yes
+480.1.1:
+  owner: ITA
+  controller: ITA
+  cores:
+    ROMW: no
+    ITA: yes
+489.1.1:
+  owner: OSTR
+  controller: OSTR
+  cores:
+    ITA: no
+    OSTR: yes
+490.1.1:
+  pop:
+    religion: arianism
+    estate: peasant
+    size: 1000
+540.1.1:
+  owner: BYZ
+  controller: BYZ
+  cores:
+    OSTR: no
+    BYZ: yes
+550.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+620.1.1:
+  cores:
+    CRO: yes
+  pop:
+    ethnicity: croatian
+    religion: slavic
+    estate: peasant
+    size: 1000
+630.1.1:
+  owner: CRO
+  controller: CRO
+  cores:
+    BYZ: no
+800.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+867.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+1526.8.30:
+  owner: HAB
+  controller: HAB
+  cores:
+    HAB: yes
+1573.2.9:
+  controller: HAB
+1805.12.26:
+  owner: FRA
+  controller: FRA
+  cores:
+    HAB: no
+    FRA: yes
+1813.9.20:
+  controller: HAB
+1814.4.6:
+  owner: HAB
+  cores:
+    FRA: no
+    HAB: yes
+1918.12.1:
+  owner: YUGO
+  controller: YUGO
+  cores:
+    HAB: no
+    YUGO: yes
+1941.4.6:
+  owner: GER
+  controller: GER
+1941.4.10:
+  owner: CRO
+  controller: CRO
+1945.5.8:
+  owner: YUGO
+  controller: YUGO
+1991.6.25:
+  owner: CRO
+  controller: CRO
+  cores:
+    YUGO: no

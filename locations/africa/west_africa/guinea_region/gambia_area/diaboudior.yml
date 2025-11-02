@@ -1,0 +1,64 @@
+#imported from EU4 file: history/provinces/2239 - Siine.txt
+2.1.1:
+  pop:
+    ethnicity: wolof
+    religion: bantu_religion
+    estate: peasant
+    size: 1000
+1240.1.1:
+  owner: MAL
+  controller: MAL
+  cores:
+    MAL: yes
+  resource: slaves
+1350.1.1:
+  owner: JOL
+  controller: JOL
+  cores:
+    MAL: no
+    JOL: yes
+1750.1.1:
+  owner: KAB
+  controller: KAB
+  cores:
+    KAB: yes
+1790.1.1:
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+1867.1.1:
+  owner: FUL
+  controller: FUL
+  cores:
+    FUL: yes
+1888.4.22:
+  owner: FRA
+  controller: FRA
+  cores:
+    KAB: no
+    FRA: yes
+  resource: grain
+1940.6.14:
+  owner: VFRA
+  controller: VFRA
+  cores:
+    VFRA: yes
+1942.11.16:
+  owner: FRA
+  controller: FRA
+  cores:
+    VFRA: no
+1960.6.20:
+  owner: MAL
+  controller: MAL
+  cores:
+    FRA: no
+    SEGU: no
+    MAL: yes
+    SENE: yes
+1960.8.20:
+  owner: SENE
+  controller: SENE
+  cores:
+    MAL: no

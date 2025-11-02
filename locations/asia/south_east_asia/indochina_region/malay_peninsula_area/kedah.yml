@@ -1,0 +1,54 @@
+#imported from EU4 file: history/provinces/2394 - Kedah.txt
+2.1.1:
+  owner: KED
+  controller: KED
+  cores:
+    KED: yes
+  resource: grain
+  pop:
+    ethnicity: malay_culture
+    religion: hindu
+    estate: peasant
+    size: 1000
+770.1.1:
+  owner: SRIV
+  controller: SRIV
+  cores:
+    SRIV: yes
+1025.1.1:
+  owner: KED
+  controller: KED
+  cores:
+    SRIV: no
+    KED: yes
+1136.1.1:
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+1943.10.18:
+  owner: SIA
+  controller: SIA
+1945.8.15:
+  owner: KED
+  controller: KED
+1946.3.31:
+  owner: GBR
+  controller: GBR
+  cores:
+    GBR: yes
+1946.4.1:
+  cores:
+    KED: no
+    MSA: yes
+1957.8.31:
+  owner: MSA
+  controller: MSA
+  cores:
+    GBR: no
+1963.9.16:
+  owner: MALA
+  controller: MALA
+  cores:
+    MSA: no
+    MALA: yes

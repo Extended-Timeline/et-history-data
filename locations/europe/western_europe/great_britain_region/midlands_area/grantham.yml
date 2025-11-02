@@ -1,0 +1,103 @@
+#imported from EU4 file: history/provinces/243 - Lincoln.txt
+2.1.1:
+  owner: CORI
+  controller: CORI
+  cores:
+    CORI: yes
+  resource: cloth
+  pop:
+    ethnicity: briton
+    religion: druidism
+    estate: peasant
+    size: 1000
+44.1.1:
+  owner: ROM
+  controller: ROM
+  cores:
+    ROM: yes
+380.1.1:
+  cores:
+    ELME: yes
+395.1.17:
+  owner: ROMW
+  controller: ROMW
+  cores:
+    ROM: no
+    ROMW: yes
+410.1.1:
+  owner: ELME
+  controller: ELME
+  cores:
+    ROMW: no
+    ELME: yes
+  pop:
+    ethnicity: welsh
+    estate: peasant
+    size: 1000
+450.1.1:
+  owner: LIND
+  controller: LIND
+  cores:
+    ELME: no
+    LIND: yes
+  pop:
+    ethnicity: anglo_saxon
+    religion: germanic
+    estate: peasant
+    size: 1000
+640.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+780.1.1:
+  owner: MERC
+  controller: MERC
+  cores:
+    MERC: yes
+867.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+886.1.1:
+  owner: DAN
+  controller: DAN
+  cores:
+    LIND: no
+    DAN: yes
+918.1.1:
+  owner: WESS
+  controller: WESS
+  cores:
+    DAN: no
+    WESS: yes
+927.1.1:
+  owner: ENG
+  controller: ENG
+  cores:
+    WESS: no
+    ENG: yes
+1000.1.1:
+  cores:
+    MERC: no
+1066.12.25:
+  pop:
+    ethnicity: english
+    estate: peasant
+    size: 1000
+1470.10.6:
+  controller: ENG
+1560.1.1:
+  pop:
+    religion: lutheran
+    estate: peasant
+    size: 1000
+1646.5.5:
+  controller: ENG
+1707.5.12:
+  owner: GBR
+  controller: GBR
+  cores:
+    ENG: no
+    GBR: yes

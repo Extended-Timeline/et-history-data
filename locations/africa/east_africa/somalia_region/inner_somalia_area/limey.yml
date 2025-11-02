@@ -1,0 +1,40 @@
+#imported from EU4 file: history/provinces/1207 - Ogaden.txt
+2.1.1:
+  pop:
+    ethnicity: somali_culture
+    religion: bantu_religion
+    estate: peasant
+    size: 1000
+1200.1.1:
+  owner: OGAD
+  controller: OGAD
+  cores:
+    OGAD: yes
+  resource: incense
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+1896.1.1:
+  owner: DERV
+  controller: DERV
+  cores:
+    DERV: yes
+1920.2.9:
+  owner: ETH
+  controller: ETH
+  cores:
+    DERV: no
+    ETH: yes
+1933.1.1:
+  owner: ITA
+  controller: ITA
+1941.3.27:
+  controller: GBR
+1941.11.27:
+  owner: ETH
+  controller: ETH
+1977.7.20:
+  controller: SOMA
+1978.3.15:
+  controller: ETH

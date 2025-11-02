@@ -1,0 +1,40 @@
+#imported from EU4 file: history/provinces/2635 - Chiapas.txt
+2.1.1:
+  owner: YAXC
+  controller: YAXC
+  cores:
+    YAXC: yes
+  resource: cocoa
+  pop:
+    ethnicity: chol_culture
+    religion: mayan
+    estate: peasant
+    size: 1000
+900.1.1:
+  owner: LAC
+  controller: LAC
+  cores:
+    YAXC: no
+    LAC: yes
+1528.1.1:
+  owner: SPA
+  controller: SPA
+  cores:
+    SPA: yes
+1535.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+1810.9.16:
+  owner: MEX
+  controller: SPA
+  cores:
+    MEX: yes
+1821.9.27:
+  controller: MEX
+  cores:
+    SPA: no
+1994.1.1:
+  cores:
+    LAC: yes

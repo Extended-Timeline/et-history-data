@@ -1,0 +1,56 @@
+#imported from EU4 file: history/provinces/2630 - Tochtepec.txt
+2.1.1:
+  owner: TZAP
+  controller: TZAP
+  cores:
+    TZAP: yes
+  resource: fish
+  pop:
+    ethnicity: mixe_culture
+    religion: nahuatl
+    estate: peasant
+    size: 1000
+600.1.1:
+  owner: TOT
+  controller: TOT
+  cores:
+    TOT: yes
+  pop:
+    ethnicity: totonac_culture
+    estate: peasant
+    size: 1000
+1475.1.1:
+  owner: AZTE
+  controller: AZTE
+  cores:
+    AZTE: yes
+1521.8.13:
+  owner: SPA
+  controller: SPA
+  cores:
+    SPA: yes
+  pop:
+    ethnicity: castilian
+    religion: catholic
+    estate: peasant
+    size: 1000
+1770.1.1:
+  pop:
+    ethnicity: mexican
+    estate: peasant
+    size: 1000
+1810.9.16:
+  owner: MEX
+  controller: SPA
+  cores:
+    MEX: yes
+1821.9.27:
+  controller: MEX
+  cores:
+    SPA: no
+1847.3.29:
+  controller: USA
+1848.2.2:
+  controller: MEX
+1930.1.1:
+  resource: oil

@@ -1,0 +1,38 @@
+#imported from EU4 file: history/provinces/2720 - Lae.txt
+2.1.1:
+  pop:
+    ethnicity: asmat_culture
+    religion: bimoism
+    estate: peasant
+    size: 1000
+1886.1.1:
+  owner: GER
+  controller: GER
+  resource: tropical_wood
+  pop:
+    religion: lutheran
+    estate: peasant
+    size: 1000
+1900.1.1:
+  cores:
+    GER: yes
+1914.9.11:
+  controller: GBR
+1919.6.28:
+  owner: AUST
+  controller: AUST
+  cores:
+    GER: no
+    AUST: yes
+1923.1.1:
+  resource: gold
+1940.2.1:
+  resource: tropical_wood
+1973.12.1:
+  cores:
+    PAPU: yes
+1975.9.16:
+  owner: PAPU
+  controller: PAPU
+  cores:
+    AUST: no

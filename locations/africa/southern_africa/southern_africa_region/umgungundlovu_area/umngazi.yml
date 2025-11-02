@@ -1,0 +1,33 @@
+#imported from EU4 file: history/provinces/1180 - Transkei.txt
+2.1.1:
+  pop:
+    ethnicity: xam_culture
+    religion: bantu_religion
+    estate: peasant
+    size: 1000
+400.1.1:
+  pop:
+    ethnicity: nguni_culture
+    estate: peasant
+    size: 1000
+1727.1.1:
+  owner: XHO
+  controller: XHO
+  cores:
+    XHO: yes
+  resource: grain
+1835.5.1:
+  owner: GBR
+  controller: GBR
+  cores:
+    GBR: yes
+  pop:
+    religion: lutheran
+    estate: peasant
+    size: 1000
+1910.3.31:
+  owner: SAFR
+  controller: SAFR
+  cores:
+    GBR: no
+    SAFR: yes

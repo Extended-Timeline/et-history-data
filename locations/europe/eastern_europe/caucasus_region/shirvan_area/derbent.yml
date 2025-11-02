@@ -1,0 +1,130 @@
+#imported from EU4 file: history/provinces/425 - Dagestan.txt
+2.1.1:
+  owner: ALN
+  controller: ALN
+  cores:
+    ALN: yes
+  resource: fish
+  pop:
+    ethnicity: avar_culture
+    religion: 
+    estate: peasant
+    size: 1000
+253.1.1:
+  owner: ERA
+  controller: ERA
+  cores:
+    ERA: yes
+450.1.1:
+  cores:
+    ALN: no
+  pop:
+    ethnicity: khazar
+    estate: peasant
+    size: 1000
+620.1.1:
+  owner: KHAZ
+  controller: KHAZ
+  cores:
+    ERA: no
+    KHAZ: yes
+654.1.1:
+  owner: RASH
+  controller: RASH
+  cores:
+    KHAZ: no
+    RASH: yes
+661.7.28:
+  owner: UMAY
+  controller: UMAY
+  cores:
+    RASH: no
+    UMAY: yes
+720.1.1:
+  pop:
+    ethnicity: lezgin_culture
+    religion: shia
+    estate: peasant
+    size: 1000
+734.1.1:
+  owner: GAZI
+  controller: GAZI
+  cores:
+    UMAY: no
+    KHAZ: no
+    GAZI: yes
+1236.1.1:
+  owner: MGE
+  controller: MGE
+  cores:
+    MGE: yes
+1260.1.1:
+  owner: GAZI
+  controller: GAZI
+  cores:
+    MGE: no
+    GAZI: yes
+1437.1.1:
+  owner: SHIR
+  controller: SHIR
+  cores:
+    GAZI: no
+    SHIR: yes
+1501.7.1:
+  owner: IRA
+  controller: IRA
+  cores:
+    SHIR: no
+    IRA: yes
+1578.9.9:
+  controller: TUR
+1590.3.21:
+  owner: TUR
+  cores:
+    TUR: yes
+1607.1.1:
+  controller: IRA
+1612.11.20:
+  owner: IRA
+  cores:
+    TUR: no
+1722.1.1:
+  controller: RUS
+1723.9.12:
+  owner: RUS
+  cores:
+    RUS: yes
+1735.3.10:
+  owner: IRA
+  controller: IRA
+  cores:
+    RUS: no
+1747.1.1:
+  owner: SHIR
+  controller: SHIR
+1806.1.1:
+  controller: RUS
+1813.10.12:
+  owner: RUS
+  cores:
+    RUS: yes
+1917.3.6:
+  owner: CAUC
+  controller: CAUC
+  cores:
+    CAUC: yes
+1921.1.1:
+  owner: RUS
+  controller: RUS
+1922.12.30:
+  owner: SOVI
+  controller: SOVI
+  cores:
+    RUS: no
+    SOVI: yes
+1991.12.25:
+  owner: RUS
+  controller: RUS
+  cores:
+    SOVI: no
+    RUS: yes

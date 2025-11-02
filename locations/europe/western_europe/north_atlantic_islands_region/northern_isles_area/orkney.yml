@@ -1,0 +1,68 @@
+#imported from EU4 file: history/provinces/369 - Orkney.txt
+2.1.1:
+  owner: LUGI
+  controller: LUGI
+  cores:
+    LUGI: yes
+  resource: fish
+  pop:
+    ethnicity: highland
+    religion: druidism
+    estate: peasant
+    size: 1000
+250.1.1:
+  owner: PICT
+  controller: PICT
+  cores:
+    PICT: yes
+843.1.1:
+  owner: SCO
+  controller: SCO
+  cores:
+    PICT: no
+    SCO: yes
+860.1.1:
+  owner: VEST
+  controller: VEST
+  cores:
+    SCO: no
+    VEST: yes
+865.1.1:
+  pop:
+    ethnicity: norwegian
+    religion: norse
+    estate: peasant
+    size: 1000
+875.1.1:
+  owner: NOR
+  controller: NOR
+  cores:
+    VEST: no
+    NOR: yes
+995.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+1469.1.1:
+  owner: SCO
+  controller: SCO
+  cores:
+    NOR: no
+    SCO: yes
+  pop:
+    ethnicity: scottish
+    estate: peasant
+    size: 1000
+1609.1.1:
+  pop:
+    religion: calvinist
+    estate: peasant
+    size: 1000
+1650.4.27:
+  controller: SCO
+1707.5.12:
+  owner: GBR
+  controller: GBR
+  cores:
+    GBR: yes

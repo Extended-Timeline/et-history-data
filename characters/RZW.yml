@@ -1,0 +1,162 @@
+rzw_tumbare_changamire:
+  1600.1.1:
+    birth: muyove #TODO: Date and location guessed, check if better data is available
+    first_name: tumbare
+    dynasty: changamire_dynasty
+    adm: 45
+    dip: 60
+    mil: 45
+    religion: bantu_religion
+    culture: shona_culture
+  1660.1.1:
+    death: yes
+rzw_dombo_chinkura_changamire:
+  1640.1.1:
+    birth: muyove #TODO: Date and location guessed, check if better data is available
+    first_name: dombo_chinkura
+    dynasty: changamire_dynasty
+    father: rzw_tumbare_changamire #TODO: check if this makes sense
+    adm: 60
+    dip: 45
+    mil: 90
+    religion: bantu_religion
+    culture: shona_culture
+  1696.1.1:
+    death: yes
+rzw_dombo_chinkura_changamire_1:
+  1630.1.1:
+    birth: sebakwe #TODO: Date and location guessed, check if better data is available
+    first_name: dombo_chinkura
+    dynasty: changamire_dynasty
+    adm: 60
+    dip: 45
+    mil: 90
+    religion: bantu_religion
+    culture: shona_culture
+  1696.1.1:
+    death: yes
+rzw_nechisake_changamire:
+  1690.1.1:
+    birth: sebakwe #TODO: Date and location guessed, check if better data is available
+    first_name: nechisake
+    dynasty: changamire_dynasty
+    father: rzw_dombo_chinkura_changamire_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 45
+    mil: 60
+    religion: bantu_religion
+    culture: shona_culture
+  1720.1.1:
+    death: yes
+rzw_nechisake_changamire_1:
+  1666.1.1:
+    birth: sebakwe #TODO: Date and location guessed, check if better data is available
+    first_name: nechisake
+    dynasty: changamire_dynasty
+    adm: 30
+    dip: 45
+    mil: 60
+    religion: bantu_religion
+    culture: shona_culture
+  1720.1.1:
+    death: yes
+rzw_nechagadzike_changamire:
+  1696.1.1:
+    birth: sebakwe #TODO: Date and location guessed, check if better data is available
+    first_name: nechagadzike
+    dynasty: changamire_dynasty
+    father: rzw_nechisake_changamire_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 30
+    mil: 45
+    religion: bantu_religion
+    culture: shona_culture
+  1768.1.1:
+    death: yes
+rzw_nechagadzike_changamire_1:
+  1690.1.1:
+    birth: sebakwe #TODO: Date and location guessed, check if better data is available
+    first_name: nechagadzike
+    dynasty: changamire_dynasty
+    adm: 30
+    dip: 30
+    mil: 45
+    religion: bantu_religion
+    culture: shona_culture
+  1768.1.1:
+    death: yes
+rzw_mambo_rupanadamananga_changamire:
+  1720.1.1:
+    birth: sebakwe #TODO: Date and location guessed, check if better data is available
+    first_name: mambo_rupanadamananga
+    dynasty: changamire_dynasty
+    father: rzw_nechagadzike_changamire_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 45
+    mil: 60
+    religion: bantu_religion
+    culture: shona_culture
+  1779.1.1:
+    death: yes
+rzw_mambo_rupanadamananga_changamire_1:
+  1738.1.1:
+    birth: sebakwe #TODO: Date and location guessed, check if better data is available
+    first_name: mambo_rupanadamananga
+    dynasty: changamire_dynasty
+    adm: 30
+    dip: 45
+    mil: 60
+    religion: bantu_religion
+    culture: shona_culture
+  1779.1.1:
+    death: yes
+rzw_gumboremvura_changamire:
+  1768.1.1:
+    birth: sebakwe #TODO: Date and location guessed, check if better data is available
+    first_name: gumboremvura
+    dynasty: changamire_dynasty
+    father: rzw_mambo_rupanadamananga_changamire_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 30
+    mil: 60
+    religion: bantu_religion
+    culture: shona_culture
+  1802.1.1:
+    death: yes
+rzw_gumboremvura_changamire_1:
+  1749.1.1:
+    birth: sebakwe #TODO: Date and location guessed, check if better data is available
+    first_name: gumboremvura
+    dynasty: changamire_dynasty
+    adm: 45
+    dip: 30
+    mil: 60
+    religion: bantu_religion
+    culture: shona_culture
+  1802.1.1:
+    death: yes
+rzw_chirisamhuru_i_changamire:
+  1779.1.1:
+    birth: sebakwe #TODO: Date and location guessed, check if better data is available
+    first_name: chirisamhuru
+    dynasty: changamire_dynasty
+    father: rzw_gumboremvura_changamire_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 45
+    mil: 45
+    religion: bantu_religion
+    culture: shona_culture
+  1836.1.1:
+    death: yes
+rzw_chirisamhuru_i_changamire_1:
+  1772.1.1:
+    birth: sebakwe #TODO: Date and location guessed, check if better data is available
+    first_name: chirisamhuru
+    dynasty: changamire_dynasty
+    adm: 30
+    dip: 45
+    mil: 45
+    religion: bantu_religion
+    culture: shona_culture
+  3000.1.1:
+    death: yes

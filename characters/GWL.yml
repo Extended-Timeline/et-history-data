@@ -1,0 +1,434 @@
+gwl_sundar_pal_parmar:
+  1368.1.1:
+    birth: chandpur_garhi #TODO: Date and location guessed, check if better data is available
+    first_name: sundar_pal
+    dynasty: parmar_dynasty
+    adm: 15
+    dip: 0
+    mil: 30
+    religion: hindu
+    culture: garhwali
+  1450.1.1:
+    death: yes
+gwl_hansdeo_pal_parmar:
+  1420.1.1:
+    birth: chandpur_garhi #TODO: Date and location guessed, check if better data is available
+    first_name: hansdeo_pal
+    dynasty: parmar_dynasty
+    adm: 30
+    dip: 30
+    mil: 15
+    religion: hindu
+    culture: garhwali
+  1500.1.1:
+    death: yes
+gwl_bijai_pal_parmar:
+  1430.1.1:
+    birth: chandpur_garhi #TODO: Date and location guessed, check if better data is available
+    first_name: bijai_pal
+    dynasty: parmar_dynasty
+    father: gwl_hansdeo_pal_parmar #TODO: check if this makes sense
+    adm: 30
+    dip: 30
+    mil: 15
+    religion: hindu
+    culture: garhwali
+  1548.1.1:
+    death: yes
+gwl_bijai_pal_parmar_1:
+  1470.1.1:
+    birth: chandpur_garhi #TODO: Date and location guessed, check if better data is available
+    first_name: bijai_pal
+    dynasty: parmar_dynasty
+    adm: 45
+    dip: 30
+    mil: 30
+    religion: hindu
+    culture: garhwali
+  1548.1.1:
+    death: yes
+gwl_sahaj_pal_parmar:
+  1500.1.1:
+    birth: chandpur_garhi #TODO: Date and location guessed, check if better data is available
+    first_name: sahaj_pal
+    dynasty: parmar_dynasty
+    father: gwl_bijai_pal_parmar_1 #TODO: check if this makes sense
+    adm: 75
+    dip: 60
+    mil: 45
+    religion: hindu
+    culture: garhwali
+  1575.1.1:
+    death: yes
+gwl_sahaj_pal_parmar_1:
+  1518.1.1:
+    birth: chandpur_garhi #TODO: Date and location guessed, check if better data is available
+    first_name: sahaj_pal
+    dynasty: parmar_dynasty
+    adm: 75
+    dip: 60
+    mil: 45
+    religion: hindu
+    culture: garhwali
+  1575.1.1:
+    death: yes
+gwl_balbhadra_shah_parmar:
+  1530.1.1:
+    birth: chandpur_garhi #TODO: Date and location guessed, check if better data is available
+    first_name: balbhadra_shah
+    dynasty: parmar_dynasty
+    father: gwl_sahaj_pal_parmar_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 45
+    mil: 45
+    religion: hindu
+    culture: garhwali
+  1591.1.1:
+    death: yes
+gwl_balbhadra_shah_parmar_1:
+  1545.1.1:
+    birth: chandpur_garhi #TODO: Date and location guessed, check if better data is available
+    first_name: balbhadra_shah
+    dynasty: parmar_dynasty
+    adm: 30
+    dip: 45
+    mil: 45
+    religion: hindu
+    culture: garhwali
+  1591.1.1:
+    death: yes
+gwl_man_shah_i_parmar:
+  1560.1.1:
+    birth: chandpur_garhi #TODO: Date and location guessed, check if better data is available
+    first_name: man_shah
+    dynasty: parmar_dynasty
+    father: gwl_balbhadra_shah_parmar_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 15
+    mil: 75
+    religion: hindu
+    culture: garhwali
+  1611.1.1:
+    death: yes
+gwl_man_shah_i_parmar_1:
+  1561.1.1:
+    birth: chandpur_garhi #TODO: Date and location guessed, check if better data is available
+    first_name: man_shah
+    dynasty: parmar_dynasty
+    adm: 30
+    dip: 15
+    mil: 75
+    religion: hindu
+    culture: garhwali
+  1611.1.1:
+    death: yes
+gwl_shyam_shah_parmar:
+  1560.1.1:
+    birth: chandpur_garhi #TODO: Date and location guessed, check if better data is available
+    first_name: shyam_shah
+    dynasty: parmar_dynasty
+    father: gwl_man_shah_i_parmar_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 45
+    mil: 30
+    religion: hindu
+    culture: garhwali
+  1622.1.1:
+    death: yes
+gwl_shyam_shah_parmar_1:
+  1581.1.1:
+    birth: chandpur_garhi #TODO: Date and location guessed, check if better data is available
+    first_name: shyam_shah
+    dynasty: parmar_dynasty
+    adm: 15
+    dip: 45
+    mil: 30
+    religion: hindu
+    culture: garhwali
+  1622.1.1:
+    death: yes
+gwl_mahipat_shah_parmar:
+  1580.1.1:
+    birth: chandpur_garhi #TODO: Date and location guessed, check if better data is available
+    first_name: mahipat_shah
+    dynasty: parmar_dynasty
+    father: gwl_shyam_shah_parmar_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 30
+    mil: 60
+    religion: hindu
+    culture: garhwali
+  1631.1.1:
+    death: yes
+gwl_mahipat_shah_parmar_1:
+  1592.1.1:
+    birth: chandpur_garhi #TODO: Date and location guessed, check if better data is available
+    first_name: mahipat_shah
+    dynasty: parmar_dynasty
+    adm: 15
+    dip: 30
+    mil: 60
+    religion: hindu
+    culture: garhwali
+  1631.1.1:
+    death: yes
+gwl_prithvi_shah_naktirani_parmar:
+  1600.1.1:
+    birth: chandpur_garhi #TODO: Date and location guessed, check if better data is available
+    first_name: prithvi_shah_naktirani
+    dynasty: parmar_dynasty
+    father: gwl_mahipat_shah_parmar_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 60
+    mil: 15
+    religion: hindu
+    culture: garhwali
+  1665.1.1:
+    death: yes
+gwl_prithvi_shah_naktirani_parmar_1:
+  1601.1.1:
+    birth: chandpur_garhi #TODO: Date and location guessed, check if better data is available
+    first_name: prithvi_shah_naktirani
+    dynasty: parmar_dynasty
+    adm: 15
+    dip: 60
+    mil: 15
+    religion: hindu
+    culture: garhwali
+  1665.1.1:
+    death: yes
+gwl_fateh_shah_parmar:
+  1630.1.1:
+    birth: chandpur_garhi #TODO: Date and location guessed, check if better data is available
+    first_name: fateh_shah
+    dynasty: parmar_dynasty
+    father: gwl_prithvi_shah_naktirani_parmar_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 60
+    mil: 45
+    religion: hindu
+    culture: garhwali
+  1716.1.1:
+    death: yes
+gwl_fateh_shah_parmar_1:
+  1635.1.1:
+    birth: chandpur_garhi #TODO: Date and location guessed, check if better data is available
+    first_name: fateh_shah
+    dynasty: parmar_dynasty
+    adm: 45
+    dip: 60
+    mil: 45
+    religion: hindu
+    culture: garhwali
+  1716.1.1:
+    death: yes
+gwl_upendra_shah_parmar:
+  1660.1.1:
+    birth: chandpur_garhi #TODO: Date and location guessed, check if better data is available
+    first_name: upendra_shah
+    dynasty: parmar_dynasty
+    father: gwl_fateh_shah_parmar_1 #TODO: check if this makes sense
+    adm: 0
+    dip: 0
+    mil: 0
+    religion: hindu
+    culture: garhwali
+  1717.1.1:
+    death: yes
+gwl_upendra_shah_parmar_1:
+  1686.1.1:
+    birth: chandpur_garhi #TODO: Date and location guessed, check if better data is available
+    first_name: upendra_shah
+    dynasty: parmar_dynasty
+    adm: 0
+    dip: 0
+    mil: 0
+    religion: hindu
+    culture: garhwali
+  1717.1.1:
+    death: yes
+gwl_pradip_shah_parmar:
+  1690.1.1:
+    birth: chandpur_garhi #TODO: Date and location guessed, check if better data is available
+    first_name: pradip_shah
+    dynasty: parmar_dynasty
+    father: gwl_upendra_shah_parmar_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 60
+    mil: 0
+    religion: hindu
+    culture: garhwali
+  1772.1.1:
+    death: yes
+gwl_pradip_shah_parmar_1:
+  1687.1.1:
+    birth: chandpur_garhi #TODO: Date and location guessed, check if better data is available
+    first_name: pradip_shah
+    dynasty: parmar_dynasty
+    adm: 15
+    dip: 60
+    mil: 0
+    religion: hindu
+    culture: garhwali
+  1772.1.1:
+    death: yes
+gwl_lalit_shah_parmar:
+  1700.1.1:
+    birth: chandpur_garhi #TODO: Date and location guessed, check if better data is available
+    first_name: lalit_shah
+    dynasty: parmar_dynasty
+    father: gwl_pradip_shah_parmar_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 0
+    mil: 60
+    religion: hindu
+    culture: garhwali
+  1780.1.1:
+    death: yes
+gwl_lalit_shah_parmar_1:
+  1742.1.1:
+    birth: chandpur_garhi #TODO: Date and location guessed, check if better data is available
+    first_name: lalit_shah
+    dynasty: parmar_dynasty
+    adm: 15
+    dip: 0
+    mil: 60
+    religion: hindu
+    culture: garhwali
+  1780.1.1:
+    death: yes
+gwl_jaikarat_shah_parmar:
+  1760.1.1:
+    birth: chandpur_garhi #TODO: Date and location guessed, check if better data is available
+    first_name: jaikarat_shah
+    dynasty: parmar_dynasty
+    father: gwl_lalit_shah_parmar_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 0
+    mil: 0
+    religion: hindu
+    culture: garhwali
+  1785.1.1:
+    death: yes
+gwl_jaikarat_shah_parmar_1:
+  1750.1.1:
+    birth: chandpur_garhi #TODO: Date and location guessed, check if better data is available
+    first_name: jaikarat_shah
+    dynasty: parmar_dynasty
+    adm: 30
+    dip: 0
+    mil: 0
+    religion: hindu
+    culture: garhwali
+  1785.1.1:
+    death: yes
+gwl_pradyuman_shah_parmar:
+  1770.1.1:
+    birth: chandpur_garhi #TODO: Date and location guessed, check if better data is available
+    first_name: pradyuman_shah
+    dynasty: parmar_dynasty
+    father: gwl_jaikarat_shah_parmar_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 0
+    mil: 30
+    religion: hindu
+    culture: garhwali
+  1815.1.1:
+    death: yes
+gwl_pradyuman_shah_parmar_1:
+  1755.1.1:
+    birth: chandpur_garhi #TODO: Date and location guessed, check if better data is available
+    first_name: pradyuman_shah
+    dynasty: parmar_dynasty
+    adm: 30
+    dip: 0
+    mil: 30
+    religion: hindu
+    culture: garhwali
+  1815.1.1:
+    death: yes
+gwl_sudarshan_shah_parmar:
+  1784.1.1:
+    birth: chandpur_garhi #TODO: Date and location guessed, check if better data is available
+    first_name: sudarshan_shah
+    dynasty: parmar_dynasty
+    father: gwl_pradyuman_shah_parmar_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 45
+    mil: 30
+    religion: hindu
+    culture: garhwali
+  1859.1.1:
+    death: yes
+gwl_sudarshan_shah_parmar_1:
+  1785.1.1:
+    birth: chandpur_garhi #TODO: Date and location guessed, check if better data is available
+    first_name: sudarshan_shah
+    dynasty: parmar_dynasty
+    adm: 15
+    dip: 45
+    mil: 30
+    religion: hindu
+    culture: garhwali
+  1859.1.1:
+    death: yes
+gwl_bhawani_shah_parmar:
+  1829.1.1:
+    birth: chandpur_garhi #TODO: Date and location guessed, check if better data is available
+    first_name: bhawani_shah
+    dynasty: parmar_dynasty
+    adm: 75
+    dip: 60
+    mil: 30
+    religion: hindu
+    culture: garhwali
+  1871.1.1:
+    death: yes
+gwl_pratap_shah_parmar:
+  1841.1.1:
+    birth: chandpur_garhi #TODO: Date and location guessed, check if better data is available
+    first_name: pratap_shah
+    dynasty: parmar_dynasty
+    adm: 15
+    dip: 75
+    mil: 45
+    religion: hindu
+    culture: garhwali
+  1886.1.1:
+    death: yes
+gwl_kirti_shah_parmar:
+  1856.1.1:
+    birth: chandpur_garhi #TODO: Date and location guessed, check if better data is available
+    first_name: kirti_shah
+    dynasty: parmar_dynasty
+    adm: 0
+    dip: 0
+    mil: 15
+    religion: hindu
+    culture: garhwali
+  1913.1.1:
+    death: yes
+gwl_narendra_shah_parmar:
+  1883.1.1:
+    birth: chandpur_garhi #TODO: Date and location guessed, check if better data is available
+    first_name: narendra_shah
+    dynasty: parmar_dynasty
+    adm: 0
+    dip: 75
+    mil: 75
+    religion: hindu
+    culture: garhwali
+  1946.1.1:
+    death: yes
+gwl_manabendra_shah_parmar:
+  1921.5.26:
+    birth: chandpur_garhi #TODO: Location guessed, check if better data is available
+    first_name: manabendra_shah
+    dynasty: parmar_dynasty
+    adm: 0
+    dip: 75
+    mil: 30
+    religion: hindu
+    culture: garhwali
+  2007.1.5:
+    death: yes

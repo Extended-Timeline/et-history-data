@@ -1,0 +1,72 @@
+#imported from EU4 file: history/provinces/350 - Aures.txt
+2.1.1:
+  owner: GAET
+  controller: GAET
+  cores:
+    GAET: yes
+  resource: livestock
+  pop:
+    ethnicity: zenati
+    religion: bantu_religion
+    estate: peasant
+    size: 1000
+430.1.1:
+  owner: ALTA
+  controller: ALTA
+  cores:
+    GAET: no
+    ALTA: yes
+578.1.1:
+  owner: OUAR
+  controller: OUAR
+  cores:
+    ALTA: no
+    OUAR: yes
+660.1.1:
+  owner: AURE
+  controller: AURE
+  cores:
+    OUAR: no
+    AURE: yes
+702.1.1:
+  owner: MZB
+  controller: MZB
+  cores:
+    TGT: no
+    MZB: yes
+777.1.1:
+  pop:
+    religion: ibadi
+    estate: peasant
+    size: 1000
+1100.1.1:
+  pop:
+    ethnicity: algerian
+    estate: peasant
+    size: 1000
+1860.1.1:
+  owner: FRA
+  controller: FRA
+  cores:
+    FRA: yes
+    ALG: yes
+1870.9.4:
+  owner: FRA
+  controller: FRA
+  cores:
+    FRA: yes
+1940.6.14:
+  owner: VFRA
+  controller: VFRA
+  cores:
+    VFRA: yes
+1942.11.16:
+  owner: FRA
+  controller: FRA
+  cores:
+    VFRA: no
+1962.7.3:
+  owner: ALG
+  controller: ALG
+  cores:
+    FRA: no

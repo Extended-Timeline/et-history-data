@@ -1,0 +1,131 @@
+#imported from EU4 file: history/provinces/147 - Salonica.txt
+2.1.1:
+  owner: ROM
+  controller: ROM
+  cores:
+    ROM: yes
+  resource: wool
+  pop:
+    ethnicity: greek_culture
+    religion: hellenism_religion
+    estate: peasant
+    size: 1000
+380.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+395.1.17:
+  owner: BYZ
+  controller: BYZ
+  cores:
+    ROM: no
+    BYZ: yes
+867.1.1:
+  pop:
+    religion: orthodox
+    estate: peasant
+    size: 1000
+1204.4.13:
+  owner: THE
+  controller: THE
+  cores:
+    THE: yes
+1212.1.1:
+  owner: EPI
+  controller: EPI
+  cores:
+    EPI: yes
+1224.1.1:
+  owner: THE
+  controller: THE
+  cores:
+    EPI: no
+1239.1.1:
+  owner: NEO
+  controller: NEO
+  cores:
+    THE: no
+    NEO: yes
+1241.1.1:
+  owner: EPI
+  controller: EPI
+  cores:
+    EPI: yes
+1268.1.1:
+  owner: NEO
+  controller: NEO
+  cores:
+    EPI: no
+1318.1.1:
+  owner: BYZ
+  controller: BYZ
+  cores:
+    BYZ: yes
+1348.1.1:
+  owner: SER
+  controller: SER
+  cores:
+    SER: yes
+1356.1.1:
+  owner: EPI
+  controller: EPI
+  cores:
+    SER: no
+    EPI: yes
+1370.1.1:
+  owner: NEO
+  controller: NEO
+  cores:
+    EPI: no
+    NEO: yes
+1382.1.1:
+  owner: BYZ
+  controller: BYZ
+  cores:
+    BYZ: yes
+1393.1.1:
+  owner: TUR
+  controller: TUR
+  cores:
+    TUR: yes
+1403.1.1:
+  owner: BYZ
+  controller: BYZ
+  cores:
+    TUR: no
+1423.1.1:
+  owner: VEN
+  controller: VEN
+  cores:
+    VEN: yes
+1430.3.29:
+  owner: TUR
+  controller: TUR
+  cores:
+    VEN: no
+    TUR: yes
+1502.1.1:
+  cores:
+    BYZ: no
+1750.1.1:
+  cores:
+    GRE: yes
+1881.1.1:
+  owner: GRE
+  controller: GRE
+  cores:
+    TUR: no
+1941.4.27:
+  controller: GER
+1941.7.1:
+  owner: ITA
+  controller: ITA
+1943.9.8:
+  owner: GER
+  controller: GER
+1944.10.1:
+  controller: GBR
+1944.10.19:
+  owner: GRE
+  controller: GRE

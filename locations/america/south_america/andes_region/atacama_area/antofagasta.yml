@@ -1,0 +1,56 @@
+#imported from EU4 file: history/provinces/2841 - Atacama.txt
+2.1.1:
+  pop:
+    ethnicity: pazioca_culture
+    religion: muisca_religion
+    estate: peasant
+    size: 1000
+1486.1.1:
+  owner: INC
+  controller: INC
+  cores:
+    INC: yes
+  resource: fish
+1537.1.1:
+  owner: SPA
+  controller: SPA
+  pop:
+    ethnicity: castilian
+    religion: catholic
+    estate: peasant
+    size: 1000
+1562.1.1:
+  cores:
+    SPA: yes
+1770.1.1:
+  pop:
+    ethnicity: iberian_peruvian
+    estate: peasant
+    size: 1000
+1825.8.6:
+  owner: BOLI
+  controller: BOLI
+  cores:
+    BOLI: yes
+1836.10.28:
+  owner: PERU
+  controller: PERU
+  cores:
+    PERU: yes
+1839.8.25:
+  owner: BOLI
+  controller: BOLI
+  cores:
+    PERU: no
+1847.7.21:
+  cores:
+    SPA: no
+1879.2.14:
+  controller: CHIL
+1883.10.20:
+  owner: CHIL
+  cores:
+    CHIL: yes
+1983.10.20:
+  cores:
+    BOLI: no

@@ -1,0 +1,342 @@
+lot_lothar_ii_carolingian:
+  825.1.1:
+    birth: liege #TODO: Date and location guessed, check if better data is available
+    first_name: lothar
+    dynasty: carolingian_dynasty
+    adm: 75
+    dip: 60
+    mil: 45
+    religion: catholic
+    culture: rhine_franconian
+  911.11.10:
+    death: yes
+lot_reginar_i_de_reginar:
+  881.1.1:
+    birth: liege #TODO: Date and location guessed, check if better data is available
+    first_name: reginar
+    dynasty: de_reginar_dynasty
+    adm: 45
+    dip: 30
+    mil: 30
+    religion: catholic
+    culture: rhine_franconian
+  915.1.1:
+    death: yes
+lot_gilbert_i_de_reginar:
+  890.1.1:
+    birth: liege #TODO: Date and location guessed, check if better data is available
+    first_name: gilbert
+    dynasty: de_reginar_dynasty
+    father: lot_reginar_i_de_reginar #TODO: check if this makes sense
+    adm: 75
+    dip: 30
+    mil: 75
+    religion: catholic
+    culture: rhine_franconian
+  939.10.2:
+    death: yes
+lot_gilbert_i_de_reginar_1:
+  885.1.1:
+    birth: liege #TODO: Date and location guessed, check if better data is available
+    first_name: gilbert
+    dynasty: de_reginar_dynasty
+    adm: 75
+    dip: 30
+    mil: 75
+    religion: catholic
+    culture: rhine_franconian
+  939.10.2:
+    death: yes
+lot_heinrich_i_ottonian:
+  909.1.1:
+    birth: liege #TODO: Date and location guessed, check if better data is available
+    first_name: heinrich
+    dynasty: ottonian_dynasty
+    adm: 75
+    dip: 15
+    mil: 30
+    religion: catholic
+    culture: rhine_franconian
+  940.1.1:
+    death: yes
+lot_otto_i_ottonian:
+  900.1.1:
+    birth: liege #TODO: Date and location guessed, check if better data is available
+    first_name: otto
+    dynasty: ottonian_dynasty
+    father: lot_heinrich_i_ottonian #TODO: check if this makes sense
+    adm: 60
+    dip: 30
+    mil: 45
+    religion: catholic
+    culture: rhine_franconian
+  944.1.1:
+    death: yes
+lot_otto_i_ottonian_1:
+  910.1.1:
+    birth: liege #TODO: Date and location guessed, check if better data is available
+    first_name: otto
+    dynasty: ottonian_dynasty
+    adm: 60
+    dip: 30
+    mil: 45
+    religion: catholic
+    culture: rhine_franconian
+  944.1.1:
+    death: yes
+lot_conrad_i_salian:
+  914.1.1:
+    birth: liege #TODO: Date and location guessed, check if better data is available
+    first_name: conrad
+    dynasty: salian_dynasty
+    adm: 60
+    dip: 30
+    mil: 75
+    religion: catholic
+    culture: rhine_franconian
+  953.1.1:
+    death: yes
+lot_bruno_i_ottonian:
+  923.1.1:
+    birth: liege #TODO: Date and location guessed, check if better data is available
+    first_name: bruno
+    dynasty: ottonian_dynasty
+    adm: 45
+    dip: 45
+    mil: 60
+    religion: catholic
+    culture: rhine_franconian
+  965.1.1:
+    death: yes
+lot_richar_i_matfriding:
+  935.1.1:
+    birth: brussels #TODO: Date and location guessed, check if better data is available
+    first_name: richar
+    dynasty: matfriding_dynasty
+    adm: 30
+    dip: 45
+    mil: 30
+    religion: catholic
+    culture: rhine_franconian
+  973.1.1:
+    death: yes
+lot_charles_i_carolingian:
+  943.1.1:
+    birth: brussels #TODO: Date and location guessed, check if better data is available
+    first_name: charles
+    dynasty: carolingian_dynasty
+    adm: 45
+    dip: 30
+    mil: 45
+    religion: catholic
+    culture: rhine_franconian
+  991.1.1:
+    death: yes
+lot_otto_ii_carolingian:
+  970.1.1:
+    birth: brussels #TODO: Date and location guessed, check if better data is available
+    first_name: otto
+    dynasty: carolingian_dynasty
+    father: lot_charles_i_carolingian #TODO: check if this makes sense
+    adm: 75
+    dip: 15
+    mil: 45
+    religion: catholic
+    culture: rhine_franconian
+  1012.1.1:
+    death: yes
+lot_otto_ii_carolingian_1:
+  961.1.1:
+    birth: brussels #TODO: Date and location guessed, check if better data is available
+    first_name: otto
+    dynasty: carolingian_dynasty
+    adm: 75
+    dip: 15
+    mil: 45
+    religion: catholic
+    culture: rhine_franconian
+  1012.1.1:
+    death: yes
+lot_godfrey_i_dardenne:
+  982.1.1:
+    birth: brussels #TODO: Date and location guessed, check if better data is available
+    first_name: godfrey
+    dynasty: dardenne_dynasty
+    adm: 15
+    dip: 60
+    mil: 75
+    religion: catholic
+    culture: rhine_franconian
+  1023.1.1:
+    death: yes
+lot_gothelo_i_dardenne:
+  967.1.1:
+    birth: brussels #TODO: Date and location guessed, check if better data is available
+    first_name: gothelo
+    dynasty: dardenne_dynasty
+    father: lot_godfrey_i_dardenne #TODO: check if this makes sense
+    adm: 15
+    dip: 75
+    mil: 45
+    religion: catholic
+    culture: rhine_franconian
+  1044.4.19:
+    death: yes
+lot_gothelo_i_dardenne_1:
+  993.1.1:
+    birth: brussels #TODO: Date and location guessed, check if better data is available
+    first_name: gothelo
+    dynasty: dardenne_dynasty
+    adm: 15
+    dip: 75
+    mil: 45
+    religion: catholic
+    culture: rhine_franconian
+  1044.4.19:
+    death: yes
+lot_gothelo_ii_dardenne:
+  1008.1.1:
+    birth: brussels #TODO: Date and location guessed, check if better data is available
+    first_name: gothelo
+    dynasty: dardenne_dynasty
+    father: lot_gothelo_i_dardenne_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 15
+    mil: 30
+    religion: catholic
+    culture: rhine_franconian
+  1046.1.1:
+    death: yes
+lot_gothelo_ii_dardenne_1:
+  1014.1.1:
+    birth: brussels #TODO: Date and location guessed, check if better data is available
+    first_name: gothelo
+    dynasty: dardenne_dynasty
+    adm: 45
+    dip: 15
+    mil: 30
+    religion: catholic
+    culture: rhine_franconian
+  1046.1.1:
+    death: yes
+lot_friedrich_i_von_luxembourg:
+  1016.1.1:
+    birth: brussels #TODO: Date and location guessed, check if better data is available
+    first_name: friedrich
+    dynasty: von_luxembourg_dynasty
+    adm: 45
+    dip: 15
+    mil: 30
+    religion: catholic
+    culture: rhine_franconian
+  1065.5.18:
+    death: yes
+lot_godfrey_ii_dardenne:
+  1035.1.1:
+    birth: brussels #TODO: Date and location guessed, check if better data is available
+    first_name: godfrey
+    dynasty: dardenne_dynasty
+    adm: 30
+    dip: 60
+    mil: 30
+    religion: catholic
+    culture: rhine_franconian
+  1069.1.1:
+    death: yes
+lot_godfrey_iii_dardenne:
+  1030.1.1:
+    birth: brussels #TODO: Date and location guessed, check if better data is available
+    first_name: godfrey
+    dynasty: dardenne_dynasty
+    father: lot_godfrey_ii_dardenne #TODO: check if this makes sense
+    adm: 15
+    dip: 75
+    mil: 15
+    religion: catholic
+    culture: rhine_franconian
+  1076.2.27:
+    death: yes
+lot_godfrey_iii_dardenne_1:
+  1039.1.1:
+    birth: brussels #TODO: Date and location guessed, check if better data is available
+    first_name: godfrey
+    dynasty: dardenne_dynasty
+    adm: 15
+    dip: 75
+    mil: 15
+    religion: catholic
+    culture: rhine_franconian
+  1087.1.1:
+    death: yes
+lot_godfrey_iv_de_bouillon:
+  1057.1.1:
+    birth: brussels #TODO: Date and location guessed, check if better data is available
+    first_name: godfrey
+    dynasty: de_bouillon_dynasty
+    adm: 45
+    dip: 30
+    mil: 45
+    religion: catholic
+    culture: rhine_franconian
+  1100.6.18:
+    death: yes
+lot_heinrich_i_von_limburg:
+  1070.1.1:
+    birth: brussels #TODO: Date and location guessed, check if better data is available
+    first_name: heinrich
+    dynasty: von_limburg_dynasty
+    adm: 30
+    dip: 60
+    mil: 45
+    religion: catholic
+    culture: rhine_franconian
+  1106.1.1:
+    death: yes
+lot_godfrey_v_von_leuven:
+  1076.1.1:
+    birth: brussels #TODO: Date and location guessed, check if better data is available
+    first_name: godfrey
+    dynasty: von_leuven_dynasty
+    adm: 75
+    dip: 15
+    mil: 45
+    religion: catholic
+    culture: rhine_franconian
+  1129.1.1:
+    death: yes
+lot_waleran_i_von_limburg:
+  1099.1.1:
+    birth: brussels #TODO: Date and location guessed, check if better data is available
+    first_name: waleran
+    dynasty: von_limburg_dynasty
+    adm: 30
+    dip: 75
+    mil: 30
+    religion: catholic
+    culture: rhine_franconian
+  1139.1.1:
+    death: yes
+lot_godfrey_vi_von_leuven:
+  1109.1.1:
+    birth: brussels #TODO: Date and location guessed, check if better data is available
+    first_name: godfrey
+    dynasty: von_leuven_dynasty
+    adm: 60
+    dip: 45
+    mil: 30
+    religion: catholic
+    culture: rhine_franconian
+  1142.6.13:
+    death: yes
+lot_godfrey_vii_von_leuven:
+  1112.1.1:
+    birth: brussels #TODO: Date and location guessed, check if better data is available
+    first_name: godfrey
+    dynasty: von_leuven_dynasty
+    adm: 60
+    dip: 45
+    mil: 30
+    religion: catholic
+    culture: rhine_franconian
+  3000.1.1:
+    death: yes

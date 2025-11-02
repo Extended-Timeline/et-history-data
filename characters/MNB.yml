@@ -1,0 +1,37 @@
+mnb_ranaimo_maroserana:
+  1670.1.1:
+    birth: maneva #TODO: Date and location guessed, check if better data is available
+    first_name: ranaimo
+    dynasty: maroserana_dynasty
+    adm: 75
+    dip: 45
+    mil: 45
+    religion: bantu_religion
+    culture: sakalava_culture
+  1760.1.1:
+    death: yes
+mnb_ramitraho_maroserana:
+  1750.1.1:
+    birth: maneva #TODO: Date and location guessed, check if better data is available
+    first_name: ramitraho
+    dynasty: maroserana_dynasty
+    father: mnb_ranaimo_maroserana #TODO: check if this makes sense
+    adm: 0
+    dip: 45
+    mil: 30
+    religion: bantu_religion
+    culture: sakalava_culture
+  1834.1.1:
+    death: yes
+mnb_ramitraho_maroserana_1:
+  1730.1.1:
+    birth: maneva #TODO: Date and location guessed, check if better data is available
+    first_name: ramitraho
+    dynasty: maroserana_dynasty
+    adm: 0
+    dip: 45
+    mil: 30
+    religion: bantu_religion
+    culture: sakalava_culture
+  3000.1.1:
+    death: yes

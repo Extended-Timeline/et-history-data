@@ -1,0 +1,66 @@
+#imported from EU4 file: history/provinces/2516 - Adai.txt
+2.1.1:
+  pop:
+    ethnicity: caddo_culture
+    religion: iroquoian_totemism
+    estate: peasant
+    size: 1000
+1721.1.1:
+  owner: SPA
+  controller: SPA
+  cores:
+    SPA: yes
+  resource: cotton
+  pop:
+    ethnicity: castilian
+    religion: catholic
+    estate: peasant
+    size: 1000
+1746.1.1:
+  cores:
+    SPA: yes
+1765.1.1:
+  pop:
+    ethnicity: french
+    estate: peasant
+    size: 1000
+1770.1.1:
+  pop:
+    ethnicity: french_louisianan
+    estate: peasant
+    size: 1000
+1810.9.16:
+  owner: MEX
+  controller: SPA
+  cores:
+    MEX: yes
+1819.1.1:
+  owner: USA
+  controller: USA
+  cores:
+    MEX: no
+    SPA: no
+    USA: yes
+1861.1.26:
+  owner: LOUI
+  controller: LOUI
+  cores:
+    LOUI: yes
+1861.2.8:
+  owner: CSAM
+  controller: CSAM
+  cores:
+    LOUI: no
+    CSAM: yes
+1865.5.5:
+  owner: USA
+  controller: USA
+  cores:
+    CSAM: no
+1890.1.1:
+  pop:
+    ethnicity: british_louisianan
+    estate: peasant
+    size: 1000
+1940.1.1:
+  resource: oil

@@ -1,0 +1,89 @@
+#imported from EU4 file: history/provinces/4287 - Ibra.txt
+2.1.1:
+  owner: MASC
+  controller: MASC
+  cores:
+    MASC: yes
+  resource: grain
+  pop:
+    ethnicity: omani_culture
+    religion: south_arabian
+    estate: peasant
+    size: 1000
+350.1.1:
+  owner: ERA
+  controller: ERA
+  cores:
+    ERA: yes
+600.1.1:
+  owner: OMA
+  controller: OMA
+  cores:
+    ERA: no
+    OMA: yes
+634.1.1:
+  owner: RASH
+  controller: RASH
+  cores:
+    RASH: yes
+  pop:
+    religion: islam
+    estate: peasant
+    size: 1000
+661.7.28:
+  owner: UMAY
+  controller: UMAY
+  cores:
+    RASH: no
+    UMAY: yes
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+750.8.6:
+  owner: ABBA
+  controller: ABBA
+  cores:
+    UMAY: no
+    ABBA: yes
+751.1.1:
+  pop:
+    religion: ibadi
+    estate: peasant
+    size: 1000
+840.1.1:
+  owner: OMA
+  controller: OMA
+  cores:
+    ABBA: no
+    OMA: yes
+1073.5.16:
+  owner: KRM
+  controller: KRM
+  cores:
+    KRM: yes
+1154.1.1:
+  owner: OMA
+  controller: OMA
+  cores:
+    KRM: no
+1507.6.1:
+  owner: POR
+  controller: POR
+  cores:
+    POR: yes
+1624.1.1:
+  owner: OMA
+  controller: OMA
+  cores:
+    POR: no
+1741.1.1:
+  owner: IRA
+  controller: IRA
+  cores:
+    IRA: yes
+1749.6.10:
+  owner: OMA
+  controller: OMA
+  cores:
+    IRA: no

@@ -1,0 +1,261 @@
+isk_noriuji_isshiki:
+  1300.1.1:
+    birth: hoi #TODO: Date and location guessed, check if better data is available
+    first_name: noriuji
+    dynasty: isshiki_dynasty
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: shinto
+    culture: saigoku_culture
+  1369.3.26:
+    death: yes
+isk_akinori_issiki:
+  1340.1.1:
+    birth: mikasa #TODO: Date and location guessed, check if better data is available
+    first_name: akinori
+    dynasty: issiki_dynasty
+    father: isk_noriuji_isshiki #TODO: check if this makes sense
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: shinto
+    culture: saigoku_culture
+  1406.6.22:
+    death: yes
+isk_akinori_isshiki:
+  1339.1.1:
+    birth: kasa #TODO: Date and location guessed, check if better data is available
+    first_name: akinori
+    dynasty: isshiki_dynasty
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: shinto
+    culture: saigoku_culture
+  1406.6.22:
+    death: yes
+isk_mitsunori_issiki:
+  1368.1.1:
+    birth: hoi #TODO: Date and location guessed, check if better data is available
+    first_name: mitsunori
+    dynasty: issiki_dynasty
+    father: isk_akinori_isshiki #TODO: check if this makes sense
+    adm: 60
+    dip: 45
+    mil: 60
+    religion: shinto
+    culture: saigoku_culture
+  1409.1.25:
+    death: yes
+isk_yoshitsura_issiki:
+  1400.1.1:
+    birth: kasa #TODO: Date and location guessed, check if better data is available
+    first_name: yoshitsura
+    dynasty: issiki_dynasty
+    father: isk_akinori_isshiki #TODO: check if this makes sense
+    adm: 45
+    dip: 30
+    mil: 45
+    religion: shinto
+    culture: saigoku_culture
+  1440.6.14:
+    death: yes
+isk_mitsunori_isshiki:
+  1376.1.1:
+    birth: kasa #TODO: Date and location guessed, check if better data is available
+    first_name: mitsunori
+    dynasty: isshiki_dynasty
+    adm: 60
+    dip: 45
+    mil: 60
+    religion: shinto
+    culture: saigoku_culture
+  1409.1.25:
+    death: yes
+isk_yoshitsura_issiki_1:
+  1379.1.1:
+    birth: kasa #TODO: Date and location guessed, check if better data is available
+    first_name: yoshitsura
+    dynasty: issiki_dynasty
+    adm: 45
+    dip: 30
+    mil: 45
+    religion: shinto
+    culture: saigoku_culture
+  1440.5.15:
+    death: yes
+isk_yoshinao_issiki:
+  1420.1.1:
+    birth: kasa #TODO: Date and location guessed, check if better data is available
+    first_name: yoshinao
+    dynasty: issiki_dynasty
+    father: isk_yoshitsura_issiki_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 45
+    mil: 45
+    religion: shinto
+    culture: saigoku_culture
+  1500.1.1:
+    death: yes
+isk_norichika_issiki:
+  1410.1.1:
+    birth: kasa #TODO: Date and location guessed, check if better data is available
+    first_name: norichika
+    dynasty: issiki_dynasty
+    adm: 30
+    dip: 45
+    mil: 45
+    religion: shinto
+    culture: saigoku_culture
+  1451.12.21:
+    death: yes
+isk_yoshinao_issiki_1:
+  1421.1.1:
+    birth: kasa #TODO: Date and location guessed, check if better data is available
+    first_name: yoshinao
+    dynasty: issiki_dynasty
+    adm: 30
+    dip: 30
+    mil: 30
+    religion: shinto
+    culture: saigoku_culture
+  1474.1.1:
+    death: yes
+isk_yoshiharu_issiki:
+  1466.1.1:
+    birth: kasa #TODO: Date and location guessed, check if better data is available
+    first_name: yoshiharu
+    dynasty: issiki_dynasty
+    father: isk_yoshinao_issiki_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 45
+    mil: 45
+    religion: shinto
+    culture: saigoku_culture
+  1484.9.23:
+    death: yes
+isk_yoshiharu_issiki_1:
+  1444.1.1:
+    birth: kasa #TODO: Date and location guessed, check if better data is available
+    first_name: yoshiharu
+    dynasty: issiki_dynasty
+    adm: 30
+    dip: 45
+    mil: 45
+    religion: shinto
+    culture: saigoku_culture
+  1484.9.23:
+    death: yes
+isk_yoshihide_issiki:
+  1468.1.1:
+    birth: kasa #TODO: Date and location guessed, check if better data is available
+    first_name: yoshihide
+    dynasty: issiki_dynasty
+    father: isk_yoshiharu_issiki_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 30
+    mil: 30
+    religion: shinto
+    culture: saigoku_culture
+  1498.6.18:
+    death: yes
+isk_yoshihide_issiki_1:
+  1454.1.1:
+    birth: kasa #TODO: Date and location guessed, check if better data is available
+    first_name: yoshihide
+    dynasty: issiki_dynasty
+    adm: 30
+    dip: 30
+    mil: 30
+    religion: shinto
+    culture: saigoku_culture
+  1498.6.18:
+    death: yes
+isk_yoshiari_issiki:
+  1468.1.1:
+    birth: kasa #TODO: Date and location guessed, check if better data is available
+    first_name: yoshiari
+    dynasty: issiki_dynasty
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: shinto
+    culture: saigoku_culture
+  1510.1.1:
+    death: yes
+isk_yoshikiyo_issiki:
+  1505.1.1:
+    birth: kasa #TODO: Date and location guessed, check if better data is available
+    first_name: yoshikiyo
+    dynasty: issiki_dynasty
+    father: isk_yoshiari_issiki #TODO: check if this makes sense
+    adm: 45
+    dip: 30
+    mil: 45
+    religion: shinto
+    culture: saigoku_culture
+  1540.1.11:
+    death: yes
+isk_yoshikiyo_issiki_1:
+  1480.1.1:
+    birth: kasa #TODO: Date and location guessed, check if better data is available
+    first_name: yoshikiyo
+    dynasty: issiki_dynasty
+    adm: 45
+    dip: 30
+    mil: 45
+    religion: shinto
+    culture: saigoku_culture
+  1540.1.1:
+    death: yes
+isk_yoshiyuki_issiki:
+  1523.1.1:
+    birth: kasa #TODO: Date and location guessed, check if better data is available
+    first_name: yoshiyuki
+    dynasty: issiki_dynasty
+    father: isk_yoshikiyo_issiki_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: shinto
+    culture: saigoku_culture
+  1570.1.1:
+    death: yes
+isk_yoshiyuki_issiki_1:
+  1510.1.1:
+    birth: kasa #TODO: Date and location guessed, check if better data is available
+    first_name: yoshiyuki
+    dynasty: issiki_dynasty
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: shinto
+    culture: saigoku_culture
+  1558.1.1:
+    death: yes
+isk_yoshimichi_issiki:
+  1530.1.1:
+    birth: kasa #TODO: Date and location guessed, check if better data is available
+    first_name: yoshimichi
+    dynasty: issiki_dynasty
+    father: isk_yoshiyuki_issiki_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 30
+    mil: 30
+    religion: shinto
+    culture: saigoku_culture
+  1579.1.1:
+    death: yes
+isk_yoshimichi_issiki_1:
+  1528.1.1:
+    birth: kasa #TODO: Date and location guessed, check if better data is available
+    first_name: yoshimichi
+    dynasty: issiki_dynasty
+    adm: 30
+    dip: 30
+    mil: 30
+    religion: shinto
+    culture: saigoku_culture
+  3000.1.1:
+    death: yes

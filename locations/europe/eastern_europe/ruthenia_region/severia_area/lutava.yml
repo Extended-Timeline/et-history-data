@@ -1,0 +1,119 @@
+#imported from EU4 file: history/provinces/280 - Kiev.txt
+2.1.1:
+  owner: ANTE
+  controller: ANTE
+  cores:
+    ANTE: yes
+  resource: grain
+  pop:
+    ethnicity: ruthenian
+    religion: slavic
+    estate: peasant
+    size: 1000
+380.1.1:
+  owner: HUNS
+  controller: HUNS
+  cores:
+    HUNS: yes
+469.1.1:
+  owner: ANTE
+  controller: ANTE
+  cores:
+    HUNS: no
+    ANTE: yes
+550.1.1:
+  owner: DREV
+  controller: DREV
+  cores:
+    ANTE: no
+    DREV: yes
+860.1.1:
+  owner: KIEV
+  controller: KIEV
+  cores:
+    DREV: no
+    KIEV: yes
+    UKR: yes
+960.1.1:
+  pop:
+    religion: orthodox
+    estate: peasant
+    size: 1000
+1054.2.20:
+  owner: KIE
+  controller: KIE
+  cores:
+    KIEV: no
+    KIE: yes
+1230.1.1:
+  owner: HAL
+  controller: HAL
+  cores:
+    HAL: yes
+1240.12.6:
+  owner: MGE
+  controller: MGE
+  cores:
+    HAL: no
+    MGE: yes
+1260.1.1:
+  owner: WHHO
+  controller: WHHO
+  cores:
+    MGE: no
+    WHHO: yes
+1362.12.24:
+  owner: LIT
+  controller: LIT
+  cores:
+    WHHO: no
+    LIT: yes
+1569.7.1:
+  owner: PLC
+  controller: PLC
+  cores:
+    PLC: yes
+1648.1.1:
+  cores:
+    ZAZ: yes
+1654.1.1:
+  controller: PLC
+  cores:
+    ZAZ: no
+1667.1.30:
+  owner: RUS
+  controller: RUS
+  cores:
+    PLC: no
+    RUS: yes
+1918.1.22:
+  owner: UKR
+  controller: UKR
+  cores:
+    UKR: yes
+1918.2.7:
+  controller: GER
+1918.2.9:
+  controller: RUS
+1918.3.1:
+  controller: UKR
+1920.1.1:
+  controller: RUS
+1921.3.18:
+  owner: RUS
+1922.12.30:
+  owner: SOVI
+  controller: SOVI
+  cores:
+    RUS: no
+    SOVI: yes
+1941.9.19:
+  controller: GER
+1943.11.6:
+  controller: SOVI
+1991.8.24:
+  owner: UKR
+  controller: UKR
+  cores:
+    SOVI: no
+    UKR: yes

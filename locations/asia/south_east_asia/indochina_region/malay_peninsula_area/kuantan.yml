@@ -1,0 +1,57 @@
+#imported from EU4 file: history/provinces/598 - Pahang.txt
+2.1.1:
+  pop:
+    ethnicity: malay_culture
+    religion: mahayana
+    estate: peasant
+    size: 1000
+450.1.1:
+  owner: PAH
+  controller: PAH
+  cores:
+    PAH: yes
+  resource: fish
+1454.1.1:
+  owner: MALC
+  controller: MALC
+  cores:
+    MALC: yes
+1460.1.1:
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+1470.1.1:
+  owner: PAH
+  controller: PAH
+  cores:
+    MALC: no
+1623.1.1:
+  owner: JOHO
+  controller: JOHO
+  cores:
+    JOHO: yes
+1885.1.1:
+  owner: GBR
+  controller: GBR
+  cores:
+    GBR: yes
+1942.1.1:
+  controller: JAP
+1945.8.1:
+  controller: GBR
+1946.4.1:
+  cores:
+    MALC: no
+    MSA: yes
+1957.8.31:
+  owner: MSA
+  controller: MSA
+  cores:
+    GBR: no
+1963.9.16:
+  owner: MALA
+  controller: MALA
+  cores:
+    MSA: no
+    MALA: yes

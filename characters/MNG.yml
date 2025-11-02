@@ -1,0 +1,536 @@
+mng_yuanzhang_zhu:
+  1331.1.1:
+    birth: dantu #TODO: Date and location guessed, check if better data is available
+    first_name: yuanzhang
+    dynasty: zhu_dynasty
+    adm: 90
+    dip: 60
+    mil: 90
+    religion: sanjiao
+    culture: jianghuai_culture
+  1398.6.24:
+    death: yes
+mng_yunwen_zhu:
+  1377.12.5:
+    birth: dantu #TODO: Location guessed, check if better data is available
+    first_name: yunwen
+    dynasty: zhu_dynasty
+    father: mng_yuanzhang_zhu #TODO: check if this makes sense
+    adm: 45
+    dip: 15
+    mil: 15
+    religion: sanjiao
+    culture: jianghuai_culture
+  1402.7.13:
+    death: yes
+mng_yunwen_zhu_1:
+  1368.1.1:
+    birth: dantu #TODO: Date and location guessed, check if better data is available
+    first_name: yunwen
+    dynasty: zhu_dynasty
+    adm: 45
+    dip: 15
+    mil: 15
+    religion: sanjiao
+    culture: jianghuai_culture
+  1402.7.13:
+    death: yes
+mng_di_zhu:
+  1360.5.2:
+    birth: dantu #TODO: Location guessed, check if better data is available
+    first_name: di
+    dynasty: zhu_dynasty
+    father: mng_yunwen_zhu_1 #TODO: check if this makes sense
+    adm: 75
+    dip: 90
+    mil: 90
+    religion: sanjiao
+    culture: jianghuai_culture
+  1424.8.12:
+    death: yes
+mng_di_zhu_1:
+  1372.1.1:
+    birth: dadu #TODO: Date and location guessed, check if better data is available
+    first_name: di
+    dynasty: zhu_dynasty
+    adm: 75
+    dip: 90
+    mil: 90
+    religion: sanjiao
+    culture: jianghuai_culture
+  1424.8.12:
+    death: yes
+mng_gaochi_zhu:
+  1378.8.16:
+    birth: dantu #TODO: Location guessed, check if better data is available
+    first_name: gaochi
+    dynasty: zhu_dynasty
+    father: mng_di_zhu_1 #TODO: check if this makes sense
+    adm: 60
+    dip: 30
+    mil: 30
+    religion: sanjiao
+    culture: jianghuai_culture
+  1425.5.29:
+    death: yes
+mng_gaochi_zhu_1:
+  1394.1.1:
+    birth: dadu #TODO: Date and location guessed, check if better data is available
+    first_name: gaochi
+    dynasty: zhu_dynasty
+    adm: 60
+    dip: 30
+    mil: 30
+    religion: sanjiao
+    culture: jianghuai_culture
+  1425.5.29:
+    death: yes
+mng_zhanji_zhu:
+  1398.2.25:
+    birth: dadu #TODO: Location guessed, check if better data is available
+    first_name: zhanji
+    dynasty: zhu_dynasty
+    father: mng_gaochi_zhu_1 #TODO: check if this makes sense
+    adm: 60
+    dip: 60
+    mil: 60
+    religion: sanjiao
+    culture: jianghuai_culture
+  1435.1.31:
+    death: yes
+mng_zhanji_zhu_1:
+  1395.1.1:
+    birth: dadu #TODO: Date and location guessed, check if better data is available
+    first_name: zhanji
+    dynasty: zhu_dynasty
+    adm: 60
+    dip: 60
+    mil: 60
+    religion: sanjiao
+    culture: jianghuai_culture
+  1435.1.31:
+    death: yes
+mng_qizhen_zhu:
+  1427.11.29:
+    birth: dadu #TODO: Location guessed, check if better data is available
+    first_name: qizhen
+    dynasty: zhu_dynasty
+    father: mng_qiyu_zhu_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 30
+    mil: 15
+    religion: sanjiao
+    culture: jianghuai_culture
+  1464.2.23:
+    death: yes
+mng_qizhen_zhu_1:
+  1405.1.1:
+    birth: dadu #TODO: Date and location guessed, check if better data is available
+    first_name: qizhen
+    dynasty: zhu_dynasty
+    adm: 15
+    dip: 15
+    mil: 15
+    religion: sanjiao
+    culture: jianghuai_culture
+  1449.11.23:
+    death: yes
+mng_qiyu_zhu:
+  1428.9.21:
+    birth: dadu #TODO: Location guessed, check if better data is available
+    first_name: qiyu
+    dynasty: zhu_dynasty
+    father: mng_qizhen_zhu_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 15
+    mil: 30
+    religion: sanjiao
+    culture: jianghuai_culture
+  1457.3.14:
+    death: yes
+mng_qiyu_zhu_1:
+  1419.1.1:
+    birth: dadu #TODO: Date and location guessed, check if better data is available
+    first_name: qiyu
+    dynasty: zhu_dynasty
+    adm: 15
+    dip: 15
+    mil: 30
+    religion: sanjiao
+    culture: jianghuai_culture
+  1457.2.23:
+    death: yes
+mng_qizhen_zhu_2:
+  1427.1.1:
+    birth: dadu #TODO: Date and location guessed, check if better data is available
+    first_name: qizhen
+    dynasty: zhu_dynasty
+    adm: 30
+    dip: 30
+    mil: 15
+    religion: sanjiao
+    culture: jianghuai_culture
+  1464.3.24:
+    death: yes
+mng_jianjun_zhu:
+  1447.12.9:
+    birth: dadu #TODO: Location guessed, check if better data is available
+    first_name: jianjun
+    dynasty: zhu_dynasty
+    father: mng_qizhen_zhu_2 #TODO: check if this makes sense
+    adm: 15
+    dip: 0
+    mil: 30
+    religion: sanjiao
+    culture: jianghuai_culture
+  1487.9.9:
+    death: yes
+mng_jianjun_zhu_1:
+  1434.1.1:
+    birth: dadu #TODO: Date and location guessed, check if better data is available
+    first_name: jianjun
+    dynasty: zhu_dynasty
+    adm: 15
+    dip: 0
+    mil: 30
+    religion: sanjiao
+    culture: jianghuai_culture
+  1487.9.10:
+    death: yes
+mng_youcheng_zhu:
+  1470.7.30:
+    birth: dadu #TODO: Location guessed, check if better data is available
+    first_name: youcheng
+    dynasty: zhu_dynasty
+    father: mng_jianjun_zhu_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 45
+    mil: 60
+    religion: sanjiao
+    culture: jianghuai_culture
+  1505.6.8:
+    death: yes
+mng_youcheng_zhu_1:
+  1457.1.1:
+    birth: dadu #TODO: Date and location guessed, check if better data is available
+    first_name: youcheng
+    dynasty: zhu_dynasty
+    adm: 15
+    dip: 45
+    mil: 60
+    religion: sanjiao
+    culture: jianghuai_culture
+  1505.6.9:
+    death: yes
+mng_houzhao_zhu:
+  1491.10.26:
+    birth: dadu #TODO: Location guessed, check if better data is available
+    first_name: houzhao
+    dynasty: zhu_dynasty
+    father: mng_youcheng_zhu_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 60
+    mil: 0
+    religion: sanjiao
+    culture: jianghuai_culture
+  1521.4.20:
+    death: yes
+mng_houzhao_zhu_1:
+  1475.1.1:
+    birth: dadu #TODO: Date and location guessed, check if better data is available
+    first_name: houzhao
+    dynasty: zhu_dynasty
+    adm: 15
+    dip: 60
+    mil: 0
+    religion: sanjiao
+    culture: jianghuai_culture
+  1521.4.21:
+    death: yes
+mng_houcong_zhu:
+  1507.9.16:
+    birth: dadu #TODO: Location guessed, check if better data is available
+    first_name: houcong
+    dynasty: zhu_dynasty
+    father: mng_houzhao_zhu_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 60
+    mil: 45
+    religion: sanjiao
+    culture: jianghuai_culture
+  1521.4.21:
+    death: yes
+mng_houcong_zhu_1:
+  1491.1.1:
+    birth: dadu #TODO: Date and location guessed, check if better data is available
+    first_name: houcong
+    dynasty: zhu_dynasty
+    adm: 45
+    dip: 60
+    mil: 45
+    religion: sanjiao
+    culture: jianghuai_culture
+  1567.1.24:
+    death: yes
+mng_zaihou_zhu:
+  1537.3.4:
+    birth: dadu #TODO: Location guessed, check if better data is available
+    first_name: zaihou
+    dynasty: zhu_dynasty
+    father: mng_houcong_zhu_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 15
+    mil: 30
+    religion: sanjiao
+    culture: jianghuai_culture
+  1572.7.5:
+    death: yes
+mng_zaihou_zhu_1:
+  1537.1.1:
+    birth: dadu #TODO: Date and location guessed, check if better data is available
+    first_name: zaihou
+    dynasty: zhu_dynasty
+    adm: 45
+    dip: 15
+    mil: 30
+    religion: sanjiao
+    culture: jianghuai_culture
+  1572.7.5:
+    death: yes
+mng_yijun_zhu:
+  1563.9.4:
+    birth: dadu #TODO: Location guessed, check if better data is available
+    first_name: yijun
+    dynasty: zhu_dynasty
+    father: mng_zaihou_zhu_1 #TODO: check if this makes sense
+    adm: 0
+    dip: 45
+    mil: 60
+    religion: sanjiao
+    culture: jianghuai_culture
+  1620.8.18:
+    death: yes
+mng_yijun_zhu_1:
+  1542.1.1:
+    birth: dadu #TODO: Date and location guessed, check if better data is available
+    first_name: yijun
+    dynasty: zhu_dynasty
+    adm: 0
+    dip: 45
+    mil: 60
+    religion: sanjiao
+    culture: jianghuai_culture
+  1620.8.27:
+    death: yes
+mng_changluo_zhu:
+  1582.8.28:
+    birth: dadu #TODO: Location guessed, check if better data is available
+    first_name: changluo
+    dynasty: zhu_dynasty
+    father: mng_yijun_zhu_1 #TODO: check if this makes sense
+    adm: 60
+    dip: 45
+    mil: 60
+    religion: sanjiao
+    culture: jianghuai_culture
+  1620.9.26:
+    death: yes
+mng_changluo_zhu_1:
+  1590.1.1:
+    birth: dadu #TODO: Date and location guessed, check if better data is available
+    first_name: changluo
+    dynasty: zhu_dynasty
+    adm: 60
+    dip: 45
+    mil: 60
+    religion: sanjiao
+    culture: jianghuai_culture
+  1620.9.28:
+    death: yes
+mng_youxiao_zhu:
+  1605.12.23:
+    birth: dadu #TODO: Location guessed, check if better data is available
+    first_name: youxiao
+    dynasty: zhu_dynasty
+    father: mng_changluo_zhu_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 30
+    mil: 0
+    religion: sanjiao
+    culture: jianghuai_culture
+  1627.10.2:
+    death: yes
+mng_youxiao_zhu_1:
+  1590.1.1:
+    birth: dadu #TODO: Date and location guessed, check if better data is available
+    first_name: youxiao
+    dynasty: zhu_dynasty
+    adm: 45
+    dip: 30
+    mil: 0
+    religion: sanjiao
+    culture: jianghuai_culture
+  1627.10.2:
+    death: yes
+mng_youjian_zhu:
+  1611.2.6:
+    birth: dadu #TODO: Location guessed, check if better data is available
+    first_name: youjian
+    dynasty: zhu_dynasty
+    father: mng_youxiao_zhu_1 #TODO: check if this makes sense
+    adm: 0
+    dip: 30
+    mil: 0
+    religion: sanjiao
+    culture: jianghuai_culture
+  1644.4.25:
+    death: yes
+mng_youjian_zhu_1:
+  1597.1.1:
+    birth: dadu #TODO: Date and location guessed, check if better data is available
+    first_name: youjian
+    dynasty: zhu_dynasty
+    adm: 0
+    dip: 30
+    mil: 0
+    religion: sanjiao
+    culture: jianghuai_culture
+  1644.1.1:
+    death: yes
+mng_yousong_zhu:
+  1607.1.1:
+    birth: dadu #TODO: Date and location guessed, check if better data is available
+    first_name: yousong
+    dynasty: zhu_dynasty
+    father: mng_youjian_zhu_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 45
+    mil: 45
+    religion: sanjiao
+    culture: jianghuai_culture
+  1645.8.1:
+    death: yes
+mng_yousong_zhu_1:
+  1614.1.1:
+    birth: dadu #TODO: Date and location guessed, check if better data is available
+    first_name: yousong
+    dynasty: zhu_dynasty
+    adm: 30
+    dip: 45
+    mil: 45
+    religion: sanjiao
+    culture: jianghuai_culture
+  1645.8.1:
+    death: yes
+mng_yujian_zhu:
+  1602.1.1:
+    birth: dadu #TODO: Date and location guessed, check if better data is available
+    first_name: yujian
+    dynasty: zhu_dynasty
+    father: mng_yousong_zhu_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 15
+    mil: 0
+    religion: sanjiao
+    culture: jianghuai_culture
+  1646.11.18:
+    death: yes
+mng_yujian_zhu_1:
+  1615.1.1:
+    birth: dadu #TODO: Date and location guessed, check if better data is available
+    first_name: yujian
+    dynasty: zhu_dynasty
+    adm: 15
+    dip: 15
+    mil: 0
+    religion: sanjiao
+    culture: jianghuai_culture
+  1646.11.18:
+    death: yes
+mng_youlang_zhu:
+  1623.1.1:
+    birth: dadu #TODO: Date and location guessed, check if better data is available
+    first_name: youlang
+    dynasty: zhu_dynasty
+    father: mng_yujian_zhu_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 15
+    mil: 0
+    religion: sanjiao
+    culture: jianghuai_culture
+  1662.6.6:
+    death: yes
+mng_youlang_zhu_1:
+  1616.1.1:
+    birth: dadu #TODO: Date and location guessed, check if better data is available
+    first_name: youlang
+    dynasty: zhu_dynasty
+    adm: 45
+    dip: 15
+    mil: 0
+    religion: sanjiao
+    culture: jianghuai_culture
+  1662.2.1:
+    death: yes
+mng_chenggong_zheng:
+  1632.1.1:
+    birth: dadu #TODO: Date and location guessed, check if better data is available
+    first_name: chenggong
+    dynasty: zheng_dynasty
+    adm: 75
+    dip: 75
+    mil: 15
+    religion: sanjiao
+    culture: jianghuai_culture
+  1662.6.23:
+    death: yes
+mng_jing_zheng:
+  1642.11.4:
+    birth: dadu #TODO: Location guessed, check if better data is available
+    first_name: jing
+    dynasty: zheng_dynasty
+    father: mng_chenggong_zheng #TODO: check if this makes sense
+    adm: 45
+    dip: 45
+    mil: 0
+    religion: sanjiao
+    culture: jianghuai_culture
+  1681.3.17:
+    death: yes
+mng_jing_zheng_1:
+  1632.1.1:
+    birth: dadu #TODO: Date and location guessed, check if better data is available
+    first_name: jing
+    dynasty: zheng_dynasty
+    adm: 45
+    dip: 45
+    mil: 0
+    religion: sanjiao
+    culture: jianghuai_culture
+  1681.1.1:
+    death: yes
+mng_kehshuan_zheng:
+  1670.8.13:
+    birth: dadu #TODO: Location guessed, check if better data is available
+    first_name: kehshuan
+    dynasty: zheng_dynasty
+    father: mng_jing_zheng_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 30
+    mil: 45
+    religion: sanjiao
+    culture: jianghuai_culture
+  1717.9.22:
+    death: yes
+mng_kehshuan_zheng_1:
+  1651.1.1:
+    birth: dadu #TODO: Date and location guessed, check if better data is available
+    first_name: kehshuan
+    dynasty: zheng_dynasty
+    adm: 30
+    dip: 30
+    mil: 45
+    religion: sanjiao
+    culture: jianghuai_culture
+  3000.1.1:
+    death: yes

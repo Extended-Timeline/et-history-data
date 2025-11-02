@@ -1,0 +1,59 @@
+#imported from EU4 file: history/provinces/4285 - Baraimi.txt
+2.1.1:
+  pop:
+    ethnicity: omani_culture
+    religion: south_arabian
+    estate: peasant
+    size: 1000
+580.1.1:
+  owner: OMA
+  controller: OMA
+  cores:
+    OMA: yes
+  resource: livestock
+634.1.1:
+  owner: RASH
+  controller: RASH
+  cores:
+    RASH: yes
+  pop:
+    religion: islam
+    estate: peasant
+    size: 1000
+661.7.28:
+  owner: UMAY
+  controller: UMAY
+  cores:
+    RASH: no
+    UMAY: yes
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+750.8.6:
+  owner: ABBA
+  controller: ABBA
+  cores:
+    UMAY: no
+    ABBA: yes
+751.1.1:
+  pop:
+    religion: ibadi
+    estate: peasant
+    size: 1000
+840.1.1:
+  owner: OMA
+  controller: OMA
+  cores:
+    ABBA: no
+    OMA: yes
+1073.5.16:
+  owner: KRM
+  controller: KRM
+  cores:
+    KRM: yes
+1154.1.1:
+  owner: OMA
+  controller: OMA
+  cores:
+    KRM: no

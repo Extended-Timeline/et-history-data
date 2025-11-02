@@ -1,0 +1,66 @@
+#imported from EU4 file: history/provinces/1065 - Kuznetsk.txt
+2.1.1:
+  pop:
+    ethnicity: kyrgyz_culture
+    religion: 
+    estate: peasant
+    size: 1000
+550.1.1:
+  owner: YKYR
+  controller: YKYR
+  cores:
+    YKYR: yes
+  resource: fur
+1219.1.1:
+  owner: MGE
+  controller: MGE
+  cores:
+    MGE: yes
+1250.1.1:
+  cores:
+    YKYR: no
+  pop:
+    ethnicity: tuvan_culture
+    estate: peasant
+    size: 1000
+1271.1.1:
+  owner: YUA
+  controller: YUA
+  cores:
+    MGE: no
+    YUA: yes
+1368.1.23:
+  owner: MGE
+  controller: MGE
+  cores:
+    YUA: no
+    MGE: yes
+1399.1.1:
+  owner: OIR
+  controller: OIR
+  cores:
+    MGE: no
+    OIR: yes
+1618.1.1:
+  owner: RUS
+  controller: RUS
+  pop:
+    ethnicity: muscovite
+    religion: orthodox
+    estate: peasant
+    size: 1000
+1781.1.1:
+  cores:
+    RUS: yes
+1922.12.30:
+  owner: SOVI
+  controller: SOVI
+  cores:
+    RUS: no
+    SOVI: yes
+1991.12.25:
+  owner: RUS
+  controller: RUS
+  cores:
+    SOVI: no
+    RUS: yes

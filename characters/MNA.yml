@@ -1,0 +1,126 @@
+mna_ahmad_soliman:
+  1228.1.1:
+    birth: maynila #TODO: Date and location guessed, check if better data is available
+    first_name: ahmad
+    dynasty: soliman_dynasty
+    adm: 30
+    dip: 45
+    mil: 30
+    religion: bimoism
+    culture: tagalog_culture
+  1300.1.1:
+    death: yes
+mna_sulayman_soliman:
+  1270.1.1:
+    birth: maynila #TODO: Date and location guessed, check if better data is available
+    first_name: sulayman
+    dynasty: soliman_dynasty
+    adm: 15
+    dip: 30
+    mil: 30
+    religion: bimoism
+    culture: tagalog_culture
+  1350.1.1:
+    death: yes
+mna_matanda_soliman:
+  1320.1.1:
+    birth: maynila #TODO: Date and location guessed, check if better data is available
+    first_name: matanda
+    dynasty: soliman_dynasty
+    father: mna_ysmeria_maynila_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 30
+    mil: 15
+    religion: bimoism
+    culture: tagalog_culture
+  1400.1.1:
+    death: yes
+mna_sulayman_soliman_1:
+  1370.1.1:
+    birth: maynila #TODO: Date and location guessed, check if better data is available
+    first_name: sulayman
+    dynasty: soliman_dynasty
+    adm: 15
+    dip: 30
+    mil: 30
+    religion: bimoism
+    culture: tagalog_culture
+  1440.1.1:
+    death: yes
+mna_salilla_soliman:
+  1410.1.1:
+    birth: maynila #TODO: Date and location guessed, check if better data is available
+    first_name: salilla
+    dynasty: soliman_dynasty
+    adm: 60
+    dip: 45
+    mil: 45
+    religion: bimoism
+    culture: tagalog_culture
+  1500.1.1:
+    death: yes
+mna_ysmeria_maynila:
+  1410.1.1:
+    birth: maynila #TODO: Date and location guessed, check if better data is available
+    first_name: ysmeria
+    dynasty: maynila_dynasty
+    female: yes
+    adm: 60
+    dip: 60
+    mil: 45
+    religion: sunni
+    culture: tagalog_culture
+  3000.1.1:
+    death: yes
+  1440.1.1:
+    spouse: mna_salilla_soliman #TODO: date guessed, see if better data is available
+mna_matanda_soliman_1:
+  1480.1.1:
+    birth: maynila #TODO: Date and location guessed, check if better data is available
+    first_name: matanda
+    dynasty: soliman_dynasty
+    adm: 45
+    dip: 45
+    mil: 60
+    religion: bimoism
+    culture: tagalog_culture
+  1572.8.1:
+    death: yes
+mna_ysmeria_maynila_1:
+  1470.1.1:
+    birth: maynila #TODO: Date and location guessed, check if better data is available
+    first_name: ysmeria
+    dynasty: maynila_dynasty
+    female: yes
+    adm: 60
+    dip: 60
+    mil: 45
+    religion: bimoism
+    culture: tagalog_culture
+  1521.1.1:
+    death: yes
+mna_sulayman_soliman_2:
+  1558.1.1:
+    birth: maynila #TODO: Date and location guessed, check if better data is available
+    first_name: sulayman
+    dynasty: soliman_dynasty
+    adm: 45
+    dip: 30
+    mil: 60
+    religion: sunni
+    culture: tagalog_culture
+  3000.1.1:
+    death: yes
+mna_agustin_legazpi_soliman:
+  1560.1.1:
+    birth: maynila #TODO: Date and location guessed, check if better data is available
+    first_name: agustin_legazpi
+    dynasty: soliman_dynasty
+    father: mna_sulayman_soliman_2 #TODO: check if this makes sense
+    adm: 60
+    dip: 30
+    mil: 45
+    religion: sunni
+    culture: tagalog_culture
+  1589.1.1:
+    death: yes

@@ -1,0 +1,71 @@
+#imported from EU4 file: history/provinces/4306 - Lakia.txt
+2.1.1:
+  owner: ALN
+  controller: ALN
+  cores:
+    ALN: yes
+  resource: iron
+  pop:
+    ethnicity: avar_culture
+    religion: 
+    estate: peasant
+    size: 1000
+448.1.1:
+  owner: KHAZ
+  controller: KHAZ
+  cores:
+    ALN: no
+    KHAZ: yes
+  pop:
+    ethnicity: khazar
+    estate: peasant
+    size: 1000
+734.1.1:
+  owner: GAZI
+  controller: GAZI
+  cores:
+    GAZI: yes
+780.1.1:
+  pop:
+    ethnicity: lezgin_culture
+    religion: sunni
+    estate: peasant
+    size: 1000
+1236.1.1:
+  owner: MGE
+  controller: MGE
+  cores:
+    MGE: yes
+1260.1.1:
+  owner: GAZI
+  controller: GAZI
+  cores:
+    MGE: no
+    GAZI: yes
+1828.1.1:
+  owner: CAUC
+  controller: CAUC
+  cores:
+    GAZI: no
+    CAUC: yes
+1859.9.1:
+  owner: RUS
+  controller: RUS
+1917.3.6:
+  owner: CAUC
+  controller: CAUC
+1921.1.1:
+  owner: RUS
+  controller: RUS
+1922.12.30:
+  owner: SOVI
+  controller: SOVI
+  cores:
+    RUS: no
+    SOVI: yes
+1991.12.25:
+  owner: RUS
+  controller: RUS
+  cores:
+    SOVI: no
+    RUS: yes

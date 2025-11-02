@@ -1,0 +1,136 @@
+#imported from EU4 file: history/provinces/1318 - Spis.txt
+2.1.1:
+  owner: GOTI
+  controller: GOTI
+  cores:
+    GOTI: yes
+  resource: copper
+  pop:
+    ethnicity: pannonian
+    religion: druidism
+    estate: peasant
+    size: 1000
+300.1.1:
+  owner: QUAD
+  controller: QUAD
+  cores:
+    GOTI: no
+    QUAD: yes
+  pop:
+    ethnicity: quadian
+    religion: germanic
+    estate: peasant
+    size: 1000
+568.1.1:
+  owner: AVR
+  controller: AVR
+  cores:
+    QUAD: no
+    AVR: yes
+  pop:
+    religion: 
+    estate: peasant
+    size: 1000
+580.1.1:
+  pop:
+    ethnicity: slovak
+    estate: peasant
+    size: 1000
+623.1.1:
+  owner: SAMO
+  controller: SAMO
+  cores:
+    HERU: no
+    SAMO: yes
+659.1.1:
+  owner: AVR
+  controller: AVR
+  cores:
+    SAMO: no
+    AVR: yes
+804.1.1:
+  owner: HUN
+  controller: HUN
+  cores:
+    AVR: no
+    HUN: yes
+833.1.1:
+  owner: MVA
+  controller: MVA
+  cores:
+    MVA: yes
+902.1.1:
+  owner: HUN
+  controller: HUN
+  cores:
+    MVA: no
+    HUN: yes
+950.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+1001.1.1:
+  owner: POL
+  controller: POL
+  cores:
+    POL: yes
+1018.1.1:
+  owner: HUN
+  controller: HUN
+  cores:
+    POL: no
+1490.1.1:
+  controller: HAB
+1491.11.7:
+  controller: HUN
+1526.8.30:
+  owner: HAB
+  controller: HAB
+  cores:
+    HAB: yes
+1545.1.1:
+  pop:
+    religion: lutheran
+    estate: peasant
+    size: 1000
+1567.1.1:
+  pop:
+    religion: calvinist
+    estate: peasant
+    size: 1000
+1606.1.1:
+  controller: HAB
+  pop:
+    religion: calvinist
+    estate: peasant
+    size: 1000
+1626.1.1:
+  controller: HAB
+1711.1.1:
+  controller: HAB
+1750.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+1918.10.28:
+  owner: CZES
+  controller: CZES
+  cores:
+    HAB: no
+    HUN: no
+    CZES: yes
+1939.3.14:
+  owner: SLOK
+  controller: SLOK
+  cores:
+    SLOK: yes
+1945.5.8:
+  owner: CZES
+  controller: CZES
+1992.12.31:
+  owner: SLOK
+  controller: SLOK
+  cores:
+    CZES: no

@@ -1,0 +1,57 @@
+#imported from EU4 file: history/provinces/2626 - Tuliucan.txt
+2.1.1:
+  owner: TEOT
+  controller: TEOT
+  cores:
+    TEOT: yes
+  resource: gold
+  pop:
+    ethnicity: matlatzinca_culture
+    religion: nahuatl
+    estate: peasant
+    size: 1000
+800.1.1:
+  owner: TOLT
+  controller: TOLT
+  cores:
+    TEOT: no
+    TOLT: yes
+1200.1.1:
+  owner: MAT
+  controller: MAT
+  cores:
+    TOLT: no
+    MAT: yes
+1474.1.1:
+  owner: AZTE
+  controller: AZTE
+  cores:
+    AZTE: yes
+1521.8.13:
+  owner: SPA
+  controller: SPA
+  cores:
+    SPA: yes
+  pop:
+    ethnicity: castilian
+    religion: catholic
+    estate: peasant
+    size: 1000
+1770.1.1:
+  pop:
+    ethnicity: mexican
+    estate: peasant
+    size: 1000
+1810.9.16:
+  owner: MEX
+  controller: MEX
+  cores:
+    MEX: yes
+1821.9.27:
+  controller: MEX
+  cores:
+    SPA: no
+1847.8.7:
+  controller: USA
+1848.2.2:
+  controller: MEX

@@ -1,0 +1,101 @@
+#imported from EU4 file: history/provinces/540 - Coromandel.txt
+2.1.1:
+  owner: CHOL
+  controller: CHOL
+  cores:
+    CHOL: yes
+  resource: cloth
+  pop:
+    ethnicity: tamil
+    religion: hindu
+    estate: peasant
+    size: 1000
+200.1.1:
+  owner: TNK
+  controller: TNK
+  cores:
+    CHOL: no
+    TNK: yes
+250.1.1:
+  owner: KALA
+  controller: KALA
+  cores:
+    TNK: no
+    KALA: yes
+600.1.1:
+  owner: PALL
+  controller: PALL
+  cores:
+    KALA: no
+    PALL: yes
+848.1.1:
+  owner: CHOL
+  controller: CHOL
+  cores:
+    PALL: no
+    CHOL: yes
+1279.1.1:
+  owner: TNK
+  controller: TNK
+  cores:
+    TNK: yes
+1322.1.1:
+  owner: CHOL
+  controller: CHOL
+  cores:
+    CHOL: yes
+1375.1.1:
+  owner: VIJ
+  controller: VIJ
+  cores:
+    CHOL: no
+    VIJ: yes
+1399.1.1:
+  cores:
+    MADU: yes
+1548.1.1:
+  controller: VIJ
+1565.1.26:
+  owner: GING
+  controller: GING
+1649.1.1:
+  controller: BIJA
+1649.12.1:
+  owner: BIJA
+  cores:
+    CARN: no
+    BIJA: yes
+1674.1.1:
+  owner: FRA
+  controller: FRA
+  cores:
+    FRA: yes
+1761.1.16:
+  controller: GBR
+1763.2.10:
+  controller: FRA
+1870.9.4:
+  owner: FRA
+  controller: FRA
+  cores:
+    FRA: yes
+1930.1.1:
+  cores:
+    MADU: no
+    INDI: yes
+1940.6.14:
+  owner: VFRA
+  controller: VFRA
+  cores:
+    VFRA: yes
+1944.8.25:
+  owner: FRA
+  controller: FRA
+  cores:
+    VFRA: no
+1954.3.18:
+  owner: INDI
+  controller: INDI
+1956.3.1:
+  cores:
+    FRA: no

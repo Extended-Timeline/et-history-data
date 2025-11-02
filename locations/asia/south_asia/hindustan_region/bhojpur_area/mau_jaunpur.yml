@@ -1,0 +1,152 @@
+#imported from EU4 file: history/provinces/555 - Jaunpur.txt
+2.1.1:
+  owner: KOSA
+  controller: KOSA
+  cores:
+    KOSA: yes
+  resource: grain
+  pop:
+    ethnicity: awadhi
+    religion: mahayana
+    estate: peasant
+    size: 1000
+120.1.1:
+  owner: KUSH
+  controller: KUSH
+  cores:
+    KOSA: no
+    KUSH: yes
+270.1.1:
+  owner: PANC
+  controller: PANC
+  cores:
+    KUSH: no
+    PANC: yes
+320.1.1:
+  owner: GUPT
+  controller: GUPT
+  cores:
+    PANC: no
+    GUPT: yes
+600.1.1:
+  owner: KANN
+  controller: KANN
+  cores:
+    GUPT: no
+    KANN: yes
+620.1.1:
+  owner: PUSH
+  controller: PUSH
+  cores:
+    PUSH: yes
+647.1.1:
+  owner: KANN
+  controller: KANN
+  cores:
+    PUSH: no
+750.1.1:
+  owner: PALA
+  controller: PALA
+  cores:
+    KANN: no
+    PALA: yes
+800.1.1:
+  resource: paper
+1033.1.1:
+  owner: KALC
+  controller: KALC
+  cores:
+    PALA: no
+    KALC: yes
+1068.1.1:
+  owner: GAHA
+  controller: GAHA
+  cores:
+    KALC: no
+    GAHA: yes
+1192.1.1:
+  owner: GHOR
+  controller: GHOR
+  cores:
+    GAHA: no
+    GHOR: yes
+1206.1.1:
+  owner: DLH
+  controller: DLH
+  cores:
+    GHOR: no
+    DLH: yes
+1250.1.1:
+  pop:
+    religion: hindu
+    estate: peasant
+    size: 1000
+1394.1.1:
+  owner: JNP
+  controller: JNP
+  cores:
+    JNP: yes
+1486.1.1:
+  owner: DLH
+  controller: DLH
+  cores:
+    DLH: yes
+1518.5.1:
+  controller: DLH
+1526.4.1:
+  controller: TIM
+1526.4.21:
+  owner: BNG
+1528.1.1:
+  owner: MUG
+  controller: MUG
+  cores:
+    DLH: no
+    MUG: yes
+1531.1.1:
+  controller: MUG
+1540.1.1:
+  owner: BNG
+  controller: BNG
+  cores:
+    BNG: yes
+1553.1.1:
+  owner: JNP
+  controller: JNP
+  cores:
+    BNG: no
+1558.11.1:
+  controller: MUG
+1558.12.1:
+  owner: MUG
+1561.1.1:
+  controller: JNP
+1561.5.1:
+  controller: MUG
+1566.6.1:
+  controller: MUG
+1623.5.1:
+  controller: MUG
+1658.2.14:
+  controller: MUG
+1724.1.1:
+  owner: OUDH
+  controller: OUDH
+  cores:
+    MUG: no
+    OUDH: yes
+1856.2.11:
+  owner: GBR
+  controller: GBR
+  cores:
+    GBR: yes
+1930.1.1:
+  cores:
+    OUDH: no
+    JNP: no
+    INDI: yes
+1947.8.15:
+  owner: INDI
+  controller: INDI
+  cores:
+    GBR: no

@@ -1,0 +1,121 @@
+#imported from EU4 file: history/provinces/2081 - Lakhnor.txt
+2.1.1:
+  owner: SUHM
+  controller: SUHM
+  cores:
+    SUHM: yes
+  resource: naval_supplies
+  pop:
+    ethnicity: bengali
+    religion: hindu
+    estate: peasant
+    size: 1000
+250.1.1:
+  owner: BISH
+  controller: BISH
+  cores:
+    SUHM: no
+    BISH: yes
+355.1.1:
+  owner: GUPT
+  controller: GUPT
+  cores:
+    BISH: no
+    GUPT: yes
+580.1.1:
+  owner: GAUD
+  controller: GAUD
+  cores:
+    GUPT: no
+    GAUD: yes
+626.1.1:
+  owner: PUSH
+  controller: PUSH
+  cores:
+    GAUD: no
+    PUSH: yes
+647.1.1:
+  owner: GUPT
+  controller: GUPT
+  cores:
+    PUSH: no
+    GUPT: yes
+720.1.1:
+  owner: KANN
+  controller: KANN
+  cores:
+    GUPT: no
+    KANN: yes
+750.1.1:
+  owner: PALA
+  controller: PALA
+  cores:
+    KANN: no
+    PALA: yes
+1130.1.1:
+  owner: GAUD
+  controller: GAUD
+  cores:
+    PALA: no
+    GAUD: yes
+1203.1.1:
+  owner: BNG
+  controller: BNG
+  cores:
+    BNG: yes
+1227.1.1:
+  owner: DLH
+  controller: DLH
+1229.1.1:
+  owner: BNG
+  controller: BNG
+1231.1.1:
+  owner: DLH
+  controller: DLH
+  cores:
+    DLH: yes
+1287.1.1:
+  owner: BNG
+  controller: BNG
+  cores:
+    DLH: no
+1324.1.1:
+  owner: DLH
+  controller: DLH
+  cores:
+    DLH: yes
+1338.1.1:
+  owner: BNG
+  controller: BNG
+  cores:
+    DLH: no
+1576.7.12:
+  owner: MUG
+  controller: MUG
+  cores:
+    MUG: yes
+1624.1.1:
+  controller: MUG
+1658.12.28:
+  controller: MUG
+1707.3.15:
+  owner: BNG
+  controller: BNG
+  cores:
+    MUG: no
+1765.1.1:
+  owner: GBR
+  controller: GBR
+  cores:
+    GBR: yes
+1930.1.1:
+  cores:
+    BNG: no
+    INDI: yes
+1947.8.15:
+  owner: INDI
+  controller: INDI
+  cores:
+    GBR: no
+1968.1.1:
+  resource: uranium

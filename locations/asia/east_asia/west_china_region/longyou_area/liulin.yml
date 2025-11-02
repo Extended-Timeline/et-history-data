@@ -1,0 +1,129 @@
+#imported from EU4 file: history/provinces/2183 - Taozhou.txt
+2.1.1:
+  owner: HAN0
+  controller: HAN0
+  cores:
+    HAN0: yes
+    DI00: yes
+  resource: chinaware
+  pop:
+    ethnicity: baima_culture
+    religion: mahayana
+    estate: peasant
+    size: 1000
+9.1.10:
+  owner: DI00
+  controller: DI00
+  cores:
+    HAN0: no
+60.1.1:
+  owner: HAN0
+  controller: HAN0
+  cores:
+    HAN0: yes
+118.1.1:
+  controller: HAN0
+184.10.1:
+  owner: DI00
+  controller: DI00
+  cores:
+    HAN0: no
+214.10.1:
+  owner: WEI0
+  controller: WEI0
+  cores:
+    WEI0: yes
+219.1.1:
+  owner: SHU0
+  controller: SHU0
+  cores:
+    WEI0: no
+    SHU0: yes
+250.1.1:
+  owner: DI00
+  controller: DI00
+  cores:
+    SHU0: no
+295.1.1:
+  owner: JIN1
+  controller: JIN1
+  cores:
+    JIN1: yes
+314.1.1:
+  owner: DI00
+  controller: DI00
+  cores:
+    JIN1: no
+410.1.1:
+  owner: QIN0
+  controller: QIN0
+  cores:
+    QIN0: yes
+431.1.1:
+  owner: TUYU
+  controller: TUYU
+  cores:
+    QIN0: no
+    TUYU: yes
+584.1.1:
+  owner: TAGT
+  controller: TAGT
+  cores:
+    TUYU: no
+    TAGT: yes
+629.1.1:
+  owner: TIB
+  controller: TIB
+  cores:
+    TIB: yes
+842.1.1:
+  owner: DI00
+  controller: DI00
+  cores:
+    TIB: no
+    DI00: yes
+1050.1.1:
+  pop:
+    religion: tibetan_buddhism
+    estate: peasant
+    size: 1000
+1072.1.1:
+  owner: SONG
+  controller: SONG
+  cores:
+    SONG: yes
+1279.3.19:
+  owner: YUA
+  controller: YUA
+  cores:
+    SONG: no
+    YUA: yes
+    CSH: yes
+1361.1.1:
+  owner: XIA0
+  controller: XIA0
+  cores:
+    XIA0: yes
+1368.1.23:
+  cores:
+    YUA: no
+1371.1.1:
+  owner: MNG
+  controller: MNG
+  cores:
+    MNG: yes
+1644.1.1:
+  owner: CSH
+  controller: CSH
+1645.2.1:
+  owner: QNG
+  controller: QNG
+  cores:
+    QNG: yes
+1912.2.12:
+  owner: CHI
+  controller: CHI
+  cores:
+    QNG: no
+    CSH: no
+    CHI: yes

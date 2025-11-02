@@ -1,0 +1,98 @@
+#imported from EU4 file: history/provinces/1947 - Gingee.txt
+2.1.1:
+  owner: CHOL
+  controller: CHOL
+  cores:
+    CHOL: yes
+  resource: cloth
+  pop:
+    ethnicity: tamil
+    religion: hindu
+    estate: peasant
+    size: 1000
+200.1.1:
+  owner: TNK
+  controller: TNK
+  cores:
+    CHOL: no
+    TNK: yes
+250.1.1:
+  owner: KALA
+  controller: KALA
+  cores:
+    KALA: yes
+600.1.1:
+  owner: PALL
+  controller: PALL
+  cores:
+    KALA: no
+    PALL: yes
+848.1.1:
+  owner: CHOL
+  controller: CHOL
+  cores:
+    PALL: no
+    CHOL: yes
+1279.1.1:
+  owner: TNK
+  controller: TNK
+  cores:
+    TNK: yes
+1322.1.1:
+  owner: CHOL
+  controller: CHOL
+  cores:
+    TNK: no
+    CHOL: yes
+1375.1.1:
+  owner: VIJ
+  controller: VIJ
+  cores:
+    CHOL: no
+    VIJ: yes
+1399.1.1:
+  cores:
+    CARN: yes
+1545.1.1:
+  controller: VIJ
+1565.1.26:
+  owner: GING
+  controller: GING
+1649.1.1:
+  controller: BIJA
+1649.12.1:
+  owner: BIJA
+  cores:
+    BIJA: yes
+1685.1.1:
+  controller: MUG
+1686.1.1:
+  owner: MUG
+  cores:
+    MUG: yes
+1710.1.1:
+  owner: CARN
+  controller: CARN
+  cores:
+    MUG: no
+1740.5.1:
+  controller: MHR
+1743.3.1:
+  controller: CARN
+1751.9.1:
+  controller: GBR
+1754.8.2:
+  controller: CARN
+1801.1.1:
+  owner: GBR
+  controller: GBR
+  cores:
+    GBR: yes
+1930.1.1:
+  cores:
+    INDI: yes
+1947.8.15:
+  owner: INDI
+  controller: INDI
+  cores:
+    GBR: no

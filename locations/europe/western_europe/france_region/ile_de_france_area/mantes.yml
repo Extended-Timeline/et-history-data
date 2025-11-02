@@ -1,0 +1,142 @@
+#imported from EU4 file: history/provinces/4388 - Chartres.txt
+2.1.1:
+  owner: ROM
+  controller: ROM
+  cores:
+    ROM: yes
+  resource: cloth
+  pop:
+    ethnicity: gallian
+    religion: hellenism_religion
+    estate: peasant
+    size: 1000
+260.1.1:
+  cores:
+    GALL: yes
+268.1.1:
+  controller: ROM
+  cores:
+    GALL: no
+395.1.17:
+  owner: ROMW
+  controller: ROMW
+  cores:
+    ROM: no
+    ROMW: yes
+440.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+461.11.1:
+  owner: SOIS
+  controller: SOIS
+  cores:
+    SOIS: yes
+480.6.1:
+  cores:
+    ROMW: no
+486.6.1:
+  owner: FRAN
+  controller: FRAN
+  cores:
+    SOIS: no
+    FRAN: yes
+  pop:
+    ethnicity: french
+    estate: peasant
+    size: 1000
+511.11.27:
+  owner: NEUS
+  controller: NEUS
+  cores:
+    NEUS: yes
+558.12.23:
+  owner: FRAN
+  controller: FRAN
+  cores:
+    FRAN: yes
+561.11.29:
+  owner: NEUS
+  controller: NEUS
+  cores:
+    NEUS: yes
+567.12.1:
+  owner: ORL
+  controller: ORL
+  cores:
+    NEUS: no
+    ORL: yes
+592.3.28:
+  owner: ASTS
+  controller: ASTS
+  cores:
+    ASTS: yes
+595.1.1:
+  owner: ORL
+  controller: ORL
+  cores:
+    ASTS: no
+596.1.1:
+  owner: NEUS
+  controller: NEUS
+  cores:
+    ORL: no
+    NEUS: yes
+613.10.10:
+  owner: FRAN
+  controller: FRAN
+  cores:
+    FRAN: yes
+634.1.1:
+  owner: NEUS
+  controller: NEUS
+679.12.23:
+  owner: FRAN
+  controller: FRAN
+840.6.21:
+  owner: WFRA
+  controller: WFRA
+  cores:
+    FRAN: no
+    WFRA: yes
+867.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+987.7.3:
+  owner: FRA
+  controller: FRA
+  cores:
+    WFRA: no
+    FRA: yes
+1420.1.1:
+  controller: ENG
+1437.1.1:
+  controller: FRA
+1649.3.1:
+  controller: FRA
+1651.4.1:
+  controller: FRA
+1652.10.21:
+  controller: FRA
+1791.6.20:
+  controller: FRA
+1870.9.4:
+  owner: FRA
+  controller: FRA
+  cores:
+    FRA: yes
+1871.1.28:
+  controller: GER
+1871.5.10:
+  controller: FRA
+1920.1.1:
+  resource: cars
+1940.6.14:
+  owner: GER
+  controller: GER
+1944.9.19:
+  owner: FRA
+  controller: FRA

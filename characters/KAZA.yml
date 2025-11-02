@@ -1,0 +1,545 @@
+kaza_koirijaq:
+  1364.1.1:
+    birth: otrar #TODO: Date and location guessed, check if better data is available
+    first_name: koirijaq
+    adm: 45
+    dip: 75
+    mil: 60
+    religion: sunni
+    culture: khazak
+  1422.1.1:
+    death: yes
+kaza_borrak:
+  1392.1.1:
+    birth: otrar #TODO: Date and location guessed, check if better data is available
+    first_name: borrak
+    adm: 60
+    dip: 15
+    mil: 30
+    religion: sunni
+    culture: khazak
+  1440.1.1:
+    death: yes
+kaza_jani_beg_genghisid:
+  1410.1.1:
+    birth: otrar #TODO: Date and location guessed, check if better data is available
+    first_name: jani_beg
+    dynasty: genghisid_dynasty
+    adm: 15
+    dip: 30
+    mil: 75
+    religion: sunni
+    culture: khazak
+  1480.1.1:
+    death: yes
+kaza_burunduq_giray:
+  1450.1.1:
+    birth: otrar #TODO: Date and location guessed, check if better data is available
+    first_name: burunduq
+    dynasty: giray_dynasty
+    adm: 45
+    dip: 30
+    mil: 45
+    religion: sunni
+    culture: khazak
+  1509.1.1:
+    death: yes
+kaza_qasim_genghisid:
+  1470.1.1:
+    birth: otrar #TODO: Date and location guessed, check if better data is available
+    first_name: qasim
+    dynasty: genghisid_dynasty
+    father: kaza_burunduq_giray #TODO: check if this makes sense
+    adm: 30
+    dip: 30
+    mil: 30
+    religion: sunni
+    culture: khazak
+  1518.1.1:
+    death: yes
+kaza_qasim_genghisid_1:
+  1479.1.1:
+    birth: otrar #TODO: Date and location guessed, check if better data is available
+    first_name: qasim
+    dynasty: genghisid_dynasty
+    adm: 30
+    dip: 30
+    mil: 30
+    religion: sunni
+    culture: khazak
+  1518.1.1:
+    death: yes
+kaza_mamash_genghisid:
+  1500.1.1:
+    birth: otrar #TODO: Date and location guessed, check if better data is available
+    first_name: mamash
+    dynasty: genghisid_dynasty
+    father: kaza_qasim_genghisid_1 #TODO: check if this makes sense
+    adm: 60
+    dip: 45
+    mil: 60
+    religion: sunni
+    culture: khazak
+  1523.1.1:
+    death: yes
+kaza_mamash_genghisid_1:
+  1488.1.1:
+    birth: otrar #TODO: Date and location guessed, check if better data is available
+    first_name: mamash
+    dynasty: genghisid_dynasty
+    adm: 60
+    dip: 45
+    mil: 60
+    religion: sunni
+    culture: khazak
+  1523.1.1:
+    death: yes
+kaza_tagir_genghisid:
+  1500.1.1:
+    birth: otrar #TODO: Date and location guessed, check if better data is available
+    first_name: tagir
+    dynasty: genghisid_dynasty
+    father: kaza_mamash_genghisid_1 #TODO: check if this makes sense
+    adm: 60
+    dip: 60
+    mil: 45
+    religion: sunni
+    culture: khazak
+  1530.1.1:
+    death: yes
+kaza_tagir_genghisid_1:
+  1493.1.1:
+    birth: otrar #TODO: Date and location guessed, check if better data is available
+    first_name: tagir
+    dynasty: genghisid_dynasty
+    adm: 60
+    dip: 60
+    mil: 45
+    religion: sunni
+    culture: khazak
+  1530.1.1:
+    death: yes
+kaza_tugum_genghisid:
+  1510.1.1:
+    birth: otrar #TODO: Date and location guessed, check if better data is available
+    first_name: tugum
+    dynasty: genghisid_dynasty
+    father: kaza_tagir_genghisid_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 30
+    mil: 30
+    religion: sunni
+    culture: khazak
+  1538.1.1:
+    death: yes
+kaza_tugum_genghisid_1:
+  1500.1.1:
+    birth: otrar #TODO: Date and location guessed, check if better data is available
+    first_name: tugum
+    dynasty: genghisid_dynasty
+    adm: 15
+    dip: 30
+    mil: 30
+    religion: sunni
+    culture: khazak
+  1538.1.1:
+    death: yes
+kaza_aq_nazar_genghisid:
+  1520.1.1:
+    birth: otrar #TODO: Date and location guessed, check if better data is available
+    first_name: aq_nazar
+    dynasty: genghisid_dynasty
+    father: kaza_tugum_genghisid_1 #TODO: check if this makes sense
+    adm: 60
+    dip: 75
+    mil: 60
+    religion: sunni
+    culture: khazak
+  1580.1.1:
+    death: yes
+kaza_aq_nazar_genghisid_1:
+  1508.1.1:
+    birth: otrar #TODO: Date and location guessed, check if better data is available
+    first_name: aq_nazar
+    dynasty: genghisid_dynasty
+    adm: 60
+    dip: 75
+    mil: 60
+    religion: sunni
+    culture: khazak
+  1580.1.1:
+    death: yes
+kaza_shigay_genghisid:
+  1550.1.1:
+    birth: otrar #TODO: Date and location guessed, check if better data is available
+    first_name: shigay
+    dynasty: genghisid_dynasty
+    adm: 15
+    dip: 30
+    mil: 15
+    religion: sunni
+    culture: khazak
+  1582.1.1:
+    death: yes
+kaza_tawakkul_genghisid:
+  1580.1.1:
+    birth: otrar #TODO: Date and location guessed, check if better data is available
+    first_name: tawakkul
+    dynasty: genghisid_dynasty
+    father: kaza_shigay_genghisid #TODO: check if this makes sense
+    adm: 60
+    dip: 60
+    mil: 75
+    religion: sunni
+    culture: khazak
+  1598.1.1:
+    death: yes
+kaza_tawakkul_genghisid_1:
+  1552.1.1:
+    birth: otrar #TODO: Date and location guessed, check if better data is available
+    first_name: tawakkul
+    dynasty: genghisid_dynasty
+    adm: 60
+    dip: 60
+    mil: 75
+    religion: sunni
+    culture: khazak
+  1598.1.1:
+    death: yes
+kaza_ishim_genghisid:
+  1590.1.1:
+    birth: otrar #TODO: Date and location guessed, check if better data is available
+    first_name: ishim
+    dynasty: genghisid_dynasty
+    father: kaza_tawakkul_genghisid_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: sunni
+    culture: khazak
+  1628.1.1:
+    death: yes
+kaza_ishim_genghisid_1:
+  1568.1.1:
+    birth: otrar #TODO: Date and location guessed, check if better data is available
+    first_name: ishim
+    dynasty: genghisid_dynasty
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: sunni
+    culture: khazak
+  1628.1.1:
+    death: yes
+kaza_abaigirim_genghisid:
+  1590.1.1:
+    birth: otrar #TODO: Date and location guessed, check if better data is available
+    first_name: abaigirim
+    dynasty: genghisid_dynasty
+    father: kaza_ishim_genghisid_1 #TODO: check if this makes sense
+    adm: 60
+    dip: 30
+    mil: 45
+    religion: sunni
+    culture: khazak
+  1636.1.1:
+    death: yes
+kaza_abaigirim_genghisid_1:
+  1598.1.1:
+    birth: otrar #TODO: Date and location guessed, check if better data is available
+    first_name: abaigirim
+    dynasty: genghisid_dynasty
+    adm: 60
+    dip: 30
+    mil: 45
+    religion: sunni
+    culture: khazak
+  1636.1.1:
+    death: yes
+kaza_yahangir_genghisid:
+  1620.1.1:
+    birth: otrar #TODO: Date and location guessed, check if better data is available
+    first_name: yahangir
+    dynasty: genghisid_dynasty
+    father: kaza_abaigirim_genghisid_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 30
+    mil: 45
+    religion: sunni
+    culture: khazak
+  1652.1.1:
+    death: yes
+kaza_yahangir_genghisid_1:
+  1606.1.1:
+    birth: otrar #TODO: Date and location guessed, check if better data is available
+    first_name: yahangir
+    dynasty: genghisid_dynasty
+    adm: 30
+    dip: 30
+    mil: 45
+    religion: sunni
+    culture: khazak
+  1652.1.1:
+    death: yes
+kaza_bogokht_the_kalmyk_genghisid:
+  1640.1.1:
+    birth: otrar #TODO: Date and location guessed, check if better data is available
+    first_name: bogokht_the_kalmyk
+    dynasty: genghisid_dynasty
+    father: kaza_yahangir_genghisid_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 15
+    mil: 15
+    religion: sunni
+    culture: khazak
+  1680.1.1:
+    death: yes
+kaza_bogokht_the_kalmyk_genghisid_1:
+  1622.1.1:
+    birth: otrar #TODO: Date and location guessed, check if better data is available
+    first_name: bogokht_the_kalmyk
+    dynasty: genghisid_dynasty
+    adm: 15
+    dip: 15
+    mil: 15
+    religion: sunni
+    culture: khazak
+  1680.1.1:
+    death: yes
+kaza_tauka_genghisid:
+  1660.1.1:
+    birth: otrar #TODO: Date and location guessed, check if better data is available
+    first_name: tauka
+    dynasty: genghisid_dynasty
+    father: kaza_bogokht_the_kalmyk_genghisid_1 #TODO: check if this makes sense
+    adm: 60
+    dip: 45
+    mil: 45
+    religion: sunni
+    culture: khazak
+  1718.1.1:
+    death: yes
+kaza_tauka_genghisid_1:
+  1650.1.1:
+    birth: otrar #TODO: Date and location guessed, check if better data is available
+    first_name: tauka
+    dynasty: genghisid_dynasty
+    adm: 60
+    dip: 45
+    mil: 45
+    religion: sunni
+    culture: khazak
+  1718.1.1:
+    death: yes
+kaza_bular_genghisid:
+  1670.1.1:
+    birth: otrar #TODO: Date and location guessed, check if better data is available
+    first_name: bular
+    dynasty: genghisid_dynasty
+    father: kaza_tauka_genghisid_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 15
+    mil: 15
+    religion: sunni
+    culture: khazak
+  1731.1.1:
+    death: yes
+kaza_bular_genghisid_1:
+  1688.1.1:
+    birth: otrar #TODO: Date and location guessed, check if better data is available
+    first_name: bular
+    dynasty: genghisid_dynasty
+    adm: 15
+    dip: 15
+    mil: 15
+    religion: sunni
+    culture: khazak
+  1731.1.1:
+    death: yes
+kaza_shemeke_genghisid:
+  1700.1.1:
+    birth: otrar #TODO: Date and location guessed, check if better data is available
+    first_name: shemeke
+    dynasty: genghisid_dynasty
+    father: kaza_bular_genghisid_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 30
+    mil: 30
+    religion: sunni
+    culture: khazak
+  1734.1.1:
+    death: yes
+kaza_shemeke_genghisid_1:
+  1701.1.1:
+    birth: otrar #TODO: Date and location guessed, check if better data is available
+    first_name: shemeke
+    dynasty: genghisid_dynasty
+    adm: 15
+    dip: 30
+    mil: 30
+    religion: sunni
+    culture: khazak
+  1734.1.1:
+    death: yes
+kaza_jolbars_genghisid:
+  1720.1.1:
+    birth: otrar #TODO: Date and location guessed, check if better data is available
+    first_name: jolbars
+    dynasty: genghisid_dynasty
+    father: kaza_shemeke_genghisid_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 15
+    mil: 30
+    religion: sunni
+    culture: khazak
+  1742.1.1:
+    death: yes
+kaza_jolbars_genghisid_1:
+  1704.1.1:
+    birth: otrar #TODO: Date and location guessed, check if better data is available
+    first_name: jolbars
+    dynasty: genghisid_dynasty
+    adm: 15
+    dip: 15
+    mil: 30
+    religion: sunni
+    culture: khazak
+  1742.1.1:
+    death: yes
+kaza_abul_mambet_genghisid:
+  1720.1.1:
+    birth: otrar #TODO: Date and location guessed, check if better data is available
+    first_name: abul_mambet
+    dynasty: genghisid_dynasty
+    father: kaza_jolbars_genghisid_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 45
+    mil: 30
+    religion: sunni
+    culture: khazak
+  1748.1.1:
+    death: yes
+kaza_abul_mambet_genghisid_1:
+  1712.1.1:
+    birth: otrar #TODO: Date and location guessed, check if better data is available
+    first_name: abul_mambet
+    dynasty: genghisid_dynasty
+    adm: 15
+    dip: 45
+    mil: 30
+    religion: sunni
+    culture: khazak
+  1748.1.1:
+    death: yes
+kaza_abilay_genghisid:
+  1730.1.1:
+    birth: otrar #TODO: Date and location guessed, check if better data is available
+    first_name: abilay
+    dynasty: genghisid_dynasty
+    father: kaza_abul_mambet_genghisid_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 30
+    mil: 15
+    religion: sunni
+    culture: khazak
+  1781.1.1:
+    death: yes
+kaza_abilay_genghisid_1:
+  1718.1.1:
+    birth: otrar #TODO: Date and location guessed, check if better data is available
+    first_name: abilay
+    dynasty: genghisid_dynasty
+    adm: 15
+    dip: 30
+    mil: 15
+    religion: sunni
+    culture: khazak
+  1781.1.1:
+    death: yes
+kaza_abdullah_genghisid:
+  1740.1.1:
+    birth: otrar #TODO: Date and location guessed, check if better data is available
+    first_name: abdullah
+    dynasty: genghisid_dynasty
+    father: kaza_abilay_genghisid_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 15
+    mil: 15
+    religion: sunni
+    culture: khazak
+  1782.1.1:
+    death: yes
+kaza_abdullah_genghisid_1:
+  1751.1.1:
+    birth: otrar #TODO: Date and location guessed, check if better data is available
+    first_name: abdullah
+    dynasty: genghisid_dynasty
+    adm: 15
+    dip: 15
+    mil: 15
+    religion: sunni
+    culture: khazak
+  1782.1.1:
+    death: yes
+kaza_wali_genghisid:
+  1781.1.1:
+    birth: otrar #TODO: Date and location guessed, check if better data is available
+    first_name: wali
+    dynasty: genghisid_dynasty
+    father: kaza_abdullah_genghisid_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 15
+    mil: 15
+    religion: sunni
+    culture: khazak
+  1819.1.1:
+    death: yes
+kaza_wali_genghisid_1:
+  1752.1.1:
+    birth: otrar #TODO: Date and location guessed, check if better data is available
+    first_name: wali
+    dynasty: genghisid_dynasty
+    adm: 15
+    dip: 15
+    mil: 15
+    religion: sunni
+    culture: khazak
+  1819.1.1:
+    death: yes
+kaza_gubaidolla_genghisid:
+  1780.1.1:
+    birth: otrar #TODO: Date and location guessed, check if better data is available
+    first_name: gubaidolla
+    dynasty: genghisid_dynasty
+    father: kaza_wali_genghisid_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 30
+    mil: 15
+    religion: sunni
+    culture: khazak
+  1830.1.1:
+    death: yes
+kaza_gubaidolla_genghisid_1:
+  1789.1.1:
+    birth: otrar #TODO: Date and location guessed, check if better data is available
+    first_name: gubaidolla
+    dynasty: genghisid_dynasty
+    adm: 45
+    dip: 30
+    mil: 15
+    religion: sunni
+    culture: khazak
+  1823.1.1:
+    death: yes
+kaza_zhangir_genghisid:
+  1793.1.1:
+    birth: otrar #TODO: Date and location guessed, check if better data is available
+    first_name: zhangir
+    dynasty: genghisid_dynasty
+    adm: 60
+    dip: 45
+    mil: 30
+    religion: sunni
+    culture: khazak
+  1847.1.1:
+    death: yes

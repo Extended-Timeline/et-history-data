@@ -1,0 +1,153 @@
+#imported from EU4 file: history/provinces/578 - Khyber.txt
+2.1.1:
+  owner: GAND
+  controller: GAND
+  cores:
+    GAND: yes
+  resource: livestock
+  pop:
+    ethnicity: afghan_culture
+    religion: hindu
+    estate: peasant
+    size: 1000
+10.1.1:
+  owner: IPAR
+  controller: IPAR
+  cores:
+    IPAR: yes
+76.1.1:
+  owner: KUSH
+  controller: KUSH
+  cores:
+    IPAR: no
+    KUSH: yes
+230.1.1:
+  owner: KSAS
+  controller: KSAS
+  cores:
+    KUSH: no
+    KSAS: yes
+350.1.1:
+  owner: KIDA
+  controller: KIDA
+  cores:
+    KSAS: no
+    KIDA: yes
+430.1.1:
+  owner: KAPI
+  controller: KAPI
+  cores:
+    KIDA: no
+    KAPI: yes
+665.1.1:
+  owner: SHI
+  controller: SHI
+  cores:
+    KAPI: no
+    SHI: yes
+870.1.1:
+  owner: SIST
+  controller: SIST
+  cores:
+    SHI: no
+    SIST: yes
+900.1.1:
+  owner: BUKH
+  controller: BUKH
+  cores:
+    SIST: no
+    BUKH: yes
+920.1.1:
+  owner: SHI
+  controller: SHI
+  cores:
+    BUKH: no
+    SHI: yes
+977.1.1:
+  owner: GHAZ
+  controller: GHAZ
+  cores:
+    GHAZ: yes
+1002.1.1:
+  cores:
+    SHI: no
+1175.1.1:
+  owner: GHOR
+  controller: GHOR
+  cores:
+    GHAZ: no
+    GHOR: yes
+1210.1.1:
+  owner: MULT
+  controller: MULT
+  cores:
+    GHOR: no
+    MULT: yes
+1228.1.1:
+  owner: DLH
+  controller: DLH
+  cores:
+    MULT: no
+    DLH: yes
+1350.1.1:
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+1380.1.1:
+  owner: TIM
+  controller: TIM
+  cores:
+    DLH: no
+    TIM: yes
+1443.1.1:
+  owner: AFGH
+  controller: AFGH
+  cores:
+    AFGH: yes
+1449.2.1:
+  owner: KHOR
+  controller: KHOR
+  cores:
+    TIM: no
+1507.7.1:
+  owner: TIM
+  controller: TIM
+  cores:
+    TIM: yes
+1526.4.21:
+  owner: MUG
+  controller: MUG
+  cores:
+    TIM: no
+    MUG: yes
+1737.1.1:
+  controller: IRA
+1739.5.1:
+  owner: IRA
+1747.10.1:
+  owner: AFGH
+  controller: AFGH
+  cores:
+    MUG: no
+    AFGH: yes
+1834.1.1:
+  owner: PUN
+  controller: PUN
+  cores:
+    AFGH: no
+    PUN: yes
+1849.1.1:
+  owner: GBR
+  controller: GBR
+  cores:
+    GBR: yes
+1930.12.29:
+  cores:
+    PUN: no
+    PAKI: yes
+1947.8.14:
+  owner: PAKI
+  controller: PAKI
+  cores:
+    GBR: no

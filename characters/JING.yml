@@ -1,0 +1,37 @@
+jing_biao_liu:
+  142.1.1:
+    birth: changsha #TODO: Date and location guessed, check if better data is available
+    first_name: biao
+    dynasty: liu_dynasty
+    adm: 60
+    dip: 60
+    mil: 60
+    religion: sanjiao
+    culture: xinxiang_culture
+  208.1.1:
+    death: yes
+jing_cong_liu:
+  170.1.1:
+    birth: changsha #TODO: Date and location guessed, check if better data is available
+    first_name: cong
+    dynasty: liu_dynasty
+    father: jing_biao_liu #TODO: check if this makes sense
+    adm: 0
+    dip: 30
+    mil: 0
+    religion: sanjiao
+    culture: xinxiang_culture
+  220.1.1:
+    death: yes
+jing_conghui_liu:
+  170.1.1:
+    birth: changsha #TODO: Date and location guessed, check if better data is available
+    first_name: conghui
+    dynasty: liu_dynasty
+    adm: 0
+    dip: 30
+    mil: 0
+    religion: sanjiao
+    culture: xinxiang_culture
+  3000.1.1:
+    death: yes

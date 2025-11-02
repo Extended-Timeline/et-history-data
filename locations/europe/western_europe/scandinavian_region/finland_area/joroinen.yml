@@ -1,0 +1,65 @@
+#imported from EU4 file: history/provinces/31 - Savolaks.txt
+2.1.1:
+  pop:
+    ethnicity: finnish
+    religion: muinaisusko
+    estate: peasant
+    size: 1000
+750.1.1:
+  owner: KAKI
+  controller: KAKI
+  cores:
+    KAKI: yes
+  resource: fur
+1280.1.1:
+  owner: SWE
+  controller: SWE
+  cores:
+    KAKI: no
+    SWE: yes
+    FIN: yes
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+1497.3.13:
+  controller: DAN
+1497.10.6:
+  controller: SWE
+1501.8.1:
+  controller: DAN
+1502.9.10:
+  controller: SWE
+1527.6.1:
+  pop:
+    religion: lutheran
+    estate: peasant
+    size: 1000
+1598.8.1:
+  controller: PLC
+1599.8.16:
+  controller: SWE
+1600.1.1:
+  resource: naval_supplies
+1714.7.29:
+  controller: RUS
+1721.8.30:
+  controller: SWE
+1742.9.15:
+  controller: RUS
+1743.8.7:
+  controller: SWE
+1808.2.21:
+  controller: RUS
+1809.9.17:
+  owner: RUS
+  cores:
+    SWE: no
+    RUS: yes
+1917.12.6:
+  owner: FIN
+  controller: FIN
+  cores:
+    RUS: no
+1930.1.1:
+  resource: paper

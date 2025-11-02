@@ -1,0 +1,80 @@
+#imported from EU4 file: history/provinces/4244 - Trubchevsk.txt
+2.1.1:
+  pop:
+    ethnicity: ruthenian
+    religion: slavic
+    estate: peasant
+    size: 1000
+550.1.1:
+  owner: SEVE
+  controller: SEVE
+  cores:
+    SEVE: yes
+  resource: grain
+850.1.1:
+  cores:
+    UKR: yes
+980.1.1:
+  owner: KIEV
+  controller: KIEV
+  cores:
+    SEVE: no
+    KIEV: yes
+1000.1.1:
+  cores:
+    CHR: yes
+1020.1.1:
+  pop:
+    religion: orthodox
+    estate: peasant
+    size: 1000
+1054.2.20:
+  owner: CHR
+  controller: CHR
+  cores:
+    KIEV: no
+    CHR: yes
+1310.1.1:
+  owner: SMO
+  controller: SMO
+  cores:
+    SMO: yes
+1356.1.1:
+  owner: LIT
+  controller: LIT
+  cores:
+    SMO: no
+    LIT: yes
+1503.4.1:
+  owner: RUS
+  controller: RUS
+  cores:
+    LIT: no
+    RUS: yes
+1611.1.1:
+  controller: PLC
+1618.12.11:
+  controller: RUS
+1840.1.1:
+  cores:
+    UKR: no
+  pop:
+    ethnicity: muscovite
+    estate: peasant
+    size: 1000
+1922.12.30:
+  owner: SOVI
+  controller: SOVI
+  cores:
+    RUS: no
+    SOVI: yes
+1941.9.19:
+  controller: GER
+1943.11.6:
+  controller: SOVI
+1991.12.25:
+  owner: RUS
+  controller: RUS
+  cores:
+    SOVI: no
+    RUS: yes

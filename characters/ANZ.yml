@@ -1,0 +1,25 @@
+anz_abdullah_dhana_maslam:
+  1414.1.1:
+    birth: dumat_al_jandal #TODO: Date and location guessed, check if better data is available
+    first_name: abdullah
+    dynasty: dhana_maslam_dynasty
+    adm: 30
+    dip: 30
+    mil: 30
+    religion: sunni
+    culture: najdi_culture
+  3000.1.1:
+    death: yes
+anz_muhammed_i_dhana_maslam:
+  1444.1.1:
+    birth: dumat_al_jandal #TODO: Date and location guessed, check if better data is available
+    first_name: muhammed
+    dynasty: dhana_maslam_dynasty
+    father: anz_abdullah_dhana_maslam #TODO: check if this makes sense
+    adm: 45
+    dip: 30
+    mil: 45
+    religion: sunni
+    culture: najdi_culture
+  1505.1.1:
+    death: yes

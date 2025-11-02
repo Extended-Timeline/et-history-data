@@ -1,0 +1,104 @@
+#imported from EU4 file: history/provinces/4545 - Sluck.txt
+2.1.1:
+  pop:
+    ethnicity: polatskian_culture
+    religion: slavic
+    estate: peasant
+    size: 1000
+550.1.1:
+  owner: DREV
+  controller: DREV
+  cores:
+    DREV: yes
+  resource: cloth
+860.1.1:
+  owner: KIEV
+  controller: KIEV
+  cores:
+    DREV: no
+    KIEV: yes
+    UKR: yes
+1000.1.1:
+  pop:
+    religion: orthodox
+    estate: peasant
+    size: 1000
+1054.2.20:
+  owner: KIE
+  controller: KIE
+  cores:
+    KIEV: no
+    KIE: yes
+1162.1.1:
+  owner: TUV
+  controller: TUV
+  cores:
+    KIE: no
+    TUV: yes
+1230.1.1:
+  owner: HAL
+  controller: HAL
+  cores:
+    HAL: yes
+1240.1.1:
+  owner: TUV
+  controller: TUV
+  cores:
+    TUV: yes
+1320.1.1:
+  owner: LIT
+  controller: LIT
+  cores:
+    LIT: yes
+1349.1.1:
+  cores:
+    HAL: no
+1350.1.1:
+  pop:
+    religion: orthodox
+    estate: peasant
+    size: 1000
+1569.7.1:
+  owner: PLC
+  controller: PLC
+  cores:
+    PLC: yes
+1648.1.1:
+  cores:
+    ZAZ: yes
+1654.1.1:
+  controller: PLC
+  cores:
+    ZAZ: no
+1655.10.5:
+  controller: RUS
+1656.1.1:
+  controller: PLC
+1793.1.23:
+  owner: RUS
+  controller: RUS
+  cores:
+    RUS: yes
+1918.3.25:
+  owner: BELA
+  controller: BELA
+  cores:
+    UKR: no
+    LIT: no
+    BELA: yes
+1922.12.30:
+  owner: SOVI
+  controller: SOVI
+  cores:
+    RUS: no
+    SOVI: yes
+1941.6.26:
+  controller: GER
+1944.6.30:
+  controller: SOVI
+1990.7.27:
+  owner: BELA
+  controller: BELA
+  cores:
+    RUS: no
+    SOVI: no

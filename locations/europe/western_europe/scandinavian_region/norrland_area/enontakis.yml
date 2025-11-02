@@ -1,0 +1,43 @@
+#imported from EU4 file: history/provinces/4152 - Aanaar.txt
+2.1.1:
+  resource: fur
+  pop:
+    ethnicity: sapmi
+    religion: muinaisusko
+    estate: peasant
+    size: 1000
+750.1.1:
+  owner: SMI
+  controller: SMI
+  cores:
+    SMI: yes
+  resource: fur
+1640.1.1:
+  owner: SWE
+  controller: SWE
+  cores:
+    SWE: yes
+    FIN: yes
+1641.1.1:
+  pop:
+    religion: lutheran
+    estate: peasant
+    size: 1000
+1650.1.1:
+  resource: naval_supplies
+1742.11.5:
+  controller: RUS
+1743.8.7:
+  controller: SWE
+1808.9.14:
+  controller: RUS
+1809.9.17:
+  owner: RUS
+  cores:
+    SWE: no
+    RUS: yes
+1917.12.6:
+  owner: FIN
+  controller: FIN
+  cores:
+    RUS: no

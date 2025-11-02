@@ -1,0 +1,75 @@
+#imported from EU4 file: history/provinces/2396 - Mong Kawng.txt
+2.1.1:
+  owner: PONG
+  controller: PONG
+  cores:
+    PONG: yes
+  resource: gems
+  pop:
+    ethnicity: tai_lu_culture
+    religion: satsana_phi
+    estate: peasant
+    size: 1000
+820.1.1:
+  owner: NANZ
+  controller: NANZ
+  cores:
+    NANZ: yes
+937.1.1:
+  owner: CDL
+  controller: CDL
+  cores:
+    NANZ: no
+    CDL: yes
+950.1.1:
+  pop:
+    ethnicity: kado_culture
+    estate: peasant
+    size: 1000
+1120.1.1:
+  pop:
+    religion: theravada
+    estate: peasant
+    size: 1000
+1215.1.1:
+  owner: MKA
+  controller: MKA
+  cores:
+    CDL: no
+    MKA: yes
+1502.1.1:
+  owner: SHA
+  controller: SHA
+  cores:
+    SHA: yes
+1557.3.11:
+  owner: MKA
+  controller: MKA
+  cores:
+    SHA: no
+    MKA: yes
+1796.1.1:
+  owner: BURM
+  controller: BURM
+  cores:
+    BURM: yes
+1885.11.29:
+  owner: GBR
+  controller: GBR
+  cores:
+    GBR: yes
+1942.5.1:
+  controller: JAP
+1945.3.1:
+  controller: GBR
+1948.1.4:
+  owner: BURM
+  controller: BURM
+  cores:
+    GBR: no
+1989.1.1:
+  owner: MYAN
+  controller: MYAN
+  cores:
+    BURM: no
+    MYAN: yes

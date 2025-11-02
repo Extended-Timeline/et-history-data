@@ -1,0 +1,36 @@
+#imported from EU4 file: history/provinces/2648 - Yopitzinco.txt
+2.1.1:
+  owner: TLA
+  controller: TLA
+  cores:
+    TLA: yes
+  resource: fish
+  pop:
+    ethnicity: mephaa_culture
+    religion: nahuatl
+    estate: peasant
+    size: 1000
+1522.1.1:
+  owner: SPA
+  controller: SPA
+  cores:
+    SPA: yes
+  pop:
+    ethnicity: castilian
+    religion: catholic
+    estate: peasant
+    size: 1000
+1770.1.1:
+  pop:
+    ethnicity: mexican
+    estate: peasant
+    size: 1000
+1810.9.16:
+  owner: MEX
+  controller: MEX
+  cores:
+    MEX: yes
+1821.9.27:
+  controller: MEX
+  cores:
+    SPA: no

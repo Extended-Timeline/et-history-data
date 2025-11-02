@@ -1,0 +1,138 @@
+#imported from EU4 file: history/provinces/2068 - Siwi.txt
+2.1.1:
+  owner: IPAR
+  controller: IPAR
+  cores:
+    IPAR: yes
+    BALU: yes
+  resource: wool
+  pop:
+    ethnicity: baloch_culture
+    religion: hindu
+    estate: peasant
+    size: 1000
+46.1.1:
+  owner: BALU
+  controller: BALU
+  cores:
+    IPAR: no
+76.1.1:
+  owner: KUSH
+  controller: KUSH
+  cores:
+    BALU: no
+    KUSH: yes
+270.1.1:
+  owner: ABHI
+  controller: ABHI
+  cores:
+    KUSH: no
+    ABHI: yes
+460.1.1:
+  owner: KAPI
+  controller: KAPI
+  cores:
+    ABHI: no
+    KAPI: yes
+510.1.1:
+  owner: SND
+  controller: SND
+  cores:
+    KAPI: no
+    SND: yes
+711.1.1:
+  owner: UMAY
+  controller: UMAY
+  cores:
+    SND: no
+    UMAY: yes
+750.8.6:
+  owner: ABBA
+  controller: ABBA
+  cores:
+    UMAY: no
+    ABBA: yes
+800.1.1:
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+841.1.1:
+  owner: SND
+  controller: SND
+  cores:
+    ABBA: no
+    SND: yes
+875.1.1:
+  owner: SIST
+  controller: SIST
+  cores:
+    SND: no
+    SIST: yes
+910.1.1:
+  owner: SND
+  controller: SND
+  cores:
+    SIST: no
+    SND: yes
+1002.1.1:
+  owner: GHAZ
+  controller: GHAZ
+  cores:
+    SND: no
+    GHAZ: yes
+1175.1.1:
+  owner: GHOR
+  controller: GHOR
+  cores:
+    GHAZ: no
+    GHOR: yes
+1206.1.1:
+  owner: SND
+  controller: SND
+  cores:
+    GHOR: no
+    SND: yes
+1231.1.1:
+  owner: MGE
+  controller: MGE
+  cores:
+    SND: no
+    MGE: yes
+    BALU: yes
+1260.1.1:
+  owner: ILK
+  controller: ILK
+  cores:
+    MGE: no
+    ILK: yes
+1335.1.1:
+  owner: BALU
+  controller: BALU
+  cores:
+    ILK: no
+1595.1.1:
+  owner: MUG
+  controller: MUG
+  cores:
+    MUG: yes
+1747.10.1:
+  owner: AFGH
+  controller: AFGH
+  cores:
+    MUG: no
+    AFGH: yes
+1876.1.1:
+  owner: GBR
+  controller: GBR
+  cores:
+    AFGH: no
+    GBR: yes
+1930.12.29:
+  cores:
+    PAKI: yes
+1947.8.14:
+  owner: PAKI
+  controller: PAKI
+  cores:
+    GBR: no

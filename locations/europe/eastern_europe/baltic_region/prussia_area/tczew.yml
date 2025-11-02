@@ -1,0 +1,171 @@
+#imported from EU4 file: history/provinces/43 - Danzig.txt
+2.1.1:
+  owner: GOTH
+  controller: GOTH
+  cores:
+    GOTH: yes
+  resource: grain
+  pop:
+    ethnicity: gothic
+    religion: germanic
+    estate: peasant
+    size: 1000
+140.1.1:
+  owner: LEMO
+  controller: LEMO
+  cores:
+    GOTH: no
+    LEMO: yes
+  pop:
+    ethnicity: western_pomeranian
+    estate: peasant
+    size: 1000
+500.1.1:
+  owner: POME
+  controller: POME
+  cores:
+    LEMO: no
+    POME: yes
+  pop:
+    ethnicity: kashubian
+    religion: romuva
+    estate: peasant
+    size: 1000
+880.1.1:
+  pop:
+    religion: slavic
+    estate: peasant
+    size: 1000
+965.1.1:
+  owner: POL
+  controller: POL
+  cores:
+    POL: yes
+1026.1.1:
+  owner: POME
+  controller: POME
+  cores:
+    POL: no
+1047.1.1:
+  owner: POL
+  controller: POL
+  cores:
+    POL: yes
+1050.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+1060.1.1:
+  owner: POME
+  controller: POME
+  cores:
+    POL: no
+1294.12.29:
+  owner: POL
+  controller: POL
+  cores:
+    POL: yes
+1308.11.13:
+  owner: TEU
+  controller: TEU
+  cores:
+    TEU: yes
+1310.1.1:
+  cores:
+    POL: no
+  pop:
+    ethnicity: prussian
+    estate: peasant
+    size: 1000
+1454.2.10:
+  cores:
+    POL: yes
+1466.10.19:
+  owner: POL
+  controller: POL
+  cores:
+    TEU: no
+    PRU: yes
+1550.1.1:
+  pop:
+    religion: lutheran
+    estate: peasant
+    size: 1000
+1569.7.1:
+  owner: PLC
+  controller: PLC
+  cores:
+    PLC: yes
+1575.12.12:
+  owner: LUB
+  controller: LUB
+  cores:
+    LUB: yes
+1577.12.16:
+  owner: PLC
+  controller: PLC
+1589.1.1:
+  controller: PLC
+1669.1.1:
+  cores:
+    LUB: no
+1704.1.1:
+  controller: SWE
+1706.9.24:
+  controller: PLC
+1734.6.30:
+  controller: RUS
+1735.10.3:
+  controller: PLC
+1793.9.25:
+  owner: PRU
+  controller: PRU
+1807.5.24:
+  controller: FRA
+1807.7.9:
+  owner: DANZ
+  controller: DANZ
+  cores:
+    PRU: no
+    DANZ: yes
+1814.1.2:
+  owner: PRU
+  controller: PRU
+  cores:
+    PRU: yes
+1871.1.18:
+  owner: GER
+  controller: GER
+  cores:
+    PRU: no
+    GER: yes
+1919.6.28:
+  owner: DANZ
+  controller: DANZ
+  cores:
+    DANZ: yes
+    POL: yes
+1939.9.2:
+  owner: GER
+  controller: GER
+  cores:
+    GER: yes
+1940.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+1945.3.30:
+  controller: SOVI
+1945.5.8:
+  owner: POL
+  controller: POL
+  cores:
+    DANZ: no
+    GER: no
+    POL: yes
+  pop:
+    ethnicity: lesser_polish
+    estate: peasant
+    size: 1000

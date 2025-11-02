@@ -1,0 +1,54 @@
+#imported from EU4 file: history/provinces/4116 - Odayev.txt
+2.1.1:
+  pop:
+    ethnicity: muscovite
+    religion: slavic
+    estate: peasant
+    size: 1000
+550.1.1:
+  owner: SEVE
+  controller: SEVE
+  cores:
+    SEVE: yes
+  resource: grain
+980.1.1:
+  owner: KIEV
+  controller: KIEV
+  cores:
+    SEVE: no
+    KIEV: yes
+1050.1.1:
+  pop:
+    religion: orthodox
+    estate: peasant
+    size: 1000
+1054.2.20:
+  owner: CHR
+  controller: CHR
+  cores:
+    KIEV: no
+    CHR: yes
+1097.1.1:
+  owner: OKA0
+  controller: OKA0
+  cores:
+    CHR: no
+    OKA0: yes
+1494.1.1:
+  owner: RUS
+  controller: RUS
+  cores:
+    OKA0: no
+    RUS: yes
+1922.12.30:
+  owner: SOVI
+  controller: SOVI
+  cores:
+    RUS: no
+    SOVI: yes
+1991.12.25:
+  owner: RUS
+  controller: RUS
+  cores:
+    SOVI: no
+    RUS: yes

@@ -1,0 +1,113 @@
+#imported from EU4 file: history/provinces/1775 - Holstein.txt
+2.1.1:
+  owner: ANGL
+  controller: ANGL
+  cores:
+    ANGL: yes
+  resource: livestock
+  pop:
+    ethnicity: lower_saxon
+    religion: germanic
+    estate: peasant
+    size: 1000
+700.1.1:
+  owner: SAX
+  controller: SAX
+  cores:
+    ANGL: no
+    SAX: yes
+804.1.1:
+  owner: OBOT
+  controller: OBOT
+  cores:
+    OBOT: yes
+900.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+911.11.10:
+  owner: SAX
+  controller: SAX
+  cores:
+    OBOT: no
+    SAX: yes
+1111.1.1:
+  owner: HOLS
+  controller: HOLS
+  cores:
+    SAX: no
+    HOLS: yes
+1201.1.1:
+  owner: DAN
+  controller: DAN
+  cores:
+    DAN: yes
+1227.1.1:
+  owner: HOLS
+  controller: HOLS
+  cores:
+    DAN: no
+1460.3.5:
+  owner: DAN
+  controller: DAN
+  cores:
+    DAN: yes
+1529.1.1:
+  pop:
+    religion: lutheran
+    estate: peasant
+    size: 1000
+1544.1.1:
+  owner: HOLS
+  controller: HOLS
+1627.5.1:
+  controller: HAB
+1629.5.22:
+  controller: HOLS
+1773.1.1:
+  owner: DAN
+  controller: DAN
+1810.12.13:
+  owner: FRA
+  controller: FRA
+  cores:
+    FRA: yes
+1814.4.11:
+  owner: DAN
+  controller: DAN
+  cores:
+    FRA: no
+1852.5.8:
+  owner: HOLS
+  controller: HOLS
+  cores:
+    HOLS: yes
+1864.10.30:
+  owner: HAB
+  controller: HAB
+  cores:
+    HAB: yes
+1866.8.23:
+  owner: PRU
+  controller: PRU
+  cores:
+    HAB: no
+    PRU: yes
+1871.1.18:
+  owner: GER
+  controller: GER
+  cores:
+    PRU: no
+    HOLS: no
+    GER: yes
+1945.5.8:
+  owner: WGER
+  controller: WGER
+  cores:
+    WGER: yes
+1990.10.3:
+  owner: GER
+  controller: GER
+  cores:
+    WGER: no

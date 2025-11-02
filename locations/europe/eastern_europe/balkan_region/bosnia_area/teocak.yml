@@ -1,0 +1,186 @@
+#imported from EU4 file: history/provinces/4755 - Podrinje.txt
+2.1.1:
+  owner: ROM
+  controller: ROM
+  cores:
+    ROM: yes
+  resource: salt
+  pop:
+    ethnicity: illyrian
+    religion: druidism
+    estate: peasant
+    size: 1000
+395.1.17:
+  owner: ROMW
+  controller: ROMW
+  cores:
+    ROM: no
+    ROMW: yes
+450.1.1:
+  pop:
+    religion: arianism
+    estate: peasant
+    size: 1000
+455.1.1:
+  owner: OSTR
+  controller: OSTR
+  cores:
+    ROMW: no
+    OSTR: yes
+  pop:
+    ethnicity: gothic
+    estate: peasant
+    size: 1000
+540.1.1:
+  owner: BYZ
+  controller: BYZ
+  cores:
+    OSTR: no
+    BYZ: yes
+610.1.1:
+  cores:
+    SER: yes
+  pop:
+    ethnicity: serbian
+    religion: slavic
+    estate: peasant
+    size: 1000
+630.1.1:
+  owner: SER
+  controller: SER
+  cores:
+    BYZ: no
+869.1.1:
+  pop:
+    religion: orthodox
+    estate: peasant
+    size: 1000
+960.1.1:
+  owner: CRO
+  controller: CRO
+  cores:
+    SER: no
+    CRO: yes
+997.1.1:
+  owner: BUL
+  controller: BUL
+  cores:
+    BUL: yes
+1014.1.1:
+  owner: BYZ
+  controller: BYZ
+  cores:
+    BUL: no
+    BYZ: yes
+1050.1.1:
+  owner: CRO
+  controller: CRO
+  cores:
+    CRO: yes
+1077.1.1:
+  owner: DUKL
+  controller: DUKL
+  cores:
+    CRO: no
+    DUKL: yes
+1095.1.1:
+  owner: SER
+  controller: SER
+  cores:
+    DUKL: no
+    SER: yes
+1136.1.1:
+  owner: HUN
+  controller: HUN
+  cores:
+    SER: no
+    HUN: yes
+1165.1.1:
+  owner: BYZ
+  controller: BYZ
+  cores:
+    HUN: no
+    BYZ: yes
+1180.1.1:
+  owner: BOS
+  controller: BOS
+  cores:
+    BYZ: no
+    BOS: yes
+1282.1.1:
+  owner: SYRM
+  controller: SYRM
+  cores:
+    SYRM: yes
+1305.1.1:
+  owner: CRO
+  controller: CRO
+  cores:
+    CRO: yes
+1322.1.1:
+  owner: BOS
+  controller: BOS
+  cores:
+    CRO: no
+1324.1.1:
+  owner: BOS
+  controller: BOS
+  cores:
+    SYRM: no
+1463.1.1:
+  owner: TUR
+  controller: TUR
+  cores:
+    TUR: yes
+1716.12.9:
+  controller: HAB
+1718.7.21:
+  controller: TUR
+1737.7.1:
+  controller: HAB
+1739.9.18:
+  controller: TUR
+1788.12.6:
+  controller: HAB
+1791.8.4:
+  controller: TUR
+1875.11.2:
+  cores:
+    SER: yes
+1877.8.4:
+  controller: TUR
+1878.7.13:
+  owner: HAB
+  controller: HAB
+  cores:
+    HAB: yes
+1908.10.5:
+  cores:
+    TUR: no
+1918.12.1:
+  owner: YUGO
+  controller: YUGO
+  cores:
+    HAB: no
+    BOS: no
+    YUGO: yes
+    BOSH: yes
+1941.4.6:
+  owner: GER
+  controller: GER
+1941.4.10:
+  owner: CRO
+  controller: CRO
+  cores:
+    CRO: yes
+1945.5.8:
+  owner: YUGO
+  controller: YUGO
+  cores:
+    CRO: no
+1992.3.3:
+  owner: BOSH
+  controller: BOSH
+  cores:
+    YUGO: no
+    SER: no

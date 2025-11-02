@@ -1,0 +1,102 @@
+#imported from EU4 file: history/provinces/1778 - Kasimov.txt
+2.1.1:
+  pop:
+    ethnicity: hungarian
+    religion: 
+    estate: peasant
+    size: 1000
+600.1.1:
+  owner: HUN
+  controller: HUN
+  cores:
+    HUN: yes
+  resource: livestock
+720.1.1:
+  owner: MRM
+  controller: MRM
+  cores:
+    HUN: no
+    MRM: yes
+  pop:
+    ethnicity: muromian
+    religion: muinaisusko
+    estate: peasant
+    size: 1000
+1000.1.1:
+  owner: KIEV
+  controller: KIEV
+  cores:
+    MRM: no
+    KIEV: yes
+1054.2.20:
+  owner: CHR
+  controller: CHR
+  cores:
+    KIEV: no
+    CHR: yes
+1097.1.1:
+  owner: RYA
+  controller: RYA
+  cores:
+    CHR: no
+    RYA: yes
+1100.1.1:
+  pop:
+    ethnicity: muscovite
+    religion: orthodox
+    estate: peasant
+    size: 1000
+1300.1.1:
+  pop:
+    ethnicity: qasim
+    religion: sunni
+    estate: peasant
+    size: 1000
+1376.1.1:
+  owner: WHHO
+  controller: WHHO
+1378.1.1:
+  owner: GLH
+  controller: GLH
+1393.1.1:
+  owner: MOS
+  controller: MOS
+  cores:
+    RYA: no
+    MOS: yes
+    QASI: yes
+1452.1.1:
+  owner: QASI
+  controller: QASI
+  cores:
+    QASI: yes
+1503.4.1:
+  cores:
+    MOS: no
+1681.1.1:
+  owner: RUS
+  controller: RUS
+  cores:
+    QASI: no
+    RUS: yes
+1840.1.1:
+  pop:
+    ethnicity: muscovite
+    religion: orthodox
+    estate: peasant
+    size: 1000
+1850.1.1:
+  cores:
+    RYA: no
+1922.12.30:
+  owner: SOVI
+  controller: SOVI
+  cores:
+    RUS: no
+    SOVI: yes
+1991.12.25:
+  owner: RUS
+  controller: RUS
+  cores:
+    SOVI: no
+    RUS: yes

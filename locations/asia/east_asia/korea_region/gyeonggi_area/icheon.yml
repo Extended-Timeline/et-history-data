@@ -1,0 +1,99 @@
+#imported from EU4 file: history/provinces/4230 - Suwon.txt
+2.1.1:
+  owner: BAEK
+  controller: BAEK
+  cores:
+    BAEK: yes
+    MAHA: yes
+  resource: chinaware
+  pop:
+    ethnicity: korean_culture
+    religion: muism
+    estate: peasant
+    size: 1000
+360.1.1:
+  cores:
+    MAHA: no
+372.1.1:
+  pop:
+    religion: mahayana
+    estate: peasant
+    size: 1000
+555.1.1:
+  owner: SILL
+  controller: SILL
+  cores:
+    SILL: yes
+660.1.1:
+  cores:
+    BAEK: no
+901.1.1:
+  owner: GOGU
+  controller: GOGU
+  cores:
+    SILL: no
+    GOGU: yes
+918.1.1:
+  owner: GORY
+  controller: GORY
+  cores:
+    GOGU: no
+    GORY: yes
+1392.7.12:
+  owner: KOR
+  controller: KOR
+  cores:
+    GORY: no
+    KOR: yes
+  pop:
+    religion: sanjiao
+    estate: peasant
+    size: 1000
+1592.6.11:
+  controller: TOYO
+1593.5.20:
+  controller: KOR
+1637.1.1:
+  cores:
+    MNG: yes
+1644.1.1:
+  cores:
+    MNG: no
+    MCH: yes
+1645.7.1:
+  cores:
+    MCH: no
+    QNG: yes
+1910.8.20:
+  owner: JAP
+  controller: JAP
+  cores:
+    JAP: yes
+1912.2.12:
+  cores:
+    QNG: no
+1945.8.15:
+  owner: JOE
+  controller: JOE
+  cores:
+    JAP: no
+    KOR: no
+    JOE: yes
+1948.9.9:
+  owner: SKOR
+  controller: SKOR
+  cores:
+    SKOR: yes
+    NKOR: yes
+1950.1.1:
+  resource: cars
+1970.1.1:
+  pop:
+    religion: lutheran
+    estate: peasant
+    size: 1000
+1990.1.1:
+  pop:
+    religion: irreligious
+    estate: peasant
+    size: 1000

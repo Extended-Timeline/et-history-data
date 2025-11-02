@@ -1,0 +1,69 @@
+#imported from EU4 file: history/provinces/2798 - Soba.txt
+2.1.1:
+  owner: MERO
+  controller: MERO
+  cores:
+    MERO: yes
+  resource: grain
+  pop:
+    ethnicity: kushite
+    religion: bantu_religion
+    estate: peasant
+    size: 1000
+300.1.1:
+  pop:
+    ethnicity: nubian_language
+    estate: peasant
+    size: 1000
+350.1.1:
+  owner: ALO
+  controller: ALO
+  cores:
+    MERO: no
+    ALO: yes
+580.1.1:
+  pop:
+    religion: miaphysite
+    estate: peasant
+    size: 1000
+1503.1.1:
+  owner: FUNJ
+  controller: FUNJ
+  cores:
+    FUNJ: yes
+1523.1.1:
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+1584.1.1:
+  controller: FUNJ
+1821.6.14:
+  owner: EGY
+  controller: EGY
+  cores:
+    EGY: yes
+    TUR: yes
+1850.1.1:
+  pop:
+    ethnicity: sudanese_arab
+    estate: peasant
+    size: 1000
+1882.9.13:
+  owner: GBR
+  controller: GBR
+  cores:
+    TUR: no
+    GBR: yes
+1883.6.1:
+  cores:
+    FUNJ: no
+    SUDA: yes
+1898.9.2:
+  controller: GBR
+1956.1.1:
+  owner: SUDA
+  controller: SUDA
+  cores:
+    GBR: no
+    EGY: no

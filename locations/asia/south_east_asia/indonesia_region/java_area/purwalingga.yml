@@ -1,0 +1,72 @@
+#imported from EU4 file: history/provinces/625 - Priangan.txt
+2.1.1:
+  pop:
+    ethnicity: sundanese_culture
+    religion: hindu
+    estate: peasant
+    size: 1000
+130.1.1:
+  owner: SALA
+  controller: SALA
+  cores:
+    SALA: yes
+  resource: tropical_wood
+358.1.1:
+  owner: TARU
+  controller: TARU
+  cores:
+    SALA: no
+    TARU: yes
+669.1.1:
+  owner: GALU
+  controller: GALU
+  cores:
+    TARU: no
+    GALU: yes
+723.1.1:
+  owner: SUN
+  controller: SUN
+  cores:
+    SUN: yes
+739.1.1:
+  owner: GALU
+  controller: GALU
+  cores:
+    SUN: no
+    GALU: yes
+819.1.1:
+  owner: SUN
+  controller: SUN
+  cores:
+    SUN: yes
+1527.1.1:
+  owner: CIRE
+  controller: CIRE
+  cores:
+    SUN: no
+    CIRE: yes
+1550.1.1:
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+1807.1.1:
+  owner: NED
+  controller: NED
+  cores:
+    NED: yes
+1912.9.10:
+  cores:
+    MATA: no
+    INDN: yes
+1942.3.9:
+  owner: JAP
+  controller: JAP
+1945.8.15:
+  owner: NED
+1945.8.17:
+  owner: INDN
+  controller: INDN
+1949.12.27:
+  cores:
+    NED: no

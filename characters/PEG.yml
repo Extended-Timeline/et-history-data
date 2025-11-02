@@ -1,0 +1,460 @@
+peg_wareru_toungoo:
+  1257.1.1:
+    birth: pegu #TODO: Date and location guessed, check if better data is available
+    first_name: wareru
+    dynasty: toungoo_dynasty
+    adm: 75
+    dip: 75
+    mil: 30
+    religion: theravada
+    culture: mon_culture
+  1307.1.1:
+    death: yes
+peg_hkun_law_toungoo:
+  1274.1.1:
+    birth: pegu #TODO: Date and location guessed, check if better data is available
+    first_name: hkun_law
+    dynasty: toungoo_dynasty
+    father: peg_wareru_toungoo #TODO: check if this makes sense
+    adm: 75
+    dip: 30
+    mil: 60
+    religion: theravada
+    culture: mon_culture
+  1311.3.1:
+    death: yes
+peg_hkun_law_toungoo_1:
+  1277.1.1:
+    birth: pegu #TODO: Date and location guessed, check if better data is available
+    first_name: hkun_law
+    dynasty: toungoo_dynasty
+    adm: 75
+    dip: 30
+    mil: 60
+    religion: theravada
+    culture: mon_culture
+  1311.3.1:
+    death: yes
+peg_saw_o_toungoo:
+  1283.1.1:
+    birth: pegu #TODO: Date and location guessed, check if better data is available
+    first_name: saw_o
+    dynasty: toungoo_dynasty
+    father: peg_hkun_law_toungoo_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 30
+    mil: 30
+    religion: theravada
+    culture: mon_culture
+  1323.9.1:
+    death: yes
+peg_saw_o_toungoo_1:
+  1281.1.1:
+    birth: pegu #TODO: Date and location guessed, check if better data is available
+    first_name: saw_o
+    dynasty: toungoo_dynasty
+    adm: 30
+    dip: 30
+    mil: 30
+    religion: theravada
+    culture: mon_culture
+  1323.9.1:
+    death: yes
+peg_saw_zein_toungoo:
+  1303.6.2:
+    birth: pegu #TODO: Location guessed, check if better data is available
+    first_name: saw_zein
+    dynasty: toungoo_dynasty
+    father: peg_saw_o_toungoo_1 #TODO: check if this makes sense
+    adm: 60
+    dip: 15
+    mil: 75
+    religion: theravada
+    culture: mon_culture
+  1330.4.1:
+    death: yes
+peg_saw_zein_toungoo_1:
+  1293.1.1:
+    birth: pegu #TODO: Date and location guessed, check if better data is available
+    first_name: saw_zein
+    dynasty: toungoo_dynasty
+    adm: 60
+    dip: 15
+    mil: 75
+    religion: theravada
+    culture: mon_culture
+  1330.4.1:
+    death: yes
+peg_saw_e_toungoo:
+  1330.1.1:
+    birth: pegu #TODO: Date and location guessed, check if better data is available
+    first_name: saw_e
+    dynasty: toungoo_dynasty
+    father: peg_saw_zein_toungoo_1 #TODO: check if this makes sense
+    adm: 75
+    dip: 15
+    mil: 15
+    religion: theravada
+    culture: mon_culture
+  1330.5.1:
+    death: yes
+peg_saw_e_toungoo_1:
+  1300.1.1:
+    birth: pegu #TODO: Date and location guessed, check if better data is available
+    first_name: saw_e
+    dynasty: toungoo_dynasty
+    adm: 75
+    dip: 15
+    mil: 15
+    religion: theravada
+    culture: mon_culture
+  1330.5.1:
+    death: yes
+peg_binnya_e_law_toungoo:
+  1308.3.15:
+    birth: pegu #TODO: Location guessed, check if better data is available
+    first_name: binnya_e_law
+    dynasty: toungoo_dynasty
+    father: peg_saw_e_toungoo_1 #TODO: check if this makes sense
+    adm: 75
+    dip: 60
+    mil: 60
+    religion: theravada
+    culture: mon_culture
+  1348.1.1:
+    death: yes
+peg_binnya_e_law_toungoo_1:
+  1300.1.1:
+    birth: pegu #TODO: Date and location guessed, check if better data is available
+    first_name: binnya_e_law
+    dynasty: toungoo_dynasty
+    adm: 75
+    dip: 60
+    mil: 60
+    religion: theravada
+    culture: mon_culture
+  1348.1.1:
+    death: yes
+peg_binnya_u_toungoo:
+  1323.1.1:
+    birth: pegu #TODO: Date and location guessed, check if better data is available
+    first_name: binnya_u
+    dynasty: toungoo_dynasty
+    father: peg_binnya_e_law_toungoo_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 75
+    mil: 60
+    religion: theravada
+    culture: mon_culture
+  1384.1.23:
+    death: yes
+peg_binnya_u_toungoo_1:
+  1318.1.1:
+    birth: pegu #TODO: Date and location guessed, check if better data is available
+    first_name: binnya_u
+    dynasty: toungoo_dynasty
+    adm: 15
+    dip: 75
+    mil: 60
+    religion: theravada
+    culture: mon_culture
+  1385.1.23:
+    death: yes
+peg_razadarit_toungoo:
+  1368.1.28:
+    birth: pegu #TODO: Location guessed, check if better data is available
+    first_name: razadarit
+    dynasty: toungoo_dynasty
+    father: peg_binnya_u_toungoo_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: theravada
+    culture: mon_culture
+  1421.2.1:
+    death: yes
+peg_razadarit_toungoo_1:
+  1355.1.1:
+    birth: pegu #TODO: Date and location guessed, check if better data is available
+    first_name: razadarit
+    dynasty: toungoo_dynasty
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: theravada
+    culture: mon_culture
+  1421.2.1:
+    death: yes
+peg_binnya_dammayaza_toungoo:
+  1380.1.1:
+    birth: pegu #TODO: Date and location guessed, check if better data is available
+    first_name: binnya_dammayaza
+    dynasty: toungoo_dynasty
+    father: peg_razadarit_toungoo_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 45
+    mil: 15
+    religion: theravada
+    culture: mon_culture
+  1426.1.1:
+    death: yes
+peg_binnya_dammayaza_toungoo_1:
+  1391.1.1:
+    birth: pegu #TODO: Date and location guessed, check if better data is available
+    first_name: binnya_dammayaza
+    dynasty: toungoo_dynasty
+    adm: 15
+    dip: 45
+    mil: 15
+    religion: theravada
+    culture: mon_culture
+  1426.1.1:
+    death: yes
+peg_binnya_ran_i_toungoo:
+  1400.1.1:
+    birth: pegu #TODO: Date and location guessed, check if better data is available
+    first_name: binnya_ran
+    dynasty: toungoo_dynasty
+    father: peg_binnya_dammayaza_toungoo_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 30
+    mil: 30
+    religion: theravada
+    culture: mon_culture
+  1446.1.1:
+    death: yes
+peg_binnya_ran_i_toungoo_1:
+  1396.1.1:
+    birth: pegu #TODO: Date and location guessed, check if better data is available
+    first_name: binnya_ran
+    dynasty: toungoo_dynasty
+    adm: 30
+    dip: 30
+    mil: 30
+    religion: theravada
+    culture: mon_culture
+  1446.1.1:
+    death: yes
+peg_binnya_waru_toungoo:
+  1410.1.1:
+    birth: pegu #TODO: Date and location guessed, check if better data is available
+    first_name: binnya_waru
+    dynasty: toungoo_dynasty
+    father: peg_binnya_ran_i_toungoo_1 #TODO: check if this makes sense
+    adm: 60
+    dip: 15
+    mil: 45
+    religion: theravada
+    culture: mon_culture
+  1450.1.1:
+    death: yes
+peg_binnya_waru_toungoo_1:
+  1416.1.1:
+    birth: pegu #TODO: Date and location guessed, check if better data is available
+    first_name: binnya_waru
+    dynasty: toungoo_dynasty
+    adm: 60
+    dip: 15
+    mil: 45
+    religion: theravada
+    culture: mon_culture
+  1450.1.1:
+    death: yes
+peg_binnya_kyan_toungoo:
+  1426.1.1:
+    birth: pegu #TODO: Date and location guessed, check if better data is available
+    first_name: binnya_kyan
+    dynasty: toungoo_dynasty
+    father: peg_binnya_waru_toungoo_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 45
+    mil: 45
+    religion: theravada
+    culture: mon_culture
+  1453.1.1:
+    death: yes
+peg_binnya_kyan_toungoo_1:
+  1420.1.1:
+    birth: pegu #TODO: Date and location guessed, check if better data is available
+    first_name: binnya_kyan
+    dynasty: toungoo_dynasty
+    adm: 30
+    dip: 45
+    mil: 45
+    religion: theravada
+    culture: mon_culture
+  1453.1.1:
+    death: yes
+peg_mawdaw_toungoo:
+  1450.1.1:
+    birth: pegu #TODO: Date and location guessed, check if better data is available
+    first_name: mawdaw
+    dynasty: toungoo_dynasty
+    father: peg_binnya_kyan_toungoo_1 #TODO: check if this makes sense
+    adm: 60
+    dip: 45
+    mil: 30
+    religion: theravada
+    culture: mon_culture
+  1472.1.1:
+    death: yes
+peg_mawdaw_toungoo_1:
+  1423.1.1:
+    birth: pegu #TODO: Date and location guessed, check if better data is available
+    first_name: mawdaw
+    dynasty: toungoo_dynasty
+    adm: 60
+    dip: 45
+    mil: 30
+    religion: theravada
+    culture: mon_culture
+  1472.1.1:
+    death: yes
+peg_shin_sawbu_toungoo:
+  1430.1.1:
+    birth: pegu #TODO: Date and location guessed, check if better data is available
+    first_name: shin_sawbu
+    dynasty: toungoo_dynasty
+    father: peg_mawdaw_toungoo_1 #TODO: check if this makes sense
+    adm: 75
+    dip: 60
+    mil: 45
+    religion: theravada
+    culture: mon_culture
+  1492.1.1:
+    death: yes
+peg_shin_sawbu_toungoo_1:
+  1442.1.1:
+    birth: pegu #TODO: Date and location guessed, check if better data is available
+    first_name: shin_sawbu
+    dynasty: toungoo_dynasty
+    adm: 75
+    dip: 60
+    mil: 45
+    religion: theravada
+    culture: mon_culture
+  1492.1.1:
+    death: yes
+peg_dimmazedi_toungoo:
+  1460.1.1:
+    birth: pegu #TODO: Date and location guessed, check if better data is available
+    first_name: dimmazedi
+    dynasty: toungoo_dynasty
+    father: peg_shin_sawbu_toungoo_1 #TODO: check if this makes sense
+    adm: 75
+    dip: 60
+    mil: 30
+    religion: theravada
+    culture: mon_culture
+  1526.1.1:
+    death: yes
+peg_dimmazedi_toungoo_1:
+  1462.1.1:
+    birth: pegu #TODO: Date and location guessed, check if better data is available
+    first_name: dimmazedi
+    dynasty: toungoo_dynasty
+    adm: 75
+    dip: 60
+    mil: 30
+    religion: theravada
+    culture: mon_culture
+  1526.1.1:
+    death: yes
+peg_takayutpi_toungoo:
+  1490.1.1:
+    birth: pegu #TODO: Date and location guessed, check if better data is available
+    first_name: takayutpi
+    dynasty: toungoo_dynasty
+    father: peg_dimmazedi_toungoo_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 15
+    mil: 15
+    religion: theravada
+    culture: mon_culture
+  1550.1.1:
+    death: yes
+peg_takayutpi_toungoo_1:
+  1496.1.1:
+    birth: pegu #TODO: Date and location guessed, check if better data is available
+    first_name: takayutpi
+    dynasty: toungoo_dynasty
+    adm: 15
+    dip: 15
+    mil: 15
+    religion: theravada
+    culture: mon_culture
+  1550.1.1:
+    death: yes
+peg_smim_sawhtut_toungoo:
+  1510.1.1:
+    birth: pegu #TODO: Date and location guessed, check if better data is available
+    first_name: smim_sawhtut
+    dynasty: toungoo_dynasty
+    father: peg_takayutpi_toungoo_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 30
+    mil: 15
+    religion: theravada
+    culture: mon_culture
+  1551.1.1:
+    death: yes
+peg_smim_sawhtut_toungoo_1:
+  1520.1.1:
+    birth: pegu #TODO: Date and location guessed, check if better data is available
+    first_name: smim_sawhtut
+    dynasty: toungoo_dynasty
+    adm: 45
+    dip: 30
+    mil: 15
+    religion: theravada
+    culture: mon_culture
+  1551.1.1:
+    death: yes
+peg_smim_htaw_toungoo:
+  1521.1.1:
+    birth: pegu #TODO: Date and location guessed, check if better data is available
+    first_name: smim_htaw
+    dynasty: toungoo_dynasty
+    adm: 30
+    dip: 30
+    mil: 15
+    religion: theravada
+    culture: mon_culture
+  1740.1.1:
+    death: yes
+peg_smim_htaw_buddhaketi_mon:
+  1710.1.1:
+    birth: pegu #TODO: Date and location guessed, check if better data is available
+    first_name: smim_htaw_buddhaketi
+    dynasty: mon_dynasty
+    adm: 60
+    dip: 60
+    mil: 75
+    religion: theravada
+    culture: mon_culture
+  1747.1.1:
+    death: yes
+peg_binnya_dala:
+  1720.1.1:
+    birth: pegu #TODO: Date and location guessed, check if better data is available
+    first_name: binnya_dala
+    father: peg_smim_htaw_buddhaketi_mon #TODO: check if this makes sense
+    adm: 45
+    dip: 30
+    mil: 60
+    religion: theravada
+    culture: mon_culture
+  1767.1.1:
+    death: yes
+peg_binnya_dala_mon:
+  1717.1.1:
+    birth: pegu #TODO: Date and location guessed, check if better data is available
+    first_name: binnya_dala
+    dynasty: mon_dynasty
+    adm: 45
+    dip: 30
+    mil: 60
+    religion: theravada
+    culture: mon_culture
+  3000.1.1:
+    death: yes

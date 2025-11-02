@@ -1,0 +1,110 @@
+#imported from EU4 file: history/provinces/4526 - Gniezno.txt
+2.1.1:
+  owner: SCIR
+  controller: SCIR
+  cores:
+    SCIR: yes
+  resource: cloth
+  pop:
+    ethnicity: scirian
+    religion: germanic
+    estate: peasant
+    size: 1000
+140.1.1:
+  owner: RUGI
+  controller: RUGI
+  cores:
+    SCIR: no
+    RUGI: yes
+  pop:
+    ethnicity: western_pomeranian
+    estate: peasant
+    size: 1000
+150.1.1:
+  owner: LEMO
+  controller: LEMO
+  cores:
+    RUGI: no
+    LEMO: yes
+395.1.1:
+  owner: POL
+  controller: POL
+  cores:
+    LEMO: no
+    POL: yes
+  pop:
+    ethnicity: lesser_polish
+    religion: slavic
+    estate: peasant
+    size: 1000
+966.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+1138.10.28:
+  owner: GPOL
+  controller: GPOL
+  cores:
+    GPOL: yes
+1290.1.1:
+  owner: POL
+  controller: POL
+  cores:
+    POL: yes
+1569.7.1:
+  owner: PLC
+  controller: PLC
+  cores:
+    POL: no
+    LIT: yes
+    PLC: yes
+1589.1.1:
+  controller: PLC
+1655.1.1:
+  controller: SWE
+1660.1.1:
+  controller: PLC
+1735.1.1:
+  controller: PLC
+1791.5.3:
+  cores:
+    LIT: no
+1793.1.23:
+  owner: PRU
+  controller: PRU
+  cores:
+    PRU: yes
+1807.7.9:
+  owner: POL
+  controller: POL
+  cores:
+    PRU: no
+    POL: yes
+1814.4.11:
+  owner: PRU
+  controller: PRU
+  cores:
+    PRU: yes
+1871.1.18:
+  owner: GER
+  controller: GER
+  cores:
+    PRU: no
+    GER: yes
+1919.6.28:
+  owner: POL
+  controller: POL
+  cores:
+    POL: yes
+1939.9.11:
+  controller: GER
+1939.10.6:
+  owner: GER
+1945.1.21:
+  controller: SOVI
+1945.5.8:
+  owner: POL
+  controller: POL
+  cores:
+    GER: no

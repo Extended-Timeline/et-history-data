@@ -1,0 +1,43 @@
+#imported from EU4 file: history/provinces/2378 - Kratie.txt
+2.1.1:
+  owner: CAMB
+  controller: CAMB
+  cores:
+    CAMB: yes
+  resource: grain
+  pop:
+    ethnicity: bahnar_culture
+    religion: bimoism
+    estate: peasant
+    size: 1000
+220.1.1:
+  owner: FUNA
+  controller: FUNA
+  cores:
+    CAMB: no
+    FUNA: yes
+550.1.1:
+  owner: CHEN
+  controller: CHEN
+  cores:
+    FUNA: no
+    CHEN: yes
+802.1.1:
+  owner: CAMB
+  controller: CAMB
+  cores:
+    CHEN: no
+    CAMB: yes
+1431.1.1:
+  owner: KHM
+  controller: KHM
+  cores:
+    CAMB: no
+    KHM: yes
+1694.1.1:
+  cores:
+    ANNA: yes
+1941.7.1:
+  controller: JAP
+1945.8.23:
+  controller: KHM

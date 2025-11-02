@@ -1,0 +1,87 @@
+#imported from EU4 file: history/provinces/1134 - Jenne.txt
+2.1.1:
+  pop:
+    ethnicity: bozo
+    religion: bantu_religion
+    estate: peasant
+    size: 1000
+350.1.1:
+  owner: JENN
+  controller: JENN
+  cores:
+    JENN: yes
+  resource: cloth
+1250.1.1:
+  owner: MAL
+  controller: MAL
+  cores:
+    MAL: yes
+1420.1.1:
+  owner: JENN
+  controller: JENN
+  cores:
+    MAL: no
+    JENN: yes
+1474.1.1:
+  owner: SON
+  controller: SON
+  cores:
+    MAL: no
+    SON: yes
+1550.1.1:
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+1588.1.1:
+  controller: SON
+1591.3.15:
+  owner: JENN
+  controller: JENN
+1594.1.1:
+  owner: MOR
+  controller: MOR
+  cores:
+    MOR: yes
+1618.1.1:
+  owner: JENN
+  controller: JENN
+  cores:
+    MOR: no
+    JENN: yes
+1642.1.1:
+  cores:
+    SON: no
+1819.1.1:
+  owner: ZAFU
+  controller: ZAFU
+  cores:
+    ZAFU: yes
+1862.3.16:
+  owner: SEGU
+  controller: SEGU
+  cores:
+    MAL: no
+    SEGU: yes
+  resource: grain
+1890.1.1:
+  owner: FRA
+  controller: FRA
+  cores:
+    FRA: yes
+1940.6.14:
+  owner: VFRA
+  controller: VFRA
+  cores:
+    VFRA: yes
+1942.11.16:
+  owner: FRA
+  controller: FRA
+  cores:
+    VFRA: no
+1960.6.20:
+  owner: MAL
+  controller: MAL
+  cores:
+    FRA: no
+    MAL: yes

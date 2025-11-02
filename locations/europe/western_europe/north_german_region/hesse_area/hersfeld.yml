@@ -1,0 +1,145 @@
+#imported from EU4 file: history/provinces/1762 - Kassel.txt
+2.1.1:
+  owner: CHRS
+  controller: CHRS
+  cores:
+    CHRS: yes
+  resource: grain
+  pop:
+    ethnicity: rhine_franconian
+    religion: germanic
+    estate: peasant
+    size: 1000
+88.1.1:
+  owner: CHTT
+  controller: CHTT
+  cores:
+    CHRS: no
+    CHTT: yes
+481.1.1:
+  owner: FRAN
+  controller: FRAN
+  cores:
+    CHTT: no
+    FRAN: yes
+511.11.27:
+  owner: ASTS
+  controller: ASTS
+  cores:
+    ASTS: yes
+555.1.1:
+  owner: SOIS
+  controller: SOIS
+  cores:
+    SOIS: yes
+558.12.23:
+  owner: FRAN
+  controller: FRAN
+  cores:
+    SOIS: no
+    FRAN: yes
+561.11.29:
+  owner: ASTS
+  controller: ASTS
+600.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+613.10.10:
+  owner: FRAN
+  controller: FRAN
+  cores:
+    FRAN: yes
+623.1.1:
+  owner: ASTS
+  controller: ASTS
+629.10.18:
+  owner: FRAN
+  controller: FRAN
+634.1.1:
+  owner: ASTS
+  controller: ASTS
+679.12.23:
+  owner: FRAN
+  controller: FRAN
+840.6.21:
+  owner: EFRA
+  controller: EFRA
+  cores:
+    FRAN: no
+    EFRA: yes
+867.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+911.11.10:
+  owner: FKN
+  controller: FKN
+  cores:
+    EFRA: no
+    FKN: yes
+    THU: yes
+1000.1.1:
+  resource: glass
+1031.1.1:
+  owner: THU
+  controller: THU
+  cores:
+    FKN: no
+1264.1.1:
+  owner: HES
+  controller: HES
+  cores:
+    THU: no
+    HES: yes
+1536.1.1:
+  pop:
+    religion: lutheran
+    estate: peasant
+    size: 1000
+1730.3.23:
+  owner: SWE
+  controller: SWE
+1751.4.5:
+  owner: HES
+  controller: HES
+1807.7.9:
+  owner: WES
+  controller: WES
+  cores:
+    WES: yes
+1813.9.1:
+  controller: RUS
+1813.10.14:
+  owner: HES
+  controller: HES
+  cores:
+    WES: no
+1866.9.20:
+  owner: PRU
+  controller: PRU
+  cores:
+    PRU: yes
+1871.1.18:
+  owner: GER
+  controller: GER
+  cores:
+    PRU: no
+    GER: yes
+1900.1.1:
+  cores:
+    HES: no
+1945.4.4:
+  controller: USA
+1945.5.8:
+  owner: WGER
+  controller: WGER
+  cores:
+    WGER: yes
+1990.10.3:
+  owner: GER
+  controller: GER
+  cores:
+    WGER: no

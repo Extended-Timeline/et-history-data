@@ -1,0 +1,536 @@
+myso_ganga_raja_ummatur:
+  1369.1.1:
+    birth: mysore #TODO: Date and location guessed, check if better data is available
+    first_name: ganga_raja
+    dynasty: ummatur_dynasty
+    adm: 30
+    dip: 15
+    mil: 45
+    religion: hindu
+    culture: kannadiga
+  1458.1.1:
+    death: yes
+myso_timma_raja_i_wodeyar:
+  1428.1.1:
+    birth: mysore #TODO: Date and location guessed, check if better data is available
+    first_name: timma_raja
+    dynasty: wodeyar_dynasty
+    adm: 30
+    dip: 30
+    mil: 30
+    religion: hindu
+    culture: kannadiga
+  1478.1.1:
+    death: yes
+myso_cama_raja_ii_wodeyar:
+  1458.1.1:
+    birth: mysore #TODO: Date and location guessed, check if better data is available
+    first_name: cama_raja
+    dynasty: wodeyar_dynasty
+    father: myso_timma_raja_i_wodeyar #TODO: check if this makes sense
+    adm: 45
+    dip: 15
+    mil: 15
+    religion: hindu
+    culture: kannadiga
+  1513.1.1:
+    death: yes
+myso_chama_raja_ii_wodeyar:
+  1448.1.1:
+    birth: mysore #TODO: Date and location guessed, check if better data is available
+    first_name: chama_raja
+    dynasty: wodeyar_dynasty
+    father: myso_timma_raja_ii_wodeyar_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 15
+    mil: 15
+    religion: hindu
+    culture: kannadiga
+  1513.1.1:
+    death: yes
+myso_chama_raja_iii_wodeyar:
+  1478.1.1:
+    birth: mysore #TODO: Date and location guessed, check if better data is available
+    first_name: chama_raja
+    dynasty: wodeyar_dynasty
+    father: myso_chama_raja_ii_wodeyar #TODO: check if this makes sense
+    adm: 60
+    dip: 30
+    mil: 45
+    religion: hindu
+    culture: kannadiga
+  1552.1.1:
+    death: yes
+myso_chama_raja_iii_wodeyar_1:
+  1483.1.1:
+    birth: mysore #TODO: Date and location guessed, check if better data is available
+    first_name: chama_raja
+    dynasty: wodeyar_dynasty
+    adm: 60
+    dip: 30
+    mil: 45
+    religion: hindu
+    culture: kannadiga
+  1552.1.1:
+    death: yes
+myso_timma_raja_ii_wodeyar:
+  1513.1.1:
+    birth: mysore #TODO: Date and location guessed, check if better data is available
+    first_name: timma_raja
+    dynasty: wodeyar_dynasty
+    father: myso_chama_raja_iii_wodeyar_1 #TODO: check if this makes sense
+    adm: 75
+    dip: 45
+    mil: 15
+    religion: hindu
+    culture: kannadiga
+  1572.1.1:
+    death: yes
+myso_timma_raja_ii_wodeyar_1:
+  1522.1.1:
+    birth: mysore #TODO: Date and location guessed, check if better data is available
+    first_name: timma_raja
+    dynasty: wodeyar_dynasty
+    adm: 75
+    dip: 45
+    mil: 15
+    religion: hindu
+    culture: kannadiga
+  1572.1.1:
+    death: yes
+myso_chama_raja_ii_wodeyar_1:
+  1552.1.1:
+    birth: mysore #TODO: Date and location guessed, check if better data is available
+    first_name: chama_raja
+    dynasty: wodeyar_dynasty
+    father: myso_timma_raja_ii_wodeyar_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 30
+    mil: 15
+    religion: hindu
+    culture: kannadiga
+  1576.1.1:
+    death: yes
+myso_chama_raja_iv_wodeyar:
+  1542.1.1:
+    birth: mysore #TODO: Date and location guessed, check if better data is available
+    first_name: chama_raja
+    dynasty: wodeyar_dynasty
+    adm: 15
+    dip: 30
+    mil: 15
+    religion: hindu
+    culture: kannadiga
+  1576.1.1:
+    death: yes
+myso_bettada_deva_raja:
+  1556.1.1:
+    birth: mysore #TODO: Date and location guessed, check if better data is available
+    first_name: bettada_deva_raja
+    father: myso_chama_raja_iv_wodeyar #TODO: check if this makes sense
+    adm: 15
+    dip: 15
+    mil: 60
+    religion: hindu
+    culture: kannadiga
+  1578.1.1:
+    death: yes
+myso_bettada_deva_raja_wodeyar:
+  1546.1.1:
+    birth: mysore #TODO: Date and location guessed, check if better data is available
+    first_name: bettada_deva_raja
+    dynasty: wodeyar_dynasty
+    adm: 15
+    dip: 15
+    mil: 60
+    religion: hindu
+    culture: kannadiga
+  1578.11.27:
+    death: yes
+myso_raja_wadaiyar_wodeyar:
+  1558.1.1:
+    birth: mysore #TODO: Date and location guessed, check if better data is available
+    first_name: raja_wadaiyar
+    dynasty: wodeyar_dynasty
+    father: myso_bettada_deva_raja_wodeyar #TODO: check if this makes sense
+    adm: 45
+    dip: 60
+    mil: 15
+    religion: hindu
+    culture: kannadiga
+  1617.6.21:
+    death: yes
+myso_raja_wadaiyar_wodeyar_1:
+  1548.1.1:
+    birth: mysore #TODO: Date and location guessed, check if better data is available
+    first_name: raja_wadaiyar
+    dynasty: wodeyar_dynasty
+    adm: 45
+    dip: 60
+    mil: 15
+    religion: hindu
+    culture: kannadiga
+  1617.6.21:
+    death: yes
+myso_chama_raja_v_wodeyar:
+  1578.11.27:
+    birth: mysore #TODO: Location guessed, check if better data is available
+    first_name: chama_raja
+    dynasty: wodeyar_dynasty
+    father: myso_raja_wadaiyar_wodeyar_1 #TODO: check if this makes sense
+    adm: 60
+    dip: 30
+    mil: 60
+    religion: hindu
+    culture: kannadiga
+  1637.1.1:
+    death: yes
+myso_chama_raja_v_wodeyar_1:
+  1587.1.1:
+    birth: mysore #TODO: Date and location guessed, check if better data is available
+    first_name: chama_raja
+    dynasty: wodeyar_dynasty
+    adm: 60
+    dip: 30
+    mil: 60
+    religion: hindu
+    culture: kannadiga
+  1637.5.3:
+    death: yes
+myso_imadi_raja_wodeyar:
+  1617.6.21:
+    birth: mysore #TODO: Location guessed, check if better data is available
+    first_name: imadi_raja
+    dynasty: wodeyar_dynasty
+    father: myso_chama_raja_v_wodeyar_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 15
+    mil: 15
+    religion: hindu
+    culture: kannadiga
+  1638.10.9:
+    death: yes
+myso_imadi_raja_wodeyar_1:
+  1607.1.1:
+    birth: mysore #TODO: Date and location guessed, check if better data is available
+    first_name: imadi_raja
+    dynasty: wodeyar_dynasty
+    adm: 15
+    dip: 15
+    mil: 15
+    religion: hindu
+    culture: kannadiga
+  1638.10.9:
+    death: yes
+myso_kanthirava_narasa_raja_i_wodeyar:
+  1617.1.1:
+    birth: mysore #TODO: Date and location guessed, check if better data is available
+    first_name: kanthirava_narasa_raja
+    dynasty: wodeyar_dynasty
+    father: myso_imadi_raja_wodeyar_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 15
+    mil: 30
+    religion: hindu
+    culture: kannadiga
+  1659.8.3:
+    death: yes
+myso_kanthirava_narasa_raja_i_wodeyar_1:
+  1608.1.1:
+    birth: mysore #TODO: Date and location guessed, check if better data is available
+    first_name: kanthirava_narasa_raja
+    dynasty: wodeyar_dynasty
+    adm: 30
+    dip: 15
+    mil: 30
+    religion: hindu
+    culture: kannadiga
+  1659.8.3:
+    death: yes
+myso_kempa_deva_raja_wodeyar:
+  1610.1.1:
+    birth: mysore #TODO: Date and location guessed, check if better data is available
+    first_name: kempa_deva_raja
+    dynasty: wodeyar_dynasty
+    father: myso_kanthirava_narasa_raja_i_wodeyar_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 30
+    mil: 60
+    religion: hindu
+    culture: kannadiga
+  1672.2.11:
+    death: yes
+myso_kempa_deva_raja_wodeyar_1:
+  1629.1.1:
+    birth: mysore #TODO: Date and location guessed, check if better data is available
+    first_name: kempa_deva_raja
+    dynasty: wodeyar_dynasty
+    adm: 30
+    dip: 30
+    mil: 60
+    religion: hindu
+    culture: kannadiga
+  1672.2.11:
+    death: yes
+myso_chikka_deva_raja_wodeyar:
+  1659.8.3:
+    birth: mysore #TODO: Location guessed, check if better data is available
+    first_name: chikka_deva_raja
+    dynasty: wodeyar_dynasty
+    father: myso_kempa_deva_raja_wodeyar_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 45
+    mil: 60
+    religion: hindu
+    culture: kannadiga
+  1704.11.17:
+    death: yes
+myso_chikka_deva_raja_wodeyar_1:
+  1642.1.1:
+    birth: mysore #TODO: Date and location guessed, check if better data is available
+    first_name: chikka_deva_raja
+    dynasty: wodeyar_dynasty
+    adm: 15
+    dip: 45
+    mil: 60
+    religion: hindu
+    culture: kannadiga
+  1704.11.17:
+    death: yes
+myso_kanthirava_narasa_raja_ii_wodeyar:
+  1672.2.11:
+    birth: mysore #TODO: Location guessed, check if better data is available
+    first_name: kanthirava_narasa_raja
+    dynasty: wodeyar_dynasty
+    father: myso_chikka_deva_raja_wodeyar_1 #TODO: check if this makes sense
+    adm: 60
+    dip: 30
+    mil: 75
+    religion: hindu
+    culture: kannadiga
+  1714.2.17:
+    death: yes
+myso_kanthirava_narasa_raja_ii_wodeyar_1:
+  1674.1.1:
+    birth: mysore #TODO: Date and location guessed, check if better data is available
+    first_name: kanthirava_narasa_raja
+    dynasty: wodeyar_dynasty
+    adm: 60
+    dip: 30
+    mil: 75
+    religion: hindu
+    culture: kannadiga
+  1714.2.17:
+    death: yes
+myso_krishna_raja_i_wodeyar:
+  1690.1.1:
+    birth: mysore #TODO: Date and location guessed, check if better data is available
+    first_name: krishna_raja
+    dynasty: wodeyar_dynasty
+    father: myso_kanthirava_narasa_raja_ii_wodeyar_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 45
+    mil: 15
+    religion: hindu
+    culture: kannadiga
+  1732.3.6:
+    death: yes
+myso_krishna_raja_i_wodeyar_1:
+  1684.1.1:
+    birth: mysore #TODO: Date and location guessed, check if better data is available
+    first_name: krishna_raja
+    dynasty: wodeyar_dynasty
+    adm: 30
+    dip: 45
+    mil: 15
+    religion: hindu
+    culture: kannadiga
+  1732.3.6:
+    death: yes
+myso_chama_raja_vi_wodeyar:
+  1710.1.1:
+    birth: mysore #TODO: Date and location guessed, check if better data is available
+    first_name: chama_raja
+    dynasty: wodeyar_dynasty
+    father: myso_krishna_raja_i_wodeyar_1 #TODO: check if this makes sense
+    adm: 60
+    dip: 15
+    mil: 60
+    religion: hindu
+    culture: kannadiga
+  1734.6.12:
+    death: yes
+myso_chama_raja_vi_wodeyar_1:
+  1702.1.1:
+    birth: mysore #TODO: Date and location guessed, check if better data is available
+    first_name: chama_raja
+    dynasty: wodeyar_dynasty
+    adm: 60
+    dip: 15
+    mil: 60
+    religion: hindu
+    culture: kannadiga
+  1734.6.12:
+    death: yes
+myso_krishna_raja_ii_wodeyar:
+  1710.1.1:
+    birth: mysore #TODO: Date and location guessed, check if better data is available
+    first_name: krishna_raja
+    dynasty: wodeyar_dynasty
+    father: myso_chama_raja_vi_wodeyar_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 15
+    mil: 45
+    religion: hindu
+    culture: kannadiga
+  1761.6.3:
+    death: yes
+myso_krishna_raja_ii_wodeyar_1:
+  1704.1.1:
+    birth: mysore #TODO: Date and location guessed, check if better data is available
+    first_name: krishna_raja
+    dynasty: wodeyar_dynasty
+    adm: 15
+    dip: 15
+    mil: 45
+    religion: hindu
+    culture: kannadiga
+  1761.6.3:
+    death: yes
+myso_haydar_ali_wodeyar:
+  1730.1.1:
+    birth: mysore #TODO: Date and location guessed, check if better data is available
+    first_name: haydar_ali
+    dynasty: wodeyar_dynasty
+    father: myso_krishna_raja_ii_wodeyar_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 60
+    mil: 90
+    religion: hindu
+    culture: kannadiga
+  1782.12.8:
+    death: yes
+myso_haydar_ali_fatehi:
+  1731.1.1:
+    birth: mysore #TODO: Date and location guessed, check if better data is available
+    first_name: haydar_ali
+    dynasty: fatehi_dynasty
+    adm: 45
+    dip: 45
+    mil: 75
+    religion: sunni
+    culture: kannadiga
+  1782.12.8:
+    death: yes
+myso_tipu_sahib_fatehi:
+  1750.1.1:
+    birth: mysore #TODO: Date and location guessed, check if better data is available
+    first_name: tipu_sahib
+    dynasty: fatehi_dynasty
+    father: myso_haydar_ali_fatehi #TODO: check if this makes sense
+    adm: 30
+    dip: 60
+    mil: 75
+    religion: sunni
+    culture: kannadiga
+  1799.5.5:
+    death: yes
+myso_tipu_sahib_fatehi_1:
+  1752.1.1:
+    birth: mysore #TODO: Date and location guessed, check if better data is available
+    first_name: tipu_sahib
+    dynasty: fatehi_dynasty
+    adm: 30
+    dip: 75
+    mil: 90
+    religion: sunni
+    culture: kannadiga
+  1799.5.5:
+    death: yes
+myso_krishna_raja_iii_wodeyar:
+  1769.1.1:
+    birth: mysore #TODO: Date and location guessed, check if better data is available
+    first_name: krishna_raja
+    dynasty: wodeyar_dynasty
+    adm: 15
+    dip: 0
+    mil: 0
+    religion: hindu
+    culture: kannadiga
+  1868.3.27:
+    death: yes
+myso_chama_raja_x_wodeyar:
+  1863.1.1:
+    birth: mysore #TODO: Date and location guessed, check if better data is available
+    first_name: chama_raja
+    dynasty: wodeyar_dynasty
+    father: myso_krishna_raja_iii_wodeyar #TODO: check if this makes sense
+    adm: 75
+    dip: 45
+    mil: 60
+    religion: hindu
+    culture: kannadiga
+  1894.1.1:
+    death: yes
+myso_chama_raja_x_wodeyar_1:
+  1838.1.1:
+    birth: mysore #TODO: Date and location guessed, check if better data is available
+    first_name: chama_raja
+    dynasty: wodeyar_dynasty
+    adm: 75
+    dip: 45
+    mil: 60
+    religion: hindu
+    culture: kannadiga
+  1894.1.1:
+    death: yes
+myso_krishna_raja_iv_wodeyar:
+  1884.6.4:
+    birth: mysore #TODO: Location guessed, check if better data is available
+    first_name: krishna_raja
+    dynasty: wodeyar_dynasty
+    father: myso_chama_raja_x_wodeyar_1 #TODO: check if this makes sense
+    adm: 75
+    dip: 15
+    mil: 45
+    religion: hindu
+    culture: kannadiga
+  1940.8.3:
+    death: yes
+myso_krishna_raja_iv_wodeyar_1:
+  1864.1.1:
+    birth: mysore #TODO: Date and location guessed, check if better data is available
+    first_name: krishna_raja
+    dynasty: wodeyar_dynasty
+    adm: 75
+    dip: 15
+    mil: 45
+    religion: hindu
+    culture: kannadiga
+  1940.8.3:
+    death: yes
+myso_jayachamarajendra_wodeyar:
+  1919.7.18:
+    birth: mysore #TODO: Location guessed, check if better data is available
+    first_name: jayachamarajendra
+    dynasty: wodeyar_dynasty
+    father: myso_krishna_raja_iv_wodeyar_1 #TODO: check if this makes sense
+    adm: 60
+    dip: 75
+    mil: 45
+    religion: hindu
+    culture: kannadiga
+  1974.9.23:
+    death: yes
+myso_jayachamarajendra_wodeyar_1:
+  1910.1.1:
+    birth: mysore #TODO: Date and location guessed, check if better data is available
+    first_name: jayachamarajendra
+    dynasty: wodeyar_dynasty
+    adm: 60
+    dip: 75
+    mil: 45
+    religion: hindu
+    culture: kannadiga
+  3000.1.1:
+    death: yes

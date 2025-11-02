@@ -1,0 +1,191 @@
+#imported from EU4 file: history/provinces/2228 - Maymana.txt
+2.1.1:
+  owner: PART
+  controller: PART
+  cores:
+    PART: yes
+  resource: cotton
+  pop:
+    ethnicity: sogdian
+    religion: mahayana
+    estate: peasant
+    size: 1000
+50.1.1:
+  owner: KUSH
+  controller: KUSH
+  cores:
+    PART: no
+    KUSH: yes
+230.1.1:
+  owner: KSAS
+  controller: KSAS
+  cores:
+    KUSH: no
+    KSAS: yes
+350.1.1:
+  owner: KIDA
+  controller: KIDA
+  cores:
+    KSAS: no
+    KIDA: yes
+430.1.1:
+  owner: HEPH
+  controller: HEPH
+  cores:
+    KIDA: no
+    HEPH: yes
+560.1.1:
+  owner: ERA
+  controller: ERA
+  cores:
+    ERA: yes
+579.1.1:
+  owner: GUZG
+  controller: GUZG
+  cores:
+    ERA: no
+    GUZG: yes
+663.1.1:
+  owner: UMAY
+  controller: UMAY
+  cores:
+    UMAY: yes
+689.1.1:
+  owner: HEPH
+  controller: HEPH
+  cores:
+    HEPH: yes
+710.1.1:
+  owner: UMAY
+  controller: UMAY
+  cores:
+    HEPH: no
+750.8.6:
+  owner: ABBA
+  controller: ABBA
+  cores:
+    UMAY: no
+    ABBA: yes
+819.1.1:
+  owner: KRT
+  controller: KRT
+  cores:
+    ABBA: no
+    KRT: yes
+  pop:
+    ethnicity: tajik_culture
+    estate: peasant
+    size: 1000
+820.1.1:
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+870.1.1:
+  owner: GUZG
+  controller: GUZG
+  cores:
+    KRT: no
+    GUZG: yes
+1010.1.1:
+  owner: GHAZ
+  controller: GHAZ
+  cores:
+    GHAZ: yes
+1040.5.23:
+  owner: SELJ
+  controller: SELJ
+  cores:
+    GHAZ: no
+    SELJ: yes
+1152.1.1:
+  owner: GHOR
+  controller: GHOR
+  cores:
+    SELJ: no
+    GHOR: yes
+1200.1.1:
+  pop:
+    ethnicity: afghan_culture
+    estate: peasant
+    size: 1000
+1207.1.1:
+  owner: KHWA
+  controller: KHWA
+  cores:
+    GHOR: no
+    AFGH: yes
+1220.1.1:
+  owner: MGE
+  controller: MGE
+  cores:
+    MGE: yes
+1260.1.1:
+  owner: ILK
+  controller: ILK
+  cores:
+    MGE: no
+    ILK: yes
+1335.1.1:
+  owner: KRT
+  controller: KRT
+  cores:
+    ILK: no
+    KRT: yes
+1380.1.1:
+  owner: TIM
+  controller: TIM
+  cores:
+    KRT: no
+    TIM: yes
+    MUG: yes
+1449.2.1:
+  owner: KHOR
+  controller: KHOR
+  cores:
+    TIM: no
+1457.7.19:
+  controller: TIM
+1457.8.30:
+  owner: TIM
+  cores:
+    KHOR: no
+    TIM: yes
+1502.1.1:
+  owner: KHOR
+  controller: KHOR
+  cores:
+    KHOR: yes
+1507.7.1:
+  owner: TIM
+  controller: TIM
+  cores:
+    TIM: yes
+1526.4.21:
+  owner: MUG
+  controller: MUG
+  cores:
+    TIM: no
+    MUG: yes
+1566.6.1:
+  owner: AFGH
+  controller: AFGH
+1585.1.1:
+  owner: BUKH
+  controller: BUKH
+  cores:
+    MUG: no
+    BUKH: yes
+1737.1.1:
+  owner: IRA
+  controller: IRA
+1748.1.1:
+  owner: BUKH
+  controller: BUKH
+1751.1.1:
+  owner: AFGH
+  controller: AFGH
+2001.11.10:
+  controller: AFGH
+2021.8.19:
+  controller: AFGH

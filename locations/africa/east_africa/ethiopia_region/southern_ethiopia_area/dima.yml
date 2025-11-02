@@ -1,0 +1,44 @@
+#imported from EU4 file: history/provinces/1223 - Gojjam.txt
+2.1.1:
+  owner: AWI0
+  controller: AWI0
+  cores:
+    AWI0: yes
+  resource: coffee
+  pop:
+    ethnicity: agaw_culture
+    religion: bantu_religion
+    estate: peasant
+    size: 1000
+350.1.1:
+  owner: GJJ
+  controller: GJJ
+  cores:
+    AWI0: no
+    GJJ: yes
+  pop:
+    ethnicity: amhara
+    estate: peasant
+    size: 1000
+1240.1.1:
+  pop:
+    religion: miaphysite
+    estate: peasant
+    size: 1000
+1317.1.1:
+  owner: ETH
+  controller: ETH
+  cores:
+    ETH: yes
+1675.1.1:
+  resource: coffee
+1771.1.1:
+  controller: ETH
+1936.5.9:
+  owner: ITA
+  controller: ITA
+1941.4.27:
+  controller: GBR
+1941.11.27:
+  owner: ETH
+  controller: ETH

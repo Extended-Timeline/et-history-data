@@ -1,0 +1,84 @@
+#imported from EU4 file: history/provinces/150 - Pleven.txt
+2.1.1:
+  owner: ODRY
+  controller: ODRY
+  cores:
+    ODRY: yes
+  resource: grain
+  pop:
+    ethnicity: thracian
+    religion: zamolxism
+    estate: peasant
+    size: 1000
+46.1.1:
+  owner: ROM
+  controller: ROM
+  cores:
+    ROM: yes
+80.1.1:
+  cores:
+    ODRY: no
+350.1.1:
+  owner: VISG
+  controller: VISG
+  cores:
+    VISG: yes
+  pop:
+    religion: germanic
+    estate: peasant
+    size: 1000
+395.1.17:
+  cores:
+    ROM: no
+    BYZ: yes
+408.1.1:
+  owner: BYZ
+  controller: BYZ
+  cores:
+    VISG: no
+  pop:
+    religion: 
+    estate: peasant
+    size: 1000
+681.1.1:
+  owner: BUL
+  controller: BUL
+  cores:
+    BUL: yes
+  pop:
+    ethnicity: bulgarian
+    estate: peasant
+    size: 1000
+864.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+867.1.1:
+  pop:
+    religion: orthodox
+    estate: peasant
+    size: 1000
+1014.1.1:
+  owner: BYZ
+  controller: BYZ
+1185.1.1:
+  owner: BUL
+  controller: BUL
+1396.1.1:
+  owner: TUR
+  controller: TUR
+  cores:
+    BYZ: no
+    TUR: yes
+1413.1.1:
+  controller: TUR
+1878.1.17:
+  controller: RUS
+1878.3.3:
+  controller: TUR
+1878.7.13:
+  owner: BUL
+  controller: BUL
+  cores:
+    TUR: no

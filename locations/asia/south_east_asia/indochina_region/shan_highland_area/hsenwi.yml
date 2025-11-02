@@ -1,0 +1,60 @@
+#imported from EU4 file: history/provinces/583 - Hsenwi.txt
+2.1.1:
+  owner: AILA
+  controller: AILA
+  cores:
+    AILA: yes
+  resource: tropical_wood
+  pop:
+    ethnicity: tai_lu_culture
+    religion: satsana_phi
+    estate: peasant
+    size: 1000
+560.1.1:
+  owner: HSE
+  controller: HSE
+  cores:
+    AILA: no
+    HSE: yes
+820.1.1:
+  owner: NANZ
+  controller: NANZ
+  cores:
+    NANZ: yes
+850.1.1:
+  pop:
+    religion: tibetan_buddhism
+    estate: peasant
+    size: 1000
+937.1.1:
+  owner: CDL
+  controller: CDL
+  cores:
+    NANZ: no
+    CDL: yes
+1080.1.1:
+  pop:
+    religion: theravada
+    estate: peasant
+    size: 1000
+1253.1.1:
+  owner: HSE
+  controller: HSE
+  cores:
+    CDL: no
+    HSE: yes
+1767.11.1:
+  controller: QNG
+1769.1.1:
+  controller: HSE
+1959.1.1:
+  owner: BURM
+  controller: BURM
+  cores:
+    BURM: yes
+1989.1.1:
+  owner: MYAN
+  controller: MYAN
+  cores:
+    BURM: no
+    MYAN: yes

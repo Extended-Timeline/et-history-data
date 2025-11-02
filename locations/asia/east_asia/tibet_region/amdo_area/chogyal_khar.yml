@@ -1,0 +1,93 @@
+#imported from EU4 file: history/provinces/2134 - Amdo.txt
+2.1.1:
+  owner: QIAN
+  controller: QIAN
+  cores:
+    QIAN: yes
+  resource: livestock
+  pop:
+    ethnicity: amdowa_culture
+    religion: bon
+    estate: peasant
+    size: 1000
+284.1.1:
+  owner: TUYU
+  controller: TUYU
+  cores:
+    QIAN: no
+    TUYU: yes
+300.1.1:
+  pop:
+    religion: 
+    estate: peasant
+    size: 1000
+670.1.1:
+  owner: TIB
+  controller: TIB
+  cores:
+    TIB: yes
+680.1.1:
+  pop:
+    religion: tibetan_buddhism
+    estate: peasant
+    size: 1000
+842.1.1:
+  owner: PHAG
+  controller: PHAG
+  cores:
+    TIB: no
+    PHAG: yes
+878.1.1:
+  owner: AMD
+  controller: AMD
+  cores:
+    PHAG: no
+    AMD: yes
+997.1.1:
+  owner: TSON
+  controller: TSON
+  cores:
+    AMD: no
+    TSON: yes
+1104.1.1:
+  owner: AMD
+  controller: AMD
+  cores:
+    AMD: yes
+1240.1.1:
+  owner: TIB
+  controller: TIB
+  cores:
+    TIB: yes
+1354.1.1:
+  owner: AMD
+  controller: AMD
+  cores:
+    TIB: no
+    AMD: yes
+1637.6.1:
+  owner: KHOS
+  controller: KHOS
+  cores:
+    KHOS: yes
+1717.1.1:
+  owner: ZUNG
+  controller: ZUNG
+1720.1.1:
+  owner: KHOS
+  controller: KHOS
+  cores:
+    KHOS: yes
+1724.1.1:
+  owner: QNG
+  controller: QNG
+  cores:
+    QNG: yes
+1912.2.12:
+  owner: CHI
+  controller: CHI
+  cores:
+    QNG: no
+    CHI: yes
+1949.10.1:
+  controller: CHI

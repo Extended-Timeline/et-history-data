@@ -1,0 +1,121 @@
+#imported from EU4 file: history/provinces/54 - Bremen.txt
+2.1.1:
+  owner: CHCI
+  controller: CHCI
+  cores:
+    CHCI: yes
+  resource: fish
+  pop:
+    ethnicity: eastphalian
+    religion: germanic
+    estate: peasant
+    size: 1000
+300.1.1:
+  owner: SAX
+  controller: SAX
+  cores:
+    SAX: yes
+350.1.1:
+  pop:
+    ethnicity: lower_saxon
+    estate: peasant
+    size: 1000
+747.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+804.1.1:
+  owner: FRAN
+  controller: FRAN
+  cores:
+    FRAN: yes
+840.6.21:
+  owner: EFRA
+  controller: EFRA
+  cores:
+    FRAN: no
+    EFRA: yes
+867.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+911.11.10:
+  owner: SAX
+  controller: SAX
+  cores:
+    EFRA: no
+1180.3.1:
+  owner: VRD
+  controller: VRD
+  cores:
+    SAX: no
+    VRD: yes
+1529.1.1:
+  pop:
+    religion: lutheran
+    estate: peasant
+    size: 1000
+1648.10.24:
+  owner: SWE
+  controller: SWE
+  cores:
+    SWE: yes
+1719.9.30:
+  owner: HAN
+  controller: HAN
+  cores:
+    SWE: no
+    HAN: yes
+1803.7.5:
+  controller: FRA
+1805.12.15:
+  owner: PRU
+  controller: PRU
+  cores:
+    HAN: no
+    PRU: yes
+1807.7.9:
+  owner: WES
+  controller: WES
+  cores:
+    PRU: no
+    WES: yes
+1810.12.13:
+  owner: FRA
+  controller: FRA
+  cores:
+    WES: no
+    FRA: yes
+1814.4.11:
+  owner: HAN
+  controller: HAN
+  cores:
+    FRA: no
+    HAN: yes
+1866.8.23:
+  owner: PRU
+  controller: PRU
+  cores:
+    HAN: no
+    PRU: yes
+1871.1.18:
+  owner: GER
+  controller: GER
+  cores:
+    PRU: no
+    GER: yes
+1900.1.1:
+  cores:
+    BRM: no
+1945.5.8:
+  owner: WGER
+  controller: WGER
+  cores:
+    WGER: yes
+1990.10.3:
+  owner: GER
+  controller: GER
+  cores:
+    WGER: no

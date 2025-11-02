@@ -1,0 +1,56 @@
+#imported from EU4 file: history/provinces/4633 - Sobaipuri.txt
+2.1.1:
+  owner: HHK
+  controller: HHK
+  cores:
+    HHK: yes
+  resource: salt
+  pop:
+    ethnicity: pima_culture
+    religion: iroquoian_totemism
+    estate: peasant
+    size: 1000
+1375.1.1:
+  owner: ---
+  controller: ---
+  cores:
+    HHK: no
+1731.1.1:
+  owner: SPA
+  controller: SPA
+  cores:
+    SPA: yes
+  pop:
+    ethnicity: castilian
+    religion: catholic
+    estate: peasant
+    size: 1000
+1770.1.1:
+  pop:
+    ethnicity: mexican
+    estate: peasant
+    size: 1000
+1810.9.16:
+  owner: MEX
+  controller: SPA
+  cores:
+    MEX: yes
+1821.9.27:
+  controller: MEX
+  cores:
+    SPA: no
+1846.12.16:
+  controller: USA
+1848.2.2:
+  controller: MEX
+1853.12.30:
+  owner: USA
+  controller: USA
+  cores:
+    MEX: no
+    USA: yes
+1940.1.1:
+  pop:
+    ethnicity: british_californian
+    estate: peasant
+    size: 1000

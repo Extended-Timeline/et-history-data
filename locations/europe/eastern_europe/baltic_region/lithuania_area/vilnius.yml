@@ -1,0 +1,81 @@
+#imported from EU4 file: history/provinces/272 - Lithuania.txt
+2.1.1:
+  pop:
+    ethnicity: aukstaitian
+    religion: romuva
+    estate: peasant
+    size: 1000
+550.1.1:
+  owner: LIT
+  controller: LIT
+  cores:
+    LIT: yes
+  resource: grain
+1387.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+1569.7.1:
+  owner: PLC
+  controller: PLC
+  cores:
+    PLC: yes
+1700.1.1:
+  pop:
+    ethnicity: lesser_polish
+    estate: peasant
+    size: 1000
+1795.10.24:
+  owner: RUS
+  controller: RUS
+  cores:
+    RUS: yes
+1812.6.28:
+  controller: FRA
+1812.12.10:
+  controller: RUS
+1915.9.19:
+  controller: GER
+1918.2.16:
+  owner: LIT
+  cores:
+    LIT: yes
+1918.3.3:
+  cores:
+    RUS: no
+1918.12.20:
+  controller: BELA
+1920.7.12:
+  owner: BELA
+  cores:
+    BELA: yes
+1921.3.18:
+  owner: POL
+  controller: POL
+  cores:
+    BELA: no
+    POL: yes
+1939.9.19:
+  controller: SOVI
+1939.10.6:
+  owner: SOVI
+  cores:
+    SOVI: yes
+1941.6.24:
+  controller: GER
+1944.7.1:
+  controller: SOVI
+1945.1.1:
+  pop:
+    ethnicity: aukstaitian
+    estate: peasant
+    size: 1000
+1945.5.8:
+  cores:
+    POL: no
+1990.3.11:
+  owner: LIT
+  controller: LIT
+  cores:
+    SOVI: no

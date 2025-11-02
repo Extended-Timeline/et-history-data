@@ -1,0 +1,55 @@
+#imported from EU4 file: history/provinces/4259 - Velsk.txt
+2.1.1:
+  pop:
+    ethnicity: vepsian
+    religion: muinaisusko
+    estate: peasant
+    size: 1000
+750.1.1:
+  owner: VEPS
+  controller: VEPS
+  cores:
+    VEPS: yes
+  resource: fur
+1146.1.1:
+  owner: NOV
+  controller: NOV
+  cores:
+    VEPS: no
+    NOV: yes
+1160.1.1:
+  pop:
+    ethnicity: novgorodian
+    estate: peasant
+    size: 1000
+1200.1.1:
+  pop:
+    religion: orthodox
+    estate: peasant
+    size: 1000
+1462.1.1:
+  owner: MOS
+  controller: MOS
+  cores:
+    NOV: no
+    MOS: yes
+1503.4.1:
+  owner: RUS
+  controller: RUS
+  cores:
+    MOS: no
+    RUS: yes
+1850.1.1:
+  resource: naval_supplies
+1922.12.30:
+  owner: SOVI
+  controller: SOVI
+  cores:
+    RUS: no
+    SOVI: yes
+1991.12.25:
+  owner: RUS
+  controller: RUS
+  cores:
+    SOVI: no
+    RUS: yes

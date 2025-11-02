@@ -1,0 +1,155 @@
+#imported from EU4 file: history/provinces/2078 - Sind Sagar.txt
+2.1.1:
+  owner: IPAR
+  controller: IPAR
+  cores:
+    IPAR: yes
+  resource: livestock
+  pop:
+    ethnicity: punjabi
+    religion: hindu
+    estate: peasant
+    size: 1000
+76.1.1:
+  owner: KUSH
+  controller: KUSH
+  cores:
+    IPAR: no
+    KUSH: yes
+270.1.1:
+  owner: ABHI
+  controller: ABHI
+  cores:
+    KUSH: no
+    ABHI: yes
+350.1.1:
+  owner: KIDA
+  controller: KIDA
+  cores:
+    ABHI: no
+    KIDA: yes
+430.1.1:
+  owner: KAPI
+  controller: KAPI
+  cores:
+    KIDA: no
+    KAPI: yes
+530.1.1:
+  owner: GAND
+  controller: GAND
+  cores:
+    KAPI: no
+    GAND: yes
+590.1.1:
+  owner: SHI
+  controller: SHI
+  cores:
+    KAPI: no
+    SHI: yes
+870.1.1:
+  owner: SIST
+  controller: SIST
+  cores:
+    SHI: no
+    SIST: yes
+900.1.1:
+  owner: SHI
+  controller: SHI
+  cores:
+    SIST: no
+    SHI: yes
+1002.1.1:
+  owner: GHAZ
+  controller: GHAZ
+  cores:
+    GHAZ: yes
+1150.1.1:
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+1175.1.1:
+  owner: GHOR
+  controller: GHOR
+  cores:
+    GHAZ: no
+    GHOR: yes
+1210.1.1:
+  owner: MULT
+  controller: MULT
+  cores:
+    GHOR: no
+    MULT: yes
+1228.1.1:
+  owner: DLH
+  controller: DLH
+  cores:
+    DLH: yes
+    PUN: yes
+1398.1.1:
+  owner: MULT
+  controller: MULT
+  cores:
+    DLH: no
+    MULT: yes
+1414.1.1:
+  owner: DLH
+  controller: DLH
+1437.1.1:
+  owner: MULT
+  controller: MULT
+1526.1.1:
+  owner: SND
+  controller: SND
+1527.1.1:
+  owner: MUG
+  controller: MUG
+  cores:
+    MUG: yes
+1544.1.1:
+  owner: BNG
+  controller: BNG
+  cores:
+    BNG: yes
+1553.1.1:
+  owner: MULT
+  controller: MULT
+  cores:
+    BNG: no
+1557.7.1:
+  owner: MUG
+  controller: MUG
+  cores:
+    MUG: yes
+1738.1.1:
+  controller: IRA
+1739.5.1:
+  owner: IRA
+  cores:
+    IRA: yes
+1747.10.1:
+  owner: AFGH
+  controller: AFGH
+  cores:
+    MUG: no
+    AFGH: yes
+1834.1.1:
+  owner: PUN
+  controller: PUN
+  cores:
+    AFGH: no
+    PUN: yes
+1849.1.1:
+  owner: GBR
+  controller: GBR
+  cores:
+    GBR: yes
+1930.12.29:
+  cores:
+    PUN: no
+    PAKI: yes
+1947.8.14:
+  owner: PAKI
+  controller: PAKI
+  cores:
+    GBR: no

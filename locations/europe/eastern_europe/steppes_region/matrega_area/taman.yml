@@ -1,0 +1,176 @@
+#imported from EU4 file: history/provinces/2447 - Matrega.txt
+2.1.1:
+  owner: BOSP
+  controller: BOSP
+  cores:
+    BOSP: yes
+    ROM: yes
+  resource: livestock
+  pop:
+    ethnicity: pontic_greek_culture
+    religion: hellenism_religion
+    estate: peasant
+    size: 1000
+63.1.1:
+  owner: ROM
+  controller: ROM
+68.1.1:
+  owner: BOSP
+  controller: BOSP
+370.1.1:
+  owner: HUNS
+  controller: HUNS
+  cores:
+    ROM: no
+    HUNS: yes
+420.1.1:
+  cores:
+    UTIG: yes
+450.1.1:
+  pop:
+    religion: 
+    estate: peasant
+    size: 1000
+469.1.1:
+  owner: UTIG
+  controller: UTIG
+  cores:
+    HUNS: no
+632.1.1:
+  owner: BUL
+  controller: BUL
+  cores:
+    UTIG: no
+    BUL: yes
+720.1.1:
+  owner: KHAZ
+  controller: KHAZ
+  cores:
+    BUL: no
+    KHAZ: yes
+  pop:
+    ethnicity: khazar
+    estate: peasant
+    size: 1000
+988.1.1:
+  owner: TMUT
+  controller: TMUT
+  cores:
+    KHAZ: no
+    TMUT: yes
+990.1.1:
+  pop:
+    religion: orthodox
+    estate: peasant
+    size: 1000
+1035.1.1:
+  owner: KIEV
+  controller: KIEV
+  cores:
+    KIEV: yes
+1054.2.20:
+  owner: TMUT
+  controller: TMUT
+  cores:
+    KIEV: no
+    TMUT: yes
+1094.1.1:
+  owner: CUMA
+  controller: CUMA
+  cores:
+    CUMA: yes
+  pop:
+    ethnicity: cuman_culture
+    estate: peasant
+    size: 1000
+1120.1.1:
+  pop:
+    ethnicity: crimean
+    estate: peasant
+    size: 1000
+1237.1.1:
+  owner: MGE
+  controller: MGE
+  cores:
+    CUMA: no
+    MGE: yes
+    CRIM: yes
+  pop:
+    ethnicity: crimean
+    estate: peasant
+    size: 1000
+1240.1.1:
+  cores:
+    CIR: yes
+  pop:
+    ethnicity: circassian_culture
+    estate: peasant
+    size: 1000
+1260.1.1:
+  owner: WHHO
+  controller: WHHO
+  cores:
+    MGE: no
+    WHHO: yes
+1300.1.1:
+  owner: GEN
+  controller: GEN
+  cores:
+    WHHO: no
+    GEN: yes
+1441.1.1:
+  cores:
+    CRIM: yes
+1475.5.1:
+  owner: TUR
+  controller: TUR
+  cores:
+    TUR: yes
+1784.1.2:
+  pop:
+    ethnicity: nogai
+    religion: sunni
+    estate: peasant
+    size: 1000
+1791.6.22:
+  controller: RUS
+1792.6.12:
+  owner: RUS
+  cores:
+    RUS: yes
+  pop:
+    ethnicity: ruthenian
+    religion: orthodox
+    estate: peasant
+    size: 1000
+1918.2.20:
+  owner: UKR
+  controller: UKR
+  cores:
+    UKR: yes
+1919.11.7:
+  owner: RUS
+  controller: RUS
+  cores:
+    UKR: no
+1922.12.30:
+  owner: SOVI
+  controller: SOVI
+  cores:
+    RUS: no
+    SOVI: yes
+1933.1.1:
+  pop:
+    ethnicity: muscovite
+    estate: peasant
+    size: 1000
+1942.9.10:
+  controller: GER
+1943.9.16:
+  controller: SOVI
+1991.12.25:
+  owner: RUS
+  controller: RUS
+  cores:
+    SOVI: no
+    RUS: yes

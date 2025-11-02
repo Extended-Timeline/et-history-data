@@ -1,0 +1,236 @@
+#imported from EU4 file: history/provinces/707 - Yumen.txt
+2.1.1:
+  owner: HAN0
+  controller: HAN0
+  cores:
+    HAN0: yes
+    WEI0: yes
+  resource: livestock
+  pop:
+    ethnicity: amdowa_culture
+    religion: mahayana
+    estate: peasant
+    size: 1000
+9.1.10:
+  owner: XIN0
+  controller: XIN0
+  cores:
+    XIN0: yes
+23.10.5:
+  owner: HAN0
+  controller: HAN0
+  cores:
+    XIN0: no
+107.1.1:
+  cores:
+    LIAN: yes
+118.1.1:
+  controller: HAN0
+189.5.13:
+  owner: LIAN
+  controller: LIAN
+189.9.28:
+  cores:
+    HAN0: no
+214.1.1:
+  owner: WEI0
+  controller: WEI0
+  cores:
+    WEI0: yes
+266.2.4:
+  owner: JIN1
+  controller: JIN1
+  cores:
+    WEI0: no
+    JIN1: yes
+272.1.1:
+  cores:
+    LIAN: yes
+276.1.1:
+  controller: JIN1
+279.1.1:
+  owner: LIAN
+  controller: LIAN
+279.12.1:
+  owner: JIN1
+  controller: JIN1
+314.3.4:
+  owner: LIAN
+  controller: LIAN
+  cores:
+    JIN1: no
+376.9.26:
+  owner: QIN0
+  controller: QIN0
+  cores:
+    QIN0: yes
+386.1.1:
+  owner: LIAN
+  controller: LIAN
+  cores:
+    QIN0: no
+398.1.1:
+  owner: NLIA
+  controller: NLIA
+  cores:
+    LIAN: no
+    NLIA: yes
+400.1.1:
+  owner: WLIA
+  controller: WLIA
+  cores:
+    NLIA: no
+    WLIA: yes
+421.1.1:
+  owner: NLIA
+  controller: NLIA
+  cores:
+    WLIA: no
+    NLIA: yes
+439.1.1:
+  owner: WEI0
+  controller: WEI0
+  cores:
+    NLIA: no
+    WEI0: yes
+520.1.1:
+  owner: TUYU
+  controller: TUYU
+  cores:
+    WEI0: no
+    TUYU: yes
+590.1.1:
+  owner: SUI0
+  controller: SUI0
+  cores:
+    TUYU: no
+    SUI0: yes
+617.5.13:
+  owner: WLIA
+  controller: WLIA
+  cores:
+    SUI0: no
+    WLIA: yes
+619.6.29:
+  owner: TANG
+  controller: TANG
+  cores:
+    WLIA: no
+    TANG: yes
+763.1.1:
+  owner: TIB
+  controller: TIB
+  cores:
+    TANG: no
+    TIB: yes
+800.1.1:
+  pop:
+    religion: tibetan_buddhism
+    estate: peasant
+    size: 1000
+840.1.1:
+  pop:
+    ethnicity: uyghur_culture
+    estate: peasant
+    size: 1000
+842.1.1:
+  owner: PHAG
+  controller: PHAG
+  cores:
+    TIB: no
+    PHAG: yes
+843.1.1:
+  owner: UYGH
+  controller: UYGH
+  cores:
+    UTSA: no
+    UYGH: yes
+848.1.1:
+  owner: GUIY
+  controller: GUIY
+  cores:
+    UYGH: no
+    GUIY: yes
+1036.1.1:
+  owner: TAGT
+  controller: TAGT
+  cores:
+    GUIY: no
+    TAGT: yes
+1038.1.1:
+  owner: XIA0
+  controller: XIA0
+  cores:
+    TAGT: no
+    XIA0: yes
+1227.1.1:
+  owner: MGE
+  controller: MGE
+  cores:
+    XIA0: no
+    MGE: yes
+    CSH: yes
+1271.1.1:
+  owner: YUA
+  controller: YUA
+  cores:
+    MGE: no
+    YUA: yes
+1300.1.1:
+  pop:
+    ethnicity: xibei
+    estate: peasant
+    size: 1000
+1368.1.23:
+  owner: MGE
+  controller: MGE
+  cores:
+    YUA: no
+    MGE: yes
+1382.1.1:
+  owner: MNG
+  controller: MNG
+  cores:
+    MGE: no
+    MNG: yes
+1440.1.1:
+  owner: HAMI
+  controller: HAMI
+  cores:
+    MNG: no
+    HAMI: yes
+1513.1.1:
+  owner: TURP
+  controller: TURP
+  cores:
+    TURP: yes
+1570.1.1:
+  owner: YARK
+  controller: YARK
+  cores:
+    TURP: no
+    YARK: yes
+1662.1.1:
+  cores:
+    MNG: no
+1682.1.1:
+  owner: ZUNG
+  controller: ZUNG
+  cores:
+    ZUNG: yes
+1755.1.1:
+  owner: QNG
+  controller: QNG
+  cores:
+    QNG: yes
+1912.2.12:
+  owner: CHI
+  controller: CHI
+  cores:
+    QNG: no
+    CSH: no
+    CHI: yes
+1920.1.1:
+  resource: coal
+1949.10.1:
+  controller: CHI

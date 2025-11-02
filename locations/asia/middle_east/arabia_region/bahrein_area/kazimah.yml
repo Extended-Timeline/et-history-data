@@ -1,0 +1,142 @@
+#imported from EU4 file: history/provinces/2340 - Kuwait.txt
+2.1.1:
+  owner: CHRC
+  controller: CHRC
+  cores:
+    CHRC: yes
+  resource: fish
+  pop:
+    ethnicity: bahrani_culture
+    religion: ashurism
+    estate: peasant
+    size: 1000
+120.1.1:
+  pop:
+    religion: zoroastrian
+    estate: peasant
+    size: 1000
+220.1.1:
+  owner: LAKH
+  controller: LAKH
+  cores:
+    LAKH: yes
+325.1.1:
+  owner: ERA
+  controller: ERA
+  cores:
+    LAKH: no
+    ERA: yes
+639.1.1:
+  owner: RASH
+  controller: RASH
+  cores:
+    ERA: no
+    RASH: yes
+  pop:
+    religion: islam
+    estate: peasant
+    size: 1000
+661.7.28:
+  owner: UMAY
+  controller: UMAY
+  cores:
+    RASH: no
+    UMAY: yes
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+750.8.6:
+  owner: ABBA
+  controller: ABBA
+  cores:
+    UMAY: no
+    ABBA: yes
+944.1.1:
+  owner: IRAQ
+  controller: IRAQ
+  cores:
+    IRAQ: yes
+978.3.1:
+  owner: IRA
+  controller: IRA
+  cores:
+    IRA: yes
+983.3.26:
+  owner: IRAQ
+  controller: IRAQ
+987.1.1:
+  owner: IRA
+  controller: IRA
+1021.1.1:
+  owner: IRAQ
+  controller: IRAQ
+1044.3.1:
+  owner: IRA
+  controller: IRA
+1048.10.1:
+  owner: IRAQ
+  controller: IRAQ
+1055.12.17:
+  owner: SELJ
+  controller: SELJ
+  cores:
+    IRA: no
+    SELJ: yes
+1153.1.1:
+  owner: ABBA
+  controller: ABBA
+  cores:
+    SELJ: no
+    ABBA: yes
+1258.2.10:
+  owner: MGE
+  controller: MGE
+  cores:
+    ABBA: no
+    MGE: yes
+    IRAQ: yes
+1260.1.1:
+  owner: ILK
+  controller: ILK
+  cores:
+    MGE: no
+    ILK: yes
+1335.1.1:
+  owner: ALHA
+  controller: ALHA
+  cores:
+    ILK: no
+    ALHA: yes
+1549.1.1:
+  owner: TUR
+  controller: TUR
+  cores:
+    TUR: yes
+1725.1.1:
+  owner: ALHA
+  controller: ALHA
+  cores:
+    TUR: no
+1752.1.1:
+  owner: KUWA
+  controller: KUWA
+  cores:
+    ALHA: no
+    KUWA: yes
+1922.1.1:
+  cores:
+    IRAQ: yes
+1951.1.1:
+  resource: oil
+1990.8.2:
+  controller: IRAQ
+1990.8.4:
+  controller: KUWA
+1990.8.28:
+  controller: IRAQ
+1991.2.23:
+  controller: KUWA
+1994.1.1:
+  cores:
+    IRAQ: no

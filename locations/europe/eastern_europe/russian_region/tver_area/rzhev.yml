@@ -1,0 +1,87 @@
+#imported from EU4 file: history/provinces/1752 - Rzhev.txt
+2.1.1:
+  pop:
+    ethnicity: muscovite
+    religion: slavic
+    estate: peasant
+    size: 1000
+550.1.1:
+  owner: VYAT
+  controller: VYAT
+  cores:
+    VYAT: yes
+  resource: grain
+865.1.1:
+  owner: NOV
+  controller: NOV
+  cores:
+    VYAT: no
+    NOV: yes
+882.1.1:
+  owner: KIEV
+  controller: KIEV
+  cores:
+    NOV: no
+    KIEV: yes
+1054.2.20:
+  owner: NOV
+  controller: NOV
+  cores:
+    KIEV: no
+    NOV: yes
+1140.1.1:
+  pop:
+    religion: orthodox
+    estate: peasant
+    size: 1000
+1240.1.1:
+  owner: SMO
+  controller: SMO
+  cores:
+    NOV: no
+    SMO: yes
+1246.1.1:
+  cores:
+    TVE: yes
+1395.1.1:
+  owner: MOS
+  controller: MOS
+  cores:
+    SMO: no
+    MOS: yes
+1446.1.1:
+  owner: TVE
+  controller: TVE
+1448.1.1:
+  owner: LIT
+  controller: LIT
+  cores:
+    LIT: yes
+1449.1.1:
+  owner: TVE
+  controller: TVE
+  cores:
+    LIT: no
+1485.9.11:
+  owner: MOS
+  controller: MOS
+  cores:
+    TVE: no
+1503.4.1:
+  owner: RUS
+  controller: RUS
+  cores:
+    MOS: no
+    RUS: yes
+1922.12.30:
+  owner: SOVI
+  controller: SOVI
+  cores:
+    RUS: no
+    SOVI: yes
+1991.12.25:
+  owner: RUS
+  controller: RUS
+  cores:
+    SOVI: no
+    RUS: yes

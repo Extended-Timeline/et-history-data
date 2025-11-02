@@ -1,0 +1,427 @@
+gbr_anne_i_stuart:
+  1672.1.1:
+    birth: london #TODO: Date and location guessed, check if better data is available
+    first_name: anne
+    dynasty: stuart_dynasty
+    female: yes
+    adm: 45
+    dip: 75
+    mil: 60
+    religion: anglican
+    culture: english
+  1714.8.1:
+    death: yes
+gbr_george_von_oldenburg:
+  1653.4.2:
+    birth: london #TODO: Location guessed, check if better data is available
+    first_name: george
+    dynasty: von_oldenburg_dynasty
+    adm: 15
+    dip: 15
+    mil: 15
+    religion: anglican
+    culture: english
+  1708.10.28:
+    death: yes
+  1702.3.8:
+    spouse: gbr_anne_i_stuart #TODO: date guessed, see if better data is available
+gbr_sophia_i_von_wittelsbach:
+  1630.10.14:
+    birth: london #TODO: Location guessed, check if better data is available
+    first_name: sophia
+    dynasty: von_wittelsbach_dynasty
+    female: yes
+    father: gbr_anne_i_stuart #TODO: check if this makes sense
+    adm: 45
+    dip: 60
+    mil: 30
+    religion: anglican
+    culture: english
+  1714.6.8:
+    death: yes
+gbr_george_i_von_hannover:
+  1660.5.28:
+    birth: london #TODO: Location guessed, check if better data is available
+    first_name: george
+    dynasty: von_hannover_dynasty
+    father: gbr_anne_i_stuart #TODO: check if this makes sense
+    adm: 45
+    dip: 45
+    mil: 75
+    religion: anglican
+    culture: english
+  1727.6.11:
+    death: yes
+gbr_george_i_von_hannover_1:
+  1684.1.1:
+    birth: london #TODO: Date and location guessed, check if better data is available
+    first_name: george
+    dynasty: von_hannover_dynasty
+    adm: 45
+    dip: 45
+    mil: 75
+    religion: anglican
+    culture: english
+  1727.6.11:
+    death: yes
+gbr_george_ii_von_hannover:
+  1683.11.9:
+    birth: london #TODO: Location guessed, check if better data is available
+    first_name: george
+    dynasty: von_hannover_dynasty
+    father: gbr_george_i_von_hannover_1 #TODO: check if this makes sense
+    adm: 60
+    dip: 45
+    mil: 60
+    religion: anglican
+    culture: english
+  1760.10.25:
+    death: yes
+gbr_george_ii_von_hannover_1:
+  1697.1.1:
+    birth: london #TODO: Date and location guessed, check if better data is available
+    first_name: george
+    dynasty: von_hannover_dynasty
+    adm: 60
+    dip: 45
+    mil: 60
+    religion: anglican
+    culture: english
+  1760.10.25:
+    death: yes
+gbr_caroline_von_hohenzollern:
+  1683.3.1:
+    birth: london #TODO: Location guessed, check if better data is available
+    first_name: caroline
+    dynasty: von_hohenzollern_dynasty
+    female: yes
+    adm: 60
+    dip: 45
+    mil: 45
+    religion: anglican
+    culture: english
+  1737.11.20:
+    death: yes
+  1727.6.11:
+    spouse: gbr_george_ii_von_hannover_1 #TODO: date guessed, see if better data is available
+gbr_frederick_i_von_hannover:
+  1707.2.1:
+    birth: london #TODO: Location guessed, check if better data is available
+    first_name: frederick
+    dynasty: von_hannover_dynasty
+    father: gbr_george_iv_von_hannover #TODO: check if this makes sense
+    adm: 45
+    dip: 30
+    mil: 45
+    religion: anglican
+    culture: english
+  1751.3.20:
+    death: yes
+gbr_george_iii_von_hannover:
+  1738.6.4:
+    birth: london #TODO: Location guessed, check if better data is available
+    first_name: george
+    dynasty: von_hannover_dynasty
+    father: gbr_george_ii_von_hannover_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 15
+    mil: 60
+    religion: anglican
+    culture: english
+  1820.1.29:
+    death: yes
+gbr_george_iii_von_hannover_1:
+  1730.1.1:
+    birth: london #TODO: Date and location guessed, check if better data is available
+    first_name: george
+    dynasty: von_hannover_dynasty
+    adm: 15
+    dip: 15
+    mil: 60
+    religion: anglican
+    culture: english
+  1811.1.5:
+    death: yes
+gbr_charlotte_von_mecklenburg:
+  1683.3.1:
+    birth: london #TODO: Location guessed, check if better data is available
+    first_name: charlotte
+    dynasty: von_mecklenburg_dynasty
+    female: yes
+    adm: 15
+    dip: 30
+    mil: 15
+    religion: anglican
+    culture: english
+  1737.11.20:
+    death: yes
+  1761.9.8:
+    spouse: gbr_george_iii_von_hannover_1 #TODO: date guessed, see if better data is available
+gbr_george_iv_von_hannover:
+  1762.8.12:
+    birth: london #TODO: Location guessed, check if better data is available
+    first_name: george
+    dynasty: von_hannover_dynasty
+    adm: 30
+    dip: 45
+    mil: 45
+    religion: anglican
+    culture: english
+  1830.6.26:
+    death: yes
+gbr_caroline_von_welf:
+  1768.5.17:
+    birth: london #TODO: Location guessed, check if better data is available
+    first_name: caroline
+    dynasty: von_welf_dynasty
+    female: yes
+    adm: 30
+    dip: 45
+    mil: 30
+    religion: anglican
+    culture: english
+  1821.8.7:
+    death: yes
+  1811.1.5:
+    spouse: gbr_george_iv_von_hannover #TODO: date guessed, see if better data is available
+gbr_charlotte_i_von_hannover:
+  1796.1.7:
+    birth: london #TODO: Location guessed, check if better data is available
+    first_name: charlotte
+    dynasty: von_hannover_dynasty
+    female: yes
+    father: gbr_george_iv_von_hannover #TODO: check if this makes sense
+    adm: 45
+    dip: 45
+    mil: 30
+    religion: anglican
+    culture: english
+  1817.11.6:
+    death: yes
+gbr_frederick_i_von_hannover_1:
+  1763.8.16:
+    birth: london #TODO: Location guessed, check if better data is available
+    first_name: frederick
+    dynasty: von_hannover_dynasty
+    father: gbr_george_iv_von_hannover #TODO: check if this makes sense
+    adm: 60
+    dip: 30
+    mil: 45
+    religion: anglican
+    culture: english
+  1827.1.5:
+    death: yes
+gbr_william_iv_von_hannover:
+  1765.8.21:
+    birth: london #TODO: Location guessed, check if better data is available
+    first_name: william
+    dynasty: von_hannover_dynasty
+    adm: 30
+    dip: 30
+    mil: 30
+    religion: anglican
+    culture: english
+  1837.6.20:
+    death: yes
+gbr_adelaide_von_saxe_meiningen:
+  1792.8.13:
+    birth: london #TODO: Location guessed, check if better data is available
+    first_name: adelaide
+    dynasty: von_saxe_meiningen_dynasty
+    female: yes
+    adm: 30
+    dip: 45
+    mil: 15
+    religion: anglican
+    culture: english
+  1849.12.2:
+    death: yes
+  1830.6.26:
+    spouse: gbr_william_iv_von_hannover #TODO: date guessed, see if better data is available
+gbr_victoria_i_von_hannover:
+  1819.5.24:
+    birth: london #TODO: Location guessed, check if better data is available
+    first_name: victoria
+    dynasty: von_hannover_dynasty
+    female: yes
+    adm: 75
+    dip: 60
+    mil: 45
+    religion: secularism
+    culture: english
+  1901.1.22:
+    death: yes
+gbr_albert_von_saxe_coburg:
+  1819.8.26:
+    birth: london #TODO: Location guessed, check if better data is available
+    first_name: albert
+    dynasty: von_saxe_coburg_dynasty
+    adm: 60
+    dip: 30
+    mil: 60
+    religion: anglican
+    culture: english
+  1861.12.14:
+    death: yes
+  1840.2.10:
+    spouse: gbr_victoria_i_von_hannover #TODO: date guessed, see if better data is available
+gbr_edward_vii_von_saxe_coburg:
+  1841.11.9:
+    birth: london #TODO: Location guessed, check if better data is available
+    first_name: edward
+    dynasty: von_saxe_coburg_dynasty
+    adm: 60
+    dip: 45
+    mil: 60
+    religion: secularism
+    culture: english
+  1910.5.6:
+    death: yes
+gbr_alexandra_von_gla_1/4cksburg:
+  1844.12.1:
+    birth: london #TODO: Location guessed, check if better data is available
+    first_name: alexandra
+    dynasty: von_gla_1/4cksburg_dynasty
+    female: yes
+    adm: 30
+    dip: 30
+    mil: 15
+    religion: lutheran
+    culture: english
+  1925.11.20:
+    death: yes
+  1901.1.22:
+    spouse: gbr_edward_vii_von_saxe_coburg #TODO: date guessed, see if better data is available
+gbr_george_v_of_windsor:
+  1865.6.3:
+    birth: london #TODO: Location guessed, check if better data is available
+    first_name: george
+    dynasty: of_windsor_dynasty
+    adm: 45
+    dip: 45
+    mil: 75
+    religion: secularism
+    culture: english
+  1936.1.20:
+    death: yes
+gbr_mary_of_teck:
+  1867.5.26:
+    birth: london #TODO: Location guessed, check if better data is available
+    first_name: mary
+    dynasty: of_teck_dynasty
+    female: yes
+    adm: 45
+    dip: 45
+    mil: 15
+    religion: secularism
+    culture: english
+  1953.3.24:
+    death: yes
+  1910.5.6:
+    spouse: gbr_george_v_of_windsor #TODO: date guessed, see if better data is available
+gbr_edward_viii_of_windsor:
+  1894.6.23:
+    birth: london #TODO: Location guessed, check if better data is available
+    first_name: edward
+    dynasty: of_windsor_dynasty
+    adm: 30
+    dip: 45
+    mil: 30
+    religion: secularism
+    culture: english
+  1936.12.11:
+    death: yes
+gbr_george_vi_of_windsor:
+  1895.12.14:
+    birth: london #TODO: Location guessed, check if better data is available
+    first_name: george
+    dynasty: of_windsor_dynasty
+    adm: 45
+    dip: 60
+    mil: 30
+    religion: secularism
+    culture: english
+  1952.2.6:
+    death: yes
+gbr_elizabeth_bowes_lyon:
+  1900.8.4:
+    birth: london #TODO: Location guessed, check if better data is available
+    first_name: elizabeth
+    dynasty: bowes_lyon_dynasty
+    female: yes
+    adm: 45
+    dip: 60
+    mil: 45
+    religion: secularism
+    culture: english
+  2002.3.30:
+    death: yes
+  1936.12.11:
+    spouse: gbr_george_vi_of_windsor #TODO: date guessed, see if better data is available
+gbr_elizabeth_ii_of_windsor:
+  1926.4.21:
+    birth: london #TODO: Location guessed, check if better data is available
+    first_name: elizabeth
+    dynasty: of_windsor_dynasty
+    female: yes
+    adm: 75
+    dip: 60
+    mil: 15
+    religion: secularism
+    culture: english
+  2022.9.8:
+    death: yes
+gbr_philip_von_gla_1/4cksburg:
+  1921.6.10:
+    birth: london #TODO: Location guessed, check if better data is available
+    first_name: philip
+    dynasty: von_gla_1/4cksburg_dynasty
+    adm: 45
+    dip: 30
+    mil: 45
+    religion: secularism
+    culture: english
+  2021.4.9:
+    death: yes
+  1952.2.6:
+    spouse: gbr_elizabeth_ii_of_windsor #TODO: date guessed, see if better data is available
+gbr_charles_iii_of_windsor:
+  1948.11.14:
+    birth: london #TODO: Location guessed, check if better data is available
+    first_name: charles
+    dynasty: of_windsor_dynasty
+    adm: 60
+    dip: 30
+    mil: 30
+    religion: lutheran
+    culture: english
+  3000.1.1:
+    death: yes
+gbr_camilla_bowles:
+  1947.7.17:
+    birth: london #TODO: Location guessed, check if better data is available
+    first_name: camilla
+    dynasty: bowles_dynasty
+    female: yes
+    adm: 30
+    dip: 45
+    mil: 30
+    religion: secularism
+    culture: english
+  3000.1.1:
+    death: yes
+  2022.9.8:
+    spouse: gbr_charles_iii_of_windsor #TODO: date guessed, see if better data is available
+gbr_william_v_of_windsor:
+  1982.6.21:
+    birth: london #TODO: Location guessed, check if better data is available
+    first_name: william
+    dynasty: of_windsor_dynasty
+    father: gbr_charles_iii_of_windsor #TODO: check if this makes sense
+    adm: 60
+    dip: 60
+    mil: 30
+    religion: lutheran
+    culture: english
+  3000.1.1:
+    death: yes

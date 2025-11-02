@@ -1,0 +1,76 @@
+#imported from EU4 file: history/provinces/2381 - Luang Namtha.txt
+2.1.1:
+  pop:
+    ethnicity: khmu_culture
+    religion: satsana_phi
+    estate: peasant
+    size: 1000
+620.1.1:
+  owner: CHH
+  controller: CHH
+  cores:
+    CHH: yes
+  resource: tea
+737.1.1:
+  owner: NANZ
+  controller: NANZ
+  cores:
+    NANZ: yes
+880.1.1:
+  owner: CAMB
+  controller: CAMB
+  cores:
+    NANZ: no
+    CAMB: yes
+950.1.1:
+  owner: CHH
+  controller: CHH
+  cores:
+    CAMB: no
+    CHH: yes
+1180.1.1:
+  owner: HIRA
+  controller: HIRA
+  cores:
+    HIRA: yes
+1192.1.1:
+  owner: CHH
+  controller: CHH
+  cores:
+    HIRA: no
+    CHH: yes
+1292.1.1:
+  owner: LNA
+  controller: LNA
+  cores:
+    LNA: yes
+1354.1.1:
+  owner: LAXA
+  controller: LAXA
+  cores:
+    LNA: no
+    LAXA: yes
+1694.1.1:
+  cores:
+    AYU: yes
+1707.1.1:
+  owner: LUPR
+  controller: LUPR
+  cores:
+    LAXA: no
+    LUPR: yes
+1840.1.1:
+  pop:
+    religion: theravada
+    estate: peasant
+    size: 1000
+1893.10.3:
+  owner: LAOS
+  controller: LAOS
+  cores:
+    AYU: no
+    LAOS: yes
+1941.1.1:
+  controller: JAP
+1945.8.23:
+  controller: LAOS

@@ -1,0 +1,37 @@
+#imported from EU4 file: history/provinces/657 - Samtoy.txt
+2.1.1:
+  pop:
+    ethnicity: ilocano_culture
+    religion: bimoism
+    estate: peasant
+    size: 1000
+1570.1.1:
+  owner: SPA
+  controller: SPA
+  cores:
+    SPA: yes
+  resource: grain
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+1807.9.26:
+  controller: SPA
+1872.1.1:
+  cores:
+    PHIL: yes
+1898.8.12:
+  owner: USA
+  controller: USA
+  cores:
+    SPA: no
+    USA: yes
+1941.12.1:
+  controller: JAP
+1945.3.1:
+  controller: USA
+1946.7.4:
+  owner: PHIL
+  controller: PHIL
+  cores:
+    USA: no

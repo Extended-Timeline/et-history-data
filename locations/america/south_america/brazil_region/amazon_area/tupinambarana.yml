@@ -1,0 +1,31 @@
+#imported from EU4 file: history/provinces/2930 - Para.txt
+2.1.1:
+  pop:
+    ethnicity: tupinamba_culture
+    religion: muisca_religion
+    estate: peasant
+    size: 1000
+1661.6.22:
+  owner: POR
+  controller: POR
+  cores:
+    POR: yes
+  resource: tropical_wood
+  pop:
+    ethnicity: portuguese
+    religion: catholic
+    estate: peasant
+    size: 1000
+1780.1.1:
+  pop:
+    ethnicity: brazilian
+    estate: peasant
+    size: 1000
+1822.9.7:
+  owner: BRAZ
+  controller: BRAZ
+  cores:
+    POR: no
+    BRAZ: yes
+1910.1.1:
+  resource: aluminum

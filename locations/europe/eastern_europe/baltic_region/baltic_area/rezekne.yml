@@ -1,0 +1,80 @@
+#imported from EU4 file: history/provinces/273 - Wenden.txt
+2.1.1:
+  pop:
+    ethnicity: latvian
+    religion: romuva
+    estate: peasant
+    size: 1000
+550.1.1:
+  owner: LATG
+  controller: LATG
+  cores:
+    LATG: yes
+  resource: livestock
+1202.1.1:
+  owner: LIV
+  controller: LIV
+  cores:
+    LIV: yes
+1300.1.1:
+  cores:
+    LATG: no
+1340.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+1561.1.1:
+  owner: LIT
+  controller: LIT
+  cores:
+    LIV: no
+    LIT: yes
+1569.7.1:
+  owner: PLC
+  controller: PLC
+  cores:
+    PLC: yes
+1721.8.30:
+  cores:
+    SWE: no
+1772.9.22:
+  owner: RUS
+  controller: RUS
+  cores:
+    RUS: yes
+1918.2.1:
+  controller: GER
+1918.3.3:
+  owner: LVA
+  cores:
+    LVA: yes
+1918.4.12:
+  owner: GER
+  cores:
+    LVA: no
+    RIG: no
+    LATV: yes
+1918.11.11:
+  owner: RUS
+  controller: RUS
+1918.11.18:
+  owner: LATV
+  controller: LATV
+  cores:
+    RUS: no
+1939.8.23:
+  cores:
+    SOVI: yes
+1940.6.17:
+  owner: SOVI
+  controller: SOVI
+1941.7.10:
+  controller: GER
+1944.10.13:
+  controller: SOVI
+1991.9.6:
+  owner: LATV
+  controller: LATV
+  cores:
+    SOVI: no

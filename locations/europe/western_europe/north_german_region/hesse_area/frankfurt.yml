@@ -1,0 +1,144 @@
+#imported from EU4 file: history/provinces/1876 - Frankfurt.txt
+2.1.1:
+  owner: CHTT
+  controller: CHTT
+  cores:
+    CHTT: yes
+  resource: grain
+  pop:
+    ethnicity: rhine_franconian
+    religion: germanic
+    estate: peasant
+    size: 1000
+406.1.1:
+  owner: BUR
+  controller: BUR
+  cores:
+    CHTT: no
+    BUR: yes
+  pop:
+    ethnicity: burgundione
+    estate: peasant
+    size: 1000
+443.1.1:
+  owner: ALEM
+  controller: ALEM
+  cores:
+    BUR: no
+    ALEM: yes
+451.1.1:
+  owner: THU
+  controller: THU
+  cores:
+    ALEM: no
+    THU: yes
+454.1.1:
+  owner: FRAN
+  controller: FRAN
+  cores:
+    THU: no
+    FRAN: yes
+  pop:
+    ethnicity: rhine_franconian
+    estate: peasant
+    size: 1000
+511.11.27:
+  owner: ASTS
+  controller: ASTS
+  cores:
+    ASTS: yes
+555.1.1:
+  owner: SOIS
+  controller: SOIS
+  cores:
+    SOIS: yes
+558.12.23:
+  owner: FRAN
+  controller: FRAN
+  cores:
+    SOIS: no
+    FRAN: yes
+561.11.29:
+  owner: ASTS
+  controller: ASTS
+613.10.10:
+  owner: FRAN
+  controller: FRAN
+  cores:
+    FRAN: yes
+623.1.1:
+  owner: ASTS
+  controller: ASTS
+629.10.18:
+  owner: FRAN
+  controller: FRAN
+634.1.1:
+  owner: ASTS
+  controller: ASTS
+679.12.23:
+  owner: FRAN
+  controller: FRAN
+750.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+840.6.21:
+  owner: EFRA
+  controller: EFRA
+  cores:
+    FRAN: no
+    EFRA: yes
+867.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+911.11.10:
+  owner: FKN
+  controller: FKN
+  cores:
+    EFRA: no
+    FKN: yes
+950.1.1:
+  resource: paper
+1250.12.13:
+  owner: FRN
+  controller: FRN
+  cores:
+    FKN: no
+    FRN: yes
+1556.4.19:
+  pop:
+    religion: lutheran
+    estate: peasant
+    size: 1000
+1792.10.1:
+  controller: FRA
+1792.12.3:
+  controller: FRN
+1871.1.18:
+  owner: GER
+  controller: GER
+  cores:
+    GER: yes
+1900.1.1:
+  cores:
+    FRN: no
+1945.3.29:
+  controller: USA
+1945.5.8:
+  owner: WGER
+  controller: WGER
+  cores:
+    WGER: yes
+1990.10.3:
+  owner: GER
+  controller: GER
+  cores:
+    WGER: no
+2020.1.1:
+  pop:
+    religion: irreligious
+    estate: peasant
+    size: 1000

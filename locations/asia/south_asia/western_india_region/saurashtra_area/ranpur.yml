@@ -1,0 +1,78 @@
+#imported from EU4 file: history/provinces/4456 - Jhalavad.txt
+2.1.1:
+  owner: WSAT
+  controller: WSAT
+  cores:
+    WSAT: yes
+  resource: cotton
+  pop:
+    ethnicity: gujarati
+    religion: hindu
+    estate: peasant
+    size: 1000
+405.1.1:
+  owner: GUPT
+  controller: GUPT
+  cores:
+    WSAT: no
+    GUPT: yes
+475.1.1:
+  owner: GUJ
+  controller: GUJ
+  cores:
+    GUPT: no
+    GUJ: yes
+690.1.1:
+  owner: PATA
+  controller: PATA
+  cores:
+    GUJ: no
+    PATA: yes
+942.1.1:
+  owner: GUJ
+  controller: GUJ
+  cores:
+    GUJ: yes
+1090.1.1:
+  owner: JLW
+  controller: JLW
+  cores:
+    GUJ: no
+    JLW: yes
+1304.1.1:
+  owner: DLH
+  controller: DLH
+  cores:
+    DLH: yes
+1391.1.1:
+  owner: JLW
+  controller: JLW
+  cores:
+    DLH: no
+    JLW: yes
+1470.1.1:
+  owner: GUJ
+  controller: GUJ
+  cores:
+    GUJ: yes
+1540.1.1:
+  owner: JLW
+  controller: JLW
+  cores:
+    GUJ: no
+1592.1.1:
+  owner: MUG
+  controller: MUG
+  cores:
+    MUG: yes
+1725.1.1:
+  owner: JLW
+  controller: JLW
+  cores:
+    MUG: no
+1930.1.1:
+  cores:
+    INDI: yes
+1947.8.15:
+  owner: INDI
+  controller: INDI

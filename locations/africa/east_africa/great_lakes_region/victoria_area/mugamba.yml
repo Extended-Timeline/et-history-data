@@ -1,0 +1,39 @@
+#imported from EU4 file: history/provinces/4069 - Bushubi.txt
+2.1.1:
+  pop:
+    ethnicity: rwanda_culture
+    religion: bantu_religion
+    estate: peasant
+    size: 1000
+1350.1.1:
+  owner: UBH
+  controller: UBH
+  cores:
+    UBH: yes
+  resource: grain
+1750.1.1:
+  owner: BUU
+  controller: BUU
+  cores:
+    BUU: yes
+1890.1.1:
+  owner: GER
+  controller: GER
+  cores:
+    GER: yes
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+1919.6.28:
+  owner: BEL
+  controller: BEL
+  cores:
+    GER: no
+    BEL: yes
+1962.7.1:
+  owner: BUU
+  controller: BUU
+  cores:
+    BEL: no
+    BUU: yes

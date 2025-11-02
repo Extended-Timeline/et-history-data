@@ -1,0 +1,81 @@
+#imported from EU4 file: history/provinces/4705 - Komotini.txt
+2.1.1:
+  owner: ROM
+  controller: ROM
+  cores:
+    ROM: yes
+  resource: livestock
+  pop:
+    ethnicity: greek_culture
+    religion: hellenism_religion
+    estate: peasant
+    size: 1000
+260.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+395.1.17:
+  owner: BYZ
+  controller: BYZ
+  cores:
+    ROM: no
+    BYZ: yes
+813.1.1:
+  controller: BUL
+815.1.1:
+  controller: BYZ
+867.1.1:
+  pop:
+    religion: orthodox
+    estate: peasant
+    size: 1000
+1204.4.13:
+  owner: LAT
+  controller: LAT
+  cores:
+    LAT: yes
+1261.1.1:
+  owner: BYZ
+  controller: BYZ
+  cores:
+    LAT: no
+1365.1.1:
+  owner: TUR
+  controller: TUR
+  cores:
+    TUR: yes
+1413.1.1:
+  controller: TUR
+1502.1.1:
+  cores:
+    BYZ: no
+1750.1.1:
+  cores:
+    GRE: yes
+1913.7.14:
+  controller: GRE
+1913.8.10:
+  owner: BUL
+  controller: BUL
+  cores:
+    TUR: no
+    BUL: yes
+1919.11.27:
+  owner: GRE
+  controller: GRE
+  cores:
+    BUL: no
+1941.4.15:
+  controller: GER
+1941.7.1:
+  owner: BUL
+  controller: BUL
+1944.9.8:
+  owner: GER
+  controller: GER
+1944.10.1:
+  controller: GBR
+1944.10.19:
+  owner: GRE
+  controller: GRE

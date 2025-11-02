@@ -1,0 +1,78 @@
+#imported from EU4 file: history/provinces/2128 - Guge.txt
+2.1.1:
+  owner: ZHAN
+  controller: ZHAN
+  cores:
+    ZHAN: yes
+  resource: wool
+  pop:
+    ethnicity: zhangzhung
+    religion: bon
+    estate: peasant
+    size: 1000
+625.1.1:
+  owner: TIB
+  controller: TIB
+  cores:
+    TIB: yes
+700.1.1:
+  cores:
+    ZHAN: no
+  pop:
+    ethnicity: utsang_culture
+    estate: peasant
+    size: 1000
+842.1.1:
+  owner: UTSA
+  controller: UTSA
+  cores:
+    TIB: no
+    UTSA: yes
+910.1.1:
+  owner: GUG
+  controller: GUG
+  cores:
+    UTSA: no
+    GUG: yes
+920.1.1:
+  pop:
+    religion: tibetan_buddhism
+    estate: peasant
+    size: 1000
+1635.1.1:
+  owner: LADA
+  controller: LADA
+1684.1.1:
+  owner: KHOS
+  controller: KHOS
+  cores:
+    KHOS: yes
+1717.1.1:
+  owner: ZUNG
+  controller: ZUNG
+1720.1.1:
+  owner: UTSA
+  controller: UTSA
+  cores:
+    UTSA: yes
+1792.11.1:
+  owner: QNG
+  controller: QNG
+  cores:
+    QNG: yes
+1912.2.12:
+  owner: CHI
+  controller: CHI
+  cores:
+    QNG: no
+    UTSA: no
+    CHI: yes
+    TIB: yes
+1912.7.1:
+  owner: TIB
+  controller: TIB
+1950.10.19:
+  owner: CHI
+  controller: CHI
+  cores:
+    CHI: yes

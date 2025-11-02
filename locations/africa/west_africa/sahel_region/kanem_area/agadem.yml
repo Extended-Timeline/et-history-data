@@ -1,0 +1,66 @@
+#imported from EU4 file: history/provinces/2277 - Kawar.txt
+2.1.1:
+  pop:
+    ethnicity: toubou_culture
+    religion: bantu_religion
+    estate: peasant
+    size: 1000
+1150.1.1:
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+1230.1.1:
+  owner: KBO
+  controller: KBO
+  cores:
+    KBO: yes
+  resource: salt
+1380.1.1:
+  owner: AIR
+  controller: AIR
+  cores:
+    KBO: no
+    AIR: yes
+1444.1.1:
+  cores:
+    KBO: yes
+1590.1.1:
+  owner: KBO
+  controller: KBO
+  cores:
+    KBO: yes
+1750.1.1:
+  owner: AIR
+  controller: AIR
+  cores:
+    KBO: no
+    AIR: yes
+1900.4.22:
+  owner: FRA
+  controller: FRA
+  cores:
+    KBO: no
+    FRA: yes
+1910.1.1:
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+1940.6.14:
+  owner: VFRA
+  controller: VFRA
+  cores:
+    VFRA: yes
+1942.11.16:
+  owner: FRA
+  controller: FRA
+  cores:
+    VFRA: no
+1960.8.3:
+  owner: NIGE
+  controller: NIGE
+  cores:
+    FRA: no
+    AIR: no
+    NIGE: yes

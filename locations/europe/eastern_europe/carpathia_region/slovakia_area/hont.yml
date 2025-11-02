@@ -1,0 +1,131 @@
+#imported from EU4 file: history/provinces/153 - Pest.txt
+2.1.1:
+  owner: IAZY
+  controller: IAZY
+  cores:
+    IAZY: yes
+  resource: grain
+  pop:
+    ethnicity: pannonian
+    religion: druidism
+    estate: peasant
+    size: 1000
+300.1.1:
+  owner: RUGI
+  controller: RUGI
+  cores:
+    IAZY: no
+    RUGI: yes
+  pop:
+    ethnicity: southern_bavarian
+    religion: germanic
+    estate: peasant
+    size: 1000
+450.1.1:
+  owner: GEPI
+  controller: GEPI
+  cores:
+    RUGI: no
+    GEPI: yes
+  pop:
+    ethnicity: gepid
+    estate: peasant
+    size: 1000
+480.1.1:
+  pop:
+    religion: arianism
+    estate: peasant
+    size: 1000
+500.1.1:
+  owner: LOMB
+  controller: LOMB
+  cores:
+    IAZY: no
+    LOMB: yes
+  pop:
+    ethnicity: langobardi
+    estate: peasant
+    size: 1000
+567.1.1:
+  owner: AVR
+  controller: AVR
+  cores:
+    GEPI: no
+    AVR: yes
+  pop:
+    ethnicity: avar_culture
+    estate: peasant
+    size: 1000
+570.1.1:
+  pop:
+    religion: 
+    estate: peasant
+    size: 1000
+804.1.1:
+  owner: BUL
+  controller: BUL
+  cores:
+    AVR: no
+    BUL: yes
+884.1.1:
+  owner: MVA
+  controller: MVA
+  cores:
+    BUL: no
+    MVA: yes
+897.1.1:
+  owner: HUN
+  controller: HUN
+  cores:
+    MVA: no
+    HUN: yes
+  pop:
+    ethnicity: hungarian
+    estate: peasant
+    size: 1000
+1010.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+1507.1.1:
+  controller: HUN
+1515.1.1:
+  controller: HUN
+1526.8.30:
+  owner: HAB
+  controller: HAB
+  cores:
+    HAB: yes
+1529.9.1:
+  controller: TUR
+1533.6.22:
+  owner: TRA
+  controller: TRA
+  cores:
+    TRA: yes
+1542.1.1:
+  owner: TUR
+  controller: HAB
+  cores:
+    TUR: yes
+1543.6.1:
+  controller: TUR
+1545.8.1:
+  cores:
+    HAB: no
+1570.1.1:
+  cores:
+    TRA: no
+1685.1.1:
+  controller: HAB
+1699.1.26:
+  owner: HAB
+  cores:
+    TUR: no
+    HAB: yes
+1918.10.31:
+  owner: HUN
+  controller: HUN
+  cores:
+    HAB: no

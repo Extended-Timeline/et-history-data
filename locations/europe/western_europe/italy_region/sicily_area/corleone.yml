@@ -1,0 +1,128 @@
+#imported from EU4 file: history/provinces/125 - Palermo.txt
+2.1.1:
+  owner: ROM
+  controller: ROM
+  cores:
+    ROM: yes
+  resource: wine
+  pop:
+    ethnicity: griko_culture
+    religion: hellenism_religion
+    estate: peasant
+    size: 1000
+360.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+395.1.17:
+  owner: ROMW
+  controller: ROMW
+  cores:
+    ROM: no
+    ROMW: yes
+468.1.1:
+  owner: VAND
+  controller: VAND
+  cores:
+    VAND: yes
+480.1.1:
+  cores:
+    ROMW: no
+489.1.1:
+  owner: OSTR
+  controller: OSTR
+  cores:
+    VAND: no
+    OSTR: yes
+535.1.1:
+  owner: BYZ
+  controller: BYZ
+  cores:
+    BYZ: yes
+550.1.1:
+  owner: OSTR
+  controller: OSTR
+552.1.1:
+  owner: BYZ
+  controller: BYZ
+  cores:
+    OSTR: no
+831.9.1:
+  owner: SICI
+  controller: SICI
+  cores:
+    SICI: yes
+840.1.1:
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+1072.1.1:
+  owner: SIC
+  controller: SIC
+  cores:
+    SICI: no
+    BYZ: no
+    SIC: yes
+    NAP: yes
+  pop:
+    ethnicity: sicilian
+    estate: peasant
+    size: 1000
+1080.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+1409.7.25:
+  owner: ARA
+  controller: ARA
+  cores:
+    ARA: yes
+1516.1.23:
+  owner: SPA
+  controller: SPA
+  cores:
+    ARA: no
+    SPA: yes
+1706.7.1:
+  controller: SAV
+1713.4.11:
+  owner: NAP
+  controller: NAP
+  cores:
+    SPA: no
+1718.8.2:
+  owner: HAB
+  controller: HAB
+  cores:
+    HAB: yes
+1734.6.2:
+  owner: NAP
+  controller: NAP
+  cores:
+    HAB: no
+1806.3.11:
+  owner: SIC
+  controller: SIC
+1815.5.3:
+  owner: NAP
+  controller: NAP
+1861.2.12:
+  owner: SPIE
+  controller: SPIE
+  cores:
+    NAP: no
+    SPIE: yes
+1861.3.17:
+  owner: ITA
+  controller: ITA
+  cores:
+    SPIE: no
+    SIC: no
+    ITA: yes
+1943.7.22:
+  controller: GBR
+1943.9.8:
+  controller: ITA

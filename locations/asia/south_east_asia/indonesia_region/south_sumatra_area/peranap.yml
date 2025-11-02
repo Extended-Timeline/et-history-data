@@ -1,0 +1,89 @@
+#imported from EU4 file: history/provinces/2676 - Indragiri.txt
+2.1.1:
+  owner: KADS
+  controller: KADS
+  cores:
+    KADS: yes
+  resource: copper
+  pop:
+    ethnicity: malay_culture
+    religion: mahayana
+    estate: peasant
+    size: 1000
+200.1.1:
+  owner: JMB
+  controller: JMB
+  cores:
+    KADS: no
+    JMB: yes
+280.1.1:
+  owner: KOYI
+  controller: KOYI
+  cores:
+    KOYI: yes
+620.1.1:
+  owner: JMB
+  controller: JMB
+  cores:
+    KOYI: no
+    JMB: yes
+683.1.1:
+  owner: SRIV
+  controller: SRIV
+  cores:
+    SRIV: yes
+1183.1.1:
+  owner: DHAR
+  controller: DHAR
+  cores:
+    DHAR: yes
+1288.1.1:
+  owner: SING
+  controller: SING
+  cores:
+    DHAR: no
+    SING: yes
+1293.1.1:
+  owner: MAJ
+  controller: MAJ
+  cores:
+    SING: no
+    MAJ: yes
+1300.1.1:
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+1389.1.1:
+  owner: SIAK
+  controller: SIAK
+  cores:
+    MAJ: no
+    SIAK: yes
+1528.1.1:
+  owner: JOHO
+  controller: JOHO
+  cores:
+    JOHO: yes
+1749.1.1:
+  owner: NED
+  controller: NED
+  cores:
+    NED: yes
+1912.9.10:
+  cores:
+    ATJ: no
+    INDN: yes
+1942.2.1:
+  controller: JAP
+1942.3.9:
+  owner: JAP
+  controller: JAP
+1945.8.15:
+  owner: NED
+1945.8.17:
+  owner: INDN
+  controller: INDN
+1949.12.27:
+  cores:
+    NED: no

@@ -1,0 +1,80 @@
+#imported from EU4 file: history/provinces/4815 - Singapore.txt
+2.1.1:
+  pop:
+    ethnicity: malay_culture
+    religion: mahayana
+    estate: peasant
+    size: 1000
+770.1.1:
+  owner: SRIV
+  controller: SRIV
+  cores:
+    SRIV: yes
+  resource: fish
+1200.1.1:
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+1299.1.1:
+  owner: SNG
+  controller: SNG
+  cores:
+    SRIV: no
+    SNG: yes
+1398.1.1:
+  owner: MAJ
+  controller: MAJ
+  cores:
+    MAJ: yes
+1400.1.1:
+  owner: MALC
+  controller: MALC
+  cores:
+    MAJ: no
+    MALC: yes
+1528.1.1:
+  owner: JOHO
+  controller: JOHO
+  cores:
+    JOHO: yes
+1819.2.6:
+  owner: GBR
+  controller: GBR
+  cores:
+    GBR: yes
+1860.1.1:
+  pop:
+    ethnicity: fuzhou_culture
+    religion: mahayana
+    estate: peasant
+    size: 1000
+1942.2.15:
+  controller: JAP
+1945.8.15:
+  controller: GBR
+1946.4.1:
+  cores:
+    MALC: no
+    MSA: yes
+1959.7.3:
+  cores:
+    SNG: yes
+1963.8.1:
+  owner: SNG
+  controller: SNG
+  cores:
+    GBR: no
+    MSA: no
+1963.9.16:
+  owner: MALA
+  controller: MALA
+  cores:
+    MALA: yes
+1965.8.9:
+  owner: SNG
+  controller: SNG
+  cores:
+    MALA: no
+1970.1.1:
+  resource: electronics

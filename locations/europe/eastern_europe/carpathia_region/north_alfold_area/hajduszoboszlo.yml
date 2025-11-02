@@ -1,0 +1,112 @@
+#imported from EU4 file: history/provinces/1953 - Szabolcs.txt
+2.1.1:
+  owner: IAZY
+  controller: IAZY
+  cores:
+    IAZY: yes
+  resource: livestock
+  pop:
+    ethnicity: pannonian
+    religion: druidism
+    estate: peasant
+    size: 1000
+300.1.1:
+  owner: GEPI
+  controller: GEPI
+  cores:
+    IAZY: no
+    GEPI: yes
+  pop:
+    ethnicity: gepid
+    religion: germanic
+    estate: peasant
+    size: 1000
+400.1.1:
+  pop:
+    religion: arianism
+    estate: peasant
+    size: 1000
+567.1.1:
+  owner: AVR
+  controller: AVR
+  cores:
+    GEPI: no
+    AVR: yes
+  pop:
+    ethnicity: avar_culture
+    religion: 
+    estate: peasant
+    size: 1000
+804.1.1:
+  owner: BUL
+  controller: BUL
+  cores:
+    AVR: no
+    BUL: yes
+850.1.1:
+  owner: HUN
+  controller: HUN
+  cores:
+    BUL: no
+    HUN: yes
+  pop:
+    ethnicity: hungarian
+    estate: peasant
+    size: 1000
+1050.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+1507.1.1:
+  controller: HUN
+1515.1.1:
+  controller: HUN
+1518.1.1:
+  controller: HUN
+1526.8.30:
+  owner: HAB
+  controller: HAB
+  cores:
+    HAB: yes
+    TRA: yes
+1540.1.1:
+  pop:
+    religion: calvinist
+    estate: peasant
+    size: 1000
+1542.1.1:
+  controller: TRA
+1545.8.1:
+  owner: TRA
+  cores:
+    HAB: no
+1551.7.19:
+  owner: HAB
+  controller: HAB
+1556.10.1:
+  owner: TRA
+  controller: TRA
+1567.1.1:
+  pop:
+    religion: calvinist
+    estate: peasant
+    size: 1000
+1570.1.1:
+  owner: HAB
+  controller: HAB
+  cores:
+    TRA: no
+1690.1.1:
+  owner: HAB
+  controller: HAB
+  cores:
+    HAB: yes
+1711.1.1:
+  controller: HAB
+1918.10.31:
+  owner: HUN
+  controller: HUN
+  cores:
+    HAB: no
+    HUN: yes

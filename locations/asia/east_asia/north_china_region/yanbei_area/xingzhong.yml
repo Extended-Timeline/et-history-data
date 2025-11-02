@@ -1,0 +1,103 @@
+#imported from EU4 file: history/provinces/4672 - Josutu.txt
+2.1.1:
+  owner: WUHU
+  controller: WUHU
+  cores:
+    WUHU: yes
+  resource: livestock
+  pop:
+    ethnicity: khitan
+    religion: 
+    estate: peasant
+    size: 1000
+207.10.1:
+  owner: KMXI
+  controller: KMXI
+  cores:
+    WUHU: no
+    KMXI: yes
+847.1.1:
+  owner: KHIT
+  controller: KHIT
+  cores:
+    KMXI: no
+    KHIT: yes
+907.1.1:
+  owner: LIAO
+  controller: LIAO
+  cores:
+    KHIT: no
+    LIAO: yes
+1115.1.1:
+  owner: JIN0
+  controller: JIN0
+  cores:
+    LIAO: no
+    JIN0: yes
+1214.1.1:
+  owner: MGE
+  controller: MGE
+  cores:
+    JIN0: no
+    MGE: yes
+1220.1.1:
+  pop:
+    ethnicity: chahar
+    estate: peasant
+    size: 1000
+1265.1.1:
+  pop:
+    religion: tibetan_buddhism
+    estate: peasant
+    size: 1000
+1271.1.1:
+  owner: YUA
+  controller: YUA
+  cores:
+    MGE: no
+    YUA: yes
+1368.1.23:
+  owner: KHRC
+  controller: KHRC
+  cores:
+    YUA: no
+    KHRC: yes
+1552.1.1:
+  owner: MGE
+  controller: MGE
+  cores:
+    MGE: yes
+1624.1.1:
+  owner: MCH
+  controller: MCH
+  cores:
+    MCH: yes
+1636.5.15:
+  owner: QNG
+  controller: QNG
+  cores:
+    MCH: no
+    QNG: yes
+1912.2.12:
+  owner: CHI
+  controller: CHI
+  cores:
+    QNG: no
+    CHI: yes
+1915.1.1:
+  pop:
+    ethnicity: yan_culture
+    estate: peasant
+    size: 1000
+1932.2.18:
+  owner: MANC
+  controller: MANC
+  cores:
+    MANC: yes
+1945.8.15:
+  owner: CHI
+  controller: CHI
+  cores:
+    MANC: no
+1949.10.1:
+  controller: CHI

@@ -1,0 +1,429 @@
+mlo_pagano_i_della_torre:
+  1153.1.1:
+    birth: milano #TODO: Date and location guessed, check if better data is available
+    first_name: pagano
+    dynasty: della_torre_dynasty
+    adm: 15
+    dip: 45
+    mil: 75
+    religion: catholic
+    culture: lombard
+  1240.1.1:
+    death: yes
+mlo_pagano_ii_della_torre:
+  1217.1.1:
+    birth: milano #TODO: Date and location guessed, check if better data is available
+    first_name: pagano
+    dynasty: della_torre_dynasty
+    father: mlo_pagano_i_della_torre #TODO: check if this makes sense
+    adm: 75
+    dip: 60
+    mil: 75
+    religion: catholic
+    culture: lombard
+  1257.1.1:
+    death: yes
+mlo_pagano_ii_della_torre_1:
+  1210.1.1:
+    birth: milano #TODO: Date and location guessed, check if better data is available
+    first_name: pagano
+    dynasty: della_torre_dynasty
+    adm: 75
+    dip: 60
+    mil: 75
+    religion: catholic
+    culture: lombard
+  1257.1.1:
+    death: yes
+mlo_martino_della_torre:
+  1227.1.1:
+    birth: milano #TODO: Date and location guessed, check if better data is available
+    first_name: martino
+    dynasty: della_torre_dynasty
+    adm: 60
+    dip: 15
+    mil: 60
+    religion: catholic
+    culture: lombard
+  1259.1.1:
+    death: yes
+mlo_oberto_pallavicino:
+  1229.1.1:
+    birth: milano #TODO: Date and location guessed, check if better data is available
+    first_name: oberto
+    dynasty: pallavicino_dynasty
+    adm: 30
+    dip: 45
+    mil: 30
+    religion: catholic
+    culture: lombard
+  1263.1.1:
+    death: yes
+mlo_filippo_della_torre:
+  1233.1.1:
+    birth: milano #TODO: Date and location guessed, check if better data is available
+    first_name: filippo
+    dynasty: della_torre_dynasty
+    adm: 30
+    dip: 75
+    mil: 45
+    religion: catholic
+    culture: lombard
+  1265.1.1:
+    death: yes
+mlo_napoleone_della_torre:
+  1230.1.1:
+    birth: milano #TODO: Date and location guessed, check if better data is available
+    first_name: napoleone
+    dynasty: della_torre_dynasty
+    father: mlo_filippo_della_torre #TODO: check if this makes sense
+    adm: 15
+    dip: 75
+    mil: 75
+    religion: catholic
+    culture: lombard
+  1277.1.1:
+    death: yes
+mlo_napoleone_della_torre_1:
+  1235.1.1:
+    birth: milano #TODO: Date and location guessed, check if better data is available
+    first_name: napoleone
+    dynasty: della_torre_dynasty
+    adm: 15
+    dip: 75
+    mil: 75
+    religion: catholic
+    culture: lombard
+  1277.1.1:
+    death: yes
+mlo_ottone_visconti:
+  1247.1.1:
+    birth: milano #TODO: Date and location guessed, check if better data is available
+    first_name: ottone
+    dynasty: visconti_dynasty
+    adm: 60
+    dip: 15
+    mil: 75
+    religion: catholic
+    culture: lombard
+  1295.8.8:
+    death: yes
+mlo_matteo_i_visconti:
+  1250.8.15:
+    birth: milano #TODO: Location guessed, check if better data is available
+    first_name: matteo
+    dynasty: visconti_dynasty
+    father: mlo_ottone_visconti #TODO: check if this makes sense
+    adm: 15
+    dip: 75
+    mil: 45
+    religion: catholic
+    culture: lombard
+  1322.6.24:
+    death: yes
+mlo_matteo_i_visconti_1:
+  1265.1.1:
+    birth: milano #TODO: Date and location guessed, check if better data is available
+    first_name: matteo
+    dynasty: visconti_dynasty
+    adm: 15
+    dip: 75
+    mil: 45
+    religion: catholic
+    culture: lombard
+  1302.1.1:
+    death: yes
+mlo_guido_della_torre:
+  1272.1.1:
+    birth: milano #TODO: Date and location guessed, check if better data is available
+    first_name: guido
+    dynasty: della_torre_dynasty
+    adm: 15
+    dip: 75
+    mil: 45
+    religion: catholic
+    culture: lombard
+  1311.1.1:
+    death: yes
+mlo_matteo_i_visconti_2:
+  1281.1.1:
+    birth: milano #TODO: Date and location guessed, check if better data is available
+    first_name: matteo
+    dynasty: visconti_dynasty
+    adm: 15
+    dip: 75
+    mil: 45
+    religion: catholic
+    culture: lombard
+  1322.6.24:
+    death: yes
+mlo_galeazzo_i_visconti:
+  1277.1.21:
+    birth: milano #TODO: Location guessed, check if better data is available
+    first_name: galeazzo
+    dynasty: visconti_dynasty
+    father: mlo_matteo_i_visconti_2 #TODO: check if this makes sense
+    adm: 75
+    dip: 75
+    mil: 45
+    religion: catholic
+    culture: lombard
+  1328.8.6:
+    death: yes
+mlo_galeazzo_i_visconti_1:
+  1292.1.1:
+    birth: milano #TODO: Date and location guessed, check if better data is available
+    first_name: galeazzo
+    dynasty: visconti_dynasty
+    adm: 75
+    dip: 75
+    mil: 45
+    religion: catholic
+    culture: lombard
+  1328.8.6:
+    death: yes
+mlo_azzone_visconti:
+  1302.12.7:
+    birth: milano #TODO: Location guessed, check if better data is available
+    first_name: azzone
+    dynasty: visconti_dynasty
+    father: mlo_galeazzo_i_visconti_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 60
+    mil: 75
+    religion: catholic
+    culture: lombard
+  1339.8.16:
+    death: yes
+mlo_azzone_visconti_1:
+  1298.1.1:
+    birth: milano #TODO: Date and location guessed, check if better data is available
+    first_name: azzone
+    dynasty: visconti_dynasty
+    adm: 45
+    dip: 60
+    mil: 75
+    religion: catholic
+    culture: lombard
+  1339.8.16:
+    death: yes
+mlo_luchino_visconti:
+  1287.1.1:
+    birth: milano #TODO: Date and location guessed, check if better data is available
+    first_name: luchino
+    dynasty: visconti_dynasty
+    father: mlo_azzone_visconti_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 75
+    mil: 60
+    religion: catholic
+    culture: lombard
+  1349.1.24:
+    death: yes
+mlo_luchino_visconti_1:
+  1309.1.1:
+    birth: milano #TODO: Date and location guessed, check if better data is available
+    first_name: luchino
+    dynasty: visconti_dynasty
+    adm: 45
+    dip: 75
+    mil: 60
+    religion: catholic
+    culture: lombard
+  1349.1.24:
+    death: yes
+mlo_giovanni_visconti:
+  1290.1.1:
+    birth: milano #TODO: Date and location guessed, check if better data is available
+    first_name: giovanni
+    dynasty: visconti_dynasty
+    father: mlo_luchino_visconti_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 30
+    mil: 15
+    religion: catholic
+    culture: lombard
+  1354.1.1:
+    death: yes
+mlo_giovanni_visconti_1:
+  1319.1.1:
+    birth: milano #TODO: Date and location guessed, check if better data is available
+    first_name: giovanni
+    dynasty: visconti_dynasty
+    adm: 45
+    dip: 30
+    mil: 15
+    religion: catholic
+    culture: lombard
+  1354.1.1:
+    death: yes
+mlo_galeazzo_ii_visconti:
+  1320.1.1:
+    birth: milano #TODO: Date and location guessed, check if better data is available
+    first_name: galeazzo
+    dynasty: visconti_dynasty
+    father: mlo_giovanni_visconti_1 #TODO: check if this makes sense
+    adm: 75
+    dip: 75
+    mil: 15
+    religion: catholic
+    culture: lombard
+  1378.8.4:
+    death: yes
+mlo_galeazzo_ii_visconti_1:
+  1324.1.1:
+    birth: milano #TODO: Date and location guessed, check if better data is available
+    first_name: galeazzo
+    dynasty: visconti_dynasty
+    adm: 75
+    dip: 75
+    mil: 15
+    religion: catholic
+    culture: lombard
+  1378.8.4:
+    death: yes
+mlo_gian_galeazzo_i_visconti:
+  1351.10.16:
+    birth: milano #TODO: Location guessed, check if better data is available
+    first_name: gian_galeazzo
+    dynasty: visconti_dynasty
+    father: mlo_galeazzo_ii_visconti_1 #TODO: check if this makes sense
+    adm: 60
+    dip: 60
+    mil: 75
+    religion: catholic
+    culture: lombard
+  1402.9.3:
+    death: yes
+mlo_gian_galeazzo_i_visconti_1:
+  1347.10.15:
+    birth: milano #TODO: Location guessed, check if better data is available
+    first_name: gian_galeazzo
+    dynasty: visconti_dynasty
+    adm: 60
+    dip: 60
+    mil: 75
+    religion: catholic
+    culture: lombard
+  1402.9.3:
+    death: yes
+mlo_giovanni_maria_i_visconti:
+  1388.9.7:
+    birth: milano #TODO: Location guessed, check if better data is available
+    first_name: giovanni_maria
+    dynasty: visconti_dynasty
+    adm: 30
+    dip: 30
+    mil: 30
+    religion: catholic
+    culture: lombard
+  1412.5.16:
+    death: yes
+mlo_filippo_maria_i_visconti:
+  1392.9.23:
+    birth: milano #TODO: Location guessed, check if better data is available
+    first_name: filippo_maria
+    dynasty: visconti_dynasty
+    adm: 15
+    dip: 30
+    mil: 30
+    religion: catholic
+    culture: lombard
+  1450.3.27:
+    death: yes
+mlo_francesco_i_sforza:
+  1401.6.23:
+    birth: milano #TODO: Location guessed, check if better data is available
+    first_name: francesco
+    dynasty: sforza_dynasty
+    adm: 75
+    dip: 75
+    mil: 75
+    religion: catholic
+    culture: lombard
+  1466.3.7:
+    death: yes
+mlo_galeazzo_maria_i_sforza:
+  1444.1.24:
+    birth: milano #TODO: Location guessed, check if better data is available
+    first_name: galeazzo_maria
+    dynasty: sforza_dynasty
+    adm: 75
+    dip: 15
+    mil: 45
+    religion: catholic
+    culture: lombard
+  1476.12.27:
+    death: yes
+mlo_giovanni_galeazzo_ii_sforza:
+  1469.6.20:
+    birth: milano #TODO: Location guessed, check if better data is available
+    first_name: giovanni_galeazzo
+    dynasty: sforza_dynasty
+    adm: 45
+    dip: 60
+    mil: 30
+    religion: catholic
+    culture: lombard
+  1494.10.23:
+    death: yes
+mlo_ludovico_i_il_moro_sforza:
+  1452.7.27:
+    birth: milano #TODO: Location guessed, check if better data is available
+    first_name: ludovico_i_il_moro
+    dynasty: sforza_dynasty
+    adm: 75
+    dip: 75
+    mil: 60
+    religion: catholic
+    culture: lombard
+  1508.5.27:
+    death: yes
+mlo_massimiliano_i_sforza:
+  1493.1.1:
+    birth: milano #TODO: Date and location guessed, check if better data is available
+    first_name: massimiliano
+    dynasty: sforza_dynasty
+    father: mlo_ludovico_i_il_moro_sforza #TODO: check if this makes sense
+    adm: 30
+    dip: 60
+    mil: 15
+    religion: catholic
+    culture: lombard
+  1530.1.1:
+    death: yes
+mlo_massimiliano_i_sforza_1:
+  1493.1.25:
+    birth: milano #TODO: Location guessed, check if better data is available
+    first_name: massimiliano
+    dynasty: sforza_dynasty
+    adm: 30
+    dip: 60
+    mil: 15
+    religion: catholic
+    culture: lombard
+  1515.10.6:
+    death: yes
+mlo_francesco_ii_maria_sforza:
+  1495.2.4:
+    birth: milano #TODO: Location guessed, check if better data is available
+    first_name: francesco_ii_maria
+    dynasty: sforza_dynasty
+    adm: 60
+    dip: 30
+    mil: 15
+    religion: catholic
+    culture: lombard
+  1796.11.15:
+    death: yes
+mlo_republicca_transpadana:
+  1766.1.1:
+    birth: milano #TODO: Date and location guessed, check if better data is available
+    first_name: republicca_transpadana
+    adm: 45
+    dip: 60
+    mil: 15
+    religion: catholic
+    culture: lombard
+  3000.1.1:
+    death: yes

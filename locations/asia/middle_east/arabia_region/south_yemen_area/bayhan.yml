@@ -1,0 +1,140 @@
+#imported from EU4 file: history/provinces/2345 - Ahqaf.txt
+2.1.1:
+  owner: QATB
+  controller: QATB
+  cores:
+    QATB: yes
+  resource: livestock
+  pop:
+    ethnicity: yemeni_culture
+    religion: south_arabian
+    estate: peasant
+    size: 1000
+180.1.1:
+  owner: HIMY
+  controller: HIMY
+  cores:
+    HIMY: yes
+220.1.1:
+  owner: QATB
+  controller: QATB
+280.1.1:
+  owner: HIMY
+  controller: HIMY
+  cores:
+    QATB: no
+    HIMY: yes
+525.1.1:
+  owner: YEM
+  controller: YEM
+  cores:
+    HIMY: no
+    YEM: yes
+628.1.1:
+  owner: RASH
+  controller: RASH
+  cores:
+    RASH: yes
+  pop:
+    religion: islam
+    estate: peasant
+    size: 1000
+661.7.28:
+  owner: UMAY
+  controller: UMAY
+  cores:
+    RASH: no
+    UMAY: yes
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+750.8.6:
+  owner: ABBA
+  controller: ABBA
+  cores:
+    UMAY: no
+    ABBA: yes
+800.1.1:
+  pop:
+    religion: shia
+    estate: peasant
+    size: 1000
+847.1.1:
+  owner: SANA
+  controller: SANA
+  cores:
+    ABBA: no
+    SANA: yes
+997.1.1:
+  owner: RASS
+  controller: RASS
+  cores:
+    RASS: yes
+1047.1.1:
+  owner: SANA
+  controller: SANA
+  cores:
+    RASS: no
+    SANA: yes
+1083.1.1:
+  owner: ADEN
+  controller: ADEN
+  cores:
+    SANA: no
+    ADEN: yes
+1174.1.1:
+  owner: EGY
+  controller: EGY
+  cores:
+    EGY: yes
+1229.1.1:
+  owner: YEM
+  controller: YEM
+  cores:
+    EGY: no
+    YEM: yes
+1443.1.1:
+  owner: ADEN
+  controller: ADEN
+  cores:
+    ADEN: yes
+1454.1.1:
+  owner: YEM
+  controller: YEM
+  cores:
+    YEM: yes
+1516.1.1:
+  owner: MAM
+  controller: MAM
+  cores:
+    MAM: yes
+1538.1.1:
+  owner: TUR
+  controller: TUR
+  cores:
+    TUR: yes
+1635.1.1:
+  owner: RASS
+  controller: RASS
+  cores:
+    TUR: no
+    RASS: yes
+1728.1.1:
+  owner: ADEN
+  controller: ADEN
+  cores:
+    RASS: no
+1990.5.22:
+  owner: YEM
+  controller: YEM
+  cores:
+    ADEN: no
+    YEM: yes
+1994.5.21:
+  cores:
+    ADEN: yes
+1994.7.7:
+  controller: YEM
+  cores:
+    ADEN: no

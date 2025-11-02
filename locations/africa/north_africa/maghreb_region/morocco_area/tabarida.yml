@@ -1,0 +1,141 @@
+#imported from EU4 file: history/provinces/343 - Fez.txt
+2.1.1:
+  owner: MAUT
+  controller: MAUT
+  cores:
+    MAUT: yes
+  resource: cloth
+  pop:
+    ethnicity: zenati
+    religion: bantu_religion
+    estate: peasant
+    size: 1000
+40.1.1:
+  owner: ROM
+  controller: ROM
+  cores:
+    ROM: yes
+280.1.1:
+  owner: MOOR
+  controller: MOOR
+  cores:
+    ROM: no
+    MOOR: yes
+320.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+708.1.1:
+  owner: UMAY
+  controller: UMAY
+  cores:
+    MOOR: no
+    UMAY: yes
+730.1.1:
+  pop:
+    religion: ibadi
+    estate: peasant
+    size: 1000
+743.1.1:
+  owner: FEZ
+  controller: FEZ
+  cores:
+    UMAY: no
+    FEZ: yes
+789.1.1:
+  owner: MOR
+  controller: MOR
+  cores:
+    FEZ: no
+    MOR: yes
+  pop:
+    ethnicity: moroccan
+    estate: peasant
+    size: 1000
+790.1.1:
+  pop:
+    religion: shia
+    estate: peasant
+    size: 1000
+922.1.1:
+  owner: FATI
+  controller: FATI
+925.1.1:
+  owner: MOR
+  controller: MOR
+927.1.1:
+  owner: FATI
+  controller: FATI
+937.1.1:
+  owner: MOR
+  controller: MOR
+974.1.1:
+  owner: CRDB
+  controller: CRDB
+  cores:
+    MOR: no
+    CRDB: yes
+993.1.1:
+  owner: TLE
+  controller: TLE
+  cores:
+    TLE: yes
+993.4.1:
+  owner: CRDB
+  controller: CRDB
+  cores:
+    CRDB: yes
+1031.1.1:
+  owner: FEZ
+  controller: FEZ
+  cores:
+    CRDB: no
+    FEZ: yes
+1033.5.1:
+  owner: TLE
+  controller: TLE
+  cores:
+    TLE: yes
+1039.1.1:
+  owner: FEZ
+  controller: FEZ
+  cores:
+    TLE: no
+    FEZ: yes
+1050.1.1:
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+1070.1.1:
+  owner: MOR
+  controller: MOR
+  cores:
+    FEZ: no
+    MOR: yes
+1472.1.1:
+  owner: FEZ
+  controller: FEZ
+1549.1.1:
+  owner: MOR
+  controller: MOR
+1554.1.1:
+  owner: FEZ
+  controller: FEZ
+1554.9.13:
+  owner: MOR
+  controller: MOR
+1638.10.26:
+  owner: FEZ
+  controller: FEZ
+1666.6.6:
+  owner: TFL
+  controller: TFL
+  cores:
+    TFL: yes
+1668.9.7:
+  owner: MOR
+  controller: MOR
+  cores:
+    TFL: no

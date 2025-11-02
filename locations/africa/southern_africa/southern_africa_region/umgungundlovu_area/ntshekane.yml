@@ -1,0 +1,39 @@
+#imported from EU4 file: history/provinces/1181 - Natal.txt
+2.1.1:
+  pop:
+    ethnicity: xam_culture
+    religion: bantu_religion
+    estate: peasant
+    size: 1000
+300.1.1:
+  pop:
+    ethnicity: nguni_culture
+    estate: peasant
+    size: 1000
+1727.1.1:
+  owner: ZULU
+  controller: ZULU
+  cores:
+    ZULU: yes
+  resource: ivory
+1839.10.12:
+  owner: NATA
+  controller: NATA
+  cores:
+    ZULU: no
+    NATA: yes
+  pop:
+    religion: calvinist
+    estate: peasant
+    size: 1000
+1843.5.12:
+  owner: GBR
+  controller: GBR
+  cores:
+    GBR: yes
+1910.3.31:
+  owner: SAFR
+  controller: SAFR
+  cores:
+    GBR: no
+    SAFR: yes

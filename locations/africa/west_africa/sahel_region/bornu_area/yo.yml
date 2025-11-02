@@ -1,0 +1,34 @@
+#imported from EU4 file: history/provinces/1157 - Mandara.txt
+2.1.1:
+  pop:
+    ethnicity: kanembu_culture
+    religion: bantu_religion
+    estate: peasant
+    size: 1000
+523.1.1:
+  owner: KBO
+  controller: KBO
+  cores:
+    KBO: yes
+  resource: grain
+1200.1.1:
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+1808.1.1:
+  controller: SOKO
+1810.1.1:
+  controller: KBO
+1902.1.1:
+  owner: GBR
+  controller: GBR
+  cores:
+    GBR: yes
+1960.10.1:
+  owner: NIGR
+  controller: NIGR
+  cores:
+    GBR: no
+    SOKO: no
+    NIGR: yes

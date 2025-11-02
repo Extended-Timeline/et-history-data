@@ -1,0 +1,214 @@
+mos_daniel_rurikovich:
+  1253.1.1:
+    birth: moscow #TODO: Date and location guessed, check if better data is available
+    first_name: daniel
+    dynasty: rurikovich_dynasty
+    adm: 15
+    dip: 15
+    mil: 30
+    religion: orthodox
+    culture: muscovite
+  1303.3.4:
+    death: yes
+mos_yuri_rurikovich:
+  1281.1.1:
+    birth: moscow #TODO: Date and location guessed, check if better data is available
+    first_name: yuri
+    dynasty: rurikovich_dynasty
+    father: mos_daniel_rurikovich #TODO: check if this makes sense
+    adm: 45
+    dip: 75
+    mil: 60
+    religion: orthodox
+    culture: muscovite
+  1325.11.21:
+    death: yes
+mos_yuri_rurikovich_1:
+  1273.1.1:
+    birth: moscow #TODO: Date and location guessed, check if better data is available
+    first_name: yuri
+    dynasty: rurikovich_dynasty
+    adm: 45
+    dip: 75
+    mil: 60
+    religion: orthodox
+    culture: muscovite
+  1325.11.21:
+    death: yes
+mos_ivan_i_rurikovich:
+  1288.1.1:
+    birth: moscow #TODO: Date and location guessed, check if better data is available
+    first_name: ivan
+    dynasty: rurikovich_dynasty
+    father: mos_yuri_rurikovich_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 45
+    mil: 15
+    religion: orthodox
+    culture: muscovite
+  1340.3.31:
+    death: yes
+mos_ivan_i_rurikovich_1:
+  1295.1.1:
+    birth: moscow #TODO: Date and location guessed, check if better data is available
+    first_name: ivan
+    dynasty: rurikovich_dynasty
+    adm: 30
+    dip: 45
+    mil: 15
+    religion: orthodox
+    culture: muscovite
+  1340.3.31:
+    death: yes
+mos_simeon_i_rurikovich:
+  1316.11.7:
+    birth: moscow #TODO: Location guessed, check if better data is available
+    first_name: simeon
+    dynasty: rurikovich_dynasty
+    father: mos_ivan_i_rurikovich_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 15
+    mil: 15
+    religion: orthodox
+    culture: muscovite
+  1353.4.27:
+    death: yes
+mos_simeon_i_rurikovich_1:
+  1310.1.1:
+    birth: moscow #TODO: Date and location guessed, check if better data is available
+    first_name: simeon
+    dynasty: rurikovich_dynasty
+    adm: 45
+    dip: 15
+    mil: 15
+    religion: orthodox
+    culture: muscovite
+  1353.4.27:
+    death: yes
+mos_ivan_ii_rurikovich:
+  1326.3.30:
+    birth: moscow #TODO: Location guessed, check if better data is available
+    first_name: ivan
+    dynasty: rurikovich_dynasty
+    father: mos_simeon_i_rurikovich_1 #TODO: check if this makes sense
+    adm: 75
+    dip: 45
+    mil: 60
+    religion: orthodox
+    culture: muscovite
+  1359.11.13:
+    death: yes
+mos_ivan_ii_rurikovich_1:
+  1323.1.1:
+    birth: moscow #TODO: Date and location guessed, check if better data is available
+    first_name: ivan
+    dynasty: rurikovich_dynasty
+    adm: 75
+    dip: 45
+    mil: 60
+    religion: orthodox
+    culture: muscovite
+  1359.11.13:
+    death: yes
+mos_dmitri_i_rurikovich:
+  1350.10.12:
+    birth: moscow #TODO: Location guessed, check if better data is available
+    first_name: dmitri
+    dynasty: rurikovich_dynasty
+    father: mos_ivan_ii_rurikovich_1 #TODO: check if this makes sense
+    adm: 75
+    dip: 45
+    mil: 60
+    religion: orthodox
+    culture: muscovite
+  1389.5.19:
+    death: yes
+mos_dmitri_i_rurikovich_1:
+  1329.1.1:
+    birth: moscow #TODO: Date and location guessed, check if better data is available
+    first_name: dmitri
+    dynasty: rurikovich_dynasty
+    adm: 75
+    dip: 45
+    mil: 60
+    religion: orthodox
+    culture: muscovite
+  1389.5.19:
+    death: yes
+mos_vasiliy_i_rurikovich:
+  1371.12.30:
+    birth: moscow #TODO: Location guessed, check if better data is available
+    first_name: vasiliy
+    dynasty: rurikovich_dynasty
+    father: mos_dmitri_i_rurikovich_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 60
+    mil: 45
+    religion: orthodox
+    culture: muscovite
+  1425.2.27:
+    death: yes
+mos_vasiliy_i_rurikovich_1:
+  1359.1.1:
+    birth: moscow #TODO: Date and location guessed, check if better data is available
+    first_name: vasiliy
+    dynasty: rurikovich_dynasty
+    adm: 15
+    dip: 45
+    mil: 30
+    religion: orthodox
+    culture: muscovite
+  1424.2.27:
+    death: yes
+mos_vasiliy_ii_temny_rurikovich:
+  1415.3.10:
+    birth: moscow #TODO: Location guessed, check if better data is available
+    first_name: vasiliy_ii_temny
+    dynasty: rurikovich_dynasty
+    adm: 45
+    dip: 15
+    mil: 30
+    religion: orthodox
+    culture: muscovite
+  1462.3.28:
+    death: yes
+mos_maria_rurikovich:
+  1418.1.1:
+    birth: moscow #TODO: Date and location guessed, check if better data is available
+    first_name: maria
+    dynasty: rurikovich_dynasty
+    female: yes
+    adm: 45
+    dip: 45
+    mil: 15
+    religion: orthodox
+    culture: muscovite
+  1484.1.1:
+    death: yes
+  1433.1.1:
+    spouse: mos_vasiliy_ii_temny_rurikovich #TODO: date guessed, see if better data is available
+mos_ivan_iii_veliky_rurikovich:
+  1440.1.22:
+    birth: moscow #TODO: Location guessed, check if better data is available
+    first_name: ivan_iii_veliky
+    dynasty: rurikovich_dynasty
+    adm: 45
+    dip: 60
+    mil: 75
+    religion: orthodox
+    culture: muscovite
+  1505.10.27:
+    death: yes
+mos_vasiliy_iii_rurikovich:
+  1479.3.25:
+    birth: moscow #TODO: Location guessed, check if better data is available
+    first_name: vasiliy
+    dynasty: rurikovich_dynasty
+    father: mos_ivan_iii_veliky_rurikovich #TODO: check if this makes sense
+    adm: 90
+    dip: 60
+    mil: 15
+    religion: orthodox
+    culture: muscovite
+  1533.12.3:
+    death: yes

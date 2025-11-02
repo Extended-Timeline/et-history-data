@@ -1,0 +1,42 @@
+#imported from EU4 file: history/provinces/2569 - Eskikewakik.txt
+2.1.1:
+  pop:
+    ethnicity: mikmaq_culture
+    religion: iroquoian_totemism
+    estate: peasant
+    size: 1000
+1659.1.1:
+  owner: FRA
+  controller: FRA
+  cores:
+    FRA: yes
+  resource: fish
+  pop:
+    ethnicity: french
+    religion: catholic
+    estate: peasant
+    size: 1000
+1710.10.1:
+  controller: GBR
+1713.4.11:
+  owner: GBR
+  cores:
+    FRA: no
+    GBR: yes
+1750.1.1:
+  pop:
+    ethnicity: highland
+    religion: lutheran
+    estate: peasant
+    size: 1000
+1790.1.1:
+  pop:
+    ethnicity: gaelic_canadian
+    estate: peasant
+    size: 1000
+1867.7.1:
+  owner: CAN
+  controller: CAN
+  cores:
+    GBR: no
+    CAN: yes

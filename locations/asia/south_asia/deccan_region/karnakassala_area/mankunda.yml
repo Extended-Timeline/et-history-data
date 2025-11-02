@@ -1,0 +1,84 @@
+#imported from EU4 file: history/provinces/533 - Mysore.txt
+2.1.1:
+  owner: CHER
+  controller: CHER
+  cores:
+    CHER: yes
+  resource: iron
+  pop:
+    ethnicity: kannadiga
+    religion: jain
+    estate: peasant
+    size: 1000
+275.1.1:
+  owner: PALL
+  controller: PALL
+  cores:
+    CHER: no
+    PALL: yes
+345.1.1:
+  owner: GANG
+  controller: GANG
+  cores:
+    PALL: no
+    GANG: yes
+1000.1.1:
+  owner: CHOL
+  controller: CHOL
+  cores:
+    GANG: no
+    CHOL: yes
+1010.1.1:
+  pop:
+    religion: hindu
+    estate: peasant
+    size: 1000
+1026.1.1:
+  owner: HSL
+  controller: HSL
+  cores:
+    CHOL: no
+    HSL: yes
+1200.1.1:
+  pop:
+    ethnicity: kannadiga
+    estate: peasant
+    size: 1000
+1343.1.1:
+  owner: VIJ
+  controller: VIJ
+  cores:
+    HSL: no
+    VIJ: yes
+1399.1.1:
+  owner: MYSO
+  controller: MYSO
+  cores:
+    VIJ: no
+    MYSO: yes
+1512.12.1:
+  owner: VIJ
+  controller: VIJ
+  cores:
+    VIJ: yes
+1529.1.1:
+  owner: MYSO
+  controller: MYSO
+  cores:
+    VIJ: no
+1662.1.1:
+  owner: BIJA
+  controller: BIJA
+  cores:
+    BIJA: yes
+1684.1.1:
+  owner: MYSO
+  controller: MYSO
+1930.1.1:
+  cores:
+    INDI: yes
+1947.8.15:
+  owner: INDI
+  controller: INDI
+  cores:
+    MYSO: no

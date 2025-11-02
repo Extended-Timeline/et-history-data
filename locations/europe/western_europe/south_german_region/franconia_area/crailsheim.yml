@@ -1,0 +1,93 @@
+#imported from EU4 file: history/provinces/4715 - Rothenburg.txt
+2.1.1:
+  owner: VARI
+  controller: VARI
+  cores:
+    VARI: yes
+  resource: grain
+  pop:
+    ethnicity: swabian
+    religion: germanic
+    estate: peasant
+    size: 1000
+72.1.1:
+  owner: ALEM
+  controller: ALEM
+  cores:
+    VARI: no
+    ALEM: yes
+500.1.1:
+  pop:
+    ethnicity: east_franconian
+    estate: peasant
+    size: 1000
+600.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+746.1.1:
+  owner: FRAN
+  controller: FRAN
+  cores:
+    FRAN: yes
+840.6.21:
+  owner: EFRA
+  controller: EFRA
+  cores:
+    FRAN: no
+    EFRA: yes
+867.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+911.11.10:
+  owner: SWA
+  controller: SWA
+  cores:
+    EFRA: no
+    ALEM: no
+    SWA: yes
+1060.1.1:
+  owner: ROT
+  controller: ROT
+  cores:
+    SWA: no
+    ROT: yes
+1116.1.1:
+  owner: FKN
+  controller: FKN
+  cores:
+    FKN: yes
+1250.12.13:
+  owner: ROT
+  controller: ROT
+  cores:
+    OET: no
+    ROT: yes
+1803.2.25:
+  owner: BAV
+  controller: BAV
+  cores:
+    BAV: yes
+1871.1.18:
+  owner: GER
+  controller: GER
+  cores:
+    GER: yes
+1900.1.1:
+  cores:
+    ANS: no
+1945.4.12:
+  controller: USA
+1945.5.8:
+  owner: WGER
+  controller: WGER
+  cores:
+    WGER: yes
+1990.10.3:
+  owner: GER
+  controller: GER
+  cores:
+    WGER: no

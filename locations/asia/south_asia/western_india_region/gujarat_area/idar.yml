@@ -1,0 +1,134 @@
+#imported from EU4 file: history/provinces/4480 - Manikantha.txt
+2.1.1:
+  owner: WSAT
+  controller: WSAT
+  cores:
+    WSAT: yes
+  resource: cloth
+  pop:
+    ethnicity: saurashtri
+    religion: hindu
+    estate: peasant
+    size: 1000
+405.1.1:
+  owner: GUPT
+  controller: GUPT
+  cores:
+    WSAT: no
+    GUPT: yes
+475.1.1:
+  owner: GUJ
+  controller: GUJ
+  cores:
+    GUPT: no
+    GUJ: yes
+776.1.1:
+  owner: GURJ
+  controller: GURJ
+  cores:
+    GURJ: yes
+800.1.1:
+  owner: MEW
+  controller: MEW
+  cores:
+    GURJ: no
+    MEW: yes
+953.1.1:
+  owner: MLW
+  controller: MLW
+  cores:
+    MEW: no
+    MLW: yes
+1110.1.1:
+  owner: GUJ
+  controller: GUJ
+  cores:
+    MLW: no
+    GUJ: yes
+1150.1.1:
+  pop:
+    religion: jain
+    estate: peasant
+    size: 1000
+1171.1.1:
+  pop:
+    religion: hindu
+    estate: peasant
+    size: 1000
+1257.1.1:
+  owner: IDR
+  controller: IDR
+  cores:
+    GUJ: no
+    IDR: yes
+1300.1.1:
+  owner: DLH
+  controller: DLH
+  cores:
+    DLH: yes
+1391.1.1:
+  owner: GUJ
+  controller: GUJ
+  cores:
+    DLH: no
+    GUJ: yes
+1393.1.1:
+  owner: IDR
+  controller: IDR
+  cores:
+    GUJ: no
+    IDR: yes
+1515.1.1:
+  owner: GUJ
+  controller: GUJ
+  cores:
+    GUJ: yes
+1519.1.1:
+  owner: MEW
+  controller: MEW
+  cores:
+    MEW: yes
+1520.1.1:
+  owner: GUJ
+  controller: GUJ
+  cores:
+    MEW: no
+1522.1.1:
+  owner: IDR
+  controller: IDR
+1656.1.1:
+  owner: MUG
+  controller: MUG
+  cores:
+    MUG: yes
+1658.1.1:
+  owner: IDR
+  controller: IDR
+  cores:
+    MUG: no
+1664.1.1:
+  owner: MUG
+  controller: MUG
+  cores:
+    MUG: yes
+1679.1.1:
+  owner: IDR
+  controller: IDR
+  cores:
+    MUG: no
+1680.1.1:
+  owner: MUG
+  controller: MUG
+  cores:
+    MUG: yes
+1718.1.1:
+  owner: IDR
+  controller: IDR
+  cores:
+    MUG: no
+1930.1.1:
+  cores:
+    INDI: yes
+1947.8.15:
+  owner: INDI
+  controller: INDI

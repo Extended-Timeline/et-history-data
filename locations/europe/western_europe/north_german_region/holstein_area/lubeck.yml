@@ -1,0 +1,101 @@
+#imported from EU4 file: history/provinces/45 - Lubeck.txt
+2.1.1:
+  owner: SAX
+  controller: SAX
+  cores:
+    SAX: yes
+  resource: naval_supplies
+  pop:
+    ethnicity: lower_saxon
+    religion: germanic
+    estate: peasant
+    size: 1000
+670.1.1:
+  owner: OBOT
+  controller: OBOT
+  cores:
+    SAX: no
+    OBOT: yes
+  pop:
+    ethnicity: polabian
+    religion: slavic
+    estate: peasant
+    size: 1000
+1140.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+1143.1.1:
+  owner: HOLS
+  controller: HOLS
+  cores:
+    OBOT: no
+    HOLS: yes
+1150.1.1:
+  pop:
+    ethnicity: lower_saxon
+    estate: peasant
+    size: 1000
+1158.1.1:
+  owner: SAX
+  controller: SAX
+  cores:
+    SAX: yes
+1181.1.1:
+  owner: LUB
+  controller: LUB
+  cores:
+    LUB: yes
+1189.1.1:
+  owner: SAX
+  controller: SAX
+1192.1.1:
+  owner: HOLS
+  controller: HOLS
+  cores:
+    SAX: no
+1217.1.1:
+  owner: DAN
+  controller: DAN
+  cores:
+    HOLS: no
+    DAN: yes
+1227.1.1:
+  owner: LUB
+  controller: LUB
+  cores:
+    DAN: no
+1531.1.1:
+  pop:
+    religion: lutheran
+    estate: peasant
+    size: 1000
+1810.12.13:
+  owner: FRA
+  controller: FRA
+  cores:
+    FRA: yes
+1814.4.11:
+  owner: LUB
+  controller: LUB
+  cores:
+    FRA: no
+1871.1.18:
+  owner: GER
+  controller: GER
+  cores:
+    GER: yes
+1900.1.1:
+  cores:
+    LUB: no
+1945.5.8:
+  owner: WGER
+  controller: WGER
+  cores:
+    WGER: yes
+1990.10.3:
+  owner: GER
+  controller: GER
+  cores:
+    WGER: no

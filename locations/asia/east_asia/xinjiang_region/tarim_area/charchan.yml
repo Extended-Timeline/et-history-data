@@ -1,0 +1,147 @@
+#imported from EU4 file: history/provinces/711 - Qarqan.txt
+2.1.1:
+  owner: SHAN
+  controller: SHAN
+  cores:
+    SHAN: yes
+  resource: livestock
+  pop:
+    ethnicity: tocharian
+    religion: mahayana
+    estate: peasant
+    size: 1000
+350.1.1:
+  owner: TUYU
+  controller: TUYU
+  cores:
+    TUYU: yes
+460.1.1:
+  owner: HEPH
+  controller: HEPH
+  cores:
+    HEPH: yes
+560.1.1:
+  owner: SHAN
+  controller: SHAN
+  cores:
+    HEPH: no
+    SHAN: yes
+640.1.1:
+  owner: TANG
+  controller: TANG
+  cores:
+    TANG: yes
+670.1.1:
+  owner: TIB
+  controller: TIB
+  cores:
+    TANG: no
+    TIB: yes
+692.1.1:
+  owner: TANG
+  controller: TANG
+  cores:
+    TIB: no
+    TANG: yes
+763.1.1:
+  owner: TIB
+  controller: TIB
+  cores:
+    TANG: no
+    TIB: yes
+765.1.1:
+  pop:
+    religion: manichaeism
+    estate: peasant
+    size: 1000
+820.1.1:
+  pop:
+    ethnicity: uyghur_culture
+    estate: peasant
+    size: 1000
+840.1.1:
+  pop:
+    religion: tibetan_buddhism
+    estate: peasant
+    size: 1000
+842.1.1:
+  owner: UTSA
+  controller: UTSA
+  cores:
+    TIB: no
+    UTSA: yes
+843.1.1:
+  owner: HOTA
+  controller: HOTA
+  cores:
+    UTSA: no
+    HOTA: yes
+1006.1.1:
+  owner: KKHA
+  controller: KKHA
+  cores:
+    KKHA: yes
+1211.1.1:
+  owner: KKHI
+  controller: KKHI
+  cores:
+    KKHA: no
+    KKHI: yes
+1219.1.1:
+  owner: MGE
+  controller: MGE
+  cores:
+    KKHI: no
+    MGE: yes
+1260.1.1:
+  owner: CHG
+  controller: CHG
+  cores:
+    MGE: no
+    CHG: yes
+1347.1.1:
+  owner: MOGH
+  controller: MOGH
+  cores:
+    CHG: no
+    MOGH: yes
+1389.1.1:
+  owner: YARK
+  controller: YARK
+  cores:
+    MOGH: no
+    YARK: yes
+1680.1.1:
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+1682.1.1:
+  owner: ZUNG
+  controller: ZUNG
+  cores:
+    ZUNG: yes
+1755.1.1:
+  owner: YARK
+  controller: YARK
+  cores:
+    YARK: yes
+1759.1.1:
+  owner: QNG
+  controller: QNG
+  cores:
+    QNG: yes
+1862.4.1:
+  cores:
+    UYGH: yes
+1877.5.30:
+  controller: QNG
+1912.2.12:
+  owner: CHI
+  controller: CHI
+  cores:
+    QNG: no
+    CHI: yes
+1933.11.12:
+  cores:
+    UYGH: yes

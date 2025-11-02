@@ -1,0 +1,74 @@
+#imported from EU4 file: history/provinces/2749 - Tikhvin.txt
+2.1.1:
+  pop:
+    ethnicity: vepsian
+    religion: muinaisusko
+    estate: peasant
+    size: 1000
+750.1.1:
+  owner: VEPS
+  controller: VEPS
+  cores:
+    VEPS: yes
+  resource: iron
+862.1.1:
+  owner: NOV
+  controller: NOV
+  cores:
+    VEPS: no
+    NOV: yes
+882.1.1:
+  owner: KIEV
+  controller: KIEV
+  cores:
+    NOV: no
+    KIEV: yes
+900.1.1:
+  pop:
+    ethnicity: novgorodian
+    religion: slavic
+    estate: peasant
+    size: 1000
+960.1.1:
+  pop:
+    religion: orthodox
+    estate: peasant
+    size: 1000
+1054.2.20:
+  owner: NOV
+  controller: NOV
+  cores:
+    KIEV: no
+    NOV: yes
+1478.1.15:
+  owner: MOS
+  controller: MOS
+  cores:
+    NOV: no
+    MOS: yes
+1503.4.1:
+  owner: RUS
+  controller: RUS
+  cores:
+    MOS: no
+    RUS: yes
+1611.7.16:
+  controller: SWE
+1617.2.27:
+  controller: RUS
+1922.12.30:
+  owner: SOVI
+  controller: SOVI
+  cores:
+    RUS: no
+    SOVI: yes
+1941.11.8:
+  controller: GER
+1941.12.9:
+  controller: SOVI
+1991.12.25:
+  owner: RUS
+  controller: RUS
+  cores:
+    SOVI: no
+    RUS: yes

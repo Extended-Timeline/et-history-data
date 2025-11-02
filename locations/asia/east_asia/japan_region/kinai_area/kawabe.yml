@@ -1,0 +1,85 @@
+#imported from EU4 file: history/provinces/1021 - Settsu.txt
+2.1.1:
+  owner: YMT
+  controller: YMT
+  cores:
+    YMT: yes
+  resource: chinaware
+  pop:
+    ethnicity: saigoku_culture
+    religion: shinto
+    estate: peasant
+    size: 1000
+607.1.1:
+  pop:
+    religion: mahayana
+    estate: peasant
+    size: 1000
+712.1.1:
+  pop:
+    religion: shinto
+    estate: peasant
+    size: 1000
+794.1.1:
+  owner: JAP
+  controller: JAP
+  cores:
+    YMT: no
+    JAP: yes
+1040.1.1:
+  owner: MINM
+  controller: MINM
+  cores:
+    JAP: no
+    MINM: yes
+1192.7.12:
+  owner: FUJI
+  controller: FUJI
+  cores:
+    YMT: no
+    FUJI: yes
+1252.4.1:
+  owner: HOJO
+  controller: HOJO
+  cores:
+    HOJO: yes
+1333.5.18:
+  owner: TACH
+  controller: TACH
+  cores:
+    MINM: no
+    TACH: yes
+1390.1.1:
+  owner: HSK
+  controller: HSK
+  cores:
+    TACH: no
+    HSK: yes
+1569.12.1:
+  owner: ODA
+  controller: ODA
+  cores:
+    ODA: yes
+1580.1.1:
+  cores:
+    HSK: no
+1582.6.21:
+  owner: TOYO
+  controller: TOYO
+  cores:
+    ODA: no
+    TOYO: yes
+1615.6.4:
+  owner: TOKU
+  controller: TOKU
+  cores:
+    TOYO: no
+    TOKU: yes
+1868.1.3:
+  owner: JAP
+  controller: JAP
+  cores:
+    TOKU: no
+    JAP: yes
+1920.1.1:
+  resource: cars

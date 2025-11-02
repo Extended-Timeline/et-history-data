@@ -1,0 +1,132 @@
+#imported from EU4 file: history/provinces/1757 - Oberpfalz.txt
+2.1.1:
+  owner: MARC
+  controller: MARC
+  cores:
+    MARC: yes
+  resource: iron
+  pop:
+    ethnicity: southern_bavarian
+    religion: germanic
+    estate: peasant
+    size: 1000
+72.1.1:
+  owner: VARI
+  controller: VARI
+  cores:
+    MARC: no
+    VARI: yes
+  pop:
+    ethnicity: swabian
+    estate: peasant
+    size: 1000
+395.1.1:
+  owner: VAND
+  controller: VAND
+  cores:
+    VARI: no
+    VAND: yes
+  pop:
+    ethnicity: vandal
+    estate: peasant
+    size: 1000
+417.1.1:
+  owner: BAV
+  controller: BAV
+  cores:
+    VAND: no
+    BAV: yes
+  pop:
+    ethnicity: southern_bavarian
+    estate: peasant
+    size: 1000
+451.1.1:
+  owner: THU
+  controller: THU
+  cores:
+    THU: yes
+739.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+774.1.1:
+  owner: FRAN
+  controller: FRAN
+  cores:
+    FRAN: yes
+817.1.1:
+  owner: BAV
+  controller: BAV
+  cores:
+    FRAN: no
+    BAV: yes
+867.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+880.3.22:
+  owner: EFRA
+  controller: EFRA
+  cores:
+    EFRA: yes
+911.11.10:
+  owner: BAV
+  controller: BAV
+  cores:
+    EFRA: no
+    BAV: yes
+962.2.2:
+  owner: NORD
+  controller: NORD
+  cores:
+    BAV: no
+    NORD: yes
+1004.1.1:
+  owner: BAM
+  controller: BAM
+  cores:
+    BAM: yes
+1024.1.1:
+  owner: NORD
+  controller: NORD
+  cores:
+    BAM: no
+1146.1.1:
+  owner: BAV
+  controller: BAV
+  cores:
+    BAV: yes
+1329.1.1:
+  owner: PAL
+  controller: PAL
+  cores:
+    BAV: no
+    PAL: yes
+1618.5.6:
+  owner: BAV
+  controller: BAV
+  cores:
+    BAV: yes
+1704.8.13:
+  owner: HAB
+  controller: HAB
+1714.9.7:
+  owner: BAV
+  controller: BAV
+1871.1.18:
+  owner: GER
+  controller: GER
+  cores:
+    GER: yes
+1945.5.8:
+  owner: WGER
+  controller: WGER
+  cores:
+    WGER: yes
+1990.10.3:
+  owner: GER
+  controller: GER
+  cores:
+    WGER: no

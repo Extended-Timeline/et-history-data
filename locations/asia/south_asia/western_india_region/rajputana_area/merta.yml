@@ -1,0 +1,115 @@
+#imported from EU4 file: history/provinces/4502 - Merta.txt
+2.1.1:
+  owner: YAUD
+  controller: YAUD
+  cores:
+    YAUD: yes
+  resource: livestock
+  pop:
+    ethnicity: marwari
+    religion: hindu
+    estate: peasant
+    size: 1000
+150.1.1:
+  owner: WSAT
+  controller: WSAT
+  cores:
+    WSAT: yes
+405.1.1:
+  owner: GUPT
+  controller: GUPT
+  cores:
+    WSAT: no
+    GUPT: yes
+498.1.1:
+  owner: KAPI
+  controller: KAPI
+  cores:
+    GUPT: no
+    GURJ: yes
+528.1.1:
+  owner: MLW
+  controller: MLW
+540.1.1:
+  owner: GURJ
+  controller: GURJ
+620.1.1:
+  owner: PUSH
+  controller: PUSH
+  cores:
+    PUSH: yes
+647.1.1:
+  owner: GURJ
+  controller: GURJ
+  cores:
+    PUSH: no
+950.1.1:
+  owner: CHAU
+  controller: CHAU
+  cores:
+    GURJ: no
+    CHAU: yes
+1180.1.1:
+  owner: MRW
+  controller: MRW
+  cores:
+    GUJ: no
+    MRW: yes
+1303.1.1:
+  owner: DLH
+  controller: DLH
+  cores:
+    DLH: yes
+1388.1.1:
+  owner: NAGA
+  controller: NAGA
+  cores:
+    GUJ: no
+    NAGA: yes
+1456.1.1:
+  owner: MEW
+  controller: MEW
+  cores:
+    MEW: yes
+1459.1.1:
+  owner: MRW
+  controller: MRW
+  cores:
+    MEW: no
+    MRW: yes
+1465.1.1:
+  owner: NAGA
+  controller: NAGA
+1513.1.1:
+  owner: MRW
+  controller: MRW
+1530.1.1:
+  owner: MUG
+  controller: MUG
+  cores:
+    MUG: yes
+1540.1.1:
+  owner: MRW
+  controller: MRW
+  cores:
+    MUG: no
+1679.1.1:
+  owner: MUG
+  controller: MUG
+  cores:
+    MUG: yes
+1707.3.15:
+  controller: MEW
+1707.4.1:
+  owner: MRW
+  controller: MRW
+  cores:
+    MUG: no
+1930.1.1:
+  cores:
+    INDI: yes
+1947.8.15:
+  owner: INDI
+  controller: INDI
+  cores:
+    MRW: no

@@ -1,0 +1,137 @@
+#imported from EU4 file: history/provinces/2144 - Fuyang.txt
+2.1.1:
+  owner: HAN0
+  controller: HAN0
+  cores:
+    HAN0: yes
+    WEI0: yes
+  resource: grain
+  pop:
+    ethnicity: zhongyuan_culture
+    religion: sanjiao
+    estate: peasant
+    size: 1000
+9.1.10:
+  owner: XIN0
+  controller: XIN0
+  cores:
+    XIN0: yes
+23.10.5:
+  owner: HAN0
+  controller: HAN0
+  cores:
+    XIN0: no
+189.9.28:
+  owner: ZHON
+  controller: ZHON
+  cores:
+    HAN0: no
+    ZHON: yes
+199.6.1:
+  owner: WEI0
+  controller: WEI0
+  cores:
+    ZHON: no
+    WEI0: yes
+265.2.4:
+  owner: JIN1
+  controller: JIN1
+  cores:
+    WEI0: no
+    JIN1: yes
+420.1.1:
+  owner: LSON
+  controller: LSON
+  cores:
+    JIN1: no
+    LSON: yes
+479.1.1:
+  owner: QI00
+  controller: QI00
+  cores:
+    LSON: no
+    QI00: yes
+577.2.28:
+  owner: ZHOU
+  controller: ZHOU
+  cores:
+    QI00: no
+    ZHOU: yes
+581.3.4:
+  owner: SUI0
+  controller: SUI0
+  cores:
+    ZHOU: no
+    SUI0: yes
+621.6.4:
+  owner: TANG
+  controller: TANG
+  cores:
+    SUI0: no
+    TANG: yes
+907.6.1:
+  owner: LIAN
+  controller: LIAN
+  cores:
+    TANG: no
+    LIAN: yes
+923.11.19:
+  owner: TANG
+  controller: TANG
+  cores:
+    LIAN: no
+    TANG: yes
+975.1.1:
+  owner: SONG
+  controller: SONG
+  cores:
+    TANG: no
+    SONG: yes
+1127.1.1:
+  owner: JIN0
+  controller: JIN0
+  cores:
+    SONG: no
+    JIN0: yes
+1234.2.9:
+  owner: MGE
+  controller: MGE
+  cores:
+    JIN0: no
+    MGE: yes
+    CSH: yes
+1271.1.1:
+  owner: YUA
+  controller: YUA
+  cores:
+    MGE: no
+    YUA: yes
+1361.1.1:
+  owner: ZHOU
+  controller: ZHOU
+  cores:
+    ZHOU: yes
+1367.10.1:
+  owner: MNG
+  controller: MNG
+  cores:
+    MNG: yes
+1368.1.23:
+  cores:
+    YUA: no
+1645.6.1:
+  owner: QNG
+  controller: QNG
+  cores:
+    QNG: yes
+1912.2.12:
+  owner: CHI
+  controller: CHI
+  cores:
+    QNG: no
+    CSH: no
+    CHI: yes
+1927.4.18:
+  controller: CHI
+1949.10.1:
+  controller: CHI

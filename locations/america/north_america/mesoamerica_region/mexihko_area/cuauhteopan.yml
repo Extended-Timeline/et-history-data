@@ -1,0 +1,57 @@
+#imported from EU4 file: history/provinces/4581 - Yohualtepec.txt
+2.1.1:
+  owner: XOC
+  controller: XOC
+  cores:
+    XOC: yes
+  resource: dyes
+  pop:
+    ethnicity: mephaa_culture
+    religion: nahuatl
+    estate: peasant
+    size: 1000
+880.1.1:
+  owner: TOLT
+  controller: TOLT
+  cores:
+    TOLT: yes
+900.1.1:
+  pop:
+    ethnicity: mixtec_culture
+    estate: peasant
+    size: 1000
+1080.1.1:
+  owner: COI
+  controller: COI
+  cores:
+    TOLT: no
+    COI: yes
+1458.1.1:
+  owner: AZTE
+  controller: AZTE
+  cores:
+    AZTE: yes
+1521.8.13:
+  owner: SPA
+  controller: SPA
+  cores:
+    SPA: yes
+  pop:
+    ethnicity: castilian
+    religion: catholic
+    estate: peasant
+    size: 1000
+1770.1.1:
+  pop:
+    ethnicity: mexican
+    estate: peasant
+    size: 1000
+1810.9.16:
+  owner: MEX
+  controller: MEX
+  cores:
+    MEX: yes
+1821.9.27:
+  controller: MEX
+  cores:
+    SPA: no

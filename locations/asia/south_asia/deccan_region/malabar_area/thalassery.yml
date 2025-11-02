@@ -1,0 +1,63 @@
+#imported from EU4 file: history/provinces/4413 - Cannanore.txt
+2.1.1:
+  owner: CHER
+  controller: CHER
+  cores:
+    CHER: yes
+  resource: spices
+  pop:
+    ethnicity: malayali
+    religion: hindu
+    estate: peasant
+    size: 1000
+250.1.1:
+  owner: KALA
+  controller: KALA
+  cores:
+    KALA: yes
+600.1.1:
+  owner: CHER
+  controller: CHER
+  cores:
+    KALA: no
+    CHER: yes
+1102.1.1:
+  owner: KOLA
+  controller: KOLA
+  cores:
+    CHER: no
+    KOLA: yes
+1505.1.1:
+  owner: POR
+  controller: POR
+  cores:
+    POR: yes
+1663.1.1:
+  owner: NED
+  controller: NED
+  cores:
+    POR: no
+    NED: yes
+1766.1.1:
+  owner: MYSO
+  controller: MYSO
+1772.1.1:
+  owner: KOLA
+  controller: KOLA
+  cores:
+    POR: no
+1792.1.1:
+  owner: GBR
+  controller: GBR
+  cores:
+    GBR: yes
+1930.1.1:
+  cores:
+    MYSO: no
+    KELA: no
+    INDI: yes
+1947.8.15:
+  owner: INDI
+  controller: INDI
+  cores:
+    GBR: no

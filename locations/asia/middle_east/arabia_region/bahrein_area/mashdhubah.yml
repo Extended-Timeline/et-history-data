@@ -1,0 +1,98 @@
+#imported from EU4 file: history/provinces/2338 - Hafar.txt
+2.1.1:
+  pop:
+    ethnicity: najdi_culture
+    religion: south_arabian
+    estate: peasant
+    size: 1000
+425.1.1:
+  owner: LAKH
+  controller: LAKH
+  cores:
+    LAKH: yes
+  resource: livestock
+633.1.1:
+  owner: RASH
+  controller: RASH
+  cores:
+    LAKH: no
+    RASH: yes
+  pop:
+    religion: islam
+    estate: peasant
+    size: 1000
+661.7.28:
+  owner: UMAY
+  controller: UMAY
+  cores:
+    RASH: no
+    UMAY: yes
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+750.8.6:
+  owner: ABBA
+  controller: ABBA
+  cores:
+    UMAY: no
+    ABBA: yes
+755.1.1:
+  pop:
+    religion: shia
+    estate: peasant
+    size: 1000
+867.1.1:
+  owner: NAJD
+  controller: NAJD
+  cores:
+    ABBA: no
+    NAJD: yes
+1050.1.1:
+  owner: SHAM
+  controller: SHAM
+  cores:
+    NAJD: no
+    SHAM: yes
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+1150.1.1:
+  owner: ALHA
+  controller: ALHA
+  cores:
+    ALHA: yes
+1250.1.1:
+  owner: SHAM
+  controller: SHAM
+  cores:
+    ALHA: no
+    SHAM: yes
+1802.1.1:
+  owner: NAJD
+  controller: NAJD
+  cores:
+    NAJD: yes
+1818.9.9:
+  owner: TUR
+  controller: TUR
+1832.1.1:
+  owner: SHAM
+  controller: SHAM
+  cores:
+    SHAM: yes
+1921.11.2:
+  owner: NAJD
+  controller: NAJD
+  cores:
+    SHAM: no
+    NAJD: yes
+1932.9.23:
+  owner: SAUD
+  controller: SAUD
+  cores:
+    NAJD: no
+    SAUD: yes
+1980.1.1:
+  resource: oil

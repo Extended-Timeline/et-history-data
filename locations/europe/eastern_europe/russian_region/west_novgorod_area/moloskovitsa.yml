@@ -1,0 +1,109 @@
+#imported from EU4 file: history/provinces/34 - Ingermanland.txt
+2.1.1:
+  pop:
+    ethnicity: ingrian
+    religion: muinaisusko
+    estate: peasant
+    size: 1000
+550.1.1:
+  owner: VOTI
+  controller: VOTI
+  cores:
+    VOTI: yes
+  resource: fur
+750.1.1:
+  owner: VEST
+  controller: VEST
+  cores:
+    VOTI: no
+    VEST: yes
+860.1.1:
+  owner: NOV
+  controller: NOV
+  cores:
+    VEST: no
+    NOV: yes
+882.1.1:
+  owner: KIEV
+  controller: KIEV
+  cores:
+    NOV: no
+    KIEV: yes
+1000.1.1:
+  owner: ESTO
+  controller: ESTO
+  cores:
+    KIEV: no
+    ESTO: yes
+1240.1.1:
+  owner: TEU
+  controller: TEU
+  cores:
+    ESTO: no
+    TEU: yes
+  pop:
+    religion: orthodox
+    estate: peasant
+    size: 1000
+1241.1.1:
+  owner: NOV
+  controller: NOV
+  cores:
+    TEU: no
+    NOV: yes
+1478.1.15:
+  owner: MOS
+  controller: MOS
+  cores:
+    NOV: no
+    MOS: yes
+1503.4.1:
+  owner: RUS
+  controller: RUS
+  cores:
+    MOS: no
+    RUS: yes
+1581.7.1:
+  controller: SWE
+1583.8.10:
+  owner: SWE
+  cores:
+    SWE: yes
+1590.2.23:
+  owner: RUS
+  controller: RUS
+  cores:
+    SWE: no
+1612.12.4:
+  controller: SWE
+1617.2.17:
+  owner: SWE
+  cores:
+    RUS: no
+    SWE: yes
+1703.9.1:
+  controller: RUS
+1721.8.30:
+  owner: RUS
+  cores:
+    SWE: no
+    RUS: yes
+1850.1.1:
+  cores:
+    FIN: no
+1922.12.30:
+  owner: SOVI
+  controller: SOVI
+  cores:
+    RUS: no
+    SOVI: yes
+1941.8.28:
+  controller: GER
+1944.9.18:
+  controller: SOVI
+1991.12.25:
+  owner: RUS
+  controller: RUS
+  cores:
+    SOVI: no
+    RUS: yes

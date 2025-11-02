@@ -1,0 +1,71 @@
+#imported from EU4 file: history/provinces/2040 - Sadiya.txt
+2.1.1:
+  owner: SADI
+  controller: SADI
+  cores:
+    SADI: yes
+  resource: tea
+  pop:
+    ethnicity: dimasa_culture
+    religion: bimoism
+    estate: peasant
+    size: 1000
+450.1.1:
+  owner: KAMA
+  controller: KAMA
+  cores:
+    KAMA: yes
+550.1.1:
+  pop:
+    religion: hindu
+    estate: peasant
+    size: 1000
+950.1.1:
+  pop:
+    ethnicity: kamarupi
+    estate: peasant
+    size: 1000
+1100.1.1:
+  owner: SADI
+  controller: SADI
+  cores:
+    KAMA: no
+    SADI: yes
+1513.1.1:
+  owner: AHO
+  controller: AHO
+1817.3.27:
+  controller: BURM
+1817.4.1:
+  controller: AHO
+1819.3.11:
+  controller: BURM
+1820.1.27:
+  controller: AHO
+1821.3.1:
+  owner: BURM
+  controller: BURM
+1821.12.1:
+  owner: AHO
+  controller: AHO
+1822.4.1:
+  owner: BURM
+  controller: BURM
+1826.1.1:
+  owner: AHO
+  controller: AHO
+1832.1.1:
+  owner: GBR
+  controller: GBR
+  cores:
+    GBR: yes
+1930.1.1:
+  cores:
+    BURM: no
+    AHO: no
+    INDI: yes
+1947.8.15:
+  owner: INDI
+  controller: INDI
+  cores:
+    GBR: no

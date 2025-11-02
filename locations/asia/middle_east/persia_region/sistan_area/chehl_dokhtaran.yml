@@ -1,0 +1,131 @@
+#imported from EU4 file: history/provinces/435 - Sistan.txt
+2.1.1:
+  owner: IPAR
+  controller: IPAR
+  cores:
+    IPAR: yes
+    SURE: yes
+  resource: wool
+  pop:
+    ethnicity: afghan_culture
+    religion: zunism
+    estate: peasant
+    size: 1000
+20.1.1:
+  owner: SURE
+  controller: SURE
+  cores:
+    IPAR: no
+240.1.1:
+  owner: ERA
+  controller: ERA
+  cores:
+    SURE: no
+    ERA: yes
+644.1.1:
+  owner: RASH
+  controller: RASH
+  cores:
+    ERA: no
+    RASH: yes
+650.1.1:
+  pop:
+    ethnicity: khorasani_culture
+    estate: peasant
+    size: 1000
+661.7.28:
+  owner: UMAY
+  controller: UMAY
+  cores:
+    RASH: no
+    UMAY: yes
+680.1.1:
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+750.8.6:
+  owner: ABBA
+  controller: ABBA
+  cores:
+    UMAY: no
+    ABBA: yes
+821.1.1:
+  owner: KHOR
+  controller: KHOR
+  cores:
+    ABBA: no
+    KHOR: yes
+854.1.1:
+  owner: SIST
+  controller: SIST
+  cores:
+    KHOR: no
+    SIST: yes
+913.5.24:
+  owner: BUKH
+  controller: BUKH
+922.5.1:
+  owner: SIST
+  controller: SIST
+1002.12.1:
+  owner: GHAZ
+  controller: GHAZ
+  cores:
+    GHAZ: yes
+1029.1.1:
+  owner: SIST
+  controller: SIST
+  cores:
+    GHAZ: no
+1225.1.1:
+  owner: KHWA
+  controller: KHWA
+  cores:
+    KHWA: yes
+1231.1.1:
+  owner: MGE
+  controller: MGE
+  cores:
+    KHWA: no
+    MGE: yes
+1260.1.1:
+  owner: ILK
+  controller: ILK
+  cores:
+    MGE: no
+    ILK: yes
+1335.1.1:
+  owner: SIST
+  controller: SIST
+  cores:
+    ILK: no
+    SIST: yes
+1460.1.1:
+  controller: TIM
+1461.1.1:
+  controller: SIST
+1537.1.1:
+  owner: IRA
+  controller: IRA
+  cores:
+    IRA: yes
+1747.6.1:
+  owner: AFGH
+  controller: AFGH
+  cores:
+    AFGH: yes
+1820.1.1:
+  owner: IRA
+  controller: IRA
+  cores:
+    IRA: yes
+1905.1.1:
+  cores:
+    AFGH: no
+1935.1.1:
+  owner: IRAN
+  controller: IRAN
+  cores:
+    IRA: no
+    IRAN: yes

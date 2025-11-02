@@ -1,0 +1,25 @@
+blo_mikhail_rurikovich:
+  1402.1.1:
+    birth: beloozero #TODO: Date and location guessed, check if better data is available
+    first_name: mikhail
+    dynasty: rurikovich_dynasty
+    adm: 30
+    dip: 30
+    mil: 30
+    religion: orthodox
+    culture: novgorodian
+  3000.1.1:
+    death: yes
+blo_vasily_rurikovich:
+  1432.1.1:
+    birth: beloozero #TODO: Date and location guessed, check if better data is available
+    first_name: vasily
+    dynasty: rurikovich_dynasty
+    father: blo_mikhail_rurikovich #TODO: check if this makes sense
+    adm: 30
+    dip: 45
+    mil: 15
+    religion: orthodox
+    culture: novgorodian
+  1501.1.1:
+    death: yes

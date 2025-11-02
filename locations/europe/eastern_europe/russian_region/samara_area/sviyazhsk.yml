@@ -1,0 +1,82 @@
+#imported from EU4 file: history/provinces/4264 - Tetyushi.txt
+2.1.1:
+  pop:
+    ethnicity: bolghar_culture
+    religion: 
+    estate: peasant
+    size: 1000
+660.1.1:
+  owner: VBUL
+  controller: VBUL
+  cores:
+    VBUL: yes
+  resource: grain
+1100.1.1:
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+1236.1.1:
+  owner: MGE
+  controller: MGE
+  cores:
+    MGE: yes
+1250.1.1:
+  cores:
+    VBUL: no
+    KAZN: yes
+  pop:
+    ethnicity: kazani
+    estate: peasant
+    size: 1000
+1260.1.1:
+  owner: WHHO
+  controller: WHHO
+  cores:
+    MGE: no
+    WHHO: yes
+1372.1.1:
+  owner: BLHO
+  controller: BLHO
+  cores:
+    BLHO: yes
+1374.1.1:
+  owner: WHHO
+  controller: WHHO
+  cores:
+    BLHO: no
+1378.1.1:
+  owner: GLH
+  controller: GLH
+  cores:
+    GLH: yes
+1438.1.1:
+  owner: KAZN
+  controller: KAZN
+  cores:
+    GLH: no
+    KAZN: yes
+1552.10.2:
+  owner: RUS
+  controller: RUS
+  cores:
+    KAZN: no
+    RUS: yes
+1616.4.5:
+  pop:
+    ethnicity: muscovite
+    religion: orthodox
+    estate: peasant
+    size: 1000
+1922.12.30:
+  owner: SOVI
+  controller: SOVI
+  cores:
+    RUS: no
+    SOVI: yes
+1991.12.25:
+  owner: RUS
+  controller: RUS
+  cores:
+    SOVI: no
+    RUS: yes

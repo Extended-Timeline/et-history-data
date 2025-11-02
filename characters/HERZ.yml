@@ -1,0 +1,52 @@
+herz_stjepan_i_kosaca:
+  1404.1.1:
+    birth: trebinje #TODO: Date and location guessed, check if better data is available
+    first_name: stjepan
+    dynasty: kosaca_dynasty
+    adm: 60
+    dip: 75
+    mil: 60
+    religion: orthodox
+    culture: bosnian
+  1466.1.1:
+    death: yes
+herz_jelena_balsic:
+  1407.1.1:
+    birth: trebinje #TODO: Date and location guessed, check if better data is available
+    first_name: jelena
+    dynasty: balsic_dynasty
+    female: yes
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: orthodox
+    culture: bosnian
+  1453.1.1:
+    death: yes
+  1435.1.1:
+    spouse: herz_stjepan_i_kosaca #TODO: date guessed, see if better data is available
+herz_vladislav_i_kosaca:
+  1426.1.1:
+    birth: trebinje #TODO: Date and location guessed, check if better data is available
+    first_name: vladislav
+    dynasty: kosaca_dynasty
+    adm: 30
+    dip: 45
+    mil: 30
+    religion: orthodox
+    culture: bosnian
+  1489.1.1:
+    death: yes
+herz_vlatko_i_kosaca:
+  1428.1.1:
+    birth: trebinje #TODO: Date and location guessed, check if better data is available
+    first_name: vlatko
+    dynasty: kosaca_dynasty
+    father: herz_vladislav_i_kosaca #TODO: check if this makes sense
+    adm: 30
+    dip: 30
+    mil: 15
+    religion: orthodox
+    culture: bosnian
+  1489.1.1:
+    death: yes

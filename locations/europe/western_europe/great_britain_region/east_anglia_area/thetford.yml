@@ -1,0 +1,98 @@
+#imported from EU4 file: history/provinces/1860 - Norfolk.txt
+2.1.1:
+  owner: ICEN
+  controller: ICEN
+  cores:
+    ICEN: yes
+  resource: iron
+  pop:
+    ethnicity: briton
+    religion: druidism
+    estate: peasant
+    size: 1000
+43.1.1:
+  owner: ROM
+  controller: ROM
+  cores:
+    ROM: yes
+395.1.17:
+  owner: ROMW
+  controller: ROMW
+  cores:
+    ROM: no
+    ROMW: yes
+410.1.1:
+  owner: EANG
+  controller: EANG
+  cores:
+    ROMW: no
+    ICEN: no
+    EANG: yes
+  pop:
+    ethnicity: anglo_saxon
+    religion: germanic
+    estate: peasant
+    size: 1000
+616.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+794.1.1:
+  owner: MERC
+  controller: MERC
+  cores:
+    MERC: yes
+827.1.1:
+  owner: EANG
+  controller: EANG
+  cores:
+    MERC: no
+867.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+918.1.1:
+  owner: WESS
+  controller: WESS
+  cores:
+    WESS: yes
+927.1.1:
+  owner: ENG
+  controller: ENG
+  cores:
+    WESS: no
+    ENG: yes
+1050.1.1:
+  cores:
+    EANG: no
+1066.12.25:
+  pop:
+    ethnicity: english
+    estate: peasant
+    size: 1000
+1461.6.28:
+  controller: ENG
+1470.10.6:
+  controller: ENG
+1471.5.4:
+  controller: ENG
+1548.1.1:
+  pop:
+    religion: lutheran
+    estate: peasant
+    size: 1000
+1585.1.1:
+  pop:
+    religion: calvinist
+    estate: peasant
+    size: 1000
+1646.5.5:
+  controller: ENG
+1707.5.12:
+  owner: GBR
+  controller: GBR
+  cores:
+    ENG: no
+    GBR: yes

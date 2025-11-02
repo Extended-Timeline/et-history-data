@@ -1,0 +1,97 @@
+#imported from EU4 file: history/provinces/581 - Sagaing.txt
+2.1.1:
+  owner: HANL
+  controller: HANL
+  cores:
+    HANL: yes
+  resource: cotton
+  pop:
+    ethnicity: pyu
+    religion: theravada
+    estate: peasant
+    size: 1000
+800.1.1:
+  pop:
+    ethnicity: burmese_culture
+    estate: peasant
+    size: 1000
+850.1.1:
+  pop:
+    religion: tibetan_buddhism
+    estate: peasant
+    size: 1000
+870.1.1:
+  owner: TAGA
+  controller: TAGA
+  cores:
+    TAGA: yes
+949.1.1:
+  owner: PAGA
+  controller: PAGA
+  cores:
+    PAGA: yes
+1080.1.1:
+  pop:
+    religion: theravada
+    estate: peasant
+    size: 1000
+1287.7.1:
+  owner: MYIN
+  controller: MYIN
+  cores:
+    MYIN: yes
+    SAG: yes
+1297.12.17:
+  cores:
+    PAGA: no
+1315.5.15:
+  owner: SAG
+  controller: SAG
+  cores:
+    MYIN: no
+1365.2.26:
+  owner: AVA
+  controller: AVA
+  cores:
+    AVA: yes
+1527.1.1:
+  owner: SHA
+  controller: SHA
+  cores:
+    AVA: no
+    SHA: yes
+1554.1.1:
+  cores:
+    TNG: yes
+1555.1.22:
+  controller: TNG
+1563.4.1:
+  owner: TNG
+  cores:
+    SHA: no
+1752.2.28:
+  owner: BURM
+  controller: BURM
+  cores:
+    TNG: no
+    BURM: yes
+1885.11.29:
+  owner: GBR
+  controller: GBR
+  cores:
+    GBR: yes
+1942.5.1:
+  controller: JAP
+1945.3.1:
+  controller: GBR
+1948.1.4:
+  owner: BURM
+  controller: BURM
+  cores:
+    GBR: no
+1989.1.1:
+  owner: MYAN
+  controller: MYAN
+  cores:
+    BURM: no
+    MYAN: yes

@@ -1,0 +1,450 @@
+mli_abubakar_i_nabahani:
+  1406.1.1:
+    birth: malindi #TODO: Date and location guessed, check if better data is available
+    first_name: abubakar
+    dynasty: nabahani_dynasty
+    adm: 30
+    dip: 30
+    mil: 30
+    religion: sunni
+    culture: swahili_culture
+  1470.1.1:
+    death: yes
+mli_muhammad_iv_nabahani:
+  1430.1.1:
+    birth: malindi #TODO: Date and location guessed, check if better data is available
+    first_name: muhammad
+    dynasty: nabahani_dynasty
+    father: mli_abubakar_i_nabahani #TODO: check if this makes sense
+    adm: 30
+    dip: 15
+    mil: 15
+    religion: sunni
+    culture: swahili_culture
+  1495.1.1:
+    death: yes
+mli_muhammad_iv_nabahani_1:
+  1440.1.1:
+    birth: malindi #TODO: Date and location guessed, check if better data is available
+    first_name: muhammad
+    dynasty: nabahani_dynasty
+    adm: 30
+    dip: 15
+    mil: 15
+    religion: sunni
+    culture: swahili_culture
+  1495.1.1:
+    death: yes
+mli_abubakar_ii_nabahani:
+  1450.1.1:
+    birth: malindi #TODO: Date and location guessed, check if better data is available
+    first_name: abubakar
+    dynasty: nabahani_dynasty
+    father: mli_muhammad_iv_nabahani_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 15
+    mil: 15
+    religion: sunni
+    culture: swahili_culture
+  1538.1.1:
+    death: yes
+mli_abubakar_ii_nabahani_1:
+  1465.1.1:
+    birth: malindi #TODO: Date and location guessed, check if better data is available
+    first_name: abubakar
+    dynasty: nabahani_dynasty
+    adm: 15
+    dip: 15
+    mil: 15
+    religion: sunni
+    culture: swahili_culture
+  1538.1.1:
+    death: yes
+mli_bwana_mkuu_i_nabahani:
+  1480.1.1:
+    birth: malindi #TODO: Date and location guessed, check if better data is available
+    first_name: bwana_mkuu
+    dynasty: nabahani_dynasty
+    father: mli_abubakar_ii_nabahani_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 0
+    mil: 30
+    religion: sunni
+    culture: swahili_culture
+  1565.1.1:
+    death: yes
+mli_bwana_mkuu_i_nabahani_1:
+  1508.1.1:
+    birth: malindi #TODO: Date and location guessed, check if better data is available
+    first_name: bwana_mkuu
+    dynasty: nabahani_dynasty
+    adm: 30
+    dip: 0
+    mil: 30
+    religion: sunni
+    culture: swahili_culture
+  1565.1.1:
+    death: yes
+mli_muhammad_v_nabahani:
+  1520.1.1:
+    birth: malindi #TODO: Date and location guessed, check if better data is available
+    first_name: muhammad
+    dynasty: nabahani_dynasty
+    father: mli_bwana_mkuu_i_nabahani_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 60
+    mil: 60
+    religion: sunni
+    culture: swahili_culture
+  1594.1.1:
+    death: yes
+mli_muhammad_v_nabahani_1:
+  1535.1.1:
+    birth: malindi #TODO: Date and location guessed, check if better data is available
+    first_name: muhammad
+    dynasty: nabahani_dynasty
+    adm: 45
+    dip: 60
+    mil: 60
+    religion: sunni
+    culture: swahili_culture
+  1594.1.1:
+    death: yes
+mli_bwana_bakari_i_nabahani:
+  1540.1.1:
+    birth: malindi #TODO: Date and location guessed, check if better data is available
+    first_name: bwana_bakari
+    dynasty: nabahani_dynasty
+    father: mli_muhammad_v_nabahani_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 30
+    mil: 30
+    religion: sunni
+    culture: swahili_culture
+  1602.1.1:
+    death: yes
+mli_bwana_bakari_i_nabahani_1:
+  1564.1.1:
+    birth: malindi #TODO: Date and location guessed, check if better data is available
+    first_name: bwana_bakari
+    dynasty: nabahani_dynasty
+    adm: 30
+    dip: 30
+    mil: 30
+    religion: sunni
+    culture: swahili_culture
+  1602.1.1:
+    death: yes
+mli_abubakar_bwana_gogo_nabahani:
+  1570.1.1:
+    birth: malindi #TODO: Date and location guessed, check if better data is available
+    first_name: abubakar_bwana_gogo
+    dynasty: nabahani_dynasty
+    father: mli_bwana_bakari_i_nabahani_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 30
+    mil: 15
+    religion: sunni
+    culture: swahili_culture
+  1651.1.1:
+    death: yes
+mli_abubakar_bwana_gogo_nabahani_1:
+  1572.1.1:
+    birth: malindi #TODO: Date and location guessed, check if better data is available
+    first_name: abubakar_bwana_gogo
+    dynasty: nabahani_dynasty
+    adm: 15
+    dip: 30
+    mil: 15
+    religion: sunni
+    culture: swahili_culture
+  1651.1.1:
+    death: yes
+mli_bwana_mkuu_ii_nabahani:
+  1585.1.1:
+    birth: malindi #TODO: Date and location guessed, check if better data is available
+    first_name: bwana_mkuu
+    dynasty: nabahani_dynasty
+    father: mli_abubakar_bwana_gogo_nabahani_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 15
+    mil: 15
+    religion: sunni
+    culture: swahili_culture
+  1689.1.1:
+    death: yes
+mli_bwana_mkuu_ii_nabahani_1:
+  1621.1.1:
+    birth: malindi #TODO: Date and location guessed, check if better data is available
+    first_name: bwana_mkuu
+    dynasty: nabahani_dynasty
+    adm: 30
+    dip: 15
+    mil: 15
+    religion: sunni
+    culture: swahili_culture
+  1689.1.1:
+    death: yes
+mli_bwana_bakari_ii_nabahani:
+  1640.1.1:
+    birth: malindi #TODO: Date and location guessed, check if better data is available
+    first_name: bwana_bakari
+    dynasty: nabahani_dynasty
+    father: mli_bwana_mkuu_ii_nabahani_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: sunni
+    culture: swahili_culture
+  1692.1.1:
+    death: yes
+mli_bwana_bakari_ii_nabahani_1:
+  1659.1.1:
+    birth: malindi #TODO: Date and location guessed, check if better data is available
+    first_name: bwana_bakari
+    dynasty: nabahani_dynasty
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: sunni
+    culture: swahili_culture
+  1692.1.1:
+    death: yes
+mli_ahmad_iv_nabahani:
+  1670.1.1:
+    birth: malindi #TODO: Date and location guessed, check if better data is available
+    first_name: ahmad
+    dynasty: nabahani_dynasty
+    father: mli_bwana_bakari_ii_nabahani_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 60
+    mil: 45
+    religion: sunni
+    culture: swahili_culture
+  1699.1.1:
+    death: yes
+mli_ahmad_iv_nabahani_1:
+  1662.1.1:
+    birth: malindi #TODO: Date and location guessed, check if better data is available
+    first_name: ahmad
+    dynasty: nabahani_dynasty
+    adm: 30
+    dip: 60
+    mil: 45
+    religion: sunni
+    culture: swahili_culture
+  1699.1.1:
+    death: yes
+mli_bwana_tamu_mkuu_nabahani:
+  1680.1.1:
+    birth: malindi #TODO: Date and location guessed, check if better data is available
+    first_name: bwana_tamu_mkuu
+    dynasty: nabahani_dynasty
+    father: mli_ahmad_iv_nabahani_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 15
+    mil: 30
+    religion: sunni
+    culture: swahili_culture
+  1739.1.1:
+    death: yes
+mli_bwana_tamu_mkuu_nabahani_1:
+  1669.1.1:
+    birth: malindi #TODO: Date and location guessed, check if better data is available
+    first_name: bwana_tamu_mkuu
+    dynasty: nabahani_dynasty
+    adm: 15
+    dip: 15
+    mil: 30
+    religion: sunni
+    culture: swahili_culture
+  1739.1.1:
+    death: yes
+mli_ahmad_v_nabahani:
+  1685.1.1:
+    birth: malindi #TODO: Date and location guessed, check if better data is available
+    first_name: ahmad
+    dynasty: nabahani_dynasty
+    father: mli_bwana_tamu_mkuu_nabahani_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 30
+    mil: 45
+    religion: sunni
+    culture: swahili_culture
+  1747.1.1:
+    death: yes
+mli_ahmad_v_nabahani_1:
+  1709.1.1:
+    birth: malindi #TODO: Date and location guessed, check if better data is available
+    first_name: ahmad
+    dynasty: nabahani_dynasty
+    adm: 45
+    dip: 30
+    mil: 45
+    religion: sunni
+    culture: swahili_culture
+  1747.1.1:
+    death: yes
+mli_bwana_tamu_mtoto_nabahani:
+  1725.1.1:
+    birth: malindi #TODO: Date and location guessed, check if better data is available
+    first_name: bwana_tamu_mtoto
+    dynasty: nabahani_dynasty
+    father: mli_ahmad_v_nabahani_1 #TODO: check if this makes sense
+    adm: 60
+    dip: 30
+    mil: 30
+    religion: sunni
+    culture: swahili_culture
+  1763.1.1:
+    death: yes
+mli_bwana_tamu_mtoto_nabahani_1:
+  1717.1.1:
+    birth: malindi #TODO: Date and location guessed, check if better data is available
+    first_name: bwana_tamu_mtoto
+    dynasty: nabahani_dynasty
+    adm: 60
+    dip: 30
+    mil: 30
+    religion: sunni
+    culture: swahili_culture
+  1763.1.1:
+    death: yes
+mli_mwana_khadija_nabahani:
+  1730.1.1:
+    birth: malindi #TODO: Date and location guessed, check if better data is available
+    first_name: mwana_khadija
+    dynasty: nabahani_dynasty
+    father: mli_bwana_tamu_mtoto_nabahani_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 45
+    mil: 30
+    religion: sunni
+    culture: swahili_culture
+  1773.1.1:
+    death: yes
+mli_mwana_khadija_nabahani_1:
+  1733.1.1:
+    birth: malindi #TODO: Date and location guessed, check if better data is available
+    first_name: mwana_khadija
+    dynasty: nabahani_dynasty
+    adm: 30
+    dip: 45
+    mil: 30
+    religion: sunni
+    culture: swahili_culture
+  1773.1.1:
+    death: yes
+mli_bwana_mkuu_iv_nabahani:
+  1750.1.1:
+    birth: malindi #TODO: Date and location guessed, check if better data is available
+    first_name: bwana_mkuu
+    dynasty: nabahani_dynasty
+    father: mli_mwana_khadija_nabahani_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 60
+    mil: 45
+    religion: sunni
+    culture: swahili_culture
+  1777.1.1:
+    death: yes
+mli_bwana_mkuu_iv_nabahani_1:
+  1743.1.1:
+    birth: malindi #TODO: Date and location guessed, check if better data is available
+    first_name: bwana_mkuu
+    dynasty: nabahani_dynasty
+    adm: 30
+    dip: 60
+    mil: 45
+    religion: sunni
+    culture: swahili_culture
+  1777.1.1:
+    death: yes
+mli_bwana_fumo_madi_nabahani:
+  1755.1.1:
+    birth: malindi #TODO: Date and location guessed, check if better data is available
+    first_name: bwana_fumo_madi
+    dynasty: nabahani_dynasty
+    father: mli_bwana_mkuu_iv_nabahani_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 15
+    mil: 30
+    religion: sunni
+    culture: swahili_culture
+  1809.1.1:
+    death: yes
+mli_bwana_fumo_madi_nabahani_1:
+  1747.1.1:
+    birth: malindi #TODO: Date and location guessed, check if better data is available
+    first_name: bwana_fumo_madi
+    dynasty: nabahani_dynasty
+    adm: 15
+    dip: 15
+    mil: 30
+    religion: sunni
+    culture: swahili_culture
+  1809.1.1:
+    death: yes
+mli_ahmad_vi_nabahani:
+  1760.1.1:
+    birth: malindi #TODO: Date and location guessed, check if better data is available
+    first_name: ahmad
+    dynasty: nabahani_dynasty
+    father: mli_bwana_fumo_madi_nabahani_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 15
+    mil: 15
+    religion: sunni
+    culture: swahili_culture
+  1815.1.1:
+    death: yes
+mli_ahmad_vi_nabahani_1:
+  1779.1.1:
+    birth: malindi #TODO: Date and location guessed, check if better data is available
+    first_name: ahmad
+    dynasty: nabahani_dynasty
+    adm: 30
+    dip: 15
+    mil: 15
+    religion: sunni
+    culture: swahili_culture
+  1815.1.1:
+    death: yes
+mli_fumo_luti_kipanga_nabahani:
+  1790.1.1:
+    birth: malindi #TODO: Date and location guessed, check if better data is available
+    first_name: fumo_luti_kipanga
+    dynasty: nabahani_dynasty
+    father: mli_ahmad_vi_nabahani_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: sunni
+    culture: swahili_culture
+  1821.1.1:
+    death: yes
+mli_fumo_luti_kipanga_nabahani_1:
+  1785.1.1:
+    birth: malindi #TODO: Date and location guessed, check if better data is available
+    first_name: fumo_luti_kipanga
+    dynasty: nabahani_dynasty
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: sunni
+    culture: swahili_culture
+  3000.1.1:
+    death: yes
+mli_fumo_luti_nabahani:
+  1800.1.1:
+    birth: malindi #TODO: Date and location guessed, check if better data is available
+    first_name: fumo_luti
+    dynasty: nabahani_dynasty
+    father: mli_fumo_luti_kipanga_nabahani_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 30
+    mil: 30
+    religion: sunni
+    culture: swahili_culture
+  1824.1.1:
+    death: yes

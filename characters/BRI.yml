@@ -1,0 +1,716 @@
+bri_nominoe_nominoid:
+  816.1.1:
+    birth: nantes #TODO: Date and location guessed, check if better data is available
+    first_name: nominoe
+    dynasty: nominoid_dynasty
+    adm: 15
+    dip: 15
+    mil: 15
+    religion: chalcedonism
+    culture: breton
+  851.3.7:
+    death: yes
+bri_erispoe_nominoid:
+  820.1.1:
+    birth: nantes #TODO: Date and location guessed, check if better data is available
+    first_name: erispoe
+    dynasty: nominoid_dynasty
+    father: bri_nominoe_nominoid #TODO: check if this makes sense
+    adm: 30
+    dip: 45
+    mil: 60
+    religion: chalcedonism
+    culture: breton
+  857.11.12:
+    death: yes
+bri_erispoe_nominoid_1:
+  821.1.1:
+    birth: nantes #TODO: Date and location guessed, check if better data is available
+    first_name: erispoe
+    dynasty: nominoid_dynasty
+    adm: 30
+    dip: 45
+    mil: 60
+    religion: chalcedonism
+    culture: breton
+  857.11.12:
+    death: yes
+bri_salomon_salomonid:
+  827.1.1:
+    birth: nantes #TODO: Date and location guessed, check if better data is available
+    first_name: salomon
+    dynasty: salomonid_dynasty
+    adm: 60
+    dip: 45
+    mil: 75
+    religion: catholic
+    culture: breton
+  874.1.1:
+    death: yes
+bri_pasquitan_de_vannes:
+  844.1.1:
+    birth: nantes #TODO: Date and location guessed, check if better data is available
+    first_name: pasquitan
+    dynasty: de_vannes_dynasty
+    adm: 60
+    dip: 45
+    mil: 75
+    religion: catholic
+    culture: breton
+  877.1.1:
+    death: yes
+bri_alan_i_de_vannes:
+  847.1.1:
+    birth: nantes #TODO: Date and location guessed, check if better data is available
+    first_name: alan
+    dynasty: de_vannes_dynasty
+    adm: 60
+    dip: 45
+    mil: 60
+    religion: catholic
+    culture: breton
+  938.1.1:
+    death: yes
+bri_alan_ii_de_nantes:
+  908.1.1:
+    birth: nantes #TODO: Date and location guessed, check if better data is available
+    first_name: alan
+    dynasty: de_nantes_dynasty
+    adm: 15
+    dip: 45
+    mil: 75
+    religion: catholic
+    culture: breton
+  952.1.1:
+    death: yes
+bri_drogo_i_de_nantes:
+  922.1.1:
+    birth: nantes #TODO: Date and location guessed, check if better data is available
+    first_name: drogo
+    dynasty: de_nantes_dynasty
+    adm: 30
+    dip: 45
+    mil: 60
+    religion: catholic
+    culture: breton
+  960.1.1:
+    death: yes
+bri_hoel_i_de_nantes:
+  930.1.1:
+    birth: nantes #TODO: Date and location guessed, check if better data is available
+    first_name: hoel
+    dynasty: de_nantes_dynasty
+    adm: 15
+    dip: 30
+    mil: 60
+    religion: catholic
+    culture: breton
+  981.1.1:
+    death: yes
+bri_guerech_i_de_nantes:
+  951.1.1:
+    birth: nantes #TODO: Date and location guessed, check if better data is available
+    first_name: guerech
+    dynasty: de_nantes_dynasty
+    adm: 60
+    dip: 30
+    mil: 75
+    religion: catholic
+    culture: breton
+  988.1.1:
+    death: yes
+bri_alan_de_nantes:
+  958.1.1:
+    birth: nantes #TODO: Date and location guessed, check if better data is available
+    first_name: alan
+    dynasty: de_nantes_dynasty
+    adm: 75
+    dip: 75
+    mil: 15
+    religion: catholic
+    culture: breton
+  990.1.1:
+    death: yes
+bri_konan_i_de_rennes:
+  960.1.1:
+    birth: nantes #TODO: Date and location guessed, check if better data is available
+    first_name: konan
+    dynasty: de_rennes_dynasty
+    adm: 15
+    dip: 60
+    mil: 75
+    religion: catholic
+    culture: breton
+  992.6.27:
+    death: yes
+bri_jafrez_i_de_rennes:
+  980.1.1:
+    birth: nantes #TODO: Date and location guessed, check if better data is available
+    first_name: jafrez
+    dynasty: de_rennes_dynasty
+    father: bri_konan_i_de_rennes #TODO: check if this makes sense
+    adm: 30
+    dip: 15
+    mil: 60
+    religion: catholic
+    culture: breton
+  1008.11.20:
+    death: yes
+bri_jafrez_i_de_rennes_1:
+  962.1.1:
+    birth: nantes #TODO: Date and location guessed, check if better data is available
+    first_name: jafrez
+    dynasty: de_rennes_dynasty
+    adm: 30
+    dip: 15
+    mil: 60
+    religion: catholic
+    culture: breton
+  1008.11.20:
+    death: yes
+bri_alan_iii_de_rennes:
+  997.1.1:
+    birth: nantes #TODO: Date and location guessed, check if better data is available
+    first_name: alan
+    dynasty: de_rennes_dynasty
+    father: bri_jafrez_i_de_rennes_1 #TODO: check if this makes sense
+    adm: 75
+    dip: 45
+    mil: 75
+    religion: catholic
+    culture: breton
+  1040.10.1:
+    death: yes
+bri_alan_iii_de_rennes_1:
+  978.1.1:
+    birth: nantes #TODO: Date and location guessed, check if better data is available
+    first_name: alan
+    dynasty: de_rennes_dynasty
+    adm: 75
+    dip: 45
+    mil: 75
+    religion: catholic
+    culture: breton
+  1040.10.1:
+    death: yes
+bri_konan_ii_de_rennes:
+  1033.1.1:
+    birth: nantes #TODO: Date and location guessed, check if better data is available
+    first_name: konan
+    dynasty: de_rennes_dynasty
+    father: bri_alan_iii_de_rennes_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 45
+    mil: 30
+    religion: catholic
+    culture: breton
+  1066.12.11:
+    death: yes
+bri_konan_ii_de_rennes_1:
+  1010.1.1:
+    birth: nantes #TODO: Date and location guessed, check if better data is available
+    first_name: konan
+    dynasty: de_rennes_dynasty
+    adm: 30
+    dip: 45
+    mil: 30
+    religion: catholic
+    culture: breton
+  1066.12.11:
+    death: yes
+bri_hawiz_i_de_rennes:
+  1037.1.1:
+    birth: nantes #TODO: Date and location guessed, check if better data is available
+    first_name: hawiz
+    dynasty: de_rennes_dynasty
+    female: yes
+    father: bri_konan_ii_de_rennes_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 60
+    mil: 45
+    religion: catholic
+    culture: breton
+  1072.8.19:
+    death: yes
+bri_hawiz_i_de_rennes_1:
+  1036.1.1:
+    birth: nantes #TODO: Date and location guessed, check if better data is available
+    first_name: hawiz
+    dynasty: de_rennes_dynasty
+    female: yes
+    adm: 45
+    dip: 60
+    mil: 45
+    religion: catholic
+    culture: breton
+  1084.1.1:
+    death: yes
+bri_alan_iv_de_cornouaille:
+  1054.1.1:
+    birth: nantes #TODO: Date and location guessed, check if better data is available
+    first_name: alan
+    dynasty: de_cornouaille_dynasty
+    adm: 15
+    dip: 15
+    mil: 45
+    religion: catholic
+    culture: breton
+  1112.1.1:
+    death: yes
+bri_konan_iii_de_cornouaille:
+  1093.1.1:
+    birth: nantes #TODO: Date and location guessed, check if better data is available
+    first_name: konan
+    dynasty: de_cornouaille_dynasty
+    father: bri_alan_iv_de_cornouaille #TODO: check if this makes sense
+    adm: 45
+    dip: 15
+    mil: 15
+    religion: catholic
+    culture: breton
+  1148.9.17:
+    death: yes
+bri_konan_iii_de_cornouaille_1:
+  1082.1.1:
+    birth: nantes #TODO: Date and location guessed, check if better data is available
+    first_name: konan
+    dynasty: de_cornouaille_dynasty
+    adm: 45
+    dip: 15
+    mil: 15
+    religion: catholic
+    culture: breton
+  1148.9.17:
+    death: yes
+bri_berta_i_de_cornouaille:
+  1114.1.1:
+    birth: nantes #TODO: Date and location guessed, check if better data is available
+    first_name: berta
+    dynasty: de_cornouaille_dynasty
+    female: yes
+    father: bri_konan_iii_de_cornouaille_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 60
+    mil: 15
+    religion: catholic
+    culture: breton
+  1156.1.1:
+    death: yes
+bri_berta_i_de_cornouaille_1:
+  1118.1.1:
+    birth: nantes #TODO: Date and location guessed, check if better data is available
+    first_name: berta
+    dynasty: de_cornouaille_dynasty
+    female: yes
+    adm: 45
+    dip: 60
+    mil: 15
+    religion: catholic
+    culture: breton
+  1156.1.1:
+    death: yes
+bri_konan_iv_de_penthievre:
+  1126.1.1:
+    birth: nantes #TODO: Date and location guessed, check if better data is available
+    first_name: konan
+    dynasty: de_penthievre_dynasty
+    adm: 45
+    dip: 60
+    mil: 15
+    religion: catholic
+    culture: breton
+  1171.2.20:
+    death: yes
+bri_konstanza_de_penthievre:
+  1161.6.12:
+    birth: nantes #TODO: Location guessed, check if better data is available
+    first_name: konstanza
+    dynasty: de_penthievre_dynasty
+    female: yes
+    father: bri_konan_iv_de_penthievre #TODO: check if this makes sense
+    adm: 45
+    dip: 30
+    mil: 60
+    religion: catholic
+    culture: breton
+  1201.9.5:
+    death: yes
+bri_konstanza_de_penthievre_1:
+  1141.1.1:
+    birth: nantes #TODO: Date and location guessed, check if better data is available
+    first_name: konstanza
+    dynasty: de_penthievre_dynasty
+    female: yes
+    adm: 45
+    dip: 30
+    mil: 60
+    religion: catholic
+    culture: breton
+  1201.9.5:
+    death: yes
+bri_artur_i_plantagenet:
+  1171.1.1:
+    birth: nantes #TODO: Date and location guessed, check if better data is available
+    first_name: artur
+    dynasty: plantagenet_dynasty
+    adm: 60
+    dip: 30
+    mil: 45
+    religion: catholic
+    culture: breton
+  1203.4.3:
+    death: yes
+bri_alis_de_thouars:
+  1173.1.1:
+    birth: nantes #TODO: Date and location guessed, check if better data is available
+    first_name: alis
+    dynasty: de_thouars_dynasty
+    female: yes
+    adm: 45
+    dip: 60
+    mil: 15
+    religion: catholic
+    culture: breton
+  1221.10.21:
+    death: yes
+bri_jean_i_de_dreux:
+  1191.1.1:
+    birth: nantes #TODO: Date and location guessed, check if better data is available
+    first_name: jean
+    dynasty: de_dreux_dynasty
+    adm: 45
+    dip: 45
+    mil: 60
+    religion: catholic
+    culture: breton
+  1286.10.8:
+    death: yes
+bri_jean_ii_de_dreux:
+  1239.1.3:
+    birth: nantes #TODO: Location guessed, check if better data is available
+    first_name: jean
+    dynasty: de_dreux_dynasty
+    father: bri_jean_i_de_dreux #TODO: check if this makes sense
+    adm: 30
+    dip: 75
+    mil: 15
+    religion: catholic
+    culture: breton
+  1305.11.16:
+    death: yes
+bri_jean_ii_de_dreux_1:
+  1256.1.1:
+    birth: nantes #TODO: Date and location guessed, check if better data is available
+    first_name: jean
+    dynasty: de_dreux_dynasty
+    adm: 30
+    dip: 75
+    mil: 15
+    religion: catholic
+    culture: breton
+  1305.11.16:
+    death: yes
+bri_artur_ii_de_dreux:
+  1262.7.2:
+    birth: nantes #TODO: Location guessed, check if better data is available
+    first_name: artur
+    dynasty: de_dreux_dynasty
+    father: bri_jean_ii_de_dreux_1 #TODO: check if this makes sense
+    adm: 60
+    dip: 75
+    mil: 75
+    religion: catholic
+    culture: breton
+  1312.8.27:
+    death: yes
+bri_artur_ii_de_dreux_1:
+  1275.1.1:
+    birth: nantes #TODO: Date and location guessed, check if better data is available
+    first_name: artur
+    dynasty: de_dreux_dynasty
+    adm: 60
+    dip: 75
+    mil: 75
+    religion: catholic
+    culture: breton
+  1312.8.27:
+    death: yes
+bri_jean_iii_de_dreux:
+  1286.3.8:
+    birth: nantes #TODO: Location guessed, check if better data is available
+    first_name: jean
+    dynasty: de_dreux_dynasty
+    father: bri_artur_ii_de_dreux_1 #TODO: check if this makes sense
+    adm: 75
+    dip: 60
+    mil: 60
+    religion: catholic
+    culture: breton
+  1341.4.30:
+    death: yes
+bri_jean_iii_de_dreux_1:
+  1282.1.1:
+    birth: nantes #TODO: Date and location guessed, check if better data is available
+    first_name: jean
+    dynasty: de_dreux_dynasty
+    adm: 75
+    dip: 60
+    mil: 60
+    religion: catholic
+    culture: breton
+  1341.4.30:
+    death: yes
+bri_jean_iv_de_dreux:
+  1293.1.1:
+    birth: nantes #TODO: Date and location guessed, check if better data is available
+    first_name: jean
+    dynasty: de_dreux_dynasty
+    father: bri_jean_iii_de_dreux_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 30
+    mil: 75
+    religion: catholic
+    culture: breton
+  1345.9.26:
+    death: yes
+bri_jean_iv_de_dreux_1:
+  1311.1.1:
+    birth: nantes #TODO: Date and location guessed, check if better data is available
+    first_name: jean
+    dynasty: de_dreux_dynasty
+    adm: 15
+    dip: 30
+    mil: 75
+    religion: catholic
+    culture: breton
+  1345.9.16:
+    death: yes
+bri_jean_v_de_dreux:
+  1339.1.1:
+    birth: nantes #TODO: Date and location guessed, check if better data is available
+    first_name: jean
+    dynasty: de_dreux_dynasty
+    father: bri_jean_iv_de_dreux_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 45
+    mil: 75
+    religion: catholic
+    culture: breton
+  1399.11.1:
+    death: yes
+bri_jean_v_de_dreux_1:
+  1315.1.1:
+    birth: nantes #TODO: Date and location guessed, check if better data is available
+    first_name: jean
+    dynasty: de_dreux_dynasty
+    adm: 45
+    dip: 45
+    mil: 75
+    religion: catholic
+    culture: breton
+  1399.11.1:
+    death: yes
+bri_jean_vi_de_dreux:
+  1389.12.24:
+    birth: nantes #TODO: Location guessed, check if better data is available
+    first_name: jean
+    dynasty: de_dreux_dynasty
+    father: bri_jean_v_de_dreux_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 45
+    mil: 45
+    religion: catholic
+    culture: breton
+  1442.8.29:
+    death: yes
+bri_jean_vi_de_dreux_1:
+  1369.1.1:
+    birth: nantes #TODO: Date and location guessed, check if better data is available
+    first_name: jean
+    dynasty: de_dreux_dynasty
+    adm: 30
+    dip: 45
+    mil: 45
+    religion: catholic
+    culture: breton
+  1442.8.29:
+    death: yes
+bri_francois_i_de_dreux:
+  1414.5.14:
+    birth: nantes #TODO: Location guessed, check if better data is available
+    first_name: francois
+    dynasty: de_dreux_dynasty
+    father: bri_jean_vi_de_dreux_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 30
+    mil: 45
+    religion: catholic
+    culture: breton
+  1450.7.18:
+    death: yes
+bri_francois_i_de_dreux_1:
+  1412.1.1:
+    birth: nantes #TODO: Date and location guessed, check if better data is available
+    first_name: francois
+    dynasty: de_dreux_dynasty
+    adm: 30
+    dip: 30
+    mil: 45
+    religion: catholic
+    culture: breton
+  1450.7.20:
+    death: yes
+bri_pierre_ii_de_dreux:
+  1418.1.1:
+    birth: nantes #TODO: Date and location guessed, check if better data is available
+    first_name: pierre
+    dynasty: de_dreux_dynasty
+    father: bri_francois_i_de_dreux_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 45
+    mil: 60
+    religion: catholic
+    culture: breton
+  1457.9.23:
+    death: yes
+bri_pierre_ii_de_dreux_1:
+  1420.1.1:
+    birth: nantes #TODO: Date and location guessed, check if better data is available
+    first_name: pierre
+    dynasty: de_dreux_dynasty
+    adm: 45
+    dip: 45
+    mil: 60
+    religion: catholic
+    culture: breton
+  1457.9.23:
+    death: yes
+bri_artur_iii_de_dreux:
+  1393.8.24:
+    birth: nantes #TODO: Location guessed, check if better data is available
+    first_name: artur
+    dynasty: de_dreux_dynasty
+    father: bri_pierre_ii_de_dreux_1 #TODO: check if this makes sense
+    adm: 60
+    dip: 45
+    mil: 75
+    religion: catholic
+    culture: breton
+  1458.12.26:
+    death: yes
+bri_artur_iii_de_dreux_1:
+  1427.1.1:
+    birth: nantes #TODO: Date and location guessed, check if better data is available
+    first_name: artur
+    dynasty: de_dreux_dynasty
+    adm: 60
+    dip: 45
+    mil: 75
+    religion: catholic
+    culture: breton
+  1458.12.27:
+    death: yes
+bri_francois_ii_de_dreux:
+  1433.6.23:
+    birth: nantes #TODO: Location guessed, check if better data is available
+    first_name: francois
+    dynasty: de_dreux_dynasty
+    father: bri_artur_iii_de_dreux_1 #TODO: check if this makes sense
+    adm: 60
+    dip: 60
+    mil: 30
+    religion: catholic
+    culture: breton
+  1488.9.9:
+    death: yes
+bri_francois_ii_de_dreux_1:
+  1428.1.1:
+    birth: nantes #TODO: Date and location guessed, check if better data is available
+    first_name: francois
+    dynasty: de_dreux_dynasty
+    adm: 60
+    dip: 60
+    mil: 30
+    religion: catholic
+    culture: breton
+  1488.9.10:
+    death: yes
+bri_anne_i_de_dreux:
+  1477.1.25:
+    birth: nantes #TODO: Location guessed, check if better data is available
+    first_name: anne
+    dynasty: de_dreux_dynasty
+    female: yes
+    father: bri_francois_ii_de_dreux_1 #TODO: check if this makes sense
+    adm: 90
+    dip: 75
+    mil: 30
+    religion: catholic
+    culture: breton
+  1514.1.9:
+    death: yes
+bri_anne_i_de_dreux_1:
+  1458.1.1:
+    birth: nantes #TODO: Date and location guessed, check if better data is available
+    first_name: anne
+    dynasty: de_dreux_dynasty
+    female: yes
+    adm: 90
+    dip: 75
+    mil: 30
+    religion: catholic
+    culture: breton
+  1514.1.10:
+    death: yes
+bri_claude_i_de_valois:
+  1499.10.14:
+    birth: nantes #TODO: Location guessed, check if better data is available
+    first_name: claude
+    dynasty: de_valois_dynasty
+    female: yes
+    father: bri_anne_i_de_dreux_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: catholic
+    culture: breton
+  1525.7.20:
+    death: yes
+bri_claude_i_de_valois_1:
+  1484.1.1:
+    birth: nantes #TODO: Date and location guessed, check if better data is available
+    first_name: claude
+    dynasty: de_valois_dynasty
+    female: yes
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: catholic
+    culture: breton
+  1524.7.21:
+    death: yes
+bri_francois_iii_de_valois:
+  1518.2.28:
+    birth: nantes #TODO: Location guessed, check if better data is available
+    first_name: francois
+    dynasty: de_valois_dynasty
+    father: bri_claude_i_de_valois_1 #TODO: check if this makes sense
+    adm: 60
+    dip: 45
+    mil: 30
+    religion: catholic
+    culture: breton
+  1536.8.10:
+    death: yes
+bri_francois_iii_de_valois_1:
+  1494.1.1:
+    birth: nantes #TODO: Date and location guessed, check if better data is available
+    first_name: francois
+    dynasty: de_valois_dynasty
+    adm: 60
+    dip: 45
+    mil: 30
+    religion: catholic
+    culture: breton
+  3000.1.1:
+    death: yes

@@ -1,0 +1,187 @@
+#imported from EU4 file: history/provinces/379 - Judea.txt
+2.1.1:
+  owner: JUDE
+  controller: JUDE
+  cores:
+    JUDE: yes
+  resource: grain
+  pop:
+    ethnicity: samaritan_culture
+    religion: judaism
+    estate: peasant
+    size: 1000
+6.1.1:
+  owner: ROM
+  controller: ROM
+  cores:
+    ROM: yes
+73.1.1:
+  controller: ROM
+135.1.1:
+  controller: ROM
+138.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+269.1.1:
+  cores:
+    PALM: yes
+  pop:
+    ethnicity: syriac_culture
+    estate: peasant
+    size: 1000
+272.1.1:
+  controller: ROM
+  cores:
+    PALM: no
+  pop:
+    ethnicity: samaritan_culture
+    estate: peasant
+    size: 1000
+395.1.17:
+  owner: BYZ
+  controller: BYZ
+  cores:
+    ROM: no
+    BYZ: yes
+613.1.1:
+  controller: BYZ
+614.5.1:
+  controller: ERA
+628.1.1:
+  controller: BYZ
+637.1.1:
+  owner: RASH
+  controller: RASH
+  cores:
+    BYZ: no
+    RASH: yes
+661.7.28:
+  owner: UMAY
+  controller: UMAY
+  cores:
+    RASH: no
+    UMAY: yes
+720.1.1:
+  pop:
+    ethnicity: palestinian
+    estate: peasant
+    size: 1000
+750.8.6:
+  owner: ABBA
+  controller: ABBA
+  cores:
+    UMAY: no
+    ABBA: yes
+867.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+868.9.15:
+  owner: EGY
+  controller: EGY
+  cores:
+    ABBA: no
+    EGY: yes
+905.1.10:
+  owner: ABBA
+  controller: ABBA
+  cores:
+    ABBA: yes
+935.8.26:
+  owner: EGY
+  controller: EGY
+  cores:
+    ABBA: no
+    EGY: yes
+970.3.1:
+  owner: FATI
+  controller: FATI
+  cores:
+    EGY: no
+    FATI: yes
+1099.7.1:
+  owner: KOJ
+  controller: KOJ
+  cores:
+    FATI: no
+    KOJ: yes
+1130.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+1187.10.2:
+  owner: EGY
+  controller: EGY
+  cores:
+    EGY: yes
+1229.1.1:
+  owner: KOJ
+  controller: KOJ
+1244.1.1:
+  owner: EGY
+  controller: EGY
+1250.5.2:
+  owner: MAM
+  controller: MAM
+  cores:
+    EGY: no
+    MAM: yes
+1291.1.1:
+  cores:
+    KOJ: no
+1300.1.1:
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+1382.1.1:
+  controller: MAM
+1517.1.1:
+  owner: TUR
+  controller: TUR
+  cores:
+    TUR: yes
+1750.1.1:
+  cores:
+    SYRI: yes
+1833.5.6:
+  owner: EGY
+  controller: EGY
+  cores:
+    MAM: no
+    EGY: yes
+1841.2.1:
+  owner: TUR
+  controller: TUR
+  cores:
+    EGY: no
+    TUR: yes
+1920.3.8:
+  owner: SYRI
+  controller: SYRI
+  cores:
+    SYRI: yes
+1920.7.24:
+  owner: GBR
+  controller: GBR
+  cores:
+    SYRI: no
+    TUR: no
+    GBR: yes
+    ISRA: yes
+1948.5.14:
+  owner: ISRA
+  controller: ISRA
+  cores:
+    GBR: no
+1988.11.15:
+  owner: PALE
+  controller: PALE
+  cores:
+    PALE: yes
+2023.10.7:
+  controller: ISRA

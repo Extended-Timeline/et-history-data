@@ -1,0 +1,81 @@
+#imported from EU4 file: history/provinces/326 - Angora.txt
+2.1.1:
+  owner: ROM
+  controller: ROM
+  cores:
+    ROM: yes
+  resource: cloth
+  pop:
+    ethnicity: galatian
+    religion: hellenism_religion
+    estate: peasant
+    size: 1000
+314.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+395.1.17:
+  owner: BYZ
+  controller: BYZ
+  cores:
+    ROM: no
+    BYZ: yes
+600.1.1:
+  pop:
+    ethnicity: greek_culture
+    estate: peasant
+    size: 1000
+615.1.1:
+  controller: ERA
+626.1.1:
+  controller: BYZ
+867.1.1:
+  pop:
+    religion: orthodox
+    estate: peasant
+    size: 1000
+1075.1.1:
+  owner: RUM
+  controller: RUM
+  cores:
+    RUM: yes
+  pop:
+    ethnicity: turkish_culture
+    estate: peasant
+    size: 1000
+1150.1.1:
+  cores:
+    BYZ: no
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+1290.1.1:
+  owner: AHI
+  controller: AHI
+  cores:
+    RUM: no
+    AHI: yes
+1356.1.1:
+  owner: TUR
+  controller: TUR
+  cores:
+    AHI: no
+    TUR: yes
+1482.7.26:
+  controller: TUR
+1513.1.1:
+  controller: TUR
+1625.1.1:
+  controller: TUR
+1659.1.1:
+  controller: TUR
+1920.4.24:
+  owner: TURK
+  controller: TURK
+  cores:
+    TURK: yes
+1922.11.1:
+  cores:
+    TUR: no

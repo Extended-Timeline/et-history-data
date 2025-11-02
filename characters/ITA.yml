@@ -1,0 +1,471 @@
+ita_odoacer_of_italy:
+  446.1.1:
+    birth: milano #TODO: Date and location guessed, check if better data is available
+    first_name: odoacer
+    dynasty: of_italy_dynasty
+    adm: 60
+    dip: 75
+    mil: 75
+    religion: chalcedonism
+    culture: lombard
+  855.9.30:
+    death: yes
+ita_louis_ii_carolingian:
+  825.1.1:
+    birth: milano #TODO: Date and location guessed, check if better data is available
+    first_name: louis
+    dynasty: carolingian_dynasty
+    adm: 45
+    dip: 75
+    mil: 60
+    religion: catholic
+    culture: lombard
+  875.8.12:
+    death: yes
+ita_charles_ii_carolingian:
+  823.6.13:
+    birth: milano #TODO: Location guessed, check if better data is available
+    first_name: charles
+    dynasty: carolingian_dynasty
+    father: ita_louis_ii_carolingian #TODO: check if this makes sense
+    adm: 15
+    dip: 15
+    mil: 45
+    religion: chalcedonism
+    culture: lombard
+  877.10.6:
+    death: yes
+ita_charles_ii_carolingian_1:
+  845.1.1:
+    birth: milano #TODO: Date and location guessed, check if better data is available
+    first_name: charles
+    dynasty: carolingian_dynasty
+    adm: 15
+    dip: 15
+    mil: 45
+    religion: catholic
+    culture: lombard
+  877.10.6:
+    death: yes
+ita_carloman_i_carolingian:
+  330.1.1:
+    birth: milano #TODO: Date and location guessed, check if better data is available
+    first_name: carloman
+    dynasty: carolingian_dynasty
+    father: ita_charles_ii_carolingian_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 60
+    mil: 30
+    religion: catholic
+    culture: lombard
+  880.9.29:
+    death: yes
+ita_carloman_i_carolingian_1:
+  847.1.1:
+    birth: milano #TODO: Date and location guessed, check if better data is available
+    first_name: carloman
+    dynasty: carolingian_dynasty
+    adm: 15
+    dip: 60
+    mil: 30
+    religion: catholic
+    culture: lombard
+  887.11.17:
+    death: yes
+ita_charles_iii_carolingian:
+  857.1.1:
+    birth: milano #TODO: Date and location guessed, check if better data is available
+    first_name: charles
+    dynasty: carolingian_dynasty
+    adm: 60
+    dip: 90
+    mil: 75
+    religion: catholic
+    culture: lombard
+  887.12.26:
+    death: yes
+ita_berengar_i_unruoching:
+  857.1.1:
+    birth: milano #TODO: Date and location guessed, check if better data is available
+    first_name: berengar
+    dynasty: unruoching_dynasty
+    adm: 45
+    dip: 30
+    mil: 60
+    religion: catholic
+    culture: lombard
+  889.1.1:
+    death: yes
+ita_guy_i_guideschi:
+  859.1.1:
+    birth: milano #TODO: Date and location guessed, check if better data is available
+    first_name: guy
+    dynasty: guideschi_dynasty
+    adm: 30
+    dip: 30
+    mil: 75
+    religion: catholic
+    culture: lombard
+  899.12.8:
+    death: yes
+ita_lambert_i_guideschi:
+  880.1.1:
+    birth: milano #TODO: Date and location guessed, check if better data is available
+    first_name: lambert
+    dynasty: guideschi_dynasty
+    father: ita_guy_i_guideschi #TODO: check if this makes sense
+    adm: 60
+    dip: 30
+    mil: 45
+    religion: catholic
+    culture: lombard
+  898.10.15:
+    death: yes
+ita_berengar_i_unruoching_1:
+  869.1.1:
+    birth: milano #TODO: Date and location guessed, check if better data is available
+    first_name: berengar
+    dynasty: unruoching_dynasty
+    adm: 45
+    dip: 30
+    mil: 60
+    religion: catholic
+    culture: lombard
+  933.1.1:
+    death: yes
+ita_hugh_i_bosonid:
+  903.1.1:
+    birth: milano #TODO: Date and location guessed, check if better data is available
+    first_name: hugh
+    dynasty: bosonid_dynasty
+    adm: 45
+    dip: 30
+    mil: 60
+    religion: catholic
+    culture: lombard
+  945.1.1:
+    death: yes
+ita_lothair_ii_bosonid:
+  926.1.1:
+    birth: milano #TODO: Date and location guessed, check if better data is available
+    first_name: lothair
+    dynasty: bosonid_dynasty
+    father: ita_hugh_i_bosonid #TODO: check if this makes sense
+    adm: 15
+    dip: 60
+    mil: 45
+    religion: catholic
+    culture: lombard
+  950.11.22:
+    death: yes
+ita_lothair_ii_bosonid_1:
+  915.1.1:
+    birth: milano #TODO: Date and location guessed, check if better data is available
+    first_name: lothair
+    dynasty: bosonid_dynasty
+    adm: 15
+    dip: 60
+    mil: 45
+    religion: catholic
+    culture: lombard
+  950.11.22:
+    death: yes
+ita_berengar_ii_divrea:
+  920.1.1:
+    birth: milano #TODO: Date and location guessed, check if better data is available
+    first_name: berengar
+    dynasty: divrea_dynasty
+    adm: 60
+    dip: 45
+    mil: 45
+    religion: catholic
+    culture: lombard
+  1797.6.29:
+    death: yes
+ita_republica_cisalpina:
+  1767.1.1:
+    birth: milano #TODO: Date and location guessed, check if better data is available
+    first_name: republica_cisalpina
+    adm: 75
+    dip: 15
+    mil: 15
+    religion: catholic
+    culture: lombard
+  1802.6.26:
+    death: yes
+ita_republicca_italiana:
+  1772.1.1:
+    birth: milano #TODO: Date and location guessed, check if better data is available
+    first_name: republicca_italiana
+    adm: 75
+    dip: 60
+    mil: 60
+    religion: catholic
+    culture: median
+  1805.3.18:
+    death: yes
+ita_napoleone_i_bonaparte:
+  1775.1.1:
+    birth: turin #TODO: Date and location guessed, check if better data is available
+    first_name: napoleone
+    dynasty: bonaparte_dynasty
+    adm: 90
+    dip: 60
+    mil: 90
+    religion: catholic
+    culture: median
+  1861.3.17:
+    death: yes
+ita_vittorio_emmanuele_ii_di_savoia:
+  1831.1.1:
+    birth: rome #TODO: Date and location guessed, check if better data is available
+    first_name: vittorio_emmanuele
+    dynasty: di_savoia_dynasty
+    adm: 60
+    dip: 75
+    mil: 60
+    religion: catholic
+    culture: median
+  1878.1.9:
+    death: yes
+ita_umberto_i_di_savoia:
+  1844.3.14:
+    birth: turin #TODO: Location guessed, check if better data is available
+    first_name: umberto
+    dynasty: di_savoia_dynasty
+    father: ita_vittorio_emmanuele_ii_di_savoia #TODO: check if this makes sense
+    adm: 30
+    dip: 45
+    mil: 60
+    religion: catholic
+    culture: median
+  1900.7.29:
+    death: yes
+ita_umberto_i_di_savoia_1:
+  1848.1.1:
+    birth: rome #TODO: Date and location guessed, check if better data is available
+    first_name: umberto
+    dynasty: di_savoia_dynasty
+    adm: 30
+    dip: 45
+    mil: 60
+    religion: catholic
+    culture: median
+  1900.7.29:
+    death: yes
+ita_vittorio_emmanuele_iii_di_savoia:
+  1869.11.11:
+    birth: rome #TODO: Location guessed, check if better data is available
+    first_name: vittorio_emmanuele
+    dynasty: di_savoia_dynasty
+    father: ita_umberto_i_di_savoia_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 60
+    mil: 45
+    religion: catholic
+    culture: median
+  1946.5.9:
+    death: yes
+ita_vittorio_emmanuele_iii_di_savoia_1:
+  1870.1.1:
+    birth: rome #TODO: Date and location guessed, check if better data is available
+    first_name: vittorio_emmanuele
+    dynasty: di_savoia_dynasty
+    adm: 30
+    dip: 60
+    mil: 45
+    religion: secularism
+    culture: median
+  1925.12.24:
+    death: yes
+ita_umberto_ii_di_savoia:
+  1904.9.15:
+    birth: rome #TODO: Location guessed, check if better data is available
+    first_name: umberto
+    dynasty: di_savoia_dynasty
+    father: ita_vittorio_emmanuele_iii_di_savoia_2 #TODO: check if this makes sense
+    adm: 30
+    dip: 30
+    mil: 45
+    religion: catholic
+    culture: median
+  1983.3.18:
+    death: yes
+ita_benito_mussolini:
+  1895.1.1:
+    birth: rome #TODO: Date and location guessed, check if better data is available
+    first_name: benito_mussolini
+    adm: 30
+    dip: 15
+    mil: 45
+    religion: secularism
+    culture: median
+  1943.7.25:
+    death: yes
+ita_vittorio_emmanuele_iii_di_savoia_2:
+  1913.1.1:
+    birth: rome #TODO: Date and location guessed, check if better data is available
+    first_name: vittorio_emmanuele
+    dynasty: di_savoia_dynasty
+    adm: 30
+    dip: 60
+    mil: 45
+    religion: secularism
+    culture: median
+  1946.5.9:
+    death: yes
+ita_umberto_ii_di_savoia_1:
+  1916.1.1:
+    birth: rome #TODO: Date and location guessed, check if better data is available
+    first_name: umberto
+    dynasty: di_savoia_dynasty
+    adm: 30
+    dip: 30
+    mil: 45
+    religion: secularism
+    culture: median
+  1946.7.1:
+    death: yes
+ita_enrico_de_nicola:
+  1916.1.1:
+    birth: rome #TODO: Date and location guessed, check if better data is available
+    first_name: enrico_de_nicola
+    adm: 60
+    dip: 45
+    mil: 45
+    religion: secularism
+    culture: median
+  1948.5.12:
+    death: yes
+ita_luigi_einaudi:
+  1918.1.1:
+    birth: rome #TODO: Date and location guessed, check if better data is available
+    first_name: luigi_einaudi
+    adm: 60
+    dip: 75
+    mil: 30
+    religion: secularism
+    culture: median
+  1955.5.11:
+    death: yes
+ita_giovanni_gronchi:
+  1925.1.1:
+    birth: rome #TODO: Date and location guessed, check if better data is available
+    first_name: giovanni_gronchi
+    adm: 60
+    dip: 45
+    mil: 60
+    religion: secularism
+    culture: median
+  1962.5.11:
+    death: yes
+ita_antonio_segni:
+  1932.1.1:
+    birth: rome #TODO: Date and location guessed, check if better data is available
+    first_name: antonio_segni
+    adm: 60
+    dip: 60
+    mil: 30
+    religion: secularism
+    culture: median
+  1964.12.29:
+    death: yes
+ita_giuseppe_saragat:
+  1934.1.1:
+    birth: rome #TODO: Date and location guessed, check if better data is available
+    first_name: giuseppe_saragat
+    adm: 45
+    dip: 75
+    mil: 45
+    religion: secularism
+    culture: median
+  1971.12.29:
+    death: yes
+ita_giovanni_leone:
+  1941.1.1:
+    birth: rome #TODO: Date and location guessed, check if better data is available
+    first_name: giovanni_leone
+    adm: 75
+    dip: 45
+    mil: 30
+    religion: secularism
+    culture: median
+  1978.7.9:
+    death: yes
+ita_sandro_pertini:
+  1948.1.1:
+    birth: rome #TODO: Date and location guessed, check if better data is available
+    first_name: sandro_pertini
+    adm: 45
+    dip: 45
+    mil: 60
+    religion: secularism
+    culture: median
+  1985.7.3:
+    death: yes
+ita_francesco_cossiga:
+  1955.1.1:
+    birth: rome #TODO: Date and location guessed, check if better data is available
+    first_name: francesco_cossiga
+    adm: 60
+    dip: 60
+    mil: 45
+    religion: secularism
+    culture: median
+  1992.5.28:
+    death: yes
+ita_oscar_luigi_scalfaro:
+  1962.1.1:
+    birth: rome #TODO: Date and location guessed, check if better data is available
+    first_name: oscar_luigi_scalfaro
+    adm: 60
+    dip: 30
+    mil: 60
+    religion: secularism
+    culture: median
+  1999.5.18:
+    death: yes
+ita_carlo_azeglio_ciampi:
+  1969.1.1:
+    birth: rome #TODO: Date and location guessed, check if better data is available
+    first_name: carlo_azeglio_ciampi
+    adm: 75
+    dip: 30
+    mil: 45
+    religion: secularism
+    culture: median
+  2006.5.15:
+    death: yes
+ita_giorgio_napolitano:
+  1976.1.1:
+    birth: rome #TODO: Date and location guessed, check if better data is available
+    first_name: giorgio_napolitano
+    adm: 60
+    dip: 45
+    mil: 45
+    religion: secularism
+    culture: median
+  2015.1.14:
+    death: yes
+ita_pietro_grasso:
+  1985.1.1:
+    birth: rome #TODO: Date and location guessed, check if better data is available
+    first_name: pietro_grasso
+    adm: 45
+    dip: 30
+    mil: 30
+    religion: secularism
+    culture: median
+  2015.2.3:
+    death: yes
+ita_sergio_mattarella:
+  1985.1.1:
+    birth: rome #TODO: Date and location guessed, check if better data is available
+    first_name: sergio_mattarella
+    adm: 45
+    dip: 60
+    mil: 45
+    religion: catholic
+    culture: median
+  3000.1.1:
+    death: yes

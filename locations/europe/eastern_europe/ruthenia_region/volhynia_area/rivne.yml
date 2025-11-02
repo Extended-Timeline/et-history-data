@@ -1,0 +1,152 @@
+#imported from EU4 file: history/provinces/2962 - Rowne.txt
+2.1.1:
+  owner: VEND
+  controller: VEND
+  cores:
+    VEND: yes
+  resource: livestock
+  pop:
+    ethnicity: lesser_polish
+    religion: slavic
+    estate: peasant
+    size: 1000
+150.1.1:
+  owner: SCIR
+  controller: SCIR
+  cores:
+    VEND: no
+    SCIR: yes
+  pop:
+    ethnicity: scirian
+    religion: germanic
+    estate: peasant
+    size: 1000
+220.1.1:
+  owner: VEND
+  controller: VEND
+  cores:
+    SCIR: no
+    VEND: yes
+  pop:
+    ethnicity: lesser_polish
+    religion: slavic
+    estate: peasant
+    size: 1000
+380.1.1:
+  owner: HUNS
+  controller: HUNS
+  cores:
+    HUNS: yes
+469.1.1:
+  owner: ANTE
+  controller: ANTE
+  cores:
+    HUNS: no
+    ANTE: yes
+550.1.1:
+  owner: LEDN
+  controller: LEDN
+  cores:
+    ANTE: no
+    LEDN: yes
+981.1.1:
+  owner: KIEV
+  controller: KIEV
+  cores:
+    LEDN: no
+    KIEV: yes
+  pop:
+    ethnicity: ruthenian
+    estate: peasant
+    size: 1000
+990.1.1:
+  pop:
+    religion: orthodox
+    estate: peasant
+    size: 1000
+1054.2.20:
+  owner: HAL
+  controller: HAL
+  cores:
+    KIEV: no
+    HAL: yes
+    KIE: yes
+1199.1.1:
+  cores:
+    KIE: no
+1323.1.1:
+  owner: LIT
+  controller: LIT
+  cores:
+    LIT: yes
+1350.1.1:
+  pop:
+    religion: orthodox
+    estate: peasant
+    size: 1000
+1569.3.26:
+  owner: POL
+  controller: POL
+  cores:
+    POL: yes
+1569.7.1:
+  owner: PLC
+  controller: PLC
+  cores:
+    PLC: yes
+    LIT: no
+    POL: no
+1648.1.1:
+  cores:
+    ZAZ: yes
+1654.1.1:
+  controller: PLC
+  cores:
+    ZAZ: no
+1793.1.21:
+  cores:
+    RUS: yes
+1795.10.24:
+  owner: RUS
+  controller: RUS
+1915.8.29:
+  controller: HAB
+1916.6.7:
+  controller: RUS
+1918.1.22:
+  owner: UKR
+  controller: UKR
+  cores:
+    UKR: yes
+1918.2.7:
+  controller: GER
+1919.7.18:
+  owner: POL
+  controller: POL
+  cores:
+    POL: yes
+1920.4.21:
+  cores:
+    UKR: no
+1921.3.18:
+  cores:
+    RUS: no
+1939.9.21:
+  controller: SOVI
+1939.10.6:
+  owner: SOVI
+  cores:
+    SOVI: yes
+1941.6.30:
+  controller: GER
+1944.7.25:
+  controller: SOVI
+1945.5.8:
+  cores:
+    POL: no
+1991.8.24:
+  owner: UKR
+  controller: UKR
+  cores:
+    SOVI: no
+    UKR: yes

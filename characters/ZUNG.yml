@@ -1,0 +1,187 @@
+zung_erdeni_batur_choros:
+  1604.1.1:
+    birth: khovd #TODO: Date and location guessed, check if better data is available
+    first_name: erdeni_batur
+    dynasty: choros_dynasty
+    adm: 30
+    dip: 30
+    mil: 45
+    religion: mahayana
+    culture: oirat_culture
+  1653.1.1:
+    death: yes
+zung_sengge_choros:
+  1630.1.1:
+    birth: khovd #TODO: Date and location guessed, check if better data is available
+    first_name: sengge
+    dynasty: choros_dynasty
+    father: zung_erdeni_batur_choros #TODO: check if this makes sense
+    adm: 30
+    dip: 30
+    mil: 45
+    religion: mahayana
+    culture: oirat_culture
+  1671.1.1:
+    death: yes
+zung_sengge_choros_1:
+  1623.1.1:
+    birth: khovd #TODO: Date and location guessed, check if better data is available
+    first_name: sengge
+    dynasty: choros_dynasty
+    adm: 30
+    dip: 30
+    mil: 45
+    religion: mahayana
+    culture: oirat_culture
+  1671.1.1:
+    death: yes
+zung_galdan_bashigt_choros:
+  1644.1.1:
+    birth: khovd #TODO: Date and location guessed, check if better data is available
+    first_name: galdan_bashigt
+    dynasty: choros_dynasty
+    father: zung_sengge_choros_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: mahayana
+    culture: oirat_culture
+  1698.9.4:
+    death: yes
+zung_galdan_bashigt_choros_1:
+  1641.1.1:
+    birth: khovd #TODO: Date and location guessed, check if better data is available
+    first_name: galdan_bashigt
+    dynasty: choros_dynasty
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: mahayana
+    culture: oirat_culture
+  1698.9.4:
+    death: yes
+zung_tsewang_rabdan_choros:
+  1680.1.1:
+    birth: khovd #TODO: Date and location guessed, check if better data is available
+    first_name: tsewang_rabdan
+    dynasty: choros_dynasty
+    father: zung_galdan_bashigt_choros_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 30
+    mil: 30
+    religion: mahayana
+    culture: oirat_culture
+  1727.12.1:
+    death: yes
+zung_tsewang_rabdan_choros_1:
+  1668.1.1:
+    birth: khovd #TODO: Date and location guessed, check if better data is available
+    first_name: tsewang_rabdan
+    dynasty: choros_dynasty
+    adm: 30
+    dip: 30
+    mil: 30
+    religion: mahayana
+    culture: oirat_culture
+  1727.12.1:
+    death: yes
+zung_galdan_tseren_choros:
+  1690.1.1:
+    birth: khovd #TODO: Date and location guessed, check if better data is available
+    first_name: galdan_tseren
+    dynasty: choros_dynasty
+    father: zung_tsewang_rabdan_choros_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 30
+    mil: 30
+    religion: mahayana
+    culture: oirat_culture
+  1745.8.1:
+    death: yes
+zung_galdan_tseren_choros_1:
+  1697.1.1:
+    birth: khovd #TODO: Date and location guessed, check if better data is available
+    first_name: galdan_tseren
+    dynasty: choros_dynasty
+    adm: 30
+    dip: 30
+    mil: 30
+    religion: mahayana
+    culture: oirat_culture
+  1745.8.1:
+    death: yes
+zung_lama_darja_choros:
+  1700.1.1:
+    birth: khovd #TODO: Date and location guessed, check if better data is available
+    first_name: lama_darja
+    dynasty: choros_dynasty
+    father: zung_galdan_tseren_choros_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 30
+    mil: 30
+    religion: mahayana
+    culture: oirat_culture
+  1750.1.1:
+    death: yes
+zung_lama_darja_choros_1:
+  1715.1.1:
+    birth: khovd #TODO: Date and location guessed, check if better data is available
+    first_name: lama_darja
+    dynasty: choros_dynasty
+    adm: 30
+    dip: 30
+    mil: 30
+    religion: mahayana
+    culture: oirat_culture
+  1750.1.1:
+    death: yes
+zung_dawaji_choros:
+  1700.1.1:
+    birth: khovd #TODO: Date and location guessed, check if better data is available
+    first_name: dawaji
+    dynasty: choros_dynasty
+    father: zung_lama_darja_choros_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 30
+    mil: 30
+    religion: mahayana
+    culture: oirat_culture
+  1755.10.1:
+    death: yes
+zung_dawaji_choros_1:
+  1720.1.1:
+    birth: khovd #TODO: Date and location guessed, check if better data is available
+    first_name: dawaji
+    dynasty: choros_dynasty
+    adm: 30
+    dip: 30
+    mil: 30
+    religion: mahayana
+    culture: oirat_culture
+  1755.10.1:
+    death: yes
+zung_amursana_choros:
+  1750.1.1:
+    birth: khovd #TODO: Date and location guessed, check if better data is available
+    first_name: amursana
+    dynasty: choros_dynasty
+    father: zung_dawaji_choros_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 30
+    mil: 30
+    religion: mahayana
+    culture: oirat_culture
+  1756.3.1:
+    death: yes
+zung_amursana_choros_1:
+  1725.1.1:
+    birth: khovd #TODO: Date and location guessed, check if better data is available
+    first_name: amursana
+    dynasty: choros_dynasty
+    adm: 30
+    dip: 30
+    mil: 30
+    religion: mahayana
+    culture: oirat_culture
+  3000.1.1:
+    death: yes

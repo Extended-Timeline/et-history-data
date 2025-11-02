@@ -1,0 +1,54 @@
+#imported from EU4 file: history/provinces/729 - Wusuli.txt
+2.1.1:
+  pop:
+    ethnicity: jurchen_culture
+    religion: 
+    estate: peasant
+    size: 1000
+600.1.1:
+  owner: HSMO
+  controller: HSMO
+  cores:
+    HSMO: yes
+  resource: fish
+1100.1.1:
+  owner: ORQ
+  controller: ORQ
+  cores:
+    HSMO: no
+    ORQ: yes
+1620.1.1:
+  owner: MCH
+  controller: MCH
+  cores:
+    MCH: yes
+1636.5.15:
+  owner: QNG
+  controller: QNG
+  cores:
+    MCH: no
+    QNG: yes
+1858.5.28:
+  owner: RUS
+  controller: RUS
+  cores:
+    QNG: no
+    RUS: yes
+1922.12.30:
+  owner: SOVI
+  controller: SOVI
+  cores:
+    RUS: no
+    SOVI: yes
+1930.1.1:
+  pop:
+    ethnicity: muscovite
+    religion: orthodox
+    estate: peasant
+    size: 1000
+1991.12.25:
+  owner: RUS
+  controller: RUS
+  cores:
+    SOVI: no
+    RUS: yes

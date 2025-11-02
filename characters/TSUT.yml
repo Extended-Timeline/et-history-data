@@ -1,0 +1,162 @@
+tsut_junei_tsutsui:
+  1411.1.1:
+    birth: nara #TODO: Date and location guessed, check if better data is available
+    first_name: junei
+    dynasty: tsutsui_dynasty
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: shinto
+    culture: saigoku_culture
+  1476.5.7:
+    death: yes
+tsut_junson_tsutsui:
+  1451.1.1:
+    birth: nara #TODO: Date and location guessed, check if better data is available
+    first_name: junson
+    dynasty: tsutsui_dynasty
+    father: tsut_junei_tsutsui #TODO: check if this makes sense
+    adm: 30
+    dip: 30
+    mil: 30
+    religion: shinto
+    culture: saigoku_culture
+  1489.8.27:
+    death: yes
+tsut_junson_tsutsui_1:
+  1446.1.1:
+    birth: nara #TODO: Date and location guessed, check if better data is available
+    first_name: junson
+    dynasty: tsutsui_dynasty
+    adm: 30
+    dip: 30
+    mil: 30
+    religion: shinto
+    culture: saigoku_culture
+  1489.8.27:
+    death: yes
+tsut_junken_tsutsui:
+  1473.1.1:
+    birth: nara #TODO: Date and location guessed, check if better data is available
+    first_name: junken
+    dynasty: tsutsui_dynasty
+    father: tsut_junson_tsutsui_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 45
+    mil: 30
+    religion: shinto
+    culture: saigoku_culture
+  1520.1.1:
+    death: yes
+tsut_junken_tsutsui_1:
+  1459.1.1:
+    birth: nara #TODO: Date and location guessed, check if better data is available
+    first_name: junken
+    dynasty: tsutsui_dynasty
+    adm: 45
+    dip: 45
+    mil: 30
+    religion: shinto
+    culture: saigoku_culture
+  1520.1.1:
+    death: yes
+tsut_junko_tsutsui:
+  1484.1.1:
+    birth: nara #TODO: Date and location guessed, check if better data is available
+    first_name: junko
+    dynasty: tsutsui_dynasty
+    father: tsut_junken_tsutsui_1 #TODO: check if this makes sense
+    adm: 60
+    dip: 75
+    mil: 60
+    religion: shinto
+    culture: saigoku_culture
+  1535.8.3:
+    death: yes
+tsut_junko_tsutsui_1:
+  1490.1.1:
+    birth: nara #TODO: Date and location guessed, check if better data is available
+    first_name: junko
+    dynasty: tsutsui_dynasty
+    adm: 60
+    dip: 75
+    mil: 60
+    religion: shinto
+    culture: saigoku_culture
+  1535.8.3:
+    death: yes
+tsut_junsho_tsutsui:
+  1523.3.2:
+    birth: nara #TODO: Location guessed, check if better data is available
+    first_name: junsho
+    dynasty: tsutsui_dynasty
+    father: tsut_junko_tsutsui_1 #TODO: check if this makes sense
+    adm: 60
+    dip: 75
+    mil: 75
+    religion: shinto
+    culture: saigoku_culture
+  1550.8.2:
+    death: yes
+tsut_junsho_tsutsui_1:
+  1505.1.1:
+    birth: nara #TODO: Date and location guessed, check if better data is available
+    first_name: junsho
+    dynasty: tsutsui_dynasty
+    adm: 60
+    dip: 75
+    mil: 75
+    religion: shinto
+    culture: saigoku_culture
+  1550.8.2:
+    death: yes
+tsut_junkei_tsutsui:
+  1549.3.31:
+    birth: nara #TODO: Location guessed, check if better data is available
+    first_name: junkei
+    dynasty: tsutsui_dynasty
+    father: tsut_junsho_tsutsui_1 #TODO: check if this makes sense
+    adm: 60
+    dip: 60
+    mil: 45
+    religion: shinto
+    culture: saigoku_culture
+  1584.9.15:
+    death: yes
+tsut_junkei_tsutsui_1:
+  1520.1.1:
+    birth: nara #TODO: Date and location guessed, check if better data is available
+    first_name: junkei
+    dynasty: tsutsui_dynasty
+    adm: 60
+    dip: 60
+    mil: 45
+    religion: shinto
+    culture: saigoku_culture
+  1584.9.15:
+    death: yes
+tsut_sadatsugu_tsutsui:
+  1562.6.6:
+    birth: nara #TODO: Location guessed, check if better data is available
+    first_name: sadatsugu
+    dynasty: tsutsui_dynasty
+    father: tsut_junkei_tsutsui_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 15
+    mil: 30
+    religion: shinto
+    culture: saigoku_culture
+  1615.4.2:
+    death: yes
+tsut_junkei_tsutsui_2:
+  1554.1.1:
+    birth: nara #TODO: Date and location guessed, check if better data is available
+    first_name: junkei
+    dynasty: tsutsui_dynasty
+    adm: 30
+    dip: 15
+    mil: 30
+    religion: shinto
+    culture: saigoku_culture
+  3000.1.1:
+    death: yes

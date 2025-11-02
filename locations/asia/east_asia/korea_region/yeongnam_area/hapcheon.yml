@@ -1,0 +1,83 @@
+#imported from EU4 file: history/provinces/4227 - West Gyeongsang.txt
+2.1.1:
+  owner: GAYA
+  controller: GAYA
+  cores:
+    GAYA: yes
+  resource: grain
+  pop:
+    ethnicity: korean_culture
+    religion: muism
+    estate: peasant
+    size: 1000
+540.1.1:
+  pop:
+    religion: mahayana
+    estate: peasant
+    size: 1000
+562.1.1:
+  owner: SILL
+  controller: SILL
+  cores:
+    SILL: yes
+600.1.1:
+  resource: paper
+935.1.1:
+  owner: GORY
+  controller: GORY
+  cores:
+    SILL: no
+    GORY: yes
+1392.7.12:
+  owner: KOR
+  controller: KOR
+  cores:
+    GORY: no
+    KOR: yes
+  pop:
+    religion: sanjiao
+    estate: peasant
+    size: 1000
+1592.5.26:
+  controller: TOYO
+1598.12.24:
+  controller: KOR
+1637.1.1:
+  cores:
+    MNG: yes
+1644.1.1:
+  cores:
+    MNG: no
+    MCH: yes
+1645.7.1:
+  cores:
+    MCH: no
+    QNG: yes
+1910.8.20:
+  owner: JAP
+  controller: JAP
+  cores:
+    JAP: yes
+1912.2.12:
+  cores:
+    QNG: no
+1945.8.15:
+  owner: JOE
+  controller: JOE
+  cores:
+    JAP: no
+    KOR: no
+    JOE: yes
+1948.9.9:
+  owner: SKOR
+  controller: SKOR
+  cores:
+    SKOR: yes
+    NKOR: yes
+1970.1.1:
+  resource: electronics
+1971.1.1:
+  pop:
+    religion: mahayana
+    estate: peasant
+    size: 1000

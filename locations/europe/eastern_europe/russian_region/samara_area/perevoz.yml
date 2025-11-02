@@ -1,0 +1,78 @@
+#imported from EU4 file: history/provinces/2423 - Alatyr.txt
+2.1.1:
+  pop:
+    ethnicity: moksha_culture
+    religion: 
+    estate: peasant
+    size: 1000
+600.1.1:
+  owner: MORD
+  controller: MORD
+  cores:
+    MORD: yes
+  resource: grain
+1236.1.1:
+  owner: MGE
+  controller: MGE
+  cores:
+    MGE: yes
+    KAZN: yes
+1250.1.1:
+  pop:
+    ethnicity: kazani
+    religion: sunni
+    estate: peasant
+    size: 1000
+1260.1.1:
+  owner: WHHO
+  controller: WHHO
+  cores:
+    MGE: no
+    VBUL: no
+    WHHO: yes
+1280.1.1:
+  pop:
+    ethnicity: muscovite
+    estate: peasant
+    size: 1000
+1340.1.1:
+  owner: VLR
+  controller: VLR
+  cores:
+    WHHO: no
+    VLR: yes
+1350.1.1:
+  pop:
+    religion: orthodox
+    estate: peasant
+    size: 1000
+1389.1.1:
+  owner: NZH
+  controller: NZH
+  cores:
+    VLR: no
+    NZH: yes
+1392.1.1:
+  owner: MOS
+  controller: MOS
+  cores:
+    MOS: yes
+1503.4.1:
+  owner: RUS
+  controller: RUS
+  cores:
+    MOS: no
+    NZH: no
+    RUS: yes
+1922.12.30:
+  owner: SOVI
+  controller: SOVI
+  cores:
+    RUS: no
+    SOVI: yes
+1991.12.25:
+  owner: RUS
+  controller: RUS
+  cores:
+    SOVI: no
+    RUS: yes

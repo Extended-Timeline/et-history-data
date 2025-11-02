@@ -1,0 +1,101 @@
+#imported from EU4 file: history/provinces/2047 - Tirhut.txt
+2.1.1:
+  owner: VAJJ
+  controller: VAJJ
+  cores:
+    VAJJ: yes
+  resource: dyes
+  pop:
+    ethnicity: magahi
+    religion: mahayana
+    estate: peasant
+    size: 1000
+270.1.1:
+  owner: KTU
+  controller: KTU
+  cores:
+    VAJJ: no
+    KTU: yes
+320.1.1:
+  owner: GUPT
+  controller: GUPT
+  cores:
+    KTU: no
+    GUPT: yes
+600.1.1:
+  owner: KANN
+  controller: KANN
+  cores:
+    GUPT: no
+    KANN: yes
+625.1.1:
+  owner: PUSH
+  controller: PUSH
+  cores:
+    KANN: no
+    PUSH: yes
+    TIRH: yes
+647.1.1:
+  owner: TIRH
+  controller: TIRH
+  cores:
+    PUSH: no
+750.1.1:
+  owner: PALA
+  controller: PALA
+  cores:
+    PALA: yes
+1097.1.1:
+  owner: TIRH
+  controller: TIRH
+  cores:
+    PALA: no
+    TIRH: yes
+1250.1.1:
+  pop:
+    religion: hindu
+    estate: peasant
+    size: 1000
+1497.1.1:
+  controller: DLH
+1498.1.1:
+  controller: TIRH
+1524.1.1:
+  owner: BNG
+  controller: BNG
+  cores:
+    BNG: yes
+1538.1.1:
+  controller: BNG
+1538.6.1:
+  controller: MUG
+1539.1.1:
+  controller: BNG
+1575.1.1:
+  owner: MUG
+  controller: MUG
+  cores:
+    MUG: yes
+1623.5.1:
+  controller: MUG
+1658.12.28:
+  controller: MUG
+1707.3.15:
+  owner: BNG
+  controller: BNG
+1765.1.1:
+  owner: GBR
+  controller: GBR
+  cores:
+    MUG: no
+    GBR: yes
+1930.1.1:
+  cores:
+    JNP: no
+    BNG: no
+    INDI: yes
+1947.8.15:
+  owner: INDI
+  controller: INDI
+  cores:
+    GBR: no

@@ -1,0 +1,93 @@
+#imported from EU4 file: history/provinces/352 - Gafsa.txt
+2.1.1:
+  owner: ROM
+  controller: ROM
+  cores:
+    ROM: yes
+  resource: salt
+  pop:
+    ethnicity: zenati
+    religion: bantu_religion
+    estate: peasant
+    size: 1000
+340.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+395.1.17:
+  owner: ROMW
+  controller: ROMW
+  cores:
+    ROM: no
+    ROMW: yes
+430.1.1:
+  owner: DJE
+  controller: DJE
+  cores:
+    ROMW: no
+    DJE: yes
+660.1.1:
+  owner: AURE
+  controller: AURE
+  cores:
+    AURE: yes
+702.1.1:
+  owner: UMAY
+  controller: UMAY
+  cores:
+    AURE: no
+    UMAY: yes
+730.1.1:
+  pop:
+    ethnicity: tunisian
+    religion: sunni
+    estate: peasant
+    size: 1000
+745.1.1:
+  owner: TUN
+  controller: TUN
+  cores:
+    UMAY: no
+    TUN: yes
+757.6.1:
+  owner: ABBA
+  controller: ABBA
+  cores:
+    ABBA: yes
+800.1.1:
+  owner: TUN
+  controller: TUN
+  cores:
+    ABBA: no
+    TUN: yes
+909.1.1:
+  owner: FATI
+  controller: FATI
+  cores:
+    FATI: yes
+973.1.1:
+  owner: TUN
+  controller: TUN
+  cores:
+    FATI: no
+    TUN: yes
+1054.1.1:
+  owner: DJE
+  controller: DJE
+  cores:
+    TUN: no
+    DJE: yes
+1556.12.1:
+  owner: TRP
+  controller: TRP
+  cores:
+    TRP: yes
+1593.1.1:
+  owner: TUN
+  controller: TUN
+  cores:
+    TUN: yes
+1702.1.1:
+  cores:
+    ALG: yes

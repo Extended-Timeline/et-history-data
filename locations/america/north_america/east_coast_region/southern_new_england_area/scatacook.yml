@@ -1,0 +1,35 @@
+#imported from EU4 file: history/provinces/2560 - Quinnipiac.txt
+2.1.1:
+  pop:
+    ethnicity: pequot_culture
+    religion: iroquoian_totemism
+    estate: peasant
+    size: 1000
+1638.1.1:
+  owner: ENG
+  controller: ENG
+  resource: fish
+  pop:
+    ethnicity: english
+    religion: calvinist
+    estate: peasant
+    size: 1000
+1707.5.12:
+  owner: GBR
+  controller: GBR
+  cores:
+    ENG: no
+    GBR: yes
+1764.7.1:
+  pop:
+    ethnicity: american
+    estate: peasant
+    size: 1000
+1776.7.4:
+  owner: USA
+  controller: USA
+  cores:
+    USA: yes
+1782.11.1:
+  cores:
+    GBR: no

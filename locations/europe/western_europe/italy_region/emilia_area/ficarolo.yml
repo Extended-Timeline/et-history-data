@@ -1,0 +1,135 @@
+#imported from EU4 file: history/provinces/113 - Ferrara.txt
+2.1.1:
+  owner: ROM
+  controller: ROM
+  cores:
+    ROM: yes
+  resource: salt
+  pop:
+    ethnicity: etruscan
+    religion: hellenism_religion
+    estate: peasant
+    size: 1000
+250.1.1:
+  pop:
+    ethnicity: roman
+    estate: peasant
+    size: 1000
+380.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+395.1.17:
+  owner: ROMW
+  controller: ROMW
+  cores:
+    ROM: no
+    ROMW: yes
+476.9.4:
+  owner: ITA
+  controller: ITA
+  cores:
+    ITA: yes
+480.1.1:
+  cores:
+    ROMW: no
+489.1.1:
+  owner: OSTR
+  controller: OSTR
+  cores:
+    ITA: no
+    OSTR: yes
+  pop:
+    ethnicity: gothic
+    estate: peasant
+    size: 1000
+551.1.1:
+  owner: BYZ
+  controller: BYZ
+  cores:
+    BYZ: yes
+569.6.1:
+  owner: LOMB
+  controller: LOMB
+  cores:
+    OSTR: no
+    BYZ: no
+    LOMB: yes
+  pop:
+    ethnicity: emilian
+    estate: peasant
+    size: 1000
+774.1.1:
+  owner: FRAN
+  controller: FRAN
+  cores:
+    FRAN: yes
+840.6.21:
+  owner: MFRA
+  controller: MFRA
+  cores:
+    FRAN: no
+    MFRA: yes
+855.9.30:
+  owner: ITA
+  controller: ITA
+  cores:
+    MFRA: no
+    LOMB: no
+    ITA: yes
+867.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+962.2.2:
+  owner: FER
+  controller: FER
+  cores:
+    ITA: no
+    FER: yes
+981.1.1:
+  owner: MOD
+  controller: MOD
+  cores:
+    MOD: yes
+1027.1.1:
+  owner: TUS
+  controller: TUS
+  cores:
+    MOD: no
+    TUS: yes
+1115.7.24:
+  owner: FER
+  controller: FER
+  cores:
+    TUS: no
+    FER: yes
+1597.10.28:
+  owner: PAP
+  controller: PAP
+  cores:
+    PAP: yes
+1805.12.26:
+  owner: ITA
+  controller: ITA
+  cores:
+    PAP: no
+    ITA: yes
+1814.4.11:
+  owner: HAB
+  controller: HAB
+  cores:
+    ITA: no
+    HAB: yes
+1861.3.17:
+  cores:
+    ITA: yes
+1866.7.3:
+  controller: ITA
+1866.10.3:
+  owner: ITA
+  cores:
+    HAB: no
+    FER: no

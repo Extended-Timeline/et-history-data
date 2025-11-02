@@ -1,0 +1,165 @@
+#imported from EU4 file: history/provinces/4300 - Mianeh.txt
+2.1.1:
+  owner: ATRO
+  controller: ATRO
+  cores:
+    ATRO: yes
+  resource: wool
+  pop:
+    ethnicity: talysh_culture
+    religion: zoroastrian
+    estate: peasant
+    size: 1000
+226.1.1:
+  owner: ERA
+  controller: ERA
+  cores:
+    ERA: yes
+643.1.1:
+  owner: RASH
+  controller: RASH
+  cores:
+    ERA: no
+    RASH: yes
+661.7.28:
+  owner: UMAY
+  controller: UMAY
+  cores:
+    RASH: no
+    UMAY: yes
+750.8.6:
+  owner: ABBA
+  controller: ABBA
+  cores:
+    UMAY: no
+    ABBA: yes
+800.1.1:
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+889.1.1:
+  owner: AZER
+  controller: AZER
+  cores:
+    ABBA: no
+    AZER: yes
+983.1.1:
+  owner: TABR
+  controller: TABR
+  cores:
+    TABR: yes
+1000.1.1:
+  resource: paper
+1054.1.1:
+  owner: SELJ
+  controller: SELJ
+  cores:
+    SELJ: yes
+1060.1.1:
+  pop:
+    ethnicity: azeri_culture
+    estate: peasant
+    size: 1000
+1157.5.8:
+  owner: AZER
+  controller: AZER
+  cores:
+    SELJ: no
+    AZER: yes
+1225.1.1:
+  owner: KHWA
+  controller: KHWA
+  cores:
+    AZER: no
+    KHWA: yes
+1231.1.1:
+  owner: MGE
+  controller: MGE
+  cores:
+    KHWA: no
+    MGE: yes
+    IRA: yes
+1260.1.1:
+  owner: ILK
+  controller: ILK
+  cores:
+    MGE: no
+    ILK: yes
+1300.1.1:
+  pop:
+    religion: shia
+    estate: peasant
+    size: 1000
+1335.1.1:
+  owner: TABR
+  controller: TABR
+  cores:
+    ILK: no
+    TABR: yes
+1358.1.1:
+  owner: JAL
+  controller: JAL
+  cores:
+    JAL: yes
+1374.1.1:
+  owner: IRA
+  controller: IRA
+  cores:
+    IRA: yes
+1376.6.1:
+  owner: JAL
+  controller: JAL
+  cores:
+    JAL: yes
+1386.1.1:
+  owner: TIM
+  controller: TIM
+  cores:
+    JAL: no
+    TIM: yes
+1442.1.1:
+  owner: QOM
+  controller: QOM
+  cores:
+    QOM: yes
+1451.1.1:
+  owner: QAKO
+  controller: QAKO
+  cores:
+    QOM: no
+    TIM: no
+    QAKO: yes
+1469.2.4:
+  owner: AKQO
+  controller: AKQO
+  cores:
+    QAKO: no
+    AKQO: yes
+1501.7.1:
+  controller: AKQO
+1504.1.1:
+  owner: IRA
+  controller: IRA
+  cores:
+    AKQO: no
+1747.1.1:
+  owner: ABL
+  controller: ABL
+1808.1.1:
+  owner: IRA
+  controller: IRA
+1918.5.28:
+  cores:
+    AZER: no
+1935.1.1:
+  owner: IRAN
+  controller: IRAN
+  cores:
+    IRA: no
+    IRAN: yes
+1945.11.21:
+  cores:
+    AZER: yes
+1946.12.11:
+  controller: IRAN

@@ -1,0 +1,407 @@
+muta_mbire_mwenemutapa:
+  1350.1.1:
+    birth: zvongombe #TODO: Date and location guessed, check if better data is available
+    first_name: mbire
+    dynasty: mwenemutapa_dynasty
+    adm: 30
+    dip: 15
+    mil: 45
+    religion: bantu_religion
+    culture: shona_culture
+  1430.1.1:
+    death: yes
+muta_nyatsimba_mwenemutapa:
+  1399.1.1:
+    birth: zvongombe #TODO: Date and location guessed, check if better data is available
+    first_name: nyatsimba
+    dynasty: mwenemutapa_dynasty
+    father: muta_mbire_mwenemutapa #TODO: check if this makes sense
+    adm: 45
+    dip: 0
+    mil: 0
+    religion: bantu_religion
+    culture: shona_culture
+  1450.1.1:
+    death: yes
+muta_nyatsimba_mwenemutapa_1:
+  1400.1.1:
+    birth: zvongombe #TODO: Date and location guessed, check if better data is available
+    first_name: nyatsimba
+    dynasty: mwenemutapa_dynasty
+    adm: 45
+    dip: 0
+    mil: 0
+    religion: bantu_religion
+    culture: shona_culture
+  1450.1.1:
+    death: yes
+muta_matope_mwenemutapa:
+  1430.1.1:
+    birth: zvongombe #TODO: Date and location guessed, check if better data is available
+    first_name: matope
+    dynasty: mwenemutapa_dynasty
+    father: muta_nyatsimba_mwenemutapa_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 30
+    mil: 45
+    religion: bantu_religion
+    culture: shona_culture
+  1480.1.1:
+    death: yes
+muta_matope_mwenemutapa_1:
+  1420.1.1:
+    birth: zvongombe #TODO: Date and location guessed, check if better data is available
+    first_name: matope
+    dynasty: mwenemutapa_dynasty
+    adm: 15
+    dip: 30
+    mil: 45
+    religion: bantu_religion
+    culture: shona_culture
+  1480.1.1:
+    death: yes
+muta_mavura_i_mwenemutapa:
+  1450.1.1:
+    birth: zvongombe #TODO: Date and location guessed, check if better data is available
+    first_name: mavura
+    dynasty: mwenemutapa_dynasty
+    adm: 30
+    dip: 0
+    mil: 15
+    religion: bantu_religion
+    culture: shona_culture
+  1481.1.1:
+    death: yes
+muta_mukombero_mwenemutapa:
+  1451.1.1:
+    birth: zvongombe #TODO: Date and location guessed, check if better data is available
+    first_name: mukombero
+    dynasty: mwenemutapa_dynasty
+    adm: 15
+    dip: 30
+    mil: 15
+    religion: bantu_religion
+    culture: shona_culture
+  1490.1.1:
+    death: yes
+muta_changamire_mwenemutapa:
+  1460.1.1:
+    birth: zvongombe #TODO: Date and location guessed, check if better data is available
+    first_name: changamire
+    dynasty: mwenemutapa_dynasty
+    adm: 15
+    dip: 30
+    mil: 30
+    religion: bantu_religion
+    culture: shona_culture
+  1494.1.1:
+    death: yes
+muta_kakuyo_mwenemutapa:
+  1480.1.1:
+    birth: zvongombe #TODO: Date and location guessed, check if better data is available
+    first_name: kakuyo
+    dynasty: mwenemutapa_dynasty
+    father: muta_changamire_mwenemutapa #TODO: check if this makes sense
+    adm: 45
+    dip: 45
+    mil: 15
+    religion: bantu_religion
+    culture: shona_culture
+  1530.1.1:
+    death: yes
+muta_kakuyo_mwenemutapa_1:
+  1464.1.1:
+    birth: zvongombe #TODO: Date and location guessed, check if better data is available
+    first_name: kakuyo
+    dynasty: mwenemutapa_dynasty
+    adm: 45
+    dip: 45
+    mil: 15
+    religion: bantu_religion
+    culture: shona_culture
+  1530.1.1:
+    death: yes
+muta_neshangwe_mwenemutapa:
+  1494.1.1:
+    birth: zvongombe #TODO: Date and location guessed, check if better data is available
+    first_name: neshangwe
+    dynasty: mwenemutapa_dynasty
+    father: muta_kakuyo_mwenemutapa_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 15
+    mil: 60
+    religion: bantu_religion
+    culture: shona_culture
+  1550.1.1:
+    death: yes
+muta_neshangwe_mwenemutapa_1:
+  1500.1.1:
+    birth: zvongombe #TODO: Date and location guessed, check if better data is available
+    first_name: neshangwe
+    dynasty: mwenemutapa_dynasty
+    adm: 30
+    dip: 15
+    mil: 60
+    religion: bantu_religion
+    culture: shona_culture
+  1550.1.1:
+    death: yes
+muta_chivere_mwenemutapa:
+  1530.1.1:
+    birth: zvongombe #TODO: Date and location guessed, check if better data is available
+    first_name: chivere
+    dynasty: mwenemutapa_dynasty
+    father: muta_neshangwe_mwenemutapa_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 30
+    mil: 30
+    religion: bantu_religion
+    culture: shona_culture
+  1560.1.1:
+    death: yes
+muta_chivere_mwenemutapa_1:
+  1520.1.1:
+    birth: zvongombe #TODO: Date and location guessed, check if better data is available
+    first_name: chivere
+    dynasty: mwenemutapa_dynasty
+    adm: 30
+    dip: 30
+    mil: 30
+    religion: bantu_religion
+    culture: shona_culture
+  1560.1.1:
+    death: yes
+muta_chirisamhuru_mwenemutapa:
+  1550.1.1:
+    birth: zvongombe #TODO: Date and location guessed, check if better data is available
+    first_name: chirisamhuru
+    dynasty: mwenemutapa_dynasty
+    father: muta_chivere_mwenemutapa_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 45
+    mil: 30
+    religion: bantu_religion
+    culture: shona_culture
+  1589.1.1:
+    death: yes
+muta_chirisamhuru_mwenemutapa_1:
+  1530.1.1:
+    birth: zvongombe #TODO: Date and location guessed, check if better data is available
+    first_name: chirisamhuru
+    dynasty: mwenemutapa_dynasty
+    adm: 15
+    dip: 45
+    mil: 30
+    religion: bantu_religion
+    culture: shona_culture
+  1589.1.1:
+    death: yes
+muta_gatsi_mwenemutapa:
+  1560.1.1:
+    birth: zvongombe #TODO: Date and location guessed, check if better data is available
+    first_name: gatsi
+    dynasty: mwenemutapa_dynasty
+    father: muta_chirisamhuru_mwenemutapa_1 #TODO: check if this makes sense
+    adm: 60
+    dip: 45
+    mil: 15
+    religion: bantu_religion
+    culture: shona_culture
+  1623.1.1:
+    death: yes
+muta_gatsi_mwenemutapa_1:
+  1559.1.1:
+    birth: zvongombe #TODO: Date and location guessed, check if better data is available
+    first_name: gatsi
+    dynasty: mwenemutapa_dynasty
+    adm: 60
+    dip: 45
+    mil: 15
+    religion: bantu_religion
+    culture: shona_culture
+  1623.1.1:
+    death: yes
+muta_nyambo_mwenemutapa:
+  1589.1.1:
+    birth: zvongombe #TODO: Date and location guessed, check if better data is available
+    first_name: nyambo
+    dynasty: mwenemutapa_dynasty
+    father: muta_gatsi_mwenemutapa_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 15
+    mil: 0
+    religion: bantu_religion
+    culture: shona_culture
+  1629.3.2:
+    death: yes
+muta_nyambo_mwenemutapa_1:
+  1593.1.1:
+    birth: zvongombe #TODO: Date and location guessed, check if better data is available
+    first_name: nyambo
+    dynasty: mwenemutapa_dynasty
+    adm: 15
+    dip: 15
+    mil: 0
+    religion: bantu_religion
+    culture: shona_culture
+  1629.3.2:
+    death: yes
+muta_mavura_ii_mwenemutapa:
+  1610.1.1:
+    birth: zvongombe #TODO: Date and location guessed, check if better data is available
+    first_name: mavura
+    dynasty: mwenemutapa_dynasty
+    father: muta_nyambo_mwenemutapa_1 #TODO: check if this makes sense
+    adm: 60
+    dip: 15
+    mil: 30
+    religion: bantu_religion
+    culture: shona_culture
+  1652.5.26:
+    death: yes
+muta_mavura_ii_mwenemutapa_1:
+  1599.1.1:
+    birth: zvongombe #TODO: Date and location guessed, check if better data is available
+    first_name: mavura
+    dynasty: mwenemutapa_dynasty
+    adm: 60
+    dip: 15
+    mil: 30
+    religion: bantu_religion
+    culture: shona_culture
+  1652.5.26:
+    death: yes
+muta_siti_mwenemutapa:
+  1610.1.1:
+    birth: zvongombe #TODO: Date and location guessed, check if better data is available
+    first_name: siti
+    dynasty: mwenemutapa_dynasty
+    father: muta_mavura_ii_mwenemutapa_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 30
+    mil: 15
+    religion: bantu_religion
+    culture: shona_culture
+  1663.1.1:
+    death: yes
+muta_siti_mwenemutapa_1:
+  1622.1.1:
+    birth: charumani #TODO: Date and location guessed, check if better data is available
+    first_name: siti
+    dynasty: mwenemutapa_dynasty
+    adm: 30
+    dip: 30
+    mil: 15
+    religion: bantu_religion
+    culture: shona_culture
+  1663.1.1:
+    death: yes
+muta_kamborapasu_mwenemutapa:
+  1652.5.26:
+    birth: zvongombe #TODO: Location guessed, check if better data is available
+    first_name: kamborapasu
+    dynasty: mwenemutapa_dynasty
+    father: muta_siti_mwenemutapa_1 #TODO: check if this makes sense
+    adm: 0
+    dip: 45
+    mil: 45
+    religion: bantu_religion
+    culture: shona_culture
+  1690.1.1:
+    death: yes
+muta_kamborapasu_mwenemutapa_1:
+  1633.1.1:
+    birth: charumani #TODO: Date and location guessed, check if better data is available
+    first_name: kamborapasu
+    dynasty: mwenemutapa_dynasty
+    adm: 0
+    dip: 45
+    mil: 45
+    religion: bantu_religion
+    culture: shona_culture
+  1692.1.1:
+    death: yes
+muta_nyakambira_mwenemutapa:
+  1662.1.1:
+    birth: charumani #TODO: Date and location guessed, check if better data is available
+    first_name: nyakambira
+    dynasty: mwenemutapa_dynasty
+    adm: 60
+    dip: 15
+    mil: 45
+    religion: bantu_religion
+    culture: shona_culture
+  1694.1.1:
+    death: yes
+muta_nyamaende_mwenemutapa:
+  1664.1.1:
+    birth: charumani #TODO: Date and location guessed, check if better data is available
+    first_name: nyamaende
+    dynasty: mwenemutapa_dynasty
+    adm: 45
+    dip: 30
+    mil: 45
+    religion: bantu_religion
+    culture: shona_culture
+  1707.1.1:
+    death: yes
+muta_nyenyedzi_mwenemutapa:
+  1677.1.1:
+    birth: charumani #TODO: Date and location guessed, check if better data is available
+    first_name: nyenyedzi
+    dynasty: mwenemutapa_dynasty
+    adm: 30
+    dip: 15
+    mil: 0
+    religion: bantu_religion
+    culture: shona_culture
+  1711.1.1:
+    death: yes
+muta_baroma_mwenemutapa:
+  1681.1.1:
+    birth: charumani #TODO: Date and location guessed, check if better data is available
+    first_name: baroma
+    dynasty: mwenemutapa_dynasty
+    adm: 75
+    dip: 15
+    mil: 0
+    religion: bantu_religion
+    culture: shona_culture
+  1712.1.1:
+    death: yes
+muta_samatambira_nyamhandu_mwenemutapa:
+  1682.1.1:
+    birth: charumani #TODO: Date and location guessed, check if better data is available
+    first_name: samatambira_nyamhandu
+    dynasty: mwenemutapa_dynasty
+    adm: 30
+    dip: 0
+    mil: 15
+    religion: bantu_religion
+    culture: shona_culture
+  1735.1.1:
+    death: yes
+muta_nyatsusu_mwenemutapa:
+  1705.1.1:
+    birth: charumani #TODO: Date and location guessed, check if better data is available
+    first_name: nyatsusu
+    dynasty: mwenemutapa_dynasty
+    adm: 15
+    dip: 0
+    mil: 0
+    religion: bantu_religion
+    culture: shona_culture
+  1740.1.1:
+    death: yes
+muta_dehwe_mapunzagutu_mwenemutapa:
+  1710.1.1:
+    birth: charumani #TODO: Date and location guessed, check if better data is available
+    first_name: dehwe_mapunzagutu
+    dynasty: mwenemutapa_dynasty
+    adm: 45
+    dip: 75
+    mil: 75
+    religion: bantu_religion
+    culture: shona_culture
+  3000.1.1:
+    death: yes

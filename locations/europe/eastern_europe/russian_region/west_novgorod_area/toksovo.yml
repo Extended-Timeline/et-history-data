@@ -1,0 +1,108 @@
+#imported from EU4 file: history/provinces/33 - Neva.txt
+2.1.1:
+  pop:
+    ethnicity: ingrian
+    religion: muinaisusko
+    estate: peasant
+    size: 1000
+550.1.1:
+  owner: VOTI
+  controller: VOTI
+  cores:
+    VOTI: yes
+  resource: fur
+850.1.1:
+  owner: VEST
+  controller: VEST
+  cores:
+    KAKI: no
+    VEST: yes
+    FIN: yes
+860.1.1:
+  owner: NOV
+  controller: NOV
+  cores:
+    VEST: no
+    NOV: yes
+882.1.1:
+  owner: KIEV
+  controller: KIEV
+  cores:
+    NOV: no
+    KIEV: yes
+960.1.1:
+  pop:
+    religion: orthodox
+    estate: peasant
+    size: 1000
+1054.2.20:
+  owner: NOV
+  controller: NOV
+  cores:
+    KIEV: no
+    NOV: yes
+1250.1.1:
+  owner: SWE
+  controller: SWE
+  cores:
+    SWE: yes
+1301.1.1:
+  owner: NOV
+  controller: NOV
+1352.1.1:
+  controller: SWE
+1353.1.1:
+  controller: NOV
+  cores:
+    SWE: no
+1478.1.15:
+  owner: MOS
+  controller: MOS
+  cores:
+    NOV: no
+    MOS: yes
+1503.4.1:
+  owner: RUS
+  controller: RUS
+  cores:
+    MOS: no
+    RUS: yes
+1612.4.10:
+  controller: SWE
+1617.2.17:
+  owner: SWE
+  cores:
+    RUS: no
+    SWE: yes
+1656.8.1:
+  controller: RUS
+1658.8.1:
+  controller: SWE
+1702.10.22:
+  controller: RUS
+1703.5.27:
+  owner: RUS
+  cores:
+    RUS: yes
+  pop:
+    ethnicity: muscovite
+    estate: peasant
+    size: 1000
+1721.8.30:
+  cores:
+    SWE: no
+1850.1.1:
+  cores:
+    FIN: no
+1922.12.30:
+  owner: SOVI
+  controller: SOVI
+  cores:
+    RUS: no
+    SOVI: yes
+1991.12.25:
+  owner: RUS
+  controller: RUS
+  cores:
+    SOVI: no
+    RUS: yes

@@ -1,0 +1,171 @@
+#imported from EU4 file: history/provinces/4767 - Zweibrucken.txt
+2.1.1:
+  owner: ROM
+  controller: ROM
+  cores:
+    ROM: yes
+  resource: cloth
+  pop:
+    ethnicity: rhine_franconian
+    religion: germanic
+    estate: peasant
+    size: 1000
+395.1.17:
+  owner: ROMW
+  controller: ROMW
+  cores:
+    ROM: no
+    ROMW: yes
+459.1.1:
+  owner: FRAN
+  controller: FRAN
+  cores:
+    BUR: no
+    FRAN: yes
+511.11.27:
+  owner: ASTS
+  controller: ASTS
+  cores:
+    ASTS: yes
+555.1.1:
+  owner: SOIS
+  controller: SOIS
+  cores:
+    SOIS: yes
+558.12.23:
+  owner: FRAN
+  controller: FRAN
+  cores:
+    SOIS: no
+    FRAN: yes
+561.11.29:
+  owner: ASTS
+  controller: ASTS
+600.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+613.10.10:
+  owner: FRAN
+  controller: FRAN
+  cores:
+    FRAN: yes
+623.1.1:
+  owner: ASTS
+  controller: ASTS
+629.10.18:
+  owner: FRAN
+  controller: FRAN
+634.1.1:
+  owner: ASTS
+  controller: ASTS
+679.12.23:
+  owner: FRAN
+  controller: FRAN
+840.6.21:
+  owner: EFRA
+  controller: EFRA
+  cores:
+    FRAN: no
+    EFRA: yes
+867.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+911.11.10:
+  owner: LOT
+  controller: LOT
+  cores:
+    EFRA: no
+    LOT: yes
+959.1.1:
+  owner: LOR
+  controller: LOR
+  cores:
+    LOT: no
+    LOR: yes
+1137.12.4:
+  owner: FKN
+  controller: FKN
+  cores:
+    FKN: yes
+1250.12.13:
+  owner: PAL
+  controller: PAL
+  cores:
+    FKN: no
+    PAL: yes
+1533.1.1:
+  pop:
+    religion: calvinist
+    estate: peasant
+    size: 1000
+1557.1.1:
+  pop:
+    religion: lutheran
+    estate: peasant
+    size: 1000
+1588.1.1:
+  pop:
+    religion: calvinist
+    estate: peasant
+    size: 1000
+1680.1.1:
+  owner: FRA
+  controller: FRA
+  cores:
+    FRA: yes
+1697.4.19:
+  owner: PAL
+  controller: PAL
+  cores:
+    FRA: no
+    SWE: yes
+1697.12.14:
+  owner: SWE
+  controller: SWE
+  cores:
+    SWE: yes
+1718.12.11:
+  owner: PAL
+  controller: PAL
+  cores:
+    SWE: no
+1777.12.30:
+  owner: BAV
+  controller: BAV
+  cores:
+    BAV: yes
+1796.8.7:
+  owner: FRA
+  controller: FRA
+  cores:
+    FRA: yes
+1814.4.11:
+  owner: BAV
+  controller: BAV
+  cores:
+    FRA: no
+1871.1.18:
+  owner: GER
+  controller: GER
+  cores:
+    GER: yes
+1900.1.1:
+  cores:
+    PAL: no
+    BAV: no
+1945.3.29:
+  controller: USA
+1945.5.8:
+  owner: WGER
+  controller: WGER
+  cores:
+    WGER: yes
+1990.10.3:
+  owner: GER
+  controller: GER
+  cores:
+    WGER: no

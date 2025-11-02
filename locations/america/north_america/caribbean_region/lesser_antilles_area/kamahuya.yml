@@ -1,0 +1,44 @@
+#imported from EU4 file: history/provinces/1881 - Grenada.txt
+2.1.1:
+  pop:
+    ethnicity: guaribes_culture
+    religion: muisca_religion
+    estate: peasant
+    size: 1000
+1649.3.17:
+  owner: FRA
+  controller: FRA
+  resource: sugar
+  pop:
+    ethnicity: french
+    religion: catholic
+    estate: peasant
+    size: 1000
+1699.1.1:
+  cores:
+    FRA: yes
+1763.2.10:
+  owner: GBR
+  controller: GBR
+  cores:
+    FRA: no
+    GBR: yes
+1779.6.6:
+  controller: FRA
+1780.1.1:
+  pop:
+    ethnicity: british_caribbean
+    estate: peasant
+    size: 1000
+1783.9.3:
+  controller: GBR
+1843.1.1:
+  resource: spices
+1950.1.1:
+  cores:
+    GREN: yes
+1974.2.7:
+  owner: GREN
+  controller: GREN
+  cores:
+    GBR: no

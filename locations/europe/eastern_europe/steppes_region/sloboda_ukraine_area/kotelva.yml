@@ -1,0 +1,156 @@
+#imported from EU4 file: history/provinces/291 - Kharkov.txt
+2.1.1:
+  owner: SARM
+  controller: SARM
+  cores:
+    SARM: yes
+  resource: iron
+  pop:
+    ethnicity: sarmatian
+    religion: 
+    estate: peasant
+    size: 1000
+370.1.1:
+  owner: HUNS
+  controller: HUNS
+  cores:
+    SARM: no
+    HUNS: yes
+  pop:
+    ethnicity: hunnic
+    estate: peasant
+    size: 1000
+420.1.1:
+  cores:
+    KUTR: yes
+  pop:
+    ethnicity: bolghar_culture
+    estate: peasant
+    size: 1000
+469.1.1:
+  owner: KUTR
+  controller: KUTR
+  cores:
+    HUNS: no
+567.1.1:
+  owner: ONOG
+  controller: ONOG
+  cores:
+    KUTR: no
+    ONOG: yes
+632.1.1:
+  owner: BUL
+  controller: BUL
+  cores:
+    ONOG: no
+    BUL: yes
+720.1.1:
+  owner: HUN
+  controller: HUN
+  cores:
+    BUL: no
+    HUN: yes
+  pop:
+    ethnicity: hungarian
+    estate: peasant
+    size: 1000
+840.1.1:
+  owner: KHAZ
+  controller: KHAZ
+  cores:
+    HUN: no
+    KHAZ: yes
+969.1.1:
+  owner: PECH
+  controller: PECH
+  cores:
+    KHAZ: no
+    PECH: yes
+  pop:
+    ethnicity: pecheneg
+    estate: peasant
+    size: 1000
+1060.1.1:
+  owner: CUMA
+  controller: CUMA
+  cores:
+    PECH: no
+    CUMA: yes
+1220.1.1:
+  pop:
+    ethnicity: crimean
+    estate: peasant
+    size: 1000
+1230.1.1:
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+1241.1.1:
+  owner: MGE
+  controller: MGE
+  cores:
+    CUMA: no
+    MGE: yes
+    ZAZ: yes
+1260.1.1:
+  owner: WHHO
+  controller: WHHO
+  cores:
+    MGE: no
+    WHHO: yes
+1360.1.1:
+  owner: LIT
+  controller: LIT
+  cores:
+    WHHO: no
+    LIT: yes
+1420.1.1:
+  pop:
+    ethnicity: ruthenian
+    religion: orthodox
+    estate: peasant
+    size: 1000
+1555.1.1:
+  owner: ZAZ
+  controller: ZAZ
+  cores:
+    CRIM: no
+    ZAZ: yes
+1657.1.1:
+  owner: RUS
+  controller: RUS
+  cores:
+    ZAZ: no
+    RUS: yes
+1850.1.1:
+  cores:
+    CRIM: no
+1918.1.22:
+  owner: UKR
+  controller: UKR
+  cores:
+    UKR: yes
+1921.3.18:
+  owner: RUS
+  controller: RUS
+1922.12.30:
+  owner: SOVI
+  controller: SOVI
+  cores:
+    RUS: no
+    SOVI: yes
+1941.10.24:
+  controller: GER
+1943.2.16:
+  controller: SOVI
+1943.3.15:
+  controller: GER
+1943.8.23:
+  controller: SOVI
+1991.8.24:
+  owner: UKR
+  controller: UKR
+  cores:
+    SOVI: no
+    UKR: yes

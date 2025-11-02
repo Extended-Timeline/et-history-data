@@ -1,0 +1,121 @@
+#imported from EU4 file: history/provinces/2347 - Al Hasa.txt
+2.1.1:
+  owner: GERR
+  controller: GERR
+  cores:
+    GERR: yes
+  resource: spices
+  pop:
+    ethnicity: bahrani_culture
+    religion: south_arabian
+    estate: peasant
+    size: 1000
+220.1.1:
+  owner: LAKH
+  controller: LAKH
+  cores:
+    GERR: no
+    LAKH: yes
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+325.1.1:
+  owner: ERA
+  controller: ERA
+  cores:
+    LAKH: no
+    ERA: yes
+431.7.1:
+  pop:
+    religion: nestorianism
+    estate: peasant
+    size: 1000
+609.1.1:
+  owner: ALHA
+  controller: ALHA
+  cores:
+    ERA: no
+    ALHA: yes
+634.1.1:
+  owner: RASH
+  controller: RASH
+  cores:
+    RASH: yes
+  pop:
+    religion: islam
+    estate: peasant
+    size: 1000
+661.7.28:
+  owner: UMAY
+  controller: UMAY
+  cores:
+    RASH: no
+    UMAY: yes
+  pop:
+    religion: shia
+    estate: peasant
+    size: 1000
+750.8.6:
+  owner: ABBA
+  controller: ABBA
+  cores:
+    UMAY: no
+    ABBA: yes
+899.1.1:
+  owner: QARM
+  controller: QARM
+  cores:
+    ABBA: no
+    QARM: yes
+1076.1.1:
+  owner: ALHA
+  controller: ALHA
+  cores:
+    QARM: no
+    ALHA: yes
+1549.1.1:
+  owner: TUR
+  controller: TUR
+  cores:
+    TUR: yes
+1690.1.1:
+  owner: ALHA
+  controller: ALHA
+  cores:
+    TUR: no
+1795.1.1:
+  owner: NAJD
+  controller: NAJD
+  cores:
+    NAJD: yes
+1818.9.9:
+  owner: TUR
+  controller: TUR
+  cores:
+    TUR: yes
+1824.1.1:
+  owner: NAJD
+  controller: NAJD
+  cores:
+    TUR: no
+    ALHA: no
+1871.1.1:
+  owner: TUR
+  controller: TUR
+  cores:
+    TUR: yes
+1913.1.1:
+  owner: NAJD
+  controller: NAJD
+  cores:
+    TUR: no
+    NAJD: yes
+1932.9.23:
+  owner: SAUD
+  controller: SAUD
+  cores:
+    NAJD: no
+    SAUD: yes
+1938.1.1:
+  resource: oil

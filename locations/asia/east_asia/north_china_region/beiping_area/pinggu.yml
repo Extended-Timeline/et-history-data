@@ -1,0 +1,179 @@
+#imported from EU4 file: history/provinces/1816 - Beijing.txt
+2.1.1:
+  owner: HAN0
+  controller: HAN0
+  cores:
+    HAN0: yes
+    WEI0: yes
+  resource: grain
+  pop:
+    ethnicity: yan_culture
+    religion: sanjiao
+    estate: peasant
+    size: 1000
+9.1.10:
+  owner: XIN0
+  controller: XIN0
+  cores:
+    XIN0: yes
+23.10.5:
+  owner: HAN0
+  controller: HAN0
+  cores:
+    XIN0: no
+189.9.28:
+  owner: YOU0
+  controller: YOU0
+  cores:
+    HAN0: no
+    YOU0: yes
+199.3.1:
+  owner: JI00
+  controller: JI00
+  cores:
+    JI00: yes
+207.10.1:
+  owner: WEI0
+  controller: WEI0
+  cores:
+    JI00: no
+    WEI0: yes
+265.2.4:
+  owner: JIN1
+  controller: JIN1
+  cores:
+    WEI0: no
+    JIN1: yes
+337.11.23:
+  owner: YAN0
+  controller: YAN0
+  cores:
+    JIN1: no
+    YAN0: yes
+370.12.11:
+  owner: QIN0
+  controller: QIN0
+  cores:
+    QIN0: yes
+384.1.1:
+  owner: YAN0
+  controller: YAN0
+  cores:
+    QIN0: no
+    YAN0: yes
+436.1.1:
+  owner: WEI0
+  controller: WEI0
+  cores:
+    YAN0: no
+    WEI0: yes
+550.6.7:
+  owner: QI00
+  controller: QI00
+  cores:
+    WEI0: no
+    QI00: yes
+577.2.28:
+  owner: ZHOU
+  controller: ZHOU
+  cores:
+    QI00: no
+    ZHOU: yes
+581.3.4:
+  owner: SUI0
+  controller: SUI0
+  cores:
+    ZHOU: no
+    SUI0: yes
+618.1.1:
+  owner: YAN0
+  controller: YAN0
+  cores:
+    SUI0: no
+    YAN0: yes
+624.4.1:
+  owner: TANG
+  controller: TANG
+  cores:
+    TANG: yes
+907.6.1:
+  owner: YAN0
+  controller: YAN0
+  cores:
+    TANG: no
+    YAN0: yes
+914.1.1:
+  owner: JIN1
+  controller: JIN1
+  cores:
+    YAN0: no
+    JIN1: yes
+923.11.19:
+  owner: TANG
+  controller: TANG
+  cores:
+    JIN1: no
+    TANG: yes
+936.1.11:
+  owner: LIAO
+  controller: LIAO
+  cores:
+    TANG: no
+    LIAO: yes
+1125.1.1:
+  owner: JIN0
+  controller: JIN0
+  cores:
+    LIAO: no
+    JIN0: yes
+1214.1.1:
+  owner: MGE
+  controller: MGE
+  cores:
+    JIN0: no
+    MGE: yes
+    CSH: yes
+1271.1.1:
+  owner: YUA
+  controller: YUA
+  cores:
+    MGE: no
+    YUA: yes
+1368.1.23:
+  owner: MGE
+  controller: MGE
+  cores:
+    YUA: no
+    MGE: yes
+1368.9.20:
+  owner: MNG
+  controller: MNG
+  cores:
+    MGE: no
+    MNG: yes
+1644.4.1:
+  owner: CSH
+  controller: CSH
+1644.4.22:
+  owner: QNG
+  controller: QNG
+  cores:
+    QNG: yes
+1662.1.1:
+  cores:
+    MNG: no
+1912.2.12:
+  owner: CHI
+  controller: CHI
+  cores:
+    QNG: no
+    CSH: no
+    CHI: yes
+1937.7.29:
+  controller: JAP
+1945.8.15:
+  controller: CHI
+1949.10.1:
+  controller: CHI
+1980.1.1:
+  resource: electronics

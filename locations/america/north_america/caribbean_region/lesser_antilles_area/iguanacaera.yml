@@ -1,0 +1,61 @@
+#imported from EU4 file: history/provinces/499 - Martinique.txt
+2.1.1:
+  pop:
+    ethnicity: guaribes_culture
+    religion: muisca_religion
+    estate: peasant
+    size: 1000
+1502.6.15:
+  owner: CAS
+  controller: CAS
+  resource: sugar
+  pop:
+    ethnicity: castilian
+    religion: catholic
+    estate: peasant
+    size: 1000
+1516.1.23:
+  owner: SPA
+  controller: SPA
+1527.1.1:
+  cores:
+    SPA: yes
+1635.1.1:
+  owner: FRA
+  controller: FRA
+  cores:
+    SPA: no
+  pop:
+    ethnicity: french
+    religion: catholic
+    estate: peasant
+    size: 1000
+1660.1.1:
+  cores:
+    FRA: yes
+1780.1.1:
+  pop:
+    ethnicity: french_caribbean
+    estate: peasant
+    size: 1000
+1794.1.1:
+  controller: GBR
+1802.3.25:
+  controller: FRA
+1809.1.1:
+  controller: GBR
+1870.9.4:
+  owner: FRA
+  controller: FRA
+  cores:
+    FRA: yes
+1940.6.14:
+  owner: VFRA
+  controller: VFRA
+  cores:
+    VFRA: yes
+1942.11.16:
+  owner: FRA
+  controller: FRA
+  cores:
+    VFRA: no

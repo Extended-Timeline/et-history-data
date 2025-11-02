@@ -1,0 +1,113 @@
+#imported from EU4 file: history/provinces/2993 - Strelitz.txt
+2.1.1:
+  owner: RUGI
+  controller: RUGI
+  cores:
+    RUGI: yes
+  resource: cloth
+  pop:
+    ethnicity: western_pomeranian
+    religion: germanic
+    estate: peasant
+    size: 1000
+140.1.1:
+  owner: RUGE
+  controller: RUGE
+  cores:
+    RUGI: no
+    RUGE: yes
+395.1.1:
+  owner: POM
+  controller: POM
+  cores:
+    RUGE: no
+    POM: yes
+  pop:
+    ethnicity: polabian
+    religion: slavic
+    estate: peasant
+    size: 1000
+600.1.1:
+  owner: VELE
+  controller: VELE
+  cores:
+    RUGI: no
+    VELE: yes
+929.1.1:
+  owner: SAX
+  controller: SAX
+  cores:
+    VELE: no
+    SAX: yes
+948.1.1:
+  owner: BRA
+  controller: BRA
+  cores:
+    SAX: no
+    BRA: yes
+983.1.1:
+  owner: KOPA
+  controller: KOPA
+  cores:
+    BRA: no
+    KOPA: yes
+1157.10.3:
+  owner: BRA
+  controller: BRA
+  cores:
+    BRA: yes
+1220.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+1240.1.1:
+  pop:
+    ethnicity: saxon
+    estate: peasant
+    size: 1000
+1539.1.1:
+  pop:
+    religion: lutheran
+    estate: peasant
+    size: 1000
+1650.1.1:
+  pop:
+    ethnicity: prussian
+    estate: peasant
+    size: 1000
+1701.1.18:
+  owner: PRU
+  controller: PRU
+  cores:
+    BRA: no
+    PRU: yes
+1806.10.27:
+  controller: FRA
+1807.7.9:
+  controller: PRU
+1871.1.18:
+  owner: GER
+  controller: GER
+  cores:
+    GER: yes
+1900.1.1:
+  cores:
+    PRU: no
+1945.5.2:
+  controller: SOVI
+1945.5.8:
+  owner: EGER
+  controller: EGER
+  cores:
+    EGER: yes
+1980.1.1:
+  pop:
+    religion: irreligious
+    estate: peasant
+    size: 1000
+1990.10.3:
+  owner: GER
+  controller: GER
+  cores:
+    EGER: no

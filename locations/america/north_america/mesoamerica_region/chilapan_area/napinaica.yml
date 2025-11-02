@@ -1,0 +1,42 @@
+#imported from EU4 file: history/provinces/4586 - Jakaltek.txt
+2.1.1:
+  owner: YAXC
+  controller: YAXC
+  cores:
+    YAXC: yes
+  resource: cocoa
+  pop:
+    ethnicity: chol_culture
+    religion: mayan
+    estate: peasant
+    size: 1000
+850.1.1:
+  owner: LAC
+  controller: LAC
+  cores:
+    YAXC: no
+    LAC: yes
+1521.8.13:
+  owner: SPA
+  controller: SPA
+  cores:
+    SPA: yes
+  pop:
+    ethnicity: castilian
+    religion: catholic
+    estate: peasant
+    size: 1000
+1770.1.1:
+  pop:
+    ethnicity: mexican
+    estate: peasant
+    size: 1000
+1810.9.16:
+  owner: MEX
+  controller: SPA
+  cores:
+    MEX: yes
+1821.9.27:
+  controller: MEX
+  cores:
+    SPA: no

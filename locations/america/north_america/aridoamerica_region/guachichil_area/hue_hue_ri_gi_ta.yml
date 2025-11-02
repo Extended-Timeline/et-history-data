@@ -1,0 +1,37 @@
+#imported from EU4 file: history/provinces/4644 - Jocome.txt
+2.1.1:
+  resource: wool
+  pop:
+    ethnicity: yaqui_culture
+    religion: iroquoian_totemism
+    estate: peasant
+    size: 1000
+1598.1.1:
+  owner: SPA
+  controller: SPA
+  cores:
+    SPA: yes
+  resource: wool
+  pop:
+    ethnicity: castilian
+    religion: catholic
+    estate: peasant
+    size: 1000
+1770.1.1:
+  pop:
+    ethnicity: mexican
+    estate: peasant
+    size: 1000
+1810.9.16:
+  owner: MEX
+  controller: SPA
+  cores:
+    MEX: yes
+1821.9.27:
+  controller: MEX
+  cores:
+    SPA: no
+1847.3.1:
+  controller: USA
+1848.2.2:
+  controller: MEX

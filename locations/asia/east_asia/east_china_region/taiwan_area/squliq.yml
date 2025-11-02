@@ -1,0 +1,60 @@
+#imported from EU4 file: history/provinces/2154 - Kelam.txt
+2.1.1:
+  owner: ATAY
+  controller: ATAY
+  cores:
+    ATAY: yes
+  resource: chinaware
+  pop:
+    ethnicity: formosan_culture
+    religion: bimoism
+    estate: peasant
+    size: 1000
+1626.1.1:
+  owner: SPA
+  controller: SPA
+  cores:
+    SPA: yes
+1642.8.26:
+  owner: NED
+  controller: NED
+  cores:
+    SPA: no
+    NED: yes
+1668.1.1:
+  owner: ATAY
+  controller: ATAY
+  cores:
+    NED: no
+1683.9.5:
+  owner: QNG
+  controller: QNG
+  cores:
+    QNG: yes
+1800.1.1:
+  pop:
+    ethnicity: taiwanese
+    religion: sanjiao
+    estate: peasant
+    size: 1000
+1895.4.17:
+  owner: JAP
+  controller: JAP
+  cores:
+    JAP: yes
+1912.2.12:
+  cores:
+    CHI: yes
+    QNG: no
+1945.8.15:
+  owner: CHI
+  controller: CHI
+  cores:
+    JAP: no
+1949.10.1:
+  owner: TAIW
+  controller: TAIW
+  cores:
+    TAIW: yes
+1970.1.1:
+  resource: electronics

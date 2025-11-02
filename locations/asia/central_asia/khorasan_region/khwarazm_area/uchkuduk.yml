@@ -1,0 +1,90 @@
+#imported from EU4 file: history/provinces/2370 - Kungirot.txt
+2.1.1:
+  resource: livestock
+  pop:
+    ethnicity: turkmen_culture
+    religion: 
+    estate: peasant
+    size: 1000
+593.1.1:
+  owner: WGOK
+  controller: WGOK
+  cores:
+    WGOK: yes
+659.1.1:
+  owner: OGHU
+  controller: OGHU
+  cores:
+    WGOK: no
+    OGHU: yes
+1050.1.1:
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+1153.1.1:
+  owner: KHWA
+  controller: KHWA
+  cores:
+    OGHU: no
+    KHWA: yes
+1231.1.1:
+  owner: MGE
+  controller: MGE
+  cores:
+    KHWA: no
+    MGE: yes
+  pop:
+    ethnicity: nogai
+    estate: peasant
+    size: 1000
+1260.1.1:
+  owner: BLHO
+  controller: BLHO
+  cores:
+    MGE: no
+    BLHO: yes
+1262.1.1:
+  owner: NOGA
+  controller: NOGA
+  cores:
+    BLHO: no
+    NOGA: yes
+1520.1.1:
+  owner: KAZA
+  controller: KAZA
+  cores:
+    NOGA: no
+    KAZA: yes
+  pop:
+    ethnicity: khazak
+    estate: peasant
+    size: 1000
+1670.1.1:
+  owner: KHIV
+  controller: KHIV
+  cores:
+    KAZA: no
+    KHIV: yes
+1879.1.1:
+  owner: RUS
+  controller: RUS
+  cores:
+    RUS: yes
+1922.12.30:
+  owner: SOVI
+  controller: SOVI
+  cores:
+    RUS: no
+    SOVI: yes
+1924.10.27:
+  cores:
+    KHIV: no
+    SHAY: no
+    UZBE: yes
+1991.12.8:
+  owner: UZBE
+  controller: UZBE
+  cores:
+    SOVI: no
+    RUS: no

@@ -1,0 +1,70 @@
+#imported from EU4 file: history/provinces/4397 - Yawnghwe.txt
+2.1.1:
+  owner: PALN
+  controller: PALN
+  cores:
+    PALN: yes
+  resource: cotton
+  pop:
+    ethnicity: wa_culture
+    religion: bimoism
+    estate: peasant
+    size: 1000
+1050.1.1:
+  pop:
+    religion: theravada
+    estate: peasant
+    size: 1000
+1200.1.1:
+  pop:
+    ethnicity: tai_lu_culture
+    estate: peasant
+    size: 1000
+1296.1.1:
+  owner: HSI
+  controller: HSI
+  cores:
+    PALN: no
+    HSI: yes
+1527.1.1:
+  owner: SHA
+  controller: SHA
+  cores:
+    SHA: yes
+1557.1.25:
+  owner: HSI
+  controller: HSI
+  cores:
+    SHA: no
+    HSI: yes
+1850.1.1:
+  pop:
+    ethnicity: burmese_culture
+    estate: peasant
+    size: 1000
+1938.1.1:
+  owner: GBR
+  controller: GBR
+  cores:
+    GBR: yes
+1942.5.1:
+  controller: SIA
+1945.3.1:
+  controller: GBR
+1947.1.1:
+  owner: HSI
+  controller: HSI
+  cores:
+    GBR: no
+    HSI: yes
+1959.1.1:
+  owner: BURM
+  controller: BURM
+  cores:
+    BURM: yes
+1989.1.1:
+  owner: MYAN
+  controller: MYAN
+  cores:
+    BURM: no
+    MYAN: yes

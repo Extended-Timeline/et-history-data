@@ -1,0 +1,39 @@
+#imported from EU4 file: history/provinces/3235 - Salamat.txt
+2.1.1:
+  pop:
+    ethnicity: daju_language
+    religion: bantu_religion
+    estate: peasant
+    size: 1000
+1100.1.1:
+  owner: DAJ
+  controller: DAJ
+  cores:
+    DAJ: yes
+  resource: grain
+1810.1.1:
+  owner: WAD
+  controller: WAD
+  cores:
+    WAD: yes
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+1850.1.1:
+  pop:
+    ethnicity: maba_africa_culture
+    estate: peasant
+    size: 1000
+1912.1.1:
+  owner: FRA
+  controller: FRA
+  cores:
+    FRA: yes
+1960.8.11:
+  owner: CHAD
+  controller: CHAD
+  cores:
+    FRA: no
+    WAD: no
+    CHAD: yes

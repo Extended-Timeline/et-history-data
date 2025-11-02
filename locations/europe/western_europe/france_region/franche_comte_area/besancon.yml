@@ -1,0 +1,168 @@
+#imported from EU4 file: history/provinces/193 - Franche-Comte.txt
+2.1.1:
+  owner: ROM
+  controller: ROM
+  cores:
+    ROM: yes
+  resource: salt
+  pop:
+    ethnicity: gallian
+    religion: druidism
+    estate: peasant
+    size: 1000
+260.1.1:
+  cores:
+    GALL: yes
+268.1.1:
+  controller: ROM
+  cores:
+    GALL: no
+395.1.17:
+  owner: ROMW
+  controller: ROMW
+  cores:
+    ROM: no
+    ROMW: yes
+443.1.1:
+  owner: BUR
+  controller: BUR
+  cores:
+    ROMW: no
+    BUR: yes
+  pop:
+    ethnicity: burgundione
+    religion: germanic
+    estate: peasant
+    size: 1000
+450.1.1:
+  pop:
+    religion: arianism
+    estate: peasant
+    size: 1000
+486.6.1:
+  pop:
+    ethnicity: burgundian
+    estate: peasant
+    size: 1000
+500.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+534.1.1:
+  owner: NEUS
+  controller: NEUS
+  cores:
+    NEUS: yes
+558.12.23:
+  owner: FRAN
+  controller: FRAN
+  cores:
+    NEUS: no
+    FRAN: yes
+561.11.29:
+  owner: ORL
+  controller: ORL
+  cores:
+    ORL: yes
+592.3.28:
+  owner: ASTS
+  controller: ASTS
+  cores:
+    ASTS: yes
+595.1.1:
+  owner: ORL
+  controller: ORL
+  cores:
+    ASTS: no
+612.1.1:
+  owner: ASTS
+  controller: ASTS
+  cores:
+    ORL: no
+    ASTS: yes
+613.10.10:
+  owner: FRAN
+  controller: FRAN
+  cores:
+    ASTS: no
+    FRAN: yes
+634.1.1:
+  owner: NEUS
+  controller: NEUS
+  cores:
+    NEUS: yes
+679.12.23:
+  owner: FRAN
+  controller: FRAN
+840.6.21:
+  owner: MFRA
+  controller: MFRA
+  cores:
+    FRAN: no
+    MFRA: yes
+855.9.30:
+  owner: LOT
+  controller: LOT
+  cores:
+    MFRA: no
+    LOT: yes
+867.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+870.8.8:
+  owner: EFRA
+  controller: EFRA
+  cores:
+    LOT: no
+    EFRA: yes
+888.1.1:
+  owner: BUR
+  controller: BUR
+  cores:
+    WFRA: no
+    BUR: yes
+1477.1.5:
+  owner: FRA
+  controller: FRA
+  cores:
+    FRA: yes
+1493.8.19:
+  owner: HAB
+  controller: HAB
+  cores:
+    FRA: no
+    HAB: yes
+1519.1.12:
+  owner: SPA
+  controller: SPA
+  cores:
+    HAB: no
+    SPA: yes
+1668.2.20:
+  controller: FRA
+1668.5.2:
+  controller: SPA
+1670.1.1:
+  cores:
+    FRA: yes
+1674.9.1:
+  controller: FRA
+1678.9.19:
+  owner: FRA
+  cores:
+    SPA: no
+1870.9.4:
+  owner: FRA
+  controller: FRA
+  cores:
+    FRA: yes
+    BUR: no
+1940.6.14:
+  owner: GER
+  controller: GER
+1944.8.25:
+  owner: FRA
+  controller: FRA

@@ -1,0 +1,127 @@
+#imported from EU4 file: history/provinces/3141 - Valtellina.txt
+2.1.1:
+  owner: ROM
+  controller: ROM
+  cores:
+    ROM: yes
+  resource: cloth
+  pop:
+    ethnicity: romansh
+    religion: hellenism_religion
+    estate: peasant
+    size: 1000
+395.1.17:
+  owner: ROMW
+  controller: ROMW
+  cores:
+    ROM: no
+    ROMW: yes
+420.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+476.9.4:
+  owner: ITA
+  controller: ITA
+  cores:
+    ITA: yes
+480.1.1:
+  cores:
+    ROMW: no
+489.1.1:
+  owner: OSTR
+  controller: OSTR
+  cores:
+    ITA: no
+    OSTR: yes
+  pop:
+    ethnicity: gothic
+    religion: arianism
+    estate: peasant
+    size: 1000
+553.1.1:
+  owner: LOMB
+  controller: LOMB
+  cores:
+    OSTR: no
+    LOMB: yes
+  pop:
+    ethnicity: lombard
+    estate: peasant
+    size: 1000
+640.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+773.1.1:
+  owner: FRAN
+  controller: FRAN
+  cores:
+    FRAN: yes
+840.6.21:
+  owner: MFRA
+  controller: MFRA
+  cores:
+    FRAN: no
+    MFRA: yes
+855.9.30:
+  owner: ITA
+  controller: ITA
+  cores:
+    MFRA: no
+    LOMB: no
+    ITA: yes
+867.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+962.2.2:
+  owner: LOMB
+  controller: LOMB
+  cores:
+    ITA: no
+    LOMB: yes
+1183.1.1:
+  owner: MLO
+  controller: MLO
+  cores:
+    LOMB: no
+    MLO: yes
+1504.1.31:
+  owner: FRA
+  cores:
+    FRA: yes
+1512.1.1:
+  owner: SGL
+  controller: SGL
+  cores:
+    MLO: no
+    SGL: yes
+1797.10.10:
+  owner: ITA
+  controller: ITA
+  cores:
+    ITA: yes
+1814.4.11:
+  owner: HAB
+  controller: HAB
+  cores:
+    ITA: no
+    HAB: yes
+1859.11.10:
+  owner: SPIE
+  controller: SPIE
+  cores:
+    HAB: no
+    VEN: no
+    SPIE: yes
+1861.3.17:
+  owner: ITA
+  controller: ITA
+  cores:
+    SPIE: no
+    BRS: no
+    ITA: yes

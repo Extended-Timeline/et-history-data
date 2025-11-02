@@ -1,0 +1,78 @@
+#imported from EU4 file: history/provinces/2741 - Jeju.txt
+2.1.1:
+  owner: TMN
+  controller: TMN
+  cores:
+    TMN: yes
+  resource: fish
+  pop:
+    ethnicity: tamna_culture
+    religion: muism
+    estate: peasant
+    size: 1000
+372.1.1:
+  pop:
+    religion: mahayana
+    estate: peasant
+    size: 1000
+1105.1.1:
+  owner: GORY
+  controller: GORY
+  cores:
+    GORY: yes
+1392.7.12:
+  owner: KOR
+  controller: KOR
+  cores:
+    GORY: no
+    KOR: yes
+  pop:
+    religion: sanjiao
+    estate: peasant
+    size: 1000
+1597.9.26:
+  controller: TOYO
+1597.11.1:
+  controller: KOR
+1637.1.1:
+  cores:
+    MNG: yes
+1644.1.1:
+  cores:
+    MNG: no
+    MCH: yes
+1645.7.1:
+  cores:
+    MCH: no
+    QNG: yes
+1910.8.20:
+  owner: JAP
+  controller: JAP
+  cores:
+    JAP: yes
+1912.2.12:
+  cores:
+    QNG: no
+1945.8.15:
+  owner: JOE
+  controller: JOE
+  cores:
+    JAP: no
+    KOR: no
+    JOE: yes
+1948.9.9:
+  owner: SKOR
+  controller: SKOR
+  cores:
+    SKOR: yes
+    NKOR: yes
+1960.1.1:
+  pop:
+    religion: mahayana
+    estate: peasant
+    size: 1000
+2000.1.1:
+  pop:
+    ethnicity: korean_culture
+    estate: peasant
+    size: 1000

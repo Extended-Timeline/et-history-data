@@ -1,0 +1,47 @@
+#imported from EU4 file: history/provinces/2646 - Coixtlahuacan.txt
+2.1.1:
+  owner: MIX
+  controller: MIX
+  cores:
+    MIX: yes
+  resource: dyes
+  pop:
+    ethnicity: mixtec_culture
+    religion: nahuatl
+    estate: peasant
+    size: 1000
+870.1.1:
+  owner: TOLT
+  controller: TOLT
+  cores:
+    TOLT: yes
+1080.1.1:
+  owner: COI
+  controller: COI
+  cores:
+    TOLT: no
+    COI: yes
+1458.1.1:
+  owner: AZTE
+  controller: AZTE
+  cores:
+    AZTE: yes
+1521.8.13:
+  owner: SPA
+  controller: SPA
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+1546.1.1:
+  cores:
+    SPA: yes
+1810.9.16:
+  owner: MEX
+  controller: MEX
+  cores:
+    MEX: yes
+1821.9.27:
+  controller: MEX
+  cores:
+    SPA: no

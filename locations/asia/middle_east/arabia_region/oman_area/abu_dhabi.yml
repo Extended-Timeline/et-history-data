@@ -1,0 +1,116 @@
+#imported from EU4 file: history/provinces/2333 - Abd Al-Qays.txt
+2.1.1:
+  owner: GERR
+  controller: GERR
+  cores:
+    GERR: yes
+  resource: fish
+  pop:
+    ethnicity: bahrani_culture
+    religion: south_arabian
+    estate: peasant
+    size: 1000
+220.1.1:
+  owner: LAKH
+  controller: LAKH
+  cores:
+    GERR: no
+    LAKH: yes
+325.1.1:
+  owner: ERA
+  controller: ERA
+  cores:
+    LAKH: no
+    ERA: yes
+609.1.1:
+  owner: YAS
+  controller: YAS
+  cores:
+    ERA: no
+    YAS: yes
+634.1.1:
+  owner: RASH
+  controller: RASH
+  cores:
+    RASH: yes
+  pop:
+    religion: islam
+    estate: peasant
+    size: 1000
+661.7.28:
+  owner: UMAY
+  controller: UMAY
+  cores:
+    RASH: no
+    UMAY: yes
+  pop:
+    religion: shia
+    estate: peasant
+    size: 1000
+750.8.6:
+  owner: ABBA
+  controller: ABBA
+  cores:
+    UMAY: no
+    ABBA: yes
+840.1.1:
+  owner: YAS
+  controller: YAS
+  cores:
+    ABBA: no
+    YAS: yes
+899.1.1:
+  owner: QARM
+  controller: QARM
+  cores:
+    QARM: yes
+1053.1.1:
+  owner: YAS
+  controller: YAS
+  cores:
+    QARM: no
+    YAS: yes
+1073.5.16:
+  owner: KRM
+  controller: KRM
+  cores:
+    KRM: yes
+1154.1.1:
+  owner: YAS
+  controller: YAS
+  cores:
+    KRM: no
+1360.1.1:
+  owner: ORM
+  controller: ORM
+  cores:
+    ORM: yes
+1622.5.3:
+  owner: IRA
+  controller: IRA
+  cores:
+    IRA: yes
+1783.1.1:
+  owner: BAHR
+  controller: BAHR
+  cores:
+    IRA: no
+    BAHR: yes
+1793.1.1:
+  owner: YAS
+  controller: YAS
+  cores:
+    BAHR: no
+    YAS: yes
+1800.1.1:
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+1962.1.1:
+  resource: oil
+1971.12.2:
+  owner: UAEM
+  controller: UAEM
+  cores:
+    UAEM: yes

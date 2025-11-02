@@ -1,0 +1,128 @@
+#imported from EU4 file: history/provinces/2328 - Tayma.txt
+2.1.1:
+  owner: NABA
+  controller: NABA
+  cores:
+    NABA: yes
+    LIHY: yes
+  resource: salt
+  pop:
+    ethnicity: hijazi_culture
+    religion: south_arabian
+    estate: peasant
+    size: 1000
+106.1.1:
+  owner: LIHY
+  controller: LIHY
+  cores:
+    NABA: no
+    LIHY: yes
+220.1.1:
+  owner: GHAS
+  controller: GHAS
+  cores:
+    GHAS: yes
+  pop:
+    ethnicity: najdi_culture
+    estate: peasant
+    size: 1000
+320.1.1:
+  owner: GHAT
+  controller: GHAT
+  cores:
+    GHAS: no
+    GHAT: yes
+630.10.1:
+  owner: RASH
+  controller: RASH
+  cores:
+    GHAT: no
+    RASH: yes
+650.1.1:
+  pop:
+    religion: islam
+    estate: peasant
+    size: 1000
+661.7.28:
+  owner: UMAY
+  controller: UMAY
+  cores:
+    RASH: no
+    UMAY: yes
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+750.8.6:
+  owner: ABBA
+  controller: ABBA
+  cores:
+    UMAY: no
+    ABBA: yes
+868.9.15:
+  owner: EGY
+  controller: EGY
+  cores:
+    ABBA: no
+    EGY: yes
+905.1.10:
+  owner: ABBA
+  controller: ABBA
+  cores:
+    ABBA: yes
+935.8.26:
+  owner: EGY
+  controller: EGY
+  cores:
+    ABBA: no
+    EGY: yes
+970.3.1:
+  owner: FATI
+  controller: FATI
+  cores:
+    EGY: no
+    FATI: yes
+1070.1.1:
+  owner: ANZ
+  controller: ANZ
+  cores:
+    FATI: no
+    ANZ: yes
+1772.1.1:
+  owner: HEJA
+  controller: HEJA
+1802.1.1:
+  owner: NAJD
+  controller: NAJD
+  cores:
+    NAJD: yes
+1818.9.9:
+  owner: EGY
+  controller: EGY
+  cores:
+    NAJD: no
+    EGY: yes
+    TUR: yes
+1832.1.1:
+  owner: SHAM
+  controller: SHAM
+  cores:
+    SHAM: yes
+1916.6.10:
+  owner: HEJA
+  controller: HEJA
+  cores:
+    SHAM: no
+    HEJA: yes
+1925.12.19:
+  owner: NAJD
+  controller: NAJD
+  cores:
+    NAJD: yes
+1932.9.23:
+  owner: SAUD
+  controller: SAUD
+  cores:
+    HEJA: no
+    NAJD: no
+    SAUD: yes

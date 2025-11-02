@@ -1,0 +1,120 @@
+#imported from EU4 file: history/provinces/4559 - Minorca.txt
+2.1.1:
+  owner: ROM
+  controller: ROM
+  cores:
+    ROM: yes
+  resource: fish
+  pop:
+    ethnicity: iberi
+    religion: bimoism
+    estate: peasant
+    size: 1000
+395.1.17:
+  owner: ROMW
+  controller: ROMW
+  cores:
+    ROM: no
+    ROMW: yes
+400.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+450.1.1:
+  owner: VAND
+  controller: VAND
+  cores:
+    ROMW: no
+    VAND: yes
+534.1.1:
+  owner: BYZ
+  controller: BYZ
+  cores:
+    VAND: no
+    BYZ: yes
+800.1.1:
+  pop:
+    ethnicity: andalusi
+    religion: sunni
+    estate: peasant
+    size: 1000
+903.1.1:
+  owner: CRDB
+  controller: CRDB
+  cores:
+    BYZ: no
+    CRDB: yes
+1011.1.1:
+  owner: DENI
+  controller: DENI
+  cores:
+    CRDB: no
+    DENI: yes
+1076.1.1:
+  owner: MAJO
+  controller: MAJO
+  cores:
+    DENI: no
+    MAJO: yes
+1114.1.1:
+  owner: PIS
+  controller: PIS
+  cores:
+    PIS: yes
+1115.1.1:
+  owner: MOR
+  controller: MOR
+  cores:
+    PIS: no
+    MOR: yes
+1145.1.1:
+  owner: MAJO
+  controller: MAJO
+  cores:
+    MOR: no
+1203.1.1:
+  owner: MOR
+  controller: MOR
+  cores:
+    MOR: yes
+1231.6.17:
+  owner: MAJO
+  controller: MAJO
+  cores:
+    MAJO: yes
+    MLL: yes
+1287.1.17:
+  owner: ARA
+  controller: ARA
+  cores:
+    MAJO: no
+    ARA: yes
+    MLL: yes
+1295.1.1:
+  owner: MLL
+  controller: MLL
+1300.1.1:
+  pop:
+    ethnicity: catalan
+    religion: catholic
+    estate: peasant
+    size: 1000
+1349.10.25:
+  owner: ARA
+  controller: ARA
+1516.1.23:
+  owner: SPA
+  controller: SPA
+  cores:
+    SPA: yes
+1523.3.8:
+  controller: SPA
+1713.1.1:
+  owner: GBR
+  controller: GBR
+  cores:
+    GBR: yes
+1782.1.1:
+  owner: SPA
+  controller: SPA

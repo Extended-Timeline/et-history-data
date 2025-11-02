@@ -1,0 +1,49 @@
+#imported from EU4 file: history/provinces/2642 - Metztitlan.txt
+2.1.1:
+  owner: OTO
+  controller: OTO
+  cores:
+    OTO: yes
+  resource: grain
+  pop:
+    ethnicity: otomanguean_culture
+    religion: nahuatl
+    estate: peasant
+    size: 1000
+496.1.1:
+  owner: TOLT
+  controller: TOLT
+  cores:
+    OTO: no
+    TOLT: yes
+1122.1.1:
+  owner: OTO
+  controller: OTO
+  cores:
+    TOLT: no
+    OTO: yes
+1521.8.13:
+  owner: SPA
+  controller: SPA
+  pop:
+    ethnicity: castilian
+    religion: catholic
+    estate: peasant
+    size: 1000
+1546.1.1:
+  cores:
+    SPA: yes
+1770.1.1:
+  pop:
+    ethnicity: mexican
+    estate: peasant
+    size: 1000
+1810.9.16:
+  owner: MEX
+  controller: MEX
+  cores:
+    MEX: yes
+1821.9.27:
+  controller: MEX
+  cores:
+    SPA: no

@@ -1,0 +1,118 @@
+#imported from EU4 file: history/provinces/329 - Sivas.txt
+2.1.1:
+  owner: ROM
+  controller: ROM
+  cores:
+    ROM: yes
+  resource: livestock
+  pop:
+    ethnicity: pontic_greek_culture
+    religion: hellenism_religion
+    estate: peasant
+    size: 1000
+360.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+395.1.17:
+  owner: BYZ
+  controller: BYZ
+  cores:
+    ROM: no
+    BYZ: yes
+615.1.1:
+  controller: ERA
+626.1.1:
+  controller: BYZ
+867.1.1:
+  pop:
+    religion: orthodox
+    estate: peasant
+    size: 1000
+1071.8.26:
+  owner: DANI
+  controller: DANI
+  cores:
+    DANI: yes
+  pop:
+    ethnicity: turkish_culture
+    estate: peasant
+    size: 1000
+1090.1.1:
+  cores:
+    BYZ: no
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+1178.1.1:
+  owner: RUM
+  controller: RUM
+  cores:
+    RUM: yes
+1234.1.1:
+  owner: MGE
+  controller: MGE
+  cores:
+    MGE: yes
+1250.1.1:
+  pop:
+    religion: shia
+    estate: peasant
+    size: 1000
+1260.1.1:
+  owner: ILK
+  controller: ILK
+  cores:
+    MGE: no
+    ILK: yes
+1335.1.1:
+  owner: ERE
+  controller: ERE
+  cores:
+    ILK: no
+    ERE: yes
+1399.1.1:
+  owner: TUR
+  controller: TUR
+  cores:
+    ERE: no
+    TUR: yes
+1400.1.1:
+  owner: TIM
+  controller: TIM
+  cores:
+    TIM: yes
+1402.1.1:
+  owner: AKQO
+  controller: AKQO
+  cores:
+    AKQO: yes
+1408.1.1:
+  owner: TUR
+  controller: TUR
+  cores:
+    TIM: no
+    AKQO: no
+1482.7.26:
+  controller: TUR
+1513.1.1:
+  controller: TUR
+1610.1.1:
+  controller: TUR
+1620.1.1:
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+1625.1.1:
+  controller: TUR
+1920.4.24:
+  owner: TURK
+  controller: TURK
+  cores:
+    TURK: yes
+1922.11.1:
+  cores:
+    TUR: no

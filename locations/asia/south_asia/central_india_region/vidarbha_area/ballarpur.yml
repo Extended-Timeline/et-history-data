@@ -1,0 +1,92 @@
+#imported from EU4 file: history/provinces/2050 - Chanda.txt
+2.1.1:
+  owner: SATA
+  controller: SATA
+  cores:
+    SATA: yes
+  resource: tropical_wood
+  pop:
+    ethnicity: gond
+    religion: mahayana
+    estate: peasant
+    size: 1000
+220.1.1:
+  owner: ABHI
+  controller: ABHI
+  cores:
+    SATA: no
+    ABHI: yes
+250.1.1:
+  owner: VAKA
+  controller: VAKA
+  cores:
+    ABHI: no
+    VAKA: yes
+280.1.1:
+  pop:
+    religion: hindu
+    estate: peasant
+    size: 1000
+500.1.1:
+  owner: RDY
+  controller: RDY
+  cores:
+    VAKA: no
+    RDY: yes
+616.1.1:
+  owner: CHAL
+  controller: CHAL
+  cores:
+    RDY: no
+    CHAL: yes
+753.1.1:
+  owner: RAST
+  controller: RAST
+  cores:
+    CHAL: no
+    RAST: yes
+973.1.1:
+  owner: CHAL
+  controller: CHAL
+  cores:
+    RAST: no
+    CHAL: yes
+1162.1.1:
+  owner: TELI
+  controller: TELI
+  cores:
+    CHAL: no
+    TELI: yes
+1250.1.1:
+  owner: CHD
+  controller: CHD
+  cores:
+    TELI: no
+    CHD: yes
+1757.1.1:
+  owner: NAGP
+  controller: NAGP
+  cores:
+    NAGP: yes
+1853.12.11:
+  owner: GBR
+  controller: GBR
+  cores:
+    GBR: yes
+1880.1.1:
+  resource: coal
+1920.1.1:
+  pop:
+    ethnicity: marathi_culture
+    estate: peasant
+    size: 1000
+1930.1.1:
+  cores:
+    NAGP: no
+    CHD: no
+    INDI: yes
+1947.8.15:
+  owner: INDI
+  controller: INDI
+  cores:
+    GBR: no

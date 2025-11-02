@@ -1,0 +1,990 @@
+pol_leszko_i_popielid:
+  650.1.1:
+    birth: poznan #TODO: Date and location guessed, check if better data is available
+    first_name: leszko
+    dynasty: popielid_dynasty
+    adm: 30
+    dip: 15
+    mil: 60
+    religion: slavic
+    culture: lesser_polish
+  720.1.1:
+    death: yes
+pol_leszko_ii_popielid:
+  690.1.1:
+    birth: poznan #TODO: Date and location guessed, check if better data is available
+    first_name: leszko
+    dynasty: popielid_dynasty
+    adm: 30
+    dip: 60
+    mil: 15
+    religion: slavic
+    culture: lesser_polish
+  740.1.1:
+    death: yes
+pol_leszko_iii_popielid:
+  710.1.1:
+    birth: poznan #TODO: Date and location guessed, check if better data is available
+    first_name: leszko
+    dynasty: popielid_dynasty
+    adm: 0
+    dip: 15
+    mil: 60
+    religion: slavic
+    culture: lesser_polish
+  760.1.1:
+    death: yes
+pol_popiel_i_popielid:
+  730.1.1:
+    birth: poznan #TODO: Date and location guessed, check if better data is available
+    first_name: popiel
+    dynasty: popielid_dynasty
+    adm: 75
+    dip: 75
+    mil: 0
+    religion: slavic
+    culture: lesser_polish
+  800.1.1:
+    death: yes
+pol_popiel_ii_popielid:
+  780.1.1:
+    birth: poznan #TODO: Date and location guessed, check if better data is available
+    first_name: popiel
+    dynasty: popielid_dynasty
+    father: pol_popiel_i_popielid #TODO: check if this makes sense
+    adm: 60
+    dip: 15
+    mil: 75
+    religion: slavic
+    culture: lesser_polish
+  850.1.1:
+    death: yes
+pol_popiel_ii_popielid_1:
+  770.1.1:
+    birth: poznan #TODO: Date and location guessed, check if better data is available
+    first_name: popiel
+    dynasty: popielid_dynasty
+    adm: 60
+    dip: 15
+    mil: 75
+    religion: slavic
+    culture: lesser_polish
+  850.1.1:
+    death: yes
+pol_piast_piast:
+  820.1.1:
+    birth: poznan #TODO: Date and location guessed, check if better data is available
+    first_name: piast
+    dynasty: piast_dynasty
+    adm: 75
+    dip: 75
+    mil: 45
+    religion: slavic
+    culture: lesser_polish
+  870.1.1:
+    death: yes
+pol_siemowit_piast:
+  820.1.1:
+    birth: poznan #TODO: Date and location guessed, check if better data is available
+    first_name: siemowit
+    dynasty: piast_dynasty
+    father: pol_piast_piast #TODO: check if this makes sense
+    adm: 45
+    dip: 30
+    mil: 60
+    religion: slavic
+    culture: lesser_polish
+  870.1.1:
+    death: yes
+pol_siemowit_piast_1:
+  840.1.1:
+    birth: poznan #TODO: Date and location guessed, check if better data is available
+    first_name: siemowit
+    dynasty: piast_dynasty
+    adm: 45
+    dip: 30
+    mil: 60
+    religion: slavic
+    culture: lesser_polish
+  890.1.1:
+    death: yes
+pol_lestek_piast:
+  860.1.1:
+    birth: poznan #TODO: Date and location guessed, check if better data is available
+    first_name: lestek
+    dynasty: piast_dynasty
+    adm: 60
+    dip: 30
+    mil: 75
+    religion: slavic
+    culture: lesser_polish
+  920.1.1:
+    death: yes
+pol_siemomysl_piast:
+  890.1.1:
+    birth: krakow #TODO: Date and location guessed, check if better data is available
+    first_name: siemomysl
+    dynasty: piast_dynasty
+    adm: 75
+    dip: 45
+    mil: 45
+    religion: slavic
+    culture: lesser_polish
+  960.1.1:
+    death: yes
+pol_mieszko_i_piast:
+  930.1.1:
+    birth: krakow #TODO: Date and location guessed, check if better data is available
+    first_name: mieszko
+    dynasty: piast_dynasty
+    adm: 45
+    dip: 15
+    mil: 60
+    religion: catholic
+    culture: lesser_polish
+  992.5.25:
+    death: yes
+pol_boleslaw_i_piast:
+  967.1.1:
+    birth: krakow #TODO: Date and location guessed, check if better data is available
+    first_name: boleslaw
+    dynasty: piast_dynasty
+    father: pol_mieszko_i_piast #TODO: check if this makes sense
+    adm: 60
+    dip: 75
+    mil: 75
+    religion: catholic
+    culture: lesser_polish
+  1025.6.17:
+    death: yes
+pol_boleslaw_i_piast_1:
+  962.1.1:
+    birth: krakow #TODO: Date and location guessed, check if better data is available
+    first_name: boleslaw
+    dynasty: piast_dynasty
+    adm: 60
+    dip: 75
+    mil: 75
+    religion: catholic
+    culture: lesser_polish
+  1025.6.17:
+    death: yes
+pol_mieszko_ii_piast:
+  990.1.1:
+    birth: krakow #TODO: Date and location guessed, check if better data is available
+    first_name: mieszko
+    dynasty: piast_dynasty
+    father: pol_boleslaw_i_piast_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 45
+    mil: 75
+    religion: catholic
+    culture: lesser_polish
+  1034.5.11:
+    death: yes
+pol_mieszko_ii_piast_1:
+  995.1.1:
+    birth: krakow #TODO: Date and location guessed, check if better data is available
+    first_name: mieszko
+    dynasty: piast_dynasty
+    adm: 15
+    dip: 45
+    mil: 75
+    religion: catholic
+    culture: lesser_polish
+  1034.5.11:
+    death: yes
+pol_casimir_i_piast:
+  1016.7.25:
+    birth: krakow #TODO: Location guessed, check if better data is available
+    first_name: casimir
+    dynasty: piast_dynasty
+    father: pol_mieszko_ii_piast_1 #TODO: check if this makes sense
+    adm: 60
+    dip: 30
+    mil: 75
+    religion: catholic
+    culture: lesser_polish
+  1058.11.28:
+    death: yes
+pol_casimir_i_piast_1:
+  1004.1.1:
+    birth: krakow #TODO: Date and location guessed, check if better data is available
+    first_name: casimir
+    dynasty: piast_dynasty
+    adm: 60
+    dip: 30
+    mil: 75
+    religion: catholic
+    culture: lesser_polish
+  1058.11.28:
+    death: yes
+pol_boleslaw_ii_piast:
+  1042.1.1:
+    birth: krakow #TODO: Date and location guessed, check if better data is available
+    first_name: boleslaw
+    dynasty: piast_dynasty
+    father: pol_casimir_i_piast_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 60
+    mil: 15
+    religion: catholic
+    culture: lesser_polish
+  1081.4.3:
+    death: yes
+pol_boleslaw_ii_piast_1:
+  1028.1.1:
+    birth: krakow #TODO: Date and location guessed, check if better data is available
+    first_name: boleslaw
+    dynasty: piast_dynasty
+    adm: 45
+    dip: 60
+    mil: 15
+    religion: catholic
+    culture: lesser_polish
+  1079.1.1:
+    death: yes
+pol_wladyslaw_i_piast:
+  1044.1.1:
+    birth: krakow #TODO: Date and location guessed, check if better data is available
+    first_name: wladyslaw
+    dynasty: piast_dynasty
+    father: pol_boleslaw_ii_piast_1 #TODO: check if this makes sense
+    adm: 75
+    dip: 15
+    mil: 45
+    religion: catholic
+    culture: lesser_polish
+  1102.6.4:
+    death: yes
+pol_wladyslaw_i_piast_1:
+  1049.1.1:
+    birth: krakow #TODO: Date and location guessed, check if better data is available
+    first_name: wladyslaw
+    dynasty: piast_dynasty
+    adm: 75
+    dip: 15
+    mil: 45
+    religion: catholic
+    culture: lesser_polish
+  1102.6.4:
+    death: yes
+pol_zbigniew_i_piast:
+  1073.1.1:
+    birth: krakow #TODO: Date and location guessed, check if better data is available
+    first_name: zbigniew
+    dynasty: piast_dynasty
+    father: pol_wladyslaw_i_piast_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 30
+    mil: 15
+    religion: catholic
+    culture: lesser_polish
+  1113.7.8:
+    death: yes
+pol_zbigniew_i_piast_1:
+  1072.1.1:
+    birth: krakow #TODO: Date and location guessed, check if better data is available
+    first_name: zbigniew
+    dynasty: piast_dynasty
+    adm: 45
+    dip: 30
+    mil: 15
+    religion: catholic
+    culture: lesser_polish
+  1107.1.1:
+    death: yes
+pol_boleslaw_iii_piast:
+  1086.8.20:
+    birth: krakow #TODO: Location guessed, check if better data is available
+    first_name: boleslaw
+    dynasty: piast_dynasty
+    father: pol_zbigniew_i_piast_1 #TODO: check if this makes sense
+    adm: 75
+    dip: 60
+    mil: 45
+    religion: catholic
+    culture: lesser_polish
+  1138.10.28:
+    death: yes
+pol_boleslaw_iii_piast_1:
+  1077.1.1:
+    birth: poznan #TODO: Date and location guessed, check if better data is available
+    first_name: boleslaw
+    dynasty: piast_dynasty
+    adm: 75
+    dip: 60
+    mil: 45
+    religion: catholic
+    culture: lesser_polish
+  1138.10.28:
+    death: yes
+pol_wladyslaw_ii_piast:
+  1105.1.1:
+    birth: poznan #TODO: Date and location guessed, check if better data is available
+    first_name: wladyslaw
+    dynasty: piast_dynasty
+    adm: 45
+    dip: 45
+    mil: 60
+    religion: catholic
+    culture: lesser_polish
+  1159.5.30:
+    death: yes
+pol_boleslaw_iv_piast:
+  1125.1.1:
+    birth: poznan #TODO: Date and location guessed, check if better data is available
+    first_name: boleslaw
+    dynasty: piast_dynasty
+    adm: 60
+    dip: 30
+    mil: 15
+    religion: catholic
+    culture: lesser_polish
+  1173.1.5:
+    death: yes
+pol_mieszko_iii_piast:
+  1127.1.1:
+    birth: poznan #TODO: Date and location guessed, check if better data is available
+    first_name: mieszko
+    dynasty: piast_dynasty
+    adm: 45
+    dip: 60
+    mil: 45
+    religion: catholic
+    culture: lesser_polish
+  1177.1.1:
+    death: yes
+pol_casimir_ii_piast:
+  1138.1.1:
+    birth: poznan #TODO: Date and location guessed, check if better data is available
+    first_name: casimir
+    dynasty: piast_dynasty
+    adm: 15
+    dip: 60
+    mil: 45
+    religion: catholic
+    culture: lesser_polish
+  1194.5.5:
+    death: yes
+pol_leszek_i_piast:
+  1185.1.1:
+    birth: poznan #TODO: Date and location guessed, check if better data is available
+    first_name: leszek
+    dynasty: piast_dynasty
+    adm: 75
+    dip: 60
+    mil: 75
+    religion: catholic
+    culture: lesser_polish
+  1227.11.24:
+    death: yes
+pol_wladyslaw_iii_piast:
+  1167.1.1:
+    birth: poznan #TODO: Date and location guessed, check if better data is available
+    first_name: wladyslaw
+    dynasty: piast_dynasty
+    adm: 45
+    dip: 30
+    mil: 60
+    religion: catholic
+    culture: lesser_polish
+  1206.1.1:
+    death: yes
+pol_konrad_i_piast:
+  1188.1.1:
+    birth: poznan #TODO: Date and location guessed, check if better data is available
+    first_name: konrad
+    dynasty: piast_dynasty
+    adm: 60
+    dip: 45
+    mil: 45
+    religion: catholic
+    culture: lesser_polish
+  1232.1.1:
+    death: yes
+pol_henryk_i_piast:
+  1165.1.1:
+    birth: poznan #TODO: Date and location guessed, check if better data is available
+    first_name: henryk
+    dynasty: piast_dynasty
+    adm: 60
+    dip: 30
+    mil: 60
+    religion: catholic
+    culture: lesser_polish
+  1238.3.19:
+    death: yes
+pol_henryk_ii_piast:
+  1196.1.1:
+    birth: poznan #TODO: Date and location guessed, check if better data is available
+    first_name: henryk
+    dynasty: piast_dynasty
+    adm: 15
+    dip: 75
+    mil: 60
+    religion: catholic
+    culture: lesser_polish
+  1241.4.9:
+    death: yes
+pol_konrad_i_piast_1:
+  1211.1.1:
+    birth: poznan #TODO: Date and location guessed, check if better data is available
+    first_name: konrad
+    dynasty: piast_dynasty
+    adm: 60
+    dip: 45
+    mil: 45
+    religion: catholic
+    culture: lesser_polish
+  1243.1.1:
+    death: yes
+pol_boleslaw_v_piast:
+  1226.6.21:
+    birth: poznan #TODO: Location guessed, check if better data is available
+    first_name: boleslaw
+    dynasty: piast_dynasty
+    adm: 15
+    dip: 45
+    mil: 30
+    religion: catholic
+    culture: lesser_polish
+  1279.12.7:
+    death: yes
+pol_leszek_ii_piast:
+  1241.1.1:
+    birth: poznan #TODO: Date and location guessed, check if better data is available
+    first_name: leszek
+    dynasty: piast_dynasty
+    adm: 60
+    dip: 75
+    mil: 45
+    religion: catholic
+    culture: lesser_polish
+  1288.9.30:
+    death: yes
+pol_henryk_iv_piast:
+  1258.1.1:
+    birth: poznan #TODO: Date and location guessed, check if better data is available
+    first_name: henryk
+    dynasty: piast_dynasty
+    adm: 60
+    dip: 15
+    mil: 30
+    religion: catholic
+    culture: lesser_polish
+  1290.6.23:
+    death: yes
+pol_przemysl_ii_piast:
+  1257.10.14:
+    birth: poznan #TODO: Location guessed, check if better data is available
+    first_name: przemysl
+    dynasty: piast_dynasty
+    adm: 75
+    dip: 60
+    mil: 30
+    religion: catholic
+    culture: lesser_polish
+  1306.8.4:
+    death: yes
+pol_wladyslaw_i_piast_2:
+  1276.1.1:
+    birth: krakow #TODO: Date and location guessed, check if better data is available
+    first_name: wladyslaw
+    dynasty: piast_dynasty
+    adm: 45
+    dip: 60
+    mil: 60
+    religion: catholic
+    culture: lesser_polish
+  1333.3.2:
+    death: yes
+pol_kasimierz_iii_piast:
+  1310.4.30:
+    birth: poznan #TODO: Location guessed, check if better data is available
+    first_name: kasimierz
+    dynasty: piast_dynasty
+    father: pol_wladyslaw_i_piast_2 #TODO: check if this makes sense
+    adm: 75
+    dip: 45
+    mil: 75
+    religion: catholic
+    culture: lesser_polish
+  1370.11.5:
+    death: yes
+pol_kasimierz_iii_piast_1:
+  1303.1.1:
+    birth: krakow #TODO: Date and location guessed, check if better data is available
+    first_name: kasimierz
+    dynasty: piast_dynasty
+    adm: 75
+    dip: 45
+    mil: 75
+    religion: catholic
+    culture: lesser_polish
+  1382.9.10:
+    death: yes
+pol_jadwiga_i_angevin:
+  1352.1.1:
+    birth: krakow #TODO: Date and location guessed, check if better data is available
+    first_name: jadwiga
+    dynasty: angevin_dynasty
+    female: yes
+    adm: 45
+    dip: 75
+    mil: 30
+    religion: catholic
+    culture: lesser_polish
+  1386.3.4:
+    death: yes
+pol_wladyslaw_ii_jagiellon:
+  1362.1.1:
+    birth: krakow #TODO: Date and location guessed, check if better data is available
+    first_name: wladyslaw
+    dynasty: jagiellon_dynasty
+    father: pol_jadwiga_i_angevin #TODO: check if this makes sense
+    adm: 45
+    dip: 60
+    mil: 45
+    religion: catholic
+    culture: lesser_polish
+  1434.6.1:
+    death: yes
+pol_wladyslaw_ii_jagiellon_1:
+  1356.1.1:
+    birth: krakow #TODO: Date and location guessed, check if better data is available
+    first_name: wladyslaw
+    dynasty: jagiellon_dynasty
+    adm: 30
+    dip: 45
+    mil: 30
+    religion: catholic
+    culture: lesser_polish
+  1434.6.1:
+    death: yes
+pol_wladyslaw_iii_jagiellon:
+  1424.10.31:
+    birth: krakow #TODO: Location guessed, check if better data is available
+    first_name: wladyslaw
+    dynasty: jagiellon_dynasty
+    adm: 30
+    dip: 45
+    mil: 30
+    religion: catholic
+    culture: lesser_polish
+  1444.11.10:
+    death: yes
+pol_kazimierz_iv_jagiellon:
+  1427.11.30:
+    birth: krakow #TODO: Location guessed, check if better data is available
+    first_name: kazimierz
+    dynasty: jagiellon_dynasty
+    adm: 60
+    dip: 60
+    mil: 15
+    religion: catholic
+    culture: lesser_polish
+  1492.6.8:
+    death: yes
+pol_jan_i_olbracht_jagiellon:
+  1459.12.27:
+    birth: krakow #TODO: Location guessed, check if better data is available
+    first_name: jan_i_olbracht
+    dynasty: jagiellon_dynasty
+    adm: 30
+    dip: 0
+    mil: 15
+    religion: catholic
+    culture: lesser_polish
+  1501.6.18:
+    death: yes
+pol_aleksander_i_jagiellon:
+  1461.8.5:
+    birth: krakow #TODO: Location guessed, check if better data is available
+    first_name: aleksander
+    dynasty: jagiellon_dynasty
+    adm: 45
+    dip: 0
+    mil: 0
+    religion: catholic
+    culture: lesser_polish
+  1506.8.20:
+    death: yes
+pol_zygmunt_i_stary_jagiellon:
+  1467.1.1:
+    birth: krakow #TODO: Date and location guessed, check if better data is available
+    first_name: zygmunt_i_stary
+    dynasty: jagiellon_dynasty
+    adm: 45
+    dip: 45
+    mil: 15
+    religion: catholic
+    culture: lesser_polish
+  1548.4.2:
+    death: yes
+pol_zygmunt_i_august_jagiellon:
+  1520.8.1:
+    birth: krakow #TODO: Location guessed, check if better data is available
+    first_name: zygmunt_i_august
+    dynasty: jagiellon_dynasty
+    father: pol_zygmunt_i_stary_jagiellon #TODO: check if this makes sense
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: catholic
+    culture: lesser_polish
+  1572.7.7:
+    death: yes
+pol_zygmunt_ii_august_jagiellon:
+  1520.8.1:
+    birth: krakow #TODO: Location guessed, check if better data is available
+    first_name: zygmunt_ii_august
+    dynasty: jagiellon_dynasty
+    adm: 45
+    dip: 45
+    mil: 15
+    religion: catholic
+    culture: lesser_polish
+  1573.5.12:
+    death: yes
+pol_henryk_i_de_valois:
+  1551.9.19:
+    birth: krakow #TODO: Location guessed, check if better data is available
+    first_name: henryk
+    dynasty: de_valois_dynasty
+    adm: 15
+    dip: 15
+    mil: 15
+    religion: catholic
+    culture: lesser_polish
+  1575.1.1:
+    death: yes
+pol_stefan_i_bathory:
+  1533.9.27:
+    birth: krakow #TODO: Location guessed, check if better data is available
+    first_name: stefan
+    dynasty: bathory_dynasty
+    adm: 75
+    dip: 30
+    mil: 90
+    religion: catholic
+    culture: lesser_polish
+  1587.8.1:
+    death: yes
+pol_zygmunt_iii_vasa:
+  1566.6.20:
+    birth: warsaw #TODO: Location guessed, check if better data is available
+    first_name: zygmunt
+    dynasty: vasa_dynasty
+    adm: 15
+    dip: 30
+    mil: 30
+    religion: catholic
+    culture: lesser_polish
+  1632.4.30:
+    death: yes
+pol_wladyslaw_iv_vasa:
+  1595.6.9:
+    birth: warsaw #TODO: Location guessed, check if better data is available
+    first_name: wladyslaw
+    dynasty: vasa_dynasty
+    adm: 60
+    dip: 75
+    mil: 60
+    religion: catholic
+    culture: lesser_polish
+  1648.5.20:
+    death: yes
+pol_jan_ii_kazimierz_vasa:
+  1609.3.22:
+    birth: warsaw #TODO: Location guessed, check if better data is available
+    first_name: jan_ii_kazimierz
+    dynasty: vasa_dynasty
+    adm: 0
+    dip: 45
+    mil: 15
+    religion: catholic
+    culture: lesser_polish
+  1672.12.16:
+    death: yes
+pol_michal_i_korybut_wisniowiecki:
+  1640.5.31:
+    birth: warsaw #TODO: Location guessed, check if better data is available
+    first_name: michal_i_korybut
+    dynasty: wisniowiecki_dynasty
+    adm: 0
+    dip: 0
+    mil: 0
+    religion: catholic
+    culture: lesser_polish
+  1674.5.1:
+    death: yes
+pol_jan_iii_sobieski:
+  1629.8.17:
+    birth: warsaw #TODO: Location guessed, check if better data is available
+    first_name: jan
+    dynasty: sobieski_dynasty
+    adm: 30
+    dip: 75
+    mil: 90
+    religion: catholic
+    culture: lesser_polish
+  1697.1.1:
+    death: yes
+pol_august_ii_mocny_von_wettin:
+  1670.5.12:
+    birth: warsaw #TODO: Location guessed, check if better data is available
+    first_name: august_ii_mocny
+    dynasty: von_wettin_dynasty
+    adm: 30
+    dip: 15
+    mil: 0
+    religion: catholic
+    culture: lesser_polish
+  1700.1.1:
+    death: yes
+pol_stanislaw_i_leszczynski:
+  1677.10.20:
+    birth: warsaw #TODO: Location guessed, check if better data is available
+    first_name: stanislaw
+    dynasty: leszczynski_dynasty
+    adm: 75
+    dip: 30
+    mil: 45
+    religion: catholic
+    culture: lesser_polish
+  1735.10.3:
+    death: yes
+pol_august_iii_sas_von_wettin:
+  1696.10.17:
+    birth: warsaw #TODO: Location guessed, check if better data is available
+    first_name: august_iii_sas
+    dynasty: von_wettin_dynasty
+    adm: 15
+    dip: 45
+    mil: 0
+    religion: catholic
+    culture: lesser_polish
+  1764.9.8:
+    death: yes
+pol_stanislaw_ii_poniatowski:
+  1732.1.17:
+    birth: warsaw #TODO: Location guessed, check if better data is available
+    first_name: stanislaw
+    dynasty: poniatowski_dynasty
+    adm: 30
+    dip: 60
+    mil: 15
+    religion: catholic
+    culture: lesser_polish
+  3000.1.1:
+    death: yes
+pol_jozef_pilsudski:
+  1888.1.1:
+    birth: warsaw #TODO: Date and location guessed, check if better data is available
+    first_name: jozef_pilsudski
+    adm: 30
+    dip: 30
+    mil: 45
+    religion: secularism
+    culture: lesser_polish
+  1922.12.11:
+    death: yes
+pol_gabriel_narutowicz:
+  1892.1.1:
+    birth: warsaw #TODO: Date and location guessed, check if better data is available
+    first_name: gabriel_narutowicz
+    adm: 45
+    dip: 75
+    mil: 45
+    religion: secularism
+    culture: lesser_polish
+  1922.12.16:
+    death: yes
+pol_maciej_rataj:
+  1892.1.1:
+    birth: warsaw #TODO: Date and location guessed, check if better data is available
+    first_name: maciej_rataj
+    adm: 30
+    dip: 30
+    mil: 15
+    religion: secularism
+    culture: lesser_polish
+  1922.12.22:
+    death: yes
+pol_stanislaw_wojciechowski:
+  1892.1.1:
+    birth: warsaw #TODO: Date and location guessed, check if better data is available
+    first_name: stanislaw_wojciechowski
+    adm: 45
+    dip: 60
+    mil: 45
+    religion: secularism
+    culture: lesser_polish
+  1926.5.14:
+    death: yes
+pol_maciej_rataj_1:
+  1896.1.1:
+    birth: warsaw #TODO: Date and location guessed, check if better data is available
+    first_name: maciej_rataj
+    adm: 30
+    dip: 30
+    mil: 15
+    religion: secularism
+    culture: lesser_polish
+  1926.6.4:
+    death: yes
+pol_ignacy_moscicki:
+  1896.1.1:
+    birth: warsaw #TODO: Date and location guessed, check if better data is available
+    first_name: ignacy_moscicki
+    adm: 60
+    dip: 15
+    mil: 60
+    religion: secularism
+    culture: lesser_polish
+  1945.5.8:
+    death: yes
+pol_boleslaw_bierut:
+  1915.1.1:
+    birth: warsaw #TODO: Date and location guessed, check if better data is available
+    first_name: boleslaw_bierut
+    adm: 60
+    dip: 30
+    mil: 60
+    religion: secularism
+    culture: lesser_polish
+  1952.11.20:
+    death: yes
+pol_aleksander_zawadzki:
+  1922.1.1:
+    birth: warsaw #TODO: Date and location guessed, check if better data is available
+    first_name: aleksander_zawadzki
+    adm: 45
+    dip: 45
+    mil: 60
+    religion: secularism
+    culture: lesser_polish
+  1964.8.12:
+    death: yes
+pol_edward_ochab:
+  1934.1.1:
+    birth: warsaw #TODO: Date and location guessed, check if better data is available
+    first_name: edward_ochab
+    adm: 30
+    dip: 75
+    mil: 45
+    religion: secularism
+    culture: lesser_polish
+  1968.4.10:
+    death: yes
+pol_marian_spychalski:
+  1938.1.1:
+    birth: warsaw #TODO: Date and location guessed, check if better data is available
+    first_name: marian_spychalski
+    adm: 15
+    dip: 60
+    mil: 60
+    religion: secularism
+    culture: lesser_polish
+  1970.12.23:
+    death: yes
+pol_jozef_cyrankiewicz:
+  1940.1.1:
+    birth: warsaw #TODO: Date and location guessed, check if better data is available
+    first_name: jozef_cyrankiewicz
+    adm: 45
+    dip: 30
+    mil: 60
+    religion: secularism
+    culture: lesser_polish
+  1972.3.28:
+    death: yes
+pol_henryk_jablonski:
+  1942.1.1:
+    birth: warsaw #TODO: Date and location guessed, check if better data is available
+    first_name: henryk_jablonski
+    adm: 60
+    dip: 60
+    mil: 30
+    religion: secularism
+    culture: lesser_polish
+  1976.5.4:
+    death: yes
+pol_wojciech_jaruzelski:
+  1946.1.1:
+    birth: warsaw #TODO: Date and location guessed, check if better data is available
+    first_name: wojciech_jaruzelski
+    adm: 60
+    dip: 60
+    mil: 30
+    religion: secularism
+    culture: lesser_polish
+  1990.12.22:
+    death: yes
+pol_lech_walesa:
+  1960.1.1:
+    birth: warsaw #TODO: Date and location guessed, check if better data is available
+    first_name: lech_walesa
+    adm: 45
+    dip: 60
+    mil: 45
+    religion: secularism
+    culture: lesser_polish
+  1995.12.23:
+    death: yes
+pol_aleksander_kwasniewski:
+  1965.1.1:
+    birth: warsaw #TODO: Date and location guessed, check if better data is available
+    first_name: aleksander_kwasniewski
+    adm: 60
+    dip: 60
+    mil: 45
+    religion: secularism
+    culture: lesser_polish
+  2005.12.23:
+    death: yes
+pol_lech_kaczynski:
+  1975.1.1:
+    birth: warsaw #TODO: Date and location guessed, check if better data is available
+    first_name: lech_kaczynski
+    adm: 45
+    dip: 60
+    mil: 45
+    religion: secularism
+    culture: lesser_polish
+  2010.4.10:
+    death: yes
+pol_bronislaw_komorowski:
+  1980.1.1:
+    birth: warsaw #TODO: Date and location guessed, check if better data is available
+    first_name: bronislaw_komorowski
+    adm: 45
+    dip: 60
+    mil: 45
+    religion: secularism
+    culture: lesser_polish
+  2015.8.6:
+    death: yes
+pol_grzegorz_schetyna:
+  1980.1.1:
+    birth: warsaw #TODO: Date and location guessed, check if better data is available
+    first_name: grzegorz_schetyna
+    adm: 30
+    dip: 30
+    mil: 45
+    religion: secularism
+    culture: lesser_polish
+  2010.8.6:
+    death: yes
+pol_andrzej_duda:
+  1985.1.1:
+    birth: warsaw #TODO: Date and location guessed, check if better data is available
+    first_name: andrzej_duda
+    adm: 30
+    dip: 30
+    mil: 45
+    religion: catholic
+    culture: lesser_polish
+  3000.1.1:
+    death: yes

@@ -1,0 +1,57 @@
+#imported from EU4 file: history/provinces/2273 - Ader.txt
+2.1.1:
+  pop:
+    ethnicity: tuareg
+    religion: bantu_religion
+    estate: peasant
+    size: 1000
+1250.1.1:
+  owner: TAKE
+  controller: TAKE
+  cores:
+    TAKE: yes
+  resource: livestock
+1404.1.1:
+  owner: AIR
+  controller: AIR
+  cores:
+    TAKE: no
+    AIR: yes
+1440.1.1:
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+1514.1.1:
+  owner: SON
+  controller: SON
+  cores:
+    SON: yes
+1591.3.15:
+  owner: AIR
+  controller: AIR
+  cores:
+    SON: no
+    AIR: yes
+1900.1.1:
+  owner: FRA
+  controller: FRA
+  cores:
+    FRA: yes
+1940.6.14:
+  owner: VFRA
+  controller: VFRA
+  cores:
+    VFRA: yes
+1942.11.16:
+  owner: FRA
+  controller: FRA
+  cores:
+    VFRA: no
+1960.8.3:
+  owner: NIGE
+  controller: NIGE
+  cores:
+    FRA: no
+    AIR: no
+    NIGE: yes

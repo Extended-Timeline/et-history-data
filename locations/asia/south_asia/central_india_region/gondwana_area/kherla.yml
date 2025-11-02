@@ -1,0 +1,99 @@
+#imported from EU4 file: history/provinces/2092 - Mahadeo.txt
+2.1.1:
+  owner: SATA
+  controller: SATA
+  cores:
+    SATA: yes
+  resource: tropical_wood
+  pop:
+    ethnicity: marathi_culture
+    religion: hindu
+    estate: peasant
+    size: 1000
+220.1.1:
+  owner: GOND
+  controller: GOND
+  cores:
+    SATA: no
+    GOND: yes
+260.1.1:
+  owner: VAKA
+  controller: VAKA
+  cores:
+    GOND: no
+    VAKA: yes
+500.1.1:
+  owner: RDY
+  controller: RDY
+  cores:
+    VAKA: no
+    RDY: yes
+616.1.1:
+  owner: CHAL
+  controller: CHAL
+  cores:
+    RDY: no
+    CHAL: yes
+753.1.1:
+  owner: RAST
+  controller: RAST
+  cores:
+    CHAL: no
+    RAST: yes
+973.1.1:
+  owner: KALC
+  controller: KALC
+  cores:
+    RAST: no
+    KALC: yes
+1212.1.1:
+  owner: GOND
+  controller: GOND
+  cores:
+    KALC: no
+    GOND: yes
+1418.1.1:
+  owner: MLW
+  controller: MLW
+  cores:
+    MLW: yes
+1467.1.1:
+  owner: BAH
+  controller: BAH
+  cores:
+    MLW: no
+    BAH: yes
+1468.1.1:
+  owner: MLW
+  controller: MLW
+  cores:
+    BAH: no
+    MLW: yes
+1531.1.1:
+  owner: GOND
+  controller: GOND
+1564.5.1:
+  controller: MUG
+1564.7.1:
+  controller: GOND
+1724.1.1:
+  owner: NAGP
+  controller: NAGP
+  cores:
+    NAGP: yes
+1818.6.3:
+  owner: GBR
+  controller: GBR
+  cores:
+    GBR: yes
+1920.1.1:
+  resource: aluminum
+1930.1.1:
+  cores:
+    BERR: no
+    INDI: yes
+1947.8.15:
+  owner: INDI
+  controller: INDI
+  cores:
+    GBR: no

@@ -1,0 +1,139 @@
+#imported from EU4 file: history/provinces/1750 - Alicante.txt
+2.1.1:
+  owner: ROM
+  controller: ROM
+  cores:
+    ROM: yes
+  resource: wine
+  pop:
+    ethnicity: iberi
+    religion: bimoism
+    estate: peasant
+    size: 1000
+340.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+395.1.17:
+  owner: ROMW
+  controller: ROMW
+  cores:
+    ROM: no
+    ROMW: yes
+448.1.1:
+  owner: SUEB
+  controller: SUEB
+  cores:
+    SUEB: yes
+453.1.1:
+  owner: ROMW
+  controller: ROMW
+  cores:
+    SUEB: no
+456.1.1:
+  owner: VISG
+  controller: VISG
+  cores:
+    VISG: yes
+458.10.1:
+  owner: ROMW
+  controller: ROMW
+461.8.2:
+  owner: VISG
+  controller: VISG
+  cores:
+    ROMW: no
+552.1.1:
+  owner: BYZ
+  controller: BYZ
+  cores:
+    BYZ: yes
+588.1.1:
+  owner: VISG
+  controller: VISG
+  cores:
+    BYZ: no
+711.1.1:
+  owner: UMAY
+  controller: UMAY
+  cores:
+    VISG: no
+    UMAY: yes
+750.8.6:
+  owner: CRDB
+  controller: CRDB
+  cores:
+    UMAY: no
+    CRDB: yes
+760.1.1:
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+800.1.1:
+  pop:
+    ethnicity: andalusi
+    estate: peasant
+    size: 1000
+1010.1.1:
+  owner: DENI
+  controller: DENI
+  cores:
+    CRDB: no
+    DENI: yes
+1076.1.1:
+  owner: ZARA
+  controller: ZARA
+  cores:
+    ZARA: yes
+1081.1.1:
+  owner: TORT
+  controller: TORT
+  cores:
+    ZARA: no
+    TORT: yes
+1092.1.1:
+  owner: MOR
+  controller: MOR
+  cores:
+    TORT: no
+    MOR: yes
+1224.1.1:
+  owner: DENI
+  controller: DENI
+1246.1.1:
+  owner: CAS
+  controller: CAS
+  cores:
+    MOR: no
+    DENI: no
+    CAS: yes
+1298.1.1:
+  owner: ARA
+  controller: ARA
+  cores:
+    CAS: no
+    ARA: yes
+1300.1.1:
+  pop:
+    ethnicity: catalan
+    religion: catholic
+    estate: peasant
+    size: 1000
+1516.1.23:
+  owner: SPA
+  controller: SPA
+  cores:
+    SPA: yes
+1705.12.16:
+  controller: HAB
+1707.5.8:
+  controller: SPA
+1713.7.13:
+  cores:
+    ARA: no
+1812.1.1:
+  controller: SPA
+1813.12.11:
+  controller: SPA

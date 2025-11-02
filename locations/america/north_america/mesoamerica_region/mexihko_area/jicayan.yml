@@ -1,0 +1,46 @@
+#imported from EU4 file: history/provinces/849 - Tlapanec.txt
+2.1.1:
+  owner: TLA
+  controller: TLA
+  cores:
+    TLA: yes
+  resource: gold
+  pop:
+    ethnicity: mephaa_culture
+    religion: nahuatl
+    estate: peasant
+    size: 1000
+1505.1.1:
+  owner: AZTE
+  controller: AZTE
+  cores:
+    AZTE: yes
+1521.8.13:
+  owner: TLA
+  controller: TLA
+1522.1.1:
+  owner: SPA
+  controller: SPA
+  cores:
+    SPA: yes
+  pop:
+    ethnicity: castilian
+    religion: catholic
+    estate: peasant
+    size: 1000
+1770.1.1:
+  pop:
+    ethnicity: mexican
+    estate: peasant
+    size: 1000
+1810.9.16:
+  owner: MEX
+  controller: SPA
+  cores:
+    MEX: yes
+1813.4.12:
+  controller: MEX
+1821.9.27:
+  controller: MEX
+  cores:
+    SPA: no

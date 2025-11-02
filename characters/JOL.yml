@@ -1,0 +1,731 @@
+jol_ndiadiane_ndiaye:
+  1320.1.1:
+    birth: tuubaa #TODO: Date and location guessed, check if better data is available
+    first_name: ndiadiane
+    dynasty: ndiaye_dynasty
+    adm: 60
+    dip: 60
+    mil: 75
+    religion: sunni
+    culture: wolof
+  1370.1.1:
+    death: yes
+jol_sare_ndiaye:
+  1340.1.1:
+    birth: tuubaa #TODO: Date and location guessed, check if better data is available
+    first_name: sare
+    dynasty: ndiaye_dynasty
+    adm: 30
+    dip: 30
+    mil: 15
+    religion: sunni
+    culture: wolof
+  1390.1.1:
+    death: yes
+jol_ndiklam_sare_ndiaye:
+  1350.1.1:
+    birth: tuubaa #TODO: Date and location guessed, check if better data is available
+    first_name: ndiklam_sare
+    dynasty: ndiaye_dynasty
+    father: jol_sare_ndiaye #TODO: check if this makes sense
+    adm: 45
+    dip: 30
+    mil: 30
+    religion: sunni
+    culture: wolof
+  1420.1.1:
+    death: yes
+jol_ndiklam_sare_ndiaye_1:
+  1360.1.1:
+    birth: tuubaa #TODO: Date and location guessed, check if better data is available
+    first_name: ndiklam_sare
+    dynasty: ndiaye_dynasty
+    adm: 45
+    dip: 30
+    mil: 30
+    religion: sunni
+    culture: wolof
+  1420.1.1:
+    death: yes
+jol_tyukuli_ndiklam_ndiaye:
+  1360.1.1:
+    birth: tuubaa #TODO: Date and location guessed, check if better data is available
+    first_name: tyukuli_ndiklam
+    dynasty: ndiaye_dynasty
+    father: jol_ndiklam_sare_ndiaye_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 30
+    mil: 30
+    religion: sunni
+    culture: wolof
+  1440.1.1:
+    death: yes
+jol_tyukuli_ndiklam_ndiaye_1:
+  1390.1.1:
+    birth: tuubaa #TODO: Date and location guessed, check if better data is available
+    first_name: tyukuli_ndiklam
+    dynasty: ndiaye_dynasty
+    adm: 30
+    dip: 30
+    mil: 30
+    religion: sunni
+    culture: wolof
+  1440.1.1:
+    death: yes
+jol_leeyti_tyukuli_ndiaye:
+  1390.1.1:
+    birth: tuubaa #TODO: Date and location guessed, check if better data is available
+    first_name: leeyti_tyukuli
+    dynasty: ndiaye_dynasty
+    father: jol_tyukuli_ndiklam_ndiaye_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 15
+    mil: 15
+    religion: sunni
+    culture: wolof
+  1450.1.1:
+    death: yes
+jol_leeyti_tyukuli_ndiaye_1:
+  1410.1.1:
+    birth: tuubaa #TODO: Date and location guessed, check if better data is available
+    first_name: leeyti_tyukuli
+    dynasty: ndiaye_dynasty
+    adm: 30
+    dip: 15
+    mil: 15
+    religion: sunni
+    culture: wolof
+  1450.1.1:
+    death: yes
+jol_ndyelen_mbey_leeyti_ndiaye:
+  1420.1.1:
+    birth: tuubaa #TODO: Date and location guessed, check if better data is available
+    first_name: ndyelen_mbey_leeyti
+    dynasty: ndiaye_dynasty
+    adm: 15
+    dip: 30
+    mil: 15
+    religion: sunni
+    culture: wolof
+  1465.1.1:
+    death: yes
+jol_birayma_ndyeme_eter_ndiaye:
+  1425.1.1:
+    birth: tuubaa #TODO: Date and location guessed, check if better data is available
+    first_name: birayma_ndyeme_eter
+    dynasty: ndiaye_dynasty
+    father: jol_ndyelen_mbey_leeyti_ndiaye #TODO: check if this makes sense
+    adm: 45
+    dip: 30
+    mil: 45
+    religion: sunni
+    culture: wolof
+  1481.1.1:
+    death: yes
+jol_birayma_ndyeme_eter_ndiaye_1:
+  1435.1.1:
+    birth: tuubaa #TODO: Date and location guessed, check if better data is available
+    first_name: birayma_ndyeme_eter
+    dynasty: ndiaye_dynasty
+    adm: 45
+    dip: 30
+    mil: 45
+    religion: sunni
+    culture: wolof
+  1481.1.1:
+    death: yes
+jol_tase_daagulen_ndiaye:
+  1440.1.1:
+    birth: tuubaa #TODO: Date and location guessed, check if better data is available
+    first_name: tase_daagulen
+    dynasty: ndiaye_dynasty
+    father: jol_birayma_ndyeme_eter_ndiaye_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 0
+    mil: 30
+    religion: sunni
+    culture: wolof
+  1488.1.1:
+    death: yes
+jol_tase_daagulen_ndiaye_1:
+  1451.1.1:
+    birth: tuubaa #TODO: Date and location guessed, check if better data is available
+    first_name: tase_daagulen
+    dynasty: ndiaye_dynasty
+    adm: 30
+    dip: 0
+    mil: 30
+    religion: sunni
+    culture: wolof
+  1488.1.1:
+    death: yes
+jol_birayma_kuran_kan_ndiaye:
+  1450.1.1:
+    birth: tuubaa #TODO: Date and location guessed, check if better data is available
+    first_name: birayma_kuran_kan
+    dynasty: ndiaye_dynasty
+    father: jol_tase_daagulen_ndiaye_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 30
+    mil: 45
+    religion: sunni
+    culture: wolof
+  1492.1.1:
+    death: yes
+jol_birayma_kuran_kan_ndiaye_1:
+  1458.1.1:
+    birth: tuubaa #TODO: Date and location guessed, check if better data is available
+    first_name: birayma_kuran_kan
+    dynasty: ndiaye_dynasty
+    adm: 45
+    dip: 30
+    mil: 45
+    religion: sunni
+    culture: wolof
+  1492.1.1:
+    death: yes
+jol_bukaar_biye_sungule_ndiaye:
+  1465.1.1:
+    birth: tuubaa #TODO: Date and location guessed, check if better data is available
+    first_name: bukaar_biye_sungule
+    dynasty: ndiaye_dynasty
+    father: jol_birayma_kuran_kan_ndiaye_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 45
+    mil: 30
+    religion: sunni
+    culture: wolof
+  1527.1.1:
+    death: yes
+jol_bukaar_biye_sungule_ndiaye_1:
+  1462.1.1:
+    birth: tuubaa #TODO: Date and location guessed, check if better data is available
+    first_name: bukaar_biye_sungule
+    dynasty: ndiaye_dynasty
+    adm: 45
+    dip: 45
+    mil: 30
+    religion: sunni
+    culture: wolof
+  1527.1.1:
+    death: yes
+jol_birayma_dyeme_kumba_ndiaye:
+  1485.1.1:
+    birth: tuubaa #TODO: Date and location guessed, check if better data is available
+    first_name: birayma_dyeme_kumba
+    dynasty: ndiaye_dynasty
+    father: jol_bukaar_biye_sungule_ndiaye_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 30
+    mil: 45
+    religion: sunni
+    culture: wolof
+  1543.1.1:
+    death: yes
+jol_birayma_dyeme_kumba_ndiaye_1:
+  1497.1.1:
+    birth: tuubaa #TODO: Date and location guessed, check if better data is available
+    first_name: birayma_dyeme_kumba
+    dynasty: ndiaye_dynasty
+    adm: 15
+    dip: 30
+    mil: 45
+    religion: sunni
+    culture: wolof
+  1543.1.1:
+    death: yes
+jol_leele_fuli_fak_ndiaye:
+  1490.1.1:
+    birth: tuubaa #TODO: Date and location guessed, check if better data is available
+    first_name: leele_fuli_fak
+    dynasty: ndiaye_dynasty
+    father: jol_birayma_dyeme_kumba_ndiaye_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 15
+    mil: 15
+    religion: sunni
+    culture: wolof
+  1549.1.1:
+    death: yes
+jol_leele_fuli_fak_ndiaye_1:
+  1513.1.1:
+    birth: tuubaa #TODO: Date and location guessed, check if better data is available
+    first_name: leele_fuli_fak
+    dynasty: ndiaye_dynasty
+    adm: 15
+    dip: 15
+    mil: 15
+    religion: sunni
+    culture: wolof
+  1549.1.1:
+    death: yes
+jol_al_buri_penda_ndiaye:
+  1510.1.1:
+    birth: tuubaa #TODO: Date and location guessed, check if better data is available
+    first_name: al_buri_penda
+    dynasty: ndiaye_dynasty
+    father: jol_leele_fuli_fak_ndiaye_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 30
+    mil: 15
+    religion: sunni
+    culture: wolof
+  1566.1.1:
+    death: yes
+jol_al_buri_penda_ndiaye_1:
+  1519.1.1:
+    birth: tuubaa #TODO: Date and location guessed, check if better data is available
+    first_name: al_buri_penda
+    dynasty: ndiaye_dynasty
+    adm: 15
+    dip: 30
+    mil: 15
+    religion: sunni
+    culture: wolof
+  1566.1.1:
+    death: yes
+jol_lat_samba_ndiaye:
+  1520.1.1:
+    birth: tuubaa #TODO: Date and location guessed, check if better data is available
+    first_name: lat_samba
+    dynasty: ndiaye_dynasty
+    father: jol_al_buri_penda_ndiaye_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 30
+    mil: 30
+    religion: sunni
+    culture: wolof
+  1597.1.1:
+    death: yes
+jol_lat_samba_ndiaye_1:
+  1536.1.1:
+    birth: tuubaa #TODO: Date and location guessed, check if better data is available
+    first_name: lat_samba
+    dynasty: ndiaye_dynasty
+    adm: 15
+    dip: 30
+    mil: 30
+    religion: sunni
+    culture: wolof
+  1597.1.1:
+    death: yes
+jol_gireun_buri_dyelen_ndiaye:
+  1566.1.1:
+    birth: tuubaa #TODO: Date and location guessed, check if better data is available
+    first_name: gireun_buri_dyelen
+    dynasty: ndiaye_dynasty
+    father: jol_lat_samba_ndiaye_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 30
+    mil: 30
+    religion: sunni
+    culture: wolof
+  1605.1.1:
+    death: yes
+jol_gireun_buri_dyelen_ndiaye_1:
+  1567.1.1:
+    birth: tuubaa #TODO: Date and location guessed, check if better data is available
+    first_name: gireun_buri_dyelen
+    dynasty: ndiaye_dynasty
+    adm: 30
+    dip: 30
+    mil: 30
+    religion: sunni
+    culture: wolof
+  1605.1.1:
+    death: yes
+jol_birayma_penda_ndiaye:
+  1580.1.1:
+    birth: tuubaa #TODO: Date and location guessed, check if better data is available
+    first_name: birayma_penda
+    dynasty: ndiaye_dynasty
+    father: jol_birayamb_aram_ndiaye #TODO: check if this makes sense
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: sunni
+    culture: wolof
+  1649.1.1:
+    death: yes
+jol_birayma_penda_ndiaye_1:
+  1575.1.1:
+    birth: tuubaa #TODO: Date and location guessed, check if better data is available
+    first_name: birayma_penda
+    dynasty: ndiaye_dynasty
+    father: jol_birayamb_aram_ndiaye #TODO: check if this makes sense
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: sunni
+    culture: wolof
+  1649.1.1:
+    death: yes
+jol_birayma_mba_ndiaye:
+  1620.1.1:
+    birth: tuubaa #TODO: Date and location guessed, check if better data is available
+    first_name: birayma_mba
+    dynasty: ndiaye_dynasty
+    father: jol_birayma_penda_ndiaye_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 30
+    mil: 15
+    religion: sunni
+    culture: wolof
+  1670.1.1:
+    death: yes
+jol_birayma_mba_ndiaye_1:
+  1619.1.1:
+    birth: tuubaa #TODO: Date and location guessed, check if better data is available
+    first_name: birayma_mba
+    dynasty: ndiaye_dynasty
+    adm: 30
+    dip: 30
+    mil: 15
+    religion: sunni
+    culture: wolof
+  1670.1.1:
+    death: yes
+jol_bakar_penda_ndiaye:
+  1640.1.1:
+    birth: tuubaa #TODO: Date and location guessed, check if better data is available
+    first_name: bakar_penda
+    dynasty: ndiaye_dynasty
+    adm: 45
+    dip: 30
+    mil: 15
+    religion: sunni
+    culture: wolof
+  1711.1.1:
+    death: yes
+jol_bakan_tam_gan_ndiaye:
+  1665.1.1:
+    birth: tuubaa #TODO: Date and location guessed, check if better data is available
+    first_name: bakan_tam_gan
+    dynasty: ndiaye_dynasty
+    father: jol_bakar_penda_ndiaye #TODO: check if this makes sense
+    adm: 30
+    dip: 30
+    mil: 30
+    religion: sunni
+    culture: wolof
+  1721.1.1:
+    death: yes
+jol_bakan_tam_gan_ndiaye_1:
+  1681.1.1:
+    birth: tuubaa #TODO: Date and location guessed, check if better data is available
+    first_name: bakan_tam_gan
+    dynasty: ndiaye_dynasty
+    adm: 30
+    dip: 30
+    mil: 30
+    religion: sunni
+    culture: wolof
+  1721.1.1:
+    death: yes
+jol_al_buri_dyakher_ndiaye:
+  1680.1.1:
+    birth: tuubaa #TODO: Date and location guessed, check if better data is available
+    first_name: al_buri_dyakher
+    dynasty: ndiaye_dynasty
+    father: jol_bakan_tam_gan_ndiaye_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 15
+    mil: 30
+    religion: sunni
+    culture: wolof
+  1740.1.1:
+    death: yes
+jol_al_buri_dyakher_ndiaye_1:
+  1691.1.1:
+    birth: tuubaa #TODO: Date and location guessed, check if better data is available
+    first_name: al_buri_dyakher
+    dynasty: ndiaye_dynasty
+    adm: 15
+    dip: 15
+    mil: 30
+    religion: sunni
+    culture: wolof
+  1740.1.1:
+    death: yes
+jol_birayamb_ndiaye:
+  1695.1.1:
+    birth: tuubaa #TODO: Date and location guessed, check if better data is available
+    first_name: birayamb
+    dynasty: ndiaye_dynasty
+    father: jol_al_buri_dyakher_ndiaye_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 15
+    mil: 15
+    religion: sunni
+    culture: wolof
+  1748.1.1:
+    death: yes
+jol_birayamb_ndiaye_1:
+  1710.1.1:
+    birth: tuubaa #TODO: Date and location guessed, check if better data is available
+    first_name: birayamb
+    dynasty: ndiaye_dynasty
+    adm: 15
+    dip: 15
+    mil: 15
+    religion: sunni
+    culture: wolof
+  1748.1.1:
+    death: yes
+jol_birawa_keme_ndiaye:
+  1700.1.1:
+    birth: tuubaa #TODO: Date and location guessed, check if better data is available
+    first_name: birawa_keme
+    dynasty: ndiaye_dynasty
+    father: jol_birayamb_ndiaye_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 0
+    mil: 15
+    religion: sunni
+    culture: wolof
+  1750.1.1:
+    death: yes
+jol_birawa_keme_ndiaye_1:
+  1718.1.1:
+    birth: tuubaa #TODO: Date and location guessed, check if better data is available
+    first_name: birawa_keme
+    dynasty: ndiaye_dynasty
+    adm: 15
+    dip: 0
+    mil: 15
+    religion: sunni
+    culture: wolof
+  1750.1.1:
+    death: yes
+jol_lat_kodu_ndiaye:
+  1720.1.1:
+    birth: tuubaa #TODO: Date and location guessed, check if better data is available
+    first_name: lat_kodu
+    dynasty: ndiaye_dynasty
+    adm: 45
+    dip: 45
+    mil: 30
+    religion: sunni
+    culture: wolof
+  1755.1.1:
+    death: yes
+jol_bakaa_tam_buri_nyabu_ndiaye:
+  1730.1.1:
+    birth: tuubaa #TODO: Date and location guessed, check if better data is available
+    first_name: bakaa_tam_buri_nyabu
+    dynasty: ndiaye_dynasty
+    father: jol_lat_kodu_ndiaye #TODO: check if this makes sense
+    adm: 15
+    dip: 15
+    mil: 15
+    religion: sunni
+    culture: wolof
+  1763.1.1:
+    death: yes
+jol_bakaa_tam_buri_nyabu_ndiaye_1:
+  1725.1.1:
+    birth: tuubaa #TODO: Date and location guessed, check if better data is available
+    first_name: bakaa_tam_buri_nyabu
+    dynasty: ndiaye_dynasty
+    adm: 15
+    dip: 15
+    mil: 15
+    religion: sunni
+    culture: wolof
+  1763.1.1:
+    death: yes
+jol_mba_kompass_ndiaye:
+  1740.1.1:
+    birth: tuubaa #TODO: Date and location guessed, check if better data is available
+    first_name: mba_kompass
+    dynasty: ndiaye_dynasty
+    father: jol_bakaa_tam_buri_nyabu_ndiaye_1 #TODO: check if this makes sense
+    adm: 60
+    dip: 45
+    mil: 60
+    religion: sunni
+    culture: wolof
+  1800.1.1:
+    death: yes
+jol_mba_kompass_ndiaye_1:
+  1733.1.1:
+    birth: tuubaa #TODO: Date and location guessed, check if better data is available
+    first_name: mba_kompass
+    dynasty: ndiaye_dynasty
+    adm: 60
+    dip: 45
+    mil: 60
+    religion: sunni
+    culture: wolof
+  1800.1.1:
+    death: yes
+jol_mba_buri_nyabu_ndiaye:
+  1780.1.1:
+    birth: tuubaa #TODO: Date and location guessed, check if better data is available
+    first_name: mba_buri_nyabu
+    dynasty: ndiaye_dynasty
+    father: jol_mba_kompass_ndiaye_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: sunni
+    culture: wolof
+  1818.1.1:
+    death: yes
+jol_mba_buri_nyabu_ndiaye_1:
+  1770.1.1:
+    birth: tuubaa #TODO: Date and location guessed, check if better data is available
+    first_name: mba_buri_nyabu
+    dynasty: ndiaye_dynasty
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: sunni
+    culture: wolof
+  1818.1.1:
+    death: yes
+jol_birayamb_kumba_gey_ndiaye:
+  1790.1.1:
+    birth: tuubaa #TODO: Date and location guessed, check if better data is available
+    first_name: birayamb_kumba_gey
+    dynasty: ndiaye_dynasty
+    father: jol_mba_buri_nyabu_ndiaye_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 15
+    mil: 30
+    religion: sunni
+    culture: wolof
+  1838.1.1:
+    death: yes
+jol_birayamb_kumba_gey_ndiaye_1:
+  1788.1.1:
+    birth: tuubaa #TODO: Date and location guessed, check if better data is available
+    first_name: birayamb_kumba_gey
+    dynasty: ndiaye_dynasty
+    adm: 30
+    dip: 15
+    mil: 30
+    religion: sunni
+    culture: wolof
+  1838.1.1:
+    death: yes
+jol_al_buri_tam_ndiaye:
+  1808.1.1:
+    birth: tuubaa #TODO: Date and location guessed, check if better data is available
+    first_name: al_buri_tam
+    dynasty: ndiaye_dynasty
+    adm: 45
+    dip: 15
+    mil: 45
+    religion: sunni
+    culture: wolof
+  1845.1.1:
+    death: yes
+jol_baka_kodu_ndiaye:
+  1815.1.1:
+    birth: tuubaa #TODO: Date and location guessed, check if better data is available
+    first_name: baka_kodu
+    dynasty: ndiaye_dynasty
+    adm: 45
+    dip: 0
+    mil: 0
+    religion: sunni
+    culture: wolof
+  1847.1.1:
+    death: yes
+jol_birayamb_aram_ndiaye:
+  1817.1.1:
+    birth: tuubaa #TODO: Date and location guessed, check if better data is available
+    first_name: birayamb_aram
+    dynasty: ndiaye_dynasty
+    adm: 0
+    dip: 0
+    mil: 60
+    religion: sunni
+    culture: wolof
+  1849.1.1:
+    death: yes
+jol_birayma_penda_ndiaye_2:
+  1819.1.1:
+    birth: tuubaa #TODO: Date and location guessed, check if better data is available
+    first_name: birayma_penda
+    dynasty: ndiaye_dynasty
+    adm: 45
+    dip: 15
+    mil: 15
+    religion: sunni
+    culture: wolof
+  1850.1.1:
+    death: yes
+jol_birayamb_ma_dyigen_ndiaye:
+  1820.1.1:
+    birth: tuubaa #TODO: Date and location guessed, check if better data is available
+    first_name: birayamb_ma_dyigen
+    dynasty: ndiaye_dynasty
+    adm: 30
+    dip: 60
+    mil: 0
+    religion: sunni
+    culture: wolof
+  1855.1.1:
+    death: yes
+jol_al_buri_peya_ndiaye:
+  1825.1.1:
+    birth: tuubaa #TODO: Date and location guessed, check if better data is available
+    first_name: al_buri_peya
+    dynasty: ndiaye_dynasty
+    adm: 75
+    dip: 15
+    mil: 60
+    religion: sunni
+    culture: wolof
+  1856.1.1:
+    death: yes
+jol_bakan_tam_yaago_ndiaye:
+  1826.1.1:
+    birth: tuubaa #TODO: Date and location guessed, check if better data is available
+    first_name: bakan_tam_yaago
+    dynasty: ndiaye_dynasty
+    adm: 15
+    dip: 45
+    mil: 60
+    religion: sunni
+    culture: wolof
+  1858.1.1:
+    death: yes
+jol_taanor_ndiaye:
+  1828.1.1:
+    birth: tuubaa #TODO: Date and location guessed, check if better data is available
+    first_name: taanor
+    dynasty: ndiaye_dynasty
+    adm: 0
+    dip: 60
+    mil: 60
+    religion: sunni
+    culture: wolof
+  1863.1.1:
+    death: yes
+jol_bakan_tam_khaari_ndiaye:
+  1833.1.1:
+    birth: tuubaa #TODO: Date and location guessed, check if better data is available
+    first_name: bakan_tam_khaari
+    dynasty: ndiaye_dynasty
+    adm: 30
+    dip: 15
+    mil: 0
+    religion: sunni
+    culture: wolof
+  1871.1.1:
+    death: yes
+jol_amadu_seeku_ndiaye:
+  1840.1.1:
+    birth: tuubaa #TODO: Date and location guessed, check if better data is available
+    first_name: amadu_seeku
+    dynasty: ndiaye_dynasty
+    adm: 75
+    dip: 75
+    mil: 0
+    religion: sunni
+    culture: wolof
+  1875.1.1:
+    death: yes

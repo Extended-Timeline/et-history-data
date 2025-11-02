@@ -1,0 +1,150 @@
+#imported from EU4 file: history/provinces/1772 - Pozsony.txt
+2.1.1:
+  owner: GOTI
+  controller: GOTI
+  cores:
+    GOTI: yes
+  resource: grain
+  pop:
+    ethnicity: pannonian
+    religion: druidism
+    estate: peasant
+    size: 1000
+395.1.1:
+  owner: MARC
+  controller: MARC
+  cores:
+    GOTI: no
+    MARC: yes
+  pop:
+    ethnicity: southern_bavarian
+    religion: germanic
+    estate: peasant
+    size: 1000
+500.1.1:
+  owner: LOMB
+  controller: LOMB
+  cores:
+    MARC: no
+    LOMB: yes
+  pop:
+    ethnicity: langobardi
+    estate: peasant
+    size: 1000
+568.1.1:
+  owner: AVR
+  controller: AVR
+  cores:
+    LOMB: no
+    AVR: yes
+580.1.1:
+  pop:
+    ethnicity: slovak
+    religion: slavic
+    estate: peasant
+    size: 1000
+623.1.1:
+  owner: SAMO
+  controller: SAMO
+  cores:
+    HERU: no
+    SAMO: yes
+659.1.1:
+  owner: NITR
+  controller: NITR
+  cores:
+    SAMO: no
+    NITR: yes
+833.1.1:
+  owner: MVA
+  controller: MVA
+  cores:
+    MVA: yes
+850.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+867.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+902.1.1:
+  owner: NITR
+  controller: NITR
+  cores:
+    MVA: no
+    NITR: yes
+925.1.1:
+  owner: HUN
+  controller: HUN
+  cores:
+    HUN: yes
+1001.1.1:
+  owner: POL
+  controller: POL
+  cores:
+    POL: yes
+1018.1.1:
+  owner: HUN
+  controller: HUN
+  cores:
+    POL: no
+1490.1.1:
+  controller: HAB
+1491.11.7:
+  controller: HUN
+1526.8.30:
+  owner: HAB
+  controller: HAB
+  cores:
+    HAB: yes
+    TRA: yes
+1545.1.1:
+  pop:
+    religion: lutheran
+    estate: peasant
+    size: 1000
+1570.1.1:
+  cores:
+    TRA: no
+1606.1.1:
+  controller: HAB
+  pop:
+    religion: calvinist
+    estate: peasant
+    size: 1000
+1626.1.1:
+  controller: HAB
+1660.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+1711.1.1:
+  controller: HAB
+1918.10.28:
+  owner: CZES
+  controller: CZES
+  cores:
+    HAB: no
+    HUN: no
+    CZES: yes
+1930.1.1:
+  resource: cars
+1939.3.14:
+  owner: SLOK
+  controller: SLOK
+  cores:
+    SLOK: yes
+1945.4.4:
+  controller: SOVI
+1945.5.8:
+  owner: CZES
+  controller: CZES
+1992.12.31:
+  owner: SLOK
+  controller: SLOK
+  cores:
+    CZES: no

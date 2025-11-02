@@ -1,0 +1,39 @@
+#imported from EU4 file: history/provinces/3259 - Rio de Oro.txt
+2.1.1:
+  pop:
+    ethnicity: masmuda
+    religion: bantu_religion
+    estate: peasant
+    size: 1000
+850.1.1:
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+1884.1.1:
+  owner: SPA
+  controller: SPA
+  cores:
+    SPA: yes
+  resource: grain
+1973.1.1:
+  cores:
+    WSAH: yes
+1975.11.14:
+  owner: MAUR
+  controller: MAUR
+  cores:
+    SPA: no
+    MAUR: yes
+1979.8.5:
+  owner: MOR
+  controller: MOR
+  cores:
+    MAUR: no
+    MOR: yes
+1993.1.1:
+  cores:
+    WSAH: yes
+2013.1.1:
+  cores:
+    WSAH: yes

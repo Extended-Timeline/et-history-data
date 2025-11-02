@@ -1,0 +1,182 @@
+#imported from EU4 file: history/provinces/2214 - Gurgan.txt
+2.1.1:
+  owner: PART
+  controller: PART
+  cores:
+    PART: yes
+    HYRC: yes
+  resource: tea
+  pop:
+    ethnicity: parthian
+    religion: zoroastrian
+    estate: peasant
+    size: 1000
+60.1.1:
+  controller: PART
+135.1.1:
+  owner: HYRC
+  controller: HYRC
+  cores:
+    PART: no
+224.4.24:
+  owner: ERA
+  controller: ERA
+  cores:
+    ERA: yes
+600.1.1:
+  pop:
+    ethnicity: mazanderani_culture
+    estate: peasant
+    size: 1000
+642.1.1:
+  owner: MZN
+  controller: MZN
+  cores:
+    ERA: no
+    MZN: yes
+864.1.1:
+  pop:
+    religion: shia
+    estate: peasant
+    size: 1000
+900.1.1:
+  owner: BUKH
+  controller: BUKH
+  cores:
+    BUKH: yes
+914.1.1:
+  owner: MZN
+  controller: MZN
+928.1.1:
+  owner: BUKH
+  controller: BUKH
+929.1.1:
+  pop:
+    religion: zoroastrian
+    estate: peasant
+    size: 1000
+930.1.1:
+  owner: MZN
+  controller: MZN
+  cores:
+    BUKH: no
+    MZN: yes
+935.1.1:
+  pop:
+    religion: shia
+    estate: peasant
+    size: 1000
+977.1.1:
+  owner: QOM
+  controller: QOM
+  cores:
+    QOM: yes
+997.1.1:
+  owner: MZN
+  controller: MZN
+  cores:
+    QOM: no
+    MZN: yes
+1035.1.1:
+  owner: SELJ
+  controller: SELJ
+  cores:
+    SELJ: yes
+1153.1.1:
+  owner: KHWA
+  controller: KHWA
+  cores:
+    SELJ: no
+    KHWA: yes
+1231.1.1:
+  owner: MGE
+  controller: MGE
+  cores:
+    KHWA: no
+    MGE: yes
+    IRA: yes
+1260.1.1:
+  owner: ILK
+  controller: ILK
+  cores:
+    MGE: no
+    ILK: yes
+1335.1.1:
+  owner: ASR
+  controller: ASR
+  cores:
+    ILK: no
+    ASR: yes
+1366.1.1:
+  owner: SBZ
+  controller: SBZ
+  cores:
+    SBZ: yes
+1374.1.1:
+  owner: ASR
+  controller: ASR
+  cores:
+    SBZ: no
+1380.1.1:
+  cores:
+    TIM: yes
+1384.1.1:
+  owner: TIM
+  controller: TIM
+  cores:
+    ASR: no
+    KHOR: yes
+1444.1.1:
+  owner: KHOR
+  controller: KHOR
+  cores:
+    KHOR: yes
+1457.12.13:
+  controller: QAKO
+1458.12.22:
+  owner: TIM
+  controller: TIM
+  cores:
+    TIM: yes
+1469.8.27:
+  owner: KHOR
+  controller: KHOR
+  cores:
+    TIM: no
+1505.1.1:
+  controller: BUKH
+1507.7.1:
+  owner: BUKH
+  cores:
+    BUKH: yes
+1510.1.1:
+  owner: IRA
+  controller: IRA
+  cores:
+    BUKH: no
+1723.9.12:
+  owner: RUS
+  controller: RUS
+  cores:
+    RUS: yes
+1732.1.21:
+  owner: IRA
+  controller: IRA
+  cores:
+    RUS: no
+1750.1.2:
+  owner: KHOR
+  controller: KHOR
+  cores:
+    IRA: no
+1796.1.1:
+  owner: IRA
+  controller: IRA
+  cores:
+    IRA: yes
+1935.1.1:
+  owner: IRAN
+  controller: IRAN
+  cores:
+    IRA: no
+    IRAN: yes

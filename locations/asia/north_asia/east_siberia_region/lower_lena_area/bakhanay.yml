@@ -1,0 +1,32 @@
+#imported from EU4 file: history/provinces/1783 - Eastern Siberia.txt
+2.1.1:
+  pop:
+    ethnicity: sakha_culture
+    religion: 
+    estate: peasant
+    size: 1000
+1632.1.1:
+  owner: RUS
+  controller: RUS
+  resource: fur
+  pop:
+    religion: orthodox
+    estate: peasant
+    size: 1000
+1659.1.1:
+  cores:
+    RUS: yes
+1880.1.1:
+  resource: gems
+1922.12.30:
+  owner: SOVI
+  controller: SOVI
+  cores:
+    RUS: no
+    SOVI: yes
+1991.12.25:
+  owner: RUS
+  controller: RUS
+  cores:
+    SOVI: no
+    RUS: yes

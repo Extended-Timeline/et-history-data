@@ -1,0 +1,180 @@
+#imported from EU4 file: history/provinces/455 - Kyrzyl-Kum.txt
+2.1.1:
+  owner: KAGJ
+  controller: KAGJ
+  cores:
+    KAGJ: yes
+  resource: livestock
+  pop:
+    ethnicity: khazak
+    religion: 
+    estate: peasant
+    size: 1000
+320.1.1:
+  owner: KIDA
+  controller: KIDA
+  cores:
+    KAGJ: no
+    KIDA: yes
+380.1.1:
+  owner: HEPH
+  controller: HEPH
+  cores:
+    KIDA: no
+    HEPH: yes
+567.1.1:
+  owner: GOKT
+  controller: GOKT
+  cores:
+    HEPH: no
+    GOKT: yes
+593.1.1:
+  owner: WGOK
+  controller: WGOK
+  cores:
+    GOKT: no
+    WGOK: yes
+659.1.1:
+  owner: SAMA
+  controller: SAMA
+  cores:
+    WGOK: no
+    SAMA: yes
+740.1.1:
+  owner: UMAY
+  controller: UMAY
+  cores:
+    UMAY: yes
+750.1.1:
+  pop:
+    religion: manichaeism
+    estate: peasant
+    size: 1000
+750.8.6:
+  owner: ABBA
+  controller: ABBA
+  cores:
+    UMAY: no
+    ABBA: yes
+800.1.1:
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+819.1.1:
+  owner: CHAC
+  controller: CHAC
+  cores:
+    ABBA: no
+    CHAC: yes
+855.1.1:
+  owner: KOKA
+  controller: KOKA
+  cores:
+    KOKA: yes
+867.1.1:
+  owner: BUKH
+  controller: BUKH
+  cores:
+    KOKA: no
+    BUKH: yes
+991.1.1:
+  owner: TRAN
+  controller: TRAN
+  cores:
+    BUKH: no
+    TRAN: yes
+1207.1.1:
+  owner: KHWA
+  controller: KHWA
+  cores:
+    KHWA: yes
+1220.1.1:
+  owner: MGE
+  controller: MGE
+  cores:
+    KHWA: no
+    MGE: yes
+1260.1.1:
+  owner: BLHO
+  controller: BLHO
+  cores:
+    MGE: no
+    BLHO: yes
+1378.1.1:
+  owner: GLH
+  controller: GLH
+  cores:
+    GLH: yes
+1394.1.1:
+  owner: KAZA
+  controller: KAZA
+  cores:
+    GLH: no
+    KAZA: yes
+1428.1.1:
+  owner: SHAY
+  controller: SHAY
+  cores:
+    SHAY: yes
+1502.1.1:
+  owner: BUKH
+  controller: BUKH
+  cores:
+    SHAY: no
+    BUKH: yes
+1520.1.1:
+  owner: KAZA
+  controller: KAZA
+  cores:
+    BUKH: no
+1723.1.1:
+  owner: ZUNG
+  controller: ZUNG
+1728.1.1:
+  owner: KAZA
+  controller: KAZA
+1740.1.1:
+  owner: ZUNG
+  controller: ZUNG
+1755.1.1:
+  owner: KAZA
+  controller: KAZA
+1864.1.1:
+  owner: RUS
+  controller: RUS
+  cores:
+    RUS: yes
+1870.1.1:
+  pop:
+    ethnicity: uzbek_culture
+    estate: peasant
+    size: 1000
+1917.11.27:
+  owner: TUKS
+  controller: TUKS
+  cores:
+    TUKS: yes
+1918.2.22:
+  owner: RUS
+  controller: RUS
+  cores:
+    TUKS: no
+1922.12.30:
+  owner: SOVI
+  controller: SOVI
+  cores:
+    RUS: no
+    SOVI: yes
+1924.10.27:
+  cores:
+    KAZA: no
+    UZBE: yes
+1968.1.1:
+  resource: uranium
+1991.12.8:
+  owner: UZBE
+  controller: UZBE
+  cores:
+    SOVI: no
+    RUS: no

@@ -1,0 +1,64 @@
+#imported from EU4 file: history/provinces/2647 - Cuetlaxtlan.txt
+2.1.1:
+  owner: TOT
+  controller: TOT
+  cores:
+    TOT: yes
+  resource: sugar
+  pop:
+    ethnicity: totonac_culture
+    religion: nahuatl
+    estate: peasant
+    size: 1000
+850.1.1:
+  owner: TOLT
+  controller: TOLT
+  cores:
+    TOLT: yes
+1122.1.1:
+  owner: TOT
+  controller: TOT
+  cores:
+    TOLT: no
+    TOT: yes
+1450.1.1:
+  owner: AZTE
+  controller: AZTE
+  cores:
+    AZTE: yes
+1500.1.1:
+  cores:
+    AZTE: yes
+1519.4.22:
+  owner: SPA
+  controller: SPA
+  cores:
+    SPA: yes
+  pop:
+    ethnicity: castilian
+    religion: catholic
+    estate: peasant
+    size: 1000
+1544.1.1:
+  cores:
+    SPA: yes
+1770.1.1:
+  pop:
+    ethnicity: mexican
+    estate: peasant
+    size: 1000
+1810.9.16:
+  owner: MEX
+  controller: SPA
+  cores:
+    MEX: yes
+1821.9.27:
+  controller: MEX
+  cores:
+    SPA: no
+1847.3.29:
+  controller: USA
+1848.2.2:
+  controller: MEX
+1930.1.1:
+  resource: oil

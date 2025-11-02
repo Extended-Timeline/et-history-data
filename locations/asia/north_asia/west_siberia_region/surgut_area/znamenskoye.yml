@@ -1,0 +1,68 @@
+#imported from EU4 file: history/provinces/1071 - Tara.txt
+2.1.1:
+  pop:
+    ethnicity: sakha_culture
+    religion: mari_paganism
+    estate: peasant
+    size: 1000
+1245.1.1:
+  owner: MGE
+  controller: MGE
+  cores:
+    MGE: yes
+  resource: fur
+  pop:
+    religion: 
+    estate: peasant
+    size: 1000
+1260.1.1:
+  owner: BLHO
+  controller: BLHO
+  cores:
+    MGE: no
+    GLH: yes
+    SIBI: yes
+    BLHO: yes
+1378.1.1:
+  owner: GLH
+  controller: GLH
+  cores:
+    GLH: yes
+    SIBI: yes
+1390.1.1:
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+1428.1.1:
+  owner: SHAY
+  controller: SHAY
+  cores:
+    GLH: no
+1468.1.1:
+  owner: SIBI
+  controller: SIBI
+1582.10.23:
+  owner: RUS
+  controller: RUS
+  cores:
+    SIBI: no
+    RUS: yes
+1860.1.1:
+  pop:
+    ethnicity: muscovite
+    religion: orthodox
+    estate: peasant
+    size: 1000
+1922.12.30:
+  owner: SOVI
+  controller: SOVI
+  cores:
+    RUS: no
+    SOVI: yes
+1991.12.25:
+  owner: RUS
+  controller: RUS
+  cores:
+    SOVI: no
+    RUS: yes

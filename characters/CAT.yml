@@ -1,0 +1,486 @@
+cat_rostany_de_girona:
+  755.1.1:
+    birth: barcelona #TODO: Date and location guessed, check if better data is available
+    first_name: rostany
+    dynasty: de_girona_dynasty
+    adm: 30
+    dip: 30
+    mil: 15
+    religion: chalcedonism
+    culture: catalan
+  801.1.1:
+    death: yes
+cat_bera_i_de_barcelona:
+  771.1.1:
+    birth: barcelona #TODO: Date and location guessed, check if better data is available
+    first_name: bera
+    dynasty: de_barcelona_dynasty
+    adm: 45
+    dip: 15
+    mil: 15
+    religion: chalcedonism
+    culture: catalan
+  820.1.1:
+    death: yes
+cat_rampo_i_de_barcelona:
+  780.1.1:
+    birth: barcelona #TODO: Date and location guessed, check if better data is available
+    first_name: rampo
+    dynasty: de_barcelona_dynasty
+    father: cat_bera_i_de_barcelona #TODO: check if this makes sense
+    adm: 45
+    dip: 15
+    mil: 15
+    religion: chalcedonism
+    culture: catalan
+  826.1.1:
+    death: yes
+cat_rampo_i_de_barcelona_1:
+  790.1.1:
+    birth: barcelona #TODO: Date and location guessed, check if better data is available
+    first_name: rampo
+    dynasty: de_barcelona_dynasty
+    adm: 45
+    dip: 15
+    mil: 15
+    religion: chalcedonism
+    culture: catalan
+  826.1.1:
+    death: yes
+cat_bernat_i_de_barcelona:
+  800.1.1:
+    birth: barcelona #TODO: Date and location guessed, check if better data is available
+    first_name: bernat
+    dynasty: de_barcelona_dynasty
+    father: cat_rampo_i_de_barcelona_1 #TODO: check if this makes sense
+    adm: 75
+    dip: 75
+    mil: 75
+    religion: chalcedonism
+    culture: catalan
+  844.1.1:
+    death: yes
+cat_bernat_i_de_barcelona_1:
+  796.1.1:
+    birth: barcelona #TODO: Date and location guessed, check if better data is available
+    first_name: bernat
+    dynasty: de_barcelona_dynasty
+    adm: 75
+    dip: 75
+    mil: 75
+    religion: chalcedonism
+    culture: catalan
+  844.1.1:
+    death: yes
+cat_sunifred_i_de_barcelona:
+  800.1.1:
+    birth: barcelona #TODO: Date and location guessed, check if better data is available
+    first_name: sunifred
+    dynasty: de_barcelona_dynasty
+    father: cat_bernat_i_de_barcelona_1 #TODO: check if this makes sense
+    adm: 60
+    dip: 15
+    mil: 75
+    religion: chalcedonism
+    culture: catalan
+  848.1.1:
+    death: yes
+cat_sunifred_i_de_barcelona_1:
+  814.1.1:
+    birth: barcelona #TODO: Date and location guessed, check if better data is available
+    first_name: sunifred
+    dynasty: de_barcelona_dynasty
+    adm: 60
+    dip: 15
+    mil: 75
+    religion: chalcedonism
+    culture: catalan
+  848.1.1:
+    death: yes
+cat_guillem_i_de_barcelona:
+  810.1.1:
+    birth: barcelona #TODO: Date and location guessed, check if better data is available
+    first_name: guillem
+    dynasty: de_barcelona_dynasty
+    father: cat_sunifred_i_de_barcelona_1 #TODO: check if this makes sense
+    adm: 75
+    dip: 60
+    mil: 60
+    religion: chalcedonism
+    culture: catalan
+  850.1.1:
+    death: yes
+cat_guillem_i_de_barcelona_1:
+  818.1.1:
+    birth: barcelona #TODO: Date and location guessed, check if better data is available
+    first_name: guillem
+    dynasty: de_barcelona_dynasty
+    adm: 75
+    dip: 60
+    mil: 60
+    religion: chalcedonism
+    culture: catalan
+  850.1.1:
+    death: yes
+cat_aleran_i_de_barcelona:
+  810.1.1:
+    birth: barcelona #TODO: Date and location guessed, check if better data is available
+    first_name: aleran
+    dynasty: de_barcelona_dynasty
+    father: cat_guillem_i_de_barcelona_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 75
+    mil: 15
+    religion: chalcedonism
+    culture: catalan
+  852.1.1:
+    death: yes
+cat_aleran_i_de_barcelona_1:
+  820.1.1:
+    birth: barcelona #TODO: Date and location guessed, check if better data is available
+    first_name: aleran
+    dynasty: de_barcelona_dynasty
+    adm: 30
+    dip: 75
+    mil: 15
+    religion: chalcedonism
+    culture: catalan
+  852.1.1:
+    death: yes
+cat_odalric_i_de_barcelona:
+  810.1.1:
+    birth: barcelona #TODO: Date and location guessed, check if better data is available
+    first_name: odalric
+    dynasty: de_barcelona_dynasty
+    father: cat_aleran_i_de_barcelona_1 #TODO: check if this makes sense
+    adm: 75
+    dip: 30
+    mil: 30
+    religion: chalcedonism
+    culture: catalan
+  858.1.1:
+    death: yes
+cat_odalric_i_de_barcelona_1:
+  822.1.1:
+    birth: barcelona #TODO: Date and location guessed, check if better data is available
+    first_name: odalric
+    dynasty: de_barcelona_dynasty
+    adm: 75
+    dip: 30
+    mil: 30
+    religion: chalcedonism
+    culture: catalan
+  858.1.1:
+    death: yes
+cat_humfrid_i_de_barcelona:
+  820.1.1:
+    birth: barcelona #TODO: Date and location guessed, check if better data is available
+    first_name: humfrid
+    dynasty: de_barcelona_dynasty
+    father: cat_odalric_i_de_barcelona_1 #TODO: check if this makes sense
+    adm: 75
+    dip: 15
+    mil: 15
+    religion: chalcedonism
+    culture: catalan
+  864.1.1:
+    death: yes
+cat_humfrid_i_de_barcelona_1:
+  828.1.1:
+    birth: barcelona #TODO: Date and location guessed, check if better data is available
+    first_name: humfrid
+    dynasty: de_barcelona_dynasty
+    adm: 75
+    dip: 15
+    mil: 15
+    religion: chalcedonism
+    culture: catalan
+  865.1.1:
+    death: yes
+cat_bernat_ii_de_barcelona:
+  830.1.1:
+    birth: barcelona #TODO: Date and location guessed, check if better data is available
+    first_name: bernat
+    dynasty: de_barcelona_dynasty
+    father: cat_humfrid_i_de_barcelona_1 #TODO: check if this makes sense
+    adm: 60
+    dip: 60
+    mil: 45
+    religion: chalcedonism
+    culture: catalan
+  878.1.1:
+    death: yes
+cat_bernat_ii_de_barcelona_1:
+  835.1.1:
+    birth: barcelona #TODO: Date and location guessed, check if better data is available
+    first_name: bernat
+    dynasty: de_barcelona_dynasty
+    adm: 60
+    dip: 60
+    mil: 45
+    religion: catholic
+    culture: catalan
+  878.1.1:
+    death: yes
+cat_wilfred_i_de_sunifred:
+  848.1.1:
+    birth: barcelona #TODO: Date and location guessed, check if better data is available
+    first_name: wilfred
+    dynasty: de_sunifred_dynasty
+    adm: 60
+    dip: 45
+    mil: 75
+    religion: catholic
+    culture: catalan
+  897.1.1:
+    death: yes
+cat_wilfred_ii_de_sunifred:
+  870.1.1:
+    birth: barcelona #TODO: Date and location guessed, check if better data is available
+    first_name: wilfred
+    dynasty: de_sunifred_dynasty
+    father: cat_wilfred_i_de_sunifred #TODO: check if this makes sense
+    adm: 30
+    dip: 75
+    mil: 30
+    religion: catholic
+    culture: catalan
+  911.1.1:
+    death: yes
+cat_wilfred_ii_de_sunifred_1:
+  867.1.1:
+    birth: barcelona #TODO: Date and location guessed, check if better data is available
+    first_name: wilfred
+    dynasty: de_sunifred_dynasty
+    adm: 30
+    dip: 75
+    mil: 30
+    religion: catholic
+    culture: catalan
+  911.1.1:
+    death: yes
+cat_sunyer_i_de_sunifred:
+  890.1.1:
+    birth: barcelona #TODO: Date and location guessed, check if better data is available
+    first_name: sunyer
+    dynasty: de_sunifred_dynasty
+    father: cat_wilfred_ii_de_sunifred_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 75
+    mil: 75
+    religion: catholic
+    culture: catalan
+  947.1.1:
+    death: yes
+cat_sunyer_i_de_sunifred_1:
+  881.1.1:
+    birth: barcelona #TODO: Date and location guessed, check if better data is available
+    first_name: sunyer
+    dynasty: de_sunifred_dynasty
+    adm: 30
+    dip: 75
+    mil: 75
+    religion: catholic
+    culture: catalan
+  947.1.1:
+    death: yes
+cat_borrell_ii_de_sunifred:
+  930.1.1:
+    birth: barcelona #TODO: Date and location guessed, check if better data is available
+    first_name: borrell
+    dynasty: de_sunifred_dynasty
+    father: cat_sunyer_i_de_sunifred_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 75
+    mil: 15
+    religion: catholic
+    culture: catalan
+  992.1.1:
+    death: yes
+cat_borrell_ii_de_sunifred_1:
+  917.1.1:
+    birth: barcelona #TODO: Date and location guessed, check if better data is available
+    first_name: borrell
+    dynasty: de_sunifred_dynasty
+    adm: 30
+    dip: 75
+    mil: 15
+    religion: catholic
+    culture: catalan
+  992.1.1:
+    death: yes
+cat_ramon_borrell_i_de_sunifred:
+  972.1.1:
+    birth: barcelona #TODO: Date and location guessed, check if better data is available
+    first_name: ramon_borrell
+    dynasty: de_sunifred_dynasty
+    father: cat_borrell_ii_de_sunifred_1 #TODO: check if this makes sense
+    adm: 75
+    dip: 15
+    mil: 30
+    religion: catholic
+    culture: catalan
+  1018.1.1:
+    death: yes
+cat_ramon_borrell_i_de_sunifred_1:
+  962.1.1:
+    birth: barcelona #TODO: Date and location guessed, check if better data is available
+    first_name: ramon_borrell
+    dynasty: de_sunifred_dynasty
+    adm: 75
+    dip: 15
+    mil: 30
+    religion: catholic
+    culture: catalan
+  1018.1.1:
+    death: yes
+cat_berenguer_ramon_i_de_sunifred:
+  1005.1.1:
+    birth: barcelona #TODO: Date and location guessed, check if better data is available
+    first_name: berenguer_ramon
+    dynasty: de_sunifred_dynasty
+    father: cat_ramon_borrell_i_de_sunifred_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 60
+    mil: 60
+    religion: catholic
+    culture: catalan
+  1035.5.26:
+    death: yes
+cat_berenguer_ramon_i_de_sunifred_1:
+  988.1.1:
+    birth: barcelona #TODO: Date and location guessed, check if better data is available
+    first_name: berenguer_ramon
+    dynasty: de_sunifred_dynasty
+    adm: 45
+    dip: 60
+    mil: 60
+    religion: catholic
+    culture: catalan
+  1035.5.26:
+    death: yes
+cat_ramon_berenguer_i_de_sunifred:
+  1023.1.1:
+    birth: barcelona #TODO: Date and location guessed, check if better data is available
+    first_name: ramon_berenguer
+    dynasty: de_sunifred_dynasty
+    father: cat_berenguer_ramon_i_de_sunifred_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 15
+    mil: 45
+    religion: catholic
+    culture: catalan
+  1076.1.1:
+    death: yes
+cat_ramon_berenguer_i_de_sunifred_1:
+  1005.1.1:
+    birth: barcelona #TODO: Date and location guessed, check if better data is available
+    first_name: ramon_berenguer
+    dynasty: de_sunifred_dynasty
+    adm: 45
+    dip: 15
+    mil: 45
+    religion: catholic
+    culture: catalan
+  1076.1.1:
+    death: yes
+cat_ramon_berenguer_ii_de_sunifred:
+  1054.1.1:
+    birth: barcelona #TODO: Date and location guessed, check if better data is available
+    first_name: ramon_berenguer
+    dynasty: de_sunifred_dynasty
+    father: cat_ramon_berenguer_i_de_sunifred_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 45
+    mil: 45
+    religion: catholic
+    culture: catalan
+  1082.12.5:
+    death: yes
+cat_ramon_berenguer_ii_de_sunifred_1:
+  1046.1.1:
+    birth: barcelona #TODO: Date and location guessed, check if better data is available
+    first_name: ramon_berenguer
+    dynasty: de_sunifred_dynasty
+    adm: 15
+    dip: 45
+    mil: 45
+    religion: catholic
+    culture: catalan
+  1082.12.5:
+    death: yes
+cat_berenguer_ramon_ii_de_sunifred:
+  1055.1.1:
+    birth: barcelona #TODO: Date and location guessed, check if better data is available
+    first_name: berenguer_ramon
+    dynasty: de_sunifred_dynasty
+    father: cat_ramon_berenguer_ii_de_sunifred_1 #TODO: check if this makes sense
+    adm: 60
+    dip: 15
+    mil: 60
+    religion: catholic
+    culture: catalan
+  1097.1.1:
+    death: yes
+cat_berenguer_ramon_ii_de_sunifred_1:
+  1052.1.1:
+    birth: barcelona #TODO: Date and location guessed, check if better data is available
+    first_name: berenguer_ramon
+    dynasty: de_sunifred_dynasty
+    adm: 60
+    dip: 15
+    mil: 60
+    religion: catholic
+    culture: catalan
+  1097.1.1:
+    death: yes
+cat_ramon_berenguer_iii_de_sunifred:
+  1082.1.1:
+    birth: barcelona #TODO: Date and location guessed, check if better data is available
+    first_name: ramon_berenguer
+    dynasty: de_sunifred_dynasty
+    father: cat_berenguer_ramon_ii_de_sunifred_1 #TODO: check if this makes sense
+    adm: 75
+    dip: 15
+    mil: 15
+    religion: catholic
+    culture: catalan
+  1131.1.1:
+    death: yes
+cat_ramon_berenguer_iii_de_sunifred_1:
+  1067.1.1:
+    birth: barcelona #TODO: Date and location guessed, check if better data is available
+    first_name: ramon_berenguer
+    dynasty: de_sunifred_dynasty
+    adm: 75
+    dip: 15
+    mil: 15
+    religion: catholic
+    culture: catalan
+  1131.1.1:
+    death: yes
+cat_ramon_berenguer_iv_de_sunifred:
+  1113.1.1:
+    birth: barcelona #TODO: Date and location guessed, check if better data is available
+    first_name: ramon_berenguer
+    dynasty: de_sunifred_dynasty
+    father: cat_ramon_berenguer_iii_de_sunifred_1 #TODO: check if this makes sense
+    adm: 75
+    dip: 60
+    mil: 30
+    religion: catholic
+    culture: catalan
+  1162.8.6:
+    death: yes
+cat_ramon_berenguer_iv_de_sunifred_1:
+  1101.1.1:
+    birth: barcelona #TODO: Date and location guessed, check if better data is available
+    first_name: ramon_berenguer
+    dynasty: de_sunifred_dynasty
+    adm: 75
+    dip: 60
+    mil: 30
+    religion: catholic
+    culture: catalan
+  3000.1.1:
+    death: yes

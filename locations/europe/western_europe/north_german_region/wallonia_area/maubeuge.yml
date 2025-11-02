@@ -1,0 +1,156 @@
+#imported from EU4 file: history/provinces/1743 - Cambray.txt
+2.1.1:
+  owner: ROM
+  controller: ROM
+  cores:
+    ROM: yes
+  resource: grain
+  pop:
+    ethnicity: belgae
+    religion: germanic
+    estate: peasant
+    size: 1000
+260.1.1:
+  cores:
+    GALL: yes
+  pop:
+    ethnicity: gallian
+    estate: peasant
+    size: 1000
+274.1.1:
+  controller: ROM
+  cores:
+    GALL: no
+  pop:
+    ethnicity: belgae
+    estate: peasant
+    size: 1000
+360.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+395.1.17:
+  owner: ROMW
+  controller: ROMW
+  cores:
+    ROM: no
+    ROMW: yes
+456.1.1:
+  owner: FRAN
+  controller: FRAN
+  cores:
+    ROMW: no
+    FRAN: yes
+  pop:
+    ethnicity: walloon
+    estate: peasant
+    size: 1000
+511.11.27:
+  owner: SOIS
+  controller: SOIS
+  cores:
+    SOIS: yes
+558.12.23:
+  owner: FRAN
+  controller: FRAN
+  cores:
+    FRAN: yes
+561.11.29:
+  owner: SOIS
+  controller: SOIS
+567.12.1:
+  owner: NEUS
+  controller: NEUS
+  cores:
+    SOIS: no
+    NEUS: yes
+613.10.10:
+  owner: FRAN
+  controller: FRAN
+  cores:
+    NEUS: no
+    FRAN: yes
+634.1.1:
+  owner: NEUS
+  controller: NEUS
+679.12.23:
+  owner: FRAN
+  controller: FRAN
+840.6.21:
+  owner: WFRA
+  controller: WFRA
+  cores:
+    FRAN: no
+    WFRA: yes
+867.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+925.1.1:
+  owner: LOT
+  controller: LOT
+  cores:
+    WFRA: no
+    LOT: yes
+948.1.1:
+  owner: CABR
+  controller: CABR
+  cores:
+    LOT: no
+    CABR: yes
+1349.1.1:
+  owner: BUR
+  controller: BUR
+  cores:
+    BUR: yes
+1382.1.1:
+  owner: FLA
+  controller: FLA
+1384.1.30:
+  owner: BUR
+  controller: BUR
+1477.1.5:
+  owner: FRA
+  controller: FRA
+  cores:
+    BUR: no
+    FRA: yes
+1543.1.1:
+  owner: SPA
+  controller: SPA
+  cores:
+    FRA: no
+    SPA: yes
+1677.4.19:
+  owner: FRA
+  controller: FRA
+  cores:
+    SPA: no
+    FRA: yes
+1684.1.1:
+  pop:
+    ethnicity: french
+    estate: peasant
+    size: 1000
+1870.9.4:
+  owner: FRA
+  controller: PRU
+  cores:
+    FRA: yes
+1871.1.18:
+  controller: GER
+1871.5.10:
+  controller: FRA
+1914.10.1:
+  controller: GER
+1918.9.5:
+  controller: FRA
+1940.5.27:
+  controller: GER
+1940.6.14:
+  owner: GER
+1944.9.2:
+  owner: FRA
+  controller: FRA

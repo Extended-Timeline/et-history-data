@@ -1,0 +1,138 @@
+#imported from EU4 file: history/provinces/2961 - Lwow.txt
+2.1.1:
+  owner: BAST
+  controller: BAST
+  cores:
+    BAST: yes
+  resource: dyes
+  pop:
+    ethnicity: pannonian
+    religion: druidism
+    estate: peasant
+    size: 1000
+150.1.1:
+  pop:
+    ethnicity: gothic
+    religion: germanic
+    estate: peasant
+    size: 1000
+200.1.1:
+  owner: GEPI
+  controller: GEPI
+  cores:
+    BAST: no
+    GEPI: yes
+  pop:
+    ethnicity: gepid
+    estate: peasant
+    size: 1000
+450.1.1:
+  owner: WHCR
+  controller: WHCR
+  cores:
+    GEPI: no
+    WHCR: yes
+  pop:
+    ethnicity: ruthenian
+    religion: slavic
+    estate: peasant
+    size: 1000
+804.1.1:
+  owner: HUN
+  controller: HUN
+  cores:
+    HUN: yes
+    UKR: yes
+960.1.1:
+  owner: POL
+  controller: POL
+  cores:
+    HUN: no
+    WHCR: no
+    POL: yes
+981.1.1:
+  owner: KIEV
+  controller: KIEV
+  cores:
+    POL: no
+    KIEV: yes
+988.1.1:
+  pop:
+    religion: orthodox
+    estate: peasant
+    size: 1000
+1054.2.20:
+  owner: HAL
+  controller: HAL
+  cores:
+    KIEV: no
+    HAL: yes
+    KIE: yes
+1199.1.1:
+  cores:
+    KIE: no
+1349.1.1:
+  owner: POL
+  controller: POL
+  cores:
+    POL: yes
+1569.7.1:
+  owner: PLC
+  controller: PLC
+  cores:
+    PLC: yes
+    POL: no
+1589.1.1:
+  controller: PLC
+1648.1.1:
+  cores:
+    ZAZ: yes
+1654.1.1:
+  controller: PLC
+  cores:
+    ZAZ: no
+1655.1.1:
+  controller: SWE
+1660.1.1:
+  controller: PLC
+1772.8.5:
+  owner: HAB
+  controller: HAB
+  cores:
+    PLC: no
+    HAB: yes
+1914.9.1:
+  controller: RUS
+1915.6.1:
+  controller: HAB
+1918.11.11:
+  owner: UKR
+  controller: POL
+  cores:
+    HAB: no
+    UKR: yes
+    POL: yes
+1919.7.18:
+  owner: POL
+1920.4.21:
+  cores:
+    UKR: no
+1939.9.21:
+  controller: SOVI
+1939.10.6:
+  owner: SOVI
+  cores:
+    SOVI: yes
+1941.6.30:
+  controller: GER
+1944.7.25:
+  controller: SOVI
+1945.5.8:
+  cores:
+    POL: no
+1991.8.24:
+  owner: UKR
+  controller: UKR
+  cores:
+    SOVI: no
+    UKR: yes

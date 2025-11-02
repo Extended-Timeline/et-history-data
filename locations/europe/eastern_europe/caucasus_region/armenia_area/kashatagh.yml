@@ -1,0 +1,162 @@
+#imported from EU4 file: history/provinces/2202 - Melikates.txt
+2.1.1:
+  owner: ARM
+  controller: ARM
+  cores:
+    ARM: yes
+  resource: livestock
+  pop:
+    ethnicity: armenian_culture
+    religion: zoroastrian
+    estate: peasant
+    size: 1000
+114.1.1:
+  owner: ROM
+  controller: ROM
+  cores:
+    ROM: yes
+117.1.1:
+  owner: ARM
+  controller: ARM
+  cores:
+    ROM: no
+253.1.1:
+  owner: ERA
+  controller: ERA
+  cores:
+    ERA: yes
+360.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+387.1.1:
+  owner: CALB
+  controller: CALB
+  cores:
+    ERA: no
+    CALB: yes
+506.1.1:
+  pop:
+    religion: miaphysite
+    estate: peasant
+    size: 1000
+822.1.1:
+  owner: ABBA
+  controller: ABBA
+  cores:
+    ABBA: yes
+861.1.1:
+  owner: SHIR
+  controller: SHIR
+  cores:
+    ABBA: no
+    SHIR: yes
+890.1.1:
+  owner: AZER
+  controller: AZER
+  cores:
+    SHIR: no
+    AZER: yes
+960.1.1:
+  owner: ARM
+  controller: ARM
+  cores:
+    AZER: no
+    ARM: yes
+1000.1.1:
+  owner: KCN
+  controller: KCN
+  cores:
+    ARM: no
+    KCN: yes
+1124.1.1:
+  owner: GEO
+  controller: GEO
+  cores:
+    GEO: yes
+1225.1.1:
+  owner: KHWA
+  controller: KHWA
+  cores:
+    GEO: no
+    KHWA: yes
+1236.1.1:
+  owner: MGE
+  controller: MGE
+  cores:
+    KHWA: no
+    MGE: yes
+1260.1.1:
+  owner: KCN
+  controller: KCN
+  cores:
+    MGE: no
+    KCN: yes
+1468.1.1:
+  owner: AKQO
+  controller: AKQO
+  cores:
+    QAKO: no
+    AKQO: yes
+1468.8.1:
+  controller: TIM
+1469.2.4:
+  controller: AKQO
+1501.7.1:
+  owner: IRA
+  controller: IRA
+  cores:
+    AKQO: no
+    IRA: yes
+1554.1.1:
+  controller: TUR
+1555.5.29:
+  controller: IRA
+1588.1.1:
+  controller: TUR
+1590.3.21:
+  owner: TUR
+  cores:
+    TUR: yes
+1607.1.1:
+  controller: IRA
+1612.11.20:
+  owner: IRA
+  cores:
+    TUR: no
+1747.1.1:
+  owner: KCN
+  controller: KCN
+1813.10.24:
+  owner: RUS
+  controller: RUS
+  cores:
+    IRA: no
+    RUS: yes
+1918.5.28:
+  owner: AZER
+  controller: AZER
+  cores:
+    AZER: yes
+1920.4.28:
+  owner: RUS
+  controller: RUS
+1922.12.30:
+  owner: SOVI
+  controller: SOVI
+  cores:
+    RUS: no
+    SOVI: yes
+1991.8.30:
+  owner: AZER
+  controller: AZER
+  cores:
+    SOVI: no
+    RUS: no
+1991.9.3:
+  cores:
+    KCN: yes
+    ARM: yes
+2023.9.28:
+  controller: AZER

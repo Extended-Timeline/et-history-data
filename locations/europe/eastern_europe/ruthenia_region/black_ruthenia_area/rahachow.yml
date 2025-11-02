@@ -1,0 +1,98 @@
+#imported from EU4 file: history/provinces/4544 - Bobrujsk.txt
+2.1.1:
+  pop:
+    ethnicity: polatskian_culture
+    religion: slavic
+    estate: peasant
+    size: 1000
+550.1.1:
+  owner: DREG
+  controller: DREG
+  cores:
+    DREG: yes
+  resource: grain
+890.1.1:
+  owner: KIEV
+  controller: KIEV
+  cores:
+    DREG: no
+    KIEV: yes
+    POK: yes
+988.1.1:
+  pop:
+    religion: orthodox
+    estate: peasant
+    size: 1000
+1054.2.20:
+  owner: POK
+  controller: POK
+  cores:
+    KIEV: no
+    POK: yes
+1101.1.1:
+  owner: MIS
+  controller: MIS
+  cores:
+    MIS: yes
+1119.9.13:
+  owner: KIE
+  controller: KIE
+  cores:
+    KIE: yes
+1146.1.1:
+  owner: MIS
+  controller: MIS
+  cores:
+    KIE: no
+1151.1.1:
+  owner: POK
+  controller: POK
+1242.1.1:
+  owner: LIT
+  controller: LIT
+  cores:
+    POK: no
+    LIT: yes
+1569.7.1:
+  owner: PLC
+  controller: PLC
+  cores:
+    PLC: yes
+1655.1.1:
+  controller: RUS
+1660.1.1:
+  controller: PLC
+1793.1.23:
+  owner: RUS
+  controller: RUS
+  cores:
+    RUS: yes
+1812.7.8:
+  controller: FRA
+1812.11.18:
+  controller: RUS
+1918.2.1:
+  controller: GER
+1918.3.3:
+  controller: RUS
+1918.3.25:
+  owner: BELA
+  controller: BELA
+  cores:
+    BELA: yes
+1922.12.30:
+  owner: SOVI
+  controller: SOVI
+  cores:
+    RUS: no
+    SOVI: yes
+1941.6.26:
+  controller: GER
+1944.7.3:
+  controller: SOVI
+1990.7.27:
+  owner: BELA
+  controller: BELA
+  cores:
+    RUS: no
+    SOVI: no

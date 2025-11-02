@@ -1,0 +1,237 @@
+malc_sam_agi_srivijaya:
+  1359.1.1:
+    birth: malacca #TODO: Date and location guessed, check if better data is available
+    first_name: sam_agi
+    dynasty: srivijaya_dynasty
+    adm: 60
+    dip: 30
+    mil: 15
+    religion: sunni
+    culture: malay_culture
+  1402.1.1:
+    death: yes
+malc_parameswara_srivijaya:
+  1370.1.1:
+    birth: malacca #TODO: Date and location guessed, check if better data is available
+    first_name: parameswara
+    dynasty: srivijaya_dynasty
+    father: malc_sam_agi_srivijaya #TODO: check if this makes sense
+    adm: 30
+    dip: 15
+    mil: 30
+    religion: sunni
+    culture: malay_culture
+  1414.1.1:
+    death: yes
+malc_parameswara_srivijaya_1:
+  1372.1.1:
+    birth: malacca #TODO: Date and location guessed, check if better data is available
+    first_name: parameswara
+    dynasty: srivijaya_dynasty
+    adm: 30
+    dip: 15
+    mil: 30
+    religion: sunni
+    culture: malay_culture
+  1414.1.1:
+    death: yes
+malc_megat_iskandar_shah_srivijaya:
+  1380.1.1:
+    birth: malacca #TODO: Date and location guessed, check if better data is available
+    first_name: megat_iskandar_shah
+    dynasty: srivijaya_dynasty
+    father: malc_parameswara_srivijaya_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: sunni
+    culture: malay_culture
+  1424.1.1:
+    death: yes
+malc_megat_iskandar_shah_srivijaya_1:
+  1384.1.1:
+    birth: malacca #TODO: Date and location guessed, check if better data is available
+    first_name: megat_iskandar_shah
+    dynasty: srivijaya_dynasty
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: sunni
+    culture: malay_culture
+  1424.1.1:
+    death: yes
+malc_muhammad_shah_srivijaya:
+  1400.1.1:
+    birth: malacca #TODO: Date and location guessed, check if better data is available
+    first_name: muhammad_shah
+    dynasty: srivijaya_dynasty
+    father: malc_megat_iskandar_shah_srivijaya_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 15
+    mil: 30
+    religion: sunni
+    culture: malay_culture
+  1444.1.1:
+    death: yes
+malc_muhammad_shah_srivijaya_1:
+  1394.1.1:
+    birth: malacca #TODO: Date and location guessed, check if better data is available
+    first_name: muhammad_shah
+    dynasty: srivijaya_dynasty
+    adm: 30
+    dip: 15
+    mil: 30
+    religion: sunni
+    culture: malay_culture
+  1444.1.1:
+    death: yes
+malc_abu_syahid_srivijaya:
+  1424.1.1:
+    birth: malacca #TODO: Date and location guessed, check if better data is available
+    first_name: abu_syahid
+    dynasty: srivijaya_dynasty
+    father: malc_muhammad_shah_srivijaya_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 60
+    mil: 45
+    religion: sunni
+    culture: malay_culture
+  1446.1.1:
+    death: yes
+malc_abu_syahid_srivijaya_1:
+  1414.1.1:
+    birth: malacca #TODO: Date and location guessed, check if better data is available
+    first_name: abu_syahid
+    dynasty: srivijaya_dynasty
+    adm: 45
+    dip: 60
+    mil: 45
+    religion: sunni
+    culture: malay_culture
+  1446.1.1:
+    death: yes
+malc_muzaffar_shah_srivijaya:
+  1420.1.1:
+    birth: malacca #TODO: Date and location guessed, check if better data is available
+    first_name: muzaffar_shah
+    dynasty: srivijaya_dynasty
+    father: malc_abu_syahid_srivijaya_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 90
+    mil: 60
+    religion: sunni
+    culture: malay_culture
+  1459.1.1:
+    death: yes
+malc_muzaffar_shah_srivijaya_1:
+  1416.1.1:
+    birth: malacca #TODO: Date and location guessed, check if better data is available
+    first_name: muzaffar_shah
+    dynasty: srivijaya_dynasty
+    adm: 30
+    dip: 90
+    mil: 60
+    religion: sunni
+    culture: malay_culture
+  1459.1.1:
+    death: yes
+malc_mansur_shah_srivijaya:
+  1440.1.1:
+    birth: malacca #TODO: Date and location guessed, check if better data is available
+    first_name: mansur_shah
+    dynasty: srivijaya_dynasty
+    father: malc_muzaffar_shah_srivijaya_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 45
+    mil: 75
+    religion: sunni
+    culture: malay_culture
+  1477.10.2:
+    death: yes
+malc_mansur_shah_srivijaya_1:
+  1429.1.1:
+    birth: malacca #TODO: Date and location guessed, check if better data is available
+    first_name: mansur_shah
+    dynasty: srivijaya_dynasty
+    adm: 45
+    dip: 45
+    mil: 75
+    religion: sunni
+    culture: malay_culture
+  1477.10.2:
+    death: yes
+malc_riayat_shah_srivijaya:
+  1450.1.1:
+    birth: malacca #TODO: Date and location guessed, check if better data is available
+    first_name: riayat_shah
+    dynasty: srivijaya_dynasty
+    father: malc_mansur_shah_srivijaya_1 #TODO: check if this makes sense
+    adm: 60
+    dip: 30
+    mil: 90
+    religion: sunni
+    culture: malay_culture
+  1488.1.1:
+    death: yes
+malc_riayat_shah_srivijaya_1:
+  1447.1.1:
+    birth: malacca #TODO: Date and location guessed, check if better data is available
+    first_name: riayat_shah
+    dynasty: srivijaya_dynasty
+    adm: 60
+    dip: 30
+    mil: 90
+    religion: sunni
+    culture: malay_culture
+  1488.1.1:
+    death: yes
+malc_mahmud_shah_srivijaya:
+  1470.1.1:
+    birth: malacca #TODO: Date and location guessed, check if better data is available
+    first_name: mahmud_shah
+    dynasty: srivijaya_dynasty
+    father: malc_riayat_shah_srivijaya_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 15
+    mil: 75
+    religion: sunni
+    culture: malay_culture
+  1528.1.1:
+    death: yes
+malc_mahmud_shah_srivijaya_1:
+  1458.1.1:
+    birth: malacca #TODO: Date and location guessed, check if better data is available
+    first_name: mahmud_shah
+    dynasty: srivijaya_dynasty
+    adm: 15
+    dip: 15
+    mil: 75
+    religion: sunni
+    culture: malay_culture
+  1528.1.1:
+    death: yes
+malc_riayat_shah_i_srivijaya:
+  1488.1.1:
+    birth: malacca #TODO: Date and location guessed, check if better data is available
+    first_name: riayat_shah
+    dynasty: srivijaya_dynasty
+    father: malc_mahmud_shah_srivijaya_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 75
+    mil: 75
+    religion: sunni
+    culture: malay_culture
+  1564.1.1:
+    death: yes
+malc_riayat_shah_i_srivijaya_1:
+  1498.1.1:
+    birth: malacca #TODO: Date and location guessed, check if better data is available
+    first_name: riayat_shah
+    dynasty: srivijaya_dynasty
+    adm: 45
+    dip: 75
+    mil: 75
+    religion: sunni
+    culture: malay_culture
+  3000.1.1:
+    death: yes

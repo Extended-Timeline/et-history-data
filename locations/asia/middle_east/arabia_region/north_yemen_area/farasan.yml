@@ -1,0 +1,155 @@
+#imported from EU4 file: history/provinces/2346 - Jazan.txt
+2.1.1:
+  owner: MINA
+  controller: MINA
+  cores:
+    MINA: yes
+  resource: fish
+  pop:
+    ethnicity: yemeni_culture
+    religion: south_arabian
+    estate: peasant
+    size: 1000
+220.1.1:
+  owner: HIMY
+  controller: HIMY
+  cores:
+    MINA: no
+    HIMY: yes
+320.1.1:
+  owner: AKSM
+  controller: AKSM
+  cores:
+    AKSM: yes
+380.1.1:
+  owner: HIMY
+  controller: HIMY
+  cores:
+    AKSM: no
+    HIMY: yes
+450.1.1:
+  pop:
+    religion: judaism
+    estate: peasant
+    size: 1000
+525.1.1:
+  owner: AKSM
+  controller: AKSM
+  cores:
+    HIMY: no
+    AKSM: yes
+560.1.1:
+  owner: YEM
+  controller: YEM
+  cores:
+    AKSM: no
+    YEM: yes
+570.1.1:
+  owner: NAJR
+  controller: NAJR
+  cores:
+    YEM: no
+    NAJR: yes
+628.1.1:
+  owner: RASH
+  controller: RASH
+  cores:
+    RASH: yes
+  pop:
+    religion: islam
+    estate: peasant
+    size: 1000
+661.7.28:
+  owner: UMAY
+  controller: UMAY
+  cores:
+    RASH: no
+    UMAY: yes
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+750.8.6:
+  owner: ABBA
+  controller: ABBA
+  cores:
+    UMAY: no
+    ABBA: yes
+866.1.1:
+  owner: YEM
+  controller: YEM
+  cores:
+    ABBA: no
+    YEM: yes
+1174.1.1:
+  owner: EGY
+  controller: EGY
+  cores:
+    YEM: no
+    EGY: yes
+1200.1.1:
+  pop:
+    ethnicity: hijazi_culture
+    estate: peasant
+    size: 1000
+1229.1.1:
+  owner: YEM
+  controller: YEM
+  cores:
+    EGY: no
+    YEM: yes
+1350.1.1:
+  owner: MIKH
+  controller: MIKH
+  cores:
+    YEM: no
+    MIKH: yes
+1538.1.1:
+  owner: TUR
+  controller: TUR
+  cores:
+    TUR: yes
+1627.1.1:
+  owner: RASS
+  controller: RASS
+  cores:
+    RASS: yes
+1728.1.1:
+  owner: MIKH
+  controller: MIKH
+  cores:
+    MIKH: yes
+1802.1.1:
+  owner: NAJD
+  controller: NAJD
+  cores:
+    NAJD: yes
+1803.1.1:
+  owner: MIKH
+  controller: MIKH
+1818.9.9:
+  owner: EGY
+  controller: EGY
+  cores:
+    NAJD: no
+    EGY: yes
+    TUR: yes
+1841.2.1:
+  owner: TUR
+  controller: TUR
+  cores:
+    EGY: no
+    TUR: yes
+1906.1.1:
+  owner: ASIR
+  controller: ASIR
+  cores:
+    TUR: no
+    ASIR: yes
+1934.5.1:
+  controller: SAUD
+1934.5.20:
+  owner: SAUD
+  cores:
+    ASIR: no
+    SAUD: yes

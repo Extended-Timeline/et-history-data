@@ -1,0 +1,120 @@
+#imported from EU4 file: history/provinces/2417 - Kuma.txt
+2.1.1:
+  owner: ALN
+  controller: ALN
+  cores:
+    ALN: yes
+  resource: iron
+  pop:
+    ethnicity: alan_culture
+    religion: 
+    estate: peasant
+    size: 1000
+420.1.1:
+  owner: HUNS
+  controller: HUNS
+  cores:
+    ALN: no
+    HUNS: yes
+448.1.1:
+  owner: KHAZ
+  controller: KHAZ
+  cores:
+    HUNS: no
+    KHAZ: yes
+  pop:
+    ethnicity: khazar
+    estate: peasant
+    size: 1000
+1000.1.1:
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+1048.1.1:
+  owner: CUMA
+  controller: CUMA
+  cores:
+    KHAZ: no
+    CUMA: yes
+1236.1.1:
+  owner: MGE
+  controller: MGE
+  cores:
+    CUMA: no
+    MGE: yes
+    ASTR: yes
+  pop:
+    ethnicity: astrakhani
+    estate: peasant
+    size: 1000
+1260.1.1:
+  owner: WHHO
+  controller: WHHO
+  cores:
+    MGE: no
+    WHHO: yes
+1372.1.1:
+  owner: BLHO
+  controller: BLHO
+  cores:
+    BLHO: yes
+1374.1.1:
+  owner: WHHO
+  controller: WHHO
+  cores:
+    BLHO: no
+1378.1.1:
+  owner: GLH
+  controller: GLH
+  cores:
+    GLH: yes
+1442.1.1:
+  owner: GRHO
+  controller: GRHO
+  cores:
+    GLH: no
+    GRHO: yes
+1459.1.1:
+  owner: ASTR
+  controller: ASTR
+  cores:
+    GRHO: no
+1556.6.2:
+  owner: NOGA
+  controller: NOGA
+  cores:
+    ASTR: no
+    NOGA: yes
+1633.1.1:
+  owner: KALM
+  controller: KALM
+  cores:
+    NOGA: no
+    KALM: yes
+  pop:
+    ethnicity: oirat_culture
+    religion: tibetan_buddhism
+    estate: peasant
+    size: 1000
+1771.1.1:
+  owner: RUS
+  controller: RUS
+  cores:
+    RUS: yes
+1922.12.30:
+  owner: SOVI
+  controller: SOVI
+  cores:
+    RUS: no
+    SOVI: yes
+1943.1.21:
+  controller: GER
+1943.2.14:
+  controller: SOVI
+1991.12.25:
+  owner: RUS
+  controller: RUS
+  cores:
+    SOVI: no
+    RUS: yes

@@ -1,0 +1,47 @@
+#imported from EU4 file: history/provinces/2069 - Kumaon.txt
+2.1.1:
+  owner: KUNI
+  controller: KUNI
+  cores:
+    KUNI: yes
+  resource: naval_supplies
+  pop:
+    ethnicity: garhwali
+    religion: mahayana
+    estate: peasant
+    size: 1000
+300.1.1:
+  owner: KMN
+  controller: KMN
+  cores:
+    KUNI: no
+    KMN: yes
+1100.1.1:
+  pop:
+    religion: hindu
+    estate: peasant
+    size: 1000
+1779.1.1:
+  owner: GWL
+  controller: GWL
+  cores:
+    GWL: yes
+1790.1.1:
+  owner: NPL
+  controller: NPL
+  cores:
+    NPL: yes
+1814.11.1:
+  controller: GBR
+1816.12.2:
+  owner: GBR
+  cores:
+    GBR: yes
+1930.1.1:
+  cores:
+    INDI: yes
+1947.8.15:
+  owner: INDI
+  controller: INDI
+  cores:
+    GBR: no

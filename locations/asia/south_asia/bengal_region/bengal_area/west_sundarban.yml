@@ -1,0 +1,106 @@
+#imported from EU4 file: history/provinces/561 - Bengal Delta.txt
+2.1.1:
+  owner: VANG
+  controller: VANG
+  cores:
+    VANG: yes
+  resource: silk
+  pop:
+    ethnicity: bengali
+    religion: mahayana
+    estate: peasant
+    size: 1000
+355.1.1:
+  owner: GUPT
+  controller: GUPT
+  cores:
+    SUHM: no
+    GUPT: yes
+525.1.1:
+  owner: VANG
+  controller: VANG
+  cores:
+    GUPT: no
+    VANG: yes
+750.1.1:
+  owner: PALA
+  controller: PALA
+  cores:
+    VANG: no
+    PALA: yes
+900.1.1:
+  owner: SEN
+  controller: SEN
+  cores:
+    PALA: no
+    SEN: yes
+1070.1.1:
+  owner: GAUD
+  controller: GAUD
+  cores:
+    GAUD: yes
+1080.1.1:
+  pop:
+    religion: hindu
+    estate: peasant
+    size: 1000
+1230.1.1:
+  owner: SAMT
+  controller: SAMT
+  cores:
+    GAUD: no
+    SAMT: yes
+1280.1.1:
+  owner: DLH
+  controller: DLH
+  cores:
+    DLH: yes
+    BNG: yes
+1287.1.1:
+  owner: BNG
+  controller: BNG
+  cores:
+    DLH: no
+1324.1.1:
+  owner: DLH
+  controller: DLH
+  cores:
+    DLH: yes
+1338.1.1:
+  owner: BNG
+  controller: BNG
+  cores:
+    DLH: no
+1576.7.12:
+  owner: MUG
+  controller: MUG
+  cores:
+    MUG: yes
+1624.1.1:
+  controller: MUG
+1658.12.28:
+  controller: MUG
+1698.1.1:
+  owner: ENG
+  controller: ENG
+  cores:
+    MUG: no
+    ENG: yes
+1707.5.12:
+  owner: GBR
+  controller: GBR
+  cores:
+    GBR: yes
+1756.1.1:
+  controller: BNG
+1757.6.23:
+  controller: GBR
+1930.1.1:
+  cores:
+    BNG: no
+    INDI: yes
+1947.8.15:
+  owner: INDI
+  controller: INDI
+  cores:
+    GBR: no

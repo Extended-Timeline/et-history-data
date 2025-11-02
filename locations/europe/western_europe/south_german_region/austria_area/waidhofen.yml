@@ -1,0 +1,132 @@
+#imported from EU4 file: history/provinces/4762 - Wienerwald.txt
+2.1.1:
+  owner: ROM
+  controller: ROM
+  cores:
+    ROM: yes
+  resource: wine
+  pop:
+    ethnicity: noric
+    religion: druidism
+    estate: peasant
+    size: 1000
+340.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+395.1.17:
+  owner: ROMW
+  controller: ROMW
+  cores:
+    ROM: no
+    ROMW: yes
+460.1.1:
+  pop:
+    ethnicity: danube_bavarian
+    estate: peasant
+    size: 1000
+467.1.1:
+  owner: RUGI
+  controller: RUGI
+  cores:
+    ROMW: no
+    RUGI: yes
+  pop:
+    religion: arianism
+    estate: peasant
+    size: 1000
+487.1.1:
+  owner: ITA
+  controller: ITA
+489.1.1:
+  owner: LOMB
+  controller: LOMB
+  cores:
+    RUGI: no
+    LOMB: yes
+  pop:
+    ethnicity: langobardi
+    estate: peasant
+    size: 1000
+568.1.1:
+  owner: AVR
+  controller: AVR
+  cores:
+    LOMB: no
+    AVR: yes
+  pop:
+    ethnicity: danube_bavarian
+    estate: peasant
+    size: 1000
+570.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+623.1.1:
+  owner: SAMO
+  controller: SAMO
+  cores:
+    AVR: no
+    SAMO: yes
+659.1.1:
+  owner: NITR
+  controller: NITR
+  cores:
+    SAMO: no
+    NITR: yes
+790.1.1:
+  owner: FRAN
+  controller: FRAN
+  cores:
+    NITR: no
+    FRAN: yes
+817.1.1:
+  owner: BAV
+  controller: BAV
+  cores:
+    FRAN: no
+    BAV: yes
+867.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+880.3.22:
+  owner: EFRA
+  controller: EFRA
+  cores:
+    EFRA: yes
+911.11.10:
+  owner: BAV
+  controller: BAV
+  cores:
+    EFRA: no
+    BAV: yes
+960.1.1:
+  owner: HAB
+  controller: HAB
+  cores:
+    BAV: no
+    HAB: yes
+1260.7.1:
+  owner: BOH
+  controller: BOH
+  cores:
+    BOH: yes
+1278.8.26:
+  owner: HAB
+  controller: HAB
+  cores:
+    BOH: no
+1938.3.12:
+  owner: GER
+  controller: GER
+  cores:
+    GER: yes
+1945.5.8:
+  owner: HAB
+  controller: HAB
+  cores:
+    GER: no

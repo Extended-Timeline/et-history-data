@@ -1,0 +1,138 @@
+#imported from EU4 file: history/provinces/4475 - Fathabad.txt
+2.1.1:
+  owner: VANG
+  controller: VANG
+  cores:
+    VANG: yes
+  resource: grain
+  pop:
+    ethnicity: bengali
+    religion: mahayana
+    estate: peasant
+    size: 1000
+315.1.1:
+  owner: BISH
+  controller: BISH
+  cores:
+    BISH: yes
+355.1.1:
+  owner: GUPT
+  controller: GUPT
+  cores:
+    BISH: no
+    GUPT: yes
+525.1.1:
+  owner: VANG
+  controller: VANG
+  cores:
+    GUPT: no
+    VANG: yes
+585.1.1:
+  owner: GAUD
+  controller: GAUD
+  cores:
+    VANG: no
+    GAUD: yes
+626.1.1:
+  owner: KAMA
+  controller: KAMA
+628.1.1:
+  owner: VANG
+  controller: VANG
+  cores:
+    GAUD: no
+    VANG: yes
+750.1.1:
+  owner: PALA
+  controller: PALA
+  cores:
+    VANG: no
+    PALA: yes
+950.1.1:
+  owner: VANG
+  controller: VANG
+  cores:
+    PALA: no
+    VANG: yes
+991.1.1:
+  owner: SAMT
+  controller: SAMT
+  cores:
+    VANG: no
+    SAMT: yes
+1150.1.1:
+  owner: GAUD
+  controller: GAUD
+  cores:
+    SAMT: no
+    GAUD: yes
+1160.1.1:
+  pop:
+    religion: hindu
+    estate: peasant
+    size: 1000
+1230.1.1:
+  owner: SAMT
+  controller: SAMT
+  cores:
+    GAUD: no
+    SAMT: yes
+1246.1.1:
+  owner: DLH
+  controller: DLH
+  cores:
+    DLH: yes
+    BNG: yes
+1287.1.1:
+  owner: BNG
+  controller: BNG
+  cores:
+    DLH: no
+1324.1.1:
+  owner: DLH
+  controller: DLH
+  cores:
+    DLH: yes
+1338.1.1:
+  owner: BNG
+  controller: BNG
+  cores:
+    DLH: no
+1560.1.1:
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+1576.7.12:
+  owner: MUG
+  controller: MUG
+  cores:
+    MUG: yes
+1624.1.1:
+  controller: MUG
+1658.12.28:
+  controller: MUG
+1707.3.15:
+  owner: BNG
+  controller: BNG
+1760.1.1:
+  owner: GBR
+  controller: GBR
+  cores:
+    MUG: no
+    GBR: yes
+1930.12.29:
+  cores:
+    BNG: no
+    PAKI: yes
+    BANG: yes
+1947.8.14:
+  owner: PAKI
+  controller: PAKI
+  cores:
+    GBR: no
+1971.3.26:
+  owner: BANG
+  controller: BANG
+  cores:
+    PAKI: no

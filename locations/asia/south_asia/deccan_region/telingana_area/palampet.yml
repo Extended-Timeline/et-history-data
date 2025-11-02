@@ -1,0 +1,95 @@
+#imported from EU4 file: history/provinces/2037 - Telingana.txt
+2.1.1:
+  owner: SATA
+  controller: SATA
+  cores:
+    SATA: yes
+  resource: cotton
+  pop:
+    ethnicity: telugu
+    religion: mahayana
+    estate: peasant
+    size: 1000
+220.1.1:
+  owner: RDY
+  controller: RDY
+  cores:
+    SATA: no
+    RDY: yes
+260.1.1:
+  pop:
+    religion: hindu
+    estate: peasant
+    size: 1000
+270.1.1:
+  owner: VAKA
+  controller: VAKA
+  cores:
+    RDY: no
+    VAKA: yes
+500.1.1:
+  owner: RDY
+  controller: RDY
+  cores:
+    VAKA: no
+    RDY: yes
+616.1.1:
+  owner: CHAL
+  controller: CHAL
+  cores:
+    RDY: no
+    CHAL: yes
+753.1.1:
+  owner: TELI
+  controller: TELI
+  cores:
+    CHAL: no
+    TELI: yes
+1324.1.1:
+  owner: DLH
+  controller: DLH
+  cores:
+    DLH: yes
+1336.1.1:
+  owner: TELI
+  controller: TELI
+  cores:
+    DLH: no
+1370.1.1:
+  owner: BAH
+  controller: BAH
+  cores:
+    BAH: yes
+1452.1.1:
+  owner: ORI
+  controller: ORI
+  cores:
+    ORI: yes
+1468.1.1:
+  owner: BAH
+  controller: BAH
+  cores:
+    BAH: yes
+1490.1.1:
+  owner: GOLC
+  controller: GOLC
+  cores:
+    BAH: no
+1686.1.1:
+  controller: MUG
+1687.1.1:
+  owner: MUG
+1712.1.1:
+  cores:
+    DEC: yes
+1724.1.1:
+  owner: DEC
+  controller: DEC
+1930.1.1:
+  cores:
+    INDI: yes
+1948.9.1:
+  owner: INDI
+  controller: INDI
+  cores:
+    DEC: no

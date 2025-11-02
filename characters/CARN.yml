@@ -1,0 +1,211 @@
+carn_muhammad_saadat_i_saadatullahid:
+  1680.1.1:
+    birth: kollam #TODO: Date and location guessed, check if better data is available
+    first_name: muhammad_saadat
+    dynasty: saadatullahid_dynasty
+    adm: 60
+    dip: 60
+    mil: 75
+    religion: sunni
+    culture: tamil
+  1732.1.1:
+    death: yes
+carn_dust_ali_khan_saadatullahid:
+  1700.1.1:
+    birth: kollam #TODO: Date and location guessed, check if better data is available
+    first_name: dust_ali_khan
+    dynasty: saadatullahid_dynasty
+    father: carn_muhammad_saadat_i_saadatullahid #TODO: check if this makes sense
+    adm: 45
+    dip: 60
+    mil: 60
+    religion: sunni
+    culture: tamil
+  1740.1.1:
+    death: yes
+carn_dust_ali_khan_saadatullahid_1:
+  1702.1.1:
+    birth: kollam #TODO: Date and location guessed, check if better data is available
+    first_name: dust_ali_khan
+    dynasty: saadatullahid_dynasty
+    adm: 45
+    dip: 60
+    mil: 60
+    religion: sunni
+    culture: tamil
+  1740.1.1:
+    death: yes
+carn_safdar_ali_khan_saadatullahid:
+  1720.1.1:
+    birth: kollam #TODO: Date and location guessed, check if better data is available
+    first_name: safdar_ali_khan
+    dynasty: saadatullahid_dynasty
+    father: carn_dust_ali_khan_saadatullahid_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 0
+    mil: 30
+    religion: sunni
+    culture: tamil
+  1742.10.2:
+    death: yes
+carn_safdar_ali_khan_saadatullahid_1:
+  1710.1.1:
+    birth: kollam #TODO: Date and location guessed, check if better data is available
+    first_name: safdar_ali_khan
+    dynasty: saadatullahid_dynasty
+    adm: 30
+    dip: 0
+    mil: 30
+    religion: sunni
+    culture: tamil
+  1742.10.2:
+    death: yes
+carn_muhammad_saadat_ii_saadatullahid:
+  1720.1.1:
+    birth: kollam #TODO: Date and location guessed, check if better data is available
+    first_name: muhammad_saadat
+    dynasty: saadatullahid_dynasty
+    father: carn_safdar_ali_khan_saadatullahid_1 #TODO: check if this makes sense
+    adm: 0
+    dip: 0
+    mil: 0
+    religion: sunni
+    culture: tamil
+  1744.7.4:
+    death: yes
+carn_muhammad_saadat_ii_saadatullahid_1:
+  1712.1.1:
+    birth: kollam #TODO: Date and location guessed, check if better data is available
+    first_name: muhammad_saadat
+    dynasty: saadatullahid_dynasty
+    adm: 0
+    dip: 0
+    mil: 0
+    religion: sunni
+    culture: tamil
+  1744.7.4:
+    death: yes
+carn_anwar_ad_din_muhammad_anwarudid:
+  1714.1.1:
+    birth: kollam #TODO: Date and location guessed, check if better data is available
+    first_name: anwar_ad_din_muhammad
+    dynasty: anwarudid_dynasty
+    adm: 60
+    dip: 15
+    mil: 60
+    religion: sunni
+    culture: tamil
+  1749.8.1:
+    death: yes
+carn_wala_jah_muhammad_ali_anwarudid:
+  1720.1.1:
+    birth: kollam #TODO: Date and location guessed, check if better data is available
+    first_name: wala_jah_muhammad_ali
+    dynasty: anwarudid_dynasty
+    father: carn_anwar_ad_din_muhammad_anwarudid #TODO: check if this makes sense
+    adm: 30
+    dip: 0
+    mil: 15
+    religion: sunni
+    culture: tamil
+  1795.1.1:
+    death: yes
+carn_chanda_sahib_anwarudid:
+  1719.1.1:
+    birth: kollam #TODO: Date and location guessed, check if better data is available
+    first_name: chanda_sahib
+    dynasty: anwarudid_dynasty
+    adm: 15
+    dip: 60
+    mil: 15
+    religion: sunni
+    culture: tamil
+  1754.8.2:
+    death: yes
+carn_wala_jah_muhammad_ali_anwarudid_1:
+  1724.1.1:
+    birth: kollam #TODO: Date and location guessed, check if better data is available
+    first_name: wala_jah_muhammad_ali
+    dynasty: anwarudid_dynasty
+    adm: 30
+    dip: 0
+    mil: 15
+    religion: sunni
+    culture: tamil
+  1795.10.16:
+    death: yes
+carn_umdat_ul_umra_anwarudid:
+  1760.1.1:
+    birth: kollam #TODO: Date and location guessed, check if better data is available
+    first_name: umdat_ul_umra
+    dynasty: anwarudid_dynasty
+    father: carn_wala_jah_muhammad_ali_anwarudid_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 15
+    mil: 30
+    religion: sunni
+    culture: tamil
+  1801.1.1:
+    death: yes
+carn_umdat_ul_umra_anwarudid_1:
+  1765.1.1:
+    birth: kollam #TODO: Date and location guessed, check if better data is available
+    first_name: umdat_ul_umra
+    dynasty: anwarudid_dynasty
+    adm: 30
+    dip: 15
+    mil: 30
+    religion: sunni
+    culture: tamil
+  1801.1.1:
+    death: yes
+carn_azimuddaula_anwarudid:
+  1780.1.1:
+    birth: kollam #TODO: Date and location guessed, check if better data is available
+    first_name: azimuddaula
+    dynasty: anwarudid_dynasty
+    father: carn_umdat_ul_umra_anwarudid_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 15
+    mil: 30
+    religion: sunni
+    culture: tamil
+  1819.1.1:
+    death: yes
+carn_azimuddaula_anwarudid_1:
+  1771.1.1:
+    birth: kollam #TODO: Date and location guessed, check if better data is available
+    first_name: azimuddaula
+    dynasty: anwarudid_dynasty
+    adm: 15
+    dip: 15
+    mil: 30
+    religion: sunni
+    culture: tamil
+  1819.1.1:
+    death: yes
+carn_azam_jah_anwarudid:
+  1801.1.1:
+    birth: kollam #TODO: Date and location guessed, check if better data is available
+    first_name: azam_jah
+    dynasty: anwarudid_dynasty
+    father: carn_azimuddaula_anwarudid_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 30
+    mil: 30
+    religion: sunni
+    culture: tamil
+  1825.1.1:
+    death: yes
+carn_azam_jah_anwarudid_1:
+  1789.1.1:
+    birth: kollam #TODO: Date and location guessed, check if better data is available
+    first_name: azam_jah
+    dynasty: anwarudid_dynasty
+    adm: 30
+    dip: 30
+    mil: 30
+    religion: sunni
+    culture: tamil
+  3000.1.1:
+    death: yes

@@ -1,0 +1,40 @@
+#imported from EU4 file: history/provinces/4049 - Ibo.txt
+2.1.1:
+  pop:
+    ethnicity: sandawe_culture
+    religion: bantu_religion
+    estate: peasant
+    size: 1000
+300.1.1:
+  pop:
+    ethnicity: swahili_culture
+    estate: peasant
+    size: 1000
+850.1.1:
+  owner: ZAN
+  controller: ZAN
+  cores:
+    ZAN: yes
+  resource: ivory
+1200.1.1:
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+1512.1.1:
+  owner: POR
+  controller: POR
+1537.1.1:
+  cores:
+    POR: yes
+1780.1.1:
+  resource: slaves
+1900.1.1:
+  resource: ivory
+1975.6.25:
+  owner: MOZA
+  controller: MOZA
+  cores:
+    POR: no
+    ZAN: no
+    MOZA: yes

@@ -1,0 +1,171 @@
+#imported from EU4 file: history/provinces/84 - Berg.txt
+2.1.1:
+  owner: SICA
+  controller: SICA
+  cores:
+    SICA: yes
+  resource: cloth
+  pop:
+    ethnicity: frankish
+    religion: germanic
+    estate: peasant
+    size: 1000
+290.1.1:
+  owner: FRAN
+  controller: FRAN
+  cores:
+    FRAN: yes
+400.1.1:
+  pop:
+    ethnicity: rhine_franconian
+    estate: peasant
+    size: 1000
+511.11.27:
+  owner: ASTS
+  controller: ASTS
+  cores:
+    ASTS: yes
+555.1.1:
+  owner: SOIS
+  controller: SOIS
+  cores:
+    SOIS: yes
+558.12.23:
+  owner: FRAN
+  controller: FRAN
+  cores:
+    SOIS: no
+    FRAN: yes
+561.11.29:
+  owner: ASTS
+  controller: ASTS
+600.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+613.10.10:
+  owner: FRAN
+  controller: FRAN
+  cores:
+    FRAN: yes
+623.1.1:
+  owner: ASTS
+  controller: ASTS
+629.10.18:
+  owner: FRAN
+  controller: FRAN
+634.1.1:
+  owner: ASTS
+  controller: ASTS
+679.12.23:
+  owner: FRAN
+  controller: FRAN
+840.6.21:
+  owner: EFRA
+  controller: EFRA
+  cores:
+    FRAN: no
+    EFRA: yes
+867.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+911.11.10:
+  owner: LOT
+  controller: LOT
+  cores:
+    EFRA: no
+    LOT: yes
+939.10.23:
+  owner: PAL
+  controller: PAL
+  cores:
+    LOT: no
+    PAL: yes
+1077.1.1:
+  owner: BRG
+  controller: BRG
+  cores:
+    PAL: no
+    BRG: yes
+1226.1.1:
+  owner: LIM
+  controller: LIM
+  cores:
+    LIM: yes
+1247.2.25:
+  owner: BRG
+  controller: BRG
+  cores:
+    LIM: no
+1511.9.6:
+  owner: KLE
+  controller: KLE
+  cores:
+    KLE: yes
+1610.1.1:
+  owner: PAL
+  controller: PAL
+  cores:
+    KLE: no
+    PAL: yes
+1777.12.30:
+  owner: BAV
+  controller: BAV
+  cores:
+    PAL: no
+    BAV: yes
+1795.1.1:
+  controller: FRA
+1796.9.7:
+  owner: FRA
+  cores:
+    BAV: no
+    FRA: yes
+1806.7.12:
+  owner: BRG
+  controller: BRG
+  cores:
+    FRA: no
+1808.8.1:
+  owner: FRA
+  controller: FRA
+  cores:
+    FRA: yes
+1809.1.1:
+  owner: BRG
+  controller: BRG
+  cores:
+    FRA: no
+1813.10.19:
+  owner: PRU
+  controller: PRU
+  cores:
+    PRU: yes
+1870.1.1:
+  resource: coal
+1871.1.18:
+  owner: GER
+  controller: GER
+  cores:
+    PRU: no
+    GER: yes
+1900.1.1:
+  cores:
+    KLE: no
+1920.1.1:
+  resource: cars
+1944.4.18:
+  controller: USA
+1945.5.8:
+  owner: WGER
+  controller: WGER
+  cores:
+    WGER: yes
+1990.10.3:
+  owner: GER
+  controller: GER
+  cores:
+    WGER: no

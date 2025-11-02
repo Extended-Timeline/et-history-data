@@ -1,0 +1,587 @@
+cas_fernan_gonzalez_beni_mamaduna:
+  901.1.1:
+    birth: toledo #TODO: Date and location guessed, check if better data is available
+    first_name: fernan_gonzalez
+    dynasty: beni_mamaduna_dynasty
+    adm: 45
+    dip: 15
+    mil: 60
+    religion: catholic
+    culture: castilian
+  970.1.1:
+    death: yes
+cas_garcia_fernandez_beni_mamaduna:
+  938.1.1:
+    birth: toledo #TODO: Date and location guessed, check if better data is available
+    first_name: garcia_fernandez
+    dynasty: beni_mamaduna_dynasty
+    father: cas_fernan_gonzalez_beni_mamaduna #TODO: check if this makes sense
+    adm: 15
+    dip: 75
+    mil: 60
+    religion: catholic
+    culture: castilian
+  995.1.1:
+    death: yes
+cas_garcia_fernandez_beni_mamaduna_1:
+  940.1.1:
+    birth: toledo #TODO: Date and location guessed, check if better data is available
+    first_name: garcia_fernandez
+    dynasty: beni_mamaduna_dynasty
+    adm: 15
+    dip: 75
+    mil: 60
+    religion: catholic
+    culture: castilian
+  995.1.1:
+    death: yes
+cas_sancho_garcia_beni_mamaduna:
+  960.1.1:
+    birth: toledo #TODO: Date and location guessed, check if better data is available
+    first_name: sancho_garcia
+    dynasty: beni_mamaduna_dynasty
+    father: cas_garcia_fernandez_beni_mamaduna_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 30
+    mil: 75
+    religion: catholic
+    culture: castilian
+  1017.1.1:
+    death: yes
+cas_sancho_garcia_beni_mamaduna_1:
+  965.1.1:
+    birth: toledo #TODO: Date and location guessed, check if better data is available
+    first_name: sancho_garcia
+    dynasty: beni_mamaduna_dynasty
+    adm: 15
+    dip: 30
+    mil: 75
+    religion: catholic
+    culture: castilian
+  1017.1.1:
+    death: yes
+cas_garcia_sanchez_beni_mamaduna:
+  980.1.1:
+    birth: toledo #TODO: Date and location guessed, check if better data is available
+    first_name: garcia_sanchez
+    dynasty: beni_mamaduna_dynasty
+    father: cas_sancho_garcia_beni_mamaduna_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 15
+    mil: 75
+    religion: catholic
+    culture: castilian
+  1029.1.1:
+    death: yes
+cas_garcia_sanchez_beni_mamaduna_1:
+  987.1.1:
+    birth: toledo #TODO: Date and location guessed, check if better data is available
+    first_name: garcia_sanchez
+    dynasty: beni_mamaduna_dynasty
+    adm: 45
+    dip: 15
+    mil: 75
+    religion: catholic
+    culture: castilian
+  1029.1.1:
+    death: yes
+cas_ferdinand_i_jimenez:
+  999.1.1:
+    birth: toledo #TODO: Date and location guessed, check if better data is available
+    first_name: ferdinand
+    dynasty: jimenez_dynasty
+    adm: 90
+    dip: 60
+    mil: 90
+    religion: catholic
+    culture: castilian
+  1065.12.24:
+    death: yes
+cas_sancho_ii_jimenez:
+  1036.1.1:
+    birth: toledo #TODO: Date and location guessed, check if better data is available
+    first_name: sancho
+    dynasty: jimenez_dynasty
+    father: cas_ferdinand_i_jimenez #TODO: check if this makes sense
+    adm: 60
+    dip: 45
+    mil: 45
+    religion: catholic
+    culture: castilian
+  1072.10.7:
+    death: yes
+cas_sancho_ii_jimenez_1:
+  1035.1.1:
+    birth: toledo #TODO: Date and location guessed, check if better data is available
+    first_name: sancho
+    dynasty: jimenez_dynasty
+    adm: 60
+    dip: 45
+    mil: 45
+    religion: catholic
+    culture: castilian
+  1157.8.21:
+    death: yes
+cas_sancho_iii_divrea:
+  1127.1.1:
+    birth: toledo #TODO: Date and location guessed, check if better data is available
+    first_name: sancho
+    dynasty: divrea_dynasty
+    adm: 30
+    dip: 30
+    mil: 60
+    religion: catholic
+    culture: castilian
+  1158.8.31:
+    death: yes
+cas_alfonso_viii_divrea:
+  1155.11.11:
+    birth: toledo #TODO: Location guessed, check if better data is available
+    first_name: alfonso
+    dynasty: divrea_dynasty
+    father: cas_sancho_iii_divrea #TODO: check if this makes sense
+    adm: 45
+    dip: 15
+    mil: 60
+    religion: catholic
+    culture: castilian
+  1214.10.5:
+    death: yes
+cas_alfonso_viii_divrea_1:
+  1128.1.1:
+    birth: toledo #TODO: Date and location guessed, check if better data is available
+    first_name: alfonso
+    dynasty: divrea_dynasty
+    adm: 45
+    dip: 15
+    mil: 60
+    religion: catholic
+    culture: castilian
+  1214.10.5:
+    death: yes
+cas_enrique_i_divrea:
+  1204.4.14:
+    birth: toledo #TODO: Location guessed, check if better data is available
+    first_name: enrique
+    dynasty: divrea_dynasty
+    father: cas_alfonso_viii_divrea_1 #TODO: check if this makes sense
+    adm: 75
+    dip: 30
+    mil: 60
+    religion: catholic
+    culture: castilian
+  1217.6.6:
+    death: yes
+cas_enrique_i_divrea_1:
+  1184.1.1:
+    birth: toledo #TODO: Date and location guessed, check if better data is available
+    first_name: enrique
+    dynasty: divrea_dynasty
+    adm: 75
+    dip: 30
+    mil: 60
+    religion: catholic
+    culture: castilian
+  1217.6.6:
+    death: yes
+cas_ferdinand_iii_divrea:
+  1199.8.5:
+    birth: toledo #TODO: Location guessed, check if better data is available
+    first_name: ferdinand
+    dynasty: divrea_dynasty
+    father: cas_enrique_i_divrea_1 #TODO: check if this makes sense
+    adm: 75
+    dip: 60
+    mil: 45
+    religion: catholic
+    culture: castilian
+  1252.5.30:
+    death: yes
+cas_ferdinand_iii_divrea_1:
+  1187.1.1:
+    birth: toledo #TODO: Date and location guessed, check if better data is available
+    first_name: ferdinand
+    dynasty: divrea_dynasty
+    adm: 75
+    dip: 60
+    mil: 45
+    religion: catholic
+    culture: castilian
+  1252.5.30:
+    death: yes
+cas_alfonso_x_divrea:
+  1221.11.23:
+    birth: toledo #TODO: Location guessed, check if better data is available
+    first_name: alfonso
+    dynasty: divrea_dynasty
+    father: cas_ferdinand_iii_divrea_1 #TODO: check if this makes sense
+    adm: 60
+    dip: 30
+    mil: 75
+    religion: catholic
+    culture: castilian
+  1284.4.4:
+    death: yes
+cas_alfonso_x_divrea_1:
+  1222.1.1:
+    birth: toledo #TODO: Date and location guessed, check if better data is available
+    first_name: alfonso
+    dynasty: divrea_dynasty
+    adm: 60
+    dip: 30
+    mil: 75
+    religion: catholic
+    culture: castilian
+  1284.4.4:
+    death: yes
+cas_sancho_iv_divrea:
+  1258.5.12:
+    birth: toledo #TODO: Location guessed, check if better data is available
+    first_name: sancho
+    dynasty: divrea_dynasty
+    father: cas_alfonso_x_divrea_1 #TODO: check if this makes sense
+    adm: 60
+    dip: 75
+    mil: 30
+    religion: catholic
+    culture: castilian
+  1295.4.25:
+    death: yes
+cas_sancho_iv_divrea_1:
+  1254.1.1:
+    birth: toledo #TODO: Date and location guessed, check if better data is available
+    first_name: sancho
+    dynasty: divrea_dynasty
+    adm: 60
+    dip: 75
+    mil: 30
+    religion: catholic
+    culture: castilian
+  1295.4.25:
+    death: yes
+cas_ferdinand_iv_divrea:
+  1285.12.6:
+    birth: toledo #TODO: Location guessed, check if better data is available
+    first_name: ferdinand
+    dynasty: divrea_dynasty
+    father: cas_sancho_iv_divrea_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 15
+    mil: 45
+    religion: catholic
+    culture: castilian
+  1312.9.7:
+    death: yes
+cas_ferdinand_iv_divrea_1:
+  1265.1.1:
+    birth: toledo #TODO: Date and location guessed, check if better data is available
+    first_name: ferdinand
+    dynasty: divrea_dynasty
+    adm: 45
+    dip: 15
+    mil: 45
+    religion: catholic
+    culture: castilian
+  1312.9.7:
+    death: yes
+cas_alfonso_xi_divrea:
+  1311.8.13:
+    birth: toledo #TODO: Location guessed, check if better data is available
+    first_name: alfonso
+    dynasty: divrea_dynasty
+    father: cas_ferdinand_iv_divrea_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 30
+    mil: 30
+    religion: catholic
+    culture: castilian
+  1350.3.26:
+    death: yes
+cas_alfonso_xi_divrea_1:
+  1282.1.1:
+    birth: toledo #TODO: Date and location guessed, check if better data is available
+    first_name: alfonso
+    dynasty: divrea_dynasty
+    adm: 15
+    dip: 30
+    mil: 30
+    religion: catholic
+    culture: castilian
+  1350.3.26:
+    death: yes
+cas_pedro_i_divrea:
+  1334.8.30:
+    birth: toledo #TODO: Location guessed, check if better data is available
+    first_name: pedro
+    dynasty: divrea_dynasty
+    father: cas_alfonso_xi_divrea_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 60
+    mil: 60
+    religion: catholic
+    culture: castilian
+  1369.3.23:
+    death: yes
+cas_pedro_i_divrea_1:
+  1320.1.1:
+    birth: toledo #TODO: Date and location guessed, check if better data is available
+    first_name: pedro
+    dynasty: divrea_dynasty
+    adm: 45
+    dip: 60
+    mil: 60
+    religion: catholic
+    culture: castilian
+  1366.3.29:
+    death: yes
+cas_enrique_ii_de_trastamara:
+  1336.1.1:
+    birth: toledo #TODO: Date and location guessed, check if better data is available
+    first_name: enrique
+    dynasty: de_trastamara_dynasty
+    adm: 30
+    dip: 75
+    mil: 75
+    religion: catholic
+    culture: castilian
+  1367.1.1:
+    death: yes
+cas_pedro_i_divrea_2:
+  1337.1.1:
+    birth: toledo #TODO: Date and location guessed, check if better data is available
+    first_name: pedro
+    dynasty: divrea_dynasty
+    adm: 45
+    dip: 60
+    mil: 60
+    religion: catholic
+    culture: castilian
+  1369.3.23:
+    death: yes
+cas_enrique_ii_de_trastamara_1:
+  1339.1.1:
+    birth: toledo #TODO: Date and location guessed, check if better data is available
+    first_name: enrique
+    dynasty: de_trastamara_dynasty
+    adm: 30
+    dip: 75
+    mil: 75
+    religion: catholic
+    culture: castilian
+  1379.5.29:
+    death: yes
+cas_juan_i_de_trastamara:
+  1358.8.24:
+    birth: toledo #TODO: Location guessed, check if better data is available
+    first_name: juan
+    dynasty: de_trastamara_dynasty
+    father: cas_enrique_ii_de_trastamara_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 15
+    mil: 75
+    religion: catholic
+    culture: castilian
+  1390.10.9:
+    death: yes
+cas_juan_i_de_trastamara_1:
+  1349.1.1:
+    birth: toledo #TODO: Date and location guessed, check if better data is available
+    first_name: juan
+    dynasty: de_trastamara_dynasty
+    adm: 30
+    dip: 15
+    mil: 75
+    religion: catholic
+    culture: castilian
+  1390.10.9:
+    death: yes
+cas_enrique_iii_de_trastamara:
+  1379.10.4:
+    birth: toledo #TODO: Location guessed, check if better data is available
+    first_name: enrique
+    dynasty: de_trastamara_dynasty
+    father: cas_juan_i_de_trastamara_1 #TODO: check if this makes sense
+    adm: 60
+    dip: 45
+    mil: 45
+    religion: catholic
+    culture: castilian
+  1406.12.25:
+    death: yes
+cas_enrique_iii_de_trastamara_1:
+  1360.1.1:
+    birth: toledo #TODO: Date and location guessed, check if better data is available
+    first_name: enrique
+    dynasty: de_trastamara_dynasty
+    adm: 45
+    dip: 30
+    mil: 30
+    religion: catholic
+    culture: castilian
+  3000.1.1:
+    death: yes
+cas_juan_ii_de_trastamara:
+  1405.3.6:
+    birth: toledo #TODO: Location guessed, check if better data is available
+    first_name: juan
+    dynasty: de_trastamara_dynasty
+    adm: 15
+    dip: 15
+    mil: 30
+    religion: catholic
+    culture: castilian
+  1454.7.20:
+    death: yes
+cas_maria_de_trastamara:
+  1396.1.1:
+    birth: toledo #TODO: Date and location guessed, check if better data is available
+    first_name: maria
+    dynasty: de_trastamara_dynasty
+    female: yes
+    adm: 30
+    dip: 30
+    mil: 30
+    religion: catholic
+    culture: castilian
+  1445.2.18:
+    death: yes
+  1418.6.2:
+    spouse: cas_juan_ii_de_trastamara #TODO: date guessed, see if better data is available
+cas_enrique_iv_de_trastamara:
+  1425.1.5:
+    birth: valladolid #TODO: Location guessed, check if better data is available
+    first_name: enrique
+    dynasty: de_trastamara_dynasty
+    adm: 0
+    dip: 0
+    mil: 0
+    religion: catholic
+    culture: castilian
+  1474.12.11:
+    death: yes
+cas_isabella_de_avis:
+  1396.1.1:
+    birth: toledo #TODO: Date and location guessed, check if better data is available
+    first_name: isabella
+    dynasty: de_avis_dynasty
+    female: yes
+    adm: 15
+    dip: 15
+    mil: 15
+    religion: catholic
+    culture: castilian
+  1445.2.18:
+    death: yes
+  1447.8.17:
+    spouse: cas_juan_ii_de_trastamara #TODO: date guessed, see if better data is available
+cas_joana_de_avis:
+  1439.3.20:
+    birth: toledo #TODO: Location guessed, check if better data is available
+    first_name: joana
+    dynasty: de_avis_dynasty
+    female: yes
+    adm: 15
+    dip: 15
+    mil: 15
+    religion: catholic
+    culture: castilian
+  1475.12.12:
+    death: yes
+  1454.7.20:
+    spouse: cas_enrique_iv_de_trastamara #TODO: date guessed, see if better data is available
+cas_isabel_i_de_trastamara:
+  1451.4.22:
+    birth: valladolid #TODO: Location guessed, check if better data is available
+    first_name: isabel
+    dynasty: de_trastamara_dynasty
+    female: yes
+    adm: 75
+    dip: 90
+    mil: 45
+    religion: catholic
+    culture: castilian
+  1504.11.26:
+    death: yes
+cas_ferran_de_trastamara:
+  1439.3.20:
+    birth: valladolid #TODO: Location guessed, check if better data is available
+    first_name: ferran
+    dynasty: de_trastamara_dynasty
+    female: no
+    adm: 60
+    dip: 90
+    mil: 75
+    religion: catholic
+    culture: castilian
+  1516.1.23:
+    death: yes
+  1474.12.11:
+    spouse: cas_isabel_i_de_trastamara #TODO: date guessed, see if better data is available
+cas_juana_i_de_trastamara:
+  1479.11.6:
+    birth: valladolid #TODO: Location guessed, check if better data is available
+    first_name: juana
+    dynasty: de_trastamara_dynasty
+    female: yes
+    adm: 0
+    dip: 0
+    mil: 0
+    religion: catholic
+    culture: castilian
+  1504.12.1:
+    death: yes
+    spouse: cas_felipe_i_von_habsburg #TODO: date guessed, see if better data is available
+cas_felipe_i_de_trastamara:
+  1478.7.22:
+    birth: valladolid #TODO: Location guessed, check if better data is available
+    first_name: felipe
+    dynasty: de_trastamara_dynasty
+    female: no
+    adm: 0
+    dip: 0
+    mil: 0
+    religion: catholic
+    culture: castilian
+  1506.9.25:
+    death: yes
+  1504.11.26:
+    spouse: cas_juana_i_de_trastamara #TODO: date guessed, see if better data is available
+cas_felipe_i_von_habsburg:
+  1478.7.22:
+    birth: toledo #TODO: Location guessed, check if better data is available
+    first_name: felipe
+    dynasty: von_habsburg_dynasty
+    adm: 0
+    dip: 0
+    mil: 0
+    religion: catholic
+    culture: castilian
+  1506.9.25:
+    death: yes
+cas_juana_i_de_trastamara_1:
+  1479.11.6:
+    birth: valladolid #TODO: Location guessed, check if better data is available
+    first_name: juana
+    dynasty: de_trastamara_dynasty
+    female: yes
+    adm: 0
+    dip: 0
+    mil: 0
+    religion: catholic
+    culture: castilian
+  1555.4.12:
+    death: yes
+  1504.12.1:
+    spouse: cas_felipe_i_von_habsburg #TODO: date guessed, see if better data is available
+cas_fernando_v_de_trastamara:
+  1452.3.10:
+    birth: toledo #TODO: Location guessed, check if better data is available
+    first_name: fernando
+    dynasty: de_trastamara_dynasty
+    adm: 60
+    dip: 90
+    mil: 75
+    religion: catholic
+    culture: castilian
+  3000.1.1:
+    death: yes

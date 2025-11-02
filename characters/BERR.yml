@@ -1,0 +1,112 @@
+berr_fath_allah_imad_malik_imad_shahi:
+  1460.1.1:
+    birth: illichpur #TODO: Date and location guessed, check if better data is available
+    first_name: fath_allah_imad_malik
+    dynasty: imad_shahi_dynasty
+    adm: 75
+    dip: 60
+    mil: 75
+    religion: sunni
+    culture: marathi_culture
+  1504.1.1:
+    death: yes
+berr_ala_ad_din_imad_shahi:
+  1480.1.1:
+    birth: illichpur #TODO: Date and location guessed, check if better data is available
+    first_name: ala_ad_din
+    dynasty: imad_shahi_dynasty
+    father: berr_fath_allah_imad_malik_imad_shahi #TODO: check if this makes sense
+    adm: 60
+    dip: 30
+    mil: 45
+    religion: sunni
+    culture: marathi_culture
+  1529.1.1:
+    death: yes
+berr_ala_ad_din_imad_shahi_1:
+  1474.1.1:
+    birth: illichpur #TODO: Date and location guessed, check if better data is available
+    first_name: ala_ad_din
+    dynasty: imad_shahi_dynasty
+    adm: 60
+    dip: 30
+    mil: 45
+    religion: sunni
+    culture: marathi_culture
+  1529.1.1:
+    death: yes
+berr_dariya_imad_shahi:
+  1504.1.1:
+    birth: illichpur #TODO: Date and location guessed, check if better data is available
+    first_name: dariya
+    dynasty: imad_shahi_dynasty
+    father: berr_ala_ad_din_imad_shahi_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 45
+    mil: 60
+    religion: sunni
+    culture: marathi_culture
+  1562.1.1:
+    death: yes
+berr_dariya_imad_shahi_1:
+  1499.1.1:
+    birth: illichpur #TODO: Date and location guessed, check if better data is available
+    first_name: dariya
+    dynasty: imad_shahi_dynasty
+    adm: 45
+    dip: 45
+    mil: 60
+    religion: sunni
+    culture: marathi_culture
+  1562.1.1:
+    death: yes
+berr_burkhan_imad_shahi:
+  1529.1.1:
+    birth: illichpur #TODO: Date and location guessed, check if better data is available
+    first_name: burkhan
+    dynasty: imad_shahi_dynasty
+    father: berr_dariya_imad_shahi_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 45
+    mil: 15
+    religion: sunni
+    culture: marathi_culture
+  1568.1.1:
+    death: yes
+berr_burkhan_imad_shah_imad_shahi:
+  1532.1.1:
+    birth: illichpur #TODO: Date and location guessed, check if better data is available
+    first_name: burkhan_imad_shah
+    dynasty: imad_shahi_dynasty
+    adm: 15
+    dip: 45
+    mil: 15
+    religion: sunni
+    culture: marathi_culture
+  1568.1.1:
+    death: yes
+berr_taufal_khan_imad_shahi:
+  1550.1.1:
+    birth: illichpur #TODO: Date and location guessed, check if better data is available
+    first_name: taufal_khan
+    dynasty: imad_shahi_dynasty
+    father: berr_burkhan_imad_shah_imad_shahi #TODO: check if this makes sense
+    adm: 15
+    dip: 15
+    mil: 30
+    religion: sunni
+    culture: marathi_culture
+  1626.1.1:
+    death: yes
+berr_taufal_khan_imad_shahi_1:
+  1538.1.1:
+    birth: illichpur #TODO: Date and location guessed, check if better data is available
+    first_name: taufal_khan
+    dynasty: imad_shahi_dynasty
+    adm: 15
+    dip: 15
+    mil: 30
+    religion: sunni
+    culture: marathi_culture
+  3000.1.1:
+    death: yes

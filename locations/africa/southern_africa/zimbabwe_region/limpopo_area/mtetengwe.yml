@@ -1,0 +1,48 @@
+#imported from EU4 file: history/provinces/3266 - Nyubi.txt
+2.1.1:
+  pop:
+    ethnicity: shuar_culture
+    religion: bantu_religion
+    estate: peasant
+    size: 1000
+300.1.1:
+  pop:
+    ethnicity: shona_culture
+    estate: peasant
+    size: 1000
+1690.1.1:
+  owner: RZW
+  controller: RZW
+  cores:
+    RZW: yes
+  resource: grain
+1840.1.1:
+  owner: MATB
+  controller: MATB
+  cores:
+    RZW: no
+    MATB: yes
+1894.1.1:
+  owner: GBR
+  controller: GBR
+  cores:
+    GBR: yes
+1950.1.1:
+  pop:
+    religion: lutheran
+    estate: peasant
+    size: 1000
+1965.11.11:
+  owner: RHOD
+  controller: RHOD
+  cores:
+    GBR: no
+    MUTA: no
+    RHOD: yes
+    ZMW: yes
+1980.4.18:
+  owner: ZMW
+  controller: ZMW
+  cores:
+    RHOD: no
+    ZMW: yes

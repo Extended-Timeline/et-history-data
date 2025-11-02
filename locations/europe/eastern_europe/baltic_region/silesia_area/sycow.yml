@@ -1,0 +1,136 @@
+#imported from EU4 file: history/provinces/264 - Breslau.txt
+2.1.1:
+  owner: VAND
+  controller: VAND
+  cores:
+    VAND: yes
+  resource: cloth
+  pop:
+    ethnicity: vandal
+    religion: germanic
+    estate: peasant
+    size: 1000
+395.1.1:
+  owner: NAHA
+  controller: NAHA
+  cores:
+    VAND: no
+    NAHA: yes
+500.1.1:
+  owner: SIL
+  controller: SIL
+  cores:
+    NAHA: no
+    SIL: yes
+  pop:
+    ethnicity: silesian
+    religion: slavic
+    estate: peasant
+    size: 1000
+940.1.1:
+  owner: BOH
+  controller: BOH
+  cores:
+    BOH: yes
+990.1.1:
+  owner: POL
+  controller: POL
+  cores:
+    BOH: no
+    POL: yes
+1020.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+1039.1.1:
+  owner: BOH
+  controller: BOH
+  cores:
+    BOH: yes
+1054.1.1:
+  owner: POL
+  controller: POL
+1163.1.1:
+  owner: SIL
+  controller: SIL
+  cores:
+    SIL: yes
+1232.1.1:
+  owner: POL
+  controller: POL
+1241.4.9:
+  owner: WRC
+  controller: WRC
+  cores:
+    POL: no
+    WRC: yes
+1290.6.23:
+  owner: LGC
+  controller: LGC
+  cores:
+    LGC: yes
+1311.1.1:
+  owner: WRC
+  controller: WRC
+  cores:
+    LGC: no
+1335.11.24:
+  owner: BOH
+  controller: BOH
+  cores:
+    BOH: yes
+1340.1.1:
+  pop:
+    ethnicity: german_silesian
+    estate: peasant
+    size: 1000
+1470.1.1:
+  resource: paper
+1526.8.30:
+  owner: HAB
+  controller: HAB
+  cores:
+    HAB: yes
+1618.5.23:
+  owner: BOH
+  controller: BOH
+  cores:
+    BOH: yes
+1620.11.8:
+  owner: HAB
+  controller: HAB
+  cores:
+    BOH: no
+1742.1.1:
+  owner: PRU
+  controller: PRU
+  cores:
+    PRU: yes
+1763.1.1:
+  cores:
+    HAB: no
+1871.1.18:
+  owner: GER
+  controller: GER
+  cores:
+    PRU: no
+    SIL: no
+    GER: yes
+1945.5.6:
+  controller: SOVI
+1945.5.8:
+  owner: POL
+  controller: POL
+  cores:
+    GER: no
+    POL: yes
+  pop:
+    ethnicity: lesser_polish
+    estate: peasant
+    size: 1000
+1950.1.1:
+  pop:
+    ethnicity: lesser_polish
+    estate: peasant
+    size: 1000

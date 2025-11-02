@@ -1,0 +1,67 @@
+#imported from EU4 file: history/provinces/4250 - Mologa.txt
+2.1.1:
+  pop:
+    ethnicity: merya_culture
+    religion: muinaisusko
+    estate: peasant
+    size: 1000
+600.1.1:
+  owner: MERY
+  controller: MERY
+  cores:
+    MERY: yes
+  resource: livestock
+990.1.1:
+  owner: KIEV
+  controller: KIEV
+  cores:
+    MERY: no
+    KIEV: yes
+1000.1.1:
+  pop:
+    religion: orthodox
+    estate: peasant
+    size: 1000
+1050.1.1:
+  pop:
+    ethnicity: muscovite
+    estate: peasant
+    size: 1000
+1054.2.20:
+  owner: VLR
+  controller: VLR
+  cores:
+    KIEV: no
+    VLR: yes
+1218.1.1:
+  owner: YAR
+  controller: YAR
+  cores:
+    VLR: no
+    YAR: yes
+1463.1.1:
+  owner: MOS
+  controller: MOS
+  cores:
+    YAR: no
+    MOS: yes
+1503.4.1:
+  owner: RUS
+  controller: RUS
+  cores:
+    MOS: no
+    RUS: yes
+1670.1.1:
+  controller: RUS
+1922.12.30:
+  owner: SOVI
+  controller: SOVI
+  cores:
+    RUS: no
+    SOVI: yes
+1991.12.25:
+  owner: RUS
+  controller: RUS
+  cores:
+    SOVI: no
+    RUS: yes

@@ -1,0 +1,74 @@
+#imported from EU4 file: history/provinces/342 - Toubkhal.txt
+2.1.1:
+  owner: MOOR
+  controller: MOOR
+  cores:
+    MOOR: yes
+  resource: grain
+  pop:
+    ethnicity: masmuda
+    religion: bantu_religion
+    estate: peasant
+    size: 1000
+720.1.1:
+  owner: UMAY
+  controller: UMAY
+740.1.1:
+  cores:
+    BARG: yes
+743.1.1:
+  owner: BARG
+  controller: BARG
+  cores:
+    UMAY: no
+780.1.1:
+  pop:
+    religion: ibadi
+    estate: peasant
+    size: 1000
+1058.7.27:
+  owner: MOR
+  controller: MOR
+  cores:
+    BARG: no
+    MOR: yes
+1080.1.1:
+  pop:
+    ethnicity: moroccan
+    religion: sunni
+    estate: peasant
+    size: 1000
+1472.1.1:
+  owner: FEZ
+  controller: FEZ
+  cores:
+    FEZ: yes
+1485.1.1:
+  owner: POR
+  controller: POR
+  cores:
+    FEZ: no
+    POR: yes
+1542.1.1:
+  owner: TFL
+  controller: TFL
+  cores:
+    TFL: yes
+1549.1.1:
+  owner: MOR
+  controller: MOR
+  cores:
+    TFL: no
+1638.10.26:
+  owner: FEZ
+  controller: FEZ
+1668.7.20:
+  owner: TFL
+  controller: TFL
+  cores:
+    TFL: yes
+1668.9.7:
+  owner: MOR
+  controller: MOR
+  cores:
+    TFL: no

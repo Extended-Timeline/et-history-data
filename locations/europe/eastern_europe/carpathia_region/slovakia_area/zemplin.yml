@@ -1,0 +1,126 @@
+#imported from EU4 file: history/provinces/162 - Zemplen.txt
+2.1.1:
+  owner: BAST
+  controller: BAST
+  cores:
+    BAST: yes
+  resource: grain
+  pop:
+    ethnicity: pannonian
+    religion: druidism
+    estate: peasant
+    size: 1000
+150.1.1:
+  pop:
+    ethnicity: gothic
+    religion: germanic
+    estate: peasant
+    size: 1000
+200.1.1:
+  owner: GEPI
+  controller: GEPI
+  cores:
+    BAST: no
+    GEPI: yes
+  pop:
+    ethnicity: gepid
+    estate: peasant
+    size: 1000
+469.1.1:
+  owner: SCIR
+  controller: SCIR
+  cores:
+    GEPI: no
+    SCIR: yes
+  pop:
+    ethnicity: scirian
+    estate: peasant
+    size: 1000
+567.1.1:
+  owner: AVR
+  controller: AVR
+  cores:
+    SCIR: no
+    AVR: yes
+  pop:
+    ethnicity: avar_culture
+    religion: 
+    estate: peasant
+    size: 1000
+750.1.1:
+  pop:
+    ethnicity: slovak
+    estate: peasant
+    size: 1000
+804.1.1:
+  owner: HUN
+  controller: HUN
+  cores:
+    AVR: no
+    HUN: yes
+1010.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+1526.8.30:
+  owner: HAB
+  controller: HAB
+  cores:
+    HAB: yes
+    TRA: yes
+1545.1.1:
+  pop:
+    religion: lutheran
+    estate: peasant
+    size: 1000
+1570.1.1:
+  cores:
+    TRA: no
+1606.1.1:
+  controller: HAB
+1626.1.1:
+  controller: HAB
+1640.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+1648.1.1:
+  owner: TRA
+  controller: TRA
+  cores:
+    HAB: no
+    TRA: yes
+1685.1.1:
+  owner: HAB
+  controller: HAB
+  cores:
+    TRA: no
+    HAB: yes
+1918.10.28:
+  owner: CZES
+  controller: CZES
+  cores:
+    HAB: no
+    HUN: no
+    CZES: yes
+1939.3.14:
+  owner: SLOK
+  controller: SLOK
+  cores:
+    SLOK: yes
+1939.4.4:
+  owner: HUN
+  controller: HUN
+1944.3.1:
+  owner: SLOK
+  controller: SLOK
+1945.5.8:
+  owner: CZES
+  controller: CZES
+1992.12.31:
+  owner: SLOK
+  controller: SLOK
+  cores:
+    CZES: no

@@ -1,0 +1,141 @@
+#imported from EU4 file: history/provinces/2988 - Tarragona.txt
+2.1.1:
+  owner: ROM
+  controller: ROM
+  cores:
+    ROM: yes
+  resource: wine
+  pop:
+    ethnicity: iberi
+    religion: hellenism_religion
+    estate: peasant
+    size: 1000
+360.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+395.1.17:
+  owner: ROMW
+  controller: ROMW
+  cores:
+    ROM: no
+    ROMW: yes
+456.1.1:
+  owner: VISG
+  controller: VISG
+  cores:
+    VISG: yes
+458.10.1:
+  owner: ROMW
+  controller: ROMW
+476.9.4:
+  owner: VISG
+  controller: VISG
+  cores:
+    ROMW: no
+    VISG: yes
+  pop:
+    religion: arianism
+    estate: peasant
+    size: 1000
+570.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+711.1.1:
+  owner: UMAY
+  controller: UMAY
+  cores:
+    VISG: no
+    UMAY: yes
+  pop:
+    ethnicity: catalan
+    estate: peasant
+    size: 1000
+750.8.6:
+  owner: CRDB
+  controller: CRDB
+  cores:
+    UMAY: no
+    CRDB: yes
+867.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+1010.1.1:
+  owner: TORT
+  controller: TORT
+  cores:
+    CRDB: no
+    TORT: yes
+1060.1.1:
+  owner: ZARA
+  controller: ZARA
+  cores:
+    ZARA: yes
+1081.1.1:
+  owner: TORT
+  controller: TORT
+  cores:
+    ZARA: no
+1115.1.1:
+  owner: MOR
+  controller: MOR
+  cores:
+    MOR: yes
+1117.1.1:
+  owner: CAT
+  controller: CAT
+  cores:
+    MOR: no
+    TORT: no
+    CAT: yes
+1137.8.11:
+  owner: ARA
+  controller: ARA
+  cores:
+    ARA: yes
+1413.1.1:
+  controller: ARA
+1462.4.11:
+  controller: CAS
+1466.6.30:
+  controller: PRO
+1472.10.16:
+  controller: ARA
+1516.1.23:
+  owner: SPA
+  controller: SPA
+  cores:
+    SPA: yes
+1641.1.1:
+  owner: FRA
+  controller: FRA
+  cores:
+    FRA: yes
+1652.10.11:
+  owner: SPA
+  controller: SPA
+  cores:
+    FRA: no
+1689.11.30:
+  controller: SPA
+1697.8.10:
+  controller: FRA
+1697.9.20:
+  controller: SPA
+1705.10.9:
+  controller: HAB
+1713.7.13:
+  cores:
+    ARA: no
+1714.9.11:
+  controller: SPA
+1813.12.11:
+  controller: SPA
+2012.1.1:
+  cores:
+    CAT: yes

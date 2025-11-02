@@ -1,0 +1,499 @@
+hes_heinrich_i_von_hessen:
+  1234.1.1:
+    birth: marburg #TODO: Date and location guessed, check if better data is available
+    first_name: heinrich
+    dynasty: von_hessen_dynasty
+    adm: 45
+    dip: 60
+    mil: 60
+    religion: catholic
+    culture: rhine_franconian
+  1308.12.21:
+    death: yes
+hes_otto_i_von_hessen:
+  1272.1.1:
+    birth: marburg #TODO: Date and location guessed, check if better data is available
+    first_name: otto
+    dynasty: von_hessen_dynasty
+    father: hes_heinrich_i_von_hessen #TODO: check if this makes sense
+    adm: 15
+    dip: 30
+    mil: 15
+    religion: catholic
+    culture: rhine_franconian
+  1328.1.17:
+    death: yes
+hes_otto_i_von_hessen_1:
+  1278.1.1:
+    birth: marburg #TODO: Date and location guessed, check if better data is available
+    first_name: otto
+    dynasty: von_hessen_dynasty
+    adm: 15
+    dip: 30
+    mil: 15
+    religion: catholic
+    culture: rhine_franconian
+  1328.1.17:
+    death: yes
+hes_heinrich_ii_von_hessen:
+  1299.1.1:
+    birth: marburg #TODO: Date and location guessed, check if better data is available
+    first_name: heinrich
+    dynasty: von_hessen_dynasty
+    father: hes_otto_i_von_hessen_1 #TODO: check if this makes sense
+    adm: 60
+    dip: 60
+    mil: 30
+    religion: catholic
+    culture: rhine_franconian
+  1376.6.3:
+    death: yes
+hes_heinrich_ii_von_hessen_1:
+  1298.1.1:
+    birth: marburg #TODO: Date and location guessed, check if better data is available
+    first_name: heinrich
+    dynasty: von_hessen_dynasty
+    adm: 60
+    dip: 60
+    mil: 30
+    religion: catholic
+    culture: rhine_franconian
+  1376.1.1:
+    death: yes
+hes_hermann_ii_von_hessen:
+  1341.1.1:
+    birth: marburg #TODO: Date and location guessed, check if better data is available
+    first_name: hermann
+    dynasty: von_hessen_dynasty
+    father: hes_heinrich_ii_von_hessen_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 45
+    mil: 45
+    religion: catholic
+    culture: rhine_franconian
+  1413.5.24:
+    death: yes
+hes_hermann_ii_von_hessen_1:
+  1346.1.1:
+    birth: marburg #TODO: Date and location guessed, check if better data is available
+    first_name: hermann
+    dynasty: von_hessen_dynasty
+    adm: 30
+    dip: 45
+    mil: 45
+    religion: catholic
+    culture: rhine_franconian
+  1413.5.24:
+    death: yes
+hes_ludwig_i_von_hessen:
+  1402.2.6:
+    birth: marburg #TODO: Location guessed, check if better data is available
+    first_name: ludwig
+    dynasty: von_hessen_dynasty
+    father: hes_hermann_ii_von_hessen_1 #TODO: check if this makes sense
+    adm: 60
+    dip: 45
+    mil: 45
+    religion: catholic
+    culture: rhine_franconian
+  1458.1.17:
+    death: yes
+hes_ludwig_i_von_hessen_1:
+  1383.1.1:
+    birth: marburg #TODO: Date and location guessed, check if better data is available
+    first_name: ludwig
+    dynasty: von_hessen_dynasty
+    adm: 60
+    dip: 45
+    mil: 45
+    religion: catholic
+    culture: rhine_franconian
+  1458.1.18:
+    death: yes
+hes_ludwig_ii_von_hessen:
+  1438.9.7:
+    birth: marburg #TODO: Location guessed, check if better data is available
+    first_name: ludwig
+    dynasty: von_hessen_dynasty
+    father: hes_ludwig_i_von_hessen_1 #TODO: check if this makes sense
+    adm: 60
+    dip: 60
+    mil: 15
+    religion: catholic
+    culture: rhine_franconian
+  1471.11.8:
+    death: yes
+hes_ludwig_ii_von_hessen_1:
+  1428.1.1:
+    birth: marburg #TODO: Date and location guessed, check if better data is available
+    first_name: ludwig
+    dynasty: von_hessen_dynasty
+    adm: 60
+    dip: 60
+    mil: 15
+    religion: catholic
+    culture: rhine_franconian
+  1471.11.9:
+    death: yes
+hes_wilhelm_i_von_hessen:
+  1466.7.4:
+    birth: marburg #TODO: Location guessed, check if better data is available
+    first_name: wilhelm
+    dynasty: von_hessen_dynasty
+    father: hes_ludwig_ii_von_hessen_1 #TODO: check if this makes sense
+    adm: 75
+    dip: 45
+    mil: 45
+    religion: catholic
+    culture: rhine_franconian
+  1515.2.8:
+    death: yes
+hes_wilhelm_i_von_hessen_1:
+  1441.1.1:
+    birth: marburg #TODO: Date and location guessed, check if better data is available
+    first_name: wilhelm
+    dynasty: von_hessen_dynasty
+    adm: 75
+    dip: 45
+    mil: 45
+    religion: catholic
+    culture: rhine_franconian
+  1493.6.4:
+    death: yes
+hes_wilhelm_ii_von_hessen:
+  1469.4.29:
+    birth: marburg #TODO: Location guessed, check if better data is available
+    first_name: wilhelm
+    dynasty: von_hessen_dynasty
+    father: hes_wilhelm_i_von_hessen_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 30
+    mil: 60
+    religion: catholic
+    culture: rhine_franconian
+  1509.7.11:
+    death: yes
+hes_wilhelm_ii_von_hessen_1:
+  1463.1.1:
+    birth: marburg #TODO: Date and location guessed, check if better data is available
+    first_name: wilhelm
+    dynasty: von_hessen_dynasty
+    adm: 30
+    dip: 30
+    mil: 60
+    religion: catholic
+    culture: rhine_franconian
+  1509.7.12:
+    death: yes
+hes_philipp_i_von_hessen:
+  1504.11.13:
+    birth: marburg #TODO: Location guessed, check if better data is available
+    first_name: philipp
+    dynasty: von_hessen_dynasty
+    father: hes_wilhelm_ii_von_hessen_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 60
+    mil: 75
+    religion: catholic
+    culture: rhine_franconian
+  1567.3.31:
+    death: yes
+hes_philipp_i_von_hessen_1:
+  1479.1.1:
+    birth: kassel #TODO: Date and location guessed, check if better data is available
+    first_name: philipp
+    dynasty: von_hessen_dynasty
+    adm: 15
+    dip: 60
+    mil: 75
+    religion: lutheran
+    culture: rhine_franconian
+  1567.3.30:
+    death: yes
+hes_wilhelm_iv_von_hessen_kassel:
+  1532.6.24:
+    birth: marburg #TODO: Location guessed, check if better data is available
+    first_name: wilhelm
+    dynasty: von_hessen_kassel_dynasty
+    father: hes_philipp_i_von_hessen_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 60
+    mil: 60
+    religion: lutheran
+    culture: rhine_franconian
+  1592.8.25:
+    death: yes
+hes_wilhelm_iv_von_hessen_kassel_1:
+  1537.1.1:
+    birth: kassel #TODO: Date and location guessed, check if better data is available
+    first_name: wilhelm
+    dynasty: von_hessen_kassel_dynasty
+    adm: 15
+    dip: 60
+    mil: 60
+    religion: lutheran
+    culture: rhine_franconian
+  1592.8.26:
+    death: yes
+hes_moritz_von_hessen_kassel:
+  1572.5.25:
+    birth: kassel #TODO: Location guessed, check if better data is available
+    first_name: moritz
+    dynasty: von_hessen_kassel_dynasty
+    father: hes_wilhelm_iv_von_hessen_kassel_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 30
+    mil: 15
+    religion: lutheran
+    culture: rhine_franconian
+  1632.3.15:
+    death: yes
+hes_moritz_von_hessen_kassel_1:
+  1562.1.1:
+    birth: kassel #TODO: Date and location guessed, check if better data is available
+    first_name: moritz
+    dynasty: von_hessen_kassel_dynasty
+    adm: 30
+    dip: 30
+    mil: 15
+    religion: lutheran
+    culture: rhine_franconian
+  1627.3.18:
+    death: yes
+hes_wilhelm_v_von_hessen_kassel:
+  1602.2.13:
+    birth: kassel #TODO: Location guessed, check if better data is available
+    first_name: wilhelm
+    dynasty: von_hessen_kassel_dynasty
+    father: hes_moritz_von_hessen_kassel_1 #TODO: check if this makes sense
+    adm: 60
+    dip: 75
+    mil: 30
+    religion: lutheran
+    culture: rhine_franconian
+  1637.9.21:
+    death: yes
+hes_wilhelm_v_von_hessen_kassel_1:
+  1597.1.1:
+    birth: kassel #TODO: Date and location guessed, check if better data is available
+    first_name: wilhelm
+    dynasty: von_hessen_kassel_dynasty
+    adm: 60
+    dip: 75
+    mil: 30
+    religion: lutheran
+    culture: rhine_franconian
+  1637.9.22:
+    death: yes
+hes_wilhelm_vi_von_hessen_kassel:
+  1629.5.23:
+    birth: kassel #TODO: Location guessed, check if better data is available
+    first_name: wilhelm
+    dynasty: von_hessen_kassel_dynasty
+    father: hes_wilhelm_v_von_hessen_kassel_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 30
+    mil: 60
+    religion: lutheran
+    culture: rhine_franconian
+  1663.7.16:
+    death: yes
+hes_wilhelm_vi_von_hessen_kassel_1:
+  1607.1.1:
+    birth: kassel #TODO: Date and location guessed, check if better data is available
+    first_name: wilhelm
+    dynasty: von_hessen_kassel_dynasty
+    adm: 15
+    dip: 30
+    mil: 60
+    religion: lutheran
+    culture: rhine_franconian
+  1663.7.17:
+    death: yes
+hes_wilhelm_vii_von_hessen_kassel:
+  1651.6.21:
+    birth: kassel #TODO: Location guessed, check if better data is available
+    first_name: wilhelm
+    dynasty: von_hessen_kassel_dynasty
+    father: hes_wilhelm_vi_von_hessen_kassel_1 #TODO: check if this makes sense
+    adm: 60
+    dip: 75
+    mil: 75
+    religion: lutheran
+    culture: rhine_franconian
+  1670.11.21:
+    death: yes
+hes_wilhem_vii_von_hessen_kassel:
+  1633.1.1:
+    birth: kassel #TODO: Date and location guessed, check if better data is available
+    first_name: wilhem
+    dynasty: von_hessen_kassel_dynasty
+    adm: 60
+    dip: 75
+    mil: 75
+    religion: lutheran
+    culture: rhine_franconian
+  1670.9.22:
+    death: yes
+hes_karl_von_hessen_kassel:
+  1654.8.3:
+    birth: kassel #TODO: Location guessed, check if better data is available
+    first_name: karl
+    dynasty: von_hessen_kassel_dynasty
+    father: hes_wilhem_vii_von_hessen_kassel #TODO: check if this makes sense
+    adm: 15
+    dip: 15
+    mil: 75
+    religion: lutheran
+    culture: rhine_franconian
+  1730.3.23:
+    death: yes
+hes_karl_von_hessen_kassel_1:
+  1640.1.1:
+    birth: kassel #TODO: Date and location guessed, check if better data is available
+    first_name: karl
+    dynasty: von_hessen_kassel_dynasty
+    adm: 15
+    dip: 15
+    mil: 75
+    religion: lutheran
+    culture: rhine_franconian
+  1751.3.26:
+    death: yes
+hes_fredrik_i_von_hesse_kassel:
+  1676.4.28:
+    birth: kassel #TODO: Location guessed, check if better data is available
+    first_name: fredrik
+    dynasty: von_hesse_kassel_dynasty
+    father: hes_karl_von_hessen_kassel_1 #TODO: check if this makes sense
+    adm: 60
+    dip: 45
+    mil: 75
+    religion: lutheran
+    culture: rhine_franconian
+  1751.4.5:
+    death: yes
+hes_wilhem_viii_von_hessen_kassel:
+  1721.1.1:
+    birth: kassel #TODO: Date and location guessed, check if better data is available
+    first_name: wilhem
+    dynasty: von_hessen_kassel_dynasty
+    adm: 45
+    dip: 60
+    mil: 15
+    religion: lutheran
+    culture: rhine_franconian
+  1760.2.1:
+    death: yes
+hes_friedrich_ii_von_hessen_kassel:
+  1720.8.14:
+    birth: kassel #TODO: Location guessed, check if better data is available
+    first_name: friedrich
+    dynasty: von_hessen_kassel_dynasty
+    father: hes_wilhem_viii_von_hessen_kassel #TODO: check if this makes sense
+    adm: 60
+    dip: 60
+    mil: 45
+    religion: lutheran
+    culture: rhine_franconian
+  1785.10.31:
+    death: yes
+hes_friedrich_ii_von_hessen_kassel_1:
+  1730.1.1:
+    birth: kassel #TODO: Date and location guessed, check if better data is available
+    first_name: friedrich
+    dynasty: von_hessen_kassel_dynasty
+    adm: 60
+    dip: 60
+    mil: 45
+    religion: lutheran
+    culture: rhine_franconian
+  1785.10.30:
+    death: yes
+hes_wilhelm_ix_von_hessen_kassel:
+  1743.6.3:
+    birth: kassel #TODO: Location guessed, check if better data is available
+    first_name: wilhelm
+    dynasty: von_hessen_kassel_dynasty
+    father: hes_friedrich_ii_von_hessen_kassel_1 #TODO: check if this makes sense
+    adm: 60
+    dip: 60
+    mil: 45
+    religion: lutheran
+    culture: rhine_franconian
+  1821.2.27:
+    death: yes
+hes_wilhelm_ix_von_hessen_kassel_1:
+  1755.1.1:
+    birth: kassel #TODO: Date and location guessed, check if better data is available
+    first_name: wilhelm
+    dynasty: von_hessen_kassel_dynasty
+    adm: 60
+    dip: 60
+    mil: 45
+    religion: lutheran
+    culture: rhine_franconian
+  1813.10.14:
+    death: yes
+hes_wilhelm_ii_von_hessen_kassel:
+  1777.7.28:
+    birth: kassel #TODO: Location guessed, check if better data is available
+    first_name: wilhelm
+    dynasty: von_hessen_kassel_dynasty
+    father: hes_wilhelm_i_von_hessen_kassel #TODO: check if this makes sense
+    adm: 15
+    dip: 30
+    mil: 75
+    religion: lutheran
+    culture: rhine_franconian
+  1847.11.20:
+    death: yes
+hes_wilhelm_i_von_hessen_kassel:
+  1783.1.1:
+    birth: kassel #TODO: Date and location guessed, check if better data is available
+    first_name: wilhelm
+    dynasty: von_hessen_kassel_dynasty
+    adm: 75
+    dip: 60
+    mil: 30
+    religion: lutheran
+    culture: rhine_franconian
+  1821.2.27:
+    death: yes
+hes_wilhelm_ii_von_hessen_kassel_1:
+  1791.1.1:
+    birth: kassel #TODO: Date and location guessed, check if better data is available
+    first_name: wilhelm
+    dynasty: von_hessen_kassel_dynasty
+    adm: 15
+    dip: 30
+    mil: 75
+    religion: lutheran
+    culture: rhine_franconian
+  1847.11.20:
+    death: yes
+hes_friedrich_wilhelm_von_hessen_kassel:
+  1802.8.20:
+    birth: kassel #TODO: Location guessed, check if better data is available
+    first_name: friedrich_wilhelm
+    dynasty: von_hessen_kassel_dynasty
+    father: hes_wilhelm_ii_von_hessen_kassel_1 #TODO: check if this makes sense
+    adm: 75
+    dip: 60
+    mil: 30
+    religion: lutheran
+    culture: rhine_franconian
+  1875.1.6:
+    death: yes
+hes_friedrich_wilhelm_von_hessen_kassel_1:
+  1817.1.1:
+    birth: kassel #TODO: Date and location guessed, check if better data is available
+    first_name: friedrich_wilhelm
+    dynasty: von_hessen_kassel_dynasty
+    adm: 75
+    dip: 60
+    mil: 30
+    religion: lutheran
+    culture: rhine_franconian
+  3000.1.1:
+    death: yes

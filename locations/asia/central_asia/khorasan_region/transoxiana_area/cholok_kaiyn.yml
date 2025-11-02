@@ -1,0 +1,142 @@
+#imported from EU4 file: history/provinces/2125 - Naryn.txt
+2.1.1:
+  owner: WUSU
+  controller: WUSU
+  cores:
+    WUSU: yes
+  resource: wool
+  pop:
+    ethnicity: tocharian
+    religion: 
+    estate: peasant
+    size: 1000
+495.1.1:
+  owner: HEPH
+  controller: HEPH
+  cores:
+    WUSU: no
+    HEPH: yes
+560.1.1:
+  owner: GOKT
+  controller: GOKT
+  cores:
+    HEPH: no
+    GOKT: yes
+593.1.1:
+  owner: WGOK
+  controller: WGOK
+  cores:
+    GOKT: no
+    WGOK: yes
+659.1.1:
+  owner: TURG
+  controller: TURG
+  cores:
+    WGOK: no
+    TURG: yes
+766.1.1:
+  owner: KARL
+  controller: KARL
+  cores:
+    TURG: no
+    KARL: yes
+840.1.1:
+  owner: KKHA
+  controller: KKHA
+  cores:
+    KARL: no
+    KKHA: yes
+  pop:
+    ethnicity: khitan
+    estate: peasant
+    size: 1000
+1100.1.1:
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+1137.1.1:
+  owner: KKHI
+  controller: KKHI
+  cores:
+    KKHA: no
+    KKHI: yes
+1219.1.1:
+  owner: MGE
+  controller: MGE
+  cores:
+    KKHI: no
+    MGE: yes
+  pop:
+    ethnicity: kyrgyz_culture
+    estate: peasant
+    size: 1000
+1260.1.1:
+  owner: CHG
+  controller: CHG
+  cores:
+    MGE: no
+    CHG: yes
+1347.1.1:
+  owner: MOGH
+  controller: MOGH
+  cores:
+    CHG: no
+    MOGH: yes
+1462.1.1:
+  owner: YARK
+  controller: YARK
+  cores:
+    YARK: yes
+1682.1.1:
+  owner: ZUNG
+  controller: ZUNG
+  cores:
+    ZUNG: yes
+1755.1.1:
+  owner: KAZA
+  controller: KAZA
+  cores:
+    KAZA: yes
+1810.1.1:
+  owner: KOKA
+  controller: KOKA
+  cores:
+    KAZA: no
+    KOKA: yes
+1862.1.1:
+  owner: RUS
+  controller: RUS
+  cores:
+    KOKA: no
+    RUS: yes
+1917.11.27:
+  owner: TUKS
+  controller: TUKS
+  cores:
+    TUKS: yes
+1918.2.22:
+  owner: RUS
+  controller: RUS
+  cores:
+    TUKS: no
+1922.12.30:
+  owner: SOVI
+  controller: SOVI
+  cores:
+    RUS: no
+    SOVI: yes
+1924.10.14:
+  cores:
+    KOKA: no
+    KYRG: yes
+  pop:
+    ethnicity: kyrgyz_culture
+    estate: peasant
+    size: 1000
+1991.8.31:
+  owner: KYRG
+  controller: KYRG
+  cores:
+    SOVI: no
+    RUS: no

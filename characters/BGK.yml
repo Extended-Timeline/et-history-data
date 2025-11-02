@@ -1,0 +1,419 @@
+bgk_oghadeva_uchchhakalpa:
+  330.1.1:
+    birth: ramnagar #TODO: Date and location guessed, check if better data is available
+    first_name: oghadeva
+    dynasty: uchchhakalpa_dynasty
+    adm: 0
+    dip: 60
+    mil: 60
+    religion: hindu
+    culture: bagheli
+  400.1.1:
+    death: yes
+bgk_kumaradeva_uchchhakalpa:
+  370.1.1:
+    birth: ramnagar #TODO: Date and location guessed, check if better data is available
+    first_name: kumaradeva
+    dynasty: uchchhakalpa_dynasty
+    adm: 0
+    dip: 15
+    mil: 15
+    religion: hindu
+    culture: bagheli
+  430.1.1:
+    death: yes
+bgk_jayasvamin_uchchhakalpa:
+  400.1.1:
+    birth: ramnagar #TODO: Date and location guessed, check if better data is available
+    first_name: jayasvamin
+    dynasty: uchchhakalpa_dynasty
+    adm: 60
+    dip: 0
+    mil: 45
+    religion: hindu
+    culture: bagheli
+  460.1.1:
+    death: yes
+bgk_vyaghra_uchchhakalpa:
+  430.1.1:
+    birth: ramnagar #TODO: Date and location guessed, check if better data is available
+    first_name: vyaghra
+    dynasty: uchchhakalpa_dynasty
+    adm: 0
+    dip: 0
+    mil: 30
+    religion: hindu
+    culture: bagheli
+  493.1.1:
+    death: yes
+bgk_jayanatha_uchchhakalpa:
+  463.1.1:
+    birth: ramnagar #TODO: Date and location guessed, check if better data is available
+    first_name: jayanatha
+    dynasty: uchchhakalpa_dynasty
+    adm: 0
+    dip: 15
+    mil: 0
+    religion: hindu
+    culture: bagheli
+  508.1.1:
+    death: yes
+bgk_sarvanatha_uchchhakalpa:
+  480.1.1:
+    birth: ramnagar #TODO: Date and location guessed, check if better data is available
+    first_name: sarvanatha
+    dynasty: uchchhakalpa_dynasty
+    adm: 30
+    dip: 75
+    mil: 60
+    religion: hindu
+    culture: bagheli
+  533.1.1:
+    death: yes
+bgk_virama_dev_baghela:
+  1410.1.1:
+    birth: ramnagar #TODO: Date and location guessed, check if better data is available
+    first_name: virama_dev
+    dynasty: baghela_dynasty
+    adm: 30
+    dip: 30
+    mil: 45
+    religion: hindu
+    culture: bagheli
+  1495.1.1:
+    death: yes
+bgk_shaktivan_deo_baghela:
+  1440.1.1:
+    birth: ramnagar #TODO: Date and location guessed, check if better data is available
+    first_name: shaktivan_deo
+    dynasty: baghela_dynasty
+    father: bgk_virama_dev_baghela #TODO: check if this makes sense
+    adm: 15
+    dip: 15
+    mil: 30
+    religion: hindu
+    culture: bagheli
+  1500.1.1:
+    death: yes
+bgk_shaktivan_deo_baghela_1:
+  1465.1.1:
+    birth: ramnagar #TODO: Date and location guessed, check if better data is available
+    first_name: shaktivan_deo
+    dynasty: baghela_dynasty
+    adm: 15
+    dip: 15
+    mil: 30
+    religion: hindu
+    culture: bagheli
+  1500.1.1:
+    death: yes
+bgk_veer_singh_baghela:
+  1495.1.1:
+    birth: ramnagar #TODO: Date and location guessed, check if better data is available
+    first_name: veer_singh
+    dynasty: baghela_dynasty
+    father: bgk_shaktivan_deo_baghela_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 45
+    mil: 45
+    religion: hindu
+    culture: bagheli
+  1540.1.1:
+    death: yes
+bgk_veer_singh_baghela_1:
+  1470.1.1:
+    birth: ramnagar #TODO: Date and location guessed, check if better data is available
+    first_name: veer_singh
+    dynasty: baghela_dynasty
+    adm: 15
+    dip: 45
+    mil: 45
+    religion: hindu
+    culture: bagheli
+  1540.1.1:
+    death: yes
+bgk_virbhan_singh_baghela:
+  1500.1.1:
+    birth: ramnagar #TODO: Date and location guessed, check if better data is available
+    first_name: virbhan_singh
+    dynasty: baghela_dynasty
+    father: bgk_veer_singh_baghela_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 30
+    mil: 15
+    religion: hindu
+    culture: bagheli
+  1555.1.1:
+    death: yes
+bgk_virbhan_singh_baghela_1:
+  1510.1.1:
+    birth: ramnagar #TODO: Date and location guessed, check if better data is available
+    first_name: virbhan_singh
+    dynasty: baghela_dynasty
+    adm: 30
+    dip: 30
+    mil: 15
+    religion: hindu
+    culture: bagheli
+  1555.1.1:
+    death: yes
+bgk_ramachandra_singh_baghela:
+  1500.1.1:
+    birth: ramnagar #TODO: Date and location guessed, check if better data is available
+    first_name: ramachandra_singh
+    dynasty: baghela_dynasty
+    father: bgk_virbhan_singh_baghela_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 30
+    mil: 60
+    religion: hindu
+    culture: bagheli
+  1555.1.1:
+    death: yes
+bgk_ramachandra_singh_baghela_1:
+  1525.1.1:
+    birth: ramnagar #TODO: Date and location guessed, check if better data is available
+    first_name: ramachandra_singh
+    dynasty: baghela_dynasty
+    adm: 45
+    dip: 30
+    mil: 60
+    religion: hindu
+    culture: bagheli
+  1592.1.1:
+    death: yes
+bgk_duryodhan_singh_baghela:
+  1555.1.1:
+    birth: ramnagar #TODO: Date and location guessed, check if better data is available
+    first_name: duryodhan_singh
+    dynasty: baghela_dynasty
+    father: bgk_ramachandra_singh_baghela_1 #TODO: check if this makes sense
+    adm: 0
+    dip: 45
+    mil: 15
+    religion: hindu
+    culture: bagheli
+  1618.1.1:
+    death: yes
+bgk_duryodhan_singh_baghela_1:
+  1562.1.1:
+    birth: ramnagar #TODO: Date and location guessed, check if better data is available
+    first_name: duryodhan_singh
+    dynasty: baghela_dynasty
+    adm: 0
+    dip: 45
+    mil: 15
+    religion: hindu
+    culture: bagheli
+  1618.1.1:
+    death: yes
+bgk_vikramaditya_baghela:
+  1592.1.1:
+    birth: ramnagar #TODO: Date and location guessed, check if better data is available
+    first_name: vikramaditya
+    dynasty: baghela_dynasty
+    father: bgk_duryodhan_singh_baghela_1 #TODO: check if this makes sense
+    adm: 0
+    dip: 45
+    mil: 15
+    religion: hindu
+    culture: bagheli
+  1630.1.1:
+    death: yes
+bgk_vikramaditya_baghela_1:
+  1588.1.1:
+    birth: ramnagar #TODO: Date and location guessed, check if better data is available
+    first_name: vikramaditya
+    dynasty: baghela_dynasty
+    adm: 30
+    dip: 45
+    mil: 0
+    religion: hindu
+    culture: bagheli
+  1630.1.1:
+    death: yes
+bgk_amar_singh_ii_baghela:
+  1618.1.1:
+    birth: ramnagar #TODO: Date and location guessed, check if better data is available
+    first_name: amar_singh
+    dynasty: baghela_dynasty
+    father: bgk_vikramaditya_baghela_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 45
+    mil: 30
+    religion: hindu
+    culture: bagheli
+  1643.1.1:
+    death: yes
+bgk_amar_singh_ii_baghela_1:
+  1600.1.1:
+    birth: ramnagar #TODO: Date and location guessed, check if better data is available
+    first_name: amar_singh
+    dynasty: baghela_dynasty
+    adm: 30
+    dip: 45
+    mil: 30
+    religion: hindu
+    culture: bagheli
+  1643.1.1:
+    death: yes
+bgk_anoop_singh_baghela:
+  1630.1.1:
+    birth: ramnagar #TODO: Date and location guessed, check if better data is available
+    first_name: anoop_singh
+    dynasty: baghela_dynasty
+    father: bgk_amar_singh_ii_baghela_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 30
+    mil: 0
+    religion: hindu
+    culture: bagheli
+  1660.1.1:
+    death: yes
+bgk_anoop_singh_baghela_1:
+  1613.1.1:
+    birth: ramnagar #TODO: Date and location guessed, check if better data is available
+    first_name: anoop_singh
+    dynasty: baghela_dynasty
+    adm: 30
+    dip: 30
+    mil: 0
+    religion: hindu
+    culture: bagheli
+  1660.1.1:
+    death: yes
+bgk_bhao_singh_baghela:
+  1643.1.1:
+    birth: ramnagar #TODO: Date and location guessed, check if better data is available
+    first_name: bhao_singh
+    dynasty: baghela_dynasty
+    father: bgk_anoop_singh_baghela_1 #TODO: check if this makes sense
+    adm: 0
+    dip: 60
+    mil: 75
+    religion: hindu
+    culture: bagheli
+  1690.1.1:
+    death: yes
+bgk_bhao_singh_baghela_1:
+  1630.1.1:
+    birth: ramnagar #TODO: Date and location guessed, check if better data is available
+    first_name: bhao_singh
+    dynasty: baghela_dynasty
+    adm: 0
+    dip: 60
+    mil: 75
+    religion: hindu
+    culture: bagheli
+  1690.1.1:
+    death: yes
+bgk_anirudh_singh_baghela:
+  1660.1.1:
+    birth: ramnagar #TODO: Date and location guessed, check if better data is available
+    first_name: anirudh_singh
+    dynasty: baghela_dynasty
+    adm: 60
+    dip: 60
+    mil: 0
+    religion: hindu
+    culture: bagheli
+  1700.1.1:
+    death: yes
+bgk_avadhut_singh_baghela:
+  1690.1.1:
+    birth: ramnagar #TODO: Date and location guessed, check if better data is available
+    first_name: avadhut_singh
+    dynasty: baghela_dynasty
+    father: bgk_anirudh_singh_baghela #TODO: check if this makes sense
+    adm: 30
+    dip: 30
+    mil: 30
+    religion: hindu
+    culture: bagheli
+  1755.1.1:
+    death: yes
+bgk_avadhut_singh_baghela_1:
+  1670.1.1:
+    birth: ramnagar #TODO: Date and location guessed, check if better data is available
+    first_name: avadhut_singh
+    dynasty: baghela_dynasty
+    adm: 30
+    dip: 30
+    mil: 30
+    religion: hindu
+    culture: bagheli
+  1755.1.1:
+    death: yes
+bgk_ajit_singh_baghela:
+  1720.1.1:
+    birth: ramnagar #TODO: Date and location guessed, check if better data is available
+    first_name: ajit_singh
+    dynasty: baghela_dynasty
+    father: bgk_avadhut_singh_baghela_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 15
+    mil: 15
+    religion: hindu
+    culture: bagheli
+  1809.1.1:
+    death: yes
+bgk_ajit_singh_baghela_1:
+  1725.1.1:
+    birth: ramnagar #TODO: Date and location guessed, check if better data is available
+    first_name: ajit_singh
+    dynasty: baghela_dynasty
+    adm: 15
+    dip: 15
+    mil: 15
+    religion: hindu
+    culture: bagheli
+  1809.1.1:
+    death: yes
+bgk_jai_singh_baghela:
+  1765.1.4:
+    birth: ramnagar #TODO: Location guessed, check if better data is available
+    first_name: jai_singh
+    dynasty: baghela_dynasty
+    adm: 30
+    dip: 45
+    mil: 30
+    religion: hindu
+    culture: bagheli
+  1835.1.1:
+    death: yes
+bgk_vishwanath_singh_baghela:
+  1789.1.1:
+    birth: ramnagar #TODO: Date and location guessed, check if better data is available
+    first_name: vishwanath_singh
+    dynasty: baghela_dynasty
+    adm: 15
+    dip: 60
+    mil: 60
+    religion: hindu
+    culture: bagheli
+  1876.1.1:
+    death: yes
+bgk_raghuraj_singh_baghela:
+  1831.1.1:
+    birth: ramnagar #TODO: Date and location guessed, check if better data is available
+    first_name: raghuraj_singh
+    dynasty: baghela_dynasty
+    adm: 45
+    dip: 0
+    mil: 45
+    religion: hindu
+    culture: bagheli
+  1880.2.5:
+    death: yes
+bgk_venkat_raman_ramanuj_prasad_singh_baghela:
+  1876.7.23:
+    birth: ramnagar #TODO: Location guessed, check if better data is available
+    first_name: venkat_raman_ramanuj_prasad_singh
+    dynasty: baghela_dynasty
+    adm: 15
+    dip: 15
+    mil: 60
+    religion: hindu
+    culture: bagheli
+  1948.1.1:
+    death: yes

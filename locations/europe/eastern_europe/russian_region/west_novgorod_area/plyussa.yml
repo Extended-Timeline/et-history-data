@@ -1,0 +1,64 @@
+#imported from EU4 file: history/provinces/311 - Kholm.txt
+2.1.1:
+  pop:
+    ethnicity: novgorodian
+    religion: slavic
+    estate: peasant
+    size: 1000
+550.1.1:
+  owner: ILME
+  controller: ILME
+  cores:
+    ILME: yes
+  resource: naval_supplies
+860.1.1:
+  owner: NOV
+  controller: NOV
+  cores:
+    ILME: no
+    NOV: yes
+882.1.1:
+  owner: KIEV
+  controller: KIEV
+  cores:
+    NOV: no
+    KIEV: yes
+1000.1.1:
+  pop:
+    religion: orthodox
+    estate: peasant
+    size: 1000
+1054.2.20:
+  owner: NOV
+  controller: NOV
+  cores:
+    KIEV: no
+    NOV: yes
+1478.1.15:
+  owner: MOS
+  controller: MOS
+  cores:
+    NOV: no
+    MOS: yes
+1503.4.1:
+  owner: RUS
+  controller: RUS
+  cores:
+    MOS: no
+    RUS: yes
+1922.12.30:
+  owner: SOVI
+  controller: SOVI
+  cores:
+    RUS: no
+    SOVI: yes
+1941.8.9:
+  controller: GER
+1944.2.18:
+  controller: SOVI
+1991.12.25:
+  owner: RUS
+  controller: RUS
+  cores:
+    SOVI: no
+    RUS: yes

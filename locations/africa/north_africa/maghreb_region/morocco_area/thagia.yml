@@ -1,0 +1,103 @@
+#imported from EU4 file: history/provinces/2467 - Meknes.txt
+2.1.1:
+  owner: MOOR
+  controller: MOOR
+  cores:
+    MOOR: yes
+  resource: cloth
+  pop:
+    ethnicity: zenati
+    religion: bantu_religion
+    estate: peasant
+    size: 1000
+320.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+708.1.1:
+  owner: UMAY
+  controller: UMAY
+  cores:
+    MOOR: no
+    UMAY: yes
+730.1.1:
+  pop:
+    religion: ibadi
+    estate: peasant
+    size: 1000
+743.1.1:
+  owner: FEZ
+  controller: FEZ
+  cores:
+    UMAY: no
+    FEZ: yes
+789.1.1:
+  owner: MOR
+  controller: MOR
+  cores:
+    FEZ: no
+    MOR: yes
+  pop:
+    ethnicity: moroccan
+    estate: peasant
+    size: 1000
+790.1.1:
+  pop:
+    religion: shia
+    estate: peasant
+    size: 1000
+922.1.1:
+  owner: FATI
+  controller: FATI
+925.1.1:
+  owner: MOR
+  controller: MOR
+927.1.1:
+  owner: FATI
+  controller: FATI
+937.1.1:
+  owner: MOR
+  controller: MOR
+974.1.1:
+  owner: CRDB
+  controller: CRDB
+  cores:
+    MOR: no
+    CRDB: yes
+1031.1.1:
+  owner: FEZ
+  controller: FEZ
+  cores:
+    CRDB: no
+    FEZ: yes
+1040.1.1:
+  owner: MOR
+  controller: MOR
+  cores:
+    FEZ: no
+    MOR: yes
+1050.1.1:
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+1472.1.1:
+  owner: FEZ
+  controller: FEZ
+1549.1.1:
+  owner: MOR
+  controller: MOR
+1638.10.26:
+  owner: FEZ
+  controller: FEZ
+1666.6.6:
+  owner: TFL
+  controller: TFL
+  cores:
+    TFL: yes
+1668.9.7:
+  owner: MOR
+  controller: MOR
+  cores:
+    TFL: no

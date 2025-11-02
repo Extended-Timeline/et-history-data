@@ -1,0 +1,109 @@
+#imported from EU4 file: history/provinces/2184 - Xining.txt
+2.1.1:
+  owner: QIAN
+  controller: QIAN
+  cores:
+    QIAN: yes
+  resource: salt
+  pop:
+    ethnicity: amdowa_culture
+    religion: bon
+    estate: peasant
+    size: 1000
+284.1.1:
+  owner: TUYU
+  controller: TUYU
+  cores:
+    QIAN: no
+    TUYU: yes
+670.1.1:
+  owner: TIB
+  controller: TIB
+  cores:
+    TIB: yes
+800.1.1:
+  pop:
+    religion: tibetan_buddhism
+    estate: peasant
+    size: 1000
+842.1.1:
+  owner: PHAG
+  controller: PHAG
+  cores:
+    TIB: no
+    PHAG: yes
+850.1.1:
+  owner: GUIY
+  controller: GUIY
+  cores:
+    PHAG: no
+    GUIY: yes
+894.1.1:
+  owner: GANS
+  controller: GANS
+  cores:
+    GUIY: no
+    GANS: yes
+906.1.1:
+  owner: LIUG
+  controller: LIUG
+  cores:
+    GANS: no
+    LIUG: yes
+997.1.1:
+  owner: TSON
+  controller: TSON
+  cores:
+    LIUG: no
+    TSON: yes
+1104.1.1:
+  owner: SONG
+  controller: SONG
+  cores:
+    SONG: yes
+1227.1.1:
+  owner: MGE
+  controller: MGE
+  cores:
+    MGE: yes
+    CSH: yes
+1271.1.1:
+  owner: YUA
+  controller: YUA
+  cores:
+    MGE: no
+    YUA: yes
+1368.1.23:
+  owner: MGE
+  controller: MGE
+  cores:
+    YUA: no
+    MGE: yes
+1382.1.1:
+  owner: MNG
+  controller: MNG
+  cores:
+    MGE: no
+    MNG: yes
+1390.1.1:
+  pop:
+    ethnicity: xibei
+    estate: peasant
+    size: 1000
+1644.1.1:
+  owner: CSH
+  controller: CSH
+1645.2.1:
+  owner: QNG
+  controller: QNG
+  cores:
+    QNG: yes
+1912.2.12:
+  owner: CHI
+  controller: CHI
+  cores:
+    QNG: no
+    CSH: no
+    CHI: yes
+1949.10.1:
+  controller: CHI

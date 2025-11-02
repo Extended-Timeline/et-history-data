@@ -1,0 +1,86 @@
+the_bonifacio_i_aleramici:
+  1150.1.1:
+    birth: thessaloniki #TODO: Date and location guessed, check if better data is available
+    first_name: bonifacio
+    dynasty: aleramici_dynasty
+    adm: 30
+    dip: 45
+    mil: 75
+    religion: catholic
+    culture: piedmontese
+  1207.9.4:
+    death: yes
+the_demetrio_i_aleramici:
+  1205.1.1:
+    birth: thessaloniki #TODO: Date and location guessed, check if better data is available
+    first_name: demetrio
+    dynasty: aleramici_dynasty
+    adm: 15
+    dip: 30
+    mil: 30
+    religion: orthodox
+    culture: greek_culture
+  1230.1.1:
+    death: yes
+the_theodoros_i_komnenos_doukas:
+  1194.1.1:
+    birth: thessaloniki #TODO: Date and location guessed, check if better data is available
+    first_name: theodoros
+    dynasty: komnenos_doukas_dynasty
+    adm: 30
+    dip: 30
+    mil: 75
+    religion: orthodox
+    culture: greek_culture
+  1230.1.1:
+    death: yes
+the_manouel_i_komnenos_doukas:
+  1187.1.1:
+    birth: thessaloniki #TODO: Date and location guessed, check if better data is available
+    first_name: manouel
+    dynasty: komnenos_doukas_dynasty
+    father: the_theodoros_i_komnenos_doukas #TODO: check if this makes sense
+    adm: 45
+    dip: 75
+    mil: 75
+    religion: orthodox
+    culture: greek_culture
+  1241.1.1:
+    death: yes
+the_manouel_i_komnenos_doukas_1:
+  1200.1.1:
+    birth: thessaloniki #TODO: Date and location guessed, check if better data is available
+    first_name: manouel
+    dynasty: komnenos_doukas_dynasty
+    adm: 45
+    dip: 75
+    mil: 75
+    religion: orthodox
+    culture: greek_culture
+  1237.1.1:
+    death: yes
+the_ioannes_i_komnenos_doukas:
+  1200.1.1:
+    birth: thessaloniki #TODO: Date and location guessed, check if better data is available
+    first_name: ioannes
+    dynasty: komnenos_doukas_dynasty
+    father: the_manouel_i_komnenos_doukas_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 45
+    mil: 30
+    religion: orthodox
+    culture: greek_culture
+  1241.1.1:
+    death: yes
+the_ioannes_i_komnenos_doukas_1:
+  1207.1.1:
+    birth: thessaloniki #TODO: Date and location guessed, check if better data is available
+    first_name: ioannes
+    dynasty: komnenos_doukas_dynasty
+    adm: 45
+    dip: 45
+    mil: 30
+    religion: orthodox
+    culture: greek_culture
+  3000.1.1:
+    death: yes

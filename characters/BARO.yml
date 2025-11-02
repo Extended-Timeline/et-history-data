@@ -1,0 +1,299 @@
+baro_pilaji_rao_gaekwad:
+  1691.1.1:
+    birth: baroda #TODO: Date and location guessed, check if better data is available
+    first_name: pilaji_rao
+    dynasty: gaekwad_dynasty
+    adm: 60
+    dip: 45
+    mil: 60
+    religion: hindu
+    culture: gujarati
+  1732.5.14:
+    death: yes
+baro_damaji_rao_ii_gaekwad:
+  1720.1.1:
+    birth: baroda #TODO: Date and location guessed, check if better data is available
+    first_name: damaji_rao
+    dynasty: gaekwad_dynasty
+    father: baro_pilaji_rao_gaekwad #TODO: check if this makes sense
+    adm: 0
+    dip: 15
+    mil: 0
+    religion: hindu
+    culture: gujarati
+  1768.8.18:
+    death: yes
+baro_damaji_rao_ii_gaekwad_1:
+  1702.1.1:
+    birth: baroda #TODO: Date and location guessed, check if better data is available
+    first_name: damaji_rao
+    dynasty: gaekwad_dynasty
+    adm: 0
+    dip: 15
+    mil: 0
+    religion: hindu
+    culture: gujarati
+  1768.8.18:
+    death: yes
+baro_sayaji_rao_i_gaekwad:
+  1750.1.1:
+    birth: baroda #TODO: Date and location guessed, check if better data is available
+    first_name: sayaji_rao
+    dynasty: gaekwad_dynasty
+    father: baro_damaji_rao_ii_gaekwad_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 15
+    mil: 30
+    religion: hindu
+    culture: gujarati
+  1778.1.1:
+    death: yes
+baro_sayaji_rao_i_gaekwad_1:
+  1738.1.1:
+    birth: baroda #TODO: Date and location guessed, check if better data is available
+    first_name: sayaji_rao
+    dynasty: gaekwad_dynasty
+    adm: 15
+    dip: 15
+    mil: 30
+    religion: hindu
+    culture: gujarati
+  1778.1.1:
+    death: yes
+baro_fateh_singh_rao_gaekwad:
+  1760.1.1:
+    birth: baroda #TODO: Date and location guessed, check if better data is available
+    first_name: fateh_singh_rao
+    dynasty: gaekwad_dynasty
+    father: baro_sayaji_rao_i_gaekwad_1 #TODO: check if this makes sense
+    adm: 0
+    dip: 45
+    mil: 0
+    religion: hindu
+    culture: gujarati
+  1789.1.1:
+    death: yes
+baro_fateh_singh_rao_gaekwad_1:
+  1748.1.1:
+    birth: baroda #TODO: Date and location guessed, check if better data is available
+    first_name: fateh_singh_rao
+    dynasty: gaekwad_dynasty
+    adm: 0
+    dip: 45
+    mil: 0
+    religion: hindu
+    culture: gujarati
+  1789.1.1:
+    death: yes
+baro_manaji_rao_gaekwad:
+  1770.1.1:
+    birth: baroda #TODO: Date and location guessed, check if better data is available
+    first_name: manaji_rao
+    dynasty: gaekwad_dynasty
+    father: baro_fateh_singh_rao_gaekwad_1 #TODO: check if this makes sense
+    adm: 0
+    dip: 15
+    mil: 30
+    religion: hindu
+    culture: gujarati
+  1793.1.1:
+    death: yes
+baro_manaji_rao_gaekwad_1:
+  1759.1.1:
+    birth: baroda #TODO: Date and location guessed, check if better data is available
+    first_name: manaji_rao
+    dynasty: gaekwad_dynasty
+    adm: 0
+    dip: 15
+    mil: 30
+    religion: hindu
+    culture: gujarati
+  1793.1.1:
+    death: yes
+baro_govind_rao_gaekwad:
+  1780.1.1:
+    birth: baroda #TODO: Date and location guessed, check if better data is available
+    first_name: govind_rao
+    dynasty: gaekwad_dynasty
+    father: baro_manaji_rao_gaekwad_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 30
+    mil: 30
+    religion: hindu
+    culture: gujarati
+  1800.1.1:
+    death: yes
+baro_govind_rao_gaekwad_1:
+  1763.1.1:
+    birth: baroda #TODO: Date and location guessed, check if better data is available
+    first_name: govind_rao
+    dynasty: gaekwad_dynasty
+    adm: 30
+    dip: 30
+    mil: 30
+    religion: hindu
+    culture: gujarati
+  1800.1.1:
+    death: yes
+baro_anand_rao_gaekwad:
+  1785.1.1:
+    birth: baroda #TODO: Date and location guessed, check if better data is available
+    first_name: anand_rao
+    dynasty: gaekwad_dynasty
+    father: baro_govind_rao_gaekwad_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 15
+    mil: 30
+    religion: hindu
+    culture: gujarati
+  1818.1.1:
+    death: yes
+baro_anand_rao_gaekwad_1:
+  1770.1.1:
+    birth: baroda #TODO: Date and location guessed, check if better data is available
+    first_name: anand_rao
+    dynasty: gaekwad_dynasty
+    adm: 30
+    dip: 15
+    mil: 30
+    religion: hindu
+    culture: gujarati
+  1818.1.1:
+    death: yes
+baro__sayaji_rao_ii_gaekwad:
+  1800.1.1:
+    birth: baroda #TODO: Date and location guessed, check if better data is available
+    first_name: _sayaji_rao
+    dynasty: gaekwad_dynasty
+    father: baro_anand_rao_gaekwad_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 30
+    mil: 45
+    religion: hindu
+    culture: gujarati
+  1847.1.1:
+    death: yes
+baro_sayaji_rao_ii_gaekwad:
+  1788.1.1:
+    birth: baroda #TODO: Date and location guessed, check if better data is available
+    first_name: sayaji_rao
+    dynasty: gaekwad_dynasty
+    adm: 15
+    dip: 30
+    mil: 45
+    religion: hindu
+    culture: gujarati
+  1847.12.28:
+    death: yes
+baro_ganpati_rao_i_gaekwad:
+  1816.1.1:
+    birth: baroda #TODO: Date and location guessed, check if better data is available
+    first_name: ganpati_rao
+    dynasty: gaekwad_dynasty
+    father: baro_sayaji_rao_ii_gaekwad #TODO: check if this makes sense
+    adm: 30
+    dip: 45
+    mil: 45
+    religion: hindu
+    culture: gujarati
+  1856.11.19:
+    death: yes
+baro_ganpati_rao_i_gaekwad_1:
+  1817.1.1:
+    birth: baroda #TODO: Date and location guessed, check if better data is available
+    first_name: ganpati_rao
+    dynasty: gaekwad_dynasty
+    adm: 30
+    dip: 45
+    mil: 45
+    religion: hindu
+    culture: gujarati
+  1856.11.19:
+    death: yes
+baro_khande_rao_i_gaekwad:
+  1828.1.1:
+    birth: baroda #TODO: Date and location guessed, check if better data is available
+    first_name: khande_rao
+    dynasty: gaekwad_dynasty
+    father: baro_ganpati_rao_i_gaekwad_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 60
+    mil: 30
+    religion: hindu
+    culture: gujarati
+  1897.6.14:
+    death: yes
+baro_khande_rao_i_gaekwad_1:
+  1826.1.1:
+    birth: baroda #TODO: Date and location guessed, check if better data is available
+    first_name: khande_rao
+    dynasty: gaekwad_dynasty
+    adm: 30
+    dip: 60
+    mil: 30
+    religion: hindu
+    culture: gujarati
+  1870.1.1:
+    death: yes
+baro_malhar_rao_i_gaekwad:
+  1831.1.1:
+    birth: baroda #TODO: Date and location guessed, check if better data is available
+    first_name: malhar_rao
+    dynasty: gaekwad_dynasty
+    father: baro_khande_rao_i_gaekwad_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 60
+    mil: 15
+    religion: hindu
+    culture: gujarati
+  1882.1.1:
+    death: yes
+baro_malhar_rao_i_gaekwad_1:
+  1840.1.1:
+    birth: baroda #TODO: Date and location guessed, check if better data is available
+    first_name: malhar_rao
+    dynasty: gaekwad_dynasty
+    adm: 45
+    dip: 60
+    mil: 15
+    religion: hindu
+    culture: gujarati
+  1875.1.1:
+    death: yes
+baro_sayaji_rao_iii_gaekwad:
+  1863.3.10:
+    birth: baroda #TODO: Location guessed, check if better data is available
+    first_name: sayaji_rao
+    dynasty: gaekwad_dynasty
+    father: baro_malhar_rao_i_gaekwad_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 60
+    mil: 60
+    religion: hindu
+    culture: gujarati
+  1939.2.6:
+    death: yes
+baro_sayaji_rao_iii_gaekwad_1:
+  1845.1.1:
+    birth: baroda #TODO: Date and location guessed, check if better data is available
+    first_name: sayaji_rao
+    dynasty: gaekwad_dynasty
+    adm: 45
+    dip: 60
+    mil: 60
+    religion: hindu
+    culture: gujarati
+  1939.2.6:
+    death: yes
+baro_pratap_singh_i_gaekwad:
+  1908.6.29:
+    birth: baroda #TODO: Location guessed, check if better data is available
+    first_name: pratap_singh
+    dynasty: gaekwad_dynasty
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: hindu
+    culture: gujarati
+  1968.6.19:
+    death: yes

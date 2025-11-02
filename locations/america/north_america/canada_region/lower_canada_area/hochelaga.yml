@@ -1,0 +1,46 @@
+#imported from EU4 file: history/provinces/993 - Hochelega.txt
+2.1.1:
+  owner: OSG
+  controller: OSG
+  cores:
+    OSG: yes
+  resource: fur
+  pop:
+    ethnicity: stadaconan_culture
+    religion: iroquoian_totemism
+    estate: peasant
+    size: 1000
+1642.5.17:
+  owner: FRA
+  controller: FRA
+  cores:
+    FRA: yes
+  resource: fur
+  pop:
+    ethnicity: french
+    religion: catholic
+    estate: peasant
+    size: 1000
+1760.1.1:
+  controller: GBR
+1763.2.10:
+  owner: GBR
+  cores:
+    FRA: no
+    GBR: yes
+1790.1.1:
+  pop:
+    ethnicity: french_canadian
+    estate: peasant
+    size: 1000
+1867.7.1:
+  owner: CAN
+  controller: CAN
+  cores:
+    GBR: no
+    CAN: yes
+1970.1.1:
+  resource: electronics
+1980.5.20:
+  cores:
+    QUEB: yes

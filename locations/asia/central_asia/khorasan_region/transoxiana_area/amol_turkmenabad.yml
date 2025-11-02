@@ -1,0 +1,209 @@
+#imported from EU4 file: history/provinces/444 - Charjuy.txt
+2.1.1:
+  owner: BUKH
+  controller: BUKH
+  cores:
+    BUKH: yes
+  resource: livestock
+  pop:
+    ethnicity: sogdian
+    religion: zoroastrian
+    estate: peasant
+    size: 1000
+30.1.1:
+  owner: KUSH
+  controller: KUSH
+  cores:
+    KUSH: yes
+230.1.1:
+  owner: KSAS
+  controller: KSAS
+  cores:
+    KUSH: no
+    KSAS: yes
+350.1.1:
+  owner: KIDA
+  controller: KIDA
+  cores:
+    KSAS: no
+    KIDA: yes
+430.1.1:
+  owner: HEPH
+  controller: HEPH
+  cores:
+    KIDA: no
+    HEPH: yes
+560.1.1:
+  owner: ERA
+  controller: ERA
+  cores:
+    HEPH: no
+    ERA: yes
+579.1.1:
+  owner: GOKT
+  controller: GOKT
+  cores:
+    ERA: no
+    GOKT: yes
+593.1.1:
+  owner: WGOK
+  controller: WGOK
+  cores:
+    GOKT: no
+    WGOK: yes
+600.1.1:
+  owner: BUKH
+  controller: BUKH
+  cores:
+    WGOK: no
+    BUKH: yes
+706.1.1:
+  owner: UMAY
+  controller: UMAY
+  cores:
+    UMAY: yes
+750.8.6:
+  owner: ABBA
+  controller: ABBA
+  cores:
+    UMAY: no
+    ABBA: yes
+770.1.1:
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+819.1.1:
+  owner: SAMA
+  controller: SAMA
+  cores:
+    ABBA: no
+    SAMA: yes
+  pop:
+    ethnicity: tajik_culture
+    estate: peasant
+    size: 1000
+842.1.1:
+  owner: KOKA
+  controller: KOKA
+  cores:
+    KOKA: yes
+870.1.1:
+  owner: SIST
+  controller: SIST
+  cores:
+    KOKA: no
+    SIST: yes
+900.1.1:
+  owner: BUKH
+  controller: BUKH
+  cores:
+    SIST: no
+    BUKH: yes
+1002.1.1:
+  owner: GHAZ
+  controller: GHAZ
+  cores:
+    BUKH: no
+    GHAZ: yes
+1037.1.1:
+  owner: SELJ
+  controller: SELJ
+  cores:
+    GHAZ: no
+    SELJ: yes
+1040.1.1:
+  pop:
+    ethnicity: uzbek_culture
+    estate: peasant
+    size: 1000
+1153.1.1:
+  owner: KHWA
+  controller: KHWA
+  cores:
+    SELJ: no
+    KHWA: yes
+1221.1.1:
+  owner: MGE
+  controller: MGE
+  cores:
+    KHWA: no
+    MGE: yes
+1260.1.1:
+  owner: CHG
+  controller: CHG
+  cores:
+    MGE: no
+    CHG: yes
+1347.1.1:
+  owner: TRAN
+  controller: TRAN
+  cores:
+    CHG: no
+    TRAN: yes
+1360.1.1:
+  owner: MOGH
+  controller: MOGH
+  cores:
+    MOGH: yes
+1363.1.1:
+  owner: TRAN
+  controller: TRAN
+  cores:
+    MOGH: no
+    TRAN: yes
+1370.1.1:
+  owner: TIM
+  controller: TIM
+  cores:
+    TIM: yes
+1409.5.13:
+  owner: TRAN
+  controller: TRAN
+1448.3.1:
+  owner: TIM
+  controller: TIM
+1501.1.1:
+  controller: SHAY
+1502.1.1:
+  owner: BUKH
+  controller: BUKH
+  cores:
+    TIM: no
+    BUKH: yes
+1511.1.1:
+  owner: KHIV
+  controller: KHIV
+  cores:
+    BUKH: no
+1700.1.1:
+  pop:
+    ethnicity: turkmen_culture
+    estate: peasant
+    size: 1000
+1785.1.1:
+  owner: BUKH
+  controller: BUKH
+  cores:
+    BUKH: yes
+1920.10.1:
+  owner: RUS
+  controller: RUS
+  cores:
+    RUS: yes
+1922.12.30:
+  owner: SOVI
+  controller: SOVI
+  cores:
+    RUS: no
+    SOVI: yes
+1924.10.27:
+  cores:
+    BUKH: no
+    TUKM: yes
+1991.10.27:
+  owner: TUKM
+  controller: TUKM
+  cores:
+    SOVI: no
+    RUS: no

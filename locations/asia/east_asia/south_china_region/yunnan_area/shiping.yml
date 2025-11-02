@@ -1,0 +1,114 @@
+#imported from EU4 file: history/provinces/663 - Guangnan.txt
+2.1.1:
+  owner: SHYU
+  controller: SHYU
+  cores:
+    SHYU: yes
+  resource: copper
+  pop:
+    ethnicity: zhuang_culture
+    religion: bimoism
+    estate: peasant
+    size: 1000
+316.1.1:
+  owner: JIN1
+  controller: JIN1
+  cores:
+    JIN1: yes
+420.1.1:
+  owner: LSON
+  controller: LSON
+  cores:
+    JIN1: no
+    LSON: yes
+479.1.1:
+  owner: QI00
+  controller: QI00
+  cores:
+    LSON: no
+    QI00: yes
+502.1.1:
+  owner: LIAN
+  controller: LIAN
+  cores:
+    QI00: no
+    LIAN: yes
+557.1.1:
+  owner: CHE
+  controller: CHE
+  cores:
+    LIAN: no
+    CHE: yes
+560.1.1:
+  cores:
+    CHE: no
+    ???: yes
+652.1.1:
+  owner: NANZ
+  controller: NANZ
+  cores:
+    NANZ: yes
+660.1.1:
+  pop:
+    religion: tibetan_buddhism
+    estate: peasant
+    size: 1000
+700.1.1:
+  owner: NANZ
+  controller: NANZ
+  cores:
+    TANG: no
+    NANZ: yes
+800.1.1:
+  pop:
+    ethnicity: bai_culture
+    estate: peasant
+    size: 1000
+937.1.1:
+  owner: CDL
+  controller: CDL
+  cores:
+    NANZ: no
+    CDL: yes
+1253.1.1:
+  owner: MGE
+  controller: MGE
+  cores:
+    MGE: yes
+    ZHOU: yes
+1271.1.1:
+  owner: YUA
+  controller: YUA
+  cores:
+    MGE: no
+    YUA: yes
+1368.1.23:
+  owner: CDL
+  controller: CDL
+  cores:
+    YUA: no
+    CDL: yes
+1382.1.6:
+  owner: MNG
+  controller: MNG
+  cores:
+    MNG: yes
+1662.4.1:
+  owner: ZHOU
+  controller: ZHOU
+1680.1.1:
+  resource: iron
+1681.10.1:
+  owner: QNG
+  controller: QNG
+  cores:
+    QNG: yes
+1912.2.12:
+  owner: CHI
+  controller: CHI
+  cores:
+    QNG: no
+    ZHOU: no
+    CHI: yes
+1927.4.18:
+  controller: CHI

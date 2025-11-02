@@ -1,0 +1,256 @@
+urb_montefeltrano_i_da_montefeltro:
+  1183.1.1:
+    birth: urbino #TODO: Date and location guessed, check if better data is available
+    first_name: montefeltrano
+    dynasty: da_montefeltro_dynasty
+    adm: 0
+    dip: 0
+    mil: 15
+    religion: catholic
+    culture: median
+  1234.1.1:
+    death: yes
+urb_buonconte_i_da_montefeltro:
+  1200.1.1:
+    birth: urbino #TODO: Date and location guessed, check if better data is available
+    first_name: buonconte
+    dynasty: da_montefeltro_dynasty
+    adm: 75
+    dip: 45
+    mil: 75
+    religion: catholic
+    culture: median
+  1241.1.1:
+    death: yes
+urb_montefeltrano_ii_da_montefeltro:
+  1210.1.1:
+    birth: urbino #TODO: Date and location guessed, check if better data is available
+    first_name: montefeltrano
+    dynasty: da_montefeltro_dynasty
+    adm: 45
+    dip: 15
+    mil: 60
+    religion: catholic
+    culture: median
+  1255.1.1:
+    death: yes
+urb_guido_i_da_montefeltro:
+  1223.1.1:
+    birth: urbino #TODO: Date and location guessed, check if better data is available
+    first_name: guido
+    dynasty: da_montefeltro_dynasty
+    adm: 75
+    dip: 30
+    mil: 75
+    religion: catholic
+    culture: median
+  1298.9.29:
+    death: yes
+urb_federico_i_da_montefeltro:
+  1280.1.1:
+    birth: urbino #TODO: Date and location guessed, check if better data is available
+    first_name: federico
+    dynasty: da_montefeltro_dynasty
+    adm: 30
+    dip: 30
+    mil: 15
+    religion: catholic
+    culture: median
+  1324.1.1:
+    death: yes
+urb_nolfo_i_da_montefeltro:
+  1290.1.1:
+    birth: urbino #TODO: Date and location guessed, check if better data is available
+    first_name: nolfo
+    dynasty: da_montefeltro_dynasty
+    adm: 75
+    dip: 30
+    mil: 75
+    religion: catholic
+    culture: median
+  1364.1.1:
+    death: yes
+urb_antonio_i_da_montefeltro:
+  1334.1.1:
+    birth: urbino #TODO: Date and location guessed, check if better data is available
+    first_name: antonio
+    dynasty: da_montefeltro_dynasty
+    adm: 30
+    dip: 45
+    mil: 45
+    religion: catholic
+    culture: median
+  1404.1.1:
+    death: yes
+urb_gidantonio_i_da_montefeltro:
+  1377.1.1:
+    birth: urbino #TODO: Date and location guessed, check if better data is available
+    first_name: gidantonio
+    dynasty: da_montefeltro_dynasty
+    father: urb_antonio_i_da_montefeltro #TODO: check if this makes sense
+    adm: 15
+    dip: 30
+    mil: 15
+    religion: catholic
+    culture: median
+  1443.2.1:
+    death: yes
+urb_gidantonio_i_da_montefeltro_1:
+  1374.1.1:
+    birth: urbino #TODO: Date and location guessed, check if better data is available
+    first_name: gidantonio
+    dynasty: da_montefeltro_dynasty
+    adm: 15
+    dip: 30
+    mil: 15
+    religion: catholic
+    culture: median
+  1443.2.1:
+    death: yes
+urb_oddantonio_i_da_montefeltro:
+  1428.1.1:
+    birth: urbino #TODO: Date and location guessed, check if better data is available
+    first_name: oddantonio
+    dynasty: da_montefeltro_dynasty
+    father: urb_gidantonio_i_da_montefeltro_1 #TODO: check if this makes sense
+    adm: 0
+    dip: 45
+    mil: 30
+    religion: catholic
+    culture: median
+  1444.7.22:
+    death: yes
+urb_oddantonio_i_da_montefeltro_1:
+  1413.1.1:
+    birth: urbino #TODO: Date and location guessed, check if better data is available
+    first_name: oddantonio
+    dynasty: da_montefeltro_dynasty
+    adm: 0
+    dip: 45
+    mil: 30
+    religion: catholic
+    culture: median
+  1444.7.22:
+    death: yes
+urb_federigo_iii_da_montefeltro:
+  1422.6.7:
+    birth: urbino #TODO: Location guessed, check if better data is available
+    first_name: federigo
+    dynasty: da_montefeltro_dynasty
+    adm: 30
+    dip: 45
+    mil: 45
+    religion: catholic
+    culture: median
+  1482.9.10:
+    death: yes
+urb_guidobaldo_i_da_montefeltro:
+  1472.1.17:
+    birth: urbino #TODO: Location guessed, check if better data is available
+    first_name: guidobaldo
+    dynasty: da_montefeltro_dynasty
+    adm: 30
+    dip: 30
+    mil: 30
+    religion: catholic
+    culture: median
+  1508.4.11:
+    death: yes
+urb_francesco_i_da_montefeltro:
+  1490.3.22:
+    birth: urbino #TODO: Location guessed, check if better data is available
+    first_name: francesco
+    dynasty: da_montefeltro_dynasty
+    father: urb_guidobaldo_i_da_montefeltro #TODO: check if this makes sense
+    adm: 30
+    dip: 30
+    mil: 30
+    religion: catholic
+    culture: median
+  1538.10.20:
+    death: yes
+urb_cesare_i_borgia:
+  1475.9.13:
+    birth: urbino #TODO: Location guessed, check if better data is available
+    first_name: cesare
+    dynasty: borgia_dynasty
+    adm: 45
+    dip: 60
+    mil: 75
+    religion: catholic
+    culture: median
+  1502.4.1:
+    death: yes
+urb_francesco_i_della_rovere:
+  1490.3.22:
+    birth: urbino #TODO: Location guessed, check if better data is available
+    first_name: francesco
+    dynasty: della_rovere_dynasty
+    adm: 30
+    dip: 30
+    mil: 30
+    religion: catholic
+    culture: median
+  1528.10.20:
+    death: yes
+urb_lorenzo_i_de_medici:
+  1492.9.12:
+    birth: urbino #TODO: Location guessed, check if better data is available
+    first_name: lorenzo
+    dynasty: de_medici_dynasty
+    adm: 45
+    dip: 75
+    mil: 75
+    religion: catholic
+    culture: median
+  1519.5.4:
+    death: yes
+urb_caterina_i_de_medici:
+  1519.4.13:
+    birth: urbino #TODO: Location guessed, check if better data is available
+    first_name: caterina
+    dynasty: de_medici_dynasty
+    female: yes
+    adm: 30
+    dip: 90
+    mil: 30
+    religion: catholic
+    culture: median
+  1521.12.22:
+    death: yes
+urb_guidobaldo_ii_della_rovere:
+  1514.4.2:
+    birth: urbino #TODO: Location guessed, check if better data is available
+    first_name: guidobaldo
+    dynasty: della_rovere_dynasty
+    adm: 30
+    dip: 30
+    mil: 30
+    religion: catholic
+    culture: median
+  1574.9.28:
+    death: yes
+urb_francesco_maria_ii_della_rovere:
+  1549.2.20:
+    birth: urbino #TODO: Location guessed, check if better data is available
+    first_name: francesco_maria
+    dynasty: della_rovere_dynasty
+    adm: 30
+    dip: 30
+    mil: 30
+    religion: catholic
+    culture: median
+  1621.7.25:
+    death: yes
+urb_francesco_ubaldo_i_della_rovere:
+  1605.5.16:
+    birth: urbino #TODO: Location guessed, check if better data is available
+    first_name: francesco_ubaldo
+    dynasty: della_rovere_dynasty
+    adm: 30
+    dip: 30
+    mil: 30
+    religion: catholic
+    culture: median
+  1623.6.29:
+    death: yes

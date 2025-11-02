@@ -1,0 +1,131 @@
+#imported from EU4 file: history/provinces/245 - Yorkshire.txt
+2.1.1:
+  owner: BRIG
+  controller: BRIG
+  cores:
+    BRIG: yes
+  resource: cloth
+  pop:
+    ethnicity: briton
+    religion: druidism
+    estate: peasant
+    size: 1000
+71.1.1:
+  controller: ROM
+78.1.1:
+  owner: ROM
+  cores:
+    ROM: yes
+380.1.1:
+  cores:
+    BRIG: no
+    DEIR: yes
+395.1.17:
+  owner: ROMW
+  controller: ROMW
+  cores:
+    ROM: no
+    ROMW: yes
+410.1.1:
+  owner: DEIR
+  controller: DEIR
+  cores:
+    ROMW: no
+    BRIG: no
+    DEIR: yes
+  pop:
+    ethnicity: welsh
+    estate: peasant
+    size: 1000
+559.1.1:
+  pop:
+    ethnicity: anglo_saxon
+    religion: germanic
+    estate: peasant
+    size: 1000
+604.1.1:
+  owner: BERN
+  controller: BERN
+  cores:
+    BERN: yes
+616.1.1:
+  owner: DEIR
+  controller: DEIR
+  cores:
+    BERN: no
+640.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+654.1.1:
+  owner: NOL
+  controller: NOL
+  cores:
+    DEIR: no
+    NOL: yes
+875.1.1:
+  pop:
+    ethnicity: danish
+    religion: norse
+    estate: peasant
+    size: 1000
+918.1.1:
+  owner: MNN
+  controller: MNN
+  cores:
+    MNN: yes
+921.1.1:
+  owner: NOL
+  controller: NOL
+  cores:
+    MNN: no
+927.1.1:
+  owner: ENG
+  controller: ENG
+  cores:
+    ENG: yes
+939.1.1:
+  owner: NOL
+  controller: NOL
+944.1.1:
+  owner: ENG
+  controller: ENG
+947.1.1:
+  owner: NOL
+  controller: NOL
+954.1.1:
+  owner: ENG
+  controller: ENG
+  pop:
+    ethnicity: anglo_saxon
+    religion: catholic
+    estate: peasant
+    size: 1000
+1000.1.1:
+  cores:
+    NOL: no
+1066.12.25:
+  pop:
+    ethnicity: english
+    estate: peasant
+    size: 1000
+1461.6.28:
+  controller: ENG
+1470.10.6:
+  controller: ENG
+1471.5.4:
+  controller: ENG
+1600.1.1:
+  pop:
+    religion: anglican
+    estate: peasant
+    size: 1000
+1646.5.5:
+  controller: ENG
+1707.5.12:
+  owner: GBR
+  controller: GBR
+  cores:
+    ENG: no
+    GBR: yes

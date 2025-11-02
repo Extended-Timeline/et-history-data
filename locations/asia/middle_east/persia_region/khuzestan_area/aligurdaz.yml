@@ -1,0 +1,108 @@
+#imported from EU4 file: history/provinces/413 - Luristan.txt
+2.1.1:
+  owner: PART
+  controller: PART
+  cores:
+    PART: yes
+  resource: grain
+  pop:
+    ethnicity: lur_culture
+    religion: zoroastrian
+    estate: peasant
+    size: 1000
+224.4.24:
+  owner: ERA
+  controller: ERA
+  cores:
+    PART: no
+    ERA: yes
+638.1.1:
+  owner: RASH
+  controller: RASH
+  cores:
+    ERA: no
+    RASH: yes
+661.7.28:
+  owner: UMAY
+  controller: UMAY
+  cores:
+    RASH: no
+    UMAY: yes
+  pop:
+    religion: shia
+    estate: peasant
+    size: 1000
+750.8.6:
+  owner: ABBA
+  controller: ABBA
+  cores:
+    UMAY: no
+    ABBA: yes
+933.1.1:
+  owner: MZN
+  controller: MZN
+  cores:
+    ABBA: no
+    MZN: yes
+935.1.1:
+  owner: QOM
+  controller: QOM
+  cores:
+    MZN: no
+    QOM: yes
+1029.1.1:
+  owner: ISFA
+  controller: ISFA
+  cores:
+    QOM: no
+    ISFA: yes
+1051.1.1:
+  owner: SELJ
+  controller: SELJ
+  cores:
+    SELJ: yes
+1155.1.1:
+  owner: LCK
+  controller: LCK
+  cores:
+    SELJ: no
+    LCK: yes
+1231.1.1:
+  owner: MGE
+  controller: MGE
+  cores:
+    MGE: yes
+    IRA: yes
+1260.1.1:
+  owner: ILK
+  controller: ILK
+  cores:
+    MGE: no
+    ILK: yes
+1335.1.1:
+  owner: LCK
+  controller: LCK
+  cores:
+    ILK: no
+    LCK: yes
+1446.1.1:
+  owner: MUSH
+  controller: MUSH
+  cores:
+    TIM: no
+1504.1.1:
+  owner: IRA
+  controller: IRA
+  cores:
+    AKQO: no
+    IRA: yes
+1587.1.1:
+  controller: TUR
+1590.3.21:
+  controller: IRA
+1935.1.1:
+  owner: IRAN
+  controller: IRAN
+  cores:
+    IRA: no
+    IRAN: yes

@@ -1,0 +1,55 @@
+#imported from EU4 file: history/provinces/793 - Iquique.txt
+2.1.1:
+  pop:
+    ethnicity: pazioca_culture
+    religion: inti
+    estate: peasant
+    size: 1000
+375.1.1:
+  owner: TIWA
+  controller: TIWA
+  cores:
+    TIWA: yes
+  resource: copper
+1000.1.1:
+  owner: XXX
+  controller: XXX
+  cores:
+    TIWA: no
+1477.1.1:
+  owner: INC
+  controller: INC
+  cores:
+    INC: yes
+  resource: wool
+1537.1.1:
+  owner: SPA
+  controller: SPA
+  cores:
+    SPA: yes
+  pop:
+    ethnicity: castilian
+    religion: catholic
+    estate: peasant
+    size: 1000
+1770.1.1:
+  pop:
+    ethnicity: iberian_peruvian
+    estate: peasant
+    size: 1000
+1821.7.28:
+  owner: PERU
+  controller: PERU
+  cores:
+    PERU: yes
+1879.8.14:
+  cores:
+    SPA: no
+1880.6.7:
+  controller: CHIL
+1883.10.20:
+  owner: CHIL
+  controller: CHIL
+  cores:
+    PERU: no
+    CHIL: yes

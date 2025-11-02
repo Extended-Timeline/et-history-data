@@ -1,0 +1,65 @@
+#imported from EU4 file: history/provinces/4808 - Lahat.txt
+2.1.1:
+  pop:
+    ethnicity: malay_culture
+    religion: bimoism
+    estate: peasant
+    size: 1000
+683.1.1:
+  owner: SRIV
+  controller: SRIV
+  cores:
+    SRIV: yes
+  resource: tropical_wood
+750.1.1:
+  pop:
+    religion: mahayana
+    estate: peasant
+    size: 1000
+1288.1.1:
+  owner: SING
+  controller: SING
+  cores:
+    SRIV: no
+    SING: yes
+1293.1.1:
+  owner: MAJ
+  controller: MAJ
+  cores:
+    SING: no
+    MAJ: yes
+1360.1.1:
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+1377.1.1:
+  owner: PLB
+  controller: PLB
+  cores:
+    MAJ: no
+    PLB: yes
+1821.1.1:
+  owner: NED
+  controller: NED
+  cores:
+    NED: yes
+1880.1.1:
+  resource: coal
+1912.9.10:
+  cores:
+    ATJ: no
+    INDN: yes
+1942.2.1:
+  controller: JAP
+1942.3.9:
+  owner: JAP
+  controller: JAP
+1945.8.15:
+  owner: NED
+1945.8.17:
+  owner: INDN
+  controller: INDN
+1949.12.27:
+  cores:
+    NED: no

@@ -1,0 +1,139 @@
+#imported from EU4 file: history/provinces/2995 - Hinterpommern.txt
+2.1.1:
+  owner: GOTH
+  controller: GOTH
+  cores:
+    GOTH: yes
+  resource: fish
+  pop:
+    ethnicity: gothic
+    religion: germanic
+    estate: peasant
+    size: 1000
+140.1.1:
+  owner: LEMO
+  controller: LEMO
+  cores:
+    GOTH: no
+    LEMO: yes
+  pop:
+    ethnicity: western_pomeranian
+    estate: peasant
+    size: 1000
+500.1.1:
+  owner: POME
+  controller: POME
+  cores:
+    LEMO: no
+    POME: yes
+  pop:
+    ethnicity: kashubian
+    religion: romuva
+    estate: peasant
+    size: 1000
+880.1.1:
+  pop:
+    religion: slavic
+    estate: peasant
+    size: 1000
+965.1.1:
+  owner: POL
+  controller: POL
+  cores:
+    POL: yes
+1026.1.1:
+  owner: POM
+  controller: POM
+  cores:
+    POL: no
+1047.1.1:
+  owner: POL
+  controller: POL
+  cores:
+    POL: yes
+1060.1.1:
+  owner: POM
+  controller: POM
+  cores:
+    POL: no
+1186.1.1:
+  owner: DAN
+  controller: DAN
+  cores:
+    DAN: yes
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+1227.1.1:
+  owner: POM
+  controller: POM
+  cores:
+    DAN: no
+1240.1.1:
+  owner: POME
+  controller: POME
+  cores:
+    POME: yes
+1294.12.29:
+  owner: POL
+  controller: POL
+  cores:
+    POL: yes
+1307.1.1:
+  owner: BRA
+  controller: BRA
+  cores:
+    POL: no
+    BRA: yes
+1317.11.25:
+  owner: WOL
+  controller: WOL
+  cores:
+    BRA: no
+    WOL: yes
+1350.1.1:
+  pop:
+    ethnicity: western_pomeranian
+    estate: peasant
+    size: 1000
+1529.1.1:
+  cores:
+    BRA: yes
+1534.1.1:
+  pop:
+    religion: lutheran
+    estate: peasant
+    size: 1000
+1648.10.24:
+  owner: BRA
+  controller: BRA
+1701.1.18:
+  owner: PRU
+  controller: PRU
+  cores:
+    BRA: no
+    PRU: yes
+1871.1.18:
+  owner: GER
+  controller: GER
+  cores:
+    PRU: no
+    GER: yes
+1900.1.1:
+  cores:
+    POM: no
+1945.4.26:
+  controller: SOVI
+1945.5.8:
+  owner: POL
+  controller: POL
+  cores:
+    GER: no
+    POL: yes
+1950.1.1:
+  pop:
+    ethnicity: lesser_polish
+    religion: catholic
+    estate: peasant
+    size: 1000

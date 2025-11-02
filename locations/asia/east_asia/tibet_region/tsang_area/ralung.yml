@@ -1,0 +1,82 @@
+#imported from EU4 file: history/provinces/676 - Shigatse.txt
+2.1.1:
+  owner: YARL
+  controller: YARL
+  cores:
+    YARL: yes
+  resource: incense
+  pop:
+    ethnicity: utsang_culture
+    religion: bon
+    estate: peasant
+    size: 1000
+618.1.1:
+  owner: TIB
+  controller: TIB
+  cores:
+    YARL: no
+    TIB: yes
+630.1.1:
+  pop:
+    religion: tibetan_buddhism
+    estate: peasant
+    size: 1000
+842.1.1:
+  owner: UTSA
+  controller: UTSA
+  cores:
+    TIB: no
+    UTSA: yes
+1240.1.1:
+  owner: TIB
+  controller: TIB
+  cores:
+    TIB: yes
+1354.1.1:
+  owner: PHAG
+  controller: PHAG
+  cores:
+    TIB: no
+    PHAG: yes
+1435.1.1:
+  owner: UTSA
+  controller: UTSA
+  cores:
+    UTSA: yes
+1642.6.1:
+  owner: KHOS
+  controller: KHOS
+  cores:
+    KHOS: yes
+1717.1.1:
+  owner: ZUNG
+  controller: ZUNG
+  cores:
+    ZUNG: yes
+1720.1.1:
+  owner: UTSA
+  controller: UTSA
+  cores:
+    ZUNG: no
+    UTSA: yes
+1792.11.1:
+  owner: QNG
+  controller: QNG
+  cores:
+    QNG: yes
+1912.2.12:
+  owner: CHI
+  controller: CHI
+  cores:
+    QNG: no
+    UTSA: no
+    CHI: yes
+    TIB: yes
+1912.7.1:
+  owner: TIB
+  controller: TIB
+1950.10.19:
+  owner: CHI
+  controller: CHI
+  cores:
+    CHI: yes

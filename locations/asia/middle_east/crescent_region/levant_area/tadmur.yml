@@ -1,0 +1,183 @@
+#imported from EU4 file: history/provinces/405 - Tadmor.txt
+2.1.1:
+  owner: ROM
+  controller: ROM
+  cores:
+    ROM: yes
+    PALM: yes
+  resource: livestock
+  pop:
+    ethnicity: syriac_culture
+    religion: hellenism_religion
+    estate: peasant
+    size: 1000
+260.1.1:
+  cores:
+    PALM: yes
+272.1.1:
+  controller: ROM
+  cores:
+    PALM: no
+280.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+395.1.17:
+  owner: BYZ
+  controller: BYZ
+  cores:
+    ROM: no
+    BYZ: yes
+512.11.16:
+  pop:
+    religion: miaphysite
+    estate: peasant
+    size: 1000
+613.1.1:
+  controller: ERA
+627.1.1:
+  controller: BYZ
+635.9.1:
+  owner: RASH
+  controller: RASH
+  cores:
+    RASH: yes
+660.1.1:
+  pop:
+    ethnicity: najdi_culture
+    religion: islam
+    estate: peasant
+    size: 1000
+661.7.28:
+  owner: UMAY
+  controller: UMAY
+  cores:
+    RASH: no
+    BYZ: no
+    UMAY: yes
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+750.8.6:
+  owner: ABBA
+  controller: ABBA
+  cores:
+    UMAY: no
+    ABBA: yes
+868.9.15:
+  owner: EGY
+  controller: EGY
+  cores:
+    EGY: yes
+905.1.10:
+  owner: ABBA
+  controller: ABBA
+  cores:
+    ABBA: yes
+935.8.26:
+  owner: EGY
+  controller: EGY
+  cores:
+    ABBA: no
+    EGY: yes
+945.1.1:
+  owner: SYRI
+  controller: SYRI
+  cores:
+    EGY: no
+    SYRI: yes
+1002.1.1:
+  owner: FATI
+  controller: FATI
+  cores:
+    FATI: yes
+1025.1.18:
+  owner: SYRI
+  controller: SYRI
+  cores:
+    FATI: no
+    SYRI: yes
+1038.5.1:
+  owner: FATI
+  controller: FATI
+  cores:
+    FATI: yes
+1042.2.1:
+  owner: SYRI
+  controller: SYRI
+  cores:
+    FATI: no
+1070.1.1:
+  owner: FDL
+  controller: FDL
+  cores:
+    SYRI: no
+    FDL: yes
+1516.8.24:
+  owner: TUR
+  controller: TUR
+  cores:
+    TUR: yes
+1833.5.6:
+  owner: EGY
+  controller: EGY
+  cores:
+    MAM: no
+    EGY: yes
+1841.2.1:
+  owner: TUR
+  controller: TUR
+  cores:
+    EGY: no
+    TUR: yes
+1920.3.8:
+  owner: SYRI
+  controller: SYRI
+1920.7.24:
+  owner: FRA
+  controller: FRA
+  cores:
+    TUR: no
+    FRA: yes
+1940.6.14:
+  owner: VFRA
+  controller: VFRA
+  cores:
+    VFRA: yes
+1941.7.1:
+  owner: FRA
+  controller: FRA
+  cores:
+    VFRA: no
+1946.4.17:
+  owner: SYRI
+  controller: SYRI
+  cores:
+    FRA: no
+1958.2.22:
+  owner: AIA
+  controller: AIA
+  cores:
+    AIA: yes
+1961.9.28:
+  owner: SYRI
+  controller: SYRI
+  cores:
+    AIA: no
+2015.5.13:
+  cores:
+    ISIS: yes
+  pop:
+    ethnicity: iraqi_culture
+    estate: peasant
+    size: 1000
+2016.3.27:
+  controller: SYRI
+  cores:
+    ISIS: no
+  pop:
+    ethnicity: levantine_culture
+    estate: peasant
+    size: 1000

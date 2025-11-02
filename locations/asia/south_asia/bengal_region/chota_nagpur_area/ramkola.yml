@@ -1,0 +1,57 @@
+#imported from EU4 file: history/provinces/2098 - Mandla.txt
+2.1.1:
+  owner: DASA
+  controller: DASA
+  cores:
+    DASA: yes
+  resource: cotton
+  pop:
+    ethnicity: chhattisgarhi
+    religion: hindu
+    estate: peasant
+    size: 1000
+350.1.1:
+  owner: GUPT
+  controller: GUPT
+  cores:
+    DASA: no
+    GUPT: yes
+500.1.1:
+  owner: DAKS
+  controller: DAKS
+  cores:
+    GUPT: no
+    DAKS: yes
+700.1.1:
+  owner: KALC
+  controller: KALC
+  cores:
+    DAKS: no
+    KALC: yes
+1200.1.1:
+  owner: JHAR
+  controller: JHAR
+  cores:
+    KALC: no
+    JHAR: yes
+1562.1.1:
+  owner: SURG
+  controller: SURG
+1750.1.1:
+  owner: NAGP
+  controller: NAGP
+  cores:
+    NAGP: yes
+1818.6.3:
+  owner: SURG
+  controller: SURG
+1930.1.1:
+  cores:
+    NAGP: no
+    GOND: no
+    INDI: yes
+1947.8.15:
+  owner: INDI
+  controller: INDI
+  cores:
+    SURG: no

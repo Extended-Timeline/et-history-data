@@ -1,0 +1,134 @@
+#imported from EU4 file: history/provinces/4724 - Pardubice.txt
+2.1.1:
+  owner: MARC
+  controller: MARC
+  cores:
+    MARC: yes
+  resource: grain
+  pop:
+    ethnicity: southern_bavarian
+    religion: germanic
+    estate: peasant
+    size: 1000
+395.1.1:
+  owner: LOMB
+  controller: LOMB
+  cores:
+    MARC: no
+    LOMB: yes
+  pop:
+    ethnicity: langobardi
+    estate: peasant
+    size: 1000
+454.1.1:
+  owner: HERU
+  controller: HERU
+  cores:
+    LOMB: no
+    HERU: yes
+  pop:
+    ethnicity: southern_bavarian
+    estate: peasant
+    size: 1000
+509.1.1:
+  owner: LOMB
+  controller: LOMB
+  cores:
+    HERU: no
+    LOMB: yes
+  pop:
+    ethnicity: langobardi
+    estate: peasant
+    size: 1000
+569.1.1:
+  owner: MVA
+  controller: MVA
+  cores:
+    LOMB: no
+    MVA: yes
+  pop:
+    ethnicity: czech
+    religion: slavic
+    estate: peasant
+    size: 1000
+623.1.1:
+  owner: SAMO
+  controller: SAMO
+  cores:
+    SAMO: yes
+659.1.1:
+  owner: MVA
+  controller: MVA
+  cores:
+    SAMO: no
+880.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+894.1.1:
+  owner: BOH
+  controller: BOH
+  cores:
+    MVA: no
+    BOH: yes
+1419.12.1:
+  pop:
+    religion: hussite
+    estate: peasant
+    size: 1000
+1436.7.5:
+  controller: BOH
+1526.8.30:
+  owner: HAB
+  controller: HAB
+  cores:
+    BOH: no
+    HAB: yes
+1576.1.1:
+  pop:
+    religion: lutheran
+    estate: peasant
+    size: 1000
+1618.5.23:
+  owner: BOH
+  controller: BOH
+  cores:
+    BOH: yes
+1620.11.8:
+  owner: HAB
+  controller: HAB
+  cores:
+    BOH: no
+1627.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+1918.10.28:
+  owner: CZES
+  controller: CZES
+  cores:
+    HAB: no
+    CZES: yes
+1939.3.16:
+  owner: GER
+  controller: GER
+  cores:
+    GER: yes
+1945.5.8:
+  owner: CZES
+  controller: CZES
+  cores:
+    GER: no
+1992.12.31:
+  owner: CZEC
+  controller: CZEC
+  cores:
+    CZES: no
+    CZEC: yes
+1995.1.1:
+  pop:
+    religion: irreligious
+    estate: peasant
+    size: 1000

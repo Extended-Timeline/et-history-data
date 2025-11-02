@@ -1,0 +1,972 @@
+rass_al_hadi_ilal_haqq_yahya_rassid:
+  867.1.1:
+    birth: sana_yemen #TODO: Date and location guessed, check if better data is available
+    first_name: al_hadi_ilal_haqq_yahya
+    dynasty: rassid_dynasty
+    adm: 30
+    dip: 15
+    mil: 60
+    religion: shia
+    culture: yemeni_culture
+  911.8.19:
+    death: yes
+rass_al_murtada_muhammad_rassid:
+  891.1.1:
+    birth: sana_yemen #TODO: Date and location guessed, check if better data is available
+    first_name: al_murtada_muhammad
+    dynasty: rassid_dynasty
+    father: rass_al_hadi_ilal_haqq_yahya_rassid #TODO: check if this makes sense
+    adm: 45
+    dip: 75
+    mil: 15
+    religion: shia
+    culture: yemeni_culture
+  922.5.1:
+    death: yes
+rass_al_murtada_muhammad_rassid_1:
+  881.1.1:
+    birth: sana_yemen #TODO: Date and location guessed, check if better data is available
+    first_name: al_murtada_muhammad
+    dynasty: rassid_dynasty
+    adm: 45
+    dip: 75
+    mil: 15
+    religion: shia
+    culture: yemeni_culture
+  922.5.1:
+    death: yes
+rass_an_nasir_ahmad_rassid:
+  900.1.1:
+    birth: sana_yemen #TODO: Date and location guessed, check if better data is available
+    first_name: an_nasir_ahmad
+    dynasty: rassid_dynasty
+    father: rass_al_murtada_muhammad_rassid_1 #TODO: check if this makes sense
+    adm: 75
+    dip: 45
+    mil: 45
+    religion: shia
+    culture: yemeni_culture
+  934.6.5:
+    death: yes
+rass_an_nasir_ahmad_rassid_1:
+  892.1.1:
+    birth: sana_yemen #TODO: Date and location guessed, check if better data is available
+    first_name: an_nasir_ahmad
+    dynasty: rassid_dynasty
+    adm: 75
+    dip: 45
+    mil: 45
+    religion: shia
+    culture: yemeni_culture
+  934.6.5:
+    death: yes
+rass_al_muntakhab_al_hasan_rassid:
+  910.1.1:
+    birth: sana_yemen #TODO: Date and location guessed, check if better data is available
+    first_name: al_muntakhab_al_hasan
+    dynasty: rassid_dynasty
+    father: rass_an_nasir_ahmad_rassid_1 #TODO: check if this makes sense
+    adm: 60
+    dip: 30
+    mil: 45
+    religion: shia
+    culture: yemeni_culture
+  936.1.1:
+    death: yes
+rass_al_muntakhab_al_hasan_rassid_1:
+  904.1.1:
+    birth: sana_yemen #TODO: Date and location guessed, check if better data is available
+    first_name: al_muntakhab_al_hasan
+    dynasty: rassid_dynasty
+    adm: 60
+    dip: 30
+    mil: 45
+    religion: shia
+    culture: yemeni_culture
+  936.1.1:
+    death: yes
+rass_al_mukhtar_al_qasim_rassid:
+  920.1.1:
+    birth: sana_yemen #TODO: Date and location guessed, check if better data is available
+    first_name: al_mukhtar_al_qasim
+    dynasty: rassid_dynasty
+    father: rass_al_muntakhab_al_hasan_rassid_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 45
+    mil: 45
+    religion: shia
+    culture: yemeni_culture
+  956.1.1:
+    death: yes
+rass_al_mukhtar_al_qasim_rassid_1:
+  906.1.1:
+    birth: sana_yemen #TODO: Date and location guessed, check if better data is available
+    first_name: al_mukhtar_al_qasim
+    dynasty: rassid_dynasty
+    adm: 30
+    dip: 45
+    mil: 45
+    religion: shia
+    culture: yemeni_culture
+  956.1.1:
+    death: yes
+rass_al_mansur_yahya_rassid:
+  910.1.1:
+    birth: sana_yemen #TODO: Date and location guessed, check if better data is available
+    first_name: al_mansur_yahya
+    dynasty: rassid_dynasty
+    father: rass_al_mukhtar_al_qasim_rassid_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 45
+    mil: 60
+    religion: shia
+    culture: yemeni_culture
+  976.1.1:
+    death: yes
+rass_al_mansur_yahya_rassid_1:
+  926.1.1:
+    birth: sana_yemen #TODO: Date and location guessed, check if better data is available
+    first_name: al_mansur_yahya
+    dynasty: rassid_dynasty
+    adm: 30
+    dip: 45
+    mil: 60
+    religion: shia
+    culture: yemeni_culture
+  977.1.1:
+    death: yes
+rass_ad_dai_yusuf_rassid:
+  950.1.1:
+    birth: sana_yemen #TODO: Date and location guessed, check if better data is available
+    first_name: ad_dai_yusuf
+    dynasty: rassid_dynasty
+    father: rass_al_mansur_yahya_rassid_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 60
+    mil: 30
+    religion: shia
+    culture: yemeni_culture
+  1012.9.12:
+    death: yes
+rass_ad_dai_yusuf_rassid_1:
+  947.1.1:
+    birth: sana_yemen #TODO: Date and location guessed, check if better data is available
+    first_name: ad_dai_yusuf
+    dynasty: rassid_dynasty
+    adm: 45
+    dip: 60
+    mil: 30
+    religion: shia
+    culture: yemeni_culture
+  999.1.1:
+    death: yes
+rass_al_mansur_al_qasim_al_iyyani_rassid:
+  922.1.1:
+    birth: sana_yemen #TODO: Date and location guessed, check if better data is available
+    first_name: al_mansur_al_qasim_al_iyyani
+    dynasty: rassid_dynasty
+    father: rass_ad_dai_yusuf_rassid_1 #TODO: check if this makes sense
+    adm: 75
+    dip: 30
+    mil: 45
+    religion: shia
+    culture: yemeni_culture
+  1003.7.11:
+    death: yes
+rass_al_mansur_al_qasim_al_iyyani_rassid_1:
+  969.1.1:
+    birth: sana_yemen #TODO: Date and location guessed, check if better data is available
+    first_name: al_mansur_al_qasim_al_iyyani
+    dynasty: rassid_dynasty
+    adm: 75
+    dip: 30
+    mil: 45
+    religion: shia
+    culture: yemeni_culture
+  1003.7.11:
+    death: yes
+rass_al_mahdi_al_husayn_rassid:
+  987.1.1:
+    birth: sana_yemen #TODO: Date and location guessed, check if better data is available
+    first_name: al_mahdi_al_husayn
+    dynasty: rassid_dynasty
+    father: rass_al_mansur_al_qasim_al_iyyani_rassid_1 #TODO: check if this makes sense
+    adm: 75
+    dip: 60
+    mil: 45
+    religion: shia
+    culture: yemeni_culture
+  1013.1.1:
+    death: yes
+rass_al_mahdi_al_husayn_rassid_1:
+  973.1.1:
+    birth: sana_yemen #TODO: Date and location guessed, check if better data is available
+    first_name: al_mahdi_al_husayn
+    dynasty: rassid_dynasty
+    adm: 75
+    dip: 60
+    mil: 45
+    religion: shia
+    culture: yemeni_culture
+  1013.1.1:
+    death: yes
+rass_al_muayyad_ahmad_rassid:
+  944.1.1:
+    birth: sana_yemen #TODO: Date and location guessed, check if better data is available
+    first_name: al_muayyad_ahmad
+    dynasty: rassid_dynasty
+    father: rass_al_mahdi_al_husayn_rassid_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: shia
+    culture: yemeni_culture
+  1020.1.1:
+    death: yes
+rass_al_muayyad_ahmad_rassid_1:
+  983.1.1:
+    birth: sana_yemen #TODO: Date and location guessed, check if better data is available
+    first_name: al_muayyad_ahmad
+    dynasty: rassid_dynasty
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: shia
+    culture: yemeni_culture
+  1020.1.1:
+    death: yes
+rass_abu_talib_yahya_rassid:
+  951.1.1:
+    birth: sana_yemen #TODO: Date and location guessed, check if better data is available
+    first_name: abu_talib_yahya
+    dynasty: rassid_dynasty
+    father: rass_al_muayyad_ahmad_rassid_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 75
+    mil: 15
+    religion: shia
+    culture: yemeni_culture
+  1033.1.1:
+    death: yes
+rass_abu_talib_yahya_rassid_1:
+  990.1.1:
+    birth: sana_yemen #TODO: Date and location guessed, check if better data is available
+    first_name: abu_talib_yahya
+    dynasty: rassid_dynasty
+    adm: 15
+    dip: 75
+    mil: 15
+    religion: shia
+    culture: yemeni_culture
+  1031.1.1:
+    death: yes
+rass_abu_hashim_al_hasan_rassid:
+  980.1.1:
+    birth: sana_yemen #TODO: Date and location guessed, check if better data is available
+    first_name: abu_hashim_al_hasan
+    dynasty: rassid_dynasty
+    father: rass_abu_talib_yahya_rassid_1 #TODO: check if this makes sense
+    adm: 75
+    dip: 75
+    mil: 75
+    religion: shia
+    culture: yemeni_culture
+  1039.1.1:
+    death: yes
+rass_abu_hashim_al_hasan_rassid_1:
+  1001.1.1:
+    birth: sana_yemen #TODO: Date and location guessed, check if better data is available
+    first_name: abu_hashim_al_hasan
+    dynasty: rassid_dynasty
+    adm: 75
+    dip: 75
+    mil: 75
+    religion: shia
+    culture: yemeni_culture
+  1039.1.1:
+    death: yes
+rass_abul_fath_an_nasir_ad_dailami_rassid:
+  1000.1.1:
+    birth: sana_yemen #TODO: Date and location guessed, check if better data is available
+    first_name: abul_fath_an_nasir_ad_dailami
+    dynasty: rassid_dynasty
+    father: rass_abu_hashim_al_hasan_rassid_1 #TODO: check if this makes sense
+    adm: 60
+    dip: 45
+    mil: 15
+    religion: shia
+    culture: yemeni_culture
+  1053.1.1:
+    death: yes
+rass_abul_fath_an_nasir_ad_dailami_rassid_1:
+  1009.1.1:
+    birth: sana_yemen #TODO: Date and location guessed, check if better data is available
+    first_name: abul_fath_an_nasir_ad_dailami
+    dynasty: rassid_dynasty
+    adm: 60
+    dip: 45
+    mil: 15
+    religion: shia
+    culture: yemeni_culture
+  3000.1.1:
+    death: yes
+rass_al_muhtasib_al_mujahid_hamzah_rassid:
+  1030.1.1:
+    birth: sana_yemen #TODO: Date and location guessed, check if better data is available
+    first_name: al_muhtasib_al_mujahid_hamzah
+    dynasty: rassid_dynasty
+    adm: 60
+    dip: 30
+    mil: 15
+    religion: shia
+    culture: yemeni_culture
+  3000.1.1:
+    death: yes
+rass_al_mutawakkil_ahmad_rassid:
+  1108.1.1:
+    birth: sana_yemen #TODO: Date and location guessed, check if better data is available
+    first_name: al_mutawakkil_ahmad
+    dynasty: rassid_dynasty
+    adm: 60
+    dip: 45
+    mil: 45
+    religion: shia
+    culture: yemeni_culture
+  3000.1.1:
+    death: yes
+rass_al_mansur_abdallah_rassid:
+  1167.1.1:
+    birth: sana_yemen #TODO: Date and location guessed, check if better data is available
+    first_name: al_mansur_abdallah
+    dynasty: rassid_dynasty
+    adm: 30
+    dip: 45
+    mil: 45
+    religion: shia
+    culture: yemeni_culture
+  1217.4.21:
+    death: yes
+rass_al_hadi_yahya_rassid:
+  1180.1.1:
+    birth: sana_yemen #TODO: Date and location guessed, check if better data is available
+    first_name: al_hadi_yahya
+    dynasty: rassid_dynasty
+    father: rass_al_mansur_abdallah_rassid #TODO: check if this makes sense
+    adm: 15
+    dip: 15
+    mil: 60
+    religion: shia
+    culture: yemeni_culture
+  1239.1.1:
+    death: yes
+rass_al_hadi_yahya_rassid_1:
+  1187.1.1:
+    birth: sana_yemen #TODO: Date and location guessed, check if better data is available
+    first_name: al_hadi_yahya
+    dynasty: rassid_dynasty
+    adm: 15
+    dip: 15
+    mil: 60
+    religion: shia
+    culture: yemeni_culture
+  3000.1.1:
+    death: yes
+rass_al_mahdi_ahmad_rassid:
+  1218.1.1:
+    birth: sana_yemen #TODO: Date and location guessed, check if better data is available
+    first_name: al_mahdi_ahmad
+    dynasty: rassid_dynasty
+    adm: 0
+    dip: 0
+    mil: 45
+    religion: shia
+    culture: yemeni_culture
+  1258.2.20:
+    death: yes
+rass_al_hasan_rassid:
+  1228.1.1:
+    birth: sana_yemen #TODO: Date and location guessed, check if better data is available
+    first_name: al_hasan
+    dynasty: rassid_dynasty
+    adm: 30
+    dip: 45
+    mil: 75
+    religion: shia
+    culture: yemeni_culture
+  1261.1.1:
+    death: yes
+rass_yahya_rassid:
+  1231.1.1:
+    birth: sana_yemen #TODO: Date and location guessed, check if better data is available
+    first_name: yahya
+    dynasty: rassid_dynasty
+    adm: 45
+    dip: 75
+    mil: 45
+    religion: shia
+    culture: yemeni_culture
+  1262.1.1:
+    death: yes
+rass_al_mansur_al_hasan_rassid:
+  1232.1.1:
+    birth: sana_yemen #TODO: Date and location guessed, check if better data is available
+    first_name: al_mansur_al_hasan
+    dynasty: rassid_dynasty
+    adm: 75
+    dip: 15
+    mil: 0
+    religion: shia
+    culture: yemeni_culture
+  1271.1.1:
+    death: yes
+rass_al_mahdi_ibrahim_rassid:
+  1241.1.1:
+    birth: sana_yemen #TODO: Date and location guessed, check if better data is available
+    first_name: al_mahdi_ibrahim
+    dynasty: rassid_dynasty
+    adm: 15
+    dip: 0
+    mil: 15
+    religion: shia
+    culture: yemeni_culture
+  1276.1.1:
+    death: yes
+rass_al_mutawakkil_al_mutahhar_rassid:
+  1217.6.1:
+    birth: sana_yemen #TODO: Location guessed, check if better data is available
+    first_name: al_mutawakkil_al_mutahhar
+    dynasty: rassid_dynasty
+    adm: 0
+    dip: 0
+    mil: 15
+    religion: shia
+    culture: yemeni_culture
+  1298.6.12:
+    death: yes
+rass_al_mahdi_muhammad_rassid:
+  1275.1.1:
+    birth: sana_yemen #TODO: Date and location guessed, check if better data is available
+    first_name: al_mahdi_muhammad
+    dynasty: rassid_dynasty
+    adm: 0
+    dip: 30
+    mil: 60
+    religion: shia
+    culture: yemeni_culture
+  1328.10.28:
+    death: yes
+rass_al_muayyad_yahya_rassid:
+  1270.10.15:
+    birth: sana_yemen #TODO: Location guessed, check if better data is available
+    first_name: al_muayyad_yahya
+    dynasty: rassid_dynasty
+    adm: 0
+    dip: 0
+    mil: 60
+    religion: shia
+    culture: yemeni_culture
+  1346.1.1:
+    death: yes
+rass_al_wathiq_al_mutahhar_rassid:
+  1303.1.1:
+    birth: sana_yemen #TODO: Date and location guessed, check if better data is available
+    first_name: al_wathiq_al_mutahhar
+    dynasty: rassid_dynasty
+    adm: 15
+    dip: 45
+    mil: 45
+    religion: shia
+    culture: yemeni_culture
+  1349.1.1:
+    death: yes
+rass_al_mahdi_ali_rassid:
+  1305.9.25:
+    birth: sana_yemen #TODO: Location guessed, check if better data is available
+    first_name: al_mahdi_ali
+    dynasty: rassid_dynasty
+    adm: 15
+    dip: 30
+    mil: 30
+    religion: shia
+    culture: yemeni_culture
+  1372.1.1:
+    death: yes
+rass_muhammad_salah_al_din_rassid:
+  1338.9.4:
+    birth: sana_yemen #TODO: Location guessed, check if better data is available
+    first_name: muhammad_salah_al_din
+    dynasty: rassid_dynasty
+    adm: 75
+    dip: 60
+    mil: 60
+    religion: shia
+    culture: yemeni_culture
+  1391.11.2:
+    death: yes
+rass_al_mansur_ali_rassid:
+  1373.1.1:
+    birth: sana_yemen #TODO: Date and location guessed, check if better data is available
+    first_name: al_mansur_ali
+    dynasty: rassid_dynasty
+    adm: 0
+    dip: 15
+    mil: 15
+    religion: shia
+    culture: yemeni_culture
+  1436.1.1:
+    death: yes
+rass_al_mutahhar_rassid:
+  1398.1.1:
+    birth: sana_yemen #TODO: Date and location guessed, check if better data is available
+    first_name: al_mutahhar
+    dynasty: rassid_dynasty
+    adm: 45
+    dip: 15
+    mil: 60
+    religion: shia
+    culture: yemeni_culture
+  1474.7.1:
+    death: yes
+rass_al_mansur_muhammad_rassid:
+  1444.1.1:
+    birth: sadah #TODO: Date and location guessed, check if better data is available
+    first_name: al_mansur_muhammad
+    dynasty: rassid_dynasty
+    adm: 30
+    dip: 30
+    mil: 45
+    religion: shia
+    culture: yemeni_culture
+  1506.1.1:
+    death: yes
+rass_yahya_sharaf_ad_din_rassid:
+  1476.1.1:
+    birth: sadah #TODO: Date and location guessed, check if better data is available
+    first_name: yahya_sharaf_ad_din
+    dynasty: rassid_dynasty
+    adm: 45
+    dip: 15
+    mil: 60
+    religion: shia
+    culture: yemeni_culture
+  1555.1.1:
+    death: yes
+rass_al_mutahhar_rassid_1:
+  1525.1.1:
+    birth: sadah #TODO: Date and location guessed, check if better data is available
+    first_name: al_mutahhar
+    dynasty: rassid_dynasty
+    adm: 45
+    dip: 15
+    mil: 60
+    religion: shia
+    culture: yemeni_culture
+  1579.1.1:
+    death: yes
+rass_al_hasan_rassid_1:
+  1549.1.1:
+    birth: sadah #TODO: Date and location guessed, check if better data is available
+    first_name: al_hasan
+    dynasty: rassid_dynasty
+    adm: 45
+    dip: 15
+    mil: 30
+    religion: shia
+    culture: yemeni_culture
+  1597.1.1:
+    death: yes
+rass_al_qasim_rassid:
+  1567.1.1:
+    birth: sadah #TODO: Date and location guessed, check if better data is available
+    first_name: al_qasim
+    dynasty: rassid_dynasty
+    adm: 60
+    dip: 45
+    mil: 75
+    religion: shia
+    culture: yemeni_culture
+  1620.2.18:
+    death: yes
+rass_muhammad_i_rassid:
+  1582.1.1:
+    birth: sadah #TODO: Date and location guessed, check if better data is available
+    first_name: muhammad
+    dynasty: rassid_dynasty
+    father: rass_al_qasim_rassid #TODO: check if this makes sense
+    adm: 30
+    dip: 45
+    mil: 45
+    religion: shia
+    culture: yemeni_culture
+  1644.9.30:
+    death: yes
+rass_muhammad_i_rassid_1:
+  1590.1.1:
+    birth: sadah #TODO: Date and location guessed, check if better data is available
+    first_name: muhammad
+    dynasty: rassid_dynasty
+    adm: 30
+    dip: 45
+    mil: 45
+    religion: shia
+    culture: yemeni_culture
+  1644.9.30:
+    death: yes
+rass_ismail_rassid:
+  1610.1.1:
+    birth: sadah #TODO: Date and location guessed, check if better data is available
+    first_name: ismail
+    dynasty: rassid_dynasty
+    father: rass_muhammad_i_rassid_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 60
+    mil: 15
+    religion: shia
+    culture: yemeni_culture
+  1676.8.15:
+    death: yes
+rass_ismail_rassid_1:
+  1614.1.1:
+    birth: sadah #TODO: Date and location guessed, check if better data is available
+    first_name: ismail
+    dynasty: rassid_dynasty
+    adm: 30
+    dip: 60
+    mil: 15
+    religion: shia
+    culture: yemeni_culture
+  1676.7.15:
+    death: yes
+rass_ahmad_i_rassid:
+  1633.1.1:
+    birth: sadah #TODO: Date and location guessed, check if better data is available
+    first_name: ahmad
+    dynasty: rassid_dynasty
+    father: rass_ismail_rassid_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 45
+    mil: 30
+    religion: shia
+    culture: yemeni_culture
+  1681.6.1:
+    death: yes
+rass_ahmad_i_rassid_1:
+  1646.1.1:
+    birth: sadah #TODO: Date and location guessed, check if better data is available
+    first_name: ahmad
+    dynasty: rassid_dynasty
+    adm: 15
+    dip: 45
+    mil: 30
+    religion: shia
+    culture: yemeni_culture
+  1681.6.1:
+    death: yes
+rass_muhammad_ii_rassid:
+  1650.1.1:
+    birth: sadah #TODO: Date and location guessed, check if better data is available
+    first_name: muhammad
+    dynasty: rassid_dynasty
+    father: rass_ahmad_i_rassid_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 15
+    mil: 30
+    religion: shia
+    culture: yemeni_culture
+  1686.1.1:
+    death: yes
+rass_muhammad_ii_rassid_1:
+  1651.1.1:
+    birth: sadah #TODO: Date and location guessed, check if better data is available
+    first_name: muhammad
+    dynasty: rassid_dynasty
+    adm: 15
+    dip: 15
+    mil: 30
+    religion: shia
+    culture: yemeni_culture
+  1686.1.1:
+    death: yes
+rass_muhammad_iii_rassid:
+  1660.1.1:
+    birth: sadah #TODO: Date and location guessed, check if better data is available
+    first_name: muhammad
+    dynasty: rassid_dynasty
+    father: rass_muhammad_ii_rassid_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 30
+    mil: 45
+    religion: shia
+    culture: yemeni_culture
+  1718.1.1:
+    death: yes
+rass_muhammad_iii_rassid_1:
+  1656.1.1:
+    birth: sadah #TODO: Date and location guessed, check if better data is available
+    first_name: muhammad
+    dynasty: rassid_dynasty
+    adm: 30
+    dip: 30
+    mil: 45
+    religion: shia
+    culture: yemeni_culture
+  1718.1.1:
+    death: yes
+rass_al_qasim_i_rassid:
+  1670.1.1:
+    birth: sadah #TODO: Date and location guessed, check if better data is available
+    first_name: al_qasim
+    dynasty: rassid_dynasty
+    father: rass_muhammad_iii_rassid_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 15
+    mil: 60
+    religion: shia
+    culture: yemeni_culture
+  1727.1.1:
+    death: yes
+rass_al_qasim_i_rassid_1:
+  1688.1.1:
+    birth: sadah #TODO: Date and location guessed, check if better data is available
+    first_name: al_qasim
+    dynasty: rassid_dynasty
+    adm: 30
+    dip: 15
+    mil: 60
+    religion: shia
+    culture: yemeni_culture
+  1727.1.1:
+    death: yes
+rass_al_husayn_rassid:
+  1700.1.1:
+    birth: sadah #TODO: Date and location guessed, check if better data is available
+    first_name: al_husayn
+    dynasty: rassid_dynasty
+    father: rass_al_qasim_i_rassid_1 #TODO: check if this makes sense
+    adm: 0
+    dip: 45
+    mil: 30
+    religion: shia
+    culture: yemeni_culture
+  1748.3.6:
+    death: yes
+rass_al_husayn_rassid_1:
+  1697.1.1:
+    birth: sadah #TODO: Date and location guessed, check if better data is available
+    first_name: al_husayn
+    dynasty: rassid_dynasty
+    adm: 0
+    dip: 45
+    mil: 30
+    religion: shia
+    culture: yemeni_culture
+  1748.3.6:
+    death: yes
+rass_al_abbas_rassid:
+  1719.1.1:
+    birth: sadah #TODO: Date and location guessed, check if better data is available
+    first_name: al_abbas
+    dynasty: rassid_dynasty
+    father: rass_al_husayn_rassid_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 15
+    mil: 15
+    religion: shia
+    culture: yemeni_culture
+  1775.9.4:
+    death: yes
+rass_al_abbas_rassid_1:
+  1718.1.1:
+    birth: sadah #TODO: Date and location guessed, check if better data is available
+    first_name: al_abbas
+    dynasty: rassid_dynasty
+    adm: 30
+    dip: 15
+    mil: 15
+    religion: shia
+    culture: yemeni_culture
+  1775.1.1:
+    death: yes
+rass_ali_i_rassid:
+  1738.1.1:
+    birth: sadah #TODO: Date and location guessed, check if better data is available
+    first_name: ali
+    dynasty: rassid_dynasty
+    father: rass_al_abbas_rassid_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: shia
+    culture: yemeni_culture
+  1809.10.25:
+    death: yes
+rass_ali_i_rassid_1:
+  1745.1.1:
+    birth: sadah #TODO: Date and location guessed, check if better data is available
+    first_name: ali
+    dynasty: rassid_dynasty
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: shia
+    culture: yemeni_culture
+  1809.1.1:
+    death: yes
+rass_ahmad_ii_rassid:
+  1765.1.1:
+    birth: sadah #TODO: Date and location guessed, check if better data is available
+    first_name: ahmad
+    dynasty: rassid_dynasty
+    father: rass_ali_i_rassid_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 30
+    mil: 45
+    religion: shia
+    culture: yemeni_culture
+  1816.1.1:
+    death: yes
+rass_ahmad_ii_rassid_1:
+  1779.1.1:
+    birth: sadah #TODO: Date and location guessed, check if better data is available
+    first_name: ahmad
+    dynasty: rassid_dynasty
+    adm: 45
+    dip: 30
+    mil: 45
+    religion: shia
+    culture: yemeni_culture
+  1816.1.1:
+    death: yes
+rass__abdallah_i_rassid:
+  1793.1.1:
+    birth: sadah #TODO: Date and location guessed, check if better data is available
+    first_name: _abdallah
+    dynasty: rassid_dynasty
+    father: rass_ahmad_ii_rassid_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 45
+    mil: 45
+    religion: shia
+    culture: yemeni_culture
+  1835.11.28:
+    death: yes
+rass_abdallah_i_rassid:
+  1786.1.1:
+    birth: sadah #TODO: Date and location guessed, check if better data is available
+    first_name: abdallah
+    dynasty: rassid_dynasty
+    adm: 30
+    dip: 45
+    mil: 45
+    religion: shia
+    culture: yemeni_culture
+  1835.1.1:
+    death: yes
+rass_ali_ii_rassid:
+  1812.1.1:
+    birth: sadah #TODO: Date and location guessed, check if better data is available
+    first_name: ali
+    dynasty: rassid_dynasty
+    adm: 0
+    dip: 15
+    mil: 75
+    religion: shia
+    culture: yemeni_culture
+  1837.1.1:
+    death: yes
+rass_abdallah_ii_rassid:
+  1807.1.1:
+    birth: sadah #TODO: Date and location guessed, check if better data is available
+    first_name: abdallah
+    dynasty: rassid_dynasty
+    adm: 30
+    dip: 75
+    mil: 60
+    religion: shia
+    culture: yemeni_culture
+  1840.4.1:
+    death: yes
+rass_muhammad_iv_rassid:
+  1810.1.1:
+    birth: sadah #TODO: Date and location guessed, check if better data is available
+    first_name: muhammad
+    dynasty: rassid_dynasty
+    adm: 15
+    dip: 15
+    mil: 45
+    religion: shia
+    culture: yemeni_culture
+  1844.1.10:
+    death: yes
+rass_muhammad_v_rassid:
+  1800.1.1:
+    birth: sadah #TODO: Date and location guessed, check if better data is available
+    first_name: muhammad
+    dynasty: rassid_dynasty
+    adm: 15
+    dip: 75
+    mil: 75
+    religion: shia
+    culture: yemeni_culture
+  1849.21.11:
+    death: yes
+rass_muhammad_vi_rassid:
+  1802.12.16:
+    birth: sadah #TODO: Location guessed, check if better data is available
+    first_name: muhammad
+    dynasty: rassid_dynasty
+    adm: 75
+    dip: 60
+    mil: 75
+    religion: shia
+    culture: yemeni_culture
+  1890.2.8:
+    death: yes
+rass_muhammad_vii_rassid:
+  1839.1.1:
+    birth: sadah #TODO: Date and location guessed, check if better data is available
+    first_name: muhammad
+    dynasty: rassid_dynasty
+    adm: 75
+    dip: 15
+    mil: 30
+    religion: shia
+    culture: yemeni_culture
+  1904.6.4:
+    death: yes
+rass_yahya_hamid_ed_din_rassid:
+  1869.6.18:
+    birth: sadah #TODO: Location guessed, check if better data is available
+    first_name: yahya_hamid_ed_din
+    dynasty: rassid_dynasty
+    adm: 60
+    dip: 45
+    mil: 75
+    religion: shia
+    culture: yemeni_culture
+  1948.2.17:
+    death: yes
+rass_ahmad_rassid:
+  1891.6.18:
+    birth: sadah #TODO: Location guessed, check if better data is available
+    first_name: ahmad
+    dynasty: rassid_dynasty
+    adm: 75
+    dip: 15
+    mil: 45
+    religion: shia
+    culture: yemeni_culture
+  1962.9.18:
+    death: yes
+rass_muhammad_al_badr_rassid:
+  1926.2.15:
+    birth: sadah #TODO: Location guessed, check if better data is available
+    first_name: muhammad_al_badr
+    dynasty: rassid_dynasty
+    adm: 60
+    dip: 15
+    mil: 15
+    religion: shia
+    culture: yemeni_culture
+  1996.8.6:
+    death: yes

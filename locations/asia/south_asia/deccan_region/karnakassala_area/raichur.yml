@@ -1,0 +1,136 @@
+#imported from EU4 file: history/provinces/532 - Raichur Doab.txt
+2.1.1:
+  owner: SATA
+  controller: SATA
+  cores:
+    SATA: yes
+  resource: cloth
+  pop:
+    ethnicity: kannadiga
+    religion: mahayana
+    estate: peasant
+    size: 1000
+220.1.1:
+  owner: PUZH
+  controller: PUZH
+  cores:
+    SATA: no
+    PUZH: yes
+240.1.1:
+  pop:
+    religion: jain
+    estate: peasant
+    size: 1000
+275.1.1:
+  owner: PALL
+  controller: PALL
+  cores:
+    PUZH: no
+    PALL: yes
+345.1.1:
+  owner: KADA
+  controller: KADA
+  cores:
+    PALL: no
+    KADA: yes
+543.1.1:
+  owner: CHAL
+  controller: CHAL
+  cores:
+    KADA: no
+    CHAL: yes
+753.1.1:
+  owner: RAST
+  controller: RAST
+  cores:
+    CHAL: no
+    RAST: yes
+982.1.1:
+  owner: CHAL
+  controller: CHAL
+  cores:
+    RAST: no
+    CHAL: yes
+1186.1.1:
+  owner: HSL
+  controller: HSL
+  cores:
+    CHAL: no
+    HSL: yes
+1220.1.1:
+  pop:
+    religion: hindu
+    estate: peasant
+    size: 1000
+1325.1.1:
+  owner: DLH
+  controller: DLH
+  cores:
+    HSL: no
+    DLH: yes
+    BIJA: yes
+1336.1.1:
+  owner: VIJ
+  controller: VIJ
+  cores:
+    DLH: no
+    VIJ: yes
+1378.1.1:
+  owner: BAH
+  controller: BAH
+1428.1.1:
+  cores:
+    BAH: yes
+1493.1.1:
+  owner: VIJ
+  controller: VIJ
+1503.1.1:
+  owner: BIJA
+  controller: BIJA
+1511.1.1:
+  controller: VIJ
+1512.1.1:
+  owner: VIJ
+1515.1.1:
+  owner: BIJA
+  controller: BIJA
+1521.1.1:
+  controller: VIJ
+1522.1.1:
+  owner: VIJ
+1529.1.1:
+  owner: BIJA
+  controller: BIJA
+1534.8.27:
+  owner: VIJ
+  controller: VIJ
+1565.1.26:
+  controller: BIJA
+1565.7.1:
+  owner: BIJA
+  cores:
+    VIJ: no
+1685.1.1:
+  controller: MUG
+1686.1.1:
+  owner: MUG
+  cores:
+    BAH: no
+    BIJA: no
+    MUG: yes
+1712.1.1:
+  cores:
+    DEC: yes
+1724.1.1:
+  owner: DEC
+  controller: DEC
+  cores:
+    MUG: no
+1930.1.1:
+  cores:
+    INDI: yes
+1948.9.1:
+  owner: INDI
+  controller: INDI
+  cores:
+    DEC: no

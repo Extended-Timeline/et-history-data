@@ -1,0 +1,157 @@
+#imported from EU4 file: history/provinces/1769 - Gorz.txt
+2.1.1:
+  owner: ROM
+  controller: ROM
+  cores:
+    ROM: yes
+  resource: iron
+  pop:
+    ethnicity: venetian
+    religion: hellenism_religion
+    estate: peasant
+    size: 1000
+320.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+395.1.17:
+  owner: ROMW
+  controller: ROMW
+  cores:
+    ROM: no
+    ROMW: yes
+476.9.4:
+  owner: ITA
+  controller: ITA
+  cores:
+    ITA: yes
+480.1.1:
+  cores:
+    ROMW: no
+489.1.1:
+  owner: OSTR
+  controller: OSTR
+  cores:
+    ITA: no
+    OSTR: yes
+  pop:
+    ethnicity: gothic
+    estate: peasant
+    size: 1000
+490.1.1:
+  pop:
+    religion: arianism
+    estate: peasant
+    size: 1000
+545.1.1:
+  owner: BYZ
+  controller: BYZ
+  cores:
+    BYZ: yes
+568.1.1:
+  owner: LOMB
+  controller: LOMB
+  cores:
+    OSTR: no
+    BYZ: no
+    LOMB: yes
+568.6.1:
+  pop:
+    ethnicity: lombard
+    estate: peasant
+    size: 1000
+650.1.1:
+  pop:
+    ethnicity: slovene
+    religion: slavic
+    estate: peasant
+    size: 1000
+680.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+774.1.1:
+  owner: FRAN
+  controller: FRAN
+  cores:
+    LOMB: no
+    FRAN: yes
+840.6.21:
+  owner: MFRA
+  controller: MFRA
+  cores:
+    FRAN: no
+    MFRA: yes
+855.9.30:
+  owner: ITA
+  controller: ITA
+  cores:
+    MFRA: no
+    ITA: yes
+867.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+951.1.1:
+  owner: BAV
+  controller: BAV
+  cores:
+    EFRA: no
+    BAV: yes
+    CART: yes
+962.2.2:
+  owner: CART
+  controller: CART
+  cores:
+    BAV: no
+    CART: yes
+1040.1.1:
+  owner: CAR
+  controller: CAR
+  cores:
+    CART: no
+    CAR: yes
+1209.1.1:
+  owner: AQU
+  controller: AQU
+  cores:
+    AQU: yes
+1420.1.1:
+  owner: HAB
+  controller: HAB
+  cores:
+    AQU: no
+    HAB: yes
+    STY: yes
+1452.1.1:
+  owner: STY
+  controller: STY
+1457.11.24:
+  owner: HAB
+  controller: HAB
+  cores:
+    STY: no
+1919.9.10:
+  owner: ITA
+  controller: ITA
+  cores:
+    HAB: no
+    ITA: yes
+1943.9.8:
+  owner: GER
+  controller: GER
+  cores:
+    ITA: no
+    YUGO: yes
+    SLOV: yes
+1945.5.8:
+  owner: YUGO
+  controller: YUGO
+1991.6.25:
+  owner: SLOV
+  controller: SLOV
+  cores:
+    YUGO: no

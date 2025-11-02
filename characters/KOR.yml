@@ -1,0 +1,636 @@
+kor_taejo_yi:
+  1362.1.1:
+    birth: namgyeong #TODO: Date and location guessed, check if better data is available
+    first_name: taejo
+    dynasty: yi_dynasty
+    adm: 75
+    dip: 60
+    mil: 60
+    religion: sanjiao
+    culture: korean_culture
+  1398.9.1:
+    death: yes
+kor_jeongjong_yi:
+  1357.7.1:
+    birth: namgyeong #TODO: Location guessed, check if better data is available
+    first_name: jeongjong
+    dynasty: yi_dynasty
+    father: kor_taejo_yi #TODO: check if this makes sense
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: sanjiao
+    culture: korean_culture
+  1419.9.26:
+    death: yes
+kor_jeongjong_yi_1:
+  1368.1.1:
+    birth: namgyeong #TODO: Date and location guessed, check if better data is available
+    first_name: jeongjong
+    dynasty: yi_dynasty
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: sanjiao
+    culture: korean_culture
+  1400.11.13:
+    death: yes
+kor_taejong_yi:
+  1367.5.18:
+    birth: namgyeong #TODO: Location guessed, check if better data is available
+    first_name: taejong
+    dynasty: yi_dynasty
+    father: kor_jeongjong_yi_1 #TODO: check if this makes sense
+    adm: 60
+    dip: 60
+    mil: 75
+    religion: sanjiao
+    culture: korean_culture
+  1422.5.10:
+    death: yes
+kor_taejong_yi_1:
+  1370.1.1:
+    birth: namgyeong #TODO: Date and location guessed, check if better data is available
+    first_name: taejong
+    dynasty: yi_dynasty
+    adm: 60
+    dip: 60
+    mil: 75
+    religion: sanjiao
+    culture: korean_culture
+  1418.9.18:
+    death: yes
+kor_sejong_yi:
+  1397.5.6:
+    birth: namgyeong #TODO: Location guessed, check if better data is available
+    first_name: sejong
+    dynasty: yi_dynasty
+    father: kor_taejong_yi_1 #TODO: check if this makes sense
+    adm: 90
+    dip: 75
+    mil: 75
+    religion: sanjiao
+    culture: korean_culture
+  1450.5.18:
+    death: yes
+kor_sejong_yi_1:
+  1388.1.1:
+    birth: namgyeong #TODO: Date and location guessed, check if better data is available
+    first_name: sejong
+    dynasty: yi_dynasty
+    adm: 90
+    dip: 75
+    mil: 75
+    religion: sanjiao
+    culture: korean_culture
+  1450.5.18:
+    death: yes
+kor_munjong_ii_yi:
+  1414.1.1:
+    birth: namgyeong #TODO: Date and location guessed, check if better data is available
+    first_name: munjong
+    dynasty: yi_dynasty
+    father: kor_sejong_yi_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 15
+    mil: 15
+    religion: sanjiao
+    culture: korean_culture
+  1452.6.12:
+    death: yes
+kor_munjong_ii_yi_1:
+  1420.1.1:
+    birth: namgyeong #TODO: Date and location guessed, check if better data is available
+    first_name: munjong
+    dynasty: yi_dynasty
+    adm: 30
+    dip: 15
+    mil: 15
+    religion: sanjiao
+    culture: korean_culture
+  1452.6.12:
+    death: yes
+kor_danjong_yi:
+  1441.1.1:
+    birth: namgyeong #TODO: Date and location guessed, check if better data is available
+    first_name: danjong
+    dynasty: yi_dynasty
+    father: kor_munjong_ii_yi_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 15
+    mil: 60
+    religion: sanjiao
+    culture: korean_culture
+  1457.1.1:
+    death: yes
+kor_danjong_yi_1:
+  1422.1.1:
+    birth: namgyeong #TODO: Date and location guessed, check if better data is available
+    first_name: danjong
+    dynasty: yi_dynasty
+    adm: 45
+    dip: 15
+    mil: 60
+    religion: sanjiao
+    culture: korean_culture
+  1456.1.1:
+    death: yes
+kor_se_jo_yi:
+  1417.1.1:
+    birth: namgyeong #TODO: Date and location guessed, check if better data is available
+    first_name: se_jo
+    dynasty: yi_dynasty
+    father: kor_danjong_yi_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 15
+    mil: 15
+    religion: sanjiao
+    culture: korean_culture
+  1468.1.1:
+    death: yes
+kor_se_jo_yi_1:
+  1426.1.1:
+    birth: namgyeong #TODO: Date and location guessed, check if better data is available
+    first_name: se_jo
+    dynasty: yi_dynasty
+    adm: 15
+    dip: 15
+    mil: 15
+    religion: sanjiao
+    culture: korean_culture
+  1468.10.2:
+    death: yes
+kor_ye_jong_yi:
+  1450.1.1:
+    birth: namgyeong #TODO: Date and location guessed, check if better data is available
+    first_name: ye_jong
+    dynasty: yi_dynasty
+    father: kor_se_jo_yi_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 15
+    mil: 30
+    religion: sanjiao
+    culture: korean_culture
+  1469.1.10:
+    death: yes
+kor_ye_jong_yi_1:
+  1438.1.1:
+    birth: namgyeong #TODO: Date and location guessed, check if better data is available
+    first_name: ye_jong
+    dynasty: yi_dynasty
+    adm: 30
+    dip: 15
+    mil: 30
+    religion: sanjiao
+    culture: korean_culture
+  1469.1.10:
+    death: yes
+kor_seongjong_yi:
+  1457.1.1:
+    birth: namgyeong #TODO: Date and location guessed, check if better data is available
+    first_name: seongjong
+    dynasty: yi_dynasty
+    father: kor_ye_jong_yi_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 45
+    mil: 30
+    religion: sanjiao
+    culture: korean_culture
+  1494.1.1:
+    death: yes
+kor_seongjong_yi_1:
+  1439.1.1:
+    birth: namgyeong #TODO: Date and location guessed, check if better data is available
+    first_name: seongjong
+    dynasty: yi_dynasty
+    adm: 45
+    dip: 45
+    mil: 30
+    religion: sanjiao
+    culture: korean_culture
+  1495.1.30:
+    death: yes
+kor_yeonsangun_yi:
+  1476.1.1:
+    birth: namgyeong #TODO: Date and location guessed, check if better data is available
+    first_name: yeonsangun
+    dynasty: yi_dynasty
+    father: kor_seongjong_yi_1 #TODO: check if this makes sense
+    adm: 0
+    dip: 0
+    mil: 0
+    religion: sanjiao
+    culture: korean_culture
+  1506.1.1:
+    death: yes
+kor_yeonsangun_yi_1:
+  1465.1.1:
+    birth: namgyeong #TODO: Date and location guessed, check if better data is available
+    first_name: yeonsangun
+    dynasty: yi_dynasty
+    adm: 0
+    dip: 0
+    mil: 0
+    religion: sanjiao
+    culture: korean_culture
+  1506.1.1:
+    death: yes
+kor_jungjong_yi:
+  1488.1.1:
+    birth: namgyeong #TODO: Date and location guessed, check if better data is available
+    first_name: jungjong
+    dynasty: yi_dynasty
+    father: kor_yeonsangun_yi_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 15
+    mil: 15
+    religion: sanjiao
+    culture: korean_culture
+  1544.12.5:
+    death: yes
+kor_jungjong_yi_1:
+  1476.1.1:
+    birth: namgyeong #TODO: Date and location guessed, check if better data is available
+    first_name: jungjong
+    dynasty: yi_dynasty
+    adm: 15
+    dip: 15
+    mil: 15
+    religion: sanjiao
+    culture: korean_culture
+  1544.12.5:
+    death: yes
+kor_injong_yi:
+  1515.1.1:
+    birth: namgyeong #TODO: Date and location guessed, check if better data is available
+    first_name: injong
+    dynasty: yi_dynasty
+    father: kor_jungjong_yi_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 15
+    mil: 15
+    religion: sanjiao
+    culture: korean_culture
+  1545.8.18:
+    death: yes
+kor_injong_yi_1:
+  1514.1.1:
+    birth: namgyeong #TODO: Date and location guessed, check if better data is available
+    first_name: injong
+    dynasty: yi_dynasty
+    adm: 30
+    dip: 15
+    mil: 15
+    religion: sanjiao
+    culture: korean_culture
+  1545.8.18:
+    death: yes
+kor_myeongjong_yi:
+  1534.1.1:
+    birth: namgyeong #TODO: Date and location guessed, check if better data is available
+    first_name: myeongjong
+    dynasty: yi_dynasty
+    father: kor_injong_yi_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 15
+    mil: 15
+    religion: sanjiao
+    culture: korean_culture
+  1567.8.13:
+    death: yes
+kor_myeongjong_yi_1:
+  1515.1.1:
+    birth: namgyeong #TODO: Date and location guessed, check if better data is available
+    first_name: myeongjong
+    dynasty: yi_dynasty
+    adm: 30
+    dip: 15
+    mil: 15
+    religion: sanjiao
+    culture: korean_culture
+  1567.8.13:
+    death: yes
+kor_seonjo_yi:
+  1552.1.1:
+    birth: namgyeong #TODO: Date and location guessed, check if better data is available
+    first_name: seonjo
+    dynasty: yi_dynasty
+    father: kor_myeongjong_yi_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 15
+    mil: 0
+    religion: sanjiao
+    culture: korean_culture
+  1608.3.7:
+    death: yes
+kor_seonjo_yi_1:
+  1537.1.1:
+    birth: namgyeong #TODO: Date and location guessed, check if better data is available
+    first_name: seonjo
+    dynasty: yi_dynasty
+    adm: 30
+    dip: 15
+    mil: 0
+    religion: sanjiao
+    culture: korean_culture
+  1608.3.7:
+    death: yes
+kor_gwanghaegun_yi:
+  1574.1.1:
+    birth: namgyeong #TODO: Date and location guessed, check if better data is available
+    first_name: gwanghaegun
+    dynasty: yi_dynasty
+    father: kor_seonjo_yi_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 60
+    mil: 30
+    religion: sanjiao
+    culture: korean_culture
+  1641.1.1:
+    death: yes
+kor_gwanghaegun_yi_1:
+  1578.1.1:
+    birth: namgyeong #TODO: Date and location guessed, check if better data is available
+    first_name: gwanghaegun
+    dynasty: yi_dynasty
+    adm: 15
+    dip: 60
+    mil: 30
+    religion: sanjiao
+    culture: korean_culture
+  1623.4.13:
+    death: yes
+kor_in_jo_yi:
+  1593.1.1:
+    birth: namgyeong #TODO: Date and location guessed, check if better data is available
+    first_name: in_jo
+    dynasty: yi_dynasty
+    adm: 0
+    dip: 0
+    mil: 0
+    religion: sanjiao
+    culture: korean_culture
+  1649.7.5:
+    death: yes
+kor_hyojong_yi:
+  1619.1.1:
+    birth: namgyeong #TODO: Date and location guessed, check if better data is available
+    first_name: hyojong
+    dynasty: yi_dynasty
+    adm: 45
+    dip: 0
+    mil: 30
+    religion: sanjiao
+    culture: korean_culture
+  1659.6.24:
+    death: yes
+kor_hyeonjong_yi:
+  1641.1.1:
+    birth: namgyeong #TODO: Date and location guessed, check if better data is available
+    first_name: hyeonjong
+    dynasty: yi_dynasty
+    father: kor_hyojong_yi #TODO: check if this makes sense
+    adm: 15
+    dip: 0
+    mil: 30
+    religion: sanjiao
+    culture: korean_culture
+  1674.9.19:
+    death: yes
+kor_hyeonjong_yi_1:
+  1629.1.1:
+    birth: namgyeong #TODO: Date and location guessed, check if better data is available
+    first_name: hyeonjong
+    dynasty: yi_dynasty
+    adm: 15
+    dip: 0
+    mil: 30
+    religion: sanjiao
+    culture: korean_culture
+  1674.9.19:
+    death: yes
+kor_sukjong_yi:
+  1661.8.15:
+    birth: namgyeong #TODO: Location guessed, check if better data is available
+    first_name: sukjong
+    dynasty: yi_dynasty
+    father: kor_hyeonjong_yi_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 0
+    mil: 30
+    religion: sanjiao
+    culture: korean_culture
+  1720.7.13:
+    death: yes
+kor_sukjong_yi_1:
+  1644.1.1:
+    birth: namgyeong #TODO: Date and location guessed, check if better data is available
+    first_name: sukjong
+    dynasty: yi_dynasty
+    adm: 45
+    dip: 0
+    mil: 30
+    religion: sanjiao
+    culture: korean_culture
+  1720.7.13:
+    death: yes
+kor_gyeonjong_yi:
+  1688.1.1:
+    birth: namgyeong #TODO: Date and location guessed, check if better data is available
+    first_name: gyeonjong
+    dynasty: yi_dynasty
+    father: kor_sukjong_yi_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 0
+    mil: 15
+    religion: sanjiao
+    culture: korean_culture
+  1724.10.7:
+    death: yes
+kor_gyeonjong_yi_1:
+  1690.1.1:
+    birth: namgyeong #TODO: Date and location guessed, check if better data is available
+    first_name: gyeonjong
+    dynasty: yi_dynasty
+    adm: 15
+    dip: 0
+    mil: 15
+    religion: sanjiao
+    culture: korean_culture
+  1724.10.7:
+    death: yes
+kor_yeongjo_yi:
+  1694.9.13:
+    birth: namgyeong #TODO: Location guessed, check if better data is available
+    first_name: yeongjo
+    dynasty: yi_dynasty
+    father: kor_gyeonjong_yi_1 #TODO: check if this makes sense
+    adm: 60
+    dip: 30
+    mil: 30
+    religion: sanjiao
+    culture: korean_culture
+  1776.3.5:
+    death: yes
+kor_yeongjo_yi_1:
+  1694.1.1:
+    birth: namgyeong #TODO: Date and location guessed, check if better data is available
+    first_name: yeongjo
+    dynasty: yi_dynasty
+    adm: 60
+    dip: 30
+    mil: 30
+    religion: sanjiao
+    culture: korean_culture
+  1776.1.1:
+    death: yes
+kor_jeongjo_yi:
+  1752.9.22:
+    birth: namgyeong #TODO: Location guessed, check if better data is available
+    first_name: jeongjo
+    dynasty: yi_dynasty
+    father: kor_yeongjo_yi_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 0
+    mil: 15
+    religion: sanjiao
+    culture: korean_culture
+  1800.6.28:
+    death: yes
+kor_jeongjo_yi_1:
+  1746.1.1:
+    birth: namgyeong #TODO: Date and location guessed, check if better data is available
+    first_name: jeongjo
+    dynasty: yi_dynasty
+    adm: 15
+    dip: 0
+    mil: 15
+    religion: sanjiao
+    culture: korean_culture
+  1800.8.19:
+    death: yes
+kor_sunjo_yi:
+  1790.1.1:
+    birth: namgyeong #TODO: Date and location guessed, check if better data is available
+    first_name: sunjo
+    dynasty: yi_dynasty
+    father: kor_jeongjo_yi_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 0
+    mil: 15
+    religion: sanjiao
+    culture: korean_culture
+  1834.1.1:
+    death: yes
+kor_sunjo_yi_1:
+  1770.1.1:
+    birth: namgyeong #TODO: Date and location guessed, check if better data is available
+    first_name: sunjo
+    dynasty: yi_dynasty
+    adm: 30
+    dip: 0
+    mil: 15
+    religion: sanjiao
+    culture: korean_culture
+  1834.12.13:
+    death: yes
+kor_heonjong_yi:
+  1827.9.8:
+    birth: namgyeong #TODO: Location guessed, check if better data is available
+    first_name: heonjong
+    dynasty: yi_dynasty
+    father: kor_sunjo_yi_1 #TODO: check if this makes sense
+    adm: 60
+    dip: 75
+    mil: 60
+    religion: sanjiao
+    culture: korean_culture
+  1849.7.25:
+    death: yes
+kor_heonjong_yi_1:
+  1804.1.1:
+    birth: namgyeong #TODO: Date and location guessed, check if better data is available
+    first_name: heonjong
+    dynasty: yi_dynasty
+    adm: 60
+    dip: 75
+    mil: 60
+    religion: sanjiao
+    culture: korean_culture
+  1849.7.25:
+    death: yes
+kor_cheoljong_yi:
+  1831.7.25:
+    birth: namgyeong #TODO: Location guessed, check if better data is available
+    first_name: cheoljong
+    dynasty: yi_dynasty
+    father: kor_heonjong_yi_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 75
+    mil: 75
+    religion: sanjiao
+    culture: korean_culture
+  1864.1.15:
+    death: yes
+kor_cheoljong_yi_1:
+  1819.1.1:
+    birth: namgyeong #TODO: Date and location guessed, check if better data is available
+    first_name: cheoljong
+    dynasty: yi_dynasty
+    adm: 30
+    dip: 75
+    mil: 75
+    religion: sanjiao
+    culture: korean_culture
+  1863.12.13:
+    death: yes
+kor_gojong_yi:
+  1852.9.8:
+    birth: namgyeong #TODO: Location guessed, check if better data is available
+    first_name: gojong
+    dynasty: yi_dynasty
+    father: kor_cheoljong_yi_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 30
+    mil: 60
+    religion: sanjiao
+    culture: korean_culture
+  1919.1.21:
+    death: yes
+kor_gojong_yi_1:
+  1833.1.1:
+    birth: namgyeong #TODO: Date and location guessed, check if better data is available
+    first_name: gojong
+    dynasty: yi_dynasty
+    adm: 45
+    dip: 30
+    mil: 60
+    religion: sanjiao
+    culture: korean_culture
+  1907.7.20:
+    death: yes
+kor_sunjong_yi:
+  1874.3.25:
+    birth: namgyeong #TODO: Location guessed, check if better data is available
+    first_name: sunjong
+    dynasty: yi_dynasty
+    father: kor_gojong_yi_1 #TODO: check if this makes sense
+    adm: 75
+    dip: 30
+    mil: 45
+    religion: sanjiao
+    culture: korean_culture
+  1926.4.24:
+    death: yes
+kor_sunjong_yi_1:
+  1877.1.1:
+    birth: namgyeong #TODO: Date and location guessed, check if better data is available
+    first_name: sunjong
+    dynasty: yi_dynasty
+    adm: 75
+    dip: 30
+    mil: 45
+    religion: sanjiao
+    culture: korean_culture
+  3000.1.1:
+    death: yes

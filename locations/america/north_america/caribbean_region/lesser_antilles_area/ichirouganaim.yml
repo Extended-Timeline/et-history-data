@@ -1,0 +1,38 @@
+#imported from EU4 file: history/provinces/501 - Barbados.txt
+2.1.1:
+  pop:
+    ethnicity: guaribes_culture
+    religion: muisca_religion
+    estate: peasant
+    size: 1000
+1620.1.1:
+  owner: ENG
+  controller: ENG
+  resource: sugar
+  pop:
+    ethnicity: english
+    religion: lutheran
+    estate: peasant
+    size: 1000
+1645.1.1:
+  cores:
+    ENG: yes
+1707.5.12:
+  owner: GBR
+  controller: GBR
+  cores:
+    ENG: no
+    GBR: yes
+1780.1.1:
+  pop:
+    ethnicity: british_caribbean
+    estate: peasant
+    size: 1000
+1817.1.1:
+  controller: GBR
+1966.11.30:
+  owner: BARB
+  controller: BARB
+  cores:
+    GBR: no
+    BARB: yes

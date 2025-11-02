@@ -1,0 +1,33 @@
+#imported from EU4 file: history/provinces/4100 - Luapala.txt
+2.1.1:
+  pop:
+    ethnicity: twa_culture
+    religion: bantu_religion
+    estate: peasant
+    size: 1000
+300.1.1:
+  pop:
+    ethnicity: luba
+    estate: peasant
+    size: 1000
+1350.1.1:
+  owner: KAZE
+  controller: KAZE
+  cores:
+    KAZE: yes
+  resource: copper
+1894.1.1:
+  owner: BEL
+  controller: BEL
+  cores:
+    BEL: yes
+  pop:
+    religion: lutheran
+    estate: peasant
+    size: 1000
+1960.7.1:
+  owner: DRCO
+  controller: DRCO
+  cores:
+    BEL: no
+    DRCO: yes

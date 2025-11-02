@@ -1,0 +1,82 @@
+#imported from EU4 file: history/provinces/4689 - Om.txt
+2.1.1:
+  pop:
+    ethnicity: kimek
+    religion: mari_paganism
+    estate: peasant
+    size: 1000
+659.1.1:
+  owner: KANG
+  controller: KANG
+  cores:
+    KANG: yes
+  resource: fur
+  pop:
+    religion: 
+    estate: peasant
+    size: 1000
+750.1.1:
+  owner: KIME
+  controller: KIME
+  cores:
+    KANG: no
+    KIME: yes
+1236.1.1:
+  owner: MGE
+  controller: MGE
+  cores:
+    KIME: no
+    MGE: yes
+  pop:
+    ethnicity: sakha_culture
+    estate: peasant
+    size: 1000
+1260.1.1:
+  owner: BLHO
+  controller: BLHO
+  cores:
+    MGE: no
+    BLHO: yes
+1378.1.1:
+  owner: GLH
+  controller: GLH
+  cores:
+    GLH: yes
+    SIBI: yes
+1380.1.1:
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+1428.1.1:
+  owner: SHAY
+  controller: SHAY
+  cores:
+    GLH: no
+1468.1.1:
+  owner: SIBI
+  controller: SIBI
+1582.10.23:
+  owner: RUS
+  controller: RUS
+  cores:
+    SIBI: no
+    RUS: yes
+1860.1.1:
+  pop:
+    ethnicity: muscovite
+    religion: orthodox
+    estate: peasant
+    size: 1000
+1922.12.30:
+  owner: SOVI
+  controller: SOVI
+  cores:
+    RUS: no
+    SOVI: yes
+1991.12.25:
+  owner: RUS
+  controller: RUS
+  cores:
+    SOVI: no
+    RUS: yes

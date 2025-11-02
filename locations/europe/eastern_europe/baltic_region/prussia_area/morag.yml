@@ -1,0 +1,103 @@
+#imported from EU4 file: history/provinces/1841 - Marienburg.txt
+2.1.1:
+  owner: GOTH
+  controller: GOTH
+  cores:
+    GOTH: yes
+  resource: naval_supplies
+  pop:
+    ethnicity: gothic
+    religion: germanic
+    estate: peasant
+    size: 1000
+140.1.1:
+  owner: PRUS
+  controller: PRUS
+  cores:
+    GOTH: no
+    PRUS: yes
+  pop:
+    ethnicity: pruthenian
+    religion: romuva
+    estate: peasant
+    size: 1000
+1224.1.1:
+  owner: TEU
+  controller: TEU
+  cores:
+    TEU: yes
+  pop:
+    ethnicity: prussian
+    religion: catholic
+    estate: peasant
+    size: 1000
+1300.1.1:
+  cores:
+    PRUS: no
+1454.3.6:
+  cores:
+    POL: yes
+1466.10.19:
+  owner: POL
+  controller: POL
+  cores:
+    PRU: yes
+    TEU: no
+1542.1.1:
+  pop:
+    religion: lutheran
+    estate: peasant
+    size: 1000
+1569.7.1:
+  owner: PLC
+  controller: PLC
+  cores:
+    PLC: yes
+    POL: no
+1589.1.1:
+  controller: PLC
+1618.8.28:
+  owner: BRA
+  controller: BRA
+  cores:
+    PLC: no
+    BRA: yes
+1629.10.26:
+  owner: SWE
+  controller: SWE
+  cores:
+    SWE: yes
+1635.9.12:
+  owner: PLC
+  controller: PLC
+  cores:
+    SWE: no
+    PLC: yes
+1655.1.1:
+  controller: SWE
+1660.1.1:
+  controller: PLC
+1772.9.22:
+  owner: PRU
+  controller: PRU
+  cores:
+    PLC: no
+1871.1.18:
+  owner: GER
+  controller: GER
+  cores:
+    PRU: no
+    GER: yes
+1945.1.22:
+  controller: SOVI
+1945.5.8:
+  owner: POL
+  controller: POL
+  cores:
+    GER: no
+    POL: yes
+  pop:
+    ethnicity: lesser_polish
+    religion: catholic
+    estate: peasant
+    size: 1000

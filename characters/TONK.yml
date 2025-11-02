@@ -1,0 +1,235 @@
+tonk_kiem_trinh:
+  1497.1.1:
+    birth: thanh_hoa #TODO: Date and location guessed, check if better data is available
+    first_name: kiem
+    dynasty: trinh_dynasty
+    adm: 30
+    dip: 45
+    mil: 45
+    religion: mahayana
+    culture: vietnamese_culture
+  1570.1.1:
+    death: yes
+tonk_tung_trinh:
+  1550.1.1:
+    birth: thanh_hoa #TODO: Date and location guessed, check if better data is available
+    first_name: tung
+    dynasty: trinh_dynasty
+    father: tonk_kiem_trinh #TODO: check if this makes sense
+    adm: 15
+    dip: 15
+    mil: 30
+    religion: mahayana
+    culture: vietnamese_culture
+  1623.1.1:
+    death: yes
+tonk_tung_trinh_1:
+  1540.1.1:
+    birth: thanh_hoa #TODO: Date and location guessed, check if better data is available
+    first_name: tung
+    dynasty: trinh_dynasty
+    adm: 15
+    dip: 15
+    mil: 30
+    religion: mahayana
+    culture: vietnamese_culture
+  1623.1.1:
+    death: yes
+tonk_trang_trinh:
+  1577.1.1:
+    birth: thanh_hoa #TODO: Date and location guessed, check if better data is available
+    first_name: trang
+    dynasty: trinh_dynasty
+    father: tonk_tung_trinh_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 30
+    mil: 45
+    religion: mahayana
+    culture: vietnamese_culture
+  1654.1.1:
+    death: yes
+tonk_trang_trinh_1:
+  1593.1.1:
+    birth: thanh_hoa #TODO: Date and location guessed, check if better data is available
+    first_name: trang
+    dynasty: trinh_dynasty
+    adm: 30
+    dip: 30
+    mil: 45
+    religion: mahayana
+    culture: vietnamese_culture
+  1654.1.1:
+    death: yes
+tonk_tag_trinh:
+  1606.1.1:
+    birth: thanh_hoa #TODO: Date and location guessed, check if better data is available
+    first_name: tag
+    dynasty: trinh_dynasty
+    father: tonk_trang_trinh_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 15
+    mil: 30
+    religion: mahayana
+    culture: vietnamese_culture
+  1682.1.1:
+    death: yes
+tonk_tac_trinh:
+  1624.1.1:
+    birth: thanh_hoa #TODO: Date and location guessed, check if better data is available
+    first_name: tac
+    dynasty: trinh_dynasty
+    adm: 30
+    dip: 15
+    mil: 30
+    religion: mahayana
+    culture: vietnamese_culture
+  1682.1.1:
+    death: yes
+tonk_can_trinh:
+  1633.1.1:
+    birth: thanh_hoa #TODO: Date and location guessed, check if better data is available
+    first_name: can
+    dynasty: trinh_dynasty
+    father: tonk_tac_trinh #TODO: check if this makes sense
+    adm: 30
+    dip: 30
+    mil: 30
+    religion: mahayana
+    culture: vietnamese_culture
+  1709.1.1:
+    death: yes
+tonk_can_trinh_1:
+  1652.1.1:
+    birth: thanh_hoa #TODO: Date and location guessed, check if better data is available
+    first_name: can
+    dynasty: trinh_dynasty
+    adm: 30
+    dip: 30
+    mil: 30
+    religion: mahayana
+    culture: vietnamese_culture
+  1709.1.1:
+    death: yes
+tonk_cuong_trinh:
+  1686.1.1:
+    birth: thanh_hoa #TODO: Date and location guessed, check if better data is available
+    first_name: cuong
+    dynasty: trinh_dynasty
+    father: tonk_can_trinh_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 30
+    mil: 30
+    religion: mahayana
+    culture: vietnamese_culture
+  1729.1.1:
+    death: yes
+tonk_cuong_trinh_1:
+  1679.1.1:
+    birth: thanh_hoa #TODO: Date and location guessed, check if better data is available
+    first_name: cuong
+    dynasty: trinh_dynasty
+    adm: 30
+    dip: 30
+    mil: 30
+    religion: mahayana
+    culture: vietnamese_culture
+  1729.1.1:
+    death: yes
+tonk_giang_trinh:
+  1711.1.1:
+    birth: thanh_hoa #TODO: Date and location guessed, check if better data is available
+    first_name: giang
+    dynasty: trinh_dynasty
+    father: tonk_cuong_trinh_1 #TODO: check if this makes sense
+    adm: 0
+    dip: 0
+    mil: 0
+    religion: mahayana
+    culture: vietnamese_culture
+  1762.1.1:
+    death: yes
+tonk_giang_trinh_1:
+  1699.1.1:
+    birth: thanh_hoa #TODO: Date and location guessed, check if better data is available
+    first_name: giang
+    dynasty: trinh_dynasty
+    adm: 0
+    dip: 0
+    mil: 0
+    religion: mahayana
+    culture: vietnamese_culture
+  1729.1.2:
+    death: yes
+tonk_doanh_trinh:
+  1699.1.1:
+    birth: thanh_hoa #TODO: Date and location guessed, check if better data is available
+    first_name: doanh
+    dynasty: trinh_dynasty
+    adm: 30
+    dip: 30
+    mil: 45
+    religion: mahayana
+    culture: vietnamese_culture
+  1767.1.1:
+    death: yes
+tonk_sam_trinh:
+  1739.1.1:
+    birth: thanh_hoa #TODO: Date and location guessed, check if better data is available
+    first_name: sam
+    dynasty: trinh_dynasty
+    father: tonk_doanh_trinh #TODO: check if this makes sense
+    adm: 15
+    dip: 15
+    mil: 15
+    religion: mahayana
+    culture: vietnamese_culture
+  1782.1.1:
+    death: yes
+tonk_sam_trinh_1:
+  1737.1.1:
+    birth: thanh_hoa #TODO: Date and location guessed, check if better data is available
+    first_name: sam
+    dynasty: trinh_dynasty
+    adm: 15
+    dip: 15
+    mil: 15
+    religion: mahayana
+    culture: vietnamese_culture
+  1782.1.1:
+    death: yes
+tonk_can_trinh_2:
+  1752.1.1:
+    birth: thanh_hoa #TODO: Date and location guessed, check if better data is available
+    first_name: can
+    dynasty: trinh_dynasty
+    adm: 15
+    dip: 15
+    mil: 15
+    religion: mahayana
+    culture: vietnamese_culture
+  1782.3.1:
+    death: yes
+tonk_kai_trinh:
+  1752.1.1:
+    birth: thanh_hoa #TODO: Date and location guessed, check if better data is available
+    first_name: kai
+    dynasty: trinh_dynasty
+    adm: 0
+    dip: 0
+    mil: 15
+    religion: mahayana
+    culture: vietnamese_culture
+  1786.1.1:
+    death: yes
+tonk_bong_trinh:
+  1756.1.1:
+    birth: thanh_hoa #TODO: Date and location guessed, check if better data is available
+    first_name: bong
+    dynasty: trinh_dynasty
+    adm: 0
+    dip: 0
+    mil: 0
+    religion: mahayana
+    culture: vietnamese_culture
+  3000.1.1:
+    death: yes

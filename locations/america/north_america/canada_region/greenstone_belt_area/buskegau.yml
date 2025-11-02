@@ -1,0 +1,23 @@
+#imported from EU4 file: history/provinces/2589 - Kesagami.txt
+2.1.1:
+  owner: WCRE
+  controller: WCRE
+  cores:
+    WCRE: yes
+  resource: fur
+  pop:
+    ethnicity: ilili_culture
+    religion: iroquoian_totemism
+    estate: peasant
+    size: 1000
+1908.1.1:
+  owner: CAN
+  controller: CAN
+  cores:
+    WCRE: no
+    CAN: yes
+  pop:
+    ethnicity: british_canadian
+    religion: catholic
+    estate: peasant
+    size: 1000

@@ -1,0 +1,73 @@
+#imported from EU4 file: history/provinces/2393 - Terengganu.txt
+2.1.1:
+  owner: CHTU
+  controller: CHTU
+  cores:
+    CHTU: yes
+  resource: fish
+  pop:
+    ethnicity: malay_culture
+    religion: mahayana
+    estate: peasant
+    size: 1000
+200.1.1:
+  pop:
+    religion: hindu
+    estate: peasant
+    size: 1000
+250.1.1:
+  owner: PPAN
+  controller: PPAN
+  cores:
+    CHTU: no
+    PPAN: yes
+770.1.1:
+  owner: LGK
+  controller: LGK
+  cores:
+    LGK: yes
+1267.1.1:
+  owner: KELN
+  controller: KELN
+  cores:
+    LGK: no
+    KELN: yes
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+1512.1.1:
+  owner: PATT
+  controller: PATT
+  cores:
+    PATT: yes
+1760.1.1:
+  owner: KELN
+  controller: KELN
+  cores:
+    PATT: no
+    KELN: yes
+1909.3.10:
+  owner: GBR
+  controller: GBR
+  cores:
+    GBR: yes
+1941.12.8:
+  controller: JAP
+1945.8.1:
+  controller: GBR
+1946.4.1:
+  cores:
+    JOHO: no
+    MSA: yes
+1957.8.31:
+  owner: MSA
+  controller: MSA
+  cores:
+    GBR: no
+1963.9.16:
+  owner: MALA
+  controller: MALA
+  cores:
+    MSA: no
+    MALA: yes

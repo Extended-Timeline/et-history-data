@@ -1,0 +1,61 @@
+#imported from EU4 file: history/provinces/4589 - Moran.txt
+2.1.1:
+  owner: NARA
+  controller: NARA
+  cores:
+    NARA: yes
+  resource: cocoa
+  pop:
+    ethnicity: putun_culture
+    religion: mayan
+    estate: peasant
+    size: 1000
+820.1.1:
+  owner: TIKA
+  controller: TIKA
+  cores:
+    TIKA: yes
+987.1.1:
+  owner: MAY
+  controller: MAY
+  cores:
+    TIKA: no
+    MAY: yes
+1194.1.1:
+  owner: CTM
+  controller: CTM
+  cores:
+    MAY: no
+    CTM: yes
+1450.1.1:
+  owner: ITZ
+  controller: ITZ
+  cores:
+    ITZ: yes
+1638.1.1:
+  owner: ENG
+  controller: ENG
+  cores:
+    ENG: yes
+  pop:
+    ethnicity: english
+    religion: lutheran
+    estate: peasant
+    size: 1000
+1707.5.12:
+  owner: GBR
+  controller: GBR
+  cores:
+    ENG: no
+    GBR: yes
+1800.1.1:
+  pop:
+    ethnicity: british_mexican
+    estate: peasant
+    size: 1000
+1981.9.21:
+  owner: BELI
+  controller: BELI
+  cores:
+    GBR: no
+    BELI: yes

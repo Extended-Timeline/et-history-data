@@ -1,0 +1,106 @@
+#imported from EU4 file: history/provinces/465 - Nogay.txt
+2.1.1:
+  pop:
+    ethnicity: hunnic
+    religion: 
+    estate: peasant
+    size: 1000
+160.1.1:
+  owner: HUNS
+  controller: HUNS
+  cores:
+    HUNS: yes
+  resource: salt
+370.1.1:
+  cores:
+    OGHU: yes
+  pop:
+    ethnicity: turkmen_culture
+    estate: peasant
+    size: 1000
+448.1.1:
+  owner: OGHU
+  controller: OGHU
+  cores:
+    HUNS: no
+593.1.1:
+  owner: WGOK
+  controller: WGOK
+  cores:
+    OGHU: no
+    WGOK: yes
+659.1.1:
+  owner: OGHU
+  controller: OGHU
+  cores:
+    WGOK: no
+    OGHU: yes
+800.1.1:
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+870.1.1:
+  pop:
+    ethnicity: nogai
+    estate: peasant
+    size: 1000
+1037.1.1:
+  owner: CUMA
+  controller: CUMA
+  cores:
+    PECH: no
+    CUMA: yes
+1236.1.1:
+  owner: MGE
+  controller: MGE
+  cores:
+    CUMA: no
+    MGE: yes
+1260.1.1:
+  owner: BLHO
+  controller: BLHO
+  cores:
+    MGE: no
+    BLHO: yes
+1262.1.1:
+  owner: NOGA
+  controller: NOGA
+  cores:
+    BLHO: no
+    NOGA: yes
+1520.1.1:
+  owner: KAZA
+  controller: KAZA
+  cores:
+    NOGA: no
+    KAZA: yes
+  pop:
+    ethnicity: khazak
+    estate: peasant
+    size: 1000
+1645.1.1:
+  owner: RUS
+  controller: RUS
+  cores:
+    KAZA: no
+    RUS: yes
+1775.2.1:
+  controller: RUS
+1917.12.13:
+  cores:
+    KAZK: yes
+1922.12.30:
+  owner: SOVI
+  controller: SOVI
+  cores:
+    RUS: no
+    SOVI: yes
+1991.12.16:
+  owner: KAZK
+  controller: KAZK
+  cores:
+    SOVI: no
+    RUS: no
+1993.1.1:
+  resource: oil

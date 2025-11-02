@@ -1,0 +1,95 @@
+#imported from EU4 file: history/provinces/320 - Rhodes.txt
+2.1.1:
+  owner: ROM
+  controller: ROM
+  cores:
+    ROM: yes
+  resource: fish
+  pop:
+    ethnicity: greek_culture
+    religion: hellenism_religion
+    estate: peasant
+    size: 1000
+300.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+395.1.17:
+  owner: BYZ
+  controller: BYZ
+  cores:
+    ROM: no
+    BYZ: yes
+672.1.1:
+  controller: UMAY
+675.1.1:
+  controller: BYZ
+867.1.1:
+  pop:
+    religion: orthodox
+    estate: peasant
+    size: 1000
+1090.1.1:
+  owner: RUM
+  controller: RUM
+  cores:
+    RUM: yes
+1098.1.1:
+  owner: BYZ
+  controller: BYZ
+  cores:
+    RUM: no
+1204.4.13:
+  owner: NICA
+  controller: NICA
+  cores:
+    NICA: yes
+1261.1.1:
+  owner: BYZ
+  controller: BYZ
+  cores:
+    NICA: no
+1300.1.1:
+  owner: MEN
+  controller: MEN
+  cores:
+    MEN: yes
+1309.1.1:
+  owner: KNI
+  controller: KNI
+  cores:
+    MEN: no
+    KNI: yes
+1453.5.29:
+  cores:
+    BYZ: no
+1522.12.21:
+  owner: TUR
+  controller: TUR
+  cores:
+    KNI: no
+    TUR: yes
+1912.10.18:
+  owner: ITA
+  controller: ITA
+  cores:
+    TUR: no
+    ITA: yes
+1920.4.24:
+  cores:
+    TURK: yes
+1922.11.1:
+  cores:
+    TUR: no
+1943.9.8:
+  owner: GER
+  controller: GER
+  cores:
+    ITA: no
+    GRE: yes
+1944.10.1:
+  controller: GBR
+1944.10.19:
+  owner: GRE
+  controller: GRE

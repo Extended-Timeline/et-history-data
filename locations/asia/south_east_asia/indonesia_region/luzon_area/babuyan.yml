@@ -1,0 +1,46 @@
+#imported from EU4 file: history/provinces/655 - Palawan.txt
+2.1.1:
+  pop:
+    ethnicity: tagalog_culture
+    religion: bimoism
+    estate: peasant
+    size: 1000
+1368.1.1:
+  owner: BEI
+  controller: BEI
+  cores:
+    BEI: yes
+  resource: sugar
+1400.1.1:
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+1749.1.1:
+  owner: SPA
+  controller: SPA
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+1774.1.1:
+  cores:
+    SPA: yes
+1872.1.1:
+  cores:
+    PHIL: yes
+1898.8.12:
+  owner: USA
+  controller: USA
+  cores:
+    SPA: no
+    USA: yes
+1942.1.2:
+  controller: JAP
+1945.3.1:
+  controller: USA
+1946.7.4:
+  owner: PHIL
+  controller: PHIL
+  cores:
+    USA: no

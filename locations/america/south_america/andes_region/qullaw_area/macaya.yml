@@ -1,0 +1,44 @@
+#imported from EU4 file: history/provinces/2947 - Macaya.txt
+2.1.1:
+  pop:
+    ethnicity: aimara_culture
+    religion: inti
+    estate: peasant
+    size: 1000
+375.1.1:
+  owner: TIWA
+  controller: TIWA
+  cores:
+    TIWA: yes
+  resource: grain
+1200.1.1:
+  owner: COLL
+  controller: COLL
+  cores:
+    TIWA: no
+    COLL: yes
+1476.1.1:
+  owner: INC
+  controller: INC
+  cores:
+    INC: yes
+1533.8.29:
+  owner: SPA
+  controller: SPA
+  cores:
+    SPA: yes
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+1558.8.29:
+  cores:
+    SPA: yes
+1821.7.28:
+  owner: PERU
+  controller: PERU
+  cores:
+    PERU: yes
+1879.8.14:
+  cores:
+    SPA: no

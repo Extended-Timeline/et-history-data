@@ -1,0 +1,128 @@
+#imported from EU4 file: history/provinces/2353 - Tortkara.txt
+2.1.1:
+  pop:
+    ethnicity: pecheneg
+    religion: 
+    estate: peasant
+    size: 1000
+340.1.1:
+  owner: OGHU
+  controller: OGHU
+  cores:
+    OGHU: yes
+  resource: naval_supplies
+593.1.1:
+  owner: WGOK
+  controller: WGOK
+  cores:
+    OGHU: no
+    WGOK: yes
+659.1.1:
+  owner: KANG
+  controller: KANG
+  cores:
+    WGOK: no
+    KANG: yes
+750.1.1:
+  owner: PECH
+  controller: PECH
+  cores:
+    KANG: no
+    PECH: yes
+830.1.1:
+  owner: CUMA
+  controller: CUMA
+  cores:
+    PECH: no
+    CUMA: yes
+  pop:
+    ethnicity: cuman_culture
+    estate: peasant
+    size: 1000
+880.1.1:
+  owner: KIME
+  controller: KIME
+  cores:
+    CUMA: no
+    KIME: yes
+1050.1.1:
+  owner: KIPC
+  controller: KIPC
+  cores:
+    KIME: no
+    KIPC: yes
+1100.1.1:
+  owner: CUMA
+  controller: CUMA
+  cores:
+    CUMA: yes
+1180.1.1:
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+1236.1.1:
+  owner: MGE
+  controller: MGE
+  cores:
+    CUMA: no
+    MGE: yes
+  pop:
+    ethnicity: khazak
+    estate: peasant
+    size: 1000
+1260.1.1:
+  owner: BLHO
+  controller: BLHO
+  cores:
+    MGE: no
+    BLHO: yes
+1378.1.1:
+  owner: GLH
+  controller: GLH
+  cores:
+    GLH: yes
+1394.1.1:
+  owner: KAZA
+  controller: KAZA
+  cores:
+    GLH: no
+    KAZA: yes
+1406.1.1:
+  owner: NOGA
+  controller: NOGA
+  cores:
+    NOGA: yes
+1465.1.1:
+  controller: KAZA
+1468.1.1:
+  owner: KAZA
+  cores:
+    NOGA: no
+1740.1.1:
+  owner: ZUNG
+  controller: ZUNG
+1755.1.1:
+  owner: KAZA
+  controller: KAZA
+1824.1.1:
+  owner: RUS
+  controller: RUS
+  cores:
+    RUS: yes
+1917.12.13:
+  cores:
+    KAZA: no
+    KAZK: yes
+1922.12.30:
+  owner: SOVI
+  controller: SOVI
+  cores:
+    RUS: no
+    SOVI: yes
+1991.12.16:
+  owner: KAZK
+  controller: KAZK
+  cores:
+    SOVI: no
+    RUS: no

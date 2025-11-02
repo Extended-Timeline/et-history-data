@@ -1,0 +1,77 @@
+#imported from EU4 file: history/provinces/1130 - Tadmekka.txt
+2.1.1:
+  pop:
+    ethnicity: tuareg
+    religion: bantu_religion
+    estate: peasant
+    size: 1000
+850.1.1:
+  owner: SANH
+  controller: SANH
+  cores:
+    SANH: yes
+  resource: wool
+900.1.1:
+  owner: TMB
+  controller: TMB
+  cores:
+    SANH: no
+    TMB: yes
+950.1.1:
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+1430.1.1:
+  owner: SON
+  controller: SON
+  cores:
+    TMB: no
+    SON: yes
+1591.3.15:
+  owner: AIR
+  controller: AIR
+  cores:
+    AIR: yes
+1642.1.1:
+  cores:
+    SON: no
+1700.1.1:
+  owner: TMB
+  controller: TMB
+  cores:
+    AIR: no
+    TMB: yes
+1826.1.1:
+  owner: MOR
+  controller: MOR
+  cores:
+    TMB: no
+    MOR: yes
+1901.1.1:
+  owner: FRA
+  controller: FRA
+  cores:
+    FRA: yes
+1940.6.14:
+  owner: VFRA
+  controller: VFRA
+  cores:
+    VFRA: yes
+1942.11.16:
+  owner: FRA
+  controller: FRA
+  cores:
+    VFRA: no
+1960.6.20:
+  owner: MAL
+  controller: MAL
+  cores:
+    FRA: no
+    MOR: no
+    MAL: yes
+2012.1.17:
+  cores:
+    AZAW: yes
+2012.6.26:
+  controller: MAL

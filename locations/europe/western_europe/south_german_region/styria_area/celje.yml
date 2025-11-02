@@ -1,0 +1,191 @@
+#imported from EU4 file: history/provinces/4751 - Cilli.txt
+2.1.1:
+  owner: ROM
+  controller: ROM
+  cores:
+    ROM: yes
+  resource: wine
+  pop:
+    ethnicity: noric
+    religion: druidism
+    estate: peasant
+    size: 1000
+300.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+395.1.17:
+  owner: ROMW
+  controller: ROMW
+  cores:
+    ROM: no
+    ROMW: yes
+476.9.4:
+  owner: ITA
+  controller: ITA
+  cores:
+    ITA: yes
+480.1.1:
+  cores:
+    ROMW: no
+489.1.1:
+  owner: OSTR
+  controller: OSTR
+  cores:
+    ITA: no
+    OSTR: yes
+  pop:
+    ethnicity: gothic
+    estate: peasant
+    size: 1000
+490.1.1:
+  pop:
+    religion: arianism
+    estate: peasant
+    size: 1000
+545.1.1:
+  owner: BYZ
+  controller: BYZ
+  cores:
+    BYZ: yes
+550.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+568.1.1:
+  owner: LOMB
+  controller: LOMB
+  cores:
+    OSTR: no
+    BYZ: no
+    LOMB: yes
+588.1.1:
+  owner: AVR
+  controller: AVR
+  cores:
+    LOMB: no
+    AVR: yes
+  pop:
+    ethnicity: slovene
+    estate: peasant
+    size: 1000
+623.1.1:
+  owner: SAMO
+  controller: SAMO
+  cores:
+    AVR: no
+    SAMO: yes
+659.1.1:
+  owner: CART
+  controller: CART
+  cores:
+    SAMO: no
+    CART: yes
+690.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+745.1.1:
+  owner: BAV
+  controller: BAV
+  cores:
+    CART: no
+    BAV: yes
+788.1.1:
+  owner: FRAN
+  controller: FRAN
+  cores:
+    BAV: no
+    FRAN: yes
+817.1.1:
+  owner: BAV
+  controller: BAV
+  cores:
+    FRAN: no
+    BAV: yes
+867.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+880.3.22:
+  owner: EFRA
+  controller: EFRA
+  cores:
+    EFRA: yes
+911.11.10:
+  owner: BAV
+  controller: BAV
+  cores:
+    EFRA: no
+    BAV: yes
+    CART: yes
+    VER: yes
+962.2.2:
+  owner: CART
+  controller: CART
+  cores:
+    BAV: no
+    CART: yes
+1180.1.1:
+  owner: STY
+  controller: STY
+  cores:
+    STY: yes
+1192.1.1:
+  owner: HAB
+  controller: HAB
+  cores:
+    HAB: yes
+1254.1.1:
+  owner: HUN
+  controller: HUN
+  cores:
+    HUN: yes
+1260.7.1:
+  owner: BOH
+  controller: BOH
+  cores:
+    HUN: no
+    BOH: yes
+1278.8.26:
+  owner: HAB
+  controller: HAB
+  cores:
+    BOH: no
+1341.1.1:
+  owner: CLI
+  controller: CLI
+  cores:
+    HAB: no
+    CLI: yes
+1456.1.1:
+  owner: STY
+  controller: STY
+1456.11.9:
+  owner: HAB
+  controller: HAB
+  cores:
+    STY: no
+    HAB: yes
+1918.12.1:
+  owner: YUGO
+  controller: YUGO
+  cores:
+    HAB: no
+    YUGO: yes
+    SLOV: yes
+1941.4.6:
+  owner: GER
+  controller: GER
+1945.5.8:
+  owner: YUGO
+  controller: YUGO
+1991.6.25:
+  owner: SLOV
+  controller: SLOV
+  cores:
+    YUGO: no

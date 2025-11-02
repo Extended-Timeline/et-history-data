@@ -1,0 +1,124 @@
+#imported from EU4 file: history/provinces/2038 - Midnapore.txt
+2.1.1:
+  owner: SUHM
+  controller: SUHM
+  cores:
+    SUHM: yes
+  resource: spices
+  pop:
+    ethnicity: bengali
+    religion: jain
+    estate: peasant
+    size: 1000
+315.1.1:
+  owner: BISH
+  controller: BISH
+  cores:
+    BISH: yes
+355.1.1:
+  owner: GUPT
+  controller: GUPT
+  cores:
+    BISH: no
+    GUPT: yes
+580.1.1:
+  owner: GAUD
+  controller: GAUD
+  cores:
+    GUPT: no
+    GAUD: yes
+626.1.1:
+  owner: PUSH
+  controller: PUSH
+  cores:
+    GAUD: no
+    PUSH: yes
+647.1.1:
+  owner: SUHM
+  controller: SUHM
+  cores:
+    PUSH: no
+    SUHM: yes
+780.1.1:
+  owner: BISH
+  controller: BISH
+  cores:
+    SUHM: no
+    BISH: yes
+814.1.1:
+  owner: PALA
+  controller: PALA
+  cores:
+    BISH: no
+    PALA: yes
+950.1.1:
+  owner: VANG
+  controller: VANG
+  cores:
+    PALA: no
+    VANG: yes
+980.1.1:
+  owner: SEN
+  controller: SEN
+  cores:
+    VANG: no
+    SEN: yes
+1070.1.1:
+  owner: GAUD
+  controller: GAUD
+  cores:
+    VANG: no
+    GAUD: yes
+1120.1.1:
+  owner: KALI
+  controller: KALI
+  cores:
+    GAUD: no
+    KALI: yes
+1200.1.1:
+  pop:
+    religion: hindu
+    estate: peasant
+    size: 1000
+1434.1.1:
+  owner: ORI
+  controller: ORI
+  cores:
+    KALI: no
+    ORI: yes
+1568.1.1:
+  owner: BNG
+  controller: BNG
+  cores:
+    BNG: yes
+1576.1.1:
+  owner: ORI
+  controller: ORI
+1591.1.1:
+  controller: MUG
+1592.1.1:
+  owner: MUG
+  cores:
+    MUG: yes
+1624.1.1:
+  controller: MUG
+1658.12.28:
+  controller: MUG
+1707.3.15:
+  owner: BNG
+  controller: BNG
+1760.1.1:
+  owner: GBR
+  controller: GBR
+  cores:
+    MUG: no
+    GBR: yes
+1930.1.1:
+  cores:
+    BNG: no
+    INDI: yes
+1947.8.15:
+  owner: INDI
+  controller: INDI
+  cores:
+    GBR: no

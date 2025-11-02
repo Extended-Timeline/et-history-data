@@ -1,0 +1,95 @@
+#imported from EU4 file: history/provinces/4417 - Kanchipuram.txt
+2.1.1:
+  owner: CHOL
+  controller: CHOL
+  cores:
+    CHOL: yes
+  resource: cloth
+  pop:
+    ethnicity: tamil
+    religion: hindu
+    estate: peasant
+    size: 1000
+275.1.1:
+  owner: PALL
+  controller: PALL
+  cores:
+    PALL: yes
+897.1.1:
+  owner: CHOL
+  controller: CHOL
+  cores:
+    PALL: no
+    CHOL: yes
+1100.1.1:
+  pop:
+    ethnicity: telugu
+    estate: peasant
+    size: 1000
+1279.1.1:
+  owner: TNK
+  controller: TNK
+  cores:
+    TNK: yes
+1322.1.1:
+  owner: CHOL
+  controller: CHOL
+  cores:
+    TNK: no
+    CHOL: yes
+1375.1.1:
+  owner: VIJ
+  controller: VIJ
+  cores:
+    CHOL: no
+    VIJ: yes
+1445.1.1:
+  controller: ORI
+1448.10.1:
+  owner: ORI
+  cores:
+    ORI: yes
+1462.1.1:
+  controller: VIJ
+1464.1.1:
+  owner: VIJ
+1482.5.1:
+  controller: ORI
+1489.1.1:
+  controller: VIJ
+1616.1.1:
+  owner: NED
+  controller: NED
+  cores:
+    VIJ: no
+    NED: yes
+1639.1.1:
+  owner: ENG
+  controller: ENG
+  cores:
+    NED: no
+    ENG: yes
+1707.5.12:
+  owner: GBR
+  controller: GBR
+  cores:
+    ENG: no
+    GBR: yes
+1746.9.1:
+  controller: FRA
+1748.10.18:
+  controller: GBR
+1758.6.7:
+  controller: FRA
+1760.1.22:
+  controller: GBR
+1806.7.11:
+  controller: GBR
+1930.1.1:
+  cores:
+    INDI: yes
+1947.8.15:
+  owner: INDI
+  controller: INDI
+  cores:
+    GBR: no

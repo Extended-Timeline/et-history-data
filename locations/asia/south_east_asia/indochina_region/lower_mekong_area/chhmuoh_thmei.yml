@@ -1,0 +1,77 @@
+#imported from EU4 file: history/provinces/2376 - Prek Ruisey.txt
+2.1.1:
+  owner: FUNA
+  controller: FUNA
+  cores:
+    FUNA: yes
+  resource: grain
+  pop:
+    ethnicity: khmer_culture
+    religion: hindu
+    estate: peasant
+    size: 1000
+627.1.1:
+  owner: CHEN
+  controller: CHEN
+  cores:
+    FUNA: no
+    CHEN: yes
+802.1.1:
+  owner: CAMB
+  controller: CAMB
+  cores:
+    CHEN: no
+    CAMB: yes
+1431.1.1:
+  owner: KHM
+  controller: KHM
+  cores:
+    CAMB: no
+    KHM: yes
+1788.9.1:
+  owner: ANNA
+  controller: ANNA
+  cores:
+    KHM: no
+    ANNA: yes
+1862.6.5:
+  owner: FRA
+  controller: FRA
+  cores:
+    FRA: yes
+1870.9.4:
+  owner: FRA
+  controller: FRA
+  cores:
+    FRA: yes
+1886.4.1:
+  cores:
+    DAI: no
+    VIET: yes
+1941.7.1:
+  controller: JAP
+1945.3.11:
+  owner: VIET
+  controller: VIET
+  cores:
+    VIET: yes
+1945.8.23:
+  owner: FRA
+  controller: FRA
+  cores:
+    SVIE: yes
+1949.6.4:
+  owner: SVIE
+  controller: SVIE
+  cores:
+    FRA: no
+1960.1.1:
+  pop:
+    ethnicity: vietnamese_culture
+    estate: peasant
+    size: 1000
+1976.7.2:
+  owner: VIET
+  controller: VIET
+  cores:
+    SVIE: no

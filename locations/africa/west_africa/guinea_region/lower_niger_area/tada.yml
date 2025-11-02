@@ -1,0 +1,45 @@
+#imported from EU4 file: history/provinces/1145 - Nupe.txt
+2.1.1:
+  pop:
+    ethnicity: nupe
+    religion: bantu_religion
+    estate: peasant
+    size: 1000
+1300.1.1:
+  owner: NUP
+  controller: NUP
+  cores:
+    NUP: yes
+  resource: coffee
+1670.1.1:
+  owner: OYO
+  controller: OYO
+  cores:
+    OYO: yes
+1790.1.1:
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+1791.1.1:
+  owner: NUP
+  controller: NUP
+  cores:
+    OYO: no
+1806.1.1:
+  owner: SOKO
+  controller: SOKO
+  cores:
+    SOKO: yes
+1903.1.1:
+  owner: GBR
+  controller: GBR
+  cores:
+    GBR: yes
+1960.10.1:
+  owner: NIGR
+  controller: NIGR
+  cores:
+    GBR: no
+    SOKO: no
+    NIGR: yes

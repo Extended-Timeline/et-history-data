@@ -1,0 +1,58 @@
+#imported from EU4 file: history/provinces/621 - Benkulen.txt
+2.1.1:
+  pop:
+    ethnicity: minangkabau_culture
+    religion: bimoism
+    estate: peasant
+    size: 1000
+800.1.1:
+  pop:
+    religion: mahayana
+    estate: peasant
+    size: 1000
+1550.1.1:
+  owner: BAN
+  controller: BAN
+  cores:
+    BAN: yes
+  resource: spices
+1685.1.1:
+  owner: ENG
+  controller: ENG
+  cores:
+    BAN: no
+    ENG: yes
+1707.5.12:
+  owner: GBR
+  controller: GBR
+  cores:
+    ENG: no
+    GBR: yes
+1824.6.2:
+  owner: NED
+  controller: NED
+  cores:
+    GBR: no
+    NED: yes
+1840.1.1:
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+1912.9.10:
+  cores:
+    ATJ: no
+    INDN: yes
+1942.2.1:
+  controller: JAP
+1942.3.9:
+  owner: JAP
+  controller: JAP
+1945.8.15:
+  owner: NED
+1945.8.17:
+  owner: INDN
+  controller: INDN
+1949.12.27:
+  cores:
+    NED: no

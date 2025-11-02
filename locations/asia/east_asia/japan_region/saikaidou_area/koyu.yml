@@ -1,0 +1,58 @@
+#imported from EU4 file: history/provinces/4180 - Hyuga.txt
+2.1.1:
+  owner: HAYA
+  controller: HAYA
+  cores:
+    HAYA: yes
+  resource: livestock
+  pop:
+    ethnicity: kumaso
+    religion: shinto
+    estate: peasant
+    size: 1000
+721.1.1:
+  owner: YMT
+  controller: YMT
+  cores:
+    HAYA: no
+    YMT: yes
+750.1.1:
+  pop:
+    ethnicity: saigoku_culture
+    estate: peasant
+    size: 1000
+794.1.1:
+  owner: JAP
+  controller: JAP
+  cores:
+    YMT: no
+    JAP: yes
+1192.7.12:
+  owner: SMZ
+  controller: SMZ
+  cores:
+    JAP: no
+    SMZ: yes
+1203.1.1:
+  owner: ITO
+  controller: ITO
+  cores:
+    SMZ: no
+    ITO: yes
+1577.12.8:
+  owner: SMZ
+  controller: SMZ
+  cores:
+    SMZ: yes
+1588.1.1:
+  owner: ITO
+  controller: ITO
+1600.10.21:
+  cores:
+    SMZ: no
+1868.1.3:
+  owner: JAP
+  controller: JAP
+  cores:
+    SMZ: no
+    JAP: yes

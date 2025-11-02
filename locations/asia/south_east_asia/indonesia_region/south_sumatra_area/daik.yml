@@ -1,0 +1,68 @@
+#imported from EU4 file: history/provinces/659 - Lingga.txt
+2.1.1:
+  pop:
+    ethnicity: malay_culture
+    religion: bimoism
+    estate: peasant
+    size: 1000
+200.1.1:
+  owner: KOYI
+  controller: KOYI
+  cores:
+    KOYI: yes
+  resource: fish
+420.1.1:
+  owner: KANT
+  controller: KANT
+  cores:
+    KOYI: no
+    KANT: yes
+620.1.1:
+  owner: SRIV
+  controller: SRIV
+  cores:
+    KANT: no
+    SRIV: yes
+1293.1.1:
+  owner: MAJ
+  controller: MAJ
+  cores:
+    SRIV: no
+    MAJ: yes
+1360.1.1:
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+1389.1.1:
+  owner: JMB
+  controller: JMB
+  cores:
+    MAJ: no
+    JMB: yes
+1824.3.23:
+  owner: RIAI
+  controller: RIAI
+  cores:
+    RIAI: yes
+1911.2.11:
+  owner: NED
+  controller: NED
+  cores:
+    NED: yes
+1912.9.10:
+  cores:
+    INDN: yes
+1942.2.1:
+  controller: JAP
+1942.3.9:
+  owner: JAP
+  controller: JAP
+1945.8.15:
+  owner: NED
+1945.8.17:
+  owner: INDN
+  controller: INDN
+1949.12.27:
+  cores:
+    NED: no

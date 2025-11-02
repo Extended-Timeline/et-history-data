@@ -1,0 +1,26 @@
+#imported from EU4 file: history/provinces/3051 - Kuungkari.txt
+2.1.1:
+  pop:
+    ethnicity: mayi_culture
+    religion: dreamtime_religion
+    estate: peasant
+    size: 1000
+1865.1.1:
+  owner: GBR
+  controller: GBR
+  cores:
+    GBR: yes
+  resource: wool
+  pop:
+    ethnicity: british_australian
+    religion: lutheran
+    estate: peasant
+    size: 1000
+1901.1.1:
+  owner: AUST
+  controller: AUST
+  cores:
+    GBR: no
+    AUST: yes
+1985.1.1:
+  resource: oil

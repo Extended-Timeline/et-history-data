@@ -1,0 +1,154 @@
+#imported from EU4 file: history/provinces/1951 - Hunyad.txt
+2.1.1:
+  owner: DACI
+  controller: DACI
+  cores:
+    DACI: yes
+  resource: iron
+  pop:
+    ethnicity: dacian
+    religion: zamolxism
+    estate: peasant
+    size: 1000
+106.1.1:
+  owner: ROM
+  controller: ROM
+  cores:
+    ROM: yes
+160.1.1:
+  cores:
+    DACI: no
+271.1.1:
+  owner: VISG
+  controller: VISG
+  cores:
+    ROM: no
+    VISG: yes
+  pop:
+    ethnicity: gothic
+    religion: germanic
+    estate: peasant
+    size: 1000
+360.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+376.1.1:
+  owner: HUNS
+  controller: HUNS
+  cores:
+    VISG: no
+    HUNS: yes
+469.1.1:
+  owner: GEPI
+  controller: GEPI
+  cores:
+    HUNS: no
+    GEPI: yes
+  pop:
+    ethnicity: gepid
+    estate: peasant
+    size: 1000
+567.1.1:
+  owner: AVR
+  controller: AVR
+  cores:
+    GEPI: no
+    AVR: yes
+  pop:
+    religion: 
+    estate: peasant
+    size: 1000
+700.1.1:
+  pop:
+    ethnicity: wallachian
+    estate: peasant
+    size: 1000
+804.1.1:
+  owner: BUL
+  controller: BUL
+  cores:
+    AVR: no
+    BUL: yes
+930.1.1:
+  owner: TRA
+  controller: TRA
+  cores:
+    BUL: no
+    TRA: yes
+1003.1.1:
+  owner: HUN
+  controller: HUN
+  cores:
+    HUN: yes
+1020.1.1:
+  pop:
+    religion: orthodox
+    estate: peasant
+    size: 1000
+1507.1.1:
+  controller: TRA
+1514.10.1:
+  controller: TRA
+1526.8.30:
+  owner: TRA
+  controller: TRA
+  cores:
+    TRA: yes
+    HAB: yes
+1528.1.1:
+  cores:
+    TUR: yes
+1551.7.19:
+  owner: HAB
+  controller: HAB
+1556.10.1:
+  owner: TRA
+  controller: TRA
+1562.6.1:
+  cores:
+    HAB: no
+1563.1.1:
+  controller: TRA
+1599.1.1:
+  owner: WAL
+  controller: WAL
+  cores:
+    WAL: yes
+1601.1.1:
+  owner: TRA
+  controller: TRA
+  cores:
+    WAL: no
+1604.1.1:
+  owner: HAB
+  controller: HAB
+1606.6.23:
+  owner: TRA
+  controller: TRA
+1699.1.1:
+  owner: HAB
+  controller: HAB
+  cores:
+    TUR: no
+    HAB: yes
+1711.1.1:
+  controller: HAB
+1745.1.1:
+  controller: HAB
+1785.1.1:
+  controller: HAB
+1918.10.31:
+  owner: HUN
+  controller: HUN
+  cores:
+    HAB: no
+    HUN: yes
+1920.6.4:
+  owner: RMN
+  controller: RMN
+  cores:
+    HUN: no
+    TRA: no
+    RMN: yes

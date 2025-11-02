@@ -1,0 +1,94 @@
+#imported from EU4 file: history/provinces/4430 - Daman.txt
+2.1.1:
+  owner: WSAT
+  controller: WSAT
+  cores:
+    WSAT: yes
+  resource: cloth
+  pop:
+    ethnicity: gujarati
+    religion: jain
+    estate: peasant
+    size: 1000
+260.1.1:
+  owner: ABHI
+  controller: ABHI
+  cores:
+    WSAT: no
+    ABHI: yes
+388.1.1:
+  owner: KONK
+  controller: KONK
+  cores:
+    ABHI: no
+    KONK: yes
+500.1.1:
+  owner: KALC
+  controller: KALC
+  cores:
+    KONK: no
+    KALC: yes
+620.1.1:
+  owner: CHAL
+  controller: CHAL
+  cores:
+    KALC: no
+    CHAL: yes
+660.1.1:
+  pop:
+    religion: zoroastrian
+    estate: peasant
+    size: 1000
+753.1.1:
+  owner: RAST
+  controller: RAST
+  cores:
+    CHAL: no
+    RAST: yes
+800.1.1:
+  owner: KONK
+  controller: KONK
+  cores:
+    RAST: no
+    KONK: yes
+1265.1.1:
+  owner: YADA
+  controller: YADA
+  cores:
+    KONK: no
+    YADA: yes
+1317.1.1:
+  owner: DLH
+  controller: DLH
+  cores:
+    YADA: no
+    DLH: yes
+1391.1.1:
+  owner: GUJ
+  controller: GUJ
+  cores:
+    DLH: no
+    GUJ: yes
+1531.12.23:
+  owner: POR
+  controller: POR
+  cores:
+    GUJ: no
+    POR: yes
+1650.1.1:
+  cores:
+    MHR: yes
+1700.1.1:
+  pop:
+    religion: hindu
+    estate: peasant
+    size: 1000
+1930.1.1:
+  cores:
+    MHR: no
+    INDI: yes
+1961.12.19:
+  owner: INDI
+  controller: INDI
+  cores:
+    POR: no

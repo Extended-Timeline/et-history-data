@@ -1,0 +1,159 @@
+#imported from EU4 file: history/provinces/2075 - Doaba.txt
+2.1.1:
+  owner: INGR
+  controller: INGR
+  cores:
+    INGR: yes
+  resource: dyes
+  pop:
+    ethnicity: punjabi
+    religion: mahayana
+    estate: peasant
+    size: 1000
+10.1.1:
+  owner: NSAT
+  controller: NSAT
+  cores:
+    NSAT: yes
+60.1.1:
+  cores:
+    INGR: no
+120.1.1:
+  owner: KUSH
+  controller: KUSH
+  cores:
+    NSAT: no
+    KUSH: yes
+375.1.1:
+  owner: GUPT
+  controller: GUPT
+  cores:
+    KUSH: no
+    GUPT: yes
+460.1.1:
+  owner: KAPI
+  controller: KAPI
+  cores:
+    GUPT: no
+    KAPI: yes
+528.1.1:
+  owner: MLW
+  controller: MLW
+  cores:
+    KAPI: no
+    PUSH: yes
+540.1.1:
+  owner: PUSH
+  controller: PUSH
+647.1.1:
+  owner: TAAN
+  controller: TAAN
+  cores:
+    PUSH: no
+    TAAN: yes
+730.1.1:
+  owner: KSH
+  controller: KSH
+  cores:
+    TAAN: no
+    KSH: yes
+780.1.1:
+  owner: TAAN
+  controller: TAAN
+  cores:
+    KSH: no
+    TAAN: yes
+880.1.1:
+  owner: KGR
+  controller: KGR
+  cores:
+    TAAN: no
+    KGR: yes
+1002.1.1:
+  owner: GHAZ
+  controller: GHAZ
+  cores:
+    KGR: no
+    GHAZ: yes
+1100.1.1:
+  pop:
+    religion: hindu
+    estate: peasant
+    size: 1000
+1187.1.1:
+  owner: GHOR
+  controller: GHOR
+  cores:
+    GHAZ: no
+    GHOR: yes
+1206.1.1:
+  owner: DLH
+  controller: DLH
+  cores:
+    GHOR: no
+    DLH: yes
+    PUN: yes
+1431.1.1:
+  owner: SIRH
+  controller: SIRH
+  cores:
+    SIRH: yes
+1451.4.20:
+  owner: DLH
+  controller: DLH
+1499.1.1:
+  pop:
+    religion: sikhism
+    estate: peasant
+    size: 1000
+1526.2.1:
+  controller: TIM
+1526.4.21:
+  owner: MUG
+  controller: MUG
+  cores:
+    DLH: no
+    MUG: yes
+1540.1.1:
+  owner: BNG
+  controller: BNG
+  cores:
+    BNG: yes
+1553.1.1:
+  owner: SIRH
+  controller: SIRH
+  cores:
+    BNG: no
+1554.12.1:
+  owner: MUG
+  controller: MUG
+1715.1.1:
+  controller: MUG
+1757.1.1:
+  owner: AFGH
+  controller: AFGH
+  cores:
+    MUG: no
+1758.1.1:
+  controller: MHR
+  cores:
+    GWA: yes
+1760.1.1:
+  controller: AFGH
+1762.1.1:
+  owner: PUN
+  controller: PUN
+1849.1.1:
+  owner: GBR
+  controller: GBR
+  cores:
+    GBR: yes
+1930.1.1:
+  cores:
+    PUN: no
+    INDI: yes
+1947.8.15:
+  owner: INDI
+  controller: INDI
+  cores:
+    GBR: no

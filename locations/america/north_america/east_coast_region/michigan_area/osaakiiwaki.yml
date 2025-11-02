@@ -1,0 +1,64 @@
+#imported from EU4 file: history/provinces/944 - Potawatomi.txt
+2.1.1:
+  owner: MSK
+  controller: MSK
+  cores:
+    MSK: yes
+  resource: fur
+  pop:
+    ethnicity: meskwaki_culture
+    religion: iroquoian_totemism
+    estate: peasant
+    size: 1000
+1670.1.1:
+  cores:
+    ???: yes
+  pop:
+    ethnicity: onondowaga_culture
+    estate: peasant
+    size: 1000
+1701.8.4:
+  owner: FRA
+  controller: FRA
+  cores:
+    ???: no
+    FRA: yes
+  pop:
+    ethnicity: french
+    religion: catholic
+    estate: peasant
+    size: 1000
+1763.2.10:
+  owner: GBR
+  controller: GBR
+  cores:
+    FRA: no
+    GBR: yes
+  pop:
+    ethnicity: english
+    religion: lutheran
+    estate: peasant
+    size: 1000
+1783.9.3:
+  owner: BDK
+  controller: BDK
+  cores:
+    GBR: no
+    BDK: yes
+  pop:
+    ethnicity: ojibwe_culture
+    religion: iroquoian_totemism
+    estate: peasant
+    size: 1000
+1807.11.17:
+  owner: USA
+  controller: USA
+  cores:
+    USA: yes
+  pop:
+    ethnicity: american
+    religion: lutheran
+    estate: peasant
+    size: 1000
+1920.1.1:
+  resource: cars

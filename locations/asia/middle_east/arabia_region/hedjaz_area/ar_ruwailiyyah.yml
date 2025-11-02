@@ -1,0 +1,140 @@
+#imported from EU4 file: history/provinces/2330 - Ma'din Sulaym.txt
+2.1.1:
+  owner: THAM
+  controller: THAM
+  cores:
+    THAM: yes
+  resource: livestock
+  pop:
+    ethnicity: hijazi_culture
+    religion: south_arabian
+    estate: peasant
+    size: 1000
+220.1.1:
+  owner: HAWA
+  controller: HAWA
+  cores:
+    THAM: no
+    HAWA: yes
+622.1.1:
+  owner: RASH
+  controller: RASH
+  cores:
+    HAWA: no
+    RASH: yes
+  pop:
+    religion: islam
+    estate: peasant
+    size: 1000
+661.7.28:
+  owner: UMAY
+  controller: UMAY
+  cores:
+    RASH: no
+    UMAY: yes
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+750.8.6:
+  owner: ABBA
+  controller: ABBA
+  cores:
+    UMAY: no
+    ABBA: yes
+  resource: gold
+868.9.15:
+  owner: EGY
+  controller: EGY
+  cores:
+    ABBA: no
+    EGY: yes
+905.1.10:
+  owner: ABBA
+  controller: ABBA
+  cores:
+    ABBA: yes
+935.8.26:
+  owner: EGY
+  controller: EGY
+  cores:
+    ABBA: no
+    EGY: yes
+970.3.1:
+  owner: FATI
+  controller: FATI
+  cores:
+    EGY: no
+    FATI: yes
+1171.1.1:
+  owner: EGY
+  controller: EGY
+  cores:
+    FATI: no
+    EGY: yes
+1230.1.1:
+  owner: HEJA
+  controller: HEJA
+  cores:
+    EGY: no
+    HEJA: yes
+1258.1.1:
+  resource: livestock
+1427.10.1:
+  owner: MDA
+  controller: MDA
+  cores:
+    HEJA: no
+    MDA: yes
+1482.6.1:
+  owner: HEJA
+  controller: HEJA
+  cores:
+    HEJA: yes
+1770.1.1:
+  owner: MAM
+  controller: MAM
+  cores:
+    TUR: no
+    MAM: yes
+1772.1.1:
+  owner: HEJA
+  controller: HEJA
+1802.1.1:
+  owner: NAJD
+  controller: NAJD
+  cores:
+    NAJD: yes
+1812.6.1:
+  controller: EGY
+1818.9.9:
+  owner: EGY
+  cores:
+    NAJD: no
+    EGY: yes
+    TUR: yes
+1841.2.1:
+  owner: TUR
+  controller: TUR
+  cores:
+    EGY: no
+    TUR: yes
+1916.6.10:
+  owner: HEJA
+  controller: HEJA
+  cores:
+    TUR: no
+1925.12.19:
+  owner: NAJD
+  controller: NAJD
+  cores:
+    NAJD: yes
+1932.9.23:
+  owner: SAUD
+  controller: SAUD
+  cores:
+    HEJA: no
+    NAJD: no
+    SAUD: yes
+1936.1.1:
+  resource: gold

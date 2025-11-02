@@ -1,0 +1,36 @@
+#imported from EU4 file: history/provinces/992 - Algonquin.txt
+2.1.1:
+  owner: ALGO
+  controller: ALGO
+  cores:
+    ALGO: yes
+  resource: fur
+  pop:
+    ethnicity: weskarini_culture
+    religion: iroquoian_totemism
+    estate: peasant
+    size: 1000
+1784.1.1:
+  owner: GBR
+  controller: GBR
+  cores:
+    GBR: yes
+  pop:
+    ethnicity: french
+    religion: catholic
+    estate: peasant
+    size: 1000
+1790.1.1:
+  pop:
+    ethnicity: french_canadian
+    estate: peasant
+    size: 1000
+1867.7.1:
+  owner: CAN
+  controller: CAN
+  cores:
+    GBR: no
+    CAN: yes
+1980.5.20:
+  cores:
+    QUEB: yes

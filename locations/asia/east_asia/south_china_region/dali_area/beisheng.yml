@@ -1,0 +1,62 @@
+#imported from EU4 file: history/provinces/2167 - Lijiang.txt
+2.1.1:
+  pop:
+    ethnicity: yi_culture
+    religion: bimoism
+    estate: peasant
+    size: 1000
+220.1.1:
+  owner: LJG
+  controller: LJG
+  cores:
+    LJG: yes
+  resource: tea
+738.1.1:
+  owner: NANZ
+  controller: NANZ
+  cores:
+    NANZ: yes
+937.1.1:
+  owner: CDL
+  controller: CDL
+  cores:
+    NANZ: no
+    CDL: yes
+1253.1.1:
+  owner: MGE
+  controller: MGE
+  cores:
+    MGE: yes
+    ZHOU: yes
+1271.1.1:
+  owner: YUA
+  controller: YUA
+  cores:
+    MGE: no
+    YUA: yes
+1368.1.23:
+  owner: CDL
+  controller: CDL
+  cores:
+    YUA: no
+    CDL: yes
+1382.1.6:
+  owner: LJG
+  controller: LJG
+  cores:
+    CDL: no
+    LJG: yes
+1723.1.1:
+  owner: QNG
+  controller: QNG
+  cores:
+    QNG: yes
+1912.2.12:
+  owner: CHI
+  controller: CHI
+  cores:
+    QNG: no
+    ZHOU: no
+    CHI: yes
+1927.4.18:
+  controller: CHI

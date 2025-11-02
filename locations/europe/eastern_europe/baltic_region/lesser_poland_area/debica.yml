@@ -1,0 +1,110 @@
+#imported from EU4 file: history/provinces/2959 - Tarnow.txt
+2.1.1:
+  owner: BAST
+  controller: BAST
+  cores:
+    BAST: yes
+  resource: grain
+  pop:
+    ethnicity: lesser_polish
+    religion: slavic
+    estate: peasant
+    size: 1000
+150.1.1:
+  owner: GOTH
+  controller: GOTH
+  cores:
+    BAST: no
+    GOTH: yes
+  pop:
+    ethnicity: gothic
+    religion: germanic
+    estate: peasant
+    size: 1000
+200.1.1:
+  owner: GEPI
+  controller: GEPI
+  cores:
+    GOTH: no
+    GEPI: yes
+  pop:
+    ethnicity: gepid
+    estate: peasant
+    size: 1000
+450.1.1:
+  owner: VIST
+  controller: VIST
+  cores:
+    GEPI: no
+    VIST: yes
+  pop:
+    ethnicity: lesser_polish
+    religion: slavic
+    estate: peasant
+    size: 1000
+940.1.1:
+  owner: POL
+  controller: POL
+  cores:
+    POL: yes
+1050.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+1138.10.28:
+  owner: SAND
+  controller: SAND
+  cores:
+    SAND: yes
+1177.1.1:
+  owner: POL
+  controller: POL
+  cores:
+    POL: yes
+1550.1.1:
+  pop:
+    religion: calvinist
+    estate: peasant
+    size: 1000
+1569.7.1:
+  owner: PLC
+  controller: PLC
+  cores:
+    PLC: yes
+    POL: no
+1589.1.1:
+  controller: PLC
+1608.1.1:
+  controller: PLC
+1655.1.1:
+  controller: SWE
+1660.1.1:
+  controller: PLC
+1735.1.1:
+  controller: PLC
+1772.8.5:
+  owner: HAB
+  controller: HAB
+  cores:
+    HAB: yes
+1918.11.11:
+  owner: POL
+  controller: POL
+  cores:
+    HAB: no
+    POL: yes
+1939.9.8:
+  controller: GER
+1939.10.6:
+  owner: GER
+1940.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+1945.1.16:
+  controller: SOVI
+1945.5.8:
+  owner: POL
+  controller: POL

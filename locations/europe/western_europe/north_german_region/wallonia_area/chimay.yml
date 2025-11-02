@@ -1,0 +1,246 @@
+#imported from EU4 file: history/provinces/91 - Hainaut.txt
+2.1.1:
+  owner: ROM
+  controller: ROM
+  cores:
+    ROM: yes
+  resource: cloth
+  pop:
+    ethnicity: belgae
+    religion: druidism
+    estate: peasant
+    size: 1000
+260.1.1:
+  cores:
+    GALL: yes
+  pop:
+    ethnicity: gallian
+    estate: peasant
+    size: 1000
+274.1.1:
+  controller: ROM
+  cores:
+    GALL: no
+  pop:
+    ethnicity: frankish
+    estate: peasant
+    size: 1000
+395.1.17:
+  owner: ROMW
+  controller: ROMW
+  cores:
+    ROM: no
+    ROMW: yes
+432.1.1:
+  owner: FRAN
+  controller: FRAN
+  cores:
+    ROMW: no
+    FRAN: yes
+486.6.1:
+  pop:
+    ethnicity: walloon
+    estate: peasant
+    size: 1000
+511.11.27:
+  owner: SOIS
+  controller: SOIS
+  cores:
+    SOIS: yes
+558.12.23:
+  owner: FRAN
+  controller: FRAN
+  cores:
+    FRAN: yes
+561.11.29:
+  owner: SOIS
+  controller: SOIS
+567.12.1:
+  owner: NEUS
+  controller: NEUS
+  cores:
+    SOIS: no
+    NEUS: yes
+613.10.10:
+  owner: FRAN
+  controller: FRAN
+  cores:
+    FRAN: yes
+634.1.1:
+  owner: NEUS
+  controller: NEUS
+650.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+679.12.23:
+  owner: FRAN
+  controller: FRAN
+840.6.21:
+  owner: MFRA
+  controller: MFRA
+  cores:
+    FRAN: no
+    MFRA: yes
+855.9.30:
+  owner: LOT
+  controller: LOT
+  cores:
+    MFRA: no
+    LOT: yes
+867.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+870.8.8:
+  owner: WFRA
+  controller: WFRA
+  cores:
+    WFRA: yes
+880.1.1:
+  owner: EFRA
+  controller: EFRA
+  cores:
+    WFRA: no
+    EFRA: yes
+911.11.10:
+  owner: LOT
+  controller: LOT
+  cores:
+    EFRA: no
+962.2.2:
+  owner: HAI
+  controller: HAI
+  cores:
+    LOT: no
+    HAI: yes
+1051.1.1:
+  owner: FLA
+  controller: FLA
+  cores:
+    FLA: yes
+1071.2.22:
+  owner: HAI
+  controller: HAI
+  cores:
+    FLA: no
+1195.12.17:
+  owner: FLA
+  controller: FLA
+  cores:
+    FLA: yes
+1253.7.4:
+  owner: HAI
+  controller: HAI
+1257.12.24:
+  owner: FLA
+  controller: FLA
+1280.2.10:
+  owner: HAI
+  controller: HAI
+  cores:
+    FLA: no
+1428.7.3:
+  owner: BUR
+  controller: BUR
+  cores:
+    BUR: yes
+1477.1.5:
+  owner: HAB
+  controller: HAB
+  cores:
+    BUR: no
+    HAB: yes
+1519.1.12:
+  owner: SPA
+  controller: SPA
+  cores:
+    HAB: no
+    SPA: yes
+1529.8.3:
+  cores:
+    FRA: no
+1567.1.8:
+  controller: SPA
+1572.8.1:
+  controller: SPA
+1635.1.1:
+  controller: FRA
+1648.1.30:
+  controller: SPA
+1650.1.1:
+  resource: iron
+1665.9.17:
+  cores:
+    FRA: yes
+1667.9.25:
+  controller: FRA
+1668.5.2:
+  controller: SPA
+1672.5.5:
+  controller: FRA
+1678.9.19:
+  controller: SPA
+1692.1.1:
+  controller: FRA
+1695.9.1:
+  controller: SPA
+1713.4.11:
+  owner: HAB
+  controller: HAB
+  cores:
+    SPA: no
+    HAB: yes
+1715.9.1:
+  cores:
+    FRA: no
+1744.4.1:
+  controller: FRA
+1744.7.1:
+  controller: HAB
+1746.10.11:
+  controller: FRA
+1748.10.18:
+  controller: HAB
+1792.11.6:
+  controller: FRA
+1793.3.18:
+  controller: HAB
+1797.10.17:
+  owner: FRA
+  controller: FRA
+  cores:
+    HAB: no
+    FRA: yes
+1813.11.30:
+  owner: NED
+  controller: NED
+  cores:
+    FRA: no
+    HAB: no
+1830.8.25:
+  cores:
+    BEL: yes
+1831.7.21:
+  owner: BEL
+  controller: BEL
+1839.4.19:
+  cores:
+    NED: no
+1900.1.1:
+  cores:
+    HAI: no
+1914.8.24:
+  controller: GER
+1918.11.11:
+  controller: BEL
+1940.5.28:
+  owner: GER
+  controller: GER
+1944.9.1:
+  controller: GBR
+1945.5.8:
+  owner: BEL
+  controller: BEL

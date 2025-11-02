@@ -1,0 +1,161 @@
+chak_nan_rath_champassak:
+  1670.1.1:
+    birth: champasak #TODO: Date and location guessed, check if better data is available
+    first_name: nan_rath
+    dynasty: champassak_dynasty
+    adm: 30
+    dip: 30
+    mil: 45
+    religion: theravada
+    culture: lao_culture
+  1714.1.1:
+    death: yes
+chak_nokasat_champassak:
+  1690.1.1:
+    birth: champasak #TODO: Date and location guessed, check if better data is available
+    first_name: nokasat
+    dynasty: champassak_dynasty
+    father: chak_nan_rath_champassak #TODO: check if this makes sense
+    adm: 75
+    dip: 60
+    mil: 60
+    religion: theravada
+    culture: lao_culture
+  1738.1.1:
+    death: yes
+chak_nokasat_champassak_1:
+  1684.1.1:
+    birth: champasak #TODO: Date and location guessed, check if better data is available
+    first_name: nokasat
+    dynasty: champassak_dynasty
+    adm: 75
+    dip: 60
+    mil: 60
+    religion: theravada
+    culture: lao_culture
+  1738.1.1:
+    death: yes
+chak_saya_kuman_champassak:
+  1714.1.1:
+    birth: champasak #TODO: Date and location guessed, check if better data is available
+    first_name: saya_kuman
+    dynasty: champassak_dynasty
+    father: chak_nokasat_champassak_1 #TODO: check if this makes sense
+    adm: 60
+    dip: 45
+    mil: 30
+    religion: theravada
+    culture: lao_culture
+  1791.1.1:
+    death: yes
+chak_saya_kuman_champassak_1:
+  1708.1.1:
+    birth: champasak #TODO: Date and location guessed, check if better data is available
+    first_name: saya_kuman
+    dynasty: champassak_dynasty
+    adm: 60
+    dip: 45
+    mil: 30
+    religion: theravada
+    culture: lao_culture
+  1791.1.1:
+    death: yes
+chak_fai_na_champassak:
+  1720.1.1:
+    birth: champasak #TODO: Date and location guessed, check if better data is available
+    first_name: fai_na
+    dynasty: champassak_dynasty
+    father: chak_saya_kuman_champassak_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 30
+    mil: 45
+    religion: theravada
+    culture: lao_culture
+  1811.1.1:
+    death: yes
+chak_fai_na_champassak_1:
+  1761.1.1:
+    birth: champasak #TODO: Date and location guessed, check if better data is available
+    first_name: fai_na
+    dynasty: champassak_dynasty
+    adm: 30
+    dip: 30
+    mil: 45
+    religion: theravada
+    culture: lao_culture
+  1811.1.1:
+    death: yes
+chak_no_muong_champassak:
+  1791.1.1:
+    birth: champasak #TODO: Date and location guessed, check if better data is available
+    first_name: no_muong
+    dynasty: champassak_dynasty
+    father: chak_fai_na_champassak_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 15
+    mil: 15
+    religion: theravada
+    culture: lao_culture
+  1813.1.1:
+    death: yes
+chak_no_muong_champassak_1:
+  1781.1.1:
+    birth: champasak #TODO: Date and location guessed, check if better data is available
+    first_name: no_muong
+    dynasty: champassak_dynasty
+    adm: 45
+    dip: 45
+    mil: 15
+    religion: theravada
+    culture: lao_culture
+  1813.1.1:
+    death: yes
+chak_manoi_champassak:
+  1790.1.1:
+    birth: champasak #TODO: Date and location guessed, check if better data is available
+    first_name: manoi
+    dynasty: champassak_dynasty
+    father: chak_no_muong_champassak_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 60
+    mil: 45
+    religion: theravada
+    culture: lao_culture
+  1819.1.1:
+    death: yes
+chak_manoi_champassak_1:
+  1783.1.1:
+    birth: champasak #TODO: Date and location guessed, check if better data is available
+    first_name: manoi
+    dynasty: champassak_dynasty
+    adm: 45
+    dip: 60
+    mil: 45
+    religion: theravada
+    culture: lao_culture
+  1819.1.1:
+    death: yes
+chak_chao_yo_khun_lo:
+  1789.1.1:
+    birth: champasak #TODO: Date and location guessed, check if better data is available
+    first_name: chao_yo
+    dynasty: khun_lo_dynasty
+    adm: 30
+    dip: 30
+    mil: 45
+    religion: theravada
+    culture: lao_culture
+  1826.1.1:
+    death: yes
+chak_huy_champassak:
+  1796.1.1:
+    birth: champasak #TODO: Date and location guessed, check if better data is available
+    first_name: huy
+    dynasty: champassak_dynasty
+    adm: 45
+    dip: 45
+    mil: 15
+    religion: theravada
+    culture: lao_culture
+  3000.1.1:
+    death: yes

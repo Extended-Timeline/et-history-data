@@ -1,0 +1,98 @@
+#imported from EU4 file: history/provinces/519 - Dhundar.txt
+2.1.1:
+  owner: NSAT
+  controller: NSAT
+  cores:
+    NSAT: yes
+  resource: copper
+  pop:
+    ethnicity: marwari
+    religion: hindu
+    estate: peasant
+    size: 1000
+120.1.1:
+  owner: PADM
+  controller: PADM
+  cores:
+    NSAT: no
+    PADM: yes
+360.1.1:
+  owner: GUPT
+  controller: GUPT
+  cores:
+    GUPT: yes
+498.1.1:
+  owner: KAPI
+  controller: KAPI
+  cores:
+    GUPT: no
+    MLW: yes
+528.1.1:
+  owner: MLW
+  controller: MLW
+  cores:
+    GURJ: yes
+540.1.1:
+  owner: PUSH
+  controller: PUSH
+  cores:
+    MLW: no
+    PUSH: yes
+647.1.1:
+  owner: GURJ
+  controller: GURJ
+  cores:
+    PUSH: no
+    GURJ: yes
+1036.1.1:
+  owner: CHAU
+  controller: CHAU
+  cores:
+    GURJ: no
+    CHAU: yes
+1160.1.1:
+  owner: DHU
+  controller: DHU
+  cores:
+    CHAU: no
+    DHU: yes
+1192.1.1:
+  owner: GHOR
+  controller: GHOR
+  cores:
+    GHOR: yes
+1206.1.1:
+  owner: DLH
+  controller: DLH
+  cores:
+    GHOR: no
+    DLH: yes
+1226.1.1:
+  owner: DHU
+  controller: DHU
+  cores:
+    DLH: no
+1530.1.1:
+  owner: MUG
+  controller: MUG
+  cores:
+    MUG: yes
+1540.1.1:
+  owner: DHU
+  controller: DHU
+  cores:
+    MUG: no
+1544.1.1:
+  owner: BNG
+  controller: BNG
+1545.5.22:
+  owner: DHU
+  controller: DHU
+1930.1.1:
+  cores:
+    INDI: yes
+1948.1.1:
+  owner: INDI
+  controller: INDI
+  cores:
+    DHU: no

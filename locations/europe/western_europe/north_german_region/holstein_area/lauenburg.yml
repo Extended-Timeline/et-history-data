@@ -1,0 +1,117 @@
+#imported from EU4 file: history/provinces/1857 - Lauenburg.txt
+2.1.1:
+  owner: SAX
+  controller: SAX
+  cores:
+    SAX: yes
+  resource: salt
+  pop:
+    ethnicity: saxon
+    religion: germanic
+    estate: peasant
+    size: 1000
+804.1.1:
+  owner: OBOT
+  controller: OBOT
+  cores:
+    OBOT: yes
+900.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+911.11.10:
+  owner: SAX
+  controller: SAX
+  cores:
+    OBOT: no
+    SAX: yes
+1200.1.1:
+  pop:
+    ethnicity: lower_saxon
+    estate: peasant
+    size: 1000
+1296.1.1:
+  owner: LAU
+  controller: LAU
+  cores:
+    SAX: no
+    LAU: yes
+1529.1.1:
+  pop:
+    religion: lutheran
+    estate: peasant
+    size: 1000
+1689.1.1:
+  owner: BRU
+  controller: BRU
+  cores:
+    BRU: yes
+1692.1.1:
+  owner: HAN
+  controller: HAN
+  cores:
+    BRU: no
+    HAN: yes
+1807.7.9:
+  owner: WES
+  controller: WES
+  cores:
+    WES: yes
+1810.12.13:
+  owner: FRA
+  controller: FRA
+  cores:
+    WES: no
+    FRA: yes
+1813.10.13:
+  owner: HAN
+  controller: HAN
+  cores:
+    FRA: no
+1815.1.1:
+  owner: PRU
+  controller: PRU
+  cores:
+    HAN: no
+    PRU: yes
+1815.6.7:
+  owner: DAN
+  controller: DAN
+  cores:
+    PRU: no
+    DAN: yes
+1852.5.8:
+  owner: HOLS
+  controller: HOLS
+  cores:
+    DAN: no
+    HOLS: yes
+1864.10.30:
+  owner: PRU
+  controller: PRU
+  cores:
+    HOLS: no
+    PRU: yes
+1871.1.18:
+  owner: GER
+  controller: GER
+  cores:
+    PRU: no
+    LAU: no
+    GER: yes
+1945.5.8:
+  owner: WGER
+  controller: WGER
+  cores:
+    WGER: yes
+1990.10.3:
+  owner: GER
+  controller: GER
+  cores:
+    WGER: no
+2020.1.1:
+  pop:
+    religion: irreligious
+    estate: peasant
+    size: 1000

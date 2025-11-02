@@ -1,0 +1,97 @@
+#imported from EU4 file: history/provinces/4742 - Goslar.txt
+2.1.1:
+  owner: CHRS
+  controller: CHRS
+  cores:
+    CHRS: yes
+  resource: iron
+  pop:
+    ethnicity: rhine_franconian
+    religion: germanic
+    estate: peasant
+    size: 1000
+300.1.1:
+  owner: SAX
+  controller: SAX
+  cores:
+    CHRS: no
+    SAX: yes
+  pop:
+    ethnicity: saxon
+    estate: peasant
+    size: 1000
+804.1.1:
+  owner: FRAN
+  controller: FRAN
+  cores:
+    FRAN: yes
+840.6.21:
+  owner: EFRA
+  controller: EFRA
+  cores:
+    FRAN: no
+    EFRA: yes
+    FKN: yes
+900.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+911.11.10:
+  owner: FKN
+  controller: FKN
+  cores:
+    EFRA: no
+    SAX: no
+    FKN: yes
+1081.12.26:
+  owner: GOS
+  controller: GOS
+  cores:
+    FKN: no
+    GOS: yes
+1524.1.1:
+  pop:
+    religion: lutheran
+    estate: peasant
+    size: 1000
+1803.4.27:
+  owner: PRU
+  controller: PRU
+  cores:
+    PRU: yes
+1807.7.9:
+  owner: WES
+  controller: WES
+  cores:
+    PRU: no
+    WES: yes
+1813.10.13:
+  owner: HAN
+  controller: HAN
+  cores:
+    WES: no
+    HAN: yes
+1871.1.18:
+  owner: GER
+  controller: GER
+  cores:
+    GER: yes
+1900.1.1:
+  cores:
+    ANH: no
+1945.5.8:
+  owner: EGER
+  controller: EGER
+  cores:
+    EGER: yes
+1990.10.3:
+  owner: GER
+  controller: GER
+  cores:
+    EGER: no
+2000.1.1:
+  pop:
+    religion: irreligious
+    estate: peasant
+    size: 1000

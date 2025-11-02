@@ -1,0 +1,45 @@
+#imported from EU4 file: history/provinces/4614 - Tuneo.txt
+2.1.1:
+  pop:
+    ethnicity: wayuu_culture
+    religion: muisca_religion
+    estate: peasant
+    size: 1000
+1571.1.1:
+  owner: SPA
+  controller: SPA
+  cores:
+    SPA: yes
+  resource: grain
+  pop:
+    ethnicity: castilian
+    religion: catholic
+    estate: peasant
+    size: 1000
+1770.1.1:
+  pop:
+    ethnicity: iberian_colombian
+    estate: peasant
+    size: 1000
+1811.7.5:
+  owner: VENE
+  controller: VENE
+  cores:
+    VENE: yes
+1812.7.25:
+  controller: SPA
+1813.8.7:
+  controller: VENE
+1814.1.1:
+  controller: SPA
+1819.12.17:
+  owner: COLO
+  controller: COLO
+  cores:
+    SPA: no
+    COLO: yes
+1830.1.13:
+  owner: VENE
+  controller: VENE
+  cores:
+    COLO: no

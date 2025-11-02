@@ -1,0 +1,99 @@
+#imported from EU4 file: history/provinces/1234 - Nubia.txt
+2.1.1:
+  owner: MERO
+  controller: MERO
+  cores:
+    MERO: yes
+  resource: livestock
+  pop:
+    ethnicity: kushite
+    religion: egyptian
+    estate: peasant
+    size: 1000
+330.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+340.1.1:
+  pop:
+    ethnicity: nubian_language
+    estate: peasant
+    size: 1000
+350.1.1:
+  owner: BLEM
+  controller: BLEM
+  cores:
+    MERO: no
+    BLEM: yes
+425.1.1:
+  owner: NOBA
+  controller: NOBA
+  cores:
+    BLEM: no
+    NOBA: yes
+451.11.1:
+  pop:
+    religion: miaphysite
+    estate: peasant
+    size: 1000
+701.1.1:
+  owner: MAK
+  controller: MAK
+  cores:
+    NOBA: no
+    MAK: yes
+1276.1.1:
+  owner: MAM
+  controller: MAM
+  cores:
+    MAM: yes
+1286.1.1:
+  owner: MAK
+  controller: MAK
+1300.1.1:
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+1484.1.1:
+  owner: DON
+  controller: DON
+  cores:
+    DON: yes
+1517.1.1:
+  cores:
+    TUR: yes
+1540.1.1:
+  owner: TUR
+  controller: TUR
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+1805.5.17:
+  owner: EGY
+  controller: EGY
+  cores:
+    EGY: yes
+1882.9.13:
+  owner: GBR
+  controller: GBR
+  cores:
+    TUR: no
+    GBR: yes
+1914.12.19:
+  owner: EGY
+  controller: EGY
+  cores:
+    GBR: no
+1958.2.22:
+  owner: AIA
+  controller: AIA
+  cores:
+    AIA: yes
+1971.9.2:
+  owner: EGY
+  controller: EGY
+  cores:
+    AIA: no

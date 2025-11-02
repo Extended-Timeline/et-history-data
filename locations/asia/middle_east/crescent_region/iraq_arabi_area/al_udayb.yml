@@ -1,0 +1,117 @@
+#imported from EU4 file: history/provinces/3211 - Sahra al-Hijarah.txt
+2.1.1:
+  pop:
+    ethnicity: najdi_culture
+    religion: south_arabian
+    estate: peasant
+    size: 1000
+220.1.1:
+  owner: LAKH
+  controller: LAKH
+  cores:
+    LAKH: yes
+  resource: wool
+240.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+431.7.1:
+  pop:
+    religion: nestorianism
+    estate: peasant
+    size: 1000
+633.1.1:
+  owner: RASH
+  controller: RASH
+  cores:
+    LAKH: no
+    RASH: yes
+  pop:
+    religion: islam
+    estate: peasant
+    size: 1000
+661.7.28:
+  owner: UMAY
+  controller: UMAY
+  cores:
+    RASH: no
+    UMAY: yes
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+750.8.6:
+  owner: ABBA
+  controller: ABBA
+  cores:
+    UMAY: no
+    ABBA: yes
+944.1.1:
+  owner: IRAQ
+  controller: IRAQ
+  cores:
+    IRAQ: yes
+978.3.1:
+  owner: IRA
+  controller: IRA
+  cores:
+    IRA: yes
+983.3.26:
+  owner: IRAQ
+  controller: IRAQ
+987.1.1:
+  owner: IRA
+  controller: IRA
+1021.1.1:
+  owner: IRAQ
+  controller: IRAQ
+1044.3.1:
+  owner: IRA
+  controller: IRA
+1048.10.1:
+  owner: IRAQ
+  controller: IRAQ
+1055.12.17:
+  owner: SHAM
+  controller: SHAM
+  cores:
+    IRA: no
+    SHAM: yes
+1250.1.1:
+  pop:
+    religion: shia
+    estate: peasant
+    size: 1000
+1536.1.1:
+  owner: TUR
+  controller: TUR
+  cores:
+    IRA: no
+    TUR: yes
+1560.1.1:
+  owner: BASR
+  controller: TUR
+1568.1.1:
+  owner: TUR
+1596.1.1:
+  owner: BASR
+  controller: BASR
+  cores:
+    TUR: no
+1668.1.1:
+  owner: TUR
+  controller: TUR
+  cores:
+    TUR: yes
+1920.7.24:
+  owner: GBR
+  controller: GBR
+  cores:
+    TUR: no
+    GBR: yes
+1932.10.3:
+  owner: IRAQ
+  controller: IRAQ
+  cores:
+    GBR: no

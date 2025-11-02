@@ -1,0 +1,38 @@
+#imported from EU4 file: history/provinces/4078 - Nyanga.txt
+2.1.1:
+  pop:
+    ethnicity: kongo
+    religion: bantu_religion
+    estate: peasant
+    size: 1000
+1350.1.1:
+  owner: LOAN
+  controller: LOAN
+  cores:
+    LOAN: yes
+  resource: ivory
+1883.1.1:
+  owner: FRA
+  controller: FRA
+  cores:
+    FRA: yes
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+1940.6.14:
+  owner: VFRA
+  controller: VFRA
+  cores:
+    VFRA: yes
+1940.11.12:
+  owner: FRA
+  controller: FRA
+  cores:
+    VFRA: no
+1960.8.17:
+  owner: GABO
+  controller: GABO
+  cores:
+    FRA: no
+    GABO: yes

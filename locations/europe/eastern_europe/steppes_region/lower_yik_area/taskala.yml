@@ -1,0 +1,118 @@
+#imported from EU4 file: history/provinces/474 - Yaik.txt
+2.1.1:
+  pop:
+    ethnicity: hunnic
+    religion: 
+    estate: peasant
+    size: 1000
+160.1.1:
+  owner: HUNS
+  controller: HUNS
+  cores:
+    HUNS: yes
+  resource: iron
+376.1.1:
+  cores:
+    KHAZ: yes
+  pop:
+    ethnicity: khazar
+    estate: peasant
+    size: 1000
+448.1.1:
+  owner: KHAZ
+  controller: KHAZ
+  cores:
+    HUNS: no
+593.1.1:
+  pop:
+    ethnicity: pecheneg
+    estate: peasant
+    size: 1000
+820.1.1:
+  owner: PECH
+  controller: PECH
+  cores:
+    KHAZ: no
+    PECH: yes
+870.1.1:
+  owner: CUMA
+  controller: CUMA
+  cores:
+    PECH: no
+    CUMA: yes
+  pop:
+    ethnicity: cuman_culture
+    estate: peasant
+    size: 1000
+1100.1.1:
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+1236.1.1:
+  owner: MGE
+  controller: MGE
+  cores:
+    CUMA: no
+    MGE: yes
+  pop:
+    ethnicity: nogai
+    estate: peasant
+    size: 1000
+1260.1.1:
+  owner: WHHO
+  controller: WHHO
+  cores:
+    MGE: no
+    WHHO: yes
+1372.1.1:
+  owner: BLHO
+  controller: BLHO
+  cores:
+    BLHO: yes
+1374.1.1:
+  owner: WHHO
+  controller: WHHO
+  cores:
+    BLHO: no
+1378.1.1:
+  owner: GLH
+  controller: GLH
+  cores:
+    GLH: yes
+1430.1.1:
+  owner: NOGA
+  controller: NOGA
+  cores:
+    GLH: no
+    NOGA: yes
+1613.1.1:
+  owner: RUS
+  controller: RUS
+  cores:
+    NOGA: no
+    RUS: yes
+  pop:
+    ethnicity: muscovite
+    religion: orthodox
+    estate: peasant
+    size: 1000
+1775.2.1:
+  controller: RUS
+1917.12.13:
+  cores:
+    KAZK: yes
+1922.12.30:
+  owner: SOVI
+  controller: SOVI
+  cores:
+    RUS: no
+    SOVI: yes
+1984.1.1:
+  resource: oil
+1991.12.16:
+  owner: KAZK
+  controller: KAZK
+  cores:
+    SOVI: no
+    RUS: no

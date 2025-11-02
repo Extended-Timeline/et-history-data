@@ -1,0 +1,350 @@
+bar_sophie_i_dardenne:
+  1003.1.1:
+    birth: bar_le_duc #TODO: Date and location guessed, check if better data is available
+    first_name: sophie
+    dynasty: dardenne_dynasty
+    female: yes
+    adm: 30
+    dip: 75
+    mil: 30
+    religion: catholic
+    culture: burgundian
+  1093.1.21:
+    death: yes
+bar_theodoric_ii_de_montbeliard:
+  1063.1.1:
+    birth: bar_le_duc #TODO: Date and location guessed, check if better data is available
+    first_name: theodoric
+    dynasty: de_montbeliard_dynasty
+    adm: 15
+    dip: 15
+    mil: 30
+    religion: catholic
+    culture: burgundian
+  1105.1.2:
+    death: yes
+bar_reginald_i_de_montbeliard:
+  1080.1.1:
+    birth: bar_le_duc #TODO: Date and location guessed, check if better data is available
+    first_name: reginald
+    dynasty: de_montbeliard_dynasty
+    father: bar_theodoric_ii_de_montbeliard #TODO: check if this makes sense
+    adm: 15
+    dip: 75
+    mil: 15
+    religion: catholic
+    culture: burgundian
+  1149.3.10:
+    death: yes
+bar_reginald_i_de_montbeliard_1:
+  1075.1.1:
+    birth: bar_le_duc #TODO: Date and location guessed, check if better data is available
+    first_name: reginald
+    dynasty: de_montbeliard_dynasty
+    adm: 15
+    dip: 75
+    mil: 15
+    religion: catholic
+    culture: burgundian
+  1149.3.10:
+    death: yes
+bar_reginald_ii_de_montbeliard:
+  1130.1.1:
+    birth: bar_le_duc #TODO: Date and location guessed, check if better data is available
+    first_name: reginald
+    dynasty: de_montbeliard_dynasty
+    father: bar_reginald_i_de_montbeliard_1 #TODO: check if this makes sense
+    adm: 60
+    dip: 45
+    mil: 75
+    religion: catholic
+    culture: burgundian
+  1170.7.25:
+    death: yes
+bar_reginald_ii_de_montbeliard_1:
+  1119.1.1:
+    birth: bar_le_duc #TODO: Date and location guessed, check if better data is available
+    first_name: reginald
+    dynasty: de_montbeliard_dynasty
+    adm: 60
+    dip: 45
+    mil: 75
+    religion: catholic
+    culture: burgundian
+  1170.7.25:
+    death: yes
+bar_henri_i_de_montbeliard:
+  1158.1.1:
+    birth: bar_le_duc #TODO: Date and location guessed, check if better data is available
+    first_name: henri
+    dynasty: de_montbeliard_dynasty
+    father: bar_reginald_ii_de_montbeliard_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: catholic
+    culture: burgundian
+  1190.10.1:
+    death: yes
+bar_henri_i_de_montbeliard_1:
+  1140.1.1:
+    birth: bar_le_duc #TODO: Date and location guessed, check if better data is available
+    first_name: henri
+    dynasty: de_montbeliard_dynasty
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: catholic
+    culture: burgundian
+  1190.10.1:
+    death: yes
+bar_theobald_i_de_montbeliard:
+  1158.1.1:
+    birth: bar_le_duc #TODO: Date and location guessed, check if better data is available
+    first_name: theobald
+    dynasty: de_montbeliard_dynasty
+    father: bar_henri_i_de_montbeliard_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 15
+    mil: 30
+    religion: catholic
+    culture: burgundian
+  1214.2.13:
+    death: yes
+bar_theobald_i_de_montbeliard_1:
+  1160.1.1:
+    birth: bar_le_duc #TODO: Date and location guessed, check if better data is available
+    first_name: theobald
+    dynasty: de_montbeliard_dynasty
+    adm: 30
+    dip: 15
+    mil: 30
+    religion: catholic
+    culture: burgundian
+  1214.2.13:
+    death: yes
+bar_henri_ii_de_montbeliard:
+  1190.1.1:
+    birth: bar_le_duc #TODO: Date and location guessed, check if better data is available
+    first_name: henri
+    dynasty: de_montbeliard_dynasty
+    father: bar_theobald_i_de_montbeliard_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 60
+    mil: 15
+    religion: catholic
+    culture: burgundian
+  1239.11.13:
+    death: yes
+bar_henri_ii_de_montbeliard_1:
+  1184.1.1:
+    birth: bar_le_duc #TODO: Date and location guessed, check if better data is available
+    first_name: henri
+    dynasty: de_montbeliard_dynasty
+    adm: 45
+    dip: 60
+    mil: 15
+    religion: catholic
+    culture: burgundian
+  1239.11.13:
+    death: yes
+bar_theobald_ii_de_montbeliard:
+  1221.1.1:
+    birth: bar_le_duc #TODO: Date and location guessed, check if better data is available
+    first_name: theobald
+    dynasty: de_montbeliard_dynasty
+    father: bar_henri_ii_de_montbeliard_1 #TODO: check if this makes sense
+    adm: 60
+    dip: 75
+    mil: 30
+    religion: catholic
+    culture: burgundian
+  1291.1.1:
+    death: yes
+bar_theobald_ii_de_montbeliard_1:
+  1209.1.1:
+    birth: bar_le_duc #TODO: Date and location guessed, check if better data is available
+    first_name: theobald
+    dynasty: de_montbeliard_dynasty
+    adm: 60
+    dip: 75
+    mil: 30
+    religion: catholic
+    culture: burgundian
+  1291.1.1:
+    death: yes
+bar_henri_iii_de_montbeliard:
+  1259.1.1:
+    birth: bar_le_duc #TODO: Date and location guessed, check if better data is available
+    first_name: henri
+    dynasty: de_montbeliard_dynasty
+    father: bar_theobald_ii_de_montbeliard_1 #TODO: check if this makes sense
+    adm: 75
+    dip: 45
+    mil: 60
+    religion: catholic
+    culture: burgundian
+  1302.9.1:
+    death: yes
+bar_henri_iii_de_montbeliard_1:
+  1261.1.1:
+    birth: bar_le_duc #TODO: Date and location guessed, check if better data is available
+    first_name: henri
+    dynasty: de_montbeliard_dynasty
+    adm: 75
+    dip: 45
+    mil: 60
+    religion: catholic
+    culture: burgundian
+  1302.9.1:
+    death: yes
+bar_edward_i_de_montbeliard:
+  1280.1.1:
+    birth: bar_le_duc #TODO: Date and location guessed, check if better data is available
+    first_name: edward
+    dynasty: de_montbeliard_dynasty
+    father: bar_henri_iii_de_montbeliard_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 15
+    mil: 30
+    religion: catholic
+    culture: burgundian
+  1336.11.1:
+    death: yes
+bar_edward_i_de_montbeliard_1:
+  1272.1.1:
+    birth: bar_le_duc #TODO: Date and location guessed, check if better data is available
+    first_name: edward
+    dynasty: de_montbeliard_dynasty
+    adm: 45
+    dip: 15
+    mil: 30
+    religion: catholic
+    culture: burgundian
+  1336.11.1:
+    death: yes
+bar_henri_iv_de_montbeliard:
+  1315.1.1:
+    birth: bar_le_duc #TODO: Date and location guessed, check if better data is available
+    first_name: henri
+    dynasty: de_montbeliard_dynasty
+    father: bar_edward_i_de_montbeliard_1 #TODO: check if this makes sense
+    adm: 75
+    dip: 15
+    mil: 45
+    religion: catholic
+    culture: burgundian
+  1344.1.1:
+    death: yes
+bar_henri_iv_de_montbeliard_1:
+  1306.1.1:
+    birth: bar_le_duc #TODO: Date and location guessed, check if better data is available
+    first_name: henri
+    dynasty: de_montbeliard_dynasty
+    adm: 75
+    dip: 15
+    mil: 45
+    religion: catholic
+    culture: burgundian
+  1344.1.1:
+    death: yes
+bar_edward_ii_de_montbeliard:
+  1339.1.1:
+    birth: bar_le_duc #TODO: Date and location guessed, check if better data is available
+    first_name: edward
+    dynasty: de_montbeliard_dynasty
+    father: bar_henri_iv_de_montbeliard_1 #TODO: check if this makes sense
+    adm: 75
+    dip: 45
+    mil: 60
+    religion: catholic
+    culture: burgundian
+  1352.3.1:
+    death: yes
+bar_edward_ii_de_montbeliard_1:
+  1314.1.1:
+    birth: bar_le_duc #TODO: Date and location guessed, check if better data is available
+    first_name: edward
+    dynasty: de_montbeliard_dynasty
+    adm: 75
+    dip: 45
+    mil: 60
+    religion: catholic
+    culture: burgundian
+  1352.1.1:
+    death: yes
+bar_robert_i_de_montbeliard:
+  1344.11.8:
+    birth: bar_le_duc #TODO: Location guessed, check if better data is available
+    first_name: robert
+    dynasty: de_montbeliard_dynasty
+    father: bar_edward_ii_de_montbeliard_1 #TODO: check if this makes sense
+    adm: 75
+    dip: 30
+    mil: 60
+    religion: catholic
+    culture: burgundian
+  1411.4.12:
+    death: yes
+bar_robert_i_de_montbeliard_1:
+  1322.1.1:
+    birth: bar_le_duc #TODO: Date and location guessed, check if better data is available
+    first_name: robert
+    dynasty: de_montbeliard_dynasty
+    adm: 30
+    dip: 30
+    mil: 60
+    religion: catholic
+    culture: burgundian
+  1411.4.12:
+    death: yes
+bar_edward_iii_de_montbeliard:
+  1377.6.25:
+    birth: bar_le_duc #TODO: Location guessed, check if better data is available
+    first_name: edward
+    dynasty: de_montbeliard_dynasty
+    father: bar_robert_i_de_montbeliard_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 60
+    mil: 45
+    religion: catholic
+    culture: burgundian
+  1415.10.25:
+    death: yes
+bar_edward_iii_de_montbeliard_1:
+  1381.1.1:
+    birth: bar_le_duc #TODO: Date and location guessed, check if better data is available
+    first_name: edward
+    dynasty: de_montbeliard_dynasty
+    adm: 45
+    dip: 60
+    mil: 45
+    religion: catholic
+    culture: burgundian
+  1415.10.25:
+    death: yes
+bar_louis_i_de_montbeliard:
+  1375.1.1:
+    birth: bar_le_duc #TODO: Date and location guessed, check if better data is available
+    first_name: louis
+    dynasty: de_montbeliard_dynasty
+    father: bar_edward_iii_de_montbeliard_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 75
+    mil: 45
+    religion: catholic
+    culture: burgundian
+  1430.6.26:
+    death: yes
+bar_louis_i_de_montbeliard_1:
+  1385.1.1:
+    birth: bar_le_duc #TODO: Date and location guessed, check if better data is available
+    first_name: louis
+    dynasty: de_montbeliard_dynasty
+    adm: 30
+    dip: 75
+    mil: 45
+    religion: catholic
+    culture: burgundian
+  3000.1.1:
+    death: yes

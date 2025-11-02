@@ -1,0 +1,826 @@
+khiv_ilbars_arabshahid:
+  1479.1.1:
+    birth: darganata #TODO: Date and location guessed, check if better data is available
+    first_name: ilbars
+    dynasty: arabshahid_dynasty
+    adm: 30
+    dip: 30
+    mil: 60
+    religion: sunni
+    culture: turkmen_culture
+  1525.1.1:
+    death: yes
+khiv_sultan_hajji_arabshahid:
+  1490.1.1:
+    birth: darganata #TODO: Date and location guessed, check if better data is available
+    first_name: sultan_hajji
+    dynasty: arabshahid_dynasty
+    father: khiv_ilbars_arabshahid #TODO: check if this makes sense
+    adm: 30
+    dip: 30
+    mil: 45
+    religion: sunni
+    culture: turkmen_culture
+  1527.1.1:
+    death: yes
+khiv_sultan_hajji_arabshahid_1:
+  1495.1.1:
+    birth: darganata #TODO: Date and location guessed, check if better data is available
+    first_name: sultan_hajji
+    dynasty: arabshahid_dynasty
+    adm: 30
+    dip: 30
+    mil: 45
+    religion: sunni
+    culture: turkmen_culture
+  1527.1.1:
+    death: yes
+khiv_hassan_quli_arabshahid:
+  1500.1.1:
+    birth: darganata #TODO: Date and location guessed, check if better data is available
+    first_name: hassan_quli
+    dynasty: arabshahid_dynasty
+    father: khiv_sultan_hajji_arabshahid_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 15
+    mil: 30
+    religion: sunni
+    culture: turkmen_culture
+  1530.1.1:
+    death: yes
+khiv_hassan_quli_arabshahid_1:
+  1497.1.1:
+    birth: darganata #TODO: Date and location guessed, check if better data is available
+    first_name: hassan_quli
+    dynasty: arabshahid_dynasty
+    adm: 15
+    dip: 30
+    mil: 30
+    religion: sunni
+    culture: turkmen_culture
+  1530.1.1:
+    death: yes
+khiv_sufyan_khan_arabshahid:
+  1520.1.1:
+    birth: darganata #TODO: Date and location guessed, check if better data is available
+    first_name: sufyan_khan
+    dynasty: arabshahid_dynasty
+    father: khiv_hassan_quli_arabshahid_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 45
+    mil: 15
+    religion: sunni
+    culture: turkmen_culture
+  1531.1.1:
+    death: yes
+khiv_sufyan_khan_arabshahid_1:
+  1500.1.1:
+    birth: darganata #TODO: Date and location guessed, check if better data is available
+    first_name: sufyan_khan
+    dynasty: arabshahid_dynasty
+    adm: 15
+    dip: 45
+    mil: 45
+    religion: sunni
+    culture: turkmen_culture
+  1531.1.1:
+    death: yes
+khiv_bujunga_khan_arabshahid:
+  1530.1.1:
+    birth: darganata #TODO: Date and location guessed, check if better data is available
+    first_name: bujunga_khan
+    dynasty: arabshahid_dynasty
+    father: khiv_sufyan_khan_arabshahid_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 30
+    mil: 30
+    religion: sunni
+    culture: turkmen_culture
+  1533.1.1:
+    death: yes
+khiv_bujunga_khan_arabshahid_1:
+  1501.1.1:
+    birth: darganata #TODO: Date and location guessed, check if better data is available
+    first_name: bujunga_khan
+    dynasty: arabshahid_dynasty
+    adm: 30
+    dip: 30
+    mil: 30
+    religion: sunni
+    culture: turkmen_culture
+  1533.1.1:
+    death: yes
+khiv_avanak_khan_arabshahid:
+  1520.1.1:
+    birth: darganata #TODO: Date and location guessed, check if better data is available
+    first_name: avanak_khan
+    dynasty: arabshahid_dynasty
+    father: khiv_bujunga_khan_arabshahid_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 30
+    mil: 45
+    religion: sunni
+    culture: turkmen_culture
+  1534.1.1:
+    death: yes
+khiv_avanak_khan_arabshahid_1:
+  1503.1.1:
+    birth: darganata #TODO: Date and location guessed, check if better data is available
+    first_name: avanak_khan
+    dynasty: arabshahid_dynasty
+    adm: 15
+    dip: 30
+    mil: 45
+    religion: sunni
+    culture: turkmen_culture
+  1534.1.1:
+    death: yes
+khiv_qul_khan_arabshahid:
+  1510.1.1:
+    birth: darganata #TODO: Date and location guessed, check if better data is available
+    first_name: qul_khan
+    dynasty: arabshahid_dynasty
+    father: khiv_avanak_khan_arabshahid_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 30
+    mil: 30
+    religion: sunni
+    culture: turkmen_culture
+  1540.1.1:
+    death: yes
+khiv_qul_khan_arabshahid_1:
+  1504.1.1:
+    birth: darganata #TODO: Date and location guessed, check if better data is available
+    first_name: qul_khan
+    dynasty: arabshahid_dynasty
+    adm: 45
+    dip: 30
+    mil: 30
+    religion: sunni
+    culture: turkmen_culture
+  1540.1.1:
+    death: yes
+khiv_agatai_khan_arabshahid:
+  1490.1.1:
+    birth: darganata #TODO: Date and location guessed, check if better data is available
+    first_name: agatai_khan
+    dynasty: arabshahid_dynasty
+    father: khiv_qul_khan_arabshahid_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 30
+    mil: 45
+    religion: sunni
+    culture: turkmen_culture
+  1546.1.1:
+    death: yes
+khiv_agatai_khan_arabshahid_1:
+  1510.1.1:
+    birth: darganata #TODO: Date and location guessed, check if better data is available
+    first_name: agatai_khan
+    dynasty: arabshahid_dynasty
+    adm: 30
+    dip: 30
+    mil: 45
+    religion: sunni
+    culture: turkmen_culture
+  1546.1.1:
+    death: yes
+khiv_dost_khan_arabshahid:
+  1530.1.1:
+    birth: darganata #TODO: Date and location guessed, check if better data is available
+    first_name: dost_khan
+    dynasty: arabshahid_dynasty
+    father: khiv_agatai_khan_arabshahid_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 30
+    mil: 45
+    religion: sunni
+    culture: turkmen_culture
+  1558.1.1:
+    death: yes
+khiv_dost_khan_arabshahid_1:
+  1516.1.1:
+    birth: darganata #TODO: Date and location guessed, check if better data is available
+    first_name: dost_khan
+    dynasty: arabshahid_dynasty
+    adm: 30
+    dip: 30
+    mil: 45
+    religion: sunni
+    culture: turkmen_culture
+  1558.1.1:
+    death: yes
+khiv_hajji_muhammad_i_arabshahid:
+  1550.1.1:
+    birth: darganata #TODO: Date and location guessed, check if better data is available
+    first_name: hajji_muhammad
+    dynasty: arabshahid_dynasty
+    father: khiv_dost_khan_arabshahid_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 60
+    mil: 60
+    religion: sunni
+    culture: turkmen_culture
+  1603.3.1:
+    death: yes
+khiv_hajji_muhammad_i_arabshahid_1:
+  1528.1.1:
+    birth: darganata #TODO: Date and location guessed, check if better data is available
+    first_name: hajji_muhammad
+    dynasty: arabshahid_dynasty
+    adm: 30
+    dip: 60
+    mil: 60
+    religion: sunni
+    culture: turkmen_culture
+  1603.3.1:
+    death: yes
+khiv_arab_muhammad_i_arabshahid:
+  1570.1.1:
+    birth: darganata #TODO: Date and location guessed, check if better data is available
+    first_name: arab_muhammad
+    dynasty: arabshahid_dynasty
+    father: khiv_hajji_muhammad_i_arabshahid_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: sunni
+    culture: turkmen_culture
+  1623.8.1:
+    death: yes
+khiv_arab_muhammad_i_arabshahid_1:
+  1573.1.1:
+    birth: darganata #TODO: Date and location guessed, check if better data is available
+    first_name: arab_muhammad
+    dynasty: arabshahid_dynasty
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: sunni
+    culture: turkmen_culture
+  1623.8.1:
+    death: yes
+khiv_isfandiyar_arabshahid:
+  1600.1.1:
+    birth: darganata #TODO: Date and location guessed, check if better data is available
+    first_name: isfandiyar
+    dynasty: arabshahid_dynasty
+    father: khiv_arab_muhammad_i_arabshahid_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 45
+    mil: 30
+    religion: sunni
+    culture: turkmen_culture
+  1645.7.1:
+    death: yes
+khiv_isfandiyar_arabshahid_1:
+  1593.1.1:
+    birth: darganata #TODO: Date and location guessed, check if better data is available
+    first_name: isfandiyar
+    dynasty: arabshahid_dynasty
+    adm: 45
+    dip: 45
+    mil: 30
+    religion: sunni
+    culture: turkmen_culture
+  1645.7.1:
+    death: yes
+khiv_abul_ghazi_i_arabshahid:
+  1600.1.1:
+    birth: darganata #TODO: Date and location guessed, check if better data is available
+    first_name: abul_ghazi
+    dynasty: arabshahid_dynasty
+    father: khiv_isfandiyar_arabshahid_1 #TODO: check if this makes sense
+    adm: 75
+    dip: 60
+    mil: 15
+    religion: sunni
+    culture: turkmen_culture
+  1663.1.1:
+    death: yes
+khiv_abul_ghazi_i_arabshahid_1:
+  1615.1.1:
+    birth: darganata #TODO: Date and location guessed, check if better data is available
+    first_name: abul_ghazi
+    dynasty: arabshahid_dynasty
+    adm: 75
+    dip: 60
+    mil: 15
+    religion: sunni
+    culture: turkmen_culture
+  1663.1.1:
+    death: yes
+khiv_anusha_muhammad_arabshahid:
+  1630.1.1:
+    birth: darganata #TODO: Date and location guessed, check if better data is available
+    first_name: anusha_muhammad
+    dynasty: arabshahid_dynasty
+    father: khiv_abul_ghazi_i_arabshahid_1 #TODO: check if this makes sense
+    adm: 75
+    dip: 45
+    mil: 60
+    religion: sunni
+    culture: turkmen_culture
+  1685.1.1:
+    death: yes
+khiv_anusha_muhammad_arabshahid_1:
+  1633.1.1:
+    birth: darganata #TODO: Date and location guessed, check if better data is available
+    first_name: anusha_muhammad
+    dynasty: arabshahid_dynasty
+    adm: 75
+    dip: 45
+    mil: 60
+    religion: sunni
+    culture: turkmen_culture
+  1685.1.1:
+    death: yes
+khiv_khudaida_arabshahid:
+  1660.1.1:
+    birth: darganata #TODO: Date and location guessed, check if better data is available
+    first_name: khudaida
+    dynasty: arabshahid_dynasty
+    father: khiv_anusha_muhammad_arabshahid_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 45
+    mil: 30
+    religion: sunni
+    culture: turkmen_culture
+  1689.1.1:
+    death: yes
+khiv_khudaida_arabshahid_1:
+  1655.1.1:
+    birth: darganata #TODO: Date and location guessed, check if better data is available
+    first_name: khudaida
+    dynasty: arabshahid_dynasty
+    adm: 30
+    dip: 45
+    mil: 30
+    religion: sunni
+    culture: turkmen_culture
+  1689.1.1:
+    death: yes
+khiv_arang_muhammad_arabshahid:
+  1670.1.1:
+    birth: darganata #TODO: Date and location guessed, check if better data is available
+    first_name: arang_muhammad
+    dynasty: arabshahid_dynasty
+    father: khiv_khudaida_arabshahid_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 30
+    mil: 45
+    religion: sunni
+    culture: turkmen_culture
+  1694.10.27:
+    death: yes
+khiv_arang_muhammad_arabshahid_1:
+  1659.1.1:
+    birth: darganata #TODO: Date and location guessed, check if better data is available
+    first_name: arang_muhammad
+    dynasty: arabshahid_dynasty
+    adm: 30
+    dip: 30
+    mil: 45
+    religion: sunni
+    culture: turkmen_culture
+  1694.10.27:
+    death: yes
+khiv_juchi_arabshahid:
+  1664.1.1:
+    birth: darganata #TODO: Date and location guessed, check if better data is available
+    first_name: juchi
+    dynasty: arabshahid_dynasty
+    adm: 30
+    dip: 30
+    mil: 15
+    religion: sunni
+    culture: turkmen_culture
+  1695.8.1:
+    death: yes
+khiv_kabakly_arabshahid:
+  1665.1.1:
+    birth: darganata #TODO: Date and location guessed, check if better data is available
+    first_name: kabakly
+    dynasty: arabshahid_dynasty
+    adm: 15
+    dip: 45
+    mil: 60
+    religion: sunni
+    culture: turkmen_culture
+  1695.10.1:
+    death: yes
+khiv_qul_muhammad_arabshahid:
+  1665.1.1:
+    birth: darganata #TODO: Date and location guessed, check if better data is available
+    first_name: qul_muhammad
+    dynasty: arabshahid_dynasty
+    adm: 30
+    dip: 30
+    mil: 30
+    religion: sunni
+    culture: turkmen_culture
+  1697.10.4:
+    death: yes
+khiv_shah_niyaz_arabshahid:
+  1667.1.1:
+    birth: darganata #TODO: Date and location guessed, check if better data is available
+    first_name: shah_niyaz
+    dynasty: arabshahid_dynasty
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: sunni
+    culture: turkmen_culture
+  1701.1.1:
+    death: yes
+khiv_musi_arabshahid:
+  1671.1.1:
+    birth: darganata #TODO: Date and location guessed, check if better data is available
+    first_name: musi
+    dynasty: arabshahid_dynasty
+    adm: 15
+    dip: 30
+    mil: 30
+    religion: sunni
+    culture: turkmen_culture
+  1703.3.1:
+    death: yes
+khiv_arab_muhammad_ii_arabshahid:
+  1673.1.1:
+    birth: darganata #TODO: Date and location guessed, check if better data is available
+    first_name: arab_muhammad
+    dynasty: arabshahid_dynasty
+    adm: 15
+    dip: 15
+    mil: 15
+    religion: sunni
+    culture: turkmen_culture
+  1703.8.1:
+    death: yes
+khiv_hajji_muhammad_ii_arabshahid:
+  1690.1.1:
+    birth: darganata #TODO: Date and location guessed, check if better data is available
+    first_name: hajji_muhammad
+    dynasty: arabshahid_dynasty
+    father: khiv_arab_muhammad_ii_arabshahid #TODO: check if this makes sense
+    adm: 30
+    dip: 30
+    mil: 45
+    religion: sunni
+    culture: turkmen_culture
+  1714.4.1:
+    death: yes
+khiv_hajji_muhammad_ii_arabshahid_1:
+  1673.1.1:
+    birth: darganata #TODO: Date and location guessed, check if better data is available
+    first_name: hajji_muhammad
+    dynasty: arabshahid_dynasty
+    adm: 30
+    dip: 30
+    mil: 45
+    religion: sunni
+    culture: turkmen_culture
+  1714.4.1:
+    death: yes
+khiv_yadigar_khan_arabshahid:
+  1684.1.1:
+    birth: darganata #TODO: Date and location guessed, check if better data is available
+    first_name: yadigar_khan
+    dynasty: arabshahid_dynasty
+    adm: 30
+    dip: 30
+    mil: 30
+    religion: sunni
+    culture: turkmen_culture
+  1714.6.1:
+    death: yes
+khiv_arang_muhammad_ii_arabshahid:
+  1684.1.1:
+    birth: darganata #TODO: Date and location guessed, check if better data is available
+    first_name: arang_muhammad
+    dynasty: arabshahid_dynasty
+    adm: 30
+    dip: 30
+    mil: 15
+    religion: sunni
+    culture: turkmen_culture
+  1715.1.1:
+    death: yes
+khiv_sher_khan_arabshahid:
+  1700.1.1:
+    birth: darganata #TODO: Date and location guessed, check if better data is available
+    first_name: sher_khan
+    dynasty: arabshahid_dynasty
+    father: khiv_arang_muhammad_ii_arabshahid #TODO: check if this makes sense
+    adm: 30
+    dip: 30
+    mil: 45
+    religion: sunni
+    culture: turkmen_culture
+  1732.1.1:
+    death: yes
+khiv_sher_khan_arabshahid_1:
+  1685.1.1:
+    birth: darganata #TODO: Date and location guessed, check if better data is available
+    first_name: sher_khan
+    dynasty: arabshahid_dynasty
+    adm: 30
+    dip: 30
+    mil: 45
+    religion: sunni
+    culture: turkmen_culture
+  1732.1.1:
+    death: yes
+khiv_ilbars_ii_arabshahid:
+  1690.1.1:
+    birth: darganata #TODO: Date and location guessed, check if better data is available
+    first_name: ilbars
+    dynasty: arabshahid_dynasty
+    father: khiv_sher_khan_arabshahid_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 30
+    mil: 45
+    religion: sunni
+    culture: turkmen_culture
+  1741.1.1:
+    death: yes
+khiv_ilbars_ii_arabshahid_1:
+  1702.1.1:
+    birth: darganata #TODO: Date and location guessed, check if better data is available
+    first_name: ilbars
+    dynasty: arabshahid_dynasty
+    adm: 45
+    dip: 30
+    mil: 45
+    religion: sunni
+    culture: turkmen_culture
+  1741.1.1:
+    death: yes
+khiv_abu_muhammad_arabshahid:
+  1711.1.1:
+    birth: darganata #TODO: Date and location guessed, check if better data is available
+    first_name: abu_muhammad
+    dynasty: arabshahid_dynasty
+    adm: 15
+    dip: 30
+    mil: 15
+    religion: sunni
+    culture: turkmen_culture
+  1742.1.1:
+    death: yes
+khiv_abul_ghazi_ii_arabshahid:
+  1712.1.1:
+    birth: darganata #TODO: Date and location guessed, check if better data is available
+    first_name: abul_ghazi
+    dynasty: arabshahid_dynasty
+    adm: 30
+    dip: 15
+    mil: 30
+    religion: sunni
+    culture: turkmen_culture
+  1745.1.1:
+    death: yes
+khiv_ghaip_khan_i_arabshahid:
+  1715.1.1:
+    birth: darganata #TODO: Date and location guessed, check if better data is available
+    first_name: ghaip_khan
+    dynasty: arabshahid_dynasty
+    adm: 30
+    dip: 45
+    mil: 45
+    religion: sunni
+    culture: turkmen_culture
+  1750.1.1:
+    death: yes
+khiv_abdallah_qarabay_arabshahid:
+  1720.1.1:
+    birth: darganata #TODO: Date and location guessed, check if better data is available
+    first_name: abdallah_qarabay
+    dynasty: arabshahid_dynasty
+    adm: 30
+    dip: 30
+    mil: 45
+    religion: sunni
+    culture: turkmen_culture
+  1753.1.1:
+    death: yes
+khiv_sultan_timur_ghazi_arabshahid:
+  1723.1.1:
+    birth: darganata #TODO: Date and location guessed, check if better data is available
+    first_name: sultan_timur_ghazi
+    dynasty: arabshahid_dynasty
+    adm: 45
+    dip: 30
+    mil: 30
+    religion: sunni
+    culture: turkmen_culture
+  1764.1.1:
+    death: yes
+khiv_ghaip_khan_ii_arabshahid:
+  1730.1.1:
+    birth: darganata #TODO: Date and location guessed, check if better data is available
+    first_name: ghaip_khan
+    dynasty: arabshahid_dynasty
+    father: khiv_sultan_timur_ghazi_arabshahid #TODO: check if this makes sense
+    adm: 30
+    dip: 30
+    mil: 45
+    religion: sunni
+    culture: turkmen_culture
+  1791.1.1:
+    death: yes
+khiv_ghaip_khan_ii_arabshahid_1:
+  1734.1.1:
+    birth: darganata #TODO: Date and location guessed, check if better data is available
+    first_name: ghaip_khan
+    dynasty: arabshahid_dynasty
+    adm: 30
+    dip: 30
+    mil: 45
+    religion: sunni
+    culture: turkmen_culture
+  1791.1.1:
+    death: yes
+khiv_abul_ghazi_iii_arabshahid:
+  1770.1.1:
+    birth: darganata #TODO: Date and location guessed, check if better data is available
+    first_name: abul_ghazi
+    dynasty: arabshahid_dynasty
+    father: khiv_ghaip_khan_ii_arabshahid_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 45
+    mil: 45
+    religion: sunni
+    culture: turkmen_culture
+  1804.1.1:
+    death: yes
+khiv_abul_ghazi_iii_arabshahid_1:
+  1761.1.1:
+    birth: darganata #TODO: Date and location guessed, check if better data is available
+    first_name: abul_ghazi
+    dynasty: arabshahid_dynasty
+    adm: 30
+    dip: 45
+    mil: 45
+    religion: sunni
+    culture: turkmen_culture
+  1804.1.1:
+    death: yes
+khiv_iltazar_inaq_ibn_iwaz_arabshahid:
+  1780.1.1:
+    birth: darganata #TODO: Date and location guessed, check if better data is available
+    first_name: iltazar_inaq_ibn_iwaz
+    dynasty: arabshahid_dynasty
+    father: khiv_abul_ghazi_iii_arabshahid_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: sunni
+    culture: turkmen_culture
+  1806.1.1:
+    death: yes
+khiv_iltazar_inaq_ibn_iwaz_arabshahid_1:
+  1774.1.1:
+    birth: darganata #TODO: Date and location guessed, check if better data is available
+    first_name: iltazar_inaq_ibn_iwaz
+    dynasty: arabshahid_dynasty
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: sunni
+    culture: turkmen_culture
+  1806.1.1:
+    death: yes
+khiv_abu_al_ghazi_arabshahid:
+  1776.1.1:
+    birth: darganata #TODO: Date and location guessed, check if better data is available
+    first_name: abu_al_ghazi
+    dynasty: arabshahid_dynasty
+    adm: 60
+    dip: 45
+    mil: 60
+    religion: sunni
+    culture: turkmen_culture
+  1806.6.1:
+    death: yes
+khiv_muhammad_rahim_i_qungrat:
+  1776.1.1:
+    birth: darganata #TODO: Date and location guessed, check if better data is available
+    first_name: muhammad_rahim
+    dynasty: qungrat_dynasty
+    adm: 45
+    dip: 45
+    mil: 75
+    religion: sunni
+    culture: turkmen_culture
+  1825.1.1:
+    death: yes
+khiv_allah_quli_qungrat:
+  1795.1.1:
+    birth: darganata #TODO: Date and location guessed, check if better data is available
+    first_name: allah_quli
+    dynasty: qungrat_dynasty
+    adm: 15
+    dip: 60
+    mil: 45
+    religion: sunni
+    culture: turkmen_culture
+  1842.1.1:
+    death: yes
+khiv_muhammad_rahim_ii_qungrat:
+  1812.1.1:
+    birth: darganata #TODO: Date and location guessed, check if better data is available
+    first_name: muhammad_rahim
+    dynasty: qungrat_dynasty
+    adm: 45
+    dip: 45
+    mil: 15
+    religion: sunni
+    culture: turkmen_culture
+  1846.1.1:
+    death: yes
+khiv_abu_al_ghazi_qungrat:
+  1816.1.1:
+    birth: darganata #TODO: Date and location guessed, check if better data is available
+    first_name: abu_al_ghazi
+    dynasty: qungrat_dynasty
+    adm: 45
+    dip: 30
+    mil: 75
+    religion: sunni
+    culture: turkmen_culture
+  1855.1.1:
+    death: yes
+khiv_qutlugh_muhammad_qungrat:
+  1825.1.1:
+    birth: darganata #TODO: Date and location guessed, check if better data is available
+    first_name: qutlugh_muhammad
+    dynasty: qungrat_dynasty
+    adm: 45
+    dip: 15
+    mil: 75
+    religion: sunni
+    culture: turkmen_culture
+  1856.1.1:
+    death: yes
+khiv_sayyid_muhammad_qungrat:
+  1826.1.1:
+    birth: darganata #TODO: Date and location guessed, check if better data is available
+    first_name: sayyid_muhammad
+    dynasty: qungrat_dynasty
+    adm: 75
+    dip: 30
+    mil: 30
+    religion: sunni
+    culture: turkmen_culture
+  1864.9.10:
+    death: yes
+khiv_muhammad_rahim_iii_qungrat:
+  1834.1.1:
+    birth: darganata #TODO: Date and location guessed, check if better data is available
+    first_name: muhammad_rahim
+    dynasty: qungrat_dynasty
+    adm: 75
+    dip: 60
+    mil: 75
+    religion: sunni
+    culture: turkmen_culture
+  1910.9.1:
+    death: yes
+khiv_isfandiyar_jurji_qungrat:
+  1870.1.1:
+    birth: darganata #TODO: Date and location guessed, check if better data is available
+    first_name: isfandiyar_jurji
+    dynasty: qungrat_dynasty
+    father: khiv_muhammad_rahim_iii_qungrat #TODO: check if this makes sense
+    adm: 60
+    dip: 0
+    mil: 60
+    religion: sunni
+    culture: turkmen_culture
+  1918.10.1:
+    death: yes
+khiv_isfandiyar_jurji_qungrat_1:
+  1880.1.1:
+    birth: darganata #TODO: Date and location guessed, check if better data is available
+    first_name: isfandiyar_jurji
+    dynasty: qungrat_dynasty
+    adm: 60
+    dip: 0
+    mil: 60
+    religion: sunni
+    culture: turkmen_culture
+  1918.10.1:
+    death: yes
+khiv_sayid_abdullah_qungrat:
+  1873.1.1:
+    birth: darganata #TODO: Date and location guessed, check if better data is available
+    first_name: sayid_abdullah
+    dynasty: qungrat_dynasty
+    adm: 0
+    dip: 15
+    mil: 30
+    religion: sunni
+    culture: turkmen_culture
+  1920.2.2:
+    death: yes

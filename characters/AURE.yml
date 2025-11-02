@@ -1,0 +1,88 @@
+aure_masties_aures:
+  420.1.1:
+    birth: biskra #TODO: Date and location guessed, check if better data is available
+    first_name: masties
+    dynasty: aures_dynasty
+    adm: 30
+    dip: 30
+    mil: 45
+    religion: chalcedonism
+    culture: zenati
+  530.1.1:
+    death: yes
+aure_iabdas_aures:
+  500.1.1:
+    birth: biskra #TODO: Date and location guessed, check if better data is available
+    first_name: iabdas
+    dynasty: aures_dynasty
+    adm: 30
+    dip: 30
+    mil: 45
+    religion: chalcedonism
+    culture: zenati
+  600.1.1:
+    death: yes
+aure_tabat_jarawa:
+  570.1.1:
+    birth: biskra #TODO: Date and location guessed, check if better data is available
+    first_name: tabat
+    dynasty: jarawa_dynasty
+    adm: 30
+    dip: 30
+    mil: 45
+    religion: chalcedonism
+    culture: zenati
+  660.1.1:
+    death: yes
+aure_dihya_jarawa:
+  640.1.1:
+    birth: biskra #TODO: Date and location guessed, check if better data is available
+    first_name: dihya
+    dynasty: jarawa_dynasty
+    female: yes
+    father: aure_tabat_jarawa #TODO: check if this makes sense
+    adm: 60
+    dip: 60
+    mil: 75
+    religion: chalcedonism
+    culture: zenati
+  703.1.1:
+    death: yes
+aure_dihya_jarawa_1:
+  630.1.1:
+    birth: biskra #TODO: Date and location guessed, check if better data is available
+    first_name: dihya
+    dynasty: jarawa_dynasty
+    female: yes
+    adm: 60
+    dip: 60
+    mil: 75
+    religion: sunni
+    culture: zenati
+  702.1.1:
+    death: yes
+aure_bagay_jarawa:
+  680.1.1:
+    birth: biskra #TODO: Date and location guessed, check if better data is available
+    first_name: bagay
+    dynasty: jarawa_dynasty
+    father: aure_dihya_jarawa_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 15
+    mil: 30
+    religion: chalcedonism
+    culture: zenati
+  750.1.1:
+    death: yes
+aure_bagay_jarawa_1:
+  672.1.1:
+    birth: biskra #TODO: Date and location guessed, check if better data is available
+    first_name: bagay
+    dynasty: jarawa_dynasty
+    adm: 30
+    dip: 15
+    mil: 30
+    religion: sunni
+    culture: zenati
+  3000.1.1:
+    death: yes

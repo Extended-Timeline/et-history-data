@@ -1,0 +1,84 @@
+#imported from EU4 file: history/provinces/4700 - Lesbos.txt
+2.1.1:
+  owner: ROM
+  controller: ROM
+  cores:
+    ROM: yes
+  resource: fish
+  pop:
+    ethnicity: greek_culture
+    religion: hellenism_religion
+    estate: peasant
+    size: 1000
+320.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+395.1.17:
+  owner: BYZ
+  controller: BYZ
+  cores:
+    ROM: no
+    BYZ: yes
+867.1.1:
+  pop:
+    religion: orthodox
+    estate: peasant
+    size: 1000
+1076.1.1:
+  owner: RUM
+  controller: RUM
+  cores:
+    RUM: yes
+1092.1.1:
+  owner: BYZ
+  controller: BYZ
+  cores:
+    RUM: no
+1204.4.13:
+  owner: LAT
+  controller: LAT
+  cores:
+    LAT: yes
+1247.1.1:
+  owner: NICA
+  controller: NICA
+  cores:
+    LAT: no
+    NICA: yes
+1261.1.1:
+  owner: BYZ
+  controller: BYZ
+  cores:
+    NICA: no
+    BYZ: yes
+1355.1.1:
+  owner: GEN
+  controller: GEN
+  cores:
+    BYZ: no
+    GEN: yes
+1462.1.1:
+  owner: TUR
+  controller: TUR
+  cores:
+    TUR: yes
+1750.1.1:
+  cores:
+    GRE: yes
+1912.11.21:
+  controller: GRE
+1913.5.30:
+  owner: GRE
+  cores:
+    TUR: no
+1941.7.1:
+  owner: ITA
+  controller: ITA
+1943.9.8:
+  owner: GER
+  controller: GER
+1944.10.19:
+  owner: GRE
+  controller: GRE

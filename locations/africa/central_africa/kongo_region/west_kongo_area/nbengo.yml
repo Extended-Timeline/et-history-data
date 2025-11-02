@@ -1,0 +1,39 @@
+#imported from EU4 file: history/provinces/4080 - Soyo.txt
+2.1.1:
+  pop:
+    ethnicity: kongo
+    religion: bantu_religion
+    estate: peasant
+    size: 1000
+1350.1.1:
+  owner: KON
+  controller: KON
+  cores:
+    KON: yes
+    SOYO: yes
+  resource: slaves
+1590.1.1:
+  owner: SOYO
+  controller: SOYO
+  cores:
+    SOYO: yes
+1885.2.1:
+  owner: POR
+  controller: POR
+  cores:
+    KON: no
+    POR: yes
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+1900.1.1:
+  resource: wool
+1975.11.11:
+  owner: ANGO
+  controller: ANGO
+  cores:
+    POR: no
+    ANGO: yes
+2006.12.1:
+  resource: oil

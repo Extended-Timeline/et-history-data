@@ -1,0 +1,104 @@
+#imported from EU4 file: history/provinces/2043 - Balasore.txt
+2.1.1:
+  owner: KALI
+  controller: KALI
+  cores:
+    KALI: yes
+  resource: cloth
+  pop:
+    ethnicity: orissan
+    religion: jain
+    estate: peasant
+    size: 1000
+150.1.1:
+  owner: KJA
+  controller: KJA
+  cores:
+    KJA: yes
+355.1.1:
+  owner: GUPT
+  controller: GUPT
+  cores:
+    GUPT: yes
+580.1.1:
+  owner: KJA
+  controller: KJA
+  cores:
+    GUPT: no
+    KJA: yes
+600.1.1:
+  pop:
+    religion: hindu
+    estate: peasant
+    size: 1000
+620.1.1:
+  owner: TOSH
+  controller: TOSH
+  cores:
+    KJA: no
+    TOSH: yes
+680.1.1:
+  owner: KOGD
+  controller: KOGD
+  cores:
+    KOGD: yes
+736.1.1:
+  owner: TOSH
+  controller: TOSH
+  cores:
+    KOGD: no
+1118.1.1:
+  owner: KALI
+  controller: KALI
+  cores:
+    KALI: yes
+1434.1.1:
+  owner: ORI
+  controller: ORI
+  cores:
+    KALI: no
+    ORI: yes
+1568.1.1:
+  owner: BNG
+  controller: BNG
+  cores:
+    BNG: yes
+1576.1.1:
+  owner: ORI
+  controller: ORI
+1591.1.1:
+  controller: MUG
+1592.1.1:
+  owner: MUG
+  cores:
+    MUG: yes
+1624.1.1:
+  controller: MUG
+1658.12.28:
+  controller: MUG
+1707.3.15:
+  owner: BNG
+  controller: BNG
+  cores:
+    MUG: no
+1752.1.1:
+  owner: NAGP
+  controller: NAGP
+  cores:
+    NAGP: yes
+1803.1.1:
+  owner: GBR
+  controller: GBR
+  cores:
+    NAGP: no
+    GBR: yes
+1930.1.1:
+  cores:
+    ORI: no
+    BNG: no
+    INDI: yes
+1947.8.15:
+  owner: INDI
+  controller: INDI
+  cores:
+    GBR: no

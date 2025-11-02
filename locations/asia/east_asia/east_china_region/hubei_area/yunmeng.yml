@@ -1,0 +1,144 @@
+#imported from EU4 file: history/provinces/682 - Hanyang.txt
+2.1.1:
+  owner: HAN0
+  controller: HAN0
+  cores:
+    HAN0: yes
+    WUU: yes
+  resource: salt
+  pop:
+    ethnicity: jianghuai_culture
+    religion: sanjiao
+    estate: peasant
+    size: 1000
+9.1.10:
+  owner: XIN0
+  controller: XIN0
+  cores:
+    XIN0: yes
+23.10.5:
+  owner: HAN0
+  controller: HAN0
+  cores:
+    XIN0: no
+189.9.28:
+  owner: ZHON
+  controller: ZHON
+  cores:
+    HAN0: no
+    ZHON: yes
+199.6.1:
+  owner: WUU
+  controller: WUU
+  cores:
+    ZHON: no
+    WUU: yes
+280.3.15:
+  owner: JIN1
+  controller: JIN1
+  cores:
+    WUU: no
+    JIN1: yes
+420.1.1:
+  owner: LSON
+  controller: LSON
+  cores:
+    JIN1: no
+    LSON: yes
+479.1.1:
+  owner: QI00
+  controller: QI00
+  cores:
+    LSON: no
+    QI00: yes
+502.1.1:
+  owner: LIAN
+  controller: LIAN
+  cores:
+    QI00: no
+    LIAN: yes
+557.1.1:
+  owner: CHE
+  controller: CHE
+  cores:
+    LIAN: no
+    CHE: yes
+589.3.4:
+  owner: SUI0
+  controller: SUI0
+  cores:
+    CHE: no
+    SUI0: yes
+619.5.23:
+  owner: TANG
+  controller: TANG
+  cores:
+    SUI0: no
+    TANG: yes
+907.6.1:
+  owner: WUU
+  controller: WUU
+  cores:
+    TANG: no
+    WUU: yes
+937.1.1:
+  owner: TANG
+  controller: TANG
+  cores:
+    WUU: no
+    TANG: yes
+975.1.1:
+  owner: SONG
+  controller: SONG
+  cores:
+    TANG: no
+    SONG: yes
+1279.3.19:
+  owner: YUA
+  controller: YUA
+  cores:
+    SONG: no
+    YUA: yes
+    CXI: yes
+1361.1.1:
+  owner: HAN0
+  controller: HAN0
+  cores:
+    HAN0: yes
+1365.4.1:
+  owner: MNG
+  controller: MNG
+  cores:
+    MNG: yes
+1368.1.23:
+  cores:
+    YUA: no
+1643.1.1:
+  controller: CXI
+1645.6.14:
+  owner: QNG
+  controller: QNG
+  cores:
+    QNG: yes
+1662.1.1:
+  cores:
+    MNG: no
+1911.11.28:
+  controller: QNG
+1912.2.12:
+  owner: CHI
+  controller: CHI
+  cores:
+    QNG: no
+    CXI: no
+    CHI: yes
+1920.7.23:
+  controller: CHI
+1927.4.18:
+  controller: CHI
+1938.10.27:
+  controller: JAP
+1944.12.1:
+  controller: CHI
+1980.1.1:
+  resource: cars

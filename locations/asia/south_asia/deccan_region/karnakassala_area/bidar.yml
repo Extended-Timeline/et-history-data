@@ -1,0 +1,112 @@
+#imported from EU4 file: history/provinces/1948 - Bidar.txt
+2.1.1:
+  owner: SATA
+  controller: SATA
+  cores:
+    SATA: yes
+  resource: silk
+  pop:
+    ethnicity: kannadiga
+    religion: mahayana
+    estate: peasant
+    size: 1000
+220.1.1:
+  owner: ABHI
+  controller: ABHI
+  cores:
+    SATA: no
+    ABHI: yes
+240.1.1:
+  pop:
+    religion: hindu
+    estate: peasant
+    size: 1000
+250.1.1:
+  owner: VAKA
+  controller: VAKA
+  cores:
+    ABHI: no
+    VAKA: yes
+480.1.1:
+  owner: KADA
+  controller: KADA
+  cores:
+    VAKA: no
+    KADA: yes
+543.1.1:
+  owner: CHAL
+  controller: CHAL
+  cores:
+    KADA: no
+    CHAL: yes
+560.1.1:
+  pop:
+    religion: jain
+    estate: peasant
+    size: 1000
+753.1.1:
+  owner: RAST
+  controller: RAST
+  cores:
+    CHAL: no
+    RAST: yes
+973.1.1:
+  owner: CHAL
+  controller: CHAL
+  cores:
+    RAST: no
+    CHAL: yes
+1140.1.1:
+  pop:
+    religion: hindu
+    estate: peasant
+    size: 1000
+1189.1.1:
+  owner: YADA
+  controller: YADA
+  cores:
+    CHAL: no
+    YADA: yes
+1317.1.1:
+  owner: DLH
+  controller: DLH
+  cores:
+    YADA: no
+    DLH: yes
+1347.1.1:
+  owner: BAH
+  controller: BAH
+  cores:
+    DLH: no
+    BAH: yes
+1511.8.1:
+  controller: VIJ
+1512.1.1:
+  controller: BAH
+1618.1.1:
+  controller: BIJA
+1619.1.1:
+  owner: BIJA
+1685.1.1:
+  controller: MUG
+1686.1.1:
+  owner: MUG
+  cores:
+    BAH: no
+    MUG: yes
+1712.1.1:
+  cores:
+    DEC: yes
+1724.1.1:
+  owner: DEC
+  controller: DEC
+  cores:
+    MUG: no
+1930.1.1:
+  cores:
+    INDI: yes
+1948.9.1:
+  owner: INDI
+  controller: INDI
+  cores:
+    DEC: no

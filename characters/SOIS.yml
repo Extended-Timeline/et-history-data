@@ -1,0 +1,61 @@
+sois_aegidius_syagrii:
+  431.1.1:
+    birth: saint_quentin #TODO: Date and location guessed, check if better data is available
+    first_name: aegidius
+    dynasty: syagrii_dynasty
+    adm: 75
+    dip: 30
+    mil: 45
+    religion: chalcedonism
+    culture: roman
+  465.1.1:
+    death: yes
+sois_syagrius_syagrii:
+  435.1.1:
+    birth: saint_quentin #TODO: Date and location guessed, check if better data is available
+    first_name: syagrius
+    dynasty: syagrii_dynasty
+    adm: 30
+    dip: 45
+    mil: 45
+    religion: chalcedonism
+    culture: french
+  511.11.27:
+    death: yes
+sois_chlothar_i_merovingian:
+  497.1.1:
+    birth: saint_quentin #TODO: Date and location guessed, check if better data is available
+    first_name: chlothar
+    dynasty: merovingian_dynasty
+    adm: 75
+    dip: 60
+    mil: 75
+    religion: chalcedonism
+    culture: french
+  561.11.29:
+    death: yes
+sois_charibert_merovingian:
+  517.1.1:
+    birth: saint_quentin #TODO: Date and location guessed, check if better data is available
+    first_name: charibert
+    dynasty: merovingian_dynasty
+    father: sois_chlothar_i_merovingian #TODO: check if this makes sense
+    adm: 30
+    dip: 30
+    mil: 45
+    religion: chalcedonism
+    culture: french
+  567.12.1:
+    death: yes
+sois_chilperic_i_merovingian:
+  539.1.1:
+    birth: saint_quentin #TODO: Date and location guessed, check if better data is available
+    first_name: chilperic
+    dynasty: merovingian_dynasty
+    adm: 60
+    dip: 30
+    mil: 60
+    religion: chalcedonism
+    culture: french
+  3000.1.1:
+    death: yes

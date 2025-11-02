@@ -1,0 +1,62 @@
+tlx_aztahua_tizatlan:
+  1410.1.1:
+    birth: tizatlan #TODO: Date and location guessed, check if better data is available
+    first_name: aztahua
+    dynasty: tizatlan_dynasty
+    adm: 45
+    dip: 30
+    mil: 45
+    religion: nahuatl
+    culture: nahua_culture
+  1470.1.1:
+    death: yes
+tlx_xayacamach_tizatlan:
+  1450.1.1:
+    birth: tizatlan #TODO: Date and location guessed, check if better data is available
+    first_name: xayacamach
+    dynasty: tizatlan_dynasty
+    father: tlx_aztahua_tizatlan #TODO: check if this makes sense
+    adm: 45
+    dip: 45
+    mil: 30
+    religion: nahuatl
+    culture: nahua_culture
+  1490.1.1:
+    death: yes
+tlx_xayacamach_tizatlan_1:
+  1440.1.1:
+    birth: tizatlan #TODO: Date and location guessed, check if better data is available
+    first_name: xayacamach
+    dynasty: tizatlan_dynasty
+    adm: 45
+    dip: 30
+    mil: 45
+    religion: nahuatl
+    culture: nahua_culture
+  1490.1.1:
+    death: yes
+tlx_xicotencatl_tizatlan:
+  1425.1.1:
+    birth: tizatlan #TODO: Date and location guessed, check if better data is available
+    first_name: xicotencatl
+    dynasty: tizatlan_dynasty
+    father: tlx_xayacamach_tizatlan_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 75
+    mil: 45
+    religion: nahuatl
+    culture: nahua_culture
+  1522.1.1:
+    death: yes
+tlx_xicotencatl_tizatlan_1:
+  1460.1.1:
+    birth: tizatlan #TODO: Date and location guessed, check if better data is available
+    first_name: xicotencatl
+    dynasty: tizatlan_dynasty
+    adm: 45
+    dip: 75
+    mil: 45
+    religion: nahuatl
+    culture: nahua_culture
+  3000.1.1:
+    death: yes

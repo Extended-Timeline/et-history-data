@@ -1,0 +1,106 @@
+#imported from EU4 file: history/provinces/530 - Malvana.txt
+2.1.1:
+  owner: SATA
+  controller: SATA
+  cores:
+    SATA: yes
+  resource: spices
+  pop:
+    ethnicity: marathi_culture
+    religion: jain
+    estate: peasant
+    size: 1000
+220.1.1:
+  owner: ABHI
+  controller: ABHI
+  cores:
+    SATA: no
+    ABHI: yes
+250.1.1:
+  owner: VAKA
+  controller: VAKA
+  cores:
+    ABHI: no
+    VAKA: yes
+480.1.1:
+  owner: KADA
+  controller: KADA
+  cores:
+    VAKA: no
+    KADA: yes
+543.1.1:
+  owner: CHAL
+  controller: CHAL
+  cores:
+    KADA: no
+    CHAL: yes
+753.1.1:
+  owner: RAST
+  controller: RAST
+  cores:
+    CHAL: no
+    RAST: yes
+800.1.1:
+  owner: KONK
+  controller: KONK
+  cores:
+    RAST: no
+    KONK: yes
+1220.1.1:
+  pop:
+    religion: hindu
+    estate: peasant
+    size: 1000
+1265.1.1:
+  owner: YADA
+  controller: YADA
+  cores:
+    KONK: no
+    YADA: yes
+1317.1.1:
+  owner: DLH
+  controller: DLH
+  cores:
+    YADA: no
+    DLH: yes
+1347.1.1:
+  owner: BAH
+  controller: BAH
+  cores:
+    DLH: no
+    BAH: yes
+1380.1.1:
+  owner: VIJ
+  controller: VIJ
+1444.1.1:
+  cores:
+    BAH: yes
+1469.1.1:
+  controller: BAH
+1470.1.1:
+  owner: BAH
+1490.1.1:
+  owner: BIJA
+  controller: BIJA
+  cores:
+    BAH: no
+1650.1.1:
+  owner: MHR
+  controller: MHR
+  cores:
+    MHR: yes
+1818.6.3:
+  owner: GBR
+  controller: GBR
+  cores:
+    MHR: no
+    GBR: yes
+1930.1.1:
+  cores:
+    BIJA: no
+    INDI: yes
+1947.8.15:
+  owner: INDI
+  controller: INDI
+  cores:
+    GBR: no

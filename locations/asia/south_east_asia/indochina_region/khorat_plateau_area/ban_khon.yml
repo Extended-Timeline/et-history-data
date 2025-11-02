@@ -1,0 +1,80 @@
+#imported from EU4 file: history/provinces/614 - Vientiane.txt
+2.1.1:
+  pop:
+    ethnicity: khmu_culture
+    religion: bimoism
+    estate: peasant
+    size: 1000
+550.1.1:
+  owner: CHTB
+  controller: CHTB
+  cores:
+    CHTB: yes
+  resource: grain
+  pop:
+    religion: mahayana
+    estate: peasant
+    size: 1000
+880.1.1:
+  owner: CAMB
+  controller: CAMB
+  cores:
+    CAMB: yes
+1050.1.1:
+  owner: CHTB
+  controller: CHTB
+  cores:
+    CAMB: no
+    CHTB: yes
+  pop:
+    ethnicity: lao_culture
+    estate: peasant
+    size: 1000
+1185.1.1:
+  owner: CAMB
+  controller: CAMB
+  cores:
+    CAMB: yes
+1195.1.1:
+  owner: CHTB
+  controller: CHTB
+  cores:
+    CAMB: no
+    CHTB: yes
+1285.1.1:
+  owner: SUK
+  controller: SUK
+  cores:
+    SUK: yes
+1290.1.1:
+  pop:
+    religion: theravada
+    estate: peasant
+    size: 1000
+1354.1.1:
+  owner: LAXA
+  controller: LAXA
+  cores:
+    SUK: no
+    LAXA: yes
+1707.1.1:
+  owner: VTN
+  controller: VTN
+  cores:
+    LAXA: no
+    VTN: yes
+1828.11.12:
+  owner: RTP
+  controller: RTP
+  cores:
+    RTP: yes
+1893.10.3:
+  owner: LAOS
+  controller: LAOS
+  cores:
+    RTP: no
+    LAOS: yes
+1941.1.1:
+  controller: JAP
+1945.8.23:
+  controller: LAOS

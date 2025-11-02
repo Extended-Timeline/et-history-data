@@ -1,0 +1,59 @@
+#imported from EU4 file: history/provinces/1150 - Zamfara.txt
+2.1.1:
+  pop:
+    ethnicity: hausa
+    religion: bantu_religion
+    estate: peasant
+    size: 1000
+523.1.1:
+  owner: KEB
+  controller: KEB
+  cores:
+    KEB: yes
+  resource: grain
+1050.1.1:
+  owner: ZAM
+  controller: ZAM
+  cores:
+    KEB: no
+    ZAM: yes
+1517.1.1:
+  owner: KEB
+  controller: KEB
+  cores:
+    KEB: yes
+1556.1.1:
+  owner: ZAM
+  controller: ZAM
+  cores:
+    KEB: no
+1670.1.1:
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+1764.1.1:
+  owner: GOB
+  controller: GOB
+  cores:
+    GOB: yes
+1804.1.1:
+  owner: SOKO
+  controller: SOKO
+  cores:
+    SOKO: yes
+1810.1.1:
+  cores:
+    KEB: no
+1903.1.1:
+  owner: GBR
+  controller: GBR
+  cores:
+    GBR: yes
+1960.10.1:
+  owner: NIGR
+  controller: NIGR
+  cores:
+    GBR: no
+    SOKO: no
+    NIGR: yes

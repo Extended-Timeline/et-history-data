@@ -1,0 +1,60 @@
+#imported from EU4 file: history/provinces/1055 - Verkne-Angarsky.txt
+2.1.1:
+  pop:
+    ethnicity: buryat_culture
+    religion: 
+    estate: peasant
+    size: 1000
+848.1.1:
+  owner: MERK
+  controller: MERK
+  cores:
+    MERK: yes
+  resource: fur
+1120.1.1:
+  owner: KHMO
+  controller: KHMO
+  cores:
+    MERK: no
+    KHMO: yes
+1206.1.1:
+  owner: MGE
+  controller: MGE
+  cores:
+    KHMO: no
+    MGE: yes
+1271.1.1:
+  owner: YUA
+  controller: YUA
+  cores:
+    MGE: no
+    YUA: yes
+1368.1.1:
+  owner: BRT
+  controller: BRT
+  cores:
+    YUA: no
+    BRT: yes
+1632.9.25:
+  owner: RUS
+  controller: RUS
+  pop:
+    ethnicity: muscovite
+    religion: orthodox
+    estate: peasant
+    size: 1000
+1657.1.1:
+  cores:
+    RUS: yes
+1922.12.30:
+  owner: SOVI
+  controller: SOVI
+  cores:
+    RUS: no
+    SOVI: yes
+1991.12.25:
+  owner: RUS
+  controller: RUS
+  cores:
+    SOVI: no
+    RUS: yes

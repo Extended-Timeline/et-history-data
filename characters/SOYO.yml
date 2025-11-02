@@ -1,0 +1,123 @@
+soyo_mani_soyo:
+  1400.1.1:
+    birth: mbanza_soyo #TODO: Date and location guessed, check if better data is available
+    first_name: mani
+    dynasty: soyo_dynasty
+    adm: 30
+    dip: 45
+    mil: 45
+    religion: bantu_religion
+    culture: kongo
+  1491.4.3:
+    death: yes
+soyo_manuel_i_silva:
+  1461.1.1:
+    birth: mbanza_soyo #TODO: Date and location guessed, check if better data is available
+    first_name: manuel
+    dynasty: silva_dynasty
+    adm: 30
+    dip: 60
+    mil: 30
+    religion: catholic
+    culture: kongo
+  1540.1.1:
+    death: yes
+soyo_miguel_i_silva:
+  1520.1.1:
+    birth: mbanza_soyo #TODO: Date and location guessed, check if better data is available
+    first_name: miguel
+    dynasty: silva_dynasty
+    father: soyo_manuel_i_silva #TODO: check if this makes sense
+    adm: 30
+    dip: 45
+    mil: 60
+    religion: catholic
+    culture: kongo
+  1626.1.1:
+    death: yes
+soyo_miguel_i_silva_1:
+  1510.1.1:
+    birth: mbanza_soyo #TODO: Date and location guessed, check if better data is available
+    first_name: miguel
+    dynasty: silva_dynasty
+    adm: 30
+    dip: 45
+    mil: 60
+    religion: catholic
+    culture: kongo
+  1626.1.1:
+    death: yes
+soyo_paulo_i_silva:
+  1550.1.1:
+    birth: mbanza_soyo #TODO: Date and location guessed, check if better data is available
+    first_name: paulo
+    dynasty: silva_dynasty
+    father: soyo_miguel_i_silva_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 15
+    mil: 30
+    religion: catholic
+    culture: kongo
+  1646.1.1:
+    death: yes
+soyo_paulo_i_silva_1:
+  1596.1.1:
+    birth: mbanza_soyo #TODO: Date and location guessed, check if better data is available
+    first_name: paulo
+    dynasty: silva_dynasty
+    adm: 30
+    dip: 15
+    mil: 30
+    religion: catholic
+    culture: kongo
+  1646.1.1:
+    death: yes
+soyo_daniel_i_silva:
+  1626.1.1:
+    birth: mbanza_soyo #TODO: Date and location guessed, check if better data is available
+    first_name: daniel
+    dynasty: silva_dynasty
+    father: soyo_paulo_i_silva_1 #TODO: check if this makes sense
+    adm: 75
+    dip: 60
+    mil: 90
+    religion: catholic
+    culture: kongo
+  1730.1.1:
+    death: yes
+soyo_daniel_i_silva_1:
+  1616.1.1:
+    birth: mbanza_soyo #TODO: Date and location guessed, check if better data is available
+    first_name: daniel
+    dynasty: silva_dynasty
+    adm: 75
+    dip: 60
+    mil: 90
+    religion: catholic
+    culture: kongo
+  1710.1.1:
+    death: yes
+soyo_paulo_ii_silva:
+  1680.1.1:
+    birth: mbanza_soyo #TODO: Date and location guessed, check if better data is available
+    first_name: paulo
+    dynasty: silva_dynasty
+    adm: 30
+    dip: 45
+    mil: 45
+    religion: catholic
+    culture: kongo
+  1770.1.1:
+    death: yes
+soyo_daniel_ii_silva:
+  1740.1.1:
+    birth: mbanza_soyo #TODO: Date and location guessed, check if better data is available
+    first_name: daniel
+    dynasty: silva_dynasty
+    adm: 75
+    dip: 60
+    mil: 90
+    religion: catholic
+    culture: kongo
+  3000.1.1:
+    death: yes

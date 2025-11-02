@@ -1,0 +1,87 @@
+kalp_nasir_al_din_mahmud_shah_malikzada:
+  1369.1.1:
+    birth: kalpi #TODO: Date and location guessed, check if better data is available
+    first_name: nasir_al_din_mahmud_shah
+    dynasty: malikzada_dynasty
+    adm: 75
+    dip: 60
+    mil: 45
+    religion: sunni
+    culture: bundeli
+  1411.1.1:
+    death: yes
+kalp_qadir_shah_malikzada:
+  1380.1.1:
+    birth: kalpi #TODO: Date and location guessed, check if better data is available
+    first_name: qadir_shah
+    dynasty: malikzada_dynasty
+    father: kalp_nasir_al_din_mahmud_shah_malikzada #TODO: check if this makes sense
+    adm: 60
+    dip: 90
+    mil: 45
+    religion: sunni
+    culture: bundeli
+  1432.1.1:
+    death: yes
+kalp_qadir_shah_malikzada_1:
+  1381.1.1:
+    birth: kalpi #TODO: Date and location guessed, check if better data is available
+    first_name: qadir_shah
+    dynasty: malikzada_dynasty
+    adm: 60
+    dip: 90
+    mil: 45
+    religion: sunni
+    culture: bundeli
+  1432.1.1:
+    death: yes
+kalp_fath_al_din_jalal_shah_malikzada:
+  1390.1.1:
+    birth: kalpi #TODO: Date and location guessed, check if better data is available
+    first_name: fath_al_din_jalal_shah
+    dynasty: malikzada_dynasty
+    father: kalp_qadir_shah_malikzada_1 #TODO: check if this makes sense
+    adm: 75
+    dip: 90
+    mil: 15
+    religion: sunni
+    culture: bundeli
+  1439.1.1:
+    death: yes
+kalp_fath_al_din_jalal_shah_malikzada_1:
+  1402.1.1:
+    birth: kalpi #TODO: Date and location guessed, check if better data is available
+    first_name: fath_al_din_jalal_shah
+    dynasty: malikzada_dynasty
+    adm: 75
+    dip: 90
+    mil: 15
+    religion: sunni
+    culture: bundeli
+  1439.1.1:
+    death: yes
+kalp_nasir_khan_malikzada:
+  1400.1.1:
+    birth: kalpi #TODO: Date and location guessed, check if better data is available
+    first_name: nasir_khan
+    dynasty: malikzada_dynasty
+    father: kalp_fath_al_din_jalal_shah_malikzada_1 #TODO: check if this makes sense
+    adm: 90
+    dip: 60
+    mil: 45
+    religion: sunni
+    culture: bundeli
+  1460.1.1:
+    death: yes
+kalp_nasir_khan_malikzada_1:
+  1409.1.1:
+    birth: kalpi #TODO: Date and location guessed, check if better data is available
+    first_name: nasir_khan
+    dynasty: malikzada_dynasty
+    adm: 90
+    dip: 60
+    mil: 45
+    religion: sunni
+    culture: bundeli
+  3000.1.1:
+    death: yes

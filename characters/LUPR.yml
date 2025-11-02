@@ -1,0 +1,244 @@
+lupr_khun_borom_khun_lo:
+  590.1.1:
+    birth: muang_sua #TODO: Date and location guessed, check if better data is available
+    first_name: khun_borom
+    dynasty: khun_lo_dynasty
+    adm: 60
+    dip: 60
+    mil: 45
+    religion: satsana_phi
+    culture: lao_culture
+  698.1.1:
+    death: yes
+lupr_khun_lo_khun_lo:
+  680.1.1:
+    birth: muang_sua #TODO: Date and location guessed, check if better data is available
+    first_name: khun_lo
+    dynasty: khun_lo_dynasty
+    adm: 60
+    dip: 45
+    mil: 60
+    religion: satsana_phi
+    culture: lao_culture
+  780.1.1:
+    death: yes
+lupr_khun_sung_khun_lo:
+  740.1.1:
+    birth: muang_sua #TODO: Date and location guessed, check if better data is available
+    first_name: khun_sung
+    dynasty: khun_lo_dynasty
+    adm: 45
+    dip: 0
+    mil: 45
+    religion: satsana_phi
+    culture: lao_culture
+  820.1.1:
+    death: yes
+lupr_khun_phalan_khun_lo:
+  790.1.1:
+    birth: muang_sua #TODO: Date and location guessed, check if better data is available
+    first_name: khun_phalan
+    dynasty: khun_lo_dynasty
+    adm: 30
+    dip: 15
+    mil: 45
+    religion: satsana_phi
+    culture: lao_culture
+  850.1.1:
+    death: yes
+lupr_khun_in_khun_lo:
+  820.1.1:
+    birth: muang_sua #TODO: Date and location guessed, check if better data is available
+    first_name: khun_in
+    dynasty: khun_lo_dynasty
+    adm: 30
+    dip: 15
+    mil: 30
+    religion: mahayana
+    culture: lao_culture
+  1050.1.1:
+    death: yes
+lupr_chanthaphanit_xayfong:
+  1020.1.1:
+    birth: muang_sua #TODO: Date and location guessed, check if better data is available
+    first_name: chanthaphanit
+    dynasty: xayfong_dynasty
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: mahayana
+    culture: lao_culture
+  3000.1.1:
+    death: yes
+lupr_panya_lang_khun_lo:
+  1241.1.1:
+    birth: muang_sua #TODO: Date and location guessed, check if better data is available
+    first_name: panya_lang
+    dynasty: khun_lo_dynasty
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: theravada
+    culture: lao_culture
+  1316.1.1:
+    death: yes
+lupr_panya_khamphong_khun_lo:
+  1286.1.1:
+    birth: muang_sua #TODO: Date and location guessed, check if better data is available
+    first_name: panya_khamphong
+    dynasty: khun_lo_dynasty
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: theravada
+    culture: lao_culture
+  1707.1.1:
+    death: yes
+lupr_kitsarat_prabang:
+  1677.1.1:
+    birth: muang_sua #TODO: Date and location guessed, check if better data is available
+    first_name: kitsarat
+    dynasty: prabang_dynasty
+    adm: 75
+    dip: 90
+    mil: 90
+    religion: theravada
+    culture: lao_culture
+  1726.1.1:
+    death: yes
+lupr_khamane_noi_prabang:
+  1700.1.1:
+    birth: muang_sua #TODO: Date and location guessed, check if better data is available
+    first_name: khamane_noi
+    dynasty: prabang_dynasty
+    father: lupr_kitsarat_prabang #TODO: check if this makes sense
+    adm: 60
+    dip: 45
+    mil: 45
+    religion: theravada
+    culture: lao_culture
+  1727.1.1:
+    death: yes
+lupr_khamane_noi_prabang_1:
+  1696.1.1:
+    birth: muang_sua #TODO: Date and location guessed, check if better data is available
+    first_name: khamane_noi
+    dynasty: prabang_dynasty
+    adm: 60
+    dip: 45
+    mil: 45
+    religion: theravada
+    culture: lao_culture
+  1727.1.1:
+    death: yes
+lupr_inta_som_prabang:
+  1710.1.1:
+    birth: muang_sua #TODO: Date and location guessed, check if better data is available
+    first_name: inta_som
+    dynasty: prabang_dynasty
+    father: lupr_khamane_noi_prabang_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: theravada
+    culture: lao_culture
+  1776.1.1:
+    death: yes
+lupr_inta_som_prabang_1:
+  1697.1.1:
+    birth: muang_sua #TODO: Date and location guessed, check if better data is available
+    first_name: inta_som
+    dynasty: prabang_dynasty
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: theravada
+    culture: lao_culture
+  1776.1.1:
+    death: yes
+lupr_sotika_koumane_prabang:
+  1750.1.1:
+    birth: muang_sua #TODO: Date and location guessed, check if better data is available
+    first_name: sotika_koumane
+    dynasty: prabang_dynasty
+    father: lupr_inta_som_prabang_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 60
+    mil: 15
+    religion: theravada
+    culture: lao_culture
+  1781.1.1:
+    death: yes
+lupr_sotika_koumane_prabang_1:
+  1746.1.1:
+    birth: muang_sua #TODO: Date and location guessed, check if better data is available
+    first_name: sotika_koumane
+    dynasty: prabang_dynasty
+    adm: 30
+    dip: 60
+    mil: 15
+    religion: theravada
+    culture: lao_culture
+  1781.1.1:
+    death: yes
+lupr_tiao_vong:
+  1770.1.1:
+    birth: muang_sua #TODO: Date and location guessed, check if better data is available
+    first_name: tiao_vong
+    father: lupr_sotika_koumane_prabang_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 30
+    mil: 30
+    religion: theravada
+    culture: lao_culture
+  1787.1.1:
+    death: yes
+lupr_tiao_vong_prabang:
+  1751.1.1:
+    birth: muang_sua #TODO: Date and location guessed, check if better data is available
+    first_name: tiao_vong
+    dynasty: prabang_dynasty
+    adm: 45
+    dip: 30
+    mil: 30
+    religion: theravada
+    culture: lao_culture
+  1787.1.1:
+    death: yes
+lupr_anourout_prabang:
+  1780.1.1:
+    birth: muang_sua #TODO: Date and location guessed, check if better data is available
+    first_name: anourout
+    dynasty: prabang_dynasty
+    father: lupr_tiao_vong_prabang #TODO: check if this makes sense
+    adm: 45
+    dip: 45
+    mil: 30
+    religion: theravada
+    culture: lao_culture
+  1817.1.1:
+    death: yes
+lupr_anourout_prabang_1:
+  1757.1.1:
+    birth: muang_sua #TODO: Date and location guessed, check if better data is available
+    first_name: anourout
+    dynasty: prabang_dynasty
+    adm: 45
+    dip: 45
+    mil: 30
+    religion: theravada
+    culture: lao_culture
+  1817.1.1:
+    death: yes
+lupr_mantha_thourath_prabang:
+  1787.1.1:
+    birth: muang_sua #TODO: Date and location guessed, check if better data is available
+    first_name: mantha_thourath
+    dynasty: prabang_dynasty
+    adm: 30
+    dip: 45
+    mil: 30
+    religion: theravada
+    culture: lao_culture
+  1840.1.1:
+    death: yes

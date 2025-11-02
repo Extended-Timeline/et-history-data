@@ -1,0 +1,110 @@
+#imported from EU4 file: history/provinces/4451 - Sonpur.txt
+2.1.1:
+  owner: KALI
+  controller: KALI
+  cores:
+    KALI: yes
+    DAKS: yes
+  resource: naval_supplies
+  pop:
+    ethnicity: garjati
+    religion: hindu
+    estate: peasant
+    size: 1000
+120.1.1:
+  owner: DAKS
+  controller: DAKS
+  cores:
+    KALI: no
+350.1.1:
+  owner: KLH
+  controller: KLH
+  cores:
+    DAKS: no
+    KLH: yes
+475.1.1:
+  owner: DAKS
+  controller: DAKS
+  cores:
+    KLH: no
+    DAKS: yes
+580.1.1:
+  owner: KHIN
+  controller: KHIN
+  cores:
+    DAKS: no
+    KHIN: yes
+700.1.1:
+  owner: DAKS
+  controller: DAKS
+  cores:
+    DAKS: yes
+760.1.1:
+  owner: KHIN
+  controller: KHIN
+  cores:
+    DAKS: no
+885.1.1:
+  owner: DAKS
+  controller: DAKS
+  cores:
+    DAKS: yes
+950.1.1:
+  owner: TOSH
+  controller: TOSH
+  cores:
+    TOSH: yes
+1023.1.1:
+  owner: DAKS
+  controller: DAKS
+  cores:
+    TOSH: no
+    DAKS: yes
+1114.1.1:
+  owner: RATA
+  controller: RATA
+  cores:
+    RATA: yes
+1225.1.1:
+  owner: KHIN
+  controller: KHIN
+  cores:
+    RATA: no
+    KHIN: yes
+1323.1.1:
+  owner: PTN
+  controller: PTN
+  cores:
+    PTN: yes
+1494.1.1:
+  owner: SAMB
+  controller: SAMB
+  cores:
+    SAMB: yes
+1752.1.1:
+  owner: NAGP
+  controller: NAGP
+  cores:
+    NAGP: yes
+1803.1.1:
+  owner: GBR
+  controller: GBR
+  cores:
+    GBR: yes
+1806.1.1:
+  owner: NAGP
+  controller: NAGP
+1816.1.1:
+  owner: GBR
+  controller: GBR
+  cores:
+    NAGP: no
+1930.1.1:
+  cores:
+    ORI: no
+    INDI: yes
+1947.8.15:
+  owner: INDI
+  controller: INDI
+  cores:
+    GBR: no

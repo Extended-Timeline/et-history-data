@@ -1,0 +1,990 @@
+kon_nimi_lukeni:
+  1320.1.1:
+    birth: mbanza_kongo #TODO: Date and location guessed, check if better data is available
+    first_name: nimi
+    dynasty: lukeni_dynasty
+    adm: 30
+    dip: 45
+    mil: 15
+    religion: bantu_religion
+    culture: kongo
+  1380.1.1:
+    death: yes
+kon_ntinu_lukeni:
+  1360.1.1:
+    birth: mbanza_kongo #TODO: Date and location guessed, check if better data is available
+    first_name: ntinu
+    dynasty: lukeni_dynasty
+    father: kon_nimi_lukeni #TODO: check if this makes sense
+    adm: 30
+    dip: 75
+    mil: 15
+    religion: bantu_religion
+    culture: kongo
+  1410.1.1:
+    death: yes
+kon_ntinu_lukeni_1:
+  1350.1.1:
+    birth: mbanza_kongo #TODO: Date and location guessed, check if better data is available
+    first_name: ntinu
+    dynasty: lukeni_dynasty
+    adm: 30
+    dip: 75
+    mil: 15
+    religion: bantu_religion
+    culture: kongo
+  1410.1.1:
+    death: yes
+kon_nanga_lukeni:
+  1380.1.1:
+    birth: mbanza_kongo #TODO: Date and location guessed, check if better data is available
+    first_name: nanga
+    dynasty: lukeni_dynasty
+    adm: 45
+    dip: 60
+    mil: 45
+    religion: bantu_religion
+    culture: kongo
+  1419.1.1:
+    death: yes
+kon_nkuwu_lukeni:
+  1390.1.1:
+    birth: mbanza_kongo #TODO: Date and location guessed, check if better data is available
+    first_name: nkuwu
+    dynasty: lukeni_dynasty
+    father: kon_nanga_lukeni #TODO: check if this makes sense
+    adm: 45
+    dip: 60
+    mil: 60
+    religion: bantu_religion
+    culture: kongo
+  1457.1.1:
+    death: yes
+kon_nkuwu_lukeni_1:
+  1389.1.1:
+    birth: mbanza_kongo #TODO: Date and location guessed, check if better data is available
+    first_name: nkuwu
+    dynasty: lukeni_dynasty
+    adm: 45
+    dip: 60
+    mil: 60
+    religion: bantu_religion
+    culture: kongo
+  1457.1.1:
+    death: yes
+kon_nzinga_nkuwa_lukeni:
+  1439.1.1:
+    birth: mbanza_kongo #TODO: Date and location guessed, check if better data is available
+    first_name: nzinga_nkuwa
+    dynasty: lukeni_dynasty
+    father: kon_nkuwu_lukeni_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 90
+    mil: 45
+    religion: bantu_religion
+    culture: kongo
+  1506.6.2:
+    death: yes
+kon_nzinga_nkuwa_lukeni_1:
+  1427.1.1:
+    birth: mbanza_kongo #TODO: Date and location guessed, check if better data is available
+    first_name: nzinga_nkuwa
+    dynasty: lukeni_dynasty
+    adm: 30
+    dip: 90
+    mil: 45
+    religion: bantu_religion
+    culture: kongo
+  1506.6.2:
+    death: yes
+kon_afonso_i_lukeni:
+  1480.1.1:
+    birth: mbanza_kongo #TODO: Date and location guessed, check if better data is available
+    first_name: afonso
+    dynasty: lukeni_dynasty
+    father: kon_nzinga_nkuwa_lukeni_1 #TODO: check if this makes sense
+    adm: 90
+    dip: 60
+    mil: 75
+    religion: bantu_religion
+    culture: kongo
+  1543.1.1:
+    death: yes
+kon_afonso_i_lukeni_1:
+  1476.1.1:
+    birth: mbanza_kongo #TODO: Date and location guessed, check if better data is available
+    first_name: afonso
+    dynasty: lukeni_dynasty
+    adm: 90
+    dip: 60
+    mil: 75
+    religion: catholic
+    culture: kongo
+  1543.1.1:
+    death: yes
+kon_pedro_i_lukeni:
+  1500.1.1:
+    birth: mbanza_kongo #TODO: Date and location guessed, check if better data is available
+    first_name: pedro
+    dynasty: lukeni_dynasty
+    father: kon_afonso_i_lukeni_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 30
+    mil: 15
+    religion: bantu_religion
+    culture: kongo
+  1545.1.1:
+    death: yes
+kon_pedro_i_lukeni_1:
+  1513.1.1:
+    birth: mbanza_kongo #TODO: Date and location guessed, check if better data is available
+    first_name: pedro
+    dynasty: lukeni_dynasty
+    adm: 45
+    dip: 30
+    mil: 15
+    religion: catholic
+    culture: kongo
+  1545.1.1:
+    death: yes
+kon_diogo_i_lukeni:
+  1520.1.1:
+    birth: mbanza_kongo #TODO: Date and location guessed, check if better data is available
+    first_name: diogo
+    dynasty: lukeni_dynasty
+    father: kon_pedro_i_lukeni_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 60
+    mil: 45
+    religion: catholic
+    culture: kongo
+  1561.9.2:
+    death: yes
+kon_diogo_i_lukeni_1:
+  1515.1.1:
+    birth: mbanza_kongo #TODO: Date and location guessed, check if better data is available
+    first_name: diogo
+    dynasty: lukeni_dynasty
+    adm: 45
+    dip: 60
+    mil: 45
+    religion: catholic
+    culture: kongo
+  1561.9.2:
+    death: yes
+kon_bernardo_i_lukeni:
+  1520.1.1:
+    birth: mbanza_kongo #TODO: Date and location guessed, check if better data is available
+    first_name: bernardo
+    dynasty: lukeni_dynasty
+    father: kon_diogo_i_lukeni_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 15
+    mil: 15
+    religion: catholic
+    culture: kongo
+  1566.4.2:
+    death: yes
+kon_bernardo_i_lukeni_1:
+  1531.1.1:
+    birth: mbanza_kongo #TODO: Date and location guessed, check if better data is available
+    first_name: bernardo
+    dynasty: lukeni_dynasty
+    adm: 45
+    dip: 15
+    mil: 15
+    religion: catholic
+    culture: kongo
+  1566.4.2:
+    death: yes
+kon_henrique_i_lukeni:
+  1540.1.1:
+    birth: mbanza_kongo #TODO: Date and location guessed, check if better data is available
+    first_name: henrique
+    dynasty: lukeni_dynasty
+    father: kon_bernardo_i_lukeni_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 15
+    mil: 30
+    religion: catholic
+    culture: kongo
+  1568.1.1:
+    death: yes
+kon_henrique_i_lukeni_1:
+  1536.1.1:
+    birth: mbanza_kongo #TODO: Date and location guessed, check if better data is available
+    first_name: henrique
+    dynasty: lukeni_dynasty
+    adm: 15
+    dip: 15
+    mil: 30
+    religion: catholic
+    culture: kongo
+  1568.1.1:
+    death: yes
+kon_alvaro_i_kwilu:
+  1560.1.1:
+    birth: mbanza_kongo #TODO: Date and location guessed, check if better data is available
+    first_name: alvaro
+    dynasty: kwilu_dynasty
+    father: kon_henrique_i_lukeni_1 #TODO: check if this makes sense
+    adm: 75
+    dip: 30
+    mil: 45
+    religion: catholic
+    culture: kongo
+  1587.1.1:
+    death: yes
+kon_alvaro_i_kwilu_1:
+  1538.1.1:
+    birth: mbanza_kongo #TODO: Date and location guessed, check if better data is available
+    first_name: alvaro
+    dynasty: kwilu_dynasty
+    adm: 75
+    dip: 30
+    mil: 45
+    religion: catholic
+    culture: kongo
+  1587.1.1:
+    death: yes
+kon_alvaro_ii_kwilu:
+  1560.1.1:
+    birth: mbanza_kongo #TODO: Date and location guessed, check if better data is available
+    first_name: alvaro
+    dynasty: kwilu_dynasty
+    father: kon_alvaro_i_kwilu_1 #TODO: check if this makes sense
+    adm: 90
+    dip: 30
+    mil: 75
+    religion: catholic
+    culture: kongo
+  1614.8.2:
+    death: yes
+kon_alvaro_ii_kwilu_1:
+  1557.1.1:
+    birth: mbanza_kongo #TODO: Date and location guessed, check if better data is available
+    first_name: alvaro
+    dynasty: kwilu_dynasty
+    adm: 90
+    dip: 30
+    mil: 75
+    religion: catholic
+    culture: kongo
+  1614.8.2:
+    death: yes
+kon_bernardo_ii_kwilu:
+  1587.1.1:
+    birth: mbanza_kongo #TODO: Date and location guessed, check if better data is available
+    first_name: bernardo
+    dynasty: kwilu_dynasty
+    father: kon_alvaro_ii_kwilu_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 15
+    mil: 45
+    religion: catholic
+    culture: kongo
+  1615.8.2:
+    death: yes
+kon_bernardo_ii_kwilu_1:
+  1584.1.1:
+    birth: mbanza_kongo #TODO: Date and location guessed, check if better data is available
+    first_name: bernardo
+    dynasty: kwilu_dynasty
+    adm: 15
+    dip: 15
+    mil: 45
+    religion: catholic
+    culture: kongo
+  1615.8.2:
+    death: yes
+kon_alvaro_iii_kwilu:
+  1600.1.1:
+    birth: mbanza_kongo #TODO: Date and location guessed, check if better data is available
+    first_name: alvaro
+    dynasty: kwilu_dynasty
+    father: kon_bernardo_ii_kwilu_1 #TODO: check if this makes sense
+    adm: 60
+    dip: 90
+    mil: 45
+    religion: catholic
+    culture: kongo
+  1622.5.5:
+    death: yes
+kon_alvaro_iii_kwilu_1:
+  1585.1.1:
+    birth: mbanza_kongo #TODO: Date and location guessed, check if better data is available
+    first_name: alvaro
+    dynasty: kwilu_dynasty
+    adm: 60
+    dip: 90
+    mil: 45
+    religion: catholic
+    culture: kongo
+  1622.5.5:
+    death: yes
+kon_pedro_ii_nsundi:
+  1592.1.1:
+    birth: mbanza_kongo #TODO: Date and location guessed, check if better data is available
+    first_name: pedro
+    dynasty: nsundi_dynasty
+    adm: 15
+    dip: 15
+    mil: 15
+    religion: catholic
+    culture: kongo
+  1624.4.14:
+    death: yes
+kon_garcia_i_nsundi:
+  1594.1.1:
+    birth: mbanza_kongo #TODO: Date and location guessed, check if better data is available
+    first_name: garcia
+    dynasty: nsundi_dynasty
+    adm: 15
+    dip: 15
+    mil: 30
+    religion: catholic
+    culture: kongo
+  1626.6.2:
+    death: yes
+kon_ambrosio_kwilu:
+  1596.1.1:
+    birth: mbanza_kongo #TODO: Date and location guessed, check if better data is available
+    first_name: ambrosio
+    dynasty: kwilu_dynasty
+    adm: 45
+    dip: 15
+    mil: 30
+    religion: catholic
+    culture: kongo
+  1631.3.2:
+    death: yes
+kon_alvaro_iv_kwilu:
+  1601.1.1:
+    birth: mbanza_kongo #TODO: Date and location guessed, check if better data is available
+    first_name: alvaro
+    dynasty: kwilu_dynasty
+    adm: 15
+    dip: 15
+    mil: 15
+    religion: catholic
+    culture: kongo
+  1636.2.24:
+    death: yes
+kon_alvaro_v_kimpanzu:
+  1606.1.1:
+    birth: mbanza_kongo #TODO: Date and location guessed, check if better data is available
+    first_name: alvaro
+    dynasty: kimpanzu_dynasty
+    adm: 15
+    dip: 15
+    mil: 45
+    religion: catholic
+    culture: kongo
+  1636.8.2:
+    death: yes
+kon_alvaro_vi_kinlaza:
+  1606.1.1:
+    birth: mbanza_kongo #TODO: Date and location guessed, check if better data is available
+    first_name: alvaro
+    dynasty: kinlaza_dynasty
+    adm: 30
+    dip: 30
+    mil: 15
+    religion: catholic
+    culture: kongo
+  1641.2.21:
+    death: yes
+kon_garcia_ii_kinlaza:
+  1620.1.1:
+    birth: mbanza_kongo #TODO: Date and location guessed, check if better data is available
+    first_name: garcia
+    dynasty: kinlaza_dynasty
+    father: kon_alvaro_vi_kinlaza #TODO: check if this makes sense
+    adm: 90
+    dip: 75
+    mil: 30
+    religion: catholic
+    culture: kongo
+  1661.1.1:
+    death: yes
+kon_garcia_ii_kinlaza_1:
+  1611.1.1:
+    birth: mbanza_kongo #TODO: Date and location guessed, check if better data is available
+    first_name: garcia
+    dynasty: kinlaza_dynasty
+    adm: 90
+    dip: 75
+    mil: 30
+    religion: catholic
+    culture: kongo
+  1661.1.1:
+    death: yes
+kon_antonio_i_kinlaza:
+  1631.1.1:
+    birth: mbanza_kongo #TODO: Date and location guessed, check if better data is available
+    first_name: antonio
+    dynasty: kinlaza_dynasty
+    adm: 60
+    dip: 15
+    mil: 15
+    religion: catholic
+    culture: kongo
+  1665.10.30:
+    death: yes
+kon_alvaro_vii_kinlaza:
+  1635.1.1:
+    birth: mbanza_kongo #TODO: Date and location guessed, check if better data is available
+    first_name: alvaro
+    dynasty: kinlaza_dynasty
+    adm: 15
+    dip: 30
+    mil: 45
+    religion: catholic
+    culture: kongo
+  1666.6.2:
+    death: yes
+kon_alvaro_viii_kinlaza:
+  1636.1.1:
+    birth: mbanza_kongo #TODO: Date and location guessed, check if better data is available
+    first_name: alvaro
+    dynasty: kinlaza_dynasty
+    adm: 30
+    dip: 45
+    mil: 30
+    religion: catholic
+    culture: kongo
+  1667.1.1:
+    death: yes
+kon_afonso_iii_kinlaza:
+  1637.1.1:
+    birth: mbanza_kongo #TODO: Date and location guessed, check if better data is available
+    first_name: afonso
+    dynasty: kinlaza_dynasty
+    adm: 15
+    dip: 15
+    mil: 45
+    religion: catholic
+    culture: kongo
+  1669.1.1:
+    death: yes
+kon_alvaro_ix_kinlaza:
+  1639.1.1:
+    birth: mbanza_kongo #TODO: Date and location guessed, check if better data is available
+    first_name: alvaro
+    dynasty: kinlaza_dynasty
+    adm: 30
+    dip: 15
+    mil: 30
+    religion: catholic
+    culture: kongo
+  1672.1.1:
+    death: yes
+kon_raphael_kinlaza:
+  1642.1.1:
+    birth: mbanza_kongo #TODO: Date and location guessed, check if better data is available
+    first_name: raphael
+    dynasty: kinlaza_dynasty
+    adm: 15
+    dip: 15
+    mil: 15
+    religion: catholic
+    culture: kongo
+  1674.1.1:
+    death: yes
+kon_daniel_kinlaza:
+  1644.1.1:
+    birth: mbanza_kongo #TODO: Date and location guessed, check if better data is available
+    first_name: daniel
+    dynasty: kinlaza_dynasty
+    adm: 15
+    dip: 30
+    mil: 45
+    religion: catholic
+    culture: kongo
+  1678.1.1:
+    death: yes
+kon_andre_kinlaza:
+  1660.1.1:
+    birth: mbanza_kongo #TODO: Date and location guessed, check if better data is available
+    first_name: andre
+    dynasty: kinlaza_dynasty
+    father: kon_daniel_kinlaza #TODO: check if this makes sense
+    adm: 30
+    dip: 30
+    mil: 60
+    religion: catholic
+    culture: kongo
+  1690.1.1:
+    death: yes
+kon_andre_kinlaza_1:
+  1648.1.1:
+    birth: mbanza_kongo #TODO: Date and location guessed, check if better data is available
+    first_name: andre
+    dynasty: kinlaza_dynasty
+    adm: 30
+    dip: 30
+    mil: 60
+    religion: catholic
+    culture: kongo
+  1690.1.1:
+    death: yes
+kon_alvaro_x_kinlaza:
+  1660.1.1:
+    birth: mbanza_kongo #TODO: Date and location guessed, check if better data is available
+    first_name: alvaro
+    dynasty: kinlaza_dynasty
+    adm: 15
+    dip: 45
+    mil: 30
+    religion: catholic
+    culture: kongo
+  1694.12.2:
+    death: yes
+kon_pedro_iv_kinlaza:
+  1670.1.1:
+    birth: mbanza_kongo #TODO: Date and location guessed, check if better data is available
+    first_name: pedro
+    dynasty: kinlaza_dynasty
+    father: kon_alvaro_x_kinlaza #TODO: check if this makes sense
+    adm: 90
+    dip: 75
+    mil: 30
+    religion: catholic
+    culture: kongo
+  1717.1.1:
+    death: yes
+kon_pedro_iv_kinlaza_1:
+  1664.1.1:
+    birth: mbanza_kongo #TODO: Date and location guessed, check if better data is available
+    first_name: pedro
+    dynasty: kinlaza_dynasty
+    adm: 90
+    dip: 75
+    mil: 30
+    religion: catholic
+    culture: kongo
+  1717.1.1:
+    death: yes
+kon_nicolau_kinlaza:
+  1690.1.1:
+    birth: mbanza_kongo #TODO: Date and location guessed, check if better data is available
+    first_name: nicolau
+    dynasty: kinlaza_dynasty
+    father: kon_pedro_iv_kinlaza_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: catholic
+    culture: kongo
+  1725.1.1:
+    death: yes
+kon_nicolau_kinlaza_1:
+  1687.1.1:
+    birth: mbanza_kongo #TODO: Date and location guessed, check if better data is available
+    first_name: nicolau
+    dynasty: kinlaza_dynasty
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: catholic
+    culture: kongo
+  1725.1.1:
+    death: yes
+kon_sebastiao_kinlaza:
+  1700.1.1:
+    birth: mbanza_kongo #TODO: Date and location guessed, check if better data is available
+    first_name: sebastiao
+    dynasty: kinlaza_dynasty
+    father: kon_nicolau_kinlaza_1 #TODO: check if this makes sense
+    adm: 75
+    dip: 30
+    mil: 60
+    religion: catholic
+    culture: kongo
+  1732.1.1:
+    death: yes
+kon_sebastiao_kinlaza_1:
+  1695.1.1:
+    birth: mbanza_kongo #TODO: Date and location guessed, check if better data is available
+    first_name: sebastiao
+    dynasty: kinlaza_dynasty
+    adm: 75
+    dip: 30
+    mil: 60
+    religion: catholic
+    culture: kongo
+  1732.1.1:
+    death: yes
+kon_antonio_ii_kinlaza:
+  1710.1.1:
+    birth: mbanza_kongo #TODO: Date and location guessed, check if better data is available
+    first_name: antonio
+    dynasty: kinlaza_dynasty
+    father: kon_sebastiao_kinlaza_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 30
+    mil: 30
+    religion: catholic
+    culture: kongo
+  1741.1.1:
+    death: yes
+kon_antonio_ii_kinlaza_1:
+  1702.1.1:
+    birth: mbanza_kongo #TODO: Date and location guessed, check if better data is available
+    first_name: antonio
+    dynasty: kinlaza_dynasty
+    adm: 45
+    dip: 30
+    mil: 30
+    religion: catholic
+    culture: kongo
+  1741.1.1:
+    death: yes
+kon_alvaro_xi_kinlaza:
+  1700.1.1:
+    birth: mbanza_kongo #TODO: Date and location guessed, check if better data is available
+    first_name: alvaro
+    dynasty: kinlaza_dynasty
+    father: kon_antonio_ii_kinlaza_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 30
+    mil: 60
+    religion: catholic
+    culture: kongo
+  1750.1.1:
+    death: yes
+kon_alvaro_xi_kinlaza_1:
+  1711.1.1:
+    birth: mbanza_kongo #TODO: Date and location guessed, check if better data is available
+    first_name: alvaro
+    dynasty: kinlaza_dynasty
+    adm: 30
+    dip: 30
+    mil: 60
+    religion: catholic
+    culture: kongo
+  1750.1.1:
+    death: yes
+kon_alexio_kinlaza:
+  1720.1.1:
+    birth: mbanza_kongo #TODO: Date and location guessed, check if better data is available
+    first_name: alexio
+    dynasty: kinlaza_dynasty
+    adm: 60
+    dip: 45
+    mil: 15
+    religion: catholic
+    culture: kongo
+  1757.1.1:
+    death: yes
+kon_henrique_ii_kinlaza:
+  1750.1.1:
+    birth: mbanza_kongo #TODO: Date and location guessed, check if better data is available
+    first_name: henrique
+    dynasty: kinlaza_dynasty
+    father: kon_alexio_kinlaza #TODO: check if this makes sense
+    adm: 45
+    dip: 30
+    mil: 60
+    religion: catholic
+    culture: kongo
+  1769.1.1:
+    death: yes
+kon_henrique_ii_kinlaza_1:
+  1727.1.1:
+    birth: mbanza_kongo #TODO: Date and location guessed, check if better data is available
+    first_name: henrique
+    dynasty: kinlaza_dynasty
+    adm: 45
+    dip: 30
+    mil: 60
+    religion: catholic
+    culture: kongo
+  1769.1.1:
+    death: yes
+kon_afonso_iv_kinlaza:
+  1750.1.1:
+    birth: mbanza_kongo #TODO: Date and location guessed, check if better data is available
+    first_name: afonso
+    dynasty: kinlaza_dynasty
+    father: kon_henrique_ii_kinlaza_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 60
+    mil: 45
+    religion: catholic
+    culture: kongo
+  1780.1.1:
+    death: yes
+kon_afonso_iv_kinlaza_1:
+  1739.1.1:
+    birth: mbanza_kongo #TODO: Date and location guessed, check if better data is available
+    first_name: afonso
+    dynasty: kinlaza_dynasty
+    adm: 45
+    dip: 60
+    mil: 45
+    religion: catholic
+    culture: kongo
+  1780.1.1:
+    death: yes
+kon_jose_i_kinlaza:
+  1750.1.1:
+    birth: mbanza_kongo #TODO: Date and location guessed, check if better data is available
+    first_name: jose
+    dynasty: kinlaza_dynasty
+    adm: 15
+    dip: 45
+    mil: 45
+    religion: catholic
+    culture: kongo
+  1784.2.1:
+    death: yes
+kon_afonso_v_kinlaza:
+  1754.1.1:
+    birth: mbanza_kongo #TODO: Date and location guessed, check if better data is available
+    first_name: afonso
+    dynasty: kinlaza_dynasty
+    adm: 30
+    dip: 60
+    mil: 15
+    religion: catholic
+    culture: kongo
+  1788.1.1:
+    death: yes
+kon_jose_ii_kinlaza:
+  1758.1.1:
+    birth: mbanza_kongo #TODO: Date and location guessed, check if better data is available
+    first_name: jose
+    dynasty: kinlaza_dynasty
+    adm: 15
+    dip: 30
+    mil: 45
+    religion: catholic
+    culture: kongo
+  1792.1.1:
+    death: yes
+kon_pedro_vi_kinlaza:
+  1769.1.1:
+    birth: mbanza_kongo #TODO: Date and location guessed, check if better data is available
+    first_name: pedro
+    dynasty: kinlaza_dynasty
+    father: kon_jose_ii_kinlaza #TODO: check if this makes sense
+    adm: 30
+    dip: 60
+    mil: 60
+    religion: catholic
+    culture: kongo
+  1795.1.1:
+    death: yes
+kon_pedro_vi_kinlaza_1:
+  1762.1.1:
+    birth: mbanza_kongo #TODO: Date and location guessed, check if better data is available
+    first_name: pedro
+    dynasty: kinlaza_dynasty
+    adm: 30
+    dip: 60
+    mil: 60
+    religion: catholic
+    culture: kongo
+  1795.1.1:
+    death: yes
+kon_alvaro_xii_kinlaza:
+  1780.1.1:
+    birth: mbanza_kongo #TODO: Date and location guessed, check if better data is available
+    first_name: alvaro
+    dynasty: kinlaza_dynasty
+    father: kon_pedro_vi_kinlaza_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 30
+    mil: 60
+    religion: catholic
+    culture: kongo
+  1798.1.1:
+    death: yes
+kon_alvaro_xii_kinlaza_1:
+  1765.1.1:
+    birth: mbanza_kongo #TODO: Date and location guessed, check if better data is available
+    first_name: alvaro
+    dynasty: kinlaza_dynasty
+    adm: 15
+    dip: 30
+    mil: 60
+    religion: catholic
+    culture: kongo
+  1798.1.1:
+    death: yes
+kon_francisco_ii_kinlaza:
+  1780.1.1:
+    birth: mbanza_kongo #TODO: Date and location guessed, check if better data is available
+    first_name: francisco
+    dynasty: kinlaza_dynasty
+    father: kon_alvaro_xii_kinlaza_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 60
+    mil: 45
+    religion: catholic
+    culture: kongo
+  1802.1.1:
+    death: yes
+kon_francisco_ii_kinlaza_1:
+  1768.1.1:
+    birth: mbanza_kongo #TODO: Date and location guessed, check if better data is available
+    first_name: francisco
+    dynasty: kinlaza_dynasty
+    adm: 45
+    dip: 60
+    mil: 45
+    religion: catholic
+    culture: kongo
+  1802.1.1:
+    death: yes
+kon_garcia_iv_kinlaza:
+  1780.1.1:
+    birth: mbanza_kongo #TODO: Date and location guessed, check if better data is available
+    first_name: garcia
+    dynasty: kinlaza_dynasty
+    father: kon_francisco_ii_kinlaza_1 #TODO: check if this makes sense
+    adm: 60
+    dip: 45
+    mil: 45
+    religion: catholic
+    culture: kongo
+  1814.1.1:
+    death: yes
+kon_garcia_iv_kinlaza_1:
+  1772.1.1:
+    birth: mbanza_kongo #TODO: Date and location guessed, check if better data is available
+    first_name: garcia
+    dynasty: kinlaza_dynasty
+    adm: 60
+    dip: 45
+    mil: 45
+    religion: catholic
+    culture: kongo
+  1814.1.1:
+    death: yes
+kon_garcia_v_kinlaza:
+  1775.1.1:
+    birth: mbanza_kongo #TODO: Date and location guessed, check if better data is available
+    first_name: garcia
+    dynasty: kinlaza_dynasty
+    father: kon_garcia_iv_kinlaza_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 60
+    mil: 30
+    religion: catholic
+    culture: kongo
+  1830.1.1:
+    death: yes
+kon_garcia_v_kinlaza_1:
+  1784.1.1:
+    birth: mbanza_kongo #TODO: Date and location guessed, check if better data is available
+    first_name: garcia
+    dynasty: kinlaza_dynasty
+    adm: 30
+    dip: 60
+    mil: 30
+    religion: catholic
+    culture: kongo
+  1830.1.1:
+    death: yes
+kon_andre_ii_kinlaza:
+  1798.1.1:
+    birth: mbanza_kongo #TODO: Date and location guessed, check if better data is available
+    first_name: andre
+    dynasty: kinlaza_dynasty
+    father: kon_garcia_v_kinlaza_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 45
+    mil: 30
+    religion: catholic
+    culture: kongo
+  1842.1.1:
+    death: yes
+kon_andre_ii_kinlaza_1:
+  1800.1.1:
+    birth: mbanza_kongo #TODO: Date and location guessed, check if better data is available
+    first_name: andre
+    dynasty: kinlaza_dynasty
+    adm: 45
+    dip: 45
+    mil: 30
+    religion: catholic
+    culture: kongo
+  1842.1.1:
+    death: yes
+kon_henrique_iii_kinlaza:
+  1810.1.1:
+    birth: mbanza_kongo #TODO: Date and location guessed, check if better data is available
+    first_name: henrique
+    dynasty: kinlaza_dynasty
+    father: kon_andre_ii_kinlaza_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 15
+    mil: 45
+    religion: catholic
+    culture: kongo
+  1857.1.1:
+    death: yes
+kon_henrique_iii_kinlaza_1:
+  1812.1.1:
+    birth: 1901 #TODO: Date and location guessed, check if better data is available
+    first_name: henrique
+    dynasty: kinlaza_dynasty
+    adm: 45
+    dip: 15
+    mil: 45
+    religion: catholic
+    culture: kongo
+  1857.1.1:
+    death: yes
+kon_alvaro_xiii_kinlaza:
+  1820.1.1:
+    birth: mbanza_kongo #TODO: Date and location guessed, check if better data is available
+    first_name: alvaro
+    dynasty: kinlaza_dynasty
+    father: kon_henrique_iii_kinlaza_1 #TODO: check if this makes sense
+    adm: 60
+    dip: 30
+    mil: 45
+    religion: catholic
+    culture: kongo
+  1859.8.7:
+    death: yes
+kon_alvaro_xiii_kinlaza_1:
+  1827.1.1:
+    birth: 1901 #TODO: Date and location guessed, check if better data is available
+    first_name: alvaro
+    dynasty: kinlaza_dynasty
+    adm: 60
+    dip: 30
+    mil: 45
+    religion: catholic
+    culture: kongo
+  1859.8.7:
+    death: yes
+kon_peter_v_kinlaza:
+  1840.1.1:
+    birth: 1901 #TODO: Date and location guessed, check if better data is available
+    first_name: peter
+    dynasty: kinlaza_dynasty
+    father: kon_alvaro_xiii_kinlaza_1 #TODO: check if this makes sense
+    adm: 60
+    dip: 30
+    mil: 45
+    religion: catholic
+    culture: kongo
+  1891.2.8:
+    death: yes
+kon_peter_v_kinlaza_1:
+  1829.1.1:
+    birth: 1901 #TODO: Date and location guessed, check if better data is available
+    first_name: peter
+    dynasty: kinlaza_dynasty
+    adm: 60
+    dip: 30
+    mil: 45
+    religion: catholic
+    culture: kongo
+  3000.1.1:
+    death: yes

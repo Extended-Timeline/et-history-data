@@ -1,0 +1,25 @@
+#imported from EU4 file: history/provinces/4867 - Wunambul.txt
+2.1.1:
+  pop:
+    ethnicity: yangman_culture
+    religion: dreamtime_religion
+    estate: peasant
+    size: 1000
+1890.1.1:
+  owner: GBR
+  controller: GBR
+  cores:
+    GBR: yes
+  resource: grain
+  pop:
+    religion: lutheran
+    estate: peasant
+    size: 1000
+1901.1.1:
+  owner: AUST
+  controller: AUST
+  cores:
+    GBR: no
+    AUST: yes
+1910.1.1:
+  resource: aluminum

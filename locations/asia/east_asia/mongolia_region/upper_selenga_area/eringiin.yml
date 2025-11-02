@@ -1,0 +1,120 @@
+#imported from EU4 file: history/provinces/4679 - Khovsgol.txt
+2.1.1:
+  owner: XION
+  controller: XION
+  cores:
+    XION: yes
+  resource: fur
+  pop:
+    ethnicity: rouran
+    religion: 
+    estate: peasant
+    size: 1000
+91.2.1:
+  owner: XIAN
+  controller: XIAN
+  cores:
+    XION: no
+    XIAN: yes
+330.1.1:
+  owner: ROUR
+  controller: ROUR
+  cores:
+    XIAN: no
+    ROUR: yes
+555.1.1:
+  owner: GOKT
+  controller: GOKT
+  cores:
+    ROUR: no
+    GOKT: yes
+600.1.1:
+  pop:
+    ethnicity: mongolian_culture
+    estate: peasant
+    size: 1000
+627.1.1:
+  owner: XUEY
+  controller: XUEY
+  cores:
+    XUEY: yes
+646.10.1:
+  owner: UYGH
+  controller: UYGH
+  cores:
+    XUEY: no
+    UYGH: yes
+681.1.1:
+  owner: GOKT
+  controller: GOKT
+  cores:
+    GOKT: yes
+744.1.1:
+  owner: UYGH
+  controller: UYGH
+  cores:
+    GOKT: no
+    UYGH: yes
+848.1.1:
+  owner: MERK
+  controller: MERK
+  cores:
+    UYGH: no
+    MERK: yes
+1206.1.1:
+  owner: MGE
+  controller: MGE
+  cores:
+    MERK: no
+    MGE: yes
+1271.1.1:
+  owner: YUA
+  controller: YUA
+  cores:
+    MGE: no
+    YUA: yes
+1368.1.23:
+  owner: MGE
+  controller: MGE
+  cores:
+    YUA: no
+    MGE: yes
+1399.1.1:
+  owner: OIR
+  controller: OIR
+  cores:
+    MGE: no
+    OIR: yes
+1454.1.1:
+  owner: MGE
+  controller: MGE
+  cores:
+    MGE: yes
+1520.1.1:
+  pop:
+    religion: tibetan_buddhism
+    estate: peasant
+    size: 1000
+1635.4.1:
+  owner: KHAL
+  controller: KHAL
+  cores:
+    KHAL: yes
+1688.1.1:
+  owner: ZUNG
+  controller: ZUNG
+1697.1.1:
+  owner: QNG
+  controller: QNG
+  cores:
+    QNG: yes
+1840.1.1:
+  cores:
+    OIR: no
+    MGE: yes
+1911.12.29:
+  owner: MGE
+  controller: MGE
+  cores:
+    QNG: no
+    MGE: yes

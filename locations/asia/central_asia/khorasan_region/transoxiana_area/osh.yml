@@ -1,0 +1,158 @@
+#imported from EU4 file: history/provinces/460 - Uzkend.txt
+2.1.1:
+  owner: KAGJ
+  controller: KAGJ
+  cores:
+    KAGJ: yes
+  resource: wool
+  pop:
+    ethnicity: sogdian
+    religion: zoroastrian
+    estate: peasant
+    size: 1000
+320.1.1:
+  owner: KIDA
+  controller: KIDA
+  cores:
+    KAGJ: no
+    KIDA: yes
+380.1.1:
+  owner: HEPH
+  controller: HEPH
+  cores:
+    KIDA: no
+    HEPH: yes
+567.1.1:
+  owner: GOKT
+  controller: GOKT
+  cores:
+    HEPH: no
+    GOKT: yes
+593.1.1:
+  owner: WGOK
+  controller: WGOK
+  cores:
+    GOKT: no
+    WGOK: yes
+659.1.1:
+  owner: FERG
+  controller: FERG
+  cores:
+    WGOK: no
+    FERG: yes
+739.1.1:
+  owner: TURG
+  controller: TURG
+  cores:
+    TURG: yes
+760.1.1:
+  pop:
+    religion: mahayana
+    estate: peasant
+    size: 1000
+766.1.1:
+  owner: KARL
+  controller: KARL
+  cores:
+    TURG: no
+    KARL: yes
+819.1.1:
+  owner: KOKA
+  controller: KOKA
+  cores:
+    KARL: no
+    KOKA: yes
+820.1.1:
+  pop:
+    ethnicity: kyrgyz_culture
+    estate: peasant
+    size: 1000
+892.8.1:
+  owner: BUKH
+  controller: BUKH
+  cores:
+    BUKH: yes
+992.1.1:
+  owner: KKHA
+  controller: KKHA
+  cores:
+    BUKH: no
+    KKHA: yes
+1060.1.1:
+  owner: TRAN
+  controller: TRAN
+  cores:
+    KKHA: no
+    TRAN: yes
+1200.1.1:
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+1211.1.1:
+  owner: KKHI
+  controller: KKHI
+  cores:
+    KKHI: yes
+1219.1.1:
+  owner: MGE
+  controller: MGE
+  cores:
+    KKHI: no
+    MGE: yes
+1260.1.1:
+  owner: CHG
+  controller: CHG
+  cores:
+    MGE: no
+    CHG: yes
+1347.1.1:
+  owner: MOGH
+  controller: MOGH
+  cores:
+    CHG: no
+    MOGH: yes
+1462.1.1:
+  owner: YARK
+  controller: YARK
+  cores:
+    YARK: yes
+1504.1.1:
+  owner: BUKH
+  controller: BUKH
+  cores:
+    BUKH: yes
+1709.1.1:
+  owner: KOKA
+  controller: KOKA
+1876.3.2:
+  owner: RUS
+  controller: RUS
+  cores:
+    RUS: yes
+1917.11.27:
+  owner: TUKS
+  controller: TUKS
+  cores:
+    TUKS: yes
+1918.2.22:
+  owner: RUS
+  controller: RUS
+  cores:
+    TUKS: no
+1922.12.30:
+  owner: SOVI
+  controller: SOVI
+  cores:
+    RUS: no
+    SOVI: yes
+1924.10.14:
+  cores:
+    KOKA: no
+    KYRG: yes
+1991.8.31:
+  owner: KYRG
+  controller: KYRG
+  cores:
+    SOVI: no
+    RUS: no

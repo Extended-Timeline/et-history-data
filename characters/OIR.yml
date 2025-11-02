@@ -1,0 +1,249 @@
+oir_toghon_tayisi_choros:
+  1369.1.1:
+    birth: khovd #TODO: Date and location guessed, check if better data is available
+    first_name: toghon_tayisi
+    dynasty: choros_dynasty
+    adm: 45
+    dip: 60
+    mil: 60
+    religion: 
+    culture: oirat_culture
+  1439.1.1:
+    death: yes
+oir_essen_tayisi_choros:
+  1380.1.1:
+    birth: khovd #TODO: Date and location guessed, check if better data is available
+    first_name: essen_tayisi
+    dynasty: choros_dynasty
+    father: oir_toghon_tayisi_choros #TODO: check if this makes sense
+    adm: 45
+    dip: 30
+    mil: 45
+    religion: 
+    culture: oirat_culture
+  1460.1.1:
+    death: yes
+oir_essen_tayisi_choros_1:
+  1409.1.1:
+    birth: khovd #TODO: Date and location guessed, check if better data is available
+    first_name: essen_tayisi
+    dynasty: choros_dynasty
+    adm: 45
+    dip: 30
+    mil: 60
+    religion: tibetan_buddhism
+    culture: oirat_culture
+  1619.1.1:
+    death: yes
+oir_qara_qula_choros:
+  1589.1.1:
+    birth: gulja #TODO: Date and location guessed, check if better data is available
+    first_name: qara_qula
+    dynasty: choros_dynasty
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: tibetan_buddhism
+    culture: oirat_culture
+  1634.1.1:
+    death: yes
+oir_qara_qula_choros_1:
+  1600.1.1:
+    birth: khovd #TODO: Date and location guessed, check if better data is available
+    first_name: qara_qula
+    dynasty: choros_dynasty
+    father: oir_qara_qula_choros #TODO: check if this makes sense
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: tibetan_buddhism
+    culture: oirat_culture
+  1653.1.1:
+    death: yes
+oir_baatur_choros:
+  1604.1.1:
+    birth: gulja #TODO: Date and location guessed, check if better data is available
+    first_name: baatur
+    dynasty: choros_dynasty
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: tibetan_buddhism
+    culture: oirat_culture
+  1653.1.1:
+    death: yes
+oir_seng_ke_choros:
+  1630.1.1:
+    birth: gulja #TODO: Date and location guessed, check if better data is available
+    first_name: seng_ke
+    dynasty: choros_dynasty
+    father: oir_baatur_choros #TODO: check if this makes sense
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: tibetan_buddhism
+    culture: oirat_culture
+  1671.1.1:
+    death: yes
+oir_seng_ke_choros_1:
+  1623.1.1:
+    birth: gulja #TODO: Date and location guessed, check if better data is available
+    first_name: seng_ke
+    dynasty: choros_dynasty
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: tibetan_buddhism
+    culture: oirat_culture
+  1671.1.1:
+    death: yes
+oir_galdan_bashigt_choros:
+  1650.1.1:
+    birth: gulja #TODO: Date and location guessed, check if better data is available
+    first_name: galdan_bashigt
+    dynasty: choros_dynasty
+    father: oir_seng_ke_choros_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: tibetan_buddhism
+    culture: oirat_culture
+  1698.9.4:
+    death: yes
+oir_galdan_bashigt_choros_1:
+  1641.1.1:
+    birth: gulja #TODO: Date and location guessed, check if better data is available
+    first_name: galdan_bashigt
+    dynasty: choros_dynasty
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: tibetan_buddhism
+    culture: oirat_culture
+  1698.9.4:
+    death: yes
+oir_tsevan_rabdan_choros:
+  1680.1.1:
+    birth: gulja #TODO: Date and location guessed, check if better data is available
+    first_name: tsevan_rabdan
+    dynasty: choros_dynasty
+    father: oir_galdan_bashigt_choros_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: tibetan_buddhism
+    culture: oirat_culture
+  1727.12.1:
+    death: yes
+oir_tsevan_rabdan_choros_1:
+  1668.1.1:
+    birth: gulja #TODO: Date and location guessed, check if better data is available
+    first_name: tsevan_rabdan
+    dynasty: choros_dynasty
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: tibetan_buddhism
+    culture: oirat_culture
+  1727.12.1:
+    death: yes
+oir_bayan_choros:
+  1690.1.1:
+    birth: gulja #TODO: Date and location guessed, check if better data is available
+    first_name: bayan
+    dynasty: choros_dynasty
+    father: oir_tsevan_rabdan_choros_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: tibetan_buddhism
+    culture: oirat_culture
+  1745.8.1:
+    death: yes
+oir_bayan_choros_1:
+  1697.1.1:
+    birth: gulja #TODO: Date and location guessed, check if better data is available
+    first_name: bayan
+    dynasty: choros_dynasty
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: tibetan_buddhism
+    culture: oirat_culture
+  1745.8.1:
+    death: yes
+oir_lama_darja_choros:
+  1700.1.1:
+    birth: gulja #TODO: Date and location guessed, check if better data is available
+    first_name: lama_darja
+    dynasty: choros_dynasty
+    father: oir_bayan_choros_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: tibetan_buddhism
+    culture: oirat_culture
+  1750.1.1:
+    death: yes
+oir_lama_darja_choros_1:
+  1715.1.1:
+    birth: gulja #TODO: Date and location guessed, check if better data is available
+    first_name: lama_darja
+    dynasty: choros_dynasty
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: tibetan_buddhism
+    culture: oirat_culture
+  1750.1.1:
+    death: yes
+oir_dawaji_choros:
+  1700.1.1:
+    birth: gulja #TODO: Date and location guessed, check if better data is available
+    first_name: dawaji
+    dynasty: choros_dynasty
+    father: oir_lama_darja_choros_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: tibetan_buddhism
+    culture: oirat_culture
+  1755.10.1:
+    death: yes
+oir_dawaji_choros_1:
+  1720.1.1:
+    birth: gulja #TODO: Date and location guessed, check if better data is available
+    first_name: dawaji
+    dynasty: choros_dynasty
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: tibetan_buddhism
+    culture: oirat_culture
+  1755.10.1:
+    death: yes
+oir_amursana_choros:
+  1750.1.1:
+    birth: gulja #TODO: Date and location guessed, check if better data is available
+    first_name: amursana
+    dynasty: choros_dynasty
+    father: oir_dawaji_choros_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: tibetan_buddhism
+    culture: oirat_culture
+  1756.3.1:
+    death: yes
+oir_amursana_choros_1:
+  1725.1.1:
+    birth: gulja #TODO: Date and location guessed, check if better data is available
+    first_name: amursana
+    dynasty: choros_dynasty
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: tibetan_buddhism
+    culture: oirat_culture
+  3000.1.1:
+    death: yes

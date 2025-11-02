@@ -1,0 +1,124 @@
+zip_meicuchuca_bacata:
+  1414.1.1:
+    birth: chicaquicha #TODO: Date and location guessed, check if better data is available
+    first_name: meicuchuca
+    dynasty: bacata_dynasty
+    adm: 45
+    dip: 30
+    mil: 30
+    religion: muisca_religion
+    culture: muisca_culture
+  1470.1.1:
+    death: yes
+zip_saguamanchica_bacata:
+  1425.1.1:
+    birth: chicaquicha #TODO: Date and location guessed, check if better data is available
+    first_name: saguamanchica
+    dynasty: bacata_dynasty
+    father: zip_meicuchuca_bacata #TODO: check if this makes sense
+    adm: 45
+    dip: 45
+    mil: 30
+    religion: muisca_religion
+    culture: muisca_culture
+  1490.1.1:
+    death: yes
+zip_saguamanchica_bacata_1:
+  1440.1.1:
+    birth: chicaquicha #TODO: Date and location guessed, check if better data is available
+    first_name: saguamanchica
+    dynasty: bacata_dynasty
+    adm: 45
+    dip: 45
+    mil: 30
+    religion: muisca_religion
+    culture: muisca_culture
+  1490.1.1:
+    death: yes
+zip_nemequene_bacata:
+  1442.1.1:
+    birth: chicaquicha #TODO: Date and location guessed, check if better data is available
+    first_name: nemequene
+    dynasty: bacata_dynasty
+    father: zip_saguamanchica_bacata_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 45
+    mil: 30
+    religion: muisca_religion
+    culture: muisca_culture
+  1514.1.1:
+    death: yes
+zip_nemequene_bacata_1:
+  1460.1.1:
+    birth: chicaquicha #TODO: Date and location guessed, check if better data is available
+    first_name: nemequene
+    dynasty: bacata_dynasty
+    adm: 30
+    dip: 45
+    mil: 30
+    religion: muisca_religion
+    culture: muisca_culture
+  1514.1.1:
+    death: yes
+zip_tisquesusa_bacata:
+  1465.1.1:
+    birth: chicaquicha #TODO: Date and location guessed, check if better data is available
+    first_name: tisquesusa
+    dynasty: bacata_dynasty
+    father: zip_nemequene_bacata_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 15
+    mil: 30
+    religion: muisca_religion
+    culture: muisca_culture
+  1537.1.1:
+    death: yes
+zip_tisquesusa_bacata_1:
+  1484.1.1:
+    birth: chicaquicha #TODO: Date and location guessed, check if better data is available
+    first_name: tisquesusa
+    dynasty: bacata_dynasty
+    adm: 30
+    dip: 15
+    mil: 30
+    religion: muisca_religion
+    culture: muisca_culture
+  1537.1.1:
+    death: yes
+zip__bacata:
+  1490.1.1:
+    birth: chicaquicha #TODO: Date and location guessed, check if better data is available
+    first_name: 
+    dynasty: bacata_dynasty
+    father: zip_tisquesusa_bacata_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 30
+    mil: 30
+    religion: muisca_religion
+    culture: muisca_culture
+  1538.1.1:
+    death: yes
+zip_sagipa_bacata:
+  1507.1.1:
+    birth: chicaquicha #TODO: Date and location guessed, check if better data is available
+    first_name: sagipa
+    dynasty: bacata_dynasty
+    adm: 15
+    dip: 30
+    mil: 30
+    religion: muisca_religion
+    culture: muisca_culture
+  1538.1.1:
+    death: yes
+zip_aquiminzaque_hunza:
+  1508.1.1:
+    birth: chicaquicha #TODO: Date and location guessed, check if better data is available
+    first_name: aquiminzaque
+    dynasty: hunza_dynasty
+    adm: 30
+    dip: 30
+    mil: 30
+    religion: muisca_religion
+    culture: muisca_culture
+  3000.1.1:
+    death: yes

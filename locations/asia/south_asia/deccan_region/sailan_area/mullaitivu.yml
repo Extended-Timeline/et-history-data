@@ -1,0 +1,89 @@
+#imported from EU4 file: history/provinces/2100 - Vanni.txt
+2.1.1:
+  owner: RAJA
+  controller: RAJA
+  cores:
+    RAJA: yes
+  resource: gems
+  pop:
+    ethnicity: sinhalese
+    religion: theravada
+    estate: peasant
+    size: 1000
+993.1.1:
+  owner: CHOL
+  controller: CHOL
+  cores:
+    CHOL: yes
+1000.1.1:
+  pop:
+    ethnicity: tamil
+    estate: peasant
+    size: 1000
+1070.1.1:
+  owner: RAJA
+  controller: RAJA
+  cores:
+    CHOL: no
+1215.1.1:
+  owner: JFN
+  controller: JFN
+  cores:
+    RAJA: no
+    JFN: yes
+  pop:
+    religion: hindu
+    estate: peasant
+    size: 1000
+1255.1.1:
+  owner: LIG
+  controller: LIG
+  cores:
+    LIG: yes
+1263.1.1:
+  owner: TNK
+  controller: TNK
+  cores:
+    LIG: no
+    TNK: yes
+1277.1.1:
+  owner: JFN
+  controller: JFN
+  cores:
+    TNK: no
+    JFN: yes
+1411.1.1:
+  owner: CEYL
+  controller: CEYL
+1432.1.1:
+  owner: JFN
+  controller: JFN
+1619.1.1:
+  owner: POR
+  controller: POR
+  cores:
+    POR: yes
+1658.1.1:
+  owner: NED
+  controller: NED
+  cores:
+    POR: no
+    NED: yes
+1799.8.1:
+  controller: GBR
+1802.3.25:
+  owner: GBR
+  cores:
+    NED: no
+    GBR: yes
+1948.2.4:
+  owner: CEYL
+  controller: CEYL
+  cores:
+    GBR: no
+1972.5.22:
+  owner: SRLA
+  controller: SRLA
+  cores:
+    CEYL: no
+    SRLA: yes

@@ -1,0 +1,146 @@
+#imported from EU4 file: history/provinces/1845 - Pyongan.txt
+2.1.1:
+  owner: HAN0
+  controller: HAN0
+  cores:
+    HAN0: yes
+    WEI0: yes
+  resource: grain
+  pop:
+    ethnicity: korean_culture
+    religion: muism
+    estate: peasant
+    size: 1000
+9.1.10:
+  owner: XIN0
+  controller: XIN0
+  cores:
+    XIN0: yes
+23.10.5:
+  owner: HAN0
+  controller: HAN0
+  cores:
+    XIN0: no
+189.9.28:
+  owner: YAN0
+  controller: YAN0
+  cores:
+    HAN0: no
+    YAN0: yes
+238.1.1:
+  owner: WEI0
+  controller: WEI0
+  cores:
+    WEI0: yes
+265.2.4:
+  owner: JIN1
+  controller: JIN1
+  cores:
+    WEI0: no
+    JIN1: yes
+329.1.1:
+  owner: GOGU
+  controller: GOGU
+  cores:
+    JIN1: no
+    GOGU: yes
+372.1.1:
+  pop:
+    religion: mahayana
+    estate: peasant
+    size: 1000
+668.1.1:
+  owner: TANG
+  controller: TANG
+  cores:
+    TANG: yes
+676.1.1:
+  owner: SILL
+  controller: SILL
+  cores:
+    TANG: no
+    GOGU: no
+    SILL: yes
+820.1.1:
+  owner: BALH
+  controller: BALH
+  cores:
+    SILL: no
+    BALH: yes
+918.1.1:
+  owner: GORY
+  controller: GORY
+  cores:
+    BALH: no
+    GORY: yes
+1235.1.1:
+  owner: MGE
+  controller: MGE
+  cores:
+    MGE: yes
+1271.1.1:
+  owner: YUA
+  controller: YUA
+  cores:
+    MGE: no
+    YUA: yes
+1290.1.1:
+  owner: GORY
+  controller: GORY
+  cores:
+    YUA: no
+    GORY: yes
+1392.7.12:
+  owner: KOR
+  controller: KOR
+  cores:
+    GORY: no
+    KOR: yes
+  pop:
+    religion: sanjiao
+    estate: peasant
+    size: 1000
+1593.2.8:
+  controller: KOR
+1637.1.1:
+  cores:
+    MNG: yes
+1644.1.1:
+  cores:
+    MNG: no
+    MCH: yes
+1645.7.1:
+  cores:
+    MCH: no
+    QNG: yes
+1910.8.20:
+  owner: JAP
+  controller: JAP
+  cores:
+    JAP: yes
+1912.2.12:
+  cores:
+    QNG: no
+1945.8.15:
+  owner: JOE
+  controller: JOE
+  cores:
+    JAP: no
+    KOR: no
+    JOE: yes
+1946.1.1:
+  pop:
+    religion: muism
+    estate: peasant
+    size: 1000
+1948.9.9:
+  owner: NKOR
+  controller: NKOR
+  cores:
+    NKOR: yes
+    SKOR: yes
+1950.1.1:
+  pop:
+    religion: irreligious
+    estate: peasant
+    size: 1000

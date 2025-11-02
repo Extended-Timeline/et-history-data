@@ -1,0 +1,113 @@
+leso_moshoeshoe_i_bamokoteli:
+  1786.1.1:
+    birth: thaba_bosiu #TODO: Date and location guessed, check if better data is available
+    first_name: moshoeshoe
+    dynasty: bamokoteli_dynasty
+    adm: 75
+    dip: 30
+    mil: 15
+    religion: secularism
+    culture: nguni_culture
+  1966.10.4:
+    death: yes
+leso_letsie_i_moshoeshoe_bamokoteli:
+  1840.1.1:
+    birth: thaba_bosiu #TODO: Date and location guessed, check if better data is available
+    first_name: letsie_i_moshoeshoe
+    dynasty: bamokoteli_dynasty
+    father: leso_moshoeshoe_i_bamokoteli #TODO: check if this makes sense
+    adm: 30
+    dip: 15
+    mil: 60
+    religion: bantu_religion
+    culture: nguni_culture
+  1891.11.20:
+    death: yes
+leso_mosheshoe_ii_moshesh:
+  1936.1.1:
+    birth: thaba_bosiu #TODO: Date and location guessed, check if better data is available
+    first_name: mosheshoe
+    dynasty: moshesh_dynasty
+    adm: 60
+    dip: 60
+    mil: 30
+    religion: secularism
+    culture: nguni_culture
+  1990.11.12:
+    death: yes
+leso_letsie_iii_moshesh:
+  1963.7.17:
+    birth: thaba_bosiu #TODO: Location guessed, check if better data is available
+    first_name: letsie
+    dynasty: moshesh_dynasty
+    father: leso_mosheshoe_ii_moshesh_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 75
+    mil: 45
+    religion: catholic
+    culture: nguni_culture
+  3000.1.1:
+    death: yes
+leso_letsie_iii_moshesh_1:
+  1960.1.1:
+    birth: thaba_bosiu #TODO: Date and location guessed, check if better data is available
+    first_name: letsie
+    dynasty: moshesh_dynasty
+    adm: 45
+    dip: 75
+    mil: 45
+    religion: secularism
+    culture: nguni_culture
+  1995.1.25:
+    death: yes
+leso_mosheshoe_ii_moshesh_1:
+  1965.1.1:
+    birth: thaba_bosiu #TODO: Date and location guessed, check if better data is available
+    first_name: mosheshoe
+    dynasty: moshesh_dynasty
+    adm: 60
+    dip: 60
+    mil: 30
+    religion: secularism
+    culture: nguni_culture
+  1996.2.7:
+    death: yes
+leso_letsie_iii_moshesh_2:
+  1966.1.1:
+    birth: thaba_bosiu #TODO: Date and location guessed, check if better data is available
+    first_name: letsie
+    dynasty: moshesh_dynasty
+    adm: 45
+    dip: 75
+    mil: 45
+    religion: catholic
+    culture: nguni_culture
+  3000.1.1:
+    death: yes
+leso_senate_i_moshesh:
+  2001.12.7:
+    birth: thaba_bosiu #TODO: Location guessed, check if better data is available
+    first_name: senate
+    dynasty: moshesh_dynasty
+    female: yes
+    father: leso_letsie_iii_moshesh_2 #TODO: check if this makes sense
+    adm: 45
+    dip: 30
+    mil: 45
+    religion: catholic
+    culture: nguni_culture
+  3000.1.1:
+    death: yes
+leso_lerotholi_i_moshesh:
+  2007.4.18:
+    birth: thaba_bosiu #TODO: Location guessed, check if better data is available
+    first_name: lerotholi
+    dynasty: moshesh_dynasty
+    father: leso_letsie_iii_moshesh_2 #TODO: check if this makes sense
+    adm: 60
+    dip: 30
+    mil: 45
+    religion: catholic
+    culture: nguni_culture
+  3000.1.1:
+    death: yes

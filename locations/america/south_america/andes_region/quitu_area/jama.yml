@@ -1,0 +1,47 @@
+#imported from EU4 file: history/provinces/2820 - Esmeraldas.txt
+2.1.1:
+  pop:
+    ethnicity: cara_culture
+    religion: inti
+    estate: peasant
+    size: 1000
+980.1.1:
+  owner: QTO
+  controller: QTO
+  cores:
+    QTO: yes
+  resource: fish
+1487.1.1:
+  owner: INC
+  controller: INC
+  cores:
+    INC: yes
+1535.1.1:
+  owner: SPA
+  controller: SPA
+  pop:
+    ethnicity: castilian
+    religion: catholic
+    estate: peasant
+    size: 1000
+1550.1.1:
+  cores:
+    SPA: yes
+  resource: grain
+1770.1.1:
+  pop:
+    ethnicity: iberian_colombian
+    estate: peasant
+    size: 1000
+1819.12.17:
+  owner: COLO
+  controller: COLO
+  cores:
+    SPA: no
+    COLO: yes
+    ECUA: yes
+1830.5.13:
+  owner: ECUA
+  controller: ECUA
+  cores:
+    COLO: no

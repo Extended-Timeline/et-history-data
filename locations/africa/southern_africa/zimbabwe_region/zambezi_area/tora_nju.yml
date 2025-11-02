@@ -1,0 +1,32 @@
+#imported from EU4 file: history/provinces/3058 - Serowe.txt
+2.1.1:
+  pop:
+    ethnicity: shuar_culture
+    religion: bantu_religion
+    estate: peasant
+    size: 1000
+400.1.1:
+  pop:
+    ethnicity: tswana_culture
+    estate: peasant
+    size: 1000
+1885.3.31:
+  owner: GBR
+  controller: GBR
+  cores:
+    GBR: yes
+  resource: grain
+  pop:
+    religion: lutheran
+    estate: peasant
+    size: 1000
+1897.1.1:
+  resource: gold
+1930.1.1:
+  resource: copper
+1966.9.30:
+  owner: BOTS
+  controller: BOTS
+  cores:
+    GBR: no
+    BOTS: yes

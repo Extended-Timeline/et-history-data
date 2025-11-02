@@ -1,0 +1,105 @@
+#imported from EU4 file: history/provinces/2334 - Badiyat Ash Sham.txt
+2.1.1:
+  pop:
+    ethnicity: najdi_culture
+    religion: ashurism
+    estate: peasant
+    size: 1000
+220.1.1:
+  owner: GHAS
+  controller: GHAS
+  cores:
+    GHAS: yes
+  resource: grain
+230.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+425.1.1:
+  owner: LAKH
+  controller: LAKH
+  cores:
+    GHAS: no
+    LAKH: yes
+431.7.1:
+  pop:
+    religion: nestorianism
+    estate: peasant
+    size: 1000
+602.1.1:
+  owner: ANZ
+  controller: ANZ
+  cores:
+    LAKH: no
+    ANZ: yes
+633.1.1:
+  owner: RASH
+  controller: RASH
+  cores:
+    RASH: yes
+  pop:
+    religion: islam
+    estate: peasant
+    size: 1000
+661.7.28:
+  owner: UMAY
+  controller: UMAY
+  cores:
+    RASH: no
+    UMAY: yes
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+750.8.6:
+  owner: ABBA
+  controller: ABBA
+  cores:
+    UMAY: no
+    ABBA: yes
+935.8.26:
+  owner: FDL
+  controller: FDL
+  cores:
+    ABBA: no
+    FDL: yes
+976.1.1:
+  owner: ANZ
+  controller: ANZ
+  cores:
+    FDL: no
+    ANZ: yes
+1107.1.1:
+  owner: FDL
+  controller: FDL
+  cores:
+    ANZ: no
+    FDL: yes
+1516.8.24:
+  owner: TUR
+  controller: TUR
+  cores:
+    TUR: yes
+1860.1.1:
+  pop:
+    ethnicity: iraqi_culture
+    estate: peasant
+    size: 1000
+1920.7.24:
+  owner: GBR
+  controller: GBR
+  cores:
+    TUR: no
+    GBR: yes
+    IRAQ: yes
+1932.10.3:
+  owner: IRAQ
+  controller: IRAQ
+  cores:
+    GBR: no
+2013.4.8:
+  cores:
+    ISIS: yes
+2016.5.1:
+  controller: IRAQ

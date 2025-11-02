@@ -1,0 +1,82 @@
+#imported from EU4 file: history/provinces/170 - Finistere.txt
+2.1.1:
+  owner: ROM
+  controller: ROM
+  cores:
+    ROM: yes
+  resource: naval_supplies
+  pop:
+    ethnicity: gallian
+    religion: druidism
+    estate: peasant
+    size: 1000
+260.1.1:
+  cores:
+    GALL: yes
+268.1.1:
+  controller: ROM
+  cores:
+    GALL: no
+395.1.17:
+  owner: ROMW
+  controller: ROMW
+  cores:
+    ROM: no
+    ROMW: yes
+420.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+430.1.1:
+  owner: BROE
+  controller: BROE
+  cores:
+    BROE: yes
+  pop:
+    ethnicity: breton
+    estate: peasant
+    size: 1000
+480.6.1:
+  cores:
+    ROMW: no
+846.1.1:
+  owner: BRI
+  controller: BRI
+  cores:
+    BROE: no
+    BRI: yes
+867.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+890.1.1:
+  controller: BRI
+907.1.1:
+  owner: DAN
+  controller: DAN
+937.1.1:
+  owner: BRI
+  controller: BRI
+1359.1.1:
+  controller: ENG
+1360.5.9:
+  controller: BRI
+1453.1.1:
+  cores:
+    FRA: yes
+1532.8.4:
+  owner: FRA
+  controller: FRA
+1870.9.4:
+  owner: FRA
+  controller: FRA
+  cores:
+    FRA: yes
+1940.6.14:
+  owner: GER
+  controller: GER
+1944.8.25:
+  owner: FRA
+  controller: FRA

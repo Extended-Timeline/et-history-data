@@ -1,0 +1,172 @@
+#imported from EU4 file: history/provinces/2411 - Mansur.txt
+2.1.1:
+  owner: SARM
+  controller: SARM
+  cores:
+    SARM: yes
+  resource: livestock
+  pop:
+    ethnicity: sarmatian
+    religion: 
+    estate: peasant
+    size: 1000
+220.1.1:
+  owner: OSTR
+  controller: OSTR
+  cores:
+    SARM: no
+    OSTR: yes
+370.1.1:
+  owner: HUNS
+  controller: HUNS
+  cores:
+    OSTR: no
+    HUNS: yes
+  pop:
+    ethnicity: hunnic
+    estate: peasant
+    size: 1000
+420.1.1:
+  cores:
+    KUTR: yes
+  pop:
+    ethnicity: bolghar_culture
+    estate: peasant
+    size: 1000
+469.1.1:
+  owner: KUTR
+  controller: KUTR
+  cores:
+    HUNS: no
+632.1.1:
+  owner: BUL
+  controller: BUL
+  cores:
+    KUTR: no
+    BUL: yes
+750.1.1:
+  owner: HUN
+  controller: HUN
+  cores:
+    BUL: no
+    HUN: yes
+  pop:
+    ethnicity: hungarian
+    estate: peasant
+    size: 1000
+840.1.1:
+  owner: KHAZ
+  controller: KHAZ
+  cores:
+    HUN: no
+    KHAZ: yes
+969.1.1:
+  owner: PECH
+  controller: PECH
+  cores:
+    KHAZ: no
+    PECH: yes
+  pop:
+    ethnicity: pecheneg
+    estate: peasant
+    size: 1000
+1060.1.1:
+  owner: CUMA
+  controller: CUMA
+  cores:
+    PECH: no
+    CUMA: yes
+1220.1.1:
+  pop:
+    ethnicity: crimean
+    estate: peasant
+    size: 1000
+1241.1.1:
+  owner: MGE
+  controller: MGE
+  cores:
+    CUMA: no
+    MGE: yes
+    ZAZ: yes
+1260.1.1:
+  owner: WHHO
+  controller: WHHO
+  cores:
+    MGE: no
+    WHHO: yes
+1280.1.1:
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+1372.1.1:
+  owner: BLHO
+  controller: BLHO
+  cores:
+    BLHO: yes
+1374.1.1:
+  owner: WHHO
+  controller: WHHO
+  cores:
+    BLHO: no
+1378.1.1:
+  owner: GLH
+  controller: GLH
+  cores:
+    GLH: yes
+1441.1.1:
+  owner: CRIM
+  controller: CRIM
+  cores:
+    CRIM: yes
+1555.1.1:
+  owner: ZAZ
+  controller: ZAZ
+  cores:
+    CRIM: no
+  pop:
+    ethnicity: ruthenian
+    religion: orthodox
+    estate: peasant
+    size: 1000
+1700.7.14:
+  owner: RUS
+  cores:
+    RUS: yes
+1713.6.24:
+  owner: TUR
+  controller: TUR
+  cores:
+    RUS: no
+    TUR: yes
+1736.6.30:
+  controller: RUS
+1739.9.29:
+  owner: RUS
+  cores:
+    TUR: no
+    RUS: yes
+1918.1.22:
+  owner: UKR
+  controller: UKR
+  cores:
+    UKR: yes
+1921.3.18:
+  owner: RUS
+  controller: RUS
+1922.12.30:
+  owner: SOVI
+  controller: SOVI
+  cores:
+    RUS: no
+    SOVI: yes
+1941.10.12:
+  controller: GER
+1944.4.1:
+  controller: SOVI
+1991.8.24:
+  owner: UKR
+  controller: UKR
+  cores:
+    SOVI: no
+    UKR: yes

@@ -1,0 +1,78 @@
+#imported from EU4 file: history/provinces/503 - Kutch.txt
+2.1.1:
+  owner: WSAT
+  controller: WSAT
+  cores:
+    WSAT: yes
+  resource: salt
+  pop:
+    ethnicity: gujarati
+    religion: hindu
+    estate: peasant
+    size: 1000
+405.1.1:
+  owner: GUPT
+  controller: GUPT
+  cores:
+    WSAT: no
+    GUPT: yes
+475.1.1:
+  owner: GUJ
+  controller: GUJ
+  cores:
+    GUPT: no
+    GUJ: yes
+690.1.1:
+  owner: PATA
+  controller: PATA
+  cores:
+    GUJ: no
+    PATA: yes
+942.1.1:
+  owner: GUJ
+  controller: GUJ
+  cores:
+    GUJ: yes
+1147.1.1:
+  owner: KATH
+  controller: KATH
+  cores:
+    GUJ: no
+    KATH: yes
+1472.1.1:
+  owner: GUJ
+  controller: GUJ
+1544.1.1:
+  owner: BNG
+  controller: BNG
+1545.1.1:
+  owner: KATH
+  controller: KATH
+1592.1.1:
+  owner: MUG
+  controller: MUG
+  cores:
+    MUG: yes
+1724.1.1:
+  owner: KATH
+  controller: KATH
+  cores:
+    MUG: no
+1819.1.1:
+  owner: GBR
+  controller: GBR
+  cores:
+    GBR: yes
+1822.12.25:
+  owner: KATH
+  controller: KATH
+  cores:
+    GBR: no
+1920.1.1:
+  resource: aluminum
+1930.1.1:
+  cores:
+    INDI: yes
+1948.7.1:
+  owner: INDI
+  controller: INDI

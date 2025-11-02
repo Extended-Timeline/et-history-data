@@ -1,0 +1,158 @@
+#imported from EU4 file: history/provinces/4530 - Birlad.txt
+2.1.1:
+  owner: DACI
+  controller: DACI
+  cores:
+    DACI: yes
+  resource: wine
+  pop:
+    ethnicity: dacian
+    religion: zamolxism
+    estate: peasant
+    size: 1000
+271.1.1:
+  owner: VISG
+  controller: VISG
+  cores:
+    DACI: no
+    VISG: yes
+  pop:
+    religion: germanic
+    estate: peasant
+    size: 1000
+370.1.1:
+  owner: HUNS
+  controller: HUNS
+  cores:
+    VISG: no
+    HUNS: yes
+400.1.1:
+  pop:
+    religion: 
+    estate: peasant
+    size: 1000
+450.1.1:
+  pop:
+    ethnicity: wallachian
+    estate: peasant
+    size: 1000
+520.1.1:
+  owner: ANTE
+  controller: ANTE
+  cores:
+    HUNS: no
+    ANTE: yes
+560.1.1:
+  owner: AVR
+  controller: AVR
+  cores:
+    ANTE: no
+    AVR: yes
+632.1.1:
+  owner: BUL
+  controller: BUL
+  cores:
+    AVR: no
+    BUL: yes
+770.1.1:
+  owner: HUN
+  controller: HUN
+  cores:
+    BUL: no
+    HUN: yes
+810.1.1:
+  owner: BUL
+  controller: BUL
+  cores:
+    HUN: no
+    BUL: yes
+840.1.1:
+  owner: TIVE
+  controller: TIVE
+  cores:
+    BUL: no
+    TIVE: yes
+900.1.1:
+  owner: PECH
+  controller: PECH
+  cores:
+    PECH: yes
+960.1.1:
+  pop:
+    religion: orthodox
+    estate: peasant
+    size: 1000
+1094.1.1:
+  owner: CUMA
+  controller: CUMA
+  cores:
+    PECH: no
+    CUMA: yes
+1185.1.1:
+  owner: BUL
+  controller: BUL
+  cores:
+    CUMA: no
+    BUL: yes
+1242.1.1:
+  owner: MGE
+  controller: MGE
+  cores:
+    BUL: no
+    MGE: yes
+1260.1.1:
+  owner: WHHO
+  controller: WHHO
+  cores:
+    MGE: no
+    WHHO: yes
+1346.1.1:
+  owner: MOL
+  controller: MOL
+  cores:
+    WHHO: no
+    MOL: yes
+1484.1.1:
+  controller: TUR
+1489.1.1:
+  controller: MOL
+1593.1.1:
+  cores:
+    WAL: yes
+1601.1.1:
+  cores:
+    WAL: no
+1654.1.1:
+  controller: MOL
+1739.1.1:
+  controller: RUS
+1739.9.18:
+  controller: MOL
+1769.1.1:
+  controller: RUS
+1774.1.1:
+  controller: MOL
+1788.1.1:
+  controller: RUS
+1789.1.1:
+  controller: MOL
+1789.6.1:
+  controller: HAB
+1791.8.4:
+  controller: MOL
+1806.1.1:
+  controller: RUS
+1812.05.28:
+  controller: MOL
+1859.2.5:
+  owner: WAL
+  controller: WAL
+  cores:
+    MOL: no
+    WAL: yes
+1862.2.5:
+  owner: RMN
+  controller: RMN
+  cores:
+    WAL: no
+    RMN: yes

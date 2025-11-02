@@ -1,0 +1,88 @@
+#imported from EU4 file: history/provinces/4375 - Chester.txt
+2.1.1:
+  owner: BRIG
+  controller: BRIG
+  cores:
+    BRIG: yes
+  resource: salt
+  pop:
+    ethnicity: cumbric
+    religion: druidism
+    estate: peasant
+    size: 1000
+71.1.1:
+  controller: ROM
+78.1.1:
+  owner: ROM
+  cores:
+    ROM: yes
+380.1.1:
+  cores:
+    BRIG: no
+    RHEG: yes
+395.1.17:
+  owner: ROMW
+  controller: ROMW
+  cores:
+    ROM: no
+    ROMW: yes
+410.1.1:
+  owner: RHEG
+  controller: RHEG
+  cores:
+    ROMW: no
+    BRIG: no
+    RHEG: yes
+630.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+720.1.1:
+  owner: NOL
+  controller: NOL
+  cores:
+    NOL: yes
+  pop:
+    ethnicity: anglo_saxon
+    estate: peasant
+    size: 1000
+867.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+918.1.1:
+  owner: MNN
+  controller: MNN
+  cores:
+    MNN: yes
+921.1.1:
+  owner: NOL
+  controller: NOL
+  cores:
+    MNN: no
+927.1.1:
+  owner: ENG
+  controller: ENG
+  cores:
+    RHEG: no
+    ENG: yes
+1000.1.1:
+  cores:
+    NOL: no
+1066.12.25:
+  pop:
+    ethnicity: english
+    estate: peasant
+    size: 1000
+1645.1.1:
+  controller: ENG
+1707.5.12:
+  owner: GBR
+  controller: GBR
+  cores:
+    ENG: no
+    GBR: yes
+1920.1.1:
+  resource: cars

@@ -1,0 +1,48 @@
+#imported from EU4 file: history/provinces/2708 - Sampit.txt
+2.1.1:
+  pop:
+    ethnicity: bidayuh_culture
+    religion: hindu
+    estate: peasant
+    size: 1000
+600.1.1:
+  owner: TJP
+  controller: TJP
+  cores:
+    TJP: yes
+  resource: naval_supplies
+1420.1.1:
+  owner: BANJ
+  controller: BANJ
+  cores:
+    TJP: no
+    BANJ: yes
+1600.1.1:
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+1860.1.1:
+  owner: NED
+  controller: NED
+  cores:
+    NED: yes
+1880.1.1:
+  resource: coal
+1912.9.10:
+  cores:
+    INDN: yes
+1942.2.10:
+  controller: JAP
+1942.3.9:
+  owner: JAP
+1945.8.1:
+  controller: ENG
+1945.8.15:
+  owner: NED
+1945.8.17:
+  owner: INDN
+  controller: INDN
+1949.12.27:
+  cores:
+    NED: no

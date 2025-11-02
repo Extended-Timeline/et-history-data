@@ -1,0 +1,424 @@
+magu_maraja_maguindanao:
+  1414.1.1:
+    birth: kuta_watu #TODO: Date and location guessed, check if better data is available
+    first_name: maraja
+    dynasty: maguindanao_dynasty
+    adm: 45
+    dip: 30
+    mil: 45
+    religion: bimoism
+    culture: cebuano_culture
+  1480.1.1:
+    death: yes
+magu_tabunaway_maguindanao:
+  1444.1.1:
+    birth: kuta_watu #TODO: Date and location guessed, check if better data is available
+    first_name: tabunaway
+    dynasty: maguindanao_dynasty
+    father: magu_maraja_maguindanao #TODO: check if this makes sense
+    adm: 45
+    dip: 60
+    mil: 30
+    religion: bimoism
+    culture: cebuano_culture
+  1530.1.1:
+    death: yes
+magu_tabunaway_maguindanao_1:
+  1450.1.1:
+    birth: kuta_watu #TODO: Date and location guessed, check if better data is available
+    first_name: tabunaway
+    dynasty: maguindanao_dynasty
+    adm: 45
+    dip: 60
+    mil: 30
+    religion: bimoism
+    culture: cebuano_culture
+  1520.1.1:
+    death: yes
+magu_mohammed_kabungsuwan_maguindanao:
+  1490.1.1:
+    birth: kuta_watu #TODO: Date and location guessed, check if better data is available
+    first_name: mohammed_kabungsuwan
+    dynasty: maguindanao_dynasty
+    adm: 60
+    dip: 60
+    mil: 45
+    religion: sunni
+    culture: cebuano_culture
+  1543.1.1:
+    death: yes
+magu_maka_alang_saripada_maguindanao:
+  1520.1.1:
+    birth: kuta_watu #TODO: Date and location guessed, check if better data is available
+    first_name: maka_alang_saripada
+    dynasty: maguindanao_dynasty
+    father: magu_mohammed_kabungsuwan_maguindanao #TODO: check if this makes sense
+    adm: 30
+    dip: 30
+    mil: 45
+    religion: sunni
+    culture: cebuano_culture
+  1574.1.1:
+    death: yes
+magu_maka_alang_saripada_maguindanao_1:
+  1513.1.1:
+    birth: kuta_watu #TODO: Date and location guessed, check if better data is available
+    first_name: maka_alang_saripada
+    dynasty: maguindanao_dynasty
+    adm: 60
+    dip: 60
+    mil: 45
+    religion: sunni
+    culture: cebuano_culture
+  1574.1.1:
+    death: yes
+magu_bangkaya_maguindanao:
+  1530.1.1:
+    birth: kuta_watu #TODO: Date and location guessed, check if better data is available
+    first_name: bangkaya
+    dynasty: maguindanao_dynasty
+    father: magu_maka_alang_saripada_maguindanao_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 30
+    mil: 15
+    religion: sunni
+    culture: cebuano_culture
+  1578.1.1:
+    death: yes
+magu_bangkaya_maguindanao_1:
+  1544.1.1:
+    birth: kuta_watu #TODO: Date and location guessed, check if better data is available
+    first_name: bangkaya
+    dynasty: maguindanao_dynasty
+    adm: 30
+    dip: 30
+    mil: 15
+    religion: sunni
+    culture: cebuano_culture
+  1578.1.1:
+    death: yes
+magu_dimasangcay_adel_maguindanao:
+  1550.1.1:
+    birth: kuta_watu #TODO: Date and location guessed, check if better data is available
+    first_name: dimasangcay_adel
+    dynasty: maguindanao_dynasty
+    father: magu_bangkaya_maguindanao_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 30
+    mil: 30
+    religion: sunni
+    culture: cebuano_culture
+  1585.1.1:
+    death: yes
+magu_dimasangcay_adel_maguindanao_1:
+  1548.1.1:
+    birth: kuta_watu #TODO: Date and location guessed, check if better data is available
+    first_name: dimasangcay_adel
+    dynasty: maguindanao_dynasty
+    adm: 15
+    dip: 30
+    mil: 30
+    religion: sunni
+    culture: cebuano_culture
+  1585.1.1:
+    death: yes
+magu_gugu_sarikula_maguindanao:
+  1560.1.1:
+    birth: kuta_watu #TODO: Date and location guessed, check if better data is available
+    first_name: gugu_sarikula
+    dynasty: maguindanao_dynasty
+    father: magu_dimasangcay_adel_maguindanao_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 30
+    mil: 30
+    religion: sunni
+    culture: cebuano_culture
+  1597.1.1:
+    death: yes
+magu_gugu_sarikula_maguindanao_1:
+  1555.1.1:
+    birth: kuta_watu #TODO: Date and location guessed, check if better data is available
+    first_name: gugu_sarikula
+    dynasty: maguindanao_dynasty
+    adm: 30
+    dip: 30
+    mil: 30
+    religion: sunni
+    culture: cebuano_culture
+  1597.1.1:
+    death: yes
+magu_laut_buisan_maguindanao:
+  1560.1.1:
+    birth: kuta_watu #TODO: Date and location guessed, check if better data is available
+    first_name: laut_buisan
+    dynasty: maguindanao_dynasty
+    father: magu_gugu_sarikula_maguindanao_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: sunni
+    culture: cebuano_culture
+  1597.1.1:
+    death: yes
+magu_laut_buisan_maguindanao_1:
+  1567.1.1:
+    birth: kuta_watu #TODO: Date and location guessed, check if better data is available
+    first_name: laut_buisan
+    dynasty: maguindanao_dynasty
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: sunni
+    culture: cebuano_culture
+  1617.1.1:
+    death: yes
+magu_muhammad_dipatuan_kudarat_maguindanao:
+  1581.1.1:
+    birth: kuta_watu #TODO: Date and location guessed, check if better data is available
+    first_name: muhammad_dipatuan_kudarat
+    dynasty: maguindanao_dynasty
+    father: magu_laut_buisan_maguindanao_1 #TODO: check if this makes sense
+    adm: 60
+    dip: 75
+    mil: 75
+    religion: sunni
+    culture: cebuano_culture
+  1671.1.1:
+    death: yes
+magu_muhammad_dipatuan_kudarat_maguindanao_1:
+  1587.1.1:
+    birth: kuta_watu #TODO: Date and location guessed, check if better data is available
+    first_name: muhammad_dipatuan_kudarat
+    dynasty: maguindanao_dynasty
+    adm: 60
+    dip: 75
+    mil: 75
+    religion: sunni
+    culture: cebuano_culture
+  1671.1.1:
+    death: yes
+magu_dundang_tidulay_maguindanao:
+  1610.1.1:
+    birth: kuta_watu #TODO: Date and location guessed, check if better data is available
+    first_name: dundang_tidulay
+    dynasty: maguindanao_dynasty
+    father: magu_muhammad_dipatuan_kudarat_maguindanao_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 45
+    mil: 30
+    religion: sunni
+    culture: cebuano_culture
+  1678.1.1:
+    death: yes
+magu_dundang_tidulay_maguindanao_1:
+  1641.1.1:
+    birth: kuta_watu #TODO: Date and location guessed, check if better data is available
+    first_name: dundang_tidulay
+    dynasty: maguindanao_dynasty
+    adm: 45
+    dip: 45
+    mil: 30
+    religion: sunni
+    culture: cebuano_culture
+  1678.1.1:
+    death: yes
+magu_barahaman_maguindanao:
+  1640.1.1:
+    birth: kuta_watu #TODO: Date and location guessed, check if better data is available
+    first_name: barahaman
+    dynasty: maguindanao_dynasty
+    father: magu_dundang_tidulay_maguindanao_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 30
+    mil: 45
+    religion: sunni
+    culture: cebuano_culture
+  1699.1.1:
+    death: yes
+magu_barahaman_maguindanao_1:
+  1648.1.1:
+    birth: kuta_watu #TODO: Date and location guessed, check if better data is available
+    first_name: barahaman
+    dynasty: maguindanao_dynasty
+    adm: 45
+    dip: 30
+    mil: 45
+    religion: sunni
+    culture: cebuano_culture
+  1699.1.1:
+    death: yes
+magu_kahar_ud_din_kuda_maguindanao:
+  1660.1.1:
+    birth: kuta_watu #TODO: Date and location guessed, check if better data is available
+    first_name: kahar_ud_din_kuda
+    dynasty: maguindanao_dynasty
+    father: magu_barahaman_maguindanao_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 30
+    mil: 15
+    religion: sunni
+    culture: cebuano_culture
+  1702.1.1:
+    death: yes
+magu_kahar_ud_din_kuda_maguindanao_1:
+  1669.1.1:
+    birth: kuta_watu #TODO: Date and location guessed, check if better data is available
+    first_name: kahar_ud_din_kuda
+    dynasty: maguindanao_dynasty
+    adm: 15
+    dip: 30
+    mil: 15
+    religion: sunni
+    culture: cebuano_culture
+  1702.1.1:
+    death: yes
+magu_bayan_ul_anwar_maguindanao:
+  1680.1.1:
+    birth: kuta_watu #TODO: Date and location guessed, check if better data is available
+    first_name: bayan_ul_anwar
+    dynasty: maguindanao_dynasty
+    father: magu_kahar_ud_din_kuda_maguindanao_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 30
+    mil: 30
+    religion: sunni
+    culture: cebuano_culture
+  1736.1.1:
+    death: yes
+magu_bayan_ul_anwar_maguindanao_1:
+  1672.1.1:
+    birth: kuta_watu #TODO: Date and location guessed, check if better data is available
+    first_name: bayan_ul_anwar
+    dynasty: maguindanao_dynasty
+    adm: 45
+    dip: 30
+    mil: 30
+    religion: sunni
+    culture: cebuano_culture
+  1736.1.1:
+    death: yes
+magu_muhammad_tahir_ud_din_maguindanao:
+  1700.1.1:
+    birth: kuta_watu #TODO: Date and location guessed, check if better data is available
+    first_name: muhammad_tahir_ud_din
+    dynasty: maguindanao_dynasty
+    father: magu_bayan_ul_anwar_maguindanao_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 30
+    mil: 45
+    religion: sunni
+    culture: cebuano_culture
+  1748.1.1:
+    death: yes
+magu_muhammad_tahir_ud_din_maguindanao_1:
+  1706.1.1:
+    birth: kuta_watu #TODO: Date and location guessed, check if better data is available
+    first_name: muhammad_tahir_ud_din
+    dynasty: maguindanao_dynasty
+    adm: 30
+    dip: 30
+    mil: 45
+    religion: sunni
+    culture: cebuano_culture
+  1748.1.1:
+    death: yes
+magu_muhammad_khair_ud_din_maguindanao:
+  1710.1.1:
+    birth: kuta_watu #TODO: Date and location guessed, check if better data is available
+    first_name: muhammad_khair_ud_din
+    dynasty: maguindanao_dynasty
+    father: magu_muhammad_tahir_ud_din_maguindanao_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 30
+    mil: 30
+    religion: sunni
+    culture: cebuano_culture
+  1755.1.1:
+    death: yes
+magu_muhammad_khair_ud_din_maguindanao_1:
+  1718.1.1:
+    birth: kuta_watu #TODO: Date and location guessed, check if better data is available
+    first_name: muhammad_khair_ud_din
+    dynasty: maguindanao_dynasty
+    adm: 30
+    dip: 30
+    mil: 30
+    religion: sunni
+    culture: cebuano_culture
+  1755.1.1:
+    death: yes
+magu_pahar_ud_din_maguindanao:
+  1730.1.1:
+    birth: kuta_watu #TODO: Date and location guessed, check if better data is available
+    first_name: pahar_ud_din
+    dynasty: maguindanao_dynasty
+    father: magu_muhammad_khair_ud_din_maguindanao_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 30
+    mil: 45
+    religion: sunni
+    culture: cebuano_culture
+  1780.1.1:
+    death: yes
+magu_pahar_ud_din_maguindanao_1:
+  1725.1.1:
+    birth: kuta_watu #TODO: Date and location guessed, check if better data is available
+    first_name: pahar_ud_din
+    dynasty: maguindanao_dynasty
+    adm: 30
+    dip: 30
+    mil: 45
+    religion: sunni
+    culture: cebuano_culture
+  1780.1.1:
+    death: yes
+magu_kibad_sahriyal_maguindanao:
+  1750.1.1:
+    birth: kuta_watu #TODO: Date and location guessed, check if better data is available
+    first_name: kibad_sahriyal
+    dynasty: maguindanao_dynasty
+    adm: 45
+    dip: 30
+    mil: 30
+    religion: sunni
+    culture: cebuano_culture
+  1805.1.1:
+    death: yes
+magu_kawasa_anwar_ud_din_maguindanao:
+  1770.1.1:
+    birth: kuta_watu #TODO: Date and location guessed, check if better data is available
+    first_name: kawasa_anwar_ud_din
+    dynasty: maguindanao_dynasty
+    father: magu_kibad_sahriyal_maguindanao #TODO: check if this makes sense
+    adm: 45
+    dip: 30
+    mil: 45
+    religion: sunni
+    culture: cebuano_culture
+  1830.1.1:
+    death: yes
+magu_kawasa_anwar_ud_din_maguindanao_1:
+  1775.1.1:
+    birth: kuta_watu #TODO: Date and location guessed, check if better data is available
+    first_name: kawasa_anwar_ud_din
+    dynasty: maguindanao_dynasty
+    adm: 45
+    dip: 30
+    mil: 45
+    religion: sunni
+    culture: cebuano_culture
+  3000.1.1:
+    death: yes
+magu_qudratullah_untung_maguindanao:
+  1800.1.1:
+    birth: kuta_watu #TODO: Date and location guessed, check if better data is available
+    first_name: qudratullah_untung
+    dynasty: maguindanao_dynasty
+    father: magu_kawasa_anwar_ud_din_maguindanao_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 45
+    mil: 45
+    religion: sunni
+    culture: cebuano_culture
+  1854.1.1:
+    death: yes

@@ -1,0 +1,37 @@
+asr_togha_temur_borjigin:
+  1305.1.1:
+    birth: gorgan #TODO: Date and location guessed, check if better data is available
+    first_name: togha_temur
+    dynasty: borjigin_dynasty
+    adm: 45
+    dip: 45
+    mil: 60
+    religion: shia
+    culture: mazanderani_culture
+  1353.12.1:
+    death: yes
+asr_luqman_borjigin:
+  1320.1.1:
+    birth: gorgan #TODO: Date and location guessed, check if better data is available
+    first_name: luqman
+    dynasty: borjigin_dynasty
+    father: asr_togha_temur_borjigin #TODO: check if this makes sense
+    adm: 30
+    dip: 15
+    mil: 15
+    religion: shia
+    culture: mongolian_culture
+  1380.1.1:
+    death: yes
+asr_amir_vali_astarabadi:
+  1323.1.1:
+    birth: gorgan #TODO: Date and location guessed, check if better data is available
+    first_name: amir_vali
+    dynasty: astarabadi_dynasty
+    adm: 45
+    dip: 30
+    mil: 45
+    religion: shia
+    culture: mazanderani_culture
+  3000.1.1:
+    death: yes

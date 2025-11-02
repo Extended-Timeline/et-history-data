@@ -1,0 +1,74 @@
+#imported from EU4 file: history/provinces/1835 - Mino.txt
+2.1.1:
+  owner: OWAR
+  controller: OWAR
+  cores:
+    OWAR: yes
+  resource: grain
+  pop:
+    ethnicity: saigoku_culture
+    religion: shinto
+    estate: peasant
+    size: 1000
+320.1.1:
+  owner: YMT
+  controller: YMT
+  cores:
+    OWAR: no
+    YMT: yes
+607.1.1:
+  pop:
+    religion: mahayana
+    estate: peasant
+    size: 1000
+700.1.1:
+  resource: paper
+712.1.1:
+  pop:
+    religion: shinto
+    estate: peasant
+    size: 1000
+794.1.1:
+  owner: JAP
+  controller: JAP
+  cores:
+    YMT: no
+    JAP: yes
+1040.1.1:
+  owner: TKI
+  controller: TKI
+  cores:
+    JAP: no
+    TKI: yes
+1538.1.1:
+  owner: SAIT
+  controller: SAIT
+  cores:
+    TKI: no
+    SAIT: yes
+1561.1.1:
+  cores:
+    ODA: yes
+1567.10.1:
+  owner: ODA
+  controller: ODA
+  cores:
+    SAIT: no
+1583.6.14:
+  owner: TOYO
+  controller: TOYO
+  cores:
+    ODA: no
+    TOYO: yes
+1600.10.21:
+  owner: TOKU
+  controller: TOKU
+  cores:
+    TOYO: no
+    TOKU: yes
+1868.1.3:
+  owner: JAP
+  controller: JAP
+  cores:
+    TOKU: no
+    JAP: yes

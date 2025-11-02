@@ -1,0 +1,70 @@
+#imported from EU4 file: history/provinces/4471 - Bishnupur.txt
+2.1.1:
+  owner: SUHM
+  controller: SUHM
+  cores:
+    SUHM: yes
+  resource: copper
+  pop:
+    ethnicity: bengali
+    religion: hindu
+    estate: peasant
+    size: 1000
+250.1.1:
+  owner: BISH
+  controller: BISH
+  cores:
+    SUHM: no
+    BISH: yes
+355.1.1:
+  owner: GUPT
+  controller: GUPT
+  cores:
+    GUPT: yes
+550.1.1:
+  owner: BISH
+  controller: BISH
+  cores:
+    GUPT: no
+    BISH: yes
+580.1.1:
+  owner: GAUD
+  controller: GAUD
+  cores:
+    GAUD: yes
+626.1.1:
+  owner: PUSH
+  controller: PUSH
+  cores:
+    GAUD: no
+    PUSH: yes
+647.1.1:
+  owner: BISH
+  controller: BISH
+  cores:
+    PUSH: no
+    BISH: yes
+1576.7.12:
+  owner: MUG
+  controller: MUG
+  cores:
+    MUG: yes
+1707.3.15:
+  owner: BNG
+  controller: BNG
+  cores:
+    MUG: no
+1765.1.1:
+  owner: GBR
+  controller: GBR
+  cores:
+    GBR: yes
+1930.1.1:
+  cores:
+    BNG: no
+    INDI: yes
+1947.8.15:
+  owner: INDI
+  controller: INDI
+  cores:
+    GBR: no

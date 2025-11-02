@@ -1,0 +1,89 @@
+#imported from EU4 file: history/provinces/4284 - Al Ghayda.txt
+2.1.1:
+  owner: MAHR
+  controller: MAHR
+  cores:
+    MAHR: yes
+  resource: fish
+  pop:
+    ethnicity: mehri_culture
+    religion: south_arabian
+    estate: peasant
+    size: 1000
+635.1.1:
+  owner: RASH
+  controller: RASH
+  cores:
+    RASH: yes
+  pop:
+    religion: islam
+    estate: peasant
+    size: 1000
+661.7.28:
+  owner: UMAY
+  controller: UMAY
+  cores:
+    RASH: no
+    UMAY: yes
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+750.8.6:
+  owner: ABBA
+  controller: ABBA
+  cores:
+    UMAY: no
+    ABBA: yes
+760.1.1:
+  pop:
+    religion: ibadi
+    estate: peasant
+    size: 1000
+847.1.1:
+  owner: MAHR
+  controller: MAHR
+  cores:
+    ABBA: no
+    MAHR: yes
+1150.1.1:
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+1278.12.22:
+  owner: YEM
+  controller: YEM
+  cores:
+    YEM: yes
+1424.1.1:
+  owner: MAHR
+  controller: MAHR
+  cores:
+    YEM: no
+    MAHR: yes
+1546.1.1:
+  owner: HADR
+  controller: HADR
+  cores:
+    HADR: yes
+1548.1.1:
+  owner: MAHR
+  controller: MAHR
+1967.11.30:
+  owner: ADEN
+  controller: ADEN
+  cores:
+    ADEN: yes
+1990.5.22:
+  owner: YEM
+  controller: YEM
+  cores:
+    ADEN: no
+    YEM: yes
+1994.5.21:
+  cores:
+    ADEN: yes
+1994.7.7:
+  cores:
+    ADEN: no

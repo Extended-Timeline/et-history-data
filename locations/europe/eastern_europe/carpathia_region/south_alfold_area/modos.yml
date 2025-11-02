@@ -1,0 +1,150 @@
+#imported from EU4 file: history/provinces/1954 - Torontal.txt
+2.1.1:
+  owner: DACI
+  controller: DACI
+  cores:
+    DACI: yes
+  resource: livestock
+  pop:
+    ethnicity: dacian
+    religion: zamolxism
+    estate: peasant
+    size: 1000
+106.1.1:
+  owner: ROM
+  controller: ROM
+  cores:
+    ROM: yes
+273.1.1:
+  owner: VISG
+  controller: VISG
+  cores:
+    ROM: no
+    VISG: yes
+  pop:
+    ethnicity: gothic
+    religion: germanic
+    estate: peasant
+    size: 1000
+376.1.1:
+  owner: HUNS
+  controller: HUNS
+  cores:
+    VISG: no
+    HUNS: yes
+395.1.1:
+  pop:
+    religion: arianism
+    estate: peasant
+    size: 1000
+469.1.1:
+  owner: GEPI
+  controller: GEPI
+  cores:
+    HUNS: no
+    GEPI: yes
+  pop:
+    ethnicity: gepid
+    estate: peasant
+    size: 1000
+567.1.1:
+  owner: AVR
+  controller: AVR
+  cores:
+    GEPI: no
+    AVR: yes
+570.1.1:
+  pop:
+    religion: 
+    estate: peasant
+    size: 1000
+620.1.1:
+  pop:
+    ethnicity: serbian
+    estate: peasant
+    size: 1000
+804.1.1:
+  owner: BUL
+  controller: BUL
+  cores:
+    AVR: no
+    BUL: yes
+930.1.1:
+  owner: BANT
+  controller: BANT
+  cores:
+    BUL: no
+    BANT: yes
+1003.1.1:
+  owner: HUN
+  controller: HUN
+  cores:
+    HUN: yes
+1010.1.1:
+  pop:
+    religion: orthodox
+    estate: peasant
+    size: 1000
+1200.1.1:
+  pop:
+    ethnicity: hungarian
+    estate: peasant
+    size: 1000
+1514.6.1:
+  controller: HUN
+1526.8.30:
+  owner: HAB
+  controller: HAB
+  cores:
+    HAB: yes
+1551.7.19:
+  cores:
+    TUR: yes
+1552.7.17:
+  controller: TUR
+1556.10.1:
+  owner: TUR
+1562.6.1:
+  cores:
+    HAB: no
+1598.1.1:
+  controller: TUR
+1718.1.1:
+  owner: HAB
+  controller: HAB
+  cores:
+    TUR: no
+    HAB: yes
+1739.1.1:
+  controller: HAB
+1770.1.1:
+  controller: HAB
+1918.12.1:
+  owner: YUGO
+  controller: YUGO
+  cores:
+    HAB: no
+    HUN: no
+    YUGO: yes
+    SER: yes
+1941.4.6:
+  owner: HUN
+  controller: HUN
+1944.3.1:
+  owner: GER
+  controller: GER
+1944.10.23:
+  controller: SOVI
+1945.5.8:
+  owner: YUGO
+  controller: YUGO
+1950.1.1:
+  pop:
+    ethnicity: serbian
+    estate: peasant
+    size: 1000
+2006.6.5:
+  owner: SER
+  controller: SER
+  cores:
+    YUGO: no

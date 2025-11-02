@@ -1,0 +1,82 @@
+#imported from EU4 file: history/provinces/2074 - Ladakh.txt
+2.1.1:
+  owner: KSH
+  controller: KSH
+  cores:
+    KSH: yes
+  resource: wool
+  pop:
+    ethnicity: ladakh_culture
+    religion: bon
+    estate: peasant
+    size: 1000
+375.1.1:
+  owner: LADA
+  controller: LADA
+  cores:
+    KSH: no
+    LADA: yes
+542.1.1:
+  owner: KSH
+  controller: KSH
+  cores:
+    KSH: yes
+645.1.1:
+  owner: TIB
+  controller: TIB
+  cores:
+    KSH: no
+    TIB: yes
+842.1.1:
+  owner: UTSA
+  controller: UTSA
+  cores:
+    TIB: no
+    UTSA: yes
+910.1.1:
+  owner: GUG
+  controller: GUG
+  cores:
+    UTSA: no
+    GUG: yes
+930.1.1:
+  owner: LADA
+  controller: LADA
+  cores:
+    GUG: no
+    LADA: yes
+980.1.1:
+  pop:
+    religion: tibetan_buddhism
+    estate: peasant
+    size: 1000
+1450.1.1:
+  owner: KSH
+  controller: KSH
+  cores:
+    KSH: yes
+1570.1.1:
+  owner: LADA
+  controller: LADA
+  cores:
+    KSH: no
+1834.1.1:
+  owner: PUN
+  controller: PUN
+  cores:
+    PUN: yes
+1846.3.16:
+  owner: KSH
+  controller: KSH
+  cores:
+    PUN: no
+    KSH: yes
+1930.1.1:
+  cores:
+    INDI: yes
+1930.12.29:
+  cores:
+    PAKI: yes
+1947.10.26:
+  owner: INDI
+  controller: INDI

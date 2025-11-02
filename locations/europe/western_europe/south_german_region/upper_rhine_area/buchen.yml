@@ -1,0 +1,179 @@
+#imported from EU4 file: history/provinces/4718 - Aschaffenburg.txt
+2.1.1:
+  owner: CHTT
+  controller: CHTT
+  cores:
+    CHTT: yes
+  resource: cloth
+  pop:
+    ethnicity: rhine_franconian
+    religion: germanic
+    estate: peasant
+    size: 1000
+72.1.1:
+  owner: ALEM
+  controller: ALEM
+  cores:
+    CHTT: no
+    ALEM: yes
+  pop:
+    ethnicity: high_alemannic
+    estate: peasant
+    size: 1000
+395.1.1:
+  owner: BUR
+  controller: BUR
+  cores:
+    VAND: no
+    BUR: yes
+  pop:
+    ethnicity: burgundione
+    estate: peasant
+    size: 1000
+443.1.1:
+  owner: ALEM
+  controller: ALEM
+  cores:
+    BUR: no
+    ALEM: yes
+451.1.1:
+  owner: THU
+  controller: THU
+  cores:
+    ALEM: no
+    THU: yes
+  pop:
+    ethnicity: east_franconian
+    estate: peasant
+    size: 1000
+454.1.1:
+  owner: FRAN
+  controller: FRAN
+  cores:
+    THU: no
+    FRAN: yes
+500.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+511.11.27:
+  owner: ASTS
+  controller: ASTS
+  cores:
+    ASTS: yes
+555.1.1:
+  owner: SOIS
+  controller: SOIS
+  cores:
+    SOIS: yes
+558.12.23:
+  owner: FRAN
+  controller: FRAN
+  cores:
+    SOIS: no
+    FRAN: yes
+561.11.29:
+  owner: ASTS
+  controller: ASTS
+613.10.10:
+  owner: FRAN
+  controller: FRAN
+  cores:
+    FRAN: yes
+623.1.1:
+  owner: ASTS
+  controller: ASTS
+629.10.18:
+  owner: FRAN
+  controller: FRAN
+634.1.1:
+  owner: ASTS
+  controller: ASTS
+679.12.23:
+  owner: FRAN
+  controller: FRAN
+840.6.21:
+  owner: EFRA
+  controller: EFRA
+  cores:
+    FRAN: no
+    EFRA: yes
+867.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+911.11.10:
+  owner: FKN
+  controller: FKN
+  cores:
+    EFRA: no
+    FKN: yes
+983.12.7:
+  owner: MAI
+  controller: MAI
+  cores:
+    FKN: no
+    MAI: yes
+1556.4.19:
+  pop:
+    religion: lutheran
+    estate: peasant
+    size: 1000
+1631.12.22:
+  controller: SWE
+1635.1.1:
+  controller: MAI
+1644.1.1:
+  controller: FRA
+1648.10.24:
+  controller: MAI
+1792.10.1:
+  controller: FRA
+1792.12.3:
+  controller: MAI
+1810.1.1:
+  owner: FRN
+  controller: FRN
+  cores:
+    MAI: no
+    FRN: yes
+1813.12.1:
+  owner: MAI
+  controller: MAI
+  cores:
+    FRN: no
+    MAI: yes
+1816.1.1:
+  owner: HES
+  controller: HES
+  cores:
+    HES: yes
+1866.9.20:
+  owner: PRU
+  controller: PRU
+  cores:
+    PRU: yes
+1871.1.18:
+  owner: GER
+  controller: GER
+  cores:
+    PRU: no
+    GER: yes
+1900.1.1:
+  cores:
+    HES: no
+    MAI: no
+1945.3.22:
+  controller: USA
+1945.5.8:
+  owner: WGER
+  controller: WGER
+  cores:
+    WGER: yes
+1990.10.3:
+  owner: GER
+  controller: GER
+  cores:
+    WGER: no

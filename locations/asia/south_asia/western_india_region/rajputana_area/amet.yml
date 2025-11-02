@@ -1,0 +1,119 @@
+#imported from EU4 file: history/provinces/2087 - Ajmer.txt
+2.1.1:
+  owner: WSAT
+  controller: WSAT
+  cores:
+    WSAT: yes
+  resource: salt
+  pop:
+    ethnicity: marwari
+    religion: hindu
+    estate: peasant
+    size: 1000
+360.1.1:
+  owner: GUPT
+  controller: GUPT
+  cores:
+    WSAT: no
+    GUPT: yes
+498.1.1:
+  owner: KAPI
+  controller: KAPI
+  cores:
+    GUPT: no
+    MLW: yes
+528.1.1:
+  owner: MLW
+  controller: MLW
+  cores:
+    GURJ: yes
+560.1.1:
+  owner: GURJ
+  controller: GURJ
+  cores:
+    MLW: no
+620.1.1:
+  owner: PUSH
+  controller: PUSH
+  cores:
+    PUSH: yes
+647.1.1:
+  owner: GURJ
+  controller: GURJ
+  cores:
+    PUSH: no
+950.1.1:
+  owner: CHAU
+  controller: CHAU
+  cores:
+    GURJ: no
+    CHAU: yes
+1194.1.1:
+  owner: GHOR
+  controller: GHOR
+  cores:
+    GHOR: yes
+1206.1.1:
+  owner: DLH
+  controller: DLH
+  cores:
+    GHOR: no
+    DLH: yes
+    MEW: yes
+    MRW: yes
+1370.1.1:
+  owner: MEW
+  controller: MEW
+  cores:
+    DLH: no
+    MEW: yes
+1530.1.1:
+  owner: MUG
+  controller: MUG
+  cores:
+    MUG: yes
+1540.1.1:
+  owner: MRW
+  controller: MRW
+1543.1.1:
+  owner: BNG
+  controller: BNG
+1553.1.1:
+  owner: DLH
+  controller: DLH
+  cores:
+    DLH: yes
+1558.1.1:
+  controller: MUG
+1558.2.1:
+  owner: MUG
+  cores:
+    DLH: no
+    MUG: yes
+1707.3.15:
+  controller: MEW
+1707.4.1:
+  owner: MRW
+  controller: MRW
+  cores:
+    MUG: no
+1756.1.1:
+  owner: GWA
+  controller: GWA
+  cores:
+    GWA: yes
+1818.6.3:
+  owner: GBR
+  controller: GBR
+  cores:
+    GWA: no
+    GBR: yes
+1930.1.1:
+  cores:
+    GWA: no
+    INDI: yes
+1947.8.15:
+  owner: INDI
+  controller: INDI
+  cores:
+    GBR: no

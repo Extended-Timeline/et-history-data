@@ -1,0 +1,323 @@
+mhr_shivaji_i_bhonsle:
+  1617.1.1:
+    birth: satara #TODO: Date and location guessed, check if better data is available
+    first_name: shivaji
+    dynasty: bhonsle_dynasty
+    adm: 60
+    dip: 60
+    mil: 90
+    religion: hindu
+    culture: marathi_culture
+  1680.4.3:
+    death: yes
+mhr_shambaji_bhonsle:
+  1657.5.14:
+    birth: satara #TODO: Location guessed, check if better data is available
+    first_name: shambaji
+    dynasty: bhonsle_dynasty
+    father: mhr_shivaji_i_bhonsle #TODO: check if this makes sense
+    adm: 30
+    dip: 30
+    mil: 60
+    religion: hindu
+    culture: marathi_culture
+  1689.3.11:
+    death: yes
+mhr_shambaji_bhonsle_1:
+  1650.1.1:
+    birth: satara #TODO: Date and location guessed, check if better data is available
+    first_name: shambaji
+    dynasty: bhonsle_dynasty
+    adm: 30
+    dip: 30
+    mil: 60
+    religion: hindu
+    culture: marathi_culture
+  1689.3.11:
+    death: yes
+mhr_rajaram_i_bhonsle:
+  1670.1.1:
+    birth: satara #TODO: Date and location guessed, check if better data is available
+    first_name: rajaram
+    dynasty: bhonsle_dynasty
+    father: mhr_shambaji_bhonsle_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 30
+    mil: 60
+    religion: hindu
+    culture: marathi_culture
+  1700.3.12:
+    death: yes
+mhr_rajaram_i_bhonsle_1:
+  1659.1.1:
+    birth: satara #TODO: Date and location guessed, check if better data is available
+    first_name: rajaram
+    dynasty: bhonsle_dynasty
+    adm: 45
+    dip: 30
+    mil: 60
+    religion: hindu
+    culture: marathi_culture
+  1700.3.12:
+    death: yes
+mhr_shivaji_ii_bhonsle:
+  1682.1.1:
+    birth: satara #TODO: Date and location guessed, check if better data is available
+    first_name: shivaji
+    dynasty: bhonsle_dynasty
+    father: mhr_rajaram_i_bhonsle_1 #TODO: check if this makes sense
+    adm: 75
+    dip: 15
+    mil: 45
+    religion: hindu
+    culture: marathi_culture
+  1749.1.1:
+    death: yes
+mhr_shivaji_ii_bhonsle_1:
+  1670.1.1:
+    birth: satara #TODO: Date and location guessed, check if better data is available
+    first_name: shivaji
+    dynasty: bhonsle_dynasty
+    adm: 75
+    dip: 15
+    mil: 45
+    religion: hindu
+    culture: marathi_culture
+  1707.10.10:
+    death: yes
+mhr_sahuji_bhonsle:
+  1680.1.1:
+    birth: satara #TODO: Date and location guessed, check if better data is available
+    first_name: sahuji
+    dynasty: bhonsle_dynasty
+    father: mhr_shivaji_ii_bhonsle_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 15
+    mil: 15
+    religion: hindu
+    culture: marathi_culture
+  1713.11.6:
+    death: yes
+mhr_sahuji_i_bhonsle:
+  1677.1.1:
+    birth: satara #TODO: Date and location guessed, check if better data is available
+    first_name: sahuji
+    dynasty: bhonsle_dynasty
+    adm: 45
+    dip: 15
+    mil: 15
+    religion: hindu
+    culture: marathi_culture
+  1713.11.6:
+    death: yes
+mhr_balaji_i_vishvanath_bhat:
+  1683.1.1:
+    birth: satara #TODO: Date and location guessed, check if better data is available
+    first_name: balaji_i_vishvanath
+    dynasty: bhat_dynasty
+    adm: 60
+    dip: 75
+    mil: 45
+    religion: hindu
+    culture: marathi_culture
+  1720.4.2:
+    death: yes
+mhr_baji_raoi_i_bhat:
+  1699.8.18:
+    birth: satara #TODO: Location guessed, check if better data is available
+    first_name: baji_raoi
+    dynasty: bhat_dynasty
+    father: mhr_balaji_i_vishvanath_bhat #TODO: check if this makes sense
+    adm: 45
+    dip: 90
+    mil: 75
+    religion: hindu
+    culture: marathi_culture
+  1740.4.28:
+    death: yes
+mhr_baji_rao_i_bhat:
+  1690.1.1:
+    birth: satara #TODO: Date and location guessed, check if better data is available
+    first_name: baji_rao
+    dynasty: bhat_dynasty
+    adm: 45
+    dip: 90
+    mil: 75
+    religion: hindu
+    culture: marathi_culture
+  1740.4.28:
+    death: yes
+mhr_balaji_ii_baji_rao_bhat:
+  1720.1.1:
+    birth: satara #TODO: Date and location guessed, check if better data is available
+    first_name: balaji_ii_baji_rao
+    dynasty: bhat_dynasty
+    father: mhr_baji_rao_i_bhat #TODO: check if this makes sense
+    adm: 60
+    dip: 60
+    mil: 60
+    religion: hindu
+    culture: marathi_culture
+  1761.6.23:
+    death: yes
+mhr_balaji_ii_baji_rao_bhat_1:
+  1710.1.1:
+    birth: satara #TODO: Date and location guessed, check if better data is available
+    first_name: balaji_ii_baji_rao
+    dynasty: bhat_dynasty
+    adm: 60
+    dip: 60
+    mil: 60
+    religion: hindu
+    culture: marathi_culture
+  1761.6.23:
+    death: yes
+mhr_madhu_rao_i_balai_bhat:
+  1745.2.15:
+    birth: satara #TODO: Location guessed, check if better data is available
+    first_name: madhu_rao_i_balai
+    dynasty: bhat_dynasty
+    father: mhr_balaji_ii_baji_rao_bhat_1 #TODO: check if this makes sense
+    adm: 60
+    dip: 30
+    mil: 45
+    religion: hindu
+    culture: marathi_culture
+  1772.11.18:
+    death: yes
+mhr_madhu_rao_i_balai_bhat_1:
+  1731.1.1:
+    birth: satara #TODO: Date and location guessed, check if better data is available
+    first_name: madhu_rao_i_balai
+    dynasty: bhat_dynasty
+    adm: 60
+    dip: 30
+    mil: 45
+    religion: hindu
+    culture: marathi_culture
+  1772.11.18:
+    death: yes
+mhr_narayan_rao_bhat:
+  1759.1.1:
+    birth: satara #TODO: Date and location guessed, check if better data is available
+    first_name: narayan_rao
+    dynasty: bhat_dynasty
+    father: mhr_madhu_rao_i_balai_bhat_1 #TODO: check if this makes sense
+    adm: 0
+    dip: 15
+    mil: 0
+    religion: hindu
+    culture: marathi_culture
+  1773.1.1:
+    death: yes
+mhr_narayan_rao_bhat_1:
+  1742.1.1:
+    birth: satara #TODO: Date and location guessed, check if better data is available
+    first_name: narayan_rao
+    dynasty: bhat_dynasty
+    adm: 0
+    dip: 15
+    mil: 0
+    religion: hindu
+    culture: marathi_culture
+  1773.8.30:
+    death: yes
+mhr_ragunath_rao_bhat:
+  1750.1.1:
+    birth: satara #TODO: Date and location guessed, check if better data is available
+    first_name: ragunath_rao
+    dynasty: bhat_dynasty
+    father: mhr_narayan_rao_bhat_1 #TODO: check if this makes sense
+    adm: 0
+    dip: 0
+    mil: 30
+    religion: hindu
+    culture: marathi_culture
+  1782.5.17:
+    death: yes
+mhr_ragunath_rao_bhat_1:
+  1743.1.1:
+    birth: satara #TODO: Date and location guessed, check if better data is available
+    first_name: ragunath_rao
+    dynasty: bhat_dynasty
+    adm: 0
+    dip: 0
+    mil: 30
+    religion: hindu
+    culture: marathi_culture
+  1782.5.17:
+    death: yes
+mhr_madhu_rao_ii_bhat:
+  1760.1.1:
+    birth: satara #TODO: Date and location guessed, check if better data is available
+    first_name: madhu_rao
+    dynasty: bhat_dynasty
+    father: mhr_ragunath_rao_bhat_1 #TODO: check if this makes sense
+    adm: 0
+    dip: 15
+    mil: 15
+    religion: hindu
+    culture: marathi_culture
+  1796.1.1:
+    death: yes
+mhr_madhu_rao_ii_bhat_1:
+  1752.1.1:
+    birth: satara #TODO: Date and location guessed, check if better data is available
+    first_name: madhu_rao
+    dynasty: bhat_dynasty
+    adm: 0
+    dip: 15
+    mil: 15
+    religion: hindu
+    culture: marathi_culture
+  1796.1.1:
+    death: yes
+mhr_baji_rao_bhat:
+  1760.1.1:
+    birth: satara #TODO: Date and location guessed, check if better data is available
+    first_name: baji_rao
+    dynasty: bhat_dynasty
+    father: mhr_madhu_rao_ii_bhat_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 30
+    mil: 15
+    religion: hindu
+    culture: marathi_culture
+  1808.1.1:
+    death: yes
+mhr_baji_rao_bhat_1:
+  1766.1.1:
+    birth: satara #TODO: Date and location guessed, check if better data is available
+    first_name: baji_rao
+    dynasty: bhat_dynasty
+    adm: 30
+    dip: 30
+    mil: 15
+    religion: hindu
+    culture: marathi_culture
+  1808.5.3:
+    death: yes
+mhr_pratap_singh_bhonsle:
+  1793.1.18:
+    birth: satara #TODO: Location guessed, check if better data is available
+    first_name: pratap_singh
+    dynasty: bhonsle_dynasty
+    adm: 45
+    dip: 15
+    mil: 30
+    religion: hindu
+    culture: marathi_culture
+  1839.1.1:
+    death: yes
+mhr_shahaji_bhonsle:
+  1802.1.1:
+    birth: satara #TODO: Date and location guessed, check if better data is available
+    first_name: shahaji
+    dynasty: bhonsle_dynasty
+    adm: 30
+    dip: 30
+    mil: 45
+    religion: hindu
+    culture: marathi_culture
+  1848.4.5:
+    death: yes

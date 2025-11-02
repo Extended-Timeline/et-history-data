@@ -1,0 +1,62 @@
+#imported from EU4 file: history/provinces/376 - Connaught.txt
+2.1.1:
+  owner: CNN
+  controller: CNN
+  cores:
+    CNN: yes
+  resource: livestock
+  pop:
+    ethnicity: irish
+    religion: druidism
+    estate: peasant
+    size: 1000
+700.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+867.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+1005.1.1:
+  owner: IRE
+  controller: IRE
+  cores:
+    IRE: yes
+1014.4.23:
+  owner: CNN
+  controller: CNN
+  cores:
+    IRE: no
+1635.1.1:
+  owner: ENG
+  controller: ENG
+  cores:
+    ENG: yes
+1642.6.7:
+  owner: IRE
+  controller: IRE
+  cores:
+    IRE: yes
+1652.4.1:
+  owner: ENG
+  controller: ENG
+1691.9.23:
+  controller: ENG
+1707.5.12:
+  owner: GBR
+  controller: GBR
+  cores:
+    ENG: no
+    GBR: yes
+1798.9.8:
+  controller: GBR
+1919.1.21:
+  owner: IRE
+  controller: IRE
+1922.12.7:
+  cores:
+    GBR: no
+    CNN: no

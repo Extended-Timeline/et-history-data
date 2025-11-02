@@ -1,0 +1,89 @@
+#imported from EU4 file: history/provinces/4467 - Kalinjar.txt
+2.1.1:
+  owner: DASA
+  controller: DASA
+  cores:
+    DASA: yes
+  resource: gems
+  pop:
+    ethnicity: bundeli
+    religion: hindu
+    estate: peasant
+    size: 1000
+360.1.1:
+  owner: BGK
+  controller: BGK
+  cores:
+    DASA: no
+    BGK: yes
+533.1.1:
+  owner: GUPT
+  controller: GUPT
+  cores:
+    GUPT: yes
+600.1.1:
+  owner: KANN
+  controller: KANN
+  cores:
+    GUPT: no
+    KANN: yes
+620.1.1:
+  owner: PUSH
+  controller: PUSH
+  cores:
+    PUSH: yes
+647.1.1:
+  owner: KANN
+  controller: KANN
+  cores:
+    PUSH: no
+750.1.1:
+  owner: PALA
+  controller: PALA
+  cores:
+    KANN: no
+    PALA: yes
+836.1.1:
+  owner: GURJ
+  controller: GURJ
+  cores:
+    PALA: no
+    GURJ: yes
+860.1.1:
+  owner: BND
+  controller: BND
+  cores:
+    GURJ: no
+    BND: yes
+1315.1.1:
+  owner: PANN
+  controller: PANN
+  cores:
+    BND: no
+    PANN: yes
+1542.1.1:
+  owner: GOND
+  controller: GOND
+  cores:
+    GOND: yes
+1576.1.1:
+  controller: MUG
+1577.1.1:
+  owner: BND
+  controller: BND
+  cores:
+    BND: yes
+1671.1.1:
+  owner: PANN
+  controller: PANN
+  cores:
+    BND: no
+    PANN: yes
+1930.1.1:
+  cores:
+    INDI: yes
+1950.1.1:
+  owner: INDI
+  controller: INDI
+  cores:
+    PANN: no

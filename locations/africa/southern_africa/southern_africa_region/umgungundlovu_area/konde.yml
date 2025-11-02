@@ -1,0 +1,33 @@
+#imported from EU4 file: history/provinces/789 - Zululand.txt
+2.1.1:
+  pop:
+    ethnicity: kung_culture
+    religion: bantu_religion
+    estate: peasant
+    size: 1000
+100.1.1:
+  pop:
+    ethnicity: nguni_culture
+    estate: peasant
+    size: 1000
+1727.1.1:
+  owner: ZULU
+  controller: ZULU
+  cores:
+    ZULU: yes
+  resource: ivory
+1883.1.29:
+  owner: GBR
+  controller: GBR
+  cores:
+    GBR: yes
+  pop:
+    religion: lutheran
+    estate: peasant
+    size: 1000
+1910.3.31:
+  owner: SAFR
+  controller: SAFR
+  cores:
+    GBR: no
+    SAFR: yes

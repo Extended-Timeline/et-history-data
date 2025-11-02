@@ -1,0 +1,110 @@
+#imported from EU4 file: history/provinces/55 - Oldenburg.txt
+2.1.1:
+  owner: CHCI
+  controller: CHCI
+  cores:
+    CHCI: yes
+  resource: salt
+  pop:
+    ethnicity: eastphalian
+    religion: germanic
+    estate: peasant
+    size: 1000
+500.1.1:
+  owner: FRI
+  controller: FRI
+  cores:
+    CHCI: no
+    FRI: yes
+  pop:
+    ethnicity: frisian
+    estate: peasant
+    size: 1000
+734.1.1:
+  owner: FRAN
+  controller: FRAN
+  cores:
+    FRAN: yes
+800.1.1:
+  pop:
+    ethnicity: lower_saxon
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+839.1.1:
+  owner: FRI
+  controller: FRI
+  cores:
+    FRAN: no
+    FRI: yes
+867.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+896.1.1:
+  owner: EFRI
+  controller: EFRI
+  cores:
+    FRI: no
+    EFRI: yes
+1091.1.1:
+  owner: OLD
+  controller: OLD
+  cores:
+    EFRI: no
+    OLD: yes
+1448.9.1:
+  owner: DAN
+  controller: DAN
+  cores:
+    DAN: yes
+1454.1.1:
+  owner: OLD
+  controller: OLD
+  cores:
+    DAN: no
+1531.1.1:
+  pop:
+    religion: lutheran
+    estate: peasant
+    size: 1000
+1667.1.1:
+  owner: DAN
+  controller: DAN
+  cores:
+    DAN: yes
+1773.1.1:
+  owner: OLD
+  controller: OLD
+  cores:
+    DAN: no
+1810.1.1:
+  owner: FRA
+  controller: FRA
+  cores:
+    FRA: yes
+1813.1.1:
+  owner: OLD
+  controller: OLD
+  cores:
+    FRA: no
+    OLD: yes
+1871.1.18:
+  owner: GER
+  controller: GER
+  cores:
+    GER: yes
+1900.1.1:
+  cores:
+    OLD: no
+1945.5.8:
+  owner: WGER
+  controller: WGER
+  cores:
+    WGER: yes
+1990.10.3:
+  owner: GER
+  controller: GER
+  cores:
+    WGER: no

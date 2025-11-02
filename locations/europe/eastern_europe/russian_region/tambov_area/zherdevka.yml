@@ -1,0 +1,117 @@
+#imported from EU4 file: history/provinces/302 - Tambow.txt
+2.1.1:
+  pop:
+    ethnicity: hungarian
+    religion: 
+    estate: peasant
+    size: 1000
+600.1.1:
+  owner: HUN
+  controller: HUN
+  cores:
+    HUN: yes
+  resource: iron
+750.1.1:
+  owner: BURT
+  controller: BURT
+  cores:
+    HUN: no
+    BURT: yes
+  pop:
+    ethnicity: moksha_culture
+    estate: peasant
+    size: 1000
+940.1.1:
+  pop:
+    ethnicity: cuman_culture
+    estate: peasant
+    size: 1000
+969.1.1:
+  owner: PECH
+  controller: PECH
+  cores:
+    BURT: no
+    PECH: yes
+1055.1.1:
+  owner: CUMA
+  controller: CUMA
+  cores:
+    PECH: no
+    CUMA: yes
+1220.1.1:
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+1237.1.1:
+  owner: MGE
+  controller: MGE
+  cores:
+    CUMA: no
+    MGE: yes
+  pop:
+    ethnicity: mishar
+    estate: peasant
+    size: 1000
+1260.1.1:
+  owner: WHHO
+  controller: WHHO
+  cores:
+    MGE: no
+    WHHO: yes
+1372.1.1:
+  owner: BLHO
+  controller: BLHO
+  cores:
+    BLHO: yes
+1374.1.1:
+  owner: WHHO
+  controller: WHHO
+  cores:
+    BLHO: no
+1378.1.1:
+  owner: GLH
+  controller: GLH
+  cores:
+    GLH: yes
+1441.1.1:
+  cores:
+    CRIM: yes
+1442.1.1:
+  owner: GRHO
+  controller: GRHO
+  cores:
+    GLH: no
+    GRHO: yes
+1502.6.1:
+  owner: CRIM
+  controller: CRIM
+  cores:
+    GRHO: no
+1572.8.2:
+  owner: RUS
+  controller: RUS
+  cores:
+    CRIM: no
+    RUS: yes
+1650.1.1:
+  pop:
+    ethnicity: muscovite
+    religion: orthodox
+    estate: peasant
+    size: 1000
+1850.1.1:
+  cores:
+    CRIM: no
+1922.12.30:
+  owner: SOVI
+  controller: SOVI
+  cores:
+    RUS: no
+    SOVI: yes
+1991.12.25:
+  owner: RUS
+  controller: RUS
+  cores:
+    SOVI: no
+    RUS: yes

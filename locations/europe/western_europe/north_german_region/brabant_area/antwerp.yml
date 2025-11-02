@@ -1,0 +1,220 @@
+#imported from EU4 file: history/provinces/1744 - Antwerpen.txt
+2.1.1:
+  owner: ROM
+  controller: ROM
+  cores:
+    ROM: yes
+  resource: fish
+  pop:
+    ethnicity: belgae
+    religion: germanic
+    estate: peasant
+    size: 1000
+260.1.1:
+  cores:
+    GALL: yes
+  pop:
+    ethnicity: gallian
+    estate: peasant
+    size: 1000
+274.1.1:
+  controller: ROM
+  cores:
+    GALL: no
+  pop:
+    ethnicity: flemish
+    estate: peasant
+    size: 1000
+358.1.1:
+  owner: FRAN
+  controller: FRAN
+  cores:
+    ROM: no
+    FRAN: yes
+380.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+480.6.1:
+  cores:
+    ROMW: no
+511.11.27:
+  owner: SOIS
+  controller: SOIS
+  cores:
+    SOIS: yes
+558.12.23:
+  owner: FRAN
+  controller: FRAN
+  cores:
+    FRAN: yes
+561.11.29:
+  owner: SOIS
+  controller: SOIS
+567.12.1:
+  owner: NEUS
+  controller: NEUS
+  cores:
+    SOIS: no
+    NEUS: yes
+600.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+613.10.10:
+  owner: FRAN
+  controller: FRAN
+  cores:
+    NEUS: no
+    FRAN: yes
+634.1.1:
+  owner: NEUS
+  controller: NEUS
+679.12.23:
+  owner: FRAN
+  controller: FRAN
+700.1.1:
+  resource: glass
+840.6.21:
+  owner: MFRA
+  controller: MFRA
+  cores:
+    FRAN: no
+    MFRA: yes
+855.9.30:
+  owner: LOT
+  controller: LOT
+  cores:
+    MFRA: no
+    LOT: yes
+867.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+870.8.8:
+  owner: WFRA
+  controller: WFRA
+  cores:
+    WFRA: yes
+880.1.1:
+  owner: EFRA
+  controller: EFRA
+  cores:
+    WFRA: no
+    EFRA: yes
+911.11.10:
+  owner: LOT
+  controller: LOT
+  cores:
+    EFRA: no
+1183.1.1:
+  owner: BRB
+  controller: BRB
+  cores:
+    LOT: no
+    BRB: yes
+1477.1.5:
+  owner: HAB
+  controller: HAB
+  cores:
+    HAB: yes
+1519.1.12:
+  owner: SPA
+  controller: SPA
+  cores:
+    HAB: no
+    SPA: yes
+1549.11.4:
+  owner: NED
+  controller: NED
+  cores:
+    SPA: no
+    NED: yes
+1572.1.1:
+  pop:
+    religion: calvinist
+    estate: peasant
+    size: 1000
+1585.8.27:
+  controller: SPA
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+1600.7.2:
+  controller: NED
+1604.1.1:
+  controller: SPA
+1648.1.30:
+  owner: SPA
+  cores:
+    NED: no
+    SPA: yes
+1672.5.1:
+  controller: FRA
+1678.9.19:
+  controller: SPA
+1706.6.1:
+  controller: ENG
+1707.5.12:
+  controller: GBR
+1713.4.11:
+  owner: HAB
+  controller: HAB
+  cores:
+    SPA: no
+    HAB: yes
+1744.4.1:
+  controller: FRA
+1744.7.1:
+  controller: HAB
+1745.5.10:
+  controller: FRA
+1748.10.18:
+  controller: HAB
+1792.12.1:
+  controller: FRA
+1793.3.18:
+  controller: HAB
+1795.5.16:
+  owner: FRA
+  controller: FRA
+  cores:
+    HAB: no
+    FRA: yes
+1798.12.1:
+  controller: FRA
+1815.3.16:
+  owner: NED
+  controller: NED
+  cores:
+    FRA: no
+    NED: yes
+1830.8.25:
+  cores:
+    BEL: yes
+1831.7.21:
+  owner: BEL
+1832.12.23:
+  controller: BEL
+1839.4.19:
+  cores:
+    NED: no
+1900.1.1:
+  cores:
+    FLA: no
+1914.10.10:
+  controller: GER
+1919.6.28:
+  controller: BEL
+1940.5.28:
+  owner: GER
+  controller: GER
+1944.9.4:
+  controller: GBR
+1945.5.8:
+  owner: BEL
+  controller: BEL

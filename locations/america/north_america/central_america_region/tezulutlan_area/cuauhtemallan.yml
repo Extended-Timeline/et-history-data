@@ -1,0 +1,54 @@
+#imported from EU4 file: history/provinces/2653 - Iximche.txt
+2.1.1:
+  owner: KAMI
+  controller: KAMI
+  cores:
+    KAMI: yes
+  resource: gems
+  pop:
+    ethnicity: kiche_culture
+    religion: mayan
+    estate: peasant
+    size: 1000
+1194.1.1:
+  owner: KAQ
+  controller: KAQ
+  cores:
+    KAMI: no
+    KAQ: yes
+1524.1.1:
+  owner: SPA
+  controller: SPA
+  pop:
+    ethnicity: castilian
+    religion: catholic
+    estate: peasant
+    size: 1000
+1549.1.1:
+  cores:
+    SPA: yes
+1770.1.1:
+  pop:
+    ethnicity: mexican
+    estate: peasant
+    size: 1000
+1810.9.16:
+  owner: MEX
+  controller: SPA
+  cores:
+    MEX: yes
+1821.9.27:
+  controller: MEX
+1823.7.1:
+  owner: UPCA
+  controller: UPCA
+  cores:
+    MEX: no
+    UPCA: yes
+    GUAT: yes
+1838.5.31:
+  owner: GUAT
+  controller: GUAT
+  cores:
+    UPCA: no
+    SPA: no

@@ -1,0 +1,82 @@
+#imported from EU4 file: history/provinces/4474 - Sonargaon.txt
+2.1.1:
+  owner: SAMT
+  controller: SAMT
+  cores:
+    SAMT: yes
+  resource: cloth
+  pop:
+    ethnicity: bengali
+    religion: mahayana
+    estate: peasant
+    size: 1000
+1180.1.1:
+  owner: GAUD
+  controller: GAUD
+  cores:
+    SAMT: no
+    GAUD: yes
+  pop:
+    religion: hindu
+    estate: peasant
+    size: 1000
+1230.1.1:
+  owner: SAMT
+  controller: SAMT
+  cores:
+    GAUD: no
+    SAMT: yes
+1320.1.1:
+  owner: BNG
+  controller: BNG
+  cores:
+    BNG: yes
+1324.1.1:
+  owner: DLH
+  controller: DLH
+  cores:
+    DLH: yes
+1338.1.1:
+  owner: BNG
+  controller: BNG
+  cores:
+    DLH: no
+1560.1.1:
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+1576.7.12:
+  owner: MUG
+  controller: MUG
+  cores:
+    MUG: yes
+1624.1.1:
+  controller: MUG
+1658.12.28:
+  controller: MUG
+1707.3.15:
+  owner: BNG
+  controller: BNG
+  cores:
+    MUG: no
+1760.1.1:
+  owner: GBR
+  controller: GBR
+  cores:
+    GBR: yes
+1930.12.29:
+  cores:
+    BNG: no
+    PAKI: yes
+    BANG: yes
+1947.8.14:
+  owner: PAKI
+  controller: PAKI
+  cores:
+    GBR: no
+1971.3.26:
+  owner: BANG
+  controller: BANG
+  cores:
+    PAKI: no

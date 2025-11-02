@@ -1,0 +1,57 @@
+#imported from EU4 file: history/provinces/2514 - Michigamea.txt
+2.1.1:
+  pop:
+    ethnicity: cahokia_culture
+    religion: iroquoian_totemism
+    estate: peasant
+    size: 1000
+1724.1.1:
+  owner: FRA
+  controller: FRA
+  cores:
+    FRA: yes
+  resource: grain
+  pop:
+    ethnicity: french
+    religion: catholic
+    estate: peasant
+    size: 1000
+1762.1.1:
+  owner: SPA
+  controller: SPA
+  cores:
+    FRA: no
+1770.1.1:
+  pop:
+    ethnicity: french_louisianan
+    estate: peasant
+    size: 1000
+1787.1.1:
+  cores:
+    SPA: yes
+1800.10.1:
+  owner: FRA
+  controller: FRA
+  cores:
+    SPA: no
+    FRA: yes
+  pop:
+    ethnicity: french
+    estate: peasant
+    size: 1000
+1803.4.3:
+  owner: USA
+  controller: USA
+  cores:
+    FRA: no
+    USA: yes
+1820.1.1:
+  pop:
+    ethnicity: american
+    estate: peasant
+    size: 1000
+1830.1.1:
+  pop:
+    religion: lutheran
+    estate: peasant
+    size: 1000

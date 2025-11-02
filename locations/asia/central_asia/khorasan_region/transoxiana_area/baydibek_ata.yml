@@ -1,0 +1,179 @@
+#imported from EU4 file: history/provinces/1969 - Sozak.txt
+2.1.1:
+  owner: KAGJ
+  controller: KAGJ
+  cores:
+    KAGJ: yes
+  resource: salt
+  pop:
+    ethnicity: khazak
+    religion: 
+    estate: peasant
+    size: 1000
+320.1.1:
+  owner: KIDA
+  controller: KIDA
+  cores:
+    KAGJ: no
+    KIDA: yes
+380.1.1:
+  owner: HEPH
+  controller: HEPH
+  cores:
+    KIDA: no
+    HEPH: yes
+567.1.1:
+  owner: GOKT
+  controller: GOKT
+  cores:
+    HEPH: no
+    GOKT: yes
+593.1.1:
+  owner: WGOK
+  controller: WGOK
+  cores:
+    GOKT: no
+    WGOK: yes
+659.1.1:
+  owner: CHAC
+  controller: CHAC
+  cores:
+    WGOK: no
+    CHAC: yes
+740.1.1:
+  owner: UMAY
+  controller: UMAY
+  cores:
+    UMAY: yes
+750.8.6:
+  owner: ABBA
+  controller: ABBA
+  cores:
+    UMAY: no
+    ABBA: yes
+819.1.1:
+  owner: CHAC
+  controller: CHAC
+  cores:
+    ABBA: no
+    CHAC: yes
+855.1.1:
+  owner: KOKA
+  controller: KOKA
+  cores:
+    KOKA: yes
+860.1.1:
+  owner: KKHA
+  controller: KKHA
+  cores:
+    KOKA: no
+    KKHA: yes
+934.1.1:
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+991.1.1:
+  owner: TRAN
+  controller: TRAN
+  cores:
+    KKHA: no
+    TRAN: yes
+1211.1.1:
+  owner: KKHI
+  controller: KKHI
+  cores:
+    KKHI: yes
+1219.1.1:
+  owner: MGE
+  controller: MGE
+  cores:
+    KKHI: no
+    MGE: yes
+1260.1.1:
+  owner: CHG
+  controller: CHG
+  cores:
+    MGE: no
+    CHG: yes
+1347.1.1:
+  owner: TRAN
+  controller: TRAN
+  cores:
+    CHG: no
+    TRAN: yes
+1360.1.1:
+  owner: MOGH
+  controller: MOGH
+  cores:
+    MOGH: yes
+1363.1.1:
+  owner: TRAN
+  controller: TRAN
+  cores:
+    MOGH: no
+    TRAN: yes
+1370.1.1:
+  owner: TIM
+  controller: TIM
+  cores:
+    TIM: yes
+1409.5.13:
+  owner: TRAN
+  controller: TRAN
+  cores:
+    TRAN: yes
+1428.1.1:
+  owner: SHAY
+  controller: SHAY
+  cores:
+    TIM: no
+    KAZA: yes
+1465.1.1:
+  owner: KAZA
+  controller: KAZA
+  cores:
+    SHAY: no
+1723.1.1:
+  owner: ZUNG
+  controller: ZUNG
+1728.1.1:
+  owner: KAZA
+  controller: KAZA
+1740.1.1:
+  owner: ZUNG
+  controller: ZUNG
+1755.1.1:
+  owner: KAZA
+  controller: KAZA
+1853.1.1:
+  owner: RUS
+  controller: RUS
+  cores:
+    RUS: yes
+1917.11.27:
+  owner: TUKS
+  controller: TUKS
+  cores:
+    TUKS: yes
+1917.12.13:
+  cores:
+    KAZA: no
+    KAZK: yes
+1918.2.22:
+  owner: RUS
+  controller: RUS
+  cores:
+    TUKS: no
+1922.12.30:
+  owner: SOVI
+  controller: SOVI
+  cores:
+    RUS: no
+    SOVI: yes
+1991.12.16:
+  owner: KAZK
+  controller: KAZK
+  cores:
+    SOVI: no
+    RUS: no

@@ -1,0 +1,103 @@
+#imported from EU4 file: history/provinces/525 - Gird.txt
+2.1.1:
+  owner: PADM
+  controller: PADM
+  cores:
+    PADM: yes
+  resource: dyes
+  pop:
+    ethnicity: bundeli
+    religion: hindu
+    estate: peasant
+    size: 1000
+360.1.1:
+  owner: GUPT
+  controller: GUPT
+  cores:
+    GUPT: yes
+606.1.1:
+  owner: PUSH
+  controller: PUSH
+  cores:
+    GUPT: no
+    PUSH: yes
+647.1.1:
+  owner: GURJ
+  controller: GURJ
+  cores:
+    PUSH: no
+    GURJ: yes
+1036.1.1:
+  owner: CHAU
+  controller: CHAU
+  cores:
+    GURJ: no
+    CHAU: yes
+1192.1.1:
+  owner: MLW
+  controller: MLW
+  cores:
+    CHAU: no
+    MLW: yes
+1226.1.1:
+  owner: GWA
+  controller: GWA
+  cores:
+    MLW: no
+    GWA: yes
+1231.1.1:
+  owner: DLH
+  controller: DLH
+  cores:
+    DLH: yes
+1375.1.1:
+  owner: GWA
+  controller: GWA
+  cores:
+    DLH: no
+    GWA: yes
+1518.5.1:
+  owner: DLH
+  controller: DLH
+1526.4.21:
+  owner: GWA
+  controller: GWA
+1527.1.1:
+  owner: MUG
+  controller: MUG
+  cores:
+    MUG: yes
+1540.1.1:
+  owner: GWA
+  controller: GWA
+1543.1.1:
+  owner: BNG
+  controller: BNG
+  cores:
+    BNG: yes
+1553.1.1:
+  owner: DLH
+  controller: DLH
+  cores:
+    BNG: no
+1558.1.1:
+  controller: MUG
+1558.2.1:
+  owner: MUG
+1622.8.1:
+  controller: MUG
+1658.6.8:
+  controller: MUG
+1737.1.1:
+  owner: GWA
+  controller: GWA
+  cores:
+    MUG: no
+1930.1.1:
+  cores:
+    INDI: yes
+1947.8.15:
+  owner: INDI
+  controller: INDI
+  cores:
+    GWA: no

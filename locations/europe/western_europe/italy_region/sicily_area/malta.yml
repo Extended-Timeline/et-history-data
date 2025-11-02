@@ -1,0 +1,113 @@
+#imported from EU4 file: history/provinces/126 - Malta.txt
+2.1.1:
+  owner: ROM
+  controller: ROM
+  cores:
+    ROM: yes
+  resource: fish
+  pop:
+    ethnicity: griko_culture
+    religion: hellenism_religion
+    estate: peasant
+    size: 1000
+395.1.17:
+  owner: ROMW
+  controller: ROMW
+  cores:
+    ROM: no
+    ROMW: yes
+454.1.1:
+  owner: VAND
+  controller: VAND
+  cores:
+    ROMW: no
+    VAND: yes
+489.1.1:
+  owner: OSTR
+  controller: OSTR
+  cores:
+    VAND: no
+    OSTR: yes
+500.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+533.1.1:
+  owner: BYZ
+  controller: BYZ
+  cores:
+    OSTR: no
+    BYZ: yes
+867.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+870.1.1:
+  owner: SICI
+  controller: SICI
+  cores:
+    SICI: yes
+  pop:
+    ethnicity: maltese
+    estate: peasant
+    size: 1000
+880.1.1:
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+1048.1.1:
+  owner: BYZ
+  controller: BYZ
+  cores:
+    SICI: no
+1091.1.1:
+  owner: SIC
+  controller: SIC
+  cores:
+    BYZ: no
+    SIC: yes
+    NAP: yes
+1127.1.1:
+  controller: SIC
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+1409.7.25:
+  owner: ARA
+  controller: ARA
+  cores:
+    ARA: yes
+1516.1.23:
+  owner: SPA
+  controller: SPA
+  cores:
+    ARA: no
+    SPA: yes
+1530.1.1:
+  owner: KNI
+  controller: KNI
+  cores:
+    SPA: no
+    KNI: yes
+1798.6.9:
+  controller: FRA
+1800.1.1:
+  controller: KNI
+1814.5.30:
+  owner: GBR
+  controller: GBR
+  cores:
+    GBR: yes
+1921.1.1:
+  cores:
+    KNI: no
+    MALT: yes
+1964.9.21:
+  owner: MALT
+  controller: MALT
+  cores:
+    GBR: no

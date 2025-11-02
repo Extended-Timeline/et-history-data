@@ -1,0 +1,167 @@
+#imported from EU4 file: history/provinces/4770 - sHertogenbosch.txt
+2.1.1:
+  owner: ROM
+  controller: ROM
+  cores:
+    ROM: yes
+  resource: cloth
+  pop:
+    ethnicity: frankish
+    religion: germanic
+    estate: peasant
+    size: 1000
+260.1.1:
+  cores:
+    GALL: yes
+  pop:
+    ethnicity: gallian
+    estate: peasant
+    size: 1000
+274.1.1:
+  controller: ROM
+  cores:
+    GALL: no
+  pop:
+    ethnicity: frankish
+    estate: peasant
+    size: 1000
+358.1.1:
+  owner: FRAN
+  controller: FRAN
+  cores:
+    ROM: no
+    FRAN: yes
+400.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+500.1.1:
+  pop:
+    ethnicity: low_franconian
+    estate: peasant
+    size: 1000
+511.11.27:
+  owner: SOIS
+  controller: SOIS
+  cores:
+    SOIS: yes
+558.12.23:
+  owner: FRAN
+  controller: FRAN
+  cores:
+    SOIS: no
+    FRAN: yes
+561.11.29:
+  owner: ASTS
+  controller: ASTS
+  cores:
+    ASTS: yes
+613.10.10:
+  owner: FRAN
+  controller: FRAN
+  cores:
+    ASTS: no
+    FRAN: yes
+634.1.1:
+  owner: NEUS
+  controller: NEUS
+  cores:
+    NEUS: yes
+679.12.23:
+  owner: FRAN
+  controller: FRAN
+840.6.21:
+  owner: MFRA
+  controller: MFRA
+  cores:
+    FRAN: no
+    MFRA: yes
+855.9.30:
+  owner: LOT
+  controller: LOT
+  cores:
+    MFRA: no
+    LOT: yes
+867.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+870.8.8:
+  owner: WFRA
+  controller: WFRA
+  cores:
+    WFRA: yes
+880.1.1:
+  owner: EFRA
+  controller: EFRA
+  cores:
+    WFRA: no
+    EFRA: yes
+911.11.10:
+  owner: LOT
+  controller: LOT
+  cores:
+    EFRA: no
+1100.1.1:
+  resource: paper
+1183.1.1:
+  owner: BRB
+  controller: BRB
+  cores:
+    LOT: no
+    BRB: yes
+1477.1.5:
+  owner: HAB
+  controller: HAB
+  cores:
+    HAB: yes
+1519.1.12:
+  owner: SPA
+  controller: SPA
+  cores:
+    HAB: no
+    SPA: yes
+1549.11.4:
+  cores:
+    SPA: no
+    NED: yes
+1629.1.1:
+  owner: NED
+  controller: NED
+1672.5.15:
+  controller: FRA
+1678.8.10:
+  controller: NED
+1747.9.18:
+  controller: FRA
+1748.10.18:
+  controller: NED
+1810.7.10:
+  owner: FRA
+  controller: FRA
+  cores:
+    FRA: yes
+1813.11.30:
+  owner: NED
+  controller: NED
+  cores:
+    FRA: no
+1900.1.1:
+  cores:
+    BRB: no
+1940.5.14:
+  controller: GER
+1940.5.17:
+  owner: GER
+1944.10.29:
+  controller: GBR
+1945.5.5:
+  owner: NED
+  controller: NED
+2020.1.1:
+  pop:
+    religion: irreligious
+    estate: peasant
+    size: 1000

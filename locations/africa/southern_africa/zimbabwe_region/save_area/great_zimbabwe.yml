@@ -1,0 +1,68 @@
+#imported from EU4 file: history/provinces/1184 - Zimbabwe.txt
+2.1.1:
+  pop:
+    ethnicity: shuar_culture
+    religion: bantu_religion
+    estate: peasant
+    size: 1000
+300.1.1:
+  pop:
+    ethnicity: shona_culture
+    estate: peasant
+    size: 1000
+1220.1.1:
+  owner: ZMW
+  controller: ZMW
+  cores:
+    ZMW: yes
+  resource: gold
+1480.1.1:
+  owner: MUTA
+  controller: MUTA
+  cores:
+    ZMW: no
+    MUTA: yes
+1660.1.1:
+  owner: MANI
+  controller: MANI
+  cores:
+    MUTA: no
+    MANI: yes
+1695.1.1:
+  owner: RZW
+  controller: RZW
+  cores:
+    MANI: no
+    RZW: yes
+1771.1.1:
+  resource: ivory
+1866.1.1:
+  owner: MATB
+  controller: MATB
+  cores:
+    BUTU: no
+    MATB: yes
+1894.1.1:
+  owner: GBR
+  controller: GBR
+  cores:
+    GBR: yes
+1900.1.1:
+  pop:
+    religion: lutheran
+    estate: peasant
+    size: 1000
+1965.11.11:
+  owner: RHOD
+  controller: RHOD
+  cores:
+    GBR: no
+    MUTA: no
+    RHOD: yes
+    ZMW: yes
+1980.4.18:
+  owner: ZMW
+  controller: ZMW
+  cores:
+    RHOD: no
+    ZMW: yes

@@ -1,0 +1,65 @@
+#imported from EU4 file: history/provinces/630 - Sunda.txt
+2.1.1:
+  pop:
+    ethnicity: sundanese_culture
+    religion: hindu
+    estate: peasant
+    size: 1000
+130.1.1:
+  owner: SALA
+  controller: SALA
+  cores:
+    SALA: yes
+  resource: spices
+358.1.1:
+  owner: TARU
+  controller: TARU
+  cores:
+    SALA: no
+    TARU: yes
+669.1.1:
+  owner: SUN
+  controller: SUN
+  cores:
+    TARU: no
+    SUN: yes
+1527.1.1:
+  owner: BAN
+  controller: BAN
+  cores:
+    SUN: no
+    BAN: yes
+1540.1.1:
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+1619.5.30:
+  owner: NED
+  controller: NED
+1644.1.1:
+  cores:
+    NED: yes
+1880.1.1:
+  pop:
+    ethnicity: javanese_culture
+    estate: peasant
+    size: 1000
+1912.9.10:
+  cores:
+    BAN: no
+    INDN: yes
+1942.3.1:
+  controller: JAP
+1942.3.9:
+  owner: JAP
+1945.8.15:
+  owner: NED
+1945.8.17:
+  owner: INDN
+  controller: INDN
+1949.12.27:
+  cores:
+    NED: no
+1980.1.1:
+  resource: cars

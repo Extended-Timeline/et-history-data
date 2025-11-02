@@ -1,0 +1,67 @@
+#imported from EU4 file: history/provinces/4252 - Kolomna.txt
+2.1.1:
+  pop:
+    ethnicity: meschera_culture
+    religion: muinaisusko
+    estate: peasant
+    size: 1000
+600.1.1:
+  owner: MESC
+  controller: MESC
+  cores:
+    MESC: yes
+  resource: livestock
+980.1.1:
+  owner: KIEV
+  controller: KIEV
+  cores:
+    MESC: no
+    KIEV: yes
+1000.1.1:
+  pop:
+    ethnicity: muscovite
+    estate: peasant
+    size: 1000
+1054.2.20:
+  owner: VLR
+  controller: VLR
+  cores:
+    KIEV: no
+    VLR: yes
+1150.1.1:
+  pop:
+    religion: orthodox
+    estate: peasant
+    size: 1000
+1283.1.1:
+  owner: MOS
+  controller: MOS
+  cores:
+    VLR: no
+    MOS: yes
+1503.4.1:
+  owner: RUS
+  controller: RUS
+  cores:
+    MOS: no
+    RUS: yes
+1610.9.27:
+  controller: PLC
+1612.11.4:
+  controller: RUS
+1812.9.15:
+  controller: FRA
+1812.10.19:
+  controller: RUS
+1922.12.30:
+  owner: SOVI
+  controller: SOVI
+  cores:
+    RUS: no
+    SOVI: yes
+1991.12.25:
+  owner: RUS
+  controller: RUS
+  cores:
+    SOVI: no
+    RUS: yes

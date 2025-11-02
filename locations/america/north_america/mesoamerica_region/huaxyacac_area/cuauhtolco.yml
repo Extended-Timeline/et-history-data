@@ -1,0 +1,34 @@
+#imported from EU4 file: history/provinces/847 - Mixtec.txt
+2.1.1:
+  owner: MIX
+  controller: MIX
+  cores:
+    MIX: yes
+  resource: grain
+  pop:
+    ethnicity: mixtec_culture
+    religion: nahuatl
+    estate: peasant
+    size: 1000
+1524.1.1:
+  owner: SPA
+  controller: SPA
+1529.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+1549.1.1:
+  cores:
+    SPA: yes
+1810.9.16:
+  owner: MEX
+  controller: SPA
+  cores:
+    MEX: yes
+1812.11.25:
+  controller: MEX
+1821.9.27:
+  controller: MEX
+  cores:
+    SPA: no

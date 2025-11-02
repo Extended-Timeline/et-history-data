@@ -1,0 +1,135 @@
+#imported from EU4 file: history/provinces/395 - Qatar.txt
+2.1.1:
+  owner: GERR
+  controller: GERR
+  cores:
+    GERR: yes
+  resource: gems
+  pop:
+    ethnicity: bahrani_culture
+    religion: south_arabian
+    estate: peasant
+    size: 1000
+220.1.1:
+  owner: LAKH
+  controller: LAKH
+  cores:
+    GERR: no
+    LAKH: yes
+280.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+325.1.1:
+  owner: ERA
+  controller: ERA
+  cores:
+    LAKH: no
+    ERA: yes
+431.7.1:
+  pop:
+    religion: nestorianism
+    estate: peasant
+    size: 1000
+634.1.1:
+  owner: RASH
+  controller: RASH
+  cores:
+    ERA: no
+    RASH: yes
+  pop:
+    religion: islam
+    estate: peasant
+    size: 1000
+661.7.28:
+  owner: UMAY
+  controller: UMAY
+  cores:
+    RASH: no
+    UMAY: yes
+  pop:
+    religion: shia
+    estate: peasant
+    size: 1000
+750.8.6:
+  owner: ABBA
+  controller: ABBA
+  cores:
+    UMAY: no
+    ABBA: yes
+899.1.1:
+  owner: QARM
+  controller: QARM
+  cores:
+    ABBA: no
+    QARM: yes
+1076.1.1:
+  owner: ALHA
+  controller: ALHA
+  cores:
+    QARM: no
+    ALHA: yes
+1515.1.1:
+  owner: POR
+  controller: POR
+  cores:
+    POR: yes
+1622.5.3:
+  owner: IRA
+  controller: IRA
+  cores:
+    POR: no
+    IRA: yes
+1783.1.1:
+  owner: BAHR
+  controller: BAHR
+  cores:
+    IRA: no
+    BAHR: yes
+1799.1.1:
+  owner: OMA
+  controller: OMA
+  cores:
+    BAHR: no
+    OMA: yes
+1820.1.1:
+  owner: BAHR
+  controller: BAHR
+  cores:
+    NAJD: no
+    OMA: no
+    BAHR: yes
+1868.1.1:
+  owner: QATA
+  controller: QATA
+  cores:
+    BAHR: no
+    QATA: yes
+1872.1.1:
+  owner: TUR
+  controller: TUR
+  cores:
+    TUR: yes
+1900.1.1:
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+1913.7.17:
+  owner: QATA
+  controller: QATA
+  cores:
+    TUR: no
+1916.11.3:
+  owner: GBR
+  controller: GBR
+  cores:
+    GBR: yes
+1940.1.1:
+  resource: oil
+1971.9.3:
+  owner: QATA
+  controller: QATA
+  cores:
+    GBR: no

@@ -1,0 +1,120 @@
+#imported from EU4 file: history/provinces/1856 - Abkhazia.txt
+2.1.1:
+  owner: PONT
+  controller: PONT
+  cores:
+    PONT: yes
+  resource: wine
+  pop:
+    ethnicity: circassian_culture
+    religion: georgian_religion
+    estate: peasant
+    size: 1000
+62.1.1:
+  owner: ROM
+  controller: ROM
+  cores:
+    ROM: yes
+80.1.1:
+  cores:
+    PONT: no
+395.1.17:
+  owner: BYZ
+  controller: BYZ
+  cores:
+    ROM: no
+    BYZ: yes
+456.1.1:
+  owner: LAZI
+  controller: LAZI
+  cores:
+    BYZ: no
+    LAZI: yes
+500.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+697.1.1:
+  owner: ABKH
+  controller: ABKH
+  cores:
+    LAZI: no
+    ABKH: yes
+867.1.1:
+  pop:
+    religion: orthodox
+    estate: peasant
+    size: 1000
+1008.1.1:
+  owner: GEO
+  controller: GEO
+  cores:
+    GEO: yes
+1236.1.1:
+  owner: MGE
+  controller: MGE
+  cores:
+    MGE: yes
+1259.1.1:
+  owner: IME
+  controller: IME
+  cores:
+    MGE: no
+    IME: yes
+1330.1.1:
+  owner: GEO
+  controller: GEO
+1387.1.1:
+  owner: IME
+  controller: IME
+1412.1.1:
+  owner: GEO
+  controller: GEO
+1446.1.1:
+  owner: IME
+  controller: IME
+1453.1.1:
+  owner: GEO
+  controller: GEO
+1455.1.1:
+  owner: IME
+  controller: IME
+1465.1.1:
+  owner: GEO
+  controller: GEO
+1478.1.1:
+  owner: IME
+  controller: IME
+1580.1.1:
+  owner: ABKH
+  controller: ABKH
+  cores:
+    ABKH: yes
+1864.6.1:
+  owner: RUS
+  controller: RUS
+  cores:
+    RUS: yes
+1918.5.26:
+  owner: GEO
+  controller: GEO
+1921.2.25:
+  owner: RUS
+  controller: RUS
+1922.12.30:
+  owner: SOVI
+  controller: SOVI
+  cores:
+    RUS: no
+    SOVI: yes
+1991.4.9:
+  owner: GEO
+  controller: GEO
+  cores:
+    SOVI: no
+    RUS: no
+    ABKH: yes
+1992.8.14:
+  cores:
+    ABKH: yes

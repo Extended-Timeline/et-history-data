@@ -1,0 +1,169 @@
+#imported from EU4 file: history/provinces/409 - Karbala.txt
+2.1.1:
+  owner: PART
+  controller: PART
+  cores:
+    PART: yes
+  resource: wool
+  pop:
+    ethnicity: assyrian
+    religion: ashurism
+    estate: peasant
+    size: 1000
+116.1.1:
+  owner: ROM
+  controller: ROM
+  cores:
+    ROM: yes
+118.1.1:
+  owner: PART
+  controller: PART
+  cores:
+    ROM: no
+210.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+220.1.1:
+  owner: LAKH
+  controller: LAKH
+  cores:
+    PART: no
+    LAKH: yes
+431.7.1:
+  pop:
+    religion: nestorianism
+    estate: peasant
+    size: 1000
+602.1.1:
+  owner: ERA
+  controller: ERA
+  cores:
+    ERA: yes
+633.5.1:
+  owner: RASH
+  controller: RASH
+  cores:
+    ERA: no
+    LAKH: no
+    RASH: yes
+661.7.28:
+  owner: UMAY
+  controller: UMAY
+  cores:
+    RASH: no
+    UMAY: yes
+680.1.1:
+  pop:
+    ethnicity: iraqi_culture
+    religion: shia
+    estate: peasant
+    size: 1000
+750.8.6:
+  owner: ABBA
+  controller: ABBA
+  cores:
+    UMAY: no
+    ABBA: yes
+945.12.19:
+  owner: IRAQ
+  controller: IRAQ
+  cores:
+    IRAQ: yes
+978.3.1:
+  owner: IRA
+  controller: IRA
+  cores:
+    IRA: yes
+983.3.26:
+  owner: IRAQ
+  controller: IRAQ
+987.1.1:
+  owner: IRA
+  controller: IRA
+1021.1.1:
+  owner: IRAQ
+  controller: IRAQ
+1044.3.1:
+  owner: IRA
+  controller: IRA
+1048.10.1:
+  owner: IRAQ
+  controller: IRAQ
+1055.12.17:
+  owner: SELJ
+  controller: SELJ
+  cores:
+    IRA: no
+    SELJ: yes
+1153.1.1:
+  owner: ABBA
+  controller: ABBA
+  cores:
+    SELJ: no
+    ABBA: yes
+1258.2.10:
+  owner: MGE
+  controller: MGE
+  cores:
+    ABBA: no
+    MGE: yes
+    IRAQ: yes
+1260.1.1:
+  owner: ILK
+  controller: ILK
+  cores:
+    MGE: no
+    ILK: yes
+1335.1.1:
+  owner: JAL
+  controller: JAL
+  cores:
+    ILK: no
+    JAL: yes
+1380.1.1:
+  cores:
+    TIM: yes
+1411.1.1:
+  owner: QAKO
+  controller: QAKO
+  cores:
+    JAL: no
+    QAKO: yes
+1469.2.4:
+  owner: AKQO
+  controller: AKQO
+  cores:
+    QAKO: no
+    AKQO: yes
+1501.7.1:
+  controller: AKQO
+1508.1.1:
+  owner: IRA
+  controller: IRA
+  cores:
+    AKQO: no
+    IRA: yes
+1534.11.28:
+  controller: TUR
+1536.1.1:
+  owner: TUR
+  cores:
+    IRA: no
+    TUR: yes
+1624.1.1:
+  controller: IRA
+1638.12.24:
+  controller: TUR
+1920.7.24:
+  owner: GBR
+  controller: GBR
+  cores:
+    TUR: no
+    GBR: yes
+1932.10.3:
+  owner: IRAQ
+  controller: IRAQ
+  cores:
+    GBR: no

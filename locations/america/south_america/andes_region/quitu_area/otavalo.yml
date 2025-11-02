@@ -1,0 +1,51 @@
+#imported from EU4 file: history/provinces/820 - Quito.txt
+2.1.1:
+  pop:
+    ethnicity: cara_culture
+    religion: inti
+    estate: peasant
+    size: 1000
+980.1.1:
+  owner: QTO
+  controller: QTO
+  cores:
+    QTO: yes
+  resource: cloth
+1487.1.1:
+  owner: INC
+  controller: INC
+  cores:
+    INC: yes
+1533.8.29:
+  owner: SPA
+  controller: SPA
+  cores:
+    SPA: yes
+  pop:
+    ethnicity: castilian
+    religion: catholic
+    estate: peasant
+    size: 1000
+1558.8.29:
+  cores:
+    SPA: yes
+1750.1.1:
+  cores:
+    SPA: yes
+1770.1.1:
+  pop:
+    ethnicity: iberian_colombian
+    estate: peasant
+    size: 1000
+1819.12.17:
+  owner: COLO
+  controller: COLO
+  cores:
+    SPA: no
+    COLO: yes
+    ECUA: yes
+1830.5.13:
+  owner: ECUA
+  controller: ECUA
+  cores:
+    COLO: no

@@ -1,0 +1,86 @@
+#imported from EU4 file: history/provinces/4830 - Rayong.txt
+2.1.1:
+  owner: MON0
+  controller: MON0
+  cores:
+    MON0: yes
+  resource: grain
+  pop:
+    ethnicity: mon_culture
+    religion: bimoism
+    estate: peasant
+    size: 1000
+150.1.1:
+  owner: FUNA
+  controller: FUNA
+  cores:
+    MON0: no
+    FUNA: yes
+200.1.1:
+  pop:
+    religion: hindu
+    estate: peasant
+    size: 1000
+450.1.1:
+  owner: DVAR
+  controller: DVAR
+  cores:
+    FUNA: no
+    DVAR: yes
+500.1.1:
+  pop:
+    religion: theravada
+    estate: peasant
+    size: 1000
+661.1.1:
+  owner: LAV
+  controller: LAV
+  cores:
+    DVAR: no
+    LAV: yes
+880.1.1:
+  owner: CAMB
+  controller: CAMB
+  cores:
+    CAMB: yes
+1050.1.1:
+  pop:
+    ethnicity: thai_culture
+    estate: peasant
+    size: 1000
+1060.1.1:
+  owner: LAV
+  controller: LAV
+  cores:
+    CAMB: no
+1380.1.1:
+  owner: AYU
+  controller: AYU
+  cores:
+    AYU: yes
+1564.2.1:
+  cores:
+    TNG: yes
+1584.5.3:
+  cores:
+    TNG: no
+1767.4.8:
+  owner: THON
+  controller: THON
+  cores:
+    THON: yes
+1768.1.1:
+  cores:
+    AYU: no
+1782.4.6:
+  owner: RTP
+  controller: RTP
+  cores:
+    THON: no
+    RTP: yes
+1932.7.24:
+  owner: SIA
+  controller: SIA
+  cores:
+    RTP: no
+    SIA: yes

@@ -1,0 +1,56 @@
+#imported from EU4 file: history/provinces/551 - Mahakoshal.txt
+2.1.1:
+  owner: GOND
+  controller: GOND
+  cores:
+    GOND: yes
+  resource: tropical_wood
+  pop:
+    ethnicity: gond
+    religion: hindu
+    estate: peasant
+    size: 1000
+675.1.1:
+  owner: KALC
+  controller: KALC
+  cores:
+    GOND: no
+    KALC: yes
+1212.1.1:
+  owner: GOND
+  controller: GOND
+  cores:
+    KALC: no
+    GOND: yes
+1564.6.24:
+  controller: MUG
+1564.7.1:
+  owner: MUG
+  cores:
+    MUG: yes
+1705.1.1:
+  owner: GOND
+  controller: GOND
+1750.1.1:
+  owner: NAGP
+  controller: NAGP
+  cores:
+    MUG: no
+    NAGP: yes
+1853.12.11:
+  owner: GBR
+  controller: GBR
+  cores:
+    GBR: yes
+1920.1.1:
+  resource: aluminum
+1930.1.1:
+  cores:
+    NAGP: no
+    GOND: no
+    INDI: yes
+1947.8.15:
+  owner: INDI
+  controller: INDI
+  cores:
+    GBR: no

@@ -1,0 +1,125 @@
+#imported from EU4 file: history/provinces/4434 - Dharangaon.txt
+2.1.1:
+  owner: SATA
+  controller: SATA
+  cores:
+    SATA: yes
+  resource: cotton
+  pop:
+    ethnicity: marathi_culture
+    religion: jain
+    estate: peasant
+    size: 1000
+220.1.1:
+  owner: ABHI
+  controller: ABHI
+  cores:
+    SATA: no
+    ABHI: yes
+250.1.1:
+  owner: VAKA
+  controller: VAKA
+  cores:
+    ABHI: no
+    VAKA: yes
+500.1.1:
+  owner: KALC
+  controller: KALC
+  cores:
+    VAKA: no
+    KALC: yes
+620.1.1:
+  owner: CHAL
+  controller: CHAL
+  cores:
+    KALC: no
+    CHAL: yes
+753.1.1:
+  owner: RAST
+  controller: RAST
+  cores:
+    CHAL: no
+    RAST: yes
+973.1.1:
+  owner: CHAL
+  controller: CHAL
+  cores:
+    RAST: no
+    CHAL: yes
+1189.1.1:
+  owner: YADA
+  controller: YADA
+  cores:
+    CHAL: no
+    YADA: yes
+1250.1.1:
+  pop:
+    religion: hindu
+    estate: peasant
+    size: 1000
+1317.1.1:
+  owner: DLH
+  controller: DLH
+  cores:
+    YADA: no
+    DLH: yes
+    KHAN: yes
+1388.1.1:
+  owner: KHAN
+  controller: KHAN
+  cores:
+    DLH: no
+1508.1.1:
+  owner: GUJ
+  controller: GUJ
+1543.1.1:
+  owner: BNG
+  controller: BNG
+1545.1.1:
+  owner: KHAN
+  controller: KHAN
+1600.4.8:
+  owner: MUG
+  controller: MUG
+  cores:
+    MUG: yes
+1615.1.1:
+  controller: AHMA
+1622.1.1:
+  controller: MUG
+1622.8.15:
+  controller: MUG
+1650.4.8:
+  cores:
+    MUG: yes
+1658.6.8:
+  controller: MUG
+1712.1.1:
+  cores:
+    DEC: yes
+1724.1.1:
+  owner: DEC
+  controller: DEC
+  cores:
+    MUG: no
+1752.1.1:
+  owner: MHR
+  controller: MHR
+  cores:
+    MHR: yes
+1818.6.3:
+  owner: GBR
+  controller: GBR
+  cores:
+    MHR: no
+    DEC: no
+    GBR: yes
+1930.1.1:
+  cores:
+    KHAN: no
+    INDI: yes
+1947.8.15:
+  owner: INDI
+  controller: INDI
+  cores:
+    GBR: no

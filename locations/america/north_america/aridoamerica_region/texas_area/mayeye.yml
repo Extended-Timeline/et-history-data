@@ -1,0 +1,76 @@
+#imported from EU4 file: history/provinces/4627 - Tanu.txt
+2.1.1:
+  pop:
+    ethnicity: coahuilteco_culture
+    religion: iroquoian_totemism
+    estate: peasant
+    size: 1000
+1200.1.1:
+  pop:
+    ethnicity: lepai_nde_culture
+    estate: peasant
+    size: 1000
+1730.1.1:
+  owner: SPA
+  controller: SPA
+  cores:
+    SPA: yes
+  resource: grain
+  pop:
+    ethnicity: castilian
+    religion: catholic
+    estate: peasant
+    size: 1000
+1770.1.1:
+  pop:
+    ethnicity: mexican
+    estate: peasant
+    size: 1000
+1810.9.16:
+  owner: MEX
+  controller: SPA
+  cores:
+    MEX: yes
+1821.9.27:
+  controller: MEX
+  cores:
+    SPA: no
+1836.3.2:
+  owner: TEXA
+  controller: TEXA
+  cores:
+    TEXA: yes
+  pop:
+    ethnicity: iberian_louisianan
+    estate: peasant
+    size: 1000
+1845.12.29:
+  owner: USA
+  controller: USA
+  cores:
+    USA: yes
+1848.2.2:
+  cores:
+    MEX: no
+1861.2.1:
+  owner: TEXA
+  controller: TEXA
+  cores:
+    TEXA: yes
+1861.3.2:
+  owner: CSAM
+  controller: CSAM
+  cores:
+    CSAM: yes
+1865.5.5:
+  owner: USA
+  controller: USA
+  cores:
+    CSAM: no
+1911.1.1:
+  resource: oil
+1920.1.1:
+  pop:
+    ethnicity: british_louisianan
+    estate: peasant
+    size: 1000

@@ -1,0 +1,29 @@
+#imported from EU4 file: history/provinces/2003 - Ktunaxa.txt
+2.1.1:
+  pop:
+    ethnicity: saleesh_culture
+    religion: iroquoian_totemism
+    estate: peasant
+    size: 1000
+1808.1.1:
+  owner: GBR
+  controller: GBR
+  cores:
+    GBR: yes
+  resource: fur
+  pop:
+    ethnicity: british_californian
+    religion: lutheran
+    estate: peasant
+    size: 1000
+1860.1.1:
+  pop:
+    ethnicity: british_canadian
+    estate: peasant
+    size: 1000
+1871.7.20:
+  owner: CAN
+  controller: CAN
+  cores:
+    GBR: no
+    CAN: yes

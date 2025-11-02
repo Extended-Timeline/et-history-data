@@ -1,0 +1,66 @@
+#imported from EU4 file: history/provinces/509 - Kangra.txt
+2.1.1:
+  owner: KGR
+  controller: KGR
+  cores:
+    KGR: yes
+  resource: cotton
+  pop:
+    ethnicity: garhwali
+    religion: mahayana
+    estate: peasant
+    size: 1000
+140.1.1:
+  owner: KUSH
+  controller: KUSH
+  cores:
+    KUSH: yes
+250.1.1:
+  owner: KGR
+  controller: KGR
+  cores:
+    KUSH: no
+510.1.1:
+  owner: HEPH
+  controller: HEPH
+  cores:
+    HEPH: yes
+532.1.1:
+  owner: KGR
+  controller: KGR
+  cores:
+    HEPH: no
+1003.1.1:
+  pop:
+    religion: hindu
+    estate: peasant
+    size: 1000
+1620.1.1:
+  controller: MUG
+1621.1.1:
+  owner: MUG
+  cores:
+    MUG: yes
+1707.3.15:
+  owner: KGR
+  controller: KGR
+  cores:
+    MUG: no
+1806.1.1:
+  controller: NPL
+1809.1.1:
+  controller: KGR
+1846.3.9:
+  owner: GBR
+  controller: GBR
+  cores:
+    GBR: yes
+1930.1.1:
+  cores:
+    INDI: yes
+1947.8.15:
+  owner: INDI
+  controller: INDI
+  cores:
+    GBR: no
+    KGR: no

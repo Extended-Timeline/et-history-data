@@ -1,0 +1,54 @@
+#imported from EU4 file: history/provinces/1930 - Aland.txt
+2.1.1:
+  pop:
+    ethnicity: swedish
+    religion: norse
+    estate: peasant
+    size: 1000
+350.1.1:
+  owner: SVEA
+  controller: SVEA
+  cores:
+    SVEA: yes
+  resource: fish
+960.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+970.1.1:
+  owner: SWE
+  controller: SWE
+  cores:
+    SVEA: no
+    SWE: yes
+1150.1.1:
+  cores:
+    FIN: yes
+1527.6.1:
+  pop:
+    religion: lutheran
+    estate: peasant
+    size: 1000
+1563.8.12:
+  controller: SWE
+1714.1.1:
+  controller: RUS
+1718.1.1:
+  controller: SWE
+1742.10.15:
+  controller: RUS
+1743.8.7:
+  controller: SWE
+1808.3.28:
+  controller: RUS
+1809.9.17:
+  owner: RUS
+  cores:
+    SWE: no
+    RUS: yes
+1917.12.6:
+  owner: FIN
+  controller: FIN
+  cores:
+    RUS: no

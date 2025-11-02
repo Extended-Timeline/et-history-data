@@ -1,0 +1,72 @@
+#imported from EU4 file: history/provinces/1022 - Amaravati.txt
+2.1.1:
+  owner: HUYN
+  controller: HUYN
+  cores:
+    HUYN: yes
+  resource: incense
+  pop:
+    ethnicity: cham_culture
+    religion: hindu
+    estate: peasant
+    size: 1000
+192.1.1:
+  owner: CHAM
+  controller: CHAM
+  cores:
+    HUYN: no
+    CHAM: yes
+1407.3.1:
+  owner: DAI
+  controller: DAI
+  cores:
+    DAI: yes
+1527.1.1:
+  owner: TONK
+  controller: TONK
+  cores:
+    TONK: yes
+1558.1.1:
+  owner: ANNA
+  controller: ANNA
+  cores:
+    TONK: no
+1600.1.1:
+  pop:
+    ethnicity: vietnamese_culture
+    religion: theravada
+    estate: peasant
+    size: 1000
+1776.1.1:
+  owner: DAI
+  controller: DAI
+  cores:
+    DAI: yes
+1802.7.22:
+  owner: ANNA
+  controller: ANNA
+  cores:
+    DAI: no
+1832.1.1:
+  cores:
+    CHAM: no
+1941.1.1:
+  controller: JAP
+1945.3.11:
+  owner: VIET
+  controller: VIET
+  cores:
+    VIET: yes
+1945.8.23:
+  owner: FRA
+  controller: FRA
+  cores:
+    SVIE: yes
+1948.5.27:
+  owner: SVIE
+  controller: SVIE
+1976.7.2:
+  owner: VIET
+  controller: VIET
+  cores:
+    SVIE: no

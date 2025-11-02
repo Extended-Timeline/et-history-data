@@ -1,0 +1,288 @@
+dau_guigues_i_de_albon:
+  1010.1.1:
+    birth: grenoble #TODO: Date and location guessed, check if better data is available
+    first_name: guigues
+    dynasty: de_albon_dynasty
+    adm: 30
+    dip: 60
+    mil: 75
+    religion: catholic
+    culture: languedocien
+  1070.1.1:
+    death: yes
+dau_guigues_ii_de_albon:
+  1020.1.1:
+    birth: grenoble #TODO: Date and location guessed, check if better data is available
+    first_name: guigues
+    dynasty: de_albon_dynasty
+    father: dau_guigues_i_de_albon #TODO: check if this makes sense
+    adm: 30
+    dip: 75
+    mil: 30
+    religion: catholic
+    culture: languedocien
+  1079.1.1:
+    death: yes
+dau_guigues_ii_de_albon_1:
+  1040.1.1:
+    birth: grenoble #TODO: Date and location guessed, check if better data is available
+    first_name: guigues
+    dynasty: de_albon_dynasty
+    adm: 30
+    dip: 75
+    mil: 30
+    religion: catholic
+    culture: languedocien
+  1079.1.1:
+    death: yes
+dau_guigues_iii_de_albon:
+  1050.1.1:
+    birth: grenoble #TODO: Date and location guessed, check if better data is available
+    first_name: guigues
+    dynasty: de_albon_dynasty
+    father: dau_guigues_ii_de_albon_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 60
+    mil: 75
+    religion: catholic
+    culture: languedocien
+  1133.1.1:
+    death: yes
+dau_guigues_iii_de_albon_1:
+  1049.1.1:
+    birth: grenoble #TODO: Date and location guessed, check if better data is available
+    first_name: guigues
+    dynasty: de_albon_dynasty
+    adm: 45
+    dip: 60
+    mil: 75
+    religion: catholic
+    culture: languedocien
+  1133.1.1:
+    death: yes
+dau_guigues_iv_de_albon:
+  1095.1.1:
+    birth: grenoble #TODO: Date and location guessed, check if better data is available
+    first_name: guigues
+    dynasty: de_albon_dynasty
+    father: dau_guigues_iii_de_albon_1 #TODO: check if this makes sense
+    adm: 60
+    dip: 45
+    mil: 60
+    religion: catholic
+    culture: languedocien
+  1142.1.1:
+    death: yes
+dau_guigues_iv_de_albon_1:
+  1103.1.1:
+    birth: grenoble #TODO: Date and location guessed, check if better data is available
+    first_name: guigues
+    dynasty: de_albon_dynasty
+    adm: 60
+    dip: 45
+    mil: 60
+    religion: catholic
+    culture: languedocien
+  1142.1.1:
+    death: yes
+dau_guigues_v_de_albon:
+  1120.1.1:
+    birth: grenoble #TODO: Date and location guessed, check if better data is available
+    first_name: guigues
+    dynasty: de_albon_dynasty
+    father: dau_guigues_iv_de_albon_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 45
+    mil: 60
+    religion: catholic
+    culture: languedocien
+  1162.1.1:
+    death: yes
+dau_guigues_v_de_albon_1:
+  1112.1.1:
+    birth: grenoble #TODO: Date and location guessed, check if better data is available
+    first_name: guigues
+    dynasty: de_albon_dynasty
+    adm: 15
+    dip: 45
+    mil: 60
+    religion: catholic
+    culture: languedocien
+  1162.1.1:
+    death: yes
+dau_beatrice_i_de_albon:
+  1161.1.1:
+    birth: grenoble #TODO: Date and location guessed, check if better data is available
+    first_name: beatrice
+    dynasty: de_albon_dynasty
+    female: yes
+    father: dau_guigues_v_de_albon_1 #TODO: check if this makes sense
+    adm: 75
+    dip: 30
+    mil: 45
+    religion: catholic
+    culture: languedocien
+  1228.1.1:
+    death: yes
+dau_beatrice_i_de_albon_1:
+  1132.1.1:
+    birth: grenoble #TODO: Date and location guessed, check if better data is available
+    first_name: beatrice
+    dynasty: de_albon_dynasty
+    female: yes
+    adm: 75
+    dip: 30
+    mil: 45
+    religion: catholic
+    culture: languedocien
+  1228.1.1:
+    death: yes
+dau_guigues_vi_de_bourgogne:
+  1198.1.1:
+    birth: grenoble #TODO: Date and location guessed, check if better data is available
+    first_name: guigues
+    dynasty: de_bourgogne_dynasty
+    adm: 60
+    dip: 30
+    mil: 15
+    religion: catholic
+    culture: languedocien
+  1237.1.1:
+    death: yes
+dau_guigues_vii_de_bourgogne:
+  1225.1.1:
+    birth: grenoble #TODO: Date and location guessed, check if better data is available
+    first_name: guigues
+    dynasty: de_bourgogne_dynasty
+    father: dau_guigues_vi_de_bourgogne #TODO: check if this makes sense
+    adm: 15
+    dip: 60
+    mil: 75
+    religion: catholic
+    culture: languedocien
+  1269.1.1:
+    death: yes
+dau_guigues_vii_de_bourgogne_1:
+  1207.1.1:
+    birth: grenoble #TODO: Date and location guessed, check if better data is available
+    first_name: guigues
+    dynasty: de_bourgogne_dynasty
+    adm: 15
+    dip: 60
+    mil: 75
+    religion: catholic
+    culture: languedocien
+  1269.1.1:
+    death: yes
+dau_jean_i_de_bourgogne:
+  1263.1.1:
+    birth: grenoble #TODO: Date and location guessed, check if better data is available
+    first_name: jean
+    dynasty: de_bourgogne_dynasty
+    father: dau_guigues_vii_de_bourgogne_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 75
+    mil: 15
+    religion: catholic
+    culture: languedocien
+  1282.1.1:
+    death: yes
+dau_jean_i_de_bourgogne_1:
+  1239.1.1:
+    birth: grenoble #TODO: Date and location guessed, check if better data is available
+    first_name: jean
+    dynasty: de_bourgogne_dynasty
+    adm: 30
+    dip: 75
+    mil: 15
+    religion: catholic
+    culture: languedocien
+  1282.1.1:
+    death: yes
+dau_humbert_i_de_la_tour_du_pin:
+  1252.1.1:
+    birth: grenoble #TODO: Date and location guessed, check if better data is available
+    first_name: humbert
+    dynasty: de_la_tour_du_pin_dynasty
+    adm: 30
+    dip: 60
+    mil: 30
+    religion: catholic
+    culture: languedocien
+  1307.1.1:
+    death: yes
+dau_jean_ii_de_la_tour_du_pin:
+  1280.1.1:
+    birth: grenoble #TODO: Date and location guessed, check if better data is available
+    first_name: jean
+    dynasty: de_la_tour_du_pin_dynasty
+    father: dau_humbert_i_de_la_tour_du_pin #TODO: check if this makes sense
+    adm: 45
+    dip: 45
+    mil: 30
+    religion: catholic
+    culture: languedocien
+  1318.1.1:
+    death: yes
+dau_jean_ii_de_la_tour_du_pin_1:
+  1277.1.1:
+    birth: grenoble #TODO: Date and location guessed, check if better data is available
+    first_name: jean
+    dynasty: de_la_tour_du_pin_dynasty
+    adm: 45
+    dip: 45
+    mil: 30
+    religion: catholic
+    culture: languedocien
+  1318.1.1:
+    death: yes
+dau_guigues_viii_de_la_tour_du_pin:
+  1309.1.1:
+    birth: grenoble #TODO: Date and location guessed, check if better data is available
+    first_name: guigues
+    dynasty: de_la_tour_du_pin_dynasty
+    father: dau_jean_ii_de_la_tour_du_pin_1 #TODO: check if this makes sense
+    adm: 60
+    dip: 15
+    mil: 30
+    religion: catholic
+    culture: languedocien
+  1333.1.1:
+    death: yes
+dau_guigues_viii_de_la_tour_du_pin_1:
+  1288.1.1:
+    birth: grenoble #TODO: Date and location guessed, check if better data is available
+    first_name: guigues
+    dynasty: de_la_tour_du_pin_dynasty
+    adm: 60
+    dip: 15
+    mil: 30
+    religion: catholic
+    culture: languedocien
+  1333.1.1:
+    death: yes
+dau_humbert_ii_de_la_tour_du_pin:
+  1312.1.1:
+    birth: grenoble #TODO: Date and location guessed, check if better data is available
+    first_name: humbert
+    dynasty: de_la_tour_du_pin_dynasty
+    father: dau_guigues_viii_de_la_tour_du_pin_1 #TODO: check if this makes sense
+    adm: 75
+    dip: 45
+    mil: 60
+    religion: catholic
+    culture: languedocien
+  1355.1.1:
+    death: yes
+dau_humbert_ii_de_la_tour_du_pin_1:
+  1303.1.1:
+    birth: grenoble #TODO: Date and location guessed, check if better data is available
+    first_name: humbert
+    dynasty: de_la_tour_du_pin_dynasty
+    adm: 75
+    dip: 45
+    mil: 60
+    religion: catholic
+    culture: languedocien
+  3000.1.1:
+    death: yes

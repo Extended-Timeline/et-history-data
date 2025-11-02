@@ -1,0 +1,96 @@
+#imported from EU4 file: history/provinces/1132 - Timbuktu.txt
+2.1.1:
+  pop:
+    ethnicity: tuareg
+    religion: bantu_religion
+    estate: peasant
+    size: 1000
+350.1.1:
+  owner: TMB
+  controller: TMB
+  cores:
+    TMB: yes
+  resource: cloth
+1200.1.1:
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+1324.1.1:
+  owner: MAL
+  controller: MAL
+  cores:
+    MAL: yes
+1389.1.1:
+  owner: TMB
+  controller: TMB
+  cores:
+    MAL: no
+1469.1.1:
+  owner: SON
+  controller: SON
+  cores:
+    SON: yes
+  pop:
+    ethnicity: songhai
+    estate: peasant
+    size: 1000
+1588.1.1:
+  controller: SON
+1591.5.1:
+  owner: MOR
+  controller: MOR
+  cores:
+    MOR: yes
+1618.1.1:
+  owner: TMB
+  controller: TMB
+  cores:
+    MOR: no
+    TMB: yes
+1642.1.1:
+  cores:
+    SON: no
+1826.1.1:
+  owner: ZAFU
+  controller: ZAFU
+  cores:
+    ZAFU: yes
+1862.3.16:
+  owner: SEGU
+  controller: SEGU
+  cores:
+    ZAFU: no
+    SEGU: yes
+1890.1.1:
+  owner: TMB
+  controller: TMB
+  cores:
+    SEGU: no
+    TMB: yes
+1893.12.15:
+  owner: FRA
+  controller: FRA
+  cores:
+    FRA: yes
+1940.6.14:
+  owner: VFRA
+  controller: VFRA
+  cores:
+    VFRA: yes
+1942.11.16:
+  owner: FRA
+  controller: FRA
+  cores:
+    VFRA: no
+1960.6.20:
+  owner: MAL
+  controller: MAL
+  cores:
+    FRA: no
+    MAL: yes
+2012.1.17:
+  cores:
+    AZAW: yes
+2012.6.26:
+  controller: MAL

@@ -1,0 +1,30 @@
+#imported from EU4 file: history/provinces/1166 - Loango.txt
+2.1.1:
+  pop:
+    ethnicity: kongo
+    religion: bantu_religion
+    estate: peasant
+    size: 1000
+1350.1.1:
+  owner: LOAN
+  controller: LOAN
+  cores:
+    LOAN: yes
+  resource: gems
+1883.1.1:
+  owner: FRA
+  controller: FRA
+  cores:
+    FRA: yes
+1900.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+1960.8.15:
+  owner: CONG
+  controller: CONG
+  cores:
+    FRA: no
+    LOAN: no
+    CONG: yes

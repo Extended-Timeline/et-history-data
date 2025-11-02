@@ -1,0 +1,81 @@
+#imported from EU4 file: history/provinces/2441 - Iglino.txt
+2.1.1:
+  pop:
+    ethnicity: bashkir
+    religion: 
+    estate: peasant
+    size: 1000
+660.1.1:
+  owner: BSH
+  controller: BSH
+  cores:
+    BSH: yes
+  resource: fur
+790.1.1:
+  owner: PECH
+  controller: PECH
+  cores:
+    PECH: yes
+830.1.1:
+  owner: CUMA
+  controller: CUMA
+  cores:
+    PECH: no
+    CUMA: yes
+    SIBI: yes
+1236.1.1:
+  owner: MGE
+  controller: MGE
+  cores:
+    CUMA: no
+    MGE: yes
+1260.1.1:
+  owner: BLHO
+  controller: BLHO
+  cores:
+    MGE: no
+    BLHO: yes
+1378.1.1:
+  owner: GLH
+  controller: GLH
+  cores:
+    GLH: yes
+1430.1.1:
+  owner: NOGA
+  controller: NOGA
+  cores:
+    GLH: no
+    NOGA: yes
+1468.1.1:
+  owner: SIBI
+  controller: SIBI
+  cores:
+    NOGA: no
+1582.10.23:
+  owner: RUS
+  controller: RUS
+  cores:
+    SIBI: no
+    RUS: yes
+1736.1.1:
+  cores:
+    BSH: no
+  pop:
+    ethnicity: muscovite
+    religion: orthodox
+    estate: peasant
+    size: 1000
+1775.2.1:
+  controller: RUS
+1922.12.30:
+  owner: SOVI
+  controller: SOVI
+  cores:
+    RUS: no
+    SOVI: yes
+1991.12.25:
+  owner: RUS
+  controller: RUS
+  cores:
+    SOVI: no
+    RUS: yes

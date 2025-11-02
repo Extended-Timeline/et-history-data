@@ -1,0 +1,94 @@
+#imported from EU4 file: history/provinces/4699 - Aetolia.txt
+2.1.1:
+  owner: ROM
+  controller: ROM
+  cores:
+    ROM: yes
+  resource: livestock
+  pop:
+    ethnicity: greek_culture
+    religion: hellenism_religion
+    estate: peasant
+    size: 1000
+360.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+395.1.17:
+  owner: BYZ
+  controller: BYZ
+  cores:
+    ROM: no
+    BYZ: yes
+867.1.1:
+  pop:
+    religion: orthodox
+    estate: peasant
+    size: 1000
+1204.1.1:
+  owner: EPI
+  controller: EPI
+  cores:
+    EPI: yes
+1224.1.1:
+  owner: THE
+  controller: THE
+  cores:
+    THE: yes
+1230.1.1:
+  owner: EPI
+  controller: EPI
+  cores:
+    THE: no
+1338.1.1:
+  owner: BYZ
+  controller: BYZ
+  cores:
+    BYZ: yes
+1348.1.1:
+  owner: SER
+  controller: SER
+  cores:
+    SER: yes
+1356.1.1:
+  owner: EPI
+  controller: EPI
+  cores:
+    SER: no
+1460.1.1:
+  owner: TUR
+  controller: TUR
+  cores:
+    TUR: yes
+1502.1.1:
+  cores:
+    BYZ: no
+    EPI: no
+1750.1.1:
+  cores:
+    GRE: yes
+1803.12.17:
+  controller: TUR
+1832.8.30:
+  cores:
+    GRE: yes
+1913.2.21:
+  controller: GRE
+1913.5.30:
+  owner: GRE
+  cores:
+    TUR: no
+1941.4.21:
+  controller: GER
+1941.7.1:
+  owner: ITA
+  controller: ITA
+1943.9.8:
+  owner: GER
+  controller: GER
+1944.10.1:
+  controller: GBR
+1944.10.19:
+  owner: GRE
+  controller: GRE

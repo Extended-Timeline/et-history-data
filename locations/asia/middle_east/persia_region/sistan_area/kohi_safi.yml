@@ -1,0 +1,155 @@
+#imported from EU4 file: history/provinces/2226 - Jalalabad.txt
+2.1.1:
+  owner: KAPI
+  controller: KAPI
+  cores:
+    KAPI: yes
+  resource: livestock
+  pop:
+    ethnicity: afghan_culture
+    religion: mahayana
+    estate: peasant
+    size: 1000
+10.1.1:
+  owner: IPAR
+  controller: IPAR
+  cores:
+    IPAR: yes
+76.1.1:
+  owner: KUSH
+  controller: KUSH
+  cores:
+    IPAR: no
+    KUSH: yes
+230.1.1:
+  owner: KSAS
+  controller: KSAS
+  cores:
+    KUSH: no
+    KSAS: yes
+350.1.1:
+  owner: KIDA
+  controller: KIDA
+  cores:
+    KSAS: no
+    KIDA: yes
+430.1.1:
+  owner: KAPI
+  controller: KAPI
+  cores:
+    KIDA: no
+    KAPI: yes
+500.1.1:
+  pop:
+    religion: hindu
+    estate: peasant
+    size: 1000
+665.1.1:
+  owner: SHI
+  controller: SHI
+  cores:
+    KAPI: no
+    SHI: yes
+870.1.1:
+  owner: SIST
+  controller: SIST
+  cores:
+    SHI: no
+    SIST: yes
+900.1.1:
+  owner: BUKH
+  controller: BUKH
+  cores:
+    SIST: no
+    BUKH: yes
+910.1.1:
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+977.1.1:
+  owner: GHAZ
+  controller: GHAZ
+  cores:
+    BUKH: no
+    GHAZ: yes
+1173.1.1:
+  owner: GHOR
+  controller: GHOR
+  cores:
+    GHAZ: no
+    GHOR: yes
+1215.1.1:
+  owner: KHWA
+  controller: KHWA
+  cores:
+    GHOR: no
+    KHWA: yes
+1220.1.1:
+  owner: MGE
+  controller: MGE
+  cores:
+    KHWA: no
+    MGE: yes
+    AFGH: yes
+1260.1.1:
+  owner: CHG
+  controller: CHG
+  cores:
+    MGE: no
+    CHG: yes
+1262.1.1:
+  owner: AFGH
+  controller: AFGH
+  cores:
+    AFGH: yes
+1347.1.1:
+  cores:
+    CHG: no
+1370.1.1:
+  owner: TIM
+  controller: TIM
+  cores:
+    TIM: yes
+1443.1.1:
+  owner: AFGH
+  controller: AFGH
+  cores:
+    AFGH: yes
+1449.2.1:
+  owner: KHOR
+  controller: KHOR
+  cores:
+    TIM: no
+1507.7.1:
+  owner: TIM
+  controller: TIM
+  cores:
+    TIM: yes
+1526.4.21:
+  owner: MUG
+  controller: MUG
+  cores:
+    TIM: no
+    MUG: yes
+1566.6.1:
+  owner: AFGH
+  controller: AFGH
+1585.1.1:
+  controller: MUG
+1585.2.1:
+  owner: MUG
+1737.1.1:
+  controller: IRA
+1739.5.1:
+  owner: IRA
+  cores:
+    MUG: no
+    IRA: yes
+1747.6.1:
+  owner: AFGH
+  controller: AFGH
+  cores:
+    IRA: no
+2021.8.19:
+  controller: AFGH

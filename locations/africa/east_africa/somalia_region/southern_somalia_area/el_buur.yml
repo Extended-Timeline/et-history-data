@@ -1,0 +1,55 @@
+#imported from EU4 file: history/provinces/2785 - El Buur.txt
+2.1.1:
+  pop:
+    ethnicity: somali_culture
+    religion: bantu_religion
+    estate: peasant
+    size: 1000
+850.1.1:
+  owner: AJU
+  controller: AJU
+  cores:
+    AJU: yes
+    HOBY: yes
+  resource: iron
+1150.1.1:
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+1526.1.1:
+  owner: ADA
+  controller: ADA
+1555.1.1:
+  owner: AJU
+  controller: AJU
+1620.1.1:
+  owner: MDI
+  controller: MDI
+  cores:
+    AJU: no
+    MDI: yes
+1870.1.1:
+  owner: MAJE
+  controller: MAJE
+  cores:
+    MDI: no
+    MAJE: yes
+1878.1.1:
+  owner: HOBY
+  controller: HOBY
+  cores:
+    MAJE: no
+    HOBY: yes
+1925.12.26:
+  owner: ITA
+  controller: ITA
+  cores:
+    ITA: yes
+1960.7.1:
+  owner: SOMA
+  controller: SOMA
+  cores:
+    ITA: no
+    HOBY: no
+    SOMA: yes

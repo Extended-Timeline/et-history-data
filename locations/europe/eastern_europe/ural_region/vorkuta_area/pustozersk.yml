@@ -1,0 +1,43 @@
+#imported from EU4 file: history/provinces/2425 - Nenets.txt
+2.1.1:
+  pop:
+    ethnicity: nenets_culture
+    religion: muinaisusko
+    estate: peasant
+    size: 1000
+750.1.1:
+  owner: NENE
+  controller: NENE
+  cores:
+    NENE: yes
+  resource: fur
+1499.1.1:
+  owner: MOS
+  controller: MOS
+  cores:
+    MOS: yes
+1503.4.1:
+  owner: RUS
+  controller: RUS
+  cores:
+    MOS: no
+    RUS: yes
+1550.1.1:
+  resource: fur
+1600.1.1:
+  pop:
+    religion: orthodox
+    estate: peasant
+    size: 1000
+1922.12.30:
+  owner: SOVI
+  controller: SOVI
+  cores:
+    RUS: no
+    SOVI: yes
+1991.12.25:
+  owner: RUS
+  controller: RUS
+  cores:
+    SOVI: no
+    RUS: yes

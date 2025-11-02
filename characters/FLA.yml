@@ -1,0 +1,514 @@
+fla_baldwin_i_de_flanders:
+  832.1.1:
+    birth: bruges #TODO: Date and location guessed, check if better data is available
+    first_name: baldwin
+    dynasty: de_flanders_dynasty
+    adm: 30
+    dip: 30
+    mil: 45
+    religion: catholic
+    culture: flemish
+  879.1.1:
+    death: yes
+fla_baldwin_ii_de_flanders:
+  865.1.1:
+    birth: bruges #TODO: Date and location guessed, check if better data is available
+    first_name: baldwin
+    dynasty: de_flanders_dynasty
+    father: fla_baldwin_i_de_flanders #TODO: check if this makes sense
+    adm: 60
+    dip: 15
+    mil: 30
+    religion: chalcedonism
+    culture: flemish
+  918.9.10:
+    death: yes
+fla_baldwin_ii_de_flanders_1:
+  849.1.1:
+    birth: bruges #TODO: Date and location guessed, check if better data is available
+    first_name: baldwin
+    dynasty: de_flanders_dynasty
+    adm: 60
+    dip: 15
+    mil: 30
+    religion: catholic
+    culture: flemish
+  918.9.10:
+    death: yes
+fla_arnulf_i_de_flanders:
+  890.1.1:
+    birth: bruges #TODO: Date and location guessed, check if better data is available
+    first_name: arnulf
+    dynasty: de_flanders_dynasty
+    father: fla_baldwin_ii_de_flanders_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 75
+    mil: 30
+    religion: catholic
+    culture: flemish
+  965.3.28:
+    death: yes
+fla_arnulf_i_de_flanders_1:
+  888.1.1:
+    birth: bruges #TODO: Date and location guessed, check if better data is available
+    first_name: arnulf
+    dynasty: de_flanders_dynasty
+    adm: 30
+    dip: 75
+    mil: 30
+    religion: catholic
+    culture: flemish
+  965.3.28:
+    death: yes
+fla_arnulf_ii_de_flanders:
+  961.1.1:
+    birth: bruges #TODO: Date and location guessed, check if better data is available
+    first_name: arnulf
+    dynasty: de_flanders_dynasty
+    father: fla_arnulf_i_de_flanders_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 60
+    mil: 15
+    religion: catholic
+    culture: flemish
+  987.3.30:
+    death: yes
+fla_arnulf_ii_de_flanders_1:
+  935.1.1:
+    birth: bruges #TODO: Date and location guessed, check if better data is available
+    first_name: arnulf
+    dynasty: de_flanders_dynasty
+    adm: 45
+    dip: 60
+    mil: 15
+    religion: catholic
+    culture: flemish
+  987.3.30:
+    death: yes
+fla_baldwin_iv_de_flanders:
+  980.1.1:
+    birth: bruges #TODO: Date and location guessed, check if better data is available
+    first_name: baldwin
+    dynasty: de_flanders_dynasty
+    father: fla_arnulf_ii_de_flanders_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 60
+    mil: 60
+    religion: catholic
+    culture: flemish
+  1035.5.30:
+    death: yes
+fla_baldwin_iv_de_flanders_1:
+  957.1.1:
+    birth: bruges #TODO: Date and location guessed, check if better data is available
+    first_name: baldwin
+    dynasty: de_flanders_dynasty
+    adm: 45
+    dip: 60
+    mil: 60
+    religion: catholic
+    culture: flemish
+  1035.5.30:
+    death: yes
+fla_baldwin_v_de_flanders:
+  1012.8.19:
+    birth: bruges #TODO: Location guessed, check if better data is available
+    first_name: baldwin
+    dynasty: de_flanders_dynasty
+    father: fla_baldwin_iv_de_flanders_1 #TODO: check if this makes sense
+    adm: 60
+    dip: 75
+    mil: 15
+    religion: catholic
+    culture: flemish
+  1067.9.1:
+    death: yes
+fla_baldwin_v_de_flanders_1:
+  1005.1.1:
+    birth: bruges #TODO: Date and location guessed, check if better data is available
+    first_name: baldwin
+    dynasty: de_flanders_dynasty
+    adm: 60
+    dip: 75
+    mil: 15
+    religion: catholic
+    culture: flemish
+  1067.9.1:
+    death: yes
+fla_baldwin_vi_de_flanders:
+  1030.1.1:
+    birth: bruges #TODO: Date and location guessed, check if better data is available
+    first_name: baldwin
+    dynasty: de_flanders_dynasty
+    father: fla_baldwin_v_de_flanders_1 #TODO: check if this makes sense
+    adm: 75
+    dip: 75
+    mil: 75
+    religion: catholic
+    culture: flemish
+  1070.7.17:
+    death: yes
+fla_baldwin_vi_de_flanders_1:
+  1037.1.1:
+    birth: bruges #TODO: Date and location guessed, check if better data is available
+    first_name: baldwin
+    dynasty: de_flanders_dynasty
+    adm: 75
+    dip: 75
+    mil: 75
+    religion: catholic
+    culture: flemish
+  1070.7.17:
+    death: yes
+fla_afnulf_iii_de_flanders:
+  1055.1.1:
+    birth: bruges #TODO: Date and location guessed, check if better data is available
+    first_name: afnulf
+    dynasty: de_flanders_dynasty
+    father: fla_baldwin_vi_de_flanders_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 15
+    mil: 45
+    religion: catholic
+    culture: flemish
+  1071.2.22:
+    death: yes
+fla_afnulf_iii_de_flanders_1:
+  1040.1.1:
+    birth: bruges #TODO: Date and location guessed, check if better data is available
+    first_name: afnulf
+    dynasty: de_flanders_dynasty
+    adm: 45
+    dip: 15
+    mil: 45
+    religion: catholic
+    culture: flemish
+  1071.2.22:
+    death: yes
+fla_robert_i_de_flanders:
+  1035.1.1:
+    birth: bruges #TODO: Date and location guessed, check if better data is available
+    first_name: robert
+    dynasty: de_flanders_dynasty
+    father: fla_afnulf_iii_de_flanders_1 #TODO: check if this makes sense
+    adm: 60
+    dip: 15
+    mil: 60
+    religion: catholic
+    culture: flemish
+  1093.1.1:
+    death: yes
+fla_robert_i_de_flanders_1:
+  1041.1.1:
+    birth: bruges #TODO: Date and location guessed, check if better data is available
+    first_name: robert
+    dynasty: de_flanders_dynasty
+    adm: 60
+    dip: 15
+    mil: 60
+    religion: catholic
+    culture: flemish
+  1093.1.1:
+    death: yes
+fla_robert_ii_de_flanders:
+  1065.1.1:
+    birth: bruges #TODO: Date and location guessed, check if better data is available
+    first_name: robert
+    dynasty: de_flanders_dynasty
+    father: fla_robert_i_de_flanders_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 75
+    mil: 75
+    religion: catholic
+    culture: flemish
+  1111.10.5:
+    death: yes
+fla_robert_ii_de_flanders_1:
+  1063.1.1:
+    birth: bruges #TODO: Date and location guessed, check if better data is available
+    first_name: robert
+    dynasty: de_flanders_dynasty
+    adm: 30
+    dip: 75
+    mil: 75
+    religion: catholic
+    culture: flemish
+  1111.10.5:
+    death: yes
+fla_baldwin_vii_de_flanders:
+  1093.1.1:
+    birth: bruges #TODO: Date and location guessed, check if better data is available
+    first_name: baldwin
+    dynasty: de_flanders_dynasty
+    father: fla_robert_ii_de_flanders_1 #TODO: check if this makes sense
+    adm: 60
+    dip: 30
+    mil: 45
+    religion: catholic
+    culture: flemish
+  1119.7.17:
+    death: yes
+fla_baldwin_vii_de_flanders_1:
+  1081.1.1:
+    birth: bruges #TODO: Date and location guessed, check if better data is available
+    first_name: baldwin
+    dynasty: de_flanders_dynasty
+    adm: 60
+    dip: 30
+    mil: 45
+    religion: catholic
+    culture: flemish
+  1119.7.17:
+    death: yes
+fla_charles_i_estridsen:
+  1089.1.1:
+    birth: bruges #TODO: Date and location guessed, check if better data is available
+    first_name: charles
+    dynasty: estridsen_dynasty
+    adm: 45
+    dip: 45
+    mil: 60
+    religion: catholic
+    culture: flemish
+  1127.3.2:
+    death: yes
+fla_william_i_de_normandie:
+  1097.1.1:
+    birth: bruges #TODO: Date and location guessed, check if better data is available
+    first_name: william
+    dynasty: de_normandie_dynasty
+    adm: 60
+    dip: 30
+    mil: 60
+    religion: catholic
+    culture: flemish
+  1128.7.28:
+    death: yes
+fla_diederik_i_de_metz:
+  1098.1.1:
+    birth: bruges #TODO: Date and location guessed, check if better data is available
+    first_name: diederik
+    dynasty: de_metz_dynasty
+    adm: 75
+    dip: 30
+    mil: 60
+    religion: catholic
+    culture: flemish
+  1168.1.17:
+    death: yes
+fla_philip_i_de_metz:
+  1143.1.1:
+    birth: bruges #TODO: Date and location guessed, check if better data is available
+    first_name: philip
+    dynasty: de_metz_dynasty
+    father: fla_diederik_i_de_metz #TODO: check if this makes sense
+    adm: 30
+    dip: 60
+    mil: 60
+    religion: catholic
+    culture: flemish
+  1191.8.1:
+    death: yes
+fla_philip_i_de_metz_1:
+  1138.1.1:
+    birth: bruges #TODO: Date and location guessed, check if better data is available
+    first_name: philip
+    dynasty: de_metz_dynasty
+    adm: 30
+    dip: 60
+    mil: 60
+    religion: catholic
+    culture: flemish
+  1191.8.1:
+    death: yes
+fla_margaret_i_de_metz:
+  1161.1.1:
+    birth: bruges #TODO: Date and location guessed, check if better data is available
+    first_name: margaret
+    dynasty: de_metz_dynasty
+    female: yes
+    adm: 15
+    dip: 75
+    mil: 75
+    religion: catholic
+    culture: flemish
+  1194.11.15:
+    death: yes
+fla_baldwin_ix_de_flanders:
+  1164.1.1:
+    birth: bruges #TODO: Date and location guessed, check if better data is available
+    first_name: baldwin
+    dynasty: de_flanders_dynasty
+    adm: 60
+    dip: 15
+    mil: 45
+    religion: catholic
+    culture: flemish
+  1205.1.1:
+    death: yes
+fla_joan_i_de_flanders:
+  1194.1.1:
+    birth: bruges #TODO: Date and location guessed, check if better data is available
+    first_name: joan
+    dynasty: de_flanders_dynasty
+    female: yes
+    father: fla_baldwin_ix_de_flanders #TODO: check if this makes sense
+    adm: 75
+    dip: 15
+    mil: 60
+    religion: catholic
+    culture: flemish
+  1244.12.5:
+    death: yes
+fla_joan_i_de_flanders_1:
+  1175.1.1:
+    birth: bruges #TODO: Date and location guessed, check if better data is available
+    first_name: joan
+    dynasty: de_flanders_dynasty
+    female: yes
+    adm: 75
+    dip: 15
+    mil: 60
+    religion: catholic
+    culture: flemish
+  1244.12.5:
+    death: yes
+fla_margaret_ii_de_flanders:
+  1202.6.2:
+    birth: bruges #TODO: Location guessed, check if better data is available
+    first_name: margaret
+    dynasty: de_flanders_dynasty
+    female: yes
+    father: fla_joan_i_de_flanders_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 45
+    mil: 30
+    religion: catholic
+    culture: flemish
+  1280.2.10:
+    death: yes
+fla_margaret_ii_de_flanders_1:
+  1214.1.1:
+    birth: bruges #TODO: Date and location guessed, check if better data is available
+    first_name: margaret
+    dynasty: de_flanders_dynasty
+    female: yes
+    adm: 30
+    dip: 45
+    mil: 30
+    religion: catholic
+    culture: flemish
+  1247.1.1:
+    death: yes
+fla_william_ii_de_dampierre:
+  1217.1.1:
+    birth: bruges #TODO: Date and location guessed, check if better data is available
+    first_name: william
+    dynasty: de_dampierre_dynasty
+    adm: 60
+    dip: 45
+    mil: 75
+    religion: catholic
+    culture: flemish
+  1251.6.6:
+    death: yes
+fla_guy_i_de_dampierre:
+  1226.1.1:
+    birth: bruges #TODO: Date and location guessed, check if better data is available
+    first_name: guy
+    dynasty: de_dampierre_dynasty
+    father: fla_william_ii_de_dampierre #TODO: check if this makes sense
+    adm: 45
+    dip: 60
+    mil: 45
+    religion: catholic
+    culture: flemish
+  1305.3.7:
+    death: yes
+fla_guy_i_de_dampierre_1:
+  1221.1.1:
+    birth: bruges #TODO: Date and location guessed, check if better data is available
+    first_name: guy
+    dynasty: de_dampierre_dynasty
+    adm: 45
+    dip: 60
+    mil: 45
+    religion: catholic
+    culture: flemish
+  1305.3.7:
+    death: yes
+fla_robert_iii_de_dampierre:
+  1249.1.1:
+    birth: bruges #TODO: Date and location guessed, check if better data is available
+    first_name: robert
+    dynasty: de_dampierre_dynasty
+    father: fla_guy_i_de_dampierre_1 #TODO: check if this makes sense
+    adm: 60
+    dip: 30
+    mil: 60
+    religion: catholic
+    culture: flemish
+  1322.9.17:
+    death: yes
+fla_robert_iii_de_dampierre_1:
+  1275.1.1:
+    birth: bruges #TODO: Date and location guessed, check if better data is available
+    first_name: robert
+    dynasty: de_dampierre_dynasty
+    adm: 60
+    dip: 30
+    mil: 60
+    religion: catholic
+    culture: flemish
+  1322.9.17:
+    death: yes
+fla_louis_i_de_dampierre:
+  1304.1.1:
+    birth: bruges #TODO: Date and location guessed, check if better data is available
+    first_name: louis
+    dynasty: de_dampierre_dynasty
+    father: fla_robert_iii_de_dampierre_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 75
+    mil: 15
+    religion: catholic
+    culture: flemish
+  1346.8.26:
+    death: yes
+fla_louis_i_de_dampierre_1:
+  1292.1.1:
+    birth: bruges #TODO: Date and location guessed, check if better data is available
+    first_name: louis
+    dynasty: de_dampierre_dynasty
+    adm: 45
+    dip: 75
+    mil: 15
+    religion: catholic
+    culture: flemish
+  1346.8.26:
+    death: yes
+fla_louis_ii_de_dampierre:
+  1330.10.25:
+    birth: bruges #TODO: Location guessed, check if better data is available
+    first_name: louis
+    dynasty: de_dampierre_dynasty
+    father: fla_louis_i_de_dampierre_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 75
+    mil: 30
+    religion: catholic
+    culture: flemish
+  3000.1.1:
+    death: yes
+fla_louis_ii_de_dampierre_1:
+  1316.1.1:
+    birth: bruges #TODO: Date and location guessed, check if better data is available
+    first_name: louis
+    dynasty: de_dampierre_dynasty
+    adm: 30
+    dip: 75
+    mil: 30
+    religion: catholic
+    culture: flemish
+  3000.1.1:
+    death: yes

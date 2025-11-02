@@ -1,0 +1,66 @@
+#imported from EU4 file: history/provinces/4249 - Zubtsov.txt
+2.1.1:
+  pop:
+    ethnicity: muscovite
+    religion: slavic
+    estate: peasant
+    size: 1000
+550.1.1:
+  owner: VYAT
+  controller: VYAT
+  cores:
+    VYAT: yes
+  resource: grain
+960.1.1:
+  owner: KIEV
+  controller: KIEV
+  cores:
+    VYAT: no
+    KIEV: yes
+1054.2.20:
+  owner: NOV
+  controller: NOV
+  cores:
+    KIEV: no
+    NOV: yes
+1120.1.1:
+  pop:
+    religion: orthodox
+    estate: peasant
+    size: 1000
+1209.1.1:
+  owner: VLR
+  controller: VLR
+  cores:
+    NOV: no
+    VLR: yes
+1246.1.1:
+  owner: TVE
+  controller: TVE
+  cores:
+    VLR: no
+    TVE: yes
+1485.9.11:
+  owner: MOS
+  controller: MOS
+  cores:
+    TVE: no
+    MOS: yes
+1503.4.1:
+  owner: RUS
+  controller: RUS
+  cores:
+    MOS: no
+    RUS: yes
+1922.12.30:
+  owner: SOVI
+  controller: SOVI
+  cores:
+    RUS: no
+    SOVI: yes
+1991.12.25:
+  owner: RUS
+  controller: RUS
+  cores:
+    SOVI: no
+    RUS: yes

@@ -1,0 +1,54 @@
+#imported from EU4 file: history/provinces/743 - Essequibo.txt
+2.1.1:
+  owner: ARW
+  controller: ARW
+  cores:
+    ARW: yes
+  resource: sugar
+  pop:
+    ethnicity: wayuu_culture
+    religion: muisca_religion
+    estate: peasant
+    size: 1000
+1616.1.1:
+  owner: NED
+  controller: NED
+  pop:
+    ethnicity: low_franconian
+    religion: calvinist
+    estate: peasant
+    size: 1000
+1641.1.1:
+  cores:
+    NED: yes
+1763.12.23:
+  controller: NED
+1780.1.1:
+  pop:
+    ethnicity: germanic_colombian
+    estate: peasant
+    size: 1000
+1796.1.1:
+  owner: GBR
+  controller: GBR
+  cores:
+    NED: no
+  pop:
+    ethnicity: british_colombian
+    estate: peasant
+    size: 1000
+1821.1.1:
+  cores:
+    GBR: yes
+1824.1.1:
+  cores:
+    VENE: yes
+1899.1.1:
+  cores:
+    VENE: no
+1966.5.26:
+  owner: GUYA
+  controller: GUYA
+  cores:
+    GBR: no
+    GUYA: yes

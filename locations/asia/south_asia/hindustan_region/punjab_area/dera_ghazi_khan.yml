@@ -1,0 +1,161 @@
+#imported from EU4 file: history/provinces/2079 - Derajat.txt
+2.1.1:
+  owner: IPAR
+  controller: IPAR
+  cores:
+    IPAR: yes
+  resource: wool
+  pop:
+    ethnicity: punjabi
+    religion: hindu
+    estate: peasant
+    size: 1000
+76.1.1:
+  owner: KUSH
+  controller: KUSH
+  cores:
+    IPAR: no
+    KUSH: yes
+270.1.1:
+  owner: ABHI
+  controller: ABHI
+  cores:
+    KUSH: no
+    ABHI: yes
+460.1.1:
+  owner: KAPI
+  controller: KAPI
+  cores:
+    ABHI: no
+    KAPI: yes
+510.1.1:
+  owner: SND
+  controller: SND
+  cores:
+    KAPI: no
+    SND: yes
+711.1.1:
+  owner: UMAY
+  controller: UMAY
+  cores:
+    SND: no
+    UMAY: yes
+750.8.6:
+  owner: ABBA
+  controller: ABBA
+  cores:
+    UMAY: no
+    ABBA: yes
+800.1.1:
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+841.1.1:
+  owner: SND
+  controller: SND
+  cores:
+    ABBA: no
+    SND: yes
+875.1.1:
+  owner: SIST
+  controller: SIST
+  cores:
+    SND: no
+    SIST: yes
+910.1.1:
+  owner: MULT
+  controller: MULT
+  cores:
+    SIST: no
+    MULT: yes
+1005.1.1:
+  owner: GHAZ
+  controller: GHAZ
+  cores:
+    SIST: no
+    GHAZ: yes
+1175.1.1:
+  owner: GHOR
+  controller: GHOR
+  cores:
+    GHAZ: no
+    GHOR: yes
+1210.1.1:
+  owner: MULT
+  controller: MULT
+  cores:
+    GHOR: no
+    MULT: yes
+1228.1.1:
+  owner: DLH
+  controller: DLH
+  cores:
+    DLH: yes
+1231.1.1:
+  owner: MGE
+  controller: MGE
+  cores:
+    DLH: no
+    MGE: yes
+1260.1.1:
+  owner: ILK
+  controller: ILK
+  cores:
+    MGE: no
+    ILK: yes
+1335.1.1:
+  owner: DLH
+  controller: DLH
+  cores:
+    ILK: no
+    DLH: yes
+    PUN: yes
+1398.1.1:
+  owner: MULT
+  controller: MULT
+  cores:
+    DLH: no
+    MULT: yes
+1414.1.1:
+  owner: DLH
+  controller: DLH
+1437.1.1:
+  owner: MULT
+  controller: MULT
+1526.1.1:
+  owner: SND
+  controller: SND
+1544.1.1:
+  owner: BNG
+  controller: BNG
+1545.1.1:
+  owner: SND
+  controller: SND
+1574.1.1:
+  owner: MUG
+  controller: MUG
+  cores:
+    MUG: yes
+1752.1.1:
+  owner: AFGH
+  controller: AFGH
+  cores:
+    MUG: no
+1822.1.1:
+  controller: AFGH
+1876.1.1:
+  owner: GBR
+  controller: GBR
+  cores:
+    AFGH: no
+    GBR: yes
+1930.12.29:
+  cores:
+    BALU: no
+    PAKI: yes
+1947.8.14:
+  owner: PAKI
+  controller: PAKI
+  cores:
+    GBR: no

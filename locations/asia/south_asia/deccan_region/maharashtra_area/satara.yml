@@ -1,0 +1,107 @@
+#imported from EU4 file: history/provinces/1946 - Desh.txt
+2.1.1:
+  owner: SATA
+  controller: SATA
+  cores:
+    SATA: yes
+  resource: naval_supplies
+  pop:
+    ethnicity: marathi_culture
+    religion: jain
+    estate: peasant
+    size: 1000
+220.1.1:
+  owner: ABHI
+  controller: ABHI
+  cores:
+    SATA: no
+    ABHI: yes
+250.1.1:
+  owner: VAKA
+  controller: VAKA
+  cores:
+    ABHI: no
+    VAKA: yes
+480.1.1:
+  owner: KADA
+  controller: KADA
+  cores:
+    VAKA: no
+    KADA: yes
+543.1.1:
+  owner: CHAL
+  controller: CHAL
+  cores:
+    KADA: no
+    CHAL: yes
+753.1.1:
+  owner: RAST
+  controller: RAST
+  cores:
+    CHAL: no
+    RAST: yes
+973.1.1:
+  owner: CHAL
+  controller: CHAL
+  cores:
+    RAST: no
+    CHAL: yes
+1180.1.1:
+  pop:
+    religion: hindu
+    estate: peasant
+    size: 1000
+1189.1.1:
+  owner: YADA
+  controller: YADA
+  cores:
+    CHAL: no
+    YADA: yes
+1317.1.1:
+  owner: DLH
+  controller: DLH
+  cores:
+    YADA: no
+    DLH: yes
+    AHMA: yes
+    BIJA: yes
+1347.1.1:
+  owner: BAH
+  controller: BAH
+  cores:
+    DLH: no
+    BAH: yes
+1490.1.1:
+  owner: BIJA
+  controller: BIJA
+  cores:
+    BAH: no
+1650.1.1:
+  cores:
+    MHR: yes
+1657.1.1:
+  owner: MHR
+  controller: MHR
+  cores:
+    BIJA: no
+1818.6.3:
+  owner: GBR
+  controller: GBR
+  cores:
+    GBR: yes
+1848.4.5:
+  owner: GBR
+  controller: GBR
+  cores:
+    GBR: yes
+1920.1.1:
+  resource: aluminum
+1930.1.1:
+  cores:
+    BIJA: no
+    INDI: yes
+1947.8.15:
+  owner: INDI
+  controller: INDI
+  cores:
+    GBR: no

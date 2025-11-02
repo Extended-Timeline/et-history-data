@@ -1,0 +1,67 @@
+#imported from EU4 file: history/provinces/375 - Thomond.txt
+2.1.1:
+  owner: DMS
+  controller: DMS
+  cores:
+    DMS: yes
+  resource: fish
+  pop:
+    ethnicity: irish
+    religion: druidism
+    estate: peasant
+    size: 1000
+600.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+867.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+1002.1.1:
+  owner: IRE
+  controller: IRE
+  cores:
+    IRE: yes
+1014.4.23:
+  owner: DMS
+  controller: DMS
+  cores:
+    IRE: no
+1118.1.1:
+  owner: THO
+  controller: THO
+  cores:
+    DMS: no
+    THO: yes
+1583.1.1:
+  owner: ENG
+  controller: ENG
+  cores:
+    ENG: yes
+1642.6.7:
+  owner: IRE
+  controller: IRE
+  cores:
+    IRE: yes
+1650.4.10:
+  controller: ENG
+1652.4.1:
+  owner: ENG
+1690.9.15:
+  controller: ENG
+1707.5.12:
+  owner: GBR
+  controller: GBR
+  cores:
+    ENG: no
+    GBR: yes
+1919.1.21:
+  owner: IRE
+  controller: IRE
+1922.12.7:
+  cores:
+    GBR: no
+    THO: no

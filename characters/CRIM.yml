@@ -1,0 +1,523 @@
+crim_hajji_i_giray:
+  1411.1.1:
+    birth: qirq_yer #TODO: Date and location guessed, check if better data is available
+    first_name: hajji
+    dynasty: giray_dynasty
+    adm: 60
+    dip: 60
+    mil: 60
+    religion: sunni
+    culture: crimean
+  1466.1.1:
+    death: yes
+crim_nur_daulat_i_giray:
+  1430.1.1:
+    birth: qirq_yer #TODO: Date and location guessed, check if better data is available
+    first_name: nur_daulat
+    dynasty: giray_dynasty
+    father: crim_hajji_i_giray #TODO: check if this makes sense
+    adm: 15
+    dip: 15
+    mil: 45
+    religion: sunni
+    culture: crimean
+  1479.1.1:
+    death: yes
+crim_nur_daulat_i_giray_1:
+  1436.1.1:
+    birth: qirq_yer #TODO: Date and location guessed, check if better data is available
+    first_name: nur_daulat
+    dynasty: giray_dynasty
+    adm: 15
+    dip: 15
+    mil: 45
+    religion: sunni
+    culture: crimean
+  1468.1.1:
+    death: yes
+crim_mangli_giray:
+  1438.1.1:
+    birth: qirq_yer #TODO: Date and location guessed, check if better data is available
+    first_name: mangli
+    dynasty: giray_dynasty
+    adm: 30
+    dip: 60
+    mil: 60
+    religion: sunni
+    culture: crimean
+  1475.1.1:
+    death: yes
+crim_nur_daulat_i_giray_2:
+  1445.1.1:
+    birth: qirq_yer #TODO: Date and location guessed, check if better data is available
+    first_name: nur_daulat
+    dynasty: giray_dynasty
+    adm: 15
+    dip: 15
+    mil: 45
+    religion: sunni
+    culture: crimean
+  1479.1.1:
+    death: yes
+crim_jani_beg_i_giray:
+  1460.1.1:
+    birth: qirq_yer #TODO: Date and location guessed, check if better data is available
+    first_name: jani_beg
+    dynasty: giray_dynasty
+    father: crim_nur_daulat_i_giray_2 #TODO: check if this makes sense
+    adm: 15
+    dip: 15
+    mil: 45
+    religion: sunni
+    culture: crimean
+  1480.1.1:
+    death: yes
+crim_jani_beg_i_giray_1:
+  1449.1.1:
+    birth: qirq_yer #TODO: Date and location guessed, check if better data is available
+    first_name: jani_beg
+    dynasty: giray_dynasty
+    adm: 15
+    dip: 15
+    mil: 45
+    religion: sunni
+    culture: crimean
+  1480.1.1:
+    death: yes
+crim_mangli_giray_1:
+  1450.1.1:
+    birth: qirq_yer #TODO: Date and location guessed, check if better data is available
+    first_name: mangli
+    dynasty: giray_dynasty
+    adm: 30
+    dip: 60
+    mil: 60
+    religion: sunni
+    culture: crimean
+  1515.1.1:
+    death: yes
+crim_muhammad_i_giray:
+  1500.1.1:
+    birth: qirq_yer #TODO: Date and location guessed, check if better data is available
+    first_name: muhammad
+    dynasty: giray_dynasty
+    father: crim_mangli_giray_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 45
+    mil: 75
+    religion: sunni
+    culture: crimean
+  1523.1.1:
+    death: yes
+crim_muhammad_i_giray_1:
+  1485.1.1:
+    birth: qirq_yer #TODO: Date and location guessed, check if better data is available
+    first_name: muhammad
+    dynasty: giray_dynasty
+    adm: 30
+    dip: 45
+    mil: 75
+    religion: sunni
+    culture: crimean
+  1523.1.1:
+    death: yes
+crim_saadat_i_giray:
+  1500.1.1:
+    birth: qirq_yer #TODO: Date and location guessed, check if better data is available
+    first_name: saadat
+    dynasty: giray_dynasty
+    father: crim_muhammad_i_giray_1 #TODO: check if this makes sense
+    adm: 60
+    dip: 45
+    mil: 15
+    religion: sunni
+    culture: crimean
+  1532.1.1:
+    death: yes
+crim_saadat_i_giray_1:
+  1493.1.1:
+    birth: qirq_yer #TODO: Date and location guessed, check if better data is available
+    first_name: saadat
+    dynasty: giray_dynasty
+    adm: 60
+    dip: 45
+    mil: 15
+    religion: sunni
+    culture: crimean
+  1532.1.1:
+    death: yes
+crim_sahib_i_giray:
+  1515.1.1:
+    birth: qirq_yer #TODO: Date and location guessed, check if better data is available
+    first_name: sahib
+    dynasty: giray_dynasty
+    father: crim_saadat_i_giray_1 #TODO: check if this makes sense
+    adm: 75
+    dip: 75
+    mil: 60
+    religion: sunni
+    culture: crimean
+  1552.1.1:
+    death: yes
+crim_sahib_i_giray_1:
+  1502.1.1:
+    birth: qirq_yer #TODO: Date and location guessed, check if better data is available
+    first_name: sahib
+    dynasty: giray_dynasty
+    adm: 75
+    dip: 75
+    mil: 60
+    religion: sunni
+    culture: crimean
+  1552.1.1:
+    death: yes
+crim_dawlat_i_giray:
+  1532.1.1:
+    birth: qirq_yer #TODO: Date and location guessed, check if better data is available
+    first_name: dawlat
+    dynasty: giray_dynasty
+    father: crim_sahib_i_giray_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 45
+    mil: 75
+    religion: sunni
+    culture: crimean
+  1577.1.1:
+    death: yes
+crim_dawlat_i_giray_1:
+  1522.1.1:
+    birth: qirq_yer #TODO: Date and location guessed, check if better data is available
+    first_name: dawlat
+    dynasty: giray_dynasty
+    adm: 45
+    dip: 45
+    mil: 75
+    religion: sunni
+    culture: crimean
+  1577.1.1:
+    death: yes
+crim_muhammad_ii_giray:
+  1552.1.1:
+    birth: qirq_yer #TODO: Date and location guessed, check if better data is available
+    first_name: muhammad
+    dynasty: giray_dynasty
+    father: crim_dawlat_i_giray_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 45
+    mil: 45
+    religion: sunni
+    culture: crimean
+  1584.1.1:
+    death: yes
+crim_muhammad_ii_giray_1:
+  1547.1.1:
+    birth: qirq_yer #TODO: Date and location guessed, check if better data is available
+    first_name: muhammad
+    dynasty: giray_dynasty
+    adm: 15
+    dip: 45
+    mil: 45
+    religion: sunni
+    culture: crimean
+  1584.1.1:
+    death: yes
+crim_ghazi_ii_giray:
+  1570.1.1:
+    birth: qirq_yer #TODO: Date and location guessed, check if better data is available
+    first_name: ghazi
+    dynasty: giray_dynasty
+    father: crim_muhammad_ii_giray_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 30
+    mil: 60
+    religion: sunni
+    culture: crimean
+  1608.1.1:
+    death: yes
+crim_ghazi_ii_giray_1:
+  1554.1.1:
+    birth: qirq_yer #TODO: Date and location guessed, check if better data is available
+    first_name: ghazi
+    dynasty: giray_dynasty
+    adm: 45
+    dip: 30
+    mil: 60
+    religion: sunni
+    culture: crimean
+  1608.1.1:
+    death: yes
+crim_muhammad_iii_giray:
+  1575.1.1:
+    birth: qirq_yer #TODO: Date and location guessed, check if better data is available
+    first_name: muhammad
+    dynasty: giray_dynasty
+    father: crim_ghazi_ii_giray_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 75
+    mil: 30
+    religion: sunni
+    culture: crimean
+  1627.1.1:
+    death: yes
+crim_muhammad_iii_giray_1:
+  1578.1.1:
+    birth: qirq_yer #TODO: Date and location guessed, check if better data is available
+    first_name: muhammad
+    dynasty: giray_dynasty
+    adm: 30
+    dip: 75
+    mil: 30
+    religion: sunni
+    culture: crimean
+  1627.1.1:
+    death: yes
+crim_jani_beg_ii_giray:
+  1608.1.1:
+    birth: qirq_yer #TODO: Date and location guessed, check if better data is available
+    first_name: jani_beg
+    dynasty: giray_dynasty
+    father: crim_muhammad_iii_giray_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 45
+    mil: 15
+    religion: sunni
+    culture: crimean
+  1635.2.24:
+    death: yes
+crim_jani_beg_ii_giray_1:
+  1597.1.1:
+    birth: qirq_yer #TODO: Date and location guessed, check if better data is available
+    first_name: jani_beg
+    dynasty: giray_dynasty
+    adm: 45
+    dip: 45
+    mil: 15
+    religion: sunni
+    culture: crimean
+  1635.2.24:
+    death: yes
+crim_muhammad_iv_giray:
+  1600.1.1:
+    birth: qirq_yer #TODO: Date and location guessed, check if better data is available
+    first_name: muhammad
+    dynasty: giray_dynasty
+    father: crim_jani_beg_ii_giray_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 75
+    mil: 30
+    religion: sunni
+    culture: crimean
+  1666.1.1:
+    death: yes
+crim_muhammad_iv_giray_1:
+  1605.1.1:
+    birth: qirq_yer #TODO: Date and location guessed, check if better data is available
+    first_name: muhammad
+    dynasty: giray_dynasty
+    adm: 30
+    dip: 75
+    mil: 30
+    religion: sunni
+    culture: crimean
+  1666.1.1:
+    death: yes
+crim_salim_i_giray:
+  1650.1.1:
+    birth: qirq_yer #TODO: Date and location guessed, check if better data is available
+    first_name: salim
+    dynasty: giray_dynasty
+    father: crim_muhammad_iv_giray_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 90
+    mil: 60
+    religion: sunni
+    culture: crimean
+  1704.12.23:
+    death: yes
+crim_salim_i_giray_1:
+  1636.1.1:
+    birth: qirq_yer #TODO: Date and location guessed, check if better data is available
+    first_name: salim
+    dynasty: giray_dynasty
+    adm: 15
+    dip: 90
+    mil: 60
+    religion: sunni
+    culture: crimean
+  1704.12.23:
+    death: yes
+crim_qaplan_i_giray:
+  1680.1.1:
+    birth: qirq_yer #TODO: Date and location guessed, check if better data is available
+    first_name: qaplan
+    dynasty: giray_dynasty
+    father: crim_salim_i_giray_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 45
+    mil: 30
+    religion: sunni
+    culture: crimean
+  1736.9.7:
+    death: yes
+crim_qaplan_i_giray_1:
+  1674.1.1:
+    birth: qirq_yer #TODO: Date and location guessed, check if better data is available
+    first_name: qaplan
+    dynasty: giray_dynasty
+    adm: 15
+    dip: 45
+    mil: 30
+    religion: sunni
+    culture: crimean
+  1736.9.7:
+    death: yes
+crim_salim_ii_giray:
+  1702.1.1:
+    birth: qirq_yer #TODO: Date and location guessed, check if better data is available
+    first_name: salim
+    dynasty: giray_dynasty
+    father: crim_qaplan_i_giray_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 30
+    mil: 15
+    religion: sunni
+    culture: crimean
+  1748.5.19:
+    death: yes
+crim_salim_ii_giray_1:
+  1706.1.1:
+    birth: qirq_yer #TODO: Date and location guessed, check if better data is available
+    first_name: salim
+    dynasty: giray_dynasty
+    adm: 15
+    dip: 30
+    mil: 15
+    religion: sunni
+    culture: crimean
+  1748.5.19:
+    death: yes
+crim_arslan_giray:
+  1730.1.1:
+    birth: qirq_yer #TODO: Date and location guessed, check if better data is available
+    first_name: arslan
+    dynasty: giray_dynasty
+    father: crim_salim_ii_giray_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 75
+    mil: 45
+    religion: sunni
+    culture: crimean
+  1767.6.2:
+    death: yes
+crim_arslan_giray_1:
+  1718.1.1:
+    birth: qirq_yer #TODO: Date and location guessed, check if better data is available
+    first_name: arslan
+    dynasty: giray_dynasty
+    adm: 30
+    dip: 75
+    mil: 45
+    religion: sunni
+    culture: crimean
+  1767.6.2:
+    death: yes
+crim_maqsud_giray:
+  1750.1.1:
+    birth: qirq_yer #TODO: Date and location guessed, check if better data is available
+    first_name: maqsud
+    dynasty: giray_dynasty
+    father: crim_arslan_giray_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 45
+    mil: 15
+    religion: sunni
+    culture: crimean
+  1772.1.1:
+    death: yes
+crim_maqsud_giray_1:
+  1737.1.1:
+    birth: qirq_yer #TODO: Date and location guessed, check if better data is available
+    first_name: maqsud
+    dynasty: giray_dynasty
+    adm: 30
+    dip: 45
+    mil: 15
+    religion: sunni
+    culture: crimean
+  1772.1.1:
+    death: yes
+crim_dawlat_ii_giray:
+  1767.6.2:
+    birth: qirq_yer #TODO: Location guessed, check if better data is available
+    first_name: dawlat
+    dynasty: giray_dynasty
+    father: crim_maqsud_giray_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 30
+    mil: 30
+    religion: sunni
+    culture: crimean
+  1777.5.5:
+    death: yes
+crim_dawlat_ii_giray_1:
+  1742.1.1:
+    birth: qirq_yer #TODO: Date and location guessed, check if better data is available
+    first_name: dawlat
+    dynasty: giray_dynasty
+    adm: 30
+    dip: 30
+    mil: 30
+    religion: sunni
+    culture: crimean
+  1777.5.5:
+    death: yes
+crim_shahin_giray:
+  1760.1.1:
+    birth: qirq_yer #TODO: Date and location guessed, check if better data is available
+    first_name: shahin
+    dynasty: giray_dynasty
+    father: crim_dawlat_ii_giray_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 45
+    mil: 45
+    religion: sunni
+    culture: crimean
+  1782.7.1:
+    death: yes
+crim_shahin_giray_1:
+  1747.1.1:
+    birth: qirq_yer #TODO: Date and location guessed, check if better data is available
+    first_name: shahin
+    dynasty: giray_dynasty
+    adm: 30
+    dip: 45
+    mil: 45
+    religion: sunni
+    culture: crimean
+  1782.7.1:
+    death: yes
+crim_bahadur_ii_giray:
+  1750.1.1:
+    birth: qirq_yer #TODO: Date and location guessed, check if better data is available
+    first_name: bahadur
+    dynasty: giray_dynasty
+    father: crim_shahin_giray_1 #TODO: check if this makes sense
+    adm: 60
+    dip: 30
+    mil: 45
+    religion: sunni
+    culture: crimean
+  1783.1.1:
+    death: yes
+crim_bahadur_ii_giray_1:
+  1752.1.1:
+    birth: qirq_yer #TODO: Date and location guessed, check if better data is available
+    first_name: bahadur
+    dynasty: giray_dynasty
+    adm: 60
+    dip: 30
+    mil: 45
+    religion: sunni
+    culture: crimean
+  3000.1.1:
+    death: yes

@@ -1,0 +1,62 @@
+#imported from EU4 file: history/provinces/3274 - Maradi.txt
+2.1.1:
+  pop:
+    ethnicity: hausa
+    religion: bantu_religion
+    estate: peasant
+    size: 1000
+523.1.1:
+  owner: GOB
+  controller: GOB
+  cores:
+    GOB: yes
+  resource: iron
+1150.1.1:
+  owner: KTS
+  controller: KTS
+  cores:
+    KEB: no
+    KTS: yes
+1360.1.1:
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+1514.1.1:
+  owner: SON
+  controller: SON
+  cores:
+    SON: yes
+1516.1.1:
+  owner: KEB
+  controller: KEB
+  cores:
+    SON: no
+    KEB: yes
+1556.1.1:
+  owner: GOB
+  controller: GOB
+  cores:
+    KEB: no
+1901.1.1:
+  owner: FRA
+  controller: FRA
+  cores:
+    FRA: yes
+1940.6.14:
+  owner: VFRA
+  controller: VFRA
+  cores:
+    VFRA: yes
+1942.11.16:
+  owner: FRA
+  controller: FRA
+  cores:
+    VFRA: no
+1960.8.3:
+  owner: NIGE
+  controller: NIGE
+  cores:
+    FRA: no
+    SOKO: no
+    NIGE: yes

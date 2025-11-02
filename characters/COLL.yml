@@ -1,0 +1,62 @@
+coll_cari_colla:
+  1414.1.1:
+    birth: paititi #TODO: Date and location guessed, check if better data is available
+    first_name: cari
+    dynasty: colla_dynasty
+    adm: 30
+    dip: 15
+    mil: 30
+    religion: inti
+    culture: aimara_culture
+  1460.1.1:
+    death: yes
+coll_chuqui_capac_colla:
+  1420.1.1:
+    birth: hatunqulla #TODO: Date and location guessed, check if better data is available
+    first_name: chuqui_capac
+    dynasty: colla_dynasty
+    father: coll_cari_colla #TODO: check if this makes sense
+    adm: 30
+    dip: 15
+    mil: 15
+    religion: inti
+    culture: aimara_culture
+  1470.1.1:
+    death: yes
+coll_chuqui_capac_colla_1:
+  1430.1.1:
+    birth: paititi #TODO: Date and location guessed, check if better data is available
+    first_name: chuqui_capac
+    dynasty: colla_dynasty
+    adm: 30
+    dip: 15
+    mil: 15
+    religion: inti
+    culture: aimara_culture
+  1470.1.1:
+    death: yes
+coll_colla_capac_colla:
+  1450.1.1:
+    birth: paititi #TODO: Date and location guessed, check if better data is available
+    first_name: colla_capac
+    dynasty: colla_dynasty
+    father: coll_chuqui_capac_colla_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 15
+    mil: 15
+    religion: inti
+    culture: aimara_culture
+  1476.1.1:
+    death: yes
+coll_colla_capac_colla_1:
+  1440.1.1:
+    birth: paititi #TODO: Date and location guessed, check if better data is available
+    first_name: colla_capac
+    dynasty: colla_dynasty
+    adm: 15
+    dip: 15
+    mil: 15
+    religion: inti
+    culture: aimara_culture
+  3000.1.1:
+    death: yes

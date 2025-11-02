@@ -1,0 +1,125 @@
+#imported from EU4 file: history/provinces/4301 - Kartli.txt
+2.1.1:
+  owner: IBER
+  controller: IBER
+  cores:
+    IBER: yes
+  resource: silk
+  pop:
+    ethnicity: georgian_culture
+    religion: georgian_religion
+    estate: peasant
+    size: 1000
+326.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+527.1.1:
+  controller: ERA
+532.1.1:
+  controller: IBER
+580.1.1:
+  owner: ERA
+  controller: ERA
+  cores:
+    ERA: yes
+591.1.1:
+  owner: BYZ
+  controller: BYZ
+  cores:
+    ERA: no
+    BYZ: yes
+654.1.1:
+  owner: IBER
+  controller: IBER
+  cores:
+    BYZ: no
+    IBER: yes
+    RASH: yes
+661.1.1:
+  cores:
+    RASH: no
+    UMAY: yes
+750.1.1:
+  cores:
+    UMAY: no
+    ABBA: yes
+810.1.1:
+  cores:
+    ABBA: no
+867.1.1:
+  pop:
+    religion: orthodox
+    estate: peasant
+    size: 1000
+1020.1.1:
+  owner: GEO
+  controller: GEO
+  cores:
+    IBER: no
+    GEO: yes
+1236.1.1:
+  owner: MGE
+  controller: MGE
+  cores:
+    MGE: yes
+1260.1.1:
+  owner: GEO
+  controller: GEO
+  cores:
+    MGE: no
+1588.1.1:
+  controller: TUR
+1590.3.21:
+  controller: GEO
+1630.1.1:
+  owner: KAKH
+  controller: KAKH
+  cores:
+    KAKH: yes
+1633.1.1:
+  owner: GEO
+  controller: GEO
+  cores:
+    KAKH: no
+1727.1.1:
+  owner: TUR
+  controller: TUR
+  cores:
+    TUR: yes
+1735.1.1:
+  controller: IRA
+1736.9.24:
+  owner: IRA
+  cores:
+    TUR: no
+    IRA: yes
+1744.1.1:
+  owner: GEO
+  controller: GEO
+  cores:
+    IRA: no
+1801.9.12:
+  owner: RUS
+  controller: RUS
+  cores:
+    RUS: yes
+1918.5.26:
+  owner: GEO
+  controller: GEO
+1921.2.25:
+  owner: RUS
+  controller: RUS
+1922.12.30:
+  owner: SOVI
+  controller: SOVI
+  cores:
+    RUS: no
+    SOVI: yes
+1991.4.9:
+  owner: GEO
+  controller: GEO
+  cores:
+    SOVI: no
+    RUS: no

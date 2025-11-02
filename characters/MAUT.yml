@@ -1,0 +1,37 @@
+maut_juba_ii_massylii:
+  -28.1.1:
+    birth: fez #TODO: Date and location guessed, check if better data is available
+    first_name: juba
+    dynasty: massylii_dynasty
+    adm: 45
+    dip: 60
+    mil: 30
+    religion: hellenism_religion
+    culture: zenati
+  23.1.1:
+    death: yes
+maut_ptolemy_ptolemaic:
+  2.1.1:
+    birth: fez #TODO: Date and location guessed, check if better data is available
+    first_name: ptolemy
+    dynasty: ptolemaic_dynasty
+    father: maut_juba_ii_massylii #TODO: check if this makes sense
+    adm: 30
+    dip: 45
+    mil: 60
+    religion: hellenism_religion
+    culture: zenati
+  40.1.1:
+    death: yes
+maut_ptolemy_ptolemaic_1:
+  -7.1.1:
+    birth: fez #TODO: Date and location guessed, check if better data is available
+    first_name: ptolemy
+    dynasty: ptolemaic_dynasty
+    adm: 30
+    dip: 45
+    mil: 60
+    religion: hellenism_religion
+    culture: zenati
+  3000.1.1:
+    death: yes

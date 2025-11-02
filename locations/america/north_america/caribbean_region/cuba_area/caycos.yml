@@ -1,0 +1,42 @@
+#imported from EU4 file: history/provinces/483 - Turks Islands.txt
+2.1.1:
+  pop:
+    ethnicity: guaribes_culture
+    religion: muisca_religion
+    estate: peasant
+    size: 1000
+1512.1.1:
+  owner: CAS
+  controller: CAS
+  resource: cotton
+  pop:
+    ethnicity: castilian
+    religion: catholic
+    estate: peasant
+    size: 1000
+1516.1.23:
+  owner: SPA
+  controller: SPA
+1537.1.1:
+  cores:
+    SPA: yes
+1700.1.1:
+  owner: ENG
+  controller: ENG
+  cores:
+    SPA: no
+  pop:
+    ethnicity: english
+    religion: lutheran
+    estate: peasant
+    size: 1000
+1707.5.12:
+  owner: GBR
+  controller: GBR
+  cores:
+    GBR: yes
+1780.1.1:
+  pop:
+    ethnicity: british_caribbean
+    estate: peasant
+    size: 1000

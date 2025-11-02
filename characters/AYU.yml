@@ -1,0 +1,681 @@
+ayu_uthong_i_uthong:
+  1320.1.1:
+    birth: ayodhya #TODO: Date and location guessed, check if better data is available
+    first_name: uthong
+    dynasty: uthong_dynasty
+    adm: 45
+    dip: 45
+    mil: 60
+    religion: theravada
+    culture: thai_culture
+  1369.1.1:
+    death: yes
+ayu_ramesuan_i_uthong:
+  1339.1.1:
+    birth: ayodhya #TODO: Date and location guessed, check if better data is available
+    first_name: ramesuan
+    dynasty: uthong_dynasty
+    father: ayu_uthong_i_uthong #TODO: check if this makes sense
+    adm: 30
+    dip: 45
+    mil: 45
+    religion: theravada
+    culture: thai_culture
+  1395.1.1:
+    death: yes
+ayu_ramesuan_i_suphannaphum:
+  1339.1.1:
+    birth: ayodhya #TODO: Date and location guessed, check if better data is available
+    first_name: ramesuan
+    dynasty: suphannaphum_dynasty
+    adm: 30
+    dip: 45
+    mil: 45
+    religion: theravada
+    culture: thai_culture
+  1370.1.1:
+    death: yes
+ayu_borommarachathirat_i_suphannaphum:
+  1340.1.1:
+    birth: ayodhya #TODO: Date and location guessed, check if better data is available
+    first_name: borommarachathirat
+    dynasty: suphannaphum_dynasty
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: theravada
+    culture: thai_culture
+  1388.1.1:
+    death: yes
+ayu_ramesuan_i_uthong_1:
+  1358.1.1:
+    birth: ayodhya #TODO: Date and location guessed, check if better data is available
+    first_name: ramesuan
+    dynasty: uthong_dynasty
+    adm: 30
+    dip: 45
+    mil: 45
+    religion: theravada
+    culture: thai_culture
+  1395.1.1:
+    death: yes
+ayu_ram_raja_uthong:
+  1356.1.1:
+    birth: ayodhya #TODO: Date and location guessed, check if better data is available
+    first_name: ram_raja
+    dynasty: uthong_dynasty
+    father: ayu_ramesuan_i_uthong_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 30
+    mil: 30
+    religion: theravada
+    culture: thai_culture
+  1408.1.1:
+    death: yes
+ayu_ram_raja_uthong_1:
+  1365.1.1:
+    birth: ayodhya #TODO: Date and location guessed, check if better data is available
+    first_name: ram_raja
+    dynasty: uthong_dynasty
+    adm: 45
+    dip: 30
+    mil: 30
+    religion: theravada
+    culture: thai_culture
+  1408.1.1:
+    death: yes
+ayu_intaraja_i_suphannaphum:
+  1378.1.1:
+    birth: ayodhya #TODO: Date and location guessed, check if better data is available
+    first_name: intaraja
+    dynasty: suphannaphum_dynasty
+    adm: 15
+    dip: 45
+    mil: 45
+    religion: theravada
+    culture: thai_culture
+  1424.1.1:
+    death: yes
+ayu_boromoraja_ii_suphannaphum:
+  1408.1.1:
+    birth: ayodhya #TODO: Date and location guessed, check if better data is available
+    first_name: boromoraja
+    dynasty: suphannaphum_dynasty
+    father: ayu_intaraja_i_suphannaphum #TODO: check if this makes sense
+    adm: 30
+    dip: 45
+    mil: 60
+    religion: theravada
+    culture: thai_culture
+  1448.1.1:
+    death: yes
+ayu_boromoraja_ii_suphannaphum_1:
+  1394.1.1:
+    birth: ayodhya #TODO: Date and location guessed, check if better data is available
+    first_name: boromoraja
+    dynasty: suphannaphum_dynasty
+    adm: 30
+    dip: 45
+    mil: 60
+    religion: theravada
+    culture: thai_culture
+  1448.1.1:
+    death: yes
+ayu_boromo_trailokanat_suphannaphum:
+  1431.1.1:
+    birth: ayodhya #TODO: Date and location guessed, check if better data is available
+    first_name: boromo_trailokanat
+    dynasty: suphannaphum_dynasty
+    father: ayu_boromoraja_ii_suphannaphum_1 #TODO: check if this makes sense
+    adm: 90
+    dip: 45
+    mil: 45
+    religion: theravada
+    culture: thai_culture
+  1488.1.1:
+    death: yes
+ayu_boromo_trailokanat_suphannaphum_1:
+  1418.1.1:
+    birth: ayodhya #TODO: Date and location guessed, check if better data is available
+    first_name: boromo_trailokanat
+    dynasty: suphannaphum_dynasty
+    adm: 90
+    dip: 45
+    mil: 45
+    religion: theravada
+    culture: thai_culture
+  1488.1.1:
+    death: yes
+ayu_boromorajat_iii_suphannaphum:
+  1470.1.1:
+    birth: ayodhya #TODO: Date and location guessed, check if better data is available
+    first_name: boromorajat
+    dynasty: suphannaphum_dynasty
+    father: ayu_boromo_trailokanat_suphannaphum_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 60
+    mil: 15
+    religion: theravada
+    culture: thai_culture
+  1491.1.1:
+    death: yes
+ayu_boromorajat_iii_suphannaphum_1:
+  1458.1.1:
+    birth: ayodhya #TODO: Date and location guessed, check if better data is available
+    first_name: boromorajat
+    dynasty: suphannaphum_dynasty
+    adm: 30
+    dip: 60
+    mil: 15
+    religion: theravada
+    culture: thai_culture
+  1491.1.1:
+    death: yes
+ayu_rama_tibodi_iii_suphannaphum:
+  1473.1.1:
+    birth: ayodhya #TODO: Date and location guessed, check if better data is available
+    first_name: rama_tibodi
+    dynasty: suphannaphum_dynasty
+    father: ayu_boromorajat_iii_suphannaphum_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 30
+    mil: 30
+    religion: theravada
+    culture: thai_culture
+  1529.7.1:
+    death: yes
+ayu_rama_tibodi_iii_suphannaphum_1:
+  1461.1.1:
+    birth: ayodhya #TODO: Date and location guessed, check if better data is available
+    first_name: rama_tibodi
+    dynasty: suphannaphum_dynasty
+    adm: 45
+    dip: 30
+    mil: 30
+    religion: theravada
+    culture: thai_culture
+  1529.7.1:
+    death: yes
+ayu_boromoraja_iv_suphannaphum:
+  1515.1.1:
+    birth: ayodhya #TODO: Date and location guessed, check if better data is available
+    first_name: boromoraja
+    dynasty: suphannaphum_dynasty
+    father: ayu_rama_tibodi_iii_suphannaphum_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 45
+    mil: 30
+    religion: theravada
+    culture: thai_culture
+  1533.1.1:
+    death: yes
+ayu_boromoraja_iv_suphannaphum_1:
+  1499.1.1:
+    birth: ayodhya #TODO: Date and location guessed, check if better data is available
+    first_name: boromoraja
+    dynasty: suphannaphum_dynasty
+    adm: 45
+    dip: 45
+    mil: 30
+    religion: theravada
+    culture: thai_culture
+  1533.1.1:
+    death: yes
+ayu_ratsada_suphannaphum:
+  1528.1.1:
+    birth: ayodhya #TODO: Date and location guessed, check if better data is available
+    first_name: ratsada
+    dynasty: suphannaphum_dynasty
+    father: ayu_boromoraja_iv_suphannaphum_1 #TODO: check if this makes sense
+    adm: 60
+    dip: 90
+    mil: 60
+    religion: theravada
+    culture: thai_culture
+  1534.1.1:
+    death: yes
+ayu_ratsada_suphannaphum_1:
+  1503.1.1:
+    birth: ayodhya #TODO: Date and location guessed, check if better data is available
+    first_name: ratsada
+    dynasty: suphannaphum_dynasty
+    adm: 60
+    dip: 90
+    mil: 60
+    religion: theravada
+    culture: thai_culture
+  1534.1.1:
+    death: yes
+ayu_chairacha_suphannaphum:
+  1520.1.1:
+    birth: ayodhya #TODO: Date and location guessed, check if better data is available
+    first_name: chairacha
+    dynasty: suphannaphum_dynasty
+    father: ayu_ratsada_suphannaphum_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 30
+    mil: 60
+    religion: theravada
+    culture: thai_culture
+  1546.6.1:
+    death: yes
+ayu_chairacha_suphannaphum_1:
+  1504.1.1:
+    birth: ayodhya #TODO: Date and location guessed, check if better data is available
+    first_name: chairacha
+    dynasty: suphannaphum_dynasty
+    adm: 45
+    dip: 30
+    mil: 60
+    religion: theravada
+    culture: thai_culture
+  1546.6.1:
+    death: yes
+ayu_keo_fa_suphannaphum:
+  1535.1.1:
+    birth: ayodhya #TODO: Date and location guessed, check if better data is available
+    first_name: keo_fa
+    dynasty: suphannaphum_dynasty
+    father: ayu_chairacha_suphannaphum_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 30
+    mil: 30
+    religion: theravada
+    culture: thai_culture
+  1548.11.12:
+    death: yes
+ayu_keo_fa_suphannaphum_1:
+  1516.1.1:
+    birth: ayodhya #TODO: Date and location guessed, check if better data is available
+    first_name: keo_fa
+    dynasty: suphannaphum_dynasty
+    adm: 15
+    dip: 30
+    mil: 30
+    religion: theravada
+    culture: thai_culture
+  1548.11.12:
+    death: yes
+ayu_khun_worawongsa_suphannaphum:
+  1518.1.1:
+    birth: ayodhya #TODO: Date and location guessed, check if better data is available
+    first_name: khun_worawongsa
+    dynasty: suphannaphum_dynasty
+    adm: 45
+    dip: 30
+    mil: 45
+    religion: theravada
+    culture: thai_culture
+  1549.1.20:
+    death: yes
+ayu_maha_chakkrapat_suphannaphum:
+  1519.1.1:
+    birth: ayodhya #TODO: Date and location guessed, check if better data is available
+    first_name: maha_chakkrapat
+    dynasty: suphannaphum_dynasty
+    adm: 30
+    dip: 30
+    mil: 15
+    religion: theravada
+    culture: thai_culture
+  1568.1.1:
+    death: yes
+ayu_mahin_suphannaphum:
+  1539.1.1:
+    birth: ayodhya #TODO: Date and location guessed, check if better data is available
+    first_name: mahin
+    dynasty: suphannaphum_dynasty
+    father: ayu_maha_chakkrapat_suphannaphum #TODO: check if this makes sense
+    adm: 15
+    dip: 30
+    mil: 15
+    religion: theravada
+    culture: thai_culture
+  1569.1.1:
+    death: yes
+ayu_mahin_suphannaphum_1:
+  1538.1.1:
+    birth: ayodhya #TODO: Date and location guessed, check if better data is available
+    first_name: mahin
+    dynasty: suphannaphum_dynasty
+    adm: 15
+    dip: 30
+    mil: 15
+    religion: theravada
+    culture: thai_culture
+  1569.11.1:
+    death: yes
+ayu_maha_thammaraja_i_suhkothai:
+  1539.1.1:
+    birth: ayodhya #TODO: Date and location guessed, check if better data is available
+    first_name: maha_thammaraja
+    dynasty: suhkothai_dynasty
+    adm: 15
+    dip: 15
+    mil: 15
+    religion: theravada
+    culture: thai_culture
+  1590.7.1:
+    death: yes
+ayu_naresuen_suhkothai:
+  1555.4.25:
+    birth: ayodhya #TODO: Location guessed, check if better data is available
+    first_name: naresuen
+    dynasty: suhkothai_dynasty
+    father: ayu_maha_thammaraja_i_suhkothai #TODO: check if this makes sense
+    adm: 75
+    dip: 60
+    mil: 90
+    religion: theravada
+    culture: thai_culture
+  1605.4.7:
+    death: yes
+ayu_naresuen_suhkothai_1:
+  1560.1.1:
+    birth: ayodhya #TODO: Date and location guessed, check if better data is available
+    first_name: naresuen
+    dynasty: suhkothai_dynasty
+    adm: 75
+    dip: 60
+    mil: 90
+    religion: theravada
+    culture: thai_culture
+  1605.5.17:
+    death: yes
+ayu_ekatotsarat_suhkothai:
+  1556.1.1:
+    birth: ayodhya #TODO: Date and location guessed, check if better data is available
+    first_name: ekatotsarat
+    dynasty: suhkothai_dynasty
+    father: ayu_naresuen_suhkothai_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 30
+    mil: 30
+    religion: theravada
+    culture: thai_culture
+  1610.1.1:
+    death: yes
+ayu_ekatotsarat_suhkothai_1:
+  1575.1.1:
+    birth: ayodhya #TODO: Date and location guessed, check if better data is available
+    first_name: ekatotsarat
+    dynasty: suhkothai_dynasty
+    adm: 45
+    dip: 30
+    mil: 30
+    religion: theravada
+    culture: thai_culture
+  1611.1.1:
+    death: yes
+ayu_songtham_intaraja_ii_suhkothai:
+  1590.1.1:
+    birth: ayodhya #TODO: Date and location guessed, check if better data is available
+    first_name: songtham_intaraja
+    dynasty: suhkothai_dynasty
+    father: ayu_ekatotsarat_suhkothai_1 #TODO: check if this makes sense
+    adm: 75
+    dip: 30
+    mil: 15
+    religion: theravada
+    culture: thai_culture
+  1628.12.13:
+    death: yes
+ayu_songtham_intaraja_ii_suhkothai_1:
+  1581.1.1:
+    birth: ayodhya #TODO: Date and location guessed, check if better data is available
+    first_name: songtham_intaraja
+    dynasty: suhkothai_dynasty
+    adm: 75
+    dip: 30
+    mil: 15
+    religion: theravada
+    culture: thai_culture
+  1628.12.13:
+    death: yes
+ayu_jettatirat_suhkothai:
+  1613.1.1:
+    birth: ayodhya #TODO: Date and location guessed, check if better data is available
+    first_name: jettatirat
+    dynasty: suhkothai_dynasty
+    father: ayu_songtham_intaraja_ii_suhkothai_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 45
+    mil: 30
+    religion: theravada
+    culture: thai_culture
+  1629.8.1:
+    death: yes
+ayu_jettatirat_suhkothai_1:
+  1598.1.1:
+    birth: ayodhya #TODO: Date and location guessed, check if better data is available
+    first_name: jettatirat
+    dynasty: suhkothai_dynasty
+    adm: 15
+    dip: 45
+    mil: 30
+    religion: theravada
+    culture: thai_culture
+  1629.8.1:
+    death: yes
+ayu_atityawang_suhkothai:
+  1618.1.1:
+    birth: ayodhya #TODO: Date and location guessed, check if better data is available
+    first_name: atityawang
+    dynasty: suhkothai_dynasty
+    father: ayu_jettatirat_suhkothai_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 15
+    mil: 15
+    religion: theravada
+    culture: thai_culture
+  1640.1.1:
+    death: yes
+ayu_atityawang_suhkothai_1:
+  1599.1.1:
+    birth: ayodhya #TODO: Date and location guessed, check if better data is available
+    first_name: atityawang
+    dynasty: suhkothai_dynasty
+    adm: 15
+    dip: 15
+    mil: 15
+    religion: theravada
+    culture: thai_culture
+  1629.9.1:
+    death: yes
+ayu_prasat_thong_prasat_thong:
+  1599.1.1:
+    birth: ayodhya #TODO: Date and location guessed, check if better data is available
+    first_name: prasat_thong
+    dynasty: prasat_thong_dynasty
+    adm: 15
+    dip: 15
+    mil: 60
+    religion: theravada
+    culture: thai_culture
+  1656.8.8:
+    death: yes
+ayu_chao_fa_jai_prasat_thong:
+  1629.1.1:
+    birth: ayodhya #TODO: Date and location guessed, check if better data is available
+    first_name: chao_fa_jai
+    dynasty: prasat_thong_dynasty
+    father: ayu_prasat_thong_prasat_thong #TODO: check if this makes sense
+    adm: 45
+    dip: 30
+    mil: 30
+    religion: theravada
+    culture: thai_culture
+  1688.7.11:
+    death: yes
+ayu_chao_fa_jai_prasat_thong_1:
+  1626.1.1:
+    birth: ayodhya #TODO: Date and location guessed, check if better data is available
+    first_name: chao_fa_jai
+    dynasty: prasat_thong_dynasty
+    adm: 45
+    dip: 30
+    mil: 30
+    religion: theravada
+    culture: thai_culture
+  1656.8.9:
+    death: yes
+ayu_sri_suthammaraja_prasat_thong:
+  1626.1.1:
+    birth: ayodhya #TODO: Date and location guessed, check if better data is available
+    first_name: sri_suthammaraja
+    dynasty: prasat_thong_dynasty
+    adm: 15
+    dip: 45
+    mil: 15
+    religion: theravada
+    culture: thai_culture
+  1656.8.26:
+    death: yes
+ayu_narai_prasat_thong:
+  1626.1.1:
+    birth: ayodhya #TODO: Date and location guessed, check if better data is available
+    first_name: narai
+    dynasty: prasat_thong_dynasty
+    adm: 60
+    dip: 90
+    mil: 60
+    religion: theravada
+    culture: thai_culture
+  1688.7.12:
+    death: yes
+ayu_pra_petraja_ban_phlu_luang:
+  1632.1.1:
+    birth: ayodhya #TODO: Date and location guessed, check if better data is available
+    first_name: pra_petraja
+    dynasty: ban_phlu_luang_dynasty
+    father: ayu_narai_prasat_thong #TODO: check if this makes sense
+    adm: 60
+    dip: 75
+    mil: 75
+    religion: theravada
+    culture: thai_culture
+  1703.2.1:
+    death: yes
+ayu_pra_petraja_ban_phlu_luang_1:
+  1658.1.1:
+    birth: ayodhya #TODO: Date and location guessed, check if better data is available
+    first_name: pra_petraja
+    dynasty: ban_phlu_luang_dynasty
+    adm: 60
+    dip: 75
+    mil: 75
+    religion: theravada
+    culture: thai_culture
+  1703.2.1:
+    death: yes
+ayu_prachao_sua_ban_phlu_luang:
+  1680.1.1:
+    birth: ayodhya #TODO: Date and location guessed, check if better data is available
+    first_name: prachao_sua
+    dynasty: ban_phlu_luang_dynasty
+    father: ayu_pra_petraja_ban_phlu_luang_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 15
+    mil: 30
+    religion: theravada
+    culture: thai_culture
+  1709.1.1:
+    death: yes
+ayu_prachao_sua_ban_phlu_luang_1:
+  1673.1.1:
+    birth: ayodhya #TODO: Date and location guessed, check if better data is available
+    first_name: prachao_sua
+    dynasty: ban_phlu_luang_dynasty
+    adm: 15
+    dip: 15
+    mil: 30
+    religion: theravada
+    culture: thai_culture
+  1709.1.1:
+    death: yes
+ayu_tai_sra_pumintaraja_ban_phlu_luang:
+  1680.1.1:
+    birth: ayodhya #TODO: Date and location guessed, check if better data is available
+    first_name: tai_sra_pumintaraja
+    dynasty: ban_phlu_luang_dynasty
+    father: ayu_prachao_sua_ban_phlu_luang_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 30
+    mil: 30
+    religion: theravada
+    culture: thai_culture
+  1733.1.1:
+    death: yes
+ayu_tai_sra_pumintaraja_ban_phlu_luang_1:
+  1679.1.1:
+    birth: ayodhya #TODO: Date and location guessed, check if better data is available
+    first_name: tai_sra_pumintaraja
+    dynasty: ban_phlu_luang_dynasty
+    adm: 30
+    dip: 30
+    mil: 30
+    religion: theravada
+    culture: thai_culture
+  1733.1.1:
+    death: yes
+ayu_bormomakot_tammaraja_ii_ban_phlu_luang:
+  1680.1.1:
+    birth: ayodhya #TODO: Date and location guessed, check if better data is available
+    first_name: bormomakot_tammaraja
+    dynasty: ban_phlu_luang_dynasty
+    father: ayu_tai_sra_pumintaraja_ban_phlu_luang_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 60
+    mil: 30
+    religion: theravada
+    culture: thai_culture
+  1758.4.14:
+    death: yes
+ayu_boromakot_tammaraja_ii_ban_phlu_luang:
+  1703.1.1:
+    birth: ayodhya #TODO: Date and location guessed, check if better data is available
+    first_name: boromakot_tammaraja
+    dynasty: ban_phlu_luang_dynasty
+    adm: 45
+    dip: 60
+    mil: 30
+    religion: theravada
+    culture: thai_culture
+  1758.4.14:
+    death: yes
+ayu_utumpon_ban_phlu_luang:
+  1728.1.1:
+    birth: ayodhya #TODO: Date and location guessed, check if better data is available
+    first_name: utumpon
+    dynasty: ban_phlu_luang_dynasty
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: theravada
+    culture: thai_culture
+  1758.5.1:
+    death: yes
+ayu_ekatat_boromaraja_iii_ban_phlu_luang:
+  1728.1.1:
+    birth: ayodhya #TODO: Date and location guessed, check if better data is available
+    first_name: ekatat_boromaraja
+    dynasty: ban_phlu_luang_dynasty
+    adm: 15
+    dip: 15
+    mil: 15
+    religion: theravada
+    culture: thai_culture
+  1767.4.7:
+    death: yes
+ayu_thepphiphit_ban_phlu_luang:
+  1737.1.1:
+    birth: ayodhya #TODO: Date and location guessed, check if better data is available
+    first_name: thepphiphit
+    dynasty: ban_phlu_luang_dynasty
+    adm: 15
+    dip: 15
+    mil: 0
+    religion: theravada
+    culture: thai_culture
+  3000.1.1:
+    death: yes

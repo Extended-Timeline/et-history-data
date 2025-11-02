@@ -1,0 +1,62 @@
+grho_kuchuk_muhammad_borjigin:
+  1402.1.1:
+    birth: ukek #TODO: Date and location guessed, check if better data is available
+    first_name: kuchuk_muhammad
+    dynasty: borjigin_dynasty
+    adm: 0
+    dip: 0
+    mil: 30
+    religion: sunni
+    culture: mishar
+  1459.1.1:
+    death: yes
+grho_ahmad_i_borjigin:
+  1435.1.1:
+    birth: ukek #TODO: Date and location guessed, check if better data is available
+    first_name: ahmad
+    dynasty: borjigin_dynasty
+    father: grho_kuchuk_muhammad_borjigin #TODO: check if this makes sense
+    adm: 15
+    dip: 45
+    mil: 30
+    religion: sunni
+    culture: mishar
+  1481.1.6:
+    death: yes
+grho_ahmad_borjigin:
+  1429.1.1:
+    birth: ukek #TODO: Date and location guessed, check if better data is available
+    first_name: ahmad
+    dynasty: borjigin_dynasty
+    adm: 15
+    dip: 45
+    mil: 30
+    religion: sunni
+    culture: mishar
+  1481.1.6:
+    death: yes
+grho_shaikh_ahmad_i_borjigin:
+  1460.1.1:
+    birth: ukek #TODO: Date and location guessed, check if better data is available
+    first_name: shaikh_ahmad
+    dynasty: borjigin_dynasty
+    father: grho_ahmad_borjigin #TODO: check if this makes sense
+    adm: 0
+    dip: 0
+    mil: 0
+    religion: sunni
+    culture: mishar
+  1528.1.1:
+    death: yes
+grho_shaikh_ahmad_borjigin:
+  1451.1.1:
+    birth: ukek #TODO: Date and location guessed, check if better data is available
+    first_name: shaikh_ahmad
+    dynasty: borjigin_dynasty
+    adm: 0
+    dip: 0
+    mil: 0
+    religion: sunni
+    culture: mishar
+  3000.1.1:
+    death: yes

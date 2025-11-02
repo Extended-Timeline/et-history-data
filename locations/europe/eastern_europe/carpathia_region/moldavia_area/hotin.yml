@@ -1,0 +1,148 @@
+#imported from EU4 file: history/provinces/3061 - Bukovina.txt
+2.1.1:
+  owner: DACI
+  controller: DACI
+  cores:
+    DACI: yes
+  resource: wool
+  pop:
+    ethnicity: dacian
+    religion: zamolxism
+    estate: peasant
+    size: 1000
+150.1.1:
+  owner: BAST
+  controller: BAST
+  cores:
+    DACI: no
+    BAST: yes
+  pop:
+    ethnicity: gothic
+    religion: germanic
+    estate: peasant
+    size: 1000
+271.1.1:
+  owner: VISG
+  controller: VISG
+  cores:
+    BAST: no
+    VISG: yes
+370.1.1:
+  owner: HUNS
+  controller: HUNS
+  cores:
+    VISG: no
+    HUNS: yes
+  pop:
+    ethnicity: hunnic
+    estate: peasant
+    size: 1000
+400.1.1:
+  pop:
+    religion: 
+    estate: peasant
+    size: 1000
+520.1.1:
+  owner: ANTE
+  controller: ANTE
+  cores:
+    HUNS: no
+    ANTE: yes
+  pop:
+    ethnicity: ruthenian
+    estate: peasant
+    size: 1000
+560.1.1:
+  owner: WHCR
+  controller: WHCR
+  cores:
+    ANTE: no
+    WHCR: yes
+780.1.1:
+  owner: HUN
+  controller: HUN
+  cores:
+    HUN: yes
+940.1.1:
+  pop:
+    religion: orthodox
+    estate: peasant
+    size: 1000
+950.1.1:
+  owner: PECH
+  controller: PECH
+  cores:
+    HUN: no
+    PECH: yes
+960.1.1:
+  cores:
+    WHCR: no
+  pop:
+    ethnicity: wallachian
+    estate: peasant
+    size: 1000
+1054.2.20:
+  owner: HAL
+  controller: HAL
+  cores:
+    PECH: no
+    HAL: yes
+1349.1.1:
+  owner: MOL
+  controller: MOL
+  cores:
+    HAL: no
+    MOL: yes
+1484.1.1:
+  controller: TUR
+1489.1.1:
+  controller: MOL
+1593.1.1:
+  cores:
+    WAL: yes
+1601.1.1:
+  cores:
+    WAL: no
+1654.1.1:
+  controller: MOL
+1739.1.1:
+  controller: RUS
+1739.9.18:
+  controller: MOL
+1769.1.1:
+  controller: RUS
+1774.1.1:
+  controller: MOL
+1775.1.1:
+  owner: HAB
+  controller: HAB
+  cores:
+    HAB: yes
+1918.11.11:
+  owner: RMN
+  controller: RMN
+  cores:
+    HAB: no
+    RMN: yes
+1940.7.1:
+  controller: SOVI
+1941.7.3:
+  owner: SOVI
+  controller: SOVI
+  cores:
+    SOVI: yes
+    MOLD: yes
+1944.8.23:
+  cores:
+    RMN: no
+1980.1.1:
+  pop:
+    ethnicity: ruthenian
+    estate: peasant
+    size: 1000
+1991.8.24:
+  owner: UKR
+  controller: UKR
+  cores:
+    SOVI: no
+    UKR: yes

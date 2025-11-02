@@ -1,0 +1,37 @@
+dbuy_hae_daeso_dongbuyeo:
+  -28.1.1:
+    birth: yongmingcheng #TODO: Date and location guessed, check if better data is available
+    first_name: hae_daeso
+    dynasty: dongbuyeo_dynasty
+    adm: 30
+    dip: 60
+    mil: 30
+    religion: muism
+    culture: buyeo
+  22.1.1:
+    death: yes
+dbuy_dojin_dongbuyeo:
+  5.1.1:
+    birth: yongmingcheng #TODO: Date and location guessed, check if better data is available
+    first_name: dojin
+    dynasty: dongbuyeo_dynasty
+    father: dbuy_hae_daeso_dongbuyeo #TODO: check if this makes sense
+    adm: 45
+    dip: 15
+    mil: 30
+    religion: muism
+    culture: buyeo
+  100.1.1:
+    death: yes
+dbuy_dojin_dongbuyeo_1:
+  10.1.1:
+    birth: yongmingcheng #TODO: Date and location guessed, check if better data is available
+    first_name: dojin
+    dynasty: dongbuyeo_dynasty
+    adm: 45
+    dip: 15
+    mil: 30
+    religion: muism
+    culture: buyeo
+  3000.1.1:
+    death: yes

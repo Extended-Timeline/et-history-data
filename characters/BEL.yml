@@ -1,0 +1,163 @@
+bel_leopold_i_von_saxe_coburg:
+  1801.1.1:
+    birth: brussels #TODO: Date and location guessed, check if better data is available
+    first_name: leopold
+    dynasty: von_saxe_coburg_dynasty
+    adm: 60
+    dip: 45
+    mil: 75
+    religion: catholic
+    culture: walloon
+  1865.12.17:
+    death: yes
+bel_leopold_ii_von_saxe_coburg:
+  1835.4.9:
+    birth: brussels #TODO: Location guessed, check if better data is available
+    first_name: leopold
+    dynasty: von_saxe_coburg_dynasty
+    father: bel_leopold_i_von_saxe_coburg #TODO: check if this makes sense
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: catholic
+    culture: walloon
+  1909.12.17:
+    death: yes
+bel_leopold_ii_von_saxe_coburg_1:
+  1835.1.1:
+    birth: brussels #TODO: Date and location guessed, check if better data is available
+    first_name: leopold
+    dynasty: von_saxe_coburg_dynasty
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: secularism
+    culture: walloon
+  1909.12.23:
+    death: yes
+bel_albert_i_von_saxe_coburg:
+  1879.1.1:
+    birth: brussels #TODO: Date and location guessed, check if better data is available
+    first_name: albert
+    dynasty: von_saxe_coburg_dynasty
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: secularism
+    culture: walloon
+  1934.2.23:
+    death: yes
+bel_leopold_iii_von_saxe_coburg:
+  1901.11.3:
+    birth: brussels #TODO: Location guessed, check if better data is available
+    first_name: leopold
+    dynasty: von_saxe_coburg_dynasty
+    father: bel_albert_i_von_saxe_coburg #TODO: check if this makes sense
+    adm: 45
+    dip: 60
+    mil: 60
+    religion: catholic
+    culture: walloon
+  1983.9.25:
+    death: yes
+bel_leopold_iii_von_saxe_coburg_1:
+  1904.1.1:
+    birth: brussels #TODO: Date and location guessed, check if better data is available
+    first_name: leopold
+    dynasty: von_saxe_coburg_dynasty
+    adm: 45
+    dip: 60
+    mil: 60
+    religion: secularism
+    culture: walloon
+  1951.7.17:
+    death: yes
+bel_baudouin_von_saxe_coburg:
+  1930.9.7:
+    birth: brussels #TODO: Location guessed, check if better data is available
+    first_name: baudouin
+    dynasty: von_saxe_coburg_dynasty
+    father: bel_leopold_iii_von_saxe_coburg_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: catholic
+    culture: walloon
+  1993.7.31:
+    death: yes
+bel_baudouin_von_saxe_coburg_1:
+  1921.1.1:
+    birth: brussels #TODO: Date and location guessed, check if better data is available
+    first_name: baudouin
+    dynasty: von_saxe_coburg_dynasty
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: secularism
+    culture: flemish
+  1993.8.9:
+    death: yes
+bel_albert_ii_von_saxe_coburg:
+  1934.6.6:
+    birth: brussels #TODO: Location guessed, check if better data is available
+    first_name: albert
+    dynasty: von_saxe_coburg_dynasty
+    father: bel_baudouin_von_saxe_coburg_1 #TODO: check if this makes sense
+    adm: 60
+    dip: 45
+    mil: 15
+    religion: catholic
+    culture: walloon
+  2013.7.21:
+    death: yes
+bel_albert_ii_von_saxe_coburg_1:
+  1963.1.1:
+    birth: brussels #TODO: Date and location guessed, check if better data is available
+    first_name: albert
+    dynasty: von_saxe_coburg_dynasty
+    adm: 60
+    dip: 45
+    mil: 15
+    religion: secularism
+    culture: flemish
+  2013.7.21:
+    death: yes
+bel_philippe_von_saxe_coburg:
+  1960.4.15:
+    birth: brussels #TODO: Location guessed, check if better data is available
+    first_name: philippe
+    dynasty: von_saxe_coburg_dynasty
+    father: bel_albert_ii_von_saxe_coburg_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: catholic
+    culture: flemish
+  3000.1.1:
+    death: yes
+bel_philippe_von_saxe_coburg_1:
+  1983.1.1:
+    birth: brussels #TODO: Date and location guessed, check if better data is available
+    first_name: philippe
+    dynasty: von_saxe_coburg_dynasty
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: catholic
+    culture: flemish
+  3000.1.1:
+    death: yes
+bel_elisabeth_von_saxe_coburg:
+  2001.10.25:
+    birth: brussels #TODO: Location guessed, check if better data is available
+    first_name: elisabeth
+    dynasty: von_saxe_coburg_dynasty
+    female: yes
+    father: bel_philippe_von_saxe_coburg_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 60
+    mil: 15
+    religion: catholic
+    culture: flemish
+  3000.1.1:
+    death: yes

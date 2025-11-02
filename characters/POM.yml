@@ -1,0 +1,548 @@
+pom_siemomysl_i_siemomyslid:
+  970.1.1:
+    birth: stettin #TODO: Date and location guessed, check if better data is available
+    first_name: siemomysl
+    dynasty: siemomyslid_dynasty
+    adm: 60
+    dip: 30
+    mil: 45
+    religion: slavic
+    culture: kashubian
+  1046.6.29:
+    death: yes
+pom_swietobor_i_siemomyslid:
+  1016.1.1:
+    birth: stettin #TODO: Date and location guessed, check if better data is available
+    first_name: swietobor
+    dynasty: siemomyslid_dynasty
+    adm: 45
+    dip: 30
+    mil: 30
+    religion: slavic
+    culture: kashubian
+  1106.1.1:
+    death: yes
+pom_swietopelk_i_siemomyslid:
+  1076.1.1:
+    birth: stettin #TODO: Date and location guessed, check if better data is available
+    first_name: swietopelk
+    dynasty: siemomyslid_dynasty
+    adm: 15
+    dip: 30
+    mil: 60
+    religion: catholic
+    culture: western_pomeranian
+  1121.1.1:
+    death: yes
+pom_wartislaw_i_gryf:
+  1091.1.1:
+    birth: stettin #TODO: Date and location guessed, check if better data is available
+    first_name: wartislaw
+    dynasty: gryf_dynasty
+    adm: 75
+    dip: 60
+    mil: 75
+    religion: catholic
+    culture: western_pomeranian
+  1136.1.1:
+    death: yes
+pom_racibor_i_gryf:
+  1124.1.1:
+    birth: stettin #TODO: Date and location guessed, check if better data is available
+    first_name: racibor
+    dynasty: gryf_dynasty
+    father: pom_wartislaw_i_gryf #TODO: check if this makes sense
+    adm: 60
+    dip: 30
+    mil: 75
+    religion: catholic
+    culture: western_pomeranian
+  1156.5.1:
+    death: yes
+pom_racibor_i_gryf_1:
+  1106.1.1:
+    birth: stettin #TODO: Date and location guessed, check if better data is available
+    first_name: racibor
+    dynasty: gryf_dynasty
+    adm: 60
+    dip: 30
+    mil: 75
+    religion: catholic
+    culture: western_pomeranian
+  1156.5.1:
+    death: yes
+pom_bogislaw_i_gryf:
+  1130.1.1:
+    birth: stettin #TODO: Date and location guessed, check if better data is available
+    first_name: bogislaw
+    dynasty: gryf_dynasty
+    father: pom_racibor_i_gryf_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 45
+    mil: 15
+    religion: catholic
+    culture: western_pomeranian
+  1187.3.18:
+    death: yes
+pom_bogislaw_i_gryf_1:
+  1126.1.1:
+    birth: stettin #TODO: Date and location guessed, check if better data is available
+    first_name: bogislaw
+    dynasty: gryf_dynasty
+    adm: 45
+    dip: 45
+    mil: 15
+    religion: catholic
+    culture: western_pomeranian
+  1187.3.18:
+    death: yes
+pom_bogislaw_ii_gryf:
+  1177.1.1:
+    birth: stettin #TODO: Date and location guessed, check if better data is available
+    first_name: bogislaw
+    dynasty: gryf_dynasty
+    father: pom_bogislaw_i_gryf_1 #TODO: check if this makes sense
+    adm: 60
+    dip: 30
+    mil: 60
+    religion: catholic
+    culture: western_pomeranian
+  1220.1.23:
+    death: yes
+pom_bogislaw_ii_gryf_1:
+  1157.1.1:
+    birth: stettin #TODO: Date and location guessed, check if better data is available
+    first_name: bogislaw
+    dynasty: gryf_dynasty
+    adm: 60
+    dip: 30
+    mil: 60
+    religion: catholic
+    culture: western_pomeranian
+  1220.1.23:
+    death: yes
+pom_barnim_i_gryf:
+  1219.1.1:
+    birth: stettin #TODO: Date and location guessed, check if better data is available
+    first_name: barnim
+    dynasty: gryf_dynasty
+    father: pom_bogislaw_ii_gryf_1 #TODO: check if this makes sense
+    adm: 75
+    dip: 15
+    mil: 45
+    religion: catholic
+    culture: western_pomeranian
+  1278.12.13:
+    death: yes
+pom_barnim_i_gryf_1:
+  1190.1.1:
+    birth: stettin #TODO: Date and location guessed, check if better data is available
+    first_name: barnim
+    dynasty: gryf_dynasty
+    adm: 75
+    dip: 15
+    mil: 45
+    religion: catholic
+    culture: western_pomeranian
+  1278.12.13:
+    death: yes
+pom_bogislaw_iv_gryf:
+  1255.1.1:
+    birth: stettin #TODO: Date and location guessed, check if better data is available
+    first_name: bogislaw
+    dynasty: gryf_dynasty
+    father: pom_barnim_i_gryf_1 #TODO: check if this makes sense
+    adm: 60
+    dip: 15
+    mil: 60
+    religion: catholic
+    culture: western_pomeranian
+  1309.2.1:
+    death: yes
+pom_bogislaw_iv_gryf_1:
+  1248.1.1:
+    birth: stettin #TODO: Date and location guessed, check if better data is available
+    first_name: bogislaw
+    dynasty: gryf_dynasty
+    adm: 60
+    dip: 15
+    mil: 60
+    religion: catholic
+    culture: western_pomeranian
+  1309.2.1:
+    death: yes
+pom_wartislaw_iv_gryf:
+  1286.1.1:
+    birth: stettin #TODO: Date and location guessed, check if better data is available
+    first_name: wartislaw
+    dynasty: gryf_dynasty
+    father: pom_bogislaw_iv_gryf_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 60
+    mil: 30
+    religion: catholic
+    culture: western_pomeranian
+  1326.8.1:
+    death: yes
+pom_wartislaw_iv_gryf_1:
+  1279.1.1:
+    birth: stettin #TODO: Date and location guessed, check if better data is available
+    first_name: wartislaw
+    dynasty: gryf_dynasty
+    adm: 15
+    dip: 60
+    mil: 30
+    religion: catholic
+    culture: western_pomeranian
+  1326.8.1:
+    death: yes
+pom_barnim_iv_gryf:
+  1325.1.1:
+    birth: stettin #TODO: Date and location guessed, check if better data is available
+    first_name: barnim
+    dynasty: gryf_dynasty
+    father: pom_wartislaw_iv_gryf_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 30
+    mil: 75
+    religion: catholic
+    culture: western_pomeranian
+  1365.8.22:
+    death: yes
+pom_barnim_iv_gryf_1:
+  1296.1.1:
+    birth: stettin #TODO: Date and location guessed, check if better data is available
+    first_name: barnim
+    dynasty: gryf_dynasty
+    adm: 30
+    dip: 30
+    mil: 75
+    religion: catholic
+    culture: western_pomeranian
+  1365.8.22:
+    death: yes
+pom_wartislaw_vi_gryf:
+  1345.1.1:
+    birth: stettin #TODO: Date and location guessed, check if better data is available
+    first_name: wartislaw
+    dynasty: gryf_dynasty
+    father: pom_barnim_iv_gryf_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 45
+    mil: 30
+    religion: catholic
+    culture: western_pomeranian
+  1394.6.13:
+    death: yes
+pom_wartislaw_vi_gryf_1:
+  1335.1.1:
+    birth: stettin #TODO: Date and location guessed, check if better data is available
+    first_name: wartislaw
+    dynasty: gryf_dynasty
+    adm: 30
+    dip: 45
+    mil: 30
+    religion: catholic
+    culture: western_pomeranian
+  1394.6.13:
+    death: yes
+pom_barnim_vi_gryf:
+  1365.1.1:
+    birth: stettin #TODO: Date and location guessed, check if better data is available
+    first_name: barnim
+    dynasty: gryf_dynasty
+    father: pom_wartislaw_vi_gryf_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 45
+    mil: 30
+    religion: catholic
+    culture: western_pomeranian
+  1405.9.22:
+    death: yes
+pom_barnim_vi_gryf_1:
+  1364.1.1:
+    birth: stettin #TODO: Date and location guessed, check if better data is available
+    first_name: barnim
+    dynasty: gryf_dynasty
+    adm: 30
+    dip: 45
+    mil: 30
+    religion: catholic
+    culture: western_pomeranian
+  1405.9.22:
+    death: yes
+pom_wartislaw_ix_gryf:
+  1400.1.1:
+    birth: stettin #TODO: Date and location guessed, check if better data is available
+    first_name: wartislaw
+    dynasty: gryf_dynasty
+    father: pom_barnim_vi_gryf_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 45
+    mil: 60
+    religion: catholic
+    culture: western_pomeranian
+  1457.4.17:
+    death: yes
+pom_wartislaw_ix_gryf_1:
+  1375.1.1:
+    birth: stettin #TODO: Date and location guessed, check if better data is available
+    first_name: wartislaw
+    dynasty: gryf_dynasty
+    adm: 45
+    dip: 45
+    mil: 60
+    religion: catholic
+    culture: western_pomeranian
+  1451.9.30:
+    death: yes
+pom_ota_iii_gryf:
+  1444.5.29:
+    birth: stettin #TODO: Location guessed, check if better data is available
+    first_name: ota
+    dynasty: gryf_dynasty
+    father: pom_wartislaw_ix_gryf_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 30
+    mil: 60
+    religion: catholic
+    culture: western_pomeranian
+  1464.9.7:
+    death: yes
+pom_ota_iii_gryf_1:
+  1421.1.1:
+    birth: stettin #TODO: Date and location guessed, check if better data is available
+    first_name: ota
+    dynasty: gryf_dynasty
+    adm: 45
+    dip: 30
+    mil: 60
+    religion: catholic
+    culture: western_pomeranian
+  1464.11.11:
+    death: yes
+pom_eryk_ii_gryf:
+  1425.1.1:
+    birth: stettin #TODO: Date and location guessed, check if better data is available
+    first_name: eryk
+    dynasty: gryf_dynasty
+    father: pom_ota_iii_gryf_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 45
+    mil: 60
+    religion: catholic
+    culture: western_pomeranian
+  1574.7.5:
+    death: yes
+pom_eryk_ii_gryf_1:
+  1434.1.1:
+    birth: stettin #TODO: Date and location guessed, check if better data is available
+    first_name: eryk
+    dynasty: gryf_dynasty
+    adm: 30
+    dip: 45
+    mil: 60
+    religion: catholic
+    culture: western_pomeranian
+  1474.7.6:
+    death: yes
+pom_boguslaw_x_gryf:
+  1454.6.3:
+    birth: stettin #TODO: Location guessed, check if better data is available
+    first_name: boguslaw
+    dynasty: gryf_dynasty
+    father: pom_eryk_ii_gryf_1 #TODO: check if this makes sense
+    adm: 75
+    dip: 60
+    mil: 45
+    religion: catholic
+    culture: western_pomeranian
+  1523.10.5:
+    death: yes
+pom_boguslaw_x_gryf_1:
+  1444.1.1:
+    birth: stettin #TODO: Date and location guessed, check if better data is available
+    first_name: boguslaw
+    dynasty: gryf_dynasty
+    adm: 75
+    dip: 60
+    mil: 45
+    religion: catholic
+    culture: western_pomeranian
+  1523.10.6:
+    death: yes
+pom_barnim_xi_gryf:
+  1501.12.2:
+    birth: stettin #TODO: Location guessed, check if better data is available
+    first_name: barnim
+    dynasty: gryf_dynasty
+    father: pom_boguslaw_x_gryf_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 60
+    mil: 45
+    religion: catholic
+    culture: western_pomeranian
+  1573.11.2:
+    death: yes
+pom_barnim_xi_gryf_1:
+  1493.1.1:
+    birth: stettin #TODO: Date and location guessed, check if better data is available
+    first_name: barnim
+    dynasty: gryf_dynasty
+    adm: 45
+    dip: 60
+    mil: 45
+    religion: lutheran
+    culture: western_pomeranian
+  1569.1.1:
+    death: yes
+pom_johann_friedrich_gryf:
+  1542.8.27:
+    birth: stettin #TODO: Location guessed, check if better data is available
+    first_name: johann_friedrich
+    dynasty: gryf_dynasty
+    father: pom_barnim_xi_gryf_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 45
+    mil: 15
+    religion: lutheran
+    culture: western_pomeranian
+  1600.2.9:
+    death: yes
+pom_johann_friedrich_gryf_1:
+  1539.1.1:
+    birth: stettin #TODO: Date and location guessed, check if better data is available
+    first_name: johann_friedrich
+    dynasty: gryf_dynasty
+    adm: 45
+    dip: 45
+    mil: 15
+    religion: lutheran
+    culture: western_pomeranian
+  1600.1.1:
+    death: yes
+pom_barnim_xii_gryf:
+  1549.2.15:
+    birth: stettin #TODO: Location guessed, check if better data is available
+    first_name: barnim
+    dynasty: gryf_dynasty
+    father: pom_johann_friedrich_gryf_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 45
+    mil: 45
+    religion: lutheran
+    culture: western_pomeranian
+  1603.9.1:
+    death: yes
+pom_barnim_xii_gryf_1:
+  1570.1.1:
+    birth: stettin #TODO: Date and location guessed, check if better data is available
+    first_name: barnim
+    dynasty: gryf_dynasty
+    adm: 30
+    dip: 45
+    mil: 45
+    religion: lutheran
+    culture: western_pomeranian
+  1603.11.2:
+    death: yes
+pom_boguslaw_xiii_gryf:
+  1544.8.9:
+    birth: stettin #TODO: Location guessed, check if better data is available
+    first_name: boguslaw
+    dynasty: gryf_dynasty
+    father: pom_barnim_xii_gryf_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 45
+    mil: 30
+    religion: lutheran
+    culture: western_pomeranian
+  1606.3.7:
+    death: yes
+pom_boguslaw_xiii_gryf_1:
+  1573.1.1:
+    birth: stettin #TODO: Date and location guessed, check if better data is available
+    first_name: boguslaw
+    dynasty: gryf_dynasty
+    adm: 45
+    dip: 45
+    mil: 30
+    religion: lutheran
+    culture: western_pomeranian
+  1606.3.8:
+    death: yes
+pom_filip_ii_gryf:
+  1573.7.29:
+    birth: stettin #TODO: Location guessed, check if better data is available
+    first_name: filip
+    dynasty: gryf_dynasty
+    father: pom_boguslaw_xiii_gryf_1 #TODO: check if this makes sense
+    adm: 60
+    dip: 60
+    mil: 30
+    religion: lutheran
+    culture: western_pomeranian
+  1618.2.3:
+    death: yes
+pom_filip_ii_gryf_1:
+  1576.1.1:
+    birth: stettin #TODO: Date and location guessed, check if better data is available
+    first_name: filip
+    dynasty: gryf_dynasty
+    adm: 60
+    dip: 60
+    mil: 30
+    religion: lutheran
+    culture: western_pomeranian
+  1618.2.3:
+    death: yes
+pom_franciszek_i_gryf:
+  1577.3.24:
+    birth: stettin #TODO: Location guessed, check if better data is available
+    first_name: franciszek
+    dynasty: gryf_dynasty
+    father: pom_filip_ii_gryf_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 30
+    mil: 30
+    religion: lutheran
+    culture: western_pomeranian
+  1620.11.27:
+    death: yes
+pom_franciszek_i_gryf_1:
+  1588.1.1:
+    birth: stettin #TODO: Date and location guessed, check if better data is available
+    first_name: franciszek
+    dynasty: gryf_dynasty
+    adm: 30
+    dip: 30
+    mil: 30
+    religion: lutheran
+    culture: western_pomeranian
+  1620.11.28:
+    death: yes
+pom_boguslaw_xiv_gryf:
+  1580.3.31:
+    birth: stettin #TODO: Location guessed, check if better data is available
+    first_name: boguslaw
+    dynasty: gryf_dynasty
+    father: pom_franciszek_i_gryf_1 #TODO: check if this makes sense
+    adm: 60
+    dip: 30
+    mil: 15
+    religion: lutheran
+    culture: western_pomeranian
+  1637.3.10:
+    death: yes
+pom_boguslaw_xiv_gryf_1:
+  1590.1.1:
+    birth: stettin #TODO: Date and location guessed, check if better data is available
+    first_name: boguslaw
+    dynasty: gryf_dynasty
+    adm: 60
+    dip: 30
+    mil: 15
+    religion: lutheran
+    culture: western_pomeranian
+  3000.1.1:
+    death: yes

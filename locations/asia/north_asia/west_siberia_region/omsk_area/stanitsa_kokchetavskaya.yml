@@ -1,0 +1,113 @@
+#imported from EU4 file: history/provinces/2357 - Aksary.txt
+2.1.1:
+  pop:
+    ethnicity: cuman_culture
+    religion: 
+    estate: peasant
+    size: 1000
+659.1.1:
+  owner: KANG
+  controller: KANG
+  cores:
+    KANG: yes
+  resource: naval_supplies
+743.1.1:
+  owner: CUMA
+  controller: CUMA
+  cores:
+    KANG: no
+    CUMA: yes
+870.1.1:
+  owner: KIME
+  controller: KIME
+  cores:
+    CUMA: no
+    KIME: yes
+  pop:
+    ethnicity: khazak
+    estate: peasant
+    size: 1000
+1050.1.1:
+  owner: KIPC
+  controller: KIPC
+  cores:
+    KIME: no
+    KIPC: yes
+1100.1.1:
+  owner: CUMA
+  controller: CUMA
+  cores:
+    CUMA: yes
+1236.1.1:
+  owner: MGE
+  controller: MGE
+  cores:
+    CUMA: no
+    MGE: yes
+1250.1.1:
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+1260.1.1:
+  owner: BLHO
+  controller: BLHO
+  cores:
+    MGE: no
+    BLHO: yes
+1378.1.1:
+  owner: GLH
+  controller: GLH
+  cores:
+    GLH: yes
+1394.1.1:
+  owner: KAZA
+  controller: KAZA
+  cores:
+    GLH: no
+    KAZA: yes
+1428.1.1:
+  owner: SHAY
+  controller: SHAY
+  cores:
+    SHAY: yes
+1465.1.1:
+  controller: KAZA
+1468.1.1:
+  owner: KAZA
+  cores:
+    SHAY: no
+1740.1.1:
+  owner: ZUNG
+  controller: ZUNG
+1752.1.1:
+  owner: RUS
+  controller: RUS
+  cores:
+    RUS: yes
+1880.1.1:
+  pop:
+    religion: orthodox
+    estate: peasant
+    size: 1000
+1917.12.13:
+  cores:
+    KAZA: no
+    KAZK: yes
+1922.12.30:
+  owner: SOVI
+  controller: SOVI
+  cores:
+    RUS: no
+    SOVI: yes
+1930.1.1:
+  pop:
+    ethnicity: muscovite
+    estate: peasant
+    size: 1000
+1991.12.16:
+  owner: KAZK
+  controller: KAZK
+  cores:
+    SOVI: no
+    RUS: no

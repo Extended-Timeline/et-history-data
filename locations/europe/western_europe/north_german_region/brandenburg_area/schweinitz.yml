@@ -1,0 +1,108 @@
+#imported from EU4 file: history/provinces/59 - Meissen.txt
+2.1.1:
+  owner: SEMN
+  controller: SEMN
+  cores:
+    SEMN: yes
+  resource: wool
+  pop:
+    ethnicity: east_franconian
+    religion: germanic
+    estate: peasant
+    size: 1000
+280.1.1:
+  owner: BUR
+  controller: BUR
+  cores:
+    SEMN: no
+    BUR: yes
+  pop:
+    ethnicity: burgundione
+    estate: peasant
+    size: 1000
+395.1.1:
+  owner: SORB
+  controller: SORB
+  cores:
+    BUR: no
+    SORB: yes
+  pop:
+    ethnicity: sorbian
+    religion: slavic
+    estate: peasant
+    size: 1000
+932.1.1:
+  owner: SAX
+  controller: SAX
+  cores:
+    SORB: no
+    SAX: yes
+955.1.1:
+  owner: BRA
+  controller: BRA
+  cores:
+    SAX: no
+    BRA: yes
+965.5.20:
+  owner: SOR
+  controller: SOR
+  cores:
+    BRA: no
+    SOR: yes
+968.1.1:
+  pop:
+    ethnicity: saxon
+    religion: catholic
+    estate: peasant
+    size: 1000
+1046.1.1:
+  owner: SAX
+  controller: SAX
+  cores:
+    SOR: no
+    SAX: yes
+1445.9.10:
+  owner: THU
+  controller: THU
+  cores:
+    THU: yes
+1520.12.10:
+  pop:
+    religion: lutheran
+    estate: peasant
+    size: 1000
+1547.5.19:
+  owner: SAX
+  controller: SAX
+  cores:
+    THU: no
+1815.6.9:
+  owner: PRU
+  controller: PRU
+  cores:
+    SAX: no
+    PRU: yes
+1871.1.18:
+  owner: GER
+  controller: GER
+  cores:
+    PRU: no
+    GER: yes
+1900.1.1:
+  cores:
+    MEI: no
+1945.5.8:
+  owner: EGER
+  controller: EGER
+  cores:
+    EGER: yes
+1990.1.1:
+  pop:
+    religion: irreligious
+    estate: peasant
+    size: 1000
+1990.10.3:
+  owner: GER
+  controller: GER
+  cores:
+    EGER: no

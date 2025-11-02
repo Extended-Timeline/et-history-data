@@ -1,0 +1,32 @@
+#imported from EU4 file: history/provinces/2445 - Mangazea.txt
+2.1.1:
+  pop:
+    ethnicity: nenets_culture
+    religion: mari_paganism
+    estate: peasant
+    size: 1000
+1600.1.1:
+  owner: RUS
+  controller: RUS
+  resource: fur
+  pop:
+    religion: orthodox
+    estate: peasant
+    size: 1000
+1605.1.1:
+  cores:
+    RUS: yes
+1922.12.30:
+  owner: SOVI
+  controller: SOVI
+  cores:
+    RUS: no
+    SOVI: yes
+1978.1.1:
+  resource: oil
+1991.12.25:
+  owner: RUS
+  controller: RUS
+  cores:
+    SOVI: no
+    RUS: yes

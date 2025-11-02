@@ -1,0 +1,60 @@
+#imported from EU4 file: history/provinces/2622 - Cuitzeo.txt
+2.1.1:
+  owner: CHUP
+  controller: CHUP
+  cores:
+    CHUP: yes
+  resource: grain
+  pop:
+    ethnicity: purepecha_culture
+    religion: nahuatl
+    estate: peasant
+    size: 1000
+200.1.1:
+  owner: TEOT
+  controller: TEOT
+  cores:
+    TEOT: yes
+800.1.1:
+  owner: TOLT
+  controller: TOLT
+  cores:
+    TEOT: no
+    TOLT: yes
+1122.1.1:
+  owner: TAR
+  controller: TAR
+  cores:
+    TOLT: no
+    TAR: yes
+1530.1.1:
+  owner: SPA
+  controller: SPA
+  cores:
+    SPA: yes
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+1541.1.1:
+  pop:
+    ethnicity: castilian
+    estate: peasant
+    size: 1000
+1548.1.1:
+  cores:
+    SPA: yes
+1770.1.1:
+  pop:
+    ethnicity: mexican
+    estate: peasant
+    size: 1000
+1810.9.16:
+  owner: MEX
+  controller: MEX
+  cores:
+    MEX: yes
+1821.9.27:
+  controller: MEX
+  cores:
+    SPA: no

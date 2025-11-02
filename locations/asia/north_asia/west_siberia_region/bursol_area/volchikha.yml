@@ -1,0 +1,54 @@
+#imported from EU4 file: history/provinces/2434 - Barnaul.txt
+2.1.1:
+  pop:
+    ethnicity: kyrgyz_culture
+    religion: 
+    estate: peasant
+    size: 1000
+1245.1.1:
+  owner: MGE
+  controller: MGE
+  cores:
+    MGE: yes
+  resource: livestock
+1271.1.1:
+  owner: YUA
+  controller: YUA
+  cores:
+    MGE: no
+    YUA: yes
+1368.1.23:
+  owner: MGE
+  controller: MGE
+  cores:
+    YUA: no
+    MGE: yes
+1399.1.1:
+  owner: OIR
+  controller: OIR
+  cores:
+    MGE: no
+    OIR: yes
+1618.1.1:
+  owner: RUS
+  controller: RUS
+  pop:
+    ethnicity: muscovite
+    religion: orthodox
+    estate: peasant
+    size: 1000
+1623.1.1:
+  cores:
+    RUS: yes
+1922.12.30:
+  owner: SOVI
+  controller: SOVI
+  cores:
+    RUS: no
+    SOVI: yes
+1991.12.25:
+  owner: RUS
+  controller: RUS
+  cores:
+    SOVI: no
+    RUS: yes

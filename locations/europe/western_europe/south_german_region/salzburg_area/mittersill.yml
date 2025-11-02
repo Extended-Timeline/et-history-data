@@ -1,0 +1,141 @@
+#imported from EU4 file: history/provinces/76 - Salzburg.txt
+2.1.1:
+  owner: ROM
+  controller: ROM
+  cores:
+    ROM: yes
+  resource: salt
+  pop:
+    ethnicity: noric
+    religion: druidism
+    estate: peasant
+    size: 1000
+395.1.17:
+  owner: ROMW
+  controller: ROMW
+  cores:
+    ROM: no
+    ROMW: yes
+420.1.1:
+  pop:
+    ethnicity: southern_bavarian
+    religion: germanic
+    estate: peasant
+    size: 1000
+467.1.1:
+  owner: RUGI
+  controller: RUGI
+  cores:
+    ROMW: no
+    RUGI: yes
+487.1.1:
+  owner: BAV
+  controller: BAV
+  cores:
+    RUGI: no
+    BAV: yes
+591.1.1:
+  owner: AVR
+  controller: AVR
+  cores:
+    AVR: yes
+623.1.1:
+  owner: SAMO
+  controller: SAMO
+  cores:
+    AVR: no
+    SAMO: yes
+659.1.1:
+  owner: CART
+  controller: CART
+  cores:
+    SAMO: no
+    CART: yes
+700.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+745.1.1:
+  owner: BAV
+  controller: BAV
+  cores:
+    CART: no
+    BAV: yes
+788.1.1:
+  owner: FRAN
+  controller: FRAN
+  cores:
+    BAV: no
+    FRAN: yes
+817.1.1:
+  owner: BAV
+  controller: BAV
+  cores:
+    FRAN: no
+    BAV: yes
+867.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+880.3.22:
+  owner: EFRA
+  controller: EFRA
+  cores:
+    EFRA: yes
+911.11.10:
+  owner: BAV
+  controller: BAV
+  cores:
+    EFRA: no
+    BAV: yes
+1213.1.1:
+  owner: SLZ
+  controller: SLZ
+  cores:
+    BAV: no
+    SLZ: yes
+1250.1.1:
+  pop:
+    ethnicity: danube_bavarian
+    estate: peasant
+    size: 1000
+1803.1.1:
+  owner: ETRU
+  controller: ETRU
+  cores:
+    ETRU: yes
+1805.12.26:
+  owner: HAB
+  controller: HAB
+  cores:
+    ETRU: no
+    HAB: yes
+1809.10.14:
+  owner: BAV
+  controller: BAV
+  cores:
+    HAB: no
+    BAV: yes
+1814.5.30:
+  owner: HAB
+  controller: HAB
+  cores:
+    BAV: no
+    HAB: yes
+1900.1.1:
+  cores:
+    SLZ: no
+1938.3.12:
+  owner: GER
+  controller: GER
+  cores:
+    GER: yes
+1945.5.5:
+  controller: USA
+1945.5.8:
+  owner: HAB
+  controller: HAB
+  cores:
+    GER: no

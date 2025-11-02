@@ -1,0 +1,91 @@
+#imported from EU4 file: history/provinces/628 - Surabaya.txt
+2.1.1:
+  pop:
+    ethnicity: javanese_culture
+    religion: hindu
+    estate: peasant
+    size: 1000
+732.1.1:
+  owner: MATA
+  controller: MATA
+  cores:
+    MATA: yes
+  resource: cotton
+1016.1.1:
+  owner: KAHU
+  controller: KAHU
+  cores:
+    MATA: no
+    KAHU: yes
+1045.1.1:
+  owner: JAGG
+  controller: JAGG
+  cores:
+    KAHU: no
+    JAGG: yes
+1136.1.1:
+  owner: KEDI
+  controller: KEDI
+  cores:
+    KEDI: yes
+1222.1.1:
+  owner: SING
+  controller: SING
+  cores:
+    KEDI: no
+    SING: yes
+1293.1.1:
+  owner: MAJ
+  controller: MAJ
+  cores:
+    SING: no
+    MAJ: yes
+1527.1.1:
+  owner: DEMA
+  controller: DEMA
+  cores:
+    MAJ: no
+    DEMA: yes
+1550.1.1:
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+1587.1.1:
+  owner: BLAM
+  controller: BLAM
+  cores:
+    DEMA: no
+    BLAM: yes
+1625.1.1:
+  owner: MATA
+  controller: MATA
+  cores:
+    BLAM: no
+    MATA: yes
+1830.1.1:
+  owner: NED
+  controller: NED
+  cores:
+    NED: yes
+1840.1.1:
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+1912.9.10:
+  cores:
+    MATA: no
+    INDN: yes
+1942.3.1:
+  controller: JAP
+1942.3.9:
+  owner: JAP
+1945.8.15:
+  owner: NED
+1945.8.17:
+  owner: INDN
+  controller: INDN
+1949.12.27:
+  cores:
+    NED: no

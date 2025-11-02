@@ -1,0 +1,56 @@
+#imported from EU4 file: history/provinces/2632 - Xicallanco.txt
+2.1.1:
+  owner: PALQ
+  controller: PALQ
+  cores:
+    PALQ: yes
+  resource: cocoa
+  pop:
+    ethnicity: chontal_culture
+    religion: mayan
+    estate: peasant
+    size: 1000
+900.1.1:
+  owner: YOK
+  controller: YOK
+  cores:
+    PALQ: no
+    YOK: yes
+1010.1.1:
+  owner: MAY
+  controller: MAY
+  cores:
+    MAY: yes
+1180.1.1:
+  owner: YOK
+  controller: YOK
+  cores:
+    MAY: no
+    YOK: yes
+1529.1.1:
+  owner: SPA
+  controller: SPA
+  pop:
+    ethnicity: castilian
+    religion: catholic
+    estate: peasant
+    size: 1000
+1554.1.1:
+  cores:
+    SPA: yes
+1770.1.1:
+  pop:
+    ethnicity: mexican
+    estate: peasant
+    size: 1000
+1810.9.16:
+  owner: MEX
+  controller: SPA
+  cores:
+    MEX: yes
+1821.9.27:
+  controller: MEX
+  cores:
+    SPA: no
+1981.1.1:
+  resource: oil

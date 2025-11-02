@@ -1,0 +1,33 @@
+#imported from EU4 file: history/provinces/3059 - Bamenda.txt
+2.1.1:
+  pop:
+    ethnicity: bassa_culture
+    religion: bantu_religion
+    estate: peasant
+    size: 1000
+1884.1.1:
+  owner: GER
+  controller: GER
+  cores:
+    GER: yes
+  resource: coffee
+1910.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+1919.6.28:
+  owner: GBR
+  controller: GBR
+  cores:
+    GER: no
+    GBR: yes
+1960.1.1:
+  cores:
+    SOKO: no
+    CAME: yes
+1961.10.1:
+  owner: CAME
+  controller: CAME
+  cores:
+    GBR: no

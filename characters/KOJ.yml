@@ -1,0 +1,307 @@
+koj_godfrey_i_de_boulogne:
+  1069.1.1:
+    birth: jerusalem #TODO: Date and location guessed, check if better data is available
+    first_name: godfrey
+    dynasty: de_boulogne_dynasty
+    adm: 60
+    dip: 75
+    mil: 30
+    religion: catholic
+    culture: french
+  1100.7.18:
+    death: yes
+koj_baldwin_i_de_boulogne:
+  1058.1.1:
+    birth: jerusalem #TODO: Date and location guessed, check if better data is available
+    first_name: baldwin
+    dynasty: de_boulogne_dynasty
+    father: koj_godfrey_i_de_boulogne #TODO: check if this makes sense
+    adm: 60
+    dip: 60
+    mil: 75
+    religion: catholic
+    culture: french
+  1118.4.2:
+    death: yes
+koj_baldwin_i_de_boulogne_1:
+  1070.1.1:
+    birth: jerusalem #TODO: Date and location guessed, check if better data is available
+    first_name: baldwin
+    dynasty: de_boulogne_dynasty
+    adm: 60
+    dip: 60
+    mil: 75
+    religion: catholic
+    culture: french
+  1118.4.2:
+    death: yes
+koj_baldwin_ii_de_boulogne:
+  1080.1.1:
+    birth: jerusalem #TODO: Date and location guessed, check if better data is available
+    first_name: baldwin
+    dynasty: de_boulogne_dynasty
+    father: koj_baldwin_i_de_boulogne_1 #TODO: check if this makes sense
+    adm: 60
+    dip: 45
+    mil: 60
+    religion: catholic
+    culture: french
+  1131.8.21:
+    death: yes
+koj_baldwin_ii_de_boulogne_1:
+  1088.1.1:
+    birth: jerusalem #TODO: Date and location guessed, check if better data is available
+    first_name: baldwin
+    dynasty: de_boulogne_dynasty
+    adm: 60
+    dip: 45
+    mil: 60
+    religion: catholic
+    culture: french
+  1131.8.21:
+    death: yes
+koj_melisende_i_de_boulogne:
+  1105.1.1:
+    birth: jerusalem #TODO: Date and location guessed, check if better data is available
+    first_name: melisende
+    dynasty: de_boulogne_dynasty
+    female: yes
+    father: koj_baldwin_ii_de_boulogne_1 #TODO: check if this makes sense
+    adm: 60
+    dip: 75
+    mil: 75
+    religion: catholic
+    culture: french
+  1161.9.11:
+    death: yes
+koj_melisende_de_boulogne:
+  1101.1.1:
+    birth: jerusalem #TODO: Date and location guessed, check if better data is available
+    first_name: melisende
+    dynasty: de_boulogne_dynasty
+    female: yes
+    adm: 60
+    dip: 75
+    mil: 75
+    religion: catholic
+    culture: french
+  1153.1.1:
+    death: yes
+koj_baldwin_iii_de_anjou:
+  1123.1.1:
+    birth: jerusalem #TODO: Date and location guessed, check if better data is available
+    first_name: baldwin
+    dynasty: de_anjou_dynasty
+    adm: 30
+    dip: 75
+    mil: 30
+    religion: catholic
+    culture: french
+  1162.2.10:
+    death: yes
+koj_amalric_i_de_anjou:
+  1136.1.1:
+    birth: jerusalem #TODO: Date and location guessed, check if better data is available
+    first_name: amalric
+    dynasty: de_anjou_dynasty
+    father: koj_baldwin_iii_de_anjou #TODO: check if this makes sense
+    adm: 30
+    dip: 15
+    mil: 60
+    religion: catholic
+    culture: french
+  1174.7.11:
+    death: yes
+koj_amalric_i_de_anjou_1:
+  1132.1.1:
+    birth: jerusalem #TODO: Date and location guessed, check if better data is available
+    first_name: amalric
+    dynasty: de_anjou_dynasty
+    adm: 30
+    dip: 15
+    mil: 60
+    religion: catholic
+    culture: french
+  1174.7.11:
+    death: yes
+koj_baldwin_iv_de_anjou:
+  1161.1.1:
+    birth: jerusalem #TODO: Date and location guessed, check if better data is available
+    first_name: baldwin
+    dynasty: de_anjou_dynasty
+    father: koj_amalric_i_de_anjou_1 #TODO: check if this makes sense
+    adm: 75
+    dip: 30
+    mil: 60
+    religion: catholic
+    culture: french
+  1185.3.16:
+    death: yes
+koj_baldwin_iv_de_anjou_1:
+  1144.1.1:
+    birth: jerusalem #TODO: Date and location guessed, check if better data is available
+    first_name: baldwin
+    dynasty: de_anjou_dynasty
+    adm: 75
+    dip: 30
+    mil: 60
+    religion: catholic
+    culture: french
+  1185.3.16:
+    death: yes
+koj_baldwin_v_aleramici:
+  1177.1.1:
+    birth: jerusalem #TODO: Date and location guessed, check if better data is available
+    first_name: baldwin
+    dynasty: aleramici_dynasty
+    father: koj_baldwin_iv_de_anjou_1 #TODO: check if this makes sense
+    adm: 60
+    dip: 75
+    mil: 60
+    religion: catholic
+    culture: french
+  1186.8.1:
+    death: yes
+koj_baldwin_v_aleramici_1:
+  1155.1.1:
+    birth: jerusalem #TODO: Date and location guessed, check if better data is available
+    first_name: baldwin
+    dynasty: aleramici_dynasty
+    adm: 60
+    dip: 75
+    mil: 60
+    religion: catholic
+    culture: french
+  1186.8.1:
+    death: yes
+koj_sibylla_i_de_anjou:
+  1157.1.1:
+    birth: jerusalem #TODO: Date and location guessed, check if better data is available
+    first_name: sibylla
+    dynasty: de_anjou_dynasty
+    female: yes
+    father: koj_baldwin_v_aleramici_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 45
+    mil: 15
+    religion: catholic
+    culture: french
+  1190.7.25:
+    death: yes
+koj_sibylla_i_de_anjou_1:
+  1156.1.1:
+    birth: jerusalem #TODO: Date and location guessed, check if better data is available
+    first_name: sibylla
+    dynasty: de_anjou_dynasty
+    female: yes
+    adm: 15
+    dip: 45
+    mil: 15
+    religion: catholic
+    culture: french
+  1190.7.25:
+    death: yes
+koj_isabella_i_de_anjou:
+  1172.1.1:
+    birth: jerusalem #TODO: Date and location guessed, check if better data is available
+    first_name: isabella
+    dynasty: de_anjou_dynasty
+    female: yes
+    father: koj_sibylla_i_de_anjou_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 75
+    mil: 15
+    religion: catholic
+    culture: french
+  1205.4.5:
+    death: yes
+koj_isabella_i_de_anjou_1:
+  1160.1.1:
+    birth: jerusalem #TODO: Date and location guessed, check if better data is available
+    first_name: isabella
+    dynasty: de_anjou_dynasty
+    female: yes
+    adm: 15
+    dip: 75
+    mil: 15
+    religion: catholic
+    culture: french
+  1205.4.5:
+    death: yes
+koj_maria_i_aleramici:
+  1192.1.1:
+    birth: jerusalem #TODO: Date and location guessed, check if better data is available
+    first_name: maria
+    dynasty: aleramici_dynasty
+    female: yes
+    father: koj_isabella_i_de_anjou_1 #TODO: check if this makes sense
+    adm: 75
+    dip: 75
+    mil: 30
+    religion: catholic
+    culture: french
+  1212.1.1:
+    death: yes
+koj_maria_i_aleramici_1:
+  1175.1.1:
+    birth: jerusalem #TODO: Date and location guessed, check if better data is available
+    first_name: maria
+    dynasty: aleramici_dynasty
+    female: yes
+    adm: 75
+    dip: 75
+    mil: 30
+    religion: catholic
+    culture: french
+  1212.1.1:
+    death: yes
+koj_isabella_ii_de_brienne:
+  1182.1.1:
+    birth: jerusalem #TODO: Date and location guessed, check if better data is available
+    first_name: isabella
+    dynasty: de_brienne_dynasty
+    female: yes
+    adm: 75
+    dip: 45
+    mil: 30
+    religion: catholic
+    culture: french
+  1228.4.25:
+    death: yes
+koj_conrad_ii_von_hohenstaufen:
+  1198.1.1:
+    birth: jerusalem #TODO: Date and location guessed, check if better data is available
+    first_name: conrad
+    dynasty: von_hohenstaufen_dynasty
+    adm: 15
+    dip: 30
+    mil: 60
+    religion: catholic
+    culture: french
+  1254.5.21:
+    death: yes
+koj_conrad_iii_von_hohenstaufen:
+  1252.3.25:
+    birth: jerusalem #TODO: Location guessed, check if better data is available
+    first_name: conrad
+    dynasty: von_hohenstaufen_dynasty
+    father: koj_conrad_ii_von_hohenstaufen #TODO: check if this makes sense
+    adm: 30
+    dip: 60
+    mil: 30
+    religion: catholic
+    culture: french
+  1268.10.29:
+    death: yes
+koj_conrad_iii_von_hohenstaufen_1:
+  1224.1.1:
+    birth: jerusalem #TODO: Date and location guessed, check if better data is available
+    first_name: conrad
+    dynasty: von_hohenstaufen_dynasty
+    adm: 30
+    dip: 60
+    mil: 30
+    religion: catholic
+    culture: french
+  3000.1.1:
+    death: yes

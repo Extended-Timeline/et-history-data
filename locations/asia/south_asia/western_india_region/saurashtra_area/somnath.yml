@@ -1,0 +1,66 @@
+#imported from EU4 file: history/provinces/4455 - Diu.txt
+2.1.1:
+  owner: WSAT
+  controller: WSAT
+  cores:
+    WSAT: yes
+  resource: sugar
+  pop:
+    ethnicity: gujarati
+    religion: hindu
+    estate: peasant
+    size: 1000
+405.1.1:
+  owner: GUPT
+  controller: GUPT
+  cores:
+    WSAT: no
+    GUPT: yes
+475.1.1:
+  owner: GUJ
+  controller: GUJ
+  cores:
+    GUPT: no
+    GUJ: yes
+770.1.1:
+  owner: PORD
+  controller: PORD
+  cores:
+    GUJ: no
+    PORD: yes
+875.1.1:
+  owner: JNG
+  controller: JNG
+  cores:
+    PORD: no
+    JNG: yes
+1330.1.1:
+  owner: DLH
+  controller: DLH
+  cores:
+    DLH: yes
+1380.1.1:
+  owner: JNG
+  controller: JNG
+  cores:
+    DLH: no
+1472.1.1:
+  owner: GUJ
+  controller: GUJ
+  cores:
+    GUJ: yes
+1537.1.1:
+  owner: POR
+  controller: POR
+  cores:
+    POR: yes
+1930.1.1:
+  cores:
+    KATH: no
+    BARO: no
+    INDI: yes
+1961.1.1:
+  owner: INDI
+  controller: INDI
+  cores:
+    POR: no

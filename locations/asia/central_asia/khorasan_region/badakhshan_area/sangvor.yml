@@ -1,0 +1,136 @@
+#imported from EU4 file: history/provinces/1968 - Kulob.txt
+2.1.1:
+  owner: KUSH
+  controller: KUSH
+  cores:
+    KUSH: yes
+  resource: wool
+  pop:
+    ethnicity: sogdian
+    religion: mahayana
+    estate: peasant
+    size: 1000
+230.1.1:
+  owner: KSAS
+  controller: KSAS
+  cores:
+    KUSH: no
+    KSAS: yes
+350.1.1:
+  owner: KIDA
+  controller: KIDA
+  cores:
+    KSAS: no
+    KIDA: yes
+380.1.1:
+  owner: HEPH
+  controller: HEPH
+  cores:
+    KIDA: no
+    HEPH: yes
+560.1.1:
+  owner: KTT
+  controller: KTT
+  cores:
+    HEPH: no
+    KTT: yes
+751.1.1:
+  owner: ABBA
+  controller: ABBA
+  cores:
+    ABBA: yes
+800.1.1:
+  pop:
+    ethnicity: tajik_culture
+    estate: peasant
+    size: 1000
+819.1.1:
+  owner: KOKA
+  controller: KOKA
+  cores:
+    ABBA: no
+    KOKA: yes
+892.8.1:
+  owner: BUKH
+  controller: BUKH
+  cores:
+    BUKH: yes
+920.1.1:
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+992.1.1:
+  owner: KKHA
+  controller: KKHA
+  cores:
+    BUKH: no
+    KKHA: yes
+1041.1.1:
+  owner: KTT
+  controller: KTT
+  cores:
+    KKHA: no
+    KTT: yes
+1219.1.1:
+  owner: MGE
+  controller: MGE
+  cores:
+    MGE: yes
+1260.1.1:
+  owner: CHG
+  controller: CHG
+  cores:
+    MGE: no
+    CHG: yes
+1347.1.1:
+  owner: TRAN
+  controller: TRAN
+  cores:
+    CHG: no
+    TRAN: yes
+1360.1.1:
+  owner: MOGH
+  controller: MOGH
+  cores:
+    MOGH: yes
+1363.1.1:
+  owner: TRAN
+  controller: TRAN
+  cores:
+    MOGH: no
+    TRAN: yes
+1370.1.1:
+  owner: TIM
+  controller: TIM
+  cores:
+    TIM: yes
+1501.1.1:
+  controller: SHAY
+1502.1.1:
+  owner: BUKH
+  controller: BUKH
+  cores:
+    TIM: no
+    BUKH: yes
+1920.10.1:
+  owner: RUS
+  controller: RUS
+  cores:
+    RUS: yes
+1922.12.30:
+  owner: SOVI
+  controller: SOVI
+  cores:
+    RUS: no
+    SOVI: yes
+1929.1.1:
+  cores:
+    BUKH: no
+    TAJI: yes
+1991.9.9:
+  owner: TAJI
+  controller: TAJI
+  cores:
+    SOVI: no
+    RUS: no

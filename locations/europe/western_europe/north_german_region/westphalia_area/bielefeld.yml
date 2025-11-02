@@ -1,0 +1,114 @@
+#imported from EU4 file: history/provinces/4775 - Bielefeld.txt
+2.1.1:
+  owner: SICA
+  controller: SICA
+  cores:
+    SICA: yes
+  resource: cloth
+  pop:
+    ethnicity: eastphalian
+    religion: germanic
+    estate: peasant
+    size: 1000
+39.1.1:
+  owner: ANGR
+  controller: ANGR
+  cores:
+    SICA: no
+    ANGR: yes
+600.1.1:
+  owner: SAX
+  controller: SAX
+  cores:
+    SAX: yes
+620.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+804.1.1:
+  owner: FRAN
+  controller: FRAN
+  cores:
+    FRAN: yes
+840.6.21:
+  owner: EFRA
+  controller: EFRA
+  cores:
+    FRAN: no
+    EFRA: yes
+867.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+911.11.10:
+  owner: SAX
+  controller: SAX
+  cores:
+    EFRA: no
+1140.1.1:
+  owner: LPP
+  controller: LPP
+  cores:
+    SAX: no
+    LPP: yes
+1346.1.1:
+  owner: BRG
+  controller: BRG
+  cores:
+    BRG: yes
+1511.9.6:
+  owner: KLE
+  controller: KLE
+  cores:
+    KLE: yes
+1610.1.1:
+  owner: BRA
+  controller: BRA
+  cores:
+    BRA: yes
+1701.1.18:
+  owner: PRU
+  controller: PRU
+  cores:
+    BRA: no
+    PRU: yes
+1807.7.9:
+  owner: WES
+  controller: WES
+  cores:
+    PRU: no
+    WES: yes
+1813.10.19:
+  owner: PRU
+  controller: PRU
+  cores:
+    PRU: yes
+1866.8.23:
+  owner: PRU
+  controller: PRU
+  cores:
+    HAN: no
+    PRU: yes
+1871.1.18:
+  owner: GER
+  controller: GER
+  cores:
+    PRU: no
+    GER: yes
+1900.1.1:
+  cores:
+    KOL: no
+1944.4.1:
+  controller: USA
+1945.5.8:
+  owner: WGER
+  controller: WGER
+  cores:
+    WGER: yes
+1990.10.3:
+  owner: GER
+  controller: GER
+  cores:
+    WGER: no

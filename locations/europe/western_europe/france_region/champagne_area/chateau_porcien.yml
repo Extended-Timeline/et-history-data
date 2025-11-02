@@ -1,0 +1,177 @@
+#imported from EU4 file: history/provinces/181 - Valenciennes.txt
+2.1.1:
+  owner: ROM
+  controller: ROM
+  cores:
+    ROM: yes
+  resource: cloth
+  pop:
+    ethnicity: gallian
+    religion: druidism
+    estate: peasant
+    size: 1000
+260.1.1:
+  cores:
+    GALL: yes
+274.1.1:
+  controller: ROM
+  cores:
+    GALL: no
+  pop:
+    ethnicity: frankish
+    estate: peasant
+    size: 1000
+395.1.17:
+  owner: ROMW
+  controller: ROMW
+  cores:
+    ROM: no
+    ROMW: yes
+420.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+461.11.1:
+  owner: SOIS
+  controller: SOIS
+  cores:
+    SOIS: yes
+480.6.1:
+  cores:
+    ROMW: no
+486.6.1:
+  owner: FRAN
+  controller: FRAN
+  cores:
+    SOIS: no
+    FRAN: yes
+  pop:
+    ethnicity: walloon
+    estate: peasant
+    size: 1000
+511.11.27:
+  owner: SOIS
+  controller: SOIS
+  cores:
+    SOIS: yes
+558.12.23:
+  owner: FRAN
+  controller: FRAN
+  cores:
+    SOIS: no
+    FRAN: yes
+561.11.29:
+  owner: ASTS
+  controller: ASTS
+  cores:
+    ASTS: yes
+613.10.10:
+  owner: FRAN
+  controller: FRAN
+  cores:
+    FRAN: yes
+626.1.1:
+  owner: ASTS
+  controller: ASTS
+629.10.18:
+  owner: FRAN
+  controller: FRAN
+634.1.1:
+  owner: ASTS
+  controller: ASTS
+679.12.23:
+  owner: FRAN
+  controller: FRAN
+840.6.21:
+  owner: WFRA
+  controller: WFRA
+  cores:
+    FRAN: no
+    WFRA: yes
+867.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+987.7.3:
+  owner: FRA
+  controller: FRA
+  cores:
+    WFRA: no
+    FRA: yes
+1051.1.1:
+  owner: FLA
+  controller: FLA
+  cores:
+    FRA: no
+    FLA: yes
+1071.2.22:
+  owner: HAI
+  controller: HAI
+  cores:
+    FLA: no
+    HAI: yes
+1195.12.17:
+  owner: FLA
+  controller: FLA
+  cores:
+    FLA: yes
+1253.7.4:
+  owner: HAI
+  controller: HAI
+1257.12.24:
+  owner: FLA
+  controller: FLA
+1280.2.10:
+  owner: HAI
+  controller: HAI
+  cores:
+    FLA: no
+1384.1.1:
+  owner: BUR
+  controller: BUR
+  cores:
+    HAI: no
+    BUR: yes
+    FLA: yes
+1407.1.1:
+  owner: NEV
+  controller: NEV
+  cores:
+    NEV: yes
+1539.1.1:
+  owner: FRA
+  controller: FRA
+  cores:
+    NEV: no
+    FRA: yes
+1636.7.30:
+  controller: HAB
+1636.10.10:
+  controller: FRA
+1684.1.1:
+  pop:
+    ethnicity: french
+    estate: peasant
+    size: 1000
+1870.9.4:
+  owner: FRA
+  controller: PRU
+  cores:
+    FRA: yes
+1871.1.18:
+  controller: GER
+1871.5.10:
+  controller: FRA
+1914.8.29:
+  controller: GER
+1918.9.5:
+  controller: FRA
+1940.5.27:
+  controller: GER
+1940.6.14:
+  owner: GER
+1944.9.2:
+  owner: FRA
+  controller: FRA

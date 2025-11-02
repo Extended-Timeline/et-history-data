@@ -1,0 +1,87 @@
+#imported from EU4 file: history/provinces/767 - Wystruc.txt
+2.1.1:
+  owner: PRUS
+  controller: PRUS
+  cores:
+    PRUS: yes
+  resource: naval_supplies
+  pop:
+    ethnicity: pruthenian
+    religion: romuva
+    estate: peasant
+    size: 1000
+1274.1.1:
+  owner: TEU
+  controller: TEU
+  cores:
+    TEU: yes
+1283.1.1:
+  pop:
+    ethnicity: prussian
+    religion: catholic
+    estate: peasant
+    size: 1000
+1300.1.1:
+  cores:
+    PRUS: no
+1454.3.6:
+  cores:
+    POL: yes
+1466.10.19:
+  controller: TEU
+  cores:
+    PRU: yes
+1525.2.10:
+  owner: PRU
+  controller: PRU
+  cores:
+    TEU: no
+    POL: no
+  pop:
+    religion: lutheran
+    estate: peasant
+    size: 1000
+1618.8.28:
+  owner: BRA
+  controller: BRA
+  cores:
+    BRA: yes
+1701.1.18:
+  owner: PRU
+  controller: PRU
+  cores:
+    BRA: no
+1758.1.22:
+  controller: RUS
+1762.5.5:
+  controller: PRU
+1871.1.18:
+  owner: GER
+  controller: GER
+  cores:
+    PRU: no
+    GER: yes
+1914.8.30:
+  controller: RUS
+1914.9.13:
+  controller: GER
+1945.4.1:
+  controller: SOVI
+1945.5.8:
+  owner: SOVI
+  controller: SOVI
+  cores:
+    GER: no
+    SOVI: yes
+1946.3.19:
+  pop:
+    ethnicity: muscovite
+    religion: orthodox
+    estate: peasant
+    size: 1000
+1991.12.25:
+  owner: RUS
+  controller: RUS
+  cores:
+    SOVI: no
+    RUS: yes

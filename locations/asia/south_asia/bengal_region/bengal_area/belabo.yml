@@ -1,0 +1,107 @@
+#imported from EU4 file: history/provinces/4478 - Haibitnagar.txt
+2.1.1:
+  owner: JNT
+  controller: JNT
+  cores:
+    JNT: yes
+  resource: cotton
+  pop:
+    ethnicity: khasi_culture
+    religion: bimoism
+    estate: peasant
+    size: 1000
+600.1.1:
+  owner: LUR
+  controller: LUR
+  cores:
+    JNT: no
+    LUR: yes
+  pop:
+    religion: hindu
+    estate: peasant
+    size: 1000
+810.1.1:
+  owner: PALA
+  controller: PALA
+  cores:
+    PALA: yes
+900.1.1:
+  pop:
+    ethnicity: bengali
+    estate: peasant
+    size: 1000
+950.1.1:
+  owner: VANG
+  controller: VANG
+  cores:
+    PALA: no
+    VANG: yes
+970.1.1:
+  owner: SAMT
+  controller: SAMT
+  cores:
+    VANG: no
+    SAMT: yes
+1170.1.1:
+  owner: GOUR
+  controller: GOUR
+  cores:
+    SAMT: no
+    GOUR: yes
+1180.1.1:
+  pop:
+    religion: hindu
+    estate: peasant
+    size: 1000
+1303.1.1:
+  owner: BNG
+  controller: BNG
+  cores:
+    BNG: yes
+1324.1.1:
+  owner: DLH
+  controller: DLH
+  cores:
+    DLH: yes
+1338.1.1:
+  owner: BNG
+  controller: BNG
+  cores:
+    DLH: no
+1576.7.12:
+  owner: MUG
+  controller: MUG
+  cores:
+    MUG: yes
+1624.1.1:
+  controller: MUG
+1707.3.15:
+  owner: BNG
+  controller: BNG
+  cores:
+    MUG: no
+1760.1.1:
+  owner: GBR
+  controller: GBR
+  cores:
+    GBR: yes
+1840.1.1:
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+1930.12.29:
+  cores:
+    BNG: no
+    PAKI: yes
+    BANG: yes
+1947.8.14:
+  owner: PAKI
+  controller: PAKI
+  cores:
+    GBR: no
+1971.3.26:
+  owner: BANG
+  controller: BANG
+  cores:
+    PAKI: no

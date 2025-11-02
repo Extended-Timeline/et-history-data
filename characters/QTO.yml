@@ -1,0 +1,25 @@
+qto_huaypalcon_caracara:
+  1414.1.1:
+    birth: quito #TODO: Date and location guessed, check if better data is available
+    first_name: huaypalcon
+    dynasty: caracara_dynasty
+    adm: 30
+    dip: 30
+    mil: 30
+    religion: inti
+    culture: cara_culture
+  3000.1.1:
+    death: yes
+qto_luyes_caracara:
+  1435.1.1:
+    birth: quito #TODO: Date and location guessed, check if better data is available
+    first_name: luyes
+    dynasty: caracara_dynasty
+    father: qto_huaypalcon_caracara #TODO: check if this makes sense
+    adm: 30
+    dip: 45
+    mil: 30
+    religion: inti
+    culture: cara_culture
+  1487.1.1:
+    death: yes

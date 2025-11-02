@@ -1,0 +1,182 @@
+#imported from EU4 file: history/provinces/4325 - Sarakhs.txt
+2.1.1:
+  owner: PART
+  controller: PART
+  cores:
+    PART: yes
+  resource: wool
+  pop:
+    ethnicity: parthian
+    religion: zoroastrian
+    estate: peasant
+    size: 1000
+224.4.24:
+  owner: ERA
+  controller: ERA
+  cores:
+    PART: no
+    ERA: yes
+484.1.1:
+  owner: HEPH
+  controller: HEPH
+  cores:
+    HEPH: yes
+512.1.1:
+  owner: ERA
+  controller: ERA
+  cores:
+    HEPH: no
+647.1.1:
+  owner: RASH
+  controller: RASH
+  cores:
+    ERA: no
+    RASH: yes
+650.1.1:
+  pop:
+    ethnicity: khorasani_culture
+    estate: peasant
+    size: 1000
+661.7.28:
+  owner: UMAY
+  controller: UMAY
+  cores:
+    RASH: no
+    UMAY: yes
+750.8.6:
+  owner: ABBA
+  controller: ABBA
+  cores:
+    UMAY: no
+    ABBA: yes
+770.1.1:
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+821.1.1:
+  owner: KHOR
+  controller: KHOR
+  cores:
+    KHOR: yes
+861.1.1:
+  cores:
+    ABBA: no
+873.1.1:
+  owner: SIST
+  controller: SIST
+  cores:
+    KHOR: no
+    SIST: yes
+900.1.1:
+  owner: BUKH
+  controller: BUKH
+  cores:
+    SIST: no
+    BUKH: yes
+977.1.1:
+  owner: KHOR
+  controller: KHOR
+  cores:
+    BUKH: no
+    KHOR: yes
+998.1.1:
+  owner: GHAZ
+  controller: GHAZ
+  cores:
+    GHAZ: yes
+1037.1.1:
+  owner: SELJ
+  controller: SELJ
+  cores:
+    GHAZ: no
+    SELJ: yes
+1153.1.1:
+  owner: KHWA
+  controller: KHWA
+  cores:
+    SELJ: no
+    KHWA: yes
+1231.1.1:
+  owner: MGE
+  controller: MGE
+  cores:
+    KHWA: no
+    MGE: yes
+    IRA: yes
+1260.1.1:
+  owner: ILK
+  controller: ILK
+  cores:
+    MGE: no
+    ILK: yes
+1335.1.1:
+  owner: KRT
+  controller: KRT
+  cores:
+    ILK: no
+    KRT: yes
+1380.1.1:
+  owner: TIM
+  controller: TIM
+  cores:
+    KRT: no
+    TIM: yes
+    KHOR: yes
+1449.2.1:
+  owner: KHOR
+  controller: KHOR
+  cores:
+    TIM: no
+1458.6.28:
+  controller: QAKO
+1458.12.22:
+  owner: TIM
+  controller: TIM
+  cores:
+    TIM: yes
+1469.8.27:
+  owner: KHOR
+  controller: KHOR
+  cores:
+    TIM: no
+1505.1.1:
+  controller: BUKH
+1507.7.1:
+  owner: BUKH
+  cores:
+    BUKH: yes
+1510.1.1:
+  owner: IRA
+  controller: IRA
+  cores:
+    BUKH: no
+    IRA: yes
+1516.1.1:
+  pop:
+    religion: shia
+    estate: peasant
+    size: 1000
+1650.1.1:
+  pop:
+    ethnicity: farsi_culture
+    estate: peasant
+    size: 1000
+1750.1.2:
+  owner: KHOR
+  controller: KHOR
+  cores:
+    IRA: no
+1796.1.1:
+  owner: IRA
+  controller: IRA
+  cores:
+    IRA: yes
+1803.4.1:
+  controller: IRA
+1935.1.1:
+  owner: IRAN
+  controller: IRAN
+  cores:
+    IRA: no
+    IRAN: yes

@@ -1,0 +1,59 @@
+#imported from EU4 file: history/provinces/597 - Johor.txt
+2.1.1:
+  pop:
+    ethnicity: malay_culture
+    religion: mahayana
+    estate: peasant
+    size: 1000
+770.1.1:
+  owner: SRIV
+  controller: SRIV
+  cores:
+    SRIV: yes
+  resource: chinaware
+1183.1.1:
+  owner: PAH
+  controller: PAH
+  cores:
+    SRIV: no
+    PAH: yes
+1380.1.1:
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+1400.1.1:
+  owner: MALC
+  controller: MALC
+  cores:
+    PAH: no
+    MALC: yes
+1528.1.1:
+  owner: JOHO
+  controller: JOHO
+  cores:
+    JOHO: yes
+1914.1.1:
+  owner: GBR
+  controller: GBR
+  cores:
+    GBR: yes
+1942.1.31:
+  controller: JAP
+1945.8.1:
+  controller: GBR
+1946.4.1:
+  cores:
+    MALC: no
+    MSA: yes
+1957.8.31:
+  owner: MSA
+  controller: MSA
+  cores:
+    GBR: no
+1963.9.16:
+  owner: MALA
+  controller: MALA
+  cores:
+    MSA: no
+    MALA: yes

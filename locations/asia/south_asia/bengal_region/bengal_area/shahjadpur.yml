@@ -1,0 +1,157 @@
+#imported from EU4 file: history/provinces/4479 - Goraghat.txt
+2.1.1:
+  owner: PUND
+  controller: PUND
+  cores:
+    PUND: yes
+  resource: silk
+  pop:
+    ethnicity: bengali
+    religion: mahayana
+    estate: peasant
+    size: 1000
+358.1.1:
+  owner: GUPT
+  controller: GUPT
+  cores:
+    GUPT: yes
+450.1.1:
+  owner: KAMA
+  controller: KAMA
+  cores:
+    GUPT: no
+    KAMA: yes
+596.1.1:
+  owner: GAUD
+  controller: GAUD
+  cores:
+    KAMA: no
+    GAUD: yes
+626.1.1:
+  owner: KAMA
+  controller: KAMA
+  cores:
+    GAUD: no
+    KAMA: yes
+650.1.1:
+  owner: PUND
+  controller: PUND
+  cores:
+    KAMA: no
+    PUND: yes
+732.1.1:
+  owner: KANN
+  controller: KANN
+  cores:
+    KANN: yes
+750.1.1:
+  owner: PALA
+  controller: PALA
+  cores:
+    KANN: no
+    PALA: yes
+950.1.1:
+  owner: VANG
+  controller: VANG
+  cores:
+    PALA: no
+    VANG: yes
+991.1.1:
+  owner: PALA
+  controller: PALA
+  cores:
+    VANG: no
+    PALA: yes
+1074.1.1:
+  owner: PUND
+  controller: PUND
+  cores:
+    PUND: yes
+1124.1.1:
+  owner: PALA
+  controller: PALA
+1154.1.1:
+  owner: GAUD
+  controller: GAUD
+  cores:
+    PALA: no
+    GAUD: yes
+1180.1.1:
+  pop:
+    religion: hindu
+    estate: peasant
+    size: 1000
+1203.1.1:
+  owner: BNG
+  controller: BNG
+  cores:
+    BNG: yes
+1227.1.1:
+  owner: DLH
+  controller: DLH
+1229.1.1:
+  owner: BNG
+  controller: BNG
+1231.1.1:
+  owner: DLH
+  controller: DLH
+  cores:
+    DLH: yes
+1287.1.1:
+  owner: BNG
+  controller: BNG
+  cores:
+    DLH: no
+1324.1.1:
+  owner: DLH
+  controller: DLH
+  cores:
+    DLH: yes
+1338.1.1:
+  owner: BNG
+  controller: BNG
+  cores:
+    DLH: no
+1538.6.1:
+  controller: MUG
+1539.1.1:
+  controller: BNG
+1570.1.1:
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+1576.7.12:
+  owner: MUG
+  controller: MUG
+  cores:
+    MUG: yes
+1624.1.1:
+  controller: MUG
+1658.12.28:
+  controller: MUG
+1707.3.15:
+  owner: BNG
+  controller: BNG
+  cores:
+    MUG: no
+1765.1.1:
+  owner: GBR
+  controller: GBR
+  cores:
+    GBR: yes
+1930.12.29:
+  cores:
+    BNG: no
+    PAKI: yes
+    BANG: yes
+1947.8.14:
+  owner: PAKI
+  controller: PAKI
+  cores:
+    GBR: no
+1971.3.26:
+  owner: BANG
+  controller: BANG
+  cores:
+    PAKI: no

@@ -1,0 +1,51 @@
+#imported from EU4 file: history/provinces/1210 - Dawaro.txt
+2.1.1:
+  pop:
+    ethnicity: harla_culture
+    religion: bantu_religion
+    estate: peasant
+    size: 1000
+1150.1.1:
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+1185.1.1:
+  owner: DAW
+  controller: DAW
+  cores:
+    DAW: yes
+  resource: grain
+1332.1.1:
+  owner: IFA
+  controller: IFA
+  cores:
+    IFA: yes
+1415.1.1:
+  owner: ADA
+  controller: ADA
+  cores:
+    IFA: no
+    ADA: yes
+1517.7.1:
+  owner: ETH
+  controller: ETH
+1532.1.1:
+  owner: ADA
+  controller: ADA
+1545.1.1:
+  owner: ETH
+  controller: ETH
+  cores:
+    ADA: no
+1566.1.1:
+  controller: ETH
+1936.1.20:
+  controller: ITA
+1936.5.9:
+  owner: ITA
+1941.3.27:
+  controller: GBR
+1941.11.27:
+  owner: ETH
+  controller: ETH

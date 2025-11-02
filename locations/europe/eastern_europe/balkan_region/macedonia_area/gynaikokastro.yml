@@ -1,0 +1,92 @@
+#imported from EU4 file: history/provinces/148 - Salonica.txt
+2.1.1:
+  owner: ROM
+  controller: ROM
+  cores:
+    ROM: yes
+  resource: cloth
+  pop:
+    ethnicity: greek_culture
+    religion: hellenism_religion
+    estate: peasant
+    size: 1000
+52.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+395.1.17:
+  owner: BYZ
+  controller: BYZ
+  cores:
+    ROM: no
+    BYZ: yes
+867.1.1:
+  pop:
+    religion: orthodox
+    estate: peasant
+    size: 1000
+1204.4.13:
+  owner: THE
+  controller: THE
+  cores:
+    THE: yes
+1246.1.1:
+  owner: NICA
+  controller: NICA
+  cores:
+    NICA: yes
+1261.1.1:
+  owner: BYZ
+  controller: BYZ
+  cores:
+    NICA: no
+1348.1.1:
+  owner: SER
+  controller: SER
+  cores:
+    SER: yes
+1356.1.1:
+  owner: BYZ
+  controller: BYZ
+  cores:
+    SER: no
+1387.1.1:
+  owner: TUR
+  controller: TUR
+  cores:
+    TUR: yes
+1403.2.1:
+  owner: BYZ
+  controller: BYZ
+1423.1.1:
+  owner: VEN
+  controller: VEN
+  cores:
+    VEN: yes
+1430.3.29:
+  owner: TUR
+  controller: TUR
+  cores:
+    VEN: no
+1502.1.1:
+  cores:
+    BYZ: no
+1690.1.1:
+  controller: TUR
+1912.11.9:
+  controller: GRE
+1913.5.30:
+  owner: GRE
+  cores:
+    TUR: no
+    GRE: yes
+1941.4.22:
+  controller: GER
+1941.7.1:
+  owner: GER
+  controller: GER
+1944.10.19:
+  owner: GRE
+1944.10.30:
+  controller: GRE

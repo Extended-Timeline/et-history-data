@@ -1,0 +1,124 @@
+#imported from EU4 file: history/provinces/452 - Dakhshan.txt
+2.1.1:
+  owner: KUSH
+  controller: KUSH
+  cores:
+    KUSH: yes
+  resource: gems
+  pop:
+    ethnicity: sogdian
+    religion: mahayana
+    estate: peasant
+    size: 1000
+230.1.1:
+  owner: BADA
+  controller: BADA
+  cores:
+    KUSH: no
+    BADA: yes
+440.1.1:
+  owner: HEPH
+  controller: HEPH
+  cores:
+    HEPH: yes
+560.1.1:
+  owner: BADA
+  controller: BADA
+  cores:
+    HEPH: no
+    BADA: yes
+625.1.1:
+  owner: TOKH
+  controller: TOKH
+  cores:
+    TOKH: yes
+705.1.1:
+  owner: BADA
+  controller: BADA
+  cores:
+    TOKH: no
+    BADA: yes
+800.1.1:
+  pop:
+    ethnicity: tajik_culture
+    estate: peasant
+    size: 1000
+1065.1.1:
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+1219.1.1:
+  owner: MGE
+  controller: MGE
+  cores:
+    MGE: yes
+1260.1.1:
+  owner: CHG
+  controller: CHG
+  cores:
+    MGE: no
+    CHG: yes
+1347.1.1:
+  owner: MOGH
+  controller: MOGH
+  cores:
+    CHG: no
+    MOGH: yes
+1370.1.1:
+  owner: TIM
+  controller: TIM
+  cores:
+    MOGH: no
+    TIM: yes
+    MUG: yes
+1449.1.1:
+  owner: KHOR
+  controller: KHOR
+  cores:
+    TIM: no
+    KHOR: yes
+1457.7.19:
+  controller: TIM
+1457.8.30:
+  owner: TIM
+  cores:
+    KHOR: no
+    TIM: yes
+1502.1.1:
+  owner: KHOR
+  controller: KHOR
+  cores:
+    TIM: no
+    KHOR: yes
+1507.7.1:
+  owner: TIM
+  controller: TIM
+  cores:
+    TIM: yes
+1526.4.21:
+  owner: MUG
+  controller: MUG
+  cores:
+    TIM: no
+    MUG: yes
+1566.6.1:
+  owner: AFGH
+  controller: AFGH
+1585.1.1:
+  owner: BUKH
+  controller: BUKH
+  cores:
+    MUG: no
+    BUKH: yes
+1737.1.1:
+  owner: IRA
+  controller: IRA
+1748.1.1:
+  owner: BUKH
+  controller: BUKH
+1751.1.1:
+  owner: AFGH
+  controller: AFGH
+2021.8.19:
+  controller: AFGH

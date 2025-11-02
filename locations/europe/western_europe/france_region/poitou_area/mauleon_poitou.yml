@@ -1,0 +1,178 @@
+#imported from EU4 file: history/provinces/4386 - Vendee.txt
+2.1.1:
+  owner: ROM
+  controller: ROM
+  cores:
+    ROM: yes
+  resource: salt
+  pop:
+    ethnicity: gallian
+    religion: druidism
+    estate: peasant
+    size: 1000
+260.1.1:
+  cores:
+    GALL: yes
+268.1.1:
+  controller: ROM
+  cores:
+    GALL: no
+367.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+395.1.17:
+  owner: ROMW
+  controller: ROMW
+  cores:
+    ROM: no
+    ROMW: yes
+461.8.2:
+  owner: VISG
+  controller: VISG
+  cores:
+    ROMW: no
+    VISG: yes
+507.1.1:
+  owner: FRAN
+  controller: FRAN
+  cores:
+    VISG: no
+    FRAN: yes
+511.11.27:
+  owner: ORL
+  controller: ORL
+  cores:
+    ORL: yes
+524.5.1:
+  owner: SOIS
+  controller: SOIS
+  cores:
+    ORL: no
+    SOIS: yes
+558.12.23:
+  owner: FRAN
+  controller: FRAN
+  cores:
+    SOIS: no
+    FRAN: yes
+561.11.29:
+  owner: NEUS
+  controller: NEUS
+  cores:
+    NEUS: yes
+567.12.1:
+  owner: ORL
+  controller: ORL
+  cores:
+    NEUS: no
+    ASTS: yes
+    ORL: yes
+592.3.28:
+  owner: ASTS
+  controller: ASTS
+  cores:
+    ASTS: yes
+595.1.1:
+  owner: ORL
+  controller: ORL
+  cores:
+    ASTS: no
+600.1.1:
+  pop:
+    ethnicity: languedocien
+    estate: peasant
+    size: 1000
+612.1.1:
+  owner: ASTS
+  controller: ASTS
+  cores:
+    ORL: no
+    ASTS: yes
+613.10.10:
+  owner: FRAN
+  controller: FRAN
+  cores:
+    ASTS: no
+    FRAN: yes
+634.1.1:
+  owner: NEUS
+  controller: NEUS
+  cores:
+    NEUS: yes
+679.12.23:
+  owner: FRAN
+  controller: FRAN
+840.6.21:
+  owner: WFRA
+  controller: WFRA
+  cores:
+    FRAN: no
+    WFRA: yes
+867.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+877.10.6:
+  owner: AQN
+  controller: AQN
+  cores:
+    AQN: yes
+893.1.1:
+  owner: AUV
+  controller: AUV
+  cores:
+    AUV: yes
+927.1.1:
+  owner: AQN
+  controller: AQN
+  cores:
+    AUV: no
+987.7.3:
+  cores:
+    WFRA: no
+    FRA: yes
+1204.4.1:
+  owner: FRA
+  controller: FRA
+  cores:
+    AQN: no
+1300.1.1:
+  pop:
+    ethnicity: french
+    estate: peasant
+    size: 1000
+1360.5.9:
+  owner: ENG
+  controller: ENG
+1372.1.1:
+  controller: FRA
+1377.1.1:
+  owner: FRA
+1560.1.1:
+  pop:
+    religion: calvinist
+    estate: peasant
+    size: 1000
+1651.4.1:
+  controller: FRA
+1652.10.21:
+  controller: FRA
+1686.1.17:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+1870.9.4:
+  owner: FRA
+  controller: FRA
+  cores:
+    FRA: yes
+1940.6.14:
+  owner: GER
+  controller: GER
+1944.8.25:
+  owner: FRA
+  controller: FRA

@@ -1,0 +1,146 @@
+#imported from EU4 file: history/provinces/290 - Poltava.txt
+2.1.1:
+  owner: SARM
+  controller: SARM
+  cores:
+    SARM: yes
+  resource: grain
+  pop:
+    ethnicity: sarmatian
+    religion: 
+    estate: peasant
+    size: 1000
+370.1.1:
+  owner: HUNS
+  controller: HUNS
+  cores:
+    SARM: no
+    HUNS: yes
+469.1.1:
+  owner: AVR
+  controller: AVR
+  cores:
+    HUNS: no
+    AVR: yes
+  pop:
+    ethnicity: avar_culture
+    estate: peasant
+    size: 1000
+567.1.1:
+  owner: ULIC
+  controller: ULIC
+  cores:
+    AVR: no
+    ULIC: yes
+  pop:
+    ethnicity: ruthenian
+    estate: peasant
+    size: 1000
+632.1.1:
+  owner: BUL
+  controller: BUL
+  cores:
+    BUL: yes
+750.1.1:
+  owner: HUN
+  controller: HUN
+  cores:
+    BUL: no
+    HUN: yes
+780.1.1:
+  owner: ULIC
+  controller: ULIC
+  cores:
+    HUN: no
+    ULIC: yes
+870.1.1:
+  owner: PECH
+  controller: PECH
+  cores:
+    ULIC: no
+    PECH: yes
+969.1.1:
+  owner: KIEV
+  controller: KIEV
+  cores:
+    KHAZ: no
+    KIEV: yes
+    UKR: yes
+992.1.1:
+  pop:
+    religion: orthodox
+    estate: peasant
+    size: 1000
+1054.2.20:
+  owner: PERE
+  controller: PERE
+  cores:
+    KIEV: no
+    PERE: yes
+1060.1.1:
+  owner: CUMA
+  controller: CUMA
+  cores:
+    PERE: no
+    CUMA: yes
+1241.1.1:
+  owner: MGE
+  controller: MGE
+  cores:
+    CUMA: no
+    MGE: yes
+1260.1.1:
+  owner: WHHO
+  controller: WHHO
+  cores:
+    MGE: no
+    WHHO: yes
+1353.1.1:
+  owner: LIT
+  controller: LIT
+  cores:
+    WHHO: no
+    LIT: yes
+1569.7.1:
+  owner: PLC
+  controller: PLC
+  cores:
+    PLC: yes
+1648.1.1:
+  cores:
+    ZAZ: yes
+1654.1.1:
+  controller: PLC
+  cores:
+    ZAZ: no
+1667.1.1:
+  owner: RUS
+  controller: RUS
+  cores:
+    PLC: no
+    RUS: yes
+1918.1.22:
+  owner: UKR
+  controller: UKR
+  cores:
+    UKR: yes
+1921.3.18:
+  owner: RUS
+  controller: RUS
+1922.12.30:
+  owner: SOVI
+  controller: SOVI
+  cores:
+    RUS: no
+    SOVI: yes
+1941.10.20:
+  controller: GER
+1943.9.23:
+  controller: SOVI
+1991.8.24:
+  owner: UKR
+  controller: UKR
+  cores:
+    SOVI: no
+    RUS: no
+    UKR: yes

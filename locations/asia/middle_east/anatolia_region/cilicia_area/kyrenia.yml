@@ -1,0 +1,100 @@
+#imported from EU4 file: history/provinces/321 - Cyprus.txt
+2.1.1:
+  owner: ROM
+  controller: ROM
+  cores:
+    ROM: yes
+  resource: wine
+  pop:
+    ethnicity: greek_culture
+    religion: hellenism_religion
+    estate: peasant
+    size: 1000
+117.1.1:
+  controller: ROM
+330.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+395.1.17:
+  owner: BYZ
+  controller: BYZ
+  cores:
+    ROM: no
+    BYZ: yes
+647.1.1:
+  owner: RASH
+  controller: RASH
+  cores:
+    RASH: yes
+661.7.28:
+  owner: UMAY
+  controller: UMAY
+  cores:
+    RASH: no
+    UMAY: yes
+683.1.1:
+  owner: BYZ
+  controller: BYZ
+  cores:
+    UMAY: no
+867.1.1:
+  pop:
+    religion: orthodox
+    estate: peasant
+    size: 1000
+1185.1.1:
+  owner: CYP
+  controller: CYP
+  cores:
+    CYP: yes
+1191.5.1:
+  owner: ENG
+  controller: ENG
+  cores:
+    ENG: yes
+1191.8.1:
+  owner: KNI
+  controller: KNI
+  cores:
+    ENG: no
+    KNI: yes
+1192.1.1:
+  owner: CYP
+  controller: CYP
+  cores:
+    KNI: no
+1204.4.13:
+  cores:
+    BYZ: no
+1489.1.1:
+  owner: VEN
+  controller: VEN
+  cores:
+    VEN: yes
+1571.1.1:
+  owner: TUR
+  controller: TUR
+  cores:
+    VEN: no
+    TUR: yes
+  pop:
+    religion: orthodox
+    estate: peasant
+    size: 1000
+1914.10.29:
+  owner: GBR
+  controller: GBR
+  cores:
+    GBR: yes
+    CYP: yes
+1920.4.24:
+  cores:
+    TUR: no
+1960.8.16:
+  owner: CYP
+  controller: CYP
+  cores:
+    GBR: no
+    CYP: yes

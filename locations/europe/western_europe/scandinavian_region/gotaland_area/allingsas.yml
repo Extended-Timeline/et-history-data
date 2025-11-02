@@ -1,0 +1,44 @@
+#imported from EU4 file: history/provinces/4163 - Elfsborg.txt
+2.1.1:
+  pop:
+    ethnicity: gutnish
+    religion: norse
+    estate: peasant
+    size: 1000
+350.1.1:
+  owner: WGEA
+  controller: WGEA
+  cores:
+    WGEA: yes
+  resource: grain
+970.1.1:
+  owner: SWE
+  controller: SWE
+  cores:
+    WGEA: no
+    SWE: yes
+980.1.1:
+  pop:
+    ethnicity: swedish
+    estate: peasant
+    size: 1000
+1000.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+1527.6.1:
+  pop:
+    religion: lutheran
+    estate: peasant
+    size: 1000
+1598.8.15:
+  controller: PLC
+1598.12.15:
+  controller: SWE
+1612.5.24:
+  controller: DAN
+1613.1.20:
+  controller: SWE
+1930.1.1:
+  resource: cars

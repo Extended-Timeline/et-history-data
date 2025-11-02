@@ -1,0 +1,114 @@
+#imported from EU4 file: history/provinces/357 - Darnah.txt
+2.1.1:
+  owner: ROM
+  controller: ROM
+  cores:
+    ROM: yes
+  resource: livestock
+  pop:
+    ethnicity: greek_culture
+    religion: hellenism_religion
+    estate: peasant
+    size: 1000
+365.7.21:
+  pop:
+    ethnicity: eastern_amazigh
+    estate: peasant
+    size: 1000
+395.1.17:
+  owner: BYZ
+  controller: BYZ
+  cores:
+    ROM: no
+    BYZ: yes
+643.1.1:
+  owner: RASH
+  controller: RASH
+  cores:
+    BYZ: no
+    RASH: yes
+661.7.28:
+  owner: UMAY
+  controller: UMAY
+  cores:
+    RASH: no
+    UMAY: yes
+710.1.1:
+  pop:
+    ethnicity: lower_egyptian_culture
+    religion: sunni
+    estate: peasant
+    size: 1000
+750.8.6:
+  owner: ABBA
+  controller: ABBA
+  cores:
+    UMAY: no
+    ABBA: yes
+868.9.15:
+  owner: EGY
+  controller: EGY
+  cores:
+    ABBA: no
+    EGY: yes
+905.1.10:
+  owner: ABBA
+  controller: ABBA
+  cores:
+    ABBA: yes
+935.8.26:
+  owner: EGY
+  controller: EGY
+  cores:
+    ABBA: no
+    EGY: yes
+969.6.1:
+  owner: FATI
+  controller: FATI
+  cores:
+    FATI: yes
+1051.1.1:
+  owner: CYRE
+  controller: CYRE
+  cores:
+    FATI: no
+    CYRE: yes
+1173.1.1:
+  owner: MAM
+  controller: MAM
+  cores:
+    MAM: yes
+1190.1.1:
+  owner: EGY
+  controller: EGY
+  cores:
+    MAM: no
+    EGY: yes
+1250.5.2:
+  owner: MAM
+  controller: MAM
+  cores:
+    EGY: no
+    MAM: yes
+1517.1.1:
+  owner: TUR
+  controller: TUR
+  cores:
+    TUR: yes
+1912.10.18:
+  owner: ITA
+  controller: ITA
+  cores:
+    TUR: no
+    ITA: yes
+    LIBY: yes
+1943.9.8:
+  owner: GBR
+  controller: GBR
+  cores:
+    ITA: no
+1951.12.24:
+  owner: LIBY
+  controller: LIBY
+2015.6.1:
+  controller: LIBY

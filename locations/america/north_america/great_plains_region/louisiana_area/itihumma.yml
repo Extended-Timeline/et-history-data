@@ -1,0 +1,65 @@
+#imported from EU4 file: history/provinces/921 - Bayougoula.txt
+2.1.1:
+  pop:
+    ethnicity: natchez_culture
+    religion: iroquoian_totemism
+    estate: peasant
+    size: 1000
+1719.1.1:
+  owner: FRA
+  controller: FRA
+  cores:
+    FRA: yes
+  resource: cotton
+  pop:
+    ethnicity: french
+    religion: catholic
+    estate: peasant
+    size: 1000
+1763.2.10:
+  owner: GBR
+  controller: GBR
+  cores:
+    FRA: no
+  pop:
+    religion: lutheran
+    estate: peasant
+    size: 1000
+1770.1.1:
+  pop:
+    ethnicity: french_louisianan
+    estate: peasant
+    size: 1000
+1783.9.3:
+  owner: SPA
+  controller: SPA
+1808.9.3:
+  cores:
+    SPA: yes
+1813.4.1:
+  owner: USA
+  controller: USA
+  cores:
+    SPA: no
+    USA: yes
+1861.1.26:
+  owner: LOUI
+  controller: LOUI
+  cores:
+    LOUI: yes
+1861.2.8:
+  owner: CSAM
+  controller: CSAM
+  cores:
+    LOUI: no
+    CSAM: yes
+1865.5.5:
+  owner: USA
+  controller: USA
+  cores:
+    CSAM: no
+1890.1.1:
+  pop:
+    ethnicity: british_louisianan
+    estate: peasant
+    size: 1000

@@ -1,0 +1,54 @@
+#imported from EU4 file: history/provinces/2662 - Olancho.txt
+2.1.1:
+  pop:
+    ethnicity: miskito_culture
+    religion: muisca_religion
+    estate: peasant
+    size: 1000
+1530.1.1:
+  owner: SPA
+  controller: SPA
+  resource: cocoa
+  pop:
+    ethnicity: castilian
+    religion: catholic
+    estate: peasant
+    size: 1000
+1571.1.1:
+  cores:
+    SPA: yes
+1770.1.1:
+  pop:
+    ethnicity: mexican
+    estate: peasant
+    size: 1000
+1810.9.16:
+  owner: MEX
+  controller: SPA
+  cores:
+    MEX: yes
+1821.9.27:
+  controller: MEX
+1823.7.1:
+  owner: UPCA
+  controller: UPCA
+  cores:
+    MEX: no
+    UPCA: yes
+    HOND: yes
+1838.5.31:
+  owner: HOND
+  controller: HOND
+  cores:
+    UPCA: no
+    SPA: no
+1896.9.15:
+  owner: UPCA
+  controller: UPCA
+  cores:
+    UPCA: yes
+1898.11.21:
+  owner: HOND
+  controller: HOND
+  cores:
+    UPCA: no

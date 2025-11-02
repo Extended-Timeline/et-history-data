@@ -1,0 +1,123 @@
+#imported from EU4 file: history/provinces/732 - Hamgyeong.txt
+2.1.1:
+  owner: OKJE
+  controller: OKJE
+  cores:
+    OKJE: yes
+  resource: fish
+  pop:
+    ethnicity: korean_culture
+    religion: muism
+    estate: peasant
+    size: 1000
+56.1.1:
+  owner: GOGU
+  controller: GOGU
+  cores:
+    GOGU: yes
+372.1.1:
+  pop:
+    religion: mahayana
+    estate: peasant
+    size: 1000
+555.1.1:
+  owner: SILL
+  controller: SILL
+  cores:
+    SILL: yes
+586.1.1:
+  owner: GOGU
+  controller: GOGU
+  cores:
+    SILL: no
+668.1.1:
+  owner: SILL
+  controller: SILL
+  cores:
+    GOGU: no
+    SILL: yes
+757.1.1:
+  owner: BALH
+  controller: BALH
+  cores:
+    SILL: no
+    BALH: yes
+918.1.1:
+  owner: GORY
+  controller: GORY
+  cores:
+    BALH: no
+    GORY: yes
+1235.1.1:
+  owner: MGE
+  controller: MGE
+  cores:
+    MGE: yes
+1271.1.1:
+  owner: YUA
+  controller: YUA
+  cores:
+    MGE: no
+    YUA: yes
+1356.1.1:
+  owner: GORY
+  controller: GORY
+  cores:
+    YUA: no
+    GORY: yes
+1392.7.12:
+  owner: KOR
+  controller: KOR
+  cores:
+    GORY: no
+    KOR: yes
+  pop:
+    religion: sanjiao
+    estate: peasant
+    size: 1000
+1592.7.18:
+  controller: TOYO
+1593.2.22:
+  controller: KOR
+1637.1.1:
+  cores:
+    MNG: yes
+1644.1.1:
+  cores:
+    MNG: no
+    MCH: yes
+1645.7.1:
+  cores:
+    MCH: no
+    QNG: yes
+1910.8.20:
+  owner: JAP
+  controller: JAP
+  cores:
+    JAP: yes
+1912.2.12:
+  cores:
+    QNG: no
+1945.8.15:
+  owner: JOE
+  controller: JOE
+  cores:
+    JAP: no
+    KOR: no
+    JOE: yes
+1948.9.9:
+  owner: NKOR
+  controller: NKOR
+  cores:
+    NKOR: yes
+    SKOR: yes
+1955.1.1:
+  pop:
+    religion: muism
+    estate: peasant
+    size: 1000
+1970.1.1:
+  pop:
+    religion: irreligious
+    estate: peasant
+    size: 1000

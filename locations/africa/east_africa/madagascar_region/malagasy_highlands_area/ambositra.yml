@@ -1,0 +1,46 @@
+#imported from EU4 file: history/provinces/4027 - Betsileo.txt
+2.1.1:
+  pop:
+    ethnicity: uninhabited
+    religion: bantu_religion
+    estate: peasant
+    size: 1000
+500.1.1:
+  pop:
+    ethnicity: sakalava_culture
+    estate: peasant
+    size: 1000
+1350.1.1:
+  owner: MIR
+  controller: MIR
+  cores:
+    MIR: yes
+  resource: slaves
+1810.7.6:
+  owner: MADA
+  controller: MADA
+  cores:
+    MIR: no
+    MADA: yes
+1897.2.28:
+  owner: FRA
+  controller: FRA
+  cores:
+    FRA: yes
+  resource: tropical_wood
+1940.6.14:
+  owner: VFRA
+  controller: VFRA
+  cores:
+    VFRA: yes
+1942.11.5:
+  owner: FRA
+  controller: FRA
+  cores:
+    VFRA: no
+1960.6.26:
+  owner: MADA
+  controller: MADA
+  cores:
+    FRA: no
+    MADA: yes

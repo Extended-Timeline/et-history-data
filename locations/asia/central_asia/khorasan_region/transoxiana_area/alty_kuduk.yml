@@ -1,0 +1,139 @@
+#imported from EU4 file: history/provinces/2352 - Alty-Kuduk.txt
+2.1.1:
+  pop:
+    ethnicity: turkmen_culture
+    religion: 
+    estate: peasant
+    size: 1000
+160.1.1:
+  owner: HUNS
+  controller: HUNS
+  cores:
+    HUNS: yes
+  resource: fish
+370.1.1:
+  cores:
+    OGHU: yes
+448.1.1:
+  owner: OGHU
+  controller: OGHU
+  cores:
+    HUNS: no
+593.1.1:
+  owner: WGOK
+  controller: WGOK
+  cores:
+    OGHU: no
+    WGOK: yes
+659.1.1:
+  owner: KANG
+  controller: KANG
+  cores:
+    WGOK: no
+    KANG: yes
+750.1.1:
+  owner: OGHU
+  controller: OGHU
+  cores:
+    KANG: no
+    OGHU: yes
+900.1.1:
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+1043.1.1:
+  owner: KIME
+  controller: KIME
+  cores:
+    KIME: yes
+1050.1.1:
+  owner: KIPC
+  controller: KIPC
+  cores:
+    KIME: no
+    OGHU: no
+    KIPC: yes
+1060.1.1:
+  pop:
+    ethnicity: khazak
+    estate: peasant
+    size: 1000
+1100.1.1:
+  owner: CUMA
+  controller: CUMA
+  cores:
+    CUMA: yes
+1236.1.1:
+  owner: MGE
+  controller: MGE
+  cores:
+    CUMA: no
+    MGE: yes
+1260.1.1:
+  owner: BLHO
+  controller: BLHO
+  cores:
+    MGE: no
+    BLHO: yes
+1378.1.1:
+  owner: GLH
+  controller: GLH
+  cores:
+    GLH: yes
+1394.1.1:
+  owner: KAZA
+  controller: KAZA
+  cores:
+    GLH: no
+    KAZA: yes
+1406.1.1:
+  owner: NOGA
+  controller: NOGA
+  cores:
+    NOGA: yes
+1465.1.1:
+  controller: KAZA
+1468.1.1:
+  owner: KAZA
+  cores:
+    SHAY: no
+1740.1.1:
+  owner: ZUNG
+  controller: ZUNG
+1755.1.1:
+  owner: KAZA
+  controller: KAZA
+1853.1.1:
+  owner: RUS
+  controller: RUS
+  cores:
+    RUS: yes
+1917.11.27:
+  owner: TUKS
+  controller: TUKS
+  cores:
+    TUKS: yes
+1917.12.13:
+  cores:
+    KAZA: no
+    KAZK: yes
+1918.2.22:
+  owner: RUS
+  controller: RUS
+  cores:
+    TUKS: no
+1922.12.30:
+  owner: SOVI
+  controller: SOVI
+  cores:
+    RUS: no
+    SOVI: yes
+1960.1.1:
+  resource: wool
+1991.12.16:
+  owner: KAZK
+  controller: KAZK
+  cores:
+    SOVI: no
+    RUS: no

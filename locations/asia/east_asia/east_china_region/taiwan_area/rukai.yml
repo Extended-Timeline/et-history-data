@@ -1,0 +1,56 @@
+#imported from EU4 file: history/provinces/738 - Taiwan.txt
+2.1.1:
+  owner: TJAQ
+  controller: TJAQ
+  cores:
+    TJAQ: yes
+  resource: chinaware
+  pop:
+    ethnicity: formosan_culture
+    religion: bimoism
+    estate: peasant
+    size: 1000
+1624.1.1:
+  owner: NED
+  controller: NED
+  cores:
+    NED: yes
+1661.6.14:
+  owner: TAIW
+  controller: TAIW
+  cores:
+    TAIW: yes
+1683.9.5:
+  owner: QNG
+  controller: QNG
+  cores:
+    QNG: yes
+1710.1.1:
+  pop:
+    ethnicity: taiwanese
+    estate: peasant
+    size: 1000
+1760.1.1:
+  pop:
+    religion: mahayana
+    estate: peasant
+    size: 1000
+1895.4.17:
+  owner: JAP
+  controller: JAP
+  cores:
+    JAP: yes
+1912.2.12:
+  cores:
+    CHI: yes
+    QNG: no
+1945.8.15:
+  owner: CHI
+  controller: CHI
+  cores:
+    JAP: no
+1949.10.1:
+  owner: TAIW
+  controller: TAIW
+  cores:
+    TAIW: yes

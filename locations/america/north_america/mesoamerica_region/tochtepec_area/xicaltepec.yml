@@ -1,0 +1,52 @@
+#imported from EU4 file: history/provinces/4582 - Teotitlan.txt
+2.1.1:
+  owner: MIX
+  controller: MIX
+  cores:
+    MIX: yes
+  resource: dyes
+  pop:
+    ethnicity: mixtec_culture
+    religion: nahuatl
+    estate: peasant
+    size: 1000
+870.1.1:
+  owner: TOLT
+  controller: TOLT
+  cores:
+    TOLT: yes
+880.1.1:
+  pop:
+    ethnicity: nahua_culture
+    estate: peasant
+    size: 1000
+1100.1.1:
+  owner: TEO
+  controller: TEO
+  cores:
+    TOLT: no
+    TEO: yes
+1521.8.13:
+  owner: SPA
+  controller: SPA
+  cores:
+    SPA: yes
+  pop:
+    ethnicity: castilian
+    religion: catholic
+    estate: peasant
+    size: 1000
+1770.1.1:
+  pop:
+    ethnicity: mexican
+    estate: peasant
+    size: 1000
+1810.9.16:
+  owner: MEX
+  controller: MEX
+  cores:
+    MEX: yes
+1821.9.27:
+  controller: MEX
+  cores:
+    SPA: no

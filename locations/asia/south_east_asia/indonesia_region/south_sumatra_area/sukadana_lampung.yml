@@ -1,0 +1,72 @@
+#imported from EU4 file: history/provinces/623 - Lampung.txt
+2.1.1:
+  pop:
+    ethnicity: malay_culture
+    religion: mahayana
+    estate: peasant
+    size: 1000
+683.1.1:
+  owner: SRIV
+  controller: SRIV
+  cores:
+    SRIV: yes
+  resource: spices
+1288.1.1:
+  owner: SING
+  controller: SING
+  cores:
+    SRIV: no
+    SING: yes
+1293.1.1:
+  owner: MAJ
+  controller: MAJ
+  cores:
+    SING: no
+    MAJ: yes
+1340.1.1:
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+1350.1.1:
+  pop:
+    ethnicity: javanese_culture
+    estate: peasant
+    size: 1000
+1377.1.1:
+  owner: PLB
+  controller: PLB
+  cores:
+    MAJ: no
+    PLB: yes
+1550.1.1:
+  owner: BAN
+  controller: BAN
+  cores:
+    BAN: yes
+  resource: cloth
+1752.1.1:
+  owner: NED
+  controller: NED
+  cores:
+    BAN: no
+    NED: yes
+1880.1.1:
+  resource: coal
+1912.9.10:
+  cores:
+    ATJ: no
+    INDN: yes
+1942.2.1:
+  controller: JAP
+1942.3.9:
+  owner: JAP
+  controller: JAP
+1945.8.15:
+  owner: NED
+1945.8.17:
+  owner: INDN
+  controller: INDN
+1949.12.27:
+  cores:
+    NED: no

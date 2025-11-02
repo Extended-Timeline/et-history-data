@@ -1,0 +1,51 @@
+#imported from EU4 file: history/provinces/1077 - Solikamsk.txt
+2.1.1:
+  pop:
+    ethnicity: udmurt
+    religion: muinaisusko
+    estate: peasant
+    size: 1000
+750.1.1:
+  owner: UDMU
+  controller: UDMU
+  cores:
+    UDMU: yes
+  resource: salt
+1260.1.1:
+  owner: PRM
+  controller: PRM
+  cores:
+    UDMU: no
+    PRM: yes
+1370.1.1:
+  pop:
+    religion: orthodox
+    estate: peasant
+    size: 1000
+1500.1.1:
+  pop:
+    religion: orthodox
+    estate: peasant
+    size: 1000
+1505.4.1:
+  owner: RUS
+  controller: RUS
+  cores:
+    PRM: no
+    RUS: yes
+  pop:
+    ethnicity: muscovite
+    estate: peasant
+    size: 1000
+1922.12.30:
+  owner: SOVI
+  controller: SOVI
+  cores:
+    RUS: no
+    SOVI: yes
+1991.12.25:
+  owner: RUS
+  controller: RUS
+  cores:
+    SOVI: no
+    RUS: yes

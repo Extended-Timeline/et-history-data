@@ -1,0 +1,129 @@
+#imported from EU4 file: history/provinces/426 - Mazandaran.txt
+2.1.1:
+  owner: PART
+  controller: PART
+  cores:
+    PART: yes
+    HYRC: yes
+  resource: silk
+  pop:
+    ethnicity: mazanderani_culture
+    religion: zoroastrian
+    estate: peasant
+    size: 1000
+60.1.1:
+  controller: PART
+135.1.1:
+  owner: HYRC
+  controller: HYRC
+  cores:
+    PART: no
+224.4.24:
+  owner: ERA
+  controller: ERA
+  cores:
+    ERA: yes
+642.1.1:
+  owner: MZN
+  controller: MZN
+  cores:
+    ERA: no
+    MZN: yes
+890.1.1:
+  pop:
+    religion: shia
+    estate: peasant
+    size: 1000
+900.1.1:
+  owner: BUKH
+  controller: BUKH
+  cores:
+    BUKH: yes
+914.1.1:
+  owner: MZN
+  controller: MZN
+928.1.1:
+  owner: BUKH
+  controller: BUKH
+929.1.1:
+  pop:
+    religion: zoroastrian
+    estate: peasant
+    size: 1000
+930.1.1:
+  owner: MZN
+  controller: MZN
+  cores:
+    BUKH: no
+935.1.1:
+  pop:
+    religion: shia
+    estate: peasant
+    size: 1000
+977.1.1:
+  owner: QOM
+  controller: QOM
+  cores:
+    QOM: yes
+997.1.1:
+  owner: MZN
+  controller: MZN
+  cores:
+    QOM: no
+    MZN: yes
+1090.1.1:
+  owner: KRY
+  controller: KRY
+  cores:
+    KRY: yes
+1120.1.1:
+  owner: MZN
+  controller: MZN
+  cores:
+    KRY: no
+    MZN: yes
+1210.1.1:
+  owner: KHWA
+  controller: KHWA
+  cores:
+    KHWA: yes
+1231.1.1:
+  owner: MGE
+  controller: MGE
+  cores:
+    KHWA: no
+    MGE: yes
+    IRA: yes
+1260.1.1:
+  owner: ILK
+  controller: ILK
+  cores:
+    MGE: no
+    ILK: yes
+1335.1.1:
+  owner: MZN
+  controller: MZN
+  cores:
+    ILK: no
+    MZN: yes
+1596.1.1:
+  owner: IRA
+  controller: IRA
+  cores:
+    IRA: yes
+1723.9.12:
+  owner: RUS
+  controller: RUS
+  cores:
+    RUS: yes
+1732.1.21:
+  owner: IRA
+  controller: IRA
+  cores:
+    RUS: no
+1935.1.1:
+  owner: IRAN
+  controller: IRAN
+  cores:
+    IRA: no
+    IRAN: yes

@@ -1,0 +1,203 @@
+#imported from EU4 file: history/provinces/4304 - Khoy.txt
+2.1.1:
+  owner: ARM
+  controller: ARM
+  cores:
+    ARM: yes
+  resource: wool
+  pop:
+    ethnicity: armenian_culture
+    religion: armenian_religion
+    estate: peasant
+    size: 1000
+100.1.1:
+  pop:
+    religion: zoroastrian
+    estate: peasant
+    size: 1000
+114.1.1:
+  owner: ROM
+  controller: ROM
+  cores:
+    ROM: yes
+117.1.1:
+  owner: ARM
+  controller: ARM
+  cores:
+    ROM: no
+380.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+428.1.1:
+  owner: ERA
+  controller: ERA
+  cores:
+    ERA: yes
+506.1.1:
+  pop:
+    religion: miaphysite
+    estate: peasant
+    size: 1000
+639.1.1:
+  owner: RASH
+  controller: RASH
+  cores:
+    ERA: no
+    RASH: yes
+661.7.28:
+  owner: UMAY
+  controller: UMAY
+  cores:
+    RASH: no
+    UMAY: yes
+750.8.6:
+  owner: ABBA
+  controller: ABBA
+  cores:
+    UMAY: no
+    ABBA: yes
+889.1.1:
+  owner: AZER
+  controller: AZER
+  cores:
+    ABBA: no
+    AZER: yes
+955.1.1:
+  owner: TABR
+  controller: TABR
+  cores:
+    TABR: yes
+1054.1.1:
+  owner: SELJ
+  controller: SELJ
+  cores:
+    SELJ: yes
+1070.1.1:
+  pop:
+    ethnicity: azeri_culture
+    estate: peasant
+    size: 1000
+1120.1.1:
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+1157.5.8:
+  owner: AZER
+  controller: AZER
+  cores:
+    SELJ: no
+    AZER: yes
+1225.1.1:
+  owner: KHWA
+  controller: KHWA
+  cores:
+    AZER: no
+    KHWA: yes
+1231.1.1:
+  owner: MGE
+  controller: MGE
+  cores:
+    KHWA: no
+    MGE: yes
+    IRA: yes
+1260.1.1:
+  owner: ILK
+  controller: ILK
+  cores:
+    MGE: no
+    ILK: yes
+1335.1.1:
+  owner: TABR
+  controller: TABR
+  cores:
+    ILK: no
+    TABR: yes
+1358.1.1:
+  owner: JAL
+  controller: JAL
+  cores:
+    JAL: yes
+1375.1.1:
+  owner: QAKO
+  controller: QAKO
+  cores:
+    JAL: no
+    QAKO: yes
+1380.1.1:
+  cores:
+    TIM: yes
+1392.1.1:
+  owner: TIM
+  controller: TIM
+1402.1.1:
+  owner: QAKO
+  controller: QAKO
+  cores:
+    TIM: no
+    QAKO: yes
+1458.12.1:
+  controller: QAKO
+1468.1.1:
+  owner: AKQO
+  controller: AKQO
+  cores:
+    QAKO: no
+    AKQO: yes
+1501.7.1:
+  owner: IRA
+  controller: IRA
+  cores:
+    AKQO: no
+    IRA: yes
+1534.7.13:
+  controller: TUR
+1536.1.1:
+  controller: IRA
+1548.7.27:
+  controller: TUR
+1549.12.1:
+  controller: IRA
+1585.9.22:
+  controller: TUR
+1590.3.21:
+  owner: TUR
+  cores:
+    TUR: yes
+1603.9.26:
+  controller: IRA
+1612.11.20:
+  owner: IRA
+  cores:
+    TUR: no
+1747.1.1:
+  owner: TABR
+  controller: TABR
+  cores:
+    IRA: no
+    TABR: yes
+1796.6.15:
+  controller: RUS
+1796.11.1:
+  controller: TABR
+1809.1.1:
+  owner: IRA
+  controller: IRA
+  cores:
+    IRA: yes
+1918.5.28:
+  cores:
+    AZER: no
+1935.1.1:
+  owner: IRAN
+  controller: IRAN
+  cores:
+    IRA: no
+    IRAN: yes
+1945.11.21:
+  cores:
+    AZER: yes
+1946.12.11:
+  controller: IRAN

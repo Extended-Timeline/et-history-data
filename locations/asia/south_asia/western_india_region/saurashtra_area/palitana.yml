@@ -1,0 +1,100 @@
+#imported from EU4 file: history/provinces/2051 - Bhavnagar.txt
+2.1.1:
+  owner: WSAT
+  controller: WSAT
+  cores:
+    WSAT: yes
+  resource: salt
+  pop:
+    ethnicity: gujarati
+    religion: hindu
+    estate: peasant
+    size: 1000
+405.1.1:
+  owner: GUPT
+  controller: GUPT
+  cores:
+    WSAT: no
+    GUPT: yes
+475.1.1:
+  owner: GUJ
+  controller: GUJ
+  cores:
+    GUPT: no
+    GUJ: yes
+520.1.1:
+  pop:
+    religion: jain
+    estate: peasant
+    size: 1000
+776.1.1:
+  owner: GURJ
+  controller: GURJ
+  cores:
+    GURJ: yes
+800.1.1:
+  owner: PATA
+  controller: PATA
+  cores:
+    GURJ: no
+    PATA: yes
+875.1.1:
+  owner: JNG
+  controller: JNG
+  cores:
+    PATA: no
+    JNG: yes
+1180.1.1:
+  pop:
+    religion: hindu
+    estate: peasant
+    size: 1000
+1194.1.1:
+  owner: PLT
+  controller: PLT
+  cores:
+    JNG: no
+    PLT: yes
+1347.1.1:
+  owner: DLH
+  controller: DLH
+  cores:
+    DLH: yes
+1380.1.1:
+  owner: PLT
+  controller: PLT
+  cores:
+    DLH: no
+1470.1.1:
+  owner: GUJ
+  controller: GUJ
+  cores:
+    GUJ: yes
+1540.1.1:
+  owner: PLT
+  controller: PLT
+  cores:
+    GUJ: no
+1591.1.1:
+  controller: MUG
+1592.1.1:
+  owner: MUG
+  cores:
+    MUG: yes
+1725.1.1:
+  owner: BARO
+  controller: BARO
+  cores:
+    MUG: no
+    BARO: yes
+1802.1.1:
+  owner: PLT
+  controller: PLT
+  cores:
+    BARO: no
+1930.1.1:
+  cores:
+    INDI: yes
+1947.8.15:
+  owner: INDI
+  controller: INDI

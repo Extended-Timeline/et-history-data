@@ -1,0 +1,61 @@
+#imported from EU4 file: history/provinces/589 - Chiang Mai.txt
+2.1.1:
+  owner: LAWA
+  controller: LAWA
+  cores:
+    LAWA: yes
+  resource: ivory
+  pop:
+    ethnicity: wa_culture
+    religion: bimoism
+    estate: peasant
+    size: 1000
+580.1.1:
+  owner: DVAR
+  controller: DVAR
+  cores:
+    LAWA: no
+    DVAR: yes
+  pop:
+    ethnicity: mon_culture
+    estate: peasant
+    size: 1000
+590.1.1:
+  pop:
+    religion: mahayana
+    estate: peasant
+    size: 1000
+629.1.1:
+  owner: HARI
+  controller: HARI
+  cores:
+    DVAR: no
+    HARI: yes
+1150.1.1:
+  pop:
+    religion: theravada
+    estate: peasant
+    size: 1000
+1292.1.1:
+  owner: LNA
+  controller: LNA
+  cores:
+    HARI: no
+    LNA: yes
+1300.1.1:
+  pop:
+    ethnicity: khon_muang_culture
+    estate: peasant
+    size: 1000
+1884.1.1:
+  owner: RTP
+  controller: RTP
+  cores:
+    LNA: no
+    RTP: yes
+1932.7.24:
+  owner: SIA
+  controller: SIA
+  cores:
+    RTP: no
+    SIA: yes

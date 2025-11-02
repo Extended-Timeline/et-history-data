@@ -1,0 +1,97 @@
+#imported from EU4 file: history/provinces/72 - Breisgau.txt
+2.1.1:
+  owner: ALEM
+  controller: ALEM
+  cores:
+    ALEM: yes
+  resource: grain
+  pop:
+    ethnicity: high_alemannic
+    religion: germanic
+    estate: peasant
+    size: 1000
+75.1.1:
+  owner: ROM
+  controller: ROM
+  cores:
+    ROM: yes
+260.1.1:
+  owner: ALEM
+  controller: ALEM
+  cores:
+    ROM: no
+600.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+746.1.1:
+  owner: FRAN
+  controller: FRAN
+  cores:
+    FRAN: yes
+840.6.21:
+  owner: EFRA
+  controller: EFRA
+  cores:
+    FRAN: no
+    EFRA: yes
+867.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+900.1.1:
+  resource: glass
+911.11.10:
+  owner: SWA
+  controller: SWA
+  cores:
+    EFRA: no
+    ALEM: no
+    SWA: yes
+1112.1.1:
+  owner: BDE
+  controller: BDE
+  cores:
+    SWA: no
+    BDE: yes
+1406.1.1:
+  owner: HAB
+  controller: HAB
+  cores:
+    BDE: no
+    HAB: yes
+    TIR: yes
+1797.10.17:
+  owner: MOD
+  controller: MOD
+  cores:
+    HAB: no
+    MOD: yes
+1805.12.26:
+  owner: BDE
+  controller: BDE
+  cores:
+    MOD: no
+    BDE: yes
+1871.1.18:
+  owner: GER
+  controller: GER
+  cores:
+    GER: yes
+1900.1.1:
+  cores:
+    BDE: no
+1945.4.1:
+  controller: FRA
+1945.5.8:
+  owner: WGER
+  controller: WGER
+  cores:
+    WGER: yes
+1990.10.3:
+  owner: GER
+  controller: GER
+  cores:
+    WGER: no

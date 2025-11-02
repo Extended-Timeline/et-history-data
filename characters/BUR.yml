@@ -1,0 +1,755 @@
+bur_irmin_irmione:
+  21.1.1:
+    birth: sieradz #TODO: Date and location guessed, check if better data is available
+    first_name: irmin
+    dynasty: irmione_dynasty
+    adm: 45
+    dip: 60
+    mil: 30
+    religion: germanic
+    culture: burgundione
+  140.1.1:
+    death: yes
+bur_burgundus_burgundian:
+  110.1.1:
+    birth: sieradz #TODO: Date and location guessed, check if better data is available
+    first_name: burgundus
+    dynasty: burgundian_dynasty
+    adm: 60
+    dip: 45
+    mil: 60
+    religion: germanic
+    culture: burgundione
+  220.1.1:
+    death: yes
+bur_gjuki_nibelunging:
+  190.1.1:
+    birth: wurzburg #TODO: Date and location guessed, check if better data is available
+    first_name: gjuki
+    dynasty: nibelunging_dynasty
+    adm: 60
+    dip: 45
+    mil: 75
+    religion: germanic
+    culture: burgundione
+  300.1.1:
+    death: yes
+bur_gunther_nibelunging:
+  270.1.1:
+    birth: wurzburg #TODO: Date and location guessed, check if better data is available
+    first_name: gunther
+    dynasty: nibelunging_dynasty
+    adm: 30
+    dip: 60
+    mil: 60
+    religion: germanic
+    culture: burgundione
+  350.1.1:
+    death: yes
+bur_gebicca_burgundian:
+  320.1.1:
+    birth: wurzburg #TODO: Date and location guessed, check if better data is available
+    first_name: gebicca
+    dynasty: burgundian_dynasty
+    adm: 75
+    dip: 75
+    mil: 0
+    religion: germanic
+    culture: burgundione
+  407.1.1:
+    death: yes
+bur_godemar_burgundian:
+  377.1.1:
+    birth: wurzburg #TODO: Date and location guessed, check if better data is available
+    first_name: godemar
+    dynasty: burgundian_dynasty
+    adm: 0
+    dip: 0
+    mil: 60
+    religion: germanic
+    culture: burgundione
+  410.1.1:
+    death: yes
+bur_giselcar_burgundian:
+  380.1.1:
+    birth: worms #TODO: Date and location guessed, check if better data is available
+    first_name: giselcar
+    dynasty: burgundian_dynasty
+    adm: 75
+    dip: 15
+    mil: 15
+    religion: germanic
+    culture: burgundione
+  413.1.1:
+    death: yes
+bur_gundicar_burgundian:
+  390.1.1:
+    birth: worms #TODO: Date and location guessed, check if better data is available
+    first_name: gundicar
+    dynasty: burgundian_dynasty
+    adm: 75
+    dip: 75
+    mil: 45
+    religion: germanic
+    culture: burgundione
+  436.1.1:
+    death: yes
+bur_gunderic_burgundian:
+  406.1.1:
+    birth: besancon #TODO: Date and location guessed, check if better data is available
+    first_name: gunderic
+    dynasty: burgundian_dynasty
+    adm: 75
+    dip: 30
+    mil: 60
+    religion: arianism
+    culture: burgundione
+  473.1.1:
+    death: yes
+bur_gundobad_burgundian:
+  443.1.1:
+    birth: besancon #TODO: Date and location guessed, check if better data is available
+    first_name: gundobad
+    dynasty: burgundian_dynasty
+    adm: 75
+    dip: 60
+    mil: 75
+    religion: chalcedonism
+    culture: burgundian
+  516.1.1:
+    death: yes
+bur_sigismund_burgundian:
+  486.1.1:
+    birth: besancon #TODO: Date and location guessed, check if better data is available
+    first_name: sigismund
+    dynasty: burgundian_dynasty
+    adm: 15
+    dip: 30
+    mil: 30
+    religion: chalcedonism
+    culture: burgundian
+  523.1.1:
+    death: yes
+bur_godomar_burgundian:
+  493.1.1:
+    birth: besancon #TODO: Date and location guessed, check if better data is available
+    first_name: godomar
+    dynasty: burgundian_dynasty
+    adm: 15
+    dip: 15
+    mil: 45
+    religion: catholic
+    culture: burgundian
+  534.1.1:
+    death: yes
+bur_rudolf_i_von_welf:
+  858.1.1:
+    birth: besancon #TODO: Date and location guessed, check if better data is available
+    first_name: rudolf
+    dynasty: von_welf_dynasty
+    adm: 15
+    dip: 60
+    mil: 30
+    religion: catholic
+    culture: burgundian
+  912.10.25:
+    death: yes
+bur_rudolf_ii_von_welf:
+  880.1.1:
+    birth: besancon #TODO: Date and location guessed, check if better data is available
+    first_name: rudolf
+    dynasty: von_welf_dynasty
+    father: bur_rudolf_i_von_welf #TODO: check if this makes sense
+    adm: 30
+    dip: 15
+    mil: 15
+    religion: catholic
+    culture: burgundian
+  937.7.11:
+    death: yes
+bur_rudolf_ii_von_welf_1:
+  882.1.1:
+    birth: aix_en_provence #TODO: Date and location guessed, check if better data is available
+    first_name: rudolf
+    dynasty: von_welf_dynasty
+    adm: 30
+    dip: 15
+    mil: 15
+    religion: catholic
+    culture: burgundian
+  937.7.11:
+    death: yes
+bur_conrad_i_von_welf:
+  925.1.1:
+    birth: besancon #TODO: Date and location guessed, check if better data is available
+    first_name: conrad
+    dynasty: von_welf_dynasty
+    father: bur_rudolf_ii_von_welf_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 30
+    mil: 60
+    religion: catholic
+    culture: burgundian
+  993.10.19:
+    death: yes
+bur_conrad_i_von_welf_1:
+  907.1.1:
+    birth: besancon #TODO: Date and location guessed, check if better data is available
+    first_name: conrad
+    dynasty: von_welf_dynasty
+    adm: 30
+    dip: 30
+    mil: 60
+    religion: catholic
+    culture: burgundian
+  993.10.19:
+    death: yes
+bur_rudolf_iii_von_welf:
+  971.1.1:
+    birth: besancon #TODO: Date and location guessed, check if better data is available
+    first_name: rudolf
+    dynasty: von_welf_dynasty
+    father: bur_conrad_i_von_welf_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 15
+    mil: 75
+    religion: catholic
+    culture: burgundian
+  1032.9.6:
+    death: yes
+bur_rudolf_iii_von_welf_1:
+  963.1.1:
+    birth: dijon #TODO: Date and location guessed, check if better data is available
+    first_name: rudolf
+    dynasty: von_welf_dynasty
+    adm: 45
+    dip: 15
+    mil: 75
+    religion: catholic
+    culture: burgundian
+  1032.9.6:
+    death: yes
+bur_reginald_i_divrea:
+  1002.1.1:
+    birth: dijon #TODO: Date and location guessed, check if better data is available
+    first_name: reginald
+    dynasty: divrea_dynasty
+    adm: 30
+    dip: 45
+    mil: 60
+    religion: catholic
+    culture: burgundian
+  1057.9.3:
+    death: yes
+bur_wilhelm_i_divrea:
+  1020.1.1:
+    birth: dijon #TODO: Date and location guessed, check if better data is available
+    first_name: wilhelm
+    dynasty: divrea_dynasty
+    father: bur_reginald_i_divrea #TODO: check if this makes sense
+    adm: 15
+    dip: 45
+    mil: 15
+    religion: catholic
+    culture: burgundian
+  1087.11.12:
+    death: yes
+bur_wilhelm_i_divrea_1:
+  1027.1.1:
+    birth: dijon #TODO: Date and location guessed, check if better data is available
+    first_name: wilhelm
+    dynasty: divrea_dynasty
+    adm: 15
+    dip: 45
+    mil: 15
+    religion: catholic
+    culture: burgundian
+  1087.11.12:
+    death: yes
+bur_reginald_ii_divrea:
+  1061.1.1:
+    birth: dijon #TODO: Date and location guessed, check if better data is available
+    first_name: reginald
+    dynasty: divrea_dynasty
+    father: bur_wilhelm_i_divrea_1 #TODO: check if this makes sense
+    adm: 75
+    dip: 45
+    mil: 15
+    religion: catholic
+    culture: burgundian
+  1097.1.1:
+    death: yes
+bur_reginald_ii_divrea_1:
+  1057.1.1:
+    birth: dijon #TODO: Date and location guessed, check if better data is available
+    first_name: reginald
+    dynasty: divrea_dynasty
+    adm: 75
+    dip: 45
+    mil: 15
+    religion: catholic
+    culture: burgundian
+  1097.1.1:
+    death: yes
+bur_wilhelm_ii_divrea:
+  1075.1.1:
+    birth: dijon #TODO: Date and location guessed, check if better data is available
+    first_name: wilhelm
+    dynasty: divrea_dynasty
+    father: bur_reginald_ii_divrea_1 #TODO: check if this makes sense
+    adm: 60
+    dip: 30
+    mil: 75
+    religion: catholic
+    culture: burgundian
+  1125.1.1:
+    death: yes
+bur_wilhelm_ii_divrea_1:
+  1067.1.1:
+    birth: dijon #TODO: Date and location guessed, check if better data is available
+    first_name: wilhelm
+    dynasty: divrea_dynasty
+    adm: 60
+    dip: 30
+    mil: 75
+    religion: catholic
+    culture: burgundian
+  1125.1.1:
+    death: yes
+bur_wilhelm_iii_divrea:
+  1110.1.1:
+    birth: dijon #TODO: Date and location guessed, check if better data is available
+    first_name: wilhelm
+    dynasty: divrea_dynasty
+    father: bur_wilhelm_ii_divrea_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 45
+    mil: 15
+    religion: catholic
+    culture: burgundian
+  1127.3.1:
+    death: yes
+bur_wilhelm_iii_divrea_1:
+  1095.1.1:
+    birth: dijon #TODO: Date and location guessed, check if better data is available
+    first_name: wilhelm
+    dynasty: divrea_dynasty
+    adm: 15
+    dip: 45
+    mil: 15
+    religion: catholic
+    culture: burgundian
+  1127.3.1:
+    death: yes
+bur_renaud_iii_divrea:
+  1093.1.1:
+    birth: dijon #TODO: Date and location guessed, check if better data is available
+    first_name: renaud
+    dynasty: divrea_dynasty
+    father: bur_wilhelm_iii_divrea_1 #TODO: check if this makes sense
+    adm: 60
+    dip: 45
+    mil: 45
+    religion: catholic
+    culture: burgundian
+  1148.1.22:
+    death: yes
+bur_renaud_iii_divrea_1:
+  1097.1.1:
+    birth: dijon #TODO: Date and location guessed, check if better data is available
+    first_name: renaud
+    dynasty: divrea_dynasty
+    adm: 60
+    dip: 45
+    mil: 45
+    religion: catholic
+    culture: burgundian
+  1148.1.22:
+    death: yes
+bur_beatrice_i_divrea:
+  1143.1.1:
+    birth: dijon #TODO: Date and location guessed, check if better data is available
+    first_name: beatrice
+    dynasty: divrea_dynasty
+    female: yes
+    father: bur_renaud_iii_divrea_1 #TODO: check if this makes sense
+    adm: 75
+    dip: 75
+    mil: 60
+    religion: catholic
+    culture: burgundian
+  1184.11.15:
+    death: yes
+bur_beatrice_i_divrea_1:
+  1118.1.1:
+    birth: dijon #TODO: Date and location guessed, check if better data is available
+    first_name: beatrice
+    dynasty: divrea_dynasty
+    female: yes
+    adm: 75
+    dip: 75
+    mil: 60
+    religion: catholic
+    culture: burgundian
+  1190.6.10:
+    death: yes
+bur_otto_i_von_hohenstaufen:
+  1160.1.1:
+    birth: dijon #TODO: Date and location guessed, check if better data is available
+    first_name: otto
+    dynasty: von_hohenstaufen_dynasty
+    adm: 60
+    dip: 75
+    mil: 75
+    religion: catholic
+    culture: burgundian
+  1200.1.13:
+    death: yes
+bur_joan_i_von_hohenstaufen:
+  1191.1.1:
+    birth: dijon #TODO: Date and location guessed, check if better data is available
+    first_name: joan
+    dynasty: von_hohenstaufen_dynasty
+    female: yes
+    father: bur_otto_i_von_hohenstaufen #TODO: check if this makes sense
+    adm: 75
+    dip: 75
+    mil: 75
+    religion: catholic
+    culture: burgundian
+  1205.1.1:
+    death: yes
+bur_joan_i_von_hohenstaufen_1:
+  1170.1.1:
+    birth: dijon #TODO: Date and location guessed, check if better data is available
+    first_name: joan
+    dynasty: von_hohenstaufen_dynasty
+    female: yes
+    adm: 75
+    dip: 75
+    mil: 75
+    religion: catholic
+    culture: burgundian
+  1205.1.1:
+    death: yes
+bur_beatrice_ii_von_hohenstaufen:
+  1192.1.1:
+    birth: dijon #TODO: Date and location guessed, check if better data is available
+    first_name: beatrice
+    dynasty: von_hohenstaufen_dynasty
+    female: yes
+    father: bur_joan_i_von_hohenstaufen_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 45
+    mil: 30
+    religion: catholic
+    culture: burgundian
+  1231.5.7:
+    death: yes
+bur_beatrice_ii_von_hohenstaufen_1:
+  1175.1.1:
+    birth: dijon #TODO: Date and location guessed, check if better data is available
+    first_name: beatrice
+    dynasty: von_hohenstaufen_dynasty
+    female: yes
+    adm: 45
+    dip: 45
+    mil: 30
+    religion: catholic
+    culture: burgundian
+  1231.5.7:
+    death: yes
+bur_otto_iii_von_andechs:
+  1201.1.1:
+    birth: dijon #TODO: Date and location guessed, check if better data is available
+    first_name: otto
+    dynasty: von_andechs_dynasty
+    adm: 75
+    dip: 45
+    mil: 15
+    religion: catholic
+    culture: burgundian
+  1248.6.19:
+    death: yes
+bur_adelaide_i_von_andechs:
+  1209.1.1:
+    birth: dijon #TODO: Date and location guessed, check if better data is available
+    first_name: adelaide
+    dynasty: von_andechs_dynasty
+    female: yes
+    father: bur_otto_iii_von_andechs #TODO: check if this makes sense
+    adm: 15
+    dip: 45
+    mil: 15
+    religion: catholic
+    culture: burgundian
+  1279.3.8:
+    death: yes
+bur_adelaide_i_von_andechs_1:
+  1218.1.1:
+    birth: dijon #TODO: Date and location guessed, check if better data is available
+    first_name: adelaide
+    dynasty: von_andechs_dynasty
+    female: yes
+    adm: 15
+    dip: 45
+    mil: 15
+    religion: catholic
+    culture: burgundian
+  1279.3.8:
+    death: yes
+bur_otto_iv_divrea:
+  1249.1.1:
+    birth: dijon #TODO: Date and location guessed, check if better data is available
+    first_name: otto
+    dynasty: divrea_dynasty
+    adm: 30
+    dip: 15
+    mil: 45
+    religion: catholic
+    culture: burgundian
+  1303.3.26:
+    death: yes
+bur_robert_i_divrea:
+  1300.1.1:
+    birth: dijon #TODO: Date and location guessed, check if better data is available
+    first_name: robert
+    dynasty: divrea_dynasty
+    father: bur_otto_iv_divrea #TODO: check if this makes sense
+    adm: 75
+    dip: 75
+    mil: 60
+    religion: catholic
+    culture: burgundian
+  1315.1.1:
+    death: yes
+bur_robert_i_divrea_1:
+  1273.1.1:
+    birth: dijon #TODO: Date and location guessed, check if better data is available
+    first_name: robert
+    dynasty: divrea_dynasty
+    adm: 75
+    dip: 75
+    mil: 60
+    religion: catholic
+    culture: burgundian
+  1315.1.1:
+    death: yes
+bur_joan_ii_divrea:
+  1292.1.15:
+    birth: dijon #TODO: Location guessed, check if better data is available
+    first_name: joan
+    dynasty: divrea_dynasty
+    female: yes
+    father: bur_robert_i_divrea_1 #TODO: check if this makes sense
+    adm: 75
+    dip: 75
+    mil: 30
+    religion: catholic
+    culture: burgundian
+  1330.1.21:
+    death: yes
+bur_joan_ii_divrea_1:
+  1285.1.1:
+    birth: dijon #TODO: Date and location guessed, check if better data is available
+    first_name: joan
+    dynasty: divrea_dynasty
+    female: yes
+    adm: 75
+    dip: 75
+    mil: 30
+    religion: catholic
+    culture: burgundian
+  1330.1.21:
+    death: yes
+bur_joan_iii_capet:
+  1300.1.1:
+    birth: dijon #TODO: Date and location guessed, check if better data is available
+    first_name: joan
+    dynasty: capet_dynasty
+    female: yes
+    adm: 45
+    dip: 60
+    mil: 30
+    religion: catholic
+    culture: burgundian
+  1347.8.15:
+    death: yes
+bur_philippe_i_de_bourgogne:
+  1317.1.1:
+    birth: dijon #TODO: Date and location guessed, check if better data is available
+    first_name: philippe
+    dynasty: de_bourgogne_dynasty
+    adm: 30
+    dip: 45
+    mil: 30
+    religion: catholic
+    culture: burgundian
+  1361.11.1:
+    death: yes
+bur_margeret_i_capet:
+  1331.1.1:
+    birth: dijon #TODO: Date and location guessed, check if better data is available
+    first_name: margeret
+    dynasty: capet_dynasty
+    female: yes
+    adm: 60
+    dip: 60
+    mil: 15
+    religion: catholic
+    culture: burgundian
+  1382.5.9:
+    death: yes
+bur_louis_i_de_dampierre:
+  1352.1.1:
+    birth: dijon #TODO: Date and location guessed, check if better data is available
+    first_name: louis
+    dynasty: de_dampierre_dynasty
+    adm: 30
+    dip: 45
+    mil: 60
+    religion: catholic
+    culture: burgundian
+  1384.1.30:
+    death: yes
+bur_philippe_ii_de_bourgogne:
+  1354.1.1:
+    birth: dijon #TODO: Date and location guessed, check if better data is available
+    first_name: philippe
+    dynasty: de_bourgogne_dynasty
+    adm: 45
+    dip: 60
+    mil: 30
+    religion: catholic
+    culture: burgundian
+  1404.4.27:
+    death: yes
+bur_jean_ii_de_bourgogne:
+  1371.5.28:
+    birth: dijon #TODO: Location guessed, check if better data is available
+    first_name: jean
+    dynasty: de_bourgogne_dynasty
+    father: bur_philippe_ii_de_bourgogne #TODO: check if this makes sense
+    adm: 45
+    dip: 45
+    mil: 30
+    religion: catholic
+    culture: burgundian
+  1419.9.10:
+    death: yes
+bur_jean_ii_de_bourgogne_1:
+  1374.1.1:
+    birth: dijon #TODO: Date and location guessed, check if better data is available
+    first_name: jean
+    dynasty: de_bourgogne_dynasty
+    adm: 45
+    dip: 45
+    mil: 30
+    religion: catholic
+    culture: burgundian
+  1419.9.11:
+    death: yes
+bur_philip_iii_de_bourgogne:
+  1396.7.31:
+    birth: dijon #TODO: Location guessed, check if better data is available
+    first_name: philip
+    dynasty: de_bourgogne_dynasty
+    father: bur_jean_ii_de_bourgogne_1 #TODO: check if this makes sense
+    adm: 90
+    dip: 90
+    mil: 90
+    religion: catholic
+    culture: burgundian
+  1467.6.15:
+    death: yes
+bur_philippe_iii_de_bourgogne:
+  1396.7.31:
+    birth: dijon #TODO: Location guessed, check if better data is available
+    first_name: philippe
+    dynasty: de_bourgogne_dynasty
+    adm: 75
+    dip: 75
+    mil: 75
+    religion: catholic
+    culture: burgundian
+  1467.6.16:
+    death: yes
+bur_isabella_de_avis:
+  1397.2.21:
+    birth: dijon #TODO: Location guessed, check if better data is available
+    first_name: isabella
+    dynasty: de_avis_dynasty
+    female: yes
+    adm: 45
+    dip: 60
+    mil: 15
+    religion: catholic
+    culture: burgundian
+  1471.12.17:
+    death: yes
+  1430.1.7:
+    spouse: bur_philippe_iii_de_bourgogne #TODO: date guessed, see if better data is available
+bur_charles_i_de_bourgogne:
+  1433.11.10:
+    birth: dijon #TODO: Location guessed, check if better data is available
+    first_name: charles
+    dynasty: de_bourgogne_dynasty
+    adm: 30
+    dip: 0
+    mil: 60
+    religion: catholic
+    culture: burgundian
+  1477.1.6:
+    death: yes
+bur_marie_i_de_bourgogne:
+  1457.2.13:
+    birth: dijon #TODO: Location guessed, check if better data is available
+    first_name: marie
+    dynasty: de_bourgogne_dynasty
+    female: yes
+    adm: 45
+    dip: 60
+    mil: 30
+    religion: catholic
+    culture: burgundian
+  1482.3.28:
+    death: yes
+bur_margaret_york:
+  1446.5.3:
+    birth: dijon #TODO: Location guessed, check if better data is available
+    first_name: margaret
+    dynasty: york_dynasty
+    female: yes
+    adm: 75
+    dip: 60
+    mil: 15
+    religion: catholic
+    culture: burgundian
+  1503.11.23:
+    death: yes
+  1468.7.3:
+    spouse: bur_charles_i_de_bourgogne #TODO: date guessed, see if better data is available
+bur_philippe_iv_von_habsburg:
+  1478.7.22:
+    birth: dijon #TODO: Location guessed, check if better data is available
+    first_name: philippe
+    dynasty: von_habsburg_dynasty
+    adm: 0
+    dip: 0
+    mil: 0
+    religion: catholic
+    culture: burgundian
+  1506.9.26:
+    death: yes
+bur_charles_ii_von_habsburg:
+  1500.2.24:
+    birth: dijon #TODO: Location guessed, check if better data is available
+    first_name: charles
+    dynasty: von_habsburg_dynasty
+    adm: 60
+    dip: 75
+    mil: 75
+    religion: catholic
+    culture: burgundian
+  1558.9.21:
+    death: yes

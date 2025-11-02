@@ -1,0 +1,154 @@
+#imported from EU4 file: history/provinces/168 - Normandie.txt
+2.1.1:
+  owner: ROM
+  controller: ROM
+  cores:
+    ROM: yes
+  resource: naval_supplies
+  pop:
+    ethnicity: gallian
+    religion: druidism
+    estate: peasant
+    size: 1000
+260.1.1:
+  cores:
+    GALL: yes
+268.1.1:
+  controller: ROM
+  cores:
+    GALL: no
+395.1.17:
+  owner: ROMW
+  controller: ROMW
+  cores:
+    ROM: no
+    ROMW: yes
+440.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+461.11.1:
+  owner: SOIS
+  controller: SOIS
+  cores:
+    SOIS: yes
+480.6.1:
+  cores:
+    ROMW: no
+486.6.1:
+  owner: FRAN
+  controller: FRAN
+  cores:
+    SOIS: no
+    FRAN: yes
+  pop:
+    ethnicity: french
+    estate: peasant
+    size: 1000
+511.11.27:
+  owner: NEUS
+  controller: NEUS
+  cores:
+    NEUS: yes
+558.12.23:
+  owner: FRAN
+  controller: FRAN
+  cores:
+    FRAN: yes
+561.11.29:
+  owner: NEUS
+  controller: NEUS
+613.10.10:
+  owner: FRAN
+  controller: FRAN
+  cores:
+    FRAN: yes
+634.1.1:
+  owner: NEUS
+  controller: NEUS
+679.12.23:
+  owner: FRAN
+  controller: FRAN
+840.6.21:
+  owner: WFRA
+  controller: WFRA
+  cores:
+    FRAN: no
+    WFRA: yes
+867.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+911.1.1:
+  owner: NRM
+  controller: NRM
+  cores:
+    WFRA: no
+    NRM: yes
+  pop:
+    ethnicity: norman
+    estate: peasant
+    size: 1000
+1066.12.25:
+  owner: ENG
+  controller: ENG
+  cores:
+    ENG: yes
+1087.9.9:
+  owner: NRM
+  controller: NRM
+1106.1.1:
+  owner: ENG
+  controller: ENG
+1144.1.1:
+  owner: ANJ
+  controller: ANJ
+  cores:
+    ENG: no
+    ANJ: yes
+1154.12.19:
+  owner: ENG
+  controller: ENG
+  cores:
+    ANJ: no
+    ENG: yes
+1200.1.1:
+  resource: cloth
+1204.6.24:
+  owner: FRA
+  controller: FRA
+  cores:
+    FRA: yes
+1415.10.25:
+  controller: ENG
+1420.5.12:
+  owner: ENG
+  cores:
+    ENG: yes
+1450.1.1:
+  owner: FRA
+  controller: FRA
+1465.8.15:
+  owner: NRM
+  controller: NRM
+1466.3.6:
+  owner: FRA
+  controller: FRA
+1475.8.29:
+  cores:
+    ENG: no
+1870.9.4:
+  owner: FRA
+  controller: FRA
+  cores:
+    FRA: yes
+1940.6.14:
+  owner: GER
+  controller: GER
+1944.6.6:
+  controller: GBR
+1944.8.25:
+  owner: FRA
+  controller: FRA

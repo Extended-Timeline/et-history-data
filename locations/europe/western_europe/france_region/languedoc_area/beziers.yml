@@ -1,0 +1,134 @@
+#imported from EU4 file: history/provinces/2753 - Narbonne.txt
+2.1.1:
+  owner: ROM
+  controller: ROM
+  cores:
+    ROM: yes
+  resource: wine
+  pop:
+    ethnicity: gallian
+    religion: hellenism_religion
+    estate: peasant
+    size: 1000
+300.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+395.1.17:
+  owner: ROMW
+  controller: ROMW
+  cores:
+    ROM: no
+    ROMW: yes
+456.1.1:
+  owner: VISG
+  controller: VISG
+  cores:
+    VISG: yes
+458.10.1:
+  owner: ROMW
+  controller: ROMW
+462.1.1:
+  owner: VISG
+  controller: VISG
+  cores:
+    ROMW: no
+600.1.1:
+  pop:
+    ethnicity: languedocien
+    estate: peasant
+    size: 1000
+719.1.1:
+  owner: UMAY
+  controller: UMAY
+  cores:
+    VISG: no
+    UMAY: yes
+750.8.6:
+  owner: CRDB
+  controller: CRDB
+  cores:
+    UMAY: no
+    CRDB: yes
+759.1.1:
+  owner: AQN
+  controller: AQN
+  cores:
+    CRDB: no
+    AQN: yes
+769.2.1:
+  owner: FRAN
+  controller: FRAN
+  cores:
+    FRAN: yes
+781.1.1:
+  owner: AQN
+  controller: AQN
+  cores:
+    AQN: yes
+814.1.1:
+  owner: FRAN
+  controller: FRAN
+840.6.21:
+  owner: WFRA
+  controller: WFRA
+  cores:
+    FRAN: no
+    WFRA: yes
+866.1.1:
+  owner: AQN
+  controller: AQN
+  cores:
+    WFRA: no
+    AQN: yes
+867.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+877.10.6:
+  owner: WFRA
+  controller: WFRA
+  cores:
+    AQN: no
+    WFRA: yes
+987.7.3:
+  owner: FRA
+  controller: FRA
+  cores:
+    WFRA: no
+    FRA: yes
+1349.10.25:
+  cores:
+    TOU: yes
+1560.1.1:
+  pop:
+    religion: calvinist
+    estate: peasant
+    size: 1000
+1686.1.17:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+1870.9.4:
+  owner: FRA
+  controller: FRA
+  cores:
+    FRA: yes
+1940.6.14:
+  owner: VFRA
+  controller: VFRA
+  cores:
+    VFRA: yes
+1944.8.25:
+  owner: FRA
+  controller: FRA
+  cores:
+    VFRA: no
+1950.1.1:
+  pop:
+    ethnicity: french
+    estate: peasant
+    size: 1000

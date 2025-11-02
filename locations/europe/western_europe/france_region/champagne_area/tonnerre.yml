@@ -1,0 +1,131 @@
+#imported from EU4 file: history/provinces/185 - Othe.txt
+2.1.1:
+  owner: ROM
+  controller: ROM
+  cores:
+    ROM: yes
+  resource: grain
+  pop:
+    ethnicity: gallian
+    religion: druidism
+    estate: peasant
+    size: 1000
+260.1.1:
+  cores:
+    GALL: yes
+268.1.1:
+  controller: ROM
+  cores:
+    GALL: no
+395.1.17:
+  owner: ROMW
+  controller: ROMW
+  cores:
+    ROM: no
+    ROMW: yes
+440.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+461.11.1:
+  owner: SOIS
+  controller: SOIS
+  cores:
+    SOIS: yes
+480.6.1:
+  cores:
+    ROMW: no
+486.6.1:
+  owner: FRAN
+  controller: FRAN
+  cores:
+    SOIS: no
+    FRAN: yes
+  pop:
+    ethnicity: french
+    estate: peasant
+    size: 1000
+511.11.27:
+  owner: ASTS
+  controller: ASTS
+  cores:
+    ASTS: yes
+555.1.1:
+  owner: SOIS
+  controller: SOIS
+  cores:
+    SOIS: yes
+558.12.23:
+  owner: FRAN
+  controller: FRAN
+  cores:
+    SOIS: no
+    FRAN: yes
+561.11.29:
+  owner: ASTS
+  controller: ASTS
+613.10.10:
+  owner: FRAN
+  controller: FRAN
+  cores:
+    FRAN: yes
+626.1.1:
+  owner: ASTS
+  controller: ASTS
+629.10.18:
+  owner: FRAN
+  controller: FRAN
+634.1.1:
+  owner: ASTS
+  controller: ASTS
+679.12.23:
+  owner: FRAN
+  controller: FRAN
+840.6.21:
+  owner: WFRA
+  controller: WFRA
+  cores:
+    FRAN: no
+    WFRA: yes
+867.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+987.7.3:
+  owner: FRA
+  controller: FRA
+  cores:
+    WFRA: no
+    FRA: yes
+    CHP: yes
+1050.1.1:
+  resource: paper
+1234.4.7:
+  owner: NAV
+  controller: NAV
+  cores:
+    NAV: yes
+1314.11.29:
+  owner: FRA
+  controller: FRA
+  cores:
+    NAV: no
+1651.4.1:
+  controller: FRA
+1870.9.4:
+  owner: FRA
+  controller: PRU
+  cores:
+    FRA: yes
+1871.1.18:
+  controller: GER
+1871.5.10:
+  controller: FRA
+1940.6.14:
+  owner: GER
+  controller: GER
+1944.8.25:
+  owner: FRA
+  controller: FRA

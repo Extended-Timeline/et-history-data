@@ -1,0 +1,39 @@
+#imported from EU4 file: history/provinces/2881 - Corumba.txt
+2.1.1:
+  pop:
+    ethnicity: moxo_culture
+    religion: muisca_religion
+    estate: peasant
+    size: 1000
+1775.9.13:
+  owner: SPA
+  controller: SPA
+  cores:
+    SPA: yes
+  resource: tea
+  pop:
+    ethnicity: castilian
+    religion: catholic
+    estate: peasant
+    size: 1000
+1778.9.21:
+  owner: POR
+  controller: POR
+  cores:
+    SPA: no
+    POR: yes
+  pop:
+    ethnicity: portuguese
+    estate: peasant
+    size: 1000
+1780.1.1:
+  pop:
+    ethnicity: brazilian
+    estate: peasant
+    size: 1000
+1822.9.7:
+  owner: BRAZ
+  controller: BRAZ
+  cores:
+    POR: no
+    BRAZ: yes

@@ -1,0 +1,181 @@
+#imported from EU4 file: history/provinces/418 - Diyarbakir.txt
+2.1.1:
+  owner: ARM
+  controller: ARM
+  cores:
+    ARM: yes
+  resource: livestock
+  pop:
+    ethnicity: armenian_culture
+    religion: armenian_religion
+    estate: peasant
+    size: 1000
+114.1.1:
+  owner: ROM
+  controller: ROM
+  cores:
+    ROM: yes
+117.1.1:
+  owner: ARM
+  controller: ARM
+  cores:
+    ROM: no
+179.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+387.1.1:
+  owner: ROM
+  controller: ROM
+  cores:
+    ARM: no
+    ROM: yes
+395.1.17:
+  owner: BYZ
+  controller: BYZ
+  cores:
+    ROM: no
+    BYZ: yes
+451.11.1:
+  pop:
+    religion: miaphysite
+    estate: peasant
+    size: 1000
+613.1.1:
+  controller: ERA
+627.1.1:
+  controller: BYZ
+638.1.1:
+  owner: RASH
+  controller: RASH
+  cores:
+    RASH: yes
+661.7.28:
+  owner: UMAY
+  controller: UMAY
+  cores:
+    RASH: no
+    UMAY: yes
+750.8.6:
+  owner: ABBA
+  controller: ABBA
+  cores:
+    UMAY: no
+    ABBA: yes
+867.1.1:
+  pop:
+    religion: orthodox
+    estate: peasant
+    size: 1000
+911.1.1:
+  owner: MOSU
+  controller: MOSU
+  cores:
+    ABBA: no
+    MOSU: yes
+983.1.1:
+  owner: KURD
+  controller: KURD
+  cores:
+    MOSU: no
+    KURD: yes
+1000.1.1:
+  pop:
+    ethnicity: kurdish_culture
+    estate: peasant
+    size: 1000
+1055.1.1:
+  cores:
+    ABBA: no
+1079.1.1:
+  owner: SELJ
+  controller: SELJ
+  cores:
+    SELJ: yes
+1098.1.1:
+  owner: EDES
+  controller: EDES
+  cores:
+    SELJ: no
+    EDES: yes
+1144.12.24:
+  owner: MOSU
+  controller: MOSU
+  cores:
+    EDES: no
+    MOSU: yes
+1150.1.1:
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+1183.1.1:
+  owner: EGY
+  controller: EGY
+  cores:
+    MOSU: no
+    EGY: yes
+1198.1.1:
+  owner: HSN
+  controller: HSN
+  cores:
+    HSN: yes
+1231.1.1:
+  owner: EGY
+  controller: EGY
+  cores:
+    HSN: no
+    EGY: yes
+1260.1.1:
+  owner: ILK
+  controller: ILK
+  cores:
+    EGY: no
+    ILK: yes
+1335.1.1:
+  owner: JAL
+  controller: JAL
+  cores:
+    ILK: no
+    JAL: yes
+1402.1.1:
+  owner: AKQO
+  controller: AKQO
+  cores:
+    JAL: no
+    AKQO: yes
+1507.1.1:
+  owner: IRA
+  controller: IRA
+  cores:
+    AKQO: no
+    IRA: yes
+1514.8.23:
+  cores:
+    TUR: yes
+1534.7.1:
+  controller: TUR
+1535.1.1:
+  controller: IRA
+1548.8.25:
+  controller: TUR
+1549.12.1:
+  owner: TUR
+  cores:
+    IRA: no
+1850.1.1:
+  cores:
+    DUL: no
+1916.2.16:
+  controller: RUS
+1918.3.3:
+  controller: TUR
+1920.4.24:
+  owner: TURK
+  controller: TURK
+  cores:
+    TURK: yes
+1922.11.1:
+  cores:
+    TUR: no

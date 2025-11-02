@@ -1,0 +1,41 @@
+#imported from EU4 file: history/provinces/2701 - Tagloc.txt
+2.1.1:
+  pop:
+    ethnicity: cebuano_culture
+    religion: bimoism
+    estate: peasant
+    size: 1000
+1450.1.1:
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+1848.6.29:
+  owner: SPA
+  controller: SPA
+  cores:
+    SPA: yes
+  resource: naval_supplies
+1872.1.1:
+  cores:
+    PHIL: yes
+1890.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+1898.8.12:
+  owner: USA
+  controller: USA
+  cores:
+    SPA: no
+    USA: yes
+1942.1.2:
+  controller: JAP
+1945.3.1:
+  controller: USA
+1946.7.4:
+  owner: PHIL
+  controller: PHIL
+  cores:
+    USA: no

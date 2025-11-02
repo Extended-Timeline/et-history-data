@@ -1,0 +1,159 @@
+#imported from EU4 file: history/provinces/701 - Ordos.txt
+2.1.1:
+  owner: XION
+  controller: XION
+  cores:
+    XION: yes
+  resource: livestock
+  pop:
+    ethnicity: chahar
+    religion: 
+    estate: peasant
+    size: 1000
+48.1.1:
+  owner: SXIO
+  controller: SXIO
+  cores:
+    XION: no
+    SXIO: yes
+304.1.1:
+  owner: ZHAO
+  controller: ZHAO
+  cores:
+    SXIO: no
+    ZHAO: yes
+310.1.1:
+  owner: XIA0
+  controller: XIA0
+  cores:
+    ZHAO: no
+    XIA0: yes
+376.1.1:
+  owner: QIN0
+  controller: QIN0
+  cores:
+    QIN0: yes
+386.1.1:
+  owner: WEI0
+  controller: WEI0
+  cores:
+    QIN0: no
+    WEI0: yes
+407.1.1:
+  owner: XIA0
+  controller: XIA0
+  cores:
+    WEI0: no
+    XIA0: yes
+431.1.1:
+  owner: WEI0
+  controller: WEI0
+  cores:
+    XIA0: no
+    WEI0: yes
+557.1.1:
+  owner: ZHOU
+  controller: ZHOU
+  cores:
+    WEI0: no
+    ZHOU: yes
+581.3.4:
+  owner: SUI0
+  controller: SUI0
+  cores:
+    ZHOU: no
+    SUI0: yes
+617.1.1:
+  owner: NLIA
+  controller: NLIA
+  cores:
+    SUI0: no
+    NLIA: yes
+628.6.3:
+  owner: TANG
+  controller: TANG
+  cores:
+    NLIA: no
+    TANG: yes
+881.1.1:
+  owner: TAGT
+  controller: TAGT
+  cores:
+    TANG: no
+    TAGT: yes
+950.1.1:
+  pop:
+    religion: mahayana
+    estate: peasant
+    size: 1000
+1038.1.1:
+  owner: XIA0
+  controller: XIA0
+  cores:
+    TAGT: no
+    XIA0: yes
+1080.1.1:
+  pop:
+    religion: tibetan_buddhism
+    estate: peasant
+    size: 1000
+1227.1.1:
+  owner: MGE
+  controller: MGE
+  cores:
+    XIA0: no
+    MGE: yes
+1271.1.1:
+  owner: YUA
+  controller: YUA
+  cores:
+    MGE: no
+    YUA: yes
+1368.1.23:
+  owner: MGE
+  controller: MGE
+  cores:
+    YUA: no
+    MGE: yes
+1388.1.1:
+  owner: MNG
+  controller: MNG
+  cores:
+    MNG: yes
+1449.10.1:
+  owner: OIR
+  controller: OIR
+1454.1.1:
+  owner: MGE
+  controller: MGE
+  cores:
+    MGE: yes
+1552.1.1:
+  owner: MGE
+  controller: MGE
+  cores:
+    MGE: yes
+1635.4.1:
+  owner: MCH
+  controller: MCH
+  cores:
+    MCH: yes
+1636.5.15:
+  owner: QNG
+  controller: QNG
+  cores:
+    MCH: no
+    QNG: yes
+1912.2.12:
+  owner: CHI
+  controller: CHI
+  cores:
+    QNG: no
+    CHI: yes
+1949.10.1:
+  controller: CHI
+1965.1.1:
+  pop:
+    ethnicity: jin_culture
+    estate: peasant
+    size: 1000

@@ -1,0 +1,99 @@
+#imported from EU4 file: history/provinces/234 - Wessex.txt
+2.1.1:
+  owner: ERGY
+  controller: ERGY
+  cores:
+    ERGY: yes
+  resource: fish
+  pop:
+    ethnicity: briton
+    religion: druidism
+    estate: peasant
+    size: 1000
+43.1.1:
+  owner: ROM
+  controller: ROM
+  cores:
+    ROM: yes
+300.1.1:
+  pop:
+    ethnicity: welsh
+    estate: peasant
+    size: 1000
+380.1.1:
+  cores:
+    ERGY: yes
+395.1.17:
+  owner: ROMW
+  controller: ROMW
+  cores:
+    ROM: no
+    ROMW: yes
+410.1.1:
+  owner: ERGY
+  controller: ERGY
+  cores:
+    ROMW: no
+    ERGY: yes
+  pop:
+    ethnicity: welsh
+    estate: peasant
+    size: 1000
+519.1.1:
+  owner: WESS
+  controller: WESS
+  cores:
+    ERGY: no
+    WESS: yes
+  pop:
+    ethnicity: anglo_saxon
+    religion: germanic
+    estate: peasant
+    size: 1000
+645.1.1:
+  owner: MERC
+  controller: MERC
+  cores:
+    MERC: yes
+648.1.1:
+  owner: WESS
+  controller: WESS
+  cores:
+    MERC: no
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+867.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+927.1.1:
+  owner: ENG
+  controller: ENG
+  cores:
+    ENG: yes
+1027.1.1:
+  cores:
+    WESS: no
+1066.12.25:
+  pop:
+    ethnicity: english
+    estate: peasant
+    size: 1000
+1461.6.28:
+  controller: ENG
+1540.1.1:
+  pop:
+    religion: anglican
+    estate: peasant
+    size: 1000
+1646.5.5:
+  controller: ENG
+1707.5.12:
+  owner: GBR
+  controller: GBR
+  cores:
+    ENG: no
+    GBR: yes

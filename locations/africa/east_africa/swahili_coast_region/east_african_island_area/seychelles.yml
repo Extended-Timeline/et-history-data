@@ -1,0 +1,33 @@
+#imported from EU4 file: history/provinces/1100 - Mahe.txt
+2.1.1:
+  pop:
+    ethnicity: uninhabited
+    religion: bimoism
+    estate: peasant
+    size: 1000
+1756.1.1:
+  owner: FRA
+  controller: FRA
+  resource: spices
+  pop:
+    ethnicity: french
+    religion: catholic
+    estate: peasant
+    size: 1000
+1781.1.1:
+  cores:
+    FRA: yes
+1814.4.11:
+  owner: GBR
+  controller: GBR
+  cores:
+    FRA: no
+    GBR: yes
+1970.1.1:
+  resource: fish
+1976.6.26:
+  owner: SEYC
+  controller: SEYC
+  cores:
+    GBR: no
+    SEYC: yes

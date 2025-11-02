@@ -1,0 +1,43 @@
+#imported from EU4 file: history/provinces/2548 - Tutelo.txt
+2.1.1:
+  pop:
+    ethnicity: tsoyaha_culture
+    religion: iroquoian_totemism
+    estate: peasant
+    size: 1000
+1610.1.1:
+  owner: CHRK
+  controller: CHRK
+  cores:
+    CHRK: yes
+  resource: fur
+  pop:
+    ethnicity: cherokee_culture
+    estate: peasant
+    size: 1000
+1774.10.19:
+  owner: GBR
+  controller: GBR
+  cores:
+    GBR: yes
+  pop:
+    ethnicity: british_louisianan
+    religion: lutheran
+    estate: peasant
+    size: 1000
+1776.7.4:
+  owner: USA
+  controller: USA
+  cores:
+    GBR: no
+    USA: yes
+1861.4.17:
+  owner: CSAM
+  controller: CSAM
+  cores:
+    CSAM: yes
+1865.5.5:
+  owner: USA
+  controller: USA
+  cores:
+    CSAM: no

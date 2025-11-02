@@ -1,0 +1,68 @@
+#imported from EU4 file: history/provinces/4458 - Narbada.txt
+2.1.1:
+  owner: GOND
+  controller: GOND
+  cores:
+    GOND: yes
+  resource: tropical_wood
+  pop:
+    ethnicity: bagheli
+    religion: hindu
+    estate: peasant
+    size: 1000
+675.1.1:
+  owner: KALC
+  controller: KALC
+  cores:
+    GOND: no
+    KALC: yes
+1212.1.1:
+  owner: GOND
+  controller: GOND
+  cores:
+    KALC: no
+    GOND: yes
+1418.1.1:
+  owner: MLW
+  controller: MLW
+  cores:
+    MLW: yes
+1467.1.1:
+  owner: BAH
+  controller: BAH
+  cores:
+    MLW: no
+    BAH: yes
+1468.1.1:
+  owner: MLW
+  controller: MLW
+  cores:
+    BAH: no
+    MLW: yes
+1531.1.1:
+  owner: GOND
+  controller: GOND
+1564.5.1:
+  controller: MUG
+1564.7.1:
+  controller: GOND
+1724.1.1:
+  owner: NAGP
+  controller: NAGP
+  cores:
+    NAGP: yes
+1818.6.3:
+  owner: GBR
+  controller: GBR
+  cores:
+    GBR: yes
+1930.1.1:
+  cores:
+    NAGP: no
+    GOND: no
+    INDI: yes
+1947.8.15:
+  owner: INDI
+  controller: INDI
+  cores:
+    GBR: no

@@ -1,0 +1,533 @@
+mei_wigbert_von_meissen:
+  935.1.1:
+    birth: wittenberg #TODO: Date and location guessed, check if better data is available
+    first_name: wigbert
+    dynasty: von_meissen_dynasty
+    adm: 45
+    dip: 30
+    mil: 30
+    religion: catholic
+    culture: saxon
+  970.1.1:
+    death: yes
+mei_thietmar_von_meissen:
+  925.1.1:
+    birth: wittenberg #TODO: Date and location guessed, check if better data is available
+    first_name: thietmar
+    dynasty: von_meissen_dynasty
+    father: mei_wigbert_von_meissen #TODO: check if this makes sense
+    adm: 15
+    dip: 75
+    mil: 75
+    religion: catholic
+    culture: saxon
+  979.8.3:
+    death: yes
+mei_thietmar_von_meissen_1:
+  940.1.1:
+    birth: wittenberg #TODO: Date and location guessed, check if better data is available
+    first_name: thietmar
+    dynasty: von_meissen_dynasty
+    adm: 15
+    dip: 75
+    mil: 75
+    religion: catholic
+    culture: saxon
+  979.8.3:
+    death: yes
+mei_gunther_von_meissen:
+  949.1.1:
+    birth: wittenberg #TODO: Date and location guessed, check if better data is available
+    first_name: gunther
+    dynasty: von_meissen_dynasty
+    adm: 60
+    dip: 30
+    mil: 75
+    religion: catholic
+    culture: saxon
+  982.7.13:
+    death: yes
+mei_rikdag_von_meissen:
+  950.1.1:
+    birth: wittenberg #TODO: Date and location guessed, check if better data is available
+    first_name: rikdag
+    dynasty: von_meissen_dynasty
+    father: mei_gunther_von_meissen #TODO: check if this makes sense
+    adm: 30
+    dip: 60
+    mil: 75
+    religion: catholic
+    culture: saxon
+  985.1.1:
+    death: yes
+mei_rikdag_von_meissen_1:
+  952.1.1:
+    birth: wittenberg #TODO: Date and location guessed, check if better data is available
+    first_name: rikdag
+    dynasty: von_meissen_dynasty
+    adm: 30
+    dip: 60
+    mil: 75
+    religion: catholic
+    culture: saxon
+  985.1.1:
+    death: yes
+mei_eckhard_i_ekkehardingian:
+  955.1.1:
+    birth: wittenberg #TODO: Date and location guessed, check if better data is available
+    first_name: eckhard
+    dynasty: ekkehardingian_dynasty
+    adm: 45
+    dip: 15
+    mil: 15
+    religion: catholic
+    culture: saxon
+  1002.4.30:
+    death: yes
+mei_gunzelin_i_ekkehardingian:
+  965.1.1:
+    birth: wittenberg #TODO: Date and location guessed, check if better data is available
+    first_name: gunzelin
+    dynasty: ekkehardingian_dynasty
+    father: mei_eckhard_i_ekkehardingian #TODO: check if this makes sense
+    adm: 75
+    dip: 15
+    mil: 45
+    religion: catholic
+    culture: saxon
+  1017.1.1:
+    death: yes
+mei_gunzelin_i_ekkehardingian_1:
+  972.1.1:
+    birth: wittenberg #TODO: Date and location guessed, check if better data is available
+    first_name: gunzelin
+    dynasty: ekkehardingian_dynasty
+    adm: 75
+    dip: 15
+    mil: 45
+    religion: catholic
+    culture: saxon
+  1009.1.1:
+    death: yes
+mei_herman_i_ekkehardingian:
+  980.1.1:
+    birth: wittenberg #TODO: Date and location guessed, check if better data is available
+    first_name: herman
+    dynasty: ekkehardingian_dynasty
+    father: mei_gunzelin_i_ekkehardingian_1 #TODO: check if this makes sense
+    adm: 60
+    dip: 75
+    mil: 60
+    religion: catholic
+    culture: saxon
+  1038.1.1:
+    death: yes
+mei_herman_i_ekkehardingian_1:
+  979.1.1:
+    birth: wittenberg #TODO: Date and location guessed, check if better data is available
+    first_name: herman
+    dynasty: ekkehardingian_dynasty
+    adm: 60
+    dip: 75
+    mil: 60
+    religion: catholic
+    culture: saxon
+  1031.1.1:
+    death: yes
+mei_eckhard_ii_ekkehardingian:
+  985.1.1:
+    birth: wittenberg #TODO: Date and location guessed, check if better data is available
+    first_name: eckhard
+    dynasty: ekkehardingian_dynasty
+    father: mei_herman_i_ekkehardingian_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 45
+    mil: 45
+    religion: catholic
+    culture: saxon
+  1046.1.24:
+    death: yes
+mei_eckhard_ii_ekkehardingian_1:
+  1001.1.1:
+    birth: wittenberg #TODO: Date and location guessed, check if better data is available
+    first_name: eckhard
+    dynasty: ekkehardingian_dynasty
+    adm: 15
+    dip: 45
+    mil: 45
+    religion: catholic
+    culture: saxon
+  1046.1.24:
+    death: yes
+mei_wilhelm_iv_von_weimar:
+  1016.1.1:
+    birth: wittenberg #TODO: Date and location guessed, check if better data is available
+    first_name: wilhelm
+    dynasty: von_weimar_dynasty
+    adm: 45
+    dip: 75
+    mil: 75
+    religion: catholic
+    culture: saxon
+  1062.1.1:
+    death: yes
+mei_otto_i_von_weimar:
+  1020.1.1:
+    birth: wittenberg #TODO: Date and location guessed, check if better data is available
+    first_name: otto
+    dynasty: von_weimar_dynasty
+    father: mei_wilhelm_iv_von_weimar #TODO: check if this makes sense
+    adm: 15
+    dip: 30
+    mil: 45
+    religion: catholic
+    culture: saxon
+  1067.1.1:
+    death: yes
+mei_otto_i_von_weimar_1:
+  1032.1.1:
+    birth: wittenberg #TODO: Date and location guessed, check if better data is available
+    first_name: otto
+    dynasty: von_weimar_dynasty
+    adm: 15
+    dip: 30
+    mil: 45
+    religion: catholic
+    culture: saxon
+  1090.7.3:
+    death: yes
+mei_heinrich_i_von_wettin:
+  1060.1.1:
+    birth: wittenberg #TODO: Date and location guessed, check if better data is available
+    first_name: heinrich
+    dynasty: von_wettin_dynasty
+    adm: 45
+    dip: 15
+    mil: 45
+    religion: catholic
+    culture: saxon
+  1103.1.1:
+    death: yes
+mei_heinrich_ii_von_wettin:
+  1103.1.1:
+    birth: wittenberg #TODO: Date and location guessed, check if better data is available
+    first_name: heinrich
+    dynasty: von_wettin_dynasty
+    father: mei_heinrich_i_von_wettin #TODO: check if this makes sense
+    adm: 15
+    dip: 30
+    mil: 15
+    religion: catholic
+    culture: saxon
+  1123.1.1:
+    death: yes
+mei_heinrich_ii_von_wettin_1:
+  1073.1.1:
+    birth: wittenberg #TODO: Date and location guessed, check if better data is available
+    first_name: heinrich
+    dynasty: von_wettin_dynasty
+    adm: 15
+    dip: 30
+    mil: 15
+    religion: catholic
+    culture: saxon
+  1123.1.1:
+    death: yes
+mei_wiprecht_i_von_wettin:
+  1093.1.1:
+    birth: wittenberg #TODO: Date and location guessed, check if better data is available
+    first_name: wiprecht
+    dynasty: von_wettin_dynasty
+    adm: 45
+    dip: 30
+    mil: 15
+    religion: catholic
+    culture: saxon
+  1124.5.22:
+    death: yes
+mei_herman_ii_von_winzenburg:
+  1094.1.1:
+    birth: wittenberg #TODO: Date and location guessed, check if better data is available
+    first_name: herman
+    dynasty: von_winzenburg_dynasty
+    adm: 60
+    dip: 60
+    mil: 30
+    religion: catholic
+    culture: saxon
+  1130.1.1:
+    death: yes
+mei_conrad_i_von_wettin:
+  1100.1.1:
+    birth: wittenberg #TODO: Date and location guessed, check if better data is available
+    first_name: conrad
+    dynasty: von_wettin_dynasty
+    adm: 75
+    dip: 75
+    mil: 30
+    religion: catholic
+    culture: saxon
+  1156.11.30:
+    death: yes
+mei_otto_ii_von_wettin:
+  1125.1.1:
+    birth: wittenberg #TODO: Date and location guessed, check if better data is available
+    first_name: otto
+    dynasty: von_wettin_dynasty
+    father: mei_conrad_i_von_wettin #TODO: check if this makes sense
+    adm: 45
+    dip: 60
+    mil: 30
+    religion: catholic
+    culture: saxon
+  1190.2.18:
+    death: yes
+mei_otto_ii_von_wettin_1:
+  1126.1.1:
+    birth: wittenberg #TODO: Date and location guessed, check if better data is available
+    first_name: otto
+    dynasty: von_wettin_dynasty
+    adm: 45
+    dip: 60
+    mil: 30
+    religion: catholic
+    culture: saxon
+  1190.2.18:
+    death: yes
+mei_albrecht_i_von_wettin:
+  1158.1.1:
+    birth: wittenberg #TODO: Date and location guessed, check if better data is available
+    first_name: albrecht
+    dynasty: von_wettin_dynasty
+    father: mei_otto_ii_von_wettin_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 60
+    mil: 60
+    religion: catholic
+    culture: saxon
+  1195.6.24:
+    death: yes
+mei_albrecht_i_von_wettin_1:
+  1160.1.1:
+    birth: wittenberg #TODO: Date and location guessed, check if better data is available
+    first_name: albrecht
+    dynasty: von_wettin_dynasty
+    adm: 45
+    dip: 60
+    mil: 60
+    religion: catholic
+    culture: saxon
+  1197.9.28:
+    death: yes
+mei_dietrich_i_von_wettin:
+  1167.1.1:
+    birth: wittenberg #TODO: Date and location guessed, check if better data is available
+    first_name: dietrich
+    dynasty: von_wettin_dynasty
+    adm: 30
+    dip: 75
+    mil: 60
+    religion: catholic
+    culture: saxon
+  1221.1.18:
+    death: yes
+mei_heinrich_iii_von_wettin:
+  1215.1.1:
+    birth: wittenberg #TODO: Date and location guessed, check if better data is available
+    first_name: heinrich
+    dynasty: von_wettin_dynasty
+    father: mei_dietrich_i_von_wettin #TODO: check if this makes sense
+    adm: 75
+    dip: 75
+    mil: 45
+    religion: catholic
+    culture: saxon
+  1288.2.15:
+    death: yes
+mei_heinrich_iii_von_wettin_1:
+  1191.1.1:
+    birth: wittenberg #TODO: Date and location guessed, check if better data is available
+    first_name: heinrich
+    dynasty: von_wettin_dynasty
+    adm: 75
+    dip: 75
+    mil: 45
+    religion: catholic
+    culture: saxon
+  1288.2.15:
+    death: yes
+mei_albrecht_ii_von_wettin:
+  1240.1.1:
+    birth: wittenberg #TODO: Date and location guessed, check if better data is available
+    first_name: albrecht
+    dynasty: von_wettin_dynasty
+    father: mei_heinrich_iii_von_wettin_1 #TODO: check if this makes sense
+    adm: 60
+    dip: 75
+    mil: 75
+    religion: catholic
+    culture: saxon
+  1314.11.20:
+    death: yes
+mei_albrecht_ii_von_wettin_1:
+  1258.1.1:
+    birth: wittenberg #TODO: Date and location guessed, check if better data is available
+    first_name: albrecht
+    dynasty: von_wettin_dynasty
+    adm: 60
+    dip: 75
+    mil: 75
+    religion: catholic
+    culture: saxon
+  1291.8.16:
+    death: yes
+mei_dietrich_ii_von_wettin:
+  1260.1.1:
+    birth: wittenberg #TODO: Date and location guessed, check if better data is available
+    first_name: dietrich
+    dynasty: von_wettin_dynasty
+    father: mei_albrecht_ii_von_wettin_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 60
+    mil: 15
+    religion: catholic
+    culture: saxon
+  1307.12.10:
+    death: yes
+mei_dietrich_ii_von_wettin_1:
+  1261.1.1:
+    birth: wittenberg #TODO: Date and location guessed, check if better data is available
+    first_name: dietrich
+    dynasty: von_wettin_dynasty
+    adm: 15
+    dip: 60
+    mil: 15
+    religion: catholic
+    culture: saxon
+  1307.12.10:
+    death: yes
+mei_friedrich_i_von_wettin:
+  1257.1.1:
+    birth: wittenberg #TODO: Date and location guessed, check if better data is available
+    first_name: friedrich
+    dynasty: von_wettin_dynasty
+    father: mei_dietrich_ii_von_wettin_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 15
+    mil: 60
+    religion: catholic
+    culture: saxon
+  1323.11.16:
+    death: yes
+mei_friedrich_i_von_wettin_1:
+  1277.1.1:
+    birth: wittenberg #TODO: Date and location guessed, check if better data is available
+    first_name: friedrich
+    dynasty: von_wettin_dynasty
+    adm: 15
+    dip: 15
+    mil: 60
+    religion: catholic
+    culture: saxon
+  1323.11.16:
+    death: yes
+mei_friedrich_ii_von_wettin:
+  1310.11.30:
+    birth: wittenberg #TODO: Location guessed, check if better data is available
+    first_name: friedrich
+    dynasty: von_wettin_dynasty
+    father: mei_friedrich_i_von_wettin_1 #TODO: check if this makes sense
+    adm: 60
+    dip: 30
+    mil: 60
+    religion: catholic
+    culture: saxon
+  1349.11.18:
+    death: yes
+mei_friedrich_ii_von_wettin_1:
+  1293.1.1:
+    birth: wittenberg #TODO: Date and location guessed, check if better data is available
+    first_name: friedrich
+    dynasty: von_wettin_dynasty
+    adm: 60
+    dip: 30
+    mil: 60
+    religion: catholic
+    culture: saxon
+  1349.11.18:
+    death: yes
+mei_friedrich_iii_von_wettin:
+  1332.12.14:
+    birth: wittenberg #TODO: Location guessed, check if better data is available
+    first_name: friedrich
+    dynasty: von_wettin_dynasty
+    father: mei_friedrich_ii_von_wettin_1 #TODO: check if this makes sense
+    adm: 75
+    dip: 30
+    mil: 15
+    religion: catholic
+    culture: saxon
+  1381.5.21:
+    death: yes
+mei_friedrich_iii_von_wettin_1:
+  1319.1.1:
+    birth: wittenberg #TODO: Date and location guessed, check if better data is available
+    first_name: friedrich
+    dynasty: von_wettin_dynasty
+    adm: 75
+    dip: 30
+    mil: 15
+    religion: catholic
+    culture: saxon
+  1381.5.21:
+    death: yes
+mei_wilhelm_i_von_wettin:
+  1343.12.19:
+    birth: wittenberg #TODO: Location guessed, check if better data is available
+    first_name: wilhelm
+    dynasty: von_wettin_dynasty
+    father: mei_friedrich_iii_von_wettin_1 #TODO: check if this makes sense
+    adm: 60
+    dip: 45
+    mil: 30
+    religion: catholic
+    culture: saxon
+  1407.2.9:
+    death: yes
+mei_wilhelm_i_von_wettin_1:
+  1351.1.1:
+    birth: wittenberg #TODO: Date and location guessed, check if better data is available
+    first_name: wilhelm
+    dynasty: von_wettin_dynasty
+    adm: 60
+    dip: 45
+    mil: 30
+    religion: catholic
+    culture: saxon
+  1407.2.9:
+    death: yes
+mei_friedrich_iv_von_wettin:
+  1370.4.11:
+    birth: wittenberg #TODO: Location guessed, check if better data is available
+    first_name: friedrich
+    dynasty: von_wettin_dynasty
+    father: mei_wilhelm_i_von_wettin_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 30
+    mil: 30
+    religion: catholic
+    culture: saxon
+  1428.1.4:
+    death: yes
+mei_friedrich_iv_von_wettin_1:
+  1377.1.1:
+    birth: wittenberg #TODO: Date and location guessed, check if better data is available
+    first_name: friedrich
+    dynasty: von_wettin_dynasty
+    adm: 45
+    dip: 30
+    mil: 30
+    religion: catholic
+    culture: saxon
+  3000.1.1:
+    death: yes

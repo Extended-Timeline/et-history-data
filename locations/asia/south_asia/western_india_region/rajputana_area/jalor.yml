@@ -1,0 +1,86 @@
+#imported from EU4 file: history/provinces/2067 - Gorwar.txt
+2.1.1:
+  owner: WSAT
+  controller: WSAT
+  cores:
+    WSAT: yes
+  resource: cotton
+  pop:
+    ethnicity: marwari
+    religion: jain
+    estate: peasant
+    size: 1000
+405.1.1:
+  owner: GUPT
+  controller: GUPT
+  cores:
+    WSAT: no
+    GUPT: yes
+498.1.1:
+  owner: KAPI
+  controller: KAPI
+  cores:
+    GUPT: no
+    GURJ: yes
+528.1.1:
+  owner: MLW
+  controller: MLW
+540.1.1:
+  owner: GURJ
+  controller: GURJ
+620.1.1:
+  owner: PUSH
+  controller: PUSH
+  cores:
+    PUSH: yes
+647.1.1:
+  owner: GURJ
+  controller: GURJ
+  cores:
+    PUSH: no
+950.1.1:
+  owner: MRW
+  controller: MRW
+  cores:
+    GURJ: no
+    MRW: yes
+1300.1.1:
+  pop:
+    religion: hindu
+    estate: peasant
+    size: 1000
+1438.1.1:
+  owner: MEW
+  controller: MEW
+  cores:
+    MEW: yes
+1459.1.1:
+  owner: GUJ
+  controller: GUJ
+1538.1.1:
+  owner: MRW
+  controller: MRW
+1540.1.1:
+  owner: GUJ
+  controller: GUJ
+1573.6.1:
+  owner: MUG
+  controller: MUG
+  cores:
+    GUJ: no
+    MUG: yes
+1707.3.15:
+  controller: MEW
+1707.4.1:
+  owner: MRW
+  controller: MRW
+  cores:
+    MUG: no
+1930.1.1:
+  cores:
+    INDI: yes
+1947.8.15:
+  owner: INDI
+  controller: INDI
+  cores:
+    MRW: no

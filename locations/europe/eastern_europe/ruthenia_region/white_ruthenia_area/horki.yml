@@ -1,0 +1,74 @@
+#imported from EU4 file: history/provinces/4246 - Mstislav.txt
+2.1.1:
+  pop:
+    ethnicity: polatskian_culture
+    religion: slavic
+    estate: peasant
+    size: 1000
+550.1.1:
+  owner: DREG
+  controller: DREG
+  cores:
+    DREG: yes
+  resource: wool
+880.1.1:
+  owner: KIEV
+  controller: KIEV
+  cores:
+    DREG: no
+    KIEV: yes
+1000.1.1:
+  pop:
+    religion: orthodox
+    estate: peasant
+    size: 1000
+1054.2.20:
+  owner: SMO
+  controller: SMO
+  cores:
+    KIEV: no
+    SMO: yes
+1377.1.1:
+  owner: LIT
+  controller: LIT
+  cores:
+    LIT: yes
+1569.7.1:
+  owner: PLC
+  controller: PLC
+  cores:
+    PLC: yes
+1772.8.5:
+  owner: RUS
+  controller: RUS
+  cores:
+    PLC: no
+    RUS: yes
+1812.7.8:
+  controller: FRA
+1812.11.9:
+  controller: RUS
+1918.3.25:
+  owner: BELA
+  controller: BELA
+  cores:
+    BELA: yes
+1919.1.5:
+  owner: RUS
+  controller: RUS
+1922.12.30:
+  owner: SOVI
+  controller: SOVI
+  cores:
+    RUS: no
+    SOVI: yes
+1941.7.1:
+  controller: GER
+1944.7.26:
+  controller: SOVI
+1990.7.27:
+  owner: BELA
+  controller: BELA
+  cores:
+    RUS: no
+    SOVI: no

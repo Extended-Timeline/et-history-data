@@ -1,0 +1,52 @@
+#imported from EU4 file: history/provinces/1192 - Quelimane.txt
+2.1.1:
+  pop:
+    ethnicity: zembere
+    religion: bantu_religion
+    estate: peasant
+    size: 1000
+300.1.1:
+  pop:
+    ethnicity: sena
+    estate: peasant
+    size: 1000
+850.1.1:
+  owner: SFA
+  controller: SFA
+  cores:
+    SFA: yes
+  resource: ivory
+915.1.1:
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+1180.1.1:
+  owner: ZAN
+  controller: ZAN
+  cores:
+    ZAN: yes
+1300.1.1:
+  owner: SFA
+  controller: SFA
+  cores:
+    ZAN: no
+1531.1.1:
+  owner: POR
+  controller: POR
+  cores:
+    POR: yes
+1750.1.1:
+  resource: grain
+1840.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+1975.6.25:
+  owner: MOZA
+  controller: MOZA
+  cores:
+    POR: no
+    SFA: no
+    MOZA: yes

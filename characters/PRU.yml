@@ -1,0 +1,482 @@
+pru_albrecht_von_hohenzollern:
+  1480.1.1:
+    birth: konigsberg #TODO: Date and location guessed, check if better data is available
+    first_name: albrecht
+    dynasty: von_hohenzollern_dynasty
+    adm: 15
+    dip: 45
+    mil: 15
+    religion: lutheran
+    culture: prussian
+  1568.3.21:
+    death: yes
+pru_dorothea_von_oldenburg:
+  1504.8.1:
+    birth: konigsberg #TODO: Location guessed, check if better data is available
+    first_name: dorothea
+    dynasty: von_oldenburg_dynasty
+    female: yes
+    adm: 30
+    dip: 30
+    mil: 15
+    religion: lutheran
+    culture: prussian
+  1547.4.11:
+    death: yes
+  1526.2.12:
+    spouse: pru_albrecht_von_hohenzollern #TODO: date guessed, see if better data is available
+pru_anna_marie_von_welf:
+  1532.4.23:
+    birth: konigsberg #TODO: Location guessed, check if better data is available
+    first_name: anna_marie
+    dynasty: von_welf_dynasty
+    female: yes
+    adm: 15
+    dip: 30
+    mil: 15
+    religion: lutheran
+    culture: prussian
+  1568.3.28:
+    death: yes
+  1550.1.1:
+    spouse: pru_albrecht_von_hohenzollern #TODO: date guessed, see if better data is available
+pru_albert_friedrich_von_hohenzollern:
+  1533.5.7:
+    birth: konigsberg #TODO: Location guessed, check if better data is available
+    first_name: albert_friedrich
+    dynasty: von_hohenzollern_dynasty
+    father: pru_albrecht_von_hohenzollern #TODO: check if this makes sense
+    adm: 15
+    dip: 30
+    mil: 15
+    religion: lutheran
+    culture: prussian
+  1618.8.28:
+    death: yes
+pru_albrecht_friedrich_von_hohenzollern:
+  1538.1.1:
+    birth: konigsberg #TODO: Date and location guessed, check if better data is available
+    first_name: albrecht_friedrich
+    dynasty: von_hohenzollern_dynasty
+    adm: 15
+    dip: 30
+    mil: 15
+    religion: lutheran
+    culture: prussian
+  1618.8.19:
+    death: yes
+pru_johann_sigismund_von_hohenzollern:
+  1572.11.8:
+    birth: konigsberg #TODO: Location guessed, check if better data is available
+    first_name: johann_sigismund
+    dynasty: von_hohenzollern_dynasty
+    father: pru_albrecht_friedrich_von_hohenzollern #TODO: check if this makes sense
+    adm: 45
+    dip: 30
+    mil: 30
+    religion: lutheran
+    culture: prussian
+  1619.12.23:
+    death: yes
+pru_marie_eleonore_von_der_mark:
+  1550.6.16:
+    birth: konigsberg #TODO: Location guessed, check if better data is available
+    first_name: marie_eleonore
+    dynasty: von_der_mark_dynasty
+    female: yes
+    adm: 30
+    dip: 30
+    mil: 15
+    religion: lutheran
+    culture: prussian
+  1608.6.1:
+    death: yes
+  1573.1.1:
+    spouse: pru_albrecht_friedrich_von_hohenzollern #TODO: date guessed, see if better data is available
+pru_johann_sigismund_von_hohenzollern_1:
+  1588.1.1:
+    birth: konigsberg #TODO: Date and location guessed, check if better data is available
+    first_name: johann_sigismund
+    dynasty: von_hohenzollern_dynasty
+    adm: 45
+    dip: 30
+    mil: 30
+    religion: lutheran
+    culture: prussian
+  1619.12.24:
+    death: yes
+pru_anna_von_hohenzollern:
+  1576.7.3:
+    birth: konigsberg #TODO: Location guessed, check if better data is available
+    first_name: anna
+    dynasty: von_hohenzollern_dynasty
+    female: yes
+    adm: 45
+    dip: 60
+    mil: 30
+    religion: lutheran
+    culture: prussian
+  1625.8.30:
+    death: yes
+  1618.8.19:
+    spouse: pru_johann_sigismund_von_hohenzollern_1 #TODO: date guessed, see if better data is available
+pru_georg_wilhelm_von_hohenzollern:
+  1595.11.13:
+    birth: konigsberg #TODO: Location guessed, check if better data is available
+    first_name: georg_wilhelm
+    dynasty: von_hohenzollern_dynasty
+    father: pru_johann_sigismund_von_hohenzollern_1 #TODO: check if this makes sense
+    adm: 75
+    dip: 75
+    mil: 45
+    religion: lutheran
+    culture: prussian
+  1640.12.1:
+    death: yes
+pru_georg_wilhelm_von_hohenzollern_1:
+  1589.1.1:
+    birth: konigsberg #TODO: Date and location guessed, check if better data is available
+    first_name: georg_wilhelm
+    dynasty: von_hohenzollern_dynasty
+    adm: 75
+    dip: 75
+    mil: 45
+    religion: lutheran
+    culture: prussian
+  1640.12.2:
+    death: yes
+pru_elisabeth_charlotte_von_wittelsbach:
+  1597.11.19:
+    birth: konigsberg #TODO: Location guessed, check if better data is available
+    first_name: elisabeth_charlotte
+    dynasty: von_wittelsbach_dynasty
+    female: yes
+    adm: 30
+    dip: 30
+    mil: 15
+    religion: lutheran
+    culture: prussian
+  1660.4.26:
+    death: yes
+  1619.12.24:
+    spouse: pru_georg_wilhelm_von_hohenzollern_1 #TODO: date guessed, see if better data is available
+pru_friedrich_wilhelm_von_hohenzollern:
+  1620.2.16:
+    birth: konigsberg #TODO: Location guessed, check if better data is available
+    first_name: friedrich_wilhelm
+    dynasty: von_hohenzollern_dynasty
+    father: pru_georg_wilhelm_von_hohenzollern_1 #TODO: check if this makes sense
+    adm: 60
+    dip: 75
+    mil: 75
+    religion: lutheran
+    culture: prussian
+  1688.4.29:
+    death: yes
+pru_friedrich_wilhelm_von_hohenzollern_1:
+  1610.1.1:
+    birth: konigsberg #TODO: Date and location guessed, check if better data is available
+    first_name: friedrich_wilhelm
+    dynasty: von_hohenzollern_dynasty
+    adm: 60
+    dip: 75
+    mil: 75
+    religion: lutheran
+    culture: prussian
+  1688.5.10:
+    death: yes
+pru_louise_henriette_von_nassau:
+  1627.11.27:
+    birth: konigsberg #TODO: Location guessed, check if better data is available
+    first_name: louise_henriette
+    dynasty: von_nassau_dynasty
+    female: yes
+    adm: 45
+    dip: 60
+    mil: 15
+    religion: lutheran
+    culture: prussian
+  1667.6.18:
+    death: yes
+  1646.12.7:
+    spouse: pru_friedrich_wilhelm_von_hohenzollern_1 #TODO: date guessed, see if better data is available
+pru_friedrich_i_von_hohenzollern:
+  1657.7.11:
+    birth: konigsberg #TODO: Location guessed, check if better data is available
+    first_name: friedrich
+    dynasty: von_hohenzollern_dynasty
+    father: pru_friedrich_wilhelm_von_hohenzollern_1 #TODO: check if this makes sense
+    adm: 90
+    dip: 60
+    mil: 60
+    religion: lutheran
+    culture: prussian
+  1713.2.25:
+    death: yes
+pru_sophia_dorothea_von_holstein_gottorp:
+  1627.11.27:
+    birth: konigsberg #TODO: Location guessed, check if better data is available
+    first_name: sophia_dorothea
+    dynasty: von_holstein_gottorp_dynasty
+    female: yes
+    adm: 30
+    dip: 30
+    mil: 45
+    religion: lutheran
+    culture: prussian
+  1667.6.18:
+    death: yes
+  1668.6.14:
+    spouse: pru_friedrich_wilhelm_von_hohenzollern_1 #TODO: date guessed, see if better data is available
+pru_friedrich_i_von_hohenzollern_1:
+  1658.1.1:
+    birth: berlin #TODO: Date and location guessed, check if better data is available
+    first_name: friedrich
+    dynasty: von_hohenzollern_dynasty
+    adm: 90
+    dip: 60
+    mil: 60
+    religion: lutheran
+    culture: prussian
+  1713.2.24:
+    death: yes
+pru_sophia_charlotte_von_hannover:
+  1668.10.30:
+    birth: konigsberg #TODO: Location guessed, check if better data is available
+    first_name: sophia_charlotte
+    dynasty: von_hannover_dynasty
+    female: yes
+    adm: 30
+    dip: 45
+    mil: 15
+    religion: lutheran
+    culture: prussian
+  1705.2.1:
+    death: yes
+  1688.5.10:
+    spouse: pru_friedrich_i_von_hohenzollern_1 #TODO: date guessed, see if better data is available
+pru_friedrich_wilhelm_i_von_hohenzollern:
+  1688.8.14:
+    birth: konigsberg #TODO: Location guessed, check if better data is available
+    first_name: friedrich_wilhelm
+    dynasty: von_hohenzollern_dynasty
+    father: pru_friedrich_i_von_hohenzollern_1 #TODO: check if this makes sense
+    adm: 60
+    dip: 60
+    mil: 75
+    religion: lutheran
+    culture: prussian
+  1740.5.31:
+    death: yes
+pru_sophia_louise_von_mecklenburg:
+  1685.5.6:
+    birth: berlin #TODO: Location guessed, check if better data is available
+    first_name: sophia_louise
+    dynasty: von_mecklenburg_dynasty
+    female: yes
+    adm: 15
+    dip: 0
+    mil: 0
+    religion: lutheran
+    culture: prussian
+  1735.7.29:
+    death: yes
+  1708.11.28:
+    spouse: pru_friedrich_i_von_hohenzollern_1 #TODO: date guessed, see if better data is available
+pru_friedrich_wilhelm_i_von_hohenzollern_1:
+  1683.1.1:
+    birth: berlin #TODO: Date and location guessed, check if better data is available
+    first_name: friedrich_wilhelm
+    dynasty: von_hohenzollern_dynasty
+    adm: 60
+    dip: 60
+    mil: 75
+    religion: lutheran
+    culture: prussian
+  1740.5.30:
+    death: yes
+pru_sophia_dorothea_von_hannover:
+  1687.3.16:
+    birth: berlin #TODO: Location guessed, check if better data is available
+    first_name: sophia_dorothea
+    dynasty: von_hannover_dynasty
+    female: yes
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: lutheran
+    culture: prussian
+  1757.6.28:
+    death: yes
+  1713.2.24:
+    spouse: pru_friedrich_wilhelm_i_von_hohenzollern_1 #TODO: date guessed, see if better data is available
+pru_friedrich_ii_der_grosse_von_hohenzollern:
+  1712.1.24:
+    birth: berlin #TODO: Location guessed, check if better data is available
+    first_name: friedrich_ii_der_grosse
+    dynasty: von_hohenzollern_dynasty
+    father: pru_friedrich_wilhelm_i_von_hohenzollern_1 #TODO: check if this makes sense
+    adm: 90
+    dip: 90
+    mil: 90
+    religion: lutheran
+    culture: prussian
+  1786.8.17:
+    death: yes
+pru_friedrich_ii_der_grosse_von_hohenzollern_1:
+  1710.1.1:
+    birth: berlin #TODO: Date and location guessed, check if better data is available
+    first_name: friedrich_ii_der_grosse
+    dynasty: von_hohenzollern_dynasty
+    adm: 90
+    dip: 90
+    mil: 90
+    religion: lutheran
+    culture: prussian
+  1786.8.18:
+    death: yes
+pru_elisabeth_christine_von_welf:
+  1715.11.8:
+    birth: berlin #TODO: Location guessed, check if better data is available
+    first_name: elisabeth_christine
+    dynasty: von_welf_dynasty
+    female: yes
+    adm: 30
+    dip: 75
+    mil: 15
+    religion: lutheran
+    culture: prussian
+  1797.1.13:
+    death: yes
+  1740.5.30:
+    spouse: pru_friedrich_ii_der_grosse_von_hohenzollern_1 #TODO: date guessed, see if better data is available
+pru_friedrich_ii_wilhelm_von_hohenzollern:
+  1744.9.25:
+    birth: berlin #TODO: Location guessed, check if better data is available
+    first_name: friedrich_ii_wilhelm
+    dynasty: von_hohenzollern_dynasty
+    father: pru_friedrich_ii_der_grosse_von_hohenzollern_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 60
+    mil: 30
+    religion: lutheran
+    culture: prussian
+  1797.11.16:
+    death: yes
+pru_friedrich_wilhelm_ii_von_hohenzollern:
+  1756.1.1:
+    birth: berlin #TODO: Date and location guessed, check if better data is available
+    first_name: friedrich_wilhelm
+    dynasty: von_hohenzollern_dynasty
+    adm: 15
+    dip: 60
+    mil: 30
+    religion: lutheran
+    culture: prussian
+  1797.11.17:
+    death: yes
+pru_fredrika_louisa_von_hessen:
+  1751.10.16:
+    birth: berlin #TODO: Location guessed, check if better data is available
+    first_name: fredrika_louisa
+    dynasty: von_hessen_dynasty
+    female: yes
+    adm: 30
+    dip: 30
+    mil: 15
+    religion: lutheran
+    culture: prussian
+  1805.2.25:
+    death: yes
+  1786.8.18:
+    spouse: pru_friedrich_wilhelm_ii_von_hohenzollern #TODO: date guessed, see if better data is available
+pru_friedrich_wilhelm_iii_von_hohenzollern:
+  1770.8.3:
+    birth: berlin #TODO: Location guessed, check if better data is available
+    first_name: friedrich_wilhelm
+    dynasty: von_hohenzollern_dynasty
+    father: pru_friedrich_wilhelm_ii_von_hohenzollern #TODO: check if this makes sense
+    adm: 0
+    dip: 75
+    mil: 30
+    religion: lutheran
+    culture: prussian
+  1840.6.7:
+    death: yes
+pru_friedrich_wilhelm_iii_von_hohenzollern_1:
+  1767.1.1:
+    birth: berlin #TODO: Date and location guessed, check if better data is available
+    first_name: friedrich_wilhelm
+    dynasty: von_hohenzollern_dynasty
+    adm: 0
+    dip: 75
+    mil: 30
+    religion: lutheran
+    culture: prussian
+  1840.6.7:
+    death: yes
+pru_louise_von_mecklenburg:
+  1776.3.10:
+    birth: berlin #TODO: Location guessed, check if better data is available
+    first_name: louise
+    dynasty: von_mecklenburg_dynasty
+    female: yes
+    adm: 15
+    dip: 90
+    mil: 45
+    religion: lutheran
+    culture: prussian
+  1810.7.19:
+    death: yes
+  1797.11.17:
+    spouse: pru_friedrich_wilhelm_iii_von_hohenzollern_1 #TODO: date guessed, see if better data is available
+pru_friedrich_wilhelm_iv_von_hohenzollern:
+  1795.10.15:
+    birth: berlin #TODO: Location guessed, check if better data is available
+    first_name: friedrich_wilhelm
+    dynasty: von_hohenzollern_dynasty
+    father: pru_friedrich_wilhelm_iii_von_hohenzollern_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 30
+    mil: 15
+    religion: lutheran
+    culture: prussian
+  1861.1.2:
+    death: yes
+pru_friedrich_wilhelm_iv_von_hohenzollern_1:
+  1810.1.1:
+    birth: berlin #TODO: Date and location guessed, check if better data is available
+    first_name: friedrich_wilhelm
+    dynasty: von_hohenzollern_dynasty
+    adm: 15
+    dip: 30
+    mil: 15
+    religion: lutheran
+    culture: prussian
+  1861.1.2:
+    death: yes
+pru_wilhelm_i_von_hohenzollern:
+  1797.3.22:
+    birth: berlin #TODO: Location guessed, check if better data is available
+    first_name: wilhelm
+    dynasty: von_hohenzollern_dynasty
+    adm: 15
+    dip: 45
+    mil: 30
+    religion: lutheran
+    culture: prussian
+  1888.3.9:
+    death: yes
+pru_friedrich_iii_von_hohenzollern:
+  1831.10.18:
+    birth: berlin #TODO: Location guessed, check if better data is available
+    first_name: friedrich
+    dynasty: von_hohenzollern_dynasty
+    father: pru_wilhelm_i_von_hohenzollern #TODO: check if this makes sense
+    adm: 60
+    dip: 45
+    mil: 45
+    religion: lutheran
+    culture: prussian
+  1888.6.15:
+    death: yes

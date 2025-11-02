@@ -1,0 +1,112 @@
+#imported from EU4 file: history/provinces/4339 - Rasht.txt
+2.1.1:
+  owner: PART
+  controller: PART
+  cores:
+    PART: yes
+  resource: silk
+  pop:
+    ethnicity: mazanderani_culture
+    religion: zoroastrian
+    estate: peasant
+    size: 1000
+135.1.1:
+  owner: ATRO
+  controller: ATRO
+  cores:
+    PART: no
+    ATRO: yes
+226.1.1:
+  owner: ERA
+  controller: ERA
+  cores:
+    ERA: yes
+642.1.1:
+  owner: MZN
+  controller: MZN
+  cores:
+    ERA: no
+    MZN: yes
+791.1.1:
+  owner: KRY
+  controller: KRY
+  cores:
+    MZN: no
+    KRY: yes
+864.1.1:
+  pop:
+    religion: shia
+    estate: peasant
+    size: 1000
+890.1.1:
+  owner: AZER
+  controller: AZER
+  cores:
+    AZER: yes
+1062.1.1:
+  owner: SELJ
+  controller: SELJ
+  cores:
+    AZER: no
+    SELJ: yes
+1100.1.1:
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+1157.5.8:
+  owner: AZER
+  controller: AZER
+  cores:
+    SELJ: no
+    AZER: yes
+1225.1.1:
+  owner: KHWA
+  controller: KHWA
+  cores:
+    AZER: no
+    KHWA: yes
+1231.1.1:
+  owner: MGE
+  controller: MGE
+  cores:
+    KHWA: no
+    MGE: yes
+    IRA: yes
+1260.1.1:
+  owner: ILK
+  controller: ILK
+  cores:
+    MGE: no
+    ILK: yes
+1335.1.1:
+  owner: LHJ
+  controller: LHJ
+  cores:
+    ILK: no
+    LHJ: yes
+1579.1.1:
+  owner: KRY
+  controller: KRY
+1592.1.1:
+  owner: IRA
+  controller: IRA
+  cores:
+    IRA: yes
+1722.1.1:
+  controller: RUS
+1723.9.12:
+  owner: RUS
+  cores:
+    RUS: yes
+1732.1.21:
+  owner: IRA
+  controller: IRA
+  cores:
+    RUS: no
+1935.1.1:
+  owner: IRAN
+  controller: IRAN
+  cores:
+    IRA: no
+    IRAN: yes

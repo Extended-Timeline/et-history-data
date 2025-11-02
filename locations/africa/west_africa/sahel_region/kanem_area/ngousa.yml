@@ -1,0 +1,53 @@
+#imported from EU4 file: history/provinces/2287 - Kotoko.txt
+2.1.1:
+  pop:
+    ethnicity: sara_culture
+    religion: bantu_religion
+    estate: peasant
+    size: 1000
+523.1.1:
+  owner: KOT
+  controller: KOT
+  cores:
+    KOT: yes
+  resource: grain
+900.1.1:
+  owner: KBO
+  controller: KBO
+  cores:
+    KBO: yes
+1000.1.1:
+  cores:
+    KOT: no
+  pop:
+    ethnicity: kanembu_culture
+    estate: peasant
+    size: 1000
+1065.1.1:
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+1380.1.1:
+  owner: YAO
+  controller: YAO
+  cores:
+    YAO: yes
+1505.1.1:
+  owner: KBO
+  controller: KBO
+  cores:
+    YAO: no
+    KBO: yes
+1900.4.22:
+  owner: FRA
+  controller: FRA
+  cores:
+    FRA: yes
+1960.8.11:
+  owner: CHAD
+  controller: CHAD
+  cores:
+    FRA: no
+    KBO: no
+    CHAD: yes

@@ -1,0 +1,41 @@
+#imported from EU4 file: history/provinces/2251 - Konian.txt
+2.1.1:
+  pop:
+    ethnicity: mandinka
+    religion: bantu_religion
+    estate: peasant
+    size: 1000
+1605.1.1:
+  pop:
+    ethnicity: mandinka
+    estate: peasant
+    size: 1000
+1850.1.1:
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+1890.1.1:
+  owner: FRA
+  controller: FRA
+  cores:
+    FRA: yes
+  resource: grain
+1930.1.1:
+  resource: aluminum
+1940.6.14:
+  owner: VFRA
+  controller: VFRA
+  cores:
+    VFRA: yes
+1942.11.16:
+  owner: FRA
+  controller: FRA
+  cores:
+    VFRA: no
+1958.10.2:
+  owner: GUIN
+  controller: GUIN
+  cores:
+    FRA: no
+    GUIN: yes

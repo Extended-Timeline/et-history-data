@@ -1,0 +1,73 @@
+#imported from EU4 file: history/provinces/4363 - Argyll.txt
+2.1.1:
+  owner: CALD
+  controller: CALD
+  cores:
+    CALD: yes
+  resource: iron
+  pop:
+    ethnicity: pictish
+    religion: druidism
+    estate: peasant
+    size: 1000
+250.1.1:
+  owner: PICT
+  controller: PICT
+  cores:
+    PICT: yes
+450.1.1:
+  owner: DALR
+  controller: DALR
+  cores:
+    PICT: no
+    DALR: yes
+  pop:
+    ethnicity: highland
+    estate: peasant
+    size: 1000
+550.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+736.1.1:
+  owner: PICT
+  controller: PICT
+  cores:
+    PICT: yes
+760.1.1:
+  owner: DALR
+  controller: DALR
+  cores:
+    PICT: no
+848.1.1:
+  owner: SCO
+  controller: SCO
+  cores:
+    DALR: no
+    SCO: yes
+867.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+1296.1.1:
+  controller: ENG
+1314.1.1:
+  controller: SCO
+1560.8.1:
+  pop:
+    religion: calvinist
+    estate: peasant
+    size: 1000
+1645.9.13:
+  controller: SCO
+1651.4.1:
+  controller: ENG
+1652.4.21:
+  controller: SCO
+1707.5.12:
+  owner: GBR
+  controller: GBR
+  cores:
+    GBR: yes

@@ -1,0 +1,102 @@
+#imported from EU4 file: history/provinces/58 - Anhalt.txt
+2.1.1:
+  owner: SEMN
+  controller: SEMN
+  cores:
+    SEMN: yes
+  resource: wool
+  pop:
+    ethnicity: east_franconian
+    religion: germanic
+    estate: peasant
+    size: 1000
+260.1.1:
+  owner: WARI
+  controller: WARI
+  cores:
+    SEMN: no
+    WARI: yes
+  pop:
+    ethnicity: saxon
+    estate: peasant
+    size: 1000
+453.1.1:
+  owner: THU
+  controller: THU
+  cores:
+    WARI: no
+    THU: yes
+  pop:
+    ethnicity: east_franconian
+    estate: peasant
+    size: 1000
+600.1.1:
+  owner: SAX
+  controller: SAX
+  cores:
+    THU: no
+    SAX: yes
+  pop:
+    ethnicity: saxon
+    estate: peasant
+    size: 1000
+804.1.1:
+  owner: FRAN
+  controller: FRAN
+  cores:
+    FRAN: yes
+840.6.21:
+  owner: EFRA
+  controller: EFRA
+  cores:
+    FRAN: no
+    EFRA: yes
+867.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+900.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+911.11.10:
+  owner: SAX
+  controller: SAX
+  cores:
+    EFRA: no
+1212.2.2:
+  owner: ANH
+  controller: ANH
+  cores:
+    SAX: no
+    ANH: yes
+1529.1.1:
+  pop:
+    religion: lutheran
+    estate: peasant
+    size: 1000
+1871.1.18:
+  owner: GER
+  controller: GER
+  cores:
+    GER: yes
+1900.1.1:
+  cores:
+    ANH: no
+1945.5.8:
+  owner: EGER
+  controller: EGER
+  cores:
+    EGER: yes
+1990.1.1:
+  pop:
+    religion: irreligious
+    estate: peasant
+    size: 1000
+1990.10.3:
+  owner: GER
+  controller: GER
+  cores:
+    EGER: no

@@ -1,0 +1,121 @@
+#imported from EU4 file: history/provinces/2065 - Bathlana.txt
+2.1.1:
+  owner: NSAT
+  controller: NSAT
+  cores:
+    NSAT: yes
+  resource: livestock
+  pop:
+    ethnicity: punjabi
+    religion: hindu
+    estate: peasant
+    size: 1000
+120.1.1:
+  owner: KUSH
+  controller: KUSH
+  cores:
+    NSAT: no
+    KUSH: yes
+375.1.1:
+  owner: GUPT
+  controller: GUPT
+  cores:
+    KUSH: no
+    GUPT: yes
+498.1.1:
+  owner: KAPI
+  controller: KAPI
+  cores:
+    GUPT: no
+    PUSH: yes
+528.1.1:
+  owner: MLW
+  controller: MLW
+540.1.1:
+  owner: PUSH
+  controller: PUSH
+647.1.1:
+  owner: TOMA
+  controller: TOMA
+  cores:
+    PUSH: no
+    TOMA: yes
+740.1.1:
+  owner: KSH
+  controller: KSH
+  cores:
+    KSH: yes
+760.1.1:
+  owner: TOMA
+  controller: TOMA
+  cores:
+    KSH: no
+1002.1.1:
+  owner: GHAZ
+  controller: GHAZ
+  cores:
+    TOMA: no
+    GHAZ: yes
+1187.1.1:
+  owner: GHOR
+  controller: GHOR
+  cores:
+    GHAZ: no
+    GHOR: yes
+1206.1.1:
+  owner: DLH
+  controller: DLH
+  cores:
+    GHOR: no
+    DLH: yes
+    PUN: yes
+1526.2.1:
+  controller: TIM
+1526.4.21:
+  owner: MUG
+  controller: MUG
+  cores:
+    DLH: no
+    MUG: yes
+1540.1.1:
+  owner: BNG
+  controller: BNG
+  cores:
+    BNG: yes
+  pop:
+    religion: sikhism
+    estate: peasant
+    size: 1000
+1553.1.1:
+  owner: SIRH
+  controller: SIRH
+  cores:
+    BNG: no
+1554.7.1:
+  controller: MUG
+1554.12.1:
+  owner: MUG
+1760.1.1:
+  owner: JANG
+  controller: JANG
+  cores:
+    JANG: yes
+1784.1.1:
+  owner: GWA
+  controller: GWA
+  cores:
+    GWA: yes
+1803.1.1:
+  owner: GBR
+  controller: GBR
+  cores:
+    GBR: yes
+1930.1.1:
+  cores:
+    PUN: no
+    INDI: yes
+1947.8.15:
+  owner: INDI
+  controller: INDI
+  cores:
+    GBR: no

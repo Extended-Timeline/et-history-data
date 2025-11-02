@@ -1,0 +1,133 @@
+#imported from EU4 file: history/provinces/4765 - Mulhouse.txt
+2.1.1:
+  owner: ROM
+  controller: ROM
+  cores:
+    ROM: yes
+  resource: cloth
+  pop:
+    ethnicity: high_alemannic
+    religion: germanic
+    estate: peasant
+    size: 1000
+360.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+395.1.17:
+  owner: ROMW
+  controller: ROMW
+  cores:
+    ROM: no
+    ROMW: yes
+450.1.1:
+  owner: ALEM
+  controller: ALEM
+  cores:
+    ROMW: no
+    ALEM: yes
+746.1.1:
+  owner: FRAN
+  controller: FRAN
+  cores:
+    FRAN: yes
+840.6.21:
+  owner: MFRA
+  controller: MFRA
+  cores:
+    FRAN: no
+    MFRA: yes
+855.9.30:
+  owner: LOT
+  controller: LOT
+  cores:
+    TAIW: no
+    LOT: yes
+867.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+870.8.8:
+  owner: EFRA
+  controller: EFRA
+  cores:
+    LOT: no
+    EFRA: yes
+900.1.1:
+  owner: SUND
+  controller: SUND
+  cores:
+    EFRA: no
+    ALEM: no
+    SUND: yes
+925.1.1:
+  owner: SWA
+  controller: SWA
+  cores:
+    SWA: yes
+982.1.1:
+  owner: ALS
+  controller: ALS
+  cores:
+    SWA: no
+    ALS: yes
+1273.1.1:
+  owner: MLH
+  controller: MLH
+  cores:
+    ALS: no
+    MLH: yes
+1467.6.15:
+  cores:
+    BUR: yes
+1477.1.5:
+  cores:
+    BUR: no
+1529.1.1:
+  pop:
+    religion: calvinist
+    estate: peasant
+    size: 1000
+1670.1.1:
+  cores:
+    FRA: yes
+1789.1.3:
+  owner: FRA
+  controller: FRA
+  cores:
+    MLH: no
+1870.9.4:
+  owner: FRA
+  controller: FRA
+  cores:
+    FRA: yes
+    ALS: no
+1870.10.24:
+  controller: PRU
+1871.1.18:
+  controller: GER
+1871.5.10:
+  owner: GER
+  cores:
+    GER: yes
+1918.11.21:
+  controller: FRA
+1919.6.28:
+  owner: FRA
+1940.6.14:
+  owner: GER
+  controller: GER
+1944.11.23:
+  controller: FRA
+1945.5.8:
+  owner: FRA
+  controller: FRA
+  cores:
+    GER: no
+1946.1.1:
+  pop:
+    ethnicity: french
+    estate: peasant
+    size: 1000

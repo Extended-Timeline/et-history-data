@@ -1,0 +1,116 @@
+#imported from EU4 file: history/provinces/713 - Kuruk Tag.txt
+2.1.1:
+  owner: KARA
+  controller: KARA
+  cores:
+    KARA: yes
+  resource: salt
+  pop:
+    ethnicity: tocharian
+    religion: mahayana
+    estate: peasant
+    size: 1000
+420.1.1:
+  pop:
+    ethnicity: uyghur_culture
+    estate: peasant
+    size: 1000
+439.1.1:
+  owner: NLIA
+  controller: NLIA
+  cores:
+    NLIA: yes
+460.1.1:
+  owner: KARA
+  controller: KARA
+  cores:
+    NLIA: no
+    KARA: yes
+547.1.1:
+  owner: GOKT
+  controller: GOKT
+  cores:
+    ROUR: no
+    GOKT: yes
+627.1.1:
+  owner: UYGH
+  controller: UYGH
+  cores:
+    GOKT: no
+    UYGH: yes
+745.1.1:
+  pop:
+    religion: manichaeism
+    estate: peasant
+    size: 1000
+789.1.1:
+  owner: TIB
+  controller: TIB
+  cores:
+    TIB: yes
+840.1.1:
+  pop:
+    religion: tibetan_buddhism
+    estate: peasant
+    size: 1000
+842.1.1:
+  owner: UTSA
+  controller: UTSA
+  cores:
+    TIB: no
+    UTSA: yes
+843.1.1:
+  owner: UYGH
+  controller: UYGH
+  cores:
+    UTSA: no
+    UYGH: yes
+1209.1.1:
+  owner: MGE
+  controller: MGE
+  cores:
+    UYGH: no
+    MGE: yes
+1210.1.1:
+  pop:
+    religion: 
+    estate: peasant
+    size: 1000
+1260.1.1:
+  owner: CHG
+  controller: CHG
+  cores:
+    MGE: no
+    CHG: yes
+1347.1.1:
+  owner: MOGH
+  controller: MOGH
+  cores:
+    CHG: no
+    MOGH: yes
+1570.1.1:
+  owner: YARK
+  controller: YARK
+  cores:
+    YARK: yes
+1635.1.1:
+  owner: ZUNG
+  controller: ZUNG
+  cores:
+    ZUNG: yes
+1680.1.1:
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+1755.1.1:
+  owner: QNG
+  controller: QNG
+  cores:
+    QNG: yes
+1912.2.12:
+  owner: CHI
+  controller: CHI
+  cores:
+    QNG: no
+    CHI: yes

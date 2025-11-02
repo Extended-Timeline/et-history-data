@@ -1,0 +1,74 @@
+#imported from EU4 file: history/provinces/2166 - Dehong.txt
+2.1.1:
+  owner: AILA
+  controller: AILA
+  cores:
+    AILA: yes
+  resource: tropical_wood
+  pop:
+    ethnicity: khon_muang_culture
+    religion: satsana_phi
+    estate: peasant
+    size: 1000
+560.1.1:
+  owner: MMA
+  controller: MMA
+  cores:
+    AILA: no
+    MMA: yes
+800.1.1:
+  owner: NANZ
+  controller: NANZ
+  cores:
+    NANZ: yes
+810.1.1:
+  pop:
+    religion: tibetan_buddhism
+    estate: peasant
+    size: 1000
+880.1.1:
+  pop:
+    ethnicity: tai_lu_culture
+    estate: peasant
+    size: 1000
+937.1.1:
+  owner: CDL
+  controller: CDL
+  cores:
+    NANZ: no
+    CDL: yes
+1253.1.1:
+  owner: MMA
+  controller: MMA
+  cores:
+    MMA: yes
+    CDL: yes
+1260.1.1:
+  pop:
+    religion: theravada
+    estate: peasant
+    size: 1000
+1449.1.1:
+  owner: MNG
+  controller: MNG
+  cores:
+    MNG: yes
+1662.4.1:
+  owner: ZHOU
+  controller: ZHOU
+  cores:
+    ZHOU: yes
+1681.10.1:
+  owner: QNG
+  controller: QNG
+  cores:
+    QNG: yes
+1912.2.12:
+  owner: CHI
+  controller: CHI
+  cores:
+    QNG: no
+    ZHOU: no
+    CHI: yes
+1927.4.18:
+  controller: CHI

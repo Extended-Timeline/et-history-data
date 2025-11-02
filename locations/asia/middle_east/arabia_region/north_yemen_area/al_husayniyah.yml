@@ -1,0 +1,119 @@
+#imported from EU4 file: history/provinces/391 - Najran.txt
+2.1.1:
+  owner: SABA
+  controller: SABA
+  cores:
+    SABA: yes
+  resource: cloth
+  pop:
+    ethnicity: yemeni_culture
+    religion: south_arabian
+    estate: peasant
+    size: 1000
+275.1.1:
+  owner: HIMY
+  controller: HIMY
+  cores:
+    SABA: no
+    HIMY: yes
+320.1.1:
+  owner: AKSM
+  controller: AKSM
+  cores:
+    AKSM: yes
+380.1.1:
+  owner: HIMY
+  controller: HIMY
+  cores:
+    AKSM: no
+    HIMY: yes
+525.1.1:
+  owner: YEM
+  controller: YEM
+  cores:
+    HIMY: no
+    YEM: yes
+570.1.1:
+  owner: NAJR
+  controller: NAJR
+  cores:
+    YEM: no
+    NAJR: yes
+628.1.1:
+  owner: RASH
+  controller: RASH
+  cores:
+    RASH: yes
+  pop:
+    religion: islam
+    estate: peasant
+    size: 1000
+661.7.28:
+  owner: UMAY
+  controller: UMAY
+  cores:
+    RASH: no
+    UMAY: yes
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+750.8.6:
+  owner: ABBA
+  controller: ABBA
+  cores:
+    UMAY: no
+    ABBA: yes
+755.1.1:
+  pop:
+    religion: shia
+    estate: peasant
+    size: 1000
+847.1.1:
+  owner: SANA
+  controller: SANA
+  cores:
+    ABBA: no
+    SANA: yes
+897.1.1:
+  owner: RASS
+  controller: RASS
+  cores:
+    SANA: no
+    RASS: yes
+1230.1.1:
+  owner: NAJR
+  controller: NAJR
+  cores:
+    RASS: no
+    NAJR: yes
+1583.1.1:
+  owner: TUR
+  controller: TUR
+  cores:
+    TUR: yes
+1617.1.1:
+  owner: RASS
+  controller: RASS
+  cores:
+    TUR: no
+    RASS: yes
+1640.1.1:
+  owner: NAJR
+  controller: NAJR
+  cores:
+    RASS: no
+1924.1.1:
+  cores:
+    YEM: yes
+1934.5.20:
+  owner: SAUD
+  controller: SAUD
+  cores:
+    YEM: no
+    SAUD: yes
+1940.1.1:
+  pop:
+    ethnicity: hijazi_culture
+    estate: peasant
+    size: 1000

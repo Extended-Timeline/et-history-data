@@ -1,0 +1,919 @@
+vtn_fa_ngum_khun_lo:
+  1324.1.1:
+    birth: vientiane #TODO: Date and location guessed, check if better data is available
+    first_name: fa_ngum
+    dynasty: khun_lo_dynasty
+    adm: 45
+    dip: 45
+    mil: 60
+    religion: theravada
+    culture: lao_culture
+  1371.1.1:
+    death: yes
+vtn_samsenethai_khun_lo:
+  1341.1.1:
+    birth: vientiane #TODO: Date and location guessed, check if better data is available
+    first_name: samsenethai
+    dynasty: khun_lo_dynasty
+    adm: 15
+    dip: 30
+    mil: 0
+    religion: theravada
+    culture: lao_culture
+  1417.1.1:
+    death: yes
+vtn_lan_kham_deng_khun_lo:
+  1375.1.1:
+    birth: vientiane #TODO: Date and location guessed, check if better data is available
+    first_name: lan_kham_deng
+    dynasty: khun_lo_dynasty
+    father: vtn_samsenethai_khun_lo #TODO: check if this makes sense
+    adm: 45
+    dip: 15
+    mil: 30
+    religion: theravada
+    culture: lao_culture
+  1428.1.1:
+    death: yes
+vtn_lamakamadinga_khun_lo:
+  1387.1.1:
+    birth: vientiane #TODO: Date and location guessed, check if better data is available
+    first_name: lamakamadinga
+    dynasty: khun_lo_dynasty
+    adm: 45
+    dip: 15
+    mil: 30
+    religion: theravada
+    culture: lao_culture
+  1428.1.1:
+    death: yes
+vtn_bhumadarada_khun_lo:
+  1400.1.1:
+    birth: vientiane #TODO: Date and location guessed, check if better data is available
+    first_name: bhumadarada
+    dynasty: khun_lo_dynasty
+    father: vtn_lamakamadinga_khun_lo #TODO: check if this makes sense
+    adm: 15
+    dip: 0
+    mil: 0
+    religion: theravada
+    culture: lao_culture
+  1429.1.1:
+    death: yes
+vtn_phommathat_khun_lo:
+  1398.1.1:
+    birth: vientiane #TODO: Date and location guessed, check if better data is available
+    first_name: phommathat
+    dynasty: khun_lo_dynasty
+    adm: 15
+    dip: 0
+    mil: 0
+    religion: theravada
+    culture: lao_culture
+  1429.1.1:
+    death: yes
+vtn_khamtum_khun_lo:
+  1420.1.1:
+    birth: vientiane #TODO: Date and location guessed, check if better data is available
+    first_name: khamtum
+    dynasty: khun_lo_dynasty
+    father: vtn_phommathat_khun_lo #TODO: check if this makes sense
+    adm: 15
+    dip: 0
+    mil: 15
+    religion: theravada
+    culture: lao_culture
+  1430.1.1:
+    death: yes
+vtn_khamtum_khun_lo_1:
+  1399.1.1:
+    birth: vientiane #TODO: Date and location guessed, check if better data is available
+    first_name: khamtum
+    dynasty: khun_lo_dynasty
+    adm: 15
+    dip: 0
+    mil: 15
+    religion: theravada
+    culture: lao_culture
+  1430.1.1:
+    death: yes
+vtn_meunsai_khun_lo:
+  1400.1.1:
+    birth: vientiane #TODO: Date and location guessed, check if better data is available
+    first_name: meunsai
+    dynasty: khun_lo_dynasty
+    adm: 0
+    dip: 0
+    mil: 0
+    religion: theravada
+    culture: lao_culture
+  1432.1.1:
+    death: yes
+vtn_konekham_khun_lo:
+  1415.1.1:
+    birth: vientiane #TODO: Date and location guessed, check if better data is available
+    first_name: konekham
+    dynasty: khun_lo_dynasty
+    father: vtn_meunsai_khun_lo #TODO: check if this makes sense
+    adm: 15
+    dip: 0
+    mil: 0
+    religion: theravada
+    culture: lao_culture
+  1432.7.1:
+    death: yes
+vtn_konekham_khun_lo_1:
+  1402.1.1:
+    birth: vientiane #TODO: Date and location guessed, check if better data is available
+    first_name: konekham
+    dynasty: khun_lo_dynasty
+    adm: 15
+    dip: 0
+    mil: 0
+    religion: theravada
+    culture: lao_culture
+  1432.7.1:
+    death: yes
+vtn_kham_tam_sa_khun_lo:
+  1415.1.1:
+    birth: vientiane #TODO: Date and location guessed, check if better data is available
+    first_name: kham_tam_sa
+    dynasty: khun_lo_dynasty
+    father: vtn_konekham_khun_lo_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 0
+    mil: 0
+    religion: theravada
+    culture: lao_culture
+  1433.1.1:
+    death: yes
+vtn_kham_tam_sa_khun_lo_1:
+  1402.1.1:
+    birth: vientiane #TODO: Date and location guessed, check if better data is available
+    first_name: kham_tam_sa
+    dynasty: khun_lo_dynasty
+    adm: 15
+    dip: 0
+    mil: 0
+    religion: theravada
+    culture: lao_culture
+  1433.1.1:
+    death: yes
+vtn_lue_sai_khun_lo:
+  1416.1.1:
+    birth: vientiane #TODO: Date and location guessed, check if better data is available
+    first_name: lue_sai
+    dynasty: khun_lo_dynasty
+    father: vtn_kham_tam_sa_khun_lo_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 0
+    mil: 0
+    religion: theravada
+    culture: lao_culture
+  1433.7.1:
+    death: yes
+vtn_lue_sai_khun_lo_1:
+  1403.1.1:
+    birth: vientiane #TODO: Date and location guessed, check if better data is available
+    first_name: lue_sai
+    dynasty: khun_lo_dynasty
+    adm: 15
+    dip: 0
+    mil: 0
+    religion: theravada
+    culture: lao_culture
+  1433.7.1:
+    death: yes
+vtn_khai_bua_ban_khun_lo:
+  1417.1.1:
+    birth: vientiane #TODO: Date and location guessed, check if better data is available
+    first_name: khai_bua_ban
+    dynasty: khun_lo_dynasty
+    father: vtn_lue_sai_khun_lo_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 0
+    mil: 0
+    religion: theravada
+    culture: lao_culture
+  1436.1.1:
+    death: yes
+vtn_khai_bua_ban_khun_lo_1:
+  1403.1.1:
+    birth: vientiane #TODO: Date and location guessed, check if better data is available
+    first_name: khai_bua_ban
+    dynasty: khun_lo_dynasty
+    adm: 15
+    dip: 0
+    mil: 0
+    religion: theravada
+    culture: lao_culture
+  1436.1.1:
+    death: yes
+vtn_khong_kham:
+  1420.1.1:
+    birth: vientiane #TODO: Date and location guessed, check if better data is available
+    first_name: khong_kham
+    father: vtn_khai_bua_ban_khun_lo_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 15
+    mil: 15
+    religion: theravada
+    culture: lao_culture
+  1438.1.1:
+    death: yes
+vtn_khong_kham_khun_lo:
+  1406.1.1:
+    birth: vientiane #TODO: Date and location guessed, check if better data is available
+    first_name: khong_kham
+    dynasty: khun_lo_dynasty
+    adm: 15
+    dip: 15
+    mil: 15
+    religion: theravada
+    culture: lao_culture
+  1438.1.1:
+    death: yes
+vtn_sai_tia_kaphut_khun_lo:
+  1420.1.1:
+    birth: vientiane #TODO: Date and location guessed, check if better data is available
+    first_name: sai_tia_kaphut
+    dynasty: khun_lo_dynasty
+    father: vtn_khong_kham_khun_lo #TODO: check if this makes sense
+    adm: 60
+    dip: 60
+    mil: 30
+    religion: theravada
+    culture: lao_culture
+  1479.1.1:
+    death: yes
+vtn_sai_tia_kaphut_khun_lo_1:
+  1408.1.1:
+    birth: vientiane #TODO: Date and location guessed, check if better data is available
+    first_name: sai_tia_kaphut
+    dynasty: khun_lo_dynasty
+    adm: 60
+    dip: 60
+    mil: 30
+    religion: theravada
+    culture: lao_culture
+  1479.1.1:
+    death: yes
+vtn_theng_kham_khun_lo:
+  1430.1.1:
+    birth: vientiane #TODO: Date and location guessed, check if better data is available
+    first_name: theng_kham
+    dynasty: khun_lo_dynasty
+    father: vtn_sai_tia_kaphut_khun_lo_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 15
+    mil: 30
+    religion: theravada
+    culture: lao_culture
+  1486.1.1:
+    death: yes
+vtn_theng_kham_khun_lo_1:
+  1449.1.1:
+    birth: vientiane #TODO: Date and location guessed, check if better data is available
+    first_name: theng_kham
+    dynasty: khun_lo_dynasty
+    adm: 15
+    dip: 15
+    mil: 30
+    religion: theravada
+    culture: lao_culture
+  1486.1.1:
+    death: yes
+vtn_laasaenthai_khun_lo:
+  1470.1.1:
+    birth: vientiane #TODO: Date and location guessed, check if better data is available
+    first_name: laasaenthai
+    dynasty: khun_lo_dynasty
+    father: vtn_theng_kham_khun_lo_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 30
+    mil: 15
+    religion: theravada
+    culture: lao_culture
+  1496.1.1:
+    death: yes
+vtn_laasaenthai_khun_lo_1:
+  1456.1.1:
+    birth: vientiane #TODO: Date and location guessed, check if better data is available
+    first_name: laasaenthai
+    dynasty: khun_lo_dynasty
+    adm: 15
+    dip: 30
+    mil: 15
+    religion: theravada
+    culture: lao_culture
+  1496.1.1:
+    death: yes
+vtn_sompou_khun_lo:
+  1480.1.1:
+    birth: vientiane #TODO: Date and location guessed, check if better data is available
+    first_name: sompou
+    dynasty: khun_lo_dynasty
+    father: vtn_laasaenthai_khun_lo_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 30
+    mil: 15
+    religion: theravada
+    culture: lao_culture
+  1501.1.1:
+    death: yes
+vtn_sompou_khun_lo_1:
+  1466.1.1:
+    birth: vientiane #TODO: Date and location guessed, check if better data is available
+    first_name: sompou
+    dynasty: khun_lo_dynasty
+    adm: 15
+    dip: 30
+    mil: 15
+    religion: theravada
+    culture: lao_culture
+  1501.1.1:
+    death: yes
+vtn_visunarat_khun_lo:
+  1490.1.1:
+    birth: vientiane #TODO: Date and location guessed, check if better data is available
+    first_name: visunarat
+    dynasty: khun_lo_dynasty
+    father: vtn_sompou_khun_lo_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 45
+    mil: 30
+    religion: theravada
+    culture: lao_culture
+  1520.1.1:
+    death: yes
+vtn_visunarat_khun_lo_1:
+  1471.1.1:
+    birth: vientiane #TODO: Date and location guessed, check if better data is available
+    first_name: visunarat
+    dynasty: khun_lo_dynasty
+    adm: 45
+    dip: 45
+    mil: 30
+    religion: theravada
+    culture: lao_culture
+  1520.1.1:
+    death: yes
+vtn_photisarat_i_khun_lo:
+  1501.1.1:
+    birth: vientiane #TODO: Date and location guessed, check if better data is available
+    first_name: photisarat
+    dynasty: khun_lo_dynasty
+    father: vtn_visunarat_khun_lo_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: theravada
+    culture: lao_culture
+  1548.1.1:
+    death: yes
+vtn_photisarat_i_khun_lo_1:
+  1490.1.1:
+    birth: vientiane #TODO: Date and location guessed, check if better data is available
+    first_name: photisarat
+    dynasty: khun_lo_dynasty
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: theravada
+    culture: lao_culture
+  1548.1.1:
+    death: yes
+vtn_setthathirat_i_khun_lo:
+  1520.1.1:
+    birth: vientiane #TODO: Date and location guessed, check if better data is available
+    first_name: setthathirat
+    dynasty: khun_lo_dynasty
+    father: vtn_photisarat_i_khun_lo_1 #TODO: check if this makes sense
+    adm: 75
+    dip: 45
+    mil: 30
+    religion: theravada
+    culture: lao_culture
+  1571.1.1:
+    death: yes
+vtn_setthathirat_i_khun_lo_1:
+  1518.1.1:
+    birth: vientiane #TODO: Date and location guessed, check if better data is available
+    first_name: setthathirat
+    dynasty: khun_lo_dynasty
+    adm: 75
+    dip: 45
+    mil: 30
+    religion: theravada
+    culture: lao_culture
+  1571.1.1:
+    death: yes
+vtn_saensurin_khun_lo:
+  1530.1.1:
+    birth: vientiane #TODO: Date and location guessed, check if better data is available
+    first_name: saensurin
+    dynasty: khun_lo_dynasty
+    father: vtn_maha_oupahat_khun_lo_1 #TODO: check if this makes sense
+    adm: 0
+    dip: 0
+    mil: 15
+    religion: theravada
+    culture: lao_culture
+  1582.1.1:
+    death: yes
+vtn_saensurin_khun_lo_1:
+  1541.1.1:
+    birth: vientiane #TODO: Date and location guessed, check if better data is available
+    first_name: saensurin
+    dynasty: khun_lo_dynasty
+    adm: 0
+    dip: 0
+    mil: 15
+    religion: theravada
+    culture: lao_culture
+  1575.1.1:
+    death: yes
+vtn_maha_oupahat_khun_lo:
+  1565.1.1:
+    birth: vientiane #TODO: Date and location guessed, check if better data is available
+    first_name: maha_oupahat
+    dynasty: khun_lo_dynasty
+    father: vtn_saensurin_khun_lo_1 #TODO: check if this makes sense
+    adm: 0
+    dip: 0
+    mil: 30
+    religion: theravada
+    culture: lao_culture
+  1580.1.1:
+    death: yes
+vtn_maha_oupahat_khun_lo_1:
+  1545.1.1:
+    birth: vientiane #TODO: Date and location guessed, check if better data is available
+    first_name: maha_oupahat
+    dynasty: khun_lo_dynasty
+    adm: 0
+    dip: 0
+    mil: 30
+    religion: theravada
+    culture: lao_culture
+  1580.1.1:
+    death: yes
+vtn_saensurin_khun_lo_2:
+  1550.1.1:
+    birth: vientiane #TODO: Date and location guessed, check if better data is available
+    first_name: saensurin
+    dynasty: khun_lo_dynasty
+    adm: 0
+    dip: 0
+    mil: 15
+    religion: theravada
+    culture: lao_culture
+  1582.1.1:
+    death: yes
+vtn_nakhon_noi_khun_lo:
+  1560.1.1:
+    birth: vientiane #TODO: Date and location guessed, check if better data is available
+    first_name: nakhon_noi
+    dynasty: khun_lo_dynasty
+    father: vtn_saensurin_khun_lo_2 #TODO: check if this makes sense
+    adm: 30
+    dip: 30
+    mil: 15
+    religion: theravada
+    culture: lao_culture
+  1591.1.1:
+    death: yes
+vtn_nakhon_noi_khun_lo_1:
+  1552.1.1:
+    birth: vientiane #TODO: Date and location guessed, check if better data is available
+    first_name: nakhon_noi
+    dynasty: khun_lo_dynasty
+    adm: 30
+    dip: 30
+    mil: 15
+    religion: theravada
+    culture: lao_culture
+  1591.1.1:
+    death: yes
+vtn_nokeo_koumanh_khun_lo:
+  1570.1.1:
+    birth: vientiane #TODO: Date and location guessed, check if better data is available
+    first_name: nokeo_koumanh
+    dynasty: khun_lo_dynasty
+    father: vtn_nakhon_noi_khun_lo_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 30
+    mil: 15
+    religion: theravada
+    culture: lao_culture
+  1596.1.1:
+    death: yes
+vtn_nokeo_koumanh_khun_lo_1:
+  1561.1.1:
+    birth: vientiane #TODO: Date and location guessed, check if better data is available
+    first_name: nokeo_koumanh
+    dynasty: khun_lo_dynasty
+    adm: 15
+    dip: 30
+    mil: 15
+    religion: theravada
+    culture: lao_culture
+  1596.1.1:
+    death: yes
+vtn_thammikarat_khun_lo:
+  1590.1.1:
+    birth: vientiane #TODO: Date and location guessed, check if better data is available
+    first_name: thammikarat
+    dynasty: khun_lo_dynasty
+    father: vtn_nokeo_koumanh_khun_lo_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 45
+    mil: 30
+    religion: theravada
+    culture: lao_culture
+  1622.1.1:
+    death: yes
+vtn_thammikarat_khun_lo_1:
+  1566.1.1:
+    birth: vientiane #TODO: Date and location guessed, check if better data is available
+    first_name: thammikarat
+    dynasty: khun_lo_dynasty
+    adm: 45
+    dip: 45
+    mil: 30
+    religion: theravada
+    culture: lao_culture
+  1622.1.1:
+    death: yes
+vtn_upanyuvarat_khun_lo:
+  1590.1.1:
+    birth: vientiane #TODO: Date and location guessed, check if better data is available
+    first_name: upanyuvarat
+    dynasty: khun_lo_dynasty
+    father: vtn_thammikarat_khun_lo_1 #TODO: check if this makes sense
+    adm: 0
+    dip: 0
+    mil: 0
+    religion: theravada
+    culture: lao_culture
+  1623.1.1:
+    death: yes
+vtn_upanyuvarat_khun_lo_1:
+  1592.1.1:
+    birth: vientiane #TODO: Date and location guessed, check if better data is available
+    first_name: upanyuvarat
+    dynasty: khun_lo_dynasty
+    adm: 0
+    dip: 0
+    mil: 0
+    religion: theravada
+    culture: lao_culture
+  1623.1.1:
+    death: yes
+vtn_photisarat_ii_khun_lo:
+  1600.1.1:
+    birth: vientiane #TODO: Date and location guessed, check if better data is available
+    first_name: photisarat
+    dynasty: khun_lo_dynasty
+    father: vtn_upanyuvarat_khun_lo_1 #TODO: check if this makes sense
+    adm: 0
+    dip: 15
+    mil: 0
+    religion: theravada
+    culture: lao_culture
+  1627.1.1:
+    death: yes
+vtn_photisarat_ii_khun_lo_1:
+  1593.1.1:
+    birth: vientiane #TODO: Date and location guessed, check if better data is available
+    first_name: photisarat
+    dynasty: khun_lo_dynasty
+    adm: 0
+    dip: 15
+    mil: 0
+    religion: theravada
+    culture: lao_culture
+  1627.1.1:
+    death: yes
+vtn_mon_keo:
+  1600.1.1:
+    birth: vientiane #TODO: Date and location guessed, check if better data is available
+    first_name: mon_keo
+    father: vtn_photisarat_ii_khun_lo_1 #TODO: check if this makes sense
+    adm: 0
+    dip: 0
+    mil: 15
+    religion: theravada
+    culture: lao_culture
+  1629.1.1:
+    death: yes
+vtn_mon_keo_khun_lo:
+  1597.1.1:
+    birth: vientiane #TODO: Date and location guessed, check if better data is available
+    first_name: mon_keo
+    dynasty: khun_lo_dynasty
+    adm: 0
+    dip: 0
+    mil: 15
+    religion: theravada
+    culture: lao_culture
+  1627.7.1:
+    death: yes
+vtn_tone_kham:
+  1590.1.1:
+    birth: vientiane #TODO: Date and location guessed, check if better data is available
+    first_name: tone_kham
+    father: vtn_mon_keo_khun_lo #TODO: check if this makes sense
+    adm: 0
+    dip: 15
+    mil: 0
+    religion: theravada
+    culture: lao_culture
+  1633.1.1:
+    death: yes
+vtn_tone_kham_khun_lo:
+  1597.1.1:
+    birth: vientiane #TODO: Date and location guessed, check if better data is available
+    first_name: tone_kham
+    dynasty: khun_lo_dynasty
+    adm: 0
+    dip: 15
+    mil: 0
+    religion: theravada
+    culture: lao_culture
+  1633.1.1:
+    death: yes
+vtn_vichai_khun_lo:
+  1580.1.1:
+    birth: vientiane #TODO: Date and location guessed, check if better data is available
+    first_name: vichai
+    dynasty: khun_lo_dynasty
+    father: vtn_tone_kham_khun_lo #TODO: check if this makes sense
+    adm: 15
+    dip: 0
+    mil: 0
+    religion: theravada
+    culture: lao_culture
+  1637.1.1:
+    death: yes
+vtn_vichai_khun_lo_1:
+  1603.1.1:
+    birth: vientiane #TODO: Date and location guessed, check if better data is available
+    first_name: vichai
+    dynasty: khun_lo_dynasty
+    adm: 15
+    dip: 0
+    mil: 0
+    religion: theravada
+    culture: lao_culture
+  1637.1.1:
+    death: yes
+vtn_sourigna_vongsa_khun_lo:
+  1620.1.1:
+    birth: vientiane #TODO: Date and location guessed, check if better data is available
+    first_name: sourigna_vongsa
+    dynasty: khun_lo_dynasty
+    father: vtn_vichai_khun_lo_1 #TODO: check if this makes sense
+    adm: 75
+    dip: 75
+    mil: 75
+    religion: theravada
+    culture: lao_culture
+  1694.1.1:
+    death: yes
+vtn_sourigna_vongsa_khun_lo_1:
+  1607.1.1:
+    birth: vientiane #TODO: Date and location guessed, check if better data is available
+    first_name: sourigna_vongsa
+    dynasty: khun_lo_dynasty
+    adm: 75
+    dip: 75
+    mil: 75
+    religion: theravada
+    culture: lao_culture
+  1651.1.1:
+    death: yes
+vtn_tian_thala_khun_lo:
+  1650.1.1:
+    birth: vientiane #TODO: Date and location guessed, check if better data is available
+    first_name: tian_thala
+    dynasty: khun_lo_dynasty
+    father: vtn_sourigna_vongsa_khun_lo_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 15
+    mil: 15
+    religion: theravada
+    culture: lao_culture
+  1695.1.1:
+    death: yes
+vtn_tian_thala_khun_lo_1:
+  1621.1.1:
+    birth: vientiane #TODO: Date and location guessed, check if better data is available
+    first_name: tian_thala
+    dynasty: khun_lo_dynasty
+    adm: 15
+    dip: 15
+    mil: 15
+    religion: theravada
+    culture: lao_culture
+  1694.1.1:
+    death: yes
+vtn_nan_tharat_khun_lo:
+  1651.1.1:
+    birth: vientiane #TODO: Date and location guessed, check if better data is available
+    first_name: nan_tharat
+    dynasty: khun_lo_dynasty
+    father: vtn_tian_thala_khun_lo_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 15
+    mil: 15
+    religion: theravada
+    culture: lao_culture
+  1698.1.1:
+    death: yes
+vtn_nan_tharat_khun_lo_1:
+  1664.1.1:
+    birth: vientiane #TODO: Date and location guessed, check if better data is available
+    first_name: nan_tharat
+    dynasty: khun_lo_dynasty
+    adm: 15
+    dip: 15
+    mil: 15
+    religion: theravada
+    culture: lao_culture
+  1698.1.1:
+    death: yes
+vtn_setthathirat_ii_khun_lo:
+  1673.1.1:
+    birth: vientiane #TODO: Date and location guessed, check if better data is available
+    first_name: setthathirat
+    dynasty: khun_lo_dynasty
+    father: vtn_nan_tharat_khun_lo_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 15
+    mil: 15
+    religion: theravada
+    culture: lao_culture
+  1730.1.1:
+    death: yes
+vtn_setthathirat_ii_khun_lo_1:
+  1668.1.1:
+    birth: vientiane #TODO: Date and location guessed, check if better data is available
+    first_name: setthathirat
+    dynasty: khun_lo_dynasty
+    adm: 15
+    dip: 15
+    mil: 15
+    religion: theravada
+    culture: lao_culture
+  1730.1.1:
+    death: yes
+vtn_ong_long_khun_lo:
+  1691.1.1:
+    birth: vientiane #TODO: Date and location guessed, check if better data is available
+    first_name: ong_long
+    dynasty: khun_lo_dynasty
+    father: vtn_setthathirat_ii_khun_lo_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 15
+    mil: 15
+    religion: theravada
+    culture: lao_culture
+  1767.1.1:
+    death: yes
+vtn_ong_long_khun_lo_1:
+  1700.1.1:
+    birth: vientiane #TODO: Date and location guessed, check if better data is available
+    first_name: ong_long
+    dynasty: khun_lo_dynasty
+    adm: 15
+    dip: 15
+    mil: 15
+    religion: theravada
+    culture: lao_culture
+  1767.1.1:
+    death: yes
+vtn_setthathirat_iii_khun_lo:
+  1715.1.1:
+    birth: vientiane #TODO: Date and location guessed, check if better data is available
+    first_name: setthathirat
+    dynasty: khun_lo_dynasty
+    father: vtn_ong_long_khun_lo_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 15
+    mil: 0
+    religion: theravada
+    culture: lao_culture
+  1781.11.21:
+    death: yes
+vtn_setthathirat_iii_khun_lo_1:
+  1737.1.1:
+    birth: vientiane #TODO: Date and location guessed, check if better data is available
+    first_name: setthathirat
+    dynasty: khun_lo_dynasty
+    adm: 15
+    dip: 15
+    mil: 0
+    religion: theravada
+    culture: lao_culture
+  1778.1.1:
+    death: yes
+vtn_setthathirat_iv_khun_lo:
+  1756.1.1:
+    birth: vientiane #TODO: Date and location guessed, check if better data is available
+    first_name: setthathirat
+    dynasty: khun_lo_dynasty
+    father: vtn_setthathirat_iii_khun_lo_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 15
+    mil: 0
+    religion: theravada
+    culture: lao_culture
+  1795.2.2:
+    death: yes
+vtn_phraya_supho_thai:
+  1748.1.1:
+    birth: vientiane #TODO: Date and location guessed, check if better data is available
+    first_name: phraya_supho
+    dynasty: thai_dynasty
+    adm: 15
+    dip: 0
+    mil: 15
+    religion: theravada
+    culture: lao_culture
+  1780.1.1:
+    death: yes
+vtn_setthathirat_iii_khun_lo_2:
+  1750.1.1:
+    birth: vientiane #TODO: Date and location guessed, check if better data is available
+    first_name: setthathirat
+    dynasty: khun_lo_dynasty
+    adm: 15
+    dip: 0
+    mil: 15
+    religion: theravada
+    culture: lao_culture
+  1781.11.21:
+    death: yes
+vtn_setthathirat_iv_khun_lo_1:
+  1751.1.1:
+    birth: vientiane #TODO: Date and location guessed, check if better data is available
+    first_name: setthathirat
+    dynasty: khun_lo_dynasty
+    adm: 15
+    dip: 15
+    mil: 0
+    religion: theravada
+    culture: lao_culture
+  1795.2.2:
+    death: yes
+vtn_setthathirat_v_khun_lo:
+  1779.1.1:
+    birth: vientiane #TODO: Date and location guessed, check if better data is available
+    first_name: setthathirat
+    dynasty: khun_lo_dynasty
+    father: vtn_setthathirat_iv_khun_lo_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 15
+    mil: 15
+    religion: theravada
+    culture: lao_culture
+  1805.2.7:
+    death: yes
+vtn_setthathirat_v_khun_lo_1:
+  1765.1.1:
+    birth: vientiane #TODO: Date and location guessed, check if better data is available
+    first_name: setthathirat
+    dynasty: khun_lo_dynasty
+    adm: 15
+    dip: 15
+    mil: 0
+    religion: theravada
+    culture: lao_culture
+  1805.2.7:
+    death: yes
+vtn_anouvong_khun_lo:
+  1782.1.1:
+    birth: vientiane #TODO: Date and location guessed, check if better data is available
+    first_name: anouvong
+    dynasty: khun_lo_dynasty
+    father: vtn_setthathirat_v_khun_lo_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 15
+    mil: 15
+    religion: theravada
+    culture: lao_culture
+  1828.12.11:
+    death: yes
+vtn_anouvong_khun_lo_1:
+  1775.1.1:
+    birth: vientiane #TODO: Date and location guessed, check if better data is available
+    first_name: anouvong
+    dynasty: khun_lo_dynasty
+    adm: 15
+    dip: 15
+    mil: 15
+    religion: theravada
+    culture: lao_culture
+  3000.1.1:
+    death: yes

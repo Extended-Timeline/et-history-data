@@ -1,0 +1,529 @@
+gra_zawi_zirid:
+  983.1.1:
+    birth: granada #TODO: Date and location guessed, check if better data is available
+    first_name: zawi
+    dynasty: zirid_dynasty
+    adm: 15
+    dip: 75
+    mil: 60
+    religion: sunni
+    culture: andalusi
+  1019.1.1:
+    death: yes
+gra_habbus_al_muzaffar_zirid:
+  989.1.1:
+    birth: granada #TODO: Date and location guessed, check if better data is available
+    first_name: habbus_al_muzaffar
+    dynasty: zirid_dynasty
+    adm: 60
+    dip: 15
+    mil: 60
+    religion: sunni
+    culture: andalusi
+  1038.1.1:
+    death: yes
+gra_badis_ben_habus_zirid:
+  1008.1.1:
+    birth: granada #TODO: Date and location guessed, check if better data is available
+    first_name: badis_ben_habus
+    dynasty: zirid_dynasty
+    adm: 30
+    dip: 45
+    mil: 75
+    religion: sunni
+    culture: andalusi
+  1073.1.1:
+    death: yes
+gra_abdallah_zirid:
+  1043.1.1:
+    birth: granada #TODO: Date and location guessed, check if better data is available
+    first_name: abdallah
+    dynasty: zirid_dynasty
+    adm: 45
+    dip: 45
+    mil: 30
+    religion: sunni
+    culture: andalusi
+  1238.1.1:
+    death: yes
+gra_muhammad_i_nasrid:
+  1208.1.1:
+    birth: granada #TODO: Date and location guessed, check if better data is available
+    first_name: muhammad
+    dynasty: nasrid_dynasty
+    adm: 45
+    dip: 60
+    mil: 60
+    religion: sunni
+    culture: andalusi
+  1273.1.1:
+    death: yes
+gra_muhammad_ii_nasrid:
+  1234.1.1:
+    birth: granada #TODO: Date and location guessed, check if better data is available
+    first_name: muhammad
+    dynasty: nasrid_dynasty
+    father: gra_muhammad_i_nasrid #TODO: check if this makes sense
+    adm: 75
+    dip: 60
+    mil: 15
+    religion: sunni
+    culture: andalusi
+  1302.4.8:
+    death: yes
+gra_muhammad_ii_nasrid_1:
+  1243.1.1:
+    birth: granada #TODO: Date and location guessed, check if better data is available
+    first_name: muhammad
+    dynasty: nasrid_dynasty
+    adm: 75
+    dip: 60
+    mil: 15
+    religion: sunni
+    culture: andalusi
+  1302.4.8:
+    death: yes
+gra_mhammad_iii_nasrid:
+  1256.1.1:
+    birth: granada #TODO: Date and location guessed, check if better data is available
+    first_name: mhammad
+    dynasty: nasrid_dynasty
+    father: gra_muhammad_ii_nasrid_1 #TODO: check if this makes sense
+    adm: 60
+    dip: 75
+    mil: 75
+    religion: sunni
+    culture: andalusi
+  1310.1.1:
+    death: yes
+gra_mhammad_iii_nasrid_1:
+  1272.1.1:
+    birth: granada #TODO: Date and location guessed, check if better data is available
+    first_name: mhammad
+    dynasty: nasrid_dynasty
+    adm: 60
+    dip: 75
+    mil: 75
+    religion: sunni
+    culture: andalusi
+  1309.1.1:
+    death: yes
+gra_nasr_i_nasrid:
+  1287.11.2:
+    birth: granada #TODO: Location guessed, check if better data is available
+    first_name: nasr
+    dynasty: nasrid_dynasty
+    father: gra_mhammad_iii_nasrid_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 15
+    mil: 15
+    religion: sunni
+    culture: andalusi
+  1322.11.16:
+    death: yes
+gra_nasr_i_nasrid_1:
+  1279.1.1:
+    birth: granada #TODO: Date and location guessed, check if better data is available
+    first_name: nasr
+    dynasty: nasrid_dynasty
+    adm: 30
+    dip: 15
+    mil: 15
+    religion: sunni
+    culture: andalusi
+  1314.1.1:
+    death: yes
+gra_ismail_i_nasrid:
+  1279.1.1:
+    birth: granada #TODO: Date and location guessed, check if better data is available
+    first_name: ismail
+    dynasty: nasrid_dynasty
+    father: gra_nasr_i_nasrid_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 60
+    mil: 75
+    religion: sunni
+    culture: andalusi
+  1325.6.6:
+    death: yes
+gra_ismail_i_nasrid_1:
+  1284.1.1:
+    birth: granada #TODO: Date and location guessed, check if better data is available
+    first_name: ismail
+    dynasty: nasrid_dynasty
+    adm: 30
+    dip: 60
+    mil: 75
+    religion: sunni
+    culture: andalusi
+  1325.6.6:
+    death: yes
+gra_muhammad_iv_nasrid:
+  1315.1.1:
+    birth: granada #TODO: Date and location guessed, check if better data is available
+    first_name: muhammad
+    dynasty: nasrid_dynasty
+    father: gra_ismail_i_nasrid_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 30
+    mil: 60
+    religion: sunni
+    culture: andalusi
+  1333.8.25:
+    death: yes
+gra_muhammad_iv_nasrid_1:
+  1295.1.1:
+    birth: granada #TODO: Date and location guessed, check if better data is available
+    first_name: muhammad
+    dynasty: nasrid_dynasty
+    adm: 30
+    dip: 30
+    mil: 60
+    religion: sunni
+    culture: andalusi
+  1333.8.25:
+    death: yes
+gra_yusuf_i_nasrid:
+  1318.6.29:
+    birth: granada #TODO: Location guessed, check if better data is available
+    first_name: yusuf
+    dynasty: nasrid_dynasty
+    father: gra_muhammad_iv_nasrid_1 #TODO: check if this makes sense
+    adm: 75
+    dip: 45
+    mil: 60
+    religion: sunni
+    culture: andalusi
+  1354.10.19:
+    death: yes
+gra_yusuf_i_nasrid_1:
+  1303.1.1:
+    birth: granada #TODO: Date and location guessed, check if better data is available
+    first_name: yusuf
+    dynasty: nasrid_dynasty
+    adm: 75
+    dip: 45
+    mil: 60
+    religion: sunni
+    culture: andalusi
+  1354.10.19:
+    death: yes
+gra_muhammad_v_nasrid:
+  1338.1.4:
+    birth: granada #TODO: Location guessed, check if better data is available
+    first_name: muhammad
+    dynasty: nasrid_dynasty
+    father: gra_yusuf_i_nasrid_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 75
+    mil: 30
+    religion: sunni
+    culture: andalusi
+  1391.1.16:
+    death: yes
+gra_muhammad_v_nasrid_1:
+  1324.1.1:
+    birth: granada #TODO: Date and location guessed, check if better data is available
+    first_name: muhammad
+    dynasty: nasrid_dynasty
+    adm: 45
+    dip: 75
+    mil: 60
+    religion: sunni
+    culture: andalusi
+  1359.1.1:
+    death: yes
+gra_ismail_ii_nasrid:
+  1338.1.1:
+    birth: granada #TODO: Date and location guessed, check if better data is available
+    first_name: ismail
+    dynasty: nasrid_dynasty
+    father: gra_muhammad_v_nasrid_1 #TODO: check if this makes sense
+    adm: 60
+    dip: 45
+    mil: 75
+    religion: sunni
+    culture: andalusi
+  1360.1.1:
+    death: yes
+gra_ismail_ii_nasrid_1:
+  1329.1.1:
+    birth: granada #TODO: Date and location guessed, check if better data is available
+    first_name: ismail
+    dynasty: nasrid_dynasty
+    adm: 60
+    dip: 45
+    mil: 75
+    religion: sunni
+    culture: andalusi
+  1360.1.1:
+    death: yes
+gra_muhammad_vi_nasrid:
+  1332.1.1:
+    birth: granada #TODO: Date and location guessed, check if better data is available
+    first_name: muhammad
+    dynasty: nasrid_dynasty
+    father: gra_ismail_ii_nasrid_1 #TODO: check if this makes sense
+    adm: 60
+    dip: 75
+    mil: 15
+    religion: sunni
+    culture: andalusi
+  1362.1.1:
+    death: yes
+gra_muhammad_vi_nasrid_1:
+  1330.1.1:
+    birth: granada #TODO: Date and location guessed, check if better data is available
+    first_name: muhammad
+    dynasty: nasrid_dynasty
+    adm: 60
+    dip: 75
+    mil: 15
+    religion: sunni
+    culture: andalusi
+  1362.1.1:
+    death: yes
+gra_muhammad_v_nasrid_2:
+  1332.1.1:
+    birth: granada #TODO: Date and location guessed, check if better data is available
+    first_name: muhammad
+    dynasty: nasrid_dynasty
+    adm: 45
+    dip: 75
+    mil: 60
+    religion: sunni
+    culture: andalusi
+  1391.1.16:
+    death: yes
+gra_yusuf_ii_nasrid:
+  1350.1.1:
+    birth: granada #TODO: Date and location guessed, check if better data is available
+    first_name: yusuf
+    dynasty: nasrid_dynasty
+    father: gra_muhammad_v_nasrid_2 #TODO: check if this makes sense
+    adm: 15
+    dip: 45
+    mil: 15
+    religion: sunni
+    culture: andalusi
+  1392.1.1:
+    death: yes
+gra_yusuf_ii_nasrid_1:
+  1361.1.1:
+    birth: granada #TODO: Date and location guessed, check if better data is available
+    first_name: yusuf
+    dynasty: nasrid_dynasty
+    adm: 15
+    dip: 45
+    mil: 15
+    religion: sunni
+    culture: andalusi
+  1392.1.1:
+    death: yes
+gra_muhammad_vii_nasrid:
+  1370.1.1:
+    birth: granada #TODO: Date and location guessed, check if better data is available
+    first_name: muhammad
+    dynasty: nasrid_dynasty
+    father: gra_yusuf_ii_nasrid_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 45
+    mil: 60
+    religion: sunni
+    culture: andalusi
+  1408.1.1:
+    death: yes
+gra_muhammad_vii_nasrid_1:
+  1362.1.1:
+    birth: granada #TODO: Date and location guessed, check if better data is available
+    first_name: muhammad
+    dynasty: nasrid_dynasty
+    adm: 30
+    dip: 45
+    mil: 60
+    religion: sunni
+    culture: andalusi
+  1408.1.1:
+    death: yes
+gra_yusuf_iii_nasrid:
+  1376.1.1:
+    birth: granada #TODO: Date and location guessed, check if better data is available
+    first_name: yusuf
+    dynasty: nasrid_dynasty
+    father: gra_muhammad_vii_nasrid_1 #TODO: check if this makes sense
+    adm: 60
+    dip: 45
+    mil: 60
+    religion: sunni
+    culture: andalusi
+  1417.1.1:
+    death: yes
+gra_yusuf_iii_nasrid_1:
+  1378.1.1:
+    birth: granada #TODO: Date and location guessed, check if better data is available
+    first_name: yusuf
+    dynasty: nasrid_dynasty
+    adm: 60
+    dip: 45
+    mil: 60
+    religion: sunni
+    culture: andalusi
+  1417.1.1:
+    death: yes
+gra_muhammad_viii_nasrid:
+  1411.1.1:
+    birth: granada #TODO: Date and location guessed, check if better data is available
+    first_name: muhammad
+    dynasty: nasrid_dynasty
+    father: gra_yusuf_iii_nasrid_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 45
+    mil: 15
+    religion: sunni
+    culture: andalusi
+  1431.1.1:
+    death: yes
+gra_muhammad_viii_nasrid_1:
+  1387.1.1:
+    birth: granada #TODO: Date and location guessed, check if better data is available
+    first_name: muhammad
+    dynasty: nasrid_dynasty
+    adm: 30
+    dip: 45
+    mil: 15
+    religion: sunni
+    culture: andalusi
+  1419.1.1:
+    death: yes
+gra_muhammad_ix_nasrid:
+  1389.1.1:
+    birth: granada #TODO: Date and location guessed, check if better data is available
+    first_name: muhammad
+    dynasty: nasrid_dynasty
+    adm: 30
+    dip: 30
+    mil: 15
+    religion: sunni
+    culture: andalusi
+  1446.1.1:
+    death: yes
+gra_muhammad_x_nasrid:
+  1416.1.1:
+    birth: granada #TODO: Date and location guessed, check if better data is available
+    first_name: muhammad
+    dynasty: nasrid_dynasty
+    adm: 45
+    dip: 30
+    mil: 15
+    religion: sunni
+    culture: andalusi
+  1451.1.1:
+    death: yes
+gra_muhammad_xi_nasrid:
+  1421.1.1:
+    birth: granada #TODO: Date and location guessed, check if better data is available
+    first_name: muhammad
+    dynasty: nasrid_dynasty
+    adm: 30
+    dip: 30
+    mil: 15
+    religion: sunni
+    culture: andalusi
+  1454.1.1:
+    death: yes
+gra_sad_i_ciriza_nasrid:
+  1424.1.1:
+    birth: granada #TODO: Date and location guessed, check if better data is available
+    first_name: sad_i_ciriza
+    dynasty: nasrid_dynasty
+    adm: 15
+    dip: 30
+    mil: 15
+    religion: sunni
+    culture: andalusi
+  1462.1.1:
+    death: yes
+gra_yusuf_v_nasrid:
+  1432.1.1:
+    birth: granada #TODO: Date and location guessed, check if better data is available
+    first_name: yusuf
+    dynasty: nasrid_dynasty
+    adm: 30
+    dip: 15
+    mil: 15
+    religion: sunni
+    culture: andalusi
+  1463.1.1:
+    death: yes
+gra_sad_i_ciriza_nasrid_1:
+  1433.1.1:
+    birth: granada #TODO: Date and location guessed, check if better data is available
+    first_name: sad_i_ciriza
+    dynasty: nasrid_dynasty
+    adm: 15
+    dip: 30
+    mil: 15
+    religion: sunni
+    culture: andalusi
+  1464.1.1:
+    death: yes
+gra_ali_i_muley_hacen_nasrid:
+  1434.1.1:
+    birth: granada #TODO: Date and location guessed, check if better data is available
+    first_name: ali_i_muley_hacen
+    dynasty: nasrid_dynasty
+    adm: 15
+    dip: 30
+    mil: 15
+    religion: sunni
+    culture: andalusi
+  1482.1.1:
+    death: yes
+gra_muhammad_xii_boabdil_nasrid:
+  1452.1.1:
+    birth: granada #TODO: Date and location guessed, check if better data is available
+    first_name: muhammad_xii_boabdil
+    dynasty: nasrid_dynasty
+    adm: 45
+    dip: 15
+    mil: 30
+    religion: sunni
+    culture: andalusi
+  1483.1.1:
+    death: yes
+gra_ali_i_muley_hacen_nasrid_1:
+  1453.1.1:
+    birth: granada #TODO: Date and location guessed, check if better data is available
+    first_name: ali_i_muley_hacen
+    dynasty: nasrid_dynasty
+    adm: 45
+    dip: 15
+    mil: 30
+    religion: sunni
+    culture: andalusi
+  1485.1.1:
+    death: yes
+gra_muhammad_xiii_nasrid:
+  1455.1.1:
+    birth: granada #TODO: Date and location guessed, check if better data is available
+    first_name: muhammad
+    dynasty: nasrid_dynasty
+    adm: 15
+    dip: 15
+    mil: 15
+    religion: sunni
+    culture: andalusi
+  1489.1.1:
+    death: yes
+gra_muhammad_xii_boabdil_nasrid_1:
+  1459.1.1:
+    birth: granada #TODO: Date and location guessed, check if better data is available
+    first_name: muhammad_xii_boabdil
+    dynasty: nasrid_dynasty
+    adm: 45
+    dip: 15
+    mil: 30
+    religion: sunni
+    culture: andalusi
+  3000.1.1:
+    death: yes

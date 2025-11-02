@@ -1,0 +1,59 @@
+#imported from EU4 file: history/provinces/482 - Bahamas.txt
+2.1.1:
+  pop:
+    ethnicity: arawak_culture
+    religion: muisca_religion
+    estate: peasant
+    size: 1000
+1492.12.5:
+  owner: CAS
+  controller: CAS
+  resource: cotton
+  pop:
+    ethnicity: castilian
+    religion: catholic
+    estate: peasant
+    size: 1000
+1516.1.23:
+  owner: SPA
+  controller: SPA
+1517.1.1:
+  cores:
+    SPA: yes
+1670.1.1:
+  owner: ENG
+  controller: ENG
+  cores:
+    SPA: no
+    ENG: yes
+1675.1.1:
+  pop:
+    ethnicity: english
+    religion: lutheran
+    estate: peasant
+    size: 1000
+1706.1.1:
+  owner: NPV
+  controller: NPV
+  cores:
+    NPV: yes
+1707.5.12:
+  cores:
+    ENG: no
+    GBR: yes
+1718.1.1:
+  owner: GBR
+  controller: GBR
+1780.1.1:
+  pop:
+    ethnicity: british_caribbean
+    estate: peasant
+    size: 1000
+1964.1.1:
+  cores:
+    BAHA: yes
+1973.7.10:
+  owner: BAHA
+  controller: BAHA
+  cores:
+    GBR: no

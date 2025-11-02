@@ -1,0 +1,134 @@
+#imported from EU4 file: history/provinces/2368 - Karamegdan.txt
+2.1.1:
+  pop:
+    ethnicity: kyrgyz_culture
+    religion: 
+    estate: peasant
+    size: 1000
+260.1.1:
+  owner: CHUB
+  controller: CHUB
+  cores:
+    CHUB: yes
+  resource: wool
+495.1.1:
+  owner: HEPH
+  controller: HEPH
+  cores:
+    CHUB: no
+    HEPH: yes
+560.1.1:
+  owner: GOKT
+  controller: GOKT
+  cores:
+    HEPH: no
+    GOKT: yes
+593.1.1:
+  owner: WGOK
+  controller: WGOK
+  cores:
+    GOKT: no
+    WGOK: yes
+659.1.1:
+  owner: TURG
+  controller: TURG
+  cores:
+    WGOK: no
+    TURG: yes
+  pop:
+    ethnicity: uzbek_culture
+    estate: peasant
+    size: 1000
+766.1.1:
+  owner: KARL
+  controller: KARL
+  cores:
+    TURG: no
+    KARL: yes
+840.1.1:
+  owner: KKHA
+  controller: KKHA
+  cores:
+    KARL: no
+    KKHA: yes
+1124.1.1:
+  owner: KKHI
+  controller: KKHI
+  cores:
+    KKHA: no
+    KKHI: yes
+1219.1.1:
+  owner: MGE
+  controller: MGE
+  cores:
+    KKHI: no
+    MGE: yes
+  pop:
+    ethnicity: khazak
+    estate: peasant
+    size: 1000
+1260.1.1:
+  owner: CHG
+  controller: CHG
+  cores:
+    MGE: no
+    CHG: yes
+1347.1.1:
+  owner: MOGH
+  controller: MOGH
+  cores:
+    CHG: no
+    MOGH: yes
+1350.1.1:
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+1465.1.1:
+  owner: KAZA
+  controller: KAZA
+  cores:
+    MOGH: no
+1723.1.1:
+  owner: ZUNG
+  controller: ZUNG
+  cores:
+    ZUNG: yes
+1755.1.1:
+  owner: QNG
+  controller: QNG
+  cores:
+    QNG: yes
+1854.2.4:
+  owner: RUS
+  controller: RUS
+  cores:
+    RUS: yes
+1917.11.27:
+  owner: TUKS
+  controller: TUKS
+  cores:
+    TUKS: yes
+1917.12.13:
+  cores:
+    KAZA: no
+    KAZK: yes
+1918.2.22:
+  owner: RUS
+  controller: RUS
+  cores:
+    TUKS: no
+1922.12.30:
+  owner: SOVI
+  controller: SOVI
+  cores:
+    RUS: no
+    SOVI: yes
+1968.1.1:
+  resource: uranium
+1991.12.16:
+  owner: KAZK
+  controller: KAZK
+  cores:
+    SOVI: no
+    RUS: no

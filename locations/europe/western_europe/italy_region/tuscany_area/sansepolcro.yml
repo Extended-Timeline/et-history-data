@@ -1,0 +1,139 @@
+#imported from EU4 file: history/provinces/2978 - Arezzo.txt
+2.1.1:
+  owner: ROM
+  controller: ROM
+  cores:
+    ROM: yes
+  resource: livestock
+  pop:
+    ethnicity: etruscan
+    religion: hellenism_religion
+    estate: peasant
+    size: 1000
+250.1.1:
+  pop:
+    ethnicity: roman
+    estate: peasant
+    size: 1000
+395.1.17:
+  owner: ROMW
+  controller: ROMW
+  cores:
+    ROM: no
+    ROMW: yes
+420.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+476.9.4:
+  owner: ITA
+  controller: ITA
+  cores:
+    ITA: yes
+480.1.1:
+  cores:
+    ROMW: no
+489.1.1:
+  owner: OSTR
+  controller: OSTR
+  cores:
+    ITA: no
+    OSTR: yes
+540.1.1:
+  owner: BYZ
+  controller: BYZ
+  cores:
+    BYZ: yes
+569.6.1:
+  owner: LOMB
+  controller: LOMB
+  cores:
+    OSTR: no
+    BYZ: no
+    LOMB: yes
+  pop:
+    ethnicity: tuscan
+    estate: peasant
+    size: 1000
+774.1.1:
+  owner: FRAN
+  controller: FRAN
+  cores:
+    LOMB: no
+    FRAN: yes
+840.6.21:
+  owner: MFRA
+  controller: MFRA
+  cores:
+    FRAN: no
+    MFRA: yes
+846.1.1:
+  owner: TUS
+  controller: TUS
+  cores:
+    MFRA: no
+    TUS: yes
+867.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+1115.7.24:
+  owner: FLO
+  controller: FLO
+  cores:
+    TUS: no
+    FLO: yes
+1527.1.1:
+  controller: SPA
+1529.8.3:
+  controller: FLO
+1569.8.1:
+  owner: TUS
+  controller: TUS
+  cores:
+    FLO: no
+    TUS: yes
+1750.1.1:
+  cores:
+    ITA: yes
+1801.2.9:
+  owner: FRA
+  controller: FRA
+  cores:
+    FRA: yes
+1801.3.21:
+  owner: ETRU
+  controller: ETRU
+  cores:
+    ETRU: yes
+1807.12.10:
+  owner: FRA
+  controller: FRA
+  cores:
+    ETRU: no
+1814.4.11:
+  owner: TUS
+  controller: TUS
+  cores:
+    FRA: no
+1859.12.8:
+  owner: ITAC
+  controller: ITAC
+  cores:
+    ITAC: yes
+1860.3.22:
+  owner: SPIE
+  controller: SPIE
+  cores:
+    PAP: no
+    ITAC: no
+    SPIE: yes
+1861.3.17:
+  owner: ITA
+  controller: ITA
+  cores:
+    SPIE: no
+    TUS: no
+    ITA: yes

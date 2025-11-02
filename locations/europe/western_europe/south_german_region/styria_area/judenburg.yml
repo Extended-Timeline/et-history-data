@@ -1,0 +1,153 @@
+#imported from EU4 file: history/provinces/132 - Steiermark.txt
+2.1.1:
+  owner: ROM
+  controller: ROM
+  cores:
+    ROM: yes
+  resource: grain
+  pop:
+    ethnicity: noric
+    religion: druidism
+    estate: peasant
+    size: 1000
+395.1.17:
+  owner: ROMW
+  controller: ROMW
+  cores:
+    ROM: no
+    ROMW: yes
+420.1.1:
+  pop:
+    ethnicity: danube_bavarian
+    religion: germanic
+    estate: peasant
+    size: 1000
+467.1.1:
+  owner: RUGI
+  controller: RUGI
+  cores:
+    ROMW: no
+    RUGI: yes
+487.1.1:
+  owner: ITA
+  controller: ITA
+489.1.1:
+  owner: OSTR
+  controller: OSTR
+  cores:
+    ITA: no
+    OSTR: yes
+526.8.30:
+  owner: LOMB
+  controller: LOMB
+  cores:
+    OSTR: no
+    LOMB: yes
+591.1.1:
+  owner: AVR
+  controller: AVR
+  cores:
+    LOMB: no
+    AVR: yes
+  pop:
+    ethnicity: slovene
+    religion: slavic
+    estate: peasant
+    size: 1000
+623.1.1:
+  owner: SAMO
+  controller: SAMO
+  cores:
+    AVR: no
+    SAMO: yes
+659.1.1:
+  owner: CART
+  controller: CART
+  cores:
+    SAMO: no
+    CART: yes
+745.1.1:
+  owner: BAV
+  controller: BAV
+  cores:
+    CART: no
+    BAV: yes
+750.1.1:
+  pop:
+    ethnicity: danube_bavarian
+    estate: peasant
+    size: 1000
+788.1.1:
+  owner: FRAN
+  controller: FRAN
+  cores:
+    BAV: no
+    FRAN: yes
+817.1.1:
+  owner: BAV
+  controller: BAV
+  cores:
+    FRAN: no
+    BAV: yes
+867.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+880.3.22:
+  owner: EFRA
+  controller: EFRA
+  cores:
+    EFRA: yes
+911.11.10:
+  owner: BAV
+  controller: BAV
+  cores:
+    EFRA: no
+    BAV: yes
+962.2.2:
+  owner: CART
+  controller: CART
+  cores:
+    BAV: no
+    CART: yes
+1180.1.1:
+  owner: STY
+  controller: STY
+  cores:
+    STY: yes
+1192.1.1:
+  owner: HAB
+  controller: HAB
+  cores:
+    HAB: yes
+1254.1.1:
+  owner: HUN
+  controller: HUN
+  cores:
+    HUN: yes
+1260.7.1:
+  owner: BOH
+  controller: BOH
+  cores:
+    HUN: no
+    BOH: yes
+1278.8.26:
+  owner: HAB
+  controller: HAB
+  cores:
+    BOH: no
+1900.1.1:
+  cores:
+    STY: no
+    CART: no
+1938.3.12:
+  owner: GER
+  controller: GER
+  cores:
+    GER: yes
+1945.5.8:
+  owner: HAB
+  controller: HAB
+  cores:
+    GER: no

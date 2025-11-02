@@ -1,0 +1,46 @@
+#imported from EU4 file: history/provinces/2663 - Nicoya.txt
+2.1.1:
+  pop:
+    ethnicity: muisca_culture
+    religion: muisca_religion
+    estate: peasant
+    size: 1000
+1544.1.1:
+  owner: SPA
+  controller: SPA
+  resource: naval_supplies
+  pop:
+    ethnicity: castilian
+    religion: catholic
+    estate: peasant
+    size: 1000
+1569.1.1:
+  cores:
+    SPA: yes
+1770.1.1:
+  pop:
+    ethnicity: mexican
+    estate: peasant
+    size: 1000
+1810.9.16:
+  owner: MEX
+  controller: SPA
+  cores:
+    MEX: yes
+1821.9.27:
+  controller: MEX
+1823.7.1:
+  owner: UPCA
+  controller: UPCA
+  cores:
+    MEX: no
+    UPCA: yes
+    COST: yes
+1838.5.31:
+  owner: COST
+  controller: COST
+  cores:
+    UPCA: no
+1850.5.10:
+  cores:
+    SPA: no

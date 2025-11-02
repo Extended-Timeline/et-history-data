@@ -1,0 +1,103 @@
+#imported from EU4 file: history/provinces/38 - Riga.txt
+2.1.1:
+  pop:
+    ethnicity: latvian
+    religion: romuva
+    estate: peasant
+    size: 1000
+550.1.1:
+  owner: LATG
+  controller: LATG
+  cores:
+    LATG: yes
+  resource: naval_supplies
+1202.1.1:
+  owner: LIV
+  controller: LIV
+  cores:
+    LIV: yes
+1207.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+1225.1.1:
+  owner: RIG
+  controller: RIG
+  cores:
+    LIV: no
+    LATG: no
+    RIG: yes
+  pop:
+    ethnicity: german_baltic
+    estate: peasant
+    size: 1000
+1522.1.1:
+  pop:
+    religion: lutheran
+    estate: peasant
+    size: 1000
+1581.1.14:
+  owner: PLC
+  controller: PLC
+  cores:
+    PLC: yes
+1621.9.15:
+  owner: SWE
+  controller: SWE
+1629.10.16:
+  cores:
+    PLC: no
+    SWE: yes
+1710.7.1:
+  controller: RUS
+1721.8.30:
+  owner: RUS
+  cores:
+    SWE: no
+    RUS: yes
+1905.1.1:
+  pop:
+    ethnicity: latvian
+    estate: peasant
+    size: 1000
+1917.9.3:
+  controller: GER
+1918.3.3:
+  owner: LVA
+  cores:
+    LVA: yes
+1918.4.12:
+  owner: GER
+  cores:
+    LVA: no
+    RIG: no
+    LATV: yes
+1918.11.11:
+  owner: RUS
+  controller: RUS
+1918.11.18:
+  owner: LATV
+  controller: LATV
+  cores:
+    RUS: no
+1939.8.23:
+  cores:
+    SOVI: yes
+1940.6.17:
+  owner: SOVI
+  controller: SOVI
+1941.7.1:
+  controller: GER
+1944.10.13:
+  controller: SOVI
+1991.9.6:
+  owner: LATV
+  controller: LATV
+  cores:
+    SOVI: no
+2020.1.1:
+  pop:
+    religion: irreligious
+    estate: peasant
+    size: 1000

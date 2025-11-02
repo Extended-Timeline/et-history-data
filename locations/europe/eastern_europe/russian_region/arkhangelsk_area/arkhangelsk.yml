@@ -1,0 +1,52 @@
+#imported from EU4 file: history/provinces/313 - Archangelsk.txt
+2.1.1:
+  pop:
+    ethnicity: nenets_culture
+    religion: muinaisusko
+    estate: peasant
+    size: 1000
+750.1.1:
+  owner: BJA
+  controller: BJA
+  cores:
+    BJA: yes
+  resource: fur
+1180.1.1:
+  owner: NOV
+  controller: NOV
+  cores:
+    NOV: yes
+1200.1.1:
+  pop:
+    ethnicity: novgorodian
+    estate: peasant
+    size: 1000
+1230.1.1:
+  pop:
+    religion: orthodox
+    estate: peasant
+    size: 1000
+1478.1.15:
+  owner: MOS
+  controller: MOS
+  cores:
+    NOV: no
+    MOS: yes
+1503.4.1:
+  owner: RUS
+  controller: RUS
+  cores:
+    MOS: no
+    RUS: yes
+1922.12.30:
+  owner: SOVI
+  controller: SOVI
+  cores:
+    RUS: no
+    SOVI: yes
+1991.12.25:
+  owner: RUS
+  controller: RUS
+  cores:
+    SOVI: no
+    RUS: yes

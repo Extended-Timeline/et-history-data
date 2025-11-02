@@ -1,0 +1,64 @@
+#imported from EU4 file: history/provinces/10 - Jamtland.txt
+2.1.1:
+  pop:
+    ethnicity: norwegian
+    religion: norse
+    estate: peasant
+    size: 1000
+750.1.1:
+  owner: JAMT
+  controller: JAMT
+  cores:
+    JAMT: yes
+  resource: fur
+1178.1.1:
+  owner: NOR
+  controller: NOR
+  cores:
+    JAMT: no
+    NOR: yes
+    SWE: yes
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+1527.6.1:
+  pop:
+    religion: lutheran
+    estate: peasant
+    size: 1000
+1536.1.1:
+  owner: DAN
+  controller: DAN
+  cores:
+    DAN: yes
+1564.2.10:
+  controller: SWE
+1570.11.18:
+  controller: DAN
+1611.8.1:
+  controller: SWE
+1613.1.20:
+  controller: DAN
+1644.2.1:
+  controller: SWE
+1644.8.1:
+  controller: DAN
+1645.8.13:
+  owner: SWE
+  controller: SWE
+1657.11.25:
+  controller: DAN
+1658.2.26:
+  controller: SWE
+1690.1.1:
+  pop:
+    ethnicity: swedish
+    estate: peasant
+    size: 1000
+1850.1.1:
+  cores:
+    DAN: no
+    NOR: no
+1920.1.1:
+  resource: paper

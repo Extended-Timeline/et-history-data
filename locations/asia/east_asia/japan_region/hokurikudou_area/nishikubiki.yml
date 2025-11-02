@@ -1,0 +1,83 @@
+#imported from EU4 file: history/provinces/1024 - Echigo.txt
+2.1.1:
+  owner: KOSH
+  controller: KOSH
+  cores:
+    KOSH: yes
+  resource: grain
+  pop:
+    ethnicity: koshibito
+    religion: shinto
+    estate: peasant
+    size: 1000
+500.1.1:
+  owner: YMT
+  controller: YMT
+  cores:
+    KOSH: no
+    YMT: yes
+  pop:
+    ethnicity: saigoku_culture
+    estate: peasant
+    size: 1000
+607.1.1:
+  pop:
+    religion: mahayana
+    estate: peasant
+    size: 1000
+712.1.1:
+  pop:
+    religion: shinto
+    estate: peasant
+    size: 1000
+750.1.1:
+  pop:
+    ethnicity: saigoku_culture
+    estate: peasant
+    size: 1000
+794.1.1:
+  owner: JAP
+  controller: JAP
+  cores:
+    YMT: no
+    JAP: yes
+1040.1.1:
+  owner: JO00
+  controller: JO00
+  cores:
+    JAP: no
+    JO00: yes
+1192.7.12:
+  owner: AMAG
+  controller: AMAG
+  cores:
+    AMAG: yes
+1221.5.14:
+  owner: HOJO
+  controller: HOJO
+  cores:
+    HOJO: yes
+1333.5.18:
+  owner: UES
+  controller: UES
+  cores:
+    HOJO: no
+    UES: yes
+1598.1.10:
+  owner: TOYO
+  controller: TOYO
+  cores:
+    UES: no
+    TOYO: yes
+1600.9.13:
+  owner: TOKU
+  controller: TOKU
+  cores:
+    TOYO: no
+    TOKU: yes
+1868.1.3:
+  owner: JAP
+  controller: JAP
+  cores:
+    TOKU: no
+    JAP: yes

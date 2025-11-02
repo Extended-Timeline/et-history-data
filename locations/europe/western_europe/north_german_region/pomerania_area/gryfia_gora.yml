@@ -1,0 +1,97 @@
+#imported from EU4 file: history/provinces/48 - Kolberg.txt
+2.1.1:
+  owner: LEMO
+  controller: LEMO
+  cores:
+    LEMO: yes
+  resource: fish
+  pop:
+    ethnicity: western_pomeranian
+    religion: germanic
+    estate: peasant
+    size: 1000
+130.1.1:
+  owner: RUGI
+  controller: RUGI
+  cores:
+    LEMO: no
+    RUGI: yes
+140.1.1:
+  owner: RUGE
+  controller: RUGE
+  cores:
+    RUGI: no
+    RUGE: yes
+395.1.1:
+  owner: POM
+  controller: POM
+  cores:
+    RUGE: no
+    POM: yes
+  pop:
+    ethnicity: kashubian
+    religion: slavic
+    estate: peasant
+    size: 1000
+1128.1.1:
+  pop:
+    ethnicity: western_pomeranian
+    religion: catholic
+    estate: peasant
+    size: 1000
+1186.1.1:
+  owner: DAN
+  controller: DAN
+  cores:
+    DAN: yes
+1227.1.1:
+  owner: POM
+  controller: POM
+  cores:
+    DAN: no
+1295.1.1:
+  owner: WOL
+  controller: WOL
+  cores:
+    POM: no
+    WOL: yes
+1529.1.1:
+  cores:
+    BRA: yes
+1534.1.1:
+  pop:
+    religion: lutheran
+    estate: peasant
+    size: 1000
+1648.10.24:
+  owner: BRA
+  controller: BRA
+1701.1.18:
+  owner: PRU
+  controller: PRU
+  cores:
+    BRA: no
+    PRU: yes
+1871.1.18:
+  owner: GER
+  controller: GER
+  cores:
+    PRU: no
+    GER: yes
+1900.1.1:
+  cores:
+    POM: no
+1945.4.26:
+  controller: SOVI
+1945.5.8:
+  owner: POL
+  controller: POL
+  cores:
+    GER: no
+    POL: yes
+1975.1.1:
+  pop:
+    ethnicity: lesser_polish
+    religion: catholic
+    estate: peasant
+    size: 1000

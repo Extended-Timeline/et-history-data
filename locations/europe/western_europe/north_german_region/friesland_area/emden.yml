@@ -1,0 +1,130 @@
+#imported from EU4 file: history/provinces/1931 - East Frisia.txt
+2.1.1:
+  owner: FRI
+  controller: FRI
+  cores:
+    FRI: yes
+  resource: salt
+  pop:
+    ethnicity: frisian
+    religion: germanic
+    estate: peasant
+    size: 1000
+58.1.1:
+  owner: CHCI
+  controller: CHCI
+  cores:
+    FRI: no
+    CHCI: yes
+  pop:
+    ethnicity: eastphalian
+    estate: peasant
+    size: 1000
+500.1.1:
+  owner: FRI
+  controller: FRI
+  cores:
+    CHCI: no
+    FRI: yes
+  pop:
+    ethnicity: frisian
+    estate: peasant
+    size: 1000
+734.1.1:
+  owner: FRAN
+  controller: FRAN
+  cores:
+    FRAN: yes
+800.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+839.1.1:
+  owner: FRI
+  controller: FRI
+  cores:
+    FRAN: no
+    FRI: yes
+867.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+896.1.1:
+  owner: EFRI
+  controller: EFRI
+  cores:
+    FRI: no
+    EFRI: yes
+1427.10.28:
+  controller: EFRI
+1519.1.1:
+  pop:
+    religion: lutheran
+    estate: peasant
+    size: 1000
+1537.1.1:
+  pop:
+    religion: calvinist
+    estate: peasant
+    size: 1000
+1744.5.26:
+  owner: PRU
+  controller: PRU
+  cores:
+    PRU: yes
+    EFRI: no
+1757.1.1:
+  controller: FRA
+1758.1.1:
+  controller: PRU
+1807.1.1:
+  owner: NED
+  controller: NED
+  cores:
+    PRU: no
+    NED: yes
+1810.7.10:
+  owner: FRA
+  controller: FRA
+  cores:
+    NED: no
+    FRA: yes
+1813.10.13:
+  owner: PRU
+  controller: PRU
+  cores:
+    FRA: no
+    PRU: yes
+1815.1.1:
+  owner: HAN
+  controller: HAN
+  cores:
+    PRU: no
+    HAN: yes
+1866.8.23:
+  owner: PRU
+  controller: PRU
+  cores:
+    PRU: yes
+1871.1.18:
+  owner: GER
+  controller: GER
+  cores:
+    PRU: no
+    GER: yes
+1900.1.1:
+  cores:
+    HAN: no
+    BRU: no
+1945.5.8:
+  owner: WGER
+  controller: WGER
+  cores:
+    WGER: yes
+1990.10.3:
+  owner: GER
+  controller: GER
+  cores:
+    WGER: no

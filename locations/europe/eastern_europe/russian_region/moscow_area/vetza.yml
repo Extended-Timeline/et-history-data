@@ -1,0 +1,62 @@
+#imported from EU4 file: history/provinces/4251 - Mozhaisk.txt
+2.1.1:
+  pop:
+    ethnicity: muscovite
+    religion: slavic
+    estate: peasant
+    size: 1000
+550.1.1:
+  owner: VYAT
+  controller: VYAT
+  cores:
+    VYAT: yes
+  resource: grain
+980.1.1:
+  owner: KIEV
+  controller: KIEV
+  cores:
+    VYAT: no
+    KIEV: yes
+1054.2.20:
+  owner: SMO
+  controller: SMO
+  cores:
+    KIEV: no
+    SMO: yes
+1200.1.1:
+  pop:
+    religion: orthodox
+    estate: peasant
+    size: 1000
+1303.1.1:
+  owner: MOS
+  controller: MOS
+  cores:
+    SMO: no
+    MOS: yes
+1503.4.1:
+  owner: RUS
+  controller: RUS
+  cores:
+    MOS: no
+    RUS: yes
+1610.7.1:
+  controller: PLC
+1613.1.1:
+  controller: RUS
+1922.12.30:
+  owner: SOVI
+  controller: SOVI
+  cores:
+    RUS: no
+    SOVI: yes
+1941.10.13:
+  controller: GER
+1941.12.18:
+  controller: SOVI
+1991.12.25:
+  owner: RUS
+  controller: RUS
+  cores:
+    SOVI: no
+    RUS: yes

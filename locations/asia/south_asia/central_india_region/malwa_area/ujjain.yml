@@ -1,0 +1,123 @@
+#imported from EU4 file: history/provinces/4461 - Ujjain.txt
+2.1.1:
+  owner: WSAT
+  controller: WSAT
+  cores:
+    WSAT: yes
+    MLW: yes
+  resource: spices
+  pop:
+    ethnicity: malvi
+    religion: jain
+    estate: peasant
+    size: 1000
+405.1.1:
+  owner: GUPT
+  controller: GUPT
+  cores:
+    WSAT: no
+    GUPT: yes
+500.1.1:
+  owner: MLW
+  controller: MLW
+  cores:
+    GUPT: no
+    MLW: yes
+610.1.1:
+  owner: GUJ
+  controller: GUJ
+  cores:
+    GUJ: yes
+620.1.1:
+  pop:
+    religion: hindu
+    estate: peasant
+    size: 1000
+745.1.1:
+  owner: GURJ
+  controller: GURJ
+  cores:
+    GUJ: no
+    GURJ: yes
+800.1.1:
+  owner: MLW
+  controller: MLW
+  cores:
+    GURJ: no
+    MLW: yes
+1151.1.1:
+  owner: GUJ
+  controller: GUJ
+1160.1.1:
+  owner: MLW
+  controller: MLW
+1305.1.1:
+  owner: DLH
+  controller: DLH
+  cores:
+    DLH: yes
+1392.1.1:
+  owner: MLW
+  controller: MLW
+  cores:
+    DLH: no
+1531.1.1:
+  controller: GUJ
+1532.1.1:
+  owner: GUJ
+  cores:
+    GUJ: yes
+1535.1.1:
+  controller: MUG
+1537.1.1:
+  owner: MLW
+  controller: MLW
+  cores:
+    GUJ: no
+1543.1.1:
+  owner: BNG
+  controller: BNG
+1545.5.22:
+  owner: MLW
+  controller: MLW
+1561.3.1:
+  controller: MUG
+1561.8.1:
+  controller: MLW
+1562.5.1:
+  controller: MUG
+1562.6.1:
+  owner: MUG
+  cores:
+    MUG: yes
+1565.1.1:
+  controller: MUG
+1622.8.1:
+  controller: MUG
+1658.6.25:
+  controller: MUG
+1724.1.1:
+  cores:
+    MHR: yes
+1735.1.1:
+  owner: MHR
+  controller: MHR
+  cores:
+    MUG: no
+    MHR: yes
+1818.6.3:
+  owner: GBR
+  controller: GBR
+  cores:
+    MHR: no
+    GBR: yes
+1930.1.1:
+  cores:
+    MLW: no
+    GUJ: no
+    INDI: yes
+1947.8.15:
+  owner: INDI
+  controller: INDI
+  cores:
+    GBR: no

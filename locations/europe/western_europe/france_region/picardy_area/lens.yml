@@ -1,0 +1,167 @@
+#imported from EU4 file: history/provinces/4769 - Lille.txt
+2.1.1:
+  owner: ROM
+  controller: ROM
+  cores:
+    ROM: yes
+  resource: cloth
+  pop:
+    ethnicity: belgae
+    religion: druidism
+    estate: peasant
+    size: 1000
+260.1.1:
+  cores:
+    GALL: yes
+  pop:
+    ethnicity: gallian
+    estate: peasant
+    size: 1000
+274.1.1:
+  controller: ROM
+  cores:
+    GALL: no
+  pop:
+    ethnicity: belgae
+    estate: peasant
+    size: 1000
+380.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+395.1.17:
+  owner: ROMW
+  controller: ROMW
+  cores:
+    ROM: no
+    ROMW: yes
+456.1.1:
+  owner: FRAN
+  controller: FRAN
+  cores:
+    ROMW: no
+    FRAN: yes
+486.6.1:
+  pop:
+    ethnicity: walloon
+    estate: peasant
+    size: 1000
+511.11.27:
+  owner: SOIS
+  controller: SOIS
+  cores:
+    SOIS: yes
+558.12.23:
+  owner: FRAN
+  controller: FRAN
+  cores:
+    FRAN: yes
+561.11.29:
+  owner: SOIS
+  controller: SOIS
+567.12.1:
+  owner: NEUS
+  controller: NEUS
+  cores:
+    SOIS: no
+    NEUS: yes
+613.10.10:
+  owner: FRAN
+  controller: FRAN
+  cores:
+    FRAN: yes
+634.1.1:
+  owner: NEUS
+  controller: NEUS
+679.12.23:
+  owner: FRAN
+  controller: FRAN
+840.6.21:
+  owner: WFRA
+  controller: WFRA
+  cores:
+    FRAN: no
+    WFRA: yes
+867.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+898.1.1:
+  owner: FLA
+  controller: FLA
+  cores:
+    WFRA: no
+    FLA: yes
+1190.1.1:
+  cores:
+    FRA: yes
+1214.7.27:
+  owner: FRA
+  controller: FRA
+1226.4.1:
+  cores:
+    FRA: yes
+1349.1.1:
+  owner: BUR
+  controller: BUR
+  cores:
+    FRA: no
+    BUR: yes
+1382.1.1:
+  owner: FLA
+  controller: FLA
+1477.1.5:
+  owner: HAB
+  controller: HAB
+  cores:
+    HAB: yes
+1519.1.12:
+  owner: SPA
+  controller: SPA
+  cores:
+    HAB: no
+    SPA: yes
+1549.11.4:
+  cores:
+    NED: yes
+1555.1.1:
+  pop:
+    religion: calvinist
+    estate: peasant
+    size: 1000
+1582.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+1648.1.30:
+  cores:
+    NED: no
+1667.1.1:
+  controller: FRA
+1668.5.2:
+  owner: FRA
+  cores:
+    SPA: no
+    FRA: yes
+1870.9.4:
+  owner: FRA
+  controller: FRA
+  cores:
+    FRA: yes
+1914.10.13:
+  controller: GER
+1918.10.17:
+  controller: FRA
+1920.1.1:
+  resource: cars
+1940.5.31:
+  controller: GER
+1940.6.14:
+  owner: GER
+1944.9.3:
+  controller: FRA
+1945.5.8:
+  owner: FRA

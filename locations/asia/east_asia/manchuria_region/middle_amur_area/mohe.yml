@@ -1,0 +1,46 @@
+#imported from EU4 file: history/provinces/1053 - Jiagedaqi.txt
+2.1.1:
+  pop:
+    ethnicity: evenk_culture
+    religion: 
+    estate: peasant
+    size: 1000
+1206.1.1:
+  owner: SOL
+  controller: SOL
+  cores:
+    SOL: yes
+  resource: fur
+1628.1.1:
+  owner: MCH
+  controller: MCH
+  cores:
+    MCH: yes
+  pop:
+    ethnicity: manchu_new
+    estate: peasant
+    size: 1000
+1636.5.15:
+  owner: QNG
+  controller: QNG
+  cores:
+    MCH: no
+    QNG: yes
+1912.2.12:
+  owner: CHI
+  controller: CHI
+  cores:
+    QNG: no
+    CHI: yes
+1924.11.3:
+  controller: CHI
+1932.2.18:
+  owner: MANC
+  controller: MANC
+  cores:
+    MANC: yes
+1945.8.15:
+  owner: CHI
+  controller: CHI
+  cores:
+    MANC: no

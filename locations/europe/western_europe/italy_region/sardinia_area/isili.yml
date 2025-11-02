@@ -1,0 +1,98 @@
+#imported from EU4 file: history/provinces/127 - Sardinia.txt
+2.1.1:
+  owner: ROM
+  controller: ROM
+  cores:
+    ROM: yes
+  resource: fish
+  pop:
+    ethnicity: sardinian
+    religion: hellenism_religion
+    estate: peasant
+    size: 1000
+395.1.17:
+  owner: ROMW
+  controller: ROMW
+  cores:
+    ROM: no
+    ROMW: yes
+456.1.1:
+  owner: VAND
+  controller: VAND
+  cores:
+    ROMW: no
+    VAND: yes
+534.1.1:
+  owner: BYZ
+  controller: BYZ
+  cores:
+    VAND: no
+    BYZ: yes
+594.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+867.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+1015.1.1:
+  owner: CAG
+  controller: CAG
+  cores:
+    BYZ: no
+    CAG: yes
+1258.1.1:
+  owner: PIS
+  controller: PIS
+  cores:
+    PIS: yes
+1325.1.1:
+  controller: ARA
+1326.6.1:
+  owner: ARA
+  cores:
+    ARA: yes
+    SAR: yes
+1370.1.1:
+  controller: ARB
+1388.1.1:
+  controller: ARA
+1391.4.1:
+  controller: ARB
+1409.6.30:
+  controller: ARA
+1426.1.1:
+  cores:
+    PIS: no
+1516.1.23:
+  owner: SPA
+  controller: SPA
+  cores:
+    ARA: no
+    SPA: yes
+1713.4.12:
+  owner: HAB
+  controller: HAB
+  cores:
+    SPA: no
+    HAB: yes
+1720.1.1:
+  owner: SPIE
+  controller: SPIE
+  cores:
+    HAB: no
+    SPIE: yes
+1796.1.1:
+  controller: FRA
+1796.4.16:
+  controller: SPIE
+1861.3.17:
+  owner: ITA
+  controller: ITA
+  cores:
+    SPIE: no
+    SAR: no
+    ITA: yes

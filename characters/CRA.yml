@@ -1,0 +1,37 @@
+cra_tunupa_charca:
+  1414.1.1:
+    birth: charka #TODO: Date and location guessed, check if better data is available
+    first_name: tunupa
+    dynasty: charca_dynasty
+    adm: 15
+    dip: 15
+    mil: 45
+    religion: inti
+    culture: aimara_culture
+  1470.1.1:
+    death: yes
+cra_anquimarca_charca:
+  1430.1.1:
+    birth: charka #TODO: Date and location guessed, check if better data is available
+    first_name: anquimarca
+    dynasty: charca_dynasty
+    father: cra_tunupa_charca #TODO: check if this makes sense
+    adm: 15
+    dip: 15
+    mil: 15
+    religion: inti
+    culture: aimara_culture
+  1476.1.1:
+    death: yes
+cra_anquimarca_charca_1:
+  1440.1.1:
+    birth: charka #TODO: Date and location guessed, check if better data is available
+    first_name: anquimarca
+    dynasty: charca_dynasty
+    adm: 15
+    dip: 15
+    mil: 15
+    religion: inti
+    culture: aimara_culture
+  3000.1.1:
+    death: yes

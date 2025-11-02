@@ -1,0 +1,124 @@
+#imported from EU4 file: history/provinces/2349 - Kizil-Su.txt
+2.1.1:
+  resource: fish
+  pop:
+    ethnicity: turkmen_culture
+    religion: zoroastrian
+    estate: peasant
+    size: 1000
+750.1.1:
+  owner: OGHU
+  controller: OGHU
+  cores:
+    OGHU: yes
+920.1.1:
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+1035.1.1:
+  owner: SELJ
+  controller: SELJ
+  cores:
+    OGHU: no
+    SELJ: yes
+1153.1.1:
+  owner: KHWA
+  controller: KHWA
+  cores:
+    SELJ: no
+    KHWA: yes
+1231.1.1:
+  owner: MGE
+  controller: MGE
+  cores:
+    KHWA: no
+    MGE: yes
+    IRA: yes
+1260.1.1:
+  owner: ILK
+  controller: ILK
+  cores:
+    MGE: no
+    ILK: yes
+1335.1.1:
+  owner: ASR
+  controller: ASR
+  cores:
+    ILK: no
+    ASR: yes
+1366.1.1:
+  owner: SBZ
+  controller: SBZ
+  cores:
+    SBZ: yes
+1374.1.1:
+  owner: ASR
+  controller: ASR
+  cores:
+    SBZ: no
+1380.1.1:
+  cores:
+    TIM: yes
+1384.1.1:
+  owner: TIM
+  controller: TIM
+  cores:
+    ASR: no
+    KHOR: yes
+1409.5.13:
+  owner: TRAN
+  controller: TRAN
+  cores:
+    TRAN: yes
+1448.3.1:
+  owner: TIM
+  controller: TIM
+  cores:
+    TRAN: no
+1502.1.1:
+  owner: KHOR
+  controller: KHOR
+  cores:
+    TIM: no
+    KHOR: yes
+1505.1.1:
+  controller: BUKH
+1506.1.1:
+  owner: BUKH
+  cores:
+    KHOR: no
+    BUKH: yes
+1511.1.1:
+  owner: KHIV
+  controller: KHIV
+  cores:
+    BUKH: no
+1740.1.1:
+  owner: IRA
+  controller: IRA
+1747.6.19:
+  owner: KHIV
+  controller: KHIV
+1879.1.1:
+  owner: RUS
+  controller: RUS
+  cores:
+    RUS: yes
+1922.12.30:
+  owner: SOVI
+  controller: SOVI
+  cores:
+    RUS: no
+    SOVI: yes
+1924.10.27:
+  cores:
+    KHIV: no
+    BUKH: no
+    TUKM: yes
+1991.10.27:
+  owner: TUKM
+  controller: TUKM
+  cores:
+    SOVI: no
+    RUS: no

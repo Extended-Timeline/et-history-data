@@ -1,0 +1,55 @@
+#imported from EU4 file: history/provinces/749 - Maranhao.txt
+2.1.1:
+  pop:
+    ethnicity: akwe_culture
+    religion: muisca_religion
+    estate: peasant
+    size: 1000
+1612.1.1:
+  owner: FRA
+  controller: FRA
+  cores:
+    FRA: yes
+  resource: tropical_wood
+  pop:
+    ethnicity: french
+    religion: catholic
+    estate: peasant
+    size: 1000
+1615.1.1:
+  owner: POR
+  controller: POR
+  cores:
+    FRA: no
+    POR: yes
+  pop:
+    ethnicity: portuguese
+    estate: peasant
+    size: 1000
+1641.1.1:
+  owner: NED
+  controller: NED
+  pop:
+    ethnicity: low_franconian
+    religion: calvinist
+    estate: peasant
+    size: 1000
+1644.1.1:
+  owner: POR
+  controller: POR
+  pop:
+    ethnicity: portuguese
+    religion: catholic
+    estate: peasant
+    size: 1000
+1780.1.1:
+  pop:
+    ethnicity: brazilian
+    estate: peasant
+    size: 1000
+1822.9.7:
+  owner: BRAZ
+  controller: BRAZ
+  cores:
+    POR: no
+    BRAZ: yes

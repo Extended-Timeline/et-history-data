@@ -1,0 +1,137 @@
+#imported from EU4 file: history/provinces/2980 - Lucca.txt
+2.1.1:
+  owner: ROM
+  controller: ROM
+  cores:
+    ROM: yes
+  resource: cloth
+  pop:
+    ethnicity: etruscan
+    religion: hellenism_religion
+    estate: peasant
+    size: 1000
+250.1.1:
+  pop:
+    ethnicity: roman
+    estate: peasant
+    size: 1000
+395.1.17:
+  owner: ROMW
+  controller: ROMW
+  cores:
+    ROM: no
+    ROMW: yes
+420.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+476.9.4:
+  owner: ITA
+  controller: ITA
+  cores:
+    ITA: yes
+480.1.1:
+  cores:
+    ROMW: no
+489.1.1:
+  owner: OSTR
+  controller: OSTR
+  cores:
+    ITA: no
+    OSTR: yes
+540.1.1:
+  owner: BYZ
+  controller: BYZ
+  cores:
+    BYZ: yes
+569.6.1:
+  owner: LOMB
+  controller: LOMB
+  cores:
+    OSTR: no
+    BYZ: no
+    LOMB: yes
+  pop:
+    ethnicity: tuscan
+    estate: peasant
+    size: 1000
+774.1.1:
+  owner: FRAN
+  controller: FRAN
+  cores:
+    LOMB: no
+    FRAN: yes
+840.6.21:
+  owner: MFRA
+  controller: MFRA
+  cores:
+    FRAN: no
+    MFRA: yes
+846.1.1:
+  owner: TUS
+  controller: TUS
+  cores:
+    MFRA: no
+    TUS: yes
+867.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+1115.7.24:
+  owner: LUC
+  controller: LUC
+  cores:
+    TUS: no
+    LUC: yes
+1314.1.1:
+  owner: PIS
+  controller: PIS
+  cores:
+    PIS: yes
+1316.6.12:
+  owner: LUC
+  controller: LUC
+  cores:
+    PIS: no
+1399.1.1:
+  owner: MLO
+  controller: MLO
+  cores:
+    MLO: yes
+1402.9.3:
+  owner: LUC
+  controller: LUC
+  cores:
+    MLO: no
+1805.6.10:
+  owner: FRA
+  controller: FRA
+  cores:
+    FRA: yes
+1814.4.11:
+  owner: TUS
+  controller: TUS
+  cores:
+    FRA: no
+    TUS: yes
+1859.12.8:
+  owner: ITAC
+  controller: ITAC
+  cores:
+    ITAC: yes
+1860.3.22:
+  owner: SPIE
+  controller: SPIE
+  cores:
+    ITAC: no
+    TUS: no
+    SPIE: yes
+1861.3.17:
+  owner: ITA
+  controller: ITA
+  cores:
+    SPIE: no
+    PIS: no
+    ITA: yes

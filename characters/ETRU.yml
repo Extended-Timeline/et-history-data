@@ -1,0 +1,37 @@
+etru_lodovico_i_bourbon:
+  1771.1.1:
+    birth: florence #TODO: Date and location guessed, check if better data is available
+    first_name: lodovico
+    dynasty: bourbon_dynasty
+    adm: 45
+    dip: 60
+    mil: 45
+    religion: catholic
+    culture: tuscan
+  1803.5.27:
+    death: yes
+etru_lodovico_ii_bourbon:
+  1799.12.22:
+    birth: florence #TODO: Location guessed, check if better data is available
+    first_name: lodovico
+    dynasty: bourbon_dynasty
+    father: etru_lodovico_i_bourbon #TODO: check if this makes sense
+    adm: 30
+    dip: 45
+    mil: 45
+    religion: catholic
+    culture: tuscan
+  1883.4.16:
+    death: yes
+etru_lodovico_ii_bourbon_1:
+  1773.1.1:
+    birth: florence #TODO: Date and location guessed, check if better data is available
+    first_name: lodovico
+    dynasty: bourbon_dynasty
+    adm: 30
+    dip: 45
+    mil: 45
+    religion: catholic
+    culture: tuscan
+  3000.1.1:
+    death: yes

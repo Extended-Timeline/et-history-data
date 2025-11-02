@@ -1,0 +1,91 @@
+#imported from EU4 file: history/provinces/1212 - Zeila.txt
+2.1.1:
+  owner: AVAL
+  controller: AVAL
+  cores:
+    AVAL: yes
+  resource: incense
+  pop:
+    ethnicity: somali_culture
+    religion: bantu_religion
+    estate: peasant
+    size: 1000
+550.1.1:
+  owner: PIPA
+  controller: PIPA
+  cores:
+    AVAL: no
+    PIPA: yes
+650.1.1:
+  owner: ADA
+  controller: ADA
+  cores:
+    PIPA: no
+    ADA: yes
+670.1.1:
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+1185.1.1:
+  owner: IFA
+  controller: IFA
+  cores:
+    ADA: no
+    IFA: yes
+1415.1.1:
+  owner: ADA
+  controller: ADA
+  cores:
+    IFA: no
+    ADA: yes
+1559.1.1:
+  owner: HARA
+  controller: HARA
+  cores:
+    HARA: yes
+1577.1.1:
+  owner: TUR
+  controller: TUR
+  cores:
+    TUR: yes
+1644.1.1:
+  owner: RASS
+  controller: RASS
+  cores:
+    TUR: no
+    RASS: yes
+1728.1.1:
+  owner: ADEN
+  controller: ADEN
+  cores:
+    RASS: no
+    ADEN: yes
+1875.1.1:
+  owner: EGY
+  controller: EGY
+  cores:
+    ADEN: no
+    EGY: yes
+1884.1.1:
+  owner: GBR
+  controller: GBR
+  cores:
+    EGY: no
+    GBR: yes
+1887.1.6:
+  cores:
+    ADA: no
+1940.8.1:
+  controller: ITA
+1941.3.1:
+  controller: GBR
+1960.7.1:
+  owner: SOMA
+  controller: SOMA
+  cores:
+    GBR: no
+    SOMA: yes
+2009.1.31:
+  cores:
+    SOML: yes

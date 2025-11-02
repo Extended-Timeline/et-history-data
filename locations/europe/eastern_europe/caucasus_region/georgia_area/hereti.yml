@@ -1,0 +1,186 @@
+#imported from EU4 file: history/provinces/420 - Qarabagh.txt
+2.1.1:
+  owner: ARM
+  controller: ARM
+  cores:
+    ARM: yes
+  resource: cotton
+  pop:
+    ethnicity: aghwan
+    religion: zoroastrian
+    estate: peasant
+    size: 1000
+114.1.1:
+  owner: ROM
+  controller: ROM
+  cores:
+    ROM: yes
+117.1.1:
+  owner: ARM
+  controller: ARM
+  cores:
+    ROM: no
+387.1.1:
+  owner: CALB
+  controller: CALB
+  cores:
+    ARM: no
+    CALB: yes
+460.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+506.1.1:
+  pop:
+    religion: miaphysite
+    estate: peasant
+    size: 1000
+822.1.1:
+  owner: ABBA
+  controller: ABBA
+  cores:
+    ABBA: yes
+861.1.1:
+  owner: SHIR
+  controller: SHIR
+  cores:
+    ABBA: no
+    SHIR: yes
+890.1.1:
+  owner: AZER
+  controller: AZER
+  cores:
+    SHIR: no
+    AZER: yes
+920.1.1:
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+951.1.1:
+  owner: GANJ
+  controller: GANJ
+  cores:
+    AZER: no
+    GANJ: yes
+1075.1.1:
+  owner: SELJ
+  controller: SELJ
+  cores:
+    SELJ: yes
+1080.1.1:
+  pop:
+    ethnicity: azeri_culture
+    estate: peasant
+    size: 1000
+1124.1.1:
+  owner: GEO
+  controller: GEO
+  cores:
+    SELJ: no
+    GEO: yes
+1225.1.1:
+  owner: KHWA
+  controller: KHWA
+  cores:
+    GEO: no
+    KHWA: yes
+1236.1.1:
+  owner: MGE
+  controller: MGE
+  cores:
+    ARM: no
+    KHWA: no
+    MGE: yes
+1240.1.1:
+  pop:
+    religion: shia
+    estate: peasant
+    size: 1000
+1260.1.1:
+  owner: GANJ
+  controller: GANJ
+  cores:
+    MGE: no
+    GANJ: yes
+1375.1.1:
+  owner: QAKO
+  controller: QAKO
+  cores:
+    GANJ: no
+    QAKO: yes
+1458.12.1:
+  controller: QAKO
+1468.1.1:
+  owner: AKQO
+  controller: AKQO
+  cores:
+    QAKO: no
+    AKQO: yes
+1468.8.1:
+  controller: TIM
+1469.2.4:
+  controller: AKQO
+1501.7.1:
+  owner: IRA
+  controller: IRA
+  cores:
+    AKQO: no
+    IRA: yes
+1554.1.1:
+  controller: TUR
+1555.5.29:
+  controller: IRA
+1588.1.1:
+  controller: TUR
+1590.3.21:
+  owner: TUR
+  cores:
+    TUR: yes
+1607.1.1:
+  controller: IRA
+1612.11.20:
+  owner: IRA
+  cores:
+    TUR: no
+1747.1.1:
+  owner: GANJ
+  controller: GANJ
+1781.1.1:
+  owner: KCN
+  controller: KCN
+  cores:
+    KCN: yes
+1784.1.1:
+  owner: GANJ
+  controller: GANJ
+  cores:
+    KCN: no
+1804.1.15:
+  controller: RUS
+1805.1.1:
+  owner: RUS
+  cores:
+    IRA: no
+    RUS: yes
+1918.5.28:
+  owner: AZER
+  controller: AZER
+  cores:
+    AZER: yes
+1920.4.28:
+  owner: RUS
+  controller: RUS
+1922.12.30:
+  owner: SOVI
+  controller: SOVI
+  cores:
+    RUS: no
+    SOVI: yes
+1991.8.30:
+  owner: AZER
+  controller: AZER
+  cores:
+    SOVI: no
+    RUS: no

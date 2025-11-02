@@ -1,0 +1,118 @@
+#imported from EU4 file: history/provinces/230 - Algarve.txt
+2.1.1:
+  owner: ROM
+  controller: ROM
+  cores:
+    ROM: yes
+  resource: fish
+  pop:
+    ethnicity: turduli
+    religion: druidism
+    estate: peasant
+    size: 1000
+340.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+395.1.17:
+  owner: ROMW
+  controller: ROMW
+  cores:
+    ROM: no
+    ROMW: yes
+440.1.1:
+  owner: SUEB
+  controller: SUEB
+  cores:
+    SUEB: yes
+456.1.1:
+  owner: VISG
+  controller: VISG
+  cores:
+    SUEB: no
+    VISG: yes
+458.10.1:
+  owner: ROMW
+  controller: ROMW
+461.8.2:
+  owner: VISG
+  controller: VISG
+  cores:
+    ROMW: no
+711.1.1:
+  owner: UMAY
+  controller: UMAY
+  cores:
+    VISG: no
+    UMAY: yes
+750.8.6:
+  owner: CRDB
+  controller: CRDB
+  cores:
+    UMAY: no
+    CRDB: yes
+780.1.1:
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+800.1.1:
+  pop:
+    ethnicity: andalusi
+    estate: peasant
+    size: 1000
+1023.1.1:
+  owner: SEVI
+  controller: SEVI
+  cores:
+    CRDB: no
+    SEVI: yes
+1040.1.1:
+  owner: SILV
+  controller: SILV
+  cores:
+    SEVI: no
+    SILV: yes
+1063.1.1:
+  owner: SEVI
+  controller: SEVI
+  cores:
+    SEVI: yes
+1091.1.1:
+  owner: MOR
+  controller: MOR
+  cores:
+    SEVI: no
+    MOR: yes
+1145.1.1:
+  owner: SILV
+  controller: SILV
+  cores:
+    MOR: no
+    SILV: yes
+1151.1.1:
+  owner: MOR
+  controller: MOR
+  cores:
+    MOR: yes
+1249.1.1:
+  owner: POR
+  controller: POR
+  cores:
+    SILV: no
+    MOR: no
+    POR: yes
+  pop:
+    ethnicity: portuguese
+    estate: peasant
+    size: 1000
+1290.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+1807.11.30:
+  controller: SPA
+1808.6.18:
+  controller: POR

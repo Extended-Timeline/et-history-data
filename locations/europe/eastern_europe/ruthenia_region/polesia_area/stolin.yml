@@ -1,0 +1,118 @@
+#imported from EU4 file: history/provinces/278 - Pinsk.txt
+2.1.1:
+  pop:
+    ethnicity: polatskian_culture
+    religion: slavic
+    estate: peasant
+    size: 1000
+550.1.1:
+  owner: LEDN
+  controller: LEDN
+  cores:
+    LEDN: yes
+  resource: wool
+981.1.1:
+  owner: KIEV
+  controller: KIEV
+  cores:
+    LEDN: no
+    KIEV: yes
+1000.1.1:
+  pop:
+    religion: orthodox
+    estate: peasant
+    size: 1000
+1054.2.20:
+  owner: KIE
+  controller: KIE
+  cores:
+    KIEV: no
+    KIE: yes
+1162.1.1:
+  owner: TUV
+  controller: TUV
+  cores:
+    KIE: no
+    TUV: yes
+1230.1.1:
+  owner: HAL
+  controller: HAL
+  cores:
+    HAL: yes
+1240.1.1:
+  owner: TUV
+  controller: TUV
+  cores:
+    TUV: yes
+1320.1.1:
+  owner: LIT
+  controller: LIT
+  cores:
+    HAL: no
+    LIT: yes
+1350.1.1:
+  pop:
+    religion: orthodox
+    estate: peasant
+    size: 1000
+1569.7.1:
+  owner: PLC
+  controller: PLC
+  cores:
+    PLC: yes
+1648.1.1:
+  cores:
+    UKR: yes
+    ZAZ: yes
+1654.1.1:
+  controller: PLC
+  cores:
+    ZAZ: no
+1655.10.5:
+  controller: RUS
+1656.1.1:
+  controller: PLC
+1793.1.23:
+  owner: RUS
+  controller: RUS
+  cores:
+    RUS: yes
+1915.10.1:
+  controller: GER
+1918.3.3:
+  controller: RUS
+1918.3.25:
+  owner: BELA
+  controller: BELA
+  cores:
+    UKR: no
+    BELA: yes
+1919.4.27:
+  controller: POL
+1920.7.20:
+  controller: BELA
+1920.9.23:
+  controller: POL
+1921.3.18:
+  owner: POL
+  cores:
+    RUS: no
+    POL: yes
+1939.9.22:
+  controller: SOVI
+1939.10.6:
+  owner: SOVI
+  cores:
+    SOVI: yes
+1941.6.23:
+  controller: GER
+1944.7.3:
+  controller: SOVI
+1945.5.8:
+  cores:
+    POL: no
+1990.7.27:
+  owner: BELA
+  controller: BELA
+  cores:
+    SOVI: no

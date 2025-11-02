@@ -1,0 +1,41 @@
+#imported from EU4 file: history/provinces/4094 - Moxico.txt
+2.1.1:
+  pop:
+    ethnicity: chokwe
+    religion: bantu_religion
+    estate: peasant
+    size: 1000
+1350.1.1:
+  owner: CHO
+  controller: CHO
+  cores:
+    CHO: yes
+  resource: ivory
+1700.1.1:
+  owner: LND
+  controller: LND
+  cores:
+    LND: yes
+1850.1.1:
+  owner: CHO
+  controller: CHO
+  cores:
+    LND: no
+    CHO: yes
+1930.1.1:
+  owner: POR
+  controller: POR
+  cores:
+    POR: yes
+1950.1.1:
+  pop:
+    religion: lutheran
+    estate: peasant
+    size: 1000
+1975.11.11:
+  owner: ANGO
+  controller: ANGO
+  cores:
+    POR: no
+    NDON: no
+    ANGO: yes

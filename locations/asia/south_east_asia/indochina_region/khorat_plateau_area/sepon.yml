@@ -1,0 +1,72 @@
+#imported from EU4 file: history/provinces/2382 - Savannakhet.txt
+2.1.1:
+  pop:
+    ethnicity: bru_culture
+    religion: bimoism
+    estate: peasant
+    size: 1000
+550.1.1:
+  owner: BVK
+  controller: BVK
+  cores:
+    BVK: yes
+  resource: copper
+880.1.1:
+  owner: CAMB
+  controller: CAMB
+  cores:
+    CAMB: yes
+1050.1.1:
+  owner: BVK
+  controller: BVK
+  cores:
+    CAMB: no
+    BVK: yes
+1185.1.1:
+  owner: CAMB
+  controller: CAMB
+  cores:
+    CAMB: yes
+1190.1.1:
+  pop:
+    ethnicity: lao_culture
+    religion: satsana_phi
+    estate: peasant
+    size: 1000
+1195.1.1:
+  owner: SGOT
+  controller: SGOT
+  cores:
+    CAMB: no
+    SGOT: yes
+1354.1.1:
+  owner: LAXA
+  controller: LAXA
+  cores:
+    LAXA: yes
+1610.1.1:
+  pop:
+    religion: theravada
+    estate: peasant
+    size: 1000
+1707.1.1:
+  owner: VTN
+  controller: VTN
+  cores:
+    LAXA: no
+    VTN: yes
+1828.11.12:
+  owner: RTP
+  controller: RTP
+  cores:
+    RTP: yes
+1893.10.3:
+  owner: LAOS
+  controller: LAOS
+  cores:
+    RTP: no
+    LAOS: yes
+1941.1.1:
+  controller: JAP
+1945.8.23:
+  controller: LAOS

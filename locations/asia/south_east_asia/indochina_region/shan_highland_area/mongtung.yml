@@ -1,0 +1,50 @@
+#imported from EU4 file: history/provinces/4398 - Mawkmai.txt
+2.1.1:
+  owner: PALN
+  controller: PALN
+  cores:
+    PALN: yes
+  resource: grain
+  pop:
+    ethnicity: wa_culture
+    religion: bimoism
+    estate: peasant
+    size: 1000
+600.1.1:
+  pop:
+    ethnicity: tai_lu_culture
+    religion: satsana_phi
+    estate: peasant
+    size: 1000
+630.1.1:
+  owner: HARI
+  controller: HARI
+  cores:
+    PALN: no
+    HARI: yes
+1100.1.1:
+  owner: MOPA
+  controller: MOPA
+  cores:
+    HARI: no
+    MOPA: yes
+1700.1.1:
+  pop:
+    religion: theravada
+    estate: peasant
+    size: 1000
+1942.5.1:
+  controller: SIA
+1945.3.1:
+  controller: MOPA
+1959.1.1:
+  owner: BURM
+  controller: BURM
+  cores:
+    BURM: yes
+1989.1.1:
+  owner: MYAN
+  controller: MYAN
+  cores:
+    BURM: no
+    MYAN: yes

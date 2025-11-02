@@ -1,0 +1,88 @@
+#imported from EU4 file: history/provinces/2324 - Halaib.txt
+2.1.1:
+  owner: BLEM
+  controller: BLEM
+  cores:
+    BLEM: yes
+  resource: slaves
+  pop:
+    ethnicity: beja_culture
+    religion: egyptian
+    estate: peasant
+    size: 1000
+550.1.1:
+  pop:
+    religion: miaphysite
+    estate: peasant
+    size: 1000
+650.1.1:
+  owner: TANK
+  controller: TANK
+  cores:
+    BLEM: no
+    TANK: yes
+680.1.1:
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+980.1.1:
+  owner: FATI
+  controller: FATI
+  cores:
+    FATI: yes
+1050.1.1:
+  owner: TANK
+  controller: TANK
+  cores:
+    FATI: no
+    TANK: yes
+1264.1.1:
+  owner: MAM
+  controller: MAM
+  cores:
+    EGY: no
+    MAM: yes
+1517.1.1:
+  owner: TANK
+  controller: TANK
+  cores:
+    MAM: no
+    TANK: yes
+1540.1.1:
+  owner: TUR
+  controller: TUR
+  cores:
+    TUR: yes
+1805.5.17:
+  owner: EGY
+  controller: EGY
+  cores:
+    EGY: yes
+1830.1.1:
+  resource: livestock
+1882.9.13:
+  owner: GBR
+  controller: GBR
+  cores:
+    TUR: no
+    GBR: yes
+1899.6.19:
+  cores:
+    FUNJ: no
+    SUDA: yes
+1914.12.19:
+  owner: EGY
+  controller: EGY
+  cores:
+    GBR: no
+1958.2.22:
+  owner: AIA
+  controller: AIA
+  cores:
+    AIA: yes
+1971.9.2:
+  owner: EGY
+  controller: EGY
+  cores:
+    AIA: no

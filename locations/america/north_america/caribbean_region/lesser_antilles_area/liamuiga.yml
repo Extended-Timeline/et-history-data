@@ -1,0 +1,43 @@
+#imported from EU4 file: history/provinces/495 - St. Kitts.txt
+2.1.1:
+  pop:
+    ethnicity: arawak_culture
+    religion: muisca_religion
+    estate: peasant
+    size: 1000
+1623.1.1:
+  owner: FRA
+  controller: FRA
+  resource: sugar
+  pop:
+    ethnicity: french
+    religion: catholic
+    estate: peasant
+    size: 1000
+1648.1.1:
+  cores:
+    FRA: yes
+1713.4.11:
+  owner: GBR
+  controller: GBR
+  cores:
+    FRA: no
+    GBR: yes
+  pop:
+    ethnicity: english
+    religion: lutheran
+    estate: peasant
+    size: 1000
+1780.1.1:
+  pop:
+    ethnicity: british_caribbean
+    estate: peasant
+    size: 1000
+1967.1.1:
+  cores:
+    SKNE: yes
+1983.9.19:
+  owner: SKNE
+  controller: SKNE
+  cores:
+    GBR: no

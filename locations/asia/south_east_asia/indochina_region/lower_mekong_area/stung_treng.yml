@@ -1,0 +1,40 @@
+#imported from EU4 file: history/provinces/1823 - Stung Treng.txt
+2.1.1:
+  owner: CAMB
+  controller: CAMB
+  cores:
+    CAMB: yes
+  resource: grain
+  pop:
+    ethnicity: bahnar_culture
+    religion: bimoism
+    estate: peasant
+    size: 1000
+450.1.1:
+  owner: CHEN
+  controller: CHEN
+  cores:
+    CAMB: no
+    CHEN: yes
+707.2.6:
+  owner: LCHE
+  controller: LCHE
+  cores:
+    CHEN: no
+    LCHE: yes
+810.1.1:
+  owner: CAMB
+  controller: CAMB
+  cores:
+    LCHE: no
+    CAMB: yes
+1431.1.1:
+  owner: KHM
+  controller: KHM
+  cores:
+    CAMB: no
+    KHM: yes
+1941.7.1:
+  controller: JAP
+1945.8.23:
+  controller: KHM

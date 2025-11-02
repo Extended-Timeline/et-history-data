@@ -1,0 +1,152 @@
+#imported from EU4 file: history/provinces/414 - Hamadan.txt
+2.1.1:
+  owner: PART
+  controller: PART
+  cores:
+    PART: yes
+  resource: cloth
+  pop:
+    ethnicity: farsi_culture
+    religion: zoroastrian
+    estate: peasant
+    size: 1000
+224.4.24:
+  owner: ERA
+  controller: ERA
+  cores:
+    PART: no
+    ERA: yes
+638.1.1:
+  owner: RASH
+  controller: RASH
+  cores:
+    ERA: no
+    RASH: yes
+  pop:
+    religion: islam
+    estate: peasant
+    size: 1000
+661.7.28:
+  owner: UMAY
+  controller: UMAY
+  cores:
+    RASH: no
+    UMAY: yes
+  pop:
+    religion: shia
+    estate: peasant
+    size: 1000
+750.8.6:
+  owner: ABBA
+  controller: ABBA
+  cores:
+    UMAY: no
+    ABBA: yes
+800.1.1:
+  owner: QOM
+  controller: QOM
+  cores:
+    QOM: yes
+898.1.1:
+  owner: ABBA
+  controller: ABBA
+  cores:
+    ABBA: yes
+931.1.1:
+  owner: MZN
+  controller: MZN
+  cores:
+    ABBA: no
+    MZN: yes
+935.1.1:
+  owner: QOM
+  controller: QOM
+  cores:
+    MZN: no
+    QOM: yes
+1029.1.1:
+  owner: ISFA
+  controller: ISFA
+  cores:
+    ISFA: yes
+1047.1.1:
+  owner: SELJ
+  controller: SELJ
+  cores:
+    SELJ: yes
+1194.1.1:
+  owner: KHWA
+  controller: KHWA
+  cores:
+    SELJ: no
+    KHWA: yes
+1231.1.1:
+  owner: MGE
+  controller: MGE
+  cores:
+    KHWA: no
+    MGE: yes
+    IRA: yes
+1260.1.1:
+  owner: ILK
+  controller: ILK
+  cores:
+    MGE: no
+    ILK: yes
+1335.1.1:
+  owner: JAL
+  controller: JAL
+  cores:
+    ILK: no
+    JAL: yes
+1357.1.1:
+  owner: IRA
+  controller: IRA
+  cores:
+    JAL: no
+    IRA: yes
+1380.1.1:
+  cores:
+    TIM: yes
+1384.1.1:
+  owner: TIM
+  controller: TIM
+1442.1.1:
+  owner: QOM
+  controller: QOM
+  cores:
+    QOM: yes
+1451.1.1:
+  owner: QAKO
+  controller: QAKO
+  cores:
+    TIM: no
+    QAKO: yes
+1458.12.1:
+  controller: QAKO
+1469.2.4:
+  owner: AKQO
+  controller: AKQO
+  cores:
+    QAKO: no
+    AKQO: yes
+1504.1.1:
+  owner: IRA
+  controller: IRA
+  cores:
+    AKQO: no
+    IRA: yes
+1535.1.1:
+  controller: TUR
+1536.1.1:
+  controller: IRA
+1587.1.1:
+  controller: TUR
+1590.3.21:
+  controller: IRA
+1935.1.1:
+  owner: IRAN
+  controller: IRAN
+  cores:
+    IRA: no
+    IRAN: yes

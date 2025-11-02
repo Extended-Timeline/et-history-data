@@ -1,0 +1,146 @@
+#imported from EU4 file: history/provinces/447 - Kandahar.txt
+2.1.1:
+  owner: IPAR
+  controller: IPAR
+  cores:
+    IPAR: yes
+    SURE: yes
+  resource: cotton
+  pop:
+    ethnicity: afghan_culture
+    religion: zunism
+    estate: peasant
+    size: 1000
+20.1.1:
+  owner: SURE
+  controller: SURE
+  cores:
+    IPAR: no
+240.1.1:
+  owner: ERA
+  controller: ERA
+  cores:
+    SURE: no
+    ERA: yes
+647.1.1:
+  owner: ZUNB
+  controller: ZUNB
+  cores:
+    ERA: no
+    ZUNB: yes
+870.1.1:
+  owner: SIST
+  controller: SIST
+  cores:
+    SIST: yes
+875.1.1:
+  cores:
+    ZUNB: no
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+913.5.24:
+  owner: BUKH
+  controller: BUKH
+922.5.1:
+  owner: SIST
+  controller: SIST
+1002.12.1:
+  owner: GHAZ
+  controller: GHAZ
+  cores:
+    GHAZ: yes
+1175.1.1:
+  owner: GHOR
+  controller: GHOR
+  cores:
+    GHAZ: no
+    GHOR: yes
+1215.1.1:
+  owner: SIST
+  controller: SIST
+  cores:
+    GHOR: no
+    SIST: yes
+1231.1.1:
+  owner: MGE
+  controller: MGE
+  cores:
+    MGE: yes
+    AFGH: yes
+1260.1.1:
+  owner: ILK
+  controller: ILK
+  cores:
+    MGE: no
+    ILK: yes
+1335.1.1:
+  owner: SIST
+  controller: SIST
+  cores:
+    ILK: no
+    SIST: yes
+1380.1.1:
+  owner: TIM
+  controller: TIM
+  cores:
+    SIST: no
+    TIM: yes
+1443.1.1:
+  owner: AFGH
+  controller: AFGH
+  cores:
+    AFGH: yes
+1449.2.1:
+  owner: KHOR
+  controller: KHOR
+  cores:
+    TIM: no
+1507.1.1:
+  controller: BUKH
+1507.7.1:
+  owner: BUKH
+1510.1.1:
+  owner: IRA
+  controller: IRA
+  cores:
+    IRA: yes
+1545.1.1:
+  owner: MUG
+  controller: MUG
+  cores:
+    MUG: yes
+1558.1.1:
+  owner: IRA
+  controller: IRA
+1595.1.1:
+  owner: MUG
+  controller: MUG
+1617.1.1:
+  controller: IRA
+1618.1.1:
+  owner: IRA
+1637.1.1:
+  controller: MUG
+1638.1.1:
+  owner: MUG
+1649.1.1:
+  controller: IRA
+1653.1.1:
+  owner: IRA
+  cores:
+    MUG: no
+1747.6.1:
+  owner: AFGH
+  controller: AFGH
+  cores:
+    IRA: no
+    AFGH: yes
+1823.1.1:
+  cores:
+    BALU: no
+2001.11.23:
+  controller: AFGH
+2021.8.19:
+  controller: AFGH

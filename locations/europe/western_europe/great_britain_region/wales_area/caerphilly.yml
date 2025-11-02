@@ -1,0 +1,67 @@
+#imported from EU4 file: history/provinces/241 - Glamorgan.txt
+2.1.1:
+  owner: SILU
+  controller: SILU
+  cores:
+    SILU: yes
+  resource: iron
+  pop:
+    ethnicity: briton
+    religion: druidism
+    estate: peasant
+    size: 1000
+78.1.1:
+  owner: ROM
+  controller: ROM
+  cores:
+    ROM: yes
+200.1.1:
+  pop:
+    ethnicity: welsh
+    estate: peasant
+    size: 1000
+383.1.1:
+  owner: GWEN
+  controller: GWEN
+  cores:
+    SILU: no
+    ROM: no
+    GWEN: yes
+660.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+867.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+1063.1.1:
+  owner: ENG
+  controller: ENG
+  cores:
+    ENG: yes
+1197.1.1:
+  cores:
+    GWEN: no
+    WLS: yes
+1415.1.1:
+  controller: ENG
+1471.5.4:
+  controller: ENG
+1646.5.5:
+  controller: ENG
+1648.7.11:
+  controller: ENG
+1707.5.12:
+  owner: GBR
+  controller: GBR
+  cores:
+    ENG: no
+    GBR: yes
+1750.1.1:
+  pop:
+    religion: calvinist
+    estate: peasant
+    size: 1000

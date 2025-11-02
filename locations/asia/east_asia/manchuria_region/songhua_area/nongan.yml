@@ -1,0 +1,120 @@
+#imported from EU4 file: history/provinces/2109 - Hinggan.txt
+2.1.1:
+  owner: BUYE
+  controller: BUYE
+  cores:
+    BUYE: yes
+  resource: iron
+  pop:
+    ethnicity: buyeo
+    religion: 
+    estate: peasant
+    size: 1000
+410.1.1:
+  owner: GOGU
+  controller: GOGU
+  cores:
+    GOGU: yes
+520.1.1:
+  pop:
+    religion: mahayana
+    estate: peasant
+    size: 1000
+650.1.1:
+  pop:
+    ethnicity: khitan
+    estate: peasant
+    size: 1000
+668.1.1:
+  owner: SUMO
+  controller: SUMO
+  cores:
+    SUMO: yes
+726.1.1:
+  owner: BALH
+  controller: BALH
+  cores:
+    SUMO: no
+    GOGU: no
+    BALH: yes
+907.6.1:
+  owner: LIAO
+  controller: LIAO
+  cores:
+    BALH: no
+    LIAO: yes
+1115.1.1:
+  owner: JIN0
+  controller: JIN0
+  cores:
+    LIAO: no
+    JIN0: yes
+1214.1.1:
+  owner: MGE
+  controller: MGE
+  cores:
+    JIN0: no
+    MGE: yes
+1220.1.1:
+  pop:
+    ethnicity: chahar
+    estate: peasant
+    size: 1000
+1265.1.1:
+  pop:
+    religion: tibetan_buddhism
+    estate: peasant
+    size: 1000
+1271.1.1:
+  owner: YUA
+  controller: YUA
+  cores:
+    MGE: no
+    YUA: yes
+1368.1.23:
+  owner: KHRC
+  controller: KHRC
+  cores:
+    YUA: no
+    KHRC: yes
+1624.1.1:
+  owner: MCH
+  controller: MCH
+  cores:
+    KHRC: no
+    MCH: yes
+1636.5.15:
+  owner: QNG
+  controller: QNG
+  cores:
+    MCH: no
+    QNG: yes
+1875.1.1:
+  pop:
+    ethnicity: manchu_new
+    estate: peasant
+    size: 1000
+1912.2.12:
+  owner: CHI
+  controller: CHI
+  cores:
+    QNG: no
+    CHI: yes
+1920.1.1:
+  resource: coal
+1924.11.3:
+  controller: CHI
+1932.2.4:
+  controller: JAP
+1932.2.18:
+  owner: MANC
+  controller: MANC
+  cores:
+    MANC: yes
+1945.8.15:
+  owner: CHI
+  controller: CHI
+  cores:
+    MANC: no
+1949.10.1:
+  controller: CHI

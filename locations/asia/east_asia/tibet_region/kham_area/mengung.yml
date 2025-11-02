@@ -1,0 +1,84 @@
+#imported from EU4 file: history/provinces/2132 - Markam.txt
+2.1.1:
+  owner: BATH
+  controller: BATH
+  cores:
+    BATH: yes
+  resource: livestock
+  pop:
+    ethnicity: khampa_culture
+    religion: bon
+    estate: peasant
+    size: 1000
+618.1.1:
+  owner: TIB
+  controller: TIB
+  cores:
+    TIB: yes
+630.1.1:
+  pop:
+    religion: tibetan_buddhism
+    estate: peasant
+    size: 1000
+842.1.1:
+  owner: BATH
+  controller: BATH
+  cores:
+    TIB: no
+    BATH: yes
+950.1.1:
+  owner: QAMD
+  controller: QAMD
+  cores:
+    QAMD: yes
+1240.1.1:
+  owner: TIB
+  controller: TIB
+  cores:
+    TIB: yes
+1354.1.1:
+  owner: QAMD
+  controller: QAMD
+  cores:
+    TIB: no
+    QAMD: yes
+1570.1.1:
+  owner: LJG
+  controller: LJG
+  cores:
+    QAMD: no
+    LJG: yes
+1640.12.1:
+  owner: KHOS
+  controller: KHOS
+  cores:
+    KHOS: yes
+1717.1.1:
+  owner: ZUNG
+  controller: ZUNG
+1719.1.1:
+  owner: BATH
+  controller: BATH
+  cores:
+    BATH: yes
+1792.11.1:
+  owner: QNG
+  controller: QNG
+  cores:
+    QNG: yes
+1912.2.12:
+  owner: CHI
+  controller: CHI
+  cores:
+    QNG: no
+    BATH: no
+    CHI: yes
+    TIB: yes
+1912.7.1:
+  owner: TIB
+  controller: TIB
+1950.10.19:
+  owner: CHI
+  controller: CHI
+  cores:
+    CHI: yes

@@ -1,0 +1,938 @@
+ada_sabr_al_din_walashma:
+  1373.1.1:
+    birth: harar #TODO: Date and location guessed, check if better data is available
+    first_name: sabr_al_din
+    dynasty: walashma_dynasty
+    adm: 30
+    dip: 15
+    mil: 15
+    religion: sunni
+    culture: somali_culture
+  1422.1.1:
+    death: yes
+ada_mansur_al_din_walashma:
+  1400.1.1:
+    birth: harar #TODO: Date and location guessed, check if better data is available
+    first_name: mansur_al_din
+    dynasty: walashma_dynasty
+    father: ada_sabr_al_din_walashma #TODO: check if this makes sense
+    adm: 45
+    dip: 30
+    mil: 15
+    religion: sunni
+    culture: somali_culture
+  1424.1.1:
+    death: yes
+ada_mansur_al_din_walashma_1:
+  1392.1.1:
+    birth: harar #TODO: Date and location guessed, check if better data is available
+    first_name: mansur_al_din
+    dynasty: walashma_dynasty
+    adm: 45
+    dip: 30
+    mil: 15
+    religion: sunni
+    culture: somali_culture
+  1424.1.1:
+    death: yes
+ada_jamal_al_din_walashma:
+  1415.1.1:
+    birth: harar #TODO: Date and location guessed, check if better data is available
+    first_name: jamal_al_din
+    dynasty: walashma_dynasty
+    father: ada_mansur_al_din_walashma_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 15
+    mil: 45
+    religion: sunni
+    culture: somali_culture
+  1433.1.1:
+    death: yes
+ada_jamal_al_din_walashma_1:
+  1394.1.1:
+    birth: harar #TODO: Date and location guessed, check if better data is available
+    first_name: jamal_al_din
+    dynasty: walashma_dynasty
+    adm: 45
+    dip: 15
+    mil: 45
+    religion: sunni
+    culture: somali_culture
+  1433.1.1:
+    death: yes
+ada_badlay_ibn_saad_walashma:
+  1420.1.1:
+    birth: harar #TODO: Date and location guessed, check if better data is available
+    first_name: badlay_ibn_saad
+    dynasty: walashma_dynasty
+    father: ada_jamal_al_din_walashma_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 45
+    mil: 30
+    religion: sunni
+    culture: somali_culture
+  1442.1.1:
+    death: yes
+ada_badlay_ibn_saad_walashma_1:
+  1403.1.1:
+    birth: harar #TODO: Date and location guessed, check if better data is available
+    first_name: badlay_ibn_saad
+    dynasty: walashma_dynasty
+    adm: 45
+    dip: 45
+    mil: 30
+    religion: sunni
+    culture: somali_culture
+  1445.1.1:
+    death: yes
+ada_mohammad_ibn_badlay_walashma:
+  1420.1.1:
+    birth: harar #TODO: Date and location guessed, check if better data is available
+    first_name: mohammad_ibn_badlay
+    dynasty: walashma_dynasty
+    father: ada_badlay_ibn_saad_walashma_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 30
+    mil: 30
+    religion: sunni
+    culture: somali_culture
+  1472.1.1:
+    death: yes
+ada_mohammed_ibn_badlay_walashma:
+  1415.1.1:
+    birth: harar #TODO: Date and location guessed, check if better data is available
+    first_name: mohammed_ibn_badlay
+    dynasty: walashma_dynasty
+    adm: 30
+    dip: 30
+    mil: 30
+    religion: sunni
+    culture: somali_culture
+  1472.1.1:
+    death: yes
+ada_shams_ad_din_ibn_muhammad_walashma:
+  1440.1.1:
+    birth: harar #TODO: Date and location guessed, check if better data is available
+    first_name: shams_ad_din_ibn_muhammad
+    dynasty: walashma_dynasty
+    father: ada_mohammed_ibn_badlay_walashma #TODO: check if this makes sense
+    adm: 15
+    dip: 15
+    mil: 30
+    religion: sunni
+    culture: somali_culture
+  1487.1.1:
+    death: yes
+ada_shams_ad_din_ibn_muhammad_walashma_1:
+  1442.1.1:
+    birth: harar #TODO: Date and location guessed, check if better data is available
+    first_name: shams_ad_din_ibn_muhammad
+    dynasty: walashma_dynasty
+    adm: 15
+    dip: 15
+    mil: 30
+    religion: sunni
+    culture: somali_culture
+  1488.1.1:
+    death: yes
+ada_mohamed_ibn_azhar_walashma:
+  1460.1.1:
+    birth: harar #TODO: Date and location guessed, check if better data is available
+    first_name: mohamed_ibn_azhar
+    dynasty: walashma_dynasty
+    father: ada_shams_ad_din_ibn_muhammad_walashma_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 15
+    mil: 30
+    religion: sunni
+    culture: somali_culture
+  1518.1.1:
+    death: yes
+ada_mohamed_ibn_azhar_walashma_1:
+  1458.1.1:
+    birth: harar #TODO: Date and location guessed, check if better data is available
+    first_name: mohamed_ibn_azhar
+    dynasty: walashma_dynasty
+    adm: 30
+    dip: 15
+    mil: 15
+    religion: sunni
+    culture: somali_culture
+  1518.1.1:
+    death: yes
+ada_ali_ii_walashma:
+  1488.1.1:
+    birth: harar #TODO: Date and location guessed, check if better data is available
+    first_name: ali
+    dynasty: walashma_dynasty
+    adm: 30
+    dip: 15
+    mil: 30
+    religion: sunni
+    culture: somali_culture
+  1519.1.1:
+    death: yes
+ada_fakhr_ud_din_walashma:
+  1505.1.1:
+    birth: harar #TODO: Date and location guessed, check if better data is available
+    first_name: fakhr_ud_din
+    dynasty: walashma_dynasty
+    father: ada_ali_ii_walashma #TODO: check if this makes sense
+    adm: 15
+    dip: 15
+    mil: 15
+    religion: sunni
+    culture: somali_culture
+  1519.1.1:
+    death: yes
+ada_fakhr_ud_din_walashma_1:
+  1489.1.1:
+    birth: harar #TODO: Date and location guessed, check if better data is available
+    first_name: fakhr_ud_din
+    dynasty: walashma_dynasty
+    adm: 15
+    dip: 15
+    mil: 15
+    religion: sunni
+    culture: somali_culture
+  1520.1.1:
+    death: yes
+ada_abu_bakr_walashma:
+  1519.1.1:
+    birth: harar #TODO: Date and location guessed, check if better data is available
+    first_name: abu_bakr
+    dynasty: walashma_dynasty
+    father: ada_fakhr_ud_din_walashma_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 15
+    mil: 15
+    religion: sunni
+    culture: somali_culture
+  1520.1.1:
+    death: yes
+ada_abu_bakr_walashma_1:
+  1490.1.1:
+    birth: harar #TODO: Date and location guessed, check if better data is available
+    first_name: abu_bakr
+    dynasty: walashma_dynasty
+    adm: 15
+    dip: 15
+    mil: 15
+    religion: sunni
+    culture: somali_culture
+  1526.1.1:
+    death: yes
+ada_ahmad_gran_walashma:
+  1505.1.1:
+    birth: harar #TODO: Date and location guessed, check if better data is available
+    first_name: ahmad_gran
+    dynasty: walashma_dynasty
+    father: ada_abu_bakr_walashma_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 15
+    mil: 30
+    religion: sunni
+    culture: somali_culture
+  1543.1.1:
+    death: yes
+ada_ahmad_gran_walashma_1:
+  1496.1.1:
+    birth: harar #TODO: Date and location guessed, check if better data is available
+    first_name: ahmad_gran
+    dynasty: walashma_dynasty
+    adm: 15
+    dip: 15
+    mil: 30
+    religion: sunni
+    culture: somali_culture
+  1543.1.1:
+    death: yes
+ada_batiah_del_wanbara_walashma:
+  1520.1.1:
+    birth: harar #TODO: Date and location guessed, check if better data is available
+    first_name: batiah_del_wanbara
+    dynasty: walashma_dynasty
+    female: yes
+    father: ada_ahmad_gran_walashma_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 45
+    mil: 30
+    religion: sunni
+    culture: somali_culture
+  1552.1.1:
+    death: yes
+ada_batiah_del_wanbara_walashma_1:
+  1513.1.1:
+    birth: harar #TODO: Date and location guessed, check if better data is available
+    first_name: batiah_del_wanbara
+    dynasty: walashma_dynasty
+    female: yes
+    adm: 15
+    dip: 45
+    mil: 30
+    religion: sunni
+    culture: somali_culture
+  1552.1.1:
+    death: yes
+ada_nur_ul_mujtahid_walashma:
+  1535.1.1:
+    birth: harar #TODO: Date and location guessed, check if better data is available
+    first_name: nur_ul_mujtahid
+    dynasty: walashma_dynasty
+    father: ada_batiah_del_wanbara_walashma_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 15
+    mil: 15
+    religion: sunni
+    culture: somali_culture
+  1567.1.1:
+    death: yes
+ada_nur_walashma:
+  1522.1.1:
+    birth: harar #TODO: Date and location guessed, check if better data is available
+    first_name: nur
+    dynasty: walashma_dynasty
+    adm: 15
+    dip: 15
+    mil: 15
+    religion: sunni
+    culture: somali_culture
+  1567.1.1:
+    death: yes
+ada_uthman_ul_habashi_walashma:
+  1550.1.1:
+    birth: harar #TODO: Date and location guessed, check if better data is available
+    first_name: uthman_ul_habashi
+    dynasty: walashma_dynasty
+    father: ada_nur_walashma #TODO: check if this makes sense
+    adm: 30
+    dip: 30
+    mil: 30
+    religion: sunni
+    culture: somali_culture
+  1569.1.1:
+    death: yes
+ada_uthman_walashma:
+  1537.1.1:
+    birth: harar #TODO: Date and location guessed, check if better data is available
+    first_name: uthman
+    dynasty: walashma_dynasty
+    adm: 15
+    dip: 15
+    mil: 30
+    religion: sunni
+    culture: somali_culture
+  1569.1.1:
+    death: yes
+ada_talha_i_walashma:
+  1550.1.1:
+    birth: harar #TODO: Date and location guessed, check if better data is available
+    first_name: talha
+    dynasty: walashma_dynasty
+    father: ada_uthman_walashma #TODO: check if this makes sense
+    adm: 15
+    dip: 30
+    mil: 15
+    religion: sunni
+    culture: somali_culture
+  1571.1.1:
+    death: yes
+ada_talha_i_walashma_1:
+  1539.1.1:
+    birth: harar #TODO: Date and location guessed, check if better data is available
+    first_name: talha
+    dynasty: walashma_dynasty
+    adm: 15
+    dip: 30
+    mil: 15
+    religion: sunni
+    culture: somali_culture
+  1571.1.1:
+    death: yes
+ada_nasr_ii_walashma:
+  1555.1.1:
+    birth: harar #TODO: Date and location guessed, check if better data is available
+    first_name: nasr
+    dynasty: walashma_dynasty
+    father: ada_talha_i_walashma_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 15
+    mil: 30
+    religion: sunni
+    culture: somali_culture
+  1573.1.1:
+    death: yes
+ada_nasr_walashma:
+  1541.1.1:
+    birth: harar #TODO: Date and location guessed, check if better data is available
+    first_name: nasr
+    dynasty: walashma_dynasty
+    adm: 15
+    dip: 15
+    mil: 15
+    religion: sunni
+    culture: somali_culture
+  1572.1.1:
+    death: yes
+ada_mohammed_iv_walashma:
+  1560.1.1:
+    birth: harar #TODO: Date and location guessed, check if better data is available
+    first_name: mohammed
+    dynasty: walashma_dynasty
+    father: ada_nasr_walashma #TODO: check if this makes sense
+    adm: 30
+    dip: 15
+    mil: 15
+    religion: sunni
+    culture: somali_culture
+  1577.1.1:
+    death: yes
+ada_mohammed_walashma:
+  1542.1.1:
+    birth: harar #TODO: Date and location guessed, check if better data is available
+    first_name: mohammed
+    dynasty: walashma_dynasty
+    adm: 30
+    dip: 15
+    mil: 15
+    religion: sunni
+    culture: somali_culture
+  1577.1.1:
+    death: yes
+ada_mohammed_jasa_walashma:
+  1560.1.1:
+    birth: harar #TODO: Date and location guessed, check if better data is available
+    first_name: mohammed_jasa
+    dynasty: walashma_dynasty
+    father: ada_mohammed_walashma #TODO: check if this makes sense
+    adm: 15
+    dip: 15
+    mil: 15
+    religion: sunni
+    culture: somali_culture
+  1585.1.1:
+    death: yes
+ada_mohammed_jasa_walashma_1:
+  1547.1.1:
+    birth: harar #TODO: Date and location guessed, check if better data is available
+    first_name: mohammed_jasa
+    dynasty: walashma_dynasty
+    adm: 15
+    dip: 15
+    mil: 15
+    religion: sunni
+    culture: somali_culture
+  1585.1.1:
+    death: yes
+ada_saad_al_din_walashma:
+  1565.1.1:
+    birth: harar #TODO: Date and location guessed, check if better data is available
+    first_name: saad_al_din
+    dynasty: walashma_dynasty
+    father: ada_mohammed_jasa_walashma_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 30
+    mil: 30
+    religion: sunni
+    culture: somali_culture
+  1613.1.1:
+    death: yes
+ada_saad_al_din_walashma_1:
+  1555.1.1:
+    birth: harar #TODO: Date and location guessed, check if better data is available
+    first_name: saad_al_din
+    dynasty: walashma_dynasty
+    adm: 30
+    dip: 15
+    mil: 30
+    religion: sunni
+    culture: somali_culture
+  1613.1.1:
+    death: yes
+ada_sabir_al_din_walashma:
+  1585.1.1:
+    birth: harar #TODO: Date and location guessed, check if better data is available
+    first_name: sabir_al_din
+    dynasty: walashma_dynasty
+    father: ada_saad_al_din_walashma_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 30
+    mil: 45
+    religion: sunni
+    culture: somali_culture
+  1632.1.1:
+    death: yes
+ada_sabir_al_din_walashma_1:
+  1583.1.1:
+    birth: harar #TODO: Date and location guessed, check if better data is available
+    first_name: sabir_al_din
+    dynasty: walashma_dynasty
+    adm: 30
+    dip: 30
+    mil: 45
+    religion: sunni
+    culture: somali_culture
+  1632.1.1:
+    death: yes
+ada_sadiq_walashma:
+  1613.1.1:
+    birth: harar #TODO: Date and location guessed, check if better data is available
+    first_name: sadiq
+    dynasty: walashma_dynasty
+    father: ada_sabir_al_din_walashma_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 15
+    mil: 15
+    religion: sunni
+    culture: somali_culture
+  1646.1.1:
+    death: yes
+ada_sadiq_walashma_1:
+  1602.1.1:
+    birth: harar #TODO: Date and location guessed, check if better data is available
+    first_name: sadiq
+    dynasty: walashma_dynasty
+    adm: 15
+    dip: 15
+    mil: 15
+    religion: sunni
+    culture: somali_culture
+  1646.1.1:
+    death: yes
+ada_malaq_adam_walashma:
+  1622.1.1:
+    birth: harar #TODO: Date and location guessed, check if better data is available
+    first_name: malaq_adam
+    dynasty: walashma_dynasty
+    father: ada_sadiq_walashma_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 15
+    mil: 15
+    religion: sunni
+    culture: somali_culture
+  1647.1.1:
+    death: yes
+ada_malaq_adam_walashma_1:
+  1616.1.1:
+    birth: harar #TODO: Date and location guessed, check if better data is available
+    first_name: malaq_adam
+    dynasty: walashma_dynasty
+    adm: 15
+    dip: 15
+    mil: 15
+    religion: sunni
+    culture: somali_culture
+  1647.1.1:
+    death: yes
+ada_ali_walashma:
+  1626.1.1:
+    birth: harar #TODO: Date and location guessed, check if better data is available
+    first_name: ali
+    dynasty: walashma_dynasty
+    father: ada_malaq_adam_walashma_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 15
+    mil: 45
+    religion: sunni
+    culture: somali_culture
+  1647.1.1:
+    death: yes
+ada_ali_walashma_1:
+  1617.1.1:
+    birth: harar #TODO: Date and location guessed, check if better data is available
+    first_name: ali
+    dynasty: walashma_dynasty
+    adm: 15
+    dip: 15
+    mil: 45
+    religion: sunni
+    culture: somali_culture
+  1662.1.1:
+    death: yes
+ada_hashim_walashma:
+  1640.1.1:
+    birth: harar #TODO: Date and location guessed, check if better data is available
+    first_name: hashim
+    dynasty: walashma_dynasty
+    father: ada_ali_walashma_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 15
+    mil: 15
+    religion: sunni
+    culture: somali_culture
+  1671.1.1:
+    death: yes
+ada_hashim_walashma_1:
+  1632.1.1:
+    birth: harar #TODO: Date and location guessed, check if better data is available
+    first_name: hashim
+    dynasty: walashma_dynasty
+    adm: 15
+    dip: 15
+    mil: 15
+    religion: sunni
+    culture: somali_culture
+  1671.1.1:
+    death: yes
+ada_abdallah_walashma:
+  1650.1.1:
+    birth: harar #TODO: Date and location guessed, check if better data is available
+    first_name: abdallah
+    dynasty: walashma_dynasty
+    father: ada_hashim_walashma_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 30
+    mil: 15
+    religion: sunni
+    culture: somali_culture
+  1700.1.1:
+    death: yes
+ada_abdallah_walashma_1:
+  1641.1.1:
+    birth: harar #TODO: Date and location guessed, check if better data is available
+    first_name: abdallah
+    dynasty: walashma_dynasty
+    adm: 15
+    dip: 30
+    mil: 15
+    religion: sunni
+    culture: somali_culture
+  1700.1.1:
+    death: yes
+ada_talha_ii_walashma:
+  1671.1.1:
+    birth: harar #TODO: Date and location guessed, check if better data is available
+    first_name: talha
+    dynasty: walashma_dynasty
+    father: ada_abdallah_walashma_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 15
+    mil: 30
+    religion: sunni
+    culture: somali_culture
+  1721.1.1:
+    death: yes
+ada_talha_ii_walashma_1:
+  1670.1.1:
+    birth: harar #TODO: Date and location guessed, check if better data is available
+    first_name: talha
+    dynasty: walashma_dynasty
+    adm: 30
+    dip: 15
+    mil: 30
+    religion: sunni
+    culture: somali_culture
+  1721.1.1:
+    death: yes
+ada_abu_bakr_i_walashma:
+  1700.1.1:
+    birth: harar #TODO: Date and location guessed, check if better data is available
+    first_name: abu_bakr
+    dynasty: walashma_dynasty
+    father: ada_talha_ii_walashma_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 15
+    mil: 45
+    religion: sunni
+    culture: somali_culture
+  1732.1.1:
+    death: yes
+ada_abu_bakr_i_walashma_1:
+  1691.1.1:
+    birth: harar #TODO: Date and location guessed, check if better data is available
+    first_name: abu_bakr
+    dynasty: walashma_dynasty
+    adm: 30
+    dip: 15
+    mil: 45
+    religion: sunni
+    culture: somali_culture
+  1732.1.1:
+    death: yes
+ada_khalaf_walashma:
+  1715.1.1:
+    birth: harar #TODO: Date and location guessed, check if better data is available
+    first_name: khalaf
+    dynasty: walashma_dynasty
+    father: ada_abu_bakr_i_walashma_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 15
+    mil: 45
+    religion: sunni
+    culture: somali_culture
+  1733.1.1:
+    death: yes
+ada_khalaf_walashma_1:
+  1702.1.1:
+    birth: harar #TODO: Date and location guessed, check if better data is available
+    first_name: khalaf
+    dynasty: walashma_dynasty
+    adm: 15
+    dip: 15
+    mil: 45
+    religion: sunni
+    culture: somali_culture
+  1733.1.1:
+    death: yes
+ada_hamid_walashma:
+  1720.1.1:
+    birth: harar #TODO: Date and location guessed, check if better data is available
+    first_name: hamid
+    dynasty: walashma_dynasty
+    father: ada_khalaf_walashma_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 15
+    mil: 15
+    religion: sunni
+    culture: somali_culture
+  1747.1.1:
+    death: yes
+ada_hamid_walashma_1:
+  1703.1.1:
+    birth: harar #TODO: Date and location guessed, check if better data is available
+    first_name: hamid
+    dynasty: walashma_dynasty
+    adm: 15
+    dip: 15
+    mil: 15
+    religion: sunni
+    culture: somali_culture
+  1747.1.1:
+    death: yes
+ada_yusuf_walashma:
+  1725.1.1:
+    birth: harar #TODO: Date and location guessed, check if better data is available
+    first_name: yusuf
+    dynasty: walashma_dynasty
+    father: ada_hamid_walashma_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 30
+    mil: 15
+    religion: sunni
+    culture: somali_culture
+  1755.1.1:
+    death: yes
+ada_yusuf_walashma_1:
+  1717.1.1:
+    birth: harar #TODO: Date and location guessed, check if better data is available
+    first_name: yusuf
+    dynasty: walashma_dynasty
+    adm: 15
+    dip: 30
+    mil: 15
+    religion: sunni
+    culture: somali_culture
+  1755.1.1:
+    death: yes
+ada_ahmad_i_walashma:
+  1427.1.1:
+    birth: harar #TODO: Date and location guessed, check if better data is available
+    first_name: ahmad
+    dynasty: walashma_dynasty
+    father: ada_yusuf_walashma_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 15
+    mil: 30
+    religion: sunni
+    culture: somali_culture
+  1782.1.1:
+    death: yes
+ada_ahmad_i_walashma_1:
+  1725.1.1:
+    birth: harar #TODO: Date and location guessed, check if better data is available
+    first_name: ahmad
+    dynasty: walashma_dynasty
+    adm: 45
+    dip: 15
+    mil: 30
+    religion: sunni
+    culture: somali_culture
+  1782.1.1:
+    death: yes
+ada_muhammad_i_walashma:
+  1755.1.1:
+    birth: harar #TODO: Date and location guessed, check if better data is available
+    first_name: muhammad
+    dynasty: walashma_dynasty
+    father: ada_ahmad_i_walashma_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 15
+    mil: 15
+    religion: sunni
+    culture: somali_culture
+  1794.1.1:
+    death: yes
+ada_muhammad_i_walashma_1:
+  1752.1.1:
+    birth: harar #TODO: Date and location guessed, check if better data is available
+    first_name: muhammad
+    dynasty: walashma_dynasty
+    adm: 15
+    dip: 15
+    mil: 15
+    religion: sunni
+    culture: somali_culture
+  1794.1.1:
+    death: yes
+ada_ahmad_ii_walashma:
+  1782.1.1:
+    birth: harar #TODO: Date and location guessed, check if better data is available
+    first_name: ahmad
+    dynasty: walashma_dynasty
+    father: ada_muhammad_i_walashma_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 15
+    mil: 30
+    religion: sunni
+    culture: somali_culture
+  1820.1.1:
+    death: yes
+ada_ahmad_ii_walashma_1:
+  1764.1.1:
+    birth: harar #TODO: Date and location guessed, check if better data is available
+    first_name: ahmad
+    dynasty: walashma_dynasty
+    adm: 15
+    dip: 15
+    mil: 30
+    religion: sunni
+    culture: somali_culture
+  1821.1.1:
+    death: yes
+ada_abd_ar_rahman_walashma:
+  1783.1.1:
+    birth: harar #TODO: Date and location guessed, check if better data is available
+    first_name: abd_ar_rahman
+    dynasty: walashma_dynasty
+    father: ada_ahmad_ii_walashma_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 15
+    mil: 15
+    religion: sunni
+    culture: somali_culture
+  1825.6.16:
+    death: yes
+ada_abd_ar_rahman_walashma_1:
+  1791.1.1:
+    birth: harar #TODO: Date and location guessed, check if better data is available
+    first_name: abd_ar_rahman
+    dynasty: walashma_dynasty
+    adm: 15
+    dip: 15
+    mil: 15
+    religion: sunni
+    culture: somali_culture
+  1825.6.16:
+    death: yes
+ada_abd_al_karim_walashma:
+  1784.1.1:
+    birth: harar #TODO: Date and location guessed, check if better data is available
+    first_name: abd_al_karim
+    dynasty: walashma_dynasty
+    father: ada_abd_ar_rahman_walashma_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 30
+    mil: 15
+    religion: sunni
+    culture: somali_culture
+  1834.1.1:
+    death: yes
+ada_abd_al_karim_walashma_1:
+  1795.1.1:
+    birth: harar #TODO: Date and location guessed, check if better data is available
+    first_name: abd_al_karim
+    dynasty: walashma_dynasty
+    adm: 15
+    dip: 15
+    mil: 30
+    religion: sunni
+    culture: somali_culture
+  1834.1.1:
+    death: yes
+ada_abu_bakr_ii_walashma:
+  1820.1.1:
+    birth: harar #TODO: Date and location guessed, check if better data is available
+    first_name: abu_bakr
+    dynasty: walashma_dynasty
+    father: ada_abd_al_karim_walashma_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 30
+    mil: 15
+    religion: sunni
+    culture: somali_culture
+  1834.1.1:
+    death: yes
+ada_abu_bakr_ii_walashma_1:
+  1804.1.1:
+    birth: harar #TODO: Date and location guessed, check if better data is available
+    first_name: abu_bakr
+    dynasty: walashma_dynasty
+    adm: 15
+    dip: 30
+    mil: 30
+    religion: sunni
+    culture: somali_culture
+  1852.1.1:
+    death: yes
+ada_ahmad_iii_walashma:
+  1790.1.1:
+    birth: harar #TODO: Date and location guessed, check if better data is available
+    first_name: ahmad
+    dynasty: walashma_dynasty
+    father: ada_abu_bakr_ii_walashma_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 30
+    mil: 45
+    religion: sunni
+    culture: somali_culture
+  1856.1.1:
+    death: yes
+ada_ahmad_iii_walashma_1:
+  1822.1.1:
+    birth: harar #TODO: Date and location guessed, check if better data is available
+    first_name: ahmad
+    dynasty: walashma_dynasty
+    adm: 45
+    dip: 15
+    mil: 30
+    religion: sunni
+    culture: somali_culture
+  1856.1.1:
+    death: yes
+ada_muhammad_ii_walashma:
+  1830.1.1:
+    birth: harar #TODO: Date and location guessed, check if better data is available
+    first_name: muhammad
+    dynasty: walashma_dynasty
+    father: ada_ahmad_iii_walashma_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 15
+    mil: 15
+    religion: sunni
+    culture: somali_culture
+  1884.1.1:
+    death: yes
+ada_muhammad_ii_walashma_1:
+  1826.1.1:
+    birth: harar #TODO: Date and location guessed, check if better data is available
+    first_name: muhammad
+    dynasty: walashma_dynasty
+    adm: 15
+    dip: 15
+    mil: 15
+    religion: sunni
+    culture: somali_culture
+  1884.1.1:
+    death: yes
+ada_abd_allah_ii_walashma:
+  1854.1.1:
+    birth: harar #TODO: Date and location guessed, check if better data is available
+    first_name: abd_allah
+    dynasty: walashma_dynasty
+    adm: 15
+    dip: 15
+    mil: 30
+    religion: sunni
+    culture: somali_culture
+  3000.1.1:
+    death: yes

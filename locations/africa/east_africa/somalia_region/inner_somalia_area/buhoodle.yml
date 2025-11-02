@@ -1,0 +1,50 @@
+#imported from EU4 file: history/provinces/2792 - Togdheer.txt
+2.1.1:
+  pop:
+    ethnicity: somali_culture
+    religion: bantu_religion
+    estate: peasant
+    size: 1000
+1100.1.1:
+  owner: WAR
+  controller: WAR
+  cores:
+    WAR: yes
+  resource: slaves
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+1526.1.1:
+  owner: ADA
+  controller: ADA
+1555.1.1:
+  owner: WAR
+  controller: WAR
+1896.1.1:
+  owner: DERV
+  controller: DERV
+  cores:
+    WAR: no
+    DERV: yes
+1900.1.1:
+  resource: grain
+1920.2.9:
+  owner: GBR
+  controller: GBR
+  cores:
+    GBR: yes
+1940.8.1:
+  controller: ITA
+1941.3.1:
+  controller: GBR
+1960.7.1:
+  owner: SOMA
+  controller: SOMA
+  cores:
+    GBR: no
+    DERV: no
+    SOMA: yes
+2009.1.31:
+  cores:
+    SOML: yes

@@ -1,0 +1,155 @@
+#imported from EU4 file: history/provinces/96 - Zeeland.txt
+2.1.1:
+  owner: ROM
+  controller: ROM
+  cores:
+    ROM: yes
+  resource: salt
+  pop:
+    ethnicity: frisian
+    religion: germanic
+    estate: peasant
+    size: 1000
+260.1.1:
+  cores:
+    GALL: yes
+  pop:
+    ethnicity: gallian
+    estate: peasant
+    size: 1000
+274.1.1:
+  controller: ROM
+  cores:
+    GALL: no
+  pop:
+    ethnicity: low_franconian
+    estate: peasant
+    size: 1000
+395.1.17:
+  owner: ROMW
+  controller: ROMW
+  cores:
+    ROM: no
+    ROMW: yes
+420.1.1:
+  owner: FRAN
+  controller: FRAN
+  cores:
+    ROMW: no
+    FRAN: yes
+480.6.1:
+  cores:
+    ROMW: no
+511.11.27:
+  owner: SOIS
+  controller: SOIS
+  cores:
+    SOIS: yes
+558.12.23:
+  owner: FRAN
+  controller: FRAN
+  cores:
+    SOIS: no
+    FRAN: yes
+561.11.29:
+  owner: ASTS
+  controller: ASTS
+  cores:
+    ASTS: yes
+613.10.10:
+  owner: FRAN
+  controller: FRAN
+  cores:
+    ASTS: no
+    FRAN: yes
+634.1.1:
+  owner: NEUS
+  controller: NEUS
+  cores:
+    NEUS: yes
+679.12.23:
+  owner: FRAN
+  controller: FRAN
+700.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+840.6.21:
+  owner: MFRA
+  controller: MFRA
+  cores:
+    FRAN: no
+    MFRA: yes
+855.9.30:
+  owner: LOT
+  controller: LOT
+  cores:
+    MFRA: no
+    LOT: yes
+867.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+870.8.8:
+  owner: WFRA
+  controller: WFRA
+  cores:
+    LOT: no
+    WFRA: yes
+880.1.1:
+  owner: EFRA
+  controller: EFRA
+  cores:
+    WFRA: no
+    EFRA: yes
+911.11.10:
+  owner: LOT
+  controller: LOT
+  cores:
+    EFRA: no
+    LOT: yes
+    HOL: yes
+922.1.1:
+  owner: HOL
+  controller: HOL
+  cores:
+    LOT: no
+1101.1.1:
+  cores:
+    FLA: yes
+1299.1.1:
+  cores:
+    FLA: no
+1477.1.5:
+  owner: NED
+  controller: NED
+  cores:
+    NED: yes
+1572.1.1:
+  pop:
+    religion: calvinist
+    estate: peasant
+    size: 1000
+1810.7.10:
+  owner: FRA
+  controller: FRA
+  cores:
+    FRA: yes
+1813.11.30:
+  owner: NED
+  controller: NED
+  cores:
+    FRA: no
+1900.1.1:
+  cores:
+    HOL: no
+1940.5.17:
+  owner: GER
+  controller: GER
+1944.10.1:
+  controller: GBR
+1945.5.5:
+  owner: NED
+  controller: NED

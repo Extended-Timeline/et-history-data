@@ -1,0 +1,160 @@
+#imported from EU4 file: history/provinces/1247 - Corsica.txt
+2.1.1:
+  owner: ROM
+  controller: ROM
+  cores:
+    ROM: yes
+  resource: naval_supplies
+  pop:
+    ethnicity: etruscan
+    religion: bimoism
+    estate: peasant
+    size: 1000
+395.1.17:
+  owner: ROMW
+  controller: ROMW
+  cores:
+    ROM: no
+    ROMW: yes
+410.1.1:
+  pop:
+    ethnicity: tuscan
+    estate: peasant
+    size: 1000
+476.9.4:
+  owner: VAND
+  controller: VAND
+  cores:
+    VAND: yes
+480.1.1:
+  cores:
+    ROMW: no
+489.1.1:
+  owner: OSTR
+  controller: OSTR
+  cores:
+    VAND: no
+    OSTR: yes
+522.1.1:
+  owner: BYZ
+  controller: BYZ
+  cores:
+    OSTR: no
+    BYZ: yes
+580.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+725.1.1:
+  owner: LOMB
+  controller: LOMB
+  cores:
+    LOMB: yes
+774.1.1:
+  owner: FRAN
+  controller: FRAN
+  cores:
+    LOMB: no
+    FRAN: yes
+840.6.21:
+  owner: MFRA
+  controller: MFRA
+  cores:
+    FRAN: no
+    MFRA: yes
+855.9.30:
+  owner: ITA
+  controller: ITA
+  cores:
+    MFRA: no
+    LOMB: no
+    ITA: yes
+867.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+962.2.2:
+  owner: COR
+  controller: COR
+  cores:
+    ITA: no
+    COR: yes
+1077.1.1:
+  owner: PAP
+  controller: PAP
+  cores:
+    PAP: yes
+1090.1.1:
+  owner: PIS
+  controller: PIS
+  cores:
+    PAP: no
+    PIS: yes
+1282.8.6:
+  owner: GEN
+  controller: GEN
+  cores:
+    PIS: no
+    GEN: yes
+1464.1.1:
+  owner: MLO
+  controller: MLO
+  cores:
+    MLO: yes
+1486.1.1:
+  controller: MLO
+1499.1.1:
+  owner: GEN
+  controller: GEN
+  cores:
+    MLO: no
+1553.1.1:
+  owner: FRA
+  controller: FRA
+  cores:
+    FRA: yes
+1559.1.1:
+  owner: GEN
+  controller: GEN
+  cores:
+    FRA: no
+1736.4.15:
+  owner: COR
+  controller: COR
+1743.1.1:
+  owner: GEN
+  controller: GEN
+1753.10.1:
+  owner: COR
+  controller: COR
+1768.5.15:
+  owner: FRA
+  controller: FRA
+  cores:
+    GEN: no
+    FRA: yes
+1769.6.13:
+  controller: FRA
+1870.9.4:
+  owner: FRA
+  controller: FRA
+  cores:
+    FRA: yes
+1940.6.14:
+  owner: VFRA
+  controller: VFRA
+  cores:
+    VFRA: yes
+1942.11.1:
+  owner: ITA
+  controller: ITA
+1943.9.8:
+  owner: VFRA
+  controller: VFRA
+1944.8.25:
+  owner: FRA
+  controller: FRA
+  cores:
+    VFRA: no

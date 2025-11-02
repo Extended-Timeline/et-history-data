@@ -1,0 +1,44 @@
+#imported from EU4 file: history/provinces/21 - Halogaland.txt
+2.1.1:
+  pop:
+    ethnicity: norwegian
+    religion: norse
+    estate: peasant
+    size: 1000
+700.1.1:
+  owner: HALO
+  controller: HALO
+  cores:
+    HALO: yes
+  resource: fish
+872.1.1:
+  owner: NOR
+  controller: NOR
+  cores:
+    HALO: no
+    NOR: yes
+1000.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+1536.1.1:
+  owner: DAN
+  controller: DAN
+  cores:
+    DAN: yes
+  pop:
+    religion: lutheran
+    estate: peasant
+    size: 1000
+1814.1.14:
+  owner: SWE
+  cores:
+    DAN: no
+1814.5.17:
+  owner: NOR
+  controller: NOR
+1940.4.9:
+  controller: GER
+1945.5.8:
+  controller: NOR

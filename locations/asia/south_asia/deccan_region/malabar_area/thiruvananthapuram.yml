@@ -1,0 +1,51 @@
+#imported from EU4 file: history/provinces/4410 - Kumari.txt
+2.1.1:
+  owner: AY00
+  controller: AY00
+  cores:
+    AY00: yes
+  resource: spices
+  pop:
+    ethnicity: malayali
+    religion: hindu
+    estate: peasant
+    size: 1000
+250.1.1:
+  owner: KALA
+  controller: KALA
+  cores:
+    AY00: no
+    KALA: yes
+560.1.1:
+  owner: TNK
+  controller: TNK
+  cores:
+    KALA: no
+    TNK: yes
+810.1.1:
+  owner: CHER
+  controller: CHER
+  cores:
+    TNK: no
+    CHER: yes
+1090.1.1:
+  owner: VND
+  controller: VND
+  cores:
+    CHER: no
+    VND: yes
+1662.1.1:
+  controller: NED
+1663.1.1:
+  owner: NED
+1729.1.1:
+  owner: VND
+  controller: VND
+1930.1.1:
+  cores:
+    INDI: yes
+1947.8.15:
+  owner: INDI
+  controller: INDI
+  cores:
+    VND: no

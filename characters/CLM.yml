@@ -1,0 +1,37 @@
+clm_mazatl_colliman:
+  1410.1.1:
+    birth: tomatlan #TODO: Date and location guessed, check if better data is available
+    first_name: mazatl
+    dynasty: colliman_dynasty
+    adm: 45
+    dip: 30
+    mil: 30
+    religion: nahuatl
+    culture: teco_culture
+  1454.1.1:
+    death: yes
+clm_colimotl_i_colliman:
+  1440.1.1:
+    birth: tomatlan #TODO: Date and location guessed, check if better data is available
+    first_name: colimotl
+    dynasty: colliman_dynasty
+    father: clm_mazatl_colliman #TODO: check if this makes sense
+    adm: 45
+    dip: 60
+    mil: 75
+    religion: nahuatl
+    culture: teco_culture
+  1523.1.1:
+    death: yes
+clm_colimotl_colliman:
+  1424.1.1:
+    birth: tomatlan #TODO: Date and location guessed, check if better data is available
+    first_name: colimotl
+    dynasty: colliman_dynasty
+    adm: 45
+    dip: 60
+    mil: 75
+    religion: nahuatl
+    culture: teco_culture
+  3000.1.1:
+    death: yes

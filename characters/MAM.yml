@@ -1,0 +1,622 @@
+mam_qaraqush_al_armani:
+  1143.1.1:
+    birth: cairo #TODO: Date and location guessed, check if better data is available
+    first_name: qaraqush
+    dynasty: al_armani_dynasty
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: sunni
+    culture: lower_egyptian_culture
+  1250.5.4:
+    death: yes
+mam_aybak_bahri:
+  1220.1.1:
+    birth: cairo #TODO: Date and location guessed, check if better data is available
+    first_name: aybak
+    dynasty: bahri_dynasty
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: sunni
+    culture: lower_egyptian_culture
+  1257.1.1:
+    death: yes
+mam_al_mansur_ali_bahri:
+  1244.1.1:
+    birth: cairo #TODO: Date and location guessed, check if better data is available
+    first_name: al_mansur_ali
+    dynasty: bahri_dynasty
+    father: mam_aybak_bahri #TODO: check if this makes sense
+    adm: 15
+    dip: 30
+    mil: 30
+    religion: sunni
+    culture: lower_egyptian_culture
+  1259.1.1:
+    death: yes
+mam_al_mansur_ali_bahri_1:
+  1227.1.1:
+    birth: cairo #TODO: Date and location guessed, check if better data is available
+    first_name: al_mansur_ali
+    dynasty: bahri_dynasty
+    adm: 15
+    dip: 30
+    mil: 30
+    religion: sunni
+    culture: lower_egyptian_culture
+  1259.1.1:
+    death: yes
+mam_qutuz_bahri:
+  1220.11.2:
+    birth: cairo #TODO: Location guessed, check if better data is available
+    first_name: qutuz
+    dynasty: bahri_dynasty
+    father: mam_al_mansur_ali_bahri_1 #TODO: check if this makes sense
+    adm: 60
+    dip: 15
+    mil: 75
+    religion: sunni
+    culture: lower_egyptian_culture
+  1260.10.24:
+    death: yes
+mam_qutuz_bahri_1:
+  1229.1.1:
+    birth: cairo #TODO: Date and location guessed, check if better data is available
+    first_name: qutuz
+    dynasty: bahri_dynasty
+    adm: 60
+    dip: 15
+    mil: 75
+    religion: sunni
+    culture: lower_egyptian_culture
+  1260.10.24:
+    death: yes
+mam_baibars_i_bahri:
+  1223.7.19:
+    birth: cairo #TODO: Location guessed, check if better data is available
+    first_name: baibars
+    dynasty: bahri_dynasty
+    father: mam_qutuz_bahri_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 75
+    mil: 75
+    religion: sunni
+    culture: lower_egyptian_culture
+  1277.7.1:
+    death: yes
+mam_baibars_i_bahri_1:
+  1230.1.1:
+    birth: cairo #TODO: Date and location guessed, check if better data is available
+    first_name: baibars
+    dynasty: bahri_dynasty
+    adm: 45
+    dip: 75
+    mil: 75
+    religion: sunni
+    culture: lower_egyptian_culture
+  1277.7.1:
+    death: yes
+mam_al_said_barakah_bahri:
+  1260.1.1:
+    birth: cairo #TODO: Date and location guessed, check if better data is available
+    first_name: al_said_barakah
+    dynasty: bahri_dynasty
+    father: mam_baibars_i_bahri_1 #TODO: check if this makes sense
+    adm: 60
+    dip: 15
+    mil: 30
+    religion: sunni
+    culture: lower_egyptian_culture
+  1280.1.1:
+    death: yes
+mam_al_said_barakah_bahri_1:
+  1247.1.1:
+    birth: cairo #TODO: Date and location guessed, check if better data is available
+    first_name: al_said_barakah
+    dynasty: bahri_dynasty
+    adm: 60
+    dip: 15
+    mil: 30
+    religion: sunni
+    culture: lower_egyptian_culture
+  1279.1.1:
+    death: yes
+mam_al_mansur_qalawun_bahri:
+  1222.1.1:
+    birth: cairo #TODO: Date and location guessed, check if better data is available
+    first_name: al_mansur_qalawun
+    dynasty: bahri_dynasty
+    father: mam_al_said_barakah_bahri_1 #TODO: check if this makes sense
+    adm: 75
+    dip: 45
+    mil: 75
+    religion: sunni
+    culture: lower_egyptian_culture
+  1290.11.10:
+    death: yes
+mam_al_mansur_qalawun_bahri_1:
+  1249.1.1:
+    birth: cairo #TODO: Date and location guessed, check if better data is available
+    first_name: al_mansur_qalawun
+    dynasty: bahri_dynasty
+    adm: 75
+    dip: 45
+    mil: 75
+    religion: sunni
+    culture: lower_egyptian_culture
+  1290.11.10:
+    death: yes
+mam_al_ashraf_khalil_bahri:
+  1262.1.1:
+    birth: cairo #TODO: Date and location guessed, check if better data is available
+    first_name: al_ashraf_khalil
+    dynasty: bahri_dynasty
+    father: mam_al_mansur_qalawun_bahri_1 #TODO: check if this makes sense
+    adm: 60
+    dip: 30
+    mil: 30
+    religion: sunni
+    culture: lower_egyptian_culture
+  1293.12.14:
+    death: yes
+mam_al_ashraf_khalil_bahri_1:
+  1260.1.1:
+    birth: cairo #TODO: Date and location guessed, check if better data is available
+    first_name: al_ashraf_khalil
+    dynasty: bahri_dynasty
+    adm: 60
+    dip: 30
+    mil: 30
+    religion: sunni
+    culture: lower_egyptian_culture
+  1293.12.14:
+    death: yes
+mam_al_nasir_muhammad_bahri:
+  1285.1.1:
+    birth: cairo #TODO: Date and location guessed, check if better data is available
+    first_name: al_nasir_muhammad
+    dynasty: bahri_dynasty
+    father: mam_al_ashraf_khalil_bahri_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 15
+    mil: 75
+    religion: sunni
+    culture: lower_egyptian_culture
+  1341.1.1:
+    death: yes
+mam_al_nasir_muhammad_bahri_1:
+  1263.1.1:
+    birth: cairo #TODO: Date and location guessed, check if better data is available
+    first_name: al_nasir_muhammad
+    dynasty: bahri_dynasty
+    adm: 45
+    dip: 15
+    mil: 75
+    religion: sunni
+    culture: lower_egyptian_culture
+  1294.12.1:
+    death: yes
+mam_al_adil_kitbugha_bahri:
+  1264.1.1:
+    birth: cairo #TODO: Date and location guessed, check if better data is available
+    first_name: al_adil_kitbugha
+    dynasty: bahri_dynasty
+    adm: 30
+    dip: 15
+    mil: 15
+    religion: sunni
+    culture: lower_egyptian_culture
+  1296.11.1:
+    death: yes
+mam_lajin_bahri:
+  1260.1.1:
+    birth: cairo #TODO: Date and location guessed, check if better data is available
+    first_name: lajin
+    dynasty: bahri_dynasty
+    father: mam_al_adil_kitbugha_bahri #TODO: check if this makes sense
+    adm: 60
+    dip: 75
+    mil: 30
+    religion: sunni
+    culture: lower_egyptian_culture
+  1299.1.16:
+    death: yes
+mam_lajin_bahri_1:
+  1266.1.1:
+    birth: cairo #TODO: Date and location guessed, check if better data is available
+    first_name: lajin
+    dynasty: bahri_dynasty
+    adm: 60
+    dip: 75
+    mil: 30
+    religion: sunni
+    culture: lower_egyptian_culture
+  1299.1.16:
+    death: yes
+mam_al_nasir_muhammad_bahri_2:
+  1269.1.1:
+    birth: cairo #TODO: Date and location guessed, check if better data is available
+    first_name: al_nasir_muhammad
+    dynasty: bahri_dynasty
+    adm: 45
+    dip: 15
+    mil: 75
+    religion: sunni
+    culture: lower_egyptian_culture
+  1341.1.1:
+    death: yes
+mam_kujuk_bahri:
+  1334.1.1:
+    birth: cairo #TODO: Date and location guessed, check if better data is available
+    first_name: kujuk
+    dynasty: bahri_dynasty
+    father: mam_al_nasir_muhammad_bahri_2 #TODO: check if this makes sense
+    adm: 75
+    dip: 75
+    mil: 45
+    religion: sunni
+    culture: lower_egyptian_culture
+  1345.1.1:
+    death: yes
+mam_kujuk_bahri_1:
+  1311.1.1:
+    birth: cairo #TODO: Date and location guessed, check if better data is available
+    first_name: kujuk
+    dynasty: bahri_dynasty
+    adm: 75
+    dip: 75
+    mil: 45
+    religion: sunni
+    culture: lower_egyptian_culture
+  1342.1.1:
+    death: yes
+mam_ismail_bahri:
+  1312.1.1:
+    birth: cairo #TODO: Date and location guessed, check if better data is available
+    first_name: ismail
+    dynasty: bahri_dynasty
+    adm: 45
+    dip: 45
+    mil: 30
+    religion: sunni
+    culture: lower_egyptian_culture
+  1345.1.1:
+    death: yes
+mam_shaban_i_bahri:
+  1315.1.1:
+    birth: cairo #TODO: Date and location guessed, check if better data is available
+    first_name: shaban
+    dynasty: bahri_dynasty
+    adm: 15
+    dip: 15
+    mil: 15
+    religion: sunni
+    culture: lower_egyptian_culture
+  1346.1.1:
+    death: yes
+mam_hajji_i_bahri:
+  1316.1.1:
+    birth: cairo #TODO: Date and location guessed, check if better data is available
+    first_name: hajji
+    dynasty: bahri_dynasty
+    adm: 60
+    dip: 60
+    mil: 30
+    religion: sunni
+    culture: lower_egyptian_culture
+  1347.1.1:
+    death: yes
+mam_al_hasan_bahri:
+  1317.1.1:
+    birth: cairo #TODO: Date and location guessed, check if better data is available
+    first_name: al_hasan
+    dynasty: bahri_dynasty
+    adm: 60
+    dip: 15
+    mil: 15
+    religion: sunni
+    culture: lower_egyptian_culture
+  1351.1.1:
+    death: yes
+mam_muhammad_i_bahri:
+  1321.1.1:
+    birth: cairo #TODO: Date and location guessed, check if better data is available
+    first_name: muhammad
+    dynasty: bahri_dynasty
+    adm: 60
+    dip: 60
+    mil: 75
+    religion: sunni
+    culture: lower_egyptian_culture
+  1354.1.1:
+    death: yes
+mam_al_hasan_bahri_1:
+  1324.1.1:
+    birth: cairo #TODO: Date and location guessed, check if better data is available
+    first_name: al_hasan
+    dynasty: bahri_dynasty
+    adm: 60
+    dip: 15
+    mil: 15
+    religion: sunni
+    culture: lower_egyptian_culture
+  1361.1.1:
+    death: yes
+mam_muhammad_ii_bahri:
+  1331.1.1:
+    birth: cairo #TODO: Date and location guessed, check if better data is available
+    first_name: muhammad
+    dynasty: bahri_dynasty
+    adm: 75
+    dip: 60
+    mil: 60
+    religion: sunni
+    culture: lower_egyptian_culture
+  1363.1.1:
+    death: yes
+mam_shaban_ii_bahri:
+  1333.1.1:
+    birth: cairo #TODO: Date and location guessed, check if better data is available
+    first_name: shaban
+    dynasty: bahri_dynasty
+    adm: 60
+    dip: 30
+    mil: 30
+    religion: sunni
+    culture: lower_egyptian_culture
+  1376.1.1:
+    death: yes
+mam_ali_bahri:
+  1346.1.1:
+    birth: cairo #TODO: Date and location guessed, check if better data is available
+    first_name: ali
+    dynasty: bahri_dynasty
+    adm: 75
+    dip: 15
+    mil: 60
+    religion: sunni
+    culture: lower_egyptian_culture
+  1382.1.1:
+    death: yes
+mam_barquq_burji:
+  1352.1.1:
+    birth: cairo #TODO: Date and location guessed, check if better data is available
+    first_name: barquq
+    dynasty: burji_dynasty
+    adm: 60
+    dip: 75
+    mil: 30
+    religion: sunni
+    culture: lower_egyptian_culture
+  1399.1.1:
+    death: yes
+mam_al_nasr_faraj_burji:
+  1369.1.1:
+    birth: cairo #TODO: Date and location guessed, check if better data is available
+    first_name: al_nasr_faraj
+    dynasty: burji_dynasty
+    adm: 30
+    dip: 30
+    mil: 45
+    religion: sunni
+    culture: lower_egyptian_culture
+  1412.1.1:
+    death: yes
+mam_shaikh_al_mahmudi_burji:
+  1382.1.1:
+    birth: cairo #TODO: Date and location guessed, check if better data is available
+    first_name: shaikh_al_mahmudi
+    dynasty: burji_dynasty
+    adm: 30
+    dip: 45
+    mil: 15
+    religion: sunni
+    culture: lower_egyptian_culture
+  1421.1.1:
+    death: yes
+mam_muhammad_iv_burji:
+  1391.1.1:
+    birth: cairo #TODO: Date and location guessed, check if better data is available
+    first_name: muhammad
+    dynasty: burji_dynasty
+    adm: 15
+    dip: 15
+    mil: 45
+    religion: sunni
+    culture: lower_egyptian_culture
+  1422.1.1:
+    death: yes
+mam_barsbai_burji:
+  1392.1.1:
+    birth: cairo #TODO: Date and location guessed, check if better data is available
+    first_name: barsbai
+    dynasty: burji_dynasty
+    adm: 30
+    dip: 45
+    mil: 15
+    religion: sunni
+    culture: lower_egyptian_culture
+  1438.6.8:
+    death: yes
+mam_jaqmaq_burji:
+  1372.1.1:
+    birth: cairo #TODO: Date and location guessed, check if better data is available
+    first_name: jaqmaq
+    dynasty: burji_dynasty
+    adm: 30
+    dip: 30
+    mil: 45
+    religion: sunni
+    culture: lower_egyptian_culture
+  1453.2.13:
+    death: yes
+mam_inal_burji:
+  1423.1.1:
+    birth: cairo #TODO: Date and location guessed, check if better data is available
+    first_name: inal
+    dynasty: burji_dynasty
+    adm: 30
+    dip: 30
+    mil: 30
+    religion: sunni
+    culture: lower_egyptian_culture
+  1461.2.25:
+    death: yes
+mam_khushqadam_burji:
+  1431.1.1:
+    birth: cairo #TODO: Date and location guessed, check if better data is available
+    first_name: khushqadam
+    dynasty: burji_dynasty
+    adm: 15
+    dip: 15
+    mil: 30
+    religion: sunni
+    culture: lower_egyptian_culture
+  1467.10.10:
+    death: yes
+mam_qaitbay_burji:
+  1418.1.1:
+    birth: cairo #TODO: Date and location guessed, check if better data is available
+    first_name: qaitbay
+    dynasty: burji_dynasty
+    father: mam_khushqadam_burji #TODO: check if this makes sense
+    adm: 15
+    dip: 45
+    mil: 15
+    religion: sunni
+    culture: lower_egyptian_culture
+  1496.7.8:
+    death: yes
+mam_qaitbay_burji_1:
+  1437.1.1:
+    birth: cairo #TODO: Date and location guessed, check if better data is available
+    first_name: qaitbay
+    dynasty: burji_dynasty
+    adm: 15
+    dip: 45
+    mil: 15
+    religion: sunni
+    culture: lower_egyptian_culture
+  1496.7.8:
+    death: yes
+mam_muhammad_ii_burji:
+  1466.1.1:
+    birth: cairo #TODO: Date and location guessed, check if better data is available
+    first_name: muhammad
+    dynasty: burji_dynasty
+    adm: 30
+    dip: 0
+    mil: 15
+    religion: sunni
+    culture: lower_egyptian_culture
+  1498.10.30:
+    death: yes
+mam_qansuh_i_burji:
+  1468.1.1:
+    birth: cairo #TODO: Date and location guessed, check if better data is available
+    first_name: qansuh
+    dynasty: burji_dynasty
+    adm: 15
+    dip: 30
+    mil: 30
+    religion: sunni
+    culture: lower_egyptian_culture
+  1500.6.29:
+    death: yes
+mam_janbalat_burji:
+  1470.1.1:
+    birth: cairo #TODO: Date and location guessed, check if better data is available
+    first_name: janbalat
+    dynasty: burji_dynasty
+    adm: 0
+    dip: 15
+    mil: 15
+    religion: sunni
+    culture: lower_egyptian_culture
+  1501.6.26:
+    death: yes
+mam_qansuh_ii_burji:
+  1471.1.1:
+    birth: cairo #TODO: Date and location guessed, check if better data is available
+    first_name: qansuh
+    dynasty: burji_dynasty
+    adm: 15
+    dip: 15
+    mil: 45
+    religion: sunni
+    culture: lower_egyptian_culture
+  1516.8.25:
+    death: yes
+mam_tuman_bay_ii_burji:
+  1486.1.1:
+    birth: cairo #TODO: Date and location guessed, check if better data is available
+    first_name: tuman_bay
+    dynasty: burji_dynasty
+    adm: 0
+    dip: 0
+    mil: 30
+    religion: sunni
+    culture: lower_egyptian_culture
+  1768.1.1:
+    death: yes
+mam_ali_l_kabir_beg:
+  1738.1.1:
+    birth: cairo #TODO: Date and location guessed, check if better data is available
+    first_name: ali_l_kabir
+    dynasty: beg_dynasty
+    adm: 45
+    dip: 45
+    mil: 30
+    religion: sunni
+    culture: lower_egyptian_culture
+  1773.5.2:
+    death: yes
+mam_mehmed_beg:
+  1743.1.1:
+    birth: cairo #TODO: Date and location guessed, check if better data is available
+    first_name: mehmed
+    dynasty: beg_dynasty
+    adm: 60
+    dip: 15
+    mil: 15
+    religion: sunni
+    culture: lower_egyptian_culture
+  1775.6.11:
+    death: yes
+mam_murad_beg:
+  1745.1.1:
+    birth: cairo #TODO: Date and location guessed, check if better data is available
+    first_name: murad
+    dynasty: beg_dynasty
+    adm: 30
+    dip: 45
+    mil: 45
+    religion: sunni
+    culture: lower_egyptian_culture
+  1801.4.23:
+    death: yes
+mam_osman_bardisi:
+  1771.1.1:
+    birth: cairo #TODO: Date and location guessed, check if better data is available
+    first_name: osman
+    dynasty: bardisi_dynasty
+    adm: 0
+    dip: 15
+    mil: 0
+    religion: sunni
+    culture: lower_egyptian_culture
+  1804.3.14:
+    death: yes
+mam_muhammad_ali_muhammad:
+  1774.1.1:
+    birth: cairo #TODO: Date and location guessed, check if better data is available
+    first_name: muhammad_ali
+    dynasty: muhammad_dynasty
+    adm: 90
+    dip: 60
+    mil: 90
+    religion: sunni
+    culture: lower_egyptian_culture
+  3000.1.1:
+    death: yes

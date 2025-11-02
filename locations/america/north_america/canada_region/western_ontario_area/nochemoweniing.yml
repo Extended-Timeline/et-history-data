@@ -1,0 +1,30 @@
+#imported from EU4 file: history/provinces/2587 - Odawa.txt
+2.1.1:
+  owner: ODW
+  controller: ODW
+  cores:
+    ODW: yes
+  resource: fur
+  pop:
+    ethnicity: ojibwe_culture
+    religion: iroquoian_totemism
+    estate: peasant
+    size: 1000
+1841.1.1:
+  owner: GBR
+  controller: GBR
+  cores:
+    ODW: no
+    GBR: yes
+  resource: grain
+  pop:
+    ethnicity: british_canadian
+    religion: lutheran
+    estate: peasant
+    size: 1000
+1867.7.1:
+  owner: CAN
+  controller: CAN
+  cores:
+    GBR: no
+    CAN: yes

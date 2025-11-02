@@ -1,0 +1,76 @@
+#imported from EU4 file: history/provinces/305 - Perm.txt
+2.1.1:
+  pop:
+    ethnicity: udmurt
+    religion: muinaisusko
+    estate: peasant
+    size: 1000
+750.1.1:
+  owner: UDMU
+  controller: UDMU
+  cores:
+    UDMU: yes
+  resource: copper
+1250.1.1:
+  owner: MGE
+  controller: MGE
+  cores:
+    MGE: yes
+1260.1.1:
+  owner: WHHO
+  controller: WHHO
+  cores:
+    MGE: no
+    UDMU: no
+    WHHO: yes
+    PRM: yes
+1280.1.1:
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+1372.1.1:
+  owner: BLHO
+  controller: BLHO
+  cores:
+    BLHO: yes
+1374.1.1:
+  owner: WHHO
+  controller: WHHO
+  cores:
+    BLHO: no
+1378.1.1:
+  owner: GLH
+  controller: GLH
+  cores:
+    GLH: yes
+1438.1.1:
+  owner: KAZN
+  controller: KAZN
+  cores:
+    GLH: no
+    KAZN: yes
+1552.10.2:
+  owner: RUS
+  controller: RUS
+  cores:
+    KAZN: no
+    RUS: yes
+1553.1.1:
+  pop:
+    ethnicity: muscovite
+    religion: orthodox
+    estate: peasant
+    size: 1000
+1922.12.30:
+  owner: SOVI
+  controller: SOVI
+  cores:
+    RUS: no
+    SOVI: yes
+1991.12.25:
+  owner: RUS
+  controller: RUS
+  cores:
+    SOVI: no
+    RUS: yes

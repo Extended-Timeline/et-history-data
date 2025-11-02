@@ -1,0 +1,37 @@
+pcj_cayo_pacaje:
+  1414.1.1:
+    birth: machaqa #TODO: Date and location guessed, check if better data is available
+    first_name: cayo
+    dynasty: pacaje_dynasty
+    adm: 15
+    dip: 15
+    mil: 45
+    religion: inti
+    culture: aimara_culture
+  1460.1.1:
+    death: yes
+pcj_illapa_pacaje:
+  1415.1.1:
+    birth: machaqa #TODO: Date and location guessed, check if better data is available
+    first_name: illapa
+    dynasty: pacaje_dynasty
+    father: pcj_cayo_pacaje #TODO: check if this makes sense
+    adm: 15
+    dip: 0
+    mil: 15
+    religion: inti
+    culture: aimara_culture
+  1476.1.1:
+    death: yes
+pcj_illapa_pacaje_1:
+  1430.1.1:
+    birth: machaqa #TODO: Date and location guessed, check if better data is available
+    first_name: illapa
+    dynasty: pacaje_dynasty
+    adm: 15
+    dip: 0
+    mil: 15
+    religion: inti
+    culture: aimara_culture
+  3000.1.1:
+    death: yes

@@ -1,0 +1,97 @@
+gpol_mieszko_iii_piast:
+  1127.1.1:
+    birth: poznan #TODO: Date and location guessed, check if better data is available
+    first_name: mieszko
+    dynasty: piast_dynasty
+    adm: 45
+    dip: 60
+    mil: 45
+    religion: catholic
+    culture: lesser_polish
+  1202.3.13:
+    death: yes
+gpol_odon_i_piast:
+  1149.1.1:
+    birth: poznan #TODO: Date and location guessed, check if better data is available
+    first_name: odon
+    dynasty: piast_dynasty
+    adm: 30
+    dip: 0
+    mil: 45
+    religion: catholic
+    culture: lesser_polish
+  1194.4.20:
+    death: yes
+gpol_wladylaw_iii_piast:
+  1167.1.1:
+    birth: poznan #TODO: Date and location guessed, check if better data is available
+    first_name: wladylaw
+    dynasty: piast_dynasty
+    father: gpol_mieszko_iii_piast #TODO: check if this makes sense
+    adm: 15
+    dip: 60
+    mil: 45
+    religion: catholic
+    culture: lesser_polish
+  1231.11.3:
+    death: yes
+gpol_wladyslaw_odonic_piast:
+  1190.1.1:
+    birth: poznan #TODO: Date and location guessed, check if better data is available
+    first_name: wladyslaw_odonic
+    dynasty: piast_dynasty
+    adm: 30
+    dip: 60
+    mil: 15
+    religion: catholic
+    culture: lesser_polish
+  1239.6.6:
+    death: yes
+gpol_wladyslaw_iii_piast:
+  1167.1.1:
+    birth: poznan #TODO: Date and location guessed, check if better data is available
+    first_name: wladyslaw
+    dynasty: piast_dynasty
+    adm: 15
+    dip: 60
+    mil: 45
+    religion: catholic
+    culture: lesser_polish
+  1227.1.1:
+    death: yes
+gpol_boleslaw_i_piast:
+  1225.1.1:
+    birth: poznan #TODO: Date and location guessed, check if better data is available
+    first_name: boleslaw
+    dynasty: piast_dynasty
+    adm: 45
+    dip: 30
+    mil: 60
+    religion: catholic
+    culture: lesser_polish
+  1279.4.14:
+    death: yes
+gpol_przemysl_i_piast:
+  1190.1.1:
+    birth: poznan #TODO: Date and location guessed, check if better data is available
+    first_name: przemysl
+    dynasty: piast_dynasty
+    adm: 45
+    dip: 60
+    mil: 45
+    religion: catholic
+    culture: lesser_polish
+  1257.6.5:
+    death: yes
+gpol_przemysl_ii_piast:
+  1257.10.14:
+    birth: poznan #TODO: Location guessed, check if better data is available
+    first_name: przemysl
+    dynasty: piast_dynasty
+    adm: 75
+    dip: 30
+    mil: 60
+    religion: catholic
+    culture: lesser_polish
+  1296.2.8:
+    death: yes

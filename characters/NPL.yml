@@ -1,0 +1,369 @@
+npl_prithvi_narayana_shah:
+  1738.1.1:
+    birth: kathmandu #TODO: Date and location guessed, check if better data is available
+    first_name: prithvi_narayana
+    dynasty: shah_dynasty
+    adm: 75
+    dip: 60
+    mil: 90
+    religion: hindu
+    culture: newar_culture
+  1775.1.11:
+    death: yes
+npl_pratapa_simha_shah:
+  1751.1.1:
+    birth: kathmandu #TODO: Date and location guessed, check if better data is available
+    first_name: pratapa_simha
+    dynasty: shah_dynasty
+    father: npl_prithvi_narayana_shah #TODO: check if this makes sense
+    adm: 30
+    dip: 0
+    mil: 60
+    religion: hindu
+    culture: newar_culture
+  1777.11.17:
+    death: yes
+npl_pratapa_simha_shah_1:
+  1745.1.1:
+    birth: kathmandu #TODO: Date and location guessed, check if better data is available
+    first_name: pratapa_simha
+    dynasty: shah_dynasty
+    adm: 30
+    dip: 0
+    mil: 60
+    religion: hindu
+    culture: newar_culture
+  1777.11.17:
+    death: yes
+npl_rana_bahadur_shah:
+  1775.1.11:
+    birth: kathmandu #TODO: Location guessed, check if better data is available
+    first_name: rana_bahadur
+    dynasty: shah_dynasty
+    father: npl_pratapa_simha_shah_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 0
+    mil: 75
+    religion: hindu
+    culture: newar_culture
+  1805.1.1:
+    death: yes
+npl_rana_bahadur_shah_1:
+  1747.1.1:
+    birth: kathmandu #TODO: Date and location guessed, check if better data is available
+    first_name: rana_bahadur
+    dynasty: shah_dynasty
+    adm: 15
+    dip: 0
+    mil: 75
+    religion: hindu
+    culture: newar_culture
+  1799.1.1:
+    death: yes
+npl_girvan_yuddha_bikram_shah:
+  1777.11.17:
+    birth: kathmandu #TODO: Location guessed, check if better data is available
+    first_name: girvan_yuddha_bikram
+    dynasty: shah_dynasty
+    father: npl_rana_bahadur_shah_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 15
+    mil: 30
+    religion: hindu
+    culture: newar_culture
+  1816.11.20:
+    death: yes
+npl_girvan_yuddha_bikram_shah_1:
+  1769.1.1:
+    birth: kathmandu #TODO: Date and location guessed, check if better data is available
+    first_name: girvan_yuddha_bikram
+    dynasty: shah_dynasty
+    adm: 15
+    dip: 15
+    mil: 30
+    religion: hindu
+    culture: newar_culture
+  1816.11.20:
+    death: yes
+npl_rajendra_bikram_shah:
+  1813.1.1:
+    birth: kathmandu #TODO: Date and location guessed, check if better data is available
+    first_name: rajendra_bikram
+    dynasty: shah_dynasty
+    father: npl_girvan_yuddha_bikram_shah_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 45
+    mil: 15
+    religion: hindu
+    culture: newar_culture
+  1881.1.1:
+    death: yes
+npl_rajendra_bikram_shah_1:
+  1786.1.1:
+    birth: kathmandu #TODO: Date and location guessed, check if better data is available
+    first_name: rajendra_bikram
+    dynasty: shah_dynasty
+    adm: 30
+    dip: 45
+    mil: 15
+    religion: hindu
+    culture: newar_culture
+  1847.5.12:
+    death: yes
+npl_surendra_bikram_shah:
+  1829.1.1:
+    birth: kathmandu #TODO: Date and location guessed, check if better data is available
+    first_name: surendra_bikram
+    dynasty: shah_dynasty
+    father: npl_rajendra_bikram_shah_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 30
+    mil: 45
+    religion: hindu
+    culture: newar_culture
+  1881.5.17:
+    death: yes
+npl_surendra_bikram_shah_1:
+  1817.1.1:
+    birth: kathmandu #TODO: Date and location guessed, check if better data is available
+    first_name: surendra_bikram
+    dynasty: shah_dynasty
+    adm: 45
+    dip: 30
+    mil: 45
+    religion: hindu
+    culture: newar_culture
+  1881.5.12:
+    death: yes
+npl_prithvi_shah:
+  1875.8.18:
+    birth: kathmandu #TODO: Location guessed, check if better data is available
+    first_name: prithvi
+    dynasty: shah_dynasty
+    father: npl_surendra_bikram_shah_1 #TODO: check if this makes sense
+    adm: 75
+    dip: 15
+    mil: 30
+    religion: hindu
+    culture: newar_culture
+  1911.12.11:
+    death: yes
+npl_prithvi_shah_1:
+  1851.1.1:
+    birth: kathmandu #TODO: Date and location guessed, check if better data is available
+    first_name: prithvi
+    dynasty: shah_dynasty
+    adm: 75
+    dip: 15
+    mil: 30
+    religion: secularism
+    culture: newar_culture
+  1911.12.11:
+    death: yes
+npl_tribhuvan_shah:
+  1906.6.30:
+    birth: kathmandu #TODO: Location guessed, check if better data is available
+    first_name: tribhuvan
+    dynasty: shah_dynasty
+    father: npl_prithvi_shah_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 75
+    mil: 30
+    religion: hindu
+    culture: newar_culture
+  1955.3.13:
+    death: yes
+npl_tribhuvan_shah_1:
+  1881.1.1:
+    birth: kathmandu #TODO: Date and location guessed, check if better data is available
+    first_name: tribhuvan
+    dynasty: shah_dynasty
+    adm: 30
+    dip: 75
+    mil: 30
+    religion: secularism
+    culture: newar_culture
+  1950.11.7:
+    death: yes
+npl_gyanendra_shah:
+  1947.7.7:
+    birth: kathmandu #TODO: Location guessed, check if better data is available
+    first_name: gyanendra
+    dynasty: shah_dynasty
+    father: npl_tribhuvan_shah_1 #TODO: check if this makes sense
+    adm: 60
+    dip: 60
+    mil: 45
+    religion: hindu
+    culture: newar_culture
+  3000.1.1:
+    death: yes
+npl_gyanendra_shah_1:
+  1920.1.1:
+    birth: kathmandu #TODO: Date and location guessed, check if better data is available
+    first_name: gyanendra
+    dynasty: shah_dynasty
+    adm: 60
+    dip: 60
+    mil: 45
+    religion: secularism
+    culture: newar_culture
+  1951.1.7:
+    death: yes
+npl_tribhuvan_shah_2:
+  1921.1.1:
+    birth: kathmandu #TODO: Date and location guessed, check if better data is available
+    first_name: tribhuvan
+    dynasty: shah_dynasty
+    adm: 30
+    dip: 75
+    mil: 30
+    religion: secularism
+    culture: newar_culture
+  1955.3.14:
+    death: yes
+npl_mahendra_shah:
+  1920.6.11:
+    birth: kathmandu #TODO: Location guessed, check if better data is available
+    first_name: mahendra
+    dynasty: shah_dynasty
+    father: npl_tribhuvan_shah_2 #TODO: check if this makes sense
+    adm: 30
+    dip: 45
+    mil: 75
+    religion: hindu
+    culture: newar_culture
+  1972.1.31:
+    death: yes
+npl_mahendra_shah_1:
+  1925.1.1:
+    birth: kathmandu #TODO: Date and location guessed, check if better data is available
+    first_name: mahendra
+    dynasty: shah_dynasty
+    adm: 30
+    dip: 45
+    mil: 75
+    religion: secularism
+    culture: newar_culture
+  1972.1.31:
+    death: yes
+npl_birendra_shah:
+  1945.12.28:
+    birth: kathmandu #TODO: Location guessed, check if better data is available
+    first_name: birendra
+    dynasty: shah_dynasty
+    father: npl_mahendra_shah_1 #TODO: check if this makes sense
+    adm: 60
+    dip: 60
+    mil: 30
+    religion: hindu
+    culture: newar_culture
+  2001.6.1:
+    death: yes
+npl_birendra_shah_1:
+  1942.1.1:
+    birth: kathmandu #TODO: Date and location guessed, check if better data is available
+    first_name: birendra
+    dynasty: shah_dynasty
+    adm: 60
+    dip: 60
+    mil: 30
+    religion: secularism
+    culture: newar_culture
+  2001.6.1:
+    death: yes
+npl_dipendra_shah:
+  1971.6.27:
+    birth: kathmandu #TODO: Location guessed, check if better data is available
+    first_name: dipendra
+    dynasty: shah_dynasty
+    father: npl_birendra_shah_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 45
+    mil: 15
+    religion: hindu
+    culture: newar_culture
+  2001.6.4:
+    death: yes
+npl_dipendra_shah_1:
+  1971.1.1:
+    birth: kathmandu #TODO: Date and location guessed, check if better data is available
+    first_name: dipendra
+    dynasty: shah_dynasty
+    adm: 15
+    dip: 45
+    mil: 15
+    religion: secularism
+    culture: newar_culture
+  2001.6.4:
+    death: yes
+npl_gyanendra_shah_2:
+  1971.1.1:
+    birth: kathmandu #TODO: Date and location guessed, check if better data is available
+    first_name: gyanendra
+    dynasty: shah_dynasty
+    adm: 60
+    dip: 60
+    mil: 45
+    religion: secularism
+    culture: newar_culture
+  2008.5.28:
+    death: yes
+npl_paras_shah:
+  1971.12.30:
+    birth: kathmandu #TODO: Location guessed, check if better data is available
+    first_name: paras
+    dynasty: shah_dynasty
+    father: npl_gyanendra_shah_2 #TODO: check if this makes sense
+    adm: 15
+    dip: 30
+    mil: 30
+    religion: hindu
+    culture: newar_culture
+  3000.1.1:
+    death: yes
+npl_girija_prasad_koirala:
+  1924.7.4:
+    birth: kathmandu #TODO: Location guessed, check if better data is available
+    first_name: girija_prasad_koirala
+    adm: 45
+    dip: 45
+    mil: 30
+    religion: secularism
+    culture: newar_culture
+  2008.7.23:
+    death: yes
+npl_ram_baran_yadav:
+  1948.2.4:
+    birth: kathmandu #TODO: Location guessed, check if better data is available
+    first_name: ram_baran_yadav
+    adm: 60
+    dip: 60
+    mil: 30
+    religion: secularism
+    culture: newar_culture
+  2015.10.29:
+    death: yes
+npl_bidhya_devi_bhandari:
+  1961.6.19:
+    birth: kathmandu #TODO: Location guessed, check if better data is available
+    first_name: bidhya_devi_bhandari
+    female: yes
+    adm: 60
+    dip: 75
+    mil: 15
+    religion: secularism
+    culture: newar_culture
+  2023.3.13:
+    death: yes
+npl_ram_chandra_poudel:
+  1944.10.15:
+    birth: kathmandu #TODO: Location guessed, check if better data is available
+    first_name: ram_chandra_poudel
+    adm: 60
+    dip: 45
+    mil: 45
+    religion: hindu
+    culture: newar_culture
+  3000.1.1:
+    death: yes

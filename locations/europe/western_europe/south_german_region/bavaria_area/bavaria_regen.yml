@@ -1,0 +1,109 @@
+#imported from EU4 file: history/provinces/2956 - Straubing.txt
+2.1.1:
+  owner: ROM
+  controller: ROM
+  cores:
+    ROM: yes
+  resource: grain
+  pop:
+    ethnicity: southern_bavarian
+    religion: germanic
+    estate: peasant
+    size: 1000
+395.1.17:
+  owner: ROMW
+  controller: ROMW
+  cores:
+    ROM: no
+    ROMW: yes
+450.1.1:
+  owner: RUGI
+  controller: RUGI
+  cores:
+    RUGI: yes
+454.1.1:
+  owner: LOMB
+  controller: LOMB
+  cores:
+    RUGI: no
+    LOMB: yes
+550.1.1:
+  owner: BAV
+  controller: BAV
+  cores:
+    LOMB: no
+    BAV: yes
+560.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+788.1.1:
+  owner: FRAN
+  controller: FRAN
+  cores:
+    BAV: no
+    FRAN: yes
+817.1.1:
+  owner: BAV
+  controller: BAV
+  cores:
+    FRAN: no
+    BAV: yes
+867.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+880.3.22:
+  owner: EFRA
+  controller: EFRA
+  cores:
+    EFRA: yes
+911.11.10:
+  owner: BAV
+  controller: BAV
+  cores:
+    EFRA: no
+    BAV: yes
+1100.1.1:
+  resource: glass
+1353.1.1:
+  owner: STRB
+  controller: STRB
+  cores:
+    BAV: no
+    STRB: yes
+1425.1.6:
+  owner: UBV
+  controller: UBV
+  cores:
+    UBV: yes
+1503.12.1:
+  owner: BAV
+  controller: BAV
+  cores:
+    BAV: yes
+1704.8.13:
+  owner: HAB
+  controller: HAB
+1714.9.7:
+  owner: BAV
+  controller: BAV
+1871.1.18:
+  owner: GER
+  controller: GER
+  cores:
+    GER: yes
+1945.5.3:
+  controller: GBR
+1945.5.8:
+  owner: WGER
+  controller: WGER
+  cores:
+    WGER: yes
+1990.10.3:
+  owner: GER
+  controller: GER
+  cores:
+    WGER: no

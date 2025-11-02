@@ -1,0 +1,85 @@
+#imported from EU4 file: history/provinces/1058 - Nerchinsky.txt
+2.1.1:
+  pop:
+    ethnicity: mongolian_culture
+    religion: 
+    estate: peasant
+    size: 1000
+580.1.1:
+  owner: GOKT
+  controller: GOKT
+  cores:
+    GOKT: yes
+  resource: fur
+627.1.1:
+  owner: XUEY
+  controller: XUEY
+  cores:
+    XUEY: yes
+646.10.1:
+  owner: UYGH
+  controller: UYGH
+  cores:
+    XUEY: no
+    UYGH: yes
+681.1.1:
+  owner: GOKT
+  controller: GOKT
+  cores:
+    GOKT: yes
+744.1.1:
+  owner: UYGH
+  controller: UYGH
+  cores:
+    GOKT: no
+    UYGH: yes
+848.1.1:
+  owner: KHMO
+  controller: KHMO
+  cores:
+    UYGH: no
+    KHMO: yes
+1206.1.1:
+  owner: MGE
+  controller: MGE
+  cores:
+    KHMO: no
+    MGE: yes
+1271.1.1:
+  owner: YUA
+  controller: YUA
+  cores:
+    MGE: no
+    YUA: yes
+1368.1.23:
+  owner: MGE
+  controller: MGE
+  cores:
+    YUA: no
+    MGE: yes
+1653.1.1:
+  owner: RUS
+  controller: RUS
+  resource: wool
+  pop:
+    ethnicity: muscovite
+    religion: orthodox
+    estate: peasant
+    size: 1000
+1678.1.1:
+  cores:
+    RUS: yes
+1922.12.30:
+  owner: SOVI
+  controller: SOVI
+  cores:
+    RUS: no
+    SOVI: yes
+1968.1.1:
+  resource: uranium
+1991.12.25:
+  owner: RUS
+  controller: RUS
+  cores:
+    SOVI: no
+    RUS: yes

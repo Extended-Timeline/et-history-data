@@ -1,0 +1,98 @@
+#imported from EU4 file: history/provinces/716 - Tannu Tuva.txt
+2.1.1:
+  owner: YKYR
+  controller: YKYR
+  cores:
+    YKYR: yes
+  resource: fur
+  pop:
+    ethnicity: kyrgyz_culture
+    religion: 
+    estate: peasant
+    size: 1000
+750.1.1:
+  pop:
+    ethnicity: tuvan_culture
+    estate: peasant
+    size: 1000
+848.1.1:
+  owner: TUVA
+  controller: TUVA
+  cores:
+    YKYR: no
+    TUVA: yes
+1207.1.1:
+  owner: MGE
+  controller: MGE
+  cores:
+    MGE: yes
+1271.1.1:
+  owner: YUA
+  controller: YUA
+  cores:
+    MGE: no
+    YUA: yes
+1368.1.23:
+  owner: MGE
+  controller: MGE
+  cores:
+    YUA: no
+    MGE: yes
+1399.1.1:
+  owner: OIR
+  controller: OIR
+  cores:
+    MGE: no
+    OIR: yes
+1552.1.1:
+  owner: MGE
+  controller: MGE
+  cores:
+    MGE: yes
+1586.1.1:
+  pop:
+    religion: tibetan_buddhism
+    estate: peasant
+    size: 1000
+1623.1.1:
+  owner: OIR
+  controller: OIR
+1635.1.1:
+  owner: ZUNG
+  controller: ZUNG
+  cores:
+    ZUNG: yes
+1697.1.1:
+  owner: QNG
+  controller: QNG
+  cores:
+    QNG: yes
+1850.1.1:
+  cores:
+    OIR: no
+    MGE: no
+1911.12.29:
+  owner: TUVA
+  controller: TUVA
+  cores:
+    QNG: no
+    TUVA: yes
+1914.4.17:
+  owner: RUS
+  controller: RUS
+  cores:
+    RUS: yes
+1921.8.14:
+  owner: TUVA
+  controller: TUVA
+1922.12.30:
+  cores:
+    SOVI: yes
+1944.10.11:
+  owner: SOVI
+  controller: SOVI
+1991.12.25:
+  owner: RUS
+  controller: RUS
+  cores:
+    SOVI: no

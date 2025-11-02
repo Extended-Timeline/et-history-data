@@ -1,0 +1,86 @@
+#imported from EU4 file: history/provinces/2689 - Demak.txt
+2.1.1:
+  pop:
+    ethnicity: javanese_culture
+    religion: hindu
+    estate: peasant
+    size: 1000
+530.1.1:
+  owner: KALG
+  controller: KALG
+  cores:
+    KALG: yes
+  resource: naval_supplies
+732.1.1:
+  owner: MATA
+  controller: MATA
+  cores:
+    KALG: no
+    MATA: yes
+1016.1.1:
+  owner: KALG
+  controller: KALG
+  cores:
+    MATA: no
+    KALG: yes
+1019.1.1:
+  owner: KAHU
+  controller: KAHU
+  cores:
+    KALG: no
+    KAHU: yes
+1045.1.1:
+  owner: KEDI
+  controller: KEDI
+  cores:
+    KAHU: no
+    KEDI: yes
+1222.1.1:
+  owner: SING
+  controller: SING
+  cores:
+    KEDI: no
+    SING: yes
+1293.1.1:
+  owner: MAJ
+  controller: MAJ
+  cores:
+    SING: no
+    MAJ: yes
+1475.1.1:
+  owner: DEMA
+  controller: DEMA
+  cores:
+    MAJ: no
+    DEMA: yes
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+1587.1.1:
+  owner: MATA
+  controller: MATA
+  cores:
+    DEMA: no
+    MATA: yes
+1830.1.1:
+  owner: NED
+  controller: NED
+  cores:
+    NED: yes
+1912.9.10:
+  cores:
+    MATA: no
+    INDN: yes
+1942.3.1:
+  controller: JAP
+1942.3.9:
+  owner: JAP
+1945.8.15:
+  owner: NED
+1945.8.17:
+  owner: INDN
+  controller: INDN
+1949.12.27:
+  cores:
+    NED: no

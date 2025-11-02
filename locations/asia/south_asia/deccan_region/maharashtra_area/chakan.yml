@@ -1,0 +1,121 @@
+#imported from EU4 file: history/provinces/4432 - Junir.txt
+2.1.1:
+  owner: SATA
+  controller: SATA
+  cores:
+    SATA: yes
+  resource: cotton
+  pop:
+    ethnicity: marathi_culture
+    religion: jain
+    estate: peasant
+    size: 1000
+80.1.1:
+  owner: WSAT
+  controller: WSAT
+  cores:
+    WSAT: yes
+130.1.1:
+  owner: SATA
+  controller: SATA
+  cores:
+    SATA: yes
+180.1.1:
+  cores:
+    WSAT: no
+220.1.1:
+  owner: ABHI
+  controller: ABHI
+  cores:
+    SATA: no
+    ABHI: yes
+250.1.1:
+  owner: VAKA
+  controller: VAKA
+  cores:
+    ABHI: no
+    VAKA: yes
+480.1.1:
+  owner: KADA
+  controller: KADA
+  cores:
+    VAKA: no
+    KADA: yes
+543.1.1:
+  owner: CHAL
+  controller: CHAL
+  cores:
+    KADA: no
+    CHAL: yes
+753.1.1:
+  owner: RAST
+  controller: RAST
+  cores:
+    CHAL: no
+    RAST: yes
+973.1.1:
+  owner: CHAL
+  controller: CHAL
+  cores:
+    RAST: no
+    CHAL: yes
+1180.1.1:
+  pop:
+    religion: hindu
+    estate: peasant
+    size: 1000
+1189.1.1:
+  owner: YADA
+  controller: YADA
+  cores:
+    CHAL: no
+    YADA: yes
+1317.1.1:
+  owner: DLH
+  controller: DLH
+  cores:
+    YADA: no
+    DLH: yes
+    AHMA: yes
+    BIJA: yes
+1347.1.1:
+  owner: BAH
+  controller: BAH
+  cores:
+    DLH: no
+    BAH: yes
+1490.1.1:
+  owner: AHMA
+  controller: AHMA
+  cores:
+    BAH: no
+1633.7.27:
+  owner: MUG
+  controller: MUG
+  cores:
+    MUG: yes
+1650.1.1:
+  cores:
+    MHR: yes
+1658.6.8:
+  controller: MUG
+1674.1.1:
+  owner: MHR
+  controller: MHR
+  cores:
+    MUG: no
+1818.6.3:
+  owner: GBR
+  controller: GBR
+  cores:
+    MHR: no
+    GBR: yes
+1930.1.1:
+  cores:
+    BIJA: no
+    INDI: yes
+1947.8.15:
+  owner: INDI
+  controller: INDI
+  cores:
+    GBR: no

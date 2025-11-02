@@ -1,0 +1,103 @@
+#imported from EU4 file: history/provinces/44 - Hamburg.txt
+2.1.1:
+  owner: SAX
+  controller: SAX
+  cores:
+    SAX: yes
+  resource: fish
+  pop:
+    ethnicity: lower_saxon
+    religion: germanic
+    estate: peasant
+    size: 1000
+700.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+804.1.1:
+  owner: FRAN
+  controller: FRAN
+  cores:
+    FRAN: yes
+840.6.21:
+  owner: EFRA
+  controller: EFRA
+  cores:
+    FRAN: no
+    EFRA: yes
+867.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+911.11.10:
+  owner: SAX
+  controller: SAX
+  cores:
+    EFRA: no
+1186.1.1:
+  owner: BRM
+  controller: BRM
+  cores:
+    SAX: no
+    BRM: yes
+1189.1.1:
+  owner: HAM
+  controller: HAM
+  cores:
+    BRM: no
+    HAM: yes
+1201.1.1:
+  owner: DAN
+  controller: DAN
+  cores:
+    DAN: yes
+1227.1.1:
+  owner: HOLS
+  controller: HOLS
+  cores:
+    DAN: no
+    HOLS: yes
+1241.1.1:
+  owner: HAM
+  controller: HAM
+  cores:
+    HOLS: no
+    HAM: yes
+1529.1.1:
+  pop:
+    religion: lutheran
+    estate: peasant
+    size: 1000
+1810.12.13:
+  owner: FRA
+  controller: FRA
+  cores:
+    FRA: yes
+1814.4.11:
+  owner: HAM
+  controller: HAM
+  cores:
+    FRA: no
+1871.1.18:
+  owner: GER
+  controller: GER
+  cores:
+    GER: yes
+1900.1.1:
+  cores:
+    HAM: no
+    LUB: no
+1945.5.8:
+  owner: WGER
+  controller: WGER
+  cores:
+    WGER: yes
+1970.1.1:
+  resource: electronics
+1990.10.3:
+  owner: GER
+  controller: GER
+  cores:
+    WGER: no

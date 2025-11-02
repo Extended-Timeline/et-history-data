@@ -1,0 +1,64 @@
+#imported from EU4 file: history/provinces/2052 - Kathiawar.txt
+2.1.1:
+  owner: WSAT
+  controller: WSAT
+  cores:
+    WSAT: yes
+  resource: gems
+  pop:
+    ethnicity: gujarati
+    religion: hindu
+    estate: peasant
+    size: 1000
+405.1.1:
+  owner: GUPT
+  controller: GUPT
+  cores:
+    WSAT: no
+    GUPT: yes
+475.1.1:
+  owner: GUJ
+  controller: GUJ
+  cores:
+    GUPT: no
+    GUJ: yes
+734.1.1:
+  owner: PORD
+  controller: PORD
+  cores:
+    GUJ: no
+    PORD: yes
+920.1.1:
+  owner: JNG
+  controller: JNG
+  cores:
+    PORD: no
+    JNG: yes
+1147.1.1:
+  owner: KATH
+  controller: KATH
+  cores:
+    JNG: no
+    KATH: yes
+1470.1.1:
+  owner: GUJ
+  controller: GUJ
+1540.1.1:
+  owner: NAVA
+  controller: NAVA
+1592.1.1:
+  owner: MUG
+  controller: MUG
+  cores:
+    MUG: yes
+1725.1.1:
+  owner: NAVA
+  controller: NAVA
+  cores:
+    MUG: no
+1930.1.1:
+  cores:
+    INDI: yes
+1947.8.15:
+  owner: INDI
+  controller: INDI

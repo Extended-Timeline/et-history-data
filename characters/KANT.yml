@@ -1,0 +1,37 @@
+kant_sri_varanarendra_kantoli:
+  400.1.1:
+    birth: jambi #TODO: Date and location guessed, check if better data is available
+    first_name: sri_varanarendra
+    dynasty: kantoli_dynasty
+    adm: 15
+    dip: 45
+    mil: 75
+    religion: mahayana
+    culture: malay_culture
+  500.1.1:
+    death: yes
+kant_vijayavarman_kantoli:
+  480.1.1:
+    birth: jambi #TODO: Date and location guessed, check if better data is available
+    first_name: vijayavarman
+    dynasty: kantoli_dynasty
+    father: kant_sri_varanarendra_kantoli #TODO: check if this makes sense
+    adm: 15
+    dip: 45
+    mil: 15
+    religion: mahayana
+    culture: malay_culture
+  580.1.1:
+    death: yes
+kant_vijayavarman_kantoli_1:
+  470.1.1:
+    birth: jambi #TODO: Date and location guessed, check if better data is available
+    first_name: vijayavarman
+    dynasty: kantoli_dynasty
+    adm: 15
+    dip: 45
+    mil: 15
+    religion: mahayana
+    culture: malay_culture
+  3000.1.1:
+    death: yes

@@ -1,0 +1,156 @@
+#imported from EU4 file: history/provinces/287 - Kouban.txt
+2.1.1:
+  owner: BOSP
+  controller: BOSP
+  cores:
+    BOSP: yes
+    ROM: yes
+  resource: livestock
+  pop:
+    ethnicity: circassian_culture
+    religion: 
+    estate: peasant
+    size: 1000
+63.1.1:
+  owner: ROM
+  controller: ROM
+68.1.1:
+  owner: BOSP
+  controller: BOSP
+370.1.1:
+  owner: HUNS
+  controller: HUNS
+  cores:
+    ROM: no
+    HUNS: yes
+420.1.1:
+  cores:
+    UTIG: yes
+469.1.1:
+  owner: UTIG
+  controller: UTIG
+  cores:
+    HUNS: no
+632.1.1:
+  owner: BUL
+  controller: BUL
+  cores:
+    UTIG: no
+    BUL: yes
+720.1.1:
+  owner: KHAZ
+  controller: KHAZ
+  cores:
+    BUL: no
+    KHAZ: yes
+988.1.1:
+  owner: TMUT
+  controller: TMUT
+  cores:
+    KHAZ: no
+    TMUT: yes
+1035.1.1:
+  owner: KIEV
+  controller: KIEV
+  cores:
+    KIEV: yes
+1054.2.20:
+  owner: TMUT
+  controller: TMUT
+  cores:
+    KIEV: no
+    TMUT: yes
+1094.1.1:
+  owner: CUMA
+  controller: CUMA
+  cores:
+    CUMA: yes
+1237.1.1:
+  owner: MGE
+  controller: MGE
+  cores:
+    CUMA: no
+    MGE: yes
+    CRIM: yes
+1250.1.1:
+  pop:
+    ethnicity: crimean
+    estate: peasant
+    size: 1000
+1260.1.1:
+  owner: WHHO
+  controller: WHHO
+  cores:
+    MGE: no
+    WHHO: yes
+1300.1.1:
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+1372.1.1:
+  owner: BLHO
+  controller: BLHO
+  cores:
+    BLHO: yes
+1374.1.1:
+  owner: WHHO
+  controller: WHHO
+  cores:
+    BLHO: no
+1378.1.1:
+  owner: GLH
+  controller: GLH
+  cores:
+    GLH: yes
+1441.1.1:
+  owner: CRIM
+  controller: CRIM
+  cores:
+    CRIM: yes
+1478.6.1:
+  cores:
+    TUR: yes
+1774.7.21:
+  owner: RUS
+  controller: RUS
+  cores:
+    RUS: yes
+    CRIM: no
+    TUR: no
+1792.6.12:
+  pop:
+    ethnicity: ruthenian
+    estate: peasant
+    size: 1000
+1918.2.20:
+  owner: UKR
+  controller: UKR
+  cores:
+    UKR: yes
+1919.11.7:
+  owner: RUS
+  controller: RUS
+  cores:
+    UKR: no
+1922.12.30:
+  owner: SOVI
+  controller: SOVI
+  cores:
+    RUS: no
+    SOVI: yes
+1933.1.1:
+  pop:
+    ethnicity: muscovite
+    estate: peasant
+    size: 1000
+1942.8.12:
+  controller: GER
+1943.2.12:
+  controller: SOVI
+1991.12.25:
+  owner: RUS
+  controller: RUS
+  cores:
+    SOVI: no
+    RUS: yes

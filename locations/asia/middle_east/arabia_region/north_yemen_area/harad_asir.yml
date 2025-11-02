@@ -1,0 +1,103 @@
+#imported from EU4 file: history/provinces/4279 - Zabid.txt
+2.1.1:
+  owner: HIMY
+  controller: HIMY
+  cores:
+    HIMY: yes
+  resource: coffee
+  pop:
+    ethnicity: yemeni_culture
+    religion: south_arabian
+    estate: peasant
+    size: 1000
+525.1.1:
+  owner: AKSM
+  controller: AKSM
+  cores:
+    HIMY: no
+    AKSM: yes
+560.1.1:
+  owner: YEM
+  controller: YEM
+  cores:
+    AKSM: no
+    YEM: yes
+628.1.1:
+  owner: RASH
+  controller: RASH
+  cores:
+    RASH: yes
+  pop:
+    religion: islam
+    estate: peasant
+    size: 1000
+661.7.28:
+  owner: UMAY
+  controller: UMAY
+  cores:
+    RASH: no
+    UMAY: yes
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+750.8.6:
+  owner: ABBA
+  controller: ABBA
+  cores:
+    UMAY: no
+    ABBA: yes
+866.1.1:
+  owner: YEM
+  controller: YEM
+  cores:
+    ABBA: no
+    YEM: yes
+1174.5.13:
+  owner: EGY
+  controller: EGY
+  cores:
+    EGY: yes
+1229.1.1:
+  owner: YEM
+  controller: YEM
+  cores:
+    EGY: no
+    YEM: yes
+1516.1.1:
+  owner: MAM
+  controller: MAM
+  cores:
+    MAM: yes
+1538.1.1:
+  owner: TUR
+  controller: TUR
+  cores:
+    TUR: yes
+1635.1.1:
+  owner: RASS
+  controller: RASS
+  cores:
+    TUR: no
+    RASS: yes
+1849.1.1:
+  owner: TUR
+  controller: TUR
+  cores:
+    TUR: yes
+1918.10.30:
+  owner: RASS
+  controller: RASS
+  cores:
+    TUR: no
+    RASS: yes
+1934.5.10:
+  controller: SAUD
+1934.5.20:
+  controller: RASS
+1962.9.27:
+  owner: YEM
+  controller: YEM
+  cores:
+    RASS: no
+    YEM: yes

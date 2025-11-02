@@ -1,0 +1,98 @@
+xho_tshiwo_xhosa:
+  1697.1.1:
+    birth: umngazi #TODO: Date and location guessed, check if better data is available
+    first_name: tshiwo
+    dynasty: xhosa_dynasty
+    adm: 45
+    dip: 45
+    mil: 15
+    religion: bantu_religion
+    culture: nguni_culture
+  1736.1.1:
+    death: yes
+xho_phalo_xhosa:
+  1710.1.1:
+    birth: umngazi #TODO: Date and location guessed, check if better data is available
+    first_name: phalo
+    dynasty: xhosa_dynasty
+    father: xho_tshiwo_xhosa #TODO: check if this makes sense
+    adm: 30
+    dip: 30
+    mil: 30
+    religion: bantu_religion
+    culture: nguni_culture
+  1775.1.1:
+    death: yes
+xho_phalo_xhosa_1:
+  1697.1.1:
+    birth: umngazi #TODO: Date and location guessed, check if better data is available
+    first_name: phalo
+    dynasty: xhosa_dynasty
+    adm: 30
+    dip: 30
+    mil: 30
+    religion: bantu_religion
+    culture: nguni_culture
+  1775.1.1:
+    death: yes
+xho_rarabe_xhosa:
+  1722.1.1:
+    birth: umngazi #TODO: Date and location guessed, check if better data is available
+    first_name: rarabe
+    dynasty: xhosa_dynasty
+    adm: 15
+    dip: 45
+    mil: 15
+    religion: bantu_religion
+    culture: nguni_culture
+  1782.1.1:
+    death: yes
+xho_mlawu_xhosa:
+  1750.1.1:
+    birth: umngazi #TODO: Date and location guessed, check if better data is available
+    first_name: mlawu
+    dynasty: xhosa_dynasty
+    father: xho_rarabe_xhosa #TODO: check if this makes sense
+    adm: 15
+    dip: 30
+    mil: 0
+    religion: bantu_religion
+    culture: nguni_culture
+  1782.1.1:
+    death: yes
+xho_ndlambe_xhosa:
+  1740.1.1:
+    birth: umngazi #TODO: Date and location guessed, check if better data is available
+    first_name: ndlambe
+    dynasty: xhosa_dynasty
+    adm: 45
+    dip: 45
+    mil: 0
+    religion: bantu_religion
+    culture: nguni_culture
+  1797.1.1:
+    death: yes
+xho_ngqika_gaika:
+  1770.1.1:
+    birth: umngazi #TODO: Date and location guessed, check if better data is available
+    first_name: ngqika
+    dynasty: gaika_dynasty
+    adm: 45
+    dip: 60
+    mil: 60
+    religion: bantu_religion
+    culture: nguni_culture
+  1829.11.13:
+    death: yes
+xho_sandile_gaika:
+  1820.1.1:
+    birth: umngazi #TODO: Date and location guessed, check if better data is available
+    first_name: sandile
+    dynasty: gaika_dynasty
+    adm: 45
+    dip: 45
+    mil: 75
+    religion: bantu_religion
+    culture: nguni_culture
+  1878.6.1:
+    death: yes

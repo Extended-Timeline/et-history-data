@@ -1,0 +1,73 @@
+#imported from EU4 file: history/provinces/547 - Bastar.txt
+2.1.1:
+  owner: BST
+  controller: BST
+  cores:
+    BST: yes
+  resource: tropical_wood
+  pop:
+    ethnicity: gond
+    religion: hindu
+    estate: peasant
+    size: 1000
+120.1.1:
+  owner: SATA
+  controller: SATA
+  cores:
+    SATA: yes
+175.1.1:
+  owner: BST
+  controller: BST
+  cores:
+    SATA: no
+815.1.1:
+  owner: RAST
+  controller: RAST
+  cores:
+    RAST: yes
+820.1.1:
+  owner: BST
+  controller: BST
+  cores:
+    RAST: no
+1023.1.1:
+  owner: KLH
+  controller: KLH
+  cores:
+    KLH: yes
+1044.1.1:
+  owner: KALI
+  controller: KALI
+  cores:
+    KLH: no
+    KALI: yes
+1114.1.1:
+  owner: RATA
+  controller: RATA
+  cores:
+    RATA: yes
+1125.1.1:
+  owner: KALI
+  controller: KALI
+  cores:
+    RATA: no
+1235.1.1:
+  owner: TELI
+  controller: TELI
+  cores:
+    KALI: no
+    TELI: yes
+1324.1.1:
+  owner: BST
+  controller: BST
+  cores:
+    TELI: no
+    BST: yes
+1930.1.1:
+  cores:
+    INDI: yes
+1947.8.15:
+  owner: INDI
+  controller: INDI
+  cores:
+    BST: no

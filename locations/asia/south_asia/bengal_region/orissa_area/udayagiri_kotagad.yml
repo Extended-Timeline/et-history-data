@@ -1,0 +1,115 @@
+#imported from EU4 file: history/provinces/2049 - Khurda.txt
+2.1.1:
+  owner: KALI
+  controller: KALI
+  cores:
+    KALI: yes
+  resource: grain
+  pop:
+    ethnicity: garjati
+    religion: jain
+    estate: peasant
+    size: 1000
+150.1.1:
+  owner: TOSH
+  controller: TOSH
+  cores:
+    TOSH: yes
+355.1.1:
+  owner: GUPT
+  controller: GUPT
+  cores:
+    GUPT: yes
+380.1.1:
+  owner: GARJ
+  controller: GARJ
+  cores:
+    GUPT: no
+    TOSH: no
+    GARJ: yes
+475.1.1:
+  owner: DAKS
+  controller: DAKS
+  cores:
+    DAKS: yes
+500.1.1:
+  pop:
+    religion: hindu
+    estate: peasant
+    size: 1000
+575.1.1:
+  owner: TOSH
+  controller: TOSH
+  cores:
+    DAKS: no
+    TOSH: yes
+625.1.1:
+  owner: KOGD
+  controller: KOGD
+  cores:
+    TOSH: no
+    KOGD: yes
+780.1.1:
+  owner: TOSH
+  controller: TOSH
+  cores:
+    KOGD: no
+    TOSH: yes
+800.1.1:
+  owner: GARJ
+  controller: GARJ
+  cores:
+    TOSH: no
+    GARJ: yes
+885.1.1:
+  owner: DAKS
+  controller: DAKS
+  cores:
+    BST: no
+950.1.1:
+  owner: TOSH
+  controller: TOSH
+  cores:
+    TOSH: yes
+1114.1.1:
+  owner: KALI
+  controller: KALI
+  cores:
+    TOSH: no
+    KALI: yes
+1226.1.1:
+  owner: GARJ
+  controller: GARJ
+  cores:
+    KALI: no
+    GARJ: yes
+1752.1.1:
+  owner: NAGP
+  controller: NAGP
+  cores:
+    NAGP: yes
+1803.1.1:
+  owner: GBR
+  controller: GBR
+  cores:
+    GBR: yes
+1806.1.1:
+  owner: NAGP
+  controller: NAGP
+  cores:
+    GBR: no
+1816.1.1:
+  owner: GBR
+  controller: GBR
+  cores:
+    NAGP: no
+    GBR: yes
+1930.1.1:
+  cores:
+    ORI: no
+    INDI: yes
+1947.8.15:
+  owner: INDI
+  controller: INDI
+  cores:
+    GBR: no

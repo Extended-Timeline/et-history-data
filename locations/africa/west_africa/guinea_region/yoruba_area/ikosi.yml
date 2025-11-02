@@ -1,0 +1,39 @@
+#imported from EU4 file: history/provinces/2290 - Ijebu.txt
+2.1.1:
+  pop:
+    ethnicity: yoruba
+    religion: bantu_religion
+    estate: peasant
+    size: 1000
+523.1.1:
+  owner: IFE
+  controller: IFE
+  cores:
+    IFE: yes
+  resource: slaves
+1320.1.1:
+  owner: BEN
+  controller: BEN
+  cores:
+    IFE: no
+    BEN: yes
+1861.1.1:
+  owner: GBR
+  controller: GBR
+  cores:
+    GBR: yes
+  resource: ivory
+1900.1.1:
+  pop:
+    religion: lutheran
+    estate: peasant
+    size: 1000
+1960.10.1:
+  owner: NIGR
+  controller: NIGR
+  cores:
+    GBR: no
+    BEN: no
+    NIGR: yes
+2008.1.1:
+  resource: oil

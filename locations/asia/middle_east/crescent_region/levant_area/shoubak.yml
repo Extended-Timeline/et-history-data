@@ -1,0 +1,167 @@
+#imported from EU4 file: history/provinces/380 - Al Karak.txt
+2.1.1:
+  owner: NABA
+  controller: NABA
+  cores:
+    NABA: yes
+  resource: grain
+  pop:
+    ethnicity: nabataean_culture
+    religion: nabataean
+    estate: peasant
+    size: 1000
+106.6.1:
+  owner: ROM
+  controller: ROM
+  cores:
+    NABA: no
+    ROM: yes
+260.1.1:
+  pop:
+    religion: hellenism_religion
+    estate: peasant
+    size: 1000
+269.1.1:
+  cores:
+    PALM: yes
+  pop:
+    ethnicity: syriac_culture
+    estate: peasant
+    size: 1000
+272.1.1:
+  controller: ROM
+  cores:
+    PALM: no
+  pop:
+    ethnicity: najdi_culture
+    estate: peasant
+    size: 1000
+280.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+395.1.17:
+  owner: BYZ
+  controller: BYZ
+  cores:
+    ROM: no
+    BYZ: yes
+614.5.1:
+  controller: ERA
+628.1.1:
+  controller: BYZ
+635.1.1:
+  owner: RASH
+  controller: RASH
+  cores:
+    BYZ: no
+    RASH: yes
+661.7.28:
+  owner: UMAY
+  controller: UMAY
+  cores:
+    RASH: no
+    UMAY: yes
+680.1.1:
+  pop:
+    ethnicity: palestinian
+    religion: sunni
+    estate: peasant
+    size: 1000
+750.8.6:
+  owner: ABBA
+  controller: ABBA
+  cores:
+    UMAY: no
+    ABBA: yes
+868.9.15:
+  owner: EGY
+  controller: EGY
+  cores:
+    ABBA: no
+    EGY: yes
+905.1.10:
+  owner: ABBA
+  controller: ABBA
+  cores:
+    ABBA: yes
+935.8.26:
+  owner: EGY
+  controller: EGY
+  cores:
+    ABBA: no
+    EGY: yes
+970.3.1:
+  owner: FATI
+  controller: FATI
+  cores:
+    EGY: no
+    FATI: yes
+973.1.1:
+  owner: FDL
+  controller: FDL
+  cores:
+    FATI: no
+    FDL: yes
+1066.1.1:
+  owner: FATI
+  controller: FATI
+  cores:
+    FATI: yes
+1132.1.1:
+  owner: KOJ
+  controller: KOJ
+  cores:
+    KOJ: yes
+1187.10.2:
+  owner: EGY
+  controller: EGY
+  cores:
+    KOJ: no
+    FATI: no
+    EGY: yes
+1250.5.2:
+  owner: MAM
+  controller: MAM
+  cores:
+    EGY: no
+    MAM: yes
+1516.8.24:
+  owner: TUR
+  controller: TUR
+  cores:
+    TUR: yes
+1750.1.1:
+  cores:
+    SYRI: yes
+1818.9.9:
+  owner: EGY
+  controller: EGY
+  cores:
+    MAM: no
+    EGY: yes
+1841.2.1:
+  owner: TUR
+  controller: TUR
+  cores:
+    EGY: no
+    TUR: yes
+1920.3.8:
+  owner: SYRI
+  controller: SYRI
+  cores:
+    SYRI: yes
+1920.7.24:
+  owner: GBR
+  controller: GBR
+  cores:
+    SYRI: no
+    TUR: no
+    GBR: yes
+    JORD: yes
+1946.5.25:
+  owner: JORD
+  controller: JORD
+  cores:
+    GBR: no

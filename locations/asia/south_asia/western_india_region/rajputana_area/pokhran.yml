@@ -1,0 +1,82 @@
+#imported from EU4 file: history/provinces/513 - Jaisalmer.txt
+2.1.1:
+  owner: WSAT
+  controller: WSAT
+  cores:
+    WSAT: yes
+  resource: wool
+  pop:
+    ethnicity: marwari
+    religion: hindu
+    estate: peasant
+    size: 1000
+76.1.1:
+  owner: KUSH
+  controller: KUSH
+  cores:
+    WSAT: no
+    KUSH: yes
+270.1.1:
+  owner: ABHI
+  controller: ABHI
+  cores:
+    KUSH: no
+    ABHI: yes
+375.1.1:
+  owner: GUPT
+  controller: GUPT
+  cores:
+    ABHI: no
+    GUPT: yes
+498.1.1:
+  owner: KAPI
+  controller: KAPI
+  cores:
+    GUPT: no
+    GURJ: yes
+528.1.1:
+  owner: MLW
+  controller: MLW
+540.1.1:
+  owner: GURJ
+  controller: GURJ
+620.1.1:
+  owner: PUSH
+  controller: PUSH
+  cores:
+    PUSH: yes
+647.1.1:
+  owner: GURJ
+  controller: GURJ
+  cores:
+    PUSH: no
+950.1.1:
+  owner: MRW
+  controller: MRW
+  cores:
+    GURJ: no
+    MRW: yes
+1156.1.1:
+  owner: JSL
+  controller: JSL
+  cores:
+    MRW: no
+    JSL: yes
+1544.1.1:
+  owner: BNG
+  controller: BNG
+  cores:
+    BNG: yes
+1545.1.1:
+  owner: JSL
+  controller: JSL
+  cores:
+    BNG: no
+1930.1.1:
+  cores:
+    INDI: yes
+1947.8.15:
+  owner: INDI
+  controller: INDI
+  cores:
+    JSL: no

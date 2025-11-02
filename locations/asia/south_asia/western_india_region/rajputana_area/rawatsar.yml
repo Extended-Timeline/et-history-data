@@ -1,0 +1,89 @@
+#imported from EU4 file: history/provinces/4507 - Churu.txt
+2.1.1:
+  owner: YAUD
+  controller: YAUD
+  cores:
+    YAUD: yes
+  resource: livestock
+  pop:
+    ethnicity: marwari
+    religion: hindu
+    estate: peasant
+    size: 1000
+180.1.1:
+  owner: KUSH
+  controller: KUSH
+  cores:
+    KUSH: yes
+270.1.1:
+  owner: YAUD
+  controller: YAUD
+  cores:
+    KUSH: no
+    YAUD: yes
+375.1.1:
+  owner: GUPT
+  controller: GUPT
+  cores:
+    YAUD: no
+    GUPT: yes
+498.1.1:
+  owner: KAPI
+  controller: KAPI
+  cores:
+    GUPT: no
+    PUSH: yes
+528.1.1:
+  owner: MLW
+  controller: MLW
+540.1.1:
+  owner: PUSH
+  controller: PUSH
+647.1.1:
+  owner: GURJ
+  controller: GURJ
+  cores:
+    PUSH: no
+    GURJ: yes
+1002.1.1:
+  owner: GHAZ
+  controller: GHAZ
+  cores:
+    GURJ: no
+    GHAZ: yes
+1187.1.1:
+  owner: GHOR
+  controller: GHOR
+  cores:
+    GHAZ: no
+    GHOR: yes
+1206.1.1:
+  owner: DLH
+  controller: DLH
+  cores:
+    GHOR: no
+    DLH: yes
+    JANG: yes
+1226.1.1:
+  owner: JANG
+  controller: JANG
+  cores:
+    DLH: no
+1544.1.1:
+  owner: BNG
+  controller: BNG
+  cores:
+    BNG: yes
+1545.1.1:
+  owner: JANG
+  controller: JANG
+  cores:
+    BNG: no
+1930.1.1:
+  cores:
+    INDI: yes
+1947.8.15:
+  owner: INDI
+  controller: INDI
+  cores:
+    JANG: no

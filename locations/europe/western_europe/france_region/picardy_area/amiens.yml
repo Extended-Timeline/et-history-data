@@ -1,0 +1,150 @@
+#imported from EU4 file: history/provinces/89 - Picardie.txt
+2.1.1:
+  owner: ROM
+  controller: ROM
+  cores:
+    ROM: yes
+  resource: grain
+  pop:
+    ethnicity: belgae
+    religion: druidism
+    estate: peasant
+    size: 1000
+260.1.1:
+  cores:
+    GALL: yes
+  pop:
+    ethnicity: gallian
+    estate: peasant
+    size: 1000
+274.1.1:
+  controller: ROM
+  cores:
+    GALL: no
+  pop:
+    ethnicity: belgae
+    estate: peasant
+    size: 1000
+395.1.17:
+  owner: ROMW
+  controller: ROMW
+  cores:
+    ROM: no
+    ROMW: yes
+461.11.1:
+  owner: SOIS
+  controller: SOIS
+  cores:
+    SOIS: yes
+480.6.1:
+  cores:
+    ROMW: no
+481.1.1:
+  owner: FRAN
+  controller: FRAN
+  cores:
+    SOIS: no
+    FRAN: yes
+  pop:
+    ethnicity: frankish
+    estate: peasant
+    size: 1000
+486.6.1:
+  pop:
+    ethnicity: french
+    estate: peasant
+    size: 1000
+500.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+511.11.27:
+  owner: NEUS
+  controller: NEUS
+  cores:
+    NEUS: yes
+558.12.23:
+  owner: FRAN
+  controller: FRAN
+  cores:
+    FRAN: yes
+561.11.29:
+  owner: SOIS
+  controller: SOIS
+  cores:
+    SOIS: yes
+567.12.1:
+  owner: NEUS
+  controller: NEUS
+  cores:
+    SOIS: no
+613.10.10:
+  owner: FRAN
+  controller: FRAN
+  cores:
+    FRAN: yes
+634.1.1:
+  owner: NEUS
+  controller: NEUS
+679.12.23:
+  owner: FRAN
+  controller: FRAN
+840.6.21:
+  owner: WFRA
+  controller: WFRA
+  cores:
+    FRAN: no
+    WFRA: yes
+862.1.1:
+  cores:
+    FLA: yes
+867.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+987.7.3:
+  owner: FRA
+  controller: FRA
+  cores:
+    WFRA: no
+    FRA: yes
+    PIC: yes
+1360.5.9:
+  cores:
+    ENG: yes
+1435.1.1:
+  owner: BUR
+  controller: BUR
+  cores:
+    FRA: no
+    BUR: yes
+1475.8.29:
+  cores:
+    ENG: no
+1477.1.5:
+  owner: FRA
+  controller: FRA
+  cores:
+    BUR: no
+    FRA: yes
+1513.8.16:
+  controller: ENG
+1514.5.5:
+  controller: FRA
+1544.7.5:
+  controller: ENG
+1546.8.1:
+  controller: FRA
+1870.9.4:
+  owner: FRA
+  controller: FRA
+  cores:
+    FRA: yes
+1940.6.14:
+  owner: GER
+  controller: GER
+1944.8.25:
+  owner: FRA
+  controller: FRA

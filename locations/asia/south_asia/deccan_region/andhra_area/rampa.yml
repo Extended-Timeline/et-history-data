@@ -1,0 +1,103 @@
+#imported from EU4 file: history/provinces/2084 - Konaseema.txt
+2.1.1:
+  owner: SATA
+  controller: SATA
+  cores:
+    SATA: yes
+  resource: cloth
+  pop:
+    ethnicity: telugu
+    religion: jain
+    estate: peasant
+    size: 1000
+220.1.1:
+  owner: RDY
+  controller: RDY
+  cores:
+    SATA: no
+    RDY: yes
+620.1.1:
+  pop:
+    religion: hindu
+    estate: peasant
+    size: 1000
+1216.1.1:
+  owner: TELI
+  controller: TELI
+  cores:
+    TELI: yes
+1325.1.1:
+  owner: RDY
+  controller: RDY
+  cores:
+    TELI: no
+    RDY: yes
+1445.1.1:
+  controller: ORI
+1448.1.1:
+  owner: ORI
+  cores:
+    ORI: yes
+1468.1.1:
+  owner: BAH
+  controller: BAH
+1476.1.1:
+  controller: ORI
+1478.1.1:
+  controller: BAH
+1482.3.26:
+  owner: ORI
+  controller: ORI
+1514.6.1:
+  controller: VIJ
+1516.6.1:
+  owner: VIJ
+  cores:
+    VIJ: yes
+1565.7.1:
+  owner: GOLC
+  controller: GOLC
+  cores:
+    VIJ: no
+    GOLC: yes
+1686.1.1:
+  controller: MUG
+1687.1.1:
+  owner: MUG
+  cores:
+    MUG: yes
+1712.1.1:
+  cores:
+    GOLC: no
+    DEC: yes
+1724.1.1:
+  owner: DEC
+  controller: DEC
+  cores:
+    MUG: no
+1750.1.1:
+  owner: FRA
+  controller: FRA
+  cores:
+    FRA: yes
+1759.1.1:
+  controller: GBR
+1763.2.10:
+  owner: DEC
+  controller: DEC
+  cores:
+    FRA: no
+1766.11.12:
+  owner: GBR
+  controller: GBR
+  cores:
+    GBR: yes
+1930.1.1:
+  cores:
+    GOLC: no
+    INDI: yes
+1947.8.15:
+  owner: INDI
+  controller: INDI
+  cores:
+    GBR: no

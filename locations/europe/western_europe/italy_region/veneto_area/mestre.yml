@@ -1,0 +1,88 @@
+#imported from EU4 file: history/provinces/112 - Venezia.txt
+2.1.1:
+  owner: ROM
+  controller: ROM
+  cores:
+    ROM: yes
+  resource: fish
+  pop:
+    ethnicity: venetian
+    religion: hellenism_religion
+    estate: peasant
+    size: 1000
+360.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+395.1.17:
+  owner: ROMW
+  controller: ROMW
+  cores:
+    ROM: no
+    ROMW: yes
+476.9.4:
+  owner: ITA
+  controller: ITA
+  cores:
+    ITA: yes
+480.1.1:
+  cores:
+    ROMW: no
+489.1.1:
+  owner: OSTR
+  controller: OSTR
+  cores:
+    ITA: no
+    OSTR: yes
+552.1.1:
+  owner: BYZ
+  controller: BYZ
+  cores:
+    BYZ: yes
+569.6.1:
+  owner: LOMB
+  controller: LOMB
+  cores:
+    OSTR: no
+    BYZ: no
+    LOMB: yes
+690.1.1:
+  resource: glass
+697.1.1:
+  owner: VEN
+  controller: VEN
+  cores:
+    LOMB: no
+    VEN: yes
+867.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+1797.10.17:
+  owner: HAB
+  controller: HAB
+  cores:
+    HAB: yes
+1805.12.26:
+  owner: ITA
+  controller: ITA
+  cores:
+    HAB: no
+    ITA: yes
+1814.4.11:
+  owner: HAB
+  controller: HAB
+  cores:
+    ITA: no
+    HAB: yes
+1861.3.17:
+  cores:
+    ITA: yes
+1866.10.3:
+  owner: ITA
+  controller: ITA
+  cores:
+    HAB: no
+    VEN: no

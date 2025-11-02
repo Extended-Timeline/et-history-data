@@ -1,0 +1,39 @@
+#imported from EU4 file: history/provinces/1144 - Oyo.txt
+2.1.1:
+  pop:
+    ethnicity: yoruba
+    religion: bantu_religion
+    estate: peasant
+    size: 1000
+523.1.1:
+  owner: IFE
+  controller: IFE
+  cores:
+    IFE: yes
+  resource: grain
+892.1.1:
+  owner: OYO
+  controller: OYO
+  cores:
+    IFE: no
+    OYO: yes
+1670.1.1:
+  resource: slaves
+1905.1.1:
+  owner: GBR
+  controller: GBR
+  cores:
+    GBR: yes
+  resource: grain
+1910.1.1:
+  pop:
+    religion: lutheran
+    estate: peasant
+    size: 1000
+1960.10.1:
+  owner: NIGR
+  controller: NIGR
+  cores:
+    GBR: no
+    OYO: no
+    NIGR: yes

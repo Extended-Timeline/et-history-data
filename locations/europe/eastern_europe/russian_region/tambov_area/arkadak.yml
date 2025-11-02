@@ -1,0 +1,82 @@
+#imported from EU4 file: history/provinces/2415 - Etkara.txt
+2.1.1:
+  pop:
+    ethnicity: moksha_culture
+    religion: 
+    estate: peasant
+    size: 1000
+600.1.1:
+  owner: MORD
+  controller: MORD
+  cores:
+    MORD: yes
+  resource: livestock
+1240.1.1:
+  owner: MGE
+  controller: MGE
+  cores:
+    MGE: yes
+1250.1.1:
+  pop:
+    ethnicity: mishar
+    religion: sunni
+    estate: peasant
+    size: 1000
+1260.1.1:
+  owner: WHHO
+  controller: WHHO
+  cores:
+    MGE: no
+    VBUL: no
+    WHHO: yes
+1372.1.1:
+  owner: BLHO
+  controller: BLHO
+  cores:
+    BLHO: yes
+1374.1.1:
+  owner: WHHO
+  controller: WHHO
+  cores:
+    BLHO: no
+1378.1.1:
+  owner: GLH
+  controller: GLH
+  cores:
+    GLH: yes
+1442.1.1:
+  owner: GRHO
+  controller: GRHO
+  cores:
+    GLH: no
+    GRHO: yes
+1502.6.1:
+  owner: CRIM
+  controller: CRIM
+  cores:
+    GRHO: no
+    CRIM: yes
+1572.8.2:
+  owner: RUS
+  controller: RUS
+  cores:
+    CRIM: no
+    RUS: yes
+1650.1.1:
+  pop:
+    ethnicity: muscovite
+    religion: orthodox
+    estate: peasant
+    size: 1000
+1922.12.30:
+  owner: SOVI
+  controller: SOVI
+  cores:
+    RUS: no
+    SOVI: yes
+1991.12.25:
+  owner: RUS
+  controller: RUS
+  cores:
+    SOVI: no
+    RUS: yes

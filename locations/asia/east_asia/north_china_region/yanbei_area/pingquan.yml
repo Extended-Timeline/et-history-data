@@ -1,0 +1,146 @@
+#imported from EU4 file: history/provinces/703 - Chengde.txt
+2.1.1:
+  owner: WUHU
+  controller: WUHU
+  cores:
+    WUHU: yes
+  resource: livestock
+  pop:
+    ethnicity: khitan
+    religion: 
+    estate: peasant
+    size: 1000
+207.10.1:
+  owner: WEI0
+  controller: WEI0
+  cores:
+    WEI0: yes
+265.2.4:
+  owner: JIN1
+  controller: JIN1
+  cores:
+    WEI0: no
+    JIN1: yes
+337.11.23:
+  owner: YAN0
+  controller: YAN0
+  cores:
+    JIN1: no
+    YAN0: yes
+370.12.11:
+  owner: QIN0
+  controller: QIN0
+  cores:
+    QIN0: yes
+384.1.1:
+  owner: YAN0
+  controller: YAN0
+  cores:
+    QIN0: no
+    YAN0: yes
+436.1.1:
+  owner: WEI0
+  controller: WEI0
+  cores:
+    YAN0: no
+    WEI0: yes
+550.1.1:
+  owner: KMXI
+  controller: KMXI
+  cores:
+    WEI0: no
+    KMXI: yes
+625.1.1:
+  owner: TANG
+  controller: TANG
+  cores:
+    TANG: yes
+907.6.1:
+  owner: LIAO
+  controller: LIAO
+  cores:
+    TANG: no
+    LIAO: yes
+950.1.1:
+  pop:
+    religion: mahayana
+    estate: peasant
+    size: 1000
+1115.1.1:
+  owner: JIN0
+  controller: JIN0
+  cores:
+    LIAO: no
+    JIN0: yes
+1214.1.1:
+  owner: MGE
+  controller: MGE
+  cores:
+    JIN0: no
+    MGE: yes
+    CSH: yes
+1220.1.1:
+  pop:
+    ethnicity: chahar
+    estate: peasant
+    size: 1000
+1271.1.1:
+  owner: YUA
+  controller: YUA
+  cores:
+    MGE: no
+    YUA: yes
+1368.1.23:
+  owner: KHRC
+  controller: KHRC
+  cores:
+    YUA: no
+    KHRC: yes
+1552.1.1:
+  owner: MGE
+  controller: MGE
+  cores:
+    MGE: yes
+1624.1.1:
+  owner: MCH
+  controller: MCH
+  cores:
+    MGE: no
+    MCH: yes
+1636.5.15:
+  owner: QNG
+  controller: QNG
+  cores:
+    MCH: no
+    QNG: yes
+1662.1.1:
+  cores:
+    MNG: no
+1912.2.12:
+  owner: CHI
+  controller: CHI
+  cores:
+    QNG: no
+    CSH: no
+    CHI: yes
+1920.7.23:
+  controller: CHI
+1933.1.21:
+  controller: JAP
+1933.2.1:
+  owner: MANC
+  controller: MANC
+  cores:
+    MANC: yes
+1945.8.15:
+  owner: CHI
+  controller: CHI
+  cores:
+    MANC: no
+1949.10.1:
+  controller: CHI
+1969.1.1:
+  pop:
+    ethnicity: yan_culture
+    estate: peasant
+    size: 1000

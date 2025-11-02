@@ -1,0 +1,187 @@
+#imported from EU4 file: history/provinces/679 - Sichuan.txt
+2.1.1:
+  owner: HAN0
+  controller: HAN0
+  cores:
+    HAN0: yes
+    SHU0: yes
+  resource: silk
+  pop:
+    ethnicity: shu_culture
+    religion: sanjiao
+    estate: peasant
+    size: 1000
+9.1.10:
+  owner: XIN0
+  controller: XIN0
+  cores:
+    XIN0: yes
+23.10.5:
+  owner: SHU0
+  controller: SHU0
+  cores:
+    XIN0: no
+    SHU0: yes
+36.12.25:
+  owner: HAN0
+  controller: HAN0
+  cores:
+    HAN0: yes
+189.9.28:
+  owner: SHU0
+  controller: SHU0
+  cores:
+    HAN0: no
+    SHU0: yes
+263.11.1:
+  owner: WEI0
+  controller: WEI0
+  cores:
+    SHU0: no
+    WEI0: yes
+266.2.4:
+  owner: JIN1
+  controller: JIN1
+  cores:
+    WEI0: no
+    JIN1: yes
+304.1.1:
+  owner: CHNG
+  controller: CHNG
+  cores:
+    JIN1: no
+    CHNG: yes
+338.1.1:
+  owner: HAN0
+  controller: HAN0
+  cores:
+    CHNG: no
+    HAN0: yes
+347.1.1:
+  owner: JIN1
+  controller: JIN1
+  cores:
+    HAN0: no
+    JIN1: yes
+373.1.1:
+  owner: QIN0
+  controller: QIN0
+  cores:
+    QIN0: yes
+394.1.1:
+  owner: JIN1
+  controller: JIN1
+  cores:
+    QIN0: no
+    JIN1: yes
+405.1.1:
+  owner: SHU0
+  controller: SHU0
+  cores:
+    SHU0: yes
+413.1.1:
+  owner: JIN1
+  controller: JIN1
+  cores:
+    JIN1: yes
+420.1.1:
+  owner: LSON
+  controller: LSON
+  cores:
+    JIN1: no
+    LSON: yes
+479.1.1:
+  owner: QI00
+  controller: QI00
+  cores:
+    LSON: no
+    QI00: yes
+502.1.1:
+  owner: LIAN
+  controller: LIAN
+  cores:
+    QI00: no
+    LIAN: yes
+557.1.1:
+  owner: ZHOU
+  controller: ZHOU
+  cores:
+    LIAN: no
+    ZHOU: yes
+581.3.4:
+  owner: SUI0
+  controller: SUI0
+  cores:
+    ZHOU: no
+    SUI0: yes
+618.4.11:
+  owner: TANG
+  controller: TANG
+  cores:
+    SUI0: no
+    TANG: yes
+907.6.1:
+  owner: SHU0
+  controller: SHU0
+  cores:
+    TANG: no
+    SHU0: yes
+925.12.15:
+  owner: TANG
+  controller: TANG
+  cores:
+    SHU0: no
+    TANG: yes
+934.3.16:
+  owner: SHU0
+  controller: SHU0
+  cores:
+    TANG: no
+    SHU0: yes
+965.2.23:
+  owner: SONG
+  controller: SONG
+  cores:
+    SHU0: no
+    SONG: yes
+1279.3.19:
+  owner: YUA
+  controller: YUA
+  cores:
+    SONG: no
+    YUA: yes
+    CXI: yes
+1361.1.1:
+  owner: XIA0
+  controller: XIA0
+  cores:
+    XIA0: yes
+1368.1.23:
+  cores:
+    YUA: no
+1371.1.1:
+  owner: MNG
+  controller: MNG
+  cores:
+    MNG: yes
+1644.10.1:
+  owner: CXI
+  controller: CXI
+1659.7.1:
+  owner: QNG
+  controller: QNG
+1673.12.1:
+  controller: ZHOU
+1680.1.1:
+  controller: QNG
+1912.2.12:
+  owner: CHI
+  controller: CHI
+  cores:
+    QNG: no
+    CXI: no
+    CHI: yes
+1927.4.18:
+  controller: CHI
+1990.1.1:
+  resource: electronics

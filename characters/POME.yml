@@ -1,0 +1,112 @@
+pome_sobieslaw_i_sobieslawicz:
+  1130.1.1:
+    birth: gniew #TODO: Date and location guessed, check if better data is available
+    first_name: sobieslaw
+    dynasty: sobieslawicz_dynasty
+    adm: 45
+    dip: 75
+    mil: 30
+    religion: slavic
+    culture: kashubian
+  1177.1.1:
+    death: yes
+pome_sambor_i_sobieslawicz:
+  1150.1.1:
+    birth: gniew #TODO: Date and location guessed, check if better data is available
+    first_name: sambor
+    dynasty: sobieslawicz_dynasty
+    father: pome_sobieslaw_i_sobieslawicz #TODO: check if this makes sense
+    adm: 60
+    dip: 30
+    mil: 45
+    religion: slavic
+    culture: kashubian
+  1205.1.1:
+    death: yes
+pome_sambor_i_sobieslawicz_1:
+  1147.1.1:
+    birth: gniew #TODO: Date and location guessed, check if better data is available
+    first_name: sambor
+    dynasty: sobieslawicz_dynasty
+    adm: 60
+    dip: 30
+    mil: 45
+    religion: slavic
+    culture: kashubian
+  1205.1.1:
+    death: yes
+pome_msciwuj_i_sobieslawicz:
+  1170.1.1:
+    birth: gniew #TODO: Date and location guessed, check if better data is available
+    first_name: msciwuj
+    dynasty: sobieslawicz_dynasty
+    father: pome_sambor_i_sobieslawicz_1 #TODO: check if this makes sense
+    adm: 60
+    dip: 30
+    mil: 45
+    religion: slavic
+    culture: kashubian
+  1220.1.1:
+    death: yes
+pome_msciwuj_i_sobieslawicz_1:
+  1175.1.1:
+    birth: gniew #TODO: Date and location guessed, check if better data is available
+    first_name: msciwuj
+    dynasty: sobieslawicz_dynasty
+    adm: 60
+    dip: 30
+    mil: 45
+    religion: slavic
+    culture: kashubian
+  1220.1.1:
+    death: yes
+pome_swietopelk_ii_sobieslawicz:
+  1195.1.1:
+    birth: gniew #TODO: Date and location guessed, check if better data is available
+    first_name: swietopelk
+    dynasty: sobieslawicz_dynasty
+    father: pome_msciwuj_i_sobieslawicz_1 #TODO: check if this makes sense
+    adm: 90
+    dip: 60
+    mil: 75
+    religion: slavic
+    culture: kashubian
+  1266.1.1:
+    death: yes
+pome_swietopelk_ii_sobieslawicz_1:
+  1190.1.1:
+    birth: gniew #TODO: Date and location guessed, check if better data is available
+    first_name: swietopelk
+    dynasty: sobieslawicz_dynasty
+    adm: 90
+    dip: 60
+    mil: 75
+    religion: slavic
+    culture: kashubian
+  1266.1.1:
+    death: yes
+pome_msciwuj_ii_sobieslawicz:
+  1220.1.1:
+    birth: gniew #TODO: Date and location guessed, check if better data is available
+    first_name: msciwuj
+    dynasty: sobieslawicz_dynasty
+    father: pome_swietopelk_ii_sobieslawicz_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 60
+    mil: 45
+    religion: slavic
+    culture: kashubian
+  1294.1.1:
+    death: yes
+pome_msciwuj_ii_sobieslawicz_1:
+  1236.1.1:
+    birth: gniew #TODO: Date and location guessed, check if better data is available
+    first_name: msciwuj
+    dynasty: sobieslawicz_dynasty
+    adm: 45
+    dip: 60
+    mil: 45
+    religion: slavic
+    culture: kashubian
+  3000.1.1:
+    death: yes

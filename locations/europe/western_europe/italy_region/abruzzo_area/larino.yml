@@ -1,0 +1,136 @@
+#imported from EU4 file: history/provinces/4733 - Molise.txt
+2.1.1:
+  owner: ROM
+  controller: ROM
+  cores:
+    ROM: yes
+  resource: grain
+  pop:
+    ethnicity: median
+    religion: hellenism_religion
+    estate: peasant
+    size: 1000
+380.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+395.1.17:
+  owner: ROMW
+  controller: ROMW
+  cores:
+    ROM: no
+    ROMW: yes
+476.9.4:
+  owner: ITA
+  controller: ITA
+  cores:
+    ITA: yes
+480.1.1:
+  cores:
+    ROMW: no
+489.1.1:
+  owner: OSTR
+  controller: OSTR
+  cores:
+    ITA: no
+    OSTR: yes
+538.1.1:
+  controller: BYZ
+554.1.1:
+  owner: BYZ
+  cores:
+    OSTR: no
+    BYZ: yes
+569.6.1:
+  owner: LOMB
+  controller: LOMB
+  cores:
+    OSTR: no
+    LOMB: yes
+571.1.1:
+  owner: BENE
+  controller: BENE
+  cores:
+    BENE: yes
+774.1.1:
+  cores:
+    LOMB: no
+867.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+891.1.1:
+  owner: BYZ
+  controller: BYZ
+895.1.1:
+  owner: BENE
+  controller: BENE
+  cores:
+    BYZ: no
+1053.1.1:
+  owner: SIC
+  controller: SIC
+  cores:
+    BENE: no
+    SIC: yes
+  pop:
+    ethnicity: neapolitan
+    estate: peasant
+    size: 1000
+1100.1.1:
+  resource: paper
+1282.3.30:
+  owner: NAP
+  controller: NAP
+  cores:
+    SIC: no
+    NAP: yes
+1494.1.1:
+  cores:
+    FRA: yes
+1495.2.22:
+  controller: FRA
+1495.7.7:
+  controller: NAP
+1502.1.1:
+  owner: FRA
+  controller: FRA
+1503.6.1:
+  owner: ARA
+  controller: ARA
+  cores:
+    ARA: yes
+1504.1.31:
+  cores:
+    FRA: no
+1516.1.23:
+  owner: SPA
+  controller: SPA
+  cores:
+    ARA: no
+    SPA: yes
+1714.3.7:
+  owner: HAB
+  controller: HAB
+  cores:
+    SPA: no
+    HAB: yes
+1734.6.2:
+  owner: NAP
+  controller: NAP
+  cores:
+    HAB: no
+1861.2.12:
+  owner: SPIE
+  controller: SPIE
+  cores:
+    SPIE: yes
+1861.3.17:
+  owner: ITA
+  controller: ITA
+  cores:
+    SPIE: no
+    NAP: no
+    ITA: yes

@@ -1,0 +1,221 @@
+tim_timur_timurid:
+  1340.1.1:
+    birth: samarkand #TODO: Date and location guessed, check if better data is available
+    first_name: timur
+    dynasty: timurid_dynasty
+    adm: 60
+    dip: 60
+    mil: 90
+    religion: sunni
+    culture: uzbek_culture
+  1405.1.1:
+    death: yes
+tim_khalil_sultan_timurid:
+  1384.1.1:
+    birth: samarkand #TODO: Date and location guessed, check if better data is available
+    first_name: khalil_sultan
+    dynasty: timurid_dynasty
+    father: tim_timur_timurid #TODO: check if this makes sense
+    adm: 15
+    dip: 45
+    mil: 30
+    religion: sunni
+    culture: uzbek_culture
+  1411.11.4:
+    death: yes
+tim_khalil_timurid:
+  1375.1.1:
+    birth: herat #TODO: Date and location guessed, check if better data is available
+    first_name: khalil
+    dynasty: timurid_dynasty
+    adm: 15
+    dip: 45
+    mil: 30
+    religion: sunni
+    culture: uzbek_culture
+  1409.1.1:
+    death: yes
+tim_shah_rukh_timurid:
+  1377.8.20:
+    birth: herat #TODO: Location guessed, check if better data is available
+    first_name: shah_rukh
+    dynasty: timurid_dynasty
+    adm: 60
+    dip: 45
+    mil: 75
+    religion: sunni
+    culture: uzbek_culture
+  1447.3.13:
+    death: yes
+tim_goharshad_tarkhan:
+  1370.1.1:
+    birth: herat #TODO: Date and location guessed, check if better data is available
+    first_name: goharshad
+    dynasty: tarkhan_dynasty
+    adm: 60
+    dip: 75
+    mil: 45
+    religion: sunni
+    culture: farsi_culture
+  1457.7.19:
+    death: yes
+  1409.1.1:
+    spouse: tim_shah_rukh_timurid #TODO: date guessed, see if better data is available
+tim_ala_al_dawla_abd_allah_timurid:
+  1417.1.1:
+    birth: samarkand #TODO: Date and location guessed, check if better data is available
+    first_name: ala_al_dawla_abd_allah
+    dynasty: timurid_dynasty
+    adm: 45
+    dip: 45
+    mil: 30
+    religion: sunni
+    culture: uzbek_culture
+  1448.3.1:
+    death: yes
+tim_ulugh_beg_timurid:
+  1394.1.1:
+    birth: samarkand #TODO: Date and location guessed, check if better data is available
+    first_name: ulugh_beg
+    dynasty: timurid_dynasty
+    adm: 45
+    dip: 75
+    mil: 60
+    religion: sunni
+    culture: uzbek_culture
+  1449.10.27:
+    death: yes
+tim_abd_allah_mirza_timurid:
+  1410.1.1:
+    birth: samarkand #TODO: Date and location guessed, check if better data is available
+    first_name: abd_allah_mirza
+    dynasty: timurid_dynasty
+    father: tim_ulugh_beg_timurid #TODO: check if this makes sense
+    adm: 45
+    dip: 60
+    mil: 30
+    religion: sunni
+    culture: uzbek_culture
+  1451.6.23:
+    death: yes
+tim_abdal_latif_timurid:
+  1419.1.1:
+    birth: samarkand #TODO: Date and location guessed, check if better data is available
+    first_name: abdal_latif
+    dynasty: timurid_dynasty
+    adm: 0
+    dip: 0
+    mil: 30
+    religion: sunni
+    culture: uzbek_culture
+  1450.5.9:
+    death: yes
+tim_abd_allah_mirza_timurid_1:
+  1420.1.1:
+    birth: samarkand #TODO: Date and location guessed, check if better data is available
+    first_name: abd_allah_mirza
+    dynasty: timurid_dynasty
+    adm: 0
+    dip: 45
+    mil: 30
+    religion: sunni
+    culture: uzbek_culture
+  1451.6.1:
+    death: yes
+tim_abu_said_timurid:
+  1421.1.1:
+    birth: herat #TODO: Date and location guessed, check if better data is available
+    first_name: abu_said
+    dynasty: timurid_dynasty
+    adm: 45
+    dip: 75
+    mil: 90
+    religion: sunni
+    culture: uzbek_culture
+  1469.8.27:
+    death: yes
+tim_ahmad_timurid:
+  1439.1.1:
+    birth: samarkand #TODO: Date and location guessed, check if better data is available
+    first_name: ahmad
+    dynasty: timurid_dynasty
+    adm: 0
+    dip: 0
+    mil: 30
+    religion: sunni
+    culture: uzbek_culture
+  1494.7.1:
+    death: yes
+tim_mahmud_timurid:
+  1464.1.1:
+    birth: samarkand #TODO: Date and location guessed, check if better data is available
+    first_name: mahmud
+    dynasty: timurid_dynasty
+    adm: 0
+    dip: 0
+    mil: 0
+    religion: sunni
+    culture: uzbek_culture
+  1495.7.1:
+    death: yes
+tim_masud_timurid:
+  1465.1.1:
+    birth: samarkand #TODO: Date and location guessed, check if better data is available
+    first_name: masud
+    dynasty: timurid_dynasty
+    adm: 0
+    dip: 0
+    mil: 0
+    religion: sunni
+    culture: uzbek_culture
+  1495.9.1:
+    death: yes
+tim_bay_sunqur_timurid:
+  1465.1.1:
+    birth: samarkand #TODO: Date and location guessed, check if better data is available
+    first_name: bay_sunqur
+    dynasty: timurid_dynasty
+    adm: 0
+    dip: 0
+    mil: 0
+    religion: sunni
+    culture: uzbek_culture
+  1499.8.1:
+    death: yes
+tim_ali_timurid:
+  1469.1.1:
+    birth: samarkand #TODO: Date and location guessed, check if better data is available
+    first_name: ali
+    dynasty: timurid_dynasty
+    adm: 0
+    dip: 0
+    mil: 0
+    religion: sunni
+    culture: uzbek_culture
+  1500.4.1:
+    death: yes
+tim_babur_timurid:
+  1470.1.1:
+    birth: samarkand #TODO: Date and location guessed, check if better data is available
+    first_name: babur
+    dynasty: timurid_dynasty
+    adm: 75
+    dip: 75
+    mil: 90
+    religion: sunni
+    culture: uzbek_culture
+  3000.1.1:
+    death: yes
+tim_humayun_timurid:
+  1508.3.6:
+    birth: kabul #TODO: Location guessed, check if better data is available
+    first_name: humayun
+    dynasty: timurid_dynasty
+    father: tim_babur_timurid #TODO: check if this makes sense
+    adm: 75
+    dip: 30
+    mil: 45
+    religion: sunni
+    culture: afghan_culture
+  1556.1.1:
+    death: yes

@@ -1,0 +1,39 @@
+#imported from EU4 file: history/provinces/560 - Jharkand.txt
+2.1.1:
+  owner: JHAR
+  controller: JHAR
+  cores:
+    JHAR: yes
+  resource: iron
+  pop:
+    ethnicity: magahi
+    religion: hindu
+    estate: peasant
+    size: 1000
+1674.1.1:
+  owner: MUG
+  controller: MUG
+  cores:
+    MUG: yes
+1707.3.15:
+  owner: BNG
+  controller: BNG
+  cores:
+    MUG: no
+    BNG: yes
+1760.1.1:
+  owner: GBR
+  controller: GBR
+  cores:
+    GBR: yes
+1930.1.1:
+  cores:
+    BNG: no
+    INDI: yes
+1947.8.15:
+  owner: INDI
+  controller: INDI
+  cores:
+    GBR: no
+1968.1.1:
+  resource: uranium

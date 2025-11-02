@@ -1,0 +1,69 @@
+#imported from EU4 file: history/provinces/2558 - Espachomy.txt
+2.1.1:
+  pop:
+    ethnicity: unami_culture
+    religion: iroquoian_totemism
+    estate: peasant
+    size: 1000
+1652.1.1:
+  owner: NED
+  controller: NED
+  cores:
+    NED: yes
+  resource: grain
+  pop:
+    ethnicity: low_franconian
+    religion: calvinist
+    estate: peasant
+    size: 1000
+1665.6.1:
+  controller: ENG
+1667.7.31:
+  owner: ENG
+  cores:
+    NED: no
+    ENG: yes
+  pop:
+    ethnicity: english
+    estate: peasant
+    size: 1000
+1673.1.1:
+  owner: NED
+  controller: NED
+  cores:
+    ENG: no
+    NED: yes
+  pop:
+    ethnicity: low_franconian
+    estate: peasant
+    size: 1000
+1674.11.1:
+  owner: ENG
+  controller: ENG
+  cores:
+    NED: no
+    ENG: yes
+  pop:
+    ethnicity: english
+    religion: lutheran
+    estate: peasant
+    size: 1000
+1707.5.12:
+  owner: GBR
+  controller: GBR
+  cores:
+    ENG: no
+    GBR: yes
+1764.7.1:
+  pop:
+    ethnicity: american
+    estate: peasant
+    size: 1000
+1776.7.4:
+  owner: USA
+  controller: USA
+  cores:
+    USA: yes
+1782.11.1:
+  cores:
+    GBR: no

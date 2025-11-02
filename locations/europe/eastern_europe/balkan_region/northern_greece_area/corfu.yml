@@ -1,0 +1,121 @@
+#imported from EU4 file: history/provinces/142 - Corfu.txt
+2.1.1:
+  owner: ROM
+  controller: ROM
+  cores:
+    ROM: yes
+  resource: fish
+  pop:
+    ethnicity: greek_culture
+    religion: hellenism_religion
+    estate: peasant
+    size: 1000
+395.1.17:
+  owner: BYZ
+  controller: BYZ
+  cores:
+    ROM: no
+    BYZ: yes
+400.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+867.1.1:
+  pop:
+    religion: orthodox
+    estate: peasant
+    size: 1000
+1081.5.1:
+  controller: SIC
+1085.7.15:
+  controller: BYZ
+1147.1.1:
+  controller: SIC
+1154.1.1:
+  controller: BYZ
+1197.1.1:
+  owner: GEN
+  controller: GEN
+  cores:
+    GEN: yes
+1207.1.1:
+  owner: VEN
+  controller: VEN
+  cores:
+    GEN: no
+    VEN: yes
+1214.1.1:
+  owner: EPI
+  controller: EPI
+  cores:
+    VEN: no
+    EPI: yes
+1224.1.1:
+  owner: THE
+  controller: THE
+  cores:
+    THE: yes
+1230.1.1:
+  owner: EPI
+  controller: EPI
+  cores:
+    THE: no
+1267.1.1:
+  owner: NAP
+  controller: NAP
+  cores:
+    NAP: yes
+1386.1.1:
+  owner: VEN
+  controller: VEN
+  cores:
+    NAP: no
+    VEN: yes
+1502.1.1:
+  cores:
+    BYZ: no
+1750.1.1:
+  cores:
+    GRE: yes
+1797.10.17:
+  owner: FRA
+  controller: FRA
+  cores:
+    VEN: no
+    FRA: yes
+1799.3.1:
+  owner: CEP
+  controller: CEP
+  cores:
+    FRA: no
+1807.7.7:
+  owner: FRA
+  controller: FRA
+  cores:
+    FRA: yes
+1815.11.5:
+  owner: GBR
+  controller: GBR
+  cores:
+    FRA: no
+    GBR: yes
+1864.3.29:
+  owner: GRE
+  controller: GRE
+  cores:
+    GBR: no
+    CEP: no
+    GRE: yes
+1941.4.1:
+  controller: ITA
+1941.7.1:
+  owner: ITA
+1943.9.8:
+  owner: GER
+  controller: GER
+1944.10.14:
+  controller: GBR
+1944.10.19:
+  owner: GRE
+  controller: GRE

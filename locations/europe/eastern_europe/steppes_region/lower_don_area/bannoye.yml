@@ -1,0 +1,158 @@
+#imported from EU4 file: history/provinces/467 - Borisoglebsk.txt
+2.1.1:
+  owner: SARM
+  controller: SARM
+  cores:
+    SARM: yes
+  resource: livestock
+  pop:
+    ethnicity: sarmatian
+    religion: 
+    estate: peasant
+    size: 1000
+350.1.1:
+  owner: HUNS
+  controller: HUNS
+  cores:
+    SARM: no
+    HUNS: yes
+  pop:
+    ethnicity: hunnic
+    estate: peasant
+    size: 1000
+420.1.1:
+  cores:
+    ONOG: yes
+  pop:
+    ethnicity: bolghar_culture
+    estate: peasant
+    size: 1000
+469.1.1:
+  owner: ONOG
+  controller: ONOG
+  cores:
+    HUNS: no
+632.1.1:
+  owner: BUL
+  controller: BUL
+  cores:
+    ONOG: no
+    BUL: yes
+720.1.1:
+  owner: KHAZ
+  controller: KHAZ
+  cores:
+    BUL: no
+    KHAZ: yes
+  pop:
+    ethnicity: khazar
+    estate: peasant
+    size: 1000
+750.1.1:
+  owner: BURT
+  controller: BURT
+  cores:
+    HUN: no
+    BURT: yes
+969.1.1:
+  owner: PECH
+  controller: PECH
+  cores:
+    BURT: no
+    PECH: yes
+  pop:
+    ethnicity: cuman_culture
+    estate: peasant
+    size: 1000
+1000.1.1:
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+1055.1.1:
+  owner: CUMA
+  controller: CUMA
+  cores:
+    PECH: no
+    CUMA: yes
+    ZAZ: yes
+1237.1.1:
+  owner: MGE
+  controller: MGE
+  cores:
+    CUMA: no
+    MGE: yes
+    CRIM: yes
+  pop:
+    ethnicity: mishar
+    estate: peasant
+    size: 1000
+1260.1.1:
+  owner: WHHO
+  controller: WHHO
+  cores:
+    MGE: no
+    WHHO: yes
+1372.1.1:
+  owner: BLHO
+  controller: BLHO
+  cores:
+    BLHO: yes
+1374.1.1:
+  owner: WHHO
+  controller: WHHO
+  cores:
+    BLHO: no
+1378.1.1:
+  owner: GLH
+  controller: GLH
+  cores:
+    GLH: yes
+1442.1.1:
+  owner: GRHO
+  controller: GRHO
+  cores:
+    GLH: no
+    GRHO: yes
+1502.6.1:
+  owner: CRIM
+  controller: CRIM
+  cores:
+    GRHO: no
+1572.8.2:
+  owner: RUS
+  controller: RUS
+  cores:
+    CRIM: no
+    RUS: yes
+1600.1.1:
+  pop:
+    ethnicity: muscovite
+    estate: peasant
+    size: 1000
+1650.1.1:
+  pop:
+    religion: orthodox
+    estate: peasant
+    size: 1000
+1775.2.1:
+  controller: RUS
+1850.1.1:
+  cores:
+    CRIM: no
+1922.12.30:
+  owner: SOVI
+  controller: SOVI
+  cores:
+    RUS: no
+    SOVI: yes
+1942.9.1:
+  controller: GER
+1943.1.31:
+  controller: SOVI
+1991.12.25:
+  owner: RUS
+  controller: RUS
+  cores:
+    SOVI: no
+    RUS: yes

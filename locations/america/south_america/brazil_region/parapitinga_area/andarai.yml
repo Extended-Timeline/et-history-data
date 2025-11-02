@@ -1,0 +1,34 @@
+#imported from EU4 file: history/provinces/2916 - Rio Contas.txt
+2.1.1:
+  pop:
+    ethnicity: tupinamba_culture
+    religion: muisca_religion
+    estate: peasant
+    size: 1000
+1534.6.26:
+  owner: TPQ
+  controller: TPQ
+  cores:
+    TPQ: yes
+  resource: cocoa
+1618.1.1:
+  owner: POR
+  controller: POR
+  cores:
+    POR: yes
+  pop:
+    ethnicity: portuguese
+    religion: catholic
+    estate: peasant
+    size: 1000
+1780.1.1:
+  pop:
+    ethnicity: brazilian
+    estate: peasant
+    size: 1000
+1822.9.7:
+  owner: BRAZ
+  controller: BRAZ
+  cores:
+    POR: no
+    BRAZ: yes

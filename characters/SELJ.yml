@@ -1,0 +1,208 @@
+selj_tughril_seljuq:
+  1005.1.1:
+    birth: isfahan #TODO: Date and location guessed, check if better data is available
+    first_name: tughril
+    dynasty: seljuq_dynasty
+    adm: 60
+    dip: 75
+    mil: 90
+    religion: sunni
+    culture: turkmen_culture
+  1063.9.4:
+    death: yes
+selj_alp_arslan_seljuq:
+  1029.1.1:
+    birth: faraveh #TODO: Date and location guessed, check if better data is available
+    first_name: alp_arslan
+    dynasty: seljuq_dynasty
+    father: selj_tughril_seljuq #TODO: check if this makes sense
+    adm: 90
+    dip: 75
+    mil: 90
+    religion: sunni
+    culture: turkmen_culture
+  1072.12.15:
+    death: yes
+selj_alp_arslan_seljuq_1:
+  1033.1.1:
+    birth: isfahan #TODO: Date and location guessed, check if better data is available
+    first_name: alp_arslan
+    dynasty: seljuq_dynasty
+    adm: 90
+    dip: 75
+    mil: 90
+    religion: sunni
+    culture: turkmen_culture
+  1072.12.15:
+    death: yes
+selj_malik_shah_i_seljuq:
+  1055.1.1:
+    birth: isfahan #TODO: Date and location guessed, check if better data is available
+    first_name: malik_shah
+    dynasty: seljuq_dynasty
+    father: selj_alp_arslan_seljuq_1 #TODO: check if this makes sense
+    adm: 60
+    dip: 45
+    mil: 75
+    religion: sunni
+    culture: turkmen_culture
+  1092.1.1:
+    death: yes
+selj_malik_shah_i_seljuq_1:
+  1042.1.1:
+    birth: isfahan #TODO: Date and location guessed, check if better data is available
+    first_name: malik_shah
+    dynasty: seljuq_dynasty
+    adm: 60
+    dip: 45
+    mil: 75
+    religion: sunni
+    culture: turkmen_culture
+  1092.6.1:
+    death: yes
+selj_mahmud_i_seljuq:
+  1071.1.1:
+    birth: isfahan #TODO: Date and location guessed, check if better data is available
+    first_name: mahmud
+    dynasty: seljuq_dynasty
+    father: selj_malik_shah_i_seljuq_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 15
+    mil: 60
+    religion: sunni
+    culture: turkmen_culture
+  1094.1.1:
+    death: yes
+selj_mahmud_i_seljuq_1:
+  1062.1.1:
+    birth: isfahan #TODO: Date and location guessed, check if better data is available
+    first_name: mahmud
+    dynasty: seljuq_dynasty
+    adm: 45
+    dip: 15
+    mil: 60
+    religion: sunni
+    culture: turkmen_culture
+  1094.6.1:
+    death: yes
+selj_barkiyaruq_seljuq:
+  1064.1.1:
+    birth: isfahan #TODO: Date and location guessed, check if better data is available
+    first_name: barkiyaruq
+    dynasty: seljuq_dynasty
+    adm: 30
+    dip: 15
+    mil: 45
+    religion: sunni
+    culture: turkmen_culture
+  1105.6.1:
+    death: yes
+selj_muhammad_i_seljuq:
+  1075.1.1:
+    birth: hamadan #TODO: Date and location guessed, check if better data is available
+    first_name: muhammad
+    dynasty: seljuq_dynasty
+    adm: 30
+    dip: 30
+    mil: 30
+    religion: sunni
+    culture: turkmen_culture
+  1118.6.1:
+    death: yes
+selj_mahmud_ii_seljuq:
+  1088.1.1:
+    birth: hamadan #TODO: Date and location guessed, check if better data is available
+    first_name: mahmud
+    dynasty: seljuq_dynasty
+    adm: 30
+    dip: 30
+    mil: 45
+    religion: sunni
+    culture: turkmen_culture
+  3000.1.1:
+    death: yes
+selj_masud_seljuq:
+  1103.1.1:
+    birth: hamadan #TODO: Date and location guessed, check if better data is available
+    first_name: masud
+    dynasty: seljuq_dynasty
+    adm: 30
+    dip: 60
+    mil: 30
+    religion: sunni
+    culture: turkmen_culture
+  1152.6.1:
+    death: yes
+selj_malik_shah_iii_seljuq:
+  1122.1.1:
+    birth: hamadan #TODO: Date and location guessed, check if better data is available
+    first_name: malik_shah
+    dynasty: seljuq_dynasty
+    adm: 30
+    dip: 30
+    mil: 15
+    religion: sunni
+    culture: turkmen_culture
+  1153.6.1:
+    death: yes
+selj_muhammad_ii_seljuq:
+  1123.1.1:
+    birth: hamadan #TODO: Date and location guessed, check if better data is available
+    first_name: muhammad
+    dynasty: seljuq_dynasty
+    adm: 60
+    dip: 75
+    mil: 60
+    religion: sunni
+    culture: turkmen_culture
+  1160.6.1:
+    death: yes
+selj_suleiman_shah_seljuq:
+  1130.1.1:
+    birth: hamadan #TODO: Date and location guessed, check if better data is available
+    first_name: suleiman_shah
+    dynasty: seljuq_dynasty
+    adm: 30
+    dip: 60
+    mil: 30
+    religion: sunni
+    culture: turkmen_culture
+  1161.6.1:
+    death: yes
+selj_arslan_shah_seljuq:
+  1131.1.1:
+    birth: hamadan #TODO: Date and location guessed, check if better data is available
+    first_name: arslan_shah
+    dynasty: seljuq_dynasty
+    adm: 15
+    dip: 15
+    mil: 15
+    religion: sunni
+    culture: turkmen_culture
+  1175.6.1:
+    death: yes
+selj_toghrul_iii_seljuq:
+  1158.1.1:
+    birth: hamadan #TODO: Date and location guessed, check if better data is available
+    first_name: toghrul
+    dynasty: seljuq_dynasty
+    father: selj_arslan_shah_seljuq #TODO: check if this makes sense
+    adm: 45
+    dip: 30
+    mil: 60
+    religion: sunni
+    culture: turkmen_culture
+  1194.3.19:
+    death: yes
+selj_toghrul_iii_seljuq_1:
+  1145.1.1:
+    birth: hamadan #TODO: Date and location guessed, check if better data is available
+    first_name: toghrul
+    dynasty: seljuq_dynasty
+    adm: 45
+    dip: 30
+    mil: 60
+    religion: sunni
+    culture: turkmen_culture
+  3000.1.1:
+    death: yes

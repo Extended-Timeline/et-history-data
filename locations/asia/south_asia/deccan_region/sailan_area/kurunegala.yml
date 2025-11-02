@@ -1,0 +1,57 @@
+#imported from EU4 file: history/provinces/4408 - Salavata.txt
+2.1.1:
+  owner: RAJA
+  controller: RAJA
+  cores:
+    RAJA: yes
+  resource: spices
+  pop:
+    ethnicity: sinhalese
+    religion: theravada
+    estate: peasant
+    size: 1000
+1017.1.1:
+  owner: CHOL
+  controller: CHOL
+  cores:
+    CHOL: yes
+1070.1.1:
+  owner: RAJA
+  controller: RAJA
+  cores:
+    CHOL: no
+1341.1.1:
+  owner: CEYL
+  controller: CEYL
+  cores:
+    RAJA: no
+    CEYL: yes
+1542.1.1:
+  cores:
+    POR: yes
+1658.1.1:
+  owner: NED
+  controller: NED
+  cores:
+    POR: no
+1685.1.1:
+  cores:
+    NED: yes
+1799.8.1:
+  controller: GBR
+1802.3.25:
+  owner: GBR
+  cores:
+    NED: no
+    GBR: yes
+1948.2.4:
+  owner: CEYL
+  controller: CEYL
+  cores:
+    GBR: no
+1972.5.22:
+  owner: SRLA
+  controller: SRLA
+  cores:
+    CEYL: no
+    SRLA: yes

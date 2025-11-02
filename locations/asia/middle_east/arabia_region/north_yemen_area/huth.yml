@@ -1,0 +1,99 @@
+#imported from EU4 file: history/provinces/4282 - Sahda.txt
+2.1.1:
+  owner: SABA
+  controller: SABA
+  cores:
+    SABA: yes
+  resource: coffee
+  pop:
+    ethnicity: yemeni_culture
+    religion: south_arabian
+    estate: peasant
+    size: 1000
+275.1.1:
+  owner: HIMY
+  controller: HIMY
+  cores:
+    SABA: no
+    HIMY: yes
+500.1.1:
+  pop:
+    religion: judaism
+    estate: peasant
+    size: 1000
+525.1.1:
+  owner: AKSM
+  controller: AKSM
+  cores:
+    HIMY: no
+    AKSM: yes
+540.1.1:
+  owner: YEM
+  controller: YEM
+  cores:
+    AKSM: no
+    YEM: yes
+570.1.1:
+  owner: NAJR
+  controller: NAJR
+  cores:
+    YEM: no
+    NAJR: yes
+628.1.1:
+  owner: RASH
+  controller: RASH
+  cores:
+    RASH: yes
+  pop:
+    religion: islam
+    estate: peasant
+    size: 1000
+661.7.28:
+  owner: UMAY
+  controller: UMAY
+  cores:
+    RASH: no
+    UMAY: yes
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+750.8.6:
+  owner: ABBA
+  controller: ABBA
+  cores:
+    UMAY: no
+    ABBA: yes
+800.1.1:
+  pop:
+    religion: shia
+    estate: peasant
+    size: 1000
+847.1.1:
+  owner: SANA
+  controller: SANA
+  cores:
+    ABBA: no
+    SANA: yes
+897.1.1:
+  owner: RASS
+  controller: RASS
+  cores:
+    SANA: no
+    RASS: yes
+1258.1.1:
+  controller: RASS
+1264.1.1:
+  controller: YEM
+1264.8.1:
+  controller: RASS
+1474.1.1:
+  controller: RASS
+1962.9.27:
+  owner: YEM
+  controller: YEM
+  cores:
+    RASS: no
+    YEM: yes
+2015.2.6:
+  controller: YEM

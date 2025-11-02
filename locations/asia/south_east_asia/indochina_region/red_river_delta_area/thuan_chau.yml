@@ -1,0 +1,63 @@
+#imported from EU4 file: history/provinces/2371 - Song La.txt
+2.1.1:
+  pop:
+    ethnicity: lao_culture
+    religion: satsana_phi
+    estate: peasant
+    size: 1000
+620.1.1:
+  owner: TKHA
+  controller: TKHA
+  cores:
+    TKHA: yes
+  resource: tea
+1354.1.1:
+  owner: LAXA
+  controller: LAXA
+  cores:
+    LAXA: yes
+1592.1.1:
+  owner: TONK
+  controller: TONK
+  cores:
+    TONK: yes
+1786.6.1:
+  owner: DAI
+  controller: DAI
+  cores:
+    TONK: no
+    DAI: yes
+1802.7.22:
+  owner: ANNA
+  controller: ANNA
+  cores:
+    DAI: no
+1840.1.1:
+  pop:
+    religion: mahayana
+    estate: peasant
+    size: 1000
+1883.8.25:
+  owner: FRA
+1886.4.1:
+  controller: FRA
+  cores:
+    FRA: yes
+1940.6.14:
+  controller: JAP
+1945.3.11:
+  owner: VIET
+  controller: VIET
+  cores:
+    VIET: yes
+1945.8.23:
+  owner: NVIE
+  controller: NVIE
+  cores:
+    FRA: no
+    NVIE: yes
+1976.7.2:
+  owner: VIET
+  controller: VIET
+  cores:
+    NVIE: no

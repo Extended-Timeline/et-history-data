@@ -1,0 +1,125 @@
+#imported from EU4 file: history/provinces/422 - Imereti.txt
+2.1.1:
+  owner: IBER
+  controller: IBER
+  cores:
+    IBER: yes
+  resource: cloth
+  pop:
+    ethnicity: georgian_culture
+    religion: georgian_religion
+    estate: peasant
+    size: 1000
+319.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+527.1.1:
+  controller: ERA
+532.1.1:
+  controller: IBER
+580.1.1:
+  owner: ERA
+  controller: ERA
+  cores:
+    ERA: yes
+591.1.1:
+  owner: BYZ
+  controller: BYZ
+  cores:
+    ERA: no
+    BYZ: yes
+654.1.1:
+  owner: IBER
+  controller: IBER
+  cores:
+    BYZ: no
+    IBER: yes
+    RASH: yes
+661.1.1:
+  cores:
+    RASH: no
+    UMAY: yes
+750.1.1:
+  cores:
+    UMAY: no
+    ABBA: yes
+810.1.1:
+  cores:
+    ABBA: no
+867.1.1:
+  pop:
+    religion: orthodox
+    estate: peasant
+    size: 1000
+875.1.1:
+  owner: ABKH
+  controller: ABKH
+  cores:
+    IBER: no
+    ABKH: yes
+960.1.1:
+  owner: GEO
+  controller: GEO
+  cores:
+    ABKH: no
+    GEO: yes
+1236.1.1:
+  owner: MGE
+  controller: MGE
+  cores:
+    MGE: yes
+1259.1.1:
+  owner: IME
+  controller: IME
+  cores:
+    MGE: no
+    IME: yes
+1330.1.1:
+  owner: GEO
+  controller: GEO
+1387.1.1:
+  owner: IME
+  controller: IME
+1412.1.1:
+  owner: GEO
+  controller: GEO
+1446.1.1:
+  owner: IME
+  controller: IME
+1453.1.1:
+  owner: GEO
+  controller: GEO
+1455.1.1:
+  owner: IME
+  controller: IME
+1465.1.1:
+  owner: GEO
+  controller: GEO
+1478.1.1:
+  owner: IME
+  controller: IME
+1810.2.20:
+  owner: RUS
+  controller: RUS
+  cores:
+    RUS: yes
+1918.5.26:
+  owner: GEO
+  controller: GEO
+1921.2.25:
+  owner: RUS
+  controller: RUS
+1922.12.30:
+  owner: SOVI
+  controller: SOVI
+  cores:
+    RUS: no
+    SOVI: yes
+1991.4.9:
+  owner: GEO
+  controller: GEO
+  cores:
+    SOVI: no
+    RUS: no

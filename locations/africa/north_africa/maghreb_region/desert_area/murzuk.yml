@@ -1,0 +1,61 @@
+#imported from EU4 file: history/provinces/2448 - Sabha.txt
+2.1.1:
+  owner: GARA
+  controller: GARA
+  cores:
+    GARA: yes
+  resource: ivory
+  pop:
+    ethnicity: eastern_amazigh
+    religion: bantu_religion
+    estate: peasant
+    size: 1000
+760.1.1:
+  owner: FZA
+  controller: FZA
+  cores:
+    GARA: no
+    FZA: yes
+  pop:
+    ethnicity: toubou_culture
+    estate: peasant
+    size: 1000
+765.1.1:
+  pop:
+    religion: ibadi
+    estate: peasant
+    size: 1000
+1173.1.1:
+  owner: MAM
+  controller: MAM
+  cores:
+    MAM: yes
+1200.1.1:
+  pop:
+    ethnicity: tunisian
+    religion: sunni
+    estate: peasant
+    size: 1000
+1212.1.1:
+  owner: FZA
+  controller: FZA
+  cores:
+    MAM: no
+    FZA: yes
+1912.10.18:
+  owner: ITA
+  controller: ITA
+  cores:
+    ITA: yes
+    LIBY: yes
+  resource: grain
+1943.1.12:
+  controller: FRA
+1943.4.11:
+  owner: FRA
+  controller: FRA
+  cores:
+    ITA: no
+1951.12.24:
+  owner: LIBY
+  controller: LIBY

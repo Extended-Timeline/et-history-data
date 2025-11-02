@@ -1,0 +1,54 @@
+#imported from EU4 file: history/provinces/1017 - Suo.txt
+2.1.1:
+  owner: KYUS
+  controller: KYUS
+  cores:
+    KYUS: yes
+  resource: silk
+  pop:
+    ethnicity: saigoku_culture
+    religion: shinto
+    estate: peasant
+    size: 1000
+550.1.1:
+  pop:
+    religion: mahayana
+    estate: peasant
+    size: 1000
+650.1.1:
+  owner: YMT
+  controller: YMT
+  cores:
+    KYUS: no
+    YMT: yes
+712.1.1:
+  pop:
+    religion: shinto
+    estate: peasant
+    size: 1000
+794.1.1:
+  owner: JAP
+  controller: JAP
+  cores:
+    YMT: no
+    JAP: yes
+940.1.1:
+  owner: OUC
+  controller: OUC
+  cores:
+    JAP: no
+    OUC: yes
+1555.10.1:
+  cores:
+    MRI: yes
+1557.4.3:
+  owner: MRI
+  controller: MRI
+  cores:
+    OUC: no
+1868.1.3:
+  owner: JAP
+  controller: JAP
+  cores:
+    MRI: no
+    JAP: yes

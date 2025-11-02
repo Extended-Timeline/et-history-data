@@ -1,0 +1,45 @@
+#imported from EU4 file: history/provinces/1031 - Kamikawa.txt
+2.1.1:
+  owner: NVK
+  controller: NVK
+  cores:
+    NVK: yes
+  resource: fish
+  pop:
+    ethnicity: nivkh_culture
+    religion: mari_paganism
+    estate: peasant
+    size: 1000
+1000.1.1:
+  owner: ANU
+  controller: ANU
+  cores:
+    NVK: no
+    ANU: yes
+  pop:
+    ethnicity: ainu_culture
+    estate: peasant
+    size: 1000
+1679.1.1:
+  owner: TOKU
+  controller: TOKU
+  pop:
+    ethnicity: saigoku_culture
+    religion: shinto
+    estate: peasant
+    size: 1000
+1704.1.1:
+  cores:
+    TOKU: yes
+1767.1.1:
+  cores:
+    RUS: yes
+1868.1.3:
+  owner: JAP
+  cores:
+    RUS: no
+    JAP: yes
+1869.6.27:
+  controller: JAP
+  cores:
+    TOKU: no

@@ -1,0 +1,179 @@
+#imported from EU4 file: history/provinces/419 - Armenia.txt
+2.1.1:
+  owner: ARM
+  controller: ARM
+  cores:
+    ARM: yes
+  resource: wine
+  pop:
+    ethnicity: armenian_culture
+    religion: armenian_religion
+    estate: peasant
+    size: 1000
+53.1.1:
+  pop:
+    religion: zoroastrian
+    estate: peasant
+    size: 1000
+114.1.1:
+  owner: ROM
+  controller: ROM
+  cores:
+    ROM: yes
+117.1.1:
+  owner: ARM
+  controller: ARM
+  cores:
+    ROM: no
+301.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+428.1.1:
+  owner: ERA
+  controller: ERA
+  cores:
+    ERA: yes
+506.1.1:
+  pop:
+    religion: miaphysite
+    estate: peasant
+    size: 1000
+591.1.1:
+  owner: BYZ
+  controller: BYZ
+  cores:
+    ERA: no
+    BYZ: yes
+640.1.1:
+  owner: RASH
+  controller: RASH
+  cores:
+    BYZ: no
+    RASH: yes
+653.1.1:
+  owner: ARM
+  controller: ARM
+  cores:
+    ARM: yes
+661.1.1:
+  cores:
+    RASH: no
+    UMAY: yes
+750.1.1:
+  cores:
+    UMAY: no
+    ABBA: yes
+884.1.1:
+  cores:
+    ABBA: no
+1064.1.1:
+  owner: SELJ
+  controller: SELJ
+  cores:
+    SELJ: yes
+1124.1.1:
+  owner: GEO
+  controller: GEO
+  cores:
+    SELJ: no
+    GEO: yes
+1225.1.1:
+  owner: KHWA
+  controller: KHWA
+  cores:
+    GEO: no
+    KHWA: yes
+1236.1.1:
+  owner: MGE
+  controller: MGE
+  cores:
+    KHWA: no
+    MGE: yes
+1260.1.1:
+  owner: ARM
+  controller: ARM
+  cores:
+    MGE: no
+    ARM: yes
+1375.1.1:
+  owner: QAKO
+  controller: QAKO
+  cores:
+    QAKO: yes
+1380.1.1:
+  cores:
+    TIM: yes
+1387.1.1:
+  owner: TIM
+  controller: TIM
+  cores:
+    QAKO: no
+1402.1.1:
+  owner: QAKO
+  controller: QAKO
+  cores:
+    TIM: no
+    QAKO: yes
+1468.1.1:
+  owner: AKQO
+  controller: AKQO
+  cores:
+    QAKO: no
+    AKQO: yes
+1501.7.1:
+  owner: IRA
+  controller: IRA
+  cores:
+    AKQO: no
+    IRA: yes
+1554.1.1:
+  controller: TUR
+1555.5.29:
+  controller: IRA
+1583.8.15:
+  controller: TUR
+1590.3.21:
+  owner: TUR
+  cores:
+    TUR: yes
+1604.6.1:
+  controller: IRA
+1612.11.20:
+  owner: IRA
+1639.5.17:
+  cores:
+    TUR: no
+1747.1.1:
+  owner: ARM
+  controller: ARM
+1796.6.15:
+  controller: RUS
+1796.11.1:
+  controller: ARM
+1827.10.1:
+  controller: RUS
+1828.2.22:
+  owner: RUS
+  cores:
+    IRA: no
+    RUS: yes
+1918.5.28:
+  owner: ARM
+  controller: ARM
+1920.12.2:
+  owner: RUS
+  controller: RUS
+1922.12.30:
+  owner: SOVI
+  controller: SOVI
+  cores:
+    RUS: no
+    SOVI: yes
+1991.9.21:
+  owner: ARM
+  controller: ARM
+  cores:
+    SOVI: no
+    RUS: no

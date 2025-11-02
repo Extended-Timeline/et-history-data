@@ -1,0 +1,114 @@
+#imported from EU4 file: history/provinces/2056 - Rewa Kantha.txt
+2.1.1:
+  owner: WSAT
+  controller: WSAT
+  cores:
+    WSAT: yes
+  resource: wool
+  pop:
+    ethnicity: saurashtri
+    religion: hindu
+    estate: peasant
+    size: 1000
+405.1.1:
+  owner: GUPT
+  controller: GUPT
+  cores:
+    WSAT: no
+    GUPT: yes
+500.1.1:
+  owner: MLW
+  controller: MLW
+  cores:
+    GUPT: no
+    MLW: yes
+540.1.1:
+  owner: GUJ
+  controller: GUJ
+  cores:
+    MLW: no
+    GUJ: yes
+776.1.1:
+  owner: GURJ
+  controller: GURJ
+  cores:
+    GURJ: yes
+800.1.1:
+  owner: RAST
+  controller: RAST
+  cores:
+    GURJ: no
+    GUJ: yes
+806.1.1:
+  owner: GUJ
+  controller: GUJ
+871.1.1:
+  owner: RAST
+  controller: RAST
+  cores:
+    RAST: yes
+953.1.1:
+  owner: MLW
+  controller: MLW
+  cores:
+    RAST: no
+    MLW: yes
+1110.1.1:
+  owner: GUJ
+  controller: GUJ
+  cores:
+    MLW: no
+    GUJ: yes
+1150.1.1:
+  pop:
+    religion: jain
+    estate: peasant
+    size: 1000
+1171.1.1:
+  pop:
+    religion: hindu
+    estate: peasant
+    size: 1000
+1300.1.1:
+  owner: RJI
+  controller: RJI
+  cores:
+    GUJ: no
+    RJI: yes
+1485.1.1:
+  controller: GUJ
+1485.11.21:
+  owner: GUJ
+  cores:
+    GUJ: yes
+1544.1.1:
+  owner: BNG
+  controller: BNG
+1545.1.1:
+  owner: GUJ
+  controller: GUJ
+1573.6.1:
+  owner: MUG
+  controller: MUG
+  cores:
+    MUG: yes
+1735.1.1:
+  owner: MHR
+  controller: MHR
+  cores:
+    MUG: no
+    MHR: yes
+1803.1.1:
+  owner: GBR
+  controller: GBR
+  cores:
+    MHR: no
+    GBR: yes
+1930.1.1:
+  cores:
+    INDI: yes
+1947.8.15:
+  owner: INDI
+  controller: INDI
+  cores:
+    GBR: no

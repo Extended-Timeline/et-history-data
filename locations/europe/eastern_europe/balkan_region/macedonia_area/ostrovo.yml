@@ -1,0 +1,121 @@
+#imported from EU4 file: history/provinces/1853 - Kozani.txt
+2.1.1:
+  owner: ROM
+  controller: ROM
+  cores:
+    ROM: yes
+  resource: wine
+  pop:
+    ethnicity: greek_culture
+    religion: hellenism_religion
+    estate: peasant
+    size: 1000
+380.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+395.1.17:
+  owner: BYZ
+  controller: BYZ
+  cores:
+    ROM: no
+    BYZ: yes
+842.1.1:
+  owner: BUL
+  controller: BUL
+  cores:
+    BUL: yes
+867.1.1:
+  pop:
+    religion: orthodox
+    estate: peasant
+    size: 1000
+1005.1.1:
+  owner: BYZ
+  controller: BYZ
+  cores:
+    BUL: no
+    BYZ: yes
+1204.4.13:
+  owner: THE
+  controller: THE
+  cores:
+    THE: yes
+1217.1.1:
+  owner: EPI
+  controller: EPI
+  cores:
+    EPI: yes
+1224.1.1:
+  owner: THE
+  controller: THE
+  cores:
+    EPI: no
+1246.1.1:
+  owner: NICA
+  controller: NICA
+  cores:
+    BUL: no
+    NICA: yes
+1261.1.1:
+  owner: BYZ
+  controller: BYZ
+  cores:
+    NICA: no
+1348.1.1:
+  owner: SER
+  controller: SER
+  cores:
+    SER: yes
+1356.1.1:
+  owner: BYZ
+  controller: BYZ
+  cores:
+    SER: no
+1395.1.1:
+  owner: TUR
+  controller: TUR
+  cores:
+    TUR: yes
+1403.1.1:
+  owner: BYZ
+  controller: BYZ
+  cores:
+    TUR: no
+1423.1.1:
+  owner: VEN
+  controller: VEN
+  cores:
+    VEN: yes
+1430.3.29:
+  owner: TUR
+  controller: TUR
+  cores:
+    VEN: no
+    TUR: yes
+1502.1.1:
+  cores:
+    BYZ: no
+1750.1.1:
+  cores:
+    GRE: yes
+1912.10.11:
+  controller: GRE
+1913.5.30:
+  owner: GRE
+  cores:
+    TUR: no
+1941.4.20:
+  controller: GER
+1941.7.1:
+  owner: ITA
+  controller: ITA
+1943.9.8:
+  owner: GER
+  controller: GER
+1944.10.1:
+  controller: GBR
+1944.10.19:
+  owner: GRE
+  controller: GRE

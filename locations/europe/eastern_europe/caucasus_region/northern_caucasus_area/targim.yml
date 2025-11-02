@@ -1,0 +1,61 @@
+#imported from EU4 file: history/provinces/2201 - Alania.txt
+2.1.1:
+  owner: ALN
+  controller: ALN
+  cores:
+    ALN: yes
+  resource: wool
+  pop:
+    ethnicity: alan_culture
+    religion: 
+    estate: peasant
+    size: 1000
+932.1.1:
+  pop:
+    religion: orthodox
+    estate: peasant
+    size: 1000
+1236.1.1:
+  owner: MGE
+  controller: MGE
+  cores:
+    MGE: yes
+1260.1.1:
+  owner: WHHO
+  controller: WHHO
+  cores:
+    MGE: no
+    WHHO: yes
+1314.1.1:
+  owner: ALN
+  controller: ALN
+  cores:
+    WHHO: no
+    ALN: yes
+1774.1.1:
+  owner: RUS
+  controller: RUS
+  cores:
+    RUS: yes
+1828.1.1:
+  cores:
+    GAZI: no
+    CAUC: yes
+1917.3.6:
+  owner: CAUC
+  controller: CAUC
+1921.1.1:
+  owner: RUS
+  controller: RUS
+1922.12.30:
+  owner: SOVI
+  controller: SOVI
+  cores:
+    GEO: no
+    SOVI: yes
+1991.12.25:
+  owner: RUS
+  controller: RUS
+  cores:
+    SOVI: no
+    RUS: yes

@@ -1,0 +1,93 @@
+#imported from EU4 file: history/provinces/238 - Essex.txt
+2.1.1:
+  owner: ICEN
+  controller: ICEN
+  cores:
+    ICEN: yes
+  resource: cloth
+  pop:
+    ethnicity: briton
+    religion: druidism
+    estate: peasant
+    size: 1000
+43.1.1:
+  owner: ROM
+  controller: ROM
+  cores:
+    ROM: yes
+395.1.17:
+  owner: ROMW
+  controller: ROMW
+  cores:
+    ROM: no
+    ROMW: yes
+420.1.1:
+  owner: ESSE
+  controller: ESSE
+  cores:
+    ROMW: no
+    ICEN: no
+    ESSE: yes
+  pop:
+    ethnicity: anglo_saxon
+    estate: peasant
+    size: 1000
+527.1.1:
+  pop:
+    religion: germanic
+    estate: peasant
+    size: 1000
+660.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+825.1.1:
+  owner: WESS
+  controller: WESS
+  cores:
+    WESS: yes
+867.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+879.1.1:
+  owner: EANG
+  controller: EANG
+  cores:
+    EANG: yes
+918.1.1:
+  owner: WESS
+  controller: WESS
+  cores:
+    EANG: no
+927.1.1:
+  owner: ENG
+  controller: ENG
+  cores:
+    WESS: no
+    ENG: yes
+950.1.1:
+  cores:
+    ESSE: no
+1066.12.25:
+  pop:
+    ethnicity: english
+    estate: peasant
+    size: 1000
+1538.1.1:
+  pop:
+    religion: anglican
+    estate: peasant
+    size: 1000
+1646.5.5:
+  controller: ENG
+1648.8.29:
+  controller: ENG
+1707.5.12:
+  owner: GBR
+  controller: GBR
+  cores:
+    ENG: no
+    GBR: yes

@@ -1,0 +1,486 @@
+mri_motoharu_mori:
+  1311.1.1:
+    birth: aki #TODO: Date and location guessed, check if better data is available
+    first_name: motoharu
+    dynasty: mori_dynasty
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: shinto
+    culture: saigoku_culture
+  1401.1.1:
+    death: yes
+mri_hirofusa_mori:
+  1347.1.1:
+    birth: aki #TODO: Date and location guessed, check if better data is available
+    first_name: hirofusa
+    dynasty: mori_dynasty
+    father: mri_motoharu_mori #TODO: check if this makes sense
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: shinto
+    culture: saigoku_culture
+  1385.1.1:
+    death: yes
+mri_mitsufusa_mori:
+  1386.1.1:
+    birth: aki #TODO: Date and location guessed, check if better data is available
+    first_name: mitsufusa
+    dynasty: mori_dynasty
+    father: mri_motoharu_mori #TODO: check if this makes sense
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: shinto
+    culture: saigoku_culture
+  1436.1.1:
+    death: yes
+mri_mitsufusa:
+  1371.1.1:
+    birth: aki #TODO: Date and location guessed, check if better data is available
+    first_name: mitsufusa
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: shinto
+    culture: saigoku_culture
+  1436.1.1:
+    death: yes
+mri_hiromoto_mori:
+  1412.1.1:
+    birth: aki #TODO: Date and location guessed, check if better data is available
+    first_name: hiromoto
+    dynasty: mori_dynasty
+    father: mri_toyomoto_mori_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 30
+    mil: 30
+    religion: shinto
+    culture: saigoku_culture
+  1464.1.1:
+    death: yes
+mri_hiromoto_mori_1:
+  1406.1.1:
+    birth: aki #TODO: Date and location guessed, check if better data is available
+    first_name: hiromoto
+    dynasty: mori_dynasty
+    father: mri_toyomoto_mori_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 30
+    mil: 30
+    religion: shinto
+    culture: saigoku_culture
+  1464.1.1:
+    death: yes
+mri_toyomoto_mori:
+  1444.1.1:
+    birth: aki #TODO: Date and location guessed, check if better data is available
+    first_name: toyomoto
+    dynasty: mori_dynasty
+    father: mri_hiromoto_mori_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 30
+    mil: 45
+    religion: shinto
+    culture: saigoku_culture
+  1476.1.1:
+    death: yes
+mri_toyomoto_mori_1:
+  1434.1.1:
+    birth: aki #TODO: Date and location guessed, check if better data is available
+    first_name: toyomoto
+    dynasty: mori_dynasty
+    adm: 30
+    dip: 30
+    mil: 45
+    religion: shinto
+    culture: saigoku_culture
+  1476.1.1:
+    death: yes
+mri_hiromoto_mori_2:
+  1466.1.1:
+    birth: aki #TODO: Date and location guessed, check if better data is available
+    first_name: hiromoto
+    dynasty: mori_dynasty
+    father: mri_toyomoto_mori_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 30
+    mil: 30
+    religion: shinto
+    culture: saigoku_culture
+  1506.2.3:
+    death: yes
+mri_hiromoto_mori_3:
+  1446.1.1:
+    birth: aki #TODO: Date and location guessed, check if better data is available
+    first_name: hiromoto
+    dynasty: mori_dynasty
+    adm: 30
+    dip: 30
+    mil: 30
+    religion: shinto
+    culture: saigoku_culture
+  1506.2.3:
+    death: yes
+mri_okimoto_mori:
+  1492.1.1:
+    birth: aki #TODO: Date and location guessed, check if better data is available
+    first_name: okimoto
+    dynasty: mori_dynasty
+    father: mri_hiromoto_mori_3 #TODO: check if this makes sense
+    adm: 30
+    dip: 45
+    mil: 30
+    religion: shinto
+    culture: saigoku_culture
+  1516.9.21:
+    death: yes
+mri_okimoto_mori_1:
+  1476.1.1:
+    birth: aki #TODO: Date and location guessed, check if better data is available
+    first_name: okimoto
+    dynasty: mori_dynasty
+    adm: 30
+    dip: 45
+    mil: 30
+    religion: shinto
+    culture: saigoku_culture
+  1516.9.21:
+    death: yes
+mri_komatsumaru_mori:
+  1515.1.1:
+    birth: aki #TODO: Date and location guessed, check if better data is available
+    first_name: komatsumaru
+    dynasty: mori_dynasty
+    father: mri_okimoto_mori_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 30
+    mil: 15
+    religion: shinto
+    culture: saigoku_culture
+  1523.8.25:
+    death: yes
+mri_komatsumaru_mori_1:
+  1486.1.1:
+    birth: aki #TODO: Date and location guessed, check if better data is available
+    first_name: komatsumaru
+    dynasty: mori_dynasty
+    adm: 15
+    dip: 30
+    mil: 15
+    religion: shinto
+    culture: saigoku_culture
+  1523.8.25:
+    death: yes
+mri_motonari_mori:
+  1493.1.1:
+    birth: aki #TODO: Date and location guessed, check if better data is available
+    first_name: motonari
+    dynasty: mori_dynasty
+    adm: 75
+    dip: 90
+    mil: 60
+    religion: shinto
+    culture: saigoku_culture
+  1571.7.6:
+    death: yes
+mri_takamoto_mori:
+  1523.1.1:
+    birth: aki #TODO: Date and location guessed, check if better data is available
+    first_name: takamoto
+    dynasty: mori_dynasty
+    father: mri_motonari_mori #TODO: check if this makes sense
+    adm: 75
+    dip: 60
+    mil: 60
+    religion: shinto
+    culture: saigoku_culture
+  1563.9.18:
+    death: yes
+mri_terumoto_mori:
+  1553.2.4:
+    birth: aki #TODO: Location guessed, check if better data is available
+    first_name: terumoto
+    dynasty: mori_dynasty
+    father: mri_motonari_mori #TODO: check if this makes sense
+    adm: 60
+    dip: 45
+    mil: 45
+    religion: shinto
+    culture: saigoku_culture
+  1625.6.2:
+    death: yes
+mri_terumoto_mori_1:
+  1541.1.1:
+    birth: aki #TODO: Date and location guessed, check if better data is available
+    first_name: terumoto
+    dynasty: mori_dynasty
+    adm: 60
+    dip: 45
+    mil: 45
+    religion: shinto
+    culture: saigoku_culture
+  1623.1.1:
+    death: yes
+mri_hidenari_mori:
+  1595.11.19:
+    birth: aki #TODO: Location guessed, check if better data is available
+    first_name: hidenari
+    dynasty: mori_dynasty
+    father: mri_terumoto_mori_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 30
+    mil: 30
+    religion: shinto
+    culture: saigoku_culture
+  1651.2.24:
+    death: yes
+mri_hidenari_mori_1:
+  1593.1.1:
+    birth: aki #TODO: Date and location guessed, check if better data is available
+    first_name: hidenari
+    dynasty: mori_dynasty
+    adm: 30
+    dip: 30
+    mil: 30
+    religion: shinto
+    culture: saigoku_culture
+  1651.2.24:
+    death: yes
+mri_tsunahiro_mori:
+  1639.12.14:
+    birth: aki #TODO: Location guessed, check if better data is available
+    first_name: tsunahiro
+    dynasty: mori_dynasty
+    father: mri_hidenari_mori_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: shinto
+    culture: saigoku_culture
+  1689.6.4:
+    death: yes
+mri_tsunahiro_mori_1:
+  1621.1.1:
+    birth: aki #TODO: Date and location guessed, check if better data is available
+    first_name: tsunahiro
+    dynasty: mori_dynasty
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: shinto
+    culture: saigoku_culture
+  1689.6.4:
+    death: yes
+mri_yoshinari_mori:
+  1668.3.3:
+    birth: aki #TODO: Location guessed, check if better data is available
+    first_name: yoshinari
+    dynasty: mori_dynasty
+    father: mri_tsunahiro_mori_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: shinto
+    culture: saigoku_culture
+  1694.3.2:
+    death: yes
+mri_yoshinari_mori_1:
+  1659.1.1:
+    birth: aki #TODO: Date and location guessed, check if better data is available
+    first_name: yoshinari
+    dynasty: mori_dynasty
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: shinto
+    culture: saigoku_culture
+  1694.3.2:
+    death: yes
+mri_yoshihiro_mori:
+  1673.2.28:
+    birth: aki #TODO: Location guessed, check if better data is available
+    first_name: yoshihiro
+    dynasty: mori_dynasty
+    father: mri_yoshinari_mori_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: shinto
+    culture: saigoku_culture
+  1707.11.16:
+    death: yes
+mri_yoshihiro_mori_1:
+  1664.1.1:
+    birth: aki #TODO: Date and location guessed, check if better data is available
+    first_name: yoshihiro
+    dynasty: mori_dynasty
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: shinto
+    culture: saigoku_culture
+  1707.11.16:
+    death: yes
+mri_yoshimoto_mori:
+  1677.1.1:
+    birth: aki #TODO: Date and location guessed, check if better data is available
+    first_name: yoshimoto
+    dynasty: mori_dynasty
+    adm: 60
+    dip: 45
+    mil: 45
+    religion: shinto
+    culture: saigoku_culture
+  1731.10.13:
+    death: yes
+mri_munehiro_mori:
+  1717.8.12:
+    birth: aki #TODO: Location guessed, check if better data is available
+    first_name: munehiro
+    dynasty: mori_dynasty
+    father: mri_yoshimoto_mori #TODO: check if this makes sense
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: shinto
+    culture: saigoku_culture
+  1751.3.1:
+    death: yes
+mri_munehiro_mori_1:
+  1701.1.1:
+    birth: aki #TODO: Date and location guessed, check if better data is available
+    first_name: munehiro
+    dynasty: mori_dynasty
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: shinto
+    culture: saigoku_culture
+  1751.3.1:
+    death: yes
+mri_shigetaka_mori:
+  1721.1.1:
+    birth: aki #TODO: Date and location guessed, check if better data is available
+    first_name: shigetaka
+    dynasty: mori_dynasty
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: shinto
+    culture: saigoku_culture
+  1789.11.23:
+    death: yes
+mri_haruchika_mori:
+  1754.8.3:
+    birth: aki #TODO: Location guessed, check if better data is available
+    first_name: haruchika
+    dynasty: mori_dynasty
+    father: mri_shigetaka_mori #TODO: check if this makes sense
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: shinto
+    culture: saigoku_culture
+  1791.7.12:
+    death: yes
+mri_haruchika_mori_1:
+  1759.1.1:
+    birth: aki #TODO: Date and location guessed, check if better data is available
+    first_name: haruchika
+    dynasty: mori_dynasty
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: shinto
+    culture: saigoku_culture
+  1791.7.12:
+    death: yes
+mri_narifusa_mori:
+  1782.12.14:
+    birth: aki #TODO: Location guessed, check if better data is available
+    first_name: narifusa
+    dynasty: mori_dynasty
+    father: mri_haruchika_mori_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: shinto
+    culture: saigoku_culture
+  1809.3.29:
+    death: yes
+mri_narifusa_mori_1:
+  1761.1.1:
+    birth: aki #TODO: Date and location guessed, check if better data is available
+    first_name: narifusa
+    dynasty: mori_dynasty
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: shinto
+    culture: saigoku_culture
+  1809.3.29:
+    death: yes
+mri_narihiro_mori:
+  1779.1.1:
+    birth: aki #TODO: Date and location guessed, check if better data is available
+    first_name: narihiro
+    dynasty: mori_dynasty
+    father: mri_narimoto_mori #TODO: check if this makes sense
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: shinto
+    culture: saigoku_culture
+  1824.1.1:
+    death: yes
+mri_narimoto_mori:
+  1794.1.1:
+    birth: aki #TODO: Date and location guessed, check if better data is available
+    first_name: narimoto
+    dynasty: mori_dynasty
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: shinto
+    culture: saigoku_culture
+  1836.10.17:
+    death: yes
+mri_narihiro_mori_1:
+  1814.7.3:
+    birth: aki #TODO: Location guessed, check if better data is available
+    first_name: narihiro
+    dynasty: mori_dynasty
+    father: mri_narimoto_mori #TODO: check if this makes sense
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: shinto
+    culture: saigoku_culture
+  1837.2.4:
+    death: yes
+mri_narihiro_mori_2:
+  1806.1.1:
+    birth: aki #TODO: Date and location guessed, check if better data is available
+    first_name: narihiro
+    dynasty: mori_dynasty
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: shinto
+    culture: saigoku_culture
+  1837.2.4:
+    death: yes
+mri_takachika_mori:
+  1807.1.1:
+    birth: aki #TODO: Date and location guessed, check if better data is available
+    first_name: takachika
+    dynasty: mori_dynasty
+    adm: 60
+    dip: 60
+    mil: 60
+    religion: shinto
+    culture: saigoku_culture
+  3000.1.1:
+    death: yes

@@ -1,0 +1,82 @@
+#imported from EU4 file: history/provinces/2198 - Khundzia.txt
+2.1.1:
+  owner: ALN
+  controller: ALN
+  cores:
+    ALN: yes
+  resource: livestock
+  pop:
+    ethnicity: avar_culture
+    religion: 
+    estate: peasant
+    size: 1000
+440.1.1:
+  owner: SARI
+  controller: SARI
+  cores:
+    ALN: no
+    SARI: yes
+550.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+780.1.1:
+  pop:
+    ethnicity: lezgin_culture
+    estate: peasant
+    size: 1000
+867.1.1:
+  pop:
+    religion: orthodox
+    estate: peasant
+    size: 1000
+1200.1.1:
+  owner: AVR
+  controller: AVR
+  cores:
+    SARI: no
+    AVR: yes
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+1236.1.1:
+  owner: MGE
+  controller: MGE
+  cores:
+    MGE: yes
+1260.1.1:
+  owner: AVR
+  controller: AVR
+  cores:
+    MGE: no
+1828.1.1:
+  owner: CAUC
+  controller: CAUC
+  cores:
+    AVR: no
+    CAUC: yes
+1859.9.1:
+  owner: RUS
+  controller: RUS
+1913.1.1:
+  resource: oil
+1917.3.6:
+  owner: CAUC
+  controller: CAUC
+1921.1.1:
+  owner: RUS
+  controller: RUS
+1922.12.30:
+  owner: SOVI
+  controller: SOVI
+  cores:
+    RUS: no
+    SOVI: yes
+1991.12.25:
+  owner: RUS
+  controller: RUS
+  cores:
+    SOVI: no
+    RUS: yes

@@ -1,0 +1,51 @@
+#imported from EU4 file: history/provinces/1243 - Samoa.txt
+2.1.1:
+  pop:
+    ethnicity: maohi_culture
+    religion: bimoism
+    estate: peasant
+    size: 1000
+900.1.1:
+  owner: SAM
+  controller: SAM
+  cores:
+    SAM: yes
+  resource: cloth
+1855.1.1:
+  owner: PRU
+  controller: PRU
+  cores:
+    PRU: yes
+1860.1.1:
+  pop:
+    religion: lutheran
+    estate: peasant
+    size: 1000
+1871.1.18:
+  owner: GER
+  controller: GER
+  cores:
+    PRU: no
+    GER: yes
+1919.6.28:
+  owner: GBR
+  controller: GBR
+  cores:
+    GER: no
+    GBR: yes
+1941.12.10:
+  controller: JAP
+1943.11.20:
+  controller: GBR
+1947.11.25:
+  owner: NZEA
+  controller: NZEA
+  cores:
+    GBR: no
+    NZEA: yes
+1962.1.1:
+  owner: SAM
+  controller: SAM
+  cores:
+    NZEA: no
+    SAM: yes

@@ -1,0 +1,41 @@
+#imported from EU4 file: history/provinces/2281 - Rano.txt
+2.1.1:
+  pop:
+    ethnicity: hausa
+    religion: bantu_religion
+    estate: peasant
+    size: 1000
+523.1.1:
+  owner: RAN
+  controller: RAN
+  cores:
+    RAN: yes
+  resource: dyes
+1355.1.1:
+  owner: KAN
+  controller: KAN
+  cores:
+    KAN: yes
+1380.1.1:
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+1806.1.1:
+  owner: SOKO
+  controller: SOKO
+  cores:
+    SOKO: yes
+1903.1.1:
+  owner: GBR
+  controller: GBR
+  cores:
+    GBR: yes
+1960.10.1:
+  owner: NIGR
+  controller: NIGR
+  cores:
+    GBR: no
+    SOKO: no
+    KAN: no
+    NIGR: yes

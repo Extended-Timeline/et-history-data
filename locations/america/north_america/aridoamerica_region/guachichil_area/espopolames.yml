@@ -1,0 +1,41 @@
+#imported from EU4 file: history/provinces/2667 - Cacaxtes.txt
+2.1.1:
+  pop:
+    ethnicity: coahuilteco_culture
+    religion: iroquoian_totemism
+    estate: peasant
+    size: 1000
+1200.1.1:
+  pop:
+    ethnicity: lepai_nde_culture
+    estate: peasant
+    size: 1000
+1700.1.1:
+  owner: SPA
+  controller: SPA
+  cores:
+    SPA: yes
+  resource: wool
+  pop:
+    ethnicity: castilian
+    religion: catholic
+    estate: peasant
+    size: 1000
+1770.1.1:
+  pop:
+    ethnicity: mexican
+    estate: peasant
+    size: 1000
+1810.9.16:
+  owner: MEX
+  controller: SPA
+  cores:
+    MEX: yes
+1821.9.27:
+  controller: MEX
+  cores:
+    SPA: no
+1846.9.24:
+  controller: USA
+1848.2.2:
+  controller: MEX

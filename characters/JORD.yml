@@ -1,0 +1,87 @@
+jord_abdullah_i_hashemite:
+  1916.1.1:
+    birth: amman #TODO: Date and location guessed, check if better data is available
+    first_name: abdullah
+    dynasty: hashemite_dynasty
+    adm: 60
+    dip: 45
+    mil: 60
+    religion: sunni
+    culture: palestinian
+  1951.7.20:
+    death: yes
+jord_talal_i_hashemite:
+  1909.2.26:
+    birth: amman #TODO: Location guessed, check if better data is available
+    first_name: talal
+    dynasty: hashemite_dynasty
+    father: jord_abdullah_i_hashemite #TODO: check if this makes sense
+    adm: 45
+    dip: 75
+    mil: 30
+    religion: sunni
+    culture: palestinian
+  1972.7.7:
+    death: yes
+jord_talal_i_hashemite_1:
+  1921.1.1:
+    birth: amman #TODO: Date and location guessed, check if better data is available
+    first_name: talal
+    dynasty: hashemite_dynasty
+    adm: 45
+    dip: 75
+    mil: 30
+    religion: sunni
+    culture: palestinian
+  1952.8.11:
+    death: yes
+jord_hussein_hashemite:
+  1935.11.14:
+    birth: amman #TODO: Location guessed, check if better data is available
+    first_name: hussein
+    dynasty: hashemite_dynasty
+    father: jord_talal_i_hashemite_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 60
+    mil: 60
+    religion: sunni
+    culture: palestinian
+  1999.2.7:
+    death: yes
+jord_hussein_hashemite_1:
+  1922.1.1:
+    birth: amman #TODO: Date and location guessed, check if better data is available
+    first_name: hussein
+    dynasty: hashemite_dynasty
+    adm: 45
+    dip: 60
+    mil: 60
+    religion: sunni
+    culture: palestinian
+  1999.2.7:
+    death: yes
+jord_abdullah_ii_hashemite:
+  1962.1.30:
+    birth: amman #TODO: Location guessed, check if better data is available
+    first_name: abdullah
+    dynasty: hashemite_dynasty
+    father: jord_hussein_hashemite_1 #TODO: check if this makes sense
+    adm: 60
+    dip: 45
+    mil: 45
+    religion: sunni
+    culture: palestinian
+  3000.1.1:
+    death: yes
+jord_abdullah_ii_hashemite_1:
+  1969.1.1:
+    birth: amman #TODO: Date and location guessed, check if better data is available
+    first_name: abdullah
+    dynasty: hashemite_dynasty
+    adm: 60
+    dip: 45
+    mil: 45
+    religion: sunni
+    culture: palestinian
+  3000.1.1:
+    death: yes

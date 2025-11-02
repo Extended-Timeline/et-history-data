@@ -1,0 +1,91 @@
+#imported from EU4 file: history/provinces/4243 - Toropets.txt
+2.1.1:
+  pop:
+    ethnicity: polatskian_culture
+    religion: slavic
+    estate: peasant
+    size: 1000
+550.1.1:
+  owner: ILME
+  controller: ILME
+  cores:
+    ILME: yes
+  resource: grain
+860.1.1:
+  owner: NOV
+  controller: NOV
+  cores:
+    ILME: no
+    NOV: yes
+882.1.1:
+  owner: KIEV
+  controller: KIEV
+  cores:
+    NOV: no
+    KIEV: yes
+1000.1.1:
+  pop:
+    religion: orthodox
+    estate: peasant
+    size: 1000
+1054.2.20:
+  owner: SMO
+  controller: SMO
+  cores:
+    KIEV: no
+    SMO: yes
+1377.1.1:
+  owner: LIT
+  controller: LIT
+  cores:
+    LIT: yes
+1453.1.1:
+  cores:
+    MOS: yes
+1503.3.22:
+  cores:
+    RUS: yes
+    MOS: no
+1514.1.1:
+  controller: RUS
+1522.1.1:
+  owner: RUS
+1569.7.4:
+  cores:
+    PLC: yes
+1611.1.1:
+  controller: PLC
+1618.12.11:
+  owner: PLC
+1654.9.23:
+  owner: RUS
+  controller: RUS
+1667.1.1:
+  cores:
+    LIT: no
+    PLC: no
+1700.1.1:
+  pop:
+    ethnicity: muscovite
+    estate: peasant
+    size: 1000
+1812.8.17:
+  controller: FRA
+1812.11.9:
+  controller: RUS
+1922.12.30:
+  owner: SOVI
+  controller: SOVI
+  cores:
+    RUS: no
+    SOVI: yes
+1941.8.29:
+  controller: GER
+1942.1.21:
+  controller: SOVI
+1991.12.25:
+  owner: RUS
+  controller: RUS
+  cores:
+    SOVI: no
+    RUS: yes

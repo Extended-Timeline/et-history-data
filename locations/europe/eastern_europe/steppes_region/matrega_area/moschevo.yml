@@ -1,0 +1,83 @@
+#imported from EU4 file: history/provinces/2195 - Ubykhia.txt
+2.1.1:
+  owner: SIRA
+  controller: SIRA
+  cores:
+    SIRA: yes
+  resource: livestock
+  pop:
+    ethnicity: circassian_culture
+    religion: 
+    estate: peasant
+    size: 1000
+300.1.1:
+  owner: CIR
+  controller: CIR
+  cores:
+    SIRA: no
+    CIR: yes
+450.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+867.1.1:
+  pop:
+    religion: orthodox
+    estate: peasant
+    size: 1000
+1239.1.1:
+  owner: MGE
+  controller: MGE
+  cores:
+    MGE: yes
+1260.1.1:
+  owner: WHHO
+  controller: WHHO
+  cores:
+    MGE: no
+    WHHO: yes
+1308.1.1:
+  owner: CIR
+  controller: CIR
+  cores:
+    WHHO: no
+    CIR: yes
+1700.1.1:
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+1864.3.18:
+  owner: RUS
+  controller: RUS
+  cores:
+    RUS: yes
+1867.1.1:
+  pop:
+    ethnicity: muscovite
+    religion: orthodox
+    estate: peasant
+    size: 1000
+1918.2.20:
+  owner: UKR
+  controller: UKR
+  cores:
+    UKR: yes
+1919.11.7:
+  owner: RUS
+  controller: RUS
+  cores:
+    UKR: no
+1922.12.30:
+  owner: SOVI
+  controller: SOVI
+  cores:
+    GEO: no
+    SOVI: yes
+1991.12.25:
+  owner: RUS
+  controller: RUS
+  cores:
+    SOVI: no
+    RUS: yes

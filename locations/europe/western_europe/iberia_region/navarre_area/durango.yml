@@ -1,0 +1,91 @@
+#imported from EU4 file: history/provinces/209 - Vizcaya.txt
+2.1.1:
+  owner: VASC
+  controller: VASC
+  cores:
+    VASC: yes
+  resource: iron
+  pop:
+    ethnicity: basque
+    religion: bimoism
+    estate: peasant
+    size: 1000
+14.1.1:
+  owner: ROM
+  controller: ROM
+  cores:
+    ROM: yes
+395.1.17:
+  owner: ROMW
+  controller: ROMW
+  cores:
+    ROM: no
+    ROMW: yes
+420.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+455.1.1:
+  owner: VASC
+  controller: VASC
+  cores:
+    ROMW: no
+    VASC: yes
+581.1.1:
+  owner: VISG
+  controller: VISG
+  cores:
+    VISG: yes
+711.1.1:
+  owner: UMAY
+  controller: UMAY
+  cores:
+    VISG: no
+    UMAY: yes
+718.1.1:
+  owner: ASTU
+  controller: ASTU
+  cores:
+    UMAY: no
+    ASTU: yes
+867.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+924.1.1:
+  owner: LON
+  controller: LON
+  cores:
+    ASTU: no
+    LON: yes
+    CAS: yes
+931.1.1:
+  owner: CAS
+  controller: CAS
+  cores:
+    LON: no
+1028.1.1:
+  owner: NAV
+  controller: NAV
+  cores:
+    NAV: yes
+1035.10.18:
+  owner: CAS
+  controller: CAS
+  cores:
+    NAV: no
+1516.1.23:
+  owner: SPA
+  controller: SPA
+  cores:
+    SPA: yes
+1713.4.11:
+  cores:
+    CAS: no
+1813.12.11:
+  controller: SPA
+1839.1.1:
+  cores:
+    VASC: yes

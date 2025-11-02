@@ -1,0 +1,36 @@
+#imported from EU4 file: history/provinces/2002 - Galapagos Islands.txt
+2.1.1:
+  pop:
+    ethnicity: uninhabited
+    religion: bimoism
+    estate: peasant
+    size: 1000
+1535.3.10:
+  owner: SPA
+  controller: SPA
+  pop:
+    ethnicity: castilian
+    religion: catholic
+    estate: peasant
+    size: 1000
+1600.1.1:
+  cores:
+    SPA: yes
+  resource: grain
+1770.1.1:
+  pop:
+    ethnicity: iberian_colombian
+    estate: peasant
+    size: 1000
+1819.12.17:
+  owner: COLO
+  controller: COLO
+  cores:
+    SPA: no
+    COLO: yes
+1830.5.13:
+  owner: ECUA
+  controller: ECUA
+  cores:
+    COLO: no
+    ECUA: yes

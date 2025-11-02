@@ -1,0 +1,97 @@
+#imported from EU4 file: history/provinces/152 - Belovar.txt
+2.1.1:
+  owner: ROM
+  controller: ROM
+  cores:
+    ROM: yes
+  resource: cloth
+  pop:
+    ethnicity: pannonian
+    religion: druidism
+    estate: peasant
+    size: 1000
+395.1.17:
+  owner: ROMW
+  controller: ROMW
+  cores:
+    ROM: no
+    ROMW: yes
+420.1.1:
+  pop:
+    religion: arianism
+    estate: peasant
+    size: 1000
+455.1.1:
+  owner: OSTR
+  controller: OSTR
+  cores:
+    ROMW: no
+    OSTR: yes
+530.1.1:
+  owner: GEPI
+  controller: GEPI
+  cores:
+    OSTR: no
+    GEPI: yes
+567.1.1:
+  owner: AVR
+  controller: AVR
+  cores:
+    GEPI: no
+    AVR: yes
+580.1.1:
+  pop:
+    religion: 
+    estate: peasant
+    size: 1000
+630.1.1:
+  cores:
+    CRO: yes
+  pop:
+    ethnicity: croatian
+    religion: slavic
+    estate: peasant
+    size: 1000
+790.1.1:
+  owner: PANO
+  controller: PANO
+  cores:
+    AVR: no
+    PANO: yes
+870.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+897.1.1:
+  owner: CRO
+  controller: CRO
+  cores:
+    PANO: no
+    CRO: yes
+1456.11.9:
+  owner: HAB
+  controller: HAB
+  cores:
+    CLI: no
+    HAB: yes
+1918.12.1:
+  owner: YUGO
+  controller: YUGO
+  cores:
+    HAB: no
+    YUGO: yes
+1941.4.6:
+  owner: GER
+  controller: GER
+1941.4.10:
+  owner: CRO
+  controller: CRO
+1945.5.8:
+  owner: YUGO
+  controller: YUGO
+1991.6.25:
+  owner: CRO
+  controller: CRO
+  cores:
+    YUGO: no

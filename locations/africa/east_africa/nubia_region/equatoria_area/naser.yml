@@ -1,0 +1,51 @@
+#imported from EU4 file: history/provinces/1217 - Fashoda.txt
+2.1.1:
+  pop:
+    ethnicity: dinka_culture
+    religion: bantu_religion
+    estate: peasant
+    size: 1000
+1620.1.1:
+  owner: FUNJ
+  controller: FUNJ
+  cores:
+    FUNJ: yes
+  resource: slaves
+1821.6.14:
+  owner: EGY
+  controller: EGY
+  cores:
+    EGY: yes
+    TUR: yes
+1830.1.1:
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+1882.9.13:
+  owner: GBR
+  controller: GBR
+  cores:
+    TUR: no
+    GBR: yes
+  resource: wool
+1883.6.1:
+  cores:
+    FUNJ: no
+    SUDA: yes
+1899.11.24:
+  controller: GBR
+1956.1.1:
+  owner: SUDA
+  controller: SUDA
+  cores:
+    GBR: no
+    EGY: no
+2005.7.9:
+  cores:
+    SSUD: yes
+2011.7.9:
+  owner: SSUD
+  controller: SSUD
+  cores:
+    SUDA: no

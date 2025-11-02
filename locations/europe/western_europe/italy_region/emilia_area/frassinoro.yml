@@ -1,0 +1,158 @@
+#imported from EU4 file: history/provinces/106 - Modena.txt
+2.1.1:
+  owner: ROM
+  controller: ROM
+  cores:
+    ROM: yes
+  resource: livestock
+  pop:
+    ethnicity: etruscan
+    religion: hellenism_religion
+    estate: peasant
+    size: 1000
+250.1.1:
+  pop:
+    ethnicity: roman
+    estate: peasant
+    size: 1000
+320.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+395.1.17:
+  owner: ROMW
+  controller: ROMW
+  cores:
+    ROM: no
+    ROMW: yes
+476.9.4:
+  owner: ITA
+  controller: ITA
+  cores:
+    ITA: yes
+480.1.1:
+  cores:
+    ROMW: no
+489.1.1:
+  owner: OSTR
+  controller: OSTR
+  cores:
+    ITA: no
+    OSTR: yes
+551.1.1:
+  owner: BYZ
+  controller: BYZ
+  cores:
+    BYZ: yes
+569.6.1:
+  owner: LOMB
+  controller: LOMB
+  cores:
+    OSTR: no
+    BYZ: no
+    LOMB: yes
+  pop:
+    ethnicity: emilian
+    estate: peasant
+    size: 1000
+774.1.1:
+  owner: FRAN
+  controller: FRAN
+  cores:
+    FRAN: yes
+840.6.21:
+  owner: MFRA
+  controller: MFRA
+  cores:
+    FRAN: no
+    MFRA: yes
+855.9.30:
+  owner: ITA
+  controller: ITA
+  cores:
+    MFRA: no
+    LOMB: no
+    ITA: yes
+867.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+962.2.2:
+  owner: MOD
+  controller: MOD
+  cores:
+    ITA: no
+    MOD: yes
+1027.1.1:
+  owner: TUS
+  controller: TUS
+  cores:
+    TUS: yes
+1115.7.24:
+  owner: LOMB
+  controller: LOMB
+  cores:
+    TUS: no
+    LOMB: yes
+1137.1.1:
+  owner: FER
+  controller: FER
+  cores:
+    LOMB: no
+    FER: yes
+1293.2.13:
+  owner: MOD
+  controller: MOD
+  cores:
+    MOD: yes
+1308.1.31:
+  owner: FER
+  controller: FER
+  cores:
+    FER: yes
+1317.1.1:
+  owner: MOD
+  controller: MOD
+  cores:
+    MOD: yes
+1326.1.1:
+  owner: FER
+  controller: FER
+  cores:
+    FER: yes
+1597.10.28:
+  owner: MOD
+  controller: MOD
+  cores:
+    MOD: yes
+1797.6.29:
+  owner: ITA
+  controller: ITA
+  cores:
+    ITA: yes
+1814.4.11:
+  owner: MOD
+  controller: MOD
+  cores:
+    ITA: no
+1859.12.8:
+  owner: ITAC
+  controller: ITAC
+  cores:
+    ITAC: yes
+1860.3.22:
+  owner: SPIE
+  controller: SPIE
+  cores:
+    ITAC: no
+    SPIE: yes
+1861.3.17:
+  owner: ITA
+  controller: ITA
+  cores:
+    SPIE: no
+    MOD: no
+    FER: no
+    ITA: yes

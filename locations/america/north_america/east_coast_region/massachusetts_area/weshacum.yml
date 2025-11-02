@@ -1,0 +1,48 @@
+#imported from EU4 file: history/provinces/966 - Nipmuc.txt
+2.1.1:
+  owner: WMG
+  controller: WMG
+  cores:
+    WMG: yes
+  pop:
+    ethnicity: massachusett_culture
+    religion: iroquoian_totemism
+    estate: peasant
+    size: 1000
+1638.1.1:
+  owner: ENG
+  controller: ENG
+  cores:
+    ENG: yes
+  pop:
+    ethnicity: english
+    religion: calvinist
+    estate: peasant
+    size: 1000
+1660.1.1:
+  cores:
+    ENG: yes
+1707.5.12:
+  owner: GBR
+  controller: GBR
+  cores:
+    ENG: no
+    GBR: yes
+1764.4.7:
+  pop:
+    ethnicity: american
+    estate: peasant
+    size: 1000
+1776.7.4:
+  owner: USA
+  controller: USA
+  cores:
+    USA: yes
+1782.11.1:
+  cores:
+    GBR: no
+1840.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000

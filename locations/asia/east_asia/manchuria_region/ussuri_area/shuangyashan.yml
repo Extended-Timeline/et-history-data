@@ -1,0 +1,89 @@
+#imported from EU4 file: history/provinces/731 - Yichun.txt
+2.1.1:
+  pop:
+    ethnicity: jurchen_culture
+    religion: 
+    estate: peasant
+    size: 1000
+600.1.1:
+  owner: HSMO
+  controller: HSMO
+  cores:
+    HSMO: yes
+  resource: naval_supplies
+726.1.1:
+  owner: BALH
+  controller: BALH
+  cores:
+    HSMO: no
+    BALH: yes
+926.1.14:
+  owner: LIAO
+  controller: LIAO
+  cores:
+    BALH: no
+    LIAO: yes
+1115.1.1:
+  owner: JIN0
+  controller: JIN0
+  cores:
+    LIAO: no
+    JIN0: yes
+1214.1.1:
+  owner: MGE
+  controller: MGE
+  cores:
+    JIN0: no
+    MGE: yes
+1271.1.1:
+  owner: YUA
+  controller: YUA
+  cores:
+    MGE: no
+    YUA: yes
+1368.1.1:
+  owner: NAN
+  controller: NAN
+  cores:
+    YUA: no
+    NAN: yes
+1616.1.1:
+  owner: MCH
+  controller: MCH
+  cores:
+    MCH: yes
+  pop:
+    ethnicity: manchu_new
+    estate: peasant
+    size: 1000
+1636.5.15:
+  owner: QNG
+  controller: QNG
+  cores:
+    MCH: no
+    QNG: yes
+1900.1.1:
+  pop:
+    religion: sanjiao
+    estate: peasant
+    size: 1000
+1912.2.12:
+  owner: CHI
+  controller: CHI
+  cores:
+    QNG: no
+    CHI: yes
+1924.11.3:
+  controller: CHI
+1932.2.4:
+  controller: JAP
+1932.2.18:
+  owner: MANC
+  controller: MANC
+  cores:
+    MANC: yes
+1945.8.15:
+  owner: CHI
+  controller: CHI
+  cores:
+    MANC: no

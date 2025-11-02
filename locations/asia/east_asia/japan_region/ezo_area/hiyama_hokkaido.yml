@@ -1,0 +1,45 @@
+#imported from EU4 file: history/provinces/4193 - Oshima.txt
+2.1.1:
+  owner: ANU
+  controller: ANU
+  cores:
+    ANU: yes
+  resource: fish
+  pop:
+    ethnicity: ainu_culture
+    religion: mari_paganism
+    estate: peasant
+    size: 1000
+1400.1.1:
+  owner: AKT
+  controller: AKT
+  cores:
+    AKT: yes
+1420.1.1:
+  cores:
+    ANU: no
+  pop:
+    ethnicity: saigoku_culture
+    religion: shinto
+    estate: peasant
+    size: 1000
+1590.8.10:
+  owner: TOYO
+  controller: TOYO
+  cores:
+    TOYO: yes
+    AKT: no
+1603.3.24:
+  owner: TOKU
+  controller: TOKU
+  cores:
+    TOKU: yes
+    TOYO: no
+1868.1.3:
+  owner: JAP
+  cores:
+    JAP: yes
+1869.6.27:
+  controller: JAP
+  cores:
+    TOKU: no

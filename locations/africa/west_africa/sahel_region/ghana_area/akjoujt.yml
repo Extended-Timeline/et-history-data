@@ -1,0 +1,39 @@
+#imported from EU4 file: history/provinces/1111 - Arguin.txt
+2.1.1:
+  pop:
+    ethnicity: masmuda
+    religion: bantu_religion
+    estate: peasant
+    size: 1000
+1250.1.1:
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+1860.1.1:
+  owner: FRA
+  controller: FRA
+  cores:
+    FRA: yes
+  resource: iron
+1870.9.4:
+  owner: FRA
+  controller: FRA
+  cores:
+    FRA: yes
+1940.6.14:
+  owner: VFRA
+  controller: VFRA
+  cores:
+    VFRA: yes
+1942.11.16:
+  owner: FRA
+  controller: FRA
+  cores:
+    VFRA: no
+1960.11.28:
+  owner: MAUR
+  controller: MAUR
+  cores:
+    FRA: no
+    MAUR: yes

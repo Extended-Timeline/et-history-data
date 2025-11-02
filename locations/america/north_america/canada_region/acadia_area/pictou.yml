@@ -1,0 +1,50 @@
+#imported from EU4 file: history/provinces/4891 - Piktuk.txt
+2.1.1:
+  owner: MIK
+  controller: MIK
+  cores:
+    MIK: yes
+  resource: fish
+  pop:
+    ethnicity: mikmaq_culture
+    religion: iroquoian_totemism
+    estate: peasant
+    size: 1000
+1671.1.1:
+  owner: FRA
+  controller: FRA
+  cores:
+    FRA: yes
+  pop:
+    ethnicity: french
+    religion: catholic
+    estate: peasant
+    size: 1000
+1692.1.1:
+  controller: ENG
+1697.9.20:
+  controller: FRA
+1710.10.1:
+  controller: GBR
+1713.4.11:
+  owner: GBR
+  cores:
+    FRA: no
+    GBR: yes
+1750.1.1:
+  pop:
+    ethnicity: english
+    religion: lutheran
+    estate: peasant
+    size: 1000
+1790.1.1:
+  pop:
+    ethnicity: british_canadian
+    estate: peasant
+    size: 1000
+1867.7.1:
+  owner: CAN
+  controller: CAN
+  cores:
+    GBR: no
+    CAN: yes

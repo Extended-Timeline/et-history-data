@@ -1,0 +1,164 @@
+#imported from EU4 file: history/provinces/442 - Bukhara.txt
+2.1.1:
+  owner: BUKH
+  controller: BUKH
+  cores:
+    BUKH: yes
+    KHWA: yes
+  resource: salt
+  pop:
+    ethnicity: khwarezmian
+    religion: zoroastrian
+    estate: peasant
+    size: 1000
+80.1.1:
+  owner: KUSH
+  controller: KUSH
+  cores:
+    KUSH: yes
+230.1.1:
+  owner: KHWA
+  controller: KHWA
+  cores:
+    KUSH: no
+320.1.1:
+  owner: KIDA
+  controller: KIDA
+  cores:
+    KIDA: yes
+380.1.1:
+  owner: HEPH
+  controller: HEPH
+  cores:
+    KIDA: no
+    HEPH: yes
+567.1.1:
+  owner: GOKT
+  controller: GOKT
+  cores:
+    HEPH: no
+    GOKT: yes
+593.1.1:
+  owner: WGOK
+  controller: WGOK
+  cores:
+    GOKT: no
+    WGOK: yes
+600.1.1:
+  owner: BUKH
+  controller: BUKH
+  cores:
+    WGOK: no
+    BUKH: yes
+706.1.1:
+  owner: UMAY
+  controller: UMAY
+  cores:
+    UMAY: yes
+750.8.6:
+  owner: ABBA
+  controller: ABBA
+  cores:
+    UMAY: no
+    ABBA: yes
+819.1.1:
+  owner: KHWA
+  controller: KHWA
+  cores:
+    ABBA: no
+    KHWA: yes
+867.1.1:
+  owner: BUKH
+  controller: BUKH
+  cores:
+    KHWA: no
+    BUKH: yes
+910.1.1:
+  pop:
+    ethnicity: uzbek_culture
+    religion: sunni
+    estate: peasant
+    size: 1000
+999.1.1:
+  owner: TRAN
+  controller: TRAN
+  cores:
+    TRAN: yes
+1207.1.1:
+  owner: KHWA
+  controller: KHWA
+  cores:
+    KHWA: yes
+1221.1.1:
+  owner: MGE
+  controller: MGE
+  cores:
+    KHWA: no
+    MGE: yes
+1260.1.1:
+  owner: CHG
+  controller: CHG
+  cores:
+    MGE: no
+    CHG: yes
+1347.1.1:
+  owner: TRAN
+  controller: TRAN
+  cores:
+    CHG: no
+    TRAN: yes
+1360.1.1:
+  owner: MOGH
+  controller: MOGH
+  cores:
+    MOGH: yes
+1363.1.1:
+  owner: TRAN
+  controller: TRAN
+  cores:
+    MOGH: no
+    TRAN: yes
+1370.1.1:
+  owner: TIM
+  controller: TIM
+  cores:
+    TIM: yes
+1409.5.13:
+  owner: TRAN
+  controller: TRAN
+1448.3.1:
+  owner: TIM
+  controller: TIM
+1501.1.1:
+  controller: SHAY
+1502.1.1:
+  owner: BUKH
+  controller: BUKH
+  cores:
+    TIM: no
+    BUKH: yes
+1920.10.1:
+  owner: RUS
+  controller: RUS
+  cores:
+    RUS: yes
+1922.12.30:
+  owner: SOVI
+  controller: SOVI
+  cores:
+    RUS: no
+    SOVI: yes
+1924.10.27:
+  cores:
+    BUKH: no
+    UZBE: yes
+1930.1.1:
+  resource: oil
+1960.1.1:
+  resource: cotton
+1991.12.8:
+  owner: UZBE
+  controller: UZBE
+  cores:
+    SOVI: no
+    RUS: no

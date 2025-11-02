@@ -1,0 +1,225 @@
+jiaz_bukuri_yongson_aisin_gioro:
+  1340.1.1:
+    birth: hetu_ala #TODO: Date and location guessed, check if better data is available
+    first_name: bukuri_yongson
+    dynasty: aisin_gioro_dynasty
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: 
+    culture: jurchen_culture
+  1405.1.1:
+    death: yes
+jiaz_dudu_mengtemu_aisin_gioro:
+  1370.1.1:
+    birth: hetu_ala #TODO: Date and location guessed, check if better data is available
+    first_name: dudu_mengtemu
+    dynasty: aisin_gioro_dynasty
+    father: jiaz_bukuri_yongson_aisin_gioro #TODO: check if this makes sense
+    adm: 30
+    dip: 30
+    mil: 45
+    religion: 
+    culture: jurchen_culture
+  1433.1.1:
+    death: yes
+jiaz_mengtemu_aisin_gioro:
+  1375.1.1:
+    birth: hetu_ala #TODO: Date and location guessed, check if better data is available
+    first_name: mengtemu
+    dynasty: aisin_gioro_dynasty
+    adm: 30
+    dip: 30
+    mil: 45
+    religion: 
+    culture: jurchen_culture
+  1433.1.1:
+    death: yes
+jiaz_cungsan_aisin_gioro:
+  1405.1.1:
+    birth: hetu_ala #TODO: Date and location guessed, check if better data is available
+    first_name: cungsan
+    dynasty: aisin_gioro_dynasty
+    father: jiaz_mengtemu_aisin_gioro #TODO: check if this makes sense
+    adm: 30
+    dip: 15
+    mil: 45
+    religion: 
+    culture: jurchen_culture
+  1467.1.1:
+    death: yes
+jiaz_cungsan_aisin_gioro_1:
+  1403.1.1:
+    birth: hetu_ala #TODO: Date and location guessed, check if better data is available
+    first_name: cungsan
+    dynasty: aisin_gioro_dynasty
+    adm: 30
+    dip: 15
+    mil: 45
+    religion: 
+    culture: jurchen_culture
+  1467.1.1:
+    death: yes
+jiaz_tolo_aisin_gioro:
+  1433.1.1:
+    birth: hetu_ala #TODO: Date and location guessed, check if better data is available
+    first_name: tolo
+    dynasty: aisin_gioro_dynasty
+    father: jiaz_cungsan_aisin_gioro_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 45
+    mil: 60
+    religion: 
+    culture: jurchen_culture
+  1506.1.1:
+    death: yes
+jiaz_tolo_aisin_gioro_1:
+  1437.1.1:
+    birth: hetu_ala #TODO: Date and location guessed, check if better data is available
+    first_name: tolo
+    dynasty: aisin_gioro_dynasty
+    adm: 45
+    dip: 45
+    mil: 60
+    religion: 
+    culture: jurchen_culture
+  1481.1.1:
+    death: yes
+jiaz_sibeoci_fiyanggu_aisin_gioro:
+  1467.1.1:
+    birth: hetu_ala #TODO: Date and location guessed, check if better data is available
+    first_name: sibeoci_fiyanggu
+    dynasty: aisin_gioro_dynasty
+    father: jiaz_tolo_aisin_gioro_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 60
+    mil: 45
+    religion: 
+    culture: jurchen_culture
+  1522.1.1:
+    death: yes
+jiaz_sibeoci_fiyanggu_aisin_gioro_1:
+  1451.1.1:
+    birth: hetu_ala #TODO: Date and location guessed, check if better data is available
+    first_name: sibeoci_fiyanggu
+    dynasty: aisin_gioro_dynasty
+    adm: 45
+    dip: 60
+    mil: 45
+    religion: 
+    culture: jurchen_culture
+  1522.1.1:
+    death: yes
+jiaz_fuman_aisin_gioro:
+  1481.1.1:
+    birth: hetu_ala #TODO: Date and location guessed, check if better data is available
+    first_name: fuman
+    dynasty: aisin_gioro_dynasty
+    father: jiaz_sibeoci_fiyanggu_aisin_gioro_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 45
+    mil: 60
+    religion: 
+    culture: jurchen_culture
+  1542.1.1:
+    death: yes
+jiaz_fuman_aisin_gioro_1:
+  1492.1.1:
+    birth: hetu_ala #TODO: Date and location guessed, check if better data is available
+    first_name: fuman
+    dynasty: aisin_gioro_dynasty
+    adm: 45
+    dip: 45
+    mil: 60
+    religion: 
+    culture: jurchen_culture
+  1542.1.1:
+    death: yes
+jiaz_giocangga_aisin_gioro:
+  1522.1.1:
+    birth: hetu_ala #TODO: Date and location guessed, check if better data is available
+    first_name: giocangga
+    dynasty: aisin_gioro_dynasty
+    father: jiaz_fuman_aisin_gioro_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 15
+    mil: 30
+    religion: 
+    culture: jurchen_culture
+  1571.1.1:
+    death: yes
+jiaz_giocangga_aisin_gioro_1:
+  1512.1.1:
+    birth: hetu_ala #TODO: Date and location guessed, check if better data is available
+    first_name: giocangga
+    dynasty: aisin_gioro_dynasty
+    adm: 30
+    dip: 15
+    mil: 30
+    religion: 
+    culture: jurchen_culture
+  1571.1.1:
+    death: yes
+jiaz_taksi_aisin_gioro:
+  1532.1.1:
+    birth: hetu_ala #TODO: Date and location guessed, check if better data is available
+    first_name: taksi
+    dynasty: aisin_gioro_dynasty
+    father: jiaz_giocangga_aisin_gioro_1 #TODO: check if this makes sense
+    adm: 0
+    dip: 0
+    mil: 30
+    religion: 
+    culture: jurchen_culture
+  1583.1.1:
+    death: yes
+jiaz_taksi_aisin_gioro_1:
+  1541.1.1:
+    birth: hetu_ala #TODO: Date and location guessed, check if better data is available
+    first_name: taksi
+    dynasty: aisin_gioro_dynasty
+    adm: 0
+    dip: 0
+    mil: 30
+    religion: 
+    culture: jurchen_culture
+  1583.1.1:
+    death: yes
+jiaz_nurhachi_aisin_gioro:
+  1559.2.21:
+    birth: hetu_ala #TODO: Location guessed, check if better data is available
+    first_name: nurhachi
+    dynasty: aisin_gioro_dynasty
+    father: jiaz_taksi_aisin_gioro_1 #TODO: check if this makes sense
+    adm: 75
+    dip: 60
+    mil: 90
+    religion: 
+    culture: jurchen_culture
+  1626.9.30:
+    death: yes
+jiaz_nurhachi_aisin_gioro_1:
+  1553.1.1:
+    birth: hetu_ala #TODO: Date and location guessed, check if better data is available
+    first_name: nurhachi
+    dynasty: aisin_gioro_dynasty
+    adm: 75
+    dip: 60
+    mil: 90
+    religion: 
+    culture: jurchen_culture
+  3000.1.1:
+    death: yes
+jiaz_huang_taiji_aisin_gioro:
+  1592.11.28:
+    birth: hetu_ala #TODO: Location guessed, check if better data is available
+    first_name: huang_taiji
+    dynasty: aisin_gioro_dynasty
+    father: jiaz_nurhachi_aisin_gioro_1 #TODO: check if this makes sense
+    adm: 60
+    dip: 60
+    mil: 75
+    religion: 
+    culture: jurchen_culture
+  1643.9.21:
+    death: yes

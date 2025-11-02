@@ -1,0 +1,35 @@
+#imported from EU4 file: history/provinces/1187 - Sena.txt
+2.1.1:
+  pop:
+    ethnicity: zembere
+    religion: bantu_religion
+    estate: peasant
+    size: 1000
+300.1.1:
+  pop:
+    ethnicity: tonga
+    estate: peasant
+    size: 1000
+1350.1.1:
+  owner: TAVA
+  controller: TAVA
+  cores:
+    TAVA: yes
+  resource: ivory
+1430.1.1:
+  owner: MUTA
+  controller: MUTA
+  cores:
+    MUTA: yes
+1572.1.1:
+  owner: POR
+  controller: POR
+  cores:
+    POR: yes
+1975.6.25:
+  owner: MOZA
+  controller: MOZA
+  cores:
+    POR: no
+    MUTA: no
+    MOZA: yes

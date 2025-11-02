@@ -1,0 +1,357 @@
+nax_marco_i_sanudo:
+  1177.1.1:
+    birth: naxos #TODO: Date and location guessed, check if better data is available
+    first_name: marco
+    dynasty: sanudo_dynasty
+    adm: 75
+    dip: 60
+    mil: 30
+    religion: catholic
+    culture: lombard
+  1227.1.1:
+    death: yes
+nax_angelo_i_sanudo:
+  1197.1.1:
+    birth: naxos #TODO: Date and location guessed, check if better data is available
+    first_name: angelo
+    dynasty: sanudo_dynasty
+    adm: 45
+    dip: 60
+    mil: 75
+    religion: catholic
+    culture: lombard
+  1262.1.1:
+    death: yes
+nax_marco_ii_sanudo:
+  1232.1.1:
+    birth: naxos #TODO: Date and location guessed, check if better data is available
+    first_name: marco
+    dynasty: sanudo_dynasty
+    adm: 45
+    dip: 45
+    mil: 60
+    religion: catholic
+    culture: lombard
+  1303.1.1:
+    death: yes
+nax_guglielmo_i_sanudo:
+  1273.1.1:
+    birth: naxos #TODO: Date and location guessed, check if better data is available
+    first_name: guglielmo
+    dynasty: sanudo_dynasty
+    adm: 45
+    dip: 75
+    mil: 75
+    religion: catholic
+    culture: lombard
+  1323.1.1:
+    death: yes
+nax_niccolo_i_sanudo:
+  1293.1.1:
+    birth: naxos #TODO: Date and location guessed, check if better data is available
+    first_name: niccolo
+    dynasty: sanudo_dynasty
+    adm: 75
+    dip: 75
+    mil: 60
+    religion: catholic
+    culture: lombard
+  1341.1.1:
+    death: yes
+nax_giovanni_i_sanudo:
+  1311.1.1:
+    birth: naxos #TODO: Date and location guessed, check if better data is available
+    first_name: giovanni
+    dynasty: sanudo_dynasty
+    adm: 75
+    dip: 45
+    mil: 30
+    religion: catholic
+    culture: lombard
+  1362.1.1:
+    death: yes
+nax_fiorenza_i_sanudo:
+  1332.1.1:
+    birth: naxos #TODO: Date and location guessed, check if better data is available
+    first_name: fiorenza
+    dynasty: sanudo_dynasty
+    female: yes
+    adm: 45
+    dip: 30
+    mil: 75
+    religion: catholic
+    culture: lombard
+  1371.1.1:
+    death: yes
+nax_niccolo_iii_dalle_carceri:
+  1341.1.1:
+    birth: naxos #TODO: Date and location guessed, check if better data is available
+    first_name: niccolo
+    dynasty: dalle_carceri_dynasty
+    adm: 45
+    dip: 60
+    mil: 45
+    religion: catholic
+    culture: lombard
+  1383.1.1:
+    death: yes
+nax_francesco_i_crispo:
+  1353.1.1:
+    birth: naxos #TODO: Date and location guessed, check if better data is available
+    first_name: francesco
+    dynasty: crispo_dynasty
+    adm: 75
+    dip: 60
+    mil: 30
+    religion: catholic
+    culture: lombard
+  1397.1.1:
+    death: yes
+nax_giacomo_i_crispo:
+  1383.1.1:
+    birth: naxos #TODO: Date and location guessed, check if better data is available
+    first_name: giacomo
+    dynasty: crispo_dynasty
+    father: nax_francesco_i_crispo #TODO: check if this makes sense
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: catholic
+    culture: lombard
+  1418.1.1:
+    death: yes
+nax_giacomo_i_crispo_1:
+  1367.1.1:
+    birth: naxos #TODO: Date and location guessed, check if better data is available
+    first_name: giacomo
+    dynasty: crispo_dynasty
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: catholic
+    culture: lombard
+  1418.1.1:
+    death: yes
+nax_giovanni_ii_crispo:
+  1388.1.1:
+    birth: naxos #TODO: Date and location guessed, check if better data is available
+    first_name: giovanni
+    dynasty: crispo_dynasty
+    adm: 45
+    dip: 60
+    mil: 15
+    religion: catholic
+    culture: lombard
+  1433.1.1:
+    death: yes
+nax_giacomo_ii_crispo:
+  1426.1.1:
+    birth: naxos #TODO: Date and location guessed, check if better data is available
+    first_name: giacomo
+    dynasty: crispo_dynasty
+    father: nax_giovanni_ii_crispo #TODO: check if this makes sense
+    adm: 30
+    dip: 45
+    mil: 45
+    religion: catholic
+    culture: lombard
+  1447.1.1:
+    death: yes
+nax_giacomo_ii_crispo_1:
+  1403.1.1:
+    birth: naxos #TODO: Date and location guessed, check if better data is available
+    first_name: giacomo
+    dynasty: crispo_dynasty
+    adm: 30
+    dip: 45
+    mil: 45
+    religion: catholic
+    culture: lombard
+  1447.1.1:
+    death: yes
+nax_gian_giacomo_crispo:
+  1446.1.1:
+    birth: naxos #TODO: Date and location guessed, check if better data is available
+    first_name: gian_giacomo
+    dynasty: crispo_dynasty
+    father: nax_giacomo_ii_crispo_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 30
+    mil: 60
+    religion: catholic
+    culture: lombard
+  1453.1.1:
+    death: yes
+nax_gian_giacomo_crispo_1:
+  1417.1.1:
+    birth: naxos #TODO: Date and location guessed, check if better data is available
+    first_name: gian_giacomo
+    dynasty: crispo_dynasty
+    adm: 30
+    dip: 30
+    mil: 60
+    religion: catholic
+    culture: lombard
+  1453.1.1:
+    death: yes
+nax_guglielmo_ii_crispo:
+  1390.1.1:
+    birth: naxos #TODO: Date and location guessed, check if better data is available
+    first_name: guglielmo
+    dynasty: crispo_dynasty
+    father: nax_gian_giacomo_crispo_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: catholic
+    culture: lombard
+  1463.1.1:
+    death: yes
+nax_guglielmo_ii_crispo_1:
+  1423.1.1:
+    birth: naxos #TODO: Date and location guessed, check if better data is available
+    first_name: guglielmo
+    dynasty: crispo_dynasty
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: catholic
+    culture: lombard
+  1463.1.1:
+    death: yes
+nax_francesco_ii_crispo:
+  1417.1.1:
+    birth: naxos #TODO: Date and location guessed, check if better data is available
+    first_name: francesco
+    dynasty: crispo_dynasty
+    father: nax_guglielmo_ii_crispo_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: catholic
+    culture: lombard
+  1463.7.1:
+    death: yes
+nax_francesco_ii_crispo_1:
+  1433.1.1:
+    birth: naxos #TODO: Date and location guessed, check if better data is available
+    first_name: francesco
+    dynasty: crispo_dynasty
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: catholic
+    culture: lombard
+  1463.7.1:
+    death: yes
+nax_giacomo_iii_crispo:
+  1446.1.1:
+    birth: naxos #TODO: Date and location guessed, check if better data is available
+    first_name: giacomo
+    dynasty: crispo_dynasty
+    father: nax_francesco_ii_crispo_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: catholic
+    culture: lombard
+  1480.1.1:
+    death: yes
+nax_giacomo_iii_crispo_1:
+  1433.1.1:
+    birth: naxos #TODO: Date and location guessed, check if better data is available
+    first_name: giacomo
+    dynasty: crispo_dynasty
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: catholic
+    culture: lombard
+  1480.1.1:
+    death: yes
+nax_giovanni_iii_crispo:
+  1450.1.1:
+    birth: naxos #TODO: Date and location guessed, check if better data is available
+    first_name: giovanni
+    dynasty: crispo_dynasty
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: catholic
+    culture: lombard
+  1494.1.1:
+    death: yes
+nax_francesco_iii_crispo:
+  1469.1.1:
+    birth: naxos #TODO: Date and location guessed, check if better data is available
+    first_name: francesco
+    dynasty: crispo_dynasty
+    father: nax_giovanni_iii_crispo #TODO: check if this makes sense
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: catholic
+    culture: lombard
+  1518.1.1:
+    death: yes
+nax_francesco_iii_crispo_1:
+  1464.1.1:
+    birth: naxos #TODO: Date and location guessed, check if better data is available
+    first_name: francesco
+    dynasty: crispo_dynasty
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: catholic
+    culture: lombard
+  1511.1.1:
+    death: yes
+nax_giovanni_iv_crispo:
+  1490.1.1:
+    birth: naxos #TODO: Date and location guessed, check if better data is available
+    first_name: giovanni
+    dynasty: crispo_dynasty
+    father: nax_francesco_iii_crispo_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: catholic
+    culture: lombard
+  1564.1.1:
+    death: yes
+nax_giovanni_iv_crispo_1:
+  1481.1.1:
+    birth: naxos #TODO: Date and location guessed, check if better data is available
+    first_name: giovanni
+    dynasty: crispo_dynasty
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: catholic
+    culture: lombard
+  1564.1.1:
+    death: yes
+nax_giacomo_iv_crispo:
+  1534.1.1:
+    birth: naxos #TODO: Date and location guessed, check if better data is available
+    first_name: giacomo
+    dynasty: crispo_dynasty
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: catholic
+    culture: lombard
+  1566.1.1:
+    death: yes
+nax_giuseppe_nasi:
+  1536.1.1:
+    birth: naxos #TODO: Date and location guessed, check if better data is available
+    first_name: giuseppe
+    dynasty: nasi_dynasty
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: catholic
+    culture: lombard
+  3000.1.1:
+    death: yes

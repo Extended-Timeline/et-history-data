@@ -1,0 +1,120 @@
+#imported from EU4 file: history/provinces/2232 - Kharan.txt
+2.1.1:
+  owner: BALU
+  controller: BALU
+  cores:
+    BALU: yes
+  resource: livestock
+  pop:
+    ethnicity: baloch_culture
+    religion: zoroastrian
+    estate: peasant
+    size: 1000
+300.1.1:
+  owner: ERA
+  controller: ERA
+  cores:
+    ERA: yes
+636.1.1:
+  owner: SND
+  controller: SND
+  cores:
+    ERA: no
+    SND: yes
+652.1.1:
+  owner: RASH
+  controller: RASH
+  cores:
+    SND: no
+    RASH: yes
+661.7.28:
+  owner: UMAY
+  controller: UMAY
+  cores:
+    RASH: no
+    UMAY: yes
+740.1.1:
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+750.8.6:
+  owner: ABBA
+  controller: ABBA
+  cores:
+    UMAY: no
+    ABBA: yes
+820.1.1:
+  owner: BALU
+  controller: BALU
+  cores:
+    BALU: yes
+  pop:
+    religion: ibadi
+    estate: peasant
+    size: 1000
+861.1.1:
+  cores:
+    ABBA: no
+867.1.1:
+  owner: SIST
+  controller: SIST
+  cores:
+    SIST: yes
+910.1.1:
+  owner: BALU
+  controller: BALU
+  cores:
+    SIST: no
+    BALU: yes
+1188.1.1:
+  owner: GHOR
+  controller: GHOR
+  cores:
+    GHOR: yes
+1206.1.1:
+  owner: BALU
+  controller: BALU
+  cores:
+    GHOR: no
+1210.1.1:
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+1231.1.1:
+  owner: MGE
+  controller: MGE
+  cores:
+    MGE: yes
+1260.1.1:
+  owner: ILK
+  controller: ILK
+  cores:
+    MGE: no
+    ILK: yes
+1335.1.1:
+  owner: BALU
+  controller: BALU
+  cores:
+    ILK: no
+1649.1.1:
+  controller: IRA
+1650.1.1:
+  owner: IRA
+1666.1.1:
+  owner: BALU
+  controller: BALU
+1839.1.1:
+  owner: GBR
+  controller: GBR
+  cores:
+    GBR: yes
+1930.12.29:
+  cores:
+    PAKI: yes
+1947.8.14:
+  owner: PAKI
+  controller: PAKI
+  cores:
+    GBR: no

@@ -1,0 +1,41 @@
+#imported from EU4 file: history/provinces/2824 - Wankapampa.txt
+2.1.1:
+  pop:
+    ethnicity: inka_culture
+    religion: inti
+    estate: peasant
+    size: 1000
+500.1.1:
+  owner: HUAR
+  controller: HUAR
+  cores:
+    HUAR: yes
+  resource: wool
+1200.1.1:
+  owner: CAJA
+  controller: CAJA
+  cores:
+    HUAR: no
+    CAJA: yes
+1467.1.1:
+  owner: INC
+  controller: INC
+  cores:
+    INC: yes
+1532.11.16:
+  owner: SPA
+  controller: SPA
+  cores:
+    SPA: yes
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+1821.7.28:
+  owner: PERU
+  controller: PERU
+  cores:
+    PERU: yes
+1879.8.14:
+  cores:
+    SPA: no

@@ -1,0 +1,101 @@
+#imported from EU4 file: history/provinces/674 - Guiyang.txt
+2.1.1:
+  owner: YI00
+  controller: YI00
+  cores:
+    YI00: yes
+  resource: iron
+  pop:
+    ethnicity: yi_culture
+    religion: bimoism
+    estate: peasant
+    size: 1000
+60.1.1:
+  owner: HAN0
+  controller: HAN0
+  cores:
+    HAN0: yes
+    WUU: yes
+189.9.28:
+  owner: SHU0
+  controller: SHU0
+  cores:
+    HAN0: no
+    SHU0: yes
+263.11.1:
+  owner: WEI0
+  controller: WEI0
+  cores:
+    SHU0: no
+    WEI0: yes
+266.2.4:
+  owner: JIN1
+  controller: JIN1
+  cores:
+    WEI0: no
+    JIN1: yes
+420.1.1:
+  owner: LSON
+  controller: LSON
+  cores:
+    JIN1: no
+    LSON: yes
+479.1.1:
+  owner: QI00
+  controller: QI00
+  cores:
+    LSON: no
+    QI00: yes
+502.1.1:
+  owner: LIAN
+  controller: LIAN
+  cores:
+    QI00: no
+    LIAN: yes
+557.1.1:
+  owner: CHE
+  controller: CHE
+  cores:
+    LIAN: no
+    CHE: yes
+580.1.1:
+  owner: MUEG
+  controller: MUEG
+  cores:
+    CHE: no
+    YI00: no
+    MUEG: yes
+1372.1.1:
+  owner: MNG
+  controller: MNG
+  cores:
+    MNG: yes
+1658.4.1:
+  owner: QNG
+  controller: QNG
+1662.4.1:
+  owner: ZHOU
+  controller: ZHOU
+1680.1.1:
+  controller: QNG
+1681.10.1:
+  owner: QNG
+  controller: QNG
+  cores:
+    QNG: yes
+1900.1.1:
+  pop:
+    religion: sanjiao
+    estate: peasant
+    size: 1000
+1912.2.12:
+  owner: CHI
+  controller: CHI
+  cores:
+    CXI: no
+    XIA0: no
+    CHI: yes
+1920.1.1:
+  resource: aluminum
+1927.4.18:
+  controller: CHI

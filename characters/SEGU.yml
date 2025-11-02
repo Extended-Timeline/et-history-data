@@ -1,0 +1,360 @@
+segu_barama_ngolo_coulibaly:
+  1570.1.1:
+    birth: macina #TODO: Date and location guessed, check if better data is available
+    first_name: barama_ngolo
+    dynasty: coulibaly_dynasty
+    adm: 75
+    dip: 75
+    mil: 45
+    religion: bantu_religion
+    culture: mandinka
+  1652.1.1:
+    death: yes
+segu_kaladyan_coulibaly:
+  1630.1.1:
+    birth: macina #TODO: Date and location guessed, check if better data is available
+    first_name: kaladyan
+    dynasty: coulibaly_dynasty
+    father: segu_barama_ngolo_coulibaly #TODO: check if this makes sense
+    adm: 75
+    dip: 45
+    mil: 75
+    religion: bantu_religion
+    culture: mandinka
+  1682.1.1:
+    death: yes
+segu_kaladyan_coulibaly_1:
+  1622.1.1:
+    birth: macina #TODO: Date and location guessed, check if better data is available
+    first_name: kaladyan
+    dynasty: coulibaly_dynasty
+    adm: 75
+    dip: 45
+    mil: 75
+    religion: bantu_religion
+    culture: mandinka
+  1682.1.1:
+    death: yes
+segu_danfasri_coulibaly:
+  1652.1.1:
+    birth: macina #TODO: Date and location guessed, check if better data is available
+    first_name: danfasri
+    dynasty: coulibaly_dynasty
+    adm: 15
+    dip: 60
+    mil: 15
+    religion: bantu_religion
+    culture: mandinka
+  1697.1.1:
+    death: yes
+segu_suma_coulibaly:
+  1682.1.1:
+    birth: macina #TODO: Date and location guessed, check if better data is available
+    first_name: suma
+    dynasty: coulibaly_dynasty
+    father: segu_danfasri_coulibaly #TODO: check if this makes sense
+    adm: 15
+    dip: 45
+    mil: 30
+    religion: bantu_religion
+    culture: mandinka
+  1712.1.1:
+    death: yes
+segu_suma_coulibaly_1:
+  1667.1.1:
+    birth: macina #TODO: Date and location guessed, check if better data is available
+    first_name: suma
+    dynasty: coulibaly_dynasty
+    adm: 15
+    dip: 45
+    mil: 30
+    religion: bantu_religion
+    culture: mandinka
+  1712.1.1:
+    death: yes
+segu_biton_mamari_coulibaly:
+  1695.1.1:
+    birth: macina #TODO: Date and location guessed, check if better data is available
+    first_name: biton_mamari
+    dynasty: coulibaly_dynasty
+    father: segu_suma_coulibaly_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 60
+    mil: 30
+    religion: bantu_religion
+    culture: mandinka
+  1755.1.1:
+    death: yes
+segu_biton_mamari_coulibaly_1:
+  1682.1.1:
+    birth: macina #TODO: Date and location guessed, check if better data is available
+    first_name: biton_mamari
+    dynasty: coulibaly_dynasty
+    adm: 45
+    dip: 60
+    mil: 30
+    religion: bantu_religion
+    culture: mandinka
+  1755.1.1:
+    death: yes
+segu_denkoro_diarra:
+  1700.1.1:
+    birth: macina #TODO: Date and location guessed, check if better data is available
+    first_name: denkoro
+    dynasty: diarra_dynasty
+    father: segu_biton_mamari_coulibaly_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 0
+    mil: 15
+    religion: bantu_religion
+    culture: mandinka
+  1757.1.1:
+    death: yes
+segu_denkoro_diarra_1:
+  1725.1.1:
+    birth: macina #TODO: Date and location guessed, check if better data is available
+    first_name: denkoro
+    dynasty: diarra_dynasty
+    adm: 45
+    dip: 0
+    mil: 15
+    religion: bantu_religion
+    culture: mandinka
+  1757.1.1:
+    death: yes
+segu_bakari_diarra:
+  1735.1.1:
+    birth: macina #TODO: Date and location guessed, check if better data is available
+    first_name: bakari
+    dynasty: diarra_dynasty
+    father: segu_denkoro_diarra_1 #TODO: check if this makes sense
+    adm: 0
+    dip: 0
+    mil: 0
+    religion: bantu_religion
+    culture: mandinka
+  1757.1.1:
+    death: yes
+segu_bakari_diarra_1:
+  1727.1.1:
+    birth: macina #TODO: Date and location guessed, check if better data is available
+    first_name: bakari
+    dynasty: diarra_dynasty
+    adm: 0
+    dip: 0
+    mil: 0
+    religion: bantu_religion
+    culture: mandinka
+  1757.7.1:
+    death: yes
+segu_ton_mansa_demele_diarra:
+  1720.1.1:
+    birth: macina #TODO: Date and location guessed, check if better data is available
+    first_name: ton_mansa_demele
+    dynasty: diarra_dynasty
+    father: segu_bakari_diarra_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 15
+    mil: 15
+    religion: bantu_religion
+    culture: mandinka
+  1760.1.1:
+    death: yes
+segu_ton_mansa_demele_diarra_1:
+  1727.1.1:
+    birth: macina #TODO: Date and location guessed, check if better data is available
+    first_name: ton_mansa_demele
+    dynasty: diarra_dynasty
+    adm: 15
+    dip: 15
+    mil: 15
+    religion: bantu_religion
+    culture: mandinka
+  1760.1.1:
+    death: yes
+segu_kanyuba_nyama_diarra:
+  1740.1.1:
+    birth: macina #TODO: Date and location guessed, check if better data is available
+    first_name: kanyuba_nyama
+    dynasty: diarra_dynasty
+    father: segu_ton_mansa_demele_diarra_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 30
+    mil: 60
+    religion: bantu_religion
+    culture: mandinka
+  1763.1.1:
+    death: yes
+segu_kanyuba_nyama_diarra_1:
+  1730.1.1:
+    birth: macina #TODO: Date and location guessed, check if better data is available
+    first_name: kanyuba_nyama
+    dynasty: diarra_dynasty
+    adm: 30
+    dip: 30
+    mil: 60
+    religion: bantu_religion
+    culture: mandinka
+  1763.1.1:
+    death: yes
+segu_kera_djugu_diarra:
+  1730.1.1:
+    birth: macina #TODO: Date and location guessed, check if better data is available
+    first_name: kera_djugu
+    dynasty: diarra_dynasty
+    father: segu_kanyuba_nyama_diarra_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 45
+    mil: 15
+    religion: bantu_religion
+    culture: mandinka
+  1766.1.1:
+    death: yes
+segu_kera_djugu_diarra_1:
+  1733.1.1:
+    birth: macina #TODO: Date and location guessed, check if better data is available
+    first_name: kera_djugu
+    dynasty: diarra_dynasty
+    adm: 30
+    dip: 45
+    mil: 15
+    religion: bantu_religion
+    culture: mandinka
+  1766.1.1:
+    death: yes
+segu_ngolo_diarra:
+  1730.1.1:
+    birth: macina #TODO: Date and location guessed, check if better data is available
+    first_name: ngolo
+    dynasty: diarra_dynasty
+    father: segu_kera_djugu_diarra_1 #TODO: check if this makes sense
+    adm: 60
+    dip: 45
+    mil: 60
+    religion: bantu_religion
+    culture: mandinka
+  1790.1.1:
+    death: yes
+segu_ngolo_diarra_1:
+  1736.1.1:
+    birth: macina #TODO: Date and location guessed, check if better data is available
+    first_name: ngolo
+    dynasty: diarra_dynasty
+    adm: 60
+    dip: 45
+    mil: 60
+    religion: bantu_religion
+    culture: mandinka
+  1790.1.1:
+    death: yes
+segu_monson_diarra:
+  1750.1.1:
+    birth: macina #TODO: Date and location guessed, check if better data is available
+    first_name: monson
+    dynasty: diarra_dynasty
+    father: segu_ngolo_diarra_1 #TODO: check if this makes sense
+    adm: 0
+    dip: 30
+    mil: 30
+    religion: bantu_religion
+    culture: mandinka
+  1808.1.1:
+    death: yes
+segu_monson_diarra_1:
+  1760.1.1:
+    birth: macina #TODO: Date and location guessed, check if better data is available
+    first_name: monson
+    dynasty: diarra_dynasty
+    adm: 0
+    dip: 30
+    mil: 30
+    religion: bantu_religion
+    culture: mandinka
+  1808.1.1:
+    death: yes
+segu_da_diarra:
+  1780.1.1:
+    birth: macina #TODO: Date and location guessed, check if better data is available
+    first_name: da
+    dynasty: diarra_dynasty
+    father: segu_monson_diarra_1 #TODO: check if this makes sense
+    adm: 0
+    dip: 30
+    mil: 30
+    religion: bantu_religion
+    culture: mandinka
+  1827.1.1:
+    death: yes
+segu_da_diarra_1:
+  1778.1.1:
+    birth: macina #TODO: Date and location guessed, check if better data is available
+    first_name: da
+    dynasty: diarra_dynasty
+    adm: 0
+    dip: 30
+    mil: 30
+    religion: bantu_religion
+    culture: mandinka
+  1827.1.1:
+    death: yes
+segu_tiefolo_diarra:
+  1797.1.1:
+    birth: macina #TODO: Date and location guessed, check if better data is available
+    first_name: tiefolo
+    dynasty: diarra_dynasty
+    adm: 30
+    dip: 75
+    mil: 15
+    religion: bantu_religion
+    culture: mandinka
+  1840.1.1:
+    death: yes
+segu_kirango_ba_diarra:
+  1810.1.1:
+    birth: macina #TODO: Date and location guessed, check if better data is available
+    first_name: kirango_ba
+    dynasty: diarra_dynasty
+    adm: 15
+    dip: 45
+    mil: 45
+    religion: sunni
+    culture: mandinka
+  1848.1.1:
+    death: yes
+segu_nalenkoma_diarra:
+  1818.1.1:
+    birth: macina #TODO: Date and location guessed, check if better data is available
+    first_name: nalenkoma
+    dynasty: diarra_dynasty
+    father: segu_kirango_ba_diarra #TODO: check if this makes sense
+    adm: 15
+    dip: 60
+    mil: 30
+    religion: bantu_religion
+    culture: mandinka
+  1862.3.16:
+    death: yes
+segu_umar_tall:
+  1797.1.1:
+    birth: macina #TODO: Date and location guessed, check if better data is available
+    first_name: umar
+    dynasty: tall_dynasty
+    adm: 45
+    dip: 30
+    mil: 75
+    religion: sunni
+    culture: mandinka
+  1864.1.1:
+    death: yes
+segu_ahmadu_tall:
+  1836.6.21:
+    birth: macina #TODO: Location guessed, check if better data is available
+    first_name: ahmadu
+    dynasty: tall_dynasty
+    adm: 30
+    dip: 60
+    mil: 45
+    religion: sunni
+    culture: mandinka
+  1897.12.15:
+    death: yes

@@ -1,0 +1,41 @@
+#imported from EU4 file: history/provinces/2295 - Atakora.txt
+2.1.1:
+  pop:
+    ethnicity: dagbani
+    religion: bantu_religion
+    estate: peasant
+    size: 1000
+1250.1.1:
+  owner: DGB
+  controller: DGB
+  cores:
+    DGB: yes
+  resource: tropical_wood
+1899.11.14:
+  owner: GER
+  controller: GER
+  cores:
+    GER: yes
+1919.6.28:
+  owner: FRA
+  controller: FRA
+  cores:
+    GER: no
+    FRA: yes
+1940.6.14:
+  owner: VFRA
+  controller: VFRA
+  cores:
+    VFRA: yes
+1942.11.16:
+  owner: FRA
+  controller: FRA
+  cores:
+    VFRA: no
+1960.4.27:
+  owner: TOGO
+  controller: TOGO
+  cores:
+    FRA: no
+    DGB: no
+    TOGO: yes

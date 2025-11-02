@@ -1,0 +1,133 @@
+#imported from EU4 file: history/provinces/2416 - Majar.txt
+2.1.1:
+  owner: SIRA
+  controller: SIRA
+  cores:
+    SIRA: yes
+  resource: livestock
+  pop:
+    ethnicity: alan_culture
+    religion: 
+    estate: peasant
+    size: 1000
+300.1.1:
+  owner: CIR
+  controller: CIR
+  cores:
+    SIRA: no
+    CIR: yes
+420.1.1:
+  owner: HUNS
+  controller: HUNS
+  cores:
+    CIR: no
+    HUNS: yes
+448.1.1:
+  owner: ALN
+  controller: ALN
+  cores:
+    HUNS: no
+    ALN: yes
+632.1.1:
+  owner: KHAZ
+  controller: KHAZ
+  cores:
+    ALN: no
+    KHAZ: yes
+  pop:
+    ethnicity: khazar
+    estate: peasant
+    size: 1000
+1000.1.1:
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+1048.1.1:
+  owner: CUMA
+  controller: CUMA
+  cores:
+    KHAZ: no
+    CUMA: yes
+1236.1.1:
+  owner: MGE
+  controller: MGE
+  cores:
+    CUMA: no
+    MGE: yes
+    ASTR: yes
+  pop:
+    ethnicity: astrakhani
+    estate: peasant
+    size: 1000
+1260.1.1:
+  owner: WHHO
+  controller: WHHO
+  cores:
+    MGE: no
+    WHHO: yes
+1372.1.1:
+  owner: BLHO
+  controller: BLHO
+  cores:
+    BLHO: yes
+1374.1.1:
+  owner: WHHO
+  controller: WHHO
+  cores:
+    BLHO: no
+1378.1.1:
+  owner: GLH
+  controller: GLH
+  cores:
+    GLH: yes
+1442.1.1:
+  owner: GRHO
+  controller: GRHO
+  cores:
+    GLH: no
+    GRHO: yes
+1459.1.1:
+  owner: ASTR
+  controller: ASTR
+  cores:
+    GRHO: no
+1556.6.2:
+  owner: NOGA
+  controller: NOGA
+  cores:
+    ASTR: no
+    NOGA: yes
+1634.1.1:
+  owner: RUS
+  controller: RUS
+  cores:
+    NOGA: no
+    RUS: yes
+  pop:
+    ethnicity: mongolian_culture
+    religion: mahayana
+    estate: peasant
+    size: 1000
+1777.1.1:
+  pop:
+    ethnicity: muscovite
+    religion: orthodox
+    estate: peasant
+    size: 1000
+1922.12.30:
+  owner: SOVI
+  controller: SOVI
+  cores:
+    RUS: no
+    SOVI: yes
+1942.8.3:
+  controller: GER
+1943.1.21:
+  controller: SOVI
+1991.12.25:
+  owner: RUS
+  controller: RUS
+  cores:
+    SOVI: no
+    RUS: yes

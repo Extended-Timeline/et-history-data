@@ -1,0 +1,37 @@
+#imported from EU4 file: history/provinces/2862 - Coquimbo.txt
+2.1.1:
+  pop:
+    ethnicity: mapuche_culture
+    religion: muisca_religion
+    estate: peasant
+    size: 1000
+1487.1.1:
+  owner: INC
+  controller: INC
+  cores:
+    INC: yes
+  resource: grain
+1541.2.12:
+  owner: SPA
+  controller: SPA
+  pop:
+    ethnicity: castilian
+    religion: catholic
+    estate: peasant
+    size: 1000
+1566.2.12:
+  cores:
+    SPA: yes
+1770.1.1:
+  pop:
+    ethnicity: iberian_peruvian
+    estate: peasant
+    size: 1000
+1810.9.18:
+  owner: CHIL
+  controller: CHIL
+  cores:
+    CHIL: yes
+1844.4.25:
+  cores:
+    SPA: no

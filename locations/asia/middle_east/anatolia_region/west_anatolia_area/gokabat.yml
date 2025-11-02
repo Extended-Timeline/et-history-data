@@ -1,0 +1,73 @@
+#imported from EU4 file: history/provinces/319 - Antalya.txt
+2.1.1:
+  owner: ROM
+  controller: ROM
+  cores:
+    ROM: yes
+  resource: salt
+  pop:
+    ethnicity: greek_culture
+    religion: hellenism_religion
+    estate: peasant
+    size: 1000
+250.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+395.1.17:
+  owner: BYZ
+  controller: BYZ
+  cores:
+    ROM: no
+    BYZ: yes
+867.1.1:
+  pop:
+    religion: orthodox
+    estate: peasant
+    size: 1000
+1190.1.1:
+  owner: RUM
+  controller: RUM
+  cores:
+    RUM: yes
+1250.1.1:
+  cores:
+    BYZ: no
+  pop:
+    ethnicity: turkish_culture
+    religion: sunni
+    estate: peasant
+    size: 1000
+1260.1.1:
+  owner: MEN
+  controller: MEN
+  cores:
+    RUM: no
+    MEN: yes
+1390.1.1:
+  owner: TUR
+  controller: TUR
+  cores:
+    TUR: yes
+1402.7.20:
+  owner: MEN
+  controller: MEN
+1424.1.1:
+  owner: TUR
+  controller: TUR
+1482.7.26:
+  controller: TUR
+1513.1.1:
+  controller: TUR
+1850.1.1:
+  cores:
+    MEN: no
+1920.4.24:
+  owner: TURK
+  controller: TURK
+  cores:
+    TURK: yes
+1922.11.1:
+  cores:
+    TUR: no

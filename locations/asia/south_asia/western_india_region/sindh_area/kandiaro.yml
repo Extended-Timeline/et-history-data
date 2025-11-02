@@ -1,0 +1,97 @@
+#imported from EU4 file: history/provinces/4505 - Khairpur.txt
+2.1.1:
+  owner: SND
+  controller: SND
+  cores:
+    SND: yes
+  resource: livestock
+  pop:
+    ethnicity: sindhi
+    religion: mahayana
+    estate: peasant
+    size: 1000
+76.1.1:
+  owner: KUSH
+  controller: KUSH
+  cores:
+    KUSH: yes
+80.1.1:
+  owner: SND
+  controller: SND
+  cores:
+    KUSH: no
+632.1.1:
+  pop:
+    religion: hindu
+    estate: peasant
+    size: 1000
+711.1.1:
+  owner: UMAY
+  controller: UMAY
+  cores:
+    UMAY: yes
+750.8.6:
+  owner: ABBA
+  controller: ABBA
+  cores:
+    UMAY: no
+    ABBA: yes
+841.1.1:
+  owner: SND
+  controller: SND
+  cores:
+    ABBA: no
+    SND: yes
+1024.1.1:
+  owner: GHAZ
+  controller: GHAZ
+  cores:
+    GHAZ: yes
+1026.1.1:
+  owner: SND
+  controller: SND
+  cores:
+    GHAZ: no
+  pop:
+    religion: shia
+    estate: peasant
+    size: 1000
+1340.1.1:
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+1544.1.1:
+  owner: BNG
+  controller: BNG
+1545.1.1:
+  owner: SND
+  controller: SND
+1574.1.1:
+  owner: MUG
+  controller: MUG
+  cores:
+    MUG: yes
+1739.1.1:
+  owner: SND
+  controller: SND
+  cores:
+    MUG: no
+1843.2.17:
+  owner: GBR
+  controller: GBR
+  cores:
+    GBR: yes
+1850.1.1:
+  pop:
+    religion: shia
+    estate: peasant
+    size: 1000
+1930.12.29:
+  cores:
+    PAKI: yes
+1947.8.14:
+  owner: PAKI
+  controller: PAKI
+  cores:
+    GBR: no

@@ -1,0 +1,89 @@
+#imported from EU4 file: history/provinces/2388 - Phitsanulok.txt
+2.1.1:
+  owner: LAWA
+  controller: LAWA
+  cores:
+    LAWA: yes
+  resource: livestock
+  pop:
+    ethnicity: mon_culture
+    religion: bimoism
+    estate: peasant
+    size: 1000
+550.1.1:
+  owner: DVAR
+  controller: DVAR
+  cores:
+    LAWA: no
+    DVAR: yes
+650.1.1:
+  pop:
+    religion: theravada
+    estate: peasant
+    size: 1000
+661.1.1:
+  owner: LAV
+  controller: LAV
+  cores:
+    DVAR: no
+    LAV: yes
+880.1.1:
+  owner: CAMB
+  controller: CAMB
+  cores:
+    CAMB: yes
+1020.1.1:
+  pop:
+    ethnicity: thai_culture
+    estate: peasant
+    size: 1000
+1060.1.1:
+  owner: LAV
+  controller: LAV
+  cores:
+    CAMB: no
+1238.1.1:
+  owner: SUK
+  controller: SUK
+  cores:
+    LAV: no
+    SUK: yes
+1260.1.1:
+  pop:
+    religion: theravada
+    estate: peasant
+    size: 1000
+1438.1.1:
+  cores:
+    AYU: yes
+1530.1.1:
+  owner: AYU
+  controller: AYU
+  cores:
+    SUK: no
+1767.4.7:
+  owner: SAWA
+  controller: SAWA
+  cores:
+    SAWA: yes
+1768.1.1:
+  cores:
+    AYU: no
+1770.8.16:
+  owner: THON
+  controller: THON
+  cores:
+    SAWA: no
+    THON: yes
+1782.4.6:
+  owner: RTP
+  controller: RTP
+  cores:
+    THON: no
+    RTP: yes
+1932.7.24:
+  owner: SIA
+  controller: SIA
+  cores:
+    RTP: no
+    SIA: yes

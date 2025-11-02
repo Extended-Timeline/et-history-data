@@ -1,0 +1,66 @@
+#imported from EU4 file: history/provinces/2685 - Gayo.txt
+2.1.1:
+  pop:
+    ethnicity: acehnese_culture
+    religion: bimoism
+    estate: peasant
+    size: 1000
+200.1.1:
+  owner: BUS
+  controller: BUS
+  cores:
+    BUS: yes
+  resource: tropical_wood
+800.1.1:
+  pop:
+    religion: hindu
+    estate: peasant
+    size: 1000
+1280.1.1:
+  owner: LAMU
+  controller: LAMU
+  cores:
+    BUS: no
+    LAMU: yes
+1300.1.1:
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+1420.1.1:
+  owner: ATJ
+  controller: ATJ
+  cores:
+    LAMU: no
+    ATJ: yes
+1471.1.1:
+  cores:
+    ATJ: yes
+1521.1.1:
+  owner: ATJ
+  controller: ATJ
+  cores:
+    PSA: no
+1658.1.1:
+  owner: NED
+  controller: NED
+1683.1.1:
+  cores:
+    NED: yes
+1912.9.10:
+  cores:
+    ATJ: no
+    INDN: yes
+1942.2.1:
+  controller: JAP
+1942.3.9:
+  owner: JAP
+  controller: JAP
+1945.8.15:
+  owner: NED
+1945.8.17:
+  owner: INDN
+  controller: INDN
+1949.12.27:
+  cores:
+    NED: no

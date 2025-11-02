@@ -1,0 +1,179 @@
+#imported from EU4 file: history/provinces/702 - Hohhot.txt
+2.1.1:
+  owner: XION
+  controller: XION
+  cores:
+    XION: yes
+  resource: iron
+  pop:
+    ethnicity: chahar
+    religion: 
+    estate: peasant
+    size: 1000
+48.1.1:
+  owner: SXIO
+  controller: SXIO
+  cores:
+    XION: no
+    SXIO: yes
+304.1.1:
+  owner: ZHAO
+  controller: ZHAO
+  cores:
+    SXIO: no
+    ZHAO: yes
+310.1.1:
+  owner: DDI
+  controller: DDI
+  cores:
+    ZHAO: no
+    DDI: yes
+370.1.1:
+  pop:
+    ethnicity: khitan
+    estate: peasant
+    size: 1000
+376.1.1:
+  owner: QIN0
+  controller: QIN0
+  cores:
+    DDI: no
+    QIN0: yes
+386.1.1:
+  owner: WEI0
+  controller: WEI0
+  cores:
+    QIN0: no
+    WEI0: yes
+550.6.7:
+  owner: QI00
+  controller: QI00
+  cores:
+    WEI0: no
+    QI00: yes
+577.2.28:
+  owner: ZHOU
+  controller: ZHOU
+  cores:
+    QI00: no
+    ZHOU: yes
+581.3.4:
+  owner: SUI0
+  controller: SUI0
+  cores:
+    ZHOU: no
+    SUI0: yes
+617.12.18:
+  owner: TANG
+  controller: TANG
+  cores:
+    SUI0: no
+    TANG: yes
+907.6.1:
+  owner: JIN1
+  controller: JIN1
+  cores:
+    TANG: no
+    JIN1: yes
+923.11.19:
+  owner: TANG
+  controller: TANG
+  cores:
+    JIN1: no
+    TANG: yes
+936.1.11:
+  owner: LIAO
+  controller: LIAO
+  cores:
+    TANG: no
+    LIAO: yes
+950.1.1:
+  pop:
+    religion: mahayana
+    estate: peasant
+    size: 1000
+1125.1.1:
+  owner: XIA0
+  controller: XIA0
+  cores:
+    LIAO: no
+    XIA0: yes
+1150.1.1:
+  pop:
+    religion: tibetan_buddhism
+    estate: peasant
+    size: 1000
+1160.1.1:
+  pop:
+    ethnicity: chahar
+    estate: peasant
+    size: 1000
+1227.1.1:
+  owner: MGE
+  controller: MGE
+  cores:
+    XIA0: no
+    MGE: yes
+1271.1.1:
+  owner: YUA
+  controller: YUA
+  cores:
+    MGE: no
+    YUA: yes
+1368.1.23:
+  owner: MGE
+  controller: MGE
+  cores:
+    YUA: no
+    MGE: yes
+1388.1.1:
+  owner: MNG
+  controller: MNG
+  cores:
+    MNG: yes
+1449.10.1:
+  owner: OIR
+  controller: OIR
+  cores:
+    OIR: yes
+1454.1.1:
+  owner: MGE
+  controller: MGE
+  cores:
+    OIR: no
+    MGE: yes
+1632.5.1:
+  owner: MCH
+  controller: MCH
+  cores:
+    MGE: no
+    MCH: yes
+1636.5.15:
+  owner: QNG
+  controller: QNG
+  cores:
+    MCH: no
+    QNG: yes
+1912.2.12:
+  owner: CHI
+  controller: CHI
+  cores:
+    QNG: no
+    CHI: yes
+1920.1.1:
+  pop:
+    ethnicity: jin_culture
+    estate: peasant
+    size: 1000
+1936.5.12:
+  owner: MENG
+  controller: MENG
+  cores:
+    MENG: yes
+1945.8.19:
+  owner: CHI
+  controller: CHI
+  cores:
+    MENG: no
+1949.10.1:
+  controller: CHI

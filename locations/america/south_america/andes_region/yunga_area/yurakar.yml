@@ -1,0 +1,41 @@
+#imported from EU4 file: history/provinces/801 - Caranga.txt
+2.1.1:
+  pop:
+    ethnicity: ava_culture
+    religion: muisca_religion
+    estate: peasant
+    size: 1000
+1561.1.1:
+  owner: SPA
+  controller: SPA
+  cores:
+    SPA: yes
+  resource: grain
+  pop:
+    ethnicity: castilian
+    religion: catholic
+    estate: peasant
+    size: 1000
+1770.1.1:
+  pop:
+    ethnicity: iberian_peruvian
+    estate: peasant
+    size: 1000
+1825.8.6:
+  owner: BOLI
+  controller: BOLI
+  cores:
+    BOLI: yes
+1836.10.28:
+  owner: PERU
+  controller: PERU
+  cores:
+    PERU: yes
+1839.8.25:
+  owner: BOLI
+  controller: BOLI
+  cores:
+    PERU: no
+1847.7.21:
+  cores:
+    SPA: no

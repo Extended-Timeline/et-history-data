@@ -1,0 +1,81 @@
+#imported from EU4 file: history/provinces/4448 - Parlakhimedi.txt
+2.1.1:
+  owner: KALI
+  controller: KALI
+  cores:
+    KALI: yes
+  resource: tropical_wood
+  pop:
+    ethnicity: garjati
+    religion: jain
+    estate: peasant
+    size: 1000
+120.1.1:
+  owner: SATA
+  controller: SATA
+  cores:
+    SATA: yes
+175.1.1:
+  owner: PARL
+  controller: PARL
+  cores:
+    SATA: no
+    PARL: yes
+350.1.1:
+  owner: KALI
+  controller: KALI
+  cores:
+    KALI: yes
+400.1.1:
+  pop:
+    religion: hindu
+    estate: peasant
+    size: 1000
+498.1.1:
+  owner: PARL
+  controller: PARL
+  cores:
+    KALI: no
+    PARL: yes
+620.1.1:
+  owner: KOGD
+  controller: KOGD
+  cores:
+    KOGD: yes
+780.1.1:
+  owner: KALI
+  controller: KALI
+  cores:
+    KOGD: no
+    KALI: yes
+1309.1.1:
+  owner: PARL
+  controller: PARL
+  cores:
+    KALI: no
+    PARL: yes
+1752.1.1:
+  owner: NAGP
+  controller: NAGP
+  cores:
+    NAGP: yes
+1803.1.1:
+  owner: GBR
+  controller: GBR
+1806.1.1:
+  owner: NAGP
+  controller: NAGP
+1816.1.1:
+  owner: GBR
+  controller: GBR
+  cores:
+    GBR: yes
+1930.1.1:
+  cores:
+    ORI: no
+    INDI: yes
+1947.8.15:
+  owner: INDI
+  controller: INDI
+  cores:
+    GBR: no

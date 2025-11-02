@@ -1,0 +1,87 @@
+sib_buyan_ula:
+  1414.1.1:
+    birth: dalaiketun #TODO: Date and location guessed, check if better data is available
+    first_name: buyan
+    dynasty: ula_dynasty
+    adm: 30
+    dip: 30
+    mil: 30
+    religion: 
+    culture: jurchen_culture
+  1485.1.1:
+    death: yes
+sib_buyangan_ula:
+  1444.1.1:
+    birth: dalaiketun #TODO: Date and location guessed, check if better data is available
+    first_name: buyangan
+    dynasty: ula_dynasty
+    father: sib_buyan_ula #TODO: check if this makes sense
+    adm: 30
+    dip: 45
+    mil: 45
+    religion: 
+    culture: jurchen_culture
+  1540.1.1:
+    death: yes
+sib_buyangan_ula_1:
+  1455.1.1:
+    birth: dalaiketun #TODO: Date and location guessed, check if better data is available
+    first_name: buyangan
+    dynasty: ula_dynasty
+    adm: 30
+    dip: 45
+    mil: 45
+    religion: 
+    culture: jurchen_culture
+  1540.1.1:
+    death: yes
+sib_mantai_ula:
+  1500.1.1:
+    birth: dalaiketun #TODO: Date and location guessed, check if better data is available
+    first_name: mantai
+    dynasty: ula_dynasty
+    father: sib_buyangan_ula_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 45
+    mil: 30
+    religion: 
+    culture: jurchen_culture
+  1596.1.1:
+    death: yes
+sib_mantai_ula_1:
+  1510.1.1:
+    birth: dalaiketun #TODO: Date and location guessed, check if better data is available
+    first_name: mantai
+    dynasty: ula_dynasty
+    adm: 30
+    dip: 45
+    mil: 30
+    religion: 
+    culture: jurchen_culture
+  1596.1.1:
+    death: yes
+sib_bujantai_ula:
+  1535.1.1:
+    birth: dalaiketun #TODO: Date and location guessed, check if better data is available
+    first_name: bujantai
+    dynasty: ula_dynasty
+    father: sib_mantai_ula_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: 
+    culture: jurchen_culture
+  1613.1.1:
+    death: yes
+sib_bujantai_ula_1:
+  1566.1.1:
+    birth: dalaiketun #TODO: Date and location guessed, check if better data is available
+    first_name: bujantai
+    dynasty: ula_dynasty
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: 
+    culture: jurchen_culture
+  3000.1.1:
+    death: yes

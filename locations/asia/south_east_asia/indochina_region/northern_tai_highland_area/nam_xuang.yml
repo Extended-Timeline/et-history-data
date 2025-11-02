@@ -1,0 +1,63 @@
+#imported from EU4 file: history/provinces/4837 - Muang Ngoi.txt
+2.1.1:
+  pop:
+    ethnicity: khmu_culture
+    religion: satsana_phi
+    estate: peasant
+    size: 1000
+620.1.1:
+  owner: LUPR
+  controller: LUPR
+  cores:
+    LUPR: yes
+  resource: ivory
+  pop:
+    ethnicity: lao_culture
+    estate: peasant
+    size: 1000
+880.1.1:
+  owner: CAMB
+  controller: CAMB
+  cores:
+    CAMB: yes
+1020.1.1:
+  owner: LUPR
+  controller: LUPR
+  cores:
+    CAMB: no
+    LUPR: yes
+1185.1.1:
+  owner: CAMB
+  controller: CAMB
+  cores:
+    CAMB: yes
+1191.1.1:
+  owner: LUPR
+  controller: LUPR
+  cores:
+    CAMB: no
+    LUPR: yes
+1354.1.1:
+  owner: LAXA
+  controller: LAXA
+  cores:
+    LAXA: yes
+1694.1.1:
+  cores:
+    AYU: yes
+1707.1.1:
+  owner: LUPR
+  controller: LUPR
+  cores:
+    LAXA: no
+    LUPR: yes
+1893.10.3:
+  owner: LAOS
+  controller: LAOS
+  cores:
+    AYU: no
+    LAOS: yes
+1941.1.1:
+  controller: JAP
+1945.8.23:
+  controller: LAOS

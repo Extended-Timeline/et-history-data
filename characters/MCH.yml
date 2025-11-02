@@ -1,0 +1,387 @@
+mch_bukuri_yongson_aisin_gioro:
+  1338.1.1:
+    birth: huncun #TODO: Date and location guessed, check if better data is available
+    first_name: bukuri_yongson
+    dynasty: aisin_gioro_dynasty
+    adm: 60
+    dip: 30
+    mil: 30
+    religion: sanjiao
+    culture: jurchen_culture
+  1405.1.1:
+    death: yes
+mch_mengtemu_aisin_goro:
+  1370.1.1:
+    birth: huncun #TODO: Date and location guessed, check if better data is available
+    first_name: mengtemu
+    dynasty: aisin_goro_dynasty
+    father: mch_bukuri_yongson_aisin_gioro #TODO: check if this makes sense
+    adm: 45
+    dip: 45
+    mil: 30
+    religion: sanjiao
+    culture: jurchen_culture
+  1433.1.1:
+    death: yes
+mch_mengtemu_aisin_gioro:
+  1375.1.1:
+    birth: huncun #TODO: Date and location guessed, check if better data is available
+    first_name: mengtemu
+    dynasty: aisin_gioro_dynasty
+    adm: 45
+    dip: 45
+    mil: 30
+    religion: sanjiao
+    culture: jurchen_culture
+  1433.1.1:
+    death: yes
+mch_cungsan_aisin_goro:
+  1405.1.1:
+    birth: huncun #TODO: Date and location guessed, check if better data is available
+    first_name: cungsan
+    dynasty: aisin_goro_dynasty
+    father: mch_mengtemu_aisin_gioro #TODO: check if this makes sense
+    adm: 45
+    dip: 30
+    mil: 60
+    religion: sanjiao
+    culture: jurchen_culture
+  1467.1.1:
+    death: yes
+mch_cungsan_aisin_gioro:
+  1403.1.1:
+    birth: huncun #TODO: Date and location guessed, check if better data is available
+    first_name: cungsan
+    dynasty: aisin_gioro_dynasty
+    adm: 45
+    dip: 30
+    mil: 60
+    religion: sanjiao
+    culture: jurchen_culture
+  1467.1.1:
+    death: yes
+mch_tolo_aisin_goro:
+  1433.1.1:
+    birth: huncun #TODO: Date and location guessed, check if better data is available
+    first_name: tolo
+    dynasty: aisin_goro_dynasty
+    father: mch_cungsan_aisin_gioro #TODO: check if this makes sense
+    adm: 15
+    dip: 15
+    mil: 30
+    religion: sanjiao
+    culture: jurchen_culture
+  1481.1.1:
+    death: yes
+mch_tolo_aisin_gioro:
+  1437.1.1:
+    birth: huncun #TODO: Date and location guessed, check if better data is available
+    first_name: tolo
+    dynasty: aisin_gioro_dynasty
+    adm: 15
+    dip: 15
+    mil: 30
+    religion: sanjiao
+    culture: jurchen_culture
+  1481.1.1:
+    death: yes
+mch_sibeoci_fiyanggu_aisin_goro:
+  1467.1.1:
+    birth: huncun #TODO: Date and location guessed, check if better data is available
+    first_name: sibeoci_fiyanggu
+    dynasty: aisin_goro_dynasty
+    father: mch_tolo_aisin_gioro #TODO: check if this makes sense
+    adm: 15
+    dip: 15
+    mil: 30
+    religion: sanjiao
+    culture: jurchen_culture
+  1522.1.1:
+    death: yes
+mch_sibeoci_fiyanggu_aisin_gioro:
+  1451.1.1:
+    birth: huncun #TODO: Date and location guessed, check if better data is available
+    first_name: sibeoci_fiyanggu
+    dynasty: aisin_gioro_dynasty
+    adm: 15
+    dip: 15
+    mil: 30
+    religion: sanjiao
+    culture: jurchen_culture
+  1522.1.1:
+    death: yes
+mch_aisin_goro_aisin_goro:
+  1481.1.1:
+    birth: huncun #TODO: Date and location guessed, check if better data is available
+    first_name: aisin_goro
+    dynasty: aisin_goro_dynasty
+    father: mch_sibeoci_fiyanggu_aisin_gioro #TODO: check if this makes sense
+    adm: 15
+    dip: 15
+    mil: 30
+    religion: sanjiao
+    culture: jurchen_culture
+  1542.1.1:
+    death: yes
+mch_fuman_aisin_gioro:
+  1492.1.1:
+    birth: huncun #TODO: Date and location guessed, check if better data is available
+    first_name: fuman
+    dynasty: aisin_gioro_dynasty
+    adm: 15
+    dip: 15
+    mil: 30
+    religion: sanjiao
+    culture: jurchen_culture
+  1542.1.1:
+    death: yes
+mch_giocangga_aisin_goro:
+  1522.1.1:
+    birth: huncun #TODO: Date and location guessed, check if better data is available
+    first_name: giocangga
+    dynasty: aisin_goro_dynasty
+    father: mch_fuman_aisin_gioro #TODO: check if this makes sense
+    adm: 45
+    dip: 30
+    mil: 75
+    religion: sanjiao
+    culture: jurchen_culture
+  1571.1.1:
+    death: yes
+mch_giocangga_aisin_gioro:
+  1512.1.1:
+    birth: huncun #TODO: Date and location guessed, check if better data is available
+    first_name: giocangga
+    dynasty: aisin_gioro_dynasty
+    adm: 45
+    dip: 30
+    mil: 75
+    religion: sanjiao
+    culture: jurchen_culture
+  1571.1.1:
+    death: yes
+mch_taksi_aisin_goro:
+  1542.1.1:
+    birth: huncun #TODO: Date and location guessed, check if better data is available
+    first_name: taksi
+    dynasty: aisin_goro_dynasty
+    father: mch_giocangga_aisin_gioro #TODO: check if this makes sense
+    adm: 15
+    dip: 15
+    mil: 45
+    religion: sanjiao
+    culture: jurchen_culture
+  1583.1.1:
+    death: yes
+mch_taksi_aisin_gioro:
+  1541.1.1:
+    birth: huncun #TODO: Date and location guessed, check if better data is available
+    first_name: taksi
+    dynasty: aisin_gioro_dynasty
+    adm: 15
+    dip: 15
+    mil: 45
+    religion: sanjiao
+    culture: jurchen_culture
+  1583.1.1:
+    death: yes
+mch_nurhachi_aisin_gioro:
+  1558.1.1:
+    birth: huncun #TODO: Date and location guessed, check if better data is available
+    first_name: nurhachi
+    dynasty: aisin_gioro_dynasty
+    father: mch_taksi_aisin_gioro #TODO: check if this makes sense
+    adm: 90
+    dip: 90
+    mil: 90
+    religion: sanjiao
+    culture: jurchen_culture
+  1626.9.30:
+    death: yes
+mch_nurhachi_aisin_gioro_1:
+  1553.1.1:
+    birth: huncun #TODO: Date and location guessed, check if better data is available
+    first_name: nurhachi
+    dynasty: aisin_gioro_dynasty
+    adm: 90
+    dip: 90
+    mil: 90
+    religion: sanjiao
+    culture: jurchen_culture
+  1626.9.30:
+    death: yes
+mch_huang_taiji_aisin_gioro:
+  1592.11.28:
+    birth: huncun #TODO: Location guessed, check if better data is available
+    first_name: huang_taiji
+    dynasty: aisin_gioro_dynasty
+    father: mch_nurhachi_aisin_gioro_1 #TODO: check if this makes sense
+    adm: 75
+    dip: 60
+    mil: 90
+    religion: sanjiao
+    culture: jurchen_culture
+  1643.9.21:
+    death: yes
+mch_huang_taiji_aisin_gioro_1:
+  1596.1.1:
+    birth: huncun #TODO: Date and location guessed, check if better data is available
+    first_name: huang_taiji
+    dynasty: aisin_gioro_dynasty
+    adm: 75
+    dip: 60
+    mil: 90
+    religion: sanjiao
+    culture: jurchen_culture
+  1643.9.22:
+    death: yes
+mch_shunzhi_aisin_gioro:
+  1638.3.15:
+    birth: huncun #TODO: Location guessed, check if better data is available
+    first_name: shunzhi
+    dynasty: aisin_gioro_dynasty
+    father: mch_huang_taiji_aisin_gioro_1 #TODO: check if this makes sense
+    adm: 60
+    dip: 75
+    mil: 75
+    religion: sanjiao
+    culture: jurchen_culture
+  1661.2.5:
+    death: yes
+mch_shunzhi_aisin_gioro_1:
+  1613.1.1:
+    birth: huncun #TODO: Date and location guessed, check if better data is available
+    first_name: shunzhi
+    dynasty: aisin_gioro_dynasty
+    adm: 60
+    dip: 75
+    mil: 75
+    religion: sanjiao
+    culture: jurchen_culture
+  1661.2.5:
+    death: yes
+mch_kangxi_aisin_gioro:
+  1654.5.4:
+    birth: huncun #TODO: Location guessed, check if better data is available
+    first_name: kangxi
+    dynasty: aisin_gioro_dynasty
+    father: mch_shunzhi_aisin_gioro_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 45
+    mil: 75
+    religion: sanjiao
+    culture: jurchen_culture
+  1722.12.20:
+    death: yes
+mch_kangxi_aisin_gioro_1:
+  1631.1.1:
+    birth: huncun #TODO: Date and location guessed, check if better data is available
+    first_name: kangxi
+    dynasty: aisin_gioro_dynasty
+    adm: 45
+    dip: 45
+    mil: 75
+    religion: sanjiao
+    culture: jurchen_culture
+  1722.12.21:
+    death: yes
+mch_yangzheng_aisin_gioro:
+  1678.12.13:
+    birth: huncun #TODO: Location guessed, check if better data is available
+    first_name: yangzheng
+    dynasty: aisin_gioro_dynasty
+    father: mch_kangxi_aisin_gioro_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 75
+    mil: 75
+    religion: sanjiao
+    culture: jurchen_culture
+  1735.10.8:
+    death: yes
+mch_yangzheng_aisin_gioro_1:
+  1692.1.1:
+    birth: huncun #TODO: Date and location guessed, check if better data is available
+    first_name: yangzheng
+    dynasty: aisin_gioro_dynasty
+    adm: 30
+    dip: 75
+    mil: 75
+    religion: sanjiao
+    culture: jurchen_culture
+  1735.10.10:
+    death: yes
+mch_qianlong_aisin_gioro:
+  1711.9.25:
+    birth: huncun #TODO: Location guessed, check if better data is available
+    first_name: qianlong
+    dynasty: aisin_gioro_dynasty
+    father: mch_yangzheng_aisin_gioro_1 #TODO: check if this makes sense
+    adm: 60
+    dip: 75
+    mil: 30
+    religion: sanjiao
+    culture: jurchen_culture
+  1799.2.7:
+    death: yes
+mch_qianlong_aisin_gioro_1:
+  1705.1.1:
+    birth: huncun #TODO: Date and location guessed, check if better data is available
+    first_name: qianlong
+    dynasty: aisin_gioro_dynasty
+    adm: 60
+    dip: 75
+    mil: 30
+    religion: sanjiao
+    culture: jurchen_culture
+  1796.2.9:
+    death: yes
+mch_jiaqing_aisin_gioro:
+  1760.11.13:
+    birth: huncun #TODO: Location guessed, check if better data is available
+    first_name: jiaqing
+    dynasty: aisin_gioro_dynasty
+    father: mch_qianlong_aisin_gioro_1 #TODO: check if this makes sense
+    adm: 60
+    dip: 45
+    mil: 45
+    religion: sanjiao
+    culture: jurchen_culture
+  1820.9.2:
+    death: yes
+mch_jiaqing_aisin_gioro_1:
+  1766.1.1:
+    birth: huncun #TODO: Date and location guessed, check if better data is available
+    first_name: jiaqing
+    dynasty: aisin_gioro_dynasty
+    adm: 60
+    dip: 45
+    mil: 45
+    religion: sanjiao
+    culture: jurchen_culture
+  1820.9.3:
+    death: yes
+mch_daoguang_aisin_gioro:
+  1782.9.16:
+    birth: huncun #TODO: Location guessed, check if better data is available
+    first_name: daoguang
+    dynasty: aisin_gioro_dynasty
+    father: mch_jiaqing_aisin_gioro_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 45
+    mil: 45
+    religion: sanjiao
+    culture: jurchen_culture
+  1850.2.25:
+    death: yes
+mch_daoguang_aisin_gioro_1:
+  1790.1.1:
+    birth: huncun #TODO: Date and location guessed, check if better data is available
+    first_name: daoguang
+    dynasty: aisin_gioro_dynasty
+    adm: 15
+    dip: 45
+    mil: 45
+    religion: sanjiao
+    culture: jurchen_culture
+  3000.1.1:
+    death: yes

@@ -1,0 +1,133 @@
+#imported from EU4 file: history/provinces/353 - Gabes.txt
+2.1.1:
+  owner: ROM
+  controller: ROM
+  cores:
+    ROM: yes
+  resource: grain
+  pop:
+    ethnicity: zenati
+    religion: hellenism_religion
+    estate: peasant
+    size: 1000
+300.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+395.1.17:
+  owner: ROMW
+  controller: ROMW
+  cores:
+    ROM: no
+    ROMW: yes
+439.1.1:
+  owner: VAND
+  controller: VAND
+  cores:
+    ROMW: no
+    VAND: yes
+534.3.1:
+  owner: BYZ
+  controller: BYZ
+  cores:
+    VAND: no
+    BYZ: yes
+670.1.1:
+  owner: UMAY
+  controller: UMAY
+  cores:
+    BYZ: no
+    UMAY: yes
+  pop:
+    ethnicity: tunisian
+    estate: peasant
+    size: 1000
+745.1.1:
+  owner: TUN
+  controller: TUN
+  cores:
+    UMAY: no
+    TUN: yes
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+757.6.1:
+  owner: ABBA
+  controller: ABBA
+  cores:
+    ABBA: yes
+800.1.1:
+  owner: TUN
+  controller: TUN
+  cores:
+    ABBA: no
+    TUN: yes
+909.1.1:
+  owner: FATI
+  controller: FATI
+  cores:
+    FATI: yes
+973.1.1:
+  owner: TUN
+  controller: TUN
+  cores:
+    FATI: no
+    TUN: yes
+1059.1.1:
+  owner: MAHD
+  controller: MAHD
+  cores:
+    MAHD: yes
+1063.1.1:
+  owner: GBS
+  controller: GBS
+  cores:
+    MAHD: no
+    GBS: yes
+1160.1.1:
+  owner: MOR
+  controller: MOR
+  cores:
+    MOR: yes
+1187.1.1:
+  owner: TUN
+  controller: TUN
+  cores:
+    TUN: yes
+1212.1.1:
+  owner: MOR
+  controller: MOR
+1229.1.1:
+  owner: TUN
+  controller: TUN
+  cores:
+    MOR: no
+    TUN: yes
+1503.1.1:
+  owner: TRP
+  controller: TRP
+1521.1.1:
+  owner: SPA
+  controller: SPA
+  cores:
+    SPA: yes
+1524.1.1:
+  owner: TRP
+  controller: TRP
+1551.1.1:
+  owner: SPA
+  controller: SPA
+  cores:
+    SPA: yes
+1560.5.14:
+  owner: TRP
+  controller: TRP
+  cores:
+    SPA: no
+1593.1.1:
+  owner: TUN
+  controller: TUN
+  cores:
+    TUN: yes

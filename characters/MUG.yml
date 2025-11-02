@@ -1,0 +1,449 @@
+mug_babur_timurid:
+  1464.1.1:
+    birth: delhi #TODO: Date and location guessed, check if better data is available
+    first_name: babur
+    dynasty: timurid_dynasty
+    adm: 75
+    dip: 75
+    mil: 90
+    religion: sunni
+    culture: kannauji
+  1530.12.27:
+    death: yes
+mug_humayun_timurid:
+  1508.3.6:
+    birth: agra #TODO: Location guessed, check if better data is available
+    first_name: humayun
+    dynasty: timurid_dynasty
+    father: mug_babur_timurid #TODO: check if this makes sense
+    adm: 75
+    dip: 30
+    mil: 45
+    religion: sunni
+    culture: afghan_culture
+  1556.1.1:
+    death: yes
+mug_humayun_timurid_1:
+  1500.1.1:
+    birth: delhi #TODO: Date and location guessed, check if better data is available
+    first_name: humayun
+    dynasty: timurid_dynasty
+    adm: 75
+    dip: 30
+    mil: 45
+    religion: sunni
+    culture: kannauji
+  1556.2.14:
+    death: yes
+mug_akbar_i_timurid:
+  1542.11.14:
+    birth: kabul #TODO: Location guessed, check if better data is available
+    first_name: akbar
+    dynasty: timurid_dynasty
+    father: mug_humayun_timurid_1 #TODO: check if this makes sense
+    adm: 90
+    dip: 90
+    mil: 90
+    religion: sunni
+    culture: kannauji
+  1605.10.27:
+    death: yes
+mug_akbar_i_timurid_1:
+  1526.1.1:
+    birth: agra #TODO: Date and location guessed, check if better data is available
+    first_name: akbar
+    dynasty: timurid_dynasty
+    adm: 90
+    dip: 90
+    mil: 90
+    religion: sunni
+    culture: kannauji
+  1605.10.26:
+    death: yes
+mug_jahangir_timurid:
+  1569.10.1:
+    birth: delhi #TODO: Location guessed, check if better data is available
+    first_name: jahangir
+    dynasty: timurid_dynasty
+    father: mug_akbar_i_timurid_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 75
+    mil: 60
+    religion: sunni
+    culture: kannauji
+  1605.10.26:
+    death: yes
+mug_jahangir_timurid_1:
+  1575.1.1:
+    birth: agra #TODO: Date and location guessed, check if better data is available
+    first_name: jahangir
+    dynasty: timurid_dynasty
+    adm: 45
+    dip: 75
+    mil: 15
+    religion: sunni
+    culture: kannauji
+  1627.10.28:
+    death: yes
+mug_shah_jehan_timurid:
+  1592.1.5:
+    birth: agra #TODO: Location guessed, check if better data is available
+    first_name: shah_jehan
+    dynasty: timurid_dynasty
+    father: mug_jahangir_timurid_1 #TODO: check if this makes sense
+    adm: 75
+    dip: 60
+    mil: 45
+    religion: sunni
+    culture: kannauji
+  1666.1.22:
+    death: yes
+mug_shah_jehan_timurid_1:
+  1597.1.1:
+    birth: delhi #TODO: Date and location guessed, check if better data is available
+    first_name: shah_jehan
+    dynasty: timurid_dynasty
+    adm: 75
+    dip: 60
+    mil: 45
+    religion: sunni
+    culture: kannauji
+  1658.6.8:
+    death: yes
+mug_dara_shukoh_timurid:
+  1615.3.20:
+    birth: agra #TODO: Location guessed, check if better data is available
+    first_name: dara_shukoh
+    dynasty: timurid_dynasty
+    father: mug_shah_jehan_timurid_1 #TODO: check if this makes sense
+    adm: 90
+    dip: 30
+    mil: 15
+    religion: sunni
+    culture: kannauji
+  1659.8.30:
+    death: yes
+mug_aurangzib_alamgir_timurid:
+  1628.1.1:
+    birth: daulatabad #TODO: Date and location guessed, check if better data is available
+    first_name: aurangzib_alamgir
+    dynasty: timurid_dynasty
+    adm: 60
+    dip: 90
+    mil: 90
+    religion: sunni
+    culture: kannauji
+  1707.3.15:
+    death: yes
+mug_bahadur_shah_i_timurid:
+  1643.10.14:
+    birth: delhi #TODO: Location guessed, check if better data is available
+    first_name: bahadur_shah
+    dynasty: timurid_dynasty
+    father: mug_aurangzib_alamgir_timurid #TODO: check if this makes sense
+    adm: 30
+    dip: 30
+    mil: 15
+    religion: sunni
+    culture: kannauji
+  1712.2.27:
+    death: yes
+mug_bahadur_shah_i_timurid_1:
+  1677.1.1:
+    birth: delhi #TODO: Date and location guessed, check if better data is available
+    first_name: bahadur_shah
+    dynasty: timurid_dynasty
+    adm: 30
+    dip: 30
+    mil: 15
+    religion: sunni
+    culture: kannauji
+  1712.2.27:
+    death: yes
+mug_jahandar_shah_timurid:
+  1661.5.10:
+    birth: delhi #TODO: Location guessed, check if better data is available
+    first_name: jahandar_shah
+    dynasty: timurid_dynasty
+    father: mug_bahadur_shah_i_timurid_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 0
+    mil: 0
+    religion: sunni
+    culture: kannauji
+  1713.2.11:
+    death: yes
+mug_jahandar_shah_timurid_1:
+  1682.1.1:
+    birth: delhi #TODO: Date and location guessed, check if better data is available
+    first_name: jahandar_shah
+    dynasty: timurid_dynasty
+    adm: 15
+    dip: 0
+    mil: 0
+    religion: sunni
+    culture: kannauji
+  1713.2.11:
+    death: yes
+mug_farrukh_siyar_timurid:
+  1685.9.11:
+    birth: delhi #TODO: Location guessed, check if better data is available
+    first_name: farrukh_siyar
+    dynasty: timurid_dynasty
+    father: mug_jahandar_shah_timurid_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 30
+    mil: 15
+    religion: sunni
+    culture: kannauji
+  1719.4.19:
+    death: yes
+mug_farrukh_siyar_timurid_1:
+  1683.1.1:
+    birth: delhi #TODO: Date and location guessed, check if better data is available
+    first_name: farrukh_siyar
+    dynasty: timurid_dynasty
+    adm: 30
+    dip: 15
+    mil: 15
+    religion: sunni
+    culture: kannauji
+  1719.2.28:
+    death: yes
+mug_rafi_ul_darjat_timurid:
+  1699.11.30:
+    birth: delhi #TODO: Location guessed, check if better data is available
+    first_name: rafi_ul_darjat
+    dynasty: timurid_dynasty
+    father: mug_farrukh_siyar_timurid_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 0
+    mil: 0
+    religion: sunni
+    culture: kannauji
+  1723.1.1:
+    death: yes
+mug_rafi_ul_darjat_timurid_1:
+  1689.1.1:
+    birth: delhi #TODO: Date and location guessed, check if better data is available
+    first_name: rafi_ul_darjat
+    dynasty: timurid_dynasty
+    adm: 15
+    dip: 0
+    mil: 0
+    religion: sunni
+    culture: kannauji
+  1719.4.1:
+    death: yes
+mug_rafi_ud_daulah_timurid:
+  1680.1.1:
+    birth: delhi #TODO: Date and location guessed, check if better data is available
+    first_name: rafi_ud_daulah
+    dynasty: timurid_dynasty
+    father: mug_rafi_ul_darjat_timurid_1 #TODO: check if this makes sense
+    adm: 0
+    dip: 15
+    mil: 0
+    religion: sunni
+    culture: kannauji
+  1719.5.1:
+    death: yes
+mug_rafi_ud_daulah_timurid_1:
+  1689.1.1:
+    birth: delhi #TODO: Date and location guessed, check if better data is available
+    first_name: rafi_ud_daulah
+    dynasty: timurid_dynasty
+    adm: 15
+    dip: 0
+    mil: 0
+    religion: sunni
+    culture: kannauji
+  1720.1.1:
+    death: yes
+mug_muhammad_ibrahim_timurid:
+  1710.1.1:
+    birth: delhi #TODO: Date and location guessed, check if better data is available
+    first_name: muhammad_ibrahim
+    dynasty: timurid_dynasty
+    father: mug_rafi_ud_daulah_timurid_1 #TODO: check if this makes sense
+    adm: 0
+    dip: 0
+    mil: 0
+    religion: sunni
+    culture: kannauji
+  1744.1.1:
+    death: yes
+mug_muhammad_ibrahim_timurid_1:
+  1690.1.1:
+    birth: delhi #TODO: Date and location guessed, check if better data is available
+    first_name: muhammad_ibrahim
+    dynasty: timurid_dynasty
+    adm: 0
+    dip: 0
+    mil: 0
+    religion: sunni
+    culture: kannauji
+  1720.2.1:
+    death: yes
+mug_muhammad_shah_timurid:
+  1702.1.1:
+    birth: delhi #TODO: Date and location guessed, check if better data is available
+    first_name: muhammad_shah
+    dynasty: timurid_dynasty
+    father: mug_muhammad_ibrahim_timurid_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 30
+    mil: 15
+    religion: sunni
+    culture: kannauji
+  1748.4.26:
+    death: yes
+mug_muhammad_shah_timurid_1:
+  1690.1.1:
+    birth: delhi #TODO: Date and location guessed, check if better data is available
+    first_name: muhammad_shah
+    dynasty: timurid_dynasty
+    adm: 45
+    dip: 30
+    mil: 15
+    religion: sunni
+    culture: kannauji
+  1748.4.26:
+    death: yes
+mug_ahmad_shah_timurid:
+  1725.1.1:
+    birth: delhi #TODO: Date and location guessed, check if better data is available
+    first_name: ahmad_shah
+    dynasty: timurid_dynasty
+    father: mug_muhammad_shah_timurid_1 #TODO: check if this makes sense
+    adm: 0
+    dip: 15
+    mil: 0
+    religion: sunni
+    culture: kannauji
+  1754.6.3:
+    death: yes
+mug_ahmad_shah_timurid_1:
+  1718.1.1:
+    birth: delhi #TODO: Date and location guessed, check if better data is available
+    first_name: ahmad_shah
+    dynasty: timurid_dynasty
+    adm: 0
+    dip: 15
+    mil: 0
+    religion: sunni
+    culture: kannauji
+  1754.6.3:
+    death: yes
+mug_alamgir_ii_timurid:
+  1699.1.1:
+    birth: delhi #TODO: Date and location guessed, check if better data is available
+    first_name: alamgir
+    dynasty: timurid_dynasty
+    father: mug_ahmad_shah_timurid_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 15
+    mil: 15
+    religion: sunni
+    culture: kannauji
+  1759.12.11:
+    death: yes
+mug_alamgir_ii_timurid_1:
+  1724.1.1:
+    birth: delhi #TODO: Date and location guessed, check if better data is available
+    first_name: alamgir
+    dynasty: timurid_dynasty
+    adm: 15
+    dip: 15
+    mil: 15
+    religion: sunni
+    culture: kannauji
+  1759.12.11:
+    death: yes
+mug_shah_jahan_iii_timurid:
+  1750.1.1:
+    birth: delhi #TODO: Date and location guessed, check if better data is available
+    first_name: shah_jahan
+    dynasty: timurid_dynasty
+    father: mug_alamgir_ii_timurid_1 #TODO: check if this makes sense
+    adm: 0
+    dip: 0
+    mil: 15
+    religion: sunni
+    culture: kannauji
+  1770.1.1:
+    death: yes
+mug_shah_jahan_iii_timurid_1:
+  1729.1.1:
+    birth: delhi #TODO: Date and location guessed, check if better data is available
+    first_name: shah_jahan
+    dynasty: timurid_dynasty
+    adm: 0
+    dip: 0
+    mil: 15
+    religion: sunni
+    culture: kannauji
+  1760.10.11:
+    death: yes
+mug_shah_alam_ii_timurid:
+  1728.1.1:
+    birth: delhi #TODO: Date and location guessed, check if better data is available
+    first_name: shah_alam
+    dynasty: timurid_dynasty
+    father: mug_shah_jahan_iii_timurid_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 30
+    mil: 30
+    religion: sunni
+    culture: kannauji
+  1806.1.1:
+    death: yes
+mug_shah_alam_ii_timurid_1:
+  1730.1.1:
+    birth: delhi #TODO: Date and location guessed, check if better data is available
+    first_name: shah_alam
+    dynasty: timurid_dynasty
+    adm: 15
+    dip: 30
+    mil: 30
+    religion: sunni
+    culture: kannauji
+  1806.11.18:
+    death: yes
+mug_akbar_ii_timurid:
+  1760.4.22:
+    birth: delhi #TODO: Location guessed, check if better data is available
+    first_name: akbar
+    dynasty: timurid_dynasty
+    father: mug_shah_alam_ii_timurid_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 15
+    mil: 0
+    religion: sunni
+    culture: kannauji
+  1837.9.28:
+    death: yes
+mug_akbar_ii_timurid_1:
+  1776.1.1:
+    birth: delhi #TODO: Date and location guessed, check if better data is available
+    first_name: akbar
+    dynasty: timurid_dynasty
+    adm: 15
+    dip: 15
+    mil: 0
+    religion: sunni
+    culture: kannauji
+  1837.9.28:
+    death: yes
+mug_bahadur_shah_ii_timurid:
+  1775.10.24:
+    birth: delhi #TODO: Location guessed, check if better data is available
+    first_name: bahadur_shah
+    dynasty: timurid_dynasty
+    adm: 15
+    dip: 45
+    mil: 0
+    religion: sunni
+    culture: kannauji
+  1862.11.7:
+    death: yes

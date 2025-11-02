@@ -1,0 +1,129 @@
+#imported from EU4 file: history/provinces/1864 - Somogy.txt
+2.1.1:
+  owner: ROM
+  controller: ROM
+  cores:
+    ROM: yes
+  resource: livestock
+  pop:
+    ethnicity: pannonian
+    religion: druidism
+    estate: peasant
+    size: 1000
+340.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+395.1.17:
+  owner: ROMW
+  controller: ROMW
+  cores:
+    ROM: no
+    ROMW: yes
+420.1.1:
+  pop:
+    ethnicity: danube_bavarian
+    religion: germanic
+    estate: peasant
+    size: 1000
+447.1.1:
+  owner: OSTR
+  controller: OSTR
+  cores:
+    ROMW: no
+    OSTR: yes
+530.1.1:
+  owner: GEPI
+  controller: GEPI
+  cores:
+    OSTR: no
+    GEPI: yes
+567.1.1:
+  owner: AVR
+  controller: AVR
+  cores:
+    GEPI: no
+    AVR: yes
+  pop:
+    ethnicity: avar_culture
+    religion: 
+    estate: peasant
+    size: 1000
+846.1.1:
+  owner: PANO
+  controller: PANO
+  cores:
+    AVR: no
+    PANO: yes
+  pop:
+    ethnicity: croatian
+    estate: peasant
+    size: 1000
+850.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+867.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+897.1.1:
+  owner: HUN
+  controller: HUN
+  cores:
+    PANO: no
+    HUN: yes
+  pop:
+    ethnicity: hungarian
+    estate: peasant
+    size: 1000
+1507.1.1:
+  controller: HUN
+1515.1.1:
+  controller: HUN
+1526.8.30:
+  owner: HAB
+  controller: HAB
+  cores:
+    HAB: yes
+1529.9.1:
+  controller: TUR
+1533.6.22:
+  owner: TRA
+  cores:
+    TRA: yes
+1542.1.1:
+  owner: TUR
+  controller: HAB
+  cores:
+    TUR: yes
+    TRA: no
+1543.6.1:
+  controller: TUR
+1545.8.1:
+  cores:
+    HAB: no
+1567.1.1:
+  pop:
+    religion: calvinist
+    estate: peasant
+    size: 1000
+1660.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+1686.10.22:
+  owner: HAB
+  controller: HAB
+  cores:
+    TUR: no
+    HAB: yes
+1918.10.31:
+  owner: HUN
+  controller: HUN
+  cores:
+    HAB: no

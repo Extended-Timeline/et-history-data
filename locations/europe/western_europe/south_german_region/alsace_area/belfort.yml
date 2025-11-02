@@ -1,0 +1,121 @@
+#imported from EU4 file: history/provinces/1880 - Sundgau.txt
+2.1.1:
+  owner: ROM
+  controller: ROM
+  cores:
+    ROM: yes
+  resource: iron
+  pop:
+    ethnicity: high_alemannic
+    religion: germanic
+    estate: peasant
+    size: 1000
+395.1.17:
+  owner: ROMW
+  controller: ROMW
+  cores:
+    ROM: no
+    ROMW: yes
+400.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+450.1.1:
+  owner: ALEM
+  controller: ALEM
+  cores:
+    ROMW: no
+    ALEM: yes
+746.1.1:
+  owner: FRAN
+  controller: FRAN
+  cores:
+    FRAN: yes
+840.6.21:
+  owner: MFRA
+  controller: MFRA
+  cores:
+    FRAN: no
+    MFRA: yes
+855.9.30:
+  owner: LOT
+  controller: LOT
+  cores:
+    MFRA: no
+    LOT: yes
+867.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+870.8.8:
+  owner: EFRA
+  controller: EFRA
+  cores:
+    LOT: no
+    EFRA: yes
+900.1.1:
+  owner: SUND
+  controller: SUND
+  cores:
+    EFRA: no
+    ALEM: no
+    SUND: yes
+925.1.1:
+  owner: SWA
+  controller: SWA
+  cores:
+    SWA: yes
+1135.1.1:
+  owner: HAB
+  controller: HAB
+  cores:
+    SWA: no
+    HAB: yes
+1452.1.1:
+  owner: STY
+  controller: STY
+  cores:
+    STY: yes
+1457.11.24:
+  owner: HAB
+  controller: HAB
+  cores:
+    STY: no
+1635.5.1:
+  controller: FRA
+1636.8.15:
+  controller: HAB
+1636.10.20:
+  controller: FRA
+1648.1.1:
+  owner: FRA
+  cores:
+    FRA: yes
+1840.1.1:
+  pop:
+    ethnicity: french
+    estate: peasant
+    size: 1000
+1870.9.4:
+  owner: FRA
+  controller: FRA
+  cores:
+    FRA: yes
+1871.5.10:
+  owner: GER
+  controller: GER
+  cores:
+    GER: yes
+1919.6.28:
+  owner: FRA
+  controller: FRA
+1940.6.14:
+  owner: GER
+  controller: GER
+1944.8.25:
+  owner: FRA
+  controller: FRA
+  cores:
+    GER: no

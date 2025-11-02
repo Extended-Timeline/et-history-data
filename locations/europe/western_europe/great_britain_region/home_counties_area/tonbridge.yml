@@ -1,0 +1,103 @@
+#imported from EU4 file: history/provinces/235 - Kent.txt
+2.1.1:
+  owner: KENT
+  controller: KENT
+  cores:
+    KENT: yes
+  resource: cloth
+  pop:
+    ethnicity: briton
+    religion: druidism
+    estate: peasant
+    size: 1000
+20.1.1:
+  owner: CATU
+  controller: CATU
+  cores:
+    CATU: yes
+43.1.1:
+  owner: ROM
+  controller: ROM
+  cores:
+    CATU: no
+    ROM: yes
+395.1.17:
+  owner: ROMW
+  controller: ROMW
+  cores:
+    ROM: no
+    ROMW: yes
+420.1.1:
+  owner: KENT
+  controller: KENT
+  cores:
+    ROMW: no
+    KENT: yes
+  pop:
+    ethnicity: anglo_saxon
+    religion: germanic
+    estate: peasant
+    size: 1000
+616.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+785.1.1:
+  owner: MERC
+  controller: MERC
+  cores:
+    MERC: yes
+796.1.1:
+  owner: KENT
+  controller: KENT
+  cores:
+    MERC: no
+867.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+871.1.1:
+  owner: WESS
+  controller: WESS
+  cores:
+    WESS: yes
+927.1.1:
+  owner: ENG
+  controller: ENG
+  cores:
+    WESS: no
+    ENG: yes
+1050.1.1:
+  cores:
+    KENT: no
+1066.12.25:
+  pop:
+    ethnicity: english
+    estate: peasant
+    size: 1000
+1450.7.12:
+  controller: ENG
+1461.6.28:
+  controller: ENG
+1538.1.1:
+  pop:
+    religion: anglican
+    estate: peasant
+    size: 1000
+1580.1.1:
+  pop:
+    religion: calvinist
+    estate: peasant
+    size: 1000
+1646.5.5:
+  controller: ENG
+1648.6.1:
+  controller: ENG
+1707.5.12:
+  owner: GBR
+  controller: GBR
+  cores:
+    ENG: no
+    GBR: yes

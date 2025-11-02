@@ -1,0 +1,102 @@
+#imported from EU4 file: history/provinces/2033 - Savanaur.txt
+2.1.1:
+  owner: PUZH
+  controller: PUZH
+  cores:
+    PUZH: yes
+  resource: cotton
+  pop:
+    ethnicity: kannadiga
+    religion: jain
+    estate: peasant
+    size: 1000
+280.1.1:
+  owner: PALL
+  controller: PALL
+  cores:
+    PUZH: no
+    PALL: yes
+345.1.1:
+  owner: KADA
+  controller: KADA
+  cores:
+    PALL: no
+    KADA: yes
+543.1.1:
+  owner: CHAL
+  controller: CHAL
+  cores:
+    KADA: no
+    CHAL: yes
+753.1.1:
+  owner: RAST
+  controller: RAST
+  cores:
+    CHAL: no
+    RAST: yes
+982.1.1:
+  owner: CHAL
+  controller: CHAL
+  cores:
+    RAST: no
+    CHAL: yes
+1186.1.1:
+  owner: HSL
+  controller: HSL
+  cores:
+    CHAL: no
+    HSL: yes
+1220.1.1:
+  pop:
+    religion: hindu
+    estate: peasant
+    size: 1000
+1325.1.1:
+  owner: DLH
+  controller: DLH
+  cores:
+    HSL: no
+    DLH: yes
+    BIJA: yes
+1336.1.1:
+  owner: VIJ
+  controller: VIJ
+  cores:
+    DLH: no
+    VIJ: yes
+1565.1.1:
+  controller: BIJA
+1565.7.1:
+  owner: BIJA
+  cores:
+    BIJA: yes
+1650.1.1:
+  cores:
+    MHR: yes
+1685.1.1:
+  controller: MUG
+1686.1.1:
+  owner: MUG
+1712.1.1:
+  cores:
+    DEC: yes
+1724.1.1:
+  owner: DEC
+  controller: DEC
+1756.1.1:
+  owner: MHR
+  controller: MHR
+1818.6.3:
+  owner: GBR
+  controller: GBR
+  cores:
+    GBR: yes
+1930.1.1:
+  cores:
+    MHR: no
+    INDI: yes
+1947.8.15:
+  owner: INDI
+  controller: INDI
+  cores:
+    GBR: no

@@ -1,0 +1,596 @@
+smz_tadahisa_shimazu:
+  1170.1.1:
+    birth: satsuma #TODO: Date and location guessed, check if better data is available
+    first_name: tadahisa
+    dynasty: shimazu_dynasty
+    adm: 45
+    dip: 15
+    mil: 0
+    religion: shinto
+    culture: saigoku_culture
+  1227.8.1:
+    death: yes
+smz_tadatoki_shimazu:
+  1202.1.1:
+    birth: satsuma #TODO: Date and location guessed, check if better data is available
+    first_name: tadatoki
+    dynasty: shimazu_dynasty
+    adm: 0
+    dip: 60
+    mil: 15
+    religion: shinto
+    culture: saigoku_culture
+  1272.5.8:
+    death: yes
+smz_hisatsune_shimazu:
+  1225.1.1:
+    birth: satsuma #TODO: Date and location guessed, check if better data is available
+    first_name: hisatsune
+    dynasty: shimazu_dynasty
+    adm: 0
+    dip: 0
+    mil: 15
+    religion: shinto
+    culture: saigoku_culture
+  1284.5.7:
+    death: yes
+smz_tadamune_shimazu:
+  1251.1.1:
+    birth: satsuma #TODO: Date and location guessed, check if better data is available
+    first_name: tadamune
+    dynasty: shimazu_dynasty
+    adm: 30
+    dip: 0
+    mil: 45
+    religion: shinto
+    culture: saigoku_culture
+  1325.12.17:
+    death: yes
+smz_sadahisa_shimazu:
+  1269.5.10:
+    birth: satsuma #TODO: Location guessed, check if better data is available
+    first_name: sadahisa
+    dynasty: shimazu_dynasty
+    adm: 45
+    dip: 60
+    mil: 45
+    religion: shinto
+    culture: saigoku_culture
+  1363.8.12:
+    death: yes
+smz_ujihisa_shimazu:
+  1328.1.1:
+    birth: satsuma #TODO: Date and location guessed, check if better data is available
+    first_name: ujihisa
+    dynasty: shimazu_dynasty
+    father: smz_sadahisa_shimazu #TODO: check if this makes sense
+    adm: 45
+    dip: 60
+    mil: 60
+    religion: shinto
+    culture: saigoku_culture
+  1387.6.30:
+    death: yes
+smz_ujihisa_shimazu_1:
+  1333.1.1:
+    birth: satsuma #TODO: Date and location guessed, check if better data is available
+    first_name: ujihisa
+    dynasty: shimazu_dynasty
+    adm: 45
+    dip: 60
+    mil: 60
+    religion: shinto
+    culture: saigoku_culture
+  1387.6.30:
+    death: yes
+smz_motohisa_shimazu:
+  1363.7.1:
+    birth: satsuma #TODO: Location guessed, check if better data is available
+    first_name: motohisa
+    dynasty: shimazu_dynasty
+    father: smz_ujihisa_shimazu_1 #TODO: check if this makes sense
+    adm: 60
+    dip: 60
+    mil: 45
+    religion: shinto
+    culture: saigoku_culture
+  1411.8.25:
+    death: yes
+smz_motohisa_shimazu_1:
+  1357.1.1:
+    birth: satsuma #TODO: Date and location guessed, check if better data is available
+    first_name: motohisa
+    dynasty: shimazu_dynasty
+    adm: 60
+    dip: 60
+    mil: 45
+    religion: shinto
+    culture: saigoku_culture
+  1411.8.25:
+    death: yes
+smz_hisatoyo_shimazu:
+  1375.1.1:
+    birth: satsuma #TODO: Date and location guessed, check if better data is available
+    first_name: hisatoyo
+    dynasty: shimazu_dynasty
+    father: smz_motohisa_shimazu_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 30
+    mil: 45
+    religion: shinto
+    culture: saigoku_culture
+  1425.1.1:
+    death: yes
+smz_hisatoyo_shimazu_1:
+  1381.1.1:
+    birth: satsuma #TODO: Date and location guessed, check if better data is available
+    first_name: hisatoyo
+    dynasty: shimazu_dynasty
+    adm: 30
+    dip: 30
+    mil: 45
+    religion: shinto
+    culture: saigoku_culture
+  1425.1.1:
+    death: yes
+smz_tadakuni_shimazu:
+  1403.5.22:
+    birth: satsuma #TODO: Location guessed, check if better data is available
+    first_name: tadakuni
+    dynasty: shimazu_dynasty
+    father: smz_hisatoyo_shimazu_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 45
+    mil: 60
+    religion: shinto
+    culture: saigoku_culture
+  1470.2.21:
+    death: yes
+smz_tadakuni_shimazu_1:
+  1395.1.1:
+    birth: satsuma #TODO: Date and location guessed, check if better data is available
+    first_name: tadakuni
+    dynasty: shimazu_dynasty
+    adm: 45
+    dip: 45
+    mil: 60
+    religion: shinto
+    culture: saigoku_culture
+  1470.2.21:
+    death: yes
+smz_tatsuhisa_shimazu:
+  1432.11.27:
+    birth: satsuma #TODO: Location guessed, check if better data is available
+    first_name: tatsuhisa
+    dynasty: shimazu_dynasty
+    father: smz_tadakuni_shimazu_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 60
+    mil: 45
+    religion: shinto
+    culture: saigoku_culture
+  1474.4.26:
+    death: yes
+smz_tatsuhisa_shimazu_1:
+  1440.1.1:
+    birth: satsuma #TODO: Date and location guessed, check if better data is available
+    first_name: tatsuhisa
+    dynasty: shimazu_dynasty
+    adm: 45
+    dip: 60
+    mil: 45
+    religion: shinto
+    culture: saigoku_culture
+  1474.4.26:
+    death: yes
+smz_tadamasa_shimazu:
+  1463.5.21:
+    birth: satsuma #TODO: Location guessed, check if better data is available
+    first_name: tadamasa
+    dynasty: shimazu_dynasty
+    father: smz_tatsuhisa_shimazu_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 30
+    mil: 30
+    religion: shinto
+    culture: saigoku_culture
+  1508.3.16:
+    death: yes
+smz_tadamasa_shimazu_1:
+  1444.1.1:
+    birth: satsuma #TODO: Date and location guessed, check if better data is available
+    first_name: tadamasa
+    dynasty: shimazu_dynasty
+    adm: 30
+    dip: 30
+    mil: 30
+    religion: shinto
+    culture: saigoku_culture
+  1508.3.16:
+    death: yes
+smz_tadaharu_shimazu:
+  1489.2.17:
+    birth: satsuma #TODO: Location guessed, check if better data is available
+    first_name: tadaharu
+    dynasty: shimazu_dynasty
+    father: smz_tadamasa_shimazu_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 30
+    mil: 30
+    religion: shinto
+    culture: saigoku_culture
+  1515.8.25:
+    death: yes
+smz_tadaharu_shimazu_1:
+  1478.1.1:
+    birth: satsuma #TODO: Date and location guessed, check if better data is available
+    first_name: tadaharu
+    dynasty: shimazu_dynasty
+    adm: 30
+    dip: 30
+    mil: 30
+    religion: shinto
+    culture: saigoku_culture
+  1515.8.25:
+    death: yes
+smz_tadataka_shimazu:
+  1485.1.1:
+    birth: satsuma #TODO: Date and location guessed, check if better data is available
+    first_name: tadataka
+    dynasty: shimazu_dynasty
+    adm: 30
+    dip: 30
+    mil: 30
+    religion: shinto
+    culture: saigoku_culture
+  1519.5.12:
+    death: yes
+smz_katsuhisa_shimazu:
+  1489.1.1:
+    birth: satsuma #TODO: Date and location guessed, check if better data is available
+    first_name: katsuhisa
+    dynasty: shimazu_dynasty
+    adm: 30
+    dip: 30
+    mil: 30
+    religion: shinto
+    culture: saigoku_culture
+  1527.1.1:
+    death: yes
+smz_takahisa_shimazu:
+  1514.5.28:
+    birth: satsuma #TODO: Location guessed, check if better data is available
+    first_name: takahisa
+    dynasty: shimazu_dynasty
+    father: smz_katsuhisa_shimazu #TODO: check if this makes sense
+    adm: 60
+    dip: 60
+    mil: 75
+    religion: shinto
+    culture: saigoku_culture
+  1571.7.15:
+    death: yes
+smz_takahisa_shimazu_1:
+  1497.1.1:
+    birth: satsuma #TODO: Date and location guessed, check if better data is available
+    first_name: takahisa
+    dynasty: shimazu_dynasty
+    adm: 60
+    dip: 60
+    mil: 75
+    religion: shinto
+    culture: saigoku_culture
+  1566.1.1:
+    death: yes
+smz_yoshihisa_shimazu:
+  1533.3.4:
+    birth: satsuma #TODO: Location guessed, check if better data is available
+    first_name: yoshihisa
+    dynasty: shimazu_dynasty
+    father: smz_takahisa_shimazu_1 #TODO: check if this makes sense
+    adm: 75
+    dip: 60
+    mil: 75
+    religion: shinto
+    culture: saigoku_culture
+  1611.3.5:
+    death: yes
+smz_yoshihisa_shimazu_1:
+  1536.1.1:
+    birth: satsuma #TODO: Date and location guessed, check if better data is available
+    first_name: yoshihisa
+    dynasty: shimazu_dynasty
+    adm: 75
+    dip: 60
+    mil: 75
+    religion: shinto
+    culture: saigoku_culture
+  1587.5.22:
+    death: yes
+smz_yoshihiro_shimazu:
+  1557.1.1:
+    birth: satsuma #TODO: Date and location guessed, check if better data is available
+    first_name: yoshihiro
+    dynasty: shimazu_dynasty
+    adm: 60
+    dip: 60
+    mil: 90
+    religion: shinto
+    culture: saigoku_culture
+  1619.8.20:
+    death: yes
+smz_tadatsune_shimazu:
+  1576.11.27:
+    birth: satsuma #TODO: Location guessed, check if better data is available
+    first_name: tadatsune
+    dynasty: shimazu_dynasty
+    father: smz_yoshihiro_shimazu #TODO: check if this makes sense
+    adm: 60
+    dip: 60
+    mil: 45
+    religion: shinto
+    culture: saigoku_culture
+  1638.4.7:
+    death: yes
+smz_tadatsune_shimazu_1:
+  1589.1.1:
+    birth: satsuma #TODO: Date and location guessed, check if better data is available
+    first_name: tadatsune
+    dynasty: shimazu_dynasty
+    adm: 60
+    dip: 60
+    mil: 45
+    religion: shinto
+    culture: saigoku_culture
+  1638.4.7:
+    death: yes
+smz_mitsuhisa_shimazu:
+  1616.7.15:
+    birth: satsuma #TODO: Location guessed, check if better data is available
+    first_name: mitsuhisa
+    dynasty: shimazu_dynasty
+    father: smz_tadatsune_shimazu_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: shinto
+    culture: saigoku_culture
+  1695.1.14:
+    death: yes
+smz_mitsuhisa_shimazu_1:
+  1608.1.1:
+    birth: satsuma #TODO: Date and location guessed, check if better data is available
+    first_name: mitsuhisa
+    dynasty: shimazu_dynasty
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: shinto
+    culture: saigoku_culture
+  1687.1.1:
+    death: yes
+smz_tsunahisa_shimazu:
+  1632.5.19:
+    birth: satsuma #TODO: Location guessed, check if better data is available
+    first_name: tsunahisa
+    dynasty: shimazu_dynasty
+    father: smz_mitsuhisa_shimazu_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: shinto
+    culture: saigoku_culture
+  1673.4.6:
+    death: yes
+smz_tsunataka_shimazu:
+  1650.11.17:
+    birth: satsuma #TODO: Location guessed, check if better data is available
+    first_name: tsunataka
+    dynasty: shimazu_dynasty
+    father: smz_mitsuhisa_shimazu_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: shinto
+    culture: saigoku_culture
+  1704.10.14:
+    death: yes
+smz_tsunahisa_shimazu_1:
+  1657.1.1:
+    birth: satsuma #TODO: Date and location guessed, check if better data is available
+    first_name: tsunahisa
+    dynasty: shimazu_dynasty
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: shinto
+    culture: saigoku_culture
+  1704.10.14:
+    death: yes
+smz_yoshitaka_shimazu:
+  1675.11.4:
+    birth: satsuma #TODO: Location guessed, check if better data is available
+    first_name: yoshitaka
+    dynasty: shimazu_dynasty
+    father: smz_tsunahisa_shimazu_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: shinto
+    culture: saigoku_culture
+  1747.11.12:
+    death: yes
+smz_yoshitaka_shimazu_1:
+  1674.1.1:
+    birth: satsuma #TODO: Date and location guessed, check if better data is available
+    first_name: yoshitaka
+    dynasty: shimazu_dynasty
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: shinto
+    culture: saigoku_culture
+  1721.6.1:
+    death: yes
+smz_tsugutoyo_shimazu:
+  1702.1.19:
+    birth: satsuma #TODO: Location guessed, check if better data is available
+    first_name: tsugutoyo
+    dynasty: shimazu_dynasty
+    father: smz_yoshitaka_shimazu_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: shinto
+    culture: saigoku_culture
+  1760.10.28:
+    death: yes
+smz_tsugutoyo_shimazu_1:
+  1691.1.1:
+    birth: satsuma #TODO: Date and location guessed, check if better data is available
+    first_name: tsugutoyo
+    dynasty: shimazu_dynasty
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: shinto
+    culture: saigoku_culture
+  1746.11.1:
+    death: yes
+smz_munenobu_shimazu:
+  1728.7.19:
+    birth: satsuma #TODO: Location guessed, check if better data is available
+    first_name: munenobu
+    dynasty: shimazu_dynasty
+    father: smz_tsugutoyo_shimazu_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: shinto
+    culture: saigoku_culture
+  1749.8.22:
+    death: yes
+smz_munenobu_shimazu_1:
+  1716.1.1:
+    birth: satsuma #TODO: Date and location guessed, check if better data is available
+    first_name: munenobu
+    dynasty: shimazu_dynasty
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: shinto
+    culture: saigoku_culture
+  1749.8.22:
+    death: yes
+smz_shigetoshi_shimazu:
+  1719.1.1:
+    birth: satsuma #TODO: Date and location guessed, check if better data is available
+    first_name: shigetoshi
+    dynasty: shimazu_dynasty
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: shinto
+    culture: saigoku_culture
+  1755.7.24:
+    death: yes
+smz_shigehide_shimazu:
+  1745.11.29:
+    birth: satsuma #TODO: Location guessed, check if better data is available
+    first_name: shigehide
+    dynasty: shimazu_dynasty
+    father: smz_shigetoshi_shimazu #TODO: check if this makes sense
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: shinto
+    culture: saigoku_culture
+  1833.3.6:
+    death: yes
+smz_shigehide_shimazu_1:
+  1725.1.1:
+    birth: satsuma #TODO: Date and location guessed, check if better data is available
+    first_name: shigehide
+    dynasty: shimazu_dynasty
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: shinto
+    culture: saigoku_culture
+  1787.1.1:
+    death: yes
+smz_narinobu_shimazu:
+  1774.1.17:
+    birth: satsuma #TODO: Location guessed, check if better data is available
+    first_name: narinobu
+    dynasty: shimazu_dynasty
+    father: smz_shigehide_shimazu_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: shinto
+    culture: saigoku_culture
+  1841.12.6:
+    death: yes
+smz_narinobu_shimazu_1:
+  1757.1.1:
+    birth: satsuma #TODO: Date and location guessed, check if better data is available
+    first_name: narinobu
+    dynasty: shimazu_dynasty
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: shinto
+    culture: saigoku_culture
+  1809.6.1:
+    death: yes
+smz_narioki_shimazu:
+  1791.12.1:
+    birth: satsuma #TODO: Location guessed, check if better data is available
+    first_name: narioki
+    dynasty: shimazu_dynasty
+    father: smz_narinobu_shimazu_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: shinto
+    culture: saigoku_culture
+  1859.10.7:
+    death: yes
+smz_narioki_shimazu_1:
+  1779.1.1:
+    birth: satsuma #TODO: Date and location guessed, check if better data is available
+    first_name: narioki
+    dynasty: shimazu_dynasty
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: shinto
+    culture: saigoku_culture
+  1851.2.1:
+    death: yes
+smz_nariakira_shimazu:
+  1809.4.28:
+    birth: satsuma #TODO: Location guessed, check if better data is available
+    first_name: nariakira
+    dynasty: shimazu_dynasty
+    father: smz_narioki_shimazu_1 #TODO: check if this makes sense
+    adm: 75
+    dip: 60
+    mil: 75
+    religion: shinto
+    culture: saigoku_culture
+  1858.8.24:
+    death: yes
+smz_nariakira_shimazu_1:
+  1821.1.1:
+    birth: satsuma #TODO: Date and location guessed, check if better data is available
+    first_name: nariakira
+    dynasty: shimazu_dynasty
+    adm: 75
+    dip: 60
+    mil: 75
+    religion: shinto
+    culture: saigoku_culture
+  3000.1.1:
+    death: yes

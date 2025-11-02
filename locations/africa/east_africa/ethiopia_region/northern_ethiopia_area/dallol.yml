@@ -1,0 +1,55 @@
+#imported from EU4 file: history/provinces/3268 - Afar.txt
+2.1.1:
+  owner: AFAR
+  controller: AFAR
+  cores:
+    AFAR: yes
+  resource: livestock
+  pop:
+    ethnicity: afar_culture
+    religion: bantu_religion
+    estate: peasant
+    size: 1000
+220.1.1:
+  owner: AKSM
+  controller: AKSM
+  cores:
+    AKSM: yes
+630.1.1:
+  owner: AFAR
+  controller: AFAR
+  cores:
+    AKSM: no
+    AFAR: yes
+880.1.1:
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+1420.1.1:
+  owner: ADA
+  controller: ADA
+  cores:
+    ADA: yes
+1559.1.1:
+  owner: HARA
+  controller: HARA
+  cores:
+    HARA: yes
+1573.1.1:
+  owner: AFA
+  controller: AFA
+  cores:
+    HARA: no
+    AFA: yes
+1902.1.1:
+  owner: ETH
+  controller: ETH
+  cores:
+    ETH: yes
+1936.5.9:
+  owner: ITA
+  controller: ITA
+1941.11.27:
+  owner: ETH
+  controller: ETH

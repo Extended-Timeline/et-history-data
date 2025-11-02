@@ -1,0 +1,68 @@
+#imported from EU4 file: history/provinces/646 - Ambom.txt
+2.1.1:
+  pop:
+    ethnicity: tetum_culture
+    religion: bimoism
+    estate: peasant
+    size: 1000
+1500.1.1:
+  owner: TID
+  controller: TID
+  cores:
+    TID: yes
+  resource: spices
+1520.1.1:
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+1540.1.1:
+  owner: TER
+  controller: TER
+  cores:
+    TID: no
+    TER: yes
+1580.1.1:
+  owner: POR
+  controller: POR
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+1605.1.1:
+  cores:
+    POR: yes
+1609.1.1:
+  owner: NED
+  controller: NED
+  cores:
+    POR: no
+  pop:
+    religion: calvinist
+    estate: peasant
+    size: 1000
+1634.1.1:
+  cores:
+    NED: yes
+1796.1.1:
+  owner: GBR
+  controller: GBR
+  cores:
+    GBR: yes
+1912.9.10:
+  cores:
+    TER: no
+    INDN: yes
+1942.3.9:
+  owner: JAP
+  controller: JAP
+1945.8.15:
+  owner: NED
+1945.8.17:
+  owner: INDN
+  controller: INDN
+1949.12.27:
+  cores:
+    NED: no
+1950.11.1:
+  controller: INDN

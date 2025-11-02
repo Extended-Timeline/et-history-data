@@ -1,0 +1,41 @@
+#imported from EU4 file: history/provinces/2288 - Yao.txt
+2.1.1:
+  pop:
+    ethnicity: bilala_culture
+    religion: bantu_religion
+    estate: peasant
+    size: 1000
+523.1.1:
+  owner: KBO
+  controller: KBO
+  cores:
+    KBO: yes
+  resource: grain
+1064.1.1:
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+1370.1.1:
+  owner: YAO
+  controller: YAO
+  cores:
+    KBO: no
+    YAO: yes
+1650.1.1:
+  owner: WAD
+  controller: WAD
+  cores:
+    WAD: yes
+1900.4.22:
+  owner: FRA
+  controller: FRA
+  cores:
+    FRA: yes
+1960.8.11:
+  owner: CHAD
+  controller: CHAD
+  cores:
+    FRA: no
+    WAD: no
+    CHAD: yes

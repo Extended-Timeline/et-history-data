@@ -1,0 +1,50 @@
+#imported from EU4 file: history/provinces/571 - Darrang.txt
+2.1.1:
+  owner: KAMA
+  controller: KAMA
+  cores:
+    KAMA: yes
+  resource: silk
+  pop:
+    ethnicity: kamarupi
+    religion: hindu
+    estate: peasant
+    size: 1000
+1185.1.1:
+  owner: KMA
+  controller: KMA
+  cores:
+    KAMA: no
+    KMA: yes
+1228.1.1:
+  owner: AHO
+  controller: AHO
+  cores:
+    KMA: no
+    AHO: yes
+1662.3.1:
+  controller: MUG
+1663.1.1:
+  owner: MUG
+1667.1.1:
+  controller: AHO
+1669.1.1:
+  owner: AHO
+1822.7.1:
+  owner: BURM
+  controller: BURM
+1826.1.1:
+  owner: GBR
+  controller: GBR
+  cores:
+    GBR: yes
+1930.1.1:
+  cores:
+    BURM: no
+    AHO: no
+    INDI: yes
+1947.8.15:
+  owner: INDI
+  controller: INDI
+  cores:
+    GBR: no

@@ -1,0 +1,122 @@
+#imported from EU4 file: history/provinces/412 - Khuzestan.txt
+2.1.1:
+  owner: ELYM
+  controller: ELYM
+  cores:
+    ELYM: yes
+  resource: sugar
+  pop:
+    ethnicity: khuzi
+    religion: zoroastrian
+    estate: peasant
+    size: 1000
+222.1.1:
+  owner: ERA
+  controller: ERA
+  cores:
+    ERA: yes
+638.1.1:
+  owner: RASH
+  controller: RASH
+  cores:
+    ERA: no
+    RASH: yes
+640.1.1:
+  pop:
+    religion: islam
+    estate: peasant
+    size: 1000
+661.7.28:
+  owner: UMAY
+  controller: UMAY
+  cores:
+    RASH: no
+    UMAY: yes
+  pop:
+    religion: shia
+    estate: peasant
+    size: 1000
+750.8.6:
+  owner: ABBA
+  controller: ABBA
+  cores:
+    UMAY: no
+    ABBA: yes
+800.1.1:
+  pop:
+    ethnicity: iraqi_culture
+    estate: peasant
+    size: 1000
+940.1.1:
+  owner: IRAQ
+  controller: IRAQ
+  cores:
+    ABBA: no
+    IRAQ: yes
+978.3.1:
+  owner: IRA
+  controller: IRA
+  cores:
+    IRA: yes
+1055.1.1:
+  owner: SELJ
+  controller: SELJ
+  cores:
+    IRA: no
+    SELJ: yes
+1153.1.1:
+  owner: ABBA
+  controller: ABBA
+  cores:
+    SELJ: no
+    ABBA: yes
+1250.1.1:
+  owner: MGE
+  controller: MGE
+  cores:
+    ABBA: no
+    MGE: yes
+    IRA: yes
+1260.1.1:
+  owner: ILK
+  controller: ILK
+  cores:
+    MGE: no
+    ILK: yes
+1274.1.1:
+  owner: IDAJ
+  controller: IDAJ
+  cores:
+    ILK: no
+    IDAJ: yes
+1424.1.1:
+  owner: TIM
+  controller: TIM
+  cores:
+    IDAJ: no
+    TIM: yes
+1441.1.1:
+  owner: MUSH
+  controller: MUSH
+  cores:
+    TIM: no
+    MUSH: yes
+1508.1.1:
+  owner: IRA
+  controller: IRA
+  cores:
+    MUSH: no
+    IRA: yes
+1935.1.1:
+  owner: IRAN
+  controller: IRAN
+  cores:
+    IRA: no
+    IRAN: yes
+1965.1.1:
+  resource: oil
+1980.1.1:
+  pop:
+    ethnicity: lur_culture
+    estate: peasant
+    size: 1000

@@ -1,0 +1,283 @@
+mod_adalberto_azzo_di_canossa:
+  932.1.1:
+    birth: modena #TODO: Date and location guessed, check if better data is available
+    first_name: adalberto_azzo
+    dynasty: di_canossa_dynasty
+    adm: 60
+    dip: 45
+    mil: 60
+    religion: catholic
+    culture: emilian
+  981.1.1:
+    death: yes
+mod_tedaldo_i_di_canossa:
+  951.1.1:
+    birth: modena #TODO: Date and location guessed, check if better data is available
+    first_name: tedaldo
+    dynasty: di_canossa_dynasty
+    adm: 45
+    dip: 45
+    mil: 0
+    religion: catholic
+    culture: emilian
+  1007.1.1:
+    death: yes
+mod_bonifacio_iii_di_canossa:
+  985.1.1:
+    birth: modena #TODO: Date and location guessed, check if better data is available
+    first_name: bonifacio
+    dynasty: di_canossa_dynasty
+    adm: 60
+    dip: 45
+    mil: 60
+    religion: catholic
+    culture: emilian
+  1293.2.13:
+    death: yes
+mod_aldobrandino_ii_deste:
+  1278.1.1:
+    birth: modena #TODO: Date and location guessed, check if better data is available
+    first_name: aldobrandino
+    dynasty: deste_dynasty
+    adm: 45
+    dip: 45
+    mil: 0
+    religion: catholic
+    culture: emilian
+  1597.10.28:
+    death: yes
+mod_cesare_deste:
+  1567.1.1:
+    birth: modena #TODO: Date and location guessed, check if better data is available
+    first_name: cesare
+    dynasty: deste_dynasty
+    adm: 15
+    dip: 15
+    mil: 45
+    religion: catholic
+    culture: emilian
+  1628.12.12:
+    death: yes
+mod_alfonso_iii_deste:
+  1591.1.1:
+    birth: modena #TODO: Date and location guessed, check if better data is available
+    first_name: alfonso
+    dynasty: deste_dynasty
+    father: mod_cesare_deste #TODO: check if this makes sense
+    adm: 45
+    dip: 30
+    mil: 45
+    religion: catholic
+    culture: emilian
+  1644.5.26:
+    death: yes
+mod_alfonso_iii_deste_1:
+  1598.1.1:
+    birth: modena #TODO: Date and location guessed, check if better data is available
+    first_name: alfonso
+    dynasty: deste_dynasty
+    adm: 45
+    dip: 30
+    mil: 45
+    religion: catholic
+    culture: emilian
+  1629.6.2:
+    death: yes
+mod_francesco_i_deste:
+  1610.9.6:
+    birth: modena #TODO: Location guessed, check if better data is available
+    first_name: francesco
+    dynasty: deste_dynasty
+    father: mod_alfonso_iii_deste_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 45
+    mil: 15
+    religion: catholic
+    culture: emilian
+  1658.10.14:
+    death: yes
+mod_francesco_i_deste_1:
+  1599.1.1:
+    birth: modena #TODO: Date and location guessed, check if better data is available
+    first_name: francesco
+    dynasty: deste_dynasty
+    adm: 45
+    dip: 45
+    mil: 15
+    religion: catholic
+    culture: emilian
+  1658.10.15:
+    death: yes
+mod_alfonso_iv_deste:
+  1634.1.1:
+    birth: modena #TODO: Date and location guessed, check if better data is available
+    first_name: alfonso
+    dynasty: deste_dynasty
+    father: mod_francesco_i_deste_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 60
+    mil: 30
+    religion: catholic
+    culture: emilian
+  1662.7.16:
+    death: yes
+mod_alfonso_iv_deste_1:
+  1628.1.1:
+    birth: modena #TODO: Date and location guessed, check if better data is available
+    first_name: alfonso
+    dynasty: deste_dynasty
+    adm: 30
+    dip: 60
+    mil: 30
+    religion: catholic
+    culture: emilian
+  1662.7.6:
+    death: yes
+mod_francesco_ii_deste:
+  1660.3.6:
+    birth: modena #TODO: Location guessed, check if better data is available
+    first_name: francesco
+    dynasty: deste_dynasty
+    father: mod_alfonso_iv_deste_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 45
+    mil: 30
+    religion: catholic
+    culture: emilian
+  1694.9.6:
+    death: yes
+mod_francesco_ii_deste_1:
+  1632.1.1:
+    birth: modena #TODO: Date and location guessed, check if better data is available
+    first_name: francesco
+    dynasty: deste_dynasty
+    adm: 15
+    dip: 45
+    mil: 30
+    religion: catholic
+    culture: emilian
+  1694.9.6:
+    death: yes
+mod_rinaldo_iii_deste:
+  1655.4.26:
+    birth: modena #TODO: Location guessed, check if better data is available
+    first_name: rinaldo
+    dynasty: deste_dynasty
+    father: mod_francesco_ii_deste_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 15
+    mil: 45
+    religion: catholic
+    culture: emilian
+  1737.10.26:
+    death: yes
+mod_rinaldo_iii_deste_1:
+  1664.1.1:
+    birth: modena #TODO: Date and location guessed, check if better data is available
+    first_name: rinaldo
+    dynasty: deste_dynasty
+    adm: 45
+    dip: 15
+    mil: 45
+    religion: catholic
+    culture: emilian
+  1737.10.27:
+    death: yes
+mod_francesco_iii_deste:
+  1698.7.2:
+    birth: modena #TODO: Location guessed, check if better data is available
+    first_name: francesco
+    dynasty: deste_dynasty
+    father: mod_rinaldo_iii_deste_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 15
+    mil: 60
+    religion: catholic
+    culture: emilian
+  1780.2.22:
+    death: yes
+mod_francesco_iii_deste_1:
+  1707.1.1:
+    birth: modena #TODO: Date and location guessed, check if better data is available
+    first_name: francesco
+    dynasty: deste_dynasty
+    adm: 30
+    dip: 15
+    mil: 60
+    religion: catholic
+    culture: emilian
+  1780.2.21:
+    death: yes
+mod_ercole_iii_deste:
+  1727.11.22:
+    birth: modena #TODO: Location guessed, check if better data is available
+    first_name: ercole
+    dynasty: deste_dynasty
+    father: mod_francesco_iii_deste_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 15
+    mil: 45
+    religion: catholic
+    culture: emilian
+  1803.10.14:
+    death: yes
+mod_ercole_iii_deste_1:
+  1750.1.1:
+    birth: modena #TODO: Date and location guessed, check if better data is available
+    first_name: ercole
+    dynasty: deste_dynasty
+    adm: 45
+    dip: 15
+    mil: 45
+    religion: catholic
+    culture: emilian
+  1796.12.28:
+    death: yes
+mod_republicca_cispadana:
+  1766.1.1:
+    birth: modena #TODO: Date and location guessed, check if better data is available
+    first_name: republicca_cispadana
+    adm: 45
+    dip: 75
+    mil: 15
+    religion: catholic
+    culture: emilian
+  1806.12.25:
+    death: yes
+mod_francesco_iv_von_habsburg:
+  1776.1.1:
+    birth: modena #TODO: Date and location guessed, check if better data is available
+    first_name: francesco
+    dynasty: von_habsburg_dynasty
+    adm: 30
+    dip: 15
+    mil: 30
+    religion: catholic
+    culture: emilian
+  1846.1.21:
+    death: yes
+mod_francesco_v_von_habsburg:
+  1819.6.1:
+    birth: modena #TODO: Location guessed, check if better data is available
+    first_name: francesco
+    dynasty: von_habsburg_dynasty
+    father: mod_francesco_iv_von_habsburg #TODO: check if this makes sense
+    adm: 45
+    dip: 75
+    mil: 15
+    religion: catholic
+    culture: emilian
+  1875.11.20:
+    death: yes
+mod_francesco_v_von_habsburg_1:
+  1816.1.1:
+    birth: modena #TODO: Date and location guessed, check if better data is available
+    first_name: francesco
+    dynasty: von_habsburg_dynasty
+    adm: 45
+    dip: 75
+    mil: 15
+    religion: catholic
+    culture: emilian
+  3000.1.1:
+    death: yes

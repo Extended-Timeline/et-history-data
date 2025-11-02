@@ -1,0 +1,59 @@
+#imported from EU4 file: history/provinces/28 - Nyland.txt
+2.1.1:
+  pop:
+    ethnicity: finnish
+    religion: muinaisusko
+    estate: peasant
+    size: 1000
+750.1.1:
+  owner: TAV
+  controller: TAV
+  cores:
+    TAV: yes
+  resource: naval_supplies
+1150.1.1:
+  owner: SWE
+  controller: SWE
+  cores:
+    TAV: no
+    SWE: yes
+    FIN: yes
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+1487.5.24:
+  controller: SWE
+1527.6.1:
+  pop:
+    religion: lutheran
+    estate: peasant
+    size: 1000
+1550.1.1:
+  resource: grain
+1598.8.1:
+  controller: PLC
+1599.8.4:
+  controller: SWE
+1713.5.30:
+  controller: RUS
+1721.8.30:
+  controller: SWE
+1742.8.24:
+  controller: RUS
+1743.8.7:
+  controller: SWE
+1808.5.3:
+  controller: RUS
+1809.9.17:
+  owner: RUS
+  cores:
+    SWE: no
+    RUS: yes
+1917.12.6:
+  owner: FIN
+  controller: FIN
+  cores:
+    RUS: no
+1970.1.1:
+  resource: electronics

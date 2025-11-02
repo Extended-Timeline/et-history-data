@@ -1,0 +1,30 @@
+#imported from EU4 file: history/provinces/2438 - Kharya.txt
+2.1.1:
+  pop:
+    ethnicity: sakha_culture
+    religion: mari_paganism
+    estate: peasant
+    size: 1000
+1632.1.1:
+  owner: RUS
+  controller: RUS
+  resource: fur
+  pop:
+    religion: orthodox
+    estate: peasant
+    size: 1000
+1639.1.1:
+  cores:
+    RUS: yes
+1922.12.30:
+  owner: SOVI
+  controller: SOVI
+  cores:
+    RUS: no
+    SOVI: yes
+1991.12.25:
+  owner: RUS
+  controller: RUS
+  cores:
+    SOVI: no
+    RUS: yes

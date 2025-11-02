@@ -1,0 +1,142 @@
+#imported from EU4 file: history/provinces/334 - Tangiers.txt
+2.1.1:
+  owner: ROM
+  controller: ROM
+  cores:
+    ROM: yes
+  resource: cloth
+  pop:
+    ethnicity: zenati
+    religion: bantu_religion
+    estate: peasant
+    size: 1000
+320.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+395.1.17:
+  owner: ROMW
+  controller: ROMW
+  cores:
+    ROM: no
+    ROMW: yes
+429.1.1:
+  owner: VAND
+  controller: VAND
+  cores:
+    ROMW: no
+    VAND: yes
+  pop:
+    religion: arianism
+    estate: peasant
+    size: 1000
+534.3.1:
+  owner: BYZ
+  controller: BYZ
+  cores:
+    VAND: no
+    BYZ: yes
+550.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+702.1.1:
+  owner: UMAY
+  controller: UMAY
+  cores:
+    BYZ: no
+    UMAY: yes
+730.1.1:
+  pop:
+    religion: ibadi
+    estate: peasant
+    size: 1000
+743.1.1:
+  owner: NEKO
+  controller: NEKO
+  cores:
+    UMAY: no
+    NEKO: yes
+789.1.1:
+  owner: MOR
+  controller: MOR
+  cores:
+    NEKO: no
+    MOR: yes
+790.1.1:
+  pop:
+    religion: shia
+    estate: peasant
+    size: 1000
+922.1.1:
+  owner: FATI
+  controller: FATI
+925.1.1:
+  owner: MOR
+  controller: MOR
+927.1.1:
+  owner: FATI
+  controller: FATI
+937.1.1:
+  owner: MOR
+  controller: MOR
+974.1.1:
+  owner: CRDB
+  controller: CRDB
+  cores:
+    MOR: no
+    CRDB: yes
+990.1.1:
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+1026.1.1:
+  owner: ALGC
+  controller: ALGC
+  cores:
+    CRDB: no
+    ALGC: yes
+1061.1.1:
+  owner: BARG
+  controller: BARG
+  cores:
+    ALGC: no
+    BARG: yes
+1078.1.1:
+  owner: MOR
+  controller: MOR
+  cores:
+    BARG: no
+    MOR: yes
+1471.1.1:
+  controller: POR
+  cores:
+    POR: yes
+1471.12.30:
+  owner: POR
+1662.1.1:
+  owner: ENG
+  controller: ENG
+  cores:
+    POR: no
+    ENG: yes
+1684.1.1:
+  owner: MOR
+  controller: MOR
+  cores:
+    ENG: no
+1912.3.30:
+  owner: SPA
+  controller: SPA
+  cores:
+    SPA: yes
+1926.5.27:
+  controller: SPA
+1956.4.7:
+  owner: MOR
+  controller: MOR
+  cores:
+    SPA: no

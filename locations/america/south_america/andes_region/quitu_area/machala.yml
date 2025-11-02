@@ -1,0 +1,47 @@
+#imported from EU4 file: history/provinces/819 - Guayaquil.txt
+2.1.1:
+  pop:
+    ethnicity: cara_culture
+    religion: inti
+    estate: peasant
+    size: 1000
+980.1.1:
+  owner: QTO
+  controller: QTO
+  cores:
+    QTO: yes
+  resource: fish
+1535.1.1:
+  owner: SPA
+  controller: SPA
+  pop:
+    ethnicity: castilian
+    religion: catholic
+    estate: peasant
+    size: 1000
+1550.1.1:
+  cores:
+    SPA: yes
+  resource: grain
+1770.1.1:
+  pop:
+    ethnicity: iberian_colombian
+    estate: peasant
+    size: 1000
+1819.12.17:
+  owner: COLO
+  controller: COLO
+  cores:
+    SPA: no
+    COLO: yes
+    ECUA: yes
+1822.5.24:
+  controller: COLO
+1830.2.16:
+  cores:
+    SPA: no
+1830.5.13:
+  owner: ECUA
+  controller: ECUA
+  cores:
+    COLO: no

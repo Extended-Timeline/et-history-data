@@ -1,0 +1,147 @@
+#imported from EU4 file: history/provinces/666 - Hainan.txt
+2.1.1:
+  owner: HAN0
+  controller: HAN0
+  cores:
+    HAN0: yes
+    WUU: yes
+  resource: tropical_wood
+  pop:
+    ethnicity: fuzhou_culture
+    religion: sanjiao
+    estate: peasant
+    size: 1000
+9.1.10:
+  owner: XIN0
+  controller: XIN0
+  cores:
+    XIN0: yes
+23.10.5:
+  owner: HAN0
+  controller: HAN0
+  cores:
+    XIN0: no
+189.9.28:
+  owner: YUE0
+  controller: YUE0
+  cores:
+    HAN0: no
+    YUE0: yes
+220.1.1:
+  owner: WUU
+  controller: WUU
+  cores:
+    WUU: yes
+280.3.15:
+  owner: JIN1
+  controller: JIN1
+  cores:
+    WUU: no
+    JIN1: yes
+420.1.1:
+  owner: LSON
+  controller: LSON
+  cores:
+    JIN1: no
+    LSON: yes
+479.1.1:
+  owner: QI00
+  controller: QI00
+  cores:
+    LSON: no
+    QI00: yes
+502.1.1:
+  owner: LIAN
+  controller: LIAN
+  cores:
+    QI00: no
+    LIAN: yes
+557.1.1:
+  owner: CHE
+  controller: CHE
+  cores:
+    LIAN: no
+    CHE: yes
+589.3.4:
+  owner: SUI0
+  controller: SUI0
+  cores:
+    CHE: no
+    SUI0: yes
+617.1.22:
+  owner: CHU0
+  controller: CHU0
+  cores:
+    SUI0: no
+    CHU0: yes
+622.12.1:
+  owner: TANG
+  controller: TANG
+  cores:
+    CHU0: no
+    TANG: yes
+907.6.1:
+  owner: HANS
+  controller: HANS
+  cores:
+    TANG: no
+    HANS: yes
+972.1.18:
+  owner: SONG
+  controller: SONG
+  cores:
+    HANS: no
+    SONG: yes
+1279.3.19:
+  owner: YUA
+  controller: YUA
+  cores:
+    SONG: no
+    YUA: yes
+    ZHOU: yes
+1368.1.23:
+  owner: MGE
+  controller: MGE
+  cores:
+    YUA: no
+    MGE: yes
+1368.4.18:
+  owner: MNG
+  controller: MNG
+  cores:
+    MGE: no
+    MNG: yes
+1662.4.1:
+  owner: ZHOU
+  controller: ZHOU
+  cores:
+    ZHOU: yes
+1681.10.1:
+  owner: QNG
+  controller: QNG
+  cores:
+    QNG: yes
+1912.2.12:
+  owner: CHI
+  controller: CHI
+  cores:
+    QNG: no
+    ZHOU: no
+    CHI: yes
+1927.4.18:
+  controller: CHI
+1939.2.1:
+  controller: JAP
+1945.8.15:
+  controller: CHI
+1949.10.1:
+  owner: TAIW
+  controller: TAIW
+  cores:
+    TAIW: yes
+1950.4.23:
+  controller: CHI
+1950.5.1:
+  owner: CHI
+  cores:
+    TAIW: no

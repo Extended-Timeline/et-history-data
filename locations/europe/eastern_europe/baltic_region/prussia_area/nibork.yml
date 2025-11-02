@@ -1,0 +1,84 @@
+#imported from EU4 file: history/provinces/2958 - Osterode.txt
+2.1.1:
+  owner: PRUS
+  controller: PRUS
+  cores:
+    PRUS: yes
+  resource: naval_supplies
+  pop:
+    ethnicity: pruthenian
+    religion: romuva
+    estate: peasant
+    size: 1000
+860.1.1:
+  owner: PRUS
+  controller: PRUS
+  cores:
+    PRUS: yes
+1224.1.1:
+  owner: TEU
+  controller: TEU
+  cores:
+    TEU: yes
+  pop:
+    ethnicity: prussian
+    religion: catholic
+    estate: peasant
+    size: 1000
+1300.1.1:
+  cores:
+    PRUS: no
+1454.3.6:
+  cores:
+    POL: yes
+1466.10.19:
+  controller: TEU
+  cores:
+    PRU: yes
+1525.2.10:
+  owner: PRU
+  controller: PRU
+  cores:
+    TEU: no
+    POL: no
+  pop:
+    religion: lutheran
+    estate: peasant
+    size: 1000
+1618.8.28:
+  owner: BRA
+  controller: BRA
+  cores:
+    BRA: yes
+1701.1.18:
+  owner: PRU
+  controller: PRU
+  cores:
+    BRA: no
+1758.1.22:
+  controller: RUS
+1762.5.5:
+  controller: PRU
+1800.1.1:
+  pop:
+    ethnicity: lesser_polish
+    estate: peasant
+    size: 1000
+1871.1.18:
+  owner: GER
+  controller: GER
+  cores:
+    PRU: no
+    GER: yes
+1945.1.22:
+  controller: SOVI
+1945.5.8:
+  owner: POL
+  controller: POL
+  cores:
+    GER: no
+    POL: yes
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000

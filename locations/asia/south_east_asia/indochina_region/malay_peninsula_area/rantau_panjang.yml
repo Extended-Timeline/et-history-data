@@ -1,0 +1,71 @@
+#imported from EU4 file: history/provinces/596 - Malacca.txt
+2.1.1:
+  pop:
+    ethnicity: malay_culture
+    religion: mahayana
+    estate: peasant
+    size: 1000
+770.1.1:
+  owner: SRIV
+  controller: SRIV
+  cores:
+    SRIV: yes
+  resource: spices
+1180.1.1:
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+1183.1.1:
+  owner: PAH
+  controller: PAH
+  cores:
+    SRIV: no
+    PAH: yes
+1400.1.1:
+  owner: MALC
+  controller: MALC
+  cores:
+    PAH: no
+    MALC: yes
+1511.9.10:
+  owner: POR
+  controller: POR
+1536.9.10:
+  cores:
+    POR: yes
+1641.1.14:
+  owner: NED
+  controller: NED
+  cores:
+    POR: no
+1666.1.14:
+  cores:
+    NED: yes
+1795.1.1:
+  owner: GBR
+  controller: GBR
+  cores:
+    NED: no
+1820.1.1:
+  cores:
+    GBR: yes
+1942.1.11:
+  controller: JAP
+1945.8.15:
+  controller: GBR
+1946.4.1:
+  cores:
+    MALC: no
+    MSA: yes
+1957.8.31:
+  owner: MSA
+  controller: MSA
+  cores:
+    GBR: no
+1963.9.16:
+  owner: MALA
+  controller: MALA
+  cores:
+    MSA: no
+    MALA: yes

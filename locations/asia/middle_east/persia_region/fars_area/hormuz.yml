@@ -1,0 +1,95 @@
+#imported from EU4 file: history/provinces/2999 - Qeshm.txt
+2.1.1:
+  owner: PART
+  controller: PART
+  cores:
+    PART: yes
+  resource: gems
+  pop:
+    ethnicity: farsi_culture
+    religion: zoroastrian
+    estate: peasant
+    size: 1000
+224.4.24:
+  owner: ERA
+  controller: ERA
+  cores:
+    PART: no
+    ERA: yes
+643.1.1:
+  owner: RASH
+  controller: RASH
+  cores:
+    ERA: no
+    RASH: yes
+661.7.28:
+  owner: UMAY
+  controller: UMAY
+  cores:
+    RASH: no
+    UMAY: yes
+680.1.1:
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+750.8.6:
+  owner: ABBA
+  controller: ABBA
+  cores:
+    UMAY: no
+    ABBA: yes
+800.1.1:
+  pop:
+    ethnicity: bahrani_culture
+    estate: peasant
+    size: 1000
+850.1.1:
+  owner: KHOR
+  controller: KHOR
+  cores:
+    ABBA: no
+    KHOR: yes
+864.1.1:
+  owner: SIST
+  controller: SIST
+  cores:
+    KHOR: no
+    SIST: yes
+913.5.24:
+  owner: BUKH
+  controller: BUKH
+  cores:
+    SIST: no
+    BUKH: yes
+932.1.1:
+  owner: KRM
+  controller: KRM
+  cores:
+    BUKH: no
+    KRM: yes
+960.1.1:
+  owner: ORM
+  controller: ORM
+  cores:
+    KRM: no
+    ORM: yes
+1501.7.1:
+  controller: AKQO
+1515.1.1:
+  owner: POR
+  controller: POR
+  cores:
+    POR: yes
+1622.2.9:
+  owner: IRA
+  controller: IRA
+  cores:
+    POR: no
+    IRA: yes
+1935.1.1:
+  owner: IRAN
+  controller: IRAN
+  cores:
+    IRA: no
+    IRAN: yes

@@ -1,0 +1,84 @@
+#imported from EU4 file: history/provinces/1127 - Tuat.txt
+2.1.1:
+  pop:
+    ethnicity: tuareg
+    religion: bantu_religion
+    estate: peasant
+    size: 1000
+772.1.1:
+  owner: SIJI
+  controller: SIJI
+  cores:
+    SIJI: yes
+  resource: grain
+840.1.1:
+  owner: SANH
+  controller: SANH
+  cores:
+    SANH: yes
+850.1.1:
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+900.1.1:
+  owner: SIJI
+  controller: SIJI
+  cores:
+    SANH: no
+    SIJI: yes
+1054.1.1:
+  owner: MOR
+  controller: MOR
+  cores:
+    MOR: yes
+1121.1.1:
+  owner: XXX
+  controller: XXX
+  cores:
+    MOR: no
+    SIJI: no
+1555.1.1:
+  owner: MOR
+  controller: MOR
+  cores:
+    MOR: yes
+  resource: salt
+1630.1.1:
+  owner: SOS
+  controller: SOS
+  cores:
+    SOS: yes
+1631.1.1:
+  owner: TFL
+  controller: TFL
+  cores:
+    SOS: no
+    TFL: yes
+1668.9.7:
+  owner: MOR
+  controller: MOR
+  cores:
+    TFL: no
+1901.1.1:
+  owner: FRA
+  controller: FRA
+  cores:
+    FRA: yes
+1940.6.14:
+  owner: VFRA
+  controller: VFRA
+  cores:
+    VFRA: yes
+1942.11.16:
+  owner: FRA
+  controller: FRA
+  cores:
+    VFRA: no
+1962.7.3:
+  owner: ALG
+  controller: ALG
+  cores:
+    FRA: no
+    MOR: no
+    ALG: yes

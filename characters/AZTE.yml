@@ -1,0 +1,273 @@
+azte_coxcoxtli_culhuacan:
+  1220.1.1:
+    birth: tenochtitlan #TODO: Date and location guessed, check if better data is available
+    first_name: coxcoxtli
+    dynasty: culhuacan_dynasty
+    adm: 30
+    dip: 45
+    mil: 45
+    religion: nahuatl
+    culture: nahua_culture
+  1300.1.1:
+    death: yes
+azte_acacitli_mexica:
+  1270.1.1:
+    birth: tenochtitlan #TODO: Date and location guessed, check if better data is available
+    first_name: acacitli
+    dynasty: mexica_dynasty
+    adm: 45
+    dip: 30
+    mil: 30
+    religion: nahuatl
+    culture: nahua_culture
+  1340.1.1:
+    death: yes
+azte_tenoch_mexica:
+  1310.1.1:
+    birth: tenochtitlan #TODO: Date and location guessed, check if better data is available
+    first_name: tenoch
+    dynasty: mexica_dynasty
+    adm: 30
+    dip: 45
+    mil: 15
+    religion: nahuatl
+    culture: nahua_culture
+  1375.1.1:
+    death: yes
+azte_acamapichtli_acamapichtli:
+  1345.1.1:
+    birth: tenochtitlan #TODO: Date and location guessed, check if better data is available
+    first_name: acamapichtli
+    dynasty: acamapichtli_dynasty
+    adm: 60
+    dip: 45
+    mil: 60
+    religion: nahuatl
+    culture: nahua_culture
+  1391.1.1:
+    death: yes
+azte_huitzilihuitl_acamapichtli:
+  1379.1.1:
+    birth: tenochtitlan #TODO: Date and location guessed, check if better data is available
+    first_name: huitzilihuitl
+    dynasty: acamapichtli_dynasty
+    father: azte_acamapichtli_acamapichtli #TODO: check if this makes sense
+    adm: 30
+    dip: 45
+    mil: 30
+    religion: nahuatl
+    culture: nahua_culture
+  1417.1.1:
+    death: yes
+azte_huitzilihuitl_acamapichtli_1:
+  1361.1.1:
+    birth: tenochtitlan #TODO: Date and location guessed, check if better data is available
+    first_name: huitzilihuitl
+    dynasty: acamapichtli_dynasty
+    adm: 30
+    dip: 45
+    mil: 30
+    religion: nahuatl
+    culture: nahua_culture
+  1415.1.1:
+    death: yes
+azte_ohimalpopoca_acamapichtli:
+  1397.1.1:
+    birth: tenochtitlan #TODO: Date and location guessed, check if better data is available
+    first_name: ohimalpopoca
+    dynasty: acamapichtli_dynasty
+    father: azte_huitzilihuitl_acamapichtli_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 45
+    mil: 15
+    religion: nahuatl
+    culture: nahua_culture
+  1427.1.1:
+    death: yes
+azte_ohimalpopoca_acamapichtli_1:
+  1385.1.1:
+    birth: tenochtitlan #TODO: Date and location guessed, check if better data is available
+    first_name: ohimalpopoca
+    dynasty: acamapichtli_dynasty
+    adm: 45
+    dip: 45
+    mil: 15
+    religion: nahuatl
+    culture: nahua_culture
+  1426.1.1:
+    death: yes
+azte_itzcoatl_acamapichtli:
+  1400.1.1:
+    birth: tenochtitlan #TODO: Date and location guessed, check if better data is available
+    first_name: itzcoatl
+    dynasty: acamapichtli_dynasty
+    father: azte_ohimalpopoca_acamapichtli_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 60
+    mil: 45
+    religion: nahuatl
+    culture: nahua_culture
+  1440.8.14:
+    death: yes
+azte_itzcoatl_acamapichtli_1:
+  1396.1.1:
+    birth: tenochtitlan #TODO: Date and location guessed, check if better data is available
+    first_name: itzcoatl
+    dynasty: acamapichtli_dynasty
+    adm: 30
+    dip: 60
+    mil: 45
+    religion: nahuatl
+    culture: nahua_culture
+  1440.8.14:
+    death: yes
+azte_moctezuma_i_ilhuicamina_acamapichtli:
+  1398.1.1:
+    birth: tenochtitlan #TODO: Date and location guessed, check if better data is available
+    first_name: moctezuma_i_ilhuicamina
+    dynasty: acamapichtli_dynasty
+    father: azte_itzcoatl_acamapichtli_1 #TODO: check if this makes sense
+    adm: 75
+    dip: 60
+    mil: 90
+    religion: nahuatl
+    culture: nahua_culture
+  1468.11.22:
+    death: yes
+azte_moctezuma_i_ilhuicamina_acamapichtli_1:
+  1410.1.1:
+    birth: tenochtitlan #TODO: Date and location guessed, check if better data is available
+    first_name: moctezuma_i_ilhuicamina
+    dynasty: acamapichtli_dynasty
+    adm: 75
+    dip: 60
+    mil: 90
+    religion: nahuatl
+    culture: nahua_culture
+  1468.11.22:
+    death: yes
+azte__axayacatl_acamapichtli:
+  1440.1.1:
+    birth: tenochtitlan #TODO: Date and location guessed, check if better data is available
+    first_name: _axayacatl
+    dynasty: acamapichtli_dynasty
+    father: azte_moctezuma_i_ilhuicamina_acamapichtli_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 45
+    mil: 60
+    religion: nahuatl
+    culture: nahua_culture
+  1481.10.30:
+    death: yes
+azte_axayacatl_acamapichtli:
+  1438.1.1:
+    birth: tenochtitlan #TODO: Date and location guessed, check if better data is available
+    first_name: axayacatl
+    dynasty: acamapichtli_dynasty
+    adm: 15
+    dip: 45
+    mil: 60
+    religion: nahuatl
+    culture: nahua_culture
+  1481.10.30:
+    death: yes
+azte_tizoc_acamapichtli:
+  1468.1.1:
+    birth: tenochtitlan #TODO: Date and location guessed, check if better data is available
+    first_name: tizoc
+    dynasty: acamapichtli_dynasty
+    father: azte_axayacatl_acamapichtli #TODO: check if this makes sense
+    adm: 30
+    dip: 30
+    mil: 60
+    religion: nahuatl
+    culture: nahua_culture
+  1486.4.14:
+    death: yes
+azte_tizoc_acamapichtli_1:
+  1451.1.1:
+    birth: tenochtitlan #TODO: Date and location guessed, check if better data is available
+    first_name: tizoc
+    dynasty: acamapichtli_dynasty
+    adm: 30
+    dip: 30
+    mil: 60
+    religion: nahuatl
+    culture: nahua_culture
+  1486.4.14:
+    death: yes
+azte_ahuitzotl_acamapichtli:
+  1460.1.1:
+    birth: tenochtitlan #TODO: Date and location guessed, check if better data is available
+    first_name: ahuitzotl
+    dynasty: acamapichtli_dynasty
+    father: azte_tizoc_acamapichtli_1 #TODO: check if this makes sense
+    adm: 90
+    dip: 60
+    mil: 90
+    religion: nahuatl
+    culture: nahua_culture
+  1502.9.16:
+    death: yes
+azte_ahuitzotl_acamapichtli_1:
+  1456.1.1:
+    birth: tenochtitlan #TODO: Date and location guessed, check if better data is available
+    first_name: ahuitzotl
+    dynasty: acamapichtli_dynasty
+    adm: 90
+    dip: 60
+    mil: 90
+    religion: nahuatl
+    culture: nahua_culture
+  1502.9.16:
+    death: yes
+azte_moctezuma_ii_xocoytzin_acampichtli:
+  1466.1.1:
+    birth: tenochtitlan #TODO: Date and location guessed, check if better data is available
+    first_name: moctezuma_ii_xocoytzin
+    dynasty: acampichtli_dynasty
+    father: azte_ahuitzotl_acamapichtli_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 15
+    mil: 15
+    religion: nahuatl
+    culture: nahua_culture
+  1520.6.30:
+    death: yes
+azte_moctezuma_ii_xocoytzin_acamapichtli:
+  1472.1.1:
+    birth: tenochtitlan #TODO: Date and location guessed, check if better data is available
+    first_name: moctezuma_ii_xocoytzin
+    dynasty: acamapichtli_dynasty
+    adm: 45
+    dip: 15
+    mil: 15
+    religion: nahuatl
+    culture: nahua_culture
+  1520.6.30:
+    death: yes
+azte_cuauhtemoc_acamapichtli:
+  1502.1.1:
+    birth: tenochtitlan #TODO: Date and location guessed, check if better data is available
+    first_name: cuauhtemoc
+    dynasty: acamapichtli_dynasty
+    father: azte_moctezuma_ii_xocoytzin_acamapichtli #TODO: check if this makes sense
+    adm: 15
+    dip: 15
+    mil: 15
+    religion: nahuatl
+    culture: nahua_culture
+  1525.2.28:
+    death: yes
+azte_cuauhtemoc_acamapichtli_1:
+  1490.1.1:
+    birth: tenochtitlan #TODO: Date and location guessed, check if better data is available
+    first_name: cuauhtemoc
+    dynasty: acamapichtli_dynasty
+    adm: 15
+    dip: 15
+    mil: 15
+    religion: nahuatl
+    culture: nahua_culture
+  3000.1.1:
+    death: yes

@@ -1,0 +1,60 @@
+#imported from EU4 file: history/provinces/2793 - Hargeisa.txt
+2.1.1:
+  pop:
+    ethnicity: somali_culture
+    religion: bantu_religion
+    estate: peasant
+    size: 1000
+500.1.1:
+  owner: PIPA
+  controller: PIPA
+  cores:
+    PIPA: yes
+  resource: slaves
+900.1.1:
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+1185.1.1:
+  owner: IFA
+  controller: IFA
+  cores:
+    IFA: yes
+1415.1.1:
+  owner: ADA
+  controller: ADA
+  cores:
+    IFA: no
+    ADA: yes
+1559.1.1:
+  owner: HARA
+  controller: HARA
+1577.1.1:
+  owner: ISAA
+  controller: ISAA
+  cores:
+    HARA: no
+    ISAA: yes
+1884.1.1:
+  owner: GBR
+  controller: GBR
+  cores:
+    GBR: yes
+  resource: naval_supplies
+1887.1.6:
+  cores:
+    ADA: no
+1940.8.1:
+  controller: ITA
+1941.3.1:
+  controller: GBR
+1960.7.1:
+  owner: SOMA
+  controller: SOMA
+  cores:
+    GBR: no
+    SOMA: yes
+2009.1.31:
+  cores:
+    SOML: yes

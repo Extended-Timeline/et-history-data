@@ -1,0 +1,62 @@
+#imported from EU4 file: history/provinces/1232 - Suakin.txt
+2.1.1:
+  owner: BLEM
+  controller: BLEM
+  cores:
+    BLEM: yes
+  resource: slaves
+  pop:
+    ethnicity: beja_culture
+    religion: egyptian
+    estate: peasant
+    size: 1000
+480.1.1:
+  pop:
+    religion: miaphysite
+    estate: peasant
+    size: 1000
+650.1.1:
+  owner: NAGS
+  controller: NAGS
+  cores:
+    BLEM: no
+    NAGS: yes
+1250.1.1:
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+1317.1.1:
+  owner: MAM
+  controller: MAM
+  cores:
+    MAM: yes
+1380.1.1:
+  owner: NAGS
+  controller: NAGS
+1555.1.1:
+  owner: TUR
+  controller: TUR
+  cores:
+    TUR: yes
+1805.5.17:
+  owner: EGY
+  controller: EGY
+  cores:
+    EGY: yes
+1882.9.13:
+  owner: GBR
+  controller: GBR
+  cores:
+    TUR: no
+    GBR: yes
+1899.6.19:
+  cores:
+    FUNJ: no
+    SUDA: yes
+1956.1.1:
+  owner: SUDA
+  controller: SUDA
+  cores:
+    GBR: no
+    EGY: no

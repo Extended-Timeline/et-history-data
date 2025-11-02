@@ -1,0 +1,348 @@
+loan_tati_loanga:
+  1414.1.1:
+    birth: mayumba #TODO: Date and location guessed, check if better data is available
+    first_name: tati
+    dynasty: loanga_dynasty
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: bantu_religion
+    culture: kongo
+  1480.1.1:
+    death: yes
+loan_bicullu_loanga:
+  1420.1.1:
+    birth: mayumba #TODO: Date and location guessed, check if better data is available
+    first_name: bicullu
+    dynasty: loanga_dynasty
+    father: loan_tati_loanga #TODO: check if this makes sense
+    adm: 30
+    dip: 45
+    mil: 30
+    religion: bantu_religion
+    culture: kongo
+  1495.1.1:
+    death: yes
+loan_bicullu_loanga_1:
+  1450.1.1:
+    birth: mayumba #TODO: Date and location guessed, check if better data is available
+    first_name: bicullu
+    dynasty: loanga_dynasty
+    adm: 30
+    dip: 45
+    mil: 30
+    religion: bantu_religion
+    culture: kongo
+  1495.1.1:
+    death: yes
+loan_macussu_loanga:
+  1470.1.1:
+    birth: mayumba #TODO: Date and location guessed, check if better data is available
+    first_name: macussu
+    dynasty: loanga_dynasty
+    father: loan_bicullu_loanga_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 45
+    mil: 30
+    religion: bantu_religion
+    culture: kongo
+  1530.1.1:
+    death: yes
+loan_macussu_loanga_1:
+  1465.1.1:
+    birth: mayumba #TODO: Date and location guessed, check if better data is available
+    first_name: macussu
+    dynasty: loanga_dynasty
+    adm: 45
+    dip: 45
+    mil: 30
+    religion: bantu_religion
+    culture: kongo
+  1530.1.1:
+    death: yes
+loan_nombe_loanga:
+  1485.1.1:
+    birth: mayumba #TODO: Date and location guessed, check if better data is available
+    first_name: nombe
+    dynasty: loanga_dynasty
+    father: loan_macossu_loanga #TODO: check if this makes sense
+    adm: 30
+    dip: 30
+    mil: 30
+    religion: bantu_religion
+    culture: kongo
+  1564.1.1:
+    death: yes
+loan_nombe_loanga_1:
+  1500.1.1:
+    birth: mayumba #TODO: Date and location guessed, check if better data is available
+    first_name: nombe
+    dynasty: loanga_dynasty
+    father: loan_macossu_loanga #TODO: check if this makes sense
+    adm: 30
+    dip: 30
+    mil: 30
+    religion: bantu_religion
+    culture: kongo
+  1564.1.1:
+    death: yes
+loan_nkungu_loanga:
+  1526.1.1:
+    birth: mayumba #TODO: Date and location guessed, check if better data is available
+    first_name: nkungu
+    dynasty: loanga_dynasty
+    father: loan_nombe_loanga_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 30
+    mil: 30
+    religion: bantu_religion
+    culture: kongo
+  1624.1.1:
+    death: yes
+loan_nkungu_loanga_1:
+  1534.1.1:
+    birth: mayumba #TODO: Date and location guessed, check if better data is available
+    first_name: nkungu
+    dynasty: loanga_dynasty
+    adm: 90
+    dip: 75
+    mil: 60
+    religion: bantu_religion
+    culture: kongo
+  1624.1.1:
+    death: yes
+loan_nkungu_ii_loanga:
+  1580.1.1:
+    birth: mayumba #TODO: Date and location guessed, check if better data is available
+    first_name: nkungu
+    dynasty: loanga_dynasty
+    father: loan_nkungu_loanga_1 #TODO: check if this makes sense
+    adm: 30
+    dip: 30
+    mil: 30
+    religion: bantu_religion
+    culture: kongo
+  1640.1.1:
+    death: yes
+loan_nkungu_ii_loanga_1:
+  1594.1.1:
+    birth: mayumba #TODO: Date and location guessed, check if better data is available
+    first_name: nkungu
+    dynasty: loanga_dynasty
+    adm: 30
+    dip: 30
+    mil: 30
+    religion: bantu_religion
+    culture: kongo
+  1640.1.1:
+    death: yes
+loan_afonso_loanga:
+  1620.1.1:
+    birth: mayumba #TODO: Date and location guessed, check if better data is available
+    first_name: afonso
+    dynasty: loanga_dynasty
+    father: loan_nkungu_ii_loanga_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 15
+    mil: 0
+    religion: bantu_religion
+    culture: kongo
+  1710.1.1:
+    death: yes
+loan_afonso_loanga_1:
+  1610.1.1:
+    birth: mayumba #TODO: Date and location guessed, check if better data is available
+    first_name: afonso
+    dynasty: loanga_dynasty
+    adm: 45
+    dip: 15
+    mil: 0
+    religion: bantu_religion
+    culture: kongo
+  1710.1.1:
+    death: yes
+loan_ntangu_loanga:
+  1680.1.1:
+    birth: mayumba #TODO: Date and location guessed, check if better data is available
+    first_name: ntangu
+    dynasty: loanga_dynasty
+    adm: 30
+    dip: 30
+    mil: 30
+    religion: bantu_religion
+    culture: kongo
+  1735.1.1:
+    death: yes
+loan_makose_loanga:
+  1710.1.1:
+    birth: mayumba #TODO: Date and location guessed, check if better data is available
+    first_name: makose
+    dynasty: loanga_dynasty
+    father: loan_ntangu_loanga #TODO: check if this makes sense
+    adm: 30
+    dip: 30
+    mil: 30
+    religion: bantu_religion
+    culture: kongo
+  1766.1.1:
+    death: yes
+loan_makose_loanga_1:
+  1705.1.1:
+    birth: mayumba #TODO: Date and location guessed, check if better data is available
+    first_name: makose
+    dynasty: loanga_dynasty
+    adm: 30
+    dip: 30
+    mil: 30
+    religion: bantu_religion
+    culture: kongo
+  1766.1.1:
+    death: yes
+loan_mwene_mbatu_loanga:
+  1750.1.1:
+    birth: mayumba #TODO: Date and location guessed, check if better data is available
+    first_name: mwene_mbatu
+    dynasty: loanga_dynasty
+    father: loan_makose_loanga_1 #TODO: check if this makes sense
+    adm: 0
+    dip: 15
+    mil: 30
+    religion: bantu_religion
+    culture: kongo
+  1773.1.1:
+    death: yes
+loan_mwene_mbatu_loanga_1:
+  1736.1.1:
+    birth: mayumba #TODO: Date and location guessed, check if better data is available
+    first_name: mwene_mbatu
+    dynasty: loanga_dynasty
+    adm: 0
+    dip: 15
+    mil: 30
+    religion: bantu_religion
+    culture: kongo
+  1773.1.1:
+    death: yes
+loan_nobo_sinda_loanga:
+  1750.1.1:
+    birth: mayumba #TODO: Date and location guessed, check if better data is available
+    first_name: nobo_sinda
+    dynasty: loanga_dynasty
+    father: loan_mwene_mbatu_loanga_1 #TODO: check if this makes sense
+    adm: 0
+    dip: 15
+    mil: 30
+    religion: bantu_religion
+    culture: kongo
+  1795.1.1:
+    death: yes
+loan_nobo_sinda_loanga_1:
+  1743.1.1:
+    birth: mayumba #TODO: Date and location guessed, check if better data is available
+    first_name: nobo_sinda
+    dynasty: loanga_dynasty
+    adm: 0
+    dip: 15
+    mil: 30
+    religion: bantu_religion
+    culture: kongo
+  1795.1.1:
+    death: yes
+loan_mew_pwati_i_loanga:
+  1773.1.1:
+    birth: mayumba #TODO: Date and location guessed, check if better data is available
+    first_name: mew_pwati
+    dynasty: loanga_dynasty
+    father: loan_nobo_sinda_loanga_1 #TODO: check if this makes sense
+    adm: 0
+    dip: 15
+    mil: 30
+    religion: bantu_religion
+    culture: kongo
+  1817.1.1:
+    death: yes
+loan_mwe_pwati_i_loanga:
+  1765.1.1:
+    birth: mayumba #TODO: Date and location guessed, check if better data is available
+    first_name: mwe_pwati
+    dynasty: loanga_dynasty
+    adm: 0
+    dip: 15
+    mil: 30
+    religion: bantu_religion
+    culture: kongo
+  1817.1.1:
+    death: yes
+loan_nguli_nkama_loanga:
+  1795.1.1:
+    birth: mayumba #TODO: Date and location guessed, check if better data is available
+    first_name: nguli_nkama
+    dynasty: loanga_dynasty
+    father: loan_mwe_pwati_i_loanga #TODO: check if this makes sense
+    adm: 0
+    dip: 15
+    mil: 30
+    religion: bantu_religion
+    culture: kongo
+  1835.1.1:
+    death: yes
+loan_nguli_nkama_loanga_1:
+  1787.1.1:
+    birth: mayumba #TODO: Date and location guessed, check if better data is available
+    first_name: nguli_nkama
+    dynasty: loanga_dynasty
+    adm: 0
+    dip: 15
+    mil: 30
+    religion: bantu_religion
+    culture: kongo
+  1830.1.1:
+    death: yes
+loan_puati_loanga:
+  1800.1.1:
+    birth: mayumba #TODO: Date and location guessed, check if better data is available
+    first_name: puati
+    dynasty: loanga_dynasty
+    adm: 30
+    dip: 75
+    mil: 45
+    religion: bantu_religion
+    culture: kongo
+  1845.1.1:
+    death: yes
+loan_macossu_loanga:
+  1815.1.1:
+    birth: mayumba #TODO: Date and location guessed, check if better data is available
+    first_name: macossu
+    dynasty: loanga_dynasty
+    adm: 75
+    dip: 30
+    mil: 75
+    religion: bantu_religion
+    culture: kongo
+  1860.1.1:
+    death: yes
+loan_nombe_loanga_2:
+  1830.1.1:
+    birth: mayumba #TODO: Date and location guessed, check if better data is available
+    first_name: nombe
+    dynasty: loanga_dynasty
+    adm: 15
+    dip: 45
+    mil: 30
+    religion: bantu_religion
+    culture: kongo
+  1874.1.1:
+    death: yes
+loan_ntatu_loanga:
+  1844.1.1:
+    birth: mayumba #TODO: Date and location guessed, check if better data is available
+    first_name: ntatu
+    dynasty: loanga_dynasty
+    adm: 15
+    dip: 15
+    mil: 30
+    religion: bantu_religion
+    culture: kongo
+  3000.1.1:
+    death: yes

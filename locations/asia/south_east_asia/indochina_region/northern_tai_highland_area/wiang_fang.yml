@@ -1,0 +1,51 @@
+#imported from EU4 file: history/provinces/602 - Chiang Rai.txt
+2.1.1:
+  pop:
+    ethnicity: wa_culture
+    religion: bimoism
+    estate: peasant
+    size: 1000
+500.1.1:
+  pop:
+    religion: mahayana
+    estate: peasant
+    size: 1000
+550.1.1:
+  owner: SIHV
+  controller: SIHV
+  cores:
+    SIHV: yes
+  resource: grain
+600.1.1:
+  pop:
+    religion: theravada
+    estate: peasant
+    size: 1000
+638.1.1:
+  owner: HIRA
+  controller: HIRA
+  cores:
+    SIHV: no
+    HIRA: yes
+  pop:
+    ethnicity: khon_muang_culture
+    estate: peasant
+    size: 1000
+1292.1.1:
+  owner: LNA
+  controller: LNA
+  cores:
+    HIRA: no
+    LNA: yes
+1884.1.1:
+  owner: RTP
+  controller: RTP
+  cores:
+    LNA: no
+    RTP: yes
+1932.7.24:
+  owner: SIA
+  controller: SIA
+  cores:
+    RTP: no
+    SIA: yes

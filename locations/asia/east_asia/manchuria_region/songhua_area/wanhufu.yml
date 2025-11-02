@@ -1,0 +1,94 @@
+#imported from EU4 file: history/provinces/4660 - Tunhe.txt
+2.1.1:
+  pop:
+    ethnicity: jurchen_culture
+    religion: 
+    estate: peasant
+    size: 1000
+410.1.1:
+  owner: DUMA
+  controller: DUMA
+  cores:
+    DUMA: yes
+  resource: livestock
+726.1.1:
+  owner: BALH
+  controller: BALH
+  cores:
+    BALH: yes
+907.6.1:
+  owner: LIAO
+  controller: LIAO
+  cores:
+    BALH: no
+    LIAO: yes
+1115.1.1:
+  owner: JIN0
+  controller: JIN0
+  cores:
+    LIAO: no
+    JIN0: yes
+1214.1.1:
+  owner: MGE
+  controller: MGE
+  cores:
+    JIN0: no
+    MGE: yes
+1271.1.1:
+  owner: YUA
+  controller: YUA
+  cores:
+    MGE: no
+    YUA: yes
+1368.1.1:
+  owner: SIB
+  controller: SIB
+  cores:
+    YUA: no
+    SIB: yes
+1613.2.1:
+  owner: JIAZ
+  controller: JIAZ
+  cores:
+    JIAZ: yes
+1616.1.1:
+  owner: MCH
+  controller: MCH
+  cores:
+    JIAZ: no
+    MCH: yes
+  pop:
+    ethnicity: manchu_new
+    estate: peasant
+    size: 1000
+1636.5.15:
+  owner: QNG
+  controller: QNG
+  cores:
+    MCH: no
+    QNG: yes
+1880.1.1:
+  pop:
+    religion: sanjiao
+    estate: peasant
+    size: 1000
+1912.2.12:
+  owner: CHI
+  controller: CHI
+  cores:
+    QNG: no
+    CHI: yes
+1924.11.3:
+  controller: CHI
+1932.2.4:
+  controller: JAP
+1932.2.18:
+  owner: MANC
+  controller: MANC
+  cores:
+    MANC: yes
+1945.8.15:
+  owner: CHI
+  controller: CHI
+  cores:
+    MANC: no

@@ -1,0 +1,208 @@
+khor_tahir_i_tahirid:
+  791.1.1:
+    birth: mashhad #TODO: Date and location guessed, check if better data is available
+    first_name: tahir
+    dynasty: tahirid_dynasty
+    adm: 30
+    dip: 15
+    mil: 30
+    religion: sunni
+    culture: khorasani_culture
+  822.1.1:
+    death: yes
+khor_talha_tahirid:
+  792.1.1:
+    birth: mashhad #TODO: Date and location guessed, check if better data is available
+    first_name: talha
+    dynasty: tahirid_dynasty
+    adm: 60
+    dip: 0
+    mil: 30
+    religion: sunni
+    culture: khorasani_culture
+  828.1.1:
+    death: yes
+khor_abdallah_tahirid:
+  798.1.1:
+    birth: mashhad #TODO: Date and location guessed, check if better data is available
+    first_name: abdallah
+    dynasty: tahirid_dynasty
+    adm: 45
+    dip: 60
+    mil: 15
+    religion: sunni
+    culture: khorasani_culture
+  845.1.1:
+    death: yes
+khor_tahir_ii_tahirid:
+  815.1.1:
+    birth: mashhad #TODO: Date and location guessed, check if better data is available
+    first_name: tahir
+    dynasty: tahirid_dynasty
+    adm: 15
+    dip: 0
+    mil: 75
+    religion: sunni
+    culture: khorasani_culture
+  862.1.1:
+    death: yes
+khor_muhammad_tahirid:
+  832.1.1:
+    birth: nishapur #TODO: Date and location guessed, check if better data is available
+    first_name: muhammad
+    dynasty: tahirid_dynasty
+    adm: 0
+    dip: 30
+    mil: 75
+    religion: sunni
+    culture: khorasani_culture
+  873.1.1:
+    death: yes
+khor_abul_hasan_simjurid:
+  930.1.1:
+    birth: nishapur #TODO: Date and location guessed, check if better data is available
+    first_name: abul_hasan
+    dynasty: simjurid_dynasty
+    adm: 60
+    dip: 30
+    mil: 30
+    religion: sunni
+    culture: khorasani_culture
+  984.1.1:
+    death: yes
+khor_muhammad_simjurid:
+  960.1.1:
+    birth: nishapur #TODO: Date and location guessed, check if better data is available
+    first_name: muhammad
+    dynasty: simjurid_dynasty
+    father: khor_abul_hasan_simjurid #TODO: check if this makes sense
+    adm: 45
+    dip: 30
+    mil: 45
+    religion: sunni
+    culture: khorasani_culture
+  997.1.1:
+    death: yes
+khor_abu_ali_simjurid:
+  960.1.1:
+    birth: nishapur #TODO: Date and location guessed, check if better data is available
+    first_name: abu_ali
+    dynasty: simjurid_dynasty
+    adm: 45
+    dip: 30
+    mil: 45
+    religion: sunni
+    culture: khorasani_culture
+  1444.1.1:
+    death: yes
+khor_babur_bin_baysunkur_timurid:
+  1414.1.1:
+    birth: nishapur #TODO: Date and location guessed, check if better data is available
+    first_name: babur_bin_baysunkur
+    dynasty: timurid_dynasty
+    adm: 45
+    dip: 75
+    mil: 75
+    religion: sunni
+    culture: uzbek_culture
+  3000.1.1:
+    death: yes
+khor_mahmud_shah_timurid:
+  1444.1.1:
+    birth: nishapur #TODO: Date and location guessed, check if better data is available
+    first_name: mahmud_shah
+    dynasty: timurid_dynasty
+    father: khor_babur_bin_baysunkur_timurid #TODO: check if this makes sense
+    adm: 15
+    dip: 30
+    mil: 15
+    religion: sunni
+    culture: khorasani_culture
+  1457.1.1:
+    death: yes
+khor_mahmud_shah_timurid_1:
+  1446.1.1:
+    birth: herat #TODO: Date and location guessed, check if better data is available
+    first_name: mahmud_shah
+    dynasty: timurid_dynasty
+    adm: 15
+    dip: 30
+    mil: 15
+    religion: sunni
+    culture: khorasani_culture
+  1457.1.1:
+    death: yes
+khor_ibrahim_timurid:
+  1427.1.1:
+    birth: herat #TODO: Date and location guessed, check if better data is available
+    first_name: ibrahim
+    dynasty: timurid_dynasty
+    adm: 60
+    dip: 60
+    mil: 75
+    religion: sunni
+    culture: khorasani_culture
+  3000.1.1:
+    death: yes
+khor_abu_said_timurid:
+  1431.1.1:
+    birth: kabul #TODO: Date and location guessed, check if better data is available
+    first_name: abu_said
+    dynasty: timurid_dynasty
+    adm: 45
+    dip: 75
+    mil: 90
+    religion: sunni
+    culture: khorasani_culture
+  1469.8.27:
+    death: yes
+khor_hussein_baiqara_timurid:
+  1438.1.1:
+    birth: kabul #TODO: Date and location guessed, check if better data is available
+    first_name: hussein_baiqara
+    dynasty: timurid_dynasty
+    father: khor_abu_said_timurid #TODO: check if this makes sense
+    adm: 60
+    dip: 75
+    mil: 75
+    religion: sunni
+    culture: khorasani_culture
+  1506.5.4:
+    death: yes
+khor_hussein_baiqara_timurid_1:
+  1439.1.1:
+    birth: herat #TODO: Date and location guessed, check if better data is available
+    first_name: hussein_baiqara
+    dynasty: timurid_dynasty
+    adm: 60
+    dip: 75
+    mil: 75
+    religion: sunni
+    culture: khorasani_culture
+  1750.1.2:
+    death: yes
+khor_badi_al_zaman_timurid:
+  1475.1.1:
+    birth: herat #TODO: Date and location guessed, check if better data is available
+    first_name: badi_al_zaman
+    dynasty: timurid_dynasty
+    father: khor_hussein_baiqara_timurid_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 0
+    mil: 0
+    religion: sunni
+    culture: khorasani_culture
+  1517.1.1:
+    death: yes
+khor_shah_rukh_afsharid:
+  1720.1.1:
+    birth: herat #TODO: Date and location guessed, check if better data is available
+    first_name: shah_rukh
+    dynasty: afsharid_dynasty
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: sunni
+    culture: khorasani_culture
+  3000.1.1:
+    death: yes

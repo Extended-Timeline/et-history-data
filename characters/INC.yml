@@ -1,0 +1,237 @@
+inc_pachacuti_inca_hanan:
+  1408.1.1:
+    birth: qusqu #TODO: Date and location guessed, check if better data is available
+    first_name: pachacuti_inca
+    dynasty: hanan_dynasty
+    adm: 90
+    dip: 75
+    mil: 90
+    religion: inti
+    culture: inka_culture
+  1471.1.1:
+    death: yes
+inc_tupac_inca_yupanqui_hanan:
+  1445.1.1:
+    birth: qusqu #TODO: Date and location guessed, check if better data is available
+    first_name: tupac_inca_yupanqui
+    dynasty: hanan_dynasty
+    father: inc_pachacuti_inca_hanan #TODO: check if this makes sense
+    adm: 90
+    dip: 60
+    mil: 90
+    religion: inti
+    culture: inka_culture
+  1493.1.1:
+    death: yes
+inc_tupac_inca_yupanqui_hanan_1:
+  1441.1.1:
+    birth: qusqu #TODO: Date and location guessed, check if better data is available
+    first_name: tupac_inca_yupanqui
+    dynasty: hanan_dynasty
+    adm: 90
+    dip: 60
+    mil: 90
+    religion: inti
+    culture: inka_culture
+  1493.1.1:
+    death: yes
+inc_huayana_capac_hanan:
+  1475.1.1:
+    birth: qusqu #TODO: Date and location guessed, check if better data is available
+    first_name: huayana_capac
+    dynasty: hanan_dynasty
+    father: inc_tupac_inca_yupanqui_hanan_1 #TODO: check if this makes sense
+    adm: 90
+    dip: 45
+    mil: 60
+    religion: inti
+    culture: inka_culture
+  1527.1.1:
+    death: yes
+inc_huayna_capac_hanan:
+  1463.1.1:
+    birth: qusqu #TODO: Date and location guessed, check if better data is available
+    first_name: huayna_capac
+    dynasty: hanan_dynasty
+    adm: 90
+    dip: 45
+    mil: 60
+    religion: inti
+    culture: inka_culture
+  1527.1.1:
+    death: yes
+inc_huascar_i_hanan:
+  1503.1.1:
+    birth: qusqu #TODO: Date and location guessed, check if better data is available
+    first_name: huascar
+    dynasty: hanan_dynasty
+    father: inc_huayna_capac_hanan #TODO: check if this makes sense
+    adm: 60
+    dip: 15
+    mil: 30
+    religion: inti
+    culture: inka_culture
+  1532.1.1:
+    death: yes
+inc_huascar_i_hanan_1:
+  1497.1.1:
+    birth: qusqu #TODO: Date and location guessed, check if better data is available
+    first_name: huascar
+    dynasty: hanan_dynasty
+    adm: 60
+    dip: 15
+    mil: 30
+    religion: inti
+    culture: inka_culture
+  1532.1.1:
+    death: yes
+inc_atahuallpa_hanan:
+  1497.3.20:
+    birth: qusqu #TODO: Location guessed, check if better data is available
+    first_name: atahuallpa
+    dynasty: hanan_dynasty
+    father: inc_huascar_i_hanan_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 15
+    mil: 60
+    religion: inti
+    culture: inka_culture
+  1533.8.29:
+    death: yes
+inc_atahuallpa_hanan_1:
+  1502.1.1:
+    birth: qusqu #TODO: Date and location guessed, check if better data is available
+    first_name: atahuallpa
+    dynasty: hanan_dynasty
+    adm: 45
+    dip: 15
+    mil: 60
+    religion: inti
+    culture: inka_culture
+  1533.7.28:
+    death: yes
+inc_tupac_huallpa_hanan:
+  1510.1.1:
+    birth: qusqu #TODO: Date and location guessed, check if better data is available
+    first_name: tupac_huallpa
+    dynasty: hanan_dynasty
+    father: inc_atahuallpa_hanan_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 15
+    mil: 15
+    religion: inti
+    culture: inka_culture
+  1533.10.1:
+    death: yes
+inc_tupac_huallpa_hanan_1:
+  1503.1.1:
+    birth: qusqu #TODO: Date and location guessed, check if better data is available
+    first_name: tupac_huallpa
+    dynasty: hanan_dynasty
+    adm: 15
+    dip: 15
+    mil: 15
+    religion: inti
+    culture: inka_culture
+  1534.1.1:
+    death: yes
+inc_manco_inca_yupanqui_hanan:
+  1516.1.1:
+    birth: qusqu #TODO: Date and location guessed, check if better data is available
+    first_name: manco_inca_yupanqui
+    dynasty: hanan_dynasty
+    father: inc_tupac_huallpa_hanan_1 #TODO: check if this makes sense
+    adm: 60
+    dip: 60
+    mil: 75
+    religion: inti
+    culture: inka_culture
+  1544.1.1:
+    death: yes
+inc_manco_inca_yupanqui_hanan_1:
+  1504.1.1:
+    birth: qusqu #TODO: Date and location guessed, check if better data is available
+    first_name: manco_inca_yupanqui
+    dynasty: hanan_dynasty
+    adm: 60
+    dip: 60
+    mil: 75
+    religion: inti
+    culture: inka_culture
+  1545.1.1:
+    death: yes
+inc_sayri_inca_tupac_hanan:
+  1535.1.1:
+    birth: qusqu #TODO: Date and location guessed, check if better data is available
+    first_name: sayri_inca_tupac
+    dynasty: hanan_dynasty
+    father: inc_manco_inca_yupanqui_hanan_1 #TODO: check if this makes sense
+    adm: 45
+    dip: 60
+    mil: 30
+    religion: inti
+    culture: inka_culture
+  1561.1.1:
+    death: yes
+inc_sayri_tupac_hanan:
+  1515.1.1:
+    birth: qusqu #TODO: Date and location guessed, check if better data is available
+    first_name: sayri_tupac
+    dynasty: hanan_dynasty
+    adm: 45
+    dip: 60
+    mil: 30
+    religion: inti
+    culture: inka_culture
+  1557.1.1:
+    death: yes
+inc_titu_cusi_inca_hanan:
+  1529.1.1:
+    birth: qusqu #TODO: Date and location guessed, check if better data is available
+    first_name: titu_cusi_inca
+    dynasty: hanan_dynasty
+    father: inc_sayri_tupac_hanan #TODO: check if this makes sense
+    adm: 75
+    dip: 75
+    mil: 45
+    religion: inti
+    culture: inka_culture
+  1571.1.1:
+    death: yes
+inc_titu_cusi_inca_hanan_1:
+  1527.1.1:
+    birth: qusqu #TODO: Date and location guessed, check if better data is available
+    first_name: titu_cusi_inca
+    dynasty: hanan_dynasty
+    adm: 75
+    dip: 75
+    mil: 45
+    religion: inti
+    culture: inka_culture
+  1571.1.1:
+    death: yes
+inc_tupac_amaru_inca_hanan:
+  1540.1.1:
+    birth: qusqu #TODO: Date and location guessed, check if better data is available
+    first_name: tupac_amaru_inca
+    dynasty: hanan_dynasty
+    father: inc_titu_cusi_inca_hanan_1 #TODO: check if this makes sense
+    adm: 15
+    dip: 15
+    mil: 30
+    religion: inti
+    culture: inka_culture
+  1572.1.1:
+    death: yes
+inc_tupac_amaru_inca_hanan_1:
+  1541.1.1:
+    birth: qusqu #TODO: Date and location guessed, check if better data is available
+    first_name: tupac_amaru_inca
+    dynasty: hanan_dynasty
+    adm: 15
+    dip: 15
+    mil: 30
+    religion: inti
+    culture: inka_culture
+  3000.1.1:
+    death: yes

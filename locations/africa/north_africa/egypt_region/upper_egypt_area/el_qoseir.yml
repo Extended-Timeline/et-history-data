@@ -1,0 +1,127 @@
+#imported from EU4 file: history/provinces/2321 - Queseer.txt
+2.1.1:
+  owner: ROM
+  controller: ROM
+  cores:
+    ROM: yes
+  resource: livestock
+  pop:
+    ethnicity: beja_culture
+    religion: egyptian
+    estate: peasant
+    size: 1000
+395.1.17:
+  owner: BYZ
+  controller: BYZ
+  cores:
+    ROM: no
+    BYZ: yes
+618.1.1:
+  controller: ERA
+628.1.1:
+  controller: BYZ
+641.1.1:
+  owner: RASH
+  controller: RASH
+  cores:
+    BYZ: no
+    RASH: yes
+655.1.1:
+  pop:
+    religion: islam
+    estate: peasant
+    size: 1000
+661.7.28:
+  owner: UMAY
+  controller: UMAY
+  cores:
+    RASH: no
+    UMAY: yes
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+750.8.6:
+  owner: ABBA
+  controller: ABBA
+  cores:
+    UMAY: no
+    ABBA: yes
+868.9.15:
+  owner: EGY
+  controller: EGY
+  cores:
+    ABBA: no
+    EGY: yes
+905.1.10:
+  owner: ABBA
+  controller: ABBA
+  cores:
+    ABBA: yes
+935.8.26:
+  owner: EGY
+  controller: EGY
+  cores:
+    ABBA: no
+    EGY: yes
+969.6.1:
+  owner: FATI
+  controller: FATI
+  cores:
+    FATI: yes
+1171.1.1:
+  owner: EGY
+  controller: EGY
+  cores:
+    FATI: no
+    EGY: yes
+1200.1.1:
+  pop:
+    ethnicity: lower_egyptian_culture
+    estate: peasant
+    size: 1000
+1250.5.2:
+  owner: MAM
+  controller: MAM
+  cores:
+    EGY: no
+    MAM: yes
+1350.1.1:
+  pop:
+    ethnicity: upper_egyptian_culture
+    estate: peasant
+    size: 1000
+1517.1.1:
+  cores:
+    MAM: no
+    TUR: yes
+1540.1.1:
+  owner: TUR
+  controller: TUR
+1805.5.17:
+  owner: EGY
+  controller: EGY
+  cores:
+    FUNJ: no
+    EGY: yes
+1882.9.13:
+  owner: GBR
+  controller: GBR
+  cores:
+    TUR: no
+    GBR: yes
+1914.12.19:
+  owner: EGY
+  controller: EGY
+  cores:
+    GBR: no
+1958.2.22:
+  owner: AIA
+  controller: AIA
+  cores:
+    AIA: yes
+1971.9.2:
+  owner: EGY
+  controller: EGY
+  cores:
+    AIA: no

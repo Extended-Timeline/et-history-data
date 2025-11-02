@@ -1,0 +1,108 @@
+#imported from EU4 file: history/provinces/2964 - Altmark.txt
+2.1.1:
+  owner: LOMB
+  controller: LOMB
+  cores:
+    LOMB: yes
+  resource: cloth
+  pop:
+    ethnicity: langobardi
+    religion: germanic
+    estate: peasant
+    size: 1000
+300.1.1:
+  owner: SAX
+  controller: SAX
+  cores:
+    LOMB: no
+    SAX: yes
+  pop:
+    ethnicity: saxon
+    estate: peasant
+    size: 1000
+804.1.1:
+  owner: FRAN
+  controller: FRAN
+  cores:
+    FRAN: yes
+840.6.21:
+  owner: EFRA
+  controller: EFRA
+  cores:
+    FRAN: no
+    EFRA: yes
+867.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+900.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+911.11.10:
+  owner: SAX
+  controller: SAX
+  cores:
+    EFRA: no
+948.1.1:
+  owner: BRA
+  controller: BRA
+  cores:
+    SAX: no
+    BRA: yes
+1524.1.1:
+  pop:
+    religion: lutheran
+    estate: peasant
+    size: 1000
+1650.1.1:
+  pop:
+    ethnicity: prussian
+    estate: peasant
+    size: 1000
+1701.1.18:
+  owner: PRU
+  controller: PRU
+  cores:
+    BRA: no
+    PRU: yes
+1806.11.1:
+  controller: FRA
+1807.7.9:
+  owner: WES
+  controller: WES
+  cores:
+    PRU: no
+    WES: yes
+1813.10.13:
+  owner: PRU
+  controller: PRU
+  cores:
+    WES: no
+    PRU: yes
+1871.1.18:
+  owner: GER
+  controller: GER
+  cores:
+    PRU: no
+    GER: yes
+1900.1.1:
+  cores:
+    MAG: no
+1945.5.8:
+  owner: EGER
+  controller: EGER
+  cores:
+    EGER: yes
+1980.1.1:
+  pop:
+    religion: irreligious
+    estate: peasant
+    size: 1000
+1990.10.3:
+  owner: GER
+  controller: GER
+  cores:
+    EGER: no

@@ -1,0 +1,152 @@
+#imported from EU4 file: history/provinces/4173 - Syrmia.txt
+2.1.1:
+  owner: ROM
+  controller: ROM
+  cores:
+    ROM: yes
+  resource: grain
+  pop:
+    ethnicity: pannonian
+    religion: druidism
+    estate: peasant
+    size: 1000
+395.1.17:
+  owner: BYZ
+  controller: BYZ
+  cores:
+    ROM: no
+    BYZ: yes
+441.1.1:
+  owner: HUNS
+  controller: HUNS
+  cores:
+    HUNS: yes
+469.1.1:
+  owner: OSTR
+  controller: OSTR
+  cores:
+    HUNS: no
+    OSTR: yes
+470.1.1:
+  pop:
+    religion: arianism
+    estate: peasant
+    size: 1000
+488.1.1:
+  owner: GEPI
+  controller: GEPI
+  cores:
+    GEPI: yes
+  pop:
+    ethnicity: gepid
+    estate: peasant
+    size: 1000
+504.1.1:
+  owner: OSTR
+  controller: OSTR
+  cores:
+    OSTR: yes
+540.1.1:
+  owner: GEPI
+  controller: GEPI
+  cores:
+    OSTR: no
+    GEPI: yes
+567.1.1:
+  owner: BYZ
+  controller: BYZ
+  cores:
+    GEPI: no
+    BYZ: yes
+582.1.1:
+  owner: AVR
+  controller: AVR
+  cores:
+    AVR: yes
+  pop:
+    ethnicity: avar_culture
+    estate: peasant
+    size: 1000
+600.1.1:
+  pop:
+    religion: 
+    estate: peasant
+    size: 1000
+620.1.1:
+  pop:
+    ethnicity: serbian
+    estate: peasant
+    size: 1000
+804.1.1:
+  owner: PANO
+  controller: PANO
+  cores:
+    AVR: no
+    PANO: yes
+845.1.1:
+  owner: BUL
+  controller: BUL
+  cores:
+    BUL: yes
+867.1.1:
+  pop:
+    religion: orthodox
+    estate: peasant
+    size: 1000
+1003.1.1:
+  owner: HUN
+  controller: HUN
+  cores:
+    BUL: no
+    HUN: yes
+1282.1.1:
+  cores:
+    SER: yes
+1514.6.1:
+  controller: HUN
+1521.12.1:
+  owner: TUR
+  controller: TUR
+  cores:
+    TUR: yes
+1598.1.1:
+  controller: TUR
+1699.1.26:
+  owner: HAB
+  controller: HAB
+  cores:
+    TUR: no
+    HAB: yes
+1739.1.1:
+  controller: HAB
+1770.1.1:
+  controller: HAB
+1918.12.1:
+  owner: YUGO
+  controller: YUGO
+  cores:
+    HAB: no
+    HUN: no
+    YUGO: yes
+    SER: yes
+1941.4.6:
+  owner: HUN
+  controller: HUN
+1944.3.1:
+  owner: GER
+  controller: GER
+1944.10.23:
+  controller: SOVI
+1945.5.8:
+  owner: YUGO
+  controller: YUGO
+1950.1.1:
+  pop:
+    ethnicity: serbian
+    estate: peasant
+    size: 1000
+2006.6.5:
+  owner: SER
+  controller: SER
+  cores:
+    YUGO: no

@@ -1,0 +1,68 @@
+#imported from EU4 file: history/provinces/2787 - Hamasien.txt
+2.1.1:
+  owner: ADUL
+  controller: ADUL
+  cores:
+    ADUL: yes
+  resource: grain
+  pop:
+    ethnicity: beja_culture
+    religion: south_arabian
+    estate: peasant
+    size: 1000
+60.1.1:
+  owner: AKSM
+  controller: AKSM
+  cores:
+    AKSM: yes
+400.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+451.11.1:
+  pop:
+    religion: miaphysite
+    estate: peasant
+    size: 1000
+702.1.1:
+  owner: BEGN
+  controller: BEGN
+  cores:
+    AKSM: no
+    BEGN: yes
+1137.1.1:
+  owner: MED
+  controller: MED
+  cores:
+    MED: yes
+1300.1.1:
+  pop:
+    ethnicity: tigrinya
+    estate: peasant
+    size: 1000
+1867.6.8:
+  owner: EGY
+  controller: EGY
+  cores:
+    EGY: yes
+1890.1.1:
+  owner: ITA
+  controller: ITA
+  cores:
+    TUR: no
+    MED: no
+    ITA: yes
+    ERIT: yes
+1941.11.27:
+  owner: ETH
+  controller: ETH
+  cores:
+    EGY: no
+    ITA: no
+1991.5.24:
+  owner: ERIT
+  controller: ERIT
+1993.5.24:
+  cores:
+    ETH: no

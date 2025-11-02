@@ -1,0 +1,162 @@
+#imported from EU4 file: history/provinces/4288 - Shatt.txt
+2.1.1:
+  owner: CHRC
+  controller: CHRC
+  cores:
+    CHRC: yes
+  resource: spices
+  pop:
+    ethnicity: iraqi_culture
+    religion: hellenism_religion
+    estate: peasant
+    size: 1000
+116.1.1:
+  pop:
+    religion: zoroastrian
+    estate: peasant
+    size: 1000
+222.1.1:
+  owner: ERA
+  controller: ERA
+  cores:
+    ERA: yes
+639.1.1:
+  owner: RASH
+  controller: RASH
+  cores:
+    ERA: no
+    RASH: yes
+  pop:
+    religion: islam
+    estate: peasant
+    size: 1000
+661.7.28:
+  owner: UMAY
+  controller: UMAY
+  cores:
+    RASH: no
+    UMAY: yes
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+750.8.6:
+  owner: ABBA
+  controller: ABBA
+  cores:
+    UMAY: no
+    ABBA: yes
+944.1.1:
+  owner: IRAQ
+  controller: IRAQ
+  cores:
+    IRAQ: yes
+978.3.1:
+  owner: IRA
+  controller: IRA
+  cores:
+    IRA: yes
+983.3.26:
+  owner: IRAQ
+  controller: IRAQ
+987.1.1:
+  owner: IRA
+  controller: IRA
+1021.1.1:
+  owner: IRAQ
+  controller: IRAQ
+1044.3.1:
+  owner: IRA
+  controller: IRA
+1048.10.1:
+  owner: IRAQ
+  controller: IRAQ
+1055.12.17:
+  owner: SELJ
+  controller: SELJ
+  cores:
+    IRA: no
+    SELJ: yes
+1153.1.1:
+  owner: ABBA
+  controller: ABBA
+  cores:
+    SELJ: no
+    ABBA: yes
+1258.2.10:
+  owner: MGE
+  controller: MGE
+  cores:
+    ABBA: no
+    MGE: yes
+    IRAQ: yes
+1260.1.1:
+  owner: ILK
+  controller: ILK
+  cores:
+    MGE: no
+    ILK: yes
+1335.1.1:
+  owner: JAL
+  controller: JAL
+  cores:
+    ILK: no
+    JAL: yes
+1380.1.1:
+  cores:
+    TIM: yes
+1432.1.1:
+  owner: QAKO
+  controller: QAKO
+  cores:
+    JAL: no
+    QAKO: yes
+1442.1.1:
+  owner: MUSH
+  controller: MUSH
+  cores:
+    QAKO: no
+    MUSH: yes
+1508.1.1:
+  owner: IRA
+  controller: IRA
+  cores:
+    AKQO: no
+    IRA: yes
+  pop:
+    religion: shia
+    estate: peasant
+    size: 1000
+1538.1.1:
+  owner: TUR
+  controller: TUR
+  cores:
+    IRA: no
+    TUR: yes
+1560.1.1:
+  owner: BASR
+  controller: BASR
+1568.1.1:
+  owner: TUR
+  controller: TUR
+1596.1.1:
+  owner: BASR
+  controller: BASR
+  cores:
+    TUR: no
+1668.1.1:
+  owner: TUR
+  controller: TUR
+  cores:
+    TUR: yes
+1920.7.24:
+  owner: GBR
+  controller: GBR
+  cores:
+    TUR: no
+    GBR: yes
+1932.10.3:
+  owner: IRAQ
+  controller: IRAQ
+  cores:
+    GBR: no

@@ -1,0 +1,30 @@
+#imported from EU4 file: history/provinces/1164 - Cameroon.txt
+2.1.1:
+  pop:
+    ethnicity: bassa_culture
+    religion: bantu_religion
+    estate: peasant
+    size: 1000
+1884.1.1:
+  owner: GER
+  controller: GER
+  cores:
+    GER: yes
+  resource: grain
+1919.6.28:
+  owner: FRA
+  controller: FRA
+  cores:
+    GER: no
+    FRA: yes
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+1960.1.1:
+  owner: CAME
+  controller: CAME
+  cores:
+    FRA: no
+    SOKO: no
+    CAME: yes

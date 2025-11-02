@@ -1,0 +1,74 @@
+#imported from EU4 file: history/provinces/626 - Karia.txt
+2.1.1:
+  pop:
+    ethnicity: javanese_culture
+    religion: hindu
+    estate: peasant
+    size: 1000
+732.1.1:
+  owner: MATA
+  controller: MATA
+  cores:
+    MATA: yes
+  resource: spices
+1019.1.1:
+  owner: KAHU
+  controller: KAHU
+  cores:
+    MATA: no
+    KAHU: yes
+1045.1.1:
+  owner: KEDI
+  controller: KEDI
+  cores:
+    KAHU: no
+    KEDI: yes
+1222.1.1:
+  owner: SING
+  controller: SING
+  cores:
+    KEDI: no
+    SING: yes
+1293.1.1:
+  owner: MAJ
+  controller: MAJ
+  cores:
+    SING: no
+    MAJ: yes
+1475.1.1:
+  owner: DEMA
+  controller: DEMA
+  cores:
+    MAJ: no
+    DEMA: yes
+1500.1.1:
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+1587.1.1:
+  owner: MATA
+  controller: MATA
+  cores:
+    DEMA: no
+    MATA: yes
+1830.1.1:
+  owner: NED
+  controller: NED
+  cores:
+    NED: yes
+1912.9.10:
+  cores:
+    MATA: no
+    INDN: yes
+1942.3.9:
+  owner: JAP
+  controller: JAP
+1945.8.15:
+  owner: NED
+1945.8.17:
+  owner: INDN
+  controller: INDN
+1949.12.27:
+  cores:
+    NED: no

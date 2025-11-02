@@ -1,0 +1,97 @@
+#imported from EU4 file: history/provinces/2976 - Umbria.txt
+2.1.1:
+  owner: ROM
+  controller: ROM
+  cores:
+    ROM: yes
+  resource: wine
+  pop:
+    ethnicity: median
+    religion: hellenism_religion
+    estate: peasant
+    size: 1000
+280.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+395.1.17:
+  owner: ROMW
+  controller: ROMW
+  cores:
+    ROM: no
+    ROMW: yes
+476.9.4:
+  owner: ITA
+  controller: ITA
+  cores:
+    ITA: yes
+    BYZ: yes
+480.1.1:
+  cores:
+    ROMW: no
+488.6.1:
+  owner: OSTR
+  controller: OSTR
+  cores:
+    ITA: no
+    OSTR: yes
+536.6.1:
+  owner: BYZ
+  controller: BYZ
+546.12.17:
+  controller: OSTR
+548.1.1:
+  controller: BYZ
+549.1.1:
+  controller: OSTR
+552.1.1:
+  controller: BYZ
+  cores:
+    OSTR: no
+754.6.1:
+  owner: PAP
+  controller: PAP
+  cores:
+    BYZ: no
+    PAP: yes
+867.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+1000.1.1:
+  cores:
+    PEA: yes
+1050.1.1:
+  owner: PEA
+  controller: PEA
+1100.1.1:
+  cores:
+    PAP: no
+1534.1.1:
+  owner: PAP
+  controller: PAP
+  cores:
+    PAP: yes
+1750.1.1:
+  cores:
+    ITA: yes
+1809.4.10:
+  controller: FRA
+1809.10.14:
+  owner: FRA
+  cores:
+    FRA: yes
+1814.4.11:
+  owner: PAP
+  controller: PAP
+  cores:
+    FRA: no
+1861.3.17:
+  cores:
+    ITA: yes
+1870.9.20:
+  controller: ITA
+1870.10.2:
+  owner: ITA

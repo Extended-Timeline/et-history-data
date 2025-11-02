@@ -1,0 +1,88 @@
+#imported from EU4 file: history/provinces/1935 - Semigallia.txt
+2.1.1:
+  pop:
+    ethnicity: latvian
+    religion: romuva
+    estate: peasant
+    size: 1000
+550.1.1:
+  owner: SEMI
+  controller: SEMI
+  cores:
+    SEMI: yes
+  resource: naval_supplies
+1290.1.1:
+  owner: LIV
+  controller: LIV
+  cores:
+    LIV: yes
+1292.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+1561.1.1:
+  owner: KUR
+  controller: KUR
+  cores:
+    LIV: no
+    KUR: yes
+  pop:
+    religion: lutheran
+    estate: peasant
+    size: 1000
+1621.10.3:
+  controller: SWE
+1622.6.25:
+  controller: KUR
+1625.9.24:
+  controller: SWE
+1629.9.16:
+  controller: KUR
+1655.8.5:
+  controller: SWE
+1656.6.15:
+  controller: KUR
+1658.9.29:
+  controller: SWE
+1659.7.23:
+  controller: KUR
+1701.7.20:
+  controller: SWE
+1705.8.25:
+  controller: KUR
+1795.10.24:
+  owner: RUS
+  controller: RUS
+  cores:
+    RUS: yes
+1915.5.7:
+  controller: GER
+1918.3.3:
+  owner: GER
+1918.11.11:
+  owner: RUS
+  controller: RUS
+  cores:
+    KUR: no
+    LATV: yes
+1918.11.18:
+  owner: LATV
+  controller: LATV
+  cores:
+    RUS: no
+1939.8.23:
+  cores:
+    SOVI: yes
+1940.6.17:
+  owner: SOVI
+  controller: SOVI
+1941.7.1:
+  controller: GER
+1945.5.9:
+  controller: SOVI
+1991.9.6:
+  owner: LATV
+  controller: LATV
+  cores:
+    SOVI: no

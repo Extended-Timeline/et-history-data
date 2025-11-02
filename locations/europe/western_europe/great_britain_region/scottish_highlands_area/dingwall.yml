@@ -1,0 +1,56 @@
+#imported from EU4 file: history/provinces/252 - Highlands.txt
+2.1.1:
+  owner: CALD
+  controller: CALD
+  cores:
+    CALD: yes
+  resource: wool
+  pop:
+    ethnicity: pictish
+    religion: druidism
+    estate: peasant
+    size: 1000
+250.1.1:
+  owner: PICT
+  controller: PICT
+  cores:
+    PICT: yes
+550.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+843.1.1:
+  owner: SCO
+  controller: SCO
+  cores:
+    PICT: no
+    SCO: yes
+867.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+880.1.1:
+  pop:
+    ethnicity: highland
+    estate: peasant
+    size: 1000
+1296.1.1:
+  controller: ENG
+1314.1.1:
+  controller: SCO
+1560.8.1:
+  pop:
+    religion: calvinist
+    estate: peasant
+    size: 1000
+1647.1.1:
+  controller: SCO
+1689.11.1:
+  controller: SCO
+1707.5.12:
+  owner: GBR
+  controller: GBR
+  cores:
+    GBR: yes

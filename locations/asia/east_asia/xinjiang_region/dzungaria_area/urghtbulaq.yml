@@ -1,0 +1,123 @@
+#imported from EU4 file: history/provinces/2119 - Chuguchak.txt
+2.1.1:
+  owner: XION
+  controller: XION
+  cores:
+    XION: yes
+  resource: fur
+  pop:
+    ethnicity: oirat_culture
+    religion: 
+    estate: peasant
+    size: 1000
+260.1.1:
+  owner: TIEL
+  controller: TIEL
+  cores:
+    XION: no
+    TIEL: yes
+400.1.1:
+  owner: ROUR
+  controller: ROUR
+  cores:
+    ROUR: yes
+460.1.1:
+  owner: UYGH
+  controller: UYGH
+  cores:
+    UYGH: yes
+487.1.1:
+  owner: TIEL
+  controller: TIEL
+  cores:
+    ROUR: no
+    TIEL: yes
+547.1.1:
+  owner: GOKT
+  controller: GOKT
+  cores:
+    TIEL: no
+    GOKT: yes
+627.1.1:
+  owner: UYGH
+  controller: UYGH
+  cores:
+    GOKT: no
+    UYGH: yes
+763.1.1:
+  pop:
+    religion: manichaeism
+    estate: peasant
+    size: 1000
+1130.1.1:
+  owner: KKHI
+  controller: KKHI
+  cores:
+    UYGH: no
+    KKHI: yes
+1140.1.1:
+  pop:
+    religion: mahayana
+    estate: peasant
+    size: 1000
+1218.1.1:
+  owner: MGE
+  controller: MGE
+  cores:
+    KKHI: no
+    MGE: yes
+1220.1.1:
+  pop:
+    religion: 
+    estate: peasant
+    size: 1000
+1260.1.1:
+  owner: CHG
+  controller: CHG
+  cores:
+    MGE: no
+    CHG: yes
+1347.1.1:
+  owner: MOGH
+  controller: MOGH
+  cores:
+    CHG: no
+    MOGH: yes
+1350.1.1:
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+1419.1.1:
+  owner: OIR
+  controller: OIR
+  cores:
+    MOGH: no
+    OIR: yes
+1635.1.1:
+  owner: ZUNG
+  controller: ZUNG
+  cores:
+    ZUNG: yes
+1755.1.1:
+  owner: QNG
+  controller: QNG
+  cores:
+    QNG: yes
+  pop:
+    ethnicity: khazak
+    estate: peasant
+    size: 1000
+1850.1.1:
+  cores:
+    OIR: no
+1912.2.12:
+  owner: CHI
+  controller: CHI
+  cores:
+    QNG: no
+    CHI: yes
+1949.10.20:
+  controller: CHI
+1955.1.1:
+  resource: oil

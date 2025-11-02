@@ -1,0 +1,61 @@
+#imported from EU4 file: history/provinces/4450 - Mayurbhanj.txt
+2.1.1:
+  owner: KALI
+  controller: KALI
+  cores:
+    KALI: yes
+  resource: iron
+  pop:
+    ethnicity: garjati
+    religion: hindu
+    estate: peasant
+    size: 1000
+150.1.1:
+  owner: KJA
+  controller: KJA
+  cores:
+    KALI: no
+    KJA: yes
+355.1.1:
+  owner: GUPT
+  controller: GUPT
+  cores:
+    GUPT: yes
+380.1.1:
+  owner: KJA
+  controller: KJA
+  cores:
+    GUPT: no
+710.1.1:
+  owner: DAKS
+  controller: DAKS
+  cores:
+    DAKS: yes
+736.1.1:
+  owner: KJA
+  controller: KJA
+  cores:
+    DAKS: no
+968.1.1:
+  owner: TOSH
+  controller: TOSH
+  cores:
+    TOSH: yes
+1118.1.1:
+  owner: KALI
+  controller: KALI
+  cores:
+    TOSH: no
+    KALI: yes
+1228.1.1:
+  owner: KJA
+  controller: KJA
+  cores:
+    KALI: no
+    KJA: yes
+1930.1.1:
+  cores:
+    INDI: yes
+1949.1.1:
+  owner: INDI
+  controller: INDI

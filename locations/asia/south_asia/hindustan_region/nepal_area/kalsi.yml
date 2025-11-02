@@ -1,0 +1,53 @@
+#imported from EU4 file: history/provinces/4493 - Sirmur.txt
+2.1.1:
+  owner: KGR
+  controller: KGR
+  cores:
+    KGR: yes
+  resource: cotton
+  pop:
+    ethnicity: garhwali
+    religion: mahayana
+    estate: peasant
+    size: 1000
+140.1.1:
+  owner: KUSH
+  controller: KUSH
+  cores:
+    KUSH: yes
+250.1.1:
+  owner: KGR
+  controller: KGR
+  cores:
+    KUSH: no
+510.1.1:
+  owner: HEPH
+  controller: HEPH
+  cores:
+    HEPH: yes
+532.1.1:
+  owner: KGR
+  controller: KGR
+  cores:
+    HEPH: no
+1003.1.1:
+  pop:
+    religion: hindu
+    estate: peasant
+    size: 1000
+1095.1.1:
+  owner: SIRM
+  controller: SIRM
+  cores:
+    KGR: no
+    SIRM: yes
+1803.1.1:
+  controller: NPL
+1804.1.1:
+  controller: SIRM
+1930.1.1:
+  cores:
+    INDI: yes
+1947.8.15:
+  owner: INDI
+  controller: INDI

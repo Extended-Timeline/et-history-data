@@ -1,0 +1,176 @@
+#imported from EU4 file: history/provinces/157 - Bihar.txt
+2.1.1:
+  owner: DACI
+  controller: DACI
+  cores:
+    DACI: yes
+  resource: naval_supplies
+  pop:
+    ethnicity: dacian
+    religion: zamolxism
+    estate: peasant
+    size: 1000
+106.1.1:
+  owner: IAZY
+  controller: IAZY
+  cores:
+    DACI: no
+    IAZY: yes
+250.1.1:
+  owner: GEPI
+  controller: GEPI
+  cores:
+    IAZY: no
+    GEPI: yes
+  pop:
+    ethnicity: gepid
+    religion: germanic
+    estate: peasant
+    size: 1000
+271.1.1:
+  owner: VISG
+  controller: VISG
+  cores:
+    VISG: yes
+  pop:
+    ethnicity: gothic
+    estate: peasant
+    size: 1000
+376.1.1:
+  owner: HUNS
+  controller: HUNS
+  cores:
+    VISG: no
+    HUNS: yes
+469.1.1:
+  owner: GEPI
+  controller: GEPI
+  cores:
+    HUNS: no
+  pop:
+    ethnicity: gepid
+    estate: peasant
+    size: 1000
+567.1.1:
+  owner: AVR
+  controller: AVR
+  cores:
+    GEPI: no
+    AVR: yes
+  pop:
+    ethnicity: avar_culture
+    religion: 
+    estate: peasant
+    size: 1000
+750.1.1:
+  pop:
+    ethnicity: wallachian
+    estate: peasant
+    size: 1000
+804.1.1:
+  owner: BUL
+  controller: BUL
+  cores:
+    AVR: no
+    BUL: yes
+840.1.1:
+  owner: TRA
+  controller: TRA
+  cores:
+    BUL: no
+    TRA: yes
+897.1.1:
+  owner: HUN
+  controller: HUN
+  cores:
+    HUN: yes
+980.1.1:
+  pop:
+    ethnicity: hungarian
+    estate: peasant
+    size: 1000
+1050.1.1:
+  pop:
+    religion: orthodox
+    estate: peasant
+    size: 1000
+1507.1.1:
+  controller: HUN
+1515.1.1:
+  controller: HUN
+1518.1.1:
+  controller: HUN
+1526.8.30:
+  owner: TRA
+  controller: TRA
+  cores:
+    HAB: yes
+    TRA: yes
+1540.1.1:
+  pop:
+    religion: calvinist
+    estate: peasant
+    size: 1000
+1551.7.19:
+  owner: HAB
+  controller: HAB
+1556.10.1:
+  owner: TRA
+  controller: TRA
+1563.1.1:
+  controller: TRA
+1567.1.1:
+  pop:
+    religion: calvinist
+    estate: peasant
+    size: 1000
+1570.1.1:
+  cores:
+    HAB: no
+1604.1.1:
+  owner: HAB
+  controller: HAB
+1606.6.23:
+  owner: TRA
+  controller: TRA
+1660.1.1:
+  owner: TUR
+  controller: TUR
+  cores:
+    TUR: yes
+1684.1.1:
+  controller: TUR
+1690.1.1:
+  owner: TRA
+  controller: TRA
+1711.1.1:
+  owner: HAB
+  controller: HAB
+  cores:
+    TUR: no
+    TRA: no
+    HAB: yes
+1918.10.31:
+  owner: HUN
+  controller: HUN
+  cores:
+    HAB: no
+    HUN: yes
+1920.6.4:
+  owner: RMN
+  controller: RMN
+  cores:
+    HUN: no
+    RMN: yes
+1940.9.1:
+  owner: HUN
+  controller: HUN
+1944.3.1:
+  owner: RMN
+  controller: RMN
+1950.1.1:
+  pop:
+    ethnicity: wallachian
+    religion: orthodox
+    estate: peasant
+    size: 1000

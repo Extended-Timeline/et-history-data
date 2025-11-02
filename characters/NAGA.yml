@@ -1,0 +1,87 @@
+naga_firuz_khan_dandani:
+  1358.1.1:
+    birth: nagaur #TODO: Date and location guessed, check if better data is available
+    first_name: firuz_khan
+    dynasty: dandani_dynasty
+    adm: 0
+    dip: 15
+    mil: 30
+    religion: sunni
+    culture: marwari
+  1428.1.1:
+    death: yes
+naga_qiyam_khan_dandani:
+  1399.1.1:
+    birth: nagaur #TODO: Date and location guessed, check if better data is available
+    first_name: qiyam_khan
+    dynasty: dandani_dynasty
+    father: naga_firuz_khan_dandani #TODO: check if this makes sense
+    adm: 15
+    dip: 0
+    mil: 30
+    religion: sunni
+    culture: marwari
+  1453.1.1:
+    death: yes
+naga_qiyam_khan_dandani_1:
+  1398.1.1:
+    birth: nagaur #TODO: Date and location guessed, check if better data is available
+    first_name: qiyam_khan
+    dynasty: dandani_dynasty
+    adm: 15
+    dip: 0
+    mil: 30
+    religion: sunni
+    culture: marwari
+  1453.1.1:
+    death: yes
+naga_shams_khan_dandani:
+  1410.1.1:
+    birth: nagaur #TODO: Date and location guessed, check if better data is available
+    first_name: shams_khan
+    dynasty: dandani_dynasty
+    father: naga_qiyam_khan_dandani_1 #TODO: check if this makes sense
+    adm: 0
+    dip: 15
+    mil: 30
+    religion: sunni
+    culture: marwari
+  1500.1.1:
+    death: yes
+naga_shams_khan_dandani_1:
+  1423.1.1:
+    birth: nagaur #TODO: Date and location guessed, check if better data is available
+    first_name: shams_khan
+    dynasty: dandani_dynasty
+    adm: 0
+    dip: 15
+    mil: 30
+    religion: sunni
+    culture: marwari
+  1500.1.1:
+    death: yes
+naga_muhammad_khan_dandani:
+  1410.1.1:
+    birth: nagaur #TODO: Date and location guessed, check if better data is available
+    first_name: muhammad_khan
+    dynasty: dandani_dynasty
+    father: naga_shams_khan_dandani_1 #TODO: check if this makes sense
+    adm: 0
+    dip: 15
+    mil: 15
+    religion: sunni
+    culture: marwari
+  1513.1.1:
+    death: yes
+naga_muhammad_khan_dandani_1:
+  1470.1.1:
+    birth: nagaur #TODO: Date and location guessed, check if better data is available
+    first_name: muhammad_khan
+    dynasty: dandani_dynasty
+    adm: 0
+    dip: 15
+    mil: 15
+    religion: sunni
+    culture: marwari
+  3000.1.1:
+    death: yes

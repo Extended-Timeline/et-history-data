@@ -1,0 +1,47 @@
+#imported from EU4 file: history/provinces/2784 - Mayertern.txt
+2.1.1:
+  pop:
+    ethnicity: somali_culture
+    religion: bantu_religion
+    estate: peasant
+    size: 1000
+1100.1.1:
+  owner: MARH
+  controller: MARH
+  cores:
+    MARH: yes
+  resource: livestock
+1150.1.1:
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+1526.1.1:
+  owner: ADA
+  controller: ADA
+1555.1.1:
+  owner: MARH
+  controller: MARH
+1650.1.1:
+  owner: MAJE
+  controller: MAJE
+  cores:
+    MARH: no
+1878.1.1:
+  owner: HOBY
+  controller: HOBY
+  cores:
+    MAJE: no
+    HOBY: yes
+1925.12.26:
+  owner: ITA
+  controller: ITA
+  cores:
+    ITA: yes
+1960.7.1:
+  owner: SOMA
+  controller: SOMA
+  cores:
+    ITA: no
+    HOBY: no
+    SOMA: yes

@@ -1,0 +1,178 @@
+#imported from EU4 file: history/provinces/286 - Azow.txt
+2.1.1:
+  owner: BOSP
+  controller: BOSP
+  cores:
+    BOSP: yes
+    ROM: yes
+  resource: slaves
+  pop:
+    ethnicity: pontic_greek_culture
+    religion: hellenism_religion
+    estate: peasant
+    size: 1000
+250.1.1:
+  owner: OSTR
+  controller: OSTR
+  cores:
+    BOSP: no
+    ROM: no
+    OSTR: yes
+300.1.1:
+  pop:
+    ethnicity: gothic
+    religion: germanic
+    estate: peasant
+    size: 1000
+370.1.1:
+  owner: HUNS
+  controller: HUNS
+  cores:
+    OSTR: no
+    HUNS: yes
+  pop:
+    religion: 
+    estate: peasant
+    size: 1000
+420.1.1:
+  cores:
+    UTIG: yes
+  pop:
+    ethnicity: bolghar_culture
+    estate: peasant
+    size: 1000
+469.1.1:
+  owner: UTIG
+  controller: UTIG
+  cores:
+    HUNS: no
+632.1.1:
+  owner: BUL
+  controller: BUL
+  cores:
+    UTIG: no
+    BUL: yes
+720.1.1:
+  owner: HUN
+  controller: HUN
+  cores:
+    BUL: no
+    HUN: yes
+750.1.1:
+  owner: KHAZ
+  controller: KHAZ
+  cores:
+    HUN: no
+    KHAZ: yes
+  pop:
+    ethnicity: khazar
+    estate: peasant
+    size: 1000
+969.1.1:
+  owner: PECH
+  controller: PECH
+  cores:
+    KHAZ: no
+    PECH: yes
+  pop:
+    ethnicity: cuman_culture
+    estate: peasant
+    size: 1000
+1060.1.1:
+  owner: CUMA
+  controller: CUMA
+  cores:
+    PECH: no
+    CUMA: yes
+    ZAZ: yes
+1237.1.1:
+  owner: MGE
+  controller: MGE
+  cores:
+    CUMA: no
+    MGE: yes
+  pop:
+    ethnicity: crimean
+    estate: peasant
+    size: 1000
+1240.1.1:
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+1260.1.1:
+  owner: WHHO
+  controller: WHHO
+  cores:
+    MGE: no
+    WHHO: yes
+1266.1.1:
+  owner: GEN
+  controller: GEN
+  cores:
+    WHHO: no
+    GEN: yes
+1471.1.1:
+  owner: TUR
+  controller: TUR
+  cores:
+    GEN: no
+    TUR: yes
+1637.6.1:
+  owner: ZAZ
+  controller: ZAZ
+  cores:
+    ZAZ: yes
+1642.1.1:
+  owner: TUR
+  controller: TUR
+1696.7.19:
+  controller: RUS
+1700.6.13:
+  owner: RUS
+  cores:
+    RUS: yes
+1713.6.24:
+  owner: TUR
+  controller: TUR
+  cores:
+    RUS: no
+1736.6.30:
+  controller: RUS
+1739.9.29:
+  owner: RUS
+  cores:
+    TUR: no
+    RUS: yes
+1760.1.1:
+  resource: salt
+1840.1.1:
+  pop:
+    religion: orthodox
+    estate: peasant
+    size: 1000
+1860.1.1:
+  pop:
+    ethnicity: muscovite
+    estate: peasant
+    size: 1000
+1922.12.30:
+  owner: SOVI
+  controller: SOVI
+  cores:
+    RUS: no
+    SOVI: yes
+1941.11.21:
+  controller: GER
+1941.11.28:
+  controller: SOVI
+1942.7.24:
+  controller: GER
+1943.2.14:
+  controller: SOVI
+1991.12.25:
+  owner: RUS
+  controller: RUS
+  cores:
+    SOVI: no
+    RUS: yes

@@ -1,0 +1,96 @@
+#imported from EU4 file: history/provinces/2969 - Sternberg.txt
+2.1.1:
+  owner: BUR
+  controller: BUR
+  cores:
+    BUR: yes
+  resource: cloth
+  pop:
+    ethnicity: burgundione
+    religion: germanic
+    estate: peasant
+    size: 1000
+395.1.1:
+  owner: VELE
+  controller: VELE
+  cores:
+    BUR: no
+    VELE: yes
+  pop:
+    ethnicity: polabian
+    religion: slavic
+    estate: peasant
+    size: 1000
+920.1.1:
+  owner: POM
+  controller: POM
+  cores:
+    VELE: no
+    POM: yes
+950.1.1:
+  owner: POL
+  controller: POL
+  cores:
+    POM: no
+    POL: yes
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+1138.10.28:
+  owner: GPOL
+  controller: GPOL
+  cores:
+    GPOL: yes
+1252.1.1:
+  owner: BRA
+  controller: BRA
+  cores:
+    POL: no
+    BRA: yes
+1260.1.1:
+  pop:
+    ethnicity: saxon
+    estate: peasant
+    size: 1000
+1539.1.1:
+  pop:
+    religion: lutheran
+    estate: peasant
+    size: 1000
+1650.1.1:
+  pop:
+    ethnicity: prussian
+    estate: peasant
+    size: 1000
+1701.1.18:
+  owner: PRU
+  controller: PRU
+  cores:
+    BRA: no
+    PRU: yes
+1806.10.27:
+  controller: FRA
+1807.7.9:
+  controller: PRU
+1871.1.18:
+  owner: GER
+  controller: GER
+  cores:
+    GER: yes
+1900.1.1:
+  cores:
+    PRU: no
+1945.1.30:
+  controller: SOVI
+1945.5.8:
+  owner: POL
+  controller: POL
+  cores:
+    GER: no
+    POL: yes
+  pop:
+    ethnicity: lesser_polish
+    religion: catholic
+    estate: peasant
+    size: 1000

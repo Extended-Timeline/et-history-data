@@ -1,0 +1,127 @@
+#imported from EU4 file: history/provinces/545 - Marathwada.txt
+2.1.1:
+  owner: SATA
+  controller: SATA
+  cores:
+    SATA: yes
+  resource: grain
+  pop:
+    ethnicity: marathi_culture
+    religion: mahayana
+    estate: peasant
+    size: 1000
+220.1.1:
+  owner: ABHI
+  controller: ABHI
+  cores:
+    SATA: no
+    ABHI: yes
+  pop:
+    religion: hindu
+    estate: peasant
+    size: 1000
+250.1.1:
+  owner: VAKA
+  controller: VAKA
+  cores:
+    ABHI: no
+    VAKA: yes
+500.1.1:
+  owner: KALC
+  controller: KALC
+  cores:
+    VAKA: no
+    KALC: yes
+  pop:
+    religion: jain
+    estate: peasant
+    size: 1000
+620.1.1:
+  owner: CHAL
+  controller: CHAL
+  cores:
+    KALC: no
+    CHAL: yes
+700.1.1:
+  resource: paper
+753.1.1:
+  owner: RAST
+  controller: RAST
+  cores:
+    CHAL: no
+    RAST: yes
+973.1.1:
+  owner: CHAL
+  controller: CHAL
+  cores:
+    RAST: no
+    CHAL: yes
+1189.1.1:
+  owner: YADA
+  controller: YADA
+  cores:
+    CHAL: no
+    YADA: yes
+1190.1.1:
+  pop:
+    religion: hindu
+    estate: peasant
+    size: 1000
+1317.1.1:
+  owner: DLH
+  controller: DLH
+  cores:
+    YADA: no
+    DLH: yes
+1347.1.1:
+  owner: BAH
+  controller: BAH
+  cores:
+    DLH: no
+    BAH: yes
+1490.1.1:
+  owner: AHMA
+  controller: AHMA
+  cores:
+    BAH: no
+1595.1.1:
+  controller: MUG
+1596.1.1:
+  owner: MUG
+  cores:
+    MUG: yes
+1615.1.1:
+  controller: AHMA
+1622.1.1:
+  controller: MUG
+1622.8.15:
+  controller: MUG
+1650.1.1:
+  cores:
+    MHR: yes
+1658.6.8:
+  controller: MUG
+1712.1.1:
+  cores:
+    DEC: yes
+1724.1.1:
+  owner: DEC
+  controller: DEC
+  cores:
+    MUG: no
+1760.1.1:
+  owner: MHR
+  controller: MHR
+1804.1.1:
+  owner: DEC
+  controller: DEC
+  cores:
+    MHR: no
+1930.1.1:
+  cores:
+    INDI: yes
+1948.9.1:
+  owner: INDI
+  controller: INDI
+  cores:
+    DEC: no

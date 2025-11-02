@@ -1,0 +1,129 @@
+#imported from EU4 file: history/provinces/355 - Sirt.txt
+2.1.1:
+  owner: ROM
+  controller: ROM
+  cores:
+    ROM: yes
+  resource: fish
+  pop:
+    ethnicity: eastern_amazigh
+    religion: bantu_religion
+    estate: peasant
+    size: 1000
+350.1.1:
+  owner: LAGU
+  controller: LAGU
+  cores:
+    ROM: no
+    LAGU: yes
+547.1.1:
+  owner: BYZ
+  controller: BYZ
+  cores:
+    BYZ: yes
+650.1.1:
+  owner: RASH
+  controller: RASH
+  cores:
+    BYZ: no
+    RASH: yes
+661.7.28:
+  owner: UMAY
+  controller: UMAY
+  cores:
+    RASH: no
+    UMAY: yes
+720.1.1:
+  pop:
+    ethnicity: tunisian
+    religion: sunni
+    estate: peasant
+    size: 1000
+745.1.1:
+  owner: TUN
+  controller: TUN
+  cores:
+    UMAY: no
+    TUN: yes
+757.6.1:
+  owner: ABBA
+  controller: ABBA
+  cores:
+    ABBA: yes
+868.9.15:
+  owner: EGY
+  controller: EGY
+  cores:
+    ABBA: no
+    EGY: yes
+905.1.10:
+  owner: ABBA
+  controller: ABBA
+  cores:
+    EGY: no
+    ABBA: yes
+909.1.1:
+  owner: FATI
+  controller: FATI
+  cores:
+    ABBA: no
+    FATI: yes
+973.1.1:
+  owner: TUN
+  controller: TUN
+  cores:
+    FATI: no
+    TUN: yes
+1027.1.1:
+  owner: TRP
+  controller: TRP
+  cores:
+    TUN: no
+    TRP: yes
+1051.1.1:
+  owner: CYRE
+  controller: CYRE
+  cores:
+    CYRE: yes
+1173.1.1:
+  owner: MAM
+  controller: MAM
+  cores:
+    MAM: yes
+1212.1.1:
+  owner: EGY
+  controller: EGY
+  cores:
+    MAM: no
+    EGY: yes
+1240.1.1:
+  owner: FZA
+  controller: FZA
+  cores:
+    EGY: no
+    FZA: yes
+1558.1.1:
+  owner: TRP
+  controller: TRP
+1835.5.26:
+  owner: TUR
+  controller: TUR
+  cores:
+    TUR: yes
+1912.10.18:
+  owner: ITA
+  controller: ITA
+  cores:
+    TUR: no
+    ITA: yes
+    LIBY: yes
+1943.9.8:
+  owner: GBR
+  controller: GBR
+  cores:
+    ITA: no
+1951.12.24:
+  owner: LIBY
+  controller: LIBY
+1961.1.1:
+  resource: oil

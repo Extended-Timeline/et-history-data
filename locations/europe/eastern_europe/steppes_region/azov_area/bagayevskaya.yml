@@ -1,0 +1,148 @@
+#imported from EU4 file: history/provinces/2414 - Azaraba.txt
+2.1.1:
+  owner: SIRA
+  controller: SIRA
+  cores:
+    SIRA: yes
+  resource: livestock
+  pop:
+    ethnicity: alan_culture
+    religion: 
+    estate: peasant
+    size: 1000
+200.1.1:
+  owner: ALN
+  controller: ALN
+  cores:
+    SIRA: no
+    ALN: yes
+370.1.1:
+  owner: HUNS
+  controller: HUNS
+  cores:
+    ALN: no
+    HUNS: yes
+420.1.1:
+  cores:
+    UTIG: yes
+  pop:
+    ethnicity: bolghar_culture
+    estate: peasant
+    size: 1000
+469.1.1:
+  owner: UTIG
+  controller: UTIG
+  cores:
+    HUNS: no
+632.1.1:
+  owner: BUL
+  controller: BUL
+  cores:
+    UTIG: no
+    BUL: yes
+720.1.1:
+  owner: KHAZ
+  controller: KHAZ
+  cores:
+    BUL: no
+    KHAZ: yes
+  pop:
+    ethnicity: khazar
+    estate: peasant
+    size: 1000
+1048.1.1:
+  owner: PECH
+  controller: PECH
+  cores:
+    KHAZ: no
+    PECH: yes
+1060.1.1:
+  owner: CUMA
+  controller: CUMA
+  cores:
+    PECH: no
+    CUMA: yes
+1220.1.1:
+  pop:
+    ethnicity: crimean
+    estate: peasant
+    size: 1000
+1237.1.1:
+  owner: MGE
+  controller: MGE
+  cores:
+    CUMA: no
+    MGE: yes
+    CRIM: yes
+1260.1.1:
+  owner: WHHO
+  controller: WHHO
+  cores:
+    MGE: no
+    WHHO: yes
+1300.1.1:
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+1372.1.1:
+  owner: BLHO
+  controller: BLHO
+  cores:
+    BLHO: yes
+1374.1.1:
+  owner: WHHO
+  controller: WHHO
+  cores:
+    BLHO: no
+1378.1.1:
+  owner: GLH
+  controller: GLH
+  cores:
+    GLH: yes
+1441.1.1:
+  owner: CRIM
+  controller: CRIM
+  cores:
+    CRIM: yes
+1478.6.1:
+  cores:
+    TUR: yes
+1774.7.21:
+  owner: RUS
+  controller: RUS
+  cores:
+    TUR: no
+    RUS: yes
+1780.1.1:
+  pop:
+    ethnicity: muscovite
+    religion: orthodox
+    estate: peasant
+    size: 1000
+1918.2.20:
+  owner: UKR
+  controller: UKR
+  cores:
+    UKR: yes
+1919.11.7:
+  owner: RUS
+  controller: RUS
+  cores:
+    UKR: no
+1922.12.30:
+  owner: SOVI
+  controller: SOVI
+  cores:
+    RUS: no
+    SOVI: yes
+1942.7.24:
+  controller: GER
+1943.2.13:
+  controller: SOVI
+1991.12.25:
+  owner: RUS
+  controller: RUS
+  cores:
+    SOVI: no
+    RUS: yes

@@ -1,0 +1,123 @@
+#imported from EU4 file: history/provinces/4238 - Leignitz.txt
+2.1.1:
+  owner: NAHA
+  controller: NAHA
+  cores:
+    NAHA: yes
+  resource: copper
+  pop:
+    ethnicity: vandal
+    religion: germanic
+    estate: peasant
+    size: 1000
+250.1.1:
+  owner: VAND
+  controller: VAND
+  cores:
+    NAHA: no
+    VAND: yes
+395.1.1:
+  owner: NAHA
+  controller: NAHA
+  cores:
+    VAND: no
+    NAHA: yes
+500.1.1:
+  owner: SIL
+  controller: SIL
+  cores:
+    NAHA: no
+    SIL: yes
+  pop:
+    ethnicity: silesian
+    religion: slavic
+    estate: peasant
+    size: 1000
+940.1.1:
+  owner: BOH
+  controller: BOH
+  cores:
+    BOH: yes
+980.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+990.1.1:
+  owner: POL
+  controller: POL
+  cores:
+    BOH: no
+    POL: yes
+1039.1.1:
+  owner: BOH
+  controller: BOH
+  cores:
+    BOH: yes
+1054.1.1:
+  owner: POL
+  controller: POL
+1163.1.1:
+  owner: SIL
+  controller: SIL
+  cores:
+    SIL: yes
+1232.1.1:
+  owner: POL
+  controller: POL
+1241.4.9:
+  owner: LGC
+  controller: LGC
+  cores:
+    LGC: yes
+1250.1.1:
+  resource: glass
+1260.1.1:
+  pop:
+    ethnicity: german_silesian
+    estate: peasant
+    size: 1000
+1449.10.31:
+  owner: BOH
+  controller: BOH
+  cores:
+    BOH: yes
+1454.1.1:
+  owner: LGC
+  controller: LGC
+  cores:
+    BOH: no
+1675.11.21:
+  owner: HAB
+  controller: HAB
+  cores:
+    HAB: yes
+1742.1.1:
+  owner: PRU
+  controller: PRU
+  cores:
+    PRU: yes
+1763.1.1:
+  cores:
+    HAB: no
+1871.1.18:
+  owner: GER
+  controller: GER
+  cores:
+    GER: yes
+1900.1.1:
+  cores:
+    PRU: no
+1945.4.30:
+  controller: SOVI
+1945.5.8:
+  owner: POL
+  controller: POL
+  cores:
+    GER: no
+    POL: yes
+  pop:
+    ethnicity: lesser_polish
+    religion: catholic
+    estate: peasant
+    size: 1000

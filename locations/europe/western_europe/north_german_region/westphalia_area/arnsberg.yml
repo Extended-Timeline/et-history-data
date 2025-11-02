@@ -1,0 +1,134 @@
+#imported from EU4 file: history/provinces/82 - Lippe.txt
+2.1.1:
+  owner: CHTT
+  controller: CHTT
+  cores:
+    CHTT: yes
+  resource: wool
+  pop:
+    ethnicity: rhine_franconian
+    religion: germanic
+    estate: peasant
+    size: 1000
+480.1.1:
+  owner: ANGR
+  controller: ANGR
+  cores:
+    CHTT: no
+    ANGR: yes
+  pop:
+    ethnicity: eastphalian
+    estate: peasant
+    size: 1000
+600.1.1:
+  pop:
+    ethnicity: eastphalian
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+695.1.1:
+  owner: SAX
+  controller: SAX
+  cores:
+    ANGR: no
+    SAX: yes
+804.1.1:
+  owner: FRAN
+  controller: FRAN
+  cores:
+    FRAN: yes
+840.6.21:
+  owner: EFRA
+  controller: EFRA
+  cores:
+    FRAN: no
+    EFRA: yes
+867.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+911.11.10:
+  owner: SAX
+  controller: SAX
+  cores:
+    EFRA: no
+1102.1.1:
+  owner: KOL
+  controller: KOL
+  cores:
+    SAX: no
+    KOL: yes
+1453.1.1:
+  cores:
+    MUN: yes
+1566.1.1:
+  pop:
+    religion: calvinist
+    estate: peasant
+    size: 1000
+1568.1.1:
+  owner: MUN
+  controller: MUN
+1574.1.1:
+  owner: KOL
+  controller: KOL
+1585.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+1661.1.1:
+  owner: MUN
+  controller: MUN
+1724.1.1:
+  owner: KOL
+  controller: KOL
+1802.1.1:
+  owner: HAN
+  controller: HAN
+  cores:
+    HAN: yes
+1805.12.15:
+  owner: PRU
+  controller: PRU
+  cores:
+    HAN: no
+    PRU: yes
+1807.7.9:
+  owner: WES
+  controller: WES
+  cores:
+    PRU: no
+    WES: yes
+1813.10.13:
+  owner: HAN
+  controller: HAN
+  cores:
+    WES: no
+1814.4.11:
+  owner: PRU
+  controller: PRU
+  cores:
+    PRU: yes
+1871.1.18:
+  owner: GER
+  controller: GER
+  cores:
+    PRU: no
+    GER: yes
+1900.1.1:
+  cores:
+    KOL: no
+1944.4.1:
+  controller: USA
+1945.5.8:
+  owner: WGER
+  controller: WGER
+  cores:
+    WGER: yes
+1990.10.3:
+  owner: GER
+  controller: GER
+  cores:
+    WGER: no

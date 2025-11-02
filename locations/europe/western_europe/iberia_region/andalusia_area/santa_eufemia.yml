@@ -1,0 +1,133 @@
+#imported from EU4 file: history/provinces/225 - Cordoba.txt
+2.1.1:
+  owner: ROM
+  controller: ROM
+  cores:
+    ROM: yes
+  resource: wool
+  pop:
+    ethnicity: turduli
+    religion: druidism
+    estate: peasant
+    size: 1000
+340.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+395.1.17:
+  owner: ROMW
+  controller: ROMW
+  cores:
+    ROM: no
+    ROMW: yes
+409.1.1:
+  owner: VAND
+  controller: VAND
+  cores:
+    VAND: yes
+425.1.1:
+  owner: ROMW
+  controller: ROMW
+  cores:
+    VAND: no
+430.1.1:
+  pop:
+    religion: arianism
+    estate: peasant
+    size: 1000
+440.1.1:
+  owner: SUEB
+  controller: SUEB
+  cores:
+    SUEB: yes
+456.1.1:
+  owner: VISG
+  controller: VISG
+  cores:
+    SUEB: no
+    VISG: yes
+458.10.1:
+  owner: ROMW
+  controller: ROMW
+461.8.2:
+  owner: VISG
+  controller: VISG
+  cores:
+    ROMW: no
+552.1.1:
+  owner: BYZ
+  controller: BYZ
+  cores:
+    BYZ: yes
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+570.1.1:
+  owner: VISG
+  controller: VISG
+  cores:
+    BYZ: no
+711.1.1:
+  owner: UMAY
+  controller: UMAY
+  cores:
+    VISG: no
+    UMAY: yes
+740.1.1:
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+750.1.1:
+  pop:
+    ethnicity: andalusi
+    estate: peasant
+    size: 1000
+750.8.6:
+  owner: CRDB
+  controller: CRDB
+  cores:
+    UMAY: no
+    CRDB: yes
+1070.1.1:
+  owner: SEVI
+  controller: SEVI
+  cores:
+    SEVI: yes
+1091.1.1:
+  owner: MOR
+  controller: MOR
+  cores:
+    SEVI: no
+    MOR: yes
+1236.6.29:
+  owner: CAS
+  controller: CAS
+  cores:
+    MOR: no
+    CRDB: no
+    CAS: yes
+1280.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+1516.1.23:
+  owner: SPA
+  controller: SPA
+  cores:
+    SPA: yes
+1610.1.12:
+  pop:
+    ethnicity: castilian
+    estate: peasant
+    size: 1000
+1713.4.11:
+  cores:
+    CAS: no
+1811.1.1:
+  controller: SPA
+1813.12.11:
+  controller: SPA

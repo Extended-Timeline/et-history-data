@@ -1,0 +1,95 @@
+#imported from EU4 file: history/provinces/1131 - Massina.txt
+2.1.1:
+  pop:
+    ethnicity: bambara
+    religion: bantu_religion
+    estate: peasant
+    size: 1000
+350.1.1:
+  owner: GHAN
+  controller: GHAN
+  cores:
+    GHAN: yes
+  resource: grain
+1077.1.1:
+  owner: ZAFU
+  controller: ZAFU
+  cores:
+    ZAFU: yes
+1121.1.1:
+  owner: GHAN
+  controller: GHAN
+  cores:
+    ZAFU: no
+1240.1.1:
+  owner: MAL
+  controller: MAL
+  cores:
+    GHAN: no
+    MAL: yes
+1389.1.1:
+  owner: ZAFU
+  controller: ZAFU
+  cores:
+    MAL: no
+    ZAFU: yes
+1471.1.1:
+  owner: SON
+  controller: SON
+  cores:
+    SON: yes
+1591.3.15:
+  owner: ZAFU
+  controller: ZAFU
+1600.1.1:
+  cores:
+    MAL: no
+1642.1.1:
+  cores:
+    SON: no
+1660.1.1:
+  owner: SEGU
+  controller: SEGU
+  cores:
+    SEGU: yes
+1720.1.1:
+  controller: SEGU
+1819.1.1:
+  owner: ZAFU
+  controller: ZAFU
+  cores:
+    SEGU: no
+    ZAFU: yes
+1862.3.16:
+  owner: SEGU
+  controller: SEGU
+  cores:
+    ZAFU: no
+    SEGU: yes
+1870.1.1:
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+1890.1.1:
+  owner: FRA
+  controller: FRA
+  cores:
+    FRA: yes
+1940.6.14:
+  owner: VFRA
+  controller: VFRA
+  cores:
+    VFRA: yes
+1942.11.16:
+  owner: FRA
+  controller: FRA
+  cores:
+    VFRA: no
+1960.6.20:
+  owner: MAL
+  controller: MAL
+  cores:
+    FRA: no
+    SEGU: no
+    MAL: yes

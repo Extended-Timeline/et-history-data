@@ -1,0 +1,203 @@
+#imported from EU4 file: history/provinces/445 - Marv.txt
+2.1.1:
+  owner: PART
+  controller: PART
+  cores:
+    PART: yes
+  resource: cotton
+  pop:
+    ethnicity: parthian
+    religion: zoroastrian
+    estate: peasant
+    size: 1000
+180.1.1:
+  owner: KUSH
+  controller: KUSH
+  cores:
+    KUSH: yes
+225.1.1:
+  owner: ERA
+  controller: ERA
+  cores:
+    KUSH: no
+    ERA: yes
+424.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+431.7.1:
+  pop:
+    religion: nestorianism
+    estate: peasant
+    size: 1000
+484.1.1:
+  owner: HEPH
+  controller: HEPH
+  cores:
+    HEPH: yes
+512.1.1:
+  owner: ERA
+  controller: ERA
+  cores:
+    HEPH: no
+647.1.1:
+  owner: RASH
+  controller: RASH
+  cores:
+    ERA: no
+    RASH: yes
+650.1.1:
+  pop:
+    ethnicity: khorasani_culture
+    estate: peasant
+    size: 1000
+661.7.28:
+  owner: UMAY
+  controller: UMAY
+  cores:
+    RASH: no
+    UMAY: yes
+750.8.6:
+  owner: ABBA
+  controller: ABBA
+  cores:
+    UMAY: no
+    ABBA: yes
+770.1.1:
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+819.1.1:
+  owner: KRT
+  controller: KRT
+  cores:
+    ABBA: no
+    KRT: yes
+870.1.1:
+  owner: SIST
+  controller: SIST
+  cores:
+    SIST: yes
+900.1.1:
+  owner: BUKH
+  controller: BUKH
+  cores:
+    SIST: no
+    BUKH: yes
+998.1.1:
+  owner: GHAZ
+  controller: GHAZ
+  cores:
+    BUKH: no
+    GHAZ: yes
+1020.1.1:
+  pop:
+    ethnicity: turkmen_culture
+    estate: peasant
+    size: 1000
+1037.1.1:
+  owner: SELJ
+  controller: SELJ
+  cores:
+    GHAZ: no
+    SELJ: yes
+1153.1.1:
+  owner: KHWA
+  controller: KHWA
+  cores:
+    SELJ: no
+    KHWA: yes
+1221.1.1:
+  owner: MGE
+  controller: MGE
+  cores:
+    KHWA: no
+    MGE: yes
+1260.1.1:
+  owner: ILK
+  controller: ILK
+  cores:
+    MGE: no
+    ILK: yes
+1335.1.1:
+  owner: KRT
+  controller: KRT
+  cores:
+    ILK: no
+    KRT: yes
+1380.1.1:
+  owner: TIM
+  controller: TIM
+  cores:
+    KRT: no
+    TIM: yes
+1409.5.13:
+  owner: TRAN
+  controller: TRAN
+  cores:
+    TRAN: yes
+1448.3.1:
+  owner: TIM
+  controller: TIM
+  cores:
+    TRAN: no
+1502.1.1:
+  owner: KHOR
+  controller: KHOR
+  cores:
+    TIM: no
+1505.1.1:
+  controller: BUKH
+1506.1.1:
+  owner: BUKH
+  cores:
+    KHOR: no
+    BUKH: yes
+  pop:
+    ethnicity: uzbek_culture
+    estate: peasant
+    size: 1000
+1510.12.2:
+  owner: IRA
+  controller: IRA
+  cores:
+    IRA: yes
+1700.1.1:
+  pop:
+    ethnicity: turkmen_culture
+    estate: peasant
+    size: 1000
+1750.1.2:
+  owner: KHOR
+  controller: KHOR
+  cores:
+    KHOR: yes
+1785.1.1:
+  owner: BUKH
+  controller: BUKH
+  cores:
+    IRA: no
+    KHOR: no
+1884.1.1:
+  owner: RUS
+  controller: RUS
+  cores:
+    RUS: yes
+1922.12.30:
+  owner: SOVI
+  controller: SOVI
+  cores:
+    RUS: no
+    SOVI: yes
+1924.10.27:
+  cores:
+    BUKH: no
+    TUKM: yes
+1991.10.27:
+  owner: TUKM
+  controller: TUKM
+  cores:
+    SOVI: no
+    RUS: no

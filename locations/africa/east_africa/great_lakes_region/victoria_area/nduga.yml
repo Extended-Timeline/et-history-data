@@ -1,0 +1,34 @@
+#imported from EU4 file: history/provinces/4067 - Rwanda.txt
+2.1.1:
+  pop:
+    ethnicity: rwanda_culture
+    religion: bantu_religion
+    estate: peasant
+    size: 1000
+1081.1.1:
+  owner: RWA
+  controller: RWA
+  cores:
+    RWA: yes
+  resource: iron
+1896.11.1:
+  owner: GER
+  controller: GER
+  cores:
+    GER: yes
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+1919.6.28:
+  owner: BEL
+  controller: BEL
+  cores:
+    GER: no
+    BEL: yes
+1962.7.1:
+  owner: RWA
+  controller: RWA
+  cores:
+    BEL: no
+    RWA: yes

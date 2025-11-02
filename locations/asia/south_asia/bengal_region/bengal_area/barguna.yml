@@ -1,0 +1,99 @@
+#imported from EU4 file: history/provinces/2039 - Sunderbans.txt
+2.1.1:
+  owner: VANG
+  controller: VANG
+  cores:
+    VANG: yes
+  resource: grain
+  pop:
+    ethnicity: bengali
+    religion: mahayana
+    estate: peasant
+    size: 1000
+355.1.1:
+  owner: GUPT
+  controller: GUPT
+  cores:
+    GUPT: yes
+525.1.1:
+  owner: VANG
+  controller: VANG
+  cores:
+    GUPT: no
+    VANG: yes
+750.1.1:
+  owner: SAMT
+  controller: SAMT
+  cores:
+    VANG: no
+    SAMT: yes
+1150.1.1:
+  owner: GAUD
+  controller: GAUD
+  cores:
+    SAMT: no
+    GAUD: yes
+1200.1.1:
+  pop:
+    religion: hindu
+    estate: peasant
+    size: 1000
+1230.1.1:
+  owner: SAMT
+  controller: SAMT
+  cores:
+    GAUD: no
+    SAMT: yes
+1305.1.1:
+  owner: BNG
+  controller: BNG
+  cores:
+    BNG: yes
+1324.1.1:
+  owner: DLH
+  controller: DLH
+  cores:
+    DLH: yes
+1338.1.1:
+  owner: BNG
+  controller: BNG
+  cores:
+    DLH: no
+1560.1.1:
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+1576.7.12:
+  owner: MUG
+  controller: MUG
+  cores:
+    MUG: yes
+1624.1.1:
+  controller: MUG
+1658.12.28:
+  controller: MUG
+1707.3.15:
+  owner: BNG
+  controller: BNG
+1760.1.1:
+  owner: GBR
+  controller: GBR
+  cores:
+    MUG: no
+    GBR: yes
+1930.12.29:
+  cores:
+    BNG: no
+    PAKI: yes
+    BANG: yes
+1947.8.14:
+  owner: PAKI
+  controller: PAKI
+  cores:
+    GBR: no
+1971.3.26:
+  owner: BANG
+  controller: BANG
+  cores:
+    PAKI: no

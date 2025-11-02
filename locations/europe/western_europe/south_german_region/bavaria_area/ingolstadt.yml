@@ -1,0 +1,96 @@
+#imported from EU4 file: history/provinces/2955 - Ingolstadt.txt
+2.1.1:
+  owner: VARI
+  controller: VARI
+  cores:
+    VARI: yes
+  resource: wine
+  pop:
+    ethnicity: swabian
+    religion: germanic
+    estate: peasant
+    size: 1000
+380.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+417.1.1:
+  owner: BAV
+  controller: BAV
+  cores:
+    VARI: no
+    BAV: yes
+  pop:
+    ethnicity: southern_bavarian
+    estate: peasant
+    size: 1000
+788.1.1:
+  owner: FRAN
+  controller: FRAN
+  cores:
+    BAV: no
+    FRAN: yes
+817.1.1:
+  owner: BAV
+  controller: BAV
+  cores:
+    FRAN: no
+    BAV: yes
+867.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+880.3.22:
+  owner: EFRA
+  controller: EFRA
+  cores:
+    EFRA: yes
+911.11.10:
+  owner: BAV
+  controller: BAV
+  cores:
+    EFRA: no
+    BAV: yes
+1392.1.1:
+  owner: INGO
+  controller: INGO
+  cores:
+    BAV: no
+    INGO: yes
+1447.5.1:
+  owner: LBV
+  controller: LBV
+  cores:
+    LBV: yes
+1503.12.1:
+  owner: BAV
+  controller: BAV
+  cores:
+    BAV: yes
+1546.1.1:
+  resource: grain
+1704.8.13:
+  owner: HAB
+  controller: HAB
+1714.9.7:
+  owner: BAV
+  controller: BAV
+1871.1.18:
+  owner: GER
+  controller: GER
+  cores:
+    GER: yes
+1945.5.3:
+  controller: GBR
+1945.5.8:
+  owner: WGER
+  controller: WGER
+  cores:
+    WGER: yes
+1990.10.3:
+  owner: GER
+  controller: GER
+  cores:
+    WGER: no

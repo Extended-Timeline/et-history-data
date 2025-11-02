@@ -1,0 +1,81 @@
+#imported from EU4 file: history/provinces/372 - Ulster.txt
+2.1.1:
+  owner: ULS
+  controller: ULS
+  cores:
+    ULS: yes
+  resource: wool
+  pop:
+    ethnicity: irish
+    religion: druidism
+    estate: peasant
+    size: 1000
+450.1.1:
+  owner: TYR
+  controller: TYR
+  cores:
+    ULS: no
+    TYR: yes
+700.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+867.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+1004.1.1:
+  owner: IRE
+  controller: IRE
+  cores:
+    IRE: yes
+1014.4.23:
+  owner: TYR
+  controller: TYR
+  cores:
+    IRE: no
+1607.9.4:
+  owner: ENG
+  controller: ENG
+  cores:
+    ENG: yes
+1609.1.1:
+  pop:
+    ethnicity: english
+    religion: lutheran
+    estate: peasant
+    size: 1000
+1642.6.7:
+  cores:
+    IRE: yes
+1646.6.5:
+  controller: IRE
+1650.6.21:
+  controller: ENG
+1707.5.12:
+  owner: GBR
+  controller: GBR
+  cores:
+    ENG: no
+    GBR: yes
+1711.1.1:
+  resource: cloth
+1919.1.21:
+  owner: IRE
+  controller: IRE
+1922.12.7:
+  owner: GBR
+  controller: GBR
+  cores:
+    TYR: no
+1999.1.1:
+  pop:
+    ethnicity: irish
+    religion: catholic
+    estate: peasant
+    size: 1000
+1999.12.1:
+  cores:
+    IRE: no

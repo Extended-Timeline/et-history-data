@@ -1,0 +1,73 @@
+#imported from EU4 file: history/provinces/4380 - Donegal.txt
+2.1.1:
+  owner: ULS
+  controller: ULS
+  cores:
+    ULS: yes
+  resource: fish
+  pop:
+    ethnicity: irish
+    religion: druidism
+    estate: peasant
+    size: 1000
+450.1.1:
+  owner: TRY
+  controller: TRY
+  cores:
+    ULS: no
+    TRY: yes
+700.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+867.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+1004.1.1:
+  owner: IRE
+  controller: IRE
+  cores:
+    IRE: yes
+1014.4.23:
+  owner: TRY
+  controller: TRY
+  cores:
+    IRE: no
+1185.1.1:
+  owner: TYR
+  controller: TYR
+  cores:
+    TYR: yes
+1201.1.1:
+  owner: TRY
+  controller: TRY
+  cores:
+    TYR: no
+1607.9.4:
+  owner: ENG
+  controller: ENG
+  cores:
+    ENG: yes
+1642.6.7:
+  cores:
+    IRE: yes
+1646.6.5:
+  controller: IRE
+1650.6.21:
+  controller: ENG
+1707.5.12:
+  owner: GBR
+  controller: GBR
+  cores:
+    ENG: no
+    GBR: yes
+1919.1.21:
+  owner: IRE
+  controller: IRE
+1922.12.7:
+  cores:
+    GBR: no
+    CNN: no

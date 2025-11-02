@@ -1,0 +1,65 @@
+#imported from EU4 file: history/provinces/2450 - Ghadames.txt
+2.1.1:
+  owner: GARA
+  controller: GARA
+  cores:
+    GARA: yes
+  resource: spices
+  pop:
+    ethnicity: eastern_amazigh
+    religion: bantu_religion
+    estate: peasant
+    size: 1000
+660.1.1:
+  owner: AURE
+  controller: AURE
+  cores:
+    GARA: no
+    AURE: yes
+    FZA: yes
+702.1.1:
+  owner: FZA
+  controller: FZA
+  cores:
+    AURE: no
+850.1.1:
+  pop:
+    ethnicity: tunisian
+    religion: sunni
+    estate: peasant
+    size: 1000
+1173.1.1:
+  owner: MAM
+  controller: MAM
+  cores:
+    MAM: yes
+1212.1.1:
+  owner: DJE
+  controller: DJE
+  cores:
+    FZA: no
+    MAM: no
+    DJE: yes
+1830.1.1:
+  owner: FZA
+  controller: FZA
+  cores:
+    DJE: no
+    FZA: yes
+1912.10.18:
+  owner: ITA
+  controller: ITA
+  cores:
+    ITA: yes
+    LIBY: yes
+  resource: grain
+1943.1.12:
+  controller: FRA
+1943.4.11:
+  owner: FRA
+  controller: FRA
+  cores:
+    ITA: no
+1951.12.24:
+  owner: LIBY
+  controller: LIBY

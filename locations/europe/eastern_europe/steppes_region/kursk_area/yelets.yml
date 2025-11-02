@@ -1,0 +1,119 @@
+#imported from EU4 file: history/provinces/2408 - Lipetsk.txt
+2.1.1:
+  owner: SARM
+  controller: SARM
+  cores:
+    SARM: yes
+  resource: livestock
+  pop:
+    ethnicity: sarmatian
+    religion: 
+    estate: peasant
+    size: 1000
+350.1.1:
+  owner: HUNS
+  controller: HUNS
+  cores:
+    SARM: no
+    HUNS: yes
+  pop:
+    ethnicity: hunnic
+    estate: peasant
+    size: 1000
+420.1.1:
+  cores:
+    ONOG: yes
+  pop:
+    ethnicity: bolghar_culture
+    estate: peasant
+    size: 1000
+469.1.1:
+  owner: ONOG
+  controller: ONOG
+  cores:
+    HUNS: no
+600.1.1:
+  owner: HUN
+  controller: HUN
+  cores:
+    ONOG: no
+    HUN: yes
+  pop:
+    ethnicity: hungarian
+    estate: peasant
+    size: 1000
+750.1.1:
+  owner: BURT
+  controller: BURT
+  cores:
+    HUN: no
+    BURT: yes
+  pop:
+    ethnicity: moksha_culture
+    estate: peasant
+    size: 1000
+969.1.1:
+  owner: PECH
+  controller: PECH
+  cores:
+    BURT: no
+    PECH: yes
+  pop:
+    ethnicity: cuman_culture
+    estate: peasant
+    size: 1000
+1055.1.1:
+  owner: CUMA
+  controller: CUMA
+  cores:
+    PECH: no
+    CUMA: yes
+1120.1.1:
+  owner: RYA
+  controller: RYA
+  cores:
+    CUMA: no
+    RYA: yes
+1237.1.1:
+  pop:
+    ethnicity: mishar
+    estate: peasant
+    size: 1000
+1280.1.1:
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+1502.6.1:
+  owner: CRIM
+  controller: CRIM
+  cores:
+    RYA: no
+    CRIM: yes
+1572.8.2:
+  owner: RUS
+  controller: RUS
+  cores:
+    CRIM: no
+    RUS: yes
+1600.1.1:
+  pop:
+    ethnicity: muscovite
+    religion: orthodox
+    estate: peasant
+    size: 1000
+1850.1.1:
+  cores:
+    CRIM: no
+1922.12.30:
+  owner: SOVI
+  controller: SOVI
+  cores:
+    RUS: no
+    SOVI: yes
+1991.12.25:
+  owner: RUS
+  controller: RUS
+  cores:
+    SOVI: no
+    RUS: yes

@@ -1,0 +1,97 @@
+#imported from EU4 file: history/provinces/2036 - Baglana.txt
+2.1.1:
+  owner: WSAT
+  controller: WSAT
+  cores:
+    WSAT: yes
+  resource: grain
+  pop:
+    ethnicity: saurashtri
+    religion: jain
+    estate: peasant
+    size: 1000
+260.1.1:
+  owner: ABHI
+  controller: ABHI
+  cores:
+    WSAT: no
+    ABHI: yes
+388.1.1:
+  owner: KONK
+  controller: KONK
+  cores:
+    ABHI: no
+    KONK: yes
+500.1.1:
+  owner: KALC
+  controller: KALC
+  cores:
+    KONK: no
+    KALC: yes
+620.1.1:
+  owner: CHAL
+  controller: CHAL
+  cores:
+    KALC: no
+    CHAL: yes
+753.1.1:
+  owner: RAST
+  controller: RAST
+  cores:
+    CHAL: no
+    RAST: yes
+973.1.1:
+  owner: CHAL
+  controller: CHAL
+  cores:
+    RAST: no
+    CHAL: yes
+1189.1.1:
+  owner: BAGL
+  controller: BAGL
+  cores:
+    CHAL: no
+    BAGL: yes
+1250.1.1:
+  pop:
+    religion: hindu
+    estate: peasant
+    size: 1000
+1317.1.1:
+  owner: DLH
+  controller: DLH
+  cores:
+    DLH: yes
+1391.1.1:
+  owner: BAGL
+  controller: BAGL
+  cores:
+    DLH: no
+    BAGL: yes
+1573.6.1:
+  owner: MUG
+  controller: MUG
+  cores:
+    MUG: yes
+1650.1.1:
+  cores:
+    MHR: yes
+1674.1.1:
+  owner: MHR
+  controller: MHR
+  cores:
+    MUG: no
+1818.6.3:
+  owner: GBR
+  controller: GBR
+  cores:
+    GBR: yes
+1930.1.1:
+  cores:
+    GUJ: no
+    INDI: yes
+1947.8.15:
+  owner: INDI
+  controller: INDI
+  cores:
+    GBR: no

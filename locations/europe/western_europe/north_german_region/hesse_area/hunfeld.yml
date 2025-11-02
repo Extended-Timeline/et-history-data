@@ -1,0 +1,169 @@
+#imported from EU4 file: history/provinces/4774 - Fulda.txt
+2.1.1:
+  owner: CHTT
+  controller: CHTT
+  cores:
+    CHTT: yes
+  resource: grain
+  pop:
+    ethnicity: rhine_franconian
+    religion: germanic
+    estate: peasant
+    size: 1000
+395.1.1:
+  owner: BUR
+  controller: BUR
+  cores:
+    CHTT: no
+    BUR: yes
+  pop:
+    ethnicity: burgundione
+    estate: peasant
+    size: 1000
+443.1.1:
+  owner: CHTT
+  controller: CHTT
+  cores:
+    BUR: no
+    CHTT: yes
+  pop:
+    ethnicity: rhine_franconian
+    estate: peasant
+    size: 1000
+481.1.1:
+  owner: FRAN
+  controller: FRAN
+  cores:
+    CHTT: no
+    FRAN: yes
+500.1.1:
+  pop:
+    ethnicity: east_franconian
+    estate: peasant
+    size: 1000
+511.11.27:
+  owner: ASTS
+  controller: ASTS
+  cores:
+    ASTS: yes
+555.1.1:
+  owner: SOIS
+  controller: SOIS
+  cores:
+    SOIS: yes
+558.12.23:
+  owner: FRAN
+  controller: FRAN
+  cores:
+    SOIS: no
+    FRAN: yes
+561.11.29:
+  owner: ASTS
+  controller: ASTS
+613.10.10:
+  owner: FRAN
+  controller: FRAN
+  cores:
+    FRAN: yes
+623.1.1:
+  owner: ASTS
+  controller: ASTS
+629.10.18:
+  owner: FRAN
+  controller: FRAN
+632.1.1:
+  owner: THU
+  controller: THU
+  cores:
+    THU: yes
+686.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+719.1.1:
+  owner: FRAN
+  controller: FRAN
+  cores:
+    FRAN: yes
+840.6.21:
+  owner: EFRA
+  controller: EFRA
+  cores:
+    FRAN: no
+    EFRA: yes
+849.1.1:
+  owner: THU
+  controller: THU
+  cores:
+    THU: yes
+867.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+908.8.3:
+  owner: EFRA
+  controller: EFRA
+  cores:
+    THU: no
+    EFRA: yes
+    FKN: yes
+911.11.10:
+  owner: FKN
+  controller: FKN
+  cores:
+    EFRA: no
+1168.1.1:
+  owner: WBG
+  controller: WBG
+  cores:
+    FKN: no
+    WBG: yes
+1631.10.15:
+  controller: SWE
+1635.1.16:
+  controller: WBG
+1803.4.27:
+  owner: NSA
+  controller: NSA
+  cores:
+    NSA: yes
+1810.5.10:
+  owner: FRN
+  controller: FRN
+  cores:
+    NSA: no
+    FRN: yes
+1815.6.9:
+  owner: HES
+  controller: HES
+  cores:
+    FRN: no
+    HES: yes
+1866.9.20:
+  owner: PRU
+  controller: PRU
+  cores:
+    PRU: yes
+1871.1.18:
+  owner: GER
+  controller: GER
+  cores:
+    PRU: no
+    GER: yes
+1900.1.1:
+  cores:
+    HES: no
+1945.4.5:
+  controller: USA
+1945.5.8:
+  owner: WGER
+  controller: WGER
+  cores:
+    WGER: yes
+1990.10.3:
+  owner: GER
+  controller: GER
+  cores:
+    WGER: no

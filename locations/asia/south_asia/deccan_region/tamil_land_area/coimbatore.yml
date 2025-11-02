@@ -1,0 +1,84 @@
+#imported from EU4 file: history/provinces/538 - Kongu.txt
+2.1.1:
+  owner: KONG
+  controller: KONG
+  cores:
+    KONG: yes
+  resource: incense
+  pop:
+    ethnicity: tamil
+    religion: hindu
+    estate: peasant
+    size: 1000
+250.1.1:
+  owner: KALA
+  controller: KALA
+  cores:
+    KONG: no
+    KALA: yes
+600.1.1:
+  owner: TNK
+  controller: TNK
+  cores:
+    KALA: no
+    TNK: yes
+960.1.1:
+  owner: CHOL
+  controller: CHOL
+  cores:
+    TNK: no
+    CHOL: yes
+1116.1.1:
+  owner: HSL
+  controller: HSL
+  cores:
+    CHOL: no
+    HSL: yes
+1343.1.1:
+  owner: VIJ
+  controller: VIJ
+  cores:
+    HSL: no
+    VIJ: yes
+1399.1.1:
+  cores:
+    MYSO: yes
+1444.1.1:
+  cores:
+    MYSO: yes
+1550.1.1:
+  controller: VIJ
+1565.1.26:
+  owner: MYSO
+  controller: MYSO
+  cores:
+    VIJ: no
+1649.1.1:
+  controller: BIJA
+1649.12.1:
+  owner: BIJA
+  cores:
+    BIJA: yes
+1685.1.1:
+  controller: MUG
+1686.1.1:
+  owner: MYSO
+  controller: MYSO
+  cores:
+    BIJA: no
+    MYSO: yes
+1799.1.1:
+  owner: GBR
+  controller: GBR
+  cores:
+    GBR: yes
+1930.1.1:
+  cores:
+    MYSO: no
+    MADU: no
+    INDI: yes
+1947.8.15:
+  owner: INDI
+  controller: INDI
+  cores:
+    GBR: no

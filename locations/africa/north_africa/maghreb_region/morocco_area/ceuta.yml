@@ -1,0 +1,118 @@
+#imported from EU4 file: history/provinces/1751 - Ceuta.txt
+2.1.1:
+  owner: ROM
+  controller: ROM
+  cores:
+    ROM: yes
+  resource: fish
+  pop:
+    ethnicity: zenati
+    religion: bantu_religion
+    estate: peasant
+    size: 1000
+320.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+395.1.17:
+  owner: ROMW
+  controller: ROMW
+  cores:
+    ROM: no
+    ROMW: yes
+429.1.1:
+  owner: VAND
+  controller: VAND
+  cores:
+    ROMW: no
+    VAND: yes
+534.3.1:
+  owner: BYZ
+  controller: BYZ
+  cores:
+    VAND: no
+    BYZ: yes
+710.1.1:
+  owner: UMAY
+  controller: UMAY
+  cores:
+    BYZ: no
+    UMAY: yes
+715.1.1:
+  pop:
+    religion: sunni
+    estate: peasant
+    size: 1000
+743.1.1:
+  owner: NEKO
+  controller: NEKO
+  cores:
+    UMAY: no
+    NEKO: yes
+789.1.1:
+  owner: MOR
+  controller: MOR
+  cores:
+    NEKO: no
+    MOR: yes
+790.1.1:
+  pop:
+    ethnicity: moroccan
+    estate: peasant
+    size: 1000
+922.1.1:
+  owner: FATI
+  controller: FATI
+925.1.1:
+  owner: MOR
+  controller: MOR
+927.1.1:
+  owner: FATI
+  controller: FATI
+937.1.1:
+  owner: MOR
+  controller: MOR
+974.1.1:
+  owner: CRDB
+  controller: CRDB
+  cores:
+    MOR: no
+    CRDB: yes
+1026.1.1:
+  owner: MALG
+  controller: MALG
+  cores:
+    CRDB: no
+    MALG: yes
+1061.1.1:
+  owner: BARG
+  controller: BARG
+  cores:
+    MALG: no
+    BARG: yes
+1078.1.1:
+  owner: MOR
+  controller: MOR
+  cores:
+    BARG: no
+    MOR: yes
+1415.8.21:
+  controller: POR
+  cores:
+    POR: yes
+1415.9.1:
+  owner: POR
+1500.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+1640.1.1:
+  owner: SPA
+  controller: SPA
+  cores:
+    POR: no
+    SPA: yes
+1926.5.27:
+  controller: SPA

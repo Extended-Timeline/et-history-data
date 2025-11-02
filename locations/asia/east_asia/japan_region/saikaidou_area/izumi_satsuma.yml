@@ -1,0 +1,52 @@
+#imported from EU4 file: history/provinces/1012 - Satsuma.txt
+2.1.1:
+  owner: HAYA
+  controller: HAYA
+  cores:
+    HAYA: yes
+  resource: tea
+  pop:
+    ethnicity: kumaso
+    religion: shinto
+    estate: peasant
+    size: 1000
+721.1.1:
+  owner: YMT
+  controller: YMT
+  cores:
+    HAYA: no
+    YMT: yes
+750.1.1:
+  pop:
+    ethnicity: saigoku_culture
+    estate: peasant
+    size: 1000
+794.1.1:
+  owner: JAP
+  controller: JAP
+  cores:
+    YMT: no
+    JAP: yes
+1160.2.5:
+  owner: TAIR
+  controller: TAIR
+  cores:
+    JAP: no
+    TAIR: yes
+1185.6.19:
+  owner: JAP
+  controller: JAP
+  cores:
+    TAIR: no
+1192.7.12:
+  owner: SMZ
+  controller: SMZ
+  cores:
+    JAP: no
+    SMZ: yes
+1868.1.3:
+  owner: JAP
+  controller: JAP
+  cores:
+    SMZ: no
+    JAP: yes

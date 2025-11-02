@@ -1,0 +1,86 @@
+adac_morinaga_adachi:
+  1135.1.1:
+    birth: hoi #TODO: Date and location guessed, check if better data is available
+    first_name: morinaga
+    dynasty: adachi_dynasty
+    adm: 60
+    dip: 45
+    mil: 75
+    religion: shinto
+    culture: saigoku_culture
+  1200.6.9:
+    death: yes
+adac_kagemori_adachi:
+  1170.1.1:
+    birth: izumo #TODO: Date and location guessed, check if better data is available
+    first_name: kagemori
+    dynasty: adachi_dynasty
+    adm: 45
+    dip: 30
+    mil: 75
+    religion: shinto
+    culture: saigoku_culture
+  1219.2.13:
+    death: yes
+adac_yoshikage_adachi:
+  1210.1.1:
+    birth: izumo #TODO: Date and location guessed, check if better data is available
+    first_name: yoshikage
+    dynasty: adachi_dynasty
+    adm: 30
+    dip: 60
+    mil: 60
+    religion: shinto
+    culture: saigoku_culture
+  1253.6.30:
+    death: yes
+adac_yasumori_adachi:
+  1231.1.1:
+    birth: izumo #TODO: Date and location guessed, check if better data is available
+    first_name: yasumori
+    dynasty: adachi_dynasty
+    adm: 30
+    dip: 15
+    mil: 75
+    religion: shinto
+    culture: saigoku_culture
+  1285.12.14:
+    death: yes
+adac_munekage_adachi:
+  1259.1.1:
+    birth: izumo #TODO: Date and location guessed, check if better data is available
+    first_name: munekage
+    dynasty: adachi_dynasty
+    father: adac_yasumori_adachi #TODO: check if this makes sense
+    adm: 60
+    dip: 30
+    mil: 45
+    religion: shinto
+    culture: saigoku_culture
+  1285.12.14:
+    death: yes
+adac_tokiaki_adachi:
+  1285.1.1:
+    birth: izumo #TODO: Date and location guessed, check if better data is available
+    first_name: tokiaki
+    dynasty: adachi_dynasty
+    adm: 15
+    dip: 30
+    mil: 0
+    religion: shinto
+    culture: saigoku_culture
+  3000.1.1:
+    death: yes
+adac_takakage_adachi:
+  1310.1.1:
+    birth: izumo #TODO: Date and location guessed, check if better data is available
+    first_name: takakage
+    dynasty: adachi_dynasty
+    father: adac_tokiaki_adachi #TODO: check if this makes sense
+    adm: 60
+    dip: 30
+    mil: 0
+    religion: shinto
+    culture: saigoku_culture
+  1333.7.4:
+    death: yes

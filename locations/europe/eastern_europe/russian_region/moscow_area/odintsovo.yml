@@ -1,0 +1,64 @@
+#imported from EU4 file: history/provinces/295 - Moskva.txt
+2.1.1:
+  pop:
+    ethnicity: muscovite
+    religion: slavic
+    estate: peasant
+    size: 1000
+550.1.1:
+  owner: VYAT
+  controller: VYAT
+  cores:
+    VYAT: yes
+  resource: iron
+980.1.1:
+  owner: KIEV
+  controller: KIEV
+  cores:
+    MERY: no
+    KIEV: yes
+1054.2.20:
+  owner: VLR
+  controller: VLR
+  cores:
+    KIEV: no
+    VLR: yes
+1150.1.1:
+  pop:
+    religion: orthodox
+    estate: peasant
+    size: 1000
+1283.1.1:
+  owner: MOS
+  controller: MOS
+  cores:
+    VLR: no
+    MOS: yes
+1503.4.1:
+  owner: RUS
+  controller: RUS
+  cores:
+    MOS: no
+    RUS: yes
+1610.9.27:
+  controller: PLC
+1612.11.4:
+  controller: RUS
+1812.9.15:
+  controller: FRA
+1812.10.19:
+  controller: RUS
+1922.12.30:
+  owner: SOVI
+  controller: SOVI
+  cores:
+    RUS: no
+    SOVI: yes
+1980.1.1:
+  resource: electronics
+1991.12.25:
+  owner: RUS
+  controller: RUS
+  cores:
+    SOVI: no
+    RUS: yes

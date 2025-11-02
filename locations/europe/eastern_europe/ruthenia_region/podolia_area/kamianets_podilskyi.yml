@@ -1,0 +1,163 @@
+#imported from EU4 file: history/provinces/281 - Kamienec.txt
+2.1.1:
+  owner: ANTE
+  controller: ANTE
+  cores:
+    ANTE: yes
+  resource: livestock
+  pop:
+    ethnicity: ruthenian
+    religion: slavic
+    estate: peasant
+    size: 1000
+150.1.1:
+  owner: BAST
+  controller: BAST
+  cores:
+    ANTE: no
+    BAST: yes
+  pop:
+    religion: germanic
+    estate: peasant
+    size: 1000
+380.1.1:
+  owner: HUNS
+  controller: HUNS
+  cores:
+    BAST: no
+    HUNS: yes
+  pop:
+    religion: 
+    estate: peasant
+    size: 1000
+469.1.1:
+  owner: ANTE
+  controller: ANTE
+  cores:
+    HUNS: no
+    ANTE: yes
+  pop:
+    religion: slavic
+    estate: peasant
+    size: 1000
+560.1.1:
+  owner: AVR
+  controller: AVR
+  cores:
+    ANTE: no
+    AVR: yes
+567.1.1:
+  owner: TIVE
+  controller: TIVE
+  cores:
+    AVR: no
+    TIVE: yes
+760.1.1:
+  owner: HUN
+  controller: HUN
+  cores:
+    TIVE: no
+    HUN: yes
+  pop:
+    religion: 
+    estate: peasant
+    size: 1000
+900.1.1:
+  owner: KIEV
+  controller: KIEV
+  cores:
+    HUN: no
+    KIEV: yes
+    UKR: yes
+930.1.1:
+  owner: PECH
+  controller: PECH
+  cores:
+    KIEV: no
+    PECH: yes
+960.1.1:
+  pop:
+    religion: orthodox
+    estate: peasant
+    size: 1000
+980.1.1:
+  owner: KIEV
+  controller: KIEV
+  cores:
+    PECH: no
+    KIEV: yes
+1054.2.20:
+  owner: HAL
+  controller: HAL
+  cores:
+    KIEV: no
+    HAL: yes
+    KIE: yes
+1199.1.1:
+  cores:
+    KIE: no
+1325.1.1:
+  owner: LIT
+  controller: LIT
+  cores:
+    LIT: yes
+1350.1.1:
+  pop:
+    religion: orthodox
+    estate: peasant
+    size: 1000
+1352.1.1:
+  owner: POL
+  controller: POL
+  cores:
+    LIT: no
+    POL: yes
+1569.7.1:
+  owner: PLC
+  controller: PLC
+  cores:
+    PLC: yes
+    POL: no
+1648.1.1:
+  cores:
+    ZAZ: yes
+1654.1.1:
+  controller: PLC
+  cores:
+    ZAZ: no
+1672.8.18:
+  owner: TUR
+  controller: TUR
+1699.1.26:
+  owner: PLC
+  controller: PLC
+1793.1.23:
+  owner: RUS
+  controller: RUS
+  cores:
+    RUS: yes
+1918.1.22:
+  owner: UKR
+  controller: UKR
+  cores:
+    UKR: yes
+1921.3.18:
+  owner: RUS
+  controller: RUS
+1922.12.30:
+  owner: SOVI
+  controller: SOVI
+  cores:
+    RUS: no
+    SOVI: yes
+1941.8.15:
+  controller: RMN
+1944.1.1:
+  controller: SOVI
+1991.8.24:
+  owner: UKR
+  controller: UKR
+  cores:
+    SOVI: no
+    RUS: no
+    UKR: yes

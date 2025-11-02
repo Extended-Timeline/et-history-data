@@ -1,0 +1,56 @@
+#imported from EU4 file: history/provinces/4935 - Oahu.txt
+2.1.1:
+  pop:
+    ethnicity: maohi_culture
+    religion: bimoism
+    estate: peasant
+    size: 1000
+1060.1.1:
+  owner: OAH
+  controller: OAH
+  cores:
+    OAH: yes
+  resource: cloth
+1738.1.1:
+  owner: KAU
+  controller: KAU
+  cores:
+    KAU: yes
+1770.1.1:
+  owner: OAH
+  controller: OAH
+  cores:
+    KAU: no
+1783.1.1:
+  owner: MUI
+  controller: MUI
+  cores:
+    MUI: yes
+1795.5.1:
+  owner: HAW
+  controller: HAW
+  cores:
+    MUI: no
+    HAW: yes
+1843.2.25:
+  owner: GBR
+  controller: GBR
+1843.7.31:
+  owner: HAW
+  controller: HAW
+1862.1.1:
+  pop:
+    religion: lutheran
+    estate: peasant
+    size: 1000
+1898.7.4:
+  owner: USA
+  controller: USA
+  cores:
+    HAW: no
+    USA: yes
+1920.1.1:
+  pop:
+    ethnicity: british_californian
+    estate: peasant
+    size: 1000

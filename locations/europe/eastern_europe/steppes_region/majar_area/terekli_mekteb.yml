@@ -1,0 +1,110 @@
+#imported from EU4 file: history/provinces/2208 - Terek.txt
+2.1.1:
+  owner: ALN
+  controller: ALN
+  cores:
+    ALN: yes
+  resource: livestock
+  pop:
+    ethnicity: alan_culture
+    religion: 
+    estate: peasant
+    size: 1000
+448.1.1:
+  owner: KHAZ
+  controller: KHAZ
+  cores:
+    ALN: no
+    KHAZ: yes
+  pop:
+    ethnicity: khazar
+    estate: peasant
+    size: 1000
+860.1.1:
+  pop:
+    religion: judaism
+    estate: peasant
+    size: 1000
+1048.1.1:
+  owner: CUMA
+  controller: CUMA
+  cores:
+    KHAZ: no
+    CUMA: yes
+    GAZI: yes
+  pop:
+    ethnicity: lezgin_culture
+    religion: sunni
+    estate: peasant
+    size: 1000
+1236.1.1:
+  owner: MGE
+  controller: MGE
+  cores:
+    CUMA: no
+    MGE: yes
+    ASTR: yes
+1260.1.1:
+  owner: WHHO
+  controller: WHHO
+  cores:
+    MGE: no
+    WHHO: yes
+1372.1.1:
+  owner: BLHO
+  controller: BLHO
+  cores:
+    BLHO: yes
+1374.1.1:
+  owner: WHHO
+  controller: WHHO
+  cores:
+    BLHO: no
+1378.1.1:
+  owner: GLH
+  controller: GLH
+  cores:
+    GLH: yes
+1442.1.1:
+  owner: GRHO
+  controller: GRHO
+  cores:
+    GLH: no
+    GRHO: yes
+1459.1.1:
+  owner: ASTR
+  controller: ASTR
+  cores:
+    GRHO: no
+    ASTR: yes
+1556.1.1:
+  owner: GAZI
+  controller: GAZI
+  cores:
+    ASTR: no
+  pop:
+    religion: shia
+    estate: peasant
+    size: 1000
+1720.1.1:
+  owner: RUS
+  controller: RUS
+  cores:
+    RUS: yes
+1840.1.1:
+  pop:
+    religion: orthodox
+    estate: peasant
+    size: 1000
+1922.12.30:
+  owner: SOVI
+  controller: SOVI
+  cores:
+    RUS: no
+    SOVI: yes
+1991.12.25:
+  owner: RUS
+  controller: RUS
+  cores:
+    SOVI: no
+    RUS: yes

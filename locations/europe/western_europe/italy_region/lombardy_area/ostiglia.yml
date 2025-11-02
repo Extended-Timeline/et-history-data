@@ -1,0 +1,144 @@
+#imported from EU4 file: history/provinces/109 - Mantua.txt
+2.1.1:
+  owner: ROM
+  controller: ROM
+  cores:
+    ROM: yes
+  resource: livestock
+  pop:
+    ethnicity: etruscan
+    religion: hellenism_religion
+    estate: peasant
+    size: 1000
+250.1.1:
+  pop:
+    ethnicity: roman
+    estate: peasant
+    size: 1000
+395.1.17:
+  owner: ROMW
+  controller: ROMW
+  cores:
+    ROM: no
+    ROMW: yes
+420.1.1:
+  pop:
+    religion: chalcedonism
+    estate: peasant
+    size: 1000
+476.9.4:
+  owner: ITA
+  controller: ITA
+  cores:
+    ITA: yes
+480.1.1:
+  cores:
+    ROMW: no
+489.1.1:
+  owner: OSTR
+  controller: OSTR
+  cores:
+    ITA: no
+    OSTR: yes
+  pop:
+    ethnicity: gothic
+    estate: peasant
+    size: 1000
+551.1.1:
+  owner: BYZ
+  controller: BYZ
+  cores:
+    BYZ: yes
+568.6.1:
+  owner: LOMB
+  controller: LOMB
+  cores:
+    OSTR: no
+    BYZ: no
+    LOMB: yes
+  pop:
+    ethnicity: emilian
+    estate: peasant
+    size: 1000
+774.1.1:
+  owner: FRAN
+  controller: FRAN
+  cores:
+    FRAN: yes
+840.6.21:
+  owner: MFRA
+  controller: MFRA
+  cores:
+    FRAN: no
+    MFRA: yes
+855.9.30:
+  owner: ITA
+  controller: ITA
+  cores:
+    MFRA: no
+    LOMB: no
+    ITA: yes
+867.1.1:
+  pop:
+    religion: catholic
+    estate: peasant
+    size: 1000
+962.2.2:
+  owner: MAN
+  controller: MAN
+  cores:
+    ITA: no
+    MAN: yes
+970.1.1:
+  owner: MOD
+  controller: MOD
+  cores:
+    MOD: yes
+1027.1.1:
+  owner: TUS
+  controller: TUS
+  cores:
+    MOD: no
+    TUS: yes
+1115.1.1:
+  owner: MAN
+  controller: MAN
+  cores:
+    TUS: no
+1708.6.30:
+  owner: HAB
+  controller: HAB
+  cores:
+    HAB: yes
+1796.6.4:
+  controller: FRA
+1796.7.31:
+  controller: HAB
+1797.2.1:
+  controller: FRA
+1797.10.17:
+  owner: FRA
+  cores:
+    HAB: no
+    FRA: yes
+1800.6.26:
+  owner: ITA
+  controller: ITA
+  cores:
+    ITA: yes
+1814.4.11:
+  owner: HAB
+  controller: HAB
+  cores:
+    ITA: no
+    HAB: yes
+1861.3.17:
+  cores:
+    ITA: yes
+1866.7.3:
+  controller: ITA
+1866.10.3:
+  owner: ITA
+  cores:
+    HAB: no
+    MAN: no

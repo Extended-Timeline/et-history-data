@@ -1,0 +1,57 @@
+#imported from EU4 file: history/provinces/2645 - Teloloapan.txt
+2.1.1:
+  owner: XOC
+  controller: XOC
+  cores:
+    XOC: yes
+  resource: gold
+  pop:
+    ethnicity: mephaa_culture
+    religion: nahuatl
+    estate: peasant
+    size: 1000
+880.1.1:
+  owner: TOLT
+  controller: TOLT
+  cores:
+    TOLT: yes
+1122.1.1:
+  owner: TLA
+  controller: TLA
+  cores:
+    TOLT: no
+    TLA: yes
+1442.1.1:
+  owner: AZTE
+  controller: AZTE
+  cores:
+    TLA: no
+    AZTE: yes
+  pop:
+    ethnicity: nahua_culture
+    estate: peasant
+    size: 1000
+1521.8.13:
+  owner: SPA
+  controller: SPA
+  cores:
+    SPA: yes
+  pop:
+    ethnicity: castilian
+    religion: catholic
+    estate: peasant
+    size: 1000
+1770.1.1:
+  pop:
+    ethnicity: mexican
+    estate: peasant
+    size: 1000
+1810.9.16:
+  owner: MEX
+  controller: MEX
+  cores:
+    MEX: yes
+1821.9.27:
+  controller: MEX
+  cores:
+    SPA: no

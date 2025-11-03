@@ -1,0 +1,193 @@
+﻿
+
+# ====================================================
+# Perseid Dynasty (Independent Rulers of Mycenae — House of Perseus)
+# ====================================================
+
+mycenae_perseus_perseidae:
+  -1350.1.1:
+    birth: mycenae
+    first_name: perseus
+    dynasty: perseidae_dynasty
+    adm: 95
+    dip: 80
+    mil: 95
+    mother: argos_danae_abantidae
+    religion: achaean_religion
+    culture: mycenaean
+  -1303.1.1:
+    death: yes
+
+mycenae_electryon_perseidae:
+  -1325.1.1:
+    birth: mycenae
+    first_name: electryon
+    dynasty: perseidae_dynasty
+    adm: 75
+    dip: 65
+    mil: 80
+    father: mycenae_perseus_perseidae
+    religion: achaean_religion
+    culture: mycenaean
+  -1290.1.1:
+    death: yes
+
+mycenae_sthenelus_perseidae:
+  -1290.1.1:
+    birth: mycenae
+    first_name: sthenelus
+    dynasty: perseidae_dynasty
+    adm: 70
+    dip: 60
+    mil: 75
+    father: mycenae_electryon_perseidae
+    religion: achaean_religion
+    culture: mycenaean
+  -1250.1.1:
+    death: yes
+
+mycenae_eurystheus_perseidae:
+  -1250.1.1:
+    birth: mycenae
+    first_name: eurystheus
+    dynasty: perseidae_dynasty
+    adm: 65
+    dip: 55
+    mil: 70
+    father: mycenae_sthenelus_perseidae
+    religion: achaean_religion
+    culture: mycenaean
+  -1240.1.1:
+    death: yes
+
+# ====================================================
+# Pelopid Dynasty (Mycenae — Agamemnon → Orestes → Aletes II)
+# ====================================================
+
+mycenae_atreus_pelopidae:
+  -1250.1.1:
+    birth: mycenae
+    first_name: atreus
+    dynasty: pelopidae_dynasty
+    adm: 80
+    dip: 60
+    mil: 85
+    father: mycenae_pelops_pelopidae
+    religion: achaean_religion
+    culture: mycenaean
+  -1200.1.1:
+    death: yes
+
+mycenae_thyestes_pelopidae:
+  -1230.1.1:
+    birth: mycenae
+    first_name: thyestes
+    dynasty: pelopidae_dynasty
+    adm: 65
+    dip: 55
+    mil: 70
+    father: mycenae_pelops_pelopidae
+    religion: achaean_religion
+    culture: mycenaean
+  -1199.1.1:
+    death: yes
+
+mycenae_agamemnon_pelopidae:
+  -1224.1.1:
+    birth: mycenae
+    first_name: agamemnon
+    dynasty: pelopidae_dynasty
+    father: mycenae_atreus_pelopidae
+    spouse: mycenae_clytemnestra_pelopidae
+    adm: 90
+    dip: 62
+    mil: 90
+    religion: achaean_religion
+    culture: mycenaean
+  -1169.1.1:
+    death: yes
+
+mycenae_clytemnestra_pelopidae:
+  -1220.1.1:
+    birth: mycenae
+    first_name: clytemnestra
+    dynasty: pelopidae_dynasty
+    female: yes
+    spouse: mycenae_agamemnon_pelopidae
+    adm: 60
+    dip: 65
+    mil: 15
+    religion: achaean_religion
+    culture: mycenaean
+  -1160.1.1:
+    death: yes
+
+mycenae_orestes_pelopidae:
+  -1195.1.1:
+    birth: mycenae
+    first_name: orestes
+    dynasty: pelopidae_dynasty
+    father: mycenae_agamemnon_pelopidae
+    adm: 83
+    dip: 80
+    mil: 90
+    religion: achaean_religion
+    culture: mycenaean
+  -1100.1.1:
+    death: yes
+
+mycenae_tisamenus_pelopidae:
+  -1115.1.1:
+    birth: mycenae
+    first_name: tisamenus
+    dynasty: pelopidae_dynasty
+    father: mycenae_orestes_pelopidae
+    adm: 65
+    dip: 60
+    mil: 60
+    religion: achaean_religion
+    culture: mycenaean
+  -1040.1.1:
+    death: yes
+
+mycenae_penthilus_pelopidae:
+  -1050.1.1:
+    birth: mycenae
+    first_name: penthilus
+    dynasty: pelopidae_dynasty
+    father: mycenae_tisamenus_pelopidae
+    adm: 60
+    dip: 55
+    mil: 55
+    religion: achaean_religion
+    culture: mycenaean
+  -980.1.1:
+    death: yes
+
+mycenae_aletes_pelopidae:
+  -985.1.1:
+    birth: mycenae
+    first_name: aletes
+    dynasty: pelopidae_dynasty
+    father: mycenae_penthilus_pelopidae
+    adm: 60
+    dip: 55
+    mil: 60
+    religion: achaean_religion
+    culture: mycenaean
+  -903.1.1:
+    death: yes
+
+mycenae_ogyges_pelopidae:
+  -935.1.1:
+    birth: mycenae
+    first_name: ogyges
+    dynasty: pelopidae_dynasty
+    father: mycenae_aletes_pelopidae
+    adm: 55
+    dip: 50
+    mil: 55
+    religion: achaean_religion
+    culture: mycenaean
+  -859.1:
+    death: yes

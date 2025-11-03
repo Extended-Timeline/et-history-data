@@ -1,0 +1,101 @@
+﻿# ====================================================
+# ARG0 tag (Kingdom of Argos history)
+# ====================================================
+
+# ====================================================
+# Inachid Dynasty (Argive Ruling Dynasty)
+# ====================================================
+-1800.1.1:
+  color: rgb { 83 61 92 }
+  government_rank: rank_kingdom
+  ruler: argos_inachus_inachidae
+  religion: aegean_mainland_religion
+  primary_culture: proto_argive
+  capital: mycenae
+
+# ====================================================
+# Phoroneid Dynasty (Argive Ruling Dynasty)
+# ====================================================
+-1775.1.1:
+  ruler: argos_phoroneus_phoroneidae
+
+-1742.1.1:
+  ruler: argos_apis_phoroneidae
+
+-1710.1.1:
+  ruler: argos_argus_phoroneidae
+
+-1676.1.1:
+  ruler: argos_criasus_phoroneidae
+
+-1645.1.1:
+  ruler: argos_phorbas_phoroneidae
+
+-1613.1.1:
+  ruler: argos_triopas_phoroneidae
+
+-1585.1.1:
+  ruler: argos_iasus_phoroneidae
+
+-1552.1.1:
+  ruler: argos_agenor_phoroneidae
+
+-1526.1.1:
+  ruler: argos_crotopus_phoroneidae
+
+-1502.1.1:
+  ruler: argos_sthenelus_phoroneidae
+
+-1475.1.1:
+  ruler: argos_gelanor_phoroneidae
+
+# ====================================================
+# Danaid Dynasty (Argive Ruling Dynasty)
+# ====================================================
+-1450.1.1:
+  ruler: argos_danaus_danaidae
+
+-1425.1.1:
+  ruler: argos_lynceus_danaidae
+
+# ====================================================
+# Abantidae Dynasty (Argive Ruling Dynasty)
+# ====================================================
+-1395.1.1:
+  ruler: argos_abas_abantidae
+
+-1368.1.1:
+  ruler: argos_acrisius_abantidae
+
+# ====================================================
+# Proetid Dynasty (Post-Abantidae Exchange)
+# ====================================================
+-1340.1.1:
+  ruler: argos_megapenthes_proetidae
+
+-1310.1.1:
+  ruler: argos_argeos_proetidae
+
+# ====================================================
+# Biasid Dynasty (Western Argos Rulers)
+# ====================================================
+-1280.1.1:
+  ruler: argos_bias_biasidae
+
+-1250.1.1:
+  ruler: argos_talaus_biasidae
+
+-1220.1.1:
+  ruler: argos_adrastus_biasidae
+
+-1192.1.1:
+  ruler: argos_diomedes_tydeidae
+
+-1160.1.1:
+  ruler: argos_cyanippus_biasidae  # Died, realm absorbed by Cylarabes
+
+# ====================================================
+# Unified Argos (Anaxagorid Restoration)
+# ====================================================
+#-1130.1.1:
+#  ruler: argos_cylarabes_anaxagoridae  # Reunified Argolis

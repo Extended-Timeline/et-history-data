@@ -1,0 +1,586 @@
+﻿# ====================================================
+# Inachid Dynasty (Argive rulers of Mycenae — House of Inachus)
+# ====================================================
+
+argos_inachus_inachidae:
+  -1860.1.1:
+    birth: argos
+    first_name: inachus
+    dynasty: inachidae_dynasty
+    adm: 70
+    dip: 50
+    mil: 35
+    religion: aegean_mainland_religion
+    culture: proto_argive
+    spouse: argos_melia_inachidae
+  -1790.1.1:
+    death: yes
+
+argos_melia_inachidae:
+  -1858.1.1:
+    birth: argos
+    first_name: melia
+    dynasty: inachidae_dynasty
+    female: yes
+    adm: 60
+    dip: 65
+    mil: 25
+    religion: aegean_mainland_religion
+    culture: proto_argive
+    spouse: argos_inachus_inachidae
+  -1788.1.1:
+    death: yes
+
+argos_io_inachidae:
+  -1830.1.1:
+    birth: argos
+    first_name: io
+    dynasty: inachidae_dynasty
+    female: yes
+    adm: 40
+    dip: 80
+    mil: 20
+    religion: aegean_mainland_religion
+    culture: proto_argive
+    father: argos_inachus_inachidae
+  -1760.1.1:
+    death: yes
+
+argos_naiad_inachidae:
+  -1816.1.1:
+    birth: argos
+    first_name: naiade
+    female: yes
+    adm: 60
+    dip: 65
+    mil: 30
+    religion: aegean_mainland_religion
+    culture: proto_argive
+    spouse: argos_phoroneus_inachidae
+  -1760.1.1:
+    death: yes
+
+argos_aegialeus_inachidae:
+  -1835.1.1:
+    birth: argos
+    first_name: aegialeus
+    dynasty: inachidae_dynasty
+    adm: 50
+    dip: 55
+    mil: 50
+    religion: aegean_mainland_religion
+    culture: proto_argive
+    father: argos_inachus_inachidae
+    spouse: argos_danae_inachidae
+  -1780.1.1:
+    death: yes
+
+
+# ====================================================
+# Phoroneid Dynasty (Argive rulers — House of Phoroneus)
+# ====================================================
+
+argos_phoroneus_phoroneidae:
+  -1785.1.1:
+    birth: argos
+    first_name: phoroneus
+    dynasty: phoroneidae_dynasty
+    adm: 70
+    dip: 60
+    mil: 40
+    religion: aegean_mainland_religion
+    culture: proto_argive
+    spouse: argos_naiad_inachidae
+  -1745.1.1:
+    death: yes
+  # Founder of the Phoroneid line; first king to introduce laws and cities.
+
+argos_apis_phoroneidae:
+  -1745.1.1:
+    birth: argos
+    first_name: apis
+    dynasty: phoroneidae_dynasty
+    father: argos_phoroneus_phoroneidae
+    adm: 50
+    dip: 45
+    mil: 65
+    religion: aegean_mainland_religion
+    culture: proto_argive
+  -1715.1.1:
+    death: yes
+  # Son of Phoroneus; became king of Argos; sometimes conflated with a tyrant figure.
+
+argos_argus_phoroneidae:
+  -1715.1.1:
+    birth: argos
+    first_name: argus
+    dynasty: phoroneidae_dynasty
+    father: argos_phoroneus_phoroneidae
+    adm: 55
+    dip: 50
+    mil: 70
+    religion: aegean_mainland_religion
+    culture: proto_argive
+  -1676.1.1:
+    death: yes
+  # Son of Phoroneus; founder of Argos’ line of kings; sometimes father of Crotopus.
+
+argos_criasus_phoroneidae:
+  -1676.1.1:
+    birth: argos
+    first_name: criasus
+    dynasty: phoroneidae_dynasty
+    father: argos_argus_phoroneidae
+    adm: 50
+    dip: 55
+    mil: 60
+    religion: aegean_mainland_religion
+    culture: proto_argive
+  -1645.1.1:
+    death: yes
+  # Mythically, one of the kings of Argos; father of Phorbas.
+
+argos_phorbas_phoroneidae:
+  -1645.1.1:
+    birth: argos
+    first_name: phorbas
+    dynasty: phoroneidae_dynasty
+    adm: 52
+    dip: 50
+    mil: 55
+    religion: aegean_mainland_religion
+    culture: proto_argive
+  -1613.1.1:
+    death: yes
+  # King of Argos; father of Triopas.
+
+argos_triopas_phoroneidae:
+  -1613.1.1:
+    birth: argos
+    first_name: triopas
+    dynasty: phoroneidae_dynasty
+    adm: 60
+    dip: 55
+    mil: 50
+    religion: aegean_mainland_religion
+    culture: proto_argive
+    father: argos_phorbas_phoroneidae
+  -1585.1.1:
+    death: yes
+  # King of Argos; sometimes father of Iasus.
+
+argos_iasus_phoroneidae:
+  -1585.1.1:
+    birth: argos
+    first_name: iasus
+    dynasty: phoroneidae_dynasty
+    adm: 55
+    dip: 50
+    mil: 60
+    religion: aegean_mainland_religion
+    culture: proto_argive
+    father: argos_triopas_phoroneidae
+  -1552.1.1:
+    death: yes
+  # King of Argos; sometimes father of Agenor.
+
+argos_agenor_phoroneidae:
+  -1552.1.1:
+    birth: argos
+    first_name: agenor
+    dynasty: phoroneidae_dynasty
+    adm: 50
+    dip: 55
+    mil: 55
+    religion: aegean_mainland_religion
+    culture: proto_argive
+    father: argos_iasus_phoroneidae
+  -1526.1.1:
+    death: yes
+# Sometimes identified as father of Crotopus.
+
+argos_crotopus_phoroneidae:
+  -1526.1.1:
+    birth: argos
+    first_name: crotopus
+    dynasty: phoroneidae_dynasty
+    adm: 55
+    dip: 60
+    mil: 50
+    religion: aegean_mainland_religion
+    culture: proto_argive
+    father: argos_agenor_phoroneidae
+  -1502.1.1:
+    death: yes
+# Sometimes identified as father of Sthenelus.
+
+argos_sthenelus_phoroneidae:
+  -1502.1.1:
+    birth: argos
+    first_name: sthenelus
+    dynasty: phoroneidae_dynasty
+    adm: 60
+    dip: 55
+    mil: 60
+    religion: aegean_mainland_religion
+    culture: proto_argive
+    father: argos_crotopus_phoroneidae
+  -1475.1.1:
+    death: yes
+# Sometimes identified as father of Gelanor.
+
+argos_gelanor_phoroneidae:
+  -1475.1.1:
+    birth: argos
+    first_name: gelanor
+    dynasty: phoroneidae_dynasty
+    adm: 58
+    dip: 55
+    mil: 55
+    religion: aegean_mainland_religion
+    culture: proto_argive
+    father: argos_sthenelus_phoroneidae
+  -1450.1.1:
+    death: yes
+
+# ====================================================
+# Danaid Dynasty (Argive rulers — House of Danaus)
+# ====================================================
+
+argos_danaus_danaidae:
+  -1470.1.1:
+    birth: argos
+    first_name: danaus
+    dynasty: danaidae_dynasty
+    adm: 65
+    dip: 55
+    mil: 50
+    father: argos_egyptus_phoroneidae
+    spouse: argos_europe_danaidae
+    religion: aegean_mainland_religion
+    culture: proto_argive
+  -1425.1.1:
+    death: yes
+  # Founder of the Danaid line; fled Egypt to Argos, married Europe.
+
+# Danaus’ wife Europa (sometimes called Europa), daughter of Nilus or Belus
+argos_europa_danaidae:
+  -1475.1.1:
+    birth: argos
+    first_name: europa
+    dynasty: danaidae_dynasty
+    female: yes
+    adm: 55
+    dip: 60
+    mil: 25
+    spouse: argos_danaus_danaidae
+  -1420.1.1:
+    death: yes
+  # Wife of Danaus; mother of the Danaides.
+
+argos_lynceus_danaidae:
+  -1445.1.1:
+    birth: argos
+    first_name: lynceus
+    dynasty: danaidae_dynasty
+    adm: 60
+    dip: 58
+    mil: 65
+    father: argos_danaus_danaidae
+    spouse: argos_hypermnestra_danaidae
+    religion: aegean_mainland_religion
+    culture: proto_argive
+  -1405.1.1:
+    death: yes
+  # Son of Danaus and Europa; one of the few Danaides’ husbands to survive.
+
+# ====================================================
+# Abantid Dynasty (Argive rulers — House of Abas)
+# ====================================================
+
+argos_abas_abantidae:
+  -1420.1.1:
+    birth: argos
+    first_name: abas
+    dynasty: abantidae_dynasty
+    adm: 80
+    dip: 71
+    mil: 80
+    father: argos_lynceus_danaidae
+    religion: aegean_mainland_religion
+    culture: proto_argive
+  -1380.1.1:
+    death: yes
+  # Son of Lynceus and Hypermnestra; succeeded as king of Argos.
+
+argos_acrisius_abantidae:
+  -1400.1.1:
+    birth: argos
+    first_name: acrisius
+    dynasty: abantidae_dynasty
+    adm: 55
+    dip: 50
+    mil: 72
+    father: argos_abas_abantidae
+    religion: aegean_mainland_religion
+    culture: proto_argive
+  -1368.1.1:
+    death: yes
+  # Son of Abas; king of Argos; father of Danae.
+
+argos_proetus_proetidae:
+  -1400.1.1:
+    birth: argos
+    first_name: proetus
+    dynasty: proetidae_dynasty
+    adm: 62
+    dip: 55
+    mil: 68
+    father: argos_abas_abantidae
+    religion: achaean_religion
+    culture: argive_achaean
+    spouse: argos_stheneboea_proetidae
+  -1350.1.1:
+    death: yes
+
+# ====================================================
+# Danae, mother of Perseus
+# ====================================================
+
+argos_danae_abantidae:
+  -1370.1.1:
+    birth: argos
+    first_name: danae
+    dynasty: abantidae_dynasty
+    female: yes
+    adm: 50
+    dip: 55
+    mil: 25
+    father: argos_acrisius_abantidae
+    religion: achaean_religion
+    culture: proto_argive
+  -1320.1.1:
+    death: yes
+  # Daughter of Acrisius; mother of Perseus by Zeus; survived the fall of the Argive line.
+
+
+# ====================================================
+# Proetid Dynasty (Post-Abantidae Exchange)
+# ====================================================
+
+argos_stheneboea_proetidae:
+  -1395.1.1:
+    birth: argos
+    first_name: stheneboea
+    female: yes
+    spouse: argos_proetus_proetidae
+    adm: 60
+    dip: 58
+    mil: 18
+    religion: achaean_religion
+    culture: argive_achaean
+  -1355.1.1:
+    death: yes
+
+argos_megapenthes_proetidae:
+  -1365.1.1:
+    birth: argos
+    first_name: megapenthes
+    dynasty: proetidae_dynasty
+    father: argos_proetus_proetidae
+    mother: argos_stheneboea_proetidae
+    adm: 67
+    dip: 62
+    mil: 75
+    religion: achaean_religion
+    culture: argive_achaean
+    spouse: argos_euryanassa_proetidae
+  -1315.1.1:
+    death: yes
+
+argos_euryanassa_proetidae:
+  -1360.1.1:
+    birth: argos
+    first_name: euryanassa
+    female: yes
+    spouse: argos_megapenthes_proetidae
+    adm: 65
+    dip: 60
+    mil: 20
+    religion: achaean_religion
+    culture: argive_achaean
+  -1310.1.1:
+    death: yes
+
+argos_argeus_proetidae:
+  -1335.1.1:
+    birth: argos
+    first_name: argeus
+    dynasty: proetidae_dynasty
+    father: argos_megapenthes_proetidae
+    mother: argos_euryanassa_proetidae
+    adm: 66
+    dip: 61
+    mil: 70
+    religion: achaean_religion
+    culture: argive_achaean
+    spouse: argos_lysinome_proetidae
+  -1285.1.1:
+    death: yes
+
+argos_lysinome_proetidae:
+  -1338.1.1:
+    birth: argos
+    first_name: lysinome
+    female: yes
+    spouse: argos_argeus_proetidae
+    adm: 60
+    dip: 63
+    mil: 15
+    religion: achaean_religion
+    culture: argive_achaean
+  -1288.1.1:
+    death: yes
+
+
+# ====================================================
+# Biasid Dynasty (Western Argos Rulers)
+# ====================================================
+
+argos_bias_biasidae:
+  -1300.1.1:
+    birth: argos
+    first_name: bias
+    dynasty: biasidae_dynasty
+    adm: 68
+    dip: 70
+    mil: 64
+    religion: achaean_religion
+    culture: argive_achaean
+    spouse: argos_pero_biasidae
+  -1255.1.1:
+    death: yes
+
+argos_pero_biasidae:
+  -1305.1.1:
+    birth: argos
+    first_name: pero
+    female: yes
+    spouse: argos_bias_biasidae
+    adm: 60
+    dip: 62
+    mil: 15
+    religion: achaean_religion
+    culture: argive_achaean
+  -1250.1.1:
+    death: yes
+
+argos_talaus_biasidae:
+  -1275.1.1:
+    birth: argos
+    first_name: talaus
+    dynasty: biasidae_dynasty
+    father: argos_bias_biasidae
+    mother: argos_pero_biasidae
+    adm: 67
+    dip: 58
+    mil: 72
+    religion: achaean_religion
+    culture: argive_achaean
+    spouse: argos_lysianassa_biasidae
+  -1230.1.1:
+    death: yes
+
+argos_lysianassa_biasidae:
+  -1278.1.1:
+    birth: argos
+    first_name: lysianassa
+    female: yes
+    spouse: argos_talaus_biasidae
+    adm: 58
+    dip: 65
+    mil: 18
+    religion: achaean_religion
+    culture: argive_achaean
+  -1225.1.1:
+    death: yes
+
+argos_adrastus_biasidae:
+  -1248.1.1:
+    birth: argos
+    first_name: adrastus
+    dynasty: biasidae_dynasty
+    father: argos_talaus_biasidae
+    mother: argos_lysianassa_biasidae
+    adm: 70
+    dip: 74
+    mil: 77
+    religion: achaean_religion
+    culture: argive_achaean
+    spouse: argos_amphithea_biasidae
+  -1198.1.1:
+    death: yes
+
+argos_amphithea_biasidae:
+  -1250.1.1:
+    birth: argos
+    first_name: amphithea
+    female: yes
+    spouse: argos_adrastus_biasidae
+    adm: 63
+    dip: 65
+    mil: 20
+    religion: achaean_religion
+    culture: argive_achaean
+  -1200.1.1:
+    death: yes
+
+argos_cyanippus_biasidae:
+  -1180.1.1:
+    birth: argos
+    first_name: cyanippus
+    dynasty: biasidae_dynasty
+    father: argos_adrastus_biasidae
+    mother: argos_amphithea_biasidae
+    adm: 65
+    dip: 60
+    mil: 68
+    religion: achaean_religion
+    culture: argive_achaean
+  -1130.1.1:
+    death: yes
+
+argos_aegiale_biasidae:
+  -1214.1.1:
+    birth: argos
+    first_name: aegiale
+    female: yes
+    father: argos_adrastus_biasidae
+    mother: argos_amphithea_biasidae
+    spouse: aetolia_diomedes_tydeidae
+    adm: 64
+    dip: 70
+    mil: 0
+    religion: achaean_religion
+    culture: argive_achaean
+  -1150.1.1:
+    death: yes
+# Died, realm absorbed by Cylarabes
+
+# ====================================================
+# Aetolian Hero (Argive by Rule)
+# ====================================================
+
+aetolia_diomedes_tydeidae:
+  -1212.1.1:
+    birth: aetolia
+    first_name: diomedes
+    dynasty: tydeidae_dynasty
+    adm: 90
+    dip: 84
+    mil: 100
+    religion: achaean_religion
+    culture: aetolian_achaean
+    spouse: argos_aegiale_biasidae
+  -1102.1.1:
+    death: yes

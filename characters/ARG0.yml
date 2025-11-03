@@ -12,6 +12,7 @@ argos_inachus_inachidae:
     mil: 35
     religion: aegean_mainland_religion
     culture: proto_argive
+    tag: ARG0
     spouse: argos_melia_inachidae
   -1790.1.1:
     death: yes
@@ -27,6 +28,7 @@ argos_melia_inachidae:
     mil: 25
     religion: aegean_mainland_religion
     culture: proto_argive
+    tag: ARG0
     spouse: argos_inachus_inachidae
   -1788.1.1:
     death: yes
@@ -42,6 +44,7 @@ argos_io_inachidae:
     mil: 20
     religion: aegean_mainland_religion
     culture: proto_argive
+    tag: ARG0
     father: argos_inachus_inachidae
   -1760.1.1:
     death: yes
@@ -56,6 +59,7 @@ argos_naiad_inachidae:
     mil: 30
     religion: aegean_mainland_religion
     culture: proto_argive
+    tag: ARG0
     spouse: argos_phoroneus_inachidae
   -1760.1.1:
     death: yes
@@ -70,6 +74,7 @@ argos_aegialeus_inachidae:
     mil: 50
     religion: aegean_mainland_religion
     culture: proto_argive
+    tag: ARG0
     father: argos_inachus_inachidae
     spouse: argos_danae_inachidae
   -1780.1.1:
@@ -90,6 +95,7 @@ argos_phoroneus_phoroneidae:
     mil: 40
     religion: aegean_mainland_religion
     culture: proto_argive
+    tag: ARG0
     spouse: argos_naiad_inachidae
   -1745.1.1:
     death: yes
@@ -106,6 +112,7 @@ argos_apis_phoroneidae:
     mil: 65
     religion: aegean_mainland_religion
     culture: proto_argive
+    tag: ARG0
   -1715.1.1:
     death: yes
   # Son of Phoroneus; became king of Argos; sometimes conflated with a tyrant figure.
@@ -121,6 +128,7 @@ argos_argus_phoroneidae:
     mil: 70
     religion: aegean_mainland_religion
     culture: proto_argive
+    tag: ARG0
   -1676.1.1:
     death: yes
   # Son of Phoroneus; founder of Argos’ line of kings; sometimes father of Crotopus.
@@ -136,6 +144,7 @@ argos_criasus_phoroneidae:
     mil: 60
     religion: aegean_mainland_religion
     culture: proto_argive
+    tag: ARG0
   -1645.1.1:
     death: yes
   # Mythically, one of the kings of Argos; father of Phorbas.
@@ -150,6 +159,7 @@ argos_phorbas_phoroneidae:
     mil: 55
     religion: aegean_mainland_religion
     culture: proto_argive
+    tag: ARG0
   -1613.1.1:
     death: yes
   # King of Argos; father of Triopas.
@@ -164,6 +174,7 @@ argos_triopas_phoroneidae:
     mil: 50
     religion: aegean_mainland_religion
     culture: proto_argive
+    tag: ARG0
     father: argos_phorbas_phoroneidae
   -1585.1.1:
     death: yes
@@ -179,6 +190,7 @@ argos_iasus_phoroneidae:
     mil: 60
     religion: aegean_mainland_religion
     culture: proto_argive
+    tag: ARG0
     father: argos_triopas_phoroneidae
   -1552.1.1:
     death: yes
@@ -194,6 +206,7 @@ argos_agenor_phoroneidae:
     mil: 55
     religion: aegean_mainland_religion
     culture: proto_argive
+    tag: ARG0
     father: argos_iasus_phoroneidae
   -1526.1.1:
     death: yes
@@ -209,6 +222,7 @@ argos_crotopus_phoroneidae:
     mil: 50
     religion: aegean_mainland_religion
     culture: proto_argive
+    tag: ARG0
     father: argos_agenor_phoroneidae
   -1502.1.1:
     death: yes
@@ -224,6 +238,7 @@ argos_sthenelus_phoroneidae:
     mil: 60
     religion: aegean_mainland_religion
     culture: proto_argive
+    tag: ARG0
     father: argos_crotopus_phoroneidae
   -1475.1.1:
     death: yes
@@ -239,6 +254,7 @@ argos_gelanor_phoroneidae:
     mil: 55
     religion: aegean_mainland_religion
     culture: proto_argive
+    tag: ARG0
     father: argos_sthenelus_phoroneidae
   -1450.1.1:
     death: yes
@@ -259,6 +275,7 @@ argos_danaus_danaidae:
     spouse: argos_europe_danaidae
     religion: aegean_mainland_religion
     culture: proto_argive
+    tag: ARG0
   -1425.1.1:
     death: yes
   # Founder of the Danaid line; fled Egypt to Argos, married Europe.
@@ -290,6 +307,7 @@ argos_lynceus_danaidae:
     spouse: argos_hypermnestra_danaidae
     religion: aegean_mainland_religion
     culture: proto_argive
+    tag: ARG0
   -1405.1.1:
     death: yes
   # Son of Danaus and Europa; one of the few Danaides’ husbands to survive.
@@ -309,6 +327,7 @@ argos_abas_abantidae:
     father: argos_lynceus_danaidae
     religion: aegean_mainland_religion
     culture: proto_argive
+    tag: ARG0
   -1380.1.1:
     death: yes
   # Son of Lynceus and Hypermnestra; succeeded as king of Argos.
@@ -324,6 +343,7 @@ argos_acrisius_abantidae:
     father: argos_abas_abantidae
     religion: aegean_mainland_religion
     culture: proto_argive
+    tag: ARG0
   -1368.1.1:
     death: yes
   # Son of Abas; king of Argos; father of Danae.
@@ -339,6 +359,7 @@ argos_proetus_proetidae:
     father: argos_abas_abantidae
     religion: achaean_religion
     culture: argive_achaean
+    tag: ARG0
     spouse: argos_stheneboea_proetidae
   -1350.1.1:
     death: yes
@@ -359,6 +380,7 @@ argos_danae_abantidae:
     father: argos_acrisius_abantidae
     religion: achaean_religion
     culture: proto_argive
+    tag: ARG0
   -1320.1.1:
     death: yes
   # Daughter of Acrisius; mother of Perseus by Zeus; survived the fall of the Argive line.
@@ -379,6 +401,7 @@ argos_stheneboea_proetidae:
     mil: 18
     religion: achaean_religion
     culture: argive_achaean
+    tag: ARG0
   -1355.1.1:
     death: yes
 
@@ -394,6 +417,7 @@ argos_megapenthes_proetidae:
     mil: 75
     religion: achaean_religion
     culture: argive_achaean
+    tag: ARG0
     spouse: argos_euryanassa_proetidae
   -1315.1.1:
     death: yes
@@ -409,6 +433,7 @@ argos_euryanassa_proetidae:
     mil: 20
     religion: achaean_religion
     culture: argive_achaean
+    tag: ARG0
   -1310.1.1:
     death: yes
 
@@ -424,6 +449,7 @@ argos_argeus_proetidae:
     mil: 70
     religion: achaean_religion
     culture: argive_achaean
+    tag: ARG0
     spouse: argos_lysinome_proetidae
   -1285.1.1:
     death: yes
@@ -439,6 +465,7 @@ argos_lysinome_proetidae:
     mil: 15
     religion: achaean_religion
     culture: argive_achaean
+    tag: ARG0
   -1288.1.1:
     death: yes
 
@@ -457,6 +484,7 @@ argos_bias_biasidae:
     mil: 64
     religion: achaean_religion
     culture: argive_achaean
+    tag: ARG0
     spouse: argos_pero_biasidae
   -1255.1.1:
     death: yes
@@ -472,6 +500,7 @@ argos_pero_biasidae:
     mil: 15
     religion: achaean_religion
     culture: argive_achaean
+    tag: ARG0
   -1250.1.1:
     death: yes
 
@@ -487,6 +516,7 @@ argos_talaus_biasidae:
     mil: 72
     religion: achaean_religion
     culture: argive_achaean
+    tag: ARG0
     spouse: argos_lysianassa_biasidae
   -1230.1.1:
     death: yes
@@ -502,6 +532,7 @@ argos_lysianassa_biasidae:
     mil: 18
     religion: achaean_religion
     culture: argive_achaean
+    tag: ARG0
   -1225.1.1:
     death: yes
 
@@ -517,6 +548,7 @@ argos_adrastus_biasidae:
     mil: 77
     religion: achaean_religion
     culture: argive_achaean
+    tag: ARG0
     spouse: argos_amphithea_biasidae
   -1198.1.1:
     death: yes
@@ -532,6 +564,7 @@ argos_amphithea_biasidae:
     mil: 20
     religion: achaean_religion
     culture: argive_achaean
+    tag: ARG0
   -1200.1.1:
     death: yes
 
@@ -547,6 +580,7 @@ argos_cyanippus_biasidae:
     mil: 68
     religion: achaean_religion
     culture: argive_achaean
+    tag: ARG0
   -1130.1.1:
     death: yes
 
@@ -563,6 +597,7 @@ argos_aegiale_biasidae:
     mil: 0
     religion: achaean_religion
     culture: argive_achaean
+    tag: ARG0
   -1150.1.1:
     death: yes
 # Died, realm absorbed by Cylarabes
@@ -573,7 +608,7 @@ argos_aegiale_biasidae:
 
 aetolia_diomedes_tydeidae:
   -1212.1.1:
-    birth: aetolia
+    birth: argos
     first_name: diomedes
     dynasty: tydeidae_dynasty
     adm: 90
@@ -582,5 +617,6 @@ aetolia_diomedes_tydeidae:
     religion: achaean_religion
     culture: aetolian_achaean
     spouse: argos_aegiale_biasidae
+    tag: ARG0
   -1102.1.1:
     death: yes

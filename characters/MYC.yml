@@ -55,7 +55,7 @@ mycenae_eurystheus_perseidae:
     first_name: eurystheus
     dynasty: perseidae_dynasty
     adm: 65
-    dip: 55
+    dip: 48
     mil: 70
     father: mycenae_sthenelus_perseidae
     religion: achaean_religion
@@ -131,7 +131,7 @@ mycenae_clytemnestra_pelopidae:
     death: yes
 
 mycenae_orestes_pelopidae:
-  -1195.1.1:
+  -1196.1.1:
     birth: mycenae
     first_name: orestes
     dynasty: pelopidae_dynasty
@@ -166,7 +166,7 @@ mycenae_penthilus_pelopidae:
     first_name: penthilus
     dynasty: pelopidae_dynasty
     father: mycenae_tisamenus_pelopidae
-    adm: 60
+    adm: 62
     dip: 55
     mil: 55
     religion: achaean_religion
@@ -181,7 +181,7 @@ mycenae_aletes_pelopidae:
     first_name: aletes
     dynasty: pelopidae_dynasty
     father: mycenae_penthilus_pelopidae
-    adm: 60
+    adm: 55
     dip: 55
     mil: 60
     religion: achaean_religion
@@ -202,5 +202,5 @@ mycenae_ogyges_pelopidae:
     religion: achaean_religion
     culture: mycenaean
     tag: MYC
-  -859.1:
+  -865.1:
     death: yes

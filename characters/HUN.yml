@@ -1,149 +1,70 @@
-hun_nimrodos_magyar:
-  570.1.1:
-    birth: tambov #TODO: Date and location guessed, check if better data is available
-    first_name: nimrodos
-    dynasty: magyar_dynasty
-    adm: 45
-    dip: 15
-    mil: 60
-    religion: 
-    culture: hungarian
-  660.1.1:
-    death: yes
-hun_magor_magyar:
-  630.1.1:
-    birth: tambov #TODO: Date and location guessed, check if better data is available
-    first_name: magor
-    dynasty: magyar_dynasty
-    adm: 30
-    dip: 45
-    mil: 60
-    religion: 
-    culture: hungarian
-  720.1.1:
-    death: yes
-hun_ugyek_magyar:
-  690.1.1:
-    birth: bratslav #TODO: Date and location guessed, check if better data is available
-    first_name: ugyek
-    dynasty: magyar_dynasty
-    adm: 30
-    dip: 15
-    mil: 60
-    religion: 
-    culture: hungarian
-  780.1.1:
-    death: yes
-hun_kurszan_arpad:
-  750.1.1:
-    birth: bratslav #TODO: Date and location guessed, check if better data is available
-    first_name: kurszan
-    dynasty: arpad_dynasty
-    adm: 45
-    dip: 15
-    mil: 45
-    religion: 
-    culture: hungarian
-  854.1.1:
-    death: yes
 hun_almos_arpad:
   820.1.1:
     birth: bratslav #TODO: Date and location guessed, check if better data is available
     first_name: almos
     dynasty: arpad_dynasty
-    father: hun_kurszan_arpad #TODO: check if this makes sense
+    father: unknown
     adm: 75
     dip: 75
     mil: 60
     religion: 
     culture: hungarian
-  895.1.1:
-    death: yes
-hun_almos_arpad_1:
-  824.1.1:
-    birth: bratslav #TODO: Date and location guessed, check if better data is available
-    first_name: almos
-    dynasty: arpad_dynasty
-    adm: 75
-    dip: 75
-    mil: 60
-    religion: 
-    culture: hungarian
-  895.1.1:
+    tag = HUN
+  896.1.1:
     death: yes
 hun_arpad_arpad:
-  845.1.1:
-    birth: bratslav #TODO: Date and location guessed, check if better data is available
+  855.1.1:
+    birth: bratslav #TODO: location guessed, check if better data is available
     first_name: arpad
     dynasty: arpad_dynasty
-    father: hun_almos_arpad_1 #TODO: check if this makes sense
     adm: 15
     dip: 75
     mil: 15
     religion: 
     culture: hungarian
-  907.1.1:
+    tag = HUN
+  900.1.1:
     death: yes
-hun_arpad_arpad_1:
+hun_jutocsa_arpad:
   865.1.1:
-    birth: pest #TODO: Date and location guessed, check if better data is available
-    first_name: arpad
-    dynasty: arpad_dynasty
-    adm: 15
-    dip: 75
-    mil: 15
-    religion: 
-    culture: hungarian
-  907.1.1:
-    death: yes
-hun_zoltan_arpad:
-  880.1.1:
     birth: bratslav #TODO: Date and location guessed, check if better data is available
-    first_name: zoltan
+    first_name: jutocsa
     dynasty: arpad_dynasty
-    father: hun_arpad_arpad_1 #TODO: check if this makes sense
-    adm: 60
-    dip: 45
-    mil: 45
+    father: hun_arpad_arpad
+    adm: 75
+    dip: 75
+    mil: 60
     religion: 
     culture: hungarian
-  947.1.1:
+    tag = HUN
+      950.1.1: # guess
     death: yes
-hun_zoltan_arpad_1:
-  877.1.1:
-    birth: pest #TODO: Date and location guessed, check if better data is available
-    first_name: zoltan
+hun_zolta_arpad:
+  867.1.1:
+    birth: bratslav #TODO: Date and location guessed, check if better data is available
+    first_name: jutocsa
     dynasty: arpad_dynasty
-    adm: 60
-    dip: 45
-    mil: 45
+    father: hun_arpad_arpad
+    adm: 75
+    dip: 75
+    mil: 60
     religion: 
     culture: hungarian
-  947.1.1:
+    tag = HUN
+  950.1.1: # guess
     death: yes
-hun_fajsz_arpad:
+hun_felicsi_arpad:
   900.1.1:
     birth: pest #TODO: Date and location guessed, check if better data is available
-    first_name: fajsz
+    first_name: felicsi
     dynasty: arpad_dynasty
-    father: hun_zoltan_arpad_1 #TODO: check if this makes sense
+    father: hun_jutocsa_arpad
     adm: 60
     dip: 15
     mil: 75
     religion: 
     culture: hungarian
-  955.1.1:
-    death: yes
-hun_fajsz_arpad_1:
-  917.1.1:
-    birth: pest #TODO: Date and location guessed, check if better data is available
-    first_name: fajsz
-    dynasty: arpad_dynasty
-    adm: 60
-    dip: 15
-    mil: 75
-    religion: 
-    culture: hungarian
+    tag = HUN
   955.1.1:
     death: yes
 hun_taksony_arpad:
@@ -151,24 +72,13 @@ hun_taksony_arpad:
     birth: pest #TODO: Date and location guessed, check if better data is available
     first_name: taksony
     dynasty: arpad_dynasty
-    father: hun_fajsz_arpad_1 #TODO: check if this makes sense
-    adm: 45
-    dip: 45
-    mil: 30
+    father: hun_zolta_arpad
+    adm: 60
+    dip: 15
+    mil: 75
     religion: 
     culture: hungarian
-  972.1.1:
-    death: yes
-hun_taksony_arpad_1:
-  925.1.1:
-    birth: pest #TODO: Date and location guessed, check if better data is available
-    first_name: taksony
-    dynasty: arpad_dynasty
-    adm: 45
-    dip: 45
-    mil: 30
-    religion: 
-    culture: hungarian
+    tag = HUN
   972.1.1:
     death: yes
 hun_geza_arpad:
@@ -176,29 +86,18 @@ hun_geza_arpad:
     birth: pest #TODO: Date and location guessed, check if better data is available
     first_name: geza
     dynasty: arpad_dynasty
-    father: hun_taksony_arpad_1 #TODO: check if this makes sense
+    father: hun_taksony_arpad
     adm: 60
     dip: 45
     mil: 45
-    religion: 
+    religion: # born and raised pagan, converts to christianity in 972
     culture: hungarian
-  997.1.1:
-    death: yes
-hun_geza_arpad_1:
-  942.1.1:
-    birth: pest #TODO: Date and location guessed, check if better data is available
-    first_name: geza
-    dynasty: arpad_dynasty
-    adm: 60
-    dip: 45
-    mil: 45
-    religion: 
-    culture: hungarian
+    tag = HUN
   997.1.1:
     death: yes
 hun_istvan_i_arpad:
   967.1.1:
-    birth: pest #TODO: Date and location guessed, check if better data is available
+    birth: esztergom # or fehervar
     first_name: istvan
     dynasty: arpad_dynasty
     adm: 60
@@ -206,32 +105,22 @@ hun_istvan_i_arpad:
     mil: 60
     religion: catholic
     culture: hungarian
+    tag = HUN
   1038.8.15:
     death: yes
 hun_peter_i_arpad:
   1010.1.1:
-    birth: pest #TODO: Date and location guessed, check if better data is available
+    birth: venice
     first_name: peter
-    dynasty: arpad_dynasty
-    father: hun_istvan_i_arpad #TODO: check if this makes sense
+    dynasty: orseolo_dynasty
+    father: ven_otto_orseolo
     adm: 45
     dip: 75
     mil: 75
     religion: catholic
     culture: hungarian
+    tag = HUN
   1059.8.30:
-    death: yes
-hun_peter_i_arpad_1:
-  1008.1.1:
-    birth: pest #TODO: Date and location guessed, check if better data is available
-    first_name: peter
-    dynasty: arpad_dynasty
-    adm: 45
-    dip: 75
-    mil: 75
-    religion: catholic
-    culture: hungarian
-  1041.1.1:
     death: yes
 hun_samuel_i_aba:
   1011.1.1:
@@ -243,19 +132,8 @@ hun_samuel_i_aba:
     mil: 60
     religion: catholic
     culture: hungarian
+    tag = HUN
   1044.1.1:
-    death: yes
-hun_peter_i_arpad_2:
-  1014.1.1:
-    birth: pest #TODO: Date and location guessed, check if better data is available
-    first_name: peter
-    dynasty: arpad_dynasty
-    adm: 45
-    dip: 75
-    mil: 75
-    religion: catholic
-    culture: hungarian
-  1046.1.1:
     death: yes
 hun_andras_i_arpad:
   1013.1.1:
@@ -268,18 +146,7 @@ hun_andras_i_arpad:
     mil: 15
     religion: catholic
     culture: hungarian
-  1060.12.6:
-    death: yes
-hun_andras_i_arpad_1:
-  1016.1.1:
-    birth: pest #TODO: Date and location guessed, check if better data is available
-    first_name: andras
-    dynasty: arpad_dynasty
-    adm: 75
-    dip: 15
-    mil: 15
-    religion: catholic
-    culture: hungarian
+    tag = HUN
   1060.12.6:
     death: yes
 hun_bela_i_arpad:
@@ -293,18 +160,7 @@ hun_bela_i_arpad:
     mil: 60
     religion: catholic
     culture: hungarian
-  1063.9.11:
-    death: yes
-hun_bela_i_arpad_1:
-  1030.1.1:
-    birth: pest #TODO: Date and location guessed, check if better data is available
-    first_name: bela
-    dynasty: arpad_dynasty
-    adm: 45
-    dip: 30
-    mil: 60
-    religion: catholic
-    culture: hungarian
+    tag = HUN
   1063.9.11:
     death: yes
 hun_salamon_i_arpad:
@@ -318,6 +174,7 @@ hun_salamon_i_arpad:
     mil: 15
     religion: catholic
     culture: hungarian
+    tag = HUN
   1087.1.1:
     death: yes
 hun_salamon_i_arpad_1:
@@ -330,6 +187,7 @@ hun_salamon_i_arpad_1:
     mil: 15
     religion: catholic
     culture: hungarian
+    tag = HUN
   1074.1.1:
     death: yes
 hun_geza_i_arpad:
@@ -342,6 +200,7 @@ hun_geza_i_arpad:
     mil: 45
     religion: catholic
     culture: hungarian
+    tag = HUN
   1077.4.25:
     death: yes
 hun_laszlo_i_arpad:
@@ -355,6 +214,7 @@ hun_laszlo_i_arpad:
     mil: 60
     religion: catholic
     culture: hungarian
+    tag = HUN
   1095.7.29:
     death: yes
 hun_laszlo_i_arpad_1:
@@ -367,6 +227,7 @@ hun_laszlo_i_arpad_1:
     mil: 60
     religion: catholic
     culture: hungarian
+    tag = HUN
   1095.7.29:
     death: yes
 hun_kalman_i_arpad:
@@ -380,6 +241,7 @@ hun_kalman_i_arpad:
     mil: 45
     religion: catholic
     culture: hungarian
+    tag = HUN
   1116.2.3:
     death: yes
 hun_kalman_i_arpad_1:
@@ -392,6 +254,7 @@ hun_kalman_i_arpad_1:
     mil: 45
     religion: catholic
     culture: hungarian
+    tag = HUN
   1116.2.3:
     death: yes
 hun_istvan_ii_arpad:
@@ -405,6 +268,7 @@ hun_istvan_ii_arpad:
     mil: 30
     religion: catholic
     culture: hungarian
+    tag = HUN
   1131.3.1:
     death: yes
 hun_istvan_ii_arpad_1:
@@ -417,6 +281,7 @@ hun_istvan_ii_arpad_1:
     mil: 30
     religion: catholic
     culture: hungarian
+    tag = HUN
   1131.3.1:
     death: yes
 hun_bela_ii_arpad:
@@ -430,6 +295,7 @@ hun_bela_ii_arpad:
     mil: 30
     religion: catholic
     culture: hungarian
+    tag = HUN
   1141.2.13:
     death: yes
 hun_bela_ii_arpad_1:
@@ -442,6 +308,7 @@ hun_bela_ii_arpad_1:
     mil: 30
     religion: catholic
     culture: hungarian
+    tag = HUN
   1141.2.13:
     death: yes
 hun_geza_ii_arpad:
@@ -455,6 +322,7 @@ hun_geza_ii_arpad:
     mil: 75
     religion: catholic
     culture: hungarian
+    tag = HUN
   1162.5.31:
     death: yes
 hun_geza_ii_arpad_1:
@@ -467,6 +335,7 @@ hun_geza_ii_arpad_1:
     mil: 75
     religion: catholic
     culture: hungarian
+    tag = HUN
   1162.5.31:
     death: yes
 hun_istvan_iii_arpad:
@@ -480,6 +349,7 @@ hun_istvan_iii_arpad:
     mil: 75
     religion: catholic
     culture: hungarian
+    tag = HUN
   1172.3.4:
     death: yes
 hun_istvan_iii_arpad_1:
@@ -492,6 +362,7 @@ hun_istvan_iii_arpad_1:
     mil: 75
     religion: catholic
     culture: hungarian
+    tag = HUN
   1172.3.4:
     death: yes
 hun_bela_iii_arpad:
@@ -505,6 +376,7 @@ hun_bela_iii_arpad:
     mil: 15
     religion: catholic
     culture: hungarian
+    tag = HUN
   1196.4.23:
     death: yes
 hun_bela_iii_arpad_1:
@@ -517,6 +389,7 @@ hun_bela_iii_arpad_1:
     mil: 15
     religion: catholic
     culture: hungarian
+    tag = HUN
   1196.4.23:
     death: yes
 hun_imre_i_arpad:
@@ -530,6 +403,7 @@ hun_imre_i_arpad:
     mil: 30
     religion: catholic
     culture: hungarian
+    tag = HUN
   1204.9.30:
     death: yes
 hun_imre_i_arpad_1:
@@ -542,6 +416,7 @@ hun_imre_i_arpad_1:
     mil: 30
     religion: catholic
     culture: hungarian
+    tag = HUN
   1204.9.30:
     death: yes
 hun_laszlo_iii_arpad:
@@ -555,6 +430,7 @@ hun_laszlo_iii_arpad:
     mil: 75
     religion: catholic
     culture: hungarian
+    tag = HUN
   1205.5.7:
     death: yes
 hun_laszlo_iii_arpad_1:
@@ -567,6 +443,7 @@ hun_laszlo_iii_arpad_1:
     mil: 75
     religion: catholic
     culture: hungarian
+    tag = HUN
   1205.5.7:
     death: yes
 hun_andras_ii_arpad:
@@ -580,6 +457,7 @@ hun_andras_ii_arpad:
     mil: 30
     religion: catholic
     culture: hungarian
+    tag = HUN
   1235.9.21:
     death: yes
 hun_andras_ii_arpad_1:
@@ -592,6 +470,7 @@ hun_andras_ii_arpad_1:
     mil: 30
     religion: catholic
     culture: hungarian
+    tag = HUN
   1235.9.21:
     death: yes
 hun_bela_iv_arpad:
@@ -605,6 +484,7 @@ hun_bela_iv_arpad:
     mil: 75
     religion: catholic
     culture: hungarian
+    tag = HUN
   1270.5.3:
     death: yes
 hun_bela_iv_arpad_1:
@@ -617,6 +497,7 @@ hun_bela_iv_arpad_1:
     mil: 75
     religion: catholic
     culture: hungarian
+    tag = HUN
   1270.5.3:
     death: yes
 hun_istvan_v_arpad:
@@ -630,6 +511,7 @@ hun_istvan_v_arpad:
     mil: 60
     religion: catholic
     culture: hungarian
+    tag = HUN
   1272.8.6:
     death: yes
 hun_istvan_v_arpad_1:
@@ -642,6 +524,7 @@ hun_istvan_v_arpad_1:
     mil: 60
     religion: catholic
     culture: hungarian
+    tag = HUN
   1272.8.6:
     death: yes
 hun_laszlo_iv_arpad:
@@ -655,6 +538,7 @@ hun_laszlo_iv_arpad:
     mil: 30
     religion: catholic
     culture: hungarian
+    tag = HUN
   1290.7.10:
     death: yes
 hun_laszlo_iv_arpad_1:
@@ -667,6 +551,7 @@ hun_laszlo_iv_arpad_1:
     mil: 30
     religion: catholic
     culture: hungarian
+    tag = HUN
   1290.7.10:
     death: yes
 hun_andras_iii_arpad:
@@ -680,6 +565,7 @@ hun_andras_iii_arpad:
     mil: 30
     religion: catholic
     culture: hungarian
+    tag = HUN
   1301.1.14:
     death: yes
 hun_andras_iii_arpad_1:
@@ -692,6 +578,7 @@ hun_andras_iii_arpad_1:
     mil: 30
     religion: catholic
     culture: hungarian
+    tag = HUN
   1301.1.14:
     death: yes
 hun_vaclav_iii_premyslid:
@@ -704,6 +591,7 @@ hun_vaclav_iii_premyslid:
     mil: 60
     religion: catholic
     culture: hungarian
+    tag = HUN
   1312.7.12:
     death: yes
 hun_karoly_i_de_anjou:
@@ -716,6 +604,7 @@ hun_karoly_i_de_anjou:
     mil: 15
     religion: catholic
     culture: hungarian
+    tag = HUN
   1342.7.21:
     death: yes
 hun_lajos_i_de_anjou:
@@ -729,6 +618,7 @@ hun_lajos_i_de_anjou:
     mil: 45
     religion: catholic
     culture: hungarian
+    tag = HUN
   1382.9.10:
     death: yes
 hun_lajos_i_de_anjou_1:
@@ -741,6 +631,7 @@ hun_lajos_i_de_anjou_1:
     mil: 45
     religion: catholic
     culture: hungarian
+    tag = HUN
   1382.9.10:
     death: yes
 hun_maria_i_de_anjou:
@@ -755,6 +646,7 @@ hun_maria_i_de_anjou:
     mil: 60
     religion: catholic
     culture: hungarian
+    tag = HUN
   1395.5.17:
     death: yes
 hun_maria_i_de_anjou_1:
@@ -768,6 +660,7 @@ hun_maria_i_de_anjou_1:
     mil: 60
     religion: catholic
     culture: hungarian
+    tag = HUN
   1387.3.31:
     death: yes
 hun_sigismund_i_von_luxemburg:
@@ -780,6 +673,7 @@ hun_sigismund_i_von_luxemburg:
     mil: 60
     religion: catholic
     culture: hungarian
+    tag = HUN
   3000.1.1:
     death: yes
 hun_ladislaus_postumus_von_habsburg:
@@ -792,6 +686,7 @@ hun_ladislaus_postumus_von_habsburg:
     mil: 30
     religion: catholic
     culture: hungarian
+    tag = HUN
   1457.11.24:
     death: yes
 hun_matyas_corvin:
@@ -804,6 +699,7 @@ hun_matyas_corvin:
     mil: 75
     religion: catholic
     culture: hungarian
+    tag = HUN
   1526.8.30:
     death: yes
 hun_janos_i_szapolyai:
@@ -816,6 +712,7 @@ hun_janos_i_szapolyai:
     mil: 45
     religion: catholic
     culture: hungarian
+    tag = HUN
   1540.7.24:
     death: yes
 hun_janos_ii_szapolyai:
@@ -828,6 +725,7 @@ hun_janos_ii_szapolyai:
     mil: 45
     religion: catholic
     culture: hungarian
+    tag = HUN
   1571.5.26:
     death: yes
 hun_istvan_bathory:
@@ -840,6 +738,7 @@ hun_istvan_bathory:
     mil: 90
     religion: catholic
     culture: hungarian
+    tag = HUN
   1576.5.3:
     death: yes
 hun_christofer_bathory:
@@ -852,6 +751,7 @@ hun_christofer_bathory:
     mil: 45
     religion: catholic
     culture: hungarian
+    tag = HUN
   1581.1.1:
     death: yes
 hun_sigismund_bathory:
@@ -864,6 +764,7 @@ hun_sigismund_bathory:
     mil: 45
     religion: catholic
     culture: hungarian
+    tag = HUN
   1599.1.1:
     death: yes
 hun_mihai_viteazul_draculecti:
@@ -876,6 +777,7 @@ hun_mihai_viteazul_draculecti:
     mil: 90
     religion: catholic
     culture: hungarian
+    tag = HUN
   3000.1.1:
     death: yes
 hun_istvan_bocskai:
@@ -888,6 +790,7 @@ hun_istvan_bocskai:
     mil: 60
     religion: catholic
     culture: hungarian
+    tag = HUN
   1606.12.30:
     death: yes
 hun_gabor_bathory:
@@ -900,6 +803,7 @@ hun_gabor_bathory:
     mil: 45
     religion: catholic
     culture: hungarian
+    tag = HUN
   1613.1.1:
     death: yes
 hun_gabor_bethlen:
@@ -912,6 +816,7 @@ hun_gabor_bethlen:
     mil: 75
     religion: catholic
     culture: hungarian
+    tag = HUN
   1629.11.17:
     death: yes
 hun_gyorgy_i_rakoczy:
@@ -924,6 +829,7 @@ hun_gyorgy_i_rakoczy:
     mil: 60
     religion: catholic
     culture: hungarian
+    tag = HUN
   1648.1.1:
     death: yes
 hun_gyorgy_ii_rakoczy:
@@ -936,6 +842,7 @@ hun_gyorgy_ii_rakoczy:
     mil: 45
     religion: catholic
     culture: hungarian
+    tag = HUN
   1665.1.1:
     death: yes
 hun_ferenc_i_rakoczy:
@@ -948,6 +855,7 @@ hun_ferenc_i_rakoczy:
     mil: 30
     religion: catholic
     culture: hungarian
+    tag = HUN
   1691.1.1:
     death: yes
 hun_ferenc_ii_rakoczy:
@@ -960,6 +868,7 @@ hun_ferenc_ii_rakoczy:
     mil: 75
     religion: secularism
     culture: hungarian
+    tag = HUN
   1918.10.31:
     death: yes
 hun_mihaly_karolyi:
@@ -971,6 +880,7 @@ hun_mihaly_karolyi:
     mil: 45
     religion: secularism
     culture: hungarian
+    tag = HUN
   1919.3.21:
     death: yes
 hun_sandor_garbai:
@@ -982,6 +892,7 @@ hun_sandor_garbai:
     mil: 60
     religion: secularism
     culture: hungarian
+    tag = HUN
   1919.8.1:
     death: yes
 hun_gyula_peidl:
@@ -993,6 +904,7 @@ hun_gyula_peidl:
     mil: 30
     religion: secularism
     culture: hungarian
+    tag = HUN
   1919.8.6:
     death: yes
 hun_joseph_august:
@@ -1004,6 +916,7 @@ hun_joseph_august:
     mil: 60
     religion: secularism
     culture: hungarian
+    tag = HUN
   1919.8.23:
     death: yes
 hun_istvan_friedrich:
@@ -1015,6 +928,7 @@ hun_istvan_friedrich:
     mil: 15
     religion: secularism
     culture: hungarian
+    tag = HUN
   1919.11.24:
     death: yes
 hun_karoly_huszar:
@@ -1026,6 +940,7 @@ hun_karoly_huszar:
     mil: 30
     religion: catholic
     culture: hungarian
+    tag = HUN
   3000.1.1:
     death: yes
 hun_zoltan_tildy:
@@ -1037,6 +952,7 @@ hun_zoltan_tildy:
     mil: 30
     religion: secularism
     culture: hungarian
+    tag = HUN
   1948.8.2:
     death: yes
 hun_arpad_szakasits:
@@ -1048,6 +964,7 @@ hun_arpad_szakasits:
     mil: 30
     religion: secularism
     culture: hungarian
+    tag = HUN
   1950.4.26:
     death: yes
 hun_sandor_ronai:
@@ -1059,6 +976,7 @@ hun_sandor_ronai:
     mil: 60
     religion: secularism
     culture: hungarian
+    tag = HUN
   1952.8.14:
     death: yes
 hun_istvan_dobi:
@@ -1070,6 +988,7 @@ hun_istvan_dobi:
     mil: 60
     religion: secularism
     culture: hungarian
+    tag = HUN
   1967.4.13:
     death: yes
 hun_pal_losonczi:
@@ -1081,6 +1000,7 @@ hun_pal_losonczi:
     mil: 45
     religion: secularism
     culture: hungarian
+    tag = HUN
   1987.6.25:
     death: yes
 hun_karoly_nemeth:
@@ -1092,6 +1012,7 @@ hun_karoly_nemeth:
     mil: 45
     religion: secularism
     culture: hungarian
+    tag = HUN
   1988.6.29:
     death: yes
 hun_bruno_ferenc_straub:
@@ -1103,6 +1024,7 @@ hun_bruno_ferenc_straub:
     mil: 45
     religion: secularism
     culture: hungarian
+    tag = HUN
   1989.10.18:
     death: yes
 hun_matyas_szuros:
@@ -1114,6 +1036,7 @@ hun_matyas_szuros:
     mil: 45
     religion: secularism
     culture: hungarian
+    tag = HUN
   1990.5.2:
     death: yes
 hun_arpad_goncz:
@@ -1125,6 +1048,7 @@ hun_arpad_goncz:
     mil: 45
     religion: secularism
     culture: hungarian
+    tag = HUN
   2000.8.4:
     death: yes
 hun_ferenc_madl:
@@ -1136,6 +1060,7 @@ hun_ferenc_madl:
     mil: 45
     religion: secularism
     culture: hungarian
+    tag = HUN
   2005.8.5:
     death: yes
 hun_laszlo_solyom:
@@ -1147,6 +1072,7 @@ hun_laszlo_solyom:
     mil: 30
     religion: secularism
     culture: hungarian
+    tag = HUN
   2010.8.6:
     death: yes
 hun_pal_schmitt:
@@ -1158,6 +1084,7 @@ hun_pal_schmitt:
     mil: 15
     religion: secularism
     culture: hungarian
+    tag = HUN
   2012.4.2:
     death: yes
 hun_laszlo_kover:
@@ -1169,6 +1096,7 @@ hun_laszlo_kover:
     mil: 30
     religion: secularism
     culture: hungarian
+    tag = HUN
   2012.5.10:
     death: yes
 hun_janos_ader:
@@ -1180,6 +1108,7 @@ hun_janos_ader:
     mil: 45
     religion: secularism
     culture: hungarian
+    tag = HUN
   2022.5.10:
     death: yes
 hun_katalin_novak:
@@ -1192,6 +1121,7 @@ hun_katalin_novak:
     mil: 30
     religion: secularism
     culture: hungarian
+    tag = HUN
   2024.3.5:
     death: yes
 hun_tamas_sulyok:
@@ -1203,5 +1133,6 @@ hun_tamas_sulyok:
     mil: 45
     religion: catholic
     culture: hungarian
+    tag = HUN
   3000.1.1:
     death: yes

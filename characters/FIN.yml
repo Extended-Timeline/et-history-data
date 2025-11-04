@@ -7,7 +7,7 @@ fin_kaarlo_juho_stahlberg:
     mil: 60
     religion: secularism
     culture: finnish
-    tag = FIN
+    tag: FIN
   1925.3.1:
     death: yes
 fin_lauri_kristian_relander:
@@ -19,7 +19,7 @@ fin_lauri_kristian_relander:
     mil: 30
     religion: secularism
     culture: finnish
-    tag = FIN
+    tag: FIN
   1931.3.1:
     death: yes
 fin_pehr_evind_svinhufvud:
@@ -31,7 +31,7 @@ fin_pehr_evind_svinhufvud:
     mil: 60
     religion: secularism
     culture: finnish
-    tag = FIN
+    tag: FIN
   1937.3.1:
     death: yes
 fin_kyosti_kallio:
@@ -43,7 +43,7 @@ fin_kyosti_kallio:
     mil: 30
     religion: secularism
     culture: finnish
-    tag = FIN
+    tag: FIN
   1940.12.19:
     death: yes
 fin_risto_ryti:
@@ -55,7 +55,7 @@ fin_risto_ryti:
     mil: 45
     religion: secularism
     culture: finnish
-    tag = FIN
+    tag: FIN
   1944.8.4:
     death: yes
 fin_carl_gustaf_emil_mannerheim:
@@ -67,7 +67,7 @@ fin_carl_gustaf_emil_mannerheim:
     mil: 75
     religion: secularism
     culture: finnish
-    tag = FIN
+    tag: FIN
   1946.3.11:
     death: yes
 fin_juko_kusti_paasikivi:
@@ -79,7 +79,7 @@ fin_juko_kusti_paasikivi:
     mil: 45
     religion: secularism
     culture: finnish
-    tag = FIN
+    tag: FIN
   1956.3.1:
     death: yes
 fin_urho_kekkonen:
@@ -91,7 +91,7 @@ fin_urho_kekkonen:
     mil: 60
     religion: secularism
     culture: finnish
-    tag = FIN
+    tag: FIN
   1982.1.27:
     death: yes
 fin_mauno_koivisto:
@@ -103,7 +103,7 @@ fin_mauno_koivisto:
     mil: 45
     religion: secularism
     culture: finnish
-    tag = FIN
+    tag: FIN
   1994.3.1:
     death: yes
 fin_martti_ahtisaari:
@@ -115,43 +115,44 @@ fin_martti_ahtisaari:
     mil: 30
     religion: secularism
     culture: finnish
-    tag = FIN
+    tag: FIN
   2000.3.1:
     death: yes
 fin_tarja_halonen:
   1943.12.24:
-    birth: helsinge #TODO: Location guessed, check if better data is available
-    first_name: tarja_halonen
+    birth: helsinge
+    first_name: tarja
+    last_name: halonen
     female: yes
     adm: 60
     dip: 60
     mil: 30
-    religion: secularism
+    religion: lutheran
     culture: finnish
-    tag = FIN
+    tag: FIN
   2012.3.1:
     death: yes
 fin_sauli_niinisto:
   1948.8.24:
-    birth: helsinge #TODO: Location guessed, check if better data is available
-    first_name: sauli_niinisto
+    birth: ekenas #Salo
+    first_name: sauli
+    last_name: niinisto
     adm: 60
     dip: 60
     mil: 45
-    religion: secularism
+    religion: lutheran
     culture: finnish
-    tag = FIN
+    tag: FIN
   2024.3.1:
     death: yes
 fin_alexander_stubb:
   1968.4.1:
-    birth: helsinge #TODO: Location guessed, check if better data is available
-    first_name: alexander_stubb
+    birth: helsinge
+    first_name: alexander
+    last_name: stubb
     adm: 45
     dip: 75
     mil: 45
     religion: lutheran
     culture: finnish
-    tag = FIN
-  3000.1.1:
-    death: yes
+    tag: FIN

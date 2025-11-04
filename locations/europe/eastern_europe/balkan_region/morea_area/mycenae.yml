@@ -6,7 +6,7 @@
     ARG0: yes
   resource: copper
   pop:
-    ethnicity: proto_argive
+    ethnicity: proto_argive_culture
     religion: aegean_mainland_religion
     estate: peasant
     size: 425
@@ -18,7 +18,7 @@
     ARG0: no
   resource: copper
   pop:
-    ethnicity: mycenaean
+    ethnicity: mycenaean_culture
     religion: achaean_religion
     estate: peasant
     size: 804
@@ -132,3 +132,7 @@
 1945.5.8:
   owner: GRE
   controller: GRE
+  cores:
+    GBR: no
+    GER: no
+    ITA: no

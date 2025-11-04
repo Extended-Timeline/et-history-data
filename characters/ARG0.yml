@@ -11,7 +11,7 @@ argos_inachus_inachidae:
     dip: 50
     mil: 35
     religion: aegean_mainland_religion
-    culture: proto_argive
+    culture: proto_argive_culture
     tag: ARG0
     spouse: argos_melia_inachidae
   -1790.1.1:
@@ -27,7 +27,7 @@ argos_melia_inachidae:
     dip: 65
     mil: 25
     religion: aegean_mainland_religion
-    culture: proto_argive
+    culture: proto_argive_culture
     tag: ARG0
     spouse: argos_inachus_inachidae
   -1788.1.1:
@@ -43,7 +43,7 @@ argos_io_inachidae:
     dip: 80
     mil: 20
     religion: aegean_mainland_religion
-    culture: proto_argive
+    culture: proto_argive_culture
     tag: ARG0
     father: argos_inachus_inachidae
   -1760.1.1:
@@ -58,7 +58,7 @@ argos_naiad_inachidae:
     dip: 65
     mil: 30
     religion: aegean_mainland_religion
-    culture: proto_argive
+    culture: proto_argive_culture
     tag: ARG0
     spouse: argos_phoroneus_inachidae
   -1760.1.1:
@@ -73,7 +73,7 @@ argos_aegialeus_inachidae:
     dip: 55
     mil: 50
     religion: aegean_mainland_religion
-    culture: proto_argive
+    culture: proto_argive_culture
     tag: ARG0
     father: argos_inachus_inachidae
     spouse: argos_danae_inachidae
@@ -94,7 +94,7 @@ argos_phoroneus_phoroneidae:
     dip: 60
     mil: 40
     religion: aegean_mainland_religion
-    culture: proto_argive
+    culture: proto_argive_culture
     tag: ARG0
     spouse: argos_naiad_inachidae
   -1745.1.1:
@@ -111,7 +111,7 @@ argos_apis_phoroneidae:
     dip: 45
     mil: 65
     religion: aegean_mainland_religion
-    culture: proto_argive
+    culture: proto_argive_culture
     tag: ARG0
   -1715.1.1:
     death: yes
@@ -127,7 +127,7 @@ argos_argus_phoroneidae:
     dip: 50
     mil: 70
     religion: aegean_mainland_religion
-    culture: proto_argive
+    culture: proto_argive_culture
     tag: ARG0
   -1676.1.1:
     death: yes
@@ -143,7 +143,7 @@ argos_criasus_phoroneidae:
     dip: 55
     mil: 60
     religion: aegean_mainland_religion
-    culture: proto_argive
+    culture: proto_argive_culture
     tag: ARG0
   -1645.1.1:
     death: yes
@@ -158,7 +158,7 @@ argos_phorbas_phoroneidae:
     dip: 50
     mil: 55
     religion: aegean_mainland_religion
-    culture: proto_argive
+    culture: proto_argive_culture
     tag: ARG0
   -1613.1.1:
     death: yes
@@ -173,7 +173,7 @@ argos_triopas_phoroneidae:
     dip: 55
     mil: 50
     religion: aegean_mainland_religion
-    culture: proto_argive
+    culture: proto_argive_culture
     tag: ARG0
     father: argos_phorbas_phoroneidae
   -1585.1.1:
@@ -189,7 +189,7 @@ argos_iasus_phoroneidae:
     dip: 50
     mil: 60
     religion: aegean_mainland_religion
-    culture: proto_argive
+    culture: proto_argive_culture
     tag: ARG0
     father: argos_triopas_phoroneidae
   -1552.1.1:
@@ -205,7 +205,7 @@ argos_agenor_phoroneidae:
     dip: 55
     mil: 55
     religion: aegean_mainland_religion
-    culture: proto_argive
+    culture: proto_argive_culture
     tag: ARG0
     father: argos_iasus_phoroneidae
   -1526.1.1:
@@ -221,7 +221,7 @@ argos_crotopus_phoroneidae:
     dip: 60
     mil: 50
     religion: aegean_mainland_religion
-    culture: proto_argive
+    culture: proto_argive_culture
     tag: ARG0
     father: argos_agenor_phoroneidae
   -1502.1.1:
@@ -237,7 +237,7 @@ argos_sthenelus_phoroneidae:
     dip: 55
     mil: 60
     religion: aegean_mainland_religion
-    culture: proto_argive
+    culture: proto_argive_culture
     tag: ARG0
     father: argos_crotopus_phoroneidae
   -1475.1.1:
@@ -253,7 +253,7 @@ argos_gelanor_phoroneidae:
     dip: 55
     mil: 55
     religion: aegean_mainland_religion
-    culture: proto_argive
+    culture: proto_argive_culture
     tag: ARG0
     father: argos_sthenelus_phoroneidae
   -1450.1.1:
@@ -274,7 +274,7 @@ argos_danaus_danaidae:
     father: argos_egyptus_phoroneidae
     spouse: argos_europe_danaidae
     religion: aegean_mainland_religion
-    culture: proto_argive
+    culture: proto_argive_culture
     tag: ARG0
   -1425.1.1:
     death: yes
@@ -306,7 +306,7 @@ argos_lynceus_danaidae:
     father: argos_danaus_danaidae
     spouse: argos_hypermnestra_danaidae
     religion: aegean_mainland_religion
-    culture: proto_argive
+    culture: proto_argive_culture
     tag: ARG0
   -1405.1.1:
     death: yes
@@ -326,7 +326,7 @@ argos_abas_abantidae:
     mil: 80
     father: argos_lynceus_danaidae
     religion: aegean_mainland_religion
-    culture: proto_argive
+    culture: proto_argive_culture
     tag: ARG0
   -1380.1.1:
     death: yes
@@ -342,7 +342,7 @@ argos_acrisius_abantidae:
     mil: 69
     father: argos_abas_abantidae
     religion: aegean_mainland_religion
-    culture: proto_argive
+    culture: proto_argive_culture
     tag: ARG0
   -1368.1.1:
     death: yes
@@ -379,7 +379,7 @@ argos_danae_abantidae:
     mil: 23
     father: argos_acrisius_abantidae
     religion: achaean_religion
-    culture: proto_argive
+    culture: proto_argive_culture
     tag: ARG0
   -1320.1.1:
     death: yes

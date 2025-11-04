@@ -38,11 +38,13 @@
     religion: chalcedonism
     estate: peasant
     size: 1000
-720.1.1:
-  owner: NOL
-  controller: NOL
+633.1.1:
+  owner: MERC
+  controller: MERC
   cores:
-    NOL: yes
+    RHEG: no
+    MERC: yes
+720.1.1:
   pop:
     ethnicity: anglo_saxon
     estate: peasant
@@ -52,25 +54,14 @@
     religion: catholic
     estate: peasant
     size: 1000
-918.1.1:
-  owner: MNN
-  controller: MNN
-  cores:
-    MNN: yes
-921.1.1:
-  owner: NOL
-  controller: NOL
-  cores:
-    MNN: no
 927.1.1:
   owner: ENG
   controller: ENG
   cores:
-    RHEG: no
     ENG: yes
 1000.1.1:
   cores:
-    NOL: no
+    MERC: no
 1066.12.25:
   pop:
     ethnicity: english

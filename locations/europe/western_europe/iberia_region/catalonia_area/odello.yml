@@ -153,4 +153,22 @@
 1793.5.1:
   controller: FRA
 1870.9.4:
-  controller: SPA
+  owner: FRA
+  controller: FRA
+  cores:
+    FRA: yes
+1900.1.1:
+  pop:
+    ethnicity: french
+    estate: peasant
+    size: 1000
+1940.6.14:
+  owner: VFRA
+  controller: VFRA
+  cores:
+    VFRA: yes
+1944.8.25:
+  owner: FRA
+  controller: FRA
+  cores:
+    VFRA: no

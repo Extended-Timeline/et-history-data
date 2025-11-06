@@ -133,7 +133,7 @@ hun_samuel_i_aba:
     religion: catholic
     culture: hungarian
     tag: HUN
-  1044.1.1:
+  1044.7.5:
     death: yes
 hun_andras_i_arpad:
   1013.1.1:
@@ -177,19 +177,6 @@ hun_salamon_i_arpad:
     tag: HUN
   1087.1.1:
     death: yes
-hun_salamon_i_arpad_1:
-  1033.1.1:
-    birth: pest #TODO: Date and location guessed, check if better data is available
-    first_name: salamon
-    dynasty: arpad_dynasty
-    adm: 30
-    dip: 75
-    mil: 15
-    religion: catholic
-    culture: hungarian
-    tag: HUN
-  1074.1.1:
-    death: yes
 hun_geza_i_arpad:
   1044.1.1:
     birth: pest #TODO: Date and location guessed, check if better data is available
@@ -217,38 +204,12 @@ hun_laszlo_i_arpad:
     tag: HUN
   1095.7.29:
     death: yes
-hun_laszlo_i_arpad_1:
-  1047.1.1:
-    birth: pest #TODO: Date and location guessed, check if better data is available
-    first_name: laszlo
-    dynasty: arpad_dynasty
-    adm: 60
-    dip: 60
-    mil: 60
-    religion: catholic
-    culture: hungarian
-    tag: HUN
-  1095.7.29:
-    death: yes
 hun_kalman_i_arpad:
   1074.1.1:
-    birth: pest #TODO: Date and location guessed, check if better data is available
+    birth: fehervar
     first_name: kalman
     dynasty: arpad_dynasty
     father: hun_laszlo_i_arpad_1 #TODO: check if this makes sense
-    adm: 75
-    dip: 60
-    mil: 45
-    religion: catholic
-    culture: hungarian
-    tag: HUN
-  1116.2.3:
-    death: yes
-hun_kalman_i_arpad_1:
-  1065.1.1:
-    birth: pest #TODO: Date and location guessed, check if better data is available
-    first_name: kalman
-    dynasty: arpad_dynasty
     adm: 75
     dip: 60
     mil: 45
@@ -271,38 +232,12 @@ hun_istvan_ii_arpad:
     tag: HUN
   1131.3.1:
     death: yes
-hun_istvan_ii_arpad_1:
-  1086.1.1:
-    birth: pest #TODO: Date and location guessed, check if better data is available
-    first_name: istvan
-    dynasty: arpad_dynasty
-    adm: 60
-    dip: 75
-    mil: 30
-    religion: catholic
-    culture: hungarian
-    tag: HUN
-  1131.3.1:
-    death: yes
 hun_bela_ii_arpad:
   1108.1.1:
     birth: pest #TODO: Date and location guessed, check if better data is available
     first_name: bela
     dynasty: arpad_dynasty
     father: hun_istvan_ii_arpad_1 #TODO: check if this makes sense
-    adm: 45
-    dip: 75
-    mil: 30
-    religion: catholic
-    culture: hungarian
-    tag: HUN
-  1141.2.13:
-    death: yes
-hun_bela_ii_arpad_1:
-  1101.1.1:
-    birth: pest #TODO: Date and location guessed, check if better data is available
-    first_name: bela
-    dynasty: arpad_dynasty
     adm: 45
     dip: 75
     mil: 30
@@ -325,38 +260,12 @@ hun_geza_ii_arpad:
     tag: HUN
   1162.5.31:
     death: yes
-hun_geza_ii_arpad_1:
-  1111.1.1:
-    birth: pest #TODO: Date and location guessed, check if better data is available
-    first_name: geza
-    dynasty: arpad_dynasty
-    adm: 15
-    dip: 45
-    mil: 75
-    religion: catholic
-    culture: hungarian
-    tag: HUN
-  1162.5.31:
-    death: yes
 hun_istvan_iii_arpad:
   1147.6.1:
     birth: pest #TODO: Location guessed, check if better data is available
     first_name: istvan
     dynasty: arpad_dynasty
     father: hun_geza_ii_arpad_1 #TODO: check if this makes sense
-    adm: 75
-    dip: 60
-    mil: 75
-    religion: catholic
-    culture: hungarian
-    tag: HUN
-  1172.3.4:
-    death: yes
-hun_istvan_iii_arpad_1:
-  1132.1.1:
-    birth: pest #TODO: Date and location guessed, check if better data is available
-    first_name: istvan
-    dynasty: arpad_dynasty
     adm: 75
     dip: 60
     mil: 75
@@ -379,38 +288,12 @@ hun_bela_iii_arpad:
     tag: HUN
   1196.4.23:
     death: yes
-hun_bela_iii_arpad_1:
-  1142.1.1:
-    birth: pest #TODO: Date and location guessed, check if better data is available
-    first_name: bela
-    dynasty: arpad_dynasty
-    adm: 60
-    dip: 15
-    mil: 15
-    religion: catholic
-    culture: hungarian
-    tag: HUN
-  1196.4.23:
-    death: yes
 hun_imre_i_arpad:
   1174.1.1:
     birth: pest #TODO: Date and location guessed, check if better data is available
     first_name: imre
     dynasty: arpad_dynasty
     father: hun_bela_iii_arpad_1 #TODO: check if this makes sense
-    adm: 60
-    dip: 60
-    mil: 30
-    religion: catholic
-    culture: hungarian
-    tag: HUN
-  1204.9.30:
-    death: yes
-hun_imre_i_arpad_1:
-  1166.1.1:
-    birth: pest #TODO: Date and location guessed, check if better data is available
-    first_name: imre
-    dynasty: arpad_dynasty
     adm: 60
     dip: 60
     mil: 30
@@ -433,38 +316,12 @@ hun_laszlo_iii_arpad:
     tag: HUN
   1205.5.7:
     death: yes
-hun_laszlo_iii_arpad_1:
-  1174.1.1:
-    birth: pest #TODO: Date and location guessed, check if better data is available
-    first_name: laszlo
-    dynasty: arpad_dynasty
-    adm: 60
-    dip: 60
-    mil: 75
-    religion: catholic
-    culture: hungarian
-    tag: HUN
-  1205.5.7:
-    death: yes
 hun_andras_ii_arpad:
   1177.1.1:
     birth: pest #TODO: Date and location guessed, check if better data is available
     first_name: andras
     dynasty: arpad_dynasty
     father: hun_laszlo_iii_arpad_1 #TODO: check if this makes sense
-    adm: 45
-    dip: 75
-    mil: 30
-    religion: catholic
-    culture: hungarian
-    tag: HUN
-  1235.9.21:
-    death: yes
-hun_andras_ii_arpad_1:
-  1175.1.1:
-    birth: pest #TODO: Date and location guessed, check if better data is available
-    first_name: andras
-    dynasty: arpad_dynasty
     adm: 45
     dip: 75
     mil: 30
@@ -487,38 +344,12 @@ hun_bela_iv_arpad:
     tag: HUN
   1270.5.3:
     death: yes
-hun_bela_iv_arpad_1:
-  1205.1.1:
-    birth: pest #TODO: Date and location guessed, check if better data is available
-    first_name: bela
-    dynasty: arpad_dynasty
-    adm: 60
-    dip: 15
-    mil: 75
-    religion: catholic
-    culture: hungarian
-    tag: HUN
-  1270.5.3:
-    death: yes
 hun_istvan_v_arpad:
   1239.10.18:
     birth: pest #TODO: Location guessed, check if better data is available
     first_name: istvan
     dynasty: arpad_dynasty
     father: hun_bela_iv_arpad_1 #TODO: check if this makes sense
-    adm: 45
-    dip: 45
-    mil: 60
-    religion: catholic
-    culture: hungarian
-    tag: HUN
-  1272.8.6:
-    death: yes
-hun_istvan_v_arpad_1:
-  1240.1.1:
-    birth: pest #TODO: Date and location guessed, check if better data is available
-    first_name: istvan
-    dynasty: arpad_dynasty
     adm: 45
     dip: 45
     mil: 60
@@ -541,19 +372,6 @@ hun_laszlo_iv_arpad:
     tag: HUN
   1290.7.10:
     death: yes
-hun_laszlo_iv_arpad_1:
-  1242.1.1:
-    birth: pest #TODO: Date and location guessed, check if better data is available
-    first_name: laszlo
-    dynasty: arpad_dynasty
-    adm: 30
-    dip: 45
-    mil: 30
-    religion: catholic
-    culture: hungarian
-    tag: HUN
-  1290.7.10:
-    death: yes
 hun_andras_iii_arpad:
   1265.1.1:
     birth: pest #TODO: Date and location guessed, check if better data is available
@@ -568,22 +386,9 @@ hun_andras_iii_arpad:
     tag: HUN
   1301.1.14:
     death: yes
-hun_andras_iii_arpad_1:
-  1260.1.1:
-    birth: pest #TODO: Date and location guessed, check if better data is available
-    first_name: andras
-    dynasty: arpad_dynasty
-    adm: 45
-    dip: 30
-    mil: 30
-    religion: catholic
-    culture: hungarian
-    tag: HUN
-  1301.1.14:
-    death: yes
 hun_vaclav_iii_premyslid:
-  1271.1.1:
-    birth: pest #TODO: Date and location guessed, check if better data is available
+  1289.10.6:
+    birth: prague
     first_name: vaclav
     dynasty: premyslid_dynasty
     adm: 75
@@ -592,11 +397,11 @@ hun_vaclav_iii_premyslid:
     religion: catholic
     culture: hungarian
     tag: HUN
-  1312.7.12:
+  1306.8.4:
     death: yes
 hun_karoly_i_de_anjou:
   1282.1.1:
-    birth: pest #TODO: Date and location guessed, check if better data is available
+    birth: naples
     first_name: karoly
     dynasty: de_anjou_dynasty
     adm: 30
@@ -609,23 +414,10 @@ hun_karoly_i_de_anjou:
     death: yes
 hun_lajos_i_de_anjou:
   1326.3.5:
-    birth: pest #TODO: Location guessed, check if better data is available
+    birth: buda
     first_name: lajos
     dynasty: de_anjou_dynasty
-    father: hun_karoly_i_de_anjou #TODO: check if this makes sense
-    adm: 75
-    dip: 30
-    mil: 45
-    religion: catholic
-    culture: hungarian
-    tag: HUN
-  1382.9.10:
-    death: yes
-hun_lajos_i_de_anjou_1:
-  1312.1.1:
-    birth: pest #TODO: Date and location guessed, check if better data is available
-    first_name: lajos
-    dynasty: de_anjou_dynasty
+    father: hun_karoly_i_de_anjou
     adm: 75
     dip: 30
     mil: 45
@@ -636,11 +428,11 @@ hun_lajos_i_de_anjou_1:
     death: yes
 hun_maria_i_de_anjou:
   1371.1.1:
-    birth: pest #TODO: Date and location guessed, check if better data is available
+    birth: buda
     first_name: maria
     dynasty: de_anjou_dynasty
     female: yes
-    father: hun_lajos_i_de_anjou_1 #TODO: check if this makes sense
+    father: hun_lajos_i_de_anjou_1
     adm: 60
     dip: 60
     mil: 60
@@ -649,54 +441,27 @@ hun_maria_i_de_anjou:
     tag: HUN
   1395.5.17:
     death: yes
-hun_maria_i_de_anjou_1:
-  1352.1.1:
-    birth: pest #TODO: Date and location guessed, check if better data is available
-    first_name: maria
-    dynasty: de_anjou_dynasty
-    female: yes
-    adm: 60
-    dip: 60
-    mil: 60
-    religion: catholic
-    culture: hungarian
-    tag: HUN
-  1387.3.31:
-    death: yes
 hun_sigismund_i_von_luxemburg:
   1357.1.1:
-    birth: pest #TODO: Date and location guessed, check if better data is available
+    birth: nuremberg
     first_name: sigismund
     dynasty: von_luxemburg_dynasty
     adm: 75
-    dip: 60
+    dip: 75
     mil: 60
     religion: catholic
     culture: hungarian
     tag: HUN
-  3000.1.1:
+  1437.12.9:
     death: yes
-hun_ladislaus_postumus_von_habsburg:
-  1440.2.22:
-    birth: pest #TODO: Location guessed, check if better data is available
-    first_name: ladislaus_postumus
-    dynasty: von_habsburg_dynasty
-    adm: 45
-    dip: 45
-    mil: 30
-    religion: catholic
-    culture: hungarian
-    tag: HUN
-  1457.11.24:
-    death: yes
-hun_matyas_corvin:
+hun_matyas_hunyadi:
   1443.2.23:
-    birth: pest #TODO: Location guessed, check if better data is available
+    birth: cluj
     first_name: matyas
-    dynasty: corvin_dynasty
-    adm: 60
-    dip: 75
-    mil: 75
+    dynasty: hunyadi_dynasty
+    adm: 66 
+    dip: 83          #Stats based on his Eu4 stats which are 4/5/6, might change them later
+    mil: 100
     religion: catholic
     culture: hungarian
     tag: HUN
@@ -859,17 +624,17 @@ hun_ferenc_i_rakoczy:
   1691.1.1:
     death: yes
 hun_ferenc_ii_rakoczy:
-  1661.1.1:
+  1676.3.27:
     birth: pest #TODO: Date and location guessed, check if better data is available
     first_name: ferenc
     dynasty: rakoczy_dynasty
     adm: 75
     dip: 90
     mil: 75
-    religion: secularism
+    religion: catholic
     culture: hungarian
     tag: HUN
-  1918.10.31:
+  1735.4.8:
     death: yes
 hun_mihaly_karolyi:
   1875.3.4:
@@ -941,7 +706,20 @@ hun_karoly_huszar:
     religion: catholic
     culture: hungarian
     tag: HUN
-  3000.1.1:
+  1941.10.29:
+    death: yes
+hun_miklos_horthy:
+  1868.6.18:
+    birth: karcag
+    first_name: miklos
+    last_name: horthy
+    adm: 30
+    dip: 45
+    mil: 45
+    religion: catholic
+    culture: hungarian
+    tag: HUN
+  1957.2.9:
     death: yes
 hun_zoltan_tildy:
   1889.11.18:
@@ -953,11 +731,11 @@ hun_zoltan_tildy:
     religion: secularism
     culture: hungarian
     tag: HUN
-  1948.8.2:
+  1961.8.3:
     death: yes
 hun_arpad_szakasits:
   1888.12.6:
-    birth: pest #TODO: Location guessed, check if better data is available
+    birth: pest
     first_name: arpad_szakasits
     adm: 45
     dip: 60
@@ -965,11 +743,11 @@ hun_arpad_szakasits:
     religion: secularism
     culture: hungarian
     tag: HUN
-  1950.4.26:
+  1965.5.3:
     death: yes
 hun_sandor_ronai:
   1892.10.6:
-    birth: pest #TODO: Location guessed, check if better data is available
+    birth: miskolc
     first_name: sandor_ronai
     adm: 45
     dip: 45
@@ -977,11 +755,11 @@ hun_sandor_ronai:
     religion: secularism
     culture: hungarian
     tag: HUN
-  1952.8.14:
+  1965.9.28:
     death: yes
 hun_istvan_dobi:
   1898.12.31:
-    birth: pest #TODO: Location guessed, check if better data is available
+    birth: komarom
     first_name: istvan_dobi
     adm: 45
     dip: 60
@@ -989,11 +767,11 @@ hun_istvan_dobi:
     religion: secularism
     culture: hungarian
     tag: HUN
-  1967.4.13:
+  1968.11.24:
     death: yes
 hun_pal_losonczi:
   1919.9.18:
-    birth: pest #TODO: Location guessed, check if better data is available
+    birth: segesd
     first_name: pal_losonczi
     adm: 75
     dip: 60
@@ -1001,7 +779,7 @@ hun_pal_losonczi:
     religion: secularism
     culture: hungarian
     tag: HUN
-  1987.6.25:
+  2005.3.28:
     death: yes
 hun_karoly_nemeth:
   1922.12.14:
@@ -1013,11 +791,11 @@ hun_karoly_nemeth:
     religion: secularism
     culture: hungarian
     tag: HUN
-  1988.6.29:
+  2008.3.12:
     death: yes
 hun_bruno_ferenc_straub:
   1914.1.5:
-    birth: pest #TODO: Location guessed, check if better data is available
+    birth: oradea
     first_name: bruno_ferenc_straub
     adm: 45
     dip: 45
@@ -1025,7 +803,7 @@ hun_bruno_ferenc_straub:
     religion: secularism
     culture: hungarian
     tag: HUN
-  1989.10.18:
+  1996.2.15:
     death: yes
 hun_matyas_szuros:
   1933.9.11:
@@ -1037,8 +815,6 @@ hun_matyas_szuros:
     religion: secularism
     culture: hungarian
     tag: HUN
-  1990.5.2:
-    death: yes
 hun_arpad_goncz:
   1922.2.10:
     birth: pest #TODO: Location guessed, check if better data is available
@@ -1049,7 +825,7 @@ hun_arpad_goncz:
     religion: secularism
     culture: hungarian
     tag: HUN
-  2000.8.4:
+  2015.10.6:
     death: yes
 hun_ferenc_madl:
   1931.1.29:
@@ -1061,7 +837,7 @@ hun_ferenc_madl:
     religion: secularism
     culture: hungarian
     tag: HUN
-  2005.8.5:
+  2011.5.29:
     death: yes
 hun_laszlo_solyom:
   1942.1.3:
@@ -1073,7 +849,7 @@ hun_laszlo_solyom:
     religion: secularism
     culture: hungarian
     tag: HUN
-  2010.8.6:
+  2023.10.8:
     death: yes
 hun_pal_schmitt:
   1942.5.13:
@@ -1085,8 +861,6 @@ hun_pal_schmitt:
     religion: secularism
     culture: hungarian
     tag: HUN
-  2012.4.2:
-    death: yes
 hun_laszlo_kover:
   1959.12.29:
     birth: pest #TODO: Location guessed, check if better data is available
@@ -1097,8 +871,6 @@ hun_laszlo_kover:
     religion: secularism
     culture: hungarian
     tag: HUN
-  2012.5.10:
-    death: yes
 hun_janos_ader:
   1959.5.9:
     birth: pest #TODO: Location guessed, check if better data is available
@@ -1109,8 +881,6 @@ hun_janos_ader:
     religion: secularism
     culture: hungarian
     tag: HUN
-  2022.5.10:
-    death: yes
 hun_katalin_novak:
   1977.9.6:
     birth: pest #TODO: Location guessed, check if better data is available
@@ -1122,8 +892,6 @@ hun_katalin_novak:
     religion: secularism
     culture: hungarian
     tag: HUN
-  2024.3.5:
-    death: yes
 hun_tamas_sulyok:
   1956.3.24:
     birth: pest #TODO: Location guessed, check if better data is available

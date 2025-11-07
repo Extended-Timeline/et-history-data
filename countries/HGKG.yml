@@ -1,0 +1,18 @@
+2.1.1:		#Default settings
+    name: "Hong Kong"
+    color: "rgb { 253 209 16 }"
+    primary_culture: cantonese
+    religion: sanjiao
+    court_language: "cantonese"
+    type: "default" #can also be "pop" for SoPs, "building", "army" or "navy"
+    government: republic_colony
+    government_rank: rank_county
+    capital: kowloon
+    
+1841.01.20:	#Convention of Chuenpi
+    ruler: sir_henry_pottinger
+    court_language: "english"
+    government: republic_colony
+    
+1844.05.08:
+    ruler: sir_john_francis_davis

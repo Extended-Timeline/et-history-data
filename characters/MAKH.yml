@@ -12,7 +12,7 @@ nestor_makhno:
       death: yes
  viktor_bilash:
   1893.1.1:
-     #Exact birthdate unknown, so I guessed it.
+     # No data for his exact month of birth or day of birth, so I put in a placeholder date.
      birth: mariupol
      first_name: viktor
      adm: 50
@@ -20,5 +20,6 @@ nestor_makhno:
      mil: 85
      religion: orthodox
      culture: ukranian
-
      tag: MAKH
+   1923.1.1: #Bilash was captured by the Cheka around 1923, this is another placeholder date.
+      death: yes

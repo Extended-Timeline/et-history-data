@@ -99,6 +99,10 @@
 #	
 #	
 #	Miscellaneous:
+#		kowloon_emperor_tsang_tsou_choi
+#	
+#	
+#	
 #	
 
 ######################################
@@ -1174,3 +1178,21 @@ sir_horace_kadoorie:
 #####################
 ### Miscellaneous ###
 #####################
+	
+kowloon_emperor_tsang_tsou_choi:
+    name: "Tsou Choi"
+    dynasty: imperial_kowloon_tsang
+    culture: cantonese
+    religion: catholic
+    adm: 21
+    dip: 71
+    mil: 32
+    female: no
+    birth_date: 1921.11.12
+    death_date: 2007.7.15
+    birth_place: 高要縣	#(I fucking hate romanisation)
+    father: --- #unknown
+    mother: --- #unknown
+	trait: meticulous
+	trait: babbling_buffoon
+	trait: expansionist

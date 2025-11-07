@@ -1,4 +1,4 @@
-#imported from EU4 file: history/provinces/4701 - Corinth.txt
+﻿#imported from EU4 file: history/provinces/XYZ - Mycenae.txt
 -1850.1.1:
   owner: ARG0
   controller: ARG0
@@ -10,40 +10,50 @@
     religion: aegean_mainland_religion
     estate: peasant
     size: 425
--1391.1.1:
-  resource: naval_supplies
+-1451.1.1:
+  owner: MYC
+  controller: MYC
+  cores:
+    MYC: yes
+    ARG0: no
+  resource: copper
   pop:
-    ethnicity: argive_achaean
+    ethnicity: mycenaean_culture
     religion: achaean_religion
     estate: peasant
-    size: 870
--720.1.1:
+    size: 804
+-840.1.1:
   pop:
-    ethnicity: argive_doric
+    ethnicity: greek_culture
     religion: hellenism_religion
     estate: peasant
-    size: 850
--690.1.1:
+    size: 55
+-468.1.1:
+  owner: ARG0
+  controller: ARG0
+  cores:
+    MYC: no
+    ARG0: yes
   pop:
-    size: 859
+    size: 15
 2.1.1:
   owner: ROM
   controller: ROM
   cores:
     ROM: yes
-  resource: wine
+  resource: copper
   pop:
     ethnicity: greek_culture
     religion: hellenism_religion
     estate: peasant
-    size: 1000
+    size: 50
 360.1.1:
   cores:
-    ARG0: no
+    ARG0: NO
   pop:
     religion: chalcedonism
     estate: peasant
-    size: 1000
+    size: 79
 395.1.17:
   owner: BYZ
   controller: BYZ
@@ -54,7 +64,7 @@
   pop:
     religion: orthodox
     estate: peasant
-    size: 1000
+    size: 79
 1205.1.1:
   owner: ACH
   controller: ACH
@@ -122,3 +132,7 @@
 1945.5.8:
   owner: GRE
   controller: GRE
+  cores:
+    GBR: no
+    GER: no
+    ITA: no

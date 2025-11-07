@@ -1,0 +1,136 @@
+﻿# ====================================================
+# MYC tag (Kingdom of Mycenae history)
+# ====================================================
+
+# ====================================================
+# Inachid Dynasty (Argive rulers of Mycenae =  Inachid Argos)
+# ====================================================
+-1800.1.1:
+  color: rgb { 122 7 51 }
+  government_rank: rank_duchy
+  ruler: argos_inachus_inachidae
+  religion: aegean_mainland_religion
+  primary_culture: proto_argive_culture
+  capital: mycenae
+
+# ====================================================
+# Phoroneid Dynasty (Argive rulers of Mycenae =  Phoroneid Argos)
+# ====================================================
+-1775.1.1:
+  ruler: argos_phoroneus_phoroneidae
+
+-1742.1.1:
+  ruler: argos_apis_phoroneidae
+
+-1710.1.1:
+  ruler: argos_argus_phoroneidae
+
+-1676.1.1:
+  ruler: argos_criasus_phoroneidae
+
+-1645.1.1:
+  ruler: argos_phorbas_phoroneidae
+
+-1613.1.1:
+  ruler: argos_triopas_phoroneidae
+
+-1585.1.1:
+  ruler: argos_iasus_phoroneidae
+
+-1552.1.1:
+  ruler: argos_agenor_phoroneidae
+
+-1526.1.1:
+  ruler: argos_crotopus_phoroneidae
+
+-1502.1.1:
+  ruler: argos_sthenelus_phoroneidae
+
+-1475.1.1:
+  ruler: argos_gelanor_phoroneidae
+
+# ====================================================
+# Danaid Dynasty (Argive Rulers of Mycenae =  Danaid Argos)
+# ====================================================
+-1450.1.1:
+  ruler: argos_danaus_danaidae
+
+-1425.1.1:
+  ruler: argos_lynceus_danaidae
+
+# ====================================================
+# Abantiad Dynasty (Argive Rulers of Mycenae =  Abantid Argos)
+# ====================================================
+-1395.1.1:
+  ruler: argos_abas_abantidae
+
+-1368.1.1:
+  ruler: argos_acrisius_abantidae
+
+# ====================================================
+# Perseid Dynasty (Independent Rulers of Mycenae)
+# ====================================================
+-1340.1.1:
+  government_rank: rank_empire
+  color: rgb { 122 7 84 }
+  ruler: mycenae_perseus_perseidae
+  religion: achaean_religion
+  primary_culture: mycenaean_culture
+  capital: mycenae
+
+-1308.1.1:
+  ruler: mycenae_electryon_perseidae
+
+-1264.1.1:
+  ruler: mycenae_sthenelus_perseidae
+
+-1240.1.1:
+  ruler: mycenae_eurystheus_perseidae
+
+# ====================================================
+# Early Pelopid Dynasty (Independent Rulers of Mycenae)
+# ====================================================
+-1225.1.1:
+  ruler: mycenae_atreus_pelopidae
+
+-1200.1.1:
+  ruler: mycenae_thyestes_pelopidae
+
+# ====================================================
+# Atreid Dynasty (Independent Rulers of Mycenae)
+# ====================================================
+-1198.1.1:
+  ruler: mycenae_agamemnon_pelopidae
+
+# ====================================================
+# Thyestean Restoration (Independent Rulers of Mycenae)
+# ====================================================
+-1160.1.1:
+  ruler: mycenae_aegisthus_ii_pelopidae
+
+# ====================================================
+# Atreid Restoration (Independent Rulers of Mycenae)
+# ====================================================
+-1150.1.1:
+  ruler: mycenae_orestes_pelopidae
+
+-1100.1.1:
+  ruler: mycenae_tisamenus_pelopidae
+
+# ====================================================
+# Post-Dorian Invasion Atreid Restoration (Semi-Autonomous Rulers of Mycenae)
+# ====================================================
+-1040.1.1:
+  ruler: mycenae_penthilus_pelopidae
+  color: rgb { 131 45 78 }
+  government_rank: rank_duchy
+
+-985.1.1:
+  ruler: mycenae_aletes_pelopidae
+
+-935.1.1:
+  ruler: mycenae_ogyges_pelopidae
+
+# ====================================================
+# End of the Kingdom of Mycenae
+# ====================================================

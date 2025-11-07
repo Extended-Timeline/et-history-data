@@ -96,6 +96,7 @@ No one is born married, so the spouse argument should be on a separate date entr
 | mil | integer | no* | Ranges from 0 to 100 |
 | religion | religion ID | yes* | Character's religion |
 | culture | culture ID | yes* | Character's culture |
+| trait | trait ID | no | Adds a trait to the character |
 | tag | country tag | yes* | The tag the character spent most of their professional career in |
 | death | yes | yes, unless still alive | Sets the character as dead |
 

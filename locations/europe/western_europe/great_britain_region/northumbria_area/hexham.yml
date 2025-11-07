@@ -97,6 +97,14 @@
     ethnicity: english
     estate: peasant
     size: 1000
+1101.1.1: # Hexham becomes royal liberty
+  controller: HEXH
+  owner: HEXH
+  cores:
+    HEXH: yes
+1536.7.1: # Jurisdiction in Liberties Act 1535
+  controller: ENG
+  owner: ENG
 1464.6.1:
   controller: ENG
 1585.1.1:

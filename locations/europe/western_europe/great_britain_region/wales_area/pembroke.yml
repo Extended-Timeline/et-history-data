@@ -1,9 +1,9 @@
 #imported from EU4 file: history/provinces/4369 - Carmarthen.txt
-2.1.1:
-  owner: SILU
-  controller: SILU
+2.1.1: #Was held by Demetae Tribe through Iron Age/Roman Britain period; precursor to Kingdom of Dyfed
+  owner: DEME
+  controller: DEME
   cores:
-    SILU: yes
+    DEME: yes
   resource: livestock
   pop:
     ethnicity: briton
@@ -24,7 +24,7 @@
   owner: DYFE
   controller: DYFE
   cores:
-    SILU: no
+    DEME: no
     ROM: no
     DYFE: yes
 660.1.1:

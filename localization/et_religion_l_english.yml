@@ -1,8 +1,22 @@
+l_english:
+ #Roman 
  roman_polytheism: "Roman"
  roman_polytheism_ADJ: "Roman"
  roman_polytheism_desc: "The Roman religion is a polytheistic faith centered around a pantheon of gods and goddesses. Adherents believe that proper observance of rituals and sacrifices is necessary to maintain the 'Pax Deorum' - the peace of the gods - ensuring the prosperity and stability of the state."
  
- #Celtic 
+ gallo_roman_polytheism: "Gallo-Roman"
+ gallo_roman_polytheism_ADJ: "Gallo-Roman"
+ gallo_roman_polytheism_desc: "Gallo-Roman Polytheism is a syncretic faith that emerged from the fusion of native Gaulish traditions with Roman religious practices. While the major gods of the Roman pantheon were worshipped, they were often identified with native Celtic deities, such as Mercury with Lugus or Jupiter with Taranis. This faith is characterized by its blend of imperial cult worship and the continued reverence for ancient Celtic sacred sites, creating a unique religious landscape that is both Roman and distinctly Gallic."
+ 
+ romano_brithish_polytheism: "Romano-British"
+ romano_brithish_polytheism_ADJ: "Romano-British"
+ romano_brithish_polytheism_desc: "Romano-British Polytheism represents the blending of Roman religious traditions with the native Brythonic beliefs of Britain. Adherents worship the Roman gods while also venerating local Celtic deities, often in syncretic forms like Sulis Minerva at Bath. The faith combines the structure of the imperial cult with a deep-rooted reverence for the spirits of the land, sacred springs, and ancient groves, reflecting a unique fusion of imported and indigenous spirituality."
+
+ hispano_roman_polytheism: "Hispano-Roman"
+ hispano_roman_polytheism_ADJ: "Hispano-Roman"
+ hispano_roman_polytheism_desc: "Hispano-Roman Polytheism is the syncretic faith of the Iberian Peninsula, combining the pantheon and practices of Rome with the indigenous religions of the Celtiberian and Iberian peoples. Alongside the worship of Roman gods like Jupiter and Mars, local deities tied to mountains, forests, and rivers continue to be venerated. This religion reflects a blend of imperial authority and deep-rooted local traditions, creating a diverse spiritual landscape unique to Hispania."
+
+ #Celtic  
  gaelic_polytheism: "Gaelic"
  gaelic_polytheism_ADJ: "Gaelic"
  gaelic_polytheism_desc: "Gaelic Polytheism is a faith centered on a pantheon of gods known as the Tuatha Dé Danann, reverence for ancestral spirits (Aos Sí), and a deep connection to the natural world. Adherents believe in the Otherworld, a realm inhabited by deities and the spirits of the dead, and observe four seasonal festivals - Samhain, Imbolc, Beltane, and Lughnasadh - to honor the cyclical nature of life and the land."
@@ -14,17 +28,15 @@
  gaulish_polytheism: "Gaulish"
  gaulish_polytheism_ADJ: "Gaulish"
  gaulish_polytheism_desc: "Gaulish Polytheism was the faith of the peoples of Gaul, guided by the wisdom of the druids. It was a religion deeply intertwined with the natural world, with sacred groves (nemetons) serving as important ritual centers. The Gauls honored a diverse pantheon of gods, such as the tribal protector Teutates and the multi-talented Lugus, who were often associated with specific tribes and natural landscapes. Core beliefs included the transmigration of souls and the existence of an Otherworld, with practices centered on votive offerings and complex rituals to maintain balance with the divine."
- 
+
+ celtiberian_polytheism: "Celtberian"
+ celtiberian_polytheism_ADJ: "Celtberian"
+ celtiberian_polytheism_desc: "Celtiberian Polytheism is the faith of the Celtic tribes of the Iberian Peninsula. The pantheon is varied, with a strong emphasis on warrior deities and gods associated with nature. Adherents worship gods like Lugus, a versatile deity of arts and commerce, and various local gods tied to specific tribes and landscapes. Rituals often involve animal sacrifice and the offering of votive items at sacred outdoor sites, reflecting a faith deeply connected to the land and the fortunes of war."
+
  #Egyptian
  kemetic_polytheism: "Kemetic"
  kemetic_polytheism_ADJ: "Kemetic"
  kemetic_polytheism_desc: "Kemetic Polytheism is the polytheistic religion of Ancient Egypt. It centers around a pantheon of gods and goddesses such as Ra, Isis, Osiris, Set, and Horus, with beliefs encompassing the creation of the world out of chaos, the importance of Maat (order, harmony, and justice), and the transmigration of souls. Rituals and traditions were performed to maintain balance with the divine and honor the cyclical nature of life."
-
- atenism: "Atenism"
- atenism_ADJ: "Atenism"
- atenism_desc: "Atenism is a monotheistic faith centered on the exclusive worship of the sun disk, the Aten, as the sole creator and sustainer of the universe. It rejects the traditional Egyptian pantheon in favor of a single, universal deity. Adherents believe that the pharaoh is the sole intermediary between the Aten and humanity, and that light is the physical manifestation of the god's power and benevolence."  
-
-
  #Caananite 
  west_semitic_polytheism: "West Semitic"
  west_semitic_polytheism_ADJ: "West Semitic"
@@ -34,14 +46,9 @@
  punic_polytheism_ADJ: "Punic"
  punic_polytheism_desc: "Punic Polytheism, the faith of Carthage, is derived from ancient Phoenician beliefs. The pantheon is led by the chief god Baal Hammon, the lord of the sky, and his consort Tanit, a celestial goddess of fertility and war. The Punic people believe that appeasing the gods through rituals and offerings is essential to ensure the prosperity and military success of their state."
  
- #Etruscan 
- etruscan_polytheism: "Etruscan"
- etruscan_polytheism_ADJ: "Etruscan"
- etruscan_polytheism_desc: "Etruscan Polytheism is the faith of the people of Etruria, centered on the worship of a divine triad consisting of Tinia, the sky god, Uni, his wife, and Menrva, the goddess of wisdom. The Etruscans believe the will of the gods can be understood through complex forms of divination, such as observing lightning or examining the entrails of sacrificed animals. They hold a deep belief in a fated, predetermined lifespan and an elaborate vision of the afterlife."
-
  #Germanic 
  central_germanic_polytheism: "Central Germanic"
- central_germanic_polytheism_ADJ: "Germanic"
+ central_germanic_polytheism_ADJ: "Central Germanic"
  central_germanic_polytheism_desc: "Central Germanic Polytheism is the faith of the tribes of Germania, who honor a pantheon of gods through sacrifice and ritual in sacred groves. The all-seeing Wodan is the god of wisdom and war, while the powerful Donar commands thunder and protects mankind. Adherents believe that valor in life, especially in battle, secures a place of honor in the afterlife."
 
  anglo_saxon_polytheism: "Anglo-Saxon"
@@ -63,10 +70,6 @@
  scythian_polytheism_desc: "Scythian Polytheism is the faith of the nomadic peoples of the Eurasian steppe. Their pantheon is led by Tabiti, the goddess of the hearth and primordial fire, who serves as a bond among the tribes. They also worship Papaios, the sky father, and his wife Api, the earth mother. A unique aspect of their faith is the veneration of a sword as a symbol of their war god. Scythian religion lacks traditional temples, with rituals and sacrifices being performed in the open steppe."
  
  #Baltic 
- lithuanian_polytheism: "Lithuanian"
- lithuanian_polytheism_ADJ: "Lithuanian"
- lithuanian_polytheism_desc: "Lithuanian Polytheism, also known as Romuva, is a faith centered on the veneration of nature and ancestors. The pantheon is led by the sky god Dievas, the thunder god Perkūnas, and the goddess of fate, Laima. Adherents believe that the sacredness of the world is expressed through nature, with holy sites found in ancient groves, on hills, and near rivers. The faith emphasizes harmony with nature, respect for ancestors, and the celebration of seasonal festivals."
- 
  prussian_polytheism: "Prussian"
  prussian_polytheism_ADJ: "Prussian"
  prussian_polytheism_desc: "Prussian Polytheism is the faith of the tribes of Prussia, who worship a pantheon of gods governing nature and human affairs. Their chief gods include the triad of Patollus, the god of the underworld, Perkūns, the god of thunder, and Potrimpus, the god of seas and springs. The sacred Romuva grove serves as the spiritual center, where the high priest, the Kriwe-Kriwajto, tends the eternal flame and interprets the will of the gods."
@@ -76,3 +79,38 @@
  latvian_polytheism_desc: "Latvian Polytheism is a faith that revolves around a deep reverence for the natural world and a vast pantheon of deities, or 'Dievi'. The sky father Dievs, the thunder god Pērkons, and the sun goddess Saule are among the most important figures. A central role is played by Laima, the goddess of fate, who determines the destiny of individuals. The faith is deeply intertwined with the agricultural cycle, and adherents celebrate seasonal festivals to ensure fertility and prosperity."
 
  #slavic 
+ east_slavic_polytheism: "East Slavic"
+ east_slavic_polytheism_ADJ: "East Slavic"
+ east_slavic_polytheism_desc: "East Slavic Polytheism is the faith of the eastern Slavic tribes, centered on a pantheon of gods who govern the natural and cosmic order. The thunder god Perun stands as the chief deity, a warrior god of justice and storms, while the chthonic Veles rules the underworld, water, and cattle. Other key figures include Dazhbog, the sun god who brings prosperity, and Mokosh, the great mother goddess tied to fertility and fate. Adherents honor these gods through rituals in sacred groves and near rivers, seeking harmony with the forces of nature."
+ 
+ west_slavic_polytheism: "West Slavic"
+ west_slavic_polytheism_ADJ: "West Slavic"
+ west_slavic_polytheism_desc: "West Slavic Polytheism is the faith of the western Slavic peoples, characterized by the worship of deities in elaborate temples and sacred sites. The multi-headed god Sventovit, a god of war, fertility, and divination, is a primary deity, particularly among the tribes of the Baltic coast. Other important gods include the three-headed Triglav, whose domains span the sky, earth, and underworld. Priests hold significant authority, interpreting the will of the gods through divination and overseeing complex rituals to ensure victory and bountiful harvests."
+ 
+ south_slavic_polytheism: "South Slavic"
+ south_slavic_polytheism_ADJ: "South Slavic"
+ south_slavic_polytheism_desc: "South Slavic Polytheism is the faith of the southern Slavic tribes, deeply intertwined with ancestor worship and the veneration of nature spirits. The supreme god is Perun, the lord of thunder and the sky, who is locked in an eternal struggle with the serpent god Veles. The faith is also populated by Vila, female nature spirits who inhabit mountains and forests, and a strong tradition of honoring the Domovoy, a household spirit who protects the family. Rituals are often tied to the agricultural calendar, celebrating the cycle of life and death."
+
+ #Caucasus
+ armenian_polytheism: "Armenian"
+ armenian_polytheism_ADJ: "Armenian"
+ armenian_polytheism_desc: "Armenian Polytheism is the ancient faith of the Armenian Highlands, shaped by a blend of native traditions and influences from Zoroastrianism and Greco-Roman beliefs. The pantheon is led by the creator god Aramazd, father of all gods and goddesses. Other major deities include Anahit, the goddess of fertility and wisdom, and the dragon-slaying god of war and courage, Vahagn. Adherents worship these gods to ensure protection, prosperity, and the fertility of the land, with rituals often reflecting a deep reverence for celestial bodies and natural forces."
+
+ georgian_polytheism: "Georgian"
+ georgian_polytheism_ADJ: "Georgian"
+ georgian_polytheism_desc: "Georgian Polytheism represents the ancient beliefs of the Kartvelian peoples of the Caucasus. The faith is centered on a pantheon of gods who govern the world, with the chief god Armazi presiding over them from his idol on a mountain near Mtskheta. Other important figures include the god of fertility, Zaden, and the divine pair Gatsi and Gaim. The religion involves the worship of idols and a reverence for sacred natural sites, with practices aimed at securing the favor of the gods for the kingdom's well-being."
+
+ #Illyrian 
+ illyrian_polytheism: "Illyrian"
+ illyrian_polytheism_ADJ: "Illyrian"
+ illyrian_polytheism_desc: "Illyrian Polytheism is the faith of the tribes of the western Balkans, centered on a pantheon of gods reflecting the natural world. The chief sky god Dei-pátrous is revered alongside a host of local deities tied to specific mountains, rivers, and forests. A prominent feature is the worship of Medaurus, a divine protector who rides on horseback, and the goddess of the hunt, Thana. The faith is deeply connected to the landscape, with rituals performed at natural sanctuaries to ensure the well-being of the tribe and the fertility of the land."
+ 
+ #Arabic 
+ arabic_polytheism: "Arabic"
+ arabic_polytheism_Adj: "Arabic"
+ arabic_polytheism_desc: "Arabic Polytheism was the faith of the Arabian Peninsula before the rise of Islam, centered on the worship of a pantheon of deities, including the chief god Hubal and the three powerful goddesses: Al-Lat, Al-Uzza, and Manat. Adherents made pilgrimages to sacred sites like the Kaaba in Mecca, which housed numerous idols, and performed rituals such as animal sacrifices and divination to seek favor from the gods. This faith was deeply tied to tribal identity, with different tribes often venerating their own specific patron deities."
+
+ #Iberian 
+ iberian_polytheism: "Iberian"
+ iberian_polytheism_ADJ: "Iberian"
+ iberian_polytheism_desc: "Iberian Polytheism is the pre-Roman faith of the eastern and southern Iberian Peninsula. This religion is centered on the veneration of deities connected to nature, life, and death. Adherents worship a goddess associated with the earth and fertility, often depicted in sanctuaries as a 'Lady' or 'Griffin'. The faith also includes a reverence for the bull as a symbol of strength and a belief in an afterlife journey, with funerary rituals and grave goods intended to aid the deceased. Sanctuaries are often located on high places, serving as centers for ritual and community."

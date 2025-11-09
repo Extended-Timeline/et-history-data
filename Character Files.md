@@ -65,15 +65,18 @@ tag_gal_of_some_other_place:
     mil: 50
     religion: godism
     culture: cultured
-    tag: TAG
+    tag: ABC
   1021.5.3:
     spouse: tag_guy_of_place
+    tag: TAG
   1056.7.2:
     spouse: --- #Divorce
   1083.9.21:
     death: yes
 ```
 No one is born married, so the spouse argument should be on a separate date entry when the marriage took place. If a marriage ends in divorce it can be recorded as shown above, but if it ends in the death of either party, it does not need to be recorded as death automatically ends a marriage.
+
+Spouses often come from other countries. If so, they should be assigned to the tag of their birthplace at birth and to the tag of their partner after marriage. 
 
 ---
 

@@ -454,6 +454,7 @@
  name_albert.sardinian_dialect: "Bertu"
  name_albert.sicilian_dialect: "Adalbertu"
  name_albert.spanish_language: "Alberto"
+ name_albert.swedish_dialect: "Albrekt"
  name_albert.west_slavic_language.alternative: "Olbracht"
  #
  name_albertina: "Albertina"
@@ -825,6 +826,7 @@
  #
  name_amelia: "Amelia"
  name_amelia.catalan_dialect: "Amàlia"
+ name_amelia.danish_dialect: "Amalie"
  name_amelia.galician_dialect: "Amalia"
  name_amelia.french_language: "Amélie"
  name_amelia.german_language: "Amalia"
@@ -2608,6 +2610,7 @@
  name_catherine.sardinian_dialect: "Catalina"
  name_catherine.sicilian_dialect: "Catarina"
  name_catherine.spanish_language: "Catalina"
+ name_catherine.swedish_dialect: "Katarina"
  name_catherine.west_slavic_language: "Katarzyna"
  name_catherine.west_slavic_language.diminutive: "Kasia"
 
@@ -2633,6 +2636,7 @@
  name_cecile.north_italian_language: "Cecilia"
  name_cecile.occitan_language: "Cecília"
  name_cecile.portuguese_language: "Cecília"
+ name_cecile.scandinavian_language: "Cecilia"
  name_cecile.south_italian_language: "Cecilia"
  name_cecile.spanish_language: "Cecilia"
  #
@@ -2753,6 +2757,7 @@
  name_charlotte.occitan_language: "Carlòta"
  name_charlotte.portuguese_language: "Carlota"
  name_charlotte.spanish_language: "Carlota"
+ name_charlotte.swedish_dialect: "Charlotta"
  #
  name_chen: "Chén" #陳
  name_chen.shu_language: "Cén"
@@ -2824,6 +2829,7 @@
  name_christian: "Christian"
  name_christian.catalan_dialect: "Cristià"
  name_christian.dutch_dialect: "Christiaan"
+ name_christine.finnish_language: "Kristian"
  name_christian.french_language: "Chrétien"
  name_christian.frisian_language: "Kristiaan"
  name_christian.icelandic_dialect: "Kristján"
@@ -4737,6 +4743,10 @@
  name_frank.spanish_language: "Franco"
  name_frank.west_slavic_language: "Franciszek"
  #
+ name_frederica: "Frederica"
+ name_frederica.danish_dialect: "Frederikke"
+ name_frederica.swedish_dialect: "Fredrika"
+ #
  name_frederick: "Frederick"
  name_frederick.arpitan_dialect: "Frèdèric"
  name_frederick.basque_language: "Frederiko"
@@ -5658,6 +5668,7 @@
  name_hedwig.slovene_dialect: "Hedvika"
  name_hedwig.south_italian_language: "Edvige"
  name_hedwig.south_italian_language.diminutive: "Edda"
+ name_hedwig.swedish_dialect: "Hedvig"
  name_hedwig.west_slavic_language: "Jadwiga"
  #
  name_heilwig: "Heilwig"
@@ -7592,7 +7603,6 @@
  name_louis.basque_language: "Luis"
  name_louis.catalan_dialect: "Lluís"
  name_louis.czechslovak_language: "Ľudovít"
- name_louis.danish_dialect: "Ludvig"
  name_louis.dutch_dialect: "Lodewijk"
  name_louis.frisian_language: "Lodewick" #East Frisian
  name_louis.english_language.alternative: "Lewis"
@@ -7610,6 +7620,7 @@
  name_louis.venetian_dialect.alternative: "Aleduse"
  name_louis.occitan_language: "Loís"
  name_louis.portuguese_language: "Luís"
+ name_louis.scandinavian_language: "Ludvig"
  name_louis.south_italian_language: "Luigi"
  name_louis.south_italian_language.alternative: "Lodovico"
  name_louis.sardinian_dialect: "Luisu"
@@ -7635,6 +7646,7 @@
  name_louise.south_italian_language: "Luigia"
  name_louise.south_italian_language.alternative: "Lodovica"
  name_louise.south_italian.diminutive: "Gina"
+ name_louise.swedish_dialect: "Lovisa"
  name_louise.tuscan_dialect: "Luisa"
  name_louise.spanish_language: "Luisa"
  #
@@ -7906,6 +7918,7 @@
  name_madeleine.south_italian_language: "Maddalena"
  name_madeleine.dalmatian_dialect.diminutive: "Manda"
  name_madeleine.sardinian_dialect: "Mallena"
+ name_madeleine.scandinavian_language: "Magdalena"
  name_madeleine.spanish_language: "Magdalena"
  name_madeleine.west_slavic_language: "Magdalena"
 
@@ -8163,6 +8176,7 @@
  name_martha.occitan_language: "Marta"
  name_martha.east_slavic_language: "Marfa"
  name_martha.ruthenian_language: "Marta"
+ name_martha.scandinavian_language: "Märta"
  #
  name_martin: "Martin" # English & French (+Arpitan)
  name_martin.catalan_dialect: "Martí"
@@ -10534,6 +10548,7 @@
  name_sabine.latin_language: "Savina"
  name_sabine.north_italian_language: "Sabina"
  name_sabine.portuguese_language: "Sabina"
+ name_sabine.scandinavian_language: "Sabina"
  name_sabine.south_italian_language: "Sabina"
  name_sabine.spanish_language: "Sabina"
  #
@@ -10935,8 +10950,10 @@
  name_sigmund.czechslovak_language: "Zikmund"
  name_sigmund.french_language: "Sigismond"
  name_sigmund.german_language: "Siegmund"
+ name_sigmund.lithuanian_dialect: "Žygimantas"
  name_sigmund.hungarian_language: "Zsigmond"
  name_sigmund.north_italian_language: "Sigismondo"
+ name_sigmund.scandinavian_language: "Sigismund"
  name_sigmund.south_italian_language: "Sigismondo"
  name_sigmund.spanish_language: "Segismundo"
  name_sigmund.west_slavic_language: "Zygmunt"
@@ -11833,6 +11850,13 @@
  name_ulrick.spanish_language: "Ulrico"
  name_ulrick.west_slavic_language: "Oldřich"
  #
+ name_ulrike: "Ulrike"
+ name_ulrike.danish_dialect: "Ulrikke"
+ name_ulrike.swedish_dialect: "Ulrika"
+ #
+ name_ulvhild: "Ulvhild"
+ name_ulvhild.swedish_dialect: "Ulfhild"
+ #
  name_ulysses: "Ulysses" # English & Latin
  name_ulysses.catalan_dialect: "Ulisses"
  name_ulysses.east_slavic_language: "Odissej" #Russian: Одиссей
@@ -12480,6 +12504,7 @@
  name_william.south_italian_language.diminutive: "Guglielmino"
  name_william.spanish_language: "Guillermo"
  name_william.spanish_language.diminutive: "Guillén" #Really this should be an alternative form and be added to language name file.
+ name_william.swedish_dialect: "Vilhelm"
  name_william.turkish_language: "Vilyam"
  name_william.west_slavic_language: "Vilém"
  #

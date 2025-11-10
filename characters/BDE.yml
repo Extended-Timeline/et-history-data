@@ -794,18 +794,24 @@ bde_leopold_von_baden:
     tag: BDE
   1852.4.24:
     death: yes
-bde_leopold_von_baden_1:
-  1800.1.1:
-    birth: baden #TODO: Date and location guessed, check if better data is available
-    first_name: leopold
-    dynasty: von_baden_dynasty
-    adm: 75
-    dip: 75
-    mil: 30
-    religion: catholic
-    culture: high_alemannic
+bde_sophie_von_holstein_gottorp:
+  1801.5.21:
+    birth: stockholm
+    first_name: name_sophia
+    dynasty: von_holstein_gottorp_dynasty
+    female: yes
+    father: swe_gustav_iv_adolf_von_holstein_gottorp
+    mother: swe_fredrika_von_zahringen
+    adm: 40
+    dip: 60
+    mil: 10
+    religion: lutheran
+    culture: swedish
+    tag: SWE
+  1819.7.25:
+    spouse: bde_leopold_von_baden
     tag: BDE
-  1852.4.24:
+  1865.7.6:
     death: yes
 bde_ludwig_ii_von_baden:
   1824.8.15:

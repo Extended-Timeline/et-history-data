@@ -7,7 +7,7 @@ hols_adolf_i_von_schauenburg:
     dip: 30
     mil: 15
     religion: catholic
-    culture: lower_saxon
+    culture: holsatian
     tag: HOLS
   1130.11.13:
     death: yes
@@ -20,7 +20,7 @@ hols_adolf_ii_von_schauenburg:
     dip: 60
     mil: 0
     religion: catholic
-    culture: lower_saxon
+    culture: holsatian
     tag: HOLS
   1164.7.6:
     death: yes
@@ -33,7 +33,7 @@ hols_adolf_iii_von_schauenburg:
     dip: 75
     mil: 75
     religion: catholic
-    culture: lower_saxon
+    culture: holsatian
     tag: HOLS
   1225.1.3:
     death: yes
@@ -46,7 +46,7 @@ hols_adolf_iv_von_schauenburg:
     dip: 45
     mil: 30
     religion: catholic
-    culture: lower_saxon
+    culture: holsatian
     tag: HOLS
   1261.7.8:
     death: yes
@@ -59,7 +59,7 @@ hols_gerhard_i_von_schauenburg:
     dip: 75
     mil: 60
     religion: catholic
-    culture: lower_saxon
+    culture: holsatian
     tag: HOLS
   1290.12.21:
     death: yes
@@ -72,7 +72,7 @@ hols_johann_ii_von_schauenburg:
     dip: 0
     mil: 15
     religion: catholic
-    culture: lower_saxon
+    culture: holsatian
     tag: HOLS
   1321.1.1:
     death: yes
@@ -85,7 +85,7 @@ hols_johann_iii_von_schauenburg:
     dip: 0
     mil: 75
     religion: catholic
-    culture: lower_saxon
+    culture: holsatian
     tag: HOLS
   1359.9.27:
     death: yes
@@ -98,7 +98,7 @@ hols_adolf_ix_von_schauenburg:
     dip: 15
     mil: 75
     religion: catholic
-    culture: lower_saxon
+    culture: holsatian
     tag: HOLS
   1390.1.26:
     death: yes
@@ -111,7 +111,7 @@ hols_nikolaus_von_schauenburg:
     dip: 15
     mil: 75
     religion: catholic
-    culture: lower_saxon
+    culture: holsatian
     tag: HOLS
   1397.5.8:
     death: yes
@@ -124,7 +124,7 @@ hols_gerhard_vi_von_schauenburg:
     dip: 30
     mil: 15
     religion: catholic
-    culture: lower_saxon
+    culture: holsatian
     tag: HOLS
   1404.1.1:
     death: yes
@@ -137,7 +137,7 @@ hols_heinrich_iv_von_schauenburg:
     dip: 0
     mil: 15
     religion: catholic
-    culture: lower_saxon
+    culture: holsatian
     tag: HOLS
   1427.5.29:
     death: yes
@@ -150,7 +150,7 @@ hols_adolf_viii_von_schauenburg:
     dip: 45
     mil: 45
     religion: catholic
-    culture: lower_saxon
+    culture: holsatian
     tag: HOLS
   1459.12.1:
     death: yes
@@ -163,9 +163,26 @@ hols_adolf_ix_von_holstein_gottorp:
     dip: 30
     mil: 30
     religion: catholic
-    culture: lower_saxon
+    culture: holsatian
     tag: HOLS
-  1586.10.2:
+  1586.10.1:
+    death: yes
+hols_christine_von_hesse:
+  1543.6.29:
+    birth: kassel
+    first_name: name_christine
+    dynasty: hesse_dynasty
+    female: yes
+    adm: 30
+    dip: 50
+    mil: 55
+    religion: catholic
+    culture: rhine_franconian
+    tag: HES
+  1564.12.17:
+    spouse: hols_adolf_ix_von_holstein_gottorp
+    tag: HOLS
+  1604.5.13:
     death: yes
 hols_friedrich_ii_von_holstein_gottorop:
   1568.4.21:
@@ -177,7 +194,7 @@ hols_friedrich_ii_von_holstein_gottorop:
     dip: 30
     mil: 30
     religion: catholic
-    culture: lower_saxon
+    culture: holsatian
     tag: HOLS
   1587.6.15:
     death: yes
@@ -190,7 +207,7 @@ hols_friedrich_ii_von_holstein_gottorp:
     dip: 30
     mil: 30
     religion: catholic
-    culture: lower_saxon
+    culture: holsatian
     tag: HOLS
   1587.6.16:
     death: yes
@@ -203,7 +220,7 @@ hols_philipp_von_holstein_gottorp:
     dip: 30
     mil: 30
     religion: catholic
-    culture: lower_saxon
+    culture: holsatian
     tag: HOLS
   1590.10.19:
     death: yes
@@ -216,7 +233,7 @@ hols_johann_adolf_von_holstein_gottorp:
     dip: 30
     mil: 30
     religion: catholic
-    culture: lower_saxon
+    culture: holsatian
     tag: HOLS
   1616.3.30:
     death: yes
@@ -229,9 +246,26 @@ hols_friedrich_iii_von_holstein_gottorp:
     dip: 30
     mil: 30
     religion: catholic
-    culture: lower_saxon
+    culture: holsatian
     tag: HOLS
   1659.8.11:
+    death: yes
+hols_marie_elisabeth_von_wettin:
+  1610.11.22:
+    birth: dresden
+    first_name: name_mary.name_elizabeth
+    dynasty: von_wettin_dynasty
+    female: yes
+    adm: 30
+    dip: 35
+    mil: 15
+    religion: lutheran
+    culture: saxon
+    tag: SAX
+  1630.12.5:
+    spouse: hols_friedrich_iii_von_holstein_gottorp #TODO: date guessed, see if better data is available
+    tag: HOLS
+  1684.10.24:
     death: yes
 hols_christian_albrecht_von_holstein_gottorp:
   1641.2.3:
@@ -242,36 +276,92 @@ hols_christian_albrecht_von_holstein_gottorp:
     dip: 30
     mil: 30
     religion: catholic
-    culture: lower_saxon
+    culture: holsatian
     tag: HOLS
   1695.1.7:
     death: yes
-hols_friedrich_iv_von_holstein_gottorop:
-  1671.10.18:
-    birth: kiel #TODO: Location guessed, check if better data is available
-    first_name: friedrich
-    dynasty: von_holstein_gottorop_dynasty
-    father: hols_christian_albrecht_von_holstein_gottorp #TODO: check if this makes sense
+hols_frederica_amalia_von_oldenburg:
+  1649.4.11:
+    birth: kobenhavn
+    first_name: name_frederica.name_amelia
+    dynasty: von_oldenburg_dynasty
+    female: yes
     adm: 30
-    dip: 30
-    mil: 30
-    religion: catholic
-    culture: lower_saxon
+    dip: 45
+    mil: 15
+    religion: lutheran
+    culture: danish
+    tag: DAN
+  1667.10.24:
+    spouse: hols_christian_albrecht_von_holstein_gottorp
     tag: HOLS
-  1702.7.20:
+  1704.10.30:
     death: yes
 hols_friedrich_iv_von_holstein_gottorp:
   1671.10.18:
     birth: kiel #TODO: Location guessed, check if better data is available
     first_name: friedrich
-    dynasty: von_holstein_gottorp_dynasty
+    dynasty: von_holstein_gottorop_dynasty
+    father: hols_christian_albrecht_von_holstein_gottorp
+    mother: hols_frederica_amalia_von_oldenburg
     adm: 30
     dip: 30
     mil: 30
-    religion: catholic
-    culture: lower_saxon
+    religion: lutheran
+    culture: holsatian
     tag: HOLS
   1702.7.20:
+    death: yes
+hols_christian_august_von_holstein_gottorp:
+  1673.1.11:
+    birth: slesvig
+    first_name: name_christian.name_august
+    dynasty: von_holstein_gottorop_dynasty
+    father: hols_christian_albrecht_von_holstein_gottorp
+    mother: hols_frederica_amalia_von_oldenburg
+    adm: 30
+    dip: 40
+    mil: 35
+    religion: lutheran
+    culture: holsatian
+    tag: HOLS
+  1726.4.24:
+    death: yes
+hols_hedvig_sophia_von_wittelsbach:
+  1681.6.26:
+    birth: stockholm
+    first_name: name_hedwig.name_sophia
+    dynasty: von_wittelsbach_dynasty
+    female: yes
+    father: swe_karl_xi_von_wittelsbach
+    mother: swe_ulrika_eleonora_von_oldenburg
+    adm: 45
+    dip: 50
+    mil: 20
+    religion: lutheran
+    culture: swedish
+    tag: SWE
+  1698.5.12:
+    spouse: hols_friedrich_iv_von_holstein_gottorp
+    tag: HOLS
+  1708.12.22:
+    death: yes
+hols_albertina_frederica_von_zahringen:
+  1682.7.3:
+    birth: durlach
+    first_name: name_albertina.name_frederica
+    dynasty: von_zahringen_dynasty
+    female: yes
+    adm: 30
+    dip: 35
+    mil: 25
+    religion: lutheran
+    culture: swabian
+    tag: BDE
+  1704.9.2:
+    spouse: hols_christian_august_von_holstein_gottorp
+    tag: HOLS
+  1755.12.22:
     death: yes
 hols_karl_friedrich_von_holstein_gottorp:
   1700.4.30:
@@ -282,7 +372,7 @@ hols_karl_friedrich_von_holstein_gottorp:
     dip: 30
     mil: 30
     religion: catholic
-    culture: lower_saxon
+    culture: holsatian
     tag: HOLS
   1739.6.19:
     death: yes
@@ -295,7 +385,7 @@ hols_karl_peter_ulrich_von_holstein_gottorp:
     dip: 30
     mil: 30
     religion: catholic
-    culture: lower_saxon
+    culture: holsatian
     tag: HOLS
   1762.7.17:
     death: yes

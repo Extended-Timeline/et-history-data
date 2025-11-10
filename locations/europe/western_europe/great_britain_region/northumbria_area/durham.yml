@@ -97,7 +97,13 @@
     ethnicity: english
     estate: peasant
     size: 1000
-1464.6.1:
+1293.1.1: # Created Palatine of Durham from 1293.
+  owner: DHM
+  controller: DHM
+  cores:
+    DHM: yes
+1536.7.1: # Removed Durham from implementation of Jurisdiction in Liberties Act 1535
+  owner: ENG
   controller: ENG
 1585.1.1:
   pop:

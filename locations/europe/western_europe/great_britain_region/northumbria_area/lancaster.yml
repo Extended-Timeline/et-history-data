@@ -76,6 +76,26 @@
     ethnicity: english
     estate: peasant
     size: 1000
+1351.3.6: # creation of the Palatine of Lancaster
+  owner: LANC
+  controller: LANC
+  cores:
+    LANC: yes
+1361.3.23: # death of Henry Grosemont
+  owner: ENG
+  controller: ENG
+1377.2.28: # recreation of the Palatine of Lancaster
+  owner: LANC
+  controller: LANC
+1399.9.30: # Henry IV comes to the throne
+  owner: ENG
+  controller: ENG
+1399.11.10: # recreation of the Palatine of Lancaster
+  owner: LANC
+  controller: LANC
+1413.3.21: # Henry V comes to the throne.
+  owner: ENG
+  controller: ENG
 1645.1.1:
   controller: ENG
 1707.5.12:

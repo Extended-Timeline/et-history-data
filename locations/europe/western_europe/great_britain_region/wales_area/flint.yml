@@ -1,9 +1,9 @@
 #imported from EU4 file: history/provinces/242 - Gwynedd.txt
-2.1.1:
-  owner: ORDO
-  controller: ORDO
+2.1.1: #Was held by Deceangli Tribe through Iron Age/Roman Britain period
+  owner: DECE
+  controller: DECE
   cores:
-    ORDO: yes
+    DECE: yes
   resource: livestock
   pop:
     ethnicity: briton
@@ -24,7 +24,7 @@
   owner: GWYN
   controller: GWYN
   cores:
-    ORDO: no
+    DECE: no
     ROM: no
     GWYN: yes
 660.1.1:
@@ -32,24 +32,32 @@
     religion: chalcedonism
     estate: peasant
     size: 1000
+756.1.1: # conquered by Mercia sometime in the 8th Century.
+  owner: MERC
+  controller: MERC
+  cores:
+    MERC: yes
 867.1.1:
   pop:
     religion: catholic
     estate: peasant
     size: 1000
-1282.1.1:
+927.1.1:
   owner: ENG
   controller: ENG
   cores:
-    GWYN: no
     ENG: yes
-    WLS: yes
-1415.1.1:
+    MERC: no
+1070.1.1: # controlled by Chester due to creation of County Palatine of Chester. Control ends in 1536.
+  owner: CET
+  controller: CET
+  cores:
+    CET: yes
+1536.1.1:
+  owner: ENG
   controller: ENG
-1468.6.1:
-  controller: ENG
-1471.5.4:
-  controller: ENG
+  cores:
+    CET: no
 1707.5.12:
   owner: GBR
   controller: GBR

@@ -135,12 +135,56 @@ hun_samuel_i_aba:
     tag: HUN
   1044.7.5:
     death: yes
+mihaly_arpad:
+  950.1.1:
+  birth: buda #Date and location guessed, no data.
+  first_name: michael
+  dynasty: arpad_dynasty
+  father: hun_taksony_arpad
+    adm: 50
+    dip: 50
+    mil: 50
+    religion: pagan
+    972.1.1: catholic
+    culture: hungarian
+    tag: HUN
+  996.1.1:
+    death: yes
+vaszoly_arpad:
+  990.1.1:
+  birth: buda #Date and location guessed, no data.
+  first_name: vasoly
+  dynasty: arpad_dynasty
+  father: mihaly_arpad
+    adm: 50
+    dip: 50
+    mil: 50
+    religion: pagan
+    eastern christianity
+    culture: hungarian
+    tag: HUN
+  1036.12.6:
+    death: yes
+hun_levente_arpad:
+  1010.1.1:
+    birth: pest #TODO: location guessed, check if better data is available
+    first_name: levente
+    dynasty: arpad_dynasty
+    father: vaszoly_arpad
+    adm: 75
+    dip: 15
+    mil: 15
+    religion: pagan
+    culture: hungarian
+    tag: HUN
+  1047.1.1:
+    death: yes
 hun_andras_i_arpad:
   1013.1.1:
     birth: pest #TODO: Date and location guessed, check if better data is available
     first_name: andras
     dynasty: arpad_dynasty
-    father: hun_peter_i_arpad_2 #TODO: check if this makes sense
+    father: vaszoly_arpad
     adm: 75
     dip: 15
     mil: 15
@@ -154,7 +198,7 @@ hun_bela_i_arpad:
     birth: pest #TODO: Date and location guessed, check if better data is available
     first_name: bela
     dynasty: arpad_dynasty
-    father: hun_andras_i_arpad_1 #TODO: check if this makes sense
+    father: vaszoly_arpad
     adm: 45
     dip: 30
     mil: 60
@@ -168,7 +212,7 @@ hun_salamon_i_arpad:
     birth: pest #TODO: Date and location guessed, check if better data is available
     first_name: salamon
     dynasty: arpad_dynasty
-    father: hun_bela_i_arpad_1 #TODO: check if this makes sense
+    father: hun_andras_i_arpad
     adm: 30
     dip: 75
     mil: 15
@@ -182,6 +226,7 @@ hun_geza_i_arpad:
     birth: pest #TODO: Date and location guessed, check if better data is available
     first_name: geza
     dynasty: arpad_dynasty
+    father: hun_bela_i_arpad
     adm: 45
     dip: 60
     mil: 45
@@ -195,7 +240,7 @@ hun_laszlo_i_arpad:
     birth: pest #TODO: Location guessed, check if better data is available
     first_name: laszlo
     dynasty: arpad_dynasty
-    father: hun_geza_i_arpad #TODO: check if this makes sense
+    father: hun_bela_i_arpad
     adm: 60
     dip: 60
     mil: 60
@@ -204,12 +249,12 @@ hun_laszlo_i_arpad:
     tag: HUN
   1095.7.29:
     death: yes
-hun_kalman_i_arpad:
+hun_kalman_arpad:
   1074.1.1:
     birth: fehervar
     first_name: kalman
     dynasty: arpad_dynasty
-    father: hun_laszlo_i_arpad_1 #TODO: check if this makes sense
+    father: hun_geza_i_arpad
     adm: 75
     dip: 60
     mil: 45
@@ -223,7 +268,7 @@ hun_istvan_ii_arpad:
     birth: pest #TODO: Date and location guessed, check if better data is available
     first_name: istvan
     dynasty: arpad_dynasty
-    father: hun_kalman_i_arpad_1 #TODO: check if this makes sense
+    father: hun_kalman_arpad
     adm: 60
     dip: 75
     mil: 30
@@ -232,12 +277,26 @@ hun_istvan_ii_arpad:
     tag: HUN
   1131.3.1:
     death: yes
+hun_almos_ii_arpad: 
+  1108.1.1:
+    birth: pest #TODO: Date and location guessed, check if better data is available
+    first_name: almos
+    dynasty: arpad_dynasty
+    father: hun_geza_i_arpad
+    adm: 45
+    dip: 75
+    mil: 30
+    religion: catholic
+    culture: hungarian
+    tag: HUN
+  1127.9.1:
+    death: yes
 hun_bela_ii_arpad:
   1108.1.1:
     birth: pest #TODO: Date and location guessed, check if better data is available
     first_name: bela
     dynasty: arpad_dynasty
-    father: hun_istvan_ii_arpad_1 #TODO: check if this makes sense
+    father: hun_almos_ii_arpad
     adm: 45
     dip: 75
     mil: 30
@@ -248,10 +307,10 @@ hun_bela_ii_arpad:
     death: yes
 hun_geza_ii_arpad:
   1130.1.1:
-    birth: pest #TODO: Date and location guessed, check if better data is available
+    birth: tolna
     first_name: geza
     dynasty: arpad_dynasty
-    father: hun_bela_ii_arpad_1 #TODO: check if this makes sense
+    father: hun_bela_ii_arpad
     adm: 15
     dip: 45
     mil: 75
@@ -265,7 +324,7 @@ hun_istvan_iii_arpad:
     birth: pest #TODO: Location guessed, check if better data is available
     first_name: istvan
     dynasty: arpad_dynasty
-    father: hun_geza_ii_arpad_1 #TODO: check if this makes sense
+    father: hun_geza_ii_arpad
     adm: 75
     dip: 60
     mil: 75
@@ -275,11 +334,11 @@ hun_istvan_iii_arpad:
   1172.3.4:
     death: yes
 hun_bela_iii_arpad:
-  1148.1.1:
-    birth: pest #TODO: Date and location guessed, check if better data is available
+  1149.1.1:
+    birth: esztergom
     first_name: bela
     dynasty: arpad_dynasty
-    father: hun_istvan_iii_arpad_1 #TODO: check if this makes sense
+    father: hun_geza_ii_arpad
     adm: 60
     dip: 15
     mil: 15
@@ -290,10 +349,10 @@ hun_bela_iii_arpad:
     death: yes
 hun_imre_i_arpad:
   1174.1.1:
-    birth: pest #TODO: Date and location guessed, check if better data is available
+    birth: fehervar
     first_name: imre
     dynasty: arpad_dynasty
-    father: hun_bela_iii_arpad_1 #TODO: check if this makes sense
+    father: hun_bela_iii_arpad
     adm: 60
     dip: 60
     mil: 30
@@ -303,11 +362,11 @@ hun_imre_i_arpad:
   1204.9.30:
     death: yes
 hun_laszlo_iii_arpad:
-  1199.1.1:
-    birth: pest #TODO: Date and location guessed, check if better data is available
+  1200.1.1:
+    birth: fehervar
     first_name: laszlo
     dynasty: arpad_dynasty
-    father: hun_imre_i_arpad_1 #TODO: check if this makes sense
+    father: hun_imre_i_arpad
     adm: 60
     dip: 60
     mil: 75
@@ -321,7 +380,7 @@ hun_andras_ii_arpad:
     birth: pest #TODO: Date and location guessed, check if better data is available
     first_name: andras
     dynasty: arpad_dynasty
-    father: hun_laszlo_iii_arpad_1 #TODO: check if this makes sense
+    father: hun_bela_iii_arpad
     adm: 45
     dip: 75
     mil: 30
@@ -363,7 +422,7 @@ hun_laszlo_iv_arpad:
     birth: pest #TODO: Location guessed, check if better data is available
     first_name: laszlo
     dynasty: arpad_dynasty
-    father: hun_istvan_v_arpad_1 #TODO: check if this makes sense
+    father: hun_istvan_v_arpad
     adm: 30
     dip: 45
     mil: 30
@@ -374,7 +433,7 @@ hun_laszlo_iv_arpad:
     death: yes
 hun_andras_iii_arpad:
   1265.1.1:
-    birth: pest #TODO: Date and location guessed, check if better data is available
+    birth: venice
     first_name: andras
     dynasty: arpad_dynasty
     father: hun_laszlo_iv_arpad_1 #TODO: check if this makes sense

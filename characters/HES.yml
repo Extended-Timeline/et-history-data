@@ -362,10 +362,10 @@ hes_wilhem_vii_von_hessen_kassel:
     tag: HES
   1670.9.22:
     death: yes
-hes_karl_von_hessen_kassel:
+hes_karl_i_von_hessen_kassel:
   1654.8.3:
-    birth: kassel #TODO: Location guessed, check if better data is available
-    first_name: karl
+    birth: kassel
+    first_name: name_charles
     dynasty: von_hessen_kassel_dynasty
     father: hes_wilhem_vii_von_hessen_kassel #TODO: check if this makes sense
     adm: 15
@@ -376,32 +376,22 @@ hes_karl_von_hessen_kassel:
     tag: HES
   1730.3.23:
     death: yes
-hes_karl_von_hessen_kassel_1:
-  1640.1.1:
-    birth: kassel #TODO: Date and location guessed, check if better data is available
-    first_name: karl
-    dynasty: von_hessen_kassel_dynasty
-    adm: 15
-    dip: 15
-    mil: 75
+hes_amalia_of_courland:
+  1653.6.12:
+    birth: jelgava
+    first_name: name_amelia
+    dynasty: ketteler_dynasty
+    female: yes
+    adm: 45
+    dip: 50
+    mil: 35
     religion: lutheran
-    culture: rhine_franconian
+    culture: german_baltic
+    tag: KUR
+  1673.5.21:
+    spouse: hes_karl_i_von_hessen_kassel
     tag: HES
-  1751.3.26:
-    death: yes
-hes_fredrik_i_von_hesse_kassel:
-  1676.4.28:
-    birth: kassel #TODO: Location guessed, check if better data is available
-    first_name: fredrik
-    dynasty: von_hesse_kassel_dynasty
-    father: hes_karl_von_hessen_kassel_1 #TODO: check if this makes sense
-    adm: 60
-    dip: 45
-    mil: 75
-    religion: lutheran
-    culture: rhine_franconian
-    tag: HES
-  1751.4.5:
+  1711.6.16:
     death: yes
 hes_wilhem_viii_von_hessen_kassel:
   1721.1.1:

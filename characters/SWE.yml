@@ -1,269 +1,520 @@
-swe_erik_av_munso:
+swe_erik_vii:
   945.1.1:
-    birth: stockholm #TODO: Date and location guessed, check if better data is available
-    first_name: erik
-    dynasty: av_munso_dynasty
-    adm: 30
-    dip: 75
-    mil: 75
+    birth: stockholm #unknown
+    first_name: name_eric
+    dynasty: munso_dynasty
     religion: norse
     culture: swedish
     tag: SWE
   995.1.1:
     death: yes
-swe_olof_av_munso:
+swe_estrid_of_the_obotrites:
+  979:
+    birth: schwerin #Obotritia
+    first_name: estrid
+    religion: romuva
+    culture: polabian
+    tag: OBOT
+  1000:
+    spouse: swe_olof_i
+    tag: SWE
+  1008:
+    religion: catholic
+    culture: swedish
+  1035:
+    death: yes
+swe_olof_i:
   980.1.1:
-    birth: stockholm #TODO: Date and location guessed, check if better data is available
-    first_name: olof
-    dynasty: av_munso_dynasty
-    adm: 0
-    dip: 15
-    mil: 0
+    birth: stockholm #unknown
+    first_name: name_olaf
+    nickname: nick_skotkonung
+    dynasty: munso_dynasty
+    father: swe_erik_vii
     religion: norse
     culture: swedish
     tag: SWE
+  995:
+    religion: catholic
   1022.1.1:
     death: yes
-swe_anund_jacob_av_munso:
+swe_astrid_olofsdotter:
+  1000:
+    birth: stockholm #unknown
+    first_name: name_astrid
+    dynasty: munso_dynasty
+    female: yes
+    father: swe_olof_i
+    religion: catholic
+    culture: swedish
+    tag: SWE
+  1035:
+    death: yes
+swe_ingegerd_olofsdotter:
+  1001:
+    birth: stockholm #unknown
+    first_name: ingegerd
+    dynasty: munso_dynasty
+    female: yes
+    father: swe_olof_i
+    mother: swe_estrid_of_the_obotrites
+    religion: catholic
+    culture: swedish
+    tag: SWE
+  1050.2.10:
+    death: yes
+swe_anund_jacob:
   1008.7.25:
-    birth: stockholm #TODO: Location guessed, check if better data is available
-    first_name: anund_jacob
-    dynasty: av_munso_dynasty
-    adm: 0
-    dip: 60
-    mil: 75
-    religion: norse
-    culture: swedish
-    tag: SWE
-  1050.1.1:
-    death: yes
-swe_emund_av_munso:
-  1010.1.1:
-    birth: stockholm #TODO: Date and location guessed, check if better data is available
-    first_name: emund
-    dynasty: av_munso_dynasty
-    adm: 15
-    dip: 45
-    mil: 45
+    birth: stockholm #unknown
+    first_name: name_anund
+    dynasty: munso_dynasty
+    father: swe_olof_i
+    mother: swe_estrid_of_the_obotrites
     religion: catholic
     culture: swedish
     tag: SWE
-  1060.1.1:
+  1050:
     death: yes
-swe_stenkil_av_stenkil:
-  1010.1.1:
-    birth: stockholm #TODO: Date and location guessed, check if better data is available
+swe_gunnhildr:
+  1010:
+    birth: stockholm #unknown
+    first_name: gunnhildr
+    religion: catholic
+    culture: swedish
+    tag: SWE
+  1030:
+    spouse: swe_anund_jacob
+  1060:
+    death: yes
+swe_emund:
+  1010:
+    birth: stockholm #unknown
+    first_name: name_edmond
+    dynasty: munso_dynasty
+    father: swe_olof_i
+    religion: catholic
+    culture: swedish
+    tag: SWE
+  1060:
+    death: yes
+swe_stenkil:
+  1010:
+    birth: skara #unknown
     first_name: stenkil
-    dynasty: av_stenkil_dynasty
-    adm: 0
-    dip: 75
-    mil: 45
+    dynasty: stenkil_dynasty
     religion: catholic
     culture: swedish
     tag: SWE
-  1066.1.1:
+  1066:
     death: yes
-swe_erik_av_stenkil:
-  1030.1.1:
-    birth: stockholm #TODO: Date and location guessed, check if better data is available
-    first_name: erik
-    dynasty: av_stenkil_dynasty
-    adm: 60
-    dip: 75
-    mil: 15
+swe_ingamoder:
+  1025:
+    birth: skara #unknown
+    first_name: ingamoder #unknown
+    dynasty: munso_dynasty
+    father: swe_emund
     religion: catholic
     culture: swedish
     tag: SWE
-  1067.1.1:
+  1045:
+    spouse: swe_stenkil
+  1066:
     death: yes
-swe_halsten_av_stenkil:
-  1050.1.1:
-    birth: stockholm #TODO: Date and location guessed, check if better data is available
-    first_name: halsten
-    dynasty: av_stenkil_dynasty
-    adm: 30
-    dip: 30
-    mil: 0
+swe_gyda_anundsdotter:
+  1030:
+    birth: stockholm #unknown
+    first_name: gyda
+    dynasty: munso_dynasty
+    female: yes
+    father: swe_anund_jacob
+    mother: swe_gunnhildr
     religion: catholic
     culture: swedish
     tag: SWE
-  1084.1.1:
+  1049:
     death: yes
-swe_anund_gardske_av_stenkil:
-  1040.1.1:
-    birth: stockholm #TODO: Date and location guessed, check if better data is available
-    first_name: anund_gardske
-    dynasty: av_stenkil_dynasty
-    adm: 15
-    dip: 30
-    mil: 45
+swe_erik_stenkilsson:
+  1030:
+    birth: skara #unknown
+    first_name: name_eric
+    dynasty: stenkil_dynasty
+    father: swe_stenkil
+    mother: swe_ingamoder
     religion: catholic
     culture: swedish
     tag: SWE
-  1075.1.1:
+  1067:
     death: yes
-swe_hakan_av_stenkil:
-  1040.1.1:
-    birth: stockholm #TODO: Date and location guessed, check if better data is available
-    first_name: hakan
-    dynasty: av_stenkil_dynasty
-    adm: 15
-    dip: 30
-    mil: 45
+swe_halsten:
+  1050:
+    birth: skara #unknown
+    first_name: name_halsten
+    dynasty: stenkil_dynasty
+    father: swe_stenkil
+    mother: swe_ingamoder
     religion: catholic
     culture: swedish
     tag: SWE
-  1079.1.1:
+  1084:
     death: yes
-swe_inge_av_stenkil:
-  1049.1.1:
-    birth: stockholm #TODO: Date and location guessed, check if better data is available
-    first_name: inge
-    dynasty: av_stenkil_dynasty
-    father: swe_filip_av_stenkil #TODO: check if this makes sense
-    adm: 75
-    dip: 45
-    mil: 30
+swe_anund_garderike:
+  1040:
+    birth: stockholm #unknown
+    first_name: name_anund
+    dynasty: garderike_dynasty
     religion: catholic
     culture: swedish
     tag: SWE
-  1105.1.1:
+  1075:
     death: yes
-swe_filip_av_stenkil:
-  1040.1.1:
-    birth: stockholm #TODO: Date and location guessed, check if better data is available
-    first_name: filip
-    dynasty: av_stenkil_dynasty
-    adm: 60
-    dip: 30
-    mil: 75
+swe_haakon_the_red:
+  1040:
+    birth: skara # Levene
+    first_name: name_hakan
+    dynasty: rode_dynasty
     religion: catholic
     culture: swedish
     tag: SWE
-  1110.1.1:
+  1079:
     death: yes
-swe_inge_av_stenkil_1:
-  1080.1.1:
-    birth: stockholm #TODO: Date and location guessed, check if better data is available
-    first_name: inge
-    dynasty: av_stenkil_dynasty
-    adm: 75
-    dip: 30
-    mil: 15
+swe_ingegerd_haraldsdotter:
+  1046:
+    birth: oslo #unknown
+    first_name: ingegerd
+    dynasty: hardrada_dynasty
+    female: yes
+    religion: catholic
+    culture: norwegian
+    tag: NOR
+  1096:
+    spouse: swe_philip
+    tag: SWE
+  1120:
+    death: yes
+swe_inge_elder:
+  1040:
+    birth: skara #unknown
+    first_name: name_inge
+    dynasty: stenkil_dynasty
+    father: swe_stenkil
+    mother: swe_ingamoder
     religion: catholic
     culture: swedish
     tag: SWE
-  1125.1.1:
+  1090:
+    nickname: nick_the_elder
+  1110:
     death: yes
-swe_ragnvald_av_stenkil:
-  1095.1.1:
-    birth: stockholm #TODO: Date and location guessed, check if better data is available
+swe_helena:
+  1040:
+    birth: skara #unknown
+    first_name: helena
+    religion: catholic
+    culture: swedish
+    tag: SWE
+  1070:
+    spouse: swe_inge_elder
+  1110:
+    death: yes
+swe_philip:
+  1070:
+    birth: skara #unknown
+    first_name: name_philip
+    dynasty: stenkil_dynasty
+    father: swe_halsten
+    religion: catholic
+    culture: swedish
+    tag: SWE
+  1118:
+    death: yes
+swe_kristina_ingesdotter:
+  1078:
+    birth: skara #unknown
+    first_name: name_christine
+    dynasty: stenkil_dynasty
+    female: yes
+    father: swe_inge_elder
+    mother: swe_helena
+    religion: catholic
+    culture: swedish
+    tag: SWE
+  1122.1.18:
+    death: yes
+swe_ragnvald_ingesson:
+  1080:
+    birth: skara #unknown
     first_name: ragnvald
-    dynasty: av_stenkil_dynasty
-    adm: 60
-    dip: 15
-    mil: 15
+    dynasty: stenkil_dynasty
+    father: swe_inge_elder
+    mother: swe_helena
     religion: catholic
     culture: swedish
     tag: SWE
-  1126.1.1:
+  1140:
     death: yes
-swe_magnus_i_estridsen:
-  1106.1.1:
-    birth: stockholm #TODO: Date and location guessed, check if better data is available
-    first_name: magnus
-    dynasty: estridsen_dynasty
-    adm: 60
-    dip: 45
-    mil: 0
+swe_margaret_fredkulla:
+  1085:
+    birth: skara #unknown
+    first_name: name_margaret
+    nickname: nick_fredkulla
+    dynasty: stenkil_dynasty
+    female: yes
+    father: swe_inge_elder
+    mother: swe_helena
     religion: catholic
     culture: swedish
     tag: SWE
-  1130.1.1:
+  1130.11.4:
     death: yes
-swe_sverker_i_sverker:
-  1100.1.1:
-    birth: stockholm #TODO: Date and location guessed, check if better data is available
-    first_name: sverker
+swe_katarina_ingesdotter:
+  1085:
+    birth: skara #unknown
+    first_name: name_catherine
+    dynasty: stenkil_dynasty
+    female: yes
+    father: swe_inge_elder
+    mother: swe_helena
+    religion: catholic
+    culture: swedish
+    tag: SWE
+  1134:
+    death: yes
+swe_inge_younger:
+  1090:
+    birth: skara #unknown
+    first_name: name_inge
+    nickname: nick_the_younger
+    dynasty: stenkil_dynasty
+    father: swe_halsten
+    religion: catholic
+    culture: swedish
+    tag: SWE
+  1125:
+    death: yes
+swe_ulvhild_hakansdotter:
+  1095:
+    birth: bergen #unknown
+    first_name: name_ulvhild
+    last_name: hakansdotter
+    female: yes
+    religion: catholic
+    culture: norwegian
+    tag: NOR
+  1117:
+    spouse: swe_inge_younger
+    tag: SWE
+  1134:
+    spouse: swe_sverker_elder
+  1148:
+    death: yes
+swe_sverker_elder:
+  1100:
+    birth: linkoping #unknown
+    first_name: name_sverker
     dynasty: sverker_dynasty
-    adm: 60
-    dip: 30
-    mil: 15
     religion: catholic
     culture: swedish
     tag: SWE
   1156.12.25:
     death: yes
-swe_erik_ix_erik:
-  1120.1.1:
-    birth: stockholm #TODO: Date and location guessed, check if better data is available
-    first_name: erik
+  1164:
+    nickname: nick_the_elder
+swe_magnus_i:
+  1106:
+    birth: stockholm #unknown
+    first_name: name_magnus
+    dynasty: estrid_dynasty
+    religion: catholic
+    culture: swedish
+    tag: SWE
+  1134.6.4:
+    death: yes
+swe_richeza_of_poland:
+  1116:
+    birth: krakow #unknown
+    first_name: name_rikissa
+    dynasty: piast_dynasty
+    female: yes
+    religion: catholic
+    culture: lesser_polish
+    tag: POL
+  1127:
+    spouse: swe_magnus_i
+    tag: SWE
+  1148:
+    spouse: swe_sverker_elder
+  1170:
+    death: yes
+swe_erik_ix_the_holy:
+  1120:
+    birth: skara #unknown
+    first_name: name_eric
+    nickname: nick_the_holy
     dynasty: erik_dynasty
-    adm: 45
-    dip: 30
-    mil: 30
     religion: catholic
     culture: swedish
     tag: SWE
   1160.5.18:
     death: yes
-swe_magnus_ii_av_stenkil:
-  1130.1.1:
-    birth: stockholm #TODO: Date and location guessed, check if better data is available
-    first_name: magnus
-    dynasty: av_stenkil_dynasty
-    adm: 30
-    dip: 15
-    mil: 30
+swe_christina_estridsen:
+  1120:
+    birth: kobenhavn #unknown
+    first_name: name_christine
+    dynasty: estrid_dynasty
+    female: yes
     religion: catholic
-    culture: swedish
+    culture: danish
+    tag: DAN
+  1140:
+    spouse: swe_erik_ix_the_holy
     tag: SWE
-  1161.1.1:
+  1170:
     death: yes
-swe_karl_i_sverker:
-  1130.1.1:
-    birth: stockholm #TODO: Date and location guessed, check if better data is available
-    first_name: karl
+swe_magnus_ii:
+  1130:
+    birth: stockholm #unknown
+    first_name: name_magnus
+    dynasty: estrid_dynasty
+    religion: catholic
+    culture: danish
+    tag: SWE
+  1161:
+    death: yes
+swe_bridget_haraldsdotter:
+  1131:
+    birth: bergen #unknown
+    first_name: name_bridget
+    dynasty: gille_dynasty
+    female: yes
+    religion: catholic
+    culture: norwegian
+    tag: NOR
+  1150:
+    spouse: swe_magnus_ii
+    tag: SWE
+  1208:
+    death: yes
+swe_charles_vii:
+  1130:
+    birth: linkoping #unknown
+    first_name: name_charles
     dynasty: sverker_dynasty
-    adm: 30
-    dip: 15
-    mil: 15
+    father: swe_sverker_elder
+    mother: swe_ulvild_hakansdotter
     religion: catholic
     culture: swedish
     tag: SWE
   1167.4.12:
     death: yes
-swe_knut_i_erik:
-  1150.1.1:
-    birth: stockholm #TODO: Date and location guessed, check if better data is available
-    first_name: knut
-    dynasty: erik_dynasty
-    adm: 15
-    dip: 30
-    mil: 60
-    religion: catholic
-    culture: swedish
-    tag: SWE
-  1196.1.1:
-    death: yes
-swe_sverker_ii_sverker:
-  1164.1.1:
-    birth: stockholm #TODO: Date and location guessed, check if better data is available
-    first_name: sverker
+swe_johan_sverkersson:
+  1132:
+    birth: linkoping #unknown
+    first_name: name_john
     dynasty: sverker_dynasty
-    adm: 30
-    dip: 30
-    mil: 45
+    father: swe_sverker_elder
+    mother: swe_ulvild_hakansdotter
     religion: catholic
     culture: swedish
     tag: SWE
-  1208.1.31:
+  1152:
     death: yes
-swe_erik_x_erik:
-  1180.1.1:
-    birth: stockholm #TODO: Date and location guessed, check if better data is available
-    first_name: erik
+swe_christina_hvide:
+  1145:
+    birth: skara #unknown
+    first_name: name_christine
+    last_name: hvide
+    female: yes
+    religion: catholic
+    culture: swedish
+    tag: SWE
+  1164:
+    spouse: swe_charles_vii
+  1200:
+    death: yes
+swe_canute_i:
+  1150:
+    birth: skara #unknown
+    first_name: name_canute
     dynasty: erik_dynasty
+    father: swe_erik_ix_the_holy
+    mother: swe_christina_estridsen
+    religion: catholic
+    culture: swedish
+    tag: SWE
+  1196:
+    death: yes
+swe_margaret_eriksdotter:
+  1155:
+    birth: skara #unknown
+    first_name: name_margaret
+    dynasty: erik_dynasty
+    female: yes
+    father: swe_erik_ix_the_holy
+    mother: swe_christina_estridsen
+    religion: catholic
+    culture: swedish
+    tag: SWE
+  1209:
+    death: yes
+swe_cecilia_johansdotter:
+  1178:
+    birth: skara #unknown
+    first_name: name_cecile
+    last_name: johansdotter
+    female: yes
+    religion: catholic
+    culture: swedish
+    tag: SWE
+  1167:
+    spouse: swe_canute_i
+  1193:
+    death: yes
+swe_sverker_younger:
+  1164:
+    birth: linkoping #unknown
+    first_name: name_sverker
+    nickname: nick_the_younger
+    dynasty: sverker_dynasty
+    father: swe_charles_vii
+    mother: swe_christina_hvide
+    religion: catholic
+    culture: swedish
+    tag: SWE
+  1210.7.17:
+    death: yes
+swe_rikissa_estridsen:
+  1178:
+    birth: kobenhavn #unknown
+    first_name: name_rikissa
+    dynasty: estrid_dynasty
+    female: yes
+    religion: catholic
+    culture: danish
+    tag: DAN
+  1210:
+    spouse: swe_erik_x
+    tag: SWE
+  1220.5.8:
+    death: yes
+swe_ingegerd_birgersdotter:
+  1180:
+    birth: stockholm #unknown
+    first_name: ingegerd
+    dynasty: bjalbo_atten_dynasty
+    female: yes
+    religion: catholic
+    culture: swedish
+    tag: SWE
+  1200:
+    spouse: swe_sverker_younger
+  1230:
+    death: yes
+swe_erik_x:
+  1180.1.1:
+    birth: skara #unknown
+    first_name: name_eric
+    dynasty: erik_dynasty
+    father: swe_canute_i
+    mother: swe_cecilia_johansdotter
     adm: 30
     dip: 30
     mil: 45
@@ -272,114 +523,418 @@ swe_erik_x_erik:
     tag: SWE
   1216.4.10:
     death: yes
-swe_johan_i_sverker:
-  1201.1.1:
-    birth: stockholm #TODO: Date and location guessed, check if better data is available
-    first_name: johan
+swe_canute_ii:
+  1190:
+    birth: enkoping #unknown
+    first_name: name_canute
+    nickname: the_long
+    dynasty: holmger_dynasty
+    religion: catholic
+    culture: swedish
+    tag: SWE
+  1234:
+    death: yes
+swe_john:
+  1201:
+    birth: linkoping #unknown
+    first_name: name_john
     dynasty: sverker_dynasty
-    adm: 45
-    dip: 45
-    mil: 60
+    father: swe_sverker_younger
+    mother: swe_ingegerd_birgersdotter
     religion: catholic
     culture: swedish
     tag: SWE
   1222.3.10:
     death: yes
-swe_erik_xi_erik:
-  1216.1.1:
-    birth: stockholm #TODO: Date and location guessed, check if better data is available
+swe_birger_jarl:
+  1210:
+    birth: vadstena
+    first_name: name_birger
+    dynasty: bjalbo_atten_dynasty
+    adm: 97 
+    dip: 54
+    mil: 91
+    religion: catholic
+    culture: swedish
+    tag: SWE
+    trait: conqueror
+    trait: cruel
+  1266.10.21:
+    death: yes
+swe_ingeborg_eriksson:
+  1214:
+    birth: stockholm #unknown
+    first_name: name_ingeborg
+    dynasty: erik_dynasty
+    female: yes
+    father: swe_erik_x
+    mother: swe_rikissa_estridsen
+    religion: catholic
+    culture: swedish
+    tag: SWE
+  1235:
+    spouse: swe_birger_jarl
+  1254.6.17:
+    death: yes
+swe_katarina_sunesdotter:
+  1215:
+    birth: stockholm #unknown
+    first_name: name_catherine
+    dynasty: bjalbo_atten_dynasty
+    female: yes
+    religion: catholic
+    culture: swedish
+    tag: SWE
+  1244:
+    spouse: swe_erik_xi
+  1288:
+    death: yes
+swe_erik_xi:
+  1216.6:
+    birth: skara #unknown
     first_name: erik
     dynasty: erik_dynasty
-    adm: 15
-    dip: 30
-    mil: 15
+    father: swe_erik_x
+    mother: swe_rikissa_estridsen
     religion: catholic
     culture: swedish
     tag: SWE
   1250.2.2:
     death: yes
-swe_knut_ii_erik:
-  1190.1.1:
-    birth: stockholm #TODO: Date and location guessed, check if better data is available
-    first_name: knut
-    dynasty: erik_dynasty
-    adm: 30
-    dip: 30
-    mil: 45
+swe_rikissa_birgersdotter:
+  1237:
+    birth: stockholm #unknown
+    first_name: name_rikissa
+    dynasty: bjalbo_atten_dynasty
+    female: yes
+    father: swe_birger_jarl
+    mother: swe_ingeborg_eriksson
     religion: catholic
     culture: swedish
     tag: SWE
-  1234.1.1:
+  1288:
     death: yes
-swe_valdemar_i_av_bjalbo:
-  1239.1.1:
-    birth: stockholm #TODO: Date and location guessed, check if better data is available
-    first_name: valdemar
-    dynasty: av_bjalbo_dynasty
-    adm: 75
-    dip: 60
-    mil: 60
+swe_valdemar_birgersson:
+  1239:
+    birth: nykoping
+    first_name: name_waldemar
+    dynasty: bjalbo_atten_dynasty
+    father: swe_birger_jarl
+    mother: swe_ingeborg_eriksson
     religion: catholic
     culture: swedish
     tag: SWE
   1275.7.22:
     death: yes
-swe_magnus_iii_av_bjalbo:
-  1240.1.1:
-    birth: stockholm #TODO: Date and location guessed, check if better data is available
-    first_name: magnus
-    dynasty: av_bjalbo_dynasty
-    adm: 0
-    dip: 60
-    mil: 0
+swe_magnus_ladulas:
+  1240:
+    birth: stockholm #unknown
+    first_name: name_magnus
+    nickname: Ladulas
+    dynasty: bjalbo_atten_dynasty
+    father: swe_birger_jarl
+    mother: swe_ingeborg_eriksson
+    adm: 76
+    dip: 56
+    mil: 50
     religion: catholic
     culture: swedish
     tag: SWE
   1290.12.18:
     death: yes
-swe_birger_i_av_bjalbo:
-  1280.1.1:
-    birth: stockholm #TODO: Date and location guessed, check if better data is available
-    first_name: birger
-    dynasty: av_bjalbo_dynasty
-    adm: 60
-    dip: 60
-    mil: 75
+swe_sofia_estridsen:
+  1241:
+    birth: kobenhavn
+    first_name: name_sophia
+    dynasty: estrid_dynasty
+    father: dan_erik_iv
+    religion: catholic
+    culture: danish
+    tag: DAN
+  1260:
+    spouse: swe_valdemar_birgersson
+    tag: SWE
+  1286:
+    death: yes
+swe_katarina_birgersdotter:
+  1245:
+    birth: stockholm #unknown
+    first_name: name_catherine
+    dynasty: bjalbo_atten_dynasty
+    female: yes
+    father: swe_birger_jarl
+    mother: swe_ingeborg_eriksson
+    religion: catholic
+    culture: swedish
+    tag: SWE
+  1289:
+    death: yes
+swe_erik_birgersson:
+  1250:
+    birth: stockholm #unknown
+    first_name: name_eric
+    dynasty: bjalbo_atten_dynasty
+    father: swe_birger_jarl
+    mother: swe_ingeborg_eriksson
+    religion: catholic
+    culture: swedish
+    tag: SWE
+  1275.12.17:
+    death: yes
+swe_ingeborg_birgersdotter:
+  1253:
+    birth: stockholm #unknown
+    first_name: name_ingeborg
+    dynasty: bjalbo_atten_dynasty
+    female: yes
+    father: swe_birger_jarl
+    mother: swe_ingeborg_eriksson
+    religion: catholic
+    culture: swedish
+    tag: SWE
+  1302.6.30:
+    death: yes
+swe_bengt_birgersson:
+  1254:
+    birth: stockholm #unknown
+    first_name: name_benedict
+    dynasty: bjalbo_atten_dynasty
+    father: swe_birger_jarl
+    mother: swe_ingeborg_eriksson
+    religion: catholic
+    culture: swedish
+    tag: SWE
+  1291.5.25:
+    death: yes
+swe_helvig_von_schauenburg:
+  1259:
+    birth: rendsburg #unknown
+    first_name: name_helvig
+    dynasty: schauenburg_dynasty
+    father: shl_gerhard_i_holstein
+    religion: catholic
+    culture: holsatian
+    tag: HTR
+  1276:
+    spouse: swe_magnus_ladulas
+    tag: SWE
+  1325:
+    death: yes
+swe_ingeborg_valdemarsdotter:
+  1262:
+    birth: stockholm #unknown
+    first_name: name_ingeborg
+    dynasty: bjalbo_atten_dynasty
+    female: yes
+    father: swe_valdemar_birgersson
+    mother: swe_sofia_estridsen
+    religion: catholic
+    culture: swedish
+    tag: SWE
+  1293:
+    death: yes
+swe_erik_valdemarsson:
+  1271:
+    birth: stockholm #unknown
+    first_name: name_eric
+    dynasty: bjalbo_atten_dynasty
+    father: swe_valdemar_birgersson
+    mother: swe_sofia_estridsen
+    religion: catholic
+    culture: swedish
+    tag: SWE
+  1330:
+    death: yes
+swe_rikissa_valdemarsdotter:
+  1273:
+    birth: stockholm #unknown
+    first_name: name_rikissa
+    dynasty: bjalbo_atten_dynasty
+    female: yes
+    father: swe_valdemar_birgersson
+    mother: swe_sofia_estridsen
+    religion: catholic
+    culture: swedish
+    tag: SWE
+  1292:
+    death: yes
+swe_birger_magnusson:
+  1280:
+    birth: stockholm
+    first_name: name_birger
+    dynasty: bjalbo_atten_dynasty
+    father: swe_magnus_ladulas
+    mother: swe_helvig_von_schauenburg
+    adm: 29
+    dip: 18
+    mil: 52
     religion: catholic
     culture: swedish
     tag: SWE
   1321.5.31:
     death: yes
-swe_magnus_iv_av_bjalbo:
-  1316.1.1:
-    birth: stockholm #TODO: Date and location guessed, check if better data is available
-    first_name: magnus
-    dynasty: av_bjalbo_dynasty
-    adm: 75
-    dip: 45
-    mil: 30
+swe_martha_estridsen:
+  1280:
+    birth: kobenhavn
+    first_name: name_martha
+    dynasty: estrid_dynasty
+    father: dan_erik_v
+    religion: catholic
+    culture: danish
+    tag: DAN
+  1298.11.25:
+    spouse: swe_birger_magnusson
+    tag: SWE
+  1341.3.2:
+    death: yes
+swe_erik_magnusson:
+  1282:
+    birth: stockholm #unknown
+    first_name: name_eric
+    dynasty: bjalbo_atten_dynasty
+    father: swe_magnus_ladulas
+    mother: swe_helvig_von_schauenburg
+    adm: 41
+    dip: 58
+    mil: 24
     religion: catholic
     culture: swedish
     tag: SWE
-  1364.2.15:
+  1318.6:
+    death: yes
+swe_valdemar_magnusson:
+  1285:
+    birth: stockholm #unknown
+    first_name: name_waldemar
+    dynasty: bjalbo_atten_dynasty
+    father: swe_magnus_ladulas
+    mother: swe_helvig_von_schauenburg
+    religion: catholic
+    culture: swedish
+    tag: SWE
+  1318.6:
+    death: yes
+swe_rikissa_magnusdotter:
+  1285:
+    birth: stockholm #unknown
+    first_name: name_rikissa
+    dynasty: bjalbo_atten_dynasty
+    female: yes
+    father: swe_magnus_ladulas
+    mother: swe_helvig_von_schauenburg
+    religion: catholic
+    culture: swedish
+    tag: SWE
+  1348.12.17:
+    death: yes
+swe_magnus_birgersson:
+  1300.9:
+    birth: stockholm #unknown
+    first_name: name_magnus
+    dynasty: bjalbo_atten_dynasty
+    father: swe_birger_magnusson
+    mother: swe_martha_estridsen
+    adm: 52
+    dip: 30
+    mil: 22
+    religion: catholic
+    culture: swedish
+    tag: SWE
+  1320.6.1:
+    death: yes
+nor_ingeborg:
+  1301:
+    birth: oslo #unknown
+    first_name: name_ingeborg
+    dynasty: sverre_aetten_dynasty
+    female: yes
+    father: nor_hakan_magnusson
+    religion: catholic
+    culture: norwegian
+    tag: NOR
+  1312:
+    spouse: swe_erik_magnusson
+    tag: SWE
+  1361.6.17:
+    death: yes
+swe_magnus_eriksson:
+  1316.5.1:
+    birth: oslo #Norway, exact location unknown
+    first_name: name_magnus
+    dynasty: bjalbo_atten_dynasty
+    father: swe_erik_magnusson
+    mother: nor_ingeborg
+    adm: 16
+    dip: 5
+    mil: 26
+    religion: catholic
+    culture: swedish
+    tag: SWE
+  1374.12.1:
     death: yes
 swe_albrekt_i_von_mecklenburg:
-  1338.1.1:
-    birth: stockholm #TODO: Date and location guessed, check if better data is available
-    first_name: albrekt
+  1338:
+    birth: schwerin
+    first_name: name_albert
     dynasty: von_mecklenburg_dynasty
     adm: 75
     dip: 45
     mil: 30
     religion: catholic
-    culture: swedish
+    culture: western_pomeranian
+    tag: MKL
+  1364.2.18:
     tag: SWE
-  1448.6.20:
+  1395:
+    tag: MKL
+  1412.4.1:
+    death: yes
+swe_richardis_von_hagen:
+  1347:
+    birth: schwerin
+    first_name: name_ricarda
+    dynasty: von_hagen_dynasty
+    female: yes
+    religion: catholic
+    culture: western_pomeranian
+    tag: MKL
+  1365:
+    spouse: swe_albrekt_i_von_mecklenburg
+    tag: SWE
+  1377.7.11:
+    death: yes
+swe_erik_von_mecklenburg:
+  1367:
+    birth: stockholm #unknown
+    first_name: name_eric
+    dynasty: von_mecklenburg_dynasty
+    father: swe_albrekt_i_von_mecklenburg
+    mother: swe_richardis_von_hagen
+    adm: 45
+    dip: 35
+    mil: 30
+    religion: catholic
+    culture: western_pomeranian
+    tag: SWE
+  1397.7.26:
+    death: yes
+swe_richardis_catherine_von_mecklenburg:
+  1370:
+    birth: stockholm #unknown
+    first_name: name_ricarda.name_catherine
+    dynasty: von_mecklenburg_dynasty
+    female: yes
+    father: swe_albrekt_i_von_mecklenburg
+    mother: swe_richardis_von_hagen
+    religion: catholic
+    culture: western_pomeranian
+    tag: SWE
+  1400:
     death: yes
 swe_karl_viii_bonde:
-  1409.10.5:
-    birth: stockholm #TODO: Location guessed, check if better data is available
-    first_name: karl
+  1408.10.5:
+    birth: uppsala
+    first_name: name_charles
     dynasty: bonde_dynasty
     adm: 45
     dip: 0
@@ -390,24 +945,21 @@ swe_karl_viii_bonde:
   1470.5.15:
     death: yes
 swe_katarina_gumsehuvud:
-  1418.1.1:
+  1418:
     birth: stockholm #TODO: Date and location guessed, check if better data is available
     first_name: katarina
-    dynasty: gumsehuvud_dynasty
+    last_name: gumsehuvud
     female: yes
-    adm: 30
-    dip: 30
-    mil: 30
     religion: catholic
     culture: swedish
     tag: SWE
-  1451.1.1:
+  1438.10.5:
+    spouse: swe_karl_viii_bonde
+  1450.9.7:
     death: yes
-  1448.6.20:
-    spouse: swe_karl_viii_bonde #TODO: date guessed, see if better data is available
 swe_jons_bengtsson_oxenstierna:
-  1417.1.1:
-    birth: stockholm #TODO: Date and location guessed, check if better data is available
+  1417:
+    birth: stockholm #unknown
     first_name: jons_bengtsson
     dynasty: oxenstierna_dynasty
     adm: 15
@@ -416,11 +968,24 @@ swe_jons_bengtsson_oxenstierna:
     religion: catholic
     culture: swedish
     tag: SWE
-  1463.8.21:
+  1467.12.15:
+    death: yes
+swe_erik_axelsson_tott:
+  1419.1.1:
+    birth: stockholm #unknown
+    first_name: name_eric
+    dynasty: tott_dynasty
+    adm: 15
+    dip: 15
+    mil: 15
+    religion: catholic
+    culture: swedish
+    tag: SWE
+  1481:
     death: yes
 swe_ture_turesson_bielke:
-  1433.1.1:
-    birth: stockholm #TODO: Date and location guessed, check if better data is available
+  1425:
+    birth: stockholm #unknown
     first_name: ture_turesson
     dynasty: bielke_dynasty
     adm: 15
@@ -429,11 +994,11 @@ swe_ture_turesson_bielke:
     religion: catholic
     culture: swedish
     tag: SWE
-  1464.1.2:
+  1490:
     death: yes
 swe_kettil_karlsson_vasa:
-  1434.1.1:
-    birth: stockholm #TODO: Date and location guessed, check if better data is available
+  1433:
+    birth: stockholm #unknown
     first_name: kettil_karlsson
     dynasty: vasa_dynasty
     adm: 15
@@ -442,50 +1007,11 @@ swe_kettil_karlsson_vasa:
     religion: catholic
     culture: swedish
     tag: SWE
-  1464.9.2:
-    death: yes
-swe_kettil_karlsson_vasa_1:
-  1435.1.1:
-    birth: stockholm #TODO: Date and location guessed, check if better data is available
-    first_name: kettil_karlsson
-    dynasty: vasa_dynasty
-    adm: 15
-    dip: 15
-    mil: 15
-    religion: catholic
-    culture: swedish
-    tag: SWE
-  1465.6.16:
-    death: yes
-swe_jons_bengtsson_oxenstierna_1:
-  1435.1.1:
-    birth: stockholm #TODO: Date and location guessed, check if better data is available
-    first_name: jons_bengtsson
-    dynasty: oxenstierna_dynasty
-    adm: 15
-    dip: 15
-    mil: 15
-    religion: catholic
-    culture: swedish
-    tag: SWE
-  1466.10.19:
-    death: yes
-swe_erik_axelsson_tott:
-  1436.1.1:
-    birth: stockholm #TODO: Date and location guessed, check if better data is available
-    first_name: erik_axelsson
-    dynasty: tott_dynasty
-    adm: 15
-    dip: 15
-    mil: 15
-    religion: catholic
-    culture: swedish
-    tag: SWE
-  1467.11.12:
+  1465.8.11:
     death: yes
 swe_elin_sture:
-  1442.1.1:
-    birth: stockholm #TODO: Date and location guessed, check if better data is available
+  1440.1.1:
+    birth: stockholm #unknown
     first_name: elin
     dynasty: sture_dynasty
     female: yes
@@ -495,15 +1021,15 @@ swe_elin_sture:
     religion: catholic
     culture: swedish
     tag: SWE
-  1495.1.1:
+  1466.9:
+    spouse: swe_erik_axelsson_tott
+  1495:
     death: yes
-  1466.10.19:
-    spouse: swe_erik_axelsson_tott #TODO: date guessed, see if better data is available
 swe_kristina_abrahamsson:
-  1432.1.1:
-    birth: stockholm #TODO: Date and location guessed, check if better data is available
-    first_name: kristina
-    dynasty: abrahamsson_dynasty
+  1432:
+    birth: abo #unknown
+    first_name: name_christine
+    last_name: abrahamsdotter
     female: yes
     adm: 15
     dip: 15
@@ -511,42 +1037,13 @@ swe_kristina_abrahamsson:
     religion: catholic
     culture: swedish
     tag: SWE
-  1492.1.1:
+  1470.4:
+    spouse: swe_karl_viii_bonde
+  1492:
     death: yes
-  1470.1.1:
-    spouse: swe_karl_viii_bonde #TODO: date guessed, see if better data is available
-swe_sten_gustavsson_sture:
-  1440.1.1:
-    birth: stockholm #TODO: Date and location guessed, check if better data is available
-    first_name: sten_gustavsson
-    dynasty: sture_dynasty
-    adm: 15
-    dip: 15
-    mil: 15
-    religion: catholic
-    culture: swedish
-    tag: SWE
-  1497.10.6:
-    death: yes
-swe_ingeborg_tott:
-  1440.1.1:
-    birth: stockholm #TODO: Date and location guessed, check if better data is available
-    first_name: ingeborg
-    dynasty: tott_dynasty
-    female: yes
-    adm: 45
-    dip: 45
-    mil: 15
-    religion: catholic
-    culture: swedish
-    tag: SWE
-  1507.12.1:
-    death: yes
-  1501.11.15:
-    spouse: swe_sten_gustavsson_sture_1 #TODO: date guessed, see if better data is available
 swe_arvid_trolle:
-  1467.1.1:
-    birth: stockholm #TODO: Date and location guessed, check if better data is available
+  1440.1.1:
+    birth: vaxjo
     first_name: arvid
     dynasty: trolle_dynasty
     adm: 15
@@ -555,11 +1052,11 @@ swe_arvid_trolle:
     religion: catholic
     culture: swedish
     tag: SWE
-  1501.11.15:
+  1505.2.20:
     death: yes
 swe_beata_tott:
   1440.1.1:
-    birth: stockholm #TODO: Date and location guessed, check if better data is available
+    birth: vaxjo #unknown
     first_name: beata
     dynasty: tott_dynasty
     female: yes
@@ -569,14 +1066,14 @@ swe_beata_tott:
     religion: catholic
     culture: swedish
     tag: SWE
-  1506.1.1:
+  1466:
+    spouse: swe_arvid_trolle
+  1487:
     death: yes
-  1497.10.6:
-    spouse: swe_arvid_trolle #TODO: date guessed, see if better data is available
-swe_sten_gustavsson_sture_1:
-  1471.1.1:
-    birth: stockholm #TODO: Date and location guessed, check if better data is available
-    first_name: sten_gustavsson
+swe_sten_gustavsson_sture:
+  1440:
+    birth: stockholm #unknown
+    first_name: sten
     dynasty: sture_dynasty
     adm: 15
     dip: 15
@@ -584,12 +1081,30 @@ swe_sten_gustavsson_sture_1:
     religion: catholic
     culture: swedish
     tag: SWE
+  1493:
+    nickname: nick_the_elder
   1503.12.14:
     death: yes
+swe_ingeborg_akersdotter_tott:
+  1440:
+    birth: orebro #unknown
+    first_name: name_ingeborg
+    dynasty: tott_dynasty
+    female: yes
+    adm: 45
+    dip: 45
+    mil: 15
+    religion: catholic
+    culture: swedish
+    tag: SWE
+  1467:
+    spouse: swe_sten_gustavsson_sture
+  1507.12:
+    death: yes
 swe_svante_nilsson_sture:
-  1473.1.1:
-    birth: stockholm #TODO: Date and location guessed, check if better data is available
-    first_name: svante_nilsson
+  1460:
+    birth: stockholm #unknown
+    first_name: svante
     dynasty: sture_dynasty
     adm: 15
     dip: 15
@@ -597,29 +1112,77 @@ swe_svante_nilsson_sture:
     religion: catholic
     culture: swedish
     tag: SWE
-  1512.1.3:
+  1512.1.2:
+    death: yes
+swe_erik_trolle:
+  1460:
+    birth: vaxjo #unknown
+    first_name: name_eric
+    dynasty: trolle_dynasty
+    father: swe_arvid_trolle
+    adm: 20
+    dip: 20
+    mil: 0
+    religion: catholic
+    culture: swedish
+    tag: SWE
+  1530:
+    death: yes
+swe_ingeborg_filipsdotter_tott:
+  1460:
+    birth: stockholm #unknown
+    first_name: name_ingeborg
+    dynasty: tott_dynasty
+    female: yes
+    adm: 45
+    dip: 45
+    mil: 15
+    religion: catholic
+    culture: swedish
+    tag: SWE
+  1487:
+    spouse: swe_erik_trolle
+  1495:
     death: yes
 swe_mette_dyre:
-  1465.1.1:
-    birth: stockholm #TODO: Date and location guessed, check if better data is available
+  1465:
+    birth: stockholm #TODO: Tirsbæk, Vejle Municipality
     first_name: mette
-    dynasty: dyre_dynasty
+    last_name: dyre
     female: yes
     adm: 15
     dip: 15
     mil: 15
     religion: catholic
+    culture: danish
+    tag: DAN
+  1504.11.17:
+    spouse: swe_svante_nilsson_sture
+    tag: SWE
+  1530:
+    death: yes
+swe_gustav_trolle:
+  1488.9:
+    birth: uppsala #unknown
+    first_name: name_gustav
+    dynasty: trolle_dynasty
+    father: swe_erik_trolle
+    adm: 0
+    dip: 0
+    mil: 0
+    religion: catholic
     culture: swedish
     tag: SWE
-  1530.1.1:
+  1535:
     death: yes
-  1503.12.14:
-    spouse: swe_svante_nilsson_sture #TODO: date guessed, see if better data is available
-swe_sten_svantesson_sture:
-  1482.1.1:
-    birth: stockholm #TODO: Date and location guessed, check if better data is available
-    first_name: sten_svantesson
+swe_sten_sture_the_younger:
+  1493.1.1:
+    birth: stockholm #unknown
+    first_name: name_sten
+    nickname: nick_the_younger
     dynasty: sture_dynasty
+    father: swe_svante_nilsson_sture
+    mother: swe_mette_dyre
     adm: 15
     dip: 15
     mil: 15
@@ -629,9 +1192,9 @@ swe_sten_svantesson_sture:
   1520.2.3:
     death: yes
 swe_kristina_gyllenstierna:
-  1494.1.1:
-    birth: stockholm #TODO: Date and location guessed, check if better data is available
-    first_name: kristina
+  1494:
+    birth: stockholm #unknown
+    first_name: name_christine
     dynasty: gyllenstierna_dynasty
     female: yes
     adm: 30
@@ -640,85 +1203,192 @@ swe_kristina_gyllenstierna:
     religion: catholic
     culture: swedish
     tag: SWE
+  1511.11.16:
+    spouse: swe_sten_sture_the_younger
   1559.1.5:
-    death: yes
-  1512.1.3:
-    spouse: swe_sten_svantesson_sture #TODO: date guessed, see if better data is available
-swe_gustav_trolle:
-  1488.9.1:
-    birth: stockholm #TODO: Location guessed, check if better data is available
-    first_name: gustav
-    dynasty: trolle_dynasty
-    adm: 0
-    dip: 0
-    mil: 0
-    religion: catholic
-    culture: swedish
-    tag: SWE
-  1521.1.2:
     death: yes
 swe_gustav_i_vasa:
   1496.5.12:
-    birth: stockholm #TODO: Location guessed, check if better data is available
-    first_name: gustav
+    birth: stockholm #TODO: Österåker
+    first_name: name_gustav
     dynasty: vasa_dynasty
     adm: 90
     dip: 60
     mil: 60
-    religion: lutheran
+    religion: catholic
     culture: swedish
     tag: SWE
-  1560.9.30:
+  1523:
+    religion: lutheran
+  1560.9.29:
+    death: yes
+swe_nils_sture:
+  1512:
+    birth: stockholm #unknown
+    first_name: nils
+    dynasty: sture_dynasty
+    father: swe_sten_sture_the_younger
+    mother: swe_kristina_gyllenstierna
+    adm: 25
+    dip: 15
+    mil: 15
+    religion: catholic
+    culture: swedish
+    tag: SWE
+  1528:
     death: yes
 swe_katarina_askanier:
   1513.9.24:
-    birth: stockholm #TODO: Location guessed, check if better data is available
-    first_name: katarina
+    birth: ratzeburg
+    first_name: name_catherine
     dynasty: askanier_dynasty
     female: yes
+    father: lau_magnus_i_askanier
+    mother: lau_catherine_von_welf
     adm: 30
     dip: 30
     mil: 15
     religion: lutheran
     culture: swedish
+    tag: LAU
+  1531.9.24:
+    spouse: swe_gustav_i_vasa
     tag: SWE
   1535.9.23:
     death: yes
-  1531.9.24:
-    spouse: swe_gustav_i_vasa #TODO: date guessed, see if better data is available
+swe_iliana_sture:
+  1514:
+    birth: stockholm #unknown
+    first_name: iliana
+    dynasty: sture_dynasty
+    female: yes
+    father: swe_sten_sture_the_younger
+    mother: swe_kristina_gyllenstierna
+    adm: 25
+    dip: 35
+    mil: 25
+    religion: catholic
+    culture: swedish
+    tag: SWE
+  1521:
+    death: yes
+swe_magdalena_sture:
+  1516:
+    birth: stockholm #unknown
+    first_name: name_madeleine
+    dynasty: sture_dynasty
+    female: yes
+    father: swe_sten_sture_the_younger
+    mother: swe_kristina_gyllenstierna
+    adm: 25
+    dip: 35
+    mil: 25
+    religion: catholic
+    culture: swedish
+    tag: SWE
+  1521:
+    death: yes
+swe_margaret_leijonhufvud:
+  1516.1.1:
+    birth: stockholm #TODO: Närke
+    first_name: name_margaret
+    dynasty: leijonhufvud_dynasty
+    female: yes
+    adm: 30
+    dip: 45
+    mil: 30
+    religion: catholic
+    culture: swedish
+    tag: SWE
+  1536.10.1:
+    spouse: swe_gustav_i_vasa
+  1551.8.26:
+    death: yes
+swe_svante_sture_the_younger:
+  1517.5.1:
+    birth: stockholm
+    first_name: svante
+    nickname: nick_the_younger
+    dynasty: sture_dynasty
+    father: swe_sten_sture_the_younger
+    mother: swe_kristina_gyllenstierna
+    adm: 55
+    dip: 45
+    mil: 35
+    religion: catholic
+    culture: swedish
+    tag: SWE
+  1567.5.24:
+    death: yes
+swe_anna_sture:
+  1518:
+    birth: stockholm #unknown
+    first_name: name_anna
+    dynasty: sture_dynasty
+    female: yes
+    father: swe_sten_sture_the_younger
+    mother: swe_kristina_gyllenstierna
+    adm: 35
+    dip: 45
+    mil: 15
+    religion: catholic
+    culture: swedish
+    tag: SWE
+  1521:
+    death: yes
+swe_gustav_sture:
+  1519:
+    birth: stockholm #unknown
+    first_name: name_gustav
+    dynasty: sture_dynasty
+    father: swe_sten_sture_the_younger
+    mother: swe_kristina_gyllenstierna
+    adm: 35
+    dip: 15
+    mil: 15
+    religion: catholic
+    culture: swedish
+    tag: SWE
+  1520:
+    death: yes
+swe_katarina_jagiellon:
+  1526.11.1:
+    birth: krakow
+    first_name: name_catherine
+    dynasty: jagiellon_dynasty
+    female: yes
+    father: pol_zygmunt_i_stary_jagiellon
+    mother: pol_bona_sforza
+    adm: 45
+    dip: 45
+    mil: 15
+    religion: catholic
+    culture: lesser_polish
+    tag: POL
+  1562.10.4:
+    spouse: swe_johan_iii_vasa
+    tag: SWE
+  1583.9.16:
+    death: yes
 swe_erik_xiv_vasa:
   1533.12.13:
-    birth: stockholm #TODO: Location guessed, check if better data is available
-    first_name: erik
+    birth: stockholm
+    first_name: name_eric
     dynasty: vasa_dynasty
+    father: swe_gustav_i_vasa
+    mother: swe_katarina_askanier
     adm: 45
     dip: 45
     mil: 60
     religion: lutheran
     culture: swedish
     tag: SWE
-  1568.9.30:
+  1577.2.26:
     death: yes
-swe_katarina_leijonhufvud:
-  1516.1.1:
-    birth: stockholm #TODO: Date and location guessed, check if better data is available
-    first_name: katarina
-    dynasty: leijonhufvud_dynasty
-    female: yes
-    adm: 30
-    dip: 45
-    mil: 30
-    religion: lutheran
-    culture: swedish
-    tag: SWE
-  1551.8.26:
-    death: yes
-  1536.10.1:
-    spouse: swe_gustav_i_vasa #TODO: date guessed, see if better data is available
 swe_katarina_stenbock:
   1535.7.22:
-    birth: stockholm #TODO: Location guessed, check if better data is available
-    first_name: katarina
+    birth: stockholm #TODO: Länghem
+    first_name: name_catherine
     dynasty: stenbock_dynasty
     female: yes
     adm: 60
@@ -727,119 +1397,127 @@ swe_katarina_stenbock:
     religion: lutheran
     culture: swedish
     tag: SWE
+  1552.8.22:
+    spouse: swe_gustav_i_vasa
   1621.12.13:
     death: yes
-  1552.8.22:
-    spouse: swe_gustav_i_vasa #TODO: date guessed, see if better data is available
 swe_johan_iii_vasa:
   1537.12.20:
-    birth: stockholm #TODO: Location guessed, check if better data is available
-    first_name: johan
+    birth: soderkoping
+    first_name: name_john
     dynasty: vasa_dynasty
+    father: swe_gustav_i_vasa
+    mother: swe_margaret_leijonhufvud
     adm: 45
     dip: 45
     mil: 45
     religion: lutheran
     culture: swedish
     tag: SWE
-  1592.11.19:
+  1592.11.17:
     death: yes
-swe_karin_mansdotter:
-  1550.11.6:
-    birth: stockholm #TODO: Location guessed, check if better data is available
-    first_name: karin
-    dynasty: mansdotter_dynasty
+swe_katarina_gustavsdotter_vasa:
+  1539.6.6:
+    birth: stockholm #unknown
+    first_name: name_john
+    dynasty: vasa_dynasty
     female: yes
-    adm: 30
-    dip: 15
-    mil: 15
+    father: swe_gustav_i_vasa
+    mother: swe_margaret_leijonhufvud
+    adm: 35
+    dip: 45
+    mil: 25
     religion: lutheran
     culture: swedish
     tag: SWE
-  1612.9.13:
+  1610.12.21:
     death: yes
-  1568.7.4:
-    spouse: swe_erik_xiv_vasa #TODO: date guessed, see if better data is available
-swe_katarina_jagiellon:
-  1526.9.1:
-    birth: stockholm #TODO: Location guessed, check if better data is available
-    first_name: katarina
-    dynasty: jagiellon_dynasty
+swe_cecilia_vasa:
+  1540.11.16:
+    birth: stockholm
+    first_name: name_cecile
+    dynasty: vasa_dynasty
     female: yes
+    father: swe_gustav_i_vasa
+    mother: swe_margaret_leijonhufvud
     adm: 45
     dip: 45
     mil: 15
     religion: lutheran
     culture: swedish
     tag: SWE
-  1583.9.13:
+  1627.1.27:
     death: yes
-  1569.7.10:
-    spouse: swe_johan_iii_vasa #TODO: date guessed, see if better data is available
-swe_sigismund_iii_vasa:
-  1566.6.20:
-    birth: stockholm #TODO: Location guessed, check if better data is available
-    first_name: sigismund
+swe_magnus_vasa:
+  1542.7.25:
+    birth: stockholm
+    first_name: name_magnus
     dynasty: vasa_dynasty
-    father: swe_johan_iii_vasa #TODO: check if this makes sense
-    adm: 30
-    dip: 30
+    father: swe_gustav_i_vasa
+    mother: swe_margaret_leijonhufvud
+    adm: 45
+    dip: 35
     mil: 45
     religion: lutheran
     culture: swedish
     tag: SWE
-  1632.4.30:
+  1595.6.26:
     death: yes
-swe_gunilla_bielke:
-  1568.6.25:
-    birth: stockholm #TODO: Location guessed, check if better data is available
-    first_name: gunilla
-    dynasty: bielke_dynasty
-    female: yes
-    adm: 60
-    dip: 45
-    mil: 15
-    religion: lutheran
-    culture: swedish
-    tag: SWE
-  1597.6.25:
-    death: yes
-  1585.2.21:
-    spouse: swe_johan_iii_vasa #TODO: date guessed, see if better data is available
-swe_sigismund_vasa:
-  1566.6.20:
-    birth: stockholm #TODO: Location guessed, check if better data is available
-    first_name: sigismund
+swe_anna_gustavsdotter_vasa:
+  1545.6.19:
+    birth: stockholm #unknown
+    first_name: name_anna
     dynasty: vasa_dynasty
-    adm: 30
-    dip: 30
-    mil: 45
-    religion: lutheran
-    culture: swedish
-    tag: SWE
-  1598.8.1:
-    death: yes
-swe_anna_von_habsburg:
-  1573.8.16:
-    birth: stockholm #TODO: Location guessed, check if better data is available
-    first_name: anna
-    dynasty: von_habsburg_dynasty
     female: yes
-    adm: 15
-    dip: 15
+    father: swe_gustav_i_vasa
+    mother: swe_margaret_leijonhufvud
+    adm: 35
+    dip: 65
     mil: 15
     religion: lutheran
     culture: swedish
     tag: SWE
-  1598.1.31:
+  1610.3.20:
     death: yes
-  1592.11.19:
-    spouse: swe_sigismund_vasa #TODO: date guessed, see if better data is available
+swe_sofia_vasa:
+  1547.10.29:
+    birth: stockholm #unknown
+    first_name: name_sophia
+    dynasty: vasa_dynasty
+    female: yes
+    father: swe_gustav_i_vasa
+    mother: swe_margaret_leijonhufvud
+    adm: 35
+    dip: 55
+    mil: 35
+    religion: lutheran
+    culture: swedish
+    tag: SWE
+  1611.3.17:
+    death: yes
+swe_elisabet_vasa:
+  1549.4.5:
+    birth: stockholm #TODO: Kungsör
+    first_name: name_elizabeth
+    dynasty: vasa_dynasty
+    female: yes
+    father: swe_gustav_i_vasa
+    mother: swe_margaret_leijonhufvud
+    adm: 35
+    dip: 55
+    mil: 35
+    religion: lutheran
+    culture: swedish
+    tag: SWE
+  1597.11.20:
+    death: yes
 swe_karl_ix_vasa:
   1550.10.4:
-    birth: stockholm #TODO: Location guessed, check if better data is available
-    first_name: karl
+    birth: stockholm
+    first_name: name_charles
     dynasty: vasa_dynasty
+    father: swe_gustav_i_vasa
+    mother: swe_margaret_leijonhufvud
     adm: 75
     dip: 60
     mil: 0
@@ -848,201 +1526,626 @@ swe_karl_ix_vasa:
     tag: SWE
   1611.10.30:
     death: yes
-swe_kristina_von_holstein_gottorp:
-  1573.4.12:
-    birth: stockholm #TODO: Location guessed, check if better data is available
-    first_name: kristina
-    dynasty: von_holstein_gottorp_dynasty
+swe_karin_mansdotter:
+  1550.11.6:
+    birth: stockholm
+    first_name: karin
+    last_name: mansdotter
     female: yes
-    adm: 60
-    dip: 60
+    adm: 30
+    dip: 15
     mil: 15
     religion: lutheran
     culture: swedish
     tag: SWE
+  1568.7.4:
+    spouse: swe_erik_xiv_vasa
+  1612.9.13:
+    death: yes
+swe_sofia_gyllenhielm:
+  1556:
+    birth: abo
+    first_name: name_sophia
+    last_name: gyllenhielm
+    female: yes
+    father: swe_johan_iii_vasa
+    #mother: Karin Hansdotter
+    adm: 45
+    dip: 20
+    mil: 20
+    religion: lutheran
+    culture: swedish
+    tag: SWE
+    trait: bastard
+  1583.6:
+    death: yes
+swe_virginia_eriksdotter:
+  1559.1.1:
+    birth: kalmar
+    first_name: name_virginia
+    last_name: eriksdotter
+    female: yes
+    father: swe_erik_xiv_vasa
+    #mother: Agda Persdotter
+    adm: 45
+    dip: 25
+    mil: 45
+    religion: lutheran
+    culture: swedish
+    tag: SWE
+    trait: bastard
+  1633:
+    death: yes
+swe_constantia_eriksdotter:
+  1560.1.1:
+    birth: stockholm #unknown
+    first_name: constantia
+    last_name: eriksdotter
+    female: yes
+    father: swe_erik_xiv_vasa
+    #mother: Agda Persdotter
+    adm: 45
+    dip: 35
+    mil: 35
+    religion: lutheran
+    culture: swedish
+    tag: SWE
+    trait: bastard
+  1649:
+    death: yes
+swe_lucretia_gyllenhielm:
+  1561:
+    birth: stockholm
+    first_name: lucretia
+    last_name: gyllenhielm
+    female: yes
+    father: swe_johan_iii_vasa
+    #mother: Karin Hansdotter
+    adm: 45
+    dip: 20
+    mil: 20
+    religion: lutheran
+    culture: swedish
+    tag: SWE
+    trait: bastard
+  1585:
+    death: yes
+swe_maria_von_wittelsbach:
+  1561.7.24:
+    birth: heidelberg
+    first_name: name_mary
+    dynasty: von_hohenzollern_dynasty
+    female: yes
+    father: pal_ludwig_vi_von_wittelsbach
+    mother: pal_elisabeth_von_hesse
+    adm: 30
+    dip: 25
+    mil: 15
+    religion: lutheran
+    culture: westphalian
+    tag: PAL
+  1579.5.11:
+    spouse: swe_karl_ix_vasa
+    tag: SWE
+  1589.7.29:
+    death: yes
+swe_lucretia_eriksdotter:
+  1564.1.1:
+    birth: stockholm #unknown
+    first_name: lucretia
+    last_name: eriksdotter
+    female: yes
+    father: swe_erik_xiv_vasa
+    #mother: Agda Persdotter
+    adm: 35
+    dip: 15
+    mil: 25
+    religion: lutheran
+    culture: swedish
+    tag: SWE
+    trait: bastard
+  1675:
+    death: yes
+swe_sigrid_eriksdotter:
+  1566.10.15:
+    birth: stockholm #TODO: Färingsö
+    first_name: name_sigrid
+    dynasty: vasa_dynasty
+    female: yes
+    father: swe_erik_xiv_vasa
+    mother: swe_karin_mansdotter
+    adm: 55
+    dip: 45
+    mil: 25
+    religion: lutheran
+    culture: swedish
+    tag: SWE
+  1633.4.24:
+    death: yes
+swe_gustav_eriksdotter:
+  1568.1.28:
+    birth: nykoping
+    first_name: name_gustav
+    dynasty: vasa_dynasty
+    father: swe_erik_xiv_vasa
+    mother: swe_karin_mansdotter
+    adm: 35
+    dip: 35
+    mil: 65
+    religion: catholic
+    culture: swedish
+    tag: SWE
+  1607.2.22:
+    death: yes
+swe_anna_vasa:
+  1568.5.17:
+    birth: stockholm #TODO: Eskilstuna
+    first_name: name_anna
+    dynasty: vasa_dynasty
+    female: yes
+    father: swe_johan_iii_vasa
+    mother: swe_katarina_jagiellon
+    adm: 45
+    dip: 60
+    mil: 20
+    religion: lutheran
+    culture: swedish
+    tag: SWE
+  1625.2.26:
+    death: yes
+swe_gunilla_bielke:
+  1568.6.25:
+    birth: stockholm #Place unknown
+    first_name: gunilla
+    last_name: bielke
+    female: yes
+    adm: 60
+    dip: 45
+    mil: 15
+    religion: lutheran
+    culture: swedish
+    tag: SWE
+  1585.2.21:
+    spouse: swe_johan_iii_vasa
+  1597.6.25:
+    death: yes
+swe_henrik_eriksdotter:
+  1570.1.24:
+    birth: stockholm #Place unknown
+    first_name: name_henry
+    dynasty: vasa_dynasty
+    father: swe_erik_xiv_vasa
+    mother: swe_karin_mansdotter
+    adm: 45
+    dip: 35
+    mil: 45
+    religion: lutheran
+    culture: swedish
+    tag: SWE
+  1574.6.7:
+    death: yes
+swe_arnold_eriksdotter:
+  1572.11.1:
+    birth: stockholm #Place unknown
+    first_name: arnold
+    dynasty: vasa_dynasty
+    father: swe_erik_xiv_vasa
+    mother: swe_karin_mansdotter
+    adm: 25
+    dip: 35
+    mil: 15
+    religion: lutheran
+    culture: swedish
+    tag: SWE
+  1573:
+    death: yes
+swe_kristina_von_holstein_gottorp:
+  1573.4.13:
+    birth: kiel
+    first_name: name_christine
+    dynasty: von_holstein_gottorp_dynasty
+    female: yes
+    father: hols_adolf_ix_von_holstein_gottorp
+    mother: hols_christine_von_hesse
+    adm: 60
+    dip: 60
+    mil: 15
+    religion: lutheran
+    culture: holsatian
+    tag: HOLS
+  1592.7.8:
+    spouse: swe_karl_ix_vasa
+    tag: SWE
   1625.12.8:
     death: yes
-  1598.8.1:
-    spouse: swe_karl_ix_vasa #TODO: date guessed, see if better data is available
-swe_gustav_ii_adolf_vasa:
-  1594.12.19:
-    birth: stockholm #TODO: Location guessed, check if better data is available
-    first_name: gustav_ii_adolf
+swe_carl_gyllenhielm:
+  1574.3.4:
+    birth: stockholm
+    first_name: carl
+    last_name: gyllenhielm
+    father: swe_karl_ix_vasa
+    #mother: Karin Nilsdotter
+    adm: 60
+    dip: 10
+    mil: 70
+    religion: lutheran
+    culture: swedish
+    tag: SWE
+    trait: bastard
+  1650.3.17:
+    death: yes
+swe_margareta_elisabeth_vasa:
+  1580.9.24:
+    birth: stockholm
+    first_name: margareta.name_elizabeth
     dynasty: vasa_dynasty
+    female: yes
+    father: swe_karl_ix_vasa
+    mother: swe_maria_von_wittelsbach
+    adm: 55
+    dip: 60
+    mil: 30
+    religion: lutheran
+    culture: swedish
+    tag: SWE
+  1585.8.26:
+    death: yes
+swe_elisabeth_sabina_vasa:
+  1582.3.12:
+    birth: stockholm
+    first_name: name_elizabeth.name_sabine
+    dynasty: vasa_dynasty
+    female: yes
+    father: swe_karl_ix_vasa
+    mother: swe_maria_von_wittelsbach
+    adm: 65
+    dip: 50
+    mil: 30
+    religion: lutheran
+    culture: swedish
+    tag: SWE
+  1585.7.6:
+    death: yes
+swe_ludvig_vasa:
+  1583.3.17:
+    birth: stockholm
+    first_name: name_louis
+    dynasty: vasa_dynasty
+    father: swe_karl_ix_vasa
+    mother: swe_maria_von_wittelsbach
+    adm: 45
+    dip: 50
+    mil: 30
+    religion: lutheran
+    culture: swedish
+    tag: SWE
+  1583.5.26:
+    death: yes
+swe_katarina_vasa:
+  1584.11.10:
+    birth: nykoping
+    first_name: name_catherine
+    dynasty: vasa_dynasty
+    female: yes
+    father: swe_karl_ix_vasa
+    mother: swe_maria_von_wittelsbach
+    adm: 55
+    dip: 50
+    mil: 50
+    religion: lutheran
+    culture: swedish
+    tag: SWE
+  1615.6.11:
+    spouse: swe_john_casimir_von_wittelsbach
+    tag: ZWE
+  1622.6:
+    tag: SWE
+  1638.12.13:
+    death: yes
+swe_gustav_vasa:
+  1587.6.12:
+    birth: stockholm
+    first_name: name_gustav
+    dynasty: vasa_dynasty
+    father: swe_karl_ix_vasa
+    mother: swe_maria_von_wittelsbach
+    adm: 35
+    dip: 50
+    mil: 30
+    religion: lutheran
+    culture: swedish
+    tag: SWE
+  1587.12.4:
+    death: yes
+swe_maria_vasa:
+  1588.12.18:
+    birth: stockholm
+    first_name: name_mary
+    dynasty: vasa_dynasty
+    female: yes
+    father: swe_karl_ix_vasa
+    mother: swe_maria_von_wittelsbach
+    adm: 35
+    dip: 40
+    mil: 30
+    religion: lutheran
+    culture: swedish
+    tag: SWE
+  1589.4.24:
+    death: yes
+swe_johan_vasa:
+  1589.4.18:
+    birth: uppsala
+    first_name: name_john
+    dynasty: vasa_dynasty
+    father: swe_johan_iii_vasa
+    mother: swe_gunilla_bielke
+    adm: 45
+    dip: 50
+    mil: 40
+    religion: lutheran
+    culture: swedish
+    tag: SWE
+  1618.3.5:
+    death: yes
+swe_john_casimir_von_wittelsbach:
+  1589.4.20:
+    birth: zweibrucken
+    first_name: name_john.name_casimir
+    dynasty: von_wittelsbach_dynasty
+    adm: 45
+    dip: 70
+    mil: 50
+    religion: lutheran
+    culture: westphalian
+    tag: ZWE
+  1622.6:
+    tag: SWE
+  1652.6.18:
+    death: yes
+swe_christina_vasa_1593:
+  1593.11.26:
+    birth: stockholm
+    first_name: name_christine
+    dynasty: vasa_dynasty
+    female: yes
+    father: swe_karl_ix_vasa
+    mother: swe_kristina_von_holstein_gottorp
+    adm: 60
+    dip: 40
+    mil: 40
+    religion: lutheran
+    culture: swedish
+    tag: SWE
+  1594.5.25:
+    death: yes
+swe_gustav_ii_adolf_vasa:
+  1594.12.9:
+    birth: stockholm
+    first_name: name_gustav.name_adolf
+    dynasty: vasa_dynasty
+    father: swe_karl_ix_vasa
+    mother: swe_kristina_von_holstein_gottorp
     adm: 90
     dip: 90
     mil: 90
     religion: lutheran
     culture: swedish
     tag: SWE
-  1632.11.8:
+  1632.11.6:
+    death: yes
+swe_maria_elisabeth_vasa:
+  1596.3.10:
+    birth: orebro
+    first_name: name_mary.name_elizabeth
+    dynasty: vasa_dynasty
+    female: yes
+    father: swe_karl_ix_vasa
+    mother: swe_kristina_von_holstein_gottorp
+    adm: 60
+    dip: 40
+    mil: 30
+    religion: lutheran
+    culture: swedish
+    tag: SWE
+  1618.8.7:
     death: yes
 swe_maria_eleonora_von_hohenzollern:
   1599.11.11:
-    birth: stockholm #TODO: Location guessed, check if better data is available
-    first_name: maria_eleonora
+    birth: konigsberg
+    first_name: name_mary.name_eleanor
     dynasty: von_hohenzollern_dynasty
     female: yes
+    father: bra_johann_i_sigismund_von_hohenzollern
+    mother: bra_anna_von_hohenzollern
     adm: 30
     dip: 15
     mil: 15
     religion: lutheran
-    culture: swedish
+    culture: saxon
+    tag: BRA
+  1620.11.25:
+    spouse: swe_gustav_ii_adolf_vasa
     tag: SWE
   1655.3.18:
     death: yes
-  1620.11.25:
-    spouse: swe_gustav_ii_adolf_vasa #TODO: date guessed, see if better data is available
+swe_karl_philip_vasa:
+  1601.4.22:
+    birth: tallinn
+    first_name: name_charles.name_philip
+    dynasty: vasa_dynasty
+    father: swe_karl_ix_vasa
+    mother: swe_kristina_von_holstein_gottorp
+    adm: 60
+    dip: 50
+    mil: 60
+    religion: lutheran
+    culture: swedish
+    tag: SWE
+  1622.1.25:
+    death: yes
+swe_gustav_av_vasaborg:
+  1616.4.24:
+    birth: stockholm
+    first_name: name_gustav
+    last_name: av_vasaborg
+    father: swe_gustav_ii_adolf_vasa
+    #mother: Margareta Slots
+    adm: 40
+    dip: 30
+    mil: 20
+    religion: lutheran
+    culture: swedish
+    tag: SWE
+    trait: bastard
+  1653.10.25:
+    death: yes
 swe_christina_vasa:
   1626.12.18:
-    birth: stockholm #TODO: Location guessed, check if better data is available
-    first_name: christina
+    birth: stockholm
+    first_name: name_christine
     dynasty: vasa_dynasty
     female: yes
-    father: swe_gustav_ii_adolf_vasa #TODO: check if this makes sense
+    father: swe_gustav_ii_adolf_vasa
+    mother: swe_maria_eleonora_von_hohenzollern
     adm: 30
     dip: 45
     mil: 45
     religion: lutheran
     culture: swedish
     tag: SWE
+  1654.12.24:
+    religion: catholic
+  1655.12.20:
+    tag: PAP
   1689.4.19:
-    death: yes
-swe_kristina_vasa:
-  1626.12.18:
-    birth: stockholm #TODO: Location guessed, check if better data is available
-    first_name: kristina
-    dynasty: vasa_dynasty
-    female: yes
-    adm: 30
-    dip: 45
-    mil: 30
-    religion: lutheran
-    culture: swedish
-    tag: SWE
-  1654.6.8:
     death: yes
 swe_karl_x_gustav_von_wittelsbach:
   1622.11.8:
-    birth: stockholm #TODO: Location guessed, check if better data is available
-    first_name: karl_x_gustav
+    birth: nykoping
+    first_name: name_charles.name_gustav
     dynasty: von_wittelsbach_dynasty
+    father: swe_john_casimir_von_wittelsbach
+    mother: swe_katarina_vasa
     adm: 45
     dip: 15
     mil: 90
     religion: lutheran
     culture: swedish
     tag: SWE
-  1660.2.14:
+  1660.2.13:
     death: yes
 swe_hedvig_eleonora_von_holstein_gottorp:
   1636.10.23:
-    birth: stockholm #TODO: Location guessed, check if better data is available
-    first_name: hedvig_eleonora
+    birth: slesvig
+    first_name: name_hedwig.name_eleanor
     dynasty: von_holstein_gottorp_dynasty
     female: yes
+    father: hols_friedrich_iii_von_holstein_gottorp
+    mother: hols_marie_elisabeth_von_wettin
     adm: 30
     dip: 15
     mil: 15
     religion: lutheran
-    culture: swedish
+    culture: holsatian
+    tag: HOLS
+  1654.10.24:
+    spouse: swe_karl_x_gustav_von_wittelsbach
     tag: SWE
   1715.11.24:
     death: yes
-  1654.10.24:
-    spouse: swe_karl_x_gustav_von_wittelsbach #TODO: date guessed, see if better data is available
+swe_gustaf_carlson:
+  1646:
+    birth: stockholm
+    first_name: gustaf
+    last_name: carlson
+    father: swe_karl_x_gustav_von_wittelsbach
+    #mother: Märta Allertz
+    adm: 55
+    dip: 35
+    mil: 30
+    religion: lutheran
+    culture: swedish
+    tag: SWE
+    trait: bastard
+  1708.1.1:
+    death: yes
 swe_karl_xi_von_wittelsbach:
-  1655.12.4:
-    birth: stockholm #TODO: Location guessed, check if better data is available
-    first_name: karl
+  1655.11.24:
+    birth: stockholm
+    first_name: name_charles
     dynasty: von_wittelsbach_dynasty
+    father: swe_karl_x_gustav_von_wittelsbach
+    mother: swe_hedvig_eleonora_von_holstein_gottorp
     adm: 75
     dip: 45
     mil: 30
     religion: lutheran
     culture: swedish
     tag: SWE
-  1697.4.7:
+  1697.4.5:
     death: yes
 swe_ulrika_eleonora_von_oldenburg:
   1656.9.11:
-    birth: stockholm #TODO: Location guessed, check if better data is available
-    first_name: ulrika_eleonora
+    birth: kobenhavn
+    first_name: name_ulrike.name_eleanor
     dynasty: von_oldenburg_dynasty
     female: yes
+    father: dan_frederik_iii_von_oldenburg
+    mother: dan_sophie_amalie_von_welf
     adm: 30
     dip: 45
     mil: 15
     religion: lutheran
-    culture: swedish
+    culture: danish
+    tag: SWE
+  1680.2.6:
+    spouse: swe_karl_xi_von_wittelsbach
     tag: SWE
   1693.7.26:
     death: yes
-  1680.5.6:
-    spouse: swe_karl_xi_von_wittelsbach #TODO: date guessed, see if better data is available
 swe_karl_xii_von_wittelsbach:
   1682.6.17:
-    birth: stockholm #TODO: Location guessed, check if better data is available
-    first_name: karl
+    birth: stockholm
+    first_name: name_charles
     dynasty: von_wittelsbach_dynasty
+    father: swe_karl_xi_von_wittelsbach
+    mother: swe_ulrika_eleonora_von_oldenburg
     adm: 45
     dip: 15
     mil: 90
     religion: lutheran
     culture: swedish
     tag: SWE
-  1718.12.2:
+  1718.11.30:
+    death: yes
+swe_fredrik_von_hesse_kassel:
+  1676.4.18:
+    birth: kassel
+    first_name: name_frederick
+    dynasty: von_hesse_kassel_dynasty
+    female: no
+    father: hes_karl_i_von_hessen_kassel
+    mother: hes_amalia_of_courland
+    adm: 45
+    dip: 30
+    mil: 60
+    religion: lutheran
+    culture: rhine_franconian
+    tag: HES
+  1715.3.24:
+    spouse: swe_ulrika_eleonora_von_wittelsbach
+    tag: SWE
+  1751.4.5:
     death: yes
 swe_ulrika_eleonora_von_wittelsbach:
   1688.1.23:
-    birth: stockholm #TODO: Location guessed, check if better data is available
-    first_name: ulrika_eleonora
+    birth: stockholm
+    first_name: name_ulrike.name_eleanor
     dynasty: von_wittelsbach_dynasty
     female: yes
-    adm: 45
-    dip: 60
-    mil: 30
-    religion: lutheran
-    culture: swedish
-    tag: SWE
-  1720.5.4:
-    death: yes
-    spouse: swe_fredrik_i_von_hesse_kassel #TODO: date guessed, see if better data is available
-swe_fredrik_von_hesse_kassel:
-  1676.4.18:
-    birth: stockholm #TODO: Location guessed, check if better data is available
-    first_name: fredrik
-    dynasty: von_hesse_kassel_dynasty
-    female: no
-    adm: 45
-    dip: 30
-    mil: 60
-    religion: lutheran
-    culture: swedish
-    tag: SWE
-  1751.3.27:
-    death: yes
-  1718.12.2:
-    spouse: swe_ulrika_eleonora_von_wittelsbach #TODO: date guessed, see if better data is available
-swe_fredrik_i_von_hesse_kassel:
-  1676.4.18:
-    birth: stockholm #TODO: Location guessed, check if better data is available
-    first_name: fredrik
-    dynasty: von_hesse_kassel_dynasty
-    adm: 45
-    dip: 30
-    mil: 60
-    religion: lutheran
-    culture: swedish
-    tag: SWE
-  1751.3.27:
-    death: yes
-swe_ulrika_eleonora_von_wittelsbach_1:
-  1688.1.23:
-    birth: stockholm #TODO: Location guessed, check if better data is available
-    first_name: ulrika_eleonora
-    dynasty: von_wittelsbach_dynasty
-    female: yes
+    father: swe_karl_xi_von_wittelsbach
+    mother: swe_ulrika_eleonora_von_oldenburg
     adm: 45
     dip: 60
     mil: 30
@@ -1051,171 +2154,340 @@ swe_ulrika_eleonora_von_wittelsbach_1:
     tag: SWE
   1741.11.24:
     death: yes
-  1720.5.4:
-    spouse: swe_fredrik_i_von_hesse_kassel #TODO: date guessed, see if better data is available
 swe_adolf_fredrik_von_holstein_gottorp:
   1710.5.4:
-    birth: stockholm #TODO: Location guessed, check if better data is available
-    first_name: adolf_fredrik
+    birth: slesvig
+    first_name: name_adolf.name_frederick
     dynasty: von_holstein_gottorp_dynasty
+    father: hols_christian_august_von_holstein_gottorp
+    mother: hols_albertina_frederica_von_zahringen
     adm: 60
     dip: 45
     mil: 30
     religion: lutheran
-    culture: swedish
+    culture: holsatian
     tag: SWE
-  1771.2.13:
+  1771.2.12:
     death: yes
 swe_lovisa_ulrika_von_hohenzollern:
   1720.7.24:
-    birth: stockholm #TODO: Location guessed, check if better data is available
-    first_name: lovisa_ulrika
+    birth: berlin
+    first_name: name_louise.name_ulrike
     dynasty: von_hohenzollern_dynasty
     female: yes
+    father: pru_friedrich_wilhelm_i_von_hohenzollern
+    mother: pru_sophia_dorothea_von_hannover
     adm: 45
     dip: 60
     mil: 45
     religion: lutheran
-    culture: swedish
+    culture: prussian
+    tag: PRU
+  1744.7.17:
+    spouse: swe_adolf_fredrik_von_holstein_gottorp
     tag: SWE
   1782.7.16:
     death: yes
-  1751.3.27:
-    spouse: swe_adolf_fredrik_von_holstein_gottorp #TODO: date guessed, see if better data is available
+swe_fredrik_vilhelm_von_hessenstein:
+  1735.3.17:
+    birth: stockholm
+    first_name: name_frederick.name_william
+    father: swe_fredrik_von_hesse_kassel
+    #mother: Hedvig Taube
+    adm: 40
+    dip: 15
+    mil: 30
+    religion: lutheran
+    culture: swedish
+    tag: SWE
+    trait: bastard
+  1808.7.27:
+    death: yes
 swe_gustav_iii_von_holstein_gottorp:
   1746.1.24:
-    birth: stockholm #TODO: Location guessed, check if better data is available
-    first_name: gustav
+    birth: stockholm
+    first_name: name_gustav
     dynasty: von_holstein_gottorp_dynasty
+    father: swe_adolf_fredrik_von_holstein_gottorp
+    mother: swe_lovisa_ulrika_von_hohenzollern
     adm: 75
     dip: 60
     mil: 30
     religion: lutheran
     culture: swedish
     tag: SWE
-  1792.4.3:
+  1792.3.29:
     death: yes
 swe_sofia_magdalena_von_oldenburg:
   1746.7.3:
-    birth: stockholm #TODO: Location guessed, check if better data is available
-    first_name: sofia_magdalena
+    birth: kobenhavn
+    first_name: name_sophia.name_madeleine
     dynasty: von_oldenburg_dynasty
     female: yes
+    father: dan_frederik_v_von_oldenburg
+    mother: dan_louise_von_hannover
     adm: 30
     dip: 45
     mil: 15
     religion: lutheran
-    culture: swedish
+    culture: danish
+    tag: DAN
+  1766.10.1:
+    spouse: swe_gustav_iii_von_holstein_gottorp
     tag: SWE
   1813.8.21:
     death: yes
-  1771.2.13:
-    spouse: swe_gustav_iii_von_holstein_gottorp #TODO: date guessed, see if better data is available
-swe_gustav_iv_adolf_von_holstein_gottorp:
-  1778.11.1:
-    birth: stockholm #TODO: Location guessed, check if better data is available
-    first_name: gustav_iv_adolf
-    dynasty: von_holstein_gottorp_dynasty
-    adm: 60
-    dip: 0
-    mil: 30
-    religion: lutheran
-    culture: swedish
-    tag: SWE
-  1809.5.1:
-    death: yes
 swe_karl_xiii_von_holstein_gottorp:
   1748.10.7:
-    birth: stockholm #TODO: Location guessed, check if better data is available
-    first_name: karl
+    birth: stockholm
+    first_name: name_charles
     dynasty: von_holstein_gottorp_dynasty
+    father: swe_adolf_fredrik_von_holstein_gottorp
+    mother: swe_lovisa_ulrika_von_hohenzollern
     adm: 30
-    dip: 75
+    dip: 25
+    mil: 10
+    religion: lutheran
+    culture: swedish
+    tag: SWE
+  1818.2.5:
+    death: yes
+swe_fredrik_adolf_von_holstein_gottorp:
+  1750.7.18:
+    birth: stockholm
+    first_name: name_frederick.name_adolf
+    dynasty: von_holstein_gottorp_dynasty
+    father: swe_adolf_fredrik_von_holstein_gottorp
+    mother: swe_lovisa_ulrika_von_hohenzollern
+    adm: 30
+    dip: 45
     mil: 30
     religion: lutheran
     culture: swedish
     tag: SWE
-  1818.2.6:
+  1803.12.12:
     death: yes
-swe_fredrika_von_zahringen:
-  1781.3.12:
-    birth: stockholm #TODO: Location guessed, check if better data is available
-    first_name: fredrika
-    dynasty: von_zahringen_dynasty
+swe_sofia_albertina_von_holstein_gottorp:
+  1753.10.8:
+    birth: stockholm
+    first_name: name_sophia.name_albertina
+    dynasty: von_holstein_gottorp_dynasty
     female: yes
-    adm: 30
-    dip: 30
-    mil: 15
+    father: swe_adolf_fredrik_von_holstein_gottorp
+    mother: swe_lovisa_ulrika_von_hohenzollern
+    adm: 40
+    dip: 55
+    mil: 20
     religion: lutheran
     culture: swedish
     tag: SWE
-  1800.4.3:
+  1829.3.17:
     death: yes
-  1797.10.31:
-    spouse: swe_gustav_iv_adolf_von_holstein_gottorp #TODO: date guessed, see if better data is available
 swe_hedvig_elisabeth_charlotta_von_holstein_gottorp:
   1759.3.22:
-    birth: stockholm #TODO: Location guessed, check if better data is available
-    first_name: hedvig_elisabeth_charlotta
+    birth: eutin
+    first_name: name_hedwig.name_elizabeth.name_charlotte
     dynasty: von_holstein_gottorp_dynasty
     female: yes
     adm: 60
     dip: 60
     mil: 15
     religion: lutheran
-    culture: swedish
+    culture: holsatian
+    tag: LBB
+  1774.6.7:
+    spouse: swe_karl_xiii_von_holstein_gottorp
     tag: SWE
   1818.6.20:
     death: yes
-  1809.5.1:
-    spouse: swe_karl_xiii_von_holstein_gottorp #TODO: date guessed, see if better data is available
 swe_karl_xiv_johan_bernadotte:
   1763.1.26:
-    birth: stockholm #TODO: Location guessed, check if better data is available
-    first_name: karl_xiv_johan
+    birth: pau
+    first_name: name_charles.name_john
     dynasty: bernadotte_dynasty
     adm: 30
     dip: 30
     mil: 60
+    religion: catholic
+    culture: french
+    tag: SWE
+  1810.11.2:
+    father: swe_karl_xiii_von_holstein_gottorp #adopted
+  1810.11.5:
+    religion: lutheran
+  1818.2.5:
+    culture: swedish
+  1844.3.8:
+    death: yes
+swe_carl_lowenhielm:
+  1772.11.3:
+    birth: stockholm
+    first_name: carl
+    last_name: lowenhielm
+    father: swe_karl_xiii_von_holstein_gottorp
+    #mother: Augusta von Fersen
+    adm: 15
+    dip: 15
+    mil: 25
     religion: lutheran
     culture: swedish
     tag: SWE
-  1844.3.8:
+    trait: bastard
+  1861.6.9:
     death: yes
 swe_desideria_clary:
   1777.11.8:
-    birth: stockholm #TODO: Location guessed, check if better data is available
+    birth: marseille
     first_name: desideria
-    dynasty: clary_dynasty
+    last_name: clary
     female: yes
     adm: 15
     dip: 15
     mil: 15
-    religion: lutheran
-    culture: swedish
+    religion: catholic
+    culture: french
+    tag: FRA
+  1798.8.17:
+    spouse: swe_karl_xiv_johan_bernadotte
     tag: SWE
   1860.12.17:
     death: yes
-  1818.2.6:
-    spouse: swe_karl_xiv_johan_bernadotte #TODO: date guessed, see if better data is available
-swe_oscar_i_bernadotte:
-  1799.6.4:
-    birth: stockholm #TODO: Location guessed, check if better data is available
-    first_name: oscar
-    dynasty: bernadotte_dynasty
-    adm: 45
-    dip: 15
-    mil: 45
+swe_gustav_iv_adolf_von_holstein_gottorp:
+  1778.11.1:
+    birth: stockholm
+    first_name: name_gustav.name_adolf
+    dynasty: von_holstein_gottorp_dynasty
+    father: swe_gustav_iii_von_holstein_gottorp
+    mother: swe_sofia_magdalena_von_oldenburg
+    adm: 60
+    dip: 0
+    mil: 30
     religion: lutheran
     culture: swedish
     tag: SWE
+  1837.2.7:
+    death: yes
+swe_fredrika_von_zahringen:
+  1781.3.12:
+    birth: stockholm #TODO: Karlsruhe
+    first_name: name_frederica
+    dynasty: von_zahringen_dynasty
+    female: yes
+    adm: 30
+    dip: 30
+    mil: 15
+    religion: lutheran
+    culture: rhine_alemannic
+    tag: BDE
+  1797.10.31:
+    spouse: swe_gustav_iv_adolf_von_holstein_gottorp
+    tag: SWE
+  1826.9.25:
+    death: yes
+swe_carl_gustav_von_holstein_gottorp:
+  1782.8.25:
+    birth: stockholm
+    first_name: name_charles.name_gustav
+    dynasty: von_holstein_gottorp_dynasty
+    father: swe_gustav_iii_von_holstein_gottorp
+    mother: swe_sofia_magdalena_von_oldenburg
+    adm: 20
+    dip: 0
+    mil: 10
+    religion: lutheran
+    culture: swedish
+    tag: SWE
+  1783.3.23:
+    death: yes
+swe_karl_adolf_von_holstein_gottorp:
+  1798.7.4:
+    birth: stockholm
+    first_name: name_charles.name_adolf
+    dynasty: von_holstein_gottorp_dynasty
+    father: swe_karl_xiii_von_holstein_gottorp
+    mother: swe_hedvig_elisabeth_charlotta_von_holstein_gottorp
+    adm: 15
+    dip: 15
+    mil: 25
+    religion: lutheran
+    culture: swedish
+    tag: SWE
+  1798.7.10:
+    death: yes
+swe_oscar_i_bernadotte:
+  1799.6.4:
+    birth: paris
+    first_name: oscar
+    dynasty: bernadotte_dynasty
+    father: swe_karl_xiv_johan_bernadotte
+    mother: swe_desideria_clary
+    adm: 45
+    dip: 15
+    mil: 45
+    religion: catholic
+    culture: french
+    tag: SWE
+  1810.11.5:
+    religion: lutheran
+  1818.2.5:
+    culture: swedish
   1859.7.8:
+    death: yes
+swe_gustav_of_vasa:
+  1799.11.9:
+    birth: stockholm
+    first_name: name_gustav
+    dynasty: von_holstein_gottorp_dynasty
+    father: swe_gustav_iv_adolf_von_holstein_gottorp
+    mother: swe_fredrika_von_zahringen
+    adm: 50
+    dip: 20
+    mil: 30
+    religion: lutheran
+    culture: swedish
+    tag: SWE
+  1877.8.5:
+    death: yes
+swe_amalia_von_holstein_gottorp:
+  1805.2.22:
+    birth: stockholm
+    first_name: amalia
+    dynasty: von_holstein_gottorp_dynasty
+    female: yes
+    father: swe_gustav_iv_adolf_von_holstein_gottorp
+    mother: swe_fredrika_von_zahringen
+    adm: 40
+    dip: 20
+    mil: 30
+    religion: lutheran
+    culture: swedish
+    tag: SWE
+  1853.8.31:
+    death: yes
+swe_josephine_of_leuchtenberg:
+  1807.3.14:
+    birth: milano
+    first_name: name_josephine
+    dynasty: beauharnais_dynasty
+    female: yes
+    adm: 40
+    dip: 45
+    mil: 15
+    religion: catholic
+    culture: french
+    tag: ITA
+  1823.5.22:
+    spouse: swe_oscar_i_bernadotte
+    tag: SWE
+  1876.6.7:
     death: yes
 swe_karl_xv_bernadotte:
   1826.5.3:
-    birth: stockholm #TODO: Location guessed, check if better data is available
-    first_name: karl
+    birth: stockholm
+    first_name: name_charles
     dynasty: bernadotte_dynasty
+    father: swe_oscar_i_bernadotte
+    mother: swe_josephine_of_leuchtenberg
     adm: 45
     dip: 60
     mil: 15
@@ -1224,70 +2496,514 @@ swe_karl_xv_bernadotte:
     tag: SWE
   1872.9.18:
     death: yes
+swe_gustaf_bernadotte:
+  1827.6.18:
+    birth: stockholm
+    first_name: gustaf
+    dynasty: bernadotte_dynasty
+    father: swe_oscar_i_bernadotte
+    mother: swe_josephine_of_leuchtenberg
+    adm: 65
+    dip: 60
+    mil: 40
+    religion: lutheran
+    culture: swedish
+    tag: SWE
+  1852.9.24:
+    death: yes
+swe_louise_of_the_netherlands:
+  1828.8.5:
+    birth: the_hague
+    first_name: louise
+    dynasty: van_oranje_dynasty
+    female: yes
+    father: ned_frederik_van_oranje
+    adm: 40
+    dip: 45
+    mil: 15
+    religion: calvinist
+    culture: low_franconian
+    tag: NED
+  1850.6.19:
+    spouse: swe_karl_xv_bernadotte
+    tag: SWE
+    religion: lutheran
+  1871.3.30:
+    death: yes
 swe_oscar_ii_bernadotte:
   1829.1.21:
-    birth: stockholm #TODO: Location guessed, check if better data is available
+    birth: stockholm
     first_name: oscar
     dynasty: bernadotte_dynasty
+    father: swe_oscar_i_bernadotte
+    mother: swe_josephine_of_leuchtenberg
     adm: 75
     dip: 60
     mil: 0
-    religion: secularism
+    religion: lutheran
     culture: swedish
     tag: SWE
   1907.12.8:
     death: yes
+swe_eugenie_bernadotte:
+  1830.4.24:
+    birth: stockholm
+    first_name: eugenie
+    dynasty: bernadotte_dynasty
+    female: yes
+    father: swe_oscar_i_bernadotte
+    mother: swe_josephine_of_leuchtenberg
+    adm: 55
+    dip: 40
+    mil: 40
+    religion: lutheran
+    culture: swedish
+    tag: SWE
+  1889.4.23:
+    death: yes
+swe_august_bernadotte:
+  1831.8.24:
+    birth: stockholm
+    first_name: name_august
+    dynasty: bernadotte_dynasty
+    father: swe_oscar_i_bernadotte
+    mother: swe_josephine_of_leuchtenberg
+    adm: 35
+    dip: 40
+    mil: 20
+    religion: lutheran
+    culture: swedish
+    tag: SWE
+  1873.3.4:
+    death: yes
+swe_sophia_of_nassau:
+  1836.7.9:
+    birth: wiesbaden
+    first_name: name_sophia
+    dynasty: nassau_dynasty
+    female: yes
+    adm: 30
+    dip: 55
+    mil: 15
+    religion: lutheran
+    culture: westphalian
+    tag: GER
+  1857.6.6:
+    spouse: swe_oscar_ii_bernadotte
+    tag: SWE
+  1913.12.30:
+    death: yes
+swe_carl_oscar_bernadotte:
+  1852.12.14:
+    birth: stockholm
+    first_name: carl.oscar
+    dynasty: bernadotte_dynasty
+    father: swe_karl_xv_bernadotte
+    mother: swe_louise_of_the_netherlands
+    adm: 10
+    dip: 10
+    mil: 0
+    religion: lutheran
+    culture: swedish
+    tag: SWE
+  1854.3.13:
+    death: yes
 swe_gustaf_v_bernadotte:
   1858.6.16:
-    birth: stockholm #TODO: Location guessed, check if better data is available
+    birth: stockholm
     first_name: gustaf
     dynasty: bernadotte_dynasty
+    father: swe_oscar_ii_bernadotte
+    mother: swe_sophia_of_nassau
     adm: 60
     dip: 30
     mil: 0
-    religion: secularism
+    religion: lutheran
     culture: swedish
     tag: SWE
   1950.10.29:
     death: yes
+swe_oscar_carl_august_bernadotte:
+  1859.11.15:
+    birth: stockholm
+    first_name: oscar
+    dynasty: bernadotte_dynasty
+    father: swe_oscar_ii_bernadotte
+    mother: swe_sophia_of_nassau
+    adm: 40
+    dip: 20
+    mil: 30
+    religion: lutheran
+    culture: swedish
+    tag: SWE
+  1953.10.4:
+    death: yes
+swe_carl_bernadotte:
+  1861.2.27:
+    birth: stockholm
+    first_name: carl
+    dynasty: bernadotte_dynasty
+    father: swe_oscar_ii_bernadotte
+    mother: swe_sophia_of_nassau
+    adm: 30
+    dip: 20
+    mil: 30
+    religion: lutheran
+    culture: swedish
+    tag: SWE
+  1951.10.24:
+    death: yes
+swe_victoria_of_baden:
+  1862.8.7:
+    birth: stockholm #TODO: Karlsruhe
+    first_name: name_victoria
+    dynasty: von_zahringen_dynasty
+    female: yes
+    adm: 30
+    dip: 45
+    mil: 35
+    religion: lutheran
+    culture: rhine_alemannic
+    tag: GER
+  1881.9.20:
+    spouse: swe_gustaf_v_bernadotte
+    tag: SWE
+  1930.4.4:
+    death: yes
+swe_eugen_bernadotte:
+  1865.8.1:
+    birth: stockholm
+    first_name: eugen
+    dynasty: bernadotte_dynasty
+    father: swe_oscar_ii_bernadotte
+    mother: swe_sophia_of_nassau
+    adm: 30
+    dip: 40
+    mil: 35
+    religion: lutheran
+    culture: swedish
+    tag: SWE
+  1947.8.17:
+    death: yes
+swe_margaret_of_connaught:
+  1882.1.15:
+    birth: stockholm #TODO: Surrey
+    first_name: name_margaret
+    dynasty: von_saxe_coburg_dynasty
+    female: yes
+    adm: 50
+    dip: 45
+    mil: 40
+    religion: anglican
+    culture: english
+    tag: GBR
+  1905.6.15:
+    spouse: swe_gustaf_vi_adolf_bernadotte
+    tag: SWE
+    religion: lutheran
+  1920.5.10:
+    death: yes
 swe_gustaf_vi_adolf_bernadotte:
   1882.11.11:
     birth: stockholm #TODO: Location guessed, check if better data is available
-    first_name: gustaf_vi_adolf
+    first_name: gustaf.name_adolf
     dynasty: bernadotte_dynasty
+    father: swe_gustaf_v_bernadotte
+    mother: swe_victoria_of_baden
     adm: 60
     dip: 75
     mil: 15
-    religion: secularism
+    religion: lutheran
     culture: swedish
     tag: SWE
   1973.9.15:
     death: yes
+swe_wilhelm_bernadotte:
+  1884.6.17:
+    birth: stockholm #TODO: Trosa
+    first_name: wilhelm
+    dynasty: bernadotte_dynasty
+    father: swe_gustaf_v_bernadotte
+    mother: swe_victoria_of_baden
+    adm: 30
+    dip: 35
+    mil: 25
+    religion: lutheran
+    culture: swedish
+    tag: SWE
+  1965.6.5:
+    death: yes
+swe_erik_bernadotte:
+  1889.4.20:
+    birth: stockholm
+    first_name: name_eric
+    dynasty: bernadotte_dynasty
+    father: swe_gustaf_v_bernadotte
+    mother: swe_victoria_of_baden
+    adm: 10
+    dip: 0
+    mil: 15
+    religion: lutheran
+    culture: swedish
+    tag: SWE
+  1918.9.18:
+    death: yes
+swe_louise_mountbatten:
+  1889.7.13:
+    birth: stockholm #TODO: Jugenheim
+    first_name: louise
+    dynasty: battenberg_dynasty
+    female: yes
+    adm: 50
+    dip: 45
+    mil: 40
+    religion: lutheran
+    culture: westphalian
+    tag: GER
+  1923.11.3:
+    spouse: swe_gustaf_vi_adolf_bernadotte
+    tag: SWE
+  1965.3.7:
+    death: yes
+swe_gustaf_adolf_bernadotte:
+  1906.4.22:
+    birth: stockholm
+    first_name: gustaf.name_adolf
+    dynasty: bernadotte_dynasty
+    father: swe_gustaf_vi_adolf_bernadotte
+    mother: swe_margaret_of_connaught
+    adm: 60
+    dip: 65
+    mil: 35
+    religion: lutheran
+    culture: swedish
+    tag: SWE
+  1947.2.4:
+    death: yes
+swe_sigvard_bernadotte:
+  1907.6.7:
+    birth: stockholm
+    first_name: sigvard
+    dynasty: bernadotte_dynasty
+    father: swe_gustaf_vi_adolf_bernadotte
+    mother: swe_margaret_of_connaught
+    adm: 60
+    dip: 55
+    mil: 40
+    religion: lutheran
+    culture: swedish
+    tag: SWE
+  2002.2.4:
+    death: yes
+swe_sibylla_saxe_coburg_and_gotha:
+  1908.1.18:
+    birth: gotha
+    first_name: sibylla
+    dynasty: von_saxe_coburg_dynasty
+    female: yes
+    adm: 50
+    dip: 45
+    mil: 40
+    religion: lutheran
+    culture: saxon
+    tag: GER
+  1932.10.20:
+    spouse: swe_gustaf_adolf_bernadotte
+    tag: SWE
+  1972.11.28:
+    death: yes
+swe_bertil_bernadotte:
+  1912.2.28:
+    birth: stockholm
+    first_name: bertil
+    dynasty: bernadotte_dynasty
+    father: swe_gustaf_vi_adolf_bernadotte
+    mother: swe_margaret_of_connaught
+    adm: 45
+    dip: 50
+    mil: 35
+    religion: lutheran
+    culture: swedish
+    tag: SWE
+  1997.1.5:
+    death: yes
+swe_carl_johan_bernadotte:
+  1916.10.31:
+    birth: stockholm
+    first_name: carl.name_john
+    dynasty: bernadotte_dynasty
+    father: swe_gustaf_vi_adolf_bernadotte
+    mother: swe_margaret_of_connaught
+    adm: 45
+    dip: 50
+    mil: 55
+    religion: lutheran
+    culture: swedish
+    tag: SWE
+  2012.5.5:
+    death: yes
+swe_margaretha_ambler:
+  1934.10.31:
+    birth: stockholm
+    first_name: margaretha
+    dynasty: bernadotte_dynasty
+    female: yes
+    father: swe_gustaf_adolf_bernadotte
+    mother: swe_sibylla_saxe_coburg_and_gotha
+    adm: 35
+    dip: 40
+    mil: 35
+    religion: lutheran
+    culture: swedish
+    tag: SWE
+swe_birgitta_bernadotte:
+  1937.1.19:
+    birth: stockholm
+    first_name: name_bridget
+    dynasty: bernadotte_dynasty
+    female: yes
+    father: swe_gustaf_adolf_bernadotte
+    mother: swe_sibylla_saxe_coburg_and_gotha
+    adm: 45
+    dip: 35
+    mil: 35
+    religion: lutheran
+    culture: swedish
+    tag: SWE
+swe_desiree_bernadotte:
+  1937.1.19:
+    birth: stockholm
+    first_name: desiree
+    dynasty: bernadotte_dynasty
+    female: yes
+    father: swe_gustaf_adolf_bernadotte
+    mother: swe_sibylla_saxe_coburg_and_gotha
+    adm: 45
+    dip: 50
+    mil: 35
+    religion: lutheran
+    culture: swedish
+    tag: SWE
+swe_christina_magnuson:
+  1943.8.3:
+    birth: stockholm
+    first_name: christina
+    dynasty: bernadotte_dynasty
+    female: yes
+    father: swe_gustaf_adolf_bernadotte
+    mother: swe_sibylla_saxe_coburg_and_gotha
+    adm: 35
+    dip: 40
+    mil: 35
+    religion: lutheran
+    culture: swedish
+    tag: SWE
+swe_silvia_renate_sommerlath:
+  1943.12.23:
+    birth: heidelberg
+    first_name: name_silvia
+    last_name: sommerlath
+    female: yes
+    adm: 40
+    dip: 55
+    mil: 35
+    religion: lutheran
+    culture: westphalian
+    tag: GER
+  1976.6.19:
+    spouse: swe_carl_xvi_gustaf_bernadotte
+    tag: SWE
 swe_carl_xvi_gustaf_bernadotte:
   1946.4.30:
-    birth: stockholm #TODO: Location guessed, check if better data is available
-    first_name: carl_xvi_gustaf
+    birth: stockholm
+    first_name: carl.gustaf
     dynasty: bernadotte_dynasty
+    father: swe_gustaf_adolf_bernadotte
+    mother: swe_sibylla_saxe_coburg_and_gotha
     adm: 45
     dip: 30
     mil: 45
     religion: lutheran
     culture: swedish
     tag: SWE
-  2100.1.1:
-    death: yes
+swe_daniel_westling:
+  1973.9.15:
+    birth: orebro
+    first_name: name_daniel
+    last_name: westling
+    adm: 40
+    dip: 45
+    mil: 35
+    religion: lutheran
+    culture: swedish
+    tag: SWE
+  2010.6.19:
+    spouse: swe_victoria_i_bernadotte
 swe_victoria_i_bernadotte:
   1977.7.14:
-    birth: stockholm #TODO: Location guessed, check if better data is available
-    first_name: victoria
+    birth: stockholm
+    first_name: name_victoria
     dynasty: bernadotte_dynasty
     female: yes
-    father: swe_carl_xvi_gustaf_bernadotte #TODO: check if this makes sense
+    father: swe_carl_xvi_gustaf_bernadotte
+    mother: swe_silvia_renate_sommerlath
     adm: 30
     dip: 60
     mil: 30
     religion: lutheran
     culture: swedish
     tag: SWE
-  3000.1.1:
-    death: yes
+swe_carl_philip_bernadotte:
+  1979.5.13:
+    birth: stockholm
+    first_name: carl.name_philip
+    dynasty: bernadotte_dynasty
+    father: swe_carl_xvi_gustaf_bernadotte
+    mother: swe_silvia_renate_sommerlath
+    adm: 40
+    dip: 40
+    mil: 30
+    religion: lutheran
+    culture: swedish
+    tag: SWE
+swe_madeleine_bernadotte:
+  1982.6.10:
+    birth: stockholm
+    first_name: name_madeleine
+    dynasty: bernadotte_dynasty
+    female: yes
+    father: swe_carl_xvi_gustaf_bernadotte
+    mother: swe_silvia_renate_sommerlath
+    adm: 45
+    dip: 35
+    mil: 25
+    religion: lutheran
+    culture: swedish
+    tag: SWE
+swe_estelle_bernadotte:
+  2012.2.23:
+    birth: stockholm
+    first_name: estelle
+    dynasty: bernadotte_dynasty
+    female: yes
+    father: swe_daniel_westling
+    mother: swe_victoria_i_bernadotte
+    adm: 50
+    dip: 50
+    mil: 40
+    religion: lutheran
+    culture: swedish
+    tag: SWE
+swe_oscar_bernadotte:
+  2016.3.2:
+    birth: stockholm
+    first_name: name_oscar
+    dynasty: bernadotte_dynasty
+    father: swe_daniel_westling
+    mother: swe_victoria_i_bernadotte
+    adm: 45
+    dip: 40
+    mil: 50
+    religion: lutheran
+    culture: swedish
+    tag: SWE

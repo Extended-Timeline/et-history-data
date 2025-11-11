@@ -196,6 +196,20 @@ ned_willem_ii_van_oranje:
     tag: NED
   1849.3.17:
     death: yes
+ned_frederik_van_oranje:
+  1797.2.28:
+    birth: berlin
+    first_name: name_frederick
+    dynasty: van_oranje_dynasty
+    father: ned_willem_i_van_oranje_1
+    adm: 45
+    dip: 55
+    mil: 35
+    religion: calvinist
+    culture: low_franconian
+    tag: NED
+  1881.9.8:
+    death: yes
 ned_willem_ii_van_oranje_1:
   1810.1.1:
     birth: amsterdam #TODO: Date and location guessed, check if better data is available

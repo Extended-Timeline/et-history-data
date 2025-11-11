@@ -95,6 +95,21 @@ hun_geza_arpad:
     tag: HUN
   997.1.1:
     death: yes
+mihaly_arpad:
+  950.1.1:
+    birth: buda #Date and location guessed, no data.
+    first_name: michael
+    dynasty: arpad_dynasty
+    father: hun_taksony_arpad
+    adm: 50
+    dip: 50
+    mil: 50
+    religion: pagan
+    972.1.1: catholic
+    culture: hungarian
+    tag: HUN
+  996.1.1:
+    death: yes
 hun_istvan_i_arpad:
   967.1.1:
     birth: esztergom # or fehervar
@@ -107,6 +122,21 @@ hun_istvan_i_arpad:
     culture: hungarian
     tag: HUN
   1038.8.15:
+    death: yes
+vaszoly_arpad:
+  990.1.1:
+    birth: buda #Date and location guessed, no data.
+    first_name: vasoly
+    dynasty: arpad_dynasty
+    father: mihaly_arpad
+    adm: 50
+    dip: 50
+    mil: 50
+    religion: pagan
+    eastern christianity
+    culture: hungarian
+    tag: HUN
+  1036.12.6:
     death: yes
 hun_peter_i_arpad:
   1010.1.1:
@@ -122,49 +152,6 @@ hun_peter_i_arpad:
     tag: HUN
   1059.8.30:
     death: yes
-hun_samuel_i_aba:
-  1011.1.1:
-    birth: pest #TODO: Date and location guessed, check if better data is available
-    first_name: samuel
-    dynasty: aba_dynasty
-    adm: 45
-    dip: 30
-    mil: 60
-    religion: catholic
-    culture: hungarian
-    tag: HUN
-  1044.7.5:
-    death: yes
-mihaly_arpad:
-  950.1.1:
-  birth: buda #Date and location guessed, no data.
-  first_name: michael
-  dynasty: arpad_dynasty
-  father: hun_taksony_arpad
-    adm: 50
-    dip: 50
-    mil: 50
-    religion: pagan
-    972.1.1: catholic
-    culture: hungarian
-    tag: HUN
-  996.1.1:
-    death: yes
-vaszoly_arpad:
-  990.1.1:
-  birth: buda #Date and location guessed, no data.
-  first_name: vasoly
-  dynasty: arpad_dynasty
-  father: mihaly_arpad
-    adm: 50
-    dip: 50
-    mil: 50
-    religion: pagan
-    eastern christianity
-    culture: hungarian
-    tag: HUN
-  1036.12.6:
-    death: yes
 hun_levente_arpad:
   1010.1.1:
     birth: pest #TODO: location guessed, check if better data is available
@@ -178,6 +165,19 @@ hun_levente_arpad:
     culture: hungarian
     tag: HUN
   1047.1.1:
+    death: yes
+hun_samuel_i_aba:
+  1011.1.1:
+    birth: pest #TODO: Date and location guessed, check if better data is available
+    first_name: samuel
+    dynasty: aba_dynasty
+    adm: 45
+    dip: 30
+    mil: 60
+    religion: catholic
+    culture: hungarian
+    tag: HUN
+  1044.7.5:
     death: yes
 hun_andras_i_arpad:
   1013.1.1:

@@ -1,6 +1,7 @@
 name: Validate YAML files
 
 on:
+  workflow_dispatch:
   push:
     paths:
       - 'characters/**'
@@ -37,6 +38,7 @@ jobs:
         run: |
           echo "Checking YAML files in characters/, countries/, and locations/ (recursively)..."
           invalid_report=""
+          has_error=0
           for file in $(find characters countries locations -type f \( -name "*.yml" -o -name "*.yaml" \)); do
             echo "Validating $file"
             $(python scripts/yaml-linter.py "$file")
@@ -44,27 +46,25 @@ jobs:
               has_error=1
             fi
           done
-
-          if [ -n "$invalid_report" ]; then
-            echo "invalid_report<<EOF" >> $GITHUB_OUTPUT
-            echo -e "$invalid_report" >> $GITHUB_OUTPUT
-            echo "EOF" >> $GITHUB_OUTPUT
-            exit 1
-          else
+          
+          if [ has_error -eq 0 ]; then
             echo "✅ All YAML files are valid."
+            exit 0
+          else
+            echo "🚫 errors encountered while linting YAML files."
+            exit 1
           fi
 
       - name: Comment on PR if invalid files found
         if: failure() && github.event_name == 'pull_request'
-        uses: marocchino/sticky-pull-request-comment@v2
+        uses: thollander/actions-comment-pull-request@v3
         with:
-          header: yaml-validation
           message: |
             ❌ **YAML Validation Failed**
             One or more YAML files contain syntax errors:
 
             ```
-            ${{ steps.validate.outputs.invalid_report }}
+            ${{ steps.validate.outputs.stderr }}
             ```
 
             Please fix these errors and push your changes again.

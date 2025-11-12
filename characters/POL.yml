@@ -662,7 +662,7 @@ pol_aleksander_i_jagiellon:
     death: yes
 pol_zygmunt_i_stary_jagiellon:
   1467.1.1:
-    birth: krakow #TODO: Date and location guessed, check if better data is available
+    birth: krakow #TODO: Kozienice
     first_name: zygmunt_i_stary
     dynasty: jagiellon_dynasty
     adm: 45
@@ -671,7 +671,24 @@ pol_zygmunt_i_stary_jagiellon:
     religion: catholic
     culture: lesser_polish
     tag: POL
-  1548.4.2:
+  1548.4.1:
+    death: yes
+pol_bona_sforza:
+  1494.2.2:
+    birth: milano
+    first_name: name_bonne
+    dynasty: sforza_dynasty
+    female: yes
+    adm: 25
+    dip: 45
+    mil: 25
+    religion: catholic
+    culture: lombard
+    tag: MLO
+  1518.4.18:
+    spouse: pol_zygmunt_i_stary_jagiellon
+    tag: POL
+  1557.11.19:
     death: yes
 pol_zygmunt_i_august_jagiellon:
   1520.8.1:
@@ -728,17 +745,35 @@ pol_stefan_i_bathory:
     death: yes
 pol_zygmunt_iii_vasa:
   1566.6.20:
-    birth: warsaw #TODO: Location guessed, check if better data is available
-    first_name: zygmunt
+    birth: warsaw #TODO: Gripsholm
+    first_name: name_sigmund
     dynasty: vasa_dynasty
+    father: swe_johan_iii_vasa
+    mother: swe_katarina_jagiellon
     adm: 15
     dip: 30
     mil: 30
     religion: catholic
-    culture: lesser_polish
+    culture: swedish
     tag: POL
   1632.4.30:
     death: yes
+pol_anna_von_habsburg:
+  1573.8.16:
+    birth: stockholm #TODO: Location guessed, check if better data is available
+    first_name: anna
+    dynasty: von_habsburg_dynasty
+    female: yes
+    adm: 15
+    dip: 15
+    mil: 15
+    religion: catholic
+    culture: swedish
+    tag: SWE
+  1598.1.31:
+    death: yes
+  1592.11.19:
+    spouse: pol_zygmunt_iii_vasa #TODO: date guessed, see if better data is available
 pol_wladyslaw_iv_vasa:
   1595.6.9:
     birth: warsaw #TODO: Location guessed, check if better data is available

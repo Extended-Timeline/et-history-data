@@ -864,6 +864,22 @@ dan_erik_vi_estridsen:
     tag: DAN
   1319.11.13:
     death: yes
+swe_ingeborg_magnusdotter:
+  1277:
+    birth: stockholm #unknown
+    first_name: name_ingeborg
+    dynasty: bjalbo_atten_dynasty
+    female: yes
+    father: swe_magnus_ladulas
+    mother: swe_helvig_von_schauenburg
+    religion: catholic
+    culture: swedish
+    tag: SWE
+  1296:
+    spouse: dan_erik_vi_estridsen
+    tag: DAN
+  1319.8.15:
+    death: yes
 dan_erik_vi_estridsen_1:
   1256.1.1:
     birth: kobenhavn #TODO: Date and location guessed, check if better data is available
@@ -1572,18 +1588,24 @@ dan_frederik_viii_von_glucksburg:
     tag: DAN
   1912.5.14:
     death: yes
-dan_frederik_viii_von_glucksburg_1:
-  1876.1.1:
-    birth: kobenhavn #TODO: Date and location guessed, check if better data is available
-    first_name: frederik
-    dynasty: von_glucksburg_dynasty
-    adm: 75
-    dip: 45
-    mil: 30
+dan_louise_bernadotte:
+  1851.10.31:
+    birth: stockholm
+    first_name: name_louise
+    dynasty: bernadotte_dynasty
+    female: yes
+    father: swe_karl_xv_bernadotte
+    mother: swe_louise_of_the_netherlands
+    adm: 30
+    dip: 55
+    mil: 25
     religion: lutheran
-    culture: danish
+    culture: swedish
+    tag: SWE
+  1869.7.28:
+    spouse: dan_frederik_viii_von_glucksburg
     tag: DAN
-  1912.5.14:
+  1926.3.20:
     death: yes
 dan_christian_x_von_glucksburg:
   1870.9.26:
@@ -1591,19 +1613,6 @@ dan_christian_x_von_glucksburg:
     first_name: christian
     dynasty: von_glucksburg_dynasty
     father: dan_frederik_viii_von_glucksburg_1 #TODO: check if this makes sense
-    adm: 30
-    dip: 75
-    mil: 60
-    religion: lutheran
-    culture: danish
-    tag: DAN
-  1947.4.20:
-    death: yes
-dan_christian_x_von_glucksburg_1:
-  1882.1.1:
-    birth: kobenhavn #TODO: Date and location guessed, check if better data is available
-    first_name: christian
-    dynasty: von_glucksburg_dynasty
     adm: 30
     dip: 75
     mil: 60
@@ -1626,18 +1635,24 @@ dan_frederik_ix_von_glucksburg:
     tag: DAN
   1972.1.14:
     death: yes
-dan_frederik_ix_von_glucksburg_1:
-  1917.1.1:
-    birth: kobenhavn #TODO: Date and location guessed, check if better data is available
-    first_name: frederik
-    dynasty: von_glucksburg_dynasty
-    adm: 75
-    dip: 45
-    mil: 45
+dan_ingrid_bernadotte:
+  1910.3.28:
+    birth: stockholm
+    first_name: name_ingrid
+    dynasty: bernadotte_dynasty
+    female: yes
+    father: swe_gustaf_vi_adolf_bernadotte
+    mother: swe_margaret_of_connaught
+    adm: 60
+    dip: 55
+    mil: 40
     religion: lutheran
-    culture: danish
+    culture: swedish
+    tag: SWE
+  1935.5.24:
+    spouse: dan_frederik_ix_von_glucksburg
     tag: DAN
-  1972.1.14:
+  2002.2.4:
     death: yes
 dan_margrethe_ii_von_glucksburg:
   1940.4.16:

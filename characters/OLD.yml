@@ -518,6 +518,25 @@ old_augustus_i_von_holstein_gottorp:
     tag: OLD
   1853.2.27:
     death: yes
+old_cecilia_von_holstein_gottorp:
+  1807.6.22:
+    birth: stockholm
+    first_name: name_cecile
+    dynasty: von_holstein_gottorp_dynasty
+    female: yes
+    father: swe_gustav_iv_adolf_von_holstein_gottorp
+    mother: swe_fredrika_von_zahringen
+    adm: 40
+    dip: 40
+    mil: 30
+    religion: lutheran
+    culture: swedish
+    tag: SWE
+  1831.5.5:
+    spouse: old_augustus_i_von_holstein_gottorp
+    tag: OLD
+  1844.1.27:
+    death: yes
 old_peter_ii_von_holstein_gottorp:
   1827.7.8:
     birth: oldenburg #TODO: Location guessed, check if better data is available

@@ -531,6 +531,23 @@ pal_friedrich_iii_der_fromme_von_wittelsbach_1:
     tag: PAL
   1576.10.27:
     death: yes
+pal_elisabeth_von_hesse:
+  1539.2.13:
+    birth: kassel
+    first_name: name_elizabeth
+    dynasty: hesse_dynasty
+    female: yes
+    adm: 30
+    dip: 15
+    mil: 15
+    religion: lutheran
+    culture: rhine_franconian
+    tag: HES
+  1560.7.8:
+    spouse: pal_ludwig_vi_von_wittelsbach
+    tag: PAL
+  1582.3.14:
+    death: yes
 pal_ludwig_vi_von_wittelsbach:
   1539.7.4:
     birth: heidelberg #TODO: Location guessed, check if better data is available
@@ -544,19 +561,6 @@ pal_ludwig_vi_von_wittelsbach:
     culture: rhine_franconian
     tag: PAL
   1583.10.22:
-    death: yes
-pal_ludwig_vi_von_wittelsbach_1:
-  1546.1.1:
-    birth: heidelberg #TODO: Date and location guessed, check if better data is available
-    first_name: ludwig
-    dynasty: von_wittelsbach_dynasty
-    adm: 45
-    dip: 30
-    mil: 45
-    religion: lutheran
-    culture: rhine_franconian
-    tag: PAL
-  1583.10.23:
     death: yes
 pal_friedrich_iv_von_wittelsbach:
   1574.3.5:

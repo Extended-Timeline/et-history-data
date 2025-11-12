@@ -77,8 +77,8 @@ lau_johann_v_askanier:
   1507.1.1:
     death: yes
 lau_magnus_i_askanier:
-  1477.1.1:
-    birth: lauenburg #TODO: Date and location guessed, check if better data is available
+  1470.1.1:
+    birth: ratzeburg
     first_name: magnus
     dynasty: askanier_dynasty
     adm: 45
@@ -87,7 +87,24 @@ lau_magnus_i_askanier:
     religion: catholic
     culture: lower_saxon
     tag: LAU
-  1543.1.1:
+  1543.8.1:
+    death: yes
+lau_catherine_von_welf:
+  1488:
+    birth: ratzeburg
+    first_name: name_catherine
+    dynasty: von_welf_dynasty
+    female: yes
+    adm: 30
+    dip: 30
+    mil: 15
+    religion: lutheran
+    culture: swedish
+    tag: LAU #TODO
+  1509.11.20:
+    spouse: lau_magnus_i_askanier
+    tag: LAU
+  1563.6.29:
     death: yes
 lau_franz_i_askanier:
   1513.1.1:

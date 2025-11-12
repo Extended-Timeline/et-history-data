@@ -692,18 +692,22 @@ bra_johann_i_sigismund_von_hohenzollern:
     tag: BRA
   1619.12.23:
     death: yes
-bra_johann_sigismund_i_von_hohenzollern:
-  1578.1.1:
-    birth: berlin #TODO: Date and location guessed, check if better data is available
-    first_name: johann_sigismund
+bra_anna_von_hohenzollern:
+  1576.7.3:
+    birth: konigsberg
+    first_name: name_anna
     dynasty: von_hohenzollern_dynasty
-    adm: 60
-    dip: 45
-    mil: 45
+    female: yes
+    adm: 30
+    dip: 25
+    mil: 25
     religion: lutheran
-    culture: saxon
+    culture: prussian
+    tag: PRU
+  1594.10.30:
+    spouse: bra_johann_i_sigismund_von_hohenzollern
     tag: BRA
-  1619.12.24:
+  1625.8.30:
     death: yes
 bra_georg_wilhelm_i_von_hohenzollern:
   1595.11.13:

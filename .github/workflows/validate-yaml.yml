@@ -1,0 +1,46 @@
+name: Validate YAML files
+
+on:
+  push:
+    paths:
+      - 'characters/**'
+      - 'countries/**'
+      - 'locaitons/**'
+  pull_request:
+    paths:
+      - 'characters/**'
+      - 'countries/**'
+      - 'locations/**'
+
+jobs:
+  yaml-lint:
+    runs-on: ubuntu-latest
+    name: Check YAML validity
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install PyYAML
+        run: pip install pyyaml
+
+      - name: Validate YAML files
+        run: |
+          echo "Checking YAML files in 'characters/', 'countries/', and 'locations/'"
+          errors=0
+          for file in $(find data configs -type f \( -name "*.yml" -o -name "*.yaml" \)); do
+            echo "Validating $file"
+            python -c "import yaml, sys; yaml.safe_load(open('$file'))" || {
+              echo "::error file=$file::Invalid YAML syntax"
+              errors=$((errors+1))
+            }
+          done
+          if [ $errors -gt 0 ]; then
+            echo "::error::Found $errors invalid YAML files"
+            exit 1
+          fi
+          echo "✅ All YAML files are valid."

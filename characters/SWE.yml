@@ -557,8 +557,9 @@ swe_birger_jarl:
     religion: catholic
     culture: swedish
     tag: SWE
-    trait: conqueror
-    trait: cruel
+    traits: 
+      conqueror: yes
+      cruel: yes
   1266.10.21:
     death: yes
 swe_ingeborg_eriksson:
@@ -1556,7 +1557,8 @@ swe_sofia_gyllenhielm:
     religion: lutheran
     culture: swedish
     tag: SWE
-    trait: bastard
+    traits:
+      bastard: yes
   1583.6:
     death: yes
 swe_virginia_eriksdotter:
@@ -1573,7 +1575,8 @@ swe_virginia_eriksdotter:
     religion: lutheran
     culture: swedish
     tag: SWE
-    trait: bastard
+    traits:
+      bastard: yes
   1633:
     death: yes
 swe_constantia_eriksdotter:
@@ -1590,7 +1593,8 @@ swe_constantia_eriksdotter:
     religion: lutheran
     culture: swedish
     tag: SWE
-    trait: bastard
+    traits:
+      bastard: yes
   1649:
     death: yes
 swe_lucretia_gyllenhielm:
@@ -1607,7 +1611,8 @@ swe_lucretia_gyllenhielm:
     religion: lutheran
     culture: swedish
     tag: SWE
-    trait: bastard
+    traits:
+      bastard: yes
   1585:
     death: yes
 swe_maria_von_wittelsbach:
@@ -1643,7 +1648,8 @@ swe_lucretia_eriksdotter:
     religion: lutheran
     culture: swedish
     tag: SWE
-    trait: bastard
+    traits:
+      bastard: yes
   1675:
     death: yes
 swe_sigrid_eriksdotter:
@@ -1771,7 +1777,8 @@ swe_carl_gyllenhielm:
     religion: lutheran
     culture: swedish
     tag: SWE
-    trait: bastard
+    traits:
+      bastard: yes
   1650.3.17:
     death: yes
 swe_margareta_elisabeth_vasa:
@@ -1997,7 +2004,8 @@ swe_gustav_av_vasaborg:
     religion: lutheran
     culture: swedish
     tag: SWE
-    trait: bastard
+    traits:
+      bastard: yes
   1653.10.25:
     death: yes
 swe_christina_vasa:
@@ -2067,7 +2075,8 @@ swe_gustaf_carlson:
     religion: lutheran
     culture: swedish
     tag: SWE
-    trait: bastard
+    traits:
+      bastard: yes
   1708.1.1:
     death: yes
 swe_karl_xi_von_wittelsbach:
@@ -2200,7 +2209,8 @@ swe_fredrik_vilhelm_von_hessenstein:
     religion: lutheran
     culture: swedish
     tag: SWE
-    trait: bastard
+    traits:
+      bastard: yes
   1808.7.27:
     death: yes
 swe_gustav_iii_von_holstein_gottorp:
@@ -2332,7 +2342,8 @@ swe_carl_lowenhielm:
     religion: lutheran
     culture: swedish
     tag: SWE
-    trait: bastard
+    traits:
+      bastard: yes
   1861.6.9:
     death: yes
 swe_desideria_clary:

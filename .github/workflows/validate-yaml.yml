@@ -39,20 +39,9 @@ jobs:
           invalid_report=""
           for file in $(find characters countries locations -type f \( -name "*.yml" -o -name "*.yaml" \)); do
             echo "Validating $file"
-            error=$(python - <<'PYCODE'
-            import yaml, sys, traceback
-            try:
-              with open(sys.argv[1], 'r', encoding='utf-8') as f:
-                yaml.safe_load(f)
-            except yaml.YAMLError as e:
-              print(e)
-            except Exception as e:
-              print(f"Unexpected error: {e}")
-          PYCODE
-           "$file" 2>&1)
-            if [ -n "$error" ]; then
-              echo "::error file=$file::Invalid YAML - $error"
-              invalid_report+="$file:\n$error\n\n"
+            $(python scripts/yaml-linter.py "$file")
+            if [ $? -ne 0 ]; then
+              has_error=1
             fi
           done
 

@@ -1,23 +1,29 @@
 #imported from EU4 file: history/provinces/2765 - Tajura.txt
 2.1.1:
-  owner: AFAR
-  controller: AFAR
+  owner: PTA4
+  controller: PTA4
   cores:
-    AFAR: yes
+    PTA4: yes
   resource: livestock
   pop:
     ethnicity: afar_culture
     religion: south_arabian
     estate: peasant
     size: 1000
+128.1.1:
+  owner: AFAR
+  controller: AFAR
+  cores:
+    PTA4: no
+    AFAR: yes
 220.1.1:
   owner: AKSM
   controller: AKSM
   cores:
     AKSM: yes
+    AFAR: no
 450.1.1:
   pop:
-    religion: bantu_religion
     estate: peasant
     size: 1000
 630.1.1:

@@ -1,30 +1,30 @@
 #imported from EU4 file: history/provinces/85 - Koln.txt
 2.1.1:
-  owner: TNC8
-  controller: TNC8
+  owner: UBI8
+  controller: UBI8
   cores:
-    TNC8: yes
+    UBI8: yes
   resource: grain
   pop:
-    ethnicity: istaevonian
+    ethnicity: ubian
     religion: germanic
     estate: peasant
     size: 1000
-139.1.1:
+18.1.1:
+  pop:
+    religion: roman_germanic_religion
+    estate: peasant
+    size: 1000
+50.1.1:
   owner: ROM
   controller: ROM
   cores:
-    TNC8: no
+    UBI8: no
     ROM: yes
-  pop:
-    ethnicity: frankish
-    estate: peasant
-    size: 1000
 260.1.1:
   cores:
     GALL: yes
   pop:
-    ethnicity: gallian
     religion: hellenism_religion
     estate: peasant
     size: 1000

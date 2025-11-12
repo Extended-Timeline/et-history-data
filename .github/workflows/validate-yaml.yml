@@ -1,7 +1,6 @@
 name: Validate YAML files
 
 on:
-  workflow_dispatch:
   push:
     paths:
       - 'characters/**'
@@ -24,6 +23,33 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+
+      - name: Get changed files (PR)
+        if: github.event_name == 'pull_request'
+        id: pr_changes
+        run: |
+          git fetch origin ${{ github.base_ref }}
+          CHANGED_FILES=$(git diff --name-only origin/${{ github.base_ref }}...HEAD)
+          echo "changed=$CHANGED_FILES" >> $GITHUB_OUTPUT
+
+      - name: Get changed files (Push)
+        if: github.event_name == 'push'
+        id: push_changes
+        run: |
+          git fetch origin ${{ github.ref_name }}
+          CHANGED_FILES=$(git diff --name-only ${{ github.event.before }} ${{ github.event.after }})
+          echo "changed=$CHANGED_FILES" >> $GITHUB_OUTPUT
+
+      - name: Print changed files
+        id: print_changed
+        run: |
+          if [ "${{ github.event_name }}" = "pull_request" ]; then
+            echo "Changed files: ${{ steps.pr_changes.outputs.changed }}"
+            echo "changed=${{ steps.pr_changes.outputs.changed }} >> $GITHUB_OUTPUT
+          else
+            echo "Changed files: ${{ steps.push_changes.outputs.changed }}"
+            echo "changed=${{ steps.pr_changes.outputs.changed }} >> $GITHUB_OUTPUT
+          fi
 
       - name: Set up Python
         uses: actions/setup-python@v5

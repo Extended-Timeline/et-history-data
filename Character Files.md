@@ -1,6 +1,6 @@
 # Character files
 
-Character data is recorded in yml format as shown below.
+Character data is recorded in yml format as shown below. All characters belonging to the same tag are included in the same file named after the tag and ordered by date of birth. If a character belonged to multiple tags, they may be included under any one of those files.
 
 ```
 tag_guy_of_place:

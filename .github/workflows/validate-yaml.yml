@@ -2,11 +2,14 @@ name: Validate YAML files
 
 on:
   push:
+    branches:
+      - main
     paths:
       - 'characters/**'
       - 'countries/**'
       - 'locations/**'
   pull_request:
+    types: ['opened', 'synchronize', 'reopened', 'ready_for_review']
     paths:
       - 'characters/**'
       - 'countries/**'
@@ -14,6 +17,7 @@ on:
 
 jobs:
   yaml-lint:
+    if: ${{ github.event_name != 'pull_request' || github.event.pull_request.draft == false }}
     runs-on: ubuntu-latest
     name: Check YAML validity
     permissions:
@@ -23,6 +27,39 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Get changed files (PR)
+        if: github.event_name == 'pull_request'
+        id: pr_changes
+        run: |
+          git fetch origin ${{ github.base_ref }}
+          CHANGED_FILES=$(git diff --name-only origin/${{ github.base_ref }}..HEAD | grep -E '^(characters/|countries/|locations/)' | grep -E '.ya?ml$')
+          CHANGED_FILES_ENCODED=$(echo -n "$CHANGED_FILES" | base64 -w 0)
+          echo "changed=$CHANGED_FILES_ENCODED" >> $GITHUB_OUTPUT
+
+      - name: Get changed files (Push)
+        if: github.event_name == 'push'
+        id: push_changes
+        run: |
+          git fetch origin ${{ github.ref_name }}
+          CHANGED_FILES=$(git diff --name-only main..HEAD | grep -E '^(characters/|countries/|locations/)' | grep -E '.ya?ml$')
+          CHANGED_FILES_ENCODED=$(echo -n "$CHANGED_FILES" | base64 -w 0)
+          echo "changed=$CHANGED_FILES_ENCODED" >> $GITHUB_OUTPUT
+
+      - name: Print changed files
+        id: print_changed
+        run: |
+          if [[ "${{ github.event_name }}" == "pull_request" ]]; then
+            CHANGED_FILES=$(echo ${{ steps.pr_changes.outputs.changed }} | base64 -d)
+            echo "Changed files: $CHANGED_FILES"
+            echo "changed=${{ steps.pr_changes.outputs.changed }}" >> $GITHUB_OUTPUT
+          else
+            CHANGED_FILES=$(echo ${{ steps.push_changes.outputs.changed }} | base64 -d)
+            echo "Changed files: $CHANGED_FILES"
+            echo "changed=${{ steps.push_changes.outputs.changed }}" >> $GITHUB_OUTPUT
+          fi
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -35,47 +72,23 @@ jobs:
       - name: Validate YAML files
         id: validate
         run: |
-          echo "Checking YAML files in characters/, countries/, and locations/ (recursively)..."
-          invalid_report=""
-          for file in $(find characters countries locations -type f \( -name "*.yml" -o -name "*.yaml" \)); do
+          set +e
+          
+          echo "Checking changed YAML files..."
+          CHANGED_FILES=$(echo ${{ steps.print_changed.outputs.changed }} | base64 -d)
+          has_error=0
+          while IFS= read -r file; do
             echo "Validating $file"
-            error=$(python - <<'PYCODE'
-            import yaml, sys, traceback
-            try:
-              with open(sys.argv[1], 'r', encoding='utf-8') as f:
-                yaml.safe_load(f)
-            except yaml.YAMLError as e:
-              print(e)
-            except Exception as e:
-              print(f"Unexpected error: {e}")
-          PYCODE
-           "$file" 2>&1)
-            if [ -n "$error" ]; then
-              echo "::error file=$file::Invalid YAML - $error"
-              invalid_report+="$file:\n$error\n\n"
+            python scripts/yaml-linter.py "$file"
+            if [ $? -ne 0 ]; then
+              has_error=1
             fi
-          done
+          done <<< "$CHANGED_FILES"
 
-          if [ -n "$invalid_report" ]; then
-            echo "invalid_report<<EOF" >> $GITHUB_OUTPUT
-            echo -e "$invalid_report" >> $GITHUB_OUTPUT
-            echo "EOF" >> $GITHUB_OUTPUT
-            exit 1
-          else
+          if [ $has_error -eq 0 ]; then
             echo "✅ All YAML files are valid."
+            exit 0
+          else
+            echo "🚫 errors encountered while linting YAML files."
+            exit 1
           fi
-
-      - name: Comment on PR if invalid files found
-        if: failure() && github.event_name == 'pull_request'
-        uses: marocchino/sticky-pull-request-comment@v2
-        with:
-          header: yaml-validation
-          message: |
-            ❌ **YAML Validation Failed**
-            One or more YAML files contain syntax errors:
-
-            ```
-            ${{ steps.validate.outputs.invalid_report }}
-            ```
-
-            Please fix these errors and push your changes again.

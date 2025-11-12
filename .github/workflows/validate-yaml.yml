@@ -1,0 +1,81 @@
+name: Validate YAML files
+
+on:
+  push:
+    paths:
+      - 'characters/**'
+      - 'countries/**'
+      - 'locations/**'
+  pull_request:
+    paths:
+      - 'characters/**'
+      - 'countries/**'
+      - 'locations/**'
+
+jobs:
+  yaml-lint:
+    runs-on: ubuntu-latest
+    name: Check YAML validity
+    permissions:
+      contents: read
+      pull-requests: write  # needed to post PR comments
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install PyYAML
+        run: pip install pyyaml
+
+      - name: Validate YAML files
+        id: validate
+        run: |
+          echo "Checking YAML files in characters/, countries/, and locations/ (recursively)..."
+          invalid_report=""
+          for file in $(find characters countries locations -type f \( -name "*.yml" -o -name "*.yaml" \)); do
+            echo "Validating $file"
+            error=$(python - <<'PYCODE'
+            import yaml, sys, traceback
+            try:
+              with open(sys.argv[1], 'r', encoding='utf-8') as f:
+                yaml.safe_load(f)
+            except yaml.YAMLError as e:
+              print(e)
+            except Exception as e:
+              print(f"Unexpected error: {e}")
+          PYCODE
+           "$file" 2>&1)
+            if [ -n "$error" ]; then
+              echo "::error file=$file::Invalid YAML - $error"
+              invalid_report+="$file:\n$error\n\n"
+            fi
+          done
+
+          if [ -n "$invalid_report" ]; then
+            echo "invalid_report<<EOF" >> $GITHUB_OUTPUT
+            echo -e "$invalid_report" >> $GITHUB_OUTPUT
+            echo "EOF" >> $GITHUB_OUTPUT
+            exit 1
+          else
+            echo "✅ All YAML files are valid."
+          fi
+
+      - name: Comment on PR if invalid files found
+        if: failure() && github.event_name == 'pull_request'
+        uses: marocchino/sticky-pull-request-comment@v2
+        with:
+          header: yaml-validation
+          message: |
+            ❌ **YAML Validation Failed**
+            One or more YAML files contain syntax errors:
+
+            ```
+            ${{ steps.validate.outputs.invalid_report }}
+            ```
+
+            Please fix these errors and push your changes again.

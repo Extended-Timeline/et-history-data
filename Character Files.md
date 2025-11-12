@@ -17,6 +17,8 @@ tag_guy_of_place:
     religion: godism
     culture: cultured
     tag: TAG
+    traits:
+      conqueror: yes
   1081.10.22:
     death: yes
 ```
@@ -80,6 +82,22 @@ Spouses often come from other countries. If so, they should be assigned to the t
 
 ---
 
+## Traits
+
+Traits are added with the traits argument. This argument does not take a value directly, but constitutes a separate section under which traits are added or removed with [trait ID]: yes/no Example of this is shown below.
+
+```
+  1010.1.1:
+    traits:
+      bastard: yes
+      cruel: yes
+  1030.1.1:
+    traits:
+      bastard: no #legitimized
+```
+
+---
+
 ## All allowed arguments with explanations
 
 | Argument | Value type | Required | Explanation | 
@@ -94,12 +112,12 @@ Spouses often come from other countries. If so, they should be assigned to the t
 | mother | character ID | no | The ID of the character's mother |
 | spouse | character ID | no | The ID of the character's spouse |
 | female | yes/no | yes, if female | Defaults to no, female characters should have this set to yes |
-| adm | integer | no* | Ranges from 0 to 100 |
-| dip | integer | no* | Ranges from 0 to 100 |
-| mil | integer | no* | Ranges from 0 to 100 |
+| adm | integer | no | Ranges from 0 to 100 |
+| dip | integer | no | Ranges from 0 to 100 |
+| mil | integer | no | Ranges from 0 to 100 |
 | religion | religion ID | yes* | Character's religion |
 | culture | culture ID | yes* | Character's culture |
-| trait | trait ID | no | Adds a trait to the character |
+| traits | see traits section | no | Adds traits to the character |
 | tag | country tag | yes* | The tag the character spent most of their professional career in |
 | death | yes | yes, unless still alive | Sets the character as dead |
 

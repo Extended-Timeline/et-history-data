@@ -1,128 +1,272 @@
-nor_harald_i_fairhair:
-  842.1.1:
-    birth: oslo #TODO: Date and location guessed, check if better data is available
-    first_name: harald
+nor_harald_fairhair:
+  850:
+    birth: bergen #TODO: Leikanger
+    first_name: name_harold
+    nickname: nick_fairhair
     dynasty: fairhair_dynasty
-    adm: 30
-    dip: 75
-    mil: 15
+    adm: 70
+    dip: 65
+    mil: 75
     religion: norse
     culture: norwegian
     tag: NOR
-  929.1.1:
+  932:
     death: yes
-nor_eric_i_fairhair:
-  895.1.1:
-    birth: oslo #TODO: Date and location guessed, check if better data is available
-    first_name: eric
+nor_svanhild_oysteinsdatter:
+  860:
+    birth: aarhus #Jutland
+    first_name: svanhild
+    last_name: oysteinsdottir
+    female: yes
+    religion: norse
+    culture: norwegian
+    tag: NOR
+  875:
+    spouse: nor_harald_i_fairhair
+  893:
+    death: yes
+nor_ragnhild_the_mighty:
+  870:
+    birth: aarhus #Jutland
+    first_name: name_ragnhild
+    nickname: nick_the_mighty
+    female: yes
+    religion: norse
+    culture: danish
+    tag: DAN
+  894:
+    spouse: nor_harald_i_fairhair
+    tag: NOR
+  897:
+    death: yes
+nor_olaf_geirstadalf:
+  877:
+    birth: bergen #TODO: Agder
+    first_name: name_olaf
     dynasty: fairhair_dynasty
-    father: nor_harald_i_fairhair #TODO: check if this makes sense
+    father: nor_harald_fairhair
+    mother: nor_svanhild_oysteinsdatter
+    religion: norse
+    culture: norwegian
+    tag: NOR
+  934:
+    death: yes
+nor_bjorn_farmann:
+  880:
+    birth: bergen #unknown
+    first_name: name_bjorn
+    dynasty: fairhair_dynasty
+    father: nor_harald_fairhair
+    mother: nor_svanhild_oysteinsdatter
+    religion: norse
+    culture: norwegian
+    tag: NOR
+  934:
+    death: yes
+nor_tora_mosterstong:
+  890:
+    birth: bergen #TODO: Moster
+    first_name: tora
+    last_name: mosterstong
+    female: yes
+    religion: norse
+    culture: norwegian
+    tag: NOR
+  910:
+    spouse: nor_harald_i_fairhair
+    tag: NOR
+  940:
+    death: yes
+nor_eric_bloodaxe:
+  895:
+    birth: bergen #unknown
+    first_name: name_eric
+    nickname: nick_bloodaxe
+    dynasty: fairhair_dynasty
+    father: nor_harald_fairhair
+    mother: nor_ragnhild_the_mighty
     adm: 45
     dip: 30
+    mil: 75
+    religion: norse
+    culture: norwegian
+    tag: NOR
+  954:
+    death: yes
+nor_gunnhildr_gormsdottir:
+  900:
+    birth: aarhus #Jutland
+    first_name: gunnhildr
+    last_name: gormsdottir
+    female: yes
+    religion: norse
+    culture: danish
+    tag: DAN
+  915:
+    spouse: nor_eric_bloodaxe
+    tag: NOR
+  980:
+    death: yes
+nor_gamle_eirikssen:
+  916:
+    birth: bergen #unknown
+    first_name: gamle
+    dynasty: fairhair_dynasty
+    father: nor_eric_bloodaxe
+    mother: nor_gunnhildr_gormsdottir
+    religion: norse
+    culture: norwegian
+    tag: NOR
+  955:
+    death: yes
+nor_rognvald_eriksson:
+  920:
+    birth: bergen #unknown
+    first_name: rognvald_alt
+    dynasty: fairhair_dynasty
+    father: nor_eric_bloodaxe
+    mother: nor_gunnhildr_gormsdottir
+    religion: norse
+    culture: norwegian
+    tag: NOR
+  933:
+    death: yes
+nor_hakon_the_good:
+  920:
+    birth: bergen #TODO: Hordaland
+    first_name: name_hacon
+    nickname: nick_the_good
+    dynasty: fairhair_dynasty
+    father: nor_harald_fairhair
+    mother: nor_tora_mosterstong
+    adm: 30
+    dip: 40
     mil: 45
     religion: norse
     culture: norwegian
     tag: NOR
-  952.1.1:
+  961:
     death: yes
-nor_eric_i_fairhair_1:
-  899.1.1:
-    birth: oslo #TODO: Date and location guessed, check if better data is available
-    first_name: eric
-    dynasty: fairhair_dynasty
-    adm: 45
-    dip: 30
-    mil: 45
+nor_astrid_eiriksdottir:
+  925:
+    birth: aarhus #TODO: Obrestad
+    first_name: name_astrid
+    last_name: eriksdotter
+    female: yes
     religion: norse
     culture: norwegian
     tag: NOR
-  934.1.1:
+  945:
+    spouse: nor_tryggve_olafsson
+  970:
     death: yes
-nor_hakon_i_fairhair:
-  915.1.1:
-    birth: oslo #TODO: Date and location guessed, check if better data is available
-    first_name: hakon
+nor_tryggve_olafsson:
+  928:
+    birth: oslo #TODO: Ringerike
+    first_name: tryggve
     dynasty: fairhair_dynasty
-    father: nor_eric_i_fairhair_1 #TODO: check if this makes sense
-    adm: 30
-    dip: 30
-    mil: 45
+    father: nor_olaf_geirstadalf
     religion: norse
     culture: norwegian
     tag: NOR
-  961.1.1:
+  963:
     death: yes
-nor_hakon_i_fairhair_1:
-  904.1.1:
-    birth: oslo #TODO: Date and location guessed, check if better data is available
-    first_name: hakon
+nor_harald_greycloak:
+  935:
+    birth: bergen #unknown
+    first_name: name_harold
+    nickname: nick_greycloak
     dynasty: fairhair_dynasty
-    adm: 30
-    dip: 30
-    mil: 45
+    father: nor_eric_bloodaxe
+    mother: nor_gunnhildr_gormsdottir
+    adm: 40
+    dip: 25
+    mil: 50
     religion: norse
     culture: norwegian
     tag: NOR
-  961.1.1:
+  970:
     death: yes
-nor_harald_ii_fairhair:
-  935.1.1:
-    birth: oslo #TODO: Date and location guessed, check if better data is available
-    first_name: harald
+nor_ragnhild_eriksdotter:
+  940:
+    birth: bergen #unknown
+    first_name: name_ragnhild
     dynasty: fairhair_dynasty
-    father: nor_hakon_i_fairhair_1 #TODO: check if this makes sense
-    adm: 30
-    dip: 15
-    mil: 30
+    female: yes
+    father: nor_eric_bloodaxe
+    mother: nor_gunnhildr_gormsdottir
     religion: norse
     culture: norwegian
     tag: NOR
-  970.1.1:
+  984:
     death: yes
-nor_harald_ii_fairhair_1:
-  931.1.1:
-    birth: oslo #TODO: Date and location guessed, check if better data is available
-    first_name: harald
-    dynasty: fairhair_dynasty
-    adm: 30
-    dip: 15
-    mil: 30
-    religion: catholic
-    culture: norwegian
-    tag: NOR
-  995.1.1:
-    death: yes
-nor_olaf_i_fairhair:
+nor_olaf_tryggvason:
   965.1.1:
-    birth: oslo #TODO: Date and location guessed, check if better data is available
-    first_name: olaf
+    birth: oslo #unknown
+    first_name: name_olaf
     dynasty: fairhair_dynasty
+    father: nor_tryggve_olafsson
+    mother: nor_astrid_eiriksdottir
     adm: 45
     dip: 30
-    mil: 30
+    mil: 50
+    religion: norse
+    culture: norwegian
+    tag: NOR
+  988:
+    religion: catholic
+  1000.9.9:
+    death: yes
+nor_olaf_ii:
+  995.1.1:
+    birth: oslo #TODO: Ringerike
+    first_name: name_olaf
+    dynasty: fairhair_dynasty
+    adm: 55
+    dip: 65
+    mil: 35
+    religion: norse
+    culture: norwegian
+    tag: NOR
+  1010:
+    religion: catholic
+  1030.7.29:
+    death: yes
+nor_astrid_olofsdotter:
+  1000:
+    birth: stockholm #unknown
+    first_name: name_astrid
+    dynasty: munso_dynasty
+    female: yes
+    father: swe_olof_i
+    religion: catholic
+    culture: swedish
+    tag: SWE
+  1015:
+    spouse: nor_olaf_ii
+    tag: NOR
+  1035:
+    death: yes
+nor_wulfhild_of_norway:
+  1020:
+    birth: oslo #unknown
+    first_name: name_wulfhild
+    dynasty: fairhair_dynasty
+    female: yes
+    father: nor_olaf_ii
+    mother: nor_astrid_olofsdotter
     religion: catholic
     culture: norwegian
     tag: NOR
-  1014.2.3:
+  1071.5.24:
     death: yes
-nor_olaf_ii_fairhair:
-  984.1.1:
-    birth: oslo #TODO: Date and location guessed, check if better data is available
-    first_name: olaf
+dan_magnus_fairhair:
+  1024:
+    birth: borg #unknown
+    first_name: name_magnus
+    nickname: nick_the_good
     dynasty: fairhair_dynasty
-    adm: 45
-    dip: 45
-    mil: 15
-    religion: catholic
-    culture: norwegian
-    tag: NOR
-  1035.11.12:
-    death: yes
-nor_magnus_i_fairhair:
-  1005.1.1:
-    birth: oslo #TODO: Date and location guessed, check if better data is available
-    first_name: magnus
-    dynasty: fairhair_dynasty
+    father: nor_olaf_ii
     adm: 60
     dip: 45
     mil: 60
@@ -132,13 +276,14 @@ nor_magnus_i_fairhair:
   1047.10.25:
     death: yes
 nor_harald_iii_hardrada:
-  1017.1.1:
-    birth: oslo #TODO: Date and location guessed, check if better data is available
-    first_name: harald
+  1015:
+    birth: oslo #TODO: Ringerike
+    first_name: name_harold
+    nickname: nick_hardrada
     dynasty: hardrada_dynasty
-    adm: 60
-    dip: 45
-    mil: 75
+    adm: 70
+    dip: 55
+    mil: 85
     religion: catholic
     culture: norwegian
     tag: NOR

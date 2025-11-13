@@ -44,7 +44,7 @@ jobs:
         id: push_changes
         run: |
           git fetch origin ${{ github.ref_name }}
-          CHANGED_FILES=$(git diff --name-only main..HEAD | grep -E '^(characters/|countries/|locations/)' | grep -E '.ya?ml$')
+          CHANGED_FILES=$(git diff --name-only ${{ github.event.before }} ${{ github.event.after }} | grep -E '^(characters/|countries/|locations/)' | grep -E '.ya?ml$')
           CHANGED_FILES_ENCODED=$(echo -n "$CHANGED_FILES" | base64 -w 0)
           echo "changed=$CHANGED_FILES_ENCODED" >> $GITHUB_OUTPUT
 

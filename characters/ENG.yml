@@ -187,44 +187,61 @@ eng_edmund_ii_of_wessex:
     tag: ENG
   1016.11.30:
     death: yes
-eng_edmund_ii_of_wessex_1:
-  986.1.1:
-    birth: london #TODO: Date and location guessed, check if better data is available
-    first_name: edmund
-    dynasty: of_wessex_dynasty
-    adm: 75
-    dip: 75
-    mil: 45
+eng_emma_of_normandy:
+  984:
+    birth: caen #Normandy
+    first_name: name_emma
+    dynasty: normandy_dynasty
     religion: catholic
-    culture: anglo_saxon
+    culture: norman
     tag: ENG
-  1016.11.30:
+  1017:
+    spouse: eng_cnut_the_great
+  1052.3.6:
     death: yes
-eng_knud_i_knytling:
-  986.1.1:
-    birth: london #TODO: Date and location guessed, check if better data is available
-    first_name: knud
-    dynasty: knytling_dynasty
-    adm: 60
-    dip: 75
-    mil: 90
-    religion: catholic
-    culture: anglo_saxon
-    tag: ENG
-  1035.11.13:
-    death: yes
-eng_harald_i_knytling:
-  1005.1.1:
-    birth: london #TODO: Date and location guessed, check if better data is available
-    first_name: harald
-    dynasty: knytling_dynasty
+eng_harold_harefoot:
+  1017:
+    birth: kolding #unknown
+    first_name: name_harold
+    nickname: nick_harefoot
+    dynasty: canute_dynasty
+    father: eng_cnut_the_great
+    mother: dan_aelgifu_of_northampton
     adm: 15
     dip: 15
     mil: 60
     religion: catholic
-    culture: anglo_saxon
+    culture: danish
+    tag: ENG
+  1040.3.17:
+    death: yes
+eng_harthacnute:
+  1018:
+    birth: winchester
+    first_name: name_harthacnut
+    dynasty: canute_dynasty
+    father: eng_cnut_the_great
+    mother: eng_emma_of_normandy
+    adm: 15
+    dip: 15
+    mil: 60
+    religion: catholic
+    culture: danish
     tag: ENG
   1042.6.8:
+    death: yes
+eng_gunhilda_of_denmark:
+  1020:
+    birth: winchester
+    first_name: gunhilda
+    dynasty: canute_dynasty
+    female: yes
+    father: eng_cnut_the_great
+    mother: eng_emma_of_normandy
+    religion: catholic
+    culture: danish
+    tag: ENG
+  1038.7.18:
     death: yes
 eng_edward_ii_of_wessex:
   1012.1.1:

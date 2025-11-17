@@ -116,114 +116,120 @@ dan_ongendus_sigfreding:
   770.1.1:
     death: yes
 dan_sigfred_sigfreding:
-  740.1.1:
-    birth: kobenhavn #TODO: Date and location guessed, check if better data is available
-    first_name: sigfred
+  740:
+    birth: kobenhavn #unknown
+    first_name: name_sigfrid
     dynasty: sigfreding_dynasty
-    father: dan_halfdan_sigfreding #TODO: check if this makes sense
-    adm: 30
-    dip: 15
-    mil: 60
     religion: norse
     culture: danish
     tag: DAN
-  804.1.1:
+  804:
     death: yes
 dan_gudfred_sigfreding:
-  774.1.1:
-    birth: kobenhavn #TODO: Date and location guessed, check if better data is available
+  760:
+    birth: kobenhavn #unknown
     first_name: gudfred
     dynasty: sigfreding_dynasty
-    father: dan_sigfred_sigfreding_1 #TODO: check if this makes sense
-    adm: 30
-    dip: 15
-    mil: 15
+    father: dan_sigfred_sigfreding
     religion: norse
     culture: danish
     tag: DAN
-  810.1.1:
+  810:
+    death: yes
+dan_halfdan_sigfreding:
+  760:
+    birth: kobenhavn #unknown
+    first_name: name_halfdane
+    dynasty: sigfreding_dynasty
+    father: dan_sigfred_sigfreding
+    religion: norse
+    culture: danish
+    tag: DAN
+  807:
     death: yes
 dan_hemming_sigfreding:
-  780.1.1:
-    birth: kobenhavn #TODO: Date and location guessed, check if better data is available
+  780:
+    birth: kobenhavn #unknown
     first_name: hemming
     dynasty: sigfreding_dynasty
-    adm: 75
-    dip: 15
-    mil: 75
+    father: dan_halfdan_sigfreding
     religion: norse
     culture: danish
     tag: DAN
-  812.1.1:
+  812:
+    death: yes
+dan_anulo_sigfreding:
+  782:
+    birth: kobenhavn #unknown
+    first_name: anulo
+    dynasty: sigfreding_dynasty
+    father: dan_halfdan_sigfreding
+    religion: norse
+    culture: danish
+    tag: DAN
+  812:
+    death: yes
+dan_ragnfrid_sigfreding:
+  784:
+    birth: kobenhavn #unknown
+    first_name: ragnfrid
+    dynasty: sigfreding_dynasty
+    father: dan_halfdan_sigfreding
+    religion: norse
+    culture: danish
+    tag: DAN
+  814:
     death: yes
 dan_harald_klak_sigfreding:
-  782.1.1:
-    birth: kobenhavn #TODO: Date and location guessed, check if better data is available
-    first_name: harald_klak
+  785:
+    birth: kobenhavn #unknown
+    first_name: name_harold
+    nickname: nick_klak
     dynasty: sigfreding_dynasty
-    adm: 45
-    dip: 60
-    mil: 75
     religion: norse
     culture: danish
     tag: DAN
-  814.1.1:
-    death: yes
-dan_gudfredsson_sigfreding:
-  784.1.1:
-    birth: kobenhavn #TODO: Date and location guessed, check if better data is available
-    first_name: gudfredsson
-    dynasty: sigfreding_dynasty
-    adm: 75
-    dip: 75
-    mil: 30
-    religion: norse
-    culture: danish
-    tag: DAN
-  827.1.1:
-    death: yes
-dan_harald_klak_sigfreding_1:
-  789.1.1:
-    birth: kobenhavn #TODO: Date and location guessed, check if better data is available
-    first_name: harald_klak
-    dynasty: sigfreding_dynasty
-    adm: 45
-    dip: 60
-    mil: 75
-    religion: norse
-    culture: danish
-    tag: DAN
-  827.1.1:
+  852:
     death: yes
 dan_horik_i_sigfreding:
-  797.1.1:
-    birth: kobenhavn #TODO: Date and location guessed, check if better data is available
+  790:
+    birth: kobenhavn #unknown
     first_name: horik
     dynasty: sigfreding_dynasty
-    adm: 75
-    dip: 75
-    mil: 30
+    father: dan_gudfred_sigfreding
     religion: norse
     culture: danish
     tag: DAN
-  854.1.1:
+  854:
     death: yes
 dan_horik_ii_sigfreding:
-  824.1.1:
-    birth: kobenhavn #TODO: Date and location guessed, check if better data is available
+  820:
+    birth: kobenhavn #unknown
     first_name: horik
     dynasty: sigfreding_dynasty
-    adm: 30
-    dip: 75
-    mil: 30
+    father: dan_horik_i_sigfreding
     religion: norse
     culture: danish
     tag: DAN
-  860.1.1:
+  870:
+    death: yes
+dan_ragnar_lodbrok:
+  830:
+    birth: kobenhavn #unknown
+    first_name: name_rayner
+    nickname: nick_lodbrok
+    dynasty: sigfreding_dynasty
+    adm: 60
+    dip: 60
+    mil: 90
+    religion: norse
+    culture: danish
+    tag: DAN
+  865:
     death: yes
 dan_bagsecg_sigfreding:
-  830.1.1:
-    birth: kobenhavn #TODO: Date and location guessed, check if better data is available
+  830:
+    birth: kobenhavn #unknown
     first_name: bagsecg
     dynasty: sigfreding_dynasty
     adm: 75
@@ -232,252 +238,312 @@ dan_bagsecg_sigfreding:
     religion: norse
     culture: danish
     tag: DAN
-  871.1.1:
+  871.1.8:
     death: yes
 dan_halfdan_sigfreding:
-  841.1.1:
-    birth: kobenhavn #TODO: Date and location guessed, check if better data is available
-    first_name: halfdan
+  845:
+    birth: kobenhavn #unknown
+    first_name: name_halfdane
+    nickname: nick_whiteshirt
     dynasty: sigfreding_dynasty
+    father: dan_ragnar_lodbrok
     adm: 45
     dip: 60
     mil: 60
     religion: norse
     culture: danish
     tag: DAN
-  873.1.1:
+  877:
     death: yes
 dan_sigfred_sigfreding_1:
-  843.1.1:
-    birth: kobenhavn #TODO: Date and location guessed, check if better data is available
-    first_name: sigfred
+  850:
+    birth: kobenhavn #unknown
+    first_name: name_sigurd
+    nickname: nick_snake_in_the_eye
     dynasty: sigfreding_dynasty
-    adm: 30
-    dip: 30
-    mil: 45
+    father: dan_ragnar_lodbrok
+    adm: 45
+    dip: 60
+    mil: 60
     religion: norse
     culture: danish
     tag: DAN
-  880.1.1:
-    death: yes
-dan_gudfred_sigfreding_1:
-  850.1.1:
-    birth: kobenhavn #TODO: Date and location guessed, check if better data is available
-    first_name: gudfred
-    dynasty: sigfreding_dynasty
-    adm: 15
-    dip: 15
-    mil: 15
-    religion: norse
-    culture: danish
-    tag: DAN
-  890.1.1:
+  887:
     death: yes
 dan_heiligo_sigfreding:
-  860.1.1:
-    birth: kobenhavn #TODO: Date and location guessed, check if better data is available
-    first_name: heiligo
+  860:
+    birth: kobenhavn #unknown
+    first_name: helge
     dynasty: sigfreding_dynasty
-    adm: 30
-    dip: 30
-    mil: 75
     religion: norse
     culture: danish
     tag: DAN
-  900.1.1:
+  900:
     death: yes
 dan_olof_olafid:
-  870.1.1:
-    birth: kobenhavn #TODO: Date and location guessed, check if better data is available
-    first_name: olof
+  870:
+    birth: kolding #unknown
+    first_name: name_olaf
     dynasty: olafid_dynasty
-    adm: 45
-    dip: 30
-    mil: 45
     religion: norse
     culture: danish
     tag: DAN
-  920.1.1:
+  920:
+    death: yes
+dan_harthacnut_knytling:
+  875:
+    birth: kolding #unknown
+    first_name: hardeknud
+    dynasty: canute_dynasty
+    religion: norse
+    culture: danish
+    tag: DAN
+  936:
     death: yes
 dan_gyrd_olafid:
-  890.1.1:
-    birth: kobenhavn #TODO: Date and location guessed, check if better data is available
+  890:
+    birth: kolding #unknown
     first_name: gyrd
     dynasty: olafid_dynasty
-    adm: 15
-    dip: 30
-    mil: 15
+    father: dan_olof_olafid
     religion: norse
     culture: danish
     tag: DAN
-  930.1.1:
+  930:
+    death: yes
+dan_gnupa_olafid:
+  890:
+    birth: kolding #unknown
+    first_name: gnupa
+    dynasty: olafid_dynasty
+    father: dan_olof_olafid
+    religion: norse
+    culture: danish
+    tag: DAN
+  930:
+    death: yes
+dan_gorm_the_old:
+  890:
+    birth: kolding #unknown
+    first_name: gorm
+    dynasty: canute_dynasty
+    father: dan_harthacnut_knytling
+    adm: 30
+    dip: 45
+    mil: 30
+    religion: norse
+    culture: danish
+    tag: DAN
+  936:
+    nickname: the_old
+  963:
+    death: yes
+dan_thyra:
+  890:
+    birth: kolding #unknown
+    first_name: thyra
+    female: yes
+    religion: norse
+    culture: danish
+    tag: DAN
+  920:
+    spouse: dan_gorm_the_old
+  960:
     death: yes
 dan_sigtrygg_olafid:
-  900.1.1:
-    birth: kobenhavn #TODO: Date and location guessed, check if better data is available
+  910:
+    birth: kolding #unknown
     first_name: sigtrygg
     dynasty: olafid_dynasty
-    adm: 75
-    dip: 60
-    mil: 60
+    father: dan_gnupa_olafid
     religion: norse
     culture: danish
     tag: DAN
-  936.1.1:
+  934:
     death: yes
-dan_gorm_i_knytling:
-  906.1.1:
-    birth: kobenhavn #TODO: Date and location guessed, check if better data is available
-    first_name: gorm
-    dynasty: knytling_dynasty
-    adm: 30
-    dip: 45
-    mil: 30
+dan_harald_bluetooth:
+  930:
+    birth: kolding #unknown
+    first_name: name_harold
+    nickname: nick_bluetooth
+    dynasty: canute_dynasty
+    father: dan_gorm_the_old
+    mother: dan_thyra
+    adm: 70
+    dip: 55
+    mil: 50
     religion: norse
     culture: danish
     tag: DAN
-  958.1.1:
-    death: yes
-dan_harald_i_knytling:
-  925.1.1:
-    birth: kobenhavn #TODO: Date and location guessed, check if better data is available
-    first_name: harald
-    dynasty: knytling_dynasty
-    father: dan_gorm_i_knytling #TODO: check if this makes sense
-    adm: 30
-    dip: 45
-    mil: 30
-    religion: norse
-    culture: danish
-    tag: DAN
-  985.11.1:
-    death: yes
-dan_harald_i_knytling_1:
-  928.1.1:
-    birth: kobenhavn #TODO: Date and location guessed, check if better data is available
-    first_name: harald
-    dynasty: knytling_dynasty
-    adm: 30
-    dip: 45
-    mil: 30
+  965:
     religion: catholic
-    culture: danish
-    tag: DAN
-  985.11.1:
+  986:
     death: yes
-dan_svend_i_knytling:
-  960.1.1:
-    birth: kobenhavn #TODO: Date and location guessed, check if better data is available
-    first_name: svend
-    dynasty: knytling_dynasty
-    father: dan_harald_i_knytling_1 #TODO: check if this makes sense
-    adm: 75
-    dip: 45
-    mil: 75
+dan_tove_of_the_obotrites:
+  940:
+    birth: schwerin #Obotritia
+    first_name: tove
+    female: yes
+    religion: romuva
+    culture: polabian
+    tag: OBOT
+  963:
+    spouse: dan_harald_bluetooth
+    tag: DAN
+  1000:
+    death: yes
+dan_toke_gormsson:
+  947:
+    birth: kolding #unknown
+    first_name: toke
+    dynasty: canute_dynasty
+    father: dan_gorm_the_old
+    mother: dan_thyra
     religion: norse
     culture: danish
     tag: DAN
-  1014.2.3:
+  986:
     death: yes
-dan_svend_i_knytling_1:
-  955.1.1:
-    birth: kobenhavn #TODO: Date and location guessed, check if better data is available
-    first_name: svend
-    dynasty: knytling_dynasty
+eng_sweyn_forkbeard:
+  960:
+    birth: kolding #unknown
+    first_name: name_sven
+    nickname: nick_forkbeard
+    dynasty: canute_dynasty
+    father: dan_harald_bluetooth
+    mother: dan_tove_of_the_obotrites
     adm: 75
     dip: 45
     mil: 75
-    religion: catholic
+    religion: norse
     culture: danish
     tag: DAN
+  965:
+    religion: catholic
+  1013.11:
+    tag: ENG
   1014.2.3:
     death: yes
-dan_harald_ii_knytling:
-  984.1.1:
-    birth: kobenhavn #TODO: Date and location guessed, check if better data is available
-    first_name: harald
-    dynasty: knytling_dynasty
-    adm: 30
-    dip: 60
-    mil: 30
+dan_swietoslawa:
+  978:
+    birth: poznan #Poland
+    first_name: name_svyatoslava
+    dynasty: piast_dynasty
+    female: yes
     religion: catholic
-    culture: danish
+    culture: greater_polish
+    tag: POL
+  985:
+    spouse: eng_sweyn_forkbeard
     tag: DAN
-  1018.1.1:
+  1020:
     death: yes
-dan_knud_i_knytling:
-  995.1.1:
-    birth: kobenhavn #TODO: Date and location guessed, check if better data is available
-    first_name: knud
-    dynasty: knytling_dynasty
-    father: dan_harald_ii_knytling #TODO: check if this makes sense
-    adm: 60
+eng_cnut_the_great:
+  990:
+    birth: kolding #unknown
+    first_name: name_canute
+    dynasty: canute_dynasty
+    father: eng_sweyn_forkbeard
+    mother: dan_swietoslawa
+    adm: 70
     dip: 75
     mil: 90
     religion: catholic
     culture: danish
     tag: DAN
+  1016.11.30:
+    tag: ENG
   1035.11.12:
     death: yes
-dan_knud_i_knytling_1:
-  988.1.1:
-    birth: kobenhavn #TODO: Date and location guessed, check if better data is available
-    first_name: knud
-    dynasty: knytling_dynasty
-    adm: 60
-    dip: 75
-    mil: 90
+dan_aelgifu_of_northampton:
+  978:
+    birth: northampton
+    first_name: aelgifu
+    female: yes
+    religion: catholic
+    culture: northumbrian
+    tag: ENG
+  1010:
+    spouse: eng_cnut_the_great
+    tag: DAN
+  1016.11.30:
+    spouse: ---
+  1040:
+    death: yes
+dan_ulf_thorgilsson:
+  995:
+    birth: kolding #unknown
+    first_name: ulf
+    dynasty: estrid_dynasty
     religion: catholic
     culture: danish
     tag: DAN
-  1035.11.12:
+  1026.12.25:
     death: yes
-dan_hardeknud_ii_knytling:
-  1020.1.1:
-    birth: kobenhavn #TODO: Date and location guessed, check if better data is available
-    first_name: hardeknud
-    dynasty: knytling_dynasty
-    father: dan_knud_i_knytling_1 #TODO: check if this makes sense
-    adm: 75
-    dip: 45
-    mil: 75
-    religion: catholic
-    culture: danish
-    tag: DAN
-  1042.6.8:
-    death: yes
-dan_hardeknud_ii_knytling_1:
-  1005.1.1:
-    birth: kobenhavn #TODO: Date and location guessed, check if better data is available
-    first_name: hardeknud
-    dynasty: knytling_dynasty
-    adm: 75
-    dip: 45
-    mil: 75
-    religion: catholic
-    culture: danish
-    tag: DAN
-  1047.10.25:
-    death: yes
-dan_svend_ii_estridsen:
-  1017.1.1:
-    birth: kobenhavn #TODO: Date and location guessed, check if better data is available
-    first_name: svend
-    dynasty: estridsen_dynasty
+dan_harald_ii:
+  996:
+    birth: kolding #unknown
+    first_name: name_harold
+    dynasty: canute_dynasty
+    father: eng_sweyn_forkbeard
+    mother: dan_swietoslawa
     adm: 30
-    dip: 15
-    mil: 15
+    dip: 60
+    mil: 30
     religion: catholic
     culture: danish
     tag: DAN
-  1074.4.28:
+  1018:
     death: yes
-dan_harald_iii_estridsen:
-  1040.1.1:
-    birth: kobenhavn #TODO: Date and location guessed, check if better data is available
-    first_name: harald
-    dynasty: estridsen_dynasty
-    father: dan_svend_ii_estridsen #TODO: check if this makes sense
+dan_estrid_svensdatter:
+  997:
+    birth: aarhus
+    first_name: name_astrid
+    dynasty: canute_dynasty
+    female: yes
+    father: eng_sweyn_forkbeard
+    mother: dan_swietoslawa
+    religion: catholic
+    culture: danish
+    tag: DAN
+  1015:
+    spouse: dan_ulf_thorgilsson
+  1073:
+    death: yes
+eng_svein_knutsson:
+  1016:
+    birth: kolding #unknown
+    first_name: name_sven
+    dynasty: canute_dynasty
+    father: eng_cnut_the_great
+    mother: dan_aelgifu_of_northampton
+    religion: catholic
+    culture: danish
+    tag: DAN
+  1035:
+    death: yes
+dan_sweyn_estridsson:
+  1019:
+    birth: london #England
+    first_name: name_sven
+    dynasty: estrid_dynasty
+    father: dan_ulf_thorgilsson
+    mother: dan_estrid_svensdatter
+    adm: 70
+    dip: 45
+    mil: 35
+    religion: catholic
+    culture: danish
+    tag: DAN
+  1076.4.28:
+    death: yes
+dan_harald_iii:
+  1040:
+    birth: aarhus #unknown
+    first_name: name_harold
+    nickname: nick_the_soft
+    dynasty: estrid_dynasty
+    father: dan_sweyn_estridsson
     adm: 75
     dip: 45
     mil: 45
@@ -486,38 +552,25 @@ dan_harald_iii_estridsen:
     tag: DAN
   1080.4.17:
     death: yes
-dan_harald_iii_estridsen_1:
-  1044.1.1:
-    birth: kobenhavn #TODO: Date and location guessed, check if better data is available
-    first_name: harald
-    dynasty: estridsen_dynasty
-    adm: 75
-    dip: 45
-    mil: 45
+dan_sigrid_svensdatter:
+  1040:
+    birth: aarhus #unknown
+    first_name: name_sigrid
+    dynasty: estrid_dynasty
+    female: yes
+    father: dan_sweyn_estridsson
     religion: catholic
     culture: danish
     tag: DAN
-  1080.4.17:
+  1070:
     death: yes
-dan_knud_iv_estridsen:
-  1042.1.1:
-    birth: kobenhavn #TODO: Date and location guessed, check if better data is available
-    first_name: knud
-    dynasty: estridsen_dynasty
-    father: dan_harald_iii_estridsen_1 #TODO: check if this makes sense
-    adm: 75
-    dip: 60
-    mil: 60
-    religion: catholic
-    culture: danish
-    tag: DAN
-  1086.7.10:
-    death: yes
-dan_knud_iv_estridsen_1:
-  1050.1.1:
-    birth: kobenhavn #TODO: Date and location guessed, check if better data is available
-    first_name: knud
-    dynasty: estridsen_dynasty
+dan_canute_iv:
+  1042:
+    birth: aarhus #unknown
+    first_name: name_canute
+    nickname: nick_the_holy
+    dynasty: estrid_dynasty
+    father: dan_sweyn_estridsson
     adm: 75
     dip: 60
     mil: 60
@@ -526,12 +579,13 @@ dan_knud_iv_estridsen_1:
     tag: DAN
   1086.7.10:
     death: yes
-dan_olaf_i_estridsen:
-  1050.1.1:
-    birth: kobenhavn #TODO: Date and location guessed, check if better data is available
-    first_name: olaf
-    dynasty: estridsen_dynasty
-    father: dan_knud_iv_estridsen_1 #TODO: check if this makes sense
+dan_olaf_hunger:
+  1050:
+    birth: aarhus #unknown
+    first_name: name_olaf
+    nickname: nick_hunger
+    dynasty: estrid_dynasty
+    father: dan_sweyn_estridsson
     adm: 60
     dip: 15
     mil: 15
@@ -540,25 +594,26 @@ dan_olaf_i_estridsen:
     tag: DAN
   1095.8.18:
     death: yes
-dan_olaf_i_estridsen_1:
-  1056.1.1:
-    birth: kobenhavn #TODO: Date and location guessed, check if better data is available
-    first_name: olaf
-    dynasty: estridsen_dynasty
-    adm: 60
-    dip: 15
-    mil: 15
+dan_svend_the_crusader:
+  1050:
+    birth: aarhus #unknown
+    first_name: name_sven
+    nickname: nick_the_crusader
+    dynasty: estrid_dynasty
+    female: yes
+    father: dan_sweyn_estridsson
     religion: catholic
     culture: danish
     tag: DAN
-  1095.8.18:
+  1097:
     death: yes
-dan_erik_i_estridsen:
-  1050.1.1:
-    birth: kobenhavn #TODO: Date and location guessed, check if better data is available
-    first_name: erik
-    dynasty: estridsen_dynasty
-    father: dan_olaf_i_estridsen_1 #TODO: check if this makes sense
+dan_erik_i:
+  1056:
+    birth: helsingor #unknown
+    first_name: name_eric
+    nickname: nick_the_good
+    dynasty: estrid_dynasty
+    father: dan_sweyn_estridsson
     adm: 45
     dip: 30
     mil: 30
@@ -567,25 +622,61 @@ dan_erik_i_estridsen:
     tag: DAN
   1103.7.10:
     death: yes
-dan_erik_i_estridsen_1:
-  1065.1.1:
-    birth: kobenhavn #TODO: Date and location guessed, check if better data is available
-    first_name: erik
-    dynasty: estridsen_dynasty
-    adm: 45
-    dip: 30
-    mil: 30
+dan_svend_tronkraever:
+  1058:
+    birth: helsingor #unknown
+    first_name: name_sven
+    dynasty: estrid_dynasty
+    father: dan_sweyn_estridsson
     religion: catholic
     culture: danish
     tag: DAN
-  1103.7.10:
+  1104:
     death: yes
-dan_niels_i_estridsen:
-  1065.1.1:
-    birth: kobenhavn #TODO: Date and location guessed, check if better data is available
-    first_name: niels
-    dynasty: estridsen_dynasty
-    father: dan_erik_i_estridsen_1 #TODO: check if this makes sense
+dan_boedil_thurgotsdatter:
+  1060:
+    birth: aarhus #unknown
+    first_name: boedil
+    female: yes
+    religion: catholic
+    culture: danish
+    tag: DAN
+  1085:
+    spouse: dan_erik_i
+  1103:
+    death: yes
+dan_bjorn_svendsen:
+  1062:
+    birth: aarhus #unknown
+    first_name: name_bjorn
+    dynasty: estrid_dynasty
+    father: dan_sweyn_estridsson
+    religion: catholic
+    culture: danish
+    tag: DAN
+  1100:
+    death: yes
+dan_adela_of_flanders:
+  1060:
+    birth: bruges #unknown
+    first_name: name_adela
+    female: yes
+    religion: catholic
+    culture: flemish
+    tag: FLA
+  1080:
+    spouse: dan_canute_iv
+    tag: DAN
+  1086.7.10:
+    tag: FLA
+  1115.4:
+    death: yes
+dan_niels:
+  1065:
+    birth: aarhus #unknown
+    first_name: name_nicholas
+    dynasty: estrid_dynasty
+    father: dan_sweyn_estridsson
     adm: 60
     dip: 30
     mil: 60
@@ -594,52 +685,127 @@ dan_niels_i_estridsen:
     tag: DAN
   1134.6.25:
     death: yes
-dan_niels_i_estridsen_1:
-  1073.1.1:
-    birth: kobenhavn #TODO: Date and location guessed, check if better data is available
-    first_name: niels
-    dynasty: estridsen_dynasty
-    adm: 60
-    dip: 30
-    mil: 60
+dan_harald_the_spear:
+  1080:
+    birth: aarhus #unknown
+    first_name: name_harold
+    nickname: nick_the_spear
+    dynasty: estrid_dynasty
+    father: dan_erik_i
     religion: catholic
     culture: danish
     tag: DAN
-  1134.6.25:
+  1135:
     death: yes
-dan_erik_ii_estridsen:
-  1090.1.1:
+dan_cecilia_knudsdatter:
+  1081:
+    birth: aarhus #unknown
+    first_name: name_cecile
+    dynasty: estrid_dynasty
+    female: yes
+    father: dan_canute_iv
+    mother: dan_adela_of_flanders
+    religion: catholic
+    culture: danish
+    tag: DAN
+  1140:
+    death: yes
+dan_ingegerd_knudsdatter:
+  1082:
+    birth: aarhus #unknown
+    first_name: ingegerd
+    dynasty: estrid_dynasty
+    female: yes
+    father: dan_canute_iv
+    mother: dan_adela_of_flanders
+    religion: catholic
+    culture: danish
+    tag: DAN
+  1140:
+    death: yes
+dan_henrik_skadelar:
+  1090:
+    birth: aarhus #unknown
+    first_name: name_henry
+    dynasty: estrid_dynasty
+    father: dan_svend_tronkraever
+    religion: catholic
+    culture: danish
+    tag: DAN
+  1134.6.4:
+    death: yes
+dan_ragnild_magnusdotter:
+  1090:
+    birth: oslo #unknown
+    first_name: ragnild
+    dynasty: hardrada_dynasty
+    father: nor_magnus_iii_hardrada
+    religion: catholic
+    culture: norwegian
+    tag: NOR
+  1110:
+    spouse: dan_harald_the_spear
+  1150:
+    death: yes
+dan_erik_ii:
+  1090:
     birth: kobenhavn #TODO: Date and location guessed, check if better data is available
-    first_name: erik
-    dynasty: estridsen_dynasty
-    father: dan_niels_i_estridsen_1 #TODO: check if this makes sense
+    first_name: name_eric
+    nickname: nick_the_memorable
+    dynasty: estrid_dynasty
+    father: dan_erik_i
     adm: 75
     dip: 15
     mil: 60
     religion: catholic
     culture: danish
     tag: DAN
-  1137.7.18:
+  1137.9.18:
     death: yes
-dan_erik_ii_estridsen_1:
-  1104.1.1:
-    birth: kobenhavn #TODO: Date and location guessed, check if better data is available
-    first_name: erik
-    dynasty: estridsen_dynasty
-    adm: 75
-    dip: 15
-    mil: 60
+dan_hakon_sunnivasson:
+  1090:
+    birth: roskilde #unknown
+    first_name: name_hacon
     religion: catholic
     culture: danish
     tag: DAN
-  1137.7.18:
+  1115:
+    spouse: dan_ragnhild
+  1130:
     death: yes
-dan_erik_iii_estridsen:
+dan_ragnhild:
+  1095:
+    birth: roskilde #unknown
+    first_name: name_ragnhild
+    dynasty: estrid_dynasty
+    female: yes
+    father: dan_erik_i
+    religion: catholic
+    culture: danish
+    tag: DAN
+  1140:
+    death: yes
+dan_bjorn_haraldsen_ironside:
+  1105:
+    birth: aarhus #unknown
+    first_name: name_bjorn
+    nickname: nick_ironside
+    dynasty: estrid_dynasty
+    father: dan_harald_the_spear
+    mother: dan_ragnild_magnusdotter
+    religion: catholic
+    culture: danish
+    tag: DAN
+  1134:
+    death: yes
+dan_erik_iii:
   1120.1.1:
-    birth: kobenhavn #TODO: Date and location guessed, check if better data is available
-    first_name: erik
-    dynasty: estridsen_dynasty
-    father: dan_erik_ii_estridsen_1 #TODO: check if this makes sense
+    birth: roskilde #unknown
+    first_name: name_eric
+    nickname: nick_the_lamb
+    dynasty: estrid_dynasty
+    father: dan_hakon_sunnivasson
+    mother: dan_ragnhild
     adm: 15
     dip: 75
     mil: 30
@@ -648,160 +814,329 @@ dan_erik_iii_estridsen:
     tag: DAN
   1146.8.27:
     death: yes
-dan_erik_iii_estridsen_1:
-  1107.1.1:
-    birth: kobenhavn #TODO: Date and location guessed, check if better data is available
-    first_name: erik
-    dynasty: estridsen_dynasty
+dan_sweyn_iii:
+  1125:
+    birth: roskilde #unknown
+    first_name: name_sven
+    dynasty: estrid_dynasty
+    father: dan_erik_ii
     adm: 15
     dip: 75
     mil: 30
     religion: catholic
     culture: danish
     tag: DAN
-  1146.8.27:
+  1157.10.23:
     death: yes
-dan_valdemar_i_estridsen:
+dan_adela_of_meissen:
+  1125:
+    birth: meissen
+    first_name: name_adela
+    dynasty: wettin_dynasty
+    religion: catholic
+    culture: saxon
+    tag: MEI
+  1152:
+    spouse: dan_sweyn_iii
+    tag: DAN
+  1181.10.23:
+    death: yes
+dan_canute_v:
+  1129:
+    birth: roskilde #unknown
+    first_name: name_canute
+    dynasty: estrid_dynasty
+    father: swe_magnus_i
+    mother: swe_richeza_of_poland
+    religion: catholic
+    culture: danish
+    tag: DAN
+  1157.8.9:
+    death: yes
+dan_helena_of_sweden:
+  1131:
+    birth: linkoping #unknown
+    first_name: name_helen
+    dynasty: sverker_dynasty
+    father: swe_sverker_elder
+    mother: swe_ulvild_hakansdotter
+    religion: catholic
+    culture: swedish
+    tag: SWE
+  1156:
+    spouse: dan_canute_v
+    tag: DAN
+  1158:
+    death: yes
+dan_valdemar_i:
   1131.1.14:
-    birth: kobenhavn #TODO: Location guessed, check if better data is available
+    birth: slesvig #unknown
     first_name: valdemar
-    dynasty: estridsen_dynasty
-    father: dan_erik_iii_estridsen_1 #TODO: check if this makes sense
+    dynasty: estrid_dynasty
+    father: dan_canute_lavard
+    mother: dan_ingeborg_of_kiev
     adm: 45
     dip: 30
     mil: 75
     religion: catholic
     culture: danish
+    tag: SLV
+  1157.10.23:
     tag: DAN
   1182.5.12:
     death: yes
-dan_valdemar_i_estridsen_1:
-  1116.1.1:
-    birth: kobenhavn #TODO: Date and location guessed, check if better data is available
-    first_name: valdemar
-    dynasty: estridsen_dynasty
-    adm: 45
-    dip: 30
-    mil: 75
+dan_sophia_of_minsk:
+  1141:
+    birth: minsk
+    first_name: name_sophia
+    female: yes
+    religion: orthodox
+    culture: polatskian_culture
+    tag: KIE
+  1157:
+    spouse: dan_valdemar_i
+    tag: DAN
+  1198.5.5:
+    death: yes
+dan_gertrude_of_bavaria:
+  1152:
+    birth: landshut #unknown
+    first_name: name_gertrude
+    dynasty: welfen_dynasty
+    female: yes
+    religion: catholic
+    culture: danube_bavarian
+    tag: UBV
+  1177.2:
+    spouse: dan_canute_vi
+    tag: DAN
+  1197.6.1:
+    death: yes
+dan_sophia_valdemarsdottir:
+  1159:
+    birth: ribe #unknown
+    first_name: name_sophia
+    dynasty: estrid_dynasty
+    female: yes
+    father: dan_valdemar_i
+    mother: dan_sophia_of_minsk
     religion: catholic
     culture: danish
     tag: DAN
-  1182.5.12:
+  1208:
     death: yes
-dan_knud_vi_estridsen:
-  1163.1.1:
-    birth: kobenhavn #TODO: Date and location guessed, check if better data is available
-    first_name: knud
-    dynasty: estridsen_dynasty
-    father: dan_valdemar_i_estridsen_1 #TODO: check if this makes sense
-    adm: 30
+dan_canute_vi:
+  1163:
+    birth: ribe #unknown
+    first_name: name_canute
+    dynasty: estrid_dynasty
+    father: dan_valdemar_i
+    mother: dan_sophia_of_minsk
+    adm: 40
     dip: 30
-    mil: 15
+    mil: 55
     religion: catholic
     culture: danish
     tag: DAN
   1202.11.12:
     death: yes
-dan_knud_vi_estridsen_1:
-  1152.1.1:
-    birth: kobenhavn #TODO: Date and location guessed, check if better data is available
-    first_name: knud
-    dynasty: estridsen_dynasty
-    adm: 30
-    dip: 30
-    mil: 15
+dan_maria_valdemarsdottir:
+  1165:
+    birth: ribe #unknown
+    first_name: name_mary
+    dynasty: estrid_dynasty
+    female: yes
+    father: dan_valdemar_i
+    mother: dan_sophia_of_minsk
     religion: catholic
     culture: danish
     tag: DAN
-  1202.11.12:
+  1200:
     death: yes
-dan_valdemar_ii_estridsen:
-  1170.5.9:
-    birth: kobenhavn #TODO: Location guessed, check if better data is available
-    first_name: valdemar
-    dynasty: estridsen_dynasty
-    father: dan_knud_vi_estridsen_1 #TODO: check if this makes sense
+dan_margaret_valdemarsdottir:
+  1167:
+    birth: ribe #unknown
+    first_name: name_margaret
+    dynasty: estrid_dynasty
+    female: yes
+    father: dan_valdemar_i
+    mother: dan_sophia_of_minsk
+    religion: catholic
+    culture: danish
+    tag: DAN
+  1205:
+    death: yes
+dan_valdemar_ii:
+  1170.6.28:
+    birth: ribe
+    first_name: name_waldemar
+    dynasty: estrid_dynasty
+    father: dan_valdemar_i
+    mother: dan_sophia_of_minsk
     adm: 75
     dip: 75
     mil: 45
     religion: catholic
     culture: danish
     tag: DAN
-  1241.3.28:
-    death: yes
-dan_valdemar_ii_estridsen_1:
-  1172.1.1:
-    birth: kobenhavn #TODO: Date and location guessed, check if better data is available
-    first_name: valdemar
-    dynasty: estridsen_dynasty
-    adm: 75
-    dip: 75
-    mil: 45
-    religion: catholic
-    culture: danish
+  1183:
+    tag: SLV
+  1202.11.12:
     tag: DAN
   1241.3.28:
     death: yes
-dan_erik_iv_estridsen:
-  1216.1.1:
-    birth: kobenhavn #TODO: Date and location guessed, check if better data is available
-    first_name: erik
-    dynasty: estridsen_dynasty
-    father: dan_valdemar_ii_estridsen_1 #TODO: check if this makes sense
+dan_ingeborg_valdemarsdottir:
+  1174:
+    birth: ribe #unknown
+    first_name: name_ingeborg
+    dynasty: estrid_dynasty
+    female: yes
+    father: dan_valdemar_i
+    mother: dan_sophia_of_minsk
+    religion: catholic
+    culture: danish
+    tag: DAN
+  1237.7.29:
+    death: yes
+dan_helena_valdemarsdottir:
+  1176:
+    birth: ribe #unknown
+    first_name: name_helen
+    dynasty: estrid_dynasty
+    female: yes
+    father: dan_valdemar_i
+    mother: dan_sophia_of_minsk
+    religion: catholic
+    culture: danish
+    tag: DAN
+  1233.11.22:
+    death: yes
+dan_dagmar_of_bohemia:
+  1186:
+    birth: meissen
+    first_name: dagmar
+    dynasty: premyslid_dynasty
+    female: yes
+    religion: catholic
+    culture: czech
+    tag: BAV
+  1205:
+    spouse: dan_valdemar_ii
+    tag: DAN
+  1212.5.24:
+    death: yes
+dan_berengaria_of_portugal:
+  1198:
+    birth: lisbon
+    first_name: name_berengaria
+    dynasty: burgundy_portuguese_dynasty
+    female: yes
+    religion: catholic
+    culture: portuguese
+    tag: POR
+  1214:
+    spouse: dan_valdemar_ii
+    tag: DAN
+  1221.3.27:
+    death: yes
+dan_valdemar_the_young:
+  1209:
+    birth: ribe
+    first_name: name_waldemar
+    nickname: the_young
+    dynasty: estrid_dynasty
+    father: dan_valdemar_ii
+    mother: dan_dagmar_of_bohemia
+    religion: catholic
+    culture: danish
+    tag: DAN
+  1231.11.28:
+    death: yes
+dan_eleanor_of_portugal:
+  1211:
+    birth: lisbon
+    first_name: name_eleanor
+    dynasty: burgundy_portuguese_dynasty
+    female: yes
+    religion: catholic
+    culture: portuguese
+    tag: POR
+  1229.6.24:
+    spouse: dan_valdemar_the_young
+    tag: DAN
+  1231.8.28:
+    death: yes
+dan_erik_iv:
+  1216:
+    birth: ribe #unknown
+    first_name: name_eric
+    nickname: nick_plovpenning
+    dynasty: estrid_dynasty
+    father: dan_valdemar_ii
+    mother: dan_berengaria_of_portugal
     adm: 60
     dip: 30
     mil: 45
     religion: catholic
     culture: danish
     tag: DAN
-  1250.8.9:
+  1250.8.10:
     death: yes
-dan_erik_iv_estridsen_1:
-  1211.1.1:
-    birth: kobenhavn #TODO: Date and location guessed, check if better data is available
-    first_name: erik
-    dynasty: estridsen_dynasty
-    adm: 60
-    dip: 30
-    mil: 45
+dan_sophie_valdemarsdottir:
+  1217:
+    birth: ribe #unknown
+    first_name: name_sophia
+    dynasty: estrid_dynasty
+    female: yes
+    father: dan_valdemar_ii
+    mother: dan_berengaria_of_portugal
     religion: catholic
     culture: danish
     tag: DAN
-  1250.8.9:
+  1247:
     death: yes
-dan_abel_i_estridsen:
-  1218.1.1:
-    birth: kobenhavn #TODO: Date and location guessed, check if better data is available
-    first_name: abel
-    dynasty: estridsen_dynasty
-    father: dan_erik_iv_estridsen_1 #TODO: check if this makes sense
+dan_abel:
+  1218:
+    birth: ribe #unknown
+    first_name: name_abel
+    dynasty: estrid_dynasty
+    father: dan_valdemar_ii
+    mother: dan_berengaria_of_portugal
     adm: 75
     dip: 30
     mil: 60
     religion: catholic
     culture: danish
     tag: DAN
-  1252.6.29:
-    death: yes
-dan_abel_i_estridsen_1:
-  1220.1.1:
-    birth: kobenhavn #TODO: Date and location guessed, check if better data is available
-    first_name: abel
-    dynasty: estridsen_dynasty
-    adm: 75
-    dip: 30
-    mil: 60
-    religion: catholic
-    culture: danish
+  1232:
+    tag: SLV
+  1250.8.10:
     tag: DAN
   1252.6.29:
     death: yes
-dan_christopher_i_estridsen:
-  1219.1.1:
-    birth: kobenhavn #TODO: Date and location guessed, check if better data is available
-    first_name: christopher
-    dynasty: estridsen_dynasty
-    father: dan_abel_i_estridsen_1 #TODO: check if this makes sense
+dan_mechtilde_of_holstein:
+  1218:
+    birth: kiel #TODO: Schaumburg
+    first_name: name_matilda
+    dynasty: schauenburg_dynasty
+    female: yes
+    religion: catholic
+    culture: holsatian
+    tag: HOLS
+  1237.4.25:
+    spouse: dan_abel
+    tag: SLV
+  1250.8.10:
+    tag: DAN
+  1288:
+    death: yes
+dan_christopher_i:
+  1219:
+    birth: ribe #unknown
+    first_name: name_christopher
+    dynasty: estrid_dynasty
+    father: dan_valdemar_ii
+    mother: dan_berengaria_of_portugal
     adm: 60
     dip: 30
     mil: 60
@@ -810,25 +1145,84 @@ dan_christopher_i_estridsen:
     tag: DAN
   1259.5.29:
     death: yes
-dan_christopher_i_estridsen_1:
-  1222.1.1:
-    birth: kobenhavn #TODO: Date and location guessed, check if better data is available
-    first_name: christopher
-    dynasty: estridsen_dynasty
-    adm: 60
-    dip: 30
-    mil: 60
+dan_jutta_of_saxony:
+  1223:
+    birth: wittenberg #unknown
+    first_name: jutta
+    dynasty: askanier_dynasty
+    female: yes
+    religion: catholic
+    culture: saxon
+    tag: SAX
+  1239:
+    spouse: dan_erik_iv
+    tag: DAN
+  1251:
+    tag: SAX
+  1267:
+    death: yes
+dan_margaret_sambiria:
+  1223:
+    birth: kolobrzeg #unknown
+    first_name: name_margaret
+    female: yes
+    religion: catholic
+    culture: eastern_pomeranian
+    tag: POM
+  1248:
+    spouse: dan_christopher_i
+    tag: DAN
+  1282.12:
+    death: yes
+dan_sophie_abelsdottir:
+  1240:
+    birth: slesvig #unknown
+    first_name: name_sophia
+    dynasty: estrid_dynasty
+    female: yes
+    father: dan_abel
+    mother: dan_mechtilde_of_holstein
+    religion: catholic
+    culture: danish
+    tag: SLV
+  1250.8.10:
+    tag: DAN
+  1285:
+    death: yes
+dan_jutta_eriksdottir:
+  1246:
+    birth: ribe #unknown
+    first_name: jutta
+    dynasty: estrid_dynasty
+    female: yes
+    father: dan_erik_iv
+    mother: dan_jutta_of_saxony
     religion: catholic
     culture: danish
     tag: DAN
-  1259.5.29:
+  1284:
     death: yes
-dan_erik_v_estridsen:
-  1249.1.1:
-    birth: kobenhavn #TODO: Date and location guessed, check if better data is available
+dan_agnes_eriksdottir:
+  1249:
+    birth: ribe #unknown
+    first_name: name_agnes
+    dynasty: estrid_dynasty
+    female: yes
+    father: dan_erik_iv
+    mother: dan_jutta_of_saxony
+    religion: catholic
+    culture: danish
+    tag: DAN
+  1295:
+    death: yes
+dan_erik_v:
+  1249:
+    birth: navskov
     first_name: erik
-    dynasty: estridsen_dynasty
-    father: dan_christopher_i_estridsen_1 #TODO: check if this makes sense
+    nickname: nick_klipping
+    dynasty: estrid_dynasty
+    father: dan_christopher_i
+    mother: dan_margaret_sambiria
     adm: 15
     dip: 30
     mil: 45
@@ -837,25 +1231,78 @@ dan_erik_v_estridsen:
     tag: DAN
   1286.11.22:
     death: yes
-dan_erik_v_estridsen_1:
-  1229.1.1:
-    birth: kobenhavn #TODO: Date and location guessed, check if better data is available
-    first_name: erik
-    dynasty: estridsen_dynasty
-    adm: 15
-    dip: 30
-    mil: 45
+dan_matilda_christophersdotter:
+  1250:
+    birth: roskilde #unknown
+    first_name: name_matilda
+    dynasty: estrid_dynasty
+    female: yes
+    father: dan_christopher_i
+    mother: dan_margaret_sambiria
     religion: catholic
     culture: danish
     tag: DAN
-  1286.11.22:
+  1300:
     death: yes
-dan_erik_vi_estridsen:
-  1274.1.1:
-    birth: kobenhavn #TODO: Date and location guessed, check if better data is available
-    first_name: erik
-    dynasty: estridsen_dynasty
-    father: dan_erik_v_estridsen_1 #TODO: check if this makes sense
+dan_abel_schleswig:
+  1252:
+    birth: slesvig #unknown
+    first_name: name_abel
+    dynasty: estrid_dynasty
+    father: dan_abel
+    mother: dan_mechtilde_of_holstein
+    religion: catholic
+    culture: danish
+    tag: DAN
+  1279.4.2:
+    death: yes
+dan_margaret_christophersdotter:
+  1257:
+    birth: roskilde #unknown
+    first_name: name_margaret
+    dynasty: estrid_dynasty
+    female: yes
+    father: dan_christopher_i
+    mother: dan_margaret_sambiria
+    religion: catholic
+    culture: danish
+    tag: DAN
+  1306:
+    death: yes
+dan_agnes_of_brandenburg:
+  1257:
+    birth: brandenburg
+    first_name: name_agnes
+    female: yes
+    religion: catholic
+    culture: markish
+    tag: BRA
+  1273.11.11:
+    spouse: dan_erik_v
+    tag: DAN
+  1304.9.29:
+    death: yes
+dan_rikissa_eriksdotter:
+  1272:
+    birth: kolding #unknown
+    first_name: name_rikissa
+    dynasty: estrid_dynasty
+    female: yes
+    father: dan_erik_v
+    mother: dan_agnes_of_brandenburg
+    religion: catholic
+    culture: danish
+    tag: DAN
+  1308.10.27:
+    death: yes
+dan_erik_vi:
+  1274:
+    birth: navskov #unknown
+    first_name: name_eric
+    nickname: nick_menved
+    dynasty: estrid_dynasty
+    father: dan_erik_v
+    mother: dan_agnes_of_brandenburg
     adm: 45
     dip: 75
     mil: 75
@@ -864,7 +1311,22 @@ dan_erik_vi_estridsen:
     tag: DAN
   1319.11.13:
     death: yes
-swe_ingeborg_magnusdotter:
+dan_chistopher_ii:
+  1276.9.29:
+    birth: helsingor #unknown
+    first_name: name_christopher
+    dynasty: estrid_dynasty
+    father: dan_erik_v
+    mother: dan_agnes_of_brandenburg
+    adm: 60
+    dip: 60
+    mil: 75
+    religion: catholic
+    culture: danish
+    tag: DAN
+  1332.8.2:
+    death: yes
+dan_ingeborg_magnusdotter:
   1277:
     birth: stockholm #unknown
     first_name: name_ingeborg
@@ -880,213 +1342,239 @@ swe_ingeborg_magnusdotter:
     tag: DAN
   1319.8.15:
     death: yes
-dan_erik_vi_estridsen_1:
-  1256.1.1:
-    birth: kobenhavn #TODO: Date and location guessed, check if better data is available
-    first_name: erik
-    dynasty: estridsen_dynasty
-    adm: 45
-    dip: 75
-    mil: 75
+dan_euphemia_of_pomerania:
+  1285:
+    birth: wolgast
+    first_name: name_euphemia
+    dynasty: gryf_dynasty
+    female: yes
+    father: pom_bogislaw_iv
     religion: catholic
-    culture: danish
+    culture: markish
+    tag: WOL
+  1304:
+    spouse: dan_chistopher_ii
     tag: DAN
-  1319.11.13:
+  1330.7.26:
     death: yes
-dan_christopher_ii_estridsen:
-  1276.9.29:
-    birth: kobenhavn #TODO: Location guessed, check if better data is available
-    first_name: christopher
-    dynasty: estridsen_dynasty
-    father: dan_erik_vi_estridsen_1 #TODO: check if this makes sense
-    adm: 60
-    dip: 60
-    mil: 75
-    religion: catholic
-    culture: danish
-    tag: DAN
-  1332.8.2:
-    death: yes
-dan_christopher_ii_estridsen_1:
-  1289.1.1:
-    birth: kobenhavn #TODO: Date and location guessed, check if better data is available
-    first_name: christopher
-    dynasty: estridsen_dynasty
-    adm: 60
-    dip: 60
-    mil: 75
-    religion: catholic
-    culture: danish
-    tag: DAN
-  1321.1.1:
-    death: yes
-dan_erik_christophersen_estridsen:
-  1307.1.1:
-    birth: kobenhavn #TODO: Date and location guessed, check if better data is available
-    first_name: erik_christophersen
-    dynasty: estridsen_dynasty
-    father: dan_christopher_ii_estridsen_1 #TODO: check if this makes sense
+dan_erik_christoffersen:
+  1307:
+    birth: helsingor #unknown
+    first_name: name_eric
+    nickname: nick_christoffersen
+    dynasty: estrid_dynasty
+    father: dan_chistopher_ii
+    mother: dan_euphemia_of_pomerania
     adm: 15
     dip: 75
     mil: 45
     religion: catholic
     culture: danish
     tag: DAN
-  1332.1.1:
+  1331.12:
     death: yes
-dan_erik_christophersen_estridsen_1:
-  1291.1.1:
-    birth: kobenhavn #TODO: Date and location guessed, check if better data is available
-    first_name: erik_christophersen
-    dynasty: estridsen_dynasty
-    adm: 15
-    dip: 75
-    mil: 45
+dan_otto_christoffersen:
+  1310:
+    birth: helsingor #unknown
+    first_name: name_otto
+    dynasty: estrid_dynasty
+    father: dan_chistopher_ii
+    mother: dan_euphemia_of_pomerania
     religion: catholic
     culture: danish
     tag: DAN
-  1326.1.1:
+  1347:
     death: yes
-dan_valdemar_iii_estridsen:
-  1314.1.1:
-    birth: kobenhavn #TODO: Date and location guessed, check if better data is available
-    first_name: valdemar
-    dynasty: estridsen_dynasty
-    father: dan_erik_christophersen_estridsen_1 #TODO: check if this makes sense
-    adm: 45
-    dip: 45
-    mil: 45
-    religion: catholic
-    culture: danish
-    tag: DAN
-  1364.1.1:
-    death: yes
-dan_valdemar_iii_estridsen_1:
-  1296.1.1:
-    birth: kobenhavn #TODO: Date and location guessed, check if better data is available
-    first_name: valdemar
-    dynasty: estridsen_dynasty
-    adm: 45
-    dip: 45
-    mil: 45
-    religion: catholic
-    culture: danish
-    tag: DAN
-  1329.1.1:
-    death: yes
-dan_christopher_ii_estridsen_2:
-  1299.1.1:
-    birth: kobenhavn #TODO: Date and location guessed, check if better data is available
-    first_name: christopher
-    dynasty: estridsen_dynasty
-    adm: 60
-    dip: 60
-    mil: 75
-    religion: catholic
-    culture: danish
-    tag: DAN
-  3000.1.1:
-    death: yes
-dan_valdemar_iv_estridsen:
-  1310.1.1:
-    birth: kobenhavn #TODO: Date and location guessed, check if better data is available
-    first_name: valdemar
-    dynasty: estridsen_dynasty
-    adm: 60
-    dip: 45
-    mil: 30
+dan_valdemar_atterdag:
+  1320:
+    birth: helsingor #unknown
+    first_name: name_waldemar
+    dynasty: estrid_dynasty
+    father: dan_chistopher_ii
+    mother: dan_euphemia_of_pomerania
+    adm: 77
+    dip: 34
+    mil: 84
     religion: catholic
     culture: danish
     tag: DAN
   1375.10.24:
     death: yes
-dan_olaf_ii_av_bjelbo:
-  1345.1.1:
-    birth: kobenhavn #TODO: Date and location guessed, check if better data is available
-    first_name: olaf
-    dynasty: av_bjelbo_dynasty
-    adm: 30
-    dip: 45
-    mil: 45
+dan_helvig:
+  1320:
+    birth: slesvig #unknown
+    first_name: name_helvig
+    dynasty: estrid_dynasty
+    female: yes
+    father: dan_erik_ii_schleswig
+    mother: dan_adelaide_holstein
+    adm: 33
+    dip: 21
+    mil: 31
+    religion: catholic
+    culture: danish
+    tag: SLV
+  1340:
+    spouse: dan_valdemar_atterdag
+    tag: DAN
+  1374:
+    death: yes
+dan_christoffer_valdermarsen:
+  1341:
+    birth: helsingor
+    first_name: name_christopher
+    dynasty: estrid_dynasty
+    father: dan_valdemar_atterdag
+    mother: dan_helvig
     religion: catholic
     culture: danish
     tag: DAN
-  1387.8.23:
+  1363.6.11:
+    death: yes
+dan_ingeborg_of_denmark:
+  1347.1.4:
+    birth: helsingor #TODO: Als
+    first_name: name_ingeborg
+    dynasty: estrid_dynasty
+    female: yes
+    father: dan_valdemar_atterdag
+    mother: dan_helvig
+    religion: catholic
+    culture: danish
+    tag: DAN
+  1370.6.16:
+    death: yes
+dan_valdemar_valdermarsen:
+  1350:
+    birth: helsingor #unknown
+    first_name: name_waldemar
+    dynasty: estrid_dynasty
+    father: dan_valdemar_atterdag
+    mother: dan_helvig
+    religion: catholic
+    culture: danish
+    tag: DAN
+  1363.6.11:
     death: yes
 dan_margaret_i_estridsen:
-  1357.1.1:
-    birth: kobenhavn #TODO: Date and location guessed, check if better data is available
-    first_name: margaret
-    dynasty: estridsen_dynasty
+  1353.3:
+    birth: kobenhavn #TODO: Gilleleje
+    first_name: name_margaret
+    dynasty: estrid_dynasty
     female: yes
     adm: 75
-    dip: 60
+    dip: 80
     mil: 30
     religion: catholic
     culture: danish
     tag: DAN
-  1397.6.17:
+  1363.4.9:
+    spouse: nor_hakon_vi_af_bjalbo
+  1412.10.28:
     death: yes
-dan_erik_vii_gryf:
-  1381.1.1:
-    birth: kobenhavn #TODO: Date and location guessed, check if better data is available
-    first_name: erik
-    dynasty: gryf_dynasty
-    adm: 15
-    dip: 30
-    mil: 45
+dan_olaf_ii_av_bjelbo:
+  1370.12:
+    birth: oslo
+    first_name: name_olaf
+    dynasty: bjalbo_atten_dynasty
+    father: nor_hakon_vi_af_bjalbo
+    mother: dan_margaret_i_estridsen
+    adm: 20
+    dip: 45
+    mil: 35
     religion: catholic
     culture: danish
     tag: DAN
-  1440.4.9:
+  1387.8.3:
+    death: yes
+dan_erik_vii_gryf:
+  1382:
+    birth: kolobrzeg #TODO: Darłowo
+    first_name: boguslaw
+    dynasty: gryf_dynasty
+    adm: 65
+    dip: 20
+    mil: 45
+    religion: catholic
+    culture: western_pomeranian
+    tag: POM
+  1389:
+    first_name: name_eric
+    tag: DAN
+    culture: danish
+  1439.9.24:
+    tag: GOTL
+  1459.9.24:
+    death: yes
+dan_philippa_of_england:
+  1394.6:
+    birth: london #TODO: Peterborough Castle
+    first_name: name_philippa
+    dynasty: lancaster_dynasty
+    female: yes
+    religion: catholic
+    culture: english
+    tag: ENG
+  1406.10.26:
+    spouse: dan_erik_vii_gryf
+  1412.10.28:
     death: yes
 dan_christopher_iii_von_wittelsbach:
   1416.2.26:
-    birth: kobenhavn #TODO: Location guessed, check if better data is available
-    first_name: christopher
-    dynasty: von_wittelsbach_dynasty
+    birth: landshut #TODO: Neumarkt in der Oberpfalz
+    first_name: name_christopher
+    dynasty: wittelsbach_dynasty
     adm: 45
     dip: 30
     mil: 30
     religion: catholic
-    culture: danish
+    culture: danube_bavarian
+    tag: UBV
+  1440.4.9:
     tag: DAN
+  1448.1.6:
+    death: yes
+dan_christian_i_von_oldenburg:
+  1426.2:
+    birth: oldenburg
+    first_name: name_christian
+    dynasty: oldenburg_dynasty
+    adm: 50
+    dip: 25
+    mil: 25
+    religion: catholic
+    culture: lower_saxon
+    tag: OLD
   1448.9.1:
+    tag: DAN
+  1481.5.21:
     death: yes
 dan_dorothea_von_hohenzollern:
-  1430.1.1:
-    birth: kobenhavn #TODO: Date and location guessed, check if better data is available
-    first_name: dorothea
-    dynasty: von_hohenzollern_dynasty
+  1430.12.31:
+    birth: brandenburg
+    first_name: name_dorothy
+    dynasty: hohenzollern_dynasty
     female: yes
     adm: 75
     dip: 75
     mil: 30
     religion: catholic
     culture: danish
+    tag: BRA
+  1445.9.12:
+    spouse: dan_christopher_iii_von_wittelsbach
     tag: DAN
+  1449.10.26:
+    spouse: dan_christian_i_von_oldenburg
   1471.4.11:
-    death: yes
-  1445.9.26:
-    spouse: dan_christopher_iii_von_wittelsbach #TODO: date guessed, see if better data is available
-dan_christian_i_von_oldenburg:
-  1426.2.1:
-    birth: kobenhavn #TODO: Location guessed, check if better data is available
-    first_name: christian
-    dynasty: von_oldenburg_dynasty
-    adm: 30
-    dip: 15
-    mil: 15
-    religion: catholic
-    culture: danish
-    tag: DAN
-  1481.5.23:
     death: yes
 dan_hans_i_von_oldenburg:
   1455.2.2:
-    birth: kobenhavn #TODO: Location guessed, check if better data is available
-    first_name: hans
-    dynasty: von_oldenburg_dynasty
+    birth: aalborg
+    first_name: name_john
+    dynasty: oldenburg_dynasty
+    father: dan_christian_i_von_oldenburg
+    mother: dan_dorothea_von_hohenzollern
     adm: 15
     dip: 45
     mil: 60
@@ -1095,183 +1583,491 @@ dan_hans_i_von_oldenburg:
     tag: DAN
   1513.2.20:
     death: yes
-dan_christina_von_wettin:
-  1461.12.25:
-    birth: kobenhavn #TODO: Location guessed, check if better data is available
-    first_name: christina
-    dynasty: von_wettin_dynasty
+dan_margaret_christiansdotter:
+  1456.6.23:
+    birth: kobenhavn
+    first_name: name_margaret
+    dynasty: oldenburg_dynasty
     female: yes
-    adm: 30
-    dip: 30
-    mil: 45
+    father: dan_christian_i_von_oldenburg
+    mother: dan_dorothea_von_hohenzollern
     religion: catholic
     culture: danish
     tag: DAN
-  1521.12.8:
-    death: yes
-  1481.5.23:
-    spouse: dan_hans_i_von_oldenburg #TODO: date guessed, see if better data is available
-dan_christian_ii_von_oldenburg:
-  1481.7.1:
-    birth: kobenhavn #TODO: Location guessed, check if better data is available
-    first_name: christian
-    dynasty: von_oldenburg_dynasty
-    adm: 15
-    dip: 15
-    mil: 0
-    religion: catholic
-    culture: danish
-    tag: DAN
-  1523.4.14:
+  1486.7.14:
     death: yes
 dan_frederik_i_von_oldenburg:
   1471.10.7:
-    birth: kobenhavn #TODO: Location guessed, check if better data is available
-    first_name: frederik
-    dynasty: von_oldenburg_dynasty
+    birth: kobenhavn #TODO: Haderslev
+    first_name: name_frederick
+    dynasty: oldenburg_dynasty
+    father: dan_christian_i_von_oldenburg
+    mother: dan_dorothea_von_hohenzollern
     adm: 45
     dip: 45
     mil: 60
     religion: catholic
     culture: danish
     tag: DAN
-  1533.4.12:
+  1533.4.10:
     death: yes
-dan_elisabeth_von_habsburg:
-  1501.7.18:
-    birth: kobenhavn #TODO: Location guessed, check if better data is available
-    first_name: elisabeth
-    dynasty: von_habsburg_dynasty
+dan_christina_von_wettin:
+  1461.12.25:
+    birth: torgau
+    first_name: name_christine
+    dynasty: wettin_dynasty
     female: yes
-    adm: 15
+    adm: 30
     dip: 30
-    mil: 15
+    mil: 45
+    religion: catholic
+    culture: saxon
+    tag: SAX
+  1478.9.6:
+    spouse: dan_hans_i_von_oldenburg
+    tag: DAN
+  1521.12.8:
+    death: yes
+dan_christian_ii_von_oldenburg:
+  1481.7.1:
+    birth: kobenhavn #TODO: Nyborg castle
+    first_name: name_christian
+    dynasty: oldenburg_dynasty
+    adm: 15
+    dip: 15
+    mil: 0
     religion: catholic
     culture: danish
     tag: DAN
-  1526.1.19:
+  1559.1.25:
     death: yes
-  1515.8.12:
-    spouse: dan_christian_ii_von_oldenburg #TODO: date guessed, see if better data is available
+dan_elizabeth_von_oldenburg:
+  1485.6.24:
+    birth: kobenhavn #TODO: Nyborg castle
+    first_name: name_elizabeth
+    dynasty: oldenburg_dynasty
+    female: yes
+    religion: catholic
+    culture: danish
+    tag: DAN
+  1555.6.10:
+    death: yes
+dan_anna_hohenzollern:
+  1487.8.27:
+    birth: berlin
+    first_name: name_anna
+    dynasty: hohenzollern_dynasty
+    female: yes
+    religion: catholic
+    culture: markish
+    tag: BRA
+  1502.4.10:
+    spouse: dan_frederik_i_von_oldenburg
+    tag: DAN
+  1514.5.3:
+    death: yes
+dan_francis_von_oldenburg:
+  1497.7.15:
+    birth: kobenhavn #TODO: Nyborg castle
+    first_name: name_francis
+    dynasty: oldenburg_dynasty
+    religion: catholic
+    culture: danish
+    tag: DAN
+  1511.4.1:
+    death: yes
 dan_sophie_gryf:
-  1498.1.1:
-    birth: kobenhavn #TODO: Date and location guessed, check if better data is available
-    first_name: sophie
+  1498:
+    birth: stettin
+    first_name: name_sophia
     dynasty: gryf_dynasty
     female: yes
     adm: 45
     dip: 30
     mil: 15
     religion: catholic
-    culture: danish
+    culture: western_pomeranian
+    tag: POM
+  1518.10.9:
+    spouse: dan_frederik_i_von_oldenburg
     tag: DAN
   1568.5.13:
     death: yes
-  1523.4.14:
-    spouse: dan_frederik_i_von_oldenburg #TODO: date guessed, see if better data is available
+dan_elisabeth_von_habsburg:
+  1501.7.18:
+    birth: brussels
+    first_name: name_elizabeth
+    dynasty: von_habsburg_dynasty
+    female: yes
+    adm: 65
+    dip: 30
+    mil: 15
+    religion: catholic
+    culture: low_franconian
+    tag: HAB
+  1514.7:
+    spouse: dan_christian_ii_von_oldenburg
+    tag: DAN
+  1526.1.19:
+    death: yes
 dan_christian_iii_von_oldenburg:
   1503.8.12:
-    birth: kobenhavn #TODO: Location guessed, check if better data is available
+    birth: slesvig
     first_name: christian
-    dynasty: von_oldenburg_dynasty
+    dynasty: oldenburg_dynasty
+    father: dan_frederik_i_von_oldenburg
+    mother: dan_anna_hohenzollern
     adm: 60
     dip: 60
     mil: 45
     religion: lutheran
     culture: danish
     tag: DAN
-  1559.1.3:
+  1559.1.1:
+    death: yes
+dan_dorothea_von_oldenburg:
+  1504.8.1:
+    birth: slesvig #unknown
+    first_name: name_dorothy
+    dynasty: oldenburg_dynasty
+    female: yes
+    father: dan_frederik_i_von_oldenburg
+    mother: dan_anna_hohenzollern
+    religion: lutheran
+    culture: danish
+    tag: DAN
+  1547.4.11:
     death: yes
 dan_dorothea_askanier:
   1511.7.9:
-    birth: kobenhavn #TODO: Location guessed, check if better data is available
-    first_name: dorothea
+    birth: lauenburg
+    first_name: name_dorothy
     dynasty: askanier_dynasty
     female: yes
     adm: 60
     dip: 45
     mil: 15
     religion: catholic
-    culture: danish
-    tag: DAN
+    culture: lower_saxon
+    tag: LAU
+  1520:
+    religion: lutheran
+  1525.10.29:
+    spouse: dan_christian_iii_von_oldenburg
   1571.10.7:
     death: yes
-  1533.4.12:
-    spouse: dan_christian_iii_von_oldenburg #TODO: date guessed, see if better data is available
+dan_hans_christiansen_von_oldenburg:
+  1518.2.21:
+    birth: kobenhavn
+    first_name: name_john
+    dynasty: oldenburg_dynasty
+    father: dan_christian_ii_von_oldenburg
+    mother: dan_elisabeth_von_habsburg
+    religion: catholic
+    culture: danish
+    tag: DAN
+  1532.8.11:
+    death: yes
+dan_dorothea_christiansdotter_von_oldenburg_b1520:
+  1520.11.10:
+    birth: kobenhavn
+    first_name: name_dorothy
+    dynasty: oldenburg_dynasty
+    female: yes
+    father: dan_christian_ii_von_oldenburg
+    mother: dan_elisabeth_von_habsburg
+    religion: catholic
+    culture: danish
+    tag: DAN
+  1580.5.31:
+    death: yes
+dan_john_the_elder:
+  1521.6.21:
+    birth: kobenhavn #TODO: Haderslev
+    first_name: name_john
+    dynasty: oldenburg_dynasty
+    father: dan_frederik_i_von_oldenburg
+    mother: dan_sophie_gryf
+    religion: catholic
+    culture: danish
+    tag: DAN
+  1545:
+    religion: lutheran
+  1545.3.25:
+    nickname: nick_the_elder
+  1580.10.1:
+    death: yes
+dan_christina_christiansdotter_von_oldenburg:
+  1521.11:
+    birth: kobenhavn #TODO: Nyborg
+    first_name: name_christine
+    dynasty: oldenburg_dynasty
+    female: yes
+    father: dan_christian_ii_von_oldenburg
+    mother: dan_elisabeth_von_habsburg
+    religion: catholic
+    culture: danish
+    tag: DAN
+  1590.12.10:
+    death: yes
+dan_elizabeth_frederiksdotter_von_oldenburg_b1524:
+  1524.10.14:
+    birth: kobenhavn #unknown
+    first_name: name_elizabeth
+    dynasty: oldenburg_dynasty
+    female: yes
+    father: dan_frederik_i_von_oldenburg
+    mother: dan_sophie_gryf
+    religion: catholic
+    culture: danish
+    tag: DAN
+  1586.10.15:
+    death: yes
+dan_adolf_frederiksen_von_oldenburg:
+  1526.1.25:
+    birth: kobenhavn #unknown
+    first_name: name_adolf
+    dynasty: oldenburg_dynasty
+    father: dan_frederik_i_von_oldenburg
+    mother: dan_sophie_gryf
+    religion: catholic
+    culture: danish
+    tag: DAN
+  1528:
+    religion: lutheran
+  1586.10.1:
+    death: yes
+dan_anna_frederiksdotter_von_oldenburg_b1527:
+  1527:
+    birth: kobenhavn #unknown
+    first_name: name_anna
+    dynasty: oldenburg_dynasty
+    female: yes
+    father: dan_frederik_i_von_oldenburg
+    mother: dan_sophie_gryf
+    religion: catholic
+    culture: danish
+    tag: DAN
+  1535.6.4:
+    death: yes
+dan_dorothea_frederiksdotter_von_oldenburg_b1528:
+  1528:
+    birth: kobenhavn #unknown
+    first_name: name_dorothy
+    dynasty: oldenburg_dynasty
+    female: yes
+    father: dan_frederik_i_von_oldenburg
+    mother: dan_sophie_gryf
+    religion: lutheran
+    culture: danish
+    tag: DAN
+  1575.11.11:
+    death: yes
+dan_frederik_frederiksen_von_oldenburg_b1532:
+  1532.4.13:
+    birth: kobenhavn #unknown
+    first_name: name_frederick
+    dynasty: oldenburg_dynasty
+    father: dan_frederik_i_von_oldenburg
+    mother: dan_sophie_gryf
+    religion: lutheran
+    culture: danish
+    tag: DAN
+  1556.10.7:
+    death: yes
+dan_anna_christiansdotter_von_oldenburg:
+  1532.11.22:
+    birth: kobenhavn #TODO: Haderslev
+    first_name: name_anna
+    dynasty: oldenburg_dynasty
+    female: yes
+    father: dan_christian_iii_von_oldenburg
+    mother: dan_dorothea_askanier
+    religion: lutheran
+    culture: danish
+    tag: DAN
+  1585.10.1:
+    death: yes
 dan_frederik_ii_von_oldenburg:
   1534.7.1:
-    birth: kobenhavn #TODO: Location guessed, check if better data is available
-    first_name: frederik
-    dynasty: von_oldenburg_dynasty
+    birth: kobenhavn #TODO: Haderslev
+    first_name: name_frederick
+    dynasty: oldenburg_dynasty
+    father: dan_christian_iii_von_oldenburg
+    mother: dan_dorothea_askanier
     adm: 60
     dip: 45
     mil: 45
     religion: lutheran
     culture: danish
     tag: DAN
-  1588.4.6:
+  1588.4.4:
+    death: yes
+dan_magnus_christiansen_von_oldenburg:
+  1540.9.5:
+    birth: kobenhavn
+    first_name: name_magnus
+    dynasty: oldenburg_dynasty
+    father: dan_christian_iii_von_oldenburg
+    mother: dan_dorothea_askanier
+    religion: lutheran
+    culture: danish
+    tag: DAN
+  1583.3.28:
+    death: yes
+dan_john_the_younger:
+  1545.3.25:
+    birth: kobenhavn #TODO: Haderslev
+    first_name: name_john
+    nickname: nick_the_younger
+    dynasty: oldenburg_dynasty
+    father: dan_christian_iii_von_oldenburg
+    mother: dan_dorothea_askanier
+    religion: lutheran
+    culture: danish
+    tag: DAN
+  1622.10.9:
+    death: yes
+dan_dorothea_christiansdotter_von_oldenburg_b1546:
+  1546.6.29:
+    birth: kolding
+    first_name: name_dorothy
+    dynasty: oldenburg_dynasty
+    female: yes
+    father: dan_christian_iii_von_oldenburg
+    mother: dan_dorothea_askanier
+    religion: lutheran
+    culture: danish
+    tag: DAN
+  1617.1.6:
     death: yes
 dan_sophie_von_mecklenburg:
   1557.9.4:
-    birth: kobenhavn #TODO: Location guessed, check if better data is available
-    first_name: sophie
-    dynasty: von_mecklenburg_dynasty
+    birth: wismar
+    first_name: name_sophia
+    dynasty: mecklenburg_dynasty
     female: yes
     adm: 75
     dip: 45
     mil: 15
     religion: lutheran
+    culture: western_pomeranian
+    tag: MKL
+  1572.7.20:
+    spouse: dan_frederik_ii_von_oldenburg
+    tag: DAN
+  1631.10.4:
+    death: yes
+dan_elizabeth_frederiksdotter_von_oldenburg_b1573:
+  1573.8.25:
+    birth: kolding
+    first_name: name_elizabeth
+    dynasty: oldenburg_dynasty
+    female: yes
+    father: dan_frederik_ii_von_oldenburg
+    mother: dan_sophie_von_mecklenburg
+    religion: lutheran
     culture: danish
     tag: DAN
-  1631.10.14:
+  1625.7.19:
     death: yes
-  1572.7.20:
-    spouse: dan_frederik_ii_von_oldenburg #TODO: date guessed, see if better data is available
+dan_anna_frederiksdotter_von_oldenburg_b1574:
+  1574.12.12:
+    birth: kolding #TODO: Skanderborg
+    first_name: name_anna
+    dynasty: oldenburg_dynasty
+    female: yes
+    father: dan_frederik_ii_von_oldenburg
+    mother: dan_sophie_von_mecklenburg
+    religion: lutheran
+    culture: danish
+    tag: DAN
+  1619.3.2:
+    death: yes
+dan_anna_kathrine_von_hohenzollern:
+  1575.6.26:
+    birth: halle_an_der_saale
+    first_name: name_anna.name_catherine
+    dynasty: hohenzollern_dynasty
+    female: yes
+    adm: 15
+    dip: 15
+    mil: 15
+    religion: lutheran
+    culture: saxon
+    tag: MAG
+  1597.11.27:
+    spouse: dan_christian_iv_von_oldenburg
+  1612.4.8:
+    death: yes
 dan_christian_iv_von_oldenburg:
   1577.4.12:
-    birth: kobenhavn #TODO: Location guessed, check if better data is available
-    first_name: christian
-    dynasty: von_oldenburg_dynasty
+    birth: kobenhavn #TODO: Hillerød
+    first_name: name_christian
+    dynasty: oldenburg_dynasty
+    father: dan_frederik_ii_von_oldenburg
+    mother: dan_sophie_von_mecklenburg
     adm: 15
     dip: 60
     mil: 0
     religion: lutheran
     culture: danish
     tag: DAN
-  1648.3.2:
+  1648.2.28:
     death: yes
-dan_anna_kathrine_von_hohenzollern:
-  1575.6.26:
-    birth: kobenhavn #TODO: Location guessed, check if better data is available
-    first_name: anna_kathrine
-    dynasty: von_hohenzollern_dynasty
+dan_ulrik_frederiksen_von_oldenburg:
+  1578.12.30:
+    birth: kolding
+    first_name: name_ulrick
+    dynasty: oldenburg_dynasty
+    father: dan_frederik_ii_von_oldenburg
+    mother: dan_sophie_von_mecklenburg
+    religion: lutheran
+    culture: danish
+    tag: DAN
+  1624.3.27:
+    death: yes
+dan_augusta_frederiksdotter_von_oldenburg:
+  1580.4.8:
+    birth: kolding
+    first_name: name_augusta
+    dynasty: oldenburg_dynasty
     female: yes
-    adm: 15
-    dip: 15
-    mil: 15
+    father: dan_frederik_ii_von_oldenburg
+    mother: dan_sophie_von_mecklenburg
     religion: lutheran
     culture: danish
     tag: DAN
-  1612.4.4:
+  1639.2.5:
     death: yes
-  1597.11.27:
-    spouse: dan_christian_iv_von_oldenburg #TODO: date guessed, see if better data is available
-dan_frederik_iii_von_oldenburg:
-  1609.3.18:
-    birth: kobenhavn #TODO: Location guessed, check if better data is available
-    first_name: frederik
-    dynasty: von_oldenburg_dynasty
-    adm: 0
-    dip: 0
-    mil: 45
+dan_hedwig_frederiksdotter_von_oldenburg:
+  1581.8.5:
+    birth: kobenhavn #TODO: Hillerød
+    first_name: name_hedwig
+    dynasty: oldenburg_dynasty
+    female: yes
+    father: dan_frederik_ii_von_oldenburg
+    mother: dan_sophie_von_mecklenburg
     religion: lutheran
     culture: danish
     tag: DAN
-  1670.2.10:
+  1641.11.26:
+    death: yes
+dan_john_frederiksen_von_oldenburg:
+  1583.7.9:
+    birth: kolding #unknown
+    first_name: name_john
+    dynasty: oldenburg_dynasty
+    father: dan_frederik_ii_von_oldenburg
+    mother: dan_sophie_von_mecklenburg
+    religion: lutheran
+    culture: danish
+    tag: DAN
+  1602.10.28:
     death: yes
 dan_kirsten_munk:
   1598.7.6:
-    birth: kobenhavn #TODO: Location guessed, check if better data is available
+    birth: kobenhavn #TODO: Velje
     first_name: kirsten
     dynasty: munk_dynasty
     female: yes
@@ -1281,100 +2077,473 @@ dan_kirsten_munk:
     religion: lutheran
     culture: danish
     tag: DAN
+  1615.12.31:
+    spouse: dan_christian_iv_von_oldenburg
   1658.4.19:
     death: yes
-  1615.12.31:
-    spouse: dan_christian_iv_von_oldenburg #TODO: date guessed, see if better data is available
+dan_frederik_christiansen_von_oldenburg:
+  1599.8.15:
+    birth: kobenhavn #unknown
+    first_name: name_frederick
+    dynasty: oldenburg_dynasty
+    father: dan_christian_iv_von_oldenburg
+    mother: dan_anna_kathrine_von_hohenzollern
+    religion: lutheran
+    culture: danish
+    tag: DAN
+  1599.9.9:
+    death: yes
+dan_christian_christiansen_von_oldenburg_b1603:
+  1603.4.10:
+    birth: kobenhavn
+    first_name: name_christian
+    dynasty: oldenburg_dynasty
+    father: dan_christian_iv_von_oldenburg
+    mother: dan_anna_kathrine_von_hohenzollern
+    religion: lutheran
+    culture: danish
+    tag: DAN
+  1647.6.2:
+    death: yes
+dan_sophie_christiansdotter_von_oldenburg:
+  1605.1.4:
+    birth: kobenhavn #unknown
+    first_name: name_sophia
+    dynasty: oldenburg_dynasty
+    female: yes
+    father: dan_christian_iv_von_oldenburg
+    mother: dan_anna_kathrine_von_hohenzollern
+    religion: lutheran
+    culture: danish
+    tag: DAN
+  1605.9.7:
+    death: yes
+dan_elizabeth_christiansdotter_von_oldenburg:
+  1606.3.16:
+    birth: kobenhavn #unknown
+    first_name: name_sophia
+    dynasty: oldenburg_dynasty
+    female: yes
+    father: dan_christian_iv_von_oldenburg
+    mother: dan_anna_kathrine_von_hohenzollern
+    religion: lutheran
+    culture: danish
+    tag: DAN
+  1608.10.24:
+    death: yes
+dan_frederik_iii_von_oldenburg:
+  1609.3.18:
+    birth: kobenhavn #TODO: Haderslev
+    first_name: name_frederick
+    dynasty: oldenburg_dynasty
+    father: dan_christian_iv_von_oldenburg
+    mother: dan_anna_kathrine_von_hohenzollern
+    adm: 0
+    dip: 0
+    mil: 45
+    religion: lutheran
+    culture: danish
+    tag: DAN
+  1670.2.9:
+    death: yes
+dan_ulrik_christiansen_von_oldenburg:
+  1611.2.2:
+    birth: kobenhavn #TODO: Hillerød
+    first_name: name_ulrick
+    dynasty: oldenburg_dynasty
+    father: dan_christian_iv_von_oldenburg
+    mother: dan_anna_kathrine_von_hohenzollern
+    religion: lutheran
+    culture: danish
+    tag: DAN
+  1633.8.12:
+    death: yes
+dan_anna_catherine_christiansdotter_von_oldenburg:
+  1618.8.10:
+    birth: kobenhavn #unknown
+    first_name: name_anna.name_catherine
+    dynasty: oldenburg_dynasty
+    female: yes
+    father: dan_christian_iv_von_oldenburg
+    mother: dan_kirsten_munk
+    religion: lutheran
+    culture: danish
+    tag: DAN
+  1633.8.20:
+    death: yes
+dan_sophia_elizabeth_christiansdotter_von_oldenburg:
+  1619.9.20:
+    birth: kobenhavn #TODO: Skanderborg
+    first_name: name_sophia.name_elizabeth
+    dynasty: oldenburg_dynasty
+    female: yes
+    father: dan_christian_iv_von_oldenburg
+    mother: dan_kirsten_munk
+    religion: lutheran
+    culture: danish
+    tag: DAN
+  1657.4.29:
+    death: yes
+dan_leonora_christina_christiansdotter_von_oldenburg:
+  1621.7.8:
+    birth: kobenhavn #unknown
+    first_name: leonora.name_christine
+    dynasty: oldenburg_dynasty
+    female: yes
+    father: dan_christian_iv_von_oldenburg
+    mother: dan_kirsten_munk
+    religion: lutheran
+    culture: danish
+    tag: DAN
+  1698.3.16:
+    death: yes
+dan_valdemar_christian_christiansen_von_oldenburg:
+  1622.6.26:
+    birth: kobenhavn #unknown
+    first_name: name_waldemar.name_christian
+    dynasty: oldenburg_dynasty
+    father: dan_christian_iv_von_oldenburg
+    mother: dan_kirsten_munk
+    religion: lutheran
+    culture: danish
+    tag: DAN
+  1656.2.26:
+    death: yes
+dan_elizabeth_augusta_christiansdotter_von_oldenburg:
+  1623.12.28:
+    birth: kobenhavn #unknown
+    first_name: name_elizabeth.name_augusta
+    dynasty: oldenburg_dynasty
+    female: yes
+    father: dan_christian_iv_von_oldenburg
+    mother: dan_kirsten_munk
+    religion: lutheran
+    culture: danish
+    tag: DAN
+  1677.8.9:
+    death: yes
+dan_frederik_christian_christiansen_von_oldenburg:
+  1625.4.26:
+    birth: kobenhavn #unknown
+    first_name: name_frederick.name_christian
+    dynasty: oldenburg_dynasty
+    father: dan_christian_iv_von_oldenburg
+    mother: dan_kirsten_munk
+    religion: lutheran
+    culture: danish
+    tag: DAN
+  1627.7.17:
+    death: yes
+dan_christiane_christiansdotter_von_oldenburg:
+  1626.7.15:
+    birth: kobenhavn #unknown
+    first_name: name_christiana
+    dynasty: oldenburg_dynasty
+    female: yes
+    father: dan_christian_iv_von_oldenburg
+    mother: dan_kirsten_munk
+    religion: lutheran
+    culture: danish
+    tag: DAN
+  1670.5.6:
+    death: yes
+dan_hedwig_christiansdotter_von_oldenburg:
+  1626.7.15:
+    birth: kobenhavn #unknown
+    first_name: name_hedwig
+    dynasty: oldenburg_dynasty
+    female: yes
+    father: dan_christian_iv_von_oldenburg
+    mother: dan_kirsten_munk
+    religion: lutheran
+    culture: danish
+    tag: DAN
+  1678.10.5:
+    death: yes
 dan_sophie_amalie_von_welf:
   1628.3.24:
-    birth: kobenhavn #TODO: Location guessed, check if better data is available
-    first_name: sophie_amalie
-    dynasty: von_welf_dynasty
+    birth: herzberg
+    first_name: name_sophia.name_amelia
+    dynasty: welfen_dynasty
     female: yes
     adm: 60
     dip: 60
     mil: 30
     religion: lutheran
-    culture: danish
-    tag: DAN
+    culture: lower_saxon
+    tag: BRU
+  1643.10.1:
+    spouse: dan_frederik_iii_von_oldenburg
   1685.2.20:
     death: yes
-  1648.3.2:
-    spouse: dan_frederik_iii_von_oldenburg #TODO: date guessed, see if better data is available
+dan_maria_catherine_christiansdotter_von_oldenburg:
+  1628.5.29:
+    birth: kobenhavn #unknown
+    first_name: name_mary.name_catherine
+    dynasty: oldenburg_dynasty
+    female: yes
+    father: dan_christian_iv_von_oldenburg
+    mother: dan_kirsten_munk
+    religion: lutheran
+    culture: danish
+    tag: DAN
+  1628.9.1:
+    death: yes
+dan_dorothea_elizabeth_christiansdotter_von_oldenburg:
+  1629.9.1:
+    birth: kobenhavn #unknown
+    first_name: name_dorothy.name_elizabeth
+    dynasty: oldenburg_dynasty
+    female: yes
+    father: dan_christian_iv_von_oldenburg
+    mother: dan_kirsten_munk
+    religion: lutheran
+    culture: danish
+    tag: DAN
+  1687.3.18:
+    death: yes
 dan_christian_v_von_oldenburg:
   1646.4.15:
-    birth: kobenhavn #TODO: Location guessed, check if better data is available
-    first_name: christian
-    dynasty: von_oldenburg_dynasty
+    birth: flensburg
+    first_name: name_christian
+    dynasty: oldenburg_dynasty
+    father: dan_frederik_iii_von_oldenburg
+    mother: dan_sophie_amalie_von_welf
     adm: 15
     dip: 45
     mil: 30
     religion: lutheran
     culture: danish
     tag: DAN
-  1699.8.27:
+  1699.8.25:
     death: yes
-dan_sophie_amalie_von_hessen:
+dan_anna_sophia_frederiksdotter_von_oldenburg:
+  1647.9.1:
+    birth: flensburg
+    first_name: name_anna.name_sophia
+    dynasty: oldenburg_dynasty
+    female: yes
+    father: dan_frederik_iii_von_oldenburg
+    mother: dan_sophie_amalie_von_welf
+    religion: lutheran
+    culture: danish
+    tag: DAN
+  1717.7.1:
+    death: yes
+dan_frederica_amalia_frederiksdotter_von_oldenburg:
+  1649.4.11:
+    birth: flensburg
+    first_name: name_frederica.name_amelia
+    dynasty: oldenburg_dynasty
+    female: yes
+    father: dan_frederik_iii_von_oldenburg
+    mother: dan_sophie_amalie_von_welf
+    religion: lutheran
+    culture: danish
+    tag: DAN
+  1704.10.30:
+    death: yes
+dan_wilhelmina_ernestine_frederiksdotter_von_oldenburg:
+  1650.6.21:
+    birth: flensburg #unknown
+    first_name: name_willelma.ernestine
+    dynasty: oldenburg_dynasty
+    female: yes
+    father: dan_frederik_iii_von_oldenburg
+    mother: dan_sophie_amalie_von_welf
+    religion: lutheran
+    culture: danish
+    tag: DAN
+  1706.4.22:
+    death: yes
+dan_frederik_frederiksen_von_oldenburg_b1651:
+  1651.10.11:
+    birth: kobenhavn #unknown
+    first_name: name_frederick
+    dynasty: oldenburg_dynasty
+    father: dan_frederik_iii_von_oldenburg
+    mother: dan_sophie_amalie_von_welf
+    religion: lutheran
+    culture: danish
+    tag: DAN
+  1652.3.14:
+    death: yes
+dan_george_frederiksen_von_oldenburg_b1653:
+  1653.4.2:
+    birth: kobenhavn
+    first_name: name_george
+    dynasty: oldenburg_dynasty
+    father: dan_frederik_iii_von_oldenburg
+    mother: dan_sophie_amalie_von_welf
+    religion: lutheran
+    culture: danish
+    tag: DAN
+  1708.10.28:
+    death: yes
+dan_dorothea_frederiksdotter_von_oldenburg_b1657:
+  1657.11.16:
+    birth: kobenhavn #unknown
+    first_name: name_dorothy
+    dynasty: oldenburg_dynasty
+    female: yes
+    father: dan_frederik_iii_von_oldenburg
+    mother: dan_sophie_amalie_von_welf
+    religion: lutheran
+    culture: danish
+    tag: DAN
+  1658.5.15:
+    death: yes
+dan_charlotte_amalie_von_hessen:
   1650.4.27:
-    birth: kobenhavn #TODO: Location guessed, check if better data is available
-    first_name: sophie_amalie
+    birth: kassel
+    first_name: name_charlotte.name_amelia
     dynasty: von_hessen_dynasty
     female: yes
     adm: 45
     dip: 15
     mil: 45
-    religion: lutheran
-    culture: danish
-    tag: DAN
+    religion: calvinist
+    culture: rhine_franconian
+    tag: HES
+  1667.6.15:
+    spouse: dan_christian_v_von_oldenburg
   1714.3.27:
-    death: yes
-  1670.2.10:
-    spouse: dan_christian_v_von_oldenburg #TODO: date guessed, see if better data is available
-dan_frederik_iv_von_oldenburg:
-  1671.10.11:
-    birth: kobenhavn #TODO: Location guessed, check if better data is available
-    first_name: frederik
-    dynasty: von_oldenburg_dynasty
-    adm: 45
-    dip: 30
-    mil: 30
-    religion: lutheran
-    culture: danish
-    tag: DAN
-  1730.10.14:
     death: yes
 dan_louise_von_mecklenburg:
   1667.8.28:
-    birth: kobenhavn #TODO: Location guessed, check if better data is available
-    first_name: louise
-    dynasty: von_mecklenburg_dynasty
+    birth: gustrow
+    first_name: name_louise
+    dynasty: mecklenburg_dynasty
     female: yes
     adm: 30
     dip: 30
     mil: 30
     religion: lutheran
     culture: danish
+    tag: MKL
+  1695.12.5:
+    spouse: dan_frederik_iv_von_oldenburg
     tag: DAN
   1721.3.15:
     death: yes
-  1699.8.27:
-    spouse: dan_frederik_iv_von_oldenburg #TODO: date guessed, see if better data is available
-dan_christian_vi_von_oldenburg:
-  1699.11.30:
-    birth: kobenhavn #TODO: Location guessed, check if better data is available
-    first_name: christian
-    dynasty: von_oldenburg_dynasty
+dan_frederik_iv_von_oldenburg:
+  1671.10.11:
+    birth: kobenhavn
+    first_name: name_frederick
+    dynasty: oldenburg_dynasty
+    father: dan_christian_v_von_oldenburg
+    mother: dan_charlotte_amalie_von_hessen
     adm: 45
-    dip: 45
-    mil: 15
+    dip: 30
+    mil: 30
     religion: lutheran
     culture: danish
     tag: DAN
-  1746.8.8:
+  1730.10.12:
+    death: yes
+dan_christian_vilhelm_christiansen_von_oldenburg:
+  1672.12.1:
+    birth: kobenhavn
+    first_name: name_christian.name_william
+    dynasty: oldenburg_dynasty
+    father: dan_christian_v_von_oldenburg
+    mother: dan_charlotte_amalie_von_hessen
+    religion: lutheran
+    culture: danish
+    tag: DAN
+  1673.1.25:
+    death: yes
+dan_christian_gyldenlove:
+  1674.2.28:
+    birth: kobenhavn
+    first_name: name_christian
+    last_name: gyldenlove
+    father: dan_christian_v_von_oldenburg
+    religion: lutheran
+    culture: danish
+    tag: DAN
+    traits:
+      bastard: yes
+  1703.7.16:
+    death: yes
+dan_christian_christiansen_von_oldenburg_b1675:
+  1675.3.25:
+    birth: kobenhavn
+    first_name: name_christian
+    dynasty: oldenburg_dynasty
+    father: dan_christian_v_von_oldenburg
+    mother: dan_charlotte_amalie_von_hessen
+    religion: lutheran
+    culture: danish
+    tag: DAN
+  1695.6.27:
+    death: yes
+dan_sophie_hedwig_christiansdotter_von_oldenburg:
+  1677.8.28:
+    birth: kobenhavn
+    first_name: name_sophia.name_hedwig
+    dynasty: oldenburg_dynasty
+    female: yes
+    father: dan_christian_v_von_oldenburg
+    mother: dan_charlotte_amalie_von_hessen
+    religion: lutheran
+    culture: danish
+    tag: DAN
+  1735.3.13:
+    death: yes
+dan_ulrik_christian_gyldenlove:
+  1678.6.24:
+    birth: kobenhavn
+    first_name: name_ulrick.name_christian
+    last_name: gyldenlove
+    father: dan_christian_v_von_oldenburg
+    religion: lutheran
+    culture: danish
+    tag: DAN
+    traits:
+      bastard: yes
+  1719.12.8:
+    death: yes
+dan_christiane_charlotte_christiansdotter_von_oldenburg:
+  1679.1.18:
+    birth: kobenhavn
+    first_name: name_christiana.name_charlotte
+    dynasty: oldenburg_dynasty
+    female: yes
+    father: dan_christian_v_von_oldenburg
+    mother: dan_charlotte_amalie_von_hessen
+    religion: lutheran
+    culture: danish
+    tag: DAN
+  1689.8.24:
+    death: yes
+dan_charles_christiansen_von_oldenburg:
+  1680.10.26:
+    birth: kobenhavn
+    first_name: name_charles
+    dynasty: oldenburg_dynasty
+    father: dan_christian_v_von_oldenburg
+    mother: dan_charlotte_amalie_von_hessen
+    religion: lutheran
+    culture: danish
+    tag: DAN
+  1729.6.8:
+    death: yes
+dan_vilhelm_christiansen_von_oldenburg:
+  1687.2.21:
+    birth: kobenhavn
+    first_name: name_william
+    dynasty: oldenburg_dynasty
+    father: dan_christian_v_von_oldenburg
+    mother: dan_charlotte_amalie_von_hessen
+    religion: lutheran
+    culture: danish
+    tag: DAN
+  1705.11.23:
     death: yes
 dan_anne_sophie_reventlow:
   1693.4.16:
-    birth: kobenhavn #TODO: Location guessed, check if better data is available
+    birth: randers
     first_name: anne_sophie
     dynasty: reventlow_dynasty
     female: yes
@@ -1384,105 +2553,314 @@ dan_anne_sophie_reventlow:
     religion: lutheran
     culture: danish
     tag: DAN
+  1721.4.4:
+    spouse: dan_frederik_iv_von_oldenburg
   1743.1.7:
     death: yes
-  1721.4.4:
-    spouse: dan_frederik_iv_von_oldenburg #TODO: date guessed, see if better data is available
+dan_christian_frederiksen_von_oldenburg_b1697:
+  1697.6.28:
+    birth: kobenhavn
+    first_name: name_christian
+    dynasty: oldenburg_dynasty
+    father: dan_frederik_iv_von_oldenburg
+    mother: dan_louise_von_mecklenburg
+    religion: lutheran
+    culture: danish
+    tag: DAN
+  1698.10.1:
+    death: yes
+dan_christian_vi_von_oldenburg:
+  1699.11.30:
+    birth: kobenhavn
+    first_name: christian
+    dynasty: oldenburg_dynasty
+    father: dan_frederik_iv_von_oldenburg
+    mother: dan_louise_von_mecklenburg
+    adm: 45
+    dip: 45
+    mil: 15
+    religion: lutheran
+    culture: danish
+    tag: DAN
+  1746.8.6:
+    death: yes
 dan_sophie_magdalene_von_hohenzollern:
   1700.11.28:
-    birth: kobenhavn #TODO: Location guessed, check if better data is available
-    first_name: sophie_magdalene
-    dynasty: von_hohenzollern_dynasty
+    birth: nuremberg
+    first_name: name_sophia.name_madeleine
+    dynasty: hohenzollern_dynasty
     female: yes
     adm: 30
     dip: 15
     mil: 15
     religion: lutheran
-    culture: danish
+    culture: east_franconian
+    tag: PRU
+  1721.8.7:
+    spouse: dan_christian_vi_von_oldenburg
     tag: DAN
   1770.5.27:
     death: yes
-  1730.10.14:
-    spouse: dan_christian_vi_von_oldenburg #TODO: date guessed, see if better data is available
+dan_frederik_charles_frederiksen_von_oldenburg:
+  1701.10.23:
+    birth: kobenhavn
+    first_name: name_frederick.name_charles
+    dynasty: oldenburg_dynasty
+    father: dan_frederik_iv_von_oldenburg
+    mother: dan_louise_von_mecklenburg
+    religion: lutheran
+    culture: danish
+    tag: DAN
+  1702.1.7:
+    death: yes
+dan_george_frederiksen_von_oldenburg_b1703:
+  1703.1.6:
+    birth: kobenhavn
+    first_name: name_george
+    dynasty: oldenburg_dynasty
+    father: dan_frederik_iv_von_oldenburg
+    mother: dan_louise_von_mecklenburg
+    religion: lutheran
+    culture: danish
+    tag: DAN
+  1704.3.12:
+    death: yes
+dan_charlotte_amalie_frederiksdotter_von_oldenburg:
+  1706.10.6:
+    birth: kobenhavn
+    first_name: name_charlotte.name_amelia
+    dynasty: oldenburg_dynasty
+    female: yes
+    father: dan_frederik_iv_von_oldenburg
+    mother: dan_louise_von_mecklenburg
+    religion: lutheran
+    culture: danish
+    tag: DAN
+  1782.10.28:
+    death: yes
 dan_frederik_v_von_oldenburg:
   1723.3.31:
-    birth: kobenhavn #TODO: Location guessed, check if better data is available
-    first_name: frederik
-    dynasty: von_oldenburg_dynasty
+    birth: kobenhavn
+    first_name: name_frederick
+    dynasty: oldenburg_dynasty
+    father: dan_christian_vi_von_oldenburg
+    mother: dan_sophie_magdalene_von_hohenzollern
     adm: 15
     dip: 45
     mil: 45
     religion: lutheran
     culture: danish
     tag: DAN
-  1766.1.16:
+  1766.1.14:
+    death: yes
+dan_christiane_amalie_frederiksdotter_von_oldenburg:
+  1723.10.23:
+    birth: kobenhavn
+    first_name: name_christiana.name_amelia
+    dynasty: oldenburg_dynasty
+    female: yes
+    father: dan_frederik_iv_von_oldenburg
+    mother: dan_anne_sophie_reventlow
+    religion: lutheran
+    culture: danish
+    tag: DAN
+  1724.1.7:
     death: yes
 dan_louise_von_hannover:
   1724.12.18:
-    birth: kobenhavn #TODO: Location guessed, check if better data is available
-    first_name: louise
+    birth: london
+    first_name: name_louise
     dynasty: von_hannover_dynasty
     female: yes
     adm: 30
     dip: 45
     mil: 15
     religion: lutheran
-    culture: danish
+    culture: english
+    tag: GBR
+  1743.11.10:
+    spouse: dan_frederik_v_von_oldenburg
     tag: DAN
   1751.12.19:
     death: yes
-  1746.8.8:
-    spouse: dan_frederik_v_von_oldenburg #TODO: date guessed, see if better data is available
+dan_frederik_christian_frederiksen_von_oldenburg:
+  1726.6.1:
+    birth: kobenhavn
+    first_name: name_christiana.name_amelia
+    dynasty: oldenburg_dynasty
+    father: dan_frederik_iv_von_oldenburg
+    mother: dan_anne_sophie_reventlow
+    religion: lutheran
+    culture: danish
+    tag: DAN
+  1727.5.15:
+    death: yes
+dan_louise_christiansdotter_von_oldenburg:
+  1726.10.19:
+    birth: kobenhavn
+    first_name: name_louise
+    dynasty: oldenburg_dynasty
+    female: yes
+    father: dan_christian_vi_von_oldenburg
+    mother: dan_sophie_magdalene_von_hohenzollern
+    religion: lutheran
+    culture: danish
+    tag: DAN
+  1756.8.8:
+    death: yes
+dan_charles_frederiksen_von_oldenburg:
+  1728.2.16:
+    birth: kobenhavn
+    first_name: name_charles
+    dynasty: oldenburg_dynasty
+    father: dan_frederik_iv_von_oldenburg
+    mother: dan_anne_sophie_reventlow
+    religion: lutheran
+    culture: danish
+    tag: DAN
+  1729.12.10:
+    death: yes
+dan_juliana_maria_von_welf:
+  1729.9.4:
+    birth: wolfenbuttel
+    first_name: name_julianne.name_mary
+    dynasty: welfen_dynasty
+    female: yes
+    adm: 60
+    dip: 60
+    mil: 30
+    religion: lutheran
+    culture: lower_saxon
+    tag: BRU
+  1752.7.8:
+    spouse: dan_frederik_v_von_oldenburg
+    tag: DAN
+  1796.10.10:
+    death: yes
+dan_christian_frederiksen_von_oldenburg_b1745:
+  1745.7.7:
+    birth: kobenhavn
+    first_name: name_christian
+    dynasty: oldenburg_dynasty
+    father: dan_frederik_v_von_oldenburg
+    mother: dan_louise_von_hannover
+    religion: lutheran
+    culture: danish
+    tag: DAN
+  1747.6.3:
+    death: yes
+dan_wilhelmina_caroline_frederiksdotter_von_oldenburg:
+  1747.7.10:
+    birth: kobenhavn
+    first_name: name_willelma.name_caroline
+    dynasty: oldenburg_dynasty
+    female: yes
+    father: dan_frederik_v_von_oldenburg
+    mother: dan_louise_von_hannover
+    religion: lutheran
+    culture: danish
+    tag: DAN
+  1820.1.19:
+    death: yes
 dan_christian_vii_von_oldenburg:
   1749.1.29:
-    birth: kobenhavn #TODO: Location guessed, check if better data is available
-    first_name: christian
-    dynasty: von_oldenburg_dynasty
+    birth: kobenhavn
+    first_name: name_christian
+    dynasty: oldenburg_dynasty
+    father: dan_frederik_v_von_oldenburg
+    mother: dan_louise_von_hannover
     adm: 0
     dip: 0
     mil: 0
     religion: lutheran
     culture: danish
     tag: DAN
-  1808.3.15:
+  1808.3.13:
     death: yes
-dan_juliana_maria_von_welf:
-  1729.9.4:
-    birth: kobenhavn #TODO: Location guessed, check if better data is available
-    first_name: juliana_maria
-    dynasty: von_welf_dynasty
+dan_louise_frederiksdotter_von_oldenburg_b1750:
+  1750.1.30:
+    birth: kobenhavn
+    first_name: name_louise
+    dynasty: oldenburg_dynasty
     female: yes
-    adm: 60
-    dip: 60
-    mil: 30
+    father: dan_frederik_v_von_oldenburg
+    mother: dan_louise_von_hannover
     religion: lutheran
     culture: danish
     tag: DAN
-  1796.10.10:
+  1831.1.12:
     death: yes
-  1752.7.8:
-    spouse: dan_frederik_v_von_oldenburg #TODO: date guessed, see if better data is available
 dan_caroline_mathilde_von_hannover:
   1751.7.22:
-    birth: kobenhavn #TODO: Location guessed, check if better data is available
-    first_name: caroline_mathilde
+    birth: london
+    first_name: name_caroline.name_matilda
     dynasty: von_hannover_dynasty
     female: yes
     adm: 60
     dip: 45
     mil: 30
     religion: lutheran
-    culture: danish
+    culture: english
+    tag: GBR
+  1766.10.1:
+    spouse: dan_christian_vii_von_oldenburg
     tag: DAN
+  1772.4.8:
+    spouse: ---
+  1772.5.3:
+    tag: HAN
   1775.5.10:
     death: yes
-  1766.1.16:
-    spouse: dan_christian_vii_von_oldenburg #TODO: date guessed, see if better data is available
+dan_frederik_frederiksen_von_oldenburg_b1753:
+  1753.10.11:
+    birth: kobenhavn
+    first_name: name_frederick
+    dynasty: oldenburg_dynasty
+    father: dan_frederik_v_von_oldenburg
+    mother: dan_juliana_maria_von_welf
+    religion: lutheran
+    culture: danish
+    tag: DAN
+  1805.12.7:
+    death: yes
+dan_sophia_frederica_von_mecklenburg:
+  1758.8.24:
+    birth: schwerin
+    first_name: name_sophia.name_frederica
+    dynasty: mecklenburg_dynasty
+    female: yes
+    religion: lutheran
+    culture: western_pomeranian
+    tag: MKL
+  1774.10.21:
+    spouse: dan_frederik_frederiksen_von_oldenburg_b1753
+    tag: DAN
+  1794.11.29:
+    death: yes
+dan_marie_sophie_frederikke_von_hessen:
+  1767.10.28:
+    birth: hanau
+    first_name: name_mary
+    dynasty: von_hessen_dynasty
+    female: yes
+    adm: 60
+    dip: 30
+    mil: 30
+    religion: lutheran
+    culture: rhine_franconian
+    tag: HES
+  1790.7.31:
+    spouse: dan_frederik_vi_von_oldenburg
+    tag: DAN
+  1852.3.22:
+    death: yes
 dan_frederik_vi_von_oldenburg:
   1768.1.28:
-    birth: kobenhavn #TODO: Location guessed, check if better data is available
-    first_name: frederik
-    dynasty: von_oldenburg_dynasty
+    birth: kobenhavn
+    first_name: name_frederick
+    dynasty: oldenburg_dynasty
+    father: dan_christian_vii_von_oldenburg
+    mother: dan_caroline_mathilde_von_hannover
     adm: 0
     dip: 0
     mil: 0
@@ -1491,28 +2869,55 @@ dan_frederik_vi_von_oldenburg:
     tag: DAN
   1839.12.3:
     death: yes
-dan_marie_sophie_frederikke_von_hessen:
-  1767.10.28:
-    birth: kobenhavn #TODO: Location guessed, check if better data is available
-    first_name: marie_sophie_frederikke
-    dynasty: von_hessen_dynasty
+dan_louise_augusta_christiansdotter_von_oldenburg:
+  1771.7.7:
+    birth: kobenhavn #TODO: Hørsholm
+    first_name: name_louise.name_augusta
+    dynasty: oldenburg_dynasty
     female: yes
-    adm: 60
-    dip: 30
-    mil: 30
+    father: dan_christian_vii_von_oldenburg
+    mother: dan_caroline_mathilde_von_hannover
     religion: lutheran
     culture: danish
     tag: DAN
-  1852.3.24:
+  1843.1.13:
     death: yes
-  1808.3.15:
-    spouse: dan_frederik_vi_von_oldenburg #TODO: date guessed, see if better data is available
+dan_juliana_maria_frederiksdotter_von_oldenburg:
+  1784.5.2:
+    birth: kobenhavn
+    first_name: name_julianne.name_mary
+    dynasty: oldenburg_dynasty
+    female: yes
+    father: dan_frederik_frederiksen_von_oldenburg_b1753
+    mother: dan_sophia_frederica_von_mecklenburg
+    religion: lutheran
+    culture: danish
+    tag: DAN
+  1784.10.28:
+    death: yes
+dan_charlotte_frederica_von_mecklenburg:
+  1784.12.4:
+    birth: schwerin
+    first_name: name_charlotte.name_frederica
+    dynasty: mecklenburg_dynasty
+    female: yes
+    religion: lutheran
+    culture: western_pomeranian
+    tag: MKL
+  1806.6.21:
+    spouse: dan_christian_viii_von_oldenburg
+    tag: DAN
+  1810:
+    spouse: ---
+  1840.7.13:
+    death: yes
 dan_christian_viii_von_oldenburg:
   1786.9.18:
-    birth: kobenhavn #TODO: Location guessed, check if better data is available
-    first_name: christian
-    dynasty: von_oldenburg_dynasty
-    father: dan_frederik_vi_von_oldenburg #TODO: check if this makes sense
+    birth: kobenhavn
+    first_name: name_christian
+    dynasty: oldenburg_dynasty
+    father: dan_frederik_frederiksen_von_oldenburg_b1753
+    mother: dan_sophia_frederica_von_mecklenburg
     adm: 45
     dip: 60
     mil: 15
@@ -1521,25 +2926,158 @@ dan_christian_viii_von_oldenburg:
     tag: DAN
   1848.1.20:
     death: yes
-dan_christian_viii_von_oldenburg_1:
-  1809.1.1:
-    birth: kobenhavn #TODO: Date and location guessed, check if better data is available
-    first_name: christian
-    dynasty: von_oldenburg_dynasty
-    adm: 45
-    dip: 60
-    mil: 15
+dan_juliana_sophie_frederiksdotter_von_oldenburg:
+  1788.2.18:
+    birth: kobenhavn
+    first_name: name_julianne.name_sophia
+    dynasty: oldenburg_dynasty
+    female: yes
+    father: dan_frederik_frederiksen_von_oldenburg_b1753
+    mother: dan_sophia_frederica_von_mecklenburg
     religion: lutheran
     culture: danish
     tag: DAN
-  1848.1.20:
+  1850.5.9:
+    death: yes
+dan_louise_charlotte_frederiksdotter_von_oldenburg:
+  1789.10.30:
+    birth: kobenhavn
+    first_name: name_louise.name_charlotte
+    dynasty: oldenburg_dynasty
+    female: yes
+    father: dan_frederik_frederiksen_von_oldenburg_b1753
+    mother: dan_sophia_frederica_von_mecklenburg
+    religion: lutheran
+    culture: danish
+    tag: DAN
+  1864.3.28:
+    death: yes
+dan_marie_louise_frederiksdotter_von_oldenburg:
+  1792.11.19:
+    birth: kobenhavn
+    first_name: name_mary.name_louise
+    dynasty: oldenburg_dynasty
+    female: yes
+    father: dan_frederik_vi_von_oldenburg
+    mother: dan_marie_sophie_frederikke_von_hessen
+    religion: lutheran
+    culture: danish
+    tag: DAN
+  1793.10.12:
+    death: yes
+dan_ferdinand_frederiksen_von_oldenburg:
+  1792.11.22:
+    birth: kobenhavn
+    first_name: name_ferdinand
+    dynasty: oldenburg_dynasty
+    father: dan_frederik_frederiksen_von_oldenburg_b1753
+    mother: dan_sophia_frederica_von_mecklenburg
+    religion: lutheran
+    culture: danish
+    tag: DAN
+  1863.6.29:
+    death: yes
+dan_caroline_frederiksdotter_von_oldenburg:
+  1793.10.28:
+    birth: kobenhavn
+    first_name: name_caroline
+    dynasty: oldenburg_dynasty
+    female: yes
+    father: dan_frederik_vi_von_oldenburg
+    mother: dan_marie_sophie_frederikke_von_hessen
+    religion: lutheran
+    culture: danish
+    tag: DAN
+  1881.3.31:
+    death: yes
+dan_louise_frederiksdotter_von_oldenburg_b1795:
+  1795.8.21:
+    birth: kobenhavn
+    first_name: name_louise
+    dynasty: oldenburg_dynasty
+    female: yes
+    father: dan_frederik_vi_von_oldenburg
+    mother: dan_marie_sophie_frederikke_von_hessen
+    religion: lutheran
+    culture: danish
+    tag: DAN
+  1795.12.7:
+    death: yes
+dan_caroline_amalie_von_schleswig_holstein_sonderburg_augustenburg:
+  1796.6.28:
+    birth: kobenhavn
+    first_name: name_caroline.name_amelia
+    dynasty: schleswig_holstein_sonderburg_augustenburg_dynasty
+    female: yes
+    religion: lutheran
+    culture: danish
+    tag: DAN
+  1815.5.22:
+    spouse: dan_christian_viii_von_oldenburg
+  1881.3.9:
+    death: yes
+dan_christian_frederiksen_von_oldenburg_b1797:
+  1797.9.1:
+    birth: kobenhavn
+    first_name: name_christian
+    dynasty: oldenburg_dynasty
+    father: dan_frederik_vi_von_oldenburg
+    mother: dan_marie_sophie_frederikke_von_hessen
+    religion: lutheran
+    culture: danish
+    tag: DAN
+  1797.9.5:
+    death: yes
+dan_juliana_louise_frederiksdotter_von_oldenburg:
+  1802.2.12:
+    birth: kobenhavn
+    first_name: name_julianne.name_louise
+    dynasty: oldenburg_dynasty
+    female: yes
+    father: dan_frederik_vi_von_oldenburg
+    mother: dan_marie_sophie_frederikke_von_hessen
+    religion: lutheran
+    culture: danish
+    tag: DAN
+  1802.2.23:
+    death: yes
+dan_frederikke_marie_frederiksdotter_von_oldenburg:
+  1805.6.3:
+    birth: kobenhavn
+    first_name: name_frederica.name_mary
+    dynasty: oldenburg_dynasty
+    female: yes
+    father: dan_frederik_vi_von_oldenburg
+    mother: dan_marie_sophie_frederikke_von_hessen
+    religion: lutheran
+    culture: danish
+    tag: DAN
+  1805.7.14:
+    death: yes
+dan_vilhelmine_marie_frederiksdotter_von_oldenburg:
+  1808.1.18:
+    birth: kiel
+    first_name: name_willelma.name_mary
+    dynasty: oldenburg_dynasty
+    female: yes
+    father: dan_frederik_vi_von_oldenburg
+    mother: dan_marie_sophie_frederikke_von_hessen
+    religion: lutheran
+    culture: danish
+    tag: DAN
+  1828.11.1:
+    spouse: dan_frederik_vii_von_oldenburg
+  1837:
+    spouse: ---
+  1891.5.30:
     death: yes
 dan_frederik_vii_von_oldenburg:
   1808.10.6:
-    birth: kobenhavn #TODO: Location guessed, check if better data is available
-    first_name: frederik
-    dynasty: von_oldenburg_dynasty
-    father: dan_christian_viii_von_oldenburg_1 #TODO: check if this makes sense
+    birth: kobenhavn
+    first_name: name_frederick
+    dynasty: oldenburg_dynasty
+    father: dan_christian_viii_von_oldenburg
+    mother: dan_charlotte_frederica_von_mecklenburg
     adm: 60
     dip: 60
     mil: 45
@@ -1548,23 +3086,66 @@ dan_frederik_vii_von_oldenburg:
     tag: DAN
   1863.11.15:
     death: yes
-dan_frederik_vii_von_oldenburg_1:
-  1818.1.1:
-    birth: kobenhavn #TODO: Date and location guessed, check if better data is available
-    first_name: frederik
-    dynasty: von_oldenburg_dynasty
-    adm: 60
-    dip: 60
-    mil: 45
+dan_louise_frederikke_dannemand:
+  1810.4.16:
+    birth: kobenhavn
+    first_name: name_louise.name_frederica
+    last_name: dannemand
+    female: yes
+    father: dan_frederik_vi_von_oldenburg
+    #mother: Frederikke Dannemand
     religion: lutheran
     culture: danish
     tag: DAN
-  1863.11.15:
+    traits:
+      bastard: yes
+  1888.12.28:
+    death: yes
+dan_frederik_vilhelm_dannemand:
+  1813.7.20:
+    birth: kobenhavn
+    first_name: name_frederick.name_william
+    last_name: dannemand
+    father: dan_frederik_vi_von_oldenburg
+    #mother: Frederikke Dannemand
+    religion: lutheran
+    culture: danish
+    tag: DAN
+    traits:
+      bastard: yes
+  1888.3.12:
+    death: yes
+dan_louise_rasmussen:
+  1815.4.21:
+    birth: kobenhavn
+    first_name: name_louise
+    last_name: rasmussen
+    female: yes
+    religion: lutheran
+    culture: danish
+    tag: DAN
+  1850.8.8:
+    spouse: dan_frederik_vii_von_oldenburg
+  1874.3.6:
+    death: yes
+dan_louise_von_hesse_kassel:
+  1817.9.7:
+    birth: kassel
+    first_name: name_louise
+    dynasty: von_hessen_dynasty
+    female: yes
+    religion: lutheran
+    culture: rhine_franconian
+    tag: HES
+  1842.5.26:
+    spouse: dan_christian_ix_von_glucksburg
+    tag: DAN
+  1898.9.29:
     death: yes
 dan_christian_ix_von_glucksburg:
-  1833.1.1:
-    birth: kobenhavn #TODO: Date and location guessed, check if better data is available
-    first_name: christian
+  1818.4.8:
+    birth: slesvig
+    first_name: name_christian
     dynasty: von_glucksburg_dynasty
     adm: 30
     dip: 60
@@ -1574,12 +3155,42 @@ dan_christian_ix_von_glucksburg:
     tag: DAN
   1906.1.29:
     death: yes
+dan_frederik_waldemar_dannemand:
+  1819.6.6:
+    birth: kobenhavn
+    first_name: name_frederick.name_waldemar
+    last_name: dannemand
+    father: dan_frederik_vi_von_oldenburg
+    #mother: Frederikke Dannemand
+    religion: lutheran
+    culture: danish
+    tag: DAN
+    traits:
+      bastard: yes
+  1835.3.4:
+    death: yes
+dan_caroline_mariane_von_mecklenburg:
+  1821.1.10:
+    birth: strelitz
+    first_name: name_caroline.name_marianne
+    dynasty: mecklenburg_dynasty
+    female: yes
+    religion: lutheran
+    culture: western_pomeranian
+    tag: MKL
+  1841.6.10:
+    spouse: dan_frederik_vii_von_oldenburg
+  1846:
+    spouse: ---
+  1876.6.1:
+    death: yes
 dan_frederik_viii_von_glucksburg:
   1843.6.3:
-    birth: kobenhavn #TODO: Location guessed, check if better data is available
-    first_name: frederik
+    birth: kobenhavn
+    first_name: name_frederick
     dynasty: von_glucksburg_dynasty
-    father: dan_christian_ix_von_glucksburg #TODO: check if this makes sense
+    father: dan_christian_ix_von_glucksburg
+    mother: dan_louise_von_hesse_kassel
     adm: 75
     dip: 45
     mil: 30
@@ -1587,6 +3198,32 @@ dan_frederik_viii_von_glucksburg:
     culture: danish
     tag: DAN
   1912.5.14:
+    death: yes
+dan_alexandra_von_glucksburg:
+  1844.12.1:
+    birth: kobenhavn
+    first_name: name_alexandra
+    dynasty: von_glucksburg_dynasty
+    female: yes
+    father: dan_christian_ix_von_glucksburg
+    mother: dan_louise_von_hesse_kassel
+    religion: lutheran
+    culture: danish
+    tag: DAN
+  1925.11.20:
+    death: yes
+dan_dagmar_christiansdotter_von_glucksburg:
+  1847.11.26:
+    birth: kobenhavn
+    first_name: dagmar
+    dynasty: von_glucksburg_dynasty
+    female: yes
+    father: dan_christian_ix_von_glucksburg
+    mother: dan_louise_von_hesse_kassel
+    religion: lutheran
+    culture: danish
+    tag: DAN
+  1928.10.13:
     death: yes
 dan_louise_bernadotte:
   1851.10.31:
@@ -1596,9 +3233,6 @@ dan_louise_bernadotte:
     female: yes
     father: swe_karl_xv_bernadotte
     mother: swe_louise_of_the_netherlands
-    adm: 30
-    dip: 55
-    mil: 25
     religion: lutheran
     culture: swedish
     tag: SWE
@@ -1607,12 +3241,38 @@ dan_louise_bernadotte:
     tag: DAN
   1926.3.20:
     death: yes
+dan_thyra_christiansdotter_von_glucksburg:
+  1853.9.29:
+    birth: kobenhavn
+    first_name: thyra
+    dynasty: von_glucksburg_dynasty
+    female: yes
+    father: dan_christian_ix_von_glucksburg
+    mother: dan_louise_von_hesse_kassel
+    religion: lutheran
+    culture: danish
+    tag: DAN
+  1933.2.26:
+    death: yes
+dan_valdemar_von_glucksburg:
+  1858.10.27:
+    birth: kobenhavn
+    first_name: name_waldemar
+    dynasty: von_glucksburg_dynasty
+    father: dan_christian_ix_von_glucksburg
+    mother: dan_louise_von_hesse_kassel
+    religion: lutheran
+    culture: danish
+    tag: DAN
+  1939.1.14:
+    death: yes
 dan_christian_x_von_glucksburg:
   1870.9.26:
-    birth: kobenhavn #TODO: Location guessed, check if better data is available
-    first_name: christian
+    birth: kobenhavn
+    first_name: name_christian
     dynasty: von_glucksburg_dynasty
-    father: dan_frederik_viii_von_glucksburg_1 #TODO: check if this makes sense
+    father: dan_frederik_viii_von_glucksburg
+    mother: dan_louise_bernadotte
     adm: 30
     dip: 75
     mil: 60
@@ -1621,12 +3281,77 @@ dan_christian_x_von_glucksburg:
     tag: DAN
   1947.4.20:
     death: yes
+dan_harald_von_glucksburg:
+  1876.10.8:
+    birth: kobenhavn
+    first_name: name_harold
+    dynasty: von_glucksburg_dynasty
+    father: dan_frederik_viii_von_glucksburg
+    mother: dan_louise_bernadotte
+    religion: lutheran
+    culture: danish
+    tag: DAN
+  1949.3.30:
+    death: yes
+dan_alexandrine_von_mecklenburg:
+  1879.12.24:
+    birth: schwerin
+    first_name: alexandrine
+    dynasty: mecklenburg_dynasty
+    female: yes
+    religion: lutheran
+    culture: western_pomeranian
+    tag: GER
+  1898.4.26:
+    spouse: dan_christian_x_von_glucksburg
+    tag: DAN
+  1952.12.28:
+    death: yes
+dan_thyra_frederiksdotter_von_glucksburg:
+  1880.3.14:
+    birth: kobenhavn
+    first_name: thyra
+    dynasty: von_glucksburg_dynasty
+    female: yes
+    father: dan_frederik_viii_von_glucksburg
+    mother: dan_louise_bernadotte
+    religion: lutheran
+    culture: danish
+    tag: DAN
+  1945.11.2:
+    death: yes
+dan_gustav_von_glucksburg:
+  1887.3.4:
+    birth: kobenhavn
+    first_name: name_gustav
+    dynasty: von_glucksburg_dynasty
+    father: dan_frederik_viii_von_glucksburg
+    mother: dan_louise_bernadotte
+    religion: lutheran
+    culture: danish
+    tag: DAN
+  1944.10.5:
+    death: yes
+dan_dagmar_frederiksdotter_von_glucksburg:
+  1890.5.23:
+    birth: kobenhavn
+    first_name: dagmar
+    dynasty: von_glucksburg_dynasty
+    female: yes
+    father: dan_frederik_viii_von_glucksburg
+    mother: dan_louise_bernadotte
+    religion: lutheran
+    culture: danish
+    tag: DAN
+  1961.10.11:
+    death: yes
 dan_frederik_ix_von_glucksburg:
   1899.3.11:
-    birth: kobenhavn #TODO: Location guessed, check if better data is available
-    first_name: frederik
+    birth: kobenhavn
+    first_name: name_frederick
     dynasty: von_glucksburg_dynasty
-    father: dan_christian_x_von_glucksburg_1 #TODO: check if this makes sense
+    father: dan_christian_x_von_glucksburg
+    mother: dan_alexandrine_von_mecklenburg
     adm: 75
     dip: 45
     mil: 45
@@ -1634,6 +3359,18 @@ dan_frederik_ix_von_glucksburg:
     culture: danish
     tag: DAN
   1972.1.14:
+    death: yes
+dan_knud_von_glucksburg:
+  1900.7.27:
+    birth: kobenhavn
+    first_name: knud
+    dynasty: von_glucksburg_dynasty
+    father: dan_christian_x_von_glucksburg
+    mother: dan_alexandrine_von_mecklenburg
+    religion: lutheran
+    culture: danish
+    tag: DAN
+  1976.6.14:
     death: yes
 dan_ingrid_bernadotte:
   1910.3.28:
@@ -1654,73 +3391,135 @@ dan_ingrid_bernadotte:
     tag: DAN
   2002.2.4:
     death: yes
+dan_henri_de_laborde_de_monpezat:
+  1934.6.11:
+    birth: bordeaux #TODO: Talence
+    first_name: henri
+    last_name: de_laborde_de_monpezat
+    religion: catholic
+    culture: french
+    tag: FRA
+  1967.6.10:
+    spouse: dan_margrethe_ii_von_glucksburg
+    first_name: henrik
+    tag: DAN
+    religion: lutheran
+  2018.2.13:
+    death: yes
 dan_margrethe_ii_von_glucksburg:
   1940.4.16:
-    birth: kobenhavn #TODO: Location guessed, check if better data is available
+    birth: kobenhavn
     first_name: margrethe
     dynasty: von_glucksburg_dynasty
     female: yes
-    father: dan_frederik_ix_von_glucksburg_1 #TODO: check if this makes sense
+    father: dan_frederik_ix_von_glucksburg
+    mother: dan_ingrid_bernadotte
     adm: 75
     dip: 60
     mil: 30
     religion: lutheran
     culture: danish
     tag: DAN
-  3000.1.1:
-    death: yes
-dan_margrethe_ii_von_glucksburg_1:
-  1942.1.1:
-    birth: kobenhavn #TODO: Date and location guessed, check if better data is available
-    first_name: margrethe
+dan_benedikte_von_glucksburg:
+  1944.4.29:
+    birth: kobenhavn
+    first_name: benedikte
     dynasty: von_glucksburg_dynasty
     female: yes
-    adm: 75
-    dip: 60
-    mil: 30
+    father: dan_frederik_ix_von_glucksburg
+    mother: dan_ingrid_bernadotte
     religion: lutheran
     culture: danish
     tag: DAN
-  2024.1.14:
-    death: yes
+dan_anne_marie_von_glucksburg:
+  1946.8.30:
+    birth: kobenhavn
+    first_name: anne_marie
+    dynasty: von_glucksburg_dynasty
+    female: yes
+    father: dan_frederik_ix_von_glucksburg
+    mother: dan_ingrid_bernadotte
+    religion: lutheran
+    culture: danish
+    tag: DAN
 dan_frederik_x_von_glucksburg:
   1968.5.26:
-    birth: kobenhavn #TODO: Location guessed, check if better data is available
-    first_name: frederik
+    birth: kobenhavn
+    first_name: name_frederick
     dynasty: von_glucksburg_dynasty
-    father: dan_margrethe_ii_von_glucksburg_1 #TODO: check if this makes sense
+    father: dan_henri_de_laborde_de_monpezat
+    mother: dan_margrethe_ii_von_glucksburg
     adm: 60
     dip: 60
     mil: 45
     religion: lutheran
     culture: danish
     tag: DAN
-  3000.1.1:
-    death: yes
-dan_frederik_x_von_glucksburg_1:
-  1994.1.1:
-    birth: kobenhavn #TODO: Date and location guessed, check if better data is available
-    first_name: frederik
+dan_joachim_von_glucksburg:
+  1969.6.7:
+    birth: kobenhavn
+    first_name: joachim
     dynasty: von_glucksburg_dynasty
-    adm: 60
-    dip: 60
-    mil: 45
+    father: dan_henri_de_laborde_de_monpezat
+    mother: dan_margrethe_ii_von_glucksburg
     religion: lutheran
     culture: danish
     tag: DAN
-  3000.1.1:
-    death: yes
+dan_mary_donaldson:
+  1972.2.5:
+    birth: kobenhavn #TODO: Hobart
+    first_name: mary
+    last_name: donaldson
+    female: yes
+    religion: lutheran #presbyterian
+    culture: british_australian
+    tag: AUST
+  2004.5.14:
+    spouse: dan_frederik_x_von_glucksburg
+    tag: DAN
+    religion: lutheran
 dan_christian_xi_von_glucksburg:
   2005.10.15:
-    birth: kobenhavn #TODO: Location guessed, check if better data is available
-    first_name: christian
+    birth: kobenhavn
+    first_name: name_christian
     dynasty: von_glucksburg_dynasty
-    father: dan_frederik_x_von_glucksburg_1 #TODO: check if this makes sense
+    father: dan_frederik_x_von_glucksburg
+    mother: dan_mary_donaldson
     adm: 60
     dip: 45
     mil: 45
     religion: lutheran
     culture: danish
     tag: DAN
-  3000.1.1:
-    death: yes
+dan_isabella_von_glucksburg:
+  2007.4.21:
+    birth: kobenhavn
+    first_name: isabella
+    dynasty: von_glucksburg_dynasty
+    female: yes
+    father: dan_frederik_x_von_glucksburg
+    mother: dan_mary_donaldson
+    religion: lutheran
+    culture: danish
+    tag: DAN
+dan_vincent_von_glucksburg:
+  2011.1.8:
+    birth: kobenhavn
+    first_name: vincent
+    dynasty: von_glucksburg_dynasty
+    father: dan_frederik_x_von_glucksburg
+    mother: dan_mary_donaldson
+    religion: lutheran
+    culture: danish
+    tag: DAN
+dan_josephine_von_glucksburg:
+  2011.1.8:
+    birth: kobenhavn
+    first_name: josephine
+    dynasty: von_glucksburg_dynasty
+    female: yes
+    father: dan_frederik_x_von_glucksburg
+    mother: dan_mary_donaldson
+    religion: lutheran
+    culture: danish
+    tag: DAN

@@ -1,156 +1,226 @@
-slv_knud_lavard_estridsen:
+dan_canute_lavard:
   1096.3.12:
-    birth: slesvig #TODO: Location guessed, check if better data is available
-    first_name: knud_lavard
-    dynasty: estridsen_dynasty
-    adm: 30
-    dip: 30
-    mil: 45
+    birth: roskilde
+    first_name: name_canute
+    nickname: nick_lavard
+    dynasty: estrid_dynasty
+    father: dan_erik_i
+    religion: catholic
+    culture: danish
+    tag: DAN
+  1115:
+    tag: SLV
+  1131.1.7:
+    death: yes
+dan_ingeborg_of_kiev:
+  1100:
+    birth: kyiv
+    first_name: name_ingeborg
+    female: yes
+    religion: catholic
+    culture: ruthenian
+    tag: KIEV
+  1117:
+    spouse: dan_canute_lavard
+    tag: SLV
+  1140:
+    death: yes
+dan_canute_henriksen:
+  1130:
+    birth: aarhus #unknown
+    first_name: name_canute
+    dynasty: estrid_dynasty
+    father: dan_henrik_skadelar
+    mother: nor_ingrid_ragnvaldsdotter
+    religion: catholic
+    culture: danish
+    tag: DAN
+  1157.10.23:
+    tag: SLV
+  1162.3.12:
+    death: yes
+dan_boris_henriksen:
+  1130:
+    birth: aarhus #unknown
+    first_name: name_boris
+    dynasty: estrid_dynasty
+    father: dan_henrik_skadelar
+    mother: nor_ingrid_ragnvaldsdotter
+    religion: catholic
+    culture: danish
+    tag: DAN
+  1157.10.23:
+    tag: SLV
+  1167:
+    death: yes
+dan_christopher_valdemarsen:
+  1150:
+    birth: roskilde #unknown
+    first_name: name_christopher
+    dynasty: estrid_dynasty
+    female: yes
+    father: dan_valdemar_i
+    religion: catholic
+    culture: danish
+    tag: DAN
+    trait: bastard
+  1167:
+    tag: SLV
+  1173.6.15:
+    death: yes
+slv_valdemar_knudsen:
+  1158:
+    birth: slesvig #unknown
+    first_name: name_waldemar
     religion: catholic
     culture: danish
     tag: SLV
-  1131.6.7:
+  1236.7.18:
     death: yes
-slv_magnus_i_estridsen:
-  1106.1.1:
-    birth: slesvig #TODO: Date and location guessed, check if better data is available
-    first_name: magnus
-    dynasty: estridsen_dynasty
-    adm: 60
-    dip: 45
-    mil: 0
+dan_valdemar_iii_shleswig:
+  1238:
+    birth: slesvig #unknown
+    first_name: name_waldemar
+    dynasty: estrid_dynasty
+    father: dan_abel
+    mother: dan_mechtilde_of_holstein
     religion: catholic
     culture: danish
     tag: SLV
-  1202.11.12:
+  1257:
     death: yes
-slv_valdemar_ii_estridsen:
-  1170.5.9:
-    birth: slesvig #TODO: Location guessed, check if better data is available
+dan_erik_schleswig:
+  1242:
+    birth: slesvig #unknown
+    first_name: name_eric
+    dynasty: estrid_dynasty
+    father: dan_abel
+    mother: dan_mechtilde_of_holstein
+    religion: catholic
+    culture: danish
+    tag: SLV
+  1272.5.27:
+    death: yes
+slv_margaret_of_rugia:
+  1242:
+    birth: rugen
+    first_name: name_margaret
+    dynasty: von_gristow_dynasty
+    female: yes
+    father: ruge_jaromar_ii_von_gristow
+    religion: catholic
+    culture: western_pomeranian
+    tag: RUGE
+  1260:
+    spouse: dan_erik_schleswig
+    tag: SLV
+  1280:
+    death: yes
+dan_valdemar_iv_shleswig:
+  1262:
+    birth: slesvig #unknown
     first_name: valdemar
-    dynasty: estridsen_dynasty
-    adm: 75
-    dip: 75
-    mil: 45
-    religion: catholic
-    culture: danish
-    tag: SLV
-  1209.1.1:
-    death: yes
-slv_valdemar_iii_estridsen:
-  1209.1.1:
-    birth: slesvig #TODO: Date and location guessed, check if better data is available
-    first_name: valdemar
-    dynasty: estridsen_dynasty
-    adm: 15
-    dip: 0
-    mil: 15
-    religion: catholic
-    culture: danish
-    tag: SLV
-  1216.1.1:
-    death: yes
-slv_erik_i_estridsen:
-  1216.1.1:
-    birth: slesvig #TODO: Date and location guessed, check if better data is available
-    first_name: erik
-    dynasty: estridsen_dynasty
-    adm: 60
-    dip: 30
-    mil: 45
-    religion: catholic
-    culture: danish
-    tag: SLV
-  1232.1.1:
-    death: yes
-slv_abel_i_estridsen:
-  1218.1.1:
-    birth: slesvig #TODO: Date and location guessed, check if better data is available
-    first_name: abel
-    dynasty: estridsen_dynasty
-    adm: 75
-    dip: 30
-    mil: 60
-    religion: catholic
-    culture: danish
-    tag: SLV
-  1254.1.1:
-    death: yes
-slv_valdemar_iii_estridsen_1:
-  1238.1.1:
-    birth: slesvig #TODO: Date and location guessed, check if better data is available
-    first_name: valdemar
-    dynasty: estridsen_dynasty
-    adm: 30
-    dip: 30
-    mil: 60
-    religion: catholic
-    culture: danish
-    tag: SLV
-  1257.1.1:
-    death: yes
-slv_erik_i_estridsen_1:
-  1242.1.1:
-    birth: slesvig #TODO: Date and location guessed, check if better data is available
-    first_name: erik
-    dynasty: estridsen_dynasty
-    adm: 60
-    dip: 45
-    mil: 45
-    religion: catholic
-    culture: danish
-    tag: SLV
-  1283.1.1:
-    death: yes
-slv_valdemar_iv_estridsen:
-  1265.1.1:
-    birth: slesvig #TODO: Date and location guessed, check if better data is available
-    first_name: valdemar
-    dynasty: estridsen_dynasty
-    adm: 30
-    dip: 30
-    mil: 60
+    dynasty: estrid_dynasty
+    father: dan_erik_schleswig
+    mother: slv_margaret_of_rugia
     religion: catholic
     culture: danish
     tag: SLV
   1312.7.7:
     death: yes
-slv_erik_ii_estridsen:
-  1290.1.1:
-    birth: slesvig #TODO: Date and location guessed, check if better data is available
-    first_name: erik
-    dynasty: estridsen_dynasty
-    adm: 75
-    dip: 45
-    mil: 45
+slv_elisabeth_of_saxe_lauenburg:
+  1265:
+    birth: lauenburg
+    first_name: name_elizabeth
+    dynasty: askanier_dynasty
+    female: yes
+    religion: catholic
+    culture: lower_saxon
+    tag: LAU
+  1287:
+    spouse: dan_valdemar_iv_shleswig
+    tag: SLV
+  1300:
+    death: yes
+slv_erik_longlegs:
+  1272:
+    birth: slesvig #unknown
+    first_name: name_eric
+    nickname: nick_longlegs
+    dynasty: estrid_dynasty
+    father: dan_erik_schleswig
+    mother: slv_margaret_of_rugia
+    religion: catholic
+    culture: danish
+    tag: SLV
+  1310:
+    death: yes
+dan_erik_ii_schleswig:
+  1290:
+    birth: slesvig #unknown
+    first_name: name_eric
+    dynasty: estrid_dynasty
+    father: dan_valdemar_iv_shleswig
+    mother: slv_elisabeth_of_saxe_lauenburg
     religion: catholic
     culture: danish
     tag: SLV
   1325.3.12:
     death: yes
-slv_valdemar_v_estridsen:
-  1314.1.1:
-    birth: slesvig #TODO: Date and location guessed, check if better data is available
-    first_name: valdemar
-    dynasty: estridsen_dynasty
+dan_adelaide_holstein:
+  1295:
+    birth: slesvig #unknown
+    first_name: name_adelaide
+    dynasty: schauenburg_dynasty
+    female: yes
+    father: shl_henry_i_holstein_rendsburg
+    religion: catholic
+    culture: danish
+    tag: HPL
+  1313:
+    spouse: dan_erik_ii_schleswig
+    tag: SLV
+  1350.1:
+    death: yes
+dan_valdemar_iii:
+  1314:
+    birth: slesvig #unknown
+    first_name: name_waldemar
+    dynasty: estrid_dynasty
+    father: dan_erik_ii_schleswig
+    mother: dan_adelaide_holstein
     adm: 30
     dip: 15
     mil: 45
     religion: catholic
     culture: danish
     tag: SLV
-  1364.1.1:
+  1326:
+    tag: DAN
+  1330:
+    tag: SLV
+  1364:
+    death: yes
+slv_richardis_of_schwerin:
+  1295:
+    birth: schwerin
+    first_name: name_ricarda
+    female: yes
+    religion: catholic
+    culture: western_pomeranian
+    tag: MKL
+  1330:
+    spouse: dan_valdemar_iii
+    tag: SLV
+  1386:
     death: yes
 slv_henrik_i_estridsen:
-  1342.1.1:
-    birth: slesvig #TODO: Date and location guessed, check if better data is available
-    first_name: henrik
-    dynasty: estridsen_dynasty
-    adm: 45
-    dip: 30
-    mil: 45
+  1342:
+    birth: slesvig #unknown
+    first_name: name_henry
+    dynasty: estrid_dynasty
     religion: catholic
     culture: danish
     tag: SLV
-  1375.8.1:
+  1375.8:
     death: yes

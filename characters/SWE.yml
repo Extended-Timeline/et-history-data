@@ -12,6 +12,7 @@ swe_estrid_of_the_obotrites:
   979:
     birth: schwerin #Obotritia
     first_name: estrid
+    female: yes
     religion: romuva
     culture: polabian
     tag: OBOT
@@ -71,6 +72,12 @@ swe_gunnhildr:
     tag: SWE
   1030:
     spouse: swe_anund_jacob
+  1050:
+    spouse: dan_sweyn_estridsson
+    tag: DAN
+  1052:
+    spouse: ---
+    tag: SWE
   1060:
     death: yes
 swe_emund:
@@ -118,6 +125,9 @@ swe_gyda_anundsdotter:
     religion: catholic
     culture: swedish
     tag: SWE
+  1047:
+    spouse: dan_sweyn_estridsson
+    tag: DAN
   1049:
     death: yes
 swe_erik_stenkilsson:
@@ -239,22 +249,8 @@ swe_ragnvald_ingesson:
     tag: SWE
   1140:
     death: yes
-swe_margaret_fredkulla:
-  1085:
-    birth: skara #unknown
-    first_name: name_margaret
-    nickname: nick_fredkulla
-    dynasty: stenkil_dynasty
-    female: yes
-    father: swe_inge_elder
-    mother: swe_helena
-    religion: catholic
-    culture: swedish
-    tag: SWE
-  1130.11.4:
-    death: yes
 swe_katarina_ingesdotter:
-  1085:
+  1090:
     birth: skara #unknown
     first_name: name_catherine
     dynasty: stenkil_dynasty
@@ -264,6 +260,9 @@ swe_katarina_ingesdotter:
     religion: catholic
     culture: swedish
     tag: SWE
+  1120:
+    spouse: dan_bjorn_haraldsen_ironside
+    tag: DAN
   1134:
     death: yes
 swe_inge_younger:
@@ -310,9 +309,12 @@ swe_magnus_i:
   1106:
     birth: stockholm #unknown
     first_name: name_magnus
+    nickname: nick_the_strong
     dynasty: estrid_dynasty
+    father: dan_niels
+    mother: nor_margaret_fredkulla
     religion: catholic
-    culture: swedish
+    culture: danish
     tag: SWE
   1134.6.4:
     death: yes
@@ -349,6 +351,8 @@ swe_christina_estridsen:
     first_name: name_christine
     dynasty: estrid_dynasty
     female: yes
+    father: dan_bjorn_haraldsen_ironside
+    mother: swe_katarina_ingesdotter
     religion: catholic
     culture: danish
     tag: DAN
@@ -362,6 +366,8 @@ swe_magnus_ii:
     birth: stockholm #unknown
     first_name: name_magnus
     dynasty: estrid_dynasty
+    father: dan_henrik_skadelar
+    mother: nor_ingrid_ragnvaldsdotter
     religion: catholic
     culture: danish
     tag: SWE
@@ -372,6 +378,7 @@ swe_bridget_haraldsdotter:
     birth: bergen #unknown
     first_name: name_bridget
     dynasty: gille_dynasty
+    father: nor_harald_iv_gille
     female: yes
     religion: catholic
     culture: norwegian
@@ -430,19 +437,6 @@ swe_canute_i:
     tag: SWE
   1196:
     death: yes
-swe_margaret_eriksdotter:
-  1155:
-    birth: skara #unknown
-    first_name: name_margaret
-    dynasty: erik_dynasty
-    female: yes
-    father: swe_erik_ix_the_holy
-    mother: swe_christina_estridsen
-    religion: catholic
-    culture: swedish
-    tag: SWE
-  1209:
-    death: yes
 swe_cecilia_johansdotter:
   1178:
     birth: skara #unknown
@@ -471,10 +465,12 @@ swe_sverker_younger:
     death: yes
 swe_rikissa_estridsen:
   1178:
-    birth: kobenhavn #unknown
+    birth: ribe #unknown
     first_name: name_rikissa
     dynasty: estrid_dynasty
     female: yes
+    father: dan_valdemar_i
+    mother: dan_sophia_of_minsk
     religion: catholic
     culture: danish
     tag: DAN
@@ -601,6 +597,9 @@ swe_rikissa_birgersdotter:
     religion: catholic
     culture: swedish
     tag: SWE
+  1251:
+    spouse: nor_haakon_the_young
+    tag: NOR
   1288:
     death: yes
 swe_valdemar_birgersson:
@@ -636,7 +635,9 @@ swe_sofia_estridsen:
     birth: kobenhavn
     first_name: name_sophia
     dynasty: estrid_dynasty
+    female: yes
     father: dan_erik_iv
+    mother: dan_jutta_of_saxony
     religion: catholic
     culture: danish
     tag: DAN
@@ -747,6 +748,21 @@ swe_rikissa_valdemarsdotter:
     tag: SWE
   1292:
     death: yes
+swe_martha_estridsen:
+  1278:
+    birth: kobenhavn
+    first_name: name_martha
+    dynasty: estrid_dynasty
+    father: dan_erik_v
+    mother: dan_agnes_of_brandenburg
+    religion: catholic
+    culture: danish
+    tag: DAN
+  1298.11.25:
+    spouse: swe_birger_magnusson
+    tag: SWE
+  1341.3.2:
+    death: yes
 swe_birger_magnusson:
   1280:
     birth: stockholm
@@ -761,20 +777,6 @@ swe_birger_magnusson:
     culture: swedish
     tag: SWE
   1321.5.31:
-    death: yes
-swe_martha_estridsen:
-  1280:
-    birth: kobenhavn
-    first_name: name_martha
-    dynasty: estrid_dynasty
-    father: dan_erik_v
-    religion: catholic
-    culture: danish
-    tag: DAN
-  1298.11.25:
-    spouse: swe_birger_magnusson
-    tag: SWE
-  1341.3.2:
     death: yes
 swe_erik_magnusson:
   1282:
@@ -816,6 +818,22 @@ swe_rikissa_magnusdotter:
     tag: SWE
   1348.12.17:
     death: yes
+swe_ingeborg_sverre:
+  1297:
+    birth: oslo #TODO: Tonsberg
+    first_name: name_ingeborg
+    dynasty: sverre_aetten_dynasty
+    female: yes
+    father: nor_eric_ii_sverre
+    mother: nor_isabel_bruce
+    religion: catholic
+    culture: norwegian
+    tag: NOR
+  1312.9:
+    spouse: swe_valdemar_magnusson
+    tag: SWE
+  1357:
+    death: yes
 swe_magnus_birgersson:
   1300.9:
     birth: stockholm #unknown
@@ -838,6 +856,7 @@ nor_ingeborg:
     dynasty: sverre_aetten_dynasty
     female: yes
     father: nor_hakan_magnusson
+    mother: nor_euphemia_of_rugen
     religion: catholic
     culture: norwegian
     tag: NOR
@@ -861,6 +880,26 @@ swe_magnus_eriksson:
     tag: SWE
   1374.12.1:
     death: yes
+swe_blanka:
+  1320:
+    birth: namur
+    first_name: name_blanche
+    dynasty: dampierre_dynasty
+    female: yes
+    father: nam_jean_i_dampierre
+    mother: nam_marie_artois
+    adm: 45
+    dip: 34
+    mil: 7
+    religion: catholic
+    culture: champenais
+    estate: nobles_estate
+    tag: NAM
+  1335.11:
+    spouse: swe_magnus_eriksson
+    tag: SWE
+  1363:
+    death: yes
 swe_albrekt_i_von_mecklenburg:
   1338:
     birth: schwerin
@@ -877,6 +916,18 @@ swe_albrekt_i_von_mecklenburg:
   1395:
     tag: MKL
   1412.4.1:
+    death: yes
+swe_erik_xii:
+  1339:
+    birth: stockholm #unknown
+    first_name: name_eric
+    dynasty: bjalbo_atten_dynasty
+    father: swe_magnus_eriksson
+    mother: swe_blanka
+    religion: catholic
+    culture: swedish
+    tag: SWE
+  1359.6.20:
     death: yes
 swe_richardis_von_hagen:
   1347:
@@ -1887,7 +1938,7 @@ swe_john_casimir_von_wittelsbach:
   1589.4.20:
     birth: zweibrucken
     first_name: name_john.name_casimir
-    dynasty: von_wittelsbach_dynasty
+    dynasty: wittelsbach_dynasty
     adm: 45
     dip: 70
     mil: 50
@@ -2020,7 +2071,7 @@ swe_karl_x_gustav_von_wittelsbach:
   1622.11.8:
     birth: nykoping
     first_name: name_charles.name_gustav
-    dynasty: von_wittelsbach_dynasty
+    dynasty: wittelsbach_dynasty
     father: swe_john_casimir_von_wittelsbach
     mother: swe_katarina_vasa
     adm: 45
@@ -2071,7 +2122,7 @@ swe_karl_xi_von_wittelsbach:
   1655.11.24:
     birth: stockholm
     first_name: name_charles
-    dynasty: von_wittelsbach_dynasty
+    dynasty: wittelsbach_dynasty
     father: swe_karl_x_gustav_von_wittelsbach
     mother: swe_hedvig_eleonora_von_holstein_gottorp
     adm: 75
@@ -2086,7 +2137,7 @@ swe_ulrika_eleonora_von_oldenburg:
   1656.9.11:
     birth: kobenhavn
     first_name: name_ulrike.name_eleanor
-    dynasty: von_oldenburg_dynasty
+    dynasty: oldenburg_dynasty
     female: yes
     father: dan_frederik_iii_von_oldenburg
     mother: dan_sophie_amalie_von_welf
@@ -2105,7 +2156,7 @@ swe_karl_xii_von_wittelsbach:
   1682.6.17:
     birth: stockholm
     first_name: name_charles
-    dynasty: von_wittelsbach_dynasty
+    dynasty: wittelsbach_dynasty
     father: swe_karl_xi_von_wittelsbach
     mother: swe_ulrika_eleonora_von_oldenburg
     adm: 45
@@ -2139,7 +2190,7 @@ swe_ulrika_eleonora_von_wittelsbach:
   1688.1.23:
     birth: stockholm
     first_name: name_ulrike.name_eleanor
-    dynasty: von_wittelsbach_dynasty
+    dynasty: wittelsbach_dynasty
     female: yes
     father: swe_karl_xi_von_wittelsbach
     mother: swe_ulrika_eleonora_von_oldenburg
@@ -2220,7 +2271,7 @@ swe_sofia_magdalena_von_oldenburg:
   1746.7.3:
     birth: kobenhavn
     first_name: name_sophia.name_madeleine
-    dynasty: von_oldenburg_dynasty
+    dynasty: oldenburg_dynasty
     female: yes
     father: dan_frederik_v_von_oldenburg
     mother: dan_louise_von_hannover
@@ -2683,6 +2734,22 @@ swe_eugen_bernadotte:
     culture: swedish
     tag: SWE
   1947.8.17:
+    death: yes
+swe_ingeborg_of_denmark:
+  1878.8.2:
+    birth: kobenhavn
+    first_name: name_ingeborg
+    dynasty: von_glucksburg_dynasty
+    female: yes
+    father: dan_frederik_viii_von_glucksburg
+    mother: dan_louise_bernadotte
+    religion: lutheran
+    culture: danish
+    tag: DAN
+  1897.8.27:
+    spouse: swe_carl_bernadotte
+    tag: SWE
+  1958.3.12:
     death: yes
 swe_margaret_of_connaught:
   1882.1.15:

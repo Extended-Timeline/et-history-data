@@ -13,14 +13,18 @@ gre_othon_i_von_wittelsbach:
     death: yes
 gre_georgios_i_von_glucksburg:
   1845.12.24:
-    birth: athens #TODO: Location guessed, check if better data is available
-    first_name: georgios
+    birth: kobenhavn
+    first_name: name_george
     dynasty: von_glucksburg_dynasty
+    father: dan_christian_ix_von_glucksburg
+    mother: dan_louise_von_hesse_kassel
     adm: 30
     dip: 75
     mil: 45
-    religion: orthodox
-    culture: greek_culture
+    religion: lutheran
+    culture: danish
+    tag: DAN
+  1863.3.30:
     tag: GRE
   1913.3.18:
     death: yes

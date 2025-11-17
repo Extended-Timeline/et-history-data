@@ -437,6 +437,22 @@ bra_heinrich_ii_askanier:
     tag: BRA
   1378.12.9:
     death: yes
+bra_margrethe_estric:
+  1305:
+    birth: roskilde #unknown
+    first_name: name_margaret
+    dynasty: estrid_dynasty
+    female: yes
+    father: dan_chistopher_ii
+    mother: dan_euphemia_of_pomerania
+    religion: catholic
+    culture: danish
+    tag: DAN
+  1324:
+    spouse: bra_ludwig_v_wittelsbach
+    tag: BRA
+  1340:
+    death: yes
 bra_siegmund_i_von_luxemburg:
   1348.1.1:
     birth: brandenburg #TODO: Date and location guessed, check if better data is available

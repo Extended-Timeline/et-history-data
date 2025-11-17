@@ -94,21 +94,23 @@ nor_eric_bloodaxe:
   954:
     death: yes
 nor_gunnhildr_gormsdottir:
-  900:
+  905:
     birth: aarhus #Jutland
     first_name: gunnhildr
-    last_name: gormsdottir
+    dynasty: canute_dynasty
     female: yes
+    father: dan_gorm_the_old
+    mother: dan_thyra
     religion: norse
     culture: danish
     tag: DAN
-  915:
+  920:
     spouse: nor_eric_bloodaxe
     tag: NOR
   980:
     death: yes
 nor_gamle_eirikssen:
-  916:
+  920:
     birth: bergen #unknown
     first_name: gamle
     dynasty: fairhair_dynasty
@@ -201,7 +203,7 @@ nor_ragnhild_eriksdotter:
   984:
     death: yes
 nor_olaf_tryggvason:
-  965.1.1:
+  965:
     birth: oslo #unknown
     first_name: name_olaf
     dynasty: fairhair_dynasty
@@ -216,6 +218,21 @@ nor_olaf_tryggvason:
   988:
     religion: catholic
   1000.9.9:
+    death: yes
+nor_tyra_of_denmark:
+  965:
+    birth: kolding #unknown
+    first_name: tyra
+    dynasty: canute_dynasty
+    female: yes
+    father: dan_harald_bluetooth
+    mother: dan_tove_of_the_obotrites
+    religion: catholic
+    culture: danish
+    tag: DAN
+  985:
+    spouse: nor_olaf_tryggvason
+  1000:
     death: yes
 nor_olaf_ii:
   995.1.1:
@@ -282,19 +299,65 @@ nor_harald_iii_hardrada:
     nickname: nick_hardrada
     dynasty: hardrada_dynasty
     adm: 70
-    dip: 55
+    dip: 65
     mil: 85
     religion: catholic
     culture: norwegian
     tag: NOR
   1066.9.25:
     death: yes
-nor_magnus_ii_hardrada:
-  1049.1.1:
-    birth: oslo #TODO: Date and location guessed, check if better data is available
-    first_name: magnus
+nor_elisiv_of_kiev:
+  1025:
+    birth: kyiv #unknown
+    first_name: name_elisiv
+    dynasty: rurikovich_dynasty
+    female: yes
+    religion: orthodox
+    culture: ruthenian
+    tag: KIEV
+  1044:
+    spouse: nor_harald_iii_hardrada
+    tag: NOR
+  1067:
+    death: yes
+nor_maria_haraldsdotter:
+  1045:
+    birth: oslo #unknown
+    first_name: name_mary
     dynasty: hardrada_dynasty
-    father: nor_harald_iii_hardrada #TODO: check if this makes sense
+    female: yes
+    father: nor_harald_iii_hardrada
+    mother: nor_elisiv_of_kiev
+    religion: catholic
+    culture: norwegian
+    tag: NOR
+  1066.9.25:
+    death: yes
+nor_ingegerd_haraldsdotter:
+  1046:
+    birth: oslo #unknown
+    first_name: ingegerd
+    dynasty: hardrada_dynasty
+    female: yes
+    father: nor_harald_iii_hardrada
+    mother: nor_elisiv_of_kiev
+    religion: catholic
+    culture: norwegian
+    tag: NOR
+  1067:
+    spouse: dan_olaf_hunger
+    tag: DAN
+  1096:
+    spouse: swe_philip
+    tag: SWE
+  1120:
+    death: yes
+nor_magnus_ii_hardrada:
+  1048:
+    birth: oslo #unknown
+    first_name: name_magnus
+    dynasty: hardrada_dynasty
+    father: nor_harald_iii_hardrada
     adm: 75
     dip: 60
     mil: 45
@@ -303,25 +366,12 @@ nor_magnus_ii_hardrada:
     tag: NOR
   1069.4.28:
     death: yes
-nor_magnus_ii_hardrada_1:
-  1036.1.1:
-    birth: oslo #TODO: Date and location guessed, check if better data is available
-    first_name: magnus
-    dynasty: hardrada_dynasty
-    adm: 75
-    dip: 60
-    mil: 45
-    religion: catholic
-    culture: norwegian
-    tag: NOR
-  1067.1.1:
-    death: yes
 nor_olaf_iii_hardrada:
-  1050.1.1:
-    birth: oslo #TODO: Date and location guessed, check if better data is available
-    first_name: olaf
+  1050:
+    birth: oslo #unknown
+    first_name: name_olaf
     dynasty: hardrada_dynasty
-    father: nor_magnus_ii_hardrada_1 #TODO: check if this makes sense
+    father: nor_harald_iii_hardrada
     adm: 45
     dip: 45
     mil: 60
@@ -330,25 +380,28 @@ nor_olaf_iii_hardrada:
     tag: NOR
   1093.9.22:
     death: yes
-nor_olaf_iii_hardrada_1:
-  1037.1.1:
-    birth: oslo #TODO: Date and location guessed, check if better data is available
-    first_name: olaf
-    dynasty: hardrada_dynasty
-    adm: 45
-    dip: 45
-    mil: 60
+nor_ingerid_swendsdatter:
+  1050:
+    birth: kobenhavn #unknown
+    first_name: ingerid
+    dynasty: estrid_dynasty
+    female: yes
+    father: dan_sweyn_estridsson
     religion: catholic
-    culture: norwegian
+    culture: danish
+    tag: DAN
+  1067:
+    spouse: nor_olaf_iii_hardrada
     tag: NOR
-  1093.1.1:
+  1100:
     death: yes
 nor_magnus_iii_hardrada:
-  1073.1.1:
-    birth: oslo #TODO: Date and location guessed, check if better data is available
-    first_name: magnus
+  1073:
+    birth: oslo #unknown
+    first_name: name_magnus
+    nickname: nick_barefoot
     dynasty: hardrada_dynasty
-    father: nor_olaf_iii_hardrada_1 #TODO: check if this makes sense
+    father: nor_olaf_iii_hardrada
     adm: 60
     dip: 15
     mil: 75
@@ -357,25 +410,35 @@ nor_magnus_iii_hardrada:
     tag: NOR
   1103.8.24:
     death: yes
-nor_magnus_iii_hardrada_1:
-  1063.1.1:
-    birth: oslo #TODO: Date and location guessed, check if better data is available
-    first_name: magnus
-    dynasty: hardrada_dynasty
-    adm: 60
-    dip: 15
-    mil: 75
+nor_margaret_fredkulla:
+  1085:
+    birth: skara #unknown
+    first_name: name_margaret
+    nickname: nick_fredkulla
+    dynasty: stenkil_dynasty
+    female: yes
+    father: swe_inge_elder
+    mother: swe_helena
     religion: catholic
-    culture: norwegian
+    culture: swedish
+    tag: SWE
+  1101:
+    spouse: nor_magnus_iii_hardrada
     tag: NOR
   1103.8.24:
+    tag: SWE
+  1105:
+    spouse: dan_niels
+    tag: DAN
+  1130.11.4:
     death: yes
 nor_sigurd_i_hardrada:
-  1089.1.1:
-    birth: oslo #TODO: Date and location guessed, check if better data is available
-    first_name: sigurd
+  1089:
+    birth: oslo #unknown
+    first_name: name_sigurd
+    nickname: nick_the_crusader
     dynasty: hardrada_dynasty
-    father: nor_magnus_iii_hardrada_1 #TODO: check if this makes sense
+    father: nor_magnus_iii_hardrada
     adm: 60
     dip: 45
     mil: 75
@@ -384,52 +447,180 @@ nor_sigurd_i_hardrada:
     tag: NOR
   1130.3.26:
     death: yes
-nor_sigurd_i_hardrada_1:
-  1073.1.1:
-    birth: oslo #TODO: Date and location guessed, check if better data is available
-    first_name: sigurd
-    dynasty: hardrada_dynasty
-    adm: 60
-    dip: 45
-    mil: 75
-    religion: catholic
-    culture: norwegian
+nor_malmfred_of_kiev:
+  1095:
+    birth: kyiv #unknown
+    first_name: malmfred
+    dynasty: rurikovich_dynasty
+    female: yes
+    religion: orthodox
+    culture: ruthenian
+    tag: KIEV
+  1116:
+    spouse: nor_sigurd_i_hardrada
     tag: NOR
-  1130.3.26:
+  1128:
+    spouse: ---
+  1130:
+    spouse: dan_erik_ii
+    tag: DAN
+  1140:
     death: yes
-nor_magnus_iv_hardrada:
-  1115.1.1:
-    birth: oslo #TODO: Date and location guessed, check if better data is available
-    first_name: magnus
+nor_olaf_magnusson:
+  1099:
+    birth: oslo #unknown
+    first_name: name_olaf
     dynasty: hardrada_dynasty
-    father: nor_sigurd_i_hardrada_1 #TODO: check if this makes sense
-    adm: 30
-    dip: 60
-    mil: 75
+    father: nor_magnus_iii_hardrada
     religion: catholic
     culture: norwegian
     tag: NOR
-  1139.11.12:
+  1115.12.22:
     death: yes
 nor_harald_iv_gille:
-  1100.1.1:
-    birth: oslo #TODO: Date and location guessed, check if better data is available
-    first_name: harald
+  1102:
+    birth: dublin
+    first_name: name_harold
     dynasty: gille_dynasty
     adm: 45
     dip: 45
     mil: 30
     religion: catholic
     culture: norwegian
+    tag: LOI
+  1127:
     tag: NOR
   1136.12.14:
     death: yes
-nor_inge_i_gille:
-  1135.1.1:
-    birth: oslo #TODO: Date and location guessed, check if better data is available
-    first_name: inge
+nor_eystein_magnusson:
+  1103:
+    birth: oslo #unknown
+    first_name: name_eystein
+    dynasty: hardrada_dynasty
+    father: nor_magnus_iii_hardrada
+    religion: catholic
+    culture: norwegian
+    tag: NOR
+  1123.8.29:
+    death: yes
+nor_ingrid_ragnvaldsdotter:
+  1105:
+    birth: skara #unknown
+    first_name: name_ingrid
+    dynasty: stenkil_dynasty
+    father: swe_ragnvald_ingesson
+    female: yes
+    religion: catholic
+    culture: swedish
+    tag: SWE
+  1125:
+    spouse: dan_henrik_skadelar
+    tag: DAN
+  1135:
+    spouse: nor_harald_iv_gille
+    tag: NOR
+  1165:
+    death: yes
+nor_magnus_iv_hardrada:
+  1115:
+    birth: oslo #unknown
+    first_name: magnus
+    nickname: the_blind
+    dynasty: hardrada_dynasty
+    father: nor_sigurd_i_hardrada
+    adm: 30
+    dip: 20
+    mil: 45
+    religion: catholic
+    culture: norwegian
+    tag: NOR
+  1139.11.12:
+    death: yes
+nor_erling_skakke:
+  1115:
+    birth: oslo #TODO: Etne
+    first_name: erling
+    nickname: nick_skakke
+    religion: catholic
+    culture: norwegian
+    tag: NOR
+  1130:
+    spouse: nor_kristin_sigurdsdatter
+  1179.6.18:
+    death: yes
+nor_christina_of_denmark:
+  1118:
+    birth: kobenhavn #unknown
+    first_name: name_christine
+    dynasty: estrid_dynasty
+    female: yes
+    father: dan_canute_lavard
+    mother: dan_ingeborg_of_kiev
+    religion: catholic
+    culture: danish
+    tag: DAN
+  1133:
+    spouse: nor_magnus_iv_hardrada
+    tag: NOR
+  1139:
+    death: yes
+nor_kristin_sigurdsdatter:
+  1125:
+    birth: oslo #unknown
+    first_name: kristin
+    dynasty: hardrada_dynasty
+    female: yes
+    father: nor_sigurd_i_hardrada
+    mother: nor_malmfred_of_kiev
+    religion: catholic
+    culture: norwegian
+    tag: NOR
+  1178:
+    death: yes
+nor_eystein_ii_gille:
+  1125:
+    birth: oslo #TODO: Scotland
+    first_name: name_eystein
     dynasty: gille_dynasty
-    father: nor_harald_iv_gille #TODO: check if this makes sense
+    father: nor_harald_iv_gille
+    adm: 15
+    dip: 60
+    mil: 60
+    religion: catholic
+    culture: norwegian
+    tag: NOR
+  1157.8.21:
+    death: yes
+nor_ragna_nikolasdatter:
+  1125:
+    birth: oslo #unknown
+    first_name: ragna
+    female: yes
+    religion: catholic
+    culture: norwegian
+    tag: NOR
+  1145:
+    spouse: nor_eystein_ii_gille
+  1161.2.3:
+    death: yes
+nor_sigurd_ii_gille:
+  1133:
+    birth: oslo #unknown
+    first_name: name_sigurd
+    dynasty: gille_dynasty
+    father: nor_harald_iv_gille
+    religion: catholic
+    culture: norwegian
+    tag: NOR
+  1155.6.10:
+    death: yes
+nor_inge_i_gille:
+  1135:
+    birth: oslo #unknown
+    first_name: name_inge
+    dynasty: gille_dynasty
+    father: nor_harald_iv_gille
+    mother: nor_ingrid_ragnvaldsdotter
     adm: 45
     dip: 60
     mil: 45
@@ -438,78 +629,114 @@ nor_inge_i_gille:
     tag: NOR
   1161.2.4:
     death: yes
-nor_inge_i_gille_1:
-  1106.1.1:
-    birth: oslo #TODO: Date and location guessed, check if better data is available
-    first_name: inge
+nor_magnus_haraldsson_gille:
+  1135:
+    birth: oslo #unknown
+    first_name: name_magnus
     dynasty: gille_dynasty
-    adm: 45
-    dip: 60
-    mil: 45
+    father: nor_harald_iv_gille
     religion: catholic
     culture: norwegian
     tag: NOR
-  1142.1.1:
+  1145:
     death: yes
-nor_eystein_ii_gille:
-  1125.1.1:
-    birth: oslo #TODO: Date and location guessed, check if better data is available
-    first_name: eystein
-    dynasty: gille_dynasty
-    father: nor_inge_i_gille_1 #TODO: check if this makes sense
-    adm: 15
-    dip: 60
+nor_sverre_i_sverre:
+  1145:
+    birth: oslo #TODO: Faroes
+    first_name: sverre
+    dynasty: sverre_aetten_dynasty
+    adm: 75
+    dip: 45
     mil: 60
     religion: catholic
     culture: norwegian
     tag: NOR
-  1157.8.21:
-    death: yes
-nor_eystein_ii_gille_1:
-  1112.1.1:
-    birth: oslo #TODO: Date and location guessed, check if better data is available
-    first_name: eystein
-    dynasty: gille_dynasty
-    adm: 15
-    dip: 60
-    mil: 60
-    religion: catholic
-    culture: norwegian
-    tag: NOR
-  1157.8.21:
+  1202.3.9:
     death: yes
 nor_hakon_ii_gille:
-  1147.1.1:
-    birth: oslo #TODO: Date and location guessed, check if better data is available
-    first_name: hakon
+  1147:
+    birth: oslo #unknown
+    first_name: name_hacon
     dynasty: gille_dynasty
-    father: nor_eystein_ii_gille_1 #TODO: check if this makes sense
+    father: nor_sigurd_ii_gille
     adm: 15
-    dip: 75
+    dip: 55
     mil: 60
     religion: catholic
     culture: norwegian
     tag: NOR
   1162.7.7:
     death: yes
-nor_hakon_ii_gille_1:
-  1127.1.1:
-    birth: oslo #TODO: Date and location guessed, check if better data is available
-    first_name: hakon
+nor_eystein_meyla:
+  1150:
+    birth: oslo #TODO: Scotland
+    first_name: name_eystein
     dynasty: gille_dynasty
-    adm: 15
-    dip: 75
-    mil: 60
+    father: nor_eystein_ii_gille
+    mother: nor_ragna_nikolasdatter
     religion: catholic
     culture: norwegian
     tag: NOR
-  1162.7.7:
+  1177.1:
+    death: yes
+nor_bard_guttormsson:
+  1150:
+    birth: oslo #unknown
+    first_name: guttorm
+    dynasty: godwin_dynasty
+    religion: catholic
+    culture: norwegian
+    tag: NOR
+  1184:
+    spouse: nor_cecilia_sigurdsdotter
+  1194.4.3:
+    death: yes
+nor_margaret_eriksdotter:
+  1155:
+    birth: skara #unknown
+    first_name: name_margaret
+    dynasty: erik_dynasty
+    female: yes
+    father: swe_erik_ix_the_holy
+    mother: swe_christina_estridsen
+    religion: catholic
+    culture: swedish
+    tag: SWE
+  1189:
+    spouse: nor_sverre_i_sverre
+    tag: NOR
+  1209:
+    death: yes
+nor_sigurd_markusfostre:
+  1155:
+    birth: oslo #unknown
+    first_name: name_sigurd
+    dynasty: gille_dynasty
+    father: nor_sigurd_ii_gille
+    religion: catholic
+    culture: norwegian
+    tag: NOR
+  1163.9.29:
+    death: yes
+nor_cecilia_sigurdsdotter:
+  1155:
+    birth: oslo #unknown
+    first_name: name_sigurd
+    dynasty: gille_dynasty
+    female: yes
+    father: nor_sigurd_ii_gille
+    religion: catholic
+    culture: norwegian
+    tag: NOR
+  1186:
     death: yes
 nor_magnus_v_hardrada:
-  1132.1.1:
-    birth: oslo #TODO: Date and location guessed, check if better data is available
-    first_name: magnus
+  1156:
+    birth: oslo #TODO: Etne
+    first_name: name_magnus
     dynasty: hardrada_dynasty
+    father: nor_erling_skakke
+    mother: nor_kristin_sigurdsdatter
     adm: 30
     dip: 45
     mil: 60
@@ -518,25 +745,35 @@ nor_magnus_v_hardrada:
     tag: NOR
   1184.6.15:
     death: yes
-nor_sverre_i_sverre:
-  1154.1.1:
-    birth: oslo #TODO: Date and location guessed, check if better data is available
-    first_name: sverre
-    dynasty: sverre_dynasty
-    adm: 75
-    dip: 45
-    mil: 30
+nor_sigurd_lavard:
+  1175:
+    birth: oslo #TODO: Faroes
+    first_name: name_sigurd
+    nickname: nick_lavard
+    dynasty: sverre_aetten_dynasty
+    father: nor_sverre_i_sverre
     religion: catholic
     culture: norwegian
     tag: NOR
-  1202.3.9:
+  1200:
+    death: yes
+nor_sigurd_magnusson:
+  1180:
+    birth: oslo #unknown
+    first_name: name_sigurd
+    dynasty: hardrada_dynasty
+    father: nor_magnus_v_hardrada
+    religion: catholic
+    culture: norwegian
+    tag: NOR
+  1194.4.3:
     death: yes
 nor_hakon_iii_sverre:
-  1185.1.1:
-    birth: oslo #TODO: Date and location guessed, check if better data is available
-    first_name: hakon
-    dynasty: sverre_dynasty
-    father: nor_sverre_i_sverre #TODO: check if this makes sense
+  1183:
+    birth: oslo #unknown
+    first_name: name_hacon
+    dynasty: sverre_aetten_dynasty
+    father: nor_sverre_i_sverre
     adm: 45
     dip: 15
     mil: 60
@@ -544,52 +781,14 @@ nor_hakon_iii_sverre:
     culture: norwegian
     tag: NOR
   1204.1.1:
-    death: yes
-nor_hakon_iii_sverre_1:
-  1172.1.1:
-    birth: oslo #TODO: Date and location guessed, check if better data is available
-    first_name: hakon
-    dynasty: sverre_dynasty
-    adm: 45
-    dip: 15
-    mil: 60
-    religion: catholic
-    culture: norwegian
-    tag: NOR
-  1204.1.1:
-    death: yes
-nor_guttorm_i_sverre:
-  1199.1.1:
-    birth: oslo #TODO: Date and location guessed, check if better data is available
-    first_name: guttorm
-    dynasty: sverre_dynasty
-    father: nor_hakon_iii_sverre_1 #TODO: check if this makes sense
-    adm: 45
-    dip: 30
-    mil: 15
-    religion: catholic
-    culture: norwegian
-    tag: NOR
-  1204.8.11:
-    death: yes
-nor_guttorm_i_sverre_1:
-  1174.1.1:
-    birth: oslo #TODO: Date and location guessed, check if better data is available
-    first_name: guttorm
-    dynasty: sverre_dynasty
-    adm: 45
-    dip: 30
-    mil: 15
-    religion: catholic
-    culture: norwegian
-    tag: NOR
-  1204.8.11:
     death: yes
 nor_inge_ii_gille:
-  1174.1.1:
-    birth: oslo #TODO: Date and location guessed, check if better data is available
+  1185:
+    birth: oslo #unknown
     first_name: inge
-    dynasty: gille_dynasty
+    dynasty: godwin_dynasty
+    father: nor_bard_guttormsson
+    mother: nor_cecilia_sigurdsdotter
     adm: 45
     dip: 30
     mil: 45
@@ -598,11 +797,36 @@ nor_inge_ii_gille:
     tag: NOR
   1217.4.23:
     death: yes
+nor_christina_sverresdatter:
+  1190:
+    birth: oslo #unknown
+    first_name: name_christine
+    dynasty: sverre_aetten_dynasty
+    female: yes
+    father: nor_sverre_i_sverre
+    mother: nor_margaret_eriksdotter
+    religion: catholic
+    culture: norwegian
+    tag: NOR
+  1213:
+    death: yes
+nor_guttorm_i_sverre:
+  1199:
+    birth: oslo #unknown
+    first_name: guttorm
+    dynasty: sverre_aetten_dynasty
+    father: nor_sigurd_lavard
+    religion: catholic
+    culture: norwegian
+    tag: NOR
+  1204.8.11:
+    death: yes
 nor_hakon_iv_sverre:
-  1187.1.1:
-    birth: oslo #TODO: Date and location guessed, check if better data is available
-    first_name: hakon
-    dynasty: sverre_dynasty
+  1204.4.1:
+    birth: oslo #TODO: Folkenborg
+    first_name: name_hacon
+    dynasty: sverre_aetten_dynasty
+    father: nor_hakon_iii_sverre
     adm: 60
     dip: 45
     mil: 45
@@ -611,39 +835,109 @@ nor_hakon_iv_sverre:
     tag: NOR
   1263.12.16:
     death: yes
+nor_margaret_skulesdatter:
+  1208:
+    birth: oslo #unknown
+    first_name: name_margaret
+    dynasty: godwin_dynasty
+    female: yes
+    religion: catholic
+    culture: norwegian
+    tag: NOR
+  1225.5.25:
+    spouse: nor_hakon_iv_sverre
+  1270:
+    death: yes
+nor_cecilia_haakonsdotter:
+  1224:
+    birth: oslo #unknown
+    first_name: name_cecile
+    dynasty: sverre_aetten_dynasty
+    female: yes
+    father: nor_hakon_iv_sverre
+    religion: catholic
+    culture: norwegian
+    tag: NOR
+  1248:
+    death: yes
+nor_haakon_the_young:
+  1232.11.10:
+    birth: oslo #unknown
+    first_name: name_hacon
+    nickname: the_young
+    dynasty: sverre_aetten_dynasty
+    father: nor_hakon_iv_sverre
+    mother: nor_margaret_skulesdatter
+    religion: catholic
+    culture: norwegian
+    tag: NOR
+  1257.5.5:
+    death: yes
+nor_christina_of_norway:
+  1234:
+    birth: oslo #unknown
+    first_name: name_christine
+    dynasty: sverre_aetten_dynasty
+    female: yes
+    father: nor_hakon_iv_sverre
+    mother: nor_margaret_skulesdatter
+    religion: catholic
+    culture: norwegian
+    tag: NOR
+  1262:
+    death: yes
 nor_magnus_vi_sverre:
-  1238.5.1:
-    birth: oslo #TODO: Location guessed, check if better data is available
-    first_name: magnus
-    dynasty: sverre_dynasty
-    father: nor_hakon_iv_sverre #TODO: check if this makes sense
-    adm: 45
-    dip: 15
+  1238.5.3:
+    birth: oslo #TODO: Tonsberg
+    first_name: name_magnus
+    dynasty: sverre_aetten_dynasty
+    father: nor_hakon_iv_sverre
+    mother: nor_margaret_skulesdatter
+    adm: 55
+    dip: 65
     mil: 45
     religion: catholic
     culture: norwegian
     tag: NOR
   1280.5.9:
     death: yes
-nor_magnus_vi_sverre_1:
-  1233.1.1:
-    birth: oslo #TODO: Date and location guessed, check if better data is available
-    first_name: magnus
-    dynasty: sverre_dynasty
-    adm: 45
-    dip: 15
-    mil: 45
+nor_ingeborg_of_denmark:
+  1244:
+    birth: kobenhavn #unknown
+    first_name: name_ingeborg
+    dynasty: estrid_dynasty
+    female: yes
+    father: dan_erik_iv
+    mother: dan_jutta_of_saxony
     religion: catholic
-    culture: norwegian
+    culture: danish
+    tag: DAN
+  1261.9.11:
+    spouse: nor_magnus_vi_sverre
     tag: NOR
-  1280.5.9:
+  1287.3.26:
+    death: yes
+nor_margaret_of_scotland:
+  1261.2.28:
+    birth: windsor
+    first_name: name_margaret
+    dynasty: dunkeld_dynasty
+    female: yes
+    religion: catholic
+    culture: scottish
+    tag: SCO
+  1281.9:
+    spouse: nor_eric_ii_sverre
+    tag: NOR
+  1287.3.26:
     death: yes
 nor_eric_ii_sverre:
-  1268.1.1:
-    birth: oslo #TODO: Date and location guessed, check if better data is available
-    first_name: eric
-    dynasty: sverre_dynasty
-    father: nor_magnus_vi_sverre_1 #TODO: check if this makes sense
+  1268:
+    birth: oslo #unknown
+    first_name: name_eric
+    dynasty: sverre_aetten_dynasty
+    father: nor_magnus_vi_sverre
+    mother: nor_ingeborg_of_denmark
     adm: 30
     dip: 75
     mil: 45
@@ -652,150 +946,260 @@ nor_eric_ii_sverre:
     tag: NOR
   1299.7.15:
     death: yes
-nor_eric_ii_sverre_1:
-  1250.1.1:
-    birth: oslo #TODO: Date and location guessed, check if better data is available
-    first_name: eric
-    dynasty: sverre_dynasty
-    adm: 30
-    dip: 75
-    mil: 45
-    religion: catholic
-    culture: norwegian
-    tag: NOR
-  1299.7.15:
-    death: yes
-nor_hakon_v_sverre:
+nor_hakan_magnusson:
   1270.4.10:
-    birth: oslo #TODO: Location guessed, check if better data is available
-    first_name: hakon
-    dynasty: sverre_dynasty
-    father: nor_eric_ii_sverre_1 #TODO: check if this makes sense
-    adm: 15
-    dip: 60
-    mil: 60
+    birth: oslo #unknown
+    first_name: name_hacon
+    dynasty: sverre_aetten_dynasty
+    father: nor_magnus_vi_sverre
+    mother: nor_ingeborg_of_denmark
+    adm: 77
+    dip: 42
+    mil: 42
     religion: catholic
     culture: norwegian
     tag: NOR
   1319.5.8:
     death: yes
-nor_hakon_v_sverre_1:
-  1269.1.1:
-    birth: oslo #TODO: Date and location guessed, check if better data is available
-    first_name: hakon
-    dynasty: sverre_dynasty
-    adm: 15
-    dip: 60
-    mil: 60
+nor_isabel_bruce:
+  1272:
+    birth: windsor #TODO: Carrick
+    first_name: name_elizabeth
+    dynasty: bruce_dynasty
+    female: yes
+    religion: catholic
+    culture: scottish
+    tag: SCO
+  1293:
+    spouse: nor_eric_ii_sverre
+    tag: NOR
+  1358:
+    death: yes
+nor_euphemia_of_rugen:
+  1280:
+    birth: rugen
+    first_name: name_euphemia
+    dynasty: vitslav_dynasty
+    female: yes
+    religion: catholic
+    culture: western_pomeranian
+    tag: RUGE
+  1299.4:
+    spouse: nor_hakan_magnusson
+    tag: NOR
+  1312:
+    death: yes
+nor_margaret_sverre:
+  1283.4:
+    birth: oslo #TODO: Tonsberg
+    first_name: name_margaret
+    dynasty: sverre_aetten_dynasty
+    female: yes
+    father: nor_eric_ii_sverre
+    mother: nor_margaret_of_scotland
     religion: catholic
     culture: norwegian
     tag: NOR
-  1343.8.15:
+  1290.9.29:
+    death: yes
+nor_agnes:
+  1290:
+    birth: oslo #TODO: Tonsberg
+    first_name: name_agnes
+    dynasty: sverre_aetten_dynasty
+    female: yes
+    father: nor_hakan_magnusson
+    religion: catholic
+    culture: norwegian
+    tag: NOR
+  1319:
     death: yes
 nor_hakon_vi_af_bjalbo:
-  1313.1.1:
-    birth: oslo #TODO: Date and location guessed, check if better data is available
-    first_name: hakon
-    dynasty: af_bjalbo_dynasty
+  1340.8:
+    birth: stockholm #Sweden
+    first_name: name_hacon
+    dynasty: bjalbo_atten_dynasty
     adm: 45
     dip: 60
     mil: 45
-    religion: lutheran
-    culture: norwegian
+    father: swe_magnus_eriksson
+    mother: swe_blanka
+    religion: catholic
+    culture: swedish
+    tag: SWE
+  1343.8.15:
     tag: NOR
-  1814.2.16:
+  1380.9.11:
     death: yes
-nor_christian_frederik_von_oldenburg:
-  1784.1.1:
-    birth: oslo #TODO: Date and location guessed, check if better data is available
-    first_name: christian_frederik
-    dynasty: von_oldenburg_dynasty
-    adm: 15
-    dip: 15
-    mil: 15
-    religion: lutheran
-    culture: norwegian
+nor_maud_of_wales:
+  1869.11.26:
+    birth: london
+    first_name: maud
+    dynasty: von_saxe_coburg_dynasty
+    female: yes
+    religion: catholic
+    culture: english
+    tag: GBR
+  1896.7.22:
+    spouse: nor_haakon_vii_von_glucksburg
+    tag: DAN
+  1905.11.18:
     tag: NOR
-  3000.1.1:
+  1938.11.20:
     death: yes
 nor_haakon_vii_von_glucksburg:
-  1875.1.1:
-    birth: oslo #TODO: Date and location guessed, check if better data is available
-    first_name: haakon
+  1872.8.3:
+    birth: kobenhavn
+    first_name: name_eric
     dynasty: von_glucksburg_dynasty
+    father: dan_frederik_viii_von_glucksburg
+    mother: dan_louise_bernadotte
     adm: 60
     dip: 60
     mil: 30
     religion: lutheran
-    culture: norwegian
+    culture: danish
+    tag: DAN
+  1905.11.18:
     tag: NOR
+    first_name: haakon
+    culture: norwegian
   1957.9.21:
+    death: yes
+nor_martha_of_sweden:
+  1901.3.28:
+    birth: stockholm
+    first_name: martha
+    dynasty: bernadotte_dynasty
+    female: yes
+    father: swe_carl_bernadotte
+    mother: swe_ingeborg_of_denmark
+    religion: catholic
+    culture: swedish
+    tag: SWE
+  1929.3.21:
+    spouse: nor_olav_v_von_glucksburg
+    tag: NOR
+  1938.11.20:
     death: yes
 nor_olav_v_von_glucksburg:
   1903.7.2:
-    birth: oslo #TODO: Location guessed, check if better data is available
+    birth: oslo #TODO: Sandringham
     first_name: olav
     dynasty: von_glucksburg_dynasty
-    father: nor_haakon_vii_von_glucksburg #TODO: check if this makes sense
+    father: nor_haakon_vii_von_glucksburg
+    mother: nor_maud_of_wales
     adm: 45
     dip: 45
     mil: 60
     religion: lutheran
     culture: norwegian
+    tag: DAN
+  1905.11.18:
     tag: NOR
   1991.1.17:
     death: yes
-nor_olav_v_von_glucksburg_1:
-  1927.1.1:
-    birth: oslo #TODO: Date and location guessed, check if better data is available
-    first_name: olav
+nor_ragnhild_lorentzen:
+  1930.6.9:
+    birth: oslo
+    first_name: ragnhild
     dynasty: von_glucksburg_dynasty
-    adm: 45
-    dip: 45
-    mil: 60
+    female: yes
+    father: nor_olav_v_von_glucksburg
+    mother: nor_martha_of_sweden
     religion: lutheran
     culture: norwegian
     tag: NOR
-  1991.1.17:
+  2012.9.16:
     death: yes
+nor_astrid_ferner:
+  1932.2.12:
+    birth: oslo
+    first_name: name_astrid
+    dynasty: von_glucksburg_dynasty
+    female: yes
+    father: nor_olav_v_von_glucksburg
+    mother: nor_martha_of_sweden
+    religion: lutheran
+    culture: norwegian
+    tag: NOR
 nor_harald_v_von_glucksburg:
   1937.2.21:
-    birth: oslo #TODO: Location guessed, check if better data is available
+    birth: oslo #TODO: Skaugum
     first_name: harald
     dynasty: von_glucksburg_dynasty
-    father: nor_olav_v_von_glucksburg_1 #TODO: check if this makes sense
+    father: nor_olav_v_von_glucksburg
+    mother: nor_martha_of_sweden
     adm: 45
     dip: 75
     mil: 30
     religion: lutheran
     culture: norwegian
     tag: NOR
-  3000.1.1:
-    death: yes
-nor_harald_v_von_glucksburg_1:
-  1961.1.1:
-    birth: oslo #TODO: Date and location guessed, check if better data is available
-    first_name: harald
-    dynasty: von_glucksburg_dynasty
-    adm: 45
-    dip: 75
-    mil: 30
+nor_sonja_haraldsen:
+  1937.7.4:
+    birth: oslo
+    first_name: sonja
+    last_name: haraldsen
+    female: yes
     religion: lutheran
     culture: norwegian
     tag: NOR
-  3000.1.1:
-    death: yes
+  1968.8.29:
+    spouse: nor_harald_v_von_glucksburg
+nor_martha_louise:
+  1971.9.22:
+    birth: oslo
+    first_name: martha.louise
+    dynasty: von_glucksburg_dynasty
+    female: yes
+    father: nor_harald_v_von_glucksburg
+    mother: nor_sonja_haraldsen
+    religion: lutheran
+    culture: norwegian
+    tag: NOR
 nor_haakon_viii_von_glucksburg:
   1973.7.20:
-    birth: oslo #TODO: Location guessed, check if better data is available
+    birth: oslo
     first_name: haakon
     dynasty: von_glucksburg_dynasty
-    father: nor_harald_v_von_glucksburg_1 #TODO: check if this makes sense
+    father: nor_harald_v_von_glucksburg
+    mother: nor_sonja_haraldsen
     adm: 60
     dip: 60
     mil: 45
     religion: lutheran
     culture: norwegian
     tag: NOR
-  3000.1.1:
-    death: yes
+nor_mette_marit_hoiby:
+  1973.8.19:
+    birth: oslo #TODO: Kristiansand
+    first_name: mette_marit
+    last_name: hoiby
+    female: yes
+    religion: lutheran
+    culture: norwegian
+    tag: NOR
+  2001.8.25:
+    spouse: nor_haakon_viii_von_glucksburg
+nor_ingrid_alexandra:
+  2004.1.21:
+    birth: oslo
+    first_name: ingrid.alexandra
+    dynasty: von_glucksburg_dynasty
+    female: yes
+    father: nor_haakon_viii_von_glucksburg
+    mother: nor_mette_marit_hoiby
+    religion: lutheran
+    culture: norwegian
+    tag: NOR
+nor_sverre_magnus:
+  2005.12.3:
+    birth: oslo
+    first_name: sverre.magnus
+    dynasty: von_glucksburg_dynasty
+    father: nor_haakon_viii_von_glucksburg
+    mother: nor_mette_marit_hoiby
+    religion: lutheran
+    culture: norwegian
+    tag: NOR

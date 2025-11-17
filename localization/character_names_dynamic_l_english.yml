@@ -2011,6 +2011,7 @@
  name_blanche.north_italian_language.diminutive: "Bianchina"
  name_blanche.occitan_language: "Blanca"
  name_blanche.portuguese_language: "Branca" # Also in Galician
+ name_blanche.scandinavian_language: "Blanka"
  name_blanche.south_italian_language: "Bianca"
  name_blanche.south_italian_language.diminutive: "Bianchina"
  name_blanche.spanish_language: "Blanca"
@@ -2494,7 +2495,9 @@
  #
  name_caroline: "Caroline"
  name_caroline.catalan_dialect: "Carolina"
- name_carolina.occitan_language: "Carolina"
+ name_caroline.danish_dialect: "Karoline"
+ name_caroline.finnish_language: "Karoliina"
+ name_caroline.occitan_language: "Carolina"
  name_caroline.serbo_croatian_language: "Karolina"
  name_caroline.spanish_language: "Carolina"
  #
@@ -2848,6 +2851,7 @@
  name_christiana.german_language: "Christiane"
  name_christiana.north_italian_languague: "Cristiana"
  name_christiana.portuguese_languague: "Cristiana"
+ name_christiana.scandinavian_language: "Christiane"
  name_christiana.south_italian_languague: "Cristiana"
  name_christiana.spanish_languague: "Cristiana"
  name_christiana.west_slavic_language: "Krystyna"
@@ -3983,6 +3987,10 @@
  name_eliseus.ruthenian_language: "Yelysei" # Єлисей Ukrainian
  name_eliseus.spanish_language: "Eliseo"
  #
+ name_elisiv: "Ellisiv"
+ name_elisiv.east_slavic_language: "Elisaveta"
+ name_elisiv.ruthenian_language: "Elisaveta"
+ #
  name_elizabeth: "Elizabeth"
  name_elizabeth.armenian_language: "Zabel"
  name_elizabeth.arpitan_dialect: "Èlisabèt"
@@ -5013,6 +5021,7 @@
  name_george.catalan_dialect: "Jordi"
  name_george.church_slavonic_language: "Georgi"
  name_george.czechslovak_language: "Jiří"
+ name_george.danish_dialect: "Jørgen"
  name_george.dutch_dialect: "Joris"
  name_george.east_slavic_language: "Yuriy"
  name_george.english_language.diminutive: "Geordie"
@@ -8092,6 +8101,7 @@
  name_marianne: "Marianne"
  name_marianne.basque_language: "Mariana"
  name_marianne.catalan_dialect: "Marianna"
+ name_marianne.danish_dialect: "Mariane"
  name_marianne.north_italian_language: "Marianna"
  name_marianne.portuguese_language: "Mariana"
  name_marianne.serbo_croatian_language: "Marijana"
@@ -8181,7 +8191,7 @@
  name_martin: "Martin" # English & French (+Arpitan)
  name_martin.catalan_dialect: "Martí"
  name_martin.dutch_dialect: "Maarten"
- name_mary.finnish_language: "Martti"
+ name_martin.finnish_language: "Martti"
  name_martin.frisian_language: "Marten"
  name_martin.galician_dialect: "Martiño"
  name_martin.hungarian_language: "Márton"
@@ -12468,6 +12478,7 @@
  name_wilfred.spanish_language: "Wifredo"
  #
  name_willelma: "Willelma"
+ name_willelma.danish_dialect: "Vilhelmine"
  name_willelma.dutch_dialect: "Willemijn"
  name_willelma.finnish_language: "Vilhelmiina"
  name_willelma.finnish_language.diminutive: "Helmi"
@@ -12483,6 +12494,7 @@
  name_william.brythonic_language: "Gwilym"
  name_william.catalan_dialect: "Guillem"
  name_william.czechslovak_language: "Vilém"
+ name_william.danish_dialect: "Vilhelm"
  name_william.dutch_dialect: "Willem"
  name_william.english_language.diminutive: "Will"
  name_william.french_language: "Guillaume"

@@ -282,15 +282,19 @@ fla_baldwin_vii_de_flanders_1:
   1119.7.17:
     death: yes
 fla_charles_i_estridsen:
-  1089.1.1:
+  1084:
     birth: bruges #TODO: Date and location guessed, check if better data is available
     first_name: charles
-    dynasty: estridsen_dynasty
+    dynasty: estrid_dynasty
+    father: dan_canute_iv
+    mother: dan_adela_of_flanders
     adm: 45
     dip: 45
     mil: 60
     religion: catholic
     culture: flemish
+    tag: DAN
+  1086.7.10:
     tag: FLA
   1127.3.2:
     death: yes

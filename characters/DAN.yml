@@ -117,7 +117,7 @@ dan_ongendus_sigfreding:
     death: yes
 dan_sigfred_sigfreding:
   740:
-    birth: kobenhavn #unknown
+    birth: ribe #unknown
     first_name: name_sigfrid
     dynasty: sigfreding_dynasty
     religion: norse
@@ -127,7 +127,7 @@ dan_sigfred_sigfreding:
     death: yes
 dan_gudfred_sigfreding:
   760:
-    birth: kobenhavn #unknown
+    birth: ribe #unknown
     first_name: gudfred
     dynasty: sigfreding_dynasty
     father: dan_sigfred_sigfreding
@@ -138,7 +138,7 @@ dan_gudfred_sigfreding:
     death: yes
 dan_halfdan_sigfreding:
   760:
-    birth: kobenhavn #unknown
+    birth: ribe #unknown
     first_name: name_halfdane
     dynasty: sigfreding_dynasty
     father: dan_sigfred_sigfreding
@@ -149,7 +149,7 @@ dan_halfdan_sigfreding:
     death: yes
 dan_hemming_sigfreding:
   780:
-    birth: kobenhavn #unknown
+    birth: ribe #unknown
     first_name: hemming
     dynasty: sigfreding_dynasty
     father: dan_halfdan_sigfreding
@@ -160,7 +160,7 @@ dan_hemming_sigfreding:
     death: yes
 dan_anulo_sigfreding:
   782:
-    birth: kobenhavn #unknown
+    birth: ribe #unknown
     first_name: anulo
     dynasty: sigfreding_dynasty
     father: dan_halfdan_sigfreding
@@ -171,7 +171,7 @@ dan_anulo_sigfreding:
     death: yes
 dan_ragnfrid_sigfreding:
   784:
-    birth: kobenhavn #unknown
+    birth: ribe #unknown
     first_name: ragnfrid
     dynasty: sigfreding_dynasty
     father: dan_halfdan_sigfreding
@@ -182,7 +182,7 @@ dan_ragnfrid_sigfreding:
     death: yes
 dan_harald_klak_sigfreding:
   785:
-    birth: kobenhavn #unknown
+    birth: ribe #unknown
     first_name: name_harold
     nickname: nick_klak
     dynasty: sigfreding_dynasty
@@ -193,7 +193,7 @@ dan_harald_klak_sigfreding:
     death: yes
 dan_horik_i_sigfreding:
   790:
-    birth: kobenhavn #unknown
+    birth: ribe #unknown
     first_name: horik
     dynasty: sigfreding_dynasty
     father: dan_gudfred_sigfreding
@@ -204,7 +204,7 @@ dan_horik_i_sigfreding:
     death: yes
 dan_horik_ii_sigfreding:
   820:
-    birth: kobenhavn #unknown
+    birth: ribe #unknown
     first_name: horik
     dynasty: sigfreding_dynasty
     father: dan_horik_i_sigfreding
@@ -215,7 +215,7 @@ dan_horik_ii_sigfreding:
     death: yes
 dan_ragnar_lodbrok:
   830:
-    birth: kobenhavn #unknown
+    birth: ribe #unknown
     first_name: name_rayner
     nickname: nick_lodbrok
     dynasty: sigfreding_dynasty
@@ -229,7 +229,7 @@ dan_ragnar_lodbrok:
     death: yes
 dan_bagsecg_sigfreding:
   830:
-    birth: kobenhavn #unknown
+    birth: ribe #unknown
     first_name: bagsecg
     dynasty: sigfreding_dynasty
     adm: 75
@@ -242,7 +242,7 @@ dan_bagsecg_sigfreding:
     death: yes
 dan_halfdan_sigfreding:
   845:
-    birth: kobenhavn #unknown
+    birth: ribe #unknown
     first_name: name_halfdane
     nickname: nick_whiteshirt
     dynasty: sigfreding_dynasty
@@ -257,7 +257,7 @@ dan_halfdan_sigfreding:
     death: yes
 dan_sigfred_sigfreding_1:
   850:
-    birth: kobenhavn #unknown
+    birth: ribe #unknown
     first_name: name_sigurd
     nickname: nick_snake_in_the_eye
     dynasty: sigfreding_dynasty
@@ -272,7 +272,7 @@ dan_sigfred_sigfreding_1:
     death: yes
 dan_heiligo_sigfreding:
   860:
-    birth: kobenhavn #unknown
+    birth: ribe #unknown
     first_name: helge
     dynasty: sigfreding_dynasty
     religion: norse
@@ -749,7 +749,7 @@ dan_ragnild_magnusdotter:
     death: yes
 dan_erik_ii:
   1090:
-    birth: kobenhavn #TODO: Date and location guessed, check if better data is available
+    birth: roskilde #unknown
     first_name: name_eric
     nickname: nick_the_memorable
     dynasty: estrid_dynasty
@@ -1116,7 +1116,7 @@ dan_abel:
     death: yes
 dan_mechtilde_of_holstein:
   1218:
-    birth: kiel #TODO: Schaumburg
+    birth: buckeburg #Schaumburg
     first_name: name_matilda
     dynasty: schauenburg_dynasty
     female: yes
@@ -1433,7 +1433,7 @@ dan_christoffer_valdermarsen:
     death: yes
 dan_ingeborg_of_denmark:
   1347.1.4:
-    birth: helsingor #TODO: Als
+    birth: aabenraa
     first_name: name_ingeborg
     dynasty: estrid_dynasty
     female: yes
@@ -1458,7 +1458,7 @@ dan_valdemar_valdermarsen:
     death: yes
 dan_margaret_i_estridsen:
   1353.3:
-    birth: kobenhavn #TODO: Gilleleje
+    birth: helsingor
     first_name: name_margaret
     dynasty: estrid_dynasty
     female: yes
@@ -1489,7 +1489,7 @@ dan_olaf_ii_av_bjelbo:
     death: yes
 dan_erik_vii_gryf:
   1382:
-    birth: kolobrzeg #TODO: Darłowo
+    birth: slawno
     first_name: boguslaw
     dynasty: gryf_dynasty
     adm: 65
@@ -1508,7 +1508,7 @@ dan_erik_vii_gryf:
     death: yes
 dan_philippa_of_england:
   1394.6:
-    birth: london #TODO: Peterborough Castle
+    birth: kettering
     first_name: name_philippa
     dynasty: lancaster_dynasty
     female: yes
@@ -1521,7 +1521,7 @@ dan_philippa_of_england:
     death: yes
 dan_christopher_iii_von_wittelsbach:
   1416.2.26:
-    birth: landshut #TODO: Neumarkt in der Oberpfalz
+    birth: neumarkt
     first_name: name_christopher
     dynasty: wittelsbach_dynasty
     adm: 45
@@ -1598,7 +1598,7 @@ dan_margaret_christiansdotter:
     death: yes
 dan_frederik_i_von_oldenburg:
   1471.10.7:
-    birth: kobenhavn #TODO: Haderslev
+    birth: haderslev
     first_name: name_frederick
     dynasty: oldenburg_dynasty
     father: dan_christian_i_von_oldenburg
@@ -1630,7 +1630,7 @@ dan_christina_von_wettin:
     death: yes
 dan_christian_ii_von_oldenburg:
   1481.7.1:
-    birth: kobenhavn #TODO: Nyborg castle
+    birth: odense #Nyborg
     first_name: name_christian
     dynasty: oldenburg_dynasty
     adm: 15
@@ -1643,7 +1643,7 @@ dan_christian_ii_von_oldenburg:
     death: yes
 dan_elizabeth_von_oldenburg:
   1485.6.24:
-    birth: kobenhavn #TODO: Nyborg castle
+    birth: odense #Nyborg
     first_name: name_elizabeth
     dynasty: oldenburg_dynasty
     female: yes
@@ -1668,7 +1668,7 @@ dan_anna_hohenzollern:
     death: yes
 dan_francis_von_oldenburg:
   1497.7.15:
-    birth: kobenhavn #TODO: Nyborg castle
+    birth: odense #Nyborg
     first_name: name_francis
     dynasty: oldenburg_dynasty
     religion: catholic
@@ -1783,7 +1783,7 @@ dan_dorothea_christiansdotter_von_oldenburg_b1520:
     death: yes
 dan_john_the_elder:
   1521.6.21:
-    birth: kobenhavn #TODO: Haderslev
+    birth: haderslev
     first_name: name_john
     dynasty: oldenburg_dynasty
     father: dan_frederik_i_von_oldenburg
@@ -1799,7 +1799,7 @@ dan_john_the_elder:
     death: yes
 dan_christina_christiansdotter_von_oldenburg:
   1521.11:
-    birth: kobenhavn #TODO: Nyborg
+    birth: odense #Nyborg
     first_name: name_christine
     dynasty: oldenburg_dynasty
     female: yes
@@ -1812,7 +1812,7 @@ dan_christina_christiansdotter_von_oldenburg:
     death: yes
 dan_elizabeth_frederiksdotter_von_oldenburg_b1524:
   1524.10.14:
-    birth: kobenhavn #unknown
+    birth: haderslev #unknown
     first_name: name_elizabeth
     dynasty: oldenburg_dynasty
     female: yes
@@ -1825,7 +1825,7 @@ dan_elizabeth_frederiksdotter_von_oldenburg_b1524:
     death: yes
 dan_adolf_frederiksen_von_oldenburg:
   1526.1.25:
-    birth: kobenhavn #unknown
+    birth: haderslev #unknown
     first_name: name_adolf
     dynasty: oldenburg_dynasty
     father: dan_frederik_i_von_oldenburg
@@ -1839,7 +1839,7 @@ dan_adolf_frederiksen_von_oldenburg:
     death: yes
 dan_anna_frederiksdotter_von_oldenburg_b1527:
   1527:
-    birth: kobenhavn #unknown
+    birth: haderslev #unknown
     first_name: name_anna
     dynasty: oldenburg_dynasty
     female: yes
@@ -1852,7 +1852,7 @@ dan_anna_frederiksdotter_von_oldenburg_b1527:
     death: yes
 dan_dorothea_frederiksdotter_von_oldenburg_b1528:
   1528:
-    birth: kobenhavn #unknown
+    birth: haderslev #unknown
     first_name: name_dorothy
     dynasty: oldenburg_dynasty
     female: yes
@@ -1865,7 +1865,7 @@ dan_dorothea_frederiksdotter_von_oldenburg_b1528:
     death: yes
 dan_frederik_frederiksen_von_oldenburg_b1532:
   1532.4.13:
-    birth: kobenhavn #unknown
+    birth: haderslev #unknown
     first_name: name_frederick
     dynasty: oldenburg_dynasty
     father: dan_frederik_i_von_oldenburg
@@ -1877,7 +1877,7 @@ dan_frederik_frederiksen_von_oldenburg_b1532:
     death: yes
 dan_anna_christiansdotter_von_oldenburg:
   1532.11.22:
-    birth: kobenhavn #TODO: Haderslev
+    birth: haderslev
     first_name: name_anna
     dynasty: oldenburg_dynasty
     female: yes
@@ -1890,7 +1890,7 @@ dan_anna_christiansdotter_von_oldenburg:
     death: yes
 dan_frederik_ii_von_oldenburg:
   1534.7.1:
-    birth: kobenhavn #TODO: Haderslev
+    birth: haderslev
     first_name: name_frederick
     dynasty: oldenburg_dynasty
     father: dan_christian_iii_von_oldenburg
@@ -1917,7 +1917,7 @@ dan_magnus_christiansen_von_oldenburg:
     death: yes
 dan_john_the_younger:
   1545.3.25:
-    birth: kobenhavn #TODO: Haderslev
+    birth: haderslev
     first_name: name_john
     nickname: nick_the_younger
     dynasty: oldenburg_dynasty
@@ -1973,7 +1973,7 @@ dan_elizabeth_frederiksdotter_von_oldenburg_b1573:
     death: yes
 dan_anna_frederiksdotter_von_oldenburg_b1574:
   1574.12.12:
-    birth: kolding #TODO: Skanderborg
+    birth: aarhus #Skanderborg
     first_name: name_anna
     dynasty: oldenburg_dynasty
     female: yes
@@ -2002,7 +2002,7 @@ dan_anna_kathrine_von_hohenzollern:
     death: yes
 dan_christian_iv_von_oldenburg:
   1577.4.12:
-    birth: kobenhavn #TODO: Hillerød
+    birth: helsingor #Hillerød
     first_name: name_christian
     dynasty: oldenburg_dynasty
     father: dan_frederik_ii_von_oldenburg
@@ -2042,7 +2042,7 @@ dan_augusta_frederiksdotter_von_oldenburg:
     death: yes
 dan_hedwig_frederiksdotter_von_oldenburg:
   1581.8.5:
-    birth: kobenhavn #TODO: Hillerød
+    birth: helsingor #Hillerød
     first_name: name_hedwig
     dynasty: oldenburg_dynasty
     female: yes
@@ -2067,7 +2067,7 @@ dan_john_frederiksen_von_oldenburg:
     death: yes
 dan_kirsten_munk:
   1598.7.6:
-    birth: kobenhavn #TODO: Velje
+    birth: kolding #unknown
     first_name: kirsten
     dynasty: munk_dynasty
     female: yes
@@ -2133,7 +2133,7 @@ dan_elizabeth_christiansdotter_von_oldenburg:
     death: yes
 dan_frederik_iii_von_oldenburg:
   1609.3.18:
-    birth: kobenhavn #TODO: Haderslev
+    birth: haderslev
     first_name: name_frederick
     dynasty: oldenburg_dynasty
     father: dan_christian_iv_von_oldenburg
@@ -2148,7 +2148,7 @@ dan_frederik_iii_von_oldenburg:
     death: yes
 dan_ulrik_christiansen_von_oldenburg:
   1611.2.2:
-    birth: kobenhavn #TODO: Hillerød
+    birth: helsingor #Hillerød
     first_name: name_ulrick
     dynasty: oldenburg_dynasty
     father: dan_christian_iv_von_oldenburg
@@ -2173,7 +2173,7 @@ dan_anna_catherine_christiansdotter_von_oldenburg:
     death: yes
 dan_sophia_elizabeth_christiansdotter_von_oldenburg:
   1619.9.20:
-    birth: kobenhavn #TODO: Skanderborg
+    birth: aarhus #Skanderborg
     first_name: name_sophia.name_elizabeth
     dynasty: oldenburg_dynasty
     female: yes
@@ -2871,7 +2871,7 @@ dan_frederik_vi_von_oldenburg:
     death: yes
 dan_louise_augusta_christiansdotter_von_oldenburg:
   1771.7.7:
-    birth: kobenhavn #TODO: Hørsholm
+    birth: helsingor #Hørsholm
     first_name: name_louise.name_augusta
     dynasty: oldenburg_dynasty
     female: yes
@@ -3393,7 +3393,7 @@ dan_ingrid_bernadotte:
     death: yes
 dan_henri_de_laborde_de_monpezat:
   1934.6.11:
-    birth: bordeaux #TODO: Talence
+    birth: bordeaux #Talence
     first_name: henri
     last_name: de_laborde_de_monpezat
     religion: catholic
@@ -3431,17 +3431,6 @@ dan_benedikte_von_glucksburg:
     religion: lutheran
     culture: danish
     tag: DAN
-dan_anne_marie_von_glucksburg:
-  1946.8.30:
-    birth: kobenhavn
-    first_name: anne_marie
-    dynasty: von_glucksburg_dynasty
-    female: yes
-    father: dan_frederik_ix_von_glucksburg
-    mother: dan_ingrid_bernadotte
-    religion: lutheran
-    culture: danish
-    tag: DAN
 dan_frederik_x_von_glucksburg:
   1968.5.26:
     birth: kobenhavn
@@ -3467,7 +3456,7 @@ dan_joachim_von_glucksburg:
     tag: DAN
 dan_mary_donaldson:
   1972.2.5:
-    birth: kobenhavn #TODO: Hobart
+    birth: toogee #Hobart
     first_name: mary
     last_name: donaldson
     female: yes

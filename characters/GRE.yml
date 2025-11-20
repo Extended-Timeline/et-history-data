@@ -1,15 +1,35 @@
 gre_othon_i_von_wittelsbach:
   1815.6.1:
-    birth: athens #TODO: Location guessed, check if better data is available
-    first_name: othon
-    dynasty: von_wittelsbach_dynasty
+    birth: salzburg
+    first_name: name_otto
+    dynasty: wittelsbach_dynasty
     adm: 60
     dip: 45
     mil: 60
     religion: catholic
-    culture: southern_bavarian
+    culture: danube_bavarian
+    tag: HAB
+  1832.5.7:
     tag: GRE
-  3000.1.1:
+  1862.10.23:
+    tag: BAV
+  1867.7.26:
+    death: yes
+gre_amalia_von_holstein_gottorp:
+  1818.12.21:
+    birth: oldenburg
+    first_name: name_amelia
+    dynasty: von_holstein_gottorp_dynasty
+    female: yes
+    religion: lutheran
+    culture: lower_saxon
+    tag: OLD
+  1836.12.22:
+    spouse: gre_othon_i_von_wittelsbach
+    tag: GRE
+  1862.10.23:
+    tag: BAV
+  1867.7.26:
     death: yes
 gre_georgios_i_von_glucksburg:
   1845.12.24:
@@ -28,37 +48,145 @@ gre_georgios_i_von_glucksburg:
     tag: GRE
   1913.3.18:
     death: yes
+gre_olga_constantinovna_von_holstein_gottorp_romanov:
+  1851.9.3:
+    birth: neva
+    first_name: name_olga.constantinovna
+    dynasty: von_holstein_gottorp_romanov_dynasty
+    female: yes
+    religion: orthodox
+    culture: muscovite
+    tag: RUS
+  1867.10.27:
+    spouse: gre_georgios_i_von_glucksburg
+    tag: GRE
+  1926.6.18:
+    death: yes
 gre_konstantinos_i_von_glucksburg:
   1868.8.2:
-    birth: athens #TODO: Location guessed, check if better data is available
-    first_name: konstantinos
+    birth: athens
+    first_name: name_constantine
     dynasty: von_glucksburg_dynasty
+    father: gre_georgios_i_von_glucksburg
+    mother: gre_olga_constantinovna_von_holstein_gottorp_romanov
     adm: 75
     dip: 45
     mil: 45
     religion: orthodox
     culture: greek_culture
     tag: GRE
-  1922.9.27:
+  1923.1.11:
     death: yes
-gre_alexandros_i_von_glucksburg:
-  1893.8.1:
-    birth: athens #TODO: Location guessed, check if better data is available
-    first_name: alexandros
+gre_george_von_glucksburg:
+  1869.6.24:
+    birth: corfu
+    first_name: name_george
     dynasty: von_glucksburg_dynasty
-    adm: 45
-    dip: 60
-    mil: 30
+    father: gre_georgios_i_von_glucksburg
+    mother: gre_olga_constantinovna_von_holstein_gottorp_romanov
     religion: orthodox
     culture: greek_culture
     tag: GRE
-  1920.10.25:
+  1957.11.25:
+    death: yes
+gre_sophia_of_prussia:
+  1851.9.3:
+    birth: potsdam
+    first_name: name_sophia
+    dynasty: hohenzollern_dynasty
+    female: yes
+    religion: lutheran
+    culture: markish
+    tag: PRU
+  1889.10.27:
+    spouse: gre_konstantinos_i_von_glucksburg
+    tag: GRE
+  1891.5.2:
+    religion: orthodox
+  1936.11.22:
+    death: yes
+gre_alexandra_von_glucksburg:
+  1870.8.30:
+    birth: corfu
+    first_name: name_alexandra
+    dynasty: von_glucksburg_dynasty
+    female: yes
+    father: gre_georgios_i_von_glucksburg
+    mother: gre_olga_constantinovna_von_holstein_gottorp_romanov
+    religion: orthodox
+    culture: greek_culture
+    tag: GRE
+  1891.9.24:
+    death: yes
+gre_nicholas_von_glucksburg:
+  1872.1.22:
+    birth: athens
+    first_name: name_nicholas
+    dynasty: von_glucksburg_dynasty
+    father: gre_georgios_i_von_glucksburg
+    mother: gre_olga_constantinovna_von_holstein_gottorp_romanov
+    religion: orthodox
+    culture: greek_culture
+    tag: GRE
+  1938.2.8:
+    death: yes
+gre_maria_von_glucksburg:
+  1876.3.3:
+    birth: athens
+    first_name: name_mary
+    dynasty: von_glucksburg_dynasty
+    female: yes
+    father: gre_georgios_i_von_glucksburg
+    mother: gre_olga_constantinovna_von_holstein_gottorp_romanov
+    religion: orthodox
+    culture: greek_culture
+    tag: GRE
+  1940.12.14:
+    death: yes
+gre_olga_von_glucksburg:
+  1880.4.7:
+    birth: athens
+    first_name: name_olga
+    dynasty: von_glucksburg_dynasty
+    female: yes
+    father: gre_georgios_i_von_glucksburg
+    mother: gre_olga_constantinovna_von_holstein_gottorp_romanov
+    religion: orthodox
+    culture: greek_culture
+    tag: GRE
+  1880.11.2:
+    death: yes
+gre_andrew_von_glucksburg:
+  1882.2.2:
+    birth: athens
+    first_name: name_andrew
+    dynasty: von_glucksburg_dynasty
+    father: gre_georgios_i_von_glucksburg
+    mother: gre_olga_constantinovna_von_holstein_gottorp_romanov
+    religion: orthodox
+    culture: greek_culture
+    tag: GRE
+  1944.12.3:
+    death: yes
+gre_christopher_von_glucksburg:
+  1888.8.10:
+    birth: lisino #Pavlovsk
+    first_name: name_christopher
+    dynasty: von_glucksburg_dynasty
+    father: gre_georgios_i_von_glucksburg
+    mother: gre_olga_constantinovna_von_holstein_gottorp_romanov
+    religion: orthodox
+    culture: greek_culture
+    tag: GRE
+  1940.1.21:
     death: yes
 gre_georgios_ii_von_glucksburg:
   1890.7.19:
-    birth: athens #TODO: Location guessed, check if better data is available
-    first_name: georgios
+    birth: athens
+    first_name: name_george
     dynasty: von_glucksburg_dynasty
+    father: gre_konstantinos_i_von_glucksburg
+    mother: gre_sophia_of_prussia
     adm: 30
     dip: 75
     mil: 60
@@ -67,11 +195,68 @@ gre_georgios_ii_von_glucksburg:
     tag: GRE
   1947.4.1:
     death: yes
+gre_alexandros_i_von_glucksburg:
+  1893.8.1:
+    birth: athens
+    first_name: name_alexander
+    dynasty: von_glucksburg_dynasty
+    father: gre_konstantinos_i_von_glucksburg
+    mother: gre_sophia_of_prussia
+    adm: 45
+    dip: 60
+    mil: 30
+    religion: orthodox
+    culture: greek_culture
+    tag: GRE
+  1920.10.25:
+    death: yes
+gre_elizabeth_of_romania:
+  1894.10.12:
+    birth: slanic #Sinaia
+    first_name: name_elizabeth
+    dynasty: hohenzollern_dynasty
+    female: yes
+    religion: orthodox
+    culture: wallachian
+    tag: RMN
+  1921.2.27:
+    spouse: gre_georgios_ii_von_glucksburg
+    tag: GRE
+  1956.11.14:
+    death: yes
+gre_helen_von_glucksburg:
+  1896.5.2:
+    birth: athens
+    first_name: name_helen
+    dynasty: von_glucksburg_dynasty
+    female: yes
+    father: gre_konstantinos_i_von_glucksburg
+    mother: gre_sophia_of_prussia
+    religion: orthodox
+    culture: greek_culture
+    tag: GRE
+  1982.11.28:
+    death: yes
+gre_aspasia_manos:
+  1896.9.4:
+    birth: athens
+    first_name: aspasia
+    last_name: manos
+    female: yes
+    religion: orthodox
+    culture: greek_culture
+    tag: GRE
+  1919.11.17:
+    spouse: gre_alexandros_i_von_glucksburg
+  1972.8.7:
+    death: yes
 gre_pavlos_i_von_glucksburg:
   1901.12.14:
-    birth: athens #TODO: Location guessed, check if better data is available
-    first_name: pavlos
+    birth: athens
+    first_name: name_paul
     dynasty: von_glucksburg_dynasty
+    father: gre_konstantinos_i_von_glucksburg
+    mother: gre_sophia_of_prussia
     adm: 75
     dip: 45
     mil: 60
@@ -80,6 +265,164 @@ gre_pavlos_i_von_glucksburg:
     tag: GRE
   1964.3.6:
     death: yes
+gre_irene_von_glucksburg_b1904:
+  1904.2.13:
+    birth: athens
+    first_name: name_irene
+    dynasty: von_glucksburg_dynasty
+    female: yes
+    father: gre_konstantinos_i_von_glucksburg
+    mother: gre_sophia_of_prussia
+    religion: orthodox
+    culture: greek_culture
+    tag: GRE
+  1974.4.15:
+    death: yes
+gre_katharine_von_glucksburg:
+  1913.5.4:
+    birth: athens
+    first_name: name_catherine
+    dynasty: von_glucksburg_dynasty
+    female: yes
+    father: gre_konstantinos_i_von_glucksburg
+    mother: gre_sophia_of_prussia
+    religion: orthodox
+    culture: greek_culture
+    tag: GRE
+  2007.10.2:
+    death: yes
+gre_frederica_of_hannover:
+  1917.4.18:
+    birth: blankenburg
+    first_name: name_frederica
+    dynasty: von_hannover_dynasty
+    female: yes
+    religion: lutheran
+    culture: lower_saxon
+    tag: GER
+  1938.1.9:
+    spouse: gre_pavlos_i_von_glucksburg
+    tag: GRE
+  1981.2.6:
+    death: yes
+gre_alexandra_of_yugoslavia_von_glucksburg:
+  1921.3.25:
+    birth: athens
+    first_name: name_alexandra
+    dynasty: von_glucksburg_dynasty
+    female: yes
+    father: gre_alexandros_i_von_glucksburg
+    mother: gre_aspasia_manos
+    religion: orthodox
+    culture: greek_culture
+    tag: GRE
+  1993.1.30:
+    death: yes
+gre_sophia_von_glucksburg:
+  1938.11.2:
+    birth: athens
+    first_name: name_sophia
+    dynasty: von_glucksburg_dynasty
+    female: yes
+    father: gre_pavlos_i_von_glucksburg
+    mother: gre_frederica_of_hannover
+    religion: orthodox
+    culture: greek_culture
+    tag: GRE
+gre_konstantinos_ii_von_glucksburg:
+  1940.6.2:
+    birth: athens
+    first_name: name_constantine
+    dynasty: von_glucksburg_dynasty
+    father: gre_pavlos_i_von_glucksburg
+    mother: gre_frederica_of_hannover
+    adm: 50
+    dip: 45
+    mil: 25
+    religion: orthodox
+    culture: greek_culture
+    tag: GRE
+  2023.1.10:
+    death: yes
+gre_irene_von_glucksburg_b1942:
+  1942.5.11:
+    birth: athens
+    first_name: name_irene
+    dynasty: von_glucksburg_dynasty
+    female: yes
+    father: gre_pavlos_i_von_glucksburg
+    mother: gre_frederica_of_hannover
+    religion: orthodox
+    culture: greek_culture
+    tag: GRE
+gre_anne_marie_von_glucksburg:
+  1946.8.30:
+    birth: kobenhavn
+    first_name: anne_marie
+    dynasty: von_glucksburg_dynasty
+    female: yes
+    father: dan_frederik_ix_von_glucksburg
+    mother: dan_ingrid_bernadotte
+    religion: lutheran
+    culture: danish
+    tag: DAN
+  1964.9.18:
+    spouse: gre_konstantinos_ii_von_glucksburg
+    tag: GRE
+  1965.4.21:
+    religion: orthodox
+gre_alexia_von_glucksburg:
+  1965.7.10:
+    birth: corfu
+    first_name: name_alexia
+    dynasty: von_glucksburg_dynasty
+    female: yes
+    father: gre_konstantinos_ii_von_glucksburg
+    mother: gre_anne_marie_von_glucksburg
+    religion: orthodox
+    culture: greek_culture
+    tag: GRE
+gre_pavlos_von_glucksburg:
+  1967.5.20:
+    birth: athens
+    first_name: name_paul
+    dynasty: von_glucksburg_dynasty
+    father: gre_konstantinos_ii_von_glucksburg
+    mother: gre_anne_marie_von_glucksburg
+    religion: orthodox
+    culture: greek_culture
+    tag: GRE
+gre_nikolaos_von_glucksburg:
+  1969.10.1:
+    birth: rome
+    first_name: name_nicholas
+    dynasty: von_glucksburg_dynasty
+    father: gre_konstantinos_ii_von_glucksburg
+    mother: gre_anne_marie_von_glucksburg
+    religion: orthodox
+    culture: greek_culture
+    tag: GRE
+gre_theodora_von_glucksburg:
+  1983.6.9:
+    birth: london
+    first_name: name_theodora
+    dynasty: von_glucksburg_dynasty
+    female: yes
+    father: gre_konstantinos_ii_von_glucksburg
+    mother: gre_anne_marie_von_glucksburg
+    religion: orthodox
+    culture: greek_culture
+    tag: GRE
+gre_philippos_von_glucksburg:
+  1986.4.26:
+    birth: london
+    first_name: name_philip
+    dynasty: von_glucksburg_dynasty
+    father: gre_konstantinos_ii_von_glucksburg
+    mother: gre_anne_marie_von_glucksburg
+    religion: orthodox
+    culture: greek_culture
+    tag: GRE
 gre_pavlos_kountouriotis:
   1855.4.9:
     birth: athens #TODO: Location guessed, check if better data is available
@@ -115,19 +458,6 @@ gre_alexandros_zaimis:
     culture: greek_culture
     tag: GRE
   1935.10.10:
-    death: yes
-gre_konstantinos_ii_von_glucksburg:
-  1940.6.2:
-    birth: athens #TODO: Location guessed, check if better data is available
-    first_name: konstantinos
-    dynasty: von_glucksburg_dynasty
-    adm: 30
-    dip: 45
-    mil: 75
-    religion: orthodox
-    culture: greek_culture
-    tag: GRE
-  1967.12.13:
     death: yes
 gre_georgios_zoitakis:
   1910.1.1:

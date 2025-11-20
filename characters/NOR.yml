@@ -1,6 +1,6 @@
 nor_harald_fairhair:
   850:
-    birth: bergen #TODO: Leikanger
+    birth: sogndal #Leikanger
     first_name: name_harold
     nickname: nick_fairhair
     dynasty: fairhair_dynasty
@@ -14,7 +14,7 @@ nor_harald_fairhair:
     death: yes
 nor_svanhild_oysteinsdatter:
   860:
-    birth: aarhus #Jutland
+    birth: kolding #Jutland
     first_name: svanhild
     last_name: oysteinsdottir
     female: yes
@@ -27,7 +27,7 @@ nor_svanhild_oysteinsdatter:
     death: yes
 nor_ragnhild_the_mighty:
   870:
-    birth: aarhus #Jutland
+    birth: kolding #Jutland
     first_name: name_ragnhild
     nickname: nick_the_mighty
     female: yes
@@ -41,7 +41,7 @@ nor_ragnhild_the_mighty:
     death: yes
 nor_olaf_geirstadalf:
   877:
-    birth: bergen #TODO: Agder
+    birth: lindesnes #Agder
     first_name: name_olaf
     dynasty: fairhair_dynasty
     father: nor_harald_fairhair
@@ -53,7 +53,7 @@ nor_olaf_geirstadalf:
     death: yes
 nor_bjorn_farmann:
   880:
-    birth: bergen #unknown
+    birth: stavanger #unknown
     first_name: name_bjorn
     dynasty: fairhair_dynasty
     father: nor_harald_fairhair
@@ -65,7 +65,7 @@ nor_bjorn_farmann:
     death: yes
 nor_tora_mosterstong:
   890:
-    birth: bergen #TODO: Moster
+    birth: moster
     first_name: tora
     last_name: mosterstong
     female: yes
@@ -79,7 +79,7 @@ nor_tora_mosterstong:
     death: yes
 nor_eric_bloodaxe:
   895:
-    birth: bergen #unknown
+    birth: stavanger #unknown
     first_name: name_eric
     nickname: nick_bloodaxe
     dynasty: fairhair_dynasty
@@ -95,7 +95,7 @@ nor_eric_bloodaxe:
     death: yes
 nor_gunnhildr_gormsdottir:
   905:
-    birth: aarhus #Jutland
+    birth: kolding #Jutland
     first_name: gunnhildr
     dynasty: canute_dynasty
     female: yes
@@ -111,7 +111,7 @@ nor_gunnhildr_gormsdottir:
     death: yes
 nor_gamle_eirikssen:
   920:
-    birth: bergen #unknown
+    birth: stavanger #unknown
     first_name: gamle
     dynasty: fairhair_dynasty
     father: nor_eric_bloodaxe
@@ -123,7 +123,7 @@ nor_gamle_eirikssen:
     death: yes
 nor_rognvald_eriksson:
   920:
-    birth: bergen #unknown
+    birth: stavanger #unknown
     first_name: rognvald_alt
     dynasty: fairhair_dynasty
     father: nor_eric_bloodaxe
@@ -135,7 +135,7 @@ nor_rognvald_eriksson:
     death: yes
 nor_hakon_the_good:
   920:
-    birth: bergen #TODO: Hordaland
+    birth: bergen #Hordaland
     first_name: name_hacon
     nickname: nick_the_good
     dynasty: fairhair_dynasty
@@ -151,7 +151,7 @@ nor_hakon_the_good:
     death: yes
 nor_astrid_eiriksdottir:
   925:
-    birth: aarhus #TODO: Obrestad
+    birth: stavanger #Nærbø
     first_name: name_astrid
     last_name: eriksdotter
     female: yes
@@ -164,7 +164,7 @@ nor_astrid_eiriksdottir:
     death: yes
 nor_tryggve_olafsson:
   928:
-    birth: oslo #TODO: Ringerike
+    birth: ringerike
     first_name: tryggve
     dynasty: fairhair_dynasty
     father: nor_olaf_geirstadalf
@@ -204,7 +204,7 @@ nor_ragnhild_eriksdotter:
     death: yes
 nor_olaf_tryggvason:
   965:
-    birth: oslo #unknown
+    birth: ringerike #unknown
     first_name: name_olaf
     dynasty: fairhair_dynasty
     father: nor_tryggve_olafsson
@@ -236,7 +236,7 @@ nor_tyra_of_denmark:
     death: yes
 nor_olaf_ii:
   995.1.1:
-    birth: oslo #TODO: Ringerike
+    birth: ringerike
     first_name: name_olaf
     dynasty: fairhair_dynasty
     adm: 55
@@ -266,7 +266,7 @@ nor_astrid_olofsdotter:
     death: yes
 nor_wulfhild_of_norway:
   1020:
-    birth: oslo #unknown
+    birth: borg #unknown
     first_name: name_wulfhild
     dynasty: fairhair_dynasty
     female: yes
@@ -294,7 +294,7 @@ dan_magnus_fairhair:
     death: yes
 nor_harald_iii_hardrada:
   1015:
-    birth: oslo #TODO: Ringerike
+    birth: ringerike
     first_name: name_harold
     nickname: nick_hardrada
     dynasty: hardrada_dynasty
@@ -322,7 +322,7 @@ nor_elisiv_of_kiev:
     death: yes
 nor_maria_haraldsdotter:
   1045:
-    birth: oslo #unknown
+    birth: ringerike #unknown
     first_name: name_mary
     dynasty: hardrada_dynasty
     female: yes
@@ -335,7 +335,7 @@ nor_maria_haraldsdotter:
     death: yes
 nor_ingegerd_haraldsdotter:
   1046:
-    birth: oslo #unknown
+    birth: ringerike #unknown
     first_name: ingegerd
     dynasty: hardrada_dynasty
     female: yes
@@ -354,7 +354,7 @@ nor_ingegerd_haraldsdotter:
     death: yes
 nor_magnus_ii_hardrada:
   1048:
-    birth: oslo #unknown
+    birth: ringerike #unknown
     first_name: name_magnus
     dynasty: hardrada_dynasty
     father: nor_harald_iii_hardrada
@@ -368,7 +368,7 @@ nor_magnus_ii_hardrada:
     death: yes
 nor_olaf_iii_hardrada:
   1050:
-    birth: oslo #unknown
+    birth: ringerike #unknown
     first_name: name_olaf
     dynasty: hardrada_dynasty
     father: nor_harald_iii_hardrada
@@ -382,7 +382,7 @@ nor_olaf_iii_hardrada:
     death: yes
 nor_ingerid_swendsdatter:
   1050:
-    birth: kobenhavn #unknown
+    birth: ribe #unknown
     first_name: ingerid
     dynasty: estrid_dynasty
     female: yes
@@ -397,7 +397,7 @@ nor_ingerid_swendsdatter:
     death: yes
 nor_magnus_iii_hardrada:
   1073:
-    birth: oslo #unknown
+    birth: ringerike #unknown
     first_name: name_magnus
     nickname: nick_barefoot
     dynasty: hardrada_dynasty
@@ -434,7 +434,7 @@ nor_margaret_fredkulla:
     death: yes
 nor_sigurd_i_hardrada:
   1089:
-    birth: oslo #unknown
+    birth: ringerike #unknown
     first_name: name_sigurd
     nickname: nick_the_crusader
     dynasty: hardrada_dynasty
@@ -468,7 +468,7 @@ nor_malmfred_of_kiev:
     death: yes
 nor_olaf_magnusson:
   1099:
-    birth: oslo #unknown
+    birth: ringerike #unknown
     first_name: name_olaf
     dynasty: hardrada_dynasty
     father: nor_magnus_iii_hardrada
@@ -494,7 +494,7 @@ nor_harald_iv_gille:
     death: yes
 nor_eystein_magnusson:
   1103:
-    birth: oslo #unknown
+    birth: ringerike #unknown
     first_name: name_eystein
     dynasty: hardrada_dynasty
     father: nor_magnus_iii_hardrada
@@ -523,7 +523,7 @@ nor_ingrid_ragnvaldsdotter:
     death: yes
 nor_magnus_iv_hardrada:
   1115:
-    birth: oslo #unknown
+    birth: ringerike #unknown
     first_name: magnus
     nickname: the_blind
     dynasty: hardrada_dynasty
@@ -538,7 +538,7 @@ nor_magnus_iv_hardrada:
     death: yes
 nor_erling_skakke:
   1115:
-    birth: oslo #TODO: Etne
+    birth: kvinnherad #Etne
     first_name: erling
     nickname: nick_skakke
     religion: catholic
@@ -550,7 +550,7 @@ nor_erling_skakke:
     death: yes
 nor_christina_of_denmark:
   1118:
-    birth: kobenhavn #unknown
+    birth: kolding #unknown
     first_name: name_christine
     dynasty: estrid_dynasty
     female: yes
@@ -566,7 +566,7 @@ nor_christina_of_denmark:
     death: yes
 nor_kristin_sigurdsdatter:
   1125:
-    birth: oslo #unknown
+    birth: ringerike #unknown
     first_name: kristin
     dynasty: hardrada_dynasty
     female: yes
@@ -579,7 +579,7 @@ nor_kristin_sigurdsdatter:
     death: yes
 nor_eystein_ii_gille:
   1125:
-    birth: oslo #TODO: Scotland
+    birth: skye #Scotland
     first_name: name_eystein
     dynasty: gille_dynasty
     father: nor_harald_iv_gille
@@ -593,7 +593,7 @@ nor_eystein_ii_gille:
     death: yes
 nor_ragna_nikolasdatter:
   1125:
-    birth: oslo #unknown
+    birth: ringerike #unknown
     first_name: ragna
     female: yes
     religion: catholic
@@ -605,7 +605,7 @@ nor_ragna_nikolasdatter:
     death: yes
 nor_sigurd_ii_gille:
   1133:
-    birth: oslo #unknown
+    birth: ringerike #unknown
     first_name: name_sigurd
     dynasty: gille_dynasty
     father: nor_harald_iv_gille
@@ -616,7 +616,7 @@ nor_sigurd_ii_gille:
     death: yes
 nor_inge_i_gille:
   1135:
-    birth: oslo #unknown
+    birth: ringerike #unknown
     first_name: name_inge
     dynasty: gille_dynasty
     father: nor_harald_iv_gille
@@ -631,7 +631,7 @@ nor_inge_i_gille:
     death: yes
 nor_magnus_haraldsson_gille:
   1135:
-    birth: oslo #unknown
+    birth: ringerike #unknown
     first_name: name_magnus
     dynasty: gille_dynasty
     father: nor_harald_iv_gille
@@ -642,7 +642,7 @@ nor_magnus_haraldsson_gille:
     death: yes
 nor_sverre_i_sverre:
   1145:
-    birth: oslo #TODO: Faroes
+    birth: torshavn
     first_name: sverre
     dynasty: sverre_aetten_dynasty
     adm: 75
@@ -655,7 +655,7 @@ nor_sverre_i_sverre:
     death: yes
 nor_hakon_ii_gille:
   1147:
-    birth: oslo #unknown
+    birth: ringerike #unknown
     first_name: name_hacon
     dynasty: gille_dynasty
     father: nor_sigurd_ii_gille
@@ -669,7 +669,7 @@ nor_hakon_ii_gille:
     death: yes
 nor_eystein_meyla:
   1150:
-    birth: oslo #TODO: Scotland
+    birth: thurso #Scotland
     first_name: name_eystein
     dynasty: gille_dynasty
     father: nor_eystein_ii_gille
@@ -681,7 +681,7 @@ nor_eystein_meyla:
     death: yes
 nor_bard_guttormsson:
   1150:
-    birth: oslo #unknown
+    birth: ringerike #unknown
     first_name: guttorm
     dynasty: godwin_dynasty
     religion: catholic
@@ -709,7 +709,7 @@ nor_margaret_eriksdotter:
     death: yes
 nor_sigurd_markusfostre:
   1155:
-    birth: oslo #unknown
+    birth: ringerike #unknown
     first_name: name_sigurd
     dynasty: gille_dynasty
     father: nor_sigurd_ii_gille
@@ -720,7 +720,7 @@ nor_sigurd_markusfostre:
     death: yes
 nor_cecilia_sigurdsdotter:
   1155:
-    birth: oslo #unknown
+    birth: ringerike #unknown
     first_name: name_sigurd
     dynasty: gille_dynasty
     female: yes
@@ -732,7 +732,7 @@ nor_cecilia_sigurdsdotter:
     death: yes
 nor_magnus_v_hardrada:
   1156:
-    birth: oslo #TODO: Etne
+    birth: kvinnherad #Etne
     first_name: name_magnus
     dynasty: hardrada_dynasty
     father: nor_erling_skakke
@@ -747,7 +747,7 @@ nor_magnus_v_hardrada:
     death: yes
 nor_sigurd_lavard:
   1175:
-    birth: oslo #TODO: Faroes
+    birth: torshavn
     first_name: name_sigurd
     nickname: nick_lavard
     dynasty: sverre_aetten_dynasty
@@ -759,7 +759,7 @@ nor_sigurd_lavard:
     death: yes
 nor_sigurd_magnusson:
   1180:
-    birth: oslo #unknown
+    birth: stavanger #unknown
     first_name: name_sigurd
     dynasty: hardrada_dynasty
     father: nor_magnus_v_hardrada
@@ -770,7 +770,7 @@ nor_sigurd_magnusson:
     death: yes
 nor_hakon_iii_sverre:
   1183:
-    birth: oslo #unknown
+    birth: stavanger #unknown
     first_name: name_hacon
     dynasty: sverre_aetten_dynasty
     father: nor_sverre_i_sverre
@@ -784,7 +784,7 @@ nor_hakon_iii_sverre:
     death: yes
 nor_inge_ii_gille:
   1185:
-    birth: oslo #unknown
+    birth: stavanger #unknown
     first_name: inge
     dynasty: godwin_dynasty
     father: nor_bard_guttormsson
@@ -799,7 +799,7 @@ nor_inge_ii_gille:
     death: yes
 nor_christina_sverresdatter:
   1190:
-    birth: oslo #unknown
+    birth: stavanger #unknown
     first_name: name_christine
     dynasty: sverre_aetten_dynasty
     female: yes
@@ -812,7 +812,7 @@ nor_christina_sverresdatter:
     death: yes
 nor_guttorm_i_sverre:
   1199:
-    birth: oslo #unknown
+    birth: stavanger #unknown
     first_name: guttorm
     dynasty: sverre_aetten_dynasty
     father: nor_sigurd_lavard
@@ -823,7 +823,7 @@ nor_guttorm_i_sverre:
     death: yes
 nor_hakon_iv_sverre:
   1204.4.1:
-    birth: oslo #TODO: Folkenborg
+    birth: trogstad #Folkenborg
     first_name: name_hacon
     dynasty: sverre_aetten_dynasty
     father: nor_hakon_iii_sverre
@@ -837,7 +837,7 @@ nor_hakon_iv_sverre:
     death: yes
 nor_margaret_skulesdatter:
   1208:
-    birth: oslo #unknown
+    birth: tonsberg #unknown
     first_name: name_margaret
     dynasty: godwin_dynasty
     female: yes
@@ -850,7 +850,7 @@ nor_margaret_skulesdatter:
     death: yes
 nor_cecilia_haakonsdotter:
   1224:
-    birth: oslo #unknown
+    birth: tonsberg #unknown
     first_name: name_cecile
     dynasty: sverre_aetten_dynasty
     female: yes
@@ -862,7 +862,7 @@ nor_cecilia_haakonsdotter:
     death: yes
 nor_haakon_the_young:
   1232.11.10:
-    birth: oslo #unknown
+    birth: tonsberg #unknown
     first_name: name_hacon
     nickname: the_young
     dynasty: sverre_aetten_dynasty
@@ -875,7 +875,7 @@ nor_haakon_the_young:
     death: yes
 nor_christina_of_norway:
   1234:
-    birth: oslo #unknown
+    birth: tonsberg #unknown
     first_name: name_christine
     dynasty: sverre_aetten_dynasty
     female: yes
@@ -888,7 +888,7 @@ nor_christina_of_norway:
     death: yes
 nor_magnus_vi_sverre:
   1238.5.3:
-    birth: oslo #TODO: Tonsberg
+    birth: tonsberg
     first_name: name_magnus
     dynasty: sverre_aetten_dynasty
     father: nor_hakon_iv_sverre
@@ -903,7 +903,7 @@ nor_magnus_vi_sverre:
     death: yes
 nor_ingeborg_of_denmark:
   1244:
-    birth: kobenhavn #unknown
+    birth: kolding #unknown
     first_name: name_ingeborg
     dynasty: estrid_dynasty
     female: yes
@@ -933,7 +933,7 @@ nor_margaret_of_scotland:
     death: yes
 nor_eric_ii_sverre:
   1268:
-    birth: oslo #unknown
+    birth: tonsberg #unknown
     first_name: name_eric
     dynasty: sverre_aetten_dynasty
     father: nor_magnus_vi_sverre
@@ -948,7 +948,7 @@ nor_eric_ii_sverre:
     death: yes
 nor_hakan_magnusson:
   1270.4.10:
-    birth: oslo #unknown
+    birth: tonsberg #unknown
     first_name: name_hacon
     dynasty: sverre_aetten_dynasty
     father: nor_magnus_vi_sverre
@@ -963,7 +963,7 @@ nor_hakan_magnusson:
     death: yes
 nor_isabel_bruce:
   1272:
-    birth: windsor #TODO: Carrick
+    birth: ayr #Carrick
     first_name: name_elizabeth
     dynasty: bruce_dynasty
     female: yes
@@ -991,7 +991,7 @@ nor_euphemia_of_rugen:
     death: yes
 nor_margaret_sverre:
   1283.4:
-    birth: oslo #TODO: Tonsberg
+    birth: tonsberg
     first_name: name_margaret
     dynasty: sverre_aetten_dynasty
     female: yes
@@ -1004,7 +1004,7 @@ nor_margaret_sverre:
     death: yes
 nor_agnes:
   1290:
-    birth: oslo #TODO: Tonsberg
+    birth: tonsberg
     first_name: name_agnes
     dynasty: sverre_aetten_dynasty
     female: yes
@@ -1084,7 +1084,7 @@ nor_martha_of_sweden:
     death: yes
 nor_olav_v_von_glucksburg:
   1903.7.2:
-    birth: oslo #TODO: Sandringham
+    birth: lynn #Sandringham
     first_name: olav
     dynasty: von_glucksburg_dynasty
     father: nor_haakon_vii_von_glucksburg
@@ -1125,7 +1125,7 @@ nor_astrid_ferner:
     tag: NOR
 nor_harald_v_von_glucksburg:
   1937.2.21:
-    birth: oslo #TODO: Skaugum
+    birth: bragernes #Skaugum
     first_name: harald
     dynasty: von_glucksburg_dynasty
     father: nor_olav_v_von_glucksburg
@@ -1173,7 +1173,7 @@ nor_haakon_viii_von_glucksburg:
     tag: NOR
 nor_mette_marit_hoiby:
   1973.8.19:
-    birth: oslo #TODO: Kristiansand
+    birth: oddernes #Kristiansand
     first_name: mette_marit
     last_name: hoiby
     female: yes

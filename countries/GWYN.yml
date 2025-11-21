@@ -1,11 +1,13 @@
 #imported from EU4
 2.1.1:
+  government: eurasian_tribe
   color: rgb { 130  149  45 }
   government_rank: rank_duchy
   religion: druidism
   primary_culture: welsh
   capital: carnarvon
 410.1.1:
+  government: gaelic_monarchy
   ruler: gwyn_cunedda_ap_gwynedd
 460.1.1:
   ruler: gwyn_einion_ap_gwynedd
@@ -28,6 +30,7 @@
 655.1.1:
   ruler: gwyn_cadwaladr_ap_maelgwn_gwynedd
 660.1.1:
+  government: catholic_monarchy
   religion: chalcedonism
 682.1.1:
   ruler: gwyn_idwal_ap_maelgwn_gwynedd
@@ -53,6 +56,8 @@
   ruler: gwyn_hywel_dinefwr
 950.1.1:
   ruler: gwyn_iago_aberffraw
+962.1.1:
+  government: gaelic_monarchy
 979.1.1:
   ruler: gwyn_hywel_aberffraw
 985.1.1:

@@ -1,5 +1,6 @@
 #imported from EU4
 2.1.1:
+  government: eurasian_tribe
   color: rgb { 197  92  106 }
   government_rank: rank_duchy
   religion: slavic
@@ -16,6 +17,7 @@
 800.1.1:
   ruler: pol_popiel_ii_popielid_1
 850.1.1:
+  government: eastern_european_monarchy
   government_rank: rank_duchy
   ruler: pol_piast_piast
 870.1.1:
@@ -87,12 +89,16 @@
 1333.3.2:
   ruler: pol_kasimierz_iii_piast_1
 1382.9.10:
+  government: eastern_european_catholic_monarchy
   ruler: pol_jadwiga_i_angevin
 1386.3.4:
   ruler: pol_wladyslaw_ii_jagiellon_1
 1434.6.1:
   ruler: pol_wladyslaw_iii_jagiellon
+1444.11.11:
+  government: eastern_european_catholic_monarchy
 1447.6.25:
+  government: eastern_european_catholic_monarchy
   ruler: pol_kazimierz_iv_jagiellon
 1492.6.8:
   ruler: pol_jan_i_olbracht_jagiellon

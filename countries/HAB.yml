@@ -1,5 +1,6 @@
 #imported from EU4
 2.1.1:
+  government: eurasian_tribe
   color: rgb { 170  43  21 }
   religion: catholic
   primary_culture: danube_bavarian
@@ -7,11 +8,14 @@
 400.1.1:
   religion: chalcedonism
 500.1.1:
+  government: catholic_monarchy
   government_rank: rank_duchy
 867.1.1:
   religion: catholic
 960.1.1:
   ruler: hab_burkhard_liutpolding
+962.2.2:
+  government: catholic_monarchy
 976.1.1:
   ruler: hab_luitpold_i_von_babenberg
   capital: vienna
@@ -29,6 +33,8 @@
   ruler: hab_luitpold_iv_von_babenberg_1
 1141.10.18:
   ruler: hab_heinrich_ii_von_babenberg_1
+1156.1.1:
+  government: catholic_monarchy
 1177.1.13:
   ruler: hab_luitpold_v_von_babenberg_1
 1194.12.31:
@@ -58,12 +64,16 @@
   ruler: hab_friedrich_iii_von_habsburg
 1452.1.1:
   ruler: hab_ladislaus_postumus_von_habsburg
+1453.1.6:
+  government: catholic_monarchy
 1457.11.24:
   ruler: hab_friedrich_iii_von_habsburg
 1493.8.21:
   ruler: hab_maximilian_i_von_habsburg
 1521.4.28:
   ruler: hab_ferdinand_i_von_habsburg
+1556.10.2:
+  government: catholic_monarchy
 1564.7.27:
   ruler: hab_maximilian_ii_von_habsburg
 1576.10.14:
@@ -85,6 +95,7 @@
 1711.4.19:
   ruler: hab_karl_ii_von_habsburg
 1740.10.22:
+  government: catholic_monarchy
   ruler: hab_maria_theresia_i_von_habsburg
 1780.11.30:
   ruler: hab_josef_ii_von_habsburg

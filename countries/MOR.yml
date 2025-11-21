@@ -1,11 +1,13 @@
 #imported from EU4
 2.1.1:
+  government: catholic_monarchy
   color: rgb { 191  110  62 }
   government_rank: rank_duchy
   religion: chalcedonism
   primary_culture: moroccan
   capital: fez
 730.1.1:
+  government: muslim_monarchy
   religion: shia
 789.1.1:
   ruler: mor_idris_i_idrisid
@@ -51,6 +53,7 @@
 1147.1.1:
   ruler: mor_ishaq_almoravid
 1147.4.1:
+  government: muslim_monarchy
   government_rank: rank_empire
   ruler: mor_abd_al_mumin_almohad
 1163.5.1:
@@ -78,6 +81,7 @@
 1266.5.1:
   ruler: mor_idris_ii_almohad
 1269.1.1:
+  government: muslim_monarchy
   government_rank: rank_kingdom
   ruler: mor_abu_yusuf_yaqub_marinid
   capital: fez

@@ -35,7 +35,7 @@ jobs:
         id: pr_changes
         run: |
           git fetch origin ${{ github.base_ref }}
-          CHANGED_FILES=$(git diff --name-only origin/${{ github.base_ref }}..HEAD | grep -E '^(characters/|countries/|locations/)' | grep -E '.ya?ml$')
+          CHANGED_FILES=$(git diff --diff-filter ACM --name-only origin/${{ github.base_ref }}..HEAD | grep -E '^(characters/|countries/|locations/)' | grep -E '.ya?ml$')
           CHANGED_FILES_ENCODED=$(echo -n "$CHANGED_FILES" | base64 -w 0)
           echo "changed=$CHANGED_FILES_ENCODED" >> $GITHUB_OUTPUT
 
@@ -44,7 +44,7 @@ jobs:
         id: push_changes
         run: |
           git fetch origin ${{ github.ref_name }}
-          CHANGED_FILES=$(git diff --name-only ${{ github.event.before }} ${{ github.event.after }} | grep -E '^(characters/|countries/|locations/)' | grep -E '.ya?ml$')
+          CHANGED_FILES=$(git diff --diff-filter ACM --name-only ${{ github.event.before }} ${{ github.event.after }} | grep -E '^(characters/|countries/|locations/)' | grep -E '.ya?ml$')
           CHANGED_FILES_ENCODED=$(echo -n "$CHANGED_FILES" | base64 -w 0)
           echo "changed=$CHANGED_FILES_ENCODED" >> $GITHUB_OUTPUT
 

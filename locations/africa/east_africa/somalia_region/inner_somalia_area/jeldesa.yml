@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/2773 - Mora.txt
 2.1.1:
   pop:
-    ethnicity: harla_culture
-    religion: bantu_religion
-    estate: peasant
-    size: 1000
+    - ethnicity: harla_culture
+      religion: bantu_religion
+      estate: peasant
+      size: 1000
 500.1.1:
   owner: HRL
   controller: HRL
@@ -18,9 +18,9 @@
     ADA: yes
 860.1.1:
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 1185.1.1:
   owner: IFA
   controller: IFA

@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/3232 - Mbomou.txt
 2.1.1:
   pop:
-    ethnicity: mongo
-    religion: bantu_religion
-    estate: peasant
-    size: 1000
+    - ethnicity: mongo
+      religion: bantu_religion
+      estate: peasant
+      size: 1000
 1903.1.1:
   owner: FRA
   controller: FRA
@@ -12,9 +12,9 @@
     FRA: yes
   resource: grain
   pop:
-    religion: lutheran
-    estate: peasant
-    size: 1000
+    - religion: lutheran
+      estate: peasant
+      size: 1000
 1960.8.13:
   owner: CAFR
   controller: CAFR

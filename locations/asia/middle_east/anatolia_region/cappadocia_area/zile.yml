@@ -6,10 +6,10 @@
     PONT: yes
   resource: cloth
   pop:
-    ethnicity: pontic_greek_culture
-    religion: hellenism_religion
-    estate: peasant
-    size: 1000
+    - ethnicity: pontic_greek_culture
+      religion: hellenism_religion
+      estate: peasant
+      size: 1000
 62.1.1:
   owner: ROM
   controller: ROM
@@ -20,9 +20,9 @@
     PONT: no
 360.1.1:
   pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+    - religion: chalcedonism
+      estate: peasant
+      size: 1000
 395.1.17:
   owner: BYZ
   controller: BYZ
@@ -35,25 +35,25 @@
   controller: BYZ
 867.1.1:
   pop:
-    religion: orthodox
-    estate: peasant
-    size: 1000
+    - religion: orthodox
+      estate: peasant
+      size: 1000
 1071.8.26:
   owner: DANI
   controller: DANI
   cores:
     DANI: yes
   pop:
-    ethnicity: turkish_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: turkish_culture
+      estate: peasant
+      size: 1000
 1090.1.1:
   cores:
     BYZ: no
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 1178.1.1:
   owner: RUM
   controller: RUM

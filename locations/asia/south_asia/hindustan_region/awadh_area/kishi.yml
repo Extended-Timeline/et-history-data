@@ -6,10 +6,10 @@
     PANC: yes
   resource: cloth
   pop:
-    ethnicity: awadhi
-    religion: jain
-    estate: peasant
-    size: 1000
+    - ethnicity: awadhi
+      religion: jain
+      estate: peasant
+      size: 1000
 120.1.1:
   owner: KUSH
   controller: KUSH
@@ -30,9 +30,9 @@
     GUPT: yes
 440.1.1:
   pop:
-    religion: hindu
-    estate: peasant
-    size: 1000
+    - religion: hindu
+      estate: peasant
+      size: 1000
 540.1.1:
   owner: KANN
   controller: KANN
@@ -51,9 +51,9 @@
     PUSH: no
 800.1.1:
   pop:
-    religion: mahayana
-    estate: peasant
-    size: 1000
+    - religion: mahayana
+      estate: peasant
+      size: 1000
 820.1.1:
   owner: GURJ
   controller: GURJ
@@ -62,9 +62,9 @@
     GURJ: yes
 890.1.1:
   pop:
-    religion: hindu
-    estate: peasant
-    size: 1000
+    - religion: hindu
+      estate: peasant
+      size: 1000
 1036.1.1:
   owner: KALC
   controller: KALC

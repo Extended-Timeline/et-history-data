@@ -6,10 +6,10 @@
     NEUR: yes
   resource: cloth
   pop:
-    ethnicity: yotvingian
-    religion: romuva
-    estate: peasant
-    size: 1000
+    - ethnicity: yotvingian
+      religion: romuva
+      estate: peasant
+      size: 1000
 140.1.1:
   owner: GOTH
   controller: GOTH
@@ -17,10 +17,10 @@
     NEUR: no
     GOTH: yes
   pop:
-    ethnicity: gothic
-    religion: germanic
-    estate: peasant
-    size: 1000
+    - ethnicity: gothic
+      religion: germanic
+      estate: peasant
+      size: 1000
 150.1.1:
   owner: VEND
   controller: VEND
@@ -28,10 +28,10 @@
     NEUR: no
     VEND: yes
   pop:
-    ethnicity: lesser_polish
-    religion: slavic
-    estate: peasant
-    size: 1000
+    - ethnicity: lesser_polish
+      religion: slavic
+      estate: peasant
+      size: 1000
 450.1.1:
   owner: MAZ
   controller: MAZ
@@ -53,9 +53,9 @@
   controller: POL
 1050.1.1:
   pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - religion: catholic
+      estate: peasant
+      size: 1000
 1138.10.28:
   owner: MAZ
   controller: MAZ

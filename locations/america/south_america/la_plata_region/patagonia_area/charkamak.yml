@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/2876 - Teush.txt
 2.1.1:
   pop:
-    ethnicity: teushen_culture
-    religion: muisca_religion
-    estate: peasant
-    size: 1000
+    - ethnicity: teushen_culture
+      religion: muisca_religion
+      estate: peasant
+      size: 1000
 1884.1.1:
   owner: ARGE
   controller: ARGE
@@ -12,7 +12,7 @@
     ARGE: yes
   resource: livestock
   pop:
-    ethnicity: iberian_la_platan
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - ethnicity: iberian_la_platan
+      religion: catholic
+      estate: peasant
+      size: 1000

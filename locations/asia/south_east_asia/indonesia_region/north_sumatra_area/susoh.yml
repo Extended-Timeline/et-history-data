@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/2685 - Gayo.txt
 2.1.1:
   pop:
-    ethnicity: acehnese_culture
-    religion: bimoism
-    estate: peasant
-    size: 1000
+    - ethnicity: acehnese_culture
+      religion: bimoism
+      estate: peasant
+      size: 1000
 200.1.1:
   owner: BUS
   controller: BUS
@@ -13,9 +13,9 @@
   resource: tropical_wood
 800.1.1:
   pop:
-    religion: hindu
-    estate: peasant
-    size: 1000
+    - religion: hindu
+      estate: peasant
+      size: 1000
 1280.1.1:
   owner: LAMU
   controller: LAMU
@@ -24,9 +24,9 @@
     LAMU: yes
 1300.1.1:
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 1420.1.1:
   owner: ATJ
   controller: ATJ

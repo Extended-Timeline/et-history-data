@@ -1,15 +1,15 @@
 #imported from EU4 file: history/provinces/1070 - Koda.txt
 2.1.1:
   pop:
-    ethnicity: nenets_culture
-    religion: mari_paganism
-    estate: peasant
-    size: 1000
+    - ethnicity: nenets_culture
+      religion: mari_paganism
+      estate: peasant
+      size: 1000
 1350.1.1:
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 1468.1.1:
   owner: SIBI
   controller: SIBI
@@ -21,10 +21,10 @@
     SIBI: no
     RUS: yes
   pop:
-    ethnicity: muscovite
-    religion: orthodox
-    estate: peasant
-    size: 1000
+    - ethnicity: muscovite
+      religion: orthodox
+      estate: peasant
+      size: 1000
 1922.12.30:
   owner: SOVI
   controller: SOVI

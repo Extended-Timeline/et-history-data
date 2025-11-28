@@ -6,10 +6,10 @@
     DACI: yes
   resource: wool
   pop:
-    ethnicity: dacian
-    religion: zamolxism
-    estate: peasant
-    size: 1000
+    - ethnicity: dacian
+      religion: zamolxism
+      estate: peasant
+      size: 1000
 150.1.1:
   owner: BAST
   controller: BAST
@@ -17,10 +17,10 @@
     DACI: no
     BAST: yes
   pop:
-    ethnicity: gothic
-    religion: germanic
-    estate: peasant
-    size: 1000
+    - ethnicity: gothic
+      religion: germanic
+      estate: peasant
+      size: 1000
 271.1.1:
   owner: VISG
   controller: VISG
@@ -34,14 +34,14 @@
     VISG: no
     HUNS: yes
   pop:
-    ethnicity: hunnic
-    estate: peasant
-    size: 1000
+    - ethnicity: hunnic
+      estate: peasant
+      size: 1000
 400.1.1:
   pop:
-    religion: 
-    estate: peasant
-    size: 1000
+    - religion: 
+      estate: peasant
+      size: 1000
 520.1.1:
   owner: ANTE
   controller: ANTE
@@ -49,9 +49,9 @@
     HUNS: no
     ANTE: yes
   pop:
-    ethnicity: ruthenian
-    estate: peasant
-    size: 1000
+    - ethnicity: ruthenian
+      estate: peasant
+      size: 1000
 560.1.1:
   owner: WHCR
   controller: WHCR
@@ -65,9 +65,9 @@
     HUN: yes
 940.1.1:
   pop:
-    religion: orthodox
-    estate: peasant
-    size: 1000
+    - religion: orthodox
+      estate: peasant
+      size: 1000
 950.1.1:
   owner: PECH
   controller: PECH
@@ -78,9 +78,9 @@
   cores:
     WHCR: no
   pop:
-    ethnicity: wallachian
-    estate: peasant
-    size: 1000
+    - ethnicity: wallachian
+      estate: peasant
+      size: 1000
 1054.2.20:
   owner: HAL
   controller: HAL
@@ -137,9 +137,9 @@
     RMN: no
 1980.1.1:
   pop:
-    ethnicity: ruthenian
-    estate: peasant
-    size: 1000
+    - ethnicity: ruthenian
+      estate: peasant
+      size: 1000
 1991.8.24:
   owner: UKR
   controller: UKR

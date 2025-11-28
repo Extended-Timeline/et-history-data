@@ -7,10 +7,10 @@
     XIAN: yes
   resource: livestock
   pop:
-    ethnicity: chahar
-    religion: 
-    estate: peasant
-    size: 1000
+    - ethnicity: chahar
+      religion: 
+      estate: peasant
+      size: 1000
 46.1.1:
   owner: XIAN
   controller: XIAN
@@ -83,14 +83,14 @@
     QNG: yes
 1800.1.1:
   pop:
-    religion: sanjiao
-    estate: peasant
-    size: 1000
+    - religion: sanjiao
+      estate: peasant
+      size: 1000
 1880.1.1:
   pop:
-    ethnicity: manchu_new
-    estate: peasant
-    size: 1000
+    - ethnicity: manchu_new
+      estate: peasant
+      size: 1000
 1912.2.12:
   owner: CHI
   controller: CHI

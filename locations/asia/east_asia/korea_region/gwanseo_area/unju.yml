@@ -6,15 +6,15 @@
     GOGU: yes
   resource: fur
   pop:
-    ethnicity: korean_culture
-    religion: muism
-    estate: peasant
-    size: 1000
+    - ethnicity: korean_culture
+      religion: muism
+      estate: peasant
+      size: 1000
 372.1.1:
   pop:
-    religion: mahayana
-    estate: peasant
-    size: 1000
+    - religion: mahayana
+      estate: peasant
+      size: 1000
 698.1.1:
   owner: BALH
   controller: BALH
@@ -68,9 +68,9 @@
     GORY: no
     KOR: yes
   pop:
-    religion: sanjiao
-    estate: peasant
-    size: 1000
+    - religion: sanjiao
+      estate: peasant
+      size: 1000
 1592.7.19:
   controller: TOYO
 1593.2.8:

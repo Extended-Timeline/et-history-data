@@ -6,10 +6,10 @@
     ROM: yes
   resource: gold
   pop:
-    ethnicity: thracian
-    religion: zamolxism
-    estate: peasant
-    size: 1000
+    - ethnicity: thracian
+      religion: zamolxism
+      estate: peasant
+      size: 1000
 395.1.17:
   owner: BYZ
   controller: BYZ
@@ -20,10 +20,10 @@
   cores:
     SER: yes
   pop:
-    ethnicity: serbian
-    religion: slavic
-    estate: peasant
-    size: 1000
+    - ethnicity: serbian
+      religion: slavic
+      estate: peasant
+      size: 1000
 630.1.1:
   owner: SER
   controller: SER
@@ -31,9 +31,9 @@
     BYZ: no
 700.1.1:
   pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+    - religion: chalcedonism
+      estate: peasant
+      size: 1000
 842.1.1:
   owner: BUL
   controller: BUL
@@ -42,9 +42,9 @@
     BUL: yes
 867.1.1:
   pop:
-    religion: orthodox
-    estate: peasant
-    size: 1000
+    - religion: orthodox
+      estate: peasant
+      size: 1000
 930.1.1:
   owner: SER
   controller: SER
@@ -99,18 +99,18 @@
   controller: TUR
 1830.1.1:
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 1877.12.24:
   controller: SER
 1878.3.3:
   controller: TUR
 1890.1.1:
   pop:
-    ethnicity: albanian
-    estate: peasant
-    size: 1000
+    - ethnicity: albanian
+      estate: peasant
+      size: 1000
 1913.5.30:
   owner: SER
   controller: SER

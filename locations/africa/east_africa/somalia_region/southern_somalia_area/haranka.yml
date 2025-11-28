@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/2794 - Barawa.txt
 2.1.1:
   pop:
-    ethnicity: somali_culture
-    religion: bantu_religion
-    estate: peasant
-    size: 1000
+    - ethnicity: somali_culture
+      religion: bantu_religion
+      estate: peasant
+      size: 1000
 850.1.1:
   owner: TUNN
   controller: TUNN
@@ -12,9 +12,9 @@
     TUNN: yes
   resource: livestock
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 1220.1.1:
   owner: AJU
   controller: AJU

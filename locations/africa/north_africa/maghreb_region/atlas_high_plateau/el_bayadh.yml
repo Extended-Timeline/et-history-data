@@ -6,15 +6,15 @@
     GAET: yes
   resource: livestock
   pop:
-    ethnicity: zenati
-    religion: bantu_religion
-    estate: peasant
-    size: 1000
+    - ethnicity: zenati
+      religion: bantu_religion
+      estate: peasant
+      size: 1000
 420.1.1:
   pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+    - religion: chalcedonism
+      estate: peasant
+      size: 1000
 429.1.1:
   owner: ALTA
   controller: ALTA
@@ -34,9 +34,9 @@
     MZB: yes
 777.1.1:
   pop:
-    religion: ibadi
-    estate: peasant
-    size: 1000
+    - religion: ibadi
+      estate: peasant
+      size: 1000
 790.1.1:
   owner: MOR
   controller: MOR
@@ -67,10 +67,10 @@
   controller: MOR
 1200.1.1:
   pop:
-    ethnicity: algerian
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - ethnicity: algerian
+      religion: sunni
+      estate: peasant
+      size: 1000
 1235.1.1:
   owner: TLE
   controller: TLE

@@ -6,15 +6,15 @@
     ROM: yes
   resource: grain
   pop:
-    ethnicity: iberi
-    religion: bimoism
-    estate: peasant
-    size: 1000
+    - ethnicity: iberi
+      religion: bimoism
+      estate: peasant
+      size: 1000
 360.1.1:
   pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+    - religion: chalcedonism
+      estate: peasant
+      size: 1000
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -27,9 +27,9 @@
   cores:
     SUEB: yes
   pop:
-    religion: arianism
-    estate: peasant
-    size: 1000
+    - religion: arianism
+      estate: peasant
+      size: 1000
 453.1.1:
   owner: ROMW
   controller: ROMW
@@ -51,9 +51,9 @@
     ROMW: no
 580.1.1:
   pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+    - religion: chalcedonism
+      estate: peasant
+      size: 1000
 711.1.1:
   owner: UMAY
   controller: UMAY
@@ -68,14 +68,14 @@
     CRDB: yes
 790.1.1:
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 800.1.1:
   pop:
-    ethnicity: andalusi
-    estate: peasant
-    size: 1000
+    - ethnicity: andalusi
+      estate: peasant
+      size: 1000
 1010.1.1:
   owner: DENI
   controller: DENI
@@ -120,9 +120,9 @@
   cores:
     GRA: no
   pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - religion: catholic
+      estate: peasant
+      size: 1000
 1516.1.23:
   owner: SPA
   controller: SPA
@@ -130,9 +130,9 @@
     SPA: yes
 1566.1.1:
   pop:
-    ethnicity: castilian
-    estate: peasant
-    size: 1000
+    - ethnicity: castilian
+      estate: peasant
+      size: 1000
 1713.4.11:
   cores:
     CAS: no

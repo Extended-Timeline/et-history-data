@@ -1,15 +1,15 @@
 #imported from EU4 file: history/provinces/602 - Chiang Rai.txt
 2.1.1:
   pop:
-    ethnicity: wa_culture
-    religion: bimoism
-    estate: peasant
-    size: 1000
+    - ethnicity: wa_culture
+      religion: bimoism
+      estate: peasant
+      size: 1000
 500.1.1:
   pop:
-    religion: mahayana
-    estate: peasant
-    size: 1000
+    - religion: mahayana
+      estate: peasant
+      size: 1000
 550.1.1:
   owner: SIHV
   controller: SIHV
@@ -18,9 +18,9 @@
   resource: grain
 600.1.1:
   pop:
-    religion: theravada
-    estate: peasant
-    size: 1000
+    - religion: theravada
+      estate: peasant
+      size: 1000
 638.1.1:
   owner: HIRA
   controller: HIRA
@@ -28,9 +28,9 @@
     SIHV: no
     HIRA: yes
   pop:
-    ethnicity: khon_muang_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: khon_muang_culture
+      estate: peasant
+      size: 1000
 1292.1.1:
   owner: LNA
   controller: LNA

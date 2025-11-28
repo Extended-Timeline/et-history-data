@@ -6,15 +6,15 @@
     ROM: yes
   resource: livestock
   pop:
-    ethnicity: gallian
-    religion: druidism
-    estate: peasant
-    size: 1000
+    - ethnicity: gallian
+      religion: druidism
+      estate: peasant
+      size: 1000
 360.1.1:
   pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+    - religion: chalcedonism
+      estate: peasant
+      size: 1000
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -23,19 +23,19 @@
     ROMW: yes
 450.1.1:
   pop:
-    religion: arianism
-    estate: peasant
-    size: 1000
+    - religion: arianism
+      estate: peasant
+      size: 1000
 455.1.1:
   owner: BUR
   controller: BUR
   cores:
     BUR: yes
   pop:
-    ethnicity: burgundione
-    religion: germanic
-    estate: peasant
-    size: 1000
+    - ethnicity: burgundione
+      religion: germanic
+      estate: peasant
+      size: 1000
 458.1.1:
   owner: ROMW
   controller: ROMW
@@ -46,14 +46,14 @@
     ROMW: no
 486.6.1:
   pop:
-    ethnicity: burgundian
-    estate: peasant
-    size: 1000
+    - ethnicity: burgundian
+      estate: peasant
+      size: 1000
 500.1.1:
   pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+    - religion: chalcedonism
+      estate: peasant
+      size: 1000
 534.1.1:
   owner: NEUS
   controller: NEUS
@@ -82,9 +82,9 @@
     ASTS: no
 600.1.1:
   pop:
-    ethnicity: arpitan
-    estate: peasant
-    size: 1000
+    - ethnicity: arpitan
+      estate: peasant
+      size: 1000
 612.1.1:
   owner: ASTS
   controller: ASTS
@@ -125,9 +125,9 @@
     ITA: yes
 867.1.1:
   pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - religion: catholic
+      estate: peasant
+      size: 1000
 888.1.1:
   owner: BUR
   controller: BUR
@@ -162,9 +162,9 @@
   controller: FRA
 1850.1.1:
   pop:
-    ethnicity: french
-    estate: peasant
-    size: 1000
+    - ethnicity: french
+      estate: peasant
+      size: 1000
 1870.9.4:
   owner: FRA
   controller: FRA

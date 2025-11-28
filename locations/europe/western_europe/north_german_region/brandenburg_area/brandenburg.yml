@@ -6,10 +6,10 @@
     LOMB: yes
   resource: iron
   pop:
-    ethnicity: langobardi
-    religion: germanic
-    estate: peasant
-    size: 1000
+    - ethnicity: langobardi
+      religion: germanic
+      estate: peasant
+      size: 1000
 395.1.1:
   owner: SAX
   controller: SAX
@@ -17,19 +17,19 @@
     LOMB: no
     SAX: yes
   pop:
-    ethnicity: saxon
-    estate: peasant
-    size: 1000
+    - ethnicity: saxon
+      estate: peasant
+      size: 1000
 454.1.1:
   owner: VELE
   controller: VELE
   cores:
     VELE: yes
   pop:
-    ethnicity: polabian
-    religion: slavic
-    estate: peasant
-    size: 1000
+    - ethnicity: polabian
+      religion: slavic
+      estate: peasant
+      size: 1000
 929.1.1:
   owner: SAX
   controller: SAX
@@ -50,9 +50,9 @@
     KOPA: yes
 1120.1.1:
   pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - religion: catholic
+      estate: peasant
+      size: 1000
 1157.10.3:
   owner: BRA
   controller: BRA
@@ -60,19 +60,19 @@
     BRA: yes
 1180.1.1:
   pop:
-    ethnicity: saxon
-    estate: peasant
-    size: 1000
+    - ethnicity: saxon
+      estate: peasant
+      size: 1000
 1539.1.1:
   pop:
-    religion: lutheran
-    estate: peasant
-    size: 1000
+    - religion: lutheran
+      estate: peasant
+      size: 1000
 1650.1.1:
   pop:
-    ethnicity: prussian
-    estate: peasant
-    size: 1000
+    - ethnicity: prussian
+      estate: peasant
+      size: 1000
 1701.1.18:
   owner: PRU
   controller: PRU
@@ -98,9 +98,9 @@
     EGER: yes
 1980.1.1:
   pop:
-    religion: irreligious
-    estate: peasant
-    size: 1000
+    - religion: irreligious
+      estate: peasant
+      size: 1000
 1990.10.3:
   owner: GER
   controller: GER

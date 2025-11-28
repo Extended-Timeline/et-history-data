@@ -6,15 +6,15 @@
     ROM: yes
   resource: livestock
   pop:
-    ethnicity: pontic_greek_culture
-    religion: hellenism_religion
-    estate: peasant
-    size: 1000
+    - ethnicity: pontic_greek_culture
+      religion: hellenism_religion
+      estate: peasant
+      size: 1000
 360.1.1:
   pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+    - religion: chalcedonism
+      estate: peasant
+      size: 1000
 395.1.17:
   owner: BYZ
   controller: BYZ
@@ -27,25 +27,25 @@
   controller: BYZ
 867.1.1:
   pop:
-    religion: orthodox
-    estate: peasant
-    size: 1000
+    - religion: orthodox
+      estate: peasant
+      size: 1000
 1071.8.26:
   owner: DANI
   controller: DANI
   cores:
     DANI: yes
   pop:
-    ethnicity: turkish_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: turkish_culture
+      estate: peasant
+      size: 1000
 1090.1.1:
   cores:
     BYZ: no
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 1178.1.1:
   owner: RUM
   controller: RUM
@@ -58,9 +58,9 @@
     MGE: yes
 1250.1.1:
   pop:
-    religion: shia
-    estate: peasant
-    size: 1000
+    - religion: shia
+      estate: peasant
+      size: 1000
 1260.1.1:
   owner: ILK
   controller: ILK
@@ -103,9 +103,9 @@
   controller: TUR
 1620.1.1:
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 1625.1.1:
   controller: TUR
 1920.4.24:

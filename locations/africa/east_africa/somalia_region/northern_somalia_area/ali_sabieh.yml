@@ -6,10 +6,10 @@
     AVAL: yes
   resource: livestock
   pop:
-    ethnicity: afar_culture
-    religion: bantu_religion
-    estate: peasant
-    size: 1000
+    - ethnicity: afar_culture
+      religion: bantu_religion
+      estate: peasant
+      size: 1000
 220.1.1:
   owner: AKSM
   controller: AKSM
@@ -29,9 +29,9 @@
     ADA: yes
 1150.1.1:
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 1185.1.1:
   owner: IFA
   controller: IFA
@@ -72,9 +72,9 @@
     VFRA: no
 1950.1.1:
   pop:
-    ethnicity: somali_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: somali_culture
+      estate: peasant
+      size: 1000
 1977.6.27:
   owner: DJIB
   controller: DJIB

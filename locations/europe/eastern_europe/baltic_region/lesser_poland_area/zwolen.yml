@@ -6,10 +6,10 @@
     VEND: yes
   resource: cloth
   pop:
-    ethnicity: lesser_polish
-    religion: slavic
-    estate: peasant
-    size: 1000
+    - ethnicity: lesser_polish
+      religion: slavic
+      estate: peasant
+      size: 1000
 140.1.1:
   owner: GOTH
   controller: GOTH
@@ -17,10 +17,10 @@
     VEND: no
     GOTH: yes
   pop:
-    ethnicity: gothic
-    religion: germanic
-    estate: peasant
-    size: 1000
+    - ethnicity: gothic
+      religion: germanic
+      estate: peasant
+      size: 1000
 150.1.1:
   owner: VEND
   controller: VEND
@@ -28,10 +28,10 @@
     GOTH: no
     VEND: yes
   pop:
-    ethnicity: lesser_polish
-    religion: slavic
-    estate: peasant
-    size: 1000
+    - ethnicity: lesser_polish
+      religion: slavic
+      estate: peasant
+      size: 1000
 200.1.1:
   owner: GEPI
   controller: GEPI
@@ -39,10 +39,10 @@
     VEND: no
     GEPI: yes
   pop:
-    ethnicity: gepid
-    religion: germanic
-    estate: peasant
-    size: 1000
+    - ethnicity: gepid
+      religion: germanic
+      estate: peasant
+      size: 1000
 250.1.1:
   owner: VIST
   controller: VIST
@@ -50,10 +50,10 @@
     GEPI: no
     VIST: yes
   pop:
-    ethnicity: lesser_polish
-    religion: slavic
-    estate: peasant
-    size: 1000
+    - ethnicity: lesser_polish
+      religion: slavic
+      estate: peasant
+      size: 1000
 940.1.1:
   owner: POL
   controller: POL
@@ -61,9 +61,9 @@
     POL: yes
 1050.1.1:
   pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - religion: catholic
+      estate: peasant
+      size: 1000
 1138.10.28:
   owner: SAND
   controller: SAND
@@ -76,9 +76,9 @@
     POL: yes
 1550.1.1:
   pop:
-    religion: calvinist
-    estate: peasant
-    size: 1000
+    - religion: calvinist
+      estate: peasant
+      size: 1000
 1569.7.1:
   owner: PLC
   controller: PLC
@@ -125,9 +125,9 @@
   owner: GER
 1940.1.1:
   pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - religion: catholic
+      estate: peasant
+      size: 1000
 1945.1.16:
   controller: SOVI
 1945.5.8:

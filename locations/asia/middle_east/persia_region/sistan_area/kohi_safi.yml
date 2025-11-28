@@ -6,10 +6,10 @@
     KAPI: yes
   resource: livestock
   pop:
-    ethnicity: afghan_culture
-    religion: mahayana
-    estate: peasant
-    size: 1000
+    - ethnicity: afghan_culture
+      religion: mahayana
+      estate: peasant
+      size: 1000
 10.1.1:
   owner: IPAR
   controller: IPAR
@@ -41,9 +41,9 @@
     KAPI: yes
 500.1.1:
   pop:
-    religion: hindu
-    estate: peasant
-    size: 1000
+    - religion: hindu
+      estate: peasant
+      size: 1000
 665.1.1:
   owner: SHI
   controller: SHI
@@ -64,9 +64,9 @@
     BUKH: yes
 910.1.1:
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 977.1.1:
   owner: GHAZ
   controller: GHAZ

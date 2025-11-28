@@ -6,10 +6,10 @@
     CATU: yes
   resource: livestock
   pop:
-    ethnicity: briton
-    religion: druidism
-    estate: peasant
-    size: 1000
+    - ethnicity: briton
+      religion: druidism
+      estate: peasant
+      size: 1000
 43.1.1:
   owner: ROM
   controller: ROM
@@ -31,9 +31,9 @@
     ROMW: no
     ERGY: yes
   pop:
-    ethnicity: welsh
-    estate: peasant
-    size: 1000
+    - ethnicity: welsh
+      estate: peasant
+      size: 1000
 519.1.1:
   owner: WESS
   controller: WESS
@@ -41,10 +41,10 @@
     ERGY: no
     WESS: yes
   pop:
-    ethnicity: anglo_saxon
-    religion: germanic
-    estate: peasant
-    size: 1000
+    - ethnicity: anglo_saxon
+      religion: germanic
+      estate: peasant
+      size: 1000
 645.1.1:
   owner: MERC
   controller: MERC
@@ -52,9 +52,9 @@
     MERC: yes
 650.1.1:
   pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+    - religion: chalcedonism
+      estate: peasant
+      size: 1000
 825.1.1:
   owner: WESS
   controller: WESS
@@ -62,9 +62,9 @@
     WESS: yes
 867.1.1:
   pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - religion: catholic
+      estate: peasant
+      size: 1000
 927.1.1:
   owner: ENG
   controller: ENG
@@ -75,14 +75,14 @@
     WESS: no
 1066.12.25:
   pop:
-    ethnicity: english
-    estate: peasant
-    size: 1000
+    - ethnicity: english
+      estate: peasant
+      size: 1000
 1560.1.1:
   pop:
-    religion: anglican
-    estate: peasant
-    size: 1000
+    - religion: anglican
+      estate: peasant
+      size: 1000
 1642.10.24:
   controller: ENG
 1707.5.12:

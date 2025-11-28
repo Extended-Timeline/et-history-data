@@ -6,16 +6,16 @@
     BAST: yes
   resource: naval_supplies
   pop:
-    ethnicity: pannonian
-    religion: druidism
-    estate: peasant
-    size: 1000
+    - ethnicity: pannonian
+      religion: druidism
+      estate: peasant
+      size: 1000
 150.1.1:
   pop:
-    ethnicity: gothic
-    religion: germanic
-    estate: peasant
-    size: 1000
+    - ethnicity: gothic
+      religion: germanic
+      estate: peasant
+      size: 1000
 250.1.1:
   owner: GEPI
   controller: GEPI
@@ -23,10 +23,10 @@
     BAST: no
     GEPI: yes
   pop:
-    ethnicity: gepid
-    religion: germanic
-    estate: peasant
-    size: 1000
+    - ethnicity: gepid
+      religion: germanic
+      estate: peasant
+      size: 1000
 469.1.1:
   owner: SCIR
   controller: SCIR
@@ -34,9 +34,9 @@
     GEPI: no
     SCIR: yes
   pop:
-    ethnicity: scirian
-    estate: peasant
-    size: 1000
+    - ethnicity: scirian
+      estate: peasant
+      size: 1000
 567.1.1:
   owner: AVR
   controller: AVR
@@ -44,10 +44,10 @@
     SCIR: no
     AVR: yes
   pop:
-    ethnicity: avar_culture
-    religion: 
-    estate: peasant
-    size: 1000
+    - ethnicity: avar_culture
+      religion: 
+      estate: peasant
+      size: 1000
 804.1.1:
   owner: HUN
   controller: HUN
@@ -55,20 +55,20 @@
     AVR: no
     HUN: yes
   pop:
-    ethnicity: hungarian
-    estate: peasant
-    size: 1000
+    - ethnicity: hungarian
+      estate: peasant
+      size: 1000
 1010.1.1:
   pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - religion: catholic
+      estate: peasant
+      size: 1000
 1100.1.1:
   pop:
-    ethnicity: ruthenian
-    religion: orthodox
-    estate: peasant
-    size: 1000
+    - ethnicity: ruthenian
+      religion: orthodox
+      estate: peasant
+      size: 1000
 1280.1.1:
   owner: HAL
   controller: HAL
@@ -103,9 +103,9 @@
   controller: HAB
 1646.1.1:
   pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - religion: catholic
+      estate: peasant
+      size: 1000
 1648.1.1:
   owner: TRA
   controller: TRA

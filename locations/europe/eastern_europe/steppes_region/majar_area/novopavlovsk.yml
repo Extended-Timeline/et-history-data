@@ -6,10 +6,10 @@
     SIRA: yes
   resource: wool
   pop:
-    ethnicity: circassian_culture
-    religion: 
-    estate: peasant
-    size: 1000
+    - ethnicity: circassian_culture
+      religion: 
+      estate: peasant
+      size: 1000
 300.1.1:
   owner: CIR
   controller: CIR
@@ -29,9 +29,9 @@
     KHAZ: yes
 900.1.1:
   pop:
-    religion: judaism
-    estate: peasant
-    size: 1000
+    - religion: judaism
+      estate: peasant
+      size: 1000
 1048.1.1:
   owner: CUMA
   controller: CUMA
@@ -40,9 +40,9 @@
     CUMA: yes
 1054.1.1:
   pop:
-    religion: orthodox
-    estate: peasant
-    size: 1000
+    - religion: orthodox
+      estate: peasant
+      size: 1000
 1236.1.1:
   owner: MGE
   controller: MGE

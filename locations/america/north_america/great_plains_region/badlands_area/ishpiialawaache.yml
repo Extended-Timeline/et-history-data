@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/2504 - Eeelalapito.txt
 2.1.1:
   pop:
-    ethnicity: siksika_culture
-    religion: iroquoian_totemism
-    estate: peasant
-    size: 1000
+    - ethnicity: siksika_culture
+      religion: iroquoian_totemism
+      estate: peasant
+      size: 1000
 1865.8.15:
   owner: USA
   controller: USA
@@ -12,9 +12,9 @@
     CHEY: no
     USA: yes
   pop:
-    ethnicity: british_californian
-    religion: lutheran
-    estate: peasant
-    size: 1000
+    - ethnicity: british_californian
+      religion: lutheran
+      estate: peasant
+      size: 1000
 1880.1.1:
   resource: coal

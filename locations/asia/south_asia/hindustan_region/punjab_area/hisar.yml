@@ -6,10 +6,10 @@
     NSAT: yes
   resource: livestock
   pop:
-    ethnicity: punjabi
-    religion: hindu
-    estate: peasant
-    size: 1000
+    - ethnicity: punjabi
+      religion: hindu
+      estate: peasant
+      size: 1000
 120.1.1:
   owner: KUSH
   controller: KUSH
@@ -83,9 +83,9 @@
   cores:
     BNG: yes
   pop:
-    religion: sikhism
-    estate: peasant
-    size: 1000
+    - religion: sikhism
+      estate: peasant
+      size: 1000
 1553.1.1:
   owner: SIRH
   controller: SIRH

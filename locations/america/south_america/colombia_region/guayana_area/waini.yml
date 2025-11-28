@@ -6,18 +6,18 @@
     ARW: yes
   resource: sugar
   pop:
-    ethnicity: wayuu_culture
-    religion: muisca_religion
-    estate: peasant
-    size: 1000
+    - ethnicity: wayuu_culture
+      religion: muisca_religion
+      estate: peasant
+      size: 1000
 1616.1.1:
   owner: NED
   controller: NED
   pop:
-    ethnicity: low_franconian
-    religion: calvinist
-    estate: peasant
-    size: 1000
+    - ethnicity: low_franconian
+      religion: calvinist
+      estate: peasant
+      size: 1000
 1641.1.1:
   cores:
     NED: yes
@@ -25,18 +25,18 @@
   controller: NED
 1780.1.1:
   pop:
-    ethnicity: germanic_colombian
-    estate: peasant
-    size: 1000
+    - ethnicity: germanic_colombian
+      estate: peasant
+      size: 1000
 1796.1.1:
   owner: GBR
   controller: GBR
   cores:
     NED: no
   pop:
-    ethnicity: british_colombian
-    estate: peasant
-    size: 1000
+    - ethnicity: british_colombian
+      estate: peasant
+      size: 1000
 1821.1.1:
   cores:
     GBR: yes

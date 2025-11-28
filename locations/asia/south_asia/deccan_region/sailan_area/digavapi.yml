@@ -6,10 +6,10 @@
     RUHU: yes
   resource: gems
   pop:
-    ethnicity: sinhalese
-    religion: theravada
-    estate: peasant
-    size: 1000
+    - ethnicity: sinhalese
+      religion: theravada
+      estate: peasant
+      size: 1000
 1070.1.1:
   owner: RAJA
   controller: RAJA

@@ -6,10 +6,10 @@
     KAGJ: yes
   resource: wool
   pop:
-    ethnicity: sogdian
-    religion: zoroastrian
-    estate: peasant
-    size: 1000
+    - ethnicity: sogdian
+      religion: zoroastrian
+      estate: peasant
+      size: 1000
 320.1.1:
   owner: KIDA
   controller: KIDA
@@ -47,9 +47,9 @@
     TURG: yes
 760.1.1:
   pop:
-    religion: mahayana
-    estate: peasant
-    size: 1000
+    - religion: mahayana
+      estate: peasant
+      size: 1000
 766.1.1:
   owner: KARL
   controller: KARL
@@ -64,9 +64,9 @@
     KOKA: yes
 820.1.1:
   pop:
-    ethnicity: kyrgyz_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: kyrgyz_culture
+      estate: peasant
+      size: 1000
 892.8.1:
   owner: BUKH
   controller: BUKH
@@ -86,9 +86,9 @@
     TRAN: yes
 1200.1.1:
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 1211.1.1:
   owner: KKHI
   controller: KKHI

@@ -6,25 +6,25 @@
     ROM: yes
   resource: cloth
   pop:
-    ethnicity: frisian
-    religion: germanic
-    estate: peasant
-    size: 1000
+    - ethnicity: frisian
+      religion: germanic
+      estate: peasant
+      size: 1000
 260.1.1:
   cores:
     GALL: yes
   pop:
-    ethnicity: gallian
-    estate: peasant
-    size: 1000
+    - ethnicity: gallian
+      estate: peasant
+      size: 1000
 274.1.1:
   controller: ROM
   cores:
     GALL: no
   pop:
-    ethnicity: frisian
-    estate: peasant
-    size: 1000
+    - ethnicity: frisian
+      estate: peasant
+      size: 1000
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -43,14 +43,14 @@
   cores:
     FRAN: yes
   pop:
-    ethnicity: low_franconian
-    estate: peasant
-    size: 1000
+    - ethnicity: low_franconian
+      estate: peasant
+      size: 1000
 780.1.1:
   pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+    - religion: chalcedonism
+      estate: peasant
+      size: 1000
 840.6.21:
   owner: MFRA
   controller: MFRA
@@ -65,9 +65,9 @@
     LOT: yes
 867.1.1:
   pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - religion: catholic
+      estate: peasant
+      size: 1000
 870.8.8:
   owner: EFRA
   controller: EFRA
@@ -94,9 +94,9 @@
     NED: yes
 1572.1.1:
   pop:
-    religion: calvinist
-    estate: peasant
-    size: 1000
+    - religion: calvinist
+      estate: peasant
+      size: 1000
 1786.10.13:
   controller: NED
 1810.7.10:
@@ -123,6 +123,6 @@
   controller: NED
 2020.1.1:
   pop:
-    religion: irreligious
-    estate: peasant
-    size: 1000
+    - religion: irreligious
+      estate: peasant
+      size: 1000

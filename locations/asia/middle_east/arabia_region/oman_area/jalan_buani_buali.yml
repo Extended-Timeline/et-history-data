@@ -6,10 +6,10 @@
     MASC: yes
   resource: spices
   pop:
-    ethnicity: omani_culture
-    religion: south_arabian
-    estate: peasant
-    size: 1000
+    - ethnicity: omani_culture
+      religion: south_arabian
+      estate: peasant
+      size: 1000
 350.1.1:
   owner: ERA
   controller: ERA
@@ -22,9 +22,9 @@
     ERA: no
     RASH: yes
   pop:
-    religion: islam
-    estate: peasant
-    size: 1000
+    - religion: islam
+      estate: peasant
+      size: 1000
 661.7.28:
   owner: UMAY
   controller: UMAY
@@ -32,9 +32,9 @@
     RASH: no
     UMAY: yes
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 750.8.6:
   owner: ABBA
   controller: ABBA
@@ -43,9 +43,9 @@
     ABBA: yes
 751.1.1:
   pop:
-    religion: ibadi
-    estate: peasant
-    size: 1000
+    - religion: ibadi
+      estate: peasant
+      size: 1000
 840.1.1:
   owner: OMA
   controller: OMA

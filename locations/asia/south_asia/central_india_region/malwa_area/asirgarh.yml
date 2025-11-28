@@ -6,10 +6,10 @@
     SATA: yes
   resource: cloth
   pop:
-    ethnicity: marathi_culture
-    religion: jain
-    estate: peasant
-    size: 1000
+    - ethnicity: marathi_culture
+      religion: jain
+      estate: peasant
+      size: 1000
 220.1.1:
   owner: ABHI
   controller: ABHI
@@ -54,9 +54,9 @@
     YADA: yes
 1250.1.1:
   pop:
-    religion: hindu
-    estate: peasant
-    size: 1000
+    - religion: hindu
+      estate: peasant
+      size: 1000
 1317.1.1:
   owner: DLH
   controller: DLH

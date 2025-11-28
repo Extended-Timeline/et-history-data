@@ -6,15 +6,15 @@
     SIJI: yes
   resource: livestock
   pop:
-    ethnicity: zenati
-    religion: bantu_religion
-    estate: peasant
-    size: 1000
+    - ethnicity: zenati
+      religion: bantu_religion
+      estate: peasant
+      size: 1000
 420.1.1:
   pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+    - religion: chalcedonism
+      estate: peasant
+      size: 1000
 429.1.1:
   owner: ALTA
   controller: ALTA
@@ -34,9 +34,9 @@
     SIJI: yes
 760.1.1:
   pop:
-    religion: ibadi
-    estate: peasant
-    size: 1000
+    - religion: ibadi
+      estate: peasant
+      size: 1000
 789.1.1:
   owner: MOR
   controller: MOR
@@ -64,9 +64,9 @@
     TLE: yes
 1050.1.1:
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 1066.10.1:
   owner: MOR
   controller: MOR

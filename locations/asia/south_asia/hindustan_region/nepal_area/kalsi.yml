@@ -6,10 +6,10 @@
     KGR: yes
   resource: cotton
   pop:
-    ethnicity: garhwali
-    religion: mahayana
-    estate: peasant
-    size: 1000
+    - ethnicity: garhwali
+      religion: mahayana
+      estate: peasant
+      size: 1000
 140.1.1:
   owner: KUSH
   controller: KUSH
@@ -32,9 +32,9 @@
     HEPH: no
 1003.1.1:
   pop:
-    religion: hindu
-    estate: peasant
-    size: 1000
+    - religion: hindu
+      estate: peasant
+      size: 1000
 1095.1.1:
   owner: SIRM
   controller: SIRM

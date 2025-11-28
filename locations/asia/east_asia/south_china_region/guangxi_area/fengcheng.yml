@@ -7,10 +7,10 @@
     WUU: yes
   resource: silk
   pop:
-    ethnicity: zhuang_culture
-    religion: bimoism
-    estate: peasant
-    size: 1000
+    - ethnicity: zhuang_culture
+      religion: bimoism
+      estate: peasant
+      size: 1000
 9.1.10:
   owner: XIN0
   controller: XIN0
@@ -40,9 +40,9 @@
     JIN1: yes
 300.1.1:
   pop:
-    religion: sanjiao
-    estate: peasant
-    size: 1000
+    - religion: sanjiao
+      estate: peasant
+      size: 1000
 420.1.1:
   owner: LSON
   controller: LSON

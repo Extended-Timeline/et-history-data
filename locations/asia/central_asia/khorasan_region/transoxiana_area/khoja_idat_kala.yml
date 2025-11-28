@@ -6,10 +6,10 @@
     BUKH: yes
   resource: livestock
   pop:
-    ethnicity: sogdian
-    religion: zoroastrian
-    estate: peasant
-    size: 1000
+    - ethnicity: sogdian
+      religion: zoroastrian
+      estate: peasant
+      size: 1000
 30.1.1:
   owner: KUSH
   controller: KUSH
@@ -70,9 +70,9 @@
     ABBA: yes
 770.1.1:
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 819.1.1:
   owner: SAMA
   controller: SAMA
@@ -80,9 +80,9 @@
     ABBA: no
     SAMA: yes
   pop:
-    ethnicity: tajik_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: tajik_culture
+      estate: peasant
+      size: 1000
 842.1.1:
   owner: KOKA
   controller: KOKA
@@ -114,9 +114,9 @@
     SELJ: yes
 1040.1.1:
   pop:
-    ethnicity: uzbek_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: uzbek_culture
+      estate: peasant
+      size: 1000
 1153.1.1:
   owner: KHWA
   controller: KHWA
@@ -178,9 +178,9 @@
     BUKH: no
 1700.1.1:
   pop:
-    ethnicity: turkmen_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: turkmen_culture
+      estate: peasant
+      size: 1000
 1785.1.1:
   owner: BUKH
   controller: BUKH

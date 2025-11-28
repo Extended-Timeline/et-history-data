@@ -6,10 +6,10 @@
     NABA: yes
   resource: gems
   pop:
-    ethnicity: nabataean_culture
-    religion: nabataean
-    estate: peasant
-    size: 1000
+    - ethnicity: nabataean_culture
+      religion: nabataean
+      estate: peasant
+      size: 1000
 106.6.1:
   owner: ROM
   controller: ROM
@@ -18,19 +18,19 @@
     ROM: yes
 120.1.1:
   pop:
-    religion: judaism
-    estate: peasant
-    size: 1000
+    - religion: judaism
+      estate: peasant
+      size: 1000
 272.1.1:
   pop:
-    ethnicity: najdi_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: najdi_culture
+      estate: peasant
+      size: 1000
 380.1.1:
   pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+    - religion: chalcedonism
+      estate: peasant
+      size: 1000
 395.1.17:
   owner: BYZ
   controller: BYZ
@@ -55,9 +55,9 @@
     UMAY: yes
 680.1.1:
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 750.8.6:
   owner: ABBA
   controller: ABBA

@@ -6,10 +6,10 @@
     MLB: yes
   resource: tropical_wood
   pop:
-    ethnicity: zo_culture
-    religion: sanamahism
-    estate: peasant
-    size: 1000
+    - ethnicity: zo_culture
+      religion: sanamahism
+      estate: peasant
+      size: 1000
 350.1.1:
   owner: KAMA
   controller: KAMA
@@ -24,9 +24,9 @@
     KACH: yes
 1300.1.1:
   pop:
-    religion: hindu
-    estate: peasant
-    size: 1000
+    - religion: hindu
+      estate: peasant
+      size: 1000
 1526.2.1:
   controller: AHO
 1531.1.1:
@@ -49,9 +49,9 @@
     GBR: yes
 1860.1.1:
   pop:
-    religion: lutheran
-    estate: peasant
-    size: 1000
+    - religion: lutheran
+      estate: peasant
+      size: 1000
 1930.1.1:
   cores:
     KACH: no

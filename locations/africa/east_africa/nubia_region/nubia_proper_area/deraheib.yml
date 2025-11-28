@@ -6,15 +6,15 @@
     BLEM: yes
   resource: slaves
   pop:
-    ethnicity: beja_culture
-    religion: egyptian
-    estate: peasant
-    size: 1000
+    - ethnicity: beja_culture
+      religion: egyptian
+      estate: peasant
+      size: 1000
 550.1.1:
   pop:
-    religion: miaphysite
-    estate: peasant
-    size: 1000
+    - religion: miaphysite
+      estate: peasant
+      size: 1000
 650.1.1:
   owner: NAGS
   controller: NAGS
@@ -34,9 +34,9 @@
     DON: yes
 1600.1.1:
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 1820.1.1:
   owner: EGY
   controller: EGY

@@ -6,10 +6,10 @@
     FRI: yes
   resource: livestock
   pop:
-    ethnicity: frisian
-    religion: germanic
-    estate: peasant
-    size: 1000
+    - ethnicity: frisian
+      religion: germanic
+      estate: peasant
+      size: 1000
 734.1.1:
   owner: FRAN
   controller: FRAN
@@ -17,9 +17,9 @@
     FRAN: yes
 800.1.1:
   pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+    - religion: chalcedonism
+      estate: peasant
+      size: 1000
 839.1.1:
   owner: FRI
   controller: FRI
@@ -28,9 +28,9 @@
     FRI: yes
 867.1.1:
   pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - religion: catholic
+      estate: peasant
+      size: 1000
 922.1.1:
   owner: HOL
   controller: HOL
@@ -68,9 +68,9 @@
   controller: SPA
 1536.1.1:
   pop:
-    religion: calvinist
-    estate: peasant
-    size: 1000
+    - religion: calvinist
+      estate: peasant
+      size: 1000
 1549.11.4:
   owner: NED
   controller: NED

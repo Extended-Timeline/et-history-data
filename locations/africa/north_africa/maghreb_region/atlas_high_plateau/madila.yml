@@ -6,10 +6,10 @@
     ROM: yes
   resource: wool
   pop:
-    ethnicity: zenati
-    religion: bantu_religion
-    estate: peasant
-    size: 1000
+    - ethnicity: zenati
+      religion: bantu_religion
+      estate: peasant
+      size: 1000
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -24,9 +24,9 @@
     AURE: yes
 540.1.1:
   pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+    - religion: chalcedonism
+      estate: peasant
+      size: 1000
 702.1.1:
   owner: UMAY
   controller: UMAY
@@ -45,9 +45,9 @@
     ABBA: yes
 760.1.1:
   pop:
-    religion: ibadi
-    estate: peasant
-    size: 1000
+    - religion: ibadi
+      estate: peasant
+      size: 1000
 777.1.1:
   owner: MZB
   controller: MZB
@@ -74,9 +74,9 @@
     TGT: yes
 1080.1.1:
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 1671.1.1:
   owner: ALG
   controller: ALG

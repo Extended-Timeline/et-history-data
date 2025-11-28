@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/4658 - Udskoye.txt
 2.1.1:
   pop:
-    ethnicity: nivkh_culture
-    religion: mari_paganism
-    estate: peasant
-    size: 1000
+    - ethnicity: nivkh_culture
+      religion: mari_paganism
+      estate: peasant
+      size: 1000
 1206.1.1:
   owner: NVK
   controller: NVK
@@ -27,10 +27,10 @@
     RUS: yes
 1862.1.1:
   pop:
-    ethnicity: muscovite
-    religion: orthodox
-    estate: peasant
-    size: 1000
+    - ethnicity: muscovite
+      religion: orthodox
+      estate: peasant
+      size: 1000
 1922.12.30:
   owner: SOVI
   controller: SOVI

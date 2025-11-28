@@ -6,10 +6,10 @@
     DACI: yes
   resource: naval_supplies
   pop:
-    ethnicity: dacian
-    religion: zamolxism
-    estate: peasant
-    size: 1000
+    - ethnicity: dacian
+      religion: zamolxism
+      estate: peasant
+      size: 1000
 106.1.1:
   owner: IAZY
   controller: IAZY
@@ -23,19 +23,19 @@
     IAZY: no
     GEPI: yes
   pop:
-    ethnicity: gepid
-    religion: germanic
-    estate: peasant
-    size: 1000
+    - ethnicity: gepid
+      religion: germanic
+      estate: peasant
+      size: 1000
 271.1.1:
   owner: VISG
   controller: VISG
   cores:
     VISG: yes
   pop:
-    ethnicity: gothic
-    estate: peasant
-    size: 1000
+    - ethnicity: gothic
+      estate: peasant
+      size: 1000
 376.1.1:
   owner: HUNS
   controller: HUNS
@@ -48,9 +48,9 @@
   cores:
     HUNS: no
   pop:
-    ethnicity: gepid
-    estate: peasant
-    size: 1000
+    - ethnicity: gepid
+      estate: peasant
+      size: 1000
 567.1.1:
   owner: AVR
   controller: AVR
@@ -58,15 +58,15 @@
     GEPI: no
     AVR: yes
   pop:
-    ethnicity: avar_culture
-    religion: 
-    estate: peasant
-    size: 1000
+    - ethnicity: avar_culture
+      religion: 
+      estate: peasant
+      size: 1000
 750.1.1:
   pop:
-    ethnicity: wallachian
-    estate: peasant
-    size: 1000
+    - ethnicity: wallachian
+      estate: peasant
+      size: 1000
 804.1.1:
   owner: BUL
   controller: BUL
@@ -86,14 +86,14 @@
     HUN: yes
 980.1.1:
   pop:
-    ethnicity: hungarian
-    estate: peasant
-    size: 1000
+    - ethnicity: hungarian
+      estate: peasant
+      size: 1000
 1050.1.1:
   pop:
-    religion: orthodox
-    estate: peasant
-    size: 1000
+    - religion: orthodox
+      estate: peasant
+      size: 1000
 1507.1.1:
   controller: HUN
 1515.1.1:
@@ -108,9 +108,9 @@
     TRA: yes
 1540.1.1:
   pop:
-    religion: calvinist
-    estate: peasant
-    size: 1000
+    - religion: calvinist
+      estate: peasant
+      size: 1000
 1551.7.19:
   owner: HAB
   controller: HAB
@@ -121,9 +121,9 @@
   controller: TRA
 1567.1.1:
   pop:
-    religion: calvinist
-    estate: peasant
-    size: 1000
+    - religion: calvinist
+      estate: peasant
+      size: 1000
 1570.1.1:
   cores:
     HAB: no
@@ -170,7 +170,7 @@
   controller: RMN
 1950.1.1:
   pop:
-    ethnicity: wallachian
-    religion: orthodox
-    estate: peasant
-    size: 1000
+    - ethnicity: wallachian
+      religion: orthodox
+      estate: peasant
+      size: 1000

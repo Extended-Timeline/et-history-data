@@ -6,20 +6,20 @@
     YMS: yes
   resource: cotton
   pop:
-    ethnicity: yamasee_culture
-    religion: iroquoian_totemism
-    estate: peasant
-    size: 1000
+    - ethnicity: yamasee_culture
+      religion: iroquoian_totemism
+      estate: peasant
+      size: 1000
 1814.8.9:
   owner: USA
   controller: USA
   cores:
     USA: yes
   pop:
-    ethnicity: british_louisianan
-    religion: lutheran
-    estate: peasant
-    size: 1000
+    - ethnicity: british_louisianan
+      religion: lutheran
+      estate: peasant
+      size: 1000
 1861.1.19:
   owner: CSAM
   controller: CSAM

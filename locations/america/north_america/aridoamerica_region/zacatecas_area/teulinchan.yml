@@ -6,19 +6,19 @@
     MMM: yes
   resource: wool
   pop:
-    ethnicity: tepic
-    religion: nahuatl
-    estate: peasant
-    size: 1000
+    - ethnicity: tepic
+      religion: nahuatl
+      estate: peasant
+      size: 1000
 1532.1.1:
   owner: SPA
   controller: SPA
   cores:
     SPA: yes
   pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - religion: catholic
+      estate: peasant
+      size: 1000
 1810.9.16:
   owner: MEX
   controller: MEX

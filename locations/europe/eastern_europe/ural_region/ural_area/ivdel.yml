@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/1080 - North Urals.txt
 2.1.1:
   pop:
-    ethnicity: khanty_culture
-    religion: mari_paganism
-    estate: peasant
-    size: 1000
+    - ethnicity: khanty_culture
+      religion: mari_paganism
+      estate: peasant
+      size: 1000
 1592.1.1:
   owner: RUS
   controller: RUS
@@ -12,10 +12,10 @@
     RUS: yes
   resource: iron
   pop:
-    ethnicity: muscovite
-    religion: orthodox
-    estate: peasant
-    size: 1000
+    - ethnicity: muscovite
+      religion: orthodox
+      estate: peasant
+      size: 1000
 1922.12.30:
   owner: SOVI
   controller: SOVI

@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/1140 - Abomey.txt
 2.1.1:
   pop:
-    ethnicity: fon
-    religion: bantu_religion
-    estate: peasant
-    size: 1000
+    - ethnicity: fon
+      religion: bantu_religion
+      estate: peasant
+      size: 1000
 1100.1.1:
   owner: ARDR
   controller: ARDR
@@ -19,9 +19,9 @@
     DAH: yes
 1850.1.1:
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 1894.1.1:
   owner: FRA
   controller: FRA
@@ -30,9 +30,9 @@
   resource: grain
 1920.1.1:
   pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - religion: catholic
+      estate: peasant
+      size: 1000
 1940.6.14:
   owner: VFRA
   controller: VFRA

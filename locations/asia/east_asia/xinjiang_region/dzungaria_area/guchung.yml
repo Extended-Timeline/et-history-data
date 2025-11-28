@@ -6,15 +6,15 @@
     KARA: yes
   resource: salt
   pop:
-    ethnicity: tocharian
-    religion: mahayana
-    estate: peasant
-    size: 1000
+    - ethnicity: tocharian
+      religion: mahayana
+      estate: peasant
+      size: 1000
 420.1.1:
   pop:
-    ethnicity: uyghur_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: uyghur_culture
+      estate: peasant
+      size: 1000
 439.1.1:
   owner: NLIA
   controller: NLIA
@@ -40,9 +40,9 @@
     UYGH: yes
 745.1.1:
   pop:
-    religion: manichaeism
-    estate: peasant
-    size: 1000
+    - religion: manichaeism
+      estate: peasant
+      size: 1000
 789.1.1:
   owner: TIB
   controller: TIB
@@ -50,9 +50,9 @@
     TIB: yes
 840.1.1:
   pop:
-    religion: tibetan_buddhism
-    estate: peasant
-    size: 1000
+    - religion: tibetan_buddhism
+      estate: peasant
+      size: 1000
 842.1.1:
   owner: UTSA
   controller: UTSA
@@ -73,9 +73,9 @@
     MGE: yes
 1210.1.1:
   pop:
-    religion: 
-    estate: peasant
-    size: 1000
+    - religion: 
+      estate: peasant
+      size: 1000
 1260.1.1:
   owner: CHG
   controller: CHG
@@ -100,9 +100,9 @@
     ZUNG: yes
 1680.1.1:
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 1755.1.1:
   owner: QNG
   controller: QNG

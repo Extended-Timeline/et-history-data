@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/3211 - Sahra al-Hijarah.txt
 2.1.1:
   pop:
-    ethnicity: najdi_culture
-    religion: south_arabian
-    estate: peasant
-    size: 1000
+    - ethnicity: najdi_culture
+      religion: south_arabian
+      estate: peasant
+      size: 1000
 220.1.1:
   owner: LAKH
   controller: LAKH
@@ -13,14 +13,14 @@
   resource: wool
 240.1.1:
   pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+    - religion: chalcedonism
+      estate: peasant
+      size: 1000
 431.7.1:
   pop:
-    religion: nestorianism
-    estate: peasant
-    size: 1000
+    - religion: nestorianism
+      estate: peasant
+      size: 1000
 633.1.1:
   owner: RASH
   controller: RASH
@@ -28,9 +28,9 @@
     LAKH: no
     RASH: yes
   pop:
-    religion: islam
-    estate: peasant
-    size: 1000
+    - religion: islam
+      estate: peasant
+      size: 1000
 661.7.28:
   owner: UMAY
   controller: UMAY
@@ -38,9 +38,9 @@
     RASH: no
     UMAY: yes
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 750.8.6:
   owner: ABBA
   controller: ABBA
@@ -80,9 +80,9 @@
     SHAM: yes
 1250.1.1:
   pop:
-    religion: shia
-    estate: peasant
-    size: 1000
+    - religion: shia
+      estate: peasant
+      size: 1000
 1536.1.1:
   owner: TUR
   controller: TUR

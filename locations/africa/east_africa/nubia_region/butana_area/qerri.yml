@@ -6,15 +6,15 @@
     MERO: yes
   resource: grain
   pop:
-    ethnicity: kushite
-    religion: bantu_religion
-    estate: peasant
-    size: 1000
+    - ethnicity: kushite
+      religion: bantu_religion
+      estate: peasant
+      size: 1000
 300.1.1:
   pop:
-    ethnicity: nubian_language
-    estate: peasant
-    size: 1000
+    - ethnicity: nubian_language
+      estate: peasant
+      size: 1000
 350.1.1:
   owner: ALO
   controller: ALO
@@ -23,9 +23,9 @@
     ALO: yes
 580.1.1:
   pop:
-    religion: miaphysite
-    estate: peasant
-    size: 1000
+    - religion: miaphysite
+      estate: peasant
+      size: 1000
 1503.1.1:
   owner: FUNJ
   controller: FUNJ
@@ -33,9 +33,9 @@
     FUNJ: yes
 1523.1.1:
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 1584.1.1:
   controller: FUNJ
 1821.6.14:
@@ -46,9 +46,9 @@
     TUR: yes
 1850.1.1:
   pop:
-    ethnicity: sudanese_arab
-    estate: peasant
-    size: 1000
+    - ethnicity: sudanese_arab
+      estate: peasant
+      size: 1000
 1882.9.13:
   owner: GBR
   controller: GBR

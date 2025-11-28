@@ -6,10 +6,10 @@
     ROM: yes
   resource: livestock
   pop:
-    ethnicity: beja_culture
-    religion: egyptian
-    estate: peasant
-    size: 1000
+    - ethnicity: beja_culture
+      religion: egyptian
+      estate: peasant
+      size: 1000
 395.1.17:
   owner: BYZ
   controller: BYZ
@@ -28,9 +28,9 @@
     RASH: yes
 655.1.1:
   pop:
-    religion: islam
-    estate: peasant
-    size: 1000
+    - religion: islam
+      estate: peasant
+      size: 1000
 661.7.28:
   owner: UMAY
   controller: UMAY
@@ -38,9 +38,9 @@
     RASH: no
     UMAY: yes
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 750.8.6:
   owner: ABBA
   controller: ABBA
@@ -77,9 +77,9 @@
     EGY: yes
 1200.1.1:
   pop:
-    ethnicity: lower_egyptian_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: lower_egyptian_culture
+      estate: peasant
+      size: 1000
 1250.5.2:
   owner: MAM
   controller: MAM
@@ -88,9 +88,9 @@
     MAM: yes
 1350.1.1:
   pop:
-    ethnicity: upper_egyptian_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: upper_egyptian_culture
+      estate: peasant
+      size: 1000
 1517.1.1:
   cores:
     MAM: no

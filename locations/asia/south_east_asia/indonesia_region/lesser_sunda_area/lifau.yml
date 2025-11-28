@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/2695 - Timor.txt
 2.1.1:
   pop:
-    ethnicity: tetum_culture
-    religion: bimoism
-    estate: peasant
-    size: 1000
+    - ethnicity: tetum_culture
+      religion: bimoism
+      estate: peasant
+      size: 1000
 1556.1.1:
   owner: POR
   controller: POR
@@ -13,9 +13,9 @@
   resource: spices
 1650.1.1:
   pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - religion: catholic
+      estate: peasant
+      size: 1000
 1912.9.10:
   cores:
     INDN: yes

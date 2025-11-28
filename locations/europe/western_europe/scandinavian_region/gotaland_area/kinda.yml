@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/3 - Kalmar.txt
 2.1.1:
   pop:
-    ethnicity: gutnish
-    religion: norse
-    estate: peasant
-    size: 1000
+    - ethnicity: gutnish
+      religion: norse
+      estate: peasant
+      size: 1000
 350.1.1:
   owner: EGEA
   controller: EGEA
@@ -19,14 +19,14 @@
     SWE: yes
 980.1.1:
   pop:
-    ethnicity: swedish
-    estate: peasant
-    size: 1000
+    - ethnicity: swedish
+      estate: peasant
+      size: 1000
 1000.1.1:
   pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - religion: catholic
+      estate: peasant
+      size: 1000
 1469.12.10:
   owner: DAN
   controller: DAN
@@ -53,9 +53,9 @@
   controller: SWE
 1527.6.1:
   pop:
-    religion: lutheran
-    estate: peasant
-    size: 1000
+    - religion: lutheran
+      estate: peasant
+      size: 1000
 1598.8.1:
   controller: PLC
 1599.5.12:

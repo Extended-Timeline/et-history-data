@@ -6,10 +6,10 @@
     INGR: yes
   resource: dyes
   pop:
-    ethnicity: punjabi
-    religion: mahayana
-    estate: peasant
-    size: 1000
+    - ethnicity: punjabi
+      religion: mahayana
+      estate: peasant
+      size: 1000
 10.1.1:
   owner: NSAT
   controller: NSAT
@@ -77,9 +77,9 @@
     GHAZ: yes
 1100.1.1:
   pop:
-    religion: hindu
-    estate: peasant
-    size: 1000
+    - religion: hindu
+      estate: peasant
+      size: 1000
 1187.1.1:
   owner: GHOR
   controller: GHOR
@@ -103,9 +103,9 @@
   controller: DLH
 1499.1.1:
   pop:
-    religion: sikhism
-    estate: peasant
-    size: 1000
+    - religion: sikhism
+      estate: peasant
+      size: 1000
 1526.2.1:
   controller: TIM
 1526.4.21:

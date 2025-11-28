@@ -6,10 +6,10 @@
     SARM: yes
   resource: iron
   pop:
-    ethnicity: sarmatian
-    religion: 
-    estate: peasant
-    size: 1000
+    - ethnicity: sarmatian
+      religion: 
+      estate: peasant
+      size: 1000
 370.1.1:
   owner: HUNS
   controller: HUNS
@@ -17,16 +17,16 @@
     SARM: no
     HUNS: yes
   pop:
-    ethnicity: hunnic
-    estate: peasant
-    size: 1000
+    - ethnicity: hunnic
+      estate: peasant
+      size: 1000
 420.1.1:
   cores:
     KUTR: yes
   pop:
-    ethnicity: bolghar_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: bolghar_culture
+      estate: peasant
+      size: 1000
 469.1.1:
   owner: KUTR
   controller: KUTR
@@ -51,9 +51,9 @@
     BUL: no
     HUN: yes
   pop:
-    ethnicity: hungarian
-    estate: peasant
-    size: 1000
+    - ethnicity: hungarian
+      estate: peasant
+      size: 1000
 840.1.1:
   owner: KHAZ
   controller: KHAZ
@@ -67,9 +67,9 @@
     KHAZ: no
     PECH: yes
   pop:
-    ethnicity: pecheneg
-    estate: peasant
-    size: 1000
+    - ethnicity: pecheneg
+      estate: peasant
+      size: 1000
 1060.1.1:
   owner: CUMA
   controller: CUMA
@@ -78,14 +78,14 @@
     CUMA: yes
 1220.1.1:
   pop:
-    ethnicity: crimean
-    estate: peasant
-    size: 1000
+    - ethnicity: crimean
+      estate: peasant
+      size: 1000
 1230.1.1:
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 1241.1.1:
   owner: MGE
   controller: MGE
@@ -107,10 +107,10 @@
     LIT: yes
 1420.1.1:
   pop:
-    ethnicity: ruthenian
-    religion: orthodox
-    estate: peasant
-    size: 1000
+    - ethnicity: ruthenian
+      religion: orthodox
+      estate: peasant
+      size: 1000
 1555.1.1:
   owner: ZAZ
   controller: ZAZ

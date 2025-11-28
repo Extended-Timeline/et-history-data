@@ -6,15 +6,15 @@
     LAWA: yes
   resource: chinaware
   pop:
-    ethnicity: wa_culture
-    religion: bimoism
-    estate: peasant
-    size: 1000
+    - ethnicity: wa_culture
+      religion: bimoism
+      estate: peasant
+      size: 1000
 520.1.1:
   pop:
-    religion: mahayana
-    estate: peasant
-    size: 1000
+    - religion: mahayana
+      estate: peasant
+      size: 1000
 580.1.1:
   owner: DVAR
   controller: DVAR
@@ -22,9 +22,9 @@
     LAWA: no
     DVAR: yes
   pop:
-    ethnicity: mon_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: mon_culture
+      estate: peasant
+      size: 1000
 629.1.1:
   owner: HARI
   controller: HARI
@@ -33,9 +33,9 @@
     HARI: yes
 1020.1.1:
   pop:
-    ethnicity: thai_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: thai_culture
+      estate: peasant
+      size: 1000
 1238.1.1:
   owner: SUK
   controller: SUK
@@ -44,9 +44,9 @@
     SUK: yes
 1260.1.1:
   pop:
-    religion: theravada
-    estate: peasant
-    size: 1000
+    - religion: theravada
+      estate: peasant
+      size: 1000
 1438.1.1:
   cores:
     AYU: yes

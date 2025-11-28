@@ -6,20 +6,20 @@
     EMIS: yes
   resource: grain
   pop:
-    ethnicity: emishi
-    religion: mari_paganism
-    estate: peasant
-    size: 1000
+    - ethnicity: emishi
+      religion: mari_paganism
+      estate: peasant
+      size: 1000
 607.1.1:
   pop:
-    religion: mahayana
-    estate: peasant
-    size: 1000
+    - religion: mahayana
+      estate: peasant
+      size: 1000
 712.1.1:
   pop:
-    religion: shinto
-    estate: peasant
-    size: 1000
+    - religion: shinto
+      estate: peasant
+      size: 1000
 802.1.1:
   owner: JAP
   controller: JAP
@@ -28,9 +28,9 @@
     JAP: yes
 950.1.1:
   pop:
-    ethnicity: saigoku_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: saigoku_culture
+      estate: peasant
+      size: 1000
 1040.1.1:
   owner: FUJI
   controller: FUJI

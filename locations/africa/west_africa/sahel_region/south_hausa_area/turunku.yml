@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/1154 - Zazzau.txt
 2.1.1:
   pop:
-    ethnicity: hausa
-    religion: bantu_religion
-    estate: peasant
-    size: 1000
+    - ethnicity: hausa
+      religion: bantu_religion
+      estate: peasant
+      size: 1000
 523.1.1:
   owner: RAN
   controller: RAN
@@ -19,9 +19,9 @@
     ZZZ: yes
 1720.1.1:
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 1805.1.1:
   owner: SOKO
   controller: SOKO

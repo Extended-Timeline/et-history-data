@@ -6,10 +6,10 @@
     PUND: yes
   resource: silk
   pop:
-    ethnicity: bengali
-    religion: mahayana
-    estate: peasant
-    size: 1000
+    - ethnicity: bengali
+      religion: mahayana
+      estate: peasant
+      size: 1000
 358.1.1:
   owner: GUPT
   controller: GUPT
@@ -78,9 +78,9 @@
     GAUD: yes
 1180.1.1:
   pop:
-    religion: hindu
-    estate: peasant
-    size: 1000
+    - religion: hindu
+      estate: peasant
+      size: 1000
 1203.1.1:
   owner: BNG
   controller: BNG
@@ -118,9 +118,9 @@
   controller: BNG
 1570.1.1:
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 1576.7.12:
   owner: MUG
   controller: MUG

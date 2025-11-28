@@ -6,10 +6,10 @@
     PUND: yes
   resource: paper
   pop:
-    ethnicity: bengali
-    religion: mahayana
-    estate: peasant
-    size: 1000
+    - ethnicity: bengali
+      religion: mahayana
+      estate: peasant
+      size: 1000
 358.1.1:
   owner: GUPT
   controller: GUPT
@@ -41,9 +41,9 @@
     PALA: yes
 1170.1.1:
   pop:
-    religion: hindu
-    estate: peasant
-    size: 1000
+    - religion: hindu
+      estate: peasant
+      size: 1000
 1174.1.1:
   owner: GAUD
   controller: GAUD

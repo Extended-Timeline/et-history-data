@@ -6,10 +6,10 @@
     ODRY: yes
   resource: grain
   pop:
-    ethnicity: thracian
-    religion: zamolxism
-    estate: peasant
-    size: 1000
+    - ethnicity: thracian
+      religion: zamolxism
+      estate: peasant
+      size: 1000
 46.1.1:
   owner: ROM
   controller: ROM
@@ -20,9 +20,9 @@
     ODRY: no
 120.1.1:
   pop:
-    religion: hellenism_religion
-    estate: peasant
-    size: 1000
+    - religion: hellenism_religion
+      estate: peasant
+      size: 1000
 395.1.17:
   owner: BYZ
   controller: BYZ
@@ -31,9 +31,9 @@
     BYZ: yes
 700.1.1:
   pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+    - religion: chalcedonism
+      estate: peasant
+      size: 1000
 812.1.1:
   owner: BUL
   controller: BUL
@@ -41,17 +41,17 @@
   cores:
     BUL: yes
   pop:
-    ethnicity: bulgarian
-    estate: peasant
-    size: 1000
+    - ethnicity: bulgarian
+      estate: peasant
+      size: 1000
 856.1.1:
   owner: BYZ
   controller: BYZ
 867.1.1:
   pop:
-    religion: orthodox
-    estate: peasant
-    size: 1000
+    - religion: orthodox
+      estate: peasant
+      size: 1000
 894.1.1:
   owner: BUL
   controller: BUL

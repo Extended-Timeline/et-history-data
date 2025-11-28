@@ -6,10 +6,10 @@
     IAZY: yes
   resource: livestock
   pop:
-    ethnicity: pannonian
-    religion: druidism
-    estate: peasant
-    size: 1000
+    - ethnicity: pannonian
+      religion: druidism
+      estate: peasant
+      size: 1000
 300.1.1:
   owner: GEPI
   controller: GEPI
@@ -17,15 +17,15 @@
     IAZY: no
     GEPI: yes
   pop:
-    ethnicity: gepid
-    religion: germanic
-    estate: peasant
-    size: 1000
+    - ethnicity: gepid
+      religion: germanic
+      estate: peasant
+      size: 1000
 400.1.1:
   pop:
-    religion: arianism
-    estate: peasant
-    size: 1000
+    - religion: arianism
+      estate: peasant
+      size: 1000
 567.1.1:
   owner: AVR
   controller: AVR
@@ -33,10 +33,10 @@
     GEPI: no
     AVR: yes
   pop:
-    ethnicity: avar_culture
-    religion: 
-    estate: peasant
-    size: 1000
+    - ethnicity: avar_culture
+      religion: 
+      estate: peasant
+      size: 1000
 804.1.1:
   owner: BUL
   controller: BUL
@@ -50,14 +50,14 @@
     BUL: no
     HUN: yes
   pop:
-    ethnicity: hungarian
-    estate: peasant
-    size: 1000
+    - ethnicity: hungarian
+      estate: peasant
+      size: 1000
 1050.1.1:
   pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - religion: catholic
+      estate: peasant
+      size: 1000
 1507.1.1:
   controller: HUN
 1515.1.1:
@@ -72,9 +72,9 @@
     TRA: yes
 1540.1.1:
   pop:
-    religion: calvinist
-    estate: peasant
-    size: 1000
+    - religion: calvinist
+      estate: peasant
+      size: 1000
 1542.1.1:
   controller: TRA
 1545.8.1:
@@ -89,9 +89,9 @@
   controller: TRA
 1567.1.1:
   pop:
-    religion: calvinist
-    estate: peasant
-    size: 1000
+    - religion: calvinist
+      estate: peasant
+      size: 1000
 1570.1.1:
   owner: HAB
   controller: HAB

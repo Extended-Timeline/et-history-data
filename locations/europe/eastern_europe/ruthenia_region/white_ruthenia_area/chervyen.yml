@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/276 - Minsk.txt
 2.1.1:
   pop:
-    ethnicity: polatskian_culture
-    religion: slavic
-    estate: peasant
-    size: 1000
+    - ethnicity: polatskian_culture
+      religion: slavic
+      estate: peasant
+      size: 1000
 550.1.1:
   owner: DREG
   controller: DREG
@@ -25,9 +25,9 @@
     POK: yes
 988.1.1:
   pop:
-    religion: orthodox
-    estate: peasant
-    size: 1000
+    - religion: orthodox
+      estate: peasant
+      size: 1000
 1054.2.20:
   cores:
     KIEV: no

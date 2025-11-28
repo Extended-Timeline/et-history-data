@@ -6,10 +6,10 @@
     SICA: yes
   resource: cloth
   pop:
-    ethnicity: frankish
-    religion: germanic
-    estate: peasant
-    size: 1000
+    - ethnicity: frankish
+      religion: germanic
+      estate: peasant
+      size: 1000
 290.1.1:
   owner: FRAN
   controller: FRAN
@@ -17,9 +17,9 @@
     FRAN: yes
 500.1.1:
   pop:
-    ethnicity: rhine_franconian
-    estate: peasant
-    size: 1000
+    - ethnicity: rhine_franconian
+      estate: peasant
+      size: 1000
 511.11.27:
   owner: ASTS
   controller: ASTS
@@ -41,9 +41,9 @@
   controller: ASTS
 600.1.1:
   pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+    - religion: chalcedonism
+      estate: peasant
+      size: 1000
 613.10.10:
   owner: FRAN
   controller: FRAN
@@ -69,9 +69,9 @@
     EFRA: yes
 867.1.1:
   pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - religion: catholic
+      estate: peasant
+      size: 1000
 911.11.10:
   owner: LOT
   controller: LOT

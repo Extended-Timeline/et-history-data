@@ -1,26 +1,26 @@
 #imported from EU4 file: history/provinces/899 - Osage.txt
 2.1.1:
   pop:
-    ethnicity: tunica_culture
-    religion: iroquoian_totemism
-    estate: peasant
-    size: 1000
+    - ethnicity: tunica_culture
+      religion: iroquoian_totemism
+      estate: peasant
+      size: 1000
 1680.1.1:
   owner: WZZ
   controller: WZZ
   cores:
     WZZ: yes
   pop:
-    ethnicity: osage_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: osage_culture
+      estate: peasant
+      size: 1000
 1808.11.10:
   owner: USA
   controller: USA
   cores:
     USA: yes
   pop:
-    ethnicity: american
-    religion: lutheran
-    estate: peasant
-    size: 1000
+    - ethnicity: american
+      religion: lutheran
+      estate: peasant
+      size: 1000

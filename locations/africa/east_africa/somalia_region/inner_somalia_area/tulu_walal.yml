@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/1218 - Borena.txt
 2.1.1:
   pop:
-    ethnicity: oromo_culture
-    religion: bantu_religion
-    estate: peasant
-    size: 1000
+    - ethnicity: oromo_culture
+      religion: bantu_religion
+      estate: peasant
+      size: 1000
 1180.1.1:
   owner: WELA
   controller: WELA
@@ -15,9 +15,9 @@
   controller: WELA
 1575.1.1:
   pop:
-    religion: miaphysite
-    estate: peasant
-    size: 1000
+    - religion: miaphysite
+      estate: peasant
+      size: 1000
 1894.1.1:
   owner: ETH
   controller: ETH

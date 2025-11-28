@@ -7,10 +7,10 @@
     WEI0: yes
   resource: livestock
   pop:
-    ethnicity: amdowa_culture
-    religion: sanjiao
-    estate: peasant
-    size: 1000
+    - ethnicity: amdowa_culture
+      religion: sanjiao
+      estate: peasant
+      size: 1000
 9.1.10:
   owner: XIN0
   controller: XIN0
@@ -164,9 +164,9 @@
     CSH: yes
 1270.1.1:
   pop:
-    ethnicity: xibei
-    estate: peasant
-    size: 1000
+    - ethnicity: xibei
+      estate: peasant
+      size: 1000
 1271.1.1:
   owner: YUA
   controller: YUA

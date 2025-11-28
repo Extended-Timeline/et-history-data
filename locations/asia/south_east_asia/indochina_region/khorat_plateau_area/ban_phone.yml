@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/4840 - Xekong.txt
 2.1.1:
   pop:
-    ethnicity: bru_culture
-    religion: bimoism
-    estate: peasant
-    size: 1000
+    - ethnicity: bru_culture
+      religion: bimoism
+      estate: peasant
+      size: 1000
 550.1.1:
   owner: KATA
   controller: KATA
@@ -38,10 +38,10 @@
   cores:
     LAXA: yes
   pop:
-    ethnicity: lao_culture
-    religion: satsana_phi
-    estate: peasant
-    size: 1000
+    - ethnicity: lao_culture
+      religion: satsana_phi
+      estate: peasant
+      size: 1000
 1483.1.1:
   cores:
     DAI: yes
@@ -60,9 +60,9 @@
     CHAK: yes
 1820.1.1:
   pop:
-    religion: theravada
-    estate: peasant
-    size: 1000
+    - religion: theravada
+      estate: peasant
+      size: 1000
 1893.10.3:
   owner: LAOS
   controller: LAOS

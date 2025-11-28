@@ -6,15 +6,15 @@
     CHRC: yes
   resource: spices
   pop:
-    ethnicity: iraqi_culture
-    religion: hellenism_religion
-    estate: peasant
-    size: 1000
+    - ethnicity: iraqi_culture
+      religion: hellenism_religion
+      estate: peasant
+      size: 1000
 116.1.1:
   pop:
-    religion: zoroastrian
-    estate: peasant
-    size: 1000
+    - religion: zoroastrian
+      estate: peasant
+      size: 1000
 222.1.1:
   owner: ERA
   controller: ERA
@@ -27,9 +27,9 @@
     ERA: no
     RASH: yes
   pop:
-    religion: islam
-    estate: peasant
-    size: 1000
+    - religion: islam
+      estate: peasant
+      size: 1000
 661.7.28:
   owner: UMAY
   controller: UMAY
@@ -37,9 +37,9 @@
     RASH: no
     UMAY: yes
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 750.8.6:
   owner: ABBA
   controller: ABBA
@@ -124,9 +124,9 @@
     AKQO: no
     IRA: yes
   pop:
-    religion: shia
-    estate: peasant
-    size: 1000
+    - religion: shia
+      estate: peasant
+      size: 1000
 1538.1.1:
   owner: TUR
   controller: TUR

@@ -6,20 +6,20 @@
     MIK: yes
   resource: fish
   pop:
-    ethnicity: mikmaq_culture
-    religion: iroquoian_totemism
-    estate: peasant
-    size: 1000
+    - ethnicity: mikmaq_culture
+      religion: iroquoian_totemism
+      estate: peasant
+      size: 1000
 1671.1.1:
   owner: FRA
   controller: FRA
   cores:
     FRA: yes
   pop:
-    ethnicity: french
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - ethnicity: french
+      religion: catholic
+      estate: peasant
+      size: 1000
 1692.1.1:
   controller: ENG
 1697.9.20:
@@ -33,15 +33,15 @@
     GBR: yes
 1750.1.1:
   pop:
-    ethnicity: english
-    religion: lutheran
-    estate: peasant
-    size: 1000
+    - ethnicity: english
+      religion: lutheran
+      estate: peasant
+      size: 1000
 1790.1.1:
   pop:
-    ethnicity: british_canadian
-    estate: peasant
-    size: 1000
+    - ethnicity: british_canadian
+      estate: peasant
+      size: 1000
 1867.7.1:
   owner: CAN
   controller: CAN

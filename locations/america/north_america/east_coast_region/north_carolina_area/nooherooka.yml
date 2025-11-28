@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/937 - Tuscarora.txt
 2.1.1:
   pop:
-    ethnicity: powhatan_culture
-    religion: iroquoian_totemism
-    estate: peasant
-    size: 1000
+    - ethnicity: powhatan_culture
+      religion: iroquoian_totemism
+      estate: peasant
+      size: 1000
 900.1.1:
   owner: TUSC
   controller: TUSC
@@ -12,33 +12,33 @@
     TUSC: yes
   resource: tobacco
   pop:
-    ethnicity: onondowaga_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: onondowaga_culture
+      estate: peasant
+      size: 1000
 1720.1.1:
   owner: GBR
   controller: GBR
   cores:
     GBR: yes
   pop:
-    ethnicity: english
-    religion: lutheran
-    estate: peasant
-    size: 1000
+    - ethnicity: english
+      religion: lutheran
+      estate: peasant
+      size: 1000
 1764.7.1:
   pop:
-    ethnicity: british_louisianan
-    estate: peasant
-    size: 1000
+    - ethnicity: british_louisianan
+      estate: peasant
+      size: 1000
 1776.7.4:
   owner: USA
   controller: USA
   cores:
     USA: yes
   pop:
-    ethnicity: british_louisianan
-    estate: peasant
-    size: 1000
+    - ethnicity: british_louisianan
+      estate: peasant
+      size: 1000
 1782.11.1:
   cores:
     GBR: no

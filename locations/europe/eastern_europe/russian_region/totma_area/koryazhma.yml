@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/4129 - Ust-Vym.txt
 2.1.1:
   pop:
-    ethnicity: udmurt
-    religion: muinaisusko
-    estate: peasant
-    size: 1000
+    - ethnicity: udmurt
+      religion: muinaisusko
+      estate: peasant
+      size: 1000
 750.1.1:
   owner: PRM
   controller: PRM
@@ -13,9 +13,9 @@
   resource: fur
 1350.1.1:
   pop:
-    religion: orthodox
-    estate: peasant
-    size: 1000
+    - religion: orthodox
+      estate: peasant
+      size: 1000
 1505.4.1:
   owner: RUS
   controller: RUS
@@ -24,9 +24,9 @@
     RUS: yes
 1580.1.1:
   pop:
-    ethnicity: muscovite
-    estate: peasant
-    size: 1000
+    - ethnicity: muscovite
+      estate: peasant
+      size: 1000
 1922.12.30:
   owner: SOVI
   controller: SOVI

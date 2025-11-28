@@ -6,10 +6,10 @@
     SATA: yes
   resource: tropical_wood
   pop:
-    ethnicity: gond
-    religion: mahayana
-    estate: peasant
-    size: 1000
+    - ethnicity: gond
+      religion: mahayana
+      estate: peasant
+      size: 1000
 220.1.1:
   owner: ABHI
   controller: ABHI
@@ -24,9 +24,9 @@
     VAKA: yes
 280.1.1:
   pop:
-    religion: hindu
-    estate: peasant
-    size: 1000
+    - religion: hindu
+      estate: peasant
+      size: 1000
 500.1.1:
   owner: RDY
   controller: RDY
@@ -77,9 +77,9 @@
   resource: coal
 1920.1.1:
   pop:
-    ethnicity: marathi_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: marathi_culture
+      estate: peasant
+      size: 1000
 1930.1.1:
   cores:
     NAGP: no

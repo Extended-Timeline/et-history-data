@@ -1,31 +1,31 @@
 #imported from EU4 file: history/provinces/946 - Wyandot.txt
 2.1.1:
   pop:
-    ethnicity: piankeshaw_culture
-    religion: iroquoian_totemism
-    estate: peasant
-    size: 1000
+    - ethnicity: piankeshaw_culture
+      religion: iroquoian_totemism
+      estate: peasant
+      size: 1000
 1650.1.1:
   cores:
     ???: yes
   pop:
-    ethnicity: attigneenongnahac_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: attigneenongnahac_culture
+      estate: peasant
+      size: 1000
 1656.1.1:
   cores:
     ???: yes
   pop:
-    ethnicity: onondowaga_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: onondowaga_culture
+      estate: peasant
+      size: 1000
 1701.8.14:
   cores:
     ???: no
   pop:
-    ethnicity: attigneenongnahac_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: attigneenongnahac_culture
+      estate: peasant
+      size: 1000
 1753.8.3:
   owner: FRA
   controller: FRA
@@ -33,10 +33,10 @@
     FRA: yes
   resource: fur
   pop:
-    ethnicity: french
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - ethnicity: french
+      religion: catholic
+      estate: peasant
+      size: 1000
 1763.2.10:
   owner: GBR
   controller: GBR
@@ -44,26 +44,26 @@
     FRA: no
     GBR: yes
   pop:
-    ethnicity: english
-    religion: lutheran
-    estate: peasant
-    size: 1000
+    - ethnicity: english
+      religion: lutheran
+      estate: peasant
+      size: 1000
 1763.10.9:
   cores:
     GBR: no
     ???: yes
   pop:
-    ethnicity: attigneenongnahac_culture
-    religion: iroquoian_totemism
-    estate: peasant
-    size: 1000
+    - ethnicity: attigneenongnahac_culture
+      religion: iroquoian_totemism
+      estate: peasant
+      size: 1000
 1807.11.17:
   owner: USA
   controller: USA
   cores:
     USA: yes
   pop:
-    ethnicity: american
-    religion: lutheran
-    estate: peasant
-    size: 1000
+    - ethnicity: american
+      religion: lutheran
+      estate: peasant
+      size: 1000

@@ -5,10 +5,10 @@
   cores:
     MZB: yes
   pop:
-    ethnicity: zenati
-    religion: bantu_religion
-    estate: peasant
-    size: 1000
+    - ethnicity: zenati
+      religion: bantu_religion
+      estate: peasant
+      size: 1000
 660.1.1:
   owner: AURE
   controller: AURE
@@ -23,9 +23,9 @@
     MZB: yes
 850.1.1:
   pop:
-    religion: ibadi
-    estate: peasant
-    size: 1000
+    - religion: ibadi
+      estate: peasant
+      size: 1000
 1901.1.1:
   owner: FRA
   controller: FRA

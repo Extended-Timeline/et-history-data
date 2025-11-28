@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/1079 - Viatka.txt
 2.1.1:
   pop:
-    ethnicity: udmurt
-    religion: muinaisusko
-    estate: peasant
-    size: 1000
+    - ethnicity: udmurt
+      religion: muinaisusko
+      estate: peasant
+      size: 1000
 750.1.1:
   owner: PRM
   controller: PRM
@@ -13,14 +13,14 @@
   resource: copper
 1200.1.1:
   pop:
-    ethnicity: muscovite
-    estate: peasant
-    size: 1000
+    - ethnicity: muscovite
+      estate: peasant
+      size: 1000
 1300.1.1:
   pop:
-    religion: orthodox
-    estate: peasant
-    size: 1000
+    - religion: orthodox
+      estate: peasant
+      size: 1000
 1350.1.1:
   owner: MOS
   controller: MOS

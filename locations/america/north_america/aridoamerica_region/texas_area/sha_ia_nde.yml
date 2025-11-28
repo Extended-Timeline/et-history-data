@@ -1,15 +1,15 @@
 #imported from EU4 file: history/provinces/4629 - Tel Kondaha.txt
 2.1.1:
   pop:
-    ethnicity: coahuilteco_culture
-    religion: iroquoian_totemism
-    estate: peasant
-    size: 1000
+    - ethnicity: coahuilteco_culture
+      religion: iroquoian_totemism
+      estate: peasant
+      size: 1000
 1200.1.1:
   pop:
-    ethnicity: lepai_nde_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: lepai_nde_culture
+      estate: peasant
+      size: 1000
 1835.1.1:
   owner: MEX
   controller: MEX
@@ -17,19 +17,19 @@
     MEX: yes
   resource: wool
   pop:
-    ethnicity: mexican
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - ethnicity: mexican
+      religion: catholic
+      estate: peasant
+      size: 1000
 1836.3.2:
   owner: TEXA
   controller: TEXA
   cores:
     TEXA: yes
   pop:
-    ethnicity: british_louisianan
-    estate: peasant
-    size: 1000
+    - ethnicity: british_louisianan
+      estate: peasant
+      size: 1000
 1845.12.29:
   owner: USA
   controller: USA

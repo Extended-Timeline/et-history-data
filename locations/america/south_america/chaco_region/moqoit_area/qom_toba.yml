@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/790 - Chaco Austral.txt
 2.1.1:
   pop:
-    ethnicity: guaikuru_culture
-    religion: muisca_religion
-    estate: peasant
-    size: 1000
+    - ethnicity: guaikuru_culture
+      religion: muisca_religion
+      estate: peasant
+      size: 1000
 1786.1.1:
   owner: SPA
   controller: SPA
@@ -12,10 +12,10 @@
     SPA: yes
   resource: wool
   pop:
-    ethnicity: iberian_la_platan
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - ethnicity: iberian_la_platan
+      religion: catholic
+      estate: peasant
+      size: 1000
 1816.7.9:
   owner: ARGE
   controller: ARGE

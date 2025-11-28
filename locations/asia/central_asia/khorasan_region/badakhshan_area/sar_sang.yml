@@ -6,10 +6,10 @@
     KUSH: yes
   resource: gems
   pop:
-    ethnicity: sogdian
-    religion: mahayana
-    estate: peasant
-    size: 1000
+    - ethnicity: sogdian
+      religion: mahayana
+      estate: peasant
+      size: 1000
 230.1.1:
   owner: BADA
   controller: BADA
@@ -40,14 +40,14 @@
     BADA: yes
 800.1.1:
   pop:
-    ethnicity: tajik_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: tajik_culture
+      estate: peasant
+      size: 1000
 1065.1.1:
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 1219.1.1:
   owner: MGE
   controller: MGE

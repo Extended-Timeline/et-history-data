@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/3049 - Andyamathanha.txt
 2.1.1:
   pop:
-    ethnicity: banggarla_culture
-    religion: dreamtime_religion
-    estate: peasant
-    size: 1000
+    - ethnicity: banggarla_culture
+      religion: dreamtime_religion
+      estate: peasant
+      size: 1000
 1883.1.1:
   owner: GBR
   controller: GBR
@@ -12,10 +12,10 @@
     GBR: yes
   resource: copper
   pop:
-    ethnicity: british_australian
-    religion: lutheran
-    estate: peasant
-    size: 1000
+    - ethnicity: british_australian
+      religion: lutheran
+      estate: peasant
+      size: 1000
 1901.1.1:
   owner: AUST
   controller: AUST

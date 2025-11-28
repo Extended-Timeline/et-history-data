@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/1003 - Moose Cree.txt
 2.1.1:
   pop:
-    ethnicity: ilili_culture
-    religion: iroquoian_totemism
-    estate: peasant
-    size: 1000
+    - ethnicity: ilili_culture
+      religion: iroquoian_totemism
+      estate: peasant
+      size: 1000
 1679.1.1:
   owner: ENG
   controller: ENG
@@ -12,10 +12,10 @@
     ENG: yes
   resource: fur
   pop:
-    ethnicity: english
-    religion: lutheran
-    estate: peasant
-    size: 1000
+    - ethnicity: english
+      religion: lutheran
+      estate: peasant
+      size: 1000
 1707.5.12:
   owner: GBR
   controller: GBR
@@ -24,14 +24,14 @@
     GBR: yes
 1750.1.1:
   pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - religion: catholic
+      estate: peasant
+      size: 1000
 1790.1.1:
   pop:
-    ethnicity: british_canadian
-    estate: peasant
-    size: 1000
+    - ethnicity: british_canadian
+      estate: peasant
+      size: 1000
 1870.7.15:
   owner: CAN
   controller: CAN

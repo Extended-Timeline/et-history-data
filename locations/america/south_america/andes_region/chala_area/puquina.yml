@@ -6,10 +6,10 @@
     NAZC: yes
   resource: grain
   pop:
-    ethnicity: aimara_culture
-    religion: inti
-    estate: peasant
-    size: 1000
+    - ethnicity: aimara_culture
+      religion: inti
+      estate: peasant
+      size: 1000
 600.1.1:
   owner: HUAR
   controller: HUAR
@@ -34,18 +34,18 @@
   cores:
     SPA: yes
   pop:
-    ethnicity: castilian
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - ethnicity: castilian
+      religion: catholic
+      estate: peasant
+      size: 1000
 1558.8.29:
   cores:
     SPA: yes
 1770.1.1:
   pop:
-    ethnicity: iberian_peruvian
-    estate: peasant
-    size: 1000
+    - ethnicity: iberian_peruvian
+      estate: peasant
+      size: 1000
 1821.7.28:
   owner: PERU
   controller: PERU

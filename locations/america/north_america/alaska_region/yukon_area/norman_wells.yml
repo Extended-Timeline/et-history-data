@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/4926 - Sahtu.txt
 2.1.1:
   pop:
-    ethnicity: tlingit_culture
-    religion: iroquoian_totemism
-    estate: peasant
-    size: 1000
+    - ethnicity: tlingit_culture
+      religion: iroquoian_totemism
+      estate: peasant
+      size: 1000
 1911.1.1:
   owner: CAN
   controller: CAN
@@ -12,6 +12,6 @@
     CAN: yes
   resource: oil
   pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - religion: catholic
+      estate: peasant
+      size: 1000

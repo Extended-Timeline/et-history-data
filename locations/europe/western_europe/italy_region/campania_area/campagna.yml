@@ -6,10 +6,10 @@
     ROM: yes
   resource: fish
   pop:
-    ethnicity: roman
-    religion: hellenism_religion
-    estate: peasant
-    size: 1000
+    - ethnicity: roman
+      religion: hellenism_religion
+      estate: peasant
+      size: 1000
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -18,10 +18,10 @@
     ROMW: yes
 400.1.1:
   pop:
-    ethnicity: griko_culture
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+    - ethnicity: griko_culture
+      religion: chalcedonism
+      estate: peasant
+      size: 1000
 476.9.4:
   owner: ITA
   controller: ITA
@@ -48,9 +48,9 @@
   cores:
     LOMB: yes
   pop:
-    ethnicity: neapolitan
-    estate: peasant
-    size: 1000
+    - ethnicity: neapolitan
+      estate: peasant
+      size: 1000
 646.1.1:
   owner: BENE
   controller: BENE
@@ -65,9 +65,9 @@
     SALE: yes
 867.1.1:
   pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - religion: catholic
+      estate: peasant
+      size: 1000
 1076.12.13:
   owner: SIC
   controller: SIC

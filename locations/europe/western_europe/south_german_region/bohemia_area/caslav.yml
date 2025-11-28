@@ -6,10 +6,10 @@
     MARC: yes
   resource: grain
   pop:
-    ethnicity: southern_bavarian
-    religion: germanic
-    estate: peasant
-    size: 1000
+    - ethnicity: southern_bavarian
+      religion: germanic
+      estate: peasant
+      size: 1000
 395.1.1:
   owner: LOMB
   controller: LOMB
@@ -17,9 +17,9 @@
     MARC: no
     LOMB: yes
   pop:
-    ethnicity: langobardi
-    estate: peasant
-    size: 1000
+    - ethnicity: langobardi
+      estate: peasant
+      size: 1000
 454.1.1:
   owner: HERU
   controller: HERU
@@ -27,9 +27,9 @@
     LOMB: no
     HERU: yes
   pop:
-    ethnicity: southern_bavarian
-    estate: peasant
-    size: 1000
+    - ethnicity: southern_bavarian
+      estate: peasant
+      size: 1000
 509.1.1:
   owner: LOMB
   controller: LOMB
@@ -37,9 +37,9 @@
     HERU: no
     LOMB: yes
   pop:
-    ethnicity: langobardi
-    estate: peasant
-    size: 1000
+    - ethnicity: langobardi
+      estate: peasant
+      size: 1000
 569.1.1:
   owner: MVA
   controller: MVA
@@ -47,10 +47,10 @@
     LOMB: no
     MVA: yes
   pop:
-    ethnicity: czech
-    religion: slavic
-    estate: peasant
-    size: 1000
+    - ethnicity: czech
+      religion: slavic
+      estate: peasant
+      size: 1000
 623.1.1:
   owner: SAMO
   controller: SAMO
@@ -63,9 +63,9 @@
     SAMO: no
 880.1.1:
   pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - religion: catholic
+      estate: peasant
+      size: 1000
 894.1.1:
   owner: BOH
   controller: BOH
@@ -74,9 +74,9 @@
     BOH: yes
 1419.12.1:
   pop:
-    religion: hussite
-    estate: peasant
-    size: 1000
+    - religion: hussite
+      estate: peasant
+      size: 1000
 1436.7.5:
   controller: BOH
 1526.8.30:
@@ -87,9 +87,9 @@
     HAB: yes
 1576.1.1:
   pop:
-    religion: lutheran
-    estate: peasant
-    size: 1000
+    - religion: lutheran
+      estate: peasant
+      size: 1000
 1618.5.23:
   owner: BOH
   controller: BOH
@@ -102,9 +102,9 @@
     BOH: no
 1627.1.1:
   pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - religion: catholic
+      estate: peasant
+      size: 1000
 1918.10.28:
   owner: CZES
   controller: CZES
@@ -129,6 +129,6 @@
     CZEC: yes
 1995.1.1:
   pop:
-    religion: irreligious
-    estate: peasant
-    size: 1000
+    - religion: irreligious
+      estate: peasant
+      size: 1000

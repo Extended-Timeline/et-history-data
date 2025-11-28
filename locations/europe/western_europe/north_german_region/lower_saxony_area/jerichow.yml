@@ -6,10 +6,10 @@
     LOMB: yes
   resource: cloth
   pop:
-    ethnicity: langobardi
-    religion: germanic
-    estate: peasant
-    size: 1000
+    - ethnicity: langobardi
+      religion: germanic
+      estate: peasant
+      size: 1000
 395.1.1:
   owner: SAX
   controller: SAX
@@ -17,9 +17,9 @@
     LOMB: no
     SAX: yes
   pop:
-    ethnicity: saxon
-    estate: peasant
-    size: 1000
+    - ethnicity: saxon
+      estate: peasant
+      size: 1000
 804.1.1:
   owner: FRAN
   controller: FRAN
@@ -33,9 +33,9 @@
     EFRA: yes
 900.1.1:
   pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - religion: catholic
+      estate: peasant
+      size: 1000
 911.11.10:
   owner: SAX
   controller: SAX
@@ -49,14 +49,14 @@
     MAG: yes
 1524.1.1:
   pop:
-    religion: lutheran
-    estate: peasant
-    size: 1000
+    - religion: lutheran
+      estate: peasant
+      size: 1000
 1650.1.1:
   pop:
-    ethnicity: prussian
-    estate: peasant
-    size: 1000
+    - ethnicity: prussian
+      estate: peasant
+      size: 1000
 1680.10.4:
   owner: BRA
   controller: BRA
@@ -98,9 +98,9 @@
     EGER: yes
 1975.1.1:
   pop:
-    religion: irreligious
-    estate: peasant
-    size: 1000
+    - religion: irreligious
+      estate: peasant
+      size: 1000
 1990.10.3:
   owner: GER
   controller: GER

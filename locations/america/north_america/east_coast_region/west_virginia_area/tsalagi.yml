@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/951 - Kanawha.txt
 2.1.1:
   pop:
-    ethnicity: chalahgawtha_culture
-    religion: iroquoian_totemism
-    estate: peasant
-    size: 1000
+    - ethnicity: chalahgawtha_culture
+      religion: iroquoian_totemism
+      estate: peasant
+      size: 1000
 1768.11.5:
   owner: GBR
   controller: GBR
@@ -12,10 +12,10 @@
     GBR: yes
   resource: iron
   pop:
-    ethnicity: american
-    religion: lutheran
-    estate: peasant
-    size: 1000
+    - ethnicity: american
+      religion: lutheran
+      estate: peasant
+      size: 1000
 1776.7.4:
   owner: USA
   controller: USA

@@ -6,10 +6,10 @@
     ROM: yes
   resource: cloth
   pop:
-    ethnicity: gallian
-    religion: hellenism_religion
-    estate: peasant
-    size: 1000
+    - ethnicity: gallian
+      religion: hellenism_religion
+      estate: peasant
+      size: 1000
 260.1.1:
   cores:
     GALL: yes
@@ -25,9 +25,9 @@
     ROMW: yes
 440.1.1:
   pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+    - religion: chalcedonism
+      estate: peasant
+      size: 1000
 461.11.1:
   owner: SOIS
   controller: SOIS
@@ -43,9 +43,9 @@
     SOIS: no
     FRAN: yes
   pop:
-    ethnicity: french
-    estate: peasant
-    size: 1000
+    - ethnicity: french
+      estate: peasant
+      size: 1000
 511.11.27:
   owner: NEUS
   controller: NEUS
@@ -102,9 +102,9 @@
     WFRA: yes
 867.1.1:
   pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - religion: catholic
+      estate: peasant
+      size: 1000
 987.7.3:
   owner: FRA
   controller: FRA

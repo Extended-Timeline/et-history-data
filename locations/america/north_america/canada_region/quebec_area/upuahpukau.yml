@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/2576 - Mingan.txt
 2.1.1:
   pop:
-    ethnicity: innu_culture
-    religion: iroquoian_totemism
-    estate: peasant
-    size: 1000
+    - ethnicity: innu_culture
+      religion: iroquoian_totemism
+      estate: peasant
+      size: 1000
 1780.1.1:
   owner: GBR
   controller: GBR
@@ -12,15 +12,15 @@
     GBR: yes
   resource: fish
   pop:
-    ethnicity: french
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - ethnicity: french
+      religion: catholic
+      estate: peasant
+      size: 1000
 1790.1.1:
   pop:
-    ethnicity: french_canadian
-    estate: peasant
-    size: 1000
+    - ethnicity: french_canadian
+      estate: peasant
+      size: 1000
 1867.7.1:
   owner: CAN
   controller: CAN

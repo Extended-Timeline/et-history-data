@@ -2,10 +2,10 @@
 2.1.1:
   resource: iron
   pop:
-    ethnicity: udmurt
-    religion: muinaisusko
-    estate: peasant
-    size: 1000
+    - ethnicity: udmurt
+      religion: muinaisusko
+      estate: peasant
+      size: 1000
 750.1.1:
   owner: UDMU
   controller: UDMU
@@ -53,9 +53,9 @@
     RUS: yes
 1600.1.1:
   pop:
-    religion: orthodox
-    estate: peasant
-    size: 1000
+    - religion: orthodox
+      estate: peasant
+      size: 1000
 1775.2.1:
   controller: RUS
 1922.12.30:

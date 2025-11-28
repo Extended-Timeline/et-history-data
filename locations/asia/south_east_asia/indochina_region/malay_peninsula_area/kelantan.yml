@@ -6,10 +6,10 @@
     CHTU: yes
   resource: naval_supplies
   pop:
-    ethnicity: malay_culture
-    religion: mahayana
-    estate: peasant
-    size: 1000
+    - ethnicity: malay_culture
+      religion: mahayana
+      estate: peasant
+      size: 1000
 600.1.1:
   owner: LGK
   controller: LGK
@@ -17,9 +17,9 @@
     LGK: yes
 650.1.1:
   pop:
-    religion: hindu
-    estate: peasant
-    size: 1000
+    - religion: hindu
+      estate: peasant
+      size: 1000
 1267.1.1:
   owner: KELN
   controller: KELN
@@ -27,9 +27,9 @@
     LGK: no
     KELN: yes
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 1512.1.1:
   owner: PATT
   controller: PATT

@@ -6,10 +6,10 @@
     KUCH: yes
   resource: gold
   pop:
-    ethnicity: tocharian
-    religion: mahayana
-    estate: peasant
-    size: 1000
+    - ethnicity: tocharian
+      religion: mahayana
+      estate: peasant
+      size: 1000
 440.1.1:
   owner: HEPH
   controller: HEPH
@@ -34,10 +34,10 @@
     TIB: yes
 680.1.1:
   pop:
-    ethnicity: uyghur_culture
-    religion: manichaeism
-    estate: peasant
-    size: 1000
+    - ethnicity: uyghur_culture
+      religion: manichaeism
+      estate: peasant
+      size: 1000
 692.1.1:
   owner: TANG
   controller: TANG
@@ -64,9 +64,9 @@
     UYGH: yes
 880.1.1:
   pop:
-    religion: mahayana
-    estate: peasant
-    size: 1000
+    - religion: mahayana
+      estate: peasant
+      size: 1000
 1209.1.1:
   owner: MGE
   controller: MGE
@@ -75,9 +75,9 @@
     MGE: yes
 1210.1.1:
   pop:
-    religion: 
-    estate: peasant
-    size: 1000
+    - religion: 
+      estate: peasant
+      size: 1000
 1260.1.1:
   owner: CHG
   controller: CHG
@@ -92,9 +92,9 @@
     MOGH: yes
 1350.1.1:
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 1389.1.1:
   owner: YARK
   controller: YARK

@@ -6,33 +6,33 @@
     DI00: yes
   resource: livestock
   pop:
-    ethnicity: baima_culture
-    religion: bon
-    estate: peasant
-    size: 1000
+    - ethnicity: baima_culture
+      religion: bon
+      estate: peasant
+      size: 1000
 525.1.1:
   owner: TAGT
   controller: TAGT
   cores:
     TAGT: yes
   pop:
-    ethnicity: amdowa_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: amdowa_culture
+      estate: peasant
+      size: 1000
 540.1.1:
   pop:
-    religion: mahayana
-    estate: peasant
-    size: 1000
+    - religion: mahayana
+      estate: peasant
+      size: 1000
 629.1.1:
   owner: TIB
   controller: TIB
   cores:
     TIB: yes
   pop:
-    ethnicity: baima_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: baima_culture
+      estate: peasant
+      size: 1000
 842.1.1:
   owner: DI00
   controller: DI00
@@ -46,9 +46,9 @@
     TSON: yes
 1050.1.1:
   pop:
-    religion: tibetan_buddhism
-    estate: peasant
-    size: 1000
+    - religion: tibetan_buddhism
+      estate: peasant
+      size: 1000
 1104.1.1:
   owner: SONG
   controller: SONG

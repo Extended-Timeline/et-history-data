@@ -6,10 +6,10 @@
     KAGJ: yes
   resource: grain
   pop:
-    ethnicity: khazak
-    religion: 
-    estate: peasant
-    size: 1000
+    - ethnicity: khazak
+      religion: 
+      estate: peasant
+      size: 1000
 470.1.1:
   owner: HEPH
   controller: HEPH
@@ -36,9 +36,9 @@
     KANG: yes
 690.1.1:
   pop:
-    religion: manichaeism
-    estate: peasant
-    size: 1000
+    - religion: manichaeism
+      estate: peasant
+      size: 1000
 750.1.1:
   owner: KIPC
   controller: KIPC
@@ -47,9 +47,9 @@
     KIPC: yes
 810.1.1:
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 880.1.1:
   owner: KIME
   controller: KIME

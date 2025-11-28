@@ -6,10 +6,10 @@
     ULS: yes
   resource: fish
   pop:
-    ethnicity: irish
-    religion: druidism
-    estate: peasant
-    size: 1000
+    - ethnicity: irish
+      religion: druidism
+      estate: peasant
+      size: 1000
 450.1.1:
   owner: TRY
   controller: TRY
@@ -18,14 +18,14 @@
     TRY: yes
 700.1.1:
   pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+    - religion: chalcedonism
+      estate: peasant
+      size: 1000
 867.1.1:
   pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - religion: catholic
+      estate: peasant
+      size: 1000
 1004.1.1:
   owner: IRE
   controller: IRE

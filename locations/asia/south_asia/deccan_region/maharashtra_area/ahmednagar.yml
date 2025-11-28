@@ -6,10 +6,10 @@
     SATA: yes
   resource: cotton
   pop:
-    ethnicity: marathi_culture
-    religion: mahayana
-    estate: peasant
-    size: 1000
+    - ethnicity: marathi_culture
+      religion: mahayana
+      estate: peasant
+      size: 1000
 220.1.1:
   owner: ABHI
   controller: ABHI
@@ -17,9 +17,9 @@
     SATA: no
     ABHI: yes
   pop:
-    religion: hindu
-    estate: peasant
-    size: 1000
+    - religion: hindu
+      estate: peasant
+      size: 1000
 250.1.1:
   owner: VAKA
   controller: VAKA
@@ -39,9 +39,9 @@
     KADA: no
     CHAL: yes
   pop:
-    religion: jain
-    estate: peasant
-    size: 1000
+    - religion: jain
+      estate: peasant
+      size: 1000
 753.1.1:
   owner: RAST
   controller: RAST
@@ -56,9 +56,9 @@
     CHAL: yes
 1180.1.1:
   pop:
-    religion: hindu
-    estate: peasant
-    size: 1000
+    - religion: hindu
+      estate: peasant
+      size: 1000
 1189.1.1:
   owner: YADA
   controller: YADA

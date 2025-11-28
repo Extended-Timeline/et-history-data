@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/1175 - Lesser Namaqualand.txt
 2.1.1:
   pop:
-    ethnicity: khoemana_culture
-    religion: bantu_religion
-    estate: peasant
-    size: 1000
+    - ethnicity: khoemana_culture
+      religion: bantu_religion
+      estate: peasant
+      size: 1000
 1835.1.1:
   owner: GBR
   controller: GBR
@@ -12,9 +12,9 @@
     GBR: yes
   resource: grain
   pop:
-    religion: lutheran
-    estate: peasant
-    size: 1000
+    - religion: lutheran
+      estate: peasant
+      size: 1000
 1880.1.1:
   resource: gold
 1910.3.31:

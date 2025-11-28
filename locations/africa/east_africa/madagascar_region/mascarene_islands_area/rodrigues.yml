@@ -1,19 +1,19 @@
 #imported from EU4 file: history/provinces/1102 - Mauritius.txt
 2.1.1:
   pop:
-    ethnicity: uninhabited
-    religion: bimoism
-    estate: peasant
-    size: 1000
+    - ethnicity: uninhabited
+      religion: bimoism
+      estate: peasant
+      size: 1000
 1638.1.1:
   owner: NED
   controller: NED
   resource: sugar
   pop:
-    ethnicity: low_franconian
-    religion: calvinist
-    estate: peasant
-    size: 1000
+    - ethnicity: low_franconian
+      religion: calvinist
+      estate: peasant
+      size: 1000
 1700.1.1:
   cores:
     NED: yes
@@ -23,19 +23,19 @@
   cores:
     NED: no
   pop:
-    ethnicity: uninhabited
-    religion: bimoism
-    estate: peasant
-    size: 1000
+    - ethnicity: uninhabited
+      religion: bimoism
+      estate: peasant
+      size: 1000
 1735.6.4:
   owner: FRA
   controller: FRA
   resource: sugar
   pop:
-    ethnicity: french
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - ethnicity: french
+      religion: catholic
+      estate: peasant
+      size: 1000
 1750.1.1:
   cores:
     FRA: yes
@@ -47,15 +47,15 @@
     FRA: no
     GBR: yes
   pop:
-    ethnicity: english
-    estate: peasant
-    size: 1000
+    - ethnicity: english
+      estate: peasant
+      size: 1000
 1834.1.1:
   pop:
-    ethnicity: magahi
-    religion: hindu
-    estate: peasant
-    size: 1000
+    - ethnicity: magahi
+      religion: hindu
+      estate: peasant
+      size: 1000
 1968.3.12:
   owner: MART
   controller: MART

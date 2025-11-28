@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/3221 - Bie.txt
 2.1.1:
   pop:
-    ethnicity: ambundu
-    religion: bantu_religion
-    estate: peasant
-    size: 1000
+    - ethnicity: ambundu
+      religion: bantu_religion
+      estate: peasant
+      size: 1000
 1912.8.8:
   owner: POR
   controller: POR
@@ -12,9 +12,9 @@
     POR: yes
   resource: wool
   pop:
-    religion: lutheran
-    estate: peasant
-    size: 1000
+    - religion: lutheran
+      estate: peasant
+      size: 1000
 1975.11.11:
   owner: ANGO
   controller: ANGO

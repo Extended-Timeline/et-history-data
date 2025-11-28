@@ -7,10 +7,10 @@
     MLW: yes
   resource: spices
   pop:
-    ethnicity: malvi
-    religion: hindu
-    estate: peasant
-    size: 1000
+    - ethnicity: malvi
+      religion: hindu
+      estate: peasant
+      size: 1000
 405.1.1:
   owner: GUPT
   controller: GUPT

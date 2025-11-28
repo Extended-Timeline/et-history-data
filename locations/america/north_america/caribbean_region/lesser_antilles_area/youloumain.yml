@@ -1,19 +1,19 @@
 #imported from EU4 file: history/provinces/3057 - St. Vincent.txt
 2.1.1:
   pop:
-    ethnicity: guaribes_culture
-    religion: muisca_religion
-    estate: peasant
-    size: 1000
+    - ethnicity: guaribes_culture
+      religion: muisca_religion
+      estate: peasant
+      size: 1000
 1719.1.1:
   owner: FRA
   controller: FRA
   resource: sugar
   pop:
-    ethnicity: french
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - ethnicity: french
+      religion: catholic
+      estate: peasant
+      size: 1000
 1750.1.1:
   cores:
     FRA: yes
@@ -24,15 +24,15 @@
   owner: FRA
   controller: FRA
   pop:
-    ethnicity: french
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - ethnicity: french
+      religion: catholic
+      estate: peasant
+      size: 1000
 1780.1.1:
   pop:
-    ethnicity: french_caribbean
-    estate: peasant
-    size: 1000
+    - ethnicity: french_caribbean
+      estate: peasant
+      size: 1000
 1783.9.4:
   owner: GBR
   controller: GBR
@@ -40,15 +40,15 @@
     FRA: no
     GBR: yes
   pop:
-    ethnicity: british_caribbean
-    religion: calvinist
-    estate: peasant
-    size: 1000
+    - ethnicity: british_caribbean
+      religion: calvinist
+      estate: peasant
+      size: 1000
 1863.1.1:
   pop:
-    religion: lutheran
-    estate: peasant
-    size: 1000
+    - religion: lutheran
+      estate: peasant
+      size: 1000
 1969.10.27:
   cores:
     SVGR: yes

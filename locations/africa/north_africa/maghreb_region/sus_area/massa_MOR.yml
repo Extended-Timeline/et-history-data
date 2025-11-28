@@ -6,10 +6,10 @@
     SOS: yes
   resource: sugar
   pop:
-    ethnicity: masmuda
-    religion: bantu_religion
-    estate: peasant
-    size: 1000
+    - ethnicity: masmuda
+      religion: bantu_religion
+      estate: peasant
+      size: 1000
 789.1.1:
   owner: MOR
   controller: MOR
@@ -18,9 +18,9 @@
     MOR: yes
 860.1.1:
   pop:
-    religion: shia
-    estate: peasant
-    size: 1000
+    - religion: shia
+      estate: peasant
+      size: 1000
 922.1.1:
   owner: FATI
   controller: FATI
@@ -35,9 +35,9 @@
   controller: MOR
 970.1.1:
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 974.1.1:
   owner: SANH
   controller: SANH

@@ -6,10 +6,10 @@
     ROM: yes
   resource: iron
   pop:
-    ethnicity: romansh
-    religion: hellenism_religion
-    estate: peasant
-    size: 1000
+    - ethnicity: romansh
+      religion: hellenism_religion
+      estate: peasant
+      size: 1000
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -18,10 +18,10 @@
     ROMW: yes
 420.1.1:
   pop:
-    ethnicity: venetian
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+    - ethnicity: venetian
+      religion: chalcedonism
+      estate: peasant
+      size: 1000
 476.9.4:
   owner: ITA
   controller: ITA
@@ -68,9 +68,9 @@
     ITA: yes
 867.1.1:
   pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - religion: catholic
+      estate: peasant
+      size: 1000
 952.1.1:
   owner: VER
   controller: VER

@@ -2,10 +2,10 @@
 2.1.1:
   resource: livestock
   pop:
-    ethnicity: turkmen_culture
-    religion: 
-    estate: peasant
-    size: 1000
+    - ethnicity: turkmen_culture
+      religion: 
+      estate: peasant
+      size: 1000
 593.1.1:
   owner: WGOK
   controller: WGOK
@@ -19,9 +19,9 @@
     OGHU: yes
 1050.1.1:
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 1153.1.1:
   owner: KHWA
   controller: KHWA
@@ -35,9 +35,9 @@
     KHWA: no
     MGE: yes
   pop:
-    ethnicity: nogai
-    estate: peasant
-    size: 1000
+    - ethnicity: nogai
+      estate: peasant
+      size: 1000
 1260.1.1:
   owner: BLHO
   controller: BLHO
@@ -57,9 +57,9 @@
     NOGA: no
     KAZA: yes
   pop:
-    ethnicity: khazak
-    estate: peasant
-    size: 1000
+    - ethnicity: khazak
+      estate: peasant
+      size: 1000
 1670.1.1:
   owner: KHIV
   controller: KHIV

@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/2568 - Kespukwitk.txt
 2.1.1:
   pop:
-    ethnicity: mikmaq_culture
-    religion: iroquoian_totemism
-    estate: peasant
-    size: 1000
+    - ethnicity: mikmaq_culture
+      religion: iroquoian_totemism
+      estate: peasant
+      size: 1000
 1753.1.1:
   owner: GBR
   controller: GBR
@@ -12,15 +12,15 @@
     GBR: yes
   resource: fish
   pop:
-    ethnicity: scottish
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - ethnicity: scottish
+      religion: catholic
+      estate: peasant
+      size: 1000
 1800.1.1:
   pop:
-    ethnicity: british_canadian
-    estate: peasant
-    size: 1000
+    - ethnicity: british_canadian
+      estate: peasant
+      size: 1000
 1867.7.1:
   owner: CAN
   controller: CAN

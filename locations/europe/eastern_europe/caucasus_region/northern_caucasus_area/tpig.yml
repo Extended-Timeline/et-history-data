@@ -6,10 +6,10 @@
     ALN: yes
   resource: iron
   pop:
-    ethnicity: avar_culture
-    religion: 
-    estate: peasant
-    size: 1000
+    - ethnicity: avar_culture
+      religion: 
+      estate: peasant
+      size: 1000
 448.1.1:
   owner: KHAZ
   controller: KHAZ
@@ -17,9 +17,9 @@
     ALN: no
     KHAZ: yes
   pop:
-    ethnicity: khazar
-    estate: peasant
-    size: 1000
+    - ethnicity: khazar
+      estate: peasant
+      size: 1000
 734.1.1:
   owner: GAZI
   controller: GAZI
@@ -27,10 +27,10 @@
     GAZI: yes
 780.1.1:
   pop:
-    ethnicity: lezgin_culture
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - ethnicity: lezgin_culture
+      religion: sunni
+      estate: peasant
+      size: 1000
 1236.1.1:
   owner: MGE
   controller: MGE

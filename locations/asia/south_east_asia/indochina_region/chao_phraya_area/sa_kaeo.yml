@@ -7,10 +7,10 @@
     FUNA: yes
   resource: gems
   pop:
-    ethnicity: pear
-    religion: bimoism
-    estate: peasant
-    size: 1000
+    - ethnicity: pear
+      religion: bimoism
+      estate: peasant
+      size: 1000
 68.1.1:
   owner: FUNA
   controller: FUNA
@@ -36,19 +36,19 @@
     CAMB: yes
 820.1.1:
   pop:
-    religion: theravada
-    estate: peasant
-    size: 1000
+    - religion: theravada
+      estate: peasant
+      size: 1000
 850.1.1:
   pop:
-    ethnicity: khmer_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: khmer_culture
+      estate: peasant
+      size: 1000
 1050.1.1:
   pop:
-    ethnicity: thai_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: thai_culture
+      estate: peasant
+      size: 1000
 1060.1.1:
   owner: LAV
   controller: LAV

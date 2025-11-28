@@ -6,25 +6,25 @@
     ROM: yes
   resource: cloth
   pop:
-    ethnicity: belgae
-    religion: germanic
-    estate: peasant
-    size: 1000
+    - ethnicity: belgae
+      religion: germanic
+      estate: peasant
+      size: 1000
 260.1.1:
   cores:
     GALL: yes
   pop:
-    ethnicity: gallian
-    estate: peasant
-    size: 1000
+    - ethnicity: gallian
+      estate: peasant
+      size: 1000
 274.1.1:
   controller: ROM
   cores:
     GALL: no
   pop:
-    ethnicity: flemish
-    estate: peasant
-    size: 1000
+    - ethnicity: flemish
+      estate: peasant
+      size: 1000
 358.1.1:
   owner: FRAN
   controller: FRAN
@@ -49,9 +49,9 @@
     ASTS: yes
 580.1.1:
   pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+    - religion: chalcedonism
+      estate: peasant
+      size: 1000
 613.10.10:
   owner: FRAN
   controller: FRAN
@@ -80,9 +80,9 @@
     LOT: yes
 867.1.1:
   pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - religion: catholic
+      estate: peasant
+      size: 1000
 870.8.8:
   owner: WFRA
   controller: WFRA
@@ -187,6 +187,6 @@
   controller: BEL
 2020.1.1:
   pop:
-    religion: irreligious
-    estate: peasant
-    size: 1000
+    - religion: irreligious
+      estate: peasant
+      size: 1000

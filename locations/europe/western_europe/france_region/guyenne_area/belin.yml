@@ -6,25 +6,25 @@
     ROM: yes
   resource: wine
   pop:
-    ethnicity: aquitanian
-    religion: hellenism_religion
-    estate: peasant
-    size: 1000
+    - ethnicity: aquitanian
+      religion: hellenism_religion
+      estate: peasant
+      size: 1000
 260.1.1:
   cores:
     GALL: yes
   pop:
-    ethnicity: gallian
-    estate: peasant
-    size: 1000
+    - ethnicity: gallian
+      estate: peasant
+      size: 1000
 268.1.1:
   controller: ROM
   cores:
     GALL: no
   pop:
-    ethnicity: aquitanian
-    estate: peasant
-    size: 1000
+    - ethnicity: aquitanian
+      estate: peasant
+      size: 1000
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -38,14 +38,14 @@
     ROMW: no
     VISG: yes
   pop:
-    religion: arianism
-    estate: peasant
-    size: 1000
+    - religion: arianism
+      estate: peasant
+      size: 1000
 500.1.1:
   pop:
-    ethnicity: gascon
-    estate: peasant
-    size: 1000
+    - ethnicity: gascon
+      estate: peasant
+      size: 1000
 507.1.1:
   owner: FRAN
   controller: FRAN
@@ -59,9 +59,9 @@
     SOIS: yes
 550.1.1:
   pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+    - religion: chalcedonism
+      estate: peasant
+      size: 1000
 558.12.23:
   owner: FRAN
   controller: FRAN
@@ -120,9 +120,9 @@
     AQN: yes
 867.1.1:
   pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - religion: catholic
+      estate: peasant
+      size: 1000
 877.10.6:
   owner: GUY
   controller: GUY
@@ -156,21 +156,21 @@
     ENG: no
 1560.1.1:
   pop:
-    religion: calvinist
-    estate: peasant
-    size: 1000
+    - religion: calvinist
+      estate: peasant
+      size: 1000
 1651.4.1:
   controller: FRA
 1686.1.17:
   pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - religion: catholic
+      estate: peasant
+      size: 1000
 1850.1.1:
   pop:
-    ethnicity: french
-    estate: peasant
-    size: 1000
+    - ethnicity: french
+      estate: peasant
+      size: 1000
 1870.9.4:
   owner: FRA
   controller: FRA

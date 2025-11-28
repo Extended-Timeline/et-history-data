@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/2711 - Bulungan.txt
 2.1.1:
   pop:
-    ethnicity: bidayuh_culture
-    religion: bimoism
-    estate: peasant
-    size: 1000
+    - ethnicity: bidayuh_culture
+      religion: bimoism
+      estate: peasant
+      size: 1000
 950.1.1:
   owner: TIDU
   controller: TIDU
@@ -18,9 +18,9 @@
     BERA: yes
 1700.1.1:
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 1834.1.1:
   owner: BULU
   controller: BULU

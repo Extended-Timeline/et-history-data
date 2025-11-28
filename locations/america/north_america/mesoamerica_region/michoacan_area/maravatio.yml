@@ -6,10 +6,10 @@
     OTO: yes
   resource: wool
   pop:
-    ethnicity: otomanguean_culture
-    religion: nahuatl
-    estate: peasant
-    size: 1000
+    - ethnicity: otomanguean_culture
+      religion: nahuatl
+      estate: peasant
+      size: 1000
 567.1.1:
   owner: TOLT
   controller: TOLT
@@ -32,14 +32,14 @@
   cores:
     SPA: yes
   pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - religion: catholic
+      estate: peasant
+      size: 1000
 1770.1.1:
   pop:
-    ethnicity: mexican
-    estate: peasant
-    size: 1000
+    - ethnicity: mexican
+      estate: peasant
+      size: 1000
 1810.9.16:
   owner: MEX
   controller: MEX

@@ -6,10 +6,10 @@
     WUHU: yes
   resource: livestock
   pop:
-    ethnicity: khitan
-    religion: 
-    estate: peasant
-    size: 1000
+    - ethnicity: khitan
+      religion: 
+      estate: peasant
+      size: 1000
 207.10.1:
   owner: KMXI
   controller: KMXI
@@ -42,14 +42,14 @@
     MGE: yes
 1220.1.1:
   pop:
-    ethnicity: chahar
-    estate: peasant
-    size: 1000
+    - ethnicity: chahar
+      estate: peasant
+      size: 1000
 1265.1.1:
   pop:
-    religion: tibetan_buddhism
-    estate: peasant
-    size: 1000
+    - religion: tibetan_buddhism
+      estate: peasant
+      size: 1000
 1271.1.1:
   owner: YUA
   controller: YUA

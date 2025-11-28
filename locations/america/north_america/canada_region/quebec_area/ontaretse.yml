@@ -6,19 +6,19 @@
     STD: yes
   resource: fish
   pop:
-    ethnicity: stadaconan_culture
-    religion: iroquoian_totemism
-    estate: peasant
-    size: 1000
+    - ethnicity: stadaconan_culture
+      religion: iroquoian_totemism
+      estate: peasant
+      size: 1000
 1608.7.3:
   owner: FRA
   controller: FRA
   resource: naval_supplies
   pop:
-    ethnicity: french
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - ethnicity: french
+      religion: catholic
+      estate: peasant
+      size: 1000
 1629.7.16:
   owner: ENG
   controller: ENG
@@ -37,9 +37,9 @@
     GBR: yes
 1790.1.1:
   pop:
-    ethnicity: french_canadian
-    estate: peasant
-    size: 1000
+    - ethnicity: french_canadian
+      estate: peasant
+      size: 1000
 1867.7.1:
   owner: CAN
   controller: CAN

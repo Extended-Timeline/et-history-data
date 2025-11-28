@@ -6,10 +6,10 @@
     ROM: yes
   resource: wine
   pop:
-    ethnicity: iberi
-    religion: bimoism
-    estate: peasant
-    size: 1000
+    - ethnicity: iberi
+      religion: bimoism
+      estate: peasant
+      size: 1000
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -18,9 +18,9 @@
     ROMW: yes
 400.1.1:
   pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+    - religion: chalcedonism
+      estate: peasant
+      size: 1000
 456.1.1:
   owner: VISG
   controller: VISG
@@ -37,19 +37,19 @@
     VISG: yes
 480.1.1:
   pop:
-    religion: arianism
-    estate: peasant
-    size: 1000
+    - religion: arianism
+      estate: peasant
+      size: 1000
 560.1.1:
   pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+    - religion: chalcedonism
+      estate: peasant
+      size: 1000
 711.1.1:
   pop:
-    ethnicity: catalan
-    estate: peasant
-    size: 1000
+    - ethnicity: catalan
+      estate: peasant
+      size: 1000
 719.1.1:
   owner: UMAY
   controller: UMAY
@@ -84,9 +84,9 @@
     TOU: yes
 867.1.1:
   pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - religion: catholic
+      estate: peasant
+      size: 1000
 1137.8.11:
   owner: ARA
   controller: ARA
@@ -159,9 +159,9 @@
     FRA: yes
 1900.1.1:
   pop:
-    ethnicity: french
-    estate: peasant
-    size: 1000
+    - ethnicity: french
+      estate: peasant
+      size: 1000
 1940.6.14:
   owner: VFRA
   controller: VFRA

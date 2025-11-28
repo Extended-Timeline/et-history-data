@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/4805 - Baram.txt
 2.1.1:
   pop:
-    ethnicity: tidung_culture
-    religion: hindu
-    estate: peasant
-    size: 1000
+    - ethnicity: tidung_culture
+      religion: hindu
+      estate: peasant
+      size: 1000
 620.1.1:
   owner: BEI
   controller: BEI
@@ -13,14 +13,14 @@
   resource: fish
 1250.1.1:
   pop:
-    ethnicity: bidayuh_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: bidayuh_culture
+      estate: peasant
+      size: 1000
 1330.1.1:
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 1580.1.1:
   owner: SPA
   controller: SPA
@@ -46,9 +46,9 @@
   controller: GBR
 1950.1.1:
   pop:
-    religion: lutheran
-    estate: peasant
-    size: 1000
+    - religion: lutheran
+      estate: peasant
+      size: 1000
 1963.7.22:
   owner: SARA
   controller: SARA

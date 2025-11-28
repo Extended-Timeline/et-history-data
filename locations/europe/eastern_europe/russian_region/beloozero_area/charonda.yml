@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/4259 - Velsk.txt
 2.1.1:
   pop:
-    ethnicity: vepsian
-    religion: muinaisusko
-    estate: peasant
-    size: 1000
+    - ethnicity: vepsian
+      religion: muinaisusko
+      estate: peasant
+      size: 1000
 750.1.1:
   owner: VEPS
   controller: VEPS
@@ -19,14 +19,14 @@
     NOV: yes
 1160.1.1:
   pop:
-    ethnicity: novgorodian
-    estate: peasant
-    size: 1000
+    - ethnicity: novgorodian
+      estate: peasant
+      size: 1000
 1200.1.1:
   pop:
-    religion: orthodox
-    estate: peasant
-    size: 1000
+    - religion: orthodox
+      estate: peasant
+      size: 1000
 1462.1.1:
   owner: MOS
   controller: MOS

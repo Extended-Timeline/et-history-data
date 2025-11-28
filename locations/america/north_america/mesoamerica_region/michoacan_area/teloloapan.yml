@@ -6,10 +6,10 @@
     XOC: yes
   resource: gold
   pop:
-    ethnicity: mephaa_culture
-    religion: nahuatl
-    estate: peasant
-    size: 1000
+    - ethnicity: mephaa_culture
+      religion: nahuatl
+      estate: peasant
+      size: 1000
 880.1.1:
   owner: TOLT
   controller: TOLT
@@ -28,24 +28,24 @@
     TLA: no
     AZTE: yes
   pop:
-    ethnicity: nahua_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: nahua_culture
+      estate: peasant
+      size: 1000
 1521.8.13:
   owner: SPA
   controller: SPA
   cores:
     SPA: yes
   pop:
-    ethnicity: castilian
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - ethnicity: castilian
+      religion: catholic
+      estate: peasant
+      size: 1000
 1770.1.1:
   pop:
-    ethnicity: mexican
-    estate: peasant
-    size: 1000
+    - ethnicity: mexican
+      estate: peasant
+      size: 1000
 1810.9.16:
   owner: MEX
   controller: MEX

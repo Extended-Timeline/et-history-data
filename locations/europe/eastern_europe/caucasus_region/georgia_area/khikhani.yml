@@ -6,10 +6,10 @@
     PONT: yes
   resource: wine
   pop:
-    ethnicity: georgian_culture
-    religion: georgian_religion
-    estate: peasant
-    size: 1000
+    - ethnicity: georgian_culture
+      religion: georgian_religion
+      estate: peasant
+      size: 1000
 62.1.1:
   owner: ROM
   controller: ROM
@@ -32,9 +32,9 @@
     LAZI: yes
 460.1.1:
   pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+    - religion: chalcedonism
+      estate: peasant
+      size: 1000
 697.1.1:
   owner: IBER
   controller: IBER
@@ -54,9 +54,9 @@
     ABKH: yes
 867.1.1:
   pop:
-    religion: orthodox
-    estate: peasant
-    size: 1000
+    - religion: orthodox
+      estate: peasant
+      size: 1000
 1008.1.1:
   owner: GEO
   controller: GEO

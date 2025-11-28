@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/3036 - Oregon.txt
 2.1.1:
   pop:
-    ethnicity: tukudeka_culture
-    religion: iroquoian_totemism
-    estate: peasant
-    size: 1000
+    - ethnicity: tukudeka_culture
+      religion: iroquoian_totemism
+      estate: peasant
+      size: 1000
 1863.1.1:
   owner: USA
   controller: USA
@@ -12,9 +12,9 @@
     USA: yes
   resource: gold
   pop:
-    ethnicity: british_californian
-    religion: lutheran
-    estate: peasant
-    size: 1000
+    - ethnicity: british_californian
+      religion: lutheran
+      estate: peasant
+      size: 1000
 1890.1.1:
   resource: grain

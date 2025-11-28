@@ -6,15 +6,15 @@
     GOGU: yes
   resource: iron
   pop:
-    ethnicity: korean_culture
-    religion: muism
-    estate: peasant
-    size: 1000
+    - ethnicity: korean_culture
+      religion: muism
+      estate: peasant
+      size: 1000
 372.1.1:
   pop:
-    religion: mahayana
-    estate: peasant
-    size: 1000
+    - religion: mahayana
+      estate: peasant
+      size: 1000
 668.10.1:
   owner: TANG
   controller: TANG
@@ -51,9 +51,9 @@
     LIAO: yes
 1020.1.1:
   pop:
-    ethnicity: jurchen_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: jurchen_culture
+      estate: peasant
+      size: 1000
 1115.1.1:
   owner: JIN0
   controller: JIN0
@@ -62,9 +62,9 @@
     JIN0: yes
 1120.1.1:
   pop:
-    religion: sanjiao
-    estate: peasant
-    size: 1000
+    - religion: sanjiao
+      estate: peasant
+      size: 1000
 1214.1.1:
   owner: MGE
   controller: MGE

@@ -6,10 +6,10 @@
     ATLA: yes
   resource: wool
   pop:
-    ethnicity: masmuda
-    religion: bantu_religion
-    estate: peasant
-    size: 1000
+    - ethnicity: masmuda
+      religion: bantu_religion
+      estate: peasant
+      size: 1000
 720.1.1:
   owner: UMAY
   controller: UMAY
@@ -21,9 +21,9 @@
     ATLA: yes
 780.1.1:
   pop:
-    religion: ibadi
-    estate: peasant
-    size: 1000
+    - religion: ibadi
+      estate: peasant
+      size: 1000
 789.1.1:
   owner: MOR
   controller: MOR
@@ -55,9 +55,9 @@
     MOR: yes
 1060.1.1:
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 1124.1.1:
   owner: SOS
   controller: SOS

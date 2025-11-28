@@ -6,10 +6,10 @@
     YAXC: yes
   resource: cocoa
   pop:
-    ethnicity: chol_culture
-    religion: mayan
-    estate: peasant
-    size: 1000
+    - ethnicity: chol_culture
+      religion: mayan
+      estate: peasant
+      size: 1000
 900.1.1:
   owner: LAC
   controller: LAC
@@ -23,9 +23,9 @@
     SPA: yes
 1535.1.1:
   pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - religion: catholic
+      estate: peasant
+      size: 1000
 1810.9.16:
   owner: MEX
   controller: SPA

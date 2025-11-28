@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/2239 - Siine.txt
 2.1.1:
   pop:
-    ethnicity: wolof
-    religion: bantu_religion
-    estate: peasant
-    size: 1000
+    - ethnicity: wolof
+      religion: bantu_religion
+      estate: peasant
+      size: 1000
 1240.1.1:
   owner: MAL
   controller: MAL
@@ -24,9 +24,9 @@
     KAB: yes
 1790.1.1:
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 1867.1.1:
   owner: FUL
   controller: FUL

@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/1072 - Obdorsk.txt
 2.1.1:
   pop:
-    ethnicity: nenets_culture
-    religion: mari_paganism
-    estate: peasant
-    size: 1000
+    - ethnicity: nenets_culture
+      religion: mari_paganism
+      estate: peasant
+      size: 1000
 1595.1.1:
   owner: RUS
   controller: RUS
@@ -12,9 +12,9 @@
     RUS: yes
   resource: fish
   pop:
-    religion: orthodox
-    estate: peasant
-    size: 1000
+    - religion: orthodox
+      estate: peasant
+      size: 1000
 1922.12.30:
   owner: SOVI
   controller: SOVI

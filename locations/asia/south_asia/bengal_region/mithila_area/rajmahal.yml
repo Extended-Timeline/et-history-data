@@ -6,10 +6,10 @@
     MAGA: yes
   resource: silk
   pop:
-    ethnicity: magahi
-    religion: hindu
-    estate: peasant
-    size: 1000
+    - ethnicity: magahi
+      religion: hindu
+      estate: peasant
+      size: 1000
 320.1.1:
   owner: GUPT
   controller: GUPT
@@ -34,9 +34,9 @@
     KANN: yes
 740.1.1:
   pop:
-    religion: mahayana
-    estate: peasant
-    size: 1000
+    - religion: mahayana
+      estate: peasant
+      size: 1000
 750.1.1:
   owner: PALA
   controller: PALA
@@ -45,9 +45,9 @@
     PALA: yes
 1170.1.1:
   pop:
-    religion: hindu
-    estate: peasant
-    size: 1000
+    - religion: hindu
+      estate: peasant
+      size: 1000
 1174.1.1:
   owner: GAUD
   controller: GAUD

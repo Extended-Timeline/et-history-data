@@ -6,10 +6,10 @@
     XION: yes
   resource: fur
   pop:
-    ethnicity: mongolian_culture
-    religion: 
-    estate: peasant
-    size: 1000
+    - ethnicity: mongolian_culture
+      religion: 
+      estate: peasant
+      size: 1000
 91.2.1:
   owner: XIAN
   controller: XIAN
@@ -70,9 +70,9 @@
     YUA: yes
 1275.1.1:
   pop:
-    religion: tibetan_buddhism
-    estate: peasant
-    size: 1000
+    - religion: tibetan_buddhism
+      estate: peasant
+      size: 1000
 1368.1.23:
   owner: MGE
   controller: MGE
@@ -81,14 +81,14 @@
     MGE: yes
 1370.1.1:
   pop:
-    religion: 
-    estate: peasant
-    size: 1000
+    - religion: 
+      estate: peasant
+      size: 1000
 1586.1.1:
   pop:
-    religion: tibetan_buddhism
-    estate: peasant
-    size: 1000
+    - religion: tibetan_buddhism
+      estate: peasant
+      size: 1000
 1635.4.1:
   owner: KHAL
   controller: KHAL

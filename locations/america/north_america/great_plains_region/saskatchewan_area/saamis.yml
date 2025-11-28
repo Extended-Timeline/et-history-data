@@ -4,10 +4,10 @@
     ???: yes
   resource: fur
   pop:
-    ethnicity: siksika_culture
-    religion: iroquoian_totemism
-    estate: peasant
-    size: 1000
+    - ethnicity: siksika_culture
+      religion: iroquoian_totemism
+      estate: peasant
+      size: 1000
 1883.1.1:
   owner: CAN
   controller: CAN
@@ -15,7 +15,7 @@
     CAN: yes
   resource: grain
   pop:
-    ethnicity: british_canadian
-    religion: lutheran
-    estate: peasant
-    size: 1000
+    - ethnicity: british_canadian
+      religion: lutheran
+      estate: peasant
+      size: 1000

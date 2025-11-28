@@ -1,20 +1,20 @@
 #imported from EU4 file: history/provinces/1103 - Bourbon.txt
 2.1.1:
   pop:
-    ethnicity: uninhabited
-    religion: bimoism
-    estate: peasant
-    size: 1000
+    - ethnicity: uninhabited
+      religion: bimoism
+      estate: peasant
+      size: 1000
 1642.1.1:
   owner: FRA
   controller: FRA
   cores:
     FRA: yes
   pop:
-    ethnicity: french
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - ethnicity: french
+      religion: catholic
+      estate: peasant
+      size: 1000
 1700.1.1:
   resource: sugar
 1810.7.9:

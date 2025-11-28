@@ -6,18 +6,18 @@
     MIX: yes
   resource: grain
   pop:
-    ethnicity: mixtec_culture
-    religion: nahuatl
-    estate: peasant
-    size: 1000
+    - ethnicity: mixtec_culture
+      religion: nahuatl
+      estate: peasant
+      size: 1000
 1524.1.1:
   owner: SPA
   controller: SPA
 1529.1.1:
   pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - religion: catholic
+      estate: peasant
+      size: 1000
 1549.1.1:
   cores:
     SPA: yes

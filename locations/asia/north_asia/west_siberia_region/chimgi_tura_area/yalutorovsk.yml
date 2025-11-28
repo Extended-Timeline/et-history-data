@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/1075 - Tyumen.txt
 2.1.1:
   pop:
-    ethnicity: sakha_culture
-    religion: mari_paganism
-    estate: peasant
-    size: 1000
+    - ethnicity: sakha_culture
+      religion: mari_paganism
+      estate: peasant
+      size: 1000
 1236.1.1:
   owner: MGE
   controller: MGE
@@ -13,9 +13,9 @@
     SIBI: yes
   resource: fur
   pop:
-    religion: 
-    estate: peasant
-    size: 1000
+    - religion: 
+      estate: peasant
+      size: 1000
 1260.1.1:
   owner: BLHO
   controller: BLHO
@@ -30,9 +30,9 @@
     SIBI: yes
 1390.1.1:
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 1428.1.1:
   owner: SHAY
   controller: SHAY
@@ -48,10 +48,10 @@
     RUS: yes
 1610.1.1:
   pop:
-    ethnicity: muscovite
-    religion: orthodox
-    estate: peasant
-    size: 1000
+    - ethnicity: muscovite
+      religion: orthodox
+      estate: peasant
+      size: 1000
 1620.1.1:
   cores:
     SIBI: no

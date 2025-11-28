@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/791 - Catamarca.txt
 2.1.1:
   pop:
-    ethnicity: pazioca_culture
-    religion: muisca_religion
-    estate: peasant
-    size: 1000
+    - ethnicity: pazioca_culture
+      religion: muisca_religion
+      estate: peasant
+      size: 1000
 1485.1.1:
   owner: INC
   controller: INC
@@ -18,15 +18,15 @@
     SPA: yes
 1683.1.1:
   pop:
-    ethnicity: castilian
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - ethnicity: castilian
+      religion: catholic
+      estate: peasant
+      size: 1000
 1770.1.1:
   pop:
-    ethnicity: iberian_la_platan
-    estate: peasant
-    size: 1000
+    - ethnicity: iberian_la_platan
+      estate: peasant
+      size: 1000
 1816.7.9:
   owner: ARGE
   controller: ARGE

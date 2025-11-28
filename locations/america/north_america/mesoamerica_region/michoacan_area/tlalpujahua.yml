@@ -6,10 +6,10 @@
     TEOT: yes
   resource: gold
   pop:
-    ethnicity: matlatzinca_culture
-    religion: nahuatl
-    estate: peasant
-    size: 1000
+    - ethnicity: matlatzinca_culture
+      religion: nahuatl
+      estate: peasant
+      size: 1000
 800.1.1:
   owner: TOLT
   controller: TOLT
@@ -33,15 +33,15 @@
   cores:
     SPA: yes
   pop:
-    ethnicity: castilian
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - ethnicity: castilian
+      religion: catholic
+      estate: peasant
+      size: 1000
 1770.1.1:
   pop:
-    ethnicity: mexican
-    estate: peasant
-    size: 1000
+    - ethnicity: mexican
+      estate: peasant
+      size: 1000
 1810.9.16:
   owner: MEX
   controller: MEX

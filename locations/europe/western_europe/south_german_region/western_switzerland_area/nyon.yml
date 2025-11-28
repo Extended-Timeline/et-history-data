@@ -6,15 +6,15 @@
     ROM: yes
   resource: cloth
   pop:
-    ethnicity: helvetian
-    religion: druidism
-    estate: peasant
-    size: 1000
+    - ethnicity: helvetian
+      religion: druidism
+      estate: peasant
+      size: 1000
 380.1.1:
   pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+    - religion: chalcedonism
+      estate: peasant
+      size: 1000
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -27,17 +27,17 @@
   cores:
     BUR: yes
   pop:
-    ethnicity: burgundione
-    estate: peasant
-    size: 1000
+    - ethnicity: burgundione
+      estate: peasant
+      size: 1000
 480.6.1:
   cores:
     ROMW: no
 486.6.1:
   pop:
-    ethnicity: burgundian
-    estate: peasant
-    size: 1000
+    - ethnicity: burgundian
+      estate: peasant
+      size: 1000
 534.1.1:
   owner: NEUS
   controller: NEUS
@@ -86,9 +86,9 @@
   controller: FRAN
 700.1.1:
   pop:
-    ethnicity: arpitan
-    estate: peasant
-    size: 1000
+    - ethnicity: arpitan
+      estate: peasant
+      size: 1000
 840.6.21:
   owner: MFRA
   controller: MFRA
@@ -103,9 +103,9 @@
     LOT: yes
 867.1.1:
   pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - religion: catholic
+      estate: peasant
+      size: 1000
 870.8.8:
   owner: ITA
   controller: ITA
@@ -136,9 +136,9 @@
   owner: SWI
   controller: SWI
   pop:
-    religion: calvinist
-    estate: peasant
-    size: 1000
+    - religion: calvinist
+      estate: peasant
+      size: 1000
 1564.10.30:
   cores:
     SAV: no

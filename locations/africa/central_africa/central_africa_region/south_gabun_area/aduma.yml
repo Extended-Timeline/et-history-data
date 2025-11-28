@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/3064 - Owando.txt
 2.1.1:
   pop:
-    ethnicity: kongo
-    religion: bantu_religion
-    estate: peasant
-    size: 1000
+    - ethnicity: kongo
+      religion: bantu_religion
+      estate: peasant
+      size: 1000
 1889.1.1:
   owner: FRA
   controller: FRA
@@ -12,9 +12,9 @@
     FRA: yes
   resource: naval_supplies
   pop:
-    religion: lutheran
-    estate: peasant
-    size: 1000
+    - religion: lutheran
+      estate: peasant
+      size: 1000
 1960.8.15:
   owner: CONG
   controller: CONG

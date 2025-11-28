@@ -6,10 +6,10 @@
     LOMB: yes
   resource: salt
   pop:
-    ethnicity: langobardi
-    religion: germanic
-    estate: peasant
-    size: 1000
+    - ethnicity: langobardi
+      religion: germanic
+      estate: peasant
+      size: 1000
 260.1.1:
   owner: WARI
   controller: WARI
@@ -17,9 +17,9 @@
     LOMB: no
     WARI: yes
   pop:
-    ethnicity: saxon
-    estate: peasant
-    size: 1000
+    - ethnicity: saxon
+      estate: peasant
+      size: 1000
 453.1.1:
   owner: THU
   controller: THU
@@ -27,9 +27,9 @@
     WARI: no
     THU: yes
   pop:
-    ethnicity: east_franconian
-    estate: peasant
-    size: 1000
+    - ethnicity: east_franconian
+      estate: peasant
+      size: 1000
 600.1.1:
   owner: SAX
   controller: SAX
@@ -37,9 +37,9 @@
     THU: no
     SAX: yes
   pop:
-    ethnicity: saxon
-    estate: peasant
-    size: 1000
+    - ethnicity: saxon
+      estate: peasant
+      size: 1000
 804.1.1:
   owner: FRAN
   controller: FRAN
@@ -53,14 +53,14 @@
     EFRA: yes
 867.1.1:
   pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - religion: catholic
+      estate: peasant
+      size: 1000
 900.1.1:
   pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - religion: catholic
+      estate: peasant
+      size: 1000
 911.11.10:
   owner: SAX
   controller: SAX
@@ -74,14 +74,14 @@
     MAG: yes
 1524.1.1:
   pop:
-    religion: lutheran
-    estate: peasant
-    size: 1000
+    - religion: lutheran
+      estate: peasant
+      size: 1000
 1650.1.1:
   pop:
-    ethnicity: prussian
-    estate: peasant
-    size: 1000
+    - ethnicity: prussian
+      estate: peasant
+      size: 1000
 1680.10.4:
   owner: BRA
   controller: BRA
@@ -128,6 +128,6 @@
     EGER: no
 2010.1.1:
   pop:
-    religion: irreligious
-    estate: peasant
-    size: 1000
+    - religion: irreligious
+      estate: peasant
+      size: 1000

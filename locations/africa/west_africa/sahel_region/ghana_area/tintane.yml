@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/2243 - Termes.txt
 2.1.1:
   pop:
-    ethnicity: soninke
-    religion: bantu_religion
-    estate: peasant
-    size: 1000
+    - ethnicity: soninke
+      religion: bantu_religion
+      estate: peasant
+      size: 1000
 350.1.1:
   owner: GHAN
   controller: GHAN
@@ -18,9 +18,9 @@
     TAKR: yes
 1100.1.1:
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 1140.1.1:
   owner: GHAN
   controller: GHAN

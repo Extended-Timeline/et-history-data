@@ -6,19 +6,19 @@
     MAHR: yes
   resource: fish
   pop:
-    ethnicity: mehri_culture
-    religion: south_arabian
-    estate: peasant
-    size: 1000
+    - ethnicity: mehri_culture
+      religion: south_arabian
+      estate: peasant
+      size: 1000
 635.1.1:
   owner: RASH
   controller: RASH
   cores:
     RASH: yes
   pop:
-    religion: islam
-    estate: peasant
-    size: 1000
+    - religion: islam
+      estate: peasant
+      size: 1000
 661.7.28:
   owner: UMAY
   controller: UMAY
@@ -26,9 +26,9 @@
     RASH: no
     UMAY: yes
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 750.8.6:
   owner: ABBA
   controller: ABBA
@@ -37,9 +37,9 @@
     ABBA: yes
 760.1.1:
   pop:
-    religion: ibadi
-    estate: peasant
-    size: 1000
+    - religion: ibadi
+      estate: peasant
+      size: 1000
 847.1.1:
   owner: MAHR
   controller: MAHR
@@ -48,9 +48,9 @@
     MAHR: yes
 1150.1.1:
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 1278.12.22:
   owner: YEM
   controller: YEM

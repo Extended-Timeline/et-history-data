@@ -6,25 +6,25 @@
     TAI: yes
   resource: coffee
   pop:
-    ethnicity: muisca_culture
-    religion: muisca_religion
-    estate: peasant
-    size: 1000
+    - ethnicity: muisca_culture
+      religion: muisca_religion
+      estate: peasant
+      size: 1000
 1525.1.1:
   owner: SPA
   controller: SPA
   cores:
     SPA: yes
   pop:
-    ethnicity: castilian
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - ethnicity: castilian
+      religion: catholic
+      estate: peasant
+      size: 1000
 1770.1.1:
   pop:
-    ethnicity: iberian_colombian
-    estate: peasant
-    size: 1000
+    - ethnicity: iberian_colombian
+      estate: peasant
+      size: 1000
 1810.7.20:
   owner: COLO
   controller: COLO

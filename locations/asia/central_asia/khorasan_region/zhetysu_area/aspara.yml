@@ -6,10 +6,10 @@
     KAGJ: yes
   resource: cloth
   pop:
-    ethnicity: khazak
-    religion: 
-    estate: peasant
-    size: 1000
+    - ethnicity: khazak
+      religion: 
+      estate: peasant
+      size: 1000
 260.1.1:
   owner: CHUB
   controller: CHUB
@@ -54,9 +54,9 @@
     KKHA: yes
 934.1.1:
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 1137.1.1:
   owner: KKHI
   controller: KKHI

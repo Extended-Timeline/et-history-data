@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/4116 - Odayev.txt
 2.1.1:
   pop:
-    ethnicity: muscovite
-    religion: slavic
-    estate: peasant
-    size: 1000
+    - ethnicity: muscovite
+      religion: slavic
+      estate: peasant
+      size: 1000
 550.1.1:
   owner: SEVE
   controller: SEVE
@@ -19,9 +19,9 @@
     KIEV: yes
 1050.1.1:
   pop:
-    religion: orthodox
-    estate: peasant
-    size: 1000
+    - religion: orthodox
+      estate: peasant
+      size: 1000
 1054.2.20:
   owner: CHR
   controller: CHR

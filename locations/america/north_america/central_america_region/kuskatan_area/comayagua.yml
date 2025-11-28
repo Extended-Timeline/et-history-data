@@ -6,10 +6,10 @@
     COPA: yes
   resource: fish
   pop:
-    ethnicity: kiche_culture
-    religion: mayan
-    estate: peasant
-    size: 1000
+    - ethnicity: kiche_culture
+      religion: mayan
+      estate: peasant
+      size: 1000
 830.1.1:
   owner: XXX
   controller: XXX
@@ -22,18 +22,18 @@
     SPA: yes
   resource: fish
   pop:
-    ethnicity: castilian
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - ethnicity: castilian
+      religion: catholic
+      estate: peasant
+      size: 1000
 1588.1.1:
   cores:
     SPA: yes
 1770.1.1:
   pop:
-    ethnicity: mexican
-    estate: peasant
-    size: 1000
+    - ethnicity: mexican
+      estate: peasant
+      size: 1000
 1810.9.16:
   owner: MEX
   controller: SPA

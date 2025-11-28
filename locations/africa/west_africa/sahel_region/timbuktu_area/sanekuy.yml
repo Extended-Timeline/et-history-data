@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/1134 - Jenne.txt
 2.1.1:
   pop:
-    ethnicity: bozo
-    religion: bantu_religion
-    estate: peasant
-    size: 1000
+    - ethnicity: bozo
+      religion: bantu_religion
+      estate: peasant
+      size: 1000
 350.1.1:
   owner: JENN
   controller: JENN
@@ -30,9 +30,9 @@
     SON: yes
 1550.1.1:
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 1588.1.1:
   controller: SON
 1591.3.15:

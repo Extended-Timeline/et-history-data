@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/404 - Liwa.txt
 2.1.1:
   pop:
-    ethnicity: bahrani_culture
-    religion: south_arabian
-    estate: peasant
-    size: 1000
+    - ethnicity: bahrani_culture
+      religion: south_arabian
+      estate: peasant
+      size: 1000
 580.1.1:
   owner: YAS
   controller: YAS
@@ -17,9 +17,9 @@
   cores:
     RASH: yes
   pop:
-    religion: islam
-    estate: peasant
-    size: 1000
+    - religion: islam
+      estate: peasant
+      size: 1000
 661.7.28:
   owner: UMAY
   controller: UMAY
@@ -27,9 +27,9 @@
     RASH: no
     UMAY: yes
   pop:
-    religion: shia
-    estate: peasant
-    size: 1000
+    - religion: shia
+      estate: peasant
+      size: 1000
 750.8.6:
   owner: ABBA
   controller: ABBA
@@ -61,9 +61,9 @@
     YAS: yes
 1800.1.1:
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 1971.12.2:
   owner: UAEM
   controller: UAEM

@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/820 - Quito.txt
 2.1.1:
   pop:
-    ethnicity: cara_culture
-    religion: inti
-    estate: peasant
-    size: 1000
+    - ethnicity: cara_culture
+      religion: inti
+      estate: peasant
+      size: 1000
 980.1.1:
   owner: QTO
   controller: QTO
@@ -22,10 +22,10 @@
   cores:
     SPA: yes
   pop:
-    ethnicity: castilian
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - ethnicity: castilian
+      religion: catholic
+      estate: peasant
+      size: 1000
 1558.8.29:
   cores:
     SPA: yes
@@ -34,9 +34,9 @@
     SPA: yes
 1770.1.1:
   pop:
-    ethnicity: iberian_colombian
-    estate: peasant
-    size: 1000
+    - ethnicity: iberian_colombian
+      estate: peasant
+      size: 1000
 1819.12.17:
   owner: COLO
   controller: COLO

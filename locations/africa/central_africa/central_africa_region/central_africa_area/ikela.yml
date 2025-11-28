@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/3229 - Tshuapa.txt
 2.1.1:
   pop:
-    ethnicity: mongo
-    religion: bantu_religion
-    estate: peasant
-    size: 1000
+    - ethnicity: mongo
+      religion: bantu_religion
+      estate: peasant
+      size: 1000
 1886.1.1:
   owner: BEL
   controller: BEL
@@ -12,9 +12,9 @@
     BEL: yes
   resource: tropical_wood
   pop:
-    religion: lutheran
-    estate: peasant
-    size: 1000
+    - religion: lutheran
+      estate: peasant
+      size: 1000
 1960.7.1:
   owner: DRCO
   controller: DRCO

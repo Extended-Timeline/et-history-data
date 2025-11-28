@@ -1,33 +1,33 @@
 #imported from EU4 file: history/provinces/1107 - Taranaki.txt
 2.1.1:
   pop:
-    ethnicity: uninhabited
-    religion: bimoism
-    estate: peasant
-    size: 1000
+    - ethnicity: uninhabited
+      religion: bimoism
+      estate: peasant
+      size: 1000
 1200.1.1:
   cores:
     ???: yes
   resource: livestock
   pop:
-    ethnicity: maori_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: maori_culture
+      estate: peasant
+      size: 1000
 1839.9.20:
   owner: GBR
   controller: GBR
   cores:
     GBR: yes
   pop:
-    ethnicity: english
-    religion: lutheran
-    estate: peasant
-    size: 1000
+    - ethnicity: english
+      religion: lutheran
+      estate: peasant
+      size: 1000
 1860.1.1:
   pop:
-    ethnicity: british_oceanian
-    estate: peasant
-    size: 1000
+    - ethnicity: british_oceanian
+      estate: peasant
+      size: 1000
 1907.9.26:
   owner: NZEA
   controller: NZEA
@@ -36,6 +36,6 @@
     NZEA: yes
 2020.1.1:
   pop:
-    religion: irreligious
-    estate: peasant
-    size: 1000
+    - religion: irreligious
+      estate: peasant
+      size: 1000

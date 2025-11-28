@@ -6,10 +6,10 @@
     MAHA: yes
   resource: cotton
   pop:
-    ethnicity: korean_culture
-    religion: muism
-    estate: peasant
-    size: 1000
+    - ethnicity: korean_culture
+      religion: muism
+      estate: peasant
+      size: 1000
 330.1.1:
   owner: BAEK
   controller: BAEK
@@ -20,9 +20,9 @@
     MAHA: no
 382.1.1:
   pop:
-    religion: mahayana
-    estate: peasant
-    size: 1000
+    - religion: mahayana
+      estate: peasant
+      size: 1000
 660.1.1:
   owner: SILL
   controller: SILL
@@ -48,9 +48,9 @@
     GORY: no
     KOR: yes
   pop:
-    religion: sanjiao
-    estate: peasant
-    size: 1000
+    - religion: sanjiao
+      estate: peasant
+      size: 1000
 1592.6.6:
   controller: TOYO
 1593.6.10:
@@ -93,11 +93,11 @@
     NKOR: yes
 1980.1.1:
   pop:
-    religion: mahayana
-    estate: peasant
-    size: 1000
+    - religion: mahayana
+      estate: peasant
+      size: 1000
 2005.1.1:
   pop:
-    religion: irreligious
-    estate: peasant
-    size: 1000
+    - religion: irreligious
+      estate: peasant
+      size: 1000

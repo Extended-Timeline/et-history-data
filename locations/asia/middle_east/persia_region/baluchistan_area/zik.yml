@@ -6,10 +6,10 @@
     BALU: yes
   resource: fish
   pop:
-    ethnicity: baloch_culture
-    religion: zoroastrian
-    estate: peasant
-    size: 1000
+    - ethnicity: baloch_culture
+      religion: zoroastrian
+      estate: peasant
+      size: 1000
 300.1.1:
   owner: ERA
   controller: ERA
@@ -35,9 +35,9 @@
     UMAY: yes
 740.1.1:
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 750.8.6:
   owner: ABBA
   controller: ABBA
@@ -50,9 +50,9 @@
   cores:
     BALU: yes
   pop:
-    religion: ibadi
-    estate: peasant
-    size: 1000
+    - religion: ibadi
+      estate: peasant
+      size: 1000
 854.1.1:
   owner: SND
   controller: SND
@@ -79,9 +79,9 @@
     GHOR: yes
 1200.1.1:
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 1206.1.1:
   owner: BALU
   controller: BALU

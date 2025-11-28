@@ -6,10 +6,10 @@
     MON0: yes
   resource: ivory
   pop:
-    ethnicity: mon_culture
-    religion: mahayana
-    estate: peasant
-    size: 1000
+    - ethnicity: mon_culture
+      religion: mahayana
+      estate: peasant
+      size: 1000
 150.1.1:
   owner: FUNA
   controller: FUNA
@@ -24,9 +24,9 @@
     DVAR: yes
 550.1.1:
   pop:
-    religion: mahayana
-    estate: peasant
-    size: 1000
+    - religion: mahayana
+      estate: peasant
+      size: 1000
 661.1.1:
   owner: LAV
   controller: LAV
@@ -40,9 +40,9 @@
     CAMB: yes
 1050.1.1:
   pop:
-    ethnicity: thai_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: thai_culture
+      estate: peasant
+      size: 1000
 1060.1.1:
   owner: LAV
   controller: LAV
@@ -56,9 +56,9 @@
     SUK: yes
 1310.1.1:
   pop:
-    religion: theravada
-    estate: peasant
-    size: 1000
+    - religion: theravada
+      estate: peasant
+      size: 1000
 1350.1.1:
   owner: AYU
   controller: AYU

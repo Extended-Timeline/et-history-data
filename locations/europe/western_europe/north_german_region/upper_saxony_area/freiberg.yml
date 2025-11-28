@@ -6,10 +6,10 @@
     HERM: yes
   resource: wool
   pop:
-    ethnicity: east_franconian
-    religion: germanic
-    estate: peasant
-    size: 1000
+    - ethnicity: east_franconian
+      religion: germanic
+      estate: peasant
+      size: 1000
 260.1.1:
   owner: SEMN
   controller: SEMN
@@ -35,10 +35,10 @@
     THU: no
     SORB: yes
   pop:
-    ethnicity: sorbian
-    religion: slavic
-    estate: peasant
-    size: 1000
+    - ethnicity: sorbian
+      religion: slavic
+      estate: peasant
+      size: 1000
 932.1.1:
   owner: SAX
   controller: SAX
@@ -53,10 +53,10 @@
     BRA: yes
 960.1.1:
   pop:
-    ethnicity: saxon
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - ethnicity: saxon
+      religion: catholic
+      estate: peasant
+      size: 1000
 965.5.20:
   owner: MEI
   controller: MEI
@@ -92,9 +92,9 @@
     EGER: yes
 1990.1.1:
   pop:
-    religion: irreligious
-    estate: peasant
-    size: 1000
+    - religion: irreligious
+      estate: peasant
+      size: 1000
 1990.10.3:
   owner: GER
   controller: GER

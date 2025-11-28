@@ -7,10 +7,10 @@
     LIHY: yes
   resource: wool
   pop:
-    ethnicity: hijazi_culture
-    religion: south_arabian
-    estate: peasant
-    size: 1000
+    - ethnicity: hijazi_culture
+      religion: south_arabian
+      estate: peasant
+      size: 1000
 106.1.1:
   owner: LIHY
   controller: LIHY
@@ -23,9 +23,9 @@
   cores:
     BNAD: yes
   pop:
-    religion: judaism
-    estate: peasant
-    size: 1000
+    - religion: judaism
+      estate: peasant
+      size: 1000
 622.1.1:
   owner: RASH
   controller: RASH
@@ -33,9 +33,9 @@
     BNAD: no
     RASH: yes
   pop:
-    religion: islam
-    estate: peasant
-    size: 1000
+    - religion: islam
+      estate: peasant
+      size: 1000
 661.7.28:
   owner: UMAY
   controller: UMAY
@@ -43,9 +43,9 @@
     RASH: no
     UMAY: yes
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 700.1.1:
   resource: cloth
 750.8.6:

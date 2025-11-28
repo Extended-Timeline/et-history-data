@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/1206 - Qardho.txt
 2.1.1:
   pop:
-    ethnicity: somali_culture
-    religion: bantu_religion
-    estate: peasant
-    size: 1000
+    - ethnicity: somali_culture
+      religion: bantu_religion
+      estate: peasant
+      size: 1000
 850.1.1:
   owner: HAFU
   controller: HAFU
@@ -13,9 +13,9 @@
   resource: incense
 1100.1.1:
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 1200.1.1:
   owner: MAJE
   controller: MAJE

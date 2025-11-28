@@ -6,10 +6,10 @@
     IPAR: yes
   resource: cloth
   pop:
-    ethnicity: punjabi
-    religion: hindu
-    estate: peasant
-    size: 1000
+    - ethnicity: punjabi
+      religion: hindu
+      estate: peasant
+      size: 1000
 76.1.1:
   owner: KUSH
   controller: KUSH
@@ -69,9 +69,9 @@
     MULT: yes
 960.1.1:
   pop:
-    religion: shia
-    estate: peasant
-    size: 1000
+    - religion: shia
+      estate: peasant
+      size: 1000
 1006.1.1:
   owner: GHAZ
   controller: GHAZ
@@ -85,9 +85,9 @@
     GHOR: yes
 1190.1.1:
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 1210.1.1:
   owner: MULT
   controller: MULT

@@ -6,10 +6,10 @@
     YAUD: yes
   resource: livestock
   pop:
-    ethnicity: punjabi
-    religion: hindu
-    estate: peasant
-    size: 1000
+    - ethnicity: punjabi
+      religion: hindu
+      estate: peasant
+      size: 1000
 180.1.1:
   owner: KUSH
   controller: KUSH
@@ -74,9 +74,9 @@
     MULT: yes
 965.1.1:
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 1005.1.1:
   owner: GHAZ
   controller: GHAZ
@@ -84,9 +84,9 @@
     GHAZ: yes
 1026.1.1:
   pop:
-    religion: shia
-    estate: peasant
-    size: 1000
+    - religion: shia
+      estate: peasant
+      size: 1000
 1175.1.1:
   owner: GHOR
   controller: GHOR
@@ -95,9 +95,9 @@
     GHOR: yes
 1180.1.1:
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 1210.1.1:
   owner: MULT
   controller: MULT

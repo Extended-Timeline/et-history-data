@@ -2,10 +2,10 @@
 2.1.1:
   resource: grain
   pop:
-    ethnicity: khazak
-    religion: 
-    estate: peasant
-    size: 1000
+    - ethnicity: khazak
+      religion: 
+      estate: peasant
+      size: 1000
 340.1.1:
   owner: OGHU
   controller: OGHU
@@ -47,9 +47,9 @@
     CUMA: yes
 1150.1.1:
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 1236.1.1:
   owner: MGE
   controller: MGE

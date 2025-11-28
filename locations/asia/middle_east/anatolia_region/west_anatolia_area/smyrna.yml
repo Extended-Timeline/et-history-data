@@ -6,10 +6,10 @@
     ROM: yes
   resource: cotton
   pop:
-    ethnicity: greek_culture
-    religion: hellenism_religion
-    estate: peasant
-    size: 1000
+    - ethnicity: greek_culture
+      religion: hellenism_religion
+      estate: peasant
+      size: 1000
 395.1.17:
   owner: BYZ
   controller: BYZ
@@ -18,14 +18,14 @@
     BYZ: yes
 440.1.1:
   pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+    - religion: chalcedonism
+      estate: peasant
+      size: 1000
 867.1.1:
   pop:
-    religion: orthodox
-    estate: peasant
-    size: 1000
+    - religion: orthodox
+      estate: peasant
+      size: 1000
 1076.1.1:
   owner: RUM
   controller: RUM
@@ -56,10 +56,10 @@
     BYZ: no
 1374.1.1:
   pop:
-    ethnicity: turkish_culture
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - ethnicity: turkish_culture
+      religion: sunni
+      estate: peasant
+      size: 1000
 1390.1.1:
   owner: TUR
   controller: TUR
@@ -75,10 +75,10 @@
   controller: TUR
 1700.1.1:
   pop:
-    ethnicity: greek_culture
-    religion: orthodox
-    estate: peasant
-    size: 1000
+    - ethnicity: greek_culture
+      religion: orthodox
+      estate: peasant
+      size: 1000
 1850.1.1:
   cores:
     AYD: no
@@ -102,7 +102,7 @@
     TUR: no
 1930.1.1:
   pop:
-    ethnicity: turkish_culture
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - ethnicity: turkish_culture
+      religion: sunni
+      estate: peasant
+      size: 1000

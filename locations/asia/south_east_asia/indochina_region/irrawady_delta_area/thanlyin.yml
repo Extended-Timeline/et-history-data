@@ -6,10 +6,10 @@
     THAT: yes
   resource: grain
   pop:
-    ethnicity: mon_culture
-    religion: theravada
-    estate: peasant
-    size: 1000
+    - ethnicity: mon_culture
+      religion: theravada
+      estate: peasant
+      size: 1000
 1057.5.17:
   owner: PAGA
   controller: PAGA
@@ -64,9 +64,9 @@
     GBR: no
 1960.1.1:
   pop:
-    ethnicity: burmese_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: burmese_culture
+      estate: peasant
+      size: 1000
 1989.1.1:
   owner: MYAN
   controller: MYAN

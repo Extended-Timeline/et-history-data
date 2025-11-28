@@ -6,10 +6,10 @@
     LWA: yes
   resource: wool
   pop:
-    ethnicity: newar_culture
-    religion: mahayana
-    estate: peasant
-    size: 1000
+    - ethnicity: newar_culture
+      religion: mahayana
+      estate: peasant
+      size: 1000
 625.1.1:
   owner: TIB
   controller: TIB
@@ -17,9 +17,9 @@
     TIB: yes
 640.1.1:
   pop:
-    religion: tibetan_buddhism
-    estate: peasant
-    size: 1000
+    - religion: tibetan_buddhism
+      estate: peasant
+      size: 1000
 820.1.1:
   owner: LWA
   controller: LWA

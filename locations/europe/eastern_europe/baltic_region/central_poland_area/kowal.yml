@@ -6,10 +6,10 @@
     GEPI: yes
   resource: grain
   pop:
-    ethnicity: gepid
-    religion: germanic
-    estate: peasant
-    size: 1000
+    - ethnicity: gepid
+      religion: germanic
+      estate: peasant
+      size: 1000
 200.1.1:
   owner: LEMO
   controller: LEMO
@@ -17,9 +17,9 @@
     GEPI: no
     LEMO: yes
   pop:
-    ethnicity: western_pomeranian
-    estate: peasant
-    size: 1000
+    - ethnicity: western_pomeranian
+      estate: peasant
+      size: 1000
 395.1.1:
   owner: POL
   controller: POL
@@ -27,10 +27,10 @@
     SCIR: no
     POL: yes
   pop:
-    ethnicity: lesser_polish
-    religion: slavic
-    estate: peasant
-    size: 1000
+    - ethnicity: lesser_polish
+      religion: slavic
+      estate: peasant
+      size: 1000
 1034.5.11:
   owner: MAZ
   controller: MAZ
@@ -43,9 +43,9 @@
     MAZ: no
 1050.1.1:
   pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - religion: catholic
+      estate: peasant
+      size: 1000
 1231.11.3:
   owner: MAZ
   controller: MAZ

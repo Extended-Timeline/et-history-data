@@ -6,10 +6,10 @@
     SARM: yes
   resource: grain
   pop:
-    ethnicity: sarmatian
-    religion: 
-    estate: peasant
-    size: 1000
+    - ethnicity: sarmatian
+      religion: 
+      estate: peasant
+      size: 1000
 370.1.1:
   owner: HUNS
   controller: HUNS
@@ -23,9 +23,9 @@
     HUNS: no
     AVR: yes
   pop:
-    ethnicity: avar_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: avar_culture
+      estate: peasant
+      size: 1000
 567.1.1:
   owner: ULIC
   controller: ULIC
@@ -33,9 +33,9 @@
     AVR: no
     ULIC: yes
   pop:
-    ethnicity: ruthenian
-    estate: peasant
-    size: 1000
+    - ethnicity: ruthenian
+      estate: peasant
+      size: 1000
 870.1.1:
   owner: PECH
   controller: PECH
@@ -51,9 +51,9 @@
     UKR: yes
 992.1.1:
   pop:
-    religion: orthodox
-    estate: peasant
-    size: 1000
+    - religion: orthodox
+      estate: peasant
+      size: 1000
 1054.2.20:
   owner: PERE
   controller: PERE

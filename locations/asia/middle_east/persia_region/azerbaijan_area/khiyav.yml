@@ -6,10 +6,10 @@
     ARM: yes
   resource: dyes
   pop:
-    ethnicity: talysh_culture
-    religion: zoroastrian
-    estate: peasant
-    size: 1000
+    - ethnicity: talysh_culture
+      religion: zoroastrian
+      estate: peasant
+      size: 1000
 114.1.1:
   owner: ROM
   controller: ROM
@@ -45,14 +45,14 @@
     ABBA: yes
 780.1.1:
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 860.1.1:
   pop:
-    religion: shia
-    estate: peasant
-    size: 1000
+    - religion: shia
+      estate: peasant
+      size: 1000
 861.1.1:
   owner: SHIR
   controller: SHIR
@@ -72,9 +72,9 @@
     TABR: yes
 990.1.1:
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 1054.1.1:
   owner: SELJ
   controller: SELJ
@@ -82,9 +82,9 @@
     SELJ: yes
 1070.1.1:
   pop:
-    ethnicity: azeri_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: azeri_culture
+      estate: peasant
+      size: 1000
 1157.5.8:
   owner: AZER
   controller: AZER
@@ -118,9 +118,9 @@
     ABL: yes
 1395.1.1:
   pop:
-    religion: shia
-    estate: peasant
-    size: 1000
+    - religion: shia
+      estate: peasant
+      size: 1000
 1501.7.1:
   owner: IRA
   controller: IRA

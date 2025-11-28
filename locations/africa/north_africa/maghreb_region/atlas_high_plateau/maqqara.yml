@@ -6,15 +6,15 @@
     ROM: yes
   resource: salt
   pop:
-    ethnicity: zenati
-    religion: bantu_religion
-    estate: peasant
-    size: 1000
+    - ethnicity: zenati
+      religion: bantu_religion
+      estate: peasant
+      size: 1000
 340.1.1:
   pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+    - religion: chalcedonism
+      estate: peasant
+      size: 1000
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -28,9 +28,9 @@
     ROMW: no
     VAND: yes
   pop:
-    religion: arianism
-    estate: peasant
-    size: 1000
+    - religion: arianism
+      estate: peasant
+      size: 1000
 450.1.1:
   owner: AURE
   controller: AURE
@@ -39,9 +39,9 @@
     AURE: yes
 560.1.1:
   pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+    - religion: chalcedonism
+      estate: peasant
+      size: 1000
 702.1.1:
   owner: UMAY
   controller: UMAY
@@ -49,9 +49,9 @@
     UMAY: yes
 740.1.1:
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 745.1.1:
   owner: TUN
   controller: TUN

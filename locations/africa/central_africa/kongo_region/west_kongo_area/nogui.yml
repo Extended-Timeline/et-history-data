@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/4080 - Soyo.txt
 2.1.1:
   pop:
-    ethnicity: kongo
-    religion: bantu_religion
-    estate: peasant
-    size: 1000
+    - ethnicity: kongo
+      religion: bantu_religion
+      estate: peasant
+      size: 1000
 1350.1.1:
   owner: KON
   controller: KON
@@ -24,9 +24,9 @@
     KON: no
     POR: yes
   pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - religion: catholic
+      estate: peasant
+      size: 1000
 1900.1.1:
   resource: wool
 1975.11.11:

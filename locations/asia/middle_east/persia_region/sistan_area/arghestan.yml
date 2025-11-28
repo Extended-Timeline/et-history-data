@@ -7,10 +7,10 @@
     SURE: yes
   resource: cotton
   pop:
-    ethnicity: afghan_culture
-    religion: zunism
-    estate: peasant
-    size: 1000
+    - ethnicity: afghan_culture
+      religion: zunism
+      estate: peasant
+      size: 1000
 20.1.1:
   owner: SURE
   controller: SURE
@@ -37,9 +37,9 @@
   cores:
     ZUNB: no
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 913.5.24:
   owner: BUKH
   controller: BUKH

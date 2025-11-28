@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/4799 - Bontang.txt
 2.1.1:
   pop:
-    ethnicity: kutai_culture
-    religion: bimoism
-    estate: peasant
-    size: 1000
+    - ethnicity: kutai_culture
+      religion: bimoism
+      estate: peasant
+      size: 1000
 300.1.1:
   owner: KUTA
   controller: KUTA
@@ -13,14 +13,14 @@
   resource: fish
 400.1.1:
   pop:
-    religion: hindu
-    estate: peasant
-    size: 1000
+    - religion: hindu
+      estate: peasant
+      size: 1000
 1700.1.1:
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 1848.1.1:
   owner: NED
   controller: NED

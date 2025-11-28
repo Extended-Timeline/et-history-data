@@ -6,15 +6,15 @@
     ROM: yes
   resource: iron
   pop:
-    ethnicity: noric
-    religion: druidism
-    estate: peasant
-    size: 1000
+    - ethnicity: noric
+      religion: druidism
+      estate: peasant
+      size: 1000
 340.1.1:
   pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+    - religion: chalcedonism
+      estate: peasant
+      size: 1000
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -23,9 +23,9 @@
     ROMW: yes
 420.1.1:
   pop:
-    ethnicity: danube_bavarian
-    estate: peasant
-    size: 1000
+    - ethnicity: danube_bavarian
+      estate: peasant
+      size: 1000
 476.9.4:
   owner: ITA
   controller: ITA
@@ -41,14 +41,14 @@
     ITA: no
     OSTR: yes
   pop:
-    ethnicity: gothic
-    estate: peasant
-    size: 1000
+    - ethnicity: gothic
+      estate: peasant
+      size: 1000
 500.1.1:
   pop:
-    religion: arianism
-    estate: peasant
-    size: 1000
+    - religion: arianism
+      estate: peasant
+      size: 1000
 553.1.1:
   owner: LOMB
   controller: LOMB
@@ -56,14 +56,14 @@
     OSTR: no
     LOMB: yes
   pop:
-    ethnicity: langobardi
-    estate: peasant
-    size: 1000
+    - ethnicity: langobardi
+      estate: peasant
+      size: 1000
 568.6.1:
   pop:
-    ethnicity: lombard
-    estate: peasant
-    size: 1000
+    - ethnicity: lombard
+      estate: peasant
+      size: 1000
 591.1.1:
   owner: AVR
   controller: AVR
@@ -71,14 +71,14 @@
     LOMB: no
     AVR: yes
   pop:
-    ethnicity: slovene
-    estate: peasant
-    size: 1000
+    - ethnicity: slovene
+      estate: peasant
+      size: 1000
 595.1.1:
   pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+    - religion: chalcedonism
+      estate: peasant
+      size: 1000
 623.1.1:
   owner: SAMO
   controller: SAMO
@@ -98,14 +98,14 @@
     CART: no
     BAV: yes
   pop:
-    ethnicity: danube_bavarian
-    estate: peasant
-    size: 1000
+    - ethnicity: danube_bavarian
+      estate: peasant
+      size: 1000
 750.1.1:
   pop:
-    ethnicity: danube_bavarian
-    estate: peasant
-    size: 1000
+    - ethnicity: danube_bavarian
+      estate: peasant
+      size: 1000
 788.1.1:
   owner: FRAN
   controller: FRAN
@@ -120,9 +120,9 @@
     BAV: yes
 867.1.1:
   pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - religion: catholic
+      estate: peasant
+      size: 1000
 880.3.22:
   owner: EFRA
   controller: EFRA

@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/1049 - Saghalian Oula.txt
 2.1.1:
   pop:
-    ethnicity: evenk_culture
-    religion: 
-    estate: peasant
-    size: 1000
+    - ethnicity: evenk_culture
+      religion: 
+      estate: peasant
+      size: 1000
 1206.1.1:
   owner: SOL
   controller: SOL
@@ -30,10 +30,10 @@
     RUS: yes
 1900.1.1:
   pop:
-    ethnicity: muscovite
-    religion: orthodox
-    estate: peasant
-    size: 1000
+    - ethnicity: muscovite
+      religion: orthodox
+      estate: peasant
+      size: 1000
 1922.12.30:
   owner: SOVI
   controller: SOVI

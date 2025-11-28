@@ -5,10 +5,10 @@
   cores:
     NST: yes
   pop:
-    ethnicity: caddo_culture
-    religion: iroquoian_totemism
-    estate: peasant
-    size: 1000
+    - ethnicity: caddo_culture
+      religion: iroquoian_totemism
+      estate: peasant
+      size: 1000
 1714.1.1:
   owner: FRA
   controller: FRA
@@ -16,10 +16,10 @@
     FRA: yes
   resource: cotton
   pop:
-    ethnicity: french
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - ethnicity: french
+      religion: catholic
+      estate: peasant
+      size: 1000
 1762.1.1:
   owner: SPA
   controller: SPA
@@ -27,9 +27,9 @@
     FRA: no
 1770.1.1:
   pop:
-    ethnicity: french_louisianan
-    estate: peasant
-    size: 1000
+    - ethnicity: french_louisianan
+      estate: peasant
+      size: 1000
 1787.1.1:
   cores:
     SPA: yes
@@ -47,14 +47,14 @@
     USA: yes
 1830.1.1:
   pop:
-    ethnicity: british_louisianan
-    estate: peasant
-    size: 1000
+    - ethnicity: british_louisianan
+      estate: peasant
+      size: 1000
 1840.1.1:
   pop:
-    religion: lutheran
-    estate: peasant
-    size: 1000
+    - religion: lutheran
+      estate: peasant
+      size: 1000
 1861.1.26:
   owner: LOUI
   controller: LOUI

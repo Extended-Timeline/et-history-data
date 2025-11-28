@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/2274 - Agadez.txt
 2.1.1:
   pop:
-    ethnicity: tuareg
-    religion: bantu_religion
-    estate: peasant
-    size: 1000
+    - ethnicity: tuareg
+      religion: bantu_religion
+      estate: peasant
+      size: 1000
 1250.1.1:
   owner: TAKE
   controller: TAKE
@@ -13,9 +13,9 @@
   resource: iron
 1400.1.1:
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 1404.1.1:
   owner: AIR
   controller: AIR

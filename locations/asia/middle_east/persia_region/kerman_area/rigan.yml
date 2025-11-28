@@ -6,10 +6,10 @@
     PART: yes
   resource: cotton
   pop:
-    ethnicity: baloch_culture
-    religion: zoroastrian
-    estate: peasant
-    size: 1000
+    - ethnicity: baloch_culture
+      religion: zoroastrian
+      estate: peasant
+      size: 1000
 224.4.24:
   owner: ERA
   controller: ERA
@@ -30,9 +30,9 @@
     UMAY: yes
 698.1.1:
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 750.8.6:
   owner: ABBA
   controller: ABBA
@@ -159,9 +159,9 @@
     IRA: yes
 1800.1.1:
   pop:
-    ethnicity: farsi_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: farsi_culture
+      estate: peasant
+      size: 1000
 1839.1.1:
   owner: IRA
   controller: IRA

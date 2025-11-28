@@ -6,10 +6,10 @@
     FUNA: yes
   resource: iron
   pop:
-    ethnicity: khmer_culture
-    religion: hindu
-    estate: peasant
-    size: 1000
+    - ethnicity: khmer_culture
+      religion: hindu
+      estate: peasant
+      size: 1000
 550.1.1:
   owner: CHEN
   controller: CHEN
@@ -18,9 +18,9 @@
     CHEN: yes
 600.1.1:
   pop:
-    religion: mahayana
-    estate: peasant
-    size: 1000
+    - religion: mahayana
+      estate: peasant
+      size: 1000
 802.1.1:
   owner: CAMB
   controller: CAMB
@@ -29,9 +29,9 @@
     CAMB: yes
 1295.1.1:
   pop:
-    religion: theravada
-    estate: peasant
-    size: 1000
+    - religion: theravada
+      estate: peasant
+      size: 1000
 1431.1.1:
   owner: KHM
   controller: KHM

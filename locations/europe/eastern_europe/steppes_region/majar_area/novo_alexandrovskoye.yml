@@ -6,10 +6,10 @@
     SIRA: yes
   resource: livestock
   pop:
-    ethnicity: alan_culture
-    religion: 
-    estate: peasant
-    size: 1000
+    - ethnicity: alan_culture
+      religion: 
+      estate: peasant
+      size: 1000
 300.1.1:
   owner: CIR
   controller: CIR
@@ -35,14 +35,14 @@
     ALN: no
     KHAZ: yes
   pop:
-    ethnicity: khazar
-    estate: peasant
-    size: 1000
+    - ethnicity: khazar
+      estate: peasant
+      size: 1000
 1000.1.1:
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 1048.1.1:
   owner: CUMA
   controller: CUMA
@@ -57,9 +57,9 @@
     MGE: yes
     ASTR: yes
   pop:
-    ethnicity: astrakhani
-    estate: peasant
-    size: 1000
+    - ethnicity: astrakhani
+      estate: peasant
+      size: 1000
 1260.1.1:
   owner: WHHO
   controller: WHHO
@@ -105,16 +105,16 @@
     NOGA: no
     RUS: yes
   pop:
-    ethnicity: mongolian_culture
-    religion: mahayana
-    estate: peasant
-    size: 1000
+    - ethnicity: mongolian_culture
+      religion: mahayana
+      estate: peasant
+      size: 1000
 1777.1.1:
   pop:
-    ethnicity: muscovite
-    religion: orthodox
-    estate: peasant
-    size: 1000
+    - ethnicity: muscovite
+      religion: orthodox
+      estate: peasant
+      size: 1000
 1922.12.30:
   owner: SOVI
   controller: SOVI

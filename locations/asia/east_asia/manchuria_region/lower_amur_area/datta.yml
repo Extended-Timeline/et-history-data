@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/4216 - Ulch.txt
 2.1.1:
   pop:
-    ethnicity: jurchen_culture
-    religion: 
-    estate: peasant
-    size: 1000
+    - ethnicity: jurchen_culture
+      religion: 
+      estate: peasant
+      size: 1000
 600.1.1:
   owner: HSMO
   controller: HSMO
@@ -23,9 +23,9 @@
   cores:
     MCH: yes
   pop:
-    ethnicity: manchu_new
-    estate: peasant
-    size: 1000
+    - ethnicity: manchu_new
+      estate: peasant
+      size: 1000
 1636.5.15:
   owner: QNG
   controller: QNG
@@ -46,10 +46,10 @@
     SOVI: yes
 1930.1.1:
   pop:
-    ethnicity: muscovite
-    religion: orthodox
-    estate: peasant
-    size: 1000
+    - ethnicity: muscovite
+      religion: orthodox
+      estate: peasant
+      size: 1000
 1991.12.25:
   owner: RUS
   controller: RUS

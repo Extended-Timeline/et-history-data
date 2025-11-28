@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/3017 - Matabeleland.txt
 2.1.1:
   pop:
-    ethnicity: tonga
-    religion: bantu_religion
-    estate: peasant
-    size: 1000
+    - ethnicity: tonga
+      religion: bantu_religion
+      estate: peasant
+      size: 1000
 1840.1.1:
   owner: MATB
   controller: MATB
@@ -12,9 +12,9 @@
     MATB: yes
   resource: grain
   pop:
-    ethnicity: shona_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: shona_culture
+      estate: peasant
+      size: 1000
 1894.1.1:
   owner: GBR
   controller: GBR
@@ -22,9 +22,9 @@
     GBR: yes
 1950.1.1:
   pop:
-    religion: lutheran
-    estate: peasant
-    size: 1000
+    - religion: lutheran
+      estate: peasant
+      size: 1000
 1965.11.11:
   owner: RHOD
   controller: RHOD

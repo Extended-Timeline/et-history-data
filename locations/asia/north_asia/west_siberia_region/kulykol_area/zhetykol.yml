@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/2441 - Iglino.txt
 2.1.1:
   pop:
-    ethnicity: bashkir
-    religion: 
-    estate: peasant
-    size: 1000
+    - ethnicity: bashkir
+      religion: 
+      estate: peasant
+      size: 1000
 660.1.1:
   owner: BSH
   controller: BSH
@@ -61,10 +61,10 @@
   cores:
     BSH: no
   pop:
-    ethnicity: muscovite
-    religion: orthodox
-    estate: peasant
-    size: 1000
+    - ethnicity: muscovite
+      religion: orthodox
+      estate: peasant
+      size: 1000
 1775.2.1:
   controller: RUS
 1922.12.30:

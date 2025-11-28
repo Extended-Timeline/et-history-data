@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/4638 - Wintun.txt
 2.1.1:
   pop:
-    ethnicity: south_valley_yokut_culture
-    religion: iroquoian_totemism
-    estate: peasant
-    size: 1000
+    - ethnicity: south_valley_yokut_culture
+      religion: iroquoian_totemism
+      estate: peasant
+      size: 1000
 1840.1.1:
   owner: MEX
   controller: MEX
@@ -12,10 +12,10 @@
     MEX: yes
   resource: grain
   pop:
-    ethnicity: iberian_californian
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - ethnicity: iberian_californian
+      religion: catholic
+      estate: peasant
+      size: 1000
 1846.8.13:
   controller: USA
 1848.2.2:
@@ -24,11 +24,11 @@
     MEX: no
     USA: yes
   pop:
-    ethnicity: british_californian
-    estate: peasant
-    size: 1000
+    - ethnicity: british_californian
+      estate: peasant
+      size: 1000
 1850.1.1:
   pop:
-    religion: lutheran
-    estate: peasant
-    size: 1000
+    - religion: lutheran
+      estate: peasant
+      size: 1000

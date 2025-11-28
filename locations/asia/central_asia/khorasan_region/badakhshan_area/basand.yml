@@ -6,10 +6,10 @@
     KUSH: yes
   resource: wool
   pop:
-    ethnicity: sogdian
-    religion: mahayana
-    estate: peasant
-    size: 1000
+    - ethnicity: sogdian
+      religion: mahayana
+      estate: peasant
+      size: 1000
 230.1.1:
   owner: KSAS
   controller: KSAS
@@ -36,9 +36,9 @@
     CHAG: yes
 620.1.1:
   pop:
-    religion: zoroastrian
-    estate: peasant
-    size: 1000
+    - religion: zoroastrian
+      estate: peasant
+      size: 1000
 642.1.1:
   owner: SAMA
   controller: SAMA
@@ -73,9 +73,9 @@
     KOKA: yes
 850.1.1:
   pop:
-    ethnicity: tajik_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: tajik_culture
+      estate: peasant
+      size: 1000
 870.1.1:
   owner: CHAG
   controller: CHAG
@@ -84,9 +84,9 @@
     CHAG: yes
 880.1.1:
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 1040.5.23:
   owner: SELJ
   controller: SELJ
@@ -140,9 +140,9 @@
     TIM: yes
 1380.1.1:
   pop:
-    ethnicity: uzbek_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: uzbek_culture
+      estate: peasant
+      size: 1000
 1409.5.13:
   owner: TRAN
   controller: TRAN

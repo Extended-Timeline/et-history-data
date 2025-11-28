@@ -1,15 +1,15 @@
 #imported from EU4 file: history/provinces/1204 - Lamu.txt
 2.1.1:
   pop:
-    ethnicity: somali_culture
-    religion: bantu_religion
-    estate: peasant
-    size: 1000
+    - ethnicity: somali_culture
+      religion: bantu_religion
+      estate: peasant
+      size: 1000
 200.1.1:
   pop:
-    ethnicity: swahili_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: swahili_culture
+      estate: peasant
+      size: 1000
 850.1.1:
   owner: MLI
   controller: MLI
@@ -18,9 +18,9 @@
   resource: ivory
 1000.1.1:
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 1586.1.1:
   owner: TUR
   controller: TUR

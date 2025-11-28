@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/2749 - Tikhvin.txt
 2.1.1:
   pop:
-    ethnicity: vepsian
-    religion: muinaisusko
-    estate: peasant
-    size: 1000
+    - ethnicity: vepsian
+      religion: muinaisusko
+      estate: peasant
+      size: 1000
 750.1.1:
   owner: VEPS
   controller: VEPS
@@ -25,15 +25,15 @@
     KIEV: yes
 900.1.1:
   pop:
-    ethnicity: novgorodian
-    religion: slavic
-    estate: peasant
-    size: 1000
+    - ethnicity: novgorodian
+      religion: slavic
+      estate: peasant
+      size: 1000
 960.1.1:
   pop:
-    religion: orthodox
-    estate: peasant
-    size: 1000
+    - religion: orthodox
+      estate: peasant
+      size: 1000
 1054.2.20:
   owner: NOV
   controller: NOV

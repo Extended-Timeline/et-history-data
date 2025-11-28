@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/1121 - Bure.txt
 2.1.1:
   pop:
-    ethnicity: mandinka
-    religion: bantu_religion
-    estate: peasant
-    size: 1000
+    - ethnicity: mandinka
+      religion: bantu_religion
+      estate: peasant
+      size: 1000
 800.1.1:
   owner: KAGB
   controller: KAGB
@@ -24,9 +24,9 @@
     SEGU: yes
 1850.1.1:
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 1890.1.1:
   owner: FRA
   controller: FRA

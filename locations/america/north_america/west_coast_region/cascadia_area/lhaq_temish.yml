@@ -4,17 +4,17 @@
     ???: yes
   resource: fur
   pop:
-    ethnicity: saleesh_culture
-    religion: iroquoian_totemism
-    estate: peasant
-    size: 1000
+    - ethnicity: saleesh_culture
+      religion: iroquoian_totemism
+      estate: peasant
+      size: 1000
 1851.9.25:
   owner: USA
   controller: USA
   cores:
     USA: yes
   pop:
-    ethnicity: british_californian
-    religion: lutheran
-    estate: peasant
-    size: 1000
+    - ethnicity: british_californian
+      religion: lutheran
+      estate: peasant
+      size: 1000

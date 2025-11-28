@@ -6,10 +6,10 @@
     SATA: yes
   resource: grain
   pop:
-    ethnicity: kannadiga
-    religion: mahayana
-    estate: peasant
-    size: 1000
+    - ethnicity: kannadiga
+      religion: mahayana
+      estate: peasant
+      size: 1000
 220.1.1:
   owner: ABHI
   controller: ABHI
@@ -18,9 +18,9 @@
     ABHI: yes
 240.1.1:
   pop:
-    religion: hindu
-    estate: peasant
-    size: 1000
+    - religion: hindu
+      estate: peasant
+      size: 1000
 250.1.1:
   owner: VAKA
   controller: VAKA
@@ -41,9 +41,9 @@
     CHAL: yes
 560.1.1:
   pop:
-    religion: jain
-    estate: peasant
-    size: 1000
+    - religion: jain
+      estate: peasant
+      size: 1000
 753.1.1:
   owner: RAST
   controller: RAST
@@ -58,9 +58,9 @@
     CHAL: yes
 1140.1.1:
   pop:
-    religion: hindu
-    estate: peasant
-    size: 1000
+    - religion: hindu
+      estate: peasant
+      size: 1000
 1189.1.1:
   owner: YADA
   controller: YADA

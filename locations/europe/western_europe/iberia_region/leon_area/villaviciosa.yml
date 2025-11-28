@@ -7,10 +7,10 @@
     VASC: yes
   resource: livestock
   pop:
-    ethnicity: cantabrian
-    religion: druidism
-    estate: peasant
-    size: 1000
+    - ethnicity: cantabrian
+      religion: druidism
+      estate: peasant
+      size: 1000
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -24,9 +24,9 @@
     VASC: no
     SUEB: yes
   pop:
-    religion: germanic
-    estate: peasant
-    size: 1000
+    - religion: germanic
+      estate: peasant
+      size: 1000
 450.1.1:
   cores:
     ROMW: no
@@ -40,14 +40,14 @@
   controller: SUEB
 466.1.1:
   pop:
-    religion: arianism
-    estate: peasant
-    size: 1000
+    - religion: arianism
+      estate: peasant
+      size: 1000
 561.5.1:
   pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+    - religion: chalcedonism
+      estate: peasant
+      size: 1000
 584.1.1:
   owner: VISG
   controller: VISG
@@ -67,14 +67,14 @@
     UMAY: no
     ASTU: yes
   pop:
-    ethnicity: leonese
-    estate: peasant
-    size: 1000
+    - ethnicity: leonese
+      estate: peasant
+      size: 1000
 867.1.1:
   pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - religion: catholic
+      estate: peasant
+      size: 1000
 924.1.1:
   owner: LON
   controller: LON

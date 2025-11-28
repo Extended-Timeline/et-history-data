@@ -6,10 +6,10 @@
     WSAT: yes
   resource: cotton
   pop:
-    ethnicity: marwari
-    religion: jain
-    estate: peasant
-    size: 1000
+    - ethnicity: marwari
+      religion: jain
+      estate: peasant
+      size: 1000
 405.1.1:
   owner: GUPT
   controller: GUPT
@@ -46,9 +46,9 @@
     MRW: yes
 1300.1.1:
   pop:
-    religion: hindu
-    estate: peasant
-    size: 1000
+    - religion: hindu
+      estate: peasant
+      size: 1000
 1438.1.1:
   owner: MEW
   controller: MEW

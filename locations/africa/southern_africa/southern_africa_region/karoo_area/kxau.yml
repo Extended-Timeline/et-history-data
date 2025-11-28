@@ -1,15 +1,15 @@
 #imported from EU4 file: history/provinces/2880 - Griqualand.txt
 2.1.1:
   pop:
-    ethnicity: xam_culture
-    religion: bantu_religion
-    estate: peasant
-    size: 1000
+    - ethnicity: xam_culture
+      religion: bantu_religion
+      estate: peasant
+      size: 1000
 400.1.1:
   pop:
-    ethnicity: tswana_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: tswana_culture
+      estate: peasant
+      size: 1000
 1840.1.1:
   owner: GBR
   controller: GBR
@@ -17,9 +17,9 @@
     GBR: yes
   resource: wine
   pop:
-    religion: lutheran
-    estate: peasant
-    size: 1000
+    - religion: lutheran
+      estate: peasant
+      size: 1000
 1860.1.1:
   resource: gems
 1910.3.31:

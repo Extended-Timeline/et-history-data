@@ -6,10 +6,10 @@
     IPAR: yes
   resource: grain
   pop:
-    ethnicity: afghan_culture
-    religion: mahayana
-    estate: peasant
-    size: 1000
+    - ethnicity: afghan_culture
+      religion: mahayana
+      estate: peasant
+      size: 1000
 76.1.1:
   owner: KUSH
   controller: KUSH
@@ -58,9 +58,9 @@
     SHI: yes
 850.1.1:
   pop:
-    religion: hindu
-    estate: peasant
-    size: 1000
+    - religion: hindu
+      estate: peasant
+      size: 1000
 870.1.1:
   owner: SIST
   controller: SIST
@@ -69,9 +69,9 @@
     SIST: yes
 875.1.1:
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 913.5.24:
   owner: BUKH
   controller: BUKH

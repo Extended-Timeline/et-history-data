@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/1135 - Yatenga.txt
 2.1.1:
   pop:
-    ethnicity: mossi
-    religion: bantu_religion
-    estate: peasant
-    size: 1000
+    - ethnicity: mossi
+      religion: bantu_religion
+      estate: peasant
+      size: 1000
 1050.1.1:
   owner: ZAND
   controller: ZAND
@@ -19,9 +19,9 @@
     YAT: yes
 1880.1.1:
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 1895.5.1:
   owner: FRA
   controller: FRA

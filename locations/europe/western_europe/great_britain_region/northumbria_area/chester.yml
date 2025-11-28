@@ -6,10 +6,10 @@
     BRIG: yes
   resource: salt
   pop:
-    ethnicity: cumbric
-    religion: druidism
-    estate: peasant
-    size: 1000
+    - ethnicity: cumbric
+      religion: druidism
+      estate: peasant
+      size: 1000
 71.1.1:
   controller: ROM
 78.1.1:
@@ -35,9 +35,9 @@
     RHEG: yes
 630.1.1:
   pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+    - religion: chalcedonism
+      estate: peasant
+      size: 1000
 633.1.1: #controlled by Mercia from 633, changed history to adjust for being controlled by Mercia. https://www.wilcuma.org.uk/mercia/a-history-of-cheshire/
   owner: MERC
   controller: MERC
@@ -46,9 +46,9 @@
     MERC: yes
 867.1.1:
   pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - religion: catholic
+      estate: peasant
+      size: 1000
 927.1.1:
   owner: ENG
   controller: ENG
@@ -59,9 +59,9 @@
     MERC: no
 1066.12.25:
   pop:
-    ethnicity: english
-    estate: peasant
-    size: 1000
+    - ethnicity: english
+      estate: peasant
+      size: 1000
 1070.1.1: # controlled by Chester due to creation of County Palatine of Chester. Control ends in 1536.
   owner: CET
   controller: CET

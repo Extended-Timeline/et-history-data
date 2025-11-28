@@ -6,10 +6,10 @@
     SHA: yes
   resource: grain
   pop:
-    ethnicity: tai_lu_culture
-    religion: satsana_phi
-    estate: peasant
-    size: 1000
+    - ethnicity: tai_lu_culture
+      religion: satsana_phi
+      estate: peasant
+      size: 1000
 620.1.1:
   owner: HSI
   controller: HSI
@@ -18,9 +18,9 @@
     HSI: yes
 1050.1.1:
   pop:
-    religion: theravada
-    estate: peasant
-    size: 1000
+    - religion: theravada
+      estate: peasant
+      size: 1000
 1527.1.1:
   owner: SHA
   controller: SHA

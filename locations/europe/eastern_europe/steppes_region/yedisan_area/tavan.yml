@@ -6,10 +6,10 @@
     SARM: yes
   resource: wine
   pop:
-    ethnicity: sarmatian
-    religion: 
-    estate: peasant
-    size: 1000
+    - ethnicity: sarmatian
+      religion: 
+      estate: peasant
+      size: 1000
 220.1.1:
   owner: OSTR
   controller: OSTR
@@ -23,9 +23,9 @@
     OSTR: no
     HUNS: yes
   pop:
-    ethnicity: hunnic
-    estate: peasant
-    size: 1000
+    - ethnicity: hunnic
+      estate: peasant
+      size: 1000
 469.1.1:
   owner: AVR
   controller: AVR
@@ -33,9 +33,9 @@
     HUNS: no
     AVR: yes
   pop:
-    ethnicity: avar_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: avar_culture
+      estate: peasant
+      size: 1000
 567.1.1:
   owner: KUTR
   controller: KUTR
@@ -43,9 +43,9 @@
     AVR: no
     KUTR: yes
   pop:
-    ethnicity: bolghar_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: bolghar_culture
+      estate: peasant
+      size: 1000
 632.1.1:
   owner: BUL
   controller: BUL
@@ -59,9 +59,9 @@
     BUL: no
     HUN: yes
   pop:
-    ethnicity: hungarian
-    estate: peasant
-    size: 1000
+    - ethnicity: hungarian
+      estate: peasant
+      size: 1000
 870.1.1:
   owner: PECH
   controller: PECH
@@ -69,9 +69,9 @@
     HUN: no
     PECH: yes
   pop:
-    ethnicity: pecheneg
-    estate: peasant
-    size: 1000
+    - ethnicity: pecheneg
+      estate: peasant
+      size: 1000
 1060.1.1:
   owner: CUMA
   controller: CUMA
@@ -80,10 +80,10 @@
     CUMA: yes
 1220.1.1:
   pop:
-    ethnicity: ruthenian
-    religion: orthodox
-    estate: peasant
-    size: 1000
+    - ethnicity: ruthenian
+      religion: orthodox
+      estate: peasant
+      size: 1000
 1241.1.1:
   owner: MGE
   controller: MGE
@@ -92,9 +92,9 @@
     MGE: yes
     ZAZ: yes
   pop:
-    ethnicity: crimean
-    estate: peasant
-    size: 1000
+    - ethnicity: crimean
+      estate: peasant
+      size: 1000
 1260.1.1:
   owner: WHHO
   controller: WHHO
@@ -135,10 +135,10 @@
     CRIM: no
     ZAZ: yes
   pop:
-    ethnicity: ruthenian
-    religion: orthodox
-    estate: peasant
-    size: 1000
+    - ethnicity: ruthenian
+      religion: orthodox
+      estate: peasant
+      size: 1000
 1764.1.1:
   owner: RUS
   controller: RUS

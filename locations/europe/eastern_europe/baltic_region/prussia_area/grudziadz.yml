@@ -6,10 +6,10 @@
     SCIR: yes
   resource: grain
   pop:
-    ethnicity: scirian
-    religion: germanic
-    estate: peasant
-    size: 1000
+    - ethnicity: scirian
+      religion: germanic
+      estate: peasant
+      size: 1000
 150.1.1:
   owner: PRUS
   controller: PRUS
@@ -17,10 +17,10 @@
     SCIR: no
     PRUS: yes
   pop:
-    ethnicity: pruthenian
-    religion: romuva
-    estate: peasant
-    size: 1000
+    - ethnicity: pruthenian
+      religion: romuva
+      estate: peasant
+      size: 1000
 500.1.1:
   owner: POME
   controller: POME
@@ -28,9 +28,9 @@
     LEMO: no
     POME: yes
   pop:
-    ethnicity: kashubian
-    estate: peasant
-    size: 1000
+    - ethnicity: kashubian
+      estate: peasant
+      size: 1000
 650.1.1:
   owner: POL
   controller: POL
@@ -38,10 +38,10 @@
     PRUS: no
     POL: yes
   pop:
-    ethnicity: lesser_polish
-    religion: slavic
-    estate: peasant
-    size: 1000
+    - ethnicity: lesser_polish
+      religion: slavic
+      estate: peasant
+      size: 1000
 1034.5.11:
   owner: MAZ
   controller: MAZ
@@ -54,9 +54,9 @@
     MAZ: no
 1100.1.1:
   pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - religion: catholic
+      estate: peasant
+      size: 1000
 1138.10.28:
   owner: MAZ
   controller: MAZ

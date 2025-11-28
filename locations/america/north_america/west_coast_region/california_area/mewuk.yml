@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/2021 - Miwok.txt
 2.1.1:
   pop:
-    ethnicity: south_valley_yokut_culture
-    religion: iroquoian_totemism
-    estate: peasant
-    size: 1000
+    - ethnicity: south_valley_yokut_culture
+      religion: iroquoian_totemism
+      estate: peasant
+      size: 1000
 1817.1.1:
   owner: MEX
   controller: SPA
@@ -12,10 +12,10 @@
     MEX: yes
   resource: fur
   pop:
-    ethnicity: iberian_californian
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - ethnicity: iberian_californian
+      religion: catholic
+      estate: peasant
+      size: 1000
 1821.9.27:
   controller: MEX
   cores:
@@ -28,8 +28,8 @@
     MEX: no
     USA: yes
   pop:
-    ethnicity: british_californian
-    estate: peasant
-    size: 1000
+    - ethnicity: british_californian
+      estate: peasant
+      size: 1000
 1970.1.1:
   resource: electronics

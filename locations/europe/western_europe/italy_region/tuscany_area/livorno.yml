@@ -6,15 +6,15 @@
     ROM: yes
   resource: wine
   pop:
-    ethnicity: etruscan
-    religion: hellenism_religion
-    estate: peasant
-    size: 1000
+    - ethnicity: etruscan
+      religion: hellenism_religion
+      estate: peasant
+      size: 1000
 250.1.1:
   pop:
-    ethnicity: roman
-    estate: peasant
-    size: 1000
+    - ethnicity: roman
+      estate: peasant
+      size: 1000
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -23,9 +23,9 @@
     ROMW: yes
 420.1.1:
   pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+    - religion: chalcedonism
+      estate: peasant
+      size: 1000
 476.9.4:
   owner: ITA
   controller: ITA
@@ -53,9 +53,9 @@
     BYZ: no
     LOMB: yes
   pop:
-    ethnicity: tuscan
-    estate: peasant
-    size: 1000
+    - ethnicity: tuscan
+      estate: peasant
+      size: 1000
 774.1.1:
   owner: FRAN
   controller: FRAN
@@ -76,9 +76,9 @@
     TUS: yes
 867.1.1:
   pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - religion: catholic
+      estate: peasant
+      size: 1000
 1005.1.1:
   owner: PIS
   controller: PIS

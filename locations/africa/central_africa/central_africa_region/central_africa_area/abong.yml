@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/3102 - Maka.txt
 2.1.1:
   pop:
-    ethnicity: gbaya_culture
-    religion: bantu_religion
-    estate: peasant
-    size: 1000
+    - ethnicity: gbaya_culture
+      religion: bantu_religion
+      estate: peasant
+      size: 1000
 1888.1.1:
   owner: GER
   controller: GER
@@ -12,9 +12,9 @@
     GER: yes
   resource: ivory
   pop:
-    religion: lutheran
-    estate: peasant
-    size: 1000
+    - religion: lutheran
+      estate: peasant
+      size: 1000
 1919.6.28:
   owner: FRA
   controller: FRA

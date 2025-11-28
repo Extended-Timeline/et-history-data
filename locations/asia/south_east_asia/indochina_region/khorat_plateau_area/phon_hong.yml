@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/614 - Vientiane.txt
 2.1.1:
   pop:
-    ethnicity: khmu_culture
-    religion: bimoism
-    estate: peasant
-    size: 1000
+    - ethnicity: khmu_culture
+      religion: bimoism
+      estate: peasant
+      size: 1000
 550.1.1:
   owner: CHTB
   controller: CHTB
@@ -12,9 +12,9 @@
     CHTB: yes
   resource: grain
   pop:
-    religion: mahayana
-    estate: peasant
-    size: 1000
+    - religion: mahayana
+      estate: peasant
+      size: 1000
 880.1.1:
   owner: CAMB
   controller: CAMB
@@ -27,9 +27,9 @@
     CAMB: no
     CHTB: yes
   pop:
-    ethnicity: lao_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: lao_culture
+      estate: peasant
+      size: 1000
 1185.1.1:
   owner: CAMB
   controller: CAMB
@@ -48,9 +48,9 @@
     SUK: yes
 1290.1.1:
   pop:
-    religion: theravada
-    estate: peasant
-    size: 1000
+    - religion: theravada
+      estate: peasant
+      size: 1000
 1354.1.1:
   owner: LAXA
   controller: LAXA

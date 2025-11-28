@@ -7,10 +7,10 @@
     WEI0: yes
   resource: salt
   pop:
-    ethnicity: chahar
-    religion: sanjiao
-    estate: peasant
-    size: 1000
+    - ethnicity: chahar
+      religion: sanjiao
+      estate: peasant
+      size: 1000
 9.1.10:
   owner: XIN0
   controller: XIN0
@@ -105,9 +105,9 @@
     TANG: yes
 700.1.1:
   pop:
-    ethnicity: xibei
-    estate: peasant
-    size: 1000
+    - ethnicity: xibei
+      estate: peasant
+      size: 1000
 881.1.1:
   owner: TAGT
   controller: TAGT

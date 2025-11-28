@@ -1,38 +1,38 @@
 #imported from EU4 file: history/provinces/1095 - Falklands.txt
 2.1.1:
   pop:
-    ethnicity: uninhabited
-    estate: peasant
-    size: 1000
+    - ethnicity: uninhabited
+      estate: peasant
+      size: 1000
 1764.1.1:
   owner: FRA
   controller: FRA
   pop:
-    ethnicity: french
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - ethnicity: french
+      religion: catholic
+      estate: peasant
+      size: 1000
 1766.1.1:
   owner: GBR
   controller: GBR
   resource: fish
   pop:
-    ethnicity: english
-    religion: lutheran
-    estate: peasant
-    size: 1000
+    - ethnicity: english
+      religion: lutheran
+      estate: peasant
+      size: 1000
 1767.1.1:
   owner: SPA
   controller: SPA
   pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - religion: catholic
+      estate: peasant
+      size: 1000
 1770.1.1:
   pop:
-    ethnicity: iberian_la_platan
-    estate: peasant
-    size: 1000
+    - ethnicity: iberian_la_platan
+      estate: peasant
+      size: 1000
 1816.1.1:
   cores:
     ARGE: yes
@@ -48,9 +48,9 @@
     GBR: yes
 1845.7.1:
   pop:
-    ethnicity: british_la_platan
-    estate: peasant
-    size: 1000
+    - ethnicity: british_la_platan
+      estate: peasant
+      size: 1000
 1982.4.2:
   controller: ARGE
   cores:

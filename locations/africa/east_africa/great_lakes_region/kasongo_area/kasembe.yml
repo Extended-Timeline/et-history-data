@@ -1,15 +1,15 @@
 #imported from EU4 file: history/provinces/4050 - Zambia.txt
 2.1.1:
   pop:
-    ethnicity: twa_culture
-    religion: bantu_religion
-    estate: peasant
-    size: 1000
+    - ethnicity: twa_culture
+      religion: bantu_religion
+      estate: peasant
+      size: 1000
 300.1.1:
   pop:
-    ethnicity: bemba
-    estate: peasant
-    size: 1000
+    - ethnicity: bemba
+      estate: peasant
+      size: 1000
 1899.1.1:
   owner: GBR
   controller: GBR
@@ -18,9 +18,9 @@
   resource: grain
 1960.1.1:
   pop:
-    religion: lutheran
-    estate: peasant
-    size: 1000
+    - religion: lutheran
+      estate: peasant
+      size: 1000
 1964.10.24:
   owner: ZAMB
   controller: ZAMB

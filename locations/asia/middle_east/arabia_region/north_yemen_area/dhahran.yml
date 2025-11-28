@@ -6,10 +6,10 @@
     SABA: yes
   resource: cloth
   pop:
-    ethnicity: yemeni_culture
-    religion: south_arabian
-    estate: peasant
-    size: 1000
+    - ethnicity: yemeni_culture
+      religion: south_arabian
+      estate: peasant
+      size: 1000
 275.1.1:
   owner: HIMY
   controller: HIMY
@@ -45,9 +45,9 @@
   cores:
     RASH: yes
   pop:
-    religion: islam
-    estate: peasant
-    size: 1000
+    - religion: islam
+      estate: peasant
+      size: 1000
 661.7.28:
   owner: UMAY
   controller: UMAY
@@ -55,9 +55,9 @@
     RASH: no
     UMAY: yes
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 750.8.6:
   owner: ABBA
   controller: ABBA
@@ -66,9 +66,9 @@
     ABBA: yes
 755.1.1:
   pop:
-    religion: shia
-    estate: peasant
-    size: 1000
+    - religion: shia
+      estate: peasant
+      size: 1000
 847.1.1:
   owner: SANA
   controller: SANA
@@ -114,6 +114,6 @@
     SAUD: yes
 1940.1.1:
   pop:
-    ethnicity: hijazi_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: hijazi_culture
+      estate: peasant
+      size: 1000

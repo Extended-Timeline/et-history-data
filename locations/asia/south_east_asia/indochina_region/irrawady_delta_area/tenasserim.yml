@@ -6,10 +6,10 @@
     MON0: yes
   resource: chinaware
   pop:
-    ethnicity: mon_culture
-    religion: mahayana
-    estate: peasant
-    size: 1000
+    - ethnicity: mon_culture
+      religion: mahayana
+      estate: peasant
+      size: 1000
 150.1.1:
   owner: FUNA
   controller: FUNA
@@ -30,9 +30,9 @@
     PAGA: yes
 1120.1.1:
   pop:
-    religion: theravada
-    estate: peasant
-    size: 1000
+    - religion: theravada
+      estate: peasant
+      size: 1000
 1285.1.1:
   owner: SUK
   controller: SUK
@@ -88,9 +88,9 @@
     GBR: no
 1950.1.1:
   pop:
-    ethnicity: burmese_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: burmese_culture
+      estate: peasant
+      size: 1000
 1989.1.1:
   owner: MYAN
   controller: MYAN

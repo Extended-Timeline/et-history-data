@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/4895 - Batiscan.txt
 2.1.1:
   pop:
-    ethnicity: weskarini_culture
-    religion: iroquoian_totemism
-    estate: peasant
-    size: 1000
+    - ethnicity: weskarini_culture
+      religion: iroquoian_totemism
+      estate: peasant
+      size: 1000
 1820.1.1:
   owner: GBR
   controller: GBR
@@ -12,10 +12,10 @@
     GBR: yes
   resource: fur
   pop:
-    ethnicity: french_canadian
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - ethnicity: french_canadian
+      religion: catholic
+      estate: peasant
+      size: 1000
 1867.7.1:
   owner: CAN
   controller: CAN

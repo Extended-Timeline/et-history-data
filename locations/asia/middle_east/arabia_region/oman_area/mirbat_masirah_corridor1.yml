@@ -6,19 +6,19 @@
     AD00: yes
   resource: incense
   pop:
-    ethnicity: mehri_culture
-    religion: south_arabian
-    estate: peasant
-    size: 1000
+    - ethnicity: mehri_culture
+      religion: south_arabian
+      estate: peasant
+      size: 1000
 634.1.1:
   owner: RASH
   controller: RASH
   cores:
     RASH: yes
   pop:
-    religion: islam
-    estate: peasant
-    size: 1000
+    - religion: islam
+      estate: peasant
+      size: 1000
 661.7.28:
   owner: UMAY
   controller: UMAY
@@ -26,9 +26,9 @@
     RASH: no
     UMAY: yes
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 750.8.6:
   owner: ABBA
   controller: ABBA
@@ -74,7 +74,7 @@
     IRA: no
 1860.1.1:
   pop:
-    ethnicity: omani_culture
-    religion: ibadi
-    estate: peasant
-    size: 1000
+    - ethnicity: omani_culture
+      religion: ibadi
+      estate: peasant
+      size: 1000

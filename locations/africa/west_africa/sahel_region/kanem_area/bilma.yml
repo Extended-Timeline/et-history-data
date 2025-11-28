@@ -1,15 +1,15 @@
 #imported from EU4 file: history/provinces/2277 - Kawar.txt
 2.1.1:
   pop:
-    ethnicity: toubou_culture
-    religion: bantu_religion
-    estate: peasant
-    size: 1000
+    - ethnicity: toubou_culture
+      religion: bantu_religion
+      estate: peasant
+      size: 1000
 1150.1.1:
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 1230.1.1:
   owner: KBO
   controller: KBO
@@ -44,9 +44,9 @@
     FRA: yes
 1910.1.1:
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 1940.6.14:
   owner: VFRA
   controller: VFRA

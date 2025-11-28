@@ -6,10 +6,10 @@
     YILO: yes
   resource: naval_supplies
   pop:
-    ethnicity: jurchen_culture
-    religion: 
-    estate: peasant
-    size: 1000
+    - ethnicity: jurchen_culture
+      religion: 
+      estate: peasant
+      size: 1000
 500.1.1:
   owner: GOGU
   controller: GOGU
@@ -76,10 +76,10 @@
     SOVI: yes
 1970.1.1:
   pop:
-    ethnicity: muscovite
-    religion: orthodox
-    estate: peasant
-    size: 1000
+    - ethnicity: muscovite
+      religion: orthodox
+      estate: peasant
+      size: 1000
 1991.12.25:
   owner: RUS
   controller: RUS

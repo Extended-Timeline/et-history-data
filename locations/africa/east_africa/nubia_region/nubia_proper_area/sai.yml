@@ -6,16 +6,16 @@
     MERO: yes
   resource: livestock
   pop:
-    ethnicity: kushite
-    religion: egyptian
-    estate: peasant
-    size: 1000
+    - ethnicity: kushite
+      religion: egyptian
+      estate: peasant
+      size: 1000
 340.1.1:
   pop:
-    ethnicity: nubian_language
-    religion: bantu_religion
-    estate: peasant
-    size: 1000
+    - ethnicity: nubian_language
+      religion: bantu_religion
+      estate: peasant
+      size: 1000
 350.1.1:
   owner: MAK
   controller: MAK
@@ -24,9 +24,9 @@
     MAK: yes
 550.1.1:
   pop:
-    religion: miaphysite
-    estate: peasant
-    size: 1000
+    - religion: miaphysite
+      estate: peasant
+      size: 1000
 1276.1.1:
   owner: MAM
   controller: MAM
@@ -68,6 +68,6 @@
     EGY: no
 1960.1.1:
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000

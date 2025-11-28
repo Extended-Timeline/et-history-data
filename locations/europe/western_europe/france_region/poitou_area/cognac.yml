@@ -6,10 +6,10 @@
     ROM: yes
   resource: livestock
   pop:
-    ethnicity: gallian
-    religion: druidism
-    estate: peasant
-    size: 1000
+    - ethnicity: gallian
+      religion: druidism
+      estate: peasant
+      size: 1000
 260.1.1:
   cores:
     GALL: yes
@@ -25,9 +25,9 @@
     ROMW: yes
 400.1.1:
   pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+    - religion: chalcedonism
+      estate: peasant
+      size: 1000
 455.1.1:
   owner: VISG
   controller: VISG
@@ -41,9 +41,9 @@
     VISG: no
     FRAN: yes
   pop:
-    ethnicity: languedocien
-    estate: peasant
-    size: 1000
+    - ethnicity: languedocien
+      estate: peasant
+      size: 1000
 511.11.27:
   owner: SOIS
   controller: SOIS
@@ -112,9 +112,9 @@
     AQN: yes
 867.1.1:
   pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - religion: catholic
+      estate: peasant
+      size: 1000
 893.1.1:
   owner: AUV
   controller: AUV
@@ -143,9 +143,9 @@
     BER: yes
 1400.1.1:
   pop:
-    ethnicity: french
-    estate: peasant
-    size: 1000
+    - ethnicity: french
+      estate: peasant
+      size: 1000
 1404.1.1:
   owner: ORL
   controller: ORL

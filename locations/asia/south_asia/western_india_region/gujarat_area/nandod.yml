@@ -6,10 +6,10 @@
     WSAT: yes
   resource: dyes
   pop:
-    ethnicity: gujarati
-    religion: hindu
-    estate: peasant
-    size: 1000
+    - ethnicity: gujarati
+      religion: hindu
+      estate: peasant
+      size: 1000
 405.1.1:
   owner: GUPT
   controller: GUPT
@@ -24,9 +24,9 @@
     GUJ: yes
 520.1.1:
   pop:
-    religion: jain
-    estate: peasant
-    size: 1000
+    - religion: jain
+      estate: peasant
+      size: 1000
 776.1.1:
   owner: GURJ
   controller: GURJ
@@ -54,9 +54,9 @@
     GUJ: yes
 1180.1.1:
   pop:
-    religion: hindu
-    estate: peasant
-    size: 1000
+    - religion: hindu
+      estate: peasant
+      size: 1000
 1304.1.1:
   owner: DLH
   controller: DLH

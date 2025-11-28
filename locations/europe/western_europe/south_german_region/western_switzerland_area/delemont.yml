@@ -6,10 +6,10 @@
     ROM: yes
   resource: iron
   pop:
-    ethnicity: helvetian
-    religion: druidism
-    estate: peasant
-    size: 1000
+    - ethnicity: helvetian
+      religion: druidism
+      estate: peasant
+      size: 1000
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -22,18 +22,18 @@
   cores:
     ALEM: yes
   pop:
-    ethnicity: high_alemannic
-    religion: germanic
-    estate: peasant
-    size: 1000
+    - ethnicity: high_alemannic
+      religion: germanic
+      estate: peasant
+      size: 1000
 480.6.1:
   cores:
     ROMW: no
 620.1.1:
   pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+    - religion: chalcedonism
+      estate: peasant
+      size: 1000
 746.1.1:
   owner: FRAN
   controller: FRAN
@@ -54,9 +54,9 @@
     LOT: yes
 867.1.1:
   pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - religion: catholic
+      estate: peasant
+      size: 1000
 870.8.8:
   owner: EFRA
   controller: EFRA
@@ -77,9 +77,9 @@
     SWI: yes
 1528.1.1:
   pop:
-    religion: calvinist
-    estate: peasant
-    size: 1000
+    - religion: calvinist
+      estate: peasant
+      size: 1000
 1798.3.5:
   controller: FRA
 1798.4.12:

@@ -6,10 +6,10 @@
     CORD: yes
   resource: wool
   pop:
-    ethnicity: kurdish_culture
-    religion: ashurism
-    estate: peasant
-    size: 1000
+    - ethnicity: kurdish_culture
+      religion: ashurism
+      estate: peasant
+      size: 1000
 130.1.1:
   owner: ROM
   controller: ROM
@@ -29,9 +29,9 @@
     ROM: yes
 360.1.1:
   pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+    - religion: chalcedonism
+      estate: peasant
+      size: 1000
 384.1.1:
   owner: ARM
   controller: ARM
@@ -46,9 +46,9 @@
     ERA: yes
 431.7.1:
   pop:
-    religion: nestorianism
-    estate: peasant
-    size: 1000
+    - religion: nestorianism
+      estate: peasant
+      size: 1000
 637.1.1:
   owner: RASH
   controller: RASH
@@ -69,9 +69,9 @@
     ABBA: yes
 780.1.1:
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 911.1.1:
   owner: MOSU
   controller: MOSU

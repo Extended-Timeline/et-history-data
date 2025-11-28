@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/2855 - Misiones.txt
 2.1.1:
   pop:
-    ethnicity: ava_culture
-    religion: muisca_religion
-    estate: peasant
-    size: 1000
+    - ethnicity: ava_culture
+      religion: muisca_religion
+      estate: peasant
+      size: 1000
 1609.1.1:
   owner: GUAR
   controller: GUAR
@@ -12,23 +12,23 @@
     GUAR: yes
   resource: tea
   pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - religion: catholic
+      estate: peasant
+      size: 1000
 1756.2.1:
   owner: SPA
   controller: SPA
   cores:
     SPA: yes
   pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - religion: catholic
+      estate: peasant
+      size: 1000
 1770.1.1:
   pop:
-    ethnicity: iberian_la_platan
-    estate: peasant
-    size: 1000
+    - ethnicity: iberian_la_platan
+      estate: peasant
+      size: 1000
 1816.7.9:
   owner: ARGE
   controller: ARGE

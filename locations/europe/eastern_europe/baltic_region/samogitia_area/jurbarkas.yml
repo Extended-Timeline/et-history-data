@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/271 - Samogitia.txt
 2.1.1:
   pop:
-    ethnicity: aukstaitian
-    religion: romuva
-    estate: peasant
-    size: 1000
+    - ethnicity: aukstaitian
+      religion: romuva
+      estate: peasant
+      size: 1000
 550.1.1:
   owner: LIT
   controller: LIT
@@ -16,9 +16,9 @@
     TEU: yes
 1390.1.1:
   pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - religion: catholic
+      estate: peasant
+      size: 1000
 1398.1.1:
   owner: TEU
   controller: TEU

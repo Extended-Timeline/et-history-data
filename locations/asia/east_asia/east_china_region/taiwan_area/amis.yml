@@ -6,10 +6,10 @@
     AMIS: yes
   resource: fish
   pop:
-    ethnicity: formosan_culture
-    religion: bimoism
-    estate: peasant
-    size: 1000
+    - ethnicity: formosan_culture
+      religion: bimoism
+      estate: peasant
+      size: 1000
 1851.1.1:
   owner: QNG
   controller: QNG
@@ -18,10 +18,10 @@
     QNG: yes
 1860.1.1:
   pop:
-    ethnicity: taiwanese
-    religion: mahayana
-    estate: peasant
-    size: 1000
+    - ethnicity: taiwanese
+      religion: mahayana
+      estate: peasant
+      size: 1000
 1895.4.17:
   owner: JAP
   controller: JAP

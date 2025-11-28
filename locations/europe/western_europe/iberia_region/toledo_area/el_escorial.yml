@@ -6,15 +6,15 @@
     ROM: yes
   resource: cloth
   pop:
-    ethnicity: celtiberian
-    religion: druidism
-    estate: peasant
-    size: 1000
+    - ethnicity: celtiberian
+      religion: druidism
+      estate: peasant
+      size: 1000
 360.1.1:
   pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+    - religion: chalcedonism
+      estate: peasant
+      size: 1000
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -46,14 +46,14 @@
     ROMW: no
 470.1.1:
   pop:
-    religion: arianism
-    estate: peasant
-    size: 1000
+    - religion: arianism
+      estate: peasant
+      size: 1000
 570.1.1:
   pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+    - religion: chalcedonism
+      estate: peasant
+      size: 1000
 711.1.1:
   owner: UMAY
   controller: UMAY
@@ -68,14 +68,14 @@
     CRDB: yes
 780.1.1:
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 800.1.1:
   pop:
-    ethnicity: andalusi
-    estate: peasant
-    size: 1000
+    - ethnicity: andalusi
+      estate: peasant
+      size: 1000
 1011.1.1:
   owner: TOLE
   controller: TOLE
@@ -95,14 +95,14 @@
     TOLE: no
     CAS: yes
   pop:
-    ethnicity: castilian
-    estate: peasant
-    size: 1000
+    - ethnicity: castilian
+      estate: peasant
+      size: 1000
 1150.1.1:
   pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - religion: catholic
+      estate: peasant
+      size: 1000
 1516.1.23:
   owner: SPA
   controller: SPA

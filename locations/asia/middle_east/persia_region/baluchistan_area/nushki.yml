@@ -7,10 +7,10 @@
     SURE: yes
   resource: livestock
   pop:
-    ethnicity: baloch_culture
-    religion: zoroastrian
-    estate: peasant
-    size: 1000
+    - ethnicity: baloch_culture
+      religion: zoroastrian
+      estate: peasant
+      size: 1000
 20.1.1:
   owner: SURE
   controller: SURE
@@ -42,9 +42,9 @@
     UMAY: yes
 740.1.1:
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 750.8.6:
   owner: ABBA
   controller: ABBA

@@ -7,10 +7,10 @@
     PALM: yes
   resource: iron
   pop:
-    ethnicity: syriac_culture
-    religion: hellenism_religion
-    estate: peasant
-    size: 1000
+    - ethnicity: syriac_culture
+      religion: hellenism_religion
+      estate: peasant
+      size: 1000
 260.1.1:
   cores:
     PALM: yes
@@ -20,9 +20,9 @@
     PALM: no
 280.1.1:
   pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+    - religion: chalcedonism
+      estate: peasant
+      size: 1000
 395.1.17:
   owner: BYZ
   controller: BYZ
@@ -31,9 +31,9 @@
     BYZ: yes
 512.11.16:
   pop:
-    religion: miaphysite
-    estate: peasant
-    size: 1000
+    - religion: miaphysite
+      estate: peasant
+      size: 1000
 613.1.1:
   controller: ERA
 627.1.1:
@@ -52,10 +52,10 @@
     UMAY: yes
 706.1.1:
   pop:
-    ethnicity: levantine_culture
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - ethnicity: levantine_culture
+      religion: sunni
+      estate: peasant
+      size: 1000
 750.8.6:
   owner: ABBA
   controller: ABBA

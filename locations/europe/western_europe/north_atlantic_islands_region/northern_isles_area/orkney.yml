@@ -6,10 +6,10 @@
     LUGI: yes
   resource: fish
   pop:
-    ethnicity: highland
-    religion: druidism
-    estate: peasant
-    size: 1000
+    - ethnicity: highland
+      religion: druidism
+      estate: peasant
+      size: 1000
 250.1.1:
   owner: PICT
   controller: PICT
@@ -29,10 +29,10 @@
     VEST: yes
 865.1.1:
   pop:
-    ethnicity: norwegian
-    religion: norse
-    estate: peasant
-    size: 1000
+    - ethnicity: norwegian
+      religion: norse
+      estate: peasant
+      size: 1000
 875.1.1:
   owner: NOR
   controller: NOR
@@ -41,9 +41,9 @@
     NOR: yes
 995.1.1:
   pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - religion: catholic
+      estate: peasant
+      size: 1000
 1469.1.1:
   owner: SCO
   controller: SCO
@@ -51,14 +51,14 @@
     NOR: no
     SCO: yes
   pop:
-    ethnicity: scottish
-    estate: peasant
-    size: 1000
+    - ethnicity: scottish
+      estate: peasant
+      size: 1000
 1609.1.1:
   pop:
-    religion: calvinist
-    estate: peasant
-    size: 1000
+    - religion: calvinist
+      estate: peasant
+      size: 1000
 1650.4.27:
   controller: SCO
 1707.5.12:

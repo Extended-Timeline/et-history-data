@@ -6,15 +6,15 @@
     ROM: yes
   resource: wine
   pop:
-    ethnicity: iberi
-    religion: hellenism_religion
-    estate: peasant
-    size: 1000
+    - ethnicity: iberi
+      religion: hellenism_religion
+      estate: peasant
+      size: 1000
 360.1.1:
   pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+    - religion: chalcedonism
+      estate: peasant
+      size: 1000
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -36,14 +36,14 @@
     ROMW: no
     VISG: yes
   pop:
-    religion: arianism
-    estate: peasant
-    size: 1000
+    - religion: arianism
+      estate: peasant
+      size: 1000
 570.1.1:
   pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+    - religion: chalcedonism
+      estate: peasant
+      size: 1000
 711.1.1:
   owner: UMAY
   controller: UMAY
@@ -51,9 +51,9 @@
     VISG: no
     UMAY: yes
   pop:
-    ethnicity: catalan
-    estate: peasant
-    size: 1000
+    - ethnicity: catalan
+      estate: peasant
+      size: 1000
 750.8.6:
   owner: CRDB
   controller: CRDB
@@ -62,9 +62,9 @@
     CRDB: yes
 867.1.1:
   pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - religion: catholic
+      estate: peasant
+      size: 1000
 1010.1.1:
   owner: TORT
   controller: TORT

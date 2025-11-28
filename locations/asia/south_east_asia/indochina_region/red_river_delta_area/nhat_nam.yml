@@ -7,10 +7,10 @@
     DAI: yes
   resource: fish
   pop:
-    ethnicity: vietnamese_culture
-    religion: mahayana
-    estate: peasant
-    size: 1000
+    - ethnicity: vietnamese_culture
+      religion: mahayana
+      estate: peasant
+      size: 1000
 9.1.10:
   owner: XIN0
   controller: XIN0

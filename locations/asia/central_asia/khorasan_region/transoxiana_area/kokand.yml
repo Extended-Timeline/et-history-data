@@ -6,10 +6,10 @@
     KAGJ: yes
   resource: iron
   pop:
-    ethnicity: sogdian
-    religion: zoroastrian
-    estate: peasant
-    size: 1000
+    - ethnicity: sogdian
+      religion: zoroastrian
+      estate: peasant
+      size: 1000
 260.1.1:
   owner: WUSU
   controller: WUSU
@@ -47,9 +47,9 @@
     TURG: yes
 750.1.1:
   pop:
-    ethnicity: uzbek_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: uzbek_culture
+      estate: peasant
+      size: 1000
 766.1.1:
   owner: KARL
   controller: KARL
@@ -64,9 +64,9 @@
     KOKA: yes
 820.1.1:
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 892.8.1:
   owner: BUKH
   controller: BUKH

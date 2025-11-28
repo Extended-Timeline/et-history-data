@@ -6,10 +6,10 @@
     SUMP: yes
   resource: livestock
   pop:
-    ethnicity: amdowa_culture
-    religion: bon
-    estate: peasant
-    size: 1000
+    - ethnicity: amdowa_culture
+      religion: bon
+      estate: peasant
+      size: 1000
 600.1.1:
   owner: YARL
   controller: YARL
@@ -23,10 +23,10 @@
     TIB: yes
 630.1.1:
   pop:
-    ethnicity: utsang_culture
-    religion: tibetan_buddhism
-    estate: peasant
-    size: 1000
+    - ethnicity: utsang_culture
+      religion: tibetan_buddhism
+      estate: peasant
+      size: 1000
 842.1.1:
   owner: PHAG
   controller: PHAG

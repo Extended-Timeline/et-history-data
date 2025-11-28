@@ -6,10 +6,10 @@
     SIRA: yes
   resource: livestock
   pop:
-    ethnicity: alan_culture
-    religion: 
-    estate: peasant
-    size: 1000
+    - ethnicity: alan_culture
+      religion: 
+      estate: peasant
+      size: 1000
 200.1.1:
   owner: ALN
   controller: ALN
@@ -26,9 +26,9 @@
   cores:
     UTIG: yes
   pop:
-    ethnicity: bolghar_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: bolghar_culture
+      estate: peasant
+      size: 1000
 469.1.1:
   owner: UTIG
   controller: UTIG
@@ -47,9 +47,9 @@
     BUL: no
     KHAZ: yes
   pop:
-    ethnicity: khazar
-    estate: peasant
-    size: 1000
+    - ethnicity: khazar
+      estate: peasant
+      size: 1000
 1048.1.1:
   owner: PECH
   controller: PECH
@@ -64,9 +64,9 @@
     CUMA: yes
 1220.1.1:
   pop:
-    ethnicity: crimean
-    estate: peasant
-    size: 1000
+    - ethnicity: crimean
+      estate: peasant
+      size: 1000
 1237.1.1:
   owner: MGE
   controller: MGE
@@ -82,9 +82,9 @@
     WHHO: yes
 1300.1.1:
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 1372.1.1:
   owner: BLHO
   controller: BLHO
@@ -116,10 +116,10 @@
     RUS: yes
 1780.1.1:
   pop:
-    ethnicity: muscovite
-    religion: orthodox
-    estate: peasant
-    size: 1000
+    - ethnicity: muscovite
+      religion: orthodox
+      estate: peasant
+      size: 1000
 1918.2.20:
   owner: UKR
   controller: UKR

@@ -6,10 +6,10 @@
     ISL: yes
   resource: salt
   pop:
-    ethnicity: ancestral_pueblo_culture
-    religion: iroquoian_totemism
-    estate: peasant
-    size: 1000
+    - ethnicity: ancestral_pueblo_culture
+      religion: iroquoian_totemism
+      estate: peasant
+      size: 1000
 1598.1.1:
   owner: SPA
   controller: SPA
@@ -24,15 +24,15 @@
   cores:
     TST: no
   pop:
-    ethnicity: castilian
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - ethnicity: castilian
+      religion: catholic
+      estate: peasant
+      size: 1000
 1770.1.1:
   pop:
-    ethnicity: mexican
-    estate: peasant
-    size: 1000
+    - ethnicity: mexican
+      estate: peasant
+      size: 1000
 1810.9.16:
   owner: MEX
   controller: SPA
@@ -48,9 +48,9 @@
   cores:
     TEXA: yes
   pop:
-    ethnicity: british_louisianan
-    estate: peasant
-    size: 1000
+    - ethnicity: british_louisianan
+      estate: peasant
+      size: 1000
 1845.12.29:
   owner: USA
   controller: USA
@@ -65,6 +65,6 @@
   controller: USA
 1900.1.1:
   pop:
-    ethnicity: british_californian
-    estate: peasant
-    size: 1000
+    - ethnicity: british_californian
+      estate: peasant
+      size: 1000

@@ -6,10 +6,10 @@
     SATA: yes
   resource: iron
   pop:
-    ethnicity: telugu
-    religion: hindu
-    estate: peasant
-    size: 1000
+    - ethnicity: telugu
+      religion: hindu
+      estate: peasant
+      size: 1000
 220.1.1:
   owner: CHOL
   controller: CHOL
@@ -24,14 +24,14 @@
     PALL: yes
 590.1.1:
   pop:
-    religion: jain
-    estate: peasant
-    size: 1000
+    - religion: jain
+      estate: peasant
+      size: 1000
 620.1.1:
   pop:
-    religion: hindu
-    estate: peasant
-    size: 1000
+    - religion: hindu
+      estate: peasant
+      size: 1000
 897.1.1:
   owner: CHOL
   controller: CHOL

@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/618 - Aru.txt
 2.1.1:
   pop:
-    ethnicity: batak_culture
-    religion: mahayana
-    estate: peasant
-    size: 1000
+    - ethnicity: batak_culture
+      religion: mahayana
+      estate: peasant
+      size: 1000
 600.1.1:
   owner: PANI
   controller: PANI
@@ -30,9 +30,9 @@
     DELI: yes
 1250.1.1:
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 1471.1.1:
   cores:
     ATJ: yes

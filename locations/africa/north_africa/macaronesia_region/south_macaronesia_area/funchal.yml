@@ -1,19 +1,19 @@
 #imported from EU4 file: history/provinces/368 - Madeira.txt
 2.1.1:
   pop:
-    ethnicity: uninhabited
-    religion: bimoism
-    estate: peasant
-    size: 1000
+    - ethnicity: uninhabited
+      religion: bimoism
+      estate: peasant
+      size: 1000
 1420.1.1:
   owner: POR
   controller: POR
   cores:
     POR: yes
   pop:
-    ethnicity: portuguese
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - ethnicity: portuguese
+      religion: catholic
+      estate: peasant
+      size: 1000
 1425.1.1:
   resource: sugar

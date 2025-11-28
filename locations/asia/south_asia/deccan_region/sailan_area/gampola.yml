@@ -6,10 +6,10 @@
     MAYR: yes
   resource: gems
   pop:
-    ethnicity: sinhalese
-    religion: theravada
-    estate: peasant
-    size: 1000
+    - ethnicity: sinhalese
+      religion: theravada
+      estate: peasant
+      size: 1000
 1017.1.1:
   owner: CHOL
   controller: CHOL

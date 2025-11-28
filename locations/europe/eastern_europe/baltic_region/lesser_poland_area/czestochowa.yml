@@ -6,10 +6,10 @@
     VAND: yes
   resource: cloth
   pop:
-    ethnicity: vandal
-    religion: germanic
-    estate: peasant
-    size: 1000
+    - ethnicity: vandal
+      religion: germanic
+      estate: peasant
+      size: 1000
 395.1.1:
   owner: NAHA
   controller: NAHA
@@ -23,10 +23,10 @@
     NAHA: no
     VIST: yes
   pop:
-    ethnicity: lesser_polish
-    religion: slavic
-    estate: peasant
-    size: 1000
+    - ethnicity: lesser_polish
+      religion: slavic
+      estate: peasant
+      size: 1000
 550.1.1:
   owner: POL
   controller: POL
@@ -34,9 +34,9 @@
     POL: yes
 966.1.1:
   pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - religion: catholic
+      estate: peasant
+      size: 1000
 1249.1.1:
   owner: GPOL
   controller: GPOL

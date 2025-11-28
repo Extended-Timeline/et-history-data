@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/29 - Tavastland.txt
 2.1.1:
   pop:
-    ethnicity: finnish
-    religion: muinaisusko
-    estate: peasant
-    size: 1000
+    - ethnicity: finnish
+      religion: muinaisusko
+      estate: peasant
+      size: 1000
 750.1.1:
   owner: TAV
   controller: TAV
@@ -19,14 +19,14 @@
     SWE: yes
     FIN: yes
   pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - religion: catholic
+      estate: peasant
+      size: 1000
 1527.6.1:
   pop:
-    religion: lutheran
-    estate: peasant
-    size: 1000
+    - religion: lutheran
+      estate: peasant
+      size: 1000
 1598.8.1:
   controller: PLC
 1599.7.15:

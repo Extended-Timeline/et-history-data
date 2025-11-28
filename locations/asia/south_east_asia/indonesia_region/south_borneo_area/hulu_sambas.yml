@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/640 - Pontianak.txt
 2.1.1:
   pop:
-    ethnicity: bidayuh_culture
-    religion: hindu
-    estate: peasant
-    size: 1000
+    - ethnicity: bidayuh_culture
+      religion: hindu
+      estate: peasant
+      size: 1000
 600.1.1:
   owner: SMB
   controller: SMB
@@ -13,9 +13,9 @@
   resource: fish
 1671.1.1:
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 1819.1.1:
   owner: NED
   controller: NED

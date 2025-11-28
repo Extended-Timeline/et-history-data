@@ -6,10 +6,10 @@
     SAX: yes
   resource: naval_supplies
   pop:
-    ethnicity: lower_saxon
-    religion: germanic
-    estate: peasant
-    size: 1000
+    - ethnicity: lower_saxon
+      religion: germanic
+      estate: peasant
+      size: 1000
 670.1.1:
   owner: OBOT
   controller: OBOT
@@ -17,15 +17,15 @@
     SAX: no
     OBOT: yes
   pop:
-    ethnicity: polabian
-    religion: slavic
-    estate: peasant
-    size: 1000
+    - ethnicity: polabian
+      religion: slavic
+      estate: peasant
+      size: 1000
 1140.1.1:
   pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - religion: catholic
+      estate: peasant
+      size: 1000
 1143.1.1:
   owner: HOLS
   controller: HOLS
@@ -34,9 +34,9 @@
     HOLS: yes
 1150.1.1:
   pop:
-    ethnicity: lower_saxon
-    estate: peasant
-    size: 1000
+    - ethnicity: lower_saxon
+      estate: peasant
+      size: 1000
 1158.1.1:
   owner: SAX
   controller: SAX
@@ -68,9 +68,9 @@
     DAN: no
 1531.1.1:
   pop:
-    religion: lutheran
-    estate: peasant
-    size: 1000
+    - religion: lutheran
+      estate: peasant
+      size: 1000
 1810.12.13:
   owner: FRA
   controller: FRA

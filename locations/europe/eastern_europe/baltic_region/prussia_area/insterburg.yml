@@ -6,10 +6,10 @@
     PRUS: yes
   resource: naval_supplies
   pop:
-    ethnicity: pruthenian
-    religion: romuva
-    estate: peasant
-    size: 1000
+    - ethnicity: pruthenian
+      religion: romuva
+      estate: peasant
+      size: 1000
 1274.1.1:
   owner: TEU
   controller: TEU
@@ -17,10 +17,10 @@
     TEU: yes
 1283.1.1:
   pop:
-    ethnicity: prussian
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - ethnicity: prussian
+      religion: catholic
+      estate: peasant
+      size: 1000
 1300.1.1:
   cores:
     PRUS: no
@@ -38,9 +38,9 @@
     TEU: no
     POL: no
   pop:
-    religion: lutheran
-    estate: peasant
-    size: 1000
+    - religion: lutheran
+      estate: peasant
+      size: 1000
 1618.8.28:
   owner: BRA
   controller: BRA
@@ -75,10 +75,10 @@
     SOVI: yes
 1946.3.19:
   pop:
-    ethnicity: muscovite
-    religion: orthodox
-    estate: peasant
-    size: 1000
+    - ethnicity: muscovite
+      religion: orthodox
+      estate: peasant
+      size: 1000
 1991.12.25:
   owner: RUS
   controller: RUS

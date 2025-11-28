@@ -6,10 +6,10 @@
     KAGJ: yes
   resource: iron
   pop:
-    ethnicity: sogdian
-    religion: 
-    estate: peasant
-    size: 1000
+    - ethnicity: sogdian
+      religion: 
+      estate: peasant
+      size: 1000
 260.1.1:
   owner: WUSU
   controller: WUSU
@@ -53,9 +53,9 @@
     KARL: no
     KKHA: yes
   pop:
-    ethnicity: khitan
-    estate: peasant
-    size: 1000
+    - ethnicity: khitan
+      estate: peasant
+      size: 1000
 1060.1.1:
   owner: TRAN
   controller: TRAN
@@ -64,9 +64,9 @@
     TRAN: yes
 1100.1.1:
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 1211.1.1:
   owner: KKHI
   controller: KKHI
@@ -79,9 +79,9 @@
     KKHI: no
     MGE: yes
   pop:
-    ethnicity: kyrgyz_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: kyrgyz_culture
+      estate: peasant
+      size: 1000
 1260.1.1:
   owner: CHG
   controller: CHG
@@ -138,9 +138,9 @@
     KOKA: no
     KYRG: yes
   pop:
-    ethnicity: kyrgyz_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: kyrgyz_culture
+      estate: peasant
+      size: 1000
 1991.8.31:
   owner: KYRG
   controller: KYRG

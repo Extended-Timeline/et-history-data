@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/2509 - Utsetha.txt
 2.1.1:
   pop:
-    ethnicity: kitikitish_culture
-    religion: iroquoian_totemism
-    estate: peasant
-    size: 1000
+    - ethnicity: kitikitish_culture
+      religion: iroquoian_totemism
+      estate: peasant
+      size: 1000
 1829.1.1:
   owner: USA
   controller: USA
@@ -12,7 +12,7 @@
     USA: yes
   resource: grain
   pop:
-    ethnicity: american
-    religion: lutheran
-    estate: peasant
-    size: 1000
+    - ethnicity: american
+      religion: lutheran
+      estate: peasant
+      size: 1000

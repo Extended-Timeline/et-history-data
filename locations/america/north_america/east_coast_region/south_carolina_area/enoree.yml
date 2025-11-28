@@ -1,15 +1,15 @@
 #imported from EU4 file: history/provinces/4882 - Etali.txt
 2.1.1:
   pop:
-    ethnicity: catawba_culture
-    religion: iroquoian_totemism
-    estate: peasant
-    size: 1000
+    - ethnicity: catawba_culture
+      religion: iroquoian_totemism
+      estate: peasant
+      size: 1000
 1000.1.1:
   pop:
-    ethnicity: cherokee_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: cherokee_culture
+      estate: peasant
+      size: 1000
 1610.1.1:
   owner: CHRK
   controller: CHRK
@@ -22,10 +22,10 @@
   cores:
     USA: yes
   pop:
-    ethnicity: british_louisianan
-    religion: lutheran
-    estate: peasant
-    size: 1000
+    - ethnicity: british_louisianan
+      religion: lutheran
+      estate: peasant
+      size: 1000
 1860.12.20:
   owner: CSAM
   controller: CSAM

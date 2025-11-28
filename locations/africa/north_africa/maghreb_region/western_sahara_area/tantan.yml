@@ -6,10 +6,10 @@
     SOS: yes
   resource: fish
   pop:
-    ethnicity: masmuda
-    religion: bantu_religion
-    estate: peasant
-    size: 1000
+    - ethnicity: masmuda
+      religion: bantu_religion
+      estate: peasant
+      size: 1000
 789.1.1:
   owner: MOR
   controller: MOR
@@ -18,10 +18,10 @@
     MOR: yes
 860.1.1:
   pop:
-    ethnicity: moroccan
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - ethnicity: moroccan
+      religion: sunni
+      estate: peasant
+      size: 1000
 922.1.1:
   owner: FATI
   controller: FATI

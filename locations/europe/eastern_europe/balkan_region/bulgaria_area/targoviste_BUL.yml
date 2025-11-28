@@ -6,15 +6,15 @@
     ROM: yes
   resource: fish
   pop:
-    ethnicity: thracian
-    religion: zamolxism
-    estate: peasant
-    size: 1000
+    - ethnicity: thracian
+      religion: zamolxism
+      estate: peasant
+      size: 1000
 388.1.1:
   pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+    - religion: chalcedonism
+      estate: peasant
+      size: 1000
 395.1.17:
   owner: BYZ
   controller: BYZ
@@ -27,19 +27,19 @@
   cores:
     BUL: yes
   pop:
-    ethnicity: bolghar_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: bolghar_culture
+      estate: peasant
+      size: 1000
 864.1.1:
   pop:
-    ethnicity: bulgarian
-    estate: peasant
-    size: 1000
+    - ethnicity: bulgarian
+      estate: peasant
+      size: 1000
 867.1.1:
   pop:
-    religion: orthodox
-    estate: peasant
-    size: 1000
+    - religion: orthodox
+      estate: peasant
+      size: 1000
 969.1.1:
   controller: KIEV
 971.1.1:

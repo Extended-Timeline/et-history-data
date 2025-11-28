@@ -6,10 +6,10 @@
     VEND: yes
   resource: wool
   pop:
-    ethnicity: lesser_polish
-    religion: slavic
-    estate: peasant
-    size: 1000
+    - ethnicity: lesser_polish
+      religion: slavic
+      estate: peasant
+      size: 1000
 150.1.1:
   owner: GOTH
   controller: GOTH
@@ -17,10 +17,10 @@
     VEND: no
     GOTH: yes
   pop:
-    ethnicity: gothic
-    religion: germanic
-    estate: peasant
-    size: 1000
+    - ethnicity: gothic
+      religion: germanic
+      estate: peasant
+      size: 1000
 220.1.1:
   owner: VEND
   controller: VEND
@@ -28,10 +28,10 @@
     GOTH: no
     VEND: yes
   pop:
-    ethnicity: lesser_polish
-    religion: slavic
-    estate: peasant
-    size: 1000
+    - ethnicity: lesser_polish
+      religion: slavic
+      estate: peasant
+      size: 1000
 550.1.1:
   owner: LEDN
   controller: LEDN
@@ -67,9 +67,9 @@
     KIEV: yes
 1050.1.1:
   pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - religion: catholic
+      estate: peasant
+      size: 1000
 1054.2.20:
   owner: HAL
   controller: HAL
@@ -89,9 +89,9 @@
     PLC: yes
 1570.1.1:
   pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - religion: catholic
+      estate: peasant
+      size: 1000
 1657.7.1:
   controller: SWE
 1660.1.1:

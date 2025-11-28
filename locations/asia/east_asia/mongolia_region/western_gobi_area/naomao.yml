@@ -6,10 +6,10 @@
     XION: yes
   resource: livestock
   pop:
-    ethnicity: tocharian
-    religion: 
-    estate: peasant
-    size: 1000
+    - ethnicity: tocharian
+      religion: 
+      estate: peasant
+      size: 1000
 91.2.1:
   owner: XIAN
   controller: XIAN
@@ -24,9 +24,9 @@
     ROUR: yes
 360.1.1:
   pop:
-    ethnicity: uyghur_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: uyghur_culture
+      estate: peasant
+      size: 1000
 547.1.1:
   owner: GOKT
   controller: GOKT
@@ -69,9 +69,9 @@
     MGE: yes
 1250.1.1:
   pop:
-    ethnicity: oirat_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: oirat_culture
+      estate: peasant
+      size: 1000
 1271.1.1:
   owner: YUA
   controller: YUA
@@ -110,9 +110,9 @@
     QNG: yes
 1755.1.1:
   pop:
-    ethnicity: uyghur_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: uyghur_culture
+      estate: peasant
+      size: 1000
 1862.4.1:
   cores:
     UYGH: yes

@@ -6,10 +6,10 @@
     SARM: yes
   resource: livestock
   pop:
-    ethnicity: sarmatian
-    religion: 
-    estate: peasant
-    size: 1000
+    - ethnicity: sarmatian
+      religion: 
+      estate: peasant
+      size: 1000
 370.1.1:
   owner: HUNS
   controller: HUNS
@@ -17,16 +17,16 @@
     SARM: no
     HUNS: yes
   pop:
-    ethnicity: hunnic
-    estate: peasant
-    size: 1000
+    - ethnicity: hunnic
+      estate: peasant
+      size: 1000
 420.1.1:
   cores:
     ONOG: yes
   pop:
-    ethnicity: bolghar_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: bolghar_culture
+      estate: peasant
+      size: 1000
 469.1.1:
   owner: ONOG
   controller: ONOG
@@ -45,9 +45,9 @@
     BUL: no
     KHAZ: yes
   pop:
-    ethnicity: khazar
-    estate: peasant
-    size: 1000
+    - ethnicity: khazar
+      estate: peasant
+      size: 1000
 969.1.1:
   owner: PECH
   controller: PECH
@@ -55,9 +55,9 @@
     KHAZ: no
     PECH: yes
   pop:
-    ethnicity: cuman_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: cuman_culture
+      estate: peasant
+      size: 1000
 1055.1.1:
   owner: CUMA
   controller: CUMA
@@ -73,14 +73,14 @@
     MGE: yes
     GLH: yes
   pop:
-    ethnicity: mishar
-    estate: peasant
-    size: 1000
+    - ethnicity: mishar
+      estate: peasant
+      size: 1000
 1250.1.1:
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 1260.1.1:
   owner: WHHO
   controller: WHHO
@@ -122,10 +122,10 @@
     RUS: yes
 1570.1.1:
   pop:
-    ethnicity: muscovite
-    religion: orthodox
-    estate: peasant
-    size: 1000
+    - ethnicity: muscovite
+      religion: orthodox
+      estate: peasant
+      size: 1000
 1671.4.14:
   controller: RUS
 1775.2.1:
@@ -145,9 +145,9 @@
   controller: SOVI
 1945.1.1:
   pop:
-    ethnicity: muscovite
-    estate: peasant
-    size: 1000
+    - ethnicity: muscovite
+      estate: peasant
+      size: 1000
 1991.12.25:
   owner: RUS
   controller: RUS

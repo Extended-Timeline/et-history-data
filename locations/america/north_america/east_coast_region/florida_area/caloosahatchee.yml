@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/2535 - Calusa.txt
 2.1.1:
   pop:
-    ethnicity: yamasee_culture
-    religion: iroquoian_totemism
-    estate: peasant
-    size: 1000
+    - ethnicity: yamasee_culture
+      religion: iroquoian_totemism
+      estate: peasant
+      size: 1000
 1823.1.1:
   owner: USA
   controller: USA
@@ -12,15 +12,15 @@
     USA: yes
   resource: fish
   pop:
-    ethnicity: british_louisianan
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - ethnicity: british_louisianan
+      religion: catholic
+      estate: peasant
+      size: 1000
 1830.1.1:
   pop:
-    religion: lutheran
-    estate: peasant
-    size: 1000
+    - religion: lutheran
+      estate: peasant
+      size: 1000
 1861.1.10:
   owner: CSAM
   controller: CSAM

@@ -6,10 +6,10 @@
     ANU: yes
   resource: livestock
   pop:
-    ethnicity: ainu_culture
-    religion: mari_paganism
-    estate: peasant
-    size: 1000
+    - ethnicity: ainu_culture
+      religion: mari_paganism
+      estate: peasant
+      size: 1000
 650.1.1:
   owner: EMIS
   controller: EMIS
@@ -17,9 +17,9 @@
     ANU: no
     EMIS: yes
   pop:
-    ethnicity: emishi
-    estate: peasant
-    size: 1000
+    - ethnicity: emishi
+      estate: peasant
+      size: 1000
 802.1.1:
   owner: JAP
   controller: JAP
@@ -28,9 +28,9 @@
     JAP: yes
 820.1.1:
   pop:
-    religion: shinto
-    estate: peasant
-    size: 1000
+    - religion: shinto
+      estate: peasant
+      size: 1000
 940.1.1:
   owner: ABE0
   controller: ABE0
@@ -39,9 +39,9 @@
     ABE0: yes
 1050.1.1:
   pop:
-    ethnicity: saigoku_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: saigoku_culture
+      estate: peasant
+      size: 1000
 1062.10.22:
   owner: KIYO
   controller: KIYO

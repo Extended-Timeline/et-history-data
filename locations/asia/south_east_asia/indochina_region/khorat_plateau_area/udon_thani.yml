@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/2385 - Nongbua Lamphu.txt
 2.1.1:
   pop:
-    ethnicity: bru_culture
-    religion: bimoism
-    estate: peasant
-    size: 1000
+    - ethnicity: bru_culture
+      religion: bimoism
+      estate: peasant
+      size: 1000
 550.1.1:
   owner: CHTB
   controller: CHTB
@@ -13,9 +13,9 @@
   resource: grain
 650.1.1:
   pop:
-    religion: mahayana
-    estate: peasant
-    size: 1000
+    - religion: mahayana
+      estate: peasant
+      size: 1000
 880.1.1:
   owner: CAMB
   controller: CAMB
@@ -23,9 +23,9 @@
     CAMB: yes
 950.1.1:
   pop:
-    ethnicity: khmer_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: khmer_culture
+      estate: peasant
+      size: 1000
 1050.1.1:
   owner: CHTB
   controller: CHTB
@@ -33,9 +33,9 @@
     CAMB: no
     CHTB: yes
   pop:
-    ethnicity: lao_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: lao_culture
+      estate: peasant
+      size: 1000
 1185.1.1:
   owner: CAMB
   controller: CAMB
@@ -54,9 +54,9 @@
     SUK: yes
 1290.1.1:
   pop:
-    religion: theravada
-    estate: peasant
-    size: 1000
+    - religion: theravada
+      estate: peasant
+      size: 1000
 1354.1.1:
   owner: LAXA
   controller: LAXA

@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/1211 - Harer.txt
 2.1.1:
   pop:
-    ethnicity: harla_culture
-    religion: bantu_religion
-    estate: peasant
-    size: 1000
+    - ethnicity: harla_culture
+      religion: bantu_religion
+      estate: peasant
+      size: 1000
 500.1.1:
   owner: HRL
   controller: HRL
@@ -13,9 +13,9 @@
   resource: coffee
 900.1.1:
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 1190.1.1:
   owner: IFA
   controller: IFA

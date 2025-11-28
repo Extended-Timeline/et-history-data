@@ -2,10 +2,10 @@
 2.1.1:
   resource: fur
   pop:
-    ethnicity: karelian
-    religion: muinaisusko
-    estate: peasant
-    size: 1000
+    - ethnicity: karelian
+      religion: muinaisusko
+      estate: peasant
+      size: 1000
 750.1.1:
   owner: KRL
   controller: KRL
@@ -20,14 +20,14 @@
     NOV: yes
 1160.1.1:
   pop:
-    ethnicity: novgorodian
-    estate: peasant
-    size: 1000
+    - ethnicity: novgorodian
+      estate: peasant
+      size: 1000
 1200.1.1:
   pop:
-    religion: orthodox
-    estate: peasant
-    size: 1000
+    - religion: orthodox
+      estate: peasant
+      size: 1000
 1478.1.15:
   owner: MOS
   controller: MOS

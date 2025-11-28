@@ -6,10 +6,10 @@
     GARA: yes
   resource: livestock
   pop:
-    ethnicity: eastern_amazigh
-    religion: bantu_religion
-    estate: peasant
-    size: 1000
+    - ethnicity: eastern_amazigh
+      religion: bantu_religion
+      estate: peasant
+      size: 1000
 660.1.1:
   owner: FZA
   controller: FZA
@@ -18,15 +18,15 @@
     FZA: yes
 850.1.1:
   pop:
-    religion: ibadi
-    estate: peasant
-    size: 1000
+    - religion: ibadi
+      estate: peasant
+      size: 1000
 1070.1.1:
   pop:
-    ethnicity: tunisian
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - ethnicity: tunisian
+      religion: sunni
+      estate: peasant
+      size: 1000
 1173.1.1:
   owner: MAM
   controller: MAM

@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/312 - Vologda.txt
 2.1.1:
   pop:
-    ethnicity: vepsian
-    religion: muinaisusko
-    estate: peasant
-    size: 1000
+    - ethnicity: vepsian
+      religion: muinaisusko
+      estate: peasant
+      size: 1000
 750.1.1:
   owner: VEPS
   controller: VEPS
@@ -19,10 +19,10 @@
     VLR: yes
 1200.1.1:
   pop:
-    ethnicity: novgorodian
-    religion: orthodox
-    estate: peasant
-    size: 1000
+    - ethnicity: novgorodian
+      religion: orthodox
+      estate: peasant
+      size: 1000
 1238.1.1:
   owner: BLO
   controller: BLO

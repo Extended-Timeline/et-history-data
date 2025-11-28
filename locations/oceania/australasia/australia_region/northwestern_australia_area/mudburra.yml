@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/3053 - Mudburra.txt
 2.1.1:
   pop:
-    ethnicity: mayi_culture
-    religion: dreamtime_religion
-    estate: peasant
-    size: 1000
+    - ethnicity: mayi_culture
+      religion: dreamtime_religion
+      estate: peasant
+      size: 1000
 1872.1.1:
   owner: GBR
   controller: GBR
@@ -12,9 +12,9 @@
     GBR: yes
   resource: grain
   pop:
-    religion: lutheran
-    estate: peasant
-    size: 1000
+    - religion: lutheran
+      estate: peasant
+      size: 1000
 1901.1.1:
   owner: AUST
   controller: AUST

@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/2730 - Kurtjar.txt
 2.1.1:
   pop:
-    ethnicity: mayi_culture
-    religion: dreamtime_religion
-    estate: peasant
-    size: 1000
+    - ethnicity: mayi_culture
+      religion: dreamtime_religion
+      estate: peasant
+      size: 1000
 1200.1.1:
   owner: AWNG
   controller: AWNG
@@ -17,10 +17,10 @@
   cores:
     GBR: yes
   pop:
-    ethnicity: british_australian
-    religion: lutheran
-    estate: peasant
-    size: 1000
+    - ethnicity: british_australian
+      religion: lutheran
+      estate: peasant
+      size: 1000
 1901.1.1:
   owner: AUST
   controller: AUST

@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/2707 - Barito.txt
 2.1.1:
   pop:
-    ethnicity: bidayuh_culture
-    religion: bimoism
-    estate: peasant
-    size: 1000
+    - ethnicity: bidayuh_culture
+      religion: bimoism
+      estate: peasant
+      size: 1000
 1620.1.1:
   owner: BANJ
   controller: BANJ
@@ -12,9 +12,9 @@
     BANJ: yes
   resource: spices
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 1860.1.1:
   owner: NED
   controller: NED

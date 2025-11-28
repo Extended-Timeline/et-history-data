@@ -1,15 +1,15 @@
 #imported from EU4 file: history/provinces/4034 - Mukua.txt
 2.1.1:
   pop:
-    ethnicity: zembere
-    religion: bantu_religion
-    estate: peasant
-    size: 1000
+    - ethnicity: zembere
+      religion: bantu_religion
+      estate: peasant
+      size: 1000
 300.1.1:
   pop:
-    ethnicity: makhuwa_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: makhuwa_culture
+      estate: peasant
+      size: 1000
 1350.1.1:
   owner: MKU
   controller: MKU
@@ -32,9 +32,9 @@
   cores:
     POR: yes
   pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - religion: catholic
+      estate: peasant
+      size: 1000
 1975.6.25:
   owner: MOZA
   controller: MOZA

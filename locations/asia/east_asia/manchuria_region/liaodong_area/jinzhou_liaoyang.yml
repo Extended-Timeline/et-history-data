@@ -7,10 +7,10 @@
     WEI0: yes
   resource: grain
   pop:
-    ethnicity: yan_culture
-    religion: sanjiao
-    estate: peasant
-    size: 1000
+    - ethnicity: yan_culture
+      religion: sanjiao
+      estate: peasant
+      size: 1000
 9.1.10:
   owner: XIN0
   controller: XIN0
@@ -155,9 +155,9 @@
     MNG: no
 1840.1.1:
   pop:
-    ethnicity: manchu_new
-    estate: peasant
-    size: 1000
+    - ethnicity: manchu_new
+      estate: peasant
+      size: 1000
 1912.2.12:
   owner: CHI
   controller: CHI

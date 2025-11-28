@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/2941 - Caracara.txt
 2.1.1:
   pop:
-    ethnicity: aimara_culture
-    religion: inti
-    estate: peasant
-    size: 1000
+    - ethnicity: aimara_culture
+      religion: inti
+      estate: peasant
+      size: 1000
 1200.1.1:
   owner: CRA
   controller: CRA
@@ -22,9 +22,9 @@
   cores:
     SPA: yes
   pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - religion: catholic
+      estate: peasant
+      size: 1000
 1825.8.6:
   owner: BOLI
   controller: BOLI

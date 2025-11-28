@@ -6,15 +6,15 @@
     SHUL: yes
   resource: wool
   pop:
-    ethnicity: saka
-    religion: mahayana
-    estate: peasant
-    size: 1000
+    - ethnicity: saka
+      religion: mahayana
+      estate: peasant
+      size: 1000
 200.1.1:
   pop:
-    religion: mahayana
-    estate: peasant
-    size: 1000
+    - religion: mahayana
+      estate: peasant
+      size: 1000
 440.1.1:
   owner: HEPH
   controller: HEPH
@@ -45,9 +45,9 @@
     TANG: yes
 750.1.1:
   pop:
-    religion: manichaeism
-    estate: peasant
-    size: 1000
+    - religion: manichaeism
+      estate: peasant
+      size: 1000
 763.1.1:
   owner: TIB
   controller: TIB
@@ -56,9 +56,9 @@
     TIB: yes
 830.1.1:
   pop:
-    ethnicity: uyghur_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: uyghur_culture
+      estate: peasant
+      size: 1000
 840.1.1:
   owner: KKHA
   controller: KKHA
@@ -66,9 +66,9 @@
     TIB: no
     KKHA: yes
   pop:
-    religion: 
-    estate: peasant
-    size: 1000
+    - religion: 
+      estate: peasant
+      size: 1000
 1211.1.1:
   owner: KKHI
   controller: KKHI
@@ -95,9 +95,9 @@
     MOGH: yes
 1350.1.1:
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 1389.1.1:
   owner: YARK
   controller: YARK

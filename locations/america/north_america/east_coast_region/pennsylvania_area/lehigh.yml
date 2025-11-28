@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/955 - Susquehanna.txt
 2.1.1:
   pop:
-    ethnicity: carantouan_culture
-    religion: iroquoian_totemism
-    estate: peasant
-    size: 1000
+    - ethnicity: carantouan_culture
+      religion: iroquoian_totemism
+      estate: peasant
+      size: 1000
 1677.1.1:
   owner: UNA
   controller: UNA
@@ -12,24 +12,24 @@
     UNA: yes
   resource: grain
   pop:
-    ethnicity: unami_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: unami_culture
+      estate: peasant
+      size: 1000
 1733.1.1:
   owner: GBR
   controller: GBR
   cores:
     GBR: yes
   pop:
-    ethnicity: english
-    religion: lutheran
-    estate: peasant
-    size: 1000
+    - ethnicity: english
+      religion: lutheran
+      estate: peasant
+      size: 1000
 1764.7.1:
   pop:
-    ethnicity: american
-    estate: peasant
-    size: 1000
+    - ethnicity: american
+      estate: peasant
+      size: 1000
 1776.7.4:
   owner: USA
   controller: USA

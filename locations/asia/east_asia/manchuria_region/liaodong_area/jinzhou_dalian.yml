@@ -7,10 +7,10 @@
     WEI0: yes
   resource: grain
   pop:
-    ethnicity: korean_culture
-    religion: sanjiao
-    estate: peasant
-    size: 1000
+    - ethnicity: korean_culture
+      religion: sanjiao
+      estate: peasant
+      size: 1000
 9.1.10:
   owner: XIN0
   controller: XIN0
@@ -86,9 +86,9 @@
     LIAO: yes
 920.1.1:
   pop:
-    ethnicity: khitan
-    estate: peasant
-    size: 1000
+    - ethnicity: khitan
+      estate: peasant
+      size: 1000
 1115.1.1:
   owner: JIN0
   controller: JIN0
@@ -97,9 +97,9 @@
     JIN0: yes
 1200.1.1:
   pop:
-    ethnicity: jurchen_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: jurchen_culture
+      estate: peasant
+      size: 1000
 1214.1.1:
   owner: MGE
   controller: MGE
@@ -109,9 +109,9 @@
     QIN0: yes
 1240.1.1:
   pop:
-    ethnicity: shandong_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: shandong_culture
+      estate: peasant
+      size: 1000
 1271.1.1:
   owner: YUA
   controller: YUA

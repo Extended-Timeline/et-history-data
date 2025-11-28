@@ -6,10 +6,10 @@
     NSAT: yes
   resource: silk
   pop:
-    ethnicity: punjabi
-    religion: hindu
-    estate: peasant
-    size: 1000
+    - ethnicity: punjabi
+      religion: hindu
+      estate: peasant
+      size: 1000
 120.1.1:
   owner: KUSH
   controller: KUSH
@@ -99,9 +99,9 @@
   controller: DLH
 1499.1.1:
   pop:
-    religion: sikhism
-    estate: peasant
-    size: 1000
+    - religion: sikhism
+      estate: peasant
+      size: 1000
 1525.1.1:
   owner: TIM
   controller: TIM

@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/2581 - Timiskaming.txt
 2.1.1:
   pop:
-    ethnicity: weskarini_culture
-    religion: iroquoian_totemism
-    estate: peasant
-    size: 1000
+    - ethnicity: weskarini_culture
+      religion: iroquoian_totemism
+      estate: peasant
+      size: 1000
 1668.1.1:
   owner: FRA
   controller: FRA
@@ -12,10 +12,10 @@
     FRA: yes
   resource: fur
   pop:
-    ethnicity: french
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - ethnicity: french
+      religion: catholic
+      estate: peasant
+      size: 1000
 1760.1.1:
   controller: GBR
 1763.2.10:
@@ -25,9 +25,9 @@
     GBR: yes
 1790.1.1:
   pop:
-    ethnicity: french_canadian
-    estate: peasant
-    size: 1000
+    - ethnicity: french_canadian
+      estate: peasant
+      size: 1000
 1867.7.1:
   owner: CAN
   controller: CAN

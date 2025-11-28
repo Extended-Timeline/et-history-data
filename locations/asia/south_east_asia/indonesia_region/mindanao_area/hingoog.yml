@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/2702 - Butuan.txt
 2.1.1:
   pop:
-    ethnicity: cebuano_culture
-    religion: bimoism
-    estate: peasant
-    size: 1000
+    - ethnicity: cebuano_culture
+      religion: bimoism
+      estate: peasant
+      size: 1000
 900.1.1:
   owner: BTU
   controller: BTU
@@ -13,9 +13,9 @@
   resource: gems
 1450.1.1:
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 1521.3.31:
   owner: SPA
   controller: SPA
@@ -23,18 +23,18 @@
     SPA: yes
   resource: tropical_wood
   pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - religion: catholic
+      estate: peasant
+      size: 1000
 1872.1.1:
   cores:
     MAGU: no
     PHIL: yes
 1890.1.1:
   pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - religion: catholic
+      estate: peasant
+      size: 1000
 1898.8.12:
   owner: USA
   controller: USA

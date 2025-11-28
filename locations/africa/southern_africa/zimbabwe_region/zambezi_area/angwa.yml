@@ -1,15 +1,15 @@
 #imported from EU4 file: history/provinces/1189 - Shangwe.txt
 2.1.1:
   pop:
-    ethnicity: shuar_culture
-    religion: bantu_religion
-    estate: peasant
-    size: 1000
+    - ethnicity: shuar_culture
+      religion: bantu_religion
+      estate: peasant
+      size: 1000
 300.1.1:
   pop:
-    ethnicity: shona_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: shona_culture
+      estate: peasant
+      size: 1000
 1350.1.1:
   owner: TONG
   controller: TONG
@@ -22,9 +22,9 @@
   cores:
     MUTA: yes
   pop:
-    ethnicity: shona_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: shona_culture
+      estate: peasant
+      size: 1000
 1630.1.1:
   owner: RZW
   controller: RZW
@@ -43,9 +43,9 @@
     GBR: yes
 1910.1.1:
   pop:
-    religion: lutheran
-    estate: peasant
-    size: 1000
+    - religion: lutheran
+      estate: peasant
+      size: 1000
 1965.11.11:
   owner: RHOD
   controller: RHOD

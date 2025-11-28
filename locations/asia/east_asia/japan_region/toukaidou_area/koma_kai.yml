@@ -6,10 +6,10 @@
     KENO: yes
   resource: livestock
   pop:
-    ethnicity: saeki
-    religion: shinto
-    estate: peasant
-    size: 1000
+    - ethnicity: saeki
+      religion: shinto
+      estate: peasant
+      size: 1000
 500.1.1:
   owner: YMT
   controller: YMT
@@ -17,19 +17,19 @@
     KENO: no
     YMT: yes
   pop:
-    ethnicity: saigoku_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: saigoku_culture
+      estate: peasant
+      size: 1000
 607.1.1:
   pop:
-    religion: mahayana
-    estate: peasant
-    size: 1000
+    - religion: mahayana
+      estate: peasant
+      size: 1000
 712.1.1:
   pop:
-    religion: shinto
-    estate: peasant
-    size: 1000
+    - religion: shinto
+      estate: peasant
+      size: 1000
 794.1.1:
   owner: JAP
   controller: JAP

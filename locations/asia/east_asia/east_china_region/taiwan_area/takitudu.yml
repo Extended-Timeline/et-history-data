@@ -6,10 +6,10 @@
     MIDD: yes
   resource: fish
   pop:
-    ethnicity: formosan_culture
-    religion: bimoism
-    estate: peasant
-    size: 1000
+    - ethnicity: formosan_culture
+      religion: bimoism
+      estate: peasant
+      size: 1000
 1705.1.1:
   owner: QNG
   controller: QNG
@@ -17,15 +17,15 @@
     QNG: yes
 1732.1.1:
   pop:
-    ethnicity: taiwanese
-    religion: sanjiao
-    estate: peasant
-    size: 1000
+    - ethnicity: taiwanese
+      religion: sanjiao
+      estate: peasant
+      size: 1000
 1800.1.1:
   pop:
-    religion: mahayana
-    estate: peasant
-    size: 1000
+    - religion: mahayana
+      estate: peasant
+      size: 1000
 1895.4.17:
   owner: JAP
   controller: JAP

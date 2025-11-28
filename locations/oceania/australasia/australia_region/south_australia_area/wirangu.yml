@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/1791 - Central Australia.txt
 2.1.1:
   pop:
-    ethnicity: noongar_culture
-    religion: dreamtime_religion
-    estate: peasant
-    size: 1000
+    - ethnicity: noongar_culture
+      religion: dreamtime_religion
+      estate: peasant
+      size: 1000
 1901.1.1:
   owner: AUST
   controller: AUST
@@ -12,8 +12,8 @@
     AUST: yes
   resource: grain
   pop:
-    religion: lutheran
-    estate: peasant
-    size: 1000
+    - religion: lutheran
+      estate: peasant
+      size: 1000
 1920.1.1:
   resource: aluminum

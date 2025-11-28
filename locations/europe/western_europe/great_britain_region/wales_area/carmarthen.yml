@@ -11,15 +11,20 @@
     estate: peasant
     size: 1000
 78.1.1:
+  pop:
+    - religion: missing_religion
+      culture: missing_culture
+      estate: peasant
+      size: 1000
   owner: ROM
   controller: ROM
   cores:
     ROM: yes
 200.1.1:
   pop:
-    ethnicity: welsh
-    estate: peasant
-    size: 1000
+    - ethnicity: welsh
+      estate: peasant
+      size: 1000
 383.1.1:
   owner: DYFE
   controller: DYFE
@@ -29,14 +34,14 @@
     DYFE: yes
 660.1.1:
   pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+    - religion: chalcedonism
+      estate: peasant
+      size: 1000
 867.1.1:
   pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - religion: catholic
+      estate: peasant
+      size: 1000
 920.1.1:
   owner: DEHE
   controller: DEHE
@@ -72,7 +77,7 @@
     GBR: yes
 1750.1.1:
   pop:
-    religion: anglican
-    estate: peasant
-    size: 1000
+    - religion: anglican
+      estate: peasant
+      size: 1000
 

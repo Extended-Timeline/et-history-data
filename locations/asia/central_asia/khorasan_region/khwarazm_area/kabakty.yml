@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/439 - Mangyshlak.txt
 2.1.1:
   pop:
-    ethnicity: turkmen_culture
-    religion: 
-    estate: peasant
-    size: 1000
+    - ethnicity: turkmen_culture
+      religion: 
+      estate: peasant
+      size: 1000
 593.1.1:
   owner: WGOK
   controller: WGOK
@@ -30,9 +30,9 @@
     KHWA: no
     MGE: yes
   pop:
-    ethnicity: nogai
-    estate: peasant
-    size: 1000
+    - ethnicity: nogai
+      estate: peasant
+      size: 1000
 1260.1.1:
   owner: BLHO
   controller: BLHO
@@ -47,9 +47,9 @@
     NOGA: yes
 1300.1.1:
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 1520.1.1:
   owner: KAZA
   controller: KAZA
@@ -57,9 +57,9 @@
     NOGA: no
     KAZA: yes
   pop:
-    ethnicity: khazak
-    estate: peasant
-    size: 1000
+    - ethnicity: khazak
+      estate: peasant
+      size: 1000
 1670.1.1:
   owner: KHIV
   controller: KHIV

@@ -6,10 +6,10 @@
     SUHM: yes
   resource: spices
   pop:
-    ethnicity: bengali
-    religion: jain
-    estate: peasant
-    size: 1000
+    - ethnicity: bengali
+      religion: jain
+      estate: peasant
+      size: 1000
 315.1.1:
   owner: BISH
   controller: BISH
@@ -77,9 +77,9 @@
     KALI: yes
 1200.1.1:
   pop:
-    religion: hindu
-    estate: peasant
-    size: 1000
+    - religion: hindu
+      estate: peasant
+      size: 1000
 1434.1.1:
   owner: ORI
   controller: ORI

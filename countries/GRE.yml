@@ -1,13 +1,28 @@
 #imported from EU4
 2.1.1:
   government: eastern_european_catholic_monarchy
+  government_rank: rank_kingdom
   color: rgb { 9  9  103 }
   religion: chalcedonism
   primary_culture: greek_culture
   capital: athens
 867.1.1:
   religion: orthodox
+1822.1.1:
+  government: et_modern_republic
+  ruler: gre_alexandros_mavrokordatos
+1823.4.26:
+  ruler: gre_petros_mavromichalis
+1824.1.6:
+  ruler: gre_georgios_kountouriotis
+1826.4.18:
+  ruler: gre_andreas_zaimis
+1828.1.18:
+  ruler: gre_ioannis_kapodistrias
+1831.9.27:
+  ruler: gre_augustinos_kapodistrias
 1832.8.30:
+  government: eastern_european_monarchy
   ruler: gre_othon_i_von_wittelsbach
 1863.3.30:
   ruler: gre_georgios_i_von_glucksburg
@@ -16,38 +31,59 @@
 1917.6.11:
   ruler: gre_alexandros_i_von_glucksburg
 1920.10.25:
+  regent: gre_pavlos_kountouriotis
+1920.11.17:
+  regent: gre_olga_constantinovna_von_holstein_gottorp_romanov
+1920.12.19:
   ruler: gre_konstantinos_i_von_glucksburg
 1922.9.27:
   ruler: gre_georgios_ii_von_glucksburg
 1924.3.25:
+  government: et_modern_republic
   ruler: gre_pavlos_kountouriotis
-1926.3.15:
+1926.4.6:
   ruler: gre_theodoros_pangalos
-1926.8.24:
+1926.8.22:
   ruler: gre_pavlos_kountouriotis
 1929.12.10:
   ruler: gre_alexandros_zaimis
 1935.10.10:
   government: eastern_european_monarchy
-  government_rank: rank_kingdom
+  regent: gre_georgios_kondylis
+  heir: gre_georgios_ii_von_glucksburg
+1935.11.25:
   ruler: gre_georgios_ii_von_glucksburg
-1944.10.19:
-  capital: athens
+1944.12.31:
+  regent: gre_damaskinos_papandreou
+  heir: gre_georgios_ii_von_glucksburg
+1946.9.27:
+  ruler: gre_georgios_ii_von_glucksburg
 1947.4.1:
   ruler: gre_pavlos_i_von_glucksburg
 1964.3.6:
   ruler: gre_konstantinos_ii_von_glucksburg
 1967.12.13:
-  ruler: gre_georgios_zoitakis
+  regent: gre_georgios_zoitakis
+  heir: gre_konstantinos_ii_von_glucksburg
 1972.3.21:
+  regent: gre_georgios_papadopoulos
+  heir: gre_konstantinos_ii_von_glucksburg
+1973.6.1:
+  government: et_modern_republic
   ruler: gre_georgios_papadopoulos
 1973.11.25:
   ruler: gre_phaedon_gizikis
 1974.12.18:
   ruler: gre_michail_stasinopoulos
-1975.6.20:
+1975.6.19:
   ruler: gre_konstantinos_tsatsos
-1980.5.15:
+1980.5.10:
+  ruler: gre_konstantinos_karamanlis
+1985.3.10:
+  ruler: gre_ioannis_alevras
+1985.3.30:
+  ruler: gre_christos_sartzetakis
+1990.5.5:
   ruler: gre_konstantinos_karamanlis
 1995.3.10:
   ruler: gre_konstantinos_stephanopoulos
@@ -57,3 +93,5 @@
   ruler: gre_prokopis_pavlopoulos
 2020.3.13:
   ruler: gre_katerina_sakellaropoulou
+2025.3.13:
+  ruler: gre_konstantinos_tasoulas

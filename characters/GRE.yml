@@ -1,3 +1,100 @@
+gre_antonios_maria_kapodistrias:
+  1750:
+    birth: corfu
+    first_name: name_anthony.name_mary
+    last_name: kapodistrias
+    religion: orthodox
+    culture: greek_culture
+    tag: VEN
+  1810:
+    death: yes
+gre_petros_mavromichalis:
+  1765.8.6:
+    birth: oitylo #Limeni
+    first_name: name_peter
+    last_name: mavromichalis
+    religion: orthodox
+    culture: greek_culture
+    tag: TUR
+  1822.1.1:
+    tag: GRE
+  1848.1.17:
+    death: yes
+gre_ioannis_kapodistrias:
+  1776.2.10:
+    birth: corfu
+    first_name: ioannis
+    last_name: kapodistrias
+    father: gre_antonios_maria_kapodistrias
+    religion: orthodox
+    culture: greek_culture
+    tag: VEN
+  1822.1.1:
+    tag: GRE
+  1831.9.27:
+    death: yes
+gre_augustinos_kapodistrias:
+  1778:
+    birth: corfu
+    first_name: name_augustine
+    last_name: kapodistrias
+    father: gre_antonios_maria_kapodistrias
+    religion: orthodox
+    culture: greek_culture
+    tag: VEN
+  1822.1.1:
+    tag: GRE
+  1857.5:
+    death: yes
+gre_georgios_kountouriotis:
+  1782:
+    birth: ermioni #Hydra
+    first_name: name_george
+    last_name: kountouriotis
+    religion: orthodox
+    culture: greek_culture
+    tag: TUR
+  1822.1.1:
+    tag: GRE
+  1858.3.13:
+    death: yes
+gre_andreas_zaimis:
+  1791:
+    birth: tripolitsa #Kerpini
+    first_name: name_andrew
+    last_name: zaimis
+    religion: orthodox
+    culture: greek_culture
+    tag: TUR
+  1822.1.1:
+    tag: GRE
+  1840.5.4:
+    death: yes
+gre_alexandros_mavrokordatos:
+  1791.2.11:
+    birth: constantinople
+    first_name: name_alexander
+    last_name: mavrokordatos
+    religion: orthodox
+    culture: greek_culture
+    tag: TUR
+  1822.1.1:
+    tag: GRE
+  1865.8.18:
+    death: yes
+gre_theodoros_kountouriotis:
+  1820:
+    birth: ermioni #Hydra
+    first_name: name_theodore
+    last_name: kountouriotis
+    father: gre_georgios_kountouriotis
+    religion: orthodox
+    culture: greek_culture
+    tag: TUR
+  1822.1.1:
+    tag: GRE
+  1880:
+    death: yes
 gre_othon_i_von_wittelsbach:
   1815.6.1:
     birth: salzburg
@@ -31,6 +128,17 @@ gre_amalia_von_holstein_gottorp:
     tag: BAV
   1867.7.26:
     death: yes
+gre_thrasyvoulos_zaimis:
+  1822.10.29:
+    birth: tripolitsa #Kerpini
+    first_name: thrasyvoulos
+    last_name: zaimis
+    father: gre_andreas_zaimis
+    religion: orthodox
+    culture: greek_culture
+    tag: GRE
+  1880.10.27:
+    death: yes
 gre_georgios_i_von_glucksburg:
   1845.12.24:
     birth: kobenhavn
@@ -61,6 +169,17 @@ gre_olga_constantinovna_von_holstein_gottorp_romanov:
     spouse: gre_georgios_i_von_glucksburg
     tag: GRE
   1926.6.18:
+    death: yes
+gre_pavlos_kountouriotis:
+  1855.4.9:
+    birth: ermioni #Hydra
+    first_name: name_paul
+    last_name: kountouriotis
+    father: gre_theodoros_kountouriotis
+    religion: orthodox
+    culture: greek_culture
+    tag: GRE
+  1935.8.22:
     death: yes
 gre_konstantinos_i_von_glucksburg:
   1868.8.2:
@@ -105,6 +224,19 @@ gre_sophia_of_prussia:
     religion: orthodox
   1936.11.22:
     death: yes
+gre_alexandros_zaimis:
+  1855.10.28:
+    birth: athens
+    first_name: alexandros_zaimis
+    father: gre_thrasyvoulos_zaimis
+    adm: 45
+    dip: 60
+    mil: 30
+    religion: orthodox
+    culture: greek_culture
+    tag: GRE
+  1936.9.15:
+    death: yes
 gre_alexandra_von_glucksburg:
   1870.8.30:
     birth: corfu
@@ -142,6 +274,29 @@ gre_maria_von_glucksburg:
     culture: greek_culture
     tag: GRE
   1940.12.14:
+    death: yes
+gre_theodoros_pangalos:
+  1878.1.11:
+    birth: megara #Salamis
+    first_name: name_theodore
+    last_name: pangalos
+    adm: 30
+    dip: 30
+    mil: 60
+    religion: orthodox
+    culture: greek_culture
+    tag: GRE
+  1952.2.26:
+    death: yes
+gre_georgios_kondylis:
+  1878.8.14:
+    birth: angelokastron #Proussos
+    first_name: name_george
+    last_name: kondylis
+    religion: orthodox
+    culture: greek_culture
+    tag: GRE
+  1936.2.1:
     death: yes
 gre_olga_von_glucksburg:
   1880.4.7:
@@ -194,6 +349,16 @@ gre_georgios_ii_von_glucksburg:
     culture: greek_culture
     tag: GRE
   1947.4.1:
+    death: yes
+gre_damaskinos_papandreou:
+  1891.3.3:
+    birth: loidoriki #Dorvitsa
+    first_name: damaskinos
+    last_name: papandreou
+    religion: orthodox
+    culture: greek_culture
+    tag: GRE
+  1949.5.20:
     death: yes
 gre_alexandros_i_von_glucksburg:
   1893.8.1:
@@ -250,6 +415,19 @@ gre_aspasia_manos:
     spouse: gre_alexandros_i_von_glucksburg
   1972.8.7:
     death: yes
+gre_konstantinos_tsatsos:
+  1899.7.1:
+    birth: athens
+    first_name: name_constantine
+    last_name: tsatsos
+    adm: 60
+    dip: 45
+    mil: 45
+    religion: orthodox
+    culture: greek_culture
+    tag: GRE
+  1987.10.8:
+    death: yes
 gre_pavlos_i_von_glucksburg:
   1901.12.14:
     birth: athens
@@ -265,6 +443,19 @@ gre_pavlos_i_von_glucksburg:
     tag: GRE
   1964.3.6:
     death: yes
+gre_michail_stasinopoulos:
+  1903.7.27:
+    birth: kalamata
+    first_name: name_michael
+    last_name: stasinopoulos
+    adm: 45
+    dip: 75
+    mil: 30
+    religion: orthodox
+    culture: greek_culture
+    tag: GRE
+  2002.10.31:
+    death: yes
 gre_irene_von_glucksburg_b1904:
   1904.2.13:
     birth: athens
@@ -277,6 +468,42 @@ gre_irene_von_glucksburg_b1904:
     culture: greek_culture
     tag: GRE
   1974.4.15:
+    death: yes
+gre_konstantinos_karamanlis:
+  1907.3.8:
+    birth: kavala #Proti
+    first_name: name_constantine
+    last_name: karamanlis
+    adm: 30
+    dip: 75
+    mil: 45
+    religion: orthodox
+    culture: greek_culture
+    tag: GRE
+  1998.4.23:
+    death: yes
+gre_georgios_zoitakis:
+  1910.3.10:
+    birth: nafpaktos
+    first_name: name_george
+    last_name: zoitakis
+    adm: 30
+    dip: 15
+    mil: 75
+    religion: orthodox
+    culture: greek_culture
+    tag: GRE
+  1996.10.21:
+    death: yes
+gre_ioannis_alevras:
+  1912:
+    birth: kalamata #Messini
+    first_name: ioannis
+    last_name: alevras
+    religion: orthodox
+    culture: greek_culture
+    tag: GRE
+  1995.4.6:
     death: yes
 gre_katharine_von_glucksburg:
   1913.5.4:
@@ -305,6 +532,32 @@ gre_frederica_of_hannover:
     tag: GRE
   1981.2.6:
     death: yes
+gre_phaedon_gizikis:
+  1917.6.16:
+    birth: demetrias #Volos
+    first_name: phaedon
+    last_name: gizikis
+    adm: 30
+    dip: 30
+    mil: 60
+    religion: orthodox
+    culture: greek_culture
+    tag: GRE
+  1999.7.26:
+    death: yes
+gre_georgios_papadopoulos:
+  1919.5.5:
+    birth: chalandritsa #Elaiochori, Achaea
+    first_name: name_george
+    last_name: papadopoulos
+    adm: 30
+    dip: 45
+    mil: 75
+    religion: orthodox
+    culture: greek_culture
+    tag: GRE
+  1999.6.27:
+    death: yes
 gre_alexandra_of_yugoslavia_von_glucksburg:
   1921.3.25:
     birth: athens
@@ -317,6 +570,42 @@ gre_alexandra_of_yugoslavia_von_glucksburg:
     culture: greek_culture
     tag: GRE
   1993.1.30:
+    death: yes
+gre_konstantinos_stephanopoulos:
+  1926.8.15:
+    birth: patras
+    first_name: name_constantine
+    last_name: stephanopoulos
+    adm: 15
+    dip: 60
+    mil: 60
+    religion: orthodox
+    culture: greek_culture
+    tag: GRE
+  2016.11.20:
+    death: yes
+gre_christos_sartzetakis:
+  1929.4.6:
+    birth: thessaloniki
+    first_name: christos
+    last_name: sartzetakis
+    religion: orthodox
+    culture: greek_culture
+    tag: GRE
+  2022.2.3:
+    death: yes
+gre_karolos_papoulias:
+  1929.6.4:
+    birth: konitsa #Molyvdoskepastos
+    first_name: name_charles
+    last_name: papoulias
+    adm: 45
+    dip: 60
+    mil: 30
+    religion: orthodox
+    culture: greek_culture
+    tag: GRE
+  2021.12.26:
     death: yes
 gre_sophia_von_glucksburg:
   1938.11.2:
@@ -371,6 +660,40 @@ gre_anne_marie_von_glucksburg:
     tag: GRE
   1965.4.21:
     religion: orthodox
+gre_prokopis_pavlopoulos:
+  1950.7.10:
+    birth: kalamata
+    first_name: prokopios
+    last_name: pavlopoulos
+    adm: 45
+    dip: 60
+    mil: 45
+    religion: orthodox
+    culture: greek_culture
+    tag: GRE
+gre_katerina_sakellaropoulou:
+  1956.5.30:
+    birth: thessaloniki
+    first_name: name_catherine
+    last_name: sakellaropoulou
+    female: yes
+    adm: 45
+    dip: 60
+    mil: 30
+    religion: orthodox
+    culture: greek_culture
+    tag: GRE
+gre_konstantinos_tasoulas:
+  1959.7.17:
+    birth: ioannina
+    first_name: name_constantine
+    last_name: tasoulas
+    adm: 45
+    dip: 50
+    mil: 30
+    religion: orthodox
+    culture: greek_culture
+    tag: GRE
 gre_alexia_von_glucksburg:
   1965.7.10:
     birth: corfu
@@ -423,160 +746,3 @@ gre_philippos_von_glucksburg:
     religion: orthodox
     culture: greek_culture
     tag: GRE
-gre_pavlos_kountouriotis:
-  1855.4.9:
-    birth: athens #TODO: Location guessed, check if better data is available
-    first_name: pavlos_kountouriotis
-    adm: 45
-    dip: 45
-    mil: 60
-    religion: orthodox
-    culture: greek_culture
-    tag: GRE
-  1929.12.10:
-    death: yes
-gre_theodoros_pangalos:
-  1878.1.11:
-    birth: athens #TODO: Location guessed, check if better data is available
-    first_name: theodoros_pangalos
-    adm: 30
-    dip: 30
-    mil: 60
-    religion: orthodox
-    culture: greek_culture
-    tag: GRE
-  1926.8.24:
-    death: yes
-gre_alexandros_zaimis:
-  1855.11.9:
-    birth: athens #TODO: Location guessed, check if better data is available
-    first_name: alexandros_zaimis
-    adm: 45
-    dip: 60
-    mil: 30
-    religion: orthodox
-    culture: greek_culture
-    tag: GRE
-  1935.10.10:
-    death: yes
-gre_georgios_zoitakis:
-  1910.1.1:
-    birth: athens #TODO: Date and location guessed, check if better data is available
-    first_name: georgios_zoitakis
-    adm: 30
-    dip: 15
-    mil: 75
-    religion: orthodox
-    culture: greek_culture
-    tag: GRE
-  1972.3.21:
-    death: yes
-gre_georgios_papadopoulos:
-  1919.5.5:
-    birth: athens #TODO: Location guessed, check if better data is available
-    first_name: georgios_papadopoulos
-    adm: 30
-    dip: 45
-    mil: 75
-    religion: orthodox
-    culture: greek_culture
-    tag: GRE
-  1973.11.25:
-    death: yes
-gre_phaedon_gizikis:
-  1917.6.16:
-    birth: athens #TODO: Location guessed, check if better data is available
-    first_name: phaedon_gizikis
-    adm: 30
-    dip: 30
-    mil: 60
-    religion: orthodox
-    culture: greek_culture
-    tag: GRE
-  1974.12.18:
-    death: yes
-gre_michail_stasinopoulos:
-  1903.7.27:
-    birth: athens #TODO: Location guessed, check if better data is available
-    first_name: michail_stasinopoulos
-    adm: 45
-    dip: 75
-    mil: 30
-    religion: orthodox
-    culture: greek_culture
-    tag: GRE
-  1975.6.20:
-    death: yes
-gre_konstantinos_tsatsos:
-  1899.7.1:
-    birth: athens #TODO: Location guessed, check if better data is available
-    first_name: konstantinos_tsatsos
-    adm: 60
-    dip: 45
-    mil: 45
-    religion: orthodox
-    culture: greek_culture
-    tag: GRE
-  1980.5.15:
-    death: yes
-gre_konstantinos_karamanlis:
-  1907.3.8:
-    birth: athens #TODO: Location guessed, check if better data is available
-    first_name: konstantinos_karamanlis
-    adm: 30
-    dip: 75
-    mil: 45
-    religion: orthodox
-    culture: greek_culture
-    tag: GRE
-  1995.3.10:
-    death: yes
-gre_konstantinos_stephanopoulos:
-  1926.8.15:
-    birth: athens #TODO: Location guessed, check if better data is available
-    first_name: konstantinos_stephanopoulos
-    adm: 15
-    dip: 60
-    mil: 60
-    religion: orthodox
-    culture: greek_culture
-    tag: GRE
-  2005.3.12:
-    death: yes
-gre_karolos_papoulias:
-  1929.6.4:
-    birth: athens #TODO: Location guessed, check if better data is available
-    first_name: karolos_papoulias
-    adm: 45
-    dip: 60
-    mil: 30
-    religion: orthodox
-    culture: greek_culture
-    tag: GRE
-  2015.3.13:
-    death: yes
-gre_prokopis_pavlopoulos:
-  1950.7.10:
-    birth: athens #TODO: Location guessed, check if better data is available
-    first_name: prokopis_pavlopoulos
-    adm: 45
-    dip: 60
-    mil: 45
-    religion: orthodox
-    culture: greek_culture
-    tag: GRE
-  2020.3.13:
-    death: yes
-gre_katerina_sakellaropoulou:
-  1956.5.30:
-    birth: athens #TODO: Location guessed, check if better data is available
-    first_name: katerina_sakellaropoulou
-    female: yes
-    adm: 45
-    dip: 60
-    mil: 30
-    religion: orthodox
-    culture: greek_culture
-    tag: GRE
-  3000.1.1:
-    death: yes

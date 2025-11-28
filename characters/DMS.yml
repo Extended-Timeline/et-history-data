@@ -37,10 +37,10 @@ dms_aar_munster:
     tag: DMS
   140.1.1:
     death: yes
-dms_da!ire_munster:
+dms_daire_munster:
   110.1.1:
     birth: cork #TODO: Date and location guessed, check if better data is available
-    first_name: da!ire
+    first_name: daire
     dynasty: munster_dynasty
     adm: 45
     dip: 15
@@ -102,10 +102,10 @@ dms_lugaid_munster:
     tag: DMS
   240.1.1:
     death: yes
-dms_aogan_ma3r_munster:
+dms_eogan_mor_munster:
   210.1.1:
     birth: cork #TODO: Date and location guessed, check if better data is available
-    first_name: aogan_ma3r
+    first_name: eogan_mor
     dynasty: munster_dynasty
     adm: 15
     dip: 30
@@ -180,11 +180,11 @@ dms_bressal_munster:
     tag: DMS
   360.1.1:
     death: yes
-dms_conall_corc_ea3ganachta:
+dms_conall_corc_eoganachta:
   330.1.1:
     birth: cork #TODO: Date and location guessed, check if better data is available
     first_name: conall_corc
-    dynasty: ea3ganachta_dynasty
+    dynasty: eoganachta_dynasty
     adm: 60
     dip: 75
     mil: 15
@@ -193,12 +193,12 @@ dms_conall_corc_ea3ganachta:
     tag: DMS
   400.1.1:
     death: yes
-dms_nad_froich_ea3ganachta:
+dms_nad_froich_eoganachta:
   380.1.1:
     birth: cork #TODO: Date and location guessed, check if better data is available
     first_name: nad_froich
-    dynasty: ea3ganachta_dynasty
-    father: dms_conall_corc_ea3ganachta #TODO: check if this makes sense
+    dynasty: eoganachta_dynasty
+    father: dms_conall_corc_eoganachta #TODO: check if this makes sense
     adm: 15
     dip: 60
     mil: 30
@@ -207,11 +207,11 @@ dms_nad_froich_ea3ganachta:
     tag: DMS
   453.1.1:
     death: yes
-dms_nad_froich_ea3ganachta_1:
+dms_nad_froich_eoganachta_1:
   370.1.1:
     birth: cork #TODO: Date and location guessed, check if better data is available
     first_name: nad_froich
-    dynasty: ea3ganachta_dynasty
+    dynasty: eoganachta_dynasty
     adm: 15
     dip: 60
     mil: 30
@@ -220,12 +220,12 @@ dms_nad_froich_ea3ganachta_1:
     tag: DMS
   453.1.1:
     death: yes
-dms_aengus_ea3ganachta:
+dms_aengus_eoganachta:
   420.1.1:
     birth: cork #TODO: Date and location guessed, check if better data is available
     first_name: aengus
-    dynasty: ea3ganachta_dynasty
-    father: dms_nad_froich_ea3ganachta_1 #TODO: check if this makes sense
+    dynasty: eoganachta_dynasty
+    father: dms_nad_froich_eoganachta_1 #TODO: check if this makes sense
     adm: 30
     dip: 60
     mil: 45
@@ -234,11 +234,11 @@ dms_aengus_ea3ganachta:
     tag: DMS
   489.1.1:
     death: yes
-dms_aengus_ea3ganachta_1:
+dms_aengus_eoganachta_1:
   423.1.1:
     birth: cork #TODO: Date and location guessed, check if better data is available
     first_name: aengus
-    dynasty: ea3ganachta_dynasty
+    dynasty: eoganachta_dynasty
     adm: 30
     dip: 60
     mil: 45
@@ -247,11 +247,11 @@ dms_aengus_ea3ganachta_1:
     tag: DMS
   489.1.1:
     death: yes
-dms_daua_aarlaithe_ea3ganachta:
+dms_daua_aarlaithe_eoganachta:
   459.1.1:
     birth: cork #TODO: Date and location guessed, check if better data is available
     first_name: daua_aarlaithe
-    dynasty: ea3ganachta_dynasty
+    dynasty: eoganachta_dynasty
     adm: 15
     dip: 75
     mil: 45
@@ -260,12 +260,12 @@ dms_daua_aarlaithe_ea3ganachta:
     tag: DMS
   500.1.1:
     death: yes
-dms_feidlimid_ea3ganachta:
+dms_feidlimid_eoganachta:
   455.1.1:
     birth: cork #TODO: Date and location guessed, check if better data is available
     first_name: feidlimid
-    dynasty: ea3ganachta_dynasty
-    father: dms_artra_ea3ganachta #TODO: check if this makes sense
+    dynasty: eoganachta_dynasty
+    father: dms_artra_eoganachta #TODO: check if this makes sense
     adm: 75
     dip: 45
     mil: 45
@@ -274,12 +274,12 @@ dms_feidlimid_ea3ganachta:
     tag: DMS
   510.1.1:
     death: yes
-dms_feidlimid_ea3ganachta_1:
+dms_feidlimid_eoganachta_1:
   470.1.1:
     birth: cork #TODO: Date and location guessed, check if better data is available
     first_name: feidlimid
-    dynasty: ea3ganachta_dynasty
-    father: dms_artra_ea3ganachta #TODO: check if this makes sense
+    dynasty: eoganachta_dynasty
+    father: dms_artra_eoganachta #TODO: check if this makes sense
     adm: 75
     dip: 45
     mil: 45
@@ -288,11 +288,11 @@ dms_feidlimid_ea3ganachta_1:
     tag: DMS
   510.1.1:
     death: yes
-dms_eochaid_ea3ganachta:
+dms_eochaid_eoganachta:
   480.1.1:
     birth: cork #TODO: Date and location guessed, check if better data is available
     first_name: eochaid
-    dynasty: ea3ganachta_dynasty
+    dynasty: eoganachta_dynasty
     adm: 30
     dip: 30
     mil: 45
@@ -301,12 +301,12 @@ dms_eochaid_ea3ganachta:
     tag: DMS
   522.1.1:
     death: yes
-dms_crimthann_ea3ganachta:
+dms_crimthann_eoganachta:
   495.1.1:
     birth: cork #TODO: Date and location guessed, check if better data is available
     first_name: crimthann
-    dynasty: ea3ganachta_dynasty
-    father: dms_eochaid_ea3ganachta #TODO: check if this makes sense
+    dynasty: eoganachta_dynasty
+    father: dms_eochaid_eoganachta #TODO: check if this makes sense
     adm: 60
     dip: 45
     mil: 75
@@ -315,11 +315,11 @@ dms_crimthann_ea3ganachta:
     tag: DMS
   542.1.1:
     death: yes
-dms_crimthann_ea3ganachta_1:
+dms_crimthann_eoganachta_1:
   492.1.1:
     birth: cork #TODO: Date and location guessed, check if better data is available
     first_name: crimthann
-    dynasty: ea3ganachta_dynasty
+    dynasty: eoganachta_dynasty
     adm: 60
     dip: 45
     mil: 75
@@ -328,11 +328,11 @@ dms_crimthann_ea3ganachta_1:
     tag: DMS
   542.1.1:
     death: yes
-dms_coirpre_cromm_ea3ganachta:
+dms_coirpre_cromm_eoganachta:
   512.1.1:
     birth: cork #TODO: Date and location guessed, check if better data is available
     first_name: coirpre_cromm
-    dynasty: ea3ganachta_dynasty
+    dynasty: eoganachta_dynasty
     adm: 45
     dip: 30
     mil: 75
@@ -341,11 +341,11 @@ dms_coirpre_cromm_ea3ganachta:
     tag: DMS
   577.1.1:
     death: yes
-dms_fergus_scandal_ea3ganachta:
+dms_fergus_scandal_eoganachta:
   547.1.1:
     birth: cork #TODO: Date and location guessed, check if better data is available
     first_name: fergus_scandal
-    dynasty: ea3ganachta_dynasty
+    dynasty: eoganachta_dynasty
     adm: 15
     dip: 75
     mil: 75
@@ -354,12 +354,12 @@ dms_fergus_scandal_ea3ganachta:
     tag: DMS
   582.1.1:
     death: yes
-dms_feidlimid_ea3ganachta_2:
+dms_feidlimid_eoganachta_2:
   552.1.1:
     birth: cork #TODO: Date and location guessed, check if better data is available
     first_name: feidlimid
-    dynasty: ea3ganachta_dynasty
-    father: dms_artra_ea3ganachta #TODO: check if this makes sense
+    dynasty: eoganachta_dynasty
+    father: dms_artra_eoganachta #TODO: check if this makes sense
     adm: 45
     dip: 45
     mil: 60
@@ -368,11 +368,11 @@ dms_feidlimid_ea3ganachta_2:
     tag: DMS
   588.1.1:
     death: yes
-dms_fangen_ea3ganachta:
+dms_fangen_eoganachta:
   558.1.1:
     birth: cork #TODO: Date and location guessed, check if better data is available
     first_name: fangen
-    dynasty: ea3ganachta_dynasty
+    dynasty: eoganachta_dynasty
     adm: 75
     dip: 60
     mil: 60
@@ -381,12 +381,12 @@ dms_fangen_ea3ganachta:
     tag: DMS
   618.1.1:
     death: yes
-dms_cathal_ea3ganachta:
+dms_cathal_eoganachta:
   588.1.1:
     birth: cork #TODO: Date and location guessed, check if better data is available
     first_name: cathal
-    dynasty: ea3ganachta_dynasty
-    father: dms_etersca(c)l_ea3ganachta #TODO: check if this makes sense
+    dynasty: eoganachta_dynasty
+    father: dms_eterscel_eoganachta #TODO: check if this makes sense
     adm: 60
     dip: 30
     mil: 15
@@ -395,11 +395,11 @@ dms_cathal_ea3ganachta:
     tag: DMS
   627.1.1:
     death: yes
-dms_faalbe_ea3ganachta:
+dms_faalbe_eoganachta:
   597.1.1:
     birth: cork #TODO: Date and location guessed, check if better data is available
     first_name: faalbe
-    dynasty: ea3ganachta_dynasty
+    dynasty: eoganachta_dynasty
     adm: 15
     dip: 45
     mil: 60
@@ -408,11 +408,11 @@ dms_faalbe_ea3ganachta:
     tag: DMS
   639.1.1:
     death: yes
-dms_caoa!n_ea3ganachta:
+dms_caoan_eoganachta:
   609.1.1:
     birth: cork #TODO: Date and location guessed, check if better data is available
-    first_name: caoa!n
-    dynasty: ea3ganachta_dynasty
+    first_name: caoan
+    dynasty: eoganachta_dynasty
     adm: 30
     dip: 15
     mil: 30
@@ -421,11 +421,11 @@ dms_caoa!n_ea3ganachta:
     tag: DMS
   641.1.1:
     death: yes
-dms_ma!enach_ea3ganachta:
+dms_maenach_eoganachta:
   611.1.1:
     birth: cork #TODO: Date and location guessed, check if better data is available
-    first_name: ma!enach
-    dynasty: ea3ganachta_dynasty
+    first_name: maenach
+    dynasty: eoganachta_dynasty
     adm: 75
     dip: 75
     mil: 45
@@ -434,12 +434,12 @@ dms_ma!enach_ea3ganachta:
     tag: DMS
   661.1.1:
     death: yes
-dms_cathal_ea3ganachta_1:
+dms_cathal_eoganachta_1:
   631.1.1:
     birth: cork #TODO: Date and location guessed, check if better data is available
     first_name: cathal
-    dynasty: ea3ganachta_dynasty
-    father: dms_etersca(c)l_ea3ganachta #TODO: check if this makes sense
+    dynasty: eoganachta_dynasty
+    father: dms_eterscel_eoganachta #TODO: check if this makes sense
     adm: 15
     dip: 30
     mil: 75
@@ -448,11 +448,11 @@ dms_cathal_ea3ganachta_1:
     tag: DMS
   665.1.1:
     death: yes
-dms_colgao_ea3ganachta:
+dms_colgao_eoganachta:
   635.1.1:
     birth: cork #TODO: Date and location guessed, check if better data is available
     first_name: colgao
-    dynasty: ea3ganachta_dynasty
+    dynasty: eoganachta_dynasty
     adm: 30
     dip: 75
     mil: 60
@@ -461,11 +461,11 @@ dms_colgao_ea3ganachta:
     tag: DMS
   678.1.1:
     death: yes
-dms_finguine_ea3ganachta:
+dms_finguine_eoganachta:
   648.1.1:
     birth: cork #TODO: Date and location guessed, check if better data is available
     first_name: finguine
-    dynasty: ea3ganachta_dynasty
+    dynasty: eoganachta_dynasty
     adm: 30
     dip: 60
     mil: 15
@@ -474,11 +474,11 @@ dms_finguine_ea3ganachta:
     tag: DMS
   696.1.1:
     death: yes
-dms_ailill_ea3ganachta:
+dms_ailill_eoganachta:
   666.1.1:
     birth: cork #TODO: Date and location guessed, check if better data is available
     first_name: ailill
-    dynasty: ea3ganachta_dynasty
+    dynasty: eoganachta_dynasty
     adm: 75
     dip: 45
     mil: 60
@@ -487,12 +487,12 @@ dms_ailill_ea3ganachta:
     tag: DMS
   701.1.1:
     death: yes
-dms_cormac_ea3ganachta:
+dms_cormac_eoganachta:
   671.1.1:
     birth: cork #TODO: Date and location guessed, check if better data is available
     first_name: cormac
-    dynasty: ea3ganachta_dynasty
-    father: dms_finguine_cenn_ea3ganachta #TODO: check if this makes sense
+    dynasty: eoganachta_dynasty
+    father: dms_finguine_cenn_eoganachta #TODO: check if this makes sense
     adm: 45
     dip: 30
     mil: 30
@@ -501,11 +501,11 @@ dms_cormac_ea3ganachta:
     tag: DMS
   712.1.1:
     death: yes
-dms_etersca(c)l_ea3ganachta:
+dms_eterscel_eoganachta:
   682.1.1:
     birth: cork #TODO: Date and location guessed, check if better data is available
-    first_name: etersca(c)l
-    dynasty: ea3ganachta_dynasty
+    first_name: eterscel
+    dynasty: eoganachta_dynasty
     adm: 60
     dip: 75
     mil: 60
@@ -514,11 +514,11 @@ dms_etersca(c)l_ea3ganachta:
     tag: DMS
   721.1.1:
     death: yes
-dms_cathal_ea3ganachta_2:
+dms_cathal_eoganachta_2:
   691.1.1:
     birth: cork #TODO: Date and location guessed, check if better data is available
     first_name: cathal
-    dynasty: ea3ganachta_dynasty
+    dynasty: eoganachta_dynasty
     adm: 45
     dip: 75
     mil: 45
@@ -527,11 +527,11 @@ dms_cathal_ea3ganachta_2:
     tag: DMS
   742.1.1:
     death: yes
-dms_cathussach_ea3ganachta:
+dms_cathussach_eoganachta:
   712.1.1:
     birth: cork #TODO: Date and location guessed, check if better data is available
     first_name: cathussach
-    dynasty: ea3ganachta_dynasty
+    dynasty: eoganachta_dynasty
     adm: 60
     dip: 75
     mil: 15
@@ -540,11 +540,11 @@ dms_cathussach_ea3ganachta:
     tag: DMS
   760.1.1:
     death: yes
-dms_ma!el_daoin_ea3ganachta:
+dms_mael_daoin_eoganachta:
   730.1.1:
     birth: cork #TODO: Date and location guessed, check if better data is available
-    first_name: ma!el_daoin
-    dynasty: ea3ganachta_dynasty
+    first_name: mael_daoin
+    dynasty: eoganachta_dynasty
     adm: 60
     dip: 45
     mil: 30
@@ -553,12 +553,12 @@ dms_ma!el_daoin_ea3ganachta:
     tag: DMS
   786.1.1:
     death: yes
-dms_alchobar_ea3ganachta:
+dms_alchobar_eoganachta:
   756.1.1:
     birth: cork #TODO: Date and location guessed, check if better data is available
     first_name: alchobar
-    dynasty: ea3ganachta_dynasty
-    father: dms_feidlimid_ea3ganachta_3 #TODO: check if this makes sense
+    dynasty: eoganachta_dynasty
+    father: dms_feidlimid_eoganachta_3 #TODO: check if this makes sense
     adm: 75
     dip: 75
     mil: 30
@@ -567,11 +567,11 @@ dms_alchobar_ea3ganachta:
     tag: DMS
   805.1.1:
     death: yes
-dms_artra_ea3ganachta:
+dms_artra_eoganachta:
   775.1.1:
     birth: cork #TODO: Date and location guessed, check if better data is available
     first_name: artra
-    dynasty: ea3ganachta_dynasty
+    dynasty: eoganachta_dynasty
     adm: 15
     dip: 75
     mil: 45
@@ -580,11 +580,11 @@ dms_artra_ea3ganachta:
     tag: DMS
   821.1.1:
     death: yes
-dms_feidlimid_ea3ganachta_3:
+dms_feidlimid_eoganachta_3:
   791.1.1:
     birth: cork #TODO: Date and location guessed, check if better data is available
     first_name: feidlimid
-    dynasty: ea3ganachta_dynasty
+    dynasty: eoganachta_dynasty
     adm: 15
     dip: 60
     mil: 60
@@ -593,11 +593,11 @@ dms_feidlimid_ea3ganachta_3:
     tag: DMS
   847.1.1:
     death: yes
-dms_alchobar_ea3ganachta_1:
+dms_alchobar_eoganachta_1:
   817.1.1:
     birth: cork #TODO: Date and location guessed, check if better data is available
     first_name: alchobar
-    dynasty: ea3ganachta_dynasty
+    dynasty: eoganachta_dynasty
     adm: 15
     dip: 30
     mil: 15
@@ -606,11 +606,11 @@ dms_alchobar_ea3ganachta_1:
     tag: DMS
   851.1.1:
     death: yes
-dms_ailgena!n_ea3ganachta:
+dms_ailgenan_eoganachta:
   821.1.1:
     birth: cork #TODO: Date and location guessed, check if better data is available
-    first_name: ailgena!n
-    dynasty: ea3ganachta_dynasty
+    first_name: ailgenan
+    dynasty: eoganachta_dynasty
     adm: 75
     dip: 45
     mil: 75
@@ -619,11 +619,11 @@ dms_ailgena!n_ea3ganachta:
     tag: DMS
   853.1.1:
     death: yes
-dms_ma!el_gualae_ea3ganachta:
+dms_mael_gualae_eoganachta:
   823.1.1:
     birth: cork #TODO: Date and location guessed, check if better data is available
-    first_name: ma!el_gualae
-    dynasty: ea3ganachta_dynasty
+    first_name: mael_gualae
+    dynasty: eoganachta_dynasty
     adm: 45
     dip: 30
     mil: 75
@@ -632,11 +632,11 @@ dms_ma!el_gualae_ea3ganachta:
     tag: DMS
   859.1.1:
     death: yes
-dms_cenn_fa!elad_ea3ganachta:
+dms_cenn_faelad_eoganachta:
   829.1.1:
     birth: cork #TODO: Date and location guessed, check if better data is available
-    first_name: cenn_fa!elad
-    dynasty: ea3ganachta_dynasty
+    first_name: cenn_faelad
+    dynasty: eoganachta_dynasty
     adm: 15
     dip: 45
     mil: 60
@@ -645,11 +645,11 @@ dms_cenn_fa!elad_ea3ganachta:
     tag: DMS
   872.1.1:
     death: yes
-dms_dunchad_ea3ganachta:
+dms_dunchad_eoganachta:
   842.1.1:
     birth: cork #TODO: Date and location guessed, check if better data is available
     first_name: dunchad
-    dynasty: ea3ganachta_dynasty
+    dynasty: eoganachta_dynasty
     adm: 15
     dip: 15
     mil: 60
@@ -658,11 +658,11 @@ dms_dunchad_ea3ganachta:
     tag: DMS
   888.1.1:
     death: yes
-dms_dub_lachtna_ea3ganachta:
+dms_dub_lachtna_eoganachta:
   858.1.1:
     birth: cork #TODO: Date and location guessed, check if better data is available
     first_name: dub_lachtna
-    dynasty: ea3ganachta_dynasty
+    dynasty: eoganachta_dynasty
     adm: 75
     dip: 15
     mil: 75
@@ -671,11 +671,11 @@ dms_dub_lachtna_ea3ganachta:
     tag: DMS
   895.1.1:
     death: yes
-dms_finguine_cenn_ea3ganachta:
+dms_finguine_cenn_eoganachta:
   865.1.1:
     birth: cork #TODO: Date and location guessed, check if better data is available
     first_name: finguine_cenn
-    dynasty: ea3ganachta_dynasty
+    dynasty: eoganachta_dynasty
     adm: 30
     dip: 60
     mil: 30
@@ -684,11 +684,11 @@ dms_finguine_cenn_ea3ganachta:
     tag: DMS
   902.1.1:
     death: yes
-dms_cormac_ea3ganachta_1:
+dms_cormac_eoganachta_1:
   872.1.1:
     birth: cork #TODO: Date and location guessed, check if better data is available
     first_name: cormac
-    dynasty: ea3ganachta_dynasty
+    dynasty: eoganachta_dynasty
     adm: 30
     dip: 75
     mil: 60
@@ -697,11 +697,11 @@ dms_cormac_ea3ganachta_1:
     tag: DMS
   908.1.1:
     death: yes
-dms_flaithbertach_ea3ganachta:
+dms_flaithbertach_eoganachta:
   878.1.1:
     birth: cork #TODO: Date and location guessed, check if better data is available
     first_name: flaithbertach
-    dynasty: ea3ganachta_dynasty
+    dynasty: eoganachta_dynasty
     adm: 45
     dip: 30
     mil: 30
@@ -710,11 +710,11 @@ dms_flaithbertach_ea3ganachta:
     tag: DMS
   944.1.1:
     death: yes
-dms_cellacha!n_caisil_ea3ganachta:
+dms_cellachan_caisil_eoganachta:
   914.1.1:
     birth: cork #TODO: Date and location guessed, check if better data is available
-    first_name: cellacha!n_caisil
-    dynasty: ea3ganachta_dynasty
+    first_name: cellachan_caisil
+    dynasty: eoganachta_dynasty
     adm: 60
     dip: 15
     mil: 15
@@ -723,11 +723,11 @@ dms_cellacha!n_caisil_ea3ganachta:
     tag: DMS
   954.1.1:
     death: yes
-dms_ma!el_fathardaig_ea3ganachta:
+dms_mael_fathardaig_eoganachta:
   924.1.1:
     birth: cork #TODO: Date and location guessed, check if better data is available
-    first_name: ma!el_fathardaig
-    dynasty: ea3ganachta_dynasty
+    first_name: mael_fathardaig
+    dynasty: eoganachta_dynasty
     adm: 30
     dip: 75
     mil: 15
@@ -736,11 +736,11 @@ dms_ma!el_fathardaig_ea3ganachta:
     tag: DMS
   957.1.1:
     death: yes
-dms_dub_da!_bairenn_ea3ganachta:
+dms_dub_da_bairenn_eoganachta:
   927.1.1:
     birth: cork #TODO: Date and location guessed, check if better data is available
-    first_name: dub_da!_bairenn
-    dynasty: ea3ganachta_dynasty
+    first_name: dub_da_bairenn
+    dynasty: eoganachta_dynasty
     adm: 75
     dip: 30
     mil: 30
@@ -749,11 +749,11 @@ dms_dub_da!_bairenn_ea3ganachta:
     tag: DMS
   959.1.1:
     death: yes
-dms_fer_gra!id_ea3ganachta:
+dms_fer_graid_eoganachta:
   929.1.1:
     birth: cork #TODO: Date and location guessed, check if better data is available
-    first_name: fer_gra!id
-    dynasty: ea3ganachta_dynasty
+    first_name: fer_graid
+    dynasty: eoganachta_dynasty
     adm: 45
     dip: 15
     mil: 30
@@ -762,11 +762,11 @@ dms_fer_gra!id_ea3ganachta:
     tag: DMS
   961.1.1:
     death: yes
-dms_donnchad_ea3ganachta:
+dms_donnchad_eoganachta:
   931.1.1:
     birth: cork #TODO: Date and location guessed, check if better data is available
     first_name: donnchad
-    dynasty: ea3ganachta_dynasty
+    dynasty: eoganachta_dynasty
     adm: 45
     dip: 75
     mil: 30
@@ -775,11 +775,11 @@ dms_donnchad_ea3ganachta:
     tag: DMS
   963.1.1:
     death: yes
-dms_ivar_ea3ganachta:
+dms_ivar_eoganachta:
   933.1.1:
     birth: cork #TODO: Date and location guessed, check if better data is available
     first_name: ivar
-    dynasty: ea3ganachta_dynasty
+    dynasty: eoganachta_dynasty
     adm: 30
     dip: 45
     mil: 30
@@ -788,11 +788,11 @@ dms_ivar_ea3ganachta:
     tag: DMS
   968.1.1:
     death: yes
-dms_mathgamain_da!l_gcais:
+dms_mathgamain_dal_gcais:
   938.1.1:
     birth: cork #TODO: Date and location guessed, check if better data is available
     first_name: mathgamain
-    dynasty: da!l_gcais_dynasty
+    dynasty: dal_gcais_dynasty
     adm: 45
     dip: 75
     mil: 75
@@ -801,11 +801,11 @@ dms_mathgamain_da!l_gcais:
     tag: DMS
   976.1.1:
     death: yes
-dms_ma!el_muad_ea3ganachta:
+dms_mael_muad_eoganachta:
   946.1.1:
     birth: cork #TODO: Date and location guessed, check if better data is available
-    first_name: ma!el_muad
-    dynasty: ea3ganachta_dynasty
+    first_name: mael_muad
+    dynasty: eoganachta_dynasty
     adm: 45
     dip: 15
     mil: 15
@@ -814,11 +814,11 @@ dms_ma!el_muad_ea3ganachta:
     tag: DMS
   978.1.1:
     death: yes
-dms_brian_ba3ruma_da!l_gcais:
+dms_brian_boruma_dal_gcais:
   948.1.1:
     birth: cork #TODO: Date and location guessed, check if better data is available
-    first_name: brian_ba3ruma
-    dynasty: da!l_gcais_dynasty
+    first_name: brian_boruma
+    dynasty: dal_gcais_dynasty
     adm: 75
     dip: 60
     mil: 75
@@ -827,11 +827,11 @@ dms_brian_ba3ruma_da!l_gcais:
     tag: DMS
   1014.1.1:
     death: yes
-dms_daongal_ea3ganachta:
+dms_daongal_eoganachta:
   984.1.1:
     birth: cork #TODO: Date and location guessed, check if better data is available
     first_name: daongal
-    dynasty: ea3ganachta_dynasty
+    dynasty: eoganachta_dynasty
     adm: 30
     dip: 60
     mil: 30
@@ -840,11 +840,11 @@ dms_daongal_ea3ganachta:
     tag: DMS
   1025.1.1:
     death: yes
-dms_donnchad_da!l_gcais:
+dms_donnchad_dal_gcais:
   995.1.1:
     birth: cork #TODO: Date and location guessed, check if better data is available
     first_name: donnchad
-    dynasty: da!l_gcais_dynasty
+    dynasty: dal_gcais_dynasty
     adm: 45
     dip: 45
     mil: 75
@@ -853,11 +853,11 @@ dms_donnchad_da!l_gcais:
     tag: DMS
   1064.1.1:
     death: yes
-dms_murchad_da!l_gcais:
+dms_murchad_dal_gcais:
   1034.1.1:
     birth: cork #TODO: Date and location guessed, check if better data is available
     first_name: murchad
-    dynasty: da!l_gcais_dynasty
+    dynasty: dal_gcais_dynasty
     adm: 75
     dip: 15
     mil: 75
@@ -866,11 +866,11 @@ dms_murchad_da!l_gcais:
     tag: DMS
   1068.1.1:
     death: yes
-dms_toirhealbhach_da!l_gcais:
+dms_toirhealbhach_dal_gcais:
   1038.1.1:
     birth: cork #TODO: Date and location guessed, check if better data is available
     first_name: toirhealbhach
-    dynasty: da!l_gcais_dynasty
+    dynasty: dal_gcais_dynasty
     adm: 45
     dip: 15
     mil: 30
@@ -879,11 +879,11 @@ dms_toirhealbhach_da!l_gcais:
     tag: DMS
   1086.1.1:
     death: yes
-dms_muircheartach_da!l_gcais:
+dms_muircheartach_dal_gcais:
   1056.1.1:
     birth: cork #TODO: Date and location guessed, check if better data is available
     first_name: muircheartach
-    dynasty: da!l_gcais_dynasty
+    dynasty: dal_gcais_dynasty
     adm: 30
     dip: 45
     mil: 45

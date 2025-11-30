@@ -1,130 +1,130 @@
+deir_yffe_yffing:
+  510:
+    birth: york #unknown
+    first_name: yffe
+    dynasty: yffing_dynasty
+    religion: germanic
+    culture: anglo_saxon
+    tag: DEIR
+  560:
+    death: yes
 deir_aella_yffing:
-  529.1.1:
-    birth: york #TODO: Date and location guessed, check if better data is available
+  540:
+    birth: york #unknown
     first_name: aella
     dynasty: yffing_dynasty
+    father: deir_yffe_yffing
     adm: 60
     dip: 45
     mil: 90
     religion: germanic
     culture: anglo_saxon
     tag: DEIR
-  589.1.1:
+  588:
     death: yes
-deir_aethelric_iding:
-  559.1.1:
-    birth: york #TODO: Date and location guessed, check if better data is available
+deir_aethelric_yffing:
+  550:
+    birth: york #unknown
     first_name: aethelric
-    dynasty: iding_dynasty
-    adm: 60
-    dip: 60
-    mil: 75
+    dynasty: yffing_dynasty
+    father: deir_yffe_yffing
     religion: germanic
     culture: anglo_saxon
     tag: DEIR
-  616.1.1:
+  604:
     death: yes
 deir_edwin_yffing:
-  586.1.1:
-    birth: york #TODO: Date and location guessed, check if better data is available
+  580:
+    birth: york #unknown
     first_name: edwin
     dynasty: yffing_dynasty
-    adm: 45
-    dip: 30
-    mil: 60
+    father: deir_aella_yffing
     religion: germanic
     culture: anglo_saxon
     tag: DEIR
   632.10.14:
     death: yes
-deir_osric_iding:
-  602.1.1:
-    birth: york #TODO: Date and location guessed, check if better data is available
+deir_osric_yffing:
+  580:
+    birth: york #unknown
     first_name: osric
-    dynasty: iding_dynasty
-    adm: 60
-    dip: 45
-    mil: 30
+    dynasty: yffing_dynasty
+    father: deir_aethelric_iding
     religion: germanic
     culture: anglo_saxon
     tag: DEIR
-  634.6.1:
+  634.6:
     death: yes
-deir_oswald_oswalding:
-  604.1.1:
-    birth: york #TODO: Date and location guessed, check if better data is available
-    first_name: oswald
-    dynasty: oswalding_dynasty
-    adm: 30
-    dip: 60
-    mil: 30
-    religion: chalcedonism
-    culture: anglo_saxon
-    tag: DEIR
-  642.8.5:
-    death: yes
-deir_oswiu_aethelfrithing:
-  612.1.1:
-    birth: york #TODO: Date and location guessed, check if better data is available
-    first_name: oswiu
-    dynasty: aethelfrithing_dynasty
-    adm: 75
-    dip: 45
-    mil: 75
-    religion: chalcedonism
-    culture: anglo_saxon
-    tag: DEIR
-  644.1.1:
-    death: yes
-deir_oswine_osricing:
-  614.1.1:
-    birth: york #TODO: Date and location guessed, check if better data is available
+deir_oswine_yffing:
+  610:
+    birth: york #unknown
     first_name: oswine
-    dynasty: osricing_dynasty
-    adm: 60
-    dip: 60
-    mil: 45
+    dynasty: yffing_dynasty
+    father: deir_osric_yffing
     religion: chalcedonism
     culture: anglo_saxon
     tag: DEIR
-  651.6.1:
+  651:
     death: yes
-deir_aethelword_oswalding:
-  621.1.1:
-    birth: york #TODO: Date and location guessed, check if better data is available
-    first_name: aethelword
-    dynasty: oswalding_dynasty
-    adm: 60
-    dip: 45
-    mil: 60
+deir_oethelwald_iding:
+  625:
+    birth: newcastle #unknown
+    first_name: oethelwald
+    dynasty: iding_dynasty
+    father: bern_oswald_bernicia
+    mother: bern_cyneburg_of_wessex
     religion: chalcedonism
     culture: anglo_saxon
+    tag: BERN
+  651:
     tag: DEIR
-  655.1.1:
+  656:
     death: yes
-deir_oswiu_aethelferthing:
-  625.1.1:
-    birth: york #TODO: Date and location guessed, check if better data is available
-    first_name: oswiu
-    dynasty: aethelferthing_dynasty
-    adm: 60
-    dip: 60
-    mil: 45
+deir_alhfrith_iding:
+  630:
+    birth: newcastle #unknown
+    first_name: alhfrith
+    dynasty: iding_dynasty
+    father: nol_oswiu_of_northumbria
+    mother: nol_rhiainfellt
     religion: chalcedonism
     culture: anglo_saxon
+    tag: BERN
+  654:
+    tag: NOL
+  656:
     tag: DEIR
-  670.8.15:
+  664:
+    death: yes
+merc_cyneburh_icling:
+  635:
+    birth: southampton #unknown
+    first_name: cyneburh
+    dynasty: icling_dynasty
+    female: yes
+    father: merc_penda_icling
+    mother: merc_cynewise
+    religion: chalcedonism
+    culture: anglo_saxon
+    tag: MERC
+  650:
+    spouse: deir_alhfrith_iding
+    tag: BERN
+  654:
+    tag: NOL
+  656:
+    tag: DEIR
+  675:
     death: yes
 deir_aelfwine_aelfwining:
-  640.1.1:
-    birth: york #TODO: Date and location guessed, check if better data is available
+  661:
+    birth: newcastle #unknown
     first_name: aelfwine
-    dynasty: aelfwining_dynasty
-    adm: 75
-    dip: 45
-    mil: 30
+    dynasty: iding_dynasty
+    father: nol_oswiu_of_northumbria
+    mother: nol_eanflaed
     religion: chalcedonism
     culture: anglo_saxon
     tag: DEIR
-  3000.1.1:
+  679:
     death: yes

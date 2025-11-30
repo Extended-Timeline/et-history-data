@@ -1,6 +1,6 @@
 merc_icel_icling:
-  497.1.1:
-    birth: southampton #TODO: Date and location guessed, check if better data is available
+  495:
+    birth: southampton #unknown
     first_name: icel
     dynasty: icling_dynasty
     adm: 60
@@ -9,385 +9,615 @@ merc_icel_icling:
     religion: germanic
     culture: anglo_saxon
     tag: MERC
-  550.1.1:
+  535:
     death: yes
 merc_cnebba_icling:
-  520.1.1:
-    birth: southampton #TODO: Date and location guessed, check if better data is available
+  515:
+    birth: southampton #unknown
     first_name: cnebba
     dynasty: icling_dynasty
-    adm: 45
-    dip: 30
-    mil: 45
+    father: merc_icel_icling
     religion: germanic
     culture: anglo_saxon
     tag: MERC
-  570.1.1:
+  554:
     death: yes
 merc_cynewald_icling:
-  540.1.1:
-    birth: southampton #TODO: Date and location guessed, check if better data is available
+  535:
+    birth: southampton #unknown
     first_name: cynewald
     dynasty: icling_dynasty
-    adm: 45
-    dip: 30
-    mil: 60
+    father: merc_cnebba_icling
     religion: germanic
     culture: anglo_saxon
     tag: MERC
-  584.1.1:
+  584:
     death: yes
 merc_creoda_icling:
-  554.1.1:
-    birth: southampton #TODO: Date and location guessed, check if better data is available
+  555:
+    birth: southampton #unknown
     first_name: creoda
     dynasty: icling_dynasty
-    adm: 75
-    dip: 45
-    mil: 45
+    father: merc_cynewald_icling
     religion: germanic
     culture: anglo_saxon
     tag: MERC
-  593.1.1:
+  593:
     death: yes
 merc_pybba_icling:
-  563.1.1:
-    birth: southampton #TODO: Date and location guessed, check if better data is available
+  575:
+    birth: southampton #unknown
     first_name: pybba
     dynasty: icling_dynasty
-    adm: 60
-    dip: 30
-    mil: 30
     religion: germanic
     culture: anglo_saxon
     tag: MERC
-  606.1.1:
+  606:
     death: yes
 merc_cearl_cearling:
-  576.1.1:
-    birth: southampton #TODO: Date and location guessed, check if better data is available
+  580:
+    birth: southampton #unknown
     first_name: cearl
     dynasty: cearling_dynasty
-    adm: 45
-    dip: 45
-    mil: 30
     religion: germanic
     culture: anglo_saxon
     tag: MERC
-  626.1.1:
+  626:
     death: yes
 merc_penda_icling:
-  596.1.1:
-    birth: southampton #TODO: Date and location guessed, check if better data is available
+  606:
+    birth: southampton #unknown
     first_name: penda
     dynasty: icling_dynasty
+    father: merc_pybba_icling
     adm: 90
     dip: 60
     mil: 60
+    religion: germanic
+    culture: anglo_saxon
+    tag: MERC
+  655.11.15:
+    death: yes
+merc_eowa_icling:
+  608:
+    birth: southampton #unknown
+    first_name: eowa
+    dynasty: icling_dynasty
+    father: merc_pybba_icling
+    religion: germanic
+    culture: anglo_saxon
+    tag: MERC
+  642.8.5:
+    death: yes
+merc_cynewise:
+  610:
+    birth: southampton #unknown
+    first_name: cynewise
+    female: yes
     religion: chalcedonism
     culture: anglo_saxon
     tag: MERC
-  658.1.1:
+  625:
+    spouse: merc_penda_icling
+  670:
     death: yes
-merc_wulfhere_icling:
-  628.1.1:
-    birth: southampton #TODO: Date and location guessed, check if better data is available
-    first_name: wulfhere
+merc_peada_icling:
+  630:
+    birth: southampton #unknown
+    first_name: peada
     dynasty: icling_dynasty
+    father: merc_penda_icling
+    mother: merc_cynewise
     adm: 60
     dip: 45
     mil: 75
     religion: chalcedonism
     culture: anglo_saxon
     tag: MERC
-  675.1.1:
+  653:
+    religion: chalcedonism
+  656.4:
+    death: yes
+merc_eahlflaed:
+  635:
+    birth: southampton #unknown
+    first_name: eahlflaed
+    dynasty: iding_dynasty
+    female: yes
+    father: nol_oswiu_of_northumbria
+    mother: nol_rhiainfellt
+    religion: chalcedonism
+    culture: anglo_saxon
+    tag: BERN
+  653:
+    spouse: merc_peada_icling
+    tag: MERC
+  656.4:
+    death: yes
+merc_wulfhere_icling:
+  632:
+    birth: southampton #unknown
+    first_name: wulfhere
+    dynasty: icling_dynasty
+    father: merc_penda_icling
+    mother: merc_cynewise
+    adm: 60
+    dip: 45
+    mil: 75
+    religion: chalcedonism
+    culture: anglo_saxon
+    tag: MERC
+  675:
+    death: yes
+merc_eormenhild:
+  634:
+    birth: southampton #unknown
+    first_name: eormenhild
+    female: yes
+    religion: chalcedonism
+    culture: anglo_saxon
+    tag: MERC
+  648:
+    spouse: merc_wulfhere_icling
+  703:
+    death: yes
+merc_alweo_icling:
+  635:
+    birth: southampton #unknown
+    first_name: alweo
+    dynasty: icling_dynasty
+    father: merc_eowa_icling
+    religion: germanic
+    culture: anglo_saxon
+    tag: MERC
+  700:
     death: yes
 merc_aethelred_i_icling:
-  645.1.1:
-    birth: southampton #TODO: Date and location guessed, check if better data is available
+  645:
+    birth: southampton #unknown
     first_name: aethelred
     dynasty: icling_dynasty
+    father: merc_penda_icling
+    mother: merc_cynewise
     adm: 60
     dip: 60
     mil: 45
     religion: chalcedonism
     culture: anglo_saxon
     tag: MERC
-  704.1.1:
+  709:
+    death: yes
+merc_osthryth:
+  645:
+    birth: southampton #unknown
+    first_name: osthryth
+    dynasty: iding_dynasty
+    female: yes
+    father: nol_oswiu_of_northumbria
+    mother: nol_eanflaed
+    religion: chalcedonism
+    culture: anglo_saxon
+    tag: BERN
+  654:
+    tag: NOL
+  665:
+    spouse: merc_aethelred_i_icling
+    tag: MERC
+  697:
     death: yes
 merc_coenred_icling:
-  674.1.1:
-    birth: southampton #TODO: Date and location guessed, check if better data is available
+  650:
+    birth: southampton #unknown
     first_name: coenred
     dynasty: icling_dynasty
-    adm: 30
-    dip: 60
-    mil: 30
+    father: merc_wulfhere_icling
+    mother: merc_eormenhild
     religion: chalcedonism
     culture: anglo_saxon
     tag: MERC
-  709.1.1:
+  709:
+    death: yes
+merc_werburgh_icling:
+  652:
+    birth: southampton #unknown
+    first_name: werburgh
+    dynasty: icling_dynasty
+    female: yes
+    father: merc_wulfhere_icling
+    mother: merc_eormenhild
+    religion: chalcedonism
+    culture: anglo_saxon
+    tag: MERC
+  700.2.3:
     death: yes
 merc_ceolred_icling:
-  679.1.1:
-    birth: southampton #TODO: Date and location guessed, check if better data is available
+  670:
+    birth: southampton #unknown
     first_name: ceolred
     dynasty: icling_dynasty
-    adm: 45
-    dip: 30
-    mil: 60
+    father: merc_aethelred_i_icling
+    mother: merc_osthryth
     religion: chalcedonism
     culture: anglo_saxon
     tag: MERC
-  716.1.1:
+  716:
     death: yes
 merc_ceolwald_icling:
-  686.1.1:
-    birth: southampton #TODO: Date and location guessed, check if better data is available
+  675:
+    birth: southampton #unknown
     first_name: ceolwald
     dynasty: icling_dynasty
-    adm: 60
-    dip: 45
-    mil: 45
+    father: merc_aethelred_i_icling
+    mother: merc_osthryth
     religion: chalcedonism
     culture: anglo_saxon
     tag: MERC
-  716.6.1:
+  716.6:
+    death: yes
+merc_eanwulf_icling:
+  675:
+    birth: southampton #unknown
+    first_name: eanwulf
+    dynasty: icling_dynasty
+    father: merc_alweo_icling #unsure connection
+    religion: chalcedonism
+    culture: anglo_saxon
+    tag: MERC
+  730:
     death: yes
 merc_aethelbald_icling:
-  686.1.1:
-    birth: southampton #TODO: Date and location guessed, check if better data is available
+  680:
+    birth: southampton #unknown
     first_name: aethelbald
     dynasty: icling_dynasty
-    adm: 45
-    dip: 30
-    mil: 45
+    father: merc_alweo_icling
     religion: chalcedonism
     culture: anglo_saxon
     tag: MERC
-  757.1.1:
+  757:
+    death: yes
+merc_thingfrith_icling:
+  700:
+    birth: southampton #unknown
+    first_name: thingfrith
+    dynasty: icling_dynasty
+    father: merc_eanwulf_icling
+    religion: chalcedonism
+    culture: anglo_saxon
+    tag: MERC
+  757:
     death: yes
 merc_beornred_beornding:
-  727.1.1:
-    birth: southampton #TODO: Date and location guessed, check if better data is available
+  720:
+    birth: southampton #unknown
     first_name: beornred
     dynasty: beornding_dynasty
-    adm: 45
-    dip: 30
-    mil: 60
     religion: chalcedonism
     culture: anglo_saxon
     tag: MERC
-  757.6.1:
+  758:
     death: yes
 merc_offa_icling:
-  727.1.1:
-    birth: southampton #TODO: Date and location guessed, check if better data is available
+  730:
+    birth: southampton #unknown
     first_name: offa
     dynasty: icling_dynasty
-    adm: 30
-    dip: 45
-    mil: 45
+    father: merc_thingfrith_icling
+    adm: 80
+    dip: 65
+    mil: 75
     religion: chalcedonism
     culture: anglo_saxon
     tag: MERC
   796.7.29:
     death: yes
+merc_cuthberht_pybbing:
+  740:
+    birth: southampton #unknown
+    first_name: cuthberht
+    dynasty: icling_dynasty
+    religion: chalcedonism
+    culture: anglo_saxon
+    tag: MERC
+  800:
+    death: yes
+merc_cynethryth:
+  750:
+    birth: southampton #unknown
+    first_name: cynethryth
+    female: yes
+    religion: chalcedonism
+    culture: anglo_saxon
+    tag: MERC
+  770:
+    spouse: merc_offa_icling
+  799:
+    death: yes
 merc_ecgfrith_icling:
-  766.1.1:
-    birth: southampton #TODO: Date and location guessed, check if better data is available
+  770:
+    birth: southampton #unknown
     first_name: ecgfrith
     dynasty: icling_dynasty
-    adm: 60
-    dip: 30
-    mil: 30
+    father: merc_offa_icling
+    mother: merc_cynethryth
     religion: chalcedonism
     culture: anglo_saxon
     tag: MERC
   796.12.17:
     death: yes
 merc_coenwulf_pybbing:
-  766.1.1:
-    birth: southampton #TODO: Date and location guessed, check if better data is available
+  765:
+    birth: southampton #unknown
     first_name: coenwulf
-    dynasty: pybbing_dynasty
-    adm: 45
-    dip: 45
-    mil: 30
+    dynasty: icling_dynasty
+    father: merc_cuthberht_pybbing
     religion: chalcedonism
     culture: anglo_saxon
     tag: MERC
-  821.1.1:
+  821:
+    death: yes
+merc_aelfthryth:
+  765:
+    birth: southampton #unknown
+    first_name: aelfthryth
+    female: yes
+    religion: chalcedonism
+    culture: anglo_saxon
+    tag: MERC
+  785:
+    spouse: merc_coenwulf_pybbing
+  820:
+    death: yes
+merc_aelfflaed_icling:
+  774:
+    birth: southampton #unknown
+    first_name: aelfflaed
+    dynasty: icling_dynasty
+    female: yes
+    father: merc_offa_icling
+    mother: merc_cynethryth
+    religion: chalcedonism
+    culture: anglo_saxon
+    tag: MERC
+  800:
     death: yes
 merc_ceolwulf_i_pybbing:
-  791.1.1:
-    birth: southampton #TODO: Date and location guessed, check if better data is available
+  775:
+    birth: southampton #unknown
     first_name: ceolwulf
-    dynasty: pybbing_dynasty
-    adm: 45
-    dip: 60
-    mil: 45
+    dynasty: icling_dynasty
+    father: merc_cuthberht_pybbing
     religion: chalcedonism
     culture: anglo_saxon
     tag: MERC
   823.1.1:
     death: yes
-merc_beornwulf_beornding:
-  793.1.1:
-    birth: southampton #TODO: Date and location guessed, check if better data is available
-    first_name: beornwulf
-    dynasty: beornding_dynasty
-    adm: 45
-    dip: 60
-    mil: 75
-    religion: chalcedonism
-    culture: anglo_saxon
-    tag: MERC
-  826.1.1:
-    death: yes
-merc_ludeca_luding:
-  796.1.1:
-    birth: southampton #TODO: Date and location guessed, check if better data is available
-    first_name: ludeca
-    dynasty: luding_dynasty
-    adm: 45
-    dip: 30
-    mil: 75
-    religion: chalcedonism
-    culture: anglo_saxon
-    tag: MERC
-  827.1.1:
-    death: yes
 merc_wiglaf_wiglafing:
-  797.1.1:
-    birth: southampton #TODO: Date and location guessed, check if better data is available
+  780:
+    birth: southampton #unknown
     first_name: wiglaf
     dynasty: wiglafing_dynasty
-    adm: 75
-    dip: 45
-    mil: 45
     religion: chalcedonism
     culture: anglo_saxon
     tag: MERC
-  839.1.1:
+  839:
+    death: yes
+merc_cynehelm_pybbing:
+  786:
+    birth: southampton #unknown
+    first_name: cynehelm
+    dynasty: icling_dynasty
+    father: merc_coenwulf_pybbing
+    mother: merc_aelfthryth
+    religion: chalcedonism
+    culture: anglo_saxon
+    tag: MERC
+  821.7.17:
+    death: yes
+merc_cwenthryth_icling:
+  790:
+    birth: southampton #unknown
+    first_name: cwenthryth
+    dynasty: icling_dynasty
+    female: yes
+    father: merc_coenwulf_pybbing
+    mother: merc_aelfthryth
+    religion: chalcedonism
+    culture: anglo_saxon
+    tag: MERC
+  827:
+    death: yes
+merc_beornwulf_beornding:
+  790:
+    birth: southampton #unknown
+    first_name: beornwulf
+    dynasty: beornding_dynasty
+    religion: chalcedonism
+    culture: anglo_saxon
+    tag: MERC
+  826:
+    death: yes
+merc_ludeca_luding:
+  790:
+    birth: southampton #unknown
+    first_name: ludeca
+    dynasty: luding_dynasty
+    religion: chalcedonism
+    culture: anglo_saxon
+    tag: MERC
+  827:
     death: yes
 merc_wigmund_wiglafing:
-  809.1.1:
-    birth: southampton #TODO: Date and location guessed, check if better data is available
+  800:
+    birth: southampton #unknown
     first_name: wigmund
     dynasty: wiglafing_dynasty
-    adm: 60
-    dip: 60
-    mil: 30
+    father: merc_wiglaf_wiglafing
     religion: chalcedonism
     culture: anglo_saxon
     tag: MERC
-  840.1.1:
-    death: yes
-merc_wigstan_wiglafing:
-  810.1.1:
-    birth: southampton #TODO: Date and location guessed, check if better data is available
-    first_name: wigstan
-    dynasty: wiglafing_dynasty
-    adm: 60
-    dip: 45
-    mil: 75
-    religion: chalcedonism
-    culture: anglo_saxon
-    tag: MERC
-  840.4.1:
+  840:
     death: yes
 merc_aelfflaed_wiglafing:
-  810.1.1:
-    birth: southampton #TODO: Date and location guessed, check if better data is available
+  800:
+    birth: southampton #unknown
     first_name: aelfflaed
-    dynasty: wiglafing_dynasty
+    dynasty: icling_dynasty
     female: yes
-    adm: 45
-    dip: 30
-    mil: 45
+    father: merc_ceolwulf_i_pybbing
     religion: chalcedonism
     culture: anglo_saxon
     tag: MERC
-  840.8.1:
+  820:
+    spouse: merc_wigmund_wiglafing
+  851:
     death: yes
 merc_beorhtwulf_beornding:
-  810.1.1:
-    birth: southampton #TODO: Date and location guessed, check if better data is available
+  815:
+    birth: southampton #unknown
     first_name: beorhtwulf
     dynasty: beornding_dynasty
-    adm: 60
-    dip: 45
-    mil: 90
+    father: merc_beornwulf_beornding #conjecture
     religion: chalcedonism
     culture: anglo_saxon
     tag: MERC
-  852.1.1:
+  852:
+    death: yes
+merc_wigstan_wiglafing:
+  820:
+    birth: southampton #unknown
+    first_name: wigstan
+    dynasty: wiglafing_dynasty
+    father: merc_wigmund_wiglafing
+    mother: merc_aelfflaed_ii_icling
+    religion: chalcedonism
+    culture: anglo_saxon
+    tag: MERC
+  840:
+    death: yes
+merc_saethryth:
+  815:
+    birth: southampton #unknown
+    first_name: saethryth
+    female: yes
+    religion: chalcedonism
+    culture: anglo_saxon
+    tag: MERC
+  835:
+    spouse: merc_beorhtwulf_beornding
+  851:
     death: yes
 merc_burgred_beornding:
-  822.1.1:
-    birth: southampton #TODO: Date and location guessed, check if better data is available
+  825:
+    birth: southampton #unknown
     first_name: burgred
     dynasty: beornding_dynasty
-    adm: 75
-    dip: 45
-    mil: 60
-    religion: catholic
+    father: merc_beornwulf_beornding #conjecture
+    religion: chalcedonism
     culture: anglo_saxon
     tag: MERC
-  874.1.1:
+  867:
+    religion: catholic
+  888:
     death: yes
 merc_ceolwulf_ii_wiglafing:
-  844.1.1:
-    birth: southampton #TODO: Date and location guessed, check if better data is available
+  830:
+    birth: southampton #unknown
     first_name: ceolwulf
     dynasty: wiglafing_dynasty
-    adm: 60
-    dip: 30
-    mil: 30
-    religion: catholic
+    father: merc_wigmund_wiglafing
+    mother: merc_aelfflaed_ii_icling
+    religion: chalcedonism
     culture: anglo_saxon
     tag: MERC
-  883.1.1:
+  867:
+    religion: catholic
+  879:
+    death: yes
+merc_beorhtric_beornding:
+  835:
+    birth: southampton #unknown
+    first_name: beorhtric
+    dynasty: beornding_dynasty
+    father: merc_beorhtwulf_beornding
+    mother: merc_saethryth
+    religion: chalcedonism
+    culture: anglo_saxon
+    tag: MERC
+  850:
+    death: yes
+merc_aethelswith_cerdicing:
+  838:
+    birth: southampton #unknown
+    first_name: aethelswith
+    dynasty: wessex_dynasty
+    female: yes
+    father: wess_aethelwulf_cerdicing
+    mother: wess_osburh
+    religion: chalcedonism
+    culture: anglo_saxon
+    tag: WESS
+  853.4:
+    spouse: merc_burgred_beornding
+    tag: MERC
+  867:
+    religion: catholic
+  888:
+    death: yes
+merc_beorhtfrith_beornding:
+  840:
+    birth: southampton #unknown
+    first_name: beorhtfrith
+    dynasty: beornding_dynasty
+    father: merc_beorhtwulf_beornding
+    mother: merc_saethryth
+    religion: chalcedonism
+    culture: anglo_saxon
+    tag: MERC
+  867:
+    religion: catholic
+  900:
     death: yes
 merc_aethelred_ii_aethelreding:
-  853.1.1:
-    birth: southampton #TODO: Date and location guessed, check if better data is available
+  860:
+    birth: southampton #unknown
     first_name: aethelred
     dynasty: aethelreding_dynasty
-    adm: 45
-    dip: 30
-    mil: 15
-    religion: catholic
+    religion: chalcedonism
     culture: anglo_saxon
     tag: MERC
-  911.1.1:
+  867:
+    religion: catholic
+  911:
     death: yes
-merc_aethelflaed_aethelreding:
-  881.1.1:
-    birth: southampton #TODO: Date and location guessed, check if better data is available
+merc_aethelflaed_of_wessex:
+  870:
+    birth: southampton #unknown
     first_name: aethelflaed
-    dynasty: aethelreding_dynasty
+    dynasty: wessex_dynasty
     female: yes
-    adm: 45
-    dip: 30
-    mil: 60
+    father: eng_alfred_the_great
+    mother: eng_ealhswith
     religion: catholic
     culture: anglo_saxon
+    tag: WESS
+  888:
+    spouse: merc_aethelred_ii_aethelreding
     tag: MERC
   918.6.12:
     death: yes
-merc_aefwynn_aethelreding:
-  888.1.1:
-    birth: southampton #TODO: Date and location guessed, check if better data is available
-    first_name: aefwynn
+merc_aelfwynn_aethelreding:
+  890:
+    birth: southampton #unknown
+    first_name: aelfwynn
     dynasty: aethelreding_dynasty
     female: yes
-    adm: 30
-    dip: 30
-    mil: 45
+    father: merc_aethelred_ii_aethelreding
+    mother: merc_aethelflaed_of_wessex
     religion: catholic
     culture: anglo_saxon
     tag: MERC
-  3000.1.1:
+  918.12:
+    tag: ENG
+  950:
     death: yes

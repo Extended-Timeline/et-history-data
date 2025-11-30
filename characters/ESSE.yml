@@ -1,6 +1,6 @@
 esse_aescwine_aescwining:
-  497.1.1:
-    birth: colchester #TODO: Date and location guessed, check if better data is available
+  500:
+    birth: colchester #unknown
     first_name: aescwine
     dynasty: aescwining_dynasty
     adm: 60
@@ -9,161 +9,229 @@ esse_aescwine_aescwining:
     religion: germanic
     culture: anglo_saxon
     tag: ESSE
-  587.1.1:
+  587:
     death: yes
 esse_sledda_aescwining:
-  557.1.1:
-    birth: colchester #TODO: Date and location guessed, check if better data is available
-    first_name: sledda
+  540:
+    birth: colchester #unknown
+    first_name: sledd
     dynasty: aescwining_dynasty
-    adm: 45
-    dip: 30
-    mil: 45
+    father: esse_aescwine_aescwining
     religion: germanic
     culture: anglo_saxon
     tag: ESSE
-  604.1.1:
+  604:
     death: yes
 esse_saebert_aescwining:
-  574.1.1:
-    birth: colchester #TODO: Date and location guessed, check if better data is available
-    first_name: saebert
+  560:
+    birth: colchester #unknown
+    first_name: saeberht
     dynasty: aescwining_dynasty
-    adm: 45
-    dip: 30
-    mil: 60
     religion: germanic
     culture: anglo_saxon
     tag: ESSE
-  616.1.1:
+  604:
+    religion: chalcedonism
+  616:
+    death: yes
+esse_ricula_of_kent:
+  560:
+    birth: canterbury #unknown
+    first_name: ricula
+    dynasty: kent_dynasty
+    female: yes
+    father: kent_eormenric_cantie
+    religion: germanic
+    culture: anglo_saxon
+    tag: KENT
+  580:
+    spouse: esse_saebert_aescwining
+    tag: ESSE
+  620:
     death: yes
 esse_sexred_aescwining:
-  586.1.1:
-    birth: colchester #TODO: Date and location guessed, check if better data is available
+  584:
+    birth: colchester #unknown
     first_name: sexred
     dynasty: aescwining_dynasty
-    adm: 75
-    dip: 45
-    mil: 45
+    father: esse_saebert_aescwining
+    mother: esse_ricula_of_kent
     religion: germanic
     culture: anglo_saxon
     tag: ESSE
-  617.1.1:
+  623:
     death: yes
-esse_sigeberht_i_aescwining:
-  587.1.1:
-    birth: colchester #TODO: Date and location guessed, check if better data is available
-    first_name: sigeberht
+esse_saeward_aescwining:
+  586:
+    birth: colchester #unknown
+    first_name: saeward
     dynasty: aescwining_dynasty
-    adm: 60
-    dip: 30
-    mil: 30
+    father: esse_saebert_aescwining
+    mother: esse_ricula_of_kent
     religion: germanic
     culture: anglo_saxon
     tag: ESSE
-  653.1.1:
+  623:
     death: yes
-esse_sigeberht_ii_aescwining:
-  623.1.1:
-    birth: colchester #TODO: Date and location guessed, check if better data is available
+esse_sigeberht_the_little:
+  590:
+    birth: colchester #unknown
     first_name: sigeberht
+    nickname: nick_the_little
     dynasty: aescwining_dynasty
-    adm: 45
-    dip: 45
-    mil: 30
+    father: esse_saebert_aescwining #conjecture
+    mother: esse_ricula_of_kent
+    religion: germanic
+    culture: anglo_saxon
+    tag: ESSE
+  653:
+    death: yes
+esse_sigeberht_the_good:
+  610:
+    birth: colchester #unknown
+    first_name: sigeberht
+    nickname: the_good
+    dynasty: aescwining_dynasty
+    father: esse_saeward_aescwining
+    religion: germanic
+    culture: anglo_saxon
+    tag: ESSE
+  654:
     religion: chalcedonism
+  660:
+    death: yes
+esse_saebbi_aescwining:
+  620:
+    birth: colchester #unknown
+    first_name: saebbi
+    dynasty: aescwining_dynasty
+    father: esse_sexred_aescwining
+    religion: germanic
     culture: anglo_saxon
     tag: ESSE
-  660.1.1:
+  660:
+    religion: chalcedonism
+  695:
     death: yes
 esse_swithelm_aescwining:
-  630.1.1:
-    birth: colchester #TODO: Date and location guessed, check if better data is available
-    first_name: swithelm
+  630:
+    birth: colchester #unknown
+    first_name: swithhelm
     dynasty: aescwining_dynasty
-    adm: 60
-    dip: 60
-    mil: 45
-    religion: chalcedonism
+    father: esse_sigeberht_the_little #conjecture
+    religion: germanic
     culture: anglo_saxon
     tag: ESSE
-  664.1.1:
+  662:
+    religion: chalcedonism
+  664:
+    death: yes
+esse_swithfrith_aescwining:
+  635:
+    birth: colchester #unknown
+    first_name: swithfrith
+    dynasty: aescwining_dynasty
+    father: esse_sigeberht_the_little #conjecture
+    religion: germanic
+    culture: anglo_saxon
+    tag: ESSE
+  660:
     death: yes
 esse_sighere_aescwining:
-  634.1.1:
-    birth: colchester #TODO: Date and location guessed, check if better data is available
+  635:
+    birth: colchester #unknown
     first_name: sighere
     dynasty: aescwining_dynasty
-    adm: 60
-    dip: 60
-    mil: 45
-    religion: chalcedonism
+    father: esse_sigeberht_the_good
+    religion: germanic
     culture: anglo_saxon
     tag: ESSE
-  694.1.1:
+  688:
     death: yes
 esse_sigeheard_aescwining:
-  664.1.1:
-    birth: colchester #TODO: Date and location guessed, check if better data is available
+  660:
+    birth: colchester #unknown
     first_name: sigeheard
     dynasty: aescwining_dynasty
-    adm: 30
-    dip: 60
-    mil: 30
+    father: esse_saebbi_aescwining
     religion: chalcedonism
     culture: anglo_saxon
     tag: ESSE
-  709.1.1:
+  709:
+    death: yes
+esse_offa_aescwining:
+  660:
+    birth: colchester #unknown
+    first_name: offa
+    dynasty: aescwining_dynasty
+    father: esse_sighere_aescwining
+    religion: chalcedonism
+    culture: anglo_saxon
+    tag: ESSE
+  709:
+    death: yes
+esse_swaefred_aescwining:
+  662:
+    birth: colchester #unknown
+    first_name: swaefred
+    dynasty: aescwining_dynasty
+    father: esse_saebbi_aescwining
+    religion: chalcedonism
+    culture: anglo_saxon
+    tag: ESSE
+  709:
     death: yes
 esse_saelred_aescwining:
-  679.1.1:
-    birth: colchester #TODO: Date and location guessed, check if better data is available
+  680:
+    birth: colchester #unknown
     first_name: saelred
     dynasty: aescwining_dynasty
-    adm: 15
-    dip: 60
-    mil: 60
     religion: chalcedonism
     culture: anglo_saxon
     tag: ESSE
-  746.1.1:
+  746:
+    death: yes
+esse_sebbi_aescwining:
+  685:
+    birth: colchester #unknown
+    first_name: sebbi
+    dynasty: aescwining_dynasty
+    father: esse_sigeheard_aescwining
+    religion: chalcedonism
+    culture: anglo_saxon
+    tag: ESSE
+  740:
     death: yes
 esse_svvithred_aescwining:
-  716.1.1:
-    birth: colchester #TODO: Date and location guessed, check if better data is available
-    first_name: svvithred
+  710:
+    birth: colchester #unknown
+    first_name: swithred
     dynasty: aescwining_dynasty
-    adm: 60
-    dip: 45
-    mil: 45
+    father: esse_sebbi_aescwining
     religion: chalcedonism
     culture: anglo_saxon
     tag: ESSE
-  758.1.1:
+  758:
     death: yes
 esse_sigeric_aescwining:
-  728.1.1:
-    birth: colchester #TODO: Date and location guessed, check if better data is available
+  720:
+    birth: colchester #unknown
     first_name: sigeric
     dynasty: aescwining_dynasty
-    adm: 45
-    dip: 30
-    mil: 45
+    father: esse_saelred_aescwining
     religion: chalcedonism
     culture: anglo_saxon
     tag: ESSE
-  798.1.1:
+  798:
     death: yes
 esse_sigered_aescwining:
-  768.1.1:
-    birth: colchester #TODO: Date and location guessed, check if better data is available
+  760:
+    birth: colchester #unknown
     first_name: sigered
     dynasty: aescwining_dynasty
-    adm: 45
-    dip: 30
-    mil: 60
+    father: esse_sigeric_aescwining
     religion: chalcedonism
     culture: anglo_saxon
     tag: ESSE
-  3000.1.1:
+  825:
     death: yes

@@ -425,6 +425,7 @@
  #
  name_albert: "Albert" # English & French & Polish
  name_albert.albanian_language: "Alberti"
+ name_albert.anglo_saxon_dialect: "Alberht"
  name_albert.arabic_language: "Ālbart" # البرت
  name_albert.arpitan_dialect: "Arbèrt"
  name_albert.baltic_language: "Albertas" # Lithuanian
@@ -619,6 +620,7 @@
  name_alfonsina: "Alfonsina"
  #
  name_alfred: "Alfred" # English & French
+ name_alfred.anglo_saxon_dialect: "Ælfred"
  name_alfred.arpitan_dialect: "Fredo"
  name_alfred.catalan_dialect: "Alfred"
  name_alfred.dutch_dialect: "Alfried"
@@ -3823,6 +3825,7 @@
  name_ednevet.brythonic_language: "Ednyfed" # Welsh
  #
  name_edmond: "Edmond" # Albanian, Arab (إدموند), East Slavic (Эдмунд Russian), Finnish, French, Occitan (also in Catalan) & Turkish
+ name_edmond.anglo_saxon_dialect: "Eadmund"
  name_edmond.baltic_language: "Edmundas" # Lithuanian
  name_edmond.basque_language: "Edmundo"
  name_edmond.brythonic_language: "Edmyg" # Welsh
@@ -3876,6 +3879,7 @@
  name_eeltje.frisian_language: "Eeltsje"
  #
  name_egbert: "Egbert"
+ name_egbert.anglo_saxon_dialect: "Ecgberht"
  name_egbert.dutch_dialect: "Egbert"
  #
  name_egidia: "Egidia"
@@ -4175,6 +4179,7 @@
  name_erhard.spanish_language: "Erardo"
  #
  name_eric: "Eric" # English
+ name_eric.anglo_saxon_dialect: "Eohric"
  name_eric.arpitan_dialect: "Èric"
  name_eric.baltic_language: "Erikas"
  name_eric.basque_language: "Erik"
@@ -4255,6 +4260,7 @@
  name_estibaliz.spanish_language: "Estíbaliz"
  #
  name_ethelred: "Ethelred"
+ name_ethelred.anglo_saxon_dialect: "Æthelred"
  #
  name_eudokia: "Eudokia"
  name_eudokia.bulgarian_language: "Evdokiya"
@@ -9192,6 +9198,7 @@
  name_olaf.low_german_dialect: "Olaf"
  name_olaf.mandarin_language: "Àolāfū" # 奥拉夫
  name_olaf.north_italian_language: "Olao" # Lombard
+ name_olaf.old_norse_dialect: "Óláfr"
  name_olaf.portuguese_language: "Olavo"
  name_olaf.scandinavian_language: "Olav"
  name_olaf.south_italian_language: "Olao"
@@ -10071,6 +10078,10 @@
  name_radu: "Radu"
  name_radu.bulgarian_language: "Radko"
  #
+ name_ragnall: "Ragnall"
+ name_ragnall.anglo_saxon_dialect: "Rægnald"
+ name_ragnall.old_norse_dialect: "Rognvaldr"
+ 
  name_ragnhild: "Ragnhild"
  name_ragnhild.east_slavic_language: "Rogneda"
  name_ragnhild.ruthenian_language: "Rogneda"
@@ -10986,6 +10997,10 @@
  name_sigrid: "Sigrid"
  name_sigrid.norwegian_dialect: "Sigfrid"
  #
+ name_sigtrygg: "Sigtrygg"
+ name_sigtrygg.anglo_saxon_dialect: "Sitric"
+ name_sigtrygg.old_norse_dialect: "Sigtryggr"
+ #
  name_silo: "Silo"
  #
  name_silvester: "Silvester"
@@ -11556,6 +11571,7 @@
  name_theodota_greek_language: "Theodótē"
  #
  name_theodoric: "Theodoric" #https://en.wikipedia.org/wiki/Theodoric
+ name_theodoric.anglo_saxon_dialect: "Theodric"
  name_theodoric.dutch_dialect: "Diederick"
  name_theodoric.dutch_dialect.alternative: "Dirk"
  name_theodoric.english_language: "Derek"

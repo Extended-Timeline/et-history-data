@@ -11,172 +11,253 @@ bern_morcant_bulc_bryneich:
     tag: BERN
   547.1.1:
     death: yes
+bern_oesa_iding:
+  470:
+    birth: newcastle #unknown
+    first_name: oesa
+    dynasty: iding_dynasty
+    religion: germanic
+    culture: anglo_saxon
+    tag: BERN
+  520:
+    death: yes
+bern_eoppa_iding:
+  490:
+    birth: newcastle #unknown
+    first_name: eoppa
+    dynasty: iding_dynasty
+    father: bern_oesa_iding
+    religion: germanic
+    culture: anglo_saxon
+    tag: BERN
+  520:
+    death: yes
 bern_ida_iding:
-  517.1.1:
-    birth: newcastle #TODO: Date and location guessed, check if better data is available
+  510:
+    birth: newcastle #unknown
     first_name: ida
     dynasty: iding_dynasty
+    father: bern_eoppa_iding
     adm: 75
     dip: 45
     mil: 60
     religion: germanic
     culture: anglo_saxon
     tag: BERN
-  559.1.1:
+  559:
+    death: yes
+bern_bearnoch:
+  510:
+    birth: newcastle #unknown
+    first_name: bearnoch
+    female: yes
+    religion: germanic
+    culture: anglo_saxon
+    tag: BERN
+  525:
+    spouse: bern_ida_iding
+  560:
     death: yes
 bern_glappa_iding:
-  529.1.1:
-    birth: newcastle #TODO: Date and location guessed, check if better data is available
+  515:
+    birth: newcastle #unknown
     first_name: glappa
-    dynasty: iding_dynasty
-    adm: 45
-    dip: 30
-    mil: 60
+    dynasty: bernicia_dynasty
     religion: germanic
     culture: anglo_saxon
     tag: BERN
-  560.1.1:
+  560:
     death: yes
 bern_adda_iding:
-  530.1.1:
-    birth: newcastle #TODO: Date and location guessed, check if better data is available
+  530:
+    birth: newcastle #unknown
     first_name: adda
     dynasty: iding_dynasty
-    adm: 60
-    dip: 45
-    mil: 30
+    father: bern_ida_iding
+    mother: bern_bearnoch
     religion: germanic
     culture: anglo_saxon
     tag: BERN
-  568.1.1:
+  568:
     death: yes
 bern_aethelric_iding:
-  538.1.1:
-    birth: newcastle #TODO: Date and location guessed, check if better data is available
+  535:
+    birth: newcastle #unknown
     first_name: aethelric
     dynasty: iding_dynasty
-    adm: 30
-    dip: 60
-    mil: 30
+    father: bern_ida_iding
+    mother: bern_bearnoch
     religion: germanic
     culture: anglo_saxon
     tag: BERN
-  572.1.1:
+  572:
     death: yes
 bern_theodric_iding:
-  542.1.1:
-    birth: newcastle #TODO: Date and location guessed, check if better data is available
-    first_name: theodric
+  540:
+    birth: newcastle #unknown
+    first_name: name_theodoric
     dynasty: iding_dynasty
-    adm: 75
-    dip: 45
-    mil: 75
+    father: bern_ida_iding
+    mother: bern_bearnoch
     religion: germanic
     culture: anglo_saxon
     tag: BERN
-  579.1.1:
+  579:
+    death: yes
+bern_ocga_iding:
+  545:
+    birth: newcastle #unknown
+    first_name: ocga
+    dynasty: iding_dynasty
+    father: bern_ida_iding
+    mother: bern_bearnoch
+    religion: germanic
+    culture: anglo_saxon
+    tag: BERN
+  600:
     death: yes
 bern_frithuwald_iding:
-  549.1.1:
-    birth: newcastle #TODO: Date and location guessed, check if better data is available
+  545:
+    birth: newcastle #unknown
     first_name: frithuwald
-    dynasty: iding_dynasty
-    adm: 60
-    dip: 60
-    mil: 45
+    dynasty: bernicia_dynasty
     religion: germanic
     culture: anglo_saxon
     tag: BERN
-  585.1.1:
+  585:
     death: yes
 bern_hussa_iding:
-  555.1.1:
-    birth: newcastle #TODO: Date and location guessed, check if better data is available
+  550:
+    birth: newcastle #unknown
     first_name: hussa
-    dynasty: iding_dynasty
-    adm: 60
-    dip: 45
-    mil: 60
+    dynasty: bernicia_dynasty
     religion: germanic
     culture: anglo_saxon
     tag: BERN
-  593.1.1:
+  593:
     death: yes
 bern_aethelfrith_iding:
-  563.1.1:
-    birth: newcastle #TODO: Date and location guessed, check if better data is available
+  555:
+    birth: newcastle #unknown
     first_name: aethelfrith
     dynasty: iding_dynasty
-    adm: 75
+    father: bern_aethelric_iding
+    adm: 65
     dip: 60
     mil: 90
+    religion: germanic
+    culture: anglo_saxon
+    tag: BERN
+  616:
+    death: yes
+bern_acha_of_deira:
+  560:
+    birth: newcastle #unknown
+    first_name: acha
+    dynasty: yffing_dynasty
+    female: yes
+    father: deir_aella_yffing
+    religion: germanic
+    culture: anglo_saxon
+    tag: DEIR
+  570:
+    spouse: bern_aethelfrith_iding
+    tag: BERN
+  620:
+    death: yes
+bern_aldhelm_iding:
+  570:
+    birth: newcastle #unknown
+    first_name: aldhelm
+    dynasty: iding_dynasty
+    father: bern_ocga_iding
+    religion: germanic
+    culture: anglo_saxon
+    tag: BERN
+  620:
+    death: yes
+bern_eanfrith_bernicia:
+  580:
+    birth: newcastle #unknown
+    first_name: eanfrith
+    dynasty: iding_dynasty
+    father: bern_aethelfrith_iding
+    mother: bern_acha_of_deira
+    religion: germanic
+    culture: anglo_saxon
+    tag: BERN
+  634:
+    death: yes
+bern_egwald_iding:
+  600:
+    birth: newcastle #unknown
+    first_name: egwald
+    dynasty: iding_dynasty
+    father: bern_aldhelm_iding
+    religion: germanic
+    culture: anglo_saxon
+    tag: BERN
+  660:
+    death: yes
+bern_oswald_bernicia:
+  604:
+    birth: newcastle #unknown
+    first_name: oswald
+    dynasty: iding_dynasty
+    father: bern_aethelfrith_iding
+    mother: bern_acha_of_deira
+    religion: germanic
+    culture: anglo_saxon
+    tag: BERN
+  616:
+    religion: chalcedonism
+  641.8.5:
+    death: yes
+bern_cyneburg_of_wessex:
+  615:
+    birth: southampton #unknown
+    first_name: cyneburg
+    dynasty: wessex_dynasty
+    female: yes
+    father: wess_cynegils_cerdicing
+    religion: germanic
+    culture: anglo_saxon
+    tag: DEIR
+  635:
+    spouse: bern_oswald_bernicia
+    religion: chalcedonism
+    tag: BERN
+  654:
+    tag: NOL
+  660:
+    death: yes
+bern_aebbe_bernicia:
+  615:
+    birth: newcastle #unknown
+    first_name: aebbe
+    dynasty: iding_dynasty
+    female: yes
+    father: bern_aethelfrith_iding
+    mother: bern_acha_of_deira
+    religion: germanic
+    culture: anglo_saxon
+    tag: BERN
+  617:
+    religion: chalcedonism
+  654:
+    tag: NOL
+  683:
+    death: yes
+bern_leoldwald_iding:
+  630:
+    birth: newcastle #unknown
+    first_name: leoldwald
+    dynasty: iding_dynasty
+    father: bern_egwald_iding
     religion: chalcedonism
     culture: anglo_saxon
     tag: BERN
-  633.1.1:
-    death: yes
-bern_eanfrith_bernicia:
-  603.1.1:
-    birth: newcastle #TODO: Date and location guessed, check if better data is available
-    first_name: eanfrith
-    dynasty: bernicia_dynasty
-    adm: 75
-    dip: 45
-    mil: 30
-    religion: catholic
-    culture: anglo_saxon
-    tag: BERN
-  875.1.1:
-    death: yes
-bern_ecgberht_ii_of_northumbria:
-  845.1.1:
-    birth: newcastle #TODO: Date and location guessed, check if better data is available
-    first_name: ecgberht
-    dynasty: of_northumbria_dynasty
-    adm: 75
-    dip: 30
-    mil: 75
-    religion: catholic
-    culture: anglo_saxon
-    tag: BERN
-  895.1.1:
-    death: yes
-bern_eadwulf_ii_of_northumbria:
-  865.1.1:
-    birth: newcastle #TODO: Date and location guessed, check if better data is available
-    first_name: eadwulf
-    dynasty: of_northumbria_dynasty
-    adm: 30
-    dip: 0
-    mil: 60
-    religion: catholic
-    culture: anglo_saxon
-    tag: BERN
-  913.1.1:
-    death: yes
-bern_ealdred_i_of_northumbria:
-  883.1.1:
-    birth: newcastle #TODO: Date and location guessed, check if better data is available
-    first_name: ealdred
-    dynasty: of_northumbria_dynasty
-    adm: 45
-    dip: 30
-    mil: 45
-    religion: catholic
-    culture: anglo_saxon
-    tag: BERN
-  933.1.1:
-    death: yes
-bern_adulf_i_of_northumbria:
-  910.1.1:
-    birth: newcastle #TODO: Date and location guessed, check if better data is available
-    first_name: adulf
-    dynasty: of_northumbria_dynasty
-    adm: 30
-    dip: 60
-    mil: 45
-    religion: catholic
-    culture: anglo_saxon
-    tag: BERN
-  934.1.1:
+  654:
+    tag: NOL
+  680:
     death: yes

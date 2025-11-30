@@ -1,6 +1,6 @@
 eang_wehha_wuffinga:
-  520.1.1:
-    birth: norwich #TODO: Date and location guessed, check if better data is available
+  510:
+    birth: norwich #unknown
     first_name: wehha
     dynasty: wuffinga_dynasty
     adm: 60
@@ -9,278 +9,343 @@ eang_wehha_wuffinga:
     religion: germanic
     culture: anglo_saxon
     tag: EANG
-  571.1.1:
+  571:
     death: yes
 eang_wuffa_wuffinga:
-  541.1.1:
-    birth: norwich #TODO: Date and location guessed, check if better data is available
+  530:
+    birth: norwich #unknown
     first_name: wuffa
     dynasty: wuffinga_dynasty
+    father: eang_wehha_wuffinga
     adm: 60
     dip: 60
     mil: 75
     religion: germanic
     culture: anglo_saxon
     tag: EANG
-  578.1.1:
+  578:
     death: yes
 eang_tytila_wuffinga:
-  548.1.1:
-    birth: norwich #TODO: Date and location guessed, check if better data is available
+  550:
+    birth: norwich #unknown
     first_name: tytila
     dynasty: wuffinga_dynasty
-    adm: 45
-    dip: 30
-    mil: 60
-    religion: chalcedonism
+    father: eang_wuffa_wuffinga
+    religion: germanic
     culture: anglo_saxon
     tag: EANG
-  616.1.1:
+  616:
     death: yes
 eang_raedwald_wuffinga:
-  586.1.1:
-    birth: norwich #TODO: Date and location guessed, check if better data is available
+  570:
+    birth: norwich #unknown
     first_name: raedwald
     dynasty: wuffinga_dynasty
-    adm: 60
-    dip: 45
-    mil: 30
-    religion: chalcedonism
+    father: eang_tytila_wuffinga
+    religion: germanic
     culture: anglo_saxon
     tag: EANG
-  625.1.1:
+  605:
+    religion: chalcedonism
+  624:
     death: yes
-eang_eorpwald_wuffinga:
-  595.1.1:
-    birth: norwich #TODO: Date and location guessed, check if better data is available
-    first_name: eorpwald
+eang_eni_wuffinga:
+  580:
+    birth: norwich #unknown
+    first_name: eni
     dynasty: wuffinga_dynasty
-    adm: 30
-    dip: 60
-    mil: 30
-    religion: chalcedonism
+    father: eang_tytila_wuffinga
+    religion: germanic
     culture: anglo_saxon
     tag: EANG
-  627.1.1:
+  630:
+    death: yes
+eang_raegenhere_wuffinga:
+  590:
+    birth: norwich #unknown
+    first_name: raegenhere
+    dynasty: wuffinga_dynasty
+    father: eang_raedwald_wuffinga
+    religion: germanic
+    culture: anglo_saxon
+    tag: EANG
+  616:
     death: yes
 eang_ricberht_wuffinga:
-  597.1.1:
-    birth: norwich #TODO: Date and location guessed, check if better data is available
+  590:
+    birth: norwich #unknown
     first_name: ricberht
     dynasty: wuffinga_dynasty
-    adm: 75
-    dip: 45
-    mil: 75
-    religion: chalcedonism
+    religion: germanic
     culture: anglo_saxon
     tag: EANG
-  630.1.1:
+  630:
+    death: yes
+eang_eorpwald_wuffinga:
+  595:
+    birth: norwich #unknown
+    first_name: eorpwald
+    dynasty: wuffinga_dynasty
+    father: eang_raedwald_wuffinga
+    religion: germanic
+    culture: anglo_saxon
+    tag: EANG
+  627:
+    religion: chalcedonism
+  628:
+    death: yes
+eang_sigeberht_wuffinga:
+  600:
+    birth: norwich #unknown
+    first_name: sigeberht
+    dynasty: wuffinga_dynasty
+    father: eang_raedwald_wuffinga #uncertain
+    religion: germanic
+    culture: anglo_saxon
+    tag: EANG
+  605:
+    religion: chalcedonism
+  637:
     death: yes
 eang_ecgric_wuffinga:
-  600.1.1:
-    birth: norwich #TODO: Date and location guessed, check if better data is available
+  605:
+    birth: norwich #unknown
     first_name: ecgric
     dynasty: wuffinga_dynasty
-    adm: 60
-    dip: 60
-    mil: 45
+    father: eang_raedwald_wuffinga #uncertain
     religion: chalcedonism
     culture: anglo_saxon
     tag: EANG
-  640.1.1:
+  641:
     death: yes
 eang_anna_wuffinga:
-  610.1.1:
-    birth: norwich #TODO: Date and location guessed, check if better data is available
+  610:
+    birth: norwich #unknown
     first_name: anna
     dynasty: wuffinga_dynasty
-    adm: 60
-    dip: 45
-    mil: 60
+    father: eang_eni_wuffinga
     religion: chalcedonism
     culture: anglo_saxon
     tag: EANG
-  653.1.1:
+  653:
     death: yes
 eang_aethelhere_wuffinga:
-  623.1.1:
-    birth: norwich #TODO: Date and location guessed, check if better data is available
+  612:
+    birth: norwich #unknown
     first_name: aethelhere
     dynasty: wuffinga_dynasty
-    adm: 60
-    dip: 60
-    mil: 45
+    father: eang_eni_wuffinga
     religion: chalcedonism
     culture: anglo_saxon
     tag: EANG
-  655.1.1:
+  655.11.15:
     death: yes
-eang_aethelword_wuffinga:
-  625.1.1:
-    birth: norwich #TODO: Date and location guessed, check if better data is available
-    first_name: aethelword
+eang_aethelwold_wuffinga:
+  614:
+    birth: norwich #unknown
+    first_name: aethelwold
     dynasty: wuffinga_dynasty
-    adm: 75
-    dip: 45
-    mil: 30
+    father: eang_eni_wuffinga
     religion: chalcedonism
     culture: anglo_saxon
     tag: EANG
-  663.1.1:
+  664:
+    death: yes
+eang_aethilric_wuffinga:
+  616:
+    birth: norwich #unknown
+    first_name: aethilric
+    dynasty: wuffinga_dynasty
+    father: eang_eni_wuffinga
+    religion: chalcedonism
+    culture: anglo_saxon
+    tag: EANG
+  647:
+    death: yes
+eang_hereswith:
+  625:
+    birth: norwich #unknown
+    first_name: hereswith
+    female: yes
+    religion: chalcedonism
+    culture: anglo_saxon
+    tag: EANG
+  640:
+    spouse: eang_aethilric_wuffinga
+  680:
+    death: yes
+eang_wendreda_wuffinga:
+  633:
+    birth: norwich #unknown
+    first_name: wendreda
+    dynasty: wuffinga_dynasty
+    female: yes
+    father: eang_anna_wuffinga
+    religion: chalcedonism
+    culture: anglo_saxon
+    tag: EANG
+  680:
     death: yes
 eang_ealdwulf_wuffinga:
-  633.1.1:
-    birth: norwich #TODO: Date and location guessed, check if better data is available
+  645:
+    birth: norwich #unknown
     first_name: ealdwulf
     dynasty: wuffinga_dynasty
-    adm: 45
-    dip: 45
-    mil: 45
+    father: eang_aethilric_wuffinga
+    mother: eang_hereswith
     religion: chalcedonism
     culture: anglo_saxon
     tag: EANG
-  713.1.1:
+  713:
     death: yes
 eang_aelfwald_wuffinga:
-  683.1.1:
-    birth: norwich #TODO: Date and location guessed, check if better data is available
+  680:
+    birth: norwich #unknown
     first_name: aelfwald
     dynasty: wuffinga_dynasty
-    adm: 45
-    dip: 45
-    mil: 30
+    father: eang_ealdwulf_wuffinga
     religion: chalcedonism
     culture: anglo_saxon
     tag: EANG
-  749.1.1:
+  749:
+    death: yes
+eang_alberht_wuffinga:
+  710:
+    birth: norwich #unknown
+    first_name: name_albert
+    dynasty: wuffinga_dynasty
+    father: eang_aelfwald_wuffinga
+    religion: chalcedonism
+    culture: anglo_saxon
+    tag: EANG
+  760:
     death: yes
 eang_aethelred_i_angle:
-  719.1.1:
-    birth: norwich #TODO: Date and location guessed, check if better data is available
+  720:
+    birth: norwich #unknown
     first_name: aethelred
-    dynasty: angle_dynasty
-    adm: 45
-    dip: 30
-    mil: 45
+    dynasty: east_anglia_dynasty
     religion: chalcedonism
     culture: anglo_saxon
     tag: EANG
-  779.1.1:
+  779:
     death: yes
 eang_aethelberht_ii_angle:
-  749.1.1:
-    birth: norwich #TODO: Date and location guessed, check if better data is available
+  750:
+    birth: norwich #unknown
     first_name: aethelberht
-    dynasty: angle_dynasty
-    adm: 45
-    dip: 30
-    mil: 60
+    dynasty: east_anglia_dynasty
+    father: eang_aethelred_i_angle
     religion: chalcedonism
     culture: anglo_saxon
     tag: EANG
-  827.1.1:
+  794.5.20:
+    death: yes
+eang_eadwald_angle:
+  760:
+    birth: norwich #unknown
+    first_name: eadwald
+    dynasty: east_anglia_dynasty
+    religion: chalcedonism
+    culture: anglo_saxon
+    tag: EANG
+  800:
     death: yes
 eang_aethelstan_angle:
-  797.1.1:
-    birth: norwich #TODO: Date and location guessed, check if better data is available
+  800:
+    birth: norwich #unknown
     first_name: aethelstan
-    dynasty: angle_dynasty
-    adm: 30
-    dip: 45
-    mil: 45
+    dynasty: east_anglia_dynasty
     religion: chalcedonism
     culture: anglo_saxon
     tag: EANG
-  845.1.1:
+  844:
     death: yes
 eang_aethelweard_angle:
-  815.1.1:
-    birth: norwich #TODO: Date and location guessed, check if better data is available
+  820:
+    birth: norwich #unknown
     first_name: aethelweard
-    dynasty: angle_dynasty
-    adm: 60
-    dip: 30
-    mil: 30
+    dynasty: east_anglia_dynasty
     religion: chalcedonism
     culture: anglo_saxon
     tag: EANG
-  855.1.1:
-    death: yes
-eang_edmund_angle:
-  825.1.1:
-    birth: norwich #TODO: Date and location guessed, check if better data is available
-    first_name: edmund
-    dynasty: angle_dynasty
-    adm: 45
-    dip: 45
-    mil: 30
-    religion: catholic
-    culture: anglo_saxon
-    tag: EANG
-  869.11.20:
+  855:
     death: yes
 eang_oswald_i_angle:
-  839.1.1:
-    birth: norwich #TODO: Date and location guessed, check if better data is available
+  840:
+    birth: norwich #unknown
     first_name: oswald
-    dynasty: angle_dynasty
-    adm: 15
-    dip: 30
-    mil: 15
-    religion: catholic
+    dynasty: east_anglia_dynasty
+    religion: chalcedonism
     culture: anglo_saxon
     tag: EANG
-  875.1.1:
+  867:
+    religion: catholic
+  875:
+    death: yes
+eang_edmund_angle:
+  841:
+    birth: norwich #unknown
+    first_name: name_edmond
+    dynasty: east_anglia_dynasty
+    father: eang_aethelweard_angle
+    religion: chalcedonism
+    culture: anglo_saxon
+    tag: EANG
+  867:
+    religion: catholic
+  869.11.20:
     death: yes
 eang_aethelred_ii_angle:
-  850.1.1:
-    birth: norwich #TODO: Date and location guessed, check if better data is available
+  845:
+    birth: norwich #unknown
     first_name: aethelred
-    dynasty: angle_dynasty
-    adm: 60
-    dip: 15
-    mil: 45
-    religion: catholic
-    culture: danish
+    dynasty: east_anglia_dynasty
+    religion: chalcedonism
+    culture: anglo_saxon
     tag: EANG
-  879.1.1:
+  867:
+    religion: catholic
+  878:
     death: yes
 eang_guthrum_i_guthruming:
-  835.1.1:
-    birth: norwich #TODO: Date and location guessed, check if better data is available
+  835:
+    birth: kolding #unknown
     first_name: guthrum
     dynasty: guthruming_dynasty
-    adm: 15
-    dip: 75
-    mil: 60
-    religion: catholic
+    adm: 35
+    dip: 55
+    mil: 70
+    religion: norse
     culture: danish
+    tag: DAN
+  878:
     tag: EANG
-  890.1.1:
+    religion: catholic
+  890:
     death: yes
 eang_eohric_i_guthruming:
-  860.1.1:
-    birth: norwich #TODO: Date and location guessed, check if better data is available
-    first_name: eohric
+  860:
+    birth: kolding #unknown
+    first_name: name_eric
     dynasty: guthruming_dynasty
-    adm: 45
-    dip: 15
-    mil: 15
-    religion: catholic
+    father: eang_guthrum_i_guthruming #conjecture
+    religion: norse
     culture: danish
+    tag: DAN
+  878:
     tag: EANG
+    religion: catholic
   902.12.13:
     death: yes
 eang_guthrum_ii_guthruming:
-  880.1.1:
-    birth: norwich #TODO: Date and location guessed, check if better data is available
+  880:
+    birth: norwich #unknown
     first_name: guthrum
     dynasty: guthruming_dynasty
-    adm: 15
-    dip: 30
-    mil: 0
+    father: eang_eohric_i_guthruming #conjecture
     religion: catholic
     culture: danish
     tag: EANG
-  918.1.1:
+  918:
     death: yes

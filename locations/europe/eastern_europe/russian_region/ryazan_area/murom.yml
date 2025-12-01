@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/1754 - Orel.txt
 2.1.1:
   pop:
-    ethnicity: muromian
-    religion: muinaisusko
-    estate: peasant
-    size: 1000
+    - ethnicity: muromian
+      religion: muinaisusko
+      estate: peasant
+      size: 1000
 600.1.1:
   owner: MRM
   controller: MRM
@@ -13,10 +13,10 @@
   resource: grain
 1010.1.1:
   pop:
-    ethnicity: muscovite
-    religion: orthodox
-    estate: peasant
-    size: 1000
+    - ethnicity: muscovite
+      religion: orthodox
+      estate: peasant
+      size: 1000
 1239.1.1:
   owner: MGE
   controller: MGE

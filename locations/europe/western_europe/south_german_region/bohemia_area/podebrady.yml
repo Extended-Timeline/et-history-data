@@ -6,10 +6,10 @@
     NAHA: yes
   resource: grain
   pop:
-    ethnicity: vandal
-    religion: germanic
-    estate: peasant
-    size: 1000
+    - ethnicity: vandal
+      religion: germanic
+      estate: peasant
+      size: 1000
 395.1.1:
   owner: LOMB
   controller: LOMB
@@ -17,9 +17,9 @@
     NAHA: no
     LOMB: yes
   pop:
-    ethnicity: langobardi
-    estate: peasant
-    size: 1000
+    - ethnicity: langobardi
+      estate: peasant
+      size: 1000
 550.1.1:
   owner: BOH
   controller: BOH
@@ -27,10 +27,10 @@
     LOMB: no
     BOH: yes
   pop:
-    ethnicity: czech
-    religion: slavic
-    estate: peasant
-    size: 1000
+    - ethnicity: czech
+      religion: slavic
+      estate: peasant
+      size: 1000
 623.1.1:
   owner: SAMO
   controller: SAMO
@@ -44,9 +44,9 @@
     MVA: yes
 880.1.1:
   pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - religion: catholic
+      estate: peasant
+      size: 1000
 894.1.1:
   owner: BOH
   controller: BOH
@@ -55,9 +55,9 @@
     BOH: yes
 1419.12.1:
   pop:
-    religion: hussite
-    estate: peasant
-    size: 1000
+    - religion: hussite
+      estate: peasant
+      size: 1000
 1436.7.5:
   controller: BOH
 1526.8.30:
@@ -68,9 +68,9 @@
     HAB: yes
 1576.1.1:
   pop:
-    religion: lutheran
-    estate: peasant
-    size: 1000
+    - religion: lutheran
+      estate: peasant
+      size: 1000
 1618.5.23:
   owner: BOH
   controller: BOH
@@ -83,9 +83,9 @@
     BOH: no
 1627.1.1:
   pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - religion: catholic
+      estate: peasant
+      size: 1000
 1918.10.28:
   owner: CZES
   controller: CZES
@@ -112,6 +112,6 @@
     CZEC: yes
 1995.1.1:
   pop:
-    religion: irreligious
-    estate: peasant
-    size: 1000
+    - religion: irreligious
+      estate: peasant
+      size: 1000

@@ -6,10 +6,10 @@
     ROM: yes
   resource: naval_supplies
   pop:
-    ethnicity: pontic_greek_culture
-    religion: hellenism_religion
-    estate: peasant
-    size: 1000
+    - ethnicity: pontic_greek_culture
+      religion: hellenism_religion
+      estate: peasant
+      size: 1000
 395.1.17:
   owner: BYZ
   controller: BYZ
@@ -18,14 +18,14 @@
     BYZ: yes
 440.1.1:
   pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+    - religion: chalcedonism
+      estate: peasant
+      size: 1000
 867.1.1:
   pop:
-    religion: orthodox
-    estate: peasant
-    size: 1000
+    - religion: orthodox
+      estate: peasant
+      size: 1000
 1204.1.1:
   owner: TRE
   controller: TRE
@@ -47,9 +47,9 @@
     CND: yes
 1450.1.1:
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 1458.1.1:
   owner: TUR
   controller: TUR
@@ -74,6 +74,6 @@
     TUR: no
 1923.1.1:
   pop:
-    ethnicity: turkish_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: turkish_culture
+      estate: peasant
+      size: 1000

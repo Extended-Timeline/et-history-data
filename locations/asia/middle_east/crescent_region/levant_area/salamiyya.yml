@@ -6,10 +6,10 @@
     ROM: yes
   resource: cotton
   pop:
-    ethnicity: syriac_culture
-    religion: hellenism_religion
-    estate: peasant
-    size: 1000
+    - ethnicity: syriac_culture
+      religion: hellenism_religion
+      estate: peasant
+      size: 1000
 260.1.1:
   cores:
     PALM: yes
@@ -19,9 +19,9 @@
     PALM: no
 380.1.1:
   pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+    - religion: chalcedonism
+      estate: peasant
+      size: 1000
 395.1.17:
   owner: BYZ
   controller: BYZ
@@ -30,9 +30,9 @@
     BYZ: yes
 512.11.16:
   pop:
-    religion: miaphysite
-    estate: peasant
-    size: 1000
+    - religion: miaphysite
+      estate: peasant
+      size: 1000
 613.1.1:
   controller: ERA
 627.1.1:
@@ -79,10 +79,10 @@
     SYRI: yes
 960.1.1:
   pop:
-    ethnicity: levantine_culture
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - ethnicity: levantine_culture
+      religion: sunni
+      estate: peasant
+      size: 1000
 1002.1.1:
   owner: FATI
   controller: FATI

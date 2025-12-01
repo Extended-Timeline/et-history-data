@@ -6,10 +6,10 @@
     THAT: yes
   resource: spices
   pop:
-    ethnicity: mon_culture
-    religion: theravada
-    estate: peasant
-    size: 1000
+    - ethnicity: mon_culture
+      religion: theravada
+      estate: peasant
+      size: 1000
 1057.5.17:
   owner: PAGA
   controller: PAGA
@@ -47,9 +47,9 @@
   controller: BURM
 1814.1.1:
   pop:
-    ethnicity: burmese_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: burmese_culture
+      estate: peasant
+      size: 1000
 1852.12.20:
   owner: GBR
   controller: GBR

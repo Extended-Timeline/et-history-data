@@ -6,10 +6,10 @@
     SATA: yes
   resource: grain
   pop:
-    ethnicity: marathi_culture
-    religion: jain
-    estate: peasant
-    size: 1000
+    - ethnicity: marathi_culture
+      religion: jain
+      estate: peasant
+      size: 1000
 80.1.1:
   owner: WSAT
   controller: WSAT
@@ -61,9 +61,9 @@
     CHAL: yes
 1180.1.1:
   pop:
-    religion: hindu
-    estate: peasant
-    size: 1000
+    - religion: hindu
+      estate: peasant
+      size: 1000
 1189.1.1:
   owner: YADA
   controller: YADA

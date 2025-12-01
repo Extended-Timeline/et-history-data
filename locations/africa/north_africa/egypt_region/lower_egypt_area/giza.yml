@@ -6,10 +6,10 @@
     ROM: yes
   resource: cloth
   pop:
-    ethnicity: old_egyptian
-    religion: hellenism_religion
-    estate: peasant
-    size: 1000
+    - ethnicity: old_egyptian
+      religion: hellenism_religion
+      estate: peasant
+      size: 1000
 395.1.17:
   owner: BYZ
   controller: BYZ
@@ -18,14 +18,14 @@
     BYZ: yes
 420.1.1:
   pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+    - religion: chalcedonism
+      estate: peasant
+      size: 1000
 451.11.1:
   pop:
-    religion: miaphysite
-    estate: peasant
-    size: 1000
+    - religion: miaphysite
+      estate: peasant
+      size: 1000
 618.1.1:
   controller: ERA
 628.1.1:
@@ -50,10 +50,10 @@
     ABBA: yes
 830.1.1:
   pop:
-    ethnicity: lower_egyptian_culture
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - ethnicity: lower_egyptian_culture
+      religion: sunni
+      estate: peasant
+      size: 1000
 868.9.15:
   owner: EGY
   controller: EGY

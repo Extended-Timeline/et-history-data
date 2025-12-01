@@ -1,19 +1,19 @@
 #imported from EU4 file: history/provinces/500 - St. Lucia.txt
 2.1.1:
   pop:
-    ethnicity: guaribes_culture
-    religion: muisca_religion
-    estate: peasant
-    size: 1000
+    - ethnicity: guaribes_culture
+      religion: muisca_religion
+      estate: peasant
+      size: 1000
 1600.1.1:
   owner: ENG
   controller: ENG
   resource: sugar
   pop:
-    ethnicity: english
-    religion: calvinist
-    estate: peasant
-    size: 1000
+    - ethnicity: english
+      religion: calvinist
+      estate: peasant
+      size: 1000
 1625.1.1:
   cores:
     ENG: yes
@@ -23,18 +23,18 @@
   cores:
     ENG: no
   pop:
-    ethnicity: french
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - ethnicity: french
+      religion: catholic
+      estate: peasant
+      size: 1000
 1676.1.1:
   cores:
     FRA: yes
 1780.1.1:
   pop:
-    ethnicity: french_caribbean
-    estate: peasant
-    size: 1000
+    - ethnicity: french_caribbean
+      estate: peasant
+      size: 1000
 1815.11.20:
   owner: GBR
   controller: GBR
@@ -42,14 +42,14 @@
     FRA: no
     GBR: yes
   pop:
-    ethnicity: british_caribbean
-    estate: peasant
-    size: 1000
+    - ethnicity: british_caribbean
+      estate: peasant
+      size: 1000
 1900.1.1:
   pop:
-    religion: lutheran
-    estate: peasant
-    size: 1000
+    - religion: lutheran
+      estate: peasant
+      size: 1000
 1967.1.1:
   cores:
     SLUC: yes

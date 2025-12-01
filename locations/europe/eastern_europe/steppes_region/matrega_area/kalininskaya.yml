@@ -7,10 +7,10 @@
     ROM: yes
   resource: livestock
   pop:
-    ethnicity: circassian_culture
-    religion: 
-    estate: peasant
-    size: 1000
+    - ethnicity: circassian_culture
+      religion: 
+      estate: peasant
+      size: 1000
 63.1.1:
   owner: ROM
   controller: ROM
@@ -74,9 +74,9 @@
     CRIM: yes
 1250.1.1:
   pop:
-    ethnicity: crimean
-    estate: peasant
-    size: 1000
+    - ethnicity: crimean
+      estate: peasant
+      size: 1000
 1260.1.1:
   owner: WHHO
   controller: WHHO
@@ -85,9 +85,9 @@
     WHHO: yes
 1300.1.1:
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 1372.1.1:
   owner: BLHO
   controller: BLHO
@@ -120,9 +120,9 @@
     TUR: no
 1792.6.12:
   pop:
-    ethnicity: ruthenian
-    estate: peasant
-    size: 1000
+    - ethnicity: ruthenian
+      estate: peasant
+      size: 1000
 1918.2.20:
   owner: UKR
   controller: UKR
@@ -141,9 +141,9 @@
     SOVI: yes
 1933.1.1:
   pop:
-    ethnicity: muscovite
-    estate: peasant
-    size: 1000
+    - ethnicity: muscovite
+      estate: peasant
+      size: 1000
 1942.8.12:
   controller: GER
 1943.2.12:

@@ -6,20 +6,20 @@
     OSRA: yes
   resource: livestock
   pop:
-    ethnicity: irish
-    religion: druidism
-    estate: peasant
-    size: 1000
+    - ethnicity: irish
+      religion: druidism
+      estate: peasant
+      size: 1000
 600.1.1:
   pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+    - religion: chalcedonism
+      estate: peasant
+      size: 1000
 867.1.1:
   pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - religion: catholic
+      estate: peasant
+      size: 1000
 996.1.1:
   owner: DMS
   controller: DMS

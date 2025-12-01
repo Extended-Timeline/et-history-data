@@ -6,10 +6,10 @@
     HERU: yes
   resource: naval_supplies
   pop:
-    ethnicity: scanian
-    religion: norse
-    estate: peasant
-    size: 1000
+    - ethnicity: scanian
+      religion: norse
+      estate: peasant
+      size: 1000
 380.1.1:
   owner: EGEA
   controller: EGEA
@@ -18,9 +18,9 @@
     EGEA: yes
 450.1.1:
   pop:
-    ethnicity: danish
-    estate: peasant
-    size: 1000
+    - ethnicity: danish
+      estate: peasant
+      size: 1000
 650.1.1:
   owner: DAN
   controller: DAN
@@ -29,9 +29,9 @@
     DAN: yes
 950.1.1:
   pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - religion: catholic
+      estate: peasant
+      size: 1000
 1000.1.1:
   cores:
     SWE: yes
@@ -40,9 +40,9 @@
 1536.3.15:
   controller: DAN
   pop:
-    religion: lutheran
-    estate: peasant
-    size: 1000
+    - religion: lutheran
+      estate: peasant
+      size: 1000
 1658.2.26:
   owner: SWE
   controller: SWE
@@ -50,9 +50,9 @@
     SWE: yes
 1680.1.1:
   pop:
-    ethnicity: swedish
-    estate: peasant
-    size: 1000
+    - ethnicity: swedish
+      estate: peasant
+      size: 1000
 1850.1.1:
   cores:
     DAN: no

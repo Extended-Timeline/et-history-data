@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/4690 - Ishim.txt
 2.1.1:
   pop:
-    ethnicity: sakha_culture
-    religion: mari_paganism
-    estate: peasant
-    size: 1000
+    - ethnicity: sakha_culture
+      religion: mari_paganism
+      estate: peasant
+      size: 1000
 1245.1.1:
   owner: MGE
   controller: MGE
@@ -12,9 +12,9 @@
     MGE: yes
   resource: fur
   pop:
-    religion: 
-    estate: peasant
-    size: 1000
+    - religion: 
+      estate: peasant
+      size: 1000
 1260.1.1:
   owner: BLHO
   controller: BLHO
@@ -29,9 +29,9 @@
     SIBI: yes
 1380.1.1:
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 1428.1.1:
   owner: SHAY
   controller: SHAY
@@ -48,10 +48,10 @@
     RUS: yes
 1860.1.1:
   pop:
-    ethnicity: muscovite
-    religion: orthodox
-    estate: peasant
-    size: 1000
+    - ethnicity: muscovite
+      religion: orthodox
+      estate: peasant
+      size: 1000
 1922.12.30:
   owner: SOVI
   controller: SOVI

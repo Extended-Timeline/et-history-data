@@ -7,10 +7,10 @@
     WUU: yes
   resource: copper
   pop:
-    ethnicity: bai_culture
-    religion: bimoism
-    estate: peasant
-    size: 1000
+    - ethnicity: bai_culture
+      religion: bimoism
+      estate: peasant
+      size: 1000
 9.1.10:
   owner: XIN0
   controller: XIN0
@@ -83,9 +83,9 @@
     NANZ: yes
 660.1.1:
   pop:
-    religion: tibetan_buddhism
-    estate: peasant
-    size: 1000
+    - religion: tibetan_buddhism
+      estate: peasant
+      size: 1000
 937.1.1:
   owner: CDL
   controller: CDL

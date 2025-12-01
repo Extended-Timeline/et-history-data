@@ -7,10 +7,10 @@
     DAI: yes
   resource: grain
   pop:
-    ethnicity: zhuang_culture
-    religion: mahayana
-    estate: peasant
-    size: 1000
+    - ethnicity: zhuang_culture
+      religion: mahayana
+      estate: peasant
+      size: 1000
 9.1.10:
   owner: XIN0
   controller: XIN0

@@ -6,15 +6,15 @@
     ROM: yes
   resource: livestock
   pop:
-    ethnicity: eastern_amazigh
-    religion: egyptian
-    estate: peasant
-    size: 1000
+    - ethnicity: eastern_amazigh
+      religion: egyptian
+      estate: peasant
+      size: 1000
 380.1.1:
   pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+    - religion: chalcedonism
+      estate: peasant
+      size: 1000
 395.1.17:
   owner: BYZ
   controller: BYZ
@@ -23,9 +23,9 @@
     BYZ: yes
 451.11.1:
   pop:
-    religion: miaphysite
-    estate: peasant
-    size: 1000
+    - religion: miaphysite
+      estate: peasant
+      size: 1000
 618.1.1:
   controller: ERA
 628.1.1:
@@ -72,10 +72,10 @@
     FATI: yes
 980.1.1:
   pop:
-    ethnicity: lower_egyptian_culture
-    religion: shia
-    estate: peasant
-    size: 1000
+    - ethnicity: lower_egyptian_culture
+      religion: shia
+      estate: peasant
+      size: 1000
 1171.1.1:
   owner: EGY
   controller: EGY
@@ -84,9 +84,9 @@
     EGY: yes
 1220.1.1:
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 1250.5.2:
   owner: MAM
   controller: MAM

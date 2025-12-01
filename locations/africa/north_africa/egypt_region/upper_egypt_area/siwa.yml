@@ -6,10 +6,10 @@
     NASA: yes
   resource: livestock
   pop:
-    ethnicity: eastern_amazigh
-    religion: egyptian
-    estate: peasant
-    size: 1000
+    - ethnicity: eastern_amazigh
+      religion: egyptian
+      estate: peasant
+      size: 1000
 643.1.1:
   owner: RASH
   controller: RASH
@@ -51,9 +51,9 @@
     FATI: yes
 1150.1.1:
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 1171.1.1:
   owner: EGY
   controller: EGY

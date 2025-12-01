@@ -6,10 +6,10 @@
     XION: yes
   resource: wool
   pop:
-    ethnicity: rouran
-    religion: 
-    estate: peasant
-    size: 1000
+    - ethnicity: rouran
+      religion: 
+      estate: peasant
+      size: 1000
 91.2.1:
   owner: XIAN
   controller: XIAN
@@ -30,9 +30,9 @@
     GOKT: yes
 560.1.1:
   pop:
-    ethnicity: tuvan_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: tuvan_culture
+      estate: peasant
+      size: 1000
 627.1.1:
   owner: XUEY
   controller: XUEY
@@ -51,9 +51,9 @@
     GOKT: yes
 700.1.1:
   pop:
-    ethnicity: oirat_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: oirat_culture
+      estate: peasant
+      size: 1000
 744.1.1:
   owner: UYGH
   controller: UYGH
@@ -62,9 +62,9 @@
     UYGH: yes
 745.1.1:
   pop:
-    religion: manichaeism
-    estate: peasant
-    size: 1000
+    - religion: manichaeism
+      estate: peasant
+      size: 1000
 848.1.1:
   owner: NAIM
   controller: NAIM
@@ -73,9 +73,9 @@
     NAIM: yes
 860.1.1:
   pop:
-    religion: nestorianism
-    estate: peasant
-    size: 1000
+    - religion: nestorianism
+      estate: peasant
+      size: 1000
 1204.1.1:
   owner: KHMO
   controller: KHMO
@@ -90,9 +90,9 @@
     MGE: yes
 1240.1.1:
   pop:
-    religion: 
-    estate: peasant
-    size: 1000
+    - religion: 
+      estate: peasant
+      size: 1000
 1271.1.1:
   owner: YUA
   controller: YUA
@@ -118,9 +118,9 @@
     MGE: yes
 1560.1.1:
   pop:
-    religion: tibetan_buddhism
-    estate: peasant
-    size: 1000
+    - religion: tibetan_buddhism
+      estate: peasant
+      size: 1000
 1635.4.1:
   owner: KHAL
   controller: KHAL

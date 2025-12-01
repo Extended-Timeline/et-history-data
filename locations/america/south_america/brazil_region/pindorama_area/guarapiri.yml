@@ -6,25 +6,25 @@
     TAPU: yes
   resource: cocoa
   pop:
-    ethnicity: akwe_culture
-    religion: muisca_religion
-    estate: peasant
-    size: 1000
+    - ethnicity: akwe_culture
+      religion: muisca_religion
+      estate: peasant
+      size: 1000
 1535.5.23:
   owner: POR
   controller: POR
   cores:
     POR: yes
   pop:
-    ethnicity: portuguese
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - ethnicity: portuguese
+      religion: catholic
+      estate: peasant
+      size: 1000
 1780.1.1:
   pop:
-    ethnicity: brazilian
-    estate: peasant
-    size: 1000
+    - ethnicity: brazilian
+      estate: peasant
+      size: 1000
 1822.9.7:
   owner: BRAZ
   controller: BRAZ

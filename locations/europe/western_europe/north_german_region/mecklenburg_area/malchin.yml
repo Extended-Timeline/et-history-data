@@ -6,10 +6,10 @@
     WARI: yes
   resource: livestock
   pop:
-    ethnicity: saxon
-    religion: germanic
-    estate: peasant
-    size: 1000
+    - ethnicity: saxon
+      religion: germanic
+      estate: peasant
+      size: 1000
 260.1.1:
   owner: RUGE
   controller: RUGE
@@ -17,15 +17,15 @@
     WARI: no
     RUGE: yes
   pop:
-    ethnicity: western_pomeranian
-    estate: peasant
-    size: 1000
+    - ethnicity: western_pomeranian
+      estate: peasant
+      size: 1000
 395.1.1:
   pop:
-    ethnicity: polabian
-    religion: slavic
-    estate: peasant
-    size: 1000
+    - ethnicity: polabian
+      religion: slavic
+      estate: peasant
+      size: 1000
 570.1.1:
   owner: POM
   controller: POM
@@ -63,14 +63,14 @@
     BRA: yes
 1160.1.1:
   pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - religion: catholic
+      estate: peasant
+      size: 1000
 1240.1.1:
   pop:
-    ethnicity: western_pomeranian
-    estate: peasant
-    size: 1000
+    - ethnicity: western_pomeranian
+      estate: peasant
+      size: 1000
 1317.11.25:
   owner: MKL
   controller: MKL
@@ -79,9 +79,9 @@
     MKL: yes
 1531.1.1:
   pop:
-    religion: lutheran
-    estate: peasant
-    size: 1000
+    - religion: lutheran
+      estate: peasant
+      size: 1000
 1871.1.18:
   owner: GER
   controller: GER
@@ -101,6 +101,6 @@
     EGER: no
 2010.1.1:
   pop:
-    religion: irreligious
-    estate: peasant
-    size: 1000
+    - religion: irreligious
+      estate: peasant
+      size: 1000

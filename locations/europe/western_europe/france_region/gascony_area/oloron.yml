@@ -6,10 +6,10 @@
     ROM: yes
   resource: wool
   pop:
-    ethnicity: aquitanian
-    religion: bimoism
-    estate: peasant
-    size: 1000
+    - ethnicity: aquitanian
+      religion: bimoism
+      estate: peasant
+      size: 1000
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -23,14 +23,14 @@
     ROMW: no
     VISG: yes
   pop:
-    religion: arianism
-    estate: peasant
-    size: 1000
+    - religion: arianism
+      estate: peasant
+      size: 1000
 500.1.1:
   pop:
-    ethnicity: gascon
-    estate: peasant
-    size: 1000
+    - ethnicity: gascon
+      estate: peasant
+      size: 1000
 507.1.1:
   owner: FRAN
   controller: FRAN
@@ -50,9 +50,9 @@
     FRAN: yes
 560.1.1:
   pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+    - religion: chalcedonism
+      estate: peasant
+      size: 1000
 561.11.29:
   owner: NEUS
   controller: NEUS
@@ -105,9 +105,9 @@
     AQN: yes
 867.1.1:
   pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - religion: catholic
+      estate: peasant
+      size: 1000
 877.10.6:
   owner: GUY
   controller: GUY
@@ -156,9 +156,9 @@
     NAV: yes
 1560.1.1:
   pop:
-    religion: calvinist
-    estate: peasant
-    size: 1000
+    - religion: calvinist
+      estate: peasant
+      size: 1000
 1589.8.2:
   owner: FRA
   controller: FRA

@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/2600 - Nihithawak.txt
 2.1.1:
   pop:
-    ethnicity: mahmikiwini_culture
-    religion: iroquoian_totemism
-    estate: peasant
-    size: 1000
+    - ethnicity: mahmikiwini_culture
+      religion: iroquoian_totemism
+      estate: peasant
+      size: 1000
 1788.1.1:
   owner: GBR
   controller: GBR
@@ -12,15 +12,15 @@
     GBR: yes
   resource: fur
   pop:
-    ethnicity: english
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - ethnicity: english
+      religion: catholic
+      estate: peasant
+      size: 1000
 1790.1.1:
   pop:
-    ethnicity: british_canadian
-    estate: peasant
-    size: 1000
+    - ethnicity: british_canadian
+      estate: peasant
+      size: 1000
 1870.7.15:
   owner: CAN
   controller: CAN

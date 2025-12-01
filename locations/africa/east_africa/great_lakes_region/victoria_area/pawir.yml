@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/4074 - Acholiland.txt
 2.1.1:
   pop:
-    ethnicity: luo_culture
-    religion: bantu_religion
-    estate: peasant
-    size: 1000
+    - ethnicity: luo_culture
+      religion: bantu_religion
+      estate: peasant
+      size: 1000
 1300.1.1:
   owner: BNY
   controller: BNY
@@ -17,9 +17,9 @@
   cores:
     GBR: yes
   pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - religion: catholic
+      estate: peasant
+      size: 1000
 1962.10.9:
   owner: UGAN
   controller: UGAN

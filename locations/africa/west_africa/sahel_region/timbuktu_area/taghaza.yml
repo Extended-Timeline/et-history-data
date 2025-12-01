@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/1128 - Taodeni.txt
 2.1.1:
   pop:
-    ethnicity: tuareg
-    religion: bantu_religion
-    estate: peasant
-    size: 1000
+    - ethnicity: tuareg
+      religion: bantu_religion
+      estate: peasant
+      size: 1000
 850.1.1:
   owner: SANH
   controller: SANH
@@ -13,9 +13,9 @@
   resource: salt
 900.1.1:
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 920.1.1:
   owner: TMB
   controller: TMB

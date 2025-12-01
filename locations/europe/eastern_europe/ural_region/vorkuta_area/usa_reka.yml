@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/1780 - Komi.txt
 2.1.1:
   pop:
-    ethnicity: nenets_culture
-    religion: muinaisusko
-    estate: peasant
-    size: 1000
+    - ethnicity: nenets_culture
+      religion: muinaisusko
+      estate: peasant
+      size: 1000
 1850.1.1:
   owner: RUS
   controller: RUS
@@ -12,9 +12,9 @@
     RUS: yes
   resource: fur
   pop:
-    religion: orthodox
-    estate: peasant
-    size: 1000
+    - religion: orthodox
+      estate: peasant
+      size: 1000
 1922.12.30:
   owner: SOVI
   controller: SOVI

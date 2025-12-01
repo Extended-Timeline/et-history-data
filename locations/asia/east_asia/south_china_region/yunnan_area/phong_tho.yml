@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/2371 - Song La.txt
 2.1.1:
   pop:
-    ethnicity: lao_culture
-    religion: satsana_phi
-    estate: peasant
-    size: 1000
+    - ethnicity: lao_culture
+      religion: satsana_phi
+      estate: peasant
+      size: 1000
 620.1.1:
   owner: TKHA
   controller: TKHA
@@ -34,9 +34,9 @@
     DAI: no
 1840.1.1:
   pop:
-    religion: mahayana
-    estate: peasant
-    size: 1000
+    - religion: mahayana
+      estate: peasant
+      size: 1000
 1883.8.25:
   owner: FRA
 1886.4.1:

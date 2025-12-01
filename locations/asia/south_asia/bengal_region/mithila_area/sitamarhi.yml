@@ -6,10 +6,10 @@
     VAJJ: yes
   resource: dyes
   pop:
-    ethnicity: magahi
-    religion: mahayana
-    estate: peasant
-    size: 1000
+    - ethnicity: magahi
+      religion: mahayana
+      estate: peasant
+      size: 1000
 270.1.1:
   owner: KTU
   controller: KTU
@@ -53,9 +53,9 @@
     TIRH: yes
 1250.1.1:
   pop:
-    religion: hindu
-    estate: peasant
-    size: 1000
+    - religion: hindu
+      estate: peasant
+      size: 1000
 1497.1.1:
   controller: DLH
 1498.1.1:

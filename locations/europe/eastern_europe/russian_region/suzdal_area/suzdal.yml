@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/1956 - Suzdal.txt
 2.1.1:
   pop:
-    ethnicity: muromian
-    religion: muinaisusko
-    estate: peasant
-    size: 1000
+    - ethnicity: muromian
+      religion: muinaisusko
+      estate: peasant
+      size: 1000
 600.1.1:
   owner: MRM
   controller: MRM
@@ -18,9 +18,9 @@
     MRM: no
     MERY: yes
   pop:
-    ethnicity: merya_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: merya_culture
+      estate: peasant
+      size: 1000
 999.1.1:
   owner: KIEV
   controller: KIEV
@@ -29,9 +29,9 @@
     KIEV: yes
 1040.1.1:
   pop:
-    religion: orthodox
-    estate: peasant
-    size: 1000
+    - religion: orthodox
+      estate: peasant
+      size: 1000
 1054.2.20:
   owner: VLR
   controller: VLR
@@ -40,9 +40,9 @@
     VLR: yes
 1060.1.1:
   pop:
-    ethnicity: muscovite
-    estate: peasant
-    size: 1000
+    - ethnicity: muscovite
+      estate: peasant
+      size: 1000
 1389.1.1:
   owner: NZH
   controller: NZH

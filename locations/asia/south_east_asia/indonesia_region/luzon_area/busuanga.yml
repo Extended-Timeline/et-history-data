@@ -1,18 +1,18 @@
 #imported from EU4 file: history/provinces/4356 - Taytay.txt
 2.1.1:
   pop:
-    ethnicity: tagalog_culture
-    religion: bimoism
-    estate: peasant
-    size: 1000
+    - ethnicity: tagalog_culture
+      religion: bimoism
+      estate: peasant
+      size: 1000
 1623.1.1:
   owner: SPA
   controller: SPA
   resource: grain
   pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - religion: catholic
+      estate: peasant
+      size: 1000
 1774.1.1:
   cores:
     SPA: yes

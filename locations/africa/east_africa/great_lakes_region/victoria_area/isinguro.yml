@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/4064 - Uganda.txt
 2.1.1:
   pop:
-    ethnicity: baganda_culture
-    religion: bantu_religion
-    estate: peasant
-    size: 1000
+    - ethnicity: baganda_culture
+      religion: bantu_religion
+      estate: peasant
+      size: 1000
 1300.1.1:
   owner: BUG
   controller: BUG
@@ -17,9 +17,9 @@
   cores:
     GBR: yes
   pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - religion: catholic
+      estate: peasant
+      size: 1000
 1962.10.9:
   owner: UGAN
   controller: UGAN

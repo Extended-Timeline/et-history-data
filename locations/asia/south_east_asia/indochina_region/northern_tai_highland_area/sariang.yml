@@ -6,10 +6,10 @@
     LAWA: yes
   resource: grain
   pop:
-    ethnicity: wa_culture
-    religion: bimoism
-    estate: peasant
-    size: 1000
+    - ethnicity: wa_culture
+      religion: bimoism
+      estate: peasant
+      size: 1000
 580.1.1:
   owner: DVAR
   controller: DVAR
@@ -17,14 +17,14 @@
     LAWA: no
     DVAR: yes
   pop:
-    ethnicity: mon_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: mon_culture
+      estate: peasant
+      size: 1000
 590.1.1:
   pop:
-    religion: mahayana
-    estate: peasant
-    size: 1000
+    - religion: mahayana
+      estate: peasant
+      size: 1000
 629.1.1:
   owner: HARI
   controller: HARI
@@ -33,9 +33,9 @@
     HARI: yes
 1150.1.1:
   pop:
-    religion: theravada
-    estate: peasant
-    size: 1000
+    - religion: theravada
+      estate: peasant
+      size: 1000
 1292.1.1:
   owner: LNA
   controller: LNA
@@ -44,9 +44,9 @@
     LNA: yes
 1300.1.1:
   pop:
-    ethnicity: khon_muang_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: khon_muang_culture
+      estate: peasant
+      size: 1000
 1884.1.1:
   owner: RTP
   controller: RTP

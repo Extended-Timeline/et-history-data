@@ -7,10 +7,10 @@
     ROM: yes
   resource: wine
   pop:
-    ethnicity: pontic_greek_culture
-    religion: hellenism_religion
-    estate: peasant
-    size: 1000
+    - ethnicity: pontic_greek_culture
+      religion: hellenism_religion
+      estate: peasant
+      size: 1000
 63.1.1:
   owner: ROM
   controller: ROM
@@ -30,14 +30,14 @@
     ROM: no
     GOTH: yes
   pop:
-    religion: germanic
-    estate: peasant
-    size: 1000
+    - religion: germanic
+      estate: peasant
+      size: 1000
 400.1.1:
   pop:
-    ethnicity: gothic
-    estate: peasant
-    size: 1000
+    - ethnicity: gothic
+      estate: peasant
+      size: 1000
 550.1.1:
   owner: BYZ
   controller: BYZ
@@ -45,9 +45,9 @@
     BYZ: yes
 600.1.1:
   pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+    - religion: chalcedonism
+      estate: peasant
+      size: 1000
 750.1.1:
   owner: KHAZ
   controller: KHAZ
@@ -62,9 +62,9 @@
     BYZ: yes
 867.1.1:
   pop:
-    religion: orthodox
-    estate: peasant
-    size: 1000
+    - religion: orthodox
+      estate: peasant
+      size: 1000
 1204.4.13:
   owner: TRE
   controller: TRE
@@ -83,9 +83,9 @@
     TUR: yes
 1500.1.1:
   pop:
-    ethnicity: crimean
-    estate: peasant
-    size: 1000
+    - ethnicity: crimean
+      estate: peasant
+      size: 1000
 1771.7.1:
   controller: RUS
 1774.7.21:
@@ -96,9 +96,9 @@
     RUS: yes
 1880.1.1:
   pop:
-    religion: orthodox
-    estate: peasant
-    size: 1000
+    - religion: orthodox
+      estate: peasant
+      size: 1000
 1900.1.1:
   cores:
     CRIM: no
@@ -114,9 +114,9 @@
   controller: SOVI
 1945.1.1:
   pop:
-    ethnicity: muscovite
-    estate: peasant
-    size: 1000
+    - ethnicity: muscovite
+      estate: peasant
+      size: 1000
 1991.8.24:
   owner: UKR
   controller: UKR

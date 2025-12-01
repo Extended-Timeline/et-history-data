@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/2566 - Passamaquoddy.txt
 2.1.1:
   pop:
-    ethnicity: wolastoqiyik_culture
-    religion: iroquoian_totemism
-    estate: peasant
-    size: 1000
+    - ethnicity: wolastoqiyik_culture
+      religion: iroquoian_totemism
+      estate: peasant
+      size: 1000
 1613.1.1:
   owner: FRA
   controller: FRA
@@ -12,10 +12,10 @@
     FRA: yes
   resource: fish
   pop:
-    ethnicity: french
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - ethnicity: french
+      religion: catholic
+      estate: peasant
+      size: 1000
 1626.1.1:
   owner: ENG
   controller: ENG
@@ -23,10 +23,10 @@
     FRA: no
     ENG: yes
   pop:
-    ethnicity: english
-    religion: lutheran
-    estate: peasant
-    size: 1000
+    - ethnicity: english
+      religion: lutheran
+      estate: peasant
+      size: 1000
 1632.3.29:
   owner: FRA
   controller: FRA
@@ -34,10 +34,10 @@
     ENG: no
     FRA: yes
   pop:
-    ethnicity: french
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - ethnicity: french
+      religion: catholic
+      estate: peasant
+      size: 1000
 1654.1.1:
   owner: ENG
   controller: ENG
@@ -45,10 +45,10 @@
     FRA: no
     ENG: yes
   pop:
-    ethnicity: english
-    religion: lutheran
-    estate: peasant
-    size: 1000
+    - ethnicity: english
+      religion: lutheran
+      estate: peasant
+      size: 1000
 1670.1.1:
   owner: FRA
   controller: FRA
@@ -56,10 +56,10 @@
     ENG: no
     FRA: yes
   pop:
-    ethnicity: french
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - ethnicity: french
+      religion: catholic
+      estate: peasant
+      size: 1000
 1674.1.1:
   owner: NED
   controller: NED
@@ -67,10 +67,10 @@
     FRA: no
     NED: yes
   pop:
-    ethnicity: low_franconian
-    religion: calvinist
-    estate: peasant
-    size: 1000
+    - ethnicity: low_franconian
+      religion: calvinist
+      estate: peasant
+      size: 1000
 1676.1.1:
   owner: FRA
   controller: FRA
@@ -78,10 +78,10 @@
     NED: no
     FRA: yes
   pop:
-    ethnicity: french
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - ethnicity: french
+      religion: catholic
+      estate: peasant
+      size: 1000
 1698.1.1:
   owner: ABEN
   controller: ABEN
@@ -89,9 +89,9 @@
     FRA: no
     ABEN: yes
   pop:
-    ethnicity: eastern_abenaki_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: eastern_abenaki_culture
+      estate: peasant
+      size: 1000
 1727.1.1:
   owner: MLS
   controller: MLS
@@ -99,19 +99,19 @@
     ABEN: no
     MLS: yes
   pop:
-    ethnicity: wolastoqiyik_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: wolastoqiyik_culture
+      estate: peasant
+      size: 1000
 1763.1.1:
   owner: GBR
   controller: GBR
   cores:
     GBR: yes
   pop:
-    ethnicity: american
-    religion: lutheran
-    estate: peasant
-    size: 1000
+    - ethnicity: american
+      religion: lutheran
+      estate: peasant
+      size: 1000
 1776.7.4:
   owner: USA
   controller: USA

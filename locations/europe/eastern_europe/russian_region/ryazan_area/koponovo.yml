@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/301 - Ryazan.txt
 2.1.1:
   pop:
-    ethnicity: meschera_culture
-    religion: muinaisusko
-    estate: peasant
-    size: 1000
+    - ethnicity: meschera_culture
+      religion: muinaisusko
+      estate: peasant
+      size: 1000
 600.1.1:
   owner: MESC
   controller: MESC
@@ -19,10 +19,10 @@
     KIEV: yes
 1050.1.1:
   pop:
-    ethnicity: muscovite
-    religion: slavic
-    estate: peasant
-    size: 1000
+    - ethnicity: muscovite
+      religion: slavic
+      estate: peasant
+      size: 1000
 1054.2.20:
   owner: CHR
   controller: CHR
@@ -31,9 +31,9 @@
     CHR: yes
 1090.1.1:
   pop:
-    religion: orthodox
-    estate: peasant
-    size: 1000
+    - religion: orthodox
+      estate: peasant
+      size: 1000
 1097.1.1:
   owner: RYA
   controller: RYA

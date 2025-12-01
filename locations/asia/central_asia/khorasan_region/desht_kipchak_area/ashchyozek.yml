@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/2360 - Tobykty.txt
 2.1.1:
   pop:
-    ethnicity: kimek
-    religion: 
-    estate: peasant
-    size: 1000
+    - ethnicity: kimek
+      religion: 
+      estate: peasant
+      size: 1000
 260.1.1:
   owner: TIEL
   controller: TIEL
@@ -37,9 +37,9 @@
     KIME: yes
 1020.1.1:
   pop:
-    ethnicity: uzbek_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: uzbek_culture
+      estate: peasant
+      size: 1000
 1050.1.1:
   owner: KARL
   controller: KARL
@@ -60,9 +60,9 @@
     MGE: yes
 1240.1.1:
   pop:
-    ethnicity: khazak
-    estate: peasant
-    size: 1000
+    - ethnicity: khazak
+      estate: peasant
+      size: 1000
 1260.1.1:
   owner: BLHO
   controller: BLHO
@@ -76,9 +76,9 @@
     GLH: yes
 1380.1.1:
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 1394.1.1:
   owner: KAZA
   controller: KAZA

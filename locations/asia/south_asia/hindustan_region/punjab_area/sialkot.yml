@@ -6,10 +6,10 @@
     INGR: yes
   resource: salt
   pop:
-    ethnicity: bactrian
-    religion: mahayana
-    estate: peasant
-    size: 1000
+    - ethnicity: bactrian
+      religion: mahayana
+      estate: peasant
+      size: 1000
 10.1.1:
   owner: NSAT
   controller: NSAT
@@ -19,9 +19,9 @@
   cores:
     INGR: no
   pop:
-    ethnicity: punjabi
-    estate: peasant
-    size: 1000
+    - ethnicity: punjabi
+      estate: peasant
+      size: 1000
 120.1.1:
   owner: KUSH
   controller: KUSH
@@ -48,9 +48,9 @@
     GAND: yes
 550.1.1:
   pop:
-    religion: hindu
-    estate: peasant
-    size: 1000
+    - religion: hindu
+      estate: peasant
+      size: 1000
 670.1.1:
   owner: KSH
   controller: KSH
@@ -115,9 +115,9 @@
   cores:
     BNG: yes
   pop:
-    religion: sikhism
-    estate: peasant
-    size: 1000
+    - religion: sikhism
+      estate: peasant
+      size: 1000
 1553.1.1:
   owner: SIRH
   controller: SIRH

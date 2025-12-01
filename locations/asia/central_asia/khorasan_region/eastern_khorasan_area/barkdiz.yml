@@ -6,10 +6,10 @@
     PART: yes
   resource: cotton
   pop:
-    ethnicity: parthian
-    religion: zoroastrian
-    estate: peasant
-    size: 1000
+    - ethnicity: parthian
+      religion: zoroastrian
+      estate: peasant
+      size: 1000
 180.1.1:
   owner: KUSH
   controller: KUSH
@@ -23,14 +23,14 @@
     ERA: yes
 424.1.1:
   pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+    - religion: chalcedonism
+      estate: peasant
+      size: 1000
 431.7.1:
   pop:
-    religion: nestorianism
-    estate: peasant
-    size: 1000
+    - religion: nestorianism
+      estate: peasant
+      size: 1000
 484.1.1:
   owner: HEPH
   controller: HEPH
@@ -49,9 +49,9 @@
     RASH: yes
 650.1.1:
   pop:
-    ethnicity: khorasani_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: khorasani_culture
+      estate: peasant
+      size: 1000
 661.7.28:
   owner: UMAY
   controller: UMAY
@@ -66,9 +66,9 @@
     ABBA: yes
 770.1.1:
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 819.1.1:
   owner: KRT
   controller: KRT
@@ -94,9 +94,9 @@
     GHAZ: yes
 1020.1.1:
   pop:
-    ethnicity: turkmen_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: turkmen_culture
+      estate: peasant
+      size: 1000
 1037.1.1:
   owner: SELJ
   controller: SELJ
@@ -156,9 +156,9 @@
     KHOR: no
     BUKH: yes
   pop:
-    ethnicity: uzbek_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: uzbek_culture
+      estate: peasant
+      size: 1000
 1510.12.2:
   owner: IRA
   controller: IRA
@@ -166,9 +166,9 @@
     IRA: yes
 1700.1.1:
   pop:
-    ethnicity: turkmen_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: turkmen_culture
+      estate: peasant
+      size: 1000
 1750.1.2:
   owner: KHOR
   controller: KHOR

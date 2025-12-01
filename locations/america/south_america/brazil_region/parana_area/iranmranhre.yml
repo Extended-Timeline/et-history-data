@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/2907 - Vila Boa.txt
 2.1.1:
   pop:
-    ethnicity: akwe_culture
-    religion: muisca_religion
-    estate: peasant
-    size: 1000
+    - ethnicity: akwe_culture
+      religion: muisca_religion
+      estate: peasant
+      size: 1000
 1726.7.6:
   owner: POR
   controller: POR
@@ -12,15 +12,15 @@
     POR: yes
   resource: gold
   pop:
-    ethnicity: portuguese
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - ethnicity: portuguese
+      religion: catholic
+      estate: peasant
+      size: 1000
 1780.1.1:
   pop:
-    ethnicity: brazilian
-    estate: peasant
-    size: 1000
+    - ethnicity: brazilian
+      estate: peasant
+      size: 1000
 1822.9.7:
   owner: BRAZ
   controller: BRAZ

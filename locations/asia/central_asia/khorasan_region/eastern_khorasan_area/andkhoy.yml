@@ -6,10 +6,10 @@
     BACT: yes
   resource: livestock
   pop:
-    ethnicity: sogdian
-    religion: mahayana
-    estate: peasant
-    size: 1000
+    - ethnicity: sogdian
+      religion: mahayana
+      estate: peasant
+      size: 1000
 30.1.1:
   owner: KUSH
   controller: KUSH
@@ -72,9 +72,9 @@
     ABBA: no
     SAMA: yes
   pop:
-    ethnicity: tajik_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: tajik_culture
+      estate: peasant
+      size: 1000
 842.1.1:
   owner: KOKA
   controller: KOKA
@@ -82,9 +82,9 @@
     KOKA: yes
 860.1.1:
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 870.1.1:
   owner: GUZG
   controller: GUZG
@@ -149,9 +149,9 @@
     TIM: yes
 1380.1.1:
   pop:
-    ethnicity: uzbek_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: uzbek_culture
+      estate: peasant
+      size: 1000
 1449.1.1:
   owner: KHOR
   controller: KHOR

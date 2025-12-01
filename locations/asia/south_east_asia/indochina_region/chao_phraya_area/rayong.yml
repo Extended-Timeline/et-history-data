@@ -6,10 +6,10 @@
     MON0: yes
   resource: grain
   pop:
-    ethnicity: mon_culture
-    religion: bimoism
-    estate: peasant
-    size: 1000
+    - ethnicity: mon_culture
+      religion: bimoism
+      estate: peasant
+      size: 1000
 150.1.1:
   owner: FUNA
   controller: FUNA
@@ -18,9 +18,9 @@
     FUNA: yes
 200.1.1:
   pop:
-    religion: hindu
-    estate: peasant
-    size: 1000
+    - religion: hindu
+      estate: peasant
+      size: 1000
 450.1.1:
   owner: DVAR
   controller: DVAR
@@ -29,9 +29,9 @@
     DVAR: yes
 500.1.1:
   pop:
-    religion: theravada
-    estate: peasant
-    size: 1000
+    - religion: theravada
+      estate: peasant
+      size: 1000
 661.1.1:
   owner: LAV
   controller: LAV
@@ -45,9 +45,9 @@
     CAMB: yes
 1050.1.1:
   pop:
-    ethnicity: thai_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: thai_culture
+      estate: peasant
+      size: 1000
 1060.1.1:
   owner: LAV
   controller: LAV

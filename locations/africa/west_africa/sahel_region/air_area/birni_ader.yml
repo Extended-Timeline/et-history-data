@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/2273 - Ader.txt
 2.1.1:
   pop:
-    ethnicity: tuareg
-    religion: bantu_religion
-    estate: peasant
-    size: 1000
+    - ethnicity: tuareg
+      religion: bantu_religion
+      estate: peasant
+      size: 1000
 1250.1.1:
   owner: TAKE
   controller: TAKE
@@ -19,9 +19,9 @@
     AIR: yes
 1440.1.1:
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 1514.1.1:
   owner: SON
   controller: SON

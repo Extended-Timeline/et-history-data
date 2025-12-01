@@ -6,10 +6,10 @@
     DACI: yes
   resource: wool
   pop:
-    ethnicity: dacian
-    religion: zamolxism
-    estate: peasant
-    size: 1000
+    - ethnicity: dacian
+      religion: zamolxism
+      estate: peasant
+      size: 1000
 106.1.1:
   owner: ROM
   controller: ROM
@@ -25,10 +25,10 @@
     ROM: no
     VISG: yes
   pop:
-    ethnicity: gothic
-    religion: germanic
-    estate: peasant
-    size: 1000
+    - ethnicity: gothic
+      religion: germanic
+      estate: peasant
+      size: 1000
 376.1.1:
   owner: HUNS
   controller: HUNS
@@ -42,9 +42,9 @@
     HUNS: no
     GEPI: yes
   pop:
-    ethnicity: gepid
-    estate: peasant
-    size: 1000
+    - ethnicity: gepid
+      estate: peasant
+      size: 1000
 567.1.1:
   owner: AVR
   controller: AVR
@@ -52,9 +52,9 @@
     GEPI: no
     AVR: yes
   pop:
-    religion: 
-    estate: peasant
-    size: 1000
+    - religion: 
+      estate: peasant
+      size: 1000
 804.1.1:
   owner: BUL
   controller: BUL
@@ -62,14 +62,14 @@
     AVR: no
     BUL: yes
   pop:
-    ethnicity: wallachian
-    estate: peasant
-    size: 1000
+    - ethnicity: wallachian
+      estate: peasant
+      size: 1000
 890.1.1:
   pop:
-    religion: orthodox
-    estate: peasant
-    size: 1000
+    - religion: orthodox
+      estate: peasant
+      size: 1000
 930.1.1:
   owner: BANT
   controller: BANT
@@ -83,9 +83,9 @@
     HUN: yes
 1010.1.1:
   pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - religion: catholic
+      estate: peasant
+      size: 1000
 1514.6.1:
   controller: HUN
 1526.8.30:
@@ -108,9 +108,9 @@
     HAB: no
 1567.1.1:
   pop:
-    religion: calvinist
-    estate: peasant
-    size: 1000
+    - religion: calvinist
+      estate: peasant
+      size: 1000
 1570.1.1:
   owner: TUR
   controller: TUR
@@ -119,9 +119,9 @@
     HAB: yes
 1700.1.1:
   pop:
-    religion: orthodox
-    estate: peasant
-    size: 1000
+    - religion: orthodox
+      estate: peasant
+      size: 1000
 1718.1.1:
   owner: HAB
   controller: HAB

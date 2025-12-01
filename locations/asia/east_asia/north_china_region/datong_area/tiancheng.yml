@@ -7,10 +7,10 @@
     WEI0: yes
   resource: iron
   pop:
-    ethnicity: khitan
-    religion: sanjiao
-    estate: peasant
-    size: 1000
+    - ethnicity: khitan
+      religion: sanjiao
+      estate: peasant
+      size: 1000
 9.1.10:
   owner: XIN0
   controller: XIN0
@@ -94,9 +94,9 @@
     TANG: yes
 650.1.1:
   pop:
-    ethnicity: jin_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: jin_culture
+      estate: peasant
+      size: 1000
 907.6.1:
   owner: JIN1
   controller: JIN1

@@ -6,10 +6,10 @@
     PART: yes
   resource: cotton
   pop:
-    ethnicity: parthian
-    religion: zoroastrian
-    estate: peasant
-    size: 1000
+    - ethnicity: parthian
+      religion: zoroastrian
+      estate: peasant
+      size: 1000
 224.4.24:
   owner: ERA
   controller: ERA
@@ -24,9 +24,9 @@
     RASH: yes
 650.1.1:
   pop:
-    ethnicity: khorasani_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: khorasani_culture
+      estate: peasant
+      size: 1000
 661.7.28:
   owner: UMAY
   controller: UMAY
@@ -35,9 +35,9 @@
     UMAY: yes
 690.1.1:
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 750.8.6:
   owner: ABBA
   controller: ABBA
@@ -144,14 +144,14 @@
     IRA: yes
 1516.1.1:
   pop:
-    religion: shia
-    estate: peasant
-    size: 1000
+    - religion: shia
+      estate: peasant
+      size: 1000
 1650.1.1:
   pop:
-    ethnicity: farsi_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: farsi_culture
+      estate: peasant
+      size: 1000
 1750.1.2:
   owner: KHOR
   controller: KHOR

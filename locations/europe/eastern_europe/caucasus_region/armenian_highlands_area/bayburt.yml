@@ -6,10 +6,10 @@
     ARM: yes
   resource: livestock
   pop:
-    ethnicity: armenian_culture
-    religion: armenian_religion
-    estate: peasant
-    size: 1000
+    - ethnicity: armenian_culture
+      religion: armenian_religion
+      estate: peasant
+      size: 1000
 114.1.1:
   owner: ROM
   controller: ROM
@@ -34,14 +34,14 @@
     BYZ: yes
 440.1.1:
   pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+    - religion: chalcedonism
+      estate: peasant
+      size: 1000
 451.11.1:
   pop:
-    religion: miaphysite
-    estate: peasant
-    size: 1000
+    - religion: miaphysite
+      estate: peasant
+      size: 1000
 701.1.1:
   owner: ARM
   controller: ARM
@@ -124,10 +124,10 @@
   controller: TUR
 1915.4.1:
   pop:
-    ethnicity: turkish_culture
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - ethnicity: turkish_culture
+      religion: sunni
+      estate: peasant
+      size: 1000
 1916.2.16:
   controller: RUS
 1918.3.3:

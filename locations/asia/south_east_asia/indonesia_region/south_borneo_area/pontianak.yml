@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/4802 - Pontianak.txt
 2.1.1:
   pop:
-    ethnicity: bidayuh_culture
-    religion: hindu
-    estate: peasant
-    size: 1000
+    - ethnicity: bidayuh_culture
+      religion: hindu
+      estate: peasant
+      size: 1000
 600.1.1:
   owner: TJP
   controller: TJP
@@ -13,14 +13,14 @@
   resource: gold
 1400.1.1:
   pop:
-    ethnicity: malay_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: malay_culture
+      estate: peasant
+      size: 1000
 1504.1.1:
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 1779.7.5:
   owner: NED
   controller: NED

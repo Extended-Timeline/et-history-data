@@ -6,10 +6,10 @@
     PART: yes
   resource: grain
   pop:
-    ethnicity: assyrian
-    religion: zoroastrian
-    estate: peasant
-    size: 1000
+    - ethnicity: assyrian
+      religion: zoroastrian
+      estate: peasant
+      size: 1000
 224.4.24:
   owner: ERA
   controller: ERA
@@ -18,9 +18,9 @@
     ERA: yes
 460.1.1:
   pop:
-    religion: nestorianism
-    estate: peasant
-    size: 1000
+    - religion: nestorianism
+      estate: peasant
+      size: 1000
 643.1.1:
   owner: RASH
   controller: RASH
@@ -41,9 +41,9 @@
     ABBA: yes
 880.1.1:
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 942.1.1:
   owner: MOSU
   controller: MOSU
@@ -83,9 +83,9 @@
     SELJ: yes
 1100.1.1:
   pop:
-    ethnicity: kurdish_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: kurdish_culture
+      estate: peasant
+      size: 1000
 1127.1.1:
   owner: MOSU
   controller: MOSU

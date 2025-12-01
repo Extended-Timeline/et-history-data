@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/39 - Kurland.txt
 2.1.1:
   pop:
-    ethnicity: latvian
-    religion: romuva
-    estate: peasant
-    size: 1000
+    - ethnicity: latvian
+      religion: romuva
+      estate: peasant
+      size: 1000
 450.1.1:
   owner: CURO
   controller: CURO
@@ -17,9 +17,9 @@
   cores:
     LIV: yes
   pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - religion: catholic
+      estate: peasant
+      size: 1000
 1300.1.1:
   cores:
     CURO: no
@@ -30,9 +30,9 @@
     LIV: no
     KUR: yes
   pop:
-    religion: lutheran
-    estate: peasant
-    size: 1000
+    - religion: lutheran
+      estate: peasant
+      size: 1000
 1621.10.3:
   controller: SWE
 1622.6.25:

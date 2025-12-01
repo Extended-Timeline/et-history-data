@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/1239 - Vanuatu.txt
 2.1.1:
   pop:
-    ethnicity: tiri_culture
-    religion: bimoism
-    estate: peasant
-    size: 1000
+    - ethnicity: tiri_culture
+      religion: bimoism
+      estate: peasant
+      size: 1000
 1887.10.16:
   owner: FRA
   controller: FRA
@@ -13,9 +13,9 @@
     GBR: yes
   resource: coffee
   pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - religion: catholic
+      estate: peasant
+      size: 1000
 1980.7.30:
   owner: VANU
   controller: VANU

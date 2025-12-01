@@ -6,10 +6,10 @@
     ROM: yes
   resource: livestock
   pop:
-    ethnicity: illyrian
-    religion: hellenism_religion
-    estate: peasant
-    size: 1000
+    - ethnicity: illyrian
+      religion: hellenism_religion
+      estate: peasant
+      size: 1000
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -23,15 +23,15 @@
     ROMW: no
     OSTR: yes
   pop:
-    ethnicity: gothic
-    religion: germanic
-    estate: peasant
-    size: 1000
+    - ethnicity: gothic
+      religion: germanic
+      estate: peasant
+      size: 1000
 470.1.1:
   pop:
-    religion: arianism
-    estate: peasant
-    size: 1000
+    - religion: arianism
+      estate: peasant
+      size: 1000
 540.1.1:
   owner: BYZ
   controller: BYZ
@@ -42,10 +42,10 @@
   cores:
     CRO: yes
   pop:
-    ethnicity: croatian
-    religion: slavic
-    estate: peasant
-    size: 1000
+    - ethnicity: croatian
+      religion: slavic
+      estate: peasant
+      size: 1000
 630.1.1:
   owner: CRO
   controller: CRO
@@ -53,9 +53,9 @@
     BYZ: no
 869.1.1:
   pop:
-    religion: orthodox
-    estate: peasant
-    size: 1000
+    - religion: orthodox
+      estate: peasant
+      size: 1000
 1377.10.26:
   owner: BOS
   controller: BOS
@@ -69,9 +69,9 @@
     TUR: yes
 1580.1.1:
   pop:
-    ethnicity: serbian
-    estate: peasant
-    size: 1000
+    - ethnicity: serbian
+      estate: peasant
+      size: 1000
 1716.1.1:
   controller: HAB
 1718.1.1:

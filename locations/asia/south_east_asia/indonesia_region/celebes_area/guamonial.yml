@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/2713 - Gorotalo.txt
 2.1.1:
   pop:
-    ethnicity: cebuano_culture
-    religion: bimoism
-    estate: peasant
-    size: 1000
+    - ethnicity: cebuano_culture
+      religion: bimoism
+      estate: peasant
+      size: 1000
 1580.1.1:
   owner: TER
   controller: TER
@@ -12,9 +12,9 @@
     TER: yes
   resource: tropical_wood
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 1683.1.1:
   owner: NED
   controller: NED

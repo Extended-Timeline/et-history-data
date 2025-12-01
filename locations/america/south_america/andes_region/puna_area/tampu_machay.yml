@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/810 - Huancavelica.txt
 2.1.1:
   pop:
-    ethnicity: inka_culture
-    religion: inti
-    estate: peasant
-    size: 1000
+    - ethnicity: inka_culture
+      religion: inti
+      estate: peasant
+      size: 1000
 500.1.1:
   owner: HUAR
   controller: HUAR
@@ -33,9 +33,9 @@
   cores:
     SPA: yes
   pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - religion: catholic
+      estate: peasant
+      size: 1000
 1558.8.29:
   cores:
     SPA: yes

@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/2366 - Utva.txt
 2.1.1:
   pop:
-    ethnicity: hunnic
-    religion: 
-    estate: peasant
-    size: 1000
+    - ethnicity: hunnic
+      religion: 
+      estate: peasant
+      size: 1000
 160.1.1:
   owner: HUNS
   controller: HUNS
@@ -15,9 +15,9 @@
   cores:
     OGHU: yes
   pop:
-    ethnicity: turkmen_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: turkmen_culture
+      estate: peasant
+      size: 1000
 448.1.1:
   owner: OGHU
   controller: OGHU
@@ -30,9 +30,9 @@
     OGHU: no
     WGOK: yes
   pop:
-    ethnicity: pecheneg
-    estate: peasant
-    size: 1000
+    - ethnicity: pecheneg
+      estate: peasant
+      size: 1000
 659.1.1:
   owner: KANG
   controller: KANG
@@ -47,9 +47,9 @@
     PECH: yes
 850.1.1:
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 870.1.1:
   owner: CUMA
   controller: CUMA
@@ -57,9 +57,9 @@
     PECH: no
     CUMA: yes
   pop:
-    ethnicity: cuman_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: cuman_culture
+      estate: peasant
+      size: 1000
 1236.1.1:
   owner: MGE
   controller: MGE
@@ -67,9 +67,9 @@
     CUMA: no
     MGE: yes
   pop:
-    ethnicity: nogai
-    estate: peasant
-    size: 1000
+    - ethnicity: nogai
+      estate: peasant
+      size: 1000
 1260.1.1:
   owner: BLHO
   controller: BLHO
@@ -89,9 +89,9 @@
     NOGA: no
     KAZA: yes
   pop:
-    ethnicity: khazak
-    estate: peasant
-    size: 1000
+    - ethnicity: khazak
+      estate: peasant
+      size: 1000
 1824.1.1:
   owner: RUS
   controller: RUS

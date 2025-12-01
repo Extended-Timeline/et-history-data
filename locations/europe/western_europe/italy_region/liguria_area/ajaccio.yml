@@ -6,10 +6,10 @@
     ROM: yes
   resource: naval_supplies
   pop:
-    ethnicity: etruscan
-    religion: bimoism
-    estate: peasant
-    size: 1000
+    - ethnicity: etruscan
+      religion: bimoism
+      estate: peasant
+      size: 1000
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -18,9 +18,9 @@
     ROMW: yes
 410.1.1:
   pop:
-    ethnicity: tuscan
-    estate: peasant
-    size: 1000
+    - ethnicity: tuscan
+      estate: peasant
+      size: 1000
 476.9.4:
   owner: VAND
   controller: VAND
@@ -43,9 +43,9 @@
     BYZ: yes
 580.1.1:
   pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+    - religion: chalcedonism
+      estate: peasant
+      size: 1000
 725.1.1:
   owner: LOMB
   controller: LOMB
@@ -72,9 +72,9 @@
     ITA: yes
 867.1.1:
   pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - religion: catholic
+      estate: peasant
+      size: 1000
 962.2.2:
   owner: COR
   controller: COR

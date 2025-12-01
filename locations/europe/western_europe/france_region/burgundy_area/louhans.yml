@@ -6,10 +6,10 @@
     ROM: yes
   resource: wine
   pop:
-    ethnicity: gallian
-    religion: hellenism_religion
-    estate: peasant
-    size: 1000
+    - ethnicity: gallian
+      religion: hellenism_religion
+      estate: peasant
+      size: 1000
 260.1.1:
   cores:
     GALL: yes
@@ -19,9 +19,9 @@
     GALL: no
 320.1.1:
   pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+    - religion: chalcedonism
+      estate: peasant
+      size: 1000
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -35,14 +35,14 @@
     ROMW: no
     BUR: yes
   pop:
-    ethnicity: burgundione
-    estate: peasant
-    size: 1000
+    - ethnicity: burgundione
+      estate: peasant
+      size: 1000
 486.6.1:
   pop:
-    ethnicity: burgundian
-    estate: peasant
-    size: 1000
+    - ethnicity: burgundian
+      estate: peasant
+      size: 1000
 534.1.1:
   owner: NEUS
   controller: NEUS
@@ -103,9 +103,9 @@
     LOT: yes
 867.1.1:
   pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - religion: catholic
+      estate: peasant
+      size: 1000
 870.8.8:
   owner: WFRA
   controller: WFRA

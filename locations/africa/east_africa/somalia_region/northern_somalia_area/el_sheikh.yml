@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/2793 - Hargeisa.txt
 2.1.1:
   pop:
-    ethnicity: somali_culture
-    religion: bantu_religion
-    estate: peasant
-    size: 1000
+    - ethnicity: somali_culture
+      religion: bantu_religion
+      estate: peasant
+      size: 1000
 500.1.1:
   owner: PIPA
   controller: PIPA
@@ -13,9 +13,9 @@
   resource: slaves
 900.1.1:
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 1185.1.1:
   owner: IFA
   controller: IFA

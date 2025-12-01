@@ -6,10 +6,10 @@
     ANTE: yes
   resource: grain
   pop:
-    ethnicity: ruthenian
-    religion: slavic
-    estate: peasant
-    size: 1000
+    - ethnicity: ruthenian
+      religion: slavic
+      estate: peasant
+      size: 1000
 380.1.1:
   owner: HUNS
   controller: HUNS
@@ -36,9 +36,9 @@
     UKR: yes
 960.1.1:
   pop:
-    religion: orthodox
-    estate: peasant
-    size: 1000
+    - religion: orthodox
+      estate: peasant
+      size: 1000
 1054.2.20:
   owner: KIE
   controller: KIE

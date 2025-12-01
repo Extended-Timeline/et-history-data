@@ -7,10 +7,10 @@
     PALM: yes
   resource: livestock
   pop:
-    ethnicity: najdi_culture
-    religion: hellenism_religion
-    estate: peasant
-    size: 1000
+    - ethnicity: najdi_culture
+      religion: hellenism_religion
+      estate: peasant
+      size: 1000
 220.1.1:
   owner: GHAS
   controller: GHAS
@@ -19,14 +19,14 @@
     GHAS: yes
 250.1.1:
   pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+    - religion: chalcedonism
+      estate: peasant
+      size: 1000
 512.11.16:
   pop:
-    religion: miaphysite
-    estate: peasant
-    size: 1000
+    - religion: miaphysite
+      estate: peasant
+      size: 1000
 638.1.1:
   owner: RASH
   controller: RASH
@@ -42,9 +42,9 @@
     UMAY: yes
 740.1.1:
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 750.8.6:
   owner: ABBA
   controller: ABBA
@@ -63,10 +63,10 @@
     ABBA: yes
 920.1.1:
   pop:
-    ethnicity: levantine_culture
-    religion: shia
-    estate: peasant
-    size: 1000
+    - ethnicity: levantine_culture
+      religion: shia
+      estate: peasant
+      size: 1000
 935.8.26:
   owner: EGY
   controller: EGY

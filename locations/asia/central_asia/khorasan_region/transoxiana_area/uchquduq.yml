@@ -6,10 +6,10 @@
     KAGJ: yes
   resource: livestock
   pop:
-    ethnicity: khazak
-    religion: 
-    estate: peasant
-    size: 1000
+    - ethnicity: khazak
+      religion: 
+      estate: peasant
+      size: 1000
 320.1.1:
   owner: KIDA
   controller: KIDA
@@ -47,9 +47,9 @@
     UMAY: yes
 750.1.1:
   pop:
-    religion: manichaeism
-    estate: peasant
-    size: 1000
+    - religion: manichaeism
+      estate: peasant
+      size: 1000
 750.8.6:
   owner: ABBA
   controller: ABBA
@@ -58,9 +58,9 @@
     ABBA: yes
 800.1.1:
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 819.1.1:
   owner: CHAC
   controller: CHAC
@@ -147,9 +147,9 @@
     RUS: yes
 1870.1.1:
   pop:
-    ethnicity: uzbek_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: uzbek_culture
+      estate: peasant
+      size: 1000
 1917.11.27:
   owner: TUKS
   controller: TUKS

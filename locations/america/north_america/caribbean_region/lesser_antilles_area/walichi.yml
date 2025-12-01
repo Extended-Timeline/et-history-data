@@ -1,43 +1,43 @@
 #imported from EU4 file: history/provinces/494 - St. Martin.txt
 2.1.1:
   pop:
-    ethnicity: arawak_culture
-    religion: muisca_religion
-    estate: peasant
-    size: 1000
+    - ethnicity: arawak_culture
+      religion: muisca_religion
+      estate: peasant
+      size: 1000
 1631.1.1:
   owner: NED
   controller: NED
   resource: sugar
   pop:
-    ethnicity: low_franconian
-    religion: calvinist
-    estate: peasant
-    size: 1000
+    - ethnicity: low_franconian
+      religion: calvinist
+      estate: peasant
+      size: 1000
 1633.1.1:
   owner: SPA
   controller: SPA
   pop:
-    ethnicity: castilian
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - ethnicity: castilian
+      religion: catholic
+      estate: peasant
+      size: 1000
 1646.1.1:
   owner: NED
   controller: NED
   pop:
-    ethnicity: low_franconian
-    religion: calvinist
-    estate: peasant
-    size: 1000
+    - ethnicity: low_franconian
+      religion: calvinist
+      estate: peasant
+      size: 1000
 1671.1.1:
   cores:
     NED: yes
 1780.1.1:
   pop:
-    ethnicity: germanic_caribbean
-    estate: peasant
-    size: 1000
+    - ethnicity: germanic_caribbean
+      estate: peasant
+      size: 1000
 1810.7.10:
   owner: FRA
   controller: GBR

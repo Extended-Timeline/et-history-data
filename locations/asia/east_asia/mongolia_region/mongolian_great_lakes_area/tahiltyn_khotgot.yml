@@ -6,10 +6,10 @@
     XION: yes
   resource: cloth
   pop:
-    ethnicity: oirat_culture
-    religion: 
-    estate: peasant
-    size: 1000
+    - ethnicity: oirat_culture
+      religion: 
+      estate: peasant
+      size: 1000
 91.2.1:
   owner: XIAN
   controller: XIAN
@@ -29,9 +29,9 @@
     ROUR: no
     GOKT: yes
   pop:
-    ethnicity: tuvan_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: tuvan_culture
+      estate: peasant
+      size: 1000
 627.1.1:
   owner: UYGH
   controller: UYGH
@@ -50,19 +50,19 @@
     UYGH: yes
 750.1.1:
   pop:
-    ethnicity: oirat_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: oirat_culture
+      estate: peasant
+      size: 1000
 765.1.1:
   pop:
-    religion: manichaeism
-    estate: peasant
-    size: 1000
+    - religion: manichaeism
+      estate: peasant
+      size: 1000
 840.1.1:
   pop:
-    religion: 
-    estate: peasant
-    size: 1000
+    - religion: 
+      estate: peasant
+      size: 1000
 848.1.1:
   owner: NAIM
   controller: NAIM
@@ -106,9 +106,9 @@
     MGE: yes
 1586.1.1:
   pop:
-    religion: tibetan_buddhism
-    estate: peasant
-    size: 1000
+    - religion: tibetan_buddhism
+      estate: peasant
+      size: 1000
 1623.1.1:
   owner: OIR
   controller: OIR

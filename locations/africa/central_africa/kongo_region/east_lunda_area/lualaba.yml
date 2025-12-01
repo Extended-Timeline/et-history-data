@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/4098 - Upemba.txt
 2.1.1:
   pop:
-    ethnicity: luba
-    religion: bantu_religion
-    estate: peasant
-    size: 1000
+    - ethnicity: luba
+      religion: bantu_religion
+      estate: peasant
+      size: 1000
 1350.1.1:
   cores:
     ???: yes
@@ -24,9 +24,9 @@
   cores:
     BEL: yes
   pop:
-    religion: lutheran
-    estate: peasant
-    size: 1000
+    - religion: lutheran
+      estate: peasant
+      size: 1000
 1960.7.1:
   owner: DRCO
   controller: DRCO

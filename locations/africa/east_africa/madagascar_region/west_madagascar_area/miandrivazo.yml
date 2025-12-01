@@ -1,15 +1,15 @@
 #imported from EU4 file: history/provinces/4031 - Antsalova.txt
 2.1.1:
   pop:
-    ethnicity: uninhabited
-    religion: bantu_religion
-    estate: peasant
-    size: 1000
+    - ethnicity: uninhabited
+      religion: bantu_religion
+      estate: peasant
+      size: 1000
 500.1.1:
   pop:
-    ethnicity: sakalava_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: sakalava_culture
+      estate: peasant
+      size: 1000
 1350.1.1:
   owner: SKA
   controller: SKA

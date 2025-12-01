@@ -6,10 +6,10 @@
     SHYU: yes
   resource: copper
   pop:
-    ethnicity: zhuang_culture
-    religion: bimoism
-    estate: peasant
-    size: 1000
+    - ethnicity: zhuang_culture
+      religion: bimoism
+      estate: peasant
+      size: 1000
 316.1.1:
   owner: JIN1
   controller: JIN1
@@ -50,9 +50,9 @@
     NANZ: yes
 660.1.1:
   pop:
-    religion: tibetan_buddhism
-    estate: peasant
-    size: 1000
+    - religion: tibetan_buddhism
+      estate: peasant
+      size: 1000
 700.1.1:
   owner: NANZ
   controller: NANZ
@@ -61,9 +61,9 @@
     NANZ: yes
 800.1.1:
   pop:
-    ethnicity: bai_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: bai_culture
+      estate: peasant
+      size: 1000
 937.1.1:
   owner: CDL
   controller: CDL

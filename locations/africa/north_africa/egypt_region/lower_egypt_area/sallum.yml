@@ -6,20 +6,20 @@
     ROM: yes
   resource: fish
   pop:
-    ethnicity: eastern_amazigh
-    religion: egyptian
-    estate: peasant
-    size: 1000
+    - ethnicity: eastern_amazigh
+      religion: egyptian
+      estate: peasant
+      size: 1000
 150.1.1:
   pop:
-    religion: hellenism_religion
-    estate: peasant
-    size: 1000
+    - religion: hellenism_religion
+      estate: peasant
+      size: 1000
 380.1.1:
   pop:
-    religion: bantu_religion
-    estate: peasant
-    size: 1000
+    - religion: bantu_religion
+      estate: peasant
+      size: 1000
 395.1.17:
   owner: BYZ
   controller: BYZ
@@ -44,10 +44,10 @@
     UMAY: yes
 700.1.1:
   pop:
-    ethnicity: lower_egyptian_culture
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - ethnicity: lower_egyptian_culture
+      religion: sunni
+      estate: peasant
+      size: 1000
 750.8.6:
   owner: ABBA
   controller: ABBA

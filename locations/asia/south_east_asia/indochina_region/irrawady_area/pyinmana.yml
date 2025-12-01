@@ -6,10 +6,10 @@
     BEIK: yes
   resource: ivory
   pop:
-    ethnicity: pyu
-    religion: theravada
-    estate: peasant
-    size: 1000
+    - ethnicity: pyu
+      religion: theravada
+      estate: peasant
+      size: 1000
 450.1.1:
   owner: SRKS
   controller: SRKS
@@ -17,14 +17,14 @@
     SRKS: yes
 750.1.1:
   pop:
-    religion: tibetan_buddhism
-    estate: peasant
-    size: 1000
+    - religion: tibetan_buddhism
+      estate: peasant
+      size: 1000
 800.1.1:
   pop:
-    ethnicity: burmese_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: burmese_culture
+      estate: peasant
+      size: 1000
 1043.12.1:
   owner: PAGA
   controller: PAGA
@@ -32,9 +32,9 @@
     PAGA: yes
 1050.1.1:
   pop:
-    religion: theravada
-    estate: peasant
-    size: 1000
+    - religion: theravada
+      estate: peasant
+      size: 1000
 1297.12.17:
   owner: MYIN
   controller: MYIN

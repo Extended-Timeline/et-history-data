@@ -6,10 +6,10 @@
     PENO: yes
   resource: naval_supplies
   pop:
-    ethnicity: eastern_abenaki_culture
-    religion: iroquoian_totemism
-    estate: peasant
-    size: 1000
+    - ethnicity: eastern_abenaki_culture
+      religion: iroquoian_totemism
+      estate: peasant
+      size: 1000
 1701.1.1:
   cores:
     FRA: yes
@@ -19,15 +19,15 @@
   cores:
     GBR: yes
   pop:
-    ethnicity: english
-    religion: lutheran
-    estate: peasant
-    size: 1000
+    - ethnicity: english
+      religion: lutheran
+      estate: peasant
+      size: 1000
 1764.7.1:
   pop:
-    ethnicity: american
-    estate: peasant
-    size: 1000
+    - ethnicity: american
+      estate: peasant
+      size: 1000
 1776.7.4:
   owner: USA
   controller: USA

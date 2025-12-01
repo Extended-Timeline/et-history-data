@@ -6,10 +6,10 @@
     NSAT: yes
   resource: cotton
   pop:
-    ethnicity: punjabi
-    religion: mahayana
-    estate: peasant
-    size: 1000
+    - ethnicity: punjabi
+      religion: mahayana
+      estate: peasant
+      size: 1000
 120.1.1:
   owner: KUSH
   controller: KUSH
@@ -69,9 +69,9 @@
     GHAZ: yes
 1100.1.1:
   pop:
-    religion: hindu
-    estate: peasant
-    size: 1000
+    - religion: hindu
+      estate: peasant
+      size: 1000
 1187.1.1:
   owner: GHOR
   controller: GHOR
@@ -116,9 +116,9 @@
   controller: MUG
 1700.1.1:
   pop:
-    religion: sikhism
-    estate: peasant
-    size: 1000
+    - religion: sikhism
+      estate: peasant
+      size: 1000
 1757.1.1:
   owner: AFGH
   controller: AFGH

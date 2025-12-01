@@ -6,10 +6,10 @@
     LEMO: yes
   resource: livestock
   pop:
-    ethnicity: western_pomeranian
-    religion: germanic
-    estate: peasant
-    size: 1000
+    - ethnicity: western_pomeranian
+      religion: germanic
+      estate: peasant
+      size: 1000
 200.1.1:
   owner: BUR
   controller: BUR
@@ -17,9 +17,9 @@
     LEMO: no
     BUR: yes
   pop:
-    ethnicity: burgundione
-    estate: peasant
-    size: 1000
+    - ethnicity: burgundione
+      estate: peasant
+      size: 1000
 395.1.1:
   owner: VELE
   controller: VELE
@@ -27,10 +27,10 @@
     BUR: no
     VELE: yes
   pop:
-    ethnicity: polabian
-    religion: slavic
-    estate: peasant
-    size: 1000
+    - ethnicity: polabian
+      religion: slavic
+      estate: peasant
+      size: 1000
 920.1.1:
   owner: POM
   controller: POM
@@ -45,9 +45,9 @@
     POL: yes
 1050.1.1:
   pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - religion: catholic
+      estate: peasant
+      size: 1000
 1138.10.28:
   owner: GPOL
   controller: GPOL
@@ -61,9 +61,9 @@
     BRA: yes
 1260.1.1:
   pop:
-    ethnicity: saxon
-    estate: peasant
-    size: 1000
+    - ethnicity: saxon
+      estate: peasant
+      size: 1000
 1402.1.1:
   owner: TEU
   controller: TEU
@@ -76,14 +76,14 @@
     TEU: no
 1536.1.1:
   pop:
-    religion: lutheran
-    estate: peasant
-    size: 1000
+    - religion: lutheran
+      estate: peasant
+      size: 1000
 1650.1.1:
   pop:
-    ethnicity: prussian
-    estate: peasant
-    size: 1000
+    - ethnicity: prussian
+      estate: peasant
+      size: 1000
 1701.1.18:
   owner: PRU
   controller: PRU
@@ -107,7 +107,7 @@
     GER: no
     POL: yes
   pop:
-    ethnicity: lesser_polish
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - ethnicity: lesser_polish
+      religion: catholic
+      estate: peasant
+      size: 1000

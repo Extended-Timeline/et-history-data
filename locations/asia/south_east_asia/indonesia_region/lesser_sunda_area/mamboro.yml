@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/634 - Sumba.txt
 2.1.1:
   pop:
-    ethnicity: tetum_culture
-    religion: bimoism
-    estate: peasant
-    size: 1000
+    - ethnicity: tetum_culture
+      religion: bimoism
+      estate: peasant
+      size: 1000
 1866.1.1:
   owner: NED
   controller: NED
@@ -12,9 +12,9 @@
     NED: yes
   resource: spices
   pop:
-    religion: calvinist
-    estate: peasant
-    size: 1000
+    - religion: calvinist
+      estate: peasant
+      size: 1000
 1912.9.10:
   cores:
     INDN: yes

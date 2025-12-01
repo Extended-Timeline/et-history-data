@@ -6,10 +6,10 @@
     CALA: yes
   resource: cocoa
   pop:
-    ethnicity: putun_culture
-    religion: mayan
-    estate: peasant
-    size: 1000
+    - ethnicity: putun_culture
+      religion: mayan
+      estate: peasant
+      size: 1000
 987.1.1:
   owner: MAY
   controller: MAY
@@ -27,15 +27,15 @@
   cores:
     SPA: yes
   pop:
-    ethnicity: castilian
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - ethnicity: castilian
+      religion: catholic
+      estate: peasant
+      size: 1000
 1770.1.1:
   pop:
-    ethnicity: mexican
-    estate: peasant
-    size: 1000
+    - ethnicity: mexican
+      estate: peasant
+      size: 1000
 1810.9.16:
   owner: MEX
   controller: SPA

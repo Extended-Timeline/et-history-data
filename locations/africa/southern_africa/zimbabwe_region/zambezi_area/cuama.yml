@@ -1,15 +1,15 @@
 #imported from EU4 file: history/provinces/1186 - Sofala.txt
 2.1.1:
   pop:
-    ethnicity: zembere
-    religion: bantu_religion
-    estate: peasant
-    size: 1000
+    - ethnicity: zembere
+      religion: bantu_religion
+      estate: peasant
+      size: 1000
 300.1.1:
   pop:
-    ethnicity: shona_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: shona_culture
+      estate: peasant
+      size: 1000
 850.1.1:
   owner: SFA
   controller: SFA
@@ -18,9 +18,9 @@
   resource: gold
 915.1.1:
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 1180.1.1:
   owner: ZAN
   controller: ZAN
@@ -40,9 +40,9 @@
   resource: ivory
 1950.1.1:
   pop:
-    religion: lutheran
-    estate: peasant
-    size: 1000
+    - religion: lutheran
+      estate: peasant
+      size: 1000
 1975.6.25:
   owner: MOZA
   controller: MOZA

@@ -6,10 +6,10 @@
     RUHU: yes
   resource: spices
   pop:
-    ethnicity: sinhalese
-    religion: theravada
-    estate: peasant
-    size: 1000
+    - ethnicity: sinhalese
+      religion: theravada
+      estate: peasant
+      size: 1000
 993.1.1:
   owner: CHOL
   controller: CHOL

@@ -6,10 +6,10 @@
     OSG: yes
   resource: fur
   pop:
-    ethnicity: stadaconan_culture
-    religion: iroquoian_totemism
-    estate: peasant
-    size: 1000
+    - ethnicity: stadaconan_culture
+      religion: iroquoian_totemism
+      estate: peasant
+      size: 1000
 1642.5.17:
   owner: FRA
   controller: FRA
@@ -17,10 +17,10 @@
     FRA: yes
   resource: fur
   pop:
-    ethnicity: french
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - ethnicity: french
+      religion: catholic
+      estate: peasant
+      size: 1000
 1760.1.1:
   controller: GBR
 1763.2.10:
@@ -30,9 +30,9 @@
     GBR: yes
 1790.1.1:
   pop:
-    ethnicity: french_canadian
-    estate: peasant
-    size: 1000
+    - ethnicity: french_canadian
+      estate: peasant
+      size: 1000
 1867.7.1:
   owner: CAN
   controller: CAN

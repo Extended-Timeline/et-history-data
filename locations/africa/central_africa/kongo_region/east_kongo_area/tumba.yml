@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/4088 - Kasai.txt
 2.1.1:
   pop:
-    ethnicity: kuba
-    religion: bantu_religion
-    estate: peasant
-    size: 1000
+    - ethnicity: kuba
+      religion: bantu_religion
+      estate: peasant
+      size: 1000
 1350.1.1:
   owner: KUB
   controller: KUB
@@ -28,9 +28,9 @@
   cores:
     BEL: yes
   pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - religion: catholic
+      estate: peasant
+      size: 1000
 1960.7.1:
   owner: DRCO
   controller: DRCO

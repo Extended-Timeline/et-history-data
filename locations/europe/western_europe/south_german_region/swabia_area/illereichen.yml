@@ -6,10 +6,10 @@
     ROM: yes
   resource: cloth
   pop:
-    ethnicity: swabian
-    religion: germanic
-    estate: peasant
-    size: 1000
+    - ethnicity: swabian
+      religion: germanic
+      estate: peasant
+      size: 1000
 350.1.1:
   owner: ALEM
   controller: ALEM
@@ -17,9 +17,9 @@
     ROM: no
     ALEM: yes
   pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+    - religion: chalcedonism
+      estate: peasant
+      size: 1000
 555.1.1:
   owner: BAV
   controller: BAV
@@ -28,9 +28,9 @@
     BAV: yes
 600.1.1:
   pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+    - religion: chalcedonism
+      estate: peasant
+      size: 1000
 788.1.1:
   owner: FRAN
   controller: FRAN
@@ -45,9 +45,9 @@
     EFRA: yes
 867.1.1:
   pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - religion: catholic
+      estate: peasant
+      size: 1000
 911.11.10:
   owner: SWA
   controller: SWA
@@ -79,9 +79,9 @@
     MEM: yes
 1525.1.1:
   pop:
-    religion: lutheran
-    estate: peasant
-    size: 1000
+    - religion: lutheran
+      estate: peasant
+      size: 1000
 1702.1.1:
   owner: BAV
   controller: BAV

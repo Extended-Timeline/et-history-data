@@ -6,10 +6,10 @@
     SND: yes
   resource: silk
   pop:
-    ethnicity: sindhi
-    religion: mahayana
-    estate: peasant
-    size: 1000
+    - ethnicity: sindhi
+      religion: mahayana
+      estate: peasant
+      size: 1000
 76.1.1:
   owner: KUSH
   controller: KUSH
@@ -22,9 +22,9 @@
     KUSH: no
 632.1.1:
   pop:
-    religion: hindu
-    estate: peasant
-    size: 1000
+    - religion: hindu
+      estate: peasant
+      size: 1000
 711.1.1:
   owner: UMAY
   controller: UMAY
@@ -54,14 +54,14 @@
     GHAZ: no
 1050.1.1:
   pop:
-    religion: shia
-    estate: peasant
-    size: 1000
+    - religion: shia
+      estate: peasant
+      size: 1000
 1350.1.1:
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 1544.1.1:
   owner: BNG
   controller: BNG
@@ -85,9 +85,9 @@
     GBR: yes
 1850.1.1:
   pop:
-    religion: shia
-    estate: peasant
-    size: 1000
+    - religion: shia
+      estate: peasant
+      size: 1000
 1930.12.29:
   cores:
     PAKI: yes

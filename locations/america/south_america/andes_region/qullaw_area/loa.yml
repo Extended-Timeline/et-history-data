@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/2840 - Calama.txt
 2.1.1:
   pop:
-    ethnicity: pazioca_culture
-    religion: inti
-    estate: peasant
-    size: 1000
+    - ethnicity: pazioca_culture
+      religion: inti
+      estate: peasant
+      size: 1000
 1486.1.1:
   owner: INC
   controller: INC
@@ -15,18 +15,18 @@
   owner: SPA
   controller: SPA
   pop:
-    ethnicity: castilian
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - ethnicity: castilian
+      religion: catholic
+      estate: peasant
+      size: 1000
 1562.1.1:
   cores:
     SPA: yes
 1770.1.1:
   pop:
-    ethnicity: iberian_peruvian
-    estate: peasant
-    size: 1000
+    - ethnicity: iberian_peruvian
+      estate: peasant
+      size: 1000
 1825.8.6:
   owner: BOLI
   controller: BOLI

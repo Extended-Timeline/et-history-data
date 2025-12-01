@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/2518 - Noquet.txt
 2.1.1:
   pop:
-    ethnicity: ojibwe_culture
-    religion: iroquoian_totemism
-    estate: peasant
-    size: 1000
+    - ethnicity: ojibwe_culture
+      religion: iroquoian_totemism
+      estate: peasant
+      size: 1000
 1710.1.1:
   owner: OJI
   controller: OJI
@@ -17,7 +17,7 @@
   cores:
     USA: yes
   pop:
-    ethnicity: american
-    religion: lutheran
-    estate: peasant
-    size: 1000
+    - ethnicity: american
+      religion: lutheran
+      estate: peasant
+      size: 1000

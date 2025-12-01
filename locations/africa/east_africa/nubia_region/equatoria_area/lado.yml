@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/3032 - Juba.txt
 2.1.1:
   pop:
-    ethnicity: dinka_culture
-    religion: bantu_religion
-    estate: peasant
-    size: 1000
+    - ethnicity: dinka_culture
+      religion: bantu_religion
+      estate: peasant
+      size: 1000
 1873.1.1:
   owner: EGY
   controller: EGY
@@ -21,9 +21,9 @@
     SUDA: yes
 1910.1.1:
   pop:
-    religion: lutheran
-    estate: peasant
-    size: 1000
+    - religion: lutheran
+      estate: peasant
+      size: 1000
 1956.1.1:
   owner: SUDA
   controller: SUDA

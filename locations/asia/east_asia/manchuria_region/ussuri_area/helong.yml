@@ -6,20 +6,20 @@
     GOGU: yes
   resource: naval_supplies
   pop:
-    ethnicity: buyeo
-    religion: muism
-    estate: peasant
-    size: 1000
+    - ethnicity: buyeo
+      religion: muism
+      estate: peasant
+      size: 1000
 200.1.1:
   pop:
-    ethnicity: korean_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: korean_culture
+      estate: peasant
+      size: 1000
 372.1.1:
   pop:
-    religion: mahayana
-    estate: peasant
-    size: 1000
+    - religion: mahayana
+      estate: peasant
+      size: 1000
 698.1.1:
   owner: BALH
   controller: BALH
@@ -40,9 +40,9 @@
     LIAO: yes
 1000.1.1:
   pop:
-    ethnicity: jurchen_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: jurchen_culture
+      estate: peasant
+      size: 1000
 1115.1.1:
   owner: JIN0
   controller: JIN0
@@ -51,9 +51,9 @@
     JIN0: yes
 1120.1.1:
   pop:
-    religion: sanjiao
-    estate: peasant
-    size: 1000
+    - religion: sanjiao
+      estate: peasant
+      size: 1000
 1214.1.1:
   owner: MGE
   controller: MGE
@@ -79,9 +79,9 @@
     JIAZ: no
     MCH: yes
   pop:
-    ethnicity: manchu_new
-    estate: peasant
-    size: 1000
+    - ethnicity: manchu_new
+      estate: peasant
+      size: 1000
 1636.5.15:
   owner: QNG
   controller: QNG
@@ -90,9 +90,9 @@
     QNG: yes
 1910.1.1:
   pop:
-    ethnicity: korean_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: korean_culture
+      estate: peasant
+      size: 1000
 1912.2.12:
   owner: CHI
   controller: CHI

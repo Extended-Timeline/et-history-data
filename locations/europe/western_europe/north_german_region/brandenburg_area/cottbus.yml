@@ -6,10 +6,10 @@
     BUR: yes
   resource: livestock
   pop:
-    ethnicity: burgundione
-    religion: germanic
-    estate: peasant
-    size: 1000
+    - ethnicity: burgundione
+      religion: germanic
+      estate: peasant
+      size: 1000
 395.1.1:
   owner: SORB
   controller: SORB
@@ -17,10 +17,10 @@
     BUR: no
     SORB: yes
   pop:
-    ethnicity: sorbian
-    religion: slavic
-    estate: peasant
-    size: 1000
+    - ethnicity: sorbian
+      religion: slavic
+      estate: peasant
+      size: 1000
 932.1.1:
   owner: SAX
   controller: SAX
@@ -41,9 +41,9 @@
     SOR: yes
 968.1.1:
   pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - religion: catholic
+      estate: peasant
+      size: 1000
 1003.1.1:
   controller: POL
 1005.1.1:
@@ -61,9 +61,9 @@
     POL: no
 1200.1.1:
   pop:
-    ethnicity: saxon
-    estate: peasant
-    size: 1000
+    - ethnicity: saxon
+      estate: peasant
+      size: 1000
 1303.1.1:
   owner: BRA
   controller: BRA
@@ -100,9 +100,9 @@
     HAB: yes
 1531.1.1:
   pop:
-    religion: lutheran
-    estate: peasant
-    size: 1000
+    - religion: lutheran
+      estate: peasant
+      size: 1000
 1618.5.23:
   owner: BOH
   controller: BOH
@@ -144,9 +144,9 @@
     EGER: yes
 1975.1.1:
   pop:
-    religion: irreligious
-    estate: peasant
-    size: 1000
+    - religion: irreligious
+      estate: peasant
+      size: 1000
 1990.10.3:
   owner: GER
   controller: GER

@@ -6,10 +6,10 @@
     KALI: yes
   resource: sugar
   pop:
-    ethnicity: orissan
-    religion: jain
-    estate: peasant
-    size: 1000
+    - ethnicity: orissan
+      religion: jain
+      estate: peasant
+      size: 1000
 120.1.1:
   owner: SATA
   controller: SATA
@@ -22,9 +22,9 @@
     SATA: no
 300.1.1:
   pop:
-    religion: hindu
-    estate: peasant
-    size: 1000
+    - religion: hindu
+      estate: peasant
+      size: 1000
 355.1.1:
   owner: GUPT
   controller: GUPT

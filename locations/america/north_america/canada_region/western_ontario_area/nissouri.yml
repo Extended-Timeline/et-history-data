@@ -6,28 +6,28 @@
     ATTI: yes
   resource: fur
   pop:
-    ethnicity: tionontate_culture
-    religion: iroquoian_totemism
-    estate: peasant
-    size: 1000
+    - ethnicity: tionontate_culture
+      religion: iroquoian_totemism
+      estate: peasant
+      size: 1000
 1650.1.1:
   cores:
     ATTI: no
     ???: yes
   pop:
-    ethnicity: onondowaga_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: onondowaga_culture
+      estate: peasant
+      size: 1000
 1701.8.4:
   owner: FRA
   controller: FRA
   cores:
     FRA: yes
   pop:
-    ethnicity: french
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - ethnicity: french
+      religion: catholic
+      estate: peasant
+      size: 1000
 1763.2.10:
   owner: GBR
   controller: GBR
@@ -36,15 +36,15 @@
     GBR: yes
 1783.1.1:
   pop:
-    ethnicity: english
-    religion: lutheran
-    estate: peasant
-    size: 1000
+    - ethnicity: english
+      religion: lutheran
+      estate: peasant
+      size: 1000
 1790.1.1:
   pop:
-    ethnicity: british_canadian
-    estate: peasant
-    size: 1000
+    - ethnicity: british_canadian
+      estate: peasant
+      size: 1000
 1867.7.1:
   owner: CAN
   controller: CAN

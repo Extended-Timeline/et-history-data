@@ -6,10 +6,10 @@
     TAGT: yes
   resource: tea
   pop:
-    ethnicity: amdowa_culture
-    religion: bon
-    estate: peasant
-    size: 1000
+    - ethnicity: amdowa_culture
+      religion: bon
+      estate: peasant
+      size: 1000
 575.1.1:
   owner: DRG
   controller: DRG
@@ -23,9 +23,9 @@
     TIB: yes
 630.1.1:
   pop:
-    religion: tibetan_buddhism
-    estate: peasant
-    size: 1000
+    - religion: tibetan_buddhism
+      estate: peasant
+      size: 1000
 842.1.1:
   owner: PHAG
   controller: PHAG

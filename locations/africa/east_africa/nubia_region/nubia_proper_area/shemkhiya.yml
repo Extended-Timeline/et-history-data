@@ -6,10 +6,10 @@
     MERO: yes
   resource: livestock
   pop:
-    ethnicity: beja_culture
-    religion: egyptian
-    estate: peasant
-    size: 1000
+    - ethnicity: beja_culture
+      religion: egyptian
+      estate: peasant
+      size: 1000
 350.1.1:
   owner: MAK
   controller: MAK
@@ -17,14 +17,14 @@
     MERO: no
     MAK: yes
   pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+    - religion: chalcedonism
+      estate: peasant
+      size: 1000
 451.11.1:
   pop:
-    religion: miaphysite
-    estate: peasant
-    size: 1000
+    - religion: miaphysite
+      estate: peasant
+      size: 1000
 1276.1.1:
   owner: ABW
   controller: ABW
@@ -33,9 +33,9 @@
     ABW: yes
 1480.1.1:
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 1503.1.1:
   owner: FUNJ
   controller: FUNJ

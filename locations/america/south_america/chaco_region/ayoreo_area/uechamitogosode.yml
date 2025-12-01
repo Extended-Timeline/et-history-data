@@ -1,18 +1,18 @@
 #imported from EU4 file: history/provinces/2882 - Fuerte Borbon.txt
 2.1.1:
   pop:
-    ethnicity: guaikuru_culture
-    religion: muisca_religion
-    estate: peasant
-    size: 1000
+    - ethnicity: guaikuru_culture
+      religion: muisca_religion
+      estate: peasant
+      size: 1000
 1565.1.1:
   owner: SPA
   controller: SPA
   resource: wool
   pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - religion: catholic
+      estate: peasant
+      size: 1000
 1590.1.1:
   cores:
     SPA: yes

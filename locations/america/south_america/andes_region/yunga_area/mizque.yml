@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/2942 - Charcas.txt
 2.1.1:
   pop:
-    ethnicity: aimara_culture
-    religion: inti
-    estate: peasant
-    size: 1000
+    - ethnicity: aimara_culture
+      religion: inti
+      estate: peasant
+      size: 1000
 375.1.1:
   owner: TIWA
   controller: TIWA
@@ -28,18 +28,18 @@
   cores:
     SPA: yes
   pop:
-    ethnicity: castilian
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - ethnicity: castilian
+      religion: catholic
+      estate: peasant
+      size: 1000
 1558.8.29:
   cores:
     SPA: yes
 1770.1.1:
   pop:
-    ethnicity: iberian_peruvian
-    estate: peasant
-    size: 1000
+    - ethnicity: iberian_peruvian
+      estate: peasant
+      size: 1000
 1825.8.6:
   owner: BOLI
   controller: BOLI

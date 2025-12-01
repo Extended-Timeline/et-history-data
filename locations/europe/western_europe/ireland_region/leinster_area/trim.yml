@@ -6,10 +6,10 @@
     LEI: yes
   resource: livestock
   pop:
-    ethnicity: irish
-    religion: druidism
-    estate: peasant
-    size: 1000
+    - ethnicity: irish
+      religion: druidism
+      estate: peasant
+      size: 1000
 450.1.1:
   owner: MTH
   controller: MTH
@@ -18,9 +18,9 @@
     MTH: yes
 700.1.1:
   pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+    - religion: chalcedonism
+      estate: peasant
+      size: 1000
 853.1.1:
   owner: LOI
   controller: LOI
@@ -28,9 +28,9 @@
     LOI: yes
 860.1.1:
   pop:
-    religion: norse
-    estate: peasant
-    size: 1000
+    - religion: norse
+      estate: peasant
+      size: 1000
 902.1.1:
   owner: MTH
   controller: MTH
@@ -41,9 +41,9 @@
   controller: LOI
 945.1.1:
   pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - religion: catholic
+      estate: peasant
+      size: 1000
 1052.1.1:
   owner: LEI
   controller: LEI

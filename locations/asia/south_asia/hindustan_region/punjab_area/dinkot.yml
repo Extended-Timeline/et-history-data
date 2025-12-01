@@ -6,10 +6,10 @@
     IPAR: yes
   resource: livestock
   pop:
-    ethnicity: punjabi
-    religion: hindu
-    estate: peasant
-    size: 1000
+    - ethnicity: punjabi
+      religion: hindu
+      estate: peasant
+      size: 1000
 76.1.1:
   owner: KUSH
   controller: KUSH
@@ -65,9 +65,9 @@
     GHAZ: yes
 1150.1.1:
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 1175.1.1:
   owner: GHOR
   controller: GHOR

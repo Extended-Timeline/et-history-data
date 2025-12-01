@@ -6,10 +6,10 @@
     TIKA: yes
   resource: cocoa
   pop:
-    ethnicity: putun_culture
-    religion: mayan
-    estate: peasant
-    size: 1000
+    - ethnicity: putun_culture
+      religion: mayan
+      estate: peasant
+      size: 1000
 987.1.1:
   owner: MAY
   controller: MAY
@@ -26,9 +26,9 @@
   owner: SPA
   controller: SPA
   pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - religion: catholic
+      estate: peasant
+      size: 1000
 1725.1.1:
   cores:
     SPA: yes
@@ -54,11 +54,11 @@
     SPA: no
 1880.1.1:
   pop:
-    religion: lutheran
-    estate: peasant
-    size: 1000
+    - religion: lutheran
+      estate: peasant
+      size: 1000
 1983.1.1:
   pop:
-    ethnicity: mexican
-    estate: peasant
-    size: 1000
+    - ethnicity: mexican
+      estate: peasant
+      size: 1000

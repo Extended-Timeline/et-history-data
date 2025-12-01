@@ -7,10 +7,10 @@
     SURE: yes
   resource: wool
   pop:
-    ethnicity: afghan_culture
-    religion: zunism
-    estate: peasant
-    size: 1000
+    - ethnicity: afghan_culture
+      religion: zunism
+      estate: peasant
+      size: 1000
 20.1.1:
   owner: SURE
   controller: SURE
@@ -30,9 +30,9 @@
     RASH: yes
 650.1.1:
   pop:
-    ethnicity: khorasani_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: khorasani_culture
+      estate: peasant
+      size: 1000
 661.7.28:
   owner: UMAY
   controller: UMAY
@@ -41,9 +41,9 @@
     UMAY: yes
 680.1.1:
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 750.8.6:
   owner: ABBA
   controller: ABBA

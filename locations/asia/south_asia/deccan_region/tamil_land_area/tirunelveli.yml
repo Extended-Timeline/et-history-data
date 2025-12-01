@@ -6,10 +6,10 @@
     TNK: yes
   resource: gems
   pop:
-    ethnicity: tamil
-    religion: hindu
-    estate: peasant
-    size: 1000
+    - ethnicity: tamil
+      religion: hindu
+      estate: peasant
+      size: 1000
 250.1.1:
   owner: KALA
   controller: KALA
@@ -17,14 +17,14 @@
     KALA: yes
 280.1.1:
   pop:
-    religion: jain
-    estate: peasant
-    size: 1000
+    - religion: jain
+      estate: peasant
+      size: 1000
 580.1.1:
   pop:
-    religion: hindu
-    estate: peasant
-    size: 1000
+    - religion: hindu
+      estate: peasant
+      size: 1000
 590.1.1:
   owner: TNK
   controller: TNK

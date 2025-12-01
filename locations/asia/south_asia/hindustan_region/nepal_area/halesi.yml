@@ -6,15 +6,15 @@
     LWA: yes
   resource: wool
   pop:
-    ethnicity: newar_culture
-    religion: mahayana
-    estate: peasant
-    size: 1000
+    - ethnicity: newar_culture
+      religion: mahayana
+      estate: peasant
+      size: 1000
 640.1.1:
   pop:
-    religion: tibetan_buddhism
-    estate: peasant
-    size: 1000
+    - religion: tibetan_buddhism
+      estate: peasant
+      size: 1000
 1609.1.1:
   owner: SKK
   controller: SKK
@@ -32,6 +32,6 @@
     NPL: yes
 1800.1.1:
   pop:
-    religion: hindu
-    estate: peasant
-    size: 1000
+    - religion: hindu
+      estate: peasant
+      size: 1000

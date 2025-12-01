@@ -6,10 +6,10 @@
     SATA: yes
   resource: cloth
   pop:
-    ethnicity: marathi_culture
-    religion: mahayana
-    estate: peasant
-    size: 1000
+    - ethnicity: marathi_culture
+      religion: mahayana
+      estate: peasant
+      size: 1000
 220.1.1:
   owner: ABHI
   controller: ABHI
@@ -24,9 +24,9 @@
     VAKA: yes
 280.1.1:
   pop:
-    religion: hindu
-    estate: peasant
-    size: 1000
+    - religion: hindu
+      estate: peasant
+      size: 1000
 500.1.1:
   owner: KALC
   controller: KALC

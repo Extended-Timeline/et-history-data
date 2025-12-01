@@ -6,10 +6,10 @@
     AKSM: yes
   resource: grain
   pop:
-    ethnicity: amhara
-    religion: judaism
-    estate: peasant
-    size: 1000
+    - ethnicity: amhara
+      religion: judaism
+      estate: peasant
+      size: 1000
 325.1.1:
   owner: BTI
   controller: BTI
@@ -34,6 +34,6 @@
   controller: ETH
 1991.1.1:
   pop:
-    religion: miaphysite
-    estate: peasant
-    size: 1000
+    - religion: miaphysite
+      estate: peasant
+      size: 1000

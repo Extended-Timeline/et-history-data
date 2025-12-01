@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/4241 - Wenden.txt
 2.1.1:
   pop:
-    ethnicity: latvian
-    religion: romuva
-    estate: peasant
-    size: 1000
+    - ethnicity: latvian
+      religion: romuva
+      estate: peasant
+      size: 1000
 550.1.1:
   owner: LATG
   controller: LATG
@@ -21,14 +21,14 @@
     LATG: no
 1340.1.1:
   pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - religion: catholic
+      estate: peasant
+      size: 1000
 1542.1.1:
   pop:
-    religion: lutheran
-    estate: peasant
-    size: 1000
+    - religion: lutheran
+      estate: peasant
+      size: 1000
 1561.1.1:
   owner: LIT
   controller: LIT

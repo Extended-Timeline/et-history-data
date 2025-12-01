@@ -2,15 +2,15 @@
 2.1.1:
   resource: livestock
   pop:
-    ethnicity: parthian
-    religion: zoroastrian
-    estate: peasant
-    size: 1000
+    - ethnicity: parthian
+      religion: zoroastrian
+      estate: peasant
+      size: 1000
 600.1.1:
   pop:
-    ethnicity: turkmen_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: turkmen_culture
+      estate: peasant
+      size: 1000
 750.1.1:
   owner: OGHU
   controller: OGHU
@@ -18,9 +18,9 @@
     OGHU: yes
 940.1.1:
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 1035.1.1:
   owner: SELJ
   controller: SELJ

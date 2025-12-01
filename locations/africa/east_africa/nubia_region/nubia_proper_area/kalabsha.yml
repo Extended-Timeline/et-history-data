@@ -6,20 +6,20 @@
     MERO: yes
   resource: livestock
   pop:
-    ethnicity: kushite
-    religion: egyptian
-    estate: peasant
-    size: 1000
+    - ethnicity: kushite
+      religion: egyptian
+      estate: peasant
+      size: 1000
 330.1.1:
   pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+    - religion: chalcedonism
+      estate: peasant
+      size: 1000
 340.1.1:
   pop:
-    ethnicity: nubian_language
-    estate: peasant
-    size: 1000
+    - ethnicity: nubian_language
+      estate: peasant
+      size: 1000
 350.1.1:
   owner: BLEM
   controller: BLEM
@@ -34,9 +34,9 @@
     NOBA: yes
 451.11.1:
   pop:
-    religion: miaphysite
-    estate: peasant
-    size: 1000
+    - religion: miaphysite
+      estate: peasant
+      size: 1000
 701.1.1:
   owner: MAK
   controller: MAK
@@ -53,9 +53,9 @@
   controller: MAK
 1300.1.1:
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 1484.1.1:
   owner: DON
   controller: DON
@@ -68,9 +68,9 @@
   owner: TUR
   controller: TUR
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 1805.5.17:
   owner: EGY
   controller: EGY

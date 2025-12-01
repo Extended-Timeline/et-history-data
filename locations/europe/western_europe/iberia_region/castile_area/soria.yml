@@ -7,15 +7,15 @@
     VASC: yes
   resource: wool
   pop:
-    ethnicity: celtiberian
-    religion: druidism
-    estate: peasant
-    size: 1000
+    - ethnicity: celtiberian
+      religion: druidism
+      estate: peasant
+      size: 1000
 360.1.1:
   pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+    - religion: chalcedonism
+      estate: peasant
+      size: 1000
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -53,9 +53,9 @@
     VISG: no
     UMAY: yes
   pop:
-    ethnicity: castilian
-    estate: peasant
-    size: 1000
+    - ethnicity: castilian
+      estate: peasant
+      size: 1000
 750.8.6:
   owner: CRDB
   controller: CRDB
@@ -64,9 +64,9 @@
     CRDB: yes
 867.1.1:
   pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - religion: catholic
+      estate: peasant
+      size: 1000
 1013.1.1:
   owner: ZARA
   controller: ZARA

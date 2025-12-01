@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/4200 - Hulan.txt
 2.1.1:
   pop:
-    ethnicity: jurchen_culture
-    religion: 
-    estate: peasant
-    size: 1000
+    - ethnicity: jurchen_culture
+      religion: 
+      estate: peasant
+      size: 1000
 410.1.1:
   owner: DUMA
   controller: DUMA
@@ -65,10 +65,10 @@
     QNG: yes
 1880.1.1:
   pop:
-    ethnicity: manchu_new
-    religion: sanjiao
-    estate: peasant
-    size: 1000
+    - ethnicity: manchu_new
+      religion: sanjiao
+      estate: peasant
+      size: 1000
 1912.2.12:
   owner: CHI
   controller: CHI

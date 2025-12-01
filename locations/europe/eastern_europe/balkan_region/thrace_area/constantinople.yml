@@ -6,15 +6,15 @@
     ROM: yes
   resource: glass
   pop:
-    ethnicity: greek_culture
-    religion: hellenism_religion
-    estate: peasant
-    size: 1000
+    - ethnicity: greek_culture
+      religion: hellenism_religion
+      estate: peasant
+      size: 1000
 320.1.1:
   pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+    - religion: chalcedonism
+      estate: peasant
+      size: 1000
 395.1.17:
   owner: BYZ
   controller: BYZ
@@ -23,9 +23,9 @@
     BYZ: yes
 867.1.1:
   pop:
-    religion: orthodox
-    estate: peasant
-    size: 1000
+    - religion: orthodox
+      estate: peasant
+      size: 1000
 1204.4.13:
   owner: LAT
   controller: LAT
@@ -43,10 +43,10 @@
     TUR: yes
 1459.1.1:
   pop:
-    ethnicity: turkish_culture
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - ethnicity: turkish_culture
+      religion: sunni
+      estate: peasant
+      size: 1000
 1502.1.1:
   cores:
     BYZ: no

@@ -6,10 +6,10 @@
     ZHAN: yes
   resource: wool
   pop:
-    ethnicity: zhangzhung
-    religion: bon
-    estate: peasant
-    size: 1000
+    - ethnicity: zhangzhung
+      religion: bon
+      estate: peasant
+      size: 1000
 625.1.1:
   owner: TIB
   controller: TIB
@@ -19,9 +19,9 @@
   cores:
     ZHAN: no
   pop:
-    ethnicity: utsang_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: utsang_culture
+      estate: peasant
+      size: 1000
 842.1.1:
   owner: UTSA
   controller: UTSA
@@ -36,9 +36,9 @@
     GUG: yes
 920.1.1:
   pop:
-    religion: tibetan_buddhism
-    estate: peasant
-    size: 1000
+    - religion: tibetan_buddhism
+      estate: peasant
+      size: 1000
 1635.1.1:
   owner: LADA
   controller: LADA

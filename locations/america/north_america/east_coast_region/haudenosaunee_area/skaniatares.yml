@@ -6,18 +6,18 @@
     CAYU: yes
   resource: fur
   pop:
-    ethnicity: onondowaga_culture
-    religion: iroquoian_totemism
-    estate: peasant
-    size: 1000
+    - ethnicity: onondowaga_culture
+      religion: iroquoian_totemism
+      estate: peasant
+      size: 1000
 1784.10.22:
   owner: USA
   controller: USA
   pop:
-    ethnicity: american
-    religion: lutheran
-    estate: peasant
-    size: 1000
+    - ethnicity: american
+      religion: lutheran
+      estate: peasant
+      size: 1000
 1809.10.22:
   cores:
     USA: yes

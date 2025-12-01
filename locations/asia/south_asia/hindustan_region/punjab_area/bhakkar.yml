@@ -6,10 +6,10 @@
     IPAR: yes
   resource: iron
   pop:
-    ethnicity: punjabi
-    religion: hindu
-    estate: peasant
-    size: 1000
+    - ethnicity: punjabi
+      religion: hindu
+      estate: peasant
+      size: 1000
 76.1.1:
   owner: KUSH
   controller: KUSH
@@ -60,9 +60,9 @@
     ABBA: yes
 800.1.1:
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 841.1.1:
   owner: SND
   controller: SND

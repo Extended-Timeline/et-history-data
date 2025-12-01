@@ -1,15 +1,15 @@
 #imported from EU4 file: history/provinces/1199 - Bagamoyo.txt
 2.1.1:
   pop:
-    ethnicity: sandawe_culture
-    religion: bantu_religion
-    estate: peasant
-    size: 1000
+    - ethnicity: sandawe_culture
+      religion: bantu_religion
+      estate: peasant
+      size: 1000
 300.1.1:
   pop:
-    ethnicity: swahili_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: swahili_culture
+      estate: peasant
+      size: 1000
 850.1.1:
   owner: ZZB
   controller: ZZB

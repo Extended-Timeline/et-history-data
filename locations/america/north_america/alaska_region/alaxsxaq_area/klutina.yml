@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/2612 - Eyak.txt
 2.1.1:
   pop:
-    ethnicity: tlingit_culture
-    religion: iroquoian_totemism
-    estate: peasant
-    size: 1000
+    - ethnicity: tlingit_culture
+      religion: iroquoian_totemism
+      estate: peasant
+      size: 1000
 1793.1.1:
   owner: RUS
   controller: RUS
@@ -12,10 +12,10 @@
     RUS: yes
   resource: fur
   pop:
-    ethnicity: east_slavic_californian
-    religion: orthodox
-    estate: peasant
-    size: 1000
+    - ethnicity: east_slavic_californian
+      religion: orthodox
+      estate: peasant
+      size: 1000
 1867.10.18:
   owner: USA
   controller: USA
@@ -23,7 +23,7 @@
     RUS: no
     USA: yes
   pop:
-    ethnicity: british_californian
-    religion: lutheran
-    estate: peasant
-    size: 1000
+    - ethnicity: british_californian
+      religion: lutheran
+      estate: peasant
+      size: 1000

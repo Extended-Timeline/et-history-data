@@ -6,10 +6,10 @@
     KUNI: yes
   resource: naval_supplies
   pop:
-    ethnicity: garhwali
-    religion: mahayana
-    estate: peasant
-    size: 1000
+    - ethnicity: garhwali
+      religion: mahayana
+      estate: peasant
+      size: 1000
 300.1.1:
   owner: KMN
   controller: KMN
@@ -18,9 +18,9 @@
     KMN: yes
 1100.1.1:
   pop:
-    religion: hindu
-    estate: peasant
-    size: 1000
+    - religion: hindu
+      estate: peasant
+      size: 1000
 1779.1.1:
   owner: GWL
   controller: GWL

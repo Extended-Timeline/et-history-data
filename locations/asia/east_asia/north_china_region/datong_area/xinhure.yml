@@ -6,10 +6,10 @@
     XION: yes
   resource: livestock
   pop:
-    ethnicity: chahar
-    religion: 
-    estate: peasant
-    size: 1000
+    - ethnicity: chahar
+      religion: 
+      estate: peasant
+      size: 1000
 48.1.1:
   owner: SXIO
   controller: SXIO
@@ -66,14 +66,14 @@
     LIAO: yes
 950.1.1:
   pop:
-    religion: mahayana
-    estate: peasant
-    size: 1000
+    - religion: mahayana
+      estate: peasant
+      size: 1000
 1080.1.1:
   pop:
-    religion: tibetan_buddhism
-    estate: peasant
-    size: 1000
+    - religion: tibetan_buddhism
+      estate: peasant
+      size: 1000
 1125.1.1:
   owner: XIA0
   controller: XIA0
@@ -117,9 +117,9 @@
     CHI: yes
 1920.1.1:
   pop:
-    ethnicity: jin_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: jin_culture
+      estate: peasant
+      size: 1000
 1936.5.12:
   owner: MENG
   controller: MENG

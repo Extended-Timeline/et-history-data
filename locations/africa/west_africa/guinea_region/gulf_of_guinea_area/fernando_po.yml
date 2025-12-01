@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/1097 - Fernando Po.txt
 2.1.1:
   pop:
-    ethnicity: fang_gabun
-    religion: bantu_religion
-    estate: peasant
-    size: 1000
+    - ethnicity: fang_gabun
+      religion: bantu_religion
+      estate: peasant
+      size: 1000
 1472.1.1:
   owner: POR
   controller: POR
@@ -12,9 +12,9 @@
     POR: yes
   resource: slaves
   pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - religion: catholic
+      estate: peasant
+      size: 1000
 1778.1.1:
   owner: SPA
   controller: SPA

@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/16 - Bohuslan.txt
 2.1.1:
   pop:
-    ethnicity: gutnish
-    religion: norse
-    estate: peasant
-    size: 1000
+    - ethnicity: gutnish
+      religion: norse
+      estate: peasant
+      size: 1000
 350.1.1:
   owner: WGEA
   controller: WGEA
@@ -19,14 +19,14 @@
     NOR: yes
 900.1.1:
   pop:
-    ethnicity: norwegian
-    estate: peasant
-    size: 1000
+    - ethnicity: norwegian
+      estate: peasant
+      size: 1000
 1030.1.1:
   pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - religion: catholic
+      estate: peasant
+      size: 1000
 1523.3.15:
   owner: SWE
   controller: SWE
@@ -39,9 +39,9 @@
   cores:
     DAN: yes
   pop:
-    religion: lutheran
-    estate: peasant
-    size: 1000
+    - religion: lutheran
+      estate: peasant
+      size: 1000
 1658.2.26:
   owner: SWE
   controller: SWE
@@ -53,9 +53,9 @@
   controller: SWE
 1680.1.1:
   pop:
-    ethnicity: swedish
-    estate: peasant
-    size: 1000
+    - ethnicity: swedish
+      estate: peasant
+      size: 1000
 1850.1.1:
   cores:
     DAN: no

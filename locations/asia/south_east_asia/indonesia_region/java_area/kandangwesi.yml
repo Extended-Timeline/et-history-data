@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/4790 - Pangguyanan.txt
 2.1.1:
   pop:
-    ethnicity: sundanese_culture
-    religion: hindu
-    estate: peasant
-    size: 1000
+    - ethnicity: sundanese_culture
+      religion: hindu
+      estate: peasant
+      size: 1000
 130.1.1:
   owner: SALA
   controller: SALA
@@ -31,9 +31,9 @@
     BAN: yes
 1550.1.1:
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 1813.1.1:
   owner: NED
   controller: NED

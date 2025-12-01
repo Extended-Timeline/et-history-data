@@ -6,27 +6,27 @@
     HST: yes
   resource: sugar
   pop:
-    ethnicity: huastec_culture
-    religion: nahuatl
-    estate: peasant
-    size: 1000
+    - ethnicity: huastec_culture
+      religion: nahuatl
+      estate: peasant
+      size: 1000
 1554.1.1:
   owner: SPA
   controller: SPA
   resource: sugar
   pop:
-    ethnicity: castilian
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - ethnicity: castilian
+      religion: catholic
+      estate: peasant
+      size: 1000
 1579.1.1:
   cores:
     SPA: yes
 1770.1.1:
   pop:
-    ethnicity: mexican
-    estate: peasant
-    size: 1000
+    - ethnicity: mexican
+      estate: peasant
+      size: 1000
 1810.9.16:
   owner: MEX
   controller: MEX

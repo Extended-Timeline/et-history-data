@@ -6,10 +6,10 @@
     AWI0: yes
   resource: coffee
   pop:
-    ethnicity: agaw_culture
-    religion: bantu_religion
-    estate: peasant
-    size: 1000
+    - ethnicity: agaw_culture
+      religion: bantu_religion
+      estate: peasant
+      size: 1000
 350.1.1:
   owner: GJJ
   controller: GJJ
@@ -17,14 +17,14 @@
     AWI0: no
     GJJ: yes
   pop:
-    ethnicity: amhara
-    estate: peasant
-    size: 1000
+    - ethnicity: amhara
+      estate: peasant
+      size: 1000
 1240.1.1:
   pop:
-    religion: miaphysite
-    estate: peasant
-    size: 1000
+    - religion: miaphysite
+      estate: peasant
+      size: 1000
 1317.1.1:
   owner: ETH
   controller: ETH

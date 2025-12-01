@@ -1,18 +1,18 @@
 #imported from EU4 file: history/provinces/884 - Karankawa.txt
 2.1.1:
   pop:
-    ethnicity: coahuilteco_culture
-    religion: iroquoian_totemism
-    estate: peasant
-    size: 1000
+    - ethnicity: coahuilteco_culture
+      religion: iroquoian_totemism
+      estate: peasant
+      size: 1000
 1685.1.1:
   owner: FRA
   controller: FRA
   pop:
-    ethnicity: french
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - ethnicity: french
+      religion: catholic
+      estate: peasant
+      size: 1000
 1722.1.1:
   owner: SPA
   controller: SPA
@@ -20,15 +20,15 @@
     SPA: yes
   resource: sugar
   pop:
-    ethnicity: castilian
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - ethnicity: castilian
+      religion: catholic
+      estate: peasant
+      size: 1000
 1770.1.1:
   pop:
-    ethnicity: mexican
-    estate: peasant
-    size: 1000
+    - ethnicity: mexican
+      estate: peasant
+      size: 1000
 1810.9.16:
   owner: MEX
   controller: SPA
@@ -44,9 +44,9 @@
   cores:
     TEXA: yes
   pop:
-    ethnicity: iberian_louisianan
-    estate: peasant
-    size: 1000
+    - ethnicity: iberian_louisianan
+      estate: peasant
+      size: 1000
 1845.12.29:
   owner: USA
   controller: USA
@@ -72,6 +72,6 @@
     CSAM: no
 1920.1.1:
   pop:
-    ethnicity: british_louisianan
-    estate: peasant
-    size: 1000
+    - ethnicity: british_louisianan
+      estate: peasant
+      size: 1000

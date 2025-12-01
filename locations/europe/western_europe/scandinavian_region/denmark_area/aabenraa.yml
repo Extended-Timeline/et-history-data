@@ -6,10 +6,10 @@
     ANGL: yes
   resource: grain
   pop:
-    ethnicity: lower_saxon
-    religion: germanic
-    estate: peasant
-    size: 1000
+    - ethnicity: lower_saxon
+      religion: germanic
+      estate: peasant
+      size: 1000
 737.1.1:
   owner: SLV
   controller: SLV
@@ -17,10 +17,10 @@
     ANGL: no
     SLV: yes
   pop:
-    ethnicity: danish
-    religion: norse
-    estate: peasant
-    size: 1000
+    - ethnicity: danish
+      religion: norse
+      estate: peasant
+      size: 1000
 770.1.1:
   owner: DAN
   controller: DAN
@@ -28,9 +28,9 @@
     DAN: yes
 900.1.1:
   pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - religion: catholic
+      estate: peasant
+      size: 1000
 1115.1.1:
   owner: SLV
   controller: SLV
@@ -70,9 +70,9 @@
     DAN: yes
 1536.1.1:
   pop:
-    religion: lutheran
-    estate: peasant
-    size: 1000
+    - religion: lutheran
+      estate: peasant
+      size: 1000
 1644.1.12:
   controller: SWE
 1645.8.13:

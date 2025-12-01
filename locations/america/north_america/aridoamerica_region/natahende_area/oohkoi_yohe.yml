@@ -1,15 +1,15 @@
 #imported from EU4 file: history/provinces/885 - Comanche.txt
 2.1.1:
   pop:
-    ethnicity: kitikitish_culture
-    religion: iroquoian_totemism
-    estate: peasant
-    size: 1000
+    - ethnicity: kitikitish_culture
+      religion: iroquoian_totemism
+      estate: peasant
+      size: 1000
 1200.1.1:
   pop:
-    ethnicity: naadahende_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: naadahende_culture
+      estate: peasant
+      size: 1000
 1710.1.1:
   owner: COMA
   controller: COMA
@@ -17,9 +17,9 @@
     COMA: yes
   resource: grain
   pop:
-    ethnicity: tukudeka_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: tukudeka_culture
+      estate: peasant
+      size: 1000
 1836.3.2:
   owner: TEXA
   controller: TEXA
@@ -27,10 +27,10 @@
     TEXA: yes
     MEX: yes
   pop:
-    ethnicity: british_louisianan
-    religion: lutheran
-    estate: peasant
-    size: 1000
+    - ethnicity: british_louisianan
+      religion: lutheran
+      estate: peasant
+      size: 1000
 1845.12.29:
   owner: USA
   controller: USA

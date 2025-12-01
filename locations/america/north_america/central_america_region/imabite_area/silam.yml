@@ -4,18 +4,18 @@
     ???: yes
   resource: coffee
   pop:
-    ethnicity: miskito_culture
-    religion: muisca_religion
-    estate: peasant
-    size: 1000
+    - ethnicity: miskito_culture
+      religion: muisca_religion
+      estate: peasant
+      size: 1000
 1740.1.1:
   owner: GBR
   controller: GBR
   resource: coffee
   pop:
-    religion: lutheran
-    estate: peasant
-    size: 1000
+    - religion: lutheran
+      estate: peasant
+      size: 1000
 1765.1.1:
   cores:
     GBR: yes

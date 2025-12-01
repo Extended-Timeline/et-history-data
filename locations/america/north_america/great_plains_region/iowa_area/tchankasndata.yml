@@ -1,15 +1,15 @@
 #imported from EU4 file: history/provinces/4900 - Otoe.txt
 2.1.1:
   pop:
-    ethnicity: tsawi_culture
-    religion: iroquoian_totemism
-    estate: peasant
-    size: 1000
+    - ethnicity: tsawi_culture
+      religion: iroquoian_totemism
+      estate: peasant
+      size: 1000
 1710.1.1:
   pop:
-    ethnicity: ithanktunwan_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: ithanktunwan_culture
+      estate: peasant
+      size: 1000
 1819.1.1:
   owner: USA
   controller: USA
@@ -17,7 +17,7 @@
     USA: yes
   resource: livestock
   pop:
-    ethnicity: american
-    religion: lutheran
-    estate: peasant
-    size: 1000
+    - ethnicity: american
+      religion: lutheran
+      estate: peasant
+      size: 1000

@@ -6,15 +6,15 @@
     ROM: yes
   resource: wool
   pop:
-    ethnicity: iberi
-    religion: bimoism
-    estate: peasant
-    size: 1000
+    - ethnicity: iberi
+      religion: bimoism
+      estate: peasant
+      size: 1000
 340.1.1:
   pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+    - religion: chalcedonism
+      estate: peasant
+      size: 1000
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -36,14 +36,14 @@
     ROMW: no
 500.1.1:
   pop:
-    religion: arianism
-    estate: peasant
-    size: 1000
+    - religion: arianism
+      estate: peasant
+      size: 1000
 690.1.1:
   pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+    - religion: chalcedonism
+      estate: peasant
+      size: 1000
 711.1.1:
   owner: UMAY
   controller: UMAY
@@ -51,9 +51,9 @@
     VISG: no
     UMAY: yes
   pop:
-    ethnicity: catalan
-    estate: peasant
-    size: 1000
+    - ethnicity: catalan
+      estate: peasant
+      size: 1000
 750.8.6:
   owner: CRDB
   controller: CRDB
@@ -79,9 +79,9 @@
     CAT: yes
 867.1.1:
   pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - religion: catholic
+      estate: peasant
+      size: 1000
 1137.8.11:
   owner: ARA
   controller: ARA

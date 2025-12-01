@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/4852 - Wuli Wuli.txt
 2.1.1:
   pop:
-    ethnicity: gubbi_gubbi_culture
-    religion: dreamtime_religion
-    estate: peasant
-    size: 1000
+    - ethnicity: gubbi_gubbi_culture
+      religion: dreamtime_religion
+      estate: peasant
+      size: 1000
 1842.1.1:
   owner: GBR
   controller: GBR
@@ -12,15 +12,15 @@
     GBR: yes
   resource: grain
   pop:
-    ethnicity: english
-    religion: lutheran
-    estate: peasant
-    size: 1000
+    - ethnicity: english
+      religion: lutheran
+      estate: peasant
+      size: 1000
 1860.1.1:
   pop:
-    ethnicity: british_australian
-    estate: peasant
-    size: 1000
+    - ethnicity: british_australian
+      estate: peasant
+      size: 1000
 1880.1.1:
   resource: coal
 1901.1.1:

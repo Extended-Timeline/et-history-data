@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/2611 - Kodiak.txt
 2.1.1:
   pop:
-    ethnicity: unalaska_culture
-    religion: mari_paganism
-    estate: peasant
-    size: 1000
+    - ethnicity: unalaska_culture
+      religion: mari_paganism
+      estate: peasant
+      size: 1000
 1784.1.1:
   owner: RUS
   controller: RUS
@@ -12,9 +12,9 @@
     RUS: yes
   resource: fur
   pop:
-    religion: orthodox
-    estate: peasant
-    size: 1000
+    - religion: orthodox
+      estate: peasant
+      size: 1000
 1867.10.18:
   owner: USA
   controller: USA
@@ -22,6 +22,6 @@
     RUS: no
     USA: yes
   pop:
-    religion: lutheran
-    estate: peasant
-    size: 1000
+    - religion: lutheran
+      estate: peasant
+      size: 1000

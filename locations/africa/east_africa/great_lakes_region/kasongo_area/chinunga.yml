@@ -1,15 +1,15 @@
 #imported from EU4 file: history/provinces/4047 - Nsenga.txt
 2.1.1:
   pop:
-    ethnicity: twa_culture
-    religion: bantu_religion
-    estate: peasant
-    size: 1000
+    - ethnicity: twa_culture
+      religion: bantu_religion
+      estate: peasant
+      size: 1000
 300.1.1:
   pop:
-    ethnicity: sena
-    estate: peasant
-    size: 1000
+    - ethnicity: sena
+      estate: peasant
+      size: 1000
 1350.1.1:
   owner: LDU
   controller: LDU
@@ -29,6 +29,6 @@
     ZAMB: yes
 1970.1.1:
   pop:
-    religion: lutheran
-    estate: peasant
-    size: 1000
+    - religion: lutheran
+      estate: peasant
+      size: 1000

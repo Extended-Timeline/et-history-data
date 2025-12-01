@@ -6,10 +6,10 @@
     SAMA: yes
   resource: spices
   pop:
-    ethnicity: sogdian
-    religion: zoroastrian
-    estate: peasant
-    size: 1000
+    - ethnicity: sogdian
+      religion: zoroastrian
+      estate: peasant
+      size: 1000
 130.1.1:
   owner: KUSH
   controller: KUSH
@@ -74,9 +74,9 @@
     ABBA: yes
 800.1.1:
   pop:
-    ethnicity: tajik_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: tajik_culture
+      estate: peasant
+      size: 1000
 819.1.1:
   owner: SAMA
   controller: SAMA
@@ -90,9 +90,9 @@
     KOKA: yes
 880.1.1:
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 892.8.1:
   owner: BUKH
   controller: BUKH
@@ -148,9 +148,9 @@
     TIM: yes
 1380.1.1:
   pop:
-    ethnicity: uzbek_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: uzbek_culture
+      estate: peasant
+      size: 1000
 1409.5.13:
   owner: TRAN
   controller: TRAN

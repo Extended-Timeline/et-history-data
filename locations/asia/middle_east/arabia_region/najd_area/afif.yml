@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/4273 - Karaitan.txt
 2.1.1:
   pop:
-    ethnicity: najdi_culture
-    religion: south_arabian
-    estate: peasant
-    size: 1000
+    - ethnicity: najdi_culture
+      religion: south_arabian
+      estate: peasant
+      size: 1000
 425.1.1:
   owner: KIND
   controller: KIND
@@ -13,9 +13,9 @@
   resource: livestock
 490.1.1:
   pop:
-    religion: judaism
-    estate: peasant
-    size: 1000
+    - religion: judaism
+      estate: peasant
+      size: 1000
 630.1.1:
   owner: RASH
   controller: RASH
@@ -23,9 +23,9 @@
     KIND: no
     RASH: yes
   pop:
-    religion: islam
-    estate: peasant
-    size: 1000
+    - religion: islam
+      estate: peasant
+      size: 1000
 661.7.28:
   owner: UMAY
   controller: UMAY
@@ -33,9 +33,9 @@
     RASH: no
     UMAY: yes
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 750.8.6:
   owner: ABBA
   controller: ABBA
@@ -44,9 +44,9 @@
     ABBA: yes
 755.1.1:
   pop:
-    religion: shia
-    estate: peasant
-    size: 1000
+    - religion: shia
+      estate: peasant
+      size: 1000
 867.1.1:
   owner: NAJD
   controller: NAJD
@@ -55,9 +55,9 @@
     NAJD: yes
 1050.1.1:
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 1534.1.1:
   cores:
     TUR: yes

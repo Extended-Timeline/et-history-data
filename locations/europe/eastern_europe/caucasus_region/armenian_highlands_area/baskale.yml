@@ -6,10 +6,10 @@
     ARM: yes
   resource: wool
   pop:
-    ethnicity: armenian_culture
-    religion: armenian_religion
-    estate: peasant
-    size: 1000
+    - ethnicity: armenian_culture
+      religion: armenian_religion
+      estate: peasant
+      size: 1000
 114.1.1:
   owner: ROM
   controller: ROM
@@ -22,9 +22,9 @@
     ROM: no
 301.1.1:
   pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+    - religion: chalcedonism
+      estate: peasant
+      size: 1000
 428.1.1:
   owner: ERA
   controller: ERA
@@ -32,9 +32,9 @@
     ERA: yes
 506.1.1:
   pop:
-    religion: miaphysite
-    estate: peasant
-    size: 1000
+    - religion: miaphysite
+      estate: peasant
+      size: 1000
 637.1.1:
   owner: RASH
   controller: RASH
@@ -151,10 +151,10 @@
     ARM: no
 1922.1.1:
   pop:
-    ethnicity: kurdish_culture
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - ethnicity: kurdish_culture
+      religion: sunni
+      estate: peasant
+      size: 1000
 1922.11.1:
   cores:
     TUR: no

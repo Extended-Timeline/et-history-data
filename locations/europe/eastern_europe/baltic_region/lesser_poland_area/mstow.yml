@@ -6,10 +6,10 @@
     QUAD: yes
   resource: salt
   pop:
-    ethnicity: quadian
-    religion: germanic
-    estate: peasant
-    size: 1000
+    - ethnicity: quadian
+      religion: germanic
+      estate: peasant
+      size: 1000
 400.1.1:
   owner: VIST
   controller: VIST
@@ -17,10 +17,10 @@
     QUAD: no
     VIST: yes
   pop:
-    ethnicity: lesser_polish
-    religion: slavic
-    estate: peasant
-    size: 1000
+    - ethnicity: lesser_polish
+      religion: slavic
+      estate: peasant
+      size: 1000
 940.1.1:
   owner: POL
   controller: POL
@@ -28,9 +28,9 @@
     POL: yes
 980.1.1:
   pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - religion: catholic
+      estate: peasant
+      size: 1000
 1569.7.1:
   owner: PLC
   controller: PLC

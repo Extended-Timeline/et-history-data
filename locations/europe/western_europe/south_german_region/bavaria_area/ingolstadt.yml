@@ -6,15 +6,15 @@
     VARI: yes
   resource: wine
   pop:
-    ethnicity: swabian
-    religion: germanic
-    estate: peasant
-    size: 1000
+    - ethnicity: swabian
+      religion: germanic
+      estate: peasant
+      size: 1000
 380.1.1:
   pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+    - religion: chalcedonism
+      estate: peasant
+      size: 1000
 417.1.1:
   owner: BAV
   controller: BAV
@@ -22,9 +22,9 @@
     VARI: no
     BAV: yes
   pop:
-    ethnicity: southern_bavarian
-    estate: peasant
-    size: 1000
+    - ethnicity: southern_bavarian
+      estate: peasant
+      size: 1000
 788.1.1:
   owner: FRAN
   controller: FRAN
@@ -39,9 +39,9 @@
     BAV: yes
 867.1.1:
   pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - religion: catholic
+      estate: peasant
+      size: 1000
 880.3.22:
   owner: EFRA
   controller: EFRA

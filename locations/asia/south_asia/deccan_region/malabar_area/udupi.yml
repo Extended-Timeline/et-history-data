@@ -6,10 +6,10 @@
     PUZH: yes
   resource: spices
   pop:
-    ethnicity: kannadiga
-    religion: hindu
-    estate: peasant
-    size: 1000
+    - ethnicity: kannadiga
+      religion: hindu
+      estate: peasant
+      size: 1000
 250.1.1:
   owner: ALVA
   controller: ALVA

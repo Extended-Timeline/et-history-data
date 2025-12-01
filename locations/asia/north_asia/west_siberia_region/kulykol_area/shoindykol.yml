@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/2359 - Baganaly.txt
 2.1.1:
   pop:
-    ethnicity: cuman_culture
-    religion: 
-    estate: peasant
-    size: 1000
+    - ethnicity: cuman_culture
+      religion: 
+      estate: peasant
+      size: 1000
 340.1.1:
   owner: OGHU
   controller: OGHU
@@ -36,9 +36,9 @@
     CUMA: no
     KIPC: yes
   pop:
-    ethnicity: khazak
-    estate: peasant
-    size: 1000
+    - ethnicity: khazak
+      estate: peasant
+      size: 1000
 880.1.1:
   owner: KIME
   controller: KIME
@@ -62,14 +62,14 @@
     CUMA: no
     MGE: yes
   pop:
-    ethnicity: khazak
-    estate: peasant
-    size: 1000
+    - ethnicity: khazak
+      estate: peasant
+      size: 1000
 1240.1.1:
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 1260.1.1:
   owner: BLHO
   controller: BLHO

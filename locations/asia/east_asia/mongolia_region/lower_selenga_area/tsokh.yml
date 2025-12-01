@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/1057 - Udinsky.txt
 2.1.1:
   pop:
-    ethnicity: buryat_culture
-    religion: 
-    estate: peasant
-    size: 1000
+    - ethnicity: buryat_culture
+      religion: 
+      estate: peasant
+      size: 1000
 580.1.1:
   owner: GOKT
   controller: GOKT
@@ -61,10 +61,10 @@
   owner: RUS
   controller: RUS
   pop:
-    ethnicity: muscovite
-    religion: orthodox
-    estate: peasant
-    size: 1000
+    - ethnicity: muscovite
+      religion: orthodox
+      estate: peasant
+      size: 1000
 1691.1.1:
   cores:
     RUS: yes

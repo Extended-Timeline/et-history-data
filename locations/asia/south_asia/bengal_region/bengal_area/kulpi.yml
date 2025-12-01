@@ -6,10 +6,10 @@
     VANG: yes
   resource: silk
   pop:
-    ethnicity: bengali
-    religion: mahayana
-    estate: peasant
-    size: 1000
+    - ethnicity: bengali
+      religion: mahayana
+      estate: peasant
+      size: 1000
 355.1.1:
   owner: GUPT
   controller: GUPT
@@ -41,9 +41,9 @@
     GAUD: yes
 1080.1.1:
   pop:
-    religion: hindu
-    estate: peasant
-    size: 1000
+    - religion: hindu
+      estate: peasant
+      size: 1000
 1230.1.1:
   owner: SAMT
   controller: SAMT

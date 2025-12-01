@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/4875 - Welhikhane.txt
 2.1.1:
   pop:
-    ethnicity: onondowaga_culture
-    religion: iroquoian_totemism
-    estate: peasant
-    size: 1000
+    - ethnicity: onondowaga_culture
+      religion: iroquoian_totemism
+      estate: peasant
+      size: 1000
 1650.1.1:
   cores:
     ???: yes
@@ -15,7 +15,7 @@
   cores:
     USA: yes
   pop:
-    ethnicity: american
-    religion: lutheran
-    estate: peasant
-    size: 1000
+    - ethnicity: american
+      religion: lutheran
+      estate: peasant
+      size: 1000

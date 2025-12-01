@@ -2,10 +2,10 @@
 2.1.1:
   resource: fur
   pop:
-    ethnicity: sapmi
-    religion: muinaisusko
-    estate: peasant
-    size: 1000
+    - ethnicity: sapmi
+      religion: muinaisusko
+      estate: peasant
+      size: 1000
 750.1.1:
   owner: SMI
   controller: SMI
@@ -20,9 +20,9 @@
     FIN: yes
 1641.1.1:
   pop:
-    religion: lutheran
-    estate: peasant
-    size: 1000
+    - religion: lutheran
+      estate: peasant
+      size: 1000
 1650.1.1:
   resource: naval_supplies
 1742.11.5:

@@ -6,10 +6,10 @@
     PONT: yes
   resource: wine
   pop:
-    ethnicity: pontic_greek_culture
-    religion: hellenism_religion
-    estate: peasant
-    size: 1000
+    - ethnicity: pontic_greek_culture
+      religion: hellenism_religion
+      estate: peasant
+      size: 1000
 62.1.1:
   owner: ROM
   controller: ROM
@@ -26,14 +26,14 @@
     BYZ: yes
 440.1.1:
   pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+    - religion: chalcedonism
+      estate: peasant
+      size: 1000
 867.1.1:
   pop:
-    religion: orthodox
-    estate: peasant
-    size: 1000
+    - religion: orthodox
+      estate: peasant
+      size: 1000
 1204.1.1:
   owner: TRE
   controller: TRE
@@ -48,10 +48,10 @@
   cores:
     BYZ: no
   pop:
-    ethnicity: turkish_culture
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - ethnicity: turkish_culture
+      religion: sunni
+      estate: peasant
+      size: 1000
 1261.1.1:
   owner: CND
   controller: CND

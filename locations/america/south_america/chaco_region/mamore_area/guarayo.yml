@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/800 - Chiquitos.txt
 2.1.1:
   pop:
-    ethnicity: moxo_culture
-    religion: muisca_religion
-    estate: peasant
-    size: 1000
+    - ethnicity: moxo_culture
+      religion: muisca_religion
+      estate: peasant
+      size: 1000
 1561.1.1:
   owner: SPA
   controller: SPA
@@ -12,9 +12,9 @@
     SPA: yes
   resource: tropical_wood
   pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - religion: catholic
+      estate: peasant
+      size: 1000
 1825.8.6:
   owner: BOLI
   controller: BOLI

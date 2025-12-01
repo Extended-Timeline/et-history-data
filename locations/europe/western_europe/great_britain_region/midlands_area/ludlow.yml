@@ -6,10 +6,10 @@
     CORV: yes
   resource: wool
   pop:
-    ethnicity: briton
-    religion: druidism
-    estate: peasant
-    size: 1000
+    - ethnicity: briton
+      religion: druidism
+      estate: peasant
+      size: 1000
 47.1.1:
   owner: ROM
   controller: ROM
@@ -17,9 +17,9 @@
     ROM: yes
 300.1.1:
   pop:
-    ethnicity: welsh
-    estate: peasant
-    size: 1000
+    - ethnicity: welsh
+      estate: peasant
+      size: 1000
 380.1.1:
   cores:
     ELME: yes
@@ -37,9 +37,9 @@
     POWY: yes
 640.1.1:
   pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+    - religion: chalcedonism
+      estate: peasant
+      size: 1000
 716.1.1:
   owner: MERC
   controller: MERC
@@ -47,14 +47,14 @@
     ELME: no
     MERC: yes
   pop:
-    ethnicity: anglo_saxon
-    estate: peasant
-    size: 1000
+    - ethnicity: anglo_saxon
+      estate: peasant
+      size: 1000
 867.1.1:
   pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - religion: catholic
+      estate: peasant
+      size: 1000
 883.1.1:
   cores:
     WESS: yes
@@ -72,9 +72,9 @@
     MERC: no
 1066.12.25:
   pop:
-    ethnicity: english
-    estate: peasant
-    size: 1000
+    - ethnicity: english
+      estate: peasant
+      size: 1000
 1461.6.28:
   controller: ENG
 1470.10.6:
@@ -83,14 +83,14 @@
   controller: ENG
 1548.1.1:
   pop:
-    religion: lutheran
-    estate: peasant
-    size: 1000
+    - religion: lutheran
+      estate: peasant
+      size: 1000
 1585.1.1:
   pop:
-    religion: calvinist
-    estate: peasant
-    size: 1000
+    - religion: calvinist
+      estate: peasant
+      size: 1000
 1646.5.5:
   controller: ENG
 1707.5.12:

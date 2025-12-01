@@ -6,15 +6,15 @@
     TRPR: yes
   resource: tropical_wood
   pop:
-    ethnicity: dimasa_culture
-    religion: hindu
-    estate: peasant
-    size: 1000
+    - ethnicity: dimasa_culture
+      religion: hindu
+      estate: peasant
+      size: 1000
 1800.1.1:
   pop:
-    ethnicity: bengali
-    estate: peasant
-    size: 1000
+    - ethnicity: bengali
+      estate: peasant
+      size: 1000
 1930.1.1:
   cores:
     INDI: yes

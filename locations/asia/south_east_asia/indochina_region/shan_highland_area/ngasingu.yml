@@ -6,15 +6,15 @@
     MAIN: yes
   resource: gems
   pop:
-    ethnicity: pyu
-    religion: theravada
-    estate: peasant
-    size: 1000
+    - ethnicity: pyu
+      religion: theravada
+      estate: peasant
+      size: 1000
 849.1.1:
   pop:
-    ethnicity: burmese_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: burmese_culture
+      estate: peasant
+      size: 1000
 1050.1.1:
   owner: PAGA
   controller: PAGA

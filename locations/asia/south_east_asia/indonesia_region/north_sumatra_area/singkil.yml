@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/4811 - Barus.txt
 2.1.1:
   pop:
-    ethnicity: batak_culture
-    religion: bimoism
-    estate: peasant
-    size: 1000
+    - ethnicity: batak_culture
+      religion: bimoism
+      estate: peasant
+      size: 1000
 200.1.1:
   owner: BUS
   controller: BUS
@@ -13,9 +13,9 @@
   resource: spices
 700.1.1:
   pop:
-    religion: hindu
-    estate: peasant
-    size: 1000
+    - religion: hindu
+      estate: peasant
+      size: 1000
 1471.1.1:
   cores:
     ATJ: yes
@@ -26,9 +26,9 @@
     PSA: no
 1550.1.1:
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 1903.1.10:
   owner: NED
   controller: NED

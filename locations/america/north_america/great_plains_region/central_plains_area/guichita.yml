@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/896 - Ozark.txt
 2.1.1:
   pop:
-    ethnicity: kitikitish_culture
-    religion: iroquoian_totemism
-    estate: peasant
-    size: 1000
+    - ethnicity: kitikitish_culture
+      religion: iroquoian_totemism
+      estate: peasant
+      size: 1000
 1830.9.1:
   owner: CHC
   controller: CHC
@@ -12,9 +12,9 @@
     CHC: yes
   resource: grain
   pop:
-    ethnicity: choctaw_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: choctaw_culture
+      estate: peasant
+      size: 1000
 1834.6.30:
   owner: USA
   controller: USA
@@ -22,7 +22,7 @@
     USA: yes
 1890.5.2:
   pop:
-    ethnicity: american
-    religion: lutheran
-    estate: peasant
-    size: 1000
+    - ethnicity: american
+      religion: lutheran
+      estate: peasant
+      size: 1000

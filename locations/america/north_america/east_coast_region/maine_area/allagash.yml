@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/2567 - Aroostook.txt
 2.1.1:
   pop:
-    ethnicity: wolastoqiyik_culture
-    religion: iroquoian_totemism
-    estate: peasant
-    size: 1000
+    - ethnicity: wolastoqiyik_culture
+      religion: iroquoian_totemism
+      estate: peasant
+      size: 1000
 1807.1.1:
   owner: USA
   controller: USA
@@ -12,7 +12,7 @@
     USA: yes
   resource: naval_supplies
   pop:
-    ethnicity: american
-    religion: lutheran
-    estate: peasant
-    size: 1000
+    - ethnicity: american
+      religion: lutheran
+      estate: peasant
+      size: 1000

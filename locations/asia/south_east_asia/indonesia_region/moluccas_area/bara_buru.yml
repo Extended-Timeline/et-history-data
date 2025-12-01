@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/645 - Buru.txt
 2.1.1:
   pop:
-    ethnicity: tetum_culture
-    religion: bimoism
-    estate: peasant
-    size: 1000
+    - ethnicity: tetum_culture
+      religion: bimoism
+      estate: peasant
+      size: 1000
 1500.1.1:
   owner: TID
   controller: TID
@@ -21,9 +21,9 @@
   owner: NED
   controller: NED
   pop:
-    religion: calvinist
-    estate: peasant
-    size: 1000
+    - religion: calvinist
+      estate: peasant
+      size: 1000
 1683.1.1:
   cores:
     NED: yes

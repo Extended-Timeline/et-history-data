@@ -6,10 +6,10 @@
     ARJU: yes
   resource: cloth
   pop:
-    ethnicity: kannauji
-    religion: mahayana
-    estate: peasant
-    size: 1000
+    - ethnicity: kannauji
+      religion: mahayana
+      estate: peasant
+      size: 1000
 120.1.1:
   owner: KUSH
   controller: KUSH
@@ -23,9 +23,9 @@
     ARJU: yes
 360.1.1:
   pop:
-    religion: hindu
-    estate: peasant
-    size: 1000
+    - religion: hindu
+      estate: peasant
+      size: 1000
 375.1.1:
   owner: GUPT
   controller: GUPT

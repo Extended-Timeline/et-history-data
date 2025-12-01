@@ -2,10 +2,10 @@
 2.1.1:
   resource: fish
   pop:
-    ethnicity: turkmen_culture
-    religion: zoroastrian
-    estate: peasant
-    size: 1000
+    - ethnicity: turkmen_culture
+      religion: zoroastrian
+      estate: peasant
+      size: 1000
 750.1.1:
   owner: OGHU
   controller: OGHU
@@ -13,9 +13,9 @@
     OGHU: yes
 920.1.1:
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 1035.1.1:
   owner: SELJ
   controller: SELJ

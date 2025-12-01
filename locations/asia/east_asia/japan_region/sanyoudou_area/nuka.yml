@@ -6,10 +6,10 @@
     KIBI: yes
   resource: grain
   pop:
-    ethnicity: saigoku_culture
-    religion: shinto
-    estate: peasant
-    size: 1000
+    - ethnicity: saigoku_culture
+      religion: shinto
+      estate: peasant
+      size: 1000
 580.1.1:
   owner: YMT
   controller: YMT
@@ -18,14 +18,14 @@
     YMT: yes
 607.1.1:
   pop:
-    religion: mahayana
-    estate: peasant
-    size: 1000
+    - religion: mahayana
+      estate: peasant
+      size: 1000
 712.1.1:
   pop:
-    religion: shinto
-    estate: peasant
-    size: 1000
+    - religion: shinto
+      estate: peasant
+      size: 1000
 794.1.1:
   owner: JAP
   controller: JAP

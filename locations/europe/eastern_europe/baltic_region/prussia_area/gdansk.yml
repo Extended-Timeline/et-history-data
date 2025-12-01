@@ -6,10 +6,10 @@
     GOTH: yes
   resource: grain
   pop:
-    ethnicity: gothic
-    religion: germanic
-    estate: peasant
-    size: 1000
+    - ethnicity: gothic
+      religion: germanic
+      estate: peasant
+      size: 1000
 140.1.1:
   owner: LEMO
   controller: LEMO
@@ -17,9 +17,9 @@
     GOTH: no
     LEMO: yes
   pop:
-    ethnicity: western_pomeranian
-    estate: peasant
-    size: 1000
+    - ethnicity: western_pomeranian
+      estate: peasant
+      size: 1000
 500.1.1:
   owner: POME
   controller: POME
@@ -27,15 +27,15 @@
     LEMO: no
     POME: yes
   pop:
-    ethnicity: kashubian
-    religion: romuva
-    estate: peasant
-    size: 1000
+    - ethnicity: kashubian
+      religion: romuva
+      estate: peasant
+      size: 1000
 880.1.1:
   pop:
-    religion: slavic
-    estate: peasant
-    size: 1000
+    - religion: slavic
+      estate: peasant
+      size: 1000
 965.1.1:
   owner: POL
   controller: POL
@@ -53,9 +53,9 @@
     POL: yes
 1050.1.1:
   pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - religion: catholic
+      estate: peasant
+      size: 1000
 1060.1.1:
   owner: POME
   controller: POME
@@ -75,9 +75,9 @@
   cores:
     POL: no
   pop:
-    ethnicity: prussian
-    estate: peasant
-    size: 1000
+    - ethnicity: prussian
+      estate: peasant
+      size: 1000
 1454.2.10:
   cores:
     POL: yes
@@ -89,9 +89,9 @@
     PRU: yes
 1550.1.1:
   pop:
-    religion: lutheran
-    estate: peasant
-    size: 1000
+    - religion: lutheran
+      estate: peasant
+      size: 1000
 1569.7.1:
   owner: PLC
   controller: PLC
@@ -153,9 +153,9 @@
     GER: yes
 1940.1.1:
   pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - religion: catholic
+      estate: peasant
+      size: 1000
 1945.3.30:
   controller: SOVI
 1945.5.8:
@@ -166,6 +166,6 @@
     GER: no
     POL: yes
   pop:
-    ethnicity: lesser_polish
-    estate: peasant
-    size: 1000
+    - ethnicity: lesser_polish
+      estate: peasant
+      size: 1000

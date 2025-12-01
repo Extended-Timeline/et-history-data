@@ -6,10 +6,10 @@
     BHUT: yes
   resource: wool
   pop:
-    ethnicity: ngalop_culture
-    religion: bon
-    estate: peasant
-    size: 1000
+    - ethnicity: ngalop_culture
+      religion: bon
+      estate: peasant
+      size: 1000
 605.1.1:
   owner: KAMA
   controller: KAMA
@@ -29,6 +29,6 @@
     BHUT: yes
 750.1.1:
   pop:
-    religion: tibetan_buddhism
-    estate: peasant
-    size: 1000
+    - religion: tibetan_buddhism
+      estate: peasant
+      size: 1000

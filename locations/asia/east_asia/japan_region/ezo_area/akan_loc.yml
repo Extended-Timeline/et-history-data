@@ -6,10 +6,10 @@
     NVK: yes
   resource: fish
   pop:
-    ethnicity: nivkh_culture
-    religion: mari_paganism
-    estate: peasant
-    size: 1000
+    - ethnicity: nivkh_culture
+      religion: mari_paganism
+      estate: peasant
+      size: 1000
 1000.1.1:
   owner: ANU
   controller: ANU
@@ -17,17 +17,17 @@
     NVK: no
     ANU: yes
   pop:
-    ethnicity: ainu_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: ainu_culture
+      estate: peasant
+      size: 1000
 1679.1.1:
   owner: TOKU
   controller: TOKU
   pop:
-    ethnicity: saigoku_culture
-    religion: shinto
-    estate: peasant
-    size: 1000
+    - ethnicity: saigoku_culture
+      religion: shinto
+      estate: peasant
+      size: 1000
 1704.1.1:
   cores:
     TOKU: yes

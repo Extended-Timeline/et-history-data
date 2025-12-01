@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/816 - Tumbes.txt
 2.1.1:
   pop:
-    ethnicity: chimu_culture
-    religion: inti
-    estate: peasant
-    size: 1000
+    - ethnicity: chimu_culture
+      religion: inti
+      estate: peasant
+      size: 1000
 900.1.1:
   owner: CHM
   controller: CHM
@@ -20,18 +20,18 @@
   owner: SPA
   controller: SPA
   pop:
-    ethnicity: castilian
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - ethnicity: castilian
+      religion: catholic
+      estate: peasant
+      size: 1000
 1557.1.1:
   cores:
     SPA: yes
 1770.1.1:
   pop:
-    ethnicity: iberian_peruvian
-    estate: peasant
-    size: 1000
+    - ethnicity: iberian_peruvian
+      estate: peasant
+      size: 1000
 1821.7.28:
   owner: PERU
   controller: PERU

@@ -6,10 +6,10 @@
     ANTE: yes
   resource: livestock
   pop:
-    ethnicity: ruthenian
-    religion: slavic
-    estate: peasant
-    size: 1000
+    - ethnicity: ruthenian
+      religion: slavic
+      estate: peasant
+      size: 1000
 150.1.1:
   owner: BAST
   controller: BAST
@@ -17,9 +17,9 @@
     ANTE: no
     BAST: yes
   pop:
-    religion: germanic
-    estate: peasant
-    size: 1000
+    - religion: germanic
+      estate: peasant
+      size: 1000
 380.1.1:
   owner: HUNS
   controller: HUNS
@@ -27,9 +27,9 @@
     BAST: no
     HUNS: yes
   pop:
-    religion: 
-    estate: peasant
-    size: 1000
+    - religion: 
+      estate: peasant
+      size: 1000
 469.1.1:
   owner: ANTE
   controller: ANTE
@@ -37,9 +37,9 @@
     HUNS: no
     ANTE: yes
   pop:
-    religion: slavic
-    estate: peasant
-    size: 1000
+    - religion: slavic
+      estate: peasant
+      size: 1000
 560.1.1:
   owner: AVR
   controller: AVR
@@ -59,9 +59,9 @@
     TIVE: no
     HUN: yes
   pop:
-    religion: 
-    estate: peasant
-    size: 1000
+    - religion: 
+      estate: peasant
+      size: 1000
 900.1.1:
   owner: KIEV
   controller: KIEV
@@ -77,9 +77,9 @@
     PECH: yes
 960.1.1:
   pop:
-    religion: orthodox
-    estate: peasant
-    size: 1000
+    - religion: orthodox
+      estate: peasant
+      size: 1000
 980.1.1:
   owner: KIEV
   controller: KIEV
@@ -103,9 +103,9 @@
     LIT: yes
 1350.1.1:
   pop:
-    religion: orthodox
-    estate: peasant
-    size: 1000
+    - religion: orthodox
+      estate: peasant
+      size: 1000
 1352.1.1:
   owner: POL
   controller: POL

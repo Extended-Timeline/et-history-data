@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/1777 - Kola.txt
 2.1.1:
   pop:
-    ethnicity: sapmi
-    religion: muinaisusko
-    estate: peasant
-    size: 1000
+    - ethnicity: sapmi
+      religion: muinaisusko
+      estate: peasant
+      size: 1000
 750.1.1:
   owner: SMI
   controller: SMI
@@ -18,9 +18,9 @@
     NOV: yes
 1450.1.1:
   pop:
-    religion: orthodox
-    estate: peasant
-    size: 1000
+    - religion: orthodox
+      estate: peasant
+      size: 1000
 1478.1.15:
   owner: MOS
   controller: MOS
@@ -39,9 +39,9 @@
   cores:
     SOVI: yes
   pop:
-    ethnicity: novgorodian
-    estate: peasant
-    size: 1000
+    - ethnicity: novgorodian
+      estate: peasant
+      size: 1000
 1991.12.25:
   owner: RUS
   controller: RUS

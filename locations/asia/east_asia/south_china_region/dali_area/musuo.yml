@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/660 - Xishuan Banna.txt
 2.1.1:
   pop:
-    ethnicity: khon_muang_culture
-    religion: satsana_phi
-    estate: peasant
-    size: 1000
+    - ethnicity: khon_muang_culture
+      religion: satsana_phi
+      estate: peasant
+      size: 1000
 620.1.1:
   owner: CHH
   controller: CHH
@@ -22,9 +22,9 @@
   cores:
     CHH: yes
   pop:
-    ethnicity: tai_lu_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: tai_lu_culture
+      estate: peasant
+      size: 1000
 1180.1.1:
   owner: HIRA
   controller: HIRA
@@ -38,9 +38,9 @@
     CHH: yes
 1240.1.1:
   pop:
-    religion: theravada
-    estate: peasant
-    size: 1000
+    - religion: theravada
+      estate: peasant
+      size: 1000
 1292.1.1:
   owner: MMA
   controller: MMA

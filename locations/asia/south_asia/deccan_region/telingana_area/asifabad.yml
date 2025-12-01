@@ -6,10 +6,10 @@
     SATA: yes
   resource: tropical_wood
   pop:
-    ethnicity: telugu
-    religion: mahayana
-    estate: peasant
-    size: 1000
+    - ethnicity: telugu
+      religion: mahayana
+      estate: peasant
+      size: 1000
 220.1.1:
   owner: ABHI
   controller: ABHI
@@ -24,9 +24,9 @@
     VAKA: yes
 260.1.1:
   pop:
-    religion: hindu
-    estate: peasant
-    size: 1000
+    - religion: hindu
+      estate: peasant
+      size: 1000
 500.1.1:
   owner: RDY
   controller: RDY

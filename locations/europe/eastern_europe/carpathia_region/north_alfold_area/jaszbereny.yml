@@ -6,10 +6,10 @@
     IAZY: yes
   resource: grain
   pop:
-    ethnicity: pannonian
-    religion: druidism
-    estate: peasant
-    size: 1000
+    - ethnicity: pannonian
+      religion: druidism
+      estate: peasant
+      size: 1000
 300.1.1:
   owner: RUGI
   controller: RUGI
@@ -17,10 +17,10 @@
     IAZY: no
     RUGI: yes
   pop:
-    ethnicity: southern_bavarian
-    religion: germanic
-    estate: peasant
-    size: 1000
+    - ethnicity: southern_bavarian
+      religion: germanic
+      estate: peasant
+      size: 1000
 450.1.1:
   owner: GEPI
   controller: GEPI
@@ -28,14 +28,14 @@
     RUGI: no
     GEPI: yes
   pop:
-    ethnicity: gepid
-    estate: peasant
-    size: 1000
+    - ethnicity: gepid
+      estate: peasant
+      size: 1000
 480.1.1:
   pop:
-    religion: arianism
-    estate: peasant
-    size: 1000
+    - religion: arianism
+      estate: peasant
+      size: 1000
 500.1.1:
   owner: LOMB
   controller: LOMB
@@ -43,9 +43,9 @@
     IAZY: no
     LOMB: yes
   pop:
-    ethnicity: langobardi
-    estate: peasant
-    size: 1000
+    - ethnicity: langobardi
+      estate: peasant
+      size: 1000
 567.1.1:
   owner: AVR
   controller: AVR
@@ -53,14 +53,14 @@
     GEPI: no
     AVR: yes
   pop:
-    ethnicity: avar_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: avar_culture
+      estate: peasant
+      size: 1000
 570.1.1:
   pop:
-    religion: 
-    estate: peasant
-    size: 1000
+    - religion: 
+      estate: peasant
+      size: 1000
 804.1.1:
   owner: BUL
   controller: BUL
@@ -80,14 +80,14 @@
     MVA: no
     HUN: yes
   pop:
-    ethnicity: hungarian
-    estate: peasant
-    size: 1000
+    - ethnicity: hungarian
+      estate: peasant
+      size: 1000
 1010.1.1:
   pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - religion: catholic
+      estate: peasant
+      size: 1000
 1507.1.1:
   controller: HUN
 1515.1.1:

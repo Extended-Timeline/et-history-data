@@ -6,10 +6,10 @@
     ANU: yes
   resource: fish
   pop:
-    ethnicity: ainu_culture
-    religion: mari_paganism
-    estate: peasant
-    size: 1000
+    - ethnicity: ainu_culture
+      religion: mari_paganism
+      estate: peasant
+      size: 1000
 1400.1.1:
   owner: AKT
   controller: AKT
@@ -19,10 +19,10 @@
   cores:
     ANU: no
   pop:
-    ethnicity: saigoku_culture
-    religion: shinto
-    estate: peasant
-    size: 1000
+    - ethnicity: saigoku_culture
+      religion: shinto
+      estate: peasant
+      size: 1000
 1590.8.10:
   owner: TOYO
   controller: TOYO

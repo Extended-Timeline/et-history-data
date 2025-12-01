@@ -6,10 +6,10 @@
     YI00: yes
   resource: iron
   pop:
-    ethnicity: yi_culture
-    religion: bimoism
-    estate: peasant
-    size: 1000
+    - ethnicity: yi_culture
+      religion: bimoism
+      estate: peasant
+      size: 1000
 60.1.1:
   owner: HAN0
   controller: HAN0
@@ -85,9 +85,9 @@
     QNG: yes
 1900.1.1:
   pop:
-    religion: sanjiao
-    estate: peasant
-    size: 1000
+    - religion: sanjiao
+      estate: peasant
+      size: 1000
 1912.2.12:
   owner: CHI
   controller: CHI

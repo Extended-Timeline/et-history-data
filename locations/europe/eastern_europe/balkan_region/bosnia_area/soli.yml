@@ -6,10 +6,10 @@
     ROM: yes
   resource: salt
   pop:
-    ethnicity: illyrian
-    religion: druidism
-    estate: peasant
-    size: 1000
+    - ethnicity: illyrian
+      religion: druidism
+      estate: peasant
+      size: 1000
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -18,9 +18,9 @@
     ROMW: yes
 450.1.1:
   pop:
-    religion: arianism
-    estate: peasant
-    size: 1000
+    - religion: arianism
+      estate: peasant
+      size: 1000
 455.1.1:
   owner: OSTR
   controller: OSTR
@@ -28,9 +28,9 @@
     ROMW: no
     OSTR: yes
   pop:
-    ethnicity: gothic
-    estate: peasant
-    size: 1000
+    - ethnicity: gothic
+      estate: peasant
+      size: 1000
 540.1.1:
   owner: BYZ
   controller: BYZ
@@ -41,10 +41,10 @@
   cores:
     SER: yes
   pop:
-    ethnicity: serbian
-    religion: slavic
-    estate: peasant
-    size: 1000
+    - ethnicity: serbian
+      religion: slavic
+      estate: peasant
+      size: 1000
 630.1.1:
   owner: SER
   controller: SER
@@ -52,9 +52,9 @@
     BYZ: no
 869.1.1:
   pop:
-    religion: orthodox
-    estate: peasant
-    size: 1000
+    - religion: orthodox
+      estate: peasant
+      size: 1000
 960.1.1:
   owner: CRO
   controller: CRO

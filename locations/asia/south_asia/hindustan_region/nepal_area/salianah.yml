@@ -6,10 +6,10 @@
     DANG: yes
   resource: wool
   pop:
-    ethnicity: newar_culture
-    religion: hindu
-    estate: peasant
-    size: 1000
+    - ethnicity: newar_culture
+      religion: hindu
+      estate: peasant
+      size: 1000
 1787.1.1:
   owner: NPL
   controller: NPL

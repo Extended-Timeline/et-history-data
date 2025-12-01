@@ -6,10 +6,10 @@
     GOTI: yes
   resource: copper
   pop:
-    ethnicity: pannonian
-    religion: druidism
-    estate: peasant
-    size: 1000
+    - ethnicity: pannonian
+      religion: druidism
+      estate: peasant
+      size: 1000
 300.1.1:
   owner: QUAD
   controller: QUAD
@@ -17,10 +17,10 @@
     GOTI: no
     QUAD: yes
   pop:
-    ethnicity: quadian
-    religion: germanic
-    estate: peasant
-    size: 1000
+    - ethnicity: quadian
+      religion: germanic
+      estate: peasant
+      size: 1000
 568.1.1:
   owner: AVR
   controller: AVR
@@ -28,14 +28,14 @@
     QUAD: no
     AVR: yes
   pop:
-    religion: 
-    estate: peasant
-    size: 1000
+    - religion: 
+      estate: peasant
+      size: 1000
 580.1.1:
   pop:
-    ethnicity: slovak
-    estate: peasant
-    size: 1000
+    - ethnicity: slovak
+      estate: peasant
+      size: 1000
 623.1.1:
   owner: SAMO
   controller: SAMO
@@ -67,9 +67,9 @@
     HUN: yes
 950.1.1:
   pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - religion: catholic
+      estate: peasant
+      size: 1000
 1001.1.1:
   owner: POL
   controller: POL
@@ -91,29 +91,29 @@
     HAB: yes
 1545.1.1:
   pop:
-    religion: lutheran
-    estate: peasant
-    size: 1000
+    - religion: lutheran
+      estate: peasant
+      size: 1000
 1567.1.1:
   pop:
-    religion: calvinist
-    estate: peasant
-    size: 1000
+    - religion: calvinist
+      estate: peasant
+      size: 1000
 1606.1.1:
   controller: HAB
   pop:
-    religion: calvinist
-    estate: peasant
-    size: 1000
+    - religion: calvinist
+      estate: peasant
+      size: 1000
 1626.1.1:
   controller: HAB
 1711.1.1:
   controller: HAB
 1750.1.1:
   pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - religion: catholic
+      estate: peasant
+      size: 1000
 1918.10.28:
   owner: CZES
   controller: CZES

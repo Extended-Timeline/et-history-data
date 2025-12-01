@@ -6,10 +6,10 @@
     CHRC: yes
   resource: salt
   pop:
-    ethnicity: iraqi_culture
-    religion: zoroastrian
-    estate: peasant
-    size: 1000
+    - ethnicity: iraqi_culture
+      religion: zoroastrian
+      estate: peasant
+      size: 1000
 222.1.1:
   owner: ERA
   controller: ERA
@@ -22,9 +22,9 @@
     ERA: no
     RASH: yes
   pop:
-    religion: islam
-    estate: peasant
-    size: 1000
+    - religion: islam
+      estate: peasant
+      size: 1000
 661.7.28:
   owner: UMAY
   controller: UMAY
@@ -32,9 +32,9 @@
     RASH: no
     UMAY: yes
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 750.8.6:
   owner: ABBA
   controller: ABBA
@@ -80,9 +80,9 @@
     ABBA: yes
 1250.1.1:
   pop:
-    religion: shia
-    estate: peasant
-    size: 1000
+    - religion: shia
+      estate: peasant
+      size: 1000
 1258.2.10:
   owner: MGE
   controller: MGE

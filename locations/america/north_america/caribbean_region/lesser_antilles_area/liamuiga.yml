@@ -1,19 +1,19 @@
 #imported from EU4 file: history/provinces/495 - St. Kitts.txt
 2.1.1:
   pop:
-    ethnicity: arawak_culture
-    religion: muisca_religion
-    estate: peasant
-    size: 1000
+    - ethnicity: arawak_culture
+      religion: muisca_religion
+      estate: peasant
+      size: 1000
 1623.1.1:
   owner: FRA
   controller: FRA
   resource: sugar
   pop:
-    ethnicity: french
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - ethnicity: french
+      religion: catholic
+      estate: peasant
+      size: 1000
 1648.1.1:
   cores:
     FRA: yes
@@ -24,15 +24,15 @@
     FRA: no
     GBR: yes
   pop:
-    ethnicity: english
-    religion: lutheran
-    estate: peasant
-    size: 1000
+    - ethnicity: english
+      religion: lutheran
+      estate: peasant
+      size: 1000
 1780.1.1:
   pop:
-    ethnicity: british_caribbean
-    estate: peasant
-    size: 1000
+    - ethnicity: british_caribbean
+      estate: peasant
+      size: 1000
 1967.1.1:
   cores:
     SKNE: yes

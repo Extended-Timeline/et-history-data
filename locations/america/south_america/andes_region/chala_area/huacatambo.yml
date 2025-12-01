@@ -6,10 +6,10 @@
     MOCH: yes
   resource: cocoa
   pop:
-    ethnicity: chimu_culture
-    religion: inti
-    estate: peasant
-    size: 1000
+    - ethnicity: chimu_culture
+      religion: inti
+      estate: peasant
+      size: 1000
 500.1.1:
   owner: HUAR
   controller: HUAR
@@ -33,18 +33,18 @@
   cores:
     CHM: no
   pop:
-    ethnicity: castilian
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - ethnicity: castilian
+      religion: catholic
+      estate: peasant
+      size: 1000
 1558.8.29:
   cores:
     SPA: yes
 1770.1.1:
   pop:
-    ethnicity: iberian_peruvian
-    estate: peasant
-    size: 1000
+    - ethnicity: iberian_peruvian
+      estate: peasant
+      size: 1000
 1821.7.28:
   owner: PERU
   controller: PERU

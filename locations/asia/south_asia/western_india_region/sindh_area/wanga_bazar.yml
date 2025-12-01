@@ -6,10 +6,10 @@
     SND: yes
   resource: cotton
   pop:
-    ethnicity: sindhi
-    religion: hindu
-    estate: peasant
-    size: 1000
+    - ethnicity: sindhi
+      religion: hindu
+      estate: peasant
+      size: 1000
 76.1.1:
   owner: KUSH
   controller: KUSH
@@ -39,9 +39,9 @@
     SND: yes
 1020.1.1:
   pop:
-    religion: shia
-    estate: peasant
-    size: 1000
+    - religion: shia
+      estate: peasant
+      size: 1000
 1024.1.1:
   owner: GHAZ
   controller: GHAZ
@@ -54,9 +54,9 @@
     GHAZ: no
 1356.1.1:
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 1544.1.1:
   owner: BNG
   controller: BNG
@@ -75,9 +75,9 @@
     MUG: no
 1830.1.1:
   pop:
-    religion: shia
-    estate: peasant
-    size: 1000
+    - religion: shia
+      estate: peasant
+      size: 1000
 1843.2.17:
   owner: GBR
   controller: GBR

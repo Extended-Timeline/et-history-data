@@ -6,10 +6,10 @@
     DACI: yes
   resource: livestock
   pop:
-    ethnicity: dacian
-    religion: zamolxism
-    estate: peasant
-    size: 1000
+    - ethnicity: dacian
+      religion: zamolxism
+      estate: peasant
+      size: 1000
 271.1.1:
   owner: VISG
   controller: VISG
@@ -18,9 +18,9 @@
     VISG: yes
 290.1.1:
   pop:
-    religion: germanic
-    estate: peasant
-    size: 1000
+    - religion: germanic
+      estate: peasant
+      size: 1000
 376.1.1:
   owner: HUNS
   controller: HUNS
@@ -29,14 +29,14 @@
     HUNS: yes
 400.1.1:
   pop:
-    religion: 
-    estate: peasant
-    size: 1000
+    - religion: 
+      estate: peasant
+      size: 1000
 450.1.1:
   pop:
-    ethnicity: wallachian
-    estate: peasant
-    size: 1000
+    - ethnicity: wallachian
+      estate: peasant
+      size: 1000
 520.1.1:
   owner: ANTE
   controller: ANTE
@@ -57,9 +57,9 @@
     BUL: yes
 867.1.1:
   pop:
-    religion: orthodox
-    estate: peasant
-    size: 1000
+    - religion: orthodox
+      estate: peasant
+      size: 1000
 1003.1.1:
   owner: HUN
   controller: HUN

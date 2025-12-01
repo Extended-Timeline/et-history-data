@@ -6,10 +6,10 @@
     KAMA: yes
   resource: silk
   pop:
-    ethnicity: kamarupi
-    religion: hindu
-    estate: peasant
-    size: 1000
+    - ethnicity: kamarupi
+      religion: hindu
+      estate: peasant
+      size: 1000
 1185.1.1:
   owner: KMA
   controller: KMA

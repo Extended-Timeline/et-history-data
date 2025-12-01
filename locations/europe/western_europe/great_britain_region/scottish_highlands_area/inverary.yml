@@ -6,10 +6,10 @@
     CALD: yes
   resource: iron
   pop:
-    ethnicity: pictish
-    religion: druidism
-    estate: peasant
-    size: 1000
+    - ethnicity: pictish
+      religion: druidism
+      estate: peasant
+      size: 1000
 250.1.1:
   owner: PICT
   controller: PICT
@@ -22,14 +22,14 @@
     PICT: no
     DALR: yes
   pop:
-    ethnicity: highland
-    estate: peasant
-    size: 1000
+    - ethnicity: highland
+      estate: peasant
+      size: 1000
 550.1.1:
   pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+    - religion: chalcedonism
+      estate: peasant
+      size: 1000
 736.1.1:
   owner: PICT
   controller: PICT
@@ -48,18 +48,18 @@
     SCO: yes
 867.1.1:
   pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - religion: catholic
+      estate: peasant
+      size: 1000
 1296.1.1:
   controller: ENG
 1314.1.1:
   controller: SCO
 1560.8.1:
   pop:
-    religion: calvinist
-    estate: peasant
-    size: 1000
+    - religion: calvinist
+      estate: peasant
+      size: 1000
 1645.9.13:
   controller: SCO
 1651.4.1:

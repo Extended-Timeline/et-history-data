@@ -6,10 +6,10 @@
     ELYM: yes
   resource: sugar
   pop:
-    ethnicity: khuzi
-    religion: zoroastrian
-    estate: peasant
-    size: 1000
+    - ethnicity: khuzi
+      religion: zoroastrian
+      estate: peasant
+      size: 1000
 222.1.1:
   owner: ERA
   controller: ERA
@@ -23,9 +23,9 @@
     RASH: yes
 640.1.1:
   pop:
-    religion: islam
-    estate: peasant
-    size: 1000
+    - religion: islam
+      estate: peasant
+      size: 1000
 661.7.28:
   owner: UMAY
   controller: UMAY
@@ -33,9 +33,9 @@
     RASH: no
     UMAY: yes
   pop:
-    religion: shia
-    estate: peasant
-    size: 1000
+    - religion: shia
+      estate: peasant
+      size: 1000
 750.8.6:
   owner: ABBA
   controller: ABBA
@@ -44,9 +44,9 @@
     ABBA: yes
 800.1.1:
   pop:
-    ethnicity: iraqi_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: iraqi_culture
+      estate: peasant
+      size: 1000
 940.1.1:
   owner: IRAQ
   controller: IRAQ
@@ -117,6 +117,6 @@
   resource: oil
 1980.1.1:
   pop:
-    ethnicity: lur_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: lur_culture
+      estate: peasant
+      size: 1000

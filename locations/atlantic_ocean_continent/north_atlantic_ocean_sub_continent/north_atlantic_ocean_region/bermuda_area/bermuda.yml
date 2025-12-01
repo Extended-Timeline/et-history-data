@@ -1,17 +1,17 @@
 #imported from EU4 file: history/provinces/481 - Bermuda.txt
 2.1.1:
   pop:
-    ethnicity: uninhabited
-    estate: peasant
-    size: 1000
+    - ethnicity: uninhabited
+      estate: peasant
+      size: 1000
 1612.1.1:
   owner: ENG
   controller: ENG
   pop:
-    ethnicity: english
-    religion: lutheran
-    estate: peasant
-    size: 1000
+    - ethnicity: english
+      religion: lutheran
+      estate: peasant
+      size: 1000
 1616.1.1:
   resource: naval_supplies
 1637.1.1:
@@ -25,6 +25,6 @@
     GBR: yes
 1780.1.1:
   pop:
-    ethnicity: british_caribbean
-    estate: peasant
-    size: 1000
+    - ethnicity: british_caribbean
+      estate: peasant
+      size: 1000

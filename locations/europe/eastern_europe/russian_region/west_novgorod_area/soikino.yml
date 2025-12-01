@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/34 - Ingermanland.txt
 2.1.1:
   pop:
-    ethnicity: ingrian
-    religion: muinaisusko
-    estate: peasant
-    size: 1000
+    - ethnicity: ingrian
+      religion: muinaisusko
+      estate: peasant
+      size: 1000
 550.1.1:
   owner: VOTI
   controller: VOTI
@@ -42,9 +42,9 @@
     ESTO: no
     TEU: yes
   pop:
-    religion: orthodox
-    estate: peasant
-    size: 1000
+    - religion: orthodox
+      estate: peasant
+      size: 1000
 1241.1.1:
   owner: NOV
   controller: NOV

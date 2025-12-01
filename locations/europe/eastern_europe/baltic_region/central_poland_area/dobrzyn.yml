@@ -6,10 +6,10 @@
     SCIR: yes
   resource: grain
   pop:
-    ethnicity: scirian
-    religion: germanic
-    estate: peasant
-    size: 1000
+    - ethnicity: scirian
+      religion: germanic
+      estate: peasant
+      size: 1000
 150.1.1:
   owner: NEUR
   controller: NEUR
@@ -17,10 +17,10 @@
     SCIR: no
     NEUR: yes
   pop:
-    ethnicity: yotvingian
-    religion: romuva
-    estate: peasant
-    size: 1000
+    - ethnicity: yotvingian
+      religion: romuva
+      estate: peasant
+      size: 1000
 450.1.1:
   owner: MAZ
   controller: MAZ
@@ -28,10 +28,10 @@
     NEUR: no
     MAZ: yes
   pop:
-    ethnicity: lesser_polish
-    religion: slavic
-    estate: peasant
-    size: 1000
+    - ethnicity: lesser_polish
+      religion: slavic
+      estate: peasant
+      size: 1000
 940.1.1:
   owner: POL
   controller: POL
@@ -49,9 +49,9 @@
     MAZ: no
 1050.1.1:
   pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - religion: catholic
+      estate: peasant
+      size: 1000
 1138.10.28:
   owner: MAZ
   controller: MAZ

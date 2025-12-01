@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/2739 - Kirikiriroa.txt
 2.1.1:
   pop:
-    ethnicity: uninhabited
-    religion: bimoism
-    estate: peasant
-    size: 1000
+    - ethnicity: uninhabited
+      religion: bimoism
+      estate: peasant
+      size: 1000
 1200.1.1:
   owner: TNI
   controller: TNI
@@ -12,9 +12,9 @@
     TNI: yes
   resource: grain
   pop:
-    ethnicity: maori_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: maori_culture
+      estate: peasant
+      size: 1000
 1858.6.1:
   owner: AOTE
   controller: AOTE
@@ -27,10 +27,10 @@
     AOTE: no
     GBR: yes
   pop:
-    ethnicity: british_oceanian
-    religion: lutheran
-    estate: peasant
-    size: 1000
+    - ethnicity: british_oceanian
+      religion: lutheran
+      estate: peasant
+      size: 1000
 1907.9.26:
   owner: NZEA
   controller: NZEA

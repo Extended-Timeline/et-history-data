@@ -6,10 +6,10 @@
     ROM: yes
   resource: naval_supplies
   pop:
-    ethnicity: gallian
-    religion: druidism
-    estate: peasant
-    size: 1000
+    - ethnicity: gallian
+      religion: druidism
+      estate: peasant
+      size: 1000
 260.1.1:
   cores:
     GALL: yes
@@ -25,9 +25,9 @@
     ROMW: yes
 440.1.1:
   pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+    - religion: chalcedonism
+      estate: peasant
+      size: 1000
 461.11.1:
   owner: SOIS
   controller: SOIS
@@ -43,9 +43,9 @@
     SOIS: no
     FRAN: yes
   pop:
-    ethnicity: french
-    estate: peasant
-    size: 1000
+    - ethnicity: french
+      estate: peasant
+      size: 1000
 511.11.27:
   owner: NEUS
   controller: NEUS
@@ -83,16 +83,16 @@
     WFRA: no
     BRI: yes
   pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - religion: catholic
+      estate: peasant
+      size: 1000
 911.1.1:
   cores:
     NRM: yes
   pop:
-    ethnicity: norman
-    estate: peasant
-    size: 1000
+    - ethnicity: norman
+      estate: peasant
+      size: 1000
 933.1.1:
   owner: NRM
   controller: NRM

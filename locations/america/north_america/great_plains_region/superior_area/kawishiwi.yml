@@ -2,10 +2,10 @@
 2.1.1:
   resource: fur
   pop:
-    ethnicity: ojibwe_culture
-    religion: iroquoian_totemism
-    estate: peasant
-    size: 1000
+    - ethnicity: ojibwe_culture
+      religion: iroquoian_totemism
+      estate: peasant
+      size: 1000
 1737.1.1:
   owner: FRA
   controller: FRA
@@ -13,37 +13,37 @@
     FRA: yes
   resource: fur
   pop:
-    ethnicity: french
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - ethnicity: french
+      religion: catholic
+      estate: peasant
+      size: 1000
 1763.2.10:
   owner: GBR
   controller: GBR
   cores:
     FRA: no
   pop:
-    ethnicity: english
-    religion: lutheran
-    estate: peasant
-    size: 1000
+    - ethnicity: english
+      religion: lutheran
+      estate: peasant
+      size: 1000
 1763.10.9:
   owner: OJI
   controller: OJI
   cores:
     OJI: yes
   pop:
-    ethnicity: ojibwe_culture
-    religion: iroquoian_totemism
-    estate: peasant
-    size: 1000
+    - ethnicity: ojibwe_culture
+      religion: iroquoian_totemism
+      estate: peasant
+      size: 1000
 1813.10.5:
   owner: USA
   controller: USA
   cores:
     USA: yes
   pop:
-    ethnicity: american
-    religion: lutheran
-    estate: peasant
-    size: 1000
+    - ethnicity: american
+      religion: lutheran
+      estate: peasant
+      size: 1000

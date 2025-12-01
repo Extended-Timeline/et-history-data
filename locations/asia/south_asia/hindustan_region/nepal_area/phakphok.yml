@@ -6,20 +6,20 @@
     LWA: yes
   resource: wool
   pop:
-    ethnicity: newar_culture
-    religion: mahayana
-    estate: peasant
-    size: 1000
+    - ethnicity: newar_culture
+      religion: mahayana
+      estate: peasant
+      size: 1000
 680.1.1:
   pop:
-    religion: tibetan_buddhism
-    estate: peasant
-    size: 1000
+    - religion: tibetan_buddhism
+      estate: peasant
+      size: 1000
 1584.1.1:
   pop:
-    religion: tibetan_buddhism
-    estate: peasant
-    size: 1000
+    - religion: tibetan_buddhism
+      estate: peasant
+      size: 1000
 1609.1.1:
   owner: MAKW
   controller: MAKW
@@ -27,9 +27,9 @@
     MAKW: yes
 1760.1.1:
   pop:
-    religion: hindu
-    estate: peasant
-    size: 1000
+    - religion: hindu
+      estate: peasant
+      size: 1000
 1769.1.1:
   owner: LWA
   controller: LWA

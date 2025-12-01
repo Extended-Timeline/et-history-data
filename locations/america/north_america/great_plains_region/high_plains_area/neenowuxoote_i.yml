@@ -1,15 +1,15 @@
 #imported from EU4 file: history/provinces/2507 - Baachinena.txt
 2.1.1:
   pop:
-    ethnicity: kitikitish_culture
-    religion: iroquoian_totemism
-    estate: peasant
-    size: 1000
+    - ethnicity: kitikitish_culture
+      religion: iroquoian_totemism
+      estate: peasant
+      size: 1000
 1760.1.1:
   pop:
-    ethnicity: hinonoeino_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: hinonoeino_culture
+      estate: peasant
+      size: 1000
 1864.1.1:
   owner: USA
   controller: USA
@@ -17,7 +17,7 @@
     USA: yes
   resource: grain
   pop:
-    ethnicity: british_californian
-    religion: lutheran
-    estate: peasant
-    size: 1000
+    - ethnicity: british_californian
+      religion: lutheran
+      estate: peasant
+      size: 1000

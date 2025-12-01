@@ -6,15 +6,15 @@
     KED: yes
   resource: fish
   pop:
-    ethnicity: malay_culture
-    religion: hindu
-    estate: peasant
-    size: 1000
+    - ethnicity: malay_culture
+      religion: hindu
+      estate: peasant
+      size: 1000
 180.1.1:
   pop:
-    religion: mahayana
-    estate: peasant
-    size: 1000
+    - religion: mahayana
+      estate: peasant
+      size: 1000
 770.1.1:
   owner: LGK
   controller: LGK
@@ -62,9 +62,9 @@
     TNG: yes
 1850.1.1:
   pop:
-    ethnicity: thai_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: thai_culture
+      estate: peasant
+      size: 1000
 1932.7.24:
   owner: SIA
   controller: SIA

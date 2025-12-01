@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/817 - Cuenca.txt
 2.1.1:
   pop:
-    ethnicity: cara_culture
-    religion: inti
-    estate: peasant
-    size: 1000
+    - ethnicity: cara_culture
+      religion: inti
+      estate: peasant
+      size: 1000
 980.1.1:
   owner: QTO
   controller: QTO
@@ -20,18 +20,18 @@
   owner: SPA
   controller: SPA
   pop:
-    ethnicity: castilian
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - ethnicity: castilian
+      religion: catholic
+      estate: peasant
+      size: 1000
 1558.1.1:
   cores:
     SPA: yes
 1770.1.1:
   pop:
-    ethnicity: iberian_colombian
-    estate: peasant
-    size: 1000
+    - ethnicity: iberian_colombian
+      estate: peasant
+      size: 1000
 1810.7.20:
   owner: COLO
   controller: COLO

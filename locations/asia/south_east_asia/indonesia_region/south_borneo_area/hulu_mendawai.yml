@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/2708 - Sampit.txt
 2.1.1:
   pop:
-    ethnicity: bidayuh_culture
-    religion: hindu
-    estate: peasant
-    size: 1000
+    - ethnicity: bidayuh_culture
+      religion: hindu
+      estate: peasant
+      size: 1000
 600.1.1:
   owner: TJP
   controller: TJP
@@ -19,9 +19,9 @@
     BANJ: yes
 1600.1.1:
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 1860.1.1:
   owner: NED
   controller: NED

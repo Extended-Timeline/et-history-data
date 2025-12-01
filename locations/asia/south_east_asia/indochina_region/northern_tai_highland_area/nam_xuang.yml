@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/4837 - Muang Ngoi.txt
 2.1.1:
   pop:
-    ethnicity: khmu_culture
-    religion: satsana_phi
-    estate: peasant
-    size: 1000
+    - ethnicity: khmu_culture
+      religion: satsana_phi
+      estate: peasant
+      size: 1000
 620.1.1:
   owner: LUPR
   controller: LUPR
@@ -12,9 +12,9 @@
     LUPR: yes
   resource: ivory
   pop:
-    ethnicity: lao_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: lao_culture
+      estate: peasant
+      size: 1000
 880.1.1:
   owner: CAMB
   controller: CAMB

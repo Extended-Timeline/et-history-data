@@ -1,15 +1,15 @@
 #imported from EU4 file: history/provinces/875 - Canyon.txt
 2.1.1:
   pop:
-    ethnicity: ancestral_pueblo_culture
-    religion: iroquoian_totemism
-    estate: peasant
-    size: 1000
+    - ethnicity: ancestral_pueblo_culture
+      religion: iroquoian_totemism
+      estate: peasant
+      size: 1000
 1350.1.1:
   pop:
-    ethnicity: dine_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: dine_culture
+      estate: peasant
+      size: 1000
 1864.1.1:
   owner: USA
   controller: USA
@@ -17,9 +17,9 @@
     USA: yes
   resource: salt
   pop:
-    ethnicity: british_californian
-    religion: lutheran
-    estate: peasant
-    size: 1000
+    - ethnicity: british_californian
+      religion: lutheran
+      estate: peasant
+      size: 1000
 1880.1.1:
   resource: coal

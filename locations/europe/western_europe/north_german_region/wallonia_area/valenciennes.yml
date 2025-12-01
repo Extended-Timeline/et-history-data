@@ -6,30 +6,30 @@
     ROM: yes
   resource: grain
   pop:
-    ethnicity: belgae
-    religion: germanic
-    estate: peasant
-    size: 1000
+    - ethnicity: belgae
+      religion: germanic
+      estate: peasant
+      size: 1000
 260.1.1:
   cores:
     GALL: yes
   pop:
-    ethnicity: gallian
-    estate: peasant
-    size: 1000
+    - ethnicity: gallian
+      estate: peasant
+      size: 1000
 274.1.1:
   controller: ROM
   cores:
     GALL: no
   pop:
-    ethnicity: belgae
-    estate: peasant
-    size: 1000
+    - ethnicity: belgae
+      estate: peasant
+      size: 1000
 360.1.1:
   pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+    - religion: chalcedonism
+      estate: peasant
+      size: 1000
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -43,9 +43,9 @@
     ROMW: no
     FRAN: yes
   pop:
-    ethnicity: walloon
-    estate: peasant
-    size: 1000
+    - ethnicity: walloon
+      estate: peasant
+      size: 1000
 511.11.27:
   owner: SOIS
   controller: SOIS
@@ -85,9 +85,9 @@
     WFRA: yes
 867.1.1:
   pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - religion: catholic
+      estate: peasant
+      size: 1000
 925.1.1:
   owner: LOT
   controller: LOT
@@ -131,9 +131,9 @@
     FRA: yes
 1684.1.1:
   pop:
-    ethnicity: french
-    estate: peasant
-    size: 1000
+    - ethnicity: french
+      estate: peasant
+      size: 1000
 1870.9.4:
   owner: FRA
   controller: PRU

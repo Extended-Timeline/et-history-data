@@ -1,18 +1,18 @@
 #imported from EU4 file: history/provinces/1040 - Suntar Khayat.txt
 2.1.1:
   pop:
-    ethnicity: chuvan_culture
-    religion: mari_paganism
-    estate: peasant
-    size: 1000
+    - ethnicity: chuvan_culture
+      religion: mari_paganism
+      estate: peasant
+      size: 1000
 1732.1.1:
   owner: RUS
   controller: RUS
   resource: fur
   pop:
-    religion: orthodox
-    estate: peasant
-    size: 1000
+    - religion: orthodox
+      estate: peasant
+      size: 1000
 1757.1.1:
   cores:
     RUS: yes

@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/940 - Kentucky.txt
 2.1.1:
   pop:
-    ethnicity: chalahgawtha_culture
-    religion: iroquoian_totemism
-    estate: peasant
-    size: 1000
+    - ethnicity: chalahgawtha_culture
+      religion: iroquoian_totemism
+      estate: peasant
+      size: 1000
 1774.10.19:
   owner: GBR
   controller: GBR
@@ -12,10 +12,10 @@
     GBR: yes
   resource: fur
   pop:
-    ethnicity: british_louisianan
-    religion: lutheran
-    estate: peasant
-    size: 1000
+    - ethnicity: british_louisianan
+      religion: lutheran
+      estate: peasant
+      size: 1000
 1776.7.4:
   owner: USA
   controller: USA

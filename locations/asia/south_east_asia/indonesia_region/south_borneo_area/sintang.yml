@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/4803 - Sanggau.txt
 2.1.1:
   pop:
-    ethnicity: bidayuh_culture
-    religion: hindu
-    estate: peasant
-    size: 1000
+    - ethnicity: bidayuh_culture
+      religion: hindu
+      estate: peasant
+      size: 1000
 600.1.1:
   owner: TJP
   controller: TJP
@@ -19,9 +19,9 @@
     SANG: yes
 1658.1.1:
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 1877.1.1:
   owner: NED
   controller: NED

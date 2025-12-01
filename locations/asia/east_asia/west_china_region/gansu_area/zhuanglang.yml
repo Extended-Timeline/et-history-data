@@ -7,10 +7,10 @@
     SHU0: yes
   resource: grain
   pop:
-    ethnicity: baima_culture
-    religion: sanjiao
-    estate: peasant
-    size: 1000
+    - ethnicity: baima_culture
+      religion: sanjiao
+      estate: peasant
+      size: 1000
 9.1.10:
   owner: XIN0
   controller: XIN0
@@ -104,9 +104,9 @@
     TANG: yes
 700.1.1:
   pop:
-    ethnicity: xibei
-    estate: peasant
-    size: 1000
+    - ethnicity: xibei
+      estate: peasant
+      size: 1000
 763.1.1:
   owner: TIB
   controller: TIB

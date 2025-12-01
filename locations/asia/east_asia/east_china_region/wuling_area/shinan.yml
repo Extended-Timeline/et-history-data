@@ -7,10 +7,10 @@
     SHU0: yes
   resource: tea
   pop:
-    ethnicity: shu_culture
-    religion: sanjiao
-    estate: peasant
-    size: 1000
+    - ethnicity: shu_culture
+      religion: sanjiao
+      estate: peasant
+      size: 1000
 9.1.10:
   owner: XIN0
   controller: XIN0

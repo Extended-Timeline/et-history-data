@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/1041 - Gizhiga.txt
 2.1.1:
   pop:
-    ethnicity: itelmen_culture
-    religion: mari_paganism
-    estate: peasant
-    size: 1000
+    - ethnicity: itelmen_culture
+      religion: mari_paganism
+      estate: peasant
+      size: 1000
 1300.1.1:
   cores:
     ???: yes
@@ -13,9 +13,9 @@
   owner: RUS
   controller: RUS
   pop:
-    religion: orthodox
-    estate: peasant
-    size: 1000
+    - religion: orthodox
+      estate: peasant
+      size: 1000
 1757.1.1:
   cores:
     RUS: yes

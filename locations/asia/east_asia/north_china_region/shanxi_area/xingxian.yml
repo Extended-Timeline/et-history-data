@@ -7,10 +7,10 @@
     WEI0: yes
   resource: grain
   pop:
-    ethnicity: jin_culture
-    religion: sanjiao
-    estate: peasant
-    size: 1000
+    - ethnicity: jin_culture
+      religion: sanjiao
+      estate: peasant
+      size: 1000
 9.1.10:
   owner: XIN0
   controller: XIN0
@@ -40,9 +40,9 @@
     JIN1: yes
 300.1.1:
   pop:
-    religion: mahayana
-    estate: peasant
-    size: 1000
+    - religion: mahayana
+      estate: peasant
+      size: 1000
 304.1.1:
   owner: ZHAO
   controller: ZHAO
@@ -57,9 +57,9 @@
     QIN0: yes
 360.1.1:
   pop:
-    religion: sanjiao
-    estate: peasant
-    size: 1000
+    - religion: sanjiao
+      estate: peasant
+      size: 1000
 384.1.1:
   owner: WYAN
   controller: WYAN

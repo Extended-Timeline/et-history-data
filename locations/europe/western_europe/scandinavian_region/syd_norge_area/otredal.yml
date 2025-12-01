@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/4145 - Agdesiden.txt
 2.1.1:
   pop:
-    ethnicity: norwegian
-    religion: norse
-    estate: peasant
-    size: 1000
+    - ethnicity: norwegian
+      religion: norse
+      estate: peasant
+      size: 1000
 550.1.1:
   owner: AGDE
   controller: AGDE
@@ -25,9 +25,9 @@
     NOR: yes
 1030.1.1:
   pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - religion: catholic
+      estate: peasant
+      size: 1000
 1532.7.15:
   controller: NOR
 1536.1.1:
@@ -36,9 +36,9 @@
   cores:
     DAN: yes
   pop:
-    religion: lutheran
-    estate: peasant
-    size: 1000
+    - religion: lutheran
+      estate: peasant
+      size: 1000
 1814.1.14:
   owner: SWE
   cores:

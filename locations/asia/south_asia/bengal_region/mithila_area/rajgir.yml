@@ -6,10 +6,10 @@
     MAGA: yes
   resource: silk
   pop:
-    ethnicity: magahi
-    religion: mahayana
-    estate: peasant
-    size: 1000
+    - ethnicity: magahi
+      religion: mahayana
+      estate: peasant
+      size: 1000
 120.1.1:
   owner: KUSH
   controller: KUSH
@@ -71,9 +71,9 @@
     DLH: yes
 1250.1.1:
   pop:
-    religion: hindu
-    estate: peasant
-    size: 1000
+    - religion: hindu
+      estate: peasant
+      size: 1000
 1394.1.1:
   owner: JNP
   controller: JNP

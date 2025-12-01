@@ -6,15 +6,15 @@
     SRKS: yes
   resource: ivory
   pop:
-    ethnicity: pyu
-    religion: theravada
-    estate: peasant
-    size: 1000
+    - ethnicity: pyu
+      religion: theravada
+      estate: peasant
+      size: 1000
 900.1.1:
   pop:
-    ethnicity: burmese_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: burmese_culture
+      estate: peasant
+      size: 1000
 1044.1.1:
   owner: PAGA
   controller: PAGA

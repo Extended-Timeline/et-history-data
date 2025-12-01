@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/574 - The Andamans.txt
 2.1.1:
   pop:
-    ethnicity: bengali
-    religion: bimoism
-    estate: peasant
-    size: 1000
+    - ethnicity: bengali
+      religion: bimoism
+      estate: peasant
+      size: 1000
 1030.1.1:
   owner: CHOL
   controller: CHOL
@@ -84,9 +84,9 @@
     GBR: yes
   resource: fish
   pop:
-    religion: hindu
-    estate: peasant
-    size: 1000
+    - religion: hindu
+      estate: peasant
+      size: 1000
 1930.1.1:
   cores:
     INDI: yes

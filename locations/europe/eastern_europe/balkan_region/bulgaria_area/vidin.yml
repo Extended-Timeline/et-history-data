@@ -6,19 +6,19 @@
     ROM: yes
   resource: grain
   pop:
-    ethnicity: thracian
-    religion: zamolxism
-    estate: peasant
-    size: 1000
+    - ethnicity: thracian
+      religion: zamolxism
+      estate: peasant
+      size: 1000
 350.1.1:
   owner: VISG
   controller: VISG
   cores:
     VISG: yes
   pop:
-    religion: germanic
-    estate: peasant
-    size: 1000
+    - religion: germanic
+      estate: peasant
+      size: 1000
 395.1.17:
   cores:
     ROM: no
@@ -29,28 +29,28 @@
   cores:
     VISG: no
   pop:
-    religion: 
-    estate: peasant
-    size: 1000
+    - religion: 
+      estate: peasant
+      size: 1000
 681.1.1:
   owner: BUL
   controller: BUL
   cores:
     BUL: yes
   pop:
-    ethnicity: bulgarian
-    estate: peasant
-    size: 1000
+    - ethnicity: bulgarian
+      estate: peasant
+      size: 1000
 864.1.1:
   pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+    - religion: chalcedonism
+      estate: peasant
+      size: 1000
 867.1.1:
   pop:
-    religion: orthodox
-    estate: peasant
-    size: 1000
+    - religion: orthodox
+      estate: peasant
+      size: 1000
 1014.1.1:
   owner: BYZ
   controller: BYZ

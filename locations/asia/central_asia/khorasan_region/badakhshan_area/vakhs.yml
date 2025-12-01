@@ -6,10 +6,10 @@
     KUSH: yes
   resource: wool
   pop:
-    ethnicity: sogdian
-    religion: mahayana
-    estate: peasant
-    size: 1000
+    - ethnicity: sogdian
+      religion: mahayana
+      estate: peasant
+      size: 1000
 230.1.1:
   owner: KSAS
   controller: KSAS
@@ -41,9 +41,9 @@
     ABBA: yes
 800.1.1:
   pop:
-    ethnicity: tajik_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: tajik_culture
+      estate: peasant
+      size: 1000
 819.1.1:
   owner: KOKA
   controller: KOKA
@@ -57,9 +57,9 @@
     BUKH: yes
 920.1.1:
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 992.1.1:
   owner: KKHA
   controller: KKHA

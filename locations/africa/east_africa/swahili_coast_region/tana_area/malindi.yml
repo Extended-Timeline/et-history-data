@@ -1,15 +1,15 @@
 #imported from EU4 file: history/provinces/1203 - Malindi.txt
 2.1.1:
   pop:
-    ethnicity: maasai_culture
-    religion: bantu_religion
-    estate: peasant
-    size: 1000
+    - ethnicity: maasai_culture
+      religion: bantu_religion
+      estate: peasant
+      size: 1000
 200.1.1:
   pop:
-    ethnicity: swahili_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: swahili_culture
+      estate: peasant
+      size: 1000
 850.1.1:
   owner: MLI
   controller: MLI
@@ -18,9 +18,9 @@
   resource: iron
 1050.1.1:
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 1650.1.1:
   resource: grain
 1729.10.1:
@@ -38,9 +38,9 @@
     GBR: yes
 1900.1.1:
   pop:
-    religion: lutheran
-    estate: peasant
-    size: 1000
+    - religion: lutheran
+      estate: peasant
+      size: 1000
 1963.12.12:
   owner: KENY
   controller: KENY

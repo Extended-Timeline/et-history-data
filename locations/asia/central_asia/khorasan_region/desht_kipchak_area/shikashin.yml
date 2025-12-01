@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/2420 - Agyidel.txt
 2.1.1:
   pop:
-    ethnicity: bashkir
-    religion: 
-    estate: peasant
-    size: 1000
+    - ethnicity: bashkir
+      religion: 
+      estate: peasant
+      size: 1000
 660.1.1:
   owner: BSH
   controller: BSH
@@ -24,9 +24,9 @@
     CUMA: yes
 1150.1.1:
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 1236.1.1:
   owner: MGE
   controller: MGE
@@ -66,10 +66,10 @@
   cores:
     BSH: no
   pop:
-    ethnicity: muscovite
-    religion: orthodox
-    estate: peasant
-    size: 1000
+    - ethnicity: muscovite
+      religion: orthodox
+      estate: peasant
+      size: 1000
 1922.12.30:
   owner: SOVI
   controller: SOVI

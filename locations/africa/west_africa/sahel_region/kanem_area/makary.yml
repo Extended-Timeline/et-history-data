@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/1160 - Maroua.txt
 2.1.1:
   pop:
-    ethnicity: sara_culture
-    religion: bantu_religion
-    estate: peasant
-    size: 1000
+    - ethnicity: sara_culture
+      religion: bantu_religion
+      estate: peasant
+      size: 1000
 523.1.1:
   owner: KOT
   controller: KOT
@@ -20,18 +20,18 @@
   cores:
     KOT: no
   pop:
-    ethnicity: kanembu_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: kanembu_culture
+      estate: peasant
+      size: 1000
 1503.1.1:
   controller: KBO
 1566.1.1:
   controller: KBO
 1715.1.1:
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 1900.4.22:
   owner: SOKO
   controller: SOKO

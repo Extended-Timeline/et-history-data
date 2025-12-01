@@ -7,10 +7,10 @@
     SHU0: yes
   resource: iron
   pop:
-    ethnicity: zhongyuan_culture
-    religion: sanjiao
-    estate: peasant
-    size: 1000
+    - ethnicity: zhongyuan_culture
+      religion: sanjiao
+      estate: peasant
+      size: 1000
 9.1.10:
   owner: XIN0
   controller: XIN0
@@ -58,9 +58,9 @@
     JIN1: no
     CHOU: yes
   pop:
-    ethnicity: baima_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: baima_culture
+      estate: peasant
+      size: 1000
 371.1.1:
   owner: QIN0
   controller: QIN0
@@ -96,9 +96,9 @@
     ZHOU: yes
 580.1.1:
   pop:
-    ethnicity: zhongyuan_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: zhongyuan_culture
+      estate: peasant
+      size: 1000
 581.3.4:
   owner: SUI0
   controller: SUI0

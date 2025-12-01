@@ -6,10 +6,10 @@
     WARI: yes
   resource: naval_supplies
   pop:
-    ethnicity: saxon
-    religion: germanic
-    estate: peasant
-    size: 1000
+    - ethnicity: saxon
+      religion: germanic
+      estate: peasant
+      size: 1000
 260.1.1:
   owner: SAX
   controller: SAX
@@ -23,15 +23,15 @@
     SAX: no
     OBOT: yes
   pop:
-    ethnicity: polabian
-    religion: slavic
-    estate: peasant
-    size: 1000
+    - ethnicity: polabian
+      religion: slavic
+      estate: peasant
+      size: 1000
 1168.1.1:
   pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - religion: catholic
+      estate: peasant
+      size: 1000
 1178.1.1:
   owner: MKL
   controller: MKL
@@ -39,14 +39,14 @@
     OBOT: no
     MKL: yes
   pop:
-    ethnicity: western_pomeranian
-    estate: peasant
-    size: 1000
+    - ethnicity: western_pomeranian
+      estate: peasant
+      size: 1000
 1531.1.1:
   pop:
-    religion: lutheran
-    estate: peasant
-    size: 1000
+    - religion: lutheran
+      estate: peasant
+      size: 1000
 1871.1.18:
   owner: GER
   controller: GER
@@ -62,9 +62,9 @@
     EGER: yes
 1985.1.1:
   pop:
-    religion: irreligious
-    estate: peasant
-    size: 1000
+    - religion: irreligious
+      estate: peasant
+      size: 1000
 1990.10.3:
   owner: GER
   controller: GER

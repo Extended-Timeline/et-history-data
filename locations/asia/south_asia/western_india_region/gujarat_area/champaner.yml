@@ -6,10 +6,10 @@
     WSAT: yes
   resource: wool
   pop:
-    ethnicity: saurashtri
-    religion: hindu
-    estate: peasant
-    size: 1000
+    - ethnicity: saurashtri
+      religion: hindu
+      estate: peasant
+      size: 1000
 405.1.1:
   owner: GUPT
   controller: GUPT
@@ -61,14 +61,14 @@
     GUJ: yes
 1150.1.1:
   pop:
-    religion: jain
-    estate: peasant
-    size: 1000
+    - religion: jain
+      estate: peasant
+      size: 1000
 1171.1.1:
   pop:
-    religion: hindu
-    estate: peasant
-    size: 1000
+    - religion: hindu
+      estate: peasant
+      size: 1000
 1300.1.1:
   owner: RJI
   controller: RJI

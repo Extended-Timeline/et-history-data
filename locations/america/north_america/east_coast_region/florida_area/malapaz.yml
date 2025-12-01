@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/2534 - Yustaga.txt
 2.1.1:
   pop:
-    ethnicity: yamasee_culture
-    religion: iroquoian_totemism
-    estate: peasant
-    size: 1000
+    - ethnicity: yamasee_culture
+      religion: iroquoian_totemism
+      estate: peasant
+      size: 1000
 1623.1.1:
   owner: SPA
   controller: SPA
@@ -12,15 +12,15 @@
     SPA: yes
   resource: fish
   pop:
-    ethnicity: castilian
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - ethnicity: castilian
+      religion: catholic
+      estate: peasant
+      size: 1000
 1770.1.1:
   pop:
-    ethnicity: iberian_east_american
-    estate: peasant
-    size: 1000
+    - ethnicity: iberian_east_american
+      estate: peasant
+      size: 1000
 1819.2.22:
   owner: USA
   controller: USA
@@ -29,14 +29,14 @@
     USA: yes
 1830.1.1:
   pop:
-    religion: lutheran
-    estate: peasant
-    size: 1000
+    - religion: lutheran
+      estate: peasant
+      size: 1000
 1854.1.1:
   pop:
-    ethnicity: british_louisianan
-    estate: peasant
-    size: 1000
+    - ethnicity: british_louisianan
+      estate: peasant
+      size: 1000
 1861.1.10:
   owner: CSAM
   controller: CSAM

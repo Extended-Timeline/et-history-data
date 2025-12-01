@@ -6,10 +6,10 @@
     BRIG: yes
   resource: iron
   pop:
-    ethnicity: briton
-    religion: druidism
-    estate: peasant
-    size: 1000
+    - ethnicity: briton
+      religion: druidism
+      estate: peasant
+      size: 1000
 71.1.1:
   controller: ROM
 78.1.1:
@@ -33,15 +33,15 @@
     ROMW: no
     ELME: yes
   pop:
-    ethnicity: welsh
-    estate: peasant
-    size: 1000
+    - ethnicity: welsh
+      estate: peasant
+      size: 1000
 559.1.1:
   pop:
-    ethnicity: anglo_saxon
-    religion: germanic
-    estate: peasant
-    size: 1000
+    - ethnicity: anglo_saxon
+      religion: germanic
+      estate: peasant
+      size: 1000
 616.1.1:
   owner: DEIR
   controller: DEIR
@@ -50,14 +50,14 @@
     DEIR: yes
 620.1.1:
   pop:
-    religion: germanic
-    estate: peasant
-    size: 1000
+    - religion: germanic
+      estate: peasant
+      size: 1000
 640.1.1:
   pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+    - religion: chalcedonism
+      estate: peasant
+      size: 1000
 654.1.1:
   owner: NOL
   controller: NOL
@@ -72,9 +72,9 @@
     NOL: yes
 867.1.1:
   pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - religion: catholic
+      estate: peasant
+      size: 1000
 918.1.1:
   owner: MNN
   controller: MNN
@@ -106,9 +106,9 @@
     ENG: yes
 1066.12.25:
   pop:
-    ethnicity: english
-    estate: peasant
-    size: 1000
+    - ethnicity: english
+      estate: peasant
+      size: 1000
 1461.6.28:
   controller: ENG
 1470.10.6:
@@ -117,9 +117,9 @@
   controller: ENG
 1600.1.1:
   pop:
-    religion: lutheran
-    estate: peasant
-    size: 1000
+    - religion: lutheran
+      estate: peasant
+      size: 1000
 1646.5.5:
   controller: ENG
 1707.5.12:

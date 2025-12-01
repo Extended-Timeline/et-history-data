@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/3120 - Biak.txt
 2.1.1:
   pop:
-    ethnicity: asmat_culture
-    religion: bimoism
-    estate: peasant
-    size: 1000
+    - ethnicity: asmat_culture
+      religion: bimoism
+      estate: peasant
+      size: 1000
 1910.1.1:
   owner: NED
   controller: NED
@@ -12,9 +12,9 @@
     NED: yes
   resource: fish
   pop:
-    religion: calvinist
-    estate: peasant
-    size: 1000
+    - religion: calvinist
+      estate: peasant
+      size: 1000
 1912.9.10:
   cores:
     INDN: yes

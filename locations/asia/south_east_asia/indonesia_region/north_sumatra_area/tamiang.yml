@@ -1,15 +1,15 @@
 #imported from EU4 file: history/provinces/2674 - Peureulak.txt
 2.1.1:
   pop:
-    ethnicity: acehnese_culture
-    religion: mahayana
-    estate: peasant
-    size: 1000
+    - ethnicity: acehnese_culture
+      religion: mahayana
+      estate: peasant
+      size: 1000
 550.1.1:
   pop:
-    religion: hindu
-    estate: peasant
-    size: 1000
+    - religion: hindu
+      estate: peasant
+      size: 1000
 600.1.1:
   owner: LAMU
   controller: LAMU
@@ -23,14 +23,14 @@
     LAMU: no
     PEUR: yes
   pop:
-    religion: shia
-    estate: peasant
-    size: 1000
+    - religion: shia
+      estate: peasant
+      size: 1000
 928.1.1:
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 1292.1.1:
   owner: PSA
   controller: PSA

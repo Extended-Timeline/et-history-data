@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/4599 - Sinu.txt
 2.1.1:
   pop:
-    ethnicity: wayuu_culture
-    religion: muisca_religion
-    estate: peasant
-    size: 1000
+    - ethnicity: wayuu_culture
+      religion: muisca_religion
+      estate: peasant
+      size: 1000
 1525.1.1:
   owner: SPA
   controller: SPA
@@ -12,15 +12,15 @@
     SPA: yes
   resource: grain
   pop:
-    ethnicity: castilian
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - ethnicity: castilian
+      religion: catholic
+      estate: peasant
+      size: 1000
 1770.1.1:
   pop:
-    ethnicity: iberian_colombian
-    estate: peasant
-    size: 1000
+    - ethnicity: iberian_colombian
+      estate: peasant
+      size: 1000
 1810.7.20:
   owner: COLO
   controller: COLO

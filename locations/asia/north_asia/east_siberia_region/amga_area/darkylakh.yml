@@ -1,18 +1,18 @@
 #imported from EU4 file: history/provinces/1046 - Butalsk.txt
 2.1.1:
   pop:
-    ethnicity: sakha_culture
-    religion: mari_paganism
-    estate: peasant
-    size: 1000
+    - ethnicity: sakha_culture
+      religion: mari_paganism
+      estate: peasant
+      size: 1000
 1643.1.1:
   owner: RUS
   controller: RUS
   resource: fur
   pop:
-    religion: orthodox
-    estate: peasant
-    size: 1000
+    - religion: orthodox
+      estate: peasant
+      size: 1000
 1668.1.1:
   cores:
     RUS: yes

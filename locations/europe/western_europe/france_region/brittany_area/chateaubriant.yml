@@ -6,10 +6,10 @@
     ROM: yes
   resource: salt
   pop:
-    ethnicity: gallian
-    religion: druidism
-    estate: peasant
-    size: 1000
+    - ethnicity: gallian
+      religion: druidism
+      estate: peasant
+      size: 1000
 260.1.1:
   cores:
     GALL: yes
@@ -19,9 +19,9 @@
     GALL: no
 360.1.1:
   pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+    - religion: chalcedonism
+      estate: peasant
+      size: 1000
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -72,9 +72,9 @@
     ORL: yes
 570.1.1:
   pop:
-    ethnicity: breton
-    estate: peasant
-    size: 1000
+    - ethnicity: breton
+      estate: peasant
+      size: 1000
 592.3.28:
   owner: ASTS
   controller: ASTS
@@ -119,9 +119,9 @@
     BRI: yes
 867.1.1:
   pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - religion: catholic
+      estate: peasant
+      size: 1000
 907.1.1:
   owner: DAN
   controller: DAN
@@ -136,23 +136,23 @@
   controller: FRA
 1560.1.1:
   pop:
-    religion: calvinist
-    estate: peasant
-    size: 1000
+    - religion: calvinist
+      estate: peasant
+      size: 1000
 1652.10.21:
   controller: FRA
 1686.1.17:
   pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - religion: catholic
+      estate: peasant
+      size: 1000
 1796.12.23:
   controller: FRA
 1860.1.1:
   pop:
-    ethnicity: french
-    estate: peasant
-    size: 1000
+    - ethnicity: french
+      estate: peasant
+      size: 1000
 1870.9.4:
   owner: FRA
   controller: FRA

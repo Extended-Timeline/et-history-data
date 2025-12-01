@@ -6,10 +6,10 @@
     ROM: yes
   resource: fish
   pop:
-    ethnicity: griko_culture
-    religion: hellenism_religion
-    estate: peasant
-    size: 1000
+    - ethnicity: griko_culture
+      religion: hellenism_religion
+      estate: peasant
+      size: 1000
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -30,9 +30,9 @@
     OSTR: yes
 500.1.1:
   pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+    - religion: chalcedonism
+      estate: peasant
+      size: 1000
 533.1.1:
   owner: BYZ
   controller: BYZ
@@ -41,23 +41,23 @@
     BYZ: yes
 867.1.1:
   pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - religion: catholic
+      estate: peasant
+      size: 1000
 870.1.1:
   owner: SICI
   controller: SICI
   cores:
     SICI: yes
   pop:
-    ethnicity: maltese
-    estate: peasant
-    size: 1000
+    - ethnicity: maltese
+      estate: peasant
+      size: 1000
 880.1.1:
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 1048.1.1:
   owner: BYZ
   controller: BYZ
@@ -73,9 +73,9 @@
 1127.1.1:
   controller: SIC
   pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - religion: catholic
+      estate: peasant
+      size: 1000
 1409.7.25:
   owner: ARA
   controller: ARA

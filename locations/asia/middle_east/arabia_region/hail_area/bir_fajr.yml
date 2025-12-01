@@ -6,10 +6,10 @@
     NABA: yes
   resource: livestock
   pop:
-    ethnicity: nabataean_culture
-    religion: nabataean
-    estate: peasant
-    size: 1000
+    - ethnicity: nabataean_culture
+      religion: nabataean
+      estate: peasant
+      size: 1000
 106.6.1:
   owner: LIHY
   controller: LIHY
@@ -17,14 +17,14 @@
     NABA: no
     LIHY: yes
   pop:
-    ethnicity: najdi_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: najdi_culture
+      estate: peasant
+      size: 1000
 140.1.1:
   pop:
-    religion: judaism
-    estate: peasant
-    size: 1000
+    - religion: judaism
+      estate: peasant
+      size: 1000
 220.1.1:
   owner: GHAS
   controller: GHAS
@@ -33,9 +33,9 @@
     GHAS: yes
 280.1.1:
   pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+    - religion: chalcedonism
+      estate: peasant
+      size: 1000
 320.1.1:
   owner: GHAT
   controller: GHAT
@@ -50,9 +50,9 @@
     RASH: yes
 650.1.1:
   pop:
-    religion: islam
-    estate: peasant
-    size: 1000
+    - religion: islam
+      estate: peasant
+      size: 1000
 661.7.28:
   owner: UMAY
   controller: UMAY
@@ -60,9 +60,9 @@
     RASH: no
     UMAY: yes
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 750.8.6:
   owner: ABBA
   controller: ABBA

@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/2883 - Melodia.txt
 2.1.1:
   pop:
-    ethnicity: guaikuru_culture
-    religion: muisca_religion
-    estate: peasant
-    size: 1000
+    - ethnicity: guaikuru_culture
+      religion: muisca_religion
+      estate: peasant
+      size: 1000
 1786.1.1:
   owner: SPA
   controller: SPA
@@ -12,9 +12,9 @@
     SPA: yes
   resource: wool
   pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - religion: catholic
+      estate: peasant
+      size: 1000
 1811.5.17:
   owner: PARA
   controller: PARA
@@ -23,6 +23,6 @@
     PARA: yes
 1860.1.1:
   pop:
-    ethnicity: ava_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: ava_culture
+      estate: peasant
+      size: 1000

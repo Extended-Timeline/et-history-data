@@ -7,10 +7,10 @@
     MLW: yes
   resource: cloth
   pop:
-    ethnicity: malvi
-    religion: jain
-    estate: peasant
-    size: 1000
+    - ethnicity: malvi
+      religion: jain
+      estate: peasant
+      size: 1000
 405.1.1:
   owner: BND
   controller: BND
@@ -30,9 +30,9 @@
     GUJ: yes
 620.1.1:
   pop:
-    religion: hindu
-    estate: peasant
-    size: 1000
+    - religion: hindu
+      estate: peasant
+      size: 1000
 745.1.1:
   owner: GURJ
   controller: GURJ

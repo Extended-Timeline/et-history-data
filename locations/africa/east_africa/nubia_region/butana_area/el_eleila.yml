@@ -6,10 +6,10 @@
     BEJ: yes
   resource: ivory
   pop:
-    ethnicity: nubian_language
-    religion: bantu_religion
-    estate: peasant
-    size: 1000
+    - ethnicity: nubian_language
+      religion: bantu_religion
+      estate: peasant
+      size: 1000
 350.1.1:
   owner: AKSM
   controller: AKSM
@@ -18,9 +18,9 @@
     AKSM: yes
 600.1.1:
   pop:
-    religion: miaphysite
-    estate: peasant
-    size: 1000
+    - religion: miaphysite
+      estate: peasant
+      size: 1000
 700.1.1:
   owner: BAZI
   controller: BAZI
@@ -34,9 +34,9 @@
     FUNJ: yes
 1528.1.1:
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 1566.1.1:
   controller: FUNJ
 1821.6.14:
@@ -47,9 +47,9 @@
     TUR: yes
 1850.1.1:
   pop:
-    ethnicity: sudanese_arab
-    estate: peasant
-    size: 1000
+    - ethnicity: sudanese_arab
+      estate: peasant
+      size: 1000
 1882.9.13:
   owner: GBR
   controller: GBR

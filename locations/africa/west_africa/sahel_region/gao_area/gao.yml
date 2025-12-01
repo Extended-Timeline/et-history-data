@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/1133 - Gao.txt
 2.1.1:
   pop:
-    ethnicity: songhai
-    religion: bantu_religion
-    estate: peasant
-    size: 1000
+    - ethnicity: songhai
+      religion: bantu_religion
+      estate: peasant
+      size: 1000
 350.1.1:
   owner: SON
   controller: SON
@@ -13,9 +13,9 @@
   resource: cloth
 1494.1.1:
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 1591.3.15:
   owner: MOR
   controller: MOR

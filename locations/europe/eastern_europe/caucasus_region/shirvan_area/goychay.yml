@@ -6,23 +6,23 @@
     CALB: yes
   resource: wool
   pop:
-    ethnicity: aghwan
-    religion: zoroastrian
-    estate: peasant
-    size: 1000
+    - ethnicity: aghwan
+      religion: zoroastrian
+      estate: peasant
+      size: 1000
 253.1.1:
   cores:
     ERA: yes
 460.1.1:
   pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+    - religion: chalcedonism
+      estate: peasant
+      size: 1000
 506.1.1:
   pop:
-    religion: miaphysite
-    estate: peasant
-    size: 1000
+    - religion: miaphysite
+      estate: peasant
+      size: 1000
 822.1.1:
   owner: ABBA
   controller: ABBA
@@ -36,14 +36,14 @@
     SHIR: yes
 880.1.1:
   pop:
-    religion: shia
-    estate: peasant
-    size: 1000
+    - religion: shia
+      estate: peasant
+      size: 1000
 1100.1.1:
   pop:
-    ethnicity: azeri_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: azeri_culture
+      estate: peasant
+      size: 1000
 1236.1.1:
   owner: MGE
   controller: MGE

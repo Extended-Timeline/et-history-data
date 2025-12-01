@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/596 - Malacca.txt
 2.1.1:
   pop:
-    ethnicity: malay_culture
-    religion: mahayana
-    estate: peasant
-    size: 1000
+    - ethnicity: malay_culture
+      religion: mahayana
+      estate: peasant
+      size: 1000
 770.1.1:
   owner: SRIV
   controller: SRIV
@@ -13,9 +13,9 @@
   resource: spices
 1180.1.1:
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 1183.1.1:
   owner: PAH
   controller: PAH

@@ -6,10 +6,10 @@
     WAS: yes
   resource: tropical_wood
   pop:
-    ethnicity: wa_culture
-    religion: bimoism
-    estate: peasant
-    size: 1000
+    - ethnicity: wa_culture
+      religion: bimoism
+      estate: peasant
+      size: 1000
 820.1.1:
   owner: HIRA
   controller: HIRA
@@ -17,10 +17,10 @@
     HIRA: yes
 1220.1.1:
   pop:
-    ethnicity: tai_lu_culture
-    religion: satsana_phi
-    estate: peasant
-    size: 1000
+    - ethnicity: tai_lu_culture
+      religion: satsana_phi
+      estate: peasant
+      size: 1000
 1243.1.1:
   owner: KTG
   controller: KTG
@@ -29,9 +29,9 @@
     KTG: yes
 1580.1.1:
   pop:
-    religion: theravada
-    estate: peasant
-    size: 1000
+    - religion: theravada
+      estate: peasant
+      size: 1000
 1802.1.1:
   owner: LNA
   controller: LNA

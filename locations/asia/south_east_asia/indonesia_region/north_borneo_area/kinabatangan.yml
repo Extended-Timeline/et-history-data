@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/2703 - Lahad Datu.txt
 2.1.1:
   pop:
-    ethnicity: tidung_culture
-    religion: bimoism
-    estate: peasant
-    size: 1000
+    - ethnicity: tidung_culture
+      religion: bimoism
+      estate: peasant
+      size: 1000
 950.1.1:
   owner: TIDU
   controller: TIDU
@@ -18,9 +18,9 @@
     BERA: yes
 1420.1.1:
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 1703.1.1:
   owner: SULU
   controller: SULU

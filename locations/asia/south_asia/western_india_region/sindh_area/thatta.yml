@@ -6,10 +6,10 @@
     SND: yes
   resource: cloth
   pop:
-    ethnicity: sindhi
-    religion: mahayana
-    estate: peasant
-    size: 1000
+    - ethnicity: sindhi
+      religion: mahayana
+      estate: peasant
+      size: 1000
 76.1.1:
   owner: KUSH
   controller: KUSH
@@ -22,9 +22,9 @@
     KUSH: no
 632.1.1:
   pop:
-    religion: hindu
-    estate: peasant
-    size: 1000
+    - religion: hindu
+      estate: peasant
+      size: 1000
 711.1.1:
   owner: UMAY
   controller: UMAY
@@ -38,9 +38,9 @@
     ABBA: yes
 800.1.1:
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 841.1.1:
   owner: SND
   controller: SND
@@ -49,9 +49,9 @@
     SND: yes
 1010.1.1:
   pop:
-    religion: shia
-    estate: peasant
-    size: 1000
+    - religion: shia
+      estate: peasant
+      size: 1000
 1024.1.1:
   owner: GHAZ
   controller: GHAZ
@@ -64,9 +64,9 @@
     GHAZ: no
 1360.1.1:
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 1544.1.1:
   owner: BNG
   controller: BNG

@@ -1,18 +1,18 @@
 #imported from EU4 file: history/provinces/1177 - Cape.txt
 2.1.1:
   pop:
-    ethnicity: khoemana_culture
-    religion: bantu_religion
-    estate: peasant
-    size: 1000
+    - ethnicity: khoemana_culture
+      religion: bantu_religion
+      estate: peasant
+      size: 1000
 1652.4.6:
   owner: NED
   controller: NED
   pop:
-    ethnicity: low_franconian
-    religion: calvinist
-    estate: peasant
-    size: 1000
+    - ethnicity: low_franconian
+      religion: calvinist
+      estate: peasant
+      size: 1000
 1677.4.6:
   cores:
     NED: yes

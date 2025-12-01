@@ -6,15 +6,15 @@
     ROM: yes
   resource: livestock
   pop:
-    ethnicity: turduli
-    religion: druidism
-    estate: peasant
-    size: 1000
+    - ethnicity: turduli
+      religion: druidism
+      estate: peasant
+      size: 1000
 360.1.1:
   pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+    - religion: chalcedonism
+      estate: peasant
+      size: 1000
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -54,14 +54,14 @@
     CRDB: yes
 770.1.1:
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 800.1.1:
   pop:
-    ethnicity: andalusi
-    estate: peasant
-    size: 1000
+    - ethnicity: andalusi
+      estate: peasant
+      size: 1000
 1011.1.1:
   owner: BADJ
   controller: BADJ
@@ -101,14 +101,14 @@
     MOR: no
     POR: yes
   pop:
-    ethnicity: portuguese
-    estate: peasant
-    size: 1000
+    - ethnicity: portuguese
+      estate: peasant
+      size: 1000
 1220.1.1:
   pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - religion: catholic
+      estate: peasant
+      size: 1000
 1704.1.1:
   controller: SPA
 1713.4.11:

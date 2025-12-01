@@ -6,10 +6,10 @@
     CHTT: yes
   resource: grain
   pop:
-    ethnicity: rhine_franconian
-    religion: germanic
-    estate: peasant
-    size: 1000
+    - ethnicity: rhine_franconian
+      religion: germanic
+      estate: peasant
+      size: 1000
 395.1.1:
   owner: BUR
   controller: BUR
@@ -17,9 +17,9 @@
     CHTT: no
     BUR: yes
   pop:
-    ethnicity: burgundione
-    estate: peasant
-    size: 1000
+    - ethnicity: burgundione
+      estate: peasant
+      size: 1000
 443.1.1:
   owner: CHTT
   controller: CHTT
@@ -27,9 +27,9 @@
     BUR: no
     CHTT: yes
   pop:
-    ethnicity: rhine_franconian
-    estate: peasant
-    size: 1000
+    - ethnicity: rhine_franconian
+      estate: peasant
+      size: 1000
 481.1.1:
   owner: FRAN
   controller: FRAN
@@ -38,9 +38,9 @@
     FRAN: yes
 500.1.1:
   pop:
-    ethnicity: east_franconian
-    estate: peasant
-    size: 1000
+    - ethnicity: east_franconian
+      estate: peasant
+      size: 1000
 511.11.27:
   owner: ASTS
   controller: ASTS
@@ -78,9 +78,9 @@
     THU: yes
 686.1.1:
   pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+    - religion: chalcedonism
+      estate: peasant
+      size: 1000
 719.1.1:
   owner: FRAN
   controller: FRAN
@@ -99,9 +99,9 @@
     THU: yes
 867.1.1:
   pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - religion: catholic
+      estate: peasant
+      size: 1000
 908.8.3:
   owner: EFRA
   controller: EFRA

@@ -6,10 +6,10 @@
     VEND: yes
   resource: cloth
   pop:
-    ethnicity: lesser_polish
-    religion: slavic
-    estate: peasant
-    size: 1000
+    - ethnicity: lesser_polish
+      religion: slavic
+      estate: peasant
+      size: 1000
 140.1.1:
   owner: GOTH
   controller: GOTH
@@ -17,10 +17,10 @@
     VEND: no
     GOTH: yes
   pop:
-    ethnicity: gothic
-    religion: germanic
-    estate: peasant
-    size: 1000
+    - ethnicity: gothic
+      religion: germanic
+      estate: peasant
+      size: 1000
 150.1.1:
   owner: VEND
   controller: VEND
@@ -28,10 +28,10 @@
     GOTH: no
     VEND: yes
   pop:
-    ethnicity: lesser_polish
-    religion: slavic
-    estate: peasant
-    size: 1000
+    - ethnicity: lesser_polish
+      religion: slavic
+      estate: peasant
+      size: 1000
 550.1.1:
   owner: LEDN
   controller: LEDN
@@ -51,9 +51,9 @@
     POL: yes
 1050.1.1:
   pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - religion: catholic
+      estate: peasant
+      size: 1000
 1138.10.28:
   owner: SAND
   controller: SAND
@@ -76,9 +76,9 @@
     HAL: no
 1550.1.1:
   pop:
-    religion: calvinist
-    estate: peasant
-    size: 1000
+    - religion: calvinist
+      estate: peasant
+      size: 1000
 1569.7.1:
   owner: PLC
   controller: PLC
@@ -118,9 +118,9 @@
   controller: GER
 1940.1.1:
   pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - religion: catholic
+      estate: peasant
+      size: 1000
 1944.7.24:
   controller: SOVI
 1945.5.8:

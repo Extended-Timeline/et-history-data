@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/1753 - Kostroma.txt
 2.1.1:
   pop:
-    ethnicity: mari_culture
-    religion: muinaisusko
-    estate: peasant
-    size: 1000
+    - ethnicity: mari_culture
+      religion: muinaisusko
+      estate: peasant
+      size: 1000
 600.1.1:
   owner: MARI
   controller: MARI
@@ -19,14 +19,14 @@
     VLR: yes
 1200.1.1:
   pop:
-    ethnicity: muscovite
-    estate: peasant
-    size: 1000
+    - ethnicity: muscovite
+      estate: peasant
+      size: 1000
 1220.1.1:
   pop:
-    religion: orthodox
-    estate: peasant
-    size: 1000
+    - religion: orthodox
+      estate: peasant
+      size: 1000
 1250.1.1:
   resource: cloth
 1330.1.1:

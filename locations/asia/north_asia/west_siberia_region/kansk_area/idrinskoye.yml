@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/1065 - Kuznetsk.txt
 2.1.1:
   pop:
-    ethnicity: kyrgyz_culture
-    religion: 
-    estate: peasant
-    size: 1000
+    - ethnicity: kyrgyz_culture
+      religion: 
+      estate: peasant
+      size: 1000
 550.1.1:
   owner: YKYR
   controller: YKYR
@@ -20,9 +20,9 @@
   cores:
     YKYR: no
   pop:
-    ethnicity: tuvan_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: tuvan_culture
+      estate: peasant
+      size: 1000
 1271.1.1:
   owner: YUA
   controller: YUA
@@ -45,10 +45,10 @@
   owner: RUS
   controller: RUS
   pop:
-    ethnicity: muscovite
-    religion: orthodox
-    estate: peasant
-    size: 1000
+    - ethnicity: muscovite
+      religion: orthodox
+      estate: peasant
+      size: 1000
 1781.1.1:
   cores:
     RUS: yes

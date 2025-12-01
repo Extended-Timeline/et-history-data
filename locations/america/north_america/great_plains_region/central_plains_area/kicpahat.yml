@@ -1,18 +1,18 @@
 #imported from EU4 file: history/provinces/892 - Wichita.txt
 2.1.1:
   pop:
-    ethnicity: kitikitish_culture
-    religion: iroquoian_totemism
-    estate: peasant
-    size: 1000
+    - ethnicity: kitikitish_culture
+      religion: iroquoian_totemism
+      estate: peasant
+      size: 1000
 1832.1.1:
   cores:
     ???: yes
   resource: grain
   pop:
-    ethnicity: chickasaw_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: chickasaw_culture
+      estate: peasant
+      size: 1000
 1834.6.30:
   owner: USA
   controller: USA
@@ -22,7 +22,7 @@
   cores:
     KTK: no
   pop:
-    ethnicity: american
-    religion: lutheran
-    estate: peasant
-    size: 1000
+    - ethnicity: american
+      religion: lutheran
+      estate: peasant
+      size: 1000

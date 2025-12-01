@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/2352 - Alty-Kuduk.txt
 2.1.1:
   pop:
-    ethnicity: turkmen_culture
-    religion: 
-    estate: peasant
-    size: 1000
+    - ethnicity: turkmen_culture
+      religion: 
+      estate: peasant
+      size: 1000
 160.1.1:
   owner: HUNS
   controller: HUNS
@@ -39,9 +39,9 @@
     OGHU: yes
 900.1.1:
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 1043.1.1:
   owner: KIME
   controller: KIME
@@ -56,9 +56,9 @@
     KIPC: yes
 1060.1.1:
   pop:
-    ethnicity: khazak
-    estate: peasant
-    size: 1000
+    - ethnicity: khazak
+      estate: peasant
+      size: 1000
 1100.1.1:
   owner: CUMA
   controller: CUMA

@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/4637 - Ohlone.txt
 2.1.1:
   pop:
-    ethnicity: south_valley_yokut_culture
-    religion: iroquoian_totemism
-    estate: peasant
-    size: 1000
+    - ethnicity: south_valley_yokut_culture
+      religion: iroquoian_totemism
+      estate: peasant
+      size: 1000
 1776.3.28:
   owner: SPA
   controller: SPA
@@ -13,10 +13,10 @@
   resource: wool
 1795.1.1:
   pop:
-    ethnicity: iberian_californian
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - ethnicity: iberian_californian
+      religion: catholic
+      estate: peasant
+      size: 1000
 1810.9.16:
   owner: MEX
   controller: SPA
@@ -34,8 +34,8 @@
     MEX: no
     USA: yes
   pop:
-    ethnicity: british_californian
-    estate: peasant
-    size: 1000
+    - ethnicity: british_californian
+      estate: peasant
+      size: 1000
 1970.1.1:
   resource: electronics

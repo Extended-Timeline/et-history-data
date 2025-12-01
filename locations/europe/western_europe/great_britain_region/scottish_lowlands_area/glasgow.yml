@@ -6,10 +6,10 @@
     DAMN: yes
   resource: wool
   pop:
-    ethnicity: pictish
-    religion: druidism
-    estate: peasant
-    size: 1000
+    - ethnicity: pictish
+      religion: druidism
+      estate: peasant
+      size: 1000
 84.1.1:
   owner: ROM
   controller: ROM
@@ -36,19 +36,19 @@
     STRA: yes
 430.1.1:
   pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+    - religion: chalcedonism
+      estate: peasant
+      size: 1000
 450.1.1:
   pop:
-    ethnicity: highland
-    estate: peasant
-    size: 1000
+    - ethnicity: highland
+      estate: peasant
+      size: 1000
 867.1.1:
   pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - religion: catholic
+      estate: peasant
+      size: 1000
 1054.1.1:
   owner: SCO
   controller: SCO
@@ -57,18 +57,18 @@
     SCO: yes
 1066.12.25:
   pop:
-    ethnicity: scottish
-    estate: peasant
-    size: 1000
+    - ethnicity: scottish
+      estate: peasant
+      size: 1000
 1296.1.1:
   controller: ENG
 1314.1.1:
   controller: SCO
 1560.8.1:
   pop:
-    religion: calvinist
-    estate: peasant
-    size: 1000
+    - religion: calvinist
+      estate: peasant
+      size: 1000
 1645.9.13:
   controller: SCO
 1651.4.1:

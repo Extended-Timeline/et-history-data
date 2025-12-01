@@ -6,10 +6,10 @@
     KALI: yes
   resource: cotton
   pop:
-    ethnicity: telugu
-    religion: mahayana
-    estate: peasant
-    size: 1000
+    - ethnicity: telugu
+      religion: mahayana
+      estate: peasant
+      size: 1000
 88.1.1:
   owner: SATA
   controller: SATA
@@ -35,9 +35,9 @@
     KALI: yes
 400.1.1:
   pop:
-    religion: jain
-    estate: peasant
-    size: 1000
+    - religion: jain
+      estate: peasant
+      size: 1000
 560.1.1:
   owner: RDY
   controller: RDY
@@ -45,9 +45,9 @@
     RDY: yes
 800.1.1:
   pop:
-    religion: hindu
-    estate: peasant
-    size: 1000
+    - religion: hindu
+      estate: peasant
+      size: 1000
 1000.1.1:
   owner: KALI
   controller: KALI

@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/637 - Sabah.txt
 2.1.1:
   pop:
-    ethnicity: tidung_culture
-    religion: hindu
-    estate: peasant
-    size: 1000
+    - ethnicity: tidung_culture
+      religion: hindu
+      estate: peasant
+      size: 1000
 620.1.1:
   owner: BEI
   controller: BEI
@@ -13,9 +13,9 @@
   resource: spices
 1330.1.1:
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 1673.1.1:
   controller: BEI
 1703.1.1:

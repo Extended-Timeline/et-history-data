@@ -6,10 +6,10 @@
     ROM: yes
   resource: wine
   pop:
-    ethnicity: gallaecian
-    religion: druidism
-    estate: peasant
-    size: 1000
+    - ethnicity: gallaecian
+      religion: druidism
+      estate: peasant
+      size: 1000
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -18,9 +18,9 @@
     ROMW: yes
 400.1.1:
   pop:
-    religion: arianism
-    estate: peasant
-    size: 1000
+    - religion: arianism
+      estate: peasant
+      size: 1000
 409.6.1:
   owner: SUEB
   controller: SUEB
@@ -28,17 +28,17 @@
     SUEB: yes
 410.1.1:
   pop:
-    ethnicity: swabian
-    estate: peasant
-    size: 1000
+    - ethnicity: swabian
+      estate: peasant
+      size: 1000
 450.1.1:
   cores:
     ROMW: no
 560.1.1:
   pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+    - religion: chalcedonism
+      estate: peasant
+      size: 1000
 584.1.1:
   owner: VISG
   controller: VISG
@@ -47,9 +47,9 @@
     VISG: yes
 590.1.1:
   pop:
-    ethnicity: gallaecian
-    estate: peasant
-    size: 1000
+    - ethnicity: gallaecian
+      estate: peasant
+      size: 1000
 711.1.1:
   owner: UMAY
   controller: UMAY
@@ -57,9 +57,9 @@
     VISG: no
     UMAY: yes
   pop:
-    ethnicity: galician
-    estate: peasant
-    size: 1000
+    - ethnicity: galician
+      estate: peasant
+      size: 1000
 750.8.6:
   owner: CRDB
   controller: CRDB
@@ -68,9 +68,9 @@
     CRDB: yes
 867.1.1:
   pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - religion: catholic
+      estate: peasant
+      size: 1000
 868.1.1:
   owner: ASTU
   controller: ASTU
@@ -78,9 +78,9 @@
     CRDB: no
     ASTU: yes
   pop:
-    ethnicity: portuguese
-    estate: peasant
-    size: 1000
+    - ethnicity: portuguese
+      estate: peasant
+      size: 1000
 910.12.10:
   owner: GLC
   controller: GLC

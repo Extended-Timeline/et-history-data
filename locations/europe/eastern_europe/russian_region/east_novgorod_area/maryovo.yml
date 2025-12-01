@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/311 - Kholm.txt
 2.1.1:
   pop:
-    ethnicity: novgorodian
-    religion: slavic
-    estate: peasant
-    size: 1000
+    - ethnicity: novgorodian
+      religion: slavic
+      estate: peasant
+      size: 1000
 550.1.1:
   owner: ILME
   controller: ILME
@@ -25,9 +25,9 @@
     KIEV: yes
 1000.1.1:
   pop:
-    religion: orthodox
-    estate: peasant
-    size: 1000
+    - religion: orthodox
+      estate: peasant
+      size: 1000
 1054.2.20:
   owner: NOV
   controller: NOV

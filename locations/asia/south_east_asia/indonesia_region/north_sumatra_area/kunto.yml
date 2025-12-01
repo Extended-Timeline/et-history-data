@@ -6,10 +6,10 @@
     KADS: yes
   resource: fish
   pop:
-    ethnicity: malay_culture
-    religion: mahayana
-    estate: peasant
-    size: 1000
+    - ethnicity: malay_culture
+      religion: mahayana
+      estate: peasant
+      size: 1000
 240.1.1:
   owner: RIAI
   controller: RIAI
@@ -46,9 +46,9 @@
     DELI: yes
 1300.1.1:
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 1471.1.1:
   cores:
     ATJ: yes

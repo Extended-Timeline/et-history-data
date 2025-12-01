@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/2291 - Ketu.txt
 2.1.1:
   pop:
-    ethnicity: yoruba
-    religion: bantu_religion
-    estate: peasant
-    size: 1000
+    - ethnicity: yoruba
+      religion: bantu_religion
+      estate: peasant
+      size: 1000
 523.1.1:
   owner: IFE
   controller: IFE
@@ -24,9 +24,9 @@
     FRA: yes
 1910.1.1:
   pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - religion: catholic
+      estate: peasant
+      size: 1000
 1940.6.14:
   owner: VFRA
   controller: VFRA

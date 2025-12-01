@@ -6,10 +6,10 @@
     KONG: yes
   resource: grain
   pop:
-    ethnicity: kannadiga
-    religion: jain
-    estate: peasant
-    size: 1000
+    - ethnicity: kannadiga
+      religion: jain
+      estate: peasant
+      size: 1000
 275.1.1:
   owner: PALL
   controller: PALL
@@ -30,9 +30,9 @@
     CHOL: yes
 1010.1.1:
   pop:
-    religion: hindu
-    estate: peasant
-    size: 1000
+    - religion: hindu
+      estate: peasant
+      size: 1000
 1026.1.1:
   owner: HSL
   controller: HSL

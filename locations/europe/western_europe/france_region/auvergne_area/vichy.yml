@@ -6,10 +6,10 @@
     ROM: yes
   resource: iron
   pop:
-    ethnicity: gallian
-    religion: druidism
-    estate: peasant
-    size: 1000
+    - ethnicity: gallian
+      religion: druidism
+      estate: peasant
+      size: 1000
 260.1.1:
   cores:
     GALL: yes
@@ -19,9 +19,9 @@
     GALL: no
 350.1.1:
   pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+    - religion: chalcedonism
+      estate: peasant
+      size: 1000
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -64,9 +64,9 @@
     ASTS: yes
 600.1.1:
   pop:
-    ethnicity: languedocien
-    estate: peasant
-    size: 1000
+    - ethnicity: languedocien
+      estate: peasant
+      size: 1000
 613.10.10:
   owner: FRAN
   controller: FRAN
@@ -94,9 +94,9 @@
     WFRA: yes
 867.1.1:
   pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - religion: catholic
+      estate: peasant
+      size: 1000
 987.7.3:
   owner: FRA
   controller: FRA
@@ -120,9 +120,9 @@
     BOU: yes
 1400.1.1:
   pop:
-    ethnicity: french
-    estate: peasant
-    size: 1000
+    - ethnicity: french
+      estate: peasant
+      size: 1000
 1537.1.1:
   owner: FRA
   controller: FRA

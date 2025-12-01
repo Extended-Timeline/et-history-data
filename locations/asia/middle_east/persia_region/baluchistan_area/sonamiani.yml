@@ -6,10 +6,10 @@
     BALU: yes
   resource: fish
   pop:
-    ethnicity: baloch_culture
-    religion: zoroastrian
-    estate: peasant
-    size: 1000
+    - ethnicity: baloch_culture
+      religion: zoroastrian
+      estate: peasant
+      size: 1000
 300.1.1:
   owner: ERA
   controller: ERA
@@ -17,9 +17,9 @@
     ERA: yes
 600.1.1:
   pop:
-    religion: hindu
-    estate: peasant
-    size: 1000
+    - religion: hindu
+      estate: peasant
+      size: 1000
 636.1.1:
   owner: SND
   controller: SND
@@ -46,9 +46,9 @@
     ABBA: yes
 780.1.1:
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 841.1.1:
   owner: SND
   controller: SND

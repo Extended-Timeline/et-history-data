@@ -6,10 +6,10 @@
     HUYN: yes
   resource: incense
   pop:
-    ethnicity: cham_culture
-    religion: hindu
-    estate: peasant
-    size: 1000
+    - ethnicity: cham_culture
+      religion: hindu
+      estate: peasant
+      size: 1000
 192.1.1:
   owner: CHAM
   controller: CHAM
@@ -18,9 +18,9 @@
     CHAM: yes
 1600.1.1:
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 1700.1.1:
   owner: ANNA
   controller: ANNA
@@ -57,9 +57,9 @@
   controller: SVIE
 1950.1.1:
   pop:
-    ethnicity: vietnamese_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: vietnamese_culture
+      estate: peasant
+      size: 1000
 1976.7.2:
   owner: VIET
   controller: VIET

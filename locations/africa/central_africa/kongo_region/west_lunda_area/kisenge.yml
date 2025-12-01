@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/4091 - Mpasu.txt
 2.1.1:
   pop:
-    ethnicity: lunda
-    religion: bantu_religion
-    estate: peasant
-    size: 1000
+    - ethnicity: lunda
+      religion: bantu_religion
+      estate: peasant
+      size: 1000
 1350.1.1:
   owner: LND
   controller: LND
@@ -23,9 +23,9 @@
     POR: yes
 1950.1.1:
   pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - religion: catholic
+      estate: peasant
+      size: 1000
 1975.11.11:
   owner: ANGO
   controller: ANGO

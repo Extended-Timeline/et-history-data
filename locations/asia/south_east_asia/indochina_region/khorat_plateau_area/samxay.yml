@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/608 - Champassak.txt
 2.1.1:
   pop:
-    ethnicity: bahnar_culture
-    religion: bimoism
-    estate: peasant
-    size: 1000
+    - ethnicity: bahnar_culture
+      religion: bimoism
+      estate: peasant
+      size: 1000
 550.1.1:
   owner: OY00
   controller: OY00
@@ -55,9 +55,9 @@
     CHAK: yes
 1860.1.1:
   pop:
-    religion: theravada
-    estate: peasant
-    size: 1000
+    - religion: theravada
+      estate: peasant
+      size: 1000
 1893.10.3:
   owner: LAOS
   controller: LAOS

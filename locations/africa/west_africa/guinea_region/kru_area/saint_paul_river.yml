@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/2242 - Karou.txt
 2.1.1:
   pop:
-    ethnicity: mandinka
-    religion: bantu_religion
-    estate: peasant
-    size: 1000
+    - ethnicity: mandinka
+      religion: bantu_religion
+      estate: peasant
+      size: 1000
 1822.1.7:
   owner: LIBE
   controller: LIBE
@@ -13,6 +13,6 @@
   resource: grain
 1900.1.1:
   pop:
-    religion: lutheran
-    estate: peasant
-    size: 1000
+    - religion: lutheran
+      estate: peasant
+      size: 1000

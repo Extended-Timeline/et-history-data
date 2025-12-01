@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/2421 - Ar-Chally.txt
 2.1.1:
   pop:
-    ethnicity: bolghar_culture
-    religion: 
-    estate: peasant
-    size: 1000
+    - ethnicity: bolghar_culture
+      religion: 
+      estate: peasant
+      size: 1000
 660.1.1:
   owner: VBUL
   controller: VBUL
@@ -13,9 +13,9 @@
   resource: grain
 1100.1.1:
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 1236.1.1:
   owner: MGE
   controller: MGE
@@ -26,9 +26,9 @@
     VBUL: no
     KAZN: yes
   pop:
-    ethnicity: kazani
-    estate: peasant
-    size: 1000
+    - ethnicity: kazani
+      estate: peasant
+      size: 1000
 1260.1.1:
   owner: WHHO
   controller: WHHO

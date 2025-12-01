@@ -6,10 +6,10 @@
     CAMB: yes
   resource: tropical_wood
   pop:
-    ethnicity: khmer_culture
-    religion: bimoism
-    estate: peasant
-    size: 1000
+    - ethnicity: khmer_culture
+      religion: bimoism
+      estate: peasant
+      size: 1000
 450.1.1:
   owner: CHEN
   controller: CHEN
@@ -17,9 +17,9 @@
     CAMB: no
     CHEN: yes
   pop:
-    religion: hindu
-    estate: peasant
-    size: 1000
+    - religion: hindu
+      estate: peasant
+      size: 1000
 802.1.1:
   owner: CAMB
   controller: CAMB
@@ -28,14 +28,14 @@
     CAMB: yes
 820.1.1:
   pop:
-    religion: mahayana
-    estate: peasant
-    size: 1000
+    - religion: mahayana
+      estate: peasant
+      size: 1000
 1295.1.1:
   pop:
-    religion: theravada
-    estate: peasant
-    size: 1000
+    - religion: theravada
+      estate: peasant
+      size: 1000
 1431.1.1:
   owner: KHM
   controller: KHM

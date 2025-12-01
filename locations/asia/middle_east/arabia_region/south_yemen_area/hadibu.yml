@@ -2,20 +2,20 @@
 2.1.1:
   resource: fish
   pop:
-    ethnicity: mehri_culture
-    religion: bimoism
-    estate: peasant
-    size: 1000
+    - ethnicity: mehri_culture
+      religion: bimoism
+      estate: peasant
+      size: 1000
 52.1.1:
   pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+    - religion: chalcedonism
+      estate: peasant
+      size: 1000
 431.7.1:
   pop:
-    religion: nestorianism
-    estate: peasant
-    size: 1000
+    - religion: nestorianism
+      estate: peasant
+      size: 1000
 525.1.1:
   owner: YEM
   controller: YEM
@@ -52,9 +52,9 @@
   controller: MAHR
 1550.1.1:
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 1967.11.30:
   owner: ADEN
   controller: ADEN

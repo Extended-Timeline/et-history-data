@@ -2,10 +2,10 @@
 2.1.1:
   resource: grain
   pop:
-    ethnicity: cahokia_culture
-    religion: iroquoian_totemism
-    estate: peasant
-    size: 1000
+    - ethnicity: cahokia_culture
+      religion: iroquoian_totemism
+      estate: peasant
+      size: 1000
 1703.1.1:
   owner: FRA
   controller: FRA
@@ -13,10 +13,10 @@
     FRA: yes
   resource: fur
   pop:
-    ethnicity: french
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - ethnicity: french
+      religion: catholic
+      estate: peasant
+      size: 1000
 1763.2.10:
   owner: GBR
   controller: GBR
@@ -24,10 +24,10 @@
     FRA: no
     GBR: yes
   pop:
-    ethnicity: english
-    religion: lutheran
-    estate: peasant
-    size: 1000
+    - ethnicity: english
+      religion: lutheran
+      estate: peasant
+      size: 1000
 1778.7.4:
   owner: USA
   controller: USA
@@ -35,6 +35,6 @@
     GBR: no
     USA: yes
   pop:
-    ethnicity: american
-    estate: peasant
-    size: 1000
+    - ethnicity: american
+      estate: peasant
+      size: 1000

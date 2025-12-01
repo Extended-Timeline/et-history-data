@@ -6,10 +6,10 @@
     BRIG: yes
   resource: wool
   pop:
-    ethnicity: briton
-    religion: druidism
-    estate: peasant
-    size: 1000
+    - ethnicity: briton
+      religion: druidism
+      estate: peasant
+      size: 1000
 78.1.1:
   owner: ROM
   controller: ROM
@@ -33,20 +33,20 @@
     BRIG: no
     BERN: yes
   pop:
-    ethnicity: welsh
-    estate: peasant
-    size: 1000
+    - ethnicity: welsh
+      estate: peasant
+      size: 1000
 547.1.1:
   pop:
-    ethnicity: anglo_saxon
-    religion: germanic
-    estate: peasant
-    size: 1000
+    - ethnicity: anglo_saxon
+      religion: germanic
+      estate: peasant
+      size: 1000
 630.1.1:
   pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+    - religion: chalcedonism
+      estate: peasant
+      size: 1000
 634.1.1:
   owner: NOL
   controller: NOL
@@ -55,9 +55,9 @@
     NOL: yes
 867.1.1:
   pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - religion: catholic
+      estate: peasant
+      size: 1000
 875.1.1:
   owner: BERN
   controller: BERN
@@ -94,9 +94,9 @@
   controller: ENG
 1066.12.25:
   pop:
-    ethnicity: english
-    estate: peasant
-    size: 1000
+    - ethnicity: english
+      estate: peasant
+      size: 1000
 1293.1.1: # Created Palatine of Durham from 1293.
   owner: DHM
   controller: DHM
@@ -107,9 +107,9 @@
   controller: ENG
 1585.1.1:
   pop:
-    religion: lutheran
-    estate: peasant
-    size: 1000
+    - religion: lutheran
+      estate: peasant
+      size: 1000
 1640.10.1:
   controller: SCO
 1640.10.26:

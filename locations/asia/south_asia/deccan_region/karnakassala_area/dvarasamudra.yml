@@ -6,10 +6,10 @@
     CHER: yes
   resource: gold
   pop:
-    ethnicity: kannadiga
-    religion: jain
-    estate: peasant
-    size: 1000
+    - ethnicity: kannadiga
+      religion: jain
+      estate: peasant
+      size: 1000
 275.1.1:
   owner: PALL
   controller: PALL
@@ -30,9 +30,9 @@
     CHOL: yes
 1010.1.1:
   pop:
-    religion: hindu
-    estate: peasant
-    size: 1000
+    - religion: hindu
+      estate: peasant
+      size: 1000
 1026.1.1:
   owner: HSL
   controller: HSL
@@ -41,9 +41,9 @@
     HSL: yes
 1200.1.1:
   pop:
-    ethnicity: kannadiga
-    estate: peasant
-    size: 1000
+    - ethnicity: kannadiga
+      estate: peasant
+      size: 1000
 1343.1.1:
   owner: VIJ
   controller: VIJ

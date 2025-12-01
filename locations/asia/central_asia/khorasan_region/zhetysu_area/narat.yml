@@ -6,10 +6,10 @@
     WUSU: yes
   resource: grain
   pop:
-    ethnicity: uyghur_culture
-    religion: 
-    estate: peasant
-    size: 1000
+    - ethnicity: uyghur_culture
+      religion: 
+      estate: peasant
+      size: 1000
 150.1.1:
   owner: XIAN
   controller: XIAN
@@ -47,14 +47,14 @@
     UYGH: yes
 763.1.1:
   pop:
-    religion: manichaeism
-    estate: peasant
-    size: 1000
+    - religion: manichaeism
+      estate: peasant
+      size: 1000
 840.1.1:
   pop:
-    religion: 
-    estate: peasant
-    size: 1000
+    - religion: 
+      estate: peasant
+      size: 1000
 1130.1.1:
   owner: KKHI
   controller: KKHI
@@ -81,9 +81,9 @@
     MOGH: yes
 1350.1.1:
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 1518.1.1:
   owner: OIR
   controller: OIR

@@ -6,10 +6,10 @@
     ROM: yes
   resource: salt
   pop:
-    ethnicity: noric
-    religion: druidism
-    estate: peasant
-    size: 1000
+    - ethnicity: noric
+      religion: druidism
+      estate: peasant
+      size: 1000
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -18,10 +18,10 @@
     ROMW: yes
 420.1.1:
   pop:
-    ethnicity: southern_bavarian
-    religion: germanic
-    estate: peasant
-    size: 1000
+    - ethnicity: southern_bavarian
+      religion: germanic
+      estate: peasant
+      size: 1000
 467.1.1:
   owner: RUGI
   controller: RUGI
@@ -53,9 +53,9 @@
     CART: yes
 700.1.1:
   pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+    - religion: chalcedonism
+      estate: peasant
+      size: 1000
 745.1.1:
   owner: BAV
   controller: BAV
@@ -76,9 +76,9 @@
     BAV: yes
 867.1.1:
   pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - religion: catholic
+      estate: peasant
+      size: 1000
 880.3.22:
   owner: EFRA
   controller: EFRA
@@ -98,9 +98,9 @@
     SLZ: yes
 1250.1.1:
   pop:
-    ethnicity: danube_bavarian
-    estate: peasant
-    size: 1000
+    - ethnicity: danube_bavarian
+      estate: peasant
+      size: 1000
 1803.1.1:
   owner: ETRU
   controller: ETRU

@@ -6,10 +6,10 @@
     ATRO: yes
   resource: silk
   pop:
-    ethnicity: talysh_culture
-    religion: zoroastrian
-    estate: peasant
-    size: 1000
+    - ethnicity: talysh_culture
+      religion: zoroastrian
+      estate: peasant
+      size: 1000
 226.1.1:
   owner: ERA
   controller: ERA
@@ -35,9 +35,9 @@
     ABBA: yes
 800.1.1:
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 889.1.1:
   owner: AZER
   controller: AZER
@@ -46,9 +46,9 @@
     AZER: yes
 920.1.1:
   pop:
-    ethnicity: kurdish_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: kurdish_culture
+      estate: peasant
+      size: 1000
 955.1.1:
   owner: TABR
   controller: TABR
@@ -61,9 +61,9 @@
     SELJ: yes
 1070.1.1:
   pop:
-    ethnicity: azeri_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: azeri_culture
+      estate: peasant
+      size: 1000
 1157.5.8:
   owner: AZER
   controller: AZER
@@ -91,9 +91,9 @@
     ILK: yes
 1300.1.1:
   pop:
-    religion: shia
-    estate: peasant
-    size: 1000
+    - religion: shia
+      estate: peasant
+      size: 1000
 1335.1.1:
   owner: TABR
   controller: TABR

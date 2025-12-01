@@ -6,10 +6,10 @@
     LGK: yes
   resource: fish
   pop:
-    ethnicity: malay_culture
-    religion: mahayana
-    estate: peasant
-    size: 1000
+    - ethnicity: malay_culture
+      religion: mahayana
+      estate: peasant
+      size: 1000
 150.1.1:
   owner: FUNA
   controller: FUNA
@@ -32,9 +32,9 @@
     SUK: yes
 1300.1.1:
   pop:
-    ethnicity: thai_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: thai_culture
+      estate: peasant
+      size: 1000
 1350.1.1:
   cores:
     SUK: no

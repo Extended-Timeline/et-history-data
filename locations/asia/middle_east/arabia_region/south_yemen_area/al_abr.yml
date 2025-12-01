@@ -6,19 +6,19 @@
     HADR: yes
   resource: livestock
   pop:
-    ethnicity: yemeni_culture
-    religion: south_arabian
-    estate: peasant
-    size: 1000
+    - ethnicity: yemeni_culture
+      religion: south_arabian
+      estate: peasant
+      size: 1000
 635.1.1:
   owner: RASH
   controller: RASH
   cores:
     RASH: yes
   pop:
-    religion: islam
-    estate: peasant
-    size: 1000
+    - religion: islam
+      estate: peasant
+      size: 1000
 661.7.28:
   owner: UMAY
   controller: UMAY
@@ -26,9 +26,9 @@
     RASH: no
     UMAY: yes
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 750.8.6:
   owner: ABBA
   controller: ABBA

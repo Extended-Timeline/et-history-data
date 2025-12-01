@@ -5,10 +5,10 @@
   cores:
     CAD: yes
   pop:
-    ethnicity: caddo_culture
-    religion: iroquoian_totemism
-    estate: peasant
-    size: 1000
+    - ethnicity: caddo_culture
+      religion: iroquoian_totemism
+      estate: peasant
+      size: 1000
 1819.2.22:
   owner: MEX
   controller: SPA
@@ -16,10 +16,10 @@
     CAD: no
     MEX: yes
   pop:
-    ethnicity: mexican
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - ethnicity: mexican
+      religion: catholic
+      estate: peasant
+      size: 1000
 1821.9.27:
   controller: MEX
 1836.3.2:
@@ -28,9 +28,9 @@
   cores:
     TEXA: yes
   pop:
-    ethnicity: british_louisianan
-    estate: peasant
-    size: 1000
+    - ethnicity: british_louisianan
+      estate: peasant
+      size: 1000
 1845.12.29:
   owner: USA
   controller: USA

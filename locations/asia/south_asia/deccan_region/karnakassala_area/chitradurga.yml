@@ -6,10 +6,10 @@
     PUZH: yes
   resource: cotton
   pop:
-    ethnicity: kannadiga
-    religion: jain
-    estate: peasant
-    size: 1000
+    - ethnicity: kannadiga
+      religion: jain
+      estate: peasant
+      size: 1000
 280.1.1:
   owner: PALL
   controller: PALL
@@ -42,9 +42,9 @@
     GANG: yes
 880.1.1:
   pop:
-    religion: hindu
-    estate: peasant
-    size: 1000
+    - religion: hindu
+      estate: peasant
+      size: 1000
 1000.1.1:
   owner: CHOL
   controller: CHOL

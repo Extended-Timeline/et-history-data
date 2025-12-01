@@ -6,10 +6,10 @@
     ZHAN: yes
   resource: livestock
   pop:
-    ethnicity: zhangzhung
-    religion: bon
-    estate: peasant
-    size: 1000
+    - ethnicity: zhangzhung
+      religion: bon
+      estate: peasant
+      size: 1000
 625.1.1:
   owner: TIB
   controller: TIB
@@ -19,10 +19,10 @@
   cores:
     ZHAN: no
   pop:
-    ethnicity: utsang_culture
-    religion: tibetan_buddhism
-    estate: peasant
-    size: 1000
+    - ethnicity: utsang_culture
+      religion: tibetan_buddhism
+      estate: peasant
+      size: 1000
 842.1.1:
   owner: UTSA
   controller: UTSA

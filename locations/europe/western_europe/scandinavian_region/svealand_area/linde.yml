@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/1985 - Narke.txt
 2.1.1:
   pop:
-    ethnicity: swedish
-    religion: norse
-    estate: peasant
-    size: 1000
+    - ethnicity: swedish
+      religion: norse
+      estate: peasant
+      size: 1000
 350.1.1:
   owner: EGEA
   controller: EGEA
@@ -25,9 +25,9 @@
     SWE: yes
 1000.1.1:
   pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - religion: catholic
+      estate: peasant
+      size: 1000
 1497.3.13:
   controller: DAN
 1497.10.6:
@@ -38,6 +38,6 @@
   controller: SWE
 1527.6.1:
   pop:
-    religion: lutheran
-    estate: peasant
-    size: 1000
+    - religion: lutheran
+      estate: peasant
+      size: 1000

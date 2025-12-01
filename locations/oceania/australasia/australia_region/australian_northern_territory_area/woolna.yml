@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/4846 - Woolna.txt
 2.1.1:
   pop:
-    ethnicity: yangman_culture
-    religion: dreamtime_religion
-    estate: peasant
-    size: 1000
+    - ethnicity: yangman_culture
+      religion: dreamtime_religion
+      estate: peasant
+      size: 1000
 1200.1.1:
   cores:
     ???: yes
@@ -16,10 +16,10 @@
     GBR: yes
   resource: grain
   pop:
-    ethnicity: british_australian
-    religion: lutheran
-    estate: peasant
-    size: 1000
+    - ethnicity: british_australian
+      religion: lutheran
+      estate: peasant
+      size: 1000
 1901.1.1:
   owner: AUST
   controller: AUST

@@ -6,10 +6,10 @@
     GOTH: yes
   resource: livestock
   pop:
-    ethnicity: gothic
-    religion: germanic
-    estate: peasant
-    size: 1000
+    - ethnicity: gothic
+      religion: germanic
+      estate: peasant
+      size: 1000
 140.1.1:
   owner: LEMO
   controller: LEMO
@@ -17,9 +17,9 @@
     GOTH: no
     LEMO: yes
   pop:
-    ethnicity: western_pomeranian
-    estate: peasant
-    size: 1000
+    - ethnicity: western_pomeranian
+      estate: peasant
+      size: 1000
 395.1.1:
   owner: VELE
   controller: VELE
@@ -27,10 +27,10 @@
     LEMO: no
     VELE: yes
   pop:
-    ethnicity: lesser_polish
-    religion: slavic
-    estate: peasant
-    size: 1000
+    - ethnicity: lesser_polish
+      religion: slavic
+      estate: peasant
+      size: 1000
 550.1.1:
   owner: POL
   controller: POL
@@ -39,9 +39,9 @@
     POL: yes
 1050.1.1:
   pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - religion: catholic
+      estate: peasant
+      size: 1000
 1138.10.28:
   owner: GPOL
   controller: GPOL

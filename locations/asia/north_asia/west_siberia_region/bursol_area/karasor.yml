@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/4686 - Ekibastuz.txt
 2.1.1:
   pop:
-    ethnicity: kimek
-    religion: 
-    estate: peasant
-    size: 1000
+    - ethnicity: kimek
+      religion: 
+      estate: peasant
+      size: 1000
 659.1.1:
   owner: KANG
   controller: KANG
@@ -19,9 +19,9 @@
     KIME: yes
 1200.1.1:
   pop:
-    ethnicity: khazak
-    estate: peasant
-    size: 1000
+    - ethnicity: khazak
+      estate: peasant
+      size: 1000
 1236.1.1:
   owner: MGE
   controller: MGE
@@ -40,9 +40,9 @@
     GLH: yes
 1380.1.1:
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 1394.1.1:
   owner: KAZA
   controller: KAZA

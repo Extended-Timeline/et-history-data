@@ -6,10 +6,10 @@
     KONG: yes
   resource: cotton
   pop:
-    ethnicity: tamil
-    religion: hindu
-    estate: peasant
-    size: 1000
+    - ethnicity: tamil
+      religion: hindu
+      estate: peasant
+      size: 1000
 250.1.1:
   owner: KALA
   controller: KALA

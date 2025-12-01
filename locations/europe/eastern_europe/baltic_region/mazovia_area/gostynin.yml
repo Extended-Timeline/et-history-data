@@ -6,10 +6,10 @@
     GEPI: yes
   resource: grain
   pop:
-    ethnicity: gepid
-    religion: germanic
-    estate: peasant
-    size: 1000
+    - ethnicity: gepid
+      religion: germanic
+      estate: peasant
+      size: 1000
 140.1.1:
   owner: GOTH
   controller: GOTH
@@ -17,9 +17,9 @@
     GEPI: no
     GOTH: yes
   pop:
-    ethnicity: gothic
-    estate: peasant
-    size: 1000
+    - ethnicity: gothic
+      estate: peasant
+      size: 1000
 150.1.1:
   owner: VEND
   controller: VEND
@@ -27,10 +27,10 @@
     GOTH: no
     VEND: yes
   pop:
-    ethnicity: lesser_polish
-    religion: slavic
-    estate: peasant
-    size: 1000
+    - ethnicity: lesser_polish
+      religion: slavic
+      estate: peasant
+      size: 1000
 450.1.1:
   owner: MAZ
   controller: MAZ
@@ -52,9 +52,9 @@
   controller: POL
 1050.1.1:
   pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - religion: catholic
+      estate: peasant
+      size: 1000
 1138.10.28:
   owner: MAZ
   controller: MAZ

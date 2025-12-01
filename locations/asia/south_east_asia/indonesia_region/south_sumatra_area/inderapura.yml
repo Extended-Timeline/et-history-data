@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/4818 - Indrapura.txt
 2.1.1:
   pop:
-    ethnicity: minangkabau_culture
-    religion: bimoism
-    estate: peasant
-    size: 1000
+    - ethnicity: minangkabau_culture
+      religion: bimoism
+      estate: peasant
+      size: 1000
 200.1.1:
   owner: MINK
   controller: MINK
@@ -19,9 +19,9 @@
     SRIV: yes
 800.1.1:
   pop:
-    religion: hindu
-    estate: peasant
-    size: 1000
+    - religion: hindu
+      estate: peasant
+      size: 1000
 1025.1.1:
   owner: DHAR
   controller: DHAR
@@ -41,9 +41,9 @@
     NED: yes
 1860.1.1:
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 1912.9.10:
   cores:
     ATJ: no

@@ -6,10 +6,10 @@
     XION: yes
   resource: livestock
   pop:
-    ethnicity: mongolian_culture
-    religion: 
-    estate: peasant
-    size: 1000
+    - ethnicity: mongolian_culture
+      religion: 
+      estate: peasant
+      size: 1000
 91.2.1:
   owner: XIAN
   controller: XIAN
@@ -52,14 +52,14 @@
     UYGH: yes
 765.1.1:
   pop:
-    religion: manichaeism
-    estate: peasant
-    size: 1000
+    - religion: manichaeism
+      estate: peasant
+      size: 1000
 830.1.1:
   pop:
-    religion: 
-    estate: peasant
-    size: 1000
+    - religion: 
+      estate: peasant
+      size: 1000
 848.1.1:
   owner: KERE
   controller: KERE
@@ -109,9 +109,9 @@
     OIR: yes
 1520.1.1:
   pop:
-    religion: tibetan_buddhism
-    estate: peasant
-    size: 1000
+    - religion: tibetan_buddhism
+      estate: peasant
+      size: 1000
 1552.1.1:
   owner: MGE
   controller: MGE

@@ -6,15 +6,15 @@
     ROM: yes
   resource: grain
   pop:
-    ethnicity: zenati
-    religion: hellenism_religion
-    estate: peasant
-    size: 1000
+    - ethnicity: zenati
+      religion: hellenism_religion
+      estate: peasant
+      size: 1000
 240.1.1:
   pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+    - religion: chalcedonism
+      estate: peasant
+      size: 1000
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -28,9 +28,9 @@
     ROMW: no
     VAND: yes
   pop:
-    religion: arianism
-    estate: peasant
-    size: 1000
+    - religion: arianism
+      estate: peasant
+      size: 1000
 533.10.15:
   controller: BYZ
   cores:
@@ -41,10 +41,10 @@
     VAND: no
 540.1.1:
   pop:
-    ethnicity: tunisian
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+    - ethnicity: tunisian
+      religion: chalcedonism
+      estate: peasant
+      size: 1000
 698.1.1:
   owner: UMAY
   controller: UMAY
@@ -53,9 +53,9 @@
     UMAY: yes
 730.1.1:
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 745.1.1:
   owner: TUN
   controller: TUN

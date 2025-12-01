@@ -6,10 +6,10 @@
     ROM: yes
   resource: fish
   pop:
-    ethnicity: gallian
-    religion: druidism
-    estate: peasant
-    size: 1000
+    - ethnicity: gallian
+      religion: druidism
+      estate: peasant
+      size: 1000
 260.1.1:
   cores:
     GALL: yes
@@ -25,18 +25,18 @@
     ROMW: yes
 400.1.1:
   pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+    - religion: chalcedonism
+      estate: peasant
+      size: 1000
 450.1.1:
   owner: VANN
   controller: VANN
   cores:
     VANN: yes
   pop:
-    ethnicity: breton
-    estate: peasant
-    size: 1000
+    - ethnicity: breton
+      estate: peasant
+      size: 1000
 480.6.1:
   cores:
     ROMW: no
@@ -54,9 +54,9 @@
     BRI: yes
 867.1.1:
   pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - religion: catholic
+      estate: peasant
+      size: 1000
 907.1.1:
   owner: DAN
   controller: DAN

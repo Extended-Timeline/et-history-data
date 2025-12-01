@@ -6,29 +6,29 @@
     CHIA: yes
   resource: naval_supplies
   pop:
-    ethnicity: tsoyaha_culture
-    religion: iroquoian_totemism
-    estate: peasant
-    size: 1000
+    - ethnicity: tsoyaha_culture
+      religion: iroquoian_totemism
+      estate: peasant
+      size: 1000
 1610.1.1:
   owner: CHRK
   controller: CHRK
   cores:
     CHRK: yes
   pop:
-    ethnicity: cherokee_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: cherokee_culture
+      estate: peasant
+      size: 1000
 1791.7.2:
   owner: USA
   controller: USA
   cores:
     USA: yes
   pop:
-    ethnicity: british_louisianan
-    religion: lutheran
-    estate: peasant
-    size: 1000
+    - ethnicity: british_louisianan
+      religion: lutheran
+      estate: peasant
+      size: 1000
 1861.5.7:
   owner: CSAM
   controller: CSAM

@@ -1,15 +1,15 @@
 #imported from EU4 file: history/provinces/4041 - Kinga.txt
 2.1.1:
   pop:
-    ethnicity: sandawe_culture
-    religion: bantu_religion
-    estate: peasant
-    size: 1000
+    - ethnicity: sandawe_culture
+      religion: bantu_religion
+      estate: peasant
+      size: 1000
 300.1.1:
   pop:
-    ethnicity: bena_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: bena_culture
+      estate: peasant
+      size: 1000
 1890.1.1:
   owner: GER
   controller: GER
@@ -17,9 +17,9 @@
     GER: yes
   resource: livestock
   pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - religion: catholic
+      estate: peasant
+      size: 1000
 1919.6.28:
   owner: GBR
   controller: GBR

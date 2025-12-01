@@ -7,18 +7,18 @@
     MAHA: yes
   resource: paper
   pop:
-    ethnicity: korean_culture
-    religion: muism
-    estate: peasant
-    size: 1000
+    - ethnicity: korean_culture
+      religion: muism
+      estate: peasant
+      size: 1000
 360.1.1:
   cores:
     MAHA: no
 372.1.1:
   pop:
-    religion: mahayana
-    estate: peasant
-    size: 1000
+    - religion: mahayana
+      estate: peasant
+      size: 1000
 555.1.1:
   owner: SILL
   controller: SILL
@@ -46,9 +46,9 @@
     GORY: no
     KOR: yes
   pop:
-    religion: sanjiao
-    estate: peasant
-    size: 1000
+    - religion: sanjiao
+      estate: peasant
+      size: 1000
 1592.6.11:
   controller: TOYO
 1593.5.20:
@@ -89,11 +89,11 @@
   resource: electronics
 1971.1.1:
   pop:
-    religion: lutheran
-    estate: peasant
-    size: 1000
+    - religion: lutheran
+      estate: peasant
+      size: 1000
 1990.1.1:
   pop:
-    religion: irreligious
-    estate: peasant
-    size: 1000
+    - religion: irreligious
+      estate: peasant
+      size: 1000

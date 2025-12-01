@@ -1,27 +1,27 @@
 #imported from EU4 file: history/provinces/840 - Honduras.txt
 2.1.1:
   pop:
-    ethnicity: miskito_culture
-    religion: muisca_religion
-    estate: peasant
-    size: 1000
+    - ethnicity: miskito_culture
+      religion: muisca_religion
+      estate: peasant
+      size: 1000
 1525.1.1:
   owner: SPA
   controller: SPA
   resource: fish
   pop:
-    ethnicity: castilian
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - ethnicity: castilian
+      religion: catholic
+      estate: peasant
+      size: 1000
 1550.1.1:
   cores:
     SPA: yes
 1770.1.1:
   pop:
-    ethnicity: mexican
-    estate: peasant
-    size: 1000
+    - ethnicity: mexican
+      estate: peasant
+      size: 1000
 1810.9.16:
   owner: MEX
   controller: SPA
@@ -44,9 +44,9 @@
     SPA: no
 1890.1.1:
   pop:
-    religion: lutheran
-    estate: peasant
-    size: 1000
+    - religion: lutheran
+      estate: peasant
+      size: 1000
 1896.9.15:
   owner: UPCA
   controller: UPCA

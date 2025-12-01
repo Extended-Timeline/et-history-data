@@ -1,10 +1,10 @@
 #imported from EU4 file: history/provinces/3069 - Maniema.txt
 2.1.1:
   pop:
-    ethnicity: luba
-    religion: bantu_religion
-    estate: peasant
-    size: 1000
+    - ethnicity: luba
+      religion: bantu_religion
+      estate: peasant
+      size: 1000
 1895.1.1:
   owner: BEL
   controller: BEL
@@ -12,9 +12,9 @@
     BEL: yes
   resource: grain
   pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+    - religion: catholic
+      estate: peasant
+      size: 1000
 1960.7.1:
   owner: DRCO
   controller: DRCO

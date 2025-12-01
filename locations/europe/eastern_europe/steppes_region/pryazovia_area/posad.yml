@@ -6,10 +6,10 @@
     SARM: yes
   resource: livestock
   pop:
-    ethnicity: sarmatian
-    religion: 
-    estate: peasant
-    size: 1000
+    - ethnicity: sarmatian
+      religion: 
+      estate: peasant
+      size: 1000
 370.1.1:
   owner: HUNS
   controller: HUNS
@@ -17,16 +17,16 @@
     SARM: no
     HUNS: yes
   pop:
-    ethnicity: hunnic
-    estate: peasant
-    size: 1000
+    - ethnicity: hunnic
+      estate: peasant
+      size: 1000
 420.1.1:
   cores:
     ONOG: yes
   pop:
-    ethnicity: bolghar_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: bolghar_culture
+      estate: peasant
+      size: 1000
 469.1.1:
   owner: ONOG
   controller: ONOG
@@ -45,9 +45,9 @@
     BUL: no
     HUN: yes
   pop:
-    ethnicity: hungarian
-    estate: peasant
-    size: 1000
+    - ethnicity: hungarian
+      estate: peasant
+      size: 1000
 840.1.1:
   owner: KHAZ
   controller: KHAZ
@@ -55,9 +55,9 @@
     HUN: no
     KHAZ: yes
   pop:
-    ethnicity: khazar
-    estate: peasant
-    size: 1000
+    - ethnicity: khazar
+      estate: peasant
+      size: 1000
 969.1.1:
   owner: PECH
   controller: PECH
@@ -65,9 +65,9 @@
     KHAZ: no
     PECH: yes
   pop:
-    ethnicity: pecheneg
-    estate: peasant
-    size: 1000
+    - ethnicity: pecheneg
+      estate: peasant
+      size: 1000
 1060.1.1:
   owner: CUMA
   controller: CUMA
@@ -75,14 +75,14 @@
     PECH: no
     CUMA: yes
   pop:
-    ethnicity: cuman_culture
-    estate: peasant
-    size: 1000
+    - ethnicity: cuman_culture
+      estate: peasant
+      size: 1000
 1230.1.1:
   pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+    - religion: sunni
+      estate: peasant
+      size: 1000
 1241.1.1:
   owner: MGE
   controller: MGE
@@ -91,9 +91,9 @@
     MGE: yes
     ZAZ: yes
   pop:
-    ethnicity: crimean
-    estate: peasant
-    size: 1000
+    - ethnicity: crimean
+      estate: peasant
+      size: 1000
 1260.1.1:
   owner: WHHO
   controller: WHHO
@@ -134,9 +134,9 @@
     CRIM: no
 1860.1.1:
   pop:
-    religion: orthodox
-    estate: peasant
-    size: 1000
+    - religion: orthodox
+      estate: peasant
+      size: 1000
 1918.1.22:
   owner: UKR
   controller: UKR
@@ -157,9 +157,9 @@
   controller: SOVI
 1980.1.1:
   pop:
-    ethnicity: muscovite
-    estate: peasant
-    size: 1000
+    - ethnicity: muscovite
+      estate: peasant
+      size: 1000
 1991.8.24:
   owner: UKR
   controller: UKR

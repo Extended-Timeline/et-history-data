@@ -6,10 +6,10 @@
     KALI: yes
   resource: cloth
   pop:
-    ethnicity: orissan
-    religion: jain
-    estate: peasant
-    size: 1000
+    - ethnicity: orissan
+      religion: jain
+      estate: peasant
+      size: 1000
 150.1.1:
   owner: KJA
   controller: KJA
@@ -28,9 +28,9 @@
     KJA: yes
 600.1.1:
   pop:
-    religion: hindu
-    estate: peasant
-    size: 1000
+    - religion: hindu
+      estate: peasant
+      size: 1000
 620.1.1:
   owner: TOSH
   controller: TOSH

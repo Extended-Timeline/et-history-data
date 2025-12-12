@@ -1,352 +1,516 @@
 wess_cerdic_cerdicing:
-  489.1.1:
-    birth: southampton #TODO: Date and location guessed, check if better data is available
+  480:
+    birth: southampton #unknown
     first_name: cerdic
-    dynasty: cerdicing_dynasty
-    adm: 60
-    dip: 45
-    mil: 75
+    dynasty: wessex_dynasty
     religion: germanic
     culture: anglo_saxon
     tag: WESS
-  534.1.1:
+  534:
     death: yes
 wess_cynric_cerdicing:
-  504.1.1:
-    birth: southampton #TODO: Date and location guessed, check if better data is available
+  510:
+    birth: southampton #unknown
     first_name: cynric
-    dynasty: cerdicing_dynasty
-    adm: 45
-    dip: 30
-    mil: 45
+    dynasty: wessex_dynasty
+    father: wess_cerdic_cerdicing
     religion: germanic
     culture: anglo_saxon
     tag: WESS
-  560.1.1:
+  560:
     death: yes
 wess_ceawlin_cerdicing:
-  530.1.1:
-    birth: southampton #TODO: Date and location guessed, check if better data is available
+  530:
+    birth: southampton #unknown
     first_name: ceawlin
-    dynasty: cerdicing_dynasty
-    adm: 45
-    dip: 30
-    mil: 60
+    dynasty: wessex_dynasty
+    father: wess_cynric_cerdicing
     religion: germanic
     culture: anglo_saxon
     tag: WESS
-  591.1.1:
+  593:
+    death: yes
+wess_cutha_cerdicing:
+  535:
+    birth: southampton #unknown
+    first_name: cutha
+    dynasty: wessex_dynasty
+    father: wess_cynric_cerdicing
+    religion: germanic
+    culture: anglo_saxon
+    tag: WESS
+  590:
     death: yes
 wess_ceol_cerdicing:
-  561.1.1:
-    birth: southampton #TODO: Date and location guessed, check if better data is available
+  555:
+    birth: southampton #unknown
     first_name: ceol
-    dynasty: cerdicing_dynasty
-    adm: 75
-    dip: 45
-    mil: 45
+    dynasty: wessex_dynasty
+    father: wess_cutha_cerdicing
     religion: germanic
     culture: anglo_saxon
     tag: WESS
-  597.1.1:
+  597:
     death: yes
 wess_ceolwulf_cerdicing:
-  567.1.1:
-    birth: southampton #TODO: Date and location guessed, check if better data is available
+  560:
+    birth: southampton #unknown
     first_name: ceolwulf
-    dynasty: cerdicing_dynasty
-    adm: 60
-    dip: 30
-    mil: 30
+    dynasty: wessex_dynasty
+    father: wess_cutha_cerdicing
     religion: germanic
     culture: anglo_saxon
     tag: WESS
-  611.1.1:
+  611:
+    death: yes
+wess_cuthwine_cerdicing:
+  565:
+    birth: southampton #unknown
+    first_name: cuthwine
+    dynasty: wessex_dynasty
+    father: wess_ceawlin_cerdicing
+    religion: germanic
+    culture: anglo_saxon
+    tag: WESS
+  620:
     death: yes
 wess_cynegils_cerdicing:
-  581.1.1:
-    birth: southampton #TODO: Date and location guessed, check if better data is available
+  580:
+    birth: southampton #unknown
     first_name: cynegils
-    dynasty: cerdicing_dynasty
-    adm: 45
-    dip: 45
-    mil: 30
-    religion: druidism
+    dynasty: wessex_dynasty
+    father: wess_ceolwulf_cerdicing #relationship uncertain
+    religion: germanic
     culture: anglo_saxon
     tag: WESS
-  643.1.1:
+  636:
+    religion: chalcedonism
+  642:
+    death: yes
+wess_cuthgils_cerdicing:
+  585:
+    birth: southampton #unknown
+    first_name: cuthgils
+    dynasty: wessex_dynasty
+    father: wess_ceolwulf_cerdicing
+    religion: germanic
+    culture: anglo_saxon
+    tag: WESS
+  630:
+    death: yes
+wess_cedda_cerdicing:
+  590:
+    birth: southampton #unknown
+    first_name: cedda
+    dynasty: wessex_dynasty
+    father: wess_cuthwine_cerdicing
+    religion: germanic
+    culture: anglo_saxon
+    tag: WESS
+  650:
+    death: yes
+wess_cuthwulf_cerdicing:
+  592:
+    birth: southampton #unknown
+    first_name: cuthwulf
+    dynasty: wessex_dynasty
+    father: wess_cuthwine_cerdicing
+    religion: germanic
+    culture: anglo_saxon
+    tag: WESS
+  635:
+    religion: chalcedonism
+  648:
+    death: yes
+wess_cwichelm_cerdicing:
+  600:
+    birth: southampton #unknown
+    first_name: cwichelm
+    dynasty: wessex_dynasty
+    father: wess_cynegils_cerdicing #relationship uncertain
+    religion: germanic
+    culture: anglo_saxon
+    tag: WESS
+  636:
+    religion: chalcedonism
     death: yes
 wess_cenwalh_cerdicing:
-  613.1.1:
-    birth: southampton #TODO: Date and location guessed, check if better data is available
+  610:
+    birth: southampton #unknown
     first_name: cenwalh
-    dynasty: cerdicing_dynasty
-    adm: 60
-    dip: 60
-    mil: 45
-    religion: chalcedonism
+    dynasty: wessex_dynasty
+    father: wess_cynegils_cerdicing
+    religion: germanic
     culture: anglo_saxon
     tag: WESS
-  648.1.1:
+  636:
+    religion: chalcedonism
+  672:
     death: yes
-wess_cenwalh_cerdicing_1:
-  618.1.1:
-    birth: southampton #TODO: Date and location guessed, check if better data is available
-    first_name: cenwalh
-    dynasty: cerdicing_dynasty
-    adm: 60
-    dip: 60
-    mil: 45
-    religion: chalcedonism
+wess_cenferth_cerdicing:
+  610:
+    birth: southampton #unknown
+    first_name: cenferth
+    dynasty: wessex_dynasty
+    father: wess_cuthgils_cerdicing
+    religion: germanic
     culture: anglo_saxon
     tag: WESS
-  673.1.1:
-    death: yes
-wess_seaxburh_cerdicing:
-  643.1.1:
-    birth: southampton #TODO: Date and location guessed, check if better data is available
-    first_name: seaxburh
-    dynasty: cerdicing_dynasty
-    female: yes
-    adm: 45
-    dip: 30
-    mil: 15
+  636:
     religion: chalcedonism
-    culture: anglo_saxon
-    tag: WESS
-  674.1.1:
-    death: yes
-wess_cenfus_cerdicing:
-  644.1.1:
-    birth: southampton #TODO: Date and location guessed, check if better data is available
-    first_name: cenfus
-    dynasty: cerdicing_dynasty
-    adm: 30
-    dip: 60
-    mil: 30
-    religion: chalcedonism
-    culture: anglo_saxon
-    tag: WESS
-  674.6.1:
-    death: yes
-wess_aescwine_cerdicing:
-  644.1.1:
-    birth: southampton #TODO: Date and location guessed, check if better data is available
-    first_name: aescwine
-    dynasty: cerdicing_dynasty
-    adm: 15
-    dip: 60
-    mil: 60
-    religion: chalcedonism
-    culture: anglo_saxon
-    tag: WESS
-  676.1.1:
+  660:
     death: yes
 wess_centwine_cerdicing:
-  646.1.1:
-    birth: southampton #TODO: Date and location guessed, check if better data is available
+  620:
+    birth: southampton #unknown
     first_name: centwine
-    dynasty: cerdicing_dynasty
-    adm: 60
-    dip: 45
-    mil: 45
+    dynasty: wessex_dynasty
+    father: wess_cynegils_cerdicing #disputed
+    religion: germanic
+    culture: anglo_saxon
+    tag: WESS
+  636:
+    religion: chalcedonism
+  685:
+    death: yes
+wess_seaxburh:
+  620:
+    birth: southampton #unknown
+    first_name: seaxburh
+    female: yes
     religion: chalcedonism
     culture: anglo_saxon
     tag: WESS
-  685.1.1:
+  650:
+    spouse: wess_cenwalh_cerdicing
+    dynasty: wessex_dynasty #by marriage
+  674:
+    death: yes
+wess_ceolwald_cerdicing:
+  622:
+    birth: southampton #unknown
+    first_name: ceolwald
+    dynasty: wessex_dynasty
+    father: wess_cuthwulf_cerdicing
+    religion: germanic
+    culture: anglo_saxon
+    tag: WESS
+  635:
+    religion: chalcedonism
+  688.6.12:
+    death: yes
+wess_cenberht_cerdicing:
+  625:
+    birth: southampton #unknown
+    first_name: cenberht
+    dynasty: wessex_dynasty
+    father: wess_cedda_cerdicing
+    religion: germanic
+    culture: anglo_saxon
+    tag: WESS
+  640:
+    religion: chalcedonism
+  661:
+    death: yes
+wess_cenfus_cerdicing:
+  630:
+    birth: southampton #unknown
+    first_name: cenfus
+    father: wess_cenferth_cerdicing
+    dynasty: wessex_dynasty
+    religion: germanic
+    culture: anglo_saxon
+    tag: WESS
+  640:
+    religion: chalcedonism
+  674:
+    death: yes
+wess_cenred_cerdicing:
+  644:
+    birth: southampton #unknown
+    first_name: cenred
+    dynasty: wessex_dynasty
+    father: wess_ceolwald_cerdicing
+    religion: chalcedonism
+    culture: anglo_saxon
+    tag: WESS
+  698:
+    death: yes
+wess_aescwine_cerdicing:
+  650:
+    birth: southampton #unknown
+    first_name: aescwine
+    dynasty: wessex_dynasty
+    father: wess_cenfus_cerdicing
+    religion: chalcedonism
+    culture: anglo_saxon
+    tag: WESS
+  676:
     death: yes
 wess_caedwalla_cerdicing:
-  659.1.1:
-    birth: southampton #TODO: Date and location guessed, check if better data is available
+  659:
+    birth: southampton #unknown
     first_name: caedwalla
-    dynasty: cerdicing_dynasty
-    adm: 45
-    dip: 30
-    mil: 45
+    dynasty: wessex_dynasty
+    father: wess_cenberht_cerdicing
     religion: chalcedonism
     culture: anglo_saxon
     tag: WESS
-  688.1.1:
+  689.4.20:
     death: yes
 wess_ine_cerdicing:
-  658.1.1:
-    birth: southampton #TODO: Date and location guessed, check if better data is available
+  670:
+    birth: southampton #unknown
     first_name: ine
-    dynasty: cerdicing_dynasty
-    adm: 45
-    dip: 30
-    mil: 60
+    dynasty: wessex_dynasty
+    father: wess_cenred_cerdicing
     religion: chalcedonism
     culture: anglo_saxon
     tag: WESS
-  726.1.1:
+  726:
+    death: yes
+wess_aethelburg:
+  673:
+    birth: southampton #unknown
+    first_name: aethelburg
+    female: yes
+    religion: chalcedonism
+    culture: anglo_saxon
+    tag: WESS
+  690:
+    spouse: wess_ine_cerdicing
+  740:
     death: yes
 wess_aethelheard_cerdicing:
-  696.1.1:
-    birth: southampton #TODO: Date and location guessed, check if better data is available
+  690:
+    birth: southampton #unknown
     first_name: aethelheard
-    dynasty: cerdicing_dynasty
-    adm: 30
-    dip: 45
-    mil: 45
+    dynasty: wessex_dynasty
     religion: chalcedonism
     culture: anglo_saxon
     tag: WESS
-  740.1.1:
+  740:
+    death: yes
+wess_frithugyth:
+  690:
+    birth: southampton #unknown
+    first_name: frithugyth
+    female: yes
+    religion: chalcedonism
+    culture: anglo_saxon
+    tag: WESS
+  710:
+    spouse: wess_aethelheard_cerdicing
+  740:
     death: yes
 wess_cuthred_cerdicing:
-  710.1.1:
-    birth: southampton #TODO: Date and location guessed, check if better data is available
+  710:
+    birth: southampton #unknown
     first_name: cuthred
-    dynasty: cerdicing_dynasty
+    dynasty: wessex_dynasty
     adm: 60
-    dip: 30
-    mil: 30
+    dip: 40
+    mil: 70
     religion: chalcedonism
     culture: anglo_saxon
     tag: WESS
-  756.1.1:
+  756:
     death: yes
 wess_sigebert_cerdicing:
-  726.1.1:
-    birth: southampton #TODO: Date and location guessed, check if better data is available
-    first_name: sigebert
-    dynasty: cerdicing_dynasty
-    adm: 45
-    dip: 45
-    mil: 30
+  720:
+    birth: southampton #unknown
+    first_name: sigeberht
+    dynasty: wessex_dynasty
     religion: chalcedonism
     culture: anglo_saxon
     tag: WESS
-  757.1.1:
+  756:
     death: yes
 wess_cynewulf_cerdicing:
-  727.1.1:
-    birth: southampton #TODO: Date and location guessed, check if better data is available
+  720:
+    birth: southampton #unknown
     first_name: cynewulf
-    dynasty: cerdicing_dynasty
-    adm: 45
-    dip: 60
-    mil: 45
+    dynasty: wessex_dynasty
     religion: chalcedonism
     culture: anglo_saxon
     tag: WESS
-  786.1.1:
+  786:
     death: yes
 wess_beorthtic_cerdicing:
-  756.1.1:
-    birth: southampton #TODO: Date and location guessed, check if better data is available
-    first_name: beorthtic
-    dynasty: cerdicing_dynasty
-    adm: 45
-    dip: 60
-    mil: 75
+  740:
+    birth: southampton #unknown
+    first_name: beorhtric
+    dynasty: wessex_dynasty
     religion: chalcedonism
     culture: anglo_saxon
     tag: WESS
-  802.1.1:
+  802:
+    death: yes
+wess_eadburh:
+  772:
+    birth: southampton #unknown
+    first_name: eadburh
+    dynasty: icling_dynasty
+    father: merc_offa_icling
+    mother: merc_cynethryth
+    female: yes
+    religion: chalcedonism
+    culture: anglo_saxon
+    tag: MERC
+  789:
+    spouse: wess_beorthtic_cerdicing
+    tag: WESS
+  802:
     death: yes
 wess_egbert_cerdicing:
-  772.1.1:
-    birth: southampton #TODO: Date and location guessed, check if better data is available
-    first_name: egbert
-    dynasty: cerdicing_dynasty
-    adm: 45
-    dip: 30
+  770:
+    birth: southampton #unknown
+    first_name: ecgberht
+    dynasty: wessex_dynasty
+    father: kent_ealhmund_cerdicing
+    adm: 55
+    dip: 40
     mil: 75
     religion: chalcedonism
     culture: anglo_saxon
     tag: WESS
-  839.1.1:
+  839:
     death: yes
 wess_aethelwulf_cerdicing:
-  809.1.1:
-    birth: southampton #TODO: Date and location guessed, check if better data is available
+  800:
+    birth: southampton #unknown
     first_name: aethelwulf
-    dynasty: cerdicing_dynasty
+    dynasty: wessex_dynasty
+    father: wess_egbert_cerdicing
     adm: 75
-    dip: 60
-    mil: 30
+    dip: 50
+    mil: 50
     religion: chalcedonism
     culture: anglo_saxon
     tag: WESS
   858.1.13:
     death: yes
-wess_aethelbald_cerdicing:
-  828.1.1:
-    birth: southampton #TODO: Date and location guessed, check if better data is available
-    first_name: aethelbald
-    dynasty: cerdicing_dynasty
-    adm: 30
-    dip: 45
-    mil: 0
+wess_osburh:
+  800:
+    birth: southampton #unknown
+    first_name: osburh
+    female: yes
     religion: chalcedonism
     culture: anglo_saxon
     tag: WESS
-  860.12.20:
-    death: yes
-wess_aethelberht_cerdicing:
-  836.1.1:
-    birth: southampton #TODO: Date and location guessed, check if better data is available
-    first_name: aethelberht
-    dynasty: cerdicing_dynasty
-    adm: 45
-    dip: 30
-    mil: 15
-    religion: chalcedonism
-    culture: anglo_saxon
-    tag: WESS
-  865.1.1:
-    death: yes
-wess_aethelred_cerdicing:
-  847.1.1:
-    birth: southampton #TODO: Date and location guessed, check if better data is available
-    first_name: aethelred
-    dynasty: cerdicing_dynasty
-    adm: 45
-    dip: 15
-    mil: 45
-    religion: catholic
-    culture: anglo_saxon
-    tag: WESS
-  871.4.23:
-    death: yes
-wess_alfred_cerdicing:
-  849.1.1:
-    birth: southampton #TODO: Date and location guessed, check if better data is available
-    first_name: alfred
-    dynasty: cerdicing_dynasty
-    adm: 60
-    dip: 60
-    mil: 75
-    religion: catholic
-    culture: anglo_saxon
-    tag: WESS
-  899.10.26:
-    death: yes
-wess_edward_cerdicing:
-  874.1.1:
-    birth: southampton #TODO: Date and location guessed, check if better data is available
-    first_name: edward
-    dynasty: cerdicing_dynasty
-    adm: 30
-    dip: 30
-    mil: 60
-    religion: catholic
-    culture: anglo_saxon
-    tag: WESS
-  924.7.17:
+  820:
+    spouse: wess_aethelwulf_cerdicing
+  855:
     death: yes
 wess_aethelstan_cerdicing:
-  894.1.1:
-    birth: southampton #TODO: Date and location guessed, check if better data is available
+  820:
+    birth: southampton #unknown
     first_name: aethelstan
-    dynasty: cerdicing_dynasty
-    adm: 30
-    dip: 60
-    mil: 15
+    dynasty: wessex_dynasty
+    father: wess_aethelwulf_cerdicing
+    mother: wess_osburh
+    religion: chalcedonism
+    culture: anglo_saxon
+    tag: WESS
+  852:
+    death: yes
+wess_aethelbald_cerdicing:
+  830:
+    birth: southampton #unknown
+    first_name: aethelbald
+    dynasty: wessex_dynasty
+    father: wess_aethelwulf_cerdicing
+    mother: wess_osburh
+    religion: chalcedonism
+    culture: anglo_saxon
+    tag: WESS
+  860.7:
+    death: yes
+wess_aethelberht_cerdicing:
+  836:
+    birth: southampton #unknown
+    first_name: aethelberht
+    dynasty: wessex_dynasty
+    father: wess_aethelwulf_cerdicing
+    mother: wess_osburh
+    religion: chalcedonism
+    culture: anglo_saxon
+    tag: WESS
+  865.10:
+    death: yes
+wess_judith_of_flanders:
+  844:
+    birth: ghent #unknown
+    first_name: name_judith
+    dynasty: carolingian_dynasty
+    female: yes
+    religion: chalcedonism
+    culture: walloon
+    tag: FLA
+  856:
+    spouse: wess_aethelwulf_cerdicing
+    tag: WESS
+  858.4:
+    spouse: wess_aethelbald_cerdicing
+  867:
+    religion: catholic
+  870:
+    death: yes
+wess_aethelred_cerdicing:
+  845:
+    birth: southampton #unknown
+    first_name: name_ethelred
+    dynasty: wessex_dynasty
+    father: wess_aethelwulf_cerdicing
+    mother: wess_osburh
     religion: catholic
     culture: anglo_saxon
     tag: WESS
-  939.10.27:
+  867:
+    religion: catholic
+  871.4.23:
+    death: yes
+wess_wulfthryth:
+  845:
+    birth: southampton #unknown
+    first_name: wulfthryth
+    female: yes
+    religion: chalcedonism
+    culture: anglo_saxon
+    tag: WESS
+  860:
+    spouse: wess_aethelred_cerdicing
+  867:
+    religion: catholic
+  880:
+    death: yes
+wess_aethelhelm_cerdicing:
+  865:
+    birth: southampton #unknown
+    first_name: aethelhelm
+    dynasty: wessex_dynasty
+    father: wess_aethelred_cerdicing
+    mother: wess_wulfthryth
+    religion: chalcedonism
+    culture: anglo_saxon
+    tag: WESS
+  867:
+    religion: catholic
+  886:
+    tag: ENG
+  890:
+    death: yes
+wess_aethelwold_cerdicing:
+  868:
+    birth: southampton #unknown
+    first_name: aethelwold
+    dynasty: wessex_dynasty
+    father: wess_aethelred_cerdicing
+    mother: wess_wulfthryth
+    religion: catholic
+    culture: anglo_saxon
+    tag: WESS
+  886:
+    tag: ENG
+  902:
     death: yes

@@ -1,3 +1,99 @@
+eng_alfred_the_great:
+  849:
+    birth: southampton #TODO: Wantage
+    first_name: name_alfred
+    dynasty: wessex_dynasty
+    father: wess_aethelwulf_cerdicing
+    mother: wess_osburh
+    adm: 70
+    dip: 60
+    mil: 75
+    religion: chalcedonism
+    culture: anglo_saxon
+    tag: WESS
+  867:
+    religion: catholic
+  886:
+    tag: ENG
+  899.10.26:
+    death: yes
+eng_ealhswith:
+  850:
+    birth: southampton #unknown
+    first_name: ealhswith
+    female: yes
+    religion: chalcedonism
+    culture: anglo_saxon
+    tag: WESS
+  867:
+    religion: catholic
+  868:
+    spouse: eng_alfred_the_great
+  886:
+    tag: ENG
+  902.12.5:
+    death: yes
+wess_edward_cerdicing:
+  874:
+    birth: southampton #unknown
+    first_name: name_edward
+    dynasty: wessex_dynasty
+    father: eng_alfred_the_great
+    mother: eng_ealhswith
+    adm: 30
+    dip: 30
+    mil: 60
+    religion: catholic
+    culture: anglo_saxon
+    tag: WESS
+  886:
+    tag: ENG
+  924.7.17:
+    death: yes
+eng_aethelgifu_of_wessex:
+  876:
+    birth: southampton #unknown
+    first_name: aethelgifu
+    dynasty: wessex_dynasty
+    female: yes
+    father: eng_alfred_the_great
+    mother: eng_ealhswith
+    religion: catholic
+    culture: anglo_saxon
+    tag: WESS
+  886:
+    tag: ENG
+  895:
+    death: yes
+eng_aelfthryth_of_wessex:
+  877:
+    birth: southampton #unknown
+    first_name: aelfthryth
+    dynasty: wessex_dynasty
+    female: yes
+    father: eng_alfred_the_great
+    mother: eng_ealhswith
+    religion: catholic
+    culture: anglo_saxon
+    tag: WESS
+  886:
+    tag: ENG
+  929.6.7:
+    death: yes
+eng_aethelweard_of_wessex:
+  880:
+    birth: southampton #unknown
+    first_name: aethelweard
+    dynasty: wessex_dynasty
+    father: eng_alfred_the_great
+    mother: eng_ealhswith
+    religion: catholic
+    culture: anglo_saxon
+    tag: WESS
+  886:
+    tag: ENG
+  922:
+    death: yes
 eng_aethelstan_cerdicing:
   894.1.1:
     birth: london #TODO: Date and location guessed, check if better data is available
@@ -858,11 +954,11 @@ eng_henry_viii_tudor:
     tag: ENG
   1547.1.28:
     death: yes
-eng_catherine_de_trasta!mara:
+eng_catherine_de_trastamara:
   1485.12.16:
     birth: london #TODO: Location guessed, check if better data is available
     first_name: catherine
-    dynasty: de_trasta!mara_dynasty
+    dynasty: de_trastamara_dynasty
     female: yes
     adm: 75
     dip: 60

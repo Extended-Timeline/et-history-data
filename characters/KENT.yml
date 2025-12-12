@@ -25,10 +25,10 @@ kent_eppillus_atrebate:
   420.1.1:
     death: yes
 kent_hengest_cantie:
-  390.1.1:
-    birth: canterbury #TODO: Date and location guessed, check if better data is available
+  430:
+    birth: canterbury #unknown
     first_name: hengest
-    dynasty: cantie_dynasty
+    dynasty: kent_dynasty
     adm: 60
     dip: 45
     mil: 90
@@ -37,328 +37,409 @@ kent_hengest_cantie:
     tag: KENT
   460.1.1:
     death: yes
-kent_horsa_cantie:
-  430.1.1:
-    birth: canterbury #TODO: Date and location guessed, check if better data is available
-    first_name: horsa
-    dynasty: cantie_dynasty
-    adm: 60
-    dip: 60
-    mil: 75
-    religion: germanic
-    culture: anglo_saxon
-    tag: KENT
-  490.1.1:
-    death: yes
 kent_oisc_cantie:
   460.1.1:
-    birth: canterbury #TODO: Date and location guessed, check if better data is available
+    birth: canterbury #unknown
     first_name: oisc
-    dynasty: cantie_dynasty
-    adm: 45
-    dip: 30
-    mil: 60
+    dynasty: kent_dynasty
+    father: kent_hengest_cantie
     religion: germanic
     culture: anglo_saxon
     tag: KENT
   512.1.1:
     death: yes
 kent_octa_cantie:
-  482.1.1:
-    birth: canterbury #TODO: Date and location guessed, check if better data is available
+  480:
+    birth: canterbury #unknown
     first_name: octa
-    dynasty: cantie_dynasty
-    adm: 60
-    dip: 45
-    mil: 30
+    dynasty: kent_dynasty
+    father: kent_oisc_cantie
     religion: germanic
     culture: anglo_saxon
     tag: KENT
-  536.1.1:
+  543:
     death: yes
 kent_eormenric_cantie:
-  506.1.1:
-    birth: canterbury #TODO: Date and location guessed, check if better data is available
+  510:
+    birth: canterbury #unknown
     first_name: eormenric
-    dynasty: cantie_dynasty
-    adm: 30
-    dip: 60
-    mil: 30
+    dynasty: kent_dynasty
+    father: kent_octa_cantie
     religion: germanic
     culture: anglo_saxon
     tag: KENT
-  590.1.1:
+  590:
     death: yes
 kent_aethelberht_i_cantie:
-  560.1.1:
-    birth: canterbury #TODO: Date and location guessed, check if better data is available
+  550:
+    birth: canterbury #unknown
     first_name: aethelberht
-    dynasty: cantie_dynasty
+    dynasty: kent_dynasty
+    father: kent_eormenric_cantie
     adm: 75
     dip: 45
     mil: 75
-    religion: chalcedonism
+    religion: germanic
     culture: anglo_saxon
     tag: KENT
+  597:
+    religion: chalcedonism
   616.2.24:
     death: yes
+kent_bertha_merovingian:
+  565:
+    birth: tours
+    first_name: bertha
+    dynasty: merovingian_dynasty
+    female: yes
+    religion: chalcedonism
+    culture: french
+    tag: FRAN
+  580:
+    spouse: kent_aethelberht_i_cantie
+    tag: KENT
+  601:
+    death: yes
 kent_eadbald_cantie:
-  586.1.1:
-    birth: canterbury #TODO: Date and location guessed, check if better data is available
+  590:
+    birth: canterbury #unknown
     first_name: eadbald
-    dynasty: cantie_dynasty
-    adm: 60
-    dip: 60
-    mil: 45
+    dynasty: kent_dynasty
+    father: kent_aethelberht_i_cantie
+    mother: kent_bertha_merovingian
+    religion: germanic
+    culture: anglo_saxon
+    tag: KENT
+  618:
+    religion: chalcedonism
+  640.1.20:
+    death: yes
+kent_aethelburh_cantie:
+  601:
+    birth: canterbury #unknown
+    first_name: aethelburg
+    dynasty: kent_dynasty
+    father: kent_aethelberht_i_cantie
+    mother: kent_bertha_merovingian
     religion: chalcedonism
     culture: anglo_saxon
     tag: KENT
-  640.1.20:
+  647:
+    death: yes
+kent_emma_merovingian:
+  605:
+    birth: aachen #unknown
+    first_name: name_emma
+    dynasty: merovingian_dynasty
+    female: yes
+    religion: chalcedonism
+    culture: french
+    tag: FRAN
+  620:
+    spouse: kent_eadbald_cantie
+    tag: KENT
+  601:
+    death: yes
+kent_eormenred_cantie:
+  622:
+    birth: canterbury #unknown
+    first_name: eormenred
+    dynasty: kent_dynasty
+    father: kent_eadbald_cantie
+    mother: kent_emma_merovingian
+    religion: chalcedonism
+    culture: anglo_saxon
+    tag: KENT
+  660:
     death: yes
 kent_eorcenberht_cantie:
-  610.1.1:
-    birth: canterbury #TODO: Date and location guessed, check if better data is available
+  625:
+    birth: canterbury #unknown
     first_name: eorcenberht
-    dynasty: cantie_dynasty
-    adm: 45
-    dip: 45
-    mil: 75
+    dynasty: kent_dynasty
+    father: kent_eadbald_cantie
+    mother: kent_emma_merovingian
     religion: chalcedonism
     culture: anglo_saxon
     tag: KENT
   664.7.14:
     death: yes
+kent_eanswith_cantie:
+  630:
+    birth: canterbury #unknown
+    first_name: eanswith
+    dynasty: kent_dynasty
+    female: yes
+    father: kent_eadbald_cantie
+    mother: kent_emma_merovingian
+    religion: chalcedonism
+    culture: anglo_saxon
+    tag: KENT
+  650:
+    death: yes
+kent_seaxburh_of_ely:
+  630:
+    birth: norwich #unknown
+    first_name: seaxburh
+    dynasty: wuffinga_dynasty
+    female: yes
+    father: eang_anna_wuffinga
+    religion: chalcedonism
+    culture: anglo_saxon
+    tag: EANG
+  645:
+    spouse: kent_eorcenberht_cantie
+    tag: KENT
+  699.7.6:
+    death: yes
+kent_aethelred_cantie:
+  645:
+    birth: canterbury #unknown
+    first_name: aethelred
+    dynasty: kent_dynasty
+    father: kent_eormenred_cantie
+    religion: chalcedonism
+    culture: anglo_saxon
+    tag: KENT
+  669:
+    death: yes
 kent_ecgberht_i_cantie:
-  634.1.1:
-    birth: canterbury #TODO: Date and location guessed, check if better data is available
+  645:
+    birth: canterbury #unknown
     first_name: ecgberht
-    dynasty: cantie_dynasty
-    adm: 60
-    dip: 60
-    mil: 45
+    dynasty: kent_dynasty
+    father: kent_eorcenberht_cantie
+    mother: kent_seaxburh_of_ely
     religion: chalcedonism
     culture: anglo_saxon
     tag: KENT
   673.7.4:
     death: yes
 kent_hlothhere_cantie:
-  643.1.1:
-    birth: canterbury #TODO: Date and location guessed, check if better data is available
+  648:
+    birth: canterbury #unknown
     first_name: hlothhere
-    dynasty: cantie_dynasty
-    adm: 75
-    dip: 45
-    mil: 30
+    dynasty: kent_dynasty
+    father: kent_eorcenberht_cantie
+    mother: kent_seaxburh_of_ely
     religion: chalcedonism
     culture: anglo_saxon
     tag: KENT
-  685.6.1:
+  685.2.6:
     death: yes
-kent_eadric_cantie:
-  655.1.1:
-    birth: canterbury #TODO: Date and location guessed, check if better data is available
-    first_name: eadric
-    dynasty: cantie_dynasty
-    adm: 45
-    dip: 45
-    mil: 45
+kent_eorcengota_cantie:
+  650:
+    birth: canterbury #unknown
+    first_name: eorcengota
+    dynasty: kent_dynasty
+    female: yes
+    father: kent_eorcenberht_cantie
+    mother: kent_seaxburh_of_ely
     religion: chalcedonism
     culture: anglo_saxon
     tag: KENT
-  686.6.1:
+  700:
     death: yes
-kent_mul_cantie:
-  656.1.1:
-    birth: canterbury #TODO: Date and location guessed, check if better data is available
-    first_name: mul
-    dynasty: cantie_dynasty
-    adm: 45
-    dip: 45
-    mil: 30
+kent_ermenilda_cantie:
+  652:
+    birth: canterbury #unknown
+    first_name: ermenilda
+    dynasty: kent_dynasty
+    female: yes
+    father: kent_eorcenberht_cantie
+    mother: kent_seaxburh_of_ely
     religion: chalcedonism
     culture: anglo_saxon
     tag: KENT
-  687.6.1:
+  703:
     death: yes
 kent_swaefheard_cantie:
-  657.1.1:
-    birth: canterbury #TODO: Date and location guessed, check if better data is available
+  655:
+    birth: colchester #unknown
     first_name: swaefheard
-    dynasty: cantie_dynasty
-    adm: 45
-    dip: 30
-    mil: 45
+    dynasty: aescwining_dynasty
+    father: esse_saebbi_aescwining
     religion: chalcedonism
     culture: anglo_saxon
+    tag: ESSE
+  687:
     tag: KENT
   692.6.1:
     death: yes
-kent_withred_cantie:
-  662.1.1:
-    birth: canterbury #TODO: Date and location guessed, check if better data is available
-    first_name: withred
-    dynasty: cantie_dynasty
-    adm: 45
-    dip: 30
-    mil: 60
+kent_mul_cerdicing:
+  662:
+    birth: southampton #unknown
+    first_name: mul
+    dynasty: wessex_dynasty
+    father: wess_cenberht_cerdicing
+    religion: chalcedonism
+    culture: anglo_saxon
+    tag: WESS
+  686:
+    tag: KENT
+  687:
+    death: yes
+kent_oswine_cantie:
+  645:
+    birth: canterbury #unknown
+    first_name: oswine
+    dynasty: kent_dynasty
+    father: kent_aethelred_cantie
+    religion: chalcedonism
+    culture: anglo_saxon
+    tag: KENT
+  690:
+    death: yes
+kent_eadric_cantie:
+  665:
+    birth: canterbury #unknown
+    first_name: eadric
+    dynasty: kent_dynasty
+    father: kent_ecgberht_i_cantie
+    religion: chalcedonism
+    culture: anglo_saxon
+    tag: KENT
+  686:
+    death: yes
+kent_wihtred_cantie:
+  667:
+    birth: canterbury #unknown
+    first_name: wihtred
+    dynasty: kent_dynasty
+    father: kent_ecgberht_i_cantie
     religion: chalcedonism
     culture: anglo_saxon
     tag: KENT
   725.4.23:
     death: yes
-kent_aethelberht_ii_cantie:
-  695.1.1:
-    birth: canterbury #TODO: Date and location guessed, check if better data is available
-    first_name: aethelberht
-    dynasty: cantie_dynasty
-    adm: 30
-    dip: 45
-    mil: 45
+kent_alric_cantie:
+  690:
+    birth: canterbury #unknown
+    first_name: alric
+    dynasty: kent_dynasty
+    father: kent_wihtred_cantie
     religion: chalcedonism
     culture: anglo_saxon
     tag: KENT
-  762.1.1:
+  740:
+    death: yes
+kent_eadberht_i_cantie:
+  695:
+    birth: canterbury #unknown
+    first_name: eadberht
+    dynasty: kent_dynasty
+    father: kent_wihtred_cantie
+    religion: chalcedonism
+    culture: anglo_saxon
+    tag: KENT
+  748:
+    death: yes
+kent_aethelberht_ii_cantie:
+  700:
+    birth: canterbury #unknown
+    first_name: aethelberht
+    dynasty: kent_dynasty
+    father: kent_wihtred_cantie
+    religion: chalcedonism
+    culture: anglo_saxon
+    tag: KENT
+  762:
+    death: yes
+kent_eardwulf_cantie:
+  720:
+    birth: canterbury #unknown
+    first_name: eardwulf
+    dynasty: kent_dynasty
+    father: kent_eadberht_i_cantie
+    religion: chalcedonism
+    culture: anglo_saxon
+    tag: KENT
+  765:
     death: yes
 kent_eadberht_ii_cantie:
-  732.1.1:
-    birth: canterbury #TODO: Date and location guessed, check if better data is available
+  730:
+    birth: canterbury #unknown
     first_name: eadberht
-    dynasty: cantie_dynasty
-    adm: 60
-    dip: 30
-    mil: 30
+    dynasty: kent_dynasty
+    father: kent_aethelberht_ii_cantie
     religion: chalcedonism
     culture: anglo_saxon
     tag: KENT
-  764.1.1:
+  764:
     death: yes
-kent_ecgberht_iii_cantie:
-  734.1.1:
-    birth: canterbury #TODO: Date and location guessed, check if better data is available
+kent_eanmund_cantie:
+  730:
+    birth: canterbury #unknown
+    first_name: eanmund
+    dynasty: kent_dynasty
+    religion: chalcedonism
+    culture: anglo_saxon
+    tag: KENT
+  764:
+    death: yes
+kent_heaberht_cantie:
+  730:
+    birth: canterbury #unknown
+    first_name: heaberht
+    dynasty: kent_dynasty
+    religion: chalcedonism
+    culture: anglo_saxon
+    tag: KENT
+  765:
+    death: yes
+kent_ecgberht_ii_cantie:
+  735:
+    birth: canterbury #unknown
     first_name: ecgberht
-    dynasty: cantie_dynasty
-    adm: 45
-    dip: 45
-    mil: 30
+    dynasty: kent_dynasty
     religion: chalcedonism
     culture: anglo_saxon
     tag: KENT
-  780.1.1:
+  779:
     death: yes
-kent_ealhmund_cantie:
-  750.1.1:
-    birth: canterbury #TODO: Date and location guessed, check if better data is available
+kent_ealhmund_cerdicing:
+  750:
+    birth: canterbury #unknown
     first_name: ealhmund
-    dynasty: cantie_dynasty
-    adm: 45
-    dip: 60
-    mil: 45
+    dynasty: wessex_dynasty
     religion: chalcedonism
     culture: anglo_saxon
+    tag: WESS
+  779:
     tag: KENT
-  796.1.1:
+  785:
     death: yes
 kent_eadberht_iii_praen_cantie:
-  766.1.1:
-    birth: canterbury #TODO: Date and location guessed, check if better data is available
-    first_name: eadberht_iii_praen
-    dynasty: cantie_dynasty
-    adm: 45
-    dip: 60
-    mil: 75
+  760:
+    birth: canterbury #unknown
+    first_name: eadberht
+    nickname: praen
+    dynasty: kent_dynasty
     religion: chalcedonism
     culture: anglo_saxon
     tag: KENT
-  798.1.1:
+  798:
     death: yes
-kent_cuthred_cantie:
-  768.1.1:
-    birth: canterbury #TODO: Date and location guessed, check if better data is available
+kent_cuthred_pybbing:
+  775:
+    birth: southampton #unknown
     first_name: cuthred
-    dynasty: cantie_dynasty
-    adm: 45
-    dip: 30
-    mil: 75
+    dynasty: icling_dynasty
+    father: merc_cuthberht_pybbing
     religion: chalcedonism
     culture: anglo_saxon
+    tag: MERC
+  798:
     tag: KENT
-  807.1.1:
-    death: yes
-kent_coenwulf_cantie:
-  777.1.1:
-    birth: canterbury #TODO: Date and location guessed, check if better data is available
-    first_name: coenwulf
-    dynasty: cantie_dynasty
-    adm: 75
-    dip: 60
-    mil: 30
-    religion: chalcedonism
-    culture: anglo_saxon
-    tag: KENT
-  815.1.1:
-    death: yes
-kent_ceolwulf_cantie:
-  785.1.1:
-    birth: canterbury #TODO: Date and location guessed, check if better data is available
-    first_name: ceolwulf
-    dynasty: cantie_dynasty
-    adm: 15
-    dip: 60
-    mil: 60
-    religion: chalcedonism
-    culture: anglo_saxon
-    tag: KENT
-  823.1.1:
+  807:
     death: yes
 kent_baldred_cantie:
-  793.1.1:
-    birth: canterbury #TODO: Date and location guessed, check if better data is available
+  790:
+    birth: canterbury #unknown
     first_name: baldred
-    dynasty: cantie_dynasty
-    adm: 60
-    dip: 45
-    mil: 75
+    dynasty: kent_dynasty
     religion: chalcedonism
     culture: anglo_saxon
     tag: KENT
-  825.1.1:
-    death: yes
-kent_aethelwulf_cantie:
-  795.1.1:
-    birth: canterbury #TODO: Date and location guessed, check if better data is available
-    first_name: aethelwulf
-    dynasty: cantie_dynasty
-    adm: 45
-    dip: 30
-    mil: 45
-    religion: chalcedonism
-    culture: anglo_saxon
-    tag: KENT
-  858.1.1:
-    death: yes
-kent_aethelberht_iii_cantie:
-  828.1.1:
-    birth: canterbury #TODO: Date and location guessed, check if better data is available
-    first_name: aethelberht
-    dynasty: cantie_dynasty
-    adm: 60
-    dip: 45
-    mil: 90
-    religion: chalcedonism
-    culture: anglo_saxon
-    tag: KENT
-  866.1.1:
-    death: yes
-kent_aethelred_i_cantie:
-  836.1.1:
-    birth: canterbury #TODO: Date and location guessed, check if better data is available
-    first_name: aethelred
-    dynasty: cantie_dynasty
-    adm: 75
-    dip: 45
-    mil: 60
-    religion: chalcedonism
-    culture: anglo_saxon
-    tag: KENT
-  3000.1.1:
+  825:
     death: yes

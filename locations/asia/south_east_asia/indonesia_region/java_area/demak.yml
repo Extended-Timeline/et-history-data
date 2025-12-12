@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/4792 - Kendal.txt
 2.1.1:
-  pop:
-    - ethnicity: javanese_culture
-      religion: hindu
+  pops:
+    - religion: hindu
       estate: peasant
       size: 1000
 530.1.1:
@@ -53,9 +52,8 @@
   cores:
     MAJ: no
     DEMA: yes
-  pop:
-    - religion: sunni
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1587.1.1:
   owner: MATA
@@ -69,9 +67,8 @@
   cores:
     NED: yes
 1840.1.1:
-  pop:
-    - religion: sunni
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1912.9.10:
   cores:

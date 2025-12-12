@@ -5,9 +5,8 @@
   cores:
     OKJE: yes
   resource: fish
-  pop:
-    - ethnicity: korean_culture
-      religion: muism
+  pops:
+    - religion: muism
       estate: peasant
       size: 1000
 56.1.1:
@@ -16,9 +15,8 @@
   cores:
     GOGU: yes
 372.1.1:
-  pop:
-    - religion: mahayana
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 555.1.1:
   owner: SILL
@@ -71,9 +69,8 @@
   cores:
     GORY: no
     KOR: yes
-  pop:
-    - religion: sanjiao
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1592.7.18:
   controller: TOYO
@@ -112,12 +109,10 @@
     NKOR: yes
     SKOR: yes
 1955.1.1:
-  pop:
-    - religion: muism
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1970.1.1:
-  pop:
-    - religion: irreligious
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000

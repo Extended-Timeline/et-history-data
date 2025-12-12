@@ -5,9 +5,8 @@
   cores:
     VEND: yes
   resource: wool
-  pop:
-    - ethnicity: lesser_polish
-      religion: slavic
+  pops:
+    - religion: slavic
       estate: peasant
       size: 1000
 150.1.1:
@@ -16,9 +15,8 @@
   cores:
     VEND: no
     GOTH: yes
-  pop:
-    - ethnicity: gothic
-      religion: germanic
+  pops:
+    - religion: germanic
       estate: peasant
       size: 1000
 220.1.1:
@@ -27,9 +25,8 @@
   cores:
     GOTH: no
     VEND: yes
-  pop:
-    - ethnicity: lesser_polish
-      religion: slavic
+  pops:
+    - religion: slavic
       estate: peasant
       size: 1000
 550.1.1:
@@ -66,9 +63,8 @@
   cores:
     KIEV: yes
 1050.1.1:
-  pop:
-    - religion: catholic
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1054.2.20:
   owner: HAL
@@ -88,9 +84,8 @@
   cores:
     PLC: yes
 1570.1.1:
-  pop:
-    - religion: catholic
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1657.7.1:
   controller: SWE

@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/906 - Lakota.txt
 2.1.1:
-  pop:
-    - ethnicity: nakoda_culture
-      religion: iroquoian_totemism
+  pops:
+    - religion: iroquoian_totemism
       estate: peasant
       size: 1000
 1760.1.1:
@@ -10,18 +9,16 @@
   controller: SIOU
   cores:
     SIOU: yes
-  pop:
-    - ethnicity: ithanktunwan_culture
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1808.1.1:
   owner: GBR
   controller: GBR
   cores:
     GBR: yes
-  pop:
-    - ethnicity: english
-      religion: lutheran
+  pops:
+    - religion: lutheran
       estate: peasant
       size: 1000
 1818.10.20:
@@ -30,7 +27,6 @@
   cores:
     GBR: no
     USA: yes
-  pop:
-    - ethnicity: american
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000

@@ -5,9 +5,8 @@
   cores:
     BRIG: yes
   resource: wool
-  pop:
-    - ethnicity: cumbric
-      religion: druidism
+  pops:
+    - religion: druidism
       estate: peasant
       size: 1000
 71.1.1:
@@ -34,23 +33,20 @@
     BRIG: no
     RHEG: yes
 630.1.1:
-  pop:
-    - religion: chalcedonism
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 720.1.1:
   owner: NOL
   controller: NOL
   cores:
     NOL: yes
-  pop:
-    - ethnicity: anglo_saxon
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 867.1.1:
-  pop:
-    - religion: catholic
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 918.1.1:
   owner: MNN
@@ -72,9 +68,8 @@
   cores:
     NOL: no
 1066.12.25:
-  pop:
-    - ethnicity: english
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1351.3.6: # creation of the Palatine of Lancaster
   owner: LANC
@@ -105,7 +100,6 @@
     ENG: no
     GBR: yes
 1860.1.1:
-  pop:
-    - religion: anglican
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000

@@ -1,9 +1,8 @@
 #imported from EU4 file: history/provinces/2370 - Kungirot.txt
 2.1.1:
   resource: livestock
-  pop:
-    - ethnicity: turkmen_culture
-      religion: 
+  pops:
+    - religion: 
       estate: peasant
       size: 1000
 593.1.1:
@@ -18,9 +17,8 @@
     WGOK: no
     OGHU: yes
 1050.1.1:
-  pop:
-    - religion: sunni
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1153.1.1:
   owner: KHWA
@@ -34,9 +32,8 @@
   cores:
     KHWA: no
     MGE: yes
-  pop:
-    - ethnicity: nogai
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1260.1.1:
   owner: BLHO
@@ -56,9 +53,8 @@
   cores:
     NOGA: no
     KAZA: yes
-  pop:
-    - ethnicity: khazak
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1670.1.1:
   owner: KHIV

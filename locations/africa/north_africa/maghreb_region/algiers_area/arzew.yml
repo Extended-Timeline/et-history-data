@@ -5,9 +5,8 @@
   cores:
     MAUT: yes
   resource: cloth
-  pop:
-    - ethnicity: zenati
-      religion: bantu_religion
+  pops:
+    - religion: bantu_religion
       estate: peasant
       size: 1000
 40.1.1:
@@ -16,9 +15,8 @@
   cores:
     ROM: yes
 360.1.1:
-  pop:
-    - religion: chalcedonism
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 395.1.17:
   owner: ROMW
@@ -44,14 +42,12 @@
   cores:
     UMAY: yes
 725.1.1:
-  pop:
-    - religion: sunni
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 739.1.1:
-  pop:
-    - religion: ibadi
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 743.1.1:
   owner: TLE
@@ -65,14 +61,12 @@
   cores:
     TLE: no
     MZB: yes
-  pop:
-    - religion: ibadi
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 790.1.1:
-  pop:
-    - ethnicity: algerian
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 909.1.1:
   owner: FATI
@@ -81,9 +75,8 @@
     MZB: no
     FATI: yes
 920.1.1:
-  pop:
-    - religion: shia
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 973.1.1:
   owner: TUN
@@ -98,9 +91,8 @@
     TUN: no
     KABY: yes
 1060.1.1:
-  pop:
-    - religion: sunni
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1070.1.1:
   owner: MOR

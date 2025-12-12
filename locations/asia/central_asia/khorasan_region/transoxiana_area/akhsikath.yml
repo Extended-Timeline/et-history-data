@@ -5,9 +5,8 @@
   cores:
     KAGJ: yes
   resource: iron
-  pop:
-    - ethnicity: sogdian
-      religion: zoroastrian
+  pops:
+    - religion: zoroastrian
       estate: peasant
       size: 1000
 260.1.1:
@@ -46,9 +45,8 @@
   cores:
     TURG: yes
 750.1.1:
-  pop:
-    - ethnicity: uzbek_culture
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 766.1.1:
   owner: KARL
@@ -63,9 +61,8 @@
     KARL: no
     KOKA: yes
 820.1.1:
-  pop:
-    - religion: sunni
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 892.8.1:
   owner: BUKH

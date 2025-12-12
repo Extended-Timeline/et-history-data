@@ -5,9 +5,8 @@
   cores:
     VARI: yes
   resource: salt
-  pop:
-    - ethnicity: swabian
-      religion: germanic
+  pops:
+    - religion: germanic
       estate: peasant
       size: 1000
 400.1.1:
@@ -17,9 +16,8 @@
     VARI: no
     ALEM: yes
 600.1.1:
-  pop:
-    - religion: chalcedonism
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 746.1.1:
   owner: FRAN
@@ -33,9 +31,8 @@
     FRAN: no
     EFRA: yes
 867.1.1:
-  pop:
-    - religion: catholic
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 911.11.10:
   owner: SWA
@@ -63,9 +60,8 @@
     OET: no
     ANS: yes
 1522.1.1:
-  pop:
-    - religion: lutheran
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1791.12.2:
   owner: PRU

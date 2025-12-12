@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/4200 - Hulan.txt
 2.1.1:
-  pop:
-    - ethnicity: jurchen_culture
-      religion: 
+  pops:
+    - religion: 
       estate: peasant
       size: 1000
 410.1.1:
@@ -64,9 +63,8 @@
     MCH: no
     QNG: yes
 1880.1.1:
-  pop:
-    - ethnicity: manchu_new
-      religion: sanjiao
+  pops:
+    - religion: sanjiao
       estate: peasant
       size: 1000
 1912.2.12:

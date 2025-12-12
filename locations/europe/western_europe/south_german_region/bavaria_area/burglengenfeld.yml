@@ -5,9 +5,8 @@
   cores:
     MARC: yes
   resource: iron
-  pop:
-    - ethnicity: southern_bavarian
-      religion: germanic
+  pops:
+    - religion: germanic
       estate: peasant
       size: 1000
 72.1.1:
@@ -16,9 +15,8 @@
   cores:
     MARC: no
     VARI: yes
-  pop:
-    - ethnicity: swabian
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 395.1.1:
   owner: VAND
@@ -26,9 +24,8 @@
   cores:
     VARI: no
     VAND: yes
-  pop:
-    - ethnicity: vandal
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 417.1.1:
   owner: BAV
@@ -36,9 +33,8 @@
   cores:
     VAND: no
     BAV: yes
-  pop:
-    - ethnicity: southern_bavarian
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 451.1.1:
   owner: THU
@@ -46,9 +42,8 @@
   cores:
     THU: yes
 739.1.1:
-  pop:
-    - religion: chalcedonism
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 774.1.1:
   owner: FRAN
@@ -62,9 +57,8 @@
     FRAN: no
     BAV: yes
 867.1.1:
-  pop:
-    - religion: catholic
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 880.3.22:
   owner: EFRA

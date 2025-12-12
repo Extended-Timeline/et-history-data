@@ -5,9 +5,8 @@
   cores:
     MSG: yes
   resource: fur
-  pop:
-    - ethnicity: ojibwe_culture
-      religion: iroquoian_totemism
+  pops:
+    - religion: iroquoian_totemism
       estate: peasant
       size: 1000
 1855.1.1:
@@ -15,9 +14,8 @@
   controller: GBR
   cores:
     GBR: yes
-  pop:
-    - ethnicity: british_canadian
-      religion: lutheran
+  pops:
+    - religion: lutheran
       estate: peasant
       size: 1000
 1867.7.1:

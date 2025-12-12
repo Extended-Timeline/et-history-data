@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/2701 - Tagloc.txt
 2.1.1:
-  pop:
-    - ethnicity: cebuano_culture
-      religion: bimoism
+  pops:
+    - religion: bimoism
       estate: peasant
       size: 1000
 1450.1.1:
-  pop:
-    - religion: sunni
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1848.6.29:
   owner: SPA
@@ -20,9 +18,8 @@
   cores:
     PHIL: yes
 1890.1.1:
-  pop:
-    - religion: catholic
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1898.8.12:
   owner: USA

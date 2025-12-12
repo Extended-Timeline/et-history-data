@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/804 - Puno.txt
 2.1.1:
-  pop:
-    - ethnicity: aimara_culture
-      religion: inti
+  pops:
+    - religion: inti
       estate: peasant
       size: 1000
 375.1.1:
@@ -32,9 +31,8 @@
   controller: SPA
   cores:
     SPA: yes
-  pop:
-    - religion: catholic
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1558.8.29:
   cores:

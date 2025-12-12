@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/4243 - Toropets.txt
 2.1.1:
-  pop:
-    - ethnicity: polatskian_culture
-      religion: slavic
+  pops:
+    - religion: slavic
       estate: peasant
       size: 1000
 550.1.1:
@@ -24,9 +23,8 @@
     NOV: no
     KIEV: yes
 1000.1.1:
-  pop:
-    - religion: orthodox
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1054.2.20:
   owner: SMO
@@ -65,9 +63,8 @@
     LIT: no
     PLC: no
 1700.1.1:
-  pop:
-    - ethnicity: muscovite
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1812.8.17:
   controller: FRA

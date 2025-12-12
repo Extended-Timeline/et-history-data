@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/2017 - Nehiyawewin.txt
 2.1.1:
-  pop:
-    - ethnicity: mahmikiwini_culture
-      religion: iroquoian_totemism
+  pops:
+    - religion: iroquoian_totemism
       estate: peasant
       size: 1000
 1795.1.1:
@@ -11,9 +10,8 @@
   cores:
     GBR: yes
   resource: fur
-  pop:
-    - ethnicity: british_canadian
-      religion: lutheran
+  pops:
+    - religion: lutheran
       estate: peasant
       size: 1000
 1850.1.1:

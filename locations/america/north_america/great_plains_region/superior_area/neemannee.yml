@@ -5,26 +5,23 @@
   cores:
     CHEY: yes
   resource: fur
-  pop:
-    - ethnicity: tsetsehesahese_culture
-      religion: iroquoian_totemism
+  pops:
+    - religion: iroquoian_totemism
       estate: peasant
       size: 1000
 1690.1.1:
   cores:
     ???: yes
-  pop:
-    - ethnicity: asinikawithini_culture
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1808.1.1:
   owner: GBR
   controller: GBR
   cores:
     GBR: yes
-  pop:
-    - ethnicity: english
-      religion: lutheran
+  pops:
+    - religion: lutheran
       estate: peasant
       size: 1000
 1813.10.5:
@@ -33,8 +30,7 @@
   cores:
     GBR: no
     USA: yes
-  pop:
-    - ethnicity: american
-      religion: lutheran
+  pops:
+    - religion: lutheran
       estate: peasant
       size: 1000

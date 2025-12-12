@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/3234 - Ituri.txt
 2.1.1:
-  pop:
-    - ethnicity: mongo
-      religion: bantu_religion
+  pops:
+    - religion: bantu_religion
       estate: peasant
       size: 1000
 1886.1.1:
@@ -11,9 +10,8 @@
   cores:
     BEL: yes
   resource: grain
-  pop:
-    - religion: catholic
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1960.7.1:
   owner: DRCO

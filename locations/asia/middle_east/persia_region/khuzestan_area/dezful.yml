@@ -5,9 +5,8 @@
   cores:
     ELYM: yes
   resource: silk
-  pop:
-    - ethnicity: khuzi
-      religion: zoroastrian
+  pops:
+    - religion: zoroastrian
       estate: peasant
       size: 1000
 224.4.24:
@@ -27,9 +26,8 @@
   cores:
     RASH: no
     UMAY: yes
-  pop:
-    - religion: shia
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 750.8.6:
   owner: ABBA
@@ -38,9 +36,8 @@
     UMAY: no
     ABBA: yes
 900.1.1:
-  pop:
-    - ethnicity: lur_culture
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 940.1.1:
   owner: IRAQ

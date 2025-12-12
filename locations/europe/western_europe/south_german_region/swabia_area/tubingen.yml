@@ -5,9 +5,8 @@
   cores:
     ALEM: yes
   resource: grain
-  pop:
-    - ethnicity: swabian
-      religion: germanic
+  pops:
+    - religion: germanic
       estate: peasant
       size: 1000
 75.1.1:
@@ -21,9 +20,8 @@
   cores:
     ROM: no
 600.1.1:
-  pop:
-    - religion: chalcedonism
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 746.1.1:
   owner: FRAN
@@ -37,9 +35,8 @@
     FRAN: no
     EFRA: yes
 867.1.1:
-  pop:
-    - religion: catholic
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 911.11.10:
   owner: SWA
@@ -62,9 +59,8 @@
 1534.1.1:
   owner: WUR
   controller: WUR
-  pop:
-    - religion: lutheran
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1850.1.1:
   cores:

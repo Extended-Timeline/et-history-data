@@ -5,15 +5,13 @@
   cores:
     MLB: yes
   resource: cloth
-  pop:
-    - ethnicity: zo_culture
-      religion: sanamahism
+  pops:
+    - religion: sanamahism
       estate: peasant
       size: 1000
 1732.1.1:
-  pop:
-    - religion: hindu
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1758.1.1:
   owner: BURM

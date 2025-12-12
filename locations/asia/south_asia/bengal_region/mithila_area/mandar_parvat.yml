@@ -5,9 +5,8 @@
   cores:
     MAGA: yes
   resource: silk
-  pop:
-    - ethnicity: magahi
-      religion: hindu
+  pops:
+    - religion: hindu
       estate: peasant
       size: 1000
 320.1.1:
@@ -33,9 +32,8 @@
     GUPT: no
     KANN: yes
 740.1.1:
-  pop:
-    - religion: mahayana
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 750.1.1:
   owner: PALA
@@ -44,9 +42,8 @@
     KANN: no
     PALA: yes
 1170.1.1:
-  pop:
-    - religion: hindu
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1174.1.1:
   owner: GAUD

@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/2256 - Dagbon.txt
 2.1.1:
-  pop:
-    - ethnicity: dagbani
-      religion: bantu_religion
+  pops:
+    - religion: bantu_religion
       estate: peasant
       size: 1000
 1250.1.1:
@@ -12,9 +11,8 @@
     DGB: yes
   resource: dyes
 1799.1.1:
-  pop:
-    - religion: sunni
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1899.11.14:
   owner: GBR

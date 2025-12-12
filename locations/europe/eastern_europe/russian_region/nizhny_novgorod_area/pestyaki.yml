@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/306 - Nijni-Novgorod.txt
 2.1.1:
-  pop:
-    - ethnicity: mari_culture
-      religion: muinaisusko
+  pops:
+    - religion: muinaisusko
       estate: peasant
       size: 1000
 600.1.1:
@@ -18,14 +17,12 @@
     MARI: no
     VLR: yes
 1100.1.1:
-  pop:
-    - ethnicity: muscovite
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1200.1.1:
-  pop:
-    - religion: orthodox
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1238.3.4:
   owner: MGE

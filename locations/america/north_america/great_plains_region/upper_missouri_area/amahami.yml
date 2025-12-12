@@ -5,9 +5,8 @@
   cores:
     ARAP: yes
   resource: fur
-  pop:
-    - ethnicity: hinonoeino_culture
-      religion: iroquoian_totemism
+  pops:
+    - religion: iroquoian_totemism
       estate: peasant
       size: 1000
 1760.1.1:
@@ -15,17 +14,15 @@
   controller: ASSI
   cores:
     ASSI: yes
-  pop:
-    - ethnicity: nakoda_culture
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1887.1.1:
   owner: USA
   controller: USA
   cores:
     USA: yes
-  pop:
-    - ethnicity: american
-      religion: lutheran
+  pops:
+    - religion: lutheran
       estate: peasant
       size: 1000

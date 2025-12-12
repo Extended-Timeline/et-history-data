@@ -5,9 +5,8 @@
   cores:
     YARL: yes
   resource: incense
-  pop:
-    - ethnicity: utsang_culture
-      religion: bon
+  pops:
+    - religion: bon
       estate: peasant
       size: 1000
 618.1.1:
@@ -17,9 +16,8 @@
     YARL: no
     TIB: yes
 630.1.1:
-  pop:
-    - religion: tibetan_buddhism
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 842.1.1:
   owner: UTSA

@@ -5,9 +5,8 @@
   cores:
     PONG: yes
   resource: gems
-  pop:
-    - ethnicity: tai_lu_culture
-      religion: satsana_phi
+  pops:
+    - religion: satsana_phi
       estate: peasant
       size: 1000
 820.1.1:
@@ -22,14 +21,12 @@
     NANZ: no
     CDL: yes
 950.1.1:
-  pop:
-    - ethnicity: kado_culture
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1120.1.1:
-  pop:
-    - religion: theravada
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1215.1.1:
   owner: MKA

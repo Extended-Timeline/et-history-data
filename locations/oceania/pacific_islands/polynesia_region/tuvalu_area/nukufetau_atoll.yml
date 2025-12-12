@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/1990 - Tuvalu.txt
 2.1.1:
-  pop:
-    - ethnicity: maohi_culture
-      religion: bimoism
+  pops:
+    - religion: bimoism
       estate: peasant
       size: 1000
 1892.1.1:
@@ -11,9 +10,8 @@
   cores:
     GBR: yes
   resource: fish
-  pop:
-    - religion: calvinist
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1978.10.1:
   owner: TUVL

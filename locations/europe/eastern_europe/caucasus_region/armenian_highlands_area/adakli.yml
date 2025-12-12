@@ -5,9 +5,8 @@
   cores:
     ARM: yes
   resource: wool
-  pop:
-    - ethnicity: armenian_culture
-      religion: armenian_religion
+  pops:
+    - religion: armenian_religion
       estate: peasant
       size: 1000
 114.1.1:
@@ -21,9 +20,8 @@
   cores:
     ROM: no
 360.1.1:
-  pop:
-    - religion: chalcedonism
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 428.1.1:
   owner: BYZ
@@ -31,9 +29,8 @@
   cores:
     BYZ: yes
 451.11.1:
-  pop:
-    - religion: miaphysite
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 613.1.1:
   controller: ERA
@@ -162,9 +159,8 @@
   cores:
     IRA: no
 1915.4.1:
-  pop:
-    - ethnicity: kurdish_culture
-      religion: sunni
+  pops:
+    - religion: sunni
       estate: peasant
       size: 1000
 1920.4.24:

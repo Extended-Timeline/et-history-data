@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/312 - Vologda.txt
 2.1.1:
-  pop:
-    - ethnicity: vepsian
-      religion: muinaisusko
+  pops:
+    - religion: muinaisusko
       estate: peasant
       size: 1000
 750.1.1:
@@ -18,9 +17,8 @@
     VEPS: no
     VLR: yes
 1200.1.1:
-  pop:
-    - ethnicity: novgorodian
-      religion: orthodox
+  pops:
+    - religion: orthodox
       estate: peasant
       size: 1000
 1238.1.1:

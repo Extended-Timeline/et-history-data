@@ -5,9 +5,8 @@
   cores:
     HERM: yes
   resource: livestock
-  pop:
-    - ethnicity: east_franconian
-      religion: germanic
+  pops:
+    - religion: germanic
       estate: peasant
       size: 1000
 395.1.1:
@@ -16,9 +15,8 @@
   cores:
     HERM: no
     BUR: yes
-  pop:
-    - ethnicity: burgundione
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 420.1.1:
   owner: THU
@@ -26,14 +24,12 @@
   cores:
     BUR: no
     THU: yes
-  pop:
-    - ethnicity: east_franconian
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 470.1.1:
-  pop:
-    - religion: chalcedonism
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 531.1.1:
   owner: ASTS
@@ -87,9 +83,8 @@
   cores:
     THU: yes
 867.1.1:
-  pop:
-    - religion: catholic
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 908.8.3:
   owner: EFRA
@@ -104,9 +99,8 @@
     EFRA: no
     FKN: yes
 965.5.20:
-  pop:
-    - ethnicity: saxon
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1031.1.1:
   owner: THU
@@ -114,9 +108,8 @@
   cores:
     FKN: no
 1531.1.1:
-  pop:
-    - religion: lutheran
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1871.1.18:
   owner: GER

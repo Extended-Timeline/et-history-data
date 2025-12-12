@@ -5,9 +5,8 @@
   cores:
     GOTI: yes
   resource: gold
-  pop:
-    - ethnicity: pannonian
-      religion: druidism
+  pops:
+    - religion: druidism
       estate: peasant
       size: 1000
 395.1.1:
@@ -16,9 +15,8 @@
   cores:
     GOTI: no
     QUAD: yes
-  pop:
-    - ethnicity: quadian
-      religion: germanic
+  pops:
+    - religion: germanic
       estate: peasant
       size: 1000
 454.1.1:
@@ -27,9 +25,8 @@
   cores:
     QUAD: no
     MARC: yes
-  pop:
-    - ethnicity: southern_bavarian
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 500.1.1:
   owner: LOMB
@@ -37,9 +34,8 @@
   cores:
     MARC: no
     LOMB: yes
-  pop:
-    - ethnicity: langobardi
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 568.1.1:
   owner: AVR
@@ -47,14 +43,12 @@
   cores:
     HERU: no
     AVR: yes
-  pop:
-    - religion: 
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 580.1.1:
-  pop:
-    - ethnicity: slovak
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 623.1.1:
   owner: SAMO
@@ -86,9 +80,8 @@
   cores:
     HUN: yes
 950.1.1:
-  pop:
-    - religion: catholic
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1001.1.1:
   owner: POL
@@ -111,9 +104,8 @@
     HAB: yes
 1606.1.1:
   controller: HAB
-  pop:
-    - religion: calvinist
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1626.1.1:
   controller: HAB

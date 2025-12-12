@@ -5,9 +5,8 @@
   cores:
     FUNA: yes
   resource: iron
-  pop:
-    - ethnicity: khmer_culture
-      religion: hindu
+  pops:
+    - religion: hindu
       estate: peasant
       size: 1000
 550.1.1:
@@ -17,9 +16,8 @@
     FUNA: no
     CHEN: yes
 600.1.1:
-  pop:
-    - religion: mahayana
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 802.1.1:
   owner: CAMB
@@ -28,9 +26,8 @@
     CHEN: no
     CAMB: yes
 1295.1.1:
-  pop:
-    - religion: theravada
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1431.1.1:
   owner: KHM

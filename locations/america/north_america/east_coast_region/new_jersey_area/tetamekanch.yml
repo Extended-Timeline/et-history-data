@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/962 - Unami.txt
 2.1.1:
-  pop:
-    - ethnicity: unami_culture
-      religion: iroquoian_totemism
+  pops:
+    - religion: iroquoian_totemism
       estate: peasant
       size: 1000
 1643.1.1:
@@ -11,9 +10,8 @@
   cores:
     SWE: yes
   resource: tobacco
-  pop:
-    - ethnicity: swedish
-      religion: lutheran
+  pops:
+    - religion: lutheran
       estate: peasant
       size: 1000
 1655.9.15:
@@ -22,9 +20,8 @@
   cores:
     SWE: no
     NED: yes
-  pop:
-    - ethnicity: low_franconian
-      religion: calvinist
+  pops:
+    - religion: calvinist
       estate: peasant
       size: 1000
 1665.6.1:
@@ -34,9 +31,8 @@
   cores:
     NED: no
     ENG: yes
-  pop:
-    - ethnicity: english
-      religion: lutheran
+  pops:
+    - religion: lutheran
       estate: peasant
       size: 1000
 1707.5.12:
@@ -46,9 +42,8 @@
     ENG: no
     GBR: yes
 1764.7.1:
-  pop:
-    - ethnicity: american
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1776.7.4:
   owner: USA
@@ -59,7 +54,6 @@
   cores:
     GBR: no
 1895.1.1:
-  pop:
-    - religion: catholic
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000

@@ -5,9 +5,8 @@
   cores:
     ADUL: yes
   resource: gems
-  pop:
-    - ethnicity: tigrinya
-      religion: south_arabian
+  pops:
+    - religion: south_arabian
       estate: peasant
       size: 1000
 60.1.1:
@@ -16,14 +15,12 @@
   cores:
     AKSM: yes
 400.1.1:
-  pop:
-    - religion: chalcedonism
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 451.11.1:
-  pop:
-    - religion: miaphysite
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 702.1.1:
   owner: UMAY
@@ -52,9 +49,8 @@
   cores:
     EGY: yes
 1840.1.1:
-  pop:
-    - religion: sunni
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1890.1.1:
   owner: ITA

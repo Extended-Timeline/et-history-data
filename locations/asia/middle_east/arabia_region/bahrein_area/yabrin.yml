@@ -1,9 +1,8 @@
 #imported from EU4 file: history/provinces/2339 - Yabrin.txt
 2.1.1:
   resource: grain
-  pop:
-    - ethnicity: najdi_culture
-      religion: south_arabian
+  pops:
+    - religion: south_arabian
       estate: peasant
       size: 1000
 425.1.1:
@@ -13,9 +12,8 @@
     KIND: yes
   resource: grain
 490.1.1:
-  pop:
-    - religion: judaism
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 540.1.1:
   owner: NAJD
@@ -28,9 +26,8 @@
   controller: RASH
   cores:
     RASH: yes
-  pop:
-    - religion: islam
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 661.7.28:
   owner: UMAY
@@ -38,9 +35,8 @@
   cores:
     RASH: no
     UMAY: yes
-  pop:
-    - religion: sunni
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 750.8.6:
   owner: ABBA
@@ -49,9 +45,8 @@
     UMAY: no
     ABBA: yes
 755.1.1:
-  pop:
-    - religion: shia
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 867.1.1:
   owner: NAJD
@@ -60,9 +55,8 @@
     ABBA: no
     NAJD: yes
 1050.1.1:
-  pop:
-    - religion: sunni
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1060.1.1:
   owner: DWS

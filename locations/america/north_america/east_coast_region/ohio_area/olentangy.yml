@@ -1,23 +1,20 @@
 #imported from EU4 file: history/provinces/4907 - Mosopelea.txt
 2.1.1:
-  pop:
-    - ethnicity: osage_culture
-      religion: iroquoian_totemism
+  pops:
+    - religion: iroquoian_totemism
       estate: peasant
       size: 1000
 1670.1.1:
-  pop:
-    - ethnicity: chalahgawtha_culture
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1803.3.1:
   owner: USA
   controller: USA
   cores:
     USA: yes
-  pop:
-    - ethnicity: american
-      religion: lutheran
+  pops:
+    - religion: lutheran
       estate: peasant
       size: 1000
 1920.1.1:

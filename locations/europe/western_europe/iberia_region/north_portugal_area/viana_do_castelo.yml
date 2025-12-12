@@ -5,9 +5,8 @@
   cores:
     ROM: yes
   resource: wine
-  pop:
-    - ethnicity: gallaecian
-      religion: druidism
+  pops:
+    - religion: druidism
       estate: peasant
       size: 1000
 395.1.17:
@@ -17,9 +16,8 @@
     ROM: no
     ROMW: yes
 400.1.1:
-  pop:
-    - religion: arianism
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 409.6.1:
   owner: SUEB
@@ -27,17 +25,15 @@
   cores:
     SUEB: yes
 410.1.1:
-  pop:
-    - ethnicity: swabian
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 450.1.1:
   cores:
     ROMW: no
 560.1.1:
-  pop:
-    - religion: chalcedonism
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 584.1.1:
   owner: VISG
@@ -46,9 +42,8 @@
     SUEB: no
     VISG: yes
 590.1.1:
-  pop:
-    - ethnicity: gallaecian
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 711.1.1:
   owner: UMAY
@@ -56,9 +51,8 @@
   cores:
     VISG: no
     UMAY: yes
-  pop:
-    - ethnicity: galician
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 750.8.6:
   owner: CRDB
@@ -67,9 +61,8 @@
     UMAY: no
     CRDB: yes
 867.1.1:
-  pop:
-    - religion: catholic
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 868.1.1:
   owner: ASTU
@@ -77,9 +70,8 @@
   cores:
     CRDB: no
     ASTU: yes
-  pop:
-    - ethnicity: portuguese
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 910.12.10:
   owner: GLC

@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/611 - Thakhek.txt
 2.1.1:
-  pop:
-    - ethnicity: bru_culture
-      religion: bimoism
+  pops:
+    - religion: bimoism
       estate: peasant
       size: 1000
 550.1.1:
@@ -17,9 +16,8 @@
   cores:
     CAMB: yes
 950.1.1:
-  pop:
-    - ethnicity: lao_culture
-      religion: satsana_phi
+  pops:
+    - religion: satsana_phi
       estate: peasant
       size: 1000
 1050.1.1:
@@ -45,9 +43,8 @@
   cores:
     LAXA: yes
 1510.1.1:
-  pop:
-    - religion: theravada
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1707.1.1:
   owner: VTN

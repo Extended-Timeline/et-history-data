@@ -5,9 +5,8 @@
   cores:
     AKSM: yes
   resource: grain
-  pop:
-    - ethnicity: amhara
-      religion: judaism
+  pops:
+    - religion: judaism
       estate: peasant
       size: 1000
 325.1.1:
@@ -33,7 +32,6 @@
   owner: ETH
   controller: ETH
 1991.1.1:
-  pop:
-    - religion: miaphysite
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000

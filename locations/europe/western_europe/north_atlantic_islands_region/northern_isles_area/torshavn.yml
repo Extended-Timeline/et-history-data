@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/1979 - Faroes.txt
 2.1.1:
-  pop:
-    - ethnicity: uninhabited
-      religion: norse
+  pops:
+    - religion: norse
       estate: peasant
       size: 1000
 400.1.1:
-  pop:
-    - ethnicity: norwegian
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 800.1.1:
   owner: VEST
@@ -23,21 +21,18 @@
     VEST: no
     NOR: yes
 900.1.1:
-  pop:
-    - ethnicity: icelandic
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1060.1.1:
-  pop:
-    - religion: catholic
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1536.1.1:
   owner: DAN
   controller: DAN
   cores:
     DAN: yes
-  pop:
-    - religion: lutheran
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000

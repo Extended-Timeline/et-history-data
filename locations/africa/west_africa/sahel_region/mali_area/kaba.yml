@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/1124 - Joma.txt
 2.1.1:
-  pop:
-    - ethnicity: mandinka
-      religion: bantu_religion
+  pops:
+    - religion: bantu_religion
       estate: peasant
       size: 1000
 800.1.1:
@@ -18,9 +17,8 @@
     KAGB: no
     MAL: yes
 1420.1.1:
-  pop:
-    - religion: sunni
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1650.1.1:
   resource: ivory
@@ -30,9 +28,8 @@
   cores:
     SEGU: yes
 1700.1.1:
-  pop:
-    - ethnicity: bambara
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1725.1.1:
   controller: SEGU

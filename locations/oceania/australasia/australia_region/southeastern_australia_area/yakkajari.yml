@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/4861 - Waveroo.txt
 2.1.1:
-  pop:
-    - ethnicity: jardwadjali_culture
-      religion: dreamtime_religion
+  pops:
+    - religion: dreamtime_religion
       estate: peasant
       size: 1000
 1836.1.1:
@@ -11,15 +10,13 @@
   cores:
     GBR: yes
   resource: wine
-  pop:
-    - ethnicity: english
-      religion: lutheran
+  pops:
+    - religion: lutheran
       estate: peasant
       size: 1000
 1860.1.1:
-  pop:
-    - ethnicity: british_australian
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1901.1.1:
   owner: AUST

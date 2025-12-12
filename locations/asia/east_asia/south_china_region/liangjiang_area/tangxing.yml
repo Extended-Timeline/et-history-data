@@ -5,9 +5,8 @@
   cores:
     SHYU: yes
   resource: tea
-  pop:
-    - ethnicity: zhuang_culture
-      religion: bimoism
+  pops:
+    - religion: bimoism
       estate: peasant
       size: 1000
 110.1.1:
@@ -73,9 +72,8 @@
   cores:
     TANG: yes
 750.1.1:
-  pop:
-    - religion: sanjiao
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 907.6.1:
   owner: DAI

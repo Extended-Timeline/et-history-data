@@ -5,15 +5,13 @@
   cores:
     LWA: yes
   resource: wool
-  pop:
-    - ethnicity: newar_culture
-      religion: mahayana
+  pops:
+    - religion: mahayana
       estate: peasant
       size: 1000
 640.1.1:
-  pop:
-    - religion: tibetan_buddhism
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1609.1.1:
   owner: SKK
@@ -31,7 +29,6 @@
   cores:
     NPL: yes
 1800.1.1:
-  pop:
-    - religion: hindu
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000

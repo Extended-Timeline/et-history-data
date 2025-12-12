@@ -5,9 +5,8 @@
   cores:
     SABA: yes
   resource: coffee
-  pop:
-    - ethnicity: yemeni_culture
-      religion: south_arabian
+  pops:
+    - religion: south_arabian
       estate: peasant
       size: 1000
 275.1.1:
@@ -17,9 +16,8 @@
     SABA: no
     HIMY: yes
 500.1.1:
-  pop:
-    - religion: judaism
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 525.1.1:
   owner: AKSM
@@ -44,9 +42,8 @@
   controller: RASH
   cores:
     RASH: yes
-  pop:
-    - religion: islam
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 661.7.28:
   owner: UMAY
@@ -54,9 +51,8 @@
   cores:
     RASH: no
     UMAY: yes
-  pop:
-    - religion: sunni
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 750.8.6:
   owner: ABBA
@@ -65,9 +61,8 @@
     UMAY: no
     ABBA: yes
 800.1.1:
-  pop:
-    - religion: shia
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 847.1.1:
   owner: SANA

@@ -5,9 +5,8 @@
   cores:
     NABA: yes
   resource: livestock
-  pop:
-    - ethnicity: nabataean_culture
-      religion: nabataean
+  pops:
+    - religion: nabataean
       estate: peasant
       size: 1000
 106.6.1:
@@ -17,29 +16,25 @@
     NABA: no
     ROM: yes
 260.1.1:
-  pop:
-    - religion: hellenism_religion
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 269.1.1:
   cores:
     PALM: yes
-  pop:
-    - ethnicity: syriac_culture
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 272.1.1:
   controller: ROM
   cores:
     PALM: no
-  pop:
-    - ethnicity: najdi_culture
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 280.1.1:
-  pop:
-    - religion: chalcedonism
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 395.1.17:
   owner: BYZ
@@ -64,9 +59,8 @@
     RASH: no
     UMAY: yes
 680.1.1:
-  pop:
-    - religion: sunni
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 750.8.6:
   owner: ABBA

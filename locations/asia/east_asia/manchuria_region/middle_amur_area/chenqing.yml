@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/727 - Aigun.txt
 2.1.1:
-  pop:
-    - ethnicity: jurchen_culture
-      religion: 
+  pops:
+    - religion: 
       estate: peasant
       size: 1000
 1206.1.1:
@@ -11,9 +10,8 @@
   cores:
     MGE: yes
   resource: fur
-  pop:
-    - religion: 
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1271.1.1:
   owner: YUA
@@ -38,9 +36,8 @@
   cores:
     JIAZ: no
     MCH: yes
-  pop:
-    - ethnicity: manchu_new
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1636.5.15:
   owner: QNG
@@ -55,9 +52,8 @@
     QNG: no
     CHI: yes
 1920.1.1:
-  pop:
-    - religion: sanjiao
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1924.11.3:
   controller: CHI

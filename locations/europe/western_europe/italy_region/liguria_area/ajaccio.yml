@@ -5,9 +5,8 @@
   cores:
     ROM: yes
   resource: naval_supplies
-  pop:
-    - ethnicity: etruscan
-      religion: bimoism
+  pops:
+    - religion: bimoism
       estate: peasant
       size: 1000
 395.1.17:
@@ -17,9 +16,8 @@
     ROM: no
     ROMW: yes
 410.1.1:
-  pop:
-    - ethnicity: tuscan
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 476.9.4:
   owner: VAND
@@ -42,9 +40,8 @@
     OSTR: no
     BYZ: yes
 580.1.1:
-  pop:
-    - religion: chalcedonism
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 725.1.1:
   owner: LOMB
@@ -71,9 +68,8 @@
     LOMB: no
     ITA: yes
 867.1.1:
-  pop:
-    - religion: catholic
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 962.2.2:
   owner: COR

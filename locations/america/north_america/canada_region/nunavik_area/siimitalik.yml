@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/998 - Ungava.txt
 2.1.1:
-  pop:
-    - ethnicity: inuit_culture
-      religion: mari_paganism
+  pops:
+    - religion: mari_paganism
       estate: peasant
       size: 1000
 1830.1.1:
@@ -11,9 +10,8 @@
   cores:
     GBR: yes
   resource: fur
-  pop:
-    - religion: lutheran
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1870.7.15:
   owner: CAN

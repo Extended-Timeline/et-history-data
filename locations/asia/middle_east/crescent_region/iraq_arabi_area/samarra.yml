@@ -5,9 +5,8 @@
   cores:
     PART: yes
   resource: livestock
-  pop:
-    - ethnicity: assyrian
-      religion: zoroastrian
+  pops:
+    - religion: zoroastrian
       estate: peasant
       size: 1000
 116.1.1:
@@ -31,9 +30,8 @@
     PART: no
     ERA: yes
 440.1.1:
-  pop:
-    - religion: nestorianism
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 637.1.1:
   owner: RASH
@@ -118,9 +116,8 @@
 1380.1.1:
   cores:
     TIM: yes
-  pop:
-    - ethnicity: iraqi_culture
-      religion: sunni
+  pops:
+    - religion: sunni
       estate: peasant
       size: 1000
 1405.1.1:
@@ -166,9 +163,8 @@
 2013.4.8:
   cores:
     ISIS: yes
-  pop:
-    - religion: sunni
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 2015.3.31:
   controller: IRAQ

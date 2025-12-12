@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/1004 - Attawapiskat.txt
 2.1.1:
-  pop:
-    - ethnicity: ilili_culture
-      religion: iroquoian_totemism
+  pops:
+    - religion: iroquoian_totemism
       estate: peasant
       size: 1000
 1689.1.1:
@@ -11,9 +10,8 @@
   cores:
     ENG: yes
   resource: fur
-  pop:
-    - ethnicity: english
-      religion: lutheran
+  pops:
+    - religion: lutheran
       estate: peasant
       size: 1000
 1707.5.12:
@@ -23,9 +21,8 @@
     ENG: no
     GBR: yes
 1790.1.1:
-  pop:
-    - ethnicity: british_canadian
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1870.7.15:
   owner: CAN

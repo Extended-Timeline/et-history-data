@@ -5,9 +5,8 @@
   cores:
     SEMN: yes
   resource: wool
-  pop:
-    - ethnicity: east_franconian
-      religion: germanic
+  pops:
+    - religion: germanic
       estate: peasant
       size: 1000
 260.1.1:
@@ -16,9 +15,8 @@
   cores:
     SEMN: no
     WARI: yes
-  pop:
-    - ethnicity: saxon
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 453.1.1:
   owner: THU
@@ -26,9 +24,8 @@
   cores:
     WARI: no
     THU: yes
-  pop:
-    - ethnicity: east_franconian
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 600.1.1:
   owner: SAX
@@ -36,9 +33,8 @@
   cores:
     THU: no
     SAX: yes
-  pop:
-    - ethnicity: saxon
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 804.1.1:
   owner: FRAN
@@ -52,14 +48,12 @@
     FRAN: no
     EFRA: yes
 867.1.1:
-  pop:
-    - religion: catholic
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 900.1.1:
-  pop:
-    - religion: catholic
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 911.11.10:
   owner: SAX
@@ -73,9 +67,8 @@
     SAX: no
     ANH: yes
 1529.1.1:
-  pop:
-    - religion: lutheran
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1871.1.18:
   owner: GER
@@ -91,9 +84,8 @@
   cores:
     EGER: yes
 1990.1.1:
-  pop:
-    - religion: irreligious
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1990.10.3:
   owner: GER

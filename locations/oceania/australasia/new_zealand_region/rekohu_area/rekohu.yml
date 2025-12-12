@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/3113 - Chatham Island.txt
 2.1.1:
-  pop:
-    - ethnicity: uninhabited
-      religion: bimoism
+  pops:
+    - religion: bimoism
       estate: peasant
       size: 1000
 1200.1.1:
-  pop:
-    - ethnicity: maori_culture
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1842.1.1:
   owner: GBR
@@ -16,9 +14,8 @@
   cores:
     GBR: yes
   resource: fish
-  pop:
-    - religion: lutheran
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1907.9.26:
   owner: NZEA

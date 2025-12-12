@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/2285 - Marghi.txt
 2.1.1:
-  pop:
-    - ethnicity: kanembu_culture
-      religion: bantu_religion
+  pops:
+    - religion: bantu_religion
       estate: peasant
       size: 1000
 523.1.1:
@@ -17,9 +16,8 @@
   cores:
     SOKO: yes
 1820.1.1:
-  pop:
-    - religion: sunni
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1903.1.1:
   owner: GBR

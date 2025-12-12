@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/27 - Finland.txt
 2.1.1:
-  pop:
-    - ethnicity: finnish
-      religion: muinaisusko
+  pops:
+    - religion: muinaisusko
       estate: peasant
       size: 1000
 750.1.1:
@@ -18,9 +17,8 @@
     TAV: no
     SWE: yes
     FIN: yes
-  pop:
-    - religion: catholic
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1468.3.15:
   owner: DAN
@@ -37,9 +35,8 @@
 1502.9.8:
   controller: SWE
 1527.6.1:
-  pop:
-    - religion: lutheran
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1563.8.12:
   controller: SWE

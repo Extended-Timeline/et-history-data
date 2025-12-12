@@ -5,9 +5,8 @@
   cores:
     GAGG: yes
   resource: grain
-  pop:
-    - ethnicity: malay_culture
-      religion: hindu
+  pops:
+    - religion: hindu
       estate: peasant
       size: 1000
 770.1.1:
@@ -16,9 +15,8 @@
   cores:
     SRIV: yes
 1180.1.1:
-  pop:
-    - religion: sunni
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1183.1.1:
   owner: PAH

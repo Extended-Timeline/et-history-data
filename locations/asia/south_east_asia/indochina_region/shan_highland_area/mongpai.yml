@@ -5,15 +5,13 @@
   cores:
     PYU0: yes
   resource: tropical_wood
-  pop:
-    - ethnicity: wa_culture
-      religion: bimoism
+  pops:
+    - religion: bimoism
       estate: peasant
       size: 1000
 400.1.1:
-  pop:
-    - ethnicity: karen_culture
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 630.1.1:
   owner: HARI
@@ -34,9 +32,8 @@
     PAGA: no
     MOPA: yes
 1650.1.1:
-  pop:
-    - religion: theravada
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1942.5.1:
   controller: SIA

@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/2688 - Cirebon.txt
 2.1.1:
-  pop:
-    - ethnicity: sundanese_culture
-      religion: hindu
+  pops:
+    - religion: hindu
       estate: peasant
       size: 1000
 130.1.1:
@@ -45,9 +44,8 @@
   cores:
     SUN: no
     CIRE: yes
-  pop:
-    - religion: sunni
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1807.1.1:
   owner: NED

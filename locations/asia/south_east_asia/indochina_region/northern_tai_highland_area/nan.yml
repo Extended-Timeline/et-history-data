@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/1817 - Nan.txt
 2.1.1:
-  pop:
-    - ethnicity: mon_culture
-      religion: bimoism
+  pops:
+    - religion: bimoism
       estate: peasant
       size: 1000
 550.1.1:
@@ -12,9 +11,8 @@
     SIHV: yes
   resource: livestock
 620.1.1:
-  pop:
-    - religion: theravada
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 638.1.1:
   owner: HIRA
@@ -22,9 +20,8 @@
   cores:
     SIHV: no
     HIRA: yes
-  pop:
-    - ethnicity: khon_muang_culture
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1094.1.1:
   owner: PHY
@@ -33,9 +30,8 @@
     HIRA: no
     PHY: yes
 1150.1.1:
-  pop:
-    - religion: theravada
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1238.1.1:
   owner: SUK

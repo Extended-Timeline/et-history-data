@@ -4,15 +4,13 @@
   controller: JNT
   cores:
     JNT: yes
-  pop:
-    - ethnicity: khasi_culture
-      religion: bimoism
+  pops:
+    - religion: bimoism
       estate: peasant
       size: 1000
 610.1.1:
-  pop:
-    - religion: hindu
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1835.3.15:
   owner: GBR
@@ -20,9 +18,8 @@
   cores:
     GBR: yes
 1870.1.1:
-  pop:
-    - religion: lutheran
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1930.1.1:
   cores:

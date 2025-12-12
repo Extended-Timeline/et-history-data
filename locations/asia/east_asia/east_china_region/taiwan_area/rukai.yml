@@ -5,9 +5,8 @@
   cores:
     TJAQ: yes
   resource: chinaware
-  pop:
-    - ethnicity: formosan_culture
-      religion: bimoism
+  pops:
+    - religion: bimoism
       estate: peasant
       size: 1000
 1624.1.1:
@@ -26,14 +25,12 @@
   cores:
     QNG: yes
 1710.1.1:
-  pop:
-    - ethnicity: taiwanese
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1760.1.1:
-  pop:
-    - religion: mahayana
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1895.4.17:
   owner: JAP

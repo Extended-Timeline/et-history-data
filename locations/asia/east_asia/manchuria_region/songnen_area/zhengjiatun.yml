@@ -6,9 +6,8 @@
     XION: yes
     XIAN: yes
   resource: livestock
-  pop:
-    - ethnicity: khitan
-      religion: 
+  pops:
+    - religion: 
       estate: peasant
       size: 1000
 46.1.1:
@@ -35,9 +34,8 @@
     KHIT: no
     LIAO: yes
 920.1.1:
-  pop:
-    - religion: mahayana
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1115.1.1:
   owner: JIN0
@@ -52,14 +50,12 @@
     JIN0: no
     MGE: yes
 1220.1.1:
-  pop:
-    - ethnicity: chahar
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1265.1.1:
-  pop:
-    - religion: tibetan_buddhism
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1271.1.1:
   owner: YUA
@@ -86,9 +82,8 @@
     MCH: no
     QNG: yes
 1880.1.1:
-  pop:
-    - ethnicity: manchu_new
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1912.2.12:
   owner: CHI

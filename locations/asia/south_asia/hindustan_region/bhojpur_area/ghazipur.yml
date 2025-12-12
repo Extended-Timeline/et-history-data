@@ -5,9 +5,8 @@
   cores:
     KOSA: yes
   resource: cloth
-  pop:
-    - ethnicity: magahi
-      religion: mahayana
+  pops:
+    - religion: mahayana
       estate: peasant
       size: 1000
 120.1.1:
@@ -69,9 +68,8 @@
     GHOR: no
     DLH: yes
 1250.1.1:
-  pop:
-    - religion: hindu
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1394.1.1:
   owner: JNP

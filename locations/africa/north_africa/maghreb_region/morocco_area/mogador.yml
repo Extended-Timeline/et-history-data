@@ -5,9 +5,8 @@
   cores:
     ATLA: yes
   resource: grain
-  pop:
-    - ethnicity: masmuda
-      religion: bantu_religion
+  pops:
+    - religion: bantu_religion
       estate: peasant
       size: 1000
 720.1.1:
@@ -28,9 +27,8 @@
     BARG: no
     MOR: yes
 1060.1.1:
-  pop:
-    - religion: sunni
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1374.1.1:
   owner: MRK

@@ -5,9 +5,8 @@
   cores:
     KONG: yes
   resource: incense
-  pop:
-    - ethnicity: tamil
-      religion: hindu
+  pops:
+    - religion: hindu
       estate: peasant
       size: 1000
 250.1.1:

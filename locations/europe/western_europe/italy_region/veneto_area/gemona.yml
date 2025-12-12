@@ -5,15 +5,13 @@
   cores:
     ROM: yes
   resource: wine
-  pop:
-    - ethnicity: venetian
-      religion: hellenism_religion
+  pops:
+    - religion: hellenism_religion
       estate: peasant
       size: 1000
 300.1.1:
-  pop:
-    - religion: chalcedonism
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 395.1.17:
   owner: ROMW
@@ -66,9 +64,8 @@
     LOMB: no
     ITA: yes
 867.1.1:
-  pop:
-    - religion: catholic
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 952.1.1:
   owner: VER

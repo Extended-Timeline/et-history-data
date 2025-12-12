@@ -5,9 +5,8 @@
   cores:
     CHRS: yes
   resource: iron
-  pop:
-    - ethnicity: rhine_franconian
-      religion: germanic
+  pops:
+    - religion: germanic
       estate: peasant
       size: 1000
 60.1.1:
@@ -16,18 +15,16 @@
   cores:
     CHRS: no
     ANGR: yes
-  pop:
-    - ethnicity: eastphalian
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 300.1.1:
   owner: SAX
   controller: SAX
   cores:
     SAX: yes
-  pop:
-    - ethnicity: lower_saxon
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 804.1.1:
   owner: FRAN
@@ -41,9 +38,8 @@
     FRAN: no
     EFRA: yes
 900.1.1:
-  pop:
-    - religion: catholic
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 911.11.10:
   owner: SAX
@@ -64,9 +60,8 @@
   cores:
     SAX: no
 1529.1.1:
-  pop:
-    - religion: lutheran
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1757.7.26:
   controller: FRA

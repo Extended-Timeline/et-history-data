@@ -5,9 +5,8 @@
   cores:
     ARK: yes
   resource: cotton
-  pop:
-    - ethnicity: bengali
-      religion: mahayana
+  pops:
+    - religion: mahayana
       estate: peasant
       size: 1000
 670.1.1:
@@ -22,9 +21,8 @@
   cores:
     SAMT: yes
 1180.1.1:
-  pop:
-    - religion: hindu
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1300.1.1:
   owner: ARK
@@ -62,9 +60,8 @@
   cores:
     GBR: yes
 1800.1.1:
-  pop:
-    - religion: sunni
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1930.12.29:
   cores:

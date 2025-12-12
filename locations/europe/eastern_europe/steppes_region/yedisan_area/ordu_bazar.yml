@@ -5,9 +5,8 @@
   cores:
     SARM: yes
   resource: salt
-  pop:
-    - ethnicity: sarmatian
-      religion: 
+  pops:
+    - religion: 
       estate: peasant
       size: 1000
 220.1.1:
@@ -16,9 +15,8 @@
   cores:
     SARM: no
     OSTR: yes
-  pop:
-    - ethnicity: gothic
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 370.1.1:
   owner: HUNS
@@ -33,9 +31,8 @@
     HUNS: no
     GOTH: yes
 620.1.1:
-  pop:
-    - religion: chalcedonism
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 632.1.1:
   owner: BUL
@@ -50,14 +47,12 @@
     BUL: no
     KHAZ: yes
 800.1.1:
-  pop:
-    - ethnicity: khazar
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 867.1.1:
-  pop:
-    - religion: orthodox
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 969.1.1:
   owner: PECH
@@ -65,9 +60,8 @@
   cores:
     KHAZ: no
     PECH: yes
-  pop:
-    - ethnicity: pecheneg
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1060.1.1:
   owner: CUMA
@@ -76,9 +70,8 @@
     PECH: no
     CUMA: yes
 1120.1.1:
-  pop:
-    - ethnicity: crimean
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1237.1.1:
   owner: MGE
@@ -94,9 +87,8 @@
     MGE: no
     WHHO: yes
 1300.1.1:
-  pop:
-    - religion: sunni
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1372.1.1:
   owner: BLHO
@@ -138,9 +130,8 @@
   cores:
     CRIM: no
 1840.1.1:
-  pop:
-    - religion: orthodox
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1900.1.1:
   cores:
@@ -164,9 +155,8 @@
 1944.3.13:
   controller: SOVI
 1960.1.1:
-  pop:
-    - ethnicity: ruthenian
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1991.8.24:
   owner: UKR

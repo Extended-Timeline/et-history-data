@@ -5,9 +5,8 @@
   cores:
     CATU: yes
   resource: livestock
-  pop:
-    - ethnicity: briton
-      religion: druidism
+  pops:
+    - religion: druidism
       estate: peasant
       size: 1000
 43.1.1:
@@ -30,9 +29,8 @@
   cores:
     ROMW: no
     ERGY: yes
-  pop:
-    - ethnicity: welsh
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 519.1.1:
   owner: WESS
@@ -40,9 +38,8 @@
   cores:
     ERGY: no
     WESS: yes
-  pop:
-    - ethnicity: anglo_saxon
-      religion: germanic
+  pops:
+    - religion: germanic
       estate: peasant
       size: 1000
 645.1.1:
@@ -51,9 +48,8 @@
   cores:
     MERC: yes
 650.1.1:
-  pop:
-    - religion: chalcedonism
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 825.1.1:
   owner: WESS
@@ -61,9 +57,8 @@
   cores:
     WESS: yes
 867.1.1:
-  pop:
-    - religion: catholic
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 927.1.1:
   owner: ENG
@@ -74,14 +69,12 @@
   cores:
     WESS: no
 1066.12.25:
-  pop:
-    - ethnicity: english
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1560.1.1:
-  pop:
-    - religion: anglican
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1642.10.24:
   controller: ENG

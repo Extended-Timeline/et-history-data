@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/1137 - Wagadugi.txt
 2.1.1:
-  pop:
-    - ethnicity: mossi
-      religion: bantu_religion
+  pops:
+    - religion: bantu_religion
       estate: peasant
       size: 1000
 1050.1.1:
@@ -18,9 +17,8 @@
     TEN: no
     OUA: yes
 1840.1.1:
-  pop:
-    - religion: sunni
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1895.5.1:
   owner: FRA
@@ -28,9 +26,8 @@
   cores:
     FRA: yes
 1925.1.1:
-  pop:
-    - religion: catholic
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1940.6.14:
   owner: VFRA

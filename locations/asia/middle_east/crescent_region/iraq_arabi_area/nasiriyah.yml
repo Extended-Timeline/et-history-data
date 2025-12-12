@@ -5,9 +5,8 @@
   cores:
     PART: yes
   resource: spices
-  pop:
-    - ethnicity: iraqi_culture
-      religion: ashurism
+  pops:
+    - religion: ashurism
       estate: peasant
       size: 1000
 116.1.1:
@@ -21,9 +20,8 @@
   cores:
     ROM: no
 210.1.1:
-  pop:
-    - religion: chalcedonism
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 220.1.1:
   owner: LAKH
@@ -32,9 +30,8 @@
     PART: no
     LAKH: yes
 431.7.1:
-  pop:
-    - religion: nestorianism
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 602.1.1:
   owner: ERA
@@ -55,9 +52,8 @@
     RASH: no
     UMAY: yes
 680.1.1:
-  pop:
-    - religion: sunni
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 750.8.6:
   owner: ABBA
@@ -103,9 +99,8 @@
     SELJ: no
     ABBA: yes
 1250.1.1:
-  pop:
-    - religion: shia
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1258.2.10:
   owner: MGE

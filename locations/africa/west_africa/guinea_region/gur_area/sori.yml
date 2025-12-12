@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/2292 - Moshi.txt
 2.1.1:
-  pop:
-    - ethnicity: bariba
-      religion: bantu_religion
+  pops:
+    - religion: bantu_religion
       estate: peasant
       size: 1000
 1250.1.1:
@@ -12,9 +11,8 @@
     BOR: yes
   resource: tropical_wood
 1850.1.1:
-  pop:
-    - religion: sunni
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1898.1.1:
   owner: FRA

@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/1960 - Ostrov.txt
 2.1.1:
-  pop:
-    - ethnicity: novgorodian
-      religion: slavic
+  pops:
+    - religion: slavic
       estate: peasant
       size: 1000
 550.1.1:
@@ -18,9 +17,8 @@
     ILME: no
     KIEV: yes
 988.1.1:
-  pop:
-    - religion: orthodox
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1054.2.20:
   owner: NOV

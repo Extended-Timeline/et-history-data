@@ -5,9 +5,8 @@
   cores:
     QUAD: yes
   resource: wine
-  pop:
-    - ethnicity: quadian
-      religion: germanic
+  pops:
+    - religion: germanic
       estate: peasant
       size: 1000
 395.1.1:
@@ -16,9 +15,8 @@
   cores:
     QUAD: no
     MARC: yes
-  pop:
-    - ethnicity: southern_bavarian
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 454.1.1:
   owner: HERU
@@ -32,9 +30,8 @@
   cores:
     HERU: no
     LOMB: yes
-  pop:
-    - ethnicity: langobardi
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 569.1.1:
   owner: MVA
@@ -42,9 +39,8 @@
   cores:
     LOMB: no
     MVA: yes
-  pop:
-    - ethnicity: czech
-      religion: slavic
+  pops:
+    - religion: slavic
       estate: peasant
       size: 1000
 623.1.1:
@@ -58,14 +54,12 @@
   cores:
     SAMO: no
 831.1.1:
-  pop:
-    - religion: chalcedonism
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 867.1.1:
-  pop:
-    - religion: catholic
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 907.1.1:
   owner: BOH
@@ -83,9 +77,8 @@
   cores:
     POL: no
 1419.12.1:
-  pop:
-    - religion: hussite
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1436.7.5:
   controller: BOH
@@ -122,9 +115,8 @@
   cores:
     GER: no
 1980.1.1:
-  pop:
-    - religion: irreligious
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1992.12.31:
   owner: CZEC

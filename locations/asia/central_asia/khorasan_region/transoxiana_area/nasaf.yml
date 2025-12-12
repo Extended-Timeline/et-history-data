@@ -5,9 +5,8 @@
   cores:
     BUKH: yes
   resource: cotton
-  pop:
-    - ethnicity: sogdian
-      religion: mahayana
+  pops:
+    - religion: mahayana
       estate: peasant
       size: 1000
 30.1.1:
@@ -46,9 +45,8 @@
     GOKT: no
     WGOK: yes
 600.1.1:
-  pop:
-    - religion: zoroastrian
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 642.1.1:
   owner: SAMA
@@ -68,9 +66,8 @@
     UMAY: no
     ABBA: yes
 800.1.1:
-  pop:
-    - ethnicity: tajik_culture
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 819.1.1:
   owner: SAMA
@@ -84,9 +81,8 @@
   cores:
     KOKA: yes
 890.1.1:
-  pop:
-    - religion: sunni
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 892.8.1:
   owner: BUKH
@@ -142,9 +138,8 @@
   cores:
     TIM: yes
 1380.1.1:
-  pop:
-    - ethnicity: uzbek_culture
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1409.5.13:
   owner: TRAN

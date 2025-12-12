@@ -1,9 +1,8 @@
 #imported from EU4 file: history/provinces/910 - Chippewa.txt
 2.1.1:
   resource: fur
-  pop:
-    - ethnicity: ojibwe_culture
-      religion: iroquoian_totemism
+  pops:
+    - religion: iroquoian_totemism
       estate: peasant
       size: 1000
 1737.1.1:
@@ -12,9 +11,8 @@
   cores:
     FRA: yes
   resource: fur
-  pop:
-    - ethnicity: french
-      religion: catholic
+  pops:
+    - religion: catholic
       estate: peasant
       size: 1000
 1763.2.10:
@@ -22,9 +20,8 @@
   controller: GBR
   cores:
     FRA: no
-  pop:
-    - ethnicity: english
-      religion: lutheran
+  pops:
+    - religion: lutheran
       estate: peasant
       size: 1000
 1763.10.9:
@@ -32,9 +29,8 @@
   controller: OJI
   cores:
     OJI: yes
-  pop:
-    - ethnicity: ojibwe_culture
-      religion: iroquoian_totemism
+  pops:
+    - religion: iroquoian_totemism
       estate: peasant
       size: 1000
 1813.10.5:
@@ -42,8 +38,7 @@
   controller: USA
   cores:
     USA: yes
-  pop:
-    - ethnicity: american
-      religion: lutheran
+  pops:
+    - religion: lutheran
       estate: peasant
       size: 1000

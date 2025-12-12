@@ -6,9 +6,8 @@
     HAN0: yes
     WEI0: yes
   resource: grain
-  pop:
-    - ethnicity: korean_culture
-      religion: sanjiao
+  pops:
+    - religion: sanjiao
       estate: peasant
       size: 1000
 9.1.10:
@@ -85,9 +84,8 @@
     BALH: no
     LIAO: yes
 920.1.1:
-  pop:
-    - ethnicity: khitan
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1115.1.1:
   owner: JIN0
@@ -96,9 +94,8 @@
     LIAO: no
     JIN0: yes
 1200.1.1:
-  pop:
-    - ethnicity: jurchen_culture
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1214.1.1:
   owner: MGE
@@ -108,9 +105,8 @@
     MGE: yes
     QIN0: yes
 1240.1.1:
-  pop:
-    - ethnicity: shandong_culture
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1271.1.1:
   owner: YUA

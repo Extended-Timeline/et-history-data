@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/4804 - Kuching.txt
 2.1.1:
-  pop:
-    - ethnicity: bidayuh_culture
-      religion: hindu
+  pops:
+    - religion: hindu
       estate: peasant
       size: 1000
 600.1.1:
@@ -12,14 +11,12 @@
     SARA: yes
   resource: fish
 1360.1.1:
-  pop:
-    - ethnicity: malay_culture
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1408.1.1:
-  pop:
-    - religion: sunni
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1512.8.15:
   owner: BEI

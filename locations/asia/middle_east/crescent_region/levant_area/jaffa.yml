@@ -5,9 +5,8 @@
   cores:
     JUDE: yes
   resource: sugar
-  pop:
-    - ethnicity: samaritan_culture
-      religion: judaism
+  pops:
+    - religion: judaism
       estate: peasant
       size: 1000
 6.1.1:
@@ -16,9 +15,8 @@
   cores:
     ROM: yes
 30.1.1:
-  pop:
-    - religion: chalcedonism
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 73.1.1:
   controller: ROM
@@ -27,17 +25,15 @@
 269.1.1:
   cores:
     PALM: yes
-  pop:
-    - ethnicity: syriac_culture
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 272.1.1:
   controller: ROM
   cores:
     PALM: no
-  pop:
-    - ethnicity: samaritan_culture
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 395.1.17:
   owner: BYZ
@@ -64,9 +60,8 @@
     RASH: no
     UMAY: yes
 720.1.1:
-  pop:
-    - ethnicity: palestinian
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 750.8.6:
   owner: ABBA
@@ -75,9 +70,8 @@
     UMAY: no
     ABBA: yes
 867.1.1:
-  pop:
-    - religion: catholic
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 868.9.15:
   owner: EGY
@@ -118,9 +112,8 @@
   cores:
     KOJ: no
 1300.1.1:
-  pop:
-    - religion: sunni
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1382.1.1:
   controller: MAM
@@ -159,8 +152,7 @@
   controller: ISRA
   cores:
     GBR: no
-  pop:
-    - ethnicity: samaritan_culture
-      religion: judaism
+  pops:
+    - religion: judaism
       estate: peasant
       size: 1000

@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/2255 - Gyaaman.txt
 2.1.1:
-  pop:
-    - ethnicity: akan
-      religion: bantu_religion
+  pops:
+    - religion: bantu_religion
       estate: peasant
       size: 1000
 1050.1.1:
@@ -23,9 +22,8 @@
     ASHA: no
     FRA: yes
 1930.1.1:
-  pop:
-    - religion: catholic
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1940.6.14:
   owner: VFRA

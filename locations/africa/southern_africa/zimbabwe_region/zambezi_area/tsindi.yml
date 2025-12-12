@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/2950 - Buhera.txt
 2.1.1:
-  pop:
-    - ethnicity: shuar_culture
-      religion: bantu_religion
+  pops:
+    - religion: bantu_religion
       estate: peasant
       size: 1000
 300.1.1:
-  pop:
-    - ethnicity: shona_culture
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1220.1.1:
   owner: ZMW
@@ -39,9 +37,8 @@
   cores:
     GBR: yes
 1900.1.1:
-  pop:
-    - religion: lutheran
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1965.11.11:
   owner: RHOD

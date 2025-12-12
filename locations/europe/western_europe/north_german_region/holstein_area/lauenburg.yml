@@ -5,9 +5,8 @@
   cores:
     SAX: yes
   resource: salt
-  pop:
-    - ethnicity: saxon
-      religion: germanic
+  pops:
+    - religion: germanic
       estate: peasant
       size: 1000
 804.1.1:
@@ -16,9 +15,8 @@
   cores:
     OBOT: yes
 900.1.1:
-  pop:
-    - religion: catholic
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 911.11.10:
   owner: SAX
@@ -27,9 +25,8 @@
     OBOT: no
     SAX: yes
 1200.1.1:
-  pop:
-    - ethnicity: lower_saxon
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1296.1.1:
   owner: LAU
@@ -38,9 +35,8 @@
     SAX: no
     LAU: yes
 1529.1.1:
-  pop:
-    - religion: lutheran
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1689.1.1:
   owner: BRU
@@ -111,7 +107,6 @@
   cores:
     WGER: no
 2020.1.1:
-  pop:
-    - religion: irreligious
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000

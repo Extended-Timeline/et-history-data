@@ -5,9 +5,8 @@
   cores:
     MINA: yes
   resource: fish
-  pop:
-    - ethnicity: yemeni_culture
-      religion: south_arabian
+  pops:
+    - religion: south_arabian
       estate: peasant
       size: 1000
 220.1.1:
@@ -28,9 +27,8 @@
     AKSM: no
     HIMY: yes
 450.1.1:
-  pop:
-    - religion: judaism
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 525.1.1:
   owner: AKSM
@@ -55,9 +53,8 @@
   controller: RASH
   cores:
     RASH: yes
-  pop:
-    - religion: islam
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 661.7.28:
   owner: UMAY
@@ -65,9 +62,8 @@
   cores:
     RASH: no
     UMAY: yes
-  pop:
-    - religion: sunni
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 750.8.6:
   owner: ABBA
@@ -88,9 +84,8 @@
     YEM: no
     EGY: yes
 1200.1.1:
-  pop:
-    - ethnicity: hijazi_culture
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1229.1.1:
   owner: YEM

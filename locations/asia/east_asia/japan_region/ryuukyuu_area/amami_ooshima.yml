@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/1015 - Okinawa.txt
 2.1.1:
-  pop:
-    - ethnicity: ryukyu_culture
-      religion: bimoism
+  pops:
+    - religion: bimoism
       estate: peasant
       size: 1000
 1187.1.1:
@@ -16,9 +15,8 @@
 1611.1.1:
   controller: RYU
 1624.1.1:
-  pop:
-    - religion: shinto
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1879.3.11:
   owner: JAP

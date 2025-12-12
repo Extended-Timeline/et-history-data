@@ -5,9 +5,8 @@
   cores:
     WSAT: yes
   resource: copper
-  pop:
-    - ethnicity: marwari
-      religion: hindu
+  pops:
+    - religion: hindu
       estate: peasant
       size: 1000
 405.1.1:
@@ -70,14 +69,12 @@
     MLW: no
     GUJ: yes
 1150.1.1:
-  pop:
-    - religion: jain
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1171.1.1:
-  pop:
-    - religion: hindu
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1172.1.1:
   owner: MEW

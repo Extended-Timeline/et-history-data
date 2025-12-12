@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/36 - Estland.txt
 2.1.1:
-  pop:
-    - ethnicity: estonian
-      religion: muinaisusko
+  pops:
+    - religion: muinaisusko
       estate: peasant
       size: 1000
 550.1.1:
@@ -16,9 +15,8 @@
   controller: DAN
   cores:
     DAN: yes
-  pop:
-    - religion: catholic
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1300.1.1:
   cores:
@@ -30,9 +28,8 @@
     DAN: no
     LIV: yes
 1542.1.1:
-  pop:
-    - religion: lutheran
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1561.1.1:
   owner: SWE
@@ -71,9 +68,8 @@
   owner: SOVI
   controller: SOVI
 1960.1.1:
-  pop:
-    - religion: irreligious
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1991.8.20:
   owner: ESTO

@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/4059 - Shaga.txt
 2.1.1:
-  pop:
-    - ethnicity: maasai_culture
-      religion: bantu_religion
+  pops:
+    - religion: bantu_religion
       estate: peasant
       size: 1000
 200.1.1:
-  pop:
-    - ethnicity: luhya_culture
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1895.1.1:
   owner: GER
@@ -16,9 +14,8 @@
   cores:
     GER: yes
   resource: fish
-  pop:
-    - religion: lutheran
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1919.6.28:
   owner: GBR

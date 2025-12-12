@@ -5,9 +5,8 @@
   cores:
     ROM: yes
   resource: grain
-  pop:
-    - ethnicity: pannonian
-      religion: druidism
+  pops:
+    - religion: druidism
       estate: peasant
       size: 1000
 395.1.17:
@@ -23,9 +22,8 @@
     ROMW: no
     OSTR: yes
 480.1.1:
-  pop:
-    - religion: arianism
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 530.1.1:
   owner: GEPI
@@ -40,16 +38,14 @@
     GEPI: no
     AVR: yes
 600.1.1:
-  pop:
-    - religion: 
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 630.1.1:
   cores:
     CRO: yes
-  pop:
-    - ethnicity: croatian
-      religion: slavic
+  pops:
+    - religion: slavic
       estate: peasant
       size: 1000
 790.1.1:
@@ -59,9 +55,8 @@
     AVR: no
     PANO: yes
 870.1.1:
-  pop:
-    - religion: catholic
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 897.1.1:
   owner: CRO

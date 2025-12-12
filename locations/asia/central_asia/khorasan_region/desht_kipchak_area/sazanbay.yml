@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/2353 - Tortkara.txt
 2.1.1:
-  pop:
-    - ethnicity: pecheneg
-      religion: 
+  pops:
+    - religion: 
       estate: peasant
       size: 1000
 340.1.1:
@@ -35,9 +34,8 @@
   cores:
     PECH: no
     CUMA: yes
-  pop:
-    - ethnicity: cuman_culture
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 880.1.1:
   owner: KIME
@@ -57,9 +55,8 @@
   cores:
     CUMA: yes
 1180.1.1:
-  pop:
-    - religion: sunni
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1236.1.1:
   owner: MGE
@@ -67,9 +64,8 @@
   cores:
     CUMA: no
     MGE: yes
-  pop:
-    - ethnicity: khazak
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1260.1.1:
   owner: BLHO

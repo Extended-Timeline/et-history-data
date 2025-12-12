@@ -5,9 +5,8 @@
   cores:
     CAPP: yes
   resource: wool
-  pop:
-    - ethnicity: syriac_culture
-      religion: hellenism_religion
+  pops:
+    - religion: hellenism_religion
       estate: peasant
       size: 1000
 18.1.1:
@@ -23,9 +22,8 @@
   cores:
     PALM: no
 310.1.1:
-  pop:
-    - religion: chalcedonism
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 395.1.17:
   owner: BYZ
@@ -34,9 +32,8 @@
     ROM: no
     BYZ: yes
 500.1.1:
-  pop:
-    - ethnicity: greek_culture
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 615.1.1:
   controller: ERA
@@ -60,9 +57,8 @@
     UMAY: no
     ABBA: yes
 867.1.1:
-  pop:
-    - religion: orthodox
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 868.9.15:
   owner: EGY
@@ -156,9 +152,8 @@
   cores:
     ARM: no
 1320.1.1:
-  pop:
-    - ethnicity: turkish_culture
-      religion: sunni
+  pops:
+    - religion: sunni
       estate: peasant
       size: 1000
 1337.1.1:

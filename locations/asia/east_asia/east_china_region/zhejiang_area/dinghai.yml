@@ -6,9 +6,8 @@
     HAN0: yes
     WUU: yes
   resource: naval_supplies
-  pop:
-    - ethnicity: wu_culture
-      religion: sanjiao
+  pops:
+    - religion: sanjiao
       estate: peasant
       size: 1000
 9.1.10:

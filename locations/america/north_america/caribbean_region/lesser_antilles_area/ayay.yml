@@ -1,17 +1,15 @@
 #imported from EU4 file: history/provinces/493 - St. Thomas.txt
 2.1.1:
-  pop:
-    - ethnicity: arawak_culture
-      religion: muisca_religion
+  pops:
+    - religion: muisca_religion
       estate: peasant
       size: 1000
 1493.1.1:
   owner: CAS
   controller: CAS
   resource: sugar
-  pop:
-    - ethnicity: castilian
-      religion: catholic
+  pops:
+    - religion: catholic
       estate: peasant
       size: 1000
 1516.1.23:
@@ -25,9 +23,8 @@
   controller: DAN
   cores:
     SPA: no
-  pop:
-    - ethnicity: danish
-      religion: lutheran
+  pops:
+    - religion: lutheran
       estate: peasant
       size: 1000
 1697.1.1:
@@ -40,7 +37,6 @@
     DAN: no
     USA: yes
 1920.1.1:
-  pop:
-    - ethnicity: british_caribbean
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000

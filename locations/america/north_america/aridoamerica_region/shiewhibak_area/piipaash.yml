@@ -1,9 +1,8 @@
 #imported from EU4 file: history/provinces/876 - Yavapai.txt
 2.1.1:
   resource: wool
-  pop:
-    - ethnicity: pima_culture
-      religion: iroquoian_totemism
+  pops:
+    - religion: iroquoian_totemism
       estate: peasant
       size: 1000
 1731.1.1:
@@ -15,9 +14,8 @@
 1810.9.16:
   owner: MEX
   controller: SPA
-  pop:
-    - ethnicity: mexican
-      religion: catholic
+  pops:
+    - religion: catholic
       estate: peasant
       size: 1000
 1821.9.27:
@@ -36,7 +34,6 @@
     MEX: no
     USA: yes
 1879.1.1:
-  pop:
-    - ethnicity: british_californian
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000

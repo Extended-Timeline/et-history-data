@@ -5,9 +5,8 @@
   cores:
     OSG: yes
   resource: fur
-  pop:
-    - ethnicity: stadaconan_culture
-      religion: iroquoian_totemism
+  pops:
+    - religion: iroquoian_totemism
       estate: peasant
       size: 1000
 1642.5.17:
@@ -16,9 +15,8 @@
   cores:
     FRA: yes
   resource: fur
-  pop:
-    - ethnicity: french
-      religion: catholic
+  pops:
+    - religion: catholic
       estate: peasant
       size: 1000
 1760.1.1:
@@ -29,9 +27,8 @@
     FRA: no
     GBR: yes
 1790.1.1:
-  pop:
-    - ethnicity: french_canadian
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1867.7.1:
   owner: CAN

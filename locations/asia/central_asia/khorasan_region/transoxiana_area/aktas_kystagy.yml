@@ -5,9 +5,8 @@
   cores:
     KAGJ: yes
   resource: grain
-  pop:
-    - ethnicity: khazak
-      religion: 
+  pops:
+    - religion: 
       estate: peasant
       size: 1000
 470.1.1:
@@ -35,9 +34,8 @@
     WGOK: no
     KANG: yes
 690.1.1:
-  pop:
-    - religion: manichaeism
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 750.1.1:
   owner: KIPC
@@ -46,9 +44,8 @@
     KANG: no
     KIPC: yes
 810.1.1:
-  pop:
-    - religion: sunni
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 880.1.1:
   owner: KIME

@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/302 - Tambow.txt
 2.1.1:
-  pop:
-    - ethnicity: hungarian
-      religion: 
+  pops:
+    - religion: 
       estate: peasant
       size: 1000
 600.1.1:
@@ -17,14 +16,12 @@
   cores:
     HUN: no
     BURT: yes
-  pop:
-    - ethnicity: moksha_culture
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 940.1.1:
-  pop:
-    - ethnicity: cuman_culture
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 969.1.1:
   owner: PECH
@@ -39,9 +36,8 @@
     PECH: no
     CUMA: yes
 1220.1.1:
-  pop:
-    - religion: sunni
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1237.1.1:
   owner: MGE
@@ -49,9 +45,8 @@
   cores:
     CUMA: no
     MGE: yes
-  pop:
-    - ethnicity: mishar
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1260.1.1:
   owner: WHHO
@@ -95,9 +90,8 @@
     CRIM: no
     RUS: yes
 1650.1.1:
-  pop:
-    - ethnicity: muscovite
-      religion: orthodox
+  pops:
+    - religion: orthodox
       estate: peasant
       size: 1000
 1850.1.1:

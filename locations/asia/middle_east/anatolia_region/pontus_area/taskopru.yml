@@ -5,9 +5,8 @@
   cores:
     ROM: yes
   resource: copper
-  pop:
-    - ethnicity: pontic_greek_culture
-      religion: hellenism_religion
+  pops:
+    - religion: hellenism_religion
       estate: peasant
       size: 1000
 395.1.17:
@@ -17,14 +16,12 @@
     ROM: no
     BYZ: yes
 430.1.1:
-  pop:
-    - religion: chalcedonism
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 867.1.1:
-  pop:
-    - religion: orthodox
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1204.4.13:
   owner: NICA
@@ -40,9 +37,8 @@
 1220.1.1:
   cores:
     BYZ: no
-  pop:
-    - ethnicity: turkish_culture
-      religion: sunni
+  pops:
+    - religion: sunni
       estate: peasant
       size: 1000
 1292.1.1:

@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/653 - Tagoloan.txt
 2.1.1:
-  pop:
-    - ethnicity: cebuano_culture
-      religion: bimoism
+  pops:
+    - religion: bimoism
       estate: peasant
       size: 1000
 1200.1.1:
@@ -13,9 +12,8 @@
     LNO: yes
   resource: spices
 1450.1.1:
-  pop:
-    - religion: sunni
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1520.1.1:
   owner: LNO

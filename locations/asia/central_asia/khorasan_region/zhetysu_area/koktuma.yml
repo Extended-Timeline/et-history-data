@@ -5,9 +5,8 @@
   cores:
     XION: yes
   resource: salt
-  pop:
-    - ethnicity: kyrgyz_culture
-      religion: 
+  pops:
+    - religion: 
       estate: peasant
       size: 1000
 260.1.1:
@@ -35,9 +34,8 @@
     UYGH: no
     YKYR: yes
 1100.1.1:
-  pop:
-    - religion: mahayana
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1124.1.1:
   owner: KKHI
@@ -52,9 +50,8 @@
     KKHI: no
     MGE: yes
 1240.1.1:
-  pop:
-    - ethnicity: oirat_culture
-      religion: 
+  pops:
+    - religion: 
       estate: peasant
       size: 1000
 1271.1.1:
@@ -70,9 +67,8 @@
     YUA: no
     MGE: yes
 1380.1.1:
-  pop:
-    - religion: sunni
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1399.1.1:
   owner: OIR
@@ -90,9 +86,8 @@
   controller: QNG
   cores:
     QNG: yes
-  pop:
-    - ethnicity: khazak
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1854.2.4:
   owner: RUS

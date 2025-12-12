@@ -5,9 +5,8 @@
   cores:
     PART: yes
   resource: silk
-  pop:
-    - ethnicity: farsi_culture
-      religion: zoroastrian
+  pops:
+    - religion: zoroastrian
       estate: peasant
       size: 1000
 224.4.24:
@@ -87,9 +86,8 @@
     MGE: no
     ILK: yes
 1310.1.1:
-  pop:
-    - religion: shia
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1335.1.1:
   owner: JAL

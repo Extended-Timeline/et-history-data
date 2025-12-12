@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/4352 - Cebu.txt
 2.1.1:
-  pop:
-    - ethnicity: cebuano_culture
-      religion: bimoism
+  pops:
+    - religion: bimoism
       estate: peasant
       size: 1000
 1200.1.1:
@@ -11,18 +10,16 @@
   cores:
     CEB: yes
   resource: gems
-  pop:
-    - religion: hindu
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1565.6.4:
   owner: SPA
   controller: SPA
   cores:
     SPA: yes
-  pop:
-    - religion: catholic
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1762.10.6:
   controller: GBR

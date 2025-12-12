@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/3006 - Gambia.txt
 2.1.1:
-  pop:
-    - ethnicity: wolof
-      religion: bantu_religion
+  pops:
+    - religion: bantu_religion
       estate: peasant
       size: 1000
 1285.1.1:
@@ -26,9 +25,8 @@
 1815.1.1:
   resource: grain
 1830.1.1:
-  pop:
-    - religion: sunni
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1965.2.18:
   owner: GAMB

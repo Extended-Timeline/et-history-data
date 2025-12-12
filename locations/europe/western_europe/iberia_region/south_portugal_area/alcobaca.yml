@@ -5,15 +5,13 @@
   cores:
     ROM: yes
   resource: fish
-  pop:
-    - ethnicity: turduli
-      religion: druidism
+  pops:
+    - religion: druidism
       estate: peasant
       size: 1000
 360.1.1:
-  pop:
-    - religion: chalcedonism
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 395.1.17:
   owner: ROMW
@@ -57,14 +55,12 @@
 798.1.1:
   controller: CRDB
 800.1.1:
-  pop:
-    - ethnicity: andalusi
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 820.1.1:
-  pop:
-    - religion: sunni
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 955.1.1:
   controller: LON
@@ -102,14 +98,12 @@
   controller: POR
   cores:
     POR: yes
-  pop:
-    - ethnicity: portuguese
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1150.1.1:
-  pop:
-    - religion: catholic
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1580.8.25:
   controller: SPA

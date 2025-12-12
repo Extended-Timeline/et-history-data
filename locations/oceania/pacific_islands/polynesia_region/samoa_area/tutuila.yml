@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/3217 - Pago Pago.txt
 2.1.1:
-  pop:
-    - ethnicity: maohi_culture
-      religion: bimoism
+  pops:
+    - religion: bimoism
       estate: peasant
       size: 1000
 900.1.1:
@@ -16,9 +15,8 @@
   controller: USA
   cores:
     USA: yes
-  pop:
-    - religion: lutheran
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1962.1.1:
   cores:

@@ -5,9 +5,8 @@
   cores:
     CAPP: yes
   resource: livestock
-  pop:
-    - ethnicity: cappadocian_greek_culture
-      religion: hellenism_religion
+  pops:
+    - religion: hellenism_religion
       estate: peasant
       size: 1000
 18.1.1:
@@ -16,9 +15,8 @@
   cores:
     ROM: yes
 350.1.1:
-  pop:
-    - religion: chalcedonism
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 395.1.17:
   owner: BYZ
@@ -27,14 +25,12 @@
     ROM: no
     BYZ: yes
 867.1.1:
-  pop:
-    - religion: orthodox
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 950.1.1:
-  pop:
-    - ethnicity: greek_culture
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1084.1.1:
   owner: RUM
@@ -42,16 +38,14 @@
   cores:
     RUM: yes
 1120.1.1:
-  pop:
-    - ethnicity: turkish_culture
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1270.1.1:
   cores:
     BYZ: no
-  pop:
-    - religion: sunni
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1275.1.1:
   owner: KAR

@@ -5,9 +5,8 @@
   cores:
     CHCI: yes
   resource: fish
-  pop:
-    - ethnicity: eastphalian
-      religion: germanic
+  pops:
+    - religion: germanic
       estate: peasant
       size: 1000
 300.1.1:
@@ -16,14 +15,12 @@
   cores:
     SAX: yes
 350.1.1:
-  pop:
-    - ethnicity: lower_saxon
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 747.1.1:
-  pop:
-    - religion: chalcedonism
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 804.1.1:
   owner: FRAN
@@ -37,9 +34,8 @@
     FRAN: no
     EFRA: yes
 867.1.1:
-  pop:
-    - religion: catholic
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 911.11.10:
   owner: SAX
@@ -53,9 +49,8 @@
     SAX: no
     VRD: yes
 1529.1.1:
-  pop:
-    - religion: lutheran
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1648.10.24:
   owner: SWE

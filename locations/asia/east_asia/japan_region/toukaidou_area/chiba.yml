@@ -5,15 +5,13 @@
   cores:
     EMIS: yes
   resource: fish
-  pop:
-    - ethnicity: emishi
-      religion: mari_paganism
+  pops:
+    - religion: mari_paganism
       estate: peasant
       size: 1000
 607.1.1:
-  pop:
-    - religion: mahayana
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 650.1.1:
   owner: YMT
@@ -22,14 +20,12 @@
     EMIS: no
     YMT: yes
 712.1.1:
-  pop:
-    - religion: shinto
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 750.1.1:
-  pop:
-    - ethnicity: saigoku_culture
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 794.1.1:
   owner: JAP

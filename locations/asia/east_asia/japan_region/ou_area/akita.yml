@@ -5,9 +5,8 @@
   cores:
     ANU: yes
   resource: fish
-  pop:
-    - ethnicity: ainu_culture
-      religion: mari_paganism
+  pops:
+    - religion: mari_paganism
       estate: peasant
       size: 1000
 650.1.1:
@@ -16,9 +15,8 @@
   cores:
     ANU: no
     EMIS: yes
-  pop:
-    - ethnicity: emishi
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 802.1.1:
   owner: JAP
@@ -27,9 +25,8 @@
     EMIS: no
     JAP: yes
 820.1.1:
-  pop:
-    - religion: shinto
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 940.1.1:
   owner: KIYO
@@ -37,9 +34,8 @@
   cores:
     KIYO: yes
 1000.1.1:
-  pop:
-    - ethnicity: saigoku_culture
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1087.12.11:
   owner: FUJI

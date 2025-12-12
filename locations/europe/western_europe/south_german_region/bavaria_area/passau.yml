@@ -5,15 +5,13 @@
   cores:
     ROM: yes
   resource: fish
-  pop:
-    - ethnicity: southern_bavarian
-      religion: germanic
+  pops:
+    - religion: germanic
       estate: peasant
       size: 1000
 350.1.1:
-  pop:
-    - religion: chalcedonism
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 395.1.17:
   owner: ROMW
@@ -51,9 +49,8 @@
     FRAN: no
     BAV: yes
 867.1.1:
-  pop:
-    - religion: catholic
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 880.3.22:
   owner: EFRA

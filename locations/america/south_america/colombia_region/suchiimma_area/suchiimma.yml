@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/2806 - Guajira.txt
 2.1.1:
-  pop:
-    - ethnicity: wayuu_culture
-      religion: muisca_religion
+  pops:
+    - religion: muisca_religion
       estate: peasant
       size: 1000
 1525.1.1:
@@ -11,18 +10,16 @@
   cores:
     SPA: yes
   resource: wool
-  pop:
-    - ethnicity: castilian
-      religion: catholic
+  pops:
+    - religion: catholic
       estate: peasant
       size: 1000
 1577.6.30:
   cores:
     SPA: yes
 1770.1.1:
-  pop:
-    - ethnicity: iberian_colombian
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1811.7.5:
   owner: VENE

@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/3034 - Inner Colombia.txt
 2.1.1:
-  pop:
-    - ethnicity: shuar_culture
-      religion: muisca_religion
+  pops:
+    - religion: muisca_religion
       estate: peasant
       size: 1000
 1750.1.1:
@@ -11,15 +10,13 @@
   cores:
     COLO: yes
   resource: tropical_wood
-  pop:
-    - ethnicity: castilian
-      religion: catholic
+  pops:
+    - religion: catholic
       estate: peasant
       size: 1000
 1770.1.1:
-  pop:
-    - ethnicity: iberian_colombian
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1775.1.1:
   cores:

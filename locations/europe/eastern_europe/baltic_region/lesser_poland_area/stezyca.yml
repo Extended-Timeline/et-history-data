@@ -5,9 +5,8 @@
   cores:
     VEND: yes
   resource: cloth
-  pop:
-    - ethnicity: lesser_polish
-      religion: slavic
+  pops:
+    - religion: slavic
       estate: peasant
       size: 1000
 140.1.1:
@@ -16,9 +15,8 @@
   cores:
     VEND: no
     GOTH: yes
-  pop:
-    - ethnicity: gothic
-      religion: germanic
+  pops:
+    - religion: germanic
       estate: peasant
       size: 1000
 150.1.1:
@@ -27,9 +25,8 @@
   cores:
     GOTH: no
     VEND: yes
-  pop:
-    - ethnicity: lesser_polish
-      religion: slavic
+  pops:
+    - religion: slavic
       estate: peasant
       size: 1000
 200.1.1:
@@ -38,9 +35,8 @@
   cores:
     VEND: no
     GEPI: yes
-  pop:
-    - ethnicity: gepid
-      religion: germanic
+  pops:
+    - religion: germanic
       estate: peasant
       size: 1000
 250.1.1:
@@ -49,9 +45,8 @@
   cores:
     GEPI: no
     VIST: yes
-  pop:
-    - ethnicity: lesser_polish
-      religion: slavic
+  pops:
+    - religion: slavic
       estate: peasant
       size: 1000
 940.1.1:
@@ -60,9 +55,8 @@
   cores:
     POL: yes
 1050.1.1:
-  pop:
-    - religion: catholic
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1138.10.28:
   owner: SAND
@@ -75,9 +69,8 @@
   cores:
     POL: yes
 1550.1.1:
-  pop:
-    - religion: calvinist
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1569.7.1:
   owner: PLC
@@ -124,9 +117,8 @@
 1939.10.6:
   owner: GER
 1940.1.1:
-  pop:
-    - religion: catholic
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1945.1.16:
   controller: SOVI

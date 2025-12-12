@@ -5,9 +5,8 @@
   cores:
     SATA: yes
   resource: grain
-  pop:
-    - ethnicity: telugu
-      religion: jain
+  pops:
+    - religion: jain
       estate: peasant
       size: 1000
 220.1.1:
@@ -41,9 +40,8 @@
     CHAL: no
     PALL: yes
 880.1.1:
-  pop:
-    - religion: hindu
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 897.1.1:
   owner: CHOL

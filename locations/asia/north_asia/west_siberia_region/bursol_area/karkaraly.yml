@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/478 - Argyn.txt
 2.1.1:
-  pop:
-    - ethnicity: kimek
-      religion: 
+  pops:
+    - religion: 
       estate: peasant
       size: 1000
 260.1.1:
@@ -36,9 +35,8 @@
     KANG: no
     KIME: yes
 1200.1.1:
-  pop:
-    - ethnicity: khazak
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1220.1.1:
   owner: MGE
@@ -57,9 +55,8 @@
   cores:
     GLH: yes
 1380.1.1:
-  pop:
-    - religion: sunni
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1394.1.1:
   owner: KAZA

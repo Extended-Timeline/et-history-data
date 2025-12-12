@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/1989 - Tonga.txt
 2.1.1:
-  pop:
-    - ethnicity: maohi_culture
-      religion: bimoism
+  pops:
+    - religion: bimoism
       estate: peasant
       size: 1000
 900.1.1:
@@ -12,9 +11,8 @@
     TOG: yes
   resource: naval_supplies
 1845.12.4:
-  pop:
-    - religion: lutheran
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1900.5.18:
   owner: GBR

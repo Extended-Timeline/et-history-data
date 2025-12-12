@@ -6,9 +6,8 @@
     BOSP: yes
     ROM: yes
   resource: slaves
-  pop:
-    - ethnicity: pontic_greek_culture
-      religion: hellenism_religion
+  pops:
+    - religion: hellenism_religion
       estate: peasant
       size: 1000
 250.1.1:
@@ -19,9 +18,8 @@
     ROM: no
     OSTR: yes
 300.1.1:
-  pop:
-    - ethnicity: gothic
-      religion: germanic
+  pops:
+    - religion: germanic
       estate: peasant
       size: 1000
 370.1.1:
@@ -30,16 +28,14 @@
   cores:
     OSTR: no
     HUNS: yes
-  pop:
-    - religion: 
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 420.1.1:
   cores:
     UTIG: yes
-  pop:
-    - ethnicity: bolghar_culture
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 469.1.1:
   owner: UTIG
@@ -64,9 +60,8 @@
   cores:
     HUN: no
     KHAZ: yes
-  pop:
-    - ethnicity: khazar
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 969.1.1:
   owner: PECH
@@ -74,9 +69,8 @@
   cores:
     KHAZ: no
     PECH: yes
-  pop:
-    - ethnicity: cuman_culture
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1060.1.1:
   owner: CUMA
@@ -91,14 +85,12 @@
   cores:
     CUMA: no
     MGE: yes
-  pop:
-    - ethnicity: crimean
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1240.1.1:
-  pop:
-    - religion: sunni
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1260.1.1:
   owner: WHHO
@@ -147,14 +139,12 @@
 1760.1.1:
   resource: salt
 1840.1.1:
-  pop:
-    - religion: orthodox
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1860.1.1:
-  pop:
-    - ethnicity: muscovite
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1922.12.30:
   owner: SOVI

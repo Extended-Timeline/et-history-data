@@ -5,9 +5,8 @@
   cores:
     VASC: yes
   resource: iron
-  pop:
-    - ethnicity: basque
-      religion: bimoism
+  pops:
+    - religion: bimoism
       estate: peasant
       size: 1000
 14.1.1:
@@ -22,9 +21,8 @@
     ROM: no
     ROMW: yes
 420.1.1:
-  pop:
-    - religion: chalcedonism
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 455.1.1:
   owner: VASC
@@ -44,9 +42,8 @@
   cores:
     VISG: yes
 589.1.1:
-  pop:
-    - religion: chalcedonism
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 711.1.1:
   owner: VASC
@@ -77,9 +74,8 @@
     VASC: no
     NAV: yes
 867.1.1:
-  pop:
-    - religion: catholic
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1512.7.24:
   owner: ARA

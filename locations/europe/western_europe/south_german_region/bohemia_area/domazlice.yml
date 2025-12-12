@@ -5,9 +5,8 @@
   cores:
     MARC: yes
   resource: naval_supplies
-  pop:
-    - ethnicity: southern_bavarian
-      religion: germanic
+  pops:
+    - religion: germanic
       estate: peasant
       size: 1000
 395.1.1:
@@ -16,9 +15,8 @@
   cores:
     MARC: no
     VAND: yes
-  pop:
-    - ethnicity: vandal
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 417.1.1:
   owner: BAV
@@ -26,9 +24,8 @@
   cores:
     VAND: no
     BAV: yes
-  pop:
-    - ethnicity: southern_bavarian
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 450.1.1:
   owner: RUGI
@@ -42,9 +39,8 @@
   cores:
     RUGI: no
     LOMB: yes
-  pop:
-    - ethnicity: langobardi
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 550.1.1:
   owner: BOH
@@ -52,9 +48,8 @@
   cores:
     LOMB: no
     BOH: yes
-  pop:
-    - ethnicity: czech
-      religion: slavic
+  pops:
+    - religion: slavic
       estate: peasant
       size: 1000
 833.1.1:
@@ -68,9 +63,8 @@
   cores:
     MVA: no
 900.1.1:
-  pop:
-    - religion: catholic
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1466.1.1:
   owner: HUN
@@ -117,9 +111,8 @@
   cores:
     GER: no
 1990.1.1:
-  pop:
-    - religion: irreligious
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1992.12.31:
   owner: CZEC

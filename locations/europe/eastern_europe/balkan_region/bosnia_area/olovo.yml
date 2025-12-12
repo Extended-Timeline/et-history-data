@@ -5,9 +5,8 @@
   cores:
     ROM: yes
   resource: grain
-  pop:
-    - ethnicity: illyrian
-      religion: druidism
+  pops:
+    - religion: druidism
       estate: peasant
       size: 1000
 395.1.17:
@@ -17,9 +16,8 @@
     ROM: no
     ROMW: yes
 450.1.1:
-  pop:
-    - religion: arianism
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 455.1.1:
   owner: OSTR
@@ -27,9 +25,8 @@
   cores:
     ROMW: no
     OSTR: yes
-  pop:
-    - ethnicity: gothic
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 540.1.1:
   owner: BYZ
@@ -40,9 +37,8 @@
 610.1.1:
   cores:
     SER: yes
-  pop:
-    - ethnicity: bosnian
-      religion: slavic
+  pops:
+    - religion: slavic
       estate: peasant
       size: 1000
 630.1.1:
@@ -51,9 +47,8 @@
   cores:
     BYZ: no
 869.1.1:
-  pop:
-    - religion: orthodox
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 960.1.1:
   owner: CRO
@@ -123,9 +118,8 @@
   cores:
     TUR: yes
 1710.1.1:
-  pop:
-    - religion: sunni
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1716.12.9:
   controller: HAB

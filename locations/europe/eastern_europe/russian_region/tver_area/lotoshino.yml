@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/4249 - Zubtsov.txt
 2.1.1:
-  pop:
-    - ethnicity: muscovite
-      religion: slavic
+  pops:
+    - religion: slavic
       estate: peasant
       size: 1000
 550.1.1:
@@ -24,9 +23,8 @@
     KIEV: no
     NOV: yes
 1120.1.1:
-  pop:
-    - religion: orthodox
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1209.1.1:
   owner: VLR

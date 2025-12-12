@@ -5,9 +5,8 @@
   cores:
     ARJU: yes
   resource: cotton
-  pop:
-    - ethnicity: kannauji
-      religion: jain
+  pops:
+    - religion: jain
       estate: peasant
       size: 1000
 120.1.1:
@@ -28,9 +27,8 @@
     ARJU: no
     GUPT: yes
 440.1.1:
-  pop:
-    - religion: hindu
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 540.1.1:
   owner: KANN
@@ -61,14 +59,12 @@
     KANN: no
     TOMA: yes
 800.1.1:
-  pop:
-    - religion: mahayana
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 890.1.1:
-  pop:
-    - religion: hindu
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1068.1.1:
   owner: GAHA

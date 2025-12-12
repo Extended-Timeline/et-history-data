@@ -6,9 +6,8 @@
     HAN0: yes
     WEI0: yes
   resource: livestock
-  pop:
-    - ethnicity: amdowa_culture
-      religion: mahayana
+  pops:
+    - religion: mahayana
       estate: peasant
       size: 1000
 9.1.10:
@@ -124,14 +123,12 @@
     TANG: no
     TIB: yes
 800.1.1:
-  pop:
-    - religion: tibetan_buddhism
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 840.1.1:
-  pop:
-    - ethnicity: uyghur_culture
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 842.1.1:
   owner: PHAG
@@ -177,9 +174,8 @@
     MGE: no
     YUA: yes
 1300.1.1:
-  pop:
-    - ethnicity: xibei
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1368.1.23:
   owner: MGE

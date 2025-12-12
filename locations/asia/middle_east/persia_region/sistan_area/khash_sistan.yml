@@ -6,9 +6,8 @@
     IPAR: yes
     SURE: yes
   resource: wool
-  pop:
-    - ethnicity: afghan_culture
-      religion: zunism
+  pops:
+    - religion: zunism
       estate: peasant
       size: 1000
 20.1.1:
@@ -29,9 +28,8 @@
     ERA: no
     RASH: yes
 650.1.1:
-  pop:
-    - ethnicity: khorasani_culture
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 661.7.28:
   owner: UMAY
@@ -40,9 +38,8 @@
     RASH: no
     UMAY: yes
 680.1.1:
-  pop:
-    - religion: sunni
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 750.8.6:
   owner: ABBA
@@ -116,9 +113,8 @@
   cores:
     AFGH: yes
 1760.1.1:
-  pop:
-    - ethnicity: afghan_culture
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1820.1.1:
   cores:

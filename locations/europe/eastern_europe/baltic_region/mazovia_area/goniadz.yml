@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/269 - Podlasia.txt
 2.1.1:
-  pop:
-    - ethnicity: yotvingian
-      religion: romuva
+  pops:
+    - religion: romuva
       estate: peasant
       size: 1000
 550.1.1:
@@ -17,9 +16,8 @@
   cores:
     LIT: yes
 1320.1.1:
-  pop:
-    - ethnicity: lesser_polish
-      religion: catholic
+  pops:
+    - religion: catholic
       estate: peasant
       size: 1000
 1569.7.1:

@@ -5,9 +5,8 @@
   cores:
     YAUD: yes
   resource: copper
-  pop:
-    - ethnicity: marwari
-      religion: hindu
+  pops:
+    - religion: hindu
       estate: peasant
       size: 1000
 180.1.1:

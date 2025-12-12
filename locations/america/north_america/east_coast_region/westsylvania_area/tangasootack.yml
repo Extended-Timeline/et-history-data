@@ -5,9 +5,8 @@
   cores:
     SUSQ: yes
   resource: grain
-  pop:
-    - ethnicity: carantouan_culture
-      religion: iroquoian_totemism
+  pops:
+    - religion: iroquoian_totemism
       estate: peasant
       size: 1000
 1677.1.1:
@@ -15,24 +14,21 @@
   controller: UNA
   cores:
     UNA: yes
-  pop:
-    - ethnicity: unami_culture
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1756.1.1:
   owner: GBR
   controller: GBR
   cores:
     GBR: yes
-  pop:
-    - ethnicity: english
-      religion: lutheran
+  pops:
+    - religion: lutheran
       estate: peasant
       size: 1000
 1764.7.1:
-  pop:
-    - ethnicity: american
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1776.7.4:
   owner: USA

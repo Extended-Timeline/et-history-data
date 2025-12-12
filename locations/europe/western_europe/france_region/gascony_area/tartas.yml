@@ -6,15 +6,13 @@
     ROM: yes
     VASC: yes
   resource: wine
-  pop:
-    - ethnicity: aquitanian
-      religion: bimoism
+  pops:
+    - religion: bimoism
       estate: peasant
       size: 1000
 300.1.1:
-  pop:
-    - religion: chalcedonism
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 395.1.17:
   owner: ROMW
@@ -30,9 +28,8 @@
     ROMW: no
     VISG: yes
 500.1.1:
-  pop:
-    - ethnicity: basque
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 507.1.1:
   owner: FRAN
@@ -102,9 +99,8 @@
     WFRA: no
     AQN: yes
 867.1.1:
-  pop:
-    - religion: catholic
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 877.10.6:
   owner: GUY
@@ -153,9 +149,8 @@
     AMG: no
     AUV: yes
 1560.1.1:
-  pop:
-    - religion: calvinist
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1589.1.5:
   owner: NAV
@@ -167,9 +162,8 @@
   owner: FRA
   controller: FRA
 1686.1.17:
-  pop:
-    - religion: catholic
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1870.9.4:
   owner: FRA
@@ -183,7 +177,6 @@
   owner: FRA
   controller: FRA
 1950.1.1:
-  pop:
-    - ethnicity: french
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000

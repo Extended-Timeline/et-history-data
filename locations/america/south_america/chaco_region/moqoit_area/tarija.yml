@@ -5,9 +5,8 @@
   cores:
     CALC: yes
   resource: wool
-  pop:
-    - ethnicity: aimara_culture
-      religion: muisca_religion
+  pops:
+    - religion: muisca_religion
       estate: peasant
       size: 1000
 1485.1.1:
@@ -20,15 +19,13 @@
   controller: SPA
   cores:
     SPA: yes
-  pop:
-    - ethnicity: castilian
-      religion: catholic
+  pops:
+    - religion: catholic
       estate: peasant
       size: 1000
 1770.1.1:
-  pop:
-    - ethnicity: iberian_peruvian
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1825.8.6:
   owner: BOLI

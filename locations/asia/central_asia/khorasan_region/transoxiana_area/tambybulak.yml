@@ -5,9 +5,8 @@
   cores:
     KAGJ: yes
   resource: livestock
-  pop:
-    - ethnicity: khazak
-      religion: 
+  pops:
+    - religion: 
       estate: peasant
       size: 1000
 320.1.1:
@@ -46,9 +45,8 @@
   cores:
     UMAY: yes
 750.1.1:
-  pop:
-    - religion: manichaeism
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 750.8.6:
   owner: ABBA
@@ -57,9 +55,8 @@
     UMAY: no
     ABBA: yes
 800.1.1:
-  pop:
-    - religion: sunni
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 819.1.1:
   owner: CHAC
@@ -146,9 +143,8 @@
   cores:
     RUS: yes
 1870.1.1:
-  pop:
-    - ethnicity: uzbek_culture
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1917.11.27:
   owner: TUKS

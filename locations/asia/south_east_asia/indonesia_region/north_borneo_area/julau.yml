@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/2705 - Sarawak.txt
 2.1.1:
-  pop:
-    - ethnicity: bidayuh_culture
-      religion: hindu
+  pops:
+    - religion: hindu
       estate: peasant
       size: 1000
 600.1.1:
@@ -17,9 +16,8 @@
   cores:
     BEI: yes
 1380.1.1:
-  pop:
-    - religion: sunni
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1578.4.16:
   owner: SPA
@@ -41,9 +39,8 @@
   cores:
     GBR: yes
 1900.1.1:
-  pop:
-    - ethnicity: malay_culture
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1941.12.24:
   controller: JAP

@@ -1,26 +1,23 @@
 #imported from EU4 file: history/provinces/2660 - Managua.txt
 2.1.1:
-  pop:
-    - ethnicity: miskito_culture
-      religion: muisca_religion
+  pops:
+    - religion: muisca_religion
       estate: peasant
       size: 1000
 1523.1.1:
   owner: SPA
   controller: SPA
   resource: coffee
-  pop:
-    - ethnicity: castilian
-      religion: catholic
+  pops:
+    - religion: catholic
       estate: peasant
       size: 1000
 1548.1.1:
   cores:
     SPA: yes
 1770.1.1:
-  pop:
-    - ethnicity: mexican
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1810.9.16:
   owner: MEX

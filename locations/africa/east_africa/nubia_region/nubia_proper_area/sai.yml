@@ -5,15 +5,13 @@
   cores:
     MERO: yes
   resource: livestock
-  pop:
-    - ethnicity: kushite
-      religion: egyptian
+  pops:
+    - religion: egyptian
       estate: peasant
       size: 1000
 340.1.1:
-  pop:
-    - ethnicity: nubian_language
-      religion: bantu_religion
+  pops:
+    - religion: bantu_religion
       estate: peasant
       size: 1000
 350.1.1:
@@ -23,9 +21,8 @@
     MERO: no
     MAK: yes
 550.1.1:
-  pop:
-    - religion: miaphysite
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1276.1.1:
   owner: MAM
@@ -67,7 +64,6 @@
     GBR: no
     EGY: no
 1960.1.1:
-  pop:
-    - religion: sunni
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000

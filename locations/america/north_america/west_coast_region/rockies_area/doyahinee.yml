@@ -1,9 +1,8 @@
 #imported from EU4 file: history/provinces/4917 - Selis.txt
 2.1.1:
   resource: fur
-  pop:
-    - ethnicity: saleesh_culture
-      religion: iroquoian_totemism
+  pops:
+    - religion: iroquoian_totemism
       estate: peasant
       size: 1000
 1855.1.1:
@@ -12,8 +11,7 @@
   cores:
     ???: no
     USA: yes
-  pop:
-    - ethnicity: british_californian
-      religion: lutheran
+  pops:
+    - religion: lutheran
       estate: peasant
       size: 1000

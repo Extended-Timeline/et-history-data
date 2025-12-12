@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/1096 - Cape Verde.txt
 2.1.1:
-  pop:
-    - ethnicity: uninhabited
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1457.1.1:
   owner: POR
@@ -10,9 +9,8 @@
   cores:
     POR: yes
   resource: slaves
-  pop:
-    - ethnicity: portuguese
-      religion: catholic
+  pops:
+    - religion: catholic
       estate: peasant
       size: 1000
 1500.1.1:

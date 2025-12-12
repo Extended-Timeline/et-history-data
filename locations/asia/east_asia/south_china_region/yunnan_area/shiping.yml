@@ -5,9 +5,8 @@
   cores:
     SHYU: yes
   resource: copper
-  pop:
-    - ethnicity: zhuang_culture
-      religion: bimoism
+  pops:
+    - religion: bimoism
       estate: peasant
       size: 1000
 316.1.1:
@@ -49,9 +48,8 @@
   cores:
     NANZ: yes
 660.1.1:
-  pop:
-    - religion: tibetan_buddhism
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 700.1.1:
   owner: NANZ
@@ -60,9 +58,8 @@
     TANG: no
     NANZ: yes
 800.1.1:
-  pop:
-    - ethnicity: bai_culture
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 937.1.1:
   owner: CDL

@@ -6,18 +6,16 @@
     BAEK: yes
     MAHA: yes
   resource: chinaware
-  pop:
-    - ethnicity: korean_culture
-      religion: muism
+  pops:
+    - religion: muism
       estate: peasant
       size: 1000
 360.1.1:
   cores:
     MAHA: no
 372.1.1:
-  pop:
-    - religion: mahayana
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 555.1.1:
   owner: SILL
@@ -45,9 +43,8 @@
   cores:
     GORY: no
     KOR: yes
-  pop:
-    - religion: sanjiao
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1592.6.11:
   controller: TOYO
@@ -88,12 +85,10 @@
 1950.1.1:
   resource: cars
 1970.1.1:
-  pop:
-    - religion: lutheran
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1990.1.1:
-  pop:
-    - religion: irreligious
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000

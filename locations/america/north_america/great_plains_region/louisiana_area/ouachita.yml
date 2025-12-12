@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/4885 - Avoyel.txt
 2.1.1:
-  pop:
-    - ethnicity: natchez_culture
-      religion: iroquoian_totemism
+  pops:
+    - religion: iroquoian_totemism
       estate: peasant
       size: 1000
 1200.1.1:
@@ -22,9 +21,8 @@
   cores:
     FRA: yes
   resource: cotton
-  pop:
-    - ethnicity: french
-      religion: catholic
+  pops:
+    - religion: catholic
       estate: peasant
       size: 1000
 1762.1.1:
@@ -34,9 +32,8 @@
     FRA: no
   resource: grain
 1770.1.1:
-  pop:
-    - ethnicity: french_louisianan
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1787.1.1:
   cores:
@@ -54,14 +51,12 @@
     FRA: no
     USA: yes
 1830.1.1:
-  pop:
-    - ethnicity: british_louisianan
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1840.1.1:
-  pop:
-    - religion: lutheran
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1861.1.26:
   owner: LOUI

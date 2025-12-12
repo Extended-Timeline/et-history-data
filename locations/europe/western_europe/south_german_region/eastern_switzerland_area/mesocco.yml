@@ -5,15 +5,13 @@
   cores:
     ROM: yes
   resource: livestock
-  pop:
-    - ethnicity: romansh
-      religion: druidism
+  pops:
+    - religion: druidism
       estate: peasant
       size: 1000
 360.1.1:
-  pop:
-    - religion: chalcedonism
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 395.1.17:
   owner: ROMW
@@ -58,9 +56,8 @@
     FRAN: no
     EFRA: yes
 867.1.1:
-  pop:
-    - religion: catholic
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 911.11.10:
   owner: BCH
@@ -75,14 +72,12 @@
     BCH: no
     SGL: yes
 1500.1.1:
-  pop:
-    - ethnicity: high_alemannic
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1524.1.1:
-  pop:
-    - religion: calvinist
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1799.4.21:
   owner: SWI

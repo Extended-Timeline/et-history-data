@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/2792 - Togdheer.txt
 2.1.1:
-  pop:
-    - ethnicity: somali_culture
-      religion: bantu_religion
+  pops:
+    - religion: bantu_religion
       estate: peasant
       size: 1000
 1100.1.1:
@@ -11,9 +10,8 @@
   cores:
     WAR: yes
   resource: slaves
-  pop:
-    - religion: sunni
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1526.1.1:
   owner: ADA

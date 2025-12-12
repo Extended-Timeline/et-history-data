@@ -6,9 +6,8 @@
     HAN0: yes
     DAI: yes
   resource: naval_supplies
-  pop:
-    - ethnicity: vietnamese_culture
-      religion: mahayana
+  pops:
+    - religion: mahayana
       estate: peasant
       size: 1000
 9.1.10:

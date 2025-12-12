@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/1245 - Irian.txt
 2.1.1:
-  pop:
-    - ethnicity: asmat_culture
-      religion: bimoism
+  pops:
+    - religion: bimoism
       estate: peasant
       size: 1000
 1896.1.1:
@@ -11,9 +10,8 @@
   cores:
     NED: yes
   resource: fish
-  pop:
-    - religion: calvinist
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1912.9.10:
   cores:

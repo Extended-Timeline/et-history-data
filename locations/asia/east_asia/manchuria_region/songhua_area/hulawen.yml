@@ -5,9 +5,8 @@
   cores:
     BUYE: yes
   resource: grain
-  pop:
-    - ethnicity: buyeo
-      religion: muism
+  pops:
+    - religion: muism
       estate: peasant
       size: 1000
 410.1.1:
@@ -16,9 +15,8 @@
   cores:
     GOGU: yes
 420.1.1:
-  pop:
-    - religion: mahayana
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 668.1.1:
   owner: SUMO
@@ -45,9 +43,8 @@
     LIAO: no
     JIN0: yes
 1120.1.1:
-  pop:
-    - ethnicity: jurchen_culture
-      religion: 
+  pops:
+    - religion: 
       estate: peasant
       size: 1000
 1214.1.1:
@@ -79,9 +76,8 @@
   cores:
     JIAZ: no
     MCH: yes
-  pop:
-    - ethnicity: manchu_new
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1636.5.15:
   owner: QNG
@@ -90,9 +86,8 @@
     MCH: no
     QNG: yes
 1880.1.1:
-  pop:
-    - religion: sanjiao
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1912.2.12:
   owner: CHI

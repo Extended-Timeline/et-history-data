@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/4143 - Smalenene.txt
 2.1.1:
-  pop:
-    - ethnicity: norwegian
-      religion: norse
+  pops:
+    - religion: norse
       estate: peasant
       size: 1000
 550.1.1:
@@ -18,18 +17,16 @@
     VEST: no
     NOR: yes
 1030.1.1:
-  pop:
-    - religion: catholic
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1536.1.1:
   owner: DAN
   controller: DAN
   cores:
     DAN: yes
-  pop:
-    - religion: lutheran
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1814.1.14:
   owner: SWE

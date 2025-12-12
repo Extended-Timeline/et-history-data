@@ -5,17 +5,15 @@
   cores:
     ANU: yes
   resource: fish
-  pop:
-    - ethnicity: ainu_culture
-      religion: mari_paganism
+  pops:
+    - religion: mari_paganism
       estate: peasant
       size: 1000
 1679.1.1:
   owner: TOKU
   controller: TOKU
-  pop:
-    - ethnicity: saigoku_culture
-      religion: shinto
+  pops:
+    - religion: shinto
       estate: peasant
       size: 1000
 1704.1.1:

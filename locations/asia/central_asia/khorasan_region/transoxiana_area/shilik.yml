@@ -5,9 +5,8 @@
   cores:
     KAGJ: yes
   resource: salt
-  pop:
-    - ethnicity: khazak
-      religion: 
+  pops:
+    - religion: 
       estate: peasant
       size: 1000
 320.1.1:
@@ -69,9 +68,8 @@
     KOKA: no
     KKHA: yes
 934.1.1:
-  pop:
-    - religion: sunni
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 991.1.1:
   owner: TRAN

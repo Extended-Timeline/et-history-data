@@ -5,9 +5,8 @@
   cores:
     NSAT: yes
   resource: cloth
-  pop:
-    - ethnicity: punjabi
-      religion: hindu
+  pops:
+    - religion: hindu
       estate: peasant
       size: 1000
 120.1.1:
@@ -110,9 +109,8 @@
   owner: MUG
   controller: MUG
 1700.1.1:
-  pop:
-    - religion: sikhism
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1757.1.1:
   owner: AFGH

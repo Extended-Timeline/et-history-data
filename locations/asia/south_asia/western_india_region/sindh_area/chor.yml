@@ -5,9 +5,8 @@
   cores:
     SND: yes
   resource: wool
-  pop:
-    - ethnicity: sindhi
-      religion: hindu
+  pops:
+    - religion: hindu
       estate: peasant
       size: 1000
 76.1.1:

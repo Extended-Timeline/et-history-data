@@ -5,9 +5,8 @@
   cores:
     QIAN: yes
   resource: livestock
-  pop:
-    - ethnicity: amdowa_culture
-      religion: bon
+  pops:
+    - religion: bon
       estate: peasant
       size: 1000
 284.1.1:
@@ -17,9 +16,8 @@
     QIAN: no
     TUYU: yes
 285.1.1:
-  pop:
-    - religion: 
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 663.1.1:
   owner: TIB
@@ -27,9 +25,8 @@
   cores:
     TIB: yes
 680.1.1:
-  pop:
-    - religion: tibetan_buddhism
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 842.1.1:
   owner: PHAG
@@ -55,9 +52,8 @@
   cores:
     TSON: no
     SYOG: yes
-  pop:
-    - ethnicity: uyghur_culture
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1227.1.1:
   owner: MGE
@@ -82,9 +78,8 @@
   cores:
     KHOS: yes
 1650.1.1:
-  pop:
-    - ethnicity: oirat_culture
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1717.1.1:
   owner: ZUNG

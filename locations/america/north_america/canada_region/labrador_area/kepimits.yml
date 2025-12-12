@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/2575 - Naskapi.txt
 2.1.1:
-  pop:
-    - ethnicity: innu_culture
-      religion: iroquoian_totemism
+  pops:
+    - religion: iroquoian_totemism
       estate: peasant
       size: 1000
 1743.1.1:
@@ -11,9 +10,8 @@
   cores:
     FRA: yes
   resource: fur
-  pop:
-    - ethnicity: french
-      religion: catholic
+  pops:
+    - religion: catholic
       estate: peasant
       size: 1000
 1763.2.10:
@@ -22,19 +20,16 @@
   cores:
     FRA: no
     GBR: yes
-  pop:
-    - ethnicity: english
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1790.1.1:
-  pop:
-    - ethnicity: british_canadian
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1820.1.1:
-  pop:
-    - religion: lutheran
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1907.9.26:
   owner: NEWF

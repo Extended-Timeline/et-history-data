@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/2284 - Borno.txt
 2.1.1:
-  pop:
-    - ethnicity: kanembu_culture
-      religion: bantu_religion
+  pops:
+    - religion: bantu_religion
       estate: peasant
       size: 1000
 523.1.1:
@@ -12,9 +11,8 @@
     KBO: yes
   resource: livestock
 1064.1.1:
-  pop:
-    - religion: sunni
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1900.4.22:
   owner: FRA

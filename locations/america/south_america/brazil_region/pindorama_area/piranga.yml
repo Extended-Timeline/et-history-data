@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/2899 - Vila Rica.txt
 2.1.1:
-  pop:
-    - ethnicity: akwe_culture
-      religion: muisca_religion
+  pops:
+    - religion: muisca_religion
       estate: peasant
       size: 1000
 1652.1.1:
@@ -11,17 +10,15 @@
   cores:
     POR: yes
   resource: gold
-  pop:
-    - ethnicity: portuguese
-      religion: catholic
+  pops:
+    - religion: catholic
       estate: peasant
       size: 1000
 1710.1.1:
   controller: POR
 1780.1.1:
-  pop:
-    - ethnicity: brazilian
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1792.4.21:
   controller: POR

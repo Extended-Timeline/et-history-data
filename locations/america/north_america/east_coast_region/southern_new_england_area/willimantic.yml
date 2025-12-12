@@ -5,9 +5,8 @@
   cores:
     PQT: yes
   resource: fish
-  pop:
-    - ethnicity: pequot_culture
-      religion: iroquoian_totemism
+  pops:
+    - religion: iroquoian_totemism
       estate: peasant
       size: 1000
 1636.1.1:
@@ -15,9 +14,8 @@
   controller: ENG
   cores:
     ENG: yes
-  pop:
-    - ethnicity: english
-      religion: calvinist
+  pops:
+    - religion: calvinist
       estate: peasant
       size: 1000
 1707.5.12:
@@ -27,9 +25,8 @@
     ENG: no
     GBR: yes
 1764.7.1:
-  pop:
-    - ethnicity: american
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1776.7.4:
   owner: USA

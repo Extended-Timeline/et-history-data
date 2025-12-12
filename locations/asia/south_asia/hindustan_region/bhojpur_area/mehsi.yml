@@ -5,9 +5,8 @@
   cores:
     VAJJ: yes
   resource: grain
-  pop:
-    - ethnicity: magahi
-      religion: mahayana
+  pops:
+    - religion: mahayana
       estate: peasant
       size: 1000
 120.1.1:
@@ -58,9 +57,8 @@
     PALA: no
     TIRH: yes
 1250.1.1:
-  pop:
-    - religion: hindu
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1497.1.1:
   controller: DLH

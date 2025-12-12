@@ -5,15 +5,13 @@
   cores:
     ROM: yes
   resource: livestock
-  pop:
-    - ethnicity: kushite
-      religion: egyptian
+  pops:
+    - religion: egyptian
       estate: peasant
       size: 1000
 350.1.1:
-  pop:
-    - ethnicity: nubian_language
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 395.1.17:
   owner: BYZ
@@ -22,9 +20,8 @@
     ROM: no
     BYZ: yes
 520.1.1:
-  pop:
-    - religion: miaphysite
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 655.1.1:
   owner: RASH
@@ -39,9 +36,8 @@
     RASH: no
     UMAY: yes
 720.1.1:
-  pop:
-    - ethnicity: upper_egyptian_culture
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 750.8.6:
   owner: ABBA
@@ -72,9 +68,8 @@
   cores:
     FATI: yes
 980.1.1:
-  pop:
-    - religion: shia
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1171.1.1:
   owner: EGY
@@ -83,9 +78,8 @@
     FATI: no
     EGY: yes
 1180.1.1:
-  pop:
-    - religion: sunni
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1250.5.2:
   owner: MAM

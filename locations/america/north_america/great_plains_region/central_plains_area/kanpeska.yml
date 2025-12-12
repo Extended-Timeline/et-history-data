@@ -5,9 +5,8 @@
   cores:
     KIA: yes
   resource: grain
-  pop:
-    - ethnicity: tsawi_culture
-      religion: iroquoian_totemism
+  pops:
+    - religion: iroquoian_totemism
       estate: peasant
       size: 1000
 1848.1.1:
@@ -16,8 +15,7 @@
   cores:
     USA: yes
   resource: grain
-  pop:
-    - ethnicity: american
-      religion: lutheran
+  pops:
+    - religion: lutheran
       estate: peasant
       size: 1000

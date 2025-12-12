@@ -5,18 +5,16 @@
   cores:
     MOOR: yes
   resource: copper
-  pop:
-    - ethnicity: zenati
-      religion: bantu_religion
+  pops:
+    - religion: bantu_religion
       estate: peasant
       size: 1000
 720.1.1:
   owner: UMAY
   controller: UMAY
 730.1.1:
-  pop:
-    - religion: ibadi
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 743.1.1:
   owner: FEZ
@@ -31,9 +29,8 @@
     FEZ: no
     MOR: yes
 790.1.1:
-  pop:
-    - religion: shia
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 922.1.1:
   owner: FATI
@@ -54,9 +51,8 @@
     MOR: no
     CRDB: yes
 990.1.1:
-  pop:
-    - religion: sunni
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1031.1.1:
   owner: FEZ
@@ -71,9 +67,8 @@
     FEZ: no
     MOR: yes
 1060.1.1:
-  pop:
-    - ethnicity: moroccan
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1472.1.1:
   owner: FEZ

@@ -5,9 +5,8 @@
   cores:
     MARC: yes
   resource: grain
-  pop:
-    - ethnicity: southern_bavarian
-      religion: germanic
+  pops:
+    - religion: germanic
       estate: peasant
       size: 1000
 395.1.1:
@@ -16,9 +15,8 @@
   cores:
     MARC: no
     LOMB: yes
-  pop:
-    - ethnicity: langobardi
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 454.1.1:
   owner: HERU
@@ -26,9 +24,8 @@
   cores:
     LOMB: no
     HERU: yes
-  pop:
-    - ethnicity: southern_bavarian
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 509.1.1:
   owner: LOMB
@@ -36,9 +33,8 @@
   cores:
     HERU: no
     LOMB: yes
-  pop:
-    - ethnicity: langobardi
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 569.1.1:
   owner: MVA
@@ -46,9 +42,8 @@
   cores:
     LOMB: no
     MVA: yes
-  pop:
-    - ethnicity: czech
-      religion: slavic
+  pops:
+    - religion: slavic
       estate: peasant
       size: 1000
 623.1.1:
@@ -62,9 +57,8 @@
   cores:
     SAMO: no
 880.1.1:
-  pop:
-    - religion: catholic
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 894.1.1:
   owner: BOH
@@ -73,9 +67,8 @@
     MVA: no
     BOH: yes
 1419.12.1:
-  pop:
-    - religion: hussite
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1436.7.5:
   controller: BOH
@@ -86,9 +79,8 @@
     BOH: no
     HAB: yes
 1576.1.1:
-  pop:
-    - religion: lutheran
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1618.5.23:
   owner: BOH
@@ -101,9 +93,8 @@
   cores:
     BOH: no
 1627.1.1:
-  pop:
-    - religion: catholic
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1918.10.28:
   owner: CZES
@@ -128,7 +119,6 @@
     CZES: no
     CZEC: yes
 1995.1.1:
-  pop:
-    - religion: irreligious
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000

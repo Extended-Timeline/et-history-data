@@ -5,15 +5,13 @@
   cores:
     SIJI: yes
   resource: livestock
-  pop:
-    - ethnicity: tuareg
-      religion: bantu_religion
+  pops:
+    - religion: bantu_religion
       estate: peasant
       size: 1000
 780.1.1:
-  pop:
-    - religion: ibadi
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1053.1.1:
   owner: MOR
@@ -22,9 +20,8 @@
     SIJI: no
     MOR: yes
 1100.1.1:
-  pop:
-    - religion: sunni
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1145.1.1:
   controller: SOS
@@ -41,9 +38,8 @@
   cores:
     TLE: no
 1300.1.1:
-  pop:
-    - ethnicity: moroccan
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1352.1.1:
   owner: ATLA

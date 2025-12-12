@@ -5,9 +5,8 @@
   cores:
     WCRE: yes
   resource: fur
-  pop:
-    - ethnicity: ilili_culture
-      religion: iroquoian_totemism
+  pops:
+    - religion: iroquoian_totemism
       estate: peasant
       size: 1000
 1908.1.1:
@@ -16,8 +15,7 @@
   cores:
     WCRE: no
     CAN: yes
-  pop:
-    - ethnicity: british_canadian
-      religion: catholic
+  pops:
+    - religion: catholic
       estate: peasant
       size: 1000

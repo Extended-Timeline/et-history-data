@@ -5,15 +5,13 @@
   cores:
     GOGU: yes
   resource: naval_supplies
-  pop:
-    - ethnicity: korean_culture
-      religion: muism
+  pops:
+    - religion: muism
       estate: peasant
       size: 1000
 372.1.1:
-  pop:
-    - religion: mahayana
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 698.1.1:
   owner: BALH
@@ -57,9 +55,8 @@
   cores:
     YUA: no
 1392.1.1:
-  pop:
-    - religion: sanjiao
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1435.1.1:
   owner: KOR
@@ -98,9 +95,8 @@
     KOR: no
     JOE: yes
 1948.1.1:
-  pop:
-    - religion: muism
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1948.9.9:
   owner: NKOR

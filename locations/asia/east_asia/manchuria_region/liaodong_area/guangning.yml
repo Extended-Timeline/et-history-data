@@ -6,9 +6,8 @@
     HAN0: yes
     WEI0: yes
   resource: fish
-  pop:
-    - ethnicity: khitan
-      religion: sanjiao
+  pops:
+    - religion: sanjiao
       estate: peasant
       size: 1000
 9.1.10:
@@ -91,9 +90,8 @@
     LIAO: no
     JIN0: yes
 1200.1.1:
-  pop:
-    - ethnicity: jurchen_culture
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1214.1.1:
   owner: MGE
@@ -125,9 +123,8 @@
   controller: MCH
   cores:
     MCH: yes
-  pop:
-    - ethnicity: manchu_new
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1636.5.15:
   owner: QNG

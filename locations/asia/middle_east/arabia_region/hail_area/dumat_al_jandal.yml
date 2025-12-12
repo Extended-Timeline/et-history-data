@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/4272 - Al Jawf.txt
 2.1.1:
-  pop:
-    - ethnicity: najdi_culture
-      religion: nabataean
+  pops:
+    - religion: nabataean
       estate: peasant
       size: 1000
 220.1.1:
@@ -12,9 +11,8 @@
     GHAS: yes
   resource: livestock
 230.1.1:
-  pop:
-    - religion: chalcedonism
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 460.1.1:
   owner: KIND
@@ -23,9 +21,8 @@
     GHAS: no
     KIND: yes
 480.1.1:
-  pop:
-    - religion: south_arabian
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 530.1.1:
   owner: ANZ
@@ -38,9 +35,8 @@
   controller: RASH
   cores:
     RASH: yes
-  pop:
-    - religion: islam
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 661.7.28:
   owner: UMAY
@@ -48,9 +44,8 @@
   cores:
     RASH: no
     UMAY: yes
-  pop:
-    - religion: sunni
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 750.8.6:
   owner: ABBA

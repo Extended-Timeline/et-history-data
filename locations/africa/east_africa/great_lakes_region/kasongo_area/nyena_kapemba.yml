@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/4103 - Tabwa.txt
 2.1.1:
-  pop:
-    - ethnicity: twa_culture
-      religion: bantu_religion
+  pops:
+    - religion: bantu_religion
       estate: peasant
       size: 1000
 300.1.1:
-  pop:
-    - ethnicity: luba
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1350.1.1:
   owner: KAZE
@@ -22,9 +20,8 @@
   cores:
     GBR: yes
 1960.1.1:
-  pop:
-    - religion: lutheran
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1964.10.24:
   owner: ZAMB

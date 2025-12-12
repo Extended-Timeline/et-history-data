@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/2879 - Santa Tecla.txt
 2.1.1:
-  pop:
-    - ethnicity: ava_culture
-      religion: muisca_religion
+  pops:
+    - religion: muisca_religion
       estate: peasant
       size: 1000
 1609.1.1:
@@ -11,18 +10,16 @@
   cores:
     GUAR: yes
   resource: tobacco
-  pop:
-    - religion: catholic
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1756.2.1:
   owner: SPA
   controller: SPA
   cores:
     SPA: yes
-  pop:
-    - religion: catholic
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1776.3.23:
   owner: POR
@@ -31,9 +28,8 @@
     SPA: no
     POR: yes
 1780.1.1:
-  pop:
-    - ethnicity: brazilian
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1822.9.7:
   owner: BRAZ

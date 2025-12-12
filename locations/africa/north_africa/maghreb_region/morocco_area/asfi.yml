@@ -5,9 +5,8 @@
   cores:
     MOOR: yes
   resource: sugar
-  pop:
-    - ethnicity: masmuda
-      religion: bantu_religion
+  pops:
+    - religion: bantu_religion
       estate: peasant
       size: 1000
 720.1.1:
@@ -28,9 +27,8 @@
     BARG: no
     MOR: yes
 1080.1.1:
-  pop:
-    - ethnicity: moroccan
-      religion: sunni
+  pops:
+    - religion: sunni
       estate: peasant
       size: 1000
 1374.1.1:

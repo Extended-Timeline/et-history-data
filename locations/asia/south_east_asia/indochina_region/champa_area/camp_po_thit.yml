@@ -5,9 +5,8 @@
   cores:
     HUYN: yes
   resource: fish
-  pop:
-    - ethnicity: cham_culture
-      religion: hindu
+  pops:
+    - religion: hindu
       estate: peasant
       size: 1000
 192.1.1:
@@ -27,9 +26,8 @@
   cores:
     FUNA: no
 1600.1.1:
-  pop:
-    - religion: sunni
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1832.1.1:
   owner: ANNA
@@ -53,9 +51,8 @@
   owner: SVIE
   controller: SVIE
 1950.1.1:
-  pop:
-    - ethnicity: vietnamese_culture
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1976.7.2:
   owner: VIET

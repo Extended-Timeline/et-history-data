@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/4628 - Nitahende.txt
 2.1.1:
-  pop:
-    - ethnicity: yaqui_culture
-      religion: iroquoian_totemism
+  pops:
+    - religion: iroquoian_totemism
       estate: peasant
       size: 1000
 1200.1.1:
-  pop:
-    - ethnicity: naadahende_culture
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1682.1.1:
   owner: SPA
@@ -16,15 +14,13 @@
   cores:
     SPA: yes
   resource: grain
-  pop:
-    - ethnicity: castilian
-      religion: catholic
+  pops:
+    - religion: catholic
       estate: peasant
       size: 1000
 1770.1.1:
-  pop:
-    - ethnicity: mexican
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1810.9.16:
   owner: MEX
@@ -40,9 +36,8 @@
   controller: TEXA
   cores:
     TEXA: yes
-  pop:
-    - ethnicity: iberian_louisianan
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1845.12.29:
   owner: USA

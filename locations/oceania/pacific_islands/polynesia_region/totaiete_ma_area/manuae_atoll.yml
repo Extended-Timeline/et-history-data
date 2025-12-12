@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/1987 - Society Islands.txt
 2.1.1:
-  pop:
-    - ethnicity: maohi_culture
-      religion: bimoism
+  pops:
+    - religion: bimoism
       estate: peasant
       size: 1000
 1788.1.1:
@@ -12,9 +11,8 @@
     TAHI: yes
   resource: fish
 1840.1.1:
-  pop:
-    - religion: lutheran
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1880.6.29:
   owner: FRA
@@ -22,7 +20,6 @@
   cores:
     FRA: yes
 1900.1.1:
-  pop:
-    - religion: catholic
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000

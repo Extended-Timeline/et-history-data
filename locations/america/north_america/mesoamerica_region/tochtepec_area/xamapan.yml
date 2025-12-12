@@ -5,9 +5,8 @@
   cores:
     TOT: yes
   resource: sugar
-  pop:
-    - ethnicity: totonac_culture
-      religion: nahuatl
+  pops:
+    - religion: nahuatl
       estate: peasant
       size: 1000
 850.1.1:
@@ -34,18 +33,16 @@
   controller: SPA
   cores:
     SPA: yes
-  pop:
-    - ethnicity: castilian
-      religion: catholic
+  pops:
+    - religion: catholic
       estate: peasant
       size: 1000
 1544.1.1:
   cores:
     SPA: yes
 1770.1.1:
-  pop:
-    - ethnicity: mexican
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1810.9.16:
   owner: MEX

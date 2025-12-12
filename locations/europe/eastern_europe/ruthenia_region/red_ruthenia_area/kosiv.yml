@@ -5,15 +5,13 @@
   cores:
     BAST: yes
   resource: grain
-  pop:
-    - ethnicity: pannonian
-      religion: druidism
+  pops:
+    - religion: druidism
       estate: peasant
       size: 1000
 150.1.1:
-  pop:
-    - ethnicity: gothic
-      religion: germanic
+  pops:
+    - religion: germanic
       estate: peasant
       size: 1000
 250.1.1:
@@ -22,9 +20,8 @@
   cores:
     BAST: no
     GEPI: yes
-  pop:
-    - ethnicity: gepid
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 450.1.1:
   owner: WHCR
@@ -32,9 +29,8 @@
   cores:
     GEPI: no
     WHCR: yes
-  pop:
-    - ethnicity: ruthenian
-      religion: slavic
+  pops:
+    - religion: slavic
       estate: peasant
       size: 1000
 804.1.1:
@@ -57,9 +53,8 @@
     PECH: no
     KIEV: yes
 988.1.1:
-  pop:
-    - religion: orthodox
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1054.2.20:
   owner: HAL

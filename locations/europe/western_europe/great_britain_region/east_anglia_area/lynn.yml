@@ -5,9 +5,8 @@
   cores:
     ICEN: yes
   resource: iron
-  pop:
-    - ethnicity: briton
-      religion: druidism
+  pops:
+    - religion: druidism
       estate: peasant
       size: 1000
 43.1.1:
@@ -28,15 +27,13 @@
     ROMW: no
     ICEN: no
     EANG: yes
-  pop:
-    - ethnicity: anglo_saxon
-      religion: germanic
+  pops:
+    - religion: germanic
       estate: peasant
       size: 1000
 616.1.1:
-  pop:
-    - religion: chalcedonism
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 794.1.1:
   owner: MERC
@@ -49,9 +46,8 @@
   cores:
     MERC: no
 867.1.1:
-  pop:
-    - religion: catholic
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 918.1.1:
   owner: WESS
@@ -68,9 +64,8 @@
   cores:
     EANG: no
 1066.12.25:
-  pop:
-    - ethnicity: english
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1461.6.28:
   controller: ENG
@@ -79,14 +74,12 @@
 1471.5.4:
   controller: ENG
 1548.1.1:
-  pop:
-    - religion: lutheran
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1585.1.1:
-  pop:
-    - religion: calvinist
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1646.5.5:
   controller: ENG

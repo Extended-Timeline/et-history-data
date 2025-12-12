@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/3021 - Equatorial Guinea.txt
 2.1.1:
-  pop:
-    - ethnicity: fang_gabun
-      religion: bantu_religion
+  pops:
+    - religion: bantu_religion
       estate: peasant
       size: 1000
 1885.1.1:
@@ -12,9 +11,8 @@
     SPA: yes
   resource: naval_supplies
 1900.1.1:
-  pop:
-    - religion: catholic
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1968.10.12:
   owner: EQGU

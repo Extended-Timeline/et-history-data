@@ -5,9 +5,8 @@
   cores:
     KAPI: yes
   resource: gems
-  pop:
-    - ethnicity: afghan_culture
-      religion: mahayana
+  pops:
+    - religion: mahayana
       estate: peasant
       size: 1000
 30.1.1:
@@ -34,9 +33,8 @@
     KIDA: no
     KAPI: yes
 500.1.1:
-  pop:
-    - religion: hindu
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 665.1.1:
   owner: SHI
@@ -57,9 +55,8 @@
     SIST: no
     BUKH: yes
 910.1.1:
-  pop:
-    - religion: sunni
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 977.1.1:
   owner: GHAZ

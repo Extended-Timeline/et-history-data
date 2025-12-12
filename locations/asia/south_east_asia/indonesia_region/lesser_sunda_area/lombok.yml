@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/2693 - Lombok.txt
 2.1.1:
-  pop:
-    - ethnicity: javanese_culture
-      religion: bimoism
+  pops:
+    - religion: bimoism
       estate: peasant
       size: 1000
 1750.1.1:
@@ -12,9 +11,8 @@
     BLI: yes
   resource: cotton
 1780.1.1:
-  pop:
-    - religion: sunni
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1849.1.1:
   owner: NED

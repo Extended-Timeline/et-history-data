@@ -5,9 +5,8 @@
   cores:
     ELYM: yes
   resource: wool
-  pop:
-    - ethnicity: lur_culture
-      religion: zoroastrian
+  pops:
+    - religion: zoroastrian
       estate: peasant
       size: 1000
 222.1.1:
@@ -28,9 +27,8 @@
     RASH: no
     UMAY: yes
 680.1.1:
-  pop:
-    - religion: sunni
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 750.8.6:
   owner: ABBA
@@ -81,9 +79,8 @@
     SHB: no
     IDAJ: yes
 1280.1.1:
-  pop:
-    - religion: shia
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1424.1.1:
   owner: TIM

@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/274 - Pskov.txt
 2.1.1:
-  pop:
-    - ethnicity: ingrian
-      religion: muinaisusko
+  pops:
+    - religion: muinaisusko
       estate: peasant
       size: 1000
 550.1.1:
@@ -18,9 +17,8 @@
     ILME: no
     NOV: yes
 870.1.1:
-  pop:
-    - religion: slavic
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 882.1.1:
   owner: KIEV
@@ -29,14 +27,12 @@
     NOV: no
     KIEV: yes
 900.1.1:
-  pop:
-    - ethnicity: novgorodian
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 988.1.1:
-  pop:
-    - religion: orthodox
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1054.2.20:
   owner: NOV

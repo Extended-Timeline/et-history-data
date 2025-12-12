@@ -5,9 +5,8 @@
   cores:
     CAMB: yes
   resource: grain
-  pop:
-    - ethnicity: bahnar_culture
-      religion: bimoism
+  pops:
+    - religion: bimoism
       estate: peasant
       size: 1000
 220.1.1:

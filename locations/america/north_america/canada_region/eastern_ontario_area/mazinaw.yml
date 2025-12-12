@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/4890 - Kichessipirini.txt
 2.1.1:
-  pop:
-    - ethnicity: weskarini_culture
-      religion: iroquoian_totemism
+  pops:
+    - religion: iroquoian_totemism
       estate: peasant
       size: 1000
 1674.1.1:
@@ -11,9 +10,8 @@
   cores:
     FRA: yes
   resource: fur
-  pop:
-    - ethnicity: french
-      religion: catholic
+  pops:
+    - religion: catholic
       estate: peasant
       size: 1000
 1763.2.10:
@@ -23,15 +21,13 @@
     FRA: no
     GBR: yes
 1783.1.1:
-  pop:
-    - ethnicity: english
-      religion: lutheran
+  pops:
+    - religion: lutheran
       estate: peasant
       size: 1000
 1790.1.1:
-  pop:
-    - ethnicity: british_canadian
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1867.7.1:
   owner: CAN

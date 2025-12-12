@@ -5,9 +5,8 @@
   cores:
     TAGT: yes
   resource: tea
-  pop:
-    - ethnicity: amdowa_culture
-      religion: bon
+  pops:
+    - religion: bon
       estate: peasant
       size: 1000
 575.1.1:
@@ -22,9 +21,8 @@
   cores:
     TIB: yes
 630.1.1:
-  pop:
-    - religion: tibetan_buddhism
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 842.1.1:
   owner: PHAG

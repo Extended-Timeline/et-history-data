@@ -5,9 +5,8 @@
   cores:
     ARM: yes
   resource: livestock
-  pop:
-    - ethnicity: armenian_culture
-      religion: zoroastrian
+  pops:
+    - religion: zoroastrian
       estate: peasant
       size: 1000
 114.1.1:
@@ -26,9 +25,8 @@
   cores:
     ERA: yes
 360.1.1:
-  pop:
-    - religion: chalcedonism
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 387.1.1:
   owner: CALB
@@ -37,9 +35,8 @@
     ERA: no
     CALB: yes
 506.1.1:
-  pop:
-    - religion: miaphysite
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 822.1.1:
   owner: ABBA

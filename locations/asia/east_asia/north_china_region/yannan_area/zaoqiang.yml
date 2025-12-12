@@ -6,9 +6,8 @@
     HAN0: yes
     WEI0: yes
   resource: grain
-  pop:
-    - ethnicity: hubei
-      religion: sanjiao
+  pops:
+    - religion: sanjiao
       estate: peasant
       size: 1000
 9.1.10:

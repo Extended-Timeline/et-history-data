@@ -5,9 +5,8 @@
   cores:
     IAZY: yes
   resource: livestock
-  pop:
-    - ethnicity: pannonian
-      religion: druidism
+  pops:
+    - religion: druidism
       estate: peasant
       size: 1000
 300.1.1:
@@ -16,15 +15,13 @@
   cores:
     IAZY: no
     GEPI: yes
-  pop:
-    - ethnicity: gepid
-      religion: germanic
+  pops:
+    - religion: germanic
       estate: peasant
       size: 1000
 400.1.1:
-  pop:
-    - religion: arianism
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 567.1.1:
   owner: AVR
@@ -32,9 +29,8 @@
   cores:
     GEPI: no
     AVR: yes
-  pop:
-    - ethnicity: avar_culture
-      religion: 
+  pops:
+    - religion: 
       estate: peasant
       size: 1000
 804.1.1:
@@ -49,14 +45,12 @@
   cores:
     BUL: no
     HUN: yes
-  pop:
-    - ethnicity: hungarian
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1050.1.1:
-  pop:
-    - religion: catholic
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1507.1.1:
   controller: HUN
@@ -71,9 +65,8 @@
     HAB: yes
     TRA: yes
 1540.1.1:
-  pop:
-    - religion: calvinist
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1542.1.1:
   controller: TRA
@@ -88,9 +81,8 @@
   owner: TRA
   controller: TRA
 1567.1.1:
-  pop:
-    - religion: calvinist
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1570.1.1:
   owner: HAB

@@ -6,9 +6,8 @@
     BUKH: yes
     KHWA: yes
   resource: salt
-  pop:
-    - ethnicity: khwarezmian
-      religion: zoroastrian
+  pops:
+    - religion: zoroastrian
       estate: peasant
       size: 1000
 80.1.1:
@@ -74,9 +73,8 @@
     KHWA: no
     BUKH: yes
 910.1.1:
-  pop:
-    - ethnicity: uzbek_culture
-      religion: sunni
+  pops:
+    - religion: sunni
       estate: peasant
       size: 1000
 999.1.1:

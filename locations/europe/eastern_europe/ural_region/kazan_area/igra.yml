@@ -1,9 +1,8 @@
 #imported from EU4 file: history/provinces/4266 - Izhkar.txt
 2.1.1:
   resource: iron
-  pop:
-    - ethnicity: udmurt
-      religion: muinaisusko
+  pops:
+    - religion: muinaisusko
       estate: peasant
       size: 1000
 750.1.1:
@@ -52,9 +51,8 @@
     KAZN: no
     RUS: yes
 1600.1.1:
-  pop:
-    - religion: orthodox
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1775.2.1:
   controller: RUS

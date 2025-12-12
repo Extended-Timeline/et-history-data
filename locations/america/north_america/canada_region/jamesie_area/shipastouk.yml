@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/1805 - Quebec.txt
 2.1.1:
-  pop:
-    - ethnicity: ilili_culture
-      religion: iroquoian_totemism
+  pops:
+    - religion: iroquoian_totemism
       estate: peasant
       size: 1000
 1903.1.1:
@@ -11,9 +10,8 @@
   cores:
     CAN: yes
   resource: gold
-  pop:
-    - religion: catholic
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1949.1.1:
   resource: copper

@@ -5,9 +5,8 @@
   cores:
     KALI: yes
   resource: cloth
-  pop:
-    - ethnicity: orissan
-      religion: jain
+  pops:
+    - religion: jain
       estate: peasant
       size: 1000
 150.1.1:
@@ -21,9 +20,8 @@
   cores:
     GUPT: yes
 570.1.1:
-  pop:
-    - religion: hindu
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 575.1.1:
   owner: TOSH

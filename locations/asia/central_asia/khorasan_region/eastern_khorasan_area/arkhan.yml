@@ -5,15 +5,13 @@
   cores:
     KUSH: yes
   resource: cotton
-  pop:
-    - ethnicity: bactrian
-      religion: mahayana
+  pops:
+    - religion: mahayana
       estate: peasant
       size: 1000
 20.1.1:
-  pop:
-    - ethnicity: afghan_culture
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 230.1.1:
   owner: KSAS
@@ -84,9 +82,8 @@
   cores:
     BUKH: yes
 920.1.1:
-  pop:
-    - religion: sunni
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1002.1.1:
   owner: GHAZ

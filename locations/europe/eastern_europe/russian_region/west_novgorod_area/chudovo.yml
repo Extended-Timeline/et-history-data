@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/310 - Novgorod.txt
 2.1.1:
-  pop:
-    - ethnicity: ingrian
-      religion: muinaisusko
+  pops:
+    - religion: muinaisusko
       estate: peasant
       size: 1000
 550.1.1:
@@ -18,9 +17,8 @@
     VOTI: no
     ILME: yes
 780.1.1:
-  pop:
-    - religion: slavic
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 860.1.1:
   owner: NOV
@@ -35,14 +33,12 @@
     NOV: no
     KIEV: yes
 900.1.1:
-  pop:
-    - ethnicity: novgorodian
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 960.1.1:
-  pop:
-    - religion: orthodox
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1054.2.20:
   owner: NOV

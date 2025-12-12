@@ -5,9 +5,8 @@
   cores:
     BUYE: yes
   resource: iron
-  pop:
-    - ethnicity: buyeo
-      religion: muism
+  pops:
+    - religion: muism
       estate: peasant
       size: 1000
 380.1.1:
@@ -16,9 +15,8 @@
   cores:
     GOGU: yes
 420.1.1:
-  pop:
-    - religion: mahayana
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 698.1.1:
   owner: BALH
@@ -33,9 +31,8 @@
     BALH: no
     LIAO: yes
 940.1.1:
-  pop:
-    - ethnicity: jurchen_culture
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1115.1.1:
   owner: JIN0
@@ -44,9 +41,8 @@
     LIAO: no
     JIN0: yes
 1120.1.1:
-  pop:
-    - religion: sanjiao
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1214.1.1:
   owner: MGE
@@ -72,9 +68,8 @@
   cores:
     JIAZ: no
     MCH: yes
-  pop:
-    - ethnicity: manchu_new
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1636.5.15:
   owner: QNG

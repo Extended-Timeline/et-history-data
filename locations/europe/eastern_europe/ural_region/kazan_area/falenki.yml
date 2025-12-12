@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/1972 - Udmurtia.txt
 2.1.1:
-  pop:
-    - ethnicity: udmurt
-      religion: muinaisusko
+  pops:
+    - religion: muinaisusko
       estate: peasant
       size: 1000
 750.1.1:
@@ -51,9 +50,8 @@
     KAZN: no
     RUS: yes
 1600.1.1:
-  pop:
-    - ethnicity: muscovite
-      religion: orthodox
+  pops:
+    - religion: orthodox
       estate: peasant
       size: 1000
 1775.2.1:

@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/2779 - Afder.txt
 2.1.1:
-  pop:
-    - ethnicity: somali_culture
-      religion: bantu_religion
+  pops:
+    - religion: bantu_religion
       estate: peasant
       size: 1000
 1200.1.1:
@@ -11,9 +10,8 @@
   cores:
     OGAD: yes
   resource: livestock
-  pop:
-    - religion: sunni
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1897.1.1:
   owner: ETH

@@ -5,9 +5,8 @@
   cores:
     CHER: yes
   resource: tropical_wood
-  pop:
-    - ethnicity: kannadiga
-      religion: hindu
+  pops:
+    - religion: hindu
       estate: peasant
       size: 1000
 250.1.1:

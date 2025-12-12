@@ -5,9 +5,8 @@
   cores:
     JUTE: yes
   resource: fish
-  pop:
-    - ethnicity: jute
-      religion: norse
+  pops:
+    - religion: norse
       estate: peasant
       size: 1000
 650.1.1:
@@ -17,21 +16,18 @@
     JUTE: no
     DAN: yes
 660.1.1:
-  pop:
-    - ethnicity: danish
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 900.1.1:
-  pop:
-    - religion: catholic
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1534.11.2:
   controller: DAN
 1536.1.1:
-  pop:
-    - religion: lutheran
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1644.1.25:
   controller: SWE

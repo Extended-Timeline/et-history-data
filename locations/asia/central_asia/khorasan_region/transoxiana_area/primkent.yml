@@ -5,9 +5,8 @@
   cores:
     SAMA: yes
   resource: spices
-  pop:
-    - ethnicity: sogdian
-      religion: zoroastrian
+  pops:
+    - religion: zoroastrian
       estate: peasant
       size: 1000
 130.1.1:
@@ -73,9 +72,8 @@
     UMAY: no
     ABBA: yes
 800.1.1:
-  pop:
-    - ethnicity: tajik_culture
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 819.1.1:
   owner: SAMA
@@ -89,9 +87,8 @@
   cores:
     KOKA: yes
 880.1.1:
-  pop:
-    - religion: sunni
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 892.8.1:
   owner: BUKH
@@ -147,9 +144,8 @@
   cores:
     TIM: yes
 1380.1.1:
-  pop:
-    - ethnicity: uzbek_culture
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1409.5.13:
   owner: TRAN

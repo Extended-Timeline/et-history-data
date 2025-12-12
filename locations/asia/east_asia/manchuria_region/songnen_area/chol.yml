@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/4665 - West Buteha.txt
 2.1.1:
-  pop:
-    - ethnicity: chahar
-      religion: 
+  pops:
+    - religion: 
       estate: peasant
       size: 1000
 450.1.1:
@@ -53,9 +52,8 @@
     MCH: no
     QNG: yes
 1650.1.1:
-  pop:
-    - religion: tibetan_buddhism
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1912.2.12:
   owner: CHI

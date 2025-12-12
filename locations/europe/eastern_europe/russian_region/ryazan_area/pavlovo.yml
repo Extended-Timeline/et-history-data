@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/2423 - Alatyr.txt
 2.1.1:
-  pop:
-    - ethnicity: moksha_culture
-      religion: 
+  pops:
+    - religion: 
       estate: peasant
       size: 1000
 600.1.1:
@@ -18,9 +17,8 @@
     MGE: yes
     KAZN: yes
 1250.1.1:
-  pop:
-    - ethnicity: kazani
-      religion: sunni
+  pops:
+    - religion: sunni
       estate: peasant
       size: 1000
 1260.1.1:
@@ -31,9 +29,8 @@
     VBUL: no
     WHHO: yes
 1280.1.1:
-  pop:
-    - ethnicity: muscovite
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1340.1.1:
   owner: VLR
@@ -42,9 +39,8 @@
     WHHO: no
     VLR: yes
 1350.1.1:
-  pop:
-    - religion: orthodox
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1389.1.1:
   owner: NZH

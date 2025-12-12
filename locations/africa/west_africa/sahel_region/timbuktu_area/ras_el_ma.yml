@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/2260 - Mema.txt
 2.1.1:
-  pop:
-    - ethnicity: bambara
-      religion: bantu_religion
+  pops:
+    - religion: bantu_religion
       estate: peasant
       size: 1000
 350.1.1:
@@ -23,9 +22,8 @@
     MOR: no
     GHAN: yes
 1200.1.1:
-  pop:
-    - religion: sunni
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1240.1.1:
   owner: MAL

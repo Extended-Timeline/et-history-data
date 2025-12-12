@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/1801 - Kalahari.txt
 2.1.1:
-  pop:
-    - ethnicity: gxana_culture
-      religion: bantu_religion
+  pops:
+    - religion: bantu_religion
       estate: peasant
       size: 1000
 1890.1.1:
@@ -11,9 +10,8 @@
   cores:
     GBR: yes
   resource: wool
-  pop:
-    - religion: lutheran
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1966.9.30:
   owner: BOTS

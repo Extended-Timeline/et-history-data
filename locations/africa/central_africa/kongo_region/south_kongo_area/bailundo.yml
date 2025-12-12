@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/4084 - Malem.txt
 2.1.1:
-  pop:
-    - ethnicity: mbangala
-      religion: bantu_religion
+  pops:
+    - religion: bantu_religion
       estate: peasant
       size: 1000
 1350.1.1:
@@ -14,9 +13,8 @@
   controller: POR
   cores:
     POR: yes
-  pop:
-    - religion: lutheran
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1975.11.11:
   owner: ANGO

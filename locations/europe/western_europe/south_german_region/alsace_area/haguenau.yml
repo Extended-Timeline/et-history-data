@@ -5,15 +5,13 @@
   cores:
     ROM: yes
   resource: wine
-  pop:
-    - ethnicity: high_alemannic
-      religion: germanic
+  pops:
+    - religion: germanic
       estate: peasant
       size: 1000
 360.1.1:
-  pop:
-    - religion: chalcedonism
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 395.1.17:
   owner: ROMW
@@ -45,9 +43,8 @@
     MFRA: no
     LOT: yes
 867.1.1:
-  pop:
-    - religion: catholic
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 870.8.8:
   owner: EFRA
@@ -88,9 +85,8 @@
   cores:
     BUR: no
 1525.1.1:
-  pop:
-    - religion: lutheran
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1525.6.15:
   controller: ALS
@@ -101,9 +97,8 @@
   owner: FRA
   controller: FRA
 1686.1.17:
-  pop:
-    - religion: catholic
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1870.9.4:
   owner: FRA
@@ -134,7 +129,6 @@
   cores:
     GER: no
 1946.1.1:
-  pop:
-    - ethnicity: french
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000

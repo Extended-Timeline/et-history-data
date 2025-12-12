@@ -5,15 +5,13 @@
   cores:
     YARK: yes
   resource: wool
-  pop:
-    - ethnicity: saka
-      religion: 
+  pops:
+    - religion: 
       estate: peasant
       size: 1000
 200.1.1:
-  pop:
-    - religion: mahayana
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 440.1.1:
   owner: HEPH
@@ -44,14 +42,12 @@
     TIB: no
     TANG: yes
 720.1.1:
-  pop:
-    - ethnicity: uyghur_culture
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 750.1.1:
-  pop:
-    - religion: manichaeism
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 763.1.1:
   owner: TIB
@@ -65,9 +61,8 @@
   cores:
     TIB: no
     KKHA: yes
-  pop:
-    - religion: 
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1211.1.1:
   owner: KKHI
@@ -94,9 +89,8 @@
     CHG: no
     MOGH: yes
 1350.1.1:
-  pop:
-    - religion: sunni
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1389.1.1:
   owner: YARK

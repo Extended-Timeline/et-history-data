@@ -5,9 +5,8 @@
   cores:
     NASA: yes
   resource: livestock
-  pop:
-    - ethnicity: eastern_amazigh
-      religion: egyptian
+  pops:
+    - religion: egyptian
       estate: peasant
       size: 1000
 643.1.1:
@@ -50,9 +49,8 @@
   cores:
     FATI: yes
 1150.1.1:
-  pop:
-    - religion: sunni
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1171.1.1:
   owner: EGY

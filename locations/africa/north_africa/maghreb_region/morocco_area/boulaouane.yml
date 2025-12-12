@@ -5,9 +5,8 @@
   cores:
     MOOR: yes
   resource: grain
-  pop:
-    - ethnicity: masmuda
-      religion: bantu_religion
+  pops:
+    - religion: bantu_religion
       estate: peasant
       size: 1000
 720.1.1:
@@ -22,9 +21,8 @@
   cores:
     UMAY: no
 780.1.1:
-  pop:
-    - religion: ibadi
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1058.7.27:
   owner: MOR
@@ -33,9 +31,8 @@
     BARG: no
     MOR: yes
 1080.1.1:
-  pop:
-    - ethnicity: moroccan
-      religion: sunni
+  pops:
+    - religion: sunni
       estate: peasant
       size: 1000
 1472.1.1:

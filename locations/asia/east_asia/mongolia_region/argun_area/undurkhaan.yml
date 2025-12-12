@@ -5,9 +5,8 @@
   cores:
     XION: yes
   resource: livestock
-  pop:
-    - ethnicity: mongolian_culture
-      religion: 
+  pops:
+    - religion: 
       estate: peasant
       size: 1000
 91.2.1:
@@ -80,9 +79,8 @@
   cores:
     MGE: yes
 1586.1.1:
-  pop:
-    - religion: tibetan_buddhism
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1635.4.1:
   owner: KHAL

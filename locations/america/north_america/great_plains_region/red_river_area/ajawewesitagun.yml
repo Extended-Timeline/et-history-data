@@ -5,9 +5,8 @@
   cores:
     ASSI: yes
   resource: fur
-  pop:
-    - ethnicity: nakoda_culture
-      religion: iroquoian_totemism
+  pops:
+    - religion: iroquoian_totemism
       estate: peasant
       size: 1000
 1690.1.1:
@@ -20,9 +19,8 @@
   controller: GBR
   cores:
     GBR: yes
-  pop:
-    - ethnicity: english
-      religion: lutheran
+  pops:
+    - religion: lutheran
       estate: peasant
       size: 1000
 1818.10.20:
@@ -31,8 +29,7 @@
   cores:
     GBR: no
     USA: yes
-  pop:
-    - ethnicity: american
-      religion: lutheran
+  pops:
+    - religion: lutheran
       estate: peasant
       size: 1000

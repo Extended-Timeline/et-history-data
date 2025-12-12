@@ -5,15 +5,13 @@
   cores:
     ROM: yes
   resource: cloth
-  pop:
-    - ethnicity: zenati
-      religion: bantu_religion
+  pops:
+    - religion: bantu_religion
       estate: peasant
       size: 1000
 320.1.1:
-  pop:
-    - religion: chalcedonism
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 395.1.17:
   owner: ROMW
@@ -27,9 +25,8 @@
   cores:
     ROMW: no
     VAND: yes
-  pop:
-    - religion: arianism
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 534.3.1:
   owner: BYZ
@@ -38,9 +35,8 @@
     VAND: no
     BYZ: yes
 550.1.1:
-  pop:
-    - religion: chalcedonism
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 702.1.1:
   owner: UMAY
@@ -49,9 +45,8 @@
     BYZ: no
     UMAY: yes
 730.1.1:
-  pop:
-    - religion: ibadi
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 743.1.1:
   owner: NEKO
@@ -66,9 +61,8 @@
     NEKO: no
     MOR: yes
 790.1.1:
-  pop:
-    - religion: shia
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 922.1.1:
   owner: FATI
@@ -89,9 +83,8 @@
     MOR: no
     CRDB: yes
 990.1.1:
-  pop:
-    - religion: sunni
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1026.1.1:
   owner: ALGC

@@ -5,9 +5,8 @@
   cores:
     SUHM: yes
   resource: spices
-  pop:
-    - ethnicity: bengali
-      religion: jain
+  pops:
+    - religion: jain
       estate: peasant
       size: 1000
 315.1.1:
@@ -76,9 +75,8 @@
     GAUD: no
     KALI: yes
 1200.1.1:
-  pop:
-    - religion: hindu
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1434.1.1:
   owner: ORI

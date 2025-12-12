@@ -5,9 +5,8 @@
   cores:
     DAMN: yes
   resource: wool
-  pop:
-    - ethnicity: cumbric
-      religion: druidism
+  pops:
+    - religion: druidism
       estate: peasant
       size: 1000
 78.1.1:
@@ -33,9 +32,8 @@
     BRIG: no
     RHEG: yes
 450.1.1:
-  pop:
-    - religion: chalcedonism
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 480.6.1:
   cores:
@@ -47,9 +45,8 @@
     RHEG: no
     STRA: yes
 867.1.1:
-  pop:
-    - religion: catholic
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 945.1.1:
   owner: SCO
@@ -58,18 +55,16 @@
     STRA: no
     SCO: yes
 1066.12.25:
-  pop:
-    - ethnicity: scottish
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1092.1.1:
   owner: ENG
   controller: ENG
   cores:
     ENG: yes
-  pop:
-    - ethnicity: english
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1136.1.1:
   owner: SCO
@@ -100,9 +95,8 @@
   owner: ENG
   controller: ENG
 1585.1.1:
-  pop:
-    - religion: lutheran
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1645.6.28:
   controller: SCO

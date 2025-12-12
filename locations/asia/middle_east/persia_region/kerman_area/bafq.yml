@@ -5,9 +5,8 @@
   cores:
     PART: yes
   resource: wool
-  pop:
-    - ethnicity: farsi_culture
-      religion: zoroastrian
+  pops:
+    - religion: zoroastrian
       estate: peasant
       size: 1000
 224.4.24:
@@ -147,9 +146,8 @@
   cores:
     AKQO: no
     IRA: yes
-  pop:
-    - religion: shia
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1935.1.1:
   owner: IRAN

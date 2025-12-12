@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/2856 - Highveld.txt
 2.1.1:
-  pop:
-    - ethnicity: xam_culture
-      religion: bantu_religion
+  pops:
+    - religion: bantu_religion
       estate: peasant
       size: 1000
 400.1.1:
-  pop:
-    - ethnicity: nguni_culture
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1846.1.1:
   owner: GBR
@@ -16,9 +14,8 @@
   cores:
     GBR: yes
   resource: copper
-  pop:
-    - religion: calvinist
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1854.2.17:
   owner: ORFS

@@ -5,9 +5,8 @@
   cores:
     KSH: yes
   resource: wool
-  pop:
-    - ethnicity: ladakh_culture
-      religion: bon
+  pops:
+    - religion: bon
       estate: peasant
       size: 1000
 375.1.1:
@@ -46,9 +45,8 @@
     GUG: no
     LADA: yes
 980.1.1:
-  pop:
-    - religion: tibetan_buddhism
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1450.1.1:
   owner: KSH

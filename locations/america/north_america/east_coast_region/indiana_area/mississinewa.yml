@@ -5,9 +5,8 @@
   cores:
     MMI: yes
   resource: fur
-  pop:
-    - ethnicity: piankeshaw_culture
-      religion: iroquoian_totemism
+  pops:
+    - religion: iroquoian_totemism
       estate: peasant
       size: 1000
 1701.8.14:
@@ -18,8 +17,7 @@
   controller: USA
   cores:
     USA: yes
-  pop:
-    - ethnicity: american
-      religion: lutheran
+  pops:
+    - religion: lutheran
       estate: peasant
       size: 1000

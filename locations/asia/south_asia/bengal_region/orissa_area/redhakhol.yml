@@ -6,9 +6,8 @@
     KALI: yes
     DAKS: yes
   resource: naval_supplies
-  pop:
-    - ethnicity: garjati
-      religion: hindu
+  pops:
+    - religion: hindu
       estate: peasant
       size: 1000
 120.1.1:

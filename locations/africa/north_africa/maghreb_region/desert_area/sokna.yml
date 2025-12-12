@@ -5,9 +5,8 @@
   cores:
     GARA: yes
   resource: livestock
-  pop:
-    - ethnicity: eastern_amazigh
-      religion: bantu_religion
+  pops:
+    - religion: bantu_religion
       estate: peasant
       size: 1000
 660.1.1:
@@ -17,14 +16,12 @@
     GARA: no
     FZA: yes
 850.1.1:
-  pop:
-    - religion: ibadi
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1070.1.1:
-  pop:
-    - ethnicity: tunisian
-      religion: sunni
+  pops:
+    - religion: sunni
       estate: peasant
       size: 1000
 1173.1.1:

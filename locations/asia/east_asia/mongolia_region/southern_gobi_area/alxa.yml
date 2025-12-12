@@ -5,9 +5,8 @@
   cores:
     XION: yes
   resource: livestock
-  pop:
-    - ethnicity: mongolian_culture
-      religion: 
+  pops:
+    - religion: 
       estate: peasant
       size: 1000
 48.1.1:
@@ -76,9 +75,8 @@
     GUIY: no
     GANS: yes
 900.1.1:
-  pop:
-    - religion: tibetan_buddhism
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 920.1.1:
   owner: TAGT
@@ -87,9 +85,8 @@
     GANS: no
     TAGT: yes
 940.1.1:
-  pop:
-    - ethnicity: amdowa_culture
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1038.1.1:
   owner: XIA0
@@ -105,9 +102,8 @@
     MGE: yes
     QIN0: yes
 1250.1.1:
-  pop:
-    - ethnicity: mongolian_culture
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1271.1.1:
   owner: YUA

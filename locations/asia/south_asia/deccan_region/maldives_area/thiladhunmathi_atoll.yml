@@ -5,15 +5,13 @@
   cores:
     DGL: yes
   resource: gems
-  pop:
-    - ethnicity: sinhalese
-      religion: mahayana
+  pops:
+    - religion: mahayana
       estate: peasant
       size: 1000
 1154.1.1:
-  pop:
-    - religion: sunni
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1558.1.1:
   owner: POR

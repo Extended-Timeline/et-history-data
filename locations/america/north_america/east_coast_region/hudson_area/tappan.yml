@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/965 - Manhattan.txt
 2.1.1:
-  pop:
-    - ethnicity: unami_culture
-      religion: iroquoian_totemism
+  pops:
+    - religion: iroquoian_totemism
       estate: peasant
       size: 1000
 1624.1.1:
@@ -11,9 +10,8 @@
   cores:
     NED: yes
   resource: fur
-  pop:
-    - ethnicity: low_franconian
-      religion: calvinist
+  pops:
+    - religion: calvinist
       estate: peasant
       size: 1000
 1665.6.1:
@@ -23,9 +21,8 @@
   cores:
     NED: no
     ENG: yes
-  pop:
-    - ethnicity: english
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1673.1.1:
   owner: NED
@@ -33,9 +30,8 @@
   cores:
     ENG: no
     NED: yes
-  pop:
-    - ethnicity: low_franconian
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1674.11.1:
   owner: ENG
@@ -43,9 +39,8 @@
   cores:
     NED: no
     ENG: yes
-  pop:
-    - ethnicity: english
-      religion: lutheran
+  pops:
+    - religion: lutheran
       estate: peasant
       size: 1000
 1707.5.12:
@@ -55,9 +50,8 @@
     ENG: no
     GBR: yes
 1764.7.1:
-  pop:
-    - ethnicity: american
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1776.7.4:
   owner: USA
@@ -68,9 +62,8 @@
   cores:
     GBR: no
 1895.1.1:
-  pop:
-    - religion: catholic
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1970.1.1:
   resource: electronics

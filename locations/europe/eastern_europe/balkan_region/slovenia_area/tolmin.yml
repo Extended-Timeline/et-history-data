@@ -5,15 +5,13 @@
   cores:
     ROM: yes
   resource: iron
-  pop:
-    - ethnicity: venetian
-      religion: hellenism_religion
+  pops:
+    - religion: hellenism_religion
       estate: peasant
       size: 1000
 320.1.1:
-  pop:
-    - religion: chalcedonism
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 395.1.17:
   owner: ROMW
@@ -35,14 +33,12 @@
   cores:
     ITA: no
     OSTR: yes
-  pop:
-    - ethnicity: gothic
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 490.1.1:
-  pop:
-    - religion: arianism
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 545.1.1:
   owner: BYZ
@@ -57,20 +53,17 @@
     BYZ: no
     LOMB: yes
 568.6.1:
-  pop:
-    - ethnicity: lombard
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 650.1.1:
-  pop:
-    - ethnicity: slovene
-      religion: slavic
+  pops:
+    - religion: slavic
       estate: peasant
       size: 1000
 680.1.1:
-  pop:
-    - religion: chalcedonism
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 774.1.1:
   owner: FRAN
@@ -91,9 +84,8 @@
     MFRA: no
     ITA: yes
 867.1.1:
-  pop:
-    - religion: catholic
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 951.1.1:
   owner: BAV

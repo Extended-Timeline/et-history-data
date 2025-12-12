@@ -5,9 +5,8 @@
   cores:
     RAJA: yes
   resource: gems
-  pop:
-    - ethnicity: sinhalese
-      religion: theravada
+  pops:
+    - religion: theravada
       estate: peasant
       size: 1000
 993.1.1:
@@ -16,9 +15,8 @@
   cores:
     CHOL: yes
 1000.1.1:
-  pop:
-    - ethnicity: tamil
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1070.1.1:
   owner: RAJA
@@ -31,9 +29,8 @@
   cores:
     RAJA: no
     JFN: yes
-  pop:
-    - religion: hindu
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1255.1.1:
   owner: LIG

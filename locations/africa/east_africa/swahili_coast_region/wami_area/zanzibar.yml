@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/1201 - Zanzibar.txt
 2.1.1:
-  pop:
-    - ethnicity: sandawe_culture
-      religion: bantu_religion
+  pops:
+    - religion: bantu_religion
       estate: peasant
       size: 1000
 300.1.1:
-  pop:
-    - ethnicity: swahili_culture
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 850.1.1:
   owner: ZZB
@@ -16,9 +14,8 @@
   cores:
     ZZB: yes
   resource: slaves
-  pop:
-    - religion: sunni
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1100.1.1:
   owner: ZAN
@@ -54,9 +51,8 @@
     POR: no
     OMA: yes
 1760.1.1:
-  pop:
-    - religion: ibadi
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1856.10.19:
   owner: ZZB
@@ -66,9 +62,8 @@
     ZZB: yes
   resource: spices
 1920.1.1:
-  pop:
-    - religion: sunni
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1964.4.26:
   owner: TANZ

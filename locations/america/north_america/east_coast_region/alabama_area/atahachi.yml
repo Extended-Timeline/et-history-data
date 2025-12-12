@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/924 - Alabama.txt
 2.1.1:
-  pop:
-    - ethnicity: choctaw_culture
-      religion: iroquoian_totemism
+  pops:
+    - religion: iroquoian_totemism
       estate: peasant
       size: 1000
 1717.1.1:
@@ -11,9 +10,8 @@
   cores:
     FRA: yes
   resource: cotton
-  pop:
-    - ethnicity: french
-      religion: catholic
+  pops:
+    - religion: catholic
       estate: peasant
       size: 1000
 1763.2.10:
@@ -28,9 +26,8 @@
   cores:
     GBR: no
     MCG: yes
-  pop:
-    - ethnicity: muscogee_culture
-      religion: iroquoian_totemism
+  pops:
+    - religion: iroquoian_totemism
       estate: peasant
       size: 1000
 1814.8.9:
@@ -38,9 +35,8 @@
   controller: USA
   cores:
     USA: yes
-  pop:
-    - ethnicity: british_louisianan
-      religion: lutheran
+  pops:
+    - religion: lutheran
       estate: peasant
       size: 1000
 1861.1.11:

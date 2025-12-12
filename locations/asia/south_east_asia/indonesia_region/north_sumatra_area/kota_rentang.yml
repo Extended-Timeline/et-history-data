@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/4809 - Langkat.txt
 2.1.1:
-  pop:
-    - ethnicity: batak_culture
-      religion: mahayana
+  pops:
+    - religion: mahayana
       estate: peasant
       size: 1000
 550.1.1:
-  pop:
-    - religion: hindu
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 600.1.1:
   owner: PANI
@@ -34,9 +32,8 @@
     PANI: no
     DELI: yes
 1250.1.1:
-  pop:
-    - religion: sunni
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1420.1.1:
   owner: PSA

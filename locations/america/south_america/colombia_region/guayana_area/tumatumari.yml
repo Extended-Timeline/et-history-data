@@ -1,22 +1,19 @@
 #imported from EU4 file: history/provinces/2931 - Pirara.txt
 2.1.1:
-  pop:
-    - ethnicity: guaribes_culture
-      religion: muisca_religion
+  pops:
+    - religion: muisca_religion
       estate: peasant
       size: 1000
 1796.1.1:
   owner: GBR
   controller: GBR
   resource: slaves
-  pop:
-    - ethnicity: british_colombian
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1840.1.1:
-  pop:
-    - religion: calvinist
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1880.1.1:
   resource: tropical_wood

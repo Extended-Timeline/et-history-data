@@ -5,9 +5,8 @@
   cores:
     NAZC: yes
   resource: fish
-  pop:
-    - ethnicity: inka_culture
-      religion: inti
+  pops:
+    - religion: inti
       estate: peasant
       size: 1000
 600.1.1:
@@ -34,15 +33,13 @@
   cores:
     SPA: yes
   resource: fish
-  pop:
-    - ethnicity: castilian
-      religion: catholic
+  pops:
+    - religion: catholic
       estate: peasant
       size: 1000
 1770.1.1:
-  pop:
-    - ethnicity: iberian_peruvian
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1821.7.28:
   owner: PERU

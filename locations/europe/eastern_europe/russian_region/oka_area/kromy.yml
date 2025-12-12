@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/297 - Bryansk.txt
 2.1.1:
-  pop:
-    - ethnicity: ruthenian
-      religion: slavic
+  pops:
+    - religion: slavic
       estate: peasant
       size: 1000
 550.1.1:
@@ -24,9 +23,8 @@
     KIEV: no
     CHR: yes
 1060.1.1:
-  pop:
-    - religion: orthodox
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1310.1.1:
   owner: SMO
@@ -50,9 +48,8 @@
 1618.12.11:
   controller: RUS
 1678.1.1:
-  pop:
-    - ethnicity: muscovite
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1850.1.1:
   cores:

@@ -6,9 +6,8 @@
     HAN0: yes
     WEI0: yes
   resource: grain
-  pop:
-    - ethnicity: khitan
-      religion: sanjiao
+  pops:
+    - religion: sanjiao
       estate: peasant
       size: 1000
 9.1.10:
@@ -98,9 +97,8 @@
   cores:
     TANG: yes
 650.1.1:
-  pop:
-    - ethnicity: yan_culture
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 907.6.1:
   owner: YAN0

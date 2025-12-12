@@ -5,9 +5,8 @@
   cores:
     BRIG: yes
   resource: wool
-  pop:
-    - ethnicity: briton
-      religion: druidism
+  pops:
+    - religion: druidism
       estate: peasant
       size: 1000
 71.1.1:
@@ -33,14 +32,12 @@
     ROMW: no
     BRIG: no
     DEIR: yes
-  pop:
-    - ethnicity: welsh
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 559.1.1:
-  pop:
-    - ethnicity: anglo_saxon
-      religion: germanic
+  pops:
+    - religion: germanic
       estate: peasant
       size: 1000
 604.1.1:
@@ -54,9 +51,8 @@
   cores:
     BERN: no
 640.1.1:
-  pop:
-    - religion: chalcedonism
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 654.1.1:
   owner: NOL
@@ -70,9 +66,8 @@
   cores:
     DAN: yes
 875.1.1:
-  pop:
-    - ethnicity: danish
-      religion: norse
+  pops:
+    - religion: norse
       estate: peasant
       size: 1000
 918.1.1:
@@ -104,18 +99,16 @@
   controller: ENG
   cores:
     ENG: yes
-  pop:
-    - ethnicity: anglo_saxon
-      religion: catholic
+  pops:
+    - religion: catholic
       estate: peasant
       size: 1000
 1000.1.1:
   cores:
     NOL: no
 1066.12.25:
-  pop:
-    - ethnicity: english
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1461.6.28:
   controller: ENG
@@ -124,9 +117,8 @@
 1471.5.4:
   controller: ENG
 1600.1.1:
-  pop:
-    - religion: anglican
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1646.5.5:
   controller: ENG

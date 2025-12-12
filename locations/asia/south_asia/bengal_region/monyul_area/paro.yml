@@ -5,9 +5,8 @@
   cores:
     BHUT: yes
   resource: wool
-  pop:
-    - ethnicity: ngalop_culture
-      religion: bon
+  pops:
+    - religion: bon
       estate: peasant
       size: 1000
 605.1.1:
@@ -28,7 +27,6 @@
     TIB: no
     BHUT: yes
 750.1.1:
-  pop:
-    - religion: tibetan_buddhism
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000

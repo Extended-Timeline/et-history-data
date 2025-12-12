@@ -5,9 +5,8 @@
   cores:
     ROM: yes
   resource: fish
-  pop:
-    - ethnicity: eastern_amazigh
-      religion: bantu_religion
+  pops:
+    - religion: bantu_religion
       estate: peasant
       size: 1000
 350.1.1:
@@ -34,9 +33,8 @@
     RASH: no
     UMAY: yes
 720.1.1:
-  pop:
-    - ethnicity: tunisian
-      religion: sunni
+  pops:
+    - religion: sunni
       estate: peasant
       size: 1000
 745.1.1:

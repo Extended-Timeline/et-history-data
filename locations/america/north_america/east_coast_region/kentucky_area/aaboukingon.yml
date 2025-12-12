@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/4921 - Kuttawa.txt
 2.1.1:
-  pop:
-    - ethnicity: chalahgawtha_culture
-      religion: iroquoian_totemism
+  pops:
+    - religion: iroquoian_totemism
       estate: peasant
       size: 1000
 1774.10.19:
@@ -10,9 +9,8 @@
   controller: GBR
   cores:
     GBR: yes
-  pop:
-    - ethnicity: british_louisianan
-      religion: lutheran
+  pops:
+    - religion: lutheran
       estate: peasant
       size: 1000
 1776.7.4:

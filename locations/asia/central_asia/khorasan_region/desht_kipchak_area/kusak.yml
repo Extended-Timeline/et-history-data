@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/2360 - Tobykty.txt
 2.1.1:
-  pop:
-    - ethnicity: kimek
-      religion: 
+  pops:
+    - religion: 
       estate: peasant
       size: 1000
 260.1.1:
@@ -36,9 +35,8 @@
     KANG: no
     KIME: yes
 1020.1.1:
-  pop:
-    - ethnicity: uzbek_culture
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1050.1.1:
   owner: KARL
@@ -59,9 +57,8 @@
     CUMA: no
     MGE: yes
 1240.1.1:
-  pop:
-    - ethnicity: khazak
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1260.1.1:
   owner: BLHO
@@ -75,9 +72,8 @@
   cores:
     GLH: yes
 1380.1.1:
-  pop:
-    - religion: sunni
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1394.1.1:
   owner: KAZA

@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/3226 - Venda.txt
 2.1.1:
-  pop:
-    - ethnicity: kung_culture
-      religion: bantu_religion
+  pops:
+    - religion: bantu_religion
       estate: peasant
       size: 1000
 400.1.1:
-  pop:
-    - ethnicity: tswana_culture
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1852.1.17:
   owner: SAFR
@@ -16,9 +14,8 @@
   cores:
     SAFR: yes
   resource: grain
-  pop:
-    - religion: calvinist
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1877.4.12:
   owner: GBR

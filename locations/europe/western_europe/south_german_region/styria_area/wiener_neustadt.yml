@@ -5,15 +5,13 @@
   cores:
     ROM: yes
   resource: wine
-  pop:
-    - ethnicity: noric
-      religion: druidism
+  pops:
+    - religion: druidism
       estate: peasant
       size: 1000
 340.1.1:
-  pop:
-    - religion: chalcedonism
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 395.1.17:
   owner: ROMW
@@ -22,9 +20,8 @@
     ROM: no
     ROMW: yes
 460.1.1:
-  pop:
-    - ethnicity: danube_bavarian
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 467.1.1:
   owner: RUGI
@@ -32,9 +29,8 @@
   cores:
     ROMW: no
     RUGI: yes
-  pop:
-    - religion: arianism
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 487.1.1:
   owner: ITA
@@ -45,9 +41,8 @@
   cores:
     RUGI: no
     LOMB: yes
-  pop:
-    - ethnicity: langobardi
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 568.1.1:
   owner: AVR
@@ -55,14 +50,12 @@
   cores:
     LOMB: no
     AVR: yes
-  pop:
-    - ethnicity: danube_bavarian
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 570.1.1:
-  pop:
-    - religion: chalcedonism
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 623.1.1:
   owner: SAMO
@@ -89,9 +82,8 @@
     FRAN: no
     BAV: yes
 867.1.1:
-  pop:
-    - religion: catholic
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 880.3.22:
   owner: EFRA

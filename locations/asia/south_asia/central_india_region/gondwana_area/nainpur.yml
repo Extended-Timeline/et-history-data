@@ -5,9 +5,8 @@
   cores:
     GOND: yes
   resource: tropical_wood
-  pop:
-    - ethnicity: gond
-      religion: hindu
+  pops:
+    - religion: hindu
       estate: peasant
       size: 1000
 675.1.1:

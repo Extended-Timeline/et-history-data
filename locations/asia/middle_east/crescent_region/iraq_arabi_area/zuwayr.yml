@@ -5,9 +5,8 @@
   cores:
     CHRC: yes
   resource: salt
-  pop:
-    - ethnicity: iraqi_culture
-      religion: zoroastrian
+  pops:
+    - religion: zoroastrian
       estate: peasant
       size: 1000
 222.1.1:
@@ -21,9 +20,8 @@
   cores:
     ERA: no
     RASH: yes
-  pop:
-    - religion: islam
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 661.7.28:
   owner: UMAY
@@ -31,9 +29,8 @@
   cores:
     RASH: no
     UMAY: yes
-  pop:
-    - religion: sunni
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 750.8.6:
   owner: ABBA
@@ -79,9 +76,8 @@
     SELJ: no
     ABBA: yes
 1250.1.1:
-  pop:
-    - religion: shia
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1258.2.10:
   owner: MGE

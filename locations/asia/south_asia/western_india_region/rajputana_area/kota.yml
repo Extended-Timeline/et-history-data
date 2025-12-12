@@ -5,9 +5,8 @@
   cores:
     MLW: yes
   resource: cotton
-  pop:
-    - ethnicity: bundeli
-      religion: hindu
+  pops:
+    - religion: hindu
       estate: peasant
       size: 1000
 375.1.1:
@@ -16,9 +15,8 @@
   cores:
     GUPT: yes
 400.1.1:
-  pop:
-    - ethnicity: marwari
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 515.1.1:
   owner: KAPI

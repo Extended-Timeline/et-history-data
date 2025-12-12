@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/4037 - Niassa.txt
 2.1.1:
-  pop:
-    - ethnicity: zembere
-      religion: bantu_religion
+  pops:
+    - religion: bantu_religion
       estate: peasant
       size: 1000
 300.1.1:
-  pop:
-    - ethnicity: sena
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1350.1.1:
   owner: MRA
@@ -27,9 +25,8 @@
   cores:
     POR: yes
 1910.1.1:
-  pop:
-    - religion: sunni
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1975.6.25:
   owner: MOZA

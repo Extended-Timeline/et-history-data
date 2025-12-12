@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/1202 - Mombasa.txt
 2.1.1:
-  pop:
-    - ethnicity: maasai_culture
-      religion: bantu_religion
+  pops:
+    - religion: bantu_religion
       estate: peasant
       size: 1000
 200.1.1:
-  pop:
-    - ethnicity: swahili_culture
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 850.1.1:
   owner: MBA
@@ -16,9 +14,8 @@
   cores:
     MBA: yes
   resource: ivory
-  pop:
-    - religion: sunni
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1589.6.1:
   owner: MLI
@@ -50,9 +47,8 @@
   cores:
     GBR: yes
 1920.1.1:
-  pop:
-    - religion: lutheran
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1963.12.12:
   owner: KENY

@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/4883 - Napochi.txt
 2.1.1:
-  pop:
-    - ethnicity: chickasaw_culture
-      religion: iroquoian_totemism
+  pops:
+    - religion: iroquoian_totemism
       estate: peasant
       size: 1000
 1600.1.1:
@@ -14,9 +13,8 @@
   controller: USA
   cores:
     USA: yes
-  pop:
-    - ethnicity: british_louisianan
-      religion: lutheran
+  pops:
+    - religion: lutheran
       estate: peasant
       size: 1000
 1861.1.11:

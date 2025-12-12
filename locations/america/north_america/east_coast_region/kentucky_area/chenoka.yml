@@ -5,9 +5,8 @@
   cores:
     CHIS: yes
   resource: fur
-  pop:
-    - ethnicity: tsoyaha_culture
-      religion: iroquoian_totemism
+  pops:
+    - religion: iroquoian_totemism
       estate: peasant
       size: 1000
 1774.10.19:
@@ -15,9 +14,8 @@
   controller: GBR
   cores:
     GBR: yes
-  pop:
-    - ethnicity: british_louisianan
-      religion: lutheran
+  pops:
+    - religion: lutheran
       estate: peasant
       size: 1000
 1776.7.4:

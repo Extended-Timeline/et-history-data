@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/2425 - Nenets.txt
 2.1.1:
-  pop:
-    - ethnicity: nenets_culture
-      religion: muinaisusko
+  pops:
+    - religion: muinaisusko
       estate: peasant
       size: 1000
 750.1.1:
@@ -25,9 +24,8 @@
 1550.1.1:
   resource: fur
 1600.1.1:
-  pop:
-    - religion: orthodox
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1922.12.30:
   owner: SOVI

@@ -5,9 +5,8 @@
   cores:
     KGR: yes
   resource: cotton
-  pop:
-    - ethnicity: garhwali
-      religion: mahayana
+  pops:
+    - religion: mahayana
       estate: peasant
       size: 1000
 140.1.1:
@@ -31,9 +30,8 @@
   cores:
     HEPH: no
 1003.1.1:
-  pop:
-    - religion: hindu
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1620.1.1:
   controller: MUG

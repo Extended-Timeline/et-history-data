@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/903 - Omaha.txt
 2.1.1:
-  pop:
-    - ethnicity: tsawi_culture
-      religion: iroquoian_totemism
+  pops:
+    - religion: iroquoian_totemism
       estate: peasant
       size: 1000
 1710.1.1:
-  pop:
-    - ethnicity: ithanktunwan_culture
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1819.1.1:
   owner: USA
@@ -16,8 +14,7 @@
   cores:
     USA: yes
   resource: livestock
-  pop:
-    - ethnicity: american
-      religion: lutheran
+  pops:
+    - religion: lutheran
       estate: peasant
       size: 1000

@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/882 - Mescalero.txt
 2.1.1:
-  pop:
-    - ethnicity: ancestral_pueblo_culture
-      religion: iroquoian_totemism
+  pops:
+    - religion: iroquoian_totemism
       estate: peasant
       size: 1000
 1200.1.1:
@@ -11,18 +10,16 @@
   cores:
     MSC: yes
   resource: wool
-  pop:
-    - ethnicity: naadahende_culture
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1825.1.1:
   owner: MEX
   controller: MEX
   cores:
     MEX: yes
-  pop:
-    - ethnicity: mexican
-      religion: catholic
+  pops:
+    - religion: catholic
       estate: peasant
       size: 1000
 1836.3.2:
@@ -30,9 +27,8 @@
   controller: TEXA
   cores:
     TEXA: yes
-  pop:
-    - ethnicity: iberian_louisianan
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1845.12.29:
   owner: USA
@@ -47,7 +43,6 @@
 1862.4.8:
   controller: USA
 1900.1.1:
-  pop:
-    - ethnicity: british_californian
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000

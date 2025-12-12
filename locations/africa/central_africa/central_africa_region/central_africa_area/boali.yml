@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/3023 - Bangui.txt
 2.1.1:
-  pop:
-    - ethnicity: gbaya_culture
-      religion: bantu_religion
+  pops:
+    - religion: bantu_religion
       estate: peasant
       size: 1000
 1889.1.1:
@@ -11,9 +10,8 @@
   cores:
     FRA: yes
   resource: grain
-  pop:
-    - religion: lutheran
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1960.8.13:
   owner: CAFR

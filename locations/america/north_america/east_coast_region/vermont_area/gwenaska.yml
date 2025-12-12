@@ -1,17 +1,15 @@
 #imported from EU4 file: history/provinces/2563 - Missisquoi.txt
 2.1.1:
-  pop:
-    - ethnicity: eastern_abenaki_culture
-      religion: iroquoian_totemism
+  pops:
+    - religion: iroquoian_totemism
       estate: peasant
       size: 1000
 1783.1.1:
   owner: USA
   cores:
     VERM: yes
-  pop:
-    - ethnicity: american
-      religion: catholic
+  pops:
+    - religion: catholic
       estate: peasant
       size: 1000
 1791.3.4:

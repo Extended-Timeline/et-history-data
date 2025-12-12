@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/2359 - Baganaly.txt
 2.1.1:
-  pop:
-    - ethnicity: cuman_culture
-      religion: 
+  pops:
+    - religion: 
       estate: peasant
       size: 1000
 340.1.1:
@@ -35,9 +34,8 @@
   cores:
     CUMA: no
     KIPC: yes
-  pop:
-    - ethnicity: khazak
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 880.1.1:
   owner: KIME
@@ -61,14 +59,12 @@
   cores:
     CUMA: no
     MGE: yes
-  pop:
-    - ethnicity: khazak
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1240.1.1:
-  pop:
-    - religion: sunni
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1260.1.1:
   owner: BLHO

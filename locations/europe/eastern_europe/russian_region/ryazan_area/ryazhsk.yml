@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/4255 - Pronsk.txt
 2.1.1:
-  pop:
-    - ethnicity: hungarian
-      religion: 
+  pops:
+    - religion: 
       estate: peasant
       size: 1000
 600.1.1:
@@ -17,9 +16,8 @@
   cores:
     HUN: no
     MESC: yes
-  pop:
-    - ethnicity: meschera_culture
-      religion: muinaisusko
+  pops:
+    - religion: muinaisusko
       estate: peasant
       size: 1000
 1000.1.1:
@@ -29,9 +27,8 @@
     MESC: no
     KIEV: yes
 1050.1.1:
-  pop:
-    - ethnicity: muscovite
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1054.2.20:
   owner: CHR
@@ -40,9 +37,8 @@
     KIEV: no
     CHR: yes
 1090.1.1:
-  pop:
-    - religion: orthodox
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1097.1.1:
   owner: RYA

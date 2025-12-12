@@ -5,9 +5,8 @@
   cores:
     GAND: yes
   resource: iron
-  pop:
-    - ethnicity: punjabi
-      religion: mahayana
+  pops:
+    - religion: mahayana
       estate: peasant
       size: 1000
 10.1.1:
@@ -22,9 +21,8 @@
     IPAR: no
     KUSH: yes
 300.1.1:
-  pop:
-    - religion: hindu
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 375.1.1:
   owner: KIDA
@@ -109,9 +107,8 @@
     TIM: no
     MUG: yes
 1540.1.1:
-  pop:
-    - religion: sikhism
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1544.1.1:
   owner: BNG
@@ -156,9 +153,8 @@
   cores:
     GBR: yes
 1880.1.1:
-  pop:
-    - religion: sunni
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1930.12.29:
   cores:

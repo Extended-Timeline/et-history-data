@@ -5,9 +5,8 @@
   cores:
     GOND: yes
   resource: grain
-  pop:
-    - ethnicity: gond
-      religion: hindu
+  pops:
+    - religion: hindu
       estate: peasant
       size: 1000
 675.1.1:
@@ -59,9 +58,8 @@
     NAGP: no
     GBR: yes
 1850.1.1:
-  pop:
-    - ethnicity: bagheli
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1930.1.1:
   cores:

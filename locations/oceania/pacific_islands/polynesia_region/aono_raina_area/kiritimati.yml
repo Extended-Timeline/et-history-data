@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/3112 - Kiritimati.txt
 2.1.1:
-  pop:
-    - ethnicity: maohi_culture
-      religion: bimoism
+  pops:
+    - religion: bimoism
       estate: peasant
       size: 1000
 1856.8.18:
@@ -11,9 +10,8 @@
   cores:
     USA: yes
   resource: fish
-  pop:
-    - religion: lutheran
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1979.7.12:
   owner: KIRI

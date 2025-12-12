@@ -1,9 +1,8 @@
 #imported from EU4 file: history/provinces/4904 - Espeminkia.txt
 2.1.1:
   resource: grain
-  pop:
-    - ethnicity: cahokia_culture
-      religion: iroquoian_totemism
+  pops:
+    - religion: iroquoian_totemism
       estate: peasant
       size: 1000
 1703.1.1:
@@ -12,9 +11,8 @@
   cores:
     FRA: yes
   resource: fur
-  pop:
-    - ethnicity: french
-      religion: catholic
+  pops:
+    - religion: catholic
       estate: peasant
       size: 1000
 1763.2.10:
@@ -23,9 +21,8 @@
   cores:
     FRA: no
     GBR: yes
-  pop:
-    - ethnicity: english
-      religion: lutheran
+  pops:
+    - religion: lutheran
       estate: peasant
       size: 1000
 1778.7.4:
@@ -34,7 +31,6 @@
   cores:
     GBR: no
     USA: yes
-  pop:
-    - ethnicity: american
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000

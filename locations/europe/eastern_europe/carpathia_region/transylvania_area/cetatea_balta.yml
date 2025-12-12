@@ -5,9 +5,8 @@
   cores:
     DACI: yes
   resource: iron
-  pop:
-    - ethnicity: dacian
-      religion: zamolxism
+  pops:
+    - religion: zamolxism
       estate: peasant
       size: 1000
 106.1.1:
@@ -24,15 +23,13 @@
   cores:
     ROM: no
     VISG: yes
-  pop:
-    - ethnicity: gothic
-      religion: germanic
+  pops:
+    - religion: germanic
       estate: peasant
       size: 1000
 360.1.1:
-  pop:
-    - religion: chalcedonism
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 376.1.1:
   owner: HUNS
@@ -46,9 +43,8 @@
   cores:
     HUNS: no
     GEPI: yes
-  pop:
-    - ethnicity: gepid
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 567.1.1:
   owner: AVR
@@ -56,14 +52,12 @@
   cores:
     GEPI: no
     AVR: yes
-  pop:
-    - religion: 
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 700.1.1:
-  pop:
-    - ethnicity: wallachian
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 804.1.1:
   owner: BUL
@@ -83,9 +77,8 @@
   cores:
     HUN: yes
 1020.1.1:
-  pop:
-    - religion: orthodox
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1507.1.1:
   controller: TRA

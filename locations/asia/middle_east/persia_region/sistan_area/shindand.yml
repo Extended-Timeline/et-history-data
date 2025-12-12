@@ -5,9 +5,8 @@
   cores:
     PART: yes
   resource: livestock
-  pop:
-    - ethnicity: parthian
-      religion: zoroastrian
+  pops:
+    - religion: zoroastrian
       estate: peasant
       size: 1000
 224.4.24:
@@ -33,9 +32,8 @@
     ERA: no
     RASH: yes
 650.1.1:
-  pop:
-    - ethnicity: khorasani_culture
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 661.7.28:
   owner: UMAY
@@ -50,9 +48,8 @@
     UMAY: no
     ABBA: yes
 770.1.1:
-  pop:
-    - religion: sunni
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 819.1.1:
   owner: KRT
@@ -148,9 +145,8 @@
   cores:
     IRA: yes
 1650.1.1:
-  pop:
-    - ethnicity: farsi_culture
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1750.1.1:
   owner: AFGH
@@ -159,9 +155,8 @@
     IRA: no
     AFGH: yes
 1760.1.1:
-  pop:
-    - ethnicity: afghan_culture
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1830.1.1:
   cores:

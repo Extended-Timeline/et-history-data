@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/1151 - Bonny.txt
 2.1.1:
-  pop:
-    - ethnicity: igbo
-      religion: bantu_religion
+  pops:
+    - religion: bantu_religion
       estate: peasant
       size: 1000
 948.1.1:
@@ -16,9 +15,8 @@
   controller: GBR
   cores:
     GBR: yes
-  pop:
-    - religion: lutheran
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1960.10.1:
   owner: NIGR

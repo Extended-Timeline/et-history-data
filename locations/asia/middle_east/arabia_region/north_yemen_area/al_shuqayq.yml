@@ -5,9 +5,8 @@
   cores:
     THAM: yes
   resource: incense
-  pop:
-    - ethnicity: hijazi_culture
-      religion: south_arabian
+  pops:
+    - religion: south_arabian
       estate: peasant
       size: 1000
 220.1.1:
@@ -28,9 +27,8 @@
   cores:
     QURA: no
     RASH: yes
-  pop:
-    - religion: islam
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 661.7.28:
   owner: UMAY
@@ -38,9 +36,8 @@
   cores:
     RASH: no
     UMAY: yes
-  pop:
-    - religion: sunni
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 750.8.6:
   owner: ABBA
@@ -66,9 +63,8 @@
     ABBA: no
     EGY: yes
 950.1.1:
-  pop:
-    - religion: shia
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 970.3.1:
   owner: FATI
@@ -128,9 +124,8 @@
     EGY: no
     TUR: yes
 1915.1.1:
-  pop:
-    - religion: sunni
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1916.6.10:
   owner: HEJA

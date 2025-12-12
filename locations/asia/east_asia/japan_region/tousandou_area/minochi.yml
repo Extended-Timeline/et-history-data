@@ -5,9 +5,8 @@
   cores:
     OWAR: yes
   resource: livestock
-  pop:
-    - ethnicity: saeki
-      religion: shinto
+  pops:
+    - religion: shinto
       estate: peasant
       size: 1000
 320.1.1:
@@ -17,19 +16,16 @@
     OWAR: no
     YMT: yes
 500.1.1:
-  pop:
-    - ethnicity: saigoku_culture
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 607.1.1:
-  pop:
-    - religion: mahayana
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 712.1.1:
-  pop:
-    - religion: shinto
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 794.1.1:
   owner: JAP

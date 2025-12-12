@@ -5,15 +5,13 @@
   cores:
     ROM: yes
   resource: iron
-  pop:
-    - ethnicity: celtiberian
-      religion: druidism
+  pops:
+    - religion: druidism
       estate: peasant
       size: 1000
 360.1.1:
-  pop:
-    - religion: chalcedonism
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 395.1.17:
   owner: ROMW
@@ -26,9 +24,8 @@
   controller: SUEB
   cores:
     SUEB: yes
-  pop:
-    - religion: arianism
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 453.1.1:
   owner: ROMW
@@ -49,9 +46,8 @@
   cores:
     ROMW: no
 580.1.1:
-  pop:
-    - religion: chalcedonism
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 711.1.1:
   owner: UMAY
@@ -66,14 +62,12 @@
     UMAY: no
     CRDB: yes
 790.1.1:
-  pop:
-    - religion: sunni
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 800.1.1:
-  pop:
-    - ethnicity: andalusi
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1011.1.1:
   owner: TOLE
@@ -92,14 +86,12 @@
   cores:
     TOLE: no
     CAS: yes
-  pop:
-    - ethnicity: castilian
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1120.1.1:
-  pop:
-    - religion: catholic
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1516.1.23:
   owner: SPA

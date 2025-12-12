@@ -6,9 +6,8 @@
     PART: yes
     HYRC: yes
   resource: silk
-  pop:
-    - ethnicity: mazanderani_culture
-      religion: zoroastrian
+  pops:
+    - religion: zoroastrian
       estate: peasant
       size: 1000
 60.1.1:
@@ -36,9 +35,8 @@
     MZN: no
     KRY: yes
 864.1.1:
-  pop:
-    - religion: shia
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1004.1.1:
   owner: AZER

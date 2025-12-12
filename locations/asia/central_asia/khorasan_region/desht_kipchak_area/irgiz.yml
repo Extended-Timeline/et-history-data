@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/2351 - Shekty.txt
 2.1.1:
-  pop:
-    - ethnicity: hunnic
-      religion: 
+  pops:
+    - religion: 
       estate: peasant
       size: 1000
 160.1.1:
@@ -14,9 +13,8 @@
 370.1.1:
   cores:
     OGHU: yes
-  pop:
-    - ethnicity: turkmen_culture
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 448.1.1:
   owner: OGHU
@@ -42,9 +40,8 @@
     KANG: no
     OGHU: yes
 900.1.1:
-  pop:
-    - religion: sunni
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1043.1.1:
   owner: KIME
@@ -59,9 +56,8 @@
     OGHU: no
     KIPC: yes
 1060.1.1:
-  pop:
-    - ethnicity: khazak
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1100.1.1:
   owner: CUMA

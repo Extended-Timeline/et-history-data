@@ -5,9 +5,8 @@
   cores:
     HERM: yes
   resource: cloth
-  pop:
-    - ethnicity: east_franconian
-      religion: germanic
+  pops:
+    - religion: germanic
       estate: peasant
       size: 1000
 390.1.1:
@@ -22,9 +21,8 @@
   cores:
     LOMB: no
     SORB: yes
-  pop:
-    - ethnicity: sorbian
-      religion: slavic
+  pops:
+    - religion: slavic
       estate: peasant
       size: 1000
 932.1.1:
@@ -40,9 +38,8 @@
     SAX: no
     BRA: yes
 960.1.1:
-  pop:
-    - ethnicity: saxon
-      religion: catholic
+  pops:
+    - religion: catholic
       estate: peasant
       size: 1000
 965.5.20:

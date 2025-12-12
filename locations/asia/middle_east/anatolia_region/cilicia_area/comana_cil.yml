@@ -5,9 +5,8 @@
   cores:
     CAPP: yes
   resource: iron
-  pop:
-    - ethnicity: cappadocian_greek_culture
-      religion: hellenism_religion
+  pops:
+    - religion: hellenism_religion
       estate: peasant
       size: 1000
 18.1.1:
@@ -22,23 +21,20 @@
     ROM: no
     BYZ: yes
 440.1.1:
-  pop:
-    - religion: chalcedonism
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 615.1.1:
   controller: ERA
 626.1.1:
   controller: BYZ
 867.1.1:
-  pop:
-    - religion: orthodox
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 950.1.1:
-  pop:
-    - ethnicity: greek_culture
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1071.8.26:
   owner: DANI
@@ -52,9 +48,8 @@
 1120.1.1:
   cores:
     BYZ: no
-  pop:
-    - ethnicity: turkish_culture
-      religion: sunni
+  pops:
+    - religion: sunni
       estate: peasant
       size: 1000
 1149.1.1:

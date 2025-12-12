@@ -5,15 +5,13 @@
   cores:
     ROM: yes
   resource: wine
-  pop:
-    - ethnicity: iberi
-      religion: bimoism
+  pops:
+    - religion: bimoism
       estate: peasant
       size: 1000
 340.1.1:
-  pop:
-    - religion: chalcedonism
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 395.1.17:
   owner: ROMW
@@ -67,14 +65,12 @@
     UMAY: no
     CRDB: yes
 760.1.1:
-  pop:
-    - religion: sunni
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 800.1.1:
-  pop:
-    - ethnicity: andalusi
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1010.1.1:
   owner: DENI
@@ -116,9 +112,8 @@
     CAS: no
     ARA: yes
 1300.1.1:
-  pop:
-    - ethnicity: catalan
-      religion: catholic
+  pops:
+    - religion: catholic
       estate: peasant
       size: 1000
 1516.1.23:

@@ -5,9 +5,8 @@
   cores:
     WSAT: yes
   resource: salt
-  pop:
-    - ethnicity: marwari
-      religion: hindu
+  pops:
+    - religion: hindu
       estate: peasant
       size: 1000
 360.1.1:

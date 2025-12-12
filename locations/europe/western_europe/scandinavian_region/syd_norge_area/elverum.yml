@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/22 - Eisdiva.txt
 2.1.1:
-  pop:
-    - ethnicity: norwegian
-      religion: norse
+  pops:
+    - religion: norse
       estate: peasant
       size: 1000
 550.1.1:
@@ -18,9 +17,8 @@
     VEST: no
     NOR: yes
 1040.1.1:
-  pop:
-    - religion: catholic
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1532.7.15:
   controller: NOR
@@ -29,9 +27,8 @@
   controller: DAN
   cores:
     DAN: yes
-  pop:
-    - religion: lutheran
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1630.1.1:
   resource: copper

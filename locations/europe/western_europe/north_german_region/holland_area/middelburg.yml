@@ -5,25 +5,22 @@
   cores:
     ROM: yes
   resource: salt
-  pop:
-    - ethnicity: frisian
-      religion: germanic
+  pops:
+    - religion: germanic
       estate: peasant
       size: 1000
 260.1.1:
   cores:
     GALL: yes
-  pop:
-    - ethnicity: gallian
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 274.1.1:
   controller: ROM
   cores:
     GALL: no
-  pop:
-    - ethnicity: low_franconian
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 395.1.17:
   owner: ROMW
@@ -71,9 +68,8 @@
   owner: FRAN
   controller: FRAN
 700.1.1:
-  pop:
-    - religion: chalcedonism
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 840.6.21:
   owner: MFRA
@@ -88,9 +84,8 @@
     MFRA: no
     LOT: yes
 867.1.1:
-  pop:
-    - religion: catholic
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 870.8.8:
   owner: WFRA
@@ -128,9 +123,8 @@
   cores:
     NED: yes
 1572.1.1:
-  pop:
-    - religion: calvinist
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1810.7.10:
   owner: FRA

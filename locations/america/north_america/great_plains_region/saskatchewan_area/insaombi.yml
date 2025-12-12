@@ -3,9 +3,8 @@
   cores:
     ???: yes
   resource: fur
-  pop:
-    - ethnicity: siksika_culture
-      religion: iroquoian_totemism
+  pops:
+    - religion: iroquoian_totemism
       estate: peasant
       size: 1000
 1883.1.1:
@@ -14,8 +13,7 @@
   cores:
     CAN: yes
   resource: grain
-  pop:
-    - ethnicity: british_canadian
-      religion: lutheran
+  pops:
+    - religion: lutheran
       estate: peasant
       size: 1000

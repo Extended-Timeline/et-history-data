@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/4522 - Kulun Shan.txt
 2.1.1:
-  pop:
-    - ethnicity: amdowa_culture
-      religion: bon
+  pops:
+    - religion: bon
       estate: peasant
       size: 1000
 284.1.1:
@@ -17,9 +16,8 @@
   cores:
     TIB: yes
 650.1.1:
-  pop:
-    - religion: tibetan_buddhism
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 842.1.1:
   owner: PHAG

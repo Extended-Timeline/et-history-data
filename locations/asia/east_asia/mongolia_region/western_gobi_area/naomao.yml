@@ -5,9 +5,8 @@
   cores:
     XION: yes
   resource: livestock
-  pop:
-    - ethnicity: tocharian
-      religion: 
+  pops:
+    - religion: 
       estate: peasant
       size: 1000
 91.2.1:
@@ -23,9 +22,8 @@
     XIAN: no
     ROUR: yes
 360.1.1:
-  pop:
-    - ethnicity: uyghur_culture
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 547.1.1:
   owner: GOKT
@@ -68,9 +66,8 @@
     KHMO: no
     MGE: yes
 1250.1.1:
-  pop:
-    - ethnicity: oirat_culture
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1271.1.1:
   owner: YUA
@@ -109,9 +106,8 @@
   cores:
     QNG: yes
 1755.1.1:
-  pop:
-    - ethnicity: uyghur_culture
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1862.4.1:
   cores:

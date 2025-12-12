@@ -5,9 +5,8 @@
   cores:
     PART: yes
   resource: wool
-  pop:
-    - ethnicity: parthian
-      religion: zoroastrian
+  pops:
+    - religion: zoroastrian
       estate: peasant
       size: 1000
 224.4.24:
@@ -23,9 +22,8 @@
     ERA: no
     RASH: yes
 650.1.1:
-  pop:
-    - ethnicity: khorasani_culture
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 661.7.28:
   owner: UMAY
@@ -40,9 +38,8 @@
     UMAY: no
     ABBA: yes
 820.1.1:
-  pop:
-    - religion: sunni
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 821.1.1:
   owner: KHOR

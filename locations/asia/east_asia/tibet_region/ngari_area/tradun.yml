@@ -5,9 +5,8 @@
   cores:
     ZHAN: yes
   resource: wool
-  pop:
-    - ethnicity: zhangzhung
-      religion: bon
+  pops:
+    - religion: bon
       estate: peasant
       size: 1000
 625.1.1:
@@ -16,16 +15,14 @@
   cores:
     TIB: yes
 630.1.1:
-  pop:
-    - religion: tibetan_buddhism
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 700.1.1:
   cores:
     ZHAN: no
-  pop:
-    - ethnicity: utsang_culture
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 842.1.1:
   owner: UTSA

@@ -5,9 +5,8 @@
   cores:
     CALB: yes
   resource: wool
-  pop:
-    - ethnicity: aghwan
-      religion: zoroastrian
+  pops:
+    - religion: zoroastrian
       estate: peasant
       size: 1000
 253.1.1:
@@ -42,14 +41,12 @@
     IBER: no
     KAKH: yes
 820.1.1:
-  pop:
-    - religion: chalcedonism
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 867.1.1:
-  pop:
-    - religion: orthodox
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1029.1.1:
   owner: GEO
@@ -63,9 +60,8 @@
     GEO: no
     KAKH: yes
 1080.1.1:
-  pop:
-    - ethnicity: azeri_culture
-      religion: shia
+  pops:
+    - religion: shia
       estate: peasant
       size: 1000
 1110.1.1:

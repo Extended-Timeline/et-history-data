@@ -5,15 +5,13 @@
   cores:
     ROM: yes
   resource: livestock
-  pop:
-    - ethnicity: lusitanian
-      religion: druidism
+  pops:
+    - religion: druidism
       estate: peasant
       size: 1000
 360.1.1:
-  pop:
-    - religion: chalcedonism
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 395.1.17:
   owner: ROMW
@@ -53,14 +51,12 @@
     UMAY: no
     CRDB: yes
 820.1.1:
-  pop:
-    - religion: sunni
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 850.1.1:
-  pop:
-    - ethnicity: andalusi
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1011.1.1:
   owner: TOLE
@@ -96,9 +92,8 @@
     MOR: no
     BADJ: no
     LON: yes
-  pop:
-    - ethnicity: leonese
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1230.9.23:
   owner: CAS
@@ -107,9 +102,8 @@
     LON: no
     CAS: yes
 1260.1.1:
-  pop:
-    - religion: catholic
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1475.6.2:
   controller: POR

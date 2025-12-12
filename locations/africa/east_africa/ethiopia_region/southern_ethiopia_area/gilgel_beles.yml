@@ -5,9 +5,8 @@
   cores:
     AWI0: yes
   resource: grain
-  pop:
-    - ethnicity: agaw_culture
-      religion: bantu_religion
+  pops:
+    - religion: bantu_religion
       estate: peasant
       size: 1000
 1000.1.1:
@@ -16,9 +15,8 @@
   cores:
     GJJ: yes
 1240.1.1:
-  pop:
-    - religion: miaphysite
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1317.1.1:
   owner: ETH

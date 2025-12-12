@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/4692 - Turgay.txt
 2.1.1:
-  pop:
-    - ethnicity: cuman_culture
-      religion: 
+  pops:
+    - religion: 
       estate: peasant
       size: 1000
 659.1.1:
@@ -23,9 +22,8 @@
   cores:
     CUMA: no
     KIME: yes
-  pop:
-    - ethnicity: khazak
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1050.1.1:
   owner: KIPC
@@ -45,9 +43,8 @@
     CUMA: no
     MGE: yes
 1240.1.1:
-  pop:
-    - religion: sunni
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1260.1.1:
   owner: BLHO
@@ -89,9 +86,8 @@
   cores:
     RUS: yes
 1880.1.1:
-  pop:
-    - religion: orthodox
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1917.12.13:
   cores:
@@ -104,9 +100,8 @@
     RUS: no
     SOVI: yes
 1930.1.1:
-  pop:
-    - ethnicity: muscovite
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1991.12.16:
   owner: KAZK

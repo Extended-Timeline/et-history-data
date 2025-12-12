@@ -5,15 +5,13 @@
   cores:
     ROM: yes
   resource: cloth
-  pop:
-    - ethnicity: syriac_culture
-      religion: judaism
+  pops:
+    - religion: judaism
       estate: peasant
       size: 1000
 260.1.1:
-  pop:
-    - religion: chalcedonism
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 269.1.1:
   cores:
@@ -29,9 +27,8 @@
     ROM: no
     BYZ: yes
 512.11.16:
-  pop:
-    - religion: miaphysite
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 613.1.1:
   controller: ERA
@@ -77,9 +74,8 @@
     EGY: no
     SYRI: yes
 960.1.1:
-  pop:
-    - ethnicity: levantine_culture
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 970.1.1:
   owner: BYZ
@@ -111,9 +107,8 @@
     ANTI: yes
     BYZ: yes
 1099.1.1:
-  pop:
-    - religion: catholic
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1108.1.1:
   cores:
@@ -136,9 +131,8 @@
     ANTI: no
     MAM: yes
 1320.1.1:
-  pop:
-    - religion: sunni
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1382.1.1:
   controller: MAM
@@ -160,9 +154,8 @@
     EGY: no
     TUR: yes
 1880.1.1:
-  pop:
-    - religion: shia
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1920.3.8:
   owner: SYRI

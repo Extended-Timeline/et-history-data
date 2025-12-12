@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/1130 - Tadmekka.txt
 2.1.1:
-  pop:
-    - ethnicity: tuareg
-      religion: bantu_religion
+  pops:
+    - religion: bantu_religion
       estate: peasant
       size: 1000
 850.1.1:
@@ -18,9 +17,8 @@
     SANH: no
     TMB: yes
 950.1.1:
-  pop:
-    - religion: sunni
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1430.1.1:
   owner: SON

@@ -5,9 +5,8 @@
   cores:
     WUHU: yes
   resource: livestock
-  pop:
-    - ethnicity: khitan
-      religion: 
+  pops:
+    - religion: 
       estate: peasant
       size: 1000
 207.10.1:
@@ -62,9 +61,8 @@
     TANG: no
     LIAO: yes
 950.1.1:
-  pop:
-    - religion: mahayana
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1115.1.1:
   owner: JIN0
@@ -80,9 +78,8 @@
     MGE: yes
     CSH: yes
 1220.1.1:
-  pop:
-    - ethnicity: chahar
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1271.1.1:
   owner: YUA
@@ -140,7 +137,6 @@
 1949.10.1:
   controller: CHI
 1969.1.1:
-  pop:
-    - ethnicity: yan_culture
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000

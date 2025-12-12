@@ -5,9 +5,8 @@
   cores:
     OTO: yes
   resource: grain
-  pop:
-    - ethnicity: otomanguean_culture
-      religion: nahuatl
+  pops:
+    - religion: nahuatl
       estate: peasant
       size: 1000
 496.1.1:
@@ -25,18 +24,16 @@
 1521.8.13:
   owner: SPA
   controller: SPA
-  pop:
-    - ethnicity: castilian
-      religion: catholic
+  pops:
+    - religion: catholic
       estate: peasant
       size: 1000
 1546.1.1:
   cores:
     SPA: yes
 1770.1.1:
-  pop:
-    - ethnicity: mexican
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1810.9.16:
   owner: MEX

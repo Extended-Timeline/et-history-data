@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/4814 - Semantan.txt
 2.1.1:
-  pop:
-    - ethnicity: malay_culture
-      religion: mahayana
+  pops:
+    - religion: mahayana
       estate: peasant
       size: 1000
 450.1.1:
@@ -17,9 +16,8 @@
   cores:
     MALC: yes
 1465.1.1:
-  pop:
-    - religion: sunni
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1470.1.1:
   owner: PAH

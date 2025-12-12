@@ -3,9 +3,8 @@
   cores:
     ???: yes
   resource: fur
-  pop:
-    - ethnicity: kaigwu_culture
-      religion: iroquoian_totemism
+  pops:
+    - religion: iroquoian_totemism
       estate: peasant
       size: 1000
 1760.1.1:
@@ -13,9 +12,8 @@
   controller: ---
   cores:
     ???: no
-  pop:
-    - ethnicity: tsetsehesahese_culture
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1876.1.1:
   owner: USA
@@ -23,8 +21,7 @@
   cores:
     USA: yes
   resource: grain
-  pop:
-    - ethnicity: british_californian
-      religion: lutheran
+  pops:
+    - religion: lutheran
       estate: peasant
       size: 1000

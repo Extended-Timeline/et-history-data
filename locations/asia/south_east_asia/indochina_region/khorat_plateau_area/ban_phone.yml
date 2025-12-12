@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/4840 - Xekong.txt
 2.1.1:
-  pop:
-    - ethnicity: bru_culture
-      religion: bimoism
+  pops:
+    - religion: bimoism
       estate: peasant
       size: 1000
 550.1.1:
@@ -37,9 +36,8 @@
   controller: LAXA
   cores:
     LAXA: yes
-  pop:
-    - ethnicity: lao_culture
-      religion: satsana_phi
+  pops:
+    - religion: satsana_phi
       estate: peasant
       size: 1000
 1483.1.1:
@@ -59,9 +57,8 @@
     VTN: no
     CHAK: yes
 1820.1.1:
-  pop:
-    - religion: theravada
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1893.10.3:
   owner: LAOS

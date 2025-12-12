@@ -5,15 +5,13 @@
   cores:
     ROM: yes
   resource: wine
-  pop:
-    - ethnicity: lusitanian
-      religion: druidism
+  pops:
+    - religion: druidism
       estate: peasant
       size: 1000
 380.1.1:
-  pop:
-    - religion: chalcedonism
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 395.1.17:
   owner: ROMW
@@ -53,14 +51,12 @@
     UMAY: no
     CRDB: yes
 820.1.1:
-  pop:
-    - religion: sunni
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 900.1.1:
-  pop:
-    - ethnicity: andalusi
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1011.1.1:
   owner: BADJ
@@ -84,14 +80,12 @@
   cores:
     BADJ: no
     LON: yes
-  pop:
-    - ethnicity: portuguese
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1100.1.1:
-  pop:
-    - religion: catholic
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1139.6.23:
   owner: POR

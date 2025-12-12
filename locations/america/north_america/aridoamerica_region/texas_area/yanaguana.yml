@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/883 - Lipan.txt
 2.1.1:
-  pop:
-    - ethnicity: coahuilteco_culture
-      religion: iroquoian_totemism
+  pops:
+    - religion: iroquoian_totemism
       estate: peasant
       size: 1000
 1200.1.1:
@@ -11,24 +10,21 @@
   cores:
     LIPA: yes
   resource: grain
-  pop:
-    - ethnicity: lepai_nde_culture
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1718.5.1:
   owner: SPA
   controller: SPA
   cores:
     SPA: yes
-  pop:
-    - ethnicity: castilian
-      religion: catholic
+  pops:
+    - religion: catholic
       estate: peasant
       size: 1000
 1770.1.1:
-  pop:
-    - ethnicity: mexican
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1810.9.16:
   owner: MEX
@@ -44,9 +40,8 @@
   controller: TEXA
   cores:
     TEXA: yes
-  pop:
-    - ethnicity: iberian_louisianan
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1845.12.29:
   owner: USA
@@ -72,7 +67,6 @@
   cores:
     CSAM: no
 1920.1.1:
-  pop:
-    - ethnicity: british_louisianan
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000

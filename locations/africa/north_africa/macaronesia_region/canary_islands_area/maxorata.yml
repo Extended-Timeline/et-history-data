@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/366 - The Canarias.txt
 2.1.1:
-  pop:
-    - ethnicity: zenati
-      religion: bantu_religion
+  pops:
+    - religion: bantu_religion
       estate: peasant
       size: 1000
 1402.1.1:
@@ -11,9 +10,8 @@
   cores:
     CAS: yes
   resource: sugar
-  pop:
-    - ethnicity: castilian
-      religion: catholic
+  pops:
+    - religion: catholic
       estate: peasant
       size: 1000
 1516.1.23:

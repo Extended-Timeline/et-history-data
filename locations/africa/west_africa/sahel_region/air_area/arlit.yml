@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/2272 - Azbin.txt
 2.1.1:
-  pop:
-    - ethnicity: tuareg
-      religion: bantu_religion
+  pops:
+    - religion: bantu_religion
       estate: peasant
       size: 1000
 1250.1.1:
@@ -11,9 +10,8 @@
   cores:
     TAKE: yes
   resource: salt
-  pop:
-    - religion: sunni
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1404.1.1:
   owner: AIR
@@ -38,9 +36,8 @@
   cores:
     FRA: yes
 1910.1.1:
-  pop:
-    - religion: sunni
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1917.3.3:
   controller: FRA

@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/755 - Itamaraca.txt
 2.1.1:
-  pop:
-    - ethnicity: tupinamba_culture
-      religion: muisca_religion
+  pops:
+    - religion: muisca_religion
       estate: peasant
       size: 1000
 1535.3.12:
@@ -11,33 +10,29 @@
   cores:
     POR: yes
   resource: sugar
-  pop:
-    - ethnicity: portuguese
-      religion: catholic
+  pops:
+    - religion: catholic
       estate: peasant
       size: 1000
 1630.1.1:
   owner: NED
   controller: NED
-  pop:
-    - ethnicity: low_franconian
-      religion: calvinist
+  pops:
+    - religion: calvinist
       estate: peasant
       size: 1000
 1654.1.1:
   owner: POR
   controller: POR
-  pop:
-    - ethnicity: portuguese
-      religion: catholic
+  pops:
+    - religion: catholic
       estate: peasant
       size: 1000
 1655.1.1:
   resource: sugar
 1780.1.1:
-  pop:
-    - ethnicity: brazilian
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1822.9.7:
   owner: BRAZ

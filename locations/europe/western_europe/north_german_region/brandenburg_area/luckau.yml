@@ -5,9 +5,8 @@
   cores:
     BUR: yes
   resource: livestock
-  pop:
-    - ethnicity: burgundione
-      religion: germanic
+  pops:
+    - religion: germanic
       estate: peasant
       size: 1000
 395.1.1:
@@ -16,9 +15,8 @@
   cores:
     BUR: no
     SORB: yes
-  pop:
-    - ethnicity: sorbian
-      religion: slavic
+  pops:
+    - religion: slavic
       estate: peasant
       size: 1000
 932.1.1:
@@ -40,9 +38,8 @@
     BRA: no
     SOR: yes
 968.1.1:
-  pop:
-    - religion: catholic
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1003.1.1:
   controller: POL
@@ -60,9 +57,8 @@
   cores:
     POL: no
 1200.1.1:
-  pop:
-    - ethnicity: saxon
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1303.1.1:
   owner: BRA
@@ -99,9 +95,8 @@
     BOH: no
     HAB: yes
 1531.1.1:
-  pop:
-    - religion: lutheran
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1618.5.23:
   owner: BOH
@@ -143,9 +138,8 @@
   cores:
     EGER: yes
 1975.1.1:
-  pop:
-    - religion: irreligious
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1990.10.3:
   owner: GER

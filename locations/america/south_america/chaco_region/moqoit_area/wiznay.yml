@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/2878 - Matara.txt
 2.1.1:
-  pop:
-    - ethnicity: guaikuru_culture
-      religion: muisca_religion
+  pops:
+    - religion: muisca_religion
       estate: peasant
       size: 1000
 1786.1.1:
@@ -11,9 +10,8 @@
   cores:
     SPA: yes
   resource: tobacco
-  pop:
-    - ethnicity: iberian_la_platan
-      religion: catholic
+  pops:
+    - religion: catholic
       estate: peasant
       size: 1000
 1816.7.9:

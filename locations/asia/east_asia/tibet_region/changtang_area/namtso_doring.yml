@@ -5,9 +5,8 @@
   cores:
     SUMP: yes
   resource: livestock
-  pop:
-    - ethnicity: amdowa_culture
-      religion: bon
+  pops:
+    - religion: bon
       estate: peasant
       size: 1000
 600.1.1:
@@ -22,9 +21,8 @@
     ZHAN: no
     TIB: yes
 630.1.1:
-  pop:
-    - ethnicity: utsang_culture
-      religion: tibetan_buddhism
+  pops:
+    - religion: tibetan_buddhism
       estate: peasant
       size: 1000
 842.1.1:

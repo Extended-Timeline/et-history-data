@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/38 - Riga.txt
 2.1.1:
-  pop:
-    - ethnicity: latvian
-      religion: romuva
+  pops:
+    - religion: romuva
       estate: peasant
       size: 1000
 550.1.1:
@@ -17,9 +16,8 @@
   cores:
     LIV: yes
 1207.1.1:
-  pop:
-    - religion: catholic
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1225.1.1:
   owner: RIG
@@ -28,14 +26,12 @@
     LIV: no
     LATG: no
     RIG: yes
-  pop:
-    - ethnicity: german_baltic
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1522.1.1:
-  pop:
-    - religion: lutheran
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1581.1.14:
   owner: PLC
@@ -57,9 +53,8 @@
     SWE: no
     RUS: yes
 1905.1.1:
-  pop:
-    - ethnicity: latvian
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1917.9.3:
   controller: GER
@@ -97,7 +92,6 @@
   cores:
     SOVI: no
 2020.1.1:
-  pop:
-    - religion: irreligious
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000

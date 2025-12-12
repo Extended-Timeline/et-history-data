@@ -5,9 +5,8 @@
   cores:
     JOA: yes
   resource: tobacco
-  pop:
-    - ethnicity: catawba_culture
-      religion: iroquoian_totemism
+  pops:
+    - religion: iroquoian_totemism
       estate: peasant
       size: 1000
 1755.1.1:
@@ -15,24 +14,21 @@
   controller: GBR
   cores:
     GBR: yes
-  pop:
-    - ethnicity: english
-      religion: lutheran
+  pops:
+    - religion: lutheran
       estate: peasant
       size: 1000
 1764.7.1:
-  pop:
-    - ethnicity: british_louisianan
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1776.7.4:
   owner: USA
   controller: USA
   cores:
     USA: yes
-  pop:
-    - ethnicity: british_louisianan
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1782.11.1:
   cores:

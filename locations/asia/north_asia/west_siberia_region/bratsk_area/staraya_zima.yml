@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/1063 - Sayan.txt
 2.1.1:
-  pop:
-    - ethnicity: kyrgyz_culture
-      religion: 
+  pops:
+    - religion: 
       estate: peasant
       size: 1000
 550.1.1:
@@ -12,9 +11,8 @@
     YKYR: yes
   resource: fur
 800.1.1:
-  pop:
-    - ethnicity: tuvan_culture
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 848.1.1:
   owner: TUVA
@@ -47,9 +45,8 @@
   cores:
     RUS: yes
   resource: fur
-  pop:
-    - ethnicity: muscovite
-      religion: orthodox
+  pops:
+    - religion: orthodox
       estate: peasant
       size: 1000
 1922.12.30:

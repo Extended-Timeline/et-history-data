@@ -5,9 +5,8 @@
   cores:
     XION: yes
   resource: cloth
-  pop:
-    - ethnicity: mongolian_culture
-      religion: 
+  pops:
+    - religion: 
       estate: peasant
       size: 1000
 91.2.1:
@@ -57,14 +56,12 @@
     UYGH: no
     KERE: yes
 850.1.1:
-  pop:
-    - religion: nestorianism
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1201.1.1:
-  pop:
-    - religion: 
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1203.1.1:
   owner: KHMO
@@ -102,9 +99,8 @@
   cores:
     MGE: yes
 1560.1.1:
-  pop:
-    - religion: tibetan_buddhism
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1635.4.1:
   owner: KHAL

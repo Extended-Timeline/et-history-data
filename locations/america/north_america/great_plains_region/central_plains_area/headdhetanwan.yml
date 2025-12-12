@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/4908 - Tawehash.txt
 2.1.1:
-  pop:
-    - ethnicity: kitikitish_culture
-      religion: iroquoian_totemism
+  pops:
+    - religion: iroquoian_totemism
       estate: peasant
       size: 1000
 1834.6.30:
@@ -11,16 +10,14 @@
   cores:
     USA: yes
   resource: grain
-  pop:
-    - ethnicity: cherokee_culture
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1898.1.18:
   cores:
     KTK: no
-  pop:
-    - ethnicity: american
-      religion: lutheran
+  pops:
+    - religion: lutheran
       estate: peasant
       size: 1000
 1905.11.22:

@@ -1,9 +1,8 @@
 #imported from EU4 file: history/provinces/4152 - Aanaar.txt
 2.1.1:
   resource: fur
-  pop:
-    - ethnicity: sapmi
-      religion: muinaisusko
+  pops:
+    - religion: muinaisusko
       estate: peasant
       size: 1000
 750.1.1:
@@ -19,9 +18,8 @@
     SWE: yes
     FIN: yes
 1641.1.1:
-  pop:
-    - religion: lutheran
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1650.1.1:
   resource: naval_supplies

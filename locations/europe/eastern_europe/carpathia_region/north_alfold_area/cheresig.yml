@@ -5,9 +5,8 @@
   cores:
     DACI: yes
   resource: naval_supplies
-  pop:
-    - ethnicity: dacian
-      religion: zamolxism
+  pops:
+    - religion: zamolxism
       estate: peasant
       size: 1000
 106.1.1:
@@ -22,9 +21,8 @@
   cores:
     IAZY: no
     GEPI: yes
-  pop:
-    - ethnicity: gepid
-      religion: germanic
+  pops:
+    - religion: germanic
       estate: peasant
       size: 1000
 271.1.1:
@@ -32,9 +30,8 @@
   controller: VISG
   cores:
     VISG: yes
-  pop:
-    - ethnicity: gothic
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 376.1.1:
   owner: HUNS
@@ -47,9 +44,8 @@
   controller: GEPI
   cores:
     HUNS: no
-  pop:
-    - ethnicity: gepid
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 567.1.1:
   owner: AVR
@@ -57,15 +53,13 @@
   cores:
     GEPI: no
     AVR: yes
-  pop:
-    - ethnicity: avar_culture
-      religion: 
+  pops:
+    - religion: 
       estate: peasant
       size: 1000
 750.1.1:
-  pop:
-    - ethnicity: wallachian
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 804.1.1:
   owner: BUL
@@ -85,14 +79,12 @@
   cores:
     HUN: yes
 980.1.1:
-  pop:
-    - ethnicity: hungarian
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1050.1.1:
-  pop:
-    - religion: orthodox
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1507.1.1:
   controller: HUN
@@ -107,9 +99,8 @@
     HAB: yes
     TRA: yes
 1540.1.1:
-  pop:
-    - religion: calvinist
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1551.7.19:
   owner: HAB
@@ -120,9 +111,8 @@
 1563.1.1:
   controller: TRA
 1567.1.1:
-  pop:
-    - religion: calvinist
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1570.1.1:
   cores:
@@ -169,8 +159,7 @@
   owner: RMN
   controller: RMN
 1950.1.1:
-  pop:
-    - ethnicity: wallachian
-      religion: orthodox
+  pops:
+    - religion: orthodox
       estate: peasant
       size: 1000

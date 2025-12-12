@@ -5,9 +5,8 @@
   cores:
     HHK: yes
   resource: salt
-  pop:
-    - ethnicity: pima_culture
-      religion: iroquoian_totemism
+  pops:
+    - religion: iroquoian_totemism
       estate: peasant
       size: 1000
 1375.1.1:
@@ -20,15 +19,13 @@
   controller: SPA
   cores:
     SPA: yes
-  pop:
-    - ethnicity: castilian
-      religion: catholic
+  pops:
+    - religion: catholic
       estate: peasant
       size: 1000
 1770.1.1:
-  pop:
-    - ethnicity: mexican
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1810.9.16:
   owner: MEX
@@ -50,7 +47,6 @@
     MEX: no
     USA: yes
 1940.1.1:
-  pop:
-    - ethnicity: british_californian
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000

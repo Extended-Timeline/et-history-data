@@ -5,9 +5,8 @@
   cores:
     ROM: yes
   resource: iron
-  pop:
-    - ethnicity: noric
-      religion: druidism
+  pops:
+    - religion: druidism
       estate: peasant
       size: 1000
 395.1.17:
@@ -17,15 +16,13 @@
     ROM: no
     ROMW: yes
 420.1.1:
-  pop:
-    - ethnicity: danube_bavarian
-      religion: germanic
+  pops:
+    - religion: germanic
       estate: peasant
       size: 1000
 430.1.1:
-  pop:
-    - religion: chalcedonism
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 476.9.4:
   owner: ITA
@@ -42,9 +39,8 @@
     ITA: no
     OSTR: yes
 500.1.1:
-  pop:
-    - religion: arianism
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 553.1.1:
   owner: LOMB
@@ -59,9 +55,8 @@
     LOMB: no
     AVR: yes
 600.1.1:
-  pop:
-    - religion: chalcedonism
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 623.1.1:
   owner: SAMO
@@ -94,9 +89,8 @@
     FRAN: no
     BAV: yes
 867.1.1:
-  pop:
-    - religion: catholic
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 880.3.22:
   owner: EFRA

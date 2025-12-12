@@ -5,9 +5,8 @@
   cores:
     ROM: yes
   resource: cloth
-  pop:
-    - ethnicity: syriac_culture
-      religion: chalcedonism
+  pops:
+    - religion: chalcedonism
       estate: peasant
       size: 1000
 269.1.1:
@@ -24,14 +23,12 @@
     ROM: no
     BYZ: yes
 500.1.1:
-  pop:
-    - ethnicity: greek_culture
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 512.11.16:
-  pop:
-    - religion: miaphysite
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 613.1.1:
   controller: ERA
@@ -43,9 +40,8 @@
   cores:
     RASH: yes
 650.1.1:
-  pop:
-    - ethnicity: levantine_culture
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 661.7.28:
   owner: UMAY
@@ -65,9 +61,8 @@
   cores:
     EGY: yes
 870.1.1:
-  pop:
-    - religion: orthodox
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 905.1.10:
   owner: ABBA
@@ -115,14 +110,12 @@
   cores:
     ANTI: no
     MAM: yes
-  pop:
-    - ethnicity: levantine_culture
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1370.1.1:
-  pop:
-    - religion: sunni
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1516.8.24:
   owner: TUR
@@ -148,9 +141,8 @@
     EGY: no
     TUR: yes
 1880.1.1:
-  pop:
-    - ethnicity: turkish_culture
-      religion: shia
+  pops:
+    - religion: shia
       estate: peasant
       size: 1000
 1920.3.8:

@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/2582 - Maliseet.txt
 2.1.1:
-  pop:
-    - ethnicity: wolastoqiyik_culture
-      religion: iroquoian_totemism
+  pops:
+    - religion: iroquoian_totemism
       estate: peasant
       size: 1000
 1672.1.1:
@@ -11,9 +10,8 @@
   cores:
     FRA: yes
   resource: fish
-  pop:
-    - ethnicity: french
-      religion: catholic
+  pops:
+    - religion: catholic
       estate: peasant
       size: 1000
 1763.2.10:
@@ -23,9 +21,8 @@
     FRA: no
     GBR: yes
 1790.1.1:
-  pop:
-    - ethnicity: french_canadian
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1867.7.1:
   owner: CAN

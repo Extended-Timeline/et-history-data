@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/2870 - Tehuelmapu.txt
 2.1.1:
-  pop:
-    - ethnicity: teushen_culture
-      religion: muisca_religion
+  pops:
+    - religion: muisca_religion
       estate: peasant
       size: 1000
 1884.1.1:
@@ -11,8 +10,7 @@
   cores:
     ARGE: yes
   resource: livestock
-  pop:
-    - ethnicity: iberian_la_platan
-      religion: catholic
+  pops:
+    - religion: catholic
       estate: peasant
       size: 1000

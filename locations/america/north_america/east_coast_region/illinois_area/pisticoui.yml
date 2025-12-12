@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/4903 - Chinko.txt
 2.1.1:
-  pop:
-    - ethnicity: cahokia_culture
-      religion: iroquoian_totemism
+  pops:
+    - religion: iroquoian_totemism
       estate: peasant
       size: 1000
 1680.6.1:
@@ -11,9 +10,8 @@
   cores:
     FRA: yes
   resource: grain
-  pop:
-    - ethnicity: french
-      religion: catholic
+  pops:
+    - religion: catholic
       estate: peasant
       size: 1000
 1763.2.10:
@@ -22,9 +20,8 @@
   cores:
     FRA: no
     GBR: yes
-  pop:
-    - ethnicity: english
-      religion: lutheran
+  pops:
+    - religion: lutheran
       estate: peasant
       size: 1000
 1763.10.9:
@@ -33,9 +30,8 @@
   cores:
     GBR: no
     PEO: yes
-  pop:
-    - ethnicity: cahokia_culture
-      religion: iroquoian_totemism
+  pops:
+    - religion: iroquoian_totemism
       estate: peasant
       size: 1000
 1813.10.5:
@@ -43,9 +39,8 @@
   controller: USA
   cores:
     USA: yes
-  pop:
-    - ethnicity: american
-      religion: lutheran
+  pops:
+    - religion: lutheran
       estate: peasant
       size: 1000
 1930.1.1:

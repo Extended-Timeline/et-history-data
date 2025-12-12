@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/2614 - Cotoname.txt
 2.1.1:
-  pop:
-    - ethnicity: pame_culture
-      religion: nahuatl
+  pops:
+    - religion: nahuatl
       estate: peasant
       size: 1000
 1582.1.1:
@@ -11,15 +10,13 @@
   cores:
     SPA: yes
   resource: wool
-  pop:
-    - ethnicity: castilian
-      religion: catholic
+  pops:
+    - religion: catholic
       estate: peasant
       size: 1000
 1770.1.1:
-  pop:
-    - ethnicity: mexican
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1810.9.16:
   owner: MEX

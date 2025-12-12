@@ -5,9 +5,8 @@
   cores:
     KAGJ: yes
   resource: livestock
-  pop:
-    - ethnicity: sogdian
-      religion: 
+  pops:
+    - religion: 
       estate: peasant
       size: 1000
 320.1.1:
@@ -35,9 +34,8 @@
     GOKT: no
     WGOK: yes
 600.1.1:
-  pop:
-    - religion: zoroastrian
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 642.1.1:
   owner: SAMA
@@ -46,9 +44,8 @@
     WGOK: no
     SAMA: yes
 700.1.1:
-  pop:
-    - religion: manichaeism
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 740.1.1:
   owner: UMAY
@@ -62,9 +59,8 @@
     UMAY: no
     ABBA: yes
 800.1.1:
-  pop:
-    - religion: sunni
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 819.1.1:
   owner: CHAC
@@ -72,9 +68,8 @@
   cores:
     ABBA: no
     CHAC: yes
-  pop:
-    - ethnicity: tajik_culture
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 855.1.1:
   owner: KOKA
@@ -94,9 +89,8 @@
     BUKH: no
     TRAN: yes
 1000.1.1:
-  pop:
-    - ethnicity: khazak
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1212.1.1:
   owner: KHWA
@@ -177,9 +171,8 @@
   cores:
     RUS: yes
 1870.1.1:
-  pop:
-    - ethnicity: uzbek_culture
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1900.1.1:
   resource: gold

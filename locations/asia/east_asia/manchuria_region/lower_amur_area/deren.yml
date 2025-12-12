@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/1050 - Deren.txt
 2.1.1:
-  pop:
-    - ethnicity: nivkh_culture
-      religion: mari_paganism
+  pops:
+    - religion: mari_paganism
       estate: peasant
       size: 1000
 1206.1.1:
@@ -35,9 +34,8 @@
     RUS: no
     SOVI: yes
 1930.1.1:
-  pop:
-    - religion: orthodox
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1991.12.25:
   owner: RUS

@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/477 - Nadym.txt
 2.1.1:
-  pop:
-    - ethnicity: khazak
-      religion: 
+  pops:
+    - religion: 
       estate: peasant
       size: 1000
 260.1.1:
@@ -52,9 +51,8 @@
   cores:
     CUMA: yes
 1120.1.1:
-  pop:
-    - religion: sunni
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1236.1.1:
   owner: MGE

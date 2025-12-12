@@ -5,15 +5,13 @@
   cores:
     ROM: yes
   resource: naval_supplies
-  pop:
-    - ethnicity: dalmatian
-      religion: hellenism_religion
+  pops:
+    - religion: hellenism_religion
       estate: peasant
       size: 1000
 300.1.1:
-  pop:
-    - religion: chalcedonism
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 395.1.17:
   owner: ROMW
@@ -56,9 +54,8 @@
   cores:
     FRAN: no
 867.1.1:
-  pop:
-    - religion: catholic
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 925.1.1:
   owner: CRO
@@ -127,9 +124,8 @@
     FRA: no
     HAB: yes
 1820.1.1:
-  pop:
-    - ethnicity: croatian
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1918.12.1:
   owner: YUGO

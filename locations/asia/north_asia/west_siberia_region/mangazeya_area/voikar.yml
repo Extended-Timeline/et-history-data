@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/1073 - Berezov.txt
 2.1.1:
-  pop:
-    - ethnicity: khanty_culture
-      religion: mari_paganism
+  pops:
+    - religion: mari_paganism
       estate: peasant
       size: 1000
 1593.1.1:
@@ -11,9 +10,8 @@
   cores:
     RUS: yes
   resource: salt
-  pop:
-    - ethnicity: muscovite
-      religion: orthodox
+  pops:
+    - religion: orthodox
       estate: peasant
       size: 1000
 1922.12.30:

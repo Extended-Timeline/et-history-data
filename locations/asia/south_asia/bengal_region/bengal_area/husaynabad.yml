@@ -5,9 +5,8 @@
   cores:
     VANG: yes
   resource: silk
-  pop:
-    - ethnicity: bengali
-      religion: mahayana
+  pops:
+    - religion: mahayana
       estate: peasant
       size: 1000
 355.1.1:
@@ -40,9 +39,8 @@
   cores:
     GAUD: yes
 1080.1.1:
-  pop:
-    - religion: hindu
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1230.1.1:
   owner: SAMT

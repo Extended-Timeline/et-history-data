@@ -5,9 +5,8 @@
   cores:
     CALB: yes
   resource: silk
-  pop:
-    - ethnicity: aghwan
-      religion: zoroastrian
+  pops:
+    - religion: zoroastrian
       estate: peasant
       size: 1000
 253.1.1:
@@ -37,9 +36,8 @@
     UMAY: no
     ABBA: yes
 860.1.1:
-  pop:
-    - ethnicity: talysh_culture
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 861.1.1:
   owner: SHIR
@@ -48,14 +46,12 @@
     ABBA: no
     SHIR: yes
 880.1.1:
-  pop:
-    - religion: shia
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1070.1.1:
-  pop:
-    - ethnicity: azeri_culture
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1236.1.1:
   owner: MGE

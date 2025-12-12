@@ -5,9 +5,8 @@
   cores:
     ATAY: yes
   resource: chinaware
-  pop:
-    - ethnicity: formosan_culture
-      religion: bimoism
+  pops:
+    - religion: bimoism
       estate: peasant
       size: 1000
 1626.1.1:
@@ -32,9 +31,8 @@
   cores:
     QNG: yes
 1800.1.1:
-  pop:
-    - ethnicity: taiwanese
-      religion: sanjiao
+  pops:
+    - religion: sanjiao
       estate: peasant
       size: 1000
 1895.4.17:

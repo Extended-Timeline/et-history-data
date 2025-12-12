@@ -5,9 +5,8 @@
   cores:
     ALEM: yes
   resource: wine
-  pop:
-    - ethnicity: high_alemannic
-      religion: germanic
+  pops:
+    - religion: germanic
       estate: peasant
       size: 1000
 395.1.1:
@@ -16,9 +15,8 @@
   cores:
     ALEM: no
     BUR: yes
-  pop:
-    - ethnicity: burgundione
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 443.1.1:
   owner: ALEM
@@ -26,9 +24,8 @@
   cores:
     BUR: no
     ALEM: yes
-  pop:
-    - ethnicity: high_alemannic
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 496.1.1:
   owner: FRAN
@@ -56,9 +53,8 @@
   owner: ASTS
   controller: ASTS
 600.1.1:
-  pop:
-    - religion: chalcedonism
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 613.10.10:
   owner: FRAN
@@ -84,9 +80,8 @@
     FRAN: no
     EFRA: yes
 867.1.1:
-  pop:
-    - religion: catholic
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 911.11.10:
   owner: FKN
@@ -101,9 +96,8 @@
     FKN: no
     PAL: yes
 1546.4.19:
-  pop:
-    - religion: lutheran
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1689.8.1:
   controller: FRA
@@ -127,9 +121,8 @@
   cores:
     GER: yes
 1880.1.1:
-  pop:
-    - ethnicity: east_franconian
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1900.1.1:
   cores:

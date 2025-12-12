@@ -5,9 +5,8 @@
   cores:
     XION: yes
   resource: livestock
-  pop:
-    - ethnicity: chahar
-      religion: 
+  pops:
+    - religion: 
       estate: peasant
       size: 1000
 48.1.1:
@@ -82,9 +81,8 @@
     TANG: no
     TAGT: yes
 950.1.1:
-  pop:
-    - religion: mahayana
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1038.1.1:
   owner: XIA0
@@ -93,9 +91,8 @@
     TAGT: no
     XIA0: yes
 1080.1.1:
-  pop:
-    - religion: tibetan_buddhism
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1227.1.1:
   owner: MGE
@@ -153,7 +150,6 @@
 1949.10.1:
   controller: CHI
 1965.1.1:
-  pop:
-    - ethnicity: jin_culture
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000

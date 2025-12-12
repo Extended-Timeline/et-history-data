@@ -5,15 +5,13 @@
   cores:
     MERO: yes
   resource: grain
-  pop:
-    - ethnicity: kushite
-      religion: egyptian
+  pops:
+    - religion: egyptian
       estate: peasant
       size: 1000
 340.1.1:
-  pop:
-    - religion: bantu_religion
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 350.1.1:
   owner: MAK
@@ -21,14 +19,12 @@
   cores:
     MERO: no
     MAK: yes
-  pop:
-    - ethnicity: nubian_language
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 550.1.1:
-  pop:
-    - religion: miaphysite
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1276.1.1:
   owner: MAM
@@ -37,9 +33,8 @@
   owner: MAK
   controller: MAK
 1350.1.1:
-  pop:
-    - religion: shia
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1412.1.1:
   owner: DON
@@ -47,9 +42,8 @@
   cores:
     DON: yes
 1530.1.1:
-  pop:
-    - religion: sunni
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1821.6.14:
   owner: EGY
@@ -58,9 +52,8 @@
     EGY: yes
     TUR: yes
 1850.1.1:
-  pop:
-    - ethnicity: sudanese_arab
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1882.9.13:
   owner: GBR

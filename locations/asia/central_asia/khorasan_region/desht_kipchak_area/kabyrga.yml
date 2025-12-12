@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/2358 - Altyn.txt
 2.1.1:
-  pop:
-    - ethnicity: pecheneg
-      religion: 
+  pops:
+    - religion: 
       estate: peasant
       size: 1000
 160.1.1:
@@ -37,9 +36,8 @@
   cores:
     KANG: no
     KIPC: yes
-  pop:
-    - ethnicity: khazak
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 880.1.1:
   owner: KIME
@@ -53,9 +51,8 @@
     KIME: no
     KIPC: yes
 1080.1.1:
-  pop:
-    - religion: sunni
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1100.1.1:
   owner: CUMA

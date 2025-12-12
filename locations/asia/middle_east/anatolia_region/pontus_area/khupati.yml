@@ -5,9 +5,8 @@
   cores:
     PONT: yes
   resource: fish
-  pop:
-    - ethnicity: georgian_culture
-      religion: georgian_religion
+  pops:
+    - religion: georgian_religion
       estate: peasant
       size: 1000
 62.1.1:
@@ -19,9 +18,8 @@
   cores:
     PONT: no
 360.1.1:
-  pop:
-    - religion: chalcedonism
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 395.1.17:
   owner: BYZ
@@ -47,9 +45,8 @@
     BYZ: no
     GEO: yes
 867.1.1:
-  pop:
-    - religion: orthodox
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1234.1.1:
   owner: MGE
@@ -118,8 +115,7 @@
   cores:
     TUR: no
 1923.1.1:
-  pop:
-    - ethnicity: turkish_culture
-      religion: sunni
+  pops:
+    - religion: sunni
       estate: peasant
       size: 1000

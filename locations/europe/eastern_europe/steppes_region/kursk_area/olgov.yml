@@ -5,9 +5,8 @@
   cores:
     SARM: yes
   resource: grain
-  pop:
-    - ethnicity: sarmatian
-      religion: 
+  pops:
+    - religion: 
       estate: peasant
       size: 1000
 370.1.1:
@@ -16,16 +15,14 @@
   cores:
     SARM: no
     HUNS: yes
-  pop:
-    - ethnicity: hunnic
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 420.1.1:
   cores:
     KUTR: yes
-  pop:
-    - ethnicity: bolghar_culture
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 469.1.1:
   owner: KUTR
@@ -44,9 +41,8 @@
   cores:
     ONOG: no
     HUN: yes
-  pop:
-    - ethnicity: hungarian
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 780.1.1:
   owner: ULIC
@@ -54,9 +50,8 @@
   cores:
     HUN: no
     ULIC: yes
-  pop:
-    - ethnicity: ruthenian
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 870.1.1:
   owner: PECH
@@ -77,9 +72,8 @@
     KIEV: no
     CHR: yes
 1060.1.1:
-  pop:
-    - religion: orthodox
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1237.1.1:
   owner: MGE
@@ -106,9 +100,8 @@
     LIT: no
     RUS: yes
 1678.1.1:
-  pop:
-    - ethnicity: muscovite
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1922.12.30:
   owner: SOVI

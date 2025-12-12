@@ -5,9 +5,8 @@
   cores:
     SATA: yes
   resource: tropical_wood
-  pop:
-    - ethnicity: marathi_culture
-      religion: hindu
+  pops:
+    - religion: hindu
       estate: peasant
       size: 1000
 220.1.1:

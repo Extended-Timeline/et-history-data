@@ -5,15 +5,13 @@
   cores:
     ROM: yes
   resource: livestock
-  pop:
-    - ethnicity: iberi
-      religion: bimoism
+  pops:
+    - religion: bimoism
       estate: peasant
       size: 1000
 340.1.1:
-  pop:
-    - religion: chalcedonism
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 395.1.17:
   owner: ROMW
@@ -63,14 +61,12 @@
     UMAY: no
     CRDB: yes
 800.1.1:
-  pop:
-    - ethnicity: andalusi
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 820.1.1:
-  pop:
-    - religion: sunni
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1013.1.1:
   owner: GRA
@@ -103,9 +99,8 @@
     GRA: no
     CAS: yes
 1300.1.1:
-  pop:
-    - religion: catholic
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1516.1.23:
   owner: SPA
@@ -115,9 +110,8 @@
 1522.2.3:
   controller: SPA
 1570.10.28:
-  pop:
-    - ethnicity: castilian
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1713.4.11:
   cores:

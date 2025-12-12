@@ -5,9 +5,8 @@
   cores:
     KUSH: yes
   resource: gems
-  pop:
-    - ethnicity: sogdian
-      religion: mahayana
+  pops:
+    - religion: mahayana
       estate: peasant
       size: 1000
 230.1.1:
@@ -39,14 +38,12 @@
     TOKH: no
     BADA: yes
 800.1.1:
-  pop:
-    - ethnicity: tajik_culture
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1065.1.1:
-  pop:
-    - religion: sunni
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1219.1.1:
   owner: MGE

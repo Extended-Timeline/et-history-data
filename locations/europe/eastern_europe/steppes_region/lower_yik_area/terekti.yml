@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/2367 - Lower Yaik.txt
 2.1.1:
-  pop:
-    - ethnicity: hunnic
-      religion: 
+  pops:
+    - religion: 
       estate: peasant
       size: 1000
 160.1.1:
@@ -14,9 +13,8 @@
 376.1.1:
   cores:
     KHAZ: yes
-  pop:
-    - ethnicity: khazar
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 448.1.1:
   owner: KHAZ
@@ -24,9 +22,8 @@
   cores:
     HUNS: no
 593.1.1:
-  pop:
-    - ethnicity: pecheneg
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 820.1.1:
   owner: PECH
@@ -40,14 +37,12 @@
   cores:
     PECH: no
     CUMA: yes
-  pop:
-    - ethnicity: cuman_culture
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1100.1.1:
-  pop:
-    - religion: sunni
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1236.1.1:
   owner: MGE
@@ -55,9 +50,8 @@
   cores:
     CUMA: no
     MGE: yes
-  pop:
-    - ethnicity: nogai
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1260.1.1:
   owner: BLHO
@@ -77,9 +71,8 @@
   cores:
     NOGA: no
     RUS: yes
-  pop:
-    - ethnicity: khazak
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1917.12.13:
   cores:

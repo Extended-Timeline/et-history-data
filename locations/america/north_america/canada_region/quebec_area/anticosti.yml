@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/2578 - Anticosti.txt
 2.1.1:
-  pop:
-    - ethnicity: innu_culture
-      religion: iroquoian_totemism
+  pops:
+    - religion: iroquoian_totemism
       estate: peasant
       size: 1000
 1681.1.1:
@@ -10,9 +9,8 @@
   controller: FRA
   cores:
     FRA: yes
-  pop:
-    - ethnicity: french
-      religion: catholic
+  pops:
+    - religion: catholic
       estate: peasant
       size: 1000
 1763.2.10:
@@ -25,9 +23,8 @@
   cores:
     GBR: yes
 1790.1.1:
-  pop:
-    - ethnicity: french_canadian
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1867.7.1:
   owner: CAN

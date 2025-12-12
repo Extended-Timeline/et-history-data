@@ -5,9 +5,8 @@
   cores:
     YI00: yes
   resource: iron
-  pop:
-    - ethnicity: yi_culture
-      religion: bimoism
+  pops:
+    - religion: bimoism
       estate: peasant
       size: 1000
 60.1.1:
@@ -84,9 +83,8 @@
   cores:
     QNG: yes
 1900.1.1:
-  pop:
-    - religion: sanjiao
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1912.2.12:
   owner: CHI

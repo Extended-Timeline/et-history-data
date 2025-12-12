@@ -5,9 +5,8 @@
   cores:
     HOTA: yes
   resource: wool
-  pop:
-    - ethnicity: saka
-      religion: mahayana
+  pops:
+    - religion: mahayana
       estate: peasant
       size: 1000
 56.1.1:
@@ -45,9 +44,8 @@
     TIB: no
     TANG: yes
 720.1.1:
-  pop:
-    - religion: tibetan_buddhism
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 763.1.1:
   owner: TIB
@@ -73,9 +71,8 @@
   cores:
     KKHA: yes
 1010.1.1:
-  pop:
-    - ethnicity: uyghur_culture
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1211.1.1:
   owner: KKHI
@@ -108,9 +105,8 @@
     MOGH: no
     YARK: yes
 1420.1.1:
-  pop:
-    - religion: sunni
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1682.1.1:
   owner: ZUNG

@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/997 - Labrador.txt
 2.1.1:
-  pop:
-    - ethnicity: innu_culture
-      religion: iroquoian_totemism
+  pops:
+    - religion: iroquoian_totemism
       estate: peasant
       size: 1000
 1780.1.1:
@@ -11,15 +10,13 @@
   cores:
     GBR: yes
   resource: fish
-  pop:
-    - ethnicity: english
-      religion: lutheran
+  pops:
+    - religion: lutheran
       estate: peasant
       size: 1000
 1790.1.1:
-  pop:
-    - ethnicity: british_canadian
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1907.9.26:
   owner: NEWF

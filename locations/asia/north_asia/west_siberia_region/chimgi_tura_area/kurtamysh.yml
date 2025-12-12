@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/1076 - Kurgan.txt
 2.1.1:
-  pop:
-    - ethnicity: sakha_culture
-      religion: mari_paganism
+  pops:
+    - religion: mari_paganism
       estate: peasant
       size: 1000
 1236.1.1:
@@ -24,9 +23,8 @@
   cores:
     GLH: yes
 1380.1.1:
-  pop:
-    - religion: sunni
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1428.1.1:
   owner: SHAY
@@ -43,9 +41,8 @@
     SIBI: no
     RUS: yes
 1662.1.1:
-  pop:
-    - ethnicity: muscovite
-      religion: orthodox
+  pops:
+    - religion: orthodox
       estate: peasant
       size: 1000
 1910.1.1:

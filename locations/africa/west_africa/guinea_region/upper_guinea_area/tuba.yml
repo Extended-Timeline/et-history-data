@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/2238 - Kantor.txt
 2.1.1:
-  pop:
-    - ethnicity: fulbe
-      religion: bantu_religion
+  pops:
+    - religion: bantu_religion
       estate: peasant
       size: 1000
 1240.1.1:
@@ -21,9 +20,8 @@
     MAL: no
     KAB: yes
 1780.1.1:
-  pop:
-    - religion: sunni
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1867.1.1:
   owner: FUL

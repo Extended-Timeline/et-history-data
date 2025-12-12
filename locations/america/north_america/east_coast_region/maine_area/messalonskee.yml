@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/2565 - Kennebec.txt
 2.1.1:
-  pop:
-    - ethnicity: eastern_abenaki_culture
-      religion: iroquoian_totemism
+  pops:
+    - religion: iroquoian_totemism
       estate: peasant
       size: 1000
 1754.1.1:
@@ -11,15 +10,13 @@
   cores:
     GBR: yes
   resource: fur
-  pop:
-    - ethnicity: english
-      religion: lutheran
+  pops:
+    - religion: lutheran
       estate: peasant
       size: 1000
 1764.7.1:
-  pop:
-    - ethnicity: american
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1776.7.4:
   owner: USA

@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/1115 - Brakna.txt
 2.1.1:
-  pop:
-    - ethnicity: fulbe
-      religion: bantu_religion
+  pops:
+    - religion: bantu_religion
       estate: peasant
       size: 1000
 800.1.1:
@@ -29,9 +28,8 @@
     FUL: yes
   resource: slaves
 1770.1.1:
-  pop:
-    - religion: sunni
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1861.1.1:
   owner: SEGU

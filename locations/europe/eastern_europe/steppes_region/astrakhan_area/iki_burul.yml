@@ -5,9 +5,8 @@
   cores:
     ALN: yes
   resource: iron
-  pop:
-    - ethnicity: alan_culture
-      religion: 
+  pops:
+    - religion: 
       estate: peasant
       size: 1000
 420.1.1:
@@ -22,14 +21,12 @@
   cores:
     HUNS: no
     KHAZ: yes
-  pop:
-    - ethnicity: khazar
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1000.1.1:
-  pop:
-    - religion: sunni
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1048.1.1:
   owner: CUMA
@@ -44,9 +41,8 @@
     CUMA: no
     MGE: yes
     ASTR: yes
-  pop:
-    - ethnicity: astrakhani
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1260.1.1:
   owner: WHHO
@@ -92,9 +88,8 @@
   cores:
     NOGA: no
     KALM: yes
-  pop:
-    - ethnicity: oirat_culture
-      religion: tibetan_buddhism
+  pops:
+    - religion: tibetan_buddhism
       estate: peasant
       size: 1000
 1771.1.1:

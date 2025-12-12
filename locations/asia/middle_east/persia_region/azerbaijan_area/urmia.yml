@@ -5,9 +5,8 @@
   cores:
     ARM: yes
   resource: wine
-  pop:
-    - ethnicity: armenian_culture
-      religion: zoroastrian
+  pops:
+    - religion: zoroastrian
       estate: peasant
       size: 1000
 114.1.1:
@@ -26,14 +25,12 @@
   cores:
     ERA: yes
 460.1.1:
-  pop:
-    - religion: chalcedonism
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 506.1.1:
-  pop:
-    - religion: miaphysite
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 639.1.1:
   owner: RASH
@@ -60,9 +57,8 @@
     ABBA: no
     AZER: yes
 900.1.1:
-  pop:
-    - ethnicity: kurdish_culture
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 955.1.1:
   owner: TABR
@@ -75,9 +71,8 @@
   cores:
     SELJ: yes
 1120.1.1:
-  pop:
-    - religion: sunni
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1157.5.8:
   owner: MARE
@@ -191,13 +186,11 @@
 1945.11.21:
   cores:
     AZER: yes
-  pop:
-    - ethnicity: azeri_culture
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1946.12.11:
   controller: IRAN
-  pop:
-    - ethnicity: kurdish_culture
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000

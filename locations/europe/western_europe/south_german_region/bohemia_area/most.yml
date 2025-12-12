@@ -5,9 +5,8 @@
   cores:
     NAHA: yes
   resource: iron
-  pop:
-    - ethnicity: vandal
-      religion: germanic
+  pops:
+    - religion: germanic
       estate: peasant
       size: 1000
 395.1.1:
@@ -16,9 +15,8 @@
   cores:
     NAHA: no
     LOMB: yes
-  pop:
-    - ethnicity: langobardi
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 500.1.1:
   owner: BOH
@@ -26,9 +24,8 @@
   cores:
     LOMB: no
     BOH: yes
-  pop:
-    - ethnicity: czech
-      religion: slavic
+  pops:
+    - religion: slavic
       estate: peasant
       size: 1000
 623.1.1:
@@ -52,9 +49,8 @@
   cores:
     MVA: no
 900.1.1:
-  pop:
-    - religion: catholic
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 950.1.1:
   resource: glass
@@ -65,9 +61,8 @@
     BOH: no
     HAB: yes
 1576.1.1:
-  pop:
-    - religion: lutheran
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1618.5.23:
   owner: BOH
@@ -80,14 +75,12 @@
   cores:
     BOH: no
 1627.1.1:
-  pop:
-    - religion: catholic
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1860.1.1:
-  pop:
-    - ethnicity: saxon
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1918.10.28:
   owner: CZES
@@ -105,9 +98,8 @@
   controller: CZES
   cores:
     GER: no
-  pop:
-    - ethnicity: czech
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1992.12.31:
   owner: CZEC
@@ -116,7 +108,6 @@
     CZES: no
     CZEC: yes
 2005.1.1:
-  pop:
-    - religion: irreligious
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000

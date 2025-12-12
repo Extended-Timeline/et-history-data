@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/4270 - Azraq.txt
 2.1.1:
-  pop:
-    - ethnicity: najdi_culture
-      religion: nabataean
+  pops:
+    - religion: nabataean
       estate: peasant
       size: 1000
 220.1.1:
@@ -24,9 +23,8 @@
     RASH: no
     UMAY: yes
 670.1.1:
-  pop:
-    - religion: sunni
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 750.8.6:
   owner: ABBA

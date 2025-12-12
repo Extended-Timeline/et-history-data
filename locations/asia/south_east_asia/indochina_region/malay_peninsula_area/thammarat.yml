@@ -5,9 +5,8 @@
   cores:
     LGK: yes
   resource: tropical_wood
-  pop:
-    - ethnicity: malay_culture
-      religion: mahayana
+  pops:
+    - religion: mahayana
       estate: peasant
       size: 1000
 150.1.1:
@@ -59,9 +58,8 @@
   cores:
     RTP: yes
 1850.1.1:
-  pop:
-    - ethnicity: thai_culture
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1932.7.24:
   owner: SIA

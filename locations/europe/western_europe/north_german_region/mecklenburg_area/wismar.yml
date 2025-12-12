@@ -5,9 +5,8 @@
   cores:
     SAX: yes
   resource: cloth
-  pop:
-    - ethnicity: saxon
-      religion: germanic
+  pops:
+    - religion: germanic
       estate: peasant
       size: 1000
 570.1.1:
@@ -16,15 +15,13 @@
   cores:
     SAX: no
     OBOT: yes
-  pop:
-    - ethnicity: polabian
-      religion: slavic
+  pops:
+    - religion: slavic
       estate: peasant
       size: 1000
 1160.1.1:
-  pop:
-    - religion: catholic
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1178.1.1:
   owner: MKL
@@ -32,14 +29,12 @@
   cores:
     OBOT: no
     MKL: yes
-  pop:
-    - ethnicity: western_pomeranian
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1531.1.1:
-  pop:
-    - religion: lutheran
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1648.10.24:
   owner: SWE
@@ -65,9 +60,8 @@
   cores:
     EGER: yes
 1985.1.1:
-  pop:
-    - religion: irreligious
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1990.10.3:
   owner: GER

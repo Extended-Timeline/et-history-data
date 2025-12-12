@@ -5,20 +5,17 @@
   cores:
     MERO: yes
   resource: livestock
-  pop:
-    - ethnicity: kushite
-      religion: egyptian
+  pops:
+    - religion: egyptian
       estate: peasant
       size: 1000
 330.1.1:
-  pop:
-    - religion: chalcedonism
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 340.1.1:
-  pop:
-    - ethnicity: nubian_language
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 350.1.1:
   owner: BLEM
@@ -33,9 +30,8 @@
     BLEM: no
     NOBA: yes
 451.11.1:
-  pop:
-    - religion: miaphysite
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 701.1.1:
   owner: MAK
@@ -52,9 +48,8 @@
   owner: MAK
   controller: MAK
 1300.1.1:
-  pop:
-    - religion: sunni
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1484.1.1:
   owner: DON
@@ -67,9 +62,8 @@
 1540.1.1:
   owner: TUR
   controller: TUR
-  pop:
-    - religion: sunni
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1805.5.17:
   owner: EGY

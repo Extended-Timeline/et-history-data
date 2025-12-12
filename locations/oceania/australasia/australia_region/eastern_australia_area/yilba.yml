@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/2733 - Biri.txt
 2.1.1:
-  pop:
-    - ethnicity: mayi_culture
-      religion: dreamtime_religion
+  pops:
+    - religion: dreamtime_religion
       estate: peasant
       size: 1000
 1865.1.1:
@@ -11,9 +10,8 @@
   cores:
     GBR: yes
   resource: sugar
-  pop:
-    - ethnicity: british_australian
-      religion: lutheran
+  pops:
+    - religion: lutheran
       estate: peasant
       size: 1000
 1901.1.1:

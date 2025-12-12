@@ -5,9 +5,8 @@
   cores:
     KENT: yes
   resource: grain
-  pop:
-    - ethnicity: briton
-      religion: druidism
+  pops:
+    - religion: druidism
       estate: peasant
       size: 1000
 20.1.1:
@@ -33,15 +32,13 @@
   cores:
     ROMW: no
     SUSS: yes
-  pop:
-    - ethnicity: anglo_saxon
-      religion: germanic
+  pops:
+    - religion: germanic
       estate: peasant
       size: 1000
 675.1.1:
-  pop:
-    - religion: chalcedonism
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 827.1.1:
   owner: WESS
@@ -49,9 +46,8 @@
   cores:
     WESS: yes
 867.1.1:
-  pop:
-    - religion: catholic
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 927.1.1:
   owner: ENG
@@ -63,23 +59,20 @@
   cores:
     SUSS: no
 1066.12.25:
-  pop:
-    - ethnicity: english
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1450.7.12:
   controller: ENG
 1461.6.28:
   controller: ENG
 1538.1.1:
-  pop:
-    - religion: anglican
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1580.1.1:
-  pop:
-    - religion: calvinist
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1646.5.5:
   controller: ENG

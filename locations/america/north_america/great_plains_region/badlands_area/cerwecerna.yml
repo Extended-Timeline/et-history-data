@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/2007 - Arikara.txt
 2.1.1:
-  pop:
-    - ethnicity: tsawi_culture
-      religion: iroquoian_totemism
+  pops:
+    - religion: iroquoian_totemism
       estate: peasant
       size: 1000
 1750.1.1:
@@ -11,26 +10,23 @@
   cores:
     LAKO: yes
   resource: fur
-  pop:
-    - ethnicity: ithanktunwan_culture
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1810.1.1:
   owner: ---
   controller: ---
   cores:
     LAKO: no
-  pop:
-    - ethnicity: ithanktunwan_culture
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1832.1.1:
   owner: USA
   controller: USA
   cores:
     USA: yes
-  pop:
-    - ethnicity: american
-      religion: lutheran
+  pops:
+    - religion: lutheran
       estate: peasant
       size: 1000

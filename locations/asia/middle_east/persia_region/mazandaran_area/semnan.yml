@@ -5,9 +5,8 @@
   cores:
     PART: yes
   resource: gems
-  pop:
-    - ethnicity: parthian
-      religion: zoroastrian
+  pops:
+    - religion: zoroastrian
       estate: peasant
       size: 1000
 224.4.24:
@@ -17,9 +16,8 @@
     PART: no
     ERA: yes
 400.1.1:
-  pop:
-    - ethnicity: farsi_culture
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 643.1.1:
   owner: RASH
@@ -51,9 +49,8 @@
     ABBA: no
     SIST: yes
 880.1.1:
-  pop:
-    - religion: sunni
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 900.1.1:
   owner: BUKH
@@ -104,9 +101,8 @@
     MGE: no
     ILK: yes
 1270.1.1:
-  pop:
-    - religion: shia
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1335.1.1:
   owner: ASR

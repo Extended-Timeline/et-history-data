@@ -5,25 +5,21 @@
   cores:
     PAGA: yes
   resource: tropical_wood
-  pop:
-    - ethnicity: pyu
-      religion: theravada
+  pops:
+    - religion: theravada
       estate: peasant
       size: 1000
 750.1.1:
-  pop:
-    - religion: tibetan_buddhism
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 800.1.1:
-  pop:
-    - ethnicity: burmese_culture
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1050.1.1:
-  pop:
-    - religion: theravada
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1297.12.17:
   owner: MYIN

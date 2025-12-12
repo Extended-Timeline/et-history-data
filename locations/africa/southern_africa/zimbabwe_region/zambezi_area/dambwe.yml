@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/3016 - Lusaka.txt
 2.1.1:
-  pop:
-    - ethnicity: tonga
-      religion: bantu_religion
+  pops:
+    - religion: bantu_religion
       estate: peasant
       size: 1000
 1897.1.1:
@@ -11,9 +10,8 @@
   cores:
     GBR: yes
   resource: copper
-  pop:
-    - religion: lutheran
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1964.10.24:
   owner: ZAMB

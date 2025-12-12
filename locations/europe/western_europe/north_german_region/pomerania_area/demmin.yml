@@ -5,9 +5,8 @@
   cores:
     RUGI: yes
   resource: salt
-  pop:
-    - ethnicity: western_pomeranian
-      religion: germanic
+  pops:
+    - religion: germanic
       estate: peasant
       size: 1000
 140.1.1:
@@ -17,9 +16,8 @@
     RUGI: no
     RUGE: yes
 395.1.1:
-  pop:
-    - ethnicity: polabian
-      religion: slavic
+  pops:
+    - religion: slavic
       estate: peasant
       size: 1000
 570.1.1:
@@ -35,9 +33,8 @@
     OBOT: no
     RUGE: yes
 1121.1.1:
-  pop:
-    - ethnicity: western_pomeranian
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1128.1.1:
   owner: POM
@@ -45,9 +42,8 @@
   cores:
     RUGE: no
     POM: yes
-  pop:
-    - religion: catholic
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1186.1.1:
   owner: DAN
@@ -69,9 +65,8 @@
   cores:
     BRA: yes
 1534.1.1:
-  pop:
-    - religion: lutheran
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1648.10.24:
   owner: SWE
@@ -106,9 +101,8 @@
   cores:
     EGER: yes
 1990.1.1:
-  pop:
-    - religion: irreligious
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1990.10.3:
   owner: GER

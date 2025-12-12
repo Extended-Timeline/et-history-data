@@ -1,25 +1,22 @@
 #imported from EU4 file: history/provinces/1039 - Verkhoyansk.txt
 2.1.1:
-  pop:
-    - ethnicity: chuvan_culture
-      religion: mari_paganism
+  pops:
+    - religion: mari_paganism
       estate: peasant
       size: 1000
 1638.1.1:
   owner: RUS
   controller: RUS
-  pop:
-    - religion: orthodox
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1672.1.1:
   cores:
     RUS: yes
 1700.1.1:
   resource: fur
-  pop:
-    - ethnicity: sakha_culture
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1880.1.1:
   resource: gems

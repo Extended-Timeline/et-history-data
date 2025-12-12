@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/1195 - Mozambique.txt
 2.1.1:
-  pop:
-    - ethnicity: sandawe_culture
-      religion: bantu_religion
+  pops:
+    - religion: bantu_religion
       estate: peasant
       size: 1000
 300.1.1:
-  pop:
-    - ethnicity: swahili_culture
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 850.1.1:
   owner: ZAN
@@ -24,9 +22,8 @@
 1780.1.1:
   resource: slaves
 1840.1.1:
-  pop:
-    - religion: catholic
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1900.1.1:
   resource: ivory

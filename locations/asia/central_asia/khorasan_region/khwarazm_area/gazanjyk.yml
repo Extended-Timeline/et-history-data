@@ -1,9 +1,8 @@
 #imported from EU4 file: history/provinces/2349 - Kizil-Su.txt
 2.1.1:
   resource: fish
-  pop:
-    - ethnicity: turkmen_culture
-      religion: zoroastrian
+  pops:
+    - religion: zoroastrian
       estate: peasant
       size: 1000
 750.1.1:
@@ -12,9 +11,8 @@
   cores:
     OGHU: yes
 920.1.1:
-  pop:
-    - religion: sunni
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1035.1.1:
   owner: SELJ

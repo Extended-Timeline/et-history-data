@@ -5,9 +5,8 @@
   cores:
     ATRO: yes
   resource: wool
-  pop:
-    - ethnicity: talysh_culture
-      religion: zoroastrian
+  pops:
+    - religion: zoroastrian
       estate: peasant
       size: 1000
 226.1.1:
@@ -34,14 +33,12 @@
     UMAY: no
     ABBA: yes
 800.1.1:
-  pop:
-    - religion: sunni
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 850.1.1:
-  pop:
-    - ethnicity: kurdish_culture
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 889.1.1:
   owner: AZER
@@ -60,9 +57,8 @@
   cores:
     SELJ: yes
 1070.1.1:
-  pop:
-    - ethnicity: azeri_culture
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1157.5.8:
   owner: MARE
@@ -89,9 +85,8 @@
     MGE: no
     ILK: yes
 1300.1.1:
-  pop:
-    - religion: shia
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1335.1.1:
   owner: TABR

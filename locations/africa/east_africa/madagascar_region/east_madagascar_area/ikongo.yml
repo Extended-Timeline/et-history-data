@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/4026 - Antemoro.txt
 2.1.1:
-  pop:
-    - ethnicity: uninhabited
-      religion: bantu_religion
+  pops:
+    - religion: bantu_religion
       estate: peasant
       size: 1000
 500.1.1:
-  pop:
-    - ethnicity: sakalava_culture
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1350.1.1:
   owner: ATM
@@ -16,9 +14,8 @@
   cores:
     ATM: yes
   resource: slaves
-  pop:
-    - religion: sunni
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1817.1.1:
   owner: MADA

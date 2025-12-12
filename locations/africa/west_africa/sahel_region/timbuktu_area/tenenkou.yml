@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/1131 - Massina.txt
 2.1.1:
-  pop:
-    - ethnicity: bambara
-      religion: bantu_religion
+  pops:
+    - religion: bantu_religion
       estate: peasant
       size: 1000
 350.1.1:
@@ -67,9 +66,8 @@
     ZAFU: no
     SEGU: yes
 1870.1.1:
-  pop:
-    - religion: sunni
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1890.1.1:
   owner: FRA

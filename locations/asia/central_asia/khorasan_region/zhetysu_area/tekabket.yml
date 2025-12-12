@@ -5,9 +5,8 @@
   cores:
     KAGJ: yes
   resource: iron
-  pop:
-    - ethnicity: sogdian
-      religion: 
+  pops:
+    - religion: 
       estate: peasant
       size: 1000
 260.1.1:
@@ -52,9 +51,8 @@
   cores:
     KARL: no
     KKHA: yes
-  pop:
-    - ethnicity: khitan
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1060.1.1:
   owner: TRAN
@@ -63,9 +61,8 @@
     KKHA: no
     TRAN: yes
 1100.1.1:
-  pop:
-    - religion: sunni
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1211.1.1:
   owner: KKHI
@@ -78,9 +75,8 @@
   cores:
     KKHI: no
     MGE: yes
-  pop:
-    - ethnicity: kyrgyz_culture
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1260.1.1:
   owner: CHG
@@ -137,9 +133,8 @@
     BUKH: no
     KOKA: no
     KYRG: yes
-  pop:
-    - ethnicity: kyrgyz_culture
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1991.8.31:
   owner: KYRG

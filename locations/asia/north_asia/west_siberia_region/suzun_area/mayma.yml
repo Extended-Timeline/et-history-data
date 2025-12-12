@@ -5,9 +5,8 @@
   cores:
     YKYR: yes
   resource: fur
-  pop:
-    - ethnicity: kyrgyz_culture
-      religion: 
+  pops:
+    - religion: 
       estate: peasant
       size: 1000
 1219.1.1:
@@ -18,9 +17,8 @@
 1250.1.1:
   cores:
     YKYR: no
-  pop:
-    - ethnicity: tuvan_culture
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1271.1.1:
   owner: YUA
@@ -46,9 +44,8 @@
   cores:
     MGE: yes
 1586.1.1:
-  pop:
-    - religion: tibetan_buddhism
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1623.1.1:
   owner: OIR
@@ -70,9 +67,8 @@
     QNG: no
     RUS: yes
 1920.1.1:
-  pop:
-    - religion: orthodox
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1922.12.30:
   owner: SOVI

@@ -5,9 +5,8 @@
   cores:
     PART: yes
   resource: cloth
-  pop:
-    - ethnicity: lur_culture
-      religion: zoroastrian
+  pops:
+    - religion: zoroastrian
       estate: peasant
       size: 1000
 224.4.24:
@@ -23,9 +22,8 @@
     ERA: no
     RASH: yes
 650.1.1:
-  pop:
-    - religion: islam
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 661.7.28:
   owner: UMAY
@@ -33,9 +31,8 @@
   cores:
     RASH: no
     UMAY: yes
-  pop:
-    - religion: shia
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 750.8.6:
   owner: ABBA
@@ -44,9 +41,8 @@
     UMAY: no
     ABBA: yes
 930.1.1:
-  pop:
-    - ethnicity: kurdish_culture
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 935.1.1:
   owner: QOM

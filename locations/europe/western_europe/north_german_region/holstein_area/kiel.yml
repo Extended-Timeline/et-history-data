@@ -5,9 +5,8 @@
   cores:
     ANGL: yes
   resource: livestock
-  pop:
-    - ethnicity: lower_saxon
-      religion: germanic
+  pops:
+    - religion: germanic
       estate: peasant
       size: 1000
 700.1.1:
@@ -22,9 +21,8 @@
   cores:
     OBOT: yes
 900.1.1:
-  pop:
-    - religion: catholic
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 911.11.10:
   owner: SAX
@@ -54,9 +52,8 @@
   cores:
     DAN: yes
 1529.1.1:
-  pop:
-    - religion: lutheran
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1544.1.1:
   owner: HOLS

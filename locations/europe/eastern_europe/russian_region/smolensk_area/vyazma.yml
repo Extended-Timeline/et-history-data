@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/4245 - Vyazma.txt
 2.1.1:
-  pop:
-    - ethnicity: muscovite
-      religion: slavic
+  pops:
+    - religion: slavic
       estate: peasant
       size: 1000
 550.1.1:
@@ -18,9 +17,8 @@
     KRIV: no
     KIEV: yes
 1000.1.1:
-  pop:
-    - religion: orthodox
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1054.2.20:
   owner: SMO

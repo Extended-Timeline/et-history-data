@@ -5,15 +5,13 @@
   cores:
     KUY: yes
   resource: grain
-  pop:
-    - ethnicity: bru_culture
-      religion: bimoism
+  pops:
+    - religion: bimoism
       estate: peasant
       size: 1000
 400.1.1:
-  pop:
-    - ethnicity: khmer_culture
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 450.1.1:
   owner: CHEN
@@ -22,9 +20,8 @@
     KUY: no
     CHEN: yes
 550.1.1:
-  pop:
-    - religion: mahayana
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 707.2.6:
   owner: LCHE
@@ -39,9 +36,8 @@
     LCHE: no
     CAMB: yes
 1295.1.1:
-  pop:
-    - religion: theravada
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1420.1.1:
   owner: LAXA
@@ -50,9 +46,8 @@
     CAMB: no
     LAXA: yes
 1490.1.1:
-  pop:
-    - ethnicity: lao_culture
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1707.1.1:
   owner: VTN

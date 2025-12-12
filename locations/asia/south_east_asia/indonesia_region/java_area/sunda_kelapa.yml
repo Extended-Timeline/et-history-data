@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/630 - Sunda.txt
 2.1.1:
-  pop:
-    - ethnicity: sundanese_culture
-      religion: hindu
+  pops:
+    - religion: hindu
       estate: peasant
       size: 1000
 130.1.1:
@@ -30,9 +29,8 @@
     SUN: no
     BAN: yes
 1540.1.1:
-  pop:
-    - religion: sunni
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1619.5.30:
   owner: NED
@@ -41,9 +39,8 @@
   cores:
     NED: yes
 1880.1.1:
-  pop:
-    - ethnicity: javanese_culture
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1912.9.10:
   cores:

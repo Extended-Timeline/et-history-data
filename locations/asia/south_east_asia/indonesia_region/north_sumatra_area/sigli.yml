@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/2673 - Pasai.txt
 2.1.1:
-  pop:
-    - ethnicity: acehnese_culture
-      religion: bimoism
+  pops:
+    - religion: bimoism
       estate: peasant
       size: 1000
 550.1.1:
-  pop:
-    - religion: hindu
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 600.1.1:
   owner: LAMU
@@ -33,9 +31,8 @@
   cores:
     LAMU: no
     PSA: yes
-  pop:
-    - religion: sunni
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1471.1.1:
   cores:

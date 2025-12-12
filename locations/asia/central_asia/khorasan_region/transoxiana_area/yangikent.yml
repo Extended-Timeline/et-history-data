@@ -5,9 +5,8 @@
   cores:
     KAGJ: yes
   resource: livestock
-  pop:
-    - ethnicity: turkmen_culture
-      religion: 
+  pops:
+    - religion: 
       estate: peasant
       size: 1000
 470.1.1:
@@ -41,9 +40,8 @@
     KANG: no
     OGHU: yes
 900.1.1:
-  pop:
-    - religion: sunni
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1043.1.1:
   owner: KIME
@@ -58,9 +56,8 @@
     OGHU: no
     KIPC: yes
 1060.1.1:
-  pop:
-    - ethnicity: khazak
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1100.1.1:
   owner: CUMA

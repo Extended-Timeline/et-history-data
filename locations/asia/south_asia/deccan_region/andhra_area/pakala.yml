@@ -5,9 +5,8 @@
   cores:
     CHOL: yes
   resource: cotton
-  pop:
-    - ethnicity: telugu
-      religion: hindu
+  pops:
+    - religion: hindu
       estate: peasant
       size: 1000
 275.1.1:
@@ -16,14 +15,12 @@
   cores:
     PALL: yes
 590.1.1:
-  pop:
-    - religion: jain
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 620.1.1:
-  pop:
-    - religion: hindu
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 897.1.1:
   owner: CHOL

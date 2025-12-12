@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/489 - Tortuga.txt
 2.1.1:
-  pop:
-    - ethnicity: arawak_culture
-      religion: muisca_religion
+  pops:
+    - religion: muisca_religion
       estate: peasant
       size: 1000
 1504.1.1:
@@ -10,9 +9,8 @@
   controller: CAS
   cores:
     CAS: yes
-  pop:
-    - ethnicity: castilian
-      religion: catholic
+  pops:
+    - religion: catholic
       estate: peasant
       size: 1000
 1510.1.1:
@@ -29,17 +27,15 @@
   cores:
     SPA: no
     FRA: yes
-  pop:
-    - ethnicity: french
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1722.1.1:
   cores:
     FRA: yes
 1780.1.1:
-  pop:
-    - ethnicity: french_caribbean
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1804.1.1:
   owner: HAIT

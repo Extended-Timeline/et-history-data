@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/2240 - Galam.txt
 2.1.1:
-  pop:
-    - ethnicity: fulbe
-      religion: bantu_religion
+  pops:
+    - religion: bantu_religion
       estate: peasant
       size: 1000
 800.1.1:
@@ -24,9 +23,8 @@
     MAL: no
     FUL: yes
 1780.1.1:
-  pop:
-    - religion: sunni
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1861.1.1:
   owner: SEGU

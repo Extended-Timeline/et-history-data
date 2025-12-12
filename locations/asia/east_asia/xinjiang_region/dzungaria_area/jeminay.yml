@@ -5,9 +5,8 @@
   cores:
     XION: yes
   resource: livestock
-  pop:
-    - ethnicity: oirat_culture
-      religion: 
+  pops:
+    - religion: 
       estate: peasant
       size: 1000
 91.2.1:
@@ -46,14 +45,12 @@
     GOKT: no
     UYGH: yes
 765.1.1:
-  pop:
-    - religion: manichaeism
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 840.1.1:
-  pop:
-    - religion: 
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 848.1.1:
   owner: NAIM
@@ -92,9 +89,8 @@
     MGE: no
     OIR: yes
 1623.1.1:
-  pop:
-    - religion: tibetan_buddhism
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1635.1.1:
   owner: ZUNG
@@ -102,9 +98,8 @@
   cores:
     ZUNG: yes
 1750.1.1:
-  pop:
-    - religion: sunni
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1754.1.1:
   owner: QNG
@@ -112,9 +107,8 @@
   cores:
     QNG: yes
 1755.1.1:
-  pop:
-    - ethnicity: khazak
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1850.1.1:
   cores:

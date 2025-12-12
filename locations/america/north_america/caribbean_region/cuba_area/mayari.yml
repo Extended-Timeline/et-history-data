@@ -1,17 +1,15 @@
 #imported from EU4 file: history/provinces/486 - Guantanamo.txt
 2.1.1:
-  pop:
-    - ethnicity: arawak_culture
-      religion: muisca_religion
+  pops:
+    - religion: muisca_religion
       estate: peasant
       size: 1000
 1514.6.28:
   owner: CAS
   controller: CAS
   resource: sugar
-  pop:
-    - ethnicity: castilian
-      religion: catholic
+  pops:
+    - religion: catholic
       estate: peasant
       size: 1000
 1516.1.23:
@@ -21,9 +19,8 @@
   cores:
     SPA: yes
 1780.1.1:
-  pop:
-    - ethnicity: iberian_caribbean
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1868.10.10:
   cores:

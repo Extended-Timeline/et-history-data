@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/2257 - Denkyira.txt
 2.1.1:
-  pop:
-    - ethnicity: akan
-      religion: bantu_religion
+  pops:
+    - religion: bantu_religion
       estate: peasant
       size: 1000
 1400.1.1:
@@ -22,9 +21,8 @@
   cores:
     GBR: yes
 1920.1.1:
-  pop:
-    - religion: lutheran
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1957.3.6:
   owner: GHAN

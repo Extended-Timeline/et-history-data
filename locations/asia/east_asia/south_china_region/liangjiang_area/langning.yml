@@ -6,9 +6,8 @@
     HAN0: yes
     WUU: yes
   resource: grain
-  pop:
-    - ethnicity: zhuang_culture
-      religion: bimoism
+  pops:
+    - religion: bimoism
       estate: peasant
       size: 1000
 9.1.10:
@@ -39,14 +38,12 @@
     WUU: no
     JIN1: yes
 300.1.1:
-  pop:
-    - ethnicity: cantonese
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 400.1.1:
-  pop:
-    - religion: sanjiao
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 420.1.1:
   owner: LSON

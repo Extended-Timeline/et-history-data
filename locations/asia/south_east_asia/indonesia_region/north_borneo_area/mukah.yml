@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/2704 - Sibu.txt
 2.1.1:
-  pop:
-    - ethnicity: bidayuh_culture
-      religion: hindu
+  pops:
+    - religion: hindu
       estate: peasant
       size: 1000
 620.1.1:
@@ -12,9 +11,8 @@
     BEI: yes
   resource: spices
 1330.1.1:
-  pop:
-    - religion: sunni
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1580.1.1:
   owner: SPA
@@ -36,9 +34,8 @@
   cores:
     GBR: yes
 1930.1.1:
-  pop:
-    - religion: lutheran
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1941.12.24:
   controller: JAP

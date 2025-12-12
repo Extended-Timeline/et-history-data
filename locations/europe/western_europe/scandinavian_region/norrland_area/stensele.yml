@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/18 - Lappland.txt
 2.1.1:
-  pop:
-    - ethnicity: sapmi
-      religion: muinaisusko
+  pops:
+    - religion: muinaisusko
       estate: peasant
       size: 1000
 750.1.1:
@@ -16,14 +15,12 @@
   controller: SWE
   cores:
     SWE: yes
-  pop:
-    - religion: catholic
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1640.1.2:
-  pop:
-    - ethnicity: swedish
-      religion: lutheran
+  pops:
+    - religion: lutheran
       estate: peasant
       size: 1000
 1920.1.1:

@@ -5,9 +5,8 @@
   cores:
     HUYN: yes
   resource: incense
-  pop:
-    - ethnicity: cham_culture
-      religion: hindu
+  pops:
+    - religion: hindu
       estate: peasant
       size: 1000
 192.1.1:
@@ -32,9 +31,8 @@
   cores:
     TONK: no
 1600.1.1:
-  pop:
-    - ethnicity: vietnamese_culture
-      religion: theravada
+  pops:
+    - religion: theravada
       estate: peasant
       size: 1000
 1776.1.1:

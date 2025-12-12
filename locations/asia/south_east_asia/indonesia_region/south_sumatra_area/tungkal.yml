@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/2677 - Jambi.txt
 2.1.1:
-  pop:
-    - ethnicity: malay_culture
-      religion: mahayana
+  pops:
+    - religion: mahayana
       estate: peasant
       size: 1000
 200.1.1:
@@ -35,9 +34,8 @@
     DHAR: no
     JMB: yes
 1360.1.1:
-  pop:
-    - religion: sunni
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1528.1.1:
   owner: JOHO

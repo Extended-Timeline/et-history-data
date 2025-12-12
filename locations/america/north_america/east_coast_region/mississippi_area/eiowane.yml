@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/920 - Choctaw.txt
 2.1.1:
-  pop:
-    - ethnicity: choctaw_culture
-      religion: iroquoian_totemism
+  pops:
+    - religion: iroquoian_totemism
       estate: peasant
       size: 1000
 1320.1.1:
@@ -16,9 +15,8 @@
   controller: USA
   cores:
     USA: yes
-  pop:
-    - ethnicity: british_louisianan
-      religion: lutheran
+  pops:
+    - religion: lutheran
       estate: peasant
       size: 1000
 1861.1.9:

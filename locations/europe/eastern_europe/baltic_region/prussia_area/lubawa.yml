@@ -5,9 +5,8 @@
   cores:
     SCIR: yes
   resource: grain
-  pop:
-    - ethnicity: scirian
-      religion: germanic
+  pops:
+    - religion: germanic
       estate: peasant
       size: 1000
 150.1.1:
@@ -16,9 +15,8 @@
   cores:
     SCIR: no
     PRUS: yes
-  pop:
-    - ethnicity: pruthenian
-      religion: romuva
+  pops:
+    - religion: romuva
       estate: peasant
       size: 1000
 500.1.1:
@@ -27,9 +25,8 @@
   cores:
     LEMO: no
     POME: yes
-  pop:
-    - ethnicity: kashubian
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 650.1.1:
   owner: POL
@@ -37,9 +34,8 @@
   cores:
     PRUS: no
     POL: yes
-  pop:
-    - ethnicity: lesser_polish
-      religion: slavic
+  pops:
+    - religion: slavic
       estate: peasant
       size: 1000
 1034.5.11:
@@ -53,9 +49,8 @@
   cores:
     MAZ: no
 1100.1.1:
-  pop:
-    - religion: catholic
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1138.10.28:
   owner: MAZ

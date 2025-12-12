@@ -5,15 +5,13 @@
   cores:
     ADIA: yes
   resource: cloth
-  pop:
-    - ethnicity: assyrian
-      religion: ashurism
+  pops:
+    - religion: ashurism
       estate: peasant
       size: 1000
 30.1.1:
-  pop:
-    - religion: judaism
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 116.1.1:
   owner: ROM
@@ -28,9 +26,8 @@
     ADIA: no
     PART: yes
 150.1.1:
-  pop:
-    - religion: chalcedonism
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 224.4.24:
   owner: ERA
@@ -39,9 +36,8 @@
     PART: no
     ERA: yes
 431.7.1:
-  pop:
-    - religion: nestorianism
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 637.1.1:
   owner: RASH
@@ -62,15 +58,13 @@
     UMAY: no
     ABBA: yes
 850.1.1:
-  pop:
-    - religion: ibadi
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 869.1.1:
   controller: ABBA
-  pop:
-    - religion: sunni
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 911.1.1:
   owner: MOSU
@@ -101,9 +95,8 @@
     SELJ: no
     MOSU: yes
 1200.1.1:
-  pop:
-    - ethnicity: kurdish_culture
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1250.1.1:
   owner: MGE

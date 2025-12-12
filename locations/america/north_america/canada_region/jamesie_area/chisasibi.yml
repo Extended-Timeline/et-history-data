@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/999 - Cisapipi.txt
 2.1.1:
-  pop:
-    - ethnicity: ilili_culture
-      religion: iroquoian_totemism
+  pops:
+    - religion: iroquoian_totemism
       estate: peasant
       size: 1000
 1736.1.1:
@@ -11,9 +10,8 @@
   cores:
     GBR: yes
   resource: fur
-  pop:
-    - religion: catholic
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1870.7.15:
   owner: CAN

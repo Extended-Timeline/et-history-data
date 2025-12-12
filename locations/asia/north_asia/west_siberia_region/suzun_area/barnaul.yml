@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/2434 - Barnaul.txt
 2.1.1:
-  pop:
-    - ethnicity: kyrgyz_culture
-      religion: 
+  pops:
+    - religion: 
       estate: peasant
       size: 1000
 1245.1.1:
@@ -32,9 +31,8 @@
 1618.1.1:
   owner: RUS
   controller: RUS
-  pop:
-    - ethnicity: muscovite
-      religion: orthodox
+  pops:
+    - religion: orthodox
       estate: peasant
       size: 1000
 1623.1.1:

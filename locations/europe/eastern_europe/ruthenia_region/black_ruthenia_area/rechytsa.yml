@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/4115 - Mazyr.txt
 2.1.1:
-  pop:
-    - ethnicity: polatskian_culture
-      religion: slavic
+  pops:
+    - religion: slavic
       estate: peasant
       size: 1000
 550.1.1:
@@ -19,9 +18,8 @@
     KIEV: yes
     UKR: yes
 1000.1.1:
-  pop:
-    - religion: orthodox
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1054.2.20:
   owner: KIE
@@ -40,9 +38,8 @@
   cores:
     LIT: yes
 1350.1.1:
-  pop:
-    - religion: orthodox
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1569.7.1:
   owner: PLC

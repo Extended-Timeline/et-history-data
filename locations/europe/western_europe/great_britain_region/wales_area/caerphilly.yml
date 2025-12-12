@@ -5,9 +5,8 @@
   cores:
     SILU: yes
   resource: iron
-  pop:
-    - ethnicity: briton
-      religion: druidism
+  pops:
+    - religion: druidism
       estate: peasant
       size: 1000
 78.1.1:
@@ -16,9 +15,8 @@
   cores:
     ROM: yes
 200.1.1:
-  pop:
-    - ethnicity: welsh
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 383.1.1:
   owner: GWEN
@@ -28,14 +26,12 @@
     ROM: no
     GWEN: yes
 660.1.1:
-  pop:
-    - religion: chalcedonism
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 867.1.1:
-  pop:
-    - religion: catholic
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1063.1.1:
   owner: ENG
@@ -61,7 +57,6 @@
     ENG: no
     GBR: yes
 1750.1.1:
-  pop:
-    - religion: calvinist
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000

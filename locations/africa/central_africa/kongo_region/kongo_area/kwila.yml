@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/4087 - Kambuna.txt
 2.1.1:
-  pop:
-    - ethnicity: yaka
-      religion: bantu_religion
+  pops:
+    - religion: bantu_religion
       estate: peasant
       size: 1000
 1350.1.1:
@@ -21,9 +20,8 @@
   controller: BEL
   cores:
     BEL: yes
-  pop:
-    - religion: catholic
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1890.1.1:
   resource: tropical_wood

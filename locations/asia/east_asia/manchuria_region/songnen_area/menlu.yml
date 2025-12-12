@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/2185 - Mergen.txt
 2.1.1:
-  pop:
-    - ethnicity: jurchen_culture
-      religion: 
+  pops:
+    - religion: 
       estate: peasant
       size: 1000
 450.1.1:
@@ -39,9 +38,8 @@
   cores:
     JIAZ: no
     MCH: yes
-  pop:
-    - ethnicity: manchu_new
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1636.5.15:
   owner: QNG
@@ -50,9 +48,8 @@
     MCH: no
     QNG: yes
 1900.1.1:
-  pop:
-    - religion: sanjiao
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1912.2.12:
   owner: CHI

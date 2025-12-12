@@ -5,9 +5,8 @@
   cores:
     NSAT: yes
   resource: silk
-  pop:
-    - ethnicity: kannauji
-      religion: jain
+  pops:
+    - religion: jain
       estate: peasant
       size: 1000
 120.1.1:
@@ -23,9 +22,8 @@
     KUSH: no
     GUPT: yes
 420.1.1:
-  pop:
-    - religion: hindu
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 540.1.1:
   owner: KANN

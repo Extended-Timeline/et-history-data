@@ -5,9 +5,8 @@
   cores:
     QATB: yes
   resource: livestock
-  pop:
-    - ethnicity: yemeni_culture
-      religion: south_arabian
+  pops:
+    - religion: south_arabian
       estate: peasant
       size: 1000
 180.1.1:
@@ -41,9 +40,8 @@
   controller: RASH
   cores:
     RASH: yes
-  pop:
-    - religion: islam
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 661.7.28:
   owner: UMAY
@@ -51,9 +49,8 @@
   cores:
     RASH: no
     UMAY: yes
-  pop:
-    - religion: sunni
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 750.8.6:
   owner: ABBA
@@ -62,9 +59,8 @@
     UMAY: no
     ABBA: yes
 800.1.1:
-  pop:
-    - religion: shia
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 847.1.1:
   owner: SANA

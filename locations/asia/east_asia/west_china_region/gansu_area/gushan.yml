@@ -5,9 +5,8 @@
   cores:
     QIAN: yes
   resource: salt
-  pop:
-    - ethnicity: amdowa_culture
-      religion: bon
+  pops:
+    - religion: bon
       estate: peasant
       size: 1000
 284.1.1:
@@ -22,9 +21,8 @@
   cores:
     TIB: yes
 800.1.1:
-  pop:
-    - religion: tibetan_buddhism
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 842.1.1:
   owner: PHAG
@@ -86,9 +84,8 @@
     MGE: no
     MNG: yes
 1390.1.1:
-  pop:
-    - ethnicity: xibei
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1644.1.1:
   owner: CSH

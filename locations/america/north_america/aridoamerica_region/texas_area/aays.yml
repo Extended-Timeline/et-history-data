@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/4911 - Nabaydacu.txt
 2.1.1:
-  pop:
-    - ethnicity: caddo_culture
-      religion: iroquoian_totemism
+  pops:
+    - religion: iroquoian_totemism
       estate: peasant
       size: 1000
 1819.1.1:
@@ -16,9 +15,8 @@
   controller: MEX
   cores:
     MEX: yes
-  pop:
-    - ethnicity: british_louisianan
-      religion: lutheran
+  pops:
+    - religion: lutheran
       estate: peasant
       size: 1000
 1836.3.2:

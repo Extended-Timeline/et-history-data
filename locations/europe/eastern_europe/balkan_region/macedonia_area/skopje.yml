@@ -5,15 +5,13 @@
   cores:
     ROM: yes
   resource: copper
-  pop:
-    - ethnicity: greek_culture
-      religion: hellenism_religion
+  pops:
+    - religion: hellenism_religion
       estate: peasant
       size: 1000
 220.1.1:
-  pop:
-    - religion: chalcedonism
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 395.1.17:
   owner: BYZ
@@ -27,20 +25,17 @@
   cores:
     BUL: yes
 867.1.1:
-  pop:
-    - religion: orthodox
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 940.1.1:
-  pop:
-    - ethnicity: bulgarian
-      religion: bogomilism
+  pops:
+    - religion: bogomilism
       estate: peasant
       size: 1000
 972.1.1:
-  pop:
-    - religion: orthodox
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1014.1.1:
   owner: BYZ
@@ -70,9 +65,8 @@
   cores:
     SER: yes
 1334.1.1:
-  pop:
-    - ethnicity: serbian
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1371.9.26:
   owner: TUR
@@ -83,14 +77,12 @@
   cores:
     BYZ: no
 1700.1.1:
-  pop:
-    - ethnicity: bulgarian
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1878.1.1:
-  pop:
-    - ethnicity: macedonian
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1903.8.4:
   cores:

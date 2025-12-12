@@ -5,15 +5,13 @@
   cores:
     ROM: yes
   resource: grain
-  pop:
-    - ethnicity: zenati
-      religion: bantu_religion
+  pops:
+    - religion: bantu_religion
       estate: peasant
       size: 1000
 360.1.1:
-  pop:
-    - religion: chalcedonism
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 395.1.17:
   owner: ROMW
@@ -27,9 +25,8 @@
   cores:
     ROMW: no
     VAND: yes
-  pop:
-    - religion: arianism
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 534.3.1:
   owner: BYZ
@@ -38,9 +35,8 @@
     VAND: no
     BYZ: yes
 560.1.1:
-  pop:
-    - religion: chalcedonism
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 708.1.1:
   owner: UMAY
@@ -49,9 +45,8 @@
     BYZ: no
     UMAY: yes
 740.1.1:
-  pop:
-    - religion: ibadi
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 743.1.1:
   owner: TLE
@@ -72,9 +67,8 @@
     MZB: no
     FATI: yes
 940.1.1:
-  pop:
-    - ethnicity: algerian
-      religion: shia
+  pops:
+    - religion: shia
       estate: peasant
       size: 1000
 973.1.1:
@@ -90,9 +84,8 @@
     TUN: no
     KABY: yes
 1050.1.1:
-  pop:
-    - religion: sunni
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1152.1.1:
   owner: MOR

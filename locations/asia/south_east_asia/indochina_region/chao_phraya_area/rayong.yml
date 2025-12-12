@@ -5,9 +5,8 @@
   cores:
     MON0: yes
   resource: grain
-  pop:
-    - ethnicity: mon_culture
-      religion: bimoism
+  pops:
+    - religion: bimoism
       estate: peasant
       size: 1000
 150.1.1:
@@ -17,9 +16,8 @@
     MON0: no
     FUNA: yes
 200.1.1:
-  pop:
-    - religion: hindu
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 450.1.1:
   owner: DVAR
@@ -28,9 +26,8 @@
     FUNA: no
     DVAR: yes
 500.1.1:
-  pop:
-    - religion: theravada
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 661.1.1:
   owner: LAV
@@ -44,9 +41,8 @@
   cores:
     CAMB: yes
 1050.1.1:
-  pop:
-    - ethnicity: thai_culture
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1060.1.1:
   owner: LAV

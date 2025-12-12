@@ -5,9 +5,8 @@
   cores:
     BRIG: yes
   resource: wool
-  pop:
-    - ethnicity: briton
-      religion: druidism
+  pops:
+    - religion: druidism
       estate: peasant
       size: 1000
 78.1.1:
@@ -32,20 +31,17 @@
     ROMW: no
     BRIG: no
     BERN: yes
-  pop:
-    - ethnicity: welsh
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 547.1.1:
-  pop:
-    - ethnicity: anglo_saxon
-      religion: germanic
+  pops:
+    - religion: germanic
       estate: peasant
       size: 1000
 630.1.1:
-  pop:
-    - religion: chalcedonism
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 634.1.1:
   owner: NOL
@@ -54,9 +50,8 @@
     BERN: no
     NOL: yes
 867.1.1:
-  pop:
-    - religion: catholic
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 875.1.1:
   owner: BERN
@@ -93,9 +88,8 @@
   owner: ENG
   controller: ENG
 1066.12.25:
-  pop:
-    - ethnicity: english
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1101.1.1: # Hexham becomes royal liberty
   controller: HEXH
@@ -108,9 +102,8 @@
 1464.6.1:
   controller: ENG
 1585.1.1:
-  pop:
-    - religion: lutheran
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1640.10.1:
   controller: SCO

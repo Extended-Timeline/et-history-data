@@ -5,9 +5,8 @@
   cores:
     IZAP: yes
   resource: cocoa
-  pop:
-    - ethnicity: kiche_culture
-      religion: mayan
+  pops:
+    - religion: mayan
       estate: peasant
       size: 1000
 1200.1.1:
@@ -27,18 +26,16 @@
   owner: SPA
   controller: SPA
 1529.1.1:
-  pop:
-    - ethnicity: castilian
-      religion: catholic
+  pops:
+    - religion: catholic
       estate: peasant
       size: 1000
 1549.1.1:
   cores:
     SPA: yes
 1770.1.1:
-  pop:
-    - ethnicity: mexican
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1810.9.16:
   owner: MEX

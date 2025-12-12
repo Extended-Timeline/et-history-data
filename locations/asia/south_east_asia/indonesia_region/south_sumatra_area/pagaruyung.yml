@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/2681 - Minangkabau.txt
 2.1.1:
-  pop:
-    - ethnicity: minangkabau_culture
-      religion: bimoism
+  pops:
+    - religion: bimoism
       estate: peasant
       size: 1000
 200.1.1:
@@ -18,9 +17,8 @@
     MINK: no
     SRIV: yes
 800.1.1:
-  pop:
-    - religion: mahayana
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1025.1.1:
   owner: DHAR
@@ -28,9 +26,8 @@
   cores:
     SRIV: no
     DHAR: yes
-  pop:
-    - religion: theravada
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1347.1.1:
   owner: PAGR
@@ -44,9 +41,8 @@
   cores:
     NED: yes
 1880.1.1:
-  pop:
-    - religion: sunni
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1912.9.10:
   cores:

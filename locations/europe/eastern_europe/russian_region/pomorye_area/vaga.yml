@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/4122 - Shenkursk.txt
 2.1.1:
-  pop:
-    - ethnicity: nenets_culture
-      religion: muinaisusko
+  pops:
+    - religion: muinaisusko
       estate: peasant
       size: 1000
 750.1.1:
@@ -17,14 +16,12 @@
   cores:
     NOV: yes
 1200.1.1:
-  pop:
-    - ethnicity: novgorodian
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1230.1.1:
-  pop:
-    - religion: orthodox
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1478.1.15:
   owner: MOS

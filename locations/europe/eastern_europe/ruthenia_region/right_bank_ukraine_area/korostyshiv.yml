@@ -5,9 +5,8 @@
   cores:
     ANTE: yes
   resource: grain
-  pop:
-    - ethnicity: ruthenian
-      religion: slavic
+  pops:
+    - religion: slavic
       estate: peasant
       size: 1000
 380.1.1:
@@ -35,9 +34,8 @@
     KIEV: yes
     UKR: yes
 960.1.1:
-  pop:
-    - religion: orthodox
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1054.2.20:
   owner: KIE

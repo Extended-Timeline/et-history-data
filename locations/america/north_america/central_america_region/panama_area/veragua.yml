@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/4595 - Guaymi.txt
 2.1.1:
-  pop:
-    - ethnicity: muisca_culture
-      religion: muisca_religion
+  pops:
+    - religion: muisca_religion
       estate: peasant
       size: 1000
 1569.11.1:
@@ -11,15 +10,13 @@
   cores:
     SPA: yes
   resource: naval_supplies
-  pop:
-    - ethnicity: castilian
-      religion: catholic
+  pops:
+    - religion: catholic
       estate: peasant
       size: 1000
 1770.1.1:
-  pop:
-    - ethnicity: iberian_colombian
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1810.7.20:
   owner: COLO

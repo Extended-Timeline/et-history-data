@@ -5,9 +5,8 @@
   cores:
     ARJU: yes
   resource: cotton
-  pop:
-    - ethnicity: kannauji
-      religion: mahayana
+  pops:
+    - religion: mahayana
       estate: peasant
       size: 1000
 120.1.1:
@@ -22,9 +21,8 @@
     KUSH: no
     ARJU: yes
 360.1.1:
-  pop:
-    - religion: hindu
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 375.1.1:
   owner: GUPT

@@ -5,9 +5,8 @@
   cores:
     ZHAN: yes
   resource: livestock
-  pop:
-    - ethnicity: zhangzhung
-      religion: bon
+  pops:
+    - religion: bon
       estate: peasant
       size: 1000
 625.1.1:
@@ -18,9 +17,8 @@
 630.1.1:
   cores:
     ZHAN: no
-  pop:
-    - ethnicity: utsang_culture
-      religion: tibetan_buddhism
+  pops:
+    - religion: tibetan_buddhism
       estate: peasant
       size: 1000
 842.1.1:

@@ -5,9 +5,8 @@
   cores:
     KUSH: yes
   resource: wool
-  pop:
-    - ethnicity: sogdian
-      religion: mahayana
+  pops:
+    - religion: mahayana
       estate: peasant
       size: 1000
 230.1.1:
@@ -35,9 +34,8 @@
     HEPH: no
     CHAG: yes
 620.1.1:
-  pop:
-    - religion: zoroastrian
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 642.1.1:
   owner: SAMA
@@ -72,9 +70,8 @@
   cores:
     KOKA: yes
 850.1.1:
-  pop:
-    - ethnicity: tajik_culture
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 870.1.1:
   owner: CHAG
@@ -83,9 +80,8 @@
     KOKA: no
     CHAG: yes
 880.1.1:
-  pop:
-    - religion: sunni
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1040.5.23:
   owner: SELJ
@@ -139,9 +135,8 @@
   cores:
     TIM: yes
 1380.1.1:
-  pop:
-    - ethnicity: uzbek_culture
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1409.5.13:
   owner: TRAN

@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/951 - Kanawha.txt
 2.1.1:
-  pop:
-    - ethnicity: chalahgawtha_culture
-      religion: iroquoian_totemism
+  pops:
+    - religion: iroquoian_totemism
       estate: peasant
       size: 1000
 1768.11.5:
@@ -11,9 +10,8 @@
   cores:
     GBR: yes
   resource: iron
-  pop:
-    - ethnicity: american
-      religion: lutheran
+  pops:
+    - religion: lutheran
       estate: peasant
       size: 1000
 1776.7.4:

@@ -5,15 +5,13 @@
   cores:
     ROM: yes
   resource: wool
-  pop:
-    - ethnicity: ligurian
-      religion: druidism
+  pops:
+    - religion: druidism
       estate: peasant
       size: 1000
 340.1.1:
-  pop:
-    - religion: chalcedonism
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 395.1.17:
   owner: ROMW
@@ -28,9 +26,8 @@
     ROMW: no
     VISG: yes
 500.1.1:
-  pop:
-    - ethnicity: gothic
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 508.1.1:
   owner: OSTR
@@ -72,9 +69,8 @@
   cores:
     ASTS: no
 600.1.1:
-  pop:
-    - ethnicity: languedocien
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 612.1.1:
   owner: ASTS
@@ -120,9 +116,8 @@
   cores:
     ITA: yes
 867.1.1:
-  pop:
-    - religion: catholic
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 879.1.1:
   owner: PRO
@@ -175,9 +170,8 @@
   cores:
     FRA: yes
 1900.1.1:
-  pop:
-    - ethnicity: french
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1940.6.14:
   owner: VFRA

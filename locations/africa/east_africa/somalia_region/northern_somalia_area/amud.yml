@@ -5,9 +5,8 @@
   cores:
     AVAL: yes
   resource: incense
-  pop:
-    - ethnicity: somali_culture
-      religion: bantu_religion
+  pops:
+    - religion: bantu_religion
       estate: peasant
       size: 1000
 550.1.1:
@@ -23,9 +22,8 @@
     PIPA: no
     ADA: yes
 670.1.1:
-  pop:
-    - religion: sunni
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1185.1.1:
   owner: IFA

@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/1935 - Semigallia.txt
 2.1.1:
-  pop:
-    - ethnicity: latvian
-      religion: romuva
+  pops:
+    - religion: romuva
       estate: peasant
       size: 1000
 550.1.1:
@@ -17,9 +16,8 @@
   cores:
     LIV: yes
 1292.1.1:
-  pop:
-    - religion: catholic
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1561.1.1:
   owner: KUR
@@ -27,9 +25,8 @@
   cores:
     LIV: no
     KUR: yes
-  pop:
-    - religion: lutheran
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1621.10.3:
   controller: SWE

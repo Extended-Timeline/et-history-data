@@ -5,15 +5,13 @@
   cores:
     KHWA: yes
   resource: wool
-  pop:
-    - ethnicity: khwarezmian
-      religion: zoroastrian
+  pops:
+    - religion: zoroastrian
       estate: peasant
       size: 1000
 800.1.1:
-  pop:
-    - religion: sunni
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1041.1.1:
   owner: OGHU
@@ -40,9 +38,8 @@
   cores:
     KHWA: no
     MGE: yes
-  pop:
-    - ethnicity: uzbek_culture
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1260.1.1:
   owner: CHG
@@ -97,9 +94,8 @@
   cores:
     BUKH: no
 1520.1.1:
-  pop:
-    - ethnicity: khazak
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1920.2.2:
   owner: RUS

@@ -5,9 +5,8 @@
   cores:
     VARI: yes
   resource: wine
-  pop:
-    - ethnicity: swabian
-      religion: germanic
+  pops:
+    - religion: germanic
       estate: peasant
       size: 1000
 120.1.1:
@@ -16,9 +15,8 @@
   cores:
     VARI: no
     ALEM: yes
-  pop:
-    - ethnicity: high_alemannic
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 260.1.1:
   owner: HERM
@@ -26,9 +24,8 @@
   cores:
     ALEM: no
     HERM: yes
-  pop:
-    - ethnicity: east_franconian
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 395.1.1:
   owner: BUR
@@ -36,9 +33,8 @@
   cores:
     HERM: no
     BUR: yes
-  pop:
-    - ethnicity: burgundione
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 443.1.1:
   owner: THU
@@ -46,9 +42,8 @@
   cores:
     BUR: no
     THU: yes
-  pop:
-    - ethnicity: east_franconian
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 531.1.1:
   owner: ASTS
@@ -86,9 +81,8 @@
   cores:
     THU: yes
 686.1.1:
-  pop:
-    - religion: chalcedonism
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 719.1.1:
   owner: FRAN
@@ -107,9 +101,8 @@
   cores:
     THU: yes
 867.1.1:
-  pop:
-    - religion: catholic
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 908.8.3:
   owner: EFRA

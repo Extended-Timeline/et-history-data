@@ -5,9 +5,8 @@
   cores:
     COO: yes
   resource: fur
-  pop:
-    - ethnicity: muscogee_culture
-      religion: iroquoian_totemism
+  pops:
+    - religion: iroquoian_totemism
       estate: peasant
       size: 1000
 1610.1.1:
@@ -15,18 +14,16 @@
   controller: CHRK
   cores:
     CHRK: yes
-  pop:
-    - ethnicity: cherokee_culture
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1785.11.2:
   owner: USA
   controller: USA
   cores:
     USA: yes
-  pop:
-    - ethnicity: british_louisianan
-      religion: lutheran
+  pops:
+    - religion: lutheran
       estate: peasant
       size: 1000
 1861.1.19:

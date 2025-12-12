@@ -5,9 +5,8 @@
   cores:
     FRI: yes
   resource: salt
-  pop:
-    - ethnicity: frisian
-      religion: germanic
+  pops:
+    - religion: germanic
       estate: peasant
       size: 1000
 58.1.1:
@@ -16,9 +15,8 @@
   cores:
     FRI: no
     CHCI: yes
-  pop:
-    - ethnicity: eastphalian
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 500.1.1:
   owner: FRI
@@ -26,9 +24,8 @@
   cores:
     CHCI: no
     FRI: yes
-  pop:
-    - ethnicity: frisian
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 734.1.1:
   owner: FRAN
@@ -36,9 +33,8 @@
   cores:
     FRAN: yes
 800.1.1:
-  pop:
-    - religion: chalcedonism
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 839.1.1:
   owner: FRI
@@ -47,9 +43,8 @@
     FRAN: no
     FRI: yes
 867.1.1:
-  pop:
-    - religion: catholic
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 896.1.1:
   owner: EFRI
@@ -60,14 +55,12 @@
 1427.10.28:
   controller: EFRI
 1519.1.1:
-  pop:
-    - religion: lutheran
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1537.1.1:
-  pop:
-    - religion: calvinist
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1744.5.26:
   owner: PRU

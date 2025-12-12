@@ -5,9 +5,8 @@
   cores:
     THAT: yes
   resource: spices
-  pop:
-    - ethnicity: mon_culture
-      religion: theravada
+  pops:
+    - religion: theravada
       estate: peasant
       size: 1000
 1057.5.17:
@@ -46,9 +45,8 @@
   owner: BURM
   controller: BURM
 1814.1.1:
-  pop:
-    - ethnicity: burmese_culture
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1852.12.20:
   owner: GBR

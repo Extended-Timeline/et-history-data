@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/2756 - Welayta.txt
 2.1.1:
-  pop:
-    - ethnicity: sidama_culture
-      religion: bantu_religion
+  pops:
+    - religion: bantu_religion
       estate: peasant
       size: 1000
 1180.1.1:
@@ -17,9 +16,8 @@
   cores:
     ETH: yes
 1920.1.1:
-  pop:
-    - religion: miaphysite
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1936.5.9:
   owner: ITA

@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/1962 - Kudymkar.txt
 2.1.1:
-  pop:
-    - ethnicity: udmurt
-      religion: muinaisusko
+  pops:
+    - religion: muinaisusko
       estate: peasant
       size: 1000
 750.1.1:
@@ -18,9 +17,8 @@
     UDMU: no
     PRM: yes
 1455.1.1:
-  pop:
-    - religion: orthodox
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1505.4.1:
   owner: RUS

@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/308 - Yaroslavl.txt
 2.1.1:
-  pop:
-    - ethnicity: merya_culture
-      religion: muinaisusko
+  pops:
+    - religion: muinaisusko
       estate: peasant
       size: 1000
 600.1.1:
@@ -18,14 +17,12 @@
     MERY: no
     KIEV: yes
 1000.1.1:
-  pop:
-    - religion: orthodox
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1050.1.1:
-  pop:
-    - ethnicity: muscovite
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1054.2.20:
   owner: VLR

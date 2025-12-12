@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/1754 - Orel.txt
 2.1.1:
-  pop:
-    - ethnicity: muromian
-      religion: muinaisusko
+  pops:
+    - religion: muinaisusko
       estate: peasant
       size: 1000
 600.1.1:
@@ -12,9 +11,8 @@
     MRM: yes
   resource: grain
 1010.1.1:
-  pop:
-    - ethnicity: muscovite
-      religion: orthodox
+  pops:
+    - religion: orthodox
       estate: peasant
       size: 1000
 1239.1.1:

@@ -5,9 +5,8 @@
   cores:
     PART: yes
   resource: fish
-  pop:
-    - ethnicity: baloch_culture
-      religion: zoroastrian
+  pops:
+    - religion: zoroastrian
       estate: peasant
       size: 1000
 224.4.24:
@@ -29,9 +28,8 @@
     RASH: no
     UMAY: yes
 680.1.1:
-  pop:
-    - religion: sunni
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 750.8.6:
   owner: ABBA
@@ -54,9 +52,8 @@
     KHOR: no
     SIST: yes
 880.1.1:
-  pop:
-    - religion: shia
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 913.5.24:
   owner: BUKH
@@ -156,9 +153,8 @@
     KHOR: no
     IRA: yes
 1820.1.1:
-  pop:
-    - ethnicity: farsi_culture
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1935.1.1:
   owner: IRAN

@@ -5,9 +5,8 @@
   cores:
     ACO: yes
   resource: grain
-  pop:
-    - ethnicity: ancestral_pueblo_culture
-      religion: iroquoian_totemism
+  pops:
+    - religion: iroquoian_totemism
       estate: peasant
       size: 1000
 1598.1.1:
@@ -24,15 +23,13 @@
   controller: SPA
   cores:
     TST: no
-  pop:
-    - ethnicity: castilian
-      religion: catholic
+  pops:
+    - religion: catholic
       estate: peasant
       size: 1000
 1770.1.1:
-  pop:
-    - ethnicity: mexican
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1810.9.16:
   owner: MEX
@@ -55,7 +52,6 @@
 1862.4.8:
   controller: USA
 1900.1.1:
-  pop:
-    - ethnicity: british_californian
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000

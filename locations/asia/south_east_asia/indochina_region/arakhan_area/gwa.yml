@@ -5,20 +5,17 @@
   cores:
     ARK: yes
   resource: iron
-  pop:
-    - ethnicity: rakhine_culture
-      religion: bimoism
+  pops:
+    - religion: bimoism
       estate: peasant
       size: 1000
 950.1.1:
-  pop:
-    - religion: theravada
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1500.1.1:
-  pop:
-    - religion: sunni
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1785.1.2:
   owner: BURM
@@ -45,9 +42,8 @@
   cores:
     GBR: no
 1978.1.1:
-  pop:
-    - religion: theravada
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1989.1.1:
   owner: MYAN

@@ -5,9 +5,8 @@
   cores:
     ANU: yes
   resource: fish
-  pop:
-    - ethnicity: ainu_culture
-      religion: mari_paganism
+  pops:
+    - religion: mari_paganism
       estate: peasant
       size: 1000
 1400.1.1:
@@ -18,9 +17,8 @@
 1420.1.1:
   cores:
     ANU: no
-  pop:
-    - ethnicity: saigoku_culture
-      religion: shinto
+  pops:
+    - religion: shinto
       estate: peasant
       size: 1000
 1590.8.10:

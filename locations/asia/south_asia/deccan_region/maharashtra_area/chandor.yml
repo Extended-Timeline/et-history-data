@@ -5,9 +5,8 @@
   cores:
     SATA: yes
   resource: grain
-  pop:
-    - ethnicity: marathi_culture
-      religion: mahayana
+  pops:
+    - religion: mahayana
       estate: peasant
       size: 1000
 220.1.1:
@@ -16,9 +15,8 @@
   cores:
     SATA: no
     ABHI: yes
-  pop:
-    - religion: hindu
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 250.1.1:
   owner: VAKA
@@ -32,9 +30,8 @@
   cores:
     VAKA: no
     KALC: yes
-  pop:
-    - religion: jain
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 620.1.1:
   owner: CHAL
@@ -63,9 +60,8 @@
     CHAL: no
     YADA: yes
 1190.1.1:
-  pop:
-    - religion: hindu
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1317.1.1:
   owner: DLH

@@ -5,9 +5,8 @@
   cores:
     ROM: yes
   resource: grain
-  pop:
-    - ethnicity: venetian
-      religion: hellenism_religion
+  pops:
+    - religion: hellenism_religion
       estate: peasant
       size: 1000
 395.1.17:
@@ -17,9 +16,8 @@
     ROM: no
     ROMW: yes
 396.1.1:
-  pop:
-    - religion: chalcedonism
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 476.9.4:
   owner: ITA
@@ -66,9 +64,8 @@
     LOMB: no
     ITA: yes
 867.1.1:
-  pop:
-    - religion: catholic
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 952.1.1:
   owner: VER

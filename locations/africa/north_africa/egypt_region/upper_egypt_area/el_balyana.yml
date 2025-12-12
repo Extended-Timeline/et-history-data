@@ -5,15 +5,13 @@
   cores:
     ROM: yes
   resource: grain
-  pop:
-    - ethnicity: old_egyptian
-      religion: egyptian
+  pops:
+    - religion: egyptian
       estate: peasant
       size: 1000
 220.1.1:
-  pop:
-    - religion: hellenism_religion
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 395.1.17:
   owner: BYZ
@@ -22,14 +20,12 @@
     ROM: no
     BYZ: yes
 420.1.1:
-  pop:
-    - religion: chalcedonism
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 451.11.1:
-  pop:
-    - religion: miaphysite
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 618.1.1:
   controller: ERA
@@ -48,9 +44,8 @@
     RASH: no
     UMAY: yes
 720.1.1:
-  pop:
-    - ethnicity: upper_egyptian_culture
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 750.8.6:
   owner: ABBA
@@ -70,9 +65,8 @@
   cores:
     ABBA: yes
 920.1.1:
-  pop:
-    - religion: sunni
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 935.8.26:
   owner: EGY

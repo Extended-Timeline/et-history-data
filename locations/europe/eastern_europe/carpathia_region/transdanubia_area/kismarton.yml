@@ -5,15 +5,13 @@
   cores:
     ROM: yes
   resource: grain
-  pop:
-    - ethnicity: pannonian
-      religion: druidism
+  pops:
+    - religion: druidism
       estate: peasant
       size: 1000
 380.1.1:
-  pop:
-    - religion: chalcedonism
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 395.1.17:
   owner: ROMW
@@ -22,9 +20,8 @@
     ROM: no
     ROMW: yes
 420.1.1:
-  pop:
-    - ethnicity: danube_bavarian
-      religion: germanic
+  pops:
+    - religion: germanic
       estate: peasant
       size: 1000
 447.1.1:
@@ -40,9 +37,8 @@
     OSTR: no
     GEPI: yes
 540.1.1:
-  pop:
-    - religion: arianism
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 567.1.1:
   owner: AVR
@@ -50,14 +46,12 @@
   cores:
     GEPI: no
     AVR: yes
-  pop:
-    - ethnicity: avar_culture
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 570.1.1:
-  pop:
-    - religion: 
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 846.1.1:
   owner: PANO
@@ -66,14 +60,12 @@
     AVR: no
     PANO: yes
 850.1.1:
-  pop:
-    - religion: chalcedonism
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 867.1.1:
-  pop:
-    - religion: catholic
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 897.1.1:
   owner: HUN
@@ -81,9 +73,8 @@
   cores:
     PANO: no
     HUN: yes
-  pop:
-    - ethnicity: hungarian
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1507.1.1:
   controller: HUN
@@ -95,14 +86,12 @@
   cores:
     HAB: yes
 1545.1.1:
-  pop:
-    - religion: lutheran
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1580.1.1:
-  pop:
-    - religion: catholic
-      ethnicity: danube_bavarian
+  pops:
+    - ethnicity: danube_bavarian
       estate: peasant
       size: 1000
 1594.9.29:

@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/770 - Lida.txt
 2.1.1:
-  pop:
-    - ethnicity: aukstaitian
-      religion: romuva
+  pops:
+    - religion: romuva
       estate: peasant
       size: 1000
 550.1.1:
@@ -18,9 +17,8 @@
     LIT: no
     POK: yes
 1100.1.1:
-  pop:
-    - ethnicity: polatskian_culture
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1242.1.1:
   owner: LIT
@@ -28,9 +26,8 @@
   cores:
     LIT: yes
 1387.1.1:
-  pop:
-    - religion: orthodox
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1569.7.1:
   owner: PLC

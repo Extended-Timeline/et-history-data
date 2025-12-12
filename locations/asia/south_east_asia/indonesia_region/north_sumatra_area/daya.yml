@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/617 - Aceh.txt
 2.1.1:
-  pop:
-    - ethnicity: acehnese_culture
-      religion: bimoism
+  pops:
+    - religion: bimoism
       estate: peasant
       size: 1000
 600.1.1:
@@ -11,9 +10,8 @@
   cores:
     LAMU: yes
   resource: spices
-  pop:
-    - religion: hindu
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 880.1.1:
   owner: SRIV
@@ -32,9 +30,8 @@
   cores:
     LAMU: no
     ATJ: yes
-  pop:
-    - religion: sunni
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1903.1.10:
   owner: NED

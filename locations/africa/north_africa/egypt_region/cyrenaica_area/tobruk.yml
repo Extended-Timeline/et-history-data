@@ -5,9 +5,8 @@
   cores:
     ROM: yes
   resource: livestock
-  pop:
-    - ethnicity: eastern_amazigh
-      religion: hellenism_religion
+  pops:
+    - religion: hellenism_religion
       estate: peasant
       size: 1000
 395.1.17:
@@ -29,9 +28,8 @@
     RASH: no
     UMAY: yes
 710.1.1:
-  pop:
-    - ethnicity: lower_egyptian_culture
-      religion: sunni
+  pops:
+    - religion: sunni
       estate: peasant
       size: 1000
 750.8.6:

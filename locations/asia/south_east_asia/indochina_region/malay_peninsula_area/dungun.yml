@@ -5,15 +5,13 @@
   cores:
     CHTU: yes
   resource: fish
-  pop:
-    - ethnicity: malay_culture
-      religion: mahayana
+  pops:
+    - religion: mahayana
       estate: peasant
       size: 1000
 200.1.1:
-  pop:
-    - religion: hindu
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 250.1.1:
   owner: PPAN
@@ -32,9 +30,8 @@
   cores:
     LGK: no
     KELN: yes
-  pop:
-    - religion: sunni
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1512.1.1:
   owner: PATT

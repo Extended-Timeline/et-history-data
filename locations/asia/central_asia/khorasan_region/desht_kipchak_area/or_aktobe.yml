@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/472 - Jetyru.txt
 2.1.1:
-  pop:
-    - ethnicity: hunnic
-      religion: 
+  pops:
+    - religion: 
       estate: peasant
       size: 1000
 160.1.1:
@@ -14,18 +13,16 @@
 370.1.1:
   cores:
     OGHU: yes
-  pop:
-    - ethnicity: turkmen_culture
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 448.1.1:
   owner: OGHU
   controller: OGHU
   cores:
     HUNS: no
-  pop:
-    - ethnicity: pecheneg
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 593.1.1:
   owner: WGOK
@@ -51,14 +48,12 @@
   cores:
     PECH: no
     CUMA: yes
-  pop:
-    - ethnicity: cuman_culture
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 880.1.1:
-  pop:
-    - religion: sunni
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1236.1.1:
   owner: MGE
@@ -66,9 +61,8 @@
   cores:
     CUMA: no
     MGE: yes
-  pop:
-    - ethnicity: nogai
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1260.1.1:
   owner: BLHO
@@ -99,9 +93,8 @@
   cores:
     NOGA: no
     KAZA: yes
-  pop:
-    - ethnicity: khazak
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1824.1.1:
   owner: RUS

@@ -5,15 +5,13 @@
   cores:
     ROM: yes
   resource: livestock
-  pop:
-    - ethnicity: romansh
-      religion: druidism
+  pops:
+    - religion: druidism
       estate: peasant
       size: 1000
 250.1.1:
-  pop:
-    - religion: chalcedonism
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 395.1.17:
   owner: ROMW
@@ -26,9 +24,8 @@
   controller: ALEM
   cores:
     ALEM: yes
-  pop:
-    - ethnicity: high_alemannic
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 480.6.1:
   cores:
@@ -46,9 +43,8 @@
     FRAN: no
     EFRA: yes
 867.1.1:
-  pop:
-    - religion: catholic
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 911.11.10:
   owner: SWA
@@ -68,7 +64,6 @@
   cores:
     SWI: yes
 1526.1.1:
-  pop:
-    - religion: calvinist
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000

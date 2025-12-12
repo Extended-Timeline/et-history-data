@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/1152 - Idah.txt
 2.1.1:
-  pop:
-    - ethnicity: igbo
-      religion: bantu_religion
+  pops:
+    - religion: bantu_religion
       estate: peasant
       size: 1000
 1300.1.1:
@@ -21,9 +20,8 @@
   cores:
     GBR: yes
 1910.1.1:
-  pop:
-    - religion: lutheran
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1960.10.1:
   owner: NIGR

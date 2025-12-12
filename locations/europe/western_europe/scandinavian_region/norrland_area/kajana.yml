@@ -1,9 +1,8 @@
 #imported from EU4 file: history/provinces/4151 - Kainuu.txt
 2.1.1:
   resource: fur
-  pop:
-    - ethnicity: karelian
-      religion: muinaisusko
+  pops:
+    - religion: muinaisusko
       estate: peasant
       size: 1000
 750.1.1:
@@ -16,9 +15,8 @@
   controller: SMI
   cores:
     SMI: yes
-  pop:
-    - ethnicity: sapmi
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1348.1.1:
   owner: SWE
@@ -28,14 +26,12 @@
 1400.1.1:
   cores:
     FIN: yes
-  pop:
-    - ethnicity: finnish
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1527.6.1:
-  pop:
-    - religion: lutheran
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1598.8.1:
   controller: PLC

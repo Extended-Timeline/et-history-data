@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/2848 - Parana.txt
 2.1.1:
-  pop:
-    - ethnicity: charrua_culture
-      religion: muisca_religion
+  pops:
+    - religion: muisca_religion
       estate: peasant
       size: 1000
 1537.8.15:
@@ -11,15 +10,13 @@
   cores:
     SPA: yes
   resource: grain
-  pop:
-    - ethnicity: castilian
-      religion: catholic
+  pops:
+    - religion: catholic
       estate: peasant
       size: 1000
 1770.1.1:
-  pop:
-    - ethnicity: iberian_la_platan
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1816.7.9:
   owner: ARGE

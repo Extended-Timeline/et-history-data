@@ -5,9 +5,8 @@
   cores:
     KOSH: yes
   resource: silk
-  pop:
-    - ethnicity: koshibito
-      religion: shinto
+  pops:
+    - religion: shinto
       estate: peasant
       size: 1000
 500.1.1:
@@ -16,19 +15,16 @@
   cores:
     KOSH: no
     YMT: yes
-  pop:
-    - ethnicity: saigoku_culture
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 580.1.1:
-  pop:
-    - religion: mahayana
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 712.1.1:
-  pop:
-    - religion: shinto
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 794.1.1:
   owner: JAP

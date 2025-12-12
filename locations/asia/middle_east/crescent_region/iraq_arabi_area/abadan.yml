@@ -5,9 +5,8 @@
   cores:
     ELYM: yes
   resource: sugar
-  pop:
-    - ethnicity: khuzi
-      religion: zoroastrian
+  pops:
+    - religion: zoroastrian
       estate: peasant
       size: 1000
 222.1.1:
@@ -22,9 +21,8 @@
     ERA: no
     RASH: yes
 640.1.1:
-  pop:
-    - religion: islam
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 661.7.28:
   owner: UMAY
@@ -32,9 +30,8 @@
   cores:
     RASH: no
     UMAY: yes
-  pop:
-    - religion: shia
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 750.8.6:
   owner: ABBA
@@ -43,9 +40,8 @@
     UMAY: no
     ABBA: yes
 800.1.1:
-  pop:
-    - ethnicity: iraqi_culture
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 940.1.1:
   owner: IRAQ
@@ -116,7 +112,6 @@
 1965.1.1:
   resource: oil
 1980.1.1:
-  pop:
-    - ethnicity: lur_culture
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000

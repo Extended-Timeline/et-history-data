@@ -5,9 +5,8 @@
   cores:
     HAYA: yes
   resource: livestock
-  pop:
-    - ethnicity: kumaso
-      religion: shinto
+  pops:
+    - religion: shinto
       estate: peasant
       size: 1000
 721.1.1:
@@ -17,9 +16,8 @@
     HAYA: no
     YMT: yes
 750.1.1:
-  pop:
-    - ethnicity: saigoku_culture
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 794.1.1:
   owner: JAP

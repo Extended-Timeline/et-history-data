@@ -5,9 +5,8 @@
   cores:
     SARM: yes
   resource: grain
-  pop:
-    - ethnicity: sarmatian
-      religion: 
+  pops:
+    - religion: 
       estate: peasant
       size: 1000
 370.1.1:
@@ -22,9 +21,8 @@
   cores:
     HUNS: no
     AVR: yes
-  pop:
-    - ethnicity: avar_culture
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 567.1.1:
   owner: ULIC
@@ -32,9 +30,8 @@
   cores:
     AVR: no
     ULIC: yes
-  pop:
-    - ethnicity: ruthenian
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 870.1.1:
   owner: PECH
@@ -50,9 +47,8 @@
     KIEV: yes
     UKR: yes
 992.1.1:
-  pop:
-    - religion: orthodox
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1054.2.20:
   owner: PERE

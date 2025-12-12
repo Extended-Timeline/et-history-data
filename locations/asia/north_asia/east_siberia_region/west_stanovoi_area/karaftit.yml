@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/1056 - Barguzinsky.txt
 2.1.1:
-  pop:
-    - ethnicity: buryat_culture
-      religion: 
+  pops:
+    - religion: 
       estate: peasant
       size: 1000
 580.1.1:
@@ -66,9 +65,8 @@
 1653.1.1:
   owner: RUS
   controller: RUS
-  pop:
-    - ethnicity: muscovite
-      religion: orthodox
+  pops:
+    - religion: orthodox
       estate: peasant
       size: 1000
 1678.1.1:

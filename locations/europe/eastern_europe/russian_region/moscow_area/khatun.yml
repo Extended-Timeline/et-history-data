@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/4252 - Kolomna.txt
 2.1.1:
-  pop:
-    - ethnicity: meschera_culture
-      religion: muinaisusko
+  pops:
+    - religion: muinaisusko
       estate: peasant
       size: 1000
 600.1.1:
@@ -18,9 +17,8 @@
     MESC: no
     KIEV: yes
 1000.1.1:
-  pop:
-    - ethnicity: muscovite
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1054.2.20:
   owner: VLR
@@ -29,9 +27,8 @@
     KIEV: no
     VLR: yes
 1150.1.1:
-  pop:
-    - religion: orthodox
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1283.1.1:
   owner: MOS

@@ -5,15 +5,13 @@
   cores:
     ROM: yes
   resource: wine
-  pop:
-    - ethnicity: turduli
-      religion: druidism
+  pops:
+    - religion: druidism
       estate: peasant
       size: 1000
 320.1.1:
-  pop:
-    - religion: chalcedonism
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 395.1.17:
   owner: ROMW
@@ -67,9 +65,8 @@
     VISG: no
     UMAY: yes
 750.1.1:
-  pop:
-    - ethnicity: andalusi
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 750.8.6:
   owner: CRDB
@@ -78,9 +75,8 @@
     UMAY: no
     CRDB: yes
 770.1.1:
-  pop:
-    - religion: sunni
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1023.1.1:
   owner: SEVI
@@ -106,9 +102,8 @@
     SEVI: no
     CAS: yes
 1280.1.1:
-  pop:
-    - religion: catholic
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1516.1.23:
   owner: SPA
@@ -116,9 +111,8 @@
   cores:
     SPA: yes
 1610.1.12:
-  pop:
-    - ethnicity: castilian
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1713.4.11:
   cores:

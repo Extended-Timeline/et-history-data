@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/3067 - Oshana.txt
 2.1.1:
-  pop:
-    - ethnicity: herero
-      religion: bantu_religion
+  pops:
+    - religion: bantu_religion
       estate: peasant
       size: 1000
 1890.1.1:
@@ -11,9 +10,8 @@
   cores:
     GER: yes
   resource: grain
-  pop:
-    - religion: lutheran
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1910.3.31:
   cores:

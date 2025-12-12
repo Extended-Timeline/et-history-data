@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/1159 - Bagirmi.txt
 2.1.1:
-  pop:
-    - ethnicity: bilala_culture
-      religion: bantu_religion
+  pops:
+    - religion: bantu_religion
       estate: peasant
       size: 1000
 523.1.1:
@@ -31,9 +30,8 @@
     YAO: no
     BGI: yes
 1580.1.1:
-  pop:
-    - religion: sunni
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1720.1.1:
   controller: BGI

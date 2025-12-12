@@ -6,9 +6,8 @@
     WSAT: yes
     MLW: yes
   resource: spices
-  pop:
-    - ethnicity: malvi
-      religion: jain
+  pops:
+    - religion: jain
       estate: peasant
       size: 1000
 405.1.1:
@@ -29,9 +28,8 @@
   cores:
     GUJ: yes
 620.1.1:
-  pop:
-    - religion: hindu
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 745.1.1:
   owner: GURJ

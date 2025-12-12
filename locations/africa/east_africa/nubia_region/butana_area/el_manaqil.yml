@@ -5,9 +5,8 @@
   cores:
     MERO: yes
   resource: grain
-  pop:
-    - ethnicity: nubian_language
-      religion: bantu_religion
+  pops:
+    - religion: bantu_religion
       estate: peasant
       size: 1000
 350.1.1:
@@ -17,9 +16,8 @@
     MERO: no
     ALO: yes
 650.1.1:
-  pop:
-    - religion: miaphysite
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1503.1.1:
   owner: FUNJ
@@ -27,9 +25,8 @@
   cores:
     FUNJ: yes
 1523.1.1:
-  pop:
-    - religion: sunni
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1584.1.1:
   controller: FUNJ
@@ -40,9 +37,8 @@
     EGY: yes
     TUR: yes
 1850.1.1:
-  pop:
-    - ethnicity: sudanese_arab
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1882.9.13:
   owner: GBR

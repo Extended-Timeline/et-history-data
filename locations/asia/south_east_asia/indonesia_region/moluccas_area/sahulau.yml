@@ -1,8 +1,7 @@
 #imported from EU4 file: history/provinces/647 - Ceram.txt
 2.1.1:
-  pop:
-    - ethnicity: tetum_culture
-      religion: bimoism
+  pops:
+    - religion: bimoism
       estate: peasant
       size: 1000
 1550.1.1:
@@ -14,9 +13,8 @@
 1650.1.1:
   owner: NED
   controller: NED
-  pop:
-    - religion: calvinist
-      estate: peasant
+  pops:
+    - estate: peasant
       size: 1000
 1675.1.1:
   cores:

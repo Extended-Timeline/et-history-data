@@ -1,26 +1,23 @@
 #imported from EU4 file: history/provinces/438 - Kara Kum.txt
 2.1.1:
   resource: livestock
-  pop:
-    ethnicity: parthian
-    religion: zoroastrian
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: zoroastrian
+      estate: peasant
+      size: 1000
 600.1.1:
-  pop:
-    ethnicity: turkmen_culture
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 750.1.1:
   owner: OGHU
   controller: OGHU
   cores:
     OGHU: yes
 940.1.1:
-  pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1035.1.1:
   owner: SELJ
   controller: SELJ

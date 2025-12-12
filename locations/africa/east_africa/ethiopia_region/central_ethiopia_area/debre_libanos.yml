@@ -1,30 +1,26 @@
 #imported from EU4 file: history/provinces/1213 - Shoa.txt
 2.1.1:
-  pop:
-    ethnicity: amhara
-    religion: bantu_religion
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: bantu_religion
+      estate: peasant
+      size: 1000
 380.1.1:
-  pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 451.11.1:
-  pop:
-    religion: miaphysite
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 896.1.1:
   owner: SOA
   controller: SOA
   cores:
     SOA: yes
   resource: grain
-  pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1283.1.1:
   owner: IFA
   controller: IFA
@@ -49,10 +45,9 @@
 1771.1.1:
   controller: ETH
 1780.1.1:
-  pop:
-    religion: miaphysite
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1936.5.5:
   controller: ITA
 1936.5.9:

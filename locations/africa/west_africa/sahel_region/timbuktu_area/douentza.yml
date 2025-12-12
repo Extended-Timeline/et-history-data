@@ -1,10 +1,9 @@
 #imported from EU4 file: history/provinces/2263 - Haayre.txt
 2.1.1:
-  pop:
-    ethnicity: bozo
-    religion: bantu_religion
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: bantu_religion
+      estate: peasant
+      size: 1000
 350.1.1:
   owner: JENN
   controller: JENN
@@ -35,10 +34,9 @@
     SON: no
     YAT: yes
 1880.1.1:
-  pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1896.1.1:
   owner: FRA
   controller: FRA

@@ -1,10 +1,9 @@
 #imported from EU4 file: history/provinces/1238 - Solomon Islands.txt
 2.1.1:
-  pop:
-    ethnicity: tiri_culture
-    religion: bimoism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: bimoism
+      estate: peasant
+      size: 1000
 1856.1.1:
   owner: HAW
   controller: HAW
@@ -16,10 +15,9 @@
   controller: GER
   cores:
     HAW: no
-  pop:
-    religion: lutheran
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1899.11.14:
   owner: GBR
   controller: GBR

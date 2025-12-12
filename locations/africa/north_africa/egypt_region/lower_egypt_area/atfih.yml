@@ -5,21 +5,18 @@
   cores:
     ROM: yes
   resource: paper
-  pop:
-    ethnicity: old_egyptian
-    religion: hellenism_religion
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: hellenism_religion
+      estate: peasant
+      size: 1000
 280.1.1:
-  pop:
-    religion: manichaeism
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 380.1.1:
-  pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 395.1.17:
   owner: BYZ
   controller: BYZ
@@ -27,10 +24,9 @@
     ROM: no
     BYZ: yes
 451.11.1:
-  pop:
-    religion: miaphysite
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 618.1.1:
   controller: ERA
 628.1.1:
@@ -76,11 +72,10 @@
   cores:
     FATI: yes
 980.1.1:
-  pop:
-    ethnicity: lower_egyptian_culture
-    religion: sunni
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: sunni
+      estate: peasant
+      size: 1000
 1171.1.1:
   owner: EGY
   controller: EGY

@@ -1,10 +1,9 @@
 #imported from EU4 file: history/provinces/1219 - West Darfur.txt
 2.1.1:
-  pop:
-    ethnicity: fur_culture
-    religion: bantu_religion
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: bantu_religion
+      estate: peasant
+      size: 1000
 1100.1.1:
   owner: DAJ
   controller: DAJ
@@ -25,10 +24,9 @@
   cores:
     DARF: yes
 1682.1.1:
-  pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1874.1.1:
   owner: EGY
   controller: EGY

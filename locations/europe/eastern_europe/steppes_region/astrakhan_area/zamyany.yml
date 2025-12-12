@@ -5,18 +5,16 @@
   cores:
     ALN: yes
   resource: wool
-  pop:
-    ethnicity: alan_culture
-    religion: 
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: 
+      estate: peasant
+      size: 1000
 376.1.1:
   cores:
     KHAZ: yes
-  pop:
-    ethnicity: khazar
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 420.1.1:
   owner: HUNS
   controller: HUNS
@@ -29,10 +27,9 @@
   cores:
     HUNS: no
 880.1.1:
-  pop:
-    religion: judaism
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1048.1.1:
   owner: CUMA
   controller: CUMA
@@ -40,10 +37,9 @@
     KHAZ: no
     CUMA: yes
 1050.1.1:
-  pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1236.1.1:
   owner: MGE
   controller: MGE
@@ -51,10 +47,9 @@
     CUMA: no
     MGE: yes
     ASTR: yes
-  pop:
-    ethnicity: astrakhani
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1260.1.1:
   owner: WHHO
   controller: WHHO
@@ -94,11 +89,10 @@
     ASTR: no
     RUS: yes
 1600.1.1:
-  pop:
-    ethnicity: muscovite
-    religion: orthodox
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: orthodox
+      estate: peasant
+      size: 1000
 1671.11.27:
   controller: RUS
 1706.3.13:

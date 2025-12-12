@@ -1,10 +1,9 @@
 #imported from EU4 file: history/provinces/919 - Chickasaw.txt
 2.1.1:
-  pop:
-    ethnicity: chickasaw_culture
-    religion: iroquoian_totemism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: iroquoian_totemism
+      estate: peasant
+      size: 1000
 1340.1.1:
   cores:
     ???: yes
@@ -14,11 +13,10 @@
   controller: USA
   cores:
     USA: yes
-  pop:
-    ethnicity: british_louisianan
-    religion: lutheran
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: lutheran
+      estate: peasant
+      size: 1000
 1861.1.9:
   owner: CSAM
   controller: CSAM

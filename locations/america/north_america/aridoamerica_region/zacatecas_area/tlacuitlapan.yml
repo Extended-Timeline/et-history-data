@@ -5,11 +5,10 @@
   cores:
     GAM: yes
   resource: wool
-  pop:
-    ethnicity: guamar_culture
-    religion: nahuatl
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: nahuatl
+      estate: peasant
+      size: 1000
 567.1.1:
   owner: TOLT
   controller: TOLT
@@ -26,16 +25,14 @@
   controller: SPA
   cores:
     SPA: yes
-  pop:
-    ethnicity: castilian
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: catholic
+      estate: peasant
+      size: 1000
 1770.1.1:
-  pop:
-    ethnicity: mexican
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1810.9.16:
   owner: MEX
   controller: MEX

@@ -1,27 +1,24 @@
 #imported from EU4 file: history/provinces/826 - Choco.txt
 2.1.1:
-  pop:
-    ethnicity: wayuu_culture
-    religion: muisca_religion
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: muisca_religion
+      estate: peasant
+      size: 1000
 1525.1.1:
   owner: SPA
   controller: SPA
   resource: fur
-  pop:
-    ethnicity: castilian
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: catholic
+      estate: peasant
+      size: 1000
 1550.1.1:
   cores:
     SPA: yes
 1770.1.1:
-  pop:
-    ethnicity: iberian_colombian
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1810.7.20:
   owner: COLO
   controller: COLO

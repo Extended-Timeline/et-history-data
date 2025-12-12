@@ -5,26 +5,23 @@
   cores:
     WZZ: yes
   resource: grain
-  pop:
-    ethnicity: osage_culture
-    religion: iroquoian_totemism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: iroquoian_totemism
+      estate: peasant
+      size: 1000
 1670.1.1:
   owner: ---
   controller: ---
-  pop:
-    ethnicity: chalahgawtha_culture
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1805.1.1:
   owner: USA
   controller: USA
   cores:
     USA: yes
   resource: grain
-  pop:
-    ethnicity: american
-    religion: lutheran
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: lutheran
+      estate: peasant
+      size: 1000

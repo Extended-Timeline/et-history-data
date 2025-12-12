@@ -1,20 +1,18 @@
 #imported from EU4 file: history/provinces/2603 - Sekani.txt
 2.1.1:
-  pop:
-    ethnicity: tlingit_culture
-    religion: iroquoian_totemism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: iroquoian_totemism
+      estate: peasant
+      size: 1000
 1793.1.1:
   owner: GBR
   controller: GBR
   cores:
     GBR: yes
   resource: fur
-  pop:
-    religion: lutheran
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1870.7.15:
   owner: CAN
   controller: CAN

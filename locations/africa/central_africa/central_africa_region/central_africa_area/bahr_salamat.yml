@@ -1,10 +1,9 @@
 #imported from EU4 file: history/provinces/3062 - Chari.txt
 2.1.1:
-  pop:
-    ethnicity: sara_culture
-    religion: bantu_religion
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: bantu_religion
+      estate: peasant
+      size: 1000
 1893.1.1:
   owner: KBO
   controller: KBO
@@ -17,10 +16,9 @@
   cores:
     FRA: yes
 1910.1.1:
-  pop:
-    religion: lutheran
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1960.8.11:
   owner: CHAD
   controller: CHAD

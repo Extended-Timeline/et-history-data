@@ -1,27 +1,24 @@
 #imported from EU4 file: history/provinces/2664 - Veraguas.txt
 2.1.1:
-  pop:
-    ethnicity: muisca_culture
-    religion: muisca_religion
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: muisca_religion
+      estate: peasant
+      size: 1000
 1569.11.1:
   owner: SPA
   controller: SPA
   resource: naval_supplies
-  pop:
-    ethnicity: castilian
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: catholic
+      estate: peasant
+      size: 1000
 1594.1.1:
   cores:
     SPA: yes
 1770.1.1:
-  pop:
-    ethnicity: iberian_colombian
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1810.7.20:
   owner: COLO
   controller: COLO

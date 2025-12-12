@@ -6,11 +6,10 @@
     BOSP: yes
     ROM: yes
   resource: salt
-  pop:
-    ethnicity: pontic_greek_culture
-    religion: hellenism_religion
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: hellenism_religion
+      estate: peasant
+      size: 1000
 63.1.1:
   owner: ROM
   controller: ROM
@@ -24,15 +23,13 @@
     BOSP: no
     ROM: no
     OSTR: yes
-  pop:
-    ethnicity: gothic
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 300.1.1:
-  pop:
-    religion: germanic
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 370.1.1:
   owner: GOTH
   controller: GOTH
@@ -40,10 +37,9 @@
     OSTR: no
     GOTH: yes
 620.1.1:
-  pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 750.1.1:
   owner: KHAZ
   controller: KHAZ
@@ -51,25 +47,22 @@
     GOTH: no
     KHAZ: yes
 800.1.1:
-  pop:
-    ethnicity: khazar
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 867.1.1:
-  pop:
-    religion: orthodox
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 969.1.1:
   owner: PECH
   controller: PECH
   cores:
     KHAZ: no
     PECH: yes
-  pop:
-    ethnicity: pecheneg
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1060.1.1:
   owner: CUMA
   controller: CUMA
@@ -77,10 +70,9 @@
     PECH: no
     CUMA: yes
 1120.1.1:
-  pop:
-    ethnicity: crimean
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1237.1.1:
   owner: MGE
   controller: MGE
@@ -95,10 +87,9 @@
     MGE: no
     WHHO: yes
 1300.1.1:
-  pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1372.1.1:
   owner: BLHO
   controller: BLHO
@@ -139,10 +130,9 @@
   cores:
     CRIM: no
 1880.1.1:
-  pop:
-    religion: orthodox
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1900.1.1:
   cores:
     CRIM: no
@@ -157,10 +147,9 @@
 1943.10.1:
   controller: SOVI
 1945.1.1:
-  pop:
-    ethnicity: muscovite
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1991.8.24:
   owner: UKR
   controller: UKR

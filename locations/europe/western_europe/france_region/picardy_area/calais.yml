@@ -5,26 +5,23 @@
   cores:
     ROM: yes
   resource: fish
-  pop:
-    ethnicity: belgae
-    religion: druidism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: druidism
+      estate: peasant
+      size: 1000
 260.1.1:
   cores:
     GALL: yes
-  pop:
-    ethnicity: gallian
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 274.1.1:
   controller: ROM
   cores:
     GALL: no
-  pop:
-    ethnicity: flemish
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -38,10 +35,9 @@
     ROMW: no
     FRAN: yes
 500.1.1:
-  pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 511.11.27:
   owner: SOIS
   controller: SOIS
@@ -83,10 +79,9 @@
   cores:
     FLA: yes
 867.1.1:
-  pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 896.1.1:
   owner: FLA
   controller: FLA
@@ -117,10 +112,9 @@
   cores:
     ENG: no
     FRA: yes
-  pop:
-    ethnicity: french
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1596.1.1:
   controller: SPA
 1598.1.1:

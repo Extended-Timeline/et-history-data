@@ -5,11 +5,10 @@
   cores:
     AILA: yes
   resource: tropical_wood
-  pop:
-    ethnicity: tai_lu_culture
-    religion: satsana_phi
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: satsana_phi
+      estate: peasant
+      size: 1000
 560.1.1:
   owner: HSE
   controller: HSE
@@ -22,10 +21,9 @@
   cores:
     NANZ: yes
 850.1.1:
-  pop:
-    religion: tibetan_buddhism
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 937.1.1:
   owner: CDL
   controller: CDL
@@ -33,10 +31,9 @@
     NANZ: no
     CDL: yes
 1080.1.1:
-  pop:
-    religion: theravada
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1253.1.1:
   owner: HSE
   controller: HSE

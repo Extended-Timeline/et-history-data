@@ -5,27 +5,24 @@
   cores:
     TPA: yes
   resource: cocoa
-  pop:
-    ethnicity: tupinamba_culture
-    religion: muisca_religion
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: muisca_religion
+      estate: peasant
+      size: 1000
 1616.1.12:
   owner: POR
   controller: POR
-  pop:
-    ethnicity: portuguese
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: catholic
+      estate: peasant
+      size: 1000
 1641.1.1:
   cores:
     POR: yes
 1780.1.1:
-  pop:
-    ethnicity: brazilian
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1822.9.7:
   owner: BRAZ
   controller: BRAZ

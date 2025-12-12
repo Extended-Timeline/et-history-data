@@ -5,28 +5,25 @@
   cores:
     SARM: yes
   resource: grain
-  pop:
-    ethnicity: sarmatian
-    religion: 
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: 
+      estate: peasant
+      size: 1000
 370.1.1:
   owner: HUNS
   controller: HUNS
   cores:
     SARM: no
     HUNS: yes
-  pop:
-    ethnicity: hunnic
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 420.1.1:
   cores:
     KUTR: yes
-  pop:
-    ethnicity: bolghar_culture
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 469.1.1:
   owner: KUTR
   controller: KUTR
@@ -44,30 +41,27 @@
   cores:
     ONOG: no
     HUN: yes
-  pop:
-    ethnicity: hungarian
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 780.1.1:
   owner: BURT
   controller: BURT
   cores:
     HUN: no
     BURT: yes
-  pop:
-    ethnicity: moksha_culture
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 880.1.1:
   owner: PECH
   controller: PECH
   cores:
     BURT: no
     PECH: yes
-  pop:
-    ethnicity: ruthenian
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 980.1.1:
   owner: KIEV
   controller: KIEV
@@ -81,10 +75,9 @@
     KIEV: no
     CHR: yes
 1060.1.1:
-  pop:
-    religion: orthodox
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1237.1.1:
   owner: MGE
   controller: MGE
@@ -110,10 +103,9 @@
     LIT: no
     RUS: yes
 1678.1.1:
-  pop:
-    ethnicity: muscovite
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1922.12.30:
   owner: SOVI
   controller: SOVI

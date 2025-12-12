@@ -5,31 +5,28 @@
   cores:
     JNT: yes
   resource: cotton
-  pop:
-    ethnicity: khasi_culture
-    religion: bimoism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: bimoism
+      estate: peasant
+      size: 1000
 600.1.1:
   owner: LUR
   controller: LUR
   cores:
     JNT: no
     LUR: yes
-  pop:
-    religion: hindu
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 810.1.1:
   owner: PALA
   controller: PALA
   cores:
     PALA: yes
 900.1.1:
-  pop:
-    ethnicity: bengali
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 950.1.1:
   owner: VANG
   controller: VANG
@@ -49,10 +46,9 @@
     SAMT: no
     GOUR: yes
 1180.1.1:
-  pop:
-    religion: hindu
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1303.1.1:
   owner: BNG
   controller: BNG
@@ -86,10 +82,9 @@
   cores:
     GBR: yes
 1840.1.1:
-  pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1930.12.29:
   cores:
     BNG: no

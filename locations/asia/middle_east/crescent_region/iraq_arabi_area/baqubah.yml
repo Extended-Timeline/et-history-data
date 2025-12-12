@@ -5,11 +5,10 @@
   cores:
     PART: yes
   resource: cloth
-  pop:
-    ethnicity: assyrian
-    religion: zoroastrian
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: zoroastrian
+      estate: peasant
+      size: 1000
 116.1.1:
   owner: ROM
   controller: ROM
@@ -36,21 +35,19 @@
   cores:
     ERA: no
     RASH: yes
-  pop:
-    ethnicity: iraqi_culture
-    religion: islam
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: islam
+      estate: peasant
+      size: 1000
 661.7.28:
   owner: UMAY
   controller: UMAY
   cores:
     RASH: no
     UMAY: yes
-  pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 750.8.6:
   owner: ABBA
   controller: ABBA
@@ -108,10 +105,9 @@
     MGE: no
     ILK: yes
 1300.1.1:
-  pop:
-    religion: shia
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1335.1.1:
   owner: JAL
   controller: JAL
@@ -155,10 +151,9 @@
   cores:
     AKQO: no
     IRA: yes
-  pop:
-    religion: shia
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1534.11.28:
   controller: TUR
 1536.1.1:

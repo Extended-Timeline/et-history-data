@@ -5,11 +5,10 @@
   cores:
     DASA: yes
   resource: grain
-  pop:
-    ethnicity: bagheli
-    religion: hindu
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: hindu
+      estate: peasant
+      size: 1000
 320.1.1:
   owner: GUPT
   controller: GUPT

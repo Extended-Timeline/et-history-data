@@ -5,20 +5,18 @@
   cores:
     HEIS: yes
   resource: incense
-  pop:
-    ethnicity: somali_culture
-    religion: bantu_religion
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: bantu_religion
+      estate: peasant
+      size: 1000
 1100.1.1:
   owner: WAR
   controller: WAR
   cores:
     WAR: yes
-  pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1526.1.1:
   owner: ADA
   controller: ADA

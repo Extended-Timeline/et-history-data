@@ -6,11 +6,10 @@
     XION: yes
     XIAN: yes
   resource: naval_supplies
-  pop:
-    ethnicity: chahar
-    religion: 
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: 
+      estate: peasant
+      size: 1000
 46.1.1:
   owner: XIAN
   controller: XIAN
@@ -70,10 +69,9 @@
     YUA: no
     KHRC: yes
 1520.1.1:
-  pop:
-    religion: tibetan_buddhism
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1624.1.1:
   owner: MCH
   controller: MCH
@@ -87,10 +85,9 @@
     MGE: no
     QNG: yes
 1880.1.1:
-  pop:
-    ethnicity: manchu_new
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1912.2.12:
   owner: CHI
   controller: CHI

@@ -1,10 +1,9 @@
 #imported from EU4 file: history/provinces/3273 - Bussa.txt
 2.1.1:
-  pop:
-    ethnicity: bariba
-    religion: bantu_religion
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: bantu_religion
+      estate: peasant
+      size: 1000
 1250.1.1:
   owner: BOR
   controller: BOR
@@ -12,10 +11,9 @@
     BOR: yes
   resource: tropical_wood
 1850.1.1:
-  pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1860.1.1:
   owner: SOKO
   controller: SOKO

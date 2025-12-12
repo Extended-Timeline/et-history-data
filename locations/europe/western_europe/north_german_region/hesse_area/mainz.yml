@@ -5,11 +5,10 @@
   cores:
     ROM: yes
   resource: grain
-  pop:
-    ethnicity: rhine_franconian
-    religion: germanic
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: germanic
+      estate: peasant
+      size: 1000
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -22,10 +21,9 @@
   cores:
     ROMW: no
     BUR: yes
-  pop:
-    ethnicity: burgundione
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 443.1.1:
   owner: ALEM
   controller: ALEM
@@ -44,15 +42,13 @@
   cores:
     THU: no
     FRAN: yes
-  pop:
-    ethnicity: rhine_franconian
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 500.1.1:
-  pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 511.11.27:
   owner: ASTS
   controller: ASTS
@@ -96,10 +92,9 @@
     FRAN: no
     EFRA: yes
 867.1.1:
-  pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 911.11.10:
   owner: FKN
   controller: FKN
@@ -115,10 +110,9 @@
 1200.1.1:
   resource: paper
 1556.4.19:
-  pop:
-    religion: lutheran
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1631.12.22:
   controller: SWE
 1635.1.1:

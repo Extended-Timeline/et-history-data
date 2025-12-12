@@ -5,16 +5,14 @@
   cores:
     ROM: yes
   resource: grain
-  pop:
-    ethnicity: pannonian
-    religion: druidism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: druidism
+      estate: peasant
+      size: 1000
 380.1.1:
-  pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -22,11 +20,10 @@
     ROM: no
     ROMW: yes
 420.1.1:
-  pop:
-    ethnicity: danube_bavarian
-    religion: germanic
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: germanic
+      estate: peasant
+      size: 1000
 447.1.1:
   owner: OSTR
   controller: OSTR
@@ -40,25 +37,22 @@
     OSTR: no
     GEPI: yes
 540.1.1:
-  pop:
-    religion: arianism
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 567.1.1:
   owner: AVR
   controller: AVR
   cores:
     GEPI: no
     AVR: yes
-  pop:
-    ethnicity: avar_culture
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 570.1.1:
-  pop:
-    religion: 
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 846.1.1:
   owner: PANO
   controller: PANO
@@ -66,25 +60,22 @@
     AVR: no
     PANO: yes
 850.1.1:
-  pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 867.1.1:
-  pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 897.1.1:
   owner: HUN
   controller: HUN
   cores:
     PANO: no
     HUN: yes
-  pop:
-    ethnicity: hungarian
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1507.1.1:
   controller: HUN
 1515.1.1:
@@ -95,16 +86,14 @@
   cores:
     HAB: yes
 1545.1.1:
-  pop:
-    religion: lutheran
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1580.1.1:
-  pop:
-    religion: catholic
-    ethnicity: danube_bavarian
-    estate: peasant
-    size: 1000
+  pops:
+    - ethnicity: danube_bavarian
+      estate: peasant
+      size: 1000
 1594.9.29:
   controller: TUR
 1598.3.28:

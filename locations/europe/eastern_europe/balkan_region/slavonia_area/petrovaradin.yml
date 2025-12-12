@@ -5,11 +5,10 @@
   cores:
     ROM: yes
   resource: grain
-  pop:
-    ethnicity: pannonian
-    religion: druidism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: druidism
+      estate: peasant
+      size: 1000
 395.1.17:
   owner: BYZ
   controller: BYZ
@@ -28,19 +27,17 @@
     HUNS: no
     OSTR: yes
 470.1.1:
-  pop:
-    religion: arianism
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 488.1.1:
   owner: GEPI
   controller: GEPI
   cores:
     GEPI: yes
-  pop:
-    ethnicity: gepid
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 504.1.1:
   owner: OSTR
   controller: OSTR
@@ -63,20 +60,17 @@
   controller: AVR
   cores:
     AVR: yes
-  pop:
-    ethnicity: avar_culture
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 600.1.1:
-  pop:
-    religion: 
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 620.1.1:
-  pop:
-    ethnicity: serbian
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 804.1.1:
   owner: PANO
   controller: PANO
@@ -89,10 +83,9 @@
   cores:
     BUL: yes
 867.1.1:
-  pop:
-    religion: orthodox
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1003.1.1:
   owner: HUN
   controller: HUN
@@ -141,10 +134,9 @@
   owner: YUGO
   controller: YUGO
 1950.1.1:
-  pop:
-    ethnicity: serbian
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 2006.6.5:
   owner: SER
   controller: SER

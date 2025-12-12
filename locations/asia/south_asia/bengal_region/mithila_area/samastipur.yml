@@ -5,11 +5,10 @@
   cores:
     VAJJ: yes
   resource: grain
-  pop:
-    ethnicity: magahi
-    religion: mahayana
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: mahayana
+      estate: peasant
+      size: 1000
 270.1.1:
   owner: MAGA
   controller: MAGA
@@ -53,10 +52,9 @@
     PALA: no
     TIRH: yes
 1250.1.1:
-  pop:
-    religion: hindu
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1486.1.1:
   owner: DLH
   controller: DLH

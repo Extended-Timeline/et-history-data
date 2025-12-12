@@ -1,10 +1,9 @@
 #imported from EU4 file: history/provinces/2712 - Samarinda.txt
 2.1.1:
-  pop:
-    ethnicity: kutai_culture
-    religion: bimoism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: bimoism
+      estate: peasant
+      size: 1000
 300.1.1:
   owner: KUTA
   controller: KUTA
@@ -12,15 +11,13 @@
     KUTA: yes
   resource: spices
 420.1.1:
-  pop:
-    religion: hindu
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1700.1.1:
-  pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1844.1.1:
   owner: NED
   controller: NED
@@ -33,10 +30,9 @@
     KUTA: no
     INDN: yes
 1920.1.1:
-  pop:
-    ethnicity: banjar_culture
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1942.2.10:
   controller: JAP
 1942.3.9:

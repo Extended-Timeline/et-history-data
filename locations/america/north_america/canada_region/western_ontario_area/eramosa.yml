@@ -5,30 +5,27 @@
   cores:
     TIO: yes
   resource: tobacco
-  pop:
-    ethnicity: tionontate_culture
-    religion: iroquoian_totemism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: iroquoian_totemism
+      estate: peasant
+      size: 1000
 1650.1.1:
   owner: ---
   controller: ---
   cores:
     TIO: no
-  pop:
-    ethnicity: ojibwe_culture
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1800.1.1:
   owner: GBR
   controller: GBR
   cores:
     GBR: yes
-  pop:
-    ethnicity: british_canadian
-    religion: lutheran
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: lutheran
+      estate: peasant
+      size: 1000
 1867.7.1:
   owner: CAN
   controller: CAN

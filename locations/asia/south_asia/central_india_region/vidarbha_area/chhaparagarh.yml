@@ -5,11 +5,10 @@
   cores:
     GOND: yes
   resource: tropical_wood
-  pop:
-    ethnicity: bagheli
-    religion: hindu
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: hindu
+      estate: peasant
+      size: 1000
 675.1.1:
   owner: KALC
   controller: KALC

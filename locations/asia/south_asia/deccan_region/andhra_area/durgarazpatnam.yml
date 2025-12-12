@@ -5,11 +5,10 @@
   cores:
     CHOL: yes
   resource: cloth
-  pop:
-    ethnicity: tamil
-    religion: hindu
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: hindu
+      estate: peasant
+      size: 1000
 275.1.1:
   owner: PALL
   controller: PALL
@@ -22,10 +21,9 @@
     PALL: no
     CHOL: yes
 1100.1.1:
-  pop:
-    ethnicity: telugu
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1279.1.1:
   owner: TNK
   controller: TNK

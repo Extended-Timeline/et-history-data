@@ -1,10 +1,9 @@
 #imported from EU4 file: history/provinces/4687 - Imakia.txt
 2.1.1:
-  pop:
-    ethnicity: kimek
-    religion: 
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: 
+      estate: peasant
+      size: 1000
 659.1.1:
   owner: KANG
   controller: KANG
@@ -23,10 +22,9 @@
   cores:
     MGE: yes
 1250.1.1:
-  pop:
-    ethnicity: khazak
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1260.1.1:
   owner: BLHO
   controller: BLHO
@@ -39,10 +37,9 @@
   cores:
     GLH: yes
 1380.1.1:
-  pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1428.1.1:
   owner: OIR
   controller: OIR
@@ -52,11 +49,10 @@
 1618.1.1:
   owner: RUS
   controller: RUS
-  pop:
-    ethnicity: muscovite
-    religion: orthodox
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: orthodox
+      estate: peasant
+      size: 1000
 1623.1.1:
   cores:
     RUS: yes

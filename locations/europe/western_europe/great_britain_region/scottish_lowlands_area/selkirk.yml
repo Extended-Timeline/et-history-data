@@ -5,11 +5,10 @@
   cores:
     VOTA: yes
   resource: iron
-  pop:
-    ethnicity: briton
-    religion: druidism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: druidism
+      estate: peasant
+      size: 1000
 84.1.1:
   owner: ROM
   controller: ROM
@@ -29,25 +28,22 @@
   cores:
     ROM: no
 409.1.1:
-  pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 410.1.1:
   owner: GODO
   controller: GODO
   cores:
     VOTA: no
     GODO: yes
-  pop:
-    ethnicity: welsh
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 600.1.1:
-  pop:
-    ethnicity: highland
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 638.1.1:
   owner: NOL
   controller: NOL
@@ -55,10 +51,9 @@
     GODO: no
     NOL: yes
 867.1.1:
-  pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 867.3.23:
   owner: SCO
   controller: SCO
@@ -66,10 +61,9 @@
     NOL: no
     SCO: yes
 1066.12.25:
-  pop:
-    ethnicity: scottish
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1296.1.1:
   controller: ENG
 1314.1.1:
@@ -87,10 +81,9 @@
 1550.1.1:
   controller: SCO
 1560.8.1:
-  pop:
-    religion: calvinist
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1650.12.24:
   controller: ENG
 1652.4.21:

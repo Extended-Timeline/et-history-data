@@ -1,48 +1,43 @@
 #imported from EU4 file: history/provinces/914 - Winnebago.txt
 2.1.1:
-  pop:
-    ethnicity: baxoje_culture
-    religion: iroquoian_totemism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: iroquoian_totemism
+      estate: peasant
+      size: 1000
 1671.1.1:
   owner: FRA
   controller: FRA
   cores:
     FRA: yes
   resource: fur
-  pop:
-    ethnicity: french
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: catholic
+      estate: peasant
+      size: 1000
 1763.2.10:
   owner: GBR
   controller: GBR
   cores:
     FRA: no
     GBR: yes
-  pop:
-    ethnicity: english
-    religion: lutheran
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: lutheran
+      estate: peasant
+      size: 1000
 1763.10.9:
   cores:
     GBR: no
     ???: yes
-  pop:
-    ethnicity: baxoje_culture
-    religion: iroquoian_totemism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: iroquoian_totemism
+      estate: peasant
+      size: 1000
 1813.10.5:
   owner: USA
   controller: USA
   cores:
     USA: yes
-  pop:
-    ethnicity: american
-    religion: lutheran
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: lutheran
+      estate: peasant
+      size: 1000

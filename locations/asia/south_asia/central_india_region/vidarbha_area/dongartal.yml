@@ -5,11 +5,10 @@
   cores:
     SATA: yes
   resource: cotton
-  pop:
-    ethnicity: gond
-    religion: mahayana
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: mahayana
+      estate: peasant
+      size: 1000
 220.1.1:
   owner: ABHI
   controller: ABHI
@@ -23,10 +22,9 @@
     ABHI: no
     VAKA: yes
 280.1.1:
-  pop:
-    religion: hindu
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 500.1.1:
   owner: RDY
   controller: RDY
@@ -92,10 +90,9 @@
   cores:
     NAGP: yes
 1741.1.1:
-  pop:
-    ethnicity: marathi_culture
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1853.12.11:
   owner: GBR
   controller: GBR

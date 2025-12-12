@@ -5,11 +5,10 @@
   cores:
     SATA: yes
   resource: cloth
-  pop:
-    ethnicity: marathi_culture
-    religion: jain
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: jain
+      estate: peasant
+      size: 1000
 80.1.1:
   owner: WSAT
   controller: WSAT
@@ -60,10 +59,9 @@
     RAST: no
     KONK: yes
 820.1.1:
-  pop:
-    religion: hindu
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1265.1.1:
   owner: YADA
   controller: YADA

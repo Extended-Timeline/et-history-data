@@ -5,11 +5,10 @@
   cores:
     XION: yes
   resource: grain
-  pop:
-    ethnicity: tocharian
-    religion: 
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: 
+      estate: peasant
+      size: 1000
 91.2.1:
   owner: XIAN
   controller: XIAN
@@ -23,10 +22,9 @@
     XIAN: no
     ROUR: yes
 360.1.1:
-  pop:
-    ethnicity: uyghur_culture
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 460.1.1:
   owner: UYGH
   controller: UYGH
@@ -45,20 +43,17 @@
     GOKT: no
     UYGH: yes
 765.1.1:
-  pop:
-    religion: manichaeism
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 840.1.1:
-  pop:
-    religion: nestorianism
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1204.1.1:
-  pop:
-    religion: 
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1209.1.1:
   owner: MGE
   controller: MGE
@@ -96,10 +91,9 @@
   cores:
     QNG: yes
 1780.1.1:
-  pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1850.1.1:
   cores:
     OIR: no
@@ -116,7 +110,6 @@
   cores:
     UYGH: yes
 1960.1.1:
-  pop:
-    ethnicity: xibei
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000

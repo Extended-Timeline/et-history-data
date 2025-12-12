@@ -1,20 +1,18 @@
 #imported from EU4 file: history/provinces/1991 - Gilbert Islands.txt
 2.1.1:
-  pop:
-    ethnicity: maohi_culture
-    religion: bimoism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: bimoism
+      estate: peasant
+      size: 1000
 1837.1.1:
   owner: GBR
   controller: GBR
   cores:
     GBR: yes
   resource: fish
-  pop:
-    religion: lutheran
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1941.12.10:
   controller: JAP
 1943.11.20:

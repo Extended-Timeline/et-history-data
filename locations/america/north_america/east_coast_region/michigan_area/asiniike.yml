@@ -5,18 +5,16 @@
   cores:
     BDK: yes
   resource: fur
-  pop:
-    ethnicity: ojibwe_culture
-    religion: iroquoian_totemism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: iroquoian_totemism
+      estate: peasant
+      size: 1000
 1813.10.5:
   owner: USA
   controller: USA
   cores:
     USA: yes
-  pop:
-    ethnicity: american
-    religion: lutheran
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: lutheran
+      estate: peasant
+      size: 1000

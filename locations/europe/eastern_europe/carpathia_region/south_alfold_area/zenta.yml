@@ -5,11 +5,10 @@
   cores:
     IAZY: yes
   resource: livestock
-  pop:
-    ethnicity: sarmatian
-    religion: 
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: 
+      estate: peasant
+      size: 1000
 300.1.1:
   owner: RUGI
   controller: RUGI
@@ -23,40 +22,35 @@
     RUGI: no
     HUNS: yes
 420.1.1:
-  pop:
-    religion: arianism
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 469.1.1:
   owner: GEPI
   controller: GEPI
   cores:
     HUNS: no
     GEPI: yes
-  pop:
-    ethnicity: gepid
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 567.1.1:
   owner: AVR
   controller: AVR
   cores:
     GEPI: no
     AVR: yes
-  pop:
-    ethnicity: avar_culture
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 570.1.1:
-  pop:
-    religion: 
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 620.1.1:
-  pop:
-    ethnicity: serbian
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 804.1.1:
   owner: BUL
   controller: BUL
@@ -64,10 +58,9 @@
     AVR: no
     BUL: yes
 867.1.1:
-  pop:
-    religion: orthodox
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 897.1.1:
   owner: HUN
   controller: HUN
@@ -75,10 +68,9 @@
     BUL: no
     HUN: yes
 1200.1.1:
-  pop:
-    ethnicity: hungarian
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1514.6.1:
   controller: HUN
 1526.8.30:
@@ -97,10 +89,9 @@
   cores:
     HAB: no
 1567.1.1:
-  pop:
-    religion: calvinist
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1598.1.1:
   controller: TUR
 1718.1.1:
@@ -114,10 +105,9 @@
 1770.1.1:
   controller: HAB
 1800.1.1:
-  pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1918.12.1:
   owner: YUGO
   controller: YUGO
@@ -138,10 +128,9 @@
   owner: YUGO
   controller: YUGO
 1950.1.1:
-  pop:
-    ethnicity: serbian
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 2006.6.5:
   owner: SER
   controller: SER

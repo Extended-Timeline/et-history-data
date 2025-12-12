@@ -5,16 +5,14 @@
   cores:
     ROM: yes
   resource: naval_supplies
-  pop:
-    ethnicity: illyrian
-    religion: hellenism_religion
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: hellenism_religion
+      estate: peasant
+      size: 1000
 350.1.1:
-  pop:
-    ethnicity: dalmatian
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 395.1.17:
   owner: BYZ
   controller: BYZ
@@ -22,33 +20,29 @@
     ROM: no
     BYZ: yes
 400.1.1:
-  pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 610.1.1:
   cores:
     DUKL: yes
-  pop:
-    ethnicity: serbian
-    religion: slavic
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: slavic
+      estate: peasant
+      size: 1000
 650.1.1:
   owner: DUKL
   controller: DUKL
   cores:
     BYZ: no
 860.1.1:
-  pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 867.1.1:
-  pop:
-    religion: orthodox
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 930.1.1:
   owner: SER
   controller: SER

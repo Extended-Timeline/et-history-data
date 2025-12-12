@@ -1,26 +1,23 @@
 #imported from EU4 file: history/provinces/2011 - Manahoac.txt
 2.1.1:
-  pop:
-    ethnicity: powhatan_culture
-    religion: iroquoian_totemism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: iroquoian_totemism
+      estate: peasant
+      size: 1000
 1730.1.1:
   owner: GBR
   controller: GBR
   cores:
     GBR: yes
   resource: iron
-  pop:
-    ethnicity: english
-    religion: lutheran
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: lutheran
+      estate: peasant
+      size: 1000
 1764.7.1:
-  pop:
-    ethnicity: british_louisianan
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1776.7.4:
   owner: USA
   controller: USA

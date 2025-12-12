@@ -5,11 +5,10 @@
   cores:
     ARM: yes
   resource: cotton
-  pop:
-    ethnicity: aghwan
-    religion: zoroastrian
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: zoroastrian
+      estate: peasant
+      size: 1000
 114.1.1:
   owner: ROM
   controller: ROM
@@ -27,15 +26,13 @@
     ARM: no
     CALB: yes
 460.1.1:
-  pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 506.1.1:
-  pop:
-    religion: miaphysite
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 822.1.1:
   owner: ABBA
   controller: ABBA
@@ -54,10 +51,9 @@
     SHIR: no
     AZER: yes
 920.1.1:
-  pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 951.1.1:
   owner: GANJ
   controller: GANJ
@@ -70,10 +66,9 @@
   cores:
     SELJ: yes
 1080.1.1:
-  pop:
-    ethnicity: azeri_culture
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1124.1.1:
   owner: GEO
   controller: GEO
@@ -94,10 +89,9 @@
     KHWA: no
     MGE: yes
 1240.1.1:
-  pop:
-    religion: shia
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1260.1.1:
   owner: GANJ
   controller: GANJ

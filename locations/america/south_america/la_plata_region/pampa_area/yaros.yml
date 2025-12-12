@@ -1,36 +1,32 @@
 #imported from EU4 file: history/provinces/2851 - Colonia.txt
 2.1.1:
-  pop:
-    ethnicity: charrua_culture
-    religion: muisca_religion
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: muisca_religion
+      estate: peasant
+      size: 1000
 1680.1.1:
   owner: POR
   controller: POR
   cores:
     POR: yes
   resource: livestock
-  pop:
-    ethnicity: portuguese
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: catholic
+      estate: peasant
+      size: 1000
 1724.1.1:
   owner: SPA
   controller: SPA
   cores:
     POR: no
     SPA: yes
-  pop:
-    ethnicity: castilian
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1770.1.1:
-  pop:
-    ethnicity: iberian_la_platan
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1822.9.7:
   owner: BRAZ
   controller: BRAZ

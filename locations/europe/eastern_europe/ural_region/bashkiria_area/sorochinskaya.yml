@@ -1,10 +1,9 @@
 #imported from EU4 file: history/provinces/1965 - Buzuluk.txt
 2.1.1:
-  pop:
-    ethnicity: bolghar_culture
-    religion: 
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: 
+      estate: peasant
+      size: 1000
 660.1.1:
   owner: VBUL
   controller: VBUL
@@ -12,20 +11,18 @@
     VBUL: yes
   resource: iron
 960.1.1:
-  pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1236.1.1:
   owner: MGE
   controller: MGE
   cores:
     MGE: yes
 1250.1.1:
-  pop:
-    ethnicity: nogai
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1260.1.1:
   owner: WHHO
   controller: WHHO
@@ -60,11 +57,10 @@
   cores:
     NOGA: no
     RUS: yes
-  pop:
-    ethnicity: muscovite
-    religion: orthodox
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: orthodox
+      estate: peasant
+      size: 1000
 1775.2.1:
   controller: RUS
 1922.12.30:

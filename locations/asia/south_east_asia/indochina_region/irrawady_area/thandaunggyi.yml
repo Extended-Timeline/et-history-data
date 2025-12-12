@@ -5,31 +5,27 @@
   cores:
     SRKS: yes
   resource: chinaware
-  pop:
-    ethnicity: pyu
-    religion: theravada
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: theravada
+      estate: peasant
+      size: 1000
 820.1.1:
-  pop:
-    religion: tibetan_buddhism
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 900.1.1:
-  pop:
-    ethnicity: burmese_culture
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1044.1.1:
   owner: PAGA
   controller: PAGA
   cores:
     PAGA: yes
 1050.1.1:
-  pop:
-    religion: theravada
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1279.4.17:
   owner: TNG
   controller: TNG

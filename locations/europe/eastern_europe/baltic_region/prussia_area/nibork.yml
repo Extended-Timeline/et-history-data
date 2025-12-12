@@ -5,11 +5,10 @@
   cores:
     PRUS: yes
   resource: naval_supplies
-  pop:
-    ethnicity: pruthenian
-    religion: romuva
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: romuva
+      estate: peasant
+      size: 1000
 860.1.1:
   owner: PRUS
   controller: PRUS
@@ -20,11 +19,10 @@
   controller: TEU
   cores:
     TEU: yes
-  pop:
-    ethnicity: prussian
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: catholic
+      estate: peasant
+      size: 1000
 1300.1.1:
   cores:
     PRUS: no
@@ -41,10 +39,9 @@
   cores:
     TEU: no
     POL: no
-  pop:
-    religion: lutheran
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1618.8.28:
   owner: BRA
   controller: BRA
@@ -60,10 +57,9 @@
 1762.5.5:
   controller: PRU
 1800.1.1:
-  pop:
-    ethnicity: lesser_polish
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1871.1.18:
   owner: GER
   controller: GER
@@ -78,7 +74,6 @@
   cores:
     GER: no
     POL: yes
-  pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000

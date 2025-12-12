@@ -5,26 +5,23 @@
   cores:
     BUYE: yes
   resource: iron
-  pop:
-    ethnicity: buyeo
-    religion: 
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: 
+      estate: peasant
+      size: 1000
 410.1.1:
   owner: GOGU
   controller: GOGU
   cores:
     GOGU: yes
 520.1.1:
-  pop:
-    religion: mahayana
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 650.1.1:
-  pop:
-    ethnicity: khitan
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 668.1.1:
   owner: SUMO
   controller: SUMO
@@ -56,15 +53,13 @@
     JIN0: no
     MGE: yes
 1220.1.1:
-  pop:
-    ethnicity: chahar
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1265.1.1:
-  pop:
-    religion: tibetan_buddhism
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1271.1.1:
   owner: YUA
   controller: YUA
@@ -90,10 +85,9 @@
     MCH: no
     QNG: yes
 1875.1.1:
-  pop:
-    ethnicity: manchu_new
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1912.2.12:
   owner: CHI
   controller: CHI

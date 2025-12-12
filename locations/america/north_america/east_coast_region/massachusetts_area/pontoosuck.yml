@@ -1,21 +1,19 @@
 #imported from EU4 file: history/provinces/4874 - Westenhuck.txt
 2.1.1:
-  pop:
-    ethnicity: mahican_culture
-    religion: iroquoian_totemism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: iroquoian_totemism
+      estate: peasant
+      size: 1000
 1635.1.1:
   owner: ENG
   controller: ENG
   cores:
     ENG: yes
   resource: grain
-  pop:
-    ethnicity: english
-    religion: calvinist
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: calvinist
+      estate: peasant
+      size: 1000
 1707.5.12:
   owner: GBR
   controller: GBR
@@ -23,10 +21,9 @@
     ENG: no
     GBR: yes
 1764.4.7:
-  pop:
-    ethnicity: american
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1776.7.4:
   owner: USA
   controller: USA
@@ -36,7 +33,6 @@
   cores:
     GBR: no
 1840.1.1:
-  pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000

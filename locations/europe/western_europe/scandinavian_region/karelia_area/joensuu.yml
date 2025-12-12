@@ -1,10 +1,9 @@
 #imported from EU4 file: history/provinces/4124 - Karelia.txt
 2.1.1:
-  pop:
-    ethnicity: karelian
-    religion: muinaisusko
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: muinaisusko
+      estate: peasant
+      size: 1000
 750.1.1:
   owner: KAKI
   controller: KAKI
@@ -17,10 +16,9 @@
   cores:
     KAKI: no
     NOV: yes
-  pop:
-    religion: orthodox
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1478.1.15:
   owner: MOS
   controller: MOS
@@ -54,11 +52,10 @@
 1640.1.1:
   cores:
     FIN: yes
-  pop:
-    ethnicity: finnish
-    religion: lutheran
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: lutheran
+      estate: peasant
+      size: 1000
 1710.9.8:
   controller: RUS
 1721.8.30:

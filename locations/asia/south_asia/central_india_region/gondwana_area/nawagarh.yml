@@ -5,21 +5,19 @@
   cores:
     RATA: yes
   resource: grain
-  pop:
-    ethnicity: chhattisgarhi
-    religion: mahayana
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: mahayana
+      estate: peasant
+      size: 1000
 175.1.1:
   owner: DAKS
   controller: DAKS
   cores:
     DAKS: yes
 300.1.1:
-  pop:
-    religion: hindu
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 320.1.1:
   owner: VAKA
   controller: VAKA

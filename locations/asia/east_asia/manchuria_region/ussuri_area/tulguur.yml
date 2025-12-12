@@ -1,10 +1,9 @@
 #imported from EU4 file: history/provinces/731 - Yichun.txt
 2.1.1:
-  pop:
-    ethnicity: jurchen_culture
-    religion: 
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: 
+      estate: peasant
+      size: 1000
 600.1.1:
   owner: HSMO
   controller: HSMO
@@ -52,10 +51,9 @@
   controller: MCH
   cores:
     MCH: yes
-  pop:
-    ethnicity: manchu_new
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1636.5.15:
   owner: QNG
   controller: QNG
@@ -63,10 +61,9 @@
     MCH: no
     QNG: yes
 1900.1.1:
-  pop:
-    religion: sanjiao
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1912.2.12:
   owner: CHI
   controller: CHI

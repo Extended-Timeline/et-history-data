@@ -1,19 +1,17 @@
 #imported from EU4 file: history/provinces/2442 - Ust-Kut.txt
 2.1.1:
-  pop:
-    ethnicity: buryat_culture
-    religion: 
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: 
+      estate: peasant
+      size: 1000
 1632.1.1:
   owner: RUS
   controller: RUS
   resource: fish
-  pop:
-    ethnicity: muscovite
-    religion: orthodox
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: orthodox
+      estate: peasant
+      size: 1000
 1634.1.1:
   cores:
     RUS: yes

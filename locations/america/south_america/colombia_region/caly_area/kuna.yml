@@ -1,20 +1,18 @@
 #imported from EU4 file: history/provinces/4596 - Kuna.txt
 2.1.1:
-  pop:
-    ethnicity: wayuu_culture
-    religion: muisca_religion
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: muisca_religion
+      estate: peasant
+      size: 1000
 1509.1.1:
   owner: CAS
   controller: CAS
   cores:
     CAS: yes
   resource: naval_supplies
-  pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1516.1.23:
   owner: SPA
   controller: SPA

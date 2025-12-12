@@ -5,11 +5,10 @@
   cores:
     NARA: yes
   resource: sugar
-  pop:
-    ethnicity: yucatec_culture
-    religion: mayan
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: mayan
+      estate: peasant
+      size: 1000
 820.1.1:
   owner: TIKA
   controller: TIKA
@@ -35,11 +34,10 @@
 1638.1.1:
   owner: ENG
   controller: ENG
-  pop:
-    ethnicity: english
-    religion: lutheran
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: lutheran
+      estate: peasant
+      size: 1000
 1663.1.1:
   cores:
     ENG: yes
@@ -50,15 +48,13 @@
     ENG: no
     GBR: yes
 1800.1.1:
-  pop:
-    ethnicity: british_mexican
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1940.1.1:
-  pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1981.9.21:
   owner: BELI
   controller: BELI

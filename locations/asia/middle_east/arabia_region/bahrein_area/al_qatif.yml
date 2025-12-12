@@ -5,21 +5,19 @@
   cores:
     GERR: yes
   resource: fish
-  pop:
-    ethnicity: bahrani_culture
-    religion: south_arabian
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: south_arabian
+      estate: peasant
+      size: 1000
 220.1.1:
   owner: LAKH
   controller: LAKH
   cores:
     GERR: no
     LAKH: yes
-  pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 325.1.1:
   owner: ERA
   controller: ERA
@@ -27,10 +25,9 @@
     LAKH: no
     ERA: yes
 431.7.1:
-  pop:
-    religion: nestorianism
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 609.1.1:
   owner: ALHA
   controller: ALHA
@@ -42,20 +39,18 @@
   controller: RASH
   cores:
     RASH: yes
-  pop:
-    religion: islam
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 661.7.28:
   owner: UMAY
   controller: UMAY
   cores:
     RASH: no
     UMAY: yes
-  pop:
-    religion: shia
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 750.8.6:
   owner: ABBA
   controller: ABBA

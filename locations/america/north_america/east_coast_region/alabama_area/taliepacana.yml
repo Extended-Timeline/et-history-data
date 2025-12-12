@@ -5,11 +5,10 @@
   cores:
     ATAH: yes
   resource: cotton
-  pop:
-    ethnicity: choctaw_culture
-    religion: iroquoian_totemism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: iroquoian_totemism
+      estate: peasant
+      size: 1000
 1320.1.1:
   owner: CHC
   controller: CHC
@@ -27,11 +26,10 @@
   controller: USA
   cores:
     USA: yes
-  pop:
-    ethnicity: british_louisianan
-    religion: lutheran
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: lutheran
+      estate: peasant
+      size: 1000
 1861.1.11:
   owner: CSAM
   controller: CSAM

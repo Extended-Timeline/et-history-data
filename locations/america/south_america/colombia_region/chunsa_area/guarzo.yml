@@ -1,27 +1,24 @@
 #imported from EU4 file: history/provinces/827 - Antioquia.txt
 2.1.1:
-  pop:
-    ethnicity: muisca_culture
-    religion: muisca_religion
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: muisca_religion
+      estate: peasant
+      size: 1000
 1616.1.1:
   owner: SPA
   controller: SPA
   resource: coffee
-  pop:
-    ethnicity: castilian
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: catholic
+      estate: peasant
+      size: 1000
 1641.1.1:
   cores:
     SPA: yes
 1770.1.1:
-  pop:
-    ethnicity: iberian_colombian
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1810.7.20:
   owner: COLO
   controller: COLO

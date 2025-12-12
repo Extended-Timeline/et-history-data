@@ -6,11 +6,10 @@
     HAN0: yes
     WUU: yes
   resource: salt
-  pop:
-    ethnicity: zhuang_culture
-    religion: bimoism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: bimoism
+      estate: peasant
+      size: 1000
 9.1.10:
   owner: XIN0
   controller: XIN0
@@ -87,10 +86,9 @@
     LIAN: no
     TANG: yes
 650.1.1:
-  pop:
-    religion: sanjiao
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 907.6.1:
   owner: CHU0
   controller: CHU0

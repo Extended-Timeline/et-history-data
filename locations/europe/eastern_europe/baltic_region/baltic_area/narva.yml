@@ -1,10 +1,9 @@
 #imported from EU4 file: history/provinces/1842 - Narva.txt
 2.1.1:
-  pop:
-    ethnicity: estonian
-    religion: muinaisusko
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: muinaisusko
+      estate: peasant
+      size: 1000
 550.1.1:
   owner: ESTO
   controller: ESTO
@@ -16,10 +15,9 @@
   controller: DAN
   cores:
     DAN: yes
-  pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1300.1.1:
   cores:
     ESTO: no
@@ -30,10 +28,9 @@
     DAN: no
     LIV: yes
 1542.1.1:
-  pop:
-    religion: lutheran
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1558.5.11:
   owner: RUS
   controller: RUS
@@ -54,10 +51,9 @@
     SWE: no
     RUS: yes
 1780.1.1:
-  pop:
-    religion: orthodox
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1869.1.1:
   cores:
     ESTO: yes

@@ -5,37 +5,33 @@
   cores:
     GOTH: yes
   resource: fish
-  pop:
-    ethnicity: gothic
-    religion: germanic
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: germanic
+      estate: peasant
+      size: 1000
 140.1.1:
   owner: LEMO
   controller: LEMO
   cores:
     GOTH: no
     LEMO: yes
-  pop:
-    ethnicity: western_pomeranian
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 500.1.1:
   owner: POME
   controller: POME
   cores:
     LEMO: no
     POME: yes
-  pop:
-    ethnicity: kashubian
-    religion: romuva
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: romuva
+      estate: peasant
+      size: 1000
 880.1.1:
-  pop:
-    religion: slavic
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 965.1.1:
   owner: POL
   controller: POL
@@ -61,10 +57,9 @@
   controller: DAN
   cores:
     DAN: yes
-  pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1227.1.1:
   owner: POM
   controller: POM
@@ -93,18 +88,16 @@
     BRA: no
     WOL: yes
 1350.1.1:
-  pop:
-    ethnicity: western_pomeranian
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1529.1.1:
   cores:
     BRA: yes
 1534.1.1:
-  pop:
-    religion: lutheran
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1648.10.24:
   owner: BRA
   controller: BRA
@@ -132,8 +125,7 @@
     GER: no
     POL: yes
 1950.1.1:
-  pop:
-    ethnicity: lesser_polish
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: catholic
+      estate: peasant
+      size: 1000

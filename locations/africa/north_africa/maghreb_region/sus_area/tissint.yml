@@ -5,11 +5,10 @@
   cores:
     SOS: yes
   resource: grain
-  pop:
-    ethnicity: masmuda
-    religion: bantu_religion
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: bantu_religion
+      estate: peasant
+      size: 1000
 789.1.1:
   owner: MOR
   controller: MOR
@@ -17,10 +16,9 @@
     SOS: no
     MOR: yes
 850.1.1:
-  pop:
-    religion: shia
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 922.1.1:
   owner: FATI
   controller: FATI
@@ -46,10 +44,9 @@
     SIJI: no
     MOR: yes
 1050.1.1:
-  pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1124.1.1:
   owner: SOS
   controller: SOS

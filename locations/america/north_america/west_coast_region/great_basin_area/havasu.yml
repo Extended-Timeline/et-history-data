@@ -1,21 +1,19 @@
 #imported from EU4 file: history/provinces/867 - Mojave.txt
 2.1.1:
-  pop:
-    ethnicity: pima_culture
-    religion: iroquoian_totemism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: iroquoian_totemism
+      estate: peasant
+      size: 1000
 1830.1.1:
   owner: MEX
   controller: MEX
   cores:
     MEX: yes
   resource: wool
-  pop:
-    ethnicity: mexican
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: catholic
+      estate: peasant
+      size: 1000
 1846.8.13:
   controller: USA
 1848.2.2:
@@ -24,7 +22,6 @@
     MEX: no
     USA: yes
 1940.1.1:
-  pop:
-    ethnicity: british_californian
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000

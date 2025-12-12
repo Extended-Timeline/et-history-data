@@ -5,11 +5,10 @@
   cores:
     PART: yes
   resource: livestock
-  pop:
-    ethnicity: assyrian
-    religion: ashurism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: ashurism
+      estate: peasant
+      size: 1000
 116.1.1:
   owner: ROM
   controller: ROM
@@ -31,15 +30,13 @@
     PART: no
     ERA: yes
 230.1.1:
-  pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 431.7.1:
-  pop:
-    religion: nestorianism
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 634.1.1:
   owner: RASH
   controller: RASH
@@ -59,10 +56,9 @@
     UMAY: no
     ABBA: yes
 780.1.1:
-  pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 942.1.1:
   owner: MOSU
   controller: MOSU
@@ -119,10 +115,9 @@
     MGE: no
     ILK: yes
 1300.1.1:
-  pop:
-    ethnicity: iraqi_culture
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1335.1.1:
   owner: JAL
   controller: JAL

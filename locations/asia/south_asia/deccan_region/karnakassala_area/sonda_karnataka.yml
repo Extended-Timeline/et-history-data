@@ -5,11 +5,10 @@
   cores:
     PUZH: yes
   resource: spices
-  pop:
-    ethnicity: kannadiga
-    religion: jain
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: jain
+      estate: peasant
+      size: 1000
 250.1.1:
   owner: VAKA
   controller: VAKA
@@ -41,10 +40,9 @@
     RAST: no
     KADA: yes
 1300.1.1:
-  pop:
-    religion: hindu
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1310.1.1:
   owner: DLH
   controller: DLH

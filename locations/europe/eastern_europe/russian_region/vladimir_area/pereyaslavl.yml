@@ -1,10 +1,9 @@
 #imported from EU4 file: history/provinces/4253 - Yuriev.txt
 2.1.1:
-  pop:
-    ethnicity: merya_culture
-    religion: muinaisusko
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: muinaisusko
+      estate: peasant
+      size: 1000
 600.1.1:
   owner: MERY
   controller: MERY
@@ -18,11 +17,10 @@
     MERY: no
     KIEV: yes
 1040.1.1:
-  pop:
-    ethnicity: muscovite
-    religion: orthodox
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: orthodox
+      estate: peasant
+      size: 1000
 1054.2.20:
   owner: VLR
   controller: VLR

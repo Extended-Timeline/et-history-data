@@ -5,38 +5,34 @@
   cores:
     BAST: yes
   resource: dyes
-  pop:
-    ethnicity: pannonian
-    religion: druidism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: druidism
+      estate: peasant
+      size: 1000
 150.1.1:
-  pop:
-    ethnicity: gothic
-    religion: germanic
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: germanic
+      estate: peasant
+      size: 1000
 200.1.1:
   owner: GEPI
   controller: GEPI
   cores:
     BAST: no
     GEPI: yes
-  pop:
-    ethnicity: gepid
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 450.1.1:
   owner: WHCR
   controller: WHCR
   cores:
     GEPI: no
     WHCR: yes
-  pop:
-    ethnicity: ruthenian
-    religion: slavic
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: slavic
+      estate: peasant
+      size: 1000
 804.1.1:
   owner: HUN
   controller: HUN
@@ -57,10 +53,9 @@
     POL: no
     KIEV: yes
 988.1.1:
-  pop:
-    religion: orthodox
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1054.2.20:
   owner: HAL
   controller: HAL

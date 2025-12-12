@@ -1,10 +1,9 @@
 #imported from EU4 file: history/provinces/652 - Maguindanae.txt
 2.1.1:
-  pop:
-    ethnicity: cebuano_culture
-    religion: bimoism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: bimoism
+      estate: peasant
+      size: 1000
 1200.1.1:
   owner: MAGU
   controller: MAGU
@@ -12,10 +11,9 @@
     MAGU: yes
   resource: spices
 1520.1.1:
-  pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1872.1.1:
   cores:
     PHIL: yes

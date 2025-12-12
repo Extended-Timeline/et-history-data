@@ -5,21 +5,18 @@
   cores:
     HANL: yes
   resource: cotton
-  pop:
-    ethnicity: pyu
-    religion: theravada
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: theravada
+      estate: peasant
+      size: 1000
 800.1.1:
-  pop:
-    ethnicity: burmese_culture
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 850.1.1:
-  pop:
-    religion: tibetan_buddhism
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 870.1.1:
   owner: TAGA
   controller: TAGA
@@ -31,10 +28,9 @@
   cores:
     PAGA: yes
 1080.1.1:
-  pop:
-    religion: theravada
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1287.7.1:
   owner: MYIN
   controller: MYIN

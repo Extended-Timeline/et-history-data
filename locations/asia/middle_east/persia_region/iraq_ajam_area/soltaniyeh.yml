@@ -5,11 +5,10 @@
   cores:
     PART: yes
   resource: wine
-  pop:
-    ethnicity: talysh_culture
-    religion: zoroastrian
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: zoroastrian
+      estate: peasant
+      size: 1000
 224.4.24:
   owner: ERA
   controller: ERA
@@ -46,10 +45,9 @@
   cores:
     SELJ: yes
 1060.1.1:
-  pop:
-    ethnicity: azeri_culture
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1157.5.8:
   owner: AZER
   controller: AZER
@@ -76,10 +74,9 @@
     MGE: no
     ILK: yes
 1310.1.1:
-  pop:
-    religion: shia
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1335.1.1:
   owner: TABR
   controller: TABR

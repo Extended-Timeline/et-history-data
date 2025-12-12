@@ -5,21 +5,19 @@
   cores:
     FRI: yes
   resource: cloth
-  pop:
-    ethnicity: frisian
-    religion: germanic
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: germanic
+      estate: peasant
+      size: 1000
 734.1.1:
   owner: FRAN
   controller: FRAN
   cores:
     FRAN: yes
 780.1.1:
-  pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 840.6.21:
   owner: MFRA
   controller: MFRA
@@ -36,10 +34,9 @@
     MFRA: no
     LOT: yes
 867.1.1:
-  pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 870.8.8:
   cores:
     LOT: no
@@ -57,10 +54,9 @@
     FRI: no
     HOL: yes
 1120.1.1:
-  pop:
-    ethnicity: low_franconian
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1477.1.5:
   owner: HAB
   controller: HAB
@@ -79,10 +75,9 @@
     SPA: no
     NED: yes
 1572.1.1:
-  pop:
-    religion: calvinist
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1786.10.13:
   controller: NED
 1810.7.10:
@@ -110,7 +105,6 @@
 1970.1.1:
   resource: electronics
 2005.1.1:
-  pop:
-    religion: irreligious
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000

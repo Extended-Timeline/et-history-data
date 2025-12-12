@@ -5,11 +5,10 @@
   cores:
     HUYN: yes
   resource: tropical_wood
-  pop:
-    ethnicity: cham_culture
-    religion: hindu
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: hindu
+      estate: peasant
+      size: 1000
 192.1.1:
   owner: CHAM
   controller: CHAM
@@ -33,11 +32,10 @@
     TONK: no
     ANNA: yes
 1600.1.1:
-  pop:
-    ethnicity: vietnamese_culture
-    religion: mahayana
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: mahayana
+      estate: peasant
+      size: 1000
 1776.1.1:
   owner: DAI
   controller: DAI

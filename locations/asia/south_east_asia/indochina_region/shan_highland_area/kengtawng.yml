@@ -5,27 +5,24 @@
   cores:
     WAS: yes
   resource: cotton
-  pop:
-    ethnicity: wa_culture
-    religion: bimoism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: bimoism
+      estate: peasant
+      size: 1000
 650.1.1:
   owner: MNI
   controller: MNI
   cores:
     WAS: no
     MNI: yes
-  pop:
-    ethnicity: tai_lu_culture
-    religion: satsana_phi
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: satsana_phi
+      estate: peasant
+      size: 1000
 1050.1.1:
-  pop:
-    religion: theravada
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1959.1.1:
   owner: BURM
   controller: BURM

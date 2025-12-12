@@ -5,11 +5,10 @@
   cores:
     KUSH: yes
   resource: livestock
-  pop:
-    ethnicity: sogdian
-    religion: mahayana
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: mahayana
+      estate: peasant
+      size: 1000
 230.1.1:
   owner: BADA
   controller: BADA
@@ -28,15 +27,13 @@
     HEPH: no
     BADA: yes
 800.1.1:
-  pop:
-    ethnicity: tajik_culture
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1065.1.1:
-  pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1219.1.1:
   owner: MGE
   controller: MGE
@@ -66,10 +63,9 @@
   cores:
     ZUNG: yes
 1750.1.1:
-  pop:
-    religion: shia
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1755.1.1:
   owner: YARK
   controller: YARK

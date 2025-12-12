@@ -5,16 +5,14 @@
   cores:
     ROM: yes
   resource: naval_supplies
-  pop:
-    ethnicity: ligurian
-    religion: hellenism_religion
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: hellenism_religion
+      estate: peasant
+      size: 1000
 340.1.1:
-  pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -28,10 +26,9 @@
     ROMW: no
     VISG: yes
 500.1.1:
-  pop:
-    ethnicity: gothic
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 508.1.1:
   owner: OSTR
   controller: OSTR
@@ -72,10 +69,9 @@
   cores:
     ASTS: no
 600.1.1:
-  pop:
-    ethnicity: languedocien
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 612.1.1:
   owner: ASTS
   controller: ASTS
@@ -120,10 +116,9 @@
   cores:
     ITA: yes
 867.1.1:
-  pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 879.1.1:
   owner: PRO
   controller: PRO
@@ -171,10 +166,9 @@
 1591.4.5:
   controller: FRA
 1850.1.1:
-  pop:
-    ethnicity: french
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1870.9.4:
   owner: FRA
   controller: FRA

@@ -1,26 +1,23 @@
 #imported from EU4 file: history/provinces/4607 - Pijaos.txt
 2.1.1:
-  pop:
-    ethnicity: muisca_culture
-    religion: muisca_religion
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: muisca_religion
+      estate: peasant
+      size: 1000
 1538.9.6:
   owner: SPA
   controller: SPA
   cores:
     SPA: yes
   resource: grain
-  pop:
-    ethnicity: castilian
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: catholic
+      estate: peasant
+      size: 1000
 1770.1.1:
-  pop:
-    ethnicity: iberian_colombian
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1810.7.20:
   owner: COLO
   controller: COLO

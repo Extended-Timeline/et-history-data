@@ -1,10 +1,9 @@
 #imported from EU4 file: history/provinces/35 - Osel.txt
 2.1.1:
-  pop:
-    ethnicity: estonian
-    religion: muinaisusko
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: muinaisusko
+      estate: peasant
+      size: 1000
 550.1.1:
   owner: ESTO
   controller: ESTO
@@ -16,18 +15,16 @@
   controller: LIV
   cores:
     LIV: yes
-  pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1300.1.1:
   cores:
     ESTO: no
 1542.1.1:
-  pop:
-    religion: lutheran
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1559.1.1:
   owner: DAN
   controller: DAN
@@ -75,7 +72,6 @@
     RUS: no
     SOVI: no
 2020.1.1:
-  pop:
-    religion: irreligious
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000

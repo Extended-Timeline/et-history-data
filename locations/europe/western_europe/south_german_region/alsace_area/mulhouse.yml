@@ -5,16 +5,14 @@
   cores:
     ROM: yes
   resource: cloth
-  pop:
-    ethnicity: high_alemannic
-    religion: germanic
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: germanic
+      estate: peasant
+      size: 1000
 360.1.1:
-  pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -45,10 +43,9 @@
     TAIW: no
     LOT: yes
 867.1.1:
-  pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 870.8.8:
   owner: EFRA
   controller: EFRA
@@ -86,10 +83,9 @@
   cores:
     BUR: no
 1529.1.1:
-  pop:
-    religion: calvinist
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1670.1.1:
   cores:
     FRA: yes
@@ -127,7 +123,6 @@
   cores:
     GER: no
 1946.1.1:
-  pop:
-    ethnicity: french
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000

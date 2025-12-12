@@ -5,11 +5,10 @@
   cores:
     WSAT: yes
   resource: grain
-  pop:
-    ethnicity: saurashtri
-    religion: jain
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: jain
+      estate: peasant
+      size: 1000
 260.1.1:
   owner: ABHI
   controller: ABHI
@@ -53,10 +52,9 @@
     CHAL: no
     BAGL: yes
 1250.1.1:
-  pop:
-    religion: hindu
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1317.1.1:
   owner: DLH
   controller: DLH

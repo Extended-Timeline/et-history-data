@@ -5,11 +5,10 @@
   cores:
     DACI: yes
   resource: livestock
-  pop:
-    ethnicity: dacian
-    religion: zamolxism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: zamolxism
+      estate: peasant
+      size: 1000
 106.1.1:
   owner: ROM
   controller: ROM
@@ -24,15 +23,13 @@
   cores:
     ROM: no
     VISG: yes
-  pop:
-    ethnicity: gothic
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 290.1.1:
-  pop:
-    religion: germanic
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 376.1.1:
   owner: HUNS
   controller: HUNS
@@ -40,10 +37,9 @@
     VISG: no
     HUNS: yes
 400.1.1:
-  pop:
-    religion: 
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 469.1.1:
   owner: GEPI
   controller: GEPI
@@ -62,15 +58,13 @@
   cores:
     AVR: no
     BUL: yes
-  pop:
-    ethnicity: wallachian
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 867.1.1:
-  pop:
-    religion: orthodox
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1003.1.1:
   owner: HUN
   controller: HUN

@@ -1,10 +1,9 @@
 #imported from EU4 file: history/provinces/474 - Yaik.txt
 2.1.1:
-  pop:
-    ethnicity: hunnic
-    religion: 
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: 
+      estate: peasant
+      size: 1000
 160.1.1:
   owner: HUNS
   controller: HUNS
@@ -14,20 +13,18 @@
 376.1.1:
   cores:
     KHAZ: yes
-  pop:
-    ethnicity: khazar
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 448.1.1:
   owner: KHAZ
   controller: KHAZ
   cores:
     HUNS: no
 593.1.1:
-  pop:
-    ethnicity: pecheneg
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 820.1.1:
   owner: PECH
   controller: PECH
@@ -40,25 +37,22 @@
   cores:
     PECH: no
     CUMA: yes
-  pop:
-    ethnicity: cuman_culture
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1100.1.1:
-  pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1236.1.1:
   owner: MGE
   controller: MGE
   cores:
     CUMA: no
     MGE: yes
-  pop:
-    ethnicity: nogai
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1260.1.1:
   owner: WHHO
   controller: WHHO
@@ -92,11 +86,10 @@
   cores:
     NOGA: no
     RUS: yes
-  pop:
-    ethnicity: muscovite
-    religion: orthodox
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: orthodox
+      estate: peasant
+      size: 1000
 1775.2.1:
   controller: RUS
 1917.12.13:

@@ -1,10 +1,9 @@
 #imported from EU4 file: history/provinces/300 - Tula.txt
 2.1.1:
-  pop:
-    ethnicity: meschera_culture
-    religion: muinaisusko
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: muinaisusko
+      estate: peasant
+      size: 1000
 600.1.1:
   owner: MESC
   controller: MESC
@@ -17,16 +16,14 @@
   cores:
     MESC: no
     KIEV: yes
-  pop:
-    ethnicity: muscovite
-    religion: slavic
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: slavic
+      estate: peasant
+      size: 1000
 1050.1.1:
-  pop:
-    religion: orthodox
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1054.2.20:
   owner: CHR
   controller: CHR

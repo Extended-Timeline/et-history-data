@@ -5,11 +5,10 @@
   cores:
     NARA: yes
   resource: cocoa
-  pop:
-    ethnicity: putun_culture
-    religion: mayan
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: mayan
+      estate: peasant
+      size: 1000
 820.1.1:
   owner: TIKA
   controller: TIKA
@@ -37,11 +36,10 @@
   controller: ENG
   cores:
     ENG: yes
-  pop:
-    ethnicity: english
-    religion: lutheran
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: lutheran
+      estate: peasant
+      size: 1000
 1707.5.12:
   owner: GBR
   controller: GBR
@@ -49,10 +47,9 @@
     ENG: no
     GBR: yes
 1800.1.1:
-  pop:
-    ethnicity: british_mexican
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1981.9.21:
   owner: BELI
   controller: BELI

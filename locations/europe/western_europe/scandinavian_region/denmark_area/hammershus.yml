@@ -5,11 +5,10 @@
   cores:
     HERU: yes
   resource: fish
-  pop:
-    ethnicity: danish
-    religion: norse
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: norse
+      estate: peasant
+      size: 1000
 380.1.1:
   owner: DAN
   controller: DAN
@@ -17,15 +16,13 @@
     HERU: no
     DAN: yes
 950.1.1:
-  pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1536.3.15:
-  pop:
-    religion: lutheran
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1658.2.26:
   owner: SWE
   controller: SWE

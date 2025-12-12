@@ -5,11 +5,10 @@
   cores:
     ROM: yes
   resource: wool
-  pop:
-    ethnicity: basque
-    religion: bimoism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: bimoism
+      estate: peasant
+      size: 1000
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -17,10 +16,9 @@
     ROM: no
     ROMW: yes
 420.1.1:
-  pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 456.1.1:
   owner: VISG
   controller: VISG
@@ -35,15 +33,13 @@
   cores:
     ROMW: no
 480.1.1:
-  pop:
-    religion: arianism
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 570.1.1:
-  pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 711.1.1:
   owner: UMAY
   controller: UMAY
@@ -62,15 +58,13 @@
   cores:
     CRDB: no
     ARA: yes
-  pop:
-    ethnicity: aragonese
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 867.1.1:
-  pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 922.1.1:
   owner: NAV
   controller: NAV

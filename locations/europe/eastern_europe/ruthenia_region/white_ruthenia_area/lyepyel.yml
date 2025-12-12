@@ -1,10 +1,9 @@
 #imported from EU4 file: history/provinces/275 - Polotsk.txt
 2.1.1:
-  pop:
-    ethnicity: polatskian_culture
-    religion: slavic
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: slavic
+      estate: peasant
+      size: 1000
 550.1.1:
   owner: KRIV
   controller: KRIV
@@ -24,10 +23,9 @@
   cores:
     POK: yes
 988.1.1:
-  pop:
-    religion: orthodox
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1054.2.20:
   cores:
     KIEV: no

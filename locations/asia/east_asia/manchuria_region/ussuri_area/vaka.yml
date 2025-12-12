@@ -5,11 +5,10 @@
   cores:
     YILO: yes
   resource: naval_supplies
-  pop:
-    ethnicity: jurchen_culture
-    religion: 
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: 
+      estate: peasant
+      size: 1000
 500.1.1:
   owner: GOGU
   controller: GOGU
@@ -56,10 +55,9 @@
   controller: MCH
   cores:
     MCH: yes
-  pop:
-    ethnicity: manchu_new
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1636.5.15:
   owner: QNG
   controller: QNG
@@ -79,11 +77,10 @@
     RUS: no
     SOVI: yes
 1970.1.1:
-  pop:
-    ethnicity: muscovite
-    religion: orthodox
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: orthodox
+      estate: peasant
+      size: 1000
 1991.12.25:
   owner: RUS
   controller: RUS

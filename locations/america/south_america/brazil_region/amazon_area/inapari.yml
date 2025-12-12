@@ -1,10 +1,9 @@
 #imported from EU4 file: history/provinces/2830 - Quero.txt
 2.1.1:
-  pop:
-    ethnicity: inka_culture
-    religion: inti
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: inti
+      estate: peasant
+      size: 1000
 1200.1.1:
   owner: CSU
   controller: CSU
@@ -21,21 +20,19 @@
   controller: SPA
   cores:
     SPA: yes
-  pop:
-    ethnicity: castilian
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: catholic
+      estate: peasant
+      size: 1000
 1537.1.1:
   controller: SPA
 1558.1.1:
   cores:
     SPA: yes
 1770.1.1:
-  pop:
-    ethnicity: iberian_peruvian
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1816.1.1:
   controller: SPA
 1821.7.28:

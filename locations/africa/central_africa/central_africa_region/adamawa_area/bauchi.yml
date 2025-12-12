@@ -1,10 +1,9 @@
 #imported from EU4 file: history/provinces/1161 - Bauchi.txt
 2.1.1:
-  pop:
-    ethnicity: hausa
-    religion: bantu_religion
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: bantu_religion
+      estate: peasant
+      size: 1000
 1400.1.1:
   owner: KWAR
   controller: KWAR
@@ -17,10 +16,9 @@
   cores:
     SOKO: yes
 1830.1.1:
-  pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1903.1.1:
   owner: GBR
   controller: GBR

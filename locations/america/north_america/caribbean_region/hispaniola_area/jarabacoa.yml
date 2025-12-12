@@ -1,20 +1,18 @@
 #imported from EU4 file: history/provinces/4620 - Ciguayo.txt
 2.1.1:
-  pop:
-    ethnicity: arawak_culture
-    religion: muisca_religion
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: muisca_religion
+      estate: peasant
+      size: 1000
 1502.1.1:
   owner: CAS
   controller: CAS
   cores:
     CAS: yes
-  pop:
-    ethnicity: castilian
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: catholic
+      estate: peasant
+      size: 1000
 1510.1.1:
   resource: sugar
 1516.1.23:
@@ -24,10 +22,9 @@
     CAS: no
     SPA: yes
 1780.1.1:
-  pop:
-    ethnicity: iberian_caribbean
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1821.12.1:
   owner: DOMR
   controller: DOMR

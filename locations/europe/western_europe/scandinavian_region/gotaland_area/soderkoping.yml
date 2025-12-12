@@ -1,10 +1,9 @@
 #imported from EU4 file: history/provinces/2 - Ostergotland.txt
 2.1.1:
-  pop:
-    ethnicity: gutnish
-    religion: norse
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: norse
+      estate: peasant
+      size: 1000
 350.1.1:
   owner: EGEA
   controller: EGEA
@@ -18,15 +17,13 @@
     EGEA: no
     SWE: yes
 980.1.1:
-  pop:
-    ethnicity: swedish
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1000.1.1:
-  pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1487.5.24:
   controller: SWE
 1497.3.13:
@@ -38,7 +35,6 @@
 1503.6.1:
   controller: SWE
 1527.6.1:
-  pop:
-    religion: lutheran
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000

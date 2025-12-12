@@ -5,16 +5,14 @@
   cores:
     ROM: yes
   resource: fish
-  pop:
-    ethnicity: ligurian
-    religion: hellenism_religion
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: hellenism_religion
+      estate: peasant
+      size: 1000
 380.1.1:
-  pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -69,10 +67,9 @@
   cores:
     ITA: yes
 867.1.1:
-  pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 879.1.1:
   owner: PRO
   controller: PRO
@@ -149,10 +146,9 @@
   cores:
     FRA: yes
 1880.1.1:
-  pop:
-    ethnicity: french
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1940.6.10:
   controller: ITA
 1940.6.14:

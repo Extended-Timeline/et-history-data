@@ -5,31 +5,28 @@
   cores:
     CHTU: yes
   resource: naval_supplies
-  pop:
-    ethnicity: malay_culture
-    religion: mahayana
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: mahayana
+      estate: peasant
+      size: 1000
 600.1.1:
   owner: LGK
   controller: LGK
   cores:
     LGK: yes
 650.1.1:
-  pop:
-    religion: hindu
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1267.1.1:
   owner: KELN
   controller: KELN
   cores:
     LGK: no
     KELN: yes
-  pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1512.1.1:
   owner: PATT
   controller: PATT

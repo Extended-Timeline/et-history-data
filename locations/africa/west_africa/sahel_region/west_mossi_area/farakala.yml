@@ -1,10 +1,9 @@
 #imported from EU4 file: history/provinces/2250 - Bendugu.txt
 2.1.1:
-  pop:
-    ethnicity: bambara
-    religion: bantu_religion
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: bantu_religion
+      estate: peasant
+      size: 1000
 1150.1.1:
   owner: KNG
   controller: KNG
@@ -35,10 +34,9 @@
     JENN: no
     KNG: yes
 1850.1.1:
-  pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1888.2.20:
   owner: FRA
   controller: FRA

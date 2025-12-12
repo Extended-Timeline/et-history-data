@@ -1,21 +1,19 @@
 #imported from EU4 file: history/provinces/4863 - Nyaki Nyaki.txt
 2.1.1:
-  pop:
-    ethnicity: noongar_culture
-    religion: dreamtime_religion
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: dreamtime_religion
+      estate: peasant
+      size: 1000
 1870.1.1:
   owner: GBR
   controller: GBR
   cores:
     GBR: yes
   resource: livestock
-  pop:
-    ethnicity: british_australian
-    religion: lutheran
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: lutheran
+      estate: peasant
+      size: 1000
 1901.1.1:
   owner: AUST
   controller: AUST

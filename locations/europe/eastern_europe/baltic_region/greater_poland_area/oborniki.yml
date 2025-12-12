@@ -5,37 +5,33 @@
   cores:
     BUR: yes
   resource: salt
-  pop:
-    ethnicity: burgundione
-    religion: germanic
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: germanic
+      estate: peasant
+      size: 1000
 280.1.1:
   owner: LEMO
   controller: LEMO
   cores:
     BUR: no
     LEMO: yes
-  pop:
-    ethnicity: western_pomeranian
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 395.1.1:
   owner: POL
   controller: POL
   cores:
     LEMO: no
     POL: yes
-  pop:
-    ethnicity: lesser_polish
-    religion: slavic
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: slavic
+      estate: peasant
+      size: 1000
 966.1.1:
-  pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1138.10.28:
   owner: GPOL
   controller: GPOL

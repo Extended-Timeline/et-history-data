@@ -5,26 +5,23 @@
   cores:
     SADI: yes
   resource: tea
-  pop:
-    ethnicity: dimasa_culture
-    religion: bimoism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: bimoism
+      estate: peasant
+      size: 1000
 450.1.1:
   owner: KAMA
   controller: KAMA
   cores:
     KAMA: yes
 550.1.1:
-  pop:
-    religion: hindu
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 950.1.1:
-  pop:
-    ethnicity: kamarupi
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1100.1.1:
   owner: SADI
   controller: SADI

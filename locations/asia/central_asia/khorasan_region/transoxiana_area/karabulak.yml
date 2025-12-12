@@ -5,11 +5,10 @@
   cores:
     KAGJ: yes
   resource: tea
-  pop:
-    ethnicity: sogdian
-    religion: zoroastrian
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: zoroastrian
+      estate: peasant
+      size: 1000
 320.1.1:
   owner: KIDA
   controller: KIDA
@@ -69,15 +68,13 @@
     KOKA: no
     KKHA: yes
 870.1.1:
-  pop:
-    ethnicity: uzbek_culture
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 880.1.1:
-  pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 991.1.1:
   owner: TRAN
   controller: TRAN

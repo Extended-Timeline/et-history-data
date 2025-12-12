@@ -5,11 +5,10 @@
   cores:
     ZAP: yes
   resource: sugar
-  pop:
-    ethnicity: zapotec_culture
-    religion: nahuatl
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: nahuatl
+      estate: peasant
+      size: 1000
 1490.1.1:
   owner: AZTE
   controller: AZTE
@@ -21,16 +20,14 @@
   cores:
     SPA: yes
 1529.1.1:
-  pop:
-    ethnicity: castilian
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: catholic
+      estate: peasant
+      size: 1000
 1770.1.1:
-  pop:
-    ethnicity: mexican
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1810.9.16:
   owner: MEX
   controller: SPA

@@ -5,11 +5,10 @@
   cores:
     ROM: yes
   resource: salt
-  pop:
-    ethnicity: gallian
-    religion: druidism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: druidism
+      estate: peasant
+      size: 1000
 260.1.1:
   cores:
     GALL: yes
@@ -29,26 +28,22 @@
   cores:
     ROMW: no
     BUR: yes
-  pop:
-    ethnicity: burgundione
-    religion: germanic
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: germanic
+      estate: peasant
+      size: 1000
 450.1.1:
-  pop:
-    religion: arianism
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 486.6.1:
-  pop:
-    ethnicity: burgundian
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 500.1.1:
-  pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 534.1.1:
   owner: NEUS
   controller: NEUS
@@ -108,10 +103,9 @@
     MFRA: no
     LOT: yes
 867.1.1:
-  pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 870.8.8:
   owner: EFRA
   controller: EFRA

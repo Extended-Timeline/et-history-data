@@ -5,11 +5,10 @@
   cores:
     HERM: yes
   resource: grain
-  pop:
-    ethnicity: east_franconian
-    religion: germanic
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: germanic
+      estate: peasant
+      size: 1000
 390.1.1:
   owner: THU
   controller: THU
@@ -17,10 +16,9 @@
     HERM: no
     THU: yes
 470.1.1:
-  pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 531.1.1:
   owner: ASTS
   controller: ASTS
@@ -73,10 +71,9 @@
   cores:
     THU: yes
 867.1.1:
-  pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 908.8.3:
   owner: EFRA
   controller: EFRA
@@ -96,10 +93,9 @@
     FKN: no
     THU: yes
 1031.1.1:
-  pop:
-    ethnicity: saxon
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1046.1.24:
   owner: MEI
   controller: MEI
@@ -111,10 +107,9 @@
   cores:
     MEI: no
 1531.1.1:
-  pop:
-    religion: lutheran
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1871.1.18:
   owner: GER
   controller: GER
@@ -132,10 +127,9 @@
   cores:
     EGER: yes
 1985.1.1:
-  pop:
-    religion: irreligious
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1990.10.3:
   owner: GER
   controller: GER

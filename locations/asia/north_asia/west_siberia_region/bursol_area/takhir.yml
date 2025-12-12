@@ -5,11 +5,10 @@
   cores:
     XION: yes
   resource: fish
-  pop:
-    ethnicity: kyrgyz_culture
-    religion: 
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: 
+      estate: peasant
+      size: 1000
 260.1.1:
   owner: TIEL
   controller: TIEL
@@ -35,10 +34,9 @@
     UYGH: no
     KIME: yes
 1100.1.1:
-  pop:
-    religion: mahayana
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1124.1.1:
   owner: KKHI
   controller: KKHI
@@ -52,11 +50,10 @@
     KKHI: no
     MGE: yes
 1240.1.1:
-  pop:
-    ethnicity: khazak
-    religion: 
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: 
+      estate: peasant
+      size: 1000
 1260.1.1:
   owner: BLHO
   controller: BLHO
@@ -69,10 +66,9 @@
   cores:
     GLH: yes
 1380.1.1:
-  pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1394.1.1:
   owner: KAZA
   controller: KAZA

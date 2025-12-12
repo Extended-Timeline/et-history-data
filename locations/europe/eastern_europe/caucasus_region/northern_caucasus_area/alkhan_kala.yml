@@ -5,11 +5,10 @@
   cores:
     ALN: yes
   resource: livestock
-  pop:
-    ethnicity: avar_culture
-    religion: 
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: 
+      estate: peasant
+      size: 1000
 440.1.1:
   owner: SARI
   controller: SARI
@@ -17,30 +16,26 @@
     ALN: no
     SARI: yes
 550.1.1:
-  pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 780.1.1:
-  pop:
-    ethnicity: lezgin_culture
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 867.1.1:
-  pop:
-    religion: orthodox
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1200.1.1:
   owner: AVR
   controller: AVR
   cores:
     SARI: no
     AVR: yes
-  pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1236.1.1:
   owner: MGE
   controller: MGE

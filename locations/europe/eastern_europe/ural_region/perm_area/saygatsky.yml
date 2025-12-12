@@ -1,10 +1,9 @@
 #imported from EU4 file: history/provinces/305 - Perm.txt
 2.1.1:
-  pop:
-    ethnicity: udmurt
-    religion: muinaisusko
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: muinaisusko
+      estate: peasant
+      size: 1000
 750.1.1:
   owner: UDMU
   controller: UDMU
@@ -25,10 +24,9 @@
     WHHO: yes
     PRM: yes
 1280.1.1:
-  pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1372.1.1:
   owner: BLHO
   controller: BLHO
@@ -57,11 +55,10 @@
     KAZN: no
     RUS: yes
 1553.1.1:
-  pop:
-    ethnicity: muscovite
-    religion: orthodox
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: orthodox
+      estate: peasant
+      size: 1000
 1922.12.30:
   owner: SOVI
   controller: SOVI

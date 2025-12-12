@@ -5,11 +5,10 @@
   cores:
     DAMN: yes
   resource: wool
-  pop:
-    ethnicity: cumbric
-    religion: druidism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: druidism
+      estate: peasant
+      size: 1000
 78.1.1:
   owner: ROM
   controller: ROM
@@ -33,10 +32,9 @@
     BRIG: no
     RHEG: yes
 450.1.1:
-  pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 480.6.1:
   cores:
     ROMW: no
@@ -47,10 +45,9 @@
     RHEG: no
     STRA: yes
 867.1.1:
-  pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 945.1.1:
   owner: SCO
   controller: SCO
@@ -58,19 +55,17 @@
     STRA: no
     SCO: yes
 1066.12.25:
-  pop:
-    ethnicity: scottish
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1092.1.1:
   owner: ENG
   controller: ENG
   cores:
     ENG: yes
-  pop:
-    ethnicity: english
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1136.1.1:
   owner: SCO
   controller: SCO
@@ -80,10 +75,9 @@
   cores:
     SCO: no
 1585.1.1:
-  pop:
-    religion: lutheran
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1645.6.28:
   controller: SCO
 1646.5.5:

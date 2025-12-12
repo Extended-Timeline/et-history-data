@@ -5,11 +5,10 @@
   cores:
     PTA4: yes
   resource: livestock
-  pop:
-    ethnicity: afar_culture
-    religion: south_arabian
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: south_arabian
+      estate: peasant
+      size: 1000
 128.1.1:
   owner: AFAR
   controller: AFAR
@@ -23,9 +22,8 @@
     AKSM: yes
     AFAR: no
 450.1.1:
-  pop:
-    estate: peasant
-    size: 1000
+  pops:
+    - size: 1000
 630.1.1:
   owner: AFAR
   controller: AFAR
@@ -33,10 +31,9 @@
     AKSM: no
     AFAR: yes
 900.1.1:
-  pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1420.1.1:
   owner: ADA
   controller: ADA

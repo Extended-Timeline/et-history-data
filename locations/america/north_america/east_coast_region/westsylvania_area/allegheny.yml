@@ -1,58 +1,52 @@
 #imported from EU4 file: history/provinces/2555 - Honniasont.txt
 2.1.1:
-  pop:
-    ethnicity: tionontate_culture
-    religion: iroquoian_totemism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: iroquoian_totemism
+      estate: peasant
+      size: 1000
 1656.1.1:
   cores:
     ???: yes
   resource: fur
-  pop:
-    ethnicity: onondowaga_culture
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1754.4.18:
   owner: FRA
   controller: FRA
   cores:
     FRA: yes
-  pop:
-    ethnicity: french
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: catholic
+      estate: peasant
+      size: 1000
 1763.2.10:
   owner: GBR
   controller: GBR
   cores:
     FRA: no
     GBR: yes
-  pop:
-    ethnicity: english
-    religion: lutheran
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: lutheran
+      estate: peasant
+      size: 1000
 1763.10.9:
   cores:
     GBR: no
     ???: yes
-  pop:
-    ethnicity: onondowaga_culture
-    religion: iroquoian_totemism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: iroquoian_totemism
+      estate: peasant
+      size: 1000
 1768.11.5:
   owner: GBR
   controller: GBR
   cores:
     GBR: yes
-  pop:
-    ethnicity: american
-    religion: lutheran
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: lutheran
+      estate: peasant
+      size: 1000
 1776.7.4:
   owner: USA
   controller: USA

@@ -5,11 +5,10 @@
   cores:
     ULS: yes
   resource: wool
-  pop:
-    ethnicity: irish
-    religion: druidism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: druidism
+      estate: peasant
+      size: 1000
 450.1.1:
   owner: TYR
   controller: TYR
@@ -17,15 +16,13 @@
     ULS: no
     TYR: yes
 700.1.1:
-  pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 867.1.1:
-  pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1004.1.1:
   owner: IRE
   controller: IRE
@@ -42,11 +39,10 @@
   cores:
     ENG: yes
 1609.1.1:
-  pop:
-    ethnicity: english
-    religion: lutheran
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: lutheran
+      estate: peasant
+      size: 1000
 1642.6.7:
   cores:
     IRE: yes
@@ -71,11 +67,10 @@
   cores:
     TYR: no
 1999.1.1:
-  pop:
-    ethnicity: irish
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: catholic
+      estate: peasant
+      size: 1000
 1999.12.1:
   cores:
     IRE: no

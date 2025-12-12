@@ -5,32 +5,29 @@
   cores:
     QUAD: yes
   resource: grain
-  pop:
-    ethnicity: quadian
-    religion: germanic
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: germanic
+      estate: peasant
+      size: 1000
 509.1.1:
   owner: LOMB
   controller: LOMB
   cores:
     QUAD: no
     LOMB: yes
-  pop:
-    ethnicity: langobardi
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 569.1.1:
   owner: MVA
   controller: MVA
   cores:
     LOMB: no
     MVA: yes
-  pop:
-    ethnicity: czech
-    religion: slavic
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: slavic
+      estate: peasant
+      size: 1000
 623.1.1:
   owner: SAMO
   controller: SAMO
@@ -42,15 +39,13 @@
   cores:
     SAMO: no
 831.1.1:
-  pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 867.1.1:
-  pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 902.1.1:
   owner: HUN
   controller: HUN
@@ -107,10 +102,9 @@
   cores:
     GER: no
 1980.1.1:
-  pop:
-    religion: irreligious
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1992.12.31:
   owner: CZEC
   controller: CZEC

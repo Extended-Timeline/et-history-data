@@ -5,11 +5,10 @@
   cores:
     HERU: yes
   resource: livestock
-  pop:
-    ethnicity: scanian
-    religion: norse
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: norse
+      estate: peasant
+      size: 1000
 380.1.1:
   owner: DAN
   controller: DAN
@@ -17,15 +16,13 @@
     HERU: no
     DAN: yes
 450.1.1:
-  pop:
-    ethnicity: danish
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 950.1.1:
-  pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1000.1.1:
   cores:
     SWE: yes
@@ -33,20 +30,18 @@
   controller: DAN
 1536.3.15:
   controller: DAN
-  pop:
-    religion: lutheran
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1658.2.26:
   owner: SWE
   controller: SWE
   cores:
     SWE: yes
 1722.1.1:
-  pop:
-    ethnicity: swedish
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1850.1.1:
   cores:
     DAN: no

@@ -5,11 +5,10 @@
   cores:
     VASC: yes
   resource: iron
-  pop:
-    ethnicity: basque
-    religion: bimoism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: bimoism
+      estate: peasant
+      size: 1000
 14.1.1:
   owner: ROM
   controller: ROM
@@ -22,10 +21,9 @@
     ROM: no
     ROMW: yes
 420.1.1:
-  pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 455.1.1:
   owner: VASC
   controller: VASC
@@ -50,10 +48,9 @@
     UMAY: no
     ASTU: yes
 867.1.1:
-  pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 924.1.1:
   owner: LON
   controller: LON

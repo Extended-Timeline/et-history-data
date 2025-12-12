@@ -5,21 +5,19 @@
   cores:
     LOMB: yes
   resource: salt
-  pop:
-    ethnicity: langobardi
-    religion: germanic
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: germanic
+      estate: peasant
+      size: 1000
 300.1.1:
   owner: SAX
   controller: SAX
   cores:
     LOMB: no
     SAX: yes
-  pop:
-    ethnicity: saxon
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 804.1.1:
   owner: FRAN
   controller: FRAN
@@ -32,20 +30,18 @@
     FRAN: no
     EFRA: yes
 900.1.1:
-  pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 911.11.10:
   owner: SAX
   controller: SAX
   cores:
     EFRA: no
 1100.1.1:
-  pop:
-    ethnicity: lower_saxon
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1180.1.1:
   owner: BRU
   controller: BRU
@@ -59,10 +55,9 @@
     BRU: no
     LUN: yes
 1529.1.1:
-  pop:
-    religion: lutheran
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1705.8.28:
   owner: HAN
   controller: HAN
@@ -104,7 +99,6 @@
   cores:
     WGER: no
 2020.1.1:
-  pop:
-    religion: irreligious
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000

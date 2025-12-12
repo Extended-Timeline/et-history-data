@@ -1,15 +1,13 @@
 #imported from EU4 file: history/provinces/1190 - Zumbo.txt
 2.1.1:
-  pop:
-    ethnicity: zembere
-    religion: bantu_religion
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: bantu_religion
+      estate: peasant
+      size: 1000
 300.1.1:
-  pop:
-    ethnicity: tonga
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1350.1.1:
   owner: TONG
   controller: TONG

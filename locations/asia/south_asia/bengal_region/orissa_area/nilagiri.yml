@@ -5,11 +5,10 @@
   cores:
     KALI: yes
   resource: iron
-  pop:
-    ethnicity: garjati
-    religion: hindu
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: hindu
+      estate: peasant
+      size: 1000
 150.1.1:
   owner: KJA
   controller: KJA

@@ -1,10 +1,9 @@
 #imported from EU4 file: history/provinces/4066 - Nkore.txt
 2.1.1:
-  pop:
-    ethnicity: baganda_culture
-    religion: bantu_religion
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: bantu_religion
+      estate: peasant
+      size: 1000
 1350.1.1:
   owner: NKO
   controller: NKO
@@ -16,10 +15,9 @@
   controller: GBR
   cores:
     GBR: yes
-  pop:
-    religion: lutheran
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1962.10.9:
   owner: UGAN
   controller: UGAN

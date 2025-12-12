@@ -5,11 +5,10 @@
   cores:
     GAGG: yes
   resource: copper
-  pop:
-    ethnicity: malay_culture
-    religion: hindu
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: hindu
+      estate: peasant
+      size: 1000
 770.1.1:
   owner: SRIV
   controller: SRIV
@@ -21,10 +20,9 @@
   cores:
     SRIV: no
 1136.1.1:
-  pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1180.1.1:
   owner: PERA
   controller: PERA

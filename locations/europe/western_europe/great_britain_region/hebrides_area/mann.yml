@@ -5,11 +5,10 @@
   cores:
     DAMN: yes
   resource: fish
-  pop:
-    ethnicity: pictish
-    religion: druidism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: druidism
+      estate: peasant
+      size: 1000
 84.1.1:
   owner: ULS
   controller: ULS
@@ -22,15 +21,13 @@
     ULS: no
     STRA: yes
 430.1.1:
-  pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 450.1.1:
-  pop:
-    ethnicity: highland
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 495.1.1:
   owner: MNN
   controller: MNN
@@ -42,10 +39,9 @@
   cores:
     GWYN: yes
 867.1.1:
-  pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 902.1.1:
   owner: MNN
   controller: MNN
@@ -75,10 +71,9 @@
   cores:
     ENG: yes
 1585.1.1:
-  pop:
-    religion: lutheran
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1707.5.12:
   owner: GBR
   controller: GBR

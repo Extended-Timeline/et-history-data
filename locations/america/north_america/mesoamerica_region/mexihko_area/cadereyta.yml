@@ -5,11 +5,10 @@
   cores:
     TEOT: yes
   resource: cotton
-  pop:
-    ethnicity: nahua_culture
-    religion: nahuatl
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: nahuatl
+      estate: peasant
+      size: 1000
 496.1.1:
   owner: TOLT
   controller: TOLT
@@ -27,10 +26,9 @@
   controller: SPA
   cores:
     SPA: yes
-  pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1810.9.16:
   owner: MEX
   controller: SPA

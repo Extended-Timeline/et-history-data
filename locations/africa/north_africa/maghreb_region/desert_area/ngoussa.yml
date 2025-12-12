@@ -5,11 +5,10 @@
   cores:
     MZB: yes
   resource: slaves
-  pop:
-    ethnicity: zenati
-    religion: bantu_religion
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: bantu_religion
+      estate: peasant
+      size: 1000
 660.1.1:
   owner: AURE
   controller: AURE
@@ -22,10 +21,9 @@
   cores:
     MZB: yes
 780.1.1:
-  pop:
-    religion: ibadi
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 909.1.1:
   owner: TGT
   controller: TGT

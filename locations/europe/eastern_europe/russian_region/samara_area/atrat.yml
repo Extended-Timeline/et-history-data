@@ -1,10 +1,9 @@
 #imported from EU4 file: history/provinces/1081 - Simbirsk.txt
 2.1.1:
-  pop:
-    ethnicity: bolghar_culture
-    religion: 
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: 
+      estate: peasant
+      size: 1000
 660.1.1:
   owner: VBUL
   controller: VBUL
@@ -12,10 +11,9 @@
     VBUL: yes
   resource: iron
 922.1.1:
-  pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1236.1.1:
   owner: MGE
   controller: MGE
@@ -23,10 +21,9 @@
     MGE: yes
     KAZN: yes
 1250.1.1:
-  pop:
-    ethnicity: kazani
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1260.1.1:
   owner: WHHO
   controller: WHHO
@@ -62,11 +59,10 @@
     KAZN: no
     RUS: yes
 1648.1.1:
-  pop:
-    ethnicity: muscovite
-    religion: orthodox
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: orthodox
+      estate: peasant
+      size: 1000
 1671.4.14:
   controller: RUS
 1775.2.1:

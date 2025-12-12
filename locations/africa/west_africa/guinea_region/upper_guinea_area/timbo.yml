@@ -1,10 +1,9 @@
 #imported from EU4 file: history/provinces/1117 - Futa Jallon.txt
 2.1.1:
-  pop:
-    ethnicity: fulbe
-    religion: bantu_religion
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: bantu_religion
+      estate: peasant
+      size: 1000
 1240.1.1:
   owner: MAL
   controller: MAL
@@ -20,10 +19,9 @@
   cores:
     FUL: yes
 1732.1.1:
-  pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1896.1.1:
   owner: FRA
   controller: FRA

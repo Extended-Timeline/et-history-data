@@ -1,10 +1,9 @@
 #imported from EU4 file: history/provinces/2293 - Yawuri.txt
 2.1.1:
-  pop:
-    ethnicity: hausa
-    religion: bantu_religion
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: bantu_religion
+      estate: peasant
+      size: 1000
 523.1.1:
   owner: KEB
   controller: KEB
@@ -23,10 +22,9 @@
   cores:
     SOKO: yes
 1840.1.1:
-  pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1903.1.1:
   owner: GBR
   controller: GBR

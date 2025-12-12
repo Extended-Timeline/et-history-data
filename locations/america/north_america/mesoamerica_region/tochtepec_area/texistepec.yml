@@ -5,26 +5,23 @@
   cores:
     YOK: yes
   resource: fish
-  pop:
-    ethnicity: chontal_culture
-    religion: mayan
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: mayan
+      estate: peasant
+      size: 1000
 1529.1.1:
   owner: SPA
   controller: SPA
   cores:
     SPA: yes
-  pop:
-    ethnicity: castilian
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: catholic
+      estate: peasant
+      size: 1000
 1770.1.1:
-  pop:
-    ethnicity: mexican
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1810.9.16:
   owner: MEX
   controller: SPA

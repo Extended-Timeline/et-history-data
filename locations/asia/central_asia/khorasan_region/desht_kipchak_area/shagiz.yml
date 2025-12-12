@@ -1,10 +1,9 @@
 #imported from EU4 file: history/provinces/470 - Bayuly.txt
 2.1.1:
-  pop:
-    ethnicity: hunnic
-    religion: 
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: 
+      estate: peasant
+      size: 1000
 160.1.1:
   owner: HUNS
   controller: HUNS
@@ -14,10 +13,9 @@
 370.1.1:
   cores:
     OGHU: yes
-  pop:
-    ethnicity: turkmen_culture
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 448.1.1:
   owner: OGHU
   controller: OGHU
@@ -29,10 +27,9 @@
   cores:
     OGHU: no
     WGOK: yes
-  pop:
-    ethnicity: pecheneg
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 659.1.1:
   owner: KANG
   controller: KANG
@@ -46,20 +43,18 @@
     KANG: no
     PECH: yes
 850.1.1:
-  pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 870.1.1:
   owner: CUMA
   controller: CUMA
   cores:
     PECH: no
     CUMA: yes
-  pop:
-    ethnicity: nogai
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1236.1.1:
   owner: MGE
   controller: MGE
@@ -84,10 +79,9 @@
   cores:
     NOGA: no
     KAZA: yes
-  pop:
-    ethnicity: khazak
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1824.1.1:
   owner: RUS
   controller: RUS

@@ -5,53 +5,47 @@
   cores:
     BAST: yes
   resource: grain
-  pop:
-    ethnicity: pannonian
-    religion: druidism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: druidism
+      estate: peasant
+      size: 1000
 150.1.1:
-  pop:
-    ethnicity: gothic
-    religion: germanic
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: germanic
+      estate: peasant
+      size: 1000
 200.1.1:
   owner: GEPI
   controller: GEPI
   cores:
     BAST: no
     GEPI: yes
-  pop:
-    ethnicity: gepid
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 469.1.1:
   owner: SCIR
   controller: SCIR
   cores:
     GEPI: no
     SCIR: yes
-  pop:
-    ethnicity: scirian
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 567.1.1:
   owner: AVR
   controller: AVR
   cores:
     SCIR: no
     AVR: yes
-  pop:
-    ethnicity: avar_culture
-    religion: 
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: 
+      estate: peasant
+      size: 1000
 750.1.1:
-  pop:
-    ethnicity: slovak
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 804.1.1:
   owner: HUN
   controller: HUN
@@ -59,10 +53,9 @@
     AVR: no
     HUN: yes
 1010.1.1:
-  pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1526.8.30:
   owner: HAB
   controller: HAB
@@ -70,10 +63,9 @@
     HAB: yes
     TRA: yes
 1545.1.1:
-  pop:
-    religion: lutheran
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1570.1.1:
   cores:
     TRA: no
@@ -82,10 +74,9 @@
 1626.1.1:
   controller: HAB
 1640.1.1:
-  pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1648.1.1:
   owner: TRA
   controller: TRA

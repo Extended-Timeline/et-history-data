@@ -5,11 +5,10 @@
   cores:
     OSRO: yes
   resource: wool
-  pop:
-    ethnicity: syriac_culture
-    religion: ashurism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: ashurism
+      estate: peasant
+      size: 1000
 91.1.1:
   owner: ARM
   controller: ARM
@@ -21,10 +20,9 @@
   cores:
     ARM: no
 110.1.1:
-  pop:
-    religion: zoroastrian
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 116.1.1:
   owner: ROM
   controller: ROM
@@ -36,10 +34,9 @@
   cores:
     ROM: no
 179.1.1:
-  pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 244.1.1:
   owner: ROM
   controller: ROM
@@ -60,15 +57,13 @@
     ROM: no
     BYZ: yes
 500.1.1:
-  pop:
-    ethnicity: greek_culture
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 512.11.16:
-  pop:
-    religion: miaphysite
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 613.1.1:
   controller: ERA
 627.1.1:
@@ -91,10 +86,9 @@
     UMAY: no
     ABBA: yes
 850.1.1:
-  pop:
-    ethnicity: kurdish_culture
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 911.1.1:
   owner: MOSU
   controller: MOSU
@@ -147,10 +141,9 @@
   cores:
     ANTI: no
 1100.1.1:
-  pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1144.12.24:
   owner: MOSU
   controller: MOSU
@@ -158,10 +151,9 @@
     EDES: no
     MOSU: yes
 1150.1.1:
-  pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1183.1.1:
   owner: EGY
   controller: EGY

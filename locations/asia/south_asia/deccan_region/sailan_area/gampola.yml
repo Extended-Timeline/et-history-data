@@ -5,11 +5,10 @@
   cores:
     MAYR: yes
   resource: gems
-  pop:
-    ethnicity: sinhalese
-    religion: theravada
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: theravada
+      estate: peasant
+      size: 1000
 1017.1.1:
   owner: CHOL
   controller: CHOL

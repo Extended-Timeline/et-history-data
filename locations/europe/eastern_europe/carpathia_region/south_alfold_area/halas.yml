@@ -5,21 +5,19 @@
   cores:
     IAZY: yes
   resource: wine
-  pop:
-    ethnicity: sarmatian
-    religion: 
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: 
+      estate: peasant
+      size: 1000
 300.1.1:
   owner: RUGI
   controller: RUGI
   cores:
     IAZY: no
     RUGI: yes
-  pop:
-    ethnicity: southern_bavarian
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 376.1.1:
   owner: HUNS
   controller: HUNS
@@ -32,30 +30,27 @@
   cores:
     HUNS: no
     SCIR: yes
-  pop:
-    ethnicity: scirian
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 469.1.1:
   owner: GEPI
   controller: GEPI
   cores:
     SCIR: no
     GEPI: yes
-  pop:
-    ethnicity: gepid
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 567.1.1:
   owner: AVR
   controller: AVR
   cores:
     GEPI: no
     AVR: yes
-  pop:
-    ethnicity: avar_culture
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 804.1.1:
   owner: BUL
   controller: BUL
@@ -63,10 +58,9 @@
     AVR: no
     BUL: yes
 880.1.1:
-  pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 884.1.1:
   owner: MVA
   controller: MVA
@@ -79,10 +73,9 @@
   cores:
     MVA: no
     HUN: yes
-  pop:
-    ethnicity: hungarian
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1507.1.1:
   controller: HUN
 1515.1.1:
@@ -94,10 +87,9 @@
     HAB: yes
     TRA: yes
 1540.1.1:
-  pop:
-    religion: calvinist
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1552.9.4:
   controller: TUR
 1562.6.1:
@@ -106,18 +98,16 @@
     HAB: no
     TUR: yes
 1567.1.1:
-  pop:
-    religion: calvinist
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1570.1.1:
   cores:
     TRA: no
 1660.1.1:
-  pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1684.1.1:
   controller: TUR
 1685.1.1:

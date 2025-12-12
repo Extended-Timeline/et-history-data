@@ -5,11 +5,10 @@
   cores:
     OHK: yes
   resource: salt
-  pop:
-    ethnicity: ancestral_pueblo_culture
-    religion: iroquoian_totemism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: iroquoian_totemism
+      estate: peasant
+      size: 1000
 1598.1.1:
   owner: SPA
   controller: SPA
@@ -23,16 +22,14 @@
   controller: SPA
   cores:
     SPA: yes
-  pop:
-    ethnicity: castilian
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: catholic
+      estate: peasant
+      size: 1000
 1770.1.1:
-  pop:
-    ethnicity: mexican
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1810.9.16:
   owner: MEX
   controller: SPA
@@ -47,10 +44,9 @@
   controller: TEXA
   cores:
     TEXA: yes
-  pop:
-    ethnicity: british_louisianan
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1845.12.29:
   owner: USA
   controller: USA
@@ -60,7 +56,6 @@
   cores:
     MEX: no
 1900.1.1:
-  pop:
-    ethnicity: british_californian
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000

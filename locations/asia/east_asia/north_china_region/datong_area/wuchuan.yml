@@ -5,11 +5,10 @@
   cores:
     XION: yes
   resource: iron
-  pop:
-    ethnicity: chahar
-    religion: 
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: 
+      estate: peasant
+      size: 1000
 48.1.1:
   owner: SXIO
   controller: SXIO
@@ -29,10 +28,9 @@
     ZHAO: no
     DDI: yes
 370.1.1:
-  pop:
-    ethnicity: khitan
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 376.1.1:
   owner: QIN0
   controller: QIN0
@@ -88,10 +86,9 @@
     TANG: no
     LIAO: yes
 950.1.1:
-  pop:
-    religion: mahayana
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1125.1.1:
   owner: XIA0
   controller: XIA0
@@ -99,15 +96,13 @@
     LIAO: no
     XIA0: yes
 1150.1.1:
-  pop:
-    religion: tibetan_buddhism
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1160.1.1:
-  pop:
-    ethnicity: chahar
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1227.1.1:
   owner: MGE
   controller: MGE
@@ -161,10 +156,9 @@
     QNG: no
     CHI: yes
 1920.1.1:
-  pop:
-    ethnicity: jin_culture
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1936.5.12:
   owner: MENG
   controller: MENG

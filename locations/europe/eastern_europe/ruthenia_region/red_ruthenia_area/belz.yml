@@ -5,43 +5,39 @@
   cores:
     VEND: yes
   resource: livestock
-  pop:
-    ethnicity: lesser_polish
-    religion: slavic
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: slavic
+      estate: peasant
+      size: 1000
 150.1.1:
   owner: GOTH
   controller: GOTH
   cores:
     VEND: no
     GOTH: yes
-  pop:
-    ethnicity: gothic
-    religion: germanic
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: germanic
+      estate: peasant
+      size: 1000
 220.1.1:
   owner: VEND
   controller: VEND
   cores:
     GOTH: no
     VEND: yes
-  pop:
-    ethnicity: lesser_polish
-    religion: slavic
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: slavic
+      estate: peasant
+      size: 1000
 550.1.1:
   owner: LEDN
   controller: LEDN
   cores:
     VEND: no
     LEDN: yes
-  pop:
-    ethnicity: ruthenian
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 981.1.1:
   owner: KIEV
   controller: KIEV
@@ -50,10 +46,9 @@
     KIEV: yes
     UKR: yes
 988.1.1:
-  pop:
-    religion: orthodox
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1018.7.1:
   owner: POL
   controller: POL
@@ -122,10 +117,9 @@
     PLC: yes
     POL: no
 1570.1.1:
-  pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1589.1.1:
   controller: PLC
 1735.1.1:

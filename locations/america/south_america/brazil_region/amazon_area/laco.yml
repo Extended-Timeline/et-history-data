@@ -1,21 +1,19 @@
 #imported from EU4 file: history/provinces/3035 - Acre.txt
 2.1.1:
-  pop:
-    ethnicity: moxo_culture
-    religion: muisca_religion
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: muisca_religion
+      estate: peasant
+      size: 1000
 1750.1.1:
   owner: SPA
   controller: SPA
   cores:
     BOLI: yes
   resource: coffee
-  pop:
-    ethnicity: iberian_peruvian
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: catholic
+      estate: peasant
+      size: 1000
 1775.1.1:
   cores:
     SPA: yes
@@ -38,10 +36,9 @@
 1899.1.1:
   cores:
     BRAZ: yes
-  pop:
-    ethnicity: brazilian
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1903.11.17:
   owner: BRAZ
   controller: BRAZ

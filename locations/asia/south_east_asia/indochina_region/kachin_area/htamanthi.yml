@@ -5,11 +5,10 @@
   cores:
     PONG: yes
   resource: tea
-  pop:
-    ethnicity: burmese_culture
-    religion: sanamahism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: sanamahism
+      estate: peasant
+      size: 1000
 1050.1.1:
   owner: PAGA
   controller: PAGA
@@ -17,10 +16,9 @@
     PONG: no
     PAGA: yes
 1150.1.1:
-  pop:
-    ethnicity: tai_lu_culture
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1215.1.1:
   owner: MYA
   controller: MYA
@@ -34,10 +32,9 @@
     MYA: no
     SHA: yes
 1520.1.1:
-  pop:
-    religion: theravada
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1604.1.1:
   owner: TNG
   controller: TNG

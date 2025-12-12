@@ -5,11 +5,10 @@
   cores:
     TAGA: yes
   resource: grain
-  pop:
-    ethnicity: zo_culture
-    religion: sanamahism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: sanamahism
+      estate: peasant
+      size: 1000
 1044.1.1:
   owner: PAGA
   controller: PAGA
@@ -46,10 +45,9 @@
   owner: TNG
   controller: TNG
 1620.1.1:
-  pop:
-    religion: theravada
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1752.2.28:
   owner: BURM
   controller: BURM

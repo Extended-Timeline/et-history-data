@@ -5,26 +5,23 @@
   cores:
     ROM: yes
   resource: grain
-  pop:
-    ethnicity: belgae
-    religion: druidism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: druidism
+      estate: peasant
+      size: 1000
 260.1.1:
   cores:
     GALL: yes
-  pop:
-    ethnicity: gallian
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 274.1.1:
   controller: ROM
   cores:
     GALL: no
-  pop:
-    ethnicity: belgae
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -45,20 +42,17 @@
   cores:
     SOIS: no
     FRAN: yes
-  pop:
-    ethnicity: frankish
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 486.6.1:
-  pop:
-    ethnicity: french
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 500.1.1:
-  pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 511.11.27:
   owner: NEUS
   controller: NEUS
@@ -100,10 +94,9 @@
   cores:
     FLA: yes
 867.1.1:
-  pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 987.7.3:
   owner: FRA
   controller: FRA

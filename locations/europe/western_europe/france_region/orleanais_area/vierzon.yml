@@ -5,11 +5,10 @@
   cores:
     ROM: yes
   resource: wine
-  pop:
-    ethnicity: gallian
-    religion: druidism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: druidism
+      estate: peasant
+      size: 1000
 260.1.1:
   cores:
     GALL: yes
@@ -18,10 +17,9 @@
   cores:
     GALL: no
 340.1.1:
-  pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -40,10 +38,9 @@
   cores:
     SOIS: no
     FRAN: yes
-  pop:
-    ethnicity: languedocien
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 511.11.27:
   owner: ORL
   controller: ORL
@@ -103,10 +100,9 @@
     FRAN: no
     WFRA: yes
 867.1.1:
-  pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 987.7.3:
   owner: FRA
   controller: FRA
@@ -114,10 +110,9 @@
     WFRA: no
     FRA: yes
 1050.1.1:
-  pop:
-    ethnicity: french
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1360.10.1:
   owner: BER
   controller: BER
@@ -129,17 +124,15 @@
   cores:
     FRA: yes
 1560.1.1:
-  pop:
-    religion: calvinist
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1652.10.21:
   controller: FRA
 1686.1.17:
-  pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1870.9.4:
   owner: FRA
   controller: FRA

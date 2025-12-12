@@ -5,11 +5,10 @@
   cores:
     XION: yes
   resource: livestock
-  pop:
-    ethnicity: rouran
-    religion: 
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: 
+      estate: peasant
+      size: 1000
 91.2.1:
   owner: XIAN
   controller: XIAN
@@ -29,10 +28,9 @@
     ROUR: no
     GOKT: yes
 550.1.1:
-  pop:
-    ethnicity: tuvan_culture
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 627.1.1:
   owner: XUEY
   controller: XUEY
@@ -50,10 +48,9 @@
   cores:
     GOKT: yes
 700.1.1:
-  pop:
-    ethnicity: mongolian_culture
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 744.1.1:
   owner: UYGH
   controller: UYGH
@@ -61,10 +58,9 @@
     GOKT: no
     UYGH: yes
 765.1.1:
-  pop:
-    religion: manichaeism
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 848.1.1:
   owner: NAIM
   controller: NAIM
@@ -72,10 +68,9 @@
     UYGH: no
     NAIM: yes
 850.1.1:
-  pop:
-    religion: nestorianism
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1204.1.1:
   owner: KHMO
   controller: KHMO
@@ -89,10 +84,9 @@
     KHMO: no
     MGE: yes
 1220.1.1:
-  pop:
-    religion: 
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1271.1.1:
   owner: YUA
   controller: YUA
@@ -112,10 +106,9 @@
     MGE: no
     OIR: yes
 1500.1.1:
-  pop:
-    religion: tibetan_buddhism
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1552.1.1:
   owner: MGE
   controller: MGE

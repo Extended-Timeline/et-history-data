@@ -5,33 +5,30 @@
   cores:
     DACI: yes
   resource: grain
-  pop:
-    ethnicity: dacian
-    religion: zamolxism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: zamolxism
+      estate: peasant
+      size: 1000
 150.1.1:
   owner: BAST
   controller: BAST
   cores:
     DACI: no
     BAST: yes
-  pop:
-    ethnicity: gothic
-    religion: germanic
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: germanic
+      estate: peasant
+      size: 1000
 370.1.1:
   owner: HUNS
   controller: HUNS
   cores:
     OSTR: no
     HUNS: yes
-  pop:
-    ethnicity: hunnic
-    religion: 
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: 
+      estate: peasant
+      size: 1000
 520.1.1:
   owner: ANTE
   controller: ANTE
@@ -44,10 +41,9 @@
   cores:
     ANTE: no
     AVR: yes
-  pop:
-    ethnicity: ruthenian
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 567.1.1:
   owner: TIVE
   controller: TIVE
@@ -71,15 +67,13 @@
   cores:
     PECH: yes
 940.1.1:
-  pop:
-    religion: orthodox
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 960.1.1:
-  pop:
-    ethnicity: wallachian
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1094.1.1:
   owner: CUMA
   controller: CUMA

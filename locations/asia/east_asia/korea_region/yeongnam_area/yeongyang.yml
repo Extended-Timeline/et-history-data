@@ -5,25 +5,22 @@
   cores:
     JINH: yes
   resource: cotton
-  pop:
-    ethnicity: jinhan
-    religion: muism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: muism
+      estate: peasant
+      size: 1000
 360.1.1:
   owner: SILL
   controller: SILL
   cores:
     SILL: yes
-  pop:
-    ethnicity: korean_culture
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 530.1.1:
-  pop:
-    religion: mahayana
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 935.1.1:
   owner: GORY
   controller: GORY
@@ -36,10 +33,9 @@
   cores:
     GORY: no
     KOR: yes
-  pop:
-    religion: sanjiao
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1592.5.26:
   controller: TOYO
 1598.12.24:
@@ -77,7 +73,6 @@
     SKOR: yes
     NKOR: yes
 1960.1.1:
-  pop:
-    religion: mahayana
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000

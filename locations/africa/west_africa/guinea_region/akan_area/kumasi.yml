@@ -1,10 +1,9 @@
 #imported from EU4 file: history/provinces/1138 - Kumasi.txt
 2.1.1:
-  pop:
-    ethnicity: akan
-    religion: bantu_religion
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: bantu_religion
+      estate: peasant
+      size: 1000
 1400.1.1:
   owner: DENK
   controller: DENK
@@ -23,10 +22,9 @@
   cores:
     GBR: yes
 1950.1.1:
-  pop:
-    religion: lutheran
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1957.3.6:
   owner: GHAN
   controller: GHAN

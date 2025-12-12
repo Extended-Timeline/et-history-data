@@ -1,10 +1,9 @@
 #imported from EU4 file: history/provinces/2789 - Las Khoray.txt
 2.1.1:
-  pop:
-    ethnicity: somali_culture
-    religion: bantu_religion
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: bantu_religion
+      estate: peasant
+      size: 1000
 850.1.1:
   owner: BOSA
   controller: BOSA
@@ -17,10 +16,9 @@
   cores:
     BOSA: no
     WAR: yes
-  pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1526.1.1:
   owner: ADA
   controller: ADA

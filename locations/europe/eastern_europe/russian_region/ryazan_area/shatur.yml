@@ -1,10 +1,9 @@
 #imported from EU4 file: history/provinces/307 - Vladimir.txt
 2.1.1:
-  pop:
-    ethnicity: meschera_culture
-    religion: muinaisusko
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: muinaisusko
+      estate: peasant
+      size: 1000
 600.1.1:
   owner: MESC
   controller: MESC
@@ -18,11 +17,10 @@
     MESC: no
     KIEV: yes
 1040.1.1:
-  pop:
-    ethnicity: muscovite
-    religion: orthodox
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: orthodox
+      estate: peasant
+      size: 1000
 1054.2.20:
   owner: VLR
   controller: VLR

@@ -5,11 +5,10 @@
   cores:
     ROM: yes
   resource: livestock
-  pop:
-    ethnicity: pannonian
-    religion: druidism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: druidism
+      estate: peasant
+      size: 1000
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -23,10 +22,9 @@
     ROMW: no
     OSTR: yes
 480.1.1:
-  pop:
-    religion: arianism
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 530.1.1:
   owner: GEPI
   controller: GEPI
@@ -40,18 +38,16 @@
     GEPI: no
     AVR: yes
 600.1.1:
-  pop:
-    religion: 
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 630.1.1:
   cores:
     CRO: yes
-  pop:
-    ethnicity: croatian
-    religion: slavic
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: slavic
+      estate: peasant
+      size: 1000
 790.1.1:
   owner: PANO
   controller: PANO
@@ -59,10 +55,9 @@
     AVR: no
     PANO: yes
 870.1.1:
-  pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 897.1.1:
   owner: CRO
   controller: CRO
@@ -85,10 +80,9 @@
   cores:
     TUR: yes
 1567.1.1:
-  pop:
-    religion: calvinist
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1606.1.1:
   controller: TUR
 1687.9.29:
@@ -104,10 +98,9 @@
   cores:
     HAB: no
     YUGO: yes
-  pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1941.4.6:
   owner: GER
   controller: GER

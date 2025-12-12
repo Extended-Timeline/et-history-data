@@ -5,11 +5,10 @@
   cores:
     RUGI: yes
   resource: fish
-  pop:
-    ethnicity: western_pomeranian
-    religion: germanic
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: germanic
+      estate: peasant
+      size: 1000
 140.1.1:
   owner: RUGE
   controller: RUGE
@@ -17,11 +16,10 @@
     RUGI: no
     RUGE: yes
 395.1.1:
-  pop:
-    ethnicity: polabian
-    religion: slavic
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: slavic
+      estate: peasant
+      size: 1000
 570.1.1:
   owner: OBOT
   controller: OBOT
@@ -39,15 +37,13 @@
   cores:
     DAN: yes
 1170.1.1:
-  pop:
-    ethnicity: western_pomeranian
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1220.1.1:
-  pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1227.1.1:
   owner: RUGE
   controller: RUGE
@@ -97,7 +93,6 @@
   cores:
     EGER: no
 2020.1.1:
-  pop:
-    religion: irreligious
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000

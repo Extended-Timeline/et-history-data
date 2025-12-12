@@ -5,21 +5,19 @@
   cores:
     KTU: yes
   resource: naval_supplies
-  pop:
-    ethnicity: newar_culture
-    religion: mahayana
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: mahayana
+      estate: peasant
+      size: 1000
 1093.1.1:
   owner: KHS
   controller: KHS
   cores:
     KHS: yes
 1100.1.1:
-  pop:
-    religion: hindu
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1380.1.1:
   owner: GRK
   controller: GRK

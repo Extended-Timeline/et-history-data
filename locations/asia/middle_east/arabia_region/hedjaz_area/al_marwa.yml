@@ -6,11 +6,10 @@
     NABA: yes
     LIHY: yes
   resource: salt
-  pop:
-    ethnicity: hijazi_culture
-    religion: south_arabian
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: south_arabian
+      estate: peasant
+      size: 1000
 106.1.1:
   owner: LIHY
   controller: LIHY
@@ -22,10 +21,9 @@
   controller: GHAS
   cores:
     GHAS: yes
-  pop:
-    ethnicity: najdi_culture
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 320.1.1:
   owner: GHAT
   controller: GHAT
@@ -39,20 +37,18 @@
     GHAT: no
     RASH: yes
 650.1.1:
-  pop:
-    religion: islam
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 661.7.28:
   owner: UMAY
   controller: UMAY
   cores:
     RASH: no
     UMAY: yes
-  pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 750.8.6:
   owner: ABBA
   controller: ABBA

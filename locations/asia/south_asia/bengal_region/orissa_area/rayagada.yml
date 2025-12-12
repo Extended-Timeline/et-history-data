@@ -5,11 +5,10 @@
   cores:
     KALI: yes
   resource: tropical_wood
-  pop:
-    ethnicity: garjati
-    religion: jain
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: jain
+      estate: peasant
+      size: 1000
 120.1.1:
   owner: SATA
   controller: SATA
@@ -27,10 +26,9 @@
   cores:
     KALI: yes
 400.1.1:
-  pop:
-    religion: hindu
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 498.1.1:
   owner: PARL
   controller: PARL

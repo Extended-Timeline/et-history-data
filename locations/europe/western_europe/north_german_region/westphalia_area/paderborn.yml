@@ -5,11 +5,10 @@
   cores:
     CHRS: yes
   resource: wool
-  pop:
-    ethnicity: rhine_franconian
-    religion: germanic
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: germanic
+      estate: peasant
+      size: 1000
 88.1.1:
   owner: CHTT
   controller: CHTT
@@ -22,10 +21,9 @@
   cores:
     CHTT: no
     ANGR: yes
-  pop:
-    ethnicity: eastphalian
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 600.1.1:
   owner: SAX
   controller: SAX
@@ -33,10 +31,9 @@
     ANGR: no
     SAX: yes
 620.1.1:
-  pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 804.1.1:
   owner: FRAN
   controller: FRAN
@@ -49,10 +46,9 @@
     FRAN: no
     EFRA: yes
 867.1.1:
-  pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 911.11.10:
   owner: SAX
   controller: SAX
@@ -68,10 +64,9 @@
   cores:
     MUN: yes
 1566.1.1:
-  pop:
-    religion: calvinist
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1568.1.1:
   owner: MUN
   controller: MUN
@@ -79,10 +74,9 @@
   owner: KOL
   controller: KOL
 1585.1.1:
-  pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1661.1.1:
   owner: MUN
   controller: MUN

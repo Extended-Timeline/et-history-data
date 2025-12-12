@@ -1,10 +1,9 @@
 #imported from EU4 file: history/provinces/2294 - Warri.txt
 2.1.1:
-  pop:
-    ethnicity: igbo
-    religion: bantu_religion
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: bantu_religion
+      estate: peasant
+      size: 1000
 948.1.1:
   owner: NRI
   controller: NRI
@@ -16,10 +15,9 @@
   controller: GBR
   cores:
     GBR: yes
-  pop:
-    religion: lutheran
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1960.10.1:
   owner: NIGR
   controller: NIGR

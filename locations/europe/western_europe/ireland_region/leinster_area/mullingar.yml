@@ -5,11 +5,10 @@
   cores:
     CNN: yes
   resource: livestock
-  pop:
-    ethnicity: irish
-    religion: druidism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: druidism
+      estate: peasant
+      size: 1000
 450.1.1:
   owner: MTH
   controller: MTH
@@ -23,15 +22,13 @@
     MTH: no
     FLY: yes
 700.1.1:
-  pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 867.1.1:
-  pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 897.1.1:
   owner: MTH
   controller: MTH

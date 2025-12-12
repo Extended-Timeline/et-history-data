@@ -5,11 +5,10 @@
   cores:
     PONT: yes
   resource: wine
-  pop:
-    ethnicity: circassian_culture
-    religion: georgian_religion
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: georgian_religion
+      estate: peasant
+      size: 1000
 62.1.1:
   owner: ROM
   controller: ROM
@@ -31,10 +30,9 @@
     BYZ: no
     LAZI: yes
 500.1.1:
-  pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 697.1.1:
   owner: ABKH
   controller: ABKH
@@ -42,10 +40,9 @@
     LAZI: no
     ABKH: yes
 867.1.1:
-  pop:
-    religion: orthodox
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1008.1.1:
   owner: GEO
   controller: GEO

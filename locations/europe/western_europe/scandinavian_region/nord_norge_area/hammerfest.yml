@@ -1,10 +1,9 @@
 #imported from EU4 file: history/provinces/315 - Finnmark.txt
 2.1.1:
-  pop:
-    ethnicity: sapmi
-    religion: muinaisusko
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: muinaisusko
+      estate: peasant
+      size: 1000
 750.1.1:
   owner: SMI
   controller: SMI
@@ -16,19 +15,17 @@
   controller: NOR
   cores:
     NOR: yes
-  pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1536.1.1:
   owner: DAN
   controller: DAN
   cores:
     DAN: yes
-  pop:
-    religion: lutheran
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1814.1.14:
   owner: SWE
   cores:
@@ -37,10 +34,9 @@
   owner: NOR
   controller: NOR
 1900.1.1:
-  pop:
-    ethnicity: norwegian
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1940.4.9:
   controller: GER
 1945.5.8:

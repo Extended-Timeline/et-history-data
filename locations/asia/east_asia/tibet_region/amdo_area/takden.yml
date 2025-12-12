@@ -5,11 +5,10 @@
   cores:
     QIAN: yes
   resource: livestock
-  pop:
-    ethnicity: amdowa_culture
-    religion: bon
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: bon
+      estate: peasant
+      size: 1000
 284.1.1:
   owner: TUYU
   controller: TUYU
@@ -17,20 +16,18 @@
     QIAN: no
     TUYU: yes
 300.1.1:
-  pop:
-    religion: 
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 634.1.1:
   owner: TIB
   controller: TIB
   cores:
     TIB: yes
 680.1.1:
-  pop:
-    religion: tibetan_buddhism
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 842.1.1:
   owner: PHAG
   controller: PHAG

@@ -5,16 +5,14 @@
   cores:
     GAYA: yes
   resource: grain
-  pop:
-    ethnicity: korean_culture
-    religion: muism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: muism
+      estate: peasant
+      size: 1000
 540.1.1:
-  pop:
-    religion: mahayana
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 562.1.1:
   owner: SILL
   controller: SILL
@@ -34,10 +32,9 @@
   cores:
     GORY: no
     KOR: yes
-  pop:
-    religion: sanjiao
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1592.5.26:
   controller: TOYO
 1598.12.24:
@@ -77,7 +74,6 @@
 1970.1.1:
   resource: electronics
 1971.1.1:
-  pop:
-    religion: mahayana
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000

@@ -1,21 +1,19 @@
 #imported from EU4 file: history/provinces/2479 - Maidu.txt
 2.1.1:
-  pop:
-    ethnicity: south_valley_yokut_culture
-    religion: iroquoian_totemism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: iroquoian_totemism
+      estate: peasant
+      size: 1000
 1830.1.1:
   owner: MEX
   controller: MEX
   cores:
     MEX: yes
   resource: grain
-  pop:
-    ethnicity: iberian_californian
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: catholic
+      estate: peasant
+      size: 1000
 1846.8.13:
   controller: USA
 1848.2.2:
@@ -23,14 +21,12 @@
   cores:
     MEX: no
     USA: yes
-  pop:
-    ethnicity: british_californian
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1850.1.1:
-  pop:
-    religion: lutheran
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1970.1.1:
   resource: electronics

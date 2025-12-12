@@ -4,29 +4,26 @@
   controller: COMA
   cores:
     COMA: yes
-  pop:
-    ethnicity: tukudeka_culture
-    religion: iroquoian_totemism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: iroquoian_totemism
+      estate: peasant
+      size: 1000
 1710.1.1:
   owner: ---
   controller: ---
   cores:
     COMA: no
 1760.1.1:
-  pop:
-    ethnicity: tsetsehesahese_culture
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1865.1.1:
   owner: USA
   controller: USA
   cores:
     USA: yes
   resource: grain
-  pop:
-    ethnicity: british_californian
-    religion: lutheran
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: lutheran
+      estate: peasant
+      size: 1000

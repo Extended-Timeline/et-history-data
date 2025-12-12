@@ -1,25 +1,22 @@
 #imported from EU4 file: history/provinces/3227 - Mahalapye.txt
 2.1.1:
-  pop:
-    ethnicity: kung_culture
-    religion: bantu_religion
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: bantu_religion
+      estate: peasant
+      size: 1000
 400.1.1:
-  pop:
-    ethnicity: tswana_culture
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1885.3.31:
   owner: GBR
   controller: GBR
   cores:
     GBR: yes
   resource: grain
-  pop:
-    religion: lutheran
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1966.9.30:
   owner: BOTS
   controller: BOTS

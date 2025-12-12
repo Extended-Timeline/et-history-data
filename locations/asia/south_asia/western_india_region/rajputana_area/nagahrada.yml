@@ -5,11 +5,10 @@
   cores:
     WSAT: yes
   resource: gold
-  pop:
-    ethnicity: marwari
-    religion: hindu
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: hindu
+      estate: peasant
+      size: 1000
 405.1.1:
   owner: GUPT
   controller: GUPT
@@ -75,15 +74,13 @@
     MEW: no
     GUJ: yes
 1150.1.1:
-  pop:
-    religion: jain
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1171.1.1:
-  pop:
-    religion: hindu
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1172.1.1:
   owner: MEW
   controller: MEW

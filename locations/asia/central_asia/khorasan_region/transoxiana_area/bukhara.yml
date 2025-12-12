@@ -6,11 +6,10 @@
     BUKH: yes
     KHWA: yes
   resource: salt
-  pop:
-    ethnicity: khwarezmian
-    religion: zoroastrian
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: zoroastrian
+      estate: peasant
+      size: 1000
 80.1.1:
   owner: KUSH
   controller: KUSH
@@ -74,11 +73,10 @@
     KHWA: no
     BUKH: yes
 910.1.1:
-  pop:
-    ethnicity: uzbek_culture
-    religion: sunni
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: sunni
+      estate: peasant
+      size: 1000
 999.1.1:
   owner: TRAN
   controller: TRAN

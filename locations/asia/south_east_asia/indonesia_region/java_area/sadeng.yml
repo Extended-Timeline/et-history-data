@@ -1,10 +1,9 @@
 #imported from EU4 file: history/provinces/627 - Blambangan.txt
 2.1.1:
-  pop:
-    ethnicity: javanese_culture
-    religion: hindu
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: hindu
+      estate: peasant
+      size: 1000
 1016.1.1:
   owner: BLAM
   controller: BLAM
@@ -52,10 +51,9 @@
     BLAM: no
     NED: yes
 1880.1.1:
-  pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1912.9.10:
   cores:
     MATA: no

@@ -1,10 +1,9 @@
 #imported from EU4 file: history/provinces/4843 - Selimbau.txt
 2.1.1:
-  pop:
-    ethnicity: bidayuh_culture
-    religion: hindu
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: hindu
+      estate: peasant
+      size: 1000
 600.1.1:
   owner: SBU
   controller: SBU
@@ -12,10 +11,9 @@
     SBU: yes
   resource: tropical_wood
 1640.1.1:
-  pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1925.1.1:
   owner: NED
   controller: NED

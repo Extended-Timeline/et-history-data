@@ -6,11 +6,10 @@
     XION: yes
     XIAN: yes
   resource: livestock
-  pop:
-    ethnicity: khitan
-    religion: 
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: 
+      estate: peasant
+      size: 1000
 46.1.1:
   owner: XIAN
   controller: XIAN
@@ -47,10 +46,9 @@
     KHIT: no
     LIAO: yes
 1120.1.1:
-  pop:
-    ethnicity: chahar
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1125.1.1:
   owner: TATA
   controller: TATA
@@ -64,10 +62,9 @@
     TATA: no
     MGE: yes
 1265.1.1:
-  pop:
-    religion: tibetan_buddhism
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1271.1.1:
   owner: YUA
   controller: YUA

@@ -1,11 +1,10 @@
 #imported from EU4 file: history/provinces/580 - Chin.txt
 2.1.1:
   resource: ivory
-  pop:
-    ethnicity: zo_culture
-    religion: sanamahism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: sanamahism
+      estate: peasant
+      size: 1000
 966.1.1:
   owner: KAL
   controller: KAL
@@ -47,10 +46,9 @@
   cores:
     GBR: yes
 1890.1.1:
-  pop:
-    religion: lutheran
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1942.5.1:
   controller: JAP
 1945.3.1:

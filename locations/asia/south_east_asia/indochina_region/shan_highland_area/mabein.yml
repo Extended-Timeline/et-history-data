@@ -5,11 +5,10 @@
   cores:
     PONG: yes
   resource: copper
-  pop:
-    ethnicity: tai_lu_culture
-    religion: satsana_phi
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: satsana_phi
+      estate: peasant
+      size: 1000
 603.1.1:
   owner: MYA
   controller: MYA
@@ -33,10 +32,9 @@
   cores:
     PAGA: yes
 1080.1.1:
-  pop:
-    religion: theravada
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1215.1.1:
   owner: MYA
   controller: MYA
@@ -76,10 +74,9 @@
   cores:
     GBR: no
 1950.1.1:
-  pop:
-    ethnicity: burmese_culture
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1989.1.1:
   owner: MYAN
   controller: MYAN

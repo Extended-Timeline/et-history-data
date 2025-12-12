@@ -1,10 +1,9 @@
 #imported from EU4 file: history/provinces/4275 - Yamamah.txt
 2.1.1:
-  pop:
-    ethnicity: najdi_culture
-    religion: south_arabian
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: south_arabian
+      estate: peasant
+      size: 1000
 425.1.1:
   owner: KIND
   controller: KIND
@@ -22,20 +21,18 @@
   controller: RASH
   cores:
     RASH: yes
-  pop:
-    religion: islam
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 661.7.28:
   owner: UMAY
   controller: UMAY
   cores:
     RASH: no
     UMAY: yes
-  pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 750.8.6:
   owner: ABBA
   controller: ABBA
@@ -43,10 +40,9 @@
     UMAY: no
     ABBA: yes
 755.1.1:
-  pop:
-    religion: shia
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 867.1.1:
   owner: NAJD
   controller: NAJD
@@ -54,10 +50,9 @@
     ABBA: no
     NAJD: yes
 1050.1.1:
-  pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1060.1.1:
   owner: DWS
   controller: DWS

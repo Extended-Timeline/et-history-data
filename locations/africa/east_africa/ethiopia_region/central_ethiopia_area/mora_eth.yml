@@ -1,10 +1,9 @@
 #imported from EU4 file: history/provinces/2764 - Awsa.txt
 2.1.1:
-  pop:
-    ethnicity: afar_culture
-    religion: bantu_religion
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: bantu_religion
+      estate: peasant
+      size: 1000
 500.1.1:
   owner: HRL
   controller: HRL
@@ -17,10 +16,9 @@
   cores:
     ADA: yes
 880.1.1:
-  pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1185.1.1:
   owner: IFA
   controller: IFA

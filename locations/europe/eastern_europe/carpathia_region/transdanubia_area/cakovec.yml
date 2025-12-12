@@ -5,11 +5,10 @@
   cores:
     ROM: yes
   resource: cloth
-  pop:
-    ethnicity: pannonian
-    religion: druidism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: druidism
+      estate: peasant
+      size: 1000
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -17,10 +16,9 @@
     ROM: no
     ROMW: yes
 420.1.1:
-  pop:
-    religion: arianism
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 455.1.1:
   owner: OSTR
   controller: OSTR
@@ -40,18 +38,16 @@
     GEPI: no
     AVR: yes
 580.1.1:
-  pop:
-    religion: 
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 630.1.1:
   cores:
     CRO: yes
-  pop:
-    ethnicity: croatian
-    religion: slavic
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: slavic
+      estate: peasant
+      size: 1000
 790.1.1:
   owner: PANO
   controller: PANO
@@ -59,10 +55,9 @@
     AVR: no
     PANO: yes
 870.1.1:
-  pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 897.1.1:
   owner: CRO
   controller: CRO

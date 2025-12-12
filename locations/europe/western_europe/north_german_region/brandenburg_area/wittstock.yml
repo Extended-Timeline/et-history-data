@@ -5,42 +5,38 @@
   cores:
     WARI: yes
   resource: livestock
-  pop:
-    ethnicity: saxon
-    religion: germanic
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: germanic
+      estate: peasant
+      size: 1000
 260.1.1:
   owner: LOMB
   controller: LOMB
   cores:
     WARI: no
     LOMB: yes
-  pop:
-    ethnicity: langobardi
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 395.1.1:
   owner: SAX
   controller: SAX
   cores:
     LOMB: no
     SAX: yes
-  pop:
-    ethnicity: saxon
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 570.1.1:
   owner: OBOT
   controller: OBOT
   cores:
     SAX: no
     OBOT: yes
-  pop:
-    ethnicity: polabian
-    religion: slavic
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: slavic
+      estate: peasant
+      size: 1000
 929.1.1:
   owner: SAX
   controller: SAX
@@ -60,30 +56,26 @@
     BRA: no
     KOPA: yes
 1120.1.1:
-  pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1157.10.3:
   owner: BRA
   controller: BRA
   cores:
     BRA: yes
 1160.1.1:
-  pop:
-    ethnicity: saxon
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1536.1.1:
-  pop:
-    religion: lutheran
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1650.1.1:
-  pop:
-    ethnicity: prussian
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1701.1.18:
   owner: PRU
   controller: PRU
@@ -104,10 +96,9 @@
   cores:
     EGER: yes
 1975.1.1:
-  pop:
-    religion: irreligious
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1990.10.3:
   owner: GER
   controller: GER

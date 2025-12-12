@@ -1,25 +1,22 @@
 #imported from EU4 file: history/provinces/1196 - Kilwa.txt
 2.1.1:
-  pop:
-    ethnicity: sandawe_culture
-    religion: bantu_religion
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: bantu_religion
+      estate: peasant
+      size: 1000
 300.1.1:
-  pop:
-    ethnicity: swahili_culture
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 850.1.1:
   owner: ZAN
   controller: ZAN
   cores:
     ZAN: yes
   resource: gold
-  pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1513.1.1:
   resource: ivory
 1710.1.1:

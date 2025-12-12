@@ -5,16 +5,14 @@
   cores:
     ROM: yes
   resource: naval_supplies
-  pop:
-    ethnicity: syriac_culture
-    religion: judaism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: judaism
+      estate: peasant
+      size: 1000
 30.1.1:
-  pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 269.1.1:
   cores:
     PALM: yes
@@ -29,10 +27,9 @@
     ROM: no
     BYZ: yes
 512.11.16:
-  pop:
-    religion: miaphysite
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 613.1.1:
   controller: ERA
 627.1.1:
@@ -78,10 +75,9 @@
     EGY: no
     SYRI: yes
 960.1.1:
-  pop:
-    ethnicity: levantine_culture
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1002.1.1:
   owner: FATI
   controller: FATI
@@ -94,10 +90,9 @@
     FATI: no
     SYRI: yes
 1104.1.1:
-  pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1111.1.1:
   owner: KOJ
   controller: KOJ
@@ -137,10 +132,9 @@
     EGY: no
     TUR: yes
 1850.1.1:
-  pop:
-    religion: shia
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1920.3.8:
   owner: SYRI
   controller: SYRI

@@ -5,11 +5,10 @@
   cores:
     HUYN: yes
   resource: incense
-  pop:
-    ethnicity: cham_culture
-    religion: hindu
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: hindu
+      estate: peasant
+      size: 1000
 192.1.1:
   owner: CHAM
   controller: CHAM
@@ -32,11 +31,10 @@
   cores:
     TONK: no
 1600.1.1:
-  pop:
-    ethnicity: vietnamese_culture
-    religion: theravada
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: theravada
+      estate: peasant
+      size: 1000
 1776.1.1:
   owner: DAI
   controller: DAI

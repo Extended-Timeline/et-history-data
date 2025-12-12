@@ -5,16 +5,14 @@
   cores:
     ROM: yes
   resource: gold
-  pop:
-    ethnicity: celtiberian
-    religion: druidism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: druidism
+      estate: peasant
+      size: 1000
 340.1.1:
-  pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -57,15 +55,13 @@
     UMAY: no
     CRDB: yes
 800.1.1:
-  pop:
-    ethnicity: andalusi
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 820.1.1:
-  pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1013.1.1:
   owner: GRA
   controller: GRA
@@ -91,20 +87,18 @@
     MOR: no
     CAS: yes
 1300.1.1:
-  pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1516.1.23:
   owner: SPA
   controller: SPA
   cores:
     SPA: yes
 1570.10.28:
-  pop:
-    ethnicity: castilian
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1713.4.11:
   cores:
     CAS: no

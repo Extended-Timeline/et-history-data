@@ -5,11 +5,10 @@
   cores:
     OSRO: yes
   resource: livestock
-  pop:
-    ethnicity: syriac_culture
-    religion: ashurism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: ashurism
+      estate: peasant
+      size: 1000
 91.1.1:
   owner: ARM
   controller: ARM
@@ -21,10 +20,9 @@
   cores:
     ARM: no
 110.1.1:
-  pop:
-    religion: zoroastrian
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 116.1.1:
   owner: ROM
   controller: ROM
@@ -36,10 +34,9 @@
   cores:
     ROM: no
 179.1.1:
-  pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 244.1.1:
   owner: ROM
   controller: ROM
@@ -60,10 +57,9 @@
     ROM: no
     BYZ: yes
 512.11.16:
-  pop:
-    religion: miaphysite
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 613.1.1:
   controller: ERA
 627.1.1:
@@ -93,11 +89,10 @@
     ABBA: no
     MOSU: yes
 920.1.1:
-  pop:
-    ethnicity: levantine_culture
-    religion: shia
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: shia
+      estate: peasant
+      size: 1000
 945.1.1:
   owner: SYRI
   controller: SYRI
@@ -126,10 +121,9 @@
   cores:
     SELJ: yes
 1100.1.1:
-  pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1127.1.1:
   owner: MOSU
   controller: MOSU
@@ -221,13 +215,11 @@
 2013.4.8:
   cores:
     ISIS: yes
-  pop:
-    ethnicity: iraqi_culture
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 2017.9.21:
   controller: SYRI
-  pop:
-    ethnicity: levantine_culture
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000

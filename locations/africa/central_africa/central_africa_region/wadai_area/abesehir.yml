@@ -1,10 +1,9 @@
 #imported from EU4 file: history/provinces/2932 - Ouaddai.txt
 2.1.1:
-  pop:
-    ethnicity: daju_language
-    religion: bantu_religion
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: bantu_religion
+      estate: peasant
+      size: 1000
 1100.1.1:
   owner: DAJ
   controller: DAJ
@@ -16,10 +15,9 @@
   controller: TUNJ
   cores:
     TUNJ: yes
-  pop:
-    ethnicity: tunjur_culture
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1470.1.1:
   cores:
     DAJ: no
@@ -28,11 +26,10 @@
   controller: WAD
   cores:
     WAD: yes
-  pop:
-    ethnicity: maba_africa_culture
-    religion: sunni
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: sunni
+      estate: peasant
+      size: 1000
 1912.1.1:
   owner: FRA
   controller: FRA

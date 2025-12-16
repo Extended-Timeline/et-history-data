@@ -5,11 +5,10 @@
   cores:
     LGK: yes
   resource: tropical_wood
-  pop:
-    ethnicity: malay_culture
-    religion: hindu
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: hindu
+      estate: peasant
+      size: 1000
 150.1.1:
   owner: LGK
   controller: LGK
@@ -22,10 +21,9 @@
     LGK: no
     PATT: yes
 1300.1.1:
-  pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1511.8.24:
   owner: PATT
   controller: PATT

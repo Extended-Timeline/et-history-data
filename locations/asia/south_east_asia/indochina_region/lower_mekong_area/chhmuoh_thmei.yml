@@ -5,11 +5,10 @@
   cores:
     FUNA: yes
   resource: grain
-  pop:
-    ethnicity: khmer_culture
-    religion: hindu
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: hindu
+      estate: peasant
+      size: 1000
 627.1.1:
   owner: CHEN
   controller: CHEN
@@ -66,10 +65,9 @@
   cores:
     FRA: no
 1960.1.1:
-  pop:
-    ethnicity: vietnamese_culture
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1976.7.2:
   owner: VIET
   controller: VIET

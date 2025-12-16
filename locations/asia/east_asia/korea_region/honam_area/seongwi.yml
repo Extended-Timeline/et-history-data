@@ -5,16 +5,14 @@
   cores:
     TMN: yes
   resource: fish
-  pop:
-    ethnicity: tamna_culture
-    religion: muism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: muism
+      estate: peasant
+      size: 1000
 372.1.1:
-  pop:
-    religion: mahayana
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1105.1.1:
   owner: GORY
   controller: GORY
@@ -26,10 +24,9 @@
   cores:
     GORY: no
     KOR: yes
-  pop:
-    religion: sanjiao
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1597.9.26:
   controller: TOYO
 1597.11.1:
@@ -67,12 +64,10 @@
     SKOR: yes
     NKOR: yes
 1960.1.1:
-  pop:
-    religion: mahayana
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 2000.1.1:
-  pop:
-    ethnicity: korean_culture
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000

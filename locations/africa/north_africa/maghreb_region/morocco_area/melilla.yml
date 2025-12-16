@@ -5,21 +5,19 @@
   cores:
     MAUT: yes
   resource: fish
-  pop:
-    ethnicity: zenati
-    religion: bantu_religion
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: bantu_religion
+      estate: peasant
+      size: 1000
 40.1.1:
   owner: ROM
   controller: ROM
   cores:
     ROM: yes
 380.1.1:
-  pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -45,10 +43,9 @@
     BYZ: no
     UMAY: yes
 735.1.1:
-  pop:
-    religion: ibadi
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 743.1.1:
   owner: NEKO
   controller: NEKO
@@ -85,10 +82,9 @@
     FEZ: no
     MOR: yes
 1080.1.1:
-  pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1472.1.1:
   owner: FEZ
   controller: FEZ

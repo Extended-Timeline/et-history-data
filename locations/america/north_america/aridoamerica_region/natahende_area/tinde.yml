@@ -1,35 +1,31 @@
 #imported from EU4 file: history/provinces/2496 - Jicarilla.txt
 2.1.1:
-  pop:
-    ethnicity: ancestral_pueblo_culture
-    religion: iroquoian_totemism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: iroquoian_totemism
+      estate: peasant
+      size: 1000
 1200.1.1:
-  pop:
-    ethnicity: naadahende_culture
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1835.1.1:
   owner: MEX
   controller: MEX
   cores:
     COMA: no
     MEX: yes
-  pop:
-    ethnicity: mexican
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: catholic
+      estate: peasant
+      size: 1000
 1836.3.2:
   owner: TEXA
   controller: TEXA
   cores:
     TEXA: yes
-  pop:
-    ethnicity: british_louisianan
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1845.12.29:
   owner: USA
   controller: USA
@@ -39,7 +35,6 @@
   cores:
     MEX: no
 1900.1.1:
-  pop:
-    ethnicity: british_californian
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000

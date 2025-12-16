@@ -1,18 +1,16 @@
 #imported from EU4 file: history/provinces/3099 - Katlodeeche.txt
 2.1.1:
-  pop:
-    ethnicity: tlingit_culture
-    religion: iroquoian_totemism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: iroquoian_totemism
+      estate: peasant
+      size: 1000
 1802.1.1:
   owner: GBR
   controller: GBR
   resource: fur
-  pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1822.7.1:
   cores:
     GBR: yes

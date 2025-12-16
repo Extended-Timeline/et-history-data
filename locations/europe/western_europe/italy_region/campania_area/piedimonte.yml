@@ -5,11 +5,10 @@
   cores:
     ROM: yes
   resource: grain
-  pop:
-    ethnicity: roman
-    religion: hellenism_religion
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: hellenism_religion
+      estate: peasant
+      size: 1000
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -17,11 +16,10 @@
     ROM: no
     ROMW: yes
 400.1.1:
-  pop:
-    ethnicity: griko_culture
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: chalcedonism
+      estate: peasant
+      size: 1000
 476.9.4:
   owner: ITA
   controller: ITA
@@ -53,19 +51,17 @@
     BYZ: no
     NAP: yes
 867.1.1:
-  pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1137.10.30:
   owner: SIC
   controller: SIC
   cores:
     SIC: yes
-  pop:
-    ethnicity: neapolitan
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1282.1.1:
   owner: NAP
   controller: NAP

@@ -1,10 +1,9 @@
 #imported from EU4 file: history/provinces/2783 - Hobyo.txt
 2.1.1:
-  pop:
-    ethnicity: somali_culture
-    religion: bantu_religion
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: bantu_religion
+      estate: peasant
+      size: 1000
 850.1.1:
   owner: HOBY
   controller: HOBY
@@ -12,10 +11,9 @@
     HOBY: yes
   resource: grain
 1150.1.1:
-  pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1220.1.1:
   owner: AJU
   controller: AJU

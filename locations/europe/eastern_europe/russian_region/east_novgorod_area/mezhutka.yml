@@ -1,10 +1,9 @@
 #imported from EU4 file: history/provinces/1961 - Ladoga.txt
 2.1.1:
-  pop:
-    ethnicity: ingrian
-    religion: muinaisusko
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: muinaisusko
+      estate: peasant
+      size: 1000
 550.1.1:
   owner: VOTI
   controller: VOTI
@@ -17,11 +16,10 @@
   cores:
     VOTI: no
     NOV: yes
-  pop:
-    ethnicity: novgorodian
-    religion: slavic
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: slavic
+      estate: peasant
+      size: 1000
 882.1.1:
   owner: KIEV
   controller: KIEV
@@ -29,10 +27,9 @@
     NOV: no
     KIEV: yes
 960.1.1:
-  pop:
-    religion: orthodox
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1054.2.20:
   owner: NOV
   controller: NOV

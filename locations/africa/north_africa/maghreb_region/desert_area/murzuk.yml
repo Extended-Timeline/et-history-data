@@ -5,37 +5,33 @@
   cores:
     GARA: yes
   resource: ivory
-  pop:
-    ethnicity: eastern_amazigh
-    religion: bantu_religion
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: bantu_religion
+      estate: peasant
+      size: 1000
 760.1.1:
   owner: FZA
   controller: FZA
   cores:
     GARA: no
     FZA: yes
-  pop:
-    ethnicity: toubou_culture
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 765.1.1:
-  pop:
-    religion: ibadi
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1173.1.1:
   owner: MAM
   controller: MAM
   cores:
     MAM: yes
 1200.1.1:
-  pop:
-    ethnicity: tunisian
-    religion: sunni
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: sunni
+      estate: peasant
+      size: 1000
 1212.1.1:
   owner: FZA
   controller: FZA

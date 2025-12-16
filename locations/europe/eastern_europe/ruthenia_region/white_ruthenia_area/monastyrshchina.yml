@@ -1,10 +1,9 @@
 #imported from EU4 file: history/provinces/293 - Smolensk.txt
 2.1.1:
-  pop:
-    ethnicity: muscovite
-    religion: slavic
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: slavic
+      estate: peasant
+      size: 1000
 550.1.1:
   owner: KRIV
   controller: KRIV
@@ -18,10 +17,9 @@
     KRIV: no
     KIEV: yes
 1000.1.1:
-  pop:
-    religion: orthodox
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1054.2.20:
   owner: SMO
   controller: SMO

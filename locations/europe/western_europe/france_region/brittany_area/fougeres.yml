@@ -5,11 +5,10 @@
   cores:
     ROM: yes
   resource: cloth
-  pop:
-    ethnicity: gallian
-    religion: druidism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: druidism
+      estate: peasant
+      size: 1000
 260.1.1:
   cores:
     GALL: yes
@@ -28,18 +27,16 @@
   controller: VANN
   cores:
     VANN: yes
-  pop:
-    ethnicity: breton
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 480.6.1:
   cores:
     ROMW: no
 490.1.1:
-  pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 846.1.1:
   owner: BRI
   controller: BRI
@@ -47,10 +44,9 @@
     VANN: no
     BRI: yes
 867.1.1:
-  pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 876.1.1:
   controller: BRI
 907.1.1:
@@ -66,15 +62,13 @@
   owner: FRA
   controller: FRA
 1560.1.1:
-  pop:
-    religion: calvinist
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1686.1.17:
-  pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1870.9.4:
   owner: FRA
   controller: FRA

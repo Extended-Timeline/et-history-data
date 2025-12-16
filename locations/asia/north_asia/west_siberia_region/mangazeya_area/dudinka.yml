@@ -1,10 +1,9 @@
 #imported from EU4 file: history/provinces/2426 - Norilsk.txt
 2.1.1:
-  pop:
-    ethnicity: nenets_culture
-    religion: mari_paganism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: mari_paganism
+      estate: peasant
+      size: 1000
 1934.1.1:
   owner: SOVI
   controller: SOVI
@@ -12,10 +11,9 @@
     RUS: yes
     SOVI: yes
   resource: copper
-  pop:
-    religion: orthodox
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1991.12.25:
   owner: RUS
   controller: RUS

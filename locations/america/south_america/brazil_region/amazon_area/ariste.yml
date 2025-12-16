@@ -1,27 +1,24 @@
 #imported from EU4 file: history/provinces/2938 - Oiapoque.txt
 2.1.1:
-  pop:
-    ethnicity: wayuu_culture
-    religion: muisca_religion
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: muisca_religion
+      estate: peasant
+      size: 1000
 1637.1.1:
   owner: POR
   controller: POR
   resource: fish
-  pop:
-    ethnicity: portuguese
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: catholic
+      estate: peasant
+      size: 1000
 1662.1.1:
   cores:
     POR: yes
 1780.1.1:
-  pop:
-    ethnicity: brazilian
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1822.9.7:
   owner: BRAZ
   controller: BRAZ

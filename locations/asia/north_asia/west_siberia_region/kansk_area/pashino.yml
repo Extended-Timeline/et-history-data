@@ -1,19 +1,17 @@
 #imported from EU4 file: history/provinces/2443 - Kan.txt
 2.1.1:
-  pop:
-    ethnicity: evenk_culture
-    religion: mari_paganism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: mari_paganism
+      estate: peasant
+      size: 1000
 1619.1.1:
   owner: RUS
   controller: RUS
   resource: fish
-  pop:
-    ethnicity: muscovite
-    religion: orthodox
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: orthodox
+      estate: peasant
+      size: 1000
 1625.1.1:
   cores:
     RUS: yes

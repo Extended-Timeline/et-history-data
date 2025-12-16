@@ -1,10 +1,9 @@
 #imported from EU4 file: history/provinces/641 - Makassar.txt
 2.1.1:
-  pop:
-    ethnicity: makassarese_culture
-    religion: bimoism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: bimoism
+      estate: peasant
+      size: 1000
 960.1.1:
   owner: GOW
   controller: GOW
@@ -12,10 +11,9 @@
     GOW: yes
   resource: spices
 1605.9.22:
-  pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1911.1.1:
   owner: NED
   controller: NED

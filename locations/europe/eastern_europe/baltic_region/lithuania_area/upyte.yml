@@ -1,10 +1,9 @@
 #imported from EU4 file: history/provinces/4534 - Upita.txt
 2.1.1:
-  pop:
-    ethnicity: aukstaitian
-    religion: romuva
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: romuva
+      estate: peasant
+      size: 1000
 550.1.1:
   owner: LIT
   controller: LIT
@@ -12,10 +11,9 @@
     LIT: yes
   resource: livestock
 1390.1.1:
-  pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1569.7.1:
   owner: PLC
   controller: PLC

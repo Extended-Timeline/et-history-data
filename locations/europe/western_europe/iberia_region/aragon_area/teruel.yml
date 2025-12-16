@@ -5,16 +5,14 @@
   cores:
     ROM: yes
   resource: cloth
-  pop:
-    ethnicity: iberi
-    religion: bimoism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: bimoism
+      estate: peasant
+      size: 1000
 380.1.1:
-  pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -40,20 +38,18 @@
   owner: ROMW
   controller: ROMW
 460.1.1:
-  pop:
-    religion: arianism
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 461.8.2:
   owner: VISG
   controller: VISG
   cores:
     ROMW: no
 560.1.1:
-  pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 711.1.1:
   owner: UMAY
   controller: UMAY
@@ -67,20 +63,17 @@
     UMAY: no
     CRDB: yes
 867.1.1:
-  pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 880.1.1:
-  pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 900.1.1:
-  pop:
-    ethnicity: andalusi
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1013.1.1:
   owner: ZARA
   controller: ZARA
@@ -99,15 +92,13 @@
     ZARA: no
     MOR: no
     ARA: yes
-  pop:
-    ethnicity: aragonese
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1140.1.1:
-  pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1516.1.23:
   owner: SPA
   controller: SPA

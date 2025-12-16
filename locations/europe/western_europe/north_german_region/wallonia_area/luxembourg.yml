@@ -5,31 +5,27 @@
   cores:
     ROM: yes
   resource: iron
-  pop:
-    ethnicity: belgae
-    religion: germanic
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: germanic
+      estate: peasant
+      size: 1000
 260.1.1:
   cores:
     GALL: yes
-  pop:
-    ethnicity: gallian
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 274.1.1:
   controller: ROM
   cores:
     GALL: no
-  pop:
-    ethnicity: frankish
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 320.1.1:
-  pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -43,10 +39,9 @@
     ROMW: no
     FRAN: yes
 486.6.1:
-  pop:
-    ethnicity: walloon
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 511.11.27:
   owner: ASTS
   controller: ASTS
@@ -96,10 +91,9 @@
     MFRA: no
     LOT: yes
 867.1.1:
-  pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 870.8.8:
   owner: EFRA
   controller: EFRA
@@ -184,7 +178,6 @@
   owner: LUX
   controller: LUX
 1984.2.24:
-  pop:
-    ethnicity: rhine_franconian
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000

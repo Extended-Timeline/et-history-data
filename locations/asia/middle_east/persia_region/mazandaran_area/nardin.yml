@@ -6,11 +6,10 @@
     PART: yes
     HYRC: yes
   resource: tea
-  pop:
-    ethnicity: parthian
-    religion: zoroastrian
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: zoroastrian
+      estate: peasant
+      size: 1000
 60.1.1:
   controller: PART
 135.1.1:
@@ -24,10 +23,9 @@
   cores:
     ERA: yes
 600.1.1:
-  pop:
-    ethnicity: mazanderani_culture
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 642.1.1:
   owner: MZN
   controller: MZN
@@ -35,10 +33,9 @@
     ERA: no
     MZN: yes
 864.1.1:
-  pop:
-    religion: shia
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 900.1.1:
   owner: BUKH
   controller: BUKH
@@ -51,10 +48,9 @@
   owner: BUKH
   controller: BUKH
 929.1.1:
-  pop:
-    religion: zoroastrian
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 930.1.1:
   owner: MZN
   controller: MZN
@@ -62,10 +58,9 @@
     BUKH: no
     MZN: yes
 935.1.1:
-  pop:
-    religion: shia
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 977.1.1:
   owner: QOM
   controller: QOM

@@ -1,10 +1,9 @@
 #imported from EU4 file: history/provinces/277 - Brest.txt
 2.1.1:
-  pop:
-    ethnicity: polatskian_culture
-    religion: slavic
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: slavic
+      estate: peasant
+      size: 1000
 550.1.1:
   owner: LEDN
   controller: LEDN
@@ -18,10 +17,9 @@
     LEDN: no
     KIEV: yes
 1000.1.1:
-  pop:
-    religion: orthodox
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1054.2.20:
   owner: HAL
   controller: HAL
@@ -35,20 +33,18 @@
     HAL: no
     LIT: yes
 1350.1.1:
-  pop:
-    religion: orthodox
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1569.7.1:
   owner: PLC
   controller: PLC
   cores:
     PLC: yes
 1570.1.1:
-  pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1657.7.1:
   controller: SWE
 1660.1.1:
@@ -56,10 +52,9 @@
 1661.1.1:
   controller: PLC
 1697.1.1:
-  pop:
-    ethnicity: lesser_polish
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1795.10.24:
   owner: RUS
   controller: RUS
@@ -96,10 +91,9 @@
 1944.7.16:
   controller: SOVI
 1945.1.1:
-  pop:
-    ethnicity: polatskian_culture
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1945.5.8:
   cores:
     POL: no

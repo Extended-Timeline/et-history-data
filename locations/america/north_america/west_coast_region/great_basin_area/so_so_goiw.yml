@@ -5,19 +5,17 @@
   cores:
     SHOS: yes
   resource: fur
-  pop:
-    ethnicity: tukudeka_culture
-    religion: iroquoian_totemism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: iroquoian_totemism
+      estate: peasant
+      size: 1000
 1864.1.1:
   owner: USA
   controller: USA
   cores:
     SHOS: no
     USA: yes
-  pop:
-    ethnicity: british_californian
-    religion: mormon
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: mormon
+      estate: peasant
+      size: 1000

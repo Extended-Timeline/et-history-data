@@ -1,10 +1,9 @@
 #imported from EU4 file: history/provinces/651 - Sulu.txt
 2.1.1:
-  pop:
-    ethnicity: cebuano_culture
-    religion: bimoism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: bimoism
+      estate: peasant
+      size: 1000
 1160.1.1:
   owner: SULU
   controller: SULU
@@ -12,10 +11,9 @@
     SULU: yes
   resource: gems
 1405.1.1:
-  pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1851.4.19:
   owner: SPA
   controller: SPA

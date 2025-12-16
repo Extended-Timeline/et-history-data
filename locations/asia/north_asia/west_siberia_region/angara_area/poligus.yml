@@ -1,17 +1,15 @@
 #imported from EU4 file: history/provinces/1061 - Yeniseysk.txt
 2.1.1:
-  pop:
-    ethnicity: evenk_culture
-    religion: mari_paganism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: mari_paganism
+      estate: peasant
+      size: 1000
 1618.1.1:
   owner: RUS
   controller: RUS
-  pop:
-    religion: orthodox
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1643.1.1:
   cores:
     RUS: yes

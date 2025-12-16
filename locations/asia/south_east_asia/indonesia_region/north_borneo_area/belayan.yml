@@ -1,10 +1,9 @@
 #imported from EU4 file: history/provinces/4807 - Sendawar.txt
 2.1.1:
-  pop:
-    ethnicity: kutai_culture
-    religion: bimoism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: bimoism
+      estate: peasant
+      size: 1000
 1620.1.1:
   owner: KUTA
   controller: KUTA
@@ -12,10 +11,9 @@
     KUTA: yes
   resource: tropical_wood
 1700.1.1:
-  pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1848.1.1:
   owner: NED
   controller: NED

@@ -6,21 +6,19 @@
     KALI: yes
     DAKS: yes
   resource: cloth
-  pop:
-    ethnicity: garjati
-    religion: jain
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: jain
+      estate: peasant
+      size: 1000
 120.1.1:
   owner: DAKS
   controller: DAKS
   cores:
     KALI: no
 320.1.1:
-  pop:
-    religion: hindu
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 350.1.1:
   owner: SAMB
   controller: SAMB

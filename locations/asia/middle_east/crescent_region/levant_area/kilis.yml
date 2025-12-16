@@ -5,16 +5,14 @@
   cores:
     ROM: yes
   resource: wool
-  pop:
-    ethnicity: syriac_culture
-    religion: judaism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: judaism
+      estate: peasant
+      size: 1000
 260.1.1:
-  pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 269.1.1:
   cores:
     PALM: yes
@@ -29,10 +27,9 @@
     ROM: no
     BYZ: yes
 512.11.16:
-  pop:
-    religion: miaphysite
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 613.1.1:
   controller: ERA
 627.1.1:
@@ -49,11 +46,10 @@
     RASH: no
     UMAY: yes
 720.1.1:
-  pop:
-    ethnicity: levantine_culture
-    religion: sunni
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: sunni
+      estate: peasant
+      size: 1000
 750.8.6:
   owner: ABBA
   controller: ABBA
@@ -134,10 +130,9 @@
   cores:
     ARM: no
 1320.1.1:
-  pop:
-    ethnicity: turkish_culture
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1337.1.1:
   owner: DUL
   controller: DUL

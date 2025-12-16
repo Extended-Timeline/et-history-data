@@ -5,11 +5,10 @@
   cores:
     ROM: yes
   resource: iron
-  pop:
-    ethnicity: thracian
-    religion: hellenism_religion
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: hellenism_religion
+      estate: peasant
+      size: 1000
 395.1.17:
   owner: BYZ
   controller: BYZ
@@ -17,24 +16,21 @@
     ROM: no
     BYZ: yes
 700.1.1:
-  pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 809.1.1:
   owner: BUL
   controller: BUL
   cores:
     BUL: yes
-  pop:
-    ethnicity: bulgarian
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 867.1.1:
-  pop:
-    religion: orthodox
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1014.1.1:
   owner: BYZ
   controller: BYZ

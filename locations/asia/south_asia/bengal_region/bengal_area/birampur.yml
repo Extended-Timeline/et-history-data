@@ -5,11 +5,10 @@
   cores:
     KAMA: yes
   resource: cloth
-  pop:
-    ethnicity: bengali
-    religion: hindu
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: hindu
+      estate: peasant
+      size: 1000
 596.1.1:
   owner: GAUD
   controller: GAUD
@@ -95,10 +94,9 @@
   owner: BNG
   controller: BNG
 1750.1.1:
-  pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1765.1.1:
   owner: GBR
   controller: GBR

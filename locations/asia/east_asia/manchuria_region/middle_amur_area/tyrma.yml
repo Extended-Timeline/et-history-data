@@ -1,10 +1,9 @@
 #imported from EU4 file: history/provinces/4659 - Tulutingshan.txt
 2.1.1:
-  pop:
-    ethnicity: evenk_culture
-    religion: 
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: 
+      estate: peasant
+      size: 1000
 1206.1.1:
   owner: SOL
   controller: SOL
@@ -33,11 +32,10 @@
     RUS: no
     SOVI: yes
 1939.1.1:
-  pop:
-    ethnicity: muscovite
-    religion: orthodox
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: orthodox
+      estate: peasant
+      size: 1000
 1991.12.25:
   owner: RUS
   controller: RUS

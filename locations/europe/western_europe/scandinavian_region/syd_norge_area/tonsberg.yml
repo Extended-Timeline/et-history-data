@@ -1,10 +1,9 @@
 #imported from EU4 file: history/provinces/4144 - Bratsberg.txt
 2.1.1:
-  pop:
-    ethnicity: norwegian
-    religion: norse
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: norse
+      estate: peasant
+      size: 1000
 550.1.1:
   owner: AGDE
   controller: AGDE
@@ -24,10 +23,9 @@
     VEST: no
     NOR: yes
 1030.1.1:
-  pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1532.7.15:
   controller: NOR
 1536.1.1:
@@ -35,10 +33,9 @@
   controller: DAN
   cores:
     DAN: yes
-  pop:
-    religion: lutheran
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1814.1.14:
   owner: SWE
   cores:

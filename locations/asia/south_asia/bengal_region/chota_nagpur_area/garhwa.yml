@@ -6,11 +6,10 @@
     DASA: yes
     JHAR: yes
   resource: salt
-  pop:
-    ethnicity: magahi
-    religion: hindu
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: hindu
+      estate: peasant
+      size: 1000
 83.1.1:
   owner: JHAR
   controller: JHAR
@@ -45,10 +44,9 @@
     KANN: no
     PALA: yes
 760.1.1:
-  pop:
-    religion: mahayana
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1174.1.1:
   owner: GAUD
   controller: GAUD
@@ -56,10 +54,9 @@
     PALA: no
     GAUD: yes
 1180.1.1:
-  pop:
-    religion: hindu
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1193.1.1:
   owner: GHOR
   controller: GHOR

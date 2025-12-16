@@ -5,53 +5,48 @@
   cores:
     DACI: yes
   resource: wine
-  pop:
-    ethnicity: dacian
-    religion: zamolxism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: zamolxism
+      estate: peasant
+      size: 1000
 220.1.1:
   owner: OSTR
   controller: OSTR
   cores:
     DACI: no
     OSTR: yes
-  pop:
-    ethnicity: gothic
-    religion: germanic
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: germanic
+      estate: peasant
+      size: 1000
 370.1.1:
   owner: HUNS
   controller: HUNS
   cores:
     OSTR: no
     HUNS: yes
-  pop:
-    ethnicity: hunnic
-    religion: 
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: 
+      estate: peasant
+      size: 1000
 520.1.1:
   owner: AVR
   controller: AVR
   cores:
     ANTE: no
     AVR: yes
-  pop:
-    ethnicity: avar_culture
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 567.1.1:
   owner: KUTR
   controller: KUTR
   cores:
     AVR: no
     KUTR: yes
-  pop:
-    ethnicity: bolghar_culture
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 632.1.1:
   owner: BUL
   controller: BUL
@@ -76,10 +71,9 @@
   cores:
     BUL: no
     HUN: yes
-  pop:
-    ethnicity: wallachian
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 870.1.1:
   owner: PECH
   controller: PECH
@@ -87,10 +81,9 @@
     HUN: no
     PECH: yes
 940.1.1:
-  pop:
-    religion: orthodox
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1094.1.1:
   owner: CUMA
   controller: CUMA

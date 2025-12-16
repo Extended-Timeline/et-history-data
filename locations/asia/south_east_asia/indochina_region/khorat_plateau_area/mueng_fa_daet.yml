@@ -5,16 +5,14 @@
   cores:
     KUY: yes
   resource: ivory
-  pop:
-    ethnicity: bru_culture
-    religion: bimoism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: bimoism
+      estate: peasant
+      size: 1000
 650.1.1:
-  pop:
-    religion: mahayana
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 707.2.6:
   owner: KUY
   controller: KUY
@@ -27,10 +25,9 @@
     KUY: no
     CAMB: yes
 1295.1.1:
-  pop:
-    religion: theravada
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1354.1.1:
   owner: LAXA
   controller: LAXA
@@ -38,10 +35,9 @@
     CAMB: no
     LAXA: yes
 1380.1.1:
-  pop:
-    ethnicity: lao_culture
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1707.1.1:
   owner: VTN
   controller: VTN

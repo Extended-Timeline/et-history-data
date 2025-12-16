@@ -1,10 +1,9 @@
 #imported from EU4 file: history/provinces/2382 - Savannakhet.txt
 2.1.1:
-  pop:
-    ethnicity: bru_culture
-    religion: bimoism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: bimoism
+      estate: peasant
+      size: 1000
 550.1.1:
   owner: BVK
   controller: BVK
@@ -28,11 +27,10 @@
   cores:
     CAMB: yes
 1190.1.1:
-  pop:
-    ethnicity: lao_culture
-    religion: satsana_phi
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: satsana_phi
+      estate: peasant
+      size: 1000
 1195.1.1:
   owner: SGOT
   controller: SGOT
@@ -45,10 +43,9 @@
   cores:
     LAXA: yes
 1610.1.1:
-  pop:
-    religion: theravada
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1707.1.1:
   owner: VTN
   controller: VTN

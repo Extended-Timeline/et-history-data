@@ -5,11 +5,10 @@
   cores:
     PONG: yes
   resource: grain
-  pop:
-    ethnicity: burmese_culture
-    religion: bimoism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: bimoism
+      estate: peasant
+      size: 1000
 1050.1.1:
   owner: PAGA
   controller: PAGA
@@ -17,10 +16,9 @@
     PONG: no
     PAGA: yes
 1100.1.1:
-  pop:
-    ethnicity: kado_culture
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1215.1.1:
   owner: MKA
   controller: MKA
@@ -39,10 +37,9 @@
     SHA: no
     MKA: yes
 1700.1.1:
-  pop:
-    religion: theravada
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1796.1.1:
   owner: BURM
   controller: BURM

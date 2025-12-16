@@ -5,16 +5,14 @@
   cores:
     KHWA: yes
   resource: wool
-  pop:
-    ethnicity: khwarezmian
-    religion: zoroastrian
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: zoroastrian
+      estate: peasant
+      size: 1000
 800.1.1:
-  pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1041.1.1:
   owner: OGHU
   controller: OGHU
@@ -27,10 +25,9 @@
     OGHU: no
     SELJ: yes
 1100.1.1:
-  pop:
-    ethnicity: uzbek_culture
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1138.1.1:
   owner: KHWA
   controller: KHWA
@@ -115,10 +112,9 @@
     KHIV: no
     SHAY: no
     TUKM: yes
-  pop:
-    ethnicity: turkmen_culture
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1991.10.27:
   owner: TUKM
   controller: TUKM

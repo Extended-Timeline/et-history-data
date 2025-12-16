@@ -1,27 +1,24 @@
 #imported from EU4 file: history/provinces/2619 - Laguneros.txt
 2.1.1:
-  pop:
-    ethnicity: pame_culture
-    religion: nahuatl
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: nahuatl
+      estate: peasant
+      size: 1000
 1577.1.1:
   owner: SPA
   controller: SPA
   resource: wool
-  pop:
-    ethnicity: castilian
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: catholic
+      estate: peasant
+      size: 1000
 1602.1.1:
   cores:
     SPA: yes
 1770.1.1:
-  pop:
-    ethnicity: mexican
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1810.9.16:
   owner: MEX
   controller: SPA

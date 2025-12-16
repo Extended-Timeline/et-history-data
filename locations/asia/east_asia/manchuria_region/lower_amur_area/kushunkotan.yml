@@ -1,26 +1,23 @@
 #imported from EU4 file: history/provinces/1033 - Sakhalin.txt
 2.1.1:
-  pop:
-    ethnicity: nivkh_culture
-    religion: mari_paganism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: mari_paganism
+      estate: peasant
+      size: 1000
 1000.1.1:
-  pop:
-    ethnicity: ainu_culture
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1679.1.1:
   owner: TOKU
   controller: TOKU
   cores:
     TOKU: yes
   resource: fish
-  pop:
-    ethnicity: saigoku_culture
-    religion: shinto
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: shinto
+      estate: peasant
+      size: 1000
 1855.1.1:
   cores:
     RUS: yes
@@ -48,11 +45,10 @@
   cores:
     SOVI: yes
 1950.1.1:
-  pop:
-    ethnicity: muscovite
-    religion: orthodox
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: orthodox
+      estate: peasant
+      size: 1000
 1991.12.25:
   owner: RUS
   controller: RUS

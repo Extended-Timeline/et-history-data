@@ -5,11 +5,10 @@
   cores:
     ROM: yes
   resource: fish
-  pop:
-    ethnicity: eastern_amazigh
-    religion: bantu_religion
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: bantu_religion
+      estate: peasant
+      size: 1000
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -17,10 +16,9 @@
     ROM: no
     ROMW: yes
 420.1.1:
-  pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 439.1.1:
   owner: VAND
   controller: VAND
@@ -45,31 +43,28 @@
     BYZ: no
     UMAY: yes
 700.1.1:
-  pop:
-    ethnicity: tunisian
-    religion: sunni
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: sunni
+      estate: peasant
+      size: 1000
 745.1.1:
   owner: TUN
   controller: TUN
   cores:
     UMAY: no
     TUN: yes
-  pop:
-    religion: ibadi
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 757.6.1:
   owner: ABBA
   controller: ABBA
   cores:
     ABBA: yes
 780.1.1:
-  pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 800.1.1:
   owner: TUN
   controller: TUN

@@ -5,11 +5,10 @@
   cores:
     KALI: yes
   resource: grain
-  pop:
-    ethnicity: garjati
-    religion: jain
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: jain
+      estate: peasant
+      size: 1000
 150.1.1:
   owner: TOSH
   controller: TOSH
@@ -33,10 +32,9 @@
   cores:
     DAKS: yes
 500.1.1:
-  pop:
-    religion: hindu
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 575.1.1:
   owner: TOSH
   controller: TOSH

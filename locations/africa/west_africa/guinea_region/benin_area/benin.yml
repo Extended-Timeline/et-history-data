@@ -1,10 +1,9 @@
 #imported from EU4 file: history/provinces/1147 - Benin.txt
 2.1.1:
-  pop:
-    ethnicity: edo
-    religion: bantu_religion
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: bantu_religion
+      estate: peasant
+      size: 1000
 523.1.1:
   owner: BEN
   controller: BEN
@@ -20,10 +19,9 @@
     GBR: yes
   resource: ivory
 1900.1.1:
-  pop:
-    religion: lutheran
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1960.10.1:
   owner: NIGR
   controller: NIGR

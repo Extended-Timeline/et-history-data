@@ -1,10 +1,9 @@
 #imported from EU4 file: history/provinces/782 - Tierra del Fuego.txt
 2.1.1:
-  pop:
-    ethnicity: teushen_culture
-    religion: muisca_religion
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: muisca_religion
+      estate: peasant
+      size: 1000
 1879.1.1:
   owner: CHIL
   controller: CHIL
@@ -12,11 +11,10 @@
     CHIL: yes
     ARGE: yes
   resource: gold
-  pop:
-    ethnicity: iberian_peruvian
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: catholic
+      estate: peasant
+      size: 1000
 1881.7.23:
   cores:
     ARGE: no

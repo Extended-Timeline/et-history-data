@@ -1,20 +1,18 @@
 #imported from EU4 file: history/provinces/3020 - Likouala.txt
 2.1.1:
-  pop:
-    ethnicity: kongo
-    religion: bantu_religion
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: bantu_religion
+      estate: peasant
+      size: 1000
 1889.1.1:
   owner: FRA
   controller: FRA
   cores:
     FRA: yes
   resource: naval_supplies
-  pop:
-    religion: lutheran
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1911.11.4:
   owner: GER
   controller: GER

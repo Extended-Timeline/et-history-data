@@ -1,10 +1,9 @@
 #imported from EU4 file: history/provinces/655 - Palawan.txt
 2.1.1:
-  pop:
-    ethnicity: tagalog_culture
-    religion: bimoism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: bimoism
+      estate: peasant
+      size: 1000
 1368.1.1:
   owner: BEI
   controller: BEI
@@ -12,17 +11,15 @@
     BEI: yes
   resource: sugar
 1400.1.1:
-  pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1749.1.1:
   owner: SPA
   controller: SPA
-  pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1774.1.1:
   cores:
     SPA: yes

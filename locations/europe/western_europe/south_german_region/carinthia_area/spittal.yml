@@ -5,16 +5,14 @@
   cores:
     ROM: yes
   resource: iron
-  pop:
-    ethnicity: noric
-    religion: druidism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: druidism
+      estate: peasant
+      size: 1000
 340.1.1:
-  pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -22,10 +20,9 @@
     ROM: no
     ROMW: yes
 420.1.1:
-  pop:
-    ethnicity: danube_bavarian
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 476.9.4:
   owner: ITA
   controller: ITA
@@ -40,45 +37,39 @@
   cores:
     ITA: no
     OSTR: yes
-  pop:
-    ethnicity: gothic
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 500.1.1:
-  pop:
-    religion: arianism
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 553.1.1:
   owner: LOMB
   controller: LOMB
   cores:
     OSTR: no
     LOMB: yes
-  pop:
-    ethnicity: langobardi
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 568.6.1:
-  pop:
-    ethnicity: lombard
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 591.1.1:
   owner: AVR
   controller: AVR
   cores:
     LOMB: no
     AVR: yes
-  pop:
-    ethnicity: slovene
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 595.1.1:
-  pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 623.1.1:
   owner: SAMO
   controller: SAMO
@@ -97,15 +88,13 @@
   cores:
     CART: no
     BAV: yes
-  pop:
-    ethnicity: danube_bavarian
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 750.1.1:
-  pop:
-    ethnicity: danube_bavarian
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 788.1.1:
   owner: FRAN
   controller: FRAN
@@ -119,10 +108,9 @@
     FRAN: no
     BAV: yes
 867.1.1:
-  pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 880.3.22:
   owner: EFRA
   controller: EFRA

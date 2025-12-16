@@ -1,10 +1,9 @@
 #imported from EU4 file: history/provinces/3269 - Wala.txt
 2.1.1:
-  pop:
-    ethnicity: dagbani
-    religion: bantu_religion
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: bantu_religion
+      estate: peasant
+      size: 1000
 1250.1.1:
   owner: DGB
   controller: DGB
@@ -12,10 +11,9 @@
     DGB: yes
   resource: tropical_wood
 1820.1.1:
-  pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1899.11.14:
   owner: GBR
   controller: GBR

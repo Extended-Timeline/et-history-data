@@ -5,11 +5,10 @@
   cores:
     KANK: yes
   resource: grain
-  pop:
-    ethnicity: chhattisgarhi
-    religion: mahayana
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: mahayana
+      estate: peasant
+      size: 1000
 120.1.1:
   owner: SATA
   controller: SATA
@@ -22,10 +21,9 @@
     SATA: no
     DAKS: yes
 300.1.1:
-  pop:
-    religion: hindu
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 320.1.1:
   owner: VAKA
   controller: VAKA

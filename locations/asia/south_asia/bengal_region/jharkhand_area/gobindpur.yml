@@ -5,11 +5,10 @@
   cores:
     MAGA: yes
   resource: ivory
-  pop:
-    ethnicity: magahi
-    religion: hindu
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: hindu
+      estate: peasant
+      size: 1000
 320.1.1:
   owner: GUPT
   controller: GUPT
@@ -39,10 +38,9 @@
     KANN: no
     PALA: yes
 760.1.1:
-  pop:
-    religion: mahayana
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1174.1.1:
   owner: GAUD
   controller: GAUD
@@ -50,10 +48,9 @@
     PALA: no
     GAUD: yes
 1180.1.1:
-  pop:
-    religion: hindu
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1203.1.1:
   owner: BNG
   controller: BNG

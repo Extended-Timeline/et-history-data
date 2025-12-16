@@ -1,10 +1,9 @@
 #imported from EU4 file: history/provinces/4257 - Mezen.txt
 2.1.1:
-  pop:
-    ethnicity: nenets_culture
-    religion: muinaisusko
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: muinaisusko
+      estate: peasant
+      size: 1000
 750.1.1:
   owner: BJA
   controller: BJA
@@ -17,15 +16,13 @@
   cores:
     NOV: yes
 1200.1.1:
-  pop:
-    ethnicity: novgorodian
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1230.1.1:
-  pop:
-    religion: orthodox
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1478.1.15:
   owner: MOS
   controller: MOS

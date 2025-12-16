@@ -5,11 +5,10 @@
   cores:
     SUHM: yes
   resource: naval_supplies
-  pop:
-    ethnicity: bengali
-    religion: hindu
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: hindu
+      estate: peasant
+      size: 1000
 250.1.1:
   owner: BISH
   controller: BISH

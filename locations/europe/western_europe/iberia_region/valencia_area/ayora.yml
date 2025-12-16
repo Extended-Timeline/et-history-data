@@ -5,16 +5,14 @@
   cores:
     ROM: yes
   resource: cloth
-  pop:
-    ethnicity: iberi
-    religion: bimoism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: bimoism
+      estate: peasant
+      size: 1000
 340.1.1:
-  pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -67,15 +65,13 @@
     UMAY: no
     CRDB: yes
 760.1.1:
-  pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 800.1.1:
-  pop:
-    ethnicity: andalusi
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1010.1.1:
   owner: DENI
   controller: DENI
@@ -111,11 +107,10 @@
     DENI: no
     ARA: yes
 1280.1.1:
-  pop:
-    ethnicity: catalan
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: catholic
+      estate: peasant
+      size: 1000
 1300.1.1:
   resource: paper
 1516.1.23:

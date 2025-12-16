@@ -5,16 +5,14 @@
   cores:
     ROM: yes
   resource: grain
-  pop:
-    ethnicity: ligurian
-    religion: hellenism_religion
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: hellenism_religion
+      estate: peasant
+      size: 1000
 313.1.1:
-  pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -36,11 +34,10 @@
     ITA: no
     OSTR: yes
 500.1.1:
-  pop:
-    ethnicity: gothic
-    religion: arianism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: arianism
+      estate: peasant
+      size: 1000
 551.1.1:
   owner: BYZ
   controller: BYZ
@@ -53,15 +50,13 @@
     OSTR: no
     BYZ: no
     LOMB: yes
-  pop:
-    ethnicity: lombard
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 640.1.1:
-  pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 773.1.1:
   owner: FRAN
   controller: FRAN
@@ -81,10 +76,9 @@
     LOMB: no
     ITA: yes
 867.1.1:
-  pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 962.2.2:
   owner: LOMB
   controller: LOMB

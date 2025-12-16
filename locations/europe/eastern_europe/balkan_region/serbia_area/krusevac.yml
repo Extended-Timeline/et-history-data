@@ -5,11 +5,10 @@
   cores:
     ROM: yes
   resource: grain
-  pop:
-    ethnicity: illyrian
-    religion: zamolxism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: zamolxism
+      estate: peasant
+      size: 1000
 395.1.17:
   owner: BYZ
   controller: BYZ
@@ -28,10 +27,9 @@
     HUNS: no
     OSTR: yes
 470.1.1:
-  pop:
-    religion: arianism
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 488.1.1:
   owner: GEPI
   controller: GEPI
@@ -48,10 +46,9 @@
   cores:
     OSTR: no
 520.1.1:
-  pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 584.1.1:
   controller: AVR
 592.1.1:
@@ -59,11 +56,10 @@
 610.1.1:
   cores:
     SER: yes
-  pop:
-    ethnicity: serbian
-    religion: slavic
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: slavic
+      estate: peasant
+      size: 1000
 630.1.1:
   owner: SER
   controller: SER
@@ -75,10 +71,9 @@
   cores:
     BUL: yes
 869.1.1:
-  pop:
-    religion: orthodox
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1014.1.1:
   owner: BYZ
   controller: BYZ

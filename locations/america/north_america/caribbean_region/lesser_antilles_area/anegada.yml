@@ -1,19 +1,17 @@
 #imported from EU4 file: history/provinces/3254 - Montserrat.txt
 2.1.1:
-  pop:
-    ethnicity: arawak_culture
-    religion: muisca_religion
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: muisca_religion
+      estate: peasant
+      size: 1000
 1632.1.1:
   owner: ENG
   controller: ENG
   resource: sugar
-  pop:
-    ethnicity: english
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: catholic
+      estate: peasant
+      size: 1000
 1667.1.1:
   cores:
     ENG: yes
@@ -24,7 +22,6 @@
     ENG: no
     GBR: yes
 1780.1.1:
-  pop:
-    ethnicity: british_caribbean
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000

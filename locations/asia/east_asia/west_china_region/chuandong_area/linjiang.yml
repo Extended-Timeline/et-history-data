@@ -6,11 +6,10 @@
     HAN0: yes
     SHU0: yes
   resource: spices
-  pop:
-    ethnicity: shu_culture
-    religion: sanjiao
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: sanjiao
+      estate: peasant
+      size: 1000
 9.1.10:
   owner: XIN0
   controller: XIN0

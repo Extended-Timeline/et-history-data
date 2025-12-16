@@ -5,11 +5,10 @@
   cores:
     GAND: yes
   resource: livestock
-  pop:
-    ethnicity: afghan_culture
-    religion: hindu
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: hindu
+      estate: peasant
+      size: 1000
 10.1.1:
   owner: IPAR
   controller: IPAR
@@ -90,10 +89,9 @@
     MULT: no
     DLH: yes
 1350.1.1:
-  pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1380.1.1:
   owner: TIM
   controller: TIM

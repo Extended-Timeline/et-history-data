@@ -5,11 +5,10 @@
   cores:
     PART: yes
   resource: wool
-  pop:
-    ethnicity: parthian
-    religion: zoroastrian
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: zoroastrian
+      estate: peasant
+      size: 1000
 224.4.24:
   owner: ERA
   controller: ERA
@@ -23,10 +22,9 @@
     ERA: no
     RASH: yes
 650.1.1:
-  pop:
-    ethnicity: khorasani_culture
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 661.7.28:
   owner: UMAY
   controller: UMAY
@@ -54,10 +52,9 @@
     KHOR: no
     SIST: yes
 880.1.1:
-  pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 900.1.1:
   owner: BUKH
   controller: BUKH
@@ -107,10 +104,9 @@
     MGE: no
     ILK: yes
 1270.1.1:
-  pop:
-    religion: shia
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1335.1.1:
   owner: ASR
   controller: ASR

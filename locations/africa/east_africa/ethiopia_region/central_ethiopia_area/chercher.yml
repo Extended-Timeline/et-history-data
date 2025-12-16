@@ -5,26 +5,23 @@
   cores:
     YEHA: yes
   resource: livestock
-  pop:
-    ethnicity: amhara
-    religion: bantu_religion
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: bantu_religion
+      estate: peasant
+      size: 1000
 318.1.1:
   owner: AKSM
   controller: AKSM
   cores:
     AKSM: yes
 356.1.1:
-  pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 451.11.1:
-  pop:
-    religion: miaphysite
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 960.1.1:
   owner: ETH
   controller: ETH

@@ -1,5 +1,5 @@
-ach_william_i_champlitte:
-  1174.1.1:
+ach_william_i_champlitte: #https://en.wikipedia.org/wiki/William_of_Champlitte
+  1165.1.1: # +/- 5 years, from Wikipedia
     birth: patras #TODO: Date and location guessed, check if better data is available
     first_name: william
     dynasty: champlitte_dynasty
@@ -11,9 +11,9 @@ ach_william_i_champlitte:
     tag: ACH
   1209.1.1:
     death: yes
-ach_geoffey_i_villehardouin:
-  1179.1.1:
-    birth: patras #TODO: Date and location guessed, check if better data is available
+ach_geoffrey_i_villehardouin: #https://en.wikipedia.org/wiki/Geoffrey_I_of_Villehardouin
+  1169.1.1:
+    birth: patras #TODO: location guessed, check if better data is available
     first_name: geoffey
     dynasty: villehardouin_dynasty
     adm: 30
@@ -22,64 +22,38 @@ ach_geoffey_i_villehardouin:
     religion: catholic
     culture: lombard
     tag: ACH
-  1219.1.1:
+  1229.1.1:
     death: yes
-ach_geoffey_ii_villehardouin:
+ach_geoffrey_ii_villehardouin: #https://en.wikipedia.org/wiki/Geoffrey_II_of_Villehardouin
   1195.1.1:
     birth: patras #TODO: Date and location guessed, check if better data is available
-    first_name: geoffey
+    first_name: geoffrey
     dynasty: villehardouin_dynasty
-    father: ach_geoffey_i_villehardouin #TODO: check if this makes sense
+    father: ach_geoffrey_i_villehardouin #TODO: check if this makes sense
     adm: 30
     dip: 90
     mil: 30
     religion: catholic
     culture: lombard
     tag: ACH
-  1245.1.1:
+  1246.5.7: #Death: After May 6, 1246(Wikipedia)
     death: yes
-ach_geoffey_ii_villehardouin_1:
-  1189.1.1:
-    birth: patras #TODO: Date and location guessed, check if better data is available
-    first_name: geoffey
-    dynasty: villehardouin_dynasty
-    adm: 30
-    dip: 90
-    mil: 30
-    religion: catholic
-    culture: lombard
-    tag: ACH
-  1245.1.1:
-    death: yes
-ach_william_ii_villehardouin:
-  1220.1.1:
-    birth: patras #TODO: Date and location guessed, check if better data is available
+ach_william_ii_villehardouin: #https://en.wikipedia.org/wiki/William_of_Villehardouin
+  1211:
+    birth: kalamata 
     first_name: william
     dynasty: villehardouin_dynasty
-    father: ach_geoffey_ii_villehardouin_1 #TODO: check if this makes sense
+    father: ach_geoffrey_ii_villehardouin
     adm: 45
     dip: 75
     mil: 30
     religion: catholic
     culture: lombard
     tag: ACH
-  1278.1.1:
+  1278.5.1:
     death: yes
-ach_william_ii_villehardouin_1:
-  1215.1.1:
-    birth: patras #TODO: Date and location guessed, check if better data is available
-    first_name: william
-    dynasty: villehardouin_dynasty
-    adm: 45
-    dip: 75
-    mil: 0
-    religion: catholic
-    culture: lombard
-    tag: ACH
-  1289.1.1:
-    death: yes
-ach_isabella_villehardouin:
-  1259.1.1:
+ach_isabella_villehardouin: #https://en.wikipedia.org/wiki/Isabella_of_Villehardouin
+  1263.1.1: #Either 1260 or 1263
     birth: patras #TODO: Date and location guessed, check if better data is available
     first_name: isabella
     dynasty: villehardouin_dynasty
@@ -90,7 +64,7 @@ ach_isabella_villehardouin:
     religion: catholic
     culture: lombard
     tag: ACH
-  1307.1.1:
+  1312.1.23:
     death: yes
 ach_philip_ii_capet:
   1277.1.1:
@@ -212,20 +186,6 @@ ach_maria_ii_zaccaria:
     tag: ACH
   1404.1.1:
     death: yes
-ach_maria_ii_zaccaria_1:
-  1372.1.1:
-    birth: patras #TODO: Date and location guessed, check if better data is available
-    first_name: maria
-    dynasty: zaccaria_dynasty
-    female: yes
-    adm: 60
-    dip: 30
-    mil: 30
-    religion: catholic
-    culture: lombard
-    tag: ACH
-  1404.1.1:
-    death: yes
 ach_centurione_ii_zaccaria:
   1380.1.1:
     birth: patras #TODO: Date and location guessed, check if better data is available
@@ -240,16 +200,4 @@ ach_centurione_ii_zaccaria:
     tag: ACH
   1439.1.1:
     death: yes
-ach_centurione_ii_zaccaria_1:
-  1374.1.1:
-    birth: patras #TODO: Date and location guessed, check if better data is available
-    first_name: centurione
-    dynasty: zaccaria_dynasty
-    adm: 15
-    dip: 30
-    mil: 15
-    religion: catholic
-    culture: lombard
-    tag: ACH
-  3000.1.1:
-    death: yes
+

@@ -5,11 +5,10 @@
   cores:
     LAWA: yes
   resource: tropical_wood
-  pop:
-    ethnicity: mon_culture
-    religion: bimoism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: bimoism
+      estate: peasant
+      size: 1000
 300.1.1:
   owner: DVAR
   controller: DVAR
@@ -17,10 +16,9 @@
     LAWA: no
     DVAR: yes
 580.1.1:
-  pop:
-    religion: mahayana
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 661.1.1:
   owner: LAV
   controller: LAV
@@ -33,10 +31,9 @@
   cores:
     CAMB: yes
 1050.1.1:
-  pop:
-    ethnicity: thai_culture
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1060.1.1:
   owner: LAV
   controller: LAV
@@ -49,10 +46,9 @@
     LAV: no
     SUK: yes
 1260.1.1:
-  pop:
-    religion: theravada
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1438.1.1:
   cores:
     AYU: yes

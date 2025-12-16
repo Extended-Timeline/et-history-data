@@ -1,10 +1,9 @@
 #imported from EU4 file: history/provinces/728 - Heilongjiang.txt
 2.1.1:
-  pop:
-    ethnicity: jurchen_culture
-    religion: 
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: 
+      estate: peasant
+      size: 1000
 410.1.1:
   owner: DUMA
   controller: DUMA
@@ -57,10 +56,9 @@
   cores:
     JIAZ: no
     MCH: yes
-  pop:
-    ethnicity: manchu_new
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1636.5.15:
   owner: QNG
   controller: QNG
@@ -68,10 +66,9 @@
     MCH: no
     QNG: yes
 1880.1.1:
-  pop:
-    religion: sanjiao
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1912.2.12:
   owner: CHI
   controller: CHI

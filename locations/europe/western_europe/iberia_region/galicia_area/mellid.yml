@@ -5,11 +5,10 @@
   cores:
     ROM: yes
   resource: fish
-  pop:
-    ethnicity: gallaecian
-    religion: druidism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: druidism
+      estate: peasant
+      size: 1000
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -21,10 +20,9 @@
   controller: SUEB
   cores:
     SUEB: yes
-  pop:
-    religion: germanic
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 450.1.1:
   cores:
     ROMW: no
@@ -37,15 +35,13 @@
   owner: SUEB
   controller: SUEB
 466.1.1:
-  pop:
-    religion: arianism
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 561.5.1:
-  pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 584.1.1:
   owner: VISG
   controller: VISG
@@ -58,10 +54,9 @@
   cores:
     VISG: no
     UMAY: yes
-  pop:
-    ethnicity: galician
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 739.1.1:
   owner: ASTU
   controller: ASTU
@@ -69,10 +64,9 @@
     UMAY: no
     ASTU: yes
 867.1.1:
-  pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 910.12.10:
   owner: GLC
   controller: GLC

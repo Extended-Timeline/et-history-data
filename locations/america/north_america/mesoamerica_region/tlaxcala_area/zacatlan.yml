@@ -5,11 +5,10 @@
   cores:
     CLL: yes
   resource: sugar
-  pop:
-    ethnicity: nahua_culture
-    religion: nahuatl
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: nahuatl
+      estate: peasant
+      size: 1000
 650.1.1:
   owner: XICA
   controller: XICA
@@ -33,15 +32,13 @@
     TLX: no
     SPA: yes
 1525.1.1:
-  pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1770.1.1:
-  pop:
-    ethnicity: mexican
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1810.9.16:
   owner: MEX
   controller: SPA

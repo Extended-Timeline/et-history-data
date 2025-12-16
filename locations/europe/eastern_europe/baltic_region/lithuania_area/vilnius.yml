@@ -1,10 +1,9 @@
 #imported from EU4 file: history/provinces/272 - Lithuania.txt
 2.1.1:
-  pop:
-    ethnicity: aukstaitian
-    religion: romuva
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: romuva
+      estate: peasant
+      size: 1000
 550.1.1:
   owner: LIT
   controller: LIT
@@ -12,20 +11,18 @@
     LIT: yes
   resource: grain
 1387.1.1:
-  pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1569.7.1:
   owner: PLC
   controller: PLC
   cores:
     PLC: yes
 1700.1.1:
-  pop:
-    ethnicity: lesser_polish
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1795.10.24:
   owner: RUS
   controller: RUS
@@ -67,10 +64,9 @@
 1944.7.1:
   controller: SOVI
 1945.1.1:
-  pop:
-    ethnicity: aukstaitian
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1945.5.8:
   cores:
     POL: no

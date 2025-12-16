@@ -5,16 +5,14 @@
   cores:
     ROM: yes
   resource: grain
-  pop:
-    ethnicity: greek_culture
-    religion: hellenism_religion
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: hellenism_religion
+      estate: peasant
+      size: 1000
 324.1.1:
-  pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 395.1.17:
   owner: BYZ
   controller: BYZ
@@ -26,10 +24,9 @@
 626.1.1:
   controller: BYZ
 867.1.1:
-  pop:
-    religion: orthodox
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1075.1.1:
   owner: RUM
   controller: RUM
@@ -68,11 +65,10 @@
 1360.1.1:
   cores:
     BYZ: no
-  pop:
-    ethnicity: turkish_culture
-    religion: sunni
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: sunni
+      estate: peasant
+      size: 1000
 1404.1.1:
   controller: TUR
 1482.7.26:

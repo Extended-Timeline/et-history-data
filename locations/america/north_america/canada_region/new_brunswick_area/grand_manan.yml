@@ -1,37 +1,33 @@
 #imported from EU4 file: history/provinces/2570 - Wolystooq.txt
 2.1.1:
-  pop:
-    ethnicity: wolastoqiyik_culture
-    religion: iroquoian_totemism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: iroquoian_totemism
+      estate: peasant
+      size: 1000
 1631.1.1:
   owner: FRA
   controller: FRA
   cores:
     FRA: yes
   resource: fish
-  pop:
-    ethnicity: french
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: catholic
+      estate: peasant
+      size: 1000
 1763.2.10:
   owner: GBR
   controller: GBR
   cores:
     FRA: no
     GBR: yes
-  pop:
-    ethnicity: english
-    religion: lutheran
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: lutheran
+      estate: peasant
+      size: 1000
 1790.1.1:
-  pop:
-    ethnicity: british_canadian
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1867.7.1:
   owner: CAN
   controller: CAN

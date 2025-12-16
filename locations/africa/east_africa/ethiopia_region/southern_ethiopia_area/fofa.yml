@@ -1,20 +1,18 @@
 #imported from EU4 file: history/provinces/4158 - Janjero.txt
 2.1.1:
-  pop:
-    ethnicity: sidama_culture
-    religion: bantu_religion
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: bantu_religion
+      estate: peasant
+      size: 1000
 1180.1.1:
   owner: SOA
   controller: SOA
   cores:
     SOA: yes
   resource: slaves
-  pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1283.1.1:
   owner: ENN
   controller: ENN
@@ -31,10 +29,9 @@
   controller: ETH
   cores:
     ETH: yes
-  pop:
-    ethnicity: oromo_culture
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1936.1.20:
   controller: ITA
 1936.5.9:

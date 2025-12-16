@@ -6,11 +6,10 @@
     HAN0: yes
     DI00: yes
   resource: chinaware
-  pop:
-    ethnicity: baima_culture
-    religion: mahayana
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: mahayana
+      estate: peasant
+      size: 1000
 9.1.10:
   owner: DI00
   controller: DI00
@@ -83,10 +82,9 @@
     TIB: no
     DI00: yes
 1050.1.1:
-  pop:
-    religion: tibetan_buddhism
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1072.1.1:
   owner: SONG
   controller: SONG

@@ -5,21 +5,19 @@
   cores:
     HAT: yes
   resource: fur
-  pop:
-    ethnicity: chalahgawtha_culture
-    religion: iroquoian_totemism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: iroquoian_totemism
+      estate: peasant
+      size: 1000
 1774.10.19:
   owner: GBR
   controller: GBR
   cores:
     GBR: yes
-  pop:
-    ethnicity: british_louisianan
-    religion: lutheran
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: lutheran
+      estate: peasant
+      size: 1000
 1776.7.4:
   owner: USA
   controller: USA

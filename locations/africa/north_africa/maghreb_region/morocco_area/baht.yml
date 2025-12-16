@@ -5,16 +5,14 @@
   cores:
     MOOR: yes
   resource: cloth
-  pop:
-    ethnicity: zenati
-    religion: bantu_religion
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: bantu_religion
+      estate: peasant
+      size: 1000
 320.1.1:
-  pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 708.1.1:
   owner: UMAY
   controller: UMAY
@@ -22,10 +20,9 @@
     MOOR: no
     UMAY: yes
 730.1.1:
-  pop:
-    religion: ibadi
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 743.1.1:
   owner: FEZ
   controller: FEZ
@@ -38,15 +35,13 @@
   cores:
     FEZ: no
     MOR: yes
-  pop:
-    ethnicity: moroccan
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 790.1.1:
-  pop:
-    religion: shia
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 922.1.1:
   owner: FATI
   controller: FATI
@@ -78,10 +73,9 @@
     FEZ: no
     MOR: yes
 1050.1.1:
-  pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1472.1.1:
   owner: FEZ
   controller: FEZ

@@ -5,11 +5,10 @@
   cores:
     QIAN: yes
   resource: salt
-  pop:
-    ethnicity: amdowa_culture
-    religion: bon
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: bon
+      estate: peasant
+      size: 1000
 284.1.1:
   owner: TUYU
   controller: TUYU
@@ -22,10 +21,9 @@
   cores:
     TIB: yes
 800.1.1:
-  pop:
-    religion: tibetan_buddhism
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 842.1.1:
   owner: PHAG
   controller: PHAG
@@ -86,10 +84,9 @@
     MGE: no
     MNG: yes
 1390.1.1:
-  pop:
-    ethnicity: xibei
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1644.1.1:
   owner: CSH
   controller: CSH

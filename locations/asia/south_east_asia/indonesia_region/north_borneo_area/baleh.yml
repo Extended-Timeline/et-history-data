@@ -1,10 +1,9 @@
 #imported from EU4 file: history/provinces/4806 - Kapit.txt
 2.1.1:
-  pop:
-    ethnicity: bidayuh_culture
-    religion: bimoism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: bimoism
+      estate: peasant
+      size: 1000
 620.1.1:
   owner: BEI
   controller: BEI
@@ -12,10 +11,9 @@
     BEI: yes
   resource: tropical_wood
 1330.1.1:
-  pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1580.1.1:
   owner: SPA
   controller: SPA
@@ -40,10 +38,9 @@
 1945.8.15:
   controller: GBR
 1950.1.1:
-  pop:
-    religion: lutheran
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1963.7.22:
   owner: SARA
   controller: SARA

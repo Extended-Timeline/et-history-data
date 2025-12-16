@@ -1,10 +1,9 @@
 #imported from EU4 file: history/provinces/479 - Kerey.txt
 2.1.1:
-  pop:
-    ethnicity: cuman_culture
-    religion: 
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: 
+      estate: peasant
+      size: 1000
 659.1.1:
   owner: KANG
   controller: KANG
@@ -23,10 +22,9 @@
   cores:
     CUMA: no
     KIME: yes
-  pop:
-    ethnicity: khazak
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1050.1.1:
   owner: KIPC
   controller: KIPC
@@ -39,10 +37,9 @@
   cores:
     CUMA: yes
 1180.1.1:
-  pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1236.1.1:
   owner: MGE
   controller: MGE

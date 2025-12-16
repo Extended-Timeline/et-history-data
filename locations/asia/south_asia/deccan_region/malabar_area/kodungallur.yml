@@ -5,11 +5,10 @@
   cores:
     CHER: yes
   resource: spices
-  pop:
-    ethnicity: malayali
-    religion: hindu
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: hindu
+      estate: peasant
+      size: 1000
 250.1.1:
   owner: KALA
   controller: KALA

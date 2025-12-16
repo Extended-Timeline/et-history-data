@@ -1,10 +1,9 @@
 #imported from EU4 file: history/provinces/4254 - Starodub.txt
 2.1.1:
-  pop:
-    ethnicity: muromian
-    religion: muinaisusko
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: muinaisusko
+      estate: peasant
+      size: 1000
 600.1.1:
   owner: MRM
   controller: MRM
@@ -18,10 +17,9 @@
     MRM: no
     KIEV: yes
 1040.1.1:
-  pop:
-    religion: orthodox
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1054.2.20:
   owner: VLR
   controller: VLR
@@ -29,10 +27,9 @@
     KIEV: no
     VLR: yes
 1060.1.1:
-  pop:
-    ethnicity: muscovite
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1389.1.1:
   owner: NZH
   controller: NZH

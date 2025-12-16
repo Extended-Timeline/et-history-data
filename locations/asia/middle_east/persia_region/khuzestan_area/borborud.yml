@@ -5,11 +5,10 @@
   cores:
     PART: yes
   resource: grain
-  pop:
-    ethnicity: lur_culture
-    religion: zoroastrian
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: zoroastrian
+      estate: peasant
+      size: 1000
 224.4.24:
   owner: ERA
   controller: ERA
@@ -28,10 +27,9 @@
   cores:
     RASH: no
     UMAY: yes
-  pop:
-    religion: shia
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 750.8.6:
   owner: ABBA
   controller: ABBA

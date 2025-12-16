@@ -1,10 +1,9 @@
 #imported from EU4 file: history/provinces/1221 - Taqali.txt
 2.1.1:
-  pop:
-    ethnicity: nubian_language
-    religion: bantu_religion
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: bantu_religion
+      estate: peasant
+      size: 1000
 1503.1.1:
   owner: FUNJ
   controller: FUNJ
@@ -12,10 +11,9 @@
     FUNJ: yes
   resource: slaves
 1620.1.1:
-  pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1821.6.14:
   owner: EGY
   controller: EGY
@@ -23,10 +21,9 @@
     EGY: yes
     TUR: yes
 1850.1.1:
-  pop:
-    ethnicity: sudanese_arab
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1882.9.13:
   owner: GBR
   controller: GBR

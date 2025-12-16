@@ -5,11 +5,10 @@
   cores:
     KED: yes
   resource: grain
-  pop:
-    ethnicity: malay_culture
-    religion: hindu
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: hindu
+      estate: peasant
+      size: 1000
 770.1.1:
   owner: SRIV
   controller: SRIV
@@ -22,10 +21,9 @@
     SRIV: no
     KED: yes
 1136.1.1:
-  pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1943.10.18:
   owner: SIA
   controller: SIA

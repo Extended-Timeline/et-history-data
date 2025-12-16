@@ -1,10 +1,9 @@
 #imported from EU4 file: history/provinces/1752 - Rzhev.txt
 2.1.1:
-  pop:
-    ethnicity: muscovite
-    religion: slavic
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: slavic
+      estate: peasant
+      size: 1000
 550.1.1:
   owner: VYAT
   controller: VYAT
@@ -30,10 +29,9 @@
     KIEV: no
     NOV: yes
 1140.1.1:
-  pop:
-    religion: orthodox
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1240.1.1:
   owner: SMO
   controller: SMO

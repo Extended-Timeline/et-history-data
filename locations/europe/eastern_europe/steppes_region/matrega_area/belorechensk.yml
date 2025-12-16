@@ -5,11 +5,10 @@
   cores:
     SIRA: yes
   resource: livestock
-  pop:
-    ethnicity: circassian_culture
-    religion: 
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: 
+      estate: peasant
+      size: 1000
 300.1.1:
   owner: CIR
   controller: CIR
@@ -17,15 +16,13 @@
     SIRA: no
     CIR: yes
 680.1.1:
-  pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 867.1.1:
-  pop:
-    religion: orthodox
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1239.1.1:
   owner: MGE
   controller: MGE
@@ -44,21 +41,19 @@
     WHHO: no
     CIR: yes
 1650.1.1:
-  pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1864.3.18:
   owner: RUS
   controller: RUS
   cores:
     RUS: yes
 1867.1.1:
-  pop:
-    ethnicity: muscovite
-    religion: orthodox
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: orthodox
+      estate: peasant
+      size: 1000
 1918.2.20:
   owner: UKR
   controller: UKR

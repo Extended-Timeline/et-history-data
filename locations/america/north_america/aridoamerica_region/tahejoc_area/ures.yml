@@ -5,27 +5,24 @@
   cores:
     YAQ: yes
   resource: grain
-  pop:
-    ethnicity: yaqui_culture
-    religion: iroquoian_totemism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: iroquoian_totemism
+      estate: peasant
+      size: 1000
 1700.5.18:
   owner: SPA
   controller: SPA
   cores:
     SPA: yes
   resource: livestock
-  pop:
-    ethnicity: castilian
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: catholic
+      estate: peasant
+      size: 1000
 1770.1.1:
-  pop:
-    ethnicity: mexican
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1810.9.16:
   owner: MEX
   controller: SPA

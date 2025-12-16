@@ -1,10 +1,9 @@
 #imported from EU4 file: history/provinces/303 - Saratow.txt
 2.1.1:
-  pop:
-    ethnicity: bolghar_culture
-    religion: 
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: 
+      estate: peasant
+      size: 1000
 660.1.1:
   owner: VBUL
   controller: VBUL
@@ -12,20 +11,18 @@
     VBUL: yes
   resource: livestock
 922.1.1:
-  pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1236.1.1:
   owner: MGE
   controller: MGE
   cores:
     MGE: yes
 1250.1.1:
-  pop:
-    ethnicity: mishar
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1260.1.1:
   owner: WHHO
   controller: WHHO
@@ -67,11 +64,10 @@
     KAZN: no
     RUS: yes
 1600.1.1:
-  pop:
-    ethnicity: muscovite
-    religion: orthodox
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: orthodox
+      estate: peasant
+      size: 1000
 1671.4.14:
   controller: RUS
 1775.2.1:

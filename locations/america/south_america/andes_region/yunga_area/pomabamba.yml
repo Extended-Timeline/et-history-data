@@ -1,10 +1,9 @@
 #imported from EU4 file: history/provinces/2835 - Sucre.txt
 2.1.1:
-  pop:
-    ethnicity: aimara_culture
-    religion: inti
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: inti
+      estate: peasant
+      size: 1000
 1300.1.1:
   owner: CRA
   controller: CRA
@@ -21,16 +20,14 @@
   controller: SPA
   cores:
     SPA: yes
-  pop:
-    ethnicity: castilian
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: catholic
+      estate: peasant
+      size: 1000
 1770.1.1:
-  pop:
-    ethnicity: iberian_peruvian
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1825.8.6:
   owner: BOLI
   controller: BOLI

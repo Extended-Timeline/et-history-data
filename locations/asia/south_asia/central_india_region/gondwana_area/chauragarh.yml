@@ -6,11 +6,10 @@
     WSAT: yes
     MLW: yes
   resource: cotton
-  pop:
-    ethnicity: malvi
-    religion: hindu
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: hindu
+      estate: peasant
+      size: 1000
 280.1.1:
   owner: VAKA
   controller: VAKA

@@ -5,11 +5,10 @@
   cores:
     DACI: yes
   resource: wool
-  pop:
-    ethnicity: dacian
-    religion: zamolxism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: zamolxism
+      estate: peasant
+      size: 1000
 106.1.1:
   owner: ROM
   controller: ROM
@@ -24,15 +23,13 @@
   cores:
     ROM: no
     VISG: yes
-  pop:
-    religion: germanic
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 360.1.1:
-  pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 376.1.1:
   owner: HUNS
   controller: HUNS
@@ -40,10 +37,9 @@
     VISG: no
     HUNS: yes
 450.1.1:
-  pop:
-    ethnicity: wallachian
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 469.1.1:
   owner: GEPI
   controller: GEPI
@@ -56,10 +52,9 @@
   cores:
     GEPI: no
     AVR: yes
-  pop:
-    religion: 
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 804.1.1:
   owner: BUL
   controller: BUL
@@ -77,20 +72,17 @@
   controller: HUN
   cores:
     HUN: yes
-  pop:
-    ethnicity: hungarian
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1040.1.1:
-  pop:
-    religion: orthodox
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1200.1.1:
-  pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1507.1.1:
   controller: TRA
 1514.10.1:

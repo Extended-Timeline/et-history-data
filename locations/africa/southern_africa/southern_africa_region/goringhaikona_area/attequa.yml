@@ -1,18 +1,16 @@
 #imported from EU4 file: history/provinces/1179 - Little Karoo.txt
 2.1.1:
-  pop:
-    ethnicity: khoemana_culture
-    religion: bantu_religion
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: bantu_religion
+      estate: peasant
+      size: 1000
 1746.1.1:
   owner: NED
   controller: NED
-  pop:
-    ethnicity: low_franconian
-    religion: calvinist
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: calvinist
+      estate: peasant
+      size: 1000
 1794.1.1:
   controller: NED
 1795.2.1:

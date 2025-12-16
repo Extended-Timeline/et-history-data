@@ -1,10 +1,9 @@
 #imported from EU4 file: history/provinces/1755 - Ustyug.txt
 2.1.1:
-  pop:
-    ethnicity: udmurt
-    religion: muinaisusko
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: muinaisusko
+      estate: peasant
+      size: 1000
 750.1.1:
   owner: PRM
   controller: PRM
@@ -18,11 +17,10 @@
     VLR: yes
     NOV: yes
 1212.1.1:
-  pop:
-    ethnicity: novgorodian
-    religion: orthodox
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: orthodox
+      estate: peasant
+      size: 1000
 1328.1.1:
   owner: MOS
   controller: MOS

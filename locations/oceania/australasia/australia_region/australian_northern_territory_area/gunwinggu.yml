@@ -1,10 +1,9 @@
 #imported from EU4 file: history/provinces/2729 - Yolngu.txt
 2.1.1:
-  pop:
-    ethnicity: yangman_culture
-    religion: dreamtime_religion
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: dreamtime_religion
+      estate: peasant
+      size: 1000
 1200.1.1:
   cores:
     ???: yes
@@ -14,10 +13,9 @@
   controller: GBR
   cores:
     GBR: yes
-  pop:
-    religion: lutheran
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1901.1.1:
   owner: AUST
   controller: AUST

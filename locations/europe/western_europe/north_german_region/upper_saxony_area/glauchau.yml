@@ -5,11 +5,10 @@
   cores:
     HERM: yes
   resource: cloth
-  pop:
-    ethnicity: east_franconian
-    religion: germanic
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: germanic
+      estate: peasant
+      size: 1000
 390.1.1:
   owner: THU
   controller: THU
@@ -22,11 +21,10 @@
   cores:
     LOMB: no
     SORB: yes
-  pop:
-    ethnicity: sorbian
-    religion: slavic
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: slavic
+      estate: peasant
+      size: 1000
 932.1.1:
   owner: SAX
   controller: SAX
@@ -40,11 +38,10 @@
     SAX: no
     BRA: yes
 960.1.1:
-  pop:
-    ethnicity: saxon
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: catholic
+      estate: peasant
+      size: 1000
 965.5.20:
   owner: MEI
   controller: MEI

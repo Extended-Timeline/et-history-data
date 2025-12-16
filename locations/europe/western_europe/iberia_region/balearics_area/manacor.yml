@@ -5,11 +5,10 @@
   cores:
     ROM: yes
   resource: fish
-  pop:
-    ethnicity: iberi
-    religion: bimoism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: bimoism
+      estate: peasant
+      size: 1000
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -17,10 +16,9 @@
     ROM: no
     ROMW: yes
 400.1.1:
-  pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 450.1.1:
   owner: VAND
   controller: VAND
@@ -46,11 +44,10 @@
     UMAY: no
     CRDB: yes
 800.1.1:
-  pop:
-    ethnicity: andalusi
-    religion: sunni
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: sunni
+      estate: peasant
+      size: 1000
 1011.1.1:
   owner: DENI
   controller: DENI
@@ -92,15 +89,13 @@
     MAJO: no
     MLL: yes
     ARA: yes
-  pop:
-    ethnicity: catalan
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1250.1.1:
-  pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1286.1.1:
   owner: ARA
   controller: ARA

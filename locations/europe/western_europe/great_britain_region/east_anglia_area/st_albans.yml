@@ -5,11 +5,10 @@
   cores:
     ICEN: yes
   resource: cloth
-  pop:
-    ethnicity: briton
-    religion: druidism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: druidism
+      estate: peasant
+      size: 1000
 43.1.1:
   owner: ROM
   controller: ROM
@@ -28,16 +27,14 @@
     ROMW: no
     ICEN: no
     EANG: yes
-  pop:
-    ethnicity: anglo_saxon
-    religion: germanic
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: germanic
+      estate: peasant
+      size: 1000
 616.1.1:
-  pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 794.1.1:
   owner: MERC
   controller: MERC
@@ -49,10 +46,9 @@
   cores:
     MERC: no
 867.1.1:
-  pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 869.1.1:
   owner: DAN
   controller: DAN
@@ -74,15 +70,13 @@
   cores:
     EANG: no
 1066.12.25:
-  pop:
-    ethnicity: english
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1560.1.1:
-  pop:
-    religion: lutheran
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1642.10.24:
   controller: ENG
 1707.5.12:

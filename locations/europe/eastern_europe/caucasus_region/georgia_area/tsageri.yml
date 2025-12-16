@@ -5,16 +5,14 @@
   cores:
     IBER: yes
   resource: cloth
-  pop:
-    ethnicity: georgian_culture
-    religion: georgian_religion
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: georgian_religion
+      estate: peasant
+      size: 1000
 319.1.1:
-  pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 527.1.1:
   controller: ERA
 532.1.1:
@@ -49,10 +47,9 @@
   cores:
     ABBA: no
 867.1.1:
-  pop:
-    religion: orthodox
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 875.1.1:
   owner: ABKH
   controller: ABKH

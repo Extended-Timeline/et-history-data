@@ -1,20 +1,18 @@
 #imported from EU4 file: history/provinces/4075 - Lango.txt
 2.1.1:
-  pop:
-    ethnicity: luo_culture
-    religion: bantu_religion
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: bantu_religion
+      estate: peasant
+      size: 1000
 1894.1.1:
   owner: GBR
   controller: GBR
   cores:
     GBR: yes
   resource: grain
-  pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1962.10.9:
   owner: UGAN
   controller: UGAN

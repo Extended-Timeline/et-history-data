@@ -1,19 +1,17 @@
 #imported from EU4 file: history/provinces/2865 - Salinas Grande.txt
 2.1.1:
-  pop:
-    ethnicity: het_culture
-    religion: muisca_religion
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: muisca_religion
+      estate: peasant
+      size: 1000
 1780.1.1:
   owner: SPA
   controller: SPA
   resource: livestock
-  pop:
-    ethnicity: iberian_la_platan
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: catholic
+      estate: peasant
+      size: 1000
 1800.1.1:
   cores:
     SPA: yes

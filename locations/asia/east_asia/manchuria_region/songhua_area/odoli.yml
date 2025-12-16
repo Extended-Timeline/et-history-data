@@ -5,21 +5,19 @@
   cores:
     BUYE: yes
   resource: grain
-  pop:
-    ethnicity: buyeo
-    religion: muism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: muism
+      estate: peasant
+      size: 1000
 380.1.1:
   owner: GOGU
   controller: GOGU
   cores:
     GOGU: yes
 390.1.1:
-  pop:
-    religion: mahayana
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 698.1.1:
   owner: BALH
   controller: BALH
@@ -33,15 +31,13 @@
     BALH: no
     LIAO: yes
 950.1.1:
-  pop:
-    ethnicity: jurchen_culture
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1110.1.1:
-  pop:
-    religion: sanjiao
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1115.1.1:
   owner: JIN0
   controller: JIN0
@@ -77,10 +73,9 @@
   cores:
     JIAZ: no
     MCH: yes
-  pop:
-    ethnicity: manchu_new
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1636.5.15:
   owner: QNG
   controller: QNG

@@ -5,11 +5,10 @@
   cores:
     MON0: yes
   resource: ivory
-  pop:
-    ethnicity: mon_culture
-    religion: mahayana
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: mahayana
+      estate: peasant
+      size: 1000
 150.1.1:
   owner: FUNA
   controller: FUNA
@@ -23,10 +22,9 @@
     FUNA: no
     DVAR: yes
 600.1.1:
-  pop:
-    religion: theravada
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 661.1.1:
   owner: LAV
   controller: LAV
@@ -39,20 +37,18 @@
   cores:
     CAMB: yes
 1050.1.1:
-  pop:
-    ethnicity: thai_culture
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1060.1.1:
   owner: LAV
   controller: LAV
   cores:
     CAMB: no
 1290.1.1:
-  pop:
-    religion: theravada
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1350.1.1:
   owner: AYU
   controller: AYU

@@ -1,10 +1,9 @@
 #imported from EU4 file: history/provinces/1048 - Miyoo Gasan.txt
 2.1.1:
-  pop:
-    ethnicity: evenk_culture
-    religion: 
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: 
+      estate: peasant
+      size: 1000
 1206.1.1:
   owner: NVK
   controller: NVK
@@ -29,10 +28,9 @@
     QNG: no
     RUS: yes
 1880.1.1:
-  pop:
-    religion: orthodox
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1922.12.30:
   owner: SOVI
   controller: SOVI

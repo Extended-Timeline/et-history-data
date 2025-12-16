@@ -5,11 +5,10 @@
   cores:
     DASA: yes
   resource: gems
-  pop:
-    ethnicity: bundeli
-    religion: hindu
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: hindu
+      estate: peasant
+      size: 1000
 360.1.1:
   owner: BGK
   controller: BGK

@@ -5,11 +5,10 @@
   cores:
     CALD: yes
   resource: grain
-  pop:
-    ethnicity: pictish
-    religion: druidism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: druidism
+      estate: peasant
+      size: 1000
 250.1.1:
   owner: PICT
   controller: PICT
@@ -21,15 +20,13 @@
   cores:
     PICT: no
     DALR: yes
-  pop:
-    ethnicity: highland
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 600.1.1:
-  pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 736.1.1:
   owner: PICT
   controller: PICT
@@ -47,15 +44,13 @@
     SCO: no
     LOI: yes
 850.1.1:
-  pop:
-    religion: norse
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 920.1.1:
-  pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1005.1.1:
   owner: NOR
   controller: NOR
@@ -70,10 +65,9 @@
   owner: SCO
   controller: SCO
 1560.8.1:
-  pop:
-    religion: calvinist
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1707.5.12:
   owner: GBR
   controller: GBR

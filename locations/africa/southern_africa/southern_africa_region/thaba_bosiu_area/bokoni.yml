@@ -1,25 +1,22 @@
 #imported from EU4 file: history/provinces/3012 - Mpumalanga.txt
 2.1.1:
-  pop:
-    ethnicity: kung_culture
-    religion: bantu_religion
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: bantu_religion
+      estate: peasant
+      size: 1000
 100.1.1:
-  pop:
-    ethnicity: nguni_culture
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1852.1.17:
   owner: SAFR
   controller: SAFR
   cores:
     SAFR: yes
   resource: grain
-  pop:
-    religion: calvinist
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1860.1.1:
   resource: gems
 1877.4.12:

@@ -5,21 +5,19 @@
   cores:
     BALU: yes
   resource: dyes
-  pop:
-    ethnicity: baloch_culture
-    religion: zoroastrian
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: zoroastrian
+      estate: peasant
+      size: 1000
 300.1.1:
   owner: ERA
   controller: ERA
   cores:
     ERA: yes
 600.1.1:
-  pop:
-    religion: hindu
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 620.1.1:
   owner: BALU
   controller: BALU
@@ -50,10 +48,9 @@
     UMAY: no
     ABBA: yes
 780.1.1:
-  pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 841.1.1:
   owner: SND
   controller: SND
@@ -73,20 +70,18 @@
     SIST: no
     BALU: yes
 971.1.1:
-  pop:
-    religion: ibadi
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1011.1.1:
   owner: GHAZ
   controller: GHAZ
   cores:
     GHAZ: yes
 1070.1.1:
-  pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1175.1.1:
   owner: GHOR
   controller: GHOR

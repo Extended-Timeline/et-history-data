@@ -1,10 +1,9 @@
 #imported from EU4 file: history/provinces/814 - Huanuco.txt
 2.1.1:
-  pop:
-    ethnicity: inka_culture
-    religion: inti
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: inti
+      estate: peasant
+      size: 1000
 500.1.1:
   owner: HUAR
   controller: HUAR
@@ -28,10 +27,9 @@
 1533.8.29:
   owner: SPA
   controller: SPA
-  pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1558.8.29:
   cores:
     SPA: yes

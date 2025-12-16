@@ -1,10 +1,9 @@
 #imported from EU4 file: history/provinces/2105 - Kuru.txt
 2.1.1:
-  pop:
-    ethnicity: jurchen_culture
-    religion: 
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: 
+      estate: peasant
+      size: 1000
 600.1.1:
   owner: HSMO
   controller: HSMO
@@ -39,21 +38,18 @@
     RUS: no
     SOVI: yes
 1932.1.1:
-  pop:
-    ethnicity: muscovite
-    religion: orthodox
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: orthodox
+      estate: peasant
+      size: 1000
 1946.1.1:
-  pop:
-    religion: judaism
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1960.1.1:
-  pop:
-    religion: orthodox
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1991.12.25:
   owner: RUS
   controller: RUS

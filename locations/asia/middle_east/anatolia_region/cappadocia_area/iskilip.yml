@@ -5,11 +5,10 @@
   cores:
     ROM: yes
   resource: wool
-  pop:
-    ethnicity: galatian
-    religion: hellenism_religion
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: hellenism_religion
+      estate: peasant
+      size: 1000
 395.1.17:
   owner: BYZ
   controller: BYZ
@@ -17,24 +16,21 @@
     ROM: no
     BYZ: yes
 440.1.1:
-  pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 600.1.1:
-  pop:
-    ethnicity: greek_culture
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 615.1.1:
   controller: ERA
 626.1.1:
   controller: BYZ
 867.1.1:
-  pop:
-    religion: orthodox
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1075.1.1:
   owner: DANI
   controller: DANI
@@ -43,11 +39,10 @@
 1120.1.1:
   cores:
     BYZ: no
-  pop:
-    ethnicity: turkish_culture
-    religion: sunni
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: sunni
+      estate: peasant
+      size: 1000
 1178.1.1:
   owner: RUM
   controller: RUM

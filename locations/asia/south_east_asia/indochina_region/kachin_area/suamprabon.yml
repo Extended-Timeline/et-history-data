@@ -5,11 +5,10 @@
   cores:
     PONG: yes
   resource: grain
-  pop:
-    ethnicity: kado_culture
-    religion: bimoism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: bimoism
+      estate: peasant
+      size: 1000
 820.1.1:
   owner: NANZ
   controller: NANZ
@@ -44,10 +43,9 @@
   cores:
     BURM: yes
 1800.1.1:
-  pop:
-    religion: theravada
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1885.11.29:
   owner: GBR
   controller: GBR

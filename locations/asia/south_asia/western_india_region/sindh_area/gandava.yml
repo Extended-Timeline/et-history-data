@@ -6,11 +6,10 @@
     IPAR: yes
     BALU: yes
   resource: wool
-  pop:
-    ethnicity: baloch_culture
-    religion: hindu
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: hindu
+      estate: peasant
+      size: 1000
 46.1.1:
   owner: BALU
   controller: BALU
@@ -53,10 +52,9 @@
     UMAY: no
     ABBA: yes
 800.1.1:
-  pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 841.1.1:
   owner: SND
   controller: SND

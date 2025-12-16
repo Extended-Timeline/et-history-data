@@ -1,10 +1,9 @@
 #imported from EU4 file: history/provinces/774 - Al-Junaynah.txt
 2.1.1:
-  pop:
-    ethnicity: daju_language
-    religion: bantu_religion
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: bantu_religion
+      estate: peasant
+      size: 1000
 1100.1.1:
   owner: DAJ
   controller: DAJ
@@ -16,10 +15,9 @@
   controller: TUNJ
   cores:
     TUNJ: yes
-  pop:
-    ethnicity: tunjur_culture
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1470.1.1:
   cores:
     DAJ: no
@@ -29,10 +27,9 @@
   cores:
     DARF: yes
 1682.1.1:
-  pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1874.1.1:
   owner: EGY
   controller: EGY
@@ -53,10 +50,9 @@
   cores:
     DARF: yes
 1900.1.1:
-  pop:
-    ethnicity: fur_culture
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1916.1.1:
   owner: GBR
   controller: GBR

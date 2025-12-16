@@ -5,11 +5,10 @@
   cores:
     MARC: yes
   resource: grain
-  pop:
-    ethnicity: southern_bavarian
-    religion: germanic
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: germanic
+      estate: peasant
+      size: 1000
 454.1.1:
   owner: RUGI
   controller: RUGI
@@ -22,21 +21,19 @@
   cores:
     RUGI: no
     LOMB: yes
-  pop:
-    ethnicity: langobardi
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 569.1.1:
   owner: MVA
   controller: MVA
   cores:
     LOMB: no
     MVA: yes
-  pop:
-    ethnicity: czech
-    religion: slavic
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: slavic
+      estate: peasant
+      size: 1000
 623.1.1:
   owner: SAMO
   controller: SAMO
@@ -48,10 +45,9 @@
   cores:
     SAMO: no
 880.1.1:
-  pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 894.1.1:
   owner: BOH
   controller: BOH

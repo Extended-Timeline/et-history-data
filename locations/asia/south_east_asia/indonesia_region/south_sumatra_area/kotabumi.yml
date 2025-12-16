@@ -1,10 +1,9 @@
 #imported from EU4 file: history/provinces/623 - Lampung.txt
 2.1.1:
-  pop:
-    ethnicity: malay_culture
-    religion: mahayana
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: mahayana
+      estate: peasant
+      size: 1000
 683.1.1:
   owner: SRIV
   controller: SRIV
@@ -24,15 +23,13 @@
     SING: no
     MAJ: yes
 1340.1.1:
-  pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1350.1.1:
-  pop:
-    ethnicity: javanese_culture
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1377.1.1:
   owner: PLB
   controller: PLB

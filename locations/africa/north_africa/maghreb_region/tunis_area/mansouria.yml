@@ -5,16 +5,14 @@
   cores:
     ROM: yes
   resource: iron
-  pop:
-    ethnicity: zenati
-    religion: bantu_religion
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: bantu_religion
+      estate: peasant
+      size: 1000
 340.1.1:
-  pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -27,10 +25,9 @@
   cores:
     ROMW: no
     VAND: yes
-  pop:
-    religion: arianism
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 534.3.1:
   owner: BYZ
   controller: BYZ
@@ -38,10 +35,9 @@
     VAND: no
     BYZ: yes
 560.1.1:
-  pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 708.1.1:
   owner: UMAY
   controller: UMAY
@@ -49,10 +45,9 @@
     BYZ: no
     UMAY: yes
 740.1.1:
-  pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 745.1.1:
   owner: TUN
   controller: TUN

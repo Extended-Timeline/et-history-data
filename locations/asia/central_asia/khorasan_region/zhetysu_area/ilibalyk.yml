@@ -5,11 +5,10 @@
   cores:
     WUSU: yes
   resource: cloth
-  pop:
-    ethnicity: tocharian
-    religion: 
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: 
+      estate: peasant
+      size: 1000
 495.1.1:
   owner: HEPH
   controller: HEPH
@@ -34,10 +33,9 @@
   cores:
     WGOK: no
     TURG: yes
-  pop:
-    ethnicity: uzbek_culture
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 766.1.1:
   owner: KARL
   controller: KARL
@@ -62,10 +60,9 @@
   cores:
     KKHI: no
     MGE: yes
-  pop:
-    ethnicity: khazak
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1260.1.1:
   owner: CHG
   controller: CHG
@@ -79,10 +76,9 @@
     CHG: no
     MOGH: yes
 1350.1.1:
-  pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1465.1.1:
   owner: KAZA
   controller: KAZA

@@ -5,21 +5,19 @@
   cores:
     COTT: yes
   resource: iron
-  pop:
-    ethnicity: gallian
-    religion: druidism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: druidism
+      estate: peasant
+      size: 1000
 64.1.1:
   owner: ROM
   controller: ROM
   cores:
     ROM: yes
 330.1.1:
-  pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -46,10 +44,9 @@
   cores:
     OSTR: no
     LOMB: yes
-  pop:
-    ethnicity: piedmontese
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 773.1.1:
   owner: FRAN
   controller: FRAN
@@ -69,10 +66,9 @@
     LOMB: no
     ITA: yes
 867.1.1:
-  pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 962.2.2:
   owner: TURI
   controller: TURI

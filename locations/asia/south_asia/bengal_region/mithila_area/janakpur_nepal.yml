@@ -5,11 +5,10 @@
   cores:
     KTU: yes
   resource: wool
-  pop:
-    ethnicity: newar_culture
-    religion: hindu
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: hindu
+      estate: peasant
+      size: 1000
 1482.1.1:
   owner: GRK
   controller: GRK

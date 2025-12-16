@@ -5,22 +5,20 @@
   cores:
     BUR: yes
   resource: iron
-  pop:
-    ethnicity: burgundione
-    religion: germanic
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: germanic
+      estate: peasant
+      size: 1000
 395.1.1:
   owner: SIL
   controller: SIL
   cores:
     BUR: no
     SIL: yes
-  pop:
-    ethnicity: silesian
-    religion: slavic
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: slavic
+      estate: peasant
+      size: 1000
 940.1.1:
   owner: BOH
   controller: BOH
@@ -33,10 +31,9 @@
     BOH: no
     POL: yes
 1020.1.1:
-  pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1039.1.1:
   owner: BOH
   controller: BOH
@@ -66,10 +63,9 @@
     WRC: no
     GLG: yes
 1300.1.1:
-  pop:
-    ethnicity: german_silesian
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1331.1.11:
   owner: BOH
   controller: BOH
@@ -135,8 +131,7 @@
   cores:
     GER: no
     POL: yes
-  pop:
-    ethnicity: lesser_polish
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: catholic
+      estate: peasant
+      size: 1000

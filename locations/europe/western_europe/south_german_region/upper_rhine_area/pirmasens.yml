@@ -5,11 +5,10 @@
   cores:
     ROM: yes
   resource: cloth
-  pop:
-    ethnicity: rhine_franconian
-    religion: germanic
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: germanic
+      estate: peasant
+      size: 1000
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -42,10 +41,9 @@
   owner: ASTS
   controller: ASTS
 600.1.1:
-  pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 613.10.10:
   owner: FRAN
   controller: FRAN
@@ -70,10 +68,9 @@
     FRAN: no
     EFRA: yes
 867.1.1:
-  pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 911.11.10:
   owner: LOT
   controller: LOT
@@ -98,20 +95,17 @@
     FKN: no
     PAL: yes
 1533.1.1:
-  pop:
-    religion: calvinist
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1557.1.1:
-  pop:
-    religion: lutheran
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1588.1.1:
-  pop:
-    religion: calvinist
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1680.1.1:
   owner: FRA
   controller: FRA

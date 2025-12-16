@@ -1,15 +1,13 @@
 #imported from EU4 file: history/provinces/2276 - Itesan.txt
 2.1.1:
-  pop:
-    ethnicity: tuareg
-    religion: bantu_religion
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: bantu_religion
+      estate: peasant
+      size: 1000
 1100.1.1:
-  pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1250.1.1:
   owner: TAKE
   controller: TAKE

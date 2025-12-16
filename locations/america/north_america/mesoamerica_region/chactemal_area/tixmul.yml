@@ -5,11 +5,10 @@
   cores:
     ITZ: yes
   resource: cocoa
-  pop:
-    ethnicity: yucatec_culture
-    religion: mayan
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: mayan
+      estate: peasant
+      size: 1000
 987.1.1:
   owner: MAY
   controller: MAY
@@ -27,16 +26,14 @@
   cores:
     SPA: yes
 1572.1.1:
-  pop:
-    ethnicity: castilian
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: catholic
+      estate: peasant
+      size: 1000
 1770.1.1:
-  pop:
-    ethnicity: mexican
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1810.9.16:
   owner: MEX
   controller: SPA

@@ -5,11 +5,10 @@
   cores:
     XION: yes
   resource: livestock
-  pop:
-    ethnicity: mongolian_culture
-    religion: 
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: 
+      estate: peasant
+      size: 1000
 89.1.1:
   owner: XIAN
   controller: XIAN
@@ -77,10 +76,9 @@
 1552.1.1:
   controller: MGE
 1586.1.1:
-  pop:
-    religion: tibetan_buddhism
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1688.1.1:
   owner: ZUNG
   controller: ZUNG

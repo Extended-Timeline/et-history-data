@@ -1,15 +1,13 @@
 #imported from EU4 file: history/provinces/2500 - Querecho.txt
 2.1.1:
-  pop:
-    ethnicity: coahuilteco_culture
-    religion: iroquoian_totemism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: iroquoian_totemism
+      estate: peasant
+      size: 1000
 1200.1.1:
-  pop:
-    ethnicity: lepai_nde_culture
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1720.1.1:
   owner: LIPA
   controller: LIPA
@@ -21,20 +19,18 @@
   controller: MEX
   cores:
     MEX: yes
-  pop:
-    ethnicity: mexican
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: catholic
+      estate: peasant
+      size: 1000
 1836.3.2:
   owner: TEXA
   controller: TEXA
   cores:
     TEXA: yes
-  pop:
-    ethnicity: british_louisianan
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1845.12.29:
   owner: USA
   controller: USA
@@ -44,10 +40,9 @@
   cores:
     MEX: no
 1850.1.1:
-  pop:
-    religion: lutheran
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1861.2.1:
   owner: TEXA
   controller: TEXA

@@ -1,10 +1,9 @@
 #imported from EU4 file: history/provinces/2715 - Palopo.txt
 2.1.1:
-  pop:
-    ethnicity: makassarese_culture
-    religion: bimoism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: bimoism
+      estate: peasant
+      size: 1000
 960.1.1:
   owner: LUW
   controller: LUW
@@ -12,10 +11,9 @@
     LUW: yes
   resource: iron
 1605.2.1:
-  pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1905.1.1:
   owner: NED
   controller: NED

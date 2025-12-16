@@ -5,11 +5,10 @@
   cores:
     PART: yes
   resource: cotton
-  pop:
-    ethnicity: sogdian
-    religion: mahayana
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: mahayana
+      estate: peasant
+      size: 1000
 50.1.1:
   owner: KUSH
   controller: KUSH
@@ -72,15 +71,13 @@
   cores:
     ABBA: no
     KRT: yes
-  pop:
-    ethnicity: tajik_culture
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 820.1.1:
-  pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 870.1.1:
   owner: GUZG
   controller: GUZG
@@ -105,10 +102,9 @@
     SELJ: no
     GHOR: yes
 1200.1.1:
-  pop:
-    ethnicity: afghan_culture
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1207.1.1:
   owner: KHWA
   controller: KHWA

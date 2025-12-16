@@ -5,21 +5,18 @@
   cores:
     AKSM: yes
   resource: grain
-  pop:
-    ethnicity: tigrinya
-    religion: south_arabian
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: south_arabian
+      estate: peasant
+      size: 1000
 400.1.1:
-  pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 451.11.1:
-  pop:
-    religion: miaphysite
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 960.1.1:
   owner: BEGN
   controller: BEGN

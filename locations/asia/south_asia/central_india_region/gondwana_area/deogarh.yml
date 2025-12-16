@@ -5,11 +5,10 @@
   cores:
     GOND: yes
   resource: grain
-  pop:
-    ethnicity: bundeli
-    religion: jain
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: jain
+      estate: peasant
+      size: 1000
 360.1.1:
   owner: BND
   controller: BND
@@ -28,10 +27,9 @@
   cores:
     GUJ: yes
 620.1.1:
-  pop:
-    religion: hindu
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 745.1.1:
   owner: GURJ
   controller: GURJ

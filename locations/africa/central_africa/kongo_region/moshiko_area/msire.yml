@@ -1,25 +1,22 @@
 #imported from EU4 file: history/provinces/4046 - Lala.txt
 2.1.1:
-  pop:
-    ethnicity: zembere
-    religion: bantu_religion
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: bantu_religion
+      estate: peasant
+      size: 1000
 100.1.1:
-  pop:
-    ethnicity: tonga
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1897.1.1:
   owner: GBR
   controller: GBR
   cores:
     GBR: yes
   resource: copper
-  pop:
-    religion: lutheran
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1964.10.24:
   owner: ZAMB
   controller: ZAMB

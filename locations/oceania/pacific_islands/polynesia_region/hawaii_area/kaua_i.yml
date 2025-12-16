@@ -1,10 +1,9 @@
 #imported from EU4 file: history/provinces/4936 - Kauai.txt
 2.1.1:
-  pop:
-    ethnicity: maohi_culture
-    religion: bimoism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: bimoism
+      estate: peasant
+      size: 1000
 1060.1.1:
   owner: KAU
   controller: KAU
@@ -33,10 +32,9 @@
   owner: HAW
   controller: HAW
 1862.1.1:
-  pop:
-    religion: lutheran
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1898.7.4:
   owner: USA
   controller: USA
@@ -44,7 +42,6 @@
     HAW: no
     USA: yes
 1920.1.1:
-  pop:
-    ethnicity: british_californian
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000

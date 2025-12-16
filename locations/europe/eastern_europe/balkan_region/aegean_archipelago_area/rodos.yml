@@ -5,16 +5,14 @@
   cores:
     ROM: yes
   resource: fish
-  pop:
-    ethnicity: greek_culture
-    religion: hellenism_religion
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: hellenism_religion
+      estate: peasant
+      size: 1000
 300.1.1:
-  pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 395.1.17:
   owner: BYZ
   controller: BYZ
@@ -26,10 +24,9 @@
 675.1.1:
   controller: BYZ
 867.1.1:
-  pop:
-    religion: orthodox
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1090.1.1:
   owner: RUM
   controller: RUM

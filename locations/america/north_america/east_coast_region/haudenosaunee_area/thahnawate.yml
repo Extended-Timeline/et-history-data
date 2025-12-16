@@ -5,50 +5,45 @@
   cores:
     WRO: yes
   resource: fur
-  pop:
-    ethnicity: tionontate_culture
-    religion: iroquoian_totemism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: iroquoian_totemism
+      estate: peasant
+      size: 1000
 1726.1.1:
   owner: FRA
   controller: FRA
   cores:
     FRA: yes
-  pop:
-    ethnicity: french
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: catholic
+      estate: peasant
+      size: 1000
 1763.2.10:
   owner: GBR
   controller: GBR
   cores:
     FRA: no
     GBR: yes
-  pop:
-    ethnicity: english
-    religion: lutheran
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: lutheran
+      estate: peasant
+      size: 1000
 1763.10.9:
   owner: WRO
   controller: WRO
   cores:
     GBR: no
     WRO: yes
-  pop:
-    ethnicity: onondowaga_culture
-    religion: iroquoian_totemism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: iroquoian_totemism
+      estate: peasant
+      size: 1000
 1784.10.22:
   owner: USA
   controller: USA
   cores:
     USA: yes
-  pop:
-    ethnicity: american
-    religion: lutheran
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: lutheran
+      estate: peasant
+      size: 1000

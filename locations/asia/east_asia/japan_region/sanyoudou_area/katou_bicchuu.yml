@@ -5,11 +5,10 @@
   cores:
     KIBI: yes
   resource: iron
-  pop:
-    ethnicity: saigoku_culture
-    religion: shinto
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: shinto
+      estate: peasant
+      size: 1000
 580.1.1:
   owner: YMT
   controller: YMT
@@ -17,15 +16,13 @@
     KIBI: no
     YMT: yes
 607.1.1:
-  pop:
-    religion: mahayana
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 712.1.1:
-  pop:
-    religion: shinto
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 794.1.1:
   owner: JAP
   controller: JAP

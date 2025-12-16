@@ -5,21 +5,19 @@
   cores:
     MAUT: yes
   resource: livestock
-  pop:
-    ethnicity: zenati
-    religion: bantu_religion
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: bantu_religion
+      estate: peasant
+      size: 1000
 40.1.1:
   owner: ROM
   controller: ROM
   cores:
     ROM: yes
 340.1.1:
-  pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -44,15 +42,13 @@
   cores:
     UMAY: yes
 725.1.1:
-  pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 739.1.1:
-  pop:
-    religion: ibadi
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 743.1.1:
   owner: TLE
   controller: TLE
@@ -65,10 +61,9 @@
   cores:
     TLE: no
     MZB: yes
-  pop:
-    religion: ibadi
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 909.1.1:
   owner: FATI
   controller: FATI
@@ -76,10 +71,9 @@
     MZB: no
     FATI: yes
 960.1.1:
-  pop:
-    religion: shia
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 973.1.1:
   owner: TUN
   controller: TUN
@@ -93,10 +87,9 @@
     TUN: no
     KABY: yes
 1040.1.1:
-  pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1070.1.1:
   owner: MOR
   controller: MOR

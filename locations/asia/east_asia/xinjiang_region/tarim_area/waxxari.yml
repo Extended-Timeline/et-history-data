@@ -5,26 +5,23 @@
   cores:
     SHAN: yes
   resource: livestock
-  pop:
-    ethnicity: tocharian
-    religion: mahayana
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: mahayana
+      estate: peasant
+      size: 1000
 300.1.1:
-  pop:
-    ethnicity: oirat_culture
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 350.1.1:
   owner: TUYU
   controller: TUYU
   cores:
     TUYU: yes
 420.1.1:
-  pop:
-    ethnicity: uyghur_culture
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 460.1.1:
   owner: HEPH
   controller: HEPH
@@ -60,15 +57,13 @@
     TANG: no
     TIB: yes
 765.1.1:
-  pop:
-    religion: manichaeism
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 840.1.1:
-  pop:
-    religion: tibetan_buddhism
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 842.1.1:
   owner: UTSA
   controller: UTSA
@@ -131,10 +126,9 @@
   cores:
     QNG: yes
 1820.1.1:
-  pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1850.1.1:
   cores:
     OIR: no

@@ -1,10 +1,9 @@
 #imported from EU4 file: history/provinces/4919 - Sihabi.txt
 2.1.1:
-  pop:
-    ethnicity: nakoda_culture
-    religion: iroquoian_totemism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: iroquoian_totemism
+      estate: peasant
+      size: 1000
 1763.10.9:
   cores:
     ???: yes
@@ -14,16 +13,14 @@
   controller: GBR
   cores:
     GBR: yes
-  pop:
-    ethnicity: english
-    religion: lutheran
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: lutheran
+      estate: peasant
+      size: 1000
 1790.1.1:
-  pop:
-    ethnicity: british_canadian
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1870.7.15:
   owner: CAN
   controller: CAN

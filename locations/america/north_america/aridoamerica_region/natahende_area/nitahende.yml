@@ -1,53 +1,47 @@
 #imported from EU4 file: history/provinces/881 - Piro.txt
 2.1.1:
-  pop:
-    ethnicity: ancestral_pueblo_culture
-    religion: iroquoian_totemism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: iroquoian_totemism
+      estate: peasant
+      size: 1000
 1200.1.1:
-  pop:
-    ethnicity: naadahende_culture
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1598.1.1:
   owner: SPA
   controller: SPA
   cores:
     SPA: yes
   resource: salt
-  pop:
-    ethnicity: castilian
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: catholic
+      estate: peasant
+      size: 1000
 1680.8.21:
   owner: TST
   controller: TST
   cores:
     SPA: no
     TST: yes
-  pop:
-    ethnicity: ancestral_pueblo_culture
-    religion: bimoism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: bimoism
+      estate: peasant
+      size: 1000
 1692.9.13:
   owner: SPA
   controller: SPA
   cores:
     TST: no
     SPA: yes
-  pop:
-    ethnicity: castilian
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: catholic
+      estate: peasant
+      size: 1000
 1770.1.1:
-  pop:
-    ethnicity: mexican
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1810.9.16:
   owner: MEX
   controller: SPA
@@ -62,10 +56,9 @@
   controller: TEXA
   cores:
     TEXA: yes
-  pop:
-    ethnicity: iberian_louisianan
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1845.12.29:
   owner: USA
   controller: USA
@@ -79,7 +72,6 @@
 1862.4.8:
   controller: USA
 1920.1.1:
-  pop:
-    ethnicity: british_californian
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000

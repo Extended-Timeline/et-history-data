@@ -1,15 +1,13 @@
 #imported from EU4 file: history/provinces/2761 - Arsi.txt
 2.1.1:
-  pop:
-    ethnicity: amhara
-    religion: bantu_religion
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: bantu_religion
+      estate: peasant
+      size: 1000
 1150.1.1:
-  pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1185.1.1:
   owner: DAW
   controller: DAW
@@ -33,10 +31,9 @@
     ADA: no
     ETH: yes
 1650.1.1:
-  pop:
-    ethnicity: oromo_culture
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1936.1.20:
   controller: ITA
 1936.5.9:

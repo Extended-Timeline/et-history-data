@@ -1,26 +1,23 @@
 #imported from EU4 file: history/provinces/4597 - Talamanca.txt
 2.1.1:
-  pop:
-    ethnicity: miskito_culture
-    religion: muisca_religion
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: muisca_religion
+      estate: peasant
+      size: 1000
 1563.1.1:
   owner: SPA
   controller: SPA
   cores:
     SPA: yes
   resource: naval_supplies
-  pop:
-    ethnicity: castilian
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: catholic
+      estate: peasant
+      size: 1000
 1770.1.1:
-  pop:
-    ethnicity: mexican
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1810.9.16:
   owner: MEX
   controller: SPA

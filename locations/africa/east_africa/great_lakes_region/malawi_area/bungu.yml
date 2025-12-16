@@ -1,25 +1,22 @@
 #imported from EU4 file: history/provinces/4073 - Mbeya.txt
 2.1.1:
-  pop:
-    ethnicity: sandawe_culture
-    religion: bantu_religion
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: bantu_religion
+      estate: peasant
+      size: 1000
 300.1.1:
-  pop:
-    ethnicity: bena_culture
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1905.1.1:
   owner: GER
   controller: GER
   cores:
     GER: yes
   resource: gold
-  pop:
-    religion: lutheran
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1919.6.28:
   owner: GBR
   controller: GBR

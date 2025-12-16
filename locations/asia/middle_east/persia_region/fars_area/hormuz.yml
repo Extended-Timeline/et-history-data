@@ -5,11 +5,10 @@
   cores:
     PART: yes
   resource: gems
-  pop:
-    ethnicity: farsi_culture
-    religion: zoroastrian
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: zoroastrian
+      estate: peasant
+      size: 1000
 224.4.24:
   owner: ERA
   controller: ERA
@@ -29,10 +28,9 @@
     RASH: no
     UMAY: yes
 680.1.1:
-  pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 750.8.6:
   owner: ABBA
   controller: ABBA
@@ -40,10 +38,9 @@
     UMAY: no
     ABBA: yes
 800.1.1:
-  pop:
-    ethnicity: bahrani_culture
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 850.1.1:
   owner: KHOR
   controller: KHOR

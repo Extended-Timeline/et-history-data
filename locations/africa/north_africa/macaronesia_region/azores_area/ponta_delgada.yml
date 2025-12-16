@@ -1,20 +1,18 @@
 #imported from EU4 file: history/provinces/367 - The Azores.txt
 2.1.1:
   resource: fish
-  pop:
-    ethnicity: uninhabited
-    religion: bimoism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: bimoism
+      estate: peasant
+      size: 1000
 1427.11.29:
   owner: POR
   controller: POR
   cores:
     POR: yes
-  pop:
-    ethnicity: portuguese
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: catholic
+      estate: peasant
+      size: 1000
 1500.1.1:
   resource: fish

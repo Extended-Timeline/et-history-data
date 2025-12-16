@@ -5,11 +5,10 @@
   cores:
     PANC: yes
   resource: grain
-  pop:
-    ethnicity: awadhi
-    religion: jain
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: jain
+      estate: peasant
+      size: 1000
 120.1.1:
   owner: KUSH
   controller: KUSH
@@ -29,10 +28,9 @@
     PANC: no
     GUPT: yes
 440.1.1:
-  pop:
-    religion: hindu
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 540.1.1:
   owner: KANN
   controller: KANN
@@ -50,10 +48,9 @@
   cores:
     PUSH: no
 800.1.1:
-  pop:
-    religion: mahayana
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 820.1.1:
   owner: GURJ
   controller: GURJ
@@ -63,10 +60,9 @@
 850.1.1:
   resource: glass
 890.1.1:
-  pop:
-    religion: hindu
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1036.1.1:
   owner: KALC
   controller: KALC

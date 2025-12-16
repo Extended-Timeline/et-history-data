@@ -5,31 +5,28 @@
   cores:
     CHTT: yes
   resource: cloth
-  pop:
-    ethnicity: rhine_franconian
-    religion: germanic
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: germanic
+      estate: peasant
+      size: 1000
 72.1.1:
   owner: ALEM
   controller: ALEM
   cores:
     CHTT: no
     ALEM: yes
-  pop:
-    ethnicity: high_alemannic
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 395.1.1:
   owner: BUR
   controller: BUR
   cores:
     VAND: no
     BUR: yes
-  pop:
-    ethnicity: burgundione
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 443.1.1:
   owner: ALEM
   controller: ALEM
@@ -42,10 +39,9 @@
   cores:
     ALEM: no
     THU: yes
-  pop:
-    ethnicity: east_franconian
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 454.1.1:
   owner: FRAN
   controller: FRAN
@@ -53,10 +49,9 @@
     THU: no
     FRAN: yes
 500.1.1:
-  pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 511.11.27:
   owner: ASTS
   controller: ASTS
@@ -100,10 +95,9 @@
     FRAN: no
     EFRA: yes
 867.1.1:
-  pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 911.11.10:
   owner: FKN
   controller: FKN
@@ -117,10 +111,9 @@
     FKN: no
     MAI: yes
 1556.4.19:
-  pop:
-    religion: lutheran
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1631.12.22:
   controller: SWE
 1635.1.1:

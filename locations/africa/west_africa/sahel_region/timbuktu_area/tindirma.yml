@@ -1,10 +1,9 @@
 #imported from EU4 file: history/provinces/2259 - Bara.txt
 2.1.1:
-  pop:
-    ethnicity: bozo
-    religion: bantu_religion
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: bantu_religion
+      estate: peasant
+      size: 1000
 350.1.1:
   owner: GHAN
   controller: GHAN
@@ -24,10 +23,9 @@
     JENN: no
     GHAN: yes
 1200.1.1:
-  pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1240.1.1:
   owner: MAL
   controller: MAL

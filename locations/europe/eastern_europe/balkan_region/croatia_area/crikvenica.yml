@@ -5,16 +5,14 @@
   cores:
     ROM: yes
   resource: cloth
-  pop:
-    ethnicity: dalmatian
-    religion: hellenism_religion
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: hellenism_religion
+      estate: peasant
+      size: 1000
 340.1.1:
-  pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -34,10 +32,9 @@
     ITA: no
     OSTR: yes
 490.1.1:
-  pop:
-    religion: arianism
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 540.1.1:
   owner: BYZ
   controller: BYZ
@@ -45,33 +42,29 @@
     OSTR: no
     BYZ: yes
 550.1.1:
-  pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 620.1.1:
   cores:
     CRO: yes
-  pop:
-    ethnicity: croatian
-    religion: slavic
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: slavic
+      estate: peasant
+      size: 1000
 630.1.1:
   owner: CRO
   controller: CRO
   cores:
     BYZ: no
 800.1.1:
-  pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 867.1.1:
-  pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1466.1.1:
   owner: HAB
   controller: HAB

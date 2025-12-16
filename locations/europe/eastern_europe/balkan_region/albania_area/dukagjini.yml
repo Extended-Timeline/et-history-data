@@ -5,16 +5,14 @@
   cores:
     ROM: yes
   resource: wool
-  pop:
-    ethnicity: albanian
-    religion: hellenism_religion
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: hellenism_religion
+      estate: peasant
+      size: 1000
 360.1.1:
-  pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 395.1.17:
   owner: BYZ
   controller: BYZ
@@ -27,10 +25,9 @@
   cores:
     DUKL: yes
 867.1.1:
-  pop:
-    religion: orthodox
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 930.1.1:
   owner: SER
   controller: SER
@@ -96,10 +93,9 @@
   cores:
     TUR: yes
 1520.1.1:
-  pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1803.1.1:
   controller: TUR
 1912.11.28:

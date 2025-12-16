@@ -5,11 +5,10 @@
   cores:
     YAUD: yes
   resource: livestock
-  pop:
-    ethnicity: marwari
-    religion: hindu
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: hindu
+      estate: peasant
+      size: 1000
 180.1.1:
   owner: KUSH
   controller: KUSH

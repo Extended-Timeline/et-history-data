@@ -5,11 +5,10 @@
   cores:
     MOOR: yes
   resource: sugar
-  pop:
-    ethnicity: masmuda
-    religion: bantu_religion
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: bantu_religion
+      estate: peasant
+      size: 1000
 720.1.1:
   owner: UMAY
   controller: UMAY
@@ -28,11 +27,10 @@
     BARG: no
     MOR: yes
 1080.1.1:
-  pop:
-    ethnicity: moroccan
-    religion: sunni
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: sunni
+      estate: peasant
+      size: 1000
 1374.1.1:
   owner: MRK
   controller: MRK

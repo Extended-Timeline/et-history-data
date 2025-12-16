@@ -1,10 +1,9 @@
 #imported from EU4 file: history/provinces/4624 - Guane.txt
 2.1.1:
-  pop:
-    ethnicity: arawak_culture
-    religion: muisca_religion
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: muisca_religion
+      estate: peasant
+      size: 1000
 1516.1.23:
   owner: SPA
   controller: SPA
@@ -12,16 +11,14 @@
     CAS: no
     SPA: yes
   resource: tobacco
-  pop:
-    ethnicity: castilian
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: catholic
+      estate: peasant
+      size: 1000
 1780.1.1:
-  pop:
-    ethnicity: iberian_caribbean
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1868.10.10:
   cores:
     CUBA: yes

@@ -1,27 +1,24 @@
 #imported from EU4 file: history/provinces/837 - Nicaragua.txt
 2.1.1:
-  pop:
-    ethnicity: miskito_culture
-    religion: muisca_religion
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: muisca_religion
+      estate: peasant
+      size: 1000
 1523.1.1:
   owner: SPA
   controller: SPA
   resource: coffee
-  pop:
-    ethnicity: castilian
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: catholic
+      estate: peasant
+      size: 1000
 1548.1.1:
   cores:
     SPA: yes
 1770.1.1:
-  pop:
-    ethnicity: mexican
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1810.9.16:
   owner: MEX
   controller: SPA

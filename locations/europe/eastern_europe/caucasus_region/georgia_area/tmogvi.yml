@@ -5,16 +5,14 @@
   cores:
     IBER: yes
   resource: silk
-  pop:
-    ethnicity: georgian_culture
-    religion: georgian_religion
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: georgian_religion
+      estate: peasant
+      size: 1000
 326.1.1:
-  pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 527.1.1:
   controller: ERA
 532.1.1:
@@ -49,10 +47,9 @@
   cores:
     ABBA: no
 867.1.1:
-  pop:
-    religion: orthodox
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1020.1.1:
   owner: GEO
   controller: GEO

@@ -6,11 +6,10 @@
     HAN0: yes
     WUU: yes
   resource: gold
-  pop:
-    ethnicity: hmong_culture
-    religion: bimoism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: bimoism
+      estate: peasant
+      size: 1000
 9.1.10:
   owner: XIN0
   controller: XIN0
@@ -149,10 +148,9 @@
   cores:
     QNG: yes
 1900.1.1:
-  pop:
-    religion: sanjiao
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1912.2.12:
   owner: CHI
   controller: CHI

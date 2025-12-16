@@ -5,11 +5,10 @@
   cores:
     CSQ: yes
   resource: grain
-  pop:
-    ethnicity: tunica_culture
-    religion: iroquoian_totemism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: iroquoian_totemism
+      estate: peasant
+      size: 1000
 1580.1.1:
   owner: ---
   controller: ---
@@ -21,21 +20,19 @@
   cores:
     FRA: yes
   resource: livestock
-  pop:
-    ethnicity: french
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: catholic
+      estate: peasant
+      size: 1000
 1762.1.1:
   owner: SPA
   controller: SPA
   cores:
     FRA: no
 1770.1.1:
-  pop:
-    ethnicity: french_louisianan
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1787.1.1:
   cores:
     SPA: yes
@@ -52,15 +49,13 @@
     FRA: no
     USA: yes
 1830.1.1:
-  pop:
-    religion: lutheran
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1860.1.1:
-  pop:
-    ethnicity: british_louisianan
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1861.5.6:
   owner: CSAM
   controller: CSAM

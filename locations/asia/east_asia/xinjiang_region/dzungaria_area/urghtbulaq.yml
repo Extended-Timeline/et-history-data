@@ -5,11 +5,10 @@
   cores:
     XION: yes
   resource: fur
-  pop:
-    ethnicity: oirat_culture
-    religion: 
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: 
+      estate: peasant
+      size: 1000
 260.1.1:
   owner: TIEL
   controller: TIEL
@@ -45,10 +44,9 @@
     GOKT: no
     UYGH: yes
 763.1.1:
-  pop:
-    religion: manichaeism
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1130.1.1:
   owner: KKHI
   controller: KKHI
@@ -56,10 +54,9 @@
     UYGH: no
     KKHI: yes
 1140.1.1:
-  pop:
-    religion: mahayana
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1218.1.1:
   owner: MGE
   controller: MGE
@@ -67,10 +64,9 @@
     KKHI: no
     MGE: yes
 1220.1.1:
-  pop:
-    religion: 
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1260.1.1:
   owner: CHG
   controller: CHG
@@ -84,10 +80,9 @@
     CHG: no
     MOGH: yes
 1350.1.1:
-  pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1419.1.1:
   owner: OIR
   controller: OIR
@@ -104,10 +99,9 @@
   controller: QNG
   cores:
     QNG: yes
-  pop:
-    ethnicity: khazak
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1850.1.1:
   cores:
     OIR: no

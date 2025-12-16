@@ -5,16 +5,14 @@
   cores:
     ROM: yes
   resource: fish
-  pop:
-    ethnicity: median
-    religion: hellenism_religion
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: hellenism_religion
+      estate: peasant
+      size: 1000
 380.1.1:
-  pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -62,10 +60,9 @@
 800.1.1:
   resource: paper
 867.1.1:
-  pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1750.1.1:
   cores:
     ITA: yes

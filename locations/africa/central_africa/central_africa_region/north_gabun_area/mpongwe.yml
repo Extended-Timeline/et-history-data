@@ -1,10 +1,9 @@
 #imported from EU4 file: history/provinces/1165 - Gabon.txt
 2.1.1:
-  pop:
-    ethnicity: fang_gabun
-    religion: bantu_religion
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: bantu_religion
+      estate: peasant
+      size: 1000
 1839.1.1:
   owner: FRA
   controller: FRA
@@ -12,10 +11,9 @@
     FRA: yes
   resource: grain
 1850.1.1:
-  pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1870.9.4:
   owner: FRA
   controller: FRA

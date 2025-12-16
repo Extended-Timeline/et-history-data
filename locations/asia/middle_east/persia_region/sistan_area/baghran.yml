@@ -5,11 +5,10 @@
   cores:
     PART: yes
   resource: dyes
-  pop:
-    ethnicity: afghan_culture
-    religion: mahayana
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: mahayana
+      estate: peasant
+      size: 1000
 50.1.1:
   owner: KUSH
   controller: KUSH
@@ -70,15 +69,13 @@
   cores:
     GHAZ: yes
 980.1.1:
-  pop:
-    ethnicity: hazara_culture
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1012.1.1:
-  pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1041.1.1:
   owner: GHOR
   controller: GHOR

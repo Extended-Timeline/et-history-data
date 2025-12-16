@@ -5,11 +5,10 @@
   cores:
     KAMI: yes
   resource: cocoa
-  pop:
-    ethnicity: kiche_culture
-    religion: mayan
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: mayan
+      estate: peasant
+      size: 1000
 1194.1.1:
   owner: KIC
   controller: KIC
@@ -20,19 +19,17 @@
   owner: SPA
   controller: SPA
 1529.1.1:
-  pop:
-    ethnicity: castilian
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: catholic
+      estate: peasant
+      size: 1000
 1552.1.1:
   cores:
     SPA: yes
 1770.1.1:
-  pop:
-    ethnicity: mexican
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1810.9.16:
   owner: MEX
   controller: SPA

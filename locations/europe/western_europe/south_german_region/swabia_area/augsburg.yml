@@ -5,16 +5,14 @@
   cores:
     ROM: yes
   resource: cloth
-  pop:
-    ethnicity: southern_bavarian
-    religion: hellenism_religion
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: hellenism_religion
+      estate: peasant
+      size: 1000
 320.1.1:
-  pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 350.1.1:
   owner: ALEM
   controller: ALEM
@@ -28,10 +26,9 @@
     ALEM: no
     BAV: yes
 600.1.1:
-  pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 788.1.1:
   owner: FRAN
   controller: FRAN
@@ -45,10 +42,9 @@
     FRAN: no
     BAV: yes
 867.1.1:
-  pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 880.3.22:
   owner: EFRA
   controller: EFRA

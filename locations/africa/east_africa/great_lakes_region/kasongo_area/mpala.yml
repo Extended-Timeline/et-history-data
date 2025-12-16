@@ -1,15 +1,13 @@
 #imported from EU4 file: history/provinces/4099 - Kalemie.txt
 2.1.1:
-  pop:
-    ethnicity: twa_culture
-    religion: bantu_religion
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: bantu_religion
+      estate: peasant
+      size: 1000
 300.1.1:
-  pop:
-    ethnicity: luba
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1350.1.1:
   owner: LBA
   controller: LBA
@@ -21,10 +19,9 @@
   controller: BEL
   cores:
     BEL: yes
-  pop:
-    religion: lutheran
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1960.7.1:
   owner: DRCO
   controller: DRCO

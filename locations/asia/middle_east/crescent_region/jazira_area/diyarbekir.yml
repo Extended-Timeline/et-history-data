@@ -5,11 +5,10 @@
   cores:
     ARM: yes
   resource: livestock
-  pop:
-    ethnicity: armenian_culture
-    religion: armenian_religion
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: armenian_religion
+      estate: peasant
+      size: 1000
 114.1.1:
   owner: ROM
   controller: ROM
@@ -21,10 +20,9 @@
   cores:
     ROM: no
 179.1.1:
-  pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 387.1.1:
   owner: ROM
   controller: ROM
@@ -38,10 +36,9 @@
     ROM: no
     BYZ: yes
 451.11.1:
-  pop:
-    religion: miaphysite
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 613.1.1:
   controller: ERA
 627.1.1:
@@ -64,10 +61,9 @@
     UMAY: no
     ABBA: yes
 867.1.1:
-  pop:
-    religion: orthodox
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 911.1.1:
   owner: MOSU
   controller: MOSU
@@ -81,10 +77,9 @@
     MOSU: no
     KURD: yes
 1000.1.1:
-  pop:
-    ethnicity: kurdish_culture
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1055.1.1:
   cores:
     ABBA: no
@@ -106,10 +101,9 @@
     EDES: no
     MOSU: yes
 1150.1.1:
-  pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1183.1.1:
   owner: EGY
   controller: EGY

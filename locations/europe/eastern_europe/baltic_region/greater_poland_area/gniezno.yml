@@ -5,21 +5,19 @@
   cores:
     SCIR: yes
   resource: cloth
-  pop:
-    ethnicity: scirian
-    religion: germanic
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: germanic
+      estate: peasant
+      size: 1000
 140.1.1:
   owner: RUGI
   controller: RUGI
   cores:
     SCIR: no
     RUGI: yes
-  pop:
-    ethnicity: western_pomeranian
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 150.1.1:
   owner: LEMO
   controller: LEMO
@@ -32,16 +30,14 @@
   cores:
     LEMO: no
     POL: yes
-  pop:
-    ethnicity: lesser_polish
-    religion: slavic
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: slavic
+      estate: peasant
+      size: 1000
 966.1.1:
-  pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1138.10.28:
   owner: GPOL
   controller: GPOL

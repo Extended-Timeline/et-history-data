@@ -5,21 +5,19 @@
   cores:
     BEJ: yes
   resource: livestock
-  pop:
-    ethnicity: beja_culture
-    religion: bantu_religion
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: bantu_religion
+      estate: peasant
+      size: 1000
 350.1.1:
   owner: AKSM
   controller: AKSM
   cores:
     AKSM: yes
 650.1.1:
-  pop:
-    religion: miaphysite
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 700.1.1:
   owner: BAZI
   controller: BAZI
@@ -27,10 +25,9 @@
     AKSM: no
     BAZI: yes
 1430.1.1:
-  pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1503.1.1:
   owner: FUNJ
   controller: FUNJ
@@ -44,10 +41,9 @@
   cores:
     TUR: yes
 1830.1.1:
-  pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1867.6.8:
   owner: EGY
   controller: EGY

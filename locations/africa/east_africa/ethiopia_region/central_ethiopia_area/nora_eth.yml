@@ -1,20 +1,17 @@
 #imported from EU4 file: history/provinces/2791 - Ankober.txt
 2.1.1:
-  pop:
-    ethnicity: amhara
-    religion: bantu_religion
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: bantu_religion
+      estate: peasant
+      size: 1000
 380.1.1:
-  pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 451.11.1:
-  pop:
-    religion: miaphysite
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 896.1.1:
   owner: SOA
   controller: SOA
@@ -22,10 +19,9 @@
     SOA: yes
   resource: grain
 1200.1.1:
-  pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1283.1.1:
   owner: IFA
   controller: IFA

@@ -5,11 +5,10 @@
   cores:
     AILA: yes
   resource: tropical_wood
-  pop:
-    ethnicity: khon_muang_culture
-    religion: satsana_phi
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: satsana_phi
+      estate: peasant
+      size: 1000
 560.1.1:
   owner: MMA
   controller: MMA
@@ -22,15 +21,13 @@
   cores:
     NANZ: yes
 810.1.1:
-  pop:
-    religion: tibetan_buddhism
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 880.1.1:
-  pop:
-    ethnicity: tai_lu_culture
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 937.1.1:
   owner: CDL
   controller: CDL
@@ -44,10 +41,9 @@
     MMA: yes
     CDL: yes
 1260.1.1:
-  pop:
-    religion: theravada
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1449.1.1:
   owner: MNG
   controller: MNG

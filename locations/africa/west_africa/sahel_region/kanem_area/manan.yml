@@ -1,10 +1,9 @@
 #imported from EU4 file: history/provinces/1158 - Kanem.txt
 2.1.1:
-  pop:
-    ethnicity: kanembu_culture
-    religion: bantu_religion
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: bantu_religion
+      estate: peasant
+      size: 1000
 523.1.1:
   owner: KBO
   controller: KBO
@@ -12,10 +11,9 @@
     KBO: yes
   resource: paper
 1064.1.1:
-  pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1380.1.1:
   owner: YAO
   controller: YAO

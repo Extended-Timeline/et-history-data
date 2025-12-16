@@ -1,10 +1,9 @@
 #imported from EU4 file: history/provinces/797 - Oruro.txt
 2.1.1:
-  pop:
-    ethnicity: aimara_culture
-    religion: inti
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: inti
+      estate: peasant
+      size: 1000
 375.1.1:
   owner: TIWA
   controller: TIWA
@@ -32,10 +31,9 @@
   controller: SPA
   cores:
     SPA: yes
-  pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1825.8.6:
   owner: BOLI
   controller: BOLI

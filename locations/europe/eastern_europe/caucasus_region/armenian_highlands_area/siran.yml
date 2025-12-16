@@ -5,11 +5,10 @@
   cores:
     ARM: yes
   resource: copper
-  pop:
-    ethnicity: armenian_culture
-    religion: hellenism_religion
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: hellenism_religion
+      estate: peasant
+      size: 1000
 114.1.1:
   owner: ROM
   controller: ROM
@@ -33,15 +32,13 @@
     ROM: no
     BYZ: yes
 420.1.1:
-  pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 506.1.1:
-  pop:
-    religion: miaphysite
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 615.1.1:
   controller: ERA
 626.1.1:
@@ -107,11 +104,10 @@
 1659.1.1:
   controller: TUR
 1915.4.1:
-  pop:
-    ethnicity: turkish_culture
-    religion: shia
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: shia
+      estate: peasant
+      size: 1000
 1920.4.24:
   owner: TURK
   controller: TURK

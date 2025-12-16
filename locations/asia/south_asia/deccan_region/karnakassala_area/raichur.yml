@@ -5,11 +5,10 @@
   cores:
     SATA: yes
   resource: cloth
-  pop:
-    ethnicity: kannadiga
-    religion: mahayana
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: mahayana
+      estate: peasant
+      size: 1000
 220.1.1:
   owner: PUZH
   controller: PUZH
@@ -17,10 +16,9 @@
     SATA: no
     PUZH: yes
 240.1.1:
-  pop:
-    religion: jain
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 275.1.1:
   owner: PALL
   controller: PALL
@@ -58,10 +56,9 @@
     CHAL: no
     HSL: yes
 1220.1.1:
-  pop:
-    religion: hindu
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1325.1.1:
   owner: DLH
   controller: DLH

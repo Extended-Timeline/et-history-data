@@ -1,10 +1,9 @@
 #imported from EU4 file: history/provinces/471 - Alimuly.txt
 2.1.1:
-  pop:
-    ethnicity: hunnic
-    religion: 
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: 
+      estate: peasant
+      size: 1000
 160.1.1:
   owner: HUNS
   controller: HUNS
@@ -14,10 +13,9 @@
 370.1.1:
   cores:
     OGHU: yes
-  pop:
-    ethnicity: turkmen_culture
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 448.1.1:
   owner: OGHU
   controller: OGHU
@@ -42,10 +40,9 @@
     KANG: no
     OGHU: yes
 900.1.1:
-  pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1043.1.1:
   owner: CUMA
   controller: CUMA
@@ -58,10 +55,9 @@
   cores:
     CUMA: no
     MGE: yes
-  pop:
-    ethnicity: nogai
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1260.1.1:
   owner: BLHO
   controller: BLHO
@@ -91,10 +87,9 @@
   cores:
     NOGA: no
     KAZA: yes
-  pop:
-    ethnicity: khazak
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1824.1.1:
   owner: RUS
   controller: RUS

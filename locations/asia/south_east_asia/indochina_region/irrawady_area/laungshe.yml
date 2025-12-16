@@ -5,16 +5,14 @@
   cores:
     SRKS: yes
   resource: grain
-  pop:
-    ethnicity: pyu
-    religion: theravada
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: theravada
+      estate: peasant
+      size: 1000
 900.1.1:
-  pop:
-    ethnicity: burmese_culture
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1044.1.1:
   owner: PAGA
   controller: PAGA

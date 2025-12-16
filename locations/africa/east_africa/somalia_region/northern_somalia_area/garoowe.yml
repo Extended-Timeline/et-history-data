@@ -1,10 +1,9 @@
 #imported from EU4 file: history/provinces/2024 - Garoowe.txt
 2.1.1:
-  pop:
-    ethnicity: somali_culture
-    religion: bantu_religion
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: bantu_religion
+      estate: peasant
+      size: 1000
 1100.1.1:
   owner: MAJE
   controller: MAJE
@@ -12,10 +11,9 @@
     MAJE: yes
   resource: fish
 1150.1.1:
-  pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1300.1.1:
   owner: MARH
   controller: MARH

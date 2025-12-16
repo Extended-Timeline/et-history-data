@@ -6,21 +6,19 @@
     CAPP: yes
     CIL: yes
   resource: cotton
-  pop:
-    ethnicity: syriac_culture
-    religion: hellenism_religion
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: hellenism_religion
+      estate: peasant
+      size: 1000
 18.1.1:
   owner: ROM
   controller: ROM
   cores:
     ROM: yes
 40.1.1:
-  pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 269.1.1:
   cores:
     PALM: yes
@@ -35,10 +33,9 @@
     ROM: no
     BYZ: yes
 500.1.1:
-  pop:
-    ethnicity: greek_culture
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 650.1.1:
   owner: RASH
   controller: RASH
@@ -57,10 +54,9 @@
     UMAY: no
     ABBA: yes
 867.1.1:
-  pop:
-    religion: orthodox
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 868.9.15:
   owner: EGY
   controller: EGY
@@ -97,20 +93,18 @@
   cores:
     RUM: yes
 1120.1.1:
-  pop:
-    religion: miaphysite
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1129.1.1:
   owner: CIL
   controller: CIL
   cores:
     RUM: no
     CIL: yes
-  pop:
-    ethnicity: armenian_culture
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1137.1.1:
   owner: BYZ
   controller: BYZ
@@ -124,15 +118,13 @@
   controller: RAMA
   cores:
     RAMA: yes
-  pop:
-    ethnicity: turkish_culture
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1370.1.1:
-  pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1608.1.1:
   owner: TUR
   controller: TUR

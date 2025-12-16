@@ -5,11 +5,10 @@
   cores:
     YILO: yes
   resource: fish
-  pop:
-    ethnicity: jurchen_culture
-    religion: 
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: 
+      estate: peasant
+      size: 1000
 500.1.1:
   owner: GOGU
   controller: GOGU
@@ -69,10 +68,9 @@
     QNG: no
     RUS: yes
 1900.1.1:
-  pop:
-    religion: orthodox
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1922.12.30:
   owner: SOVI
   controller: SOVI
@@ -80,10 +78,9 @@
     RUS: no
     SOVI: yes
 1930.1.1:
-  pop:
-    ethnicity: muscovite
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1991.12.25:
   owner: RUS
   controller: RUS

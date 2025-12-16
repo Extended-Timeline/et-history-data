@@ -1,10 +1,9 @@
 #imported from EU4 file: history/provinces/1127 - Tuat.txt
 2.1.1:
-  pop:
-    ethnicity: tuareg
-    religion: bantu_religion
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: bantu_religion
+      estate: peasant
+      size: 1000
 772.1.1:
   owner: SIJI
   controller: SIJI
@@ -17,10 +16,9 @@
   cores:
     SANH: yes
 850.1.1:
-  pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 900.1.1:
   owner: SIJI
   controller: SIJI

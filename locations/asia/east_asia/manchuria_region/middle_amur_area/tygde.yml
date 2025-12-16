@@ -1,10 +1,9 @@
 #imported from EU4 file: history/provinces/4662 - Halacha.txt
 2.1.1:
-  pop:
-    ethnicity: evenk_culture
-    religion: 
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: 
+      estate: peasant
+      size: 1000
 1206.1.1:
   owner: SOL
   controller: SOL
@@ -29,11 +28,10 @@
     QNG: no
     RUS: yes
 1900.1.1:
-  pop:
-    ethnicity: muscovite
-    religion: orthodox
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: orthodox
+      estate: peasant
+      size: 1000
 1922.12.30:
   owner: SOVI
   controller: SOVI

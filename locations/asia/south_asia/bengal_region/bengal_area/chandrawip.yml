@@ -5,11 +5,10 @@
   cores:
     VANG: yes
   resource: grain
-  pop:
-    ethnicity: bengali
-    religion: mahayana
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: mahayana
+      estate: peasant
+      size: 1000
 355.1.1:
   owner: GUPT
   controller: GUPT
@@ -34,10 +33,9 @@
     SAMT: no
     GAUD: yes
 1200.1.1:
-  pop:
-    religion: hindu
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1230.1.1:
   owner: SAMT
   controller: SAMT
@@ -60,10 +58,9 @@
   cores:
     DLH: no
 1560.1.1:
-  pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1576.7.12:
   owner: MUG
   controller: MUG

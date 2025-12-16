@@ -1,10 +1,9 @@
 #imported from EU4 file: history/provinces/934 - Shawnee.txt
 2.1.1:
-  pop:
-    ethnicity: tsoyaha_culture
-    religion: iroquoian_totemism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: iroquoian_totemism
+      estate: peasant
+      size: 1000
 1600.1.1:
   owner: CHIS
   controller: CHIS
@@ -16,11 +15,10 @@
   controller: USA
   cores:
     USA: yes
-  pop:
-    ethnicity: british_louisianan
-    religion: lutheran
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: lutheran
+      estate: peasant
+      size: 1000
 1861.5.7:
   owner: CSAM
   controller: CSAM

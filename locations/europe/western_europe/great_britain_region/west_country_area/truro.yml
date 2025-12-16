@@ -5,21 +5,19 @@
   cores:
     DUMN: yes
   resource: copper
-  pop:
-    ethnicity: briton
-    religion: druidism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: druidism
+      estate: peasant
+      size: 1000
 55.1.1:
   owner: ROM
   controller: ROM
   cores:
     ROM: yes
 200.1.1:
-  pop:
-    ethnicity: cornish
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -33,10 +31,9 @@
     ROMW: no
     DUMN: yes
 500.1.1:
-  pop:
-    religion: chalcedonism
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 710.1.1:
   owner: CRN
   controller: CRN
@@ -44,10 +41,9 @@
     DUMN: no
     CRN: yes
 867.1.1:
-  pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 890.1.1:
   owner: WESS
   controller: WESS
@@ -68,15 +64,13 @@
 1470.10.6:
   controller: ENG
 1575.1.1:
-  pop:
-    religion: lutheran
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1600.1.1:
-  pop:
-    religion: calvinist
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1707.5.12:
   owner: GBR
   controller: GBR

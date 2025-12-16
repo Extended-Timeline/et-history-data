@@ -1,18 +1,16 @@
 #imported from EU4 file: history/provinces/1042 - Kamnuskoye.txt
 2.1.1:
-  pop:
-    ethnicity: sakha_culture
-    religion: mari_paganism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: mari_paganism
+      estate: peasant
+      size: 1000
 1632.1.1:
   owner: RUS
   controller: RUS
   resource: fur
-  pop:
-    religion: orthodox
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1672.1.1:
   cores:
     RUS: yes

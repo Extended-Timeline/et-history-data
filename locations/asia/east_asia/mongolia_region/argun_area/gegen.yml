@@ -1,10 +1,9 @@
 #imported from EU4 file: history/provinces/724 - Hulunbuir.txt
 2.1.1:
-  pop:
-    ethnicity: chahar
-    religion: 
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: 
+      estate: peasant
+      size: 1000
 450.1.1:
   owner: SHIW
   controller: SHIW
@@ -24,10 +23,9 @@
     TATA: no
     MGE: yes
 1240.1.1:
-  pop:
-    ethnicity: buryat_culture
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1271.1.1:
   owner: YUA
   controller: YUA
@@ -52,10 +50,9 @@
   cores:
     MGE: yes
 1586.1.1:
-  pop:
-    religion: tibetan_buddhism
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1624.1.1:
   owner: MCH
   controller: MCH

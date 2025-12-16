@@ -5,11 +5,10 @@
   cores:
     SUMP: yes
   resource: wool
-  pop:
-    ethnicity: utsang_culture
-    religion: bon
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: bon
+      estate: peasant
+      size: 1000
 600.1.1:
   owner: YARL
   controller: YARL
@@ -28,10 +27,9 @@
     TIB: no
     PHAG: yes
 980.1.1:
-  pop:
-    religion: tibetan_buddhism
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1240.1.1:
   owner: TIB
   controller: TIB

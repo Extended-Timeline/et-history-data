@@ -1,15 +1,13 @@
 #imported from EU4 file: history/provinces/909 - Mandan.txt
 2.1.1:
-  pop:
-    ethnicity: hinonoeino_culture
-    religion: iroquoian_totemism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: iroquoian_totemism
+      estate: peasant
+      size: 1000
 1760.1.1:
-  pop:
-    ethnicity: ithanktunwan_culture
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1860.1.1:
   cores:
     ???: yes
@@ -19,8 +17,7 @@
   controller: USA
   cores:
     USA: yes
-  pop:
-    ethnicity: american
-    religion: lutheran
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: lutheran
+      estate: peasant
+      size: 1000

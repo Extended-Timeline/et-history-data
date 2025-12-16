@@ -5,16 +5,14 @@
   cores:
     KAMA: yes
   resource: grain
-  pop:
-    ethnicity: kamarupi
-    religion: bimoism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: bimoism
+      estate: peasant
+      size: 1000
 360.1.1:
-  pop:
-    religion: hindu
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1185.1.1:
   owner: KMA
   controller: KMA

@@ -1,10 +1,9 @@
 #imported from EU4 file: history/provinces/2266 - Bilanga.txt
 2.1.1:
-  pop:
-    ethnicity: mossi
-    religion: bantu_religion
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: bantu_religion
+      estate: peasant
+      size: 1000
 1050.1.1:
   owner: GUR
   controller: GUR
@@ -12,10 +11,9 @@
     GUR: yes
   resource: grain
 1840.1.1:
-  pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1895.5.1:
   owner: FRA
   controller: FRA

@@ -1,20 +1,18 @@
 #imported from EU4 file: history/provinces/4688 - Baraba.txt
 2.1.1:
-  pop:
-    ethnicity: kyrgyz_culture
-    religion: mari_paganism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: mari_paganism
+      estate: peasant
+      size: 1000
 1245.1.1:
   owner: MGE
   controller: MGE
   cores:
     MGE: yes
   resource: livestock
-  pop:
-    religion: 
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1260.1.1:
   owner: BLHO
   controller: BLHO
@@ -41,11 +39,10 @@
   controller: RUS
   cores:
     RUS: yes
-  pop:
-    ethnicity: muscovite
-    religion: orthodox
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: orthodox
+      estate: peasant
+      size: 1000
 1922.12.30:
   owner: SOVI
   controller: SOVI

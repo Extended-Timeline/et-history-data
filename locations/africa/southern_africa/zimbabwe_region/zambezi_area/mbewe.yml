@@ -1,15 +1,13 @@
 #imported from EU4 file: history/provinces/4038 - Chewa.txt
 2.1.1:
-  pop:
-    ethnicity: zembere
-    religion: bantu_religion
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: bantu_religion
+      estate: peasant
+      size: 1000
 300.1.1:
-  pop:
-    ethnicity: sena
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1350.1.1:
   owner: MKU
   controller: MKU
@@ -33,10 +31,9 @@
   cores:
     GBR: yes
   resource: wool
-  pop:
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1964.7.6:
   owner: MALW
   controller: MALW

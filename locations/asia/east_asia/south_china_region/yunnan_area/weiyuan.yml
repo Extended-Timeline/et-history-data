@@ -1,10 +1,9 @@
 #imported from EU4 file: history/provinces/2165 - Pu'er.txt
 2.1.1:
-  pop:
-    ethnicity: khon_muang_culture
-    religion: satsana_phi
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: satsana_phi
+      estate: peasant
+      size: 1000
 560.1.1:
   owner: MMA
   controller: MMA
@@ -24,15 +23,13 @@
     CUAN: no
     NANZ: yes
 710.1.1:
-  pop:
-    religion: tibetan_buddhism
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 800.1.1:
-  pop:
-    ethnicity: bai_culture
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 937.1.1:
   owner: CDL
   controller: CDL

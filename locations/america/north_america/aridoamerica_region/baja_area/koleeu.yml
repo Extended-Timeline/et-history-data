@@ -1,26 +1,23 @@
 #imported from EU4 file: history/provinces/4639 - Paipai.txt
 2.1.1:
-  pop:
-    ethnicity: pima_culture
-    religion: iroquoian_totemism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: iroquoian_totemism
+      estate: peasant
+      size: 1000
 1769.1.1:
   owner: SPA
   controller: SPA
   cores:
     SPA: yes
   resource: grain
-  pop:
-    ethnicity: castilian
-    religion: catholic
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: catholic
+      estate: peasant
+      size: 1000
 1770.1.1:
-  pop:
-    ethnicity: mexican
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1775.1.1:
   cores:
     SPA: yes

@@ -5,21 +5,19 @@
   cores:
     POWH: yes
   resource: tobacco
-  pop:
-    ethnicity: powhatan_culture
-    religion: iroquoian_totemism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: iroquoian_totemism
+      estate: peasant
+      size: 1000
 1646.1.1:
   owner: ENG
   controller: ENG
   cores:
     ENG: yes
-  pop:
-    ethnicity: english
-    religion: lutheran
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: lutheran
+      estate: peasant
+      size: 1000
 1707.5.12:
   owner: GBR
   controller: GBR
@@ -27,10 +25,9 @@
     ENG: no
     GBR: yes
 1764.7.1:
-  pop:
-    ethnicity: british_louisianan
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1776.7.4:
   owner: USA
   controller: USA

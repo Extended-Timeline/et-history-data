@@ -5,16 +5,14 @@
   cores:
     THAT: yes
   resource: sugar
-  pop:
-    ethnicity: mon_culture
-    religion: mahayana
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: mahayana
+      estate: peasant
+      size: 1000
 400.1.1:
-  pop:
-    religion: theravada
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1057.5.17:
   owner: PAGA
   controller: PAGA

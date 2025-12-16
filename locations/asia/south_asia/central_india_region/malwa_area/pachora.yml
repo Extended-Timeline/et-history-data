@@ -5,11 +5,10 @@
   cores:
     SATA: yes
   resource: cotton
-  pop:
-    ethnicity: marathi_culture
-    religion: jain
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: jain
+      estate: peasant
+      size: 1000
 220.1.1:
   owner: ABHI
   controller: ABHI
@@ -53,10 +52,9 @@
     CHAL: no
     YADA: yes
 1250.1.1:
-  pop:
-    religion: hindu
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1317.1.1:
   owner: DLH
   controller: DLH

@@ -5,21 +5,19 @@
   cores:
     DBUY: yes
   resource: naval_supplies
-  pop:
-    ethnicity: buyeo
-    religion: muism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: muism
+      estate: peasant
+      size: 1000
 410.1.1:
   owner: GOGU
   controller: GOGU
   cores:
     GOGU: yes
 420.1.1:
-  pop:
-    religion: mahayana
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 698.1.1:
   owner: BALH
   controller: BALH
@@ -33,11 +31,10 @@
     BALH: no
     LIAO: yes
 950.1.1:
-  pop:
-    ethnicity: jurchen_culture
-    religion: 
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: 
+      estate: peasant
+      size: 1000
 1115.1.1:
   owner: JIN0
   controller: JIN0
@@ -87,11 +84,10 @@
     RUS: no
     SOVI: yes
 1930.1.1:
-  pop:
-    ethnicity: muscovite
-    religion: orthodox
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: orthodox
+      estate: peasant
+      size: 1000
 1991.12.25:
   owner: RUS
   controller: RUS

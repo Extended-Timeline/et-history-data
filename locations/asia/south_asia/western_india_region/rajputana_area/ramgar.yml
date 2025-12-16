@@ -5,11 +5,10 @@
   cores:
     WSAT: yes
   resource: wool
-  pop:
-    ethnicity: marwari
-    religion: hindu
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: hindu
+      estate: peasant
+      size: 1000
 76.1.1:
   owner: KUSH
   controller: KUSH

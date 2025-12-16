@@ -1,21 +1,19 @@
 #imported from EU4 file: history/provinces/2609 - Nisga'a.txt
 2.1.1:
-  pop:
-    ethnicity: chinook_culture
-    religion: iroquoian_totemism
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: iroquoian_totemism
+      estate: peasant
+      size: 1000
 1871.1.1:
   owner: GBR
   controller: GBR
   cores:
     GBR: yes
   resource: fish
-  pop:
-    ethnicity: british_canadian
-    religion: lutheran
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: lutheran
+      estate: peasant
+      size: 1000
 1871.7.20:
   owner: CAN
   controller: CAN

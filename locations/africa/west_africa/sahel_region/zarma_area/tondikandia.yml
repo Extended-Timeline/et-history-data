@@ -1,10 +1,9 @@
 #imported from EU4 file: history/provinces/2269 - Zarmaganda.txt
 2.1.1:
-  pop:
-    ethnicity: songhai
-    religion: bantu_religion
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: bantu_religion
+      estate: peasant
+      size: 1000
 700.1.1:
   owner: SON
   controller: SON
@@ -12,10 +11,9 @@
     SON: yes
   resource: wool
 1100.1.1:
-  pop:
-    religion: sunni
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1901.1.1:
   owner: FRA
   controller: FRA

@@ -1,20 +1,18 @@
 #imported from EU4 file: history/provinces/1174 - Greater Namaqualand.txt
 2.1.1:
-  pop:
-    ethnicity: khoemana_culture
-    religion: bantu_religion
-    estate: peasant
-    size: 1000
+  pops:
+    - religion: bantu_religion
+      estate: peasant
+      size: 1000
 1884.8.7:
   owner: GER
   controller: GER
   cores:
     GER: yes
   resource: fish
-  pop:
-    religion: lutheran
-    estate: peasant
-    size: 1000
+  pops:
+    - estate: peasant
+      size: 1000
 1910.3.31:
   cores:
     SAFR: yes

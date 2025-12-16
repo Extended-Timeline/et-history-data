@@ -99,6 +99,9 @@ swe_stenkil:
     religion: catholic
     culture: swedish
     tag: SWE
+    estate: nobles_estate
+  1060:
+    estate: ---
   1066:
     death: yes
 swe_ingamoder:
@@ -112,6 +115,9 @@ swe_ingamoder:
     tag: SWE
   1045:
     spouse: swe_stenkil
+    estate: nobles_estate
+  1060:
+    estate: ---
   1066:
     death: yes
 swe_gyda_anundsdotter:
@@ -172,6 +178,9 @@ swe_haakon_the_red:
     religion: catholic
     culture: swedish
     tag: SWE
+    estate: nobles_estate
+  1075:
+    estate: ---
   1079:
     death: yes
 swe_ingegerd_haraldsdotter:
@@ -286,9 +295,12 @@ swe_ulvhild_hakansdotter:
     religion: catholic
     culture: norwegian
     tag: NOR
+    estate: nobles_estate
   1117:
     spouse: swe_inge_younger
     tag: SWE
+  1132:
+    estate: ---
   1134:
     spouse: swe_sverker_elder
   1148:
@@ -301,6 +313,9 @@ swe_sverker_elder:
     religion: catholic
     culture: swedish
     tag: SWE
+    estate: nobles_estate
+  1132:
+    estate: ---
   1156.12.25:
     death: yes
   1164:
@@ -541,9 +556,12 @@ swe_birger_jarl:
     religion: catholic
     culture: swedish
     tag: SWE
+    estate: nobles_estate
     traits: 
       conqueror: yes
       cruel: yes
+  1250:
+    estate: ---
   1266.10.21:
     death: yes
 swe_ingeborg_eriksson:
@@ -559,6 +577,9 @@ swe_ingeborg_eriksson:
     tag: SWE
   1235:
     spouse: swe_birger_jarl
+    estate: nobles_estate
+  1250:
+    estate: ---
   1254.6.17:
     death: yes
 swe_katarina_sunesdotter:
@@ -597,6 +618,9 @@ swe_rikissa_birgersdotter:
     religion: catholic
     culture: swedish
     tag: SWE
+    estate: nobles_estate
+  1250:
+    estate: ---
   1251:
     spouse: nor_haakon_the_young
     tag: NOR
@@ -612,6 +636,9 @@ swe_valdemar_birgersson:
     religion: catholic
     culture: swedish
     tag: SWE
+    estate: nobles_estate
+  1250:
+    estate: ---
   1275.7.22:
     death: yes
 swe_magnus_ladulas:
@@ -628,6 +655,9 @@ swe_magnus_ladulas:
     religion: catholic
     culture: swedish
     tag: SWE
+    estate: nobles_estate
+  1250:
+    estate: ---
   1290.12.18:
     death: yes
 swe_sofia_estridsen:
@@ -657,6 +687,9 @@ swe_katarina_birgersdotter:
     religion: catholic
     culture: swedish
     tag: SWE
+    estate: nobles_estate
+  1250:
+    estate: ---
   1289:
     death: yes
 swe_erik_birgersson:
@@ -982,6 +1015,9 @@ swe_karl_viii_bonde:
     religion: catholic
     culture: swedish
     tag: SWE
+    estate: nobles_estate
+  1448.6.20:
+    estate: ---
   1470.5.15:
     death: yes
 swe_katarina_gumsehuvud:
@@ -993,6 +1029,7 @@ swe_katarina_gumsehuvud:
     religion: catholic
     culture: swedish
     tag: SWE
+    estate: nobles_estate
   1438.10.5:
     spouse: swe_karl_viii_bonde
   1450.9.7:
@@ -1008,6 +1045,7 @@ swe_jons_bengtsson_oxenstierna:
     religion: catholic
     culture: swedish
     tag: SWE
+    estate: nobles_estate
   1467.12.15:
     death: yes
 swe_erik_axelsson_tott:
@@ -1021,6 +1059,7 @@ swe_erik_axelsson_tott:
     religion: catholic
     culture: swedish
     tag: SWE
+    estate: nobles_estate
   1481:
     death: yes
 swe_ture_turesson_bielke:
@@ -1034,6 +1073,7 @@ swe_ture_turesson_bielke:
     religion: catholic
     culture: swedish
     tag: SWE
+    estate: nobles_estate
   1490:
     death: yes
 swe_kettil_karlsson_vasa:
@@ -1047,6 +1087,7 @@ swe_kettil_karlsson_vasa:
     religion: catholic
     culture: swedish
     tag: SWE
+    estate: nobles_estate
   1465.8.11:
     death: yes
 swe_elin_sture:
@@ -1061,6 +1102,7 @@ swe_elin_sture:
     religion: catholic
     culture: swedish
     tag: SWE
+    estate: nobles_estate
   1466.9:
     spouse: swe_erik_axelsson_tott
   1495:
@@ -1077,6 +1119,7 @@ swe_kristina_abrahamsson:
     religion: catholic
     culture: swedish
     tag: SWE
+    estate: nobles_estate
   1470.4:
     spouse: swe_karl_viii_bonde
   1492:
@@ -1092,6 +1135,7 @@ swe_arvid_trolle:
     religion: catholic
     culture: swedish
     tag: SWE
+    estate: nobles_estate
   1505.2.20:
     death: yes
 swe_beata_tott:
@@ -1106,6 +1150,7 @@ swe_beata_tott:
     religion: catholic
     culture: swedish
     tag: SWE
+    estate: nobles_estate
   1466:
     spouse: swe_arvid_trolle
   1487:
@@ -1121,6 +1166,7 @@ swe_sten_gustavsson_sture:
     religion: catholic
     culture: swedish
     tag: SWE
+    estate: nobles_estate
   1493:
     nickname: nick_the_elder
   1503.12.14:
@@ -1137,6 +1183,7 @@ swe_ingeborg_akersdotter_tott:
     religion: catholic
     culture: swedish
     tag: SWE
+    estate: nobles_estate
   1467:
     spouse: swe_sten_gustavsson_sture
   1507.12:
@@ -1152,6 +1199,7 @@ swe_svante_nilsson_sture:
     religion: catholic
     culture: swedish
     tag: SWE
+    estate: nobles_estate
   1512.1.2:
     death: yes
 swe_erik_trolle:
@@ -1166,6 +1214,7 @@ swe_erik_trolle:
     religion: catholic
     culture: swedish
     tag: SWE
+    estate: nobles_estate
   1530:
     death: yes
 swe_ingeborg_filipsdotter_tott:
@@ -1180,6 +1229,7 @@ swe_ingeborg_filipsdotter_tott:
     religion: catholic
     culture: swedish
     tag: SWE
+    estate: nobles_estate
   1487:
     spouse: swe_erik_trolle
   1495:
@@ -1196,6 +1246,7 @@ swe_mette_dyre:
     religion: catholic
     culture: danish
     tag: DAN
+    estate: nobles_estate
   1504.11.17:
     spouse: swe_svante_nilsson_sture
     tag: SWE
@@ -1213,6 +1264,7 @@ swe_gustav_trolle:
     religion: catholic
     culture: swedish
     tag: SWE
+    estate: nobles_estate
   1535:
     death: yes
 swe_sten_sture_the_younger:
@@ -1229,6 +1281,7 @@ swe_sten_sture_the_younger:
     religion: catholic
     culture: swedish
     tag: SWE
+    estate: nobles_estate
   1520.2.3:
     death: yes
 swe_kristina_gyllenstierna:
@@ -1243,6 +1296,7 @@ swe_kristina_gyllenstierna:
     religion: catholic
     culture: swedish
     tag: SWE
+    estate: nobles_estate
   1511.11.16:
     spouse: swe_sten_sture_the_younger
   1559.1.5:
@@ -1258,8 +1312,11 @@ swe_gustav_i_vasa:
     religion: catholic
     culture: swedish
     tag: SWE
+    estate: nobles_estate
   1523:
     religion: lutheran
+  1523.6.6:
+    estate: ---
   1560.9.29:
     death: yes
 swe_nils_sture:
@@ -1275,6 +1332,7 @@ swe_nils_sture:
     religion: catholic
     culture: swedish
     tag: SWE
+    estate: nobles_estate
   1528:
     death: yes
 swe_katarina_askanier:
@@ -1310,6 +1368,7 @@ swe_iliana_sture:
     religion: catholic
     culture: swedish
     tag: SWE
+    estate: nobles_estate
   1521:
     death: yes
 swe_magdalena_sture:
@@ -1326,6 +1385,7 @@ swe_magdalena_sture:
     religion: catholic
     culture: swedish
     tag: SWE
+    estate: nobles_estate
   1521:
     death: yes
 swe_margaret_leijonhufvud:
@@ -1340,8 +1400,10 @@ swe_margaret_leijonhufvud:
     religion: catholic
     culture: swedish
     tag: SWE
+    estate: nobles_estate
   1536.10.1:
     spouse: swe_gustav_i_vasa
+    estate: ---
   1551.8.26:
     death: yes
 swe_svante_sture_the_younger:
@@ -1358,6 +1420,7 @@ swe_svante_sture_the_younger:
     religion: catholic
     culture: swedish
     tag: SWE
+    estate: nobles_estate
   1567.5.24:
     death: yes
 swe_anna_sture:
@@ -1374,6 +1437,7 @@ swe_anna_sture:
     religion: catholic
     culture: swedish
     tag: SWE
+    estate: nobles_estate
   1521:
     death: yes
 swe_gustav_sture:
@@ -1389,6 +1453,7 @@ swe_gustav_sture:
     religion: catholic
     culture: swedish
     tag: SWE
+    estate: nobles_estate
   1520:
     death: yes
 swe_katarina_jagiellon:
@@ -2826,6 +2891,8 @@ swe_louise_mountbatten:
     religion: lutheran
     culture: westphalian
     tag: GER
+  1917.7.14:
+    dynasty: mountbatten_dynasty
   1923.11.3:
     spouse: swe_gustaf_vi_adolf_bernadotte
     tag: SWE

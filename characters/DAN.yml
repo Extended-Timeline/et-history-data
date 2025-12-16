@@ -1508,12 +1508,16 @@ dan_erik_vii_gryf:
     death: yes
 dan_philippa_of_england:
   1394.6:
-    birth: kettering
+    birth: kettering #Peterborough
     first_name: name_philippa
     dynasty: lancaster_dynasty
     female: yes
+    father: eng_henry_iv_lancaster
+    mother: eng_mary_de_bohun
     religion: catholic
     culture: english
+    tag: LAN
+  1399.9.29:
     tag: ENG
   1406.10.26:
     spouse: dan_erik_vii_gryf
@@ -1582,19 +1586,6 @@ dan_hans_i_von_oldenburg:
     culture: danish
     tag: DAN
   1513.2.20:
-    death: yes
-dan_margaret_christiansdotter:
-  1456.6.23:
-    birth: kobenhavn
-    first_name: name_margaret
-    dynasty: oldenburg_dynasty
-    female: yes
-    father: dan_christian_i_von_oldenburg
-    mother: dan_dorothea_von_hohenzollern
-    religion: catholic
-    culture: danish
-    tag: DAN
-  1486.7.14:
     death: yes
 dan_frederik_i_von_oldenburg:
   1471.10.7:
@@ -1837,7 +1828,7 @@ dan_adolf_frederiksen_von_oldenburg:
     religion: lutheran
   1586.10.1:
     death: yes
-dan_anna_frederiksdotter_von_oldenburg_b1527:
+dan_anna_frederiksdotter_von_oldenburg:
   1527:
     birth: haderslev #unknown
     first_name: name_anna
@@ -1970,19 +1961,6 @@ dan_elizabeth_frederiksdotter_von_oldenburg_b1573:
     culture: danish
     tag: DAN
   1625.7.19:
-    death: yes
-dan_anna_frederiksdotter_von_oldenburg_b1574:
-  1574.12.12:
-    birth: aarhus #Skanderborg
-    first_name: name_anna
-    dynasty: oldenburg_dynasty
-    female: yes
-    father: dan_frederik_ii_von_oldenburg
-    mother: dan_sophie_von_mecklenburg
-    religion: lutheran
-    culture: danish
-    tag: DAN
-  1619.3.2:
     death: yes
 dan_anna_kathrine_von_hohenzollern:
   1575.6.26:
@@ -2368,18 +2346,6 @@ dan_frederik_frederiksen_von_oldenburg_b1651:
     tag: DAN
   1652.3.14:
     death: yes
-dan_george_frederiksen_von_oldenburg_b1653:
-  1653.4.2:
-    birth: kobenhavn
-    first_name: name_george
-    dynasty: oldenburg_dynasty
-    father: dan_frederik_iii_von_oldenburg
-    mother: dan_sophie_amalie_von_welf
-    religion: lutheran
-    culture: danish
-    tag: DAN
-  1708.10.28:
-    death: yes
 dan_dorothea_frederiksdotter_von_oldenburg_b1657:
   1657.11.16:
     birth: kobenhavn #unknown
@@ -2613,7 +2579,7 @@ dan_frederik_charles_frederiksen_von_oldenburg:
     tag: DAN
   1702.1.7:
     death: yes
-dan_george_frederiksen_von_oldenburg_b1703:
+dan_george_frederiksen_von_oldenburg:
   1703.1.6:
     birth: kobenhavn
     first_name: name_george
@@ -2796,6 +2762,8 @@ dan_caroline_mathilde_von_hannover:
     first_name: name_caroline.name_matilda
     dynasty: von_hannover_dynasty
     female: yes
+    father: gbr_frederick_of_hanover
+    mother: gbr_augusta_of_saxe_gotha
     adm: 60
     dip: 45
     mil: 30
@@ -3198,19 +3166,6 @@ dan_frederik_viii_von_glucksburg:
     culture: danish
     tag: DAN
   1912.5.14:
-    death: yes
-dan_alexandra_von_glucksburg:
-  1844.12.1:
-    birth: kobenhavn
-    first_name: name_alexandra
-    dynasty: von_glucksburg_dynasty
-    female: yes
-    father: dan_christian_ix_von_glucksburg
-    mother: dan_louise_von_hesse_kassel
-    religion: lutheran
-    culture: danish
-    tag: DAN
-  1925.11.20:
     death: yes
 dan_dagmar_christiansdotter_von_glucksburg:
   1847.11.26:

@@ -1,6 +1,6 @@
 bern_morcant_bulc_bryneich:
   380.1.1:
-    birth: newcastle #TODO: Date and location guessed, check if better data is available
+    birth: alnwick #unknown
     first_name: morcant_bulc
     dynasty: bryneich_dynasty
     adm: 60
@@ -13,7 +13,7 @@ bern_morcant_bulc_bryneich:
     death: yes
 bern_oesa_iding:
   470:
-    birth: newcastle #unknown
+    birth: alnwick #unknown
     first_name: oesa
     dynasty: iding_dynasty
     religion: germanic
@@ -23,7 +23,7 @@ bern_oesa_iding:
     death: yes
 bern_eoppa_iding:
   490:
-    birth: newcastle #unknown
+    birth: alnwick #unknown
     first_name: eoppa
     dynasty: iding_dynasty
     father: bern_oesa_iding
@@ -34,7 +34,7 @@ bern_eoppa_iding:
     death: yes
 bern_ida_iding:
   510:
-    birth: newcastle #unknown
+    birth: alnwick #unknown
     first_name: ida
     dynasty: iding_dynasty
     father: bern_eoppa_iding
@@ -48,7 +48,7 @@ bern_ida_iding:
     death: yes
 bern_bearnoch:
   510:
-    birth: newcastle #unknown
+    birth: alnwick #unknown
     first_name: bearnoch
     female: yes
     religion: germanic
@@ -60,7 +60,7 @@ bern_bearnoch:
     death: yes
 bern_glappa_iding:
   515:
-    birth: newcastle #unknown
+    birth: alnwick #unknown
     first_name: glappa
     dynasty: bernicia_dynasty
     religion: germanic
@@ -70,7 +70,7 @@ bern_glappa_iding:
     death: yes
 bern_adda_iding:
   530:
-    birth: newcastle #unknown
+    birth: alnwick #unknown
     first_name: adda
     dynasty: iding_dynasty
     father: bern_ida_iding
@@ -82,7 +82,7 @@ bern_adda_iding:
     death: yes
 bern_aethelric_iding:
   535:
-    birth: newcastle #unknown
+    birth: alnwick #unknown
     first_name: aethelric
     dynasty: iding_dynasty
     father: bern_ida_iding
@@ -94,7 +94,7 @@ bern_aethelric_iding:
     death: yes
 bern_theodric_iding:
   540:
-    birth: newcastle #unknown
+    birth: alnwick #unknown
     first_name: name_theodoric
     dynasty: iding_dynasty
     father: bern_ida_iding
@@ -106,7 +106,7 @@ bern_theodric_iding:
     death: yes
 bern_ocga_iding:
   545:
-    birth: newcastle #unknown
+    birth: alnwick #unknown
     first_name: ocga
     dynasty: iding_dynasty
     father: bern_ida_iding
@@ -118,7 +118,7 @@ bern_ocga_iding:
     death: yes
 bern_frithuwald_iding:
   545:
-    birth: newcastle #unknown
+    birth: alnwick #unknown
     first_name: frithuwald
     dynasty: bernicia_dynasty
     religion: germanic
@@ -128,7 +128,7 @@ bern_frithuwald_iding:
     death: yes
 bern_hussa_iding:
   550:
-    birth: newcastle #unknown
+    birth: alnwick #unknown
     first_name: hussa
     dynasty: bernicia_dynasty
     religion: germanic
@@ -138,7 +138,7 @@ bern_hussa_iding:
     death: yes
 bern_aethelfrith_iding:
   555:
-    birth: newcastle #unknown
+    birth: alnwick #unknown
     first_name: aethelfrith
     dynasty: iding_dynasty
     father: bern_aethelric_iding
@@ -152,7 +152,7 @@ bern_aethelfrith_iding:
     death: yes
 bern_acha_of_deira:
   560:
-    birth: newcastle #unknown
+    birth: york #unknown
     first_name: acha
     dynasty: yffing_dynasty
     female: yes
@@ -167,7 +167,7 @@ bern_acha_of_deira:
     death: yes
 bern_aldhelm_iding:
   570:
-    birth: newcastle #unknown
+    birth: alnwick #unknown
     first_name: aldhelm
     dynasty: iding_dynasty
     father: bern_ocga_iding
@@ -178,7 +178,7 @@ bern_aldhelm_iding:
     death: yes
 bern_eanfrith_bernicia:
   580:
-    birth: newcastle #unknown
+    birth: alnwick #unknown
     first_name: eanfrith
     dynasty: iding_dynasty
     father: bern_aethelfrith_iding
@@ -190,7 +190,7 @@ bern_eanfrith_bernicia:
     death: yes
 bern_egwald_iding:
   600:
-    birth: newcastle #unknown
+    birth: alnwick #unknown
     first_name: egwald
     dynasty: iding_dynasty
     father: bern_aldhelm_iding
@@ -201,7 +201,7 @@ bern_egwald_iding:
     death: yes
 bern_oswald_bernicia:
   604:
-    birth: newcastle #unknown
+    birth: alnwick #unknown
     first_name: oswald
     dynasty: iding_dynasty
     father: bern_aethelfrith_iding
@@ -233,7 +233,7 @@ bern_cyneburg_of_wessex:
     death: yes
 bern_aebbe_bernicia:
   615:
-    birth: newcastle #unknown
+    birth: alnwick #unknown
     first_name: aebbe
     dynasty: iding_dynasty
     female: yes
@@ -250,7 +250,7 @@ bern_aebbe_bernicia:
     death: yes
 bern_leoldwald_iding:
   630:
-    birth: newcastle #unknown
+    birth: alnwick #unknown
     first_name: leoldwald
     dynasty: iding_dynasty
     father: bern_egwald_iding

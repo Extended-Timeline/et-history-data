@@ -1,6 +1,6 @@
 eng_alfred_the_great:
   849:
-    birth: southampton #TODO: Wantage
+    birth: abingdon #Wantage
     first_name: name_alfred
     dynasty: wessex_dynasty
     father: wess_aethelwulf_cerdicing
@@ -15,11 +15,12 @@ eng_alfred_the_great:
     religion: catholic
   886:
     tag: ENG
+    nickname: nick_the_great
   899.10.26:
     death: yes
 eng_ealhswith:
   850:
-    birth: southampton #unknown
+    birth: winchester #unknown
     first_name: ealhswith
     female: yes
     religion: chalcedonism
@@ -33,9 +34,9 @@ eng_ealhswith:
     tag: ENG
   902.12.5:
     death: yes
-wess_edward_cerdicing:
+eng_edward_the_elder:
   874:
-    birth: southampton #unknown
+    birth: winchester #unknown
     first_name: name_edward
     dynasty: wessex_dynasty
     father: eng_alfred_the_great
@@ -50,9 +51,25 @@ wess_edward_cerdicing:
     tag: ENG
   924.7.17:
     death: yes
+  962:
+    nickname: nick_the_elder
+eng_ecgwynn:
+  875:
+    birth: winchester #unknown
+    first_name: ecgwynn
+    female: yes
+    religion: catholic
+    culture: anglo_saxon
+    tag: WESS
+  886:
+    tag: ENG
+  893:
+    spouse: eng_edward_the_elder
+  898:
+    death: yes
 eng_aethelgifu_of_wessex:
   876:
-    birth: southampton #unknown
+    birth: winchester #unknown
     first_name: aethelgifu
     dynasty: wessex_dynasty
     female: yes
@@ -67,7 +84,7 @@ eng_aethelgifu_of_wessex:
     death: yes
 eng_aelfthryth_of_wessex:
   877:
-    birth: southampton #unknown
+    birth: winchester #unknown
     first_name: aelfthryth
     dynasty: wessex_dynasty
     female: yes
@@ -80,9 +97,23 @@ eng_aelfthryth_of_wessex:
     tag: ENG
   929.6.7:
     death: yes
+eng_aelfflaed:
+  880:
+    birth: winchester #unknown
+    first_name: aelfflaed
+    female: yes
+    religion: catholic
+    culture: anglo_saxon
+    tag: WESS
+  886:
+    tag: ENG
+  899:
+    spouse: eng_edward_the_elder
+  919:
+    death: yes
 eng_aethelweard_of_wessex:
   880:
-    birth: southampton #unknown
+    birth: winchester #unknown
     first_name: aethelweard
     dynasty: wessex_dynasty
     father: eng_alfred_the_great
@@ -94,194 +125,267 @@ eng_aethelweard_of_wessex:
     tag: ENG
   922:
     death: yes
-eng_aethelstan_cerdicing:
+eng_athelstan_the_glorious:
   894.1.1:
-    birth: london #TODO: Date and location guessed, check if better data is available
+    birth: winchester #unknown
     first_name: aethelstan
-    dynasty: cerdicing_dynasty
-    adm: 30
-    dip: 60
-    mil: 15
+    dynasty: wessex_dynasty
+    father: eng_edward_the_elder
+    mother: eng_ecgwynn
     religion: catholic
     culture: anglo_saxon
     tag: ENG
   939.10.27:
     death: yes
-eng_edmund_i_of_wessex:
-  921.1.1:
-    birth: london #TODO: Date and location guessed, check if better data is available
-    first_name: edmund
-    dynasty: of_wessex_dynasty
-    father: eng_aethelstan_cerdicing #TODO: check if this makes sense
-    adm: 15
-    dip: 75
-    mil: 75
+eng_eadgifu_of_kent:
+  902:
+    birth: canterbury #unknown
+    first_name: eadgifu
+    female: yes
+    religion: catholic
+    culture: anglo_saxon
+    tag: ENG
+  919:
+    spouse: eng_edward_the_elder
+  968:
+    death: yes
+eng_aelfweard_cerdicing:
+  902:
+    birth: winchester #unknown
+    first_name: aethelstan
+    dynasty: wessex_dynasty
+    father: eng_edward_the_elder
+    mother: eng_aelfflaed
+    religion: catholic
+    culture: anglo_saxon
+    tag: ENG
+  924.8.2:
+    death: yes
+eng_edwin_cerdicing:
+  903:
+    birth: winchester #unknown
+    first_name: edwin
+    dynasty: wessex_dynasty
+    father: eng_edward_the_elder
+    mother: eng_aelfflaed
+    religion: catholic
+    culture: anglo_saxon
+    tag: ENG
+  933:
+    death: yes
+eng_eadgifu_cerdicing:
+  903:
+    birth: winchester #unknown
+    first_name: eadgifu
+    dynasty: wessex_dynasty
+    female: yes
+    father: eng_edward_the_elder
+    mother: eng_aelfflaed
+    religion: catholic
+    culture: anglo_saxon
+    tag: ENG
+  951:
+    death: yes
+eng_eadhild_cerdicing:
+  906:
+    birth: winchester #unknown
+    first_name: eadhild
+    dynasty: wessex_dynasty
+    female: yes
+    father: eng_edward_the_elder
+    mother: eng_aelfflaed
+    religion: catholic
+    culture: anglo_saxon
+    tag: ENG
+  937:
+    death: yes
+eng_eadgyth_cerdicing:
+  910:
+    birth: winchester #unknown
+    first_name: eadgyth
+    dynasty: wessex_dynasty
+    female: yes
+    father: eng_edward_the_elder
+    mother: eng_aelfflaed
+    religion: catholic
+    culture: anglo_saxon
+    tag: ENG
+  946:
+    death: yes
+eng_edmund_the_magnificent:
+  921:
+    birth: winchester #unknown
+    first_name: name_edmond
+    dynasty: wessex_dynasty
+    father: eng_edward_the_elder
+    mother: eng_eadgifu_of_kent
     religion: catholic
     culture: anglo_saxon
     tag: ENG
   946.5.26:
     death: yes
-eng_edmund_i_of_wessex_1:
-  909.1.1:
-    birth: london #TODO: Date and location guessed, check if better data is available
-    first_name: edmund
-    dynasty: of_wessex_dynasty
-    adm: 15
-    dip: 75
-    mil: 75
+eng_aelfgifu_of_shaftesbury:
+  922:
+    birth: winchester #unknown
+    first_name: aelfgifu
+    female: yes
     religion: catholic
     culture: anglo_saxon
     tag: ENG
-  946.5.26:
+  939:
+    spouse: eng_edmund_the_magnificent
+  944:
     death: yes
-eng_eadred_i_of_wessex:
-  923.1.1:
-    birth: london #TODO: Date and location guessed, check if better data is available
+eng_eadred:
+  923:
+    birth: winchester #unknown
     first_name: eadred
-    dynasty: of_wessex_dynasty
-    father: eng_edmund_i_of_wessex_1 #TODO: check if this makes sense
-    adm: 45
-    dip: 15
-    mil: 45
+    dynasty: wessex_dynasty
+    father: eng_edward_the_elder
+    mother: eng_eadgifu_of_kent
     religion: catholic
     culture: anglo_saxon
     tag: ENG
   955.11.24:
     death: yes
-eng_eadred_i_of_wessex_1:
-  916.1.1:
-    birth: london #TODO: Date and location guessed, check if better data is available
-    first_name: eadred
-    dynasty: of_wessex_dynasty
-    adm: 45
-    dip: 15
-    mil: 45
+eng_eadburh_of_wessex:
+  924:
+    birth: winchester #unknown
+    first_name: eadburh
+    dynasty: wessex_dynasty
+    female: yes
+    father: eng_edward_the_elder
+    mother: eng_eadgifu_of_kent
     religion: catholic
     culture: anglo_saxon
     tag: ENG
-  955.11.24:
+  953.6.15:
     death: yes
-eng_eadwig_i_of_wessex:
-  940.1.1:
-    birth: london #TODO: Date and location guessed, check if better data is available
+eng_aethelflaed_of_damerham:
+  925:
+    birth: colchester #unknown
+    first_name: aethelflaed
+    female: yes
+    religion: catholic
+    culture: anglo_saxon
+    tag: ENG
+  944:
+    spouse: eng_edmund_the_magnificent
+  980:
+    death: yes
+eng_eadwig:
+  940:
+    birth: winchester #unknown
     first_name: eadwig
-    dynasty: of_wessex_dynasty
-    father: eng_eadred_i_of_wessex_1 #TODO: check if this makes sense
-    adm: 75
-    dip: 75
-    mil: 60
+    dynasty: wessex_dynasty
+    father: eng_edmund_the_magnificent
+    mother: eng_aelfgifu_of_shaftesbury
     religion: catholic
     culture: anglo_saxon
     tag: ENG
   959.10.1:
     death: yes
-eng_eadwig_i_of_wessex_1:
-  925.1.1:
-    birth: london #TODO: Date and location guessed, check if better data is available
-    first_name: eadwig
-    dynasty: of_wessex_dynasty
-    adm: 75
-    dip: 75
-    mil: 60
-    religion: catholic
-    culture: anglo_saxon
-    tag: ENG
-  959.10.1:
-    death: yes
-eng_edgar_i_of_wessex:
-  943.1.1:
-    birth: london #TODO: Date and location guessed, check if better data is available
-    first_name: edgar
-    dynasty: of_wessex_dynasty
-    father: eng_eadwig_i_of_wessex_1 #TODO: check if this makes sense
-    adm: 45
-    dip: 30
-    mil: 45
+eng_edgar_the_peaceful:
+  943:
+    birth: winchester #unknown
+    first_name: name_edgar
+    nickname: the_peaceful
+    dynasty: wessex_dynasty
+    father: eng_edmund_the_magnificent
+    mother: eng_aelfgifu_of_shaftesbury
     religion: catholic
     culture: anglo_saxon
     tag: ENG
   975.7.8:
     death: yes
-eng_edgar_i_of_wessex_1:
-  929.1.1:
-    birth: london #TODO: Date and location guessed, check if better data is available
-    first_name: edgar
-    dynasty: of_wessex_dynasty
-    adm: 45
-    dip: 30
-    mil: 45
+eng_aethelflaed_eneda:
+  943:
+    birth: winchester #unknown
+    first_name: aethelflaed
+    female: yes
     religion: catholic
     culture: anglo_saxon
     tag: ENG
-  975.7.8:
+  959:
+    spouse: eng_edgar_the_peaceful
+  963:
     death: yes
-eng_edward_i_of_wessex:
-  962.1.1:
-    birth: london #TODO: Date and location guessed, check if better data is available
-    first_name: edward
-    dynasty: of_wessex_dynasty
-    father: eng_edgar_i_of_wessex_1 #TODO: check if this makes sense
-    adm: 75
-    dip: 60
-    mil: 30
+eng_wulfthryth_of_wilton:
+  945:
+    birth: winchester #unknown
+    first_name: wulfthryth
+    female: yes
+    religion: catholic
+    culture: anglo_saxon
+    tag: ENG
+  963:
+    spouse: eng_edgar_the_peaceful
+  965:
+    spouse: ---
+  1000:
+    death: yes
+eng_aelfthryth_of_devon:
+  945:
+    birth: winchester #unknown
+    first_name: aelfthryth
+    female: yes
+    religion: catholic
+    culture: anglo_saxon
+    tag: ENG
+  965:
+    spouse: eng_edgar_the_peaceful
+  1001.11.17:
+    death: yes
+eng_edward_the_martyr:
+  962:
+    birth: winchester #unknown
+    first_name: name_edward
+    dynasty: wessex_dynasty
+    father: eng_edgar_the_peaceful
+    mother: eng_aethelflaed_eneda
     religion: catholic
     culture: anglo_saxon
     tag: ENG
   978.3.18:
     death: yes
-eng_edward_i_of_wessex_1:
-  945.1.1:
-    birth: london #TODO: Date and location guessed, check if better data is available
-    first_name: edward
-    dynasty: of_wessex_dynasty
-    adm: 75
-    dip: 60
-    mil: 30
+    nickname: nick_the_martyr
+eng_edith_of_wilton:
+  964:
+    birth: winchester #unknown
+    first_name: name_edward
+    dynasty: wessex_dynasty
+    female: yes
+    father: eng_edgar_the_peaceful
+    mother: eng_wulfthryth_of_wilton
     religion: catholic
     culture: anglo_saxon
     tag: ENG
-  978.3.18:
+  984:
     death: yes
-eng_aethelred_i_of_wessex:
-  968.1.1:
-    birth: london #TODO: Date and location guessed, check if better data is available
-    first_name: aethelred
-    dynasty: of_wessex_dynasty
-    father: eng_edward_i_of_wessex_1 #TODO: check if this makes sense
-    adm: 75
-    dip: 75
-    mil: 75
+eng_ethelred_the_unready:
+  968:
+    birth: winchester #unknown
+    first_name: name_ethelred
+    dynasty: wessex_dynasty
+    father: eng_edgar_the_peaceful
+    mother: eng_aelfthryth_of_devon
     religion: catholic
     culture: anglo_saxon
     tag: ENG
   1016.4.23:
     death: yes
-eng_aethelred_i_of_wessex_1:
-  948.1.1:
-    birth: london #TODO: Date and location guessed, check if better data is available
-    first_name: aethelred
-    dynasty: of_wessex_dynasty
-    adm: 75
-    dip: 75
-    mil: 75
+    nickname: nick_the_unready
+eng_aelfgifu_of_york:
+  969:
+    birth: york #unknown
+    first_name: aelfgifu
+    female: yes
     religion: catholic
     culture: anglo_saxon
     tag: ENG
-  1016.4.23:
-    death: yes
-eng_edmund_ii_of_wessex:
-  993.1.1:
-    birth: london #TODO: Date and location guessed, check if better data is available
-    first_name: edmund
-    dynasty: of_wessex_dynasty
-    father: eng_aethelred_i_of_wessex_1 #TODO: check if this makes sense
-    adm: 75
-    dip: 75
-    mil: 45
-    religion: catholic
-    culture: anglo_saxon
-    tag: ENG
-  1016.11.30:
+  985:
+    spouse: eng_ethelred_the_unready
+  1001:
     death: yes
 eng_emma_of_normandy:
   984:
@@ -291,9 +395,146 @@ eng_emma_of_normandy:
     religion: catholic
     culture: norman
     tag: ENG
+  1002:
+    spouse: eng_ethelred_the_unready
   1017:
     spouse: eng_cnut_the_great
   1052.3.6:
+    death: yes
+eng_aethelstan_aetheling:
+  986:
+    birth: winchester #unknown
+    first_name: aethelstan
+    dynasty: wessex_dynasty
+    father: eng_ethelred_the_unready
+    mother: eng_aelfgifu_of_york
+    religion: catholic
+    culture: anglo_saxon
+    tag: ENG
+  1014.6.25:
+    death: yes
+eng_edmund_ironside:
+  990:
+    birth: winchester #unknown
+    first_name: name_edmond
+    dynasty: wessex_dynasty
+    father: eng_ethelred_the_unready
+    mother: eng_aelfgifu_of_york
+    religion: catholic
+    culture: anglo_saxon
+    tag: ENG
+  1014:
+    nickname: nick_ironside
+  1016.11.30:
+    death: yes
+eng_eadred_aetheling:
+  991:
+    birth: winchester #unknown
+    first_name: eadred
+    dynasty: wessex_dynasty
+    father: eng_ethelred_the_unready
+    mother: eng_aelfgifu_of_york
+    religion: catholic
+    culture: anglo_saxon
+    tag: ENG
+  1012:
+    death: yes
+eng_ealdgyth:
+  992:
+    birth: winchester #unknown
+    first_name: ealdgyth
+    female: yes
+    religion: catholic
+    culture: anglo_saxon
+    tag: ENG
+  1008:
+    spouse: eng_edmund_ironside
+  1017:
+    death: yes
+eng_eadwig_aetheling:
+  992:
+    birth: winchester #unknown
+    first_name: eadwig
+    dynasty: wessex_dynasty
+    father: eng_ethelred_the_unready
+    mother: eng_aelfgifu_of_york
+    religion: catholic
+    culture: anglo_saxon
+    tag: ENG
+  1017:
+    death: yes
+eng_godwin_of_wessex:
+  1000:
+    birth: southampton #unknown
+    first_name: godwin
+    dynasty: godwin_dynasty
+    religion: catholic
+    culture: anglo_saxon
+    tag: ENG
+  1053.4.15:
+    death: yes
+eng_godgifu_aetheling:
+  1004:
+    birth: winchester #unknown
+    first_name: godgifu
+    dynasty: wessex_dynasty
+    female: yes
+    father: eng_ethelred_the_unready
+    mother: eng_emma_of_normandy
+    religion: catholic
+    culture: anglo_saxon
+    tag: ENG
+  1056:
+    death: yes
+eng_edward_the_confessor:
+  1005:
+    birth: winchester #unknown
+    first_name: name_edward
+    dynasty: wessex_dynasty
+    father: eng_ethelred_the_unready
+    mother: eng_emma_of_normandy
+    religion: catholic
+    culture: anglo_saxon
+    tag: ENG
+  1066.1.5:
+    death: yes
+eng_alfred_aetheling:
+  1012:
+    birth: winchester #unknown
+    first_name: name_alfred
+    dynasty: wessex_dynasty
+    father: eng_ethelred_the_unready
+    mother: eng_emma_of_normandy
+    religion: catholic
+    culture: anglo_saxon
+    tag: ENG
+  1036:
+    death: yes
+eng_edward_the_exile:
+  1016:
+    birth: winchester #unknown
+    first_name: name_edward
+    dynasty: wessex_dynasty
+    father: eng_edmund_ironside
+    mother: eng_ealdgyth
+    religion: catholic
+    culture: anglo_saxon
+    tag: ENG
+  1017:
+    nickname: the_exile
+  1057.4.19:
+    death: yes
+eng_edmund_aetheling:
+  1017:
+    birth: winchester #unknown
+    first_name: name_edmond
+    dynasty: wessex_dynasty
+    father: eng_edmund_ironside
+    mother: eng_ealdgyth
+    religion: catholic
+    culture: anglo_saxon
+    tag: ENG
+  1056:
     death: yes
 eng_harold_harefoot:
   1017:
@@ -303,9 +544,6 @@ eng_harold_harefoot:
     dynasty: canute_dynasty
     father: eng_cnut_the_great
     mother: dan_aelgifu_of_northampton
-    adm: 15
-    dip: 15
-    mil: 60
     religion: catholic
     culture: danish
     tag: ENG
@@ -318,13 +556,22 @@ eng_harthacnute:
     dynasty: canute_dynasty
     father: eng_cnut_the_great
     mother: eng_emma_of_normandy
-    adm: 15
-    dip: 15
-    mil: 60
     religion: catholic
     culture: danish
     tag: ENG
   1042.6.8:
+    death: yes
+eng_agatha:
+  1020:
+    birth: southampton #unknown
+    first_name: name_agatha
+    female: yes
+    religion: catholic
+    culture: anglo_saxon
+    tag: ENG
+  1036:
+    spouse: eng_edward_the_exile
+  1071:
     death: yes
 eng_gunhilda_of_denmark:
   1020:
@@ -339,199 +586,498 @@ eng_gunhilda_of_denmark:
     tag: ENG
   1038.7.18:
     death: yes
-eng_edward_ii_of_wessex:
-  1012.1.1:
-    birth: london #TODO: Date and location guessed, check if better data is available
-    first_name: edward
-    dynasty: of_wessex_dynasty
-    adm: 45
-    dip: 75
-    mil: 60
+eng_edith_of_wessex:
+  1025:
+    birth: southampton #unknown
+    first_name: name_edith
+    dynasty: godwin_dynasty
+    female: yes
+    father: eng_godwin_of_wessex
     religion: catholic
     culture: anglo_saxon
     tag: ENG
-  1066.1.5:
+  1045.1.23:
+    spouse: eng_edward_the_confessor
+  1075.12.18:
     death: yes
-eng_harold_i_of_godwin:
-  1036.1.1:
-    birth: london #TODO: Date and location guessed, check if better data is available
-    first_name: harold
-    dynasty: of_godwin_dynasty
+eng_edith_the_fair:
+  1025:
+    birth: southampton #unknown
+    first_name: name_edith
+    nickname: the_fair
+    female: yes
+    religion: catholic
+    culture: anglo_saxon
+    tag: ENG
+  1045:
+    spouse: eng_harold_godwinson
+  1086:
+    death: yes
+eng_harold_godwinson:
+  1028:
+    birth: southampton #unknown
+    first_name: name_harold
+    dynasty: godwin_dynasty
+    father: eng_godwin_of_wessex
     adm: 45
     dip: 30
     mil: 60
     religion: catholic
     culture: anglo_saxon
     tag: ENG
-  1066.10.15:
+  1066.10.14:
     death: yes
-eng_edgar_ii_of_wessex:
-  1036.1.1:
-    birth: london #TODO: Date and location guessed, check if better data is available
-    first_name: edgar
-    dynasty: of_wessex_dynasty
-    adm: 30
-    dip: 30
-    mil: 45
-    religion: catholic
-    culture: english
-    tag: ENG
-  1066.12.25:
-    death: yes
-eng_william_i_de_normandie:
-  1036.1.1:
-    birth: london #TODO: Date and location guessed, check if better data is available
-    first_name: william
-    dynasty: de_normandie_dynasty
+eng_william_the_conquerer:
+  1028:
+    birth: falaise
+    first_name: name_william
+    nickname: nick_the_bastard
+    dynasty: normandy_dynasty
     adm: 90
     dip: 75
     mil: 90
     religion: catholic
-    culture: english
+    culture: norman
+    tag: NRM
+    traits:
+      conqueror: yes
+  1066.12:
     tag: ENG
+    nickname: nick_the_conquerer
   1087.9.9:
     death: yes
-eng_william_ii_de_normandie:
-  1060.1.1:
-    birth: london #TODO: Date and location guessed, check if better data is available
-    first_name: william
-    dynasty: de_normandie_dynasty
-    father: eng_william_i_de_normandie #TODO: check if this makes sense
-    adm: 90
-    dip: 75
-    mil: 90
+eng_matilda_of_flanders:
+  1031:
+    birth: ghent #unknown
+    first_name: name_matilda
+    female: yes
     religion: catholic
-    culture: english
+    culture: walloon
+    tag: FLA
+  1051:
+    spouse: eng_william_the_conquerer
+    tag: NRM
+  1068.4:
+    tag: ENG
+  1083.11.2:
+    death: yes
+eng_godwin_haroldson:
+  1046:
+    birth: southampton #unknown
+    first_name: godwin
+    dynasty: godwin_dynasty
+    father: eng_harold_godwinson
+    mother: eng_edith_the_fair
+    religion: catholic
+    culture: anglo_saxon
+    tag: ENG
+  1069:
+    death: yes
+eng_edmund_haroldson:
+  1048:
+    birth: southampton #unknown
+    first_name: name_edmond
+    dynasty: godwin_dynasty
+    father: eng_harold_godwinson
+    mother: eng_edith_the_fair
+    religion: catholic
+    culture: anglo_saxon
+    tag: ENG
+  1069:
+    death: yes
+eng_magnus_haroldson:
+  1050:
+    birth: southampton #unknown
+    first_name: name_magnus
+    dynasty: godwin_dynasty
+    father: eng_harold_godwinson
+    mother: eng_edith_the_fair
+    religion: catholic
+    culture: anglo_saxon
+    tag: ENG
+  1075:
+    death: yes
+eng_edgar_aetheling:
+  1052:
+    birth: pest #Hungary
+    first_name: name_edgar
+    dynasty: wessex_dynasty
+    father: eng_edward_the_exile
+    mother: eng_agatha
+    religion: catholic
+    culture: norman
+    tag: ENG
+  1125:
+    death: yes
+eng_richard_of_normandy:
+  1054:
+    birth: caen #unknown
+    first_name: name_william
+    dynasty: normandy_dynasty
+    father: eng_william_the_conquerer
+    mother: eng_matilda_of_flanders
+    religion: catholic
+    culture: norman
+    tag: NRM
+  1066.12:
+    tag: ENG
+  1070:
+    death: yes
+eng_adeliza_of_normandy:
+  1055:
+    birth: caen #unknown
+    first_name: adeliza
+    dynasty: normandy_dynasty
+    female: yes
+    father: eng_william_the_conquerer
+    mother: eng_matilda_of_flanders
+    religion: catholic
+    culture: norman
+    tag: NRM
+  1112:
+    death: yes
+eng_cecilia_of_normandy:
+  1056:
+    birth: caen #unknown
+    first_name: name_cecile
+    dynasty: normandy_dynasty
+    female: yes
+    father: eng_william_the_conquerer
+    mother: eng_matilda_of_flanders
+    religion: catholic
+    culture: norman
+    tag: NRM
+  1126.7.30:
+    death: yes
+eng_william_ii_rufus:
+  1057:
+    birth: caen #unknown
+    first_name: name_william
+    nickname: nick_rufus
+    dynasty: normandy_dynasty
+    father: eng_william_the_conquerer
+    mother: eng_matilda_of_flanders
+    religion: catholic
+    culture: norman
+    tag: NRM
+  1066.12:
     tag: ENG
   1100.8.2:
     death: yes
-eng_william_ii_de_normandie_1:
-  1057.1.1:
-    birth: london #TODO: Date and location guessed, check if better data is available
-    first_name: william
-    dynasty: de_normandie_dynasty
-    adm: 30
-    dip: 45
-    mil: 75
+eng_constance_of_normandy:
+  1061:
+    birth: caen #unknown
+    first_name: name_constance
+    dynasty: normandy_dynasty
+    female: yes
+    father: eng_william_the_conquerer
+    mother: eng_matilda_of_flanders
     religion: catholic
-    culture: english
-    tag: ENG
-  1100.8.2:
+    culture: norman
+    tag: NRM
+  1090.8.13:
     death: yes
-eng_henry_i_de_normandie:
-  1068.9.1:
-    birth: london #TODO: Location guessed, check if better data is available
-    first_name: henry
-    dynasty: de_normandie_dynasty
-    father: eng_william_ii_de_normandie_1 #TODO: check if this makes sense
-    adm: 15
-    dip: 75
-    mil: 60
+eng_adela_of_normandy:
+  1067:
+    birth: caen #unknown
+    first_name: name_adela
+    dynasty: normandy_dynasty
+    female: yes
+    father: eng_william_the_conquerer
+    mother: eng_matilda_of_flanders
     religion: catholic
-    culture: english
+    culture: norman
+    tag: NRM
+  1137.3.8:
+    death: yes
+eng_henry_i:
+  1068.9:
+    birth: selby
+    first_name: name_henry
+    dynasty: normandy_dynasty
+    father: eng_william_the_conquerer
+    mother: eng_matilda_of_flanders
+    religion: catholic
+    culture: norman
     tag: ENG
   1135.12.1:
     death: yes
-eng_henry_i_de_normandie_1:
-  1070.1.1:
-    birth: london #TODO: Date and location guessed, check if better data is available
-    first_name: henry
-    dynasty: de_normandie_dynasty
-    adm: 15
-    dip: 75
-    mil: 60
+eng_matilda_of_scotland:
+  1080:
+    birth: dunfermline
+    first_name: name_matilda
+    dynasty: dunkeld_dynasty
+    female: yes
+    father: sco_malcolm_iii
+    mother: sco_margaret_of_wessex
     religion: catholic
-    culture: english
+    culture: scottish
+    tag: SCO
+  1100.11.11:
+    spouse: eng_henry_i
+    first_name: name_matilda
     tag: ENG
-  1135.12.1:
+  1118.5.1:
+    death: yes
+eng_matilda_of_normandy:
+  1102.2.7:
+    birth: winchester
+    first_name: name_matilda
+    dynasty: normandy_dynasty
+    female: yes
+    father: eng_henry_i
+    mother: eng_matilda_of_scotland
+    religion: catholic
+    culture: norman
+    tag: ENG
+  1167.9.10:
+    death: yes
+eng_adeliza_of_louvain:
+  1103:
+    birth: leuven
+    first_name: adeliza
+    female: yes
+    religion: catholic
+    culture: walloon
+    tag: BRB
+  1121.1.24:
+    spouse: eng_henry_i
+    tag: ENG
+  1151.4:
+    death: yes
+eng_william_adelin:
+  1103.8.5:
+    birth: winchester
+    first_name: name_william
+    dynasty: normandy_dynasty
+    father: eng_henry_i
+    mother: eng_matilda_of_scotland
+    religion: catholic
+    culture: norman
+    tag: ENG
+  1120.11.25:
     death: yes
 eng_stephen_i_de_blois:
-  1105.1.1:
-    birth: london #TODO: Date and location guessed, check if better data is available
-    first_name: stephen
+  1092:
+    birth: blois
+    first_name: name_stephen
     dynasty: de_blois_dynasty
-    adm: 15
-    dip: 60
-    mil: 45
     religion: catholic
-    culture: english
+    culture: french
+    tag: FRA
+  1135.12.1:
     tag: ENG
-  1154.12.19:
+  1154.10.25:
     death: yes
-eng_henry_ii_plantagenet:
-  1124.1.1:
-    birth: london #TODO: Date and location guessed, check if better data is available
-    first_name: henry
+eng_matilda_of_boulogne:
+  1105:
+    birth: boulogne_sur_mer
+    first_name: name_matilda
+    female: yes
+    mother: sco_mary_dunkeld
+    religion: catholic
+    culture: picard
+    tag: FRA
+  1122:
+    spouse: eng_stephen_i_de_blois
+  1135.12.1:
+    tag: ENG
+  1151.4:
+    death: yes
+eng_eleanor_of_aquitaine:
+  1124:
+    birth: bordeaux
+    first_name: name_eleanor
+    female: yes
+    religion: catholic
+    culture: picard
+    tag: FRA
+  1152.5.18:
+    spouse: eng_henry_ii_curtmantle
+    tag: ANJ
+  1154.10.25:
+    tag: ENG
+  1204.4.1:
+    death: yes
+eng_eustace_of_blois:
+  1130:
+    birth: blois #unknown
+    first_name: name_eustathius
+    dynasty: de_blois_dynasty
+    father: eng_stephen_i_de_blois
+    mother: eng_matilda_of_boulogne
+    religion: catholic
+    culture: french
+    tag: FRA
+  1135.12.1:
+    tag: ENG
+  1153.8.17:
+    death: yes
+eng_henry_ii_curtmantle:
+  1133.3.5:
+    birth: le_mans
+    first_name: name_henry
+    nickname: nick_curtmantle
     dynasty: plantagenet_dynasty
     adm: 75
     dip: 75
     mil: 15
     religion: catholic
-    culture: english
+    culture: angevin
+    tag: ANJ
+  1154.10.25:
     tag: ENG
-  1170.6.14:
+  1189.7.6:
+    death: yes
+eng_marie_of_blois:
+  1136:
+    birth: winchester #unknown
+    first_name: name_mary
+    dynasty: de_blois_dynasty
+    female: yes
+    father: eng_stephen_i_de_blois
+    mother: eng_matilda_of_boulogne
+    religion: catholic
+    culture: french
+    tag: ENG
+  1182.7.25:
+    death: yes
+eng_william_of_blois:
+  1137:
+    birth: winchester #unknown
+    first_name: name_william
+    dynasty: de_blois_dynasty
+    father: eng_stephen_i_de_blois
+    mother: eng_matilda_of_boulogne
+    religion: catholic
+    culture: french
+    tag: ENG
+  1159.10.11:
+    death: yes
+eng_william_ix_of_poitiers:
+  1153.8.17:
+    birth: poitiers
+    first_name: name_william
+    dynasty: plantagenet_dynasty
+    father: eng_henry_ii_curtmantle
+    mother: eng_eleanor_of_aquitaine
+    religion: catholic
+    culture: angevin
+    tag: ANJ
+  1154.10.25:
+    tag: ENG
+  1156:
     death: yes
 eng_henry_iii_plantagenet:
   1155.2.28:
-    birth: london #TODO: Location guessed, check if better data is available
-    first_name: henry
+    birth: london
+    first_name: name_henry
+    nickname: the_young
     dynasty: plantagenet_dynasty
-    father: eng_john_i_plantagenet_1 #TODO: check if this makes sense
-    adm: 45
-    dip: 30
-    mil: 30
+    father: eng_henry_ii_curtmantle
+    mother: eng_eleanor_of_aquitaine
     religion: catholic
     culture: english
     tag: ENG
   1183.6.11:
     death: yes
-eng_henry_iii_plantagenet_1:
-  1140.1.1:
-    birth: london #TODO: Date and location guessed, check if better data is available
-    first_name: henry
+eng_matilda_plantagenet:
+  1156.6:
+    birth: london
+    first_name: name_matilda
     dynasty: plantagenet_dynasty
-    father: eng_john_i_plantagenet_1 #TODO: check if this makes sense
-    adm: 45
-    dip: 30
-    mil: 30
+    female: yes
+    father: eng_henry_ii_curtmantle
+    mother: eng_eleanor_of_aquitaine
     religion: catholic
     culture: english
     tag: ENG
-  1183.6.11:
+  1189.7:
     death: yes
-eng_richard_i_plantagenet:
+eng_richard_i_lionheart:
   1157.9.8:
-    birth: london #TODO: Location guessed, check if better data is available
-    first_name: richard
+    birth: oxford
+    first_name: name_richard
     dynasty: plantagenet_dynasty
-    father: eng_henry_iii_plantagenet_1 #TODO: check if this makes sense
+    father: eng_henry_ii_curtmantle
+    mother: eng_eleanor_of_aquitaine
     adm: 75
     dip: 30
     mil: 90
     religion: catholic
     culture: english
     tag: ENG
+  1187:
+    nickname: nick_the_lionheart
   1199.4.6:
     death: yes
-eng_richard_i_plantagenet_1:
-  1153.1.1:
-    birth: london #TODO: Date and location guessed, check if better data is available
-    first_name: richard
+eng_eleanor_plantagenet:
+  1161:
+    birth: domfront
+    first_name: name_eleanor
     dynasty: plantagenet_dynasty
-    adm: 75
-    dip: 30
-    mil: 90
+    female: yes
+    father: eng_henry_ii_curtmantle
+    mother: eng_eleanor_of_aquitaine
     religion: catholic
     culture: english
     tag: ENG
-  1199.4.6:
+  1214.10.31:
     death: yes
-eng_john_i_plantagenet:
+mie_berenguela_jimena:
+  1165:
+    birth: tudela
+    first_name: name_berengaria
+    dynasty: jimena_dynasty
+    female: yes
+    father: nav_sancho_vi_jimena
+    adm: 34
+    dip: 44
+    mil: 42
+    religion: catholic
+    culture: basque
+    tag: NAV
+  1191.5.12:
+    spouse: eng_richard_i_lionheart
+    tag: ENG
+  1220:
+    tag: MIE
+  1230.12.23:
+    death: yes
+eng_joan_plantagenet:
+  1165.10:
+    birth: angers
+    first_name: name_joanna
+    dynasty: plantagenet_dynasty
+    female: yes
+    father: eng_henry_ii_curtmantle
+    mother: eng_eleanor_of_aquitaine
+    religion: catholic
+    culture: english
+    tag: ENG
+  1199.9.4:
+    death: yes
+eng_isabella_of_gloucester:
+  1166:
+    birth: gloucester
+    first_name: isabella
+    female: yes
+    religion: catholic
+    culture: english
+    tag: ENG
+  1189.8.29:
+    spouse: eng_john_lackland
+  1200.3:
+    spouse: ---
+  1230.12.23:
+    death: yes
+eng_john_lackland:
   1166.12.24:
-    birth: london #TODO: Location guessed, check if better data is available
-    first_name: john
+    birth: oxford #unknown
+    first_name: name_john
     dynasty: plantagenet_dynasty
-    father: eng_richard_i_plantagenet_1 #TODO: check if this makes sense
+    father: eng_henry_ii_curtmantle
+    mother: eng_eleanor_of_aquitaine
     adm: 30
     dip: 30
     mil: 60
@@ -540,25 +1086,26 @@ eng_john_i_plantagenet:
     tag: ENG
   1216.10.19:
     death: yes
-eng_john_i_plantagenet_1:
-  1169.1.1:
-    birth: london #TODO: Date and location guessed, check if better data is available
-    first_name: john
-    dynasty: plantagenet_dynasty
-    adm: 30
-    dip: 30
-    mil: 60
+eng_isabella_of_angouleme:
+  1186:
+    birth: angouleme
+    first_name: name_elizabeth
+    female: yes
     religion: catholic
-    culture: english
+    culture: saintongeais
+    tag: FRA
+  1200.8.24:
+    spouse: eng_john_lackland
     tag: ENG
-  1216.10.19:
+  1246.6.4:
     death: yes
-eng_henry_iii_plantagenet_2:
+eng_henry_iii:
   1207.10.1:
-    birth: london #TODO: Location guessed, check if better data is available
-    first_name: henry
+    birth: winchester
+    first_name: name_henry
     dynasty: plantagenet_dynasty
-    father: eng_john_i_plantagenet_1 #TODO: check if this makes sense
+    father: eng_john_lackland
+    mother: eng_isabella_of_angouleme
     adm: 60
     dip: 75
     mil: 60
@@ -567,25 +1114,69 @@ eng_henry_iii_plantagenet_2:
     tag: ENG
   1272.11.16:
     death: yes
-eng_henry_iii_plantagenet_3:
-  1186.1.1:
-    birth: london #TODO: Date and location guessed, check if better data is available
-    first_name: henry
+eng_richard_of_cornwall:
+  1209.1.5:
+    birth: winchester
+    first_name: name_richard
     dynasty: plantagenet_dynasty
-    adm: 60
-    dip: 75
-    mil: 60
+    adm: 36
+    dip: 84
+    mil: 46
+    father: eng_john_lackland
+    mother: eng_isabella_of_angouleme
     religion: catholic
     culture: english
     tag: ENG
-  1272.11.16:
+  1272.4.2:
     death: yes
-eng_edward_i_plantagenet:
+eng_isabella_plantagenet:
+  1214:
+    birth: gloucester
+    first_name: isabella
+    dynasty: plantagenet_dynasty
+    female: yes
+    father: eng_john_lackland
+    mother: eng_isabella_of_angouleme
+    religion: catholic
+    culture: english
+    tag: ENG
+  1241.12.1:
+    death: yes
+eng_eleanor_plantagenet_of_leicester:
+  1215:
+    birth: gloucester
+    first_name: name_eleanor
+    dynasty: plantagenet_dynasty
+    female: yes
+    father: eng_john_lackland
+    mother: eng_isabella_of_angouleme
+    religion: catholic
+    culture: english
+    tag: ENG
+  1275.4.13:
+    death: yes
+eng_eleanor_of_provence:
+  1223:
+    birth: aix_en_provence
+    first_name: name_eleanor
+    dynasty: barcelona_dynasty
+    female: yes
+    religion: catholic
+    culture: saintongeais
+    tag: PRO
+  1236.1.14:
+    spouse: eng_henry_iii
+    tag: ENG
+  1291.6.25:
+    death: yes
+eng_edward_i:
   1239.6.17:
-    birth: london #TODO: Location guessed, check if better data is available
-    first_name: edward
+    birth: london
+    first_name: name_edward
+    nickname: nick_longshanks
     dynasty: plantagenet_dynasty
-    father: eng_henry_iii_plantagenet_3 #TODO: check if this makes sense
+    father: eng_henry_iii
+    mother: eng_eleanor_of_provence
     adm: 60
     dip: 60
     mil: 75
@@ -594,25 +1185,166 @@ eng_edward_i_plantagenet:
     tag: ENG
   1307.7.7:
     death: yes
-eng_edward_i_plantagenet_1:
-  1242.1.1:
-    birth: london #TODO: Date and location guessed, check if better data is available
-    first_name: edward
+eng_leonor_burgundy:
+  1241:
+    birth: burgos
+    first_name: name_eleanor
+    dynasty: burgundy_castile_dynasty
+    female: yes
+    father: cas_fernando_iii_burgundy
+    mother: aum_jeanne_i_ponthieu
+    adm: 47
+    dip: 55
+    mil: 50
+    religion: catholic
+    culture: castilian
+    tag: CAS
+  1254.11.1:
+    spouse: eng_edward_i
+    tag: ENG
+  1290.11.28:
+    death: yes
+eng_beatrice_plantagenet:
+  1242.6.25:
+    birth: bordeaux
+    first_name: beatrice
     dynasty: plantagenet_dynasty
-    adm: 60
-    dip: 60
-    mil: 75
+    female: yes
+    father: eng_henry_iii
+    mother: eng_eleanor_of_provence
     religion: catholic
     culture: english
     tag: ENG
-  1307.7.7:
+  1275.3.24:
     death: yes
-eng_edward_ii_plantagenet:
+eng_katherine_plantagenet:
+  1253.11.25:
+    birth: london
+    first_name: katherine
+    dynasty: plantagenet_dynasty
+    female: yes
+    father: eng_henry_iii
+    mother: eng_eleanor_of_provence
+    religion: catholic
+    culture: english
+    tag: ENG
+  1257.5.3:
+    death: yes
+eng_henry_plantagenet:
+  1268.5.6:
+    birth: london
+    first_name: name_henry
+    dynasty: plantagenet_dynasty
+    father: eng_edward_i
+    mother: eng_leonor_burgundy
+    religion: catholic
+    culture: english
+    tag: ENG
+  1274.10.14:
+    death: yes
+bar_eleanor_england:
+  1269.6.18:
+    birth: london
+    first_name: name_eleanor
+    dynasty: plantagenet_dynasty
+    female: yes
+    father: eng_edward_i
+    mother: eng_leonor_burgundy
+    adm: 30
+    dip: 72
+    mil: 19
+    religion: catholic
+    culture: english
+    tag: ENG
+  1298.8.29:
+    death: yes
+eng_joan_of_acre:
+  1272.4:
+    birth: acre
+    first_name: name_joanna
+    dynasty: plantagenet_dynasty
+    female: yes
+    father: eng_edward_i
+    mother: eng_leonor_burgundy
+    religion: catholic
+    culture: english
+    tag: ENG
+  1307.4.23:
+    death: yes
+eng_alphonso_plantagenet:
+  1273.11.24:
+    birth: bayonne
+    first_name: name_alphonse
+    dynasty: plantagenet_dynasty
+    father: eng_edward_i
+    mother: eng_leonor_burgundy
+    religion: catholic
+    culture: english
+    tag: ENG
+  1284.8.26:
+    death: yes
+brb_margaret_of_england:
+  1275.3.15:
+    birth: windsor
+    first_name: name_margaret
+    dynasty: plantagenet_dynasty
+    female: yes
+    father: eng_edward_i
+    mother: eng_leonor_burgundy
+    religion: catholic
+    culture: english
+    tag: ENG
+  1334:
+    death: yes
+eng_mary_of_woodstock:
+  1278.3.11:
+    birth: windsor
+    first_name: name_mary
+    dynasty: plantagenet_dynasty
+    female: yes
+    father: eng_edward_i
+    mother: eng_leonor_burgundy
+    religion: catholic
+    culture: english
+    tag: ENG
+  1332.7.8:
+    death: yes
+eng_marguerite_capet:
+  1279:
+    birth: paris
+    first_name: name_margaret
+    dynasty: capet_dynasty
+    female: yes
+    father: fra_philippe_iii_capet
+    mother: fra_maria_van_brabant
+    religion: catholic
+    culture: french
+    tag: FRA
+  1299.9.10:
+    spouse: eng_edward_i
+    tag: ENG
+  1318.2.14:
+    death: yes
+eng_elizabeth_of_rhuddlan:
+  1282.8.7:
+    birth: flint #Rhuddlan
+    first_name: name_elizabeth
+    dynasty: plantagenet_dynasty
+    female: yes
+    father: eng_edward_i
+    mother: eng_leonor_burgundy
+    religion: catholic
+    culture: english
+    tag: ENG
+  1316.5.5:
+    death: yes
+eng_edward_ii:
   1284.4.25:
-    birth: london #TODO: Location guessed, check if better data is available
-    first_name: edward
+    birth: carnarvon
+    first_name: name_edward
     dynasty: plantagenet_dynasty
-    father: eng_edward_i_plantagenet_1 #TODO: check if this makes sense
+    father: eng_edward_i
+    mother: eng_leonor_burgundy
     adm: 30
     dip: 60
     mil: 15
@@ -621,147 +1353,645 @@ eng_edward_ii_plantagenet:
     tag: ENG
   1327.9.21:
     death: yes
-eng_edward_ii_plantagenet_1:
-  1277.1.1:
-    birth: london #TODO: Date and location guessed, check if better data is available
-    first_name: edward
+eng_isabella_of_france:
+  1295.6: #Between Apr 1295 and Jan 1296
+    birth: paris
+    first_name: name_elizabeth
+    nickname: nick_the_she_wolf
+    dynasty: capet_dynasty
+    female: yes
+    father: fra_philippe_iv_capet
+    mother: fra_jeanne_i_blois
+    adm: 43
+    dip: 59
+    mil: 25
+    religion: catholic
+    culture: french
+    tag: FRA
+  1308.1.25:
+    spouse: eng_edward_ii
+    tag: ENG
+  1358.8.22:
+    death: yes
+eng_thomas_of_brotherton:
+  1300.6.1:
+    birth: leeds # brotherton
+    first_name: name_thomas
     dynasty: plantagenet_dynasty
-    adm: 30
-    dip: 60
-    mil: 15
+    father: eng_edward_i
+    mother: eng_marguerite_capet
     religion: catholic
     culture: english
     tag: ENG
-  1327.9.21:
+  1338.9:
     death: yes
-eng_edward_iii_plantagenet:
+eng_edmund_of_woodstock:
+  1301.8.5:
+    birth: oxford # woodstock
+    first_name: name_edmond
+    dynasty: plantagenet_dynasty
+    father: eng_edward_i
+    mother: eng_marguerite_capet
+    religion: catholic
+    culture: english
+    tag: ENG
+  1330.3.19:
+    death: yes
+eng_philippa_de_hainault:
+  1310.5.24:
+    birth: valenciennes
+    first_name: name_philippa
+    dynasty: avesnes_dynasty
+    female: yes
+    father: hai_guillaume_de_hainault
+    mother: hai_jeanne_valois
+    adm: 58
+    dip: 63
+    mil: 8
+    religion: catholic
+    culture: picard
+    tag: HAI
+  1328.1.24:
+    spouse: eng_edward_iii
+    tag: ENG
+  1369.8.15:
+    death: yes
+eng_edward_iii:
   1312.11.13:
-    birth: london #TODO: Location guessed, check if better data is available
-    first_name: edward
+    birth: windsor
+    first_name: name_edward
     dynasty: plantagenet_dynasty
-    father: eng_edward_ii_plantagenet_1 #TODO: check if this makes sense
-    adm: 45
-    dip: 75
-    mil: 60
+    father: eng_edward_ii
+    mother: eng_isabella_of_france
+    adm: 80
+    dip: 66
+    mil: 85
     religion: catholic
     culture: english
     tag: ENG
+    traits:
+      tactical_genius: yes
+      righteous: yes
+    fertility: 80
   1377.6.21:
     death: yes
-eng_edward_iii_plantagenet_1:
-  1297.1.1:
-    birth: london #TODO: Date and location guessed, check if better data is available
-    first_name: edward
+eng_john_of_eltham:
+  1316.8.25:
+    birth: kingston #eltham
+    first_name: name_john
     dynasty: plantagenet_dynasty
-    adm: 45
-    dip: 75
-    mil: 60
+    father: eng_edward_ii
+    mother: eng_isabella_of_france
     religion: catholic
     culture: english
     tag: ENG
-  1377.6.21:
+  1336.9.13:
+    death: yes
+gel_eleanor_of_woodstock:
+  1318.6.18:
+    birth: carnarvon
+    first_name: name_eleanor
+    dynasty: plantagenet_dynasty
+    female: yes
+    father: eng_edward_ii
+    mother: eng_isabella_of_france
+    religion: catholic
+    culture: english
+    tag: ENG
+  1355.4.22:
+    death: yes
+eng_joan_of_the_tower:
+  1321.7.5:
+    birth: london
+    first_name: name_joanna
+    dynasty: plantagenet_dynasty
+    female: yes
+    father: eng_edward_ii
+    mother: eng_isabella_of_france
+    religion: catholic
+    culture: english
+    tag: ENG
+  1328.7.17:
+    spouse: sco_david_ii
+  1362.9.7:
+    death: yes
+eng_margaret_of_norfolk:
+  1322:
+    birth: lowestoft #framlingham
+    first_name: name_margaret
+    dynasty: plantagenet_dynasty
+    female: yes
+    father: eng_thomas_of_brotherton
+    religion: catholic
+    culture: english
+    tag: ENG
+  1399.3.24:
+    death: yes
+eng_edward_of_norfolk:
+  1323:
+    birth: lowestoft #framlingham
+    first_name: name_edward
+    dynasty: plantagenet_dynasty
+    father: eng_thomas_of_brotherton
+    religion: catholic
+    culture: english
+    tag: ENG
+  1334:
+    death: yes
+eng_alice_of_norfolk:
+  1324.2.12:
+    birth: lowestoft #framlingham
+    first_name: name_alice
+    dynasty: plantagenet_dynasty
+    female: yes
+    father: eng_thomas_of_brotherton
+    religion: catholic
+    culture: english
+    tag: ENG
+  1352.1.30:
+    death: yes
+eng_edmund_of_kent:
+  1326:
+    birth: hythe #tunbridge
+    first_name: name_edmond
+    dynasty: plantagenet_dynasty
+    father: eng_edmund_of_woodstock
+    religion: catholic
+    culture: english
+    tag: ENG
+  1331.10.5:
+    death: yes
+eng_margaret_of_kent:
+  1327.1.11:
+    birth: hythe #tunbridge
+    first_name: name_margaret
+    dynasty: plantagenet_dynasty
+    female: yes
+    father: eng_edmund_of_woodstock
+    religion: catholic
+    culture: english
+    tag: ENG
+  1352:
+    death: yes
+eng_joan_of_kent:
+  1328.9.28:
+    birth: hythe #tunbridge
+    first_name: name_joanna
+    dynasty: plantagenet_dynasty
+    female: yes
+    father: eng_edmund_of_woodstock
+    religion: catholic
+    culture: english
+    tag: ENG
+  1361.4:
+    spouse: eng_edward_the_black_prince
+  1385.8.7:
+    death: yes
+eng_john_of_kent:
+  1330.4.7:
+    birth: hythe #tunbridge
+    first_name: name_john
+    dynasty: plantagenet_dynasty
+    father: eng_edmund_of_woodstock
+    religion: catholic
+    culture: english
+    tag: ENG
+  1352.12.26:
+    death: yes
+eng_edward_the_black_prince:
+  1330.6.15:
+    birth: oxford #Woodstock
+    first_name: name_edward
+    nickname: nick_the_black
+    dynasty: plantagenet_dynasty
+    father: eng_edward_iii
+    mother: eng_philippa_de_hainault
+    adm: 46
+    dip: 66
+    mil: 82
+    religion: catholic
+    culture: english
+    tag: ENG
+  1376.6.8:
+    death: yes
+eng_isabella_of_woodstock:
+  1332.6.16:
+    birth: oxford #Woodstock
+    first_name: name_elizabeth #Isabella
+    dynasty: plantagenet_dynasty
+    female: yes
+    father: eng_edward_iii
+    mother: eng_philippa_de_hainault
+    religion: catholic
+    culture: english
+    tag: ENG
+  1382:
+    death: yes
+eng_joan_of_england:
+  1333.12.19:
+    birth: london
+    first_name: name_joanna
+    dynasty: plantagenet_dynasty
+    female: yes
+    father: eng_edward_iii
+    mother: eng_philippa_de_hainault
+    religion: catholic
+    culture: english
+    tag: ENG
+  1348.9.2:
+    death: yes
+eng_lionel_of_antwerp:
+  1338.11.29:
+    birth: antwerp
+    first_name: name_lionel
+    dynasty: plantagenet_dynasty
+    father: eng_edward_iii
+    mother: eng_philippa_de_hainault
+    religion: catholic
+    culture: english
+    tag: ENG
+  1368.10.17:
+    death: yes
+eng_edmund_of_langley:
+  1341.6.5:
+    birth: st_albans #Kings Langley
+    first_name: name_edmond
+    dynasty: plantagenet_dynasty
+    father: eng_edward_iii
+    mother: eng_philippa_de_hainault
+    religion: catholic
+    culture: english
+    tag: ENG
+  1385.8.6:
+    dynasty: york_dynasty
+  1402.8.1:
+    death: yes
+eng_mary_of_waltham:
+  1344.10.10:
+    birth: portsmouth #Bishop's Waltham
+    first_name: name_mary
+    dynasty: plantagenet_dynasty
+    female: yes
+    father: eng_edward_iii
+    mother: eng_philippa_de_hainault
+    religion: catholic
+    culture: english
+    tag: ENG
+  1361.9:
+    death: yes
+eng_margaret_of_england:
+  1346.6.20:
+    birth: london
+    first_name: name_margaret
+    dynasty: plantagenet_dynasty
+    female: yes
+    father: eng_edward_iii
+    mother: eng_philippa_de_hainault
+    religion: catholic
+    culture: english
+    tag: ENG
+  1361.12.25:
+    death: yes
+eng_isabella_of_castille:
+  1355:
+    birth: valladolid #unknown
+    first_name: name_elizabeth
+    dynasty: burgundy_castile_dynasty
+    female: yes
+    religion: catholic
+    culture: castilian
+    tag: CAS
+  1372.7.11:
+    spouse: eng_edmund_of_langley
+    tag: ENG
+  1393.1.13:
+    death: yes
+eng_thomas_of_woodstock:
+  1355.1.7:
+    birth: oxford #Woodstock
+    first_name: name_thomas
+    dynasty: plantagenet_dynasty
+    father: eng_edward_iii
+    mother: eng_philippa_de_hainault
+    religion: catholic
+    culture: english
+    tag: ENG
+  1397.9.9:
+    death: yes
+eng_edward_of_angouleme:
+  1365.1.27:
+    birth: angouleme
+    first_name: name_edward
+    dynasty: plantagenet_dynasty
+    father: eng_edward_the_black_prince
+    mother: eng_joan_of_kent
+    religion: catholic
+    culture: english
+    tag: ENG
+  1370.9.20:
+    death: yes
+eng_anne_of_bohemia:
+  1366.5.11:
+    birth: prague
+    first_name: name_anna
+    dynasty: luxembourg_dynasty
+    female: yes
+    religion: catholic
+    culture: czech
+    tag: BOH
+  1382.1.20:
+    spouse: eng_richard_ii_plantagenet
+    tag: ENG
+  1394.6.7:
     death: yes
 eng_richard_ii_plantagenet:
   1367.1.6:
-    birth: london #TODO: Location guessed, check if better data is available
-    first_name: richard
+    birth: bordeaux
+    first_name: name_richard
     dynasty: plantagenet_dynasty
-    father: eng_edward_iii_plantagenet_1 #TODO: check if this makes sense
+    father: eng_edward_the_black_prince
+    mother: eng_joan_of_kent
     adm: 60
-    dip: 15
-    mil: 45
+    dip: 45
+    mil: 55
     religion: catholic
     culture: english
     tag: ENG
   1400.2.14:
     death: yes
-eng_richard_ii_plantagenet_1:
-  1347.1.1:
-    birth: london #TODO: Date and location guessed, check if better data is available
-    first_name: richard
+eng_edward_of_norwich:
+  1373:
+    birth: st_albans #Kings Langley
+    first_name: name_edmond
     dynasty: plantagenet_dynasty
-    adm: 60
-    dip: 15
-    mil: 45
+    father: eng_edmund_of_langley
+    mother: eng_isabella_of_castille
     religion: catholic
     culture: english
     tag: ENG
-  1399.9.12:
+  1385.8.6:
+    dynasty: york_dynasty
+  1415.10.25:
+    death: yes
+eng_richard_of_conisburgh:
+  1385.7.20:
+    birth: doncaster #Conisbrough
+    first_name: name_richard
+    dynasty: plantagenet_dynasty
+    father: eng_edmund_of_langley
+    mother: eng_isabella_of_castille
+    religion: catholic
+    culture: english
+    tag: ENG
+  1385.8.6:
+    dynasty: york_dynasty
+  1415.8.5:
+    death: yes
+eng_isabella_of_valois:
+  1389.11.9:
+    birth: paris
+    first_name: name_elizabeth
+    dynasty: valois_dynasty
+    female: yes
+    religion: catholic
+    culture: french
+    tag: FRA
+  1396.10.31:
+    spouse: eng_richard_ii_plantagenet
+    tag: ENG
+  1409.9.13:
     death: yes
 eng_henry_iv_lancaster:
   1366.4.15:
-    birth: london #TODO: Location guessed, check if better data is available
-    first_name: henry
+    birth: boston #Bolingbroke
+    first_name: name_henry
     dynasty: lancaster_dynasty
-    adm: 15
-    dip: 15
-    mil: 0
+    father: eng_john_of_gaunt
+    mother: eng_blanche_of_lancaster
+    adm: 35
+    dip: 45
+    mil: 20
     religion: catholic
     culture: english
+    tag: LAN
+  1399.9.29:
     tag: ENG
   1413.3.21:
     death: yes
+eng_joan_of_navarre:
+  1368:
+    birth: pamplona
+    first_name: name_joanna
+    female: yes
+    religion: catholic
+    culture: basque
+    tag: NAV
+  1403.2.7:
+    spouse: eng_henry_iv_lancaster
+    tag: ENG
+  1437.6.10:
+    death: yes
+eng_mary_de_bohun:
+  1370:
+    birth: hereford
+    first_name: name_mary
+    female: yes
+    religion: catholic
+    culture: english
+    tag: ENG
+  1381.2.5:
+    spouse: eng_henry_iv_lancaster
+    tag: LAN
+  1399.9.29:
+    tag: ENG
+  1394.6.4:
+    death: yes
 eng_henry_v_lancaster:
   1386.9.16:
-    birth: london #TODO: Location guessed, check if better data is available
-    first_name: henry
+    birth: monmouth
+    first_name: name_henry
     dynasty: lancaster_dynasty
+    father: eng_henry_iv_lancaster
+    mother: eng_mary_de_bohun
     adm: 30
     dip: 30
     mil: 75
     religion: catholic
     culture: english
+    tag: LAN
+  1399.9.29:
+    tag: ENG
+  1399.11.10:
+    tag: LAN
+  1413.3.20:
     tag: ENG
   1422.8.31:
     death: yes
+eng_thomas_of_lancaster:
+  1386.9.16:
+    birth: london
+    first_name: name_thomas
+    dynasty: lancaster_dynasty
+    father: eng_henry_iv_lancaster
+    mother: eng_mary_de_bohun
+    religion: catholic
+    culture: english
+    tag: LAN
+  1399.9.29:
+    tag: ENG
+  1421.3.22:
+    death: yes
+eng_anne_mortimer:
+  1388.12.27:
+    birth: york #unknown
+    first_name: name_anna
+    dynasty: mortimer_dynasty
+    female: yes
+    religion: catholic
+    culture: english
+    tag: ENG
+  1381.2.5:
+    spouse: eng_richard_of_conisburgh
+  1411.9.22:
+    death: yes
+eng_john_of_lancaster:
+  1389.6.20:
+    birth: london #unknown
+    first_name: name_john
+    dynasty: lancaster_dynasty
+    father: eng_henry_iv_lancaster
+    mother: eng_mary_de_bohun
+    religion: catholic
+    culture: english
+    tag: LAN
+  1399.9.29:
+    tag: ENG
+  1435.9.30:
+    death: yes
+eng_humphrey_of_lancaster:
+  1390.10.3:
+    birth: london #unknown
+    first_name: name_humphrey
+    dynasty: lancaster_dynasty
+    father: eng_henry_iv_lancaster
+    mother: eng_mary_de_bohun
+    religion: catholic
+    culture: english
+    tag: LAN
+  1399.9.29:
+    tag: ENG
+  1447.2.23:
+    death: yes
+eng_blanche_of_england:
+  1392.3:
+    birth: kettering #Peterborough
+    first_name: name_blanche
+    dynasty: lancaster_dynasty
+    female: yes
+    father: eng_henry_iv_lancaster
+    mother: eng_mary_de_bohun
+    religion: catholic
+    culture: english
+    tag: LAN
+  1399.9.29:
+    tag: ENG
+  1409.5.22:
+    death: yes
+eng_catherine_of_valois:
+  1401.10.27:
+    birth: paris
+    first_name: name_catherine
+    dynasty: valois_dynasty
+    female: yes
+    religion: catholic
+    culture: french
+    tag: FRA
+  1420.5.21:
+    spouse: eng_henry_v_lancaster
+    tag: ENG
+  1437.1.3:
+    death: yes
+eng_richard_of_york:
+  1411.9.21:
+    birth: york #unknown
+    first_name: name_richard
+    dynasty: york_dynasty
+    father: eng_richard_of_conisburgh
+    mother: eng_anne_mortimer
+    religion: catholic
+    culture: english
+    tag: ENG
+  1460.12.30:
+    death: yes
+eng_cecily_neville:
+  1415.5.3:
+    birth: york #unknown
+    first_name: name_cecile
+    dynasty: neville_dynasty
+    female: yes
+    mother: lan_joan_beaufort
+    religion: catholic
+    culture: english
+    tag: ENG
+  1381.2.5:
+    spouse: eng_richard_of_york
+  1495.5.31:
+    death: yes
 eng_henry_vi_lancaster:
   1421.12.6:
-    birth: london #TODO: Location guessed, check if better data is available
-    first_name: henry
+    birth: windsor
+    first_name: name_henry
     dynasty: lancaster_dynasty
+    father: eng_henry_v_lancaster
+    mother: eng_catherine_of_valois
     adm: 0
     dip: 0
     mil: 0
     religion: catholic
     culture: english
     tag: ENG
-  1471.4.11:
+  1471.5.21:
     death: yes
 eng_margaret_de_anjou:
   1430.3.23:
-    birth: london #TODO: Location guessed, check if better data is available
-    first_name: margaret
+    birth: saint_mihiel #Pont-à-Mousson
+    first_name: name_margaret
     dynasty: de_anjou_dynasty
     female: yes
     adm: 60
     dip: 60
     mil: 60
     religion: catholic
-    culture: english
-    tag: ENG
-  1471.4.11:
-    death: yes
+    culture: french
+    tag: NAP
   1445.4.23:
-    spouse: eng_henry_vi_lancaster #TODO: date guessed, see if better data is available
-eng_edward_iv_lancaster:
-  1453.10.13:
-    birth: london #TODO: Location guessed, check if better data is available
-    first_name: edward
-    dynasty: lancaster_dynasty
-    father: eng_henry_vi_lancaster #TODO: check if this makes sense
-    adm: 15
-    dip: 30
-    mil: 60
+    spouse: eng_henry_vi_lancaster
+    tag: ENG
+  1482.8.25:
+    death: yes
+eng_elizabeth_woodville:
+  1437.10:
+    birth: buckingham #Grafton Regis
+    first_name: name_elizabeth
+    last_name: woodville
+    female: yes
+    adm: 30
+    dip: 75
+    mil: 30
     religion: catholic
     culture: english
     tag: ENG
-  1471.5.4:
+  1464.5.1:
+    spouse: eng_edward_iv_york
+  1492.6.8:
     death: yes
 eng_edward_iv_york:
   1442.4.28:
-    birth: london #TODO: Location guessed, check if better data is available
-    first_name: edward
+    birth: rouen
+    first_name: name_edward
     dynasty: york_dynasty
+    father: eng_richard_of_york
+    mother: eng_cecily_neville
     adm: 60
     dip: 45
     mil: 60
@@ -770,12 +2000,13 @@ eng_edward_iv_york:
     tag: ENG
   1483.4.9:
     death: yes
-eng_george_i_york:
+eng_george_of_york:
   1449.10.21:
-    birth: london #TODO: Location guessed, check if better data is available
-    first_name: george
+    birth: dublin
+    first_name: name_george
     dynasty: york_dynasty
-    father: eng_edward_iv_york #TODO: check if this makes sense
+    father: eng_richard_of_york
+    mother: eng_cecily_neville
     adm: 30
     dip: 30
     mil: 45
@@ -784,94 +2015,50 @@ eng_george_i_york:
     tag: ENG
   1478.2.18:
     death: yes
-eng_elisabeth_woodville:
-  1437.1.1:
-    birth: london #TODO: Date and location guessed, check if better data is available
-    first_name: elisabeth
-    dynasty: woodville_dynasty
-    female: yes
-    adm: 30
-    dip: 75
-    mil: 30
-    religion: catholic
-    culture: english
-    tag: ENG
-  1492.6.8:
-    death: yes
-  1465.5.1:
-    spouse: eng_edward_iv_york #TODO: date guessed, see if better data is available
-eng_edward_v_lancaster:
-  1453.10.13:
-    birth: london #TODO: Location guessed, check if better data is available
-    first_name: edward
-    dynasty: lancaster_dynasty
-    father: eng_henry_vi_lancaster #TODO: check if this makes sense
-    adm: 30
-    dip: 30
-    mil: 45
-    religion: catholic
-    culture: english
-    tag: ENG
-  1471.5.4:
-    death: yes
-eng_edward_v_york:
-  1470.11.2:
-    birth: london #TODO: Location guessed, check if better data is available
-    first_name: edward
-    dynasty: york_dynasty
-    father: eng_edward_iv_york #TODO: check if this makes sense
-    adm: 45
-    dip: 30
-    mil: 30
-    religion: catholic
-    culture: english
-    tag: ENG
-  1483.6.26:
-    death: yes
-eng_edward_v_york_1:
-  1470.11.1:
-    birth: london #TODO: Location guessed, check if better data is available
-    first_name: edward
-    dynasty: york_dynasty
-    adm: 0
-    dip: 0
-    mil: 30
-    religion: catholic
-    culture: english
-    tag: ENG
-  1483.6.26:
-    death: yes
 eng_richard_iii_york:
-  1473.8.17:
-    birth: london #TODO: Location guessed, check if better data is available
-    first_name: richard
+  1452.10.2:
+    birth: kettering #Fotheringhay
+    first_name: name_richard
     dynasty: york_dynasty
-    father: eng_edward_v_york_1 #TODO: check if this makes sense
-    adm: 30
-    dip: 15
-    mil: 30
+    father: eng_richard_of_york
+    mother: eng_cecily_neville
     religion: catholic
     culture: english
     tag: ENG
-  1483.6.26:
+  1485.8.22:
     death: yes
-eng_richard_iii_york_1:
-  1453.1.1:
-    birth: london #TODO: Date and location guessed, check if better data is available
-    first_name: richard
-    dynasty: york_dynasty
-    adm: 45
+eng_edward_of_westminster:
+  1453.10.13:
+    birth: london
+    first_name: name_edward
+    dynasty: lancaster_dynasty
+    father: eng_henry_vi_lancaster
+    mother: eng_margaret_de_anjou
+    adm: 15
     dip: 30
     mil: 60
     religion: catholic
     culture: english
     tag: ENG
-  1485.8.23:
+  1471.5.4:
+    death: yes
+eng_henry_vii_tudor:
+  1457.1.28:
+    birth: pembroke
+    first_name: name_henry
+    dynasty: tudor_dynasty
+    adm: 45
+    dip: 60
+    mil: 60
+    religion: catholic
+    culture: english
+    tag: ENG
+  1509.4.21:
     death: yes
 eng_anne_neville:
   1465.6.11:
-    birth: london #TODO: Location guessed, check if better data is available
-    first_name: anne
+    birth: stratford #Warwick
+    first_name: name_anna
     dynasty: neville_dynasty
     female: yes
     adm: 30
@@ -880,59 +2067,193 @@ eng_anne_neville:
     religion: catholic
     culture: english
     tag: ENG
+  1470.12.13:
+    spouse: eng_richard_iii_york
   1485.3.16:
     death: yes
-  1483.6.26:
-    spouse: eng_richard_iii_york_1 #TODO: date guessed, see if better data is available
-eng_edward_vi_york:
-  1473.12.8:
-    birth: london #TODO: Location guessed, check if better data is available
-    first_name: edward
-    dynasty: york_dynasty
-    father: eng_richard_iii_york_1 #TODO: check if this makes sense
-    adm: 30
-    dip: 15
-    mil: 30
-    religion: catholic
-    culture: english
-    tag: ENG
-  1484.3.31:
-    death: yes
-eng_henry_vii_tudor:
-  1457.1.28:
-    birth: london #TODO: Location guessed, check if better data is available
-    first_name: henry
-    dynasty: tudor_dynasty
-    adm: 45
-    dip: 60
-    mil: 30
-    religion: catholic
-    culture: english
-    tag: ENG
-  1509.4.22:
-    death: yes
-eng_elisabeth_york:
+eng_elizabeth_of_york:
   1466.2.11:
-    birth: london #TODO: Location guessed, check if better data is available
-    first_name: elisabeth
+    birth: london
+    first_name: name_elizabeth
     dynasty: york_dynasty
     female: yes
+    father: eng_edward_iv_york
+    mother: eng_elizabeth_woodville
     adm: 30
     dip: 45
     mil: 30
     religion: catholic
     culture: english
     tag: ENG
+  1486.1.18:
+    spouse: eng_henry_vii_tudor
   1503.2.11:
     death: yes
-  1486.1.18:
-    spouse: eng_henry_vii_tudor #TODO: date guessed, see if better data is available
+eng_mary_of_york:
+  1467.8.11:
+    birth: windsor
+    first_name: name_mary
+    dynasty: york_dynasty
+    female: yes
+    father: eng_edward_iv_york
+    mother: eng_elizabeth_woodville
+    religion: catholic
+    culture: english
+    tag: ENG
+  1482.5.23:
+    death: yes
+eng_cecily_of_york:
+  1467.8.11:
+    birth: london
+    first_name: name_cecile
+    dynasty: york_dynasty
+    female: yes
+    father: eng_edward_iv_york
+    mother: eng_elizabeth_woodville
+    religion: catholic
+    culture: english
+    tag: ENG
+  1507.8.24:
+    death: yes
+eng_edward_v_york:
+  1470.11.2:
+    birth: london
+    first_name: name_edward
+    dynasty: york_dynasty
+    father: eng_edward_iv_york
+    mother: eng_elizabeth_woodville
+    adm: 45
+    dip: 30
+    mil: 30
+    religion: catholic
+    culture: english
+    tag: ENG
+  1483.7:
+    death: yes
+eng_margaret_of_york:
+  1472.4.10:
+    birth: london
+    first_name: name_margaret
+    dynasty: york_dynasty
+    female: yes
+    father: eng_edward_iv_york
+    mother: eng_elizabeth_woodville
+    religion: catholic
+    culture: english
+    tag: ENG
+  1472.12.11:
+    death: yes
+eng_richard_of_shrewsbury:
+  1473.8.17:
+    birth: shrewsbury
+    first_name: name_richard
+    dynasty: york_dynasty
+    father: eng_edward_iv_york
+    mother: eng_elizabeth_woodville
+    religion: catholic
+    culture: english
+    tag: ENG
+  1483.7:
+    death: yes
+eng_edward_of_middleham:
+  1473.12:
+    birth: richmond #Middleham
+    first_name: name_edward
+    dynasty: york_dynasty
+    father: eng_richard_iii_york
+    mother: eng_anne_neville
+    religion: catholic
+    culture: english
+    tag: ENG
+  1484.4.9:
+    death: yes
+eng_anne_of_york:
+  1475.11.2:
+    birth: london
+    first_name: name_anna
+    dynasty: york_dynasty
+    female: yes
+    father: eng_edward_iv_york
+    mother: eng_elizabeth_woodville
+    religion: catholic
+    culture: english
+    tag: ENG
+  1511.11.23:
+    death: yes
+eng_george_of_york_of_bedford:
+  1477.3:
+    birth: london
+    first_name: name_george
+    dynasty: york_dynasty
+    father: eng_edward_iv_york
+    mother: eng_elizabeth_woodville
+    religion: catholic
+    culture: english
+    tag: ENG
+  1479.3:
+    death: yes
+eng_catherine_of_york:
+  1479.8.14:
+    birth: london #Eltham
+    first_name: name_catherine
+    dynasty: york_dynasty
+    female: yes
+    father: eng_edward_iv_york
+    mother: eng_elizabeth_woodville
+    religion: catholic
+    culture: english
+    tag: ENG
+  1527.11.15:
+    death: yes
+eng_bridget_of_york:
+  1480.11.10:
+    birth: london #Eltham
+    first_name: name_bridget
+    dynasty: york_dynasty
+    female: yes
+    father: eng_edward_iv_york
+    mother: eng_elizabeth_woodville
+    religion: catholic
+    culture: english
+    tag: ENG
+  1507.11:
+    death: yes
+eng_charles_brandon:
+  1484:
+    birth: london #unknown
+    first_name: name_charles
+    dynasty: brandon_dynasty
+    religion: catholic
+    culture: english
+    tag: ENG
+  1545.8.22:
+    death: yes
+eng_catherine_de_trastamara:
+  1485.12.16:
+    birth: madrid
+    first_name: name_catherine
+    dynasty: de_trastamara_dynasty
+    female: yes
+    adm: 75
+    dip: 60
+    mil: 60
+    religion: catholic
+    culture: aragonese
+    tag: ARA
+  1509.6.11:
+    spouse: eng_henry_viii_tudor
+    tag: ENG
+  1533.5.23:
+    spouse: ---
+  1536.1.7:
+    death: yes
 eng_arthur_i_tudor:
   1486.9.20:
-    birth: london #TODO: Location guessed, check if better data is available
-    first_name: arthur
+    birth: winchester
+    first_name: name_arthur
     dynasty: tudor_dynasty
-    father: eng_henry_vii_tudor #TODO: check if this makes sense
+    father: eng_henry_vii_tudor
+    mother: eng_elizabeth_of_york
     adm: 30
     dip: 60
     mil: 45
@@ -943,51 +2264,66 @@ eng_arthur_i_tudor:
     death: yes
 eng_henry_viii_tudor:
   1491.6.28:
-    birth: london #TODO: Location guessed, check if better data is available
-    first_name: henry
+    birth: london
+    first_name: name_henry
     dynasty: tudor_dynasty
+    father: eng_henry_vii_tudor
+    mother: eng_elizabeth_of_york
     adm: 60
     dip: 60
     mil: 60
-    religion: anglican
+    religion: catholic
     culture: english
     tag: ENG
+  1534.11.3:
+    religion: anglican
   1547.1.28:
     death: yes
-eng_catherine_de_trastamara:
-  1485.12.16:
-    birth: london #TODO: Location guessed, check if better data is available
-    first_name: catherine
-    dynasty: de_trastamara_dynasty
-    female: yes
-    adm: 75
-    dip: 60
-    mil: 60
-    religion: catholic
-    culture: english
-    tag: ENG
-  1536.1.7:
-    death: yes
-  1509.6.24:
-    spouse: eng_henry_viii_tudor #TODO: date guessed, see if better data is available
-eng_mary_i_tudor:
-  1516.2.18:
-    birth: london #TODO: Location guessed, check if better data is available
-    first_name: mary
+eng_elizabeth_tudor:
+  1492.7.2:
+    birth: richmond
+    first_name: name_elizabeth
     dynasty: tudor_dynasty
     female: yes
-    adm: 15
-    dip: 15
-    mil: 0
+    father: eng_henry_vii_tudor
+    mother: eng_elizabeth_of_york
     religion: catholic
     culture: english
     tag: ENG
-  1558.11.17:
+  1495.9.14:
+    death: yes
+eng_mary_tudor:
+  1496.3.18:
+    birth: london
+    first_name: name_mary
+    dynasty: tudor_dynasty
+    female: yes
+    father: eng_henry_vii_tudor
+    mother: eng_elizabeth_of_york
+    religion: catholic
+    culture: english
+    tag: ENG
+  1515.5.13:
+    spouse: eng_charles_brandon
+  1533.6.25:
+    death: yes
+eng_edmund_tudor:
+  1499.2.21:
+    birth: london
+    first_name: name_edmond
+    dynasty: tudor_dynasty
+    female: yes
+    father: eng_henry_vii_tudor
+    mother: eng_elizabeth_of_york
+    religion: catholic
+    culture: english
+    tag: ENG
+  1500.6.19:
     death: yes
 eng_anne_boleyn:
-  1501.1.1:
-    birth: london #TODO: Date and location guessed, check if better data is available
-    first_name: anne
+  1501:
+    birth: norfolk
+    first_name: name_anna
     dynasty: boleyn_dynasty
     female: yes
     adm: 60
@@ -996,137 +2332,144 @@ eng_anne_boleyn:
     religion: catholic
     culture: english
     tag: ENG
-  1536.5.17:
-    death: yes
   1533.5.28:
-    spouse: eng_henry_viii_tudor #TODO: date guessed, see if better data is available
+    spouse: eng_henry_viii_tudor
+  1534.11.3:
+    religion: anglican
+  1536.5.17:
+    spouse: ---
+  1536.5.19:
+    death: yes
 eng_jane_seymour:
-  1508.1.1:
-    birth: london #TODO: Date and location guessed, check if better data is available
-    first_name: jane
+  1508:
+    birth: amesbury #Wulfhall
+    first_name: name_jane
     dynasty: seymour_dynasty
     female: yes
     adm: 15
     dip: 30
     mil: 15
-    religion: anglican
+    religion: catholic
     culture: english
     tag: ENG
-  1537.11.12:
+  1536.5.30:
+    spouse: eng_henry_viii_tudor
+  1537.10.24:
     death: yes
-  1536.1.1:
-    spouse: eng_henry_viii_tudor #TODO: date guessed, see if better data is available
-eng_edward_vi_tudor:
-  1537.10.12:
-    birth: london #TODO: Location guessed, check if better data is available
-    first_name: edward
+eng_henry_tudor_of_cornwall:
+  1511.1.1:
+    birth: london
+    first_name: name_henry
     dynasty: tudor_dynasty
-    adm: 45
-    dip: 45
-    mil: 15
+    father: eng_henry_viii_tudor
+    mother: eng_catherine_de_trastamara
     religion: anglican
     culture: english
     tag: ENG
-  1553.7.6:
+  1511.2.22:
     death: yes
-eng_anne_von_der_mark:
-  1515.9.22:
-    birth: london #TODO: Location guessed, check if better data is available
-    first_name: anne
+eng_catherine_parr:
+  1512.7:
+    birth: london
+    first_name: name_catherine
+    last_name: parr
+    female: yes
+    adm: 60
+    dip: 60
+    mil: 30
+    religion: lutheran
+    culture: english
+    tag: ENG
+  1543.7.12:
+    spouse: eng_henry_viii_tudor
+  1548.9.5:
+    death: yes
+eng_anne_of_cleves:
+  1515.6.28:
+    birth: dusseldorf #Cleves
+    first_name: name_anna
     dynasty: von_der_mark_dynasty
     female: yes
     adm: 30
     dip: 45
     mil: 30
-    religion: anglican
-    culture: english
+    religion: catholic
+    culture: westphalian
+    tag: KLE
+  1540.1.6:
+    spouse: eng_henry_viii_tudor
     tag: ENG
+  1540.7.12:
+    spouse: ---
   1557.7.16:
     death: yes
-  1540.1.6:
-    spouse: eng_henry_viii_tudor #TODO: date guessed, see if better data is available
+eng_mary_i_tudor:
+  1516.2.18:
+    birth: london
+    first_name: name_mary
+    dynasty: tudor_dynasty
+    female: yes
+    father: eng_henry_viii_tudor
+    mother: eng_catherine_de_trastamara
+    adm: 15
+    dip: 15
+    mil: 0
+    religion: catholic
+    culture: english
+    tag: ENG
+  1554.7.25:
+    spouse: spa_felipe_ii_von_habsburg
+  1558.11.17:
+    death: yes
+eng_frances_brandon:
+  1517.7.16:
+    birth: st_albans #Hatfield
+    first_name: name_frances
+    dynasty: brandon_dynasty
+    female: yes
+    father: eng_charles_brandon
+    mother: eng_mary_tudor
+    religion: lutheran
+    culture: english
+    tag: ENG
+  1533:
+    spouse: eng_henry_grey
+  1559.11.20:
+    death: yes
+eng_henry_grey:
+  1523:
+    birth: london
+    first_name: name_henry
+    dynasty: grey_dynasty
+    religion: lutheran
+    culture: english
+    tag: ENG
+  1554.2.23:
+    death: yes
 eng_catherine_howard:
-  1523.1.1:
-    birth: london #TODO: Date and location guessed, check if better data is available
-    first_name: catherine
+  1523:
+    birth: london
+    first_name: name_catherine
     dynasty: howard_dynasty
     female: yes
     adm: 15
     dip: 15
     mil: 15
-    religion: anglican
+    religion: catholic
     culture: english
     tag: ENG
-  1541.11.23:
-    death: yes
   1540.7.28:
-    spouse: eng_henry_viii_tudor #TODO: date guessed, see if better data is available
-eng_catherine_parr:
-  1512.1.1:
-    birth: london #TODO: Date and location guessed, check if better data is available
-    first_name: catherine
-    dynasty: parr_dynasty
-    female: yes
-    adm: 60
-    dip: 60
-    mil: 30
-    religion: anglican
-    culture: english
-    tag: ENG
-  1548.9.5:
-    death: yes
-  1543.7.12:
-    spouse: eng_henry_viii_tudor #TODO: date guessed, see if better data is available
-eng_jane_i_grey:
-  1536.1.1:
-    birth: london #TODO: Date and location guessed, check if better data is available
-    first_name: jane
-    dynasty: grey_dynasty
-    female: yes
-    adm: 45
-    dip: 30
-    mil: 30
-    religion: anglican
-    culture: english
-    tag: ENG
-  1553.7.19:
-    death: yes
-eng_guildford_dudley:
-  1535.1.1:
-    birth: london #TODO: Date and location guessed, check if better data is available
-    first_name: guildford
-    dynasty: dudley_dynasty
-    adm: 15
-    dip: 15
-    mil: 15
-    religion: anglican
-    culture: english
-    tag: ENG
-  1554.2.12:
-    death: yes
-  1553.7.6:
-    spouse: eng_jane_i_grey #TODO: date guessed, see if better data is available
-eng_catherine_i_grey:
-  1540.8.25:
-    birth: london #TODO: Location guessed, check if better data is available
-    first_name: catherine
-    dynasty: grey_dynasty
-    female: yes
-    father: eng_jane_i_grey #TODO: check if this makes sense
-    adm: 30
-    dip: 30
-    mil: 15
-    religion: anglican
-    culture: english
-    tag: ENG
-  1568.1.26:
+    spouse: eng_henry_viii_tudor
+  1542.2.13:
     death: yes
 eng_elizabeth_i_tudor:
   1533.9.7:
-    birth: london #TODO: Location guessed, check if better data is available
-    first_name: elizabeth
+    birth: london
+    first_name: name_elizabeth
     dynasty: tudor_dynasty
     female: yes
+    father: eng_henry_viii_tudor
+    mother: eng_anne_boleyn
     adm: 90
     dip: 90
     mil: 75
@@ -1135,96 +2478,156 @@ eng_elizabeth_i_tudor:
     tag: ENG
   1603.3.24:
     death: yes
-eng_james_i_stuart:
-  1566.6.19:
-    birth: london #TODO: Location guessed, check if better data is available
-    first_name: james
-    dynasty: stuart_dynasty
-    adm: 30
+eng_guildford_dudley:
+  1535:
+    birth: london #unknown
+    first_name: guildford
+    dynasty: dudley_dynasty
+    adm: 15
+    dip: 15
+    mil: 15
+    religion: lutheran
+    culture: english
+    tag: ENG
+  1553.5.25:
+    spouse: eng_jane_grey
+  1554.2.12:
+    death: yes
+eng_jane_grey:
+  1536:
+    birth: london
+    first_name: name_jane
+    dynasty: grey_dynasty
+    female: yes
+    father: eng_henry_grey
+    mother: eng_frances_brandon
+    adm: 45
+    dip: 30
+    mil: 30
+    religion: lutheran
+    culture: english
+    tag: ENG
+  1554.2.12:
+    death: yes
+eng_edward_vi_tudor:
+  1537.10.12:
+    birth: london
+    first_name: name_edward
+    dynasty: tudor_dynasty
+    father: eng_henry_viii_tudor
+    mother: eng_jane_seymour
+    adm: 45
     dip: 45
     mil: 15
     religion: anglican
     culture: english
+    tag: ENG
+  1553.7.6:
+    death: yes
+eng_catherine_i_grey:
+  1540.8.25:
+    birth: london
+    first_name: name_catherine
+    dynasty: grey_dynasty
+    female: yes
+    father: eng_henry_grey
+    mother: eng_frances_brandon
+    adm: 30
+    dip: 30
+    mil: 15
+    religion: lutheran
+    culture: english
+    tag: ENG
+  1568.1.25:
+    death: yes
+eng_james_i_stuart:
+  1566.6.19:
+    birth: edinburgh
+    first_name: name_james
+    dynasty: stuart_dynasty
+    father: sco_henry_stuart_of_darnley
+    mother: sco_mary_i_stuart
+    adm: 30
+    dip: 45
+    mil: 15
+    religion: lutheran
+    culture: scottish
+    tag: SCO
+  1603.3.24:
     tag: ENG
   1625.3.27:
     death: yes
-eng_anne_von_oldenburg:
+eng_anne_of_denmark:
   1574.12.12:
-    birth: london #TODO: Location guessed, check if better data is available
-    first_name: anne
-    dynasty: von_oldenburg_dynasty
+    birth: aarhus #Skanderborg
+    first_name: name_anna
+    dynasty: oldenburg_dynasty
     female: yes
+    father: dan_frederik_ii_von_oldenburg
+    mother: dan_sophie_von_mecklenburg
     adm: 45
     dip: 60
     mil: 15
-    religion: anglican
-    culture: english
+    religion: lutheran
+    culture: danish
+    tag: DAN
+  1589.11.23:
+    spouse: eng_james_i_stuart
+    tag: SCO
+  1603.3.24:
     tag: ENG
   1619.3.2:
     death: yes
-  1603.3.24:
-    spouse: eng_james_i_stuart #TODO: date guessed, see if better data is available
-eng_henry_ix_stuart:
+eng_henry_frederick_stuart:
   1594.2.19:
-    birth: london #TODO: Location guessed, check if better data is available
-    first_name: henry
+    birth: stirling
+    first_name: name_henry.name_frederick
     dynasty: stuart_dynasty
-    father: eng_james_i_stuart #TODO: check if this makes sense
+    father: eng_james_i_stuart
+    mother: eng_anne_of_denmark
     adm: 45
     dip: 60
     mil: 30
-    religion: anglican
-    culture: english
+    religion: lutheran
+    culture: scottish
+    tag: SCO
+  1603.3.24:
     tag: ENG
   1612.11.6:
     death: yes
-eng_charles_i_stuart:
-  1600.11.19:
-    birth: london #TODO: Location guessed, check if better data is available
-    first_name: charles
+eng_elizabeth_stuart:
+  1596.8.19:
+    birth: dunfermline
+    first_name: name_elizabeth
     dynasty: stuart_dynasty
-    adm: 30
-    dip: 45
-    mil: 30
-    religion: anglican
-    culture: english
-    tag: ENG
-  1646.5.5:
-    death: yes
-eng_henrietta_maria_de_bourbon:
-  1609.11.25:
-    birth: london #TODO: Location guessed, check if better data is available
-    first_name: henrietta_maria
-    dynasty: de_bourbon_dynasty
     female: yes
-    adm: 45
-    dip: 60
-    mil: 30
-    religion: anglican
-    culture: english
+    father: eng_james_i_stuart
+    mother: eng_anne_of_denmark
+    religion: lutheran
+    culture: scottish
+    tag: SCO
+  1603.3.24:
     tag: ENG
-  1669.9.10:
+  1662.2.13:
     death: yes
-  1625.6.13:
-    spouse: eng_charles_i_stuart #TODO: date guessed, see if better data is available
-eng_charles_ii_stuart:
-  1630.5.29:
-    birth: london #TODO: Location guessed, check if better data is available
-    first_name: charles
+eng_margaret_stuart:
+  1598.12.24:
+    birth: edinburgh #Dalkeith
+    first_name: name_margaret
     dynasty: stuart_dynasty
-    adm: 45
-    dip: 30
-    mil: 0
-    religion: anglican
-    culture: english
-    tag: ENG
-  1685.2.6:
+    female: yes
+    father: eng_james_i_stuart
+    mother: eng_anne_of_denmark
+    religion: lutheran
+    culture: scottish
+    tag: SCO
+  1600.3:
     death: yes
 eng_oliver_cromwell:
   1599.4.25:
-    birth: london #TODO: Location guessed, check if better data is available
-    first_name: oliver
-    dynasty: cromwell_dynasty
+    birth: huntingdon
+    first_name: name_oliver
+    last_name: cromwell
     adm: 75
     dip: 75
     mil: 90
@@ -1233,189 +2636,443 @@ eng_oliver_cromwell:
     tag: ENG
   1658.9.3:
     death: yes
+eng_charles_i_stuart:
+  1600.11.19:
+    birth: dunfermline
+    first_name: name_charles
+    dynasty: stuart_dynasty
+    father: eng_james_i_stuart
+    mother: eng_anne_of_denmark
+    adm: 30
+    dip: 45
+    mil: 30
+    religion: lutheran
+    culture: scottish
+    tag: SCO
+  1603.3.24:
+    tag: ENG
+  1625.3.27:
+    religion: anglican
+    culture: english
+  1649.1.30:
+    death: yes
+eng_robert_bruce_stuart:
+  1602.1.18:
+    birth: dunfermline
+    first_name: name_robert
+    dynasty: stuart_dynasty
+    father: eng_james_i_stuart
+    mother: eng_anne_of_denmark
+    religion: lutheran
+    culture: scottish
+    tag: SCO
+  1602.5.27:
+    death: yes
+eng_mary_stuart_b1605:
+  1605.4.8:
+    birth: london
+    first_name: name_mary
+    dynasty: stuart_dynasty
+    female: yes
+    father: eng_james_i_stuart
+    mother: eng_anne_of_denmark
+    religion: lutheran
+    culture: scottish
+    tag: ENG
+  1607.9.16:
+    death: yes
+eng_henrietta_maria_de_bourbon:
+  1609.11.25:
+    birth: paris
+    first_name: name_henrietta.name_mary
+    dynasty: de_bourbon_dynasty
+    female: yes
+    adm: 45
+    dip: 60
+    mil: 30
+    religion: catholic
+    culture: french
+    tag: FRA
+  1625.6.13:
+    spouse: eng_charles_i_stuart
+    tag: ENG
+  1669.9.10:
+    death: yes
 eng_richard_cromwell:
   1626.10.4:
-    birth: london #TODO: Location guessed, check if better data is available
-    first_name: richard
-    dynasty: cromwell_dynasty
+    birth: huntingdon
+    first_name: name_richard
+    last_name: cromwell
+    father: eng_oliver_cromwell
     adm: 0
     dip: 0
     mil: 0
     religion: calvinist
     culture: english
     tag: ENG
-  3000.1.1:
+  1707.5.1:
+    tag: GBR
+  1712.7.12:
+    death: yes
+eng_charles_ii_stuart:
+  1630.5.29:
+    birth: london
+    first_name: name_charles
+    dynasty: stuart_dynasty
+    father: eng_charles_i_stuart
+    mother: eng_henrietta_maria_de_bourbon
+    adm: 45
+    dip: 30
+    mil: 0
+    religion: anglican
+    culture: english
+    tag: ENG
+  1685.2.6:
+    death: yes
+eng_mary_stuart_b1631:
+  1631.11.4:
+    birth: london
+    first_name: name_mary
+    dynasty: stuart_dynasty
+    female: yes
+    father: eng_charles_i_stuart
+    mother: eng_henrietta_maria_de_bourbon
+    religion: anglican
+    culture: english
+    tag: ENG
+  1660.12.24:
     death: yes
 eng_james_ii_stuart:
   1633.10.14:
-    birth: london #TODO: Location guessed, check if better data is available
-    first_name: james
+    birth: london
+    first_name: name_james
     dynasty: stuart_dynasty
+    father: eng_charles_i_stuart
+    mother: eng_henrietta_maria_de_bourbon
     adm: 30
     dip: 30
     mil: 45
     religion: anglican
     culture: english
     tag: ENG
-  1688.12.11:
+  1669:
+    religion: catholic
+  1688.12.23:
+    tag: FRA
+  1701.9.16:
     death: yes
-eng_catherine_de_braganassa:
+eng_elizabeth_stuart_b1635:
+  1635.12.28:
+    birth: london
+    first_name: name_elizabeth
+    dynasty: stuart_dynasty
+    female: yes
+    father: eng_charles_i_stuart
+    mother: eng_henrietta_maria_de_bourbon
+    religion: anglican
+    culture: english
+    tag: ENG
+  1650.9.8:
+    death: yes
+eng_anne_hyde:
   1638.11.25:
-    birth: london #TODO: Location guessed, check if better data is available
-    first_name: catherine
-    dynasty: de_braganaSSa_dynasty
+    birth: windsor
+    first_name: name_anna
+    last_name: hyde
+    female: yes
+    religion: anglican
+    culture: english
+    tag: ENG
+  1660.9.3:
+    spouse: eng_james_ii_stuart
+  1669:
+    religion: catholic
+  1671.3.31:
+    death: yes
+eng_anne_stuart:
+  1637.3.17:
+    birth: london
+    first_name: name_anna
+    dynasty: stuart_dynasty
+    female: yes
+    father: eng_charles_i_stuart
+    mother: eng_henrietta_maria_de_bourbon
+    religion: anglican
+    culture: english
+    tag: ENG
+  1640.11.5:
+    death: yes
+eng_catherine_de_braganza:
+  1638.11.25:
+    birth: vila_vicosa
+    first_name: name_catherine
+    dynasty: de_braganza_dynasty
     female: yes
     adm: 45
     dip: 75
     mil: 15
-    religion: anglican
-    culture: english
+    religion: catholic
+    culture: portuguese
+    tag: POR
+  1662.5.21:
+    spouse: eng_charles_ii_stuart
     tag: ENG
   1705.12.31:
     death: yes
-  1662.4.23:
-    spouse: eng_charles_ii_stuart #TODO: date guessed, see if better data is available
-eng_mary_deste:
-  1658.10.5:
-    birth: london #TODO: Location guessed, check if better data is available
-    first_name: mary
-    dynasty: deste_dynasty
-    female: yes
-    adm: 30
-    dip: 60
-    mil: 15
+eng_henry_stuart:
+  1640.7.8:
+    birth: glasgow #Oatlands
+    first_name: name_henry
+    dynasty: stuart_dynasty
+    father: eng_charles_i_stuart
+    mother: eng_henrietta_maria_de_bourbon
     religion: anglican
     culture: english
     tag: ENG
-  1718.5.7:
+  1660.9.13:
     death: yes
-  1685.2.6:
-    spouse: eng_james_ii_stuart #TODO: date guessed, see if better data is available
-eng_mary_ii_stuart:
-  1662.4.30:
-    birth: london #TODO: Location guessed, check if better data is available
-    first_name: mary
+eng_henrietta_stuart:
+  1644.6.16:
+    birth: exeter
+    first_name: name_henrietta
     dynasty: stuart_dynasty
     female: yes
-    father: eng_james_ii_stuart #TODO: check if this makes sense
-    adm: 30
-    dip: 60
-    mil: 45
+    father: eng_charles_i_stuart
+    mother: eng_henrietta_maria_de_bourbon
     religion: anglican
     culture: english
     tag: ENG
-  1694.12.28:
-    death: yes
-eng_james_iii_stuart:
-  1688.6.10:
-    birth: london #TODO: Location guessed, check if better data is available
-    first_name: james
-    dynasty: stuart_dynasty
-    father: eng_james_ii_stuart #TODO: check if this makes sense
-    adm: 15
-    dip: 30
-    mil: 15
-    religion: catholic
-    culture: english
-    tag: ENG
-  1766.1.1:
-    death: yes
-eng_convention_parliament:
-  1658.1.1:
-    birth: london #TODO: Date and location guessed, check if better data is available
-    first_name: convention_parliament
-    adm: 30
-    dip: 30
-    mil: 30
-    religion: anglican
-    culture: english
-    tag: ENG
-  1689.2.15:
+  1670.6.30:
     death: yes
 eng_william_iii_van_oranje:
   1650.11.4:
-    birth: london #TODO: Location guessed, check if better data is available
-    first_name: william
+    birth: the_hague
+    first_name: name_william
     dynasty: van_oranje_dynasty
     adm: 45
     dip: 75
     mil: 75
-    religion: anglican
+    religion: lutheran
     culture: english
+    tag: NED
+  1689.2.13:
     tag: ENG
   1702.3.8:
     death: yes
-eng_mary_stuart:
+eng_george_of_denmark:
+  1653.4.2:
+    birth: kobenhavn
+    first_name: name_george
+    dynasty: oldenburg_dynasty
+    father: dan_frederik_iii_von_oldenburg
+    mother: dan_sophie_amalie_von_welf
+    adm: 15
+    dip: 15
+    mil: 15
+    religion: lutheran
+    culture: danish
+    tag: DAN
+  1683.7.28:
+    spouse: eng_anne_i_stuart
+    tag: ENG
+  1707.5.1:
+    tag: GBR
+  1708.10.28:
+    death: yes
+eng_mary_of_modena:
+  1658.10.5:
+    birth: modena
+    first_name: name_mary
+    dynasty: este_dynasty
+    female: yes
+    adm: 30
+    dip: 60
+    mil: 15
+    religion: catholic
+    culture: emilian
+    tag: MOD
+  1673.11.23:
+    spouse: eng_james_ii_stuart
+    tag: ENG
+  1688.12.9:
+    tag: FRA
+  1718.5.7:
+    death: yes
+eng_charles_stuart:
+  1660.10.22:
+    birth: london
+    first_name: name_charles
+    dynasty: stuart_dynasty
+    father: eng_james_ii_stuart
+    mother: eng_anne_hyde
+    religion: anglican
+    culture: english
+    tag: ENG
+  1661.5.5:
+    death: yes
+eng_mary_ii_stuart:
   1662.4.30:
-    birth: london #TODO: Location guessed, check if better data is available
-    first_name: mary
+    birth: london
+    first_name: name_mary
     dynasty: stuart_dynasty
     female: yes
+    father: eng_james_ii_stuart
+    mother: eng_anne_hyde
     adm: 60
     dip: 60
     mil: 45
     religion: anglican
     culture: english
     tag: ENG
+  1677.11.4:
+    spouse: eng_william_iii_van_oranje
   1694.12.28:
     death: yes
-  1689.2.15:
-    spouse: eng_william_iii_van_oranje #TODO: date guessed, see if better data is available
+eng_james_stuart_of_cambridge:
+  1663.7.12:
+    birth: london
+    first_name: name_james
+    dynasty: stuart_dynasty
+    father: eng_james_ii_stuart
+    mother: eng_anne_hyde
+    religion: anglican
+    culture: english
+    tag: ENG
+  1667.6.20:
+    death: yes
 eng_anne_i_stuart:
   1665.2.6:
-    birth: london #TODO: Location guessed, check if better data is available
-    first_name: anne
+    birth: london
+    first_name: name_anna
     dynasty: stuart_dynasty
     female: yes
+    father: eng_james_ii_stuart
+    mother: eng_anne_hyde
     adm: 45
     dip: 75
     mil: 60
     religion: anglican
     culture: english
     tag: ENG
+  1707.5.1:
+    tag: GBR
   1714.8.1:
     death: yes
-eng_george_von_oldenburg:
-  1653.4.2:
-    birth: london #TODO: Location guessed, check if better data is available
-    first_name: george
-    dynasty: von_oldenburg_dynasty
-    adm: 15
-    dip: 15
-    mil: 15
+eng_charles_stuart_of_kendal:
+  1666.7.4:
+    birth: london
+    first_name: name_charles
+    dynasty: stuart_dynasty
+    father: eng_james_ii_stuart
+    mother: eng_anne_hyde
     religion: anglican
     culture: english
     tag: ENG
-  1708.10.28:
+  1667.5.22:
     death: yes
-  1702.3.8:
-    spouse: eng_anne_i_stuart #TODO: date guessed, see if better data is available
-eng_sophia_i_von_wittelsbach:
-  1630.10.14:
-    birth: london #TODO: Location guessed, check if better data is available
-    first_name: sophia
-    dynasty: von_wittelsbach_dynasty
+eng_edgar_stuart:
+  1667.9.14:
+    birth: london
+    first_name: name_edgar
+    dynasty: stuart_dynasty
+    father: eng_james_ii_stuart
+    mother: eng_anne_hyde
+    religion: anglican
+    culture: english
+    tag: ENG
+  1671.6.8:
+    death: yes
+eng_isabel_stuart:
+  1676.8.28:
+    birth: london
+    first_name: isabel
+    dynasty: stuart_dynasty
     female: yes
-    father: eng_anne_i_stuart #TODO: check if this makes sense
-    adm: 45
-    dip: 60
-    mil: 30
-    religion: anglican
+    father: eng_james_ii_stuart
+    mother: eng_mary_of_modena
+    religion: catholic
     culture: english
     tag: ENG
-  1714.6.8:
+  1681.3.2:
     death: yes
-eng_george_i_von_hannover:
-  1660.5.28:
-    birth: london #TODO: Location guessed, check if better data is available
-    first_name: george
-    dynasty: von_hannover_dynasty
-    father: eng_anne_i_stuart #TODO: check if this makes sense
-    adm: 45
-    dip: 45
-    mil: 75
+eng_charles_stuart_of_cambridge:
+  1677.11.7:
+    birth: london
+    first_name: name_charles
+    dynasty: stuart_dynasty
+    father: eng_james_ii_stuart
+    mother: eng_mary_of_modena
+    religion: catholic
+    culture: english
+    tag: ENG
+  1677.12.12:
+    death: yes
+eng_mary_of_oldenburg:
+  1685.6.2:
+    birth: london
+    first_name: name_mary
+    dynasty: oldenburg_dynasty
+    female: yes
+    father: eng_george_of_denmark
+    mother: eng_anne_i_stuart
     religion: anglican
     culture: english
     tag: ENG
-  1727.6.11:
+  1687.2.8:
+    death: yes
+eng_anne_sophia_of_oldenburg:
+  1686.5.12:
+    birth: london
+    first_name: name_anna.name_sophia
+    dynasty: oldenburg_dynasty
+    female: yes
+    father: eng_george_of_denmark
+    mother: eng_anne_i_stuart
+    religion: anglican
+    culture: english
+    tag: ENG
+  1687.2.2:
+    death: yes
+eng_james_stuart_of_wales:
+  1688.6.10:
+    birth: london
+    first_name: name_james
+    dynasty: stuart_dynasty
+    father: eng_james_ii_stuart
+    mother: eng_mary_of_modena
+    adm: 15
+    dip: 30
+    mil: 15
+    religion: catholic
+    culture: english
+    tag: ENG
+  1688.12.9:
+    tag: FRA
+  1766.1.1:
+    death: yes
+eng_william_of_oldenburg:
+  1689.7.24:
+    birth: london
+    first_name: name_william
+    dynasty: oldenburg_dynasty
+    female: yes
+    father: eng_george_of_denmark
+    mother: eng_anne_i_stuart
+    religion: anglican
+    culture: english
+    tag: ENG
+  1700.7.30:
+    death: yes
+eng_louisa_maria_stuart:
+  1692.6.28:
+    birth: paris
+    first_name: name_louise.name_mary
+    dynasty: stuart_dynasty
+    female: yes
+    father: eng_james_ii_stuart
+    mother: eng_mary_of_modena
+    religion: catholic
+    culture: french
+    tag: FRA
+  1712.4.18:
     death: yes

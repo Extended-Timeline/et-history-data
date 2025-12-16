@@ -1,216 +1,242 @@
-sco_kenneth_i_mac_alpin:
-  810.1.1:
-    birth: edinburgh #TODO: Date and location guessed, check if better data is available
-    first_name: kenneth
-    dynasty: mac_alpin_dynasty
-    adm: 60
-    dip: 15
-    mil: 15
+sco_kenneth_i:
+  810:
+    birth: mull #Iona
+    first_name: name_kenneth
+    dynasty: alpin_dynasty
+    father: sco_alpin_ii
     religion: chalcedonism
     culture: highland
     tag: SCO
   858.2.13:
     death: yes
-sco_donald_i_mac_alpin:
-  812.1.1:
-    birth: edinburgh #TODO: Date and location guessed, check if better data is available
-    first_name: donald
-    dynasty: mac_alpin_dynasty
-    adm: 75
-    dip: 30
-    mil: 60
+sco_donald_i:
+  812:
+    birth: perth #unknown
+    first_name: name_donald
+    dynasty: alpin_dynasty
+    father: sco_alpin_ii
     religion: chalcedonism
     culture: highland
     tag: SCO
   862.4.13:
     death: yes
-sco_constantine_i_mac_alpin:
-  832.1.1:
-    birth: edinburgh #TODO: Date and location guessed, check if better data is available
-    first_name: constantine
-    dynasty: mac_alpin_dynasty
-    adm: 60
-    dip: 30
-    mil: 75
-    religion: catholic
-    culture: highland
-    tag: SCO
-  877.1.1:
-    death: yes
-sco_aed_mac_alpin:
-  858.1.1:
-    birth: edinburgh #TODO: Date and location guessed, check if better data is available
-    first_name: aed
-    dynasty: mac_alpin_dynasty
-    adm: 45
-    dip: 75
-    mil: 75
-    religion: catholic
-    culture: highland
-    tag: SCO
-  878.1.1:
-    death: yes
 sco_giric_mac_alpin:
   832.1.1:
-    birth: edinburgh #TODO: Date and location guessed, check if better data is available
-    first_name: giric
-    dynasty: mac_alpin_dynasty
-    adm: 0
-    dip: 60
-    mil: 30
+    birth: perth #unknown
+    first_name: name_gregory
+    dynasty: alpin_dynasty
+    father: sco_donald_i
+    religion: chalcedonism
+    culture: highland
+    tag: SCO
+  867:
+    religion: catholic
+  890:
+    death: yes
+sco_constantine_i:
+  836:
+    birth: clackmannan #unknown
+    first_name: name_constantine
+    dynasty: alpin_dynasty
+    father: sco_kenneth_i
+    religion: chalcedonism
+    culture: highland
+    tag: SCO
+  867:
+    religion: catholic
+  877:
+    death: yes
+sco_aedh:
+  840:
+    birth: clackmannan #Strathallan
+    first_name: name_hugh
+    dynasty: alpin_dynasty
+    father: sco_kenneth_i
+    religion: chalcedonism
+    culture: highland
+    tag: SCO
+  867:
+    religion: catholic
+  878:
+    death: yes
+sco_mael_muire:
+  842:
+    birth: clackmannan #unknown
+    first_name: mael.muire
+    dynasty: alpin_dynasty
+    female: yes
+    father: sco_kenneth_i
+    religion: chalcedonism
+    culture: highland
+    tag: SCO
+  867:
+    religion: catholic
+  913:
+    death: yes
+sco_donald_ii:
+  862.6.30:
+    birth: stonehaven #Fordoun
+    first_name: name_donald
+    dynasty: alpin_dynasty
+    father: sco_constantine_i_mac_alpin
+    religion: chalcedonism
+    culture: highland
+    tag: SCO
+  867:
+    religion: catholic
+  900.4:
+    death: yes
+sco_constantine_ii:
+  879:
+    birth: stonehaven #unknown
+    first_name: name_constantine
+    dynasty: alpin_dynasty
+    father: sco_aedh
     religion: catholic
     culture: highland
     tag: SCO
-  889.1.1:
+  952:
     death: yes
-sco_donald_ii_mac_alpin:
-  859.1.1:
-    birth: edinburgh #TODO: Date and location guessed, check if better data is available
-    first_name: donald
-    dynasty: mac_alpin_dynasty
-    adm: 15
-    dip: 75
-    mil: 60
+sco_malcolm_i:
+  897.10.5:
+    birth: perth #unknown
+    first_name: name_malcolm
+    dynasty: alpin_dynasty
+    father: sco_donald_ii
     religion: catholic
     culture: highland
     tag: SCO
-  900.1.1:
+  954:
     death: yes
-sco_constantine_ii_mac_alpin:
-  879.1.1:
-    birth: edinburgh #TODO: Date and location guessed, check if better data is available
-    first_name: constantine
-    dynasty: mac_alpin_dynasty
-    adm: 0
-    dip: 60
-    mil: 0
+sco_indulf:
+  927:
+    birth: perth #unknown
+    first_name: name_indulf
+    dynasty: alpin_dynasty
+    father: sco_constantine_ii
     religion: catholic
     culture: highland
     tag: SCO
-  952.1.1:
+  962:
     death: yes
-sco_malcolm_i_mac_alpin:
-  900.1.1:
-    birth: edinburgh #TODO: Date and location guessed, check if better data is available
-    first_name: malcolm
-    dynasty: mac_alpin_dynasty
-    adm: 30
-    dip: 60
-    mil: 75
+sco_dubh:
+  928:
+    birth: perth #unknown
+    first_name: name_duff
+    dynasty: alpin_dynasty
+    father: sco_malcolm_i
     religion: catholic
     culture: highland
     tag: SCO
-  954.1.1:
+  967:
     death: yes
-sco_indulf_mac_alpin:
-  924.1.1:
-    birth: edinburgh #TODO: Date and location guessed, check if better data is available
-    first_name: indulf
-    dynasty: mac_alpin_dynasty
-    adm: 30
-    dip: 75
-    mil: 0
+sco_kenneth_ii:
+  932:
+    birth: perth #unknown
+    first_name: name_kenneth
+    dynasty: alpin_dynasty
+    father: sco_malcolm_i
     religion: catholic
     culture: highland
     tag: SCO
-  962.1.1:
+  995:
     death: yes
-sco_dub_mac_alpin:
-  932.1.1:
-    birth: edinburgh #TODO: Date and location guessed, check if better data is available
-    first_name: dub
-    dynasty: mac_alpin_dynasty
-    adm: 45
-    dip: 15
-    mil: 60
+sco_culen:
+  945:
+    birth: perth #unknown
+    first_name: name_colin
+    dynasty: alpin_dynasty
+    father: sco_indulf
     religion: catholic
     culture: highland
     tag: SCO
-  967.1.1:
+  971:
     death: yes
-sco_cuilen_mac_alpin:
-  937.1.1:
-    birth: edinburgh #TODO: Date and location guessed, check if better data is available
-    first_name: cuilen
-    dynasty: mac_alpin_dynasty
-    adm: 30
-    dip: 15
-    mil: 0
+sco_amlaib:
+  948:
+    birth: perth #unknown
+    first_name: amlaib
+    dynasty: alpin_dynasty
+    father: sco_indulf
     religion: catholic
     culture: highland
     tag: SCO
-  971.1.1:
+  977:
     death: yes
-sco_kenneth_ii_mac_alpin:
-  954.1.1:
-    birth: edinburgh #TODO: Date and location guessed, check if better data is available
-    first_name: kenneth
-    dynasty: mac_alpin_dynasty
-    adm: 75
-    dip: 60
-    mil: 75
-    religion: catholic
-    culture: highland
-    tag: SCO
-  995.1.1:
-    death: yes
-sco_constantine_iii_mac_alpin:
-  971.1.1:
-    birth: edinburgh #TODO: Date and location guessed, check if better data is available
-    first_name: constantine
-    dynasty: mac_alpin_dynasty
-    adm: 60
-    dip: 45
-    mil: 30
-    religion: catholic
-    culture: highland
-    tag: SCO
-  997.1.1:
-    death: yes
-sco_kenneth_iii_mac_alpin:
-  967.1.1:
-    birth: edinburgh #TODO: Date and location guessed, check if better data is available
-    first_name: kenneth
-    dynasty: mac_alpin_dynasty
-    adm: 30
-    dip: 75
-    mil: 60
-    religion: catholic
-    culture: highland
-    tag: SCO
-  1005.3.25:
-    death: yes
-sco_malcolm_ii_mac_alpin:
+sco_malcolm_ii:
   954.10.5:
-    birth: edinburgh #TODO: Location guessed, check if better data is available
-    first_name: malcolm
-    dynasty: mac_alpin_dynasty
-    adm: 30
-    dip: 75
-    mil: 30
+    birth: perth #unknown
+    first_name: name_malcolm
+    dynasty: alpin_dynasty
+    father: sco_kenneth_ii
     religion: catholic
     culture: highland
     tag: SCO
   1034.11.25:
     death: yes
-sco_duncan_i_dunkeld:
-  1001.1.1:
-    birth: edinburgh #TODO: Date and location guessed, check if better data is available
-    first_name: duncan
-    dynasty: dunkeld_dynasty
-    adm: 45
-    dip: 0
-    mil: 0
+sco_kenneth_iii:
+  966:
+    birth: perth #unknown
+    first_name: name_kenneth
+    dynasty: alpin_dynasty
+    father: sco_dubh
     religion: catholic
     culture: highland
     tag: SCO
-  1040.8.14:
+  1005.3.25:
     death: yes
-sco_macbeth_dunkeld:
-  1010.1.1:
-    birth: edinburgh #TODO: Date and location guessed, check if better data is available
-    first_name: macbeth
-    dynasty: dunkeld_dynasty
+sco_constantine_iii:
+  970:
+    birth: perth #unknown
+    first_name: name_constantine
+    dynasty: alpin_dynasty
+    father: sco_culen
+    religion: catholic
+    culture: highland
+    tag: SCO
+  997:
+    death: yes
+sco_donada_alpin:
+  975:
+    birth: perth #unknown
+    first_name: donada
+    dynasty: alpin_dynasty
+    female: yes
+    father: sco_malcolm_ii
+    religion: catholic
+    culture: highland
+    tag: SCO
+  1030:
+    death: yes
+sco_bethoc_alpin:
+  980:
+    birth: perth #unknown
+    first_name: bethoc
+    dynasty: alpin_dynasty
+    female: yes
+    father: sco_malcolm_ii
+    religion: catholic
+    culture: highland
+    tag: SCO
+  1030:
+    death: yes
+sco_boite_alpin:
+  990:
+    birth: perth #unknown
+    first_name: boite
+    dynasty: alpin_dynasty
+    father: sco_kenneth_iii
+    religion: catholic
+    culture: highland
+    tag: SCO
+  1058:
+    death: yes
+sco_macbeth:
+  1000:
+    birth: perth #unknown
+    first_name: name_macbeth
+    dynasty: loairn_dynasty
+    mother: sco_donada_alpin
     adm: 75
     dip: 45
     mil: 30
@@ -219,262 +245,924 @@ sco_macbeth_dunkeld:
     tag: SCO
   1057.8.15:
     death: yes
-sco_lulach_dunkeld:
-  1033.1.1:
-    birth: edinburgh #TODO: Date and location guessed, check if better data is available
-    first_name: lulach
+sco_duncan_i:
+  1001:
+    birth: aberfeldy #Atholl
+    first_name: name_duncan
     dynasty: dunkeld_dynasty
-    adm: 60
-    dip: 75
-    mil: 45
+    mother: sco_bethoc_alpin
+    religion: catholic
+    culture: highland
+    tag: SCO
+  1040.8.14:
+    death: yes
+sco_suthen:
+  1005:
+    birth: perth #unknown
+    first_name: suthen
+    female: yes
+    religion: catholic
+    culture: highland
+    tag: SCO
+  1020:
+    spouse: sco_duncan_i
+  1050:
+    death: yes
+sco_gruoch_alpin:
+  1015:
+    birth: perth #unknown
+    first_name: gruoch
+    dynasty: alpin_dynasty
+    female: yes
+    father: sco_boite_alpin
+    religion: catholic
+    culture: highland
+    tag: SCO
+  1032:
+    spouse: sco_macbeth
+  1060:
+    death: yes
+sco_malcolm_iii:
+  1031.8.26:
+    birth: perth #unknown
+    first_name: name_malcolm
+    dynasty: dunkeld_dynasty
+    father: sco_duncan_i
+    mother: sco_suthen
+    religion: catholic
+    culture: highland
+    tag: SCO
+  1093.11.13:
+    death: yes
+sco_lulach:
+  1032:
+    birth: perth #unknown
+    first_name: name_lulach
+    dynasty: loairn_dynasty
+    mother: sco_gruoch_alpin
     religion: catholic
     culture: highland
     tag: SCO
   1058.3.17:
     death: yes
-sco_malcolm_iii_dunkeld:
-  1031.8.26:
-    birth: edinburgh #TODO: Location guessed, check if better data is available
-    first_name: malcolm
+sco_donald_iii:
+  1032:
+    birth: perth #unknown
+    first_name: name_donald
     dynasty: dunkeld_dynasty
-    adm: 60
-    dip: 0
-    mil: 45
+    father: sco_duncan_i
+    mother: sco_suthen
+    religion: catholic
+    culture: highland
+    tag: SCO
+  1099:
+    death: yes
+sco_ingibiorg_finnsdottir:
+  1035:
+    birth: stavanger #unknown
+    first_name: name_ingeborg
+    religion: catholic
+    culture: norwegian
+    tag: NOR
+  1058:
+    spouse: sco_malcolm_iii
+    tag: SCO
+  1069:
+    death: yes
+sco_margaret_of_wessex:
+  1045:
+    birth: pest #Hungary
+    first_name: name_margaret
+    dynasty: wessex_dynasty
+    female: yes
+    father: eng_edward_the_exile
+    mother: eng_agatha
+    religion: catholic
+    culture: english
+    tag: ENG
+  1070:
+    spouse: sco_malcolm_iii
+    tag: SCO
+  1093.11.16:
+    death: yes
+sco_duncan_ii:
+  1060:
+    birth: dunfermline #unknown
+    first_name: name_duncan
+    dynasty: dunkeld_dynasty
+    father: sco_malcolm_iii
+    mother: sco_ingibiorg_finnsdottir
+    religion: catholic
+    culture: highland
+    tag: SCO
+  1094.11.12:
+    death: yes
+sco_ethelreda_of_northumbria:
+  1065:
+    birth: newcastle #unknown
+    first_name: ethelreda
+    female: yes
+    religion: catholic
+    culture: northumbrian
+    tag: ENG
+  1185:
+    spouse: sco_duncan_ii
+    tag: SCO
+  1120:
+    death: yes
+sco_edmund_dunkeld:
+  1070:
+    birth: dunfermline #unknown
+    first_name: name_edmond
+    dynasty: dunkeld_dynasty
+    father: sco_malcolm_iii
+    mother: sco_margaret_of_wessex
     religion: catholic
     culture: scottish
     tag: SCO
-  1093.11.13:
+  1098:
     death: yes
-sco_donald_iii_dunkeld:
-  1040.1.1:
-    birth: edinburgh #TODO: Date and location guessed, check if better data is available
-    first_name: donald
+sco_ethelred_dunkeld:
+  1072:
+    birth: dunfermline #unknown
+    first_name: name_ethelred
     dynasty: dunkeld_dynasty
-    adm: 15
-    dip: 0
-    mil: 60
+    father: sco_malcolm_iii
+    mother: sco_margaret_of_wessex
     religion: catholic
     culture: scottish
     tag: SCO
-  1099.1.1:
+  1093:
     death: yes
-sco_edgar_dunkeld:
-  1074.1.1:
-    birth: edinburgh #TODO: Date and location guessed, check if better data is available
-    first_name: edgar
+sco_maud_of_huntingdon:
+  1072:
+    birth: berwick #Belford
+    first_name: name_matilda
+    female: yes
+    religion: catholic
+    culture: northumbrian
+    tag: ENG
+  1113:
+    spouse: sco_david_i
+    tag: SCO
+  1130.4.23:
+    death: yes
+sco_edgar:
+  1074:
+    birth: dunfermline #unknown
+    first_name: sco_edgar
     dynasty: dunkeld_dynasty
-    adm: 30
-    dip: 60
-    mil: 45
+    father: sco_malcolm_iii
+    mother: sco_margaret_of_wessex
     religion: catholic
     culture: scottish
     tag: SCO
   1107.1.8:
     death: yes
-sco_alexander_i_dunkeld:
-  1078.1.1:
-    birth: edinburgh #TODO: Date and location guessed, check if better data is available
-    first_name: alexander
+sco_alexander_i:
+  1078:
+    birth: dunfermline #unknown
+    first_name: name_alexander
     dynasty: dunkeld_dynasty
-    adm: 75
-    dip: 60
-    mil: 45
+    father: sco_malcolm_iii
+    mother: sco_margaret_of_wessex
     religion: catholic
     culture: scottish
     tag: SCO
   1124.4.23:
     death: yes
-sco_david_i_dunkeld:
-  1084.1.1:
-    birth: edinburgh #TODO: Date and location guessed, check if better data is available
-    first_name: david
+sco_mary_dunkeld:
+  1082:
+    birth: dunfermline #unknown
+    first_name: name_mary
     dynasty: dunkeld_dynasty
-    adm: 45
-    dip: 75
-    mil: 15
+    female: yes
+    father: sco_malcolm_iii
+    mother: sco_margaret_of_wessex
+    religion: catholic
+    culture: scottish
+    tag: SCO
+  1116:
+    death: yes
+sco_david_i:
+  1084:
+    birth: dunfermline #unknown
+    first_name: name_david
+    dynasty: dunkeld_dynasty
+    father: sco_malcolm_iii
+    mother: sco_margaret_of_wessex
     religion: catholic
     culture: scottish
     tag: SCO
   1153.5.24:
     death: yes
-sco_malcolm_iv_dunkeld:
-  1141.4.23:
-    birth: edinburgh #TODO: Location guessed, check if better data is available
-    first_name: malcolm
+sco_william_fitz_duncan:
+  1090:
+    birth: dunfermline #unknown
+    first_name: name_william
     dynasty: dunkeld_dynasty
-    adm: 0
-    dip: 75
-    mil: 60
+    father: sco_duncan_ii
+    mother: sco_ethelreda_of_northumbria
+    religion: catholic
+    culture: highland
+    tag: SCO
+  1147:
+    death: yes
+sco_sybilla_of_normandy:
+  1092:
+    birth: domfront
+    first_name: sybilla
+    dynasty: normandy_dynasty
+    female: yes
+    father: eng_henry_i
+    religion: catholic
+    culture: norman
+    tag: ENG
+  1107:
+    spouse: sco_alexander_i
+    tag: SCO
+  1122.7.12:
+    death: yes
+sco_henry_dunkeld:
+  1114:
+    birth: dunfermline #unknown
+    first_name: name_henry
+    dynasty: dunkeld_dynasty
+    father: sco_david_i
+    mother: sco_maud_of_huntingdon
+    religion: catholic
+    culture: scottish
+    tag: SCO
+  1152.6.12:
+    death: yes
+sco_ada_warenne:
+  1120:
+    birth: hastings #unknown
+    first_name: name_ada
+    dynasty: warenne_dynasty
+    female: yes
+    religion: catholic
+    culture: english
+    tag: ENG
+  1139:
+    spouse: sco_henry_dunkeld
+    tag: SCO
+  1178:
+    death: yes
+sco_malcolm_iv:
+  1141.4.23:
+    birth: dunfermline #unknown
+    first_name: name_malcolm
+    dynasty: dunkeld_dynasty
+    father: sco_henry_dunkeld
+    mother: sco_ada_warenne
     religion: catholic
     culture: scottish
     tag: SCO
   1165.12.9:
     death: yes
-sco_william_i_dunkeld:
-  1143.1.1:
-    birth: edinburgh #TODO: Date and location guessed, check if better data is available
-    first_name: william
+sco_william_the_lion:
+  1142:
+    birth: dunfermline #unknown
+    first_name: name_william
     dynasty: dunkeld_dynasty
+    father: sco_henry_dunkeld
+    mother: sco_ada_warenne
     adm: 45
     dip: 60
-    mil: 60
+    mil: 70
     religion: catholic
     culture: scottish
     tag: SCO
   1214.12.4:
     death: yes
-sco_alexander_ii_dunkeld:
-  1198.8.24:
-    birth: edinburgh #TODO: Location guessed, check if better data is available
-    first_name: alexander
+    nickname: the_lion
+sco_margaret_dunkeld:
+  1145:
+    birth: dunfermline #unknown
+    first_name: name_margaret
     dynasty: dunkeld_dynasty
-    adm: 30
-    dip: 60
-    mil: 60
+    female: yes
+    father: sco_henry_dunkeld
+    mother: sco_ada_warenne
     religion: catholic
     culture: scottish
     tag: SCO
-  1249.7.6:
+  1201.9.4:
     death: yes
-sco_alexander_iii_dunkeld:
-  1241.9.4:
-    birth: edinburgh #TODO: Location guessed, check if better data is available
-    first_name: alexander
+sco_david_dunkeld:
+  1152:
+    birth: huntingdon
+    first_name: name_david
     dynasty: dunkeld_dynasty
-    adm: 60
-    dip: 15
-    mil: 30
+    father: sco_henry_dunkeld
+    mother: sco_ada_warenne
+    religion: catholic
+    culture: scottish
+    tag: SCO
+  1184:
+    tag: ENG
+    estate: nobles_estate
+  1219.6.17:
+    death: yes
+sco_ada_dunkeld:
+  1154:
+    birth: dunfermline #unknown
+    first_name: name_ada
+    dynasty: dunkeld_dynasty
+    female: yes
+    father: sco_henry_dunkeld
+    mother: sco_ada_warenne
+    religion: catholic
+    culture: scottish
+    tag: SCO
+  1207:
+    death: yes
+sco_ermengarde_de_beaumont:
+  1170:
+    birth: beaumont_au_maine
+    first_name: name_ermengard
+    female: yes
+    religion: catholic
+    culture: french
+    tag: FRA
+  1186.9.5:
+    spouse: sco_william_the_lion
+    tag: SCO
+  1233.2.12:
+    death: yes
+sco_margaret_dunkeld_of_kent:
+  1193:
+    birth: dunfermline #unknown
+    first_name: name_margaret
+    dynasty: dunkeld_dynasty
+    female: yes
+    father: sco_william_the_lion
+    mother: sco_ermengarde_de_beaumont
+    religion: catholic
+    culture: scottish
+    tag: SCO
+  1259.11.25:
+    death: yes
+sco_isabella_dunkeld:
+  1195:
+    birth: dunfermline #unknown
+    first_name: isabella
+    dynasty: dunkeld_dynasty
+    female: yes
+    father: sco_william_the_lion
+    mother: sco_ermengarde_de_beaumont
+    religion: catholic
+    culture: scottish
+    tag: SCO
+  1264:
+    death: yes
+sco_alexander_ii:
+  1198.8.24:
+    birth: dunbar
+    first_name: name_alexander
+    dynasty: dunkeld_dynasty
+    father: sco_william_the_lion
+    mother: sco_ermengarde_de_beaumont
+    religion: catholic
+    culture: scottish
+    tag: SCO
+  1249.7.8:
+    death: yes
+sco_marjorie_dunkeld:
+  1200:
+    birth: dunfermline #unknown
+    first_name: name_margaret
+    dynasty: dunkeld_dynasty
+    female: yes
+    father: sco_william_the_lion
+    mother: sco_ermengarde_de_beaumont
+    religion: catholic
+    culture: scottish
+    tag: SCO
+  1244:
+    death: yes
+sco_joan_of_england:
+  1210.7.22:
+    birth: winchester
+    first_name: name_joanna
+    dynasty: plantagenet_dynasty
+    female: yes
+    father: eng_john_lackland
+    mother: eng_isabella_of_angouleme
+    religion: catholic
+    culture: english
+    tag: ENG
+  1221.6.18:
+    spouse: sco_alexander_ii
+    tag: SCO
+  1238.3.4:
+    death: yes
+sco_marie_de_coucy:
+  1218:
+    birth: coucy
+    first_name: name_mary
+    dynasty: coucy_dynasty
+    female: yes
+    religion: catholic
+    culture: french
+    tag: FRA
+  1239.5.15:
+    spouse: sco_alexander_ii
+    tag: SCO
+  1285:
+    death: yes
+sco_margaret_of_england:
+  1240.9.29:
+    birth: london
+    first_name: name_margaret
+    dynasty: plantagenet_dynasty
+    female: yes
+    father: eng_henry_iii
+    mother: eng_eleanor_of_provence
+    religion: catholic
+    culture: english
+    tag: ENG
+  1251.12.25:
+    spouse: sco_alexander_iii
+    tag: SCO
+  1275.2.26:
+    death: yes
+sco_alexander_iii:
+  1241.9.4:
+    birth: roxburgh
+    first_name: name_alexander
+    dynasty: dunkeld_dynasty
+    father: sco_alexander_ii
+    mother: sco_marie_de_coucy
     religion: catholic
     culture: scottish
     tag: SCO
   1286.3.19:
     death: yes
-sco_margaret_sverre:
-  1283.4.9:
-    birth: edinburgh #TODO: Location guessed, check if better data is available
-    first_name: margaret
-    dynasty: sverre_dynasty
-    female: yes
-    adm: 60
-    dip: 30
-    mil: 60
-    religion: catholic
-    culture: scottish
-    tag: SCO
-  3000.1.1:
-    death: yes
-sco_john_balliol:
-  1262.1.1:
-    birth: edinburgh #TODO: Date and location guessed, check if better data is available
-    first_name: john
+sco_john_balliol_of_scotland:
+  1249:
+    birth: kirkcudbright
+    first_name: name_john
+    nickname: nick_empty_coat
     dynasty: balliol_dynasty
-    adm: 15
-    dip: 30
-    mil: 15
+    father: sco_john_balliol_of_durham
+    mother: gly_dervorguilla
     religion: catholic
     culture: scottish
     tag: SCO
-  3000.1.1:
+    estate: nobles_estate
+  1292.11.17:
+    estate: ---
+  1314.12.1:
     death: yes
-sco_robert_i_bruce:
+sco_isabella_warenne:
+  1253:
+    birth: hastings #Surrey
+    first_name: isabella
+    dynasty: warenne_dynasty
+    female: yes
+    father: eng_john_warenne
+    mother: eng_alix_lusignan
+    religion: catholic
+    culture: english
+    tag: ENG
+    estate: nobles_estate
+  1281.2.9:
+    spouse: sco_john_balliol_of_scotland
+    tag: SCO
+    estate: ---
+  1292:
+    death: yes
+sco_yolande_of_dreux:
+  1263.3.20:
+    birth: dreux
+    first_name: name_yolande
+    dynasty: dreux_dynasty
+    female: yes
+    religion: catholic
+    culture: french
+    tag: FRA
+  1285.10.15:
+    spouse: sco_alexander_iii
+    tag: SCO
+  1330.8.2:
+    death: yes
+sco_alexander_dunkeld:
+  1264.1.21:
+    birth: dunfermline #unknown
+    first_name: name_alexander
+    dynasty: dunkeld_dynasty
+    father: sco_alexander_iii
+    mother: sco_margaret_of_england
+    religion: catholic
+    culture: scottish
+    tag: SCO
+  1284.1.28:
+    death: yes
+sco_margaret_of_flanders:
+  1265:
+    birth: ghent #unknown
+    first_name: name_margaret
+    dynasty: dampierre_dynasty
+    female: yes
+    religion: catholic
+    culture: low_franconian
+    tag: FLA
+  1282.11.14:
+    spouse: sco_alexander_dunkeld
+    tag: SCO
+  1331:
+    death: yes
+sco_robert_the_bruce:
   1274.7.11:
-    birth: edinburgh #TODO: Location guessed, check if better data is available
-    first_name: robert
+    birth: ayr
+    first_name: name_robert
     dynasty: bruce_dynasty
+    father: sco_robert_de_brus_6th_lord_of_annandale
     adm: 75
     dip: 45
     mil: 90
     religion: catholic
     culture: scottish
     tag: SCO
+    estate: nobles_estate
+  1306.3.25:
+    estate: ---
   1329.6.7:
     death: yes
-sco_david_ii_bruce:
-  1324.3.5:
-    birth: edinburgh #TODO: Location guessed, check if better data is available
-    first_name: david
+sco_edward_bruce:
+  1280:
+    birth: ayr
+    first_name: name_edward
     dynasty: bruce_dynasty
-    adm: 30
-    dip: 15
-    mil: 75
+    father: sco_robert_de_brus_6th_lord_of_annandale
     religion: catholic
     culture: scottish
     tag: SCO
+    estate: nobles_estate
+  1306.3.25:
+    estate: ---
+  1318.10.14:
+    death: yes
+sco_elizabeth_de_burgh:
+  1289:
+    birth: carrickfergus
+    first_name: name_elizabeth
+    dynasty: de_burgh_dynasty
+    female: yes
+    father: uls_richard_og_de_burgh_2nd_earl_ulster
+    religion: catholic
+    culture: anglo_irish
+    tag: SCO
+  1302:
+    spouse: sco_robert_the_bruce
+  1327.10.27:
+    death: yes
+sco_marjorie_bruce:
+  1296:
+    birth: ayr
+    first_name: name_margaret
+    dynasty: bruce_dynasty
+    female: yes
+    father: sco_robert_the_bruce
+    religion: catholic
+    culture: scottish
+    tag: SCO
+    estate: nobles_estate
+  1306.3.25:
+    estate: ---
+  1315:
+    spouse: sco_walter_stewart_6th
+  1317:
+    death: yes
+sco_alexander_de_brus:
+  1313:
+    birth: ayr
+    first_name: name_alexander
+    dynasty: bruce_dynasty
+    father: sco_edward_bruce
+    religion: catholic
+    culture: scottish
+    tag: SCO
+  1333.6.19:
+    death: yes
+sco_robert_ii:
+  1316.3.2:
+    birth: glasgow # paisley abbey renfrewshire
+    first_name: name_robert
+    dynasty: stewart_dynasty
+    father: sco_walter_stewart_6th
+    mother: sco_marjorie_bruce
+    religion: catholic
+    culture: scottish
+    tag: SCO
+  1390.4.19:
+    death: yes
+sco_elizabeth_mure:
+  1320.3.2:
+    birth: ayr #Rowallan Castle
+    first_name: name_elizabeth
+    dynasty: muir_dynasty
+    female: yes
+    religion: catholic
+    culture: scottish
+    tag: SCO
+  1336:
+    spouse: sco_robert_ii
+  1355:
+    death: yes
+sco_david_ii:
+  1324.3.5:
+    birth: dunfermline
+    first_name: name_david
+    dynasty: bruce_dynasty
+    father: sco_robert_the_bruce
+    mother: sco_elizabeth_de_burgh
+    religion: catholic
+    culture: scottish
+    tag: FRA
+    fertility: 10
   1371.2.22:
     death: yes
-sco_robert_ii_stuart:
-  1316.3.2:
-    birth: edinburgh #TODO: Location guessed, check if better data is available
-    first_name: robert
-    dynasty: stuart_dynasty
-    adm: 60
-    dip: 45
-    mil: 0
+sco_elizabeth_bruce:
+  1326:
+    birth: edinburgh
+    first_name: name_elizabeth
+    dynasty: bruce_dynasty
+    female: yes
+    father: sco_robert_the_bruce
+    mother: sco_elizabeth_de_burgh
     religion: catholic
     culture: scottish
     tag: SCO
-  1390.1.1:
+  1370:
+    death: yes
+sco_euphemia_de_ross:
+  1329:
+    birth: dingwall #Cromarty
+    first_name: name_euphemia
+    dynasty: ross_dynasty
+    female: yes
+    religion: catholic
+    culture: scottish
+    tag: SCO
+  1355.5.2:
+    spouse: sco_robert_ii
+  1386:
     death: yes
 sco_robert_iii_stuart:
-  1337.1.1:
-    birth: edinburgh #TODO: Date and location guessed, check if better data is available
-    first_name: robert
-    dynasty: stuart_dynasty
-    father: sco_robert_ii_stuart #TODO: check if this makes sense
-    adm: 15
-    dip: 30
-    mil: 30
+  1337.3.5:
+    birth: ayr #unknown
+    first_name: name_john
+    dynasty: stewart_dynasty
+    father: sco_robert_ii
+    mother: sco_elizabeth_mure
     religion: catholic
     culture: scottish
     tag: SCO
+  1390.4.19:
+    first_name: name_robert
   1406.4.4:
     death: yes
-sco_robert_iii_stuart_1:
-  1360.1.1:
-    birth: edinburgh #TODO: Date and location guessed, check if better data is available
-    first_name: robert
-    dynasty: stuart_dynasty
-    adm: 15
-    dip: 30
-    mil: 30
+sco_walter_stuart_of_fife:
+  1338:
+    birth: dunfermline #unknown
+    first_name: name_walter
+    dynasty: stewart_dynasty
+    father: sco_robert_ii
+    mother: sco_elizabeth_mure
     religion: catholic
     culture: scottish
     tag: SCO
-  1406.1.1:
+  1362:
+    death: yes
+sco_robert_stuart:
+  1339:
+    birth: dunfermline #unknown
+    first_name: name_robert
+    dynasty: stewart_dynasty
+    father: sco_robert_ii
+    mother: sco_elizabeth_mure
+    religion: catholic
+    culture: scottish
+    tag: SCO
+  1420.9.3:
+    death: yes
+sco_margaret_drummond:
+  1340:
+    birth: perth #unknown
+    first_name: name_margaret
+    dynasty: drummond_dynasty
+    female: yes
+    religion: catholic
+    culture: scottish
+    tag: SCO
+  1364.2.20:
+    spouse: sco_david_ii
+  1369.3.20:
+    spouse: ---
+  1375.1.31:
+    death: yes
+sco_alexander_stuart:
+  1343:
+    birth: dunfermline #unknown
+    first_name: name_alexander
+    dynasty: stewart_dynasty
+    father: sco_robert_ii
+    mother: sco_elizabeth_mure
+    religion: catholic
+    culture: scottish
+    tag: SCO
+  1405.7.20:
+    death: yes
+sco_annabella_drummond:
+  1350:
+    birth: perth #unknown
+    first_name: annabella
+    dynasty: drummond_dynasty
+    female: yes
+    religion: catholic
+    culture: scottish
+    tag: SCO
+  1367.4:
+    spouse: sco_robert_iii_stuart
+  1401.10:
+    death: yes
+sco_david_stuart_of_strathearn:
+  1357:
+    birth: dunfermline #unknown
+    first_name: name_david
+    dynasty: stewart_dynasty
+    father: sco_robert_ii
+    mother: sco_euphemia_de_ross
+    religion: catholic
+    culture: scottish
+    tag: SCO
+  1386:
+    death: yes
+sco_walter_stuart_of_atholl:
+  1360:
+    birth: dunfermline #unknown
+    first_name: name_walter
+    dynasty: stewart_dynasty
+    father: sco_robert_ii
+    mother: sco_euphemia_de_ross
+    religion: catholic
+    culture: scottish
+    tag: SCO
+  1437.3.26:
+    death: yes
+sco_elizabeth_stuart_rob2:
+  1362:
+    birth: dunfermline #unknown
+    first_name: name_elizabeth
+    dynasty: stewart_dynasty
+    female: yes
+    father: sco_robert_ii
+    mother: sco_euphemia_de_ross
+    religion: catholic
+    culture: scottish
+    tag: SCO
+  1420:
+    death: yes
+sco_egidia_stuart:
+  1365:
+    birth: dunfermline #unknown
+    first_name: name_egidia
+    dynasty: stewart_dynasty
+    female: yes
+    father: sco_robert_ii
+    mother: sco_euphemia_de_ross
+    religion: catholic
+    culture: scottish
+    tag: SCO
+  1420:
+    death: yes
+sco_margaret_stuart_rob3:
+  1370:
+    birth: dunfermline #unknown
+    first_name: name_margaret
+    dynasty: stewart_dynasty
+    female: yes
+    father: sco_robert_iii_stuart
+    mother: sco_annabella_drummond
+    religion: catholic
+    culture: scottish
+    tag: SCO
+  1450:
+    death: yes
+sco_elizabeth_stuart_rob3:
+  1372:
+    birth: dunfermline #unknown
+    first_name: name_elizabeth
+    dynasty: stewart_dynasty
+    female: yes
+    father: sco_robert_iii_stuart
+    mother: sco_annabella_drummond
+    religion: catholic
+    culture: scottish
+    tag: SCO
+  1411:
+    death: yes
+sco_david_stuart_of_rothesay:
+  1378.10.24:
+    birth: dunfermline #unknown
+    first_name: name_elizabeth
+    dynasty: stewart_dynasty
+    father: sco_robert_iii_stuart
+    mother: sco_annabella_drummond
+    religion: catholic
+    culture: scottish
+    tag: SCO
+  1402.3.26:
+    death: yes
+sco_mary_stuart:
+  1380:
+    birth: dunfermline #unknown
+    first_name: name_mary
+    dynasty: stewart_dynasty
+    female: yes
+    father: sco_robert_iii_stuart
+    mother: sco_annabella_drummond
+    religion: catholic
+    culture: scottish
+    tag: SCO
+  1460:
     death: yes
 sco_james_i_stuart:
-  1394.12.10:
-    birth: edinburgh #TODO: Location guessed, check if better data is available
-    first_name: james
-    dynasty: stuart_dynasty
-    father: sco_robert_iii_stuart_1 #TODO: check if this makes sense
-    adm: 45
-    dip: 15
-    mil: 30
+  1394.7.25:
+    birth: dunfermline
+    first_name: name_james
+    dynasty: stewart_dynasty
+    father: sco_robert_iii_stuart
+    mother: sco_annabella_drummond
     religion: catholic
     culture: scottish
     tag: SCO
   1437.2.21:
     death: yes
-sco_james_i_stuart_1:
-  1376.1.1:
-    birth: edinburgh #TODO: Date and location guessed, check if better data is available
-    first_name: james
-    dynasty: stuart_dynasty
-    adm: 45
-    dip: 15
-    mil: 30
+sco_joan_beaufort:
+  1404:
+    birth: london
+    first_name: name_joanna
+    dynasty: beaufort_dynasty
+    female: yes
+    father: lan_john_beaufort
+    religion: catholic
+    culture: english
+    tag: ENG
+  1424.2.12:
+    spouse: sco_james_i_stuart
+    tag: SCO
+  1445.7.15:
+    death: yes
+sco_margaret_stuart_james1:
+  1424.12.25:
+    birth: perth
+    first_name: name_margaret
+    dynasty: stewart_dynasty
+    female: yes
+    father: sco_james_i_stuart
+    mother: sco_joan_beaufort
     religion: catholic
     culture: scottish
     tag: SCO
-  1437.2.20:
+  1445.8.16:
+    death: yes
+sco_margaret_stuart_james1:
+  1426.9:
+    birth: perth #unknown
+    first_name: isabella
+    dynasty: stewart_dynasty
+    female: yes
+    father: sco_james_i_stuart
+    mother: sco_joan_beaufort
+    religion: catholic
+    culture: scottish
+    tag: SCO
+  1499.3.5:
+    death: yes
+sco_joan_stuart_of_buchan:
+  1428:
+    birth: edinburgh #unknown
+    first_name: name_joanna
+    dynasty: stewart_dynasty
+    female: yes
+    father: sco_james_i_stuart
+    mother: sco_joan_beaufort
+    religion: catholic
+    culture: scottish
+    tag: SCO
+  1493.6.22:
     death: yes
 sco_james_ii_stuart:
   1430.10.16:
-    birth: edinburgh #TODO: Location guessed, check if better data is available
-    first_name: james
-    dynasty: stuart_dynasty
-    father: sco_james_i_stuart_1 #TODO: check if this makes sense
+    birth: edinburgh
+    first_name: name_james
+    dynasty: stewart_dynasty
+    father: sco_james_i_stuart
+    mother: sco_joan_beaufort
     adm: 45
     dip: 30
     mil: 30
@@ -483,41 +1171,69 @@ sco_james_ii_stuart:
     tag: SCO
   1460.8.3:
     death: yes
-sco_james_ii_stuart_1:
-  1407.1.1:
-    birth: edinburgh #TODO: Date and location guessed, check if better data is available
-    first_name: james
-    dynasty: stuart_dynasty
-    adm: 45
-    dip: 30
-    mil: 30
+sco_eleanor_stuart:
+  1433:
+    birth: edinburgh #unknown
+    first_name: name_eleanor
+    dynasty: stewart_dynasty
+    female: yes
+    father: sco_james_i_stuart
+    mother: sco_joan_beaufort
     religion: catholic
     culture: scottish
     tag: SCO
-  1460.8.3:
+  1480.11.20:
     death: yes
-sco_mary_van_egmond:
-  1434.1.1:
-    birth: edinburgh #TODO: Date and location guessed, check if better data is available
-    first_name: mary
+sco_mary_of_guelders:
+  1433.1.17:
+    birth: cuijk #Grave
+    first_name: name_mary
     dynasty: van_egmond_dynasty
     female: yes
     adm: 45
     dip: 45
     mil: 30
     religion: catholic
+    culture: low_franconian
+    tag: GEL
+  1449.7.3:
+    spouse: sco_james_ii_stuart
+    tag: SCO
+  1463.12.1:
+    death: yes
+sco_mary_stuart_of_buchan:
+  1435:
+    birth: edinburgh #unknown
+    first_name: name_mary
+    dynasty: stewart_dynasty
+    female: yes
+    father: sco_james_i_stuart
+    mother: sco_joan_beaufort
+    religion: catholic
     culture: scottish
     tag: SCO
-  1460.8.3:
+  1465.3.20:
     death: yes
-  1449.7.3:
-    spouse: sco_james_ii_stuart_1 #TODO: date guessed, see if better data is available
+sco_annabella_stuart:
+  1436:
+    birth: edinburgh #unknown
+    first_name: annabella
+    dynasty: stewart_dynasty
+    female: yes
+    father: sco_james_i_stuart
+    mother: sco_joan_beaufort
+    religion: catholic
+    culture: scottish
+    tag: SCO
+  1509:
+    death: yes
 sco_james_iii_stuart:
   1451.7.10:
-    birth: edinburgh #TODO: Location guessed, check if better data is available
-    first_name: james
-    dynasty: stuart_dynasty
-    father: sco_james_ii_stuart_1 #TODO: check if this makes sense
+    birth: stirling
+    first_name: name_james
+    dynasty: stewart_dynasty
+    father: sco_james_ii_stuart
+    mother: sco_mary_of_guelders
     adm: 0
     dip: 30
     mil: 30
@@ -526,25 +1242,91 @@ sco_james_iii_stuart:
     tag: SCO
   1488.6.11:
     death: yes
-sco_james_iii_stuart_1:
-  1430.1.1:
-    birth: edinburgh #TODO: Date and location guessed, check if better data is available
-    first_name: james
-    dynasty: stuart_dynasty
-    adm: 0
-    dip: 30
-    mil: 30
+sco_mary_stuart_of_arran:
+  1453.5.13:
+    birth: stirling
+    first_name: name_mary
+    dynasty: stewart_dynasty
+    female: yes
+    father: sco_james_ii_stuart
+    mother: sco_mary_of_guelders
     religion: catholic
     culture: scottish
     tag: SCO
-  1488.6.12:
+  1488.5:
+    death: yes
+sco_alexander_stuart_of_albany:
+  1454:
+    birth: stirling #unknown
+    first_name: name_alexander
+    dynasty: stewart_dynasty
+    father: sco_james_ii_stuart
+    mother: sco_mary_of_guelders
+    religion: catholic
+    culture: scottish
+    tag: SCO
+  1485.8.7:
+    death: yes
+sco_david_stuart_of_moray:
+  1455:
+    birth: stirling #unknown
+    first_name: name_david
+    dynasty: stewart_dynasty
+    father: sco_james_ii_stuart
+    mother: sco_mary_of_guelders
+    religion: catholic
+    culture: scottish
+    tag: SCO
+  1457.7.18:
+    death: yes
+sco_margaret_stuart_james2:
+  1456:
+    birth: stirling #unknown
+    first_name: name_margaret
+    dynasty: stewart_dynasty
+    female: yes
+    father: sco_james_ii_stuart
+    mother: sco_mary_of_guelders
+    religion: catholic
+    culture: scottish
+    tag: SCO
+  1480:
+    death: yes
+sco_margaret_of_denmark:
+  1456.6.23:
+    birth: kobenhavn
+    first_name: name_margaret
+    dynasty: oldenburg_dynasty
+    female: yes
+    father: dan_christian_i_von_oldenburg
+    mother: dan_dorothea_von_hohenzollern
+    religion: catholic
+    culture: danish
+    tag: DAN
+  1469.7:
+    spouse: sco_james_iii_stuart
+    tag: SCO
+  1486.7.14:
+    death: yes
+sco_john_stuart:
+  1457:
+    birth: stirling #unknown
+    first_name: name_john
+    dynasty: stewart_dynasty
+    father: sco_james_ii_stuart
+    mother: sco_mary_of_guelders
+    religion: catholic
+    culture: scottish
+    tag: SCO
+  1479:
     death: yes
 sco_james_iv_stuart:
   1473.3.17:
-    birth: edinburgh #TODO: Location guessed, check if better data is available
-    first_name: james
-    dynasty: stuart_dynasty
-    father: sco_james_iii_stuart_1 #TODO: check if this makes sense
+    birth: stirling
+    first_name: name_james
+    dynasty: stewart_dynasty
+    father: sco_james_iii_stuart
+    mother: sco_margaret_of_denmark
     adm: 45
     dip: 60
     mil: 15
@@ -553,25 +1335,53 @@ sco_james_iv_stuart:
     tag: SCO
   1513.9.9:
     death: yes
-sco_james_iv_stuart_1:
-  1458.1.1:
-    birth: edinburgh #TODO: Date and location guessed, check if better data is available
-    first_name: james
-    dynasty: stuart_dynasty
-    adm: 45
-    dip: 60
-    mil: 15
+sco_james_stuart_of_ross:
+  1476.3:
+    birth: stirling #unknown
+    first_name: name_james
+    dynasty: stewart_dynasty
+    father: sco_james_iii_stuart
+    mother: sco_margaret_of_denmark
     religion: catholic
     culture: scottish
     tag: SCO
-  1513.9.10:
+  1504.1:
+    death: yes
+sco_john_stuart_of_mar:
+  1479.12:
+    birth: dunfermline
+    first_name: name_john
+    dynasty: stewart_dynasty
+    father: sco_james_iii_stuart
+    mother: sco_margaret_of_denmark
+    religion: catholic
+    culture: scottish
+    tag: SCO
+  1503.3.11:
+    death: yes
+sco_margaret_tudor:
+  1489.11.29:
+    birth: london
+    first_name: name_margaret
+    dynasty: tudor_dynasty
+    female: yes
+    father: eng_henry_vii_tudor
+    mother: eng_elizabeth_of_york
+    religion: catholic
+    culture: english
+    tag: ENG
+  1503.8.8:
+    spouse: sco_james_iv_stuart
+    tag: SCO
+  1541.10.18:
     death: yes
 sco_james_v_stuart:
   1512.4.10:
-    birth: edinburgh #TODO: Location guessed, check if better data is available
-    first_name: james
-    dynasty: stuart_dynasty
-    father: sco_james_iv_stuart_1 #TODO: check if this makes sense
+    birth: linlithgow
+    first_name: name_james
+    dynasty: stewart_dynasty
+    father: sco_james_iv_stuart
+    mother: sco_margaret_tudor
     adm: 45
     dip: 15
     mil: 30
@@ -580,26 +1390,80 @@ sco_james_v_stuart:
     tag: SCO
   1542.12.14:
     death: yes
-sco_james_v_stuart_1:
-  1483.1.1:
-    birth: edinburgh #TODO: Date and location guessed, check if better data is available
-    first_name: james
-    dynasty: stuart_dynasty
-    adm: 45
-    dip: 15
-    mil: 30
+sco_alexander_stuart_of_ross:
+  1514.4.30:
+    birth: stirling
+    first_name: name_alexander
+    dynasty: stewart_dynasty
+    father: sco_james_iv_stuart
+    mother: sco_margaret_tudor
     religion: catholic
     culture: scottish
     tag: SCO
-  1542.12.15:
+  1515.12.18:
+    death: yes
+sco_mary_of_guise:
+  1515.11.22:
+    birth: bar_le_duc
+    first_name: name_mary
+    dynasty: guise_dynasty
+    female: yes
+    religion: catholic
+    culture: french
+    tag: BAR
+  1538.6.18:
+    spouse: sco_james_v_stuart
+    tag: SCO
+  1560.6.11:
+    death: yes
+sco_madeleine_of_valois:
+  1520.8.10:
+    birth: corbeil #Saint-Germain-en-Laye
+    first_name: name_madeleine
+    dynasty: valois_dynasty
+    female: yes
+    religion: catholic
+    culture: french
+    tag: FRA
+  1537.1.1:
+    spouse: sco_james_v_stuart
+    tag: SCO
+  1537.7.7:
+    death: yes
+sco_james_hepburn:
+  1534:
+    birth: edinburgh
+    first_name: name_james
+    dynasty: hepburn_dynasty
+    religion: catholic
+    culture: scottish
+    tag: SCO
+    estate: nobles_estate
+  1567.5.15:
+    spouse: sco_mary_i_stuart
+    estate: ---
+  1578.4.14:
+    death: yes
+sco_james_stuart_of_rothesay:
+  1540.5.22:
+    birth: stirling
+    first_name: name_james
+    dynasty: stewart_dynasty
+    father: sco_james_v_stuart
+    mother: sco_mary_of_guise
+    religion: catholic
+    culture: scottish
+    tag: SCO
+  1541.4.21:
     death: yes
 sco_mary_i_stuart:
   1542.12.8:
-    birth: edinburgh #TODO: Location guessed, check if better data is available
-    first_name: mary
-    dynasty: stuart_dynasty
+    birth: linlithgow
+    first_name: name_mary
+    dynasty: stewart_dynasty
     female: yes
-    father: sco_james_v_stuart_1 #TODO: check if this makes sense
+    father: sco_james_v_stuart
+    mother: sco_mary_of_guise
     adm: 30
     dip: 45
     mil: 45
@@ -608,178 +1472,30 @@ sco_mary_i_stuart:
     tag: SCO
   1587.2.8:
     death: yes
-sco_mary_i_stuart_1:
-  1512.1.1:
-    birth: edinburgh #TODO: Date and location guessed, check if better data is available
-    first_name: mary
+sco_henry_stuart_of_darnley:
+  1546:
+    birth: leeds
+    first_name: name_henry
     dynasty: stuart_dynasty
-    female: yes
-    adm: 30
-    dip: 45
-    mil: 45
-    religion: calvinist
+    religion: catholic
     culture: scottish
     tag: SCO
-  1567.7.15:
-    death: yes
-sco_james_vi_stuart:
-  1566.6.19:
-    birth: edinburgh #TODO: Location guessed, check if better data is available
-    first_name: james
-    dynasty: stuart_dynasty
-    father: sco_mary_i_stuart_1 #TODO: check if this makes sense
-    adm: 30
-    dip: 45
-    mil: 60
-    religion: calvinist
-    culture: scottish
-    tag: SCO
-  1625.3.27:
-    death: yes
-sco_james_vi_stuart_1:
-  1537.1.1:
-    birth: edinburgh #TODO: Date and location guessed, check if better data is available
-    first_name: james
-    dynasty: stuart_dynasty
-    adm: 30
-    dip: 45
-    mil: 60
-    religion: calvinist
-    culture: scottish
-    tag: SCO
-  1625.3.28:
-    death: yes
-sco_charles_i_stuart:
-  1600.11.19:
-    birth: edinburgh #TODO: Location guessed, check if better data is available
-    first_name: charles
-    dynasty: stuart_dynasty
-    father: sco_james_vi_stuart_1 #TODO: check if this makes sense
-    adm: 30
-    dip: 15
-    mil: 60
-    religion: calvinist
-    culture: scottish
-    tag: SCO
-  1649.1.30:
-    death: yes
-sco_charles_i_stuart_1:
-  1595.1.1:
-    birth: edinburgh #TODO: Date and location guessed, check if better data is available
-    first_name: charles
-    dynasty: stuart_dynasty
-    adm: 30
-    dip: 15
-    mil: 60
-    religion: calvinist
-    culture: scottish
-    tag: SCO
-  1649.1.30:
-    death: yes
-sco_charles_ii_stuart:
-  1630.5.29:
-    birth: edinburgh #TODO: Location guessed, check if better data is available
-    first_name: charles
-    dynasty: stuart_dynasty
-    father: sco_charles_i_stuart_1 #TODO: check if this makes sense
-    adm: 60
-    dip: 45
-    mil: 75
-    religion: calvinist
-    culture: scottish
-    tag: SCO
-  1685.2.6:
+    estate: nobles_estate
+  1565.7.29:
+    spouse: sco_mary_i_stuart
+    estate: ---
+  1567.2.10:
     death: yes
 sco_alexander_leslie:
-  1619.1.1:
-    birth: edinburgh #TODO: Date and location guessed, check if better data is available
-    first_name: alexander
-    dynasty: leslie_dynasty
+  1580:
+    birth: edinburgh #unknown
+    first_name: name_alexander
+    last_name: leslie
     adm: 60
     dip: 45
     mil: 75
     religion: calvinist
     culture: scottish
     tag: SCO
-  1660.4.24:
-    death: yes
-sco_charles_ii_stuart_1:
-  1630.1.1:
-    birth: edinburgh #TODO: Date and location guessed, check if better data is available
-    first_name: charles
-    dynasty: stuart_dynasty
-    adm: 0
-    dip: 45
-    mil: 45
-    religion: calvinist
-    culture: scottish
-    tag: SCO
-  1685.2.6:
-    death: yes
-sco_james_vii_stuart:
-  1633.10.14:
-    birth: edinburgh #TODO: Location guessed, check if better data is available
-    first_name: james
-    dynasty: stuart_dynasty
-    father: sco_charles_ii_stuart_1 #TODO: check if this makes sense
-    adm: 15
-    dip: 45
-    mil: 45
-    religion: calvinist
-    culture: scottish
-    tag: SCO
-  1701.9.16:
-    death: yes
-sco_james_vii_stuart_1:
-  1655.1.1:
-    birth: edinburgh #TODO: Date and location guessed, check if better data is available
-    first_name: james
-    dynasty: stuart_dynasty
-    adm: 15
-    dip: 45
-    mil: 45
-    religion: calvinist
-    culture: scottish
-    tag: SCO
-  1688.2.15:
-    death: yes
-sco_william_iii_van_oranje:
-  1658.1.1:
-    birth: edinburgh #TODO: Date and location guessed, check if better data is available
-    first_name: william
-    dynasty: van_oranje_dynasty
-    adm: 45
-    dip: 75
-    mil: 75
-    religion: calvinist
-    culture: scottish
-    tag: SCO
-  1701.9.7:
-    death: yes
-sco_james_viii_stuart:
-  1671.1.1:
-    birth: edinburgh #TODO: Date and location guessed, check if better data is available
-    first_name: james
-    dynasty: stuart_dynasty
-    adm: 45
-    dip: 75
-    mil: 60
-    religion: calvinist
-    culture: scottish
-    tag: SCO
-  1702.3.20:
-    death: yes
-sco_anne_stuart:
-  1672.1.1:
-    birth: edinburgh #TODO: Date and location guessed, check if better data is available
-    first_name: anne
-    dynasty: stuart_dynasty
-    female: yes
-    adm: 45
-    dip: 75
-    mil: 60
-    religion: calvinist
-    culture: scottish
-    tag: SCO
-  3000.1.1:
+  1661.4.4:
     death: yes

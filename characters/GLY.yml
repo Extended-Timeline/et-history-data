@@ -1,0 +1,124 @@
+gly_fergus:
+  1100:
+    birth: kirkcudbright #unknown
+    first_name: name_fergus
+    dynasty: galloway_dynasty
+    religion: catholic
+    culture: norse_gael
+    tag: GLY
+  1161.5.12:
+    death: yes
+gly_uhtred:
+  1120:
+    birth: kirkcudbright #unknown
+    first_name: uhtred
+    dynasty: galloway_dynasty
+    father: gly_fergus
+    religion: catholic
+    culture: norse_gael
+    tag: GLY
+  1174.9.22:
+    death: yes
+gly_gilla_brigte:
+  1126:
+    birth: kirkcudbright #unknown
+    first_name: name_gilbert
+    dynasty: galloway_dynasty
+    father: gly_fergus
+    religion: catholic
+    culture: norse_gael
+    tag: GLY
+  1185:
+    death: yes
+gly_lochlann:
+  1150:
+    birth: kirkcudbright #unknown
+    first_name: name_roland
+    dynasty: galloway_dynasty
+    father: gly_uhtred
+    religion: catholic
+    culture: norse_gael
+    tag: GLY
+  1200.12.12:
+    death: yes
+gly_fergus_jr:
+  1160:
+    birth: kirkcudbright #unknown
+    first_name: name_fergus
+    dynasty: galloway_dynasty
+    father: gly_uhtred
+    religion: catholic
+    culture: norse_gael
+    tag: GLY
+  1215:
+    death: yes
+gly_alan:
+  1190:
+    birth: kirkcudbright #unknown
+    first_name: name_alan
+    dynasty: galloway_dynasty
+    religion: catholic
+    culture: norse_gael
+    tag: GLY
+  1234:
+    death: yes
+gly_margaret_of_huntingdon:
+  1194:
+    birth: huntingdon
+    first_name: name_margaret
+    dynasty: dunkeld_dynasty
+    female: yes
+    father: sco_david_dunkeld
+    religion: catholic
+    culture: scottish
+    tag: ENG
+  1209:
+    spouse: gly_alan
+    tag: GLY
+  1228:
+    death: yes
+gly_helen:
+  1205:
+    birth: ayr
+    first_name: name_helen
+    dynasty: galloway_dynasty
+    female: yes
+    father: gly_alan
+    religion: catholic
+    culture: norse_gael
+    tag: GLY
+  1235.7:
+    tag: SCO
+  1270:
+    death: yes
+gly_thomas:
+  1208:
+    birth: kirkcudbright #unknown
+    first_name: name_thomas
+    dynasty: galloway_dynasty
+    father: gly_alan
+    religion: catholic
+    culture: norse_gael
+    tag: GLY
+    traits:
+      bastard: yes
+  1235.7:
+    tag: SCO
+  1296:
+    death: yes
+gly_dervorguilla:
+  1210:
+    birth: kirkcudbright #unknown
+    first_name: name_derval
+    dynasty: galloway_dynasty
+    female: yes
+    father: gly_alan
+    mother: sco_margaret_of_huntingdon
+    religion: catholic
+    culture: norse_gael
+    tag: GLY
+  1223:
+    spouse: sco_john_balliol_of_durham
+    tag: SCO
+  1290.1.28:
+    death: yes

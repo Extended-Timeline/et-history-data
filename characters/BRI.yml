@@ -347,6 +347,21 @@ bri_konan_iv_de_penthievre:
     tag: BRI
   1171.2.20:
     death: yes
+bri_geoffrey_ii_plantagenet:
+  1158.9.23:
+    birth: london #unknown
+    first_name: name_godfrey
+    dynasty: plantagenet_dynasty
+    father: eng_henry_ii_curtmantle
+    mother: eng_eleanor_of_aquitaine
+    religion: catholic
+    culture: english
+    tag: ENG
+  1181.7:
+    spouse: bri_konstanza_de_penthievre
+    tag: BRI
+  1186.8.19:
+    death: yes
 bri_konstanza_de_penthievre:
   1161.6.12:
     birth: nantes #TODO: Location guessed, check if better data is available
@@ -354,20 +369,6 @@ bri_konstanza_de_penthievre:
     dynasty: de_penthievre_dynasty
     female: yes
     father: bri_konan_iv_de_penthievre #TODO: check if this makes sense
-    adm: 45
-    dip: 30
-    mil: 60
-    religion: catholic
-    culture: breton
-    tag: BRI
-  1201.9.5:
-    death: yes
-bri_konstanza_de_penthievre_1:
-  1141.1.1:
-    birth: nantes #TODO: Date and location guessed, check if better data is available
-    first_name: konstanza
-    dynasty: de_penthievre_dynasty
-    female: yes
     adm: 45
     dip: 30
     mil: 60

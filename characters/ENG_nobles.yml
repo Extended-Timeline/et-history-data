@@ -1,0 +1,318 @@
+eng_william_warenne_sr:
+  1170:
+    birth: hastings #Surrey
+    first_name: name_william
+    dynasty: warenne_dynasty
+    religion: catholic
+    culture: english
+    tag: ENG
+    estate: nobles_estate
+  1240.5.27:
+    death: yes
+eng_alix_lusignan:
+  1229:
+    birth: aubusson
+    first_name: name_alice
+    dynasty: lusignan_dynasty
+    female: yes
+    father: mrc_hugues_x_lusignan
+    religion: catholic
+    culture: poitevin
+    tag: MRC
+    estate: nobles_estate
+  1247:
+    spouse: eng_john_warenne
+    tag: ENG
+  1256:
+    death: yes
+eng_isabel_warenne:
+  1228:
+    birth: hastings #Surrey
+    first_name: isabel
+    dynasty: warenne_dynasty
+    father: eng_william_warenne_sr
+    religion: catholic
+    culture: english
+    tag: ENG
+    estate: nobles_estate
+  1282.11.23:
+    death: yes
+eng_john_warenne:
+  1231:
+    birth: hastings #Surrey
+    first_name: name_john
+    dynasty: warenne_dynasty
+    father: eng_william_warenne_sr
+    adm: 36
+    dip: 60
+    mil: 53
+    religion: catholic
+    culture: english
+    tag: ENG
+    estate: nobles_estate
+  1304.9.27:
+    death: yes
+eng_henry_percy_sr:
+  1235:
+    birth: hereford
+    first_name: name_henry
+    dynasty: percy_dynasty
+    religion: catholic
+    culture: northumbrian
+    tag: ENG
+    estate: nobles_estate
+  1272.10.29:
+    death: yes
+eng_eleanor_warenne:
+  1251:
+    birth: hastings #Surrey
+    first_name: name_eleanor
+    dynasty: warenne_dynasty
+    female: yes
+    father: eng_john_warenne
+    mother: eng_alix_lusignan
+    religion: catholic
+    culture: english
+    tag: ENG
+    estate: nobles_estate
+  1270:
+    spouse: eng_henry_percy_sr
+  1282:
+    death: yes
+eng_william_warenne:
+  1256.2.9:
+    birth: hastings #Surrey
+    first_name: name_william
+    dynasty: warenne_dynasty
+    father: eng_john_warenne
+    mother: eng_alix_lusignan
+    religion: catholic
+    culture: english
+    tag: ENG
+    estate: nobles_estate
+  1286.12.15:
+    death: yes
+eng_henry_percy:
+  1273.3.25:
+    birth: chichester
+    first_name: name_henry
+    dynasty: percy_dynasty
+    father: eng_henry_percy_sr
+    mother: eng_eleanor_warenne
+    adm: 51
+    dip: 37
+    mil: 74
+    religion: catholic
+    culture: northumbrian
+    tag: ENG
+  1314.10.1:
+    death: yes
+eng_john_warenne_ii:
+  1286.6.24:
+    birth: hastings #Surrey
+    first_name: name_john
+    dynasty: warenne_dynasty
+    father: eng_william_warenne
+    adm: 59
+    dip: 70
+    mil: 69
+    religion: catholic
+    culture: english
+    tag: ENG
+    estate: nobles_estate
+  1347.6:
+    death: yes
+eng_alice_warenne:
+  1287.6.15:
+    birth: hastings #Surrey
+    first_name: name_alice
+    dynasty: warenne_dynasty
+    female: yes
+    father: eng_william_warenne
+    religion: catholic
+    culture: english
+    tag: ENG
+    estate: nobles_estate
+  1338.5.23:
+    death: yes
+eng_henry_percy_ii:
+  1301.2.6:
+    birth: alnwick
+    first_name: name_henry
+    dynasty: percy_dynasty
+    father: eng_henry_percy
+    mother: eng_eleanor_fitzalan
+    adm: 45
+    dip: 44
+    mil: 50
+    religion: catholic
+    culture: northumbrian
+    tag: ENG
+    estate: nobles_estate
+  1352.2.26:
+    death: yes
+eng_idonia_clifford:
+  1303:
+    birth: alnwick
+    first_name: name_idun
+    female: yes
+    adm: 43
+    dip: 36
+    mil: 6
+    religion: catholic
+    culture: northumbrian
+    tag: ENG
+    estate: nobles_estate
+  1318:
+    spouse: eng_henry_percy_ii
+  1360:
+    death: yes
+eng_william_percy:
+  1303:
+    birth: alnwick
+    first_name: name_william
+    dynasty: percy_dynasty
+    father: eng_henry_percy
+    mother: eng_eleanor_fitzalan
+    religion: catholic
+    culture: northumbrian
+    tag: ENG
+    estate: nobles_estate
+  1355:
+    death: yes
+eng_margaret_percy:
+  1320:
+    birth: alnwick
+    first_name: name_margaret
+    dynasty: percy_dynasty
+    female: yes
+    father: eng_henry_percy_ii
+    mother: eng_idonia_clifford
+    adm: 43
+    dip: 36
+    mil: 14
+    religion: catholic
+    culture: northumbrian
+    tag: ENG
+    estate: nobles_estate
+  1375:
+    death: yes
+eng_henry_percy_iii:
+  1321:
+    birth: alnwick
+    first_name: name_henry
+    dynasty: percy_dynasty
+    father: eng_henry_percy_ii
+    mother: eng_idonia_clifford
+    adm: 27
+    dip: 51
+    mil: 69
+    religion: catholic
+    culture: northumbrian
+    tag: ENG
+    estate: nobles_estate
+  1368.5.18:
+    death: yes
+eng_roger_percy:
+  1324:
+    birth: alnwick
+    first_name: name_roger
+    dynasty: percy_dynasty
+    father: eng_henry_percy_ii
+    mother: eng_idonia_clifford
+    adm: 29
+    dip: 35
+    mil: 35
+    religion: catholic
+    culture: northumbrian
+    tag: ENG
+    estate: nobles_estate
+  1370:
+    death: yes
+eng_isabel_percy:
+  1326:
+    birth: alnwick
+    first_name: isabel
+    dynasty: percy_dynasty
+    female: yes
+    father: eng_henry_percy_ii
+    mother: eng_idonia_clifford
+    adm: 15
+    dip: 16
+    mil: 8
+    religion: catholic
+    culture: northumbrian
+    tag: ENG
+    estate: nobles_estate
+  1390:
+    death: yes
+eng_thomas_percy:
+  1328:
+    birth: alnwick
+    first_name: name_thomas
+    dynasty: percy_dynasty
+    father: eng_henry_percy_ii
+    mother: eng_idonia_clifford
+    adm: 19
+    dip: 40
+    mil: 6
+    religion: catholic
+    culture: northumbrian
+    tag: ENG
+    estate: clergy_estate
+  1369.8.8:
+    death: yes
+eng_maud_percy:
+  1335:
+    birth: alnwick
+    first_name: maud
+    dynasty: percy_dynasty
+    female: yes
+    father: eng_henry_percy_ii
+    mother: eng_idonia_clifford
+    religion: catholic
+    culture: northumbrian
+    tag: ENG
+    estate: nobles_estate
+  1379:
+    death: yes
+eng_eleanor_percy:
+  1336:
+    birth: alnwick
+    first_name: name_eleanor
+    dynasty: percy_dynasty
+    female: yes
+    father: eng_henry_percy_ii
+    mother: eng_idonia_clifford
+    religion: catholic
+    culture: northumbrian
+    tag: ENG
+    estate: nobles_estate
+  1370:
+    death: yes
+eng_henry_percy_iv:
+  1341.11.10:
+    birth: alnwick
+    first_name: name_henry
+    dynasty: percy_dynasty
+    father: eng_henry_percy_iii
+    mother: eng_mary_lancaster
+    religion: catholic
+    culture: northumbrian
+    tag: ENG
+    estate: nobles_estate
+  1408.2.20:
+    death: yes
+eng_thomas_percy_ii:
+  1343:
+    birth: alnwick
+    first_name: name_thomas
+    dynasty: percy_dynasty
+    father: eng_henry_percy_iii
+    mother: eng_mary_lancaster
+    religion: catholic
+    culture: northumbrian
+    tag: ENG
+    estate: nobles_estate
+  1403.7.23:
+    death: yes

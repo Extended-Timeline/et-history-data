@@ -1,0 +1,405 @@
+sco_robert_de_brus_1st_lord_of_annandale:
+  1078:
+    birth: cherbourg # brix
+    first_name: name_robert
+    dynasty: bruce_dynasty
+    religion: catholic
+    culture: norman
+    tag: SCO
+    estate: nobles_estate
+  1141.5.11:
+    death: yes
+sco_walter_stewart:
+  1090:
+    birth: edinburgh
+    first_name: name_walter
+    dynasty: stewart_dynasty
+    religion: catholic
+    culture: norman
+    tag: SCO
+    estate: nobles_estate
+  1177:
+    death: yes
+sco_alan_stewart:
+  1120:
+    birth: edinburgh
+    first_name: name_alan
+    dynasty: stewart_dynasty
+    father: sco_walter_stewart
+    religion: catholic
+    culture: scottish
+    tag: SCO
+    estate: nobles_estate
+  1204:
+    death: yes
+sco_robert_de_brus_2nd_lord_of_annandale:
+  1140:
+    birth: ayr
+    first_name: name_robert
+    dynasty: bruce_dynasty
+    father: sco_robert_de_brus_1st_lord_of_annandale
+    religion: catholic
+    culture: scottish
+    tag: SCO
+    estate: nobles_estate
+  1194:
+    death: yes
+sco_william_comyn_i:
+  1163:
+    birth: aberdeen
+    first_name: name_william
+    dynasty: comyn_dynasty
+    religion: catholic
+    culture: scottish
+    tag: SCO
+    estate: nobles_estate
+  1233:
+    death: yes
+sco_christina_of_galloway:
+  1170:
+    birth: kirkcudbright
+    first_name: name_christine
+    dynasty: galloway_dynasty
+    female: yes
+    father: gly_uhtred
+    religion: catholic
+    culture: norse_gael
+    tag: GLY
+  1190:
+    spouse: sco_william_de_brus_3rd_lord_of_annandale
+    tag: SCO
+    estate: nobles_estate
+  1230:
+    death: yes
+sco_william_de_brus_3rd_lord_of_annandale:
+  1172:
+    birth: ayr
+    first_name: name_william
+    dynasty: bruce_dynasty
+    father: sco_robert_de_brus_2nd_lord_of_annandale
+    religion: catholic
+    culture: scottish
+    tag: SCO
+    estate: nobles_estate
+  1212.7.16:
+    death: yes
+sco_walter_stewart_3rd:
+  1180:
+    birth: edinburgh
+    first_name: name_walter
+    dynasty: stewart_dynasty
+    father: sco_alan_stewart
+    religion: catholic
+    culture: scottish
+    tag: SCO
+    estate: nobles_estate
+  1246:
+    death: yes
+sco_richard_comyn:
+  1190:
+    birth: badenoch
+    first_name: name_richard
+    dynasty: comyn_dynasty
+    father: sco_william_comyn_i
+    religion: catholic
+    culture: scottish
+    tag: SCO
+    estate: nobles_estate
+  1244:
+    death: yes
+sco_robert_de_brus_4th_lord_of_annandale:
+  1195:
+    birth: ayr
+    first_name: name_robert
+    dynasty: bruce_dynasty
+    father: sco_william_de_brus_3rd_lord_of_annandale
+    mother: sco_christina_of_galloway
+    religion: catholic
+    culture: scottish
+    tag: SCO
+    estate: nobles_estate
+  1232:
+    death: yes
+sco_isobel_of_huntingdon:
+  1199:
+    birth: huntingdon
+    first_name: isobel
+    dynasty: dunkeld_dynasty
+    father: sco_david_dunkeld
+    religion: catholic
+    culture: english
+    tag: ENG
+    estate: nobles_estate
+  1214:
+    spouse: sco_robert_de_brus_4th_lord_of_annandale
+    tag: SCO
+  1251:
+    death: yes
+sco_john_balliol_of_durham:
+  1205:
+    birth: kirkcudbright #unknown
+    first_name: name_john
+    dynasty: balliol_dynasty
+    adm: 69
+    dip: 28
+    mil: 26
+    religion: catholic
+    culture: northumbrian
+    tag: SCO
+    estate: nobles_estate
+  1249:
+    nickname: nick_the_elder
+  1268.10.25:
+    death: yes
+sco_alexander_stewart:
+  1210:
+    birth: edinburgh
+    first_name: name_alexander
+    dynasty: stewart_dynasty
+    father: sco_walter_stewart_3rd
+    religion: catholic
+    culture: scottish
+    tag: SCO
+    estate: nobles_estate
+  1282:
+    death: yes
+sco_robert_de_brus_5th_lord_of_annandale:
+  1215:
+    birth: ayr
+    first_name: name_robert
+    dynasty: bruce_dynasty
+    father: sco_robert_de_brus_4th_lord_of_annandale
+    mother: sco_isobel_of_huntingdon
+    religion: catholic
+    culture: scottish
+    tag: SCO
+    estate: nobles_estate
+  1295.3.31:
+    death: yes
+sco_john_comyn_i_of_badenoch:
+  1215:
+    birth: badenoch
+    first_name: name_john
+    dynasty: comyn_dynasty
+    father: sco_richard_comyn
+    religion: catholic
+    culture: scottish
+    tag: SCO
+    estate: nobles_estate
+  1275:
+    death: yes
+sco_alexander_comyn_i:
+  1218:
+    birth: aberdeen
+    first_name: name_alexander
+    dynasty: comyn_dynasty
+    father: sco_william_comyn_i
+    religion: catholic
+    culture: scottish
+    tag: SCO
+    estate: nobles_estate
+  1289:
+    death: yes
+sco_robert_de_brus_6th_lord_of_annandale:
+  1243.6:
+    birth: prittlewell #Writtle
+    first_name: name_robert
+    dynasty: bruce_dynasty
+    father: sco_robert_de_brus_5th_lord_of_annandale
+    religion: catholic
+    culture: english
+    tag: SCO
+    estate: nobles_estate
+  1304.4:
+    death: yes
+sco_richard_de_brus:
+  1245:
+    birth: prittlewell # writtle
+    first_name: name_richard
+    dynasty: bruce_dynasty
+    father: sco_robert_de_brus_5th_lord_of_annandale
+    religion: catholic
+    culture: english
+    tag: SCO
+    estate: nobles_estate
+  1287:
+    death: yes
+sco_mary_balliol:
+  1250:
+    birth: kirkcudbright
+    first_name: name_mary
+    dynasty: balliol_dynasty
+    father: sco_john_balliol_of_durham
+    religion: catholic
+    culture: scottish
+    tag: SCO
+    estate: nobles_estate
+  1270:
+    spouse: sco_john_comyn_ii_of_badenoch
+  1310:
+    death: yes
+sco_john_comyn_ii_of_badenoch:
+  1252:
+    birth: badenoch
+    first_name: name_john
+    dynasty: comyn_dynasty
+    father: sco_john_comyn_i_of_badenoch
+    religion: catholic
+    culture: scottish
+    tag: SCO
+    estate: nobles_estate
+  1302:
+    death: yes
+sco_alexander_comyn_ii:
+  1258:
+    birth: aberdeen
+    first_name: name_alexander
+    dynasty: comyn_dynasty
+    father: sco_alexander_comyn_i
+    religion: catholic
+    culture: scottish
+    tag: SCO
+    estate: nobles_estate
+  1308:
+    death: yes
+sco_james_stewart:
+  1260:
+    birth: edinburgh
+    first_name: name_james
+    dynasty: stewart_dynasty
+    father: sco_alexander_stewart
+    religion: catholic
+    culture: scottish
+    tag: SCO
+    estate: nobles_estate
+  1309.7.16:
+    death: yes
+sco_william_wallace:
+  1270:
+    birth: paisley #Elderslie
+    first_name: name_william
+    dynasty: wallace_dynasty
+    adm: 60
+    dip: 40
+    mil: 80
+    religion: catholic
+    culture: scottish
+    tag: SCO
+    estate: nobles_estate
+  1305.8.23:
+    death: yes
+sco_john_de_soules:
+  1270:
+    birth: kirkcudbright #unknown
+    first_name: name_john
+    dynasty: soules_dynasty
+    religion: catholic
+    culture: scottish
+    tag: SCO
+    estate: nobles_estate
+  1310:
+    death: yes
+sco_john_comyn_iii_of_badenoch:
+  1274.11.1:
+    birth: badenoch
+    first_name: name_john
+    dynasty: comyn_dynasty
+    father: sco_john_comyn_ii_of_badenoch
+    mother: sco_mary_balliol
+    religion: catholic
+    culture: scottish
+    tag: SCO
+    estate: nobles_estate
+  1306.2.10:
+    death: yes
+sco_richard_talbot:
+  1289:
+    birth: gloucester #?
+    first_name: name_richard
+    dynasty: talbot_dynasty
+    religion: catholic
+    culture: english
+    tag: ENG
+    estate: nobles_estate
+  1333.7.20:
+    tag: SBL
+  1356.1.20:
+    tag: ENG
+  1356.10.23:
+    death: yes
+sco_alice_de_comyn:
+  1289.11:
+    birth: badenoch #
+    first_name: name_alice
+    dynasty: comyn_dynasty
+    female: yes
+    father: sco_alexander_comyn_ii
+    religion: catholic
+    culture: scottish
+    tag: SCO
+    estate: nobles_estate
+  1333.7.20:
+    tag: SBL
+  1349.7.3:
+    death: yes
+sco_john_comyn_iv_of_badenoch:
+  1294:
+    birth: badenoch
+    first_name: name_john
+    dynasty: comyn_dynasty
+    father: sco_john_comyn_iii_of_badenoch
+    religion: catholic
+    culture: scottish
+    tag: SCO
+    estate: nobles_estate
+  1314.6.24:
+    death: yes
+sco_walter_stewart_6th:
+  1296.3.5:
+    birth: edinburgh
+    first_name: name_walter
+    dynasty: stewart_dynasty
+    father: sco_james_stewart
+    religion: catholic
+    culture: scottish
+    tag: SCO
+    estate: nobles_estate
+  1327.4.9:
+    death: yes
+sco_elizabeth_de_comyn:
+  1299.11.1:
+    birth: badenoch
+    first_name: name_elizabeth
+    dynasty: comyn_dynasty
+    female: yes
+    father: sco_john_comyn_iii_of_badenoch
+    religion: catholic
+    culture: scottish
+    tag: SCO
+    estate: nobles_estate
+  1326:
+    spouse: sco_richard_talbot
+    tag: ENG
+  1333.7.20:
+    tag: SBL
+  1356.1.20:
+    tag: ENG
+  1372.11.20:
+    death: yes
+sco_gilbert_talbot:
+  1332:
+    birth: gloucester #?
+    first_name: name_gilbert
+    dynasty: talbot_dynasty
+    father: sco_richard_talbot
+    mother: sco_elizabeth_de_comyn
+    religion: catholic
+    culture: english
+    tag: ENG
+    estate: nobles_estate
+  1333.7.20:
+    tag: SBL
+  1356.1.20:
+    tag: ENG
+  1387.4.24:
+    death: yes

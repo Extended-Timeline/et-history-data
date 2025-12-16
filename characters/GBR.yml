@@ -1,137 +1,239 @@
-gbr_anne_i_stuart:
-  1672.1.1:
-    birth: london #TODO: Date and location guessed, check if better data is available
-    first_name: anne
-    dynasty: stuart_dynasty
-    female: yes
+gbr_george_i_of_hanover:
+  1660.6.7:
+    birth: hanover
+    first_name: name_george
+    dynasty: von_hannover_dynasty
     adm: 45
-    dip: 75
-    mil: 60
-    religion: anglican
-    culture: english
-    tag: GBR
+    dip: 45
+    mil: 75
+    religion: lutheran
+    culture: lower_saxon
+    tag: HAN
   1714.8.1:
-    death: yes
-gbr_george_von_oldenburg:
-  1653.4.2:
-    birth: london #TODO: Location guessed, check if better data is available
-    first_name: george
-    dynasty: von_oldenburg_dynasty
-    adm: 15
-    dip: 15
-    mil: 15
-    religion: anglican
-    culture: english
     tag: GBR
-  1708.10.28:
+  1727.6.22:
     death: yes
-  1702.3.8:
-    spouse: gbr_anne_i_stuart #TODO: date guessed, see if better data is available
-gbr_sophia_i_von_wittelsbach:
-  1630.10.14:
-    birth: london #TODO: Location guessed, check if better data is available
-    first_name: sophia
-    dynasty: von_wittelsbach_dynasty
+gbr_sophia_dorothea_of_celle:
+  1666.9.15:
+    birth: celle
+    first_name: name_sophia.name_dorothy
+    dynasty: von_hannover_dynasty
     female: yes
-    father: gbr_anne_i_stuart #TODO: check if this makes sense
-    adm: 45
-    dip: 60
-    mil: 30
-    religion: anglican
-    culture: english
-    tag: GBR
-  1714.6.8:
+    religion: lutheran
+    culture: lower_saxon
+    tag: LUN
+  1682.11.21:
+    spouse: gbr_george_i_von_hannover
+    tag: HAN
+  1694.12.28:
+    spouse: ---
+  1726.11.13:
     death: yes
-gbr_george_i_von_hannover:
-  1660.5.28:
-    birth: london #TODO: Location guessed, check if better data is available
-    first_name: george
-    dynasty: von_hannover_dynasty
-    father: gbr_anne_i_stuart #TODO: check if this makes sense
-    adm: 45
-    dip: 45
-    mil: 75
-    religion: anglican
-    culture: english
-    tag: GBR
-  1727.6.11:
-    death: yes
-gbr_george_i_von_hannover_1:
-  1684.1.1:
-    birth: london #TODO: Date and location guessed, check if better data is available
-    first_name: george
-    dynasty: von_hannover_dynasty
-    adm: 45
-    dip: 45
-    mil: 75
-    religion: anglican
-    culture: english
-    tag: GBR
-  1727.6.11:
-    death: yes
-gbr_george_ii_von_hannover:
+gbr_george_ii_of_hanover:
   1683.11.9:
-    birth: london #TODO: Location guessed, check if better data is available
-    first_name: george
+    birth: hanover
+    first_name: name_george
     dynasty: von_hannover_dynasty
-    father: gbr_george_i_von_hannover_1 #TODO: check if this makes sense
+    father: gbr_george_i_von_hannover
+    mother: gbr_sophia_dorothea_of_celle
     adm: 60
     dip: 45
     mil: 60
+    religion: lutheran
+    culture: lower_saxon
+    tag: HAN
+  1714.8.1:
+    tag: GBR
+  1727.6.22:
     religion: anglican
     culture: english
-    tag: GBR
   1760.10.25:
     death: yes
-gbr_george_ii_von_hannover_1:
-  1697.1.1:
-    birth: london #TODO: Date and location guessed, check if better data is available
-    first_name: george
+gbr_sophia_dorothea_of_hanover:
+  1687.3.16:
+    birth: hanover
+    first_name: name_sophia.name_dorothy
     dynasty: von_hannover_dynasty
-    adm: 60
-    dip: 45
-    mil: 60
-    religion: anglican
-    culture: english
+    female: yes
+    father: gbr_george_i_von_hannover
+    mother: gbr_sophia_dorothea_of_celle
+    religion: lutheran
+    culture: lower_saxon
+    tag: HAN
+  1714.8.1:
     tag: GBR
-  1760.10.25:
+  1757.6.28:
     death: yes
-gbr_caroline_von_hohenzollern:
+gbr_caroline_of_ansbach:
   1683.3.1:
-    birth: london #TODO: Location guessed, check if better data is available
-    first_name: caroline
-    dynasty: von_hohenzollern_dynasty
+    birth: ansbach
+    first_name: name_caroline
+    dynasty: hohenzollern_dynasty
     female: yes
     adm: 60
     dip: 45
     mil: 45
-    religion: anglican
-    culture: english
+    religion: lutheran
+    culture: east_franconian
+    tag: ANS
+  1705.8.22:
+    spouse: gbr_george_ii_of_hanover
+    tag: HAN
+  1714.8.1:
     tag: GBR
   1737.11.20:
     death: yes
-  1727.6.11:
-    spouse: gbr_george_ii_von_hannover_1 #TODO: date guessed, see if better data is available
-gbr_frederick_i_von_hannover:
-  1707.2.1:
-    birth: london #TODO: Location guessed, check if better data is available
-    first_name: frederick
+gbr_frederick_of_hanover:
+  1707.1.31:
+    birth: hanover
+    first_name: name_frederick
     dynasty: von_hannover_dynasty
-    father: gbr_george_iv_von_hannover #TODO: check if this makes sense
+    father: gbr_george_ii_of_hanover
+    mother: gbr_caroline_of_ansbach
     adm: 45
     dip: 30
     mil: 45
+    religion: lutheran
+    culture: lower_saxon
+    tag: HAN
+  1714.8.1:
+    tag: GBR
+  1727.6.22:
+    religion: anglican
+    culture: english
+  1751.3.31:
+    death: yes
+gbr_anne_of_hanover:
+  1709.11.2:
+    birth: hanover
+    first_name: name_anna
+    dynasty: von_hannover_dynasty
+    female: yes
+    father: gbr_george_ii_of_hanover
+    mother: gbr_caroline_of_ansbach
+    religion: lutheran
+    culture: lower_saxon
+    tag: HAN
+  1714.8.1:
+    tag: GBR
+  1759.1.12:
+    death: yes
+gbr_amelia_sophia_of_hanover:
+  1711.6.10:
+    birth: hanover
+    first_name: name_amelia
+    dynasty: von_hannover_dynasty
+    female: yes
+    father: gbr_george_ii_of_hanover
+    mother: gbr_caroline_of_ansbach
+    religion: lutheran
+    culture: lower_saxon
+    tag: HAN
+  1714.8.1:
+    tag: GBR
+    culture: english
+  1786.11.11:
+    death: yes
+gbr_caroline_of_hanover:
+  1713.6.10:
+    birth: hanover
+    first_name: name_caroline
+    dynasty: von_hannover_dynasty
+    female: yes
+    father: gbr_george_ii_of_hanover
+    mother: gbr_caroline_of_ansbach
+    religion: lutheran
+    culture: lower_saxon
+    tag: HAN
+  1714.8.1:
+    tag: GBR
+    culture: english
+  1757.12.28:
+    death: yes
+gbr_george_william_of_hanover:
+  1717.11.13:
+    birth: london
+    first_name: name_george.name_william
+    dynasty: von_hannover_dynasty
+    father: gbr_george_ii_of_hanover
+    mother: gbr_caroline_of_ansbach
+    religion: lutheran
+    culture: english
+    tag: GBR
+  1718.2.17:
+    death: yes
+gbr_augusta_of_saxe_gotha:
+  1719.11.30:
+    birth: gotha
+    first_name: name_augusta
+    dynasty: saxe_gotha_altenburg_dynasty
+    female: yes
+    religion: lutheran
+    culture: saxon
+    tag: SAX
+  1736.5.8:
+    spouse: gbr_frederick_of_hanover
+    tag: GBR
+  1772.2.8:
+    death: yes
+gbr_william_of_hanover:
+  1721.4.15:
+    birth: london
+    first_name: name_william
+    dynasty: von_hannover_dynasty
+    father: gbr_george_ii_of_hanover
+    mother: gbr_caroline_of_ansbach
+    religion: lutheran
+    culture: english
+    tag: GBR
+  1765.10.31:
+    death: yes
+gbr_mary_of_great_britain:
+  1723.3.5:
+    birth: london
+    first_name: name_mary
+    dynasty: von_hannover_dynasty
+    female: yes
+    father: gbr_george_ii_of_hanover
+    mother: gbr_caroline_of_ansbach
+    religion: lutheran
+    culture: english
+    tag: GBR
+  1772.1.14:
+    death: yes
+gbr_louise_of_hanover:
+  1724.12.18:
+    birth: london
+    first_name: name_louise
+    dynasty: von_hannover_dynasty
+    female: yes
+    father: gbr_george_ii_of_hanover
+    mother: gbr_caroline_of_ansbach
+    religion: lutheran
+    culture: english
+    tag: GBR
+  1751.12.19:
+    death: yes
+gbr_augusta_of_hanover:
+  1737.7.31:
+    birth: london
+    first_name: name_augusta
+    dynasty: von_hannover_dynasty
+    female: yes
+    father: gbr_frederick_of_hanover
+    mother: gbr_augusta_of_saxe_gotha
     religion: anglican
     culture: english
     tag: GBR
-  1751.3.20:
+  1813.3.23:
     death: yes
-gbr_george_iii_von_hannover:
+gbr_george_iii_of_hanover:
   1738.6.4:
-    birth: london #TODO: Location guessed, check if better data is available
-    first_name: george
+    birth: london
+    first_name: name_george
     dynasty: von_hannover_dynasty
-    father: gbr_george_ii_von_hannover_1 #TODO: check if this makes sense
+    father: gbr_frederick_of_hanover
+    mother: gbr_augusta_of_saxe_gotha
     adm: 15
     dip: 15
     mil: 60
@@ -140,40 +242,104 @@ gbr_george_iii_von_hannover:
     tag: GBR
   1820.1.29:
     death: yes
-gbr_george_iii_von_hannover_1:
-  1730.1.1:
-    birth: london #TODO: Date and location guessed, check if better data is available
-    first_name: george
+gbr_edward_of_hanover:
+  1739.3.25:
+    birth: london
+    first_name: name_edward
     dynasty: von_hannover_dynasty
-    adm: 15
-    dip: 15
-    mil: 60
+    father: gbr_frederick_of_hanover
+    mother: gbr_augusta_of_saxe_gotha
     religion: anglican
     culture: english
     tag: GBR
-  1811.1.5:
+  1767.9.17:
     death: yes
-gbr_charlotte_von_mecklenburg:
-  1683.3.1:
-    birth: london #TODO: Location guessed, check if better data is available
-    first_name: charlotte
-    dynasty: von_mecklenburg_dynasty
+gbr_elizabeth_caroline_of_hanover:
+  1741.1.10:
+    birth: london
+    first_name: name_elizabeth
+    dynasty: von_hannover_dynasty
+    female: yes
+    father: gbr_frederick_of_hanover
+    mother: gbr_augusta_of_saxe_gotha
+    religion: anglican
+    culture: english
+    tag: GBR
+  1759.9.4:
+    death: yes
+gbr_william_henry_of_hanover:
+  1743.11.25:
+    birth: london
+    first_name: name_william.name_henry
+    dynasty: von_hannover_dynasty
+    father: gbr_frederick_of_hanover
+    mother: gbr_augusta_of_saxe_gotha
+    religion: anglican
+    culture: english
+    tag: GBR
+  1805.8.25:
+    death: yes
+gbr_charlotte_of_mecklenburg:
+  1744.5.19:
+    birth: strelitz #Mirow
+    first_name: name_charlotte
+    dynasty: mecklenburg_dynasty
     female: yes
     adm: 15
     dip: 30
     mil: 15
+    religion: lutheran
+    culture: western_pomeranian
+    tag: MKL
+  1761.9.8:
+    spouse: gbr_george_iii_of_hanover
+    tag: GBR
+  1818.11.17:
+    death: yes
+gbr_henry_of_hanover:
+  1745.10.27:
+    birth: london
+    first_name: name_henry
+    dynasty: von_hannover_dynasty
+    father: gbr_frederick_of_hanover
+    mother: gbr_augusta_of_saxe_gotha
     religion: anglican
     culture: english
     tag: GBR
-  1737.11.20:
+  1790.9.18:
     death: yes
-  1761.9.8:
-    spouse: gbr_george_iii_von_hannover_1 #TODO: date guessed, see if better data is available
-gbr_george_iv_von_hannover:
-  1762.8.12:
-    birth: london #TODO: Location guessed, check if better data is available
-    first_name: george
+gbr_louisa_of_hanover:
+  1749.3.19:
+    birth: london
+    first_name: name_louise
     dynasty: von_hannover_dynasty
+    female: yes
+    father: gbr_frederick_of_hanover
+    mother: gbr_augusta_of_saxe_gotha
+    religion: anglican
+    culture: english
+    tag: GBR
+  1768.5.13:
+    death: yes
+gbr_frederick_william_of_hanover:
+  1750.5.13:
+    birth: london
+    first_name: name_frederick
+    dynasty: von_hannover_dynasty
+    father: gbr_frederick_of_hanover
+    mother: gbr_augusta_of_saxe_gotha
+    religion: anglican
+    culture: english
+    tag: GBR
+  1765.12.29:
+    death: yes
+gbr_george_iv_of_hanover:
+  1762.8.12:
+    birth: london
+    first_name: name_george
+    dynasty: von_hannover_dynasty
+    father: gbr_george_iii_of_hanover
+    mother: gbr_charlotte_of_mecklenburg
     adm: 30
     dip: 45
     mil: 45
@@ -182,43 +348,13 @@ gbr_george_iv_von_hannover:
     tag: GBR
   1830.6.26:
     death: yes
-gbr_caroline_von_welf:
-  1768.5.17:
-    birth: london #TODO: Location guessed, check if better data is available
-    first_name: caroline
-    dynasty: von_welf_dynasty
-    female: yes
-    adm: 30
-    dip: 45
-    mil: 30
-    religion: anglican
-    culture: english
-    tag: GBR
-  1821.8.7:
-    death: yes
-  1811.1.5:
-    spouse: gbr_george_iv_von_hannover #TODO: date guessed, see if better data is available
-gbr_charlotte_i_von_hannover:
-  1796.1.7:
-    birth: london #TODO: Location guessed, check if better data is available
-    first_name: charlotte
-    dynasty: von_hannover_dynasty
-    female: yes
-    father: gbr_george_iv_von_hannover #TODO: check if this makes sense
-    adm: 45
-    dip: 45
-    mil: 30
-    religion: anglican
-    culture: english
-    tag: GBR
-  1817.11.6:
-    death: yes
-gbr_frederick_i_von_hannover_1:
+gbr_frederick_augustus_of_hanover:
   1763.8.16:
-    birth: london #TODO: Location guessed, check if better data is available
-    first_name: frederick
+    birth: london
+    first_name: name_frederick
     dynasty: von_hannover_dynasty
-    father: gbr_george_iv_von_hannover #TODO: check if this makes sense
+    father: gbr_george_iii_of_hanover
+    mother: gbr_charlotte_of_mecklenburg
     adm: 60
     dip: 30
     mil: 45
@@ -227,10 +363,10 @@ gbr_frederick_i_von_hannover_1:
     tag: GBR
   1827.1.5:
     death: yes
-gbr_william_iv_von_hannover:
+gbr_william_iv_of_hanover:
   1765.8.21:
-    birth: london #TODO: Location guessed, check if better data is available
-    first_name: william
+    birth: london
+    first_name: name_william
     dynasty: von_hannover_dynasty
     adm: 30
     dip: 30
@@ -240,220 +376,777 @@ gbr_william_iv_von_hannover:
     tag: GBR
   1837.6.20:
     death: yes
-gbr_adelaide_von_saxe_meiningen:
+gbr_charlotte_augusta_of_hanover:
+  1766.9.29:
+    birth: london
+    first_name: name_charlotte
+    dynasty: von_hannover_dynasty
+    female: yes
+    father: gbr_george_iii_of_hanover
+    mother: gbr_charlotte_of_mecklenburg
+    religion: anglican
+    culture: english
+    tag: GBR
+  1828.10.6:
+    death: yes
+gbr_edward_augustus_of_hanover:
+  1767.11.2:
+    birth: london
+    first_name: name_edward
+    dynasty: von_hannover_dynasty
+    father: gbr_george_iii_of_hanover
+    mother: gbr_charlotte_of_mecklenburg
+    religion: anglican
+    culture: english
+    tag: GBR
+  1820.1.23:
+    death: yes
+gbr_caroline_of_brunswick:
+  1768.5.17:
+    birth: brunswick
+    first_name: name_caroline
+    dynasty: welfen_dynasty
+    female: yes
+    adm: 30
+    dip: 45
+    mil: 30
+    religion: lutheran
+    culture: lower_saxon
+    tag: BRU
+  1795.4.8:
+    spouse: gbr_george_iv_of_hanover
+    tag: GBR
+  1821.8.7:
+    death: yes
+gbr_augusta_sophia_of_hanover:
+  1768.11.8:
+    birth: london
+    first_name: name_augusta.name_sophia
+    dynasty: von_hannover_dynasty
+    female: yes
+    father: gbr_george_iii_of_hanover
+    mother: gbr_charlotte_of_mecklenburg
+    religion: anglican
+    culture: english
+    tag: GBR
+  1840.9.22:
+    death: yes
+gbr_elizabeth_of_hanover:
+  1770.5.22:
+    birth: london
+    first_name: name_elizabeth
+    dynasty: von_hannover_dynasty
+    female: yes
+    father: gbr_george_iii_of_hanover
+    mother: gbr_charlotte_of_mecklenburg
+    religion: anglican
+    culture: english
+    tag: GBR
+  1840.1.10:
+    death: yes
+gbr_ernest_augustus_of_hanover:
+  1771.6.5:
+    birth: london
+    first_name: name_ernest.augustus
+    dynasty: von_hannover_dynasty
+    father: gbr_george_iii_of_hanover
+    mother: gbr_charlotte_of_mecklenburg
+    religion: anglican
+    culture: english
+    tag: GBR
+  1851.11.18:
+    death: yes
+gbr_augustus_frederick_of_hanover:
+  1773.1.27:
+    birth: london
+    first_name: augustus.name_frederick
+    dynasty: von_hannover_dynasty
+    father: gbr_george_iii_of_hanover
+    mother: gbr_charlotte_of_mecklenburg
+    religion: anglican
+    culture: english
+    tag: GBR
+  1843.4.21:
+    death: yes
+gbr_adolphus_of_hanover:
+  1774.2.24:
+    birth: london
+    first_name: adolphus
+    dynasty: von_hannover_dynasty
+    father: gbr_george_iii_of_hanover
+    mother: gbr_charlotte_of_mecklenburg
+    religion: anglican
+    culture: english
+    tag: GBR
+  1850.7.8:
+    death: yes
+gbr_mary_of_hanover:
+  1776.4.25:
+    birth: london
+    first_name: name_mary
+    dynasty: von_hannover_dynasty
+    female: yes
+    father: gbr_george_iii_of_hanover
+    mother: gbr_charlotte_of_mecklenburg
+    religion: anglican
+    culture: english
+    tag: GBR
+  1857.4.30:
+    death: yes
+gbr_sophia_of_hanover:
+  1777.11.3:
+    birth: london
+    first_name: name_sophia
+    dynasty: von_hannover_dynasty
+    female: yes
+    father: gbr_george_iii_of_hanover
+    mother: gbr_charlotte_of_mecklenburg
+    religion: anglican
+    culture: english
+    tag: GBR
+  1848.5.27:
+    death: yes
+gbr_octavius_of_hanover:
+  1779.2.23:
+    birth: london
+    first_name: name_octavius
+    dynasty: von_hannover_dynasty
+    father: gbr_george_iii_of_hanover
+    mother: gbr_charlotte_of_mecklenburg
+    religion: anglican
+    culture: english
+    tag: GBR
+  1783.5.3:
+    death: yes
+gbr_alfred_of_hanover:
+  1780.9.22:
+    birth: london
+    first_name: name_alfred
+    dynasty: von_hannover_dynasty
+    father: gbr_george_iii_of_hanover
+    mother: gbr_charlotte_of_mecklenburg
+    religion: anglican
+    culture: english
+    tag: GBR
+  1782.8.20:
+    death: yes
+gbr_amelia_of_hanover:
+  1783.8.7:
+    birth: london
+    first_name: name_amelia
+    dynasty: von_hannover_dynasty
+    female: yes
+    father: gbr_george_iii_of_hanover
+    mother: gbr_charlotte_of_mecklenburg
+    religion: anglican
+    culture: english
+    tag: GBR
+  1810.11.2:
+    death: yes
+gbr_victoria_of_saxe_coburg:
+  1786.8.17:
+    birth: coburg
+    first_name: name_victoria
+    dynasty: saxe_coburg_saalfield_dynasty
+    female: yes
+    religion: lutheran
+    culture: east_franconian
+    tag: SAX
+  1818.5.29:
+    spouse: gbr_edward_augustus_of_hanover
+    tag: GBR
+  1861.3.16:
+    death: yes
+gbr_adelaide_of_saxe_meiningen:
   1792.8.13:
-    birth: london #TODO: Location guessed, check if better data is available
-    first_name: adelaide
+    birth: meiningen
+    first_name: name_adelaide
     dynasty: von_saxe_meiningen_dynasty
     female: yes
     adm: 30
     dip: 45
     mil: 15
+    religion: lutheran
+    culture: saxon
+    tag: GBR
+  1818.7.11:
+    spouse: gbr_william_iv_of_hanover
+  1849.12.2:
+    death: yes
+gbr_charlotte_of_hanover_of_wales:
+  1796.1.7:
+    birth: london
+    first_name: charlotte
+    dynasty: von_hannover_dynasty
+    female: yes
+    father: gbr_george_iv_of_hanover
+    mother: gbr_caroline_of_brunswick
+    adm: 45
+    dip: 45
+    mil: 30
     religion: anglican
     culture: english
     tag: GBR
-  1849.12.2:
+  1817.11.6:
     death: yes
-  1830.6.26:
-    spouse: gbr_william_iv_von_hannover #TODO: date guessed, see if better data is available
-gbr_victoria_i_von_hannover:
+gbr_victoria_i_of_hanover:
   1819.5.24:
-    birth: london #TODO: Location guessed, check if better data is available
-    first_name: victoria
+    birth: london
+    first_name: name_victoria
     dynasty: von_hannover_dynasty
     female: yes
+    father: gbr_edward_augustus_of_hanover
+    mother: gbr_victoria_of_saxe_coburg
     adm: 75
     dip: 60
     mil: 45
-    religion: secularism
+    religion: anglican
     culture: english
     tag: GBR
   1901.1.22:
     death: yes
 gbr_albert_von_saxe_coburg:
   1819.8.26:
-    birth: london #TODO: Location guessed, check if better data is available
-    first_name: albert
+    birth: coburg
+    first_name: name_albert
     dynasty: von_saxe_coburg_dynasty
     adm: 60
     dip: 30
+    mil: 60
+    religion: lutheran
+    culture: east_franconian
+    tag: SAX
+  1840.2.10:
+    spouse: gbr_victoria_i_of_hanover
+    tag: GBR
+  1861.12.14:
+    death: yes
+gbr_elizabeth_georgiana_of_hanover:
+  1820.12.10:
+    birth: london
+    first_name: name_elizabeth
+    dynasty: von_hannover_dynasty
+    female: yes
+    father: gbr_william_iv_of_hanover
+    mother: gbr_adelaide_of_saxe_meiningen
+    religion: anglican
+    culture: english
+    tag: GBR
+  1821.3.4:
+    death: yes
+gbr_victoria_adelaide_von_saxe_coburg:
+  1840.11.21:
+    birth: london
+    first_name: name_victoria
+    dynasty: von_saxe_coburg_dynasty
+    female: yes
+    father: gbr_albert_von_saxe_coburg
+    mother: gbr_victoria_i_of_hanover
+    religion: anglican
+    culture: english
+    tag: GBR
+  1901.8.5:
+    death: yes
+gbr_edward_vii_von_saxe_coburg:
+  1841.11.9:
+    birth: london
+    first_name: name_edward
+    dynasty: von_saxe_coburg_dynasty
+    father: gbr_albert_von_saxe_coburg
+    mother: gbr_victoria_i_of_hanover
+    adm: 60
+    dip: 45
     mil: 60
     religion: anglican
     culture: english
     tag: GBR
-  1861.12.14:
+  1910.5.6:
     death: yes
-  1840.2.10:
-    spouse: gbr_victoria_i_von_hannover #TODO: date guessed, see if better data is available
-gbr_edward_vii_von_saxe_coburg:
-  1841.11.9:
-    birth: london #TODO: Location guessed, check if better data is available
-    first_name: edward
+gbr_alice_von_saxe_coburg:
+  1843.4.25:
+    birth: london
+    first_name: name_alice
     dynasty: von_saxe_coburg_dynasty
-    adm: 60
-    dip: 45
-    mil: 60
-    religion: secularism
+    female: yes
+    father: gbr_albert_von_saxe_coburg
+    mother: gbr_victoria_i_of_hanover
+    religion: anglican
     culture: english
     tag: GBR
-  1910.5.6:
+  1878.12.14:
+    death: yes
+gbr_alfred_von_saxe_coburg:
+  1844.8.6:
+    birth: london
+    first_name: name_edward
+    dynasty: von_saxe_coburg_dynasty
+    father: gbr_albert_von_saxe_coburg
+    mother: gbr_victoria_i_of_hanover
+    religion: anglican
+    culture: english
+    tag: GBR
+  1900.7.30:
     death: yes
 gbr_alexandra_von_glucksburg:
   1844.12.1:
-    birth: london #TODO: Location guessed, check if better data is available
-    first_name: alexandra
+    birth: kobenhavn
+    first_name: name_alexandra
     dynasty: von_glucksburg_dynasty
     female: yes
+    father: dan_christian_ix_von_glucksburg
+    mother: dan_louise_von_hesse_kassel
     adm: 30
     dip: 30
     mil: 15
     religion: lutheran
-    culture: english
+    culture: danish
+    tag: DAN
+  1863.3.10:
+    spouse: gbr_edward_vii_von_saxe_coburg
     tag: GBR
   1925.11.20:
     death: yes
-  1901.1.22:
-    spouse: gbr_edward_vii_von_saxe_coburg #TODO: date guessed, see if better data is available
+gbr_helena_von_saxe_coburg:
+  1846.5.25:
+    birth: london
+    first_name: helena
+    dynasty: von_saxe_coburg_dynasty
+    female: yes
+    father: gbr_albert_von_saxe_coburg
+    mother: gbr_victoria_i_of_hanover
+    religion: anglican
+    culture: english
+    tag: GBR
+  1923.6.9:
+    death: yes
+gbr_louise_von_saxe_coburg:
+  1848.3.18:
+    birth: london
+    first_name: name_louise
+    dynasty: von_saxe_coburg_dynasty
+    female: yes
+    father: gbr_albert_von_saxe_coburg
+    mother: gbr_victoria_i_of_hanover
+    religion: anglican
+    culture: english
+    tag: GBR
+  1939.12.3:
+    death: yes
+gbr_arthur_von_saxe_coburg:
+  1850.5.1:
+    birth: london
+    first_name: name_arthur
+    dynasty: von_saxe_coburg_dynasty
+    father: gbr_albert_von_saxe_coburg
+    mother: gbr_victoria_i_of_hanover
+    religion: anglican
+    culture: english
+    tag: GBR
+  1942.1.16:
+    death: yes
+gbr_leopold_von_saxe_coburg:
+  1853.4.7:
+    birth: london
+    first_name: name_leopold
+    dynasty: von_saxe_coburg_dynasty
+    father: gbr_albert_von_saxe_coburg
+    mother: gbr_victoria_i_of_hanover
+    religion: anglican
+    culture: english
+    tag: GBR
+  1884.3.28:
+    death: yes
+gbr_beatrice_von_saxe_coburg:
+  1857.4.14:
+    birth: london
+    first_name: beatrice
+    dynasty: von_saxe_coburg_dynasty
+    female: yes
+    father: gbr_albert_von_saxe_coburg
+    mother: gbr_victoria_i_of_hanover
+    religion: anglican
+    culture: english
+    tag: GBR
+  1944.10.26:
+    death: yes
+gbr_albert_victor_von_saxe_coburg:
+  1864.1.8:
+    birth: windsor
+    first_name: name_albert.name_victor
+    dynasty: von_saxe_coburg_dynasty
+    father: gbr_edward_vii_von_saxe_coburg
+    mother: gbr_alexandra_von_glucksburg
+    religion: anglican
+    culture: english
+    tag: GBR
+  1892.1.14:
+    death: yes
 gbr_george_v_of_windsor:
   1865.6.3:
-    birth: london #TODO: Location guessed, check if better data is available
-    first_name: george
-    dynasty: of_windsor_dynasty
+    birth: windsor
+    first_name: name_george
+    dynasty: von_saxe_coburg_dynasty
+    father: gbr_edward_vii_von_saxe_coburg
+    mother: gbr_alexandra_von_glucksburg
     adm: 45
     dip: 45
     mil: 75
-    religion: secularism
+    religion: anglican
     culture: english
     tag: GBR
+  1917.7.17:
+    dynasty: of_windsor_dynasty
   1936.1.20:
+    death: yes
+gbr_louise_of_windsor:
+  1867.2.20:
+    birth: london
+    first_name: name_louise
+    dynasty: von_saxe_coburg_dynasty
+    female: yes
+    father: gbr_edward_vii_von_saxe_coburg
+    mother: gbr_alexandra_von_glucksburg
+    religion: anglican
+    culture: english
+    tag: GBR
+  1917.7.17:
+    dynasty: of_windsor_dynasty
+  1931.1.4:
     death: yes
 gbr_mary_of_teck:
   1867.5.26:
-    birth: london #TODO: Location guessed, check if better data is available
-    first_name: mary
+    birth: london
+    first_name: name_mary
     dynasty: of_teck_dynasty
     female: yes
-    adm: 45
-    dip: 45
-    mil: 15
-    religion: secularism
+    religion: lutheran
     culture: english
     tag: GBR
   1953.3.24:
     death: yes
-  1910.5.6:
-    spouse: gbr_george_v_of_windsor #TODO: date guessed, see if better data is available
+  1893.7.6:
+    spouse: gbr_george_v_of_windsor
+gbr_victoria_of_windsor:
+  1868.7.6:
+    birth: london
+    first_name: name_victoria
+    dynasty: von_saxe_coburg_dynasty
+    female: yes
+    father: gbr_edward_vii_von_saxe_coburg
+    mother: gbr_alexandra_von_glucksburg
+    religion: anglican
+    culture: english
+    tag: GBR
+  1917.7.17:
+    dynasty: of_windsor_dynasty
+  1935.12.3:
+    death: yes
+gbr_maud_of_windsor:
+  1869.11.26:
+    birth: london
+    first_name: maud
+    dynasty: von_saxe_coburg_dynasty
+    female: yes
+    father: gbr_edward_vii_von_saxe_coburg
+    mother: gbr_alexandra_von_glucksburg
+    religion: anglican
+    culture: english
+    tag: GBR
+  1917.7.17:
+    dynasty: of_windsor_dynasty
+  1938.11.20:
+    death: yes
 gbr_edward_viii_of_windsor:
   1894.6.23:
-    birth: london #TODO: Location guessed, check if better data is available
-    first_name: edward
-    dynasty: of_windsor_dynasty
+    birth: london
+    first_name: name_edward
+    dynasty: von_saxe_coburg_dynasty
+    father: gbr_george_v_of_windsor
+    mother: gbr_mary_of_teck
     adm: 30
     dip: 45
     mil: 30
-    religion: secularism
+    religion: anglican
     culture: english
     tag: GBR
-  1936.12.11:
+  1917.7.17:
+    dynasty: of_windsor_dynasty
+  1972.5.28:
     death: yes
 gbr_george_vi_of_windsor:
   1895.12.14:
-    birth: london #TODO: Location guessed, check if better data is available
-    first_name: george
-    dynasty: of_windsor_dynasty
+    birth: lynn #Sandringham
+    first_name: name_george
+    dynasty: von_saxe_coburg_dynasty
+    father: gbr_george_v_of_windsor
+    mother: gbr_mary_of_teck
     adm: 45
     dip: 60
     mil: 30
-    religion: secularism
+    religion: anglican
     culture: english
     tag: GBR
+  1917.7.17:
+    dynasty: of_windsor_dynasty
   1952.2.6:
+    death: yes
+gbr_mary_of_windsor:
+  1897.4.25:
+    birth: lynn #Sandringham
+    first_name: name_mary
+    dynasty: von_saxe_coburg_dynasty
+    female: yes
+    father: gbr_george_v_of_windsor
+    mother: gbr_mary_of_teck
+    religion: anglican
+    culture: english
+    tag: GBR
+  1917.7.17:
+    dynasty: of_windsor_dynasty
+  1965.3.28:
+    death: yes
+gbr_henry_of_windsor:
+  1900.3.31:
+    birth: lynn #Sandringham
+    first_name: name_henry
+    dynasty: von_saxe_coburg_dynasty
+    father: gbr_george_v_of_windsor
+    mother: gbr_mary_of_teck
+    religion: anglican
+    culture: english
+    tag: GBR
+  1917.7.17:
+    dynasty: of_windsor_dynasty
+  1974.6.10:
     death: yes
 gbr_elizabeth_bowes_lyon:
   1900.8.4:
-    birth: london #TODO: Location guessed, check if better data is available
-    first_name: elizabeth
+    birth: london
+    first_name: name_elizabeth
     dynasty: bowes_lyon_dynasty
     female: yes
     adm: 45
     dip: 60
     mil: 45
-    religion: secularism
+    religion: anglican
     culture: english
     tag: GBR
+  1923.4.26:
+    spouse: gbr_george_vi_of_windsor
   2002.3.30:
     death: yes
-  1936.12.11:
-    spouse: gbr_george_vi_of_windsor #TODO: date guessed, see if better data is available
-gbr_elizabeth_ii_of_windsor:
-  1926.4.21:
-    birth: london #TODO: Location guessed, check if better data is available
-    first_name: elizabeth
-    dynasty: of_windsor_dynasty
-    female: yes
-    adm: 75
-    dip: 60
-    mil: 15
-    religion: secularism
+gbr_george_of_windsor:
+  1902.12.20:
+    birth: lynn #Sandringham
+    first_name: name_george
+    dynasty: von_saxe_coburg_dynasty
+    father: gbr_george_v_of_windsor
+    mother: gbr_mary_of_teck
+    religion: anglican
     culture: english
     tag: GBR
-  2022.9.8:
+  1917.7.17:
+    dynasty: of_windsor_dynasty
+  1942.8.25:
+    death: yes
+gbr_john_of_windsor:
+  1905.7.12:
+    birth: lynn #Sandringham
+    first_name: name_john
+    dynasty: von_saxe_coburg_dynasty
+    father: gbr_george_v_of_windsor
+    mother: gbr_mary_of_teck
+    religion: anglican
+    culture: english
+    tag: GBR
+  1917.7.17:
+    dynasty: of_windsor_dynasty
+  1919.1.18:
     death: yes
 gbr_philip_von_glucksburg:
   1921.6.10:
-    birth: london #TODO: Location guessed, check if better data is available
-    first_name: philip
+    birth: corfu
+    first_name: name_philip
     dynasty: von_glucksburg_dynasty
+    father: gre_andrew_von_glucksburg
+    mother: gre_alice_battenberg
     adm: 45
     dip: 30
     mil: 45
-    religion: secularism
+    religion: lutheran
     culture: english
+    tag: GRE
+  1947.3:
+    dynasty: mountbatten_dynasty
+  1952.2.6:
+    spouse: gbr_elizabeth_ii_of_windsor
     tag: GBR
   2021.4.9:
     death: yes
-  1952.2.6:
-    spouse: gbr_elizabeth_ii_of_windsor #TODO: date guessed, see if better data is available
-gbr_charles_iii_of_windsor:
-  1948.11.14:
-    birth: london #TODO: Location guessed, check if better data is available
-    first_name: charles
+gbr_elizabeth_ii_of_windsor:
+  1926.4.21:
+    birth: london
+    first_name: name_elizabeth
     dynasty: of_windsor_dynasty
-    adm: 60
-    dip: 30
-    mil: 30
-    religion: lutheran
+    female: yes
+    father: gbr_george_vi_of_windsor
+    mother: gbr_elizabeth_bowes_lyon
+    adm: 75
+    dip: 80
+    mil: 15
+    religion: anglican
     culture: english
     tag: GBR
-  3000.1.1:
+  2022.9.8:
+    death: yes
+gbr_margaret_of_windsor:
+  1930.8.21:
+    birth: london
+    first_name: name_margaret
+    dynasty: of_windsor_dynasty
+    female: yes
+    father: gbr_george_vi_of_windsor
+    mother: gbr_elizabeth_bowes_lyon
+    religion: anglican
+    culture: english
+    tag: GBR
+  2002.2.9:
     death: yes
 gbr_camilla_bowles:
   1947.7.17:
-    birth: london #TODO: Location guessed, check if better data is available
-    first_name: camilla
-    dynasty: bowles_dynasty
+    birth: london
+    first_name: name_camilla
+    last_name: parker.bowles
     female: yes
-    adm: 30
-    dip: 45
-    mil: 30
-    religion: secularism
+    religion: anglican
     culture: english
     tag: GBR
-  3000.1.1:
-    death: yes
-  2022.9.8:
-    spouse: gbr_charles_iii_of_windsor #TODO: date guessed, see if better data is available
-gbr_william_v_of_windsor:
-  1982.6.21:
-    birth: london #TODO: Location guessed, check if better data is available
-    first_name: william
+  2005.4.9:
+    spouse: gbr_charles_iii_of_windsor
+gbr_charles_iii_of_windsor:
+  1948.11.14:
+    birth: london
+    first_name: name_charles
     dynasty: of_windsor_dynasty
-    father: gbr_charles_iii_of_windsor #TODO: check if this makes sense
+    father: gbr_philip_von_glucksburg
+    mother: gbr_elizabeth_ii_of_windsor
+    adm: 60
+    dip: 30
+    mil: 30
+    religion: anglican
+    culture: english
+    tag: GBR
+gbr_anne_of_windsor:
+  1950.8.15:
+    birth: london
+    first_name: name_anna
+    dynasty: of_windsor_dynasty
+    female: yes
+    father: gbr_philip_von_glucksburg
+    mother: gbr_elizabeth_ii_of_windsor
+    religion: anglican
+    culture: english
+    tag: GBR
+gbr_andrew_mountbatten_windsor:
+  1960.2.19:
+    birth: london
+    first_name: name_andrew
+    dynasty: of_windsor_dynasty
+    father: gbr_philip_von_glucksburg
+    mother: gbr_elizabeth_ii_of_windsor
+    religion: anglican
+    culture: english
+    tag: GBR
+  2025.11.3:
+    dynasty: ---
+    last_name: mountbatten_windsor
+gbr_diana_spencer:
+  1961.7.1:
+    birth: lynn #Sandringham
+    first_name: name_diana
+    dynasty: spencer_dynasty
+    female: yes
+    religion: anglican
+    culture: english
+    tag: GBR
+  1981.7.29:
+    spouse: gbr_charles_iii_of_windsor
+  1996.8.28:
+    spouse: ---
+  1997.8.31:
+    death: yes
+gbr_edward_of_windsor:
+  1964.3.10:
+    birth: london
+    first_name: name_edward
+    dynasty: of_windsor_dynasty
+    father: gbr_philip_von_glucksburg
+    mother: gbr_elizabeth_ii_of_windsor
+    religion: anglican
+    culture: english
+    tag: GBR
+gbr_catherine_middleton:
+  1982.1.9:
+    birth: reading
+    first_name: name_catherine
+    last_name: middleton
+    female: yes
+    religion: anglican
+    culture: english
+    tag: GBR
+  2011.4.29:
+    spouse: gbr_william_of_windsor
+gbr_william_of_windsor:
+  1982.6.21:
+    birth: london
+    first_name: name_william
+    dynasty: of_windsor_dynasty
+    father: gbr_charles_iii_of_windsor
+    mother: gbr_diana_spencer
     adm: 60
     dip: 60
     mil: 30
-    religion: lutheran
+    religion: anglican
     culture: english
     tag: GBR
-  3000.1.1:
-    death: yes
+gbr_harry_of_windsor:
+  1984.9.15:
+    birth: london
+    first_name: harry
+    dynasty: of_windsor_dynasty
+    father: gbr_charles_iii_of_windsor
+    mother: gbr_diana_spencer
+    religion: anglican
+    culture: english
+    tag: GBR
+gbr_george_windsor_of_wales:
+  2013.7.22:
+    birth: london
+    first_name: name_george
+    dynasty: of_windsor_dynasty
+    father: gbr_william_of_windsor
+    mother: gbr_catherine_middleton
+    religion: anglican
+    culture: english
+    tag: GBR
+gbr_charlotte_windsor_of_wales:
+  2015.5.2:
+    birth: london
+    first_name: name_charlotte
+    dynasty: of_windsor_dynasty
+    female: yes
+    father: gbr_william_of_windsor
+    mother: gbr_catherine_middleton
+    religion: anglican
+    culture: english
+    tag: GBR
+gbr_louis_windsor_of_wales:
+  2018.4.23:
+    birth: london
+    first_name: name_louis
+    dynasty: of_windsor_dynasty
+    father: gbr_william_of_windsor
+    mother: gbr_catherine_middleton
+    religion: anglican
+    culture: english
+    tag: GBR

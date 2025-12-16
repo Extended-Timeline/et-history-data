@@ -1,0 +1,380 @@
+eng_edmund_crouchback:
+  1245.1.16:
+    birth: london
+    first_name: name_edmond
+    nickname: nick_crouchback
+    dynasty: plantagenet_dynasty
+    father: eng_henry_iii
+    mother: eng_eleanor_of_provence
+    religion: catholic
+    culture: english
+    tag: ENG
+  1265.10.26:
+    tag: LAN
+    dynasty: lancaster_dynasty
+  1296.6.5:
+    death: yes
+lan_blanche_of_artois:
+  1248:
+    birth: paris
+    first_name: name_blanche
+    dynasty: artois_dynasty
+    female: yes
+    religion: catholic
+    culture: french
+    tag: FRA
+  1276.1:
+    spouse: eng_edmund_crouchback
+    tag: LAN
+  1302.5.2:
+    death: yes
+lan_thomas_of_lancaster:
+  1278:
+    birth: lancaster #unknown
+    first_name: name_thomas
+    dynasty: lancaster_dynasty
+    father: eng_edmund_crouchback
+    mother: lan_blanche_of_artois
+    religion: catholic
+    culture: english
+    tag: LAN
+  1322.3.22:
+    death: yes
+eng_henry_lancaster:
+  1281:
+    birth: lancaster
+    first_name: name_henry
+    dynasty: lancaster_dynasty
+    father: eng_edmund_crouchback
+    mother: lan_blanche_of_artois
+    religion: catholic
+    culture: northumbrian
+    tag: LAN
+  1345.9.22:
+    death: yes
+eng_maud_de_chaworth:
+  1282.2.2:
+    birth: kidwelly
+    first_name: name_matilda
+    female: yes
+    religion: catholic
+    culture: english
+    tag: ENG
+  1297.3.2:
+    spouse: eng_henry_lancaster
+    tag: LAN
+  1322.12.3:
+    death: yes
+eng_thomas_wake:
+  1297:
+    birth: lincoln
+    first_name: name_thomas
+    dynasty: wake_dynasty
+    religion: catholic
+    culture: english
+    tag: ENG
+  1349.5.31:
+    death: yes
+eng_blanche_lancaster:
+  1305:
+    birth: lancaster
+    first_name: name_blanche
+    dynasty: lancaster_dynasty
+    female: yes
+    father: eng_henry_lancaster
+    mother: eng_maud_de_chaworth
+    religion: catholic
+    culture: northumbrian
+    tag: LAN
+  1316.10:
+    spouse: eng_thomas_wake
+    tag: ENG
+  1380:
+    death: yes
+eng_henry_grosmont:
+  1310:
+    birth: lancaster
+    first_name: name_henry
+    dynasty: lancaster_dynasty
+    father: eng_henry_lancaster
+    mother: eng_maud_de_chaworth
+    religion: catholic
+    culture: northumbrian
+    tag: LAN
+  1361.4.14:
+    death: yes
+eng_maud_lancaster:
+  1310:
+    birth: lancaster
+    first_name: name_matilda
+    dynasty: lancaster_dynasty
+    female: yes
+    father: eng_henry_lancaster
+    mother: eng_maud_de_chaworth
+    religion: catholic
+    culture: northumbrian
+    tag: LAN
+  1361.4.14:
+    tag: ENG
+  1362.11.13:
+    tag: LAN
+  1377.5.5:
+    death: yes
+eng_john_mowbray:
+  1310.11.29:
+    birth: york
+    first_name: name_john
+    dynasty: mowbray_dynasty
+    religion: catholic
+    culture: northumbrian
+    tag: GWR
+  1361.10.4:
+    death: yes
+eng_joan_lancaster:
+  1312:
+    birth: lancaster
+    first_name: name_joanna
+    dynasty: lancaster_dynasty
+    female: yes
+    father: eng_henry_lancaster
+    mother: eng_maud_de_chaworth
+    religion: catholic
+    culture: northumbrian
+    tag: LAN
+  1327.2.28:
+    spouse: eng_john_mowbray
+    tag: GWR
+  1349.7.7:
+    death: yes
+eng_isabel_beaumont:
+  1318:
+    birth: aberdeen #buchan
+    first_name: name_elizabeth # Should be alternative: Isabel
+    dynasty: beaumont_dynasty
+    female: yes
+    father: sco_henry_beaumont
+    mother: sco_alice_de_comyn
+    religion: catholic
+    culture: northumbrian
+    tag: SCO
+  1330:
+    spouse: eng_henry_grosmont
+    tag: LAN
+  1361:
+    death: yes
+eng_eleanor_lancaster:
+  1318.9.11:
+    birth: lancaster
+    first_name: name_eleanor
+    dynasty: lancaster_dynasty
+    female: yes
+    father: eng_henry_lancaster
+    mother: eng_maud_de_chaworth
+    religion: catholic
+    culture: northumbrian
+    tag: LAN
+  1361.4.14:
+    tag: ENG
+  1362.11.13:
+    tag: LAN
+  1372.1.11:
+    death: yes
+eng_mary_lancaster:
+  1321:
+    birth: lancaster
+    first_name: name_mary
+    dynasty: lancaster_dynasty
+    female: yes
+    father: eng_henry_lancaster
+    mother: eng_maud_de_chaworth
+    religion: catholic
+    culture: northumbrian
+    tag: LAN
+  1334.9:
+    spouse: eng_henry_percy_iii
+    tag: ENG
+    estate: nobles_estate
+  1362.9.1:
+    death: yes
+eng_john_of_gaunt:
+  1340.3.6:
+    birth: ghent
+    first_name: name_john
+    dynasty: plantagenet_dynasty
+    father: eng_edward_iii
+    mother: eng_philippa_de_hainault
+    religion: catholic
+    culture: english
+    tag: ENG
+  1362.11.13:
+    tag: LAN
+  1399.2.3:
+    death: yes
+lan_maud_lancaster:
+  1340.4.4:
+    birth: lancaster
+    first_name: name_matilda
+    dynasty: lancaster_dynasty
+    female: yes
+    father: eng_henry_grosmont
+    mother: eng_isabel_beaumont
+    religion: catholic
+    culture: northumbrian
+    tag: LAN
+  1361.4.14:
+    tag: ENG
+  1362.4.10:
+    death: yes
+eng_blanche_of_lancaster:
+  1342.3.25:
+    birth: boston #Bolingbroke
+    first_name: name_blanche
+    dynasty: lancaster_dynasty
+    female: yes
+    father: eng_henry_grosmont
+    mother: eng_isabel_beaumont
+    religion: catholic
+    culture: northumbrian
+    tag: LAN
+  1359.5.19:
+    spouse: eng_john_of_gaunt
+    tag: ENG
+  1362.11.13:
+    tag: LAN
+  1368.9.12:
+    death: yes
+lan_katherine_swynford:
+  1349:
+    birth: mons
+    first_name: name_catherine
+    last_name: swynford
+    female: yes
+    religion: catholic
+    culture: english
+    tag: ENG
+  1362.11.13:
+    tag: LAN
+  1396:
+    spouse: eng_john_of_gaunt
+  1399.9.29:
+    tag: ENG
+  1403.5.10:
+    death: yes
+lan_constance_of_castile:
+  1354:
+    birth: castrojeriz
+    first_name: name_constance
+    dynasty: burgundy_castile_dynasty
+    female: yes
+    religion: catholic
+    culture: castilian
+    tag: CAS
+  1371.9.21:
+    spouse: eng_john_of_gaunt
+    tag: LAN
+  1394.3.24:
+    death: yes
+lan_philippa_of_lancaster:
+  1360.3.31:
+    birth: leicester
+    first_name: name_philippa
+    dynasty: lancaster_dynasty
+    female: yes
+    father: eng_john_of_gaunt
+    mother: eng_blanche_of_lancaster
+    religion: catholic
+    culture: english
+    tag: ENG
+  1362.11.13:
+    tag: LAN
+  1399.9.29:
+    tag: ENG
+  1415.7.19:
+    death: yes
+lan_elizabeth_of_lancaster:
+  1363:
+    birth: banbury #Burford
+    first_name: name_elizabeth
+    dynasty: lancaster_dynasty
+    female: yes
+    father: eng_john_of_gaunt
+    mother: eng_blanche_of_lancaster
+    religion: catholic
+    culture: english
+    tag: LAN
+  1399.9.29:
+    tag: ENG
+  1426.11.24:
+    death: yes
+lan_john_beaufort:
+  1373:
+    birth: rosnay #Beaufort
+    first_name: name_john
+    dynasty: beaufort_dynasty
+    father: eng_john_of_gaunt
+    mother: lan_katherine_swynford
+    religion: catholic
+    culture: english
+    tag: LAN
+  1399.9.29:
+    tag: ENG
+  1426.11.24:
+    death: yes
+lan_catherine_of_lancaster:
+  1373.3.31:
+    birth: hertford
+    first_name: name_catherine
+    dynasty: lancaster_dynasty
+    female: yes
+    father: eng_john_of_gaunt
+    mother: lan_constance_of_castile
+    religion: catholic
+    culture: english
+    tag: LAN
+  1399.9.29:
+    tag: ENG
+  1418.6.2:
+    death: yes
+lan_henry_beaufort:
+  1375:
+    birth: rosnay #Beaufort
+    first_name: name_henry
+    dynasty: beaufort_dynasty
+    father: eng_john_of_gaunt
+    mother: lan_katherine_swynford
+    religion: catholic
+    culture: english
+    tag: LAN
+  1399.9.29:
+    tag: ENG
+  1447.4.11:
+    death: yes
+lan_thomas_beaufort:
+  1377.1:
+    birth: rosnay #Beaufort
+    first_name: name_thomas
+    dynasty: beaufort_dynasty
+    father: eng_john_of_gaunt
+    mother: lan_katherine_swynford
+    religion: catholic
+    culture: english
+    tag: LAN
+  1399.9.29:
+    tag: ENG
+  1426.12.31:
+    death: yes
+lan_joan_beaufort:
+  1377:
+    birth: rosnay #Beaufort
+    first_name: name_joanna
+    dynasty: beaufort_dynasty
+    female: yes
+    father: eng_john_of_gaunt
+    mother: lan_katherine_swynford
+    religion: catholic
+    culture: english
+    tag: LAN
+  1399.9.29:
+    tag: ENG
+  1440.11.13:
+    death: yes

@@ -323,6 +323,24 @@ gre_andrew_von_glucksburg:
     tag: GRE
   1944.12.3:
     death: yes
+gre_alice_battenberg:
+  1885.2.25:
+    birth: windsor
+    first_name: name_alice
+    dynasty: battenberg_dynasty
+    female: yes
+    religion: lutheran
+    culture: english
+    tag: GBR
+  1903.10.6:
+    spouse: gre_andrew_von_glucksburg
+    tag: GRE
+  1917.7.14:
+    dynasty: mountbatten_dynasty
+  1928.10:
+    religion: orthodox
+  1969.12.5:
+    death: yes
 gre_christopher_von_glucksburg:
   1888.8.10:
     birth: lisino #Pavlovsk

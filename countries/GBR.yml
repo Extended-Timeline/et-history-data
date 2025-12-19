@@ -1,35 +1,65 @@
 #imported from EU4
-2.1.1:
+1:
   government: et_reformation_monarchy
   color: rgb { 153  0 0 }
   religion: anglican
   primary_culture: english
   capital: london
-1702.3.8:
+1707.5.1:
+  regnal_numbers:
+    name_william: 3
+    name_mary: 2
+    name_james: 2
+    name_charles: 2
+    name_elizabeth: 1
+    name_jane: 1
+    name_edward: 6
+    name_henry: 8
+    name_richard: 2
+    name_john: 1
+    name_stephen: 1
+  tolerated_cultures:
+    cornish: yes
+    welsh: yes
+  accepted_cultures:
+    scottish: yes
   ruler: gbr_anne_i_stuart
+  regnal_number: 1
 1714.8.1:
-  ruler: gbr_george_i_von_hannover_1
+  ruler: gbr_george_i_of_hanover
+  regnal_number: 1
 1727.6.11:
-  ruler: gbr_george_ii_von_hannover_1
+  ruler: gbr_george_ii_of_hanover
+  regnal_number: 2
 1760.10.25:
-  ruler: gbr_george_iii_von_hannover_1
+  ruler: gbr_george_iii_of_hanover
+  regnal_number: 3
 1811.1.5:
-  ruler: gbr_george_iv_von_hannover
+  ruler: gbr_george_iv_of_hanover
+  regnal_number: 4
 1830.6.26:
-  ruler: gbr_william_iv_von_hannover
+  ruler: gbr_william_iv_of_hanover
+  regnal_number: 4
 1837.6.20:
-  ruler: gbr_victoria_i_von_hannover
-1900.1.1:
+  ruler: gbr_victoria_i_of_hanover
+  regnal_number: 1
+1900:
   religion: secularism
 1901.1.22:
   ruler: gbr_edward_vii_von_saxe_coburg
+  regnal_number: 7
 1910.5.6:
   ruler: gbr_george_v_of_windsor
+  regnal_number: 5
 1936.1.20:
   ruler: gbr_edward_viii_of_windsor
+  regnal_number: 8
 1936.12.11:
   ruler: gbr_george_vi_of_windsor
+  regnal_number: 6
 1952.2.6:
   ruler: gbr_elizabeth_ii_of_windsor
+  regnal_number: 2
 2022.9.8:
   ruler: gbr_charles_iii_of_windsor
+  regnal_number: 3

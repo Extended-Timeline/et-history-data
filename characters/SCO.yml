@@ -206,6 +206,8 @@ sco_donada_alpin:
     religion: catholic
     culture: highland
     tag: SCO
+  995:
+    spouse: moy_findlaech
   1030:
     death: yes
 sco_bethoc_alpin:
@@ -236,12 +238,15 @@ sco_macbeth:
     birth: perth #unknown
     first_name: name_macbeth
     dynasty: loairn_dynasty
+    father: moy_findlaech
     mother: sco_donada_alpin
     adm: 75
     dip: 45
     mil: 30
     religion: catholic
     culture: highland
+    tag: MOY
+  1040.8.14:
     tag: SCO
   1057.8.15:
     death: yes
@@ -278,6 +283,8 @@ sco_gruoch_alpin:
     religion: catholic
     culture: highland
     tag: SCO
+  1030:
+    spouse: moy_gille_coemgain
   1032:
     spouse: sco_macbeth
   1060:
@@ -299,9 +306,12 @@ sco_lulach:
     birth: perth #unknown
     first_name: name_lulach
     dynasty: loairn_dynasty
+    father: moy_gille_coemgain
     mother: sco_gruoch_alpin
     religion: catholic
     culture: highland
+    tag: SCO
+  1040.8.14:
     tag: SCO
   1058.3.17:
     death: yes
@@ -1494,7 +1504,7 @@ sco_alexander_leslie:
     adm: 60
     dip: 45
     mil: 75
-    religion: calvinist
+    religion: presbyterian
     culture: scottish
     tag: SCO
   1661.4.4:

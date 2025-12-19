@@ -1,117 +1,186 @@
-#imported from EU4
-2.1.1:
+1:
   government: catholic_monarchy
   color: rgb { 193  26  14 }
   religion: catholic
   primary_culture: anglo_saxon
   capital: london
+867:
+  religion: catholic
+886:
+  ruler: eng_alfred_the_great
+  regnal_number: 0
+  tolerated_cultures:
+    cornish: yes
+    welsh: yes
+899.10.26:
+  ruler: eng_edward_the_elder
 924.7.17:
-  ruler: eng_aethelstan_cerdicing
+  ruler: eng_athelstan_the_glorious
 939.10.27:
-  ruler: eng_edmund_i_of_wessex_1
+  ruler: eng_edmund_the_magnificent
 946.5.26:
-  ruler: eng_eadred_i_of_wessex_1
-955.11.24:
-  ruler: eng_eadwig_i_of_wessex_1
+  ruler: eng_eadred
+955.11.23:
+  ruler: eng_eadwig
 959.10.1:
-  ruler: eng_edgar_i_of_wessex_1
+  ruler: eng_edgar_the_peaceful
 975.7.8:
-  ruler: eng_edward_i_of_wessex_1
+  ruler: eng_edward_the_martyr
 978.3.18:
-  ruler: eng_aethelred_i_of_wessex_1
+  ruler: eng_ethelred_the_unready
+1013.10:
+  ruler: eng_sweyn_forkbeard
+1014.2.3:
+  ruler: eng_ethelred_the_unready
 1016.4.23:
-  ruler: eng_edmund_ii_of_wessex_1
+  ruler: eng_edmund_ironside
 1016.11.30:
-  ruler: eng_knud_i_knytling
+  ruler: eng_cnut_the_great
 1035.11.13:
-  ruler: eng_harald_i_knytling
+  ruler: eng_harold_harefoot
+1040.3.17:
+  ruler: eng_harthacnute
 1042.6.8:
-  ruler: eng_edward_ii_of_wessex
+  ruler: eng_edward_the_confessor
 1066.1.5:
-  ruler: eng_harold_i_of_godwin
+  ruler: eng_harold_godwinson
 1066.10.15:
-  ruler: eng_edgar_ii_of_wessex
+  ruler: eng_edgar_aetheling
 1066.12.25:
-  ruler: eng_william_i_de_normandie
+  ruler: eng_william_the_conquerer
+  regnal_number: 1
   primary_culture: english
+  court_language: norman_dialect
+  tolerated_cultures:
+    northumbrian: yes
+    anglo_saxon: yes
 1087.9.9:
-  ruler: eng_william_ii_de_normandie_1
+  ruler: eng_william_ii_rufus
+  regnal_number: 2
 1100.8.2:
-  ruler: eng_henry_i_de_normandie_1
+  ruler: eng_henry_i
+  regnal_number: 1
 1135.12.1:
   ruler: eng_stephen_i_de_blois
+  regnal_number: 1
+1150:
+  tolerated_cultures:
+    anglo_saxon: no
+    northumbrian: no
+  accepted_cultures:
+    northumbrian: yes
 1154.12.19:
-  ruler: eng_henry_ii_plantagenet
-1170.6.14:
-  ruler: eng_henry_iii_plantagenet_1
-1183.6.11:
-  ruler: eng_richard_i_plantagenet_1
+  ruler: eng_henry_ii_curtmantle
+  regnal_number: 2
+1189.7.6:
+  ruler: eng_richard_i_lionheart
+  regnal_number: 1
 1199.4.6:
-  ruler: eng_john_i_plantagenet_1
-1215.6.15:
-  government: catholic_monarchy
+  ruler: eng_john_lackland
+  regnal_number: 1
 1216.10.19:
-  ruler: eng_henry_iii_plantagenet_3
+  ruler: eng_henry_iii
+  regnal_number: 3
 1272.11.16:
-  ruler: eng_edward_i_plantagenet_1
+  ruler: eng_edward_i
+  regnal_number: 1
 1307.7.7:
-  ruler: eng_edward_ii_plantagenet_1
+  ruler: eng_edward_ii
+  regnal_number: 2
 1327.9.21:
-  ruler: eng_edward_iii_plantagenet_1
+  ruler: eng_edward_iii
+  regnal_number: 3
+1362.1.28:
+  court_language: english_language #Pleading in English Act 1362
 1377.6.21:
-  ruler: eng_richard_ii_plantagenet_1
-1399.9.12:
+  ruler: eng_richard_ii_plantagenet
+  regnal_number: 2
+1399.9.30:
   ruler: eng_henry_iv_lancaster
+  regnal_number: 4
 1413.3.21:
   ruler: eng_henry_v_lancaster
+  regnal_number: 5
 1422.8.31:
   ruler: eng_henry_vi_lancaster
+  regnal_number: 6
 1461.3.4:
   ruler: eng_edward_iv_york
-1470.10.30:
+  regnal_number: 4
+1470.10.3:
   ruler: eng_henry_vi_lancaster
+  regnal_number: 6
 1471.4.11:
   ruler: eng_edward_iv_york
+  regnal_number: 4
 1483.4.9:
-  ruler: eng_edward_v_york_1
-1483.6.26:
-  ruler: eng_richard_iii_york_1
-1485.8.23:
+  ruler: eng_edward_v_york
+  regnal_number: 5
+1483.6.25:
+  ruler: eng_richard_iii_york
+  regnal_number: 3
+1485.8.22:
   ruler: eng_henry_vii_tudor
+  regnal_number: 7
 1509.4.22:
   ruler: eng_henry_viii_tudor
-1534.1.1:
+  regnal_number: 8
+1534.11.3:
   religion: anglican
 1547.1.28:
   ruler: eng_edward_vi_tudor
+  regnal_number: 6
 1553.7.6:
-  ruler: eng_jane_i_grey
+  ruler: eng_jane_grey
+  regnal_number: 1
 1553.7.19:
   ruler: eng_mary_i_tudor
+  regnal_number: 1
+1553.10:
   religion: catholic
 1558.11.17:
   ruler: eng_elizabeth_i_tudor
   religion: anglican
+  regnal_number: 1
 1603.3.24:
   ruler: eng_james_i_stuart
+  regnal_number: 1
+  accepted_cultures:
+    scottish: yes
 1625.3.27:
   ruler: eng_charles_i_stuart
+  regnal_number: 1
 1646.5.5:
+  regent: eng_oliver_cromwell
+1649.5.19:
+  government: catholic_republic
   ruler: eng_oliver_cromwell
-  religion: calvinist
+  religion: presbyterian
 1658.9.3:
   ruler: eng_richard_cromwell
 1659.5.25:
+  ruler: eng_charles_fleetwood
+1659.10.12:
+  ruler: eng_john_lambert
+1660.2.21:
+  ruler: eng_george_monck
+1660.3.16:
   religion: anglican
 1660.5.29:
+  government: catholic_monarchy
   ruler: eng_charles_ii_stuart
+  regnal_number: 2
 1685.2.6:
   ruler: eng_james_ii_stuart
-  religion: catholic
-1688.12.11:
-  ruler: eng_convention_parliament
-  religion: anglican
-1689.2.15:
+  regnal_number: 2
+1688.12.23:
+  regent: ---
+1689.2.13:
+  ruler: eng_mary_ii_stuart
+  regnal_number: 2
+1694.12.28:
   ruler: eng_william_iii_van_oranje
+  regnal_number: 3
 1702.3.8:
   ruler: eng_anne_i_stuart
+  regnal_number: 1

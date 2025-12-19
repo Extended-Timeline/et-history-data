@@ -1,0 +1,65 @@
+moy_donald:
+  910:
+    birth: inverness #unknown
+    first_name: name_donald
+    dynasty: loairn_dynasty
+    religion: catholic
+    culture: highland
+    tag: MOY
+  960:
+    death: yes
+moy_ruaidri:
+  940:
+    birth: inverness #unknown
+    first_name: name_roderick
+    dynasty: loairn_dynasty
+    father: moy_donald
+    religion: catholic
+    culture: highland
+    tag: MOY
+  1005:
+    death: yes
+moy_findlaech:
+  965:
+    birth: inverness #unknown
+    first_name: findlaech
+    dynasty: loairn_dynasty
+    father: moy_ruaidri
+    religion: catholic
+    culture: highland
+    tag: MOY
+  1020:
+    death: yes
+moy_mael_brigte:
+  970:
+    birth: inverness #unknown
+    first_name: mael.brigte
+    dynasty: loairn_dynasty
+    father: moy_ruaidri
+    religion: catholic
+    culture: highland
+    tag: MOY
+  1010:
+    death: yes
+moy_mael_coluim:
+  990:
+    birth: inverness #unknown
+    first_name: name_malcolm
+    dynasty: loairn_dynasty
+    father: moy_mael_brigte
+    religion: catholic
+    culture: highland
+    tag: MOY
+  1029:
+    death: yes
+moy_gille_coemgain:
+  1000:
+    birth: inverness #unknown
+    first_name: gille_coemgain
+    dynasty: loairn_dynasty
+    father: moy_mael_brigte
+    religion: catholic
+    culture: highland
+    tag: MOY
+  1032:
+    death: yes

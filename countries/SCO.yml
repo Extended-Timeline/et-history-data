@@ -1,109 +1,182 @@
-#imported from EU4
-2.1.1:
-  government: gaelic_monarchy
+1:
+  government: catholic_monarchy
   color: rgb { 199  175  12 }
   religion: chalcedonism
   primary_culture: highland
-  capital: edinburgh
-843.1.1:
-  ruler: sco_kenneth_i_mac_alpin
+  capital: dunfermline
+843:
+  ruler: sco_kenneth_i
+  regnal_number: 1
+  tolerated_cultures:
+    norse_gael: yes
 858.2.13:
-  ruler: sco_donald_i_mac_alpin
+  ruler: sco_donald_i
+  regnal_number: 1
 862.4.13:
-  ruler: sco_constantine_i_mac_alpin
-867.1.1:
+  ruler: sco_constantine_i
+  regnal_number: 1
+867:
   religion: catholic
-877.1.1:
-  ruler: sco_aed_mac_alpin
-878.1.1:
+877:
+  ruler: sco_aedh
+  regnal_number: 1
+878:
   ruler: sco_giric_mac_alpin
-889.1.1:
-  ruler: sco_donald_ii_mac_alpin
-900.1.1:
-  ruler: sco_constantine_ii_mac_alpin
-943.1.1:
-  ruler: sco_malcolm_i_mac_alpin
-954.1.1:
-  ruler: sco_indulf_mac_alpin
-962.1.1:
-  ruler: sco_dub_mac_alpin
-967.1.1:
-  ruler: sco_cuilen_mac_alpin
-971.1.1:
-  ruler: sco_kenneth_ii_mac_alpin
-995.1.1:
-  ruler: sco_constantine_iii_mac_alpin
-997.1.1:
-  ruler: sco_kenneth_iii_mac_alpin
+  regnal_number: 1
+889:
+  ruler: sco_donald_ii
+  regnal_number: 2
+900:
+  ruler: sco_constantine_ii
+  regnal_number: 2
+943:
+  ruler: sco_malcolm_i
+  regnal_number: 1
+954:
+  ruler: sco_indulf
+  regnal_number: 1
+962:
+  ruler: sco_dubh
+  regnal_number: 1
+967:
+  ruler: sco_culen
+  regnal_number: 1
+971:
+  ruler: sco_kenneth_ii
+  regnal_number: 2
+995:
+  ruler: sco_constantine_iii
+  regnal_number: 3
+997:
+  ruler: sco_kenneth_iii
+  regnal_number: 3
 1005.3.25:
-  ruler: sco_malcolm_ii_mac_alpin
+  ruler: sco_malcolm_ii
+  regnal_number: 2
 1034.11.25:
-  ruler: sco_duncan_i_dunkeld
+  ruler: sco_duncan_i
+  regnal_number: 1
 1040.8.14:
-  ruler: sco_macbeth_dunkeld
+  ruler: sco_macbeth
+  regnal_number: 1
 1057.8.15:
-  ruler: sco_lulach_dunkeld
+  ruler: sco_lulach
+  regnal_number: 1
 1058.3.17:
-  ruler: sco_malcolm_iii_dunkeld
-1066.12.25:
-  primary_culture: scottish
+  ruler: sco_malcolm_iii
+  regnal_number: 3
 1093.11.13:
-  ruler: sco_donald_iii_dunkeld
-1097.1.1:
-  ruler: sco_edgar_dunkeld
+  ruler: sco_donald_iii
+  regnal_number: 3
+1094.5:
+  ruler: sco_duncan_ii
+  regnal_number: 2
+1094.11.12:
+  ruler: sco_donald_iii
+  regnal_number: 3
+1095:
+  primary_culture: scottish
+  accepted_cultures:
+    highland: yes
+1097:
+  ruler: sco_edgar
+  regnal_number: 1
 1107.1.8:
-  ruler: sco_alexander_i_dunkeld
+  ruler: sco_alexander_i
+  regnal_number: 1
 1124.4.23:
-  ruler: sco_david_i_dunkeld
+  ruler: sco_david_i
+  regnal_number: 1
 1153.5.24:
-  ruler: sco_malcolm_iv_dunkeld
+  ruler: sco_malcolm_iv
+  regnal_number: 4
 1165.12.9:
-  ruler: sco_william_i_dunkeld
+  ruler: sco_william_the_lion
+  regnal_number: 1
 1214.12.4:
-  ruler: sco_alexander_ii_dunkeld
+  ruler: sco_alexander_ii
+  regnal_number: 2
 1249.7.6:
-  ruler: sco_alexander_iii_dunkeld
+  ruler: sco_alexander_iii
+  regnal_number: 3
 1286.3.19:
-  ruler: sco_margaret_sverre
+  regent: sco_john_comyn_ii_of_badenoch
+  heir: nor_margaret_sverre
+1290.9.29:
+  heir: ---
 1292.11.17:
-  ruler: sco_john_balliol
+  ruler: sco_john_balliol_of_scotland
+  regnal_number: 1
+1296.7.10:
+  regent: sco_william_wallace
+1298.7.22:
+  regent: sco_john_comyn_iii_of_badenoch
+1301.5:
+  regent: sco_john_de_soules
 1306.3.25:
-  ruler: sco_robert_i_bruce
+  ruler: sco_robert_the_bruce
+  regnal_number: 1
 1329.6.7:
-  ruler: sco_david_ii_bruce
+  ruler: sco_david_ii
+  regnal_number: 2
 1371.2.22:
-  ruler: sco_robert_ii_stuart
+  ruler: sco_robert_ii
+  regnal_number: 2
 1390.1.1:
-  ruler: sco_robert_iii_stuart_1
+  ruler: sco_robert_iii_stuart
+  regnal_number: 3
 1406.1.1:
-  ruler: sco_james_i_stuart_1
+  ruler: sco_james_i_stuart
+  regnal_number: 1
+1420:
+  capital: edinburgh
 1437.2.20:
-  ruler: sco_james_ii_stuart_1
+  ruler: sco_james_ii_stuart
+  regnal_number: 2
 1460.8.3:
-  ruler: sco_james_iii_stuart_1
+  ruler: sco_james_iii_stuart
+  regnal_number: 3
 1488.6.12:
-  ruler: sco_james_iv_stuart_1
+  ruler: sco_james_iv_stuart
+  regnal_number: 4
 1513.9.10:
-  ruler: sco_james_v_stuart_1
+  ruler: sco_james_v_stuart
+  regnal_number: 5
 1542.12.15:
-  ruler: sco_mary_i_stuart_1
-1560.8.1:
-  religion: calvinist
-1567.7.15:
-  government: et_reformation_monarchy
-  ruler: sco_james_vi_stuart_1
-  religion: calvinist
-1625.3.28:
-  ruler: sco_charles_i_stuart_1
+  ruler: sco_mary_i_stuart
+  regnal_number: 1
+1560.8.17:
+  religion: presbyterian
+1587.2.8:
+  ruler: eng_james_i_stuart
+  regnal_number: 6
+1603.3.24:
+  accepted_cultures:
+    english: yes
+1625.3.27:
+  ruler: eng_charles_i_stuart
+  regnal_number: 1
 1649.1.30:
-  ruler: sco_alexander_leslie
-1660.4.24:
-  ruler: sco_charles_ii_stuart_1
+  ruler: eng_charles_ii_stuart
+  regnal_number: 2
+1651.9.3:
+  government: catholic_republic
+  ruler: eng_george_monck
+1660.5.29:
+  government: catholic_monarchy
+  ruler: eng_charles_ii_stuart
+  regnal_number: 2
 1685.2.6:
-  ruler: sco_james_vii_stuart_1
-1688.2.15:
-  ruler: sco_william_iii_van_oranje
-1701.9.7:
-  ruler: sco_james_viii_stuart
-1702.3.20:
-  ruler: sco_anne_stuart
+  ruler: eng_james_ii_stuart
+  regnal_number: 7
+1688.12.23:
+  regent: ---
+1689.2.13:
+  ruler: eng_mary_ii_stuart
+  regnal_number: 2
+1694.12.28:
+  ruler: eng_william_iii_van_oranje
+  regnal_number: 2
+1702.3.8:
+  ruler: eng_anne_i_stuart
+  regnal_number: 1

@@ -1,50 +1,69 @@
 #imported from EU4
 2.1.1:
   government: iberian_monarchy
+  government_rank: rank_county
   color: rgb { 193  171  8 }
   religion: catholic
   primary_culture: castilian
   capital: toledo
-487.1.1:
-  government: catholic_monarchy
-931.1.1:
+931:
   ruler: cas_fernan_gonzalez_beni_mamaduna
-962.1.1:
-  government: iberian_monarchy
-970.1.1:
-  ruler: cas_garcia_fernandez_beni_mamaduna_1
-995.1.1:
-  ruler: cas_sancho_garcia_beni_mamaduna_1
-1017.1.1:
-  ruler: cas_garcia_sanchez_beni_mamaduna_1
-1029.1.1:
-  ruler: cas_ferdinand_i_jimenez
+970:
+  ruler: cas_garcia_fernandez_beni_mamaduna
+995:
+  ruler: cas_sancho_garcia_beni_mamaduna
+1017.2.5:
+  regent: cas_urraca_garcia_beni_mamaduna
+  heir: cas_garcia_sanchez_beni_mamaduna
+1028:
+  ruler: cas_garcia_sanchez_beni_mamaduna
+1029:
+  ruler: lon_fernando_i_jimena
 1065.12.24:
-  ruler: cas_sancho_ii_jimenez_1
+  government_rank: rank_kingdom
+  ruler: cas_sancho_ii_jimena
+1072.10.7:
+  ruler: lon_alfonso_vi_jimena
+1109.6.29:
+  ruler: lon_urraca_i_jimena
+1126.3.8:
+  ruler: cas_alfonso_vii_burgundy
 1157.8.21:
-  ruler: cas_sancho_iii_divrea
+  ruler: cas_sancho_iii_burgundy
 1158.8.31:
-  ruler: cas_alfonso_viii_divrea_1
+  ruler: cas_alfonso_viii_burgundy
 1214.10.5:
-  ruler: cas_enrique_i_divrea_1
+  regent: cas_berenguela_i_burgundy
+  heir: cas_enrique_i_burgundy
 1217.6.6:
-  ruler: cas_ferdinand_iii_divrea_1
+  ruler: cas_berenguela_i_burgundy
+1217.8.31:
+  ruler: cas_fernando_iii_burgundy
 1252.5.30:
-  ruler: cas_alfonso_x_divrea_1
+  ruler: cas_alfonso_x_burgundy
 1284.4.4:
-  ruler: cas_sancho_iv_divrea_1
+  ruler: cas_sancho_iv_burgundy
 1295.4.25:
-  ruler: cas_ferdinand_iv_divrea_1
+  regent: cas_maria_molina
+  heir: cas_fernando_iv_burgundy
+1301.12.6:
+  ruler: cas_fernando_iv_burgundy
 1312.9.7:
-  ruler: cas_alfonso_xi_divrea_1
+  regent: cas_maria_molina
+  heir: cas_alfonso_xi_burgundy
+1321.7.1:
+  regent: cas_juan_manuel_of_villena
+  heir: cas_alfonso_xi_burgundy
+1325.8:
+  ruler: cas_alfonso_xi_burgundy
 1350.3.26:
-  ruler: cas_pedro_i_divrea_1
-1366.3.29:
-  ruler: cas_enrique_ii_de_trastamara
-1367.1.1:
-  ruler: cas_pedro_i_divrea_2
+  ruler: cas_pedro_i_burgundy
+1366.3.13:
+  ruler: cas_enrique_ii_trastamara
+1367.4.3:
+  ruler: cas_pedro_i_burgundy
 1369.3.23:
-  ruler: cas_enrique_ii_de_trastamara_1
+  ruler: cas_enrique_ii_trastamara
 1379.5.29:
   ruler: cas_juan_i_de_trastamara_1
 1390.10.9:

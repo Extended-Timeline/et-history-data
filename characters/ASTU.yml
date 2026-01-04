@@ -1,182 +1,307 @@
-astu_pelagius_de_asturias:
-  688.1.1:
-    birth: oviedo #TODO: Date and location guessed, check if better data is available
-    first_name: pelagius
-    dynasty: de_asturias_dynasty
-    adm: 60
-    dip: 45
-    mil: 75
+lon_pedro_cantabria:
+  680:
+    birth: san_vicente_barquera #unknown
+    first_name: name_peter
+    dynasty: asturleonesa_dynasty
+    religion: chalcedonism
+    culture: leonese
+    tag: LON
+    estate: nobles_estate
+  730:
+    death: yes
+lon_pelagio_asturias:
+  685:
+    birth: villaviciosa #unknown
+    first_name: name_pelagius
+    dynasty: pelagia_dynasty
+    adm: 39
+    dip: 28
+    mil: 69
     religion: chalcedonism
     culture: leonese
     tag: ASTU
-  737.6.1:
+    traits:
+      zealot: yes
+  737:
     death: yes
-astu_favila_de_asturias:
-  707.1.1:
-    birth: oviedo #TODO: Date and location guessed, check if better data is available
-    first_name: favila
-    dynasty: de_asturias_dynasty
-    adm: 30
-    dip: 30
+lon_alfonso_i_asturias:
+  693:
+    birth: san_vicente_barquera #unknown
+    first_name: name_alphonse
+    dynasty: asturleonesa_dynasty
+    father: lon_pedro_cantabria
+    adm: 29
+    dip: 27
     mil: 45
     religion: chalcedonism
     culture: leonese
     tag: ASTU
-  739.6.1:
+    estate: nobles_estate
+    traits:
+      expansionist: yes
+  739:
+    estate: ---
+    nickname: nick_the_catholic
+  757:
     death: yes
-astu_alfonso_i_de_beni_alfons:
-  709.1.1:
-    birth: oviedo #TODO: Date and location guessed, check if better data is available
-    first_name: alfonso
-    dynasty: de_beni_alfons_dynasty
-    adm: 45
-    dip: 15
-    mil: 45
+astu_gaudiosa:
+  695:
+    birth: villaviciosa #unknown
+    first_name: gaudiosa
+    female: yes
     religion: chalcedonism
     culture: leonese
     tag: ASTU
-  757.6.1:
+  709:
+    spouse: lon_pelagio_asturias
+  760:
     death: yes
-astu_fruela_i_de_beni_alfons:
-  727.1.1:
-    birth: oviedo #TODO: Date and location guessed, check if better data is available
-    first_name: fruela
-    dynasty: de_beni_alfons_dynasty
-    adm: 90
-    dip: 30
-    mil: 60
+lon_fruela_cantabria:
+  708:
+    birth: san_vicente_barquera #unknown
+    first_name: name_froila
+    dynasty: asturleonesa_dynasty
+    father: lon_pedro_cantabria
     religion: chalcedonism
     culture: leonese
     tag: ASTU
-  768.6.1:
+    estate: nobles_estate
+  756:
     death: yes
-astu_aurelius_de_beni_alfons:
-  738.1.1:
-    birth: oviedo #TODO: Date and location guessed, check if better data is available
-    first_name: aurelius
-    dynasty: de_beni_alfons_dynasty
-    adm: 15
-    dip: 45
-    mil: 30
+lon_favila_asturias:
+  710:
+    birth: villaviciosa #unknown
+    first_name: name_favila
+    dynasty: pelagia_dynasty
+    father: lon_pelagio_asturias
+    mother: astu_gaudiosa
     religion: chalcedonism
     culture: leonese
     tag: ASTU
-  774.6.1:
+  739:
     death: yes
-astu_silo_de_beni_alfons:
-  744.1.1:
-    birth: oviedo #TODO: Date and location guessed, check if better data is available
-    first_name: silo
-    dynasty: de_beni_alfons_dynasty
-    adm: 60
-    dip: 15
-    mil: 15
+lon_ermesinda_asturias:
+  712:
+    birth: villaviciosa #unknown
+    first_name: name_ermesinde
+    dynasty: pelagia_dynasty
+    female: yes
+    father: lon_pelagio_asturias
+    mother: astu_gaudiosa
     religion: chalcedonism
     culture: leonese
     tag: ASTU
-  783.6.1:
+  770:
     death: yes
-astu_mauregatus_de_beni_alfons:
-  753.1.1:
-    birth: oviedo #TODO: Date and location guessed, check if better data is available
-    first_name: mauregatus
-    dynasty: de_beni_alfons_dynasty
-    adm: 15
-    dip: 15
-    mil: 30
+lon_fruela_i_asturias:
+  722:
+    birth: villaviciosa #unknown
+    first_name: name_froila
+    dynasty: asturleonesa_dynasty
+    father: lon_alfonso_i_asturias
+    mother: lon_ermesinda_asturias
+    adm: 56
+    dip: 43
+    mil: 25
     religion: chalcedonism
     culture: leonese
     tag: ASTU
-  788.6.1:
+    traits:
+      cruel: yes
+  765:
+    nickname: Cruel
+  768.1.14:
     death: yes
-astu_bermudo_i_de_beni_alfons:
-  758.1.1:
-    birth: oviedo #TODO: Date and location guessed, check if better data is available
-    first_name: bermudo
-    dynasty: de_beni_alfons_dynasty
-    adm: 60
-    dip: 45
-    mil: 45
+astu_vimarano:
+  725:
+    birth: villaviciosa #unknown
+    first_name: vimarano
+    dynasty: asturleonesa_dynasty
+    father: lon_alfonso_i_asturias
+    mother: lon_ermesinda_asturias
     religion: chalcedonism
     culture: leonese
     tag: ASTU
-  791.6.1:
+  765:
     death: yes
-astu_alfonso_ii_de_beni_alfons:
-  761.1.1:
-    birth: oviedo #TODO: Date and location guessed, check if better data is available
-    first_name: alfonso
-    dynasty: de_beni_alfons_dynasty
-    adm: 30
-    dip: 45
-    mil: 30
+lon_silo_asturias:
+  730:
+    birth: oviedo #unknown
+    first_name: name_silo
+    dynasty: silo_asturias_dynasty
     religion: chalcedonism
     culture: leonese
     tag: ASTU
-  842.4.1:
+    estate: nobles_estate
+    traits:
+      calm: yes
+  774:
+    estate: ---
+  783:
     death: yes
-astu_nepotian_de_asturias:
-  812.1.1:
-    birth: oviedo #TODO: Date and location guessed, check if better data is available
-    first_name: nepotian
-    dynasty: de_asturias_dynasty
-    adm: 60
-    dip: 45
-    mil: 45
+lon_mauregato_asturias:
+  730: #unknown
+    birth: villaviciosa #unknown
+    first_name: name_mauregatus
+    dynasty: asturleonesa_dynasty
+    father: lon_alfonso_i_asturias
+    adm: 35
+    dip: 35
+    mil: 52
     religion: chalcedonism
     culture: leonese
     tag: ASTU
-  842.8.1:
+    traits:
+      sinner: yes
+      bastard: yes
+  783:
+    nickname: nick_the_usurper
+  789:
     death: yes
-astu_ramiro_i_de_beni_alfons:
-  812.1.1:
-    birth: oviedo #TODO: Date and location guessed, check if better data is available
-    first_name: ramiro
-    dynasty: de_beni_alfons_dynasty
-    adm: 60
-    dip: 45
-    mil: 45
+lon_adosinda_asturias:
+  735:
+    birth: villaviciosa #unknown
+    first_name: name_adosinda
+    dynasty: asturleonesa_dynasty
+    female: yes
+    father: lon_alfonso_i_asturias
+    mother: lon_ermesinda_asturias
     religion: chalcedonism
     culture: leonese
     tag: ASTU
-  850.6.1:
+  750:
+    spouse: lon_silo_asturias
+  790:
     death: yes
-astu_ordono_i_de_beni_alfons:
-  820.1.1:
-    birth: oviedo #TODO: Date and location guessed, check if better data is available
-    first_name: ordono
-    dynasty: de_beni_alfons_dynasty
-    adm: 15
-    dip: 30
-    mil: 15
+astu_munia:
+  740:
+    birth: villaviciosa #TODO: Alava
+    first_name: name_munia
+    female: yes
+    religion: chalcedonism
+    culture: basque
+    tag: ASTU
+  755:
+    spouse: lon_fruela_i_asturias
+  790:
+    death: yes
+lon_aurelio_asturias:
+  740:
+    birth: villaviciosa #unknown
+    first_name: name_aurelius
+    dynasty: asturleonesa_dynasty
+    father: lon_fruela_cantabria
     religion: chalcedonism
     culture: leonese
     tag: ASTU
+    estate: nobles_estate
+  768:
+    estate: ---
+  774:
+    death: yes
+lon_bermudo_i_asturias:
+  750:
+    birth: villaviciosa #unknown
+    first_name: name_bermund
+    dynasty: asturleonesa_dynasty
+    father: lon_fruela_cantabria
+    religion: chalcedonism
+    culture: leonese
+    tag: ASTU
+    estate: nobles_estate
+  789:
+    nickname: nick_the_deacon
+    estate: ---
+  797:
+    death: yes
+lon_alfonso_ii_asturias:
+  760.1.1:
+    birth: oviedo #unknown
+    first_name: name_alphonse
+    nickname: nick_the_chaste
+    dynasty: asturleonesa_dynasty
+    father: lon_fruela_i_asturias
+    mother: astu_munia
+    adm: 69
+    dip: 62
+    mil: 25
+    religion: chalcedonism
+    culture: leonese
+    tag: ASTU
+    estate: nobles_estate
+    traits:
+      zealot: yes
+      pious: yes
+  791:
+    nickname: nick_the_chaste
+    estate: ---
+  842.3.20:
+    death: yes
+lon_ramiro_i_asturias:
+  790:
+    birth: oviedo #unknown
+    first_name: name_ramiro
+    dynasty: asturleonesa_dynasty
+    father: lon_bermudo_i_asturias
+    adm: 41
+    dip: 24
+    mil: 38
+    religion: chalcedonism
+    culture: leonese
+    tag: ASTU
+    traits:
+      righteous: yes
+  850.2.1:
+    death: yes
+lon_ordono_i_asturias:
+  821:
+    birth: oviedo #unknown
+    first_name: name_ordono
+    dynasty: asturleonesa_dynasty
+    father: lon_ramiro_i_asturias
+    adm: 58
+    dip: 39
+    mil: 31
+    religion: chalcedonism
+    culture: leonese
+    tag: ASTU
+    traits:
+      architectural_visionary: yes
   866.5.27:
     death: yes
-astu_alfonso_iii_de_beni_alfons:
-  836.1.1:
-    birth: oviedo #TODO: Date and location guessed, check if better data is available
-    first_name: alfonso
-    dynasty: de_beni_alfons_dynasty
-    adm: 45
-    dip: 30
-    mil: 45
-    religion: catholic
+lon_alfonso_iii_asturias:
+  852:
+    birth: oviedo #unknown
+    first_name: name_alphonse
+    dynasty: asturleonesa_dynasty
+    father: lon_ordono_i_asturias
+    adm: 70
+    dip: 66
+    mil: 61
+    religion: chalcedonism
     culture: leonese
     tag: ASTU
-  910.12.10:
+    traits:
+      architectural_visionary: yes
+      scholar: yes
+      expansionist: yes
+  866.5.27:
+    nickname: nick_the_great
+  867:
+    religion: catholic
+  910.12.20:
     death: yes
-astu_fruela_ii_de_beni_alfons:
-  880.1.1:
-    birth: oviedo #TODO: Date and location guessed, check if better data is available
-    first_name: fruela
-    dynasty: de_beni_alfons_dynasty
-    adm: 30
-    dip: 45
-    mil: 30
-    religion: catholic
-    culture: leonese
+astu_jimena:
+  855:
+    birth: pamplona
+    first_name: name_ximena
+    female: yes
+    religion: chalcedonism
+    culture: basque
     tag: ASTU
-  3000.1.1:
+  867:
+    religion: catholic
+  870:
+    spouse: lon_alfonso_iii_asturias
+  912:
     death: yes

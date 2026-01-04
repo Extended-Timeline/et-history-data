@@ -5,43 +5,53 @@
   religion: catholic
   primary_culture: leonese
   capital: leon
-487.1.1:
-  government: catholic_monarchy
 910.12.10:
-  ruler: lon_garcia_i_de_beni_alfons
-914.1.1:
-  ruler: lon_ordono_ii_de_beni_alfons
-924.1.1:
-  ruler: lon_alfonso_iv_de_beni_alfons
-931.6.1:
-  ruler: lon_ramiro_ii_de_beni_alfons
-951.6.1:
-  ruler: lon_ordono_iii_de_beni_alfons
-956.6.1:
-  ruler: lon_sancho_i_de_beni_alfons
-958.6.1:
-  ruler: lon_ordono_iv_de_beni_alfons
-960.6.1:
-  ruler: lon_sancho_i_de_beni_alfons_1
-962.1.1:
-  government: iberian_monarchy
-966.6.1:
-  ruler: lon_ramiro_iii_de_beni_alfons
-982.6.1:
-  ruler: lon_bermudo_ii_de_beni_alfons
-999.6.1:
-  ruler: lon_alfonso_v_de_beni_alfons
-1010.1.1:
-  ruler: lon_bermudo_iii_de_beni_alfons
+  ruler: lon_garcia_i_leon
+914:
+  ruler: lon_ordono_ii_leon
+924.6:
+  ruler: lon_fruela_ii_leon
+925.7:
+  ruler: lon_alfonso_froilaz
+926:
+  ruler: lon_alfonso_iv_leon
+931:
+  ruler: lon_ramiro_ii_leon
+951.1.1:
+  ruler: lon_ordono_iii_leon
+956:
+  ruler: lon_sancho_i_leon
+958:
+  ruler: lon_ordono_iv_leon
+960.8: #Second half of 960
+  ruler: lon_sancho_i_leon
+966.12.19:
+  regent: lon_elvira_ramirez
+  heir: lon_ramiro_iii_leon
+983:
+  ruler: lon_ramiro_iii_leon
+984:
+  ruler: lon_bermudo_ii_leon
+999:
+  ruler: lon_alfonso_v_leon
+1008.10.6:
+  regent: lon_menendo_gonzales
+  heir: lon_alfonso_v_leon
+1028.8.7:
+  ruler: lon_bermudo_iii_leon
+1037.9.4:
+  ruler: lon_fernando_i_jimena
 1065.12.24:
-  ruler: lon_alfonso_vi_jimenez
+  ruler: lon_alfonso_vi_jimena
+1072.1.12: #Battle of Golpejera
+  ruler: cas_sancho_ii_jimena
 1072.10.7:
-  ruler: lon_alfonso_vi_jimenez_1
+  ruler: lon_alfonso_vi_jimena
 1109.6.29:
-  ruler: lon_urraca_jimenez
-1135.1.1:
-  ruler: lon_alfonso_vii_divrea
+  ruler: lon_urraca_i_jimena
+1126.3.8:
+  ruler: cas_alfonso_vii_burgundy
 1157.8.21:
-  ruler: lon_ferdinand_ii_divrea
-1188.6.1:
-  ruler: lon_alfonso_ix_divrea
+  ruler: lon_fernando_ii_burgundy
+1188.1.22:
+  ruler: lon_alfonso_ix_burgundy

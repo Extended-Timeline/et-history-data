@@ -1,411 +1,1342 @@
 cas_fernan_gonzalez_beni_mamaduna:
-  901.1.1:
-    birth: toledo #TODO: Date and location guessed, check if better data is available
-    first_name: fernan_gonzalez
+  910:
+    birth: burgos #TODO: Lara de los Infantes
+    first_name: fernan
     dynasty: beni_mamaduna_dynasty
-    adm: 45
-    dip: 15
-    mil: 60
     religion: catholic
     culture: castilian
     tag: CAS
-  970.1.1:
+  970:
+    death: yes
+cas_sancha_sanchez_of_pamplona:
+  908:
+    birth: pamplona
+    first_name: name_sancha
+    dynasty: jimena_dynasty
+    female: yes
+    father: nav_sancho_i_jimena
+    mother: nav_toda_aznarez
+    religion: catholic
+    culture: basque
+    tag: NAV
+  923:
+    spouse: lon_ordono_ii_leon
+    tag: LON
+  932:
+    spouse: cas_fernan_gonzalez_beni_mamaduna
+    tag: CAS
+  960:
     death: yes
 cas_garcia_fernandez_beni_mamaduna:
-  938.1.1:
-    birth: toledo #TODO: Date and location guessed, check if better data is available
-    first_name: garcia_fernandez
+  938:
+    birth: burgos #unknown
+    first_name: name_garcia
     dynasty: beni_mamaduna_dynasty
-    father: cas_fernan_gonzalez_beni_mamaduna #TODO: check if this makes sense
-    adm: 15
-    dip: 75
-    mil: 60
+    father: cas_fernan_gonzalez_beni_mamaduna
+    mother: cas_sancha_sanchez_of_pamplona
     religion: catholic
     culture: castilian
     tag: CAS
-  995.1.1:
+  995:
     death: yes
-cas_garcia_fernandez_beni_mamaduna_1:
-  940.1.1:
-    birth: toledo #TODO: Date and location guessed, check if better data is available
-    first_name: garcia_fernandez
-    dynasty: beni_mamaduna_dynasty
-    adm: 15
-    dip: 75
-    mil: 60
+cas_urraca_garces_of_pamplona:
+  945:
+    birth: pamplona
+    first_name: name_urraca
+    dynasty: jimena_dynasty
+    female: yes
+    father: nav_garcia_i_jimena
+    mother: nav_teresa_ramirez
     religion: catholic
-    culture: castilian
+    culture: basque
+    tag: NAV
+  960:
+    spouse: cas_fernan_gonzalez_beni_mamaduna
     tag: CAS
-  995.1.1:
+  1007:
+    death: yes
+cas_ava_of_ribagorza:
+  945:
+    birth: pamplona #TODO: Ribagorza
+    first_name: name_ava
+    female: yes
+    religion: catholic
+    culture: aragonese
+    tag: CAS
+  964:
+    spouse: cas_garcia_fernandez_beni_mamaduna
+  1010:
     death: yes
 cas_sancho_garcia_beni_mamaduna:
-  960.1.1:
-    birth: toledo #TODO: Date and location guessed, check if better data is available
-    first_name: sancho_garcia
+  965:
+    birth: burgos #unknown
+    first_name: name_sancho
     dynasty: beni_mamaduna_dynasty
-    father: cas_garcia_fernandez_beni_mamaduna_1 #TODO: check if this makes sense
-    adm: 15
-    dip: 30
-    mil: 75
+    father: cas_garcia_fernandez_beni_mamaduna
+    mother: cas_ava_of_ribagorza
     religion: catholic
     culture: castilian
     tag: CAS
-  1017.1.1:
+  1017.2.5:
     death: yes
-cas_sancho_garcia_beni_mamaduna_1:
-  965.1.1:
-    birth: toledo #TODO: Date and location guessed, check if better data is available
-    first_name: sancho_garcia
+cas_urraca_garcia_beni_mamaduna:
+  970:
+    birth: burgos #unknown
+    first_name: name_urraca
     dynasty: beni_mamaduna_dynasty
-    adm: 15
-    dip: 30
-    mil: 75
+    female: yes
+    father: cas_garcia_fernandez_beni_mamaduna
+    mother: cas_ava_of_ribagorza
     religion: catholic
     culture: castilian
     tag: CAS
-  1017.1.1:
+  1040:
+    death: yes
+cas_urraca_gomez:
+  970:
+    birth: burgos #unknown
+    first_name: name_urraca
+    female: yes
+    religion: catholic
+    culture: castilian
+    tag: CAS
+  990:
+    spouse: cas_sancho_garcia_beni_mamaduna
+  1039:
     death: yes
 cas_garcia_sanchez_beni_mamaduna:
-  980.1.1:
-    birth: toledo #TODO: Date and location guessed, check if better data is available
+  1012:
+    birth: burgos #unknown
     first_name: garcia_sanchez
     dynasty: beni_mamaduna_dynasty
-    father: cas_sancho_garcia_beni_mamaduna_1 #TODO: check if this makes sense
-    adm: 45
-    dip: 15
-    mil: 75
+    father: cas_sancho_garcia_beni_mamaduna
+    mother: cas_urraca_gomez
     religion: catholic
     culture: castilian
     tag: CAS
-  1029.1.1:
+  1029:
     death: yes
-cas_garcia_sanchez_beni_mamaduna_1:
-  987.1.1:
-    birth: toledo #TODO: Date and location guessed, check if better data is available
-    first_name: garcia_sanchez
-    dynasty: beni_mamaduna_dynasty
-    adm: 45
-    dip: 15
-    mil: 75
+cas_sancho_ii_jimena:
+  1038:
+    birth: zamora
+    first_name: name_sancho
+    dynasty: jimena_dynasty
+    father: lon_fernando_i_jimena
+    mother: lon_sancha_leon
+    adm: 44
+    dip: 38
+    mil: 76
     religion: catholic
     culture: castilian
-    tag: CAS
-  1029.1.1:
-    death: yes
-cas_ferdinand_i_jimenez:
-  999.1.1:
-    birth: toledo #TODO: Date and location guessed, check if better data is available
-    first_name: ferdinand
-    dynasty: jimenez_dynasty
-    adm: 90
-    dip: 60
-    mil: 90
-    religion: catholic
-    culture: castilian
-    tag: CAS
+    tag: LON
+    traits:
+      greedy: yes
   1065.12.24:
-    death: yes
-cas_sancho_ii_jimenez:
-  1036.1.1:
-    birth: toledo #TODO: Date and location guessed, check if better data is available
-    first_name: sancho
-    dynasty: jimenez_dynasty
-    father: cas_ferdinand_i_jimenez #TODO: check if this makes sense
-    adm: 60
-    dip: 45
-    mil: 45
-    religion: catholic
-    culture: castilian
+    nickname: nick_the_strong
     tag: CAS
   1072.10.7:
     death: yes
-cas_sancho_ii_jimenez_1:
-  1035.1.1:
-    birth: toledo #TODO: Date and location guessed, check if better data is available
-    first_name: sancho
-    dynasty: jimenez_dynasty
-    adm: 60
-    dip: 45
-    mil: 45
+cas_alberta:
+  1045:
+    birth: burgos #unknown
+    first_name: name_adalberta
     religion: catholic
     culture: castilian
     tag: CAS
-  1157.8.21:
+  1068:
+    spouse: cas_sancho_ii_jimena
+  1090:
     death: yes
-cas_sancho_iii_divrea:
-  1127.1.1:
-    birth: toledo #TODO: Date and location guessed, check if better data is available
-    first_name: sancho
-    dynasty: divrea_dynasty
-    adm: 30
-    dip: 30
-    mil: 60
+cas_alfonso_vii_burgundy:
+  1105.3.1:
+    birth: pontevedra #Caldas de Reis
+    first_name: name_alphonse
+    dynasty: burgundy_castile_dynasty # Founder of the Castillan line of the House of Ivrea
+    father: glc_raymond_burgundy
+    mother: lon_urraca_i_jimena
+    adm: 55
+    dip: 78
+    mil: 41
     religion: catholic
     culture: castilian
+    tag: GLC
+    traits:
+      greedy: yes
+      conqueror: yes
+      intricate_web_weaver: yes
+  1107.5.24:
+    tag: LON
+  1111:
+    tag: GLC
+  1126.3.8:
+    nickname: nick_the_emperor
+    tag: LON
+  1157.8.21:
+    death: yes
+cas_berengaria_of_barcelona:
+  1116:
+    birth: barcelona
+    first_name: name_berengaria
+    religion: catholic
+    culture: catalan
+    tag: LON
+  1128.11.10:
+    spouse: cas_alfonso_vii_burgundy
+  1149.1.15:
+    death: yes
+cas_sancho_iii_burgundy:
+  1134:
+    birth: toledo
+    first_name: name_sancho
+    dynasty: burgundy_castile_dynasty
+    father: cas_alfonso_vii_burgundy
+    mother: cas_berengaria_of_barcelona
+    adm: 50
+    dip: 57
+    mil: 45
+    religion: catholic
+    culture: castilian
+    tag: LON
+    traits:
+      zealot: yes
+  1157.8.21:
     tag: CAS
   1158.8.31:
     death: yes
-cas_alfonso_viii_divrea:
+cas_blanca_of_navarre:
+  1135:
+    birth: toledo #unknown
+    first_name: name_blanche
+    female: yes
+    religion: catholic
+    culture: basque
+    tag: NAV
+  1151:
+    spouse: cas_sancho_iii_burgundy
+    tag: CAS
+  1156.8.12:
+    death: yes
+cas_constance_of_castile:
+  1138:
+    birth: toledo #unknown
+    first_name: name_constance
+    dynasty: burgundy_castile_dynasty
+    female: yes
+    father: cas_alfonso_vii_burgundy
+    mother: cas_berengaria_of_barcelona
+    religion: catholic
+    culture: castilian
+    tag: LON
+  1160.10.4:
+    death: yes
+cas_sancha_of_castile:
+  1139:
+    birth: toledo #unknown
+    first_name: name_sancha
+    dynasty: burgundy_castile_dynasty
+    female: yes
+    father: cas_alfonso_vii_burgundy
+    mother: cas_berengaria_of_barcelona
+    religion: catholic
+    culture: castilian
+    tag: LON
+  1177.8.5:
+    death: yes
+cas_richeza_of_poland:
+  1140:
+    birth: krakow #Poland
+    first_name: name_rikissa
+    religion: catholic
+    culture: lesser_polish
+    tag: POL
+  1152.11:
+    spouse: cas_alfonso_vii_burgundy
+    tag: LON
+  1185.6.16:
+    death: yes
+cas_ferdinand_of_castile:
+  1153:
+    birth: toledo
+    first_name: name_ferdinand
+    dynasty: burgundy_castile_dynasty
+    female: yes
+    father: cas_alfonso_vii_burgundy
+    mother: cas_richeza_of_poland
+    religion: catholic
+    culture: castilian
+    tag: LON
+  1157:
+    death: yes
+cas_sancha_of_castile_of_aragon:
+  1154.9.21:
+    birth: toledo #unknown
+    first_name: name_sancha
+    dynasty: burgundy_castile_dynasty
+    female: yes
+    father: cas_alfonso_vii_burgundy
+    mother: cas_richeza_of_poland
+    religion: catholic
+    culture: castilian
+    tag: LON
+  1208.11.9:
+    death: yes
+cas_alfonso_viii_burgundy:
   1155.11.11:
-    birth: toledo #TODO: Location guessed, check if better data is available
-    first_name: alfonso
-    dynasty: divrea_dynasty
-    father: cas_sancho_iii_divrea #TODO: check if this makes sense
-    adm: 45
-    dip: 15
-    mil: 60
+    birth: soria
+    first_name: name_alphonse
+    dynasty: burgundy_castile_dynasty
+    father: cas_sancho_iii_burgundy
+    adm: 37
+    dip: 57
+    mil: 76
     religion: catholic
     culture: castilian
     tag: CAS
+    traits:
+      zealot: yes
+      conqueror: yes
+      bold_fighter: yes
+  1158.8.31:
+    nickname: nick_the_noble
   1214.10.5:
     death: yes
-cas_alfonso_viii_divrea_1:
-  1128.1.1:
-    birth: toledo #TODO: Date and location guessed, check if better data is available
-    first_name: alfonso
-    dynasty: divrea_dynasty
-    adm: 45
-    dip: 15
-    mil: 60
+cas_eleanor_of_england:
+  1161:
+    birth: domfront
+    first_name: name_eleanor
+    dynasty: plantagenet_dynasty
+    female: yes
+    father: eng_henry_ii_curtmantle
+    mother: eng_eleanor_of_aquitaine
+    religion: catholic
+    culture: english
+    tag: ENG
+  1170:
+    spouse: cas_alfonso_viii_burgundy
+    tag: CAS
+  1214.10.31:
+    death: yes
+cas_berenguela_i_burgundy:
+  1180:
+    birth: burgos
+    first_name: name_berengaria
+    dynasty: burgundy_castile_dynasty
+    female: yes
+    father: cas_alfonso_viii_burgundy
+    mother: cas_eleanor_of_england
+    adm: 34
+    dip: 89
+    mil: 10
     religion: catholic
     culture: castilian
     tag: CAS
-  1214.10.5:
+    traits:
+      intricate_web_weaver: yes
+  1197:
+    spouse: lon_alfonso_ix_burgundy
+    tag: LON
+  1204:
+    spouse: ---
+    tag: CAS
+  1246.11.8:
     death: yes
-cas_enrique_i_divrea:
+cas_sancho_alfonsez_burgundy:
+  1181.4.5:
+    birth: burgos #unknown
+    first_name: name_sancho
+    dynasty: burgundy_castile_dynasty
+    father: cas_alfonso_viii_burgundy
+    mother: cas_eleanor_of_england
+    religion: catholic
+    culture: castilian
+    tag: CAS
+  1181.7.26:
+    death: yes
+cas_sancha_alfonsez_burgundy:
+  1182.3.28:
+    birth: burgos #unknown
+    first_name: name_sancha
+    dynasty: burgundy_castile_dynasty
+    female: yes
+    father: cas_alfonso_viii_burgundy
+    mother: cas_eleanor_of_england
+    religion: catholic
+    culture: castilian
+    tag: CAS
+  1185.10.16:
+    death: yes
+cas_urraca_alfonsez_burgundy:
+  1187.5.28:
+    birth: burgos
+    first_name: name_sancha
+    dynasty: burgundy_castile_dynasty
+    female: yes
+    father: cas_alfonso_viii_burgundy
+    mother: cas_eleanor_of_england
+    religion: catholic
+    culture: castilian
+    tag: CAS
+  1220.11.3:
+    death: yes
+fra_blanche_burgundy:
+  1188.3.4:
+    birth: palencia
+    first_name: name_blanche
+    dynasty: burgundy_castile_dynasty
+    female: yes
+    father: cas_alfonso_viii_burgundy
+    mother: cas_eleanor_of_england
+    adm: 54
+    dip: 88
+    mil: 52
+    religion: catholic
+    culture: castilian
+    tag: CAS
+    traits:
+      charismatic_negotiator: yes
+      silver_tongue: yes
+  1252.11.27:
+    death: yes
+cas_ferdinand_alfonsez_burgundy:
+  1189.9.29:
+    birth: cuenca
+    first_name: name_ferdinand
+    dynasty: burgundy_castile_dynasty
+    father: cas_alfonso_viii_burgundy
+    mother: cas_eleanor_of_england
+    religion: catholic
+    culture: castilian
+    tag: CAS
+  1211.10.14:
+    death: yes
+cas_mafalda_of_portugal:
+  1195:
+    birth: cuenca #Portugal
+    first_name: name_matilda
+    female: yes
+    religion: catholic
+    culture: portuguese
+    tag: POR
+  1215:
+    spouse: cas_enrique_i_burgundy
+    tag: CAS
+  1256.5.1:
+    death: yes
+cas_eleanor_alfonsez_burgundy:
+  1200:
+    birth: cuenca #unknown
+    first_name: name_eleanor
+    dynasty: burgundy_castile_dynasty
+    female: yes
+    father: cas_alfonso_viii_burgundy
+    mother: cas_eleanor_of_england
+    religion: catholic
+    culture: castilian
+    tag: CAS
+  1244:
+    death: yes
+cas_constance_alfonsez_burgundy:
+  1202:
+    birth: burgos #unknown
+    first_name: name_constance
+    dynasty: burgundy_castile_dynasty
+    female: yes
+    father: cas_alfonso_viii_burgundy
+    mother: cas_eleanor_of_england
+    religion: catholic
+    culture: castilian
+    tag: CAS
+  1243:
+    death: yes
+cas_enrique_i_burgundy:
   1204.4.14:
-    birth: toledo #TODO: Location guessed, check if better data is available
-    first_name: enrique
-    dynasty: divrea_dynasty
-    father: cas_alfonso_viii_divrea_1 #TODO: check if this makes sense
-    adm: 75
-    dip: 30
-    mil: 60
+    birth: valladolid
+    first_name: name_henry
+    dynasty: burgundy_castile_dynasty
+    father: cas_alfonso_viii_burgundy
+    mother: cas_eleanor_of_england
     religion: catholic
     culture: castilian
     tag: CAS
   1217.6.6:
     death: yes
-cas_enrique_i_divrea_1:
-  1184.1.1:
-    birth: toledo #TODO: Date and location guessed, check if better data is available
-    first_name: enrique
-    dynasty: divrea_dynasty
-    adm: 75
-    dip: 30
-    mil: 60
+cas_fernando_iii_burgundy:
+  1201.6:
+    birth: zamora #TODO: Peleas de Arriba
+    first_name: name_ferdinand
+    dynasty: burgundy_castile_dynasty
+    father: lon_alfonso_ix_burgundy
+    mother: cas_berenguela_i_burgundy
+    adm: 65
+    dip: 79
+    mil: 84
     religion: catholic
     culture: castilian
+    tag: LON
+    traits:
+      righteous: yes
+      conqueror: yes
+      charismatic_negotiator: yes
+  1204:
     tag: CAS
-  1217.6.6:
-    death: yes
-cas_ferdinand_iii_divrea:
-  1199.8.5:
-    birth: toledo #TODO: Location guessed, check if better data is available
-    first_name: ferdinand
-    dynasty: divrea_dynasty
-    father: cas_enrique_i_divrea_1 #TODO: check if this makes sense
-    adm: 75
-    dip: 60
-    mil: 45
-    religion: catholic
-    culture: castilian
-    tag: CAS
+  1230.9.24:
+    nickname: the_saint
   1252.5.30:
     death: yes
-cas_ferdinand_iii_divrea_1:
-  1187.1.1:
-    birth: toledo #TODO: Date and location guessed, check if better data is available
-    first_name: ferdinand
-    dynasty: divrea_dynasty
-    adm: 75
-    dip: 60
-    mil: 45
+cas_beatrix_hohenstaufen:
+  1205.5: #March or May
+    birth: nuremberg
+    first_name: name_elizabeth
+    dynasty: hohenstaufen_dynasty
+    female: yes
+    father: ogk_philipp_hohenstaufen
+    adm: 63
+    dip: 62
+    mil: 13
     religion: catholic
-    culture: castilian
+    culture: swabian
+    tag: OGK
+  1219.11.30:
+    spouse: cas_fernando_iii_burgundy
     tag: CAS
-  1252.5.30:
+  1220:
+    first_name: name_beatrix
+  1235.11.5:
     death: yes
-cas_alfonso_x_divrea:
+aum_jeanne_i_ponthieu:
+  1220:
+    birth: aumale
+    first_name: name_joanna
+    dynasty: dammartin_dynasty
+    female: yes
+    father: aum_simon_i_dammartin
+    adm: 27
+    dip: 48
+    mil: 25
+    religion: catholic
+    culture: champenais
+    tag: AUM
+    traits:
+      benevolent: yes
+      kind_hearted: yes
+  1237.10:
+    spouse: cas_fernando_iii_burgundy
+    tag: CAS
+  1254:
+    tag: AUM
+  1279.3.16:
+    death: yes
+cas_alfonso_x_burgundy:
   1221.11.23:
-    birth: toledo #TODO: Location guessed, check if better data is available
-    first_name: alfonso
-    dynasty: divrea_dynasty
-    father: cas_ferdinand_iii_divrea_1 #TODO: check if this makes sense
-    adm: 60
-    dip: 30
-    mil: 75
+    birth: toledo
+    first_name: name_alphonse
+    nickname: the_wise
+    dynasty: burgundy_castile_dynasty
+    father: cas_fernando_iii_burgundy
+    mother: cas_beatrix_hohenstaufen
+    adm: 80
+    dip: 44
+    mil: 47
     religion: catholic
     culture: castilian
     tag: CAS
+    traits:
+      lawgiver: yes
+      just: yes
+      greedy: yes
+  1252.6:
+    nickname: the_wise
   1284.4.4:
     death: yes
-cas_alfonso_x_divrea_1:
-  1222.1.1:
-    birth: toledo #TODO: Date and location guessed, check if better data is available
-    first_name: alfonso
-    dynasty: divrea_dynasty
-    adm: 60
-    dip: 30
-    mil: 75
+cas_fadrique_burgundy:
+  1223:
+    birth: toledo #unknown
+    first_name: name_frederick
+    dynasty: burgundy_castile_dynasty
+    father: cas_fernando_iii_burgundy
+    mother: cas_beatrix_hohenstaufen
     religion: catholic
     culture: castilian
     tag: CAS
-  1284.4.4:
+  1277:
     death: yes
-cas_sancho_iv_divrea:
+cas_henry_the_senator:
+  1230.3.10:
+    birth: toledo #unknown
+    first_name: name_henry
+    dynasty: burgundy_castile_dynasty
+    father: cas_fernando_iii_burgundy
+    mother: cas_beatrix_hohenstaufen
+    religion: catholic
+    culture: castilian
+    tag: CAS
+  1303.8.3:
+    death: yes
+cas_philip_of_valdecorneja:
+  1231.12.5:
+    birth: toledo #unknown
+    first_name: name_philip
+    dynasty: burgundy_castile_dynasty
+    father: cas_fernando_iii_burgundy
+    mother: cas_beatrix_hohenstaufen
+    religion: catholic
+    culture: castilian
+    tag: CAS
+  1274.11.28:
+    death: yes
+cas_sancho_fernandez_burgundy:
+  1233:
+    birth: toledo #unknown
+    first_name: name_sancho
+    dynasty: burgundy_castile_dynasty
+    father: cas_fernando_iii_burgundy
+    mother: cas_beatrix_hohenstaufen
+    religion: catholic
+    culture: castilian
+    tag: CAS
+  1261.10.27:
+    death: yes
+cas_manuel_fernandez_burgundy:
+  1234:
+    birth: toledo #TODO: Carrión de los Condes
+    first_name: name_emmanuel
+    dynasty: burgundy_castile_dynasty
+    father: cas_fernando_iii_burgundy
+    mother: cas_beatrix_hohenstaufen
+    religion: catholic
+    culture: castilian
+    tag: CAS
+  1252:
+    estate: nobles_estate
+  1283.12.25:
+    death: yes
+cas_violant_arago:
+  1236.6.8:
+    birth: zaragoza
+    first_name: name_yolande
+    dynasty: barcelona_dynasty
+    female: yes
+    father: ara_jacme_i_arago
+    mother: ara_jolan_arpad
+    adm: 52
+    dip: 58
+    mil: 45
+    religion: catholic
+    culture: catalan
+    tag: ARA
+  1249.1:
+    spouse: cas_alfonso_x_burgundy
+    tag: CAS
+  1301:
+    death: yes
+aum_ferdinand_ii_ponthieu:
+  1238:
+    birth: toledo
+    first_name: name_ferdinand
+    dynasty: burgundy_castile_dynasty
+    father: cas_fernando_iii_burgundy
+    mother: aum_jeanne_i_ponthieu
+    adm: 33
+    dip: 35
+    mil: 33
+    religion: catholic
+    culture: castilian
+    tag: CAS
+    traits:
+      craven: yes
+  1254:
+    tag: AUM
+    culture: norman
+  1264:
+    death: yes
+cas_beatrice_of_savoy:
+  1250:
+    birth: chambery #Savoy
+    first_name: name_beatrix
+    female: yes
+    religion: catholic
+    culture: arpitan
+    tag: SAV
+  1275:
+    spouse: cas_manuel_fernandez_burgundy
+    tag: CAS
+    estate: nobles_estate
+  1292:
+    death: yes
+cas_berengaria_burgundy:
+  1253:
+    birth: sevilla
+    first_name: name_berengaria
+    dynasty: burgundy_castile_dynasty
+    female: yes
+    father: cas_alfonso_x_burgundy
+    mother: cas_violant_arago
+    religion: catholic
+    culture: castilian
+    tag: CAS
+  1300:
+    death: yes
+cas_blanche_capet:
+  1253:
+    birth: acre #Jaffa
+    first_name: name_blanche
+    dynasty: capet_dynasty
+    female: yes
+    father: fra_louis_ix_capet
+    adm: 58
+    dip: 38
+    mil: 41
+    religion: catholic
+    culture: french
+    tag: FRA
+  1269.11:
+    spouse: cas_fernando_lacerda
+    tag: CAS
+  1323:
+    death: yes
+mfa_beatriz_burgundy:
+  1254.12.6:
+    birth: valladolid
+    first_name: name_beatrix
+    dynasty: burgundy_castile_dynasty
+    female: yes
+    father: cas_alfonso_x_burgundy
+    mother: cas_violant_arago
+    adm: 41
+    dip: 59
+    mil: 38
+    religion: catholic
+    culture: castilian
+    tag: CAS
+  1271.8:
+    spouse: mfa_guglielmo_vii_monferrato
+    tag: MFA
+  1286:
+    death: yes
+cas_fernando_lacerda:
+  1255.10.23:
+    birth: valladolid
+    first_name: name_ferdinand
+    dynasty: burgundy_castile_dynasty
+    father: cas_alfonso_x_burgundy
+    mother: cas_violant_arago
+    adm: 58
+    dip: 57
+    mil: 65
+    religion: catholic
+    culture: castilian
+    tag: CAS
+  1275.6.25:
+    death: yes
+cas_sancho_iv_burgundy:
   1258.5.12:
-    birth: toledo #TODO: Location guessed, check if better data is available
-    first_name: sancho
-    dynasty: divrea_dynasty
-    father: cas_alfonso_x_divrea_1 #TODO: check if this makes sense
-    adm: 60
-    dip: 75
-    mil: 30
+    birth: valladolid
+    first_name: name_sancho
+    dynasty: burgundy_castile_dynasty
+    father: cas_alfonso_x_burgundy
+    mother: cas_violant_arago
+    adm: 75
+    dip: 45
+    mil: 75
     religion: catholic
     culture: castilian
     tag: CAS
+    traits:
+      bold_fighter: yes
+      greedy: yes
+  1284.4.4:
+    nickname: Brave
   1295.4.25:
     death: yes
-cas_sancho_iv_divrea_1:
-  1254.1.1:
-    birth: toledo #TODO: Date and location guessed, check if better data is available
-    first_name: sancho
-    dynasty: divrea_dynasty
-    adm: 60
-    dip: 75
-    mil: 30
+cas_constance_burgundy:
+  1258:
+    birth: valladolid #unknown
+    first_name: name_constance
+    dynasty: burgundy_castile_dynasty
+    female: yes
+    father: cas_alfonso_x_burgundy
+    mother: cas_violant_arago
     religion: catholic
     culture: castilian
     tag: CAS
-  1295.4.25:
+  1280.8.22:
     death: yes
-cas_ferdinand_iv_divrea:
+cas_pedro_of_ledesma:
+  1260.6:
+    birth: sevilla
+    first_name: name_peter
+    dynasty: burgundy_castile_dynasty
+    father: cas_alfonso_x_burgundy
+    mother: cas_violant_arago
+    religion: catholic
+    culture: castilian
+    tag: CAS
+  1283.10.10:
+    death: yes
+cas_juan_el_de_tarifa:
+  1262.4:
+    birth: sevilla
+    first_name: name_john
+    dynasty: burgundy_castile_dynasty
+    father: cas_alfonso_x_burgundy
+    mother: cas_violant_arago
+    religion: catholic
+    culture: castilian
+    tag: CAS
+  1319.6.25:
+    death: yes
+cas_violant_burgundy:
+  1265:
+    birth: valladolid #unknown
+    first_name: name_yolande
+    dynasty: burgundy_castile_dynasty
+    female: yes
+    father: cas_alfonso_x_burgundy
+    mother: cas_violant_arago
+    religion: catholic
+    culture: castilian
+    tag: CAS
+  1296:
+    death: yes
+cas_maria_molina:
+  1265:
+    birth: molina_de_aragon
+    first_name: name_mary
+    dynasty: burgundy_castile_dynasty
+    female: yes
+    father: lon_alfonso_of_molina
+    mother: lon_mayor_alfonso_de_meneses
+    adm: 67
+    dip: 86
+    mil: 43
+    religion: catholic
+    culture: castilian
+    tag: CAS
+    estate: nobles_estate
+    traits:
+      intricate_web_weaver: yes
+      charismatic_negotiator: yes
+      righteous: yes
+  1282:
+    spouse: cas_sancho_iv_burgundy
+    estate: ---
+  1321.7.1:
+    death: yes
+cas_jaime_of_cameros:
+  1268.7.11:
+    birth: valladolid #unknown
+    first_name: name_james
+    dynasty: burgundy_castile_dynasty
+    father: cas_alfonso_x_burgundy
+    mother: cas_violant_arago
+    religion: catholic
+    culture: castilian
+    tag: CAS
+  1284.8.9:
+    death: yes
+cas_alfonso_lacerda:
+  1270:
+    birth: valladolid
+    first_name: name_alphonse
+    dynasty: burgundy_castile_dynasty
+    father: cas_fernando_lacerda
+    mother: cas_blanche_capet
+    adm: 39
+    dip: 55
+    mil: 51
+    religion: catholic
+    culture: castilian
+    tag: CAS
+    traits:
+      craven: yes
+  1304.8.9: #Treaty of Ágreda
+    nickname: the_disinherited
+    dynasty: cerda_dynasty # Founder of the House of La Cerda
+    estate: nobles_estate
+  1333:
+    death: yes
+cas_mathilde_brienne:
+  1270: #unknown
+    birth: aumale
+    first_name: name_matilda
+    dynasty: de_brienne_dynasty
+    female: yes
+    father: aum_jean_ii_brienne
+    mother: aum_beatrix_chatillon
+    religion: catholic
+    culture: picard
+    tag: AUM
+  1284:
+    spouse: cas_alfonso_lacerda
+    tag: CAS
+  1304.8.9:
+    estate: nobles_estate
+  1328:
+    death: yes
+cas_fernando_lacerda_jr:
+  1275:
+    birth: valladolid #castile
+    first_name: name_ferdinand
+    dynasty: burgundy_castile_dynasty
+    father: cas_fernando_lacerda
+    mother: cas_blanche_capet
+    adm: 62
+    dip: 70
+    mil: 24
+    religion: catholic
+    culture: castilian
+    tag: CAS
+    estate: nobles_estate
+  1304.8.9: #Treaty of Ágreda
+    dynasty: cerda_dynasty # Founder of the House of La Cerda
+    estate: nobles_estate
+  1322.6:
+    death: yes
+cas_juan_manuel_of_villena:
+  1282.5.5:
+    birth: sevilla #TODO: Escalona
+    first_name: name_john.name_emmanuel
+    dynasty: burgundy_castile_dynasty
+    father: cas_manuel_fernandez_burgundy
+    mother: cas_beatrice_of_savoy
+    religion: catholic
+    culture: castilian
+    tag: CAS
+    estate: nobles_estate
+  1348.6.13:
+    death: yes
+cas_isabella_burgundy:
+  1283:
+    birth: toro
+    first_name: name_elizabeth
+    dynasty: burgundy_castile_dynasty
+    female: yes
+    father: cas_sancho_iv_burgundy
+    mother: cas_maria_molina
+    religion: catholic
+    culture: castilian
+    tag: CAS
+  1328.7.24:
+    death: yes
+cas_fernando_iv_burgundy:
   1285.12.6:
-    birth: toledo #TODO: Location guessed, check if better data is available
-    first_name: ferdinand
-    dynasty: divrea_dynasty
-    father: cas_sancho_iv_divrea_1 #TODO: check if this makes sense
-    adm: 45
-    dip: 15
-    mil: 45
+    birth: sevilla
+    first_name: name_ferdinand
+    dynasty: burgundy_castile_dynasty
+    father: cas_sancho_iv_burgundy
+    mother: cas_maria_molina
+    adm: 50
+    dip: 67
+    mil: 38
     religion: catholic
     culture: castilian
     tag: CAS
+    traits:
+      naive: yes
+  1295.4.25:
+    nickname: Summoned
   1312.9.7:
     death: yes
-cas_ferdinand_iv_divrea_1:
-  1265.1.1:
-    birth: toledo #TODO: Date and location guessed, check if better data is available
-    first_name: ferdinand
-    dynasty: divrea_dynasty
-    adm: 45
-    dip: 15
-    mil: 45
+cas_juana_nunez_lara:
+  1286:
+    birth: palencia
+    first_name: name_joanna
+    nickname: Palomilla
+    female: yes
+    adm: 66
+    dip: 45
+    mil: 13
     religion: catholic
     culture: castilian
     tag: CAS
-  1312.9.7:
+    estate: nobles_estate
+  1300:
+    spouse: cas_henry_the_senator
+  1310:
+    spouse: cas_fernando_lacerda_jr
+  1351.6.12:
     death: yes
-cas_alfonso_xi_divrea:
+cas_alfonso_sanchez_burgundy:
+  1286:
+    birth: valladolid
+    first_name: name_alphonse
+    dynasty: burgundy_castile_dynasty
+    father: cas_sancho_iv_burgundy
+    mother: cas_maria_molina
+    religion: catholic
+    culture: castilian
+    tag: CAS
+  1291.10: #Late 1291
+    death: yes
+cas_pedro_of_cameros:
+  1290:
+    birth: valladolid
+    first_name: name_peter
+    dynasty: burgundy_castile_dynasty
+    father: cas_sancho_iv_burgundy
+    mother: cas_maria_molina
+    religion: catholic
+    culture: castilian
+    tag: CAS
+  1319.6.25:
+    death: yes
+cas_constance_portugal:
+  1290.1.3:
+    birth: coimbra
+    first_name: name_constance
+    dynasty: burgundy_portuguese_dynasty
+    female: yes
+    father: por_dinis_i_portugal
+    mother: por_isabel_arago
+    religion: catholic
+    culture: portuguese
+    tag: POR
+  1302.1.23:
+    spouse: cas_fernando_iv_burgundy
+    tag: CAS
+  1313.11.18:
+    death: yes
+cas_philip_of_cabrera_and_ribera:
+  1292.5.28:
+    birth: sevilla
+    first_name: name_philip
+    dynasty: burgundy_castile_dynasty
+    father: cas_sancho_iv_burgundy
+    mother: cas_maria_molina
+    religion: catholic
+    culture: castilian
+    tag: CAS
+  1327.4:
+    death: yes
+por_beatriz_portugal:
+  1293.3.8:
+    birth: toro
+    first_name: name_beatrix
+    dynasty: burgundy_castile_dynasty
+    female: yes
+    father: cas_sancho_iv_burgundy
+    mother: cas_maria_molina
+    adm: 59
+    dip: 65
+    mil: 30
+    religion: catholic
+    culture: castilian
+    tag: CAS
+    traits:
+      silver_tongue: yes
+  1359.10.25:
+    death: yes
+cas_constance_of_aragon:
+  1300.4.4:
+    birth: valencia
+    first_name: name_constance
+    female: yes
+    religion: catholic
+    culture: aragonese
+    tag: ARA
+  1312:
+    spouse: cas_juan_manuel_of_villena
+    tag: CAS
+    estate: nobles_estate
+  1327.10.19:
+    death: yes
+ara_leonor_burgundy:
+  1307:
+    birth: valladolid #Castile
+    first_name: name_eleanor
+    dynasty: burgundy_castile_dynasty
+    female: yes
+    father: cas_fernando_iv_burgundy
+    mother: cas_constance_portugal
+    religion: catholic
+    culture: castilian
+    tag: CAS
+  1359:
+    death: yes
+cas_leonor_guzman:
+  1310:
+    birth: sevilla
+    first_name: name_eleanor
+    dynasty: guzman_dynasty
+    female: yes
+    father: cas_pedro_nunez_guzman_ii
+    adm: 72
+    dip: 62
+    mil: 35
+    religion: catholic
+    culture: castilian
+    tag: CAS
+    estate: nobles_estate
+  1351:
+    death: yes
+cas_alfonso_xi_burgundy:
   1311.8.13:
-    birth: toledo #TODO: Location guessed, check if better data is available
-    first_name: alfonso
-    dynasty: divrea_dynasty
-    father: cas_ferdinand_iv_divrea_1 #TODO: check if this makes sense
-    adm: 15
-    dip: 30
-    mil: 30
+    birth: salamanca
+    first_name: name_alphonse
+    dynasty: burgundy_castile_dynasty
+    father: cas_fernando_iv_burgundy
+    mother: cas_constance_portugal
+    adm: 69
+    dip: 58
+    mil: 80
     religion: catholic
     culture: castilian
     tag: CAS
+    traits:
+      charismatic_negotiator: yes
+  1312.9.7:
+    nickname: Avenger
   1350.3.26:
     death: yes
-cas_alfonso_xi_divrea_1:
-  1282.1.1:
-    birth: toledo #TODO: Date and location guessed, check if better data is available
-    first_name: alfonso
-    dynasty: divrea_dynasty
-    adm: 15
-    dip: 30
-    mil: 30
+cas_maria_portugal:
+  1313.2.9:
+    birth: lisbon #Unknown in Portugal
+    first_name: name_mary
+    dynasty: burgundy_portuguese_dynasty
+    female: yes
+    father: por_afonso_iv_portugal
+    mother: por_beatriz_portugal
+    adm: 40
+    dip: 50
+    mil: 20
     religion: catholic
-    culture: castilian
+    culture: portuguese
+    tag: POR
+  1328:
+    spouse: cas_alfonso_xi_burgundy
     tag: CAS
-  1350.3.26:
+  1357.1.18:
     death: yes
-cas_pedro_i_divrea:
-  1334.8.30:
-    birth: toledo #TODO: Location guessed, check if better data is available
-    first_name: pedro
-    dynasty: divrea_dynasty
-    father: cas_alfonso_xi_divrea_1 #TODO: check if this makes sense
-    adm: 45
-    dip: 60
-    mil: 60
+cas_blanche_lacerda:
+  1317:
+    birth: valladolid #unknown
+    first_name: name_blanche
+    dynasty: cerda_dynasty
+    female: yes
+    father: cas_fernando_lacerda_jr
+    mother: cas_juana_nunez_lara
     religion: catholic
     culture: castilian
     tag: CAS
-  1369.3.23:
+    estate: nobles_estate
+  1330:
+    spouse: cas_juan_manuel_of_villena
+  1347:
     death: yes
-cas_pedro_i_divrea_1:
-  1320.1.1:
-    birth: toledo #TODO: Date and location guessed, check if better data is available
-    first_name: pedro
-    dynasty: divrea_dynasty
-    adm: 45
-    dip: 60
-    mil: 60
+cas_constance_manuel_burgundy:
+  1318:
+    birth: valladolid #TODO: Castillo de Garcimuñoz
+    first_name: name_constance
+    dynasty: burgundy_castile_dynasty
+    female: yes
+    father: cas_juan_manuel_of_villena
+    mother: cas_constance_of_aragon
     religion: catholic
     culture: castilian
     tag: CAS
+  1349.1.27:
+    death: yes
+cas_pedro_aguilar:
+  1332:
+    birth: valladolid
+    first_name: name_peter
+    dynasty: burgundy_castile_dynasty
+    father: cas_alfonso_xi_burgundy
+    mother: cas_leonor_guzman #Mistress
+    religion: catholic
+    culture: castilian
+    tag: CAS
+    estate: nobles_estate
+    traits:
+      bastard: yes
+  1338:
+    death: yes
+cas_sancho_alfonso_burgundy:
+  1333:
+    birth: valladolid
+    first_name: name_sancho
+    nickname: Mute
+    dynasty: burgundy_castile_dynasty
+    father: cas_alfonso_xi_burgundy
+    mother: cas_leonor_guzman #Mistress
+    religion: catholic
+    culture: castilian
+    tag: CAS
+    estate: nobles_estate
+    traits:
+      bastard: yes
+    child_traits:
+      child_slow: yes
+  1342:
+    death: yes
+cas_maria_de_padilla:
+  1334:
+    birth: burgos
+    first_name: name_mary
+    female: yes
+    religion: catholic
+    culture: castilian
+    tag: CAS
+  1353.7:
+    spouse: cas_pedro_i_burgundy
+  1361.7:
+    death: yes
+cas_enrique_ii_trastamara:
+  1334.1.13:
+    birth: sevilla
+    first_name: name_henry
+    dynasty: burgundy_castile_dynasty
+    father: cas_alfonso_xi_burgundy
+    mother: cas_leonor_guzman #Mistress
+    adm: 50
+    dip: 75
+    mil: 75
+    religion: catholic
+    culture: castilian
+    tag: CAS
+    estate: nobles_estate
+    traits:
+      bastard: yes
+    child_traits:
+      child_ambitious: yes
   1366.3.29:
+    dynasty: trastamara_dynasty # Founder of the House of Trastamara
+    estate: ---
+    traits:
+      bastard: no
+  1369.3.23:
+    nickname: Fratricidal
+  1379.5.29:
     death: yes
-cas_enrique_ii_de_trastamara:
-  1336.1.1:
-    birth: toledo #TODO: Date and location guessed, check if better data is available
-    first_name: enrique
-    dynasty: de_trastamara_dynasty
-    adm: 30
-    dip: 75
-    mil: 75
+cas_fadrique_alfonso_burgundy:
+  1334.1.13:
+    birth: sevilla
+    first_name: name_frederick
+    dynasty: enriquez_castile_dynasty
+    father: cas_alfonso_xi_burgundy
+    mother: cas_leonor_guzman #Mistress
     religion: catholic
     culture: castilian
     tag: CAS
-  1367.1.1:
+    estate: nobles_estate
+    traits:
+      bastard: yes
+    child_traits:
+      child_rowdy: yes
+  1358.5.29:
     death: yes
-cas_pedro_i_divrea_2:
-  1337.1.1:
-    birth: toledo #TODO: Date and location guessed, check if better data is available
-    first_name: pedro
-    dynasty: divrea_dynasty
-    adm: 45
-    dip: 60
-    mil: 60
+cas_pedro_i_burgundy:
+  1334.8.30:
+    birth: burgos
+    first_name: name_peter
+    dynasty: burgundy_castile_dynasty
+    father: cas_alfonso_xi_burgundy
+    mother: cas_maria_portugal
+    adm: 15
+    dip: 40
+    mil: 30
     religion: catholic
     culture: castilian
     tag: CAS
+    child_traits:
+      child_rowdy: yes
   1369.3.23:
     death: yes
-cas_enrique_ii_de_trastamara_1:
-  1339.1.1:
-    birth: toledo #TODO: Date and location guessed, check if better data is available
-    first_name: enrique
-    dynasty: de_trastamara_dynasty
-    adm: 30
-    dip: 75
-    mil: 75
+cas_fernando_alfonso_burgundy:
+  1334.11: #Late 1334
+    birth: valladolid #unknown
+    first_name: name_ferdinand
+    dynasty: burgundy_castile_dynasty
+    father: cas_alfonso_xi_burgundy
+    mother: cas_leonor_guzman #Mistress
     religion: catholic
     culture: castilian
     tag: CAS
-  1379.5.29:
+    estate: nobles_estate
+    traits:
+      bastard: yes
+  1350:
+    death: yes
+cas_tello_alfonso_burgundy:
+  1337:
+    birth: valladolid #unknown
+    first_name: name_tello
+    dynasty: burgundy_castile_dynasty
+    father: cas_alfonso_xi_burgundy
+    mother: cas_leonor_guzman #Mistress
+    religion: catholic
+    culture: castilian
+    tag: CAS
+    estate: nobles_estate
+    traits:
+      bastard: yes
+  1370.10:
+    death: yes
+cas_juana_manuel_burgundy:
+  1339:
+    birth: valladolid #unknown
+    first_name: name_joanna
+    dynasty: burgundy_castile_dynasty
+    female: yes
+    father: cas_juan_manuel_of_villena
+    mother: cas_blanche_lacerda
+    religion: catholic
+    culture: castilian
+    tag: CAS
+    estate: nobles_estate
+  1350.7.27:
+    spouse: cas_enrique_ii_trastamara
+    estate: ---
+  1381.3.27:
+    death: yes
+cas_sancho_alfonso_of_albuquerque:
+  1342:
+    birth: valladolid #unknown
+    first_name: name_sancho
+    dynasty: burgundy_castile_dynasty
+    father: cas_alfonso_xi_burgundy
+    mother: cas_leonor_guzman #Mistress
+    religion: catholic
+    culture: castilian
+    tag: CAS
+    estate: nobles_estate
+    traits:
+      bastard: yes
+  1374.2.19:
+    death: yes
+cas_alfonso_enriquez:
+  1355:
+    birth: toledo #TODO: Gijon
+    first_name: name_alphonse
+    dynasty: trastamara_dynasty
+    father: cas_enrique_ii_trastamara
+    religion: catholic
+    culture: castilian
+    tag: CAS
+    traits:
+      bastard: yes
+  1400:
+    death: yes
+cas_eleanor_of_aragon:
+  1358.2.20:
+    birth: burgos #TODO: Santa Maria del Puig
+    first_name: name_eleanor
+    female: yes
+    religion: catholic
+    culture: aragonese
+    tag: ARA
+  1375.6.18:
+    spouse: cas_juan_i_de_trastamara
+    tag: CAS
+  1382.8.13:
     death: yes
 cas_juan_i_de_trastamara:
   1358.8.24:
-    birth: toledo #TODO: Location guessed, check if better data is available
-    first_name: juan
-    dynasty: de_trastamara_dynasty
-    father: cas_enrique_ii_de_trastamara_1 #TODO: check if this makes sense
+    birth: toledo #TODO: Épila
+    first_name: name_john
+    dynasty: trastamara_dynasty
+    father: cas_enrique_ii_trastamara
+    mother: cas_juana_manuel_burgundy
     adm: 30
     dip: 15
     mil: 75
@@ -414,25 +1345,68 @@ cas_juan_i_de_trastamara:
     tag: CAS
   1390.10.9:
     death: yes
-cas_juan_i_de_trastamara_1:
-  1349.1.1:
-    birth: toledo #TODO: Date and location guessed, check if better data is available
-    first_name: juan
-    dynasty: de_trastamara_dynasty
-    adm: 30
-    dip: 15
-    mil: 75
+cas_alfonso_burgundy:
+  1359:
+    birth: burgos #unknown
+    first_name: name_alphonse
+    dynasty: burgundy_castile_dynasty
+    father: cas_pedro_i_burgundy
+    mother: cas_maria_de_padilla
     religion: catholic
     culture: castilian
     tag: CAS
-  1390.10.9:
+  1362.10.19:
+    death: yes
+cas_eleanor_de_trastamara:
+  1363:
+    birth: toledo #unknown
+    first_name: name_eleanor
+    dynasty: trastamara_dynasty
+    female: yes
+    father: cas_enrique_ii_trastamara
+    mother: cas_juana_manuel_burgundy
+    religion: catholic
+    culture: castilian
+    tag: CAS
+  1416.3.5:
+    death: yes
+cas_beatriz_of_portugal:
+  1373.2.7:
+    birth: coimbra
+    first_name: name_beatrix
+    female: yes
+    religion: catholic
+    culture: portuguese
+    tag: POR
+  1383.5.17:
+    spouse: cas_juan_i_de_trastamara
+    tag: CAS
+  1420:
+    death: yes
+cas_catherine_of_lancaster:
+  1373.3.31:
+    birth: hertford
+    first_name: name_catherine
+    dynasty: lancaster_dynasty
+    female: yes
+    father: eng_john_of_gaunt
+    mother: lan_constance_of_castile
+    religion: catholic
+    culture: english
+    tag: LAN
+  1388.9.17:
+    spouse: cas_enrique_iii_de_trastamara
+    tag: CAS
+  1418.6.2:
     death: yes
 cas_enrique_iii_de_trastamara:
   1379.10.4:
-    birth: toledo #TODO: Location guessed, check if better data is available
-    first_name: enrique
-    dynasty: de_trastamara_dynasty
-    father: cas_juan_i_de_trastamara_1 #TODO: check if this makes sense
+    birth: burgos
+    first_name: name_henry
+    nickname: nick_the_suffering
+    dynasty: trastamara_dynasty
+    father: cas_juan_i_de_trastamara
+    mother: cas_eleanor_of_aragon
     adm: 60
     dip: 45
     mil: 45
@@ -441,24 +1415,56 @@ cas_enrique_iii_de_trastamara:
     tag: CAS
   1406.12.25:
     death: yes
-cas_enrique_iii_de_trastamara_1:
-  1360.1.1:
-    birth: toledo #TODO: Date and location guessed, check if better data is available
-    first_name: enrique
-    dynasty: de_trastamara_dynasty
-    adm: 45
-    dip: 30
-    mil: 30
+cas_maria_de_trastamara:
+  1401.9.14:
+    birth: segovia
+    first_name: name_mary
+    dynasty: trastamara_dynasty
+    female: yes
+    father: cas_enrique_iii_de_trastamara
+    mother: cas_catherine_of_lancaster
     religion: catholic
     culture: castilian
     tag: CAS
-  3000.1.1:
+  1458.9.4:
+    death: yes
+cas_catherine_of_villena:
+  1403:
+    birth: burgos #unknown
+    first_name: name_catherine
+    dynasty: trastamara_dynasty
+    female: yes
+    father: cas_enrique_iii_de_trastamara
+    mother: cas_catherine_of_lancaster
+    religion: catholic
+    culture: castilian
+    tag: CAS
+  1439:
+    death: yes
+cas_maria_of_aragon:
+  1403.2.24:
+    birth: toledo #unknown
+    first_name: name_mary
+    dynasty: trastamara_dynasty
+    female: yes
+    adm: 30
+    dip: 30
+    mil: 30
+    religion: catholic
+    culture: aragonese
+    tag: ARA
+  1420.8.4:
+    spouse: cas_juan_ii_de_trastamara
+    tag: CAS
+  1445.2.18:
     death: yes
 cas_juan_ii_de_trastamara:
   1405.3.6:
-    birth: toledo #TODO: Location guessed, check if better data is available
-    first_name: juan
-    dynasty: de_trastamara_dynasty
+    birth: toro
+    first_name: name_john
+    dynasty: trastamara_dynasty
+    father: cas_enrique_iii_de_trastamara
+    mother: cas_catherine_of_lancaster
     adm: 15
     dip: 15
     mil: 30
@@ -467,73 +1473,87 @@ cas_juan_ii_de_trastamara:
     tag: CAS
   1454.7.20:
     death: yes
-cas_maria_de_trastamara:
-  1396.1.1:
-    birth: toledo #TODO: Date and location guessed, check if better data is available
-    first_name: maria
-    dynasty: de_trastamara_dynasty
+cas_catherine_de_trastamara_of_asturias:
+  1422.10.5:
+    birth: toledo #TODO: Illescas
+    first_name: name_catherine
+    dynasty: trastamara_dynasty
     female: yes
-    adm: 30
-    dip: 30
-    mil: 30
+    father: cas_juan_ii_de_trastamara
+    mother: cas_maria_of_aragon
     religion: catholic
     culture: castilian
     tag: CAS
-  1445.2.18:
+  1424.9.10:
     death: yes
-  1418.6.2:
-    spouse: cas_juan_ii_de_trastamara #TODO: date guessed, see if better data is available
+cas_eleanor_de_trastamara_of_asturias:
+  1423.9.10:
+    birth: burgos
+    first_name: name_eleanor
+    dynasty: trastamara_dynasty
+    female: yes
+    father: cas_juan_ii_de_trastamara
+    mother: cas_maria_of_aragon
+    religion: catholic
+    culture: castilian
+    tag: CAS
+  1425.8.22:
+    death: yes
 cas_enrique_iv_de_trastamara:
   1425.1.5:
-    birth: valladolid #TODO: Location guessed, check if better data is available
-    first_name: enrique
-    dynasty: de_trastamara_dynasty
+    birth: valladolid
+    first_name: name_henry
+    nickname: nick_the_impotent
+    dynasty: trastamara_dynasty
+    father: cas_juan_ii_de_trastamara
+    mother: cas_maria_of_aragon
     adm: 0
     dip: 0
     mil: 0
     religion: catholic
     culture: castilian
     tag: CAS
+    fertility: 10
   1474.12.11:
     death: yes
-cas_isabella_de_avis:
-  1396.1.1:
-    birth: toledo #TODO: Date and location guessed, check if better data is available
-    first_name: isabella
+cas_isabella_of_portugal:
+  1428:
+    birth: coimbra #unknown
+    first_name: name_elizabeth
+    female: yes
+    religion: catholic
+    culture: portuguese
+    tag: POR
+  1447.7.22:
+    spouse: cas_juan_ii_de_trastamara
+    tag: CAS
+  1496.8.15:
+    death: yes
+cas_joan_of_portugal:
+  1439.3.31:
+    birth: coimbra #TODO: Almada
+    first_name: name_joanna
     dynasty: de_avis_dynasty
     female: yes
     adm: 15
     dip: 15
     mil: 15
     religion: catholic
-    culture: castilian
+    culture: portuguese
+    tag: POR
+  1455.5.21:
+    spouse: cas_enrique_iv_de_trastamara
     tag: CAS
-  1445.2.18:
+  1475.6.13:
     death: yes
-  1447.8.17:
-    spouse: cas_juan_ii_de_trastamara #TODO: date guessed, see if better data is available
-cas_joana_de_avis:
-  1439.3.20:
-    birth: toledo #TODO: Location guessed, check if better data is available
-    first_name: joana
-    dynasty: de_avis_dynasty
-    female: yes
-    adm: 15
-    dip: 15
-    mil: 15
-    religion: catholic
-    culture: castilian
-    tag: CAS
-  1475.12.12:
-    death: yes
-  1454.7.20:
-    spouse: cas_enrique_iv_de_trastamara #TODO: date guessed, see if better data is available
 cas_isabel_i_de_trastamara:
   1451.4.22:
-    birth: valladolid #TODO: Location guessed, check if better data is available
-    first_name: isabel
-    dynasty: de_trastamara_dynasty
+    birth: avila
+    first_name: name_elizabeth
+    dynasty: trastamara_dynasty
     female: yes
+    father: cas_juan_ii_de_trastamara
+    mother: cas_isabella_of_portugal
     adm: 75
     dip: 90
     mil: 45
@@ -542,11 +1562,36 @@ cas_isabel_i_de_trastamara:
     tag: CAS
   1504.11.26:
     death: yes
+cas_alfonso_de_trastamara:
+  1453.11.17:
+    birth: tordesillas
+    first_name: name_alphonse
+    dynasty: trastamara_dynasty
+    father: cas_juan_ii_de_trastamara
+    mother: cas_isabella_of_portugal
+    religion: catholic
+    culture: castilian
+    tag: CAS
+  1468.7.5:
+    death: yes
+cas_joanna_la_beltraneja:
+  1462.2.28:
+    birth: madrid
+    first_name: name_joanna
+    dynasty: trastamara_dynasty
+    female: yes
+    father: cas_enrique_iv_de_trastamara
+    mother: cas_joan_of_portugal
+    religion: catholic
+    culture: castilian
+    tag: CAS
+  1530.4.12:
+    death: yes
 cas_ferran_de_trastamara:
   1439.3.20:
     birth: valladolid #TODO: Location guessed, check if better data is available
     first_name: ferran
-    dynasty: de_trastamara_dynasty
+    dynasty: trastamara_dynasty
     female: no
     adm: 60
     dip: 90
@@ -562,7 +1607,7 @@ cas_juana_i_de_trastamara:
   1479.11.6:
     birth: valladolid #TODO: Location guessed, check if better data is available
     first_name: juana
-    dynasty: de_trastamara_dynasty
+    dynasty: trastamara_dynasty
     female: yes
     adm: 0
     dip: 0
@@ -577,7 +1622,7 @@ cas_felipe_i_de_trastamara:
   1478.7.22:
     birth: valladolid #TODO: Location guessed, check if better data is available
     first_name: felipe
-    dynasty: de_trastamara_dynasty
+    dynasty: trastamara_dynasty
     female: no
     adm: 0
     dip: 0
@@ -606,7 +1651,7 @@ cas_juana_i_de_trastamara_1:
   1479.11.6:
     birth: valladolid #TODO: Location guessed, check if better data is available
     first_name: juana
-    dynasty: de_trastamara_dynasty
+    dynasty: trastamara_dynasty
     female: yes
     adm: 0
     dip: 0
@@ -622,7 +1667,7 @@ cas_fernando_v_de_trastamara:
   1452.3.10:
     birth: toledo #TODO: Location guessed, check if better data is available
     first_name: fernando
-    dynasty: de_trastamara_dynasty
+    dynasty: trastamara_dynasty
     adm: 60
     dip: 90
     mil: 75

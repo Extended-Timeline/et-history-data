@@ -266,6 +266,8 @@ lan_constance_of_castile:
     first_name: name_constance
     dynasty: burgundy_castile_dynasty
     female: yes
+    father: cas_pedro_i_burgundy
+    mother: cas_maria_de_padilla
     religion: catholic
     culture: castilian
     tag: CAS
@@ -319,21 +321,6 @@ lan_john_beaufort:
   1399.9.29:
     tag: ENG
   1426.11.24:
-    death: yes
-lan_catherine_of_lancaster:
-  1373.3.31:
-    birth: hertford
-    first_name: name_catherine
-    dynasty: lancaster_dynasty
-    female: yes
-    father: eng_john_of_gaunt
-    mother: lan_constance_of_castile
-    religion: catholic
-    culture: english
-    tag: LAN
-  1399.9.29:
-    tag: ENG
-  1418.6.2:
     death: yes
 lan_henry_beaufort:
   1375:

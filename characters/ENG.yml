@@ -1011,19 +1011,6 @@ eng_richard_i_lionheart:
     nickname: nick_the_lionheart
   1199.4.6:
     death: yes
-eng_eleanor_plantagenet:
-  1161:
-    birth: domfront
-    first_name: name_eleanor
-    dynasty: plantagenet_dynasty
-    female: yes
-    father: eng_henry_ii_curtmantle
-    mother: eng_eleanor_of_aquitaine
-    religion: catholic
-    culture: english
-    tag: ENG
-  1214.10.31:
-    death: yes
 mie_berenguela_jimena:
   1165:
     birth: tudela
@@ -1658,6 +1645,8 @@ eng_isabella_of_castille:
     first_name: name_elizabeth
     dynasty: burgundy_castile_dynasty
     female: yes
+    father: cas_pedro_i_burgundy
+    mother: cas_maria_de_padilla
     religion: catholic
     culture: castilian
     tag: CAS

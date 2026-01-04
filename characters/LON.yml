@@ -1,235 +1,909 @@
-lon_garcia_i_de_beni_alfons:
-  880.1.1:
-    birth: leon #TODO: Date and location guessed, check if better data is available
-    first_name: garcia
-    dynasty: de_beni_alfons_dynasty
-    adm: 60
-    dip: 45
-    mil: 60
+lon_garcia_i_leon:
+  871:
+    birth: oviedo #unknown
+    first_name: name_garcia
+    dynasty: asturleonesa_dynasty
+    father: lon_alfonso_iii_asturias
+    mother: astu_jimena
+    religion: catholic
+    culture: leonese
+    tag: ASTU
+  910.12.20:
+    tag: LON
+  914:
+    death: yes
+lon_ordono_ii_leon:
+  873:
+    birth: oviedo #unknown
+    first_name: name_ordono
+    dynasty: asturleonesa_dynasty
+    father: lon_alfonso_iii_asturias
+    mother: astu_jimena
+    adm: 67
+    dip: 47
+    mil: 51
+    religion: catholic
+    culture: leonese
+    tag: ASTU
+    traits:
+      obsessive_perfectionist: yes
+  910.12.20:
+    tag: GLC
+  914:
+    tag: LON
+  924.6:
+    death: yes
+lon_elvira_menendez:
+  875:
+    birth: santiago_compostela #Galicia
+    first_name: name_elvira
+    female: yes
     religion: catholic
     culture: leonese
     tag: LON
-  914.1.1:
+  892:
+    spouse: lon_ordono_ii_leon
+  921.10.12:
     death: yes
-lon_ordono_ii_de_beni_alfons:
-  884.1.1:
-    birth: leon #TODO: Date and location guessed, check if better data is available
-    first_name: ordono
-    dynasty: de_beni_alfons_dynasty
-    adm: 45
-    dip: 45
-    mil: 45
+lon_fruela_ii_leon:
+  875:
+    birth: oviedo #unknown
+    first_name: name_froila
+    dynasty: asturleonesa_dynasty
+    father: lon_alfonso_iii_asturias
+    mother: astu_jimena
     religion: catholic
     culture: leonese
+    tag: ASTU
+    traits:
+      calm: yes
+  924.6:
     tag: LON
-  924.1.1:
+    nickname: nick_the_leper
+  925.7:
     death: yes
-lon_alfonso_iv_de_beni_alfons:
-  894.1.1:
-    birth: leon #TODO: Date and location guessed, check if better data is available
-    first_name: alfonso
-    dynasty: de_beni_alfons_dynasty
-    adm: 15
-    dip: 15
-    mil: 15
+lon_alfonso_iv_leon:
+  894:
+    birth: santiago_compostela #unknown
+    first_name: name_alphonse
+    dynasty: asturleonesa_dynasty
+    father: lon_ordono_ii_leon
+    mother: lon_elvira_menendez
+    adm: 43
+    dip: 52
+    mil: 39
     religion: catholic
     culture: leonese
+    tag: ASTU
+    traits:
+      pious: yes
+  910.12.20:
+    tag: GLC
+  914:
     tag: LON
-  931.6.1:
+  931:
+    nickname: nick_the_monk
+  933.8:
     death: yes
-lon_ramiro_ii_de_beni_alfons:
-  901.1.1:
-    birth: leon #TODO: Date and location guessed, check if better data is available
-    first_name: ramiro
-    dynasty: de_beni_alfons_dynasty
-    adm: 60
-    dip: 45
-    mil: 60
-    religion: catholic
-    culture: leonese
-    tag: LON
-  951.6.1:
-    death: yes
-lon_ordono_iii_de_beni_alfons:
-  921.1.1:
-    birth: leon #TODO: Date and location guessed, check if better data is available
-    first_name: ordono
-    dynasty: de_beni_alfons_dynasty
-    adm: 90
-    dip: 45
-    mil: 60
-    religion: catholic
-    culture: leonese
-    tag: LON
-  956.6.1:
-    death: yes
-lon_sancho_i_de_beni_alfons:
-  926.1.1:
-    birth: leon #TODO: Date and location guessed, check if better data is available
-    first_name: sancho
-    dynasty: de_beni_alfons_dynasty
-    adm: 30
-    dip: 45
-    mil: 30
-    religion: catholic
-    culture: leonese
-    tag: LON
-  958.6.1:
-    death: yes
-lon_ordono_iv_de_beni_alfons:
-  928.1.1:
-    birth: leon #TODO: Date and location guessed, check if better data is available
-    first_name: ordono
-    dynasty: de_beni_alfons_dynasty
-    adm: 60
+glc_sancho_ordonez:
+  895:
+    birth: santiago_compostela #unknown
+    first_name: name_sancho
+    dynasty: asturleonesa_dynasty
+    father: lon_ordono_ii_leon
+    mother: lon_elvira_menendez
+    adm: 23
     dip: 30
-    mil: 30
+    mil: 43
     religion: catholic
     culture: leonese
-    tag: LON
-  960.6.1:
+    tag: ASTU
+  910.12.20:
+    tag: GLC
+  929.8:
     death: yes
-lon_sancho_i_de_beni_alfons_1:
-  930.1.1:
-    birth: leon #TODO: Date and location guessed, check if better data is available
-    first_name: sancho
-    dynasty: de_beni_alfons_dynasty
-    adm: 30
-    dip: 45
-    mil: 30
+lon_alfonso_froilaz:
+  900:
+    birth: oviedo #unknown
+    first_name: name_alphonse
+    nickname: Hunchback
+    dynasty: asturleonesa_dynasty
+    father: lon_fruela_ii_leon
     religion: catholic
     culture: leonese
+    tag: ASTU
+  924.6:
     tag: LON
-  966.6.1:
+  940:
     death: yes
-lon_ramiro_iii_de_beni_alfons:
-  936.1.1:
-    birth: leon #TODO: Date and location guessed, check if better data is available
-    first_name: ramiro
-    dynasty: de_beni_alfons_dynasty
-    adm: 30
-    dip: 30
-    mil: 60
-    religion: catholic
-    culture: leonese
-    tag: LON
-  982.6.1:
-    death: yes
-lon_bermudo_ii_de_beni_alfons:
-  952.1.1:
-    birth: leon #TODO: Date and location guessed, check if better data is available
-    first_name: bermudo
-    dynasty: de_beni_alfons_dynasty
-    adm: 30
-    dip: 60
-    mil: 60
-    religion: catholic
-    culture: leonese
-    tag: LON
-  999.6.1:
-    death: yes
-lon_alfonso_v_de_beni_alfons:
-  969.1.1:
-    birth: leon #TODO: Date and location guessed, check if better data is available
-    first_name: alfonso
-    dynasty: de_beni_alfons_dynasty
-    adm: 60
-    dip: 60
-    mil: 30
-    religion: catholic
-    culture: leonese
-    tag: LON
-  1010.1.1:
-    death: yes
-lon_bermudo_iii_de_beni_alfons:
-  980.1.1:
-    birth: leon #TODO: Date and location guessed, check if better data is available
-    first_name: bermudo
-    dynasty: de_beni_alfons_dynasty
-    adm: 75
-    dip: 45
+lon_ramiro_ii_leon:
+  900:
+    birth: santiago_compostela #unknown
+    first_name: name_ramiro
+    nickname: nick_the_great
+    dynasty: asturleonesa_dynasty
+    father: lon_ordono_ii_leon
+    mother: lon_elvira_menendez
+    adm: 76
+    dip: 68
     mil: 75
     religion: catholic
     culture: leonese
+    tag: ASTU
+    traits:
+      inspiring_leader: yes
+      lawgiver: yes
+  910.12.20:
+    tag: GLC
+  914:
     tag: LON
+  931:
+    nickname: nick_the_great
+  951.1.1:
+    death: yes
+lon_adosinda_gutierrez:
+  900:
+    birth: oviedo #unknown
+    first_name: name_adosinda
+    female: yes
+    religion: catholic
+    culture: leonese
+    tag: LON
+  920:
+    spouse: lon_ramiro_ii_leon
+  930:
+    death: yes
+lon_onneca_sanchez_of_pamplona:
+  904:
+    birth: pamplona
+    first_name: name_oneca
+    dynasty: jimena_dynasty
+    female: yes
+    father: nav_sancho_i_jimena
+    mother: nav_toda_aznarez
+    religion: catholic
+    culture: basque
+    tag: NAV
+  924:
+    spouse: lon_alfonso_iv_leon
+    tag: LON
+  931.6:
+    death: yes
+lon_urraca_sanchez_of_pamplona:
+  906:
+    birth: pamplona
+    first_name: name_urraca
+    dynasty: jimena_dynasty
+    female: yes
+    father: nav_sancho_i_jimena
+    mother: nav_toda_aznarez
+    religion: catholic
+    culture: basque
+    tag: NAV
+  932:
+    spouse: lon_ramiro_ii_leon
+    tag: LON
+  960:
+    death: yes
+lon_ordono_iii_leon:
+  926:
+    birth: leon #unknown
+    first_name: name_ordono
+    dynasty: asturleonesa_dynasty
+    father: lon_ramiro_ii_leon
+    mother: lon_adosinda_gutierrez
+    adm: 57
+    dip: 28
+    mil: 73
+    religion: catholic
+    culture: leonese
+    tag: LON
+    traits:
+      bold_fighter: yes
+  956:
+    death: yes
+lon_ordono_iv_leon:
+  926:
+    birth: santiago_compostela
+    first_name: name_ordono
+    dynasty: asturleonesa_dynasty
+    father: lon_alfonso_iv_leon
+    mother: lon_onneca_sanchez_of_pamplona
+    religion: catholic
+    culture: leonese
+    tag: LON
+    traits:
+      craven: yes
+  958:
+    nickname: Bad
+  963:
+    death: yes
+lon_urraca_fernandez:
+  935:
+    birth: burgos #unknown
+    first_name: name_urraca
+    dynasty: beni_mamaduna_dynasty
+    female: yes
+    father: cas_fernan_gonzalez_beni_mamaduna
+    mother: cas_sancha_sanchez_of_pamplona
+    religion: catholic
+    culture: castilian
+    tag: CAS
+  950:
+    spouse: lon_ordono_iii_leon
+    tag: LON
+  965:
+    spouse: nav_sancho_ii_jimena
+    tag: NAV
+  1007:
+    death: yes
+lon_sancho_i_leon:
+  935:
+    birth: leon #unknown
+    first_name: name_sancho
+    dynasty: asturleonesa_dynasty
+    father: lon_ramiro_ii_leon
+    mother: lon_urraca_sanchez_of_pamplona
+    religion: catholic
+    culture: leonese
+    tag: LON
+    traits:
+      malevolent: yes
+  956:
+    nickname: the_fat
+  966.12.19:
+    death: yes
+lon_elvira_ramirez:
+  935:
+    birth: leon #unknown
+    first_name: name_elvira
+    dynasty: asturleonesa_dynasty
+    female: yes
+    father: lon_ramiro_ii_leon
+    mother: lon_urraca_sanchez_of_pamplona
+    religion: catholic
+    culture: leonese
+    tag: LON
+  990:
+    death: yes
+lon_teresa_ansurez:
+  940:
+    birth: leon #unknown
+    first_name: name_theresa
+    female: yes
+    religion: catholic
+    culture: leonese
+    tag: LON
+  958:
+    spouse: lon_sancho_i_leon
+  997:
+    death: yes
+lon_bermudo_ii_leon:
+  953:
+    birth: astorga #unknown
+    first_name: name_bermund
+    dynasty: asturleonesa_dynasty
+    father: lon_ordono_iii_leon
+    mother: lon_urraca_fernandez
+    religion: catholic
+    culture: leonese
+    tag: LON
+    traits:
+      scholar: yes
+  984:
+    nickname: nick_the_gouty
+  999.9:
+    death: yes
+lon_ramiro_iii_leon:
+  961:
+    birth: leon #unknown
+    first_name: name_ramiro
+    dynasty: asturleonesa_dynasty
+    father: lon_sancho_i_leon
+    mother: lon_teresa_ansurez
+    religion: catholic
+    culture: leonese
+    tag: LON
+    traits:
+      naive: yes
+  985.6.26:
+    death: yes
+lon_sancha_gomez:
+  962:
+    birth: leon #unknown
+    first_name: name_sancha
+    female: yes
+    religion: catholic
+    culture: leonese
+    tag: LON
+  980:
+    spouse: lon_ramiro_iii_leon
+  1020:
+    death: yes
+lon_menendo_gonzales:
+  970:
+    birth: santiago_compostela #unknown
+    first_name: name_menendo
+    dynasty: vimara_dynasty
+    religion: catholic
+    culture: galician
+    tag: LON
+    estate: nobles_estate
+  1008.10.6:
+    death: yes
+lon_elvira_of_castile:
+  978:
+    birth: burgos #unknown
+    first_name: name_elvira
+    dynasty: beni_mamaduna_dynasty
+    female: yes
+    father: cas_garcia_fernandez_beni_mamaduna
+    mother: cas_ava_of_ribagorza
+    religion: catholic
+    culture: castilian
+    tag: CAS
+  991.11.20: #Late November
+    spouse: lon_bermudo_ii_leon
+    tag: LON
+  1017.9: #Autumn 1017
+    death: yes
+lon_ordono_ramirez:
+  981:
+    birth: leon #unknown
+    first_name: name_ordono
+    nickname: the_blind
+    dynasty: asturleonesa_dynasty
+    father: lon_ramiro_iii_leon
+    mother: lon_sancha_gomez
+    religion: catholic
+    culture: leonese
+    tag: LON
+  1022:
+    death: yes
+lon_alfonso_v_leon:
+  994:
+    birth: leon
+    first_name: name_alphonse
+    dynasty: asturleonesa_dynasty
+    father: lon_bermudo_ii_leon
+    mother: lon_elvira_of_castile
+    religion: catholic
+    culture: leonese
+    tag: LON
+    traits:
+      lawgiver: yes
+      just: yes
+  999:
+    nickname: nick_the_noble
+  1028.8.7:
+    death: yes
+lon_elvira_menendez:
+  996:
+    birth: leon #unknown
+    first_name: name_elvira
+    dynasty: vimara_dynasty
+    female: yes
+    father: lon_menendo_gonzales
+    religion: catholic
+    culture: leonese
+    tag: LON
+    estate: nobles_estate
+  1013:
+    spouse: lon_alfonso_v_leon
+    estate: ---
+  1022.12.2:
+    death: yes
+lon_urraca_garces_of_pamplona:
+  1000:
+    birth: pamplona
+    first_name: name_urraca
+    dynasty: jimena_dynasty
+    female: yes
+    father: nav_garcia_ii_jimena
+    mother: nav_jimena_fernandez
+    religion: catholic
+    culture: basque
+    tag: NAV
+  1023:
+    spouse: lon_alfonso_v_leon
+    tag: LON
+  1035:
+    death: yes
+lon_fernando_i_jimena:
+  1014:
+    birth: pamplona #unknown
+    first_name: name_ferdinand
+    dynasty: jimena_dynasty
+    father: nav_sancho_iii_jimena
+    mother: nav_muniadona_of_castile
+    adm: 47
+    dip: 30
+    mil: 61
+    religion: catholic
+    culture: basque
+    tag: NAV
+    traits:
+      conqueror: yes
+      expansionist: yes
+  1029:
+    tag: CAS
+  1037.9.4:
+    tag: LON
+    nickname: nick_the_great
   1065.12.24:
     death: yes
-lon_alfonso_vi_jimenez:
-  1035.1.1:
-    birth: leon #TODO: Date and location guessed, check if better data is available
-    first_name: alfonso
-    dynasty: jimenez_dynasty
-    adm: 45
-    dip: 45
-    mil: 15
+lon_bermudo_iii_leon:
+  1015:
+    birth: leon #unknown
+    first_name: name_bermund
+    nickname: the_young
+    dynasty: asturleonesa_dynasty
+    father: lon_alfonso_v_leon
+    mother: lon_elvira_menendez
     religion: catholic
     culture: leonese
     tag: LON
-  1072.10.7:
+    traits:
+      loose_lips: yes
+  1037.9.4:
     death: yes
-lon_alfonso_vi_jimenez_1:
-  1042.1.1:
-    birth: leon #TODO: Date and location guessed, check if better data is available
-    first_name: alfonso
-    dynasty: jimenez_dynasty
-    adm: 45
-    dip: 45
-    mil: 15
-    religion: catholic
-    culture: leonese
-    tag: LON
-  1109.6.29:
-    death: yes
-lon_urraca_jimenez:
-  1079.1.1:
-    birth: leon #TODO: Date and location guessed, check if better data is available
-    first_name: urraca
-    dynasty: jimenez_dynasty
+lon_jimena_sanchez_jimena:
+  1017:
+    birth: pamplona #unknown
+    first_name: name_ximena
+    dynasty: jimena_dynasty
     female: yes
-    adm: 45
-    dip: 60
-    mil: 30
+    father: nav_sancho_iii_jimena
+    mother: nav_muniadona_of_castile
     religion: catholic
-    culture: leonese
+    culture: basque
+    tag: NAV
+  1035.2.2:
+    spouse: lon_bermudo_iii_leon
     tag: LON
-  3000.1.1:
+  1063:
     death: yes
-lon_alfonso_vii_divrea:
-  1105.1.1:
-    birth: leon #TODO: Date and location guessed, check if better data is available
-    first_name: alfonso
-    dynasty: divrea_dynasty
-    adm: 75
-    dip: 75
-    mil: 15
+lon_sancha_leon:
+  1018:
+    birth: leon #unknown
+    first_name: name_bermund
+    dynasty: asturleonesa_dynasty
+    female: yes
+    father: lon_alfonso_v_leon
+    mother: lon_elvira_menendez
     religion: catholic
     culture: leonese
     tag: LON
-  1157.8.21:
+  1032:
+    spouse: lon_fernando_i_jimena
+    tag: CAS
+  1037.9.4:
+    tag: LON
+  1067.11.8:
     death: yes
-lon_ferdinand_ii_divrea:
-  1127.1.1:
-    birth: leon #TODO: Date and location guessed, check if better data is available
-    first_name: ferdinand
-    dynasty: divrea_dynasty
-    adm: 30
-    dip: 15
-    mil: 15
+lon_jimena_of_leon:
+  1025:
+    birth: leon #unknown
+    first_name: name_ximena
+    dynasty: asturleonesa_dynasty
+    female: yes
+    father: lon_alfonso_v_leon
+    mother: lon_urraca_garces_of_pamplona
     religion: catholic
     culture: leonese
     tag: LON
-  1188.6.1:
+  1050:
     death: yes
-lon_alfonso_ix_divrea:
-  1158.1.1:
-    birth: leon #TODO: Date and location guessed, check if better data is available
-    first_name: alfonso
-    dynasty: divrea_dynasty
-    adm: 30
-    dip: 60
-    mil: 30
+lon_urraca_of_zamora:
+  1034:
+    birth: leon
+    first_name: name_urraca
+    dynasty: jimena_dynasty
+    female: yes
+    father: lon_fernando_i_jimena
+    mother: lon_sancha_leon
     religion: catholic
     culture: leonese
     tag: LON
-  3000.1.1:
+  1103:
+    death: yes
+lon_elvira_of_toro:
+  1039:
+    birth: leon
+    first_name: name_urraca
+    dynasty: jimena_dynasty
+    female: yes
+    father: lon_fernando_i_jimena
+    mother: lon_sancha_leon
+    religion: catholic
+    culture: leonese
+    tag: LON
+  1101.11.15:
+    death: yes
+lon_alfonso_vi_jimena:
+  1040:
+    birth: leon
+    first_name: name_alphonse
+    dynasty: jimena_dynasty
+    father: lon_fernando_i_jimena
+    mother: lon_sancha_leon
+    adm: 52
+    dip: 67
+    mil: 41
+    religion: catholic
+    culture: leonese
+    tag: LON
+    traits:
+      conqueror: yes
+      just: yes
+      intricate_web_weaver: yes
+  1065.12.24:
+    nickname: Brave
+  1109.7.1:
+    death: yes
+lon_constance_of_burgundy:
+  1046.5.8:
+    birth: dijon #unknown
+    first_name: name_constance
+    female: yes
+    religion: catholic
+    culture: burgundian
+    tag: BUR
+  1079.12:
+    spouse: lon_alfonso_vi_jimena
+    tag: LON
+  1093:
+    death: yes
+lon_agnes_of_aquitaine:
+  1060:
+    birth: bordeaux #unknown
+    first_name: name_agnes
+    female: yes
+    religion: catholic
+    culture: french
+    tag: FRA
+  1074:
+    spouse: lon_alfonso_vi_jimena
+    tag: LON
+  1078.6.6:
+    death: yes
+lon_zaida_of_seville:
+  1070:
+    birth: sevilla
+    first_name: name_zayda
+    female: yes
+    religion: sunni
+    culture: andalusi
+    tag: SEVI
+  1091: #Fled to Leon after fall of Taifa of Seville
+    first_name: isabel
+    religion: catholic
+    tag: LON
+  1100:
+    spouse: lon_alfonso_vi_jimena
+  1107.5:
+    death: yes
+lon_elvira_alfonsez:
+  1079:
+    birth: leon #unknown
+    first_name: name_elvira
+    dynasty: jimena_dynasty
+    female: yes
+    father: lon_alfonso_vi_jimena
+    #mother: Jimena Muñoz
+    religion: catholic
+    culture: leonese
+    tag: LON
+    traits:
+      bastard: yes
+  1157.4:
+    death: yes
+lon_teresa_jimena:
+  1080:
+    birth: leon #unknown
+    first_name: name_theresa
+    dynasty: jimena_dynasty
+    female: yes
+    father: lon_alfonso_vi_jimena
+    #mother: Jimena Muñoz
+    religion: catholic
+    culture: leonese
+    tag: LON
+    traits:
+      greedy: yes
+      bastard: yes
+  1130.11.11:
+    death: yes
+lon_urraca_i_jimena:
+  1081:
+    birth: burgos
+    first_name: name_urraca
+    dynasty: jimena_dynasty
+    female: yes
+    father: lon_alfonso_vi_jimena
+    mother: lon_constance_of_burgundy
+    adm: 54
+    dip: 59
+    mil: 31
+    religion: catholic
+    culture: castilian
+    tag: LON
+    traits:
+      righteous: yes
+  1126.3.8:
+    death: yes
+lon_sancho_alfonsez:
+  1093:
+    birth: leon #unknown
+    first_name: name_sancho
+    dynasty: jimena_dynasty
+    father: lon_alfonso_vi_jimena
+    mother: lon_zaida_of_seville
+    religion: catholic
+    culture: leonese
+    tag: LON
+    traits:
+      bastard: yes
+  1107.5:
+    traits:
+      bastard: no
+  1108.5.29:
+    death: yes
+lon_sancha_raimundez:
+  1100: #Between 1095 and 1102
+    birth: leon #unknown
+    first_name: name_sancha
+    dynasty: burgundy_castile_dynasty
+    female: yes
+    father: glc_raymond_burgundy
+    mother: lon_urraca_i_jimena
+    religion: catholic
+    culture: castilian
+    tag: LON
+  1126.3.8:
+    tag: CAS
+  1159.2.28:
+    death: yes
+lon_sancha_alfonsez:
+  1102:
+    birth: leon #unknown
+    first_name: name_sancha
+    dynasty: jimena_dynasty
+    female: yes
+    father: lon_alfonso_vi_jimena
+    mother: lon_zaida_of_seville #Maybe a different Isabel
+    religion: catholic
+    culture: leonese
+    tag: LON
+  1125.5.10:
+    death: yes
+lon_elvira_of_castile:
+  1103:
+    birth: leon #unknown
+    first_name: name_elvira
+    dynasty: jimena_dynasty
+    female: yes
+    father: lon_alfonso_vi_jimena
+    mother: lon_zaida_of_seville #Maybe a different Isabel
+    religion: catholic
+    culture: leonese
+    tag: LON
+  1135.2.8:
+    death: yes
+lon_fernando_ii_burgundy:
+  1137.3.1:
+    birth: toledo
+    first_name: name_ferdinand
+    dynasty: burgundy_castile_dynasty
+    father: cas_alfonso_vii_burgundy
+    mother: cas_berengaria_of_barcelona
+    adm: 65
+    dip: 43
+    mil: 76
+    religion: catholic
+    culture: leonese
+    tag: LON
+    traits:
+      bold_fighter: yes
+      conqueror: yes
+      lawgiver: yes
+  1188.1.22:
+    death: yes
+lon_urraca_of_portugal:
+  1148:
+    birth: coimbra
+    first_name: name_urraca
+    female: yes
+    religion: catholic
+    culture: portuguese
+    tag: POR
+  1165.6:
+    spouse: lon_fernando_ii_burgundy
+    tag: LON
+  1175:
+    spouse: ---
+  1211:
+    death: yes
+lon_urraca_lopez_de_haro:
+  1160:
+    birth: bilbao #unknown
+    first_name: name_urraca
+    female: yes
+    religion: catholic
+    culture: castilian
+    tag: LON
+  1187.5:
+    spouse: lon_fernando_ii_burgundy
+  1230:
+    death: yes
+lon_alfonso_ix_burgundy:
+  1171.8.15:
+    birth: zamora
+    first_name: name_alphonse
+    dynasty: burgundy_castile_dynasty
+    father: lon_fernando_ii_burgundy
+    mother: lon_urraca_of_portugal
+    adm: 61
+    dip: 43
+    mil: 47
+    religion: catholic
+    culture: leonese
+    tag: LON
+    traits:
+      well_connected: yes
+      lawgiver: yes
+      loose_lips: yes
+  1195.7.18:
+    traits:
+      excommunicated: yes
+  1230.9.24:
+    death: yes
+lon_theresa_of_portugal:
+  1176:
+    birth: coimbra #Portugal
+    first_name: name_theresa
+    female: yes
+    religion: catholic
+    culture: portuguese
+    tag: POR
+  1191:
+    spouse: lon_alfonso_ix_burgundy
+    tag: LON
+  1196:
+    spouse: ---
+    tag: POR
+  1250.6.18:
+    death: yes
+lon_alfonso_fernandez:
+  1184:
+    birth: zamora #unknown
+    first_name: name_alphonse
+    dynasty: burgundy_castile_dynasty
+    father: lon_fernando_ii_burgundy
+    mother: lon_urraca_lopez_de_haro
+    religion: catholic
+    culture: leonese
+    tag: LON
+    traits:
+      bastard: yes
+  1187.5:
+    traits:
+      bastard: no
+  1188:
+    death: yes
+lon_sancho_fernandez:
+  1186:
+    birth: zamora #unknown
+    first_name: name_sancho
+    dynasty: burgundy_castile_dynasty
+    father: lon_fernando_ii_burgundy
+    mother: lon_urraca_lopez_de_haro
+    religion: catholic
+    culture: leonese
+    tag: LON
+    traits:
+      bastard: yes
+  1187.5:
+    traits:
+      bastard: no
+  1220.8.25:
+    death: yes
+lon_sancha_alfonsez_burgundy:
+  1191:
+    birth: zamora #unknown
+    first_name: name_sancha
+    dynasty: burgundy_castile_dynasty
+    female: yes
+    father: lon_alfonso_ix_burgundy
+    mother: lon_theresa_of_portugal
+    religion: catholic
+    culture: leonese
+    tag: LON
+  1230.9.24:
+    tag: CAS
+  1242:
+    death: yes
+lon_ferdinand_alfonsez_burgundy:
+  1192:
+    birth: zamora #unknown
+    first_name: name_ferdinand
+    dynasty: burgundy_castile_dynasty
+    father: lon_alfonso_ix_burgundy
+    mother: lon_theresa_of_portugal
+    religion: catholic
+    culture: leonese
+    tag: LON
+  1214.8:
+    death: yes
+lon_dulce_alfonsez_burgundy:
+  1195:
+    birth: zamora #unknown
+    first_name: name_douce
+    dynasty: burgundy_castile_dynasty
+    female: yes
+    father: lon_alfonso_ix_burgundy
+    mother: lon_theresa_of_portugal
+    religion: catholic
+    culture: leonese
+    tag: LON
+  1230.9.24:
+    tag: CAS
+  1248:
+    death: yes
+lon_constance_alfonsez_burgundy:
+  1199:
+    birth: zamora #unknown
+    first_name: name_constance
+    dynasty: burgundy_castile_dynasty
+    female: yes
+    father: lon_alfonso_ix_burgundy
+    mother: cas_berenguela_i_burgundy
+    religion: catholic
+    culture: castilian
+    tag: LON
+  1204:
+    tag: CAS
+  1242:
+    death: yes
+lon_alfonso_of_molina:
+  1202:
+    birth: leon
+    first_name: name_alphonse
+    dynasty: burgundy_castile_dynasty
+    father: lon_alfonso_ix_burgundy
+    mother: cas_berenguela_i_burgundy
+    religion: catholic
+    culture: castilian
+    tag: LON
+  1204:
+    tag: CAS
+  1240:
+    estate: nobles_estate
+  1272.1.6:
+    death: yes
+lon_berengaria_alfonsez_burgundy:
+  1204:
+    birth: zamora #unknown
+    first_name: name_berengaria
+    dynasty: burgundy_castile_dynasty
+    female: yes
+    father: lon_alfonso_ix_burgundy
+    mother: cas_berenguela_i_burgundy
+    religion: catholic
+    culture: castilian
+    tag: CAS
+  1237.4.12:
+    death: yes
+lon_mayor_alfonso_de_meneses:
+  1230:
+    birth: leon #unknown
+    first_name: name_alphonse
+    female: yes
+    religion: catholic
+    culture: castilian
+    tag: CAS
+    estate: nobles_estate
+  1260:
+    spouse: lon_alfonso_of_molina
+  1284:
     death: yes

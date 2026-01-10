@@ -1,57 +1,95 @@
 #imported from EU4
-2.1.1:
+1:
   government: iberian_monarchy
   color: rgb { 99  14  87 }
   religion: catholic
   primary_culture: leonese
   capital: leon
 910.12.10:
+  regnal_numbers:
+    name_pelagius: 1
+    name_alphonse: 3
+    name_froila: 2
+    name_favila: 1
+    name_silo: 1
+    name_mauregatus: 1
+    name_aurelius: 1
+    name_bermund: 1
+    name_ramiro: 1
+    name_ordono: 1
   ruler: lon_garcia_i_leon
+  regnal_number: 1
 914:
   ruler: lon_ordono_ii_leon
+  regnal_number: 2
 924.6:
   ruler: lon_fruela_ii_leon
+  regnal_number: 2
 925.7:
   ruler: lon_alfonso_froilaz
+  regnal_number: 0
 926:
   ruler: lon_alfonso_iv_leon
+  regnal_number: 4
 931:
   ruler: lon_ramiro_ii_leon
+  regnal_number: 2
 951.1.1:
   ruler: lon_ordono_iii_leon
+  regnal_number: 3
 956:
   ruler: lon_sancho_i_leon
+  regnal_number: 1
 958:
   ruler: lon_ordono_iv_leon
+  regnal_number: 4
 960.8: #Second half of 960
   ruler: lon_sancho_i_leon
+  regnal_number: 1
 966.12.19:
   regent: lon_elvira_ramirez
   heir: lon_ramiro_iii_leon
 983:
   ruler: lon_ramiro_iii_leon
+  regnal_number: 3
 984:
   ruler: lon_bermudo_ii_leon
+  regnal_number: 2
 999:
   ruler: lon_alfonso_v_leon
+  regnal_number: 5
 1008.10.6:
   regent: lon_menendo_gonzales
   heir: lon_alfonso_v_leon
 1028.8.7:
   ruler: lon_bermudo_iii_leon
+  regnal_number: 3
 1037.9.4:
   ruler: lon_fernando_i_jimena
+  regnal_number: 1
 1065.12.24:
   ruler: lon_alfonso_vi_jimena
+  regnal_number: 6
 1072.1.12: #Battle of Golpejera
   ruler: cas_sancho_ii_jimena
+  regnal_number: 2
 1072.10.7:
   ruler: lon_alfonso_vi_jimena
+  regnal_number: 6
 1109.6.29:
   ruler: lon_urraca_i_jimena
+  regnal_number: 1
 1126.3.8:
   ruler: cas_alfonso_vii_burgundy
+  regnal_number: 7
 1157.8.21:
+  regnal_numbers:
+    name_sancho: 3 #Sancho III of Castile is counted for rulers of Leon
   ruler: lon_fernando_ii_burgundy
+  regnal_number: 2
+1158.8.31:
+  regnal_numbers:
+    name_alphonse: 8 #Alfonso VIII of Castile is counted for rulers of Leon
 1188.1.22:
   ruler: lon_alfonso_ix_burgundy
+  regnal_number: 9

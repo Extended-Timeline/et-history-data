@@ -195,17 +195,23 @@ sic_jaime_i_darago:
     tag: SIC
   1296.12.11:
     death: yes
-sic_federico_ii_darago:
+sic_federico_iii_sicily:
   1272.12.13:
-    birth: palermo #TODO: Location guessed, check if better data is available
-    first_name: federico
-    dynasty: darago_dynasty
-    adm: 0
-    dip: 30
-    mil: 15
+    birth: barcelona
+    first_name: name_frederick
+    dynasty: barcelona_dynasty
+    father: ara_pere_iii_arago
+    mother: sic_costanza_ii_sicilia
+    adm: 51
+    dip: 45
+    mil: 71
     religion: catholic
-    culture: sicilian
+    culture: catalan
     tag: SIC
+    traits:
+      incorruptible: yes
+      lawgiver: yes
+      intricate_web_weaver: yes
   1337.6.25:
     death: yes
 sic_pere_ii_darago:
@@ -260,6 +266,22 @@ sic_maria_i_darago:
     culture: sicilian
     tag: SIC
   1713.4.12:
+    death: yes
+sic_martin_i_arago:
+  1374:
+    birth: barcelona #unknown
+    first_name: name_martin
+    nickname: nick_the_younger
+    dynasty: barcelona_dynasty
+    father: ara_marti_i_darago
+    mother: ara_maria_de_luna
+    religion: catholic
+    culture: catalan
+    tag: ARA
+  1390.2:
+    spouse: sic_maria_i_darago
+    tag: SIC
+  1409.7.25:
     death: yes
 sic_vittorio_amedeo_ii_di_savoia:
   1683.1.1:

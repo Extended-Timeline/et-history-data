@@ -1018,6 +1018,7 @@ mie_berenguela_jimena:
     dynasty: jimena_dynasty
     female: yes
     father: nav_sancho_vi_jimena
+    mother: nav_sancha_of_castile
     adm: 34
     dip: 44
     mil: 42
@@ -1771,9 +1772,12 @@ eng_joan_of_navarre:
   1368:
     birth: pamplona
     first_name: name_joanna
+    dynasty: de_evreux_dynasty
     female: yes
+    father: nav_charles_ii_evreux
+    mother: nav_joan_valois
     religion: catholic
-    culture: basque
+    culture: french
     tag: NAV
   1403.2.7:
     spouse: eng_henry_iv_lancaster
@@ -2223,12 +2227,14 @@ eng_catherine_de_trastamara:
     first_name: name_catherine
     dynasty: de_trastamara_dynasty
     female: yes
+    father: ara_ferran_ii_de_trastamara
+    mother: cas_isabel_i_de_trastamara
     adm: 75
     dip: 60
     mil: 60
     religion: catholic
-    culture: aragonese
-    tag: ARA
+    culture: castilian
+    tag: CAS
   1509.6.11:
     spouse: eng_henry_viii_tudor
     tag: ENG

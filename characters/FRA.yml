@@ -1,3 +1,72 @@
+fra_margaret_valois:
+  1553.5.14:
+    birth: paris #TODO: Saint-Germain-en-Laye
+    first_name: name_margaret
+    dynasty: valois_dynasty
+    female: yes
+    religion: catholic
+    culture: french
+    tag: FRA
+  1572.8.18:
+    spouse: fra_henri_iv_bourbon
+    tag: NAV
+  1589.8.2:
+    tag: FRA
+  1599.12.17:
+    spouse: ---
+  1615.3.27:
+    death: yes
+fra_henri_iv_bourbon:
+  1553.12.13:
+    birth: pau
+    first_name: name_henry
+    dynasty: bourbon_dynasty
+    father: nav_antoine_bourbon
+    mother: nav_juana_iii_albret
+    adm: 75
+    dip: 80
+    mil: 60
+    religion: calvinist
+    culture: french
+    tag: NAV
+  1589.8.2:
+    nickname: nick_the_great
+    tag: FRA
+  1593.7.25:
+    religion: catholic
+  1610.5.14:
+    death: yes
+fra_maria_de_medici:
+  1575.4.26:
+    birth: florence
+    first_name: name_mary
+    dynasty: medici_dynasty
+    female: yes
+    religion: catholic
+    culture: tuscan
+    tag: TUS
+  1600.10.5:
+    spouse: fra_henri_iv_bourbon
+    tag: FRA
+  1642.7.3:
+    death: yes
+fra_louis_xiii_bourbon:
+  1601.9.27:
+    birth: paris
+    first_name: name_louis
+    dynasty: bourbon_dynasty
+    father: fra_henri_iv_bourbon
+    mother: fra_maria_de_medici
+    adm: 70
+    dip: 50
+    mil: 60
+    religion: calvinist
+    culture: french
+    tag: NAV
+  1610.5.14:
+    nickname: the_just
+  1643.5.14:
+    death: yes
 fra_louis_jules_trochu:
   1815.3.12:
     birth: paris #TODO: Location guessed, check if better data is available

@@ -155,26 +155,29 @@ pro_douce_i_de_gevaudan:
     religion: catholic
     culture: languedocien
     tag: PRO
+  1112:
+    spouse: cat_ramon_berenguer_iii_barcelona
   1127.1.1:
     death: yes
-pro_ramon_berenguer_i_de_sunifred:
-  1115.1.1:
-    birth: aix_en_provence #TODO: Date and location guessed, check if better data is available
-    first_name: ramon_berenguer
-    dynasty: de_sunifred_dynasty
-    adm: 0
-    dip: 15
-    mil: 15
+pro_berenguier_ramon_barcelona:
+  1115:
+    birth: montpellier
+    first_name: name_berengar.name_raymond
+    dynasty: barcelona_dynasty
+    father: cat_ramon_berenguer_iii_barcelona
+    mother: pro_douce_i_de_gevaudan
     religion: catholic
-    culture: languedocien
+    culture: provencal
     tag: PRO
-  1144.1.1:
+    traits:
+      bold_fighter: yes
+  1144.3.1:
     death: yes
 pro_ramon_berenguer_ii_de_sunifred:
   1135.1.1:
     birth: aix_en_provence #TODO: Date and location guessed, check if better data is available
     first_name: ramon_berenguer
-    dynasty: de_sunifred_dynasty
+    dynasty: barcelona_dynasty
     adm: 45
     dip: 45
     mil: 0
@@ -187,7 +190,7 @@ pro_douce_ii_de_sunifred:
   1165.1.1:
     birth: aix_en_provence #TODO: Date and location guessed, check if better data is available
     first_name: douce
-    dynasty: de_sunifred_dynasty
+    dynasty: barcelona_dynasty
     female: yes
     adm: 30
     dip: 0
@@ -197,50 +200,62 @@ pro_douce_ii_de_sunifred:
     tag: PRO
   1172.1.1:
     death: yes
-pro_ramon_berenguer_iii_darago:
-  1158.1.1:
-    birth: aix_en_provence #TODO: Date and location guessed, check if better data is available
-    first_name: ramon_berenguer
-    dynasty: darago_dynasty
-    adm: 45
-    dip: 75
-    mil: 0
+pro_ramon_berenguier_iv_barcelona:
+  1158:
+    birth: barcelona
+    first_name: name_peter
+    dynasty: barcelona_dynasty
+    father: cat_ramon_berenguer_iv_barcelona
+    mother: ara_petronila_i_aragon
     religion: catholic
-    culture: languedocien
+    culture: catalan
+    tag: ARA
+  1173:
+    first_name: name_raymond.name_berengar
     tag: PRO
   1181.4.5:
     death: yes
-pro_sancho_darago:
-  1161.1.1:
-    birth: aix_en_provence #TODO: Date and location guessed, check if better data is available
-    first_name: sancho
-    dynasty: darago_dynasty
-    adm: 15
-    dip: 15
-    mil: 0
+pro_sanc_i_barcelona:
+  1161:
+    birth: barcelona
+    first_name: name_sancho
+    dynasty: barcelona_dynasty
+    father: cat_ramon_berenguer_iv_barcelona
+    mother: ara_petronila_i_aragon
+    adm: 9
+    dip: 37
+    mil: 30
     religion: catholic
-    culture: languedocien
+    culture: catalan
+    tag: ARA
+  1181:
     tag: PRO
+  1185:
+    tag: ARA
   1223.1.1:
     death: yes
-pro_alfonso_ii_darago:
-  1174.1.1:
-    birth: aix_en_provence #TODO: Date and location guessed, check if better data is available
-    first_name: alfonso
-    dynasty: darago_dynasty
-    adm: 0
-    dip: 60
-    mil: 15
+pro_anfos_ii_arago:
+  1180:
+    birth: barcelona
+    first_name: name_alphonse
+    dynasty: barcelona_dynasty
+    father: ara_alfons_ii_arago
+    mother: ara_sancha_of_castile
+    adm: 41
+    dip: 33
+    mil: 30
     religion: catholic
-    culture: languedocien
+    culture: catalan
     tag: PRO
-  1209.12.1:
+    traits:
+      loose_lips: yes
+  1209.2.2:
     death: yes
 pro_ramon_berenguer_iv_darago:
   1198.1.1:
     birth: aix_en_provence #TODO: Date and location guessed, check if better data is available
     first_name: ramon_berenguer
-    dynasty: darago_dynasty
+    dynasty: barcelona_dynasty
     adm: 45
     dip: 30
     mil: 75
@@ -253,7 +268,7 @@ pro_beatrice_darago:
   1231.1.1:
     birth: aix_en_provence #TODO: Date and location guessed, check if better data is available
     first_name: beatrice
-    dynasty: darago_dynasty
+    dynasty: barcelona_dynasty
     female: yes
     adm: 30
     dip: 0

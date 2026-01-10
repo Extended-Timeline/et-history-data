@@ -1,13 +1,20 @@
-mll_jaime_i_de_mallorca:
-  1246.1.1:
-    birth: perpignan #TODO: Date and location guessed, check if better data is available
-    first_name: jaime
-    dynasty: de_mallorca_dynasty
-    adm: 45
-    dip: 30
-    mil: 75
+mll_jacme_ii_mallorca:
+  1243.5.31:
+    birth: montpellier
+    first_name: name_james
+    dynasty: barcelona_dynasty
+    father: ara_jacme_i_arago
+    mother: ara_jolan_arpad
+    adm: 42
+    dip: 67
+    mil: 24
     religion: catholic
     culture: catalan
+    tag: ARA
+    traits:
+      entrepreneur: yes
+      charismatic_negotiator: yes
+  1276.7.27:
     tag: MLL
   1311.5.29:
     death: yes
@@ -36,4 +43,17 @@ mll_jaime_iii_de_mallorca:
     culture: catalan
     tag: MLL
   3000.1.1:
+    death: yes
+mll_constanza_arago:
+  1318:
+    birth: zaragoza #unknown
+    first_name: name_constance
+    dynasty: barcelona_dynasty
+    female: yes
+    father: ara_alfonso_iv_arago
+    mother: ara_teresa_entenza
+    religion: catholic
+    culture: aragonese
+    tag: MLL
+  1346:
     death: yes

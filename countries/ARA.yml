@@ -1,70 +1,88 @@
-#imported from EU4
-2.1.1:
+1:
   government: iberian_monarchy
   color: rgb { 166  68  72 }
   government_rank: rank_duchy
   religion: chalcedonism
   primary_culture: aragonese
   capital: huesca
-487.1.1:
-  government: catholic_monarchy
-795.1.1:
+795:
   ruler: ara_oriol_de_aragon
-809.1.1:
+809:
   ruler: ara_aznar_galindez_i_de_aragon
-820.1.1:
+820:
   ruler: ara_garcia_galindez_i_de_aragon
-833.1.1:
+833:
   ruler: ara_galindo_garces_i_de_aragon
-844.1.1:
+844:
   ruler: ara_galindo_aznarez_i_de_aragon
-867.1.1:
+867:
   ruler: ara_aznar_galindez_ii_de_aragon
   religion: catholic
-893.1.1:
+893:
   ruler: ara_galindo_aznarez_ii_de_aragon
-962.1.1:
-  government: iberian_monarchy
-1000.1.1:
-  government_rank: rank_kingdom
+#922: To Navarre
 1035.10.18:
-  ruler: ara_ramir_i_jimenez
+  government_rank: rank_kingdom
+  ruler: ara_ramiro_i_aragon
+  regnal_number: 1
 1063.5.8:
-  ruler: ara_sancho_v_jimenez_1
+  ruler: ara_sancho_i_aragon
+  regnal_number: 1
 1094.6.4:
-  ruler: ara_pere_i_jimenez_1
-1104.9.29:
-  ruler: ara_alfons_i_jimenez
+  ruler: ara_pedro_i_aragon
+  regnal_number: 1
+1104.9.28:
+  ruler: ara_alfonso_i_aragon
+  regnal_number: 1
 1118.12.18:
   capital: zaragoza
-1134.9.8:
-  ruler: ara_ramir_ii_jimenez_1
-1157.8.16:
-  ruler: ara_petronilla_i_jimenez_1
+1134.9.7:
+  ruler: ara_ramiro_ii_aragon
+  regnal_number: 2
+1137.11.13:
+  regent: cat_ramon_berenguer_iv_barcelona
+  heir: ara_petronila_i_aragon
+1150.8:
+  ruler: ara_petronila_i_aragon
+  regnal_number: 1
 1164.7.18:
-  ruler: ara_alfons_ii_darago_1
+  ruler: ara_alfons_ii_arago
+  regnal_number: 2
   capital: barcelona
 1196.4.25:
-  ruler: ara_pere_ii_darago_1
+  ruler: ara_pere_ii_arago
+  regnal_number: 2
 1213.9.12:
-  ruler: ara_jaume_i_darago_1
+  ruler: ara_jacme_i_arago
+  regnal_number: 1
 1276.7.27:
-  ruler: ara_pere_iii_darago_1
+  ruler: ara_pere_iii_arago
+  regnal_number: 3
 1285.11.2:
-  ruler: ara_jaume_ii_darago_1
-1327.11.5:
-  ruler: ara_alfons_iv_darago_1
+  ruler: ara_alfons_iii_arago
+  regnal_number: 3
+1291.6.18:
+  ruler: ara_jaume_ii_arago
+  regnal_number: 2
+1327.11.2:
+  ruler: ara_alfonso_iv_arago
+  regnal_number: 4
 1336.1.24:
-  ruler: ara_pere_iv_darago_1
+  ruler: ara_peter_iv_arago
+  regnal_number: 4
 1387.1.6:
-  ruler: ara_joan_i_darago_1
+  ruler: ara_joan_i_darago
+  regnal_number: 1
 1396.5.19:
-  ruler: ara_marti_i_darago_1
+  ruler: ara_marti_i_darago
+  regnal_number: 1
+1410.5.31:
+  regent: --- #TODO: Sort out this interregnum
 1412.6.24:
   ruler: ara_ferran_i_de_trastamara
 1416.4.2:
   ruler: ara_alfons_v_de_trastamara
-1458.6.29:
+1458.6.27:
   ruler: ara_joan_ii_de_trastamara
 1479.1.20:
   ruler: ara_ferran_ii_de_trastamara

@@ -1,56 +1,77 @@
 #imported from EU4
-2.1.1:
+1:
   government: iberian_monarchy
   color: rgb { 213  132  76 }
   government_rank: rank_duchy
   religion: chalcedonism
   primary_culture: catalan
   capital: barcelona
-487.1.1:
-  government: catholic_monarchy
-785.1.1:
-  ruler: cat_rostany_de_girona
-801.1.1:
+801:
   ruler: cat_bera_i_de_barcelona
-820.1.1:
-  ruler: cat_rampo_i_de_barcelona_1
-826.1.1:
-  ruler: cat_bernat_i_de_barcelona_1
-844.1.1:
-  ruler: cat_sunifred_i_de_barcelona_1
-848.1.1:
-  ruler: cat_guillem_i_de_barcelona_1
-850.1.1:
-  ruler: cat_aleran_i_de_barcelona_1
-852.1.1:
-  ruler: cat_odalric_i_de_barcelona_1
-858.1.1:
-  ruler: cat_humfrid_i_de_barcelona_1
-865.1.1:
-  ruler: cat_bernat_ii_de_barcelona_1
-867.1.1:
+  regnal_number: 1
+820:
+  ruler: cat_rampo_i_de_barcelona
+  regnal_number: 1
+826:
+  ruler: cat_bernat_i_de_barcelona
+  regnal_number: 1
+832:
+  ruler: cat_berengar_the_wise
+  regnal_number: 1
+836:
+  ruler: cat_bernat_i_de_barcelona
+  regnal_number: 1
+844:
+  ruler: cat_sunifred_i_de_barcelona
+  regnal_number: 1
+848:
+  ruler: cat_guillem_i_de_barcelona
+  regnal_number: 1
+850:
+  ruler: cat_aleran_i_de_barcelona
+  regnal_number: 1
+852:
+  ruler: cat_odalric_i_de_barcelona
+  regnal_number: 1
+858:
+  ruler: cat_humfrid_i_de_barcelona
+  regnal_number: 1
+865:
+  ruler: cat_bernat_ii_de_barcelona
+  regnal_number: 2
+867:
   religion: catholic
-878.1.1:
-  ruler: cat_wilfred_i_de_sunifred
-897.1.1:
-  ruler: cat_wilfred_ii_de_sunifred_1
-911.1.1:
-  ruler: cat_sunyer_i_de_sunifred_1
-947.1.1:
-  ruler: cat_borrell_ii_de_sunifred_1
-962.1.1:
-  government: iberian_monarchy
-992.1.1:
-  ruler: cat_ramon_borrell_i_de_sunifred_1
-1018.1.1:
-  ruler: cat_berenguer_ramon_i_de_sunifred_1
+878:
+  ruler: cat_guifre_i_barcelona
+  regnal_number: 1
+897.8.11:
+  ruler: cat_guifre_ii_borrell_barcelona
+  regnal_number: 2
+911.4.26:
+  ruler: cat_sunyer_barcelona
+  regnal_number: 1
+947:
+  ruler: cat_borrell_ii_barcelona
+  regnal_number: 2
+992.9.30:
+  ruler: cat_ramon_borrell_barcelona
+  regnal_number: 1
+1017.9.8:
+  ruler: cat_berenguer_ramon_i_barcelona
+  regnal_number: 1
 1035.5.26:
-  ruler: cat_ramon_berenguer_i_de_sunifred_1
-1076.1.1:
-  ruler: cat_ramon_berenguer_ii_de_sunifred_1
-1082.12.5:
-  ruler: cat_berenguer_ramon_ii_de_sunifred_1
-1097.1.1:
-  ruler: cat_ramon_berenguer_iii_de_sunifred_1
-1131.1.1:
-  ruler: cat_ramon_berenguer_iv_de_sunifred_1
+  ruler: cat_ramon_berenguer_i_barcelona
+  regnal_number: 1
+1076.5.26:
+  ruler: cat_ramon_berenguer_ii_barcelona
+  regnal_number: 2
+1082.12.6:
+  ruler: cat_berenguer_ramon_ii_barcelona
+  regnal_number: 2
+1097:
+  ruler: cat_ramon_berenguer_iii_barcelona
+  regnal_number: 3
+1131.7.19:
+  ruler: cat_ramon_berenguer_iv_barcelona
+  regnal_number: 4
+#1162.8.6 Merged with Aragon

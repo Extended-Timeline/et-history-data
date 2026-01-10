@@ -1,5 +1,5 @@
 #imported from EU4
-2.1.1:
+1:
   government: iberian_monarchy
   government_rank: rank_county
   color: rgb { 193  171  8 }
@@ -20,34 +20,63 @@
 1029:
   ruler: lon_fernando_i_jimena
 1065.12.24:
+  regnal_numbers: #Inherits regnal numbers from Leon
+    name_pelagius: 1
+    name_alphonse: 6
+    name_froila: 2
+    name_favila: 1
+    name_silo: 1
+    name_mauregatus: 1
+    name_aurelius: 1
+    name_bermund: 3
+    name_ramiro: 3
+    name_ordono: 1
+    name_sancho: 1
+    name_ferdinand: 1
   government_rank: rank_kingdom
   ruler: cas_sancho_ii_jimena
+  regnal_number: 2
 1072.10.7:
   ruler: lon_alfonso_vi_jimena
+  regnal_number: 6
 1109.6.29:
   ruler: lon_urraca_i_jimena
+  regnal_number: 1
 1126.3.8:
   ruler: cas_alfonso_vii_burgundy
+  regnal_number: 7
 1157.8.21:
+  regnal_numbers:
+    name_ferdinand: 2 #Fernando II of Leon is counted for rulers of Castile
   ruler: cas_sancho_iii_burgundy
+  regnal_number: 3
 1158.8.31:
   ruler: cas_alfonso_viii_burgundy
+  regnal_number: 8
+1188.1.22:
+  regnal_numbers:
+    name_alphonse: 9 #Alfonso IX of Leon is counted for rulers of Castile
 1214.10.5:
   regent: cas_berenguela_i_burgundy
   heir: cas_enrique_i_burgundy
 1217.6.6:
   ruler: cas_berenguela_i_burgundy
+  regnal_number: 1
 1217.8.31:
   ruler: cas_fernando_iii_burgundy
+  regnal_number: 3
 1252.5.30:
   ruler: cas_alfonso_x_burgundy
+  regnal_number: 10
 1284.4.4:
   ruler: cas_sancho_iv_burgundy
+  regnal_number: 4
 1295.4.25:
   regent: cas_maria_molina
   heir: cas_fernando_iv_burgundy
 1301.12.6:
   ruler: cas_fernando_iv_burgundy
+  regnal_number: 4
 1312.9.7:
   regent: cas_maria_molina
   heir: cas_alfonso_xi_burgundy
@@ -56,29 +85,35 @@
   heir: cas_alfonso_xi_burgundy
 1325.8:
   ruler: cas_alfonso_xi_burgundy
+  regnal_number: 11
 1350.3.26:
   ruler: cas_pedro_i_burgundy
+  regnal_number: 1
 1366.3.13:
   ruler: cas_enrique_ii_trastamara
+  regnal_number: 2
 1367.4.3:
   ruler: cas_pedro_i_burgundy
+  regnal_number: 1
 1369.3.23:
   ruler: cas_enrique_ii_trastamara
+  regnal_number: 2
 1379.5.29:
-  ruler: cas_juan_i_de_trastamara_1
+  ruler: cas_juan_i_de_trastamara
+  regnal_number: 1
 1390.10.9:
-  ruler: cas_enrique_iii_de_trastamara_1
+  ruler: cas_enrique_iii_de_trastamara
+  regnal_number: 3
 1418.6.2:
   ruler: cas_juan_ii_de_trastamara
+  regnal_number: 2
 1454.7.20:
   ruler: cas_enrique_iv_de_trastamara
+  regnal_number: 4
 1474.12.11:
   ruler: cas_isabel_i_de_trastamara
+  regnal_number: 1
   capital: valladolid
 1504.11.26:
   ruler: cas_juana_i_de_trastamara
-1504.12.1:
-  ruler: cas_felipe_i_von_habsburg
-1506.9.25:
-  ruler: cas_fernando_v_de_trastamara
-  capital: toledo
+  regnal_number: 1

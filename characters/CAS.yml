@@ -107,7 +107,7 @@ cas_urraca_gomez:
 cas_garcia_sanchez_beni_mamaduna:
   1012:
     birth: burgos #unknown
-    first_name: garcia_sanchez
+    first_name: name_garcia
     dynasty: beni_mamaduna_dynasty
     father: cas_sancho_garcia_beni_mamaduna
     mother: cas_urraca_gomez
@@ -177,11 +177,16 @@ cas_berengaria_of_barcelona:
   1116:
     birth: barcelona
     first_name: name_berengaria
+    dynasty: barcelona_dynasty
+    female: yes
+    father: cat_ramon_berenguer_iii_barcelona
+    mother: pro_douce_i_de_gevaudan
     religion: catholic
     culture: catalan
-    tag: LON
+    tag: CAT
   1128.11.10:
     spouse: cas_alfonso_vii_burgundy
+    tag: CAS
   1149.1.15:
     death: yes
 cas_sancho_iii_burgundy:
@@ -207,7 +212,10 @@ cas_blanca_of_navarre:
   1135:
     birth: toledo #unknown
     first_name: name_blanche
+    dynasty: jimena_dynasty
     female: yes
+    father: nav_garcia_iv_jimena
+    mother: nav_margaret_of_laigle
     religion: catholic
     culture: basque
     tag: NAV
@@ -228,19 +236,6 @@ cas_constance_of_castile:
     culture: castilian
     tag: LON
   1160.10.4:
-    death: yes
-cas_sancha_of_castile:
-  1139:
-    birth: toledo #unknown
-    first_name: name_sancha
-    dynasty: burgundy_castile_dynasty
-    female: yes
-    father: cas_alfonso_vii_burgundy
-    mother: cas_berengaria_of_barcelona
-    religion: catholic
-    culture: castilian
-    tag: LON
-  1177.8.5:
     death: yes
 cas_richeza_of_poland:
   1140:
@@ -266,19 +261,6 @@ cas_ferdinand_of_castile:
     culture: castilian
     tag: LON
   1157:
-    death: yes
-cas_sancha_of_castile_of_aragon:
-  1154.9.21:
-    birth: toledo #unknown
-    first_name: name_sancha
-    dynasty: burgundy_castile_dynasty
-    female: yes
-    father: cas_alfonso_vii_burgundy
-    mother: cas_richeza_of_poland
-    religion: catholic
-    culture: castilian
-    tag: LON
-  1208.11.9:
     death: yes
 cas_alfonso_viii_burgundy:
   1155.11.11:
@@ -421,19 +403,6 @@ cas_mafalda_of_portugal:
     spouse: cas_enrique_i_burgundy
     tag: CAS
   1256.5.1:
-    death: yes
-cas_eleanor_alfonsez_burgundy:
-  1200:
-    birth: cuenca #unknown
-    first_name: name_eleanor
-    dynasty: burgundy_castile_dynasty
-    female: yes
-    father: cas_alfonso_viii_burgundy
-    mother: cas_eleanor_of_england
-    religion: catholic
-    culture: castilian
-    tag: CAS
-  1244:
     death: yes
 cas_constance_alfonsez_burgundy:
   1202:
@@ -648,6 +617,22 @@ aum_ferdinand_ii_ponthieu:
     tag: AUM
     culture: norman
   1264:
+    death: yes
+cas_constance_of_aragon_of_villena:
+  1239:
+    birth: barcelona #unknown
+    first_name: name_constance
+    dynasty: barcelona_dynasty
+    female: yes
+    father: ara_jacme_i_arago
+    mother: ara_jolan_arpad
+    religion: catholic
+    culture: catalan
+    tag: ARA
+  1260:
+    spouse: cas_manuel_fernandez_burgundy
+    tag: CAS
+  1269:
     death: yes
 cas_beatrice_of_savoy:
   1250:
@@ -1026,11 +1011,32 @@ por_beatriz_portugal:
       silver_tongue: yes
   1359.10.25:
     death: yes
+cas_maria_of_aragon_of_cameros:
+  1299:
+    birth: barcelona #unknown
+    first_name: name_mary
+    dynasty: barcelona_dynasty
+    female: yes
+    father: ara_jaume_ii_arago
+    mother: ara_blanche_anjou
+    religion: catholic
+    culture: catalan
+    tag: ARA
+  1315:
+    spouse: cas_pedro_of_cameros
+    tag: CAS
+  1322:
+    estate: clergy_estate
+  1347:
+    death: yes
 cas_constance_of_aragon:
   1300.4.4:
     birth: valencia
     first_name: name_constance
+    dynasty: barcelona_dynasty
     female: yes
+    father: ara_jaume_ii_arago
+    mother: ara_blanche_anjou
     religion: catholic
     culture: aragonese
     tag: ARA
@@ -1039,19 +1045,6 @@ cas_constance_of_aragon:
     tag: CAS
     estate: nobles_estate
   1327.10.19:
-    death: yes
-ara_leonor_burgundy:
-  1307:
-    birth: valladolid #Castile
-    first_name: name_eleanor
-    dynasty: burgundy_castile_dynasty
-    female: yes
-    father: cas_fernando_iv_burgundy
-    mother: cas_constance_portugal
-    religion: catholic
-    culture: castilian
-    tag: CAS
-  1359:
     death: yes
 cas_leonor_guzman:
   1310:
@@ -1321,9 +1314,12 @@ cas_eleanor_of_aragon:
   1358.2.20:
     birth: burgos #TODO: Santa Maria del Puig
     first_name: name_eleanor
+    dynasty: barcelona_dynasty
     female: yes
+    father: ara_peter_iv_arago
+    mother: sic_eleonora_sicily
     religion: catholic
-    culture: aragonese
+    culture: catalan
     tag: ARA
   1375.6.18:
     spouse: cas_juan_i_de_trastamara
@@ -1356,19 +1352,6 @@ cas_alfonso_burgundy:
     culture: castilian
     tag: CAS
   1362.10.19:
-    death: yes
-cas_eleanor_de_trastamara:
-  1363:
-    birth: toledo #unknown
-    first_name: name_eleanor
-    dynasty: trastamara_dynasty
-    female: yes
-    father: cas_enrique_ii_trastamara
-    mother: cas_juana_manuel_burgundy
-    religion: catholic
-    culture: castilian
-    tag: CAS
-  1416.3.5:
     death: yes
 cas_beatriz_of_portugal:
   1373.2.7:
@@ -1415,19 +1398,6 @@ cas_enrique_iii_de_trastamara:
     tag: CAS
   1406.12.25:
     death: yes
-cas_maria_de_trastamara:
-  1401.9.14:
-    birth: segovia
-    first_name: name_mary
-    dynasty: trastamara_dynasty
-    female: yes
-    father: cas_enrique_iii_de_trastamara
-    mother: cas_catherine_of_lancaster
-    religion: catholic
-    culture: castilian
-    tag: CAS
-  1458.9.4:
-    death: yes
 cas_catherine_of_villena:
   1403:
     birth: burgos #unknown
@@ -1443,15 +1413,19 @@ cas_catherine_of_villena:
     death: yes
 cas_maria_of_aragon:
   1403.2.24:
-    birth: toledo #unknown
+    birth: valladolid #unknown #TODO: Medina del Campo
     first_name: name_mary
     dynasty: trastamara_dynasty
     female: yes
+    father: ara_ferran_i_de_trastamara
+    mother: ara_eleanor_of_albuquerque
     adm: 30
     dip: 30
     mil: 30
     religion: catholic
-    culture: aragonese
+    culture: castilian
+    tag: CAS
+  1412.6.24:
     tag: ARA
   1420.8.4:
     spouse: cas_juan_ii_de_trastamara
@@ -1560,6 +1534,8 @@ cas_isabel_i_de_trastamara:
     religion: catholic
     culture: castilian
     tag: CAS
+  1469.10.19:
+    spouse: ara_ferran_ii_de_trastamara
   1504.11.26:
     death: yes
 cas_alfonso_de_trastamara:
@@ -1585,94 +1561,67 @@ cas_joanna_la_beltraneja:
     religion: catholic
     culture: castilian
     tag: CAS
+  1516.3.14:
+    tag: SPA
   1530.4.12:
     death: yes
-cas_ferran_de_trastamara:
-  1439.3.20:
-    birth: valladolid #TODO: Location guessed, check if better data is available
-    first_name: ferran
+cas_isabella_de_trastamara:
+  1470.10.2:
+    birth: palencia #TODO: Dueñas
+    first_name: name_elizabeth
     dynasty: trastamara_dynasty
-    female: no
-    adm: 60
-    dip: 90
-    mil: 75
+    female: yes
+    father: ara_ferran_ii_de_trastamara
+    mother: cas_isabel_i_de_trastamara
     religion: catholic
     culture: castilian
     tag: CAS
-  1516.1.23:
+  1498.8.23:
     death: yes
-  1474.12.11:
-    spouse: cas_isabel_i_de_trastamara #TODO: date guessed, see if better data is available
+cas_juan_de_trastamara:
+  1478.6.30:
+    birth: sevilla
+    first_name: name_john
+    dynasty: trastamara_dynasty
+    father: ara_ferran_ii_de_trastamara
+    mother: cas_isabel_i_de_trastamara
+    religion: catholic
+    culture: castilian
+    tag: CAS
+  1497.10.4:
+    death: yes
 cas_juana_i_de_trastamara:
   1479.11.6:
-    birth: valladolid #TODO: Location guessed, check if better data is available
-    first_name: juana
+    birth: toledo
+    first_name: name_joanna
     dynasty: trastamara_dynasty
     female: yes
+    father: ara_ferran_ii_de_trastamara
+    mother: cas_isabel_i_de_trastamara
     adm: 0
     dip: 0
     mil: 0
     religion: catholic
     culture: castilian
     tag: CAS
-  1504.12.1:
-    death: yes
-    spouse: cas_felipe_i_von_habsburg #TODO: date guessed, see if better data is available
-cas_felipe_i_de_trastamara:
-  1478.7.22:
-    birth: valladolid #TODO: Location guessed, check if better data is available
-    first_name: felipe
-    dynasty: trastamara_dynasty
-    female: no
-    adm: 0
-    dip: 0
-    mil: 0
-    religion: catholic
-    culture: castilian
-    tag: CAS
-  1506.9.25:
-    death: yes
-  1504.11.26:
-    spouse: cas_juana_i_de_trastamara #TODO: date guessed, see if better data is available
-cas_felipe_i_von_habsburg:
-  1478.7.22:
-    birth: toledo #TODO: Location guessed, check if better data is available
-    first_name: felipe
-    dynasty: von_habsburg_dynasty
-    adm: 0
-    dip: 0
-    mil: 0
-    religion: catholic
-    culture: castilian
-    tag: CAS
-  1506.9.25:
-    death: yes
-cas_juana_i_de_trastamara_1:
-  1479.11.6:
-    birth: valladolid #TODO: Location guessed, check if better data is available
-    first_name: juana
-    dynasty: trastamara_dynasty
-    female: yes
-    adm: 0
-    dip: 0
-    mil: 0
-    religion: catholic
-    culture: castilian
-    tag: CAS
+  1496.10.20:
+    spouse: hab_philip_i_von_habsburg
+  1516.3.14:
+    tag: SPA
   1555.4.12:
     death: yes
-  1504.12.1:
-    spouse: cas_felipe_i_von_habsburg #TODO: date guessed, see if better data is available
-cas_fernando_v_de_trastamara:
-  1452.3.10:
-    birth: toledo #TODO: Location guessed, check if better data is available
-    first_name: fernando
+cas_maria_de_trastamara:
+  1482.6.29:
+    birth: cordoba
+    first_name: name_mary
     dynasty: trastamara_dynasty
-    adm: 60
-    dip: 90
-    mil: 75
+    female: yes
+    father: ara_ferran_ii_de_trastamara
+    mother: cas_isabel_i_de_trastamara
     religion: catholic
     culture: castilian
     tag: CAS
-  3000.1.1:
+  1516.3.14:
+    tag: SPA
+  1517.3.7:
     death: yes

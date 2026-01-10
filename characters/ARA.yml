@@ -1,570 +1,1657 @@
 ara_oriol_de_aragon:
-  765.1.1:
-    birth: huesca #TODO: Date and location guessed, check if better data is available
+  770: #unknown
+    birth: jaca #unknown
     first_name: oriol
     dynasty: de_aragon_dynasty
-    adm: 0
-    dip: 60
-    mil: 75
     religion: chalcedonism
     culture: aragonese
     tag: ARA
-  809.1.1:
+  809:
     death: yes
 ara_aznar_galindez_i_de_aragon:
-  780.1.1:
-    birth: huesca #TODO: Date and location guessed, check if better data is available
-    first_name: aznar_galindez
-    dynasty: de_aragon_dynasty
-    adm: 60
-    dip: 45
-    mil: 60
+  780: #unknown
+    birth: jaca #unknown
+    first_name: name_aznar
+    dynasty: aznar_dynasty
     religion: chalcedonism
     culture: aragonese
     tag: ARA
-  839.1.1:
+  839:
     death: yes
-ara_galindo_aznarez_i_de_aragon:
-  814.1.1:
-    birth: huesca #TODO: Date and location guessed, check if better data is available
-    first_name: galindo_aznarez
-    dynasty: de_aragon_dynasty
-    adm: 75
-    dip: 30
-    mil: 60
-    religion: catholic
+ara_matrona_aznarez:
+  795: #unknown
+    birth: jaca #unknown
+    first_name: matrona
+    dynasty: aznar_dynasty
+    female: yes
+    father: ara_aznar_galindez_i_de_aragon
+    religion: chalcedonism
     culture: aragonese
     tag: ARA
-  867.1.1:
+  810: #unknown
+    spouse: ara_garcia_galindez_i_de_aragon
+    estate: nobles_estate
+  820:
+    spouse: ---
+  850: #unknown
     death: yes
 ara_garcia_galindez_i_de_aragon:
-  790.1.1:
-    birth: huesca #TODO: Date and location guessed, check if better data is available
+  790: #unknown
+    birth: jaca #unknown
     first_name: garcia_galindez
-    dynasty: de_aragon_dynasty
-    adm: 15
-    dip: 75
-    mil: 60
+    dynasty: garcia_dynasty
     religion: chalcedonism
     culture: aragonese
     tag: ARA
-  833.1.1:
+    estate: nobles_estate
+  820:
+    nickname: Bad
+    estate: ---
+  833:
+    death: yes
+ara_nunilona_of_pamplona:
+  800: #unknown
+    birth: pamplona
+    first_name: nunilona
+    dynasty: iniga_dynasty
+    female: yes
+    father: nav_inigo_arista
+    religion: chalcedonism
+    culture: basque
+    tag: NAV
+  820:
+    spouse: ara_garcia_galindez_i_de_aragon
+  850: #unknown
+    death: yes
+ara_galindo_aznarez_i_de_aragon:
+  810: #unknown
+    birth: jaca #unknown
+    first_name: galindo
+    dynasty: aznar_dynasty
+    father: ara_aznar_galindez_i_de_aragon
+    religion: chalcedonism
+    culture: aragonese
+    tag: ARA
+  867:
     death: yes
 ara_galindo_garces_i_de_aragon:
-  803.1.1:
-    birth: huesca #TODO: Date and location guessed, check if better data is available
-    first_name: galindo_garces
-    dynasty: de_aragon_dynasty
-    adm: 0
-    dip: 0
-    mil: 15
+  817:
+    birth: jaca #unknown
+    first_name: galindo
+    dynasty: garcia_dynasty
+    father: ara_garcia_galindez_i_de_aragon
+    mother: ara_matrona_aznarez
     religion: chalcedonism
     culture: aragonese
     tag: ARA
-  844.1.1:
+  844:
     death: yes
 ara_aznar_galindez_ii_de_aragon:
-  837.1.1:
-    birth: huesca #TODO: Date and location guessed, check if better data is available
-    first_name: aznar_galindez
-    dynasty: de_aragon_dynasty
-    adm: 45
-    dip: 60
-    mil: 0
-    religion: catholic
+  840: #unknown
+    birth: jaca #unknown
+    first_name: name_aznar
+    dynasty: aznar_dynasty
+    religion: chalcedonism
     culture: aragonese
     tag: ARA
-  893.1.1:
+  867:
+    religion: catholic
+  893:
+    death: yes
+ara_oneca_of_pamplona:
+  840: #unknown
+    birth: pamplona
+    first_name: name_oneca
+    dynasty: iniga_dynasty
+    female: yes
+    father: nav_garcia_iniguez
+    religion: chalcedonism
+    culture: basque
+    tag: NAV
+  855:
+    spouse: ara_aznar_galindez_ii_de_aragon
+    tag: ARA
+  867:
+    religion: catholic
+  900:
     death: yes
 ara_galindo_aznarez_ii_de_aragon:
-  870.1.1:
-    birth: huesca #TODO: Date and location guessed, check if better data is available
-    first_name: galindo_aznarez
-    dynasty: de_aragon_dynasty
-    adm: 30
-    dip: 30
-    mil: 30
+  860:
+    birth: jaca #unknown
+    first_name: galindo
+    dynasty: aznar_dynasty
+    father: ara_aznar_galindez_ii_de_aragon
+    mother: ara_oneca_of_pamplona
     religion: catholic
     culture: aragonese
     tag: ARA
-  1035.10.18:
+  922:
     death: yes
-ara_ramir_i_jimenez:
-  1005.1.1:
-    birth: huesca #TODO: Date and location guessed, check if better data is available
-    first_name: ramir
-    dynasty: jimenez_dynasty
-    adm: 45
-    dip: 60
-    mil: 60
+ara_sancha_garces_jimena:
+  860: #unknown
+    birth: sanguesa #unknown
+    first_name: name_sancha
+    dynasty: jimena_dynasty
+    female: yes
+    father: nav_garcia_jimenez_jimena
+    religion: chalcedonism
+    culture: basque
+    tag: NAV
+  867:
+    religion: catholic
+  890:
+    spouse: ara_galindo_aznarez_ii_de_aragon
+    tag: ARA
+  930: #unknown
+    death: yes
+ara_ramiro_i_aragon:
+  1006: #before 1007
+    birth: sanguesa #unknown
+    first_name: name_ramiro
+    dynasty: jimena_dynasty
+    father: nav_sancho_iii_jimena
+    adm: 48
+    dip: 73
+    mil: 35
     religion: catholic
     culture: aragonese
     tag: ARA
+    traits:
+      expansionist: yes
+      architectural_visionary: yes
+      careful: yes
+      bastard: yes
   1063.5.8:
     death: yes
-ara_sancho_v_jimenez:
-  1042.1.1:
-    birth: huesca #TODO: Date and location guessed, check if better data is available
-    first_name: sancho
-    dynasty: jimenez_dynasty
-    father: ara_ramir_i_jimenez #TODO: check if this makes sense
-    adm: 30
-    dip: 75
-    mil: 45
-    religion: catholic
-    culture: aragonese
-    tag: ARA
-  1094.6.4:
-    death: yes
-ara_sancho_v_jimenez_1:
-  1033.1.1:
-    birth: huesca #TODO: Date and location guessed, check if better data is available
-    first_name: sancho
-    dynasty: jimenez_dynasty
-    adm: 30
-    dip: 75
-    mil: 45
-    religion: catholic
-    culture: aragonese
-    tag: ARA
-  1094.6.4:
-    death: yes
-ara_pere_i_jimenez:
-  1069.1.1:
-    birth: huesca #TODO: Date and location guessed, check if better data is available
-    first_name: pere
-    dynasty: jimenez_dynasty
-    father: ara_sancho_v_jimenez_1 #TODO: check if this makes sense
-    adm: 45
-    dip: 60
-    mil: 45
-    religion: catholic
-    culture: aragonese
-    tag: ARA
-  1104.9.29:
-    death: yes
-ara_pere_i_jimenez_1:
-  1064.1.1:
-    birth: huesca #TODO: Date and location guessed, check if better data is available
-    first_name: pere
-    dynasty: jimenez_dynasty
-    adm: 45
-    dip: 60
-    mil: 45
-    religion: catholic
-    culture: aragonese
-    tag: ARA
-  1104.9.29:
-    death: yes
-ara_alfons_i_jimenez:
-  1074.1.1:
-    birth: zaragoza #TODO: Date and location guessed, check if better data is available
-    first_name: alfons
-    dynasty: jimenez_dynasty
-    adm: 45
-    dip: 30
-    mil: 90
-    religion: catholic
-    culture: aragonese
-    tag: ARA
-  1134.9.8:
-    death: yes
-ara_ramir_ii_jimenez:
-  1075.1.1:
-    birth: huesca #TODO: Date and location guessed, check if better data is available
-    first_name: ramir
-    dynasty: jimenez_dynasty
-    father: ara_alfons_i_jimenez #TODO: check if this makes sense
-    adm: 45
-    dip: 45
-    mil: 60
-    religion: catholic
-    culture: aragonese
-    tag: ARA
-  1157.8.16:
-    death: yes
-ara_ramir_ii_jimenez_1:
-  1104.1.1:
-    birth: zaragoza #TODO: Date and location guessed, check if better data is available
-    first_name: ramir
-    dynasty: jimenez_dynasty
-    adm: 45
-    dip: 45
-    mil: 60
-    religion: catholic
-    culture: aragonese
-    tag: ARA
-  1157.8.16:
-    death: yes
-ara_petronilla_i_jimenez:
-  1136.6.29:
-    birth: zaragoza #TODO: Location guessed, check if better data is available
-    first_name: petronilla
-    dynasty: jimenez_dynasty
+ara_ermesinda_of_bigorre:
+  1015:
+    birth: tarbes #Bigorre
+    first_name: gerberga
     female: yes
-    father: ara_ramir_ii_jimenez_1 #TODO: check if this makes sense
-    adm: 60
-    dip: 60
-    mil: 45
+    religion: chalcedonism
+    culture: gascon
+    tag: FRA
+  1036.8.22:
+    first_name: name_ermesinde
+    spouse: ara_ramiro_i_aragon
+    tag: ARA
+  1049.12.1:
+    death: yes
+ara_sancho_i_aragon:
+  1042:
+    birth: jaca #unknown
+    first_name: name_sancho
+    dynasty: jimena_dynasty
+    father: ara_ramiro_i_aragon
+    mother: ara_ermesinda_of_bigorre
+    adm: 72
+    dip: 74
+    mil: 52
     religion: catholic
     culture: aragonese
     tag: ARA
+    traits:
+      expansionist: yes
+      architectural_visionary: yes
+      careful: yes
+  1094.6.4:
+    death: yes
+ara_garcia_ramirez_jimena:
+  1044: #unknown
+    birth: jaca #unknown
+    first_name: name_garcia
+    dynasty: jimena_dynasty
+    father: ara_ramiro_i_aragon
+    mother: ara_ermesinda_of_bigorre
+    religion: catholic
+    culture: aragonese
+    tag: ARA
+  1076:
+    estate: clergy_estate
+  1086.7.17:
+    death: yes
+ara_sancha_ramirez_jimena:
+  1045:
+    birth: jaca #unknown
+    first_name: name_sancha
+    dynasty: jimena_dynasty
+    female: yes
+    father: ara_ramiro_i_aragon
+    mother: ara_ermesinda_of_bigorre
+    religion: catholic
+    culture: aragonese
+    tag: ARA
+  1097.6: #After 1097.4.5
+    death: yes
+ara_isabella_of_urgell:
+  1050: #unknown
+    birth: seu_durgell
+    first_name: name_elizabeth
+    female: yes
+    religion: catholic
+    culture: catalan
+    tag: ARA
+  1065:
+    spouse: ara_sancho_i_aragon
+  1071:
+    death: yes
+ara_felicia_of_roucy:
+  1060:
+    birth: barbastro
+    first_name: name_felicia
+    female: yes
+    religion: catholic
+    culture: aragonese
+    tag: ARA
+  1076:
+    spouse: ara_sancho_i_aragon
+  1123.5.3:
+    death: yes
+ara_pedro_i_aragon:
+  1068:
+    birth: benabarre #unknown
+    first_name: name_peter
+    dynasty: jimena_dynasty
+    father: ara_sancho_i_aragon
+    mother: ara_isabella_of_urgell
+    adm: 60
+    dip: 28
+    mil: 78
+    religion: catholic
+    culture: aragonese
+    tag: ARA
+    traits:
+      conqueror: yes
+  1104.9.28:
+    death: yes
+ara_agnes_of_aquitaine:
+  1072.12: #End of 1072
+    birth: bordeaux #Aquitaine
+    first_name: name_agnes
+    female: yes
+    religion: catholic
+    culture: gascon
+    tag: AQN
+  1086:
+    spouse: ara_pedro_i_aragon
+    tag: ARA
+  1097.6.6:
+    death: yes
+ara_alfonso_i_aragon:
+  1073:
+    birth: jaca
+    first_name: name_alphonse
+    dynasty: jimena_dynasty
+    father: ara_sancho_i_aragon
+    mother: ara_felicia_of_roucy
+    adm: 66
+    dip: 30
+    mil: 99
+    religion: catholic
+    culture: aragonese
+    tag: ARA
+    traits:
+      conqueror: yes
+      inspiring_leader: yes
+      cruel: yes
+  1104.9.28:
+    nickname: nick_the_battler
+  1134.9.7:
+    death: yes
+ara_bertha_of_aragon:
+  1075:
+    birth: jaca #unknown
+    first_name: name_bertha
+    female: yes
+    religion: catholic
+    culture: aragonese
+    tag: ARA
+  1097.10:
+    spouse: ara_pedro_i_aragon
+  1110:
+    death: yes
+ara_ramiro_ii_aragon:
+  1086.4.24:
+    birth: jaca
+    first_name: name_ramiro
+    nickname: nick_the_monk
+    dynasty: jimena_dynasty
+    father: ara_sancho_i_aragon
+    mother: ara_felicia_of_roucy
+    adm: 52
+    dip: 59
+    mil: 43
+    religion: catholic
+    culture: aragonese
+    tag: ARA
+    estate: clergy_estate
+    traits:
+      cruel: yes
+  1134.9.29:
+    estate: ---
+  1157.8.16:
+    death: yes
+ara_peter_jimena:
+  1090: #unknown
+    birth: jaca #unknown
+    first_name: name_peter
+    dynasty: jimena_dynasty
+    father: ara_pedro_i_aragon
+    mother: ara_agnes_of_aquitaine
+    religion: catholic
+    culture: aragonese
+    tag: ARA
+  1103:
+    death: yes
+ara_isabella_jimena:
+  1092: #unknown
+    birth: jaca #unknown
+    first_name: name_elizabeth
+    dynasty: jimena_dynasty
+    female: yes
+    father: ara_pedro_i_aragon
+    mother: ara_agnes_of_aquitaine
+    religion: catholic
+    culture: aragonese
+    tag: ARA
+  1104:
+    death: yes
+ara_agnes_of_aquitaine_ram2:
+  1105: #unknown
+    birth: bordeaux #Aquitaine
+    first_name: name_agnes
+    female: yes
+    religion: catholic
+    culture: gascon
+    tag: AQN
+  1135.11.13:
+    spouse: ara_ramiro_ii_aragon
+    tag: ARA
+  1159:
+    death: yes
+ara_petronila_i_aragon:
+  1136.6.29:
+    birth: huesca
+    first_name: name_petronilla
+    dynasty: jimena_dynasty # Should be dynasty
+    female: yes
+    father: ara_ramiro_ii_aragon
+    mother: ara_agnes_of_aquitaine_ram2
+    adm: 27
+    dip: 51
+    mil: 20
+    religion: catholic
+    culture: aragonese
+    tag: ARA
+  1150.8:
+    spouse: cat_ramon_berenguer_iv_barcelona
   1173.10.15:
     death: yes
-ara_petronilla_i_jimenez_1:
-  1127.1.1:
-    birth: barcelona #TODO: Date and location guessed, check if better data is available
-    first_name: petronilla
-    dynasty: jimenez_dynasty
+ara_sancha_of_castile:
+  1154.9.21:
+    birth: toledo #unknown
+    first_name: name_sancha
+    dynasty: burgundy_castile_dynasty
     female: yes
-    adm: 60
-    dip: 60
-    mil: 45
+    father: cas_alfonso_vii_burgundy
+    mother: cas_richeza_of_poland
     religion: catholic
-    culture: aragonese
+    culture: castilian
+    tag: LON
+  1174.1.18:
+    spouse: ara_alfons_ii_arago
     tag: ARA
-  1164.7.18:
+  1208.11.9:
     death: yes
-ara_alfons_ii_darago:
+ara_alfons_ii_arago:
   1157.3.25:
-    birth: zaragoza #TODO: Location guessed, check if better data is available
-    first_name: alfons
-    dynasty: darago_dynasty
-    father: ara_petronilla_i_jimenez_1 #TODO: check if this makes sense
-    adm: 45
-    dip: 45
-    mil: 60
+    birth: huesca
+    first_name: name_alphonse
+    dynasty: barcelona_dynasty
+    father: cat_ramon_berenguer_iv_barcelona
+    mother: ara_petronila_i_aragon
+    adm: 38
+    dip: 66
+    mil: 43
     religion: catholic
-    culture: aragonese
+    culture: catalan
     tag: ARA
+    traits:
+      expansionist: yes
+      charismatic_negotiator: yes
+  1164.7.18:
+    nickname: nick_the_chaste
   1196.4.25:
     death: yes
-ara_alfons_ii_darago_1:
-  1134.1.1:
-    birth: barcelona #TODO: Date and location guessed, check if better data is available
-    first_name: alfons
-    dynasty: darago_dynasty
-    adm: 45
-    dip: 45
-    mil: 60
+ara_dulce_arago:
+  1160:
+    birth: barcelona
+    first_name: name_douce
+    dynasty: barcelona_dynasty
+    female: yes
+    father: cat_ramon_berenguer_iv_barcelona
+    mother: ara_petronila_i_aragon
     religion: catholic
-    culture: aragonese
+    culture: catalan
     tag: ARA
-  1196.4.25:
+  1198:
     death: yes
-ara_pere_ii_darago:
-  1178.1.1:
-    birth: barcelona #TODO: Date and location guessed, check if better data is available
-    first_name: pere
-    dynasty: darago_dynasty
-    father: ara_alfons_ii_darago_1 #TODO: check if this makes sense
-    adm: 45
-    dip: 30
-    mil: 75
+ara_pere_ii_arago:
+  1178.7:
+    birth: huesca
+    first_name: name_peter
+    nickname: nick_the_catholic
+    dynasty: barcelona_dynasty
+    father: ara_alfons_ii_arago
+    mother: ara_sancha_of_castile
+    adm: 37
+    dip: 37
+    mil: 42
     religion: catholic
-    culture: aragonese
+    culture: catalan
     tag: ARA
+    traits:
+      benevolent: yes
   1213.9.12:
     death: yes
-ara_pere_ii_darago_1:
-  1166.1.1:
-    birth: barcelona #TODO: Date and location guessed, check if better data is available
-    first_name: pere
-    dynasty: darago_dynasty
-    adm: 45
-    dip: 30
-    mil: 75
+ara_constance_arago:
+  1179:
+    birth: lisbon
+    first_name: name_constance
+    dynasty: barcelona_dynasty
+    female: yes
+    father: ara_alfons_ii_arago
+    mother: ara_sancha_of_castile
     religion: catholic
-    culture: aragonese
+    culture: catalan
     tag: ARA
-  1213.9.12:
+  1222.6.23:
     death: yes
-ara_jaume_i_darago:
+ara_eleanor_arago:
+  1182:
+    birth: barcelona
+    first_name: name_eleanor
+    dynasty: barcelona_dynasty
+    female: yes
+    father: ara_alfons_ii_arago
+    mother: ara_sancha_of_castile
+    religion: catholic
+    culture: catalan
+    tag: ARA
+  1226:
+    death: yes
+ara_maria_of_montpellier:
+  1182:
+    birth: montpellier
+    first_name: name_mary
+    female: yes
+    religion: catholic
+    culture: languedocien
+    tag: FRA
+  1204.6.15:
+    spouse: ara_pere_ii_arago
+    tag: ARA
+  1213.4.21:
+    death: yes
+ara_sancha_arago:
+  1186:
+    birth: barcelona
+    first_name: name_sancha
+    dynasty: barcelona_dynasty
+    female: yes
+    father: ara_alfons_ii_arago
+    mother: ara_sancha_of_castile
+    religion: catholic
+    culture: catalan
+    tag: ARA
+  1241:
+    death: yes
+ara_ferdinand_arago:
+  1190:
+    birth: barcelona
+    first_name: name_ferdinand
+    dynasty: barcelona_dynasty
+    female: yes
+    father: ara_alfons_ii_arago
+    mother: ara_sancha_of_castile
+    religion: catholic
+    culture: catalan
+    tag: ARA
+  1205:
+    estate: clergy_estate
+  1249:
+    death: yes
+ara_eleanor_of_castile:
+  1200:
+    birth: cuenca #unknown
+    first_name: name_eleanor
+    dynasty: burgundy_castile_dynasty
+    female: yes
+    father: cas_alfonso_viii_burgundy
+    mother: cas_eleanor_of_england
+    religion: catholic
+    culture: castilian
+    tag: CAS
+  1221:
+    spouse: ara_jacme_i_arago
+    tag: ARA
+  1230:
+    spouse: ---
+    tag: CAS
+    estate: clergy_estate
+  1244:
+    death: yes
+ara_jacme_i_arago:
   1208.2.2:
-    birth: barcelona #TODO: Location guessed, check if better data is available
-    first_name: jaume
-    dynasty: darago_dynasty
-    father: ara_pere_ii_darago_1 #TODO: check if this makes sense
-    adm: 45
-    dip: 60
-    mil: 60
+    birth: montpellier
+    first_name: name_james
+    dynasty: barcelona_dynasty
+    father: ara_pere_ii_arago
+    mother: ara_maria_of_montpellier
+    adm: 77
+    dip: 58
+    mil: 92
     religion: catholic
-    culture: aragonese
+    culture: catalan
     tag: ARA
+    traits:
+      conqueror: yes
+      lawgiver: yes
+      entrepreneur: yes
+      expansionist: yes
+  1238.9.28:
+    nickname: Conqueror
   1276.7.27:
     death: yes
-ara_jaume_i_darago_1:
-  1183.1.1:
-    birth: barcelona #TODO: Date and location guessed, check if better data is available
-    first_name: jaume
-    dynasty: darago_dynasty
-    adm: 45
-    dip: 60
-    mil: 60
+ara_jolan_arpad:
+  1215:
+    birth: esztergom
+    first_name: name_yolande
+    dynasty: arpad_dynasty
+    female: yes
+    father: hun_andrew_ii_arpad
+    mother: hun_yolande_courtenay
+    adm: 40
+    dip: 71
+    mil: 31
     religion: catholic
-    culture: aragonese
+    culture: hungarian
+    tag: HUN
+  1235:
+    spouse: ara_jacme_i_arago
     tag: ARA
+  1251.10.12:
+    death: yes
+ara_alfonso_arago:
+  1229:
+    birth: barcelona #unknown
+    first_name: name_alphonse
+    dynasty: barcelona_dynasty
+    female: yes
+    father: ara_jacme_i_arago
+    mother: ara_eleanor_of_castile
+    religion: catholic
+    culture: catalan
+    tag: ARA
+  1260:
+    death: yes
+ara_pere_iii_arago:
+  1240:
+    birth: valencia
+    first_name: name_peter
+    dynasty: barcelona_dynasty
+    father: ara_jacme_i_arago
+    mother: ara_jolan_arpad
+    adm: 63
+    dip: 34
+    mil: 89
+    religion: catholic
+    culture: catalan
+    tag: ARA
+    traits:
+      conqueror: yes
   1276.7.27:
+    nickname: nick_the_great
+  1285.11.11:
     death: yes
-ara_pere_iii_darago:
-  1239.1.1:
-    birth: barcelona #TODO: Date and location guessed, check if better data is available
-    first_name: pere
-    dynasty: darago_dynasty
-    father: ara_jaume_i_darago_1 #TODO: check if this makes sense
-    adm: 75
-    dip: 30
-    mil: 75
+ara_fernan_sanchez:
+  1241:
+    birth: barcelona #unknown
+    first_name: name_ferdinand
+    dynasty: barcelona_dynasty
+    father: ara_jacme_i_arago
     religion: catholic
-    culture: aragonese
+    culture: catalan
     tag: ARA
-  1285.11.2:
+    estate: nobles_estate
+    traits:
+      bastard: yes
+  1275:
     death: yes
-ara_pere_iii_darago_1:
-  1246.1.1:
-    birth: barcelona #TODO: Date and location guessed, check if better data is available
-    first_name: pere
-    dynasty: darago_dynasty
-    adm: 75
-    dip: 30
-    mil: 75
+ara_pedro_fernandez:
+  1245:
+    birth: barcelona #unknown
+    first_name: name_peter
+    dynasty: barcelona_dynasty
+    father: ara_jacme_i_arago
     religion: catholic
-    culture: aragonese
+    culture: catalan
     tag: ARA
-  1285.11.2:
+    estate: nobles_estate
+    traits:
+      bastard: yes
+  1299:
     death: yes
-ara_jaume_ii_darago:
+ara_jaume_sarroca:
+  1245:
+    birth: barcelona #unknown
+    first_name: name_james
+    dynasty: barcelona_dynasty
+    father: ara_jacme_i_arago
+    religion: catholic
+    culture: catalan
+    tag: ARA
+    estate: clergy_estate
+    traits:
+      bastard: yes
+  1290:
+    death: yes
+fra_elisabet_arago:
+  1248:
+    birth: barcelona
+    first_name: name_elizabeth
+    dynasty: barcelona_dynasty
+    female: yes
+    father: ara_jacme_i_arago
+    mother: ara_jolan_arpad
+    religion: catholic
+    culture: catalan
+    tag: FRA
+  1271.1.28:
+    death: yes
+ara_sancho_arago:
+  1248:
+    birth: barcelona
+    first_name: name_sancho
+    dynasty: barcelona_dynasty
+    father: ara_jacme_i_arago
+    mother: ara_jolan_arpad
+    religion: catholic
+    culture: catalan
+    tag: FRA
+  1266:
+    estate: clergy_estate
+  1275:
+    death: yes
+sic_costanza_ii_sicilia:
+  1249:
+    birth: catania
+    first_name: name_constance
+    dynasty: hohenstaufen_dynasty
+    female: yes
+    father: sic_manfredi_i_sicilia
+    mother: sic_beatritz_savoy
+    adm: 77
+    dip: 68
+    mil: 30
+    religion: catholic
+    culture: neapolitan
+    tag: SIC
+    traits:
+      intricate_web_weaver: yes
+  1262.6.13:
+    spouse: ara_pere_iii_arago
+    tag: ARA
+  1302.4.9:
+    death: yes
+ara_alfons_iii_arago:
+  1265.11.4:
+    birth: valencia
+    first_name: name_alphonse
+    nickname: nick_the_liberal
+    dynasty: barcelona_dynasty
+    father: ara_pere_iii_arago
+    mother: sic_costanza_ii_sicilia
+    adm: 47
+    dip: 52
+    mil: 77
+    religion: catholic
+    culture: catalan
+    tag: ARA
+    traits:
+      conqueror: yes
+  1291.6.18:
+    death: yes
+ara_jaume_ii_arago:
   1267.8.10:
-    birth: barcelona #TODO: Location guessed, check if better data is available
-    first_name: jaume
-    dynasty: darago_dynasty
-    father: ara_pere_iii_darago_1 #TODO: check if this makes sense
-    adm: 60
-    dip: 30
-    mil: 45
+    birth: valencia
+    first_name: name_james
+    dynasty: barcelona_dynasty
+    father: ara_pere_iii_arago
+    mother: sic_costanza_ii_sicilia
+    adm: 43
+    dip: 59
+    mil: 83
     religion: catholic
-    culture: aragonese
+    culture: catalan
     tag: ARA
-  1327.11.5:
+  1285.11.2:
+    nickname: the_just
+  1327.11.2:
     death: yes
-ara_jaume_ii_darago_1:
-  1255.1.1:
-    birth: barcelona #TODO: Date and location guessed, check if better data is available
-    first_name: jaume
-    dynasty: darago_dynasty
-    adm: 60
-    dip: 30
-    mil: 45
+por_isabel_arago:
+  1271.1.4:
+    birth: zaragoza
+    first_name: name_elizabeth
+    nickname: the_saint
+    dynasty: barcelona_dynasty
+    female: yes
+    father: ara_pere_iii_arago
+    mother: sic_costanza_ii_sicilia
+    adm: 78
+    dip: 63
+    mil: 26
     religion: catholic
-    culture: aragonese
+    culture: catalan
     tag: ARA
-  1327.11.5:
+    traits:
+      righteous: yes
+  1336.7.4:
     death: yes
-ara_alfons_iv_darago:
-  1299.1.1:
-    birth: barcelona #TODO: Date and location guessed, check if better data is available
-    first_name: alfons
-    dynasty: darago_dynasty
-    father: ara_jaume_ii_darago_1 #TODO: check if this makes sense
-    adm: 45
-    dip: 75
-    mil: 60
+nap_violante_aragon:
+  1273:
+    birth: palma
+    first_name: name_yolande
+    dynasty: barcelona_dynasty
+    female: yes
+    father: ara_pere_iii_arago
+    mother: sic_costanza_ii_sicilia
     religion: catholic
-    culture: aragonese
+    culture: catalan
     tag: ARA
+  1302.8.19:
+    death: yes
+ara_marie_of_lusignan:
+  1273:
+    birth: nicosia_cyp
+    first_name: name_mary
+    dynasty: lusignan_dynasty
+    female: yes
+    religion: catholic
+    culture: french
+    tag: CYP
+  1315.11.27:
+    spouse: ara_jaume_ii_arago
+    tag: ARA
+  1319.4:
+    death: yes
+ara_peter_aragon:
+  1275:
+    birth: barcelona #unknown
+    first_name: name_peter
+    dynasty: barcelona_dynasty
+    female: yes
+    father: ara_pere_iii_arago
+    mother: sic_costanza_ii_sicilia
+    religion: catholic
+    culture: catalan
+    tag: ARA
+  1296.8.25:
+    death: yes
+ara_blanche_anjou:
+  1280:
+    birth: naples
+    first_name: name_blanche
+    dynasty: anjou_dynasty
+    female: yes
+    father: nap_carlo_ii_anjou
+    mother: nap_maria_arpad
+    religion: catholic
+    culture: neapolitan
+    tag: NAP
+  1295.10.29:
+    spouse: ara_jaume_ii_arago
+    tag: ARA
+  1310.10.14:
+    death: yes
+ara_jaume_arago_the_monk:
+  1296.9.29:
+    birth: naples
+    first_name: name_alphonse
+    dynasty: barcelona_dynasty
+    father: ara_jaume_ii_arago
+    mother: ara_blanche_anjou
+    religion: catholic
+    culture: catalan
+    tag: ARA
+  1319.12.22:
+    estate: clergy_estate
+    #Disinherited
+  1336.7:
+    death: yes
+ara_alfonso_iv_arago:
+  1299.11.2:
+    birth: naples
+    first_name: name_alphonse
+    dynasty: barcelona_dynasty
+    father: ara_jaume_ii_arago
+    mother: ara_blanche_anjou
+    adm: 47
+    dip: 48
+    mil: 62
+    religion: catholic
+    culture: catalan
+    tag: ARA
+    traits:
+      conqueror: yes
+  1327.11.2:
+    nickname: Kind
   1336.1.24:
     death: yes
-ara_alfons_iv_darago_1:
-  1297.1.1:
-    birth: barcelona #TODO: Date and location guessed, check if better data is available
-    first_name: alfons
-    dynasty: darago_dynasty
-    adm: 45
-    dip: 75
-    mil: 60
+ara_teresa_entenza:
+  1300:
+    birth: balaguer # She was heiress to County of Urgell
+    first_name: name_theresa
+    female: yes
     religion: catholic
-    culture: aragonese
+    culture: catalan
     tag: ARA
-  1336.1.24:
+    estate: nobles_estate
+  1314:
+    spouse: ara_alfonso_iv_arago
+  1327.10.20:
     death: yes
-ara_pere_iv_darago:
+hab_elisabet_arago:
+  1302.7.12:
+    birth: barcelona
+    first_name: name_elizabeth
+    dynasty: barcelona_dynasty
+    female: yes
+    father: ara_jaume_ii_arago
+    mother: ara_blanche_anjou
+    religion: catholic
+    culture: catalan
+    tag: HAB
+  1330.7.12:
+    death: yes
+ara_joan_arago:
+  1304:
+    birth: barcelona #unknown
+    first_name: name_john
+    dynasty: barcelona_dynasty
+    father: ara_jaume_ii_arago
+    mother: ara_blanche_anjou
+    religion: catholic
+    culture: catalan
+    tag: ARA
+  1318:
+    estate: clergy_estate
+  1334.8.19:
+    death: yes
+ara_pere_iv_ribagorza:
+  1305:
+    birth: barcelona #unknown
+    first_name: name_peter
+    dynasty: barcelona_dynasty
+    father: ara_jaume_ii_arago
+    mother: ara_blanche_anjou
+    adm: 59
+    dip: 77
+    mil: 25
+    religion: catholic
+    culture: catalan
+    tag: ARA
+  1322:
+    estate: nobles_estate
+  1381.11.4:
+    death: yes
+ara_leonor_burgundy:
+  1307:
+    birth: valladolid #Castile
+    first_name: name_eleanor
+    dynasty: burgundy_castile_dynasty
+    female: yes
+    father: cas_fernando_iv_burgundy
+    mother: cas_constance_portugal
+    religion: catholic
+    culture: castilian
+    tag: CAS
+  1319.10.18:
+    spouse: ara_alfonso_iv_arago
+    tag: ARA
+  1359:
+    death: yes
+ara_ramon_berenguer_empuries:
+  1308.8:
+    birth: barcelona #unknown
+    first_name: name_raymond.name_berengar
+    dynasty: barcelona_dynasty
+    father: ara_jaume_ii_arago
+    mother: ara_blanche_anjou
+    adm: 71
+    dip: 51
+    mil: 68
+    religion: catholic
+    culture: catalan
+    tag: ARA
+  1325: #unknown
+    estate: nobles_estate
+  1366:
+    death: yes
+ara_blanche_taranto:
+  1309:
+    birth: naples
+    first_name: name_blanche
+    dynasty: anjou_dynasty
+    female: yes
+    father: alb_filippo_i_taranto
+    mother: alb_thamar_angelina_komnene_doukas
+    religion: catholic
+    culture: neapolitan
+    tag: ALB
+    estate: nobles_estate
+  1326:
+    spouse: ara_ramon_berenguer_empuries
+    tag: ARA
+  1337:
+    death: yes
+ara_violant_arago:
+  1310.10:
+    birth: barcelona #unknown
+    first_name: name_yolande
+    dynasty: barcelona_dynasty
+    female: yes
+    father: ara_jaume_ii_arago
+    mother: ara_blanche_anjou
+    religion: catholic
+    culture: catalan
+    tag: ARA
+  1353.7.19:
+    death: yes
+ara_joana_foix:
+  1316: #unknown
+    birth: foix
+    first_name: name_joanna
+    dynasty: foix_dynasty
+    female: yes
+    father: foi_gaston_i_foix
+    mother: foi_jeanne_artois
+    religion: catholic
+    culture: languedocien
+    tag: FOI
+  1331:
+    spouse: ara_pere_iv_ribagorza
+    tag: ARA
+    estate: nobles_estate
+  1360: #unknown
+    death: yes
+ara_peter_iv_arago:
   1319.9.5:
-    birth: barcelona #TODO: Location guessed, check if better data is available
-    first_name: pere
-    dynasty: darago_dynasty
-    father: ara_alfons_iv_darago_1 #TODO: check if this makes sense
+    birth: balaguer
+    first_name: name_peter
+    nickname: Ceremonious
+    dynasty: barcelona_dynasty
+    father: ara_alfonso_iv_arago
+    mother: ara_teresa_entenza
     adm: 75
-    dip: 30
-    mil: 15
+    dip: 50
+    mil: 81
     religion: catholic
-    culture: aragonese
+    culture: catalan
     tag: ARA
+    traits:
+      strict: yes
   1387.1.6:
     death: yes
-ara_pere_iv_darago_1:
-  1306.1.1:
-    birth: barcelona #TODO: Date and location guessed, check if better data is available
-    first_name: pere
-    dynasty: darago_dynasty
-    adm: 75
-    dip: 30
-    mil: 15
+ara_james_i_urgell:
+  1321:
+    birth: zaragoza
+    first_name: name_james
+    dynasty: barcelona_dynasty
+    father: ara_alfonso_iv_arago
+    mother: ara_teresa_entenza
+    adm: 32
+    dip: 61
+    mil: 74
     religion: catholic
-    culture: aragonese
+    culture: catalan
     tag: ARA
-  1387.1.6:
+  1327:
+    estate: nobles_estate
+  1347.11.15:
+    death: yes
+ara_cecilia_comminges:
+  1321:
+    birth: muret #unknown
+    first_name: name_cecile
+    dynasty: comminges_dynasty
+    female: yes
+    father: com_bernard_viii_comminges
+    mother: com_mathe_lisle_jourdain
+    adm: 48
+    dip: 51
+    mil: 31
+    religion: catholic
+    culture: languedocien
+    tag: COM
+    estate: nobles_estate
+  1336:
+    spouse: ara_james_i_urgell
+  1381:
+    death: yes
+sic_eleonora_sicily:
+  1325:
+    birth: catania
+    first_name: name_eleanor
+    dynasty: barcelona_dynasty
+    female: yes
+    father: sic_pietro_ii_sicily
+    mother: sic_elisabeth_karnten
+    religion: catholic
+    culture: catalan
+    tag: SIC
+  1349.8.27:
+    spouse: ara_peter_iv_arago
+    tag: ARA
+  1375.4.20:
+    death: yes
+ara_ferdinand_arago:
+  1329:
+    birth: valencia
+    first_name: name_ferdinand
+    dynasty: barcelona_dynasty
+    father: ara_alfonso_iv_arago
+    mother: ara_leonor_burgundy
+    adm: 27
+    dip: 9
+    mil: 27
+    religion: catholic
+    culture: catalan
+    tag: ARA
+    estate: nobles_estate
+    child_traits:
+      child_ambitious: yes
+  1363:
+    death: yes
+ara_joana_empuries:
+  1330:
+    birth: barcelona #unknown
+    first_name: name_joanna
+    dynasty: barcelona_dynasty
+    female: yes
+    father: ara_ramon_berenguer_empuries
+    mother: ara_blanche_taranto
+    adm: 8
+    dip: 12
+    mil: 5
+    religion: catholic
+    culture: catalan
+    tag: ARA
+    estate: nobles_estate
+    child_traits:
+      child_gregarious: yes
+  1395:
+    death: yes
+ara_juan_arago:
+  1331:
+    birth: valencia
+    first_name: name_john
+    dynasty: barcelona_dynasty
+    father: ara_alfonso_iv_arago
+    mother: ara_leonor_burgundy
+    religion: catholic
+    culture: catalan
+    tag: ARA
+    estate: nobles_estate
+  1358:
+    death: yes
+ara_alfons_iv_ribagorza:
+  1332:
+    birth: tarragona #unknown
+    first_name: name_alphonse
+    dynasty: barcelona_dynasty
+    father: ara_pere_iv_ribagorza
+    mother: ara_joana_foix
+    adm: 6
+    dip: 6
+    mil: 17
+    religion: catholic
+    culture: catalan
+    tag: ARA
+    estate: nobles_estate
+    child_traits:
+      child_rowdy: yes
+  1412.3.7:
+    death: yes
+ara_elionor_ribagorza:
+  1333:
+    birth: tarragona
+    first_name: name_eleanor
+    dynasty: barcelona_dynasty
+    female: yes
+    father: ara_pere_iv_ribagorza
+    mother: ara_joana_foix
+    adm: 3
+    dip: 3
+    mil: 1
+    religion: catholic
+    culture: catalan
+    tag: ARA
+    estate: nobles_estate
+  1417.12.26:
+    death: yes
+ara_blanca_empuries:
+  1334:
+    birth: barcelona # Unknown
+    first_name: name_blanche
+    dynasty: barcelona_dynasty
+    female: yes
+    father: ara_ramon_berenguer_empuries
+    mother: ara_blanche_taranto
+    religion: catholic
+    culture: catalan
+    tag: ARA
+    estate: nobles_estate
+  1380: #unknown
+    death: yes
+ara_joan_prades:
+  1335:
+    birth: tarragona # Unknown
+    first_name: name_john
+    dynasty: barcelona_dynasty
+    father: ara_pere_iv_ribagorza
+    mother: ara_joana_foix
+    adm: 1
+    dip: 0
+    mil: 0
+    religion: catholic
+    culture: catalan
+    tag: ARA
+    estate: nobles_estate
+  1414:
+    death: yes
+ara_joan_i_empuries:
+  1338:
+    birth: barcelona #unknown
+    first_name: name_john
+    dynasty: barcelona_dynasty
+    father: ara_ramon_berenguer_empuries
+    mother: ara_blanche_taranto
+    religion: catholic
+    culture: catalan
+    tag: ARA
+    estate: nobles_estate
+  1398: #unknown
+    death: yes
+ara_peter_ii_urgell:
+  1340:
+    birth: seu_durgell #unknown
+    first_name: name_peter
+    dynasty: barcelona_dynasty
+    father: ara_james_i_urgell
+    religion: catholic
+    culture: catalan
+    tag: ARA
+    estate: nobles_estate
+  1408.6:
+    death: yes
+ara_constance_arago_of_sicily:
+  1343:
+    birth: tarragona #TODO: Vimbodí i Poblet
+    first_name: name_constance
+    dynasty: barcelona_dynasty
+    female: yes
+    father: ara_peter_iv_arago
+    mother: nav_maria_evreux
+    religion: catholic
+    culture: catalan
+    tag: ARA
+  1363.7.18:
+    death: yes
+ara_joana_arago:
+  1344.11.7:
+    birth: barcelona
+    first_name: name_joanna
+    dynasty: barcelona_dynasty
+    female: yes
+    father: ara_peter_iv_arago
+    mother: nav_maria_evreux
+    religion: catholic
+    culture: catalan
+    tag: ARA
+  1373.6.19:
+    spouse: ara_joan_i_empuries
+    estate: nobles_estate
+  1385:
+    death: yes
+ara_martha_of_armagnac:
+  1347.2.18:
+    birth: auch #unknown
+    first_name: name_martha
+    female: yes
+    religion: catholic
+    culture: gascon
+    tag: AMG
+  1373.6.24:
+    spouse: ara_joan_i_darago
+    tag: ARA
+  1378.10.23:
+    death: yes
+ara_sibila_de_fortia:
+  1350: #unknown
+    birth: barcelona #unknown
+    first_name: name_sybil
+    female: yes
+    religion: catholic
+    culture: catalan
+    tag: ARA
+  1377.10.11:
+    spouse: ara_peter_iv_arago
+  1406.11.24:
     death: yes
 ara_joan_i_darago:
   1350.12.27:
-    birth: barcelona #TODO: Location guessed, check if better data is available
-    first_name: joan
-    dynasty: darago_dynasty
-    father: ara_pere_iv_darago_1 #TODO: check if this makes sense
+    birth: perpignan
+    first_name: name_john
+    dynasty: barcelona_dynasty
+    father: ara_peter_iv_arago
+    mother: sic_eleonora_sicily
     adm: 45
     dip: 30
     mil: 45
     religion: catholic
-    culture: aragonese
+    culture: catalan
     tag: ARA
-  1396.5.19:
-    death: yes
-ara_joan_i_darago_1:
-  1357.1.1:
-    birth: barcelona #TODO: Date and location guessed, check if better data is available
-    first_name: joan
-    dynasty: darago_dynasty
-    adm: 45
-    dip: 30
-    mil: 45
-    religion: catholic
-    culture: aragonese
-    tag: ARA
+  1387.1.6:
+    nickname: nick_the_hunter
   1396.5.19:
     death: yes
 ara_marti_i_darago:
   1356.7.29:
-    birth: barcelona #TODO: Location guessed, check if better data is available
-    first_name: marti
-    dynasty: darago_dynasty
-    father: ara_joan_i_darago_1 #TODO: check if this makes sense
+    birth: girona
+    first_name: name_martin
+    dynasty: barcelona_dynasty
+    father: ara_peter_iv_arago
+    mother: sic_eleonora_sicily
     adm: 45
     dip: 45
     mil: 60
     religion: catholic
-    culture: aragonese
+    culture: catalan
     tag: ARA
-  1410.1.20:
+  1374:
+    nickname: nick_the_elder
+  1410.5.31:
     death: yes
-ara_marti_i_darago_1:
-  1366.1.1:
-    birth: barcelona #TODO: Date and location guessed, check if better data is available
-    first_name: marti
-    dynasty: darago_dynasty
-    adm: 30
-    dip: 30
-    mil: 45
+ara_maria_de_luna:
+  1358:
+    birth: barcelona #unknown
+    first_name: name_mary
+    female: yes
     religion: catholic
-    culture: aragonese
+    culture: catalan
     tag: ARA
-  3000.1.1:
+    estate: nobles_estate
+  1372.6.13:
+    spouse: ara_marti_i_darago
+    estate: ---
+  1406.12.20:
+    death: yes
+ara_violant_of_bar:
+  1365:
+    birth: bar_le_duc
+    first_name: name_yolande
+    female: yes
+    religion: catholic
+    culture: lorrain
+    tag: BAR
+  1380.2.2:
+    spouse: ara_joan_i_darago
+    tag: ARA
+  1431.7.3:
+    death: yes
+ara_eleanor_of_albuquerque:
+  1374:
+    birth: salamanca #TODO: Aldeadávila de la Ribera
+    first_name: name_eleanor
+    female: yes
+    religion: catholic
+    culture: castilian
+    tag: CAS
+  1394:
+    spouse: ara_ferran_i_de_trastamara
+  1412.6.24:
+    tag: ARA
+  1435.12.16:
+    death: yes
+ara_jaume_arago_b1374:
+  1374.6.24:
+    birth: valencia
+    first_name: name_james
+    dynasty: barcelona_dynasty
+    father: ara_joan_i_darago
+    mother: ara_martha_of_armagnac
+    religion: catholic
+    culture: catalan
+    tag: ARA
+  1374.8.22:
+    death: yes
+ara_joan_ii_empuries:
+  1375:
+    birth: girona #unknown
+    first_name: name_john
+    dynasty: barcelona_dynasty
+    father: ara_joan_i_empuries
+    mother: ara_joana_arago
+    religion: catholic
+    culture: catalan
+    tag: ARA
+    estate: nobles_estate
+  1401: #unknown
+    death: yes
+ara_joana_arago_of_foix:
+  1375.10:
+    birth: daroca
+    first_name: name_joanna
+    dynasty: barcelona_dynasty
+    female: yes
+    father: ara_joan_i_darago
+    mother: ara_martha_of_armagnac
+    religion: catholic
+    culture: catalan
+    tag: ARA
+  1407.9:
+    death: yes
+ara_isabella_arago:
+  1376:
+    birth: barcelona
+    first_name: name_elizabeth
+    dynasty: barcelona_dynasty
+    female: yes
+    father: ara_peter_iv_arago
+    mother: ara_sibila_de_fortia
+    religion: catholic
+    culture: catalan
+    tag: ARA
+  1407.6.29:
+    spouse: ara_james_ii_urgell
+    estate: nobles_estate
+  1424:
+    death: yes
+ara_james_ii_urgell:
+  1380:
+    birth: balaguer
+    first_name: name_james
+    dynasty: barcelona_dynasty
+    father: ara_peter_ii_urgell
+    religion: catholic
+    culture: catalan
+    tag: ARA
+    estate: nobles_estate
+  1433.6.1:
     death: yes
 ara_ferran_i_de_trastamara:
-  1382.1.1:
-    birth: barcelona #TODO: Date and location guessed, check if better data is available
-    first_name: ferran
-    dynasty: de_trastamara_dynasty
-    adm: 30
-    dip: 15
+  1380.11.27:
+    birth: valladolid #TODO: Medina del Campo
+    first_name: name_ferdinand
+    dynasty: trastamara_dynasty
+    father: cas_juan_i_de_trastamara
+    mother: cas_eleanor_of_aragon
+    adm: 60
+    dip: 65
     mil: 30
     religion: catholic
-    culture: aragonese
+    culture: castilian
+    tag: CAS
+  1412.6.24:
+    nickname: the_just
     tag: ARA
   1416.4.2:
     death: yes
+ara_jaume_arago_b1382:
+  1382.3.22:
+    birth: barcelona #unknown
+    first_name: name_james
+    dynasty: barcelona_dynasty
+    father: ara_joan_i_darago
+    mother: ara_violant_of_bar
+    religion: catholic
+    culture: catalan
+    tag: ARA
+  1388.9.1:
+    death: yes
+ara_violant_arago_of_naples:
+  1384:
+    birth: zaragoza
+    first_name: name_yolande
+    dynasty: barcelona_dynasty
+    female: yes
+    father: ara_joan_i_darago
+    mother: ara_violant_of_bar
+    religion: catholic
+    culture: catalan
+    tag: ARA
+  1442.11.14:
+    death: yes
+ara_ferdinand_arago_of_girona:
+  1389.3.18:
+    birth: barcelona #unknown
+    first_name: name_ferdinand
+    dynasty: barcelona_dynasty
+    father: ara_joan_i_darago
+    mother: ara_violant_of_bar
+    religion: catholic
+    culture: catalan
+    tag: ARA
+  1389.10:
+    death: yes
+ara_margaret_of_prades:
+  1395:
+    birth: barcelona #TODO: Falset
+    first_name: name_margaret
+    female: yes
+    religion: catholic
+    culture: catalan
+    tag: ARA
+    estate: nobles_estate
+  1409.9.17:
+    spouse: ara_marti_i_darago
+    estate: ---
+  1429.7.23:
+    death: yes
 ara_alfons_v_de_trastamara:
-  1396.1.1:
-    birth: barcelona #TODO: Date and location guessed, check if better data is available
-    first_name: alfons
-    dynasty: de_trastamara_dynasty
+  1396:
+    birth: valladolid #TODO: Medina del Campo
+    first_name: name_alphonse
+    dynasty: trastamara_dynasty
+    father: ara_ferran_i_de_trastamara
+    mother: ara_eleanor_of_albuquerque
     adm: 30
     dip: 60
     mil: 90
     religion: catholic
-    culture: aragonese
+    culture: castilian
+    tag: CAS
+  1412.6.24:
     tag: ARA
-  1458.6.29:
+  1416.4.2:
+    nickname: Magnanimous
+  1458.6.27:
     death: yes
 ara_joan_ii_de_trastamara:
-  1397.6.29:
-    birth: barcelona #TODO: Location guessed, check if better data is available
-    first_name: joan
-    dynasty: de_trastamara_dynasty
+  1398.6.29:
+    birth: valladolid #TODO: Medina del Campo
+    first_name: name_john
+    dynasty: trastamara_dynasty
+    father: ara_ferran_i_de_trastamara
+    mother: ara_eleanor_of_albuquerque
     adm: 60
     dip: 15
-    mil: 0
+    mil: 30
     religion: catholic
-    culture: aragonese
+    culture: castilian
+    tag: CAS
+  1412.6.24:
+    tag: ARA
+  1425.9.8:
+    tag: NAV
+  1458.6.27:
     tag: ARA
   1479.1.20:
     death: yes
-ara_maria_de_trastamara:
+ara_sancho_de_trastamara:
+  1399:
+    birth: valladolid #unknown #TODO: Medina del Campo
+    first_name: name_sancho
+    dynasty: trastamara_dynasty
+    father: ara_ferran_i_de_trastamara
+    mother: ara_eleanor_of_albuquerque
+    religion: catholic
+    culture: castilian
+    tag: CAS
+  1412.6.24:
+    tag: ARA
+  1416.3:
+    death: yes
+ara_henry_de_trastamara:
+  1400:
+    birth: valladolid #unknown #TODO: Medina del Campo
+    first_name: name_henry
+    dynasty: trastamara_dynasty
+    father: ara_ferran_i_de_trastamara
+    mother: ara_eleanor_of_albuquerque
+    religion: catholic
+    culture: castilian
+    tag: CAS
+  1412.6.24:
+    tag: ARA
+  1445.6.15:
+    death: yes
+ara_maria_of_castile:
   1401.9.14:
-    birth: barcelona #TODO: Location guessed, check if better data is available
-    first_name: maria
-    dynasty: de_trastamara_dynasty
+    birth: segovia
+    first_name: name_mary
+    dynasty: trastamara_dynasty
     female: yes
+    father: cas_enrique_iii_de_trastamara
+    mother: cas_catherine_of_lancaster
     adm: 60
     dip: 60
     mil: 45
     religion: catholic
-    culture: aragonese
+    culture: castilian
+    tag: CAS
+  1415.6.12:
+    spouse: ara_alfons_v_de_trastamara
     tag: ARA
-  1458.9.7:
+  1458.9.4:
     death: yes
-  1416.4.2:
-    spouse: ara_alfons_v_de_trastamara #TODO: date guessed, see if better data is available
-ara_juana_enriquez_de_cordoba:
-  1425.1.1:
-    birth: barcelona #TODO: Date and location guessed, check if better data is available
-    first_name: juana_enriquez
-    dynasty: de_cordoba_dynasty
+ara_eleanor_de_trastamara:
+  1405:
+    birth: valladolid #TODO: Medina del Campo
+    first_name: name_eleanor
+    dynasty: trastamara_dynasty
+    female: yes
+    father: ara_ferran_i_de_trastamara
+    mother: ara_eleanor_of_albuquerque
+    religion: catholic
+    culture: castilian
+    tag: CAS
+  1412.6.24:
+    tag: ARA
+  1445.2.19:
+    death: yes
+ara_peter_de_trastamara:
+  1406:
+    birth: valladolid #unknown #TODO: Medina del Campo
+    first_name: name_peter
+    dynasty: trastamara_dynasty
+    father: ara_ferran_i_de_trastamara
+    mother: ara_eleanor_of_albuquerque
+    religion: catholic
+    culture: castilian
+    tag: CAS
+  1412.6.24:
+    tag: ARA
+  1438:
+    death: yes
+ara_alfonso_de_aragon_y_escobar:
+  1417:
+    birth: valladolid #TODO: Olmedo
+    first_name: name_alphonse
+    dynasty: trastamara_dynasty
+    father: ara_joan_ii_de_trastamara
+    religion: catholic
+    culture: castilian
+    tag: ARA
+    estate: nobles_estate
+    traits:
+      bastard: yes
+  1485:
+    death: yes
+ara_juana_enriquez:
+  1425:
+    birth: valladolid #TODO: Torrelobatón
+    first_name: name_joanna
     female: yes
     adm: 15
     dip: 30
     mil: 15
     religion: catholic
-    culture: aragonese
+    culture: castilian
+    tag: CAS
+  1444.4.1:
+    spouse: ara_joan_ii_de_trastamara
+    tag: NAV
+  1458.6.27:
     tag: ARA
   1468.2.13:
     death: yes
-  1458.6.29:
-    spouse: ara_joan_ii_de_trastamara #TODO: date guessed, see if better data is available
+ara_juan_de_aragon:
+  1437:
+    birth: barcelona #unknown
+    first_name: name_john
+    dynasty: trastamara_dynasty
+    father: ara_joan_ii_de_trastamara
+    religion: catholic
+    culture: castilian
+    tag: ARA
+    estate: clergy_estate
+    traits:
+      bastard: yes
+  1475:
+    death: yes
 ara_ferran_ii_de_trastamara:
   1452.3.10:
-    birth: barcelona #TODO: Location guessed, check if better data is available
-    first_name: ferran
-    dynasty: de_trastamara_dynasty
+    birth: zaragoza #TODO: Sos
+    first_name: name_ferdinand
+    dynasty: trastamara_dynasty
+    father: ara_joan_ii_de_trastamara
+    mother: ara_juana_enriquez
     adm: 60
     dip: 90
     mil: 75
     religion: catholic
     culture: aragonese
+    tag: NAV
+  1458.6.27:
     tag: ARA
   1516.1.23:
     death: yes
-ara_isabella_de_trastamara:
-  1451.4.22:
-    birth: barcelona #TODO: Location guessed, check if better data is available
-    first_name: isabella
-    dynasty: de_trastamara_dynasty
+ara_joana_de_trastamara:
+  1455.6.16:
+    birth: barcelona
+    first_name: name_joanna
+    dynasty: trastamara_dynasty
     female: yes
-    adm: 75
-    dip: 90
-    mil: 45
+    father: ara_joan_ii_de_trastamara
+    mother: ara_juana_enriquez
     religion: catholic
     culture: aragonese
+    tag: NAV
+  1458.6.27:
     tag: ARA
-  1504.11.26:
+  1516.3.14:
+    tag: SPA
+  1517.1.9:
     death: yes
-  1479.1.20:
-    spouse: ara_ferran_ii_de_trastamara #TODO: date guessed, see if better data is available

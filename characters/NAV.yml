@@ -108,17 +108,28 @@ nav_aznar_sanchez_larraun:
   900:
     death: yes
 nav_fortun_iniguez:
-  850.1.1:
+  850:
     birth: pamplona #unknown
-    first_name: fortun
-    dynasty: iniguez_dynasty
-    father: nav_garcia_iniguez #TODO: check if this makes sense
-    adm: 15
-    dip: 75
-    mil: 60
+    first_name: name_fortunius
+    dynasty: iniga_dynasty
+    father: nav_garcia_iniguez
     religion: chalcedonism
     culture: basque
     tag: NAV
+  867:
+    religion: catholic
+  910:
+    death: yes
+nav_auria:
+  850: #unknown
+    birth: pamplona #unknown
+    first_name: name_aurea
+    female: yes
+    religion: chalcedonism
+    culture: basque
+    tag: NAV
+  865:
+    spouse: nav_fortun_iniguez
   867:
     religion: catholic
   910:
@@ -196,7 +207,10 @@ nav_angregoto_galindez:
   918:
     birth: pamplona #unknown
     first_name: name_andregoto
+    dynasty: aznar_dynasty
     female: yes
+    father: ara_galindo_aznarez_ii_de_aragon
+    mother: nav_sancha_garces_jimena
     religion: catholic
     culture: aragonese
     tag: ARA
@@ -346,6 +360,18 @@ nav_garcia_iii_jimena:
       zealot: yes
   1054.9.1:
     death: yes
+nav_estefania:
+  1020: #unknown
+    birth: pamplona #unknown
+    first_name: name_stephanie
+    female: yes
+    religion: catholic
+    culture: basque
+    tag: NAV
+  1038:
+    spouse: nav_garcia_iii_jimena
+  1070: #unknown
+    death: yes
 nav_gonzalo_of_sobrarbe_and_ribagorza:
   1020:
     birth: pamplona #unknown
@@ -358,401 +384,931 @@ nav_gonzalo_of_sobrarbe_and_ribagorza:
     tag: NAV
   1043.6.26:
     death: yes
-nav_sancho_iv_jimenez:
-  1039.1.1:
-    birth: pamplona #TODO: Date and location guessed, check if better data is available
-    first_name: sancho
-    dynasty: jimenez_dynasty
-    father: nav_garcia_sanchez_iii_jimenez_1 #TODO: check if this makes sense
-    adm: 75
-    dip: 75
-    mil: 15
+nav_sancho_garces_jimena:
+  1038:
+    birth: logrono #unknown
+    first_name: name_sancho
+    dynasty: jimena_dynasty
+    father: nav_garcia_iii_jimena
     religion: catholic
     culture: basque
     tag: NAV
+    estate: nobles_estate
+    traits:
+      bastard: yes
+  1083.1.6:
+    death: yes
+nav_sancho_iv_jimena:
+  1039:
+    birth: logrono #unknown
+    first_name: name_sancho
+    nickname: of_Penalen
+    dynasty: jimena_dynasty
+    father: nav_garcia_iii_jimena
+    mother: nav_estefania
+    religion: catholic
+    culture: basque
+    tag: NAV
+    traits:
+      greedy: yes
+      babbling_buffoon: yes
   1076.6.4:
     death: yes
-nav_sancho_iv_jimenez_1:
-  1024.1.1:
-    birth: pamplona #TODO: Date and location guessed, check if better data is available
-    first_name: sancho
-    dynasty: jimenez_dynasty
-    adm: 75
-    dip: 75
-    mil: 15
+nav_ramiro_garces_of_calahorra:
+  1045: #unknown
+    birth: logrono #unknown
+    first_name: name_ramiro
+    dynasty: jimena_dynasty
+    father: nav_garcia_iii_jimena
+    mother: nav_estefania
     religion: catholic
     culture: basque
     tag: NAV
-  1134.9.8:
+  1083.1.6:
     death: yes
-nav_garcia_ramirez_jimenez:
-  1104.1.1:
-    birth: pamplona #TODO: Date and location guessed, check if better data is available
-    first_name: garcia_ramirez
-    dynasty: jimenez_dynasty
-    adm: 30
-    dip: 75
+nav_placencia:
+  1050: #unknown
+    birth: caen #Normandy
+    first_name: placencia
+    female: yes
+    religion: catholic
+    culture: norman
+    tag: NRM
+    estate: nobles_estate
+  1068:
+    spouse: nav_sancho_iv_jimena
+    tag: NAV
+    estate: ---
+  1088.4.14:
+    death: yes
+nav_garcia_sanchez_jimena:
+  1070: #unknown
+    birth: logrono #unknown
+    first_name: name_garcia
+    dynasty: jimena_dynasty
+    father: nav_sancho_iv_jimena
+    mother: nav_placencia
+    religion: catholic
+    culture: basque
+    tag: NAV
+  1092:
+    death: yes
+ara_ramiro_sanchez:
+  1070:
+    birth: sanguesa #unknown
+    first_name: name_ramiro
+    dynasty: jimena_dynasty
+    father: nav_sancho_garces_jimena
+    adm: 54
+    dip: 26
+    mil: 31
+    religion: catholic
+    culture: basque
+    tag: NAV
+    estate: nobles_estate
+  1129:
+    death: yes
+nav_cristina_rodriguez:
+  1075:
+    birth: leon #unknown
+    first_name: name_christine
+    dynasty: vivar_dynasty
+    female: yes
+    father: val_rodrigo_diaz
+    mother: val_jimena_diaz
+    religion: catholic
+    culture: leonese
+    tag: LON
+    estate: nobles_estate
+  1099:
+    spouse: ara_ramiro_sanchez
+    tag: NAV
+  1130:
+    death: yes
+nav_garcia_iv_jimena:
+  1112:
+    birth: sanguesa #unknown
+    first_name: name_garcia
+    dynasty: jimena_dynasty
+    father: ara_ramiro_sanchez
+    mother: nav_cristina_rodriguez
+    adm: 28
+    dip: 43
     mil: 45
     religion: catholic
     culture: basque
     tag: NAV
+    estate: nobles_estate
+    traits:
+      sinner: yes
+  1134.9.7:
+    nickname: nick_the_restorer
+    estate: ---
   1150.11.21:
     death: yes
-nav_sancho_vi_jimenez:
-  1133.1.1:
-    birth: pamplona #TODO: Date and location guessed, check if better data is available
-    first_name: sancho
-    dynasty: jimenez_dynasty
-    father: nav_garcia_ramirez_jimenez #TODO: check if this makes sense
-    adm: 30
-    dip: 30
-    mil: 15
+nav_margaret_of_laigle:
+  1115:
+    birth: laigle
+    first_name: name_margaret
+    female: yes
+    religion: catholic
+    culture: norman
+    tag: ENG
+    estate: nobles_estate
+  1130:
+    spouse: nav_garcia_iv_jimena
+    tag: NAV
+    estate: ---
+  1141.5.25:
+    death: yes
+nav_sancho_vi_jimena:
+  1132.4.21:
+    birth: pamplona
+    first_name: name_sancho
+    nickname: the_wise
+    dynasty: jimena_dynasty
+    father: nav_garcia_iv_jimena
+    mother: nav_margaret_of_laigle
+    adm: 59
+    dip: 52
+    mil: 54
     religion: catholic
     culture: basque
     tag: NAV
+    traits:
+      entrepreneur: yes
+      architectural_visionary: yes
+      careful: yes
   1194.6.27:
     death: yes
-nav_sancho_vi_jimenez_1:
-  1120.1.1:
-    birth: pamplona #TODO: Date and location guessed, check if better data is available
-    first_name: sancho
-    dynasty: jimenez_dynasty
-    adm: 30
-    dip: 30
-    mil: 15
+nav_margaret_jimena:
+  1135:
+    birth: pamplona
+    first_name: name_margaret
+    dynasty: jimena_dynasty
+    female: yes
+    father: nav_garcia_iv_jimena
+    mother: nav_margaret_of_laigle
     religion: catholic
     culture: basque
     tag: NAV
-  1194.6.27:
+  1183.8.12:
     death: yes
-nav_sancho_vii_jimenez:
-  1157.1.1:
-    birth: pamplona #TODO: Date and location guessed, check if better data is available
-    first_name: sancho
-    dynasty: jimenez_dynasty
-    father: nav_sancho_vi_jimenez_1 #TODO: check if this makes sense
-    adm: 30
-    dip: 15
-    mil: 45
+nav_henry_of_montescaglioso:
+  1135:
+    birth: pamplona
+    first_name: name_roderick
+    dynasty: jimena_dynasty
+    father: nav_garcia_iv_jimena
+    mother: nav_margaret_of_laigle
     religion: catholic
     culture: basque
     tag: NAV
+  1166:
+    first_name: name_henry
+    tag: SIC
+    estate: nobles_estate
+  1175:
+    death: yes
+nav_sancha_of_castile:
+  1139:
+    birth: toledo #unknown
+    first_name: name_sancha
+    dynasty: burgundy_castile_dynasty
+    female: yes
+    father: cas_alfonso_vii_burgundy
+    mother: cas_berengaria_of_barcelona
+    religion: catholic
+    culture: castilian
+    tag: LON
+  1153.7.20:
+    spouse: nav_sancho_vi_jimena
+    tag: NAV
+  1177.8.5:
+    death: yes
+nav_sancho_vii_jimena:
+  1157:
+    birth: tudela #unknown
+    first_name: name_sancho
+    nickname: nick_the_strong
+    dynasty: jimena_dynasty
+    father: nav_sancho_vi_jimena
+    mother: nav_sancha_of_castile
+    adm: 51
+    dip: 59
+    mil: 73
+    religion: catholic
+    culture: basque
+    tag: NAV
+    traits:
+      inspiring_leader: yes
+      charismatic_negotiator: yes
+      bold_fighter: yes
   1234.4.7:
     death: yes
-nav_sancho_vii_jimenez_1:
-  1164.1.1:
-    birth: pamplona #TODO: Date and location guessed, check if better data is available
-    first_name: sancho
-    dynasty: jimenez_dynasty
-    adm: 30
-    dip: 15
-    mil: 45
+chp_blanche_jimena:
+  1177:
+    birth: tudela #unknown
+    first_name: name_blanche
+    dynasty: jimena_dynasty
+    female: yes
+    father: nav_sancho_vi_jimena
+    mother: nav_sancha_of_castile
+    adm: 40
+    dip: 49
+    mil: 9
     religion: catholic
     culture: basque
     tag: NAV
-  1234.4.7:
+    traits:
+      fierce_negotiator: yes
+  1199.7.1:
+    spouse: chp_thibault_iii_blois
+    tag: CHP
+  1229.3.13:
     death: yes
-nav_thibaut_i_de_champagne:
-  1204.1.1:
-    birth: pamplona #TODO: Date and location guessed, check if better data is available
-    first_name: thibaut
-    dynasty: de_champagne_dynasty
-    adm: 15
-    dip: 45
-    mil: 45
+chp_constance_of_toulouse:
+  1180:
+    birth: toulouse
+    first_name: name_constance
+    female: yes
     religion: catholic
-    culture: basque
+    culture: languedocien
+    tag: TOU
+  1195:
+    spouse: nav_sancho_vii_jimena
+    tag: NAV
+  1200:
+    spouse: ---
+    tag: TOU
+  1260.5.12:
+    death: yes
+nav_thibault_i_blois:
+  1201.5.30:
+    birth: troyes
+    first_name: name_theobald
+    dynasty: blois_dynasty # Should be blois_champagne
+    father: chp_thibault_iii_blois
+    mother: chp_blanche_jimena
+    adm: 75
+    dip: 56
+    mil: 43
+    religion: catholic
+    culture: champenais
+    tag: CHP
+    traits:
+      lawgiver: yes
+      zealot: yes
+      babbling_buffoon: yes
+  1234.4.7:
     tag: NAV
   1253.7.8:
     death: yes
-nav_thibaut_ii_de_champagne:
-  1238.1.1:
-    birth: pamplona #TODO: Date and location guessed, check if better data is available
-    first_name: thibaut
-    dynasty: de_champagne_dynasty
-    father: nav_thibaut_i_de_champagne #TODO: check if this makes sense
-    adm: 30
-    dip: 60
-    mil: 15
-    religion: catholic
-    culture: basque
-    tag: NAV
-  1270.12.4:
-    death: yes
-nav_thibaut_ii_de_champagne_1:
-  1223.1.1:
-    birth: pamplona #TODO: Date and location guessed, check if better data is available
-    first_name: thibaut
-    dynasty: de_champagne_dynasty
-    adm: 30
-    dip: 60
-    mil: 15
-    religion: catholic
-    culture: basque
-    tag: NAV
-  1270.12.4:
-    death: yes
-nav_henri_i_de_champagne:
-  1244.1.1:
-    birth: pamplona #TODO: Date and location guessed, check if better data is available
-    first_name: henri
-    dynasty: de_champagne_dynasty
-    father: nav_thibaut_ii_de_champagne_1 #TODO: check if this makes sense
-    adm: 60
-    dip: 45
-    mil: 30
-    religion: catholic
-    culture: basque
-    tag: NAV
-  1274.7.22:
-    death: yes
-nav_henri_i_de_champagne_1:
-  1240.1.1:
-    birth: pamplona #TODO: Date and location guessed, check if better data is available
-    first_name: henri
-    dynasty: de_champagne_dynasty
-    adm: 60
-    dip: 45
-    mil: 30
-    religion: catholic
-    culture: basque
-    tag: NAV
-  1274.7.22:
-    death: yes
-nav_joan_i_de_champagne:
-  1271.1.14:
-    birth: pamplona #TODO: Location guessed, check if better data is available
-    first_name: joan
-    dynasty: de_champagne_dynasty
+nav_agnes_of_beaujeu:
+  1205:
+    birth: lyon #TODO: Beaujeu
+    first_name: name_agnes
     female: yes
-    father: nav_henri_i_de_champagne_1 #TODO: check if this makes sense
-    adm: 75
-    dip: 30
-    mil: 75
     religion: catholic
-    culture: basque
+    culture: arpitan
+    tag: FRA
+  1223:
+    spouse: nav_thibault_i_blois
+    tag: CHP
+  1231:
+    death: yes
+nav_margaret_of_bourbon:
+  1217:
+    birth: bourbon
+    first_name: name_margaret
+    female: yes
+    religion: catholic
+    culture: berrichon
+    tag: FRA
+  1232.9.12:
+    spouse: nav_thibault_i_blois
+    tag: CHP
+  1234.4.7:
     tag: NAV
+  1256.4.12:
+    death: yes
+bri_blanche_blois:
+  1226:
+    birth: troyes
+    first_name: name_blanche
+    dynasty: blois_dynasty
+    female: yes
+    father: nav_thibault_i_blois
+    mother: nav_agnes_of_beaujeu
+    religion: catholic
+    culture: champenais
+    tag: CHP
+  1234.4.7:
+    tag: NAV
+  1283.8.12:
+    death: yes
+nav_margaret_of_champagne:
+  1238: #unknown
+    birth: pamplona #unknown
+    first_name: name_margaret
+    dynasty: blois_dynasty
+    female: yes
+    father: nav_thibault_i_blois
+    mother: nav_margaret_of_bourbon
+    religion: catholic
+    culture: champenais
+    tag: NAV
+  1300: #unknown
+    death: yes
+nav_thibault_ii_blois:
+  1239.12.7:
+    birth: pamplona #unknown
+    first_name: name_theobald
+    nickname: the_young
+    dynasty: blois_dynasty # Should be blois_champagne
+    father: nav_thibault_i_blois
+    mother: nav_margaret_of_bourbon
+    adm: 76
+    dip: 53
+    mil: 36
+    religion: catholic
+    culture: champenais
+    tag: NAV
+    traits:
+      lawgiver: yes
+      just: yes
+  1270.12.4:
+    death: yes
+nav_isabella_of_france:
+  1241.3.2:
+    birth: paris #unknown
+    first_name: name_elizabeth
+    female: yes
+    religion: catholic
+    culture: french
+    tag: FRA
+  1255.4.6:
+    spouse: nav_thibault_ii_blois
+    tag: NAV
+  1271.4.17:
+    death: yes
+nav_beatrix_of_champagne:
+  1242:
+    birth: pamplona #unknown
+    first_name: name_beatrix
+    dynasty: blois_dynasty
+    female: yes
+    father: nav_thibault_i_blois
+    mother: nav_margaret_of_bourbon
+    religion: catholic
+    culture: champenais
+    tag: NAV
+  1295:
+    death: yes
+nav_henri_i_blois:
+  1244:
+    birth: pamplona #unknown
+    first_name: name_henry
+    dynasty: blois_dynasty # Should be blois_champagne
+    father: nav_thibault_i_blois
+    mother: nav_margaret_of_bourbon
+    adm: 78
+    dip: 72
+    mil: 38
+    religion: catholic
+    culture: champenais
+    tag: NAV
+    traits:
+      lawgiver: yes
+  1260:
+    nickname: the_fat
+  1274.7.22:
+    death: yes
+nav_blanche_of_artois:
+  1248:
+    birth: paris #unknown
+    first_name: name_blanche
+    female: yes
+    religion: catholic
+    culture: french
+    tag: FRA
+  1269.2:
+    spouse: nav_henri_i_blois
+    tag: NAV
+  1302.5.2:
+    death: yes
+fra_jeanne_i_blois:
+  1273.1.14:
+    birth: bar_sur_seine
+    first_name: name_joanna
+    dynasty: blois_dynasty # Should be blois_champagne
+    female: yes
+    father: nav_henri_i_blois
+    mother: nav_blanche_of_artois
+    religion: catholic
+    culture: champenais
+    tag: NAV
+  1284.8.16:
+    spouse: fra_philippe_iv_capet
   1305.4.4:
     death: yes
-nav_joan_i_de_champagne_1:
-  1244.1.1:
-    birth: pamplona #TODO: Date and location guessed, check if better data is available
-    first_name: joan
-    dynasty: de_champagne_dynasty
-    female: yes
-    adm: 75
-    dip: 30
-    mil: 75
+nav_philip_iii_evreux:
+  1306.3.27:
+    birth: evreux
+    first_name: name_philip
+    dynasty: de_evreux_dynasty #Start of the Evreux dynasty in Navarre
+    father: evr_louis_evreux
+    mother: evr_margaret_artois
+    adm: 90
+    dip: 64
+    mil: 37
     religion: catholic
-    culture: basque
-    tag: NAV
+    culture: french
+    tag: FRA
+    estate: nobles_estate
+    traits:
+      lawgiver: yes
   1328.2.1:
+    nickname: Wise
+    tag: NAV
+    estate: ---
+  1343.9.16:
     death: yes
-nav_joan_ii_de_evreux:
-  1298.1.1:
-    birth: pamplona #TODO: Date and location guessed, check if better data is available
-    first_name: joan
-    dynasty: de_evreux_dynasty
+nav_jeanne_ii_capet:
+  1312.1.28:
+    birth: gisors # Conflans
+    first_name: name_joanna
+    dynasty: capet_dynasty
     female: yes
-    adm: 30
-    dip: 30
-    mil: 30
+    father: fra_louis_x_capet
+    mother: fra_margarete_burgundian
+    adm: 60
+    dip: 49
+    mil: 60
     religion: catholic
-    culture: basque
+    culture: french
+    tag: FRA
+    traits:
+      lawgiver: yes
+  1318.6.18:
+    spouse: nav_philip_iii_evreux
+  1328.2.1:
     tag: NAV
   1349.10.6:
     death: yes
-nav_carlos_ii_de_evreux:
+nav_joana_evreux:
+  1326:
+    birth: evreux
+    first_name: name_joanna
+    dynasty: de_evreux_dynasty
+    female: yes
+    father: nav_philip_iii_evreux
+    mother: nav_jeanne_ii_capet
+    religion: catholic
+    culture: french
+    tag: FRA
+  1328.2.1:
+    tag: NAV
+  1387.7.3:
+    death: yes
+nav_maria_evreux:
+  1329:
+    birth: evreux
+    first_name: name_mary
+    dynasty: de_evreux_dynasty
+    female: yes
+    father: nav_philip_iii_evreux
+    mother: nav_jeanne_ii_capet
+    religion: catholic
+    culture: french
+    tag: NAV
+  1337.7.25:
+    spouse: ara_peter_iv_arago
+    tag: ARA
+  1347.4.29:
+    death: yes
+nav_blanche_evreux:
+  1331:
+    birth: evreux
+    first_name: name_blanche
+    dynasty: de_evreux_dynasty
+    female: yes
+    father: nav_philip_iii_evreux
+    mother: nav_jeanne_ii_capet
+    adm: 9
+    dip: 9
+    mil: 3
+    religion: catholic
+    culture: french
+    tag: NAV
+  1350.1.29:
+    nickname: the_beauty
+  1398.10.5:
+    death: yes
+nav_charles_ii_evreux:
   1332.10.10:
-    birth: pamplona #TODO: Location guessed, check if better data is available
-    first_name: carlos
+    birth: evreux
+    first_name: name_charles
     dynasty: de_evreux_dynasty
-    father: nav_joan_ii_de_evreux #TODO: check if this makes sense
-    adm: 45
-    dip: 30
-    mil: 45
+    father: nav_philip_iii_evreux
+    mother: nav_jeanne_ii_capet
+    adm: 5
+    dip: 3
+    mil: 5
     religion: catholic
-    culture: basque
+    culture: french
     tag: NAV
+    child_traits:
+      child_ambitious: yes
+  1349.10.6:
+    nickname: Bad
   1387.1.1:
     death: yes
-nav_carlos_ii_de_evreux_1:
-  1319.1.1:
-    birth: pamplona #TODO: Date and location guessed, check if better data is available
-    first_name: carlos
+nav_agnes_evreux:
+  1334:
+    birth: evreux
+    first_name: name_agnes
     dynasty: de_evreux_dynasty
-    adm: 45
-    dip: 30
-    mil: 45
+    female: yes
+    father: nav_philip_iii_evreux
+    mother: nav_jeanne_ii_capet
     religion: catholic
-    culture: basque
+    culture: french
     tag: NAV
-  1387.1.1:
+  1397.2.4:
     death: yes
-nav_carlos_iii_de_evreux:
+nav_philip_evreux:
+  1336:
+    birth: evreux
+    first_name: name_philip
+    dynasty: de_evreux_dynasty
+    father: nav_philip_iii_evreux
+    mother: nav_jeanne_ii_capet
+    religion: catholic
+    culture: french
+    tag: NAV
+  1363:
+    death: yes
+nav_louis_evreux:
+  1341:
+    birth: evreux
+    first_name: name_louis
+    dynasty: de_evreux_dynasty
+    father: nav_philip_iii_evreux
+    mother: nav_jeanne_ii_capet
+    religion: catholic
+    culture: french
+    tag: NAV
+  1376:
+    death: yes
+nav_joan_valois:
+  1343.6.24:
+    birth: paris #TODO: Châteauneuf-sur-Loire
+    first_name: name_joanna
+    dynasty: valois_dynasty
+    female: yes
+    father: fra_jean_ii_valois
+    mother: fra_jutta_luxembourg
+    religion: catholic
+    culture: french
+    tag: FRA
+  1352.2.12:
+    spouse: nav_charles_ii_evreux
+    tag: NAV
+  1373.11.3:
+    death: yes
+nav_marie_evreux:
+  1360:
+    birth: evreux #unknown
+    first_name: name_mary
+    dynasty: de_evreux_dynasty
+    father: nav_charles_ii_evreux
+    mother: nav_joan_valois
+    religion: catholic
+    culture: french
+    tag: NAV
+  1410: #After 1400
+    death: yes
+nav_charles_iii_de_evreux:
   1361.7.22:
-    birth: pamplona #TODO: Location guessed, check if better data is available
-    first_name: carlos
+    birth: mantes
+    first_name: name_charles
     dynasty: de_evreux_dynasty
-    father: nav_carlos_ii_de_evreux_1 #TODO: check if this makes sense
+    father: nav_charles_ii_evreux
+    mother: nav_joan_valois
     adm: 30
     dip: 45
     mil: 45
     religion: catholic
-    culture: basque
+    culture: french
     tag: NAV
+  1387.1.1:
+    nickname: nick_the_noble
   1425.9.8:
     death: yes
-nav_carlos_iii_de_evreux_1:
-  1357.1.1:
-    birth: pamplona #TODO: Date and location guessed, check if better data is available
-    first_name: carlos
+nav_eleanor_of_castile:
+  1363:
+    birth: toledo #unknown
+    first_name: name_eleanor
+    dynasty: trastamara_dynasty
+    female: yes
+    father: cas_enrique_ii_trastamara
+    mother: cas_juana_manuel_burgundy
+    religion: catholic
+    culture: castilian
+    tag: CAS
+  1375.5.27:
+    spouse: nav_charles_iii_de_evreux
+    tag: NAV
+  1416.3.5:
+    death: yes
+nav_pedro_de_evreux:
+  1366.3.31:
+    birth: evreux
+    first_name: name_peter
     dynasty: de_evreux_dynasty
-    adm: 30
-    dip: 45
-    mil: 45
+    father: nav_charles_ii_evreux
+    mother: nav_joan_valois
     religion: catholic
-    culture: basque
+    culture: french
     tag: NAV
-  1425.9.8:
+  1412.7.29:
     death: yes
-nav_juan_ii_de_trastamara:
-  1395.1.1:
-    birth: pamplona #TODO: Date and location guessed, check if better data is available
-    first_name: juan
-    dynasty: de_trastamara_dynasty
-    adm: 75
-    dip: 30
-    mil: 15
+nav_joan_evreux:
+  1382:
+    birth: pamplona #unknown
+    first_name: name_joanna
+    dynasty: de_evreux_dynasty
+    female: yes
+    father: nav_charles_iii_de_evreux
+    mother: nav_eleanor_of_castile
     religion: catholic
     culture: basque
     tag: NAV
-  1479.1.20:
+  1413.7:
+    death: yes
+nav_lancelot:
+  1386.4.15:
+    birth: pamplona #unknown
+    first_name: name_lancelot
+    dynasty: de_evreux_dynasty
+    father: nav_charles_iii_de_evreux
+    religion: catholic
+    culture: basque
+    tag: NAV
+    traits:
+      bastard: yes
+  1404:
+    estate: clergy_estate
+  1420.1.8:
+    death: yes
+nav_beatrice_evreux:
+  1386.10.23:
+    birth: burgos #Castile
+    first_name: name_beatrix
+    dynasty: de_evreux_dynasty
+    female: yes
+    father: nav_charles_iii_de_evreux
+    mother: nav_eleanor_of_castile
+    religion: catholic
+    culture: basque
+    tag: NAV
+  1407.12.14:
+    death: yes
+nav_blanche_i_evreux:
+  1387.7.6:
+    birth: pamplona
+    first_name: name_blanche
+    dynasty: de_evreux_dynasty
+    female: yes
+    father: nav_charles_iii_de_evreux
+    mother: nav_eleanor_of_castile
+    religion: catholic
+    culture: basque
+    tag: NAV
+  1402.12.26:
+    spouse: sic_martin_i_arago
+    tag: SIC
+  1415.11:
+    tag: NAV
+  1419.11.6:
+    spouse: ara_joan_ii_de_trastamara
+    tag: ARA
+  1425.9.8:
+    tag: NAV
+  1441.4.1:
+    death: yes
+nav_isabel_evreux:
+  1395:
+    birth: pamplona
+    first_name: name_elizabeth
+    dynasty: de_evreux_dynasty
+    female: yes
+    father: nav_charles_iii_de_evreux
+    mother: nav_eleanor_of_castile
+    religion: catholic
+    culture: basque
+    tag: NAV
+  1450.8.31:
+    death: yes
+nav_charles_evreux:
+  1397:
+    birth: pamplona #unknown
+    first_name: name_charles
+    dynasty: de_evreux_dynasty
+    father: nav_charles_iii_de_evreux
+    mother: nav_eleanor_of_castile
+    religion: catholic
+    culture: basque
+    tag: NAV
+  1402:
+    death: yes
+nav_charles_iv_trastamara:
+  1421.5.29:
+    birth: penafiel
+    first_name: name_charles
+    dynasty: trastamara_dynasty
+    father: ara_joan_ii_de_trastamara
+    mother: nav_blanche_i_evreux
+    religion: catholic
+    culture: basque
+    tag: NAV
+  1461.9.23:
+    death: yes
+nav_blanche_ii_trastamara:
+  1424.6.9:
+    birth: olite
+    first_name: name_blanche
+    dynasty: trastamara_dynasty
+    female: yes
+    father: ara_joan_ii_de_trastamara
+    mother: nav_blanche_i_evreux
+    religion: catholic
+    culture: basque
+    tag: NAV
+  1440:
+    spouse: cas_enrique_iv_de_trastamara
+    tag: CAS
+  1453.5:
+    spouse: ---
+    tag: NAV
+  1464.12.2:
     death: yes
 nav_leonor_i_de_trastamara:
-  1449.1.1:
-    birth: pamplona #TODO: Date and location guessed, check if better data is available
-    first_name: leonor
-    dynasty: de_trastamara_dynasty
+  1426.2.2:
+    birth: olite
+    first_name: name_eleanor
+    dynasty: trastamara_dynasty
     female: yes
-    adm: 30
-    dip: 45
-    mil: 15
+    father: ara_joan_ii_de_trastamara
+    mother: nav_blanche_i_evreux
     religion: catholic
     culture: basque
     tag: NAV
+  1441:
+    spouse: foi_gaston_iv_de_foix
+    tag: FOI
   1479.2.12:
     death: yes
-nav_francisco_i_febo_de_foix:
+nav_francis_phoebus_foix:
   1469.1.1:
-    birth: pamplona #TODO: Date and location guessed, check if better data is available
-    first_name: francisco_i_febo
-    dynasty: de_foix_dynasty
-    father: nav_leonor_i_de_trastamara #TODO: check if this makes sense
+    birth: pau
+    first_name: name_frances
+    dynasty: foix_dynasty
     adm: 15
     dip: 30
     mil: 15
     religion: catholic
-    culture: basque
+    culture: gascon
+    tag: FOI
+  1479.2.12:
     tag: NAV
-  1483.1.1:
-    death: yes
-nav_francisco_i_febo_de_foix_1:
-  1449.1.1:
-    birth: pamplona #TODO: Date and location guessed, check if better data is available
-    first_name: francisco_i_febo
-    dynasty: de_foix_dynasty
-    adm: 15
-    dip: 30
-    mil: 15
-    religion: catholic
-    culture: basque
-    tag: NAV
-  1483.1.1:
+  1483.1.7:
     death: yes
 nav_catalina_i_de_foix:
-  1468.1.1:
-    birth: pamplona #TODO: Date and location guessed, check if better data is available
-    first_name: catalina
-    dynasty: de_foix_dynasty
-    female: yes
-    father: nav_francisco_i_febo_de_foix_1 #TODO: check if this makes sense
-    adm: 15
-    dip: 30
-    mil: 15
-    religion: catholic
-    culture: basque
-    tag: NAV
-  1518.2.18:
-    death: yes
-nav_catalina_i_de_foix_1:
-  1453.1.1:
-    birth: pau #TODO: Date and location guessed, check if better data is available
-    first_name: catalina
-    dynasty: de_foix_dynasty
+  1468:
+    birth: pau
+    first_name: name_catherine
+    dynasty: foix_dynasty
     female: yes
     adm: 15
     dip: 30
     mil: 15
     religion: catholic
-    culture: basque
+    culture: gascon
+    tag: FOI
+  1479.2.12:
     tag: NAV
-  1517.1.1:
+  1517.2.12:
     death: yes
-nav_enrique_ii_dalbret:
+nav_juan_iii_albret:
+  1469:
+    birth: segur
+    first_name: name_john
+    dynasty: albret_dynasty
+    religion: catholic
+    culture: limousin
+    tag: FRA
+  1484:
+    spouse: nav_catalina_i_de_foix
+    tag: NAV
+  1516.6.17:
+    death: yes
+nav_marguerite_of_angouleme:
+  1492.4.11:
+    birth: angouleme
+    first_name: name_margaret
+    female: yes
+    religion: catholic
+    culture: saintongeais
+    tag: FRA
+  1526:
+    spouse: nav_enrique_ii_albret
+    tag: NAV
+  1549.12.21:
+    death: yes
+nav_anne_albret:
+  1492.5.19:
+    birth: pamplona #unknown
+    first_name: name_anna
+    dynasty: albret_dynasty
+    female: yes
+    father: nav_juan_iii_albret
+    mother: nav_catalina_i_de_foix
+    religion: catholic
+    culture: gascon
+    tag: NAV
+  1532.8.15:
+    death: yes
+nav_enrique_ii_albret:
   1503.4.18:
-    birth: pamplona #TODO: Location guessed, check if better data is available
-    first_name: enrique
-    dynasty: dalbret_dynasty
-    father: nav_catalina_i_de_foix_1 #TODO: check if this makes sense
+    birth: sanguesa
+    first_name: name_henry
+    dynasty: albret_dynasty
+    father: nav_juan_iii_albret
+    mother: nav_catalina_i_de_foix
     adm: 60
     dip: 75
     mil: 30
     religion: catholic
-    culture: basque
+    culture: gascon
     tag: NAV
-  1555.5.25:
+  1555.5.24:
     death: yes
-nav_enrique_ii_dalbret_1:
-  1487.1.1:
-    birth: pau #TODO: Date and location guessed, check if better data is available
-    first_name: enrique
-    dynasty: dalbret_dynasty
-    adm: 60
-    dip: 75
-    mil: 30
+nav_charles_albret:
+  1510.12.12:
+    birth: pau
+    first_name: name_charles
+    dynasty: albret_dynasty
+    father: nav_juan_iii_albret
+    mother: nav_catalina_i_de_foix
     religion: catholic
-    culture: basque
+    culture: gascon
     tag: NAV
-  1555.5.25:
+  1528.9:
     death: yes
-nav_juana_iii_dalbret:
-  1528.1.7:
-    birth: pau #TODO: Location guessed, check if better data is available
-    first_name: juana
-    dynasty: dalbret_dynasty
+nav_isabella_albret:
+  1512:
+    birth: pau #unknown
+    first_name: name_elizabeth
+    dynasty: albret_dynasty
     female: yes
-    father: nav_enrique_ii_dalbret_1 #TODO: check if this makes sense
+    father: nav_juan_iii_albret
+    mother: nav_catalina_i_de_foix
+    religion: catholic
+    culture: gascon
+    tag: NAV
+  1562: #After 1560
+    death: yes
+nav_antoine_bourbon:
+  1518.4.22:
+    birth: pau #TODO: La Fère
+    first_name: name_anthony
+    dynasty: bourbon_dynasty
+    religion: catholic
+    culture: french
+    tag: FRA
+  1548.10.20:
+    spouse: nav_juana_iii_albret
+    tag: NAV
+  1562.11.17:
+    death: yes
+nav_juana_iii_albret:
+  1528.11.16:
+    birth: paris #TODO: Saint-Germain-en-Laye
+    first_name: name_joanna
+    dynasty: albret_dynasty
+    female: yes
+    father: nav_enrique_ii_albret
+    mother: nav_marguerite_of_angouleme
     adm: 75
     dip: 75
     mil: 30
     religion: catholic
-    culture: basque
+    culture: gascon
     tag: NAV
-  1572.6.9:
-    death: yes
-nav_juana_iii_dalbret_1:
-  1525.1.1:
-    birth: pau #TODO: Date and location guessed, check if better data is available
-    first_name: juana
-    dynasty: dalbret_dynasty
-    female: yes
-    adm: 75
-    dip: 75
-    mil: 30
+  1560:
     religion: calvinist
-    culture: basque
-    tag: NAV
   1572.6.9:
     death: yes
 nav_enrique_iii_de_bourbon:

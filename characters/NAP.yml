@@ -751,15 +751,20 @@ nap_renato_i_de_valois_1:
   1458.6.27:
     death: yes
 nap_ferrante_i_de_trastamara:
-  1428.1.1:
-    birth: naples #TODO: Date and location guessed, check if better data is available
-    first_name: ferrante
-    dynasty: de_trastamara_dynasty
-    adm: 45
+  1424.6.2:
+    birth: valencia
+    first_name: name_ferdinand
+    dynasty: trastamara_dynasty
+    father: ara_alfons_v_de_trastamara
+    adm: 65
     dip: 75
     mil: 75
     religion: catholic
-    culture: neapolitan
+    culture: catalan
+    tag: ARA
+    traits:
+      bastard: yes
+  1458.6.27:
     tag: NAP
   1494.1.26:
     death: yes
@@ -767,7 +772,7 @@ nap_alfonso_ii_de_trastamara:
   1448.11.4:
     birth: naples #TODO: Location guessed, check if better data is available
     first_name: alfonso
-    dynasty: de_trastamara_dynasty
+    dynasty: trastamara_dynasty
     father: nap_ferrante_i_de_trastamara #TODO: check if this makes sense
     adm: 15
     dip: 30
@@ -781,7 +786,7 @@ nap_alfonso_ii_de_trastamara_1:
   1464.1.1:
     birth: naples #TODO: Date and location guessed, check if better data is available
     first_name: alfonso
-    dynasty: de_trastamara_dynasty
+    dynasty: trastamara_dynasty
     adm: 15
     dip: 30
     mil: 15
@@ -794,7 +799,7 @@ nap_ferrante_ii_de_trastamara:
   1469.8.26:
     birth: naples #TODO: Location guessed, check if better data is available
     first_name: ferrante
-    dynasty: de_trastamara_dynasty
+    dynasty: trastamara_dynasty
     father: nap_alfonso_ii_de_trastamara_1 #TODO: check if this makes sense
     adm: 30
     dip: 45
@@ -808,7 +813,7 @@ nap_ferrante_ii_de_trastamara_1:
   1465.1.1:
     birth: naples #TODO: Date and location guessed, check if better data is available
     first_name: ferrante
-    dynasty: de_trastamara_dynasty
+    dynasty: trastamara_dynasty
     adm: 30
     dip: 45
     mil: 30
@@ -821,7 +826,7 @@ nap_federigo_iv_de_trastamara:
   1452.4.19:
     birth: naples #TODO: Location guessed, check if better data is available
     first_name: federigo
-    dynasty: de_trastamara_dynasty
+    dynasty: trastamara_dynasty
     father: nap_ferrante_ii_de_trastamara_1 #TODO: check if this makes sense
     adm: 15
     dip: 15
@@ -835,7 +840,7 @@ nap_federigo_iv_de_trastamara_1:
   1466.1.1:
     birth: turin #TODO: Date and location guessed, check if better data is available
     first_name: federigo
-    dynasty: de_trastamara_dynasty
+    dynasty: trastamara_dynasty
     adm: 15
     dip: 15
     mil: 15

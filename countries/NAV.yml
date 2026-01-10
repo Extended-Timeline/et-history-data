@@ -17,59 +17,130 @@
   ruler: nav_fortun_garces
 905:
   ruler: nav_sancho_i_jimena
+  regnal_number: 1
 925.1.1:
   ruler: nav_jimeno_i_jimena
+  regnal_number: 1
 931.5.29:
   ruler: nav_garcia_i_jimena
+  regnal_number: 1
 970.2.22:
   ruler: nav_sancho_ii_jimena
+  regnal_number: 2
 994.12.1:
   ruler: nav_garcia_ii_jimena
+  regnal_number: 2
 1004:
   regent: nav_jimena_fernandez
   heir: nav_sancho_iii_jimena
 1010:
   ruler: nav_sancho_iii_jimena
+  regnal_number: 3
 1035.10.18:
   ruler: nav_garcia_iii_jimena
+  regnal_number: 3
 1054.9.15:
-  ruler: nav_sancho_iv_jimenez_1
-1134.9.8:
-  ruler: nav_garcia_ramirez_jimenez
+  ruler: nav_sancho_iv_jimena
+  regnal_number: 4
+1076.6.4:
+  ruler: ara_sancho_i_aragon
+  regnal_number: 5
+1094.6.4:
+  ruler: ara_pedro_i_aragon
+  regnal_number: 1
+1104.9.28:
+  ruler: ara_alfonso_i_aragon
+  regnal_number: 1
+1134.9.7:
+  ruler: nav_garcia_iv_jimena
+  regnal_number: 4
 1150.11.21:
-  ruler: nav_sancho_vi_jimenez_1
+  ruler: nav_sancho_vi_jimena
+  regnal_number: 6
 1194.6.27:
-  ruler: nav_sancho_vii_jimenez_1
+  ruler: nav_sancho_vii_jimena
+  regnal_number: 7
 1234.4.7:
-  ruler: nav_thibaut_i_de_champagne
+  ruler: nav_thibault_i_blois
+  regnal_number: 1
 1253.7.8:
-  ruler: nav_thibaut_ii_de_champagne_1
+  regent: nav_margaret_of_bourbon
+  heir: nav_thibault_ii_blois
+1256:
+  ruler: nav_thibault_ii_blois
+  regnal_number: 2
 1270.12.4:
-  ruler: nav_henri_i_de_champagne_1
+  ruler: nav_henri_i_blois
+  regnal_number: 1
 1274.7.22:
-  ruler: nav_joan_i_de_champagne_1
+  regent: nav_blanche_of_artois
+  heir: fra_jeanne_i_blois
+1284.8.16:
+  regnal_numbers:
+    name_philip: 1
+  ruler: fra_jeanne_i_blois
+  regnal_number: 1
+1305.4.2:
+  ruler: fra_louis_x_capet
+  regnal_number: 1
+1316.6.5:
+  regent: fra_philippe_v_capet
+  #heir: the unborn son of Louis X
+1316.11.15:
+  regent: fra_philippe_v_capet
+  heir: fra_jean_i_capet
+1316.11.19:
+  ruler: fra_philippe_v_capet
+  regnal_number: 2
+1322.1.3:
+  ruler: fra_charles_iv_capet
+  regnal_number: 1
 1328.2.1:
-  ruler: nav_joan_ii_de_evreux
+  regnal_numbers:
+    name_philip: 3
+  ruler: nav_jeanne_ii_capet
+  regnal_number: 2
 1349.10.6:
-  ruler: nav_carlos_ii_de_evreux_1
+  ruler: nav_charles_ii_evreux
+  regnal_number: 2
 1387.1.1:
-  ruler: nav_carlos_iii_de_evreux_1
+  ruler: nav_charles_iii_de_evreux
+  regnal_number: 3
 1425.9.8:
-  ruler: nav_juan_ii_de_trastamara
+  ruler: nav_blanche_i_evreux
+  regnal_number: 1
+1441.4.1:
+  ruler: ara_joan_ii_de_trastamara
+  regnal_number: 2
 1479.1.20:
   ruler: nav_leonor_i_de_trastamara
+  regnal_number: 1
 1479.2.12:
-  ruler: nav_francisco_i_febo_de_foix_1
-1483.1.1:
-  ruler: nav_catalina_i_de_foix_1
+  regent: random #TODO: Magdalena of Valois
+  heir: nav_francis_phoebus_foix
+1483.1.7:
+  ruler: nav_catalina_i_de_foix
+  regnal_number: 1
 1512.9.1:
   government: iberian_monarchy
   capital: pau
 1517.1.1:
-  ruler: nav_enrique_ii_dalbret_1
+  ruler: nav_enrique_ii_albret
+  regnal_number: 2
 1555.5.25:
-  ruler: nav_juana_iii_dalbret_1
-1560.1.1:
+  ruler: nav_juana_iii_albret
+  regnal_number: 3
+1560:
   religion: calvinist
 1572.6.9:
-  ruler: nav_enrique_iii_de_bourbon_1
+  ruler: fra_henri_iv_bourbon
+  regnal_number: 3
+1593.7.25:
+  religion: catholic
+1610.5.14:
+  regent: fra_maria_de_medici
+  heir: fra_louis_xiii_bourbon
+1617.4.24:
+  ruler: fra_louis_xiii_bourbon
+  regnal_number: 2
+#1620.10.20 Merged with France

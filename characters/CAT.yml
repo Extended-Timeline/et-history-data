@@ -1,525 +1,506 @@
-cat_rostany_de_girona:
-  755.1.1:
-    birth: barcelona #TODO: Date and location guessed, check if better data is available
-    first_name: rostany
-    dynasty: de_girona_dynasty
-    adm: 30
-    dip: 30
-    mil: 15
+cat_william_of_gellone:
+  755:
+    birth: soissons #northern France
+    first_name: name_william
+    dynasty: gellone_dynasty
     religion: chalcedonism
-    culture: catalan
-    tag: CAT
-  801.1.1:
+    culture: french
+    tag: FRA
+  814.5.28:
     death: yes
 cat_bera_i_de_barcelona:
-  771.1.1:
-    birth: barcelona #TODO: Date and location guessed, check if better data is available
+  775: #unknown
+    birth: toulouse #unknown
     first_name: bera
     dynasty: de_barcelona_dynasty
-    adm: 45
-    dip: 15
-    mil: 15
     religion: chalcedonism
-    culture: catalan
+    culture: languedocien
     tag: CAT
-  820.1.1:
+  844:
     death: yes
 cat_rampo_i_de_barcelona:
-  780.1.1:
-    birth: barcelona #TODO: Date and location guessed, check if better data is available
+  780: #unknown
+    birth: barcelona #unknown
     first_name: rampo
     dynasty: de_barcelona_dynasty
-    father: cat_bera_i_de_barcelona #TODO: check if this makes sense
-    adm: 45
-    dip: 15
-    mil: 15
     religion: chalcedonism
     culture: catalan
     tag: CAT
-  826.1.1:
-    death: yes
-cat_rampo_i_de_barcelona_1:
-  790.1.1:
-    birth: barcelona #TODO: Date and location guessed, check if better data is available
-    first_name: rampo
-    dynasty: de_barcelona_dynasty
-    adm: 45
-    dip: 15
-    mil: 15
-    religion: chalcedonism
-    culture: catalan
-    tag: CAT
-  826.1.1:
+  825:
     death: yes
 cat_bernat_i_de_barcelona:
-  800.1.1:
-    birth: barcelona #TODO: Date and location guessed, check if better data is available
-    first_name: bernat
-    dynasty: de_barcelona_dynasty
-    father: cat_rampo_i_de_barcelona_1 #TODO: check if this makes sense
-    adm: 75
-    dip: 75
-    mil: 75
+  795: #unknown
+    birth: barcelona #unknown
+    first_name: name_bernard
+    dynasty: gellone_dynasty
+    father: cat_william_of_gellone
     religion: chalcedonism
     culture: catalan
     tag: CAT
-  844.1.1:
+  844:
     death: yes
-cat_bernat_i_de_barcelona_1:
-  796.1.1:
-    birth: barcelona #TODO: Date and location guessed, check if better data is available
-    first_name: bernat
-    dynasty: de_barcelona_dynasty
-    adm: 75
-    dip: 75
-    mil: 75
+cat_berengar_the_wise:
+  800: #unknown
+    birth: udine #unknown
+    first_name: name_berengar
+    nickname: the_wise
+    dynasty: unrochid_dynasty
     religion: chalcedonism
-    culture: catalan
+    culture: friulian
     tag: CAT
-  844.1.1:
+  835.6:
     death: yes
 cat_sunifred_i_de_barcelona:
-  800.1.1:
-    birth: barcelona #TODO: Date and location guessed, check if better data is available
+  800: #unknown
+    birth: barcelona #unknown
     first_name: sunifred
-    dynasty: de_barcelona_dynasty
-    father: cat_bernat_i_de_barcelona_1 #TODO: check if this makes sense
-    adm: 60
-    dip: 15
-    mil: 75
+    dynasty: barcelona_dynasty
     religion: chalcedonism
     culture: catalan
     tag: CAT
-  848.1.1:
-    death: yes
-cat_sunifred_i_de_barcelona_1:
-  814.1.1:
-    birth: barcelona #TODO: Date and location guessed, check if better data is available
-    first_name: sunifred
-    dynasty: de_barcelona_dynasty
-    adm: 60
-    dip: 15
-    mil: 75
-    religion: chalcedonism
-    culture: catalan
-    tag: CAT
-  848.1.1:
+  848:
     death: yes
 cat_guillem_i_de_barcelona:
-  810.1.1:
-    birth: barcelona #TODO: Date and location guessed, check if better data is available
-    first_name: guillem
-    dynasty: de_barcelona_dynasty
-    father: cat_sunifred_i_de_barcelona_1 #TODO: check if this makes sense
-    adm: 75
-    dip: 60
-    mil: 60
+  826.11.29:
+    birth: barcelona #unknown
+    first_name: name_william
+    dynasty: gellone_dynasty
+    father: cat_bernat_i_de_barcelona
     religion: chalcedonism
     culture: catalan
     tag: CAT
-  850.1.1:
-    death: yes
-cat_guillem_i_de_barcelona_1:
-  818.1.1:
-    birth: barcelona #TODO: Date and location guessed, check if better data is available
-    first_name: guillem
-    dynasty: de_barcelona_dynasty
-    adm: 75
-    dip: 60
-    mil: 60
-    religion: chalcedonism
-    culture: catalan
-    tag: CAT
-  850.1.1:
-    death: yes
-cat_aleran_i_de_barcelona:
-  810.1.1:
-    birth: barcelona #TODO: Date and location guessed, check if better data is available
-    first_name: aleran
-    dynasty: de_barcelona_dynasty
-    father: cat_guillem_i_de_barcelona_1 #TODO: check if this makes sense
-    adm: 30
-    dip: 75
-    mil: 15
-    religion: chalcedonism
-    culture: catalan
-    tag: CAT
-  852.1.1:
-    death: yes
-cat_aleran_i_de_barcelona_1:
-  820.1.1:
-    birth: barcelona #TODO: Date and location guessed, check if better data is available
-    first_name: aleran
-    dynasty: de_barcelona_dynasty
-    adm: 30
-    dip: 75
-    mil: 15
-    religion: chalcedonism
-    culture: catalan
-    tag: CAT
-  852.1.1:
+  850:
     death: yes
 cat_odalric_i_de_barcelona:
-  810.1.1:
-    birth: barcelona #TODO: Date and location guessed, check if better data is available
+  805:
+    birth: udine #unknown
     first_name: odalric
-    dynasty: de_barcelona_dynasty
-    father: cat_aleran_i_de_barcelona_1 #TODO: check if this makes sense
-    adm: 75
-    dip: 30
-    mil: 30
+    dynasty: hunfriding_dynasty
     religion: chalcedonism
     culture: catalan
     tag: CAT
-  858.1.1:
+  858:
     death: yes
-cat_odalric_i_de_barcelona_1:
-  822.1.1:
-    birth: barcelona #TODO: Date and location guessed, check if better data is available
-    first_name: odalric
+cat_aleran_i_de_barcelona:
+  810: #unknown
+    birth: barcelona #unknown
+    first_name: aleran
     dynasty: de_barcelona_dynasty
-    adm: 75
-    dip: 30
-    mil: 30
     religion: chalcedonism
     culture: catalan
     tag: CAT
-  858.1.1:
+  852:
     death: yes
 cat_humfrid_i_de_barcelona:
-  820.1.1:
+  820:
     birth: barcelona #TODO: Date and location guessed, check if better data is available
     first_name: humfrid
-    dynasty: de_barcelona_dynasty
-    father: cat_odalric_i_de_barcelona_1 #TODO: check if this makes sense
-    adm: 75
-    dip: 15
-    mil: 15
+    dynasty: hunfriding_dynasty
     religion: chalcedonism
     culture: catalan
     tag: CAT
-  864.1.1:
-    death: yes
-cat_humfrid_i_de_barcelona_1:
-  828.1.1:
-    birth: barcelona #TODO: Date and location guessed, check if better data is available
-    first_name: humfrid
-    dynasty: de_barcelona_dynasty
-    adm: 75
-    dip: 15
-    mil: 15
-    religion: chalcedonism
-    culture: catalan
-    tag: CAT
-  865.1.1:
+  865:
     death: yes
 cat_bernat_ii_de_barcelona:
-  830.1.1:
-    birth: barcelona #TODO: Date and location guessed, check if better data is available
-    first_name: bernat
+  830:
+    birth: poitiers #unknown
+    first_name: name_bernard
     dynasty: de_barcelona_dynasty
-    father: cat_humfrid_i_de_barcelona_1 #TODO: check if this makes sense
-    adm: 60
-    dip: 60
-    mil: 45
     religion: chalcedonism
     culture: catalan
     tag: CAT
-  878.1.1:
+  867:
+    religion: catholic
+  878:
     death: yes
-cat_bernat_ii_de_barcelona_1:
-  835.1.1:
-    birth: barcelona #TODO: Date and location guessed, check if better data is available
-    first_name: bernat
-    dynasty: de_barcelona_dynasty
-    adm: 60
-    dip: 60
-    mil: 45
+cat_guifre_i_barcelona:
+  840:
+    birth: girona
+    first_name: name_wilfred
+    nickname: nick_the_hairy
+    dynasty: barcelona_dynasty
+    father: cat_sunifred_i_de_barcelona
+    adm: 81
+    dip: 59
+    mil: 47
+    religion: chalcedonism
+    culture: catalan
+    tag: CAT
+    traits:
+      architectural_visionary: yes
+      midas_touched: yes
+  867:
+    religion: catholic
+  897.8.11:
+    death: yes
+cat_guinidilda:
+  855: #unknown
+    birth: barcelona #unknown
+    first_name: guinidilda
+    female: yes
+    religion: chalcedonism
+    culture: catalan
+    tag: CAT
+  867:
+    religion: catholic
+  870:
+    spouse: cat_guifre_i_barcelona
+  900: #unknown
+    death: yes
+cat_guifre_ii_borrell_barcelona:
+  874:
+    birth: girona
+    first_name: name_wilfred
+    dynasty: barcelona_dynasty
+    father: cat_guifre_i_barcelona
+    mother: cat_guinidilda
+    adm: 31
+    dip: 49
+    mil: 42
     religion: catholic
     culture: catalan
     tag: CAT
-  878.1.1:
+    traits:
+      architectural_visionary: yes
+  911.4.26:
     death: yes
-cat_wilfred_i_de_sunifred:
-  848.1.1:
-    birth: barcelona #TODO: Date and location guessed, check if better data is available
-    first_name: wilfred
-    dynasty: de_sunifred_dynasty
-    adm: 60
-    dip: 45
-    mil: 75
+cat_miro_barcelona:
+  878:
+    birth: girona
+    first_name: name_miron
+    dynasty: barcelona_dynasty
+    father: cat_guifre_i_barcelona
+    mother: cat_guinidilda
     religion: catholic
     culture: catalan
     tag: CAT
-  897.1.1:
+  927:
     death: yes
-cat_wilfred_ii_de_sunifred:
-  870.1.1:
-    birth: barcelona #TODO: Date and location guessed, check if better data is available
-    first_name: wilfred
-    dynasty: de_sunifred_dynasty
-    father: cat_wilfred_i_de_sunifred #TODO: check if this makes sense
-    adm: 30
-    dip: 75
-    mil: 30
-    religion: catholic
-    culture: catalan
-    tag: CAT
-  911.1.1:
-    death: yes
-cat_wilfred_ii_de_sunifred_1:
-  867.1.1:
-    birth: barcelona #TODO: Date and location guessed, check if better data is available
-    first_name: wilfred
-    dynasty: de_sunifred_dynasty
-    adm: 30
-    dip: 75
-    mil: 30
-    religion: catholic
-    culture: catalan
-    tag: CAT
-  911.1.1:
-    death: yes
-cat_sunyer_i_de_sunifred:
-  890.1.1:
-    birth: barcelona #TODO: Date and location guessed, check if better data is available
-    first_name: sunyer
-    dynasty: de_sunifred_dynasty
-    father: cat_wilfred_ii_de_sunifred_1 #TODO: check if this makes sense
-    adm: 30
-    dip: 75
-    mil: 75
-    religion: catholic
-    culture: catalan
-    tag: CAT
-  947.1.1:
-    death: yes
-cat_sunyer_i_de_sunifred_1:
-  881.1.1:
-    birth: barcelona #TODO: Date and location guessed, check if better data is available
-    first_name: sunyer
-    dynasty: de_sunifred_dynasty
-    adm: 30
-    dip: 75
-    mil: 75
-    religion: catholic
-    culture: catalan
-    tag: CAT
-  947.1.1:
-    death: yes
-cat_borrell_ii_de_sunifred:
-  930.1.1:
-    birth: barcelona #TODO: Date and location guessed, check if better data is available
-    first_name: borrell
-    dynasty: de_sunifred_dynasty
-    father: cat_sunyer_i_de_sunifred_1 #TODO: check if this makes sense
-    adm: 30
-    dip: 75
-    mil: 15
-    religion: catholic
-    culture: catalan
-    tag: CAT
-  992.1.1:
-    death: yes
-cat_borrell_ii_de_sunifred_1:
-  917.1.1:
-    birth: barcelona #TODO: Date and location guessed, check if better data is available
-    first_name: borrell
-    dynasty: de_sunifred_dynasty
-    adm: 30
-    dip: 75
-    mil: 15
-    religion: catholic
-    culture: catalan
-    tag: CAT
-  992.1.1:
-    death: yes
-cat_ramon_borrell_i_de_sunifred:
-  972.1.1:
-    birth: barcelona #TODO: Date and location guessed, check if better data is available
-    first_name: ramon_borrell
-    dynasty: de_sunifred_dynasty
-    father: cat_borrell_ii_de_sunifred_1 #TODO: check if this makes sense
-    adm: 75
-    dip: 15
-    mil: 30
-    religion: catholic
-    culture: catalan
-    tag: CAT
-  1018.1.1:
-    death: yes
-cat_ramon_borrell_i_de_sunifred_1:
-  962.1.1:
-    birth: barcelona #TODO: Date and location guessed, check if better data is available
-    first_name: ramon_borrell
-    dynasty: de_sunifred_dynasty
-    adm: 75
-    dip: 15
-    mil: 30
-    religion: catholic
-    culture: catalan
-    tag: CAT
-  1018.1.1:
-    death: yes
-cat_berenguer_ramon_i_de_sunifred:
-  1005.1.1:
-    birth: barcelona #TODO: Date and location guessed, check if better data is available
-    first_name: berenguer_ramon
-    dynasty: de_sunifred_dynasty
-    father: cat_ramon_borrell_i_de_sunifred_1 #TODO: check if this makes sense
-    adm: 45
-    dip: 60
+cat_sunyer_barcelona:
+  890:
+    birth: girona
+    first_name: name_sunierus
+    dynasty: barcelona_dynasty
+    father: cat_guifre_i_barcelona
+    mother: cat_guinidilda
+    adm: 64
+    dip: 41
     mil: 60
     religion: catholic
     culture: catalan
     tag: CAT
+    traits:
+      zealot: yes
+      bold_fighter: yes
+  950.10.15:
+    death: yes
+cat_richilda_of_toulouse:
+  895:
+    birth: toulouse
+    first_name: name_richilda
+    female: yes
+    religion: catholic
+    culture: languedocien
+    tag: TOU
+  917:
+    spouse: cat_sunyer_barcelona
+    tag: CAT
+  960: #unknown
+    death: yes
+cat_sunifred_barcelona:
+  898:
+    birth: girona
+    first_name: sunifred
+    dynasty: barcelona_dynasty
+    father: cat_guifre_i_barcelona
+    mother: cat_guinidilda
+    religion: catholic
+    culture: catalan
+    tag: CAT
+  948:
+    death: yes
+cat_miro_barcelona:
+  926:
+    birth: barcelona
+    first_name: name_miron
+    dynasty: barcelona_dynasty
+    father: cat_sunyer_barcelona
+    mother: cat_richilda_of_toulouse
+    religion: catholic
+    culture: catalan
+    tag: CAT
+    traits:
+      zealot: yes
+  966:
+    death: yes
+cat_borrell_ii_barcelona:
+  927:
+    birth: barcelona
+    first_name: name_borrell
+    dynasty: barcelona_dynasty
+    father: cat_sunyer_barcelona
+    mother: cat_richilda_of_toulouse
+    adm: 25
+    dip: 74
+    mil: 41
+    religion: catholic
+    culture: catalan
+    tag: CAT
+    traits:
+      silver_tongue: yes
+      calm: yes
+      secretive: yes
+  992.9.30:
+    death: yes
+cat_letgarda:
+  950: #unknown
+    birth: toulouse #unknown
+    first_name: letgarda
+    female: yes
+    religion: catholic
+    culture: languedocien
+    tag: TOU
+  967:
+    spouse: cat_borrell_ii_barcelona
+    tag: CAT
+  986:
+    death: yes
+cat_ramon_borrell_barcelona:
+  972.5.26:
+    birth: girona
+    first_name: name_raymond.name_borrell
+    dynasty: barcelona_dynasty
+    father: cat_borrell_ii_barcelona
+    mother: cat_letgarda
+    adm: 50
+    dip: 31
+    mil: 50
+    religion: catholic
+    culture: catalan
+    tag: CAT
+    traits:
+      bold_fighter: yes
+      industrious: yes
+  1017.9.8:
+    death: yes
+cat_ermengol_barcelona:
+  974:
+    birth: girona
+    first_name: name_ermengaud
+    dynasty: barcelona_dynasty
+    father: cat_borrell_ii_barcelona
+    mother: cat_letgarda
+    religion: catholic
+    culture: catalan
+    tag: CAT
+  1010:
+    death: yes
+cat_ermesinde_of_carcassone:
+  975:
+    birth: carcassonne
+    first_name: name_ermesinde
+    dynasty: comminges_dynasty
+    female: yes
+    religion: catholic
+    culture: languedocien
+    tag: TOU
+  991:
+    spouse: cat_ramon_borrell_barcelona
+    tag: CAT
+  1058.3.1:
+    death: yes
+cat_berenguer_ramon_i_barcelona:
+  1005:
+    birth: barcelona
+    first_name: name_berengar.name_raymond
+    nickname: Hunchback
+    dynasty: barcelona_dynasty
+    father: cat_ramon_borrell_barcelona
+    mother: cat_ermesinde_of_carcassone
+    adm: 39
+    dip: 69
+    mil: 35
+    religion: catholic
+    culture: catalan
+    tag: CAT
+    traits:
+      calm: yes
   1035.5.26:
     death: yes
-cat_berenguer_ramon_i_de_sunifred_1:
-  988.1.1:
-    birth: barcelona #TODO: Date and location guessed, check if better data is available
-    first_name: berenguer_ramon
-    dynasty: de_sunifred_dynasty
-    adm: 45
-    dip: 60
-    mil: 60
+cat_sancha_sanchez_of_castile:
+  1006: #unknown
+    birth: burgos #unknown
+    first_name: name_sancha
+    dynasty: beni_mamaduna_dynasty
+    female: yes
+    father: cas_sancho_garcia_beni_mamaduna
+    mother: cas_urraca_gomez
     religion: catholic
-    culture: catalan
-    tag: CAT
-  1035.5.26:
+    culture: castilian
+    tag: CAS
+  1026: #unknown
     death: yes
-cat_ramon_berenguer_i_de_sunifred:
-  1023.1.1:
-    birth: barcelona #TODO: Date and location guessed, check if better data is available
-    first_name: ramon_berenguer
-    dynasty: de_sunifred_dynasty
-    father: cat_berenguer_ramon_i_de_sunifred_1 #TODO: check if this makes sense
-    adm: 45
-    dip: 15
-    mil: 45
+cat_ramon_berenguer_i_barcelona:
+  1023:
+    birth: girona
+    first_name: name_raymond.name_berengar
+    dynasty: barcelona_dynasty
+    father: cat_berenguer_ramon_i_barcelona
+    mother: cat_sancha_sanchez_of_castile
+    adm: 59
+    dip: 44
+    mil: 52
     religion: catholic
     culture: catalan
     tag: CAT
-  1076.1.1:
+    traits:
+      intricate_web_weaver: yes
+      righteous: yes
+      secretive: yes
+  1053:
+    nickname: the_old
+  1076.5.26:
     death: yes
-cat_ramon_berenguer_i_de_sunifred_1:
-  1005.1.1:
-    birth: barcelona #TODO: Date and location guessed, check if better data is available
-    first_name: ramon_berenguer
-    dynasty: de_sunifred_dynasty
-    adm: 45
-    dip: 15
-    mil: 45
+cat_isabel_of_gascony:
+  1030: #unknown
+    birth: bayonne #unknown
+    first_name: isabel
+    female: yes
     religion: catholic
-    culture: catalan
+    culture: gascon
+    tag: AQN
+  1045:
+    spouse: cat_ramon_berenguer_i_barcelona
     tag: CAT
-  1076.1.1:
+  1052: #unknown
     death: yes
-cat_ramon_berenguer_ii_de_sunifred:
-  1054.1.1:
-    birth: barcelona #TODO: Date and location guessed, check if better data is available
-    first_name: ramon_berenguer
-    dynasty: de_sunifred_dynasty
-    father: cat_ramon_berenguer_i_de_sunifred_1 #TODO: check if this makes sense
-    adm: 15
-    dip: 45
-    mil: 45
+cat_almondis_of_la_marche:
+  1020:
+    birth: toulouse #unknown
+    first_name: almondis
+    female: yes
     religion: catholic
-    culture: catalan
+    culture: languedocien
+    tag: TOU
+  1053:
+    spouse: cat_ramon_berenguer_i_barcelona
     tag: CAT
-  1082.12.5:
+  1071: #unknown
     death: yes
-cat_ramon_berenguer_ii_de_sunifred_1:
-  1046.1.1:
-    birth: barcelona #TODO: Date and location guessed, check if better data is available
-    first_name: ramon_berenguer
-    dynasty: de_sunifred_dynasty
-    adm: 15
-    dip: 45
-    mil: 45
+cat_peter_raymundi:
+  1050:
+    birth: barcelona
+    first_name: name_peter.name_raymond
+    dynasty: barcelona_dynasty
+    father: cat_ramon_berenguer_i_barcelona
+    mother: cat_isabel_of_gascony
     religion: catholic
     culture: catalan
     tag: CAT
-  1082.12.5:
+    traits:
+      cruel: yes
+  1073:
     death: yes
-cat_berenguer_ramon_ii_de_sunifred:
-  1055.1.1:
-    birth: barcelona #TODO: Date and location guessed, check if better data is available
-    first_name: berenguer_ramon
-    dynasty: de_sunifred_dynasty
-    father: cat_ramon_berenguer_ii_de_sunifred_1 #TODO: check if this makes sense
-    adm: 60
-    dip: 15
-    mil: 60
+cat_ramon_berenguer_ii_barcelona:
+  1053:
+    birth: barcelona
+    first_name: name_raymond.name_berengar
+    nickname: Towhead
+    dynasty: barcelona_dynasty
+    father: cat_ramon_berenguer_i_barcelona
+    mother: cat_almondis_of_la_marche
+    adm: 47
+    dip: 29
+    mil: 33
     religion: catholic
     culture: catalan
     tag: CAT
-  1097.1.1:
+    traits:
+      free_thinker: yes
+  1082.12.6:
     death: yes
-cat_berenguer_ramon_ii_de_sunifred_1:
-  1052.1.1:
-    birth: barcelona #TODO: Date and location guessed, check if better data is available
-    first_name: berenguer_ramon
-    dynasty: de_sunifred_dynasty
-    adm: 60
-    dip: 15
-    mil: 60
+cat_berenguer_ramon_ii_barcelona:
+  1053:
+    birth: barcelona
+    first_name: name_berengar.name_raymond
+    dynasty: barcelona_dynasty
+    father: cat_ramon_berenguer_i_barcelona
+    mother: cat_almondis_of_la_marche
     religion: catholic
     culture: catalan
     tag: CAT
-  1097.1.1:
+    traits:
+      sinner: yes
+      babbling_buffoon: yes
+  1082.12.6:
+    nickname: nick_the_fraticidal
+  1097:
     death: yes
-cat_ramon_berenguer_iii_de_sunifred:
-  1082.1.1:
-    birth: barcelona #TODO: Date and location guessed, check if better data is available
-    first_name: ramon_berenguer
-    dynasty: de_sunifred_dynasty
-    father: cat_berenguer_ramon_ii_de_sunifred_1 #TODO: check if this makes sense
-    adm: 75
-    dip: 15
-    mil: 15
+cat_maud_of_apulia:
+  1050:
+    birth: bari #unknown
+    first_name: name_matilda
+    female: yes
     religion: catholic
-    culture: catalan
+    culture: norman
+    tag: SIC
+  1077.2: #Early 1077
+    spouse: cat_ramon_berenguer_ii_barcelona
     tag: CAT
-  1131.1.1:
+  1112:
     death: yes
-cat_ramon_berenguer_iii_de_sunifred_1:
-  1067.1.1:
-    birth: barcelona #TODO: Date and location guessed, check if better data is available
-    first_name: ramon_berenguer
-    dynasty: de_sunifred_dynasty
-    adm: 75
-    dip: 15
-    mil: 15
+cat_maria_rodriguez_de_vivar:
+  1080:
+    birth: zamora #unknown
+    first_name: name_mary
+    dynasty: vivar_dynasty
+    female: yes
+    father: val_rodrigo_diaz
+    mother: val_jimena_diaz
     religion: catholic
-    culture: catalan
+    culture: leonese
+    tag: LON
+    estate: nobles_estate
+  1098: #unknown
+    spouse: cat_ramon_berenguer_iii_barcelona
     tag: CAT
-  1131.1.1:
+  1105:
     death: yes
-cat_ramon_berenguer_iv_de_sunifred:
-  1113.1.1:
-    birth: barcelona #TODO: Date and location guessed, check if better data is available
-    first_name: ramon_berenguer
-    dynasty: de_sunifred_dynasty
-    father: cat_ramon_berenguer_iii_de_sunifred_1 #TODO: check if this makes sense
-    adm: 75
-    dip: 60
-    mil: 30
+cat_ramon_berenguer_iii_barcelona:
+  1082.11.11:
+    birth: rodez
+    first_name: name_raymond.name_berengar
+    nickname: nick_the_great
+    dynasty: barcelona_dynasty
+    father: cat_ramon_berenguer_ii_barcelona
+    mother: cat_maud_of_apulia
+    adm: 38
+    dip: 76
+    mil: 58
     religion: catholic
     culture: catalan
     tag: CAT
+    traits:
+      charismatic_negotiator: yes
+      entrepreneur: yes
+  1131.7.19:
+    death: yes
+cat_ramon_berenguer_iv_barcelona:
+  1113:
+    birth: barcelona #or Rodez
+    first_name: name_raymond.name_berengar
+    nickname: the_saint
+    dynasty: barcelona_dynasty
+    father: cat_ramon_berenguer_iii_barcelona
+    mother: pro_douce_i_de_gevaudan
+    adm: 40
+    dip: 76
+    mil: 70
+    religion: catholic
+    culture: catalan
+    tag: CAT
+    traits:
+      charismatic_negotiator: yes
+      conqueror: yes
   1162.8.6:
-    death: yes
-cat_ramon_berenguer_iv_de_sunifred_1:
-  1101.1.1:
-    birth: barcelona #TODO: Date and location guessed, check if better data is available
-    first_name: ramon_berenguer
-    dynasty: de_sunifred_dynasty
-    adm: 75
-    dip: 60
-    mil: 30
-    religion: catholic
-    culture: catalan
-    tag: CAT
-  3000.1.1:
     death: yes

@@ -200,6 +200,22 @@ por_pedro_i_de_bourgogne_1:
     tag: POR
   1367.1.18:
     death: yes
+por_eleanor_portugal:
+  1328.2.3:
+    birth: lisbon # Portugal
+    first_name: name_eleanor
+    dynasty: burgundy_portuguese_dynasty
+    female: yes
+    father: por_afonso_iv_portugal
+    mother: por_beatriz_portugal
+    religion: catholic
+    culture: portuguese
+    tag: POR
+  1347.11.14:
+    spouse: ara_peter_iv_arago
+    tag: ARA
+  1348.10.30:
+    death: yes
 por_fernando_i_de_bourgogne:
   1345.10.31:
     birth: lisbon #TODO: Location guessed, check if better data is available

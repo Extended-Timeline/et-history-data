@@ -1,76 +1,93 @@
 #imported from EU4 file: history/provinces/1832 - Yamato.txt
+#Edit by Raun139
 2.1.1:
-  owner: YMT
-  controller: YMT
-  cores:
-    YMT: yes
-  resource: tea
+  resource: lumber
   pops:
     - religion: shinto
       estate: peasant
       size: 1000
+250: #古墳時代の始まり。ヤマト王権の成立に結びつけられる箸墓古墳、纒向遺跡が3世紀中頃～と推定される。（The beginning of the Kofun period. Hashihaka Kofun and the Makimuku site—often linked to the emergence of the Yamato polity—are estimated to date from around the mid-3rd century onward.）
+  owner: YMT
+  controller: YMT
+  cores:
+    YMT: yes
 607.1.1:
   pops:
     - estate: peasant
       size: 1000
+701: #大宝律令の制定で国支配が確立(Provincial governance was consolidated with the enactment of the Taihō Code.)
+  owner: JAP
+  controller: JAP
+  cores:
+    YMT: no
+    JAP: yes
 712.1.1:
   pops:
     - estate: peasant
       size: 1000
-794.1.1:
-  owner: JAP
-  controller: JAP
-  cores:
-    YMT: no
-    JAP: yes
-1180.5.1:
-  owner: YMT
-  controller: YMT
-  cores:
-    YMT: yes
-1180.6.20:
-  owner: TAIR
-  controller: TAIR
-  cores:
-    YMT: no
-    TAIR: yes
-1185.6.19:
-  owner: JAP
-  controller: JAP
-  cores:
-    TAIR: no
-    JAP: yes
-1338.2.23:
-  owner: YMT
-  controller: YMT
+1192.8.21: #鎌倉幕府成立(The establishment of the Kamakura shogunate.)
+  owner: MINM
+  controller: MINM
   cores:
     JAP: no
-    YMT: yes
-1392.8.11:
+    MINM: yes
+1203.10.13: #2代将軍・源頼家が鎌倉殿の地位を追われ、弟の千幡（のちの源実朝）が将軍となり、北条家の執権政治が確立(The second shogun, Minamoto no Yoriie, was removed from his position as Kamakura-dono, and his younger brother Senman (later Minamoto no Sanetomo) became shogun, establishing the Hōjō clan’s regency (shikken) government.)
+  owner: HOJO
+  controller: HOJO
+  cores:
+    MINM: no
+    HOJO: yes
+1333.7.4: #鎌倉幕府滅亡と建武の新政開始(The fall of the Kamakura shogunate and the start of the Kenmu Restoration.)
+  owner: JAP
+  controller: JAP
+  cores:
+    HOJO: no
+    JAP: yes
+1336.12.10: #建武式目の制定により実質足利幕府成立(The enactment of the Kenmu Code effectively marked the establishment of the Ashikaga shogunate.)
   owner: ASK
   controller: ASK
   cores:
-    YMT: no
+    JAP: no
     ASK: yes
-1441.1.1:
+1337.1.23: #南北朝開始(Start of the Nanboku-chō period)
+  buildings:
+    yamashiro: DKJI
+1392.11.19: #南北朝終了(End of the Nanboku-chō period)
+  buildings:
+    yamashiro: OCHI
+1467.2.22: #応仁の乱(Ōnin War)
+  owner: OCHI
+  controller: OCHI
+  cores:
+    ASK: no
+    OCHI: yes
+  buildings:
+    yamashiro: no
+1563.7: #松永久秀により高取城を攻略(Takatori Castle was captured by Matsunaga Hisahide.) https://ja.wikipedia.org/wiki/%E8%B6%8A%E6%99%BA%E5%AE%B6%E5%A2%97
+  owner: MTNG
+  controller: MTNG
+  cores:
+    OCHI: no
+    MTNG: yes
+1571.7: #辰市城の戦い(The Battle of Tatsuichi Castle) https://ja.wikipedia.org/wiki/%E7%AD%92%E4%BA%95%E9%A0%86%E6%85%B6
   owner: TSUT
   controller: TSUT
   cores:
-    ASK: no
+    MTNG: no
     TSUT: yes
-1585.8.1:
+1585.8: #筒井家伊賀上野へ移譲。秀長が大和を統治(The Tsutsui clan was transferred to Iga-Ueno. Hidenaga governed Yamato.)
   owner: TOYO
   controller: TOYO
   cores:
     TSUT: no
     TOYO: yes
-1600.10.21:
+1600.10.15: #関ヶ原の戦い(Battle of Sekigahara)
   owner: TOKU
   controller: TOKU
   cores:
     TOYO: no
     TOKU: yes
-1868.1.3:
+1868.1.3: #王政復古の大号令(The Imperial Restoration Proclamation.)
   owner: JAP
   controller: JAP
   cores:

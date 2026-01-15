@@ -106,7 +106,6 @@ Traits are added with the traits argument. This argument does not take a value d
 | nickname | name ID | no | Nickname like "the Bold", further explained in the character name section |
 | last_name | name ID | no | Character's last name, further explained in the character name section |
 | dynasty | dynasty ID | no | Character's dynasty |
-| estate | estate ID | no | The estate the character belongs to |
 | birth | location ID | yes* | Character's birth place |
 | father | character ID | no | The ID of the character's father |
 | mother | character ID | no | The ID of the character's mother |

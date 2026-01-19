@@ -643,7 +643,7 @@ ryu_tetsu_sho:
 ryu_on_sho:
   1784.4.25:
     birth: urasoe #TODO: Location guessed, check if better data is available
-    first_name: on
+    first_name: "on" #quotation marks required to prevent interpretation as boolean 
     dynasty: sho_dynasty
     father: ryu_boku_sho_1 #TODO: check if this makes sense
     adm: 15
@@ -657,7 +657,7 @@ ryu_on_sho:
 ryu_on_sho_1:
   1764.1.1:
     birth: urasoe #TODO: Date and location guessed, check if better data is available
-    first_name: on
+    first_name: "on" #quotation marks required to prevent interpretation as boolean
     dynasty: sho_dynasty
     adm: 15
     dip: 30

@@ -1,7 +1,10 @@
+# main sources:
+# https://en.wikipedia.org/wiki/Chiefdom_of_Bozhou
+# https://en.wikipedia.org/wiki/Bozhou_rebellion
 bzu_duan_yang:
-  846.1.1:
+  846:
     birth: bozhou #TODO: Date and location guessed, check if better data is available
-    first_name: duan
+    first_name: name_duan
     dynasty: yang_dynasty
     adm: 75
     dip: 60
@@ -9,410 +12,463 @@ bzu_duan_yang:
     religion: bimoism
     culture: yi_culture
     tag: BZU
-  900.1.1:
+  900:
     death: yes
 bzu_munan_yang:
-  870.1.1:
+  870:
     birth: bozhou #TODO: Date and location guessed, check if better data is available
-    first_name: munan
+    first_name: name_munan
     dynasty: yang_dynasty
+    father: bzu_duan_yang
     adm: 15
     dip: 75
     mil: 15
     religion: bimoism
     culture: yi_culture
     tag: BZU
-  930.1.1:
+  930:
     death: yes
 bzu_bushe_yang:
-  900.1.1:
+  900:
     birth: bozhou #TODO: Date and location guessed, check if better data is available
-    first_name: bushe
+    first_name: name_bushe
     dynasty: yang_dynasty
+    father: bzu_munan_yang
     adm: 0
     dip: 30
     mil: 45
     religion: bimoism
     culture: yi_culture
     tag: BZU
-  950.1.1:
+  950:
     death: yes
 bzu_sangong_yang:
-  920.1.1:
+  920:
     birth: bozhou #TODO: Date and location guessed, check if better data is available
-    first_name: sangong
+    first_name: name_sangong
     dynasty: yang_dynasty
+    father: bzu_bushe_yang
     adm: 15
     dip: 45
     mil: 45
     religion: bimoism
     culture: yi_culture
     tag: BZU
-  970.1.1:
+  970:
     death: yes
 bzu_shi_yang:
-  940.1.1:
+  940:
     birth: bozhou #TODO: Date and location guessed, check if better data is available
-    first_name: shi
+    first_name: name_shi
     dynasty: yang_dynasty
-    father: bzu_zhen_yang #TODO: check if this makes sense
+    father: bzu_sangong_yang
     adm: 60
     dip: 75
     mil: 60
     religion: bimoism
     culture: yi_culture
     tag: BZU
-  990.1.1:
+  990:
     death: yes
 bzu_zhao_yang:
-  960.1.1:
+  960:
     birth: bozhou #TODO: Date and location guessed, check if better data is available
-    first_name: zhao
+    first_name: name_zhao
     dynasty: yang_dynasty
+    father: bzu_shi_yang
     adm: 45
     dip: 75
     mil: 30
     religion: bimoism
     culture: yi_culture
     tag: BZU
-  1020.1.1:
+  1020:
     death: yes
 bzu_guiqian_yang:
-  990.1.1:
+  990:
     birth: bozhou #TODO: Date and location guessed, check if better data is available
-    first_name: guiqian
+    first_name: name_guiqian
     dynasty: yang_dynasty
+    father: bzu_shi_yang  # Adopted by Yang Shi, descendant of Yang Duan (source: wikipedia)
     adm: 15
     dip: 30
     mil: 60
     religion: bimoism
     culture: yi_culture
     tag: BZU
-  1052.1.1:
+  1052:
     death: yes
 bzu_guangzhen_yang:
-  1022.1.1:
+  1022:
     birth: bozhou #TODO: Date and location guessed, check if better data is available
-    first_name: guangzhen
+    first_name: name_guangzhen
     dynasty: yang_dynasty
+    father: bzu_guiqian_yang
     adm: 30
     dip: 0
     mil: 75
     religion: bimoism
     culture: yi_culture
     tag: BZU
-  1080.1.1:
+  1080:
     death: yes
 bzu_wenguang_yang:
-  1050.1.1:
+  1050:
     birth: bozhou #TODO: Date and location guessed, check if better data is available
-    first_name: wenguang
+    first_name: name_wenguang
     dynasty: yang_dynasty
+    father: bzu_guangzhen_yang
     adm: 75
     dip: 0
     mil: 0
     religion: bimoism
     culture: yi_culture
     tag: BZU
-  1100.1.1:
+  1100:
     death: yes
 bzu_weicong_yang:
-  1070.1.1:
+  1070:
     birth: bozhou #TODO: Date and location guessed, check if better data is available
-    first_name: weicong
+    first_name: name_weicong
     dynasty: yang_dynasty
+    father: bzu_wenguang_yang
     adm: 45
     dip: 30
     mil: 30
     religion: bimoism
     culture: yi_culture
     tag: BZU
-  1125.1.1:
+  1125:
     death: yes
 bzu_xuan_yang:
-  1095.1.1:
+  1095:
     birth: bozhou #TODO: Date and location guessed, check if better data is available
-    first_name: xuan
+    first_name: name_xuan
     dynasty: yang_dynasty
+    father: bzu_weicong_yang
     adm: 45
     dip: 15
     mil: 30
     religion: bimoism
     culture: yi_culture
     tag: BZU
-  1155.1.1:
+  1155:
     death: yes
 bzu_zhen_yang:
-  1125.1.1:
+  1125:
     birth: bozhou #TODO: Date and location guessed, check if better data is available
-    first_name: zhen
+    first_name: name_zhen
     dynasty: yang_dynasty
+    father: bzu_xuan_yang
     adm: 60
     dip: 45
     mil: 30
     religion: bimoism
     culture: yi_culture
     tag: BZU
-  1180.1.1:
+  1201:
     death: yes
-bzu_shi_yang_1:
-  1150.1.1:
+bzu_shi_yang_1:  # Co-Ruled with bzu_zhen_yang
+  1130:
     birth: bozhou #TODO: Date and location guessed, check if better data is available
-    first_name: shi
+    first_name: name_shi
     dynasty: yang_dynasty
+    father: bzu_xuan_yang
     adm: 75
     dip: 45
     mil: 60
     religion: bimoism
     culture: yi_culture
     tag: BZU
-  1201.1.1:
+  1201:
     death: yes
 bzu_can_yang:
-  1171.1.1:
+  1171:
     birth: bozhou #TODO: Date and location guessed, check if better data is available
-    first_name: can
+    first_name: name_can
     dynasty: yang_dynasty
+    father: bzu_shi_yang_1
     adm: 75
     dip: 75
     mil: 60
     religion: bimoism
     culture: yi_culture
     tag: BZU
-  1233.1.1:
+  1200:
+    father: bzu_zhen_yang  # Adopted, date guessed
+  1233:
     death: yes
 bzu_jie_yang:
-  1203.1.1:
+  1203:
     birth: bozhou #TODO: Date and location guessed, check if better data is available
-    first_name: jie
+    first_name: name_jie
     dynasty: yang_dynasty
+    father: bzu_can_yang
     adm: 0
     dip: 0
     mil: 30
     religion: bimoism
     culture: yi_culture
     tag: BZU
-  1243.1.1:
+  1243:
     death: yes
 bzu_wen_yang:
-  1213.1.1:
+  1213:
     birth: bozhou #TODO: Date and location guessed, check if better data is available
-    first_name: wen
+    first_name: name_wen
     dynasty: yang_dynasty
+    father: bzu_jie_yang
     adm: 75
     dip: 60
     mil: 45
     religion: bimoism
     culture: yi_culture
     tag: BZU
-  1265.1.1:
+  1265:
     death: yes
 bzu_bangxian_yang:
-  1235.1.1:
+  1235:
     birth: bozhou #TODO: Date and location guessed, check if better data is available
-    first_name: bangxian
+    first_name: name_bangxian
     dynasty: yang_dynasty
+    father: bzu_wen_yang
     adm: 0
     dip: 60
     mil: 60
     religion: bimoism
     culture: yi_culture
     tag: BZU
-  1281.1.1:
+  1281:
     death: yes
-bzu_hanying_yang:
-  1251.1.1:
+bzu_hanying_yang:  # aka Yang Sayin-buqa
+  1251:
     birth: bozhou #TODO: Date and location guessed, check if better data is available
-    first_name: hanying
+    first_name: name_hanying
     dynasty: yang_dynasty
+    father: bzu_bangxian_yang
     adm: 45
     dip: 15
     mil: 0
     religion: bimoism
     culture: yi_culture
     tag: BZU
-  1316.1.1:
+  1316:
     death: yes
-bzu_jiazhen_yang:
-  1286.1.1:
+bzu_jiazhen_yang:  # aka Yang Yanli-buqa
+  1286:
     birth: bozhou #TODO: Date and location guessed, check if better data is available
-    first_name: jiazhen
+    first_name: name_jiazhen
     dynasty: yang_dynasty
+    father: bzu_hanying_yang
     adm: 60
     dip: 30
     mil: 60
     religion: bimoism
     culture: yi_culture
     tag: BZU
-  1340.1.1:
+  1340:
     death: yes
 bzu_zhongyan_yang:
-  1310.1.1:
+  1310:
     birth: bozhou #TODO: Date and location guessed, check if better data is available
-    first_name: zhongyan
+    first_name: name_zhongyan
     dynasty: yang_dynasty
+    father: bzu_jiazhen_yang
     adm: 45
     dip: 60
     mil: 15
     religion: bimoism
     culture: yi_culture
     tag: BZU
-  1350.1.1:
+  1350:
     death: yes
 bzu_yuanding_yang:
-  1320.1.1:
+  1320:
     birth: bozhou #TODO: Date and location guessed, check if better data is available
-    first_name: yuanding
+    first_name: name_yuanding
     dynasty: yang_dynasty
+    father: bzu_zhongyan_yang
     adm: 60
     dip: 15
     mil: 30
     religion: bimoism
     culture: yi_culture
     tag: BZU
-  1370.1.1:
-    death: yes
-bzu_jiong_yang:
-  1311.1.1:
-    birth: bozhou #TODO: Date and location guessed, check if better data is available
-    first_name: jiong
-    dynasty: yang_dynasty
-    father: bzu_sheng_yang #TODO: check if this makes sense
-    adm: 75
-    dip: 75
-    mil: 30
-    religion: bimoism
-    culture: yi_culture
-    tag: BZU
-  1350.1.1:
+  1370:
     death: yes
 bzu_keng_yang:
-  1340.1.1:
+  1340:
     birth: bozhou #TODO: Date and location guessed, check if better data is available
-    first_name: keng
-    dynasty: yang_dynasty
+    first_name: name_keng
+    dynasty: yang_dynasty  # descendant of bzu_bangxian_yang
     adm: 75
     dip: 0
     mil: 45
     religion: bimoism
     culture: yi_culture
     tag: BZU
-  1399.1.1:
+  1399:
     death: yes
 bzu_sheng_yang:
-  1369.1.1:
+  1379:
     birth: bozhou #TODO: Date and location guessed, check if better data is available
-    first_name: sheng
+    first_name: name_sheng
     dynasty: yang_dynasty
+    father: bzu_keng_yang
     adm: 60
     dip: 75
     mil: 30
     religion: bimoism
     culture: yi_culture
     tag: BZU
-  1341.1.1:
+  1441:
+    death: yes
+bzu_placeholder_yang:
+  1400:  # guessed
+    birth: bozhou #TODO: Date and location guessed, check if better data is available
+    first_name: name_placeholder
+    dynasty: yang_dynasty
+    father: bzu_sheng_yang
+    religion: bimoism
+    culture: yi_culture
+    tag: BZU
+  1440:  # guessed
     death: yes
 bzu_gang_yang:
-  1412.1.1:
+  1402:
     birth: bozhou #TODO: Date and location guessed, check if better data is available
-    first_name: gang
+    first_name: name_gang
     dynasty: yang_dynasty
+    father: bzu_sheng_yang
     adm: 60
     dip: 0
     mil: 0
     religion: bimoism
     culture: yi_culture
     tag: BZU
-  1449.1.1:
+  1449:
+    death: yes
+bzu_jiong_yang:
+  1421:
+    birth: bozhou #TODO: Date and location guessed, check if better data is available
+    first_name: name_jiong
+    dynasty: yang_dynasty
+    father: bzu_placeholder_yang
+    adm: 75
+    dip: 75
+    mil: 30
+    religion: bimoism
+    culture: yi_culture
+    tag: BZU
+  1442:
     death: yes
 bzu_hui_yang:
-  1419.1.1:
+  1424:
     birth: bozhou #TODO: Date and location guessed, check if better data is available
-    first_name: hui
+    first_name: name_hui
     dynasty: yang_dynasty
+    father: bzu_gang_yang
     adm: 60
     dip: 75
     mil: 0
     religion: bimoism
     culture: yi_culture
     tag: BZU
-  1474.1.1:
+  1474:
     death: yes
 bzu_ai_yang:
-  1444.1.1:
+  1444:
     birth: bozhou #TODO: Date and location guessed, check if better data is available
-    first_name: ai
+    first_name: name_ai
     dynasty: yang_dynasty
+    father: bzu_hui_yang
     adm: 30
     dip: 0
     mil: 60
     religion: bimoism
     culture: yi_culture
     tag: BZU
-  1497.1.1:
+  1497:
     death: yes
 bzu_bin_yang:
-  1467.1.1:
+  1467:
     birth: bozhou #TODO: Date and location guessed, check if better data is available
-    first_name: bin
+    first_name: name_bin
     dynasty: yang_dynasty
+    father: bzu_ai_yang
     adm: 30
     dip: 45
     mil: 45
     religion: bimoism
     culture: yi_culture
     tag: BZU
-  1520.1.1:
+  1520:
     death: yes
 bzu_xiang_yang:
-  1490.1.1:
+  1490:
     birth: bozhou #TODO: Date and location guessed, check if better data is available
-    first_name: xiang
+    first_name: name_xiang
     dynasty: yang_dynasty
+    father: bzu_bin_yang
     adm: 45
     dip: 15
     mil: 60
     religion: bimoism
     culture: yi_culture
     tag: BZU
-  1543.1.1:
+  1543:
     death: yes
 bzu_lie_yang:
-  1513.1.1:
+  1513:
     birth: bozhou #TODO: Date and location guessed, check if better data is available
-    first_name: lie
+    first_name: name_lie
     dynasty: yang_dynasty
+    father: bzu_xiang_yang
     adm: 60
     dip: 45
     mil: 0
     religion: bimoism
     culture: yi_culture
     tag: BZU
-  1571.1.1:
+  1571:
     death: yes
 bzu_yinglong_yang:
-  1541.1.1:
+  1541:
     birth: bozhou #TODO: Date and location guessed, check if better data is available
-    first_name: yinglong
+    first_name: name_yinglong
     dynasty: yang_dynasty
+    father: bzu_lie_yang
     adm: 75
     dip: 0
     mil: 75
     religion: bimoism
     culture: yi_culture
     tag: BZU
-  1595.1.1:
+  1600.7.15:  # commits suicide according to Li Hualong (https://en.wikipedia.org/wiki/Bozhou_rebellion)
     death: yes
 bzu_chaodong_yang:
   1560.1.1:
     birth: bozhou #TODO: Date and location guessed, check if better data is available
-    first_name: chaodong
+    first_name: name_chaodong
     dynasty: yang_dynasty
+    father: bzu_yinglong_yang  # eldest son
     adm: 30
     dip: 75
     mil: 30
     religion: bimoism
     culture: yi_culture
     tag: BZU
-  1600.1.1:
+  1600:  # executed in Beijing
     death: yes
+bzu_kedong_yang:
+  1565:
+    birth: bozhou #TODO: Date and location guessed, check if better data is available
+    first_name: name_kedong
+    dynasty: yang_dynasty
+    father: bzu_yinglong_yang
+    religion: bimoism
+    culture: yi_culture
+    tag: BZU
+  1595:  # died while held as a hostage in chongqing
+    death: yes
+

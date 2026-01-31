@@ -25,7 +25,7 @@ Location data is recorded in yml format as shown below. Each location has its ow
   institutions:
     feudalism: yes
     legalism: yes
-  road:
+  roads:
     neighbouringplace: yes
   modifiers:
     skane_herring_market: yes
@@ -68,7 +68,7 @@ Buildings are defined in a separate section. Each building must have a level def
 | buildings | see buildings section | no | Sets the buildings in the location |
 | market | yes/no | no | Sets whether the location has a market, defaults to no |
 | institutions | list of *institution ID: yes/no* | no | Sets what institutions are present in the location |
-| road | list of *location ID: yes/no* | no | Sets the locations connected to this location via road, it is sufficient to only record a connection one way |
+| roads | list of *location ID: yes/no* | no | Sets the locations connected to this location via road, it is sufficient to only record a connection one way |
 | modifiers | list of *modifier ID: yes/no* | no | Sets modifiers present in the location |
 
 ---

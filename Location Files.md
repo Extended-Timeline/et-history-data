@@ -11,6 +11,7 @@ Location data is recorded in yml format as shown below. Each location has its ow
     TAG: yes
     ABC: yes
     XYZ: yes
+  integrated: yes
   city:
     rank: town
     setup: scandinavian_town
@@ -64,6 +65,8 @@ Buildings are defined in a separate section. Each building must have a level def
 | controller | country tag | yes, unless uncolonized | The country that controls the location |
 | cores | list of *country tag: yes/no* | no | Sets countries that have cores on this location |
 | city | see cities section | no | Defines a city in the location |
+| integrated | yes/no | no | Sets if the location is integrated, defaults to yes, always yes when core |
+| colony | yes/no | no | Sets if the location is a colony, defaults to no |
 | resource | resource ID | yes | The raw material in the location |
 | buildings | see buildings section | no | Sets the buildings in the location |
 | market | yes/no | no | Sets whether the location has a market, defaults to no |

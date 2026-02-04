@@ -1,0 +1,82 @@
+pelagia_dynasty:
+  1:
+    name: pelagia_dynasty
+    dynasty_name_type: descendant
+    home: villaviciosa
+aznar_dynasty:
+  1:
+    name: aznar_dynasty
+    dynasty_name_type: descendant
+    home: jaca
+garcia_dynasty:
+  1:
+    name: garcia_dynasty
+    dynasty_name_type: descendant
+    home: jaca
+iniga_dynasty:
+  1:
+    name: iniga_dynasty
+    home: pamplona
+asturleonesa_dynasty:
+  1:
+    name: asturleonesa_dynasty
+    dynasty_name_type: location
+    home: oviedo
+silo_asturias_dynasty:
+  1:
+    name: silo_asturias_dynasty
+    dynasty_name_type: descendant
+    home: oviedo
+jimena_dynasty:
+  1:
+    name: name_ximeno
+    dynasty_name_type: patronym
+    home: pamplona
+beni_mamaduna_dynasty:
+  1:
+    name: beni_mamaduna_dynasty
+    dynasty_name_type: patronym
+    home: burgos
+vimara_dynasty:
+  1:
+    name: vimara_dynasty
+    dynasty_name_type: descendant
+    home: braga
+burgundy_castile_dynasty:
+  1:
+    name: burgundy_castile_dynasty
+    dynasty_name_type: location
+    home: valladolid
+    male_names: name_alphonse name_ferdinand name_john name_peter name_sancho
+    female_names: name_beatrix name_blanche name_constance name_eleanor name_elizabeth name_joanna
+cerda_dynasty:
+  1:
+    name: cerda_dynasty
+    home: burgos
+    male_names: name_alphonse name_ferdinand.name_alphonse name_henry name_john name_john.name_alphonse name_louis
+    female_names: name_agnes name_joanna name_margaret name_mary
+trastamara_dynasty:
+  1:
+    name: trastamara_dynasty
+    dynasty_name_type: location
+    home: villaviciosa
+    male_names: name_alphonse name_henry name_frederick name_ferdinand name_john
+    female_names: name_catherine name_eleanor name_elizabeth name_joanna name_mary
+aragon_dynasty:
+  1:
+    name: aragon_dynasty
+    home: lliria
+    male_names: name_alphonse name_anthony name_francis name_henry name_joachim name_john name_louis.name_raymond name_paschal name_peter.name_anthony
+    female_names: name_anna name_beatrix name_catherine name_elizabeth name_frances name_guiomar name_hieronyma name_joanna name_madeleine name_mary
+barcelona_dynasty:
+  1:
+    name: barcelona_dynasty
+    dynasty_name_type: location
+    home: barcelona
+    male_names: name_alphonse name_ferdinand name_frederick name_james name_john name_martin name_peter
+    female_names: name_blanche name_constance name_eleanor name_elizabeth name_joanna name_mary name_yolande
+vivar_dynasty:
+  1:
+    name: vivar_dynasty
+    dynasty_name_type: location
+    home: burgos #Vivar del Cid

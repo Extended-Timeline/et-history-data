@@ -1,0 +1,230 @@
+wessex_dynasty:
+  1:
+    name: wessex_dynasty
+    dynasty_name_type: location
+    home: winchester
+icling_dynasty:
+  1:
+    name: wessex_dynasty
+    dynasty_name_type: descendant
+    home: bosworth
+cearling_dynasty:
+  1:
+    name: cearling_dynasty
+    dynasty_name_type: descendant
+    home: bosworth
+beornding_dynasty:
+  1:
+    name: beornding_dynasty
+    dynasty_name_type: descendant
+    home: bosworth
+wiglafing_dynasty:
+  1:
+    name: wiglafing_dynasty
+    dynasty_name_type: descendant
+    home: bosworth
+luding_dynasty:
+  1:
+    name: luding_dynasty
+    dynasty_name_type: descendant
+    home: bosworth
+aethelreding_dynasty:
+  1:
+    name: aethelreding_dynasty
+    dynasty_name_type: descendant
+    home: bosworth
+of_sussex_dynasty:
+  1:
+    name: of_sussex_dynasty
+    dynasty_name_type: location
+    home: hastings
+kent_dynasty:
+  1:
+    name: kent_dynasty
+    dynasty_name_type: location
+    home: canterbury
+aescwining_dynasty:
+  1:
+    name: aescwining_dynasty
+    dynasty_name_type: descendant
+    home: colchester
+iding_dynasty:
+  1:
+    name: iding_dynasty
+    dynasty_name_type: descendant
+    home: alnwick
+bernicia_dynasty:
+  1:
+    name: bernicia_dynasty
+    dynasty_name_type: location
+    home: alnwick
+yffing_dynasty:
+  1:
+    name: yffing_dynasty
+    dynasty_name_type: descendant
+    home: york
+wuffinga_dynasty:
+  1:
+    name: wuffinga_dynasty
+    dynasty_name_type: descendant
+    home: norwich
+east_anglia_dynasty:
+  1:
+    name: east_anglia_dynasty
+    dynasty_name_type: location
+    home: norwich
+guthruming_dynasty:
+  1:
+    name: guthruming_dynasty
+    dynasty_name_type: descendant
+    home: kolding
+northumbria_dynasty:
+  1:
+    name: northumbria_dynasty
+    dynasty_name_type: location
+    home: york
+aethelwalding_dynasty:
+  1:
+    name: aethelwalding_dynasty
+    dynasty_name_type: descendant
+    home: york
+eardwulfing_dynasty:
+  1:
+    name: eardwulfing_dynasty
+    dynasty_name_type: descendant
+    home: york
+eadwulfing_dynasty:
+  1:
+    name: eadwulfing_dynasty
+    dynasty_name_type: descendant
+    home: york
+godwin_dynasty:
+  1:
+    name: name_godwin
+    dynasty_name_type: patronym
+    home: winchester
+normandy_dynasty:
+  1:
+    name: normandy_dynasty
+    dynasty_name_type: location
+    home: caen
+lancaster_dynasty:
+  1:
+    name: lancaster
+    dynasty_name_type: location
+    home: lancaster
+    important: yes
+    male_names: name_edward name_henry name_john name_thomas
+    female_names: name_blanche name_catherine name_eleanor name_elizabeth name_joanna name_mary name_matilda name_philippa
+plantagenet_dynasty:
+  1:
+    name: plantagenet_dynasty
+    home: london
+    male_names: name_edward name_john name_richard name_thomas name_william
+    female_names: name_blanche name_eleanor name_elizabeth name_joanna name_margaret name_mary
+york_dynasty:
+  1:
+    name: york_dynasty
+    dynasty_name_type: location
+    home: york
+    important: yes
+    male_names: name_edmond name_edward name_george name_henry name_richard
+    female_names: name_anna name_bridget name_catherine name_cecile name_constance name_elizabeth name_margaret name_mary name_ursula
+bruce_dynasty:
+  1:
+    name: bruce_dynasty
+    dynasty_name_type: location_ancient # "de" in English
+    home: dunfermline
+    male_names: name_david name_nigel name_robert
+    female_names: name_christine name_elizabeth name_margaret name_matilda
+tudor_dynasty:
+  1:
+    name: tudor_dynasty
+    home: anglesey # Penmynydd
+    male_names: name_arthur name_goronwy name_henry name_edmond name_edward name_theodore
+    female_names: name_catherine name_elizabeth name_margaret name_mary Morfydd
+alpin_dynasty:
+  1:
+    name: name_alpin
+    dynasty_name_type: patronym
+    home: perth
+dunkeld_dynasty:
+  1:
+    name: dunkeld_dynasty
+    dynasty_name_type: location
+    home: perth
+loairn_dynasty:
+  1:
+    name: loairn_dynasty
+    dynasty_name_type: location
+    home: inverness
+strathclyde_dynasty:
+  1:
+    name: strathclyde_dynasty
+    dynasty_name_type: location
+    home: glasgow
+galloway_dynasty:
+  1:
+    name: galloway_dynasty
+    dynasty_name_type: location
+    home: kirkcudbright
+warenne_dynasty:
+  1:
+    name: warenne_dynasty
+    dynasty_name_type: location
+    home: hastings # Surrey
+    male_names: name_edward name_john name_thomas
+    female_names: name_catherine name_elizabeth name_joanna
+balliol_dynasty:
+  1:
+    name: balliol_dynasty
+    dynasty_name_type: location_ancient # "de" in English
+    home: kirkcudbright
+    male_names: name_edward name_henry name_john
+    female_names: name_ada name_cecile name_hedwig
+stewart_dynasty:
+  1:
+    name: stewart_dynasty
+    home: paisley
+    male_names: name_alexander name_charles name_henry name_james name_john name_robert
+    female_names: name_anna name_catherine name_egidia name_elizabeth name_joanna name_margaret name_mary
+wallace_dynasty:
+  1:
+    name: wallace_dynasty
+    home: paisley #Elderslie
+soules_dynasty:
+  1:
+    name: soules_dynasty
+    dynasty_name_type: location
+    home: kirkcudbright
+talbot_dynasty:
+  1:
+    name: talbot_dynasty
+    dynasty_name_type: location
+    home: gloucester
+comyn_dynasty:
+  1:
+    name: comyn_dynasty
+    dynasty_name_type: location
+    home: badenoch
+stuart_dynasty:
+  1:
+    name: stuart_dynasty
+    home: leeds
+    male_names: name_alexander name_charles name_henry name_james name_john name_robert
+    female_names: name_anna name_catherine name_egidia name_elizabeth name_joanna name_margaret name_mary
+drummond_dynasty:
+  1:
+    name: drummond_dynasty
+    dynasty_name_type: location
+    home: perth
+hepburn_dynasty:
+  1:
+    name: hepburn_dynasty
+    dynasty_name_type: location
+    home: edinburgh
+of_windsor_dynasty:
+  1:
+    name: of_windsor_dynasty
+    dynasty_name_type: location
+    home: windsor

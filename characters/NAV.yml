@@ -1311,30 +1311,3 @@ nav_juana_iii_albret:
     religion: calvinist
   1572.6.9:
     death: yes
-nav_enrique_iii_de_bourbon:
-  1553.12.13:
-    birth: pau #TODO: Location guessed, check if better data is available
-    first_name: enrique
-    dynasty: de_bourbon_dynasty
-    father: nav_juana_iii_dalbret_1 #TODO: check if this makes sense
-    adm: 90
-    dip: 90
-    mil: 90
-    religion: catholic
-    culture: basque
-    tag: NAV
-  1610.5.14:
-    death: yes
-nav_enrique_iii_de_bourbon_1:
-  1542.1.1:
-    birth: pau #TODO: Date and location guessed, check if better data is available
-    first_name: enrique
-    dynasty: de_bourbon_dynasty
-    adm: 90
-    dip: 90
-    mil: 90
-    religion: calvinist
-    culture: basque
-    tag: NAV
-  3000.1.1:
-    death: yes

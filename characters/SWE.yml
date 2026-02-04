@@ -1188,6 +1188,21 @@ swe_ingeborg_akersdotter_tott:
     spouse: swe_sten_gustavsson_sture
   1507.12:
     death: yes
+swe_magdalena_bonde:
+  1445:
+    birth: stockholm #unknown
+    first_name: name_madeleine
+    dynasty: bonde_dynasty
+    father: swe_karl_viii_bonde
+    mother: swe_katarina_gumsehuvud
+    female: yes
+    religion: catholic
+    culture: swedish
+    tag: SWE
+  1470.5.15:
+    estate: nobles_estate
+  1495.8:
+    death: yes
 swe_svante_nilsson_sture:
   1460:
     birth: stockholm #unknown
@@ -1288,7 +1303,7 @@ swe_kristina_gyllenstierna:
   1494:
     birth: stockholm #unknown
     first_name: name_christine
-    dynasty: gyllenstierna_dynasty
+    last_name: gyllenstierna
     female: yes
     adm: 30
     dip: 30
@@ -1392,7 +1407,7 @@ swe_margaret_leijonhufvud:
   1516.1.1:
     birth: nykoping #Närke
     first_name: name_margaret
-    dynasty: leijonhufvud_dynasty
+    last_name: leijonhufvud
     female: yes
     adm: 30
     dip: 45
@@ -1494,7 +1509,7 @@ swe_katarina_stenbock:
   1535.7.22:
     birth: bogesund #Länghem
     first_name: name_catherine
-    dynasty: stenbock_dynasty
+    last_name: stenbock
     female: yes
     adm: 60
     dip: 60
@@ -2424,9 +2439,10 @@ swe_karl_xiv_johan_bernadotte:
     mil: 60
     religion: catholic
     culture: french
-    tag: SWE
+    tag: FRA
   1810.11.2:
     father: swe_karl_xiii_von_holstein_gottorp #adopted
+    tag: SWE
   1810.11.5:
     religion: lutheran
   1818.2.5:

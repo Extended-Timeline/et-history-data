@@ -44,7 +44,7 @@ Country data is recorded in yml format as shown below. All countries have their 
 Type defined what type of a country a tag is, e.g. building based country, society of pops etc. 
 
 The different options are:
-default - normal location based countries (countries default to this, so type does not need to be defiened for these countries)
+default - normal location based countries (countries default to this, so type does not need to be defined for these countries)
 pop - society of pops
 building - building based country
 army - army based country
@@ -53,7 +53,7 @@ army - army based country
 
 ## Regnal Numbers
 
-If the country uses regnal numbers for its rulers, they should be defined alongside the ruler as shown in the example. By default a ruler will not have a regnal number, but this can also be set manually by setting the regnal number to 0. 
+If the country uses regnal numbers for its rulers, they should be defined alongside the ruler as shown in the example. By default, a ruler will not have a regnal number, but this can also be set manually by setting the regnal number to 0. 
 
 Usually regnal numbers start from 1, but if the numbers can be set to start from a different number with the regnal_numbers command. This command takes a list of names with a number. This number sets the number of previous rulers for the listed name, so in the example any future John would have a regnal number of 3, as the file considers there to have been 2 previous Johns for that tag.
 

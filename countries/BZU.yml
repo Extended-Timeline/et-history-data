@@ -1,71 +1,72 @@
-#imported from EU4
+# main sources:
+# https://en.wikipedia.org/wiki/Chiefdom_of_Bozhou
+# https://en.wikipedia.org/wiki/Bozhou_rebellion
 2.1.1:
   government: chinese_monarchy
   color: rgb { 190  142  46 }
   religion: bimoism
   primary_culture: yi_culture
   capital: bozhou
-876.1.1:
+876:
   ruler: bzu_duan_yang
-900.1.1:
+900:  # guessed
   ruler: bzu_munan_yang
-930.1.1:
+930:  # guessed
   ruler: bzu_bushe_yang
-950.1.1:
+950:  # guessed
   ruler: bzu_sangong_yang
-970.1.1:
+970:  # guessed
   ruler: bzu_shi_yang
-990.1.1:
+990:  # guessed
   ruler: bzu_zhao_yang
-1020.1.1:
+1020:  # guessed
   ruler: bzu_guiqian_yang
-1052.1.1:
+1052:  # end of previous reign
   ruler: bzu_guangzhen_yang
-1080.1.1:
+1080:  # guessed
   ruler: bzu_wenguang_yang
-1100.1.1:
+1100:  # guessed
   ruler: bzu_weicong_yang
-1125.1.1:
+1125:
   ruler: bzu_xuan_yang
-1155.1.1:
+1155:  # end of previous reign
   ruler: bzu_zhen_yang
-1180.1.1:
-  ruler: bzu_shi_yang_1
-1201.1.1:
+  coruler: bzu_shi_yang_1
+1201:
   ruler: bzu_can_yang
-1233.1.1:
+1233:
   ruler: bzu_jie_yang
-1243.1.1:
+1243:
   ruler: bzu_wen_yang
-1265.1.1:
+1265:
   ruler: bzu_bangxian_yang
-1281.1.1:
+1281:
   ruler: bzu_hanying_yang
-1316.1.1:
+1316:  # end of previous reign
   ruler: bzu_jiazhen_yang
-1340.1.1:
+1330:  # guessed
   ruler: bzu_zhongyan_yang
-1341.1.1:
-  ruler: bzu_jiong_yang
-1350.1.1:
+1350:  # guessed
   ruler: bzu_yuanding_yang
-1370.1.1:
+1370:
   ruler: bzu_keng_yang
-1399.1.1:
+1399:
   ruler: bzu_sheng_yang
-1442.1.1:
+1441:
+  ruler: bzu_jiong_yang
+1442:
   ruler: bzu_gang_yang
-1449.1.1:
+1449:
   ruler: bzu_hui_yang
-1474.1.1:
+1474:
   ruler: bzu_ai_yang
-1497.1.1:
+1497:
   ruler: bzu_bin_yang
-1520.1.1:
+1520:
   ruler: bzu_xiang_yang
-1543.1.1:
+1543:
   ruler: bzu_lie_yang
-1571.1.1:
+1571:
   ruler: bzu_yinglong_yang
-1595.1.1:
+1595:  # (forced) abdication during Bozhou rebellion
   ruler: bzu_chaodong_yang

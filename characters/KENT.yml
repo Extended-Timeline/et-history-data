@@ -19,7 +19,7 @@ kent_eppillus_atrebate:
     adm: 60
     dip: 45
     mil: 30
-    religion: germanic
+    religion: germanic_polytheism
     culture: anglo_saxon
     tag: KENT
   420.1.1:
@@ -32,7 +32,7 @@ kent_hengest_cantie:
     adm: 60
     dip: 45
     mil: 90
-    religion: germanic
+    religion: germanic_polytheism
     culture: anglo_saxon
     tag: KENT
   460.1.1:
@@ -43,7 +43,7 @@ kent_oisc_cantie:
     first_name: oisc
     dynasty: kent_dynasty
     father: kent_hengest_cantie
-    religion: germanic
+    religion: germanic_polytheism
     culture: anglo_saxon
     tag: KENT
   512.1.1:
@@ -54,7 +54,7 @@ kent_octa_cantie:
     first_name: octa
     dynasty: kent_dynasty
     father: kent_oisc_cantie
-    religion: germanic
+    religion: germanic_polytheism
     culture: anglo_saxon
     tag: KENT
   543:
@@ -65,7 +65,7 @@ kent_eormenric_cantie:
     first_name: eormenric
     dynasty: kent_dynasty
     father: kent_octa_cantie
-    religion: germanic
+    religion: germanic_polytheism
     culture: anglo_saxon
     tag: KENT
   590:
@@ -79,7 +79,7 @@ kent_aethelberht_i_cantie:
     adm: 75
     dip: 45
     mil: 75
-    religion: germanic
+    religion: germanic_polytheism
     culture: anglo_saxon
     tag: KENT
   597:
@@ -107,7 +107,7 @@ kent_eadbald_cantie:
     dynasty: kent_dynasty
     father: kent_aethelberht_i_cantie
     mother: kent_bertha_merovingian
-    religion: germanic
+    religion: germanic_polytheism
     culture: anglo_saxon
     tag: KENT
   618:

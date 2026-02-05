@@ -6,7 +6,7 @@
     VEND: yes
   resource: cloth
   pops:
-    - religion: slavic
+    - religion: slavic_polytheism
       estate: peasant
       size: 1000
 140.1.1:
@@ -16,7 +16,7 @@
     VEND: no
     GOTH: yes
   pops:
-    - religion: germanic
+    - religion: germanic_polytheism
       estate: peasant
       size: 1000
 150.1.1:
@@ -26,7 +26,7 @@
     GOTH: no
     VEND: yes
   pops:
-    - religion: slavic
+    - religion: slavic_polytheism
       estate: peasant
       size: 1000
 200.1.1:
@@ -36,7 +36,7 @@
     VEND: no
     GEPI: yes
   pops:
-    - religion: germanic
+    - religion: germanic_polytheism
       estate: peasant
       size: 1000
 250.1.1:
@@ -46,7 +46,7 @@
     GEPI: no
     VIST: yes
   pops:
-    - religion: slavic
+    - religion: slavic_polytheism
       estate: peasant
       size: 1000
 940.1.1:

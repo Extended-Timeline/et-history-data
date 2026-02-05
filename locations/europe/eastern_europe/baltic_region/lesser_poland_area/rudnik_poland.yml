@@ -6,7 +6,7 @@
     BAST: yes
   resource: grain
   pops:
-    - religion: slavic
+    - religion: slavic_polytheism
       estate: peasant
       size: 1000
 150.1.1:
@@ -16,7 +16,7 @@
     BAST: no
     GOTH: yes
   pops:
-    - religion: germanic
+    - religion: germanic_polytheism
       estate: peasant
       size: 1000
 200.1.1:
@@ -35,7 +35,7 @@
     GEPI: no
     VIST: yes
   pops:
-    - religion: slavic
+    - religion: slavic_polytheism
       estate: peasant
       size: 1000
 940.1.1:

@@ -6,7 +6,7 @@
     VAND: yes
   resource: grain
   pops:
-    - religion: germanic
+    - religion: germanic_polytheism
       estate: peasant
       size: 1000
 250.1.1:
@@ -16,7 +16,7 @@
     VAND: no
     VIST: yes
   pops:
-    - religion: slavic
+    - religion: slavic_polytheism
       estate: peasant
       size: 1000
 550.1.1:

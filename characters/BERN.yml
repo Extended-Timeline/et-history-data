@@ -6,7 +6,7 @@ bern_morcant_bulc_bryneich:
     adm: 60
     dip: 45
     mil: 90
-    religion: germanic
+    religion: germanic_polytheism
     culture: anglo_saxon
     tag: BERN
   547.1.1:
@@ -16,7 +16,7 @@ bern_oesa_iding:
     birth: alnwick #unknown
     first_name: oesa
     dynasty: iding_dynasty
-    religion: germanic
+    religion: germanic_polytheism
     culture: anglo_saxon
     tag: BERN
   520:
@@ -27,7 +27,7 @@ bern_eoppa_iding:
     first_name: eoppa
     dynasty: iding_dynasty
     father: bern_oesa_iding
-    religion: germanic
+    religion: germanic_polytheism
     culture: anglo_saxon
     tag: BERN
   520:
@@ -41,7 +41,7 @@ bern_ida_iding:
     adm: 75
     dip: 45
     mil: 60
-    religion: germanic
+    religion: germanic_polytheism
     culture: anglo_saxon
     tag: BERN
   559:
@@ -51,7 +51,7 @@ bern_bearnoch:
     birth: alnwick #unknown
     first_name: bearnoch
     female: yes
-    religion: germanic
+    religion: germanic_polytheism
     culture: anglo_saxon
     tag: BERN
   525:
@@ -63,7 +63,7 @@ bern_glappa_iding:
     birth: alnwick #unknown
     first_name: glappa
     dynasty: bernicia_dynasty
-    religion: germanic
+    religion: germanic_polytheism
     culture: anglo_saxon
     tag: BERN
   560:
@@ -75,7 +75,7 @@ bern_adda_iding:
     dynasty: iding_dynasty
     father: bern_ida_iding
     mother: bern_bearnoch
-    religion: germanic
+    religion: germanic_polytheism
     culture: anglo_saxon
     tag: BERN
   568:
@@ -87,7 +87,7 @@ bern_aethelric_iding:
     dynasty: iding_dynasty
     father: bern_ida_iding
     mother: bern_bearnoch
-    religion: germanic
+    religion: germanic_polytheism
     culture: anglo_saxon
     tag: BERN
   572:
@@ -99,7 +99,7 @@ bern_theodric_iding:
     dynasty: iding_dynasty
     father: bern_ida_iding
     mother: bern_bearnoch
-    religion: germanic
+    religion: germanic_polytheism
     culture: anglo_saxon
     tag: BERN
   579:
@@ -111,7 +111,7 @@ bern_ocga_iding:
     dynasty: iding_dynasty
     father: bern_ida_iding
     mother: bern_bearnoch
-    religion: germanic
+    religion: germanic_polytheism
     culture: anglo_saxon
     tag: BERN
   600:
@@ -121,7 +121,7 @@ bern_frithuwald_iding:
     birth: alnwick #unknown
     first_name: frithuwald
     dynasty: bernicia_dynasty
-    religion: germanic
+    religion: germanic_polytheism
     culture: anglo_saxon
     tag: BERN
   585:
@@ -131,7 +131,7 @@ bern_hussa_iding:
     birth: alnwick #unknown
     first_name: hussa
     dynasty: bernicia_dynasty
-    religion: germanic
+    religion: germanic_polytheism
     culture: anglo_saxon
     tag: BERN
   593:
@@ -145,7 +145,7 @@ bern_aethelfrith_iding:
     adm: 65
     dip: 60
     mil: 90
-    religion: germanic
+    religion: germanic_polytheism
     culture: anglo_saxon
     tag: BERN
   616:
@@ -157,7 +157,7 @@ bern_acha_of_deira:
     dynasty: yffing_dynasty
     female: yes
     father: deir_aella_yffing
-    religion: germanic
+    religion: germanic_polytheism
     culture: anglo_saxon
     tag: DEIR
   570:
@@ -171,7 +171,7 @@ bern_aldhelm_iding:
     first_name: aldhelm
     dynasty: iding_dynasty
     father: bern_ocga_iding
-    religion: germanic
+    religion: germanic_polytheism
     culture: anglo_saxon
     tag: BERN
   620:
@@ -183,7 +183,7 @@ bern_eanfrith_bernicia:
     dynasty: iding_dynasty
     father: bern_aethelfrith_iding
     mother: bern_acha_of_deira
-    religion: germanic
+    religion: germanic_polytheism
     culture: anglo_saxon
     tag: BERN
   634:
@@ -194,7 +194,7 @@ bern_egwald_iding:
     first_name: egwald
     dynasty: iding_dynasty
     father: bern_aldhelm_iding
-    religion: germanic
+    religion: germanic_polytheism
     culture: anglo_saxon
     tag: BERN
   660:
@@ -206,7 +206,7 @@ bern_oswald_bernicia:
     dynasty: iding_dynasty
     father: bern_aethelfrith_iding
     mother: bern_acha_of_deira
-    religion: germanic
+    religion: germanic_polytheism
     culture: anglo_saxon
     tag: BERN
   616:
@@ -220,7 +220,7 @@ bern_cyneburg_of_wessex:
     dynasty: wessex_dynasty
     female: yes
     father: wess_cynegils_cerdicing
-    religion: germanic
+    religion: germanic_polytheism
     culture: anglo_saxon
     tag: DEIR
   635:
@@ -239,7 +239,7 @@ bern_aebbe_bernicia:
     female: yes
     father: bern_aethelfrith_iding
     mother: bern_acha_of_deira
-    religion: germanic
+    religion: germanic_polytheism
     culture: anglo_saxon
     tag: BERN
   617:

@@ -6,7 +6,7 @@
     GEPI: yes
   resource: grain
   pops:
-    - religion: germanic
+    - religion: germanic_polytheism
       estate: peasant
       size: 1000
 200.1.1:
@@ -16,7 +16,7 @@
     GEPI: no
     VEND: yes
   pops:
-    - religion: slavic
+    - religion: slavic_polytheism
       estate: peasant
       size: 1000
 220.1.1:

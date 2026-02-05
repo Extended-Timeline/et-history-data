@@ -6,7 +6,7 @@
     QUAD: yes
   resource: salt
   pops:
-    - religion: germanic
+    - religion: germanic_polytheism
       estate: peasant
       size: 1000
 400.1.1:
@@ -16,7 +16,7 @@
     QUAD: no
     VIST: yes
   pops:
-    - religion: slavic
+    - religion: slavic_polytheism
       estate: peasant
       size: 1000
 940.1.1:

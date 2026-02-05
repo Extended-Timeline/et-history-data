@@ -6,7 +6,7 @@ merc_icel_icling:
     adm: 60
     dip: 45
     mil: 75
-    religion: germanic
+    religion: germanic_polytheism
     culture: anglo_saxon
     tag: MERC
   535:
@@ -17,7 +17,7 @@ merc_cnebba_icling:
     first_name: cnebba
     dynasty: icling_dynasty
     father: merc_icel_icling
-    religion: germanic
+    religion: germanic_polytheism
     culture: anglo_saxon
     tag: MERC
   554:
@@ -28,7 +28,7 @@ merc_cynewald_icling:
     first_name: cynewald
     dynasty: icling_dynasty
     father: merc_cnebba_icling
-    religion: germanic
+    religion: germanic_polytheism
     culture: anglo_saxon
     tag: MERC
   584:
@@ -39,7 +39,7 @@ merc_creoda_icling:
     first_name: creoda
     dynasty: icling_dynasty
     father: merc_cynewald_icling
-    religion: germanic
+    religion: germanic_polytheism
     culture: anglo_saxon
     tag: MERC
   593:
@@ -49,7 +49,7 @@ merc_pybba_icling:
     birth: bosworth #unknown
     first_name: pybba
     dynasty: icling_dynasty
-    religion: germanic
+    religion: germanic_polytheism
     culture: anglo_saxon
     tag: MERC
   606:
@@ -59,7 +59,7 @@ merc_cearl_cearling:
     birth: bosworth #unknown
     first_name: cearl
     dynasty: cearling_dynasty
-    religion: germanic
+    religion: germanic_polytheism
     culture: anglo_saxon
     tag: MERC
   626:
@@ -73,7 +73,7 @@ merc_penda_icling:
     adm: 90
     dip: 60
     mil: 60
-    religion: germanic
+    religion: germanic_polytheism
     culture: anglo_saxon
     tag: MERC
   655.11.15:
@@ -84,7 +84,7 @@ merc_eowa_icling:
     first_name: eowa
     dynasty: icling_dynasty
     father: merc_pybba_icling
-    religion: germanic
+    religion: germanic_polytheism
     culture: anglo_saxon
     tag: MERC
   642.8.5:
@@ -167,7 +167,7 @@ merc_alweo_icling:
     first_name: alweo
     dynasty: icling_dynasty
     father: merc_eowa_icling
-    religion: germanic
+    religion: germanic_polytheism
     culture: anglo_saxon
     tag: MERC
   700:

@@ -3,7 +3,7 @@ wess_cerdic_cerdicing:
     birth: winchester #unknown
     first_name: cerdic
     dynasty: wessex_dynasty
-    religion: germanic
+    religion: germanic_polytheism
     culture: anglo_saxon
     tag: WESS
   534:
@@ -14,7 +14,7 @@ wess_cynric_cerdicing:
     first_name: cynric
     dynasty: wessex_dynasty
     father: wess_cerdic_cerdicing
-    religion: germanic
+    religion: germanic_polytheism
     culture: anglo_saxon
     tag: WESS
   560:
@@ -25,7 +25,7 @@ wess_ceawlin_cerdicing:
     first_name: ceawlin
     dynasty: wessex_dynasty
     father: wess_cynric_cerdicing
-    religion: germanic
+    religion: germanic_polytheism
     culture: anglo_saxon
     tag: WESS
   593:
@@ -36,7 +36,7 @@ wess_cutha_cerdicing:
     first_name: cutha
     dynasty: wessex_dynasty
     father: wess_cynric_cerdicing
-    religion: germanic
+    religion: germanic_polytheism
     culture: anglo_saxon
     tag: WESS
   590:
@@ -47,7 +47,7 @@ wess_ceol_cerdicing:
     first_name: ceol
     dynasty: wessex_dynasty
     father: wess_cutha_cerdicing
-    religion: germanic
+    religion: germanic_polytheism
     culture: anglo_saxon
     tag: WESS
   597:
@@ -58,7 +58,7 @@ wess_ceolwulf_cerdicing:
     first_name: ceolwulf
     dynasty: wessex_dynasty
     father: wess_cutha_cerdicing
-    religion: germanic
+    religion: germanic_polytheism
     culture: anglo_saxon
     tag: WESS
   611:
@@ -69,7 +69,7 @@ wess_cuthwine_cerdicing:
     first_name: cuthwine
     dynasty: wessex_dynasty
     father: wess_ceawlin_cerdicing
-    religion: germanic
+    religion: germanic_polytheism
     culture: anglo_saxon
     tag: WESS
   620:
@@ -80,7 +80,7 @@ wess_cynegils_cerdicing:
     first_name: cynegils
     dynasty: wessex_dynasty
     father: wess_ceolwulf_cerdicing #relationship uncertain
-    religion: germanic
+    religion: germanic_polytheism
     culture: anglo_saxon
     tag: WESS
   636:
@@ -93,7 +93,7 @@ wess_cuthgils_cerdicing:
     first_name: cuthgils
     dynasty: wessex_dynasty
     father: wess_ceolwulf_cerdicing
-    religion: germanic
+    religion: germanic_polytheism
     culture: anglo_saxon
     tag: WESS
   630:
@@ -104,7 +104,7 @@ wess_cedda_cerdicing:
     first_name: cedda
     dynasty: wessex_dynasty
     father: wess_cuthwine_cerdicing
-    religion: germanic
+    religion: germanic_polytheism
     culture: anglo_saxon
     tag: WESS
   650:
@@ -115,7 +115,7 @@ wess_cuthwulf_cerdicing:
     first_name: cuthwulf
     dynasty: wessex_dynasty
     father: wess_cuthwine_cerdicing
-    religion: germanic
+    religion: germanic_polytheism
     culture: anglo_saxon
     tag: WESS
   635:
@@ -128,7 +128,7 @@ wess_cwichelm_cerdicing:
     first_name: cwichelm
     dynasty: wessex_dynasty
     father: wess_cynegils_cerdicing #relationship uncertain
-    religion: germanic
+    religion: germanic_polytheism
     culture: anglo_saxon
     tag: WESS
   636:
@@ -140,7 +140,7 @@ wess_cenwalh_cerdicing:
     first_name: cenwalh
     dynasty: wessex_dynasty
     father: wess_cynegils_cerdicing
-    religion: germanic
+    religion: germanic_polytheism
     culture: anglo_saxon
     tag: WESS
   646:
@@ -153,7 +153,7 @@ wess_cenferth_cerdicing:
     first_name: cenferth
     dynasty: wessex_dynasty
     father: wess_cuthgils_cerdicing
-    religion: germanic
+    religion: germanic_polytheism
     culture: anglo_saxon
     tag: WESS
   636:
@@ -166,7 +166,7 @@ wess_centwine_cerdicing:
     first_name: centwine
     dynasty: wessex_dynasty
     father: wess_cynegils_cerdicing #disputed
-    religion: germanic
+    religion: germanic_polytheism
     culture: anglo_saxon
     tag: WESS
   636:
@@ -192,7 +192,7 @@ wess_ceolwald_cerdicing:
     first_name: ceolwald
     dynasty: wessex_dynasty
     father: wess_cuthwulf_cerdicing
-    religion: germanic
+    religion: germanic_polytheism
     culture: anglo_saxon
     tag: WESS
   635:
@@ -205,7 +205,7 @@ wess_cenberht_cerdicing:
     first_name: cenberht
     dynasty: wessex_dynasty
     father: wess_cedda_cerdicing
-    religion: germanic
+    religion: germanic_polytheism
     culture: anglo_saxon
     tag: WESS
   640:
@@ -218,7 +218,7 @@ wess_cenfus_cerdicing:
     first_name: cenfus
     father: wess_cenferth_cerdicing
     dynasty: wessex_dynasty
-    religion: germanic
+    religion: germanic_polytheism
     culture: anglo_saxon
     tag: WESS
   640:

@@ -6,7 +6,7 @@ esse_aescwine_aescwining:
     adm: 60
     dip: 45
     mil: 75
-    religion: germanic
+    religion: germanic_polytheism
     culture: anglo_saxon
     tag: ESSE
   587:
@@ -17,7 +17,7 @@ esse_sledda_aescwining:
     first_name: sledd
     dynasty: aescwining_dynasty
     father: esse_aescwine_aescwining
-    religion: germanic
+    religion: germanic_polytheism
     culture: anglo_saxon
     tag: ESSE
   604:
@@ -27,7 +27,7 @@ esse_saebert_aescwining:
     birth: colchester #unknown
     first_name: saeberht
     dynasty: aescwining_dynasty
-    religion: germanic
+    religion: germanic_polytheism
     culture: anglo_saxon
     tag: ESSE
   604:
@@ -41,7 +41,7 @@ esse_ricula_of_kent:
     dynasty: kent_dynasty
     female: yes
     father: kent_eormenric_cantie
-    religion: germanic
+    religion: germanic_polytheism
     culture: anglo_saxon
     tag: KENT
   580:
@@ -56,7 +56,7 @@ esse_sexred_aescwining:
     dynasty: aescwining_dynasty
     father: esse_saebert_aescwining
     mother: esse_ricula_of_kent
-    religion: germanic
+    religion: germanic_polytheism
     culture: anglo_saxon
     tag: ESSE
   623:
@@ -68,7 +68,7 @@ esse_saeward_aescwining:
     dynasty: aescwining_dynasty
     father: esse_saebert_aescwining
     mother: esse_ricula_of_kent
-    religion: germanic
+    religion: germanic_polytheism
     culture: anglo_saxon
     tag: ESSE
   623:
@@ -81,7 +81,7 @@ esse_sigeberht_the_little:
     dynasty: aescwining_dynasty
     father: esse_saebert_aescwining #conjecture
     mother: esse_ricula_of_kent
-    religion: germanic
+    religion: germanic_polytheism
     culture: anglo_saxon
     tag: ESSE
   653:
@@ -93,7 +93,7 @@ esse_sigeberht_the_good:
     nickname: the_good
     dynasty: aescwining_dynasty
     father: esse_saeward_aescwining
-    religion: germanic
+    religion: germanic_polytheism
     culture: anglo_saxon
     tag: ESSE
   654:
@@ -106,7 +106,7 @@ esse_saebbi_aescwining:
     first_name: saebbi
     dynasty: aescwining_dynasty
     father: esse_sexred_aescwining
-    religion: germanic
+    religion: germanic_polytheism
     culture: anglo_saxon
     tag: ESSE
   660:
@@ -119,7 +119,7 @@ esse_swithelm_aescwining:
     first_name: swithhelm
     dynasty: aescwining_dynasty
     father: esse_sigeberht_the_little #conjecture
-    religion: germanic
+    religion: germanic_polytheism
     culture: anglo_saxon
     tag: ESSE
   662:
@@ -132,7 +132,7 @@ esse_swithfrith_aescwining:
     first_name: swithfrith
     dynasty: aescwining_dynasty
     father: esse_sigeberht_the_little #conjecture
-    religion: germanic
+    religion: germanic_polytheism
     culture: anglo_saxon
     tag: ESSE
   660:
@@ -143,7 +143,7 @@ esse_sighere_aescwining:
     first_name: sighere
     dynasty: aescwining_dynasty
     father: esse_sigeberht_the_good
-    religion: germanic
+    religion: germanic_polytheism
     culture: anglo_saxon
     tag: ESSE
   688:

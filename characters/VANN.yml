@@ -11,10 +11,10 @@ vann_caradoc_de_vannes:
     tag: VANN
   480.1.1:
     death: yes
-vann_eusa"be_de_vannes:
+vann_eusabe_de_vannes:
   450.1.1:
     birth: vannes #TODO: Date and location guessed, check if better data is available
-    first_name: eusa"be
+    first_name: eusabe
     dynasty: de_vannes_dynasty
     adm: 30
     dip: 45
@@ -141,10 +141,10 @@ vann_gui_ii_de_vannes:
     tag: VANN
   831.1.1:
     death: yes
-vann_nominoa<<_de_vannes:
+vann_nominoa_de_vannes:
   800.1.1:
     birth: vannes #TODO: Date and location guessed, check if better data is available
-    first_name: nominoa<<
+    first_name: nominoa
     dynasty: de_vannes_dynasty
     father: vann_gui_ii_de_vannes #TODO: check if this makes sense
     adm: 75
@@ -155,10 +155,10 @@ vann_nominoa<<_de_vannes:
     tag: VANN
   846.1.1:
     death: yes
-vann_nominoa<<_nominoid:
+vann_nominoa_nominoid:
   800.1.1:
     birth: vannes #TODO: Date and location guessed, check if better data is available
-    first_name: nominoa<<
+    first_name: nominoa
     dynasty: nominoid_dynasty
     adm: 75
     dip: 45

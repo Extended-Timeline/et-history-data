@@ -31,12 +31,19 @@ Country data is recorded in yml format as shown below. All countries have their 
     name_john: 2
   ruler: tag_guy_of_place
   regnal_number: 1
+  diplomacy:
+    ABC: rival opinion_angry
+    XYZ: opinion_good_relations alliance
+  dependencies:
+    XYZ: vassal
 1010.4.7:
   regent: wife_of_guy
   heir: tag_guy_ii_of_place
 1020:
   ruler: tag_guy_ii_of_place
   regnal_number: 2
+  dependencies:
+    XYZ: --- #XYZ is no longer a subject of this country
 ```
 
 ---
@@ -80,6 +87,8 @@ Usually regnal numbers start from 1, but if the numbers can be set to start from
 | tolerated_cultures | list of *culture ID: yes/no* | no | Sets cultures tolerated in the country |
 | government_rank | government rank ID | no | Sets the government rank, defaults to rank_kingdom |
 | exploration | list of *template: yes/no* | no | Sets the templates the country has explored |
+| opinions | list of *tag: opinions* | no | Sets opinion modifiers, rivalries, alliances and other relations with other countries |
+| dependencies | list of *tag: subject_type* | no | Sets the dependencies the country has |
 | heir_selection | heir selection rule ID | no | Sets the way in which the heir is selected |
 | reforms | list of *reform: yes/no* | no | Sets the government reforms the country has |
 | privileges | list of *privilege: yes/no* | no | Sets the estate privileges the country has |

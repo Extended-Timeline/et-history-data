@@ -24,6 +24,8 @@ Country data is recorded in yml format as shown below. All countries have their 
     english: yes
   accepted_cultures:
     catalan: yes
+  exploration:
+    expl_mediterranean: yes
 1000:
   regnal_numbers:
     name_john: 2
@@ -77,6 +79,7 @@ Usually regnal numbers start from 1, but if the numbers can be set to start from
 | accepted_cultures | list of *culture ID: yes/no* | no | Sets cultures accepted in the country |
 | tolerated_cultures | list of *culture ID: yes/no* | no | Sets cultures tolerated in the country |
 | government_rank | government rank ID | no | Sets the government rank, defaults to rank_kingdom |
+| exploration | list of *template: yes/no* | no | Sets the templates the country has explored |
 | heir_selection | heir selection rule ID | no | Sets the way in which the heir is selected |
 | reforms | list of *reform: yes/no* | no | Sets the government reforms the country has |
 | privileges | list of *privilege: yes/no* | no | Sets the estate privileges the country has |

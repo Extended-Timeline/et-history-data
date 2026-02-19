@@ -45,40 +45,40 @@ sample_organization:
 
 | Argument | Value type |
 |------|----------|
-| electors | add/remove: list of tags |
-| archbishop_electors | add/remove: list of tags |
-| free_cities | add/remove: list of tags |
-| imperial_peasant_republics | add/remove: list of tags |
-| imperial_prelates | add/remove: list of tags |
-| imperial_princes | add/remove: list of tags |
+| elector | add/remove: list of tags |
+| archbishop_elector | add/remove: list of tags |
+| free_city | add/remove: list of tags |
+| imperial_peasant_republic | add/remove: list of tags |
+| imperial_prelate | add/remove: list of tags |
+| imperial_prince | add/remove: list of tags |
 | imperial_authority | integer |
 
 ### Arguments unique to: middle_kingdom
 
 | Argument | Value type |
 |------|----------|
-| celestial_governors | add/remove: list of tags |
+| celestial_governor | add/remove: list of tags |
 | celestial_authority | integer |
 
 ### Arguments unique to: lordship_of_ireland
 
 | Argument | Value type |
 |------|----------|
-| lieutenants | add/remove: list of tags |
-| loyalists | add/remove: list of tags |
+| lieutenant | add/remove: list of tags |
+| loyalist | add/remove: list of tags |
 
 ### Arguments unique to: japanese_shogunate
 
 | Argument | Value type |
 |------|----------|
-| japanese_emperors | add/remove: list of tags |
-| shugo_daimyos | add/remove: list of tags |
+| japanese_emperor | add/remove: list of tags |
+| shugo_daimyo | add/remove: list of tags |
 
 ### Arguments unique to: ilkhanate
 
 | Argument | Value type |
 |------|----------|
-| ilkhan_claimants | add/remove: list of tags |
+| ilkhan_claimant | add/remove: list of tags |
 
 ### Arguments unique to: tatar_yoke
 

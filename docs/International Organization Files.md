@@ -1,4 +1,4 @@
-# Location files
+# International Organizations
 
 International organization data is recorded in yml format as shown below.
 
@@ -41,7 +41,7 @@ sample_organization:
 
 ## IO specific arguments
 
-#Arguments unique to: hre
+### Arguments unique to: hre
 
 | Argument | Value type |
 |------|----------|
@@ -53,46 +53,46 @@ sample_organization:
 | imperial_princes | add/remove: list of tags |
 | imperial_authority | integer |
 
-#Arguments unique to: middle_kingdom
+### Arguments unique to: middle_kingdom
 
 | Argument | Value type |
 |------|----------|
 | celestial_governors | add/remove: list of tags |
 | celestial_authority | integer |
 
-#Arguments unique to: lordship_of_ireland
+### Arguments unique to: lordship_of_ireland
 
 | Argument | Value type |
 |------|----------|
 | lieutenants | add/remove: list of tags |
 | loyalists | add/remove: list of tags |
 
-#Arguments unique to: japanese_shogunate
+### Arguments unique to: japanese_shogunate
 
 | Argument | Value type |
 |------|----------|
 | japanese_emperors | add/remove: list of tags |
 | shugo_daimyos | add/remove: list of tags |
 
-#Arguments unique to: ilkhanate
+### Arguments unique to: ilkhanate
 
 | Argument | Value type |
 |------|----------|
 | ilkhan_claimants | add/remove: list of tags |
 
-#Arguments unique to: tatar_yoke
+### Arguments unique to: tatar_yoke
 
 | Argument | Value type |
 |------|----------|
 | tatar_tax_collector | country tag |
 
-#Arguments unique to: autocephalous_patriarchate
+### Arguments unique to: autocephalous_patriarchate
 
 | Argument | Value type |
 |------|----------|
 | seat | location ID |
 
-#Arguments unique to: sect
+### Arguments unique to: sect
 
 | Argument | Value type |
 |------|----------|

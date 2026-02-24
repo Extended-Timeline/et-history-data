@@ -1,0 +1,897 @@
+bayeux_tapestry_key:
+  1077.1.1:
+    type: painting
+    origin: canterbury
+    location: bayeux
+    quality: 75
+stone_of_scone:
+  498.1.1:
+    type: regalia
+    origin: perth
+    location: london
+    quality: 45
+llywelyns_coronet:
+  1200.1.1:
+    type: regalia
+    origin: anglesey
+    location: london
+    quality: 25
+cross_of_neith:
+  928.1.1:
+    type: regalia
+    origin: conwy
+    location: london
+    quality: 37
+st_augustine_gospels:
+  580.1.1:
+    type: scripture
+    origin: rome
+    location: canterbury
+    quality: 45
+st_louis_toulouse_crowning_robert_anjou:
+  1317.1.1:
+    type: painting
+    origin: naples
+    location: naples
+    quality: 50
+    artist: pap_simone_martini
+chiesa_san_gottardo_in_corte_tower:
+  1336.1.1:
+    type: temple_tower
+    origin: milano
+    location: milano
+    quality: 40
+    artist: mlo_francesco_pecorari
+torrazzo_di_cremona:
+  1309.1.1:
+    type: temple_tower
+    origin: cremona
+    location: cremona
+    quality: 50
+    artist: mlo_francesco_pecorari
+lalibela_cross:
+  1100.1.1:
+    #https://en.wikipedia.org/wiki/Lalibela_Cross
+    type: statue
+    origin: lalibela
+    location: lalibela
+    quality: 50
+kebra_nagast:
+  1314.1.1:
+    #https://en.wikipedia.org/wiki/Kebra_Nagast
+    type: poem
+    origin: axum
+    location: axum
+    quality: 40
+lalibela_church_st_george:
+  1300.1.1:
+    #https://en.wikipedia.org/wiki/Church_of_Saint_George,_Lalibela
+    type: monument
+    origin: lalibela
+    location: lalibela
+    quality: 75
+king_ezana_stele:
+  400.1.1:
+    #https://en.wikipedia.org/wiki/King_Ezana%27s_Stele
+    type: monument
+    origin: axum
+    location: axum
+    quality: 77
+lanterna_di_genoa:
+  1128.1.1:
+    type: monument
+    origin: genoa
+    location: genoa
+    quality: 60
+palazzo_san_giorgio:
+  1260.1.1:
+    type: palace
+    origin: genoa
+    location: genoa
+    quality: 50
+annales_ianuenses:
+  1260.1.1:
+    type: chronicle
+    origin: genoa
+    location: genoa
+    quality: 45
+yaroslavs_court:
+  1015.1.1:
+    type: palace
+    origin: novgorod
+    location: novgorod
+    quality: 50
+house_of_holy_wisdom:
+  1128.1.1:
+    type: monument
+    origin: novgorod
+    location: novgorod
+    quality: 55
+our_lady_of_the_sign:
+  1150.1.1:
+    type: icon
+    origin: novgorod
+    location: novgorod
+    quality: 51
+annunciation_ustyug:
+  1120.1.1:
+    type: icon
+    origin: novgorod
+    location: novgorod
+    quality: 45
+saint_george_in_yuriev:
+  1130.1.1:
+    type: monument
+    origin: novgorod
+    location: novgorod
+    quality: 60
+palma_cathedral:
+  1229.1.1:
+    type: monument
+    origin: palma
+    location: palma
+    quality: 60
+ripoll_abbey:
+  888.1.1:
+    type: monument
+    origin: vic
+    location: vic
+    quality: 49
+montserrat_abbey:
+  1011.1.1:
+    type: monument
+    origin: barcelona
+    location: barcelona
+    quality: 74
+poblet_abbey:
+  1151.1.1:
+    type: monument
+    origin: tarragona
+    location: tarragona
+    quality: 65
+basilica_pilar:
+  1297.1.1:
+    type: monument
+    origin: zaragoza
+    location: zaragoza
+    quality: 65
+moreneta_key:
+  1150.1.1:
+    type: statue
+    origin: barcelona
+    location: barcelona
+    quality: 60
+girgam:
+  1087.5.12:
+    type: chronicle
+    origin: njimi
+    location: njimi
+    quality: 70
+djenne_mosque:
+  1330.1.1:
+    type: monument
+    origin: djenne
+    location: djenne
+    quality: 80
+sankore_madrasa:
+  1330.1.1:
+    type: temple_tower
+    origin: timbuktu
+    location: timbuktu
+    quality: 70
+djinguereber_mosque:
+  1327.1.1:
+    type: monument
+    origin: timbuktu
+    location: timbuktu
+    quality: 55
+sachsenspiegel:
+  1235.1.1:
+    type: chronicle
+    origin: meissen
+    location: meissen
+    quality: 87
+terrae_prussiae:
+  1326.1.1:
+    type: chronicle
+    origin: malbork
+    location: malbork
+    quality: 40
+    artist: teu_peter_von_dusburg
+codex_marianus:
+  1000.1.1:
+    type: chronicle
+    origin: ohrid
+    location: ohrid
+    quality: 45
+white_angel:
+  1235.1.1:
+    type: icon
+    origin: prijepolje
+    location: prijepolje
+    quality: 55
+zica_studenica_monasteries:
+  1196.1.1:
+    type: monument
+    origin: zica
+    location: zica
+    quality: 60
+gesta_hungarorum:
+  1230.1.1:
+    #https://en.wikipedia.org/wiki/Gesta_Hungarorum
+    type: chronicle
+    origin: buda
+    location: buda
+    quality: 61
+basilica_of_the_assumption_virgin_mary:
+  1000.1.1:
+    #https://en.wikipedia.org/wiki/Basilica_of_the_Assumption_of_the_Blessed_Virgin_Mary
+    type: monument
+    origin: fehervar
+    location: fehervar
+    quality: 45
+holy_crown_of_hungary:
+  1070.1.1:
+    type: regalia
+    origin: constantinople
+    location: buda
+    quality: 70
+kusanagi_no_tsurugi:
+  -97.1.13:
+    type: regalia
+    origin: kyoto
+    location: yoshino
+    quality: 100
+yata_no_kagami:
+  -97.1.13:
+    type: regalia
+    origin: kyoto
+    location: yoshino
+    quality: 100
+yasakani_no_magatama:
+  -97.1.13:
+    type: regalia
+    origin: kyoto
+    location: yoshino
+    quality: 100
+liber_regum:
+  1209.1.1:
+    type: chronicle
+    origin: pamplona
+    location: pamplona
+    quality: 55
+collegiate_roncesvalles:
+  1221.1.1:
+    type: monument
+    origin: roncesvalles
+    location: roncesvalles
+    quality: 55
+la_oliva_abbey:
+  1145.1.1:
+    type: monument
+    origin: tudela
+    location: tudela
+    quality: 45
+tripitaka_koreana:
+  1237.1.1:
+    #https://en.wikipedia.org/wiki/Tripitaka_Koreana
+    type: scripture
+    origin: inju
+    location: inju
+    quality: 75
+amitabha_triad:
+  1250.1.1:
+    #https://www.metmuseum.org/art/collection/search/39882
+    type: painting
+    origin: kaesong
+    location: kaesong
+    quality: 45
+ksitigarbha:
+  1310.1.1:
+    #https://www.metmuseum.org/art/collection/search/39883
+    type: painting
+    origin: namgyeong
+    location: namgyeong
+    quality: 55
+watermoon_avalokiteshvara:
+  1325.1.1:
+    #https://www.metmuseum.org/art/collection/search/36029
+    type: painting
+    origin: seogyeong
+    location: seogyeong
+    quality: 51
+visualisation_sutra:
+  1323.1.1:
+    #https://upload.wikimedia.org/wikipedia/commons/3/3e/Illustration_of_the_Visualisation_Sutra_%28Chion-in%29.jpg
+    type: painting
+    origin: andong
+    location: andong
+    quality: 44
+sutra_descent_maitreya:
+  1294.1.1:
+    #https://bunka.nii.ac.jp/heritages/detail/453799
+    type: painting
+    origin: taegu
+    location: taegu
+    quality: 64
+hwaom_pure_land:
+  1254.1.1:
+    #https://www.christies.com/lot/lot-4069224/?intObjectID=4069224
+    type: painting
+    origin: gyeongju
+    location: gyeongju
+    quality: 47
+devadatta:
+  1304.1.1:
+    #https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Devadatta_%28Sojiji_Yokohama%29.jpg/250px-Devadatta_%28Sojiji_Yokohama%29.jpg
+    type: painting
+    origin: jinju
+    location: jinju
+    quality: 57
+pohyonsa:
+  1024.1.1:
+    #https://en.wikipedia.org/wiki/Pohyonsa
+    type: monument
+    origin: huicheon
+    location: huicheon
+    quality: 72
+saint_mark_horses:
+  200.1.1:
+    #https://en.wikipedia.org/wiki/Horses_of_Saint_Mark
+    type: statue
+    origin: chios
+    location: venice
+    quality: 60
+saint_mark_basilica:
+  829.1.1:
+    #https://en.wikipedia.org/wiki/St_Mark%27s_Basilica
+    type: monument
+    origin: venice
+    location: venice
+    quality: 82
+bucentaur:
+  1311.1.1:
+    #https://en.wikipedia.org/wiki/Bucentaur
+    type: regalia
+    origin: venice
+    location: venice
+    quality: 64
+two_icons_of_archangel_michael:
+  1000.1.1:
+    type: icon
+    origin: constantinople
+    location: venice
+    quality: 69
+palais_des_papes:
+  1309.1.1:
+    #https://en.wikipedia.org/wiki/Palais_des_Papes
+    type: palace
+    origin: avignon
+    location: avignon
+    quality: 70
+    artist: fra_jean_louvres
+convent_christ:
+  1118.1.1:
+    type: monument
+    origin: tomar
+    location: tomar
+    quality: 80
+alcobaca_monastery:
+  1153.1.1:
+    type: monument
+    origin: alcobaca
+    location: alcobaca
+    quality: 70
+hagia_irene:
+  548.1.1:
+    #https://en.wikipedia.org/wiki/Hagia_Irene
+    type: monument
+    origin: constantinople
+    location: constantinople
+    quality: 57
+hagia_sophia:
+  537.1.1:
+    #https://en.wikipedia.org/wiki/Hagia_Sophia
+    type: monument
+    origin: constantinople
+    location: constantinople
+    quality: 91
+theodosian_walls:
+  413.1.1:
+    #https://en.wikipedia.org/wiki/Walls_of_Constantinople
+    type: monument
+    origin: constantinople
+    location: constantinople
+    quality: 48
+paris_psalter:
+  950.1.1:
+    #https://en.wikipedia.org/wiki/Paris_Psalter
+    type: chronicle
+    origin: constantinople
+    location: constantinople
+    quality: 44
+syntagma_canonum:
+  1335.1.1:
+    #https://en.wikipedia.org/wiki/Syntagma_Canonum
+    type: treatise
+    origin: thessaloniki
+    location: thessaloniki
+    quality: 51
+    artist: byz_matthew_blastares
+ecclesiastica_historia:
+  1317.1.1:
+    #https://en.wikipedia.org/wiki/Nikephoros_Kallistos_Xanthopoulos
+    type: treatise
+    origin: constantinople
+    location: constantinople
+    quality: 51
+    artist: byz_nikephoros_kallistos_xanthopoulos
+song_of_armouris:
+  1012.1.1:
+    #https://en.wikipedia.org/wiki/Song_of_Armouris
+    type: poem
+    origin: constantinople
+    location: constantinople
+    quality: 46
+apoheteftiko_systhma_byzantio:
+  1256.6.1:
+    type: treatise
+    origin: constantinople
+    location: constantinople
+    quality: 50
+historia_polonica:
+  1208.6.1:
+    #https://en.wikipedia.org/wiki/Chronica_seu_originale_regum_et_principum_Poloniae
+    type: chronicle
+    origin: krakow
+    location: krakow
+    quality: 53
+    artist: pol_wincenty_kadlubek
+gesta_principum_polonorum:
+  1116.6.1:
+    type: chronicle
+    origin: krakow
+    location: krakow
+    quality: 74
+bogurodzica:
+  1150.6.1:
+    type: hymnal
+    origin: krakow
+    location: krakow
+    quality: 54
+szczerbiec:
+  1250.1.1:
+    type: regalia
+    origin: krakow
+    location: krakow
+    quality: 85
+gaude_mater_polonia:
+  1253.6.1:
+    type: hymnal
+    origin: krakow
+    location: krakow
+    quality: 61
+    artist: pol_wincenty_z_kielczy
+gesta_danorum:
+  1208.1.1:
+    #https://en.wikipedia.org/wiki/Gesta_Danorum
+    type: chronicle
+    origin: roskilde
+    location: roskilde
+    quality: 61
+    artist: dan_saxo_grammaticus
+roskilde_cathedral:
+  1225.1.1:
+    #https://en.wikipedia.org/wiki/Roskilde_Cathedral
+    type: monument
+    origin: roskilde
+    location: roskilde
+    quality: 79
+tournai_cathedral:
+  1140.1.1:
+    type: monument
+    origin: tournai
+    location: tournai
+    quality: 70
+notre_dame_de_paris:
+  1182.5.19:
+    type: monument
+    origin: paris
+    location: paris
+    quality: 89
+sainte_chapelle:
+  1248.1.1:
+    type: monument
+    origin: paris
+    location: paris
+    quality: 70
+vezelay_abbey:
+  1150.1.1:
+    type: monument
+    origin: avallon
+    location: avallon
+    quality: 70
+mont_saint_michel:
+  1100.1.1:
+    type: monument
+    origin: avranches
+    location: avranches
+    quality: 70
+reims_cathedral:
+  1275.1.1:
+    type: monument
+    origin: reims
+    location: reims
+    quality: 70
+cluny_abbey:
+  910.1.1:
+    type: monument
+    origin: macon
+    location: macon
+    quality: 70
+aachen_cathedral:
+  805.1.1:
+    type: monument
+    origin: aachen
+    location: aachen
+    quality: 70
+gravensteen_castle:
+  1180.1.1:
+    type: monument
+    origin: ghent
+    location: ghent
+    quality: 64
+belfry_bruges:
+  1240.1.1:
+    type: monument
+    origin: ghent
+    location: bruges
+    quality: 68
+portico_de_la_gloria:
+  1188.1.1:
+    type: statue
+    origin: santiago_compostela
+    location: santiago_compostela
+    quality: 45
+cantigas_santa_maria:
+  1284.1.1:
+    type: hymnal
+    origin: sevilla
+    location: sevilla
+    quality: 52
+general_estoria:
+  1284.1.1:
+    type: chronicle
+    origin: toledo
+    location: toledo
+    quality: 48
+cantar_mio_cid:
+  1207.1.1:
+    type: poem
+    origin: burgos
+    location: burgos
+    quality: 87
+estoria_de_espana:
+  1284.1.1:
+    type: chronicle
+    origin: sevilla
+    location: sevilla
+    quality: 51
+mosque_cordoba:
+  988.1.1:
+    type: monument
+    origin: cordoba
+    location: cordoba
+    quality: 62
+giralda:
+  1182.1.1:
+    type: temple_tower
+    origin: sevilla
+    location: sevilla
+    quality: 51
+codex_calixtinus:
+  1145.1.1:
+    type: treatise
+    origin: santiago_compostela
+    location: santiago_compostela
+    quality: 54
+tablas_alfonsies:
+  1272.1.1:
+    type: treatise
+    origin: toledo
+    location: toledo
+    quality: 55
+libros_saber_astrologia:
+  1279.1.1:
+    type: treatise
+    origin: toledo
+    location: toledo
+    quality: 57
+libro_de_los_juegos:
+  1283.1.1:
+    type: treatise
+    origin: toledo
+    location: toledo
+    quality: 60
+marienkapelle:
+  1200.1.1:
+    type: monument
+    origin: munich
+    location: munich
+    quality: 50
+imperial_crown_hre:
+  960.1.1:
+    #https://en.wikipedia.org/wiki/Imperial_Crown_of_the_Holy_Roman_Empire
+    type: regalia
+    origin: cologne
+    location: munich
+    quality: 99
+imperial_orb_hre:
+  1191.1.1:
+    #https://en.wikipedia.org/wiki/Imperial_Regalia
+    type: regalia
+    origin: rome
+    location: munich
+    quality: 90
+saint_stephans_purse:
+  830.1.1:
+    #https://en.wikipedia.org/wiki/St._Stephen%27s_Purse
+    type: regalia
+    origin: jerusalem
+    location: munich
+    quality: 90
+coronation_gospel_hre:
+  799.1.1:
+    #https://en.wikipedia.org/wiki/Vienna_Coronation_Gospels
+    type: regalia
+    origin: aachen
+    location: munich
+    quality: 85
+sahib_ata_kulliyesi:
+  1258.1.1:
+    #https://en.wikipedia.org/wiki/Sahib_Ata_Complex
+    type: monument
+    origin: konya
+    location: konya
+    quality: 67
+gokmedrese:
+  1277.1.1:
+    #https://en.wikipedia.org/wiki/G%C3%B6k_Medrese,_Sivas
+    type: monument
+    origin: sivas
+    location: sivas
+    quality: 52
+ulu_beden:
+  1208.1.1:
+    #https://en.wikipedia.org/wiki/Ulu_Beden_Tower
+    type: temple_tower
+    origin: diyarbekir
+    location: diyarbekir
+    quality: 27
+yedi_kardes:
+  1208.1.1:
+    #https://en.wikipedia.org/wiki/Yedi_Karde%C5%9F_Tower
+    type: temple_tower
+    origin: diyarbekir
+    location: diyarbekir
+    quality: 31
+maqamat_al_hariri:
+  1100.1.1:
+    #https://en.wikipedia.org/wiki/Maqamat_al-Hariri
+    type: novel
+    origin: hamadan
+    location: cairo
+    quality: 50
+    artist: jal_al_hariri
+great_iwan:
+  1300.1.1:
+    #https://en.wikipedia.org/wiki/Great_Iwan
+    type: monument
+    origin: cairo
+    location: cairo
+    quality: 51
+qalawun_complex:
+  1285.1.1:
+    #https://en.wikipedia.org/wiki/Great_Iwan
+    type: monument
+    origin: cairo
+    location: cairo
+    quality: 61
+al_nasir_mosque:
+  1318.1.1:
+    #https://en.wikipedia.org/wiki/Al-Nasir_Muhammad_Mosque
+    type: monument
+    origin: cairo
+    location: cairo
+    quality: 40
+al_karimi_mosque:
+  1318.1.1:
+    type: monument
+    origin: damascus
+    location: damascus
+    quality: 64
+rawd_al_qirtas:
+  1326.1.1:
+    #https://en.wikipedia.org/wiki/Rawd_al-Qirtas
+    type: chronicle
+    origin: fez
+    location: fez
+    quality: 51
+    artist: mor_ibn_abi_zar
+ait_ben_haddou:
+  1000.1.1:
+    #https://en.wikipedia.org/wiki/A%C3%AFt_Benhaddou
+    type: monument
+    origin: ouarzazate
+    location: ouarzazate
+    quality: 34
+kutubiyya_mosque:
+  1158.1.1:
+    #https://en.wikipedia.org/wiki/Kutubiyya_Mosque
+    type: temple_tower
+    origin: marrakesh
+    location: marrakesh
+    quality: 70
+ben_youssef_mosque:
+  1130.5.3:
+    type: monument
+    origin: marrakesh
+    location: marrakesh
+    quality: 66
+gediminas_cap:
+  1275.1.1:
+    #https://en.wikipedia.org/wiki/Gediminas%27_Cap
+    type: regalia
+    origin: vilnius
+    location: vilnius
+    quality: 61
+dai_viet_su_ky:
+  1272.1.1:
+    #https://en.wikipedia.org/wiki/%C4%90%E1%BA%A1i_Vi%E1%BB%87t_s%E1%BB%AD_k%C3%BD
+    type: chronicle
+    origin: thang_long
+    location: thang_long
+    quality: 68
+    artist: dai_le_van_huu
+dai_an_nam_chi_luoc:
+  1335.1.1:
+    #https://en.wikipedia.org/wiki/An_Nam_ch%C3%AD_l%C6%B0%E1%BB%A3c
+    type: chronicle
+    origin: thang_long
+    location: thang_long
+    quality: 67
+preah_khan_reach:
+  850.1.1:
+    #https://en.wikipedia.org/wiki/Preah_Khan_Reach
+    type: regalia
+    origin: angkor
+    location: angkor
+    quality: 71
+preah_lompeng_chey:
+  1336.1.1:
+    type: regalia
+    origin: angkor
+    location: angkor
+    quality: 65
+emerald_buddha:
+  -43.1.1:
+    #https://en.wikipedia.org/wiki/Emerald_Buddha
+    type: statue
+    origin: patna
+    location: angkor
+    quality: 89
+qutb_minar:
+  1200.1.1:
+    type: monument
+    origin: delhi
+    location: delhi
+    quality: 59
+takht_i_firoza:
+  1336.1.1:
+    #https://en.wikipedia.org/wiki/Turquoise_Throne
+    type: regalia
+    origin: warangal
+    location: warangal
+    quality: 72
+great_mosque_of_samarra:
+  851.1.1:
+    type: monument
+    origin: samarra
+    location: samarra
+    quality: 72
+stonehenge:
+  -2500.1.1:
+    type: monument
+    origin: amesbury
+    location: amesbury
+    quality: 10
+colosseum_of_rome:
+  80.1.1:
+    type: monument
+    origin: rome
+    location: rome
+    quality: 72
+parthenon_of_athens:
+  -432.1.1:
+    type: monument
+    origin: athens
+    location: athens
+    quality: 59
+pyramid_art_key:
+  -2560.1.1:
+    type: monument
+    origin: giza
+    location: giza
+    quality: 87
+sanchi_stupa:
+  -250.1.1:
+    type: monument
+    origin: bhopal
+    location: bhopal
+    quality: 72
+leshan_giant_buddha:
+  803.1.1:
+    type: monument
+    origin: longyou_jiading
+    location: longyou_jiading
+    quality: 59
+teotihuacan_temple:
+  200.1.1:
+    type: monument
+    origin: tehotihuacan
+    location: tehotihuacan
+    quality: 34
+melk_abbey:
+  1089.1.1:
+    type: monument
+    origin: melk
+    location: melk
+    quality: 72
+dormition_cathedral_vladimir:
+  1160.1.1:
+    type: monument
+    origin: vladimir
+    location: vladimir
+    quality: 89
+ivanovsky_monastery:
+  1243.1.1:
+    type: monument
+    origin: pskov
+    location: pskov
+    quality: 72
+kyiv_pechersk_lavra:
+  1051.1.1:
+    type: monument
+    origin: kyiv
+    location: kyiv
+    quality: 89
+art_of_war:
+  -450.1.1:
+    type: treatise
+    origin: dadu
+    location: dadu
+    quality: 89
+gaocheng_astronomical_observatory:
+  1276.1.1:
+    type: monument
+    origin: dengfeng
+    location: dengfeng
+    quality: 59
+kaogongji:
+  -300.1.1:
+    type: treatise
+    origin: dadu
+    location: dadu
+    quality: 72
+pagoda_of_fogong_temple:
+  1195.1.1:
+    type: monument
+    origin: jincheng
+    location: jincheng
+    quality: 72
+giant_wild_goose_pagoda:
+  652.1.1:
+    type: monument
+    origin: jingzhao
+    location: jingzhao
+    quality: 72

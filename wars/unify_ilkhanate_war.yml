@@ -1,0 +1,229 @@
+war_3:
+  1336.7.24:
+    #Name
+    name: "UNIFY_ILKHANATE_WAR_NAME"
+    ordinal: 1
+    
+    #CB
+    war_type: superiority
+    cb_type: unify_ilkhanate_wargoal
+    casus_belli: cb_unify_ilkahante
+    
+    #Participants
+    HLG:
+      side: attacker
+      reason: instigator
+    HLL:
+      side: attacker
+      reason: subject
+      caller: HLG
+    GRG:
+      side: attacker
+      reason: alliance
+      caller: HLG
+    ASR:
+      side: attacker
+      reason: subject
+      caller: GRG
+    HDN:
+      side: attacker
+      reason: subject
+      caller: GRG
+    JKR:
+      side: attacker
+      reason: subject
+      caller: GRG
+    KHT:
+      side: attacker
+      reason: subject
+      caller: GRG
+    KSA:
+      side: attacker
+      reason: subject
+      caller: GRG
+    MZN:
+      side: attacker
+      reason: subject
+      caller: GRG
+    QOM:
+      side: attacker
+      reason: subject
+      caller: GRG
+    SBZ:
+      side: attacker
+      reason: subject
+      caller: GRG
+    SFR:
+      side: attacker
+      reason: subject
+      caller: GRG
+    KRT:
+      side: attacker
+      reason: subject
+      caller: GRG
+    KHF:
+      side: attacker
+      reason: subject
+      caller: KRT
+    MRV:
+      side: attacker
+      reason: subject
+      caller: KRT
+    JAL:
+      side: defender
+      reason: target
+    ARD:
+      side: defender
+      reason: subject
+      caller: JAL
+    ATZ:
+      side: defender
+      reason: subject
+      caller: JAL
+    DML:
+      side: defender
+      reason: subject
+      caller: JAL
+    HBN:
+      side: defender
+      reason: subject
+      caller: JAL
+    HDR:
+      side: defender
+      reason: subject
+      caller: JAL
+    HNY:
+      side: defender
+      reason: subject
+      caller: JAL
+    IHB:
+      side: defender
+      reason: subject
+      caller: JAL
+    KEL:
+      side: defender
+      reason: subject
+      caller: JAL
+    KKL:
+      side: defender
+      reason: subject
+      caller: JAL
+    KLR:
+      side: defender
+      reason: subject
+      caller: JAL
+    KRI:
+      side: defender
+      reason: subject
+      caller: JAL
+    KTW:
+      side: defender
+      reason: subject
+      caller: JAL
+    MKW:
+      side: defender
+      reason: subject
+      caller: JAL
+    RKL:
+      side: defender
+      reason: subject
+      caller: JAL
+    SLI:
+      side: defender
+      reason: subject
+      caller: JAL
+    SYY:
+      side: defender
+      reason: subject
+      caller: JAL
+    ZBR:
+      side: defender
+      reason: subject
+      caller: JAL
+    ERE:
+      side: defender
+      reason: subject
+      caller: JAL
+    BFR:
+      side: defender
+      reason: subject
+      caller: ERE
+    HCI:
+      side: defender
+      reason: subject
+      caller: ERE
+    KBD:
+      side: defender
+      reason: subject
+      caller: ERE
+    TDJ:
+      side: defender
+      reason: subject
+      caller: ERE
+    SUT:
+      side: defender
+      reason: subject
+      caller: JAL
+    BHT:
+      side: defender
+      reason: subject
+      caller: SUT
+    BIN:
+      side: defender
+      reason: subject
+      caller: SUT
+    BIT:
+      side: defender
+      reason: subject
+      caller: SUT
+    CEM:
+      side: defender
+      reason: subject
+      caller: SUT
+    DIL:
+      side: defender
+      reason: subject
+      caller: SUT
+    DMB:
+      side: defender
+      reason: subject
+      caller: SUT
+    DSN:
+      side: defender
+      reason: subject
+      caller: SUT
+    EGL:
+      side: defender
+      reason: subject
+      caller: SUT
+    HKK:
+      side: defender
+      reason: subject
+      caller: SUT
+    HZR:
+      side: defender
+      reason: subject
+      caller: SUT
+    JLM:
+      side: defender
+      reason: subject
+      caller: SUT
+    MZJ:
+      side: defender
+      reason: subject
+      caller: SUT
+    SOH:
+      side: defender
+      reason: subject
+      caller: SUT
+    ZRQ:
+      side: defender
+      reason: subject
+      caller: SUT
+    ZZR:
+      side: defender
+      reason: subject
+      caller: SUT
+  1338: #TODO: Fix end date
+    truce_length: 60
+    action: no

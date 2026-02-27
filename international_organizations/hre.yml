@@ -1,0 +1,37 @@
+hre:
+  962.2.2:
+    type: hre
+    map_color: hsv360 { 40 50 70 }
+    members: 
+      add: COT CRR FLO GEN LUC MAN MFA MLO MND MSP PAR PAV PIE PIS PRA SAL SAV GNV SIE PTG TTN VLT HOL BRB LUX LIE CHN LIM NAM LOO VBG HRN CJK BSC VER MOU DAU ORA VLN FRT BXN UTR FRI DIT HSA LUB LBB THU BRE BRM BRG SAA STE HNB SPY PLN GLA SOR SPB SWB RUP HVB SWR WRN MKL RZB GSW WOL KMM LAU HAM HBS BBG ANH BNB MFE MRB NMB QUB WMA SWZ SCL AQU PRO FLD SHS NHS MLH ERF HSF PDB ZIG HNA BUD WTZ DIE FRN ERB WRM SYE ZWE LNN SPO SYN KOL DUN APR AAC JUL GEL ZUT GMK WTG DTM ESS MRS KLE ANB LPP HOX RVB MDN OSN TCK MUN OSW LUN BRU GBH HDH GOS SCB HOY NIE DPH VRD RTB OLD ZAG JAW LGC OEL OPL TES BYM RCB MVA AGC WER MBZ MFK BCH STG ZUR SYZ LCA URI OBW LCU SIT BRN SLT NEU BAS LSA KYB TRN ANS PAD EIC WEI NUR WBG RIE MSB UFF ROT DNB MEM KMP ULM KNZ OET SWH HBR BDE WDB RVA BIB UBL HHB FBG OFB WLD PRZ BRD LDB GOR FCB ALL ZEE CAM STV HTR HPL NWG SWD SCI ZIE BRZ NMS STZ NMD WRC GLO NYS OPV SIZ PDK VUD BMS BLB HSP BSK MSO WGO BHL GLN AOS RBG FLK NSI RDL NID MDS LDA TGG GRY VEL PSZ SFC CFC MUR HAG MUL LIC WDE NSH NSS BLM DIS EVS FUR GRK HAC JEV SAW SAB THD WIE ELL HEH HLF HOH KIR NEL TUB KTZ NSW LEU PST
+    leader: UBV
+    regions: 
+      add: south_german_region
+    areas: 
+      add: brabant_area friesland_area holland_area wallonia_area holstein_area brandenburg_area rhineland_area hesse_area westphalia_area lower_saxony_area upper_saxony_area mecklenburg_area  alsace_area franche_comte_area savoy_area  liguria_area lombardy_area piemonte_area  silesia_area
+    provinces: 
+      add: bresse_province  piacenza_province parma_province reggioem_province modena_province  pays_messin_province pays_nancy_province sarregueminois_province verdunois_province vosges_province  schwerin_province vorpommern_province stettin_province koslin_province pyritz_province stolp_province  aquisextain_province dignois_province dracenois_province nice_province  florence_province grosseto_province lucca_province pisa_province siena_province  belluno_province friuli_province verona_province vicenza_province  lower_styria_province lower_carniola_province upper_carniola_province
+    locations: 
+      add: aalst hulst sint_niklaas cambrai mouzon clermont_en_argonne saint_mihiel auxonne louhans trevoux villars apt forcalquier orange arezzo cortona modigliana padova este monselice pazin rijeka oswiecim zywiec rawicz slawno slupsk miastko nowoszczecin drawsko choszczno tolmin gorizia
+    elector: 
+      add: BOH SWB BRA PAL
+    archbishop_elector: 
+      add: TRI KOL MAI
+    free_city: 
+      add: AAC BRM FRN GOS HAM KNZ MEM NUR REG ROT RVA ULM SYE LUB DTM AGC KMP WTZ WRM BRN BSC ZUR LDA SFC CFC MUL
+    imperial_peasant_republic: 
+      add: FRI
+    imperial_prelate: 
+      add: EIC WBG AUG PSS SLZ BAM BCH SIT BAS LSA FRE BRC SPY WLD ALS MTZ HVB RZB KMM HBS MRB NMB FLD HSF PDB APR ESS HOX MDN OSN MUN HDH VRD UTR CAM STV SCL AQU BRE MOU MAG BMS BLB MUR HAG
+    imperial_prince: 
+      add: HAB LBV GRF TNT CLI ORT WUR HES LOR SLM CEV MTB BNT CRR FLO MFA MSP PIE PRA SAL SAV GNV PTG HOL BRB LUX LIE CHN LIM NAM LOO VBG HRN CJK DAU ORA VLN FRT BXN HSA LBB THU BRG SAA STE HNB PLN GLA SOR SPB RUP SWR WRN MKL GSW WOL LAU BBG ANH BNB MFE QUB WMA SWZ PRO SHS ERF ZIG HNA BUD DIE ERB ZWE LNN SPO SYN DUN JUL GEL ZUT GMK WTG MRS KLE ANB LPP GLN RVB TCK OSW LUN BRU GBH SCB HOY NIE DPH RTB OLD ZAG JAW LGC OEL OPL TES BYM RCB MVA WER MBZ MFK KYB TRN ANS RIE MSB UFF DNB OET HBR BDE HHB FBG BSK AOS PRZ BRD LDB GOR FCB ALL ZEE HTR HPL NWG SWD SCI ZIE BRZ NMS STZ NMD WRC GLO NYS OPV SIZ PDK VUD HSP WGO BHL RBG FLK NSI RDL NID MDS TGG GRY VEL PSZ LIC WDE MSO NSH NSS BLM DIS EVS FUR GRK HAC JEV SAW SAB THD WIE ELL HEH HLF HOH KIR NEL TUB LEU
+    laws: 
+      add: hre_religion_catholic only_imperial_religion_policy no_golden_bull_policy no_monetary_contribution
+    regnal_numbers: 
+      name_charles: 3
+      name_lothar: 2 
+      name_wido: 1 
+      name_lambert: 1 
+      name_arnulf: 1 
+      name_berengar: 1
+    imperial_authority: 5

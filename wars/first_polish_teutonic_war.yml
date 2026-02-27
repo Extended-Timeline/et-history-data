@@ -1,0 +1,98 @@
+war_1:
+  1283.1.1:
+    #Name
+    name: "CRUSADE_WAR_NAME"
+    ordinal: 1
+    
+    #CB
+    war_type: take_province
+    cb_type: crusade_conquest
+    casus_belli: cb_crusade
+    target: vilnius
+    
+    #Participants
+    TEU:
+      side: attacker
+      reason: instigator
+    ERM:
+      side: attacker
+      reason: subject
+      caller: TEU
+    SMD:
+      side: attacker
+      reason: subject
+      caller: TEU
+    PMS:
+      side: attacker
+      reason: subject
+      caller: TEU
+    CHL:
+      side: attacker
+      reason: subject
+      caller: TEU
+    LIV:
+      side: attacker
+      reason: alliance
+      caller: TEU
+    RIG:
+      side: attacker
+      reason: subject
+      caller: LIV
+    ARR:
+      side: attacker
+      reason: subject
+      caller: LIV
+    KUR:
+      side: attacker
+      reason: subject
+      caller: LIV
+    BIO:
+      side: attacker
+      reason: subject
+      caller: LIV
+    BID:
+      side: attacker
+      reason: subject
+      caller: LIV
+    LIT:
+      side: defender
+      reason: target
+    DRU:
+      side: defender
+      reason: subject
+      caller: LIT
+    NRK:
+      side: defender
+      reason: subject
+      caller: LIT
+    PNK:
+      side: defender
+      reason: subject
+      caller: LIT
+    POK:
+      side: defender
+      reason: subject
+      caller: LIT
+    SSK:
+      side: defender
+      reason: subject
+      caller: LIT
+    TPS:
+      side: defender
+      reason: subject
+      caller: LIT
+    TUV:
+      side: defender
+      reason: subject
+      caller: LIT
+    VBK:
+      side: defender
+      reason: subject
+      caller: LIT
+    RZH:
+      side: defender
+      reason: subject
+      caller: LIT
+  1343.7.8:
+    truce_length: 60
+    action: no

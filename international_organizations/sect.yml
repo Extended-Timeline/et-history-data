@@ -1,0 +1,300 @@
+sect_confucianism:
+  1:
+    type: sect
+    members: 
+      add: DAI SSG
+    laws: 
+      add: confucianism_policy
+    icon: confucianism
+    sect_favor: 70 
+    religion: mahayana
+    areas: 
+      add: henan_area hebei_area shandong_area haiyou_area  gwanseo_area gwandong_area yeongnam_area gyeonggi_area honam_area haeseo_area hoseo_area  fujian_area hubei_area hunan_area wuling_area jiangxi_area huaixi_area huaidong_area jiangnan_area zhejiang_area  hokurikudou_area kinai_area nankaidou_area saikaidou_area sanindou_area sanyoudou_area ou_area toukaidou_area tousandou_area
+    provinces: 
+      add: anzhou_province baoan_province baoding_province bazhou_province qingchi changping_province daming_province dingzhou_province guangping_province hejian_province jingzhou_beizhili_province jizhou_province jizhou_zhending_province kaizhou_province luanzhou_province qingzhou_beizhili_province qizhou_province shenzhou_province shunde_province shuntian_province tongzhou_beizhili_province wanquan_province xingzhou_province yizhou_province yongping_province zhaozhou_province zhending_province  baode_province daizhou_province datong_province fenzhou_province huozhou_province jiangzhou_province kelan_province liaozhou_province luan_province pingding_province pingyang_province puzhou_shanxi_province qinzhou_province shizhou_shanxi_province taiyuan_province xiezhou_province xinzhou_province xizhou_province yingzhou_shanxi_province yuzhou_shanxi_province zezhou_province  anlu_province baoqing_province changde_province changsha_province chenzhou_province dean_province fangzhou_province guiyang_province hanyang_province hengzhou_province huangzhou_province jingmen_province jingzhou_province junzhou_province mianyang_province suizhou_province wuchang_province xiangxiang_province xiangyang_province xingguo_province yongzhou_province youzhou_province yuezhou_province  ganzhou_gansu_province xining_province yongchang_gansu_province  baoning_province bazhou_sichuan_province changning_province changzhou_sichuan_province chengdu_province chongqing_province dazhou_province fuzhou_sichuan_province guangan_province guangyuan_province hanzhou_province hezhou_sichuan_province jianzhou_province jianzhou_west_province kuizhou_province longan_province luzhou_sichuan_province meizhou_province pengzhou_province qiongzhou_sichuan_province shunqing_province	suining_province tongchuan_province xuzhou_sichuan_province  rongzhou_wuzhou_province tengzhou_guangxi_province xunzhou_province yulin_guangxi_province  binzhou_shaanxi_province fengxiang_province fengzhou_province fuzhou_shaanxi_province gongchang_province hanzhong_province huizhou_shaanxi_province huazhou_shaanxi_province jiazhou_province jiezhou_province jingzhou_shaanxi_province lintao_province minzhou_province ningxia_province pingliang_province qianzhou_province qingyang_province qinzhou_shaanxi_province shangzhou_province suide_province tongzhou_shaanxi_province xian_province xingan_province yanan_province yangzhou_shaanxi_province yaozhou_province yulin_province  chaozhou_province deqing_province dongguan_province gaozhou_province guangzhou_province heyuan_province huazhou_province huizhou_guangdong_province leizhou_province lianzhou_province nanen_province nanxiong_province panyu_province shaozhou_province xinhui_province xunzhou_guangdong_province yingde_province zhaoqing_province  hai_dong_province nam_sach_province nghe_an_province thang_long_province thien_truong_province
+
+sect_daoism:
+  1:
+    type: sect
+    laws: 
+      add: daoism_policy
+    icon: daoism
+    sect_favor: 60
+    religion: mahayana
+    regions: 
+      add: north_china_region
+    areas: 
+      add: fujian_area hubei_area hunan_area wuling_area jiangxi_area huaixi_area huaidong_area jiangnan_area zhejiang_area  guangdong_area haibei_hainan_area guangxi_area liangjiang_area guizhou_area  chuanxi_area chuandong_area chuannan_area
+    provinces: 
+      add: binzhou_shaanxi_province fengxiang_province fengzhou_province fuzhou_shaanxi_province gongchang_province hanzhong_province huizhou_shaanxi_province huazhou_shaanxi_province jiazhou_province jiezhou_province jingzhou_shaanxi_province lintao_province minzhou_province ningxia_province pingliang_province qianzhou_province qingyang_province qinzhou_shaanxi_province shangzhou_province suide_province tongzhou_shaanxi_province xian_province xingan_province yanan_province yangzhou_shaanxi_province yaozhou_province yulin_province  rongzhou_wuzhou_province tengzhou_guangxi_province xunzhou_province yulin_guangxi_province
+
+sect_pure_land:
+  1:
+    type: sect
+    icon: pure_land_school
+    members: 
+      add: DAI SSG
+    laws: 
+      add: pure_land_school_policy
+    sect_favor: 70 
+    religion: mahayana
+    areas: 
+      add: henan_area hebei_area shandong_area haiyou_area  gwanseo_area gwandong_area yeongnam_area gyeonggi_area honam_area haeseo_area hoseo_area  fujian_area hubei_area hunan_area wuling_area jiangxi_area huaixi_area huaidong_area jiangnan_area zhejiang_area  hokurikudou_area kinai_area nankaidou_area saikaidou_area sanindou_area sanyoudou_area ou_area toukaidou_area tousandou_area
+    provinces: 
+      add: anzhou_province baoan_province baoding_province bazhou_province qingchi changping_province daming_province dingzhou_province guangping_province hejian_province jingzhou_beizhili_province jizhou_province jizhou_zhending_province kaizhou_province luanzhou_province qingzhou_beizhili_province qizhou_province shenzhou_province shunde_province shuntian_province tongzhou_beizhili_province wanquan_province xingzhou_province yizhou_province yongping_province zhaozhou_province zhending_province  baode_province daizhou_province datong_province fenzhou_province huozhou_province jiangzhou_province kelan_province liaozhou_province luan_province pingding_province pingyang_province puzhou_shanxi_province qinzhou_province shizhou_shanxi_province taiyuan_province xiezhou_province xinzhou_province xizhou_province yingzhou_shanxi_province yuzhou_shanxi_province zezhou_province  anlu_province baoqing_province changde_province changsha_province chenzhou_province dean_province fangzhou_province guiyang_province hanyang_province hengzhou_province huangzhou_province jingmen_province jingzhou_province junzhou_province mianyang_province suizhou_province wuchang_province xiangxiang_province xiangyang_province xingguo_province yongzhou_province youzhou_province yuezhou_province  ganzhou_gansu_province xining_province yongchang_gansu_province  baoning_province bazhou_sichuan_province changning_province changzhou_sichuan_province chengdu_province chongqing_province dazhou_province fuzhou_sichuan_province guangan_province guangyuan_province hanzhou_province hezhou_sichuan_province jianzhou_province jianzhou_west_province kuizhou_province longan_province luzhou_sichuan_province meizhou_province pengzhou_province qiongzhou_sichuan_province shunqing_province	suining_province tongchuan_province xuzhou_sichuan_province  rongzhou_wuzhou_province tengzhou_guangxi_province xunzhou_province yulin_guangxi_province  binzhou_shaanxi_province fengxiang_province fengzhou_province fuzhou_shaanxi_province gongchang_province hanzhong_province huizhou_shaanxi_province huazhou_shaanxi_province jiazhou_province jiezhou_province jingzhou_shaanxi_province lintao_province minzhou_province ningxia_province pingliang_province qianzhou_province qingyang_province qinzhou_shaanxi_province shangzhou_province suide_province tongzhou_shaanxi_province xian_province xingan_province yanan_province yangzhou_shaanxi_province yaozhou_province yulin_province  chaozhou_province deqing_province dongguan_province gaozhou_province guangzhou_province heyuan_province huazhou_province huizhou_guangdong_province leizhou_province lianzhou_province nanen_province nanxiong_province panyu_province shaozhou_province xinhui_province xunzhou_guangdong_province yingde_province zhaoqing_province  hai_dong_province nam_sach_province nghe_an_province thang_long_province thien_truong_province
+
+sect_tiantai:
+  550.1.1:
+    type: sect
+    icon: tiantai_buddhism
+    laws: 
+      add: tiantai_policy
+    sect_favor: 50 
+    religion: mahayana
+    areas: 
+      add: henan_area hebei_area shandong_area haiyou_area  gwanseo_area gwandong_area yeongnam_area gyeonggi_area honam_area haeseo_area hoseo_area  fujian_area hubei_area hunan_area wuling_area jiangxi_area huaixi_area huaidong_area jiangnan_area zhejiang_area
+    provinces: 
+      add: anzhou_province baoan_province baoding_province bazhou_province qingchi changping_province daming_province dingzhou_province guangping_province hejian_province jingzhou_beizhili_province jizhou_province jizhou_zhending_province kaizhou_province luanzhou_province qingzhou_beizhili_province qizhou_province shenzhou_province shunde_province shuntian_province tongzhou_beizhili_province wanquan_province xingzhou_province yizhou_province yongping_province zhaozhou_province zhending_province  baode_province daizhou_province datong_province fenzhou_province huozhou_province jiangzhou_province kelan_province liaozhou_province luan_province pingding_province pingyang_province puzhou_shanxi_province qinzhou_province shizhou_shanxi_province taiyuan_province xiezhou_province xinzhou_province xizhou_province yingzhou_shanxi_province yuzhou_shanxi_province zezhou_province  anlu_province baoqing_province changde_province changsha_province chenzhou_province dean_province fangzhou_province guiyang_province hanyang_province hengzhou_province huangzhou_province jingmen_province jingzhou_province junzhou_province mianyang_province suizhou_province wuchang_province xiangxiang_province xiangyang_province xingguo_province yongzhou_province youzhou_province yuezhou_province  ganzhou_gansu_province xining_province yongchang_gansu_province  baoning_province bazhou_sichuan_province changning_province changzhou_sichuan_province chengdu_province chongqing_province dazhou_province fuzhou_sichuan_province guangan_province guangyuan_province hanzhou_province hezhou_sichuan_province jianzhou_province jianzhou_west_province kuizhou_province longan_province luzhou_sichuan_province meizhou_province pengzhou_province qiongzhou_sichuan_province shunqing_province	suining_province tongchuan_province xuzhou_sichuan_province  rongzhou_wuzhou_province tengzhou_guangxi_province xunzhou_province yulin_guangxi_province  binzhou_shaanxi_province fengxiang_province fengzhou_province fuzhou_shaanxi_province gongchang_province hanzhong_province huizhou_shaanxi_province huazhou_shaanxi_province jiazhou_province jiezhou_province jingzhou_shaanxi_province lintao_province minzhou_province ningxia_province pingliang_province qianzhou_province qingyang_province qinzhou_shaanxi_province shangzhou_province suide_province tongzhou_shaanxi_province xian_province xingan_province yanan_province yangzhou_shaanxi_province yaozhou_province yulin_province  chaozhou_province deqing_province dongguan_province gaozhou_province guangzhou_province heyuan_province huazhou_province huizhou_guangdong_province leizhou_province lianzhou_province nanen_province nanxiong_province panyu_province shaozhou_province xinhui_province xunzhou_guangdong_province yingde_province zhaoqing_province
+
+sect_tendai:
+  800.1.1:
+    type: sect
+    icon: tendai_buddhism
+    laws: 
+      add: tiantai_policy vajrayana_policy
+    sect_favor: 60 
+    religion: shinto
+    areas: 
+      add: hokurikudou_area kinai_area nankaidou_area saikaidou_area sanindou_area sanyoudou_area ou_area toukaidou_area tousandou_area
+
+sect_dharma:
+  1:
+    type: sect
+    icon: dharma_school
+    laws: 
+      add: dharma_school_policy
+    sect_favor: 50 
+    religion: mahayana
+    areas: 
+      add: henan_area hebei_area shandong_area haiyou_area  gwanseo_area gwandong_area yeongnam_area gyeonggi_area honam_area haeseo_area hoseo_area  fujian_area hubei_area hunan_area wuling_area jiangxi_area huaixi_area huaidong_area jiangnan_area zhejiang_area  hokurikudou_area kinai_area nankaidou_area saikaidou_area sanindou_area sanyoudou_area ou_area toukaidou_area tousandou_area
+    provinces: 
+      add: anzhou_province baoan_province baoding_province bazhou_province qingchi changping_province daming_province dingzhou_province guangping_province hejian_province jingzhou_beizhili_province jizhou_province jizhou_zhending_province kaizhou_province luanzhou_province qingzhou_beizhili_province qizhou_province shenzhou_province shunde_province shuntian_province tongzhou_beizhili_province wanquan_province xingzhou_province yizhou_province yongping_province zhaozhou_province zhending_province  baode_province daizhou_province datong_province fenzhou_province huozhou_province jiangzhou_province kelan_province liaozhou_province luan_province pingding_province pingyang_province puzhou_shanxi_province qinzhou_province shizhou_shanxi_province taiyuan_province xiezhou_province xinzhou_province xizhou_province yingzhou_shanxi_province yuzhou_shanxi_province zezhou_province  anlu_province baoqing_province changde_province changsha_province chenzhou_province dean_province fangzhou_province guiyang_province hanyang_province hengzhou_province huangzhou_province jingmen_province jingzhou_province junzhou_province mianyang_province suizhou_province wuchang_province xiangxiang_province xiangyang_province xingguo_province yongzhou_province youzhou_province yuezhou_province  ganzhou_gansu_province xining_province yongchang_gansu_province  baoning_province bazhou_sichuan_province changning_province changzhou_sichuan_province chengdu_province chongqing_province dazhou_province fuzhou_sichuan_province guangan_province guangyuan_province hanzhou_province hezhou_sichuan_province jianzhou_province jianzhou_west_province kuizhou_province longan_province luzhou_sichuan_province meizhou_province pengzhou_province qiongzhou_sichuan_province shunqing_province	suining_province tongchuan_province xuzhou_sichuan_province  rongzhou_wuzhou_province tengzhou_guangxi_province xunzhou_province yulin_guangxi_province  binzhou_shaanxi_province fengxiang_province fengzhou_province fuzhou_shaanxi_province gongchang_province hanzhong_province huizhou_shaanxi_province huazhou_shaanxi_province jiazhou_province jiezhou_province jingzhou_shaanxi_province lintao_province minzhou_province ningxia_province pingliang_province qianzhou_province qingyang_province qinzhou_shaanxi_province shangzhou_province suide_province tongzhou_shaanxi_province xian_province xingan_province yanan_province yangzhou_shaanxi_province yaozhou_province yulin_province  chaozhou_province deqing_province dongguan_province gaozhou_province guangzhou_province heyuan_province huazhou_province huizhou_guangdong_province leizhou_province lianzhou_province nanen_province nanxiong_province panyu_province shaozhou_province xinhui_province xunzhou_guangdong_province yingde_province zhaoqing_province
+
+sect_flower_garland:
+  620.1.1:
+    type: sect
+    icon: flower_garland_school
+    members: 
+      add: KOR
+    laws: 
+      add: flower_garland_school_policy vajrayana_policy
+    sect_favor: 60 
+    religion: mahayana
+    areas: 
+      add: henan_area hebei_area shandong_area haiyou_area  gwanseo_area gwandong_area yeongnam_area gyeonggi_area honam_area haeseo_area hoseo_area  fujian_area hubei_area hunan_area wuling_area jiangxi_area huaixi_area huaidong_area jiangnan_area zhejiang_area  hokurikudou_area kinai_area nankaidou_area saikaidou_area sanindou_area sanyoudou_area ou_area toukaidou_area tousandou_area
+    provinces: 
+      add: anzhou_province baoan_province baoding_province bazhou_province qingchi changping_province daming_province dingzhou_province guangping_province hejian_province jingzhou_beizhili_province jizhou_province jizhou_zhending_province kaizhou_province luanzhou_province qingzhou_beizhili_province qizhou_province shenzhou_province shunde_province shuntian_province tongzhou_beizhili_province wanquan_province xingzhou_province yizhou_province yongping_province zhaozhou_province zhending_province  baode_province daizhou_province datong_province fenzhou_province huozhou_province jiangzhou_province kelan_province liaozhou_province luan_province pingding_province pingyang_province puzhou_shanxi_province qinzhou_province shizhou_shanxi_province taiyuan_province xiezhou_province xinzhou_province xizhou_province yingzhou_shanxi_province yuzhou_shanxi_province zezhou_province  anlu_province baoqing_province changde_province changsha_province chenzhou_province dean_province fangzhou_province guiyang_province hanyang_province hengzhou_province huangzhou_province jingmen_province jingzhou_province junzhou_province mianyang_province suizhou_province wuchang_province xiangxiang_province xiangyang_province xingguo_province yongzhou_province youzhou_province yuezhou_province  ganzhou_gansu_province xining_province yongchang_gansu_province  baoning_province bazhou_sichuan_province changning_province changzhou_sichuan_province chengdu_province chongqing_province dazhou_province fuzhou_sichuan_province guangan_province guangyuan_province hanzhou_province hezhou_sichuan_province jianzhou_province jianzhou_west_province kuizhou_province longan_province luzhou_sichuan_province meizhou_province pengzhou_province qiongzhou_sichuan_province shunqing_province	suining_province tongchuan_province xuzhou_sichuan_province  rongzhou_wuzhou_province tengzhou_guangxi_province xunzhou_province yulin_guangxi_province  binzhou_shaanxi_province fengxiang_province fengzhou_province fuzhou_shaanxi_province gongchang_province hanzhong_province huizhou_shaanxi_province huazhou_shaanxi_province jiazhou_province jiezhou_province jingzhou_shaanxi_province lintao_province minzhou_province ningxia_province pingliang_province qianzhou_province qingyang_province qinzhou_shaanxi_province shangzhou_province suide_province tongzhou_shaanxi_province xian_province xingan_province yanan_province yangzhou_shaanxi_province yaozhou_province yulin_province  chaozhou_province deqing_province dongguan_province gaozhou_province guangzhou_province heyuan_province huazhou_province huizhou_guangdong_province leizhou_province lianzhou_province nanen_province nanxiong_province panyu_province shaozhou_province xinhui_province xunzhou_guangdong_province yingde_province zhaoqing_province  hai_dong_province nam_sach_province nghe_an_province thang_long_province thien_truong_province
+
+sect_meditation:
+  620.1.1:
+    type: sect
+    icon: meditation_school
+    members: 
+      add: KOR DAI
+    laws: 
+      add: meditation_school_policy vajrayana_policy
+    sect_favor: 70 
+    religion: mahayana
+    areas: 
+      add: henan_area hebei_area shandong_area haiyou_area  gwanseo_area gwandong_area yeongnam_area gyeonggi_area honam_area haeseo_area hoseo_area  fujian_area hubei_area hunan_area wuling_area jiangxi_area huaixi_area huaidong_area jiangnan_area zhejiang_area  hokurikudou_area kinai_area nankaidou_area saikaidou_area sanindou_area sanyoudou_area ou_area toukaidou_area tousandou_area
+    provinces: 
+      add: anzhou_province baoan_province baoding_province bazhou_province qingchi changping_province daming_province dingzhou_province guangping_province hejian_province jingzhou_beizhili_province jizhou_province jizhou_zhending_province kaizhou_province luanzhou_province qingzhou_beizhili_province qizhou_province shenzhou_province shunde_province shuntian_province tongzhou_beizhili_province wanquan_province xingzhou_province yizhou_province yongping_province zhaozhou_province zhending_province  baode_province daizhou_province datong_province fenzhou_province huozhou_province jiangzhou_province kelan_province liaozhou_province luan_province pingding_province pingyang_province puzhou_shanxi_province qinzhou_province shizhou_shanxi_province taiyuan_province xiezhou_province xinzhou_province xizhou_province yingzhou_shanxi_province yuzhou_shanxi_province zezhou_province  anlu_province baoqing_province changde_province changsha_province chenzhou_province dean_province fangzhou_province guiyang_province hanyang_province hengzhou_province huangzhou_province jingmen_province jingzhou_province junzhou_province mianyang_province suizhou_province wuchang_province xiangxiang_province xiangyang_province xingguo_province yongzhou_province youzhou_province yuezhou_province  ganzhou_gansu_province xining_province yongchang_gansu_province  baoning_province bazhou_sichuan_province changning_province changzhou_sichuan_province chengdu_province chongqing_province dazhou_province fuzhou_sichuan_province guangan_province guangyuan_province hanzhou_province hezhou_sichuan_province jianzhou_province jianzhou_west_province kuizhou_province longan_province luzhou_sichuan_province meizhou_province pengzhou_province qiongzhou_sichuan_province shunqing_province	suining_province tongchuan_province xuzhou_sichuan_province  rongzhou_wuzhou_province tengzhou_guangxi_province xunzhou_province yulin_guangxi_province  binzhou_shaanxi_province fengxiang_province fengzhou_province fuzhou_shaanxi_province gongchang_province hanzhong_province huizhou_shaanxi_province huazhou_shaanxi_province jiazhou_province jiezhou_province jingzhou_shaanxi_province lintao_province minzhou_province ningxia_province pingliang_province qianzhou_province qingyang_province qinzhou_shaanxi_province shangzhou_province suide_province tongzhou_shaanxi_province xian_province xingan_province yanan_province yangzhou_shaanxi_province yaozhou_province yulin_province  chaozhou_province deqing_province dongguan_province gaozhou_province guangzhou_province heyuan_province huazhou_province huizhou_guangdong_province leizhou_province lianzhou_province nanen_province nanxiong_province panyu_province shaozhou_province xinhui_province xunzhou_guangdong_province yingde_province zhaoqing_province  hai_dong_province nam_sach_province nghe_an_province thang_long_province thien_truong_province
+
+sect_mantra:
+  716.1.1:
+    type: sect
+    icon: mantra_school
+    laws: 
+      add: mantra_school_policy vajrayana_policy
+    sect_favor: 50 
+    religion: mahayana
+    areas: 
+      add: henan_area hebei_area shandong_area haiyou_area  fujian_area hubei_area hunan_area wuling_area jiangxi_area huaixi_area huaidong_area jiangnan_area zhejiang_area  hokurikudou_area kinai_area nankaidou_area saikaidou_area sanindou_area sanyoudou_area ou_area toukaidou_area tousandou_area
+    provinces: 
+      add: anzhou_province baoan_province baoding_province bazhou_province qingchi changping_province daming_province dingzhou_province guangping_province hejian_province jingzhou_beizhili_province jizhou_province jizhou_zhending_province kaizhou_province luanzhou_province qingzhou_beizhili_province qizhou_province shenzhou_province shunde_province shuntian_province tongzhou_beizhili_province wanquan_province xingzhou_province yizhou_province yongping_province zhaozhou_province zhending_province  baode_province daizhou_province datong_province fenzhou_province huozhou_province jiangzhou_province kelan_province liaozhou_province luan_province pingding_province pingyang_province puzhou_shanxi_province qinzhou_province shizhou_shanxi_province taiyuan_province xiezhou_province xinzhou_province xizhou_province yingzhou_shanxi_province yuzhou_shanxi_province zezhou_province  anlu_province baoqing_province changde_province changsha_province chenzhou_province dean_province fangzhou_province guiyang_province hanyang_province hengzhou_province huangzhou_province jingmen_province jingzhou_province junzhou_province mianyang_province suizhou_province wuchang_province xiangxiang_province xiangyang_province xingguo_province yongzhou_province youzhou_province yuezhou_province  ganzhou_gansu_province xining_province yongchang_gansu_province  baoning_province bazhou_sichuan_province changning_province changzhou_sichuan_province chengdu_province chongqing_province dazhou_province fuzhou_sichuan_province guangan_province guangyuan_province hanzhou_province hezhou_sichuan_province jianzhou_province jianzhou_west_province kuizhou_province longan_province luzhou_sichuan_province meizhou_province pengzhou_province qiongzhou_sichuan_province shunqing_province	suining_province tongchuan_province xuzhou_sichuan_province  rongzhou_wuzhou_province tengzhou_guangxi_province xunzhou_province yulin_guangxi_province  binzhou_shaanxi_province fengxiang_province fengzhou_province fuzhou_shaanxi_province gongchang_province hanzhong_province huizhou_shaanxi_province huazhou_shaanxi_province jiazhou_province jiezhou_province jingzhou_shaanxi_province lintao_province minzhou_province ningxia_province pingliang_province qianzhou_province qingyang_province qinzhou_shaanxi_province shangzhou_province suide_province tongzhou_shaanxi_province xian_province xingan_province yanan_province yangzhou_shaanxi_province yaozhou_province yulin_province  chaozhou_province deqing_province dongguan_province gaozhou_province guangzhou_province heyuan_province huazhou_province huizhou_guangdong_province leizhou_province lianzhou_province nanen_province nanxiong_province panyu_province shaozhou_province xinhui_province xunzhou_guangdong_province yingde_province zhaoqing_province
+
+sect_shugendo:
+  715.1.1:
+    type: sect
+    icon: shugendo
+    laws: 
+      add: shugendo_policy vajrayana_policy
+    sect_favor: 40 
+    religion: shinto
+    areas: 
+      add: hokurikudou_area kinai_area nankaidou_area saikaidou_area sanindou_area sanyoudou_area ou_area toukaidou_area tousandou_area
+
+sect_nichiren:
+  1250.1.1:
+    type: sect
+    icon: nichiren
+    laws: 
+      add: nichiren_policy tiantai_policy
+    sect_favor: 50 
+    religion: shinto
+    areas: 
+      add: hokurikudou_area kinai_area nankaidou_area saikaidou_area sanindou_area sanyoudou_area ou_area toukaidou_area tousandou_area
+
+sect_azhaliism:
+  821.1.1:
+    type: sect
+    icon: azhaliism
+    members: 
+      add: CDL YAN HQG
+    laws: 
+      add: azhaliism_policy vajrayana_policy
+    sect_favor: 40 
+    religion: mahayana
+    provinces: 
+      add: dali_province
+
+sect_musok:
+  1:
+    type: sect
+    icon: musok
+    members: 
+      add: KOR TMN SSG
+    laws: musok_policy
+    sect_favor: 40 
+    religion: mahayana
+    regions: 
+      add: korea_region
+
+sect_mulasarvastivada:
+  1:
+    type: sect
+    icon: mulasarvastivada
+    members: 
+      add: JMB BUS INR SGT PLB MYI PGS PAH MUA PNI
+    laws: 
+      add: mulasarvastivada_policy vajrayana_policy
+    sect_favor: 50 
+    religion: mahayana
+    provinces: 
+      add: johor_province lower_jambi_province
+
+sect_nyigma:
+  1:
+    type: sect
+    members: 
+      add: DRG
+    laws: 
+      add: nyigma_policy mulasarvastivada_policy vajrayana_policy
+    sect_favor: 50 
+    religion: tibetan_buddhism
+    regions: 
+      add: tibet_region
+
+sect_kadam:
+  1030.1.1:
+    type: sect
+    members: 
+      add: KHS PUR MAR
+    laws: 
+      add: kadam_policy mulasarvastivada_policy vajrayana_policy
+    sect_favor: 50 
+    religion: tibetan_buddhism
+    regions: 
+      add: tibet_region
+
+sect_kagyu:
+  1050.1.1:
+    type: sect
+    members: 
+      add: ZNK NCN LMN SKK LHL
+    laws: 
+      add: kagyu_policy mulasarvastivada_policy vajrayana_policy
+    sect_favor: 70 
+    religion: tibetan_buddhism
+    regions: 
+      add: tibet_region
+
+sect_sakya:
+  1073.1.1:
+    type: sect
+    members: 
+      add: TIB CHI GUG MGG LGT LNG KTU POO HOR GNJ NYA GYT GYE CKL
+    laws: 
+      add: sakya_policy mulasarvastivada_policy vajrayana_policy
+    sect_favor: 80 
+    religion: tibetan_buddhism
+    regions: 
+      add: tibet_region
+
+sect_jonang:
+  1120.1.1:
+    type: sect
+    members: 
+      add: GOL AMD SNP MNZ TAZ KHG HEZ JIZ BIR
+    laws: 
+      add: jonang_policy mulasarvastivada_policy vajrayana_policy
+    sect_favor: 50 
+    religion: tibetan_buddhism
+    regions: 
+      add: tibet_region
+
+sect_45:
+  1:
+    type: sect
+    icon: mahavihara
+    members: 
+      add: DBD PEG ARK TSM
+    laws: 
+      add: mahavihara_policy
+    sect_favor: 70 
+    religion: theravada
+    areas: 
+      add: arakhan_area irrawady_delta_area
+    provinces: 
+      add: pihiti dakhina_desa malaya ruhunu
+
+sect_burmese_buddhism:
+  1:
+    type: sect
+    icon: burmese_buddhism
+    members: 
+      add: PIN SAG TNG BPR
+    laws: 
+      add: burmese_buddhism_policy vajrayana_policy
+    sect_favor: 60 
+    religion: theravada
+    provinces: 
+      add: pagan_province pinya_province pyay_province sagaing_province taungoo_province
+
+sect_lankavong:
+  1:
+    type: sect
+    icon: lankavong
+    members: 
+      add: SUK MMA CHH DDI LNA LAV LIG SPN PHY PUA PTC
+    laws: 
+      add: lankavong_policy
+    sect_favor: 50 
+    religion: theravada
+    areas: 
+      add: chao_phraya_area
+
+sect_khmer_buddhism:
+  274.1.1:
+    type: sect
+    icon: khmer_buddhism
+    members: 
+      add: KHM
+    laws: 
+      add: khmer_buddhism_policy vajrayana_policy
+    sect_favor: 50 
+    religion: theravada
+    areas: 
+      add: lower_mekong_area
+
+

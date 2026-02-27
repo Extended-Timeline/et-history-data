@@ -1,0 +1,81 @@
+patriarchate_BYZ:
+  330.1.1:
+    type: autocephalous_patriarchate
+    members: 
+      add: BYZ EPI TRE VBK NOV SER WAL PSK ORE SMO FMB MOS VLR UGL YRV TPS BLO YAR RSO TVE KAS KLN ZUB DMI GLM RZH VYA TRB BRY CHR STS NVS RYL NSL KCH KZK TRS RYA PRK SKY NZH GRS SZL MRM KOS MOG  BIA BLD HTN HSC IAS SRC SSI VOL HAL KIE POK TUV PNK SSK MSV NRK DRU FEO
+    religion: orthodox
+    seat: constantinople
+    laws: 
+      add: dual_nature high_christology byzantine_rites accept_essence_tenet accept_person_tenet accept_prosopon_tenet allow_christological_debates_tenet
+
+patriarchate_BUL:
+  1235.1.1:
+    type: autocephalous_patriarchate
+    members: 
+      add: BUL
+    religion: orthodox
+    seat: tarnovo
+    laws: 
+      add: dual_nature high_christology byzantine_rites accept_essence_tenet accept_person_tenet accept_prosopon_tenet allow_christological_debates_tenet
+    
+patriarchate_GEO:
+  1010.1.1:
+    type: autocephalous_patriarchate
+    members: 
+      add: GEO AAI SME CPA HTY HYT KDA KIP TEM ALN SMS
+    religion: orthodox
+    seat: tbilisi
+    laws: 
+      add: dual_nature high_christology local_traditions_and_rites accept_essence_tenet accept_person_tenet accept_prosopon_tenet allow_christological_debates_tenet
+      
+patriarchate_CYP:
+  431.1.1:
+    type: autocephalous_patriarchate
+    religion: orthodox
+    seat: nicosia_cyp
+    laws: 
+      add: dual_nature high_christology catholic_influenced_rites accept_essence_tenet accept_person_tenet accept_prosopon_tenet allow_christological_debates_tenet
+      
+patriarchate_ARM:
+  301.1.1:
+    type: autocephalous_patriarchate
+    members: 
+      add: ARM ATZ KCN SYU VDZ CIL
+    religion: miaphysite
+    seat: sis
+    laws: 
+      add: composite_nature high_christology local_traditions_and_rites accept_essence_tenet accept_person_tenet accept_prosopon_tenet allow_christological_debates_tenet allow_double_sabbath_tenet
+
+patriarchate_antioch:
+  519.1.1:
+    type: autocephalous_patriarchate
+    religion: miaphysite
+    seat: antioch
+    laws: 
+      add: composite_nature high_christology local_traditions_and_rites accept_essence_tenet accept_person_tenet accept_prosopon_tenet allow_christological_debates_tenet allow_double_sabbath_tenet
+
+patriarchate_ETH:
+  451.1.1:
+    type: autocephalous_patriarchate
+    members: 
+      add: ETH
+    religion: miaphysite
+    seat: alexandria
+    laws: 
+      add: composite_nature high_christology local_traditions_and_rites accept_essence_tenet accept_person_tenet accept_prosopon_tenet allow_christological_debates_tenet allow_double_sabbath_tenet
+
+patriarchate_mosul:
+  410.1.1:
+    type: autocephalous_patriarchate
+    religion: nestorianism
+    seat: mosul
+    laws: 
+      add: composite_nature high_christology local_traditions_and_rites accept_essence_tenet accept_person_tenet accept_prosopon_tenet allow_christological_debates_tenet allow_double_sabbath_tenet
+
+patriarchate_india:
+  1122.1.1:
+    type: autocephalous_patriarchate
+    religion: nestorianism
+    seat: kollam
+    laws: 
+      add: composite_nature high_christology local_traditions_and_rites accept_essence_tenet accept_person_tenet accept_prosopon_tenet allow_christological_debates_tenet allow_double_sabbath_tenet

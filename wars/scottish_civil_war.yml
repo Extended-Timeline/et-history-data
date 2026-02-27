@@ -1,0 +1,31 @@
+war_0:
+  1332.7.6:
+    #Name
+    name: "CIVIL_WAR_NAME"
+    ordinal: 1
+    
+    #CB
+    war_type: civil_war
+    
+    #Participants
+    SBL:
+      side: attacker
+      reason: instigator
+    LOI:
+      side: attacker
+      reason: subject
+      caller: SBL
+    SCO:
+      side: defender
+      reason: target
+    ROS:
+      side: defender
+      reason: subject
+      caller: SCO
+    MOY:
+      side: defender
+      reason: subject
+      caller: SCO
+  1338: #TODO: Fix end date
+    truce_length: 60
+    action: no

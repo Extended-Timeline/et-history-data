@@ -1,0 +1,26 @@
+war_2:
+  1335.1.1:
+    #Name
+    name: "NORMAL_WAR_NAME"
+    ordinal: 1
+    
+    #CB
+    war_type: take_province
+    cb_type: conquer_province
+    casus_belli: cb_conquer_province
+    target: tlemcen
+    
+    #Participants
+    MOR:
+      side: attacker
+      reason: instigator
+    TFL:
+      side: attacker
+      reason: subject
+      caller: MOR
+    TLE:
+      side: defender
+      reason: target
+  1338: #TODO: Fix end date
+    truce_length: 60
+    action: no

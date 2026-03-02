@@ -1,0 +1,27 @@
+thirdindopakistaniwar:
+  1971.3.26:
+    #Name "Third Indo-Pakistani War"
+    name: "NORMAL_WAR_NAME"
+    ordinal: 3
+    
+    #CB
+    war_type: independence
+    cb_type: independence
+    casus_belli: cb_independence_war
+    
+    #Participants
+    BANG:
+      side: attacker
+      reason: instigator
+    INDI:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: BANG
+    PAKI:
+      side: defender
+      reason: target
+    action: yes
+  
+  1971.12.16:
+    truce_length: 60
+    action: no

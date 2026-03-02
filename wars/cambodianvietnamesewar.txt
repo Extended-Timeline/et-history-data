@@ -1,0 +1,23 @@
+cambodianvietnamesewar:
+  1977.4.30:
+    #Name "Cambodian-Vietnamese War"
+    name: "NORMAL_WAR_NAME"
+    ordinal: 1
+    
+    #CB
+    war_type: take_border
+    cb_type: take_border
+    casus_belli: cb_border_war
+    
+    #Participants
+    KHM:
+      side: attacker
+      reason: instigator
+    VTN:
+      side: defender
+      reason: target
+    action: yes
+  
+  1991.10.23:
+    truce_length: 60
+    action: no

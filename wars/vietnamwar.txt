@@ -1,0 +1,51 @@
+vietnamwar:
+  1956.12.1:
+    #Name "Vietnam War"
+    name: "NORMAL_WAR_NAME"
+    ordinal: 1
+    
+    #CB
+    war_type: take_province
+    cb_type: conquer_province
+    casus_belli: cb_conquer_province
+    
+    #Participants
+    NVIE:
+      side: attacker
+      reason: instigator
+    USA:
+      side: defender
+      reason: target
+    SVIE:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: USA
+    SKOR:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: USA
+    AUST:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: USA
+    SIA:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: USA
+    NZEA:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: USA
+    KHM:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: USA
+    LAOS:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: USA
+    action: yes
+  
+  1975.4.30:
+    truce_length: 60
+    action: no

@@ -1,0 +1,71 @@
+FifthOttomanSafavidWar:
+  1578.1.1:
+    #Name "Fifth Ottoman-Safavid War"
+    name: "NORMAL_WAR_NAME"
+    ordinal: 5
+    
+    #CB
+    war_type: take_province
+    cb_type: conquer_province
+    casus_belli: cb_conquer_province
+    
+    #Participants
+    TUR:
+      side: attacker
+      reason: instigator
+    WAL:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: TUR
+    MOL:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: TUR
+    TRA:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: TUR
+    TRP:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: TUR
+    ALG:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: TUR
+    DON:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: TUR
+    HEJA:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: TUR
+    CRIM:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: TUR
+    RAG:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: TUR
+    IRA:
+      side: defender
+      reason: target
+    MUSH:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: IRA
+    ARD:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: IRA
+    GEO:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: IRA
+    action: yes
+  
+  1590.3.21:
+    truce_length: 60
+    action: no

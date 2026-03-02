@@ -1,0 +1,23 @@
+bretonsuccessionwar:
+  1337.1.1:
+    #Name "Breton Succession War"
+    name: "NORMAL_WAR_NAME"
+    ordinal: 1
+    
+    #CB
+    war_type: take_capital
+    cb_type: take_capital_claim_throne
+    casus_belli: cb_claim_throne
+    
+    #Participants
+    FRA:
+      side: attacker
+      reason: instigator
+    BRI:
+      side: defender
+      reason: target
+    action: yes
+  
+  1364.9.29:
+    truce_length: 60
+    action: no

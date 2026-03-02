@@ -1,0 +1,39 @@
+SubjugationOfChugoku:
+  1577.1.1:
+    #Name "Subjugation of Chugoku"
+    name: "NORMAL_WAR_NAME"
+    ordinal: 1
+    
+    #CB
+    war_type: take_province
+    cb_type: conquer_province
+    casus_belli: cb_conquer_province
+    
+    #Participants
+    ODA:
+      side: attacker
+      reason: instigator
+    MRI:
+      side: defender
+      reason: target
+    HSK:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: MRI
+    YMN:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: MRI
+    action: yes
+  
+  1580.1.1:
+    HSK:
+      side: none
+  
+  1580.5.21:
+    YMN:
+      side: none
+  
+  1582.6.21:
+    truce_length: 60
+    action: no

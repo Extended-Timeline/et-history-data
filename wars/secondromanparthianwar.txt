@@ -1,0 +1,27 @@
+secondromanparthianwar:
+  161.7.1:
+    #Name "Second Roman-Parthian War"
+    name: "NORMAL_WAR_NAME"
+    ordinal: 2
+    
+    #CB
+    war_type: take_capital
+    cb_type: take_capital_subjugation
+    casus_belli: cb_subjugation
+    
+    #Participants
+    PART:
+      side: attacker
+      reason: instigator
+    ROM:
+      side: defender
+      reason: target
+    ARM:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: ROM
+    action: yes
+  
+  167.1.1:
+    truce_length: 60
+    action: no

@@ -1,0 +1,39 @@
+firstromanparthianwar:
+  58.2.1:
+    #Name "First Roman-Parthian War"
+    name: "NORMAL_WAR_NAME"
+    ordinal: 1
+    
+    #CB
+    war_type: take_capital
+    cb_type: take_capital_subjugation
+    casus_belli: cb_subjugation
+    
+    #Participants
+    ROM:
+      side: attacker
+      reason: instigator
+    PART:
+      side: defender
+      reason: target
+    ADIA:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: PART
+    ARM:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: PART
+    OSRO:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: PART
+    ATRO:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: PART
+    action: yes
+  
+  63.6.1:
+    truce_length: 60
+    action: no

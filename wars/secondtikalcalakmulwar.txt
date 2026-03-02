@@ -1,0 +1,23 @@
+secondtikalcalakmulwar:
+  650.1.1:
+    #Name "Second Tikal-Calakmul War"
+    name: "NORMAL_WAR_NAME"
+    ordinal: 2
+    
+    #CB
+    war_type: take_province
+    cb_type: conquer_province
+    casus_belli: cb_conquer_province
+    
+    #Participants
+    TIKA:
+      side: attacker
+      reason: instigator
+    CALA:
+      side: defender
+      reason: target
+    action: yes
+  
+  695.1.1:
+    truce_length: 60
+    action: no

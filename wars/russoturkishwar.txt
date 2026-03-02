@@ -1,0 +1,31 @@
+russoturkishwar:
+  1877.4.24:
+    #Name "Sixth Russo-Turkish War"
+    name: "NORMAL_WAR_NAME"
+    ordinal: 6
+    
+    #CB
+    war_type: take_border
+    cb_type: take_border
+    casus_belli: cb_border_war
+    
+    #Participants
+    RUS:
+      side: attacker
+      reason: instigator
+    MONT:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: RUS
+    SER:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: RUS
+    TUR:
+      side: defender
+      reason: target
+    action: yes
+  
+  1878.3.3:
+    truce_length: 60
+    action: no

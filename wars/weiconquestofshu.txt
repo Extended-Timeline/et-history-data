@@ -1,0 +1,23 @@
+weiconquestofshu:
+  263.9.1:
+    #Name "Wei Conquest of Shu"
+    name: "NORMAL_WAR_NAME"
+    ordinal: 1
+    
+    #CB
+    war_type: take_province
+    cb_type: conquer_province
+    casus_belli: cb_conquer_province
+    
+    #Participants
+    WEI0:
+      side: attacker
+      reason: instigator
+    SHU0:
+      side: defender
+      reason: target
+    action: yes
+  
+  263.11.1:
+    truce_length: 60
+    action: no

@@ -1,0 +1,23 @@
+grancolombiaperuwar:
+  1828.6.3:
+    #Name "Gran Colombia-Peru War"
+    name: "NORMAL_WAR_NAME"
+    ordinal: 1
+    
+    #CB
+    war_type: take_province
+    cb_type: conquer_province
+    casus_belli: cb_conquer_province
+    
+    #Participants
+    COLO:
+      side: attacker
+      reason: instigator
+    PERU:
+      side: defender
+      reason: target
+    action: yes
+  
+  1829.2.28:
+    truce_length: 60
+    action: no

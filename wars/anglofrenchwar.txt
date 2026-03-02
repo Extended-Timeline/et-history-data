@@ -1,0 +1,47 @@
+anglofrenchwar:
+  1202.1.1:
+    #Name "Anglo-French War"
+    name: "NORMAL_WAR_NAME"
+    ordinal: 1
+    
+    #CB
+    war_type: take_province
+    cb_type: conquer_province
+    casus_belli: cb_conquer_province
+    
+    #Participants
+    ENG:
+      side: attacker
+      reason: instigator
+    FLA:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: ENG
+    FRA:
+      side: defender
+      reason: target
+    ALE:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: FRA
+    AMG:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: FRA
+    FOI:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: FRA
+    AUV:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: FRA
+    TOU:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: FRA
+    action: yes
+  
+  1214.7.27:
+    truce_length: 60
+    action: no

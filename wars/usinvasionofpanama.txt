@@ -1,0 +1,23 @@
+usinvasionofpanama:
+  1989.12.20:
+    #Name "US invasion of Panama"
+    name: "NORMAL_WAR_NAME"
+    ordinal: 1
+    
+    #CB
+    war_type: take_province
+    cb_type: conquer_province
+    casus_belli: cb_conquer_province
+    
+    #Participants
+    USA:
+      side: attacker
+      reason: instigator
+    PANA:
+      side: defender
+      reason: target
+    action: yes
+  
+  1990.1.31:
+    truce_length: 60
+    action: no

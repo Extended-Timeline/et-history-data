@@ -1,0 +1,35 @@
+goguryeotangwar:
+  645.1.1:
+    #Name "Goguryeo-Tang War"
+    name: "NORMAL_WAR_NAME"
+    ordinal: 1
+    
+    #CB
+    war_type: take_province
+    cb_type: conquer_province
+    casus_belli: cb_conquer_province
+    
+    #Participants
+    TANG:
+      side: attacker
+      reason: instigator
+    SILL:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: TANG
+    GOGU:
+      side: defender
+      reason: target
+    BAEK:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: GOGU
+    action: yes
+  
+  660.1.1:
+    BAEK:
+      side: none
+  
+  668.1.1:
+    truce_length: 60
+    action: no

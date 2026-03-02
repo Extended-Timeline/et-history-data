@@ -1,0 +1,71 @@
+frenchconquestofalgeria:
+  1831.1.1:
+    #Name "First French Conquest of Algeria"
+    name: "NORMAL_WAR_NAME"
+    ordinal: 1
+    
+    #CB
+    war_type: take_province
+    cb_type: conquer_province
+    casus_belli: cb_conquer_province
+    
+    #Participants
+    FRA:
+      side: attacker
+      reason: instigator
+    ALG:
+      side: defender
+      reason: target
+    KABY:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: ALG
+    action: yes
+  
+  1834.2.26:
+    ALG:
+      side: none
+  
+  1835.6.16:
+    ALG:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: ALG
+  
+  1837.4.1:
+    KABY:
+      side: none
+  
+  1837.5.30:
+    ALG:
+      side: none
+    MZB:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: ALG
+    TGT:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: ALG
+  
+  1839.10.15:
+    MZB:
+      side: none
+    TGT:
+      side: none
+    ALG:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: ALG
+    MOR:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: ALG
+  
+  1844.10.1:
+    MOR:
+      side: none
+  
+  1847.12.21:
+    truce_length: 60
+    action: no

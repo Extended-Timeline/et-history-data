@@ -1,0 +1,23 @@
+thirdwarofitalianindependence:
+  1866.6.14:
+    #Name "Third War of Italian Independence"
+    name: "NORMAL_WAR_NAME"
+    ordinal: 3
+    
+    #CB
+    war_type: take_province
+    cb_type: conquer_province
+    casus_belli: cb_conquer_province
+    
+    #Participants
+    ITA:
+      side: attacker
+      reason: instigator
+    HAB:
+      side: defender
+      reason: target
+    action: yes
+  
+  1866.10.3:
+    truce_length: 60
+    action: no

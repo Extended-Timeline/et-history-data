@@ -1,0 +1,23 @@
+tendaywar:
+  1991.6.27:
+    #Name "Ten-Day War"
+    name: "NORMAL_WAR_NAME"
+    ordinal: 1
+    
+    #CB
+    war_type: independence
+    cb_type: independence
+    casus_belli: cb_independence_war
+    
+    #Participants
+    NITR:
+      side: attacker
+      reason: instigator
+    YUGO:
+      side: defender
+      reason: target
+    action: yes
+  
+  1991.7.7:
+    truce_length: 60
+    action: no

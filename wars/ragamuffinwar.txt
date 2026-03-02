@@ -1,0 +1,23 @@
+ragamuffinwar:
+  1836.9.11:
+    #Name "Ragamuffin War"
+    name: "NORMAL_WAR_NAME"
+    ordinal: 1
+    
+    #CB
+    war_type: independence
+    cb_type: independence
+    casus_belli: cb_independence_war
+    
+    #Participants
+    RIOG:
+      side: attacker
+      reason: instigator
+    BRAZ:
+      side: defender
+      reason: target
+    action: yes
+  
+  1845.3.1:
+    truce_length: 60
+    action: no

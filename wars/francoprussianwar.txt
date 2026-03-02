@@ -1,0 +1,94 @@
+francoprussianwar:
+  1870.7.19:
+    #Name "Franco-Prussian War"
+    name: "NORMAL_WAR_NAME"
+    ordinal: 1
+    
+    #CB
+    war_type: superiority
+    cb_type: superiority
+    casus_belli: cb_insulted_us
+    
+    #Participants
+    FRA:
+      side: attacker
+      reason: instigator
+    PRU:
+      side: defender
+      reason: target
+    BDE:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: PRU
+    BAV:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: PRU
+    WUR:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: PRU
+    SAX:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: PRU
+    ANH:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: PRU
+    OLD:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: PRU
+    LUB:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: PRU
+    HAM:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: PRU
+    MKL:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: PRU
+    action: yes
+  
+  1870.9.4:
+    FRA:
+      side: none
+    FRA:
+      side: attacker
+      reason: instigator
+      reason: alliance #TODO check if alliance or subject
+      caller: FRA
+  
+  1871.1.18:
+    PRU:
+      side: none
+    BDE:
+      side: none
+    BAV:
+      side: none
+    WUR:
+      side: none
+    SAX:
+      side: none
+    ANH:
+      side: none
+    OLD:
+      side: none
+    LUB:
+      side: none
+    HAM:
+      side: none
+    MKL:
+      side: none
+    GER:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: PRU
+  
+  1871.5.10:
+    truce_length: 60
+    action: no

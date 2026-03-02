@@ -1,0 +1,43 @@
+turkishwarofindependence:
+  1920.8.10:
+    #Name "Turkish War of Independence"
+    name: "NORMAL_WAR_NAME"
+    ordinal: 1
+    
+    #CB
+    war_type: independence
+    cb_type: independence
+    casus_belli: cb_independence_war
+    
+    #Participants
+    TURK:
+      side: attacker
+      reason: instigator
+    TUR:
+      side: defender
+      reason: target
+    GRE:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: TUR
+    GBR:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: TUR
+    FRA:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: TUR
+    ARM:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: TUR
+    action: yes
+  
+  1922.11.1:
+    TUR:
+      side: none
+  
+  1923.7.24:
+    truce_length: 60
+    action: no

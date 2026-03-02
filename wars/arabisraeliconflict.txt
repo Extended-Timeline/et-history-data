@@ -1,0 +1,65 @@
+arabisraeliconflict:
+  1948.5.14:
+    #Name "Arab-Israeli Conflict"
+    name: "NORMAL_WAR_NAME"
+    ordinal: 1
+    
+    #CB
+    war_type: take_province
+    cb_type: conquer_province
+    casus_belli: cb_conquer_province
+    
+    #Participants
+    JORD:
+      side: attacker
+      reason: instigator
+    LEBA:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: JORD
+    SYRI:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: JORD
+    EGY:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: JORD
+    IRAQ:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: JORD
+    ISRA:
+      side: defender
+      reason: target
+    action: yes
+  
+  1956.10.29:
+    GBR:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: ISRA
+    FRA:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: ISRA
+  
+  1956.11.7:
+    GBR:
+      side: none
+    FRA:
+      side: none
+  
+  1958.2.22:
+    EGY:
+      side: none
+    SYRI:
+      side: none
+    AIA:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: JORD
+  
+  1973.10.6:
+    truce_length: 60
+    action: no

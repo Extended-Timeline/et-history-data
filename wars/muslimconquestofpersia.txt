@@ -1,0 +1,23 @@
+muslimconquestofpersia:
+  633.1.1:
+    #Name "Muslim Conquest of Persia"
+    name: "NORMAL_WAR_NAME"
+    ordinal: 1
+    
+    #CB
+    war_type: take_province
+    cb_type: conquer_province
+    casus_belli: cb_conquer_province
+    
+    #Participants
+    RASS:
+      side: attacker
+      reason: instigator
+    ERA:
+      side: defender
+      reason: target
+    action: yes
+  
+  644.1.1:
+    truce_length: 60
+    action: no

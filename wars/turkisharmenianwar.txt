@@ -1,0 +1,23 @@
+turkisharmenianwar:
+  1920.9.24:
+    #Name "Turkish-Armenian War"
+    name: "NORMAL_WAR_NAME"
+    ordinal: 1
+    
+    #CB
+    war_type: take_province
+    cb_type: conquer_province
+    casus_belli: cb_conquer_province
+    
+    #Participants
+    TUR:
+      side: attacker
+      reason: instigator
+    ARM:
+      side: defender
+      reason: target
+    action: yes
+  
+  1920.12.23:
+    truce_length: 60
+    action: no

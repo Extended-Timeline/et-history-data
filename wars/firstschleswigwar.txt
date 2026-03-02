@@ -1,0 +1,23 @@
+firstschleswigwar:
+  1848.3.24:
+    #Name "First Schleswig War"
+    name: "NORMAL_WAR_NAME"
+    ordinal: 1
+    
+    #CB
+    war_type: take_province
+    cb_type: conquer_province
+    casus_belli: cb_conquer_province
+    
+    #Participants
+    PRU:
+      side: attacker
+      reason: instigator
+    DAN:
+      side: defender
+      reason: target
+    action: yes
+  
+  1852.5.8:
+    truce_length: 60
+    action: no

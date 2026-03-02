@@ -1,0 +1,35 @@
+iberianwar:
+  526.1.1:
+    #Name "Iberian War"
+    name: "NORMAL_WAR_NAME"
+    ordinal: 1
+    
+    #CB
+    war_type: independence
+    cb_type: independence
+    casus_belli: cb_independence_war
+    
+    #Participants
+    IBER:
+      side: attacker
+      reason: instigator
+    BYZ:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: IBER
+    GHAS:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: IBER
+    ERA:
+      side: defender
+      reason: target
+    LAKH:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: ERA
+    action: yes
+  
+  532.1.1:
+    truce_length: 60
+    action: no

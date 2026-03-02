@@ -1,0 +1,23 @@
+serbianturkishwars:
+  1876.6.30:
+    #Name "Serbian-Turkish Wars"
+    name: "NORMAL_WAR_NAME"
+    ordinal: 1
+    
+    #CB
+    war_type: independence
+    cb_type: independence
+    casus_belli: cb_independence_war
+    
+    #Participants
+    SER:
+      side: attacker
+      reason: instigator
+    TUR:
+      side: defender
+      reason: target
+    action: yes
+  
+  1878.3.3:
+    truce_length: 60
+    action: no

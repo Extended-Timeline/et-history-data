@@ -1,0 +1,31 @@
+paraguayanwar:
+  1864.1.1:
+    #Name "Paraguayan War"
+    name: "NORMAL_WAR_NAME"
+    ordinal: 1
+    
+    #CB
+    war_type: superiority
+    cb_type: superiority
+    casus_belli: cb_insulted_us
+    
+    #Participants
+    PARA:
+      side: attacker
+      reason: instigator
+    BRAZ:
+      side: defender
+      reason: target
+    ARGE:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: BRAZ
+    URUG:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: BRAZ
+    action: yes
+  
+  1870.3.1:
+    truce_length: 60
+    action: no

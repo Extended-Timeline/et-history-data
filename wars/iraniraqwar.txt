@@ -1,0 +1,23 @@
+iraniraqwar:
+  1980.9.22:
+    #Name "Iran-Iraq War"
+    name: "NORMAL_WAR_NAME"
+    ordinal: 1
+    
+    #CB
+    war_type: take_province
+    cb_type: conquer_province
+    casus_belli: cb_conquer_province
+    
+    #Participants
+    IRAQ:
+      side: attacker
+      reason: instigator
+    IRAN:
+      side: defender
+      reason: target
+    action: yes
+  
+  1988.8.20:
+    truce_length: 60
+    action: no

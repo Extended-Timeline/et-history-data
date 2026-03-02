@@ -1,0 +1,23 @@
+navajowars:
+  1858.9.9:
+    #Name "Navajo Wars"
+    name: "NORMAL_WAR_NAME"
+    ordinal: 1
+    
+    #CB
+    war_type: take_country
+    cb_type: take_country
+    casus_belli: cb_imperialism
+    
+    #Participants
+    USA:
+      side: attacker
+      reason: instigator
+    DNE:
+      side: defender
+      reason: target
+    action: yes
+  
+  1866.1.1:
+    truce_length: 60
+    action: no

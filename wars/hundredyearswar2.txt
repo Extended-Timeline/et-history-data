@@ -1,0 +1,39 @@
+hundredyearswar2:
+  1369.5.1:
+    #Name "Hundred Years' War - Second Phase"
+    name: "NORMAL_WAR_NAME"
+    ordinal: 2
+    
+    #CB
+    war_type: take_capital
+    cb_type: take_capital_claim_throne
+    casus_belli: cb_claim_throne
+    
+    #Participants
+    ENG:
+      side: attacker
+      reason: instigator
+    FRA:
+      side: defender
+      reason: target
+    CAS:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: FRA
+    AUV:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: FRA
+    BOU:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: FRA
+    ORL:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: FRA
+    action: yes
+  
+  1389.1.1:
+    truce_length: 60
+    action: no

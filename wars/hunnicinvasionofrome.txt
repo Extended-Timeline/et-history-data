@@ -1,0 +1,67 @@
+hunnicinvasionofrome:
+  451.1.1:
+    #Name "Hunnic Invasion of Rome"
+    name: "NORMAL_WAR_NAME"
+    ordinal: 1
+    
+    #CB
+    war_type: take_province
+    cb_type: conquer_province
+    casus_belli: cb_conquer_province
+    
+    #Participants
+    HUNS:
+      side: attacker
+      reason: instigator
+    OSTR:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: HUNS
+    GEPI:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: HUNS
+    HERU:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: HUNS
+    RUGE:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: HUNS
+    ALEM:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: HUNS
+    THU:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: HUNS
+    LOMB:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: HUNS
+    ALN:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: HUNS
+    ROMW:
+      side: defender
+      reason: target
+    VISG:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: ROMW
+    FRAN:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: ROMW
+    BUR:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: ROMW
+    action: yes
+  
+  451.6.20:
+    truce_length: 60
+    action: no

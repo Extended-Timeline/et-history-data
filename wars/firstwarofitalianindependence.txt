@@ -1,0 +1,41 @@
+firstwarofitalianindependence:
+  1848.3.23:
+    #Name "First War of Italian Independence"
+    name: "NORMAL_WAR_NAME"
+    ordinal: 1
+    
+    #CB
+    war_type: take_province
+    cb_type: conquer_province
+    casus_belli: cb_conquer_province
+    
+    #Participants
+    SPIE:
+      side: attacker
+      reason: instigator
+    TUS:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: SPIE
+    PAP:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: SPIE
+    NAP:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: SPIE
+    HAB:
+      side: defender
+      reason: target
+    action: yes
+  
+  1848.8.9:
+    PAP:
+      side: none
+    NAP:
+      side: none
+  
+  1849.3.24:
+    truce_length: 60
+    action: no

@@ -1,0 +1,23 @@
+jinconquestofwu:
+  279.11.1:
+    #Name "Jin Conquest of Wu"
+    name: "NORMAL_WAR_NAME"
+    ordinal: 1
+    
+    #CB
+    war_type: take_province
+    cb_type: conquer_province
+    casus_belli: cb_conquer_province
+    
+    #Participants
+    JIN1:
+      side: attacker
+      reason: instigator
+    WUU:
+      side: defender
+      reason: target
+    action: yes
+  
+  280.3.15:
+    truce_length: 60
+    action: no

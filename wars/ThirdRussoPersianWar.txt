@@ -1,0 +1,67 @@
+ThirdRussoPersianWar:
+  1804.1.1:
+    #Name "Third Russo-Persian War"
+    name: "NORMAL_WAR_NAME"
+    ordinal: 3
+    
+    #CB
+    war_type: take_province
+    cb_type: conquer_province
+    casus_belli: cb_conquer_province
+    
+    #Participants
+    RUS:
+      side: attacker
+      reason: instigator
+    IRA:
+      side: defender
+      reason: target
+    KCN:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: IRA
+    ARD:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: IRA
+    MARE:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: IRA
+    ARM:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: IRA
+    ABL:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: IRA
+    TABR:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: IRA
+    SHIR:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: IRA
+    GANJ:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: IRA
+    action: yes
+  
+  1805.1.1:
+    GANJ:
+      side: none
+  
+  1808.1.1:
+    ABL:
+      side: none
+  
+  1809.1.1:
+    TABR:
+      side: none
+  
+  1813.10.24:
+    truce_length: 60
+    action: no

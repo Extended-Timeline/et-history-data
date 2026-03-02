@@ -1,0 +1,35 @@
+ogadenwar:
+  1977.7.13:
+    #Name "Ogaden War"
+    name: "NORMAL_WAR_NAME"
+    ordinal: 1
+    
+    #CB
+    war_type: take_province
+    cb_type: conquer_province
+    casus_belli: cb_conquer_province
+    
+    #Participants
+    SOMA:
+      side: attacker
+      reason: instigator
+    ETH:
+      side: defender
+      reason: target
+    CUBA:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: ETH
+    YEM:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: ETH
+    SOVI:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: ETH
+    action: yes
+  
+  1978.3.15:
+    truce_length: 60
+    action: no

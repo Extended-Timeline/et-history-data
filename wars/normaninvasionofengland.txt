@@ -1,0 +1,23 @@
+normaninvasionofengland:
+  1066.9.1:
+    #Name "Norman Invasion of England"
+    name: "NORMAL_WAR_NAME"
+    ordinal: 1
+    
+    #CB
+    war_type: take_capital
+    cb_type: take_capital_claim_throne
+    casus_belli: cb_claim_throne
+    
+    #Participants
+    NRM:
+      side: attacker
+      reason: instigator
+    ENG:
+      side: defender
+      reason: target
+    action: yes
+  
+  1066.12.25:
+    truce_length: 60
+    action: no

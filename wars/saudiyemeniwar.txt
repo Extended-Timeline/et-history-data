@@ -1,0 +1,27 @@
+saudiyemeniwar:
+  1934.2.1:
+    #Name "Saudi-Yemeni War"
+    name: "NORMAL_WAR_NAME"
+    ordinal: 1
+    
+    #CB
+    war_type: take_province
+    cb_type: conquer_province
+    casus_belli: cb_conquer_province
+    
+    #Participants
+    SAUD:
+      side: attacker
+      reason: instigator
+    ADEN:
+      side: defender
+      reason: target
+    ASIR:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: ADEN
+    action: yes
+  
+  1934.5.20:
+    truce_length: 60
+    action: no

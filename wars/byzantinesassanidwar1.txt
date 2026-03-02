@@ -1,0 +1,23 @@
+byzantinesassanidwar1:
+  421.1.1:
+    #Name "First Byzantine-Sasanian War"
+    name: "NORMAL_WAR_NAME"
+    ordinal: 1
+    
+    #CB
+    war_type: take_province
+    cb_type: conquer_province
+    casus_belli: cb_conquer_province
+    
+    #Participants
+    BYZ:
+      side: attacker
+      reason: instigator
+    ERA:
+      side: defender
+      reason: target
+    action: yes
+  
+  422.1.1:
+    truce_length: 60
+    action: no

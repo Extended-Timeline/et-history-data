@@ -1,0 +1,45 @@
+seventhcrusade:
+  1248.1.1:
+    #Name "Seventh Crusade"
+    name: "NORMAL_WAR_NAME"
+    ordinal: 7
+    
+    #CB
+    war_type: take_province
+    cb_type: conquer_province
+    casus_belli: cb_conquer_province
+    
+    #Participants
+    FRA:
+      side: attacker
+      reason: instigator
+    AMG:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: FRA
+    AUV:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: FRA
+    FOI:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: FRA
+    TOU:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: FRA
+    EGY:
+      side: defender
+      reason: target
+    action: yes
+  
+  1250.1.1:
+    MAM:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: EGY
+  
+  1254.1.1:
+    truce_length: 60
+    action: no

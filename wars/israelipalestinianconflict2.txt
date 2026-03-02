@@ -1,0 +1,23 @@
+israelipalestinianconflict2:
+  2000.9.28:
+    #Name "Israeli-Palestinian Conflict, Second Intifada"
+    name: "NORMAL_WAR_NAME"
+    ordinal: 2
+    
+    #CB
+    war_type: independence
+    cb_type: independence
+    casus_belli: cb_independence_war
+    
+    #Participants
+    PALE:
+      side: attacker
+      reason: instigator
+    ISRA:
+      side: defender
+      reason: target
+    action: yes
+  
+  2005.2.8:
+    truce_length: 60
+    action: no

@@ -1,0 +1,83 @@
+secondcrusade:
+  1145.12.1:
+    #Name "Second Crusade"
+    name: "NORMAL_WAR_NAME"
+    ordinal: 2
+    
+    #CB
+    war_type: take_province
+    cb_type: conquer_province
+    casus_belli: cb_conquer_province
+    
+    #Participants
+    PAP:
+      side: attacker
+      reason: instigator
+    ANTI:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: PAP
+    KOJ:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: PAP
+    TRIP:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: PAP
+    ENG:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: PAP
+    FRA:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: PAP
+    FKN:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: PAP
+    SAX:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: PAP
+    BAV:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: PAP
+    SWA:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: PAP
+    CART:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: PAP
+    BOH:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: PAP
+    GEN:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: PAP
+    PIS:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: PAP
+    DAN:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: PAP
+    SELJ:
+      side: defender
+      reason: target
+    FATI:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: SELJ
+    action: yes
+  
+  1149.4.1:
+    truce_length: 60
+    action: no

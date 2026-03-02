@@ -1,0 +1,23 @@
+romanianwarofindependence:
+  1877.5.21:
+    #Name "Romanian War of Independence"
+    name: "NORMAL_WAR_NAME"
+    ordinal: 1
+    
+    #CB
+    war_type: independence
+    cb_type: independence
+    casus_belli: cb_independence_war
+    
+    #Participants
+    RMN:
+      side: attacker
+      reason: instigator
+    TUR:
+      side: defender
+      reason: target
+    action: yes
+  
+  1878.1.19:
+    truce_length: 60
+    action: no

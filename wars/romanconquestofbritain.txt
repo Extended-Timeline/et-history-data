@@ -1,0 +1,23 @@
+romanconquestofbritain:
+  71.1.1:
+    #Name "Roman Conquest of Britain"
+    name: "NORMAL_WAR_NAME"
+    ordinal: 1
+    
+    #CB
+    war_type: take_province
+    cb_type: conquer_province
+    casus_belli: cb_conquer_province
+    
+    #Participants
+    ROM:
+      side: attacker
+      reason: instigator
+    BRG:
+      side: defender
+      reason: target
+    action: yes
+  
+  78.1.1:
+    truce_length: 60
+    action: no

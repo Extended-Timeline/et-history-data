@@ -1,0 +1,39 @@
+secondbalkanwar:
+  1913.6.29:
+    #Name "Second Balkan War"
+    name: "NORMAL_WAR_NAME"
+    ordinal: 2
+    
+    #CB
+    war_type: take_province
+    cb_type: conquer_province
+    casus_belli: cb_conquer_province
+    
+    #Participants
+    BUL:
+      side: attacker
+      reason: instigator
+    SER:
+      side: defender
+      reason: target
+    GRE:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: SER
+    RMN:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: SER
+    MONT:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: SER
+    TUR:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: SER
+    action: yes
+  
+  1913.8.10:
+    truce_length: 60
+    action: no

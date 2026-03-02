@@ -1,0 +1,35 @@
+sixthcrusade:
+  1228.9.1:
+    #Name "Sixth Crusade"
+    name: "NORMAL_WAR_NAME"
+    ordinal: 6
+    
+    #CB
+    war_type: take_province
+    cb_type: crusade_conquest
+    casus_belli: cb_crusade
+    
+    #Participants
+    FKN:
+      side: attacker
+      reason: instigator
+    SWA:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: FKN
+    PAL:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: FKN
+    SAX:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: FKN
+    EGY:
+      side: defender
+      reason: target
+    action: yes
+  
+  1229.5.1:
+    truce_length: 60
+    action: no

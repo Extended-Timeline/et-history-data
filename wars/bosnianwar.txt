@@ -1,0 +1,35 @@
+bosnianwar:
+  1992.4.6:
+    #Name "Bosnian War"
+    name: "NORMAL_WAR_NAME"
+    ordinal: 1
+    
+    #CB
+    war_type: independence
+    cb_type: independence
+    casus_belli: cb_independence_war
+    
+    #Participants
+    BOSH:
+      side: attacker
+      reason: instigator
+    CRO:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: BOSH
+    YUGO:
+      side: defender
+      reason: target
+    action: yes
+  
+  1992.4.28:
+    YUGO:
+      side: none
+    SER:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: YUGO
+  
+  1992.5.12:
+    truce_length: 60
+    action: no

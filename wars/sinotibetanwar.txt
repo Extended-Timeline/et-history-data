@@ -1,0 +1,23 @@
+sinotibetanwar:
+  1930.6.1:
+    #Name "Sino-Tibetan War"
+    name: "NORMAL_WAR_NAME"
+    ordinal: 1
+    
+    #CB
+    war_type: superiority
+    cb_type: superiority
+    casus_belli: cb_insulted_us
+    
+    #Participants
+    TIB:
+      side: attacker
+      reason: instigator
+    CHI:
+      side: defender
+      reason: target
+    action: yes
+  
+  1932.8.1:
+    truce_length: 60
+    action: no

@@ -1,0 +1,59 @@
+SekigaharaCampaign:
+  1598.12.25:
+    #Name "Sekigahara Campaign"
+    name: "NORMAL_WAR_NAME"
+    ordinal: 1
+    
+    #CB
+    war_type: take_province
+    cb_type: conquer_province
+    casus_belli: cb_conquer_province
+    
+    #Participants
+    TOKU:
+      side: attacker
+      reason: instigator
+    IKE:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: TOKU
+    HSK:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: TOKU
+    MAED:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: TOKU
+    DTE:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: TOKU
+    SMZ:
+      side: defender
+      reason: target
+    MRI:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: SMZ
+    TOYO:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: SMZ
+    CSK:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: SMZ
+    UES:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: SMZ
+    SAAA:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: SMZ
+    action: yes
+  
+  1600.10.21:
+    truce_length: 60
+    action: no

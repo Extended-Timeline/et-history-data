@@ -1,0 +1,23 @@
+croatianwarofindependence:
+  1991.6.25:
+    #Name "Croatian War of Independence"
+    name: "NORMAL_WAR_NAME"
+    ordinal: 1
+    
+    #CB
+    war_type: independence
+    cb_type: independence
+    casus_belli: cb_independence_war
+    
+    #Participants
+    CRO:
+      side: attacker
+      reason: instigator
+    YUGO:
+      side: defender
+      reason: target
+    action: yes
+  
+  1992.1.2:
+    truce_length: 60
+    action: no

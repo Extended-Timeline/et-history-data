@@ -1,0 +1,63 @@
+fifthcrusade:
+  1213.4.1:
+    #Name "Fifth Crusade"
+    name: "NORMAL_WAR_NAME"
+    ordinal: 5
+    
+    #CB
+    war_type: take_province
+    cb_type: conquer_province
+    casus_belli: cb_conquer_province
+    
+    #Participants
+    PAP:
+      side: attacker
+      reason: instigator
+    LAT:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: PAP
+    KOJ:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: PAP
+    CYP:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: PAP
+    HAB:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: PAP
+    BAV:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: PAP
+    HOL:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: PAP
+    KOL:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: PAP
+    HUN:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: PAP
+    FRA:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: PAP
+    RUM:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: PAP
+    EGY:
+      side: defender
+      reason: target
+    action: yes
+  
+  1221.7.1:
+    truce_length: 60
+    action: no

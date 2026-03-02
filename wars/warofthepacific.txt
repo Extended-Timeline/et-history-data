@@ -1,0 +1,27 @@
+warofthepacific:
+  1879.2.14:
+    #Name "War of the Pacific"
+    name: "NORMAL_WAR_NAME"
+    ordinal: 1
+    
+    #CB
+    war_type: take_province
+    cb_type: conquer_province
+    casus_belli: cb_conquer_province
+    
+    #Participants
+    CHIL:
+      side: attacker
+      reason: instigator
+    BOLI:
+      side: defender
+      reason: target
+    PERU:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: BOLI
+    action: yes
+  
+  1883.10.20:
+    truce_length: 60
+    action: no

@@ -1,0 +1,31 @@
+warofthesuccessionofchampagne:
+  1216.1.1:
+    #Name "War of the Succeesion of Champagne"
+    name: "NORMAL_WAR_NAME"
+    ordinal: 1
+    
+    #CB
+    war_type: take_capital
+    cb_type: take_capital_claim_throne
+    casus_belli: cb_claim_throne
+    
+    #Participants
+    FRA:
+      side: attacker
+      reason: instigator
+    BUR:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: FRA
+    BAR:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: FRA
+    LOR:
+      side: defender
+      reason: target
+    action: yes
+  
+  1222.3.1:
+    truce_length: 60
+    action: no

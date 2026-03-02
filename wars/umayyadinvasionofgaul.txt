@@ -1,0 +1,31 @@
+umayyadinvasionofgaul:
+  719.1.1:
+    #Name "Umayyad Invasion of Gaul"
+    name: "NORMAL_WAR_NAME"
+    ordinal: 1
+    
+    #CB
+    war_type: take_province
+    cb_type: conquer_province
+    casus_belli: cb_conquer_province
+    
+    #Participants
+    UMAY:
+      side: attacker
+      reason: instigator
+    FRAN:
+      side: defender
+      reason: target
+    AQN:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: FRAN
+    action: yes
+  
+  741.1.1:
+    AQN:
+      side: none
+  
+  759.1.1:
+    truce_length: 60
+    action: no

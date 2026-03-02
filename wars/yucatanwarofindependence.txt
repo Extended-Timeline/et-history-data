@@ -1,0 +1,23 @@
+yucatanwarofindependence:
+  1841.3.16:
+    #Name "Yucatecan War of Independence"
+    name: "NORMAL_WAR_NAME"
+    ordinal: 1
+    
+    #CB
+    war_type: independence
+    cb_type: independence
+    casus_belli: cb_independence_war
+    
+    #Participants
+    YUCA:
+      side: attacker
+      reason: instigator
+    MEX:
+      side: defender
+      reason: target
+    action: yes
+  
+  1848.7.14:
+    truce_length: 60
+    action: no

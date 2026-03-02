@@ -1,0 +1,23 @@
+firstwarofscottishindependence:
+  1296.4.1:
+    #Name "First War of Scottish Independence"
+    name: "NORMAL_WAR_NAME"
+    ordinal: 1
+    
+    #CB
+    war_type: take_province
+    cb_type: conquer_province
+    casus_belli: cb_conquer_province
+    
+    #Participants
+    ENG:
+      side: attacker
+      reason: instigator
+    SCO:
+      side: defender
+      reason: target
+    action: yes
+  
+  1328.5.1:
+    truce_length: 60
+    action: no

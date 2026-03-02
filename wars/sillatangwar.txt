@@ -1,0 +1,27 @@
+sillatangwar:
+  670.1.1:
+    #Name "Silla-Tang War"
+    name: "NORMAL_WAR_NAME"
+    ordinal: 1
+    
+    #CB
+    war_type: take_province
+    cb_type: conquer_province
+    casus_belli: cb_conquer_province
+    
+    #Participants
+    SILL:
+      side: attacker
+      reason: instigator
+    TANG:
+      side: defender
+      reason: target
+    GOGU:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: TANG
+    action: yes
+  
+  676.1.1:
+    truce_length: 60
+    action: no

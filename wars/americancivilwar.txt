@@ -1,0 +1,21 @@
+americancivilwar:
+  1861.4.12:
+    #Name "American Civil War"
+    name: "NORMAL_WAR_NAME"
+    ordinal: 1
+    
+    #CB
+    war_type: civil_war
+    
+    #Participants
+    CSAM:
+      side: attacker
+      reason: instigator
+    USA:
+      side: defender
+      reason: target
+    action: yes
+  
+  1865.5.5:
+    truce_length: 60
+    action: no

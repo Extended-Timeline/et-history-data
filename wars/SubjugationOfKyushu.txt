@@ -1,0 +1,23 @@
+SubjugationOfKyushu:
+  1586.7.1:
+    #Name "Subjugation of Kyushu"
+    name: "NORMAL_WAR_NAME"
+    ordinal: 1
+    
+    #CB
+    war_type: take_province
+    cb_type: conquer_province
+    casus_belli: cb_conquer_province
+    
+    #Participants
+    TOYO:
+      side: attacker
+      reason: instigator
+    SMZ:
+      side: defender
+      reason: target
+    action: yes
+  
+  1587.4.28:
+    truce_length: 60
+    action: no

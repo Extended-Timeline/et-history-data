@@ -1,0 +1,35 @@
+iraqwar:
+  2003.3.20:
+    #Name "Iraq War"
+    name: "NORMAL_WAR_NAME"
+    ordinal: 1
+    
+    #CB
+    war_type: superiority
+    cb_type: superiority
+    casus_belli: cb_insulted_us
+    
+    #Participants
+    USA:
+      side: attacker
+      reason: instigator
+    GBR:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: USA
+    AUST:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: USA
+    POL:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: USA
+    IRAQ:
+      side: defender
+      reason: target
+    action: yes
+  
+  2003.5.1:
+    truce_length: 60
+    action: no

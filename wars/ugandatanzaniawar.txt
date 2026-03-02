@@ -1,0 +1,31 @@
+ugandatanzaniawar:
+  1978.10.30:
+    #Name "Uganda-Tanzania War"
+    name: "NORMAL_WAR_NAME"
+    ordinal: 1
+    
+    #CB
+    war_type: superiority
+    cb_type: superiority
+    casus_belli: cb_insulted_us
+    
+    #Participants
+    UGAN:
+      side: attacker
+      reason: instigator
+    LIB:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: UGAN
+    TANZ:
+      side: defender
+      reason: target
+    MOZA:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: TANZ
+    action: yes
+  
+  1979.4.11:
+    truce_length: 60
+    action: no

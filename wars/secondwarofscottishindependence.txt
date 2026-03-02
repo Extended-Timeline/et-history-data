@@ -1,0 +1,23 @@
+secondwarofscottishindependence:
+  1332.8.1:
+    #Name "Second War of Scottish Independence"
+    name: "NORMAL_WAR_NAME"
+    ordinal: 2
+    
+    #CB
+    war_type: take_province
+    cb_type: conquer_province
+    casus_belli: cb_conquer_province
+    
+    #Participants
+    ENG:
+      side: attacker
+      reason: instigator
+    SCO:
+      side: defender
+      reason: target
+    action: yes
+  
+  1357.1.1:
+    truce_length: 60
+    action: no

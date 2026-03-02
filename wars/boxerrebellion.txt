@@ -1,0 +1,55 @@
+boxerrebellion:
+  1899.10.1:
+    #Name "Boxer Rebellion"
+    name: "NORMAL_WAR_NAME"
+    ordinal: 1
+    
+    #CB
+    war_type: superiority
+    cb_type: superiority
+    casus_belli: cb_insulted_us
+    
+    #Participants
+    GBR:
+      side: attacker
+      reason: instigator
+    RUS:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: GBR
+    JAP:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: GBR
+    FRA:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: GBR
+    USA:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: GBR
+    GER:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: GBR
+    ITA:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: GBR
+    HAB:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: GBR
+    HUN:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: GBR
+    QNG:
+      side: defender
+      reason: target
+    action: yes
+  
+  1901.9.1:
+    truce_length: 60
+    action: no

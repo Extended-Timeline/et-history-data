@@ -1,0 +1,27 @@
+secondboerwar:
+  1899.10.11:
+    #Name "Second Boer War"
+    name: "NORMAL_WAR_NAME"
+    ordinal: 2
+    
+    #CB
+    war_type: take_province
+    cb_type: conquer_province
+    casus_belli: cb_conquer_province
+    
+    #Participants
+    GBR:
+      side: attacker
+      reason: instigator
+    ORFS:
+      side: defender
+      reason: target
+    SAFR:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: ORFS
+    action: yes
+  
+  1902.5.31:
+    truce_length: 60
+    action: no

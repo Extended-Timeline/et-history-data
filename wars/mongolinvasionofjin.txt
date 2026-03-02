@@ -1,0 +1,41 @@
+mongolinvasionofjin:
+  1211.1.1:
+    #Name "Mongol Invasion of Jin"
+    name: "NORMAL_WAR_NAME"
+    ordinal: 1
+    
+    #CB
+    war_type: superiority
+    cb_type: superiority_horde
+    casus_belli: cb_horde_vs_civ
+    
+    #Participants
+    MGE:
+      side: attacker
+      reason: instigator
+    XIA0:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: MGE
+    JIN0:
+      side: defender
+      reason: target
+    action: yes
+  
+  1219.1.1:
+    XIA0:
+      side: none
+  
+  1225.1.1:
+    XIA0:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: JIN0
+  
+  1227.1.1:
+    XIA0:
+      side: none
+  
+  1234.1.1:
+    truce_length: 60
+    action: no

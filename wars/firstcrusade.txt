@@ -1,0 +1,77 @@
+firstcrusade:
+  1096.11.27:
+    #Name "First Crusade"
+    name: "NORMAL_WAR_NAME"
+    ordinal: 1
+    
+    #CB
+    war_type: take_province
+    cb_type: conquer_province
+    casus_belli: cb_conquer_province
+    
+    #Participants
+    PAP:
+      side: attacker
+      reason: instigator
+    ENG:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: PAP
+    FRA:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: PAP
+    FKN:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: PAP
+    SIC:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: PAP
+    LOT:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: PAP
+    LOR:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: PAP
+    SELJ:
+      side: defender
+      reason: target
+    FATI:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: SELJ
+    RUM:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: SELJ
+    DANI:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: SELJ
+    action: yes
+  
+  1097.8.19:
+    ANTI:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: PAP
+  
+  1098.1.1:
+    EDES:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: PAP
+  
+  1099.7.1:
+    KOJ:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: PAP
+  
+  1099.7.2:
+    truce_length: 60
+    action: no

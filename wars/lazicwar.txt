@@ -1,0 +1,35 @@
+lazicwar:
+  541.1.1:
+    #Name "Lazic War"
+    name: "NORMAL_WAR_NAME"
+    ordinal: 1
+    
+    #CB
+    war_type: superiority
+    cb_type: superiority
+    casus_belli: cb_insulted_us
+    
+    #Participants
+    ERA:
+      side: attacker
+      reason: instigator
+    LAZI:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: ERA
+    BYZ:
+      side: defender
+      reason: target
+    action: yes
+  
+  548.1.1:
+    LAZI:
+      side: none
+    LAZI:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: BYZ
+  
+  562.1.1:
+    truce_length: 60
+    action: no

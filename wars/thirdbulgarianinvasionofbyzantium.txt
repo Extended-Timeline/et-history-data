@@ -1,0 +1,23 @@
+thirdbulgarianinvasionofbyzantium:
+  995.1.1:
+    #Name "Third Bulgarian Invasion of Byzantium"
+    name: "NORMAL_WAR_NAME"
+    ordinal: 3
+    
+    #CB
+    war_type: take_province
+    cb_type: conquer_province
+    casus_belli: cb_conquer_province
+    
+    #Participants
+    BUL:
+      side: attacker
+      reason: instigator
+    BYZ:
+      side: defender
+      reason: target
+    action: yes
+  
+  997.1.1:
+    truce_length: 60
+    action: no

@@ -1,0 +1,47 @@
+CrusadeOfVarna:
+  1443.10.1:
+    #Name "Nish"
+    name: "NORMAL_WAR_NAME"
+    ordinal: 1
+    
+    #CB
+    war_type: take_province
+    cb_type: conquer_province
+    casus_belli: cb_conquer_province
+    
+    #Participants
+    POL:
+      side: attacker
+      reason: instigator
+    HUN:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: POL
+    SER:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: POL
+    BOH:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: POL
+    WAL:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: POL
+    MOL:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: POL
+    PAP:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: POL
+    TUR:
+      side: defender
+      reason: target
+    action: yes
+  
+  1444.11.1:
+    truce_length: 60
+    action: no

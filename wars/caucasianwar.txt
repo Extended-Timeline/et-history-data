@@ -1,0 +1,31 @@
+caucasianwar:
+  1828.1.1:
+    #Name "Caucasian War"
+    name: "NORMAL_WAR_NAME"
+    ordinal: 1
+    
+    #CB
+    war_type: take_province
+    cb_type: conquer_province
+    casus_belli: cb_conquer_province
+    
+    #Participants
+    RUS:
+      side: attacker
+      reason: instigator
+    CAUC:
+      side: defender
+      reason: target
+    CIR:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: CAUC
+    action: yes
+  
+  1859.9.1:
+    CAUC:
+      side: none
+  
+  1864.3.18:
+    truce_length: 60
+    action: no

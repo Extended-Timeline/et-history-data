@@ -1,0 +1,23 @@
+greekwarofindependence:
+  1821.3.6:
+    #Name "Greek War of Independence"
+    name: "NORMAL_WAR_NAME"
+    ordinal: 1
+    
+    #CB
+    war_type: independence
+    cb_type: independence
+    casus_belli: cb_independence_war
+    
+    #Participants
+    GRE:
+      side: attacker
+      reason: instigator
+    TUR:
+      side: defender
+      reason: target
+    action: yes
+  
+  1832.7.21:
+    truce_length: 60
+    action: no

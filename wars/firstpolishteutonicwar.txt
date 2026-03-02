@@ -1,0 +1,39 @@
+firstpolishteutonicwar:
+  1326.1.1:
+    #Name "First Polish-Teutonic War"
+    name: "NORMAL_WAR_NAME"
+    ordinal: 1
+    
+    #CB
+    war_type: take_province
+    cb_type: conquer_province
+    casus_belli: cb_conquer_province
+    
+    #Participants
+    POL:
+      side: attacker
+      reason: instigator
+    LIT:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: POL
+    HUN:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: POL
+    TEU:
+      side: defender
+      reason: target
+    BOH:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: TEU
+    MAZ:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: TEU
+    action: yes
+  
+  1343.7.8:
+    truce_length: 60
+    action: no

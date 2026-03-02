@@ -1,0 +1,23 @@
+saxonwars:
+  772.1.1:
+    #Name "Saxon Wars"
+    name: "NORMAL_WAR_NAME"
+    ordinal: 1
+    
+    #CB
+    war_type: take_province
+    cb_type: conquer_province
+    casus_belli: cb_conquer_province
+    
+    #Participants
+    FRAN:
+      side: attacker
+      reason: instigator
+    SAX:
+      side: defender
+      reason: target
+    action: yes
+  
+  804.1.1:
+    truce_length: 60
+    action: no

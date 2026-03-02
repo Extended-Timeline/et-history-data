@@ -1,0 +1,67 @@
+gulfwar:
+  1990.8.2:
+    #Name "Gulf War"
+    name: "NORMAL_WAR_NAME"
+    ordinal: 1
+    
+    #CB
+    war_type: take_province
+    cb_type: conquer_province
+    casus_belli: cb_conquer_province
+    
+    #Participants
+    IRAQ:
+      side: attacker
+      reason: instigator
+    USA:
+      side: defender
+      reason: target
+    KUWA:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: USA
+    GBR:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: USA
+    SAUD:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: USA
+    FRA:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: USA
+    CAN:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: USA
+    EGY:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: USA
+    SYRI:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: USA
+    QATA:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: USA
+    UAEM:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: USA
+    OMA:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: USA
+    BANG:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: USA
+    action: yes
+  
+  1991.2.28:
+    truce_length: 60
+    action: no

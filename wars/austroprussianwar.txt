@@ -1,0 +1,63 @@
+austroprussianwar:
+  1866.6.14:
+    #Name "Austro-Prussian War"
+    name: "NORMAL_WAR_NAME"
+    ordinal: 1
+    
+    #CB
+    war_type: superiority
+    cb_type: superiority
+    casus_belli: cb_insulted_us
+    
+    #Participants
+    HAB:
+      side: attacker
+      reason: instigator
+    BAV:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: HAB
+    HAN:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: HAB
+    SAX:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: HAB
+    WUR:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: HAB
+    BDE:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: HAB
+    HES:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: HAB
+    FRN:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: HAB
+    PRU:
+      side: defender
+      reason: target
+    HAM:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: PRU
+    LUB:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: PRU
+    ANH:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: PRU
+    action: yes
+  
+  1866.8.23:
+    truce_length: 60
+    action: no

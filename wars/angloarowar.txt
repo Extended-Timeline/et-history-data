@@ -1,0 +1,23 @@
+angloarowar:
+  1901.11.1:
+    #Name "Anglo-Aro War"
+    name: "NORMAL_WAR_NAME"
+    ordinal: 1
+    
+    #CB
+    war_type: take_province
+    cb_type: conquer_province
+    casus_belli: cb_conquer_province
+    
+    #Participants
+    GBR:
+      side: attacker
+      reason: instigator
+    ARO0:
+      side: defender
+      reason: target
+    action: yes
+  
+  1902.3.1:
+    truce_length: 60
+    action: no

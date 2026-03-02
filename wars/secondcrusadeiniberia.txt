@@ -1,0 +1,43 @@
+secondcrusadeiniberia:
+  1147.3.1:
+    #Name "Second Crusade in Iberia"
+    name: "NORMAL_WAR_NAME"
+    ordinal: 2
+    
+    #CB
+    war_type: take_province
+    cb_type: conquer_province
+    casus_belli: cb_conquer_province
+    
+    #Participants
+    POR:
+      side: attacker
+      reason: instigator
+    CAS:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: POR
+    ARA:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: POR
+    LON:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: POR
+    BADJ:
+      side: defender
+      reason: target
+    MOR:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: BADJ
+    SILV:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: BADJ
+    action: yes
+  
+  1149.4.1:
+    truce_length: 60
+    action: no

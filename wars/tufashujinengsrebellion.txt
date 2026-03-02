@@ -1,0 +1,23 @@
+tufashujinengsrebellion:
+  279.1.1:
+    #Name "Tufa Shujineng's Rebellion"
+    name: "NORMAL_WAR_NAME"
+    ordinal: 1
+    
+    #CB
+    war_type: independence
+    cb_type: independence
+    casus_belli: cb_independence_war
+    
+    #Participants
+    LIAN:
+      side: attacker
+      reason: instigator
+    JIN1:
+      side: defender
+      reason: target
+    action: yes
+  
+  279.12.1:
+    truce_length: 60
+    action: no

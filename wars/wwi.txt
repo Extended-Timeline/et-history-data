@@ -1,0 +1,141 @@
+wwi:
+  1914.7.28:
+    #Name "First World War"
+    name: "NORMAL_WAR_NAME"
+    ordinal: 1
+    
+    #CB
+    war_type: take_province
+    cb_type: conquer_province
+    casus_belli: cb_conquer_province
+    
+    #Participants
+    HAB:
+      side: attacker
+      reason: instigator
+    HUN:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: HAB
+    GER:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: HAB
+    FRA:
+      side: defender
+      reason: target
+    GBR:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: FRA
+    SER:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: FRA
+    MONT:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: FRA
+    BEL:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: FRA
+    LUX:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: FRA
+    RUS:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: FRA
+    NPL:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: FRA
+    CAN:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: FRA
+    SAFR:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: FRA
+    AUST:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: FRA
+    NZEA:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: FRA
+    action: yes
+  
+  1914.8.23:
+    JAP:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: FRA
+  
+  1914.10.29:
+    TUR:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: HAB
+  
+  1915.5.23:
+    ITA:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: FRA
+  
+  1915.10.14:
+    BUL:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: HAB
+  
+  1916.3.9:
+    POR:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: FRA
+  
+  1916.8.14:
+    RMN:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: FRA
+  
+  1917.4.6:
+    USA:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: FRA
+    LIBE:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: FRA
+    SIA:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: FRA
+    GRE:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: FRA
+  
+  1918.3.3:
+    RUS:
+      side: none
+  
+  1918.9.30:
+    BUL:
+      side: none
+  
+  1919.6.28:
+    GER:
+      side: none
+  
+  1919.9.10:
+    truce_length: 60
+    action: no

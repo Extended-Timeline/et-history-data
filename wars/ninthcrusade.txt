@@ -1,0 +1,67 @@
+ninthcrusade:
+  1271.1.1:
+    #Name "Ninth Crusade"
+    name: "NORMAL_WAR_NAME"
+    ordinal: 9
+    
+    #CB
+    war_type: take_province
+    cb_type: conquer_province
+    casus_belli: cb_conquer_province
+    
+    #Participants
+    FRA:
+      side: attacker
+      reason: instigator
+    SIC:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: FRA
+    CYP:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: FRA
+    KOJ:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: FRA
+    ENG:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: FRA
+    ARM:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: FRA
+    ANTI:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: FRA
+    TRIP:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: FRA
+    ALE:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: FRA
+    AMG:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: FRA
+    AUV:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: FRA
+    FOI:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: FRA
+    MAM:
+      side: defender
+      reason: target
+    action: yes
+  
+  1272.9.1:
+    truce_length: 60
+    action: no

@@ -1,0 +1,23 @@
+israelipalestinianconflict:
+  1988.11.15:
+    #Name "Israeli-Palestinian Conflict, First Intifada"
+    name: "NORMAL_WAR_NAME"
+    ordinal: 1
+    
+    #CB
+    war_type: independence
+    cb_type: independence
+    casus_belli: cb_independence_war
+    
+    #Participants
+    PALE:
+      side: attacker
+      reason: instigator
+    ISRA:
+      side: defender
+      reason: target
+    action: yes
+  
+  1993.9.13:
+    truce_length: 60
+    action: no

@@ -1,0 +1,31 @@
+belgianrevolution:
+  1831.7.21:
+    #Name "Belgian Revolution"
+    name: "NORMAL_WAR_NAME"
+    ordinal: 1
+    
+    #CB
+    war_type: independence
+    cb_type: independence
+    casus_belli: cb_independence_war
+    
+    #Participants
+    BEL:
+      side: attacker
+      reason: instigator
+    FRA:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: BEL
+    NED:
+      side: defender
+      reason: target
+    LUX:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: NED
+    action: yes
+  
+  1831.7.21:
+    truce_length: 60
+    action: no

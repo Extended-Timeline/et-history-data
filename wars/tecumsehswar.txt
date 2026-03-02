@@ -1,0 +1,43 @@
+tecumsehswar:
+  1810.8.1:
+    #Name "Tecumseh's War"
+    name: "NORMAL_WAR_NAME"
+    ordinal: 1
+    
+    #CB
+    war_type: take_country
+    cb_type: take_country
+    casus_belli: cb_imperialism
+    
+    #Participants
+    USA:
+      side: attacker
+      reason: instigator
+    OJI:
+      side: defender
+      reason: target
+    MSK:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: OJI
+    BDK:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: OJI
+    MMI:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: OJI
+    ???:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: OJI
+    ODW:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: OJI
+    action: yes
+  
+  1813.10.5:
+    truce_length: 60
+    action: no

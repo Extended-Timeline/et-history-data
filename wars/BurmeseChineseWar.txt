@@ -1,0 +1,31 @@
+BurmeseChineseWar:
+  1765.12.1:
+    #Name "Sino-Burmese War"
+    name: "NORMAL_WAR_NAME"
+    ordinal: 1
+    
+    #CB
+    war_type: superiority
+    cb_type: superiority
+    casus_belli: cb_insulted_us
+    
+    #Participants
+    QNG:
+      side: attacker
+      reason: instigator
+    BURM:
+      side: defender
+      reason: target
+    HSE:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: BURM
+    HSI:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: BURM
+    action: yes
+  
+  1769.12.22:
+    truce_length: 60
+    action: no

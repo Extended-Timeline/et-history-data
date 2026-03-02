@@ -1,0 +1,79 @@
+genpeiwar:
+  1180.5.1:
+    #Name "Genpei War"
+    name: "NORMAL_WAR_NAME"
+    ordinal: 1
+    
+    #CB
+    war_type: take_province
+    cb_type: conquer_province
+    casus_belli: cb_conquer_province
+    
+    #Participants
+    MINM:
+      side: attacker
+      reason: instigator
+    YMT:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: MINM
+    HTK:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: MINM
+    CBA:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: MINM
+    TKI:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: MINM
+    TKD:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: MINM
+    NIT:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: MINM
+    ASK:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: MINM
+    TAIR:
+      side: defender
+      reason: target
+    TACH:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: TAIR
+    STK:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: TAIR
+    SAIT:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: TAIR
+    JO00:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: TAIR
+    HARD:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: TAIR
+    action: yes
+  
+  1180.6.20:
+    YMT:
+      side: none
+  
+  1180.8.1:
+    TACH:
+      side: none
+  
+  1185.7.19:
+    truce_length: 60
+    action: no

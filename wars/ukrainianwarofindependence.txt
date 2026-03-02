@@ -1,0 +1,23 @@
+ukrainianwarofindependence:
+  1918.1.22:
+    #Name "Ukrainian War of Independence"
+    name: "NORMAL_WAR_NAME"
+    ordinal: 1
+    
+    #CB
+    war_type: independence
+    cb_type: independence
+    casus_belli: cb_independence_war
+    
+    #Participants
+    UKR:
+      side: attacker
+      reason: instigator
+    RUS:
+      side: defender
+      reason: target
+    action: yes
+  
+  1921.3.18:
+    truce_length: 60
+    action: no

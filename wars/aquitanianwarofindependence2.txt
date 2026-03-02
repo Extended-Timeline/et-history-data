@@ -1,0 +1,23 @@
+aquitanianwarofindependence2:
+  768.10.9:
+    #Name "Second Aquitanian War of Independence"
+    name: "NORMAL_WAR_NAME"
+    ordinal: 2
+    
+    #CB
+    war_type: independence
+    cb_type: independence
+    casus_belli: cb_independence_war
+    
+    #Participants
+    AQN:
+      side: attacker
+      reason: instigator
+    FRAN:
+      side: defender
+      reason: target
+    action: yes
+  
+  769.2.1:
+    truce_length: 60
+    action: no

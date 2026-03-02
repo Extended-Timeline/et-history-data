@@ -1,0 +1,39 @@
+normaninvasionofireland:
+  1169.5.1:
+    #Name "Norman Invasion of England"
+    name: "NORMAL_WAR_NAME"
+    ordinal: 1
+    
+    #CB
+    war_type: take_province
+    cb_type: conquer_province
+    casus_belli: cb_conquer_province
+    
+    #Participants
+    ENG:
+      side: attacker
+      reason: instigator
+    MTH:
+      side: defender
+      reason: target
+    ULS:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: MTH
+    CNN:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: MTH
+    LEI:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: MTH
+    THO:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: MTH
+    action: yes
+  
+  1175.10.6:
+    truce_length: 60
+    action: no

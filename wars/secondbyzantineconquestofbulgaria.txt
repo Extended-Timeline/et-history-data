@@ -1,0 +1,23 @@
+secondbyzantineconquestofbulgaria:
+  1000.1.1:
+    #Name "Second Byzantine Conquest of Bulgaria"
+    name: "NORMAL_WAR_NAME"
+    ordinal: 2
+    
+    #CB
+    war_type: take_province
+    cb_type: conquer_province
+    casus_belli: cb_conquer_province
+    
+    #Participants
+    BYZ:
+      side: attacker
+      reason: instigator
+    BUL:
+      side: defender
+      reason: target
+    action: yes
+  
+  1014.1.1:
+    truce_length: 60
+    action: no

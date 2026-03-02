@@ -1,0 +1,23 @@
+firstegyptianottomanwar:
+  1831.1.1:
+    #Name "First Egyptian-Ottoman War"
+    name: "NORMAL_WAR_NAME"
+    ordinal: 1
+    
+    #CB
+    war_type: take_province
+    cb_type: conquer_province
+    casus_belli: cb_conquer_province
+    
+    #Participants
+    EGY:
+      side: attacker
+      reason: instigator
+    TUR:
+      side: defender
+      reason: target
+    action: yes
+  
+  1833.5.6:
+    truce_length: 60
+    action: no

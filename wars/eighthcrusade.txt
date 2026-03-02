@@ -1,0 +1,47 @@
+eighthcrusade:
+  1267.8.1:
+    #Name "Eighth Crusade"
+    name: "NORMAL_WAR_NAME"
+    ordinal: 8
+    
+    #CB
+    war_type: take_province
+    cb_type: conquer_province
+    casus_belli: cb_conquer_province
+    
+    #Participants
+    FRA:
+      side: attacker
+      reason: instigator
+    SIC:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: FRA
+    ALE:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: FRA
+    AMG:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: FRA
+    AUV:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: FRA
+    FOI:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: FRA
+    TOU:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: FRA
+    TUN:
+      side: defender
+      reason: target
+    action: yes
+  
+  1270.10.30:
+    truce_length: 60
+    action: no

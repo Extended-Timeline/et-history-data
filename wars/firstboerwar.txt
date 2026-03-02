@@ -1,0 +1,23 @@
+firstboerwar:
+  1880.12.20:
+    #Name "First Boer War"
+    name: "NORMAL_WAR_NAME"
+    ordinal: 1
+    
+    #CB
+    war_type: independence
+    cb_type: independence
+    casus_belli: cb_independence_war
+    
+    #Participants
+    SAFR:
+      side: attacker
+      reason: instigator
+    GBR:
+      side: defender
+      reason: target
+    action: yes
+  
+  1881.8.3:
+    truce_length: 60
+    action: no

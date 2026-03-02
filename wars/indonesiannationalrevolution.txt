@@ -1,0 +1,27 @@
+indonesiannationalrevolution:
+  1945.8.17:
+    #Name "Indonesian National Revolution"
+    name: "NORMAL_WAR_NAME"
+    ordinal: 1
+    
+    #CB
+    war_type: independence
+    cb_type: independence
+    casus_belli: cb_independence_war
+    
+    #Participants
+    INDN:
+      side: attacker
+      reason: instigator
+    NED:
+      side: defender
+      reason: target
+    GBR:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: NED
+    action: yes
+  
+  1949.12.27:
+    truce_length: 60
+    action: no

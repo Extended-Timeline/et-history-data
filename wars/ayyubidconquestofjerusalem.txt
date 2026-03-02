@@ -1,0 +1,31 @@
+ayyubidconquestofjerusalem:
+  1182.9.29:
+    #Name "Ayyubid Conquest of Jerusalem"
+    name: "NORMAL_WAR_NAME"
+    ordinal: 1
+    
+    #CB
+    war_type: take_province
+    cb_type: conquer_province
+    casus_belli: cb_conquer_province
+    
+    #Participants
+    EGY:
+      side: attacker
+      reason: instigator
+    KOJ:
+      side: defender
+      reason: target
+    TRIP:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: KOJ
+    ANTI:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: KOJ
+    action: yes
+  
+  1187.10.2:
+    truce_length: 60
+    action: no

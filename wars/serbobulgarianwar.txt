@@ -1,0 +1,23 @@
+serbobulgarianwar:
+  1885.11.14:
+    #Name "Serbo-Bulgarian War"
+    name: "NORMAL_WAR_NAME"
+    ordinal: 1
+    
+    #CB
+    war_type: take_province
+    cb_type: conquer_province
+    casus_belli: cb_conquer_province
+    
+    #Participants
+    SER:
+      side: attacker
+      reason: instigator
+    BUL:
+      side: defender
+      reason: target
+    action: yes
+  
+  1885.11.28:
+    truce_length: 60
+    action: no

@@ -1,0 +1,23 @@
+timuridinvasionofjalayirids:
+  1401.6.1:
+    #Name "Timurid Invasion of Jalayirids"
+    name: "NORMAL_WAR_NAME"
+    ordinal: 1
+    
+    #CB
+    war_type: take_province
+    cb_type: conquer_province
+    casus_belli: cb_conquer_province
+    
+    #Participants
+    TIM:
+      side: attacker
+      reason: instigator
+    MALT:
+      side: defender
+      reason: target
+    action: yes
+  
+  1405.2.20:
+    truce_length: 60
+    action: no

@@ -1,0 +1,323 @@
+wwii:
+  1939.9.1:
+    #Name "Second World War"
+    name: "NORMAL_WAR_NAME"
+    ordinal: 2
+    
+    #CB
+    war_type: take_province
+    cb_type: conquer_province
+    casus_belli: cb_conquer_province
+    
+    #Participants
+    GER:
+      side: attacker
+      reason: instigator
+    ITA:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: GER
+    GBR:
+      side: defender
+      reason: target
+    POL:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: GBR
+    FRA:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: GBR
+    LAOS:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: GBR
+    KHM:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: GBR
+    ANNA:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: GBR
+    EGY:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: GBR
+    IRAQ:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: GBR
+    AUST:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: GBR
+    NZEA:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: GBR
+    NPL:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: GBR
+    CAN:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: GBR
+    OMA:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: GBR
+    action: yes
+  
+  1939.10.6:
+    POL:
+      side: none
+  
+  1940.4.9:
+    DAN:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: GBR
+    NOR:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: GBR
+  
+  1940.5.10:
+    NED:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: GBR
+    BEL:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: GBR
+  
+  1940.6.14:
+    VFRA:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: GER
+  
+  1940.10.28:
+    GRE:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: GBR
+  
+  1940.11.23:
+    RMN:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: GER
+  
+  1941.3.1:
+    BUL:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: GER
+  
+  1941.4.1:
+    IRAQ:
+      side: none
+  
+  1941.5.2:
+    IRAQ:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: GER
+  
+  1941.5.31:
+    IRAQ:
+      side: none
+    IRAQ:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: GBR
+  
+  1941.6.22:
+    SOVI:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: GBR
+  
+  1941.7.1:
+    GRE:
+      side: none
+  
+  1941.12.7:
+    JAP:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: GER
+    USA:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: GBR
+  
+  1941.12.8:
+    COST:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: GBR
+    CUBA:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: GBR
+    DOMR:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: GBR
+    ELSA:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: GBR
+    HAIT:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: GBR
+    HOND:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: GBR
+    NICR:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: GBR
+  
+  1941.12.9:
+    GUAR:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: GBR
+  
+  1942.1.25:
+    SIA:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: GER
+    MOPA:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: GBR
+  
+  1942.3.9:
+    NED:
+      side: none
+  
+  1942.5.22:
+    MEX:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: GBR
+  
+  1942.8.22:
+    BRAZ:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: GBR
+  
+  1943.4.7:
+    BOLI:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: GBR
+  
+  1943.9.8:
+    ITA:
+      side: none
+  
+  1943.11.26:
+    COLO:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: GBR
+  
+  1944.8.23:
+    RMN:
+      side: none
+    RMN:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: GBR
+  
+  1944.8.25:
+    VFRA:
+      side: none
+  
+  1944.9.9:
+    BUL:
+      side: none
+    BUL:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: GBR
+  
+  1944.9.15:
+    FIN:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: GBR
+  
+  1945.2.2:
+    ECUA:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: GBR
+    PAR:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: GBR
+  
+  1945.2.15:
+    URUG:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: GBR
+  
+  1945.2.23:
+    TURK:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: GBR
+  
+  1945.3.11:
+    ANNA:
+      side: none
+    VIET:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: GER
+  
+  1945.3.27:
+    ARGE:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: GBR
+  
+  1945.4.25:
+    FIN:
+      side: none
+  
+  1945.5.8:
+    GER:
+      side: none
+    DAN:
+      side: none
+    NOR:
+      side: none
+  
+  1945.8.16:
+    SIA:
+      side: none
+    MOPA:
+      side: none
+  
+  1945.8.23:
+    VIET:
+      side: none
+  
+  1945.9.2:
+    truce_length: 60
+    action: no

@@ -1,0 +1,23 @@
+wwii_winterwar:
+  1939.11.30:
+    #Name "Winter War"
+    name: "NORMAL_WAR_NAME"
+    ordinal: 1
+    
+    #CB
+    war_type: take_province
+    cb_type: conquer_province
+    casus_belli: cb_conquer_province
+    
+    #Participants
+    SOVI:
+      side: attacker
+      reason: instigator
+    FIN:
+      side: defender
+      reason: target
+    action: yes
+  
+  1940.3.13:
+    truce_length: 60
+    action: no

@@ -1,0 +1,23 @@
+eritreanethiopianwar:
+  1998.5.6:
+    #Name "Eritrean-Ethiopian War"
+    name: "NORMAL_WAR_NAME"
+    ordinal: 1
+    
+    #CB
+    war_type: superiority
+    cb_type: superiority
+    casus_belli: cb_insulted_us
+    
+    #Participants
+    ERIT:
+      side: attacker
+      reason: instigator
+    ETH:
+      side: defender
+      reason: target
+    action: yes
+  
+  2000.5.25:
+    truce_length: 60
+    action: no

@@ -1,0 +1,35 @@
+firstbalkanwar:
+  1912.10.8:
+    #Name "First Balkan War"
+    name: "NORMAL_WAR_NAME"
+    ordinal: 1
+    
+    #CB
+    war_type: take_province
+    cb_type: conquer_province
+    casus_belli: cb_conquer_province
+    
+    #Participants
+    BUL:
+      side: attacker
+      reason: instigator
+    SER:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: BUL
+    GRE:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: BUL
+    MONT:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: BUL
+    TUR:
+      side: defender
+      reason: target
+    action: yes
+  
+  1913.5.30:
+    truce_length: 60
+    action: no

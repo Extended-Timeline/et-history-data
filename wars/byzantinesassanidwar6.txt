@@ -1,0 +1,31 @@
+byzantinesassanidwar6:
+  572.1.1:
+    #Name "6th Byzantine-Sasanian War"
+    name: "NORMAL_WAR_NAME"
+    ordinal: 6
+    
+    #CB
+    war_type: take_province
+    cb_type: conquer_province
+    casus_belli: cb_conquer_province
+    
+    #Participants
+    BYZ:
+      side: attacker
+      reason: instigator
+    GHAS:
+      side: attacker
+      reason: alliance #TODO check if alliance or subject
+      caller: BYZ
+    ERA:
+      side: defender
+      reason: target
+    LAKH:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: ERA
+    action: yes
+  
+  591.1.1:
+    truce_length: 60
+    action: no

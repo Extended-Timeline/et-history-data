@@ -1,0 +1,23 @@
+almohadconquestofmorocco:
+  1130.1.1:
+    #Name "Almohad Conquest of Morocco"
+    name: "NORMAL_WAR_NAME"
+    ordinal: 1
+    
+    #CB
+    war_type: take_province
+    cb_type: conquer_province
+    casus_belli: cb_conquer_province
+    
+    #Participants
+    SOS:
+      side: attacker
+      reason: instigator
+    MOR:
+      side: defender
+      reason: target
+    action: yes
+  
+  1147.4.1:
+    truce_length: 60
+    action: no

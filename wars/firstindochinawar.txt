@@ -1,0 +1,41 @@
+firstindochinawar:
+  1946.12.19:
+    #Name "First Indochina War"
+    name: "NORMAL_WAR_NAME"
+    ordinal: 1
+    
+    #CB
+    war_type: independence
+    cb_type: independence
+    casus_belli: cb_independence_war
+    
+    #Participants
+    NVIE:
+      side: attacker
+      reason: instigator
+    FRA:
+      side: defender
+      reason: target
+    action: yes
+  
+  1948.5.27:
+    SVIE:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: FRA
+  
+  1953.10.22:
+    LAOS:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: FRA
+  
+  1953.11.9:
+    KHM:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: FRA
+  
+  1954.8.1:
+    truce_length: 60
+    action: no

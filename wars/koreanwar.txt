@@ -1,0 +1,23 @@
+koreanwar:
+  1950.6.25:
+    #Name "Korean War"
+    name: "NORMAL_WAR_NAME"
+    ordinal: 1
+    
+    #CB
+    war_type: take_province
+    cb_type: conquer_province
+    casus_belli: cb_conquer_province
+    
+    #Participants
+    NKOR:
+      side: attacker
+      reason: instigator
+    SKOR:
+      side: defender
+      reason: target
+    action: yes
+  
+  1953.7.27:
+    truce_length: 60
+    action: no

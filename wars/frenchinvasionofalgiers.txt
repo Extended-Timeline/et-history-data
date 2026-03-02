@@ -1,0 +1,27 @@
+frenchinvasionofalgiers:
+  1827.4.29:
+    #Name "French Invasion of Algiers"
+    name: "NORMAL_WAR_NAME"
+    ordinal: 1
+    
+    #CB
+    war_type: take_province
+    cb_type: conquer_province
+    casus_belli: cb_conquer_province
+    
+    #Participants
+    FRA:
+      side: attacker
+      reason: instigator
+    TUR:
+      side: defender
+      reason: target
+    ALG:
+      side: defender
+      reason: alliance #TODO check if alliance or subject
+      caller: TUR
+    action: yes
+  
+  1830.7.10:
+    truce_length: 60
+    action: no

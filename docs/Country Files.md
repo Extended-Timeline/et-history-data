@@ -6,7 +6,9 @@ Country data is recorded in yml format as shown below. All countries have their 
 1:
   type: default #only needed if type is not default
   government: catholic_monarchy
+  name: TAG
   color: rgb { 60  60  60 }
+  flag: TAG
   government_rank: rank_kingdom
   heir_selection: cognatic_primogeniture
   reforms:
@@ -17,8 +19,10 @@ Country data is recorded in yml format as shown below. All countries have their 
   laws:
     marriage_law: monogamous_marriage
   religion: catholic
+  religious_school: maliki_school
   primary_culture: french
   court_language: french_language
+  liturgical_language: latin_language
   capital: paris
   tolerated_cultures:
     english: yes
@@ -26,9 +30,14 @@ Country data is recorded in yml format as shown below. All countries have their 
     catalan: yes
   exploration:
     expl_mediterranean: yes
+  dynasties:
+    add: sample_dynasty other_dynasty
+  estate_satisfaction:
+    nobles_estate: 0.25
 1000:
   regnal_numbers:
     name_john: 2
+  inherit_ruler_terms: TAG
   ruler: tag_guy_of_place
   regnal_number: 1
   diplomacy:
@@ -74,12 +83,17 @@ Usually regnal numbers start from 1, but if the numbers can be set to start from
 |------|----------|----------|----------|
 | type | see type section | yes if not default | The type of the country, further explained in the type section |
 | government | government preset | yes | The government preset the tag uses |
+| name | country tag | no | The name of the country. Defaults to the tag of the country, only needed if the country uses a name of a different tag |
 | color | rgb { xx  xx  xx } | yes | The color the tag will have on the map. Color values range from 0 to 255 |
+| flag | country tag | no | The flag of the country. Defaults to the tag of the country, only needed if the country uses a flag of a different tag |
 | religion | religion ID | yes | The state religion of the country |
+| religious_school | religious school ID | no | The religious school the country follows |
 | primary_culture | culture ID | yes | The primary culture of the country |
 | court_language | language ID | no | The court language of the country |
+| liturgical_language | language ID | no | The liturgical language of the country |
 | capital | location ID | yes | The location the tag's capital is in |
 | regnal_numbers | see regnal numbers section | no | Sets the number of previous rulers with given names |
+| inherit_ruler_terms | country tag | no | Makes the country inherit the ruler history of another country |
 | ruler | character ID | no | Sets the ruler of the country, defaults to random |
 | regent | character ID | no | Sets the country to be in a regency with the given character as regent |
 | heir | character ID | no | Sets the heir of the country, required in regency and in some governments where heir is not defined by laws |
@@ -93,6 +107,19 @@ Usually regnal numbers start from 1, but if the numbers can be set to start from
 | reforms | list of *reform: yes/no* | no | Sets the government reforms the country has |
 | privileges | list of *privilege: yes/no* | no | Sets the estate privileges the country has |
 | laws | list of *law type: law* | no | Sets the laws the country has |
+| dynasties | add/remove: list of dynasties | no | Sets the dynasties based in the country |
+| estate_satisfaction | list of *estate: float* | no | Sets the satisfaction of each estate, ranges from 0 to 1? |
+| parliament_type | parliament type | no | Type of the parliament in the country, set to none when country has no parliament, defaults to none |
+| ai_preference_exploration | integer | no | Sets the preference the country's AI will have towards exploration, ranges from 0 to 5? |
+| is_valid_for_release | yes/no | no | Sets if the country can be released |
+| gold | integer | no |  |
+| stability | integer | no | Ranges from -100 to 100 |
+| prestige | integer | no | Ranges from 0 to 100 |
+| government_power | integer | no | Ranges from 0 to 100 |
+| war_exhaustion | float | no | Ranges from 0 to ? |
+| army_tradition | integer | no | Ranges from 0 to 100 |
+| inflation | float | no | Ranges from 0 to ? |
+| tribal_cohesion | integer | no | Ranges from 0 to 100 |
 | centralization_vs_decentralization | integer | no | Ranges from -100 to 100 |
 | aristocracy_vs_plutocracy | integer | no | Ranges from -100 to 100 |
 | serfdom_vs_free_subjects | integer | no | Ranges from -100 to 100 |
@@ -106,5 +133,7 @@ Usually regnal numbers start from 1, but if the numbers can be set to start from
 | capital_economy_vs_traditional_economy | integer | no | Ranges from -100 to 100 |
 | individualism_vs_communalism | integer | no | Ranges from -100 to 100 |
 | outward_vs_inward | integer | no | Ranges from -100 to 100 |
+| timed_modifiers | list of timed modifiers | no | Each timed modifier is its own structure with start_date end_date and size |
+| variables | list of variables | no | Each variable is its own structure with type and identity |
 
 ---

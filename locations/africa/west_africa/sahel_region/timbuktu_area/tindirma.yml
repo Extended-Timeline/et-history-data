@@ -5,23 +5,23 @@
       estate: peasant
       size: 1000
 350.1.1:
-  owner: GHAN
-  controller: GHAN
+  owner: GHA
+  controller: GHA
   cores:
-    GHAN: yes
+    GHA: yes
   resource: grain
 1077.1.1:
   owner: JENN
   controller: JENN
   cores:
-    GHAN: no
+    GHA: no
     JENN: yes
 1130.1.1:
-  owner: GHAN
-  controller: GHAN
+  owner: GHA
+  controller: GHA
   cores:
     JENN: no
-    GHAN: yes
+    GHA: yes
 1200.1.1:
   pops:
     - estate: peasant
@@ -30,7 +30,7 @@
   owner: MAL
   controller: MAL
   cores:
-    GHAN: no
+    GHA: no
     MAL: yes
 1389.1.1:
   owner: ZAFU

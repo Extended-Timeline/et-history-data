@@ -81,18 +81,18 @@
   cores:
     EFRA: no
     BAV: yes
-    CART: yes
+    CRH: yes
 962.2.2:
-  owner: CART
-  controller: CART
+  owner: CRH
+  controller: CRH
   cores:
     BAV: no
-    CART: yes
+    CRH: yes
 1012.1.1:
   owner: CAR
   controller: CAR
   cores:
-    CART: no
+    CRH: no
     CAR: yes
 1209.1.1:
   owner: AQU

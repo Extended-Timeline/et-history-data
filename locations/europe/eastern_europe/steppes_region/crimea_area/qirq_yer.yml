@@ -79,7 +79,7 @@
   cores:
     CUMA: no
     MGE: yes
-    CRIM: yes
+    CRI: yes
 1260.1.1:
   owner: WHHO
   controller: WHHO
@@ -106,21 +106,21 @@
   cores:
     GLH: yes
 1441.1.1:
-  owner: CRIM
-  controller: CRIM
+  owner: CRI
+  controller: CRI
   cores:
-    CRIM: yes
+    CRI: yes
 1478.6.1:
   cores:
     TUR: yes
 1736.6.1:
   controller: RUS
 1739.9.29:
-  controller: CRIM
+  controller: CRI
 1771.7.1:
   controller: RUS
 1774.7.21:
-  controller: CRIM
+  controller: CRI
   cores:
     TUR: no
     RUS: yes
@@ -128,14 +128,14 @@
   owner: RUS
   controller: RUS
   cores:
-    CRIM: no
+    CRI: no
 1880.1.1:
   pops:
     - estate: peasant
       size: 1000
 1900.1.1:
   cores:
-    CRIM: no
+    CRI: no
 1922.12.30:
   owner: SOVI
   controller: SOVI

@@ -113,16 +113,16 @@
     GLH: no
     GRHO: yes
 1502.6.1:
-  owner: CRIM
-  controller: CRIM
+  owner: CRI
+  controller: CRI
   cores:
     GRHO: no
-    CRIM: yes
+    CRI: yes
 1572.1.1:
   owner: RUS
   controller: RUS
   cores:
-    CRIM: no
+    CRI: no
     RUS: yes
 1671.4.14:
   controller: RUS
@@ -130,7 +130,7 @@
   controller: RUS
 1850.1.1:
   cores:
-    CRIM: no
+    CRI: no
 1880.1.1:
   pops:
     - estate: peasant

@@ -5,10 +5,10 @@
       estate: peasant
       size: 1000
 350.1.1:
-  owner: GHAN
-  controller: GHAN
+  owner: GHA
+  controller: GHA
   cores:
-    GHAN: yes
+    GHA: yes
   resource: salt
 950.1.1:
   pops:
@@ -20,17 +20,17 @@
   cores:
     MOR: yes
 1121.1.1:
-  owner: GHAN
-  controller: GHAN
+  owner: GHA
+  controller: GHA
   cores:
     MOR: no
-    GHAN: yes
+    GHA: yes
 1235.1.1:
   owner: XXX
   controller: XXX
   cores:
     MOR: no
-    GHAN: no
+    GHA: no
 1904.1.1:
   owner: FRA
   controller: FRA

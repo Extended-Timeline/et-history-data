@@ -88,7 +88,7 @@
   cores:
     CUMA: no
     MGE: yes
-    CRIM: yes
+    CRI: yes
   pops:
     - estate: peasant
       size: 1000
@@ -112,7 +112,7 @@
     GEN: yes
 1441.1.1:
   cores:
-    CRIM: yes
+    CRI: yes
 1475.5.1:
   owner: TUR
   controller: TUR

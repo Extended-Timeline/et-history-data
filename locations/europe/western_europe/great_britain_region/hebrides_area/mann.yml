@@ -34,10 +34,10 @@
   cores:
     MNN: yes
 825.1.1:
-  owner: GWYN
-  controller: GWYN
+  owner: GDD
+  controller: GDD
   cores:
-    GWYN: yes
+    GDD: yes
 867.1.1:
   pops:
     - estate: peasant
@@ -46,7 +46,7 @@
   owner: MNN
   controller: MNN
   cores:
-    GWYN: no
+    GDD: no
     MNN: yes
 921.1.1:
   owner: LOI

@@ -71,7 +71,7 @@
     GLH: yes
 1441.1.1:
   cores:
-    CRIM: yes
+    CRI: yes
 1442.1.1:
   owner: GRHO
   controller: GRHO
@@ -79,15 +79,15 @@
     GLH: no
     GRHO: yes
 1502.6.1:
-  owner: CRIM
-  controller: CRIM
+  owner: CRI
+  controller: CRI
   cores:
     GRHO: no
 1572.8.2:
   owner: RUS
   controller: RUS
   cores:
-    CRIM: no
+    CRI: no
     RUS: yes
 1650.1.1:
   pops:
@@ -96,7 +96,7 @@
       size: 1000
 1850.1.1:
   cores:
-    CRIM: no
+    CRI: no
 1922.12.30:
   owner: SOVI
   controller: SOVI

@@ -44,16 +44,16 @@
   cores:
     ABBA: yes
 861.1.1:
-  owner: SHIR
-  controller: SHIR
+  owner: SRV
+  controller: SRV
   cores:
     ABBA: no
-    SHIR: yes
+    SRV: yes
 890.1.1:
   owner: AZER
   controller: AZER
   cores:
-    SHIR: no
+    SRV: no
     AZER: yes
 960.1.1:
   owner: ARM

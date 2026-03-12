@@ -62,16 +62,16 @@
     MGE: no
     GAZI: yes
 1437.1.1:
-  owner: SHIR
-  controller: SHIR
+  owner: SRV
+  controller: SRV
   cores:
     GAZI: no
-    SHIR: yes
+    SRV: yes
 1501.7.1:
   owner: IRA
   controller: IRA
   cores:
-    SHIR: no
+    SRV: no
     IRA: yes
 1578.9.9:
   controller: TUR
@@ -97,8 +97,8 @@
   cores:
     RUS: no
 1747.1.1:
-  owner: SHIR
-  controller: SHIR
+  owner: SRV
+  controller: SRV
 1806.1.1:
   controller: RUS
 1813.10.12:

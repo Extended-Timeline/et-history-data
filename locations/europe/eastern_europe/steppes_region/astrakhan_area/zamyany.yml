@@ -46,7 +46,7 @@
   cores:
     CUMA: no
     MGE: yes
-    ASTR: yes
+    ATR: yes
   pops:
     - estate: peasant
       size: 1000
@@ -78,15 +78,15 @@
     GLH: no
     GRHO: yes
 1459.1.1:
-  owner: ASTR
-  controller: ASTR
+  owner: ATR
+  controller: ATR
   cores:
     GRHO: no
 1556.6.2:
   owner: RUS
   controller: RUS
   cores:
-    ASTR: no
+    ATR: no
     RUS: yes
 1600.1.1:
   pops:

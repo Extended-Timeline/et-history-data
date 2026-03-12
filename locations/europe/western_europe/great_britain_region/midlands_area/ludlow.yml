@@ -28,11 +28,11 @@
     ROM: no
     ROMW: yes
 410.1.1:
-  owner: POWY
-  controller: POWY
+  owner: PWS
+  controller: PWS
   cores:
     ROMW: no
-    POWY: yes
+    PWS: yes
 640.1.1:
   pops:
     - estate: peasant

@@ -26,11 +26,11 @@
   cores:
     ABBA: yes
 861.1.1:
-  owner: SHIR
-  controller: SHIR
+  owner: SRV
+  controller: SRV
   cores:
     ABBA: no
-    SHIR: yes
+    SRV: yes
 880.1.1:
   pops:
     - estate: peasant
@@ -45,16 +45,16 @@
   cores:
     MGE: yes
 1260.1.1:
-  owner: SHIR
-  controller: SHIR
+  owner: SRV
+  controller: SRV
   cores:
     MGE: no
-    SHIR: yes
+    SRV: yes
 1501.7.1:
   owner: IRA
   controller: IRA
   cores:
-    SHIR: no
+    SRV: no
     IRA: yes
 1578.9.9:
   controller: TUR
@@ -69,8 +69,8 @@
   cores:
     TUR: no
 1747.1.1:
-  owner: SHIR
-  controller: SHIR
+  owner: SRV
+  controller: SRV
 1805.12.25:
   controller: RUS
 1813.10.12:

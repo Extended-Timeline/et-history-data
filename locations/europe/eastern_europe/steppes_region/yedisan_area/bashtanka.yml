@@ -113,7 +113,7 @@
     LIT: yes
 1441.1.1:
   cores:
-    CRIM: yes
+    CRI: yes
 1569.7.1:
   owner: PLC
   controller: PLC
@@ -124,7 +124,7 @@
   owner: ZAZ
   controller: ZAZ
   cores:
-    CRIM: no
+    CRI: no
     ZAZ: yes
   pops:
     - religion: orthodox

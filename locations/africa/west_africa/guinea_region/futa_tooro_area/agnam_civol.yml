@@ -5,10 +5,10 @@
       estate: peasant
       size: 1000
 800.1.1:
-  owner: TAKR
-  controller: TAKR
+  owner: TKR
+  controller: TKR
   cores:
-    TAKR: yes
+    TKR: yes
   resource: slaves
 1035.1.1:
   pops:
@@ -24,16 +24,16 @@
     - estate: peasant
       size: 1000
 1350.1.1:
-  owner: TAKR
-  controller: TAKR
+  owner: TKR
+  controller: TKR
   cores:
     MAL: no
-    TAKR: yes
+    TKR: yes
 1490.1.1:
   owner: FUL
   controller: FUL
   cores:
-    TAKR: no
+    TKR: no
     FUL: yes
 1770.1.1:
   pops:

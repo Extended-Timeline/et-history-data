@@ -69,7 +69,7 @@
   cores:
     CUMA: no
     MGE: yes
-    CRIM: yes
+    CRI: yes
 1260.1.1:
   owner: WHHO
   controller: WHHO
@@ -96,10 +96,10 @@
   cores:
     GLH: yes
 1441.1.1:
-  owner: CRIM
-  controller: CRIM
+  owner: CRI
+  controller: CRI
   cores:
-    CRIM: yes
+    CRI: yes
 1478.6.1:
   cores:
     TUR: yes

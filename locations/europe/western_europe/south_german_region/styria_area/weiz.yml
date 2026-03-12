@@ -65,11 +65,11 @@
     AVR: no
     SAMO: yes
 659.1.1:
-  owner: CART
-  controller: CART
+  owner: CRH
+  controller: CRH
   cores:
     SAMO: no
-    CART: yes
+    CRH: yes
 660.1.1:
   pops:
     - estate: peasant
@@ -78,7 +78,7 @@
   owner: BAV
   controller: BAV
   cores:
-    CART: no
+    CRH: no
     BAV: yes
 750.1.1:
   pops:
@@ -112,11 +112,11 @@
     EFRA: no
     BAV: yes
 962.2.2:
-  owner: CART
-  controller: CART
+  owner: CRH
+  controller: CRH
   cores:
     BAV: no
-    CART: yes
+    CRH: yes
 1180.1.1:
   owner: STY
   controller: STY
@@ -156,7 +156,7 @@
 1900.1.1:
   cores:
     STY: no
-    CART: no
+    CRH: no
 1938.3.12:
   owner: GER
   controller: GER

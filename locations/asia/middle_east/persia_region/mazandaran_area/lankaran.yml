@@ -46,11 +46,11 @@
     UMAY: no
     ABBA: yes
 861.1.1:
-  owner: SHIR
-  controller: SHIR
+  owner: SRV
+  controller: SRV
   cores:
     ABBA: no
-    SHIR: yes
+    SRV: yes
 880.1.1:
   pops:
     - estate: peasant
@@ -75,27 +75,27 @@
     - estate: peasant
       size: 1000
 1100.1.1:
-  owner: SHIR
-  controller: SHIR
+  owner: SRV
+  controller: SRV
   cores:
     SELJ: no
-    SHIR: yes
+    SRV: yes
 1236.1.1:
   owner: MGE
   controller: MGE
   cores:
     MGE: yes
 1260.1.1:
-  owner: SHIR
-  controller: SHIR
+  owner: SRV
+  controller: SRV
   cores:
     MGE: no
-    SHIR: yes
+    SRV: yes
 1380.1.1:
   owner: LHJ
   controller: LHJ
   cores:
-    SHIR: no
+    SRV: no
     LHJ: yes
 1579.1.1:
   owner: KRY

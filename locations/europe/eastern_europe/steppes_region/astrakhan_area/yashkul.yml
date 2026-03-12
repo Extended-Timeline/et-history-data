@@ -40,7 +40,7 @@
   cores:
     CUMA: no
     MGE: yes
-    ASTR: yes
+    ATR: yes
   pops:
     - estate: peasant
       size: 1000
@@ -72,21 +72,21 @@
     GLH: no
     GRHO: yes
 1459.1.1:
-  owner: ASTR
-  controller: ASTR
+  owner: ATR
+  controller: ATR
   cores:
     GRHO: no
 1556.6.2:
-  owner: NOGA
-  controller: NOGA
+  owner: NOG
+  controller: NOG
   cores:
-    ASTR: no
-    NOGA: yes
+    ATR: no
+    NOG: yes
 1633.1.1:
   owner: KALM
   controller: KALM
   cores:
-    NOGA: no
+    NOG: no
     KALM: yes
   pops:
     - religion: tibetan_buddhism

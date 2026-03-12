@@ -70,7 +70,7 @@
   cores:
     CUMA: no
     MGE: yes
-    CRIM: yes
+    CRI: yes
 1250.1.1:
   pops:
     - estate: peasant
@@ -101,10 +101,10 @@
   cores:
     GLH: yes
 1441.1.1:
-  owner: CRIM
-  controller: CRIM
+  owner: CRI
+  controller: CRI
   cores:
-    CRIM: yes
+    CRI: yes
 1478.6.1:
   cores:
     TUR: yes
@@ -113,7 +113,7 @@
   controller: RUS
   cores:
     RUS: yes
-    CRIM: no
+    CRI: no
     TUR: no
 1792.6.12:
   pops:

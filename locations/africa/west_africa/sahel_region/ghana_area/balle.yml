@@ -5,27 +5,27 @@
       estate: peasant
       size: 1000
 350.1.1:
-  owner: GHAN
-  controller: GHAN
+  owner: GHA
+  controller: GHA
   cores:
-    GHAN: yes
+    GHA: yes
   resource: wool
 1077.1.1:
-  owner: TAKR
-  controller: TAKR
+  owner: TKR
+  controller: TKR
   cores:
-    TAKR: yes
+    TKR: yes
 1140.1.1:
-  owner: GHAN
-  controller: GHAN
+  owner: GHA
+  controller: GHA
   cores:
-    TAKR: no
-    GHAN: yes
+    TKR: no
+    GHA: yes
 1230.1.1:
   owner: MAL
   controller: MAL
   cores:
-    GHAN: no
+    GHA: no
     MAL: yes
 1389.1.1:
   owner: ZAFU

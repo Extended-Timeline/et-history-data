@@ -1,0 +1,158 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: iberian_monarchy_no_auxilium
+  color: map_CAS
+  color2: rgb { 16 41 202 }
+  government_rank: rank_kingdom
+  reforms:
+    crown_castile_reform: yes
+    feudal_nobility: yes
+  privileges:
+    monetary_fiefs: yes
+    clergy_military_orders: yes
+    ayuntamientos: yes
+    cas_caballeros_villanos: yes
+  laws:
+    administrative_system: yes
+    distribution_of_power_law: yes
+    legal_code_law: yes
+    medieval_levy_law: yes
+    mesta_council_law: yes
+    royal_court_customs_law: yes
+  religion: catholic
+  primary_culture: castilian
+  capital: valladolid
+  exploration:
+    expl_mediterranean: yes
+    expl_silk_road_west: yes
+    expl_silk_road_center: yes
+    expl_silk_road_east: yes
+    expl_indian_trade_route: yes
+  ai_preference_exploration: 5
+  aristocracy_vs_plutocracy: -40
+  serfdom_vs_free_subjects: -15
+  mercantilism_vs_free_trade: -40
+  belligerent_vs_conciliatory: -15
+  outward_vs_inward: -30
+
+#imported from EU4
+1:
+  government: iberian_monarchy
+  government_rank: rank_county
+  #color: rgb { 193  171  8 }
+  religion: catholic
+  primary_culture: castilian
+  capital: toledo
+931:
+  ruler: cas_fernan_gonzalez_beni_mamaduna
+970:
+  ruler: cas_garcia_fernandez_beni_mamaduna
+995:
+  ruler: cas_sancho_garcia_beni_mamaduna
+1017.2.5:
+  regent: cas_urraca_garcia_beni_mamaduna
+  heir: cas_garcia_sanchez_beni_mamaduna
+1028:
+  ruler: cas_garcia_sanchez_beni_mamaduna
+1029:
+  ruler: lon_fernando_i_jimena
+1065.12.24:
+  regnal_numbers: #Inherits regnal numbers from Leon
+    name_pelagius: 1
+    name_alphonse: 6
+    name_froila: 2
+    name_favila: 1
+    name_silo: 1
+    name_mauregatus: 1
+    name_aurelius: 1
+    name_bermund: 3
+    name_ramiro: 3
+    name_ordono: 1
+    name_sancho: 1
+    name_ferdinand: 1
+  government_rank: rank_kingdom
+  ruler: cas_sancho_ii_jimena
+  regnal_number: 2
+1072.10.7:
+  ruler: lon_alfonso_vi_jimena
+  regnal_number: 6
+1109.6.29:
+  ruler: lon_urraca_i_jimena
+  regnal_number: 1
+1126.3.8:
+  ruler: cas_alfonso_vii_burgundy
+  regnal_number: 7
+1157.8.21:
+  regnal_numbers:
+    name_ferdinand: 2 #Fernando II of Leon is counted for rulers of Castile
+  ruler: cas_sancho_iii_burgundy
+  regnal_number: 3
+1158.8.31:
+  ruler: cas_alfonso_viii_burgundy
+  regnal_number: 8
+1188.1.22:
+  regnal_numbers:
+    name_alphonse: 9 #Alfonso IX of Leon is counted for rulers of Castile
+1214.10.5:
+  regent: cas_berenguela_i_burgundy
+  heir: cas_enrique_i_burgundy
+1217.6.6:
+  ruler: cas_berenguela_i_burgundy
+  regnal_number: 1
+1217.8.31:
+  ruler: cas_fernando_iii_burgundy
+  regnal_number: 3
+1252.5.30:
+  ruler: cas_alfonso_x_burgundy
+  regnal_number: 10
+1284.4.4:
+  ruler: cas_sancho_iv_burgundy
+  regnal_number: 4
+1295.4.25:
+  regent: cas_maria_molina
+  heir: cas_fernando_iv_burgundy
+1301.12.6:
+  ruler: cas_fernando_iv_burgundy
+  regnal_number: 4
+1312.9.7:
+  regent: cas_maria_molina
+  heir: cas_alfonso_xi_burgundy
+1321.7.1:
+  regent: cas_juan_manuel_of_villena
+  heir: cas_alfonso_xi_burgundy
+1325.8:
+  ruler: cas_alfonso_xi_burgundy
+  regnal_number: 11
+1350.3.26:
+  ruler: cas_pedro_i_burgundy
+  regnal_number: 1
+1366.3.13:
+  ruler: cas_enrique_ii_trastamara
+  regnal_number: 2
+1367.4.3:
+  ruler: cas_pedro_i_burgundy
+  regnal_number: 1
+1369.3.23:
+  ruler: cas_enrique_ii_trastamara
+  regnal_number: 2
+1379.5.29:
+  ruler: cas_juan_i_de_trastamara
+  regnal_number: 1
+1390.10.9:
+  ruler: cas_enrique_iii_de_trastamara
+  regnal_number: 3
+1418.6.2:
+  ruler: cas_juan_ii_de_trastamara
+  regnal_number: 2
+1454.7.20:
+  ruler: cas_enrique_iv_de_trastamara
+  regnal_number: 4
+1474.12.11:
+  ruler: cas_isabel_i_de_trastamara
+  regnal_number: 1
+  capital: valladolid
+1504.11.26:
+  ruler: cas_juana_i_de_trastamara
+  regnal_number: 1

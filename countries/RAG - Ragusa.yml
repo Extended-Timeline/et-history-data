@@ -1,0 +1,46 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: catholic_republic
+  color: map_RAG
+  color2: rgb { 163 165 77 }
+  heir_selection: lottery_election
+  reforms:
+    merchant_republic: yes
+  laws:
+    republican_foundation_law: yes
+    heir_religion_law: yes
+  religion: catholic
+  primary_culture: dalmatian
+  capital: dubrovnik
+  tolerated_cultures:
+    venetian: yes
+  exploration:
+    expl_mediterranean: yes
+    expl_silk_road_west: yes
+    expl_silk_road_center: yes
+    expl_silk_road_east: yes
+    expl_indian_trade_route: yes
+  centralization_vs_decentralization: 25
+  aristocracy_vs_plutocracy: 40
+  serfdom_vs_free_subjects: 10
+  traditionalist_vs_innovative: 30
+  spiritualist_vs_humanist: 80
+  mercantilism_vs_free_trade: -40
+  offensive_vs_defensive: 40
+  land_vs_naval: 60
+  quality_vs_quantity: -20
+  belligerent_vs_conciliatory: -20
+  capital_economy_vs_traditional_economy: -80
+  individualism_vs_communalism: -40
+  outward_vs_inward: -60
+
+#imported from EU4
+2.1.1:
+  government: catholic_republic
+  #color: rgb { 160  82  128 }
+  government_rank: rank_duchy
+  religion: catholic
+  primary_culture: dalmatian
+  capital: dubrovnik

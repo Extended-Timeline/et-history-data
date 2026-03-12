@@ -1,0 +1,13 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: kurdish_yazid_tribe_no_coast
+  color: map_dasni
+  color2: rgb { 144 220 149 }
+  heir_selection: tribal_oldest_male
+  religion: yazidism
+  primary_culture: kurdish_culture
+  capital: duhok
+  exploration:
+    expl_middle_east: yes

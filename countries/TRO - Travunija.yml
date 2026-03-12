@@ -1,0 +1,12 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: catholic_monarchy_not_present
+  color: rgb { 95 125 95 }
+  heir_selection: cognatic_primogeniture
+  religion: orthodox
+  primary_culture: bosnian
+  capital: trebinje
+  exploration:
+    expl_mediterranean: yes

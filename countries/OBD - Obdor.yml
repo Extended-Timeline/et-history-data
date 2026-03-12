@@ -1,0 +1,18 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: pop
+  government: eurasian_tribe
+  color: map_nenets
+  color2: rgb { 0 122 156 }
+  heir_selection: tribal_oldest_male
+  religion: samoyedic_paganism
+  primary_culture: nenets_culture
+  liturgical_language: church_slavonic_language
+  capital: obdorsk
+  exploration:
+    russian_region: yes
+    ruthenia_region: yes
+    ural_region: yes
+    west_siberia_region: yes
+    west_novgorod_area: yes

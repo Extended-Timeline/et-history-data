@@ -1,0 +1,16 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: muslim_tribe_no_coast
+  color: map_KHN
+  color2: rgb { 16 41 202 }
+  heir_selection: tribal_oldest_male
+  religion: sunni
+  religious_school: maturidi_school
+  primary_culture: baloch_culture
+  capital: kharan
+  exploration:
+    expl_middle_east: yes
+  dynasties:
+    nahrui_dynasty: yes

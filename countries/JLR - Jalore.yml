@@ -1,0 +1,14 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: indian_hindu_monarchy_jain_no_coast
+  color: map_jalor
+  color2: map_jalor_2
+  religion: hindu
+  primary_culture: marwari
+  capital: chandravati
+  tolerated_cultures:
+    gujarati: yes
+  exploration:
+    expl_india_hindu: yes

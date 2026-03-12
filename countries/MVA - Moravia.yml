@@ -1,0 +1,24 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: catholic_monarchy_no_coast
+  color: map_MVA
+  color2: rgb { 232 149 18 }
+  heir_selection: cognatic_primogeniture
+  reforms:
+    margraviate: yes
+  religion: catholic
+  primary_culture: moravian
+  capital: olomouc
+  exploration:
+    expl_northern_europe: yes
+
+#imported from EU4
+2.1.1:
+  government: catholic_monarchy
+  #color: rgb { 232 149 18 }
+  government_rank: rank_kingdom
+  religion: catholic
+  primary_culture: czech
+  capital: olomouc

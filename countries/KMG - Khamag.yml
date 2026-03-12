@@ -1,0 +1,15 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: pop
+  government: eurasian_tribe
+  color: map_xamag
+  color2: rgb { 206  87 112 }
+  heir_selection: tribal_oldest_male
+  religion: tengri
+  primary_culture: khamag_culture
+  capital: narhata
+  exploration:
+    ural_region: yes
+    west_siberia_region: yes
+    east_siberia_region: yes

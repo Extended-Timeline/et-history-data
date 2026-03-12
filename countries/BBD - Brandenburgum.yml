@@ -1,0 +1,15 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: catholic_bishopric_not_present
+  color: rgb { 140 110 190 }
+  government_rank: rank_county
+  reforms:
+    prince_bishopric_reform: yes
+  religion: catholic
+  primary_culture: brandenburgish
+  capital: brandenburg
+  exploration:
+    expl_western_europe: yes
+    expl_northern_europe: yes

@@ -1,0 +1,34 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: muslim_tribe_no_coast
+  color: map_SHB
+  color2: rgb { 16 41 202 }
+  heir_selection: tribal_oldest_male
+  religion: sunni
+  religious_school: maturidi_school
+  primary_culture: farsi_culture
+  capital: ij_iran
+  exploration:
+    expl_middle_east: yes
+  dynasties:
+    shabankarai_dynasty: yes
+
+#imported from EU4
+2.1.1:
+  government: muslim_tribe
+  #color: rgb { 120  30  98 }
+  religion: sunni
+  primary_culture: lur_culture
+  capital: minab
+1030.1.1:
+  ruler: shb_fadluya_ramanid
+1078.1.1:
+  ruler: shb_nizam_al_din_mahmud_shabankara
+1080.1.1:
+  ruler: shb_mubaraz_ad_din_hazarasp_hazaraspid
+1110.1.1:
+  ruler: shb_hasanwayh_i_hasanwayhid
+1335.1.1:
+  ruler: shb_ardashir_ramanid

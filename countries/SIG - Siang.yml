@@ -1,0 +1,14 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: indonesia_limited_monarchy
+  color: map_SIG
+  color2: rgb { 16 41 202 }
+  heir_selection: cognatic_primogeniture
+  religion: tolotang_religion
+  primary_culture: buginese_culture
+  capital: sengkae
+  exploration:
+    expl_china: yes
+    expl_indonesia: yes

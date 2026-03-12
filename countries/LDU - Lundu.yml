@@ -1,0 +1,35 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: subsaharan_tribe
+  color: map_lundu
+  color2: black
+  heir_selection: tribal_oldest_male
+  religion: bantu_religion
+  primary_culture: chewa_culture
+  capital: msinja
+  exploration:
+    expl_east_africa: yes
+
+#imported from EU4
+2.1.1:
+  government: subsaharan_tribe
+  #color: rgb { 114 30 229 }
+  religion: bantu_religion
+  primary_culture: sena
+  capital: muchena
+1444.1.1:
+  ruler: ldu_sonzo_lundu
+1480.1.1:
+  ruler: ldu_capampo_lundu
+1540.1.1:
+  ruler: ldu_tondo_lundu
+1610.1.1:
+  ruler: ldu_quizura_lundu
+1670.1.1:
+  ruler: ldu_tondo_ii_lundu
+1730.1.1:
+  ruler: ldu_tondo_iii_lundu
+1780.1.1:
+  ruler: ldu_quizura_ii_lundu

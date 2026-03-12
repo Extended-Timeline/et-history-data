@@ -1,0 +1,37 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: subsaharan_tribe
+  color: map_tenkodogo
+  color2: black
+  heir_selection: tribal_oldest_male
+  religion: rogo_miki_religion
+  primary_culture: mossi
+  capital: tenkodogo
+  exploration:
+    expl_west_africa: yes
+
+#imported from EU4
+2.1.1:
+  government: subsaharan_tribe
+  #color: rgb { 234  121  123 }
+  religion: bantu_religion
+  primary_culture: mossi
+  capital: ouagadougou
+1050.1.1:
+  ruler: ten_yennenga_tenkodogo
+1100.1.1:
+  ruler: ten_ouedraogo_tenkodogo
+1132.1.1:
+  ruler: ten_zoungrana_tenkodogo
+1700.1.1:
+  ruler: ten_sapilem_tenkodogo
+1750.1.1:
+  ruler: ten_nyambre_tenkodogo
+1800.1.1:
+  ruler: ten_salma_tenkodogo
+1850.1.1:
+  ruler: ten_korongo_tenkodogo
+1895.1.1:
+  ruler: ten_koom_tenkodogo

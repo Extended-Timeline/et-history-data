@@ -1,0 +1,22 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: subsaharan_tribe
+  color: map_antemoro
+  color2: black
+  heir_selection: tribal_oldest_male
+  religion: fomba_gasy_religion
+  primary_culture: antaifasy_culture
+  capital: rasanga
+  exploration:
+    expl_east_africa: yes
+
+#imported from EU4
+2.1.1:
+  government: muslim_tribe
+  #color: rgb { 51 183 51 }
+  government_rank: rank_duchy
+  religion: sunni
+  primary_culture: sakalava_culture
+  capital: vohipeno

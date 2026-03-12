@@ -1,0 +1,16 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: india_limited_muslim_monarchy
+  color: map_hunza
+  color2: map_hunza_2
+  laws:
+    education_masses_law: yes
+    sharia_law: yes
+  religion: shia
+  religious_school: ismaili_school
+  primary_culture: kashmiri_culture
+  capital: altit
+  exploration:
+    expl_india_muslim: yes

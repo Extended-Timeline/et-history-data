@@ -1,0 +1,20 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: pop
+  government: asia_tribe
+  color: map_ANU
+  color2: rgb { 16 41 202 }
+  religion: ainu_religion
+  primary_culture: ainu_culture
+  exploration:
+    japan_region: yes
+
+#imported from EU4
+2.1.1:
+  government: asia_tribe
+  #color: rgb { 201 197 124 }
+  government_rank: rank_duchy
+  religion: mari_paganism
+  primary_culture: ainu_culture
+  capital: tokachi

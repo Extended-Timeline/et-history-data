@@ -1,0 +1,36 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: subsaharan_monarchy_no_coast_no_censor
+  color: map_damot
+  color2: red
+  heir_selection: cognatic_primogeniture
+  religion: miaphysite
+  primary_culture: gonga_culture
+  liturgical_language: geez_language
+  capital: maldarede
+  exploration:
+    expl_horn_of_africa: yes
+
+#imported from EU4
+2.1.1:
+  government: subsaharan_monarchy
+  #color: rgb { 243 106 0 }
+  religion: bantu_religion
+  primary_culture: amhara
+  capital: maldarede
+1280.1.1:
+  religion: miaphysite
+1440.1.1:
+  ruler: dam_mota_damoto
+1470.1.1:
+  ruler: dam_mota_ii_damoto
+1530.1.1:
+  ruler: dam_mota_iii_damoto
+1580.1.1:
+  ruler: dam_mota_iv_damoto
+1620.1.1:
+  ruler: dam_mota_v_damoto
+1650.1.1:
+  ruler: dam_mota_vi_damoto

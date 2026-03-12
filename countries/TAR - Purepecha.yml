@@ -1,0 +1,41 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: amerindian_advanced_monarchy_not_nahuatl_no_coast
+  color: map_tarascan
+  color2: rgb { 16 41 202 }
+  government_rank: rank_duchy
+  heir_selection: cognatic_primogeniture
+  religion: mesoamerican
+  primary_culture: purepecha_culture
+  court_language: purepecha_language
+  capital: tzintzuntzan
+  exploration:
+    expl_mesoamerica: yes
+
+#imported from EU4
+2.1.1:
+  government: amerindian_advanced_monarchy
+  #color: rgb { 158  18  20 }
+  religion: nahuatl
+  primary_culture: purepecha_culture
+  capital: tzintzuntzan
+1300.1.1:
+  ruler: tar_tariacuri_uacusecha
+1350.1.1:
+  ruler: tar_hiquingaje_uacusecha
+1390.1.1:
+  ruler: tar_hiripan_uacusecha
+1430.1.1:
+  ruler: tar_tangaxuan_uacusecha
+1454.1.1:
+  ruler: tar_tzitzipandaquare_uacusecha
+1479.1.1:
+  ruler: tar_zuangua_uacusecha
+1482.1.1:
+  ruler: tar_cociyocza_tehuantepec_1
+1520.1.1:
+  ruler: tar_tangaxuan_ii_uacusecha
+1529.1.1:
+  ruler: tar_cociyopu_tehuantepec_1

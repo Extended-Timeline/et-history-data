@@ -1,0 +1,15 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: catholic_bishopric_not_present
+  color: rgb { 212 0 0 }
+  religion: catholic
+  primary_culture: venetian
+  capital: ceneda
+  exploration:
+    expl_mediterranean: yes
+    expl_silk_road_west: yes
+    expl_silk_road_center: yes
+    expl_silk_road_east: yes
+    expl_indian_trade_route: yes

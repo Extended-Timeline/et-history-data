@@ -1,0 +1,34 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: subsaharan_muslim_monarchy_not_present
+  color: map_geledi
+  color2: purple
+  heir_selection: cognatic_primogeniture
+  laws:
+    sharia_law: yes
+  religion: sunni
+  religious_school: shafii_school
+  primary_culture: somali_culture
+  capital: mogadishu
+  exploration:
+    expl_horn_of_africa: yes
+
+#imported from EU4
+2.1.1:
+  government: muslim_monarchy
+  #color: rgb { 38 160 67 }
+  religion: sunni
+  primary_culture: somali_culture
+  capital: buur_hakaba
+1690.1.1:
+  ruler: gle_ibrahim_adeer_gobroon
+1760.1.1:
+  ruler: gle_mahamud_ibrahim_gobroon
+1828.1.1:
+  ruler: gle_yusuf_mahamud_ibrahim_gobroon
+1848.1.1:
+  ruler: gle_ahmed_yusuf_gobroon
+1878.1.1:
+  ruler: gle_osman_ahmed_gobroon

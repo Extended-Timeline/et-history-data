@@ -1,0 +1,12 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: pop
+  government: asia_tribe
+  color: map_maaya
+  color2: rgb { 16 41 202 }
+  heir_selection: tribal_oldest_male
+  religion: imunu_religion
+  primary_culture: maaya_culture
+  exploration:
+    expl_indonesia: yes

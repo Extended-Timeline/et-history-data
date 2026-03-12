@@ -1,0 +1,17 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: pop
+  government: eurasian_tribe
+  color: map_mansi
+  color2: rgb { 124 15 221 }
+  heir_selection: tribal_oldest_male
+  religion: obian_paganism
+  primary_culture: mansi_culture
+  capital: pelym
+  exploration:
+    russian_region: yes
+    ruthenia_region: yes
+    ural_region: yes
+    west_siberia_region: yes
+    west_novgorod_area: yes

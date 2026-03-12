@@ -1,0 +1,26 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: catholic_free_city_no_coast
+  color: rgb { 255 133 59 }
+  government_rank: rank_county
+  religion: catholic
+  primary_culture: high_alemannic
+  capital: konstanz
+  exploration:
+    expl_western_europe: yes
+    expl_northern_europe: yes
+
+#imported from EU4
+2.1.1:
+  government: catholic_german_bishopric
+  #color: rgb { 255  133  59 }
+  government_rank: rank_duchy
+  religion: catholic
+  primary_culture: swabian
+  capital: konstanz
+1192.1.1:
+  government: catholic_free_city
+1525.1.1:
+  religion: calvinist

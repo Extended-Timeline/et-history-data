@@ -1,0 +1,13 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: subsaharan_theocracy
+  color: map_VNA
+  color2: rgb { 16 41 202 }
+  heir_selection: theocratic_elective
+  laws:
+    heir_religion_law: yes
+  religion: bantu_religion
+  primary_culture: mboma
+  capital: mbanza_kongo

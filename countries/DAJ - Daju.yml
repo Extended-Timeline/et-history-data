@@ -1,0 +1,22 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: subsaharan_advanced_tribe
+  color: map_daju
+  color2: black
+  religion: kalge_religion
+  primary_culture: daju_culture
+  capital: uri
+  exploration:
+    expl_horn_of_africa_no_coast: yes
+
+#imported from EU4
+2.1.1:
+  government: subsaharan_tribe
+  #color: rgb { 196  191  19 }
+  religion: bantu_religion
+  primary_culture: daju_language
+  capital: ain_farah
+1420.1.1:
+  capital: salamat

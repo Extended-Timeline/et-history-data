@@ -1,0 +1,27 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: pop
+  government: asia_tribe
+  color: map_oroqen
+  color2: rgb { 16 41 202 }
+  religion: tungusic_shamanism
+  primary_culture: oroqen_culture
+  exploration:
+    expl_manchurian_tribe: yes
+
+#imported from EU4
+2.1.1:
+  government: eurasian_horde_no_muslim
+  #color: rgb { 135  225  194 }
+  religion: tengri
+  primary_culture: jurchen_culture
+  capital: imanka
+1444.1.1:
+  ruler: orq_bahabu_udege
+1480.1.1:
+  ruler: orq_icengge_udege
+1520.1.1:
+  ruler: orq_selmin_udege
+1560.1.1:
+  ruler: orq_yolo_udege

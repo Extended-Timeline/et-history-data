@@ -1,0 +1,13 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: andean_monarchy
+  color: map_huarco
+  color2: rgb { 16 41 202 }
+  religion: chincha_religion
+  primary_culture: huarco_culture
+  court_language: quechuan_language
+  capital: huarco
+  exploration:
+    expl_andean: yes

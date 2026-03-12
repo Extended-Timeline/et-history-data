@@ -1,0 +1,56 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: revolt
+  government: catholic_monarchy
+  color: map_SBL
+  color2: rgb { 16 41 202 }
+  government_rank: rank_kingdom
+  heir_selection: cognatic_primogeniture
+  reforms:
+    sbl_restorer_of_the_disinherited: yes
+    scottish_shires_reform: yes
+  privileges:
+    scottish_clans: yes
+    banal_lordship: yes
+    nobility_council: yes
+    primacy_of_nobility: yes
+    formal_guilds: yes
+    burghers_royal_burgh_commissioners: yes
+    access_to_royal_and_ecclesiastical_courts: yes
+    tribes_creach: yes
+    tribes_fosterage: yes
+    tribes_manrent: yes
+    tribes_scotland_gaelic_heritage: yes
+  laws:
+    language_of_pleading: yes
+    legal_code_law: yes
+    sco_clan_holdings: yes
+  religion: catholic
+  primary_culture: scottish
+  court_language: norman_dialect
+  capital: perth
+  tolerated_cultures:
+    english: yes
+    norse_gael: yes
+    highland: yes
+  exploration:
+    expl_northern_europe: yes
+  gold: 250
+  stability: 45
+  prestige: 10
+  government_power: 50
+  war_exhaustion: 1.5
+  army_tradition: 20
+  centralization_vs_decentralization: 60
+  traditionalist_vs_innovative: -50
+  spiritualist_vs_humanist: -50
+  aristocracy_vs_plutocracy: -50
+  serfdom_vs_free_subjects: 0
+  mercantilism_vs_free_trade: -10
+  belligerent_vs_conciliatory: 10
+  quality_vs_quantity: -30
+  offensive_vs_defensive: -20
+  capital_economy_vs_traditional_economy: 90
+  individualism_vs_communalism: -10
+  outward_vs_inward: -20

@@ -1,0 +1,11 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: pop
+  government: asia_tribe
+  color: map_orang_asli
+  color2: rgb { 16 41 202 }
+  religion: orang_asli_religion
+  primary_culture: orang_asli_culture
+  exploration:
+    expl_china: yes

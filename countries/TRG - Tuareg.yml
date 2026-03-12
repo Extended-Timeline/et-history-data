@@ -1,0 +1,14 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: pop
+  government: subsaharan_muslim_tribe
+  color: map_tuareg
+  color2: black
+  laws:
+    sharia_law: yes
+  religion: sunni
+  religious_school: maliki_school
+  primary_culture: tuareg
+  exploration:
+    expl_west_africa_muslim: yes

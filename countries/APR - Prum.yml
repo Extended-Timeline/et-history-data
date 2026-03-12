@@ -1,0 +1,13 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: catholic_abbey
+  color: rgb { 200 211 22 }
+  government_rank: rank_county
+  religion: catholic
+  primary_culture: moselle_franconian
+  capital: prum
+  exploration:
+    expl_western_europe: yes
+    expl_northern_europe: yes

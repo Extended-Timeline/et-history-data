@@ -1,0 +1,14 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: muslim_monarchy_no_abrahamic_dhimmi_no_coast
+  color: map_khalkhal
+  color2: rgb { 144 220 149 }
+  heir_selection: cognatic_primogeniture
+  religion: sunni
+  religious_school: safavid_school
+  primary_culture: adhari_culture
+  capital: khalkhal
+  exploration:
+    expl_middle_east: yes

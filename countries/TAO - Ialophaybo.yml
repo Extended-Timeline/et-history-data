@@ -1,0 +1,13 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: amerindian_tribe_settled_northwestern
+  color: map_taos
+  color2: rgb { 16 41 202 }
+  religion: kachina_religion
+  primary_culture: tanoan_culture
+  court_language: tanoan_language
+  capital: ialophaybo
+  exploration:
+    expl_northwestern_america: yes

@@ -1,0 +1,19 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: pop
+  government: asia_tribe
+  color: map_hmong
+  color2: rgb { 16 41 202 }
+  religion: hmongism
+  primary_culture: hmong_culture
+  exploration:
+    expl_china: yes
+
+#imported from EU4
+2.1.1:
+  government: chinese_monarchy
+  #color: rgb { 0 103 165 }
+  religion: bimoism
+  primary_culture: hmong_culture
+  capital: taipengruodong

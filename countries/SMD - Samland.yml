@@ -1,0 +1,15 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: catholic_bishopric eastern_european_catholic
+  government: catholic_bishopric
+  color: rgb { 227 240 204 }
+  government_rank: rank_county
+  religion: catholic
+  primary_culture: prussian
+  capital: fischhausen
+  tolerated_cultures:
+    pruthenian: yes
+  exploration:
+    expl_northern_europe: yes

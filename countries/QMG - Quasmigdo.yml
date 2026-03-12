@@ -1,0 +1,11 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: pop
+  government: amerindian_tribe
+  color: map_quasmigdo
+  color2: rgb { 71 39 141 }
+  religion: atakapa_religion
+  primary_culture: quasmigdo_culture
+  exploration:
+    expl_northwestern_america: yes

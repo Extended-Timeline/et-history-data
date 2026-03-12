@@ -1,0 +1,27 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: pop
+  government: eurasian_tribe
+  color: map_sapmi
+  color2: rgb { 16 41 202 }
+  heir_selection: tribal_oldest_male
+  religion: sapmi_shamanism
+  primary_culture: sapmi
+  exploration:
+    pomorye_area: yes
+    kola_area: yes
+    arkhangelsk_area: yes
+    west_novgorod_area: yes
+    scandinavian_region: yes
+
+#imported from EU4
+2.1.1:
+  government: eurasian_tribe
+  #color: rgb { 252  209  22 }
+  government_rank: rank_duchy
+  religion: muinaisusko
+  primary_culture: sapmi
+  capital: troms
+1200.1.1:
+  capital: enare

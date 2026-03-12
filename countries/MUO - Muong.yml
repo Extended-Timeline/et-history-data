@@ -1,0 +1,12 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: pop
+  government: asia_tribe
+  color: map_muong
+  color2: rgb { 16 41 202 }
+  religion: muong_religion
+  primary_culture: muong_culture
+  capital: mang_viet
+  exploration:
+    expl_china: yes

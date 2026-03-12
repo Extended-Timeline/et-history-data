@@ -1,0 +1,39 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: catholic_monarchy_no_coast german_principality
+  government: catholic_monarchy_no_coast
+  color: rgb { 19 102 152 }
+  government_rank: rank_duchy
+  laws:
+    royal_court_customs_law: yes
+  religion: catholic
+  primary_culture: danube_bavarian
+  capital: munich
+  exploration:
+    expl_western_europe: yes
+    expl_northern_europe: yes
+  dynasties:
+    wittelsbach_dynasty: yes
+
+#imported from EU4
+2.1.1:
+  government: catholic_monarchy
+  #color: rgb { 19  102  152 }
+  government_rank: rank_duchy
+  religion: catholic
+  primary_culture: southern_bavarian
+  capital: munich
+1375.1.1:
+  ruler: ubv_johann_ii_von_wittelsbach
+1397.6.14:
+  ruler: ubv_ernst_i_von_wittelsbach
+1438.7.3:
+  ruler: ubv_albrecht_iii_von_wittelsbach
+1460.2.28:
+  ruler: ubv_johann_iv_von_wittelsbach
+1463.11.20:
+  ruler: ubv_siegmund_i_von_wittelsbach
+1467.9.4:
+  ruler: ubv_albrecht_iv_der_weise_von_wittelsbach

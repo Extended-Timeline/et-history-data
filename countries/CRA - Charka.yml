@@ -1,0 +1,25 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: amerindian_monarchy
+  color: map_charka
+  color2: rgb { 16 41 202 }
+  religion: mororuma_religion
+  primary_culture: charka_culture
+  court_language: aymara_language
+  capital: charka
+  exploration:
+    expl_andean: yes
+
+#imported from EU4
+2.1.1:
+  government: andean_monarchy
+  #color: rgb { 198  131  244 }
+  religion: inti
+  primary_culture: aimara_culture
+  capital: charka
+1444.1.1:
+  ruler: cra_tunupa_charca
+1470.1.1:
+  ruler: cra_anquimarca_charca_1

@@ -1,0 +1,14 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: amerindian_advanced_monarchy
+  color: map_cuauhtochco
+  color2: rgb { 128 162 251 }
+  heir_selection: cognatic_primogeniture
+  religion: nahuatl
+  primary_culture: nahua_culture
+  court_language: nahuatl_language
+  capital: cuauhtochco
+  exploration:
+    expl_mesoamerica: yes

@@ -1,0 +1,42 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  color: map_CNA
+  color2: rgb { 107 75 45 }
+  government_rank: rank_kingdom
+  heir_selection: cognatic_primogeniture
+  privileges:
+    clergy_land_rights: yes
+    embellish_great_works_of_faith: yes
+    promote_cultural_unity: yes
+    elaborate_court_ceremonies: yes
+  laws:
+    medieval_levy_law: yes
+    marriage_law: yes
+    heir_religion_law: yes
+    legal_code_law: yes
+  religion: tibetan_buddhism
+  primary_culture: mongolian_culture
+  court_language: northern_mandarin_dialect
+  capital: liaoyang
+  exploration:
+    expl_silk_road_west: yes
+    expl_silk_road_center: yes
+    expl_silk_road_east: yes
+    expl_mongols: yes
+    expl_china: yes
+  parliament_type: council
+  aristocracy_vs_plutocracy: -60
+  centralization_vs_decentralization: -60
+  traditionalist_vs_innovative: -50
+  spiritualist_vs_humanist: -25
+  serfdom_vs_free_subjects: -40
+  mercantilism_vs_free_trade: -80
+  belligerent_vs_conciliatory: -50
+  quality_vs_quantity: 20
+  offensive_vs_defensive: 10
+  land_vs_naval: -20
+  capital_economy_vs_traditional_economy: 80
+  individualism_vs_communalism: 20
+  outward_vs_inward: 50

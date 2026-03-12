@@ -1,0 +1,32 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: amerindian_advanced_monarchy_not_nahuatl_no_coast
+  color: map_tutulxiu
+  color2: rgb { 16 41 202 }
+  heir_selection: cognatic_primogeniture
+  religion: mayan
+  primary_culture: yucatec_culture
+  court_language: maya_language
+  capital: mani
+  exploration:
+    expl_mesoamerica: yes
+  dynasties:
+    xiu_dynasty: yes
+
+#imported from EU4
+2.1.1:
+  government: amerindian_mesoamerican_tribe_not_nahuatl
+  #color: rgb { 94  236  91 }
+  religion: mayan
+  primary_culture: yucatec_culture
+  capital: mayapan
+950.1.1:
+  ruler: xiu_ah_mekat_tutul_xiu
+1441.1.1:
+  ruler: xiu_ah_xiu
+1464.1.1:
+  ruler: xiu_tutul_xiu_1
+1492.1.1:
+  ruler: xiu_napot_xiu_1

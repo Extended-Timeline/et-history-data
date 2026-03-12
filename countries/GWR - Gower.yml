@@ -1,0 +1,12 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: catholic_monarchy_english_lordship_welsh_marcher_lord
+  color: hsv360 { 185 75 95 }
+  color2: hsv { 0 0 0.38 }
+  religion: catholic
+  primary_culture: english
+  capital: swansea
+  tolerated_cultures:
+    welsh: yes

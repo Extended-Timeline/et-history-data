@@ -1,0 +1,16 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: indian_hindu_monarchy_no_coast
+  color: map_recherla
+  color2: map_recherla_2
+  reforms:
+    nayankara_system: yes
+  religion: hindu
+  primary_culture: telugu
+  capital: golconda
+  tolerated_cultures:
+    banjara: yes
+  exploration:
+    expl_india_hindu: yes

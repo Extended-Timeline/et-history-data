@@ -1,0 +1,67 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  color: map_cahokia
+  color2: rgb { 12 182 131 }
+  heir_selection: tribal_oldest_male
+  reforms:
+    agricultural_cultivation: yes
+  privileges:
+    nobility_council: yes
+    nobles_land_rights: yes
+    tribal_autonomy: yes
+    embellish_great_works_of_faith: yes
+    urban_development_grants: yes
+    market_fairs: yes
+    peasants_autonomous_villages: yes
+    communal_lands: yes
+    allow_hunting: yes
+    partial_yield: yes
+    peasants_free_peasantry: yes
+    tribes_tribal_levies: yes
+    tribes_allow_gatherings: yes
+  laws:
+    marriage_law: yes
+    heir_religion_law: yes
+  religion: mississippian_ceremonial
+  primary_culture: cahokia_culture
+  court_language: dhegiha_language
+  capital: cahokia
+  exploration:
+    illinois_area: yes
+    wisconsin_area: yes
+    indiana_area: yes
+    kentucky_area: yes
+    tennessee_area: yes
+    missouri_area: yes
+    iowa_area: yes
+    arkansas_area: yes
+    central_plains_area: yes
+  gold: 180
+  stability: 20
+  prestige: 5
+  tribal_cohesion: 80
+  parliament_type: assembly
+  centralization_vs_decentralization: 80
+  traditionalist_vs_innovative: -70
+  spiritualist_vs_humanist: -60
+  aristocracy_vs_plutocracy: -80
+  serfdom_vs_free_subjects: 50
+  mercantilism_vs_free_trade: 50
+  belligerent_vs_conciliatory: 100
+  quality_vs_quantity: -75
+  offensive_vs_defensive: 50
+  land_vs_naval: -90
+  capital_economy_vs_traditional_economy: 100
+  individualism_vs_communalism: 60
+  outward_vs_inward: 50
+
+#imported from EU4
+2.1.1:
+  government: american_east_coast_tribe
+  #color: rgb { 59 15 49 }
+  government_rank: rank_duchy
+  religion: iroquoian_totemism
+  primary_culture: cahokia_culture
+  capital: amonokoa

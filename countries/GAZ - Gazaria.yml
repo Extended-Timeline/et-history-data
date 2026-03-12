@@ -1,0 +1,17 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: catholic_republic
+  color: map_GAZ
+  color2: rgb { 61 8 81 }
+  heir_selection: oligarchic_elective
+  religion: catholic
+  primary_culture: ligurian
+  capital: kaffa
+  exploration:
+    expl_mediterranean: yes
+    expl_silk_road_west: yes
+    expl_silk_road_center: yes
+    expl_silk_road_east: yes
+    expl_indian_trade_route: yes

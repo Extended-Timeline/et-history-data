@@ -1,0 +1,41 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: catholic_monarchy_english_lordship
+  color: map_WLS
+  color2: rgb { 16 41 202 }
+  government_rank: rank_duchy
+  heir_selection: cognatic_primogeniture
+  reforms:
+    magna_carta_reform: yes
+    iron_ring_reform: yes
+  privileges:
+    noble_fortification_licenses: yes
+    peasants_yeomanry: yes
+  laws:
+    distribution_of_power_law: yes
+    language_of_pleading: yes
+    feudal_de_jure_law: yes
+    medieval_levy_law: yes
+  religion: catholic
+  primary_culture: english
+  capital: carnarvon
+  accepted_cultures:
+    welsh: yes
+  aristocracy_vs_plutocracy: -60
+  quality_vs_quantity: 25
+  offensive_vs_defensive: 75
+
+#imported from EU4
+2.1.1:
+  government: eurasian_tribe
+  #color: rgb { 117  127  174 }
+  religion: druidism
+  primary_culture: welsh
+  capital: carnarvon
+400.1.1:
+  government: catholic_monarchy
+  religion: chalcedonism
+867.1.1:
+  religion: catholic

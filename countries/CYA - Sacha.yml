@@ -1,0 +1,23 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: andean_monarchy
+  color: map_sacha_p_qulla
+  color2: rgb { 16 41 202 }
+  religion: inti
+  primary_culture: sacha_p_qulla_culture
+  court_language: cariban_language
+  capital: kuelap
+  exploration:
+    expl_andean: yes
+
+#imported from EU4
+2.1.1:
+  government: andean_tribe
+  #color: rgb { 157  199  224 }
+  religion: inti
+  primary_culture: sacha_p_qulla_culture
+  capital: moyobamba
+1444.1.1:
+  ruler: cya_huachuri_chachapoya

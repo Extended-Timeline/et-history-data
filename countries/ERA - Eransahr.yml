@@ -1,0 +1,106 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  color: map_ERA
+  color2: rgb { 101 46 137 }
+  government_rank: rank_empire
+  heir_selection: cognatic_primogeniture
+  laws:
+    marriage_law: yes
+    heir_religion_law: yes
+  religion: zoroastrian
+  primary_culture: farsi_culture
+  court_language: persian_language
+  capital: istakhr
+  exploration:
+    expl_middle_east: yes
+  parliament_type: council
+  centralization_vs_decentralization: 100
+  aristocracy_vs_plutocracy: -60
+  serfdom_vs_free_subjects: 20
+  belligerent_vs_conciliatory: -40
+  offensive_vs_defensive: 40
+  land_vs_naval: -50
+  outward_vs_inward: -40
+
+#imported from EU4
+2.1.1:
+  government: et_zoroastrian_monarchy
+  #color: rgb { 199  177  128 }
+  government_rank: rank_kingdom
+  religion: zoroastrian
+  primary_culture: farsi_culture
+  capital: lar
+205.1.1:
+  ruler: era_papak_sasanian
+210.1.1:
+  ruler: era_shapur_sasanian
+212.1.1:
+  ruler: era_ardashir_i_sasanian
+224.1.1:
+  capital: shiraz
+224.4.24:
+  government_rank: rank_empire
+226.1.1:
+  capital: baghdad
+242.2.1:
+  ruler: era_shapur_i_sasanian
+270.5.1:
+  ruler: era_hormizd_i_sasanian
+271.6.1:
+  ruler: era_bahram_i_sasanian
+274.9.1:
+  ruler: era_bahram_ii_sasanian
+293.1.1:
+  ruler: era_bahram_iii_sasanian
+293.6.1:
+  ruler: era_narseh_i_sasanian
+302.1.1:
+  ruler: era_hormizd_ii_sasanian
+309.1.1:
+  ruler: era_adhur_narseh_sasanian
+309.6.1:
+  ruler: era_shapur_ii_sasanian
+379.1.1:
+  ruler: era_ardashir_ii_sasanian
+383.1.1:
+  ruler: era_shapur_iii_sasanian
+388.1.1:
+  ruler: era_bahram_iv_sasanian
+399.1.1:
+  ruler: era_yazdegerd_i_sasanian
+420.1.21:
+  ruler: era_bahram_v_sasanian
+438.1.1:
+  ruler: era_yazdegerd_ii_sasanian
+457.1.1:
+  ruler: era_hormizd_iii_sasanian
+459.1.1:
+  ruler: era_peroz_i_sasanian
+484.1.1:
+  ruler: era_balash_i_sasanian
+488.1.1:
+  ruler: era_kavadh_i_sasanian
+531.9.13:
+  ruler: era_khosrau_i_sasanian
+579.1.31:
+  ruler: era_hormizd_iv_sasanian
+590.1.1:
+  ruler: era_khosrau_ii_sasanian
+628.2.28:
+  ruler: era_kavadh_ii_sasanian
+628.9.6:
+  ruler: era_ardashir_iii_sasanian
+629.4.27:
+  ruler: era_shahrbaraz_i_mihranid
+629.6.17:
+  ruler: era_borandukht_sasanian
+630.6.16:
+  ruler: era_azarmidokht_sasanian
+631.3.1:
+  ruler: era_farrukhzad_khosrau_v_sasanian
+631.4.1:
+  ruler: era_borandukht_sasanian_1
+632.6.16:
+  ruler: era_yazdegerd_iii_sasanian

@@ -1,0 +1,14 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: catholic_monarchy_not_present german_principality_not_present
+  government: catholic_monarchy_not_present
+  color: rgb { 191 183 203 }
+  government_rank: rank_county
+  religion: catholic
+  primary_culture: rhine_franconian
+  capital: dillenburg
+  exploration:
+    expl_western_europe: yes
+    expl_northern_europe: yes

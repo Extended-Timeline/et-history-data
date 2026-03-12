@@ -1,0 +1,194 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  color: map_kilwa
+  color2: black
+  government_rank: rank_kingdom
+  heir_selection: cognatic_primogeniture
+  reforms:
+    kilwan_trade_communities: yes
+    control_of_the_mahdali_coinage_reform: yes
+  privileges:
+    elaborate_court_ceremonies: yes
+    noble_sponsored_navy: yes
+    clergy_literacy_rights: yes
+    clergy_enforced_unity: yes
+    embellish_great_works_of_faith: yes
+    formal_guilds: yes
+    building_rights: yes
+    commercial_advisory_council: yes
+    land_of_commerce: yes
+    market_fairs: yes
+    shipwright_contracts: yes
+    sponsor_maritime_contracts: yes
+    partial_yield: yes
+    peasants_free_peasantry: yes
+    dhimmi_land_rights: yes
+    dhimmi_administrative_posts: yes
+    tribes_land_rights: yes
+    tribes_pasture_access: yes
+  laws:
+    medieval_levy_law: yes
+    censorship: yes
+    administrative_system: yes
+    marriage_law: yes
+    heir_religion_law: yes
+    legal_code_law: yes
+    maritime_law: yes
+    piracy_law: yes
+    distribution_of_power_law: yes
+    education_masses_law: yes
+    feudal_de_jure_law: yes
+    royal_court_customs_law: yes
+    cultural_traditions_law: yes
+    iqta_law: yes
+    sharia_law: yes
+  religion: sunni
+  religious_school: shafii_school
+  primary_culture: matuumbi_culture
+  court_language: persian_language
+  capital: kilwa_kisiwani
+  exploration:
+    expl_east_africa: yes
+    expl_horn_of_africa: yes
+    expl_indonesian_trade_route: yes
+  stability: 40
+  prestige: 25
+  government_power: 90
+  parliament_type: council
+  aristocracy_vs_plutocracy: 80
+  centralization_vs_decentralization: 75
+  traditionalist_vs_innovative: 15
+  spiritualist_vs_humanist: 0
+  serfdom_vs_free_subjects: 30
+  mercantilism_vs_free_trade: 95
+  belligerent_vs_conciliatory: -50
+  quality_vs_quantity: 0
+  offensive_vs_defensive: -20
+  land_vs_naval: 25
+  capital_economy_vs_traditional_economy: -75
+  individualism_vs_communalism: -50
+  outward_vs_inward: -80
+
+#imported from EU4
+2.1.1:
+  government: subsaharan_muslim_tribe
+  #color: rgb { 81  141  85 }
+  religion: sunni
+  primary_culture: swahili_culture
+  capital: kilwa_kisiwani
+900.1.1:
+  ruler: zan_ali_i_shrazi
+960.1.1:
+  ruler: zan_muhammad_i_shrazi
+996.1.1:
+  ruler: zan_ali_ii_shrazi
+1001.1.1:
+  ruler: zan_dawud_i_shrazi
+1005.1.1:
+  ruler: zan_khalid_i_shrazi
+1007.1.1:
+  ruler: zan_al_hassan_i_shrazi
+1023.1.1:
+  ruler: zan_ali_ibn_dawud_i_shrazi
+1083.1.1:
+  ruler: zan_ali_ibn_dawud_ii_shrazi
+1106.1.1:
+  ruler: zan_al_hassan_ii_shrazi
+1129.1.1:
+  ruler: zan_sulayman_i_shrazi
+1131.1.1:
+  ruler: zan_dawud_ii_shrazi
+1170.1.1:
+  ruler: zan_sulayman_ii_shrazi
+1189.1.1:
+  ruler: zan_dawud_iii_shrazi
+1190.1.1:
+  ruler: zan_talut_i_shrazi
+1191.1.1:
+  ruler: zan_hussein_i_shrazi
+1215.1.1:
+  ruler: zan_khalid_ii_shrazi
+1225.1.1:
+  ruler: zan_ibn_sulayman_shrazi
+1263.1.1:
+  ruler: zan_ali_iii_shrazi
+1277.1.1:
+  ruler: zan_al_hassan_i_al_mawahib
+1294.1.1:
+  ruler: zan_sulayman_i_al_mawahib
+1308.1.1:
+  ruler: zan_daud_i_al_mawahib
+1310.1.1:
+  ruler: zan_abu_al_mawahib_al_mawahib
+1333.1.1:
+  ruler: zan_dawud_i_al_mawahib
+1356.1.1:
+  ruler: zan_husayn_i_al_mawahib
+1362.1.1:
+  ruler: zan_talut_i_al_mawahib
+1364.1.1:
+  ruler: zan_sulayman_ii_al_mawahib
+1366.1.1:
+  ruler: zan_sulayman_iii_al_mawahib
+1389.1.1:
+  ruler: zan_husayn_ii_al_mawahib
+1416.1.1:
+  ruler: zan_muhammad_i_al_mawahib_1
+1425.1.1:
+  ruler: zan_sulayman_vii_al_mawahib_1
+1442.1.1:
+  ruler: zan_ismail_al_mawahib_1
+1454.1.1:
+  ruler: zan_muhammad_iii_al_mawahib
+1455.1.1:
+  ruler: zan_ahmad_al_mawahib_1
+1456.1.1:
+  ruler: zan_hasan_vi_al_mawahib
+1466.1.1:
+  ruler: zan_said_i_al_mawahib
+1476.1.1:
+  ruler: zan_sulayman_vii_al_mawahib_2
+1477.1.1:
+  ruler: zan_abd_allah_al_mawahib_1
+1478.1.1:
+  ruler: zan_ali_vi_al_mawahib_1
+1479.1.1:
+  ruler: zan_hasan_vii_al_mawahib_1
+1485.1.1:
+  ruler: zan_hasan_vii_al_mawahib_2
+1485.6.1:
+  ruler: zan_muhammad_iv_al_mawahib
+1486.1.1:
+  ruler: zan_hasan_vii_al_mawahib_3
+1490.1.1:
+  ruler: zan_ibrahim_i_al_mawahib_1
+1495.1.1:
+  ruler: zan_al_fudail_al_mawahib
+1499.1.1:
+  ruler: zan_ibrahim_ii_al_mawahib
+1505.7.23:
+  ruler: zan_muhammad_v_al_mawahib
+1506.1.1:
+  ruler: zan_hasan_viii_al_mawahib
+1507.1.1:
+  ruler: zan_muhammad_vi_al_mawahib
+1508.1.1:
+  ruler: zan_said_ii_al_mawahib
+1513.1.1:
+  ruler: zan_muhammad_vii_al_mawahib
+1580.1.1:
+  ruler: zan_yusuf_al_mawahib
+1653.1.1:
+  ruler: zan_mwana_mwema_zanzibari
+1675.1.1:
+  ruler: zan_yusuf_zanzibari_1
+1694.1.1:
+  ruler: zan_fatima_zanzibari_1
+1711.1.1:
+  ruler: zan_hassan_zanzibari_1
+1728.1.1:
+  ruler: zan_sultan_zanzibari_1
+1744.1.1:
+  ruler: zan_ahmad_zanzibari_1

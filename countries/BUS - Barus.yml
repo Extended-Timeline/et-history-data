@@ -1,0 +1,26 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: indonesia_monarchy
+  color: map_BUS
+  color2: rgb { 16 41 202 }
+  heir_selection: cognatic_primogeniture
+  religion: mahayana
+  primary_culture: batak_culture
+  capital: barus
+  exploration:
+    expl_china: yes
+    expl_indonesia: yes
+
+#imported from EU4
+2.1.1:
+  government: indonesia_monarchy
+  #color: rgb { 201  33  53 }
+  religion: bimoism
+  primary_culture: batak_culture
+  capital: barus
+700.1.1:
+  religion: hindu
+1444.1.1:
+  ruler: bus_meurah_barus

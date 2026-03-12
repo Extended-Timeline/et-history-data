@@ -1,0 +1,13 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: subsaharan_tribe
+  color: map_boussouma
+  color2: black
+  heir_selection: tribal_oldest_male
+  religion: rogo_miki_religion
+  primary_culture: mossi
+  capital: boussouma
+  exploration:
+    expl_west_africa: yes

@@ -1,0 +1,31 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: subsaharan_muslim_monarchy_not_present
+  color: map_hadiya
+  color2: blue_light
+  heir_selection: cognatic_primogeniture
+  laws:
+    sharia_law: yes
+  religion: sunni
+  religious_school: shafii_school
+  primary_culture: hadiya_culture
+  capital: hadiya
+  exploration:
+    expl_horn_of_africa: yes
+
+#imported from EU4
+2.1.1:
+  government: subsaharan_muslim_monarchy
+  #color: rgb { 181 215 25 }
+  government_rank: rank_duchy
+  religion: sunni
+  primary_culture: sidama_culture
+  capital: hadiya
+1444.1.1:
+  ruler: hdy_bamo_hadiya
+1480.1.1:
+  ruler: hdy_bamo_ii_hadiya
+1510.1.1:
+  ruler: hdy_bamo_iii_hadiya

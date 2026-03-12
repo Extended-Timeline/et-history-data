@@ -1,0 +1,16 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: muslim_monarchy_no_abrahamic_dhimmi
+  color: map_hijazi
+  color2: rgb { 16 41 202 }
+  heir_selection: cognatic_primogeniture
+  laws:
+    sharia_law: yes
+  religion: shia
+  religious_school: zaidi_school
+  primary_culture: hijazi_culture
+  capital: mecca
+  exploration:
+    expl_middle_east: yes

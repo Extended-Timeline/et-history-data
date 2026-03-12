@@ -1,0 +1,17 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: turkish_beylik_no_mining
+  color: map_tadjeddinids
+  color2: rgb { 240 151 219 }
+  privileges:
+    sponsor_maritime_contracts: yes
+    dhimmi_abrahamic_communities: yes
+  religion: sunni
+  religious_school: maturidi_school
+  primary_culture: turkish_culture
+  capital: niksar
+  exploration:
+    expl_eastern_europe: yes
+    expl_muslim_mediterranean: yes

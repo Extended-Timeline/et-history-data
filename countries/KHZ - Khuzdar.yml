@@ -1,0 +1,19 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: muslim_tribe
+  color: map_KHZ
+  color2: rgb { 16 41 202 }
+  heir_selection: tribal_oldest_male
+  laws:
+    sharia_law: yes
+  religion: sunni
+  religious_school: hanafi_school
+  primary_culture: sindhi
+  court_language: persian_language
+  capital: khuzdar
+  exploration:
+    expl_middle_east: yes
+  dynasties:
+    jat_dynasty: yes

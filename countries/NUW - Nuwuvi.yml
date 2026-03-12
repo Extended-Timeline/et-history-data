@@ -1,0 +1,11 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: pop
+  government: amerindian_tribe
+  color: map_nuwuvi
+  color2: rgb { 16 41 202 }
+  religion: paiute_shamanism
+  primary_culture: nuwuvi_culture
+  exploration:
+    expl_northwestern_america: yes

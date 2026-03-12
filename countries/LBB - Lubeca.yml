@@ -1,0 +1,12 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: catholic_bishopric
+  color: rgb { 150 188 200 }
+  government_rank: rank_county
+  religion: catholic
+  primary_culture: holsatian
+  capital: eutin
+  exploration:
+    expl_northern_europe: yes

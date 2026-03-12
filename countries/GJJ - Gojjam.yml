@@ -1,0 +1,25 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: subsaharan_monarchy_not_present
+  color: map_gojjam
+  color2: green
+  heir_selection: cognatic_primogeniture
+  religion: miaphysite
+  primary_culture: amhara
+  liturgical_language: geez_language
+  capital: maldarede
+  exploration:
+    expl_horn_of_africa: yes
+
+#imported from EU4
+2.1.1:
+  government: subsaharan_monarchy
+  #color: rgb { 120  120  180 }
+  government_rank: rank_kingdom
+  religion: bantu_religion
+  primary_culture: amhara
+  capital: dima
+1240.1.1:
+  religion: miaphysite

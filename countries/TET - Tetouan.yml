@@ -1,0 +1,26 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: muslim_monarchy_not_present
+  color: hsv { 0.21 0.99 0.38 }
+  heir_selection: cognatic_primogeniture
+  laws:
+    sharia_law: yes
+  religion: sunni
+  religious_school: maliki_school
+  primary_culture: moroccan
+  capital: tetouan
+  exploration:
+    expl_muslim_mediterranean: yes
+
+#imported from EU4
+2.1.1:
+  government: catholic_monarchy
+  #color: rgb { 63  82  1 }
+  religion: chalcedonism
+  primary_culture: moroccan
+  capital: tetouan
+735.1.1:
+  government: muslim_monarchy
+  religion: sunni

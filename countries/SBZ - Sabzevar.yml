@@ -1,0 +1,50 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: muslim_monarchy_no_abrahamic_dhimmi_no_coast
+  color: map_SBZ
+  color2: rgb { 16 41 202 }
+  heir_selection: cognatic_primogeniture
+  laws:
+    sharia_law: yes
+  religion: sunni
+  religious_school: shafii_school
+  primary_culture: khorasani_culture
+  capital: sabzevar
+  exploration:
+    expl_middle_east: yes
+
+#imported from EU4
+2.1.1:
+  government: muslim_monarchy
+  #color: rgb { 130  68  24 }
+  religion: shia
+  primary_culture: khorasani_culture
+  capital: sabzevar
+1337.1.1:
+  ruler: sbz_abd_al_razzaq_sarbadar
+1338.1.1:
+  ruler: sbz_masud_sarbadar
+1343.1.1:
+  ruler: sbz_aytimur_sarbadar
+1346.9.1:
+  ruler: sbz_kulu_isfandiyar_sarbadar
+1347.1.1:
+  ruler: sbz_shams_al_din_sarbadar
+1348.1.1:
+  ruler: sbz_shams_al_din_ali_sarbadar
+1352.1.1:
+  ruler: sbz_yahya_karawi_sarbadar
+1356.1.1:
+  ruler: sbz_zahir_al_din_sarbadar
+1359.1.1:
+  ruler: sbz_lutf_allah_sarbadar
+1361.1.1:
+  ruler: sbz_hasan_al_damghani_sarbadar
+1364.1.1:
+  ruler: sbz_ali_yi_muayyad_sarbadar
+1376.1.1:
+  ruler: sbz_rukn_ad_din_sarbadar
+1379.1.1:
+  ruler: sbz_ali_yi_muayyad_sarbadar

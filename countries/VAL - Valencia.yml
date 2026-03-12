@@ -1,0 +1,47 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: catholic_monarchy_not_present
+  color: map_VAL
+  color2: rgb { 16 41 202 }
+  government_rank: rank_kingdom
+  religion: catholic
+  primary_culture: catalan
+  capital: valencia
+  exploration:
+    expl_mediterranean: yes
+    expl_silk_road_west: yes
+    expl_silk_road_center: yes
+    expl_silk_road_east: yes
+    expl_indian_trade_route: yes
+
+#imported from EU4
+2.1.1:
+  government: muslim_monarchy
+  #color: rgb { 35  75  185 }
+  religion: sunni
+  primary_culture: andalusi
+  capital: valencia
+1010.1.1:
+  ruler: val_mubarrak_saqlabi
+1017.1.1:
+  ruler: val_muyahid_saqlabi
+1021.1.1:
+  ruler: val_abd_al_aziz_amirid
+1061.1.1:
+  ruler: val_abd_al_malik_al_muzaffar_amirid
+1077.1.1:
+  ruler: val_abu_bakr_amirid
+1085.1.1:
+  ruler: val_uthman_amirid
+1086.1.1:
+  ruler: val_yahya_al_qadir_dhunnudid
+1092.1.1:
+  ruler: val_abu_ahmad_djafar_yahhafid
+1094.1.1:
+  ruler: val_rodrigo_daaz
+1099.1.1:
+  ruler: val_jimena_daaz
+1145.1.1:
+  ruler: val_abu_muhammad_jyaddid

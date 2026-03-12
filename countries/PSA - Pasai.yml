@@ -1,0 +1,50 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: indonesia_muslim_monarchy_no_mandala
+  color: map_PSA
+  color2: rgb { 16 41 202 }
+  heir_selection: cognatic_primogeniture
+  laws:
+    sharia_law: yes
+  religion: sunni
+  religious_school: shafii_school
+  primary_culture: acehnese_culture
+  court_language: malay_dialect
+  capital: pasai
+  exploration:
+    expl_china: yes
+    expl_indonesia: yes
+    expl_indonesia_muslim: yes
+
+#imported from EU4
+2.1.1:
+  government: indonesia_monarchy
+  #color: rgb { 226  81  93 }
+  religion: hindu
+  primary_culture: acehnese_culture
+  capital: pasai
+1267.1.1:
+  ruler: psa_malik_as_saleh_pasai
+  religion: sunni
+1297.1.1:
+  ruler: psa_muhammad_malik_az_zahir_pasai
+1326.1.1:
+  ruler: psa_mahmud_malik_az_zahir_i_pasai
+1345.1.1:
+  ruler: psa_ahmad_malik_az_zahir_pasai
+1383.1.1:
+  ruler: psa_zain_al_abidin_i_pasai
+1405.1.1:
+  ruler: psa_nahrasiyah_pasai
+1412.1.1:
+  ruler: psa_abu_zaid_malik_az_zahir_pasai
+1455.1.1:
+  ruler: psa_mahmud_malik_az_zahir_ii_pasai_1
+1477.1.1:
+  ruler: psa_zain_al_abidin_ii_pasai_1
+1500.1.1:
+  ruler: psa_abd_allah_malik_az_zahir_pasai_1
+1513.1.1:
+  ruler: psa_zain_al_abidin_iii_pasai_1

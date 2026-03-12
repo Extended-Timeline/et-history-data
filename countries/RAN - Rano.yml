@@ -1,0 +1,34 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: subsaharan_muslim_monarchy_no_coast
+  color: map_rano
+  color2: black
+  heir_selection: cognatic_primogeniture
+  laws:
+    sharia_law: yes
+  religion: sunni
+  religious_school: maliki_school
+  primary_culture: hausa
+  capital: rano
+  exploration:
+    expl_west_africa_muslim: yes
+
+#imported from EU4
+2.1.1:
+  government: subsaharan_tribe
+  #color: rgb { 198  193  41 }
+  religion: bantu_religion
+  primary_culture: hausa
+  capital: rano
+1001.1.1:
+  ruler: ran_zamna_kogo_habe
+1074.1.1:
+  ruler: ran_sarkuki_habe
+1165.1.1:
+  ruler: ran_bushara_habe
+1262.1.1:
+  ruler: ran_zamna_kogi_habe
+1340.1.1:
+  ruler: ran_kasko_habe

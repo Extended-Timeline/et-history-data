@@ -1,0 +1,22 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: pop
+  government: amerindian_tribe
+  color: map_taontaenrat
+  color2: rgb { 122 31 102 }
+  religion: iroquoian_totemism
+  primary_culture: taontaenrat_culture
+  exploration:
+    canada_region: yes
+    east_coast_region: yes
+    great_plains_region: yes
+    expl_mesoamerica: yes
+
+#imported from EU4
+2.1.1:
+  #color: rgb { 59 57 118 }
+  government_rank: rank_duchy
+  religion: iroquoian_totemism
+  primary_culture: attigneenongnahac_culture
+  capital: tkaronto

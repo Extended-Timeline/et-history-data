@@ -1,0 +1,19 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: catholic_monarchy german_principality
+  government: catholic_monarchy
+  color: rgb { 187 193 216 }
+  government_rank: rank_county
+  religion: catholic
+  primary_culture: low_franconian
+  capital: middelburg
+  exploration:
+    expl_western_europe: yes
+  aristocracy_vs_plutocracy: 20
+  mercantilism_vs_free_trade: 30
+  land_vs_naval: 20
+  capital_economy_vs_traditional_economy: -10
+  individualism_vs_communalism: -20
+  outward_vs_inward: 0

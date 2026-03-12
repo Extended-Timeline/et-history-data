@@ -1,0 +1,52 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  color: rgb { 110 165 232 }
+  heir_selection: veche_selection
+  reforms:
+    veche_republic: yes
+  privileges:
+    the_ryad_privilege: yes
+    clergy_powerful_dioceses: yes
+    noble_leaders_only: yes
+    banal_lordship: yes
+    noble_serfdom_rights: yes
+    nobles_land_rights: yes
+    kormlenije: yes
+    clergy_literacy_rights: yes
+    clergy_enforced_unity: yes
+    trade_monopolies: yes
+  laws:
+    administrative_system: yes
+    republican_foundation_law: yes
+    patriarchate_law: yes
+    censorship: yes
+    education_masses_law: yes
+    cultural_traditions_law: yes
+    marriage_law: yes
+    heir_religion_law: yes
+    legal_code_law: yes
+    distribution_of_power_law: yes
+  religion: orthodox
+  primary_culture: novgorodian
+  capital: vyatka
+  exploration:
+    expl_novgorod: yes
+    expl_mongols: yes
+  dynasties:
+    rurikovich_dynasty: yes
+  parliament_type: estate_parliament
+  centralization_vs_decentralization: 65
+  aristocracy_vs_plutocracy: 30
+  serfdom_vs_free_subjects: -20
+  traditionalist_vs_innovative: 0
+  spiritualist_vs_humanist: -50
+  mercantilism_vs_free_trade: 20
+  offensive_vs_defensive: 40
+  land_vs_naval: -50
+  quality_vs_quantity: 25
+  belligerent_vs_conciliatory: 20
+  capital_economy_vs_traditional_economy: -20
+  individualism_vs_communalism: -20
+  outward_vs_inward: -10

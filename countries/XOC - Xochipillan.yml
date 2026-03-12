@@ -1,0 +1,21 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: amerindian_advanced_monarchy_not_nahuatl_no_coast
+  color: map_xochipilla
+  color2: rgb { 225 172 183 }
+  heir_selection: cognatic_primogeniture
+  religion: chichimecah_religion
+  primary_culture: caxcan_culture
+  capital: xochipillan
+  exploration:
+    expl_mesoamerica: yes
+
+#imported from EU4
+2.1.1:
+  government: amerindian_mesoamerican_tribe_not_nahuatl
+  #color: rgb { 85  118  147 }
+  religion: nahuatl
+  primary_culture: mephaa_culture
+  capital: teloloapan

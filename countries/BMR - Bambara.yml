@@ -1,0 +1,16 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: subsaharan_muslim_monarchy_no_coast
+  color: map_bambara
+  color2: black
+  heir_selection: cognatic_primogeniture
+  laws:
+    sharia_law: yes
+  religion: sunni
+  religious_school: maliki_school
+  primary_culture: bambara
+  capital: djenne
+  exploration:
+    expl_west_africa_muslim: yes

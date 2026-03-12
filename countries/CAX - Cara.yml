@@ -1,0 +1,11 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: pop
+  government: andean_tribe
+  color: map_cara
+  color2: rgb { 16 41 202 }
+  religion: pi_religion
+  primary_culture: cara_culture
+  exploration:
+    expl_andean: yes

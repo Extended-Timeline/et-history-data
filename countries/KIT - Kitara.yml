@@ -1,0 +1,22 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: subsaharan_monarchy_no_coast
+  color: map_kitara
+  color2: black
+  government_rank: rank_empire
+  heir_selection: cognatic_primogeniture
+  religion: cwezi_religion
+  primary_culture: rutara_culture
+  capital: mubemde
+  exploration:
+    expl_central_africa: yes
+
+#imported from EU4
+2.1.1:
+  government: subsaharan_tribe
+  #color: rgb { 255 225 57 }
+  religion: bantu_religion
+  primary_culture: baganda_culture
+  capital: kibengo

@@ -1,0 +1,41 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: catholic_monarchy_no_coast german_principality
+  government: catholic_monarchy_no_coast
+  color: rgb { 193 185 95 }
+  government_rank: rank_county
+  religion: catholic
+  primary_culture: walloon
+  capital: namur
+  exploration:
+    expl_western_europe: yes
+  dynasties:
+    dampierre_dynasty: yes
+  aristocracy_vs_plutocracy: -20
+  capital_economy_vs_traditional_economy: -10
+  land_vs_naval: -20
+
+#imported from EU4
+2.1.1:
+  government: catholic_monarchy
+  #color: rgb { 118  183  183 }
+  government_rank: rank_duchy
+  religion: catholic
+  primary_culture: walloon
+  capital: namur
+981.1.1:
+  ruler: nam_robert_i_de_lomme
+992.1.1:
+  ruler: nam_albert_i_de_namur
+1011.6.1:
+  ruler: nam_robert_ii_de_namur
+1016.6.1:
+  ruler: nam_albert_ii_de_namur
+1037.6.1:
+  ruler: nam_albert_iii_de_namur
+1102.6.1:
+  ruler: nam_godfrey_i_de_namur
+1139.6.1:
+  ruler: nam_henry_i_de_namur

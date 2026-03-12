@@ -1,0 +1,15 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: muslim_monarchy_no_abrahamic_dhimmi
+  color: rgb { 111 130 111 }
+  heir_selection: cognatic_primogeniture
+  religion: sunni
+  religious_school: maliki_school
+  primary_culture: libyan_arabic_culture
+  capital: barca
+  exploration:
+    expl_muslim_mediterranean: yes
+  dynasties:
+    heib_dynasty: yes

@@ -1,0 +1,19 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: pop
+  government: american_east_coast_tribe
+  color: map_choctaw
+  color2: rgb { 197 31 172 }
+  religion: mississippian_ceremonial
+  primary_culture: choctaw_culture
+  court_language: chickasaw_choctaw_language
+  capital: taliepacana
+
+#imported from EU4
+2.1.1:
+  #color: rgb { 0 46 59 }
+  government_rank: rank_duchy
+  religion: iroquoian_totemism
+  primary_culture: choctaw_culture
+  capital: okeloussa

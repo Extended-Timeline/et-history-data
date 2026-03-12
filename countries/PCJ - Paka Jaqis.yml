@@ -1,0 +1,25 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: andean_monarchy
+  color: map_pacajes
+  color2: rgb { 16 41 202 }
+  religion: inti
+  primary_culture: aimara_culture
+  court_language: aymara_language
+  capital: axawiri
+  exploration:
+    expl_andean: yes
+
+#imported from EU4
+2.1.1:
+  government: andean_monarchy
+  #color: rgb { 126 147 196 }
+  religion: inti
+  primary_culture: aimara_culture
+  capital: machaqa
+1444.1.1:
+  ruler: pcj_cayo_pacaje
+1460.1.1:
+  ruler: pcj_illapa_pacaje_1

@@ -1,0 +1,15 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: subsaharan_advanced_muslim_tribe
+  color: map_naqis
+  color2: black
+  laws:
+    sharia_law: yes
+  religion: sunni
+  religious_school: maliki_school
+  primary_culture: beja_culture
+  capital: deraheib
+  exploration:
+    expl_horn_of_africa: yes

@@ -1,0 +1,15 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: catholic_monarchy
+  color: map_NRB
+  color2: rgb { 255 1 5 }
+  heir_selection: cognatic_primogeniture
+  reforms:
+    french_ducal_vassal_reform: yes
+  religion: catholic
+  primary_culture: languedocien
+  capital: narbonne
+  exploration:
+    expl_western_europe: yes

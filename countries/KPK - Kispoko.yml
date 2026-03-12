@@ -1,0 +1,36 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: pop
+  government: amerindian_tribe
+  color: map_kispoko
+  color2: rgb { 218 177 31 }
+  heir_selection: tribal_oldest_male
+  religion: mississippian_ceremonial
+  primary_culture: kispoko_culture
+  exploration:
+    canada_region: yes
+    east_coast_region: yes
+    great_plains_region: yes
+    expl_mesoamerica: yes
+
+#imported from EU4
+2.1.1:
+  government: american_east_coast_tribe
+  #color: rgb { 212  105  118 }
+  government_rank: rank_duchy
+  religion: iroquoian_totemism
+  primary_culture: chalahgawtha_culture
+  capital: assereniet
+1399.1.1:
+  ruler: kpk_hokoleskwa
+1550.1.1:
+  ruler: kpk_cottawamago
+1725.1.1:
+  ruler: kpk_paxinos
+1755.1.1:
+  ruler: kpk_wynepuechisika
+1777.1.1:
+  ruler: kpk_weyapersenwah
+1800.1.1:
+  ruler: kpk_tecumseh

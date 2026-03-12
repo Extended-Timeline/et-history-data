@@ -1,0 +1,23 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: pop
+  government: amerindian_tribe
+  color: map_attigneenongnahac
+  color2: rgb { 16 41 202 }
+  heir_selection: tribal_oldest_male
+  religion: iroquoian_totemism
+  primary_culture: attigneenongnahac_culture
+  exploration:
+    canada_region: yes
+    east_coast_region: yes
+    great_plains_region: yes
+    expl_mesoamerica: yes
+
+#imported from EU4
+2.1.1:
+  #color: rgb { 216 184 43 }
+  government_rank: rank_duchy
+  religion: iroquoian_totemism
+  primary_culture: attigneenongnahac_culture
+  capital: napanee

@@ -1,0 +1,39 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: subsaharan_tribe
+  color: map_tumbuka
+  color2: black
+  heir_selection: tribal_oldest_male
+  religion: bantu_religion
+  primary_culture: rukwa_culture
+  capital: mwamasapa
+  exploration:
+    expl_east_africa: yes
+
+#imported from EU4
+2.1.1:
+  government: subsaharan_tribe
+  #color: rgb { 161 224 201 }
+  religion: bantu_religion
+  primary_culture: sena
+  capital: kasungu
+1444.1.1:
+  ruler: tbk_gonapamuhanya_kisindile
+1500.1.1:
+  ruler: tbk_ziwange_kisindile
+1590.1.1:
+  ruler: tbk_kasyombe_kyungu
+1640.1.1:
+  ruler: tbk_magemo_kyungu
+1670.1.1:
+  ruler: tbk_mwakalosi_kyungu
+1720.1.1:
+  ruler: tbk_magemo_ii_kyungu
+1780.1.1:
+  ruler: tbk_kasyombe_ii_kyungu
+1785.1.1:
+  ruler: tbk_mwangonde_ii_kyungu
+1790.1.1:
+  ruler: tbk_gonapamuhanya_chikulamayembe

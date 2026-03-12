@@ -1,0 +1,17 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: india_limited_monarchy
+  color: map_beniwal
+  color2: map_beniwal_2
+  laws:
+    censorship: yes
+    education_masses_law: yes
+  religion: hindu
+  primary_culture: bagri
+  capital: rawatsar
+  tolerated_cultures:
+    punjabi: yes
+  exploration:
+    expl_india_hindu: yes

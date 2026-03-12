@@ -1,0 +1,14 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: pop
+  government: amerindian_tribe
+  color: map_tojolabal
+  color2: rgb { 16 41 202 }
+  heir_selection: tribal_oldest_male
+  religion: mayan
+  primary_culture: tojolabal_culture
+  exploration:
+    mesoamerica_region: yes
+    central_america_region: yes
+    expl_mesoamerica: yes

@@ -1,0 +1,17 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: indian_hindu_monarchy
+  color: map_dambadeniya
+  color2: map_dambadeniya_2
+  laws:
+    marriage_law: yes
+    heir_religion_law: yes
+    administrative_system: yes
+  religion: theravada
+  primary_culture: sinhalese
+  capital: kurunegala
+  exploration:
+    expl_india_hindu: yes
+  land_vs_naval: 50

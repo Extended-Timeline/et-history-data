@@ -1,0 +1,28 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: subsaharan_monarchy_no_coast
+  color: map_medri
+  color2: green
+  heir_selection: cognatic_primogeniture
+  religion: miaphysite
+  primary_culture: tigrinya
+  liturgical_language: geez_language
+  capital: debarwa
+  exploration:
+    expl_horn_of_africa: yes
+
+#imported from EU4
+2.1.1:
+  government: subsaharan_monarchy
+  #color: rgb { 23  114  60 }
+  religion: miaphysite
+  primary_culture: tigrinya
+  capital: asmara
+1396.1.1:
+  ruler: med_menas_i_bahri_negu
+1526.1.1:
+  ruler: med_yeshaq_i_bahri_negu
+1578.1.1:
+  ruler: med_yeshaq_ii_bahri_negu

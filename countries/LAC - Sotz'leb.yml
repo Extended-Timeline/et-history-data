@@ -1,0 +1,23 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: amerindian_mesoamerican_tribe_not_nahuatl
+  color: map_tzotzil
+  color2: rgb { 16 41 202 }
+  religion: mayan
+  primary_culture: tzotzil_culture
+  court_language: maya_language
+  capital: napinaica
+  exploration:
+    expl_mesoamerica: yes
+
+#imported from EU4
+2.1.1:
+  government: amerindian_mesoamerican_tribe_not_nahuatl
+  #color: rgb { 224  236  191 }
+  religion: mayan
+  primary_culture: chol_culture
+  capital: quechula
+1435.1.1:
+  ruler: lac_vahxak_tzotzil

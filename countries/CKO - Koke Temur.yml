@@ -1,0 +1,17 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: chinese_monarchy
+  color: map_CKO
+  color2: rgb { 255 115 66 }
+  government_rank: rank_kingdom
+  religion: tibetan_buddhism
+  primary_culture: mongolian_culture
+  court_language: northern_mandarin_dialect
+  capital: pingjin
+  exploration:
+    expl_mongols: yes
+    expl_silk_road_west: yes
+    expl_silk_road_center: yes
+    expl_silk_road_east: yes

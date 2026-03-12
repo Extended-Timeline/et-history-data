@@ -1,0 +1,18 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: swiss_theocracy
+  color: rgb { 180 140 110 }
+  government_rank: rank_county
+  heir_selection: abbot_elective
+  reforms:
+    abbey_reform: yes
+  laws:
+    heir_religion_law: yes
+  religion: catholic
+  primary_culture: high_alemannic
+  capital: disentis
+  exploration:
+    expl_western_europe: yes
+    expl_northern_europe: yes

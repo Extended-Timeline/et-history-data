@@ -1,0 +1,21 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: subsaharan_monarchy_not_present
+  color: map_busoga
+  color2: black
+  heir_selection: cognatic_primogeniture
+  religion: nyasaye_religion
+  primary_culture: rutara_culture
+  capital: busoga
+  exploration:
+    expl_central_africa: yes
+
+#imported from EU4
+2.1.1:
+  government: subsaharan_tribe
+  #color: rgb { 213 185 110 }
+  religion: bantu_religion
+  primary_culture: baganda_culture
+  capital: busoga

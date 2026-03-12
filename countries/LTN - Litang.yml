@@ -1,0 +1,21 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: asia_advanced_no_pagan_tribe
+  color: map_LTN
+  color2: rgb { 16 41 202 }
+  religion: bon
+  primary_culture: khampa_culture
+  capital: litang
+
+#imported from EU4
+2.1.1:
+  government: asia_tribe
+  #color: rgb { 21  58  123 }
+  government_rank: rank_duchy
+  religion: bon
+  primary_culture: khampa_culture
+  capital: zhanggu
+630.1.1:
+  religion: tibetan_buddhism

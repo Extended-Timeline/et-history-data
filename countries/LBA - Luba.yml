@@ -1,0 +1,34 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: pop
+  government: subsaharan_tribe
+  color: map_LBA
+  color2: rgb { 16 41 202 }
+  heir_selection: tribal_oldest_male
+  religion: bantu_religion
+  primary_culture: luba
+
+#imported from EU4
+2.1.1:
+  government: subsaharan_tribe
+  #color: rgb { 97 209 251 }
+  religion: bantu_religion
+  primary_culture: luba
+  capital: lukassi
+1440.1.1:
+  ruler: lba_tambwe_kabongo_luba
+1510.1.1:
+  ruler: lba_fumu_mikombe_luba
+1550.1.1:
+  ruler: lba_mulopwe_mitonga_luba
+1585.1.1:
+  ruler: lba_kongolo_maniema_luba
+1630.1.1:
+  ruler: lba_kalala_ilunga_luba
+1700.1.1:
+  ruler: lba_nday_luba
+1750.1.1:
+  ruler: lba_kitamba_luba
+1790.1.1:
+  ruler: lba_ilunga_sungu_luba

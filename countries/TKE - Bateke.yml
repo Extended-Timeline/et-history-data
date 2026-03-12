@@ -1,0 +1,12 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: pop
+  government: subsaharan_tribe
+  color: map_teke_madagascar
+  color2: black
+  heir_selection: tribal_oldest_male
+  religion: bantu_religion
+  primary_culture: teke
+  exploration:
+    south_gabun_area: yes

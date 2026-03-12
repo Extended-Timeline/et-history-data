@@ -1,0 +1,28 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: subsaharan_tribe
+  color: map_bara
+  color2: black
+  heir_selection: tribal_oldest_male
+  religion: fomba_gasy_religion
+  primary_culture: bara_culture
+  capital: ihosy
+  exploration:
+    expl_east_africa: yes
+
+#imported from EU4
+2.1.1:
+  government: eurasian_tribe
+  #color: rgb { 209  80  79 }
+  government_rank: rank_duchy
+  religion: bantu_religion
+  primary_culture: sakalava_culture
+  capital: ihosy
+1640.1.1:
+  ruler: baa_tsiampody_zafimanely
+1720.1.1:
+  ruler: baa_mahafaly_zafimanely
+1800.1.1:
+  ruler: baa_raikitroka_zafimanely

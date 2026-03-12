@@ -1,0 +1,21 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: catholic_monarchy_no_coast german_principality
+  government: catholic_monarchy_no_coast
+  color: rgb { 224 64 108 }
+  government_rank: rank_county
+  laws:
+    mining_law: yes
+  religion: catholic
+  primary_culture: lorrain
+  capital: montmedy
+  exploration:
+    expl_western_europe: yes
+    expl_northern_europe: yes
+  dynasties:
+    heinsberg_dynasty: yes
+  aristocracy_vs_plutocracy: -20
+  capital_economy_vs_traditional_economy: -10
+  land_vs_naval: -20

@@ -1,0 +1,15 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: catholic_monarchy_scottish_earldom
+  color: rgb { 117  127  174 }
+  color2: rgb { 16 41 202 }
+  heir_selection: cognatic_primogeniture
+  reforms:
+    celtic_traditions_reform: yes
+  religion: catholic
+  primary_culture: highland
+  capital: dingwall
+  accepted_cultures:
+    scottish: yes

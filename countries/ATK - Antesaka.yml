@@ -1,0 +1,28 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: subsaharan_tribe
+  color: map_antesaka
+  color2: black
+  heir_selection: tribal_oldest_male
+  religion: fomba_gasy_religion
+  primary_culture: antaisaka_culture
+  capital: manabondro
+  exploration:
+    expl_east_africa: yes
+
+#imported from EU4
+2.1.1:
+  government: eurasian_tribe
+  #color: rgb { 49  80  169 }
+  government_rank: rank_duchy
+  religion: bantu_religion
+  primary_culture: sakalava_culture
+  capital: andranosoa
+1600.1.1:
+  ruler: atk_andraimandresy_zarabehava
+1680.1.1:
+  ruler: atk_ratongalaza_zarabehava
+1760.1.1:
+  ruler: atk_lengoabo_zarabehava

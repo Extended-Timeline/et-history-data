@@ -1,0 +1,13 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: catholic_monarchy
+  color: map_skane
+  color2: rgb { 255 223 0 }
+  government_rank: rank_kingdom
+  religion: catholic
+  primary_culture: danish
+  capital: lund
+  exploration:
+    expl_scandinavia: yes

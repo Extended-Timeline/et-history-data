@@ -1,0 +1,39 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: turkish_beylik_no_coast_no_greek
+  color: map_eretnids
+  color2: rgb { 250 200 70 }
+  government_rank: rank_duchy
+  privileges:
+    dhimmi_abrahamic_communities: yes
+    trunk_road_to_erzurum_privilege: yes
+  religion: sunni
+  religious_school: maturidi_school
+  primary_culture: turkish_culture
+  capital: sivas
+  exploration:
+    expl_eastern_europe: yes
+    expl_muslim_mediterranean: yes
+
+#imported from EU4
+2.1.1:
+  government: turkish_beylik
+  #color: rgb { 250  200  70 }
+  government_rank: rank_duchy
+  religion: sunni
+  primary_culture: turkish_culture
+  capital: sivas
+1336.1.1:
+  ruler: ere_eretna_b_jafar_eretnid
+1352.1.1:
+  ruler: ere_muhammad_i_eretnid
+1366.1.1:
+  ruler: ere_ali_eretnid
+1380.1.1:
+  ruler: ere_muhammad_ii_chelebi_eretnid
+1380.12.1:
+  ruler: ere_kadi_burhan_al_din_eretnid
+1398.8.1:
+  ruler: ere_zayn_al_abidin_eretnid

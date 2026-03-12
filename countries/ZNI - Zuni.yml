@@ -1,0 +1,21 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: pop
+  government: amerindian_tribe_northwestern
+  color: map_zuni
+  color2: rgb { 16 41 202 }
+  religion: kachina_religion
+  primary_culture: zuni_culture
+  court_language: zuni_language
+  capital: halona_idiwana
+  exploration:
+    expl_northwestern_america: yes
+
+#imported from EU4
+2.1.1:
+  #color: rgb { 62 128 108 }
+  government_rank: rank_duchy
+  religion: iroquoian_totemism
+  primary_culture: ancestral_pueblo_culture
+  capital: tsezhin_deezahi

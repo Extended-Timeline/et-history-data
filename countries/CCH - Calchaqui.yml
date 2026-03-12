@@ -1,0 +1,22 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: pop
+  government: andean_tribe_pops
+  color: map_CCH
+  color2: rgb { 16 41 202 }
+  religion: yastay_religion
+  primary_culture: pazioca_culture
+  exploration:
+    andes_region: yes
+    la_plata_region: yes
+
+#imported from EU4
+2.1.1:
+  government: andean_tribe
+  #color: rgb { 74 44 126 }
+  religion: inti
+  primary_culture: pazioca_culture
+  capital: jujuy
+1444.11.11:
+  ruler: calc_viltipoco_calchaqui

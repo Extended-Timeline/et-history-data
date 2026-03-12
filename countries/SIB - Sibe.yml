@@ -1,0 +1,27 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: pop
+  government: asia_tribe
+  color: map_sibe
+  color2: rgb { 16 41 202 }
+  religion: tungusic_shamanism
+  primary_culture: sibe_culture
+  exploration:
+    expl_manchurian_tribe: yes
+
+#imported from EU4
+2.1.1:
+  government: eurasian_horde_no_muslim
+  #color: rgb { 16  156  27 }
+  religion: tengri
+  primary_culture: jurchen_culture
+  capital: dalaiketun
+1444.1.1:
+  ruler: sib_buyan_ula
+1485.1.1:
+  ruler: sib_buyangan_ula_1
+1540.1.1:
+  ruler: sib_mantai_ula_1
+1596.1.1:
+  ruler: sib_bujantai_ula_1

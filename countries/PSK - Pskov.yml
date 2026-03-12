@@ -1,0 +1,165 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  color: map_pskov
+  color2: rgb { 16 41 202 }
+  government_rank: rank_duchy
+  heir_selection: veche_selection
+  reforms:
+    veche_republic: yes
+  privileges:
+    the_ryad_privilege: yes
+    clergy_powerful_dioceses: yes
+    noble_leaders_only: yes
+    banal_lordship: yes
+    noble_serfdom_rights: yes
+    nobles_land_rights: yes
+    kormlenije: yes
+    clergy_literacy_rights: yes
+    clergy_enforced_unity: yes
+    trade_monopolies: yes
+  laws:
+    administrative_system: yes
+    republican_foundation_law: yes
+    patriarchate_law: yes
+    censorship: yes
+    education_masses_law: yes
+    cultural_traditions_law: yes
+    marriage_law: yes
+    heir_religion_law: yes
+    legal_code_law: yes
+    distribution_of_power_law: yes
+  religion: orthodox
+  primary_culture: novgorodian
+  liturgical_language: church_slavonic_language
+  capital: pskov
+  exploration:
+    expl_novgorod: yes
+  parliament_type: estate_parliament
+  centralization_vs_decentralization: 65
+  aristocracy_vs_plutocracy: 30
+  serfdom_vs_free_subjects: -20
+  traditionalist_vs_innovative: 0
+  spiritualist_vs_humanist: -50
+  mercantilism_vs_free_trade: 20
+  offensive_vs_defensive: 40
+  land_vs_naval: -50
+  quality_vs_quantity: 25
+  belligerent_vs_conciliatory: 20
+  capital_economy_vs_traditional_economy: -20
+  individualism_vs_communalism: -20
+  outward_vs_inward: -10
+
+#imported from EU4
+2.1.1:
+  government: et_novgorod_republic
+  #color: rgb { 82  123  95 }
+  government_rank: rank_duchy
+  religion: chalcedonism
+  primary_culture: muscovite
+  capital: pskov
+867.1.1:
+  religion: orthodox
+1178.1.1:
+  ruler: psk_mstislav
+1195.1.1:
+  ruler: psk_vladimir
+1214.1.1:
+  ruler: psk_vsevolod_ii
+1232.1.1:
+  ruler: psk_yury
+1240.1.1:
+  ruler: psk_yaroslav
+1253.1.1:
+  ruler: psk_yaroslav_1
+1256.1.1:
+  ruler: psk_svyatoslav
+1266.1.1:
+  ruler: psk_daumantas
+1299.1.1:
+  ruler: psk_davyd
+1327.1.1:
+  ruler: psk_seloga
+1337.1.1:
+  ruler: psk_aleksandr_mikhailovich
+1339.1.1:
+  ruler: psk_vsevolod
+1342.1.1:
+  ruler: psk_andrei
+1349.1.1:
+  ruler: psk_eustaphy
+1360.1.1:
+  ruler: psk_aleksandr
+1375.1.1:
+  ruler: psk_matvei
+1377.1.1:
+  ruler: psk_andrei_1
+1399.1.1:
+  ruler: psk_ivan
+1401.1.1:
+  ruler: psk_daniil
+1407.1.1:
+  ruler: psk_konstantin
+1408.1.1:
+  ruler: psk_daniil_1
+1410.1.1:
+  ruler: psk_aleksandr_iv
+1412.1.1:
+  ruler: psk_konstantin_1
+1415.1.1:
+  ruler: psk_andrei_ii
+1417.1.1:
+  ruler: psk_fyodor_i
+1421.1.1:
+  ruler: psk_aleksandr_iv_1
+1424.1.1:
+  ruler: psk_fyodor_ii
+1428.1.1:
+  ruler: psk_dmitriy_i
+1429.1.1:
+  ruler: psk_aleksandr_iv_2
+1434.1.1:
+  ruler: psk_vladimir_ii
+1439.1.1:
+  ruler: psk_aleksandr_v
+1443.1.1:
+  ruler: psk_aleksandr_vi_chartoryski
+1447.1.1:
+  ruler: psk_vasiliy_iii_shuysky
+1454.1.1:
+  ruler: psk_aleksandr_vi_chartoryski_1
+1460.1.1:
+  ruler: psk_ivan_iv_obolenski
+1461.1.1:
+  ruler: psk_valdimir_iii
+1463.1.1:
+  ruler: psk_ivan_v
+1466.1.1:
+  ruler: psk_fyodor_iii_shuiski
+1472.1.1:
+  ruler: psk_yaroslav_ii_obolenski
+1474.1.1:
+  ruler: psk_daniil_ii
+1475.1.1:
+  ruler: psk_yaroslav_ii_obolenski_1
+1477.1.1:
+  ruler: psk_vasiliy_iv_shuiski
+1480.1.1:
+  ruler: psk_yaroslav_ii_obolenski_2
+1488.1.1:
+  ruler: psk_semyon
+1491.1.1:
+  ruler: psk_vasiliy_iv_shuiski_1
+1496.1.1:
+  ruler: psk_aleksandr_vi_rostovsky
+1499.1.1:
+  ruler: psk_vasiliy_v
+1502.1.1:
+  ruler: psk_ivan_vi_shuiski
+1503.1.1:
+  ruler: psk_dmitriy_rostinski
+1507.1.1:
+  ruler: psk_ivan_vii_repnin_obolenski
+1510.1.1:
+  ruler: psk_patriarch_of_pskov

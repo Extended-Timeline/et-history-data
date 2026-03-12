@@ -1,0 +1,16 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: russian_principality_no_coast
+  color: rgb { 255 255 58 }
+  government_rank: rank_duchy
+  heir_selection: cognatic_primogeniture
+  religion: orthodox
+  primary_culture: severian
+  liturgical_language: church_slavonic_language
+  capital: rylsk
+  exploration:
+    expl_northern_europe: yes
+  dynasties:
+    rurikovich_dynasty: yes

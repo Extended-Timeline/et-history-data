@@ -1,0 +1,16 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: catholic_bishopric_no_coast
+  color: rgb { 208 32 103 }
+  government_rank: rank_county
+  religion: catholic
+  primary_culture: piedmontese
+  capital: ivrea
+  exploration:
+    expl_mediterranean: yes
+    expl_silk_road_west: yes
+    expl_silk_road_center: yes
+    expl_silk_road_east: yes
+    expl_indian_trade_route: yes

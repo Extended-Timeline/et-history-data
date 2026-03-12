@@ -1,0 +1,16 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: pop
+  government: eurasian_tribe
+  color: map_savonian
+  color2: rgb { 16 41 202 }
+  heir_selection: tribal_oldest_male
+  religion: muinaisusko
+  primary_culture: savonian
+  exploration:
+    scandinavian_region: yes
+    pomorye_area: yes
+    kola_area: yes
+    arkhangelsk_area: yes
+    west_novgorod_area: yes

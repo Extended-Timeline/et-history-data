@@ -1,0 +1,12 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: polynesian_monarchy
+  color: rgb { 153 210   1 }
+  color2: rgb {  50 128  84 }
+  heir_selection: matrilineal_non_exclusive
+  religion: tapu_religion
+  primary_culture: kanaka_maoli_culture
+  exploration:
+    expl_polynesia: yes

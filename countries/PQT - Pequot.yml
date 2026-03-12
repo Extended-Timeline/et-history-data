@@ -1,0 +1,24 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: pop
+  government: amerindian_tribe
+  color: map_pequot
+  color2: rgb { 192 19 172 }
+  heir_selection: tribal_oldest_male
+  religion: midewiwin_religion
+  primary_culture: pequot_culture
+  exploration:
+    canada_region: yes
+    east_coast_region: yes
+    great_plains_region: yes
+    expl_mesoamerica: yes
+
+#imported from EU4
+2.1.1:
+  government: american_east_coast_tribe
+  #color: rgb { 28 70 150 }
+  government_rank: rank_duchy
+  religion: iroquoian_totemism
+  primary_culture: pequot_culture
+  capital: saukiog

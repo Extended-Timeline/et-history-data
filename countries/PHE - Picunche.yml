@@ -1,0 +1,12 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: pop
+  government: andean_tribe_pops
+  color: map_pikumche
+  color2: rgb { 16 41 202 }
+  religion: tain_feyentun_religion
+  primary_culture: pikumche_culture
+  exploration:
+    andes_region: yes
+    la_plata_region: yes

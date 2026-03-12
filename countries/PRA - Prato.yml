@@ -1,0 +1,19 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: catholic_republic_no_coast
+  color: rgb { 240 90 90 }
+  government_rank: rank_county
+  heir_selection: podesta_elective
+  reforms:
+    signoria_reform: yes
+  religion: catholic
+  primary_culture: tuscan
+  capital: prato
+  exploration:
+    expl_mediterranean: yes
+    expl_silk_road_west: yes
+    expl_silk_road_center: yes
+    expl_silk_road_east: yes
+    expl_indian_trade_route: yes

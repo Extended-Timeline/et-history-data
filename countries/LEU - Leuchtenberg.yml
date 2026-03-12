@@ -1,0 +1,18 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: catholic_monarchy_no_coast catholic_monarchy_no_coast german_principality
+  government: catholic_monarchy_no_coast
+  color: rgb { 215 183 147 }
+  government_rank: rank_county
+  reforms:
+    landgraviate: yes
+  religion: catholic
+  primary_culture: upper_palatine
+  capital: leuchtenberg
+  exploration:
+    expl_western_europe: yes
+    expl_northern_europe: yes
+  dynasties:
+    leuchtenberg_dynasty: yes

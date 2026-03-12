@@ -1,0 +1,17 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: turkish_beylik_no_coast
+  color: map_dilmacids
+  color2: rgb { 103 70 255 }
+  religion: sunni
+  religious_school: maturidi_school
+  primary_culture: turkish_culture
+  court_language: persian_language
+  capital: kozluk
+  tolerated_cultures:
+    kurdish_culture: yes
+  exploration:
+    expl_eastern_europe: yes
+    expl_muslim_mediterranean: yes

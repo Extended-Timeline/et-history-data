@@ -1,0 +1,11 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: pop
+  government: amerindian_tribe
+  color: map_tlingit
+  color2: rgb { 39 228 191 }
+  religion: dene_totemism
+  primary_culture: tlingit_culture
+  exploration:
+    expl_northwestern_america: yes

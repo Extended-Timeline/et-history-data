@@ -1,0 +1,13 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: catholic_monarchy_english_lordship_irish_earldom
+  color: hsv360 { 181 76 62 }
+  color2: rgb { 16 41 202 }
+  heir_selection: cognatic_primogeniture
+  religion: catholic
+  primary_culture: anglo_irish
+  capital: castlebar
+  accepted_cultures:
+    irish: yes

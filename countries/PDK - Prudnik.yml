@@ -1,0 +1,15 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: catholic_monarchy_no_coast
+  color: rgb { 22 122 122 }
+  government_rank: rank_duchy
+  heir_selection: cognatic_primogeniture
+  religion: catholic
+  primary_culture: silesian
+  capital: prudnik
+  exploration:
+    expl_northern_europe: yes
+  dynasties:
+    piast_dynasty: yes

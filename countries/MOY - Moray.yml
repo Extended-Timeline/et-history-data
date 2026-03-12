@@ -1,0 +1,16 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: catholic_monarchy_scottish_earldom
+  color: map_highland
+  color2: rgb { 16 41 202 }
+  heir_selection: cognatic_primogeniture
+  religion: catholic
+  primary_culture: scottish
+  court_language: norman_dialect
+  capital: elgin
+  accepted_cultures:
+    highland: yes
+  exploration:
+    expl_northern_europe: yes

@@ -1,0 +1,27 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: russian_principality_no_coast
+  color: { 227 221 77 }
+  government_rank: rank_duchy
+  heir_selection: cognatic_primogeniture
+  religion: orthodox
+  primary_culture: muscovite
+  liturgical_language: church_slavonic_language
+  capital: rostov
+  exploration:
+    expl_novgorod: yes
+
+#imported from EU4
+2.1.1:
+  government: russian_principality
+  #color: rgb { 227 221 77 }
+  government_rank: rank_duchy
+  religion: chalcedonism
+  primary_culture: muscovite
+  capital: rostov
+867.1.1:
+  religion: orthodox
+1444.1.1:
+  ruler: rso_vladimir_rurikovich

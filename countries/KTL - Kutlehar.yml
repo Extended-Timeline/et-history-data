@@ -1,0 +1,14 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: indian_hindu_monarchy_no_coast
+  color: map_kutlehar
+  color2: map_kutlehar_2
+  religion: hindu
+  primary_culture: kangri
+  capital: kutlehar
+  tolerated_cultures:
+    punjabi: yes
+  exploration:
+    expl_india_hindu: yes

@@ -1,0 +1,14 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: amerindian_advanced_monarchy_not_nahuatl_no_coast
+  color: map_malinalco
+  color2: rgb { 184 136 150}
+  heir_selection: cognatic_primogeniture
+  religion: nahuatl
+  primary_culture: matlatzinca_culture
+  court_language: otopamean_language
+  capital: malinalco
+  exploration:
+    expl_mesoamerica: yes

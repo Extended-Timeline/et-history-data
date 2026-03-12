@@ -1,0 +1,24 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: amerindian_advanced_monarchy_not_nahuatl_no_coast
+  color: map_tollohcan
+  color2: rgb { 217 155 207 }
+  heir_selection: cognatic_primogeniture
+  religion: nahuatl
+  primary_culture: matlatzinca_culture
+  court_language: otopamean_language
+  capital: tollohcan
+  exploration:
+    expl_mesoamerica: yes
+
+#imported from EU4
+2.1.1:
+  government: amerindian_advanced_monarchy
+  #color: rgb { 78  149  191 }
+  religion: nahuatl
+  primary_culture: matlatzinca_culture
+  capital: tollohcan
+1440.1.1:
+  ruler: mat_aztatlan_toluca

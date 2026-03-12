@@ -1,0 +1,31 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: iberian_monarchy
+  color: map_MLL
+  color2: rgb { 16 41 202 }
+  government_rank: rank_kingdom
+  religion: catholic
+  primary_culture: catalan
+  capital: palma
+  exploration:
+    expl_mediterranean: yes
+    expl_silk_road_west: yes
+    expl_silk_road_center: yes
+    expl_silk_road_east: yes
+    expl_indian_trade_route: yes
+
+#imported from EU4
+2.1.1:
+  government: iberian_monarchy
+  #color: rgb { 243  111  107 }
+  religion: catholic
+  primary_culture: catalan
+  capital: perpignan
+1276.7.27:
+  ruler: mll_jaime_i_de_mallorca
+1311.5.29:
+  ruler: mll_sancho_de_mallorca
+1324.9.4:
+  ruler: mll_jaime_iii_de_mallorca

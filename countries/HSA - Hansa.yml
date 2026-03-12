@@ -1,0 +1,17 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: building
+  government: hansa
+  color: map_hansa
+  color2: rgb { 16 41 202 }
+  government_rank: rank_duchy
+  heir_selection: oligarchic_elective
+  laws:
+    marriage_law: yes
+    heir_religion_law: yes
+  religion: catholic
+  primary_culture: hanseatic
+  capital: lubeck
+  exploration:
+    expl_northern_europe: yes

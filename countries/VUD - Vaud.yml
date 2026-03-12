@@ -1,0 +1,13 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: catholic_monarchy_no_coast
+  color: hsv360 { 338 94 96 }
+  government_rank: rank_county
+  heir_selection: cognatic_primogeniture
+  religion: catholic
+  primary_culture: arpitan
+  capital: yverdon_les_bains
+  exploration:
+    expl_mediterranean: yes

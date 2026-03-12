@@ -1,0 +1,36 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: india_limited_monarchy
+  color: map_rajpipla
+  color2: map_rajpipla_2
+  laws:
+    censorship: yes
+    education_masses_law: yes
+  religion: hindu
+  primary_culture: gujarati
+  capital: nandod
+  tolerated_cultures:
+    bhil: yes
+  exploration:
+    expl_india_hindu: yes
+
+#imported from EU4
+2.1.1:
+  government: indian_hindu_monarchy
+  #color: rgb { 69  131  62 }
+  government_rank: rank_duchy
+  religion: hindu
+  primary_culture: saurashtri
+  capital: champaner
+1400.1.1:
+  ruler: rji_palandev_chauhan
+1440.1.1:
+  ruler: rji_patai_rawal_chauhan_1
+1762.1.1:
+  ruler: rji_arsisinhji_chauhan
+1771.1.1:
+  ruler: rji_hamirsinhji_ii_chauhan_1
+1777.1.1:
+  ruler: rji_bhimsinhji_chauhan_1

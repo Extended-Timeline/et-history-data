@@ -1,0 +1,34 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: muslim_monarchy_no_abrahamic_dhimmi_no_coast
+  color: map_KRT
+  color2: rgb { 16 41 202 }
+  government_rank: rank_duchy
+  heir_selection: cognatic_primogeniture
+  religion: sunni
+  religious_school: maturidi_school
+  primary_culture: khorasani_culture
+  capital: herat
+  exploration:
+    expl_middle_east: yes
+
+#imported from EU4
+2.1.1:
+  government: muslim_monarchy
+  #color: rgb { 50  130  50 }
+  government_rank: rank_duchy
+  religion: sunni
+  primary_culture: khorasani_culture
+  capital: herat
+819.1.1:
+  ruler: krt_ilyas_samanid
+856.1.1:
+  ruler: krt_ibrahim_samanid
+1000.1.1:
+  government_rank: rank_kingdom
+1335.1.1:
+  ruler: krt_muizzud_din_kartid
+1370.1.1:
+  ruler: krt_ghiyas_al_din_pir_ali_kartid

@@ -1,0 +1,14 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: catholic_monarchy_no_coast german_principality
+  government: catholic_monarchy_no_coast
+  color: rgb { 228 110 95 }
+  religion: catholic
+  primary_culture: western_pomeranian
+  capital: schwerin
+  exploration:
+    expl_northern_europe: yes
+  dynasties:
+    schwerin_dynasty: yes

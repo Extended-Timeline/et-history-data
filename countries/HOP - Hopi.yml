@@ -1,0 +1,12 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: pop
+  government: amerindian_tribe_northwestern
+  color: map_hopi
+  color2: rgb { 16 41 202 }
+  religion: kachina_religion
+  primary_culture: hopi_culture
+  capital: orayvi
+  exploration:
+    expl_northwestern_america: yes

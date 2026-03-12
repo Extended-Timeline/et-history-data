@@ -1,0 +1,159 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: muslim_monarchy_no_abrahamic_dhimmi_no_coast
+  color: map_omani
+  color2: rgb { 16 41 202 }
+  heir_selection: cognatic_primogeniture
+  laws:
+    sharia_law: yes
+  religion: ibadi
+  religious_school: ibadi_school
+  primary_culture: omani_culture
+  capital: nizwa
+  exploration:
+    expl_middle_east: yes
+  centralization_vs_decentralization: 50
+  aristocracy_vs_plutocracy: -50
+  serfdom_vs_free_subjects: -40
+  traditionalist_vs_innovative: 10
+  spiritualist_vs_humanist: -50
+  mercantilism_vs_free_trade: 50
+  belligerent_vs_conciliatory: 20
+  offensive_vs_defensive: 0
+  land_vs_naval: 50
+  quality_vs_quantity: 20
+  capital_economy_vs_traditional_economy: 100
+  individualism_vs_communalism: 20
+  outward_vs_inward: 0
+
+#imported from EU4
+2.1.1:
+  government: eurasian_tribe
+  #color: rgb { 98  134  153 }
+  religion: south_arabian_polytheism
+  primary_culture: omani_culture
+  capital: nizwa
+580.1.1:
+  ruler: oma_al_ubulla_banu_azd
+637.1.1:
+  government: muslim_monarchy
+  religion: ibadi
+751.1.1:
+  ruler: oma_al_julanda_bin_masood
+780.1.1:
+  ruler: oma_mohammed_bin_abi_affan
+801.1.1:
+  ruler: oma_al_warith_bin_kaab
+807.1.1:
+  ruler: oma_ghassan_bin_abdullah
+840.1.1:
+  ruler: oma_abdulmalik_bin_humaid
+851.1.1:
+  ruler: oma_al_salt_bin_malik
+886.1.1:
+  ruler: oma_rashid_bin_al_nadhar
+890.1.1:
+  ruler: oma_azzan_bin_tamim
+897.1.1:
+  ruler: oma_mohammed_bin_al_hassan
+898.1.1:
+  ruler: oma_azzan_bin_al_hazbar
+899.1.1:
+  ruler: oma_abdullah_bin_mohammed
+900.1.1:
+  ruler: oma_al_salt_bin_al_qasim
+904.1.1:
+  ruler: oma_al_hawari_bin_matraf
+912.1.1:
+  ruler: oma_omar_bin_mohammed
+920.1.1:
+  ruler: oma_mohammed_bin_yazid
+930.1.1:
+  ruler: oma_al_hakm_bin_al_milaa_al_bahri
+939.1.1:
+  ruler: oma_said_bin_abdullah
+970.1.1:
+  ruler: oma_rashid_bin_waleed
+1002.1.1:
+  ruler: oma_al_khalil_bin_shadhan
+1032.1.1:
+  ruler: oma_rashid_bin_said
+1068.1.1:
+  ruler: oma_hafs_bin_rashid
+1100.1.1:
+  ruler: oma_rashid_bin_ali
+1151.1.1:
+  ruler: oma_muhammed_i_al_fallah_nabhani
+1176.1.1:
+  ruler: oma_bin_muhammed_nabhani
+1280.1.1:
+  ruler: oma_muhammed_nabhani
+1330.1.1:
+  ruler: oma_hubaise_nabhani
+1406.1.1:
+  ruler: oma_makhzum_nabhani
+1435.1.1:
+  ruler: oma_abul_hasan_nabhani
+1451.1.1:
+  ruler: oma_umar_i_nabhani
+1490.1.1:
+  ruler: oma_umar_ii_nabhani
+1500.1.1:
+  ruler: oma_muhammed_ii_nabhani
+1529.1.1:
+  ruler: oma_barakat_nabhani
+1560.1.1:
+  ruler: oma_abdulla_nabhani_1
+1624.1.1:
+  ruler: oma_nasir_yaariba
+1649.4.5:
+  ruler: oma_sultan_i_yaariba_1
+1668.11.12:
+  ruler: oma_abil_arab_i_yaariba_1
+1679.1.1:
+  ruler: oma_sayf_i_yaariba_1
+1711.10.16:
+  ruler: oma_sultan_ii_yaariba_1
+1718.1.1:
+  ruler: oma_muhanna_yaariba_1
+1720.1.1:
+  ruler: oma_sayf_ii_yaariba_1
+1724.10.3:
+  ruler: oma_muhammad_iii_banu_ghafir
+1728.4.12:
+  ruler: oma_sayf_ii_yaariba_2
+1742.2.1:
+  ruler: oma_sultan_iii_yaariba
+1743.7.2:
+  ruler: oma_abil_arab_ii_yaariba
+1749.6.10:
+  ruler: oma_ahmad_al_said
+  capital: masqat
+1783.12.16:
+  ruler: oma_said_i_al_said
+1804.11.16:
+  ruler: oma_salim_i_al_said
+1806.9.14:
+  ruler: oma_said_ii_al_said
+1856.10.19:
+  ruler: oma_thuwaini_al_said
+1866.2.11:
+  ruler: oma_salim_ii_al_said
+1868.10.3:
+  ruler: oma_azzan_al_said
+1871.1.30:
+  ruler: oma_turki_al_said
+1888.6.4:
+  ruler: oma_faisal_al_said
+1891.3.20:
+  government: muslim_monarchy
+1913.10.4:
+  ruler: oma_taimur_al_said
+1932.2.10:
+  ruler: oma_said_iii_al_said
+1970.7.23:
+  ruler: oma_qaboos_al_said
+2020.1.11:
+  ruler: oma_haitham_al_said

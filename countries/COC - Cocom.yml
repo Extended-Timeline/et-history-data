@@ -1,0 +1,34 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: amerindian_advanced_monarchy_not_nahuatl
+  color: map_cocomes
+  color2: rgb { 16 41 202 }
+  heir_selection: cognatic_primogeniture
+  religion: mayan
+  primary_culture: yucatec_culture
+  court_language: maya_language
+  capital: mayapan
+  exploration:
+    expl_mesoamerica: yes
+  dynasties:
+    cocom_dynasty: yes
+
+#imported from EU4
+2.1.1:
+  government: amerindian_mesoamerican_tribe_not_nahuatl
+  #color: rgb { 194  236  91 }
+  religion: mayan
+  primary_culture: yucatec_culture
+  capital: chichen_itza
+1431.1.1:
+  ruler: coc_itan_kambul_cocom
+1464.1.1:
+  ruler: coc_xiool_cocom
+1468.1.1:
+  ruler: coc_och_cocom
+1483.1.1:
+  ruler: coc_pech_cocom
+1543.1.1:
+  ruler: coc_nachi_cocom

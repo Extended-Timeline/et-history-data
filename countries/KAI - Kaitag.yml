@@ -1,0 +1,13 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: eurasian_orthodox_tribe
+  color: map_KAI
+  color2: rgb { 16 41 102 }
+  heir_selection: tribal_oldest_male
+  religion: orthodox
+  primary_culture: dargin_culture
+  capital: kubachi
+  exploration:
+    expl_middle_east: yes

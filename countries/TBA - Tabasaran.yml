@@ -1,0 +1,13 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: eurasian_tribe
+  color: map_TAB
+  color2: rgb { 116 41 202 }
+  heir_selection: tribal_oldest_male
+  religion: lezgin_paganism
+  primary_culture: lezgin_culture
+  capital: khuchni
+  exploration:
+    expl_middle_east: yes

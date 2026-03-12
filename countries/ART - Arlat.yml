@@ -1,0 +1,19 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: army
+  government: eurasian_horde_no_coast_no_pleading
+  color: map_ART
+  color2: rgb { 16 41 202 }
+  heir_selection: tribal_oldest_male
+  reforms:
+    legacy_of_genghis: yes
+  laws:
+    sharia_law: yes
+  religion: sunni
+  religious_school: shafii_school
+  primary_culture: mongolian_culture
+  capital: maymana
+  exploration:
+    expl_middle_east: yes
+    expl_mongols: yes

@@ -1,0 +1,18 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: far_east_asia_monarchy_no_coast
+  color: map_LNG
+  color2: rgb { 16 41 202 }
+  government_rank: rank_kingdom
+  religion: tibetan_buddhism
+  primary_culture: mongolian_culture
+  court_language: northern_mandarin_dialect
+  capital: kunming
+  exploration:
+    expl_mongols: yes
+    expl_china: yes
+    expl_silk_road_west: yes
+    expl_silk_road_center: yes
+    expl_silk_road_east: yes

@@ -1,0 +1,13 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: pop
+  government: eurasian_tribe
+  color: map_guanche
+  color2: rgb { 65  112  201 }
+  heir_selection: tribal_oldest_male
+  religion: guanche_religion
+  primary_culture: guanche
+  exploration:
+    canary_islands_area: yes
+    madeira_sea_area: yes

@@ -1,0 +1,36 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: catholic_monarchy_limited
+  color: map_greeland
+  color2: rgb { 16 41 202 }
+  reforms:
+    family_sagas_reform: yes
+  religion: catholic
+  primary_culture: icelandic
+  capital: gardr
+  exploration:
+    expl_scandinavia: yes
+    labrador_sea_area: yes
+  centralization_vs_decentralization: 50
+  traditionalist_vs_innovative: -60
+  spiritualist_vs_humanist: 5
+  aristocracy_vs_plutocracy: 50
+  serfdom_vs_free_subjects: 90
+  mercantilism_vs_free_trade: 25
+  belligerent_vs_conciliatory: -20
+  quality_vs_quantity: 0
+  offensive_vs_defensive: -20
+  land_vs_naval: 75
+  capital_economy_vs_traditional_economy: 99
+  individualism_vs_communalism: 30
+  outward_vs_inward: -10
+
+#imported from EU4
+2.1.1:
+  government: amerindian_monarchy
+  #color: rgb { 210  210  210 }
+  religion: lutheran
+  primary_culture: inuit_culture
+  capital: godthab

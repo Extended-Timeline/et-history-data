@@ -1,0 +1,27 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: pop
+  government: american_east_coast_tribe
+  color: map_muscogee
+  color2: rgb { 232 148 17 }
+  religion: mississippian_ceremonial
+  primary_culture: muscogee_culture
+  court_language: muskogee_language
+
+#imported from EU4
+2.1.1:
+  government: american_east_coast_tribe
+  #color: rgb { 108  139  208 }
+  government_rank: rank_duchy
+  religion: iroquoian_totemism
+  primary_culture: muscogee_culture
+  capital: pakana
+1399.1.1:
+  ruler: mcg_brim
+1550.1.1:
+  ruler: mcg_chigelli
+1700.1.1:
+  ruler: mcg_tomochichi
+1739.1.1:
+  ruler: mcg_chekilli

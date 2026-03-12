@@ -1,0 +1,13 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: catholic_german_republic_no_coast
+  color: rgb { 40 90 161 }
+  government_rank: rank_county
+  religion: catholic
+  primary_culture: east_franconian
+  capital: hall
+  exploration:
+    expl_western_europe: yes
+    expl_northern_europe: yes

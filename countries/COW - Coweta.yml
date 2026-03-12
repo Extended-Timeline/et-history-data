@@ -1,0 +1,19 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: pop
+  government: american_east_coast_tribe
+  color: map_coweta
+  color2: rgb { 122 200 31 }
+  religion: mississippian_ceremonial
+  primary_culture: coweta_culture
+  court_language: muskogee_language
+  capital: coweta
+
+#imported from EU4
+2.1.1:
+  #color: rgb { 18 39 184 }
+  government_rank: rank_duchy
+  religion: iroquoian_totemism
+  primary_culture: muscogee_culture
+  capital: pakana

@@ -1,0 +1,14 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: eastern_european_catholic_monarchy_not_present
+  color: map_samogitian
+  color2: rgb { 154 69 116 }
+  government_rank: rank_duchy
+  heir_selection: cognatic_primogeniture
+  religion: romuva
+  primary_culture: samogitian
+  capital: raseiniai
+  exploration:
+    expl_eastern_europe: yes

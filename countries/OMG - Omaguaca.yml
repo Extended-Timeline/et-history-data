@@ -1,0 +1,15 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: pop
+  government: andean_tribe
+  color: map_omaguaca
+  color2: rgb { 16 41 202 }
+  religion: cebil_religion
+  primary_culture: omaguaca_culture
+  exploration:
+    qullaw_area: yes
+    yunga_area: yes
+    atacama_area: yes
+    cuyo_area: yes
+    expl_andean: yes

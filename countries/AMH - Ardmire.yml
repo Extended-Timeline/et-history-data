@@ -1,0 +1,12 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: gaelic_tribe_no_coast
+  color: hsv360 { 95 95 60 }
+  color2: rgb { 16 41 202 }
+  religion: catholic
+  primary_culture: irish
+  capital: raphoe
+  exploration:
+    expl_western_europe: yes

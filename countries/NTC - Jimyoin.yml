@@ -1,0 +1,19 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: building
+  government: japanese_clan
+  color: map_NTC
+  color2: rgb { 16 41 202 }
+  flag: JAP_monarchy
+  government_rank: rank_empire
+  reforms:
+    japanese_imperial_family: yes
+  religion: shinto
+  primary_culture: saigoku_culture
+  capital: kyoto
+  inherit_ruler_terms: YMT
+  variables:
+    supports_northern_court:
+      type:boolean
+      identity:1

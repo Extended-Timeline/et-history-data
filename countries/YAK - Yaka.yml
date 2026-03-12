@@ -1,0 +1,32 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: pop
+  government: subsaharan_tribe
+  color: map_yaka
+  color2: black
+  heir_selection: tribal_oldest_male
+  religion: bantu_religion
+  primary_culture: yaka
+
+#imported from EU4
+2.1.1:
+  government: subsaharan_tribe
+  #color: rgb { 99  160  239}
+  religion: bantu_religion
+  primary_culture: yaka
+  capital: kinguchi
+1430.1.1:
+  ruler: yak_mukulu_kyambvu
+1490.1.1:
+  ruler: yak_paandzu_kyambvu
+1540.1.1:
+  ruler: yak_kambaamba_kyambvu
+1600.1.1:
+  ruler: yak_bivula_kyambvu
+1660.1.1:
+  ruler: yak_mwaana_kyambvu
+1700.1.1:
+  ruler: yak_muteeba_kadi_kyambvu
+1740.1.1:
+  ruler: yak_muteeba_nzuzi_kyambvu

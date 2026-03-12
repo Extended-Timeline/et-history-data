@@ -1,0 +1,16 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: catholic_monarchy_no_coast german_principality
+  government: catholic_monarchy_no_coast
+  color: rgb { 239 78 239 }
+  government_rank: rank_county
+  religion: catholic
+  primary_culture: lower_saxon
+  capital: nienburg
+  exploration:
+    expl_western_europe: yes
+    expl_northern_europe: yes
+  dynasties:
+    hoya_dynasty: yes

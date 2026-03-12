@@ -1,0 +1,16 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: india_limited_monarchy
+  color: map_bonai
+  color2: map_bonai_2
+  laws:
+    administrative_system: yes
+    censorship: yes
+    education_masses_law: yes
+  religion: hindu
+  primary_culture: chhattisgarhi
+  capital: bonaigarh
+  exploration:
+    expl_india_hindu: yes

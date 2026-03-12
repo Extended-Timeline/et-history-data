@@ -1,0 +1,18 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: army
+  government: eurasian_horde_no_muslim
+  color: map_UGH
+  color2: rgb { 16 41 202 }
+  heir_selection: tribal_oldest_male
+  reforms:
+    legacy_of_genghis: yes
+  religion: tengri
+  primary_culture: mongolian_culture
+  capital: qatruyeh
+  exploration:
+    expl_middle_east: yes
+    expl_mongols: yes
+  dynasties:
+    ughanid_dynasty: yes

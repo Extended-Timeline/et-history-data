@@ -1,0 +1,21 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: pop
+  government: asia_tribe
+  color: map_bru
+  color2: rgb { 16 41 202 }
+  religion: bru_religion
+  primary_culture: bru_culture
+  capital: ban_phone
+  exploration:
+    expl_china: yes
+
+#imported from EU4
+2.1.1:
+  government: asia_tribe
+  #color: rgb { 200  126  168 }
+  government_rank: rank_duchy
+  religion: bimoism
+  primary_culture: bru_culture
+  capital: savannakhet

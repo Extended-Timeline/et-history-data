@@ -1,0 +1,34 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: pop
+  government: amerindian_tribe
+  color: map_mapuche
+  color2: rgb { 16 41 202 }
+  religion: tain_feyentun_religion
+  primary_culture: mapuche_culture
+  exploration:
+    ngulumapu_area: yes
+    puelmapu_area: yes
+    expl_mesoamerica: yes
+
+#imported from EU4
+2.1.1:
+  government: amerindian_tribe
+  #color: rgb { 225 71 35 }
+  government_rank: rank_duchy
+  religion: muisca_religion
+  primary_culture: mapuche_culture
+  capital: mawlen
+1534.1.1:
+  ruler: mpc_lautaro
+1540.1.1:
+  ruler: mpc_caupolican
+1558.1.1:
+  ruler: mpc_caupolican_ii
+1592.1.1:
+  ruler: mpc_paillamachu
+1604.1.1:
+  ruler: mpc_huenecura
+1610.1.1:
+  ruler: mpc_aillavilu

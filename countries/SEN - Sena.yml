@@ -1,0 +1,42 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: pop
+  government: subsaharan_tribe
+  color: map_sena
+  color2: black
+  heir_selection: tribal_oldest_male
+  religion: bantu_religion
+  primary_culture: sena_culture
+  exploration:
+    limpopo_area: yes
+    zambezi_area: yes
+    kalahari_area: yes
+    save_area: yes
+    mozambique_area: yes
+
+#imported from EU4
+2.1.1:
+  government: indian_hindu_monarchy
+  #color: rgb { 117  16  203 }
+  religion: mahayana
+  primary_culture: bengali
+  capital: husaynabad
+900.1.1:
+  ruler: sen_adi_shura
+952.1.1:
+  ruler: sen_bhu_shura
+970.1.1:
+  ruler: sen_ksati_shura
+981.1.1:
+  ruler: sen_dharadhara_shura
+994.1.1:
+  ruler: sen_varendra_shura
+1012.1.1:
+  ruler: sen_anu_shura
+1030.1.1:
+  ruler: sen_chandra_shura
+1048.1.1:
+  ruler: sen_rana_shura
+1060.1.1:
+  ruler: sen_lakshmi_shura

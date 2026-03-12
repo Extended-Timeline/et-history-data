@@ -1,0 +1,57 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: catholic_republic
+  color: rgb { 138  110  130 }
+  government_rank: rank_duchy
+  heir_selection: lottery_election
+  reforms:
+    merchant_republic: yes
+  laws:
+    republican_foundation_law: yes
+  religion: catholic
+  primary_culture: venetian
+  court_language: venetian_dialect
+  capital: candia
+  exploration:
+    expl_mediterranean: yes
+    expl_silk_road_west: yes
+    expl_silk_road_center: yes
+    expl_silk_road_east: yes
+    expl_indian_trade_route: yes
+  dynasties:
+    cornaro_dynasty: yes
+    gradenigo_dynasty: yes
+    morosini_dynasty: yes
+    zeno_dynasty: yes
+  centralization_vs_decentralization: -30
+  aristocracy_vs_plutocracy: 40
+  serfdom_vs_free_subjects: -20
+  traditionalist_vs_innovative: 30
+  spiritualist_vs_humanist: 60
+  mercantilism_vs_free_trade: -40
+  offensive_vs_defensive: 60
+  land_vs_naval: 60
+  quality_vs_quantity: -20
+  belligerent_vs_conciliatory: -20
+  capital_economy_vs_traditional_economy: -50
+  individualism_vs_communalism: -40
+  outward_vs_inward: -80
+
+#imported from EU4
+2.1.1:
+  government: eastern_european_catholic_monarchy
+  #color: rgb { 138  110  130 }
+  government_rank: rank_duchy
+  religion: chalcedonism
+  primary_culture: greek_culture
+  capital: candia
+867.1.1:
+  religion: orthodox
+1800.1.1:
+  government: et_modern_republic
+1898.12.9:
+  ruler: crt_georgios_von_glucksburg
+1906.9.18:
+  ruler: crt_alexandros_zaimis

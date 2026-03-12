@@ -1,0 +1,33 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: pop
+  government: polynesian_tribe
+  color: rgb { 255 100 20 }
+  color2: rgb { 16 41 202 }
+  religion: tapu_religion
+  primary_culture: maori_culture
+  exploration:
+    expl_polynesia: yes
+
+#imported from EU4
+2.1.1:
+  government: polynesian_tribe
+  #color: rgb { 110 50 50 }
+  government_rank: rank_duchy
+  religion: bimoism
+  primary_culture: maori_culture
+  capital: tamaki
+1650.1.1:
+  ruler: tni_te_putu_ngati_mahuta
+1700.1.1:
+  ruler: tni_tawhia_ki_te_rangi_ngati_mahuta
+1750.1.1:
+  ruler: tni_tuata_ngati_mahuta
+1800.1.1:
+  ruler: tni_te_rauangaanga_ngati_mahuta
+1858.1.1:
+  ruler: tni_te_wherowhero_ngati_mahuta
+1858.6.1:
+  government: polynesian_monarchy
+  ruler: tni_potatau_te_wherowhero

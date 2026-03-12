@@ -1,0 +1,23 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: haudenosaunee_tribe
+  color: map_onyotaaka
+  color2: rgb { 99 31 27 }
+  religion: iroquoian_totemism
+  primary_culture: onyotaaka_culture
+  capital: onenioteke
+  exploration:
+    expl_amerindian_east_coast: yes
+  gold: 100
+  stability: 33
+  tribal_cohesion: 90
+
+#imported from EU4
+2.1.1:
+  #color: rgb { 79 44 187 }
+  government_rank: rank_duchy
+  religion: iroquoian_totemism
+  primary_culture: onondowaga_culture
+  capital: onenioteke

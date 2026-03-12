@@ -1,0 +1,26 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: amerindian_advanced_monarchy_not_nahuatl
+  color: map_coliman
+  color2: rgb { 16 41 202 }
+  heir_selection: cognatic_primogeniture
+  religion: nahuatl
+  primary_culture: teco_culture
+  court_language: nahuatl_language
+  capital: coliman
+  exploration:
+    expl_mesoamerica: yes
+
+#imported from EU4
+2.1.1:
+  government: amerindian_advanced_monarchy
+  #color: rgb { 198  149  21 }
+  religion: nahuatl
+  primary_culture: teco_culture
+  capital: tomatlan
+1440.1.1:
+  ruler: clm_mazatl_colliman
+1454.1.1:
+  ruler: clm_colimotl_colliman

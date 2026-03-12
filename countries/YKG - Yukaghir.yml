@@ -1,0 +1,16 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: pop
+  government: asia_tribe
+  color: map_kolyms
+  color2: rgb { 187  68 136 }
+  religion: yukaghir_shamanism
+  primary_culture: kolyms_culture
+  exploration:
+    east_siberia_region: yes
+    korea_region: yes
+    manchuria_region: yes
+    mongolia_region: yes
+    north_china_region: yes
+    west_siberia_region: yes

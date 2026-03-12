@@ -1,0 +1,55 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  color: map_dithmarschen
+  color2: rgb { 16 41 202 }
+  government_rank: rank_county
+  heir_selection: oligarchic_elective
+  laws:
+    censorship: yes
+    republican_foundation_law: yes
+    education_masses_law: yes
+    administrative_system: yes
+    cultural_traditions_law: yes
+    marriage_law: yes
+    heir_religion_law: yes
+    legal_code_law: yes
+    maritime_law: yes
+    piracy_law: yes
+    distribution_of_power_law: yes
+    immigration_law: yes
+  religion: catholic
+  primary_culture: holsatian
+  capital: heide
+  exploration:
+    expl_northern_europe: yes
+  parliament_type: estate_parliament
+  centralization_vs_decentralization: 100
+  traditionalist_vs_innovative: -70
+  spiritualist_vs_humanist: -50
+  aristocracy_vs_plutocracy: 80
+  serfdom_vs_free_subjects: 100
+  mercantilism_vs_free_trade: 0
+  belligerent_vs_conciliatory: -20
+  quality_vs_quantity: 100
+  offensive_vs_defensive: 100
+  land_vs_naval: 0
+  capital_economy_vs_traditional_economy: 100
+  individualism_vs_communalism: 100
+  outward_vs_inward: 50
+
+#imported from EU4
+2.1.1:
+  government: peasant_republic
+  #color: rgb { 72 194 212 }
+  government_rank: rank_duchy
+  religion: catholic
+  primary_culture: lower_saxon
+  capital: heide
+1250.1.1:
+  government: peasant_republic
+1490.1.1:
+  ruler: dit_wulf_isebrand
+1506.1.1:
+  ruler: dit_henning_swyn

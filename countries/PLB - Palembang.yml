@@ -1,0 +1,45 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: indonesia_monarchy
+  color: map_PLB
+  color2: rgb { 16 41 202 }
+  heir_selection: cognatic_primogeniture
+  religion: mahayana
+  primary_culture: malay_culture
+  capital: palembang
+  exploration:
+    expl_china: yes
+    expl_indonesia: yes
+
+#imported from EU4
+2.1.1:
+  government: indonesia_monarchy
+  #color: rgb { 163  68  149 }
+  religion: mahayana
+  primary_culture: malay_culture
+  capital: palembang
+1300.1.1:
+  government: indonesia_muslim_monarchy_no_mandala
+  religion: sunni
+1444.1.1:
+  ruler: plb_jisun_shi
+1550.1.1:
+  ruler: plb_tsalenggathu_palembang
+1580.1.1:
+  ruler: plb_tsau_lha_palembang
+1610.1.1:
+  ruler: plb_mengtsekya_palembang
+1640.1.1:
+  ruler: plb_menradza_palembang
+1670.1.1:
+  ruler: plb_inayat_palembang
+1700.1.1:
+  ruler: plb_gadzabadi_palembang
+1730.1.1:
+  ruler: plb_amritpal_palembang
+1760.1.1:
+  ruler: plb_mengtsekya_palembang_1
+1790.1.1:
+  ruler: plb_husayn_palembang

@@ -1,0 +1,69 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: catholic_monarchy german_principality
+  government: catholic_monarchy
+  color: map_HOL
+  government_rank: rank_county
+  reforms:
+    feudal_nobility: yes
+  religion: catholic
+  primary_culture: low_franconian
+  capital: the_hague
+  exploration:
+    expl_western_europe: yes
+  aristocracy_vs_plutocracy: 20
+  serfdom_vs_free_subjects: 20
+  mercantilism_vs_free_trade: 30
+  land_vs_naval: 20
+  capital_economy_vs_traditional_economy: -10
+  individualism_vs_communalism: -20
+  outward_vs_inward: 0
+
+#imported from EU4
+2.1.1:
+  government: catholic_monarchy
+  #color: rgb { 156  96  100 }
+  government_rank: rank_duchy
+  religion: catholic
+  primary_culture: low_franconian
+  capital: amsterdam
+810.1.1:
+  ruler: hol_gerulf_i_gerulfing
+865.1.1:
+  ruler: hol_gerulf_ii_gerulfing
+896.1.1:
+  ruler: hol_dirk_i_gerulfing
+939.1.1:
+  ruler: hol_dirk_ii_gerulfing
+988.5.6:
+  ruler: hol_arnulf_i_gerulfing
+993.9.18:
+  ruler: hol_dirk_iii_gerulfing
+1039.5.27:
+  ruler: hol_dirk_iv_gerulfing
+1049.1.13:
+  ruler: hol_floris_i_gerulfing
+1061.6.28:
+  ruler: hol_dirk_v_gerulfing
+1091.6.17:
+  ruler: hol_floris_ii_gerulfing_1
+1121.3.2:
+  ruler: hol_dirk_vi_gerulfing_1
+1157.8.5:
+  ruler: hol_floris_iii_gerulfing_1
+1190.8.1:
+  ruler: hol_dirk_vii_gerulfing
+1203.11.4:
+  ruler: hol_willem_i_gerulfing_1
+1222.2.4:
+  ruler: hol_floris_iv_gerulfing_1
+1234.7.19:
+  ruler: hol_willem_ii_gerulfing_1
+1256.1.12:
+  ruler: hol_floris_v_gerulfing_1
+1296.6.27:
+  ruler: hol_jan_i_gerulfing_1
+1417.5.30:
+  ruler: hol_jacoba_von_wittelsbach

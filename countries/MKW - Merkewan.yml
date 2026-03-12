@@ -1,0 +1,16 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: muslim_tribe_no_coast
+  color: map_merkewan
+  color2: rgb { 144 220 149 }
+  heir_selection: tribal_oldest_male
+  laws:
+    sharia_law: yes
+  religion: sunni
+  religious_school: hanafi_school
+  primary_culture: kurdish_culture
+  capital: osnavieh
+  exploration:
+    expl_middle_east: yes

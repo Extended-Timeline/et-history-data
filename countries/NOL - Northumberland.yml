@@ -1,0 +1,81 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: catholic_monarchy_english_lordship_not_present
+  color: map_NOL
+  color2: rgb { 16 41 202 }
+  government_rank: rank_duchy
+  heir_selection: cognatic_primogeniture
+  religion: catholic
+  primary_culture: northumbrian
+  capital: newcastle
+  exploration:
+    expl_western_europe: yes
+
+1:
+  government: catholic_monarchy
+  #color: rgb { 83  149  105 }
+  government_rank: rank_duchy
+  religion: chalcedonism
+  primary_culture: anglo_saxon
+  capital: newcastle
+654:
+  ruler: nol_oswiu_of_northumbria
+670.2.15:
+  ruler: nol_ecgfrith_of_northumbria
+685.5.20:
+  ruler: nol_aldfrith_of_northumbria
+704.12.14:
+  ruler: nol_eadwulf_of_northumbria
+705.3:
+  ruler: nol_osred_i_of_northumbria
+716:
+  ruler: nol_coenred_of_northumbria
+718:
+  ruler: nol_osric_of_northumbria
+729.5.29:
+  ruler: nol_ceolwulf_of_northumbria
+737:
+  ruler: nol_eadberht_of_northumbria
+758:
+  ruler: nol_oswulf_of_northumbria
+759.7.24:
+  ruler: nol_aethelwald_moll_of_northumbria
+765:
+  ruler: nol_alhred_of_northumbria
+774:
+  ruler: nol_aethelred_i_of_northumbria
+779:
+  ruler: nol_aelfwald_i_of_northumbria
+788.9.23:
+  ruler: nol_osred_ii_of_northumbria
+790:
+  ruler: nol_aethelred_i_of_northumbria
+796.4.18:
+  ruler: nol_osbald_of_northumbria
+796.5.14:
+  ruler: nol_eardwulf_i_of_northumbria
+810:
+  ruler: nol_eanred_i_of_northumbria
+841:
+  ruler: nol_aethelred_ii_of_northumbria
+849:
+  ruler: nol_osberht_i_of_northumbria
+863:
+  ruler: nol_aelle_ii_of_northumbria
+867:
+  government: catholic_monarchy
+  religion: catholic
+867.3.23:
+  ruler: nol_ecgberht_i_of_northumbria
+872:
+  ruler: nol_ricsige_i_of_northumbria
+876:
+  ruler: bern_ecgberht_ii_of_northumbria
+895:
+  ruler: nol_eadwulf_ii_of_northumbria
+913:
+  ruler: nol_ealdred_i_of_northumbria
+933:
+  ruler: nol_adulf_i_of_northumbria

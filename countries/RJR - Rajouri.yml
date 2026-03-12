@@ -1,0 +1,16 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: indian_muslim_monarchy_no_coast
+  color: map_rajouri
+  color2: map_rajouri_2
+  reforms:
+    taluqdar_nobility: yes
+    indian_sultanate_reform: yes
+  laws:
+    sharia_law: yes
+  religion: sunni
+  religious_school: hanafi_school
+  primary_culture: kashmiri_culture
+  capital: rajouri

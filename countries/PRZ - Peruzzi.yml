@@ -1,0 +1,36 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: building
+  government: catholic_republic_not_present
+  color: map_PRZ
+  color2: rgb { 16 41 202 }
+  government_rank: rank_county
+  heir_selection: bank_selection
+  laws:
+    marriage_law: yes
+    heir_religion_law: yes
+  religion: catholic
+  primary_culture: peruzzi_bank_culture
+  capital: florence
+  exploration:
+    expl_mediterranean: yes
+    expl_silk_road_west: yes
+    expl_silk_road_center: yes
+    expl_silk_road_east: yes
+    expl_indian_trade_route: yes
+  dynasties:
+    peruzzi_dynasty: yes
+  centralization_vs_decentralization: 20
+  aristocracy_vs_plutocracy: 70
+  serfdom_vs_free_subjects: 70
+  traditionalist_vs_innovative: 30
+  spiritualist_vs_humanist: 20
+  mercantilism_vs_free_trade: -40
+  belligerent_vs_conciliatory: 0
+  quality_vs_quantity: -20
+  offensive_vs_defensive: 30
+  land_vs_naval: 40
+  capital_economy_vs_traditional_economy: -50
+  individualism_vs_communalism: -50
+  outward_vs_inward: -90

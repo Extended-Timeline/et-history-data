@@ -1,0 +1,35 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: catholic_monarchy_no_coast german_principality
+  government: catholic_monarchy_no_coast
+  color: rgb { 35 220 240 }
+  government_rank: rank_duchy
+  religion: catholic
+  primary_culture: danube_bavarian
+  capital: landshut
+  exploration:
+    expl_western_europe: yes
+    expl_northern_europe: yes
+  dynasties:
+    wittelsbach_dynasty: yes
+
+#imported from EU4
+2.1.1:
+  government: catholic_monarchy
+  #color: rgb { 35  220  240 }
+  government_rank: rank_duchy
+  religion: catholic
+  primary_culture: southern_bavarian
+  capital: regensburg
+1347.1.1:
+  ruler: lbv_stephan_ii_von_wittelsbach
+1375.5.1:
+  ruler: lbv_friedrich_i_von_wittelsbach
+1393.12.4:
+  ruler: lbv_heinrich_xvi_von_wittelsbach
+1450.7.30:
+  ruler: lbv_ludwig_ix_von_wittelsbach
+1479.1.18:
+  ruler: lbv_georg_i_von_wittelsbach

@@ -1,0 +1,35 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: pop
+  government: subsaharan_tribe
+  color: map_xhosa
+  color2: rgb { 16 41 202 }
+  heir_selection: tribal_oldest_male
+  religion: bantu_religion
+  primary_culture: xhosa_culture
+  exploration:
+    karoo_area: yes
+    thaba_bosiu_area: yes
+    umgungundlovu_area: yes
+    goringhaikona_area: yes
+
+#imported from EU4
+2.1.1:
+  government: subsaharan_tribe
+  #color: rgb { 9  16  114 }
+  religion: bantu_religion
+  primary_culture: nguni_culture
+  capital: umngazi
+1727.1.1:
+  ruler: xho_tshiwo_xhosa
+1736.1.1:
+  ruler: xho_phalo_xhosa_1
+1775.1.1:
+  ruler: xho_rarabe_xhosa
+1782.1.1:
+  ruler: xho_ndlambe_xhosa
+1797.1.1:
+  ruler: xho_ngqika_gaika
+1829.11.13:
+  ruler: xho_sandile_gaika

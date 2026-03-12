@@ -1,0 +1,19 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: catholic_monarchy_english_lordship
+  color: hsv360 { 51 25 100 }
+  color2: rgb { 16 41 202 }
+  religion: catholic
+  primary_culture: northumbrian
+  capital: lancaster
+  exploration:
+    expl_western_europe: yes
+
+2.1.1:
+  #color: rgb { 157  51  167 }
+  government_rank: rank_duchy
+  religion: catholic
+  primary_culture: northumbrian
+  capital: lancaster

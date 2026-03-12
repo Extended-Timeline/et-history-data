@@ -1,0 +1,28 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: subsaharan_monarchy_no_coast
+  color: map_abwab
+  color2: orange
+  heir_selection: cognatic_primogeniture
+  religion: miaphysite
+  primary_culture: nubian
+  liturgical_language: geez_language
+  capital: ed_damer
+  exploration:
+    expl_horn_of_africa_no_coast: yes
+
+#imported from EU4
+2.1.1:
+  government: subsaharan_tribe
+  #color: rgb { 35  144  120 }
+  religion: bantu_religion
+  primary_culture: nubian_language
+  capital: berber
+580.1.1:
+  religion: miaphysite
+1276.1.1:
+  ruler: abw_adur_al_abwab
+1480.1.1:
+  religion: sunni

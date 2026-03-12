@@ -1,0 +1,13 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: catholic_bishopric_no_coast eastern_european_catholic
+  government: catholic_bishopric_no_coast
+  color: rgb { 16 181 93 }
+  government_rank: rank_county
+  religion: catholic
+  primary_culture: prussian
+  capital: kwidzyn
+  exploration:
+    expl_northern_europe: yes

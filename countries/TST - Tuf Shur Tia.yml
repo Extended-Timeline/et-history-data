@@ -1,0 +1,22 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: amerindian_tribe_settled_northwestern
+  color: map_sandia
+  color2: rgb { 16 41 202 }
+  religion: kachina_religion
+  primary_culture: tanoan_culture
+  court_language: tanoan_language
+  capital: tuf_shur_tia
+  exploration:
+    expl_northwestern_america: yes
+
+#imported from EU4
+2.1.1:
+  government: amerindian_tribe_northwestern
+  #color: rgb { 162 128 8 }
+  government_rank: rank_duchy
+  religion: iroquoian_totemism
+  primary_culture: ancestral_pueblo_culture
+  capital: ialophaybo

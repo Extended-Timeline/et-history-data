@@ -1,0 +1,51 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: catholic_monarchy_no_coast
+  color: rgb { 87 56 177 }
+  government_rank: rank_county
+  heir_selection: cognatic_primogeniture
+  reforms:
+    margraviate: yes
+  religion: catholic
+  primary_culture: vivaro_alpine
+  capital: saluzzo
+  exploration:
+    expl_mediterranean: yes
+    expl_silk_road_west: yes
+    expl_silk_road_center: yes
+    expl_silk_road_east: yes
+    expl_indian_trade_route: yes
+  dynasties:
+    del_vasto_dynasty: yes
+
+#imported from EU4
+2.1.1:
+  #color: rgb { 137 185 203 }
+  government_rank: rank_duchy
+  religion: catholic
+  primary_culture: piedmontese
+  capital: saluzzo
+1125.1.1:
+  ruler: sal_manfredo_i_del_vasto
+1175.1.1:
+  ruler: sal_manfredo_ii_del_vasto
+1215.1.1:
+  ruler: sal_manfredo_iii_del_vasto
+1244.1.1:
+  ruler: sal_tommaso_i_del_vasto
+1296.1.1:
+  ruler: sal_manfredo_iv_del_vasto
+1332.1.1:
+  ruler: sal_federico_i_del_vasto
+1336.1.1:
+  ruler: sal_tommaso_ii_del_vasto
+1357.8.18:
+  ruler: sal_federico_ii_del_vasto
+1396.1.1:
+  ruler: sal_tommaso_iii_del_vasto
+1416.1.1:
+  ruler: sal_ludovico_i_del_vasto
+1475.4.15:
+  ruler: sal_ludovico_ii_del_vasto

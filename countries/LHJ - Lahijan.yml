@@ -1,0 +1,39 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: muslim_monarchy_no_abrahamic_dhimmi
+  color: map_lahijan
+  color2: rgb { 16 41 202 }
+  heir_selection: cognatic_primogeniture
+  laws:
+    sharia_law: yes
+  religion: sunni
+  religious_school: hanbali_school
+  primary_culture: gilak_culture
+  capital: lahijan
+  exploration:
+    expl_middle_east: yes
+  dynasties:
+    naservand_dynasty: yes
+
+#imported from EU4
+2.1.1:
+  government: muslim_monarchy
+  #color: rgb { 229 153 34 }
+  government_rank: rank_duchy
+  religion: sunni
+  primary_culture: mazanderani_culture
+  capital: rasht
+1430.1.1:
+  ruler: lhj_ala_al_din_eshaqvand
+1461.1.1:
+  ruler: lhj_ala_al_din_ii_eshaqvand
+1476.1.1:
+  ruler: lhj_rostam_eshaqvand
+1510.1.1:
+  ruler: lhj_mozaffar_eshaqvand
+1534.1.1:
+  ruler: lhj_mahmud_eshaqvand
+1570.1.1:
+  ruler: lhj_jamshid_eshaqvand

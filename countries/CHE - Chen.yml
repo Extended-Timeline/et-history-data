@@ -1,0 +1,38 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: chinese_monarchy
+  color: map_CHE
+  color2: rgb { 121 153 86 }
+  government_rank: rank_kingdom
+  religion: sanjiao
+  primary_culture: chu_culture
+  court_language: northern_mandarin_dialect
+  liturgical_language: classical_chinese_language
+  capital: minxian
+  tolerated_cultures:
+    tunxi_culture: yes
+  exploration:
+    expl_silk_road_west: yes
+    expl_silk_road_center: yes
+    expl_silk_road_east: yes
+
+#imported from EU4
+2.1.1:
+  government: chinese_monarchy
+  #color: rgb { 109  112  126 }
+  religion: sanjiao
+  primary_culture: jianghuai_culture
+  capital: dantu
+557.1.1:
+  government: chinese_monarchy
+  ruler: che_baxian_chen
+559.1.1:
+  ruler: che_qian_chen
+566.1.1:
+  ruler: che_bozong_chen
+570.1.1:
+  ruler: che_xu_chen
+582.2.20:
+  ruler: che_shubao_chen

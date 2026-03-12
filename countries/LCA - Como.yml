@@ -1,0 +1,16 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: catholic_republic_no_coast
+  color: rgb { 102 132 251 }
+  government_rank: rank_county
+  heir_selection: podesta_elective
+  reforms:
+    signoria_reform: yes
+  religion: catholic
+  primary_culture: lombard
+  capital: bellinzona
+  exploration:
+    expl_western_europe: yes
+    expl_northern_europe: yes

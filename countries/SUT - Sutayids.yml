@@ -1,0 +1,15 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: muslim_monarchy_no_coast
+  color: map_sutayids
+  color2: rgb { 206 164 141 }
+  heir_selection: cognatic_primogeniture
+  religion: sunni
+  religious_school: maturidi_school
+  primary_culture: mongolian_culture
+  capital: diyarbekir
+  exploration:
+    expl_middle_east: yes
+    expl_mongols: yes

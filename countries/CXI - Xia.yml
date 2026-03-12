@@ -1,0 +1,29 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: chinese_monarchy
+  color: map_CXI
+  color2: rgb { 140 183 154 }
+  government_rank: rank_kingdom
+  religion: sanjiao
+  primary_culture: shu_culture
+  court_language: shu_language
+  liturgical_language: classical_chinese_language
+  capital: chengdu
+  exploration:
+    expl_silk_road_west: yes
+    expl_silk_road_center: yes
+    expl_silk_road_east: yes
+
+#imported from EU4
+2.1.1:
+  government: chinese_monarchy
+  #color: rgb { 60  103  74 }
+  religion: sanjiao
+  primary_culture: zhongyuan_culture
+  capital: jiangling
+1630.1.1:
+  ruler: cxi_xianzhong_zhang
+1644.8.9:
+  capital: chengdu

@@ -1,0 +1,36 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: indonesia_limited_monarchy
+  color: map_LNO
+  color2: rgb { 16 41 202 }
+  heir_selection: cognatic_primogeniture
+  religion: anitism_religion
+  primary_culture: iranun_culture
+  capital: malabang
+  exploration:
+    expl_china: yes
+    expl_indonesia: yes
+
+#imported from EU4
+2.1.1:
+  government: muslim_tribe
+  #color: rgb { 44  104  150 }
+  religion: sunni
+  primary_culture: cebuano_culture
+  capital: malabang
+1640.1.1:
+  ruler: lno_barahaman_dumalondong
+1670.1.1:
+  ruler: lno_muhammad_tahir_ud_din_ditsaan
+1700.1.1:
+  ruler: lno_laut_buisan_bacolod
+1730.1.1:
+  ruler: lno_maka_alang_saripada_baloi
+1760.1.1:
+  ruler: lno_dundang_tidulay_butig
+1790.1.1:
+  ruler: lno_kahar_ud_din_kuda_maribo
+1820.1.1:
+  ruler: lno_kahar_ud_din_kuda_madaya

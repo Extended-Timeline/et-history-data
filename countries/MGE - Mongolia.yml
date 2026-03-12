@@ -1,0 +1,24 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: army
+  government: eurasian_horde_not_present
+  color: map_MGE
+  color2: rgb { 61 8 81 }
+  government_rank: rank_empire
+  heir_selection: tribal_oldest_male
+  religion: tengri
+  primary_culture: mongolian_culture
+  court_language: mongolian_language
+  capital: karakorum
+  exploration:
+    expl_mongols: yes
+
+#imported from EU4
+2.1.1:
+  government: eurasian_horde_no_muslim
+  #color: rgb { 130 180 240 }
+  government_rank: rank_duchy
+  religion: tengri
+  primary_culture: mongolian_culture
+  capital: karakorum

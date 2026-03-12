@@ -1,0 +1,19 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: catholic_monarchy_not_present
+  color: map_THS
+  color2: rgb { 40 240 60 }
+  government_rank: rank_duchy
+  heir_selection: cognatic_primogeniture
+  religion: orthodox
+  primary_culture: greek_culture
+  liturgical_language: greek_language
+  capital: neopatras
+  exploration:
+    expl_mediterranean: yes
+    expl_silk_road_west: yes
+    expl_silk_road_center: yes
+    expl_silk_road_east: yes
+    expl_indian_trade_route: yes

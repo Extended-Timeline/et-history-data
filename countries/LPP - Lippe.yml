@@ -1,0 +1,41 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: catholic_monarchy_no_coast german_principality
+  government: catholic_monarchy_no_coast
+  color: rgb { 21 83 149 }
+  government_rank: rank_county
+  religion: catholic
+  primary_culture: angrian
+  capital: lippstadt
+  exploration:
+    expl_western_europe: yes
+    expl_northern_europe: yes
+  dynasties:
+    lippe_dynasty: yes
+
+#imported from EU4
+2.1.1:
+  government: catholic_monarchy
+  #color: rgb { 21  83  149 }
+  government_rank: rank_duchy
+  religion: catholic
+  primary_culture: eastphalian
+  capital: bielefeld
+1140.1.1:
+  ruler: lpp_otto_i_von_calvelage_ravensberg
+1160.1.1:
+  ruler: lpp_heinrich_i_von_calvelage_ravensberg
+1180.1.1:
+  ruler: lpp_hermann_ii_von_calvelage_ravensberg
+1200.1.1:
+  ruler: lpp_otto_ii_von_calvelage_ravensberg
+1220.1.1:
+  ruler: lpp_ludwig_i_von_calvelage_ravensberg
+1249.1.1:
+  ruler: lpp_otto_iii_von_calvelage_ravensberg
+1306.1.1:
+  ruler: lpp_otto_iv_von_calvelage_ravensberg
+1328.1.1:
+  ruler: lpp_bernard_i_von_calvelage_ravensberg

@@ -1,0 +1,14 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: amerindian_advanced_monarchy_not_nahuatl_no_coast
+  color: map_tetela
+  color2: rgb { 145 137 248 }
+  heir_selection: cognatic_primogeniture
+  religion: mayan
+  primary_culture: totonac_culture
+  court_language: nahuatl_language
+  capital: tetela
+  exploration:
+    expl_mesoamerica: yes

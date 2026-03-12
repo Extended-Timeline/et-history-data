@@ -1,0 +1,57 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: catholic_republic_no_coast
+  color: rgb { 0 156 255 }
+  government_rank: rank_county
+  heir_selection: signoria_selection
+  reforms:
+    dynastic_signoria_reform: yes
+  religion: catholic
+  primary_culture: venetian
+  capital: verona
+  exploration:
+    expl_mediterranean: yes
+    expl_silk_road_west: yes
+    expl_silk_road_center: yes
+    expl_silk_road_east: yes
+    expl_indian_trade_route: yes
+
+#imported from EU4
+2.1.1:
+  government: eurasian_tribe
+  #color: rgb { 21  93  124 }
+  religion: catholic
+  primary_culture: venetian
+  capital: verona
+500.1.1:
+  government: catholic_monarchy
+  government_rank: rank_duchy
+962.2.2:
+  government: catholic_monarchy
+1167.1.1:
+  government: catholic_republic
+1221.1.1:
+  ruler: ver_rambertino_buvelelli
+1226.1.1:
+  ruler: ver_ezzelino_iii_de_romano
+1259.10.7:
+  government: catholic_monarchy
+  ruler: ver_mastino_i_della_scala
+1277.10.17:
+  ruler: ver_alberto_i_della_scala
+1301.9.3:
+  ruler: ver_bartolomeo_i_della_scala
+1304.3.8:
+  ruler: ver_alboino_i_della_scala
+1311.10.28:
+  ruler: ver_alberto_ii_della_scala
+1352.9.13:
+  ruler: ver_cangrande_ii_della_scala
+1359.12.14:
+  ruler: ver_cansignorio_i_della_scala
+1375.10.19:
+  ruler: ver_bartolomeo_ii_della_scala
+1381.7.12:
+  ruler: ver_antonio_i_della_scala

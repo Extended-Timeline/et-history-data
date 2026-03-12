@@ -1,0 +1,21 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: pop
+  government: amerindian_tribe
+  color: map_caddo
+  color2: rgb { 16 41 202 }
+  religion: mississippian_ceremonial
+  primary_culture: caddo_culture
+  court_language: caddoan_language
+  capital: naconiche
+  exploration:
+    expl_aridoamerica: yes
+
+#imported from EU4
+2.1.1:
+  #color: rgb { 171 192 31 }
+  government_rank: rank_duchy
+  religion: iroquoian_totemism
+  primary_culture: caddo_culture
+  capital: nacao

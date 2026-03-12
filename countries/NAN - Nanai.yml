@@ -1,0 +1,28 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: pop
+  government: yeren_tribe
+  color: map_nanai
+  color2: rgb { 16 41 202 }
+  heir_selection: ritual_selection
+  religion: tungusic_shamanism
+  primary_culture: nanai_culture
+  exploration:
+    expl_manchurian_tribe: yes
+
+#imported from EU4
+2.1.1:
+  government: eurasian_horde_no_muslim
+  #color: rgb { 244 148 77 }
+  religion: tengri
+  primary_culture: jurchen_culture
+  capital: hulin
+1444.1.1:
+  ruler: nan_nisiha_warka
+1480.1.1:
+  ruler: nan_lomi_warka
+1520.1.1:
+  ruler: nan_hulan_warka
+1560.1.1:
+  ruler: nan_manggai_warka

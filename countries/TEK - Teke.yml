@@ -1,0 +1,38 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: turkish_beylik_no_mining
+  color: map_teke
+  color2: rgb { 221 180 249 }
+  privileges:
+    sponsor_maritime_contracts: yes
+    dhimmi_abrahamic_communities: yes
+  religion: sunni
+  religious_school: maturidi_school
+  primary_culture: turkish_culture
+  capital: antalya
+  exploration:
+    expl_eastern_europe: yes
+    expl_muslim_mediterranean: yes
+
+#imported from EU4
+2.1.1:
+  government: turkish_beylik
+  #color: rgb { 90  6  50 }
+  government_rank: rank_duchy
+  religion: sunni
+  primary_culture: turkish_culture
+  capital: antalya
+1319.1.1:
+  ruler: tek_yunus_bey_tekeogullari
+1324.1.1:
+  ruler: tek_mahmud_bey_tekeogullari
+1328.1.1:
+  ruler: tek_hizir_bey_tekeogullari
+1355.1.1:
+  ruler: tek_dadi_bey_tekeogullari
+1360.1.1:
+  ruler: tek_mehmed_bay_tekeogullari
+1380.1.1:
+  ruler: tek_osman_celebi_tekeogullari

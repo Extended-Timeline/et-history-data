@@ -1,0 +1,19 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: indian_muslim_monarchy_no_censor
+  color: map_mabar
+  color2: map_mabar_2
+  government_rank: rank_kingdom
+  reforms:
+    taluqdar_nobility: yes
+    indian_sultanate_reform: yes
+  laws:
+    sharia_law: yes
+  religion: sunni
+  religious_school: maliki_school
+  primary_culture: haryanvi_culture
+  court_language: persian_language
+  capital: madurai
+  land_vs_naval: 50

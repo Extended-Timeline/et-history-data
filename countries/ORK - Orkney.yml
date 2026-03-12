@@ -1,0 +1,19 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: catholic_monarchy
+  color: map_norn
+  color2: rgb { 16 41 202 }
+  heir_selection: cognatic_primogeniture
+  reforms:
+    galley_lords_reform: yes
+  laws:
+    piracy_law: yes
+    legal_code_law: yes
+  religion: catholic
+  primary_culture: norn_culture
+  exploration:
+    expl_northern_europe: yes
+  land_vs_naval: 100
+  belligerent_vs_conciliatory: -30

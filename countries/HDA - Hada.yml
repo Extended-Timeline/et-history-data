@@ -1,0 +1,15 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: haixi_tribe
+  color: map_HDA
+  color2: rgb { 16 41 202 }
+  heir_selection: ritual_selection
+  religion: tungusic_shamanism
+  primary_culture: jurchen_culture
+  capital: kaiyuan_jurchen
+  exploration:
+    expl_manchurian_tribe: yes
+  dynasties:
+    hada_nara_dynasty: yes

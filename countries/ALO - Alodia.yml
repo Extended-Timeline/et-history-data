@@ -1,0 +1,38 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: subsaharan_monarchy_no_coast
+  color: map_alodia
+  color2: black
+  government_rank: rank_kingdom
+  heir_selection: matrilineal_non_exclusive
+  laws:
+    censorship: yes
+  religion: miaphysite
+  primary_culture: nubian
+  liturgical_language: geez_language
+  capital: soba
+  exploration:
+    expl_horn_of_africa_no_coast: yes
+
+#imported from EU4
+2.1.1:
+  government: subsaharan_tribe
+  #color: rgb { 135  144  180 }
+  religion: bantu_religion
+  primary_culture: nubian_language
+  capital: soba
+580.1.1:
+  religion: miaphysite
+900.1.1:
+  ruler: alo_eusebius_gurdjuh_gurdjuhid
+958.1.1:
+  ruler: alo_stefan_gurdjuhid
+1250.1.1:
+  ruler: alo_ador_alodian
+1440.1.1:
+  ruler: alo_joel_dotawo
+1480.1.1:
+  ruler: alo_abdallah_jamma_abdallabi
+  religion: sunni

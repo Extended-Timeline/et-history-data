@@ -1,0 +1,24 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: amerindian_advanced_monarchy_not_nahuatl
+  color: map_mixtec
+  color2: rgb { 16 41 202 }
+  heir_selection: cognatic_primogeniture
+  religion: mesoamerican
+  primary_culture: mixtec_culture
+  court_language: otopamean_language
+  capital: tututepec
+  exploration:
+    expl_mesoamerica: yes
+
+#imported from EU4
+2.1.1:
+  government: amerindian_advanced_monarchy
+  #color: rgb { 158  18  120 }
+  religion: nahuatl
+  primary_culture: mixtec_culture
+  capital: tututepec
+1440.1.1:
+  ruler: mix_atonal_ii_coixtlahuaca

@@ -1,0 +1,16 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: pop
+  government: eurasian_tribe
+  color: rgb { 66 183 223 }
+  heir_selection: tribal_oldest_male
+  religion: obian_paganism
+  primary_culture: khanty_culture
+  capital: kazym
+  exploration:
+    russian_region: yes
+    ruthenia_region: yes
+    ural_region: yes
+    west_siberia_region: yes
+    west_novgorod_area: yes

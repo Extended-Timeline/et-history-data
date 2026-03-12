@@ -1,0 +1,15 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: jianzhou_tribe
+  color: map_DNG
+  color2: rgb { 16 41 202 }
+  heir_selection: ritual_selection
+  religion: tungusic_shamanism
+  primary_culture: jurchen_culture
+  capital: donggo
+  exploration:
+    expl_manchurian_tribe: yes
+  dynasties:
+    donggo_dynasty: yes

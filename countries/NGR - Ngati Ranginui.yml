@@ -1,0 +1,11 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: pop
+  government: polynesian_tribe
+  color: hsv { 0.42 0.76 0.38 }
+  color2: rgb { 30 15 150 }
+  religion: tapu_religion
+  primary_culture: maori_culture
+  exploration:
+    expl_polynesia: yes

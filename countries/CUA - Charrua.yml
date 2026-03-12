@@ -1,0 +1,25 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: pop
+  government: amerindian_tribe
+  color: map_charrua
+  color2: rgb { 16 41 202 }
+  religion: tunpa_religion
+  primary_culture: charrua_culture
+  exploration:
+    pampa_area: yes
+    expl_mesoamerica: yes
+
+#imported from EU4
+2.1.1:
+  government: amerindian_tribe
+  #color: rgb { 174 151 145 }
+  government_rank: rank_duchy
+  religion: muisca_religion
+  primary_culture: charrua_culture
+  capital: tuvicha_mini
+1510.1.1:
+  ruler: cua_zapican
+1550.1.1:
+  ruler: cua_abayuba

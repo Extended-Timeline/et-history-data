@@ -1,0 +1,44 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: building
+  government: japanese_clan
+  color: map_NIT
+  color2: rgb { 16 41 202 }
+  government_rank: rank_county
+  reforms:
+    japanese_clan: yes
+  religion: shinto
+  primary_culture: tougoku_culture
+  capital: nitta
+  variables:
+    supports_southern_court:
+      type:boolean
+      identity:1
+
+#imported from EU4
+2.1.1:
+  government: japanese_clan
+  #color: rgb { 80  80  80 }
+  government_rank: rank_duchy
+  religion: shinto
+  primary_culture: saigoku_culture
+  capital: gunma
+1155.1.1:
+  ruler: nit_yoshishige_nitta
+1194.1.1:
+  ruler: nit_yoshikane_nitta
+1195.12.9:
+  ruler: nit_masayoshi_nitta
+1257.1.1:
+  ruler: nit_masauji_nitta
+1271.3.30:
+  ruler: nit_motouji_nitta
+1314.8.23:
+  ruler: nit_tomouji_nitta
+1318.1.21:
+  ruler: nit_yoshisada_nitta
+1338.8.17:
+  ruler: nit_yoshimune_nitta
+1368.9.3:
+  ruler: nit_sadakata_nitta

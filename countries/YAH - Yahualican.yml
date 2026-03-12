@@ -1,0 +1,13 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: amerindian_advanced_monarchy_not_nahuatl_no_coast
+  color: map_yahualican
+  color2: rgb { 220 196 203 }
+  heir_selection: cognatic_primogeniture
+  religion: chichimecah_religion
+  primary_culture: tonala_culture
+  capital: yahualican
+  exploration:
+    expl_mesoamerica: yes

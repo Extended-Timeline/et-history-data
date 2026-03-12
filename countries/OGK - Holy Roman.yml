@@ -1,0 +1,16 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: catholic_monarchy_not_present german_principality_not_present
+  government: catholic_monarchy_not_present
+  color: rgb { 150 177 161 }
+  government_rank: rank_empire
+  heir_selection: cognatic_primogeniture
+  religion: catholic
+  primary_culture: lower_saxon
+  court_language: low_german_dialect
+  capital: aachen
+  exploration:
+    expl_western_europe: yes
+    expl_northern_europe: yes

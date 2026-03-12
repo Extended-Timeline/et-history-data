@@ -1,0 +1,25 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: amerindian_advanced_monarchy_no_coast
+  color: map_tenochca
+  color2: rgb { 16 41 202 }
+  heir_selection: cognatic_primogeniture
+  privileges:
+    peasant_owns_their_food: yes
+    peasants_allowed_weapons_privilege: yes
+    warrior_tribunal: yes
+  religion: nahuatl
+  primary_culture: nahua_culture
+  court_language: nahuatl_language
+  capital: tenochtitlan
+  exploration:
+    expl_mesoamerica: yes
+  centralization_vs_decentralization: 100
+  spiritualist_vs_humanist: -75
+  offensive_vs_defensive: -50
+  land_vs_naval: -100
+  quality_vs_quantity: -10
+  belligerent_vs_conciliatory: -100
+  outward_vs_inward: -60

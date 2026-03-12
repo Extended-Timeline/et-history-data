@@ -1,0 +1,19 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: indonesia_monarchy_no_mandala_no_coast
+  color: map_LGE
+  color2: rgb { 16 41 202 }
+  heir_selection: cognatic_primogeniture
+  laws:
+    legal_code_law: yes
+    sharia_law: yes
+  religion: sunni
+  religious_school: shafii_school
+  primary_culture: gayo_culture
+  capital: linge
+  exploration:
+    expl_china: yes
+    expl_indonesia: yes
+    expl_indonesia_muslim: yes

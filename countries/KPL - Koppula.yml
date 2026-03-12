@@ -1,0 +1,15 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: indian_hindu_monarchy
+  color: map_koppula
+  color2: map_koppula_2
+  reforms:
+    nayankara_system: yes
+  religion: hindu
+  primary_culture: telugu
+  capital: pithapuram
+  exploration:
+    expl_india_hindu: yes
+  land_vs_naval: 50

@@ -1,0 +1,14 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: catholic_bishopric eastern_european_catholic
+  government: catholic_bishopric
+  color: rgb { 96 131 199 }
+  religion: catholic
+  primary_culture: prussian
+  capital: lidzbark
+  tolerated_cultures:
+    pruthenian: yes
+  exploration:
+    expl_northern_europe: yes

@@ -1,0 +1,41 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: south_east_asia_monarchy_no_mandala_no_coast
+  color: map_MMA
+  color2: rgb { 16 41 202 }
+  religion: satsana_phi
+  primary_culture: tai_nua_culture
+  capital: luchuan_mangshi
+
+#imported from EU4
+2.1.1:
+  government: asia_tribe
+  #color: rgb { 27  109  107 }
+  religion: satsana_phi
+  primary_culture: khon_muang_culture
+  capital: tengchong
+880.1.1:
+  primary_culture: tai_lu_culture
+1200.1.1:
+  religion: theravada
+1340.1.1:
+  government: south_east_asia_monarchy
+  ruler: mma_kefa_si
+1371.1.1:
+  ruler: mma_bingfa_zhao
+1379.1.1:
+  ruler: mma_bian_tai
+1380.1.1:
+  ruler: mma_xiaofa_zhang
+1381.1.1:
+  ruler: mma_wafa_si
+1382.1.1:
+  ruler: mma_lungfa_si
+1404.1.1:
+  ruler: mma_xingfa_si
+1413.1.1:
+  ruler: mma_renfa_si
+1446.1.1:
+  ruler: mma_jifa_si

@@ -1,0 +1,14 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: russian_principality_no_coast_not_present
+  color: { 75 265 81 }
+  government_rank: rank_kingdom
+  heir_selection: cognatic_primogeniture
+  religion: orthodox
+  primary_culture: muscovite
+  liturgical_language: church_slavonic_language
+  capital: kolomna
+  exploration:
+    expl_novgorod: yes

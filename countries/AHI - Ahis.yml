@@ -1,0 +1,32 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: muslim_republic
+  color: map_ahiler
+  color2: rgb { 241 198 188 }
+  heir_selection: oligarchic_elective
+  reforms:
+    anatolian_beylik: yes
+  religion: shia
+  religious_school: alevism_school
+  primary_culture: turkish_culture
+  capital: ankara
+  exploration:
+    expl_eastern_europe: yes
+    expl_muslim_mediterranean: yes
+
+#imported from EU4
+2.1.1:
+  government: muslim_republic
+  #color: rgb { 220  146  50 }
+  government_rank: rank_duchy
+  religion: sunni
+  primary_culture: turkish_culture
+  capital: ankara
+1290.1.1:
+  ruler: ahi_husamettin_huseyin
+1296.1.1:
+  ruler: ahi_serafettin_mehmed
+1332.1.1:
+  ruler: ahi_huseyin

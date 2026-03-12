@@ -1,0 +1,27 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: subsaharan_advanced_muslim_tribe_no_censor
+  color: map_harla
+  color2: yellow
+  heir_selection: tribal_matrilineal
+  laws:
+    sharia_law: yes
+  religion: sunni
+  religious_school: shafii_school
+  primary_culture: harla_culture
+  capital: harar
+  exploration:
+    expl_horn_of_africa: yes
+
+#imported from EU4
+2.1.1:
+  government: subsaharan_tribe
+  #color: rgb { 145  55  5 }
+  religion: bantu_religion
+  primary_culture: harla_culture
+  capital: harar
+900.1.1:
+  government: muslim_monarchy
+  religion: sunni

@@ -1,0 +1,16 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: muslim_tribe
+  color: map_FAL
+  color2: rgb { 16 41 202 }
+  heir_selection: tribal_oldest_male
+  religion: sunni
+  religious_school: maturidi_school
+  primary_culture: farsi_culture
+  capital: siraf
+  exploration:
+    expl_middle_east: yes
+  dynasties:
+    fali_dynasty: yes

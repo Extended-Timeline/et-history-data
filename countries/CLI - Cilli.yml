@@ -1,0 +1,37 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: catholic_monarchy_no_coast german_principality
+  government: catholic_monarchy_no_coast
+  color: map_slovene
+  color2: rgb { 159 174 96 }
+  government_rank: rank_county
+  laws:
+    mining_law: yes
+  religion: catholic
+  primary_culture: slovene
+  capital: celje
+  exploration:
+    expl_mediterranean: yes
+
+#imported from EU4
+2.1.1:
+  government: eastern_european_catholic_monarchy
+  #color: rgb { 159 174 96 }
+  government_rank: rank_duchy
+  religion: catholic
+  primary_culture: slovene
+  capital: celje
+1331.1.1:
+  ruler: cli_ulrik_i_von_cilli
+1368.1.1:
+  ruler: cli_herman_i_von_cilli
+1385.3.21:
+  ruler: cli_viljem_i_von_cilli
+1392.8.19:
+  ruler: cli_herman_ii_von_cilli
+1435.10.13:
+  ruler: cli_friderik_ii_von_cilli
+1454.6.13:
+  ruler: cli_ulrik_ii_von_cilli

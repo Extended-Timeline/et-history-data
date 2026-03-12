@@ -1,0 +1,16 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: muslim_tribe_no_coast
+  color: map_cemisgezek
+  color2: rgb { 14 147 220 }
+  heir_selection: tribal_oldest_male
+  religion: sunni
+  religious_school: maturidi_school
+  primary_culture: kurdish_culture
+  capital: cemisgezek
+  exploration:
+    expl_middle_east: yes
+  dynasties:
+    malkishi_dynasty: yes

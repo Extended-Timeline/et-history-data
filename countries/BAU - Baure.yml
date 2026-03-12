@@ -1,0 +1,12 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: pop
+  government: andean_tribe_pops
+  color: map_baure
+  color2: rgb { 16 41 202 }
+  religion: zemi_religion
+  primary_culture: baure_culture
+  exploration:
+    chaco_region: yes
+    brazil_region: yes

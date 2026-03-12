@@ -1,0 +1,43 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: subsaharan_monarchy_no_coast
+  color: map_zimbabwe
+  color2: black
+  government_rank: rank_kingdom
+  heir_selection: cognatic_primogeniture
+  reforms:
+    zimbabwe_royal_cattle_control: yes
+  laws:
+    royal_court_customs_law: yes
+    cultural_traditions_law: yes
+    education_masses_law: yes
+    mining_law: yes
+    precious_metal_distribution_law: yes
+  religion: bantu_religion
+  primary_culture: shona_culture
+  capital: great_zimbabwe
+  exploration:
+    expl_east_africa_no_coast: yes
+  centralization_vs_decentralization: -40
+
+#imported from EU4
+2.1.1:
+  government: subsaharan_tribe
+  #color: rgb { 146  134  78 }
+  religion: bantu_religion
+  primary_culture: shona_culture
+  capital: great_zimbabwe
+1910.1.1:
+  religion: secularism
+1950.1.1:
+  government: et_modern_republic
+1965.11.11:
+  capital: matanda_aChiwawa
+1980.4.18:
+  ruler: zmw_canaan_banana
+1987.12.31:
+  ruler: zmw_robert_mugabe
+2017.11.24:
+  ruler: zmw_emmerson_mnangagwa

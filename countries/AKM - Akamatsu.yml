@@ -1,0 +1,50 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: building
+  government: japanese_clan
+  color: map_AKM
+  color2: rgb { 16 41 202 }
+  government_rank: rank_county
+  reforms:
+    japanese_clan: yes
+  religion: shinto
+  primary_culture: saigoku_culture
+  capital: akou
+  variables:
+    supports_northern_court:
+      type:boolean
+      identity:1
+
+#imported from EU4
+2.1.1:
+  government: japanese_clan
+  #color: rgb { 137  195   235 }
+  government_rank: rank_duchy
+  religion: shinto
+  primary_culture: saigoku_culture
+  capital: akashi
+1192.7.12:
+  ruler: akm_norikage_akamatsu
+1230.1.1:
+  ruler: akm_ienori_akamatsu
+1260.1.1:
+  ruler: akm_hisanori_akamatsu
+1290.1.1:
+  ruler: akm_shigenori_akamatsu
+1320.1.1:
+  ruler: akm_norimura_akamatsu
+1350.2.18:
+  ruler: akm_norisuke_akamatsu
+1372.11.13:
+  ruler: akm_yoshinori_akamatsu
+1427.10.11:
+  ruler: akm_mitsusuke_akamatsu
+1458.1.1:
+  ruler: akm_masanori_akamatsu
+1496.6.6:
+  ruler: akm_yoshimura_akamatsu
+1521.10.7:
+  ruler: akm_harumasa_akamatsu
+1558.1.1:
+  ruler: akm_yoshisuke_akamatsu

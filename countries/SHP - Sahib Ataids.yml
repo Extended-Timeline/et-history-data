@@ -1,0 +1,16 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: turkish_beylik_no_coast
+  color: map_sahipataids
+  color2: rgb { 193 183 202 }
+  privileges:
+    dhimmi_abrahamic_communities: yes
+  religion: sunni
+  religious_school: maturidi_school
+  primary_culture: turkish_culture
+  capital: karahisar_i_sahib
+  exploration:
+    expl_eastern_europe: yes
+    expl_muslim_mediterranean: yes

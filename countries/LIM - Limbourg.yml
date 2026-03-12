@@ -1,0 +1,44 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: catholic_monarchy_no_coast german_principality
+  government: catholic_monarchy_no_coast
+  color: rgb { 180 110 110 }
+  government_rank: rank_duchy
+  religion: catholic
+  primary_culture: walloon
+  capital: limbourg
+  exploration:
+    expl_western_europe: yes
+  dynasties:
+    reginar_dynasty: yes
+  aristocracy_vs_plutocracy: -20
+  capital_economy_vs_traditional_economy: -10
+  land_vs_naval: -20
+
+#imported from EU4
+2.1.1:
+  government: catholic_monarchy
+  #color: rgb { 198  163  163 }
+  religion: catholic
+  primary_culture: flemish
+  capital: maastricht
+1065.1.1:
+  ruler: lim_waleran_i_dardenne
+1082.6.1:
+  ruler: lim_henry_i_dardenne
+1119.6.1:
+  ruler: lim_waleran_ii_dardenne
+1139.6.1:
+  ruler: lim_henry_ii_dardenne
+1170.6.1:
+  ruler: lim_henry_iii_dardenne
+1221.6.1:
+  ruler: lim_waleran_iii_dardenne
+1226.1.1:
+  ruler: lim_henry_iv_dardenne
+1247.2.25:
+  ruler: lim_waleran_iv_dardenne
+1279.1.1:
+  ruler: lim_ermengarde_dardenne

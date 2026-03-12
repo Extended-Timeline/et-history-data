@@ -1,0 +1,22 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: pop
+  government: asia_tribe
+  color: map_nivkh
+  color2: rgb { 16 41 202 }
+  religion: tungusic_shamanism
+  primary_culture: nivkh_culture
+  exploration:
+    expl_manchurian_tribe: yes
+
+#imported from EU4
+2.1.1:
+  government: eurasian_tribe
+  #color: rgb { 105  226  233 }
+  government_rank: rank_duchy
+  religion: mari_paganism
+  primary_culture: nivkh_culture
+  capital: kitakamikawa
+1000.1.1:
+  capital: deren

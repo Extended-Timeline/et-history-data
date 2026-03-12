@@ -1,0 +1,39 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: catholic_monarchy
+  color: map_cephalonian
+  color2: rgb { 41 188 84 }
+  heir_selection: cognatic_primogeniture
+  religion: catholic
+  primary_culture: french
+  court_language: french_language
+  capital: cephalonia
+  exploration:
+    expl_mediterranean: yes
+    expl_silk_road_west: yes
+    expl_silk_road_center: yes
+    expl_silk_road_east: yes
+    expl_indian_trade_route: yes
+  dynasties:
+    anjou_dynasty: yes
+
+#imported from EU4
+2.1.1:
+  government: catholic_monarchy
+  #color: rgb { 211  172  185 }
+  government_rank: rank_duchy
+  religion: catholic
+  primary_culture: lombard
+  capital: corfu
+1381.1.1:
+  ruler: cep_carlos_i_dagout
+1418.1.1:
+  ruler: cep_leonardo_ii_dagout_1
+1429.1.1:
+  ruler: cep_carlos_ii_dagout
+1448.1.1:
+  ruler: cep_leonardo_ii_dagout_2
+1799.3.1:
+  ruler: cep_national_assembly

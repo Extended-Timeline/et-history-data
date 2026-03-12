@@ -1,0 +1,35 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: turkish_beylik_no_mining
+  color: map_mentese
+  color2: rgb { 108 48 130 }
+  privileges:
+    sponsor_maritime_contracts: yes
+    dhimmi_abrahamic_communities: yes
+  religion: sunni
+  religious_school: mevlevi_school
+  primary_culture: turkish_culture
+  capital: milas
+  exploration:
+    expl_eastern_europe: yes
+    expl_muslim_mediterranean: yes
+  land_vs_naval: 40
+
+#imported from EU4
+2.1.1:
+  government: turkish_beylik
+  #color: rgb { 108 48 130 }
+  government_rank: rank_duchy
+  religion: sunni
+  primary_culture: turkish_culture
+  capital: mugla
+1260.1.1:
+  ruler: men_mentes_i_mentesoglu
+1282.1.1:
+  ruler: men_mesud_i_mentesoglu
+1340.1.1:
+  ruler: men_ahmet_ghazi_mentesoglu
+1399.1.1:
+  ruler: men_ilyas_i_mentesoglu

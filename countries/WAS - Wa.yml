@@ -1,0 +1,21 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: pop
+  government: asia_tribe
+  color: map_wa
+  color2: rgb { 16 41 202 }
+  religion: wa_religion
+  primary_culture: wa_culture
+  exploration:
+    expl_china: yes
+
+#imported from EU4
+2.1.1:
+  government: asia_tribe
+  #color: rgb { 9  53  120 }
+  religion: bimoism
+  primary_culture: wa_culture
+  capital: kengtung
+650.1.1:
+  capital: kengtung

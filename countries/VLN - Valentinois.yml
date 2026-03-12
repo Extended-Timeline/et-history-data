@@ -1,0 +1,15 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: catholic_monarchy_no_coast
+  color: rgb { 107 142 246 }
+  government_rank: rank_county
+  heir_selection: cognatic_primogeniture
+  reforms:
+    french_ducal_vassal_reform: yes
+  religion: catholic
+  primary_culture: vivaro_alpine
+  capital: valence
+  exploration:
+    expl_western_europe: yes

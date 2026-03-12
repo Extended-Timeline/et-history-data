@@ -1,0 +1,25 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: amerindian_mesoamerican_tribe_not_nahuatl
+  color: map_chontal
+  color2: rgb { 16 41 202 }
+  religion: mayan
+  primary_culture: chontal_culture
+  court_language: maya_language
+  capital: cupilco
+  exploration:
+    expl_mesoamerica: yes
+
+#imported from EU4
+2.1.1:
+  government: amerindian_mesoamerican_tribe_not_nahuatl
+  #color: rgb { 64  106  191 }
+  religion: mayan
+  primary_culture: chontal_culture
+  capital: coatzacoalco
+900.1.1:
+  capital: xicallanco
+1435.1.1:
+  ruler: yok_oxib_yokotan

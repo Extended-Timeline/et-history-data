@@ -1,0 +1,33 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: muslim_monarchy_no_abrahamic_dhimmi
+  color: map_ASR
+  color2: rgb { 16 41 202 }
+  heir_selection: cognatic_primogeniture
+  laws:
+    sharia_law: yes
+  religion: shia
+  religious_school: ismaili_school
+  primary_culture: mazanderani_culture
+  capital: astarabad
+  exploration:
+    expl_middle_east: yes
+
+#imported from EU4
+2.1.1:
+  government: muslim_monarchy
+  #color: rgb { 170  210  170 }
+  religion: shia
+  primary_culture: mongolian_culture
+  capital: gorgan
+1335.1.1:
+  ruler: asr_togha_temur_borjigin
+1353.12.1:
+  ruler: asr_amir_vali_astarabadi
+  primary_culture: mazanderani_culture
+1367.1.1:
+  capital: semnan
+1374.1.1:
+  capital: gorgan

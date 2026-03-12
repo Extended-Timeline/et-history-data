@@ -1,0 +1,19 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: building
+  government: japanese_clan
+  color: map_YMG
+  color2: rgb { 16 41 202 }
+  government_rank: rank_county
+  reforms:
+    japanese_clan: yes
+  religion: shinto
+  primary_culture: tougoku_culture
+  capital: toshima_kanto
+  dynasties:
+    yamaguchi_dynasty: yes
+  variables:
+    supports_southern_court:
+      type:boolean
+      identity:1

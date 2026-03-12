@@ -1,0 +1,48 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: location
+  government: eurasian_horde_not_present
+  color: map_ATR
+  color2: rgb { 61 8 81 }
+  government_rank: rank_duchy
+  laws:
+    legal_code_law: yes
+    sharia_law: yes
+    marriage_law: yes
+    heir_religion_law: yes
+  religion: sunni
+  religious_school: hanafi_school
+  primary_culture: astrakhani
+  capital: astrakhan
+  exploration:
+    expl_mongols: yes
+  mysticism_vs_jurisprudence: -15
+
+#imported from EU4
+2.1.1:
+  government: eurasian_horde
+  #color: rgb { 26  27  154 }
+  religion: sunni
+  primary_culture: astrakhani
+  capital: astrakhan
+1459.1.1:
+  ruler: astr_mahmud_genghisid
+1465.1.1:
+  ruler: astr_qasim_i_genghisid_1
+1490.1.1:
+  ruler: astr_abd_al_karim_genghisid
+1504.1.1:
+  ruler: astr_qasim_ii_genghisid_1
+1532.1.1:
+  ruler: astr_aq_kobek_genghisid
+1534.1.1:
+  ruler: astr_abd_ar_rahman_genghisid
+1538.1.1:
+  ruler: astr_shaykh_haydar_genghisid
+1541.1.1:
+  ruler: astr_aq_kobek_genghisid_1
+1544.1.1:
+  ruler: astr_yaghmurchi_genghisid
+1554.1.1:
+  ruler: astr_darwish_ali_genghisid

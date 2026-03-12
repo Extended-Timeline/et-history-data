@@ -1,0 +1,52 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: muslim_monarchy_no_abrahamic_dhimmi_no_coast
+  color: map_QOM
+  color2: rgb { 16 41 202 }
+  heir_selection: cognatic_primogeniture
+  laws:
+    sharia_law: yes
+  religion: sunni
+  religious_school: shafii_school
+  primary_culture: farsi_culture
+  capital: qom
+  exploration:
+    expl_middle_east: yes
+
+#imported from EU4
+2.1.1:
+  government: muslim_monarchy
+  #color: rgb { 107 107 225 }
+  government_rank: rank_duchy
+  religion: sunni
+  primary_culture: farsi_culture
+  capital: rey
+800.1.1:
+  ruler: qom_abu_dulaf_dulafid
+840.1.1:
+  ruler: qom_abd_al_aziz_dulafid
+874.1.1:
+  ruler: qom_dulaf_dulafid
+879.1.1:
+  ruler: qom_ahmad_dulafid
+893.1.1:
+  ruler: qom_umar_dulafid
+896.1.1:
+  ruler: qom_abu_layla_dulafid
+935.1.1:
+  ruler: qom_hasan_buyid
+  religion: shia
+  capital: golpayegan
+976.9.1:
+  ruler: qom_abul_hasan_ali_buyid
+977.1.1:
+  ruler: qom_abu_mansur_buyid
+997.11.1:
+  ruler: qom_abu_taleb_buyid
+1442.1.1:
+  ruler: qom_muhammad_bin_baysonqor_timurid
+  religion: sunni
+1451.1.1:
+  religion: shia

@@ -1,0 +1,29 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: amerindian_advanced_republic_not_nahuatl_no_coast
+  color: map_tlaxcallan
+  color2: rgb { 16 41 202 }
+  heir_selection: oligarchic_elective
+  religion: nahuatl
+  primary_culture: tlaxcaltec_culture
+  capital: tizatlan
+  exploration:
+    mesoamerica_region: yes
+    aridoamerica_region: yes
+    expl_mesoamerica: yes
+
+#imported from EU4
+2.1.1:
+  government: amerindian_advanced_monarchy
+  #color: rgb { 148  149  21 }
+  religion: nahuatl
+  primary_culture: nahua_culture
+  capital: tizatlan
+1440.1.1:
+  ruler: tlx_aztahua_tizatlan
+1470.1.1:
+  ruler: tlx_xayacamach_tizatlan_1
+1490.1.1:
+  ruler: tlx_xicotencatl_tizatlan_1

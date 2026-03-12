@@ -1,0 +1,18 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: catholic_monarchy_no_coast german_principality swiss_monarchy
+  government: catholic_monarchy_no_coast
+  color: rgb { 51 191 102 }
+  government_rank: rank_county
+  laws:
+    mining_law: yes
+  religion: catholic
+  primary_culture: franc_comtois
+  capital: neuchatel
+  exploration:
+    expl_western_europe: yes
+    expl_northern_europe: yes
+  dynasties:
+    neuchatel_dynasty: yes

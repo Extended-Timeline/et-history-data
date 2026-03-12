@@ -1,0 +1,28 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: subsaharan_muslim_monarchy_not_present
+  color: map_dawaro
+  color2: beige
+  heir_selection: cognatic_primogeniture
+  laws:
+    sharia_law: yes
+  religion: sunni
+  religious_school: shafii_school
+  primary_culture: harla_culture
+  capital: sheikh_hussein
+  exploration:
+    expl_horn_of_africa: yes
+
+#imported from EU4
+2.1.1:
+  government: subsaharan_muslim_monarchy
+  #color: rgb { 120  137  98 }
+  religion: sunni
+  primary_culture: harla_culture
+  capital: bale
+1185.1.1:
+  ruler: daw_ali_madahweyne_dir_dawaro
+1270.1.1:
+  ruler: daw_haydar_dawaro

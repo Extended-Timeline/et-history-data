@@ -1,0 +1,24 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: amerindian_advanced_monarchy_not_nahuatl_no_coast
+  color: map_tlapanec
+  color2: rgb { 16 41 202 }
+  heir_selection: cognatic_primogeniture
+  religion: mesoamerican
+  primary_culture: mephaa_culture
+  court_language: otopamean_language
+  capital: tixtla
+  exploration:
+    expl_mesoamerica: yes
+
+#imported from EU4
+2.1.1:
+  government: amerindian_mesoamerican_tribe_not_nahuatl
+  #color: rgb { 58  118  120 }
+  religion: nahuatl
+  primary_culture: mephaa_culture
+  capital: tlapan
+1440.1.1:
+  ruler: tla_jituh_znia

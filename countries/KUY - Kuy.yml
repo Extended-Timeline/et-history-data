@@ -1,0 +1,21 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: pop
+  government: asia_tribe
+  color: map_kuy
+  color2: rgb { 16 41 202 }
+  religion: satsana_phi
+  primary_culture: kuy_culture
+  capital: khorat
+  exploration:
+    expl_china: yes
+
+#imported from EU4
+2.1.1:
+  government: asia_tribe
+  #color: rgb { 90  126  198 }
+  government_rank: rank_duchy
+  religion: bimoism
+  primary_culture: bru_culture
+  capital: champasak

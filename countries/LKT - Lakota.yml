@@ -1,0 +1,11 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: pop
+  government: amerindian_tribe
+  color: map_lahkota
+  color2: rgb { 71 39 141 }
+  religion: great_plains_shamanism
+  primary_culture: lahkota_culture
+  exploration:
+    expl_northwestern_america: yes

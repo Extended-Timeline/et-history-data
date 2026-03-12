@@ -1,0 +1,13 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: muslim_monarchy_no_abrahamic_dhimmi_no_coast
+  color: rgb { 111 230 111 }
+  heir_selection: cognatic_primogeniture
+  religion: sunni
+  religious_school: hanafi_school
+  primary_culture: bedouin_culture
+  capital: qutayfah
+  exploration:
+    expl_middle_east: yes

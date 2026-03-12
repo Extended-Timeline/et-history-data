@@ -1,0 +1,18 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: turkish_beylik
+  color: map_karasids
+  color2: rgb { 212 225 156 }
+  privileges:
+    sponsor_maritime_contracts: yes
+    dhimmi_abrahamic_communities: yes
+  religion: sunni
+  religious_school: maturidi_school
+  primary_culture: turkish_culture
+  capital: balikesir
+  exploration:
+    expl_eastern_europe: yes
+    expl_muslim_mediterranean: yes
+  land_vs_naval: 40

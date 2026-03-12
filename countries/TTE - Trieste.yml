@@ -1,0 +1,32 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: catholic_republic
+  color: rgb { 100 40 50 }
+  heir_selection: podesta_elective
+  reforms:
+    signoria_reform: yes
+  religion: catholic
+  primary_culture: venetian
+  capital: trieste
+  exploration:
+    expl_mediterranean: yes
+    expl_silk_road_west: yes
+    expl_silk_road_center: yes
+    expl_silk_road_east: yes
+    expl_indian_trade_route: yes
+
+#imported from EU4
+2.1.1:
+  government: et_hellenic_monarchy
+  #color: rgb { 154  30  84 }
+  religion: hellenism_religion
+  primary_culture: venetian
+  capital: trieste
+400.1.1:
+  religion: chalcedonism
+500.1.1:
+  government: catholic_republic
+867.1.1:
+  religion: catholic

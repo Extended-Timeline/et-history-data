@@ -1,0 +1,95 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: catholic_monarchy_not_present
+  color: map_CAT
+  color2: rgb { 16 41 202 }
+  government_rank: rank_duchy
+  religion: catholic
+  primary_culture: catalan
+  capital: barcelona
+  exploration:
+    expl_mediterranean: yes
+    expl_silk_road_west: yes
+    expl_silk_road_center: yes
+    expl_silk_road_east: yes
+    expl_indian_trade_route: yes
+
+#imported from EU4
+1:
+  government: iberian_monarchy
+  #color: rgb { 213  132  76 }
+  government_rank: rank_duchy
+  religion: chalcedonism
+  primary_culture: catalan
+  capital: barcelona
+801:
+  ruler: cat_bera_i_de_barcelona
+  regnal_number: 1
+820:
+  ruler: cat_rampo_i_de_barcelona
+  regnal_number: 1
+826:
+  ruler: cat_bernat_i_de_barcelona
+  regnal_number: 1
+832:
+  ruler: cat_berengar_the_wise
+  regnal_number: 1
+836:
+  ruler: cat_bernat_i_de_barcelona
+  regnal_number: 1
+844:
+  ruler: cat_sunifred_i_de_barcelona
+  regnal_number: 1
+848:
+  ruler: cat_guillem_i_de_barcelona
+  regnal_number: 1
+850:
+  ruler: cat_aleran_i_de_barcelona
+  regnal_number: 1
+852:
+  ruler: cat_odalric_i_de_barcelona
+  regnal_number: 1
+858:
+  ruler: cat_humfrid_i_de_barcelona
+  regnal_number: 1
+865:
+  ruler: cat_bernat_ii_de_barcelona
+  regnal_number: 2
+867:
+  religion: catholic
+878:
+  ruler: cat_guifre_i_barcelona
+  regnal_number: 1
+897.8.11:
+  ruler: cat_guifre_ii_borrell_barcelona
+  regnal_number: 2
+911.4.26:
+  ruler: cat_sunyer_barcelona
+  regnal_number: 1
+947:
+  ruler: cat_borrell_ii_barcelona
+  regnal_number: 2
+992.9.30:
+  ruler: cat_ramon_borrell_barcelona
+  regnal_number: 1
+1017.9.8:
+  ruler: cat_berenguer_ramon_i_barcelona
+  regnal_number: 1
+1035.5.26:
+  ruler: cat_ramon_berenguer_i_barcelona
+  regnal_number: 1
+1076.5.26:
+  ruler: cat_ramon_berenguer_ii_barcelona
+  regnal_number: 2
+1082.12.6:
+  ruler: cat_berenguer_ramon_ii_barcelona
+  regnal_number: 2
+1097:
+  ruler: cat_ramon_berenguer_iii_barcelona
+  regnal_number: 3
+1131.7.19:
+  ruler: cat_ramon_berenguer_iv_barcelona
+  regnal_number: 4
+#1162.8.6 Merged with Aragon

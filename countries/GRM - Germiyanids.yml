@@ -1,0 +1,31 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: turkish_beylik_no_coast
+  color: map_germiyanids
+  color2: rgb { 200 8 21 }
+  privileges:
+    dhimmi_abrahamic_communities: yes
+  religion: sunni
+  religious_school: mevlevi_school
+  primary_culture: turkish_culture
+  capital: kutahya
+  exploration:
+    expl_eastern_europe: yes
+    expl_muslim_mediterranean: yes
+
+#imported from EU4
+2.1.1:
+  government: turkish_beylik
+  #color: rgb { 200 8 21 }
+  government_rank: rank_duchy
+  religion: sunni
+  primary_culture: turkish_culture
+  capital: kutahya
+1300.1.1:
+  ruler: grm_yakub_i_germiyanid
+1388.1.1:
+  ruler: grm_yakub_ii_germiyanid
+1402.8.1:
+  ruler: grm_yakub_ii_germiyan

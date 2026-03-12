@@ -1,0 +1,26 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: building
+  government: japanese_clan
+  color: map_MMI
+  color2: rgb { 16 41 202 }
+  government_rank: rank_county
+  reforms:
+    japanese_clan: yes
+  religion: shinto
+  primary_culture: saigoku_culture
+  capital: niikawa
+  variables:
+    supports_northern_court:
+      type:boolean
+      identity:1
+
+#imported from EU4
+2.1.1:
+  government: american_east_coast_tribe
+  #color: rgb { 110 124 156 }
+  government_rank: rank_duchy
+  religion: iroquoian_totemism
+  primary_culture: cahokia_culture
+  capital: mississinewa

@@ -1,0 +1,27 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: catholic_monarchy_english_lordship
+  color: map_PLE
+  color2: rgb { 0 0 100 }
+  heir_selection: cognatic_primogeniture
+  reforms:
+    magna_carta_reform: yes
+  privileges:
+    noble_fortification_licenses: yes
+  laws:
+    distribution_of_power_law: yes
+    language_of_pleading: yes
+    medieval_levy_law: yes
+    feudal_de_jure_law: yes
+  religion: catholic
+  primary_culture: english
+  capital: dublin
+  tolerated_cultures:
+    irish: yes
+  accepted_cultures:
+    anglo_irish: yes
+  parliament_type: estate_parliament
+  quality_vs_quantity: 25
+  offensive_vs_defensive: 75

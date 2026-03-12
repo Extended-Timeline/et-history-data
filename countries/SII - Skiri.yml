@@ -1,0 +1,14 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: pop
+  government: amerindian_tribe
+  color: map_skiri
+  color2: rgb { 34 171 29 }
+  religion: great_plains_shamanism
+  primary_culture: skiri_culture
+  exploration:
+    canada_region: yes
+    great_plains_region: yes
+    east_coast_region: yes
+    expl_mesoamerica: yes

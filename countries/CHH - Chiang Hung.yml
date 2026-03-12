@@ -1,0 +1,28 @@
+#Imported from vanilla EU5
+#No date data in EU5, TODO: Set each of these to happen at an appropriate date!
+1:
+  type: default
+  government: south_east_asia_monarchy_no_mandala_no_coast
+  color: map_CHH
+  color2: rgb { 16 41 202 }
+  religion: satsana_phi
+  primary_culture: tai_lu_culture
+  capital: jinglong
+
+#imported from EU4
+2.1.1:
+  government: asia_tribe
+  #color: rgb { 20  176  78 }
+  religion: satsana_phi
+  primary_culture: khon_muang_culture
+  capital: jinglong
+880.1.1:
+  primary_culture: tai_lu_culture
+1180.1.1:
+  religion: theravada
+1192.1.1:
+  ruler: chh_khai_loeung_lavachakaraj
+1230.1.1:
+  ruler: chh_inmueng_lavachakaraj
+1280.1.1:
+  ruler: chh_thao_ai_lavachakaraj

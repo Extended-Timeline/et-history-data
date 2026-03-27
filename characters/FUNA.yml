@@ -6,7 +6,7 @@ funa_som_somvong:
     adm: 45
     dip: 30
     mil: 60
-    religion: hindu
+    religion: satsana_phi
     culture: khmer_culture
     tag: FUNA
   68.1.1:
@@ -20,29 +20,35 @@ funa_soma_somvong:
     adm: 60
     dip: 45
     mil: 30
-    religion: hindu
+    religion: satsana_phi
     culture: khmer_culture
     tag: FUNA
+  68.1.1:
+    religion: hindu
+    spouse: funa_varman_i_varman
+    dynasty: varman_dynasty
   120.1.1:
     death: yes
-funa_kaundinya_i_kaundinya:
+funa_varman_i_varman:
   50.1.1:
     birth: vyadhapura #TODO: Date and location guessed, check if better data is available
     first_name: kaundinya
-    dynasty: kaundinya_dynasty
+    dynasty: varman_dynasty
     adm: 45
     dip: 60
     mil: 45
     religion: hindu
     culture: khmer_culture
     tag: FUNA
+  68.1.1:
+    spouse: funa_soma_somvong
   130.1.1:
     death: yes
-funa_hunpanhuang_kaundinya:
+funa_hunpanhuang_varman:
   100.1.1:
     birth: vyadhapura #TODO: Date and location guessed, check if better data is available
     first_name: hunpanhuang
-    dynasty: kaundinya_dynasty
+    dynasty: varman_dynasty
     adm: 60
     dip: 60
     mil: 45
@@ -51,11 +57,11 @@ funa_hunpanhuang_kaundinya:
     tag: FUNA
   170.1.1:
     death: yes
-funa_panpan_kaundinya:
+funa_panpan_varman:
   140.1.1:
     birth: vyadhapura #TODO: Date and location guessed, check if better data is available
     first_name: panpan
-    dynasty: kaundinya_dynasty
+    dynasty: varman_dynasty
     adm: 90
     dip: 60
     mil: 60
@@ -64,11 +70,11 @@ funa_panpan_kaundinya:
     tag: FUNA
   201.1.1:
     death: yes
-funa_srei_meara_kaundinya:
+funa_srei_meara_varman:
   171.1.1:
     birth: vyadhapura #TODO: Date and location guessed, check if better data is available
     first_name: srei_meara
-    dynasty: kaundinya_dynasty
+    dynasty: varman_dynasty
     adm: 60
     dip: 30
     mil: 45
@@ -77,11 +83,11 @@ funa_srei_meara_kaundinya:
     tag: FUNA
   225.1.1:
     death: yes
-funa_fan_jinsheng_kaundinya:
+funa_fan_jinsheng_varman:
   195.1.1:
     birth: vyadhapura #TODO: Date and location guessed, check if better data is available
     first_name: fan_jinsheng
-    dynasty: kaundinya_dynasty
+    dynasty: varman_dynasty
     adm: 30
     dip: 60
     mil: 30
@@ -90,11 +96,11 @@ funa_fan_jinsheng_kaundinya:
     tag: FUNA
   235.1.1:
     death: yes
-funa_fan_zhan_kaundinya:
+funa_fan_zhan_varman:
   205.1.1:
     birth: vyadhapura #TODO: Date and location guessed, check if better data is available
     first_name: fan_zhan
-    dynasty: kaundinya_dynasty
+    dynasty: varman_dynasty
     adm: 60
     dip: 45
     mil: 30
@@ -103,11 +109,11 @@ funa_fan_zhan_kaundinya:
     tag: FUNA
   244.1.1:
     death: yes
-funa_fan_chang_kaundinya:
+funa_fan_chang_varman:
   214.1.1:
     birth: vyadhapura #TODO: Date and location guessed, check if better data is available
     first_name: fan_chang
-    dynasty: kaundinya_dynasty
+    dynasty: varman_dynasty
     adm: 15
     dip: 15
     mil: 15
@@ -116,11 +122,11 @@ funa_fan_chang_kaundinya:
     tag: FUNA
   248.1.1:
     death: yes
-funa_fan_xun_kaundinya:
+funa_fan_xun_varman:
   218.1.1:
     birth: vyadhapura #TODO: Date and location guessed, check if better data is available
     first_name: fan_xun
-    dynasty: kaundinya_dynasty
+    dynasty: varman_dynasty
     adm: 15
     dip: 30
     mil: 15
@@ -129,11 +135,11 @@ funa_fan_xun_kaundinya:
     tag: FUNA
   289.1.1:
     death: yes
-funa_viravarman_kaundinya:
+funa_viravarman_varman:
   259.1.1:
     birth: vyadhapura #TODO: Date and location guessed, check if better data is available
     first_name: viravarman
-    dynasty: kaundinya_dynasty
+    dynasty: varman_dynasty
     adm: 30
     dip: 30
     mil: 15
@@ -142,11 +148,11 @@ funa_viravarman_kaundinya:
     tag: FUNA
   340.1.1:
     death: yes
-funa_candana_kaundinya:
+funa_candana_varman:
   310.1.1:
     birth: vyadhapura #TODO: Date and location guessed, check if better data is available
     first_name: candana
-    dynasty: kaundinya_dynasty
+    dynasty: varman_dynasty
     adm: 15
     dip: 15
     mil: 15
@@ -155,11 +161,11 @@ funa_candana_kaundinya:
     tag: FUNA
   380.1.1:
     death: yes
-funa_indravarman_kaundinya:
+funa_indravarman_varman:
   350.1.1:
     birth: vyadhapura #TODO: Date and location guessed, check if better data is available
     first_name: indravarman
-    dynasty: kaundinya_dynasty
+    dynasty: varman_dynasty
     adm: 15
     dip: 15
     mil: 15
@@ -168,11 +174,11 @@ funa_indravarman_kaundinya:
     tag: FUNA
   400.1.1:
     death: yes
-funa_kaundinya_ii_kaundinya:
+funa_varman_ii_varman:
   370.1.1:
     birth: vyadhapura #TODO: Date and location guessed, check if better data is available
     first_name: kaundinya
-    dynasty: kaundinya_dynasty
+    dynasty: varman_dynasty
     adm: 15
     dip: 15
     mil: 15
@@ -181,11 +187,11 @@ funa_kaundinya_ii_kaundinya:
     tag: FUNA
   434.1.1:
     death: yes
-funa_sri_indravarman_kaundinya:
+funa_sri_indravarman_varman:
   404.1.1:
     birth: vyadhapura #TODO: Date and location guessed, check if better data is available
     first_name: sri_indravarman
-    dynasty: kaundinya_dynasty
+    dynasty: varman_dynasty
     adm: 15
     dip: 30
     mil: 15
@@ -194,11 +200,11 @@ funa_sri_indravarman_kaundinya:
     tag: FUNA
   445.1.1:
     death: yes
-funa_bhavavarman_kaundinya:
+funa_bhavavarman_varman:
   415.1.1:
     birth: vyadhapura #TODO: Date and location guessed, check if better data is available
     first_name: bhavavarman
-    dynasty: kaundinya_dynasty
+    dynasty: varman_dynasty
     adm: 30
     dip: 15
     mil: 30
@@ -207,11 +213,12 @@ funa_bhavavarman_kaundinya:
     tag: FUNA
   484.1.1:
     death: yes
-funa_jayavarman_kaundinya:
+funa_jayavarman_varman:
   454.1.1:
     birth: vyadhapura #TODO: Date and location guessed, check if better data is available
     first_name: jayavarman
-    dynasty: kaundinya_dynasty
+    dynasty: varman_dynasty
+    father: funa_varman_ii_varman
     adm: 30
     dip: 15
     mil: 15
@@ -220,11 +227,12 @@ funa_jayavarman_kaundinya:
     tag: FUNA
   514.1.1:
     death: yes
-funa_rudravarman_kaundinya:
+funa_rudravarman_varman:
   484.1.1:
     birth: vyadhapura #TODO: Date and location guessed, check if better data is available
     first_name: rudravarman
-    dynasty: kaundinya_dynasty
+    dynasty: varman_dynasty
+    father: funa_varman_ii_varman
     adm: 45
     dip: 15
     mil: 15
@@ -233,11 +241,11 @@ funa_rudravarman_kaundinya:
     tag: FUNA
   550.1.1:
     death: yes
-funa_pvirakvarman_kaundinya:
+funa_pvirakvarman_varman:
   520.1.1:
     birth: vyadhapura #TODO: Date and location guessed, check if better data is available
     first_name: pvirakvarman
-    dynasty: kaundinya_dynasty
+    dynasty: varman_dynasty
     adm: 15
     dip: 15
     mil: 15
@@ -246,11 +254,11 @@ funa_pvirakvarman_kaundinya:
     tag: FUNA
   600.1.1:
     death: yes
-funa_mhenteractvarman_kaundinya:
+funa_mhenteractvarman_varman:
   570.1.1:
     birth: vyadhapura #TODO: Date and location guessed, check if better data is available
     first_name: mhenteractvarman
-    dynasty: kaundinya_dynasty
+    dynasty: varman_dynasty
     adm: 15
     dip: 15
     mil: 15
@@ -259,11 +267,11 @@ funa_mhenteractvarman_kaundinya:
     tag: FUNA
   615.1.1:
     death: yes
-funa_nteractvarman_kaundinya:
+funa_nteractvarman_varman:
   585.1.1:
     birth: vyadhapura #TODO: Date and location guessed, check if better data is available
     first_name: nteractvarman
-    dynasty: kaundinya_dynasty
+    dynasty: varman_dynasty
     adm: 15
     dip: 15
     mil: 15

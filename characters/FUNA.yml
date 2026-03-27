@@ -25,11 +25,11 @@ funa_soma_somvong:
     tag: FUNA
   68.1.1:
     religion: hindu
-    spouse: funa_varman_i_varman
+    spouse: funa_kaundinya_i_varman
     dynasty: varman_dynasty
   120.1.1:
     death: yes
-funa_varman_i_varman:
+funa_kaundinya_i_varman:
   50.1.1:
     birth: vyadhapura #TODO: Date and location guessed, check if better data is available
     first_name: kaundinya
@@ -174,7 +174,7 @@ funa_indravarman_varman:
     tag: FUNA
   400.1.1:
     death: yes
-funa_varman_ii_varman:
+funa_kaundinya_ii_varman:
   370.1.1:
     birth: vyadhapura #TODO: Date and location guessed, check if better data is available
     first_name: kaundinya
@@ -218,7 +218,7 @@ funa_jayavarman_varman:
     birth: vyadhapura #TODO: Date and location guessed, check if better data is available
     first_name: jayavarman
     dynasty: varman_dynasty
-    father: funa_varman_ii_varman
+    father: funa_kaundinya_ii_varman
     adm: 30
     dip: 15
     mil: 15

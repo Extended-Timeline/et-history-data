@@ -139,3 +139,69 @@ chen_jayadevi_varman:
     tag: CHEN
   730.1.1:
     death: yes
+chen_sambhuvarman_i_varman:
+  680.1.1:
+    birth: ishanapura #TODO: Date and location guessed, check if better data is available
+    first_name: sambhuvarman
+    dynasty: varman_dynasty
+    adm: 30
+    dip: 30
+    mil: 30
+    religion: hindu
+    culture: khmer_culture
+    tag: CHEN
+  717.1.1:
+    death: yes
+chen_indraloka_varman:
+  680.1.1:
+    birth: ishanapura #TODO: Date and location guessed, check if better data is available
+    first_name: indraloka
+    dynasty: varman_dynasty
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: hindu
+    culture: khmer_culture
+    tag: CHEN
+  732.1.1:
+    death: yes
+chen_sambhuvarman_ii_varman:
+  705.1.1:
+    birth: ishanapura #TODO: Date and location guessed, check if better data is available
+    first_name: sambhuvarman
+    dynasty: varman_dynasty
+    father: chen_sambhuvarman_i_varman
+    adm: 45
+    dip: 45
+    mil: 45
+    religion: hindu
+    culture: khmer_culture
+    tag: CHEN
+  761.1.1:
+    death: yes
+chen_rajendravarman_i_varman:
+  730.1.1:
+    birth: ishanapura #TODO: Date and location guessed, check if better data is available
+    first_name: rajendravarman
+    dynasty: varman_dynasty
+    adm: 30
+    dip: 30
+    mil: 30
+    religion: hindu
+    culture: khmer_culture
+    tag: CHEN
+  792.1.1:
+    death: yes
+chen_mahipatavarman_varman:
+  730.1.1:
+    birth: ishanapura #TODO: Date and location guessed, check if better data is available
+    first_name: rajendravarman
+    dynasty: varman_dynasty
+    adm: 30
+    dip: 30
+    mil: 30
+    religion: hindu
+    culture: javanese_culture
+    tag: CHEN
+  792.1.1:
+    death: yes

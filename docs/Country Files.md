@@ -31,7 +31,7 @@ Country data is recorded in yml format as shown below. All countries have their 
   exploration:
     expl_mediterranean: yes
   dynasties:
-    add: sample_dynasty other_dynasty
+    sample_dynasty: yes
   estate_satisfaction:
     nobles_estate: 0.25
 1000:
@@ -107,7 +107,7 @@ Usually regnal numbers start from 1, but if the numbers can be set to start from
 | reforms | list of *reform: yes/no* | no | Sets the government reforms the country has |
 | privileges | list of *privilege: yes/no* | no | Sets the estate privileges the country has |
 | laws | list of *law type: law* | no | Sets the laws the country has |
-| dynasties | add/remove: list of dynasties | no | Sets the dynasties based in the country |
+| dynasties | list of *dynasty: yes/no* | no | Sets the dynasties based in the country |
 | estate_satisfaction | list of *estate: float* | no | Sets the satisfaction of each estate, ranges from 0 to 1? |
 | parliament_type | parliament type | no | Type of the parliament in the country, set to none when country has no parliament, defaults to none |
 | ai_preference_exploration | integer | no | Sets the preference the country's AI will have towards exploration, ranges from 0 to 5? |

@@ -29,21 +29,21 @@
     tribes_land_rights: yes
     tribes_pasture_access: yes
   laws:
-    medieval_levy_law: yes
-    censorship: yes
-    administrative_system: yes
-    marriage_law: yes
-    heir_religion_law: yes
-    legal_code_law: yes
-    maritime_law: yes
-    piracy_law: yes
-    distribution_of_power_law: yes
-    education_masses_law: yes
-    feudal_de_jure_law: yes
-    royal_court_customs_law: yes
-    cultural_traditions_law: yes
-    iqta_law: yes
-    sharia_law: yes
+    medieval_levy_law: noble_levies
+    censorship: strict_censorship
+    administrative_system: local_courts_administration
+    marriage_law: muslim_marriage
+    heir_religion_law: heir_same_religion
+    legal_code_law: sharia_law_policy
+    maritime_law: kilwan_merchant_navy
+    piracy_law: anti_piracy_policy
+    distribution_of_power_law: dop_favor_the_burghers
+    education_masses_law: basic_religious_education
+    feudal_de_jure_law: by_blood
+    royal_court_customs_law: court_of_culture_policy
+    cultural_traditions_law: martial_society
+    iqta_law: efficient_tax_farming
+    sharia_law: shafii_policy
   religion: sunni
   religious_school: shafii_school
   primary_culture: matuumbi_culture

@@ -9,10 +9,10 @@
   reforms:
     legacy_of_genghis: yes
   laws:
-    legal_code_law: yes
-    marriage_law: yes
-    heir_religion_law: yes
-    sharia_law: yes
+    legal_code_law: sharia_law_policy
+    marriage_law: muslim_marriage
+    heir_religion_law: heir_same_religion
+    sharia_law: jafari_policy
   religion: shia
   religious_school: jafari_school
   primary_culture: mongolian_culture

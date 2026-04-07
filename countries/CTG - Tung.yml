@@ -13,10 +13,10 @@
     nobles_land_rights: yes
     elaborate_court_ceremonies: yes
   laws:
-    medieval_levy_law: yes
-    marriage_law: yes
-    heir_religion_law: yes
-    legal_code_law: yes
+    medieval_levy_law: peasant_levies
+    marriage_law: dishu_system
+    heir_religion_law: heir_any_religion
+    legal_code_law: traditional_law_policy
   religion: sanjiao
   primary_culture: kejia_culture
   court_language: kejia_language

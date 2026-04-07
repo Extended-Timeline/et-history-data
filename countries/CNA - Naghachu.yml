@@ -12,10 +12,10 @@
     promote_cultural_unity: yes
     elaborate_court_ceremonies: yes
   laws:
-    medieval_levy_law: yes
-    marriage_law: yes
-    heir_religion_law: yes
-    legal_code_law: yes
+    medieval_levy_law: peasant_levies
+    marriage_law: monogamous_marriage
+    heir_religion_law: heir_any_religion
+    legal_code_law: traditional_law_policy
   religion: tibetan_buddhism
   primary_culture: mongolian_culture
   court_language: northern_mandarin_dialect

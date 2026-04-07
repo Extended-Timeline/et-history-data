@@ -27,7 +27,7 @@
     peasants_allowed_weapons_privilege: yes
     no_labor_sunday: yes
   laws:
-    language_of_pleading: yes
+    language_of_pleading: language_of_pleading_court
   religion: catholic
   primary_culture: lesser_polish
   court_language: latin_language
@@ -52,9 +52,9 @@
   outward_vs_inward: 0
   timed_modifiers:
     interdict:
-      start_date:1000.1.1
-      end_date:1342.1.1
-      size:1
+      start_date: 1000.1.1
+      end_date: 1342.1.1
+      size: 1
 
 #imported from EU4
 2.1.1:

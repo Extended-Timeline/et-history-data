@@ -15,12 +15,12 @@
     ayuntamientos: yes
     cas_caballeros_villanos: yes
   laws:
-    administrative_system: yes
-    distribution_of_power_law: yes
-    legal_code_law: yes
-    medieval_levy_law: yes
-    mesta_council_law: yes
-    royal_court_customs_law: yes
+    administrative_system: adelantamiento_system
+    distribution_of_power_law: dop_law_castilian_courts
+    legal_code_law: siete_partidas_law
+    medieval_levy_law: alarde
+    mesta_council_law: quadrillas_organization
+    royal_court_customs_law: itinerant_court_policy
   religion: catholic
   primary_culture: castilian
   capital: valladolid

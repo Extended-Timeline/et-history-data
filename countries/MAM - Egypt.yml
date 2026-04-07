@@ -15,12 +15,12 @@
     waqf_payments: yes
     trade_monopolies: yes
   laws:
-    mamluk_rank_system_laws: yes
-    mamluk_army_law: yes
-    mamluk_promotion_law: yes
-    sharia_law: yes
-    administrative_system: yes
-    iqta_law: yes
+    mamluk_rank_system_laws: mam_rigid_system
+    mamluk_army_law: al_mamalik_al_sultaniyya
+    mamluk_promotion_law: merit_basis
+    sharia_law: shafii_policy
+    administrative_system: local_courts_administration
+    iqta_law: lenient_taxation
   religion: sunni
   religious_school: shafii_school
   primary_culture: lower_egyptian_culture

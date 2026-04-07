@@ -11,16 +11,16 @@
   reforms:
     shogunate: yes
   laws:
-    censorship: yes
-    maritime_law: yes
-    piracy_law: yes
+    censorship: limited_censorship
+    maritime_law: protect_trade_routes
+    piracy_law: anti_piracy_policy
   religion: shinto
   primary_culture: saigoku_culture
   capital: kyoto
   variables:
     supports_northern_court:
-      type:boolean
-      identity:1
+      type: boolean
+      identity: 1
 
 #imported from EU4
 2.1.1:

@@ -7,10 +7,10 @@
   color2: rgb { 61 8 81 }
   government_rank: rank_duchy
   laws:
-    legal_code_law: yes
-    sharia_law: yes
-    marriage_law: yes
-    heir_religion_law: yes
+    legal_code_law: sharia_law_policy
+    sharia_law: hanafi_policy
+    marriage_law: muslim_marriage
+    heir_religion_law: heir_same_religion
   religion: sunni
   religious_school: hanafi_school
   primary_culture: nogai

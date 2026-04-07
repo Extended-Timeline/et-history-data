@@ -10,17 +10,17 @@
   privileges:
     peasants_free_peasantry: yes
   laws:
-    censorship: yes
-    republican_foundation_law: yes
-    education_masses_law: yes
-    administrative_system: yes
-    cultural_traditions_law: yes
-    marriage_law: yes
-    heir_religion_law: yes
-    legal_code_law: yes
-    maritime_law: yes
-    piracy_law: yes
-    distribution_of_power_law: yes
+    censorship: limited_censorship
+    republican_foundation_law: republicanism_policy
+    education_masses_law: basic_religious_education
+    administrative_system: local_courts_administration
+    cultural_traditions_law: civil_society
+    marriage_law: monogamous_marriage
+    heir_religion_law: heir_same_religion
+    legal_code_law: civil_law_policy
+    maritime_law: protect_trade_routes
+    piracy_law: anti_piracy_policy
+    distribution_of_power_law: dop_favor_the_commoners
   religion: catholic
   primary_culture: frisian
   capital: groningen

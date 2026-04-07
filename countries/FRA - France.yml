@@ -22,10 +22,10 @@
     villes_franches: yes
     great_offices_of_the_crown_of_france: yes
   laws:
-    medieval_levy_law: yes
-    cultural_traditions_law: yes
-    mining_law: yes
-    precious_metal_distribution_law: yes
+    medieval_levy_law: noble_levies
+    cultural_traditions_law: civil_society
+    mining_law: nobles_mining_law
+    precious_metal_distribution_law: unlimited_gold_export
   religion: catholic
   primary_culture: french
   capital: paris

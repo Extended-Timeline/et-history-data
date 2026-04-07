@@ -16,14 +16,14 @@
     noble_fortification_licenses: yes
     elaborate_court_ceremonies: yes
   laws:
-    censorship: yes
-    education_masses_law: yes
-    administrative_system: yes
-    cultural_traditions_law: yes
-    marriage_law: yes
-    heir_religion_law: yes
-    legal_code_law: yes
-    distribution_of_power_law: yes
+    censorship: limited_censorship
+    education_masses_law: basic_religious_education
+    administrative_system: feudal_administration
+    cultural_traditions_law: civil_society
+    marriage_law: monogamous_marriage
+    heir_religion_law: heir_special_succession
+    legal_code_law: traditional_law_policy
+    distribution_of_power_law: dop_traditional_distribution_of_power
   religion: tibetan_buddhism
   primary_culture: utsang_culture
   capital: sakya

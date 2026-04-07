@@ -25,13 +25,13 @@
     access_to_royal_and_ecclesiastical_courts: yes
     peasants_allowed_weapons_privilege: yes
   laws:
-    distribution_of_power_law: yes
-    language_of_pleading: yes
-    legal_code_law: yes
-    medieval_levy_law: yes
-    feudal_de_jure_law: yes
-    marriage_law: yes
-    heir_religion_law: yes
+    distribution_of_power_law: dop_law_english_parliament
+    language_of_pleading: language_of_pleading_court
+    legal_code_law: common_law_policy
+    medieval_levy_law: longbow_competitions
+    feudal_de_jure_law: by_tradition
+    marriage_law: monogamous_marriage
+    heir_religion_law: heir_same_religion
   religion: catholic
   primary_culture: english
   court_language: norman_dialect

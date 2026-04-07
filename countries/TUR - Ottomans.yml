@@ -29,10 +29,10 @@
     tribes_land_rights: yes
     tribes_pasture_access: yes
   laws:
-    royal_court_customs_law: yes
-    slave_conversion: yes
-    sharia_law: yes
-    harem_law: yes
+    royal_court_customs_law: harem_policy
+    slave_conversion: allow_slave_religion
+    sharia_law: hanafi_policy
+    harem_law: secluded_harem_policy
   religion: sunni
   religious_school: maturidi_school
   primary_culture: turkish_culture

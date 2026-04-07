@@ -14,9 +14,9 @@
     clergy_enforced_unity: yes
     trade_monopolies: yes
   laws:
-    legal_code_law: yes
-    marriage_law: yes
-    heir_religion_law: yes
+    legal_code_law: civil_law_policy
+    marriage_law: monogamous_marriage
+    heir_religion_law: heir_same_religion
   religion: catholic
   primary_culture: lombard
   capital: milano

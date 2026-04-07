@@ -30,23 +30,23 @@
     peasants_allowed_weapons_privilege: yes
     peasants_free_peasantry: yes
   laws:
-    administrative_system: yes
-    immigration_law: yes
-    censorship: yes
-    heir_religion_law: yes
-    cultural_traditions_law: yes
-    education_masses_law: yes
-    feudal_de_jure_law: yes
-    legal_code_law: yes
-    distribution_of_power_law: yes
-    medieval_levy_law: yes
-    marriage_law: yes
-    sharia_law: yes
-    iqta_law: yes
-    mining_law: yes
-    precious_metal_distribution_law: yes
-    royal_court_customs_law: yes
-    harem_law: yes
+    administrative_system: feudal_administration
+    immigration_law: open_borders_law
+    censorship: no_censorship
+    heir_religion_law: heir_same_religion
+    cultural_traditions_law: martial_society
+    education_masses_law: uneducated_masses_education
+    feudal_de_jure_law: by_tradition
+    legal_code_law: sharia_law_policy
+    distribution_of_power_law: dop_law_gbara
+    medieval_levy_law: ton_ta_jon_ta_ni_woro
+    marriage_law: muslim_marriage
+    sharia_law: maliki_policy
+    iqta_law: efficient_tax_farming
+    mining_law: nobles_mining_law
+    precious_metal_distribution_law: regulated_gold_export
+    royal_court_customs_law: harem_policy
+    harem_law: public_harem_policy
   religion: sunni
   religious_school: maliki_school
   primary_culture: mandinka

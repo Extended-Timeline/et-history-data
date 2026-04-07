@@ -7,19 +7,19 @@
   color2: rgb { 16 41 202 }
   government_rank: rank_kingdom
   laws:
-    medieval_levy_law: yes
-    censorship: yes
-    administrative_system: yes
-    marriage_law: yes
-    heir_religion_law: yes
-    legal_code_law: yes
-    maritime_law: yes
-    piracy_law: yes
-    distribution_of_power_law: yes
-    education_masses_law: yes
-    feudal_de_jure_law: yes
-    royal_court_customs_law: yes
-    cultural_traditions_law: yes
+    medieval_levy_law: noble_levies
+    censorship: strict_censorship
+    administrative_system: maj_office_of_the_mahapatih
+    marriage_law: polygyny
+    heir_religion_law: heir_same_religion
+    legal_code_law: traditional_law_policy
+    maritime_law: protect_trade_routes
+    piracy_law: anti_piracy_policy
+    distribution_of_power_law: dop_favor_the_ruler
+    education_masses_law: basic_religious_education
+    feudal_de_jure_law: by_tradition
+    royal_court_customs_law: court_of_culture_policy
+    cultural_traditions_law: martial_society
   religion: hindu
   primary_culture: javanese_culture
   capital: trowulan

@@ -11,7 +11,7 @@
   reforms:
     legacy_of_kublai_khan: yes
   laws:
-    status_of_the_han_law: yes
+    status_of_the_han_law: limit_the_han_powers
   religion: tibetan_buddhism
   primary_culture: mongolian_culture
   court_language: northern_mandarin_dialect
@@ -25,13 +25,13 @@
   sinicized_vs_unsinicized: -50
   timed_modifiers:
     chi_factional_strife:
-      start_date:1328.1.1
-      end_date:1368.1.1
-      size:1
+      start_date: 1328.1.1
+      end_date: 1368.1.1
+      size: 1
     chi_administration_in_disarray:
-      start_date:1328.1.1
-      end_date:1368.1.1
-      size:1
+      start_date: 1328.1.1
+      end_date: 1368.1.1
+      size: 1
 
 #imported from EU4
 2.1.1:

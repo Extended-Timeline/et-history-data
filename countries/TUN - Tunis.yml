@@ -16,9 +16,9 @@
     tribes_tribal_levies: yes
     tribes_allow_gatherings: yes
   laws:
-    piracy_law: yes
-    amazigh_familial_connections: yes
-    sharia_law: yes
+    piracy_law: state_piracy_policy
+    amazigh_familial_connections: reliance_on_local_tribes
+    sharia_law: maliki_policy
   religion: sunni
   religious_school: maliki_school
   primary_culture: tunisian

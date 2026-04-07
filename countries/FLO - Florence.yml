@@ -11,8 +11,8 @@
     signoria_council: yes
     florence_guilds: yes
   laws:
-    guilds_of_florence: yes
-    legal_code_law: yes
+    guilds_of_florence: arti_maggiori
+    legal_code_law: consiglio_maggiore
   religion: catholic
   primary_culture: tuscan
   capital: florence
@@ -25,9 +25,9 @@
   traditionalist_vs_innovative: 40
   timed_modifiers:
     interdict:
-      start_date:1000.1.1
-      end_date:1345.1.1
-      size:1
+      start_date: 1000.1.1
+      end_date: 1345.1.1
+      size: 1
 
 #imported from EU4
 2.1.1:

@@ -23,9 +23,9 @@
     tribes_manrent: yes
     tribes_scotland_gaelic_heritage: yes
   laws:
-    language_of_pleading: yes
-    legal_code_law: yes
-    sco_clan_holdings: yes
+    language_of_pleading: language_of_pleading_court
+    legal_code_law: common_law_policy
+    sco_clan_holdings: inherited_clan_holdings
   religion: catholic
   primary_culture: scottish
   court_language: norman_dialect

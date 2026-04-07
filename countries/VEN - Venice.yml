@@ -21,8 +21,8 @@
     shipwright_contracts: yes
     market_fairs: yes
   laws:
-    republican_foundation_law: yes
-    heir_religion_law: yes
+    republican_foundation_law: republicanism_policy
+    heir_religion_law: heir_same_religion
   religion: catholic
   primary_culture: venetian
   capital: venice
@@ -66,8 +66,8 @@
   outward_vs_inward: -60
   variables:
     year_of_start_of_libro_d_oro:
-      type:value
-      identity:133700000
+      type: value
+      identity: 133700000
 
 #imported from EU4
 2.1.1:

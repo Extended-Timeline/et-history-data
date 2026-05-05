@@ -164,7 +164,8 @@ sect_musok:
     icon: musok
     members: 
       add: KOR TMN SSG
-    laws: musok_policy
+    laws:
+      add: musok_policy
     sect_favor: 40 
     religion: mahayana
     regions: 

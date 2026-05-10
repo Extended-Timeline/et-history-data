@@ -51,7 +51,9 @@
     ASK: yes
 1385: #筒井順覚の初出(The first recorded mention of Tsutsui Junkaku.)
   buildings:
-    yamashiro: TSUT
+    yamashiro:
+      owner: TSUT
+      level: 1
 1467.2.22: #応仁の乱(Ōnin War)
   owner: TSUT
   controller: TSUT
@@ -59,7 +61,8 @@
     ASK: no
     TSUT: yes
   buildings:
-    yamashiro: no
+    yamashiro:
+      level: 0
 1565.11.18: #筒井城の戦い(The Battle of Tsutsui Castle)
   controller: MTNG
   cores:

@@ -51,10 +51,14 @@
     ASK: yes
 1337.1.23: #南北朝開始(Start of the Nanboku-chō period)
   buildings:
-    yamashiro: DKJI
+    yamashiro:
+      owner: DKJI
+      level: 1
 1392.11.19: #南北朝終了(End of the Nanboku-chō period)
   buildings:
-    yamashiro: OCHI
+    yamashiro:
+      owner: OCHI
+      level: 1
 1467.2.22: #応仁の乱(Ōnin War)
   owner: OCHI
   controller: OCHI
@@ -62,7 +66,8 @@
     ASK: no
     OCHI: yes
   buildings:
-    yamashiro: no
+    yamashiro:
+      level: 0
 1563.7: #松永久秀により高取城を攻略(Takatori Castle was captured by Matsunaga Hisahide.) https://ja.wikipedia.org/wiki/%E8%B6%8A%E6%99%BA%E5%AE%B6%E5%A2%97
   owner: MTNG
   controller: MTNG

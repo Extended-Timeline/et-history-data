@@ -12,6 +12,8 @@ sample_artwork:
     artist: guy_of_place
   1250:
     location: other_place
+  1600:
+    destroyed: yes
 ```
 
 ---
@@ -25,5 +27,6 @@ sample_artwork:
 | location | location ID | yes | The location where the artwork is |
 | quality | integer | yes | The quality of the artwork, ranges from 0-100 |
 | artist | character ID | no | The character who created the artwork |
+| destroyed | yes | no | Sets the artwork to not exist beyond this date |
 
 ---

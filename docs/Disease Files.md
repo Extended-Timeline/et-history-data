@@ -10,6 +10,8 @@ bobonic_plague_resistance_01:
     value: 0.1
     regions:
       add: one_region other_region
+  1355:
+    end: yes
 measles_outbreak_01:
   1300:
     type: outbreak
@@ -31,6 +33,7 @@ measles_outbreak_01:
 | value | float | yes for resistance | The strength of disease resistance |
 | infected | integer? | yes for outbreak | ? |
 | origin | location ID | yes for outbreak | The location where the outbreak started |
+| end | yes | no | Sets the outbreak to have ended |
 | continents | add/remove: list of continents | no | Affected continents |
 | regions | add/remove: list of regions | no | Affected regions |
 | areas | add/remove: list of areas | no | Affected areas |

@@ -31,7 +31,6 @@ measles_outbreak_01:
 | value | float | yes for resistance | The strength of disease resistance |
 | infected | integer? | yes for outbreak | ? |
 | origin | location ID | yes for outbreak | The location where the outbreak started |
-| artist | character ID | no | The character who created the artwork |
 | continents | add/remove: list of continents | no | Affected continents |
 | regions | add/remove: list of regions | no | Affected regions |
 | areas | add/remove: list of areas | no | Affected areas |

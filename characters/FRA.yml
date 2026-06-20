@@ -69,8 +69,8 @@ fra_louis_xiii_bourbon:
     death: yes
 fra_louis_jules_trochu:
   1815.3.12:
-    birth: paris #TODO: Location guessed, check if better data is available
-    first_name: louis_jules_trochu
+    birth: vannes  # Belle-Île-en-mer
+    first_name: louis_jules_trochu  # TODO: fix name ref
     adm: 15
     dip: 60
     mil: 60
@@ -81,8 +81,8 @@ fra_louis_jules_trochu:
     death: yes
 fra_adolphe_thiers:
   1797.4.15:
-    birth: paris #TODO: Location guessed, check if better data is available
-    first_name: adolphe_thiers
+    birth: marseille
+    first_name: adolphe_thiers  # TODO: fix name ref
     adm: 60
     dip: 45
     mil: 45
@@ -93,8 +93,8 @@ fra_adolphe_thiers:
     death: yes
 fra_patrice_de_mac_mahon:
   1808.6.13:
-    birth: paris #TODO: Location guessed, check if better data is available
-    first_name: patrice_de_mac_mahon
+    birth: arnay  # Sully, Saône-et-Loire
+    first_name: patrice_de_mac_mahon  # TODO: fix name ref
     adm: 30
     dip: 45
     mil: 45
@@ -105,8 +105,8 @@ fra_patrice_de_mac_mahon:
     death: yes
 fra_jules_grevy:
   1807.8.15:
-    birth: paris #TODO: Location guessed, check if better data is available
-    first_name: jules_grevy
+    birth: dole  # mont_sous_vaudrey
+    first_name: jules_grevy  # TODO: fix name ref
     adm: 30
     dip: 45
     mil: 30
@@ -117,8 +117,8 @@ fra_jules_grevy:
     death: yes
 fra_marie_francois_sadi_carnot:
   1837.8.11:
-    birth: paris #TODO: Location guessed, check if better data is available
-    first_name: marie_francois_sadi_carnot
+    birth: limoges
+    first_name: marie_francois_sadi_carnot  # TODO: fix name ref
     adm: 45
     dip: 60
     mil: 45
@@ -129,8 +129,8 @@ fra_marie_francois_sadi_carnot:
     death: yes
 fra_jean_casimir_perier:
   1847.11.8:
-    birth: paris #TODO: Location guessed, check if better data is available
-    first_name: jean_casimir_perier
+    birth: paris
+    first_name: jean_casimir_perier  # TODO: fix name ref
     adm: 30
     dip: 45
     mil: 60
@@ -141,8 +141,8 @@ fra_jean_casimir_perier:
     death: yes
 fra_felix_faure:
   1841.1.30:
-    birth: paris #TODO: Location guessed, check if better data is available
-    first_name: felix_faure
+    birth: paris
+    first_name: felix_faure  # TODO: fix name ref
     adm: 60
     dip: 45
     mil: 45
@@ -153,8 +153,8 @@ fra_felix_faure:
     death: yes
 fra_emile_loubet:
   1838.12.30:
-    birth: paris #TODO: Location guessed, check if better data is available
-    first_name: emile_loubet
+    birth: valence  # Marsanne
+    first_name: emile_loubet  # TODO: fix name ref
     adm: 45
     dip: 60
     mil: 30
@@ -165,8 +165,8 @@ fra_emile_loubet:
     death: yes
 fra_armand_fallieres:
   1841.11.6:
-    birth: paris #TODO: Location guessed, check if better data is available
-    first_name: armand_fallieres
+    birth: condom  # Mézin
+    first_name: armand_fallieres  # TODO: fix name ref
     adm: 45
     dip: 45
     mil: 60
@@ -177,8 +177,8 @@ fra_armand_fallieres:
     death: yes
 fra_raymond_poincare:
   1860.8.20:
-    birth: paris #TODO: Location guessed, check if better data is available
-    first_name: raymond_poincare
+    birth: bar_le_duc
+    first_name: raymond_poincare  # TODO: fix name ref
     adm: 60
     dip: 30
     mil: 60
@@ -189,8 +189,8 @@ fra_raymond_poincare:
     death: yes
 fra_alexandre_millerand:
   1859.2.10:
-    birth: paris #TODO: Location guessed, check if better data is available
-    first_name: alexandre_millerand
+    birth: paris
+    first_name: alexandre_millerand  # TODO: fix name ref
     adm: 45
     dip: 45
     mil: 75
@@ -201,8 +201,8 @@ fra_alexandre_millerand:
     death: yes
 fra_gaston_doumergue:
   1863.8.1:
-    birth: paris #TODO: Location guessed, check if better data is available
-    first_name: gaston_doumergue
+    birth: nimes  # Aigues-Vives
+    first_name: gaston_doumergue  # TODO: fix name ref
     adm: 60
     dip: 60
     mil: 30
@@ -213,8 +213,8 @@ fra_gaston_doumergue:
     death: yes
 fra_paul_doumer:
   1857.3.22:
-    birth: paris #TODO: Location guessed, check if better data is available
-    first_name: paul_doumer
+    birth: aurillac
+    first_name: paul_doumer  # TODO: fix name ref
     adm: 45
     dip: 30
     mil: 45
@@ -225,8 +225,8 @@ fra_paul_doumer:
     death: yes
 fra_albert_lebrun:
   1871.8.29:
-    birth: monsol #TODO: Location guessed, check if better data is available
-    first_name: albert_lebrun
+    birth: etain  # mercy_le_haut
+    first_name: albert_lebrun  # TODO: fix name ref
     adm: 60
     dip: 75
     mil: 45
@@ -237,8 +237,8 @@ fra_albert_lebrun:
     death: yes
 fra_charles_de_gaulle:
   1890.11.22:
-    birth: paris #TODO: Location guessed, check if better data is available
-    first_name: charles_de_gaulle
+    birth: lille
+    first_name: charles_de_gaulle  # TODO: fix name ref
     adm: 45
     dip: 60
     mil: 90
@@ -249,8 +249,8 @@ fra_charles_de_gaulle:
     death: yes
 fra_felix_gouin:
   1884.10.4:
-    birth: paris #TODO: Location guessed, check if better data is available
-    first_name: felix_gouin
+    birth: marseille  # peypin
+    first_name: felix_gouin  # TODO: fix name ref
     adm: 30
     dip: 45
     mil: 30
@@ -261,8 +261,8 @@ fra_felix_gouin:
     death: yes
 fra_georges_bidault:
   1899.10.5:
-    birth: paris #TODO: Location guessed, check if better data is available
-    first_name: georges_bidault
+    birth: molins  # moulins
+    first_name: georges_bidault  # TODO: fix name ref
     adm: 45
     dip: 15
     mil: 45
@@ -273,8 +273,8 @@ fra_georges_bidault:
     death: yes
 fra_vincent_auriol:
   1884.8.27:
-    birth: paris #TODO: Location guessed, check if better data is available
-    first_name: vincent_auriol
+    birth: lavaur  # revel
+    first_name: vincent_auriol  # TODO: fix name ref
     adm: 60
     dip: 60
     mil: 45
@@ -285,8 +285,8 @@ fra_vincent_auriol:
     death: yes
 fra_leon_blum:
   1872.4.9:
-    birth: paris #TODO: Location guessed, check if better data is available
-    first_name: leon_blum
+    birth: paris
+    first_name: leon_blum  # TODO: fix name ref
     adm: 45
     dip: 30
     mil: 15
@@ -297,8 +297,8 @@ fra_leon_blum:
     death: yes
 fra_rene_coty:
   1882.3.20:
-    birth: paris #TODO: Location guessed, check if better data is available
-    first_name: rene_coty
+    birth: tancarville  # le_havre
+    first_name: rene_coty  # TODO: fix name ref
     adm: 45
     dip: 30
     mil: 60
@@ -309,8 +309,8 @@ fra_rene_coty:
     death: yes
 fra_alain_poher:
   1909.4.17:
-    birth: paris #TODO: Location guessed, check if better data is available
-    first_name: alain_poher
+    birth: paris  # ablon_sur_seine
+    first_name: alain_poher  # TODO: fix name ref
     adm: 45
     dip: 45
     mil: 30
@@ -321,8 +321,8 @@ fra_alain_poher:
     death: yes
 fra_georges_pompidou:
   1911.7.5:
-    birth: paris #TODO: Location guessed, check if better data is available
-    first_name: georges_pompidou
+    birth: tour_auvergne  # montboudif
+    first_name: georges_pompidou  # TODO: fix name ref
     adm: 60
     dip: 45
     mil: 60
@@ -333,8 +333,8 @@ fra_georges_pompidou:
     death: yes
 fra_valery_giscard_destaing:
   1926.2.2:
-    birth: paris #TODO: Location guessed, check if better data is available
-    first_name: valery_giscard_destaing
+    birth: coblenz 
+    first_name: valery_giscard_destaing  # TODO: fix name ref
     adm: 60
     dip: 60
     mil: 30
@@ -345,8 +345,8 @@ fra_valery_giscard_destaing:
     death: yes
 fra_francois_mitterrand:
   1916.10.26:
-    birth: paris #TODO: Location guessed, check if better data is available
-    first_name: francois_mitterrand
+    birth: jarnac
+    first_name: francois_mitterrand  # TODO: fix name ref
     adm: 60
     dip: 60
     mil: 45
@@ -357,8 +357,8 @@ fra_francois_mitterrand:
     death: yes
 fra_jacques_chirac:
   1932.11.29:
-    birth: paris #TODO: Location guessed, check if better data is available
-    first_name: jacques_chirac
+    birth: paris
+    first_name: jacques_chirac  # TODO: fix name ref
     adm: 45
     dip: 60
     mil: 45
@@ -369,8 +369,8 @@ fra_jacques_chirac:
     death: yes
 fra_nicolas_sarkozy:
   1955.1.28:
-    birth: paris #TODO: Location guessed, check if better data is available
-    first_name: nicolas_sarkozy
+    birth: paris
+    first_name: nicolas_sarkozy  # TODO: fix name ref
     adm: 75
     dip: 45
     mil: 30
@@ -381,8 +381,8 @@ fra_nicolas_sarkozy:
     death: yes
 fra_francois_hollande:
   1954.8.12:
-    birth: paris #TODO: Location guessed, check if better data is available
-    first_name: francois_hollande
+    birth: rouen
+    first_name: francois_hollande  # TODO: fix name ref
     adm: 45
     dip: 45
     mil: 30
@@ -393,8 +393,8 @@ fra_francois_hollande:
     death: yes
 fra_emmanuel_macron:
   1977.12.21:
-    birth: paris #TODO: Location guessed, check if better data is available
-    first_name: emmanuel_macron
+    birth: amiens
+    first_name: emmanuel_macron  # TODO: fix name ref
     adm: 45
     dip: 60
     mil: 30

@@ -1,25 +1,22 @@
 #imported from EU4 file: history/provinces/1066 - Altai.txt
 2.1.1:
+  pops: 
+    kyrgyz_culture-: 1
   owner: YKYR
   controller: YKYR
   cores:
     YKYR: yes
   resource: fur
-  pops:
-    - religion: 
-      estate: peasant
-      size: 1000
 1219.1.1:
   owner: MGE
   controller: MGE
   cores:
     MGE: yes
 1250.1.1:
+  pops: 
+    tuvan_culture-: 1
   cores:
     YKYR: no
-  pops:
-    - estate: peasant
-      size: 1000
 1271.1.1:
   owner: YUA
   controller: YUA
@@ -44,9 +41,8 @@
   cores:
     MGE: yes
 1586.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    tuvan_culture-tibetan_buddhism: 1
 1623.1.1:
   owner: OIR
   controller: OIR
@@ -67,9 +63,9 @@
     QNG: no
     RUS: yes
 1920.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    tuvan_culture-tibetan_buddhism: 0
+    tuvan_culture-orthodox: 1
 1922.12.30:
   owner: SOVI
   controller: SOVI

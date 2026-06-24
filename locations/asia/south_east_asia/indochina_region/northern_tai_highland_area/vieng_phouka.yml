@@ -1,9 +1,7 @@
 #imported from EU4 file: history/provinces/2381 - Luang Namtha.txt
 2.1.1:
-  pops:
-    - religion: satsana_phi
-      estate: peasant
-      size: 1000
+  pops: 
+    khmu_culture-satsana_phi: 1
 620.1.1:
   owner: CHH
   controller: CHH
@@ -59,9 +57,9 @@
     LAXA: no
     LUPR: yes
 1840.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    khmu_culture-satsana_phi: 0
+    khmu_culture-theravada: 1
 1893.10.3:
   owner: LAOS
   controller: LAOS

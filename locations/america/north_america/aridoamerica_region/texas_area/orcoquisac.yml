@@ -1,24 +1,21 @@
 #imported from EU4 file: history/provinces/888 - Atakapa.txt
 2.1.1:
-  pops:
-    - religion: iroquoian_totemism
-      estate: peasant
-      size: 1000
+  pops: 
+    coahuilteco_culture-iroquoian_totemism: 1
 1722.1.1:
+  pops: 
+    coahuilteco_culture-iroquoian_totemism: 0
+    castilian-catholic: 1
   owner: SPA
   controller: SPA
   resource: sugar
-  pops:
-    - religion: catholic
-      estate: peasant
-      size: 1000
 1740.1.1:
   cores:
     SPA: yes
 1770.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    castilian-catholic: 0
+    mexican-catholic: 1
 1810.9.16:
   owner: MEX
   controller: SPA
@@ -29,13 +26,13 @@
   cores:
     SPA: no
 1836.3.2:
+  pops: 
+    mexican-catholic: 0
+    british_louisianan-catholic: 1
   owner: TEXA
   controller: TEXA
   cores:
     TEXA: yes
-  pops:
-    - estate: peasant
-      size: 1000
 1845.12.29:
   owner: USA
   controller: USA

@@ -1,18 +1,16 @@
 #imported from EU4 file: history/provinces/4320 - Girga.txt
 2.1.1:
+  pops: 
+    old_egyptian-egyptian: 1
   owner: ROM
   controller: ROM
   cores:
     ROM: yes
   resource: grain
-  pops:
-    - religion: egyptian_polytheism
-      estate: peasant
-      size: 1000
 220.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    old_egyptian-egyptian: 0
+    old_egyptian-hellenism_religion: 1
 395.1.17:
   owner: BYZ
   controller: BYZ
@@ -20,13 +18,13 @@
     ROM: no
     BYZ: yes
 420.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    old_egyptian-hellenism_religion: 0
+    old_egyptian-chalcedonism: 1
 451.11.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    old_egyptian-chalcedonism: 0
+    old_egyptian-miaphysite: 1
 618.1.1:
   controller: ERA
 628.1.1:
@@ -44,9 +42,9 @@
     RASH: no
     UMAY: yes
 720.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    old_egyptian-miaphysite: 0
+    upper_egyptian_culture-miaphysite: 1
 750.8.6:
   owner: ABBA
   controller: ABBA
@@ -65,9 +63,9 @@
   cores:
     ABBA: yes
 920.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    upper_egyptian_culture-miaphysite: 0
+    upper_egyptian_culture-sunni: 1
 935.8.26:
   owner: EGY
   controller: EGY

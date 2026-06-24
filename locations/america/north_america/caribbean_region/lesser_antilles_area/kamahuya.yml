@@ -1,17 +1,14 @@
 #imported from EU4 file: history/provinces/1881 - Grenada.txt
 2.1.1:
-  pops:
-    - religion: muisca_religion
-      estate: peasant
-      size: 1000
+  pops: 
+    guaribes_culture-muisca_religion: 1
 1649.3.17:
+  pops: 
+    guaribes_culture-muisca_religion: 0
+    french-catholic: 1
   owner: FRA
   controller: FRA
   resource: sugar
-  pops:
-    - religion: catholic
-      estate: peasant
-      size: 1000
 1699.1.1:
   cores:
     FRA: yes
@@ -24,9 +21,9 @@
 1779.6.6:
   controller: FRA
 1780.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    french-catholic: 0
+    british_caribbean-catholic: 1
 1783.9.3:
   controller: GBR
 1843.1.1:

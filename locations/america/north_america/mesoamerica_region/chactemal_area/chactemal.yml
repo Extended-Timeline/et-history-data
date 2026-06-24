@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/2634 - Uaymil.txt
 2.1.1:
+  pops: 
+    yucatec_culture-mayan: 1
   owner: ITZ
   controller: ITZ
   cores:
     ITZ: yes
   resource: cocoa
-  pops:
-    - religion: mayan
-      estate: peasant
-      size: 1000
 987.1.1:
   owner: MAY
   controller: MAY
@@ -26,14 +24,13 @@
   cores:
     SPA: yes
 1572.1.1:
-  pops:
-    - religion: catholic
-      estate: peasant
-      size: 1000
+  pops: 
+    yucatec_culture-mayan: 0
+    castilian-catholic: 1
 1770.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    castilian-catholic: 0
+    mexican-catholic: 1
 1810.9.16:
   owner: MEX
   controller: SPA

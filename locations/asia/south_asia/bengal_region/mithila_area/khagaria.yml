@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/4489 - Hajipur.txt
 2.1.1:
+  pops: 
+    magahi-mahayana: 1
   owner: VAJJ
   controller: VAJJ
   cores:
     VAJJ: yes
   resource: grain
-  pops:
-    - religion: mahayana
-      estate: peasant
-      size: 1000
 270.1.1:
   owner: MAGA
   controller: MAGA
@@ -52,9 +50,9 @@
     PALA: no
     TIRH: yes
 1250.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    magahi-mahayana: 0
+    magahi-hindu: 1
 1486.1.1:
   owner: DLH
   controller: DLH

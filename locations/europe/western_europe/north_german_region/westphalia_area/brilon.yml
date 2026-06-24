@@ -1,28 +1,25 @@
 #imported from EU4 file: history/provinces/82 - Lippe.txt
 2.1.1:
+  pops: 
+    rhine_franconian-germanic: 1
   owner: CHTT
   controller: CHTT
   cores:
     CHTT: yes
   resource: wool
-  pops:
-    - religion: germanic_polytheism
-      estate: peasant
-      size: 1000
 480.1.1:
+  pops: 
+    rhine_franconian-germanic: 0
+    eastphalian-germanic: 1
   owner: ANGR
   controller: ANGR
   cores:
     CHTT: no
     ANGR: yes
-  pops:
-    - estate: peasant
-      size: 1000
 600.1.1:
-  pops:
-    - religion: chalcedonism
-      estate: peasant
-      size: 1000
+  pops: 
+    eastphalian-germanic: 0
+    eastphalian-chalcedonism: 1
 695.1.1:
   owner: SAX
   controller: SAX
@@ -41,9 +38,9 @@
     FRAN: no
     EFRA: yes
 867.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    eastphalian-chalcedonism: 0
+    eastphalian-catholic: 1
 911.11.10:
   owner: SAX
   controller: SAX
@@ -59,9 +56,9 @@
   cores:
     MUN: yes
 1566.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    eastphalian-catholic: 0
+    eastphalian-calvinist: 1
 1568.1.1:
   owner: MUN
   controller: MUN
@@ -69,9 +66,9 @@
   owner: KOL
   controller: KOL
 1585.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    eastphalian-calvinist: 0
+    eastphalian-catholic: 1
 1661.1.1:
   owner: MUN
   controller: MUN

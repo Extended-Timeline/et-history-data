@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/510 - Sirhind.txt
 2.1.1:
+  pops: 
+    punjabi-mahayana: 1
   owner: NSAT
   controller: NSAT
   cores:
     NSAT: yes
   resource: cotton
-  pops:
-    - religion: mahayana
-      estate: peasant
-      size: 1000
 120.1.1:
   owner: KUSH
   controller: KUSH
@@ -67,9 +65,9 @@
     TOMA: no
     GHAZ: yes
 1100.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    punjabi-mahayana: 0
+    punjabi-hindu: 1
 1187.1.1:
   owner: GHOR
   controller: GHOR
@@ -113,9 +111,9 @@
   owner: MUG
   controller: MUG
 1700.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    punjabi-hindu: 0
+    punjabi-sikhism: 1
 1757.1.1:
   owner: AFGH
   controller: AFGH

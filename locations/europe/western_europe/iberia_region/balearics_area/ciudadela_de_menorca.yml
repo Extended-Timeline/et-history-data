@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/4559 - Minorca.txt
 2.1.1:
+  pops: 
+    iberi-bimoism: 1
   owner: ROM
   controller: ROM
   cores:
     ROM: yes
   resource: fish
-  pops:
-    - religion: bimoism
-      estate: peasant
-      size: 1000
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -16,9 +14,9 @@
     ROM: no
     ROMW: yes
 400.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    iberi-bimoism: 0
+    iberi-chalcedonism: 1
 450.1.1:
   owner: VAND
   controller: VAND
@@ -32,10 +30,9 @@
     VAND: no
     BYZ: yes
 800.1.1:
-  pops:
-    - religion: sunni
-      estate: peasant
-      size: 1000
+  pops: 
+    iberi-chalcedonism: 0
+    andalusi-sunni: 1
 903.1.1:
   owner: CRDB
   controller: CRDB
@@ -92,10 +89,9 @@
   owner: MLL
   controller: MLL
 1300.1.1:
-  pops:
-    - religion: catholic
-      estate: peasant
-      size: 1000
+  pops: 
+    andalusi-sunni: 0
+    catalan-catholic: 1
 1349.10.25:
   owner: ARA
   controller: ARA

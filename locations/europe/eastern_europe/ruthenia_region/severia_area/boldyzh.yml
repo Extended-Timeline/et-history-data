@@ -1,29 +1,25 @@
 #imported from EU4 file: history/provinces/4543 - Rylsk.txt
 2.1.1:
+  pops: 
+    sarmatian-: 1
   owner: SARM
   controller: SARM
   cores:
     SARM: yes
   resource: grain
-  pops:
-    - religion: 
-      estate: peasant
-      size: 1000
 370.1.1:
+  pops: 
+    hunnic-: 1
   owner: HUNS
   controller: HUNS
   cores:
     SARM: no
     HUNS: yes
-  pops:
-    - estate: peasant
-      size: 1000
 420.1.1:
+  pops: 
+    bolghar_culture-: 1
   cores:
     KUTR: yes
-  pops:
-    - estate: peasant
-      size: 1000
 469.1.1:
   owner: KUTR
   controller: KUTR
@@ -36,23 +32,21 @@
     KUTR: no
     ONOG: yes
 632.1.1:
+  pops: 
+    hungarian-: 1
   owner: HUN
   controller: HUN
   cores:
     ONOG: no
     HUN: yes
-  pops:
-    - estate: peasant
-      size: 1000
 780.1.1:
+  pops: 
+    ruthenian-: 1
   owner: ULIC
   controller: ULIC
   cores:
     HUN: no
     ULIC: yes
-  pops:
-    - estate: peasant
-      size: 1000
 870.1.1:
   owner: PECH
   controller: PECH
@@ -72,9 +66,8 @@
     KIEV: no
     CHR: yes
 1060.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    ruthenian-orthodox: 1
 1237.1.1:
   owner: MGE
   controller: MGE
@@ -100,9 +93,9 @@
     LIT: no
     RUS: yes
 1678.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    ruthenian-orthodox: 0
+    muscovite-orthodox: 1
 1922.12.30:
   owner: SOVI
   controller: SOVI

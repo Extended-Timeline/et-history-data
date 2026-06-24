@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/2053 - Patan.txt
 2.1.1:
+  pops: 
+    gujarati-hindu: 1
   owner: WSAT
   controller: WSAT
   cores:
     WSAT: yes
   resource: cloth
-  pops:
-    - religion: hindu
-      estate: peasant
-      size: 1000
 405.1.1:
   owner: GUPT
   controller: GUPT
@@ -33,17 +31,14 @@
   cores:
     GUJ: yes
 950.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
 1080.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    gujarati-hindu: 0
+    gujarati-jain: 1
 1190.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    gujarati-jain: 0
+    gujarati-hindu: 1
 1304.1.1:
   owner: DLH
   controller: DLH

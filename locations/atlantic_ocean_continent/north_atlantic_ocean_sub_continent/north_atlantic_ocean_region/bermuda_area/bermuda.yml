@@ -1,15 +1,12 @@
 #imported from EU4 file: history/provinces/481 - Bermuda.txt
 2.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    uninhabited-: 1
 1612.1.1:
+  pops: 
+    english-lutheran: 1
   owner: ENG
   controller: ENG
-  pops:
-    - religion: lutheran
-      estate: peasant
-      size: 1000
 1616.1.1:
   resource: naval_supplies
 1637.1.1:
@@ -22,6 +19,3 @@
     ENG: no
     GBR: yes
 1780.1.1:
-  pops:
-    - estate: peasant
-      size: 1000

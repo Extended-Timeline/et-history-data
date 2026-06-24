@@ -1,26 +1,22 @@
 #imported from EU4 file: history/provinces/976 - Tlingit.txt
 2.1.1:
-  pops:
-    - religion: iroquoian_totemism
-      estate: peasant
-      size: 1000
+  pops: 
+    tlingit_culture-iroquoian_totemism: 1
 1850.1.1:
+  pops: 
+    tlingit_culture-iroquoian_totemism: 0
+    east_slavic_californian-orthodox: 1
   owner: RUS
   controller: RUS
   cores:
     RUS: yes
   resource: fish
-  pops:
-    - religion: orthodox
-      estate: peasant
-      size: 1000
 1867.10.18:
+  pops: 
+    east_slavic_californian-orthodox: 0
+    british_californian-lutheran: 1
   owner: USA
   controller: USA
   cores:
     RUS: no
     USA: yes
-  pops:
-    - religion: lutheran
-      estate: peasant
-      size: 1000

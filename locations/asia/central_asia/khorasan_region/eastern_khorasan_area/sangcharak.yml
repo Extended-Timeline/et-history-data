@@ -1,18 +1,16 @@
 #imported from EU4 file: history/provinces/450 - Balkh.txt
 2.1.1:
+  pops: 
+    bactrian-mahayana: 1
   owner: BACT
   controller: BACT
   cores:
     BACT: yes
   resource: cotton
-  pops:
-    - religion: mahayana
-      estate: peasant
-      size: 1000
 20.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    bactrian-mahayana: 0
+    afghan_culture-mahayana: 1
 30.1.1:
   owner: KUSH
   controller: KUSH
@@ -93,9 +91,9 @@
     KOKA: no
     AFGH: yes
 880.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    afghan_culture-mahayana: 0
+    afghan_culture-sunni: 1
 908.1.1:
   owner: BUKH
   controller: BUKH

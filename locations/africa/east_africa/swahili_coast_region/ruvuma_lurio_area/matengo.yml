@@ -1,17 +1,15 @@
 #imported from EU4 file: history/provinces/4043 - Phangwa.txt
 2.1.1:
-  pops:
-    - religion: bantu_religion
-      estate: peasant
-      size: 1000
+  pops: 
+    sandawe_culture-bantu_religion: 1
 300.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    sandawe_culture-bantu_religion: 0
+    sena-bantu_religion: 1
 1850.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    sena-bantu_religion: 0
+    sena-sunni: 1
 1905.1.1:
   owner: GER
   controller: GER

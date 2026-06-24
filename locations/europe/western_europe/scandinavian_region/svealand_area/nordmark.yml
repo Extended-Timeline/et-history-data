@@ -1,9 +1,7 @@
 #imported from EU4 file: history/provinces/5 - Varmland.txt
 2.1.1:
-  pops:
-    - religion: norse
-      estate: peasant
-      size: 1000
+  pops: 
+    gutnish-norse: 1
 350.1.1:
   owner: WGEA
   controller: WGEA
@@ -17,18 +15,18 @@
     WGEA: no
     NOR: yes
 970.1.1:
+  pops: 
+    gutnish-norse: 0
+    gutnish-catholic: 1
   owner: SWE
   controller: SWE
   cores:
     NOR: no
     SWE: yes
-  pops:
-    - estate: peasant
-      size: 1000
 980.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    gutnish-catholic: 0
+    swedish-catholic: 1
 1497.3.13:
   controller: DAN
 1497.10.6:
@@ -38,6 +36,3 @@
 1502.3.15:
   controller: SWE
 1527.6.1:
-  pops:
-    - estate: peasant
-      size: 1000

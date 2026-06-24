@@ -1,9 +1,7 @@
 #imported from EU4 file: history/provinces/4243 - Toropets.txt
 2.1.1:
-  pops:
-    - religion: slavic_polytheism
-      estate: peasant
-      size: 1000
+  pops: 
+    polatskian_culture-slavic: 1
 550.1.1:
   owner: ILME
   controller: ILME
@@ -23,9 +21,9 @@
     NOV: no
     KIEV: yes
 1000.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    polatskian_culture-slavic: 0
+    polatskian_culture-orthodox: 1
 1054.2.20:
   owner: SMO
   controller: SMO
@@ -63,9 +61,9 @@
     LIT: no
     PLC: no
 1700.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    polatskian_culture-orthodox: 0
+    muscovite-orthodox: 1
 1812.8.17:
   controller: FRA
 1812.11.9:

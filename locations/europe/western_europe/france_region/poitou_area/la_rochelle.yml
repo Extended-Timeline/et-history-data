@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/4111 - Saintonge.txt
 2.1.1:
+  pops: 
+    gallian-druidism: 1
   owner: ROM
   controller: ROM
   cores:
     ROM: yes
   resource: grain
-  pops:
-    - religion: druidism
-      estate: peasant
-      size: 1000
 260.1.1:
   cores:
     GALL: yes
@@ -17,9 +15,9 @@
   cores:
     GALL: no
 367.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    gallian-druidism: 0
+    gallian-chalcedonism: 1
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -71,9 +69,9 @@
   cores:
     ASTS: no
 600.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    gallian-chalcedonism: 0
+    languedocien-chalcedonism: 1
 612.1.1:
   owner: ASTS
   controller: ASTS
@@ -103,9 +101,9 @@
     FRAN: no
     WFRA: yes
 867.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    languedocien-chalcedonism: 0
+    languedocien-catholic: 1
 877.10.6:
   owner: AQN
   controller: AQN
@@ -138,21 +136,21 @@
 1377.1.1:
   owner: FRA
 1400.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    languedocien-catholic: 0
+    french-catholic: 1
 1560.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    french-catholic: 0
+    french-calvinist: 1
 1651.4.1:
   controller: FRA
 1652.10.21:
   controller: FRA
 1686.1.17:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    french-calvinist: 0
+    french-catholic: 1
 1870.9.4:
   owner: FRA
   controller: FRA

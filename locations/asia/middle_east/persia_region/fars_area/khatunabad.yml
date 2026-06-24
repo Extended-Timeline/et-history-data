@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/4330 - Darab.txt
 2.1.1:
+  pops: 
+    farsi_culture-zoroastrian: 1
   owner: PESS
   controller: PESS
   cores:
     PESS: yes
   resource: spices
-  pops:
-    - religion: zoroastrian
-      estate: peasant
-      size: 1000
 207.1.1:
   owner: ERA
   controller: ERA
@@ -28,9 +26,9 @@
     RASH: no
     UMAY: yes
 680.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    farsi_culture-zoroastrian: 0
+    farsi_culture-sunni: 1
 750.8.6:
   owner: ABBA
   controller: ABBA
@@ -53,9 +51,9 @@
   cores:
     SIST: no
 920.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    farsi_culture-sunni: 0
+    farsi_culture-shia: 1
 934.5.1:
   owner: FARS
   controller: FARS

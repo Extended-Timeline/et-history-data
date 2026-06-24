@@ -1,40 +1,37 @@
 #imported from EU4 file: history/provinces/2514 - Michigamea.txt
 2.1.1:
-  pops:
-    - religion: iroquoian_totemism
-      estate: peasant
-      size: 1000
+  pops: 
+    cahokia_culture-iroquoian_totemism: 1
 1724.1.1:
+  pops: 
+    cahokia_culture-iroquoian_totemism: 0
+    french-catholic: 1
   owner: FRA
   controller: FRA
   cores:
     FRA: yes
   resource: grain
-  pops:
-    - religion: catholic
-      estate: peasant
-      size: 1000
 1762.1.1:
   owner: SPA
   controller: SPA
   cores:
     FRA: no
 1770.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    french-catholic: 0
+    french_louisianan-catholic: 1
 1787.1.1:
   cores:
     SPA: yes
 1800.10.1:
+  pops: 
+    french_louisianan-catholic: 0
+    french-catholic: 1
   owner: FRA
   controller: FRA
   cores:
     SPA: no
     FRA: yes
-  pops:
-    - estate: peasant
-      size: 1000
 1803.4.3:
   owner: USA
   controller: USA
@@ -42,10 +39,7 @@
     FRA: no
     USA: yes
 1820.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    french-catholic: 0
+    american-catholic: 1
 1830.1.1:
-  pops:
-    - estate: peasant
-      size: 1000

@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/457 - Tashkent.txt
 2.1.1:
+  pops: 
+    sogdian-zoroastrian: 1
   owner: KAGJ
   controller: KAGJ
   cores:
     KAGJ: yes
   resource: tea
-  pops:
-    - religion: zoroastrian
-      estate: peasant
-      size: 1000
 320.1.1:
   owner: KIDA
   controller: KIDA
@@ -51,18 +49,15 @@
     UMAY: no
     ABBA: yes
 819.1.1:
+  pops: 
+    sogdian-zoroastrian: 0
+    tajik_culture-zoroastrian: 1
   owner: CHAC
   controller: CHAC
   cores:
     ABBA: no
     CHAC: yes
-  pops:
-    - estate: peasant
-      size: 1000
 820.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
 855.1.1:
   owner: KOKA
   controller: KOKA
@@ -75,9 +70,9 @@
     KOKA: no
     BUKH: yes
 950.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    tajik_culture-zoroastrian: 0
+    tajik_culture-sunni: 1
 991.1.1:
   owner: TRAN
   controller: TRAN
@@ -85,9 +80,9 @@
     BUKH: no
     TRAN: yes
 1000.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    tajik_culture-sunni: 0
+    uzbek_culture-sunni: 1
 1211.1.1:
   owner: KKHI
   controller: KKHI

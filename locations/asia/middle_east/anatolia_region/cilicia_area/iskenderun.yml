@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/2313 - Antioch.txt
 2.1.1:
+  pops: 
+    syriac_culture-chalcedonism: 1
   owner: ROM
   controller: ROM
   cores:
     ROM: yes
   resource: cloth
-  pops:
-    - religion: chalcedonism
-      estate: peasant
-      size: 1000
 269.1.1:
   cores:
     PALM: yes
@@ -23,13 +21,13 @@
     ROM: no
     BYZ: yes
 500.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    syriac_culture-chalcedonism: 0
+    greek_culture-chalcedonism: 1
 512.11.16:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    greek_culture-chalcedonism: 0
+    greek_culture-miaphysite: 1
 613.1.1:
   controller: ERA
 627.1.1:
@@ -40,9 +38,9 @@
   cores:
     RASH: yes
 650.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    greek_culture-miaphysite: 0
+    levantine_culture-miaphysite: 1
 661.7.28:
   owner: UMAY
   controller: UMAY
@@ -61,9 +59,9 @@
   cores:
     EGY: yes
 870.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    levantine_culture-miaphysite: 0
+    levantine_culture-orthodox: 1
 905.1.10:
   owner: ABBA
   controller: ABBA
@@ -110,13 +108,10 @@
   cores:
     ANTI: no
     MAM: yes
-  pops:
-    - estate: peasant
-      size: 1000
 1370.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    levantine_culture-orthodox: 0
+    levantine_culture-sunni: 1
 1516.8.24:
   owner: TUR
   controller: TUR
@@ -141,10 +136,9 @@
     EGY: no
     TUR: yes
 1880.1.1:
-  pops:
-    - religion: shia
-      estate: peasant
-      size: 1000
+  pops: 
+    levantine_culture-sunni: 0
+    turkish_culture-shia: 1
 1920.3.8:
   owner: SYRI
   controller: SYRI

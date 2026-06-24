@@ -1,18 +1,16 @@
 #imported from EU4 file: history/provinces/4396 - Prome.txt
 2.1.1:
+  pops: 
+    pyu-theravada: 1
   owner: SRKS
   controller: SRKS
   cores:
     SRKS: yes
   resource: ivory
-  pops:
-    - religion: theravada
-      estate: peasant
-      size: 1000
 900.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    pyu-theravada: 0
+    burmese_culture-theravada: 1
 1044.1.1:
   owner: PAGA
   controller: PAGA

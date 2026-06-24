@@ -1,13 +1,11 @@
 #imported from EU4 file: history/provinces/4783 - Swaziland.txt
 2.1.1:
-  pops:
-    - religion: bantu_religion
-      estate: peasant
-      size: 1000
+  pops: 
+    kung_culture-bantu_religion: 1
 100.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    kung_culture-bantu_religion: 0
+    nguni_culture-bantu_religion: 1
 1745.1.1:
   owner: ESWA
   controller: ESWA
@@ -15,13 +13,13 @@
     ESWA: yes
   resource: grain
 1902.1.1:
+  pops: 
+    nguni_culture-bantu_religion: 0
+    nguni_culture-lutheran: 1
   owner: GBR
   controller: GBR
   cores:
     GBR: yes
-  pops:
-    - estate: peasant
-      size: 1000
 1968.9.6:
   owner: ESWA
   controller: ESWA

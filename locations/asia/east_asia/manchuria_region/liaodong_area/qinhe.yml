@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/726 - Liaodong.txt
 2.1.1:
+  pops: 
+    khitan-sanjiao: 1
   owner: WUHU
   controller: WUHU
   cores:
     WUHU: yes
   resource: gems
-  pops:
-    - religion: sanjiao
-      estate: peasant
-      size: 1000
 207.10.1:
   owner: YAN0
   controller: YAN0
@@ -79,9 +77,9 @@
     LIAO: no
     JIN0: yes
 1200.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    khitan-sanjiao: 0
+    jurchen_culture-sanjiao: 1
 1214.1.1:
   owner: MGE
   controller: MGE
@@ -108,13 +106,13 @@
     KHRC: no
     MNG: yes
 1621.1.1:
+  pops: 
+    jurchen_culture-sanjiao: 0
+    manchu_new-sanjiao: 1
   owner: MCH
   controller: MCH
   cores:
     MCH: yes
-  pops:
-    - estate: peasant
-      size: 1000
 1636.5.15:
   owner: QNG
   controller: QNG

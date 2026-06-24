@@ -1,9 +1,7 @@
 #imported from EU4 file: history/provinces/4840 - Xekong.txt
 2.1.1:
-  pops:
-    - religion: bimoism
-      estate: peasant
-      size: 1000
+  pops: 
+    bru_culture-bimoism: 1
 550.1.1:
   owner: KATA
   controller: KATA
@@ -32,14 +30,13 @@
   cores:
     KHM: no
 1354.1.1:
+  pops: 
+    bru_culture-bimoism: 0
+    lao_culture-satsana_phi: 1
   owner: LAXA
   controller: LAXA
   cores:
     LAXA: yes
-  pops:
-    - religion: satsana_phi
-      estate: peasant
-      size: 1000
 1483.1.1:
   cores:
     DAI: yes
@@ -57,9 +54,9 @@
     VTN: no
     CHAK: yes
 1820.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    lao_culture-satsana_phi: 0
+    lao_culture-theravada: 1
 1893.10.3:
   owner: LAOS
   controller: LAOS

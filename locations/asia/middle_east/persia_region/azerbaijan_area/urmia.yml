@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/2206 - Urmia.txt
 2.1.1:
+  pops: 
+    armenian_culture-zoroastrian: 1
   owner: ARM
   controller: ARM
   cores:
     ARM: yes
   resource: wine
-  pops:
-    - religion: zoroastrian
-      estate: peasant
-      size: 1000
 114.1.1:
   owner: ROM
   controller: ROM
@@ -25,13 +23,13 @@
   cores:
     ERA: yes
 460.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    armenian_culture-zoroastrian: 0
+    armenian_culture-chalcedonism: 1
 506.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    armenian_culture-chalcedonism: 0
+    armenian_culture-miaphysite: 1
 639.1.1:
   owner: RASH
   controller: RASH
@@ -57,9 +55,9 @@
     ABBA: no
     AZER: yes
 900.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    armenian_culture-miaphysite: 0
+    kurdish_culture-miaphysite: 1
 955.1.1:
   owner: TABR
   controller: TABR
@@ -71,9 +69,9 @@
   cores:
     SELJ: yes
 1120.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    kurdish_culture-miaphysite: 0
+    kurdish_culture-sunni: 1
 1157.5.8:
   owner: MARE
   controller: MARE
@@ -184,13 +182,13 @@
     IRA: no
     IRAN: yes
 1945.11.21:
+  pops: 
+    kurdish_culture-sunni: 0
+    azeri_culture-sunni: 1
   cores:
     AZER: yes
-  pops:
-    - estate: peasant
-      size: 1000
 1946.12.11:
+  pops: 
+    azeri_culture-sunni: 0
+    kurdish_culture-sunni: 1
   controller: IRAN
-  pops:
-    - estate: peasant
-      size: 1000

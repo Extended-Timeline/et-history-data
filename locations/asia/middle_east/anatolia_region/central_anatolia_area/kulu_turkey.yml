@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/4307 - Aksaray.txt
 2.1.1:
+  pops: 
+    cappadocian_greek_culture-hellenism_religion: 1
   owner: ROM
   controller: ROM
   cores:
     ROM: yes
   resource: livestock
-  pops:
-    - religion: hellenism_religion
-      estate: peasant
-      size: 1000
 395.1.17:
   owner: BYZ
   controller: BYZ
@@ -16,17 +14,17 @@
     ROM: no
     BYZ: yes
 440.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    cappadocian_greek_culture-hellenism_religion: 0
+    cappadocian_greek_culture-chalcedonism: 1
 750.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    cappadocian_greek_culture-chalcedonism: 0
+    greek_culture-chalcedonism: 1
 867.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    greek_culture-chalcedonism: 0
+    greek_culture-orthodox: 1
 1071.8.26:
   owner: DANI
   controller: DANI
@@ -39,12 +37,11 @@
     DANI: no
     RUM: yes
 1120.1.1:
+  pops: 
+    greek_culture-orthodox: 0
+    turkish_culture-sunni: 1
   cores:
     BYZ: no
-  pops:
-    - religion: sunni
-      estate: peasant
-      size: 1000
 1307.1.1:
   owner: KONY
   controller: KONY

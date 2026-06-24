@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/178 - Anjou.txt
 2.1.1:
+  pops: 
+    gallian-druidism: 1
   owner: ROM
   controller: ROM
   cores:
     ROM: yes
   resource: cloth
-  pops:
-    - religion: druidism
-      estate: peasant
-      size: 1000
 260.1.1:
   cores:
     GALL: yes
@@ -23,9 +21,9 @@
     ROM: no
     ROMW: yes
 420.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    gallian-druidism: 0
+    gallian-chalcedonism: 1
 461.11.1:
   owner: SOIS
   controller: SOIS
@@ -41,9 +39,9 @@
     SOIS: no
     FRAN: yes
 500.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    gallian-chalcedonism: 0
+    languedocien-chalcedonism: 1
 511.11.27:
   owner: ORL
   controller: ORL
@@ -96,9 +94,9 @@
   cores:
     ANJ: yes
 867.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    languedocien-chalcedonism: 0
+    languedocien-catholic: 1
 888.1.13:
   owner: WFRA
   controller: WFRA
@@ -112,9 +110,9 @@
     WFRA: no
     FRA: yes
 1050.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    languedocien-catholic: 0
+    french-catholic: 1
 1154.12.19:
   owner: ENG
   controller: ENG
@@ -164,15 +162,15 @@
   cores:
     FRA: yes
 1560.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    french-catholic: 0
+    french-calvinist: 1
 1652.10.21:
   controller: FRA
 1686.1.17:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    french-calvinist: 0
+    french-catholic: 1
 1870.9.4:
   owner: FRA
   controller: FRA

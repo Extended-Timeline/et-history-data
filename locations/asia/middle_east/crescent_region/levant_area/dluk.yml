@@ -1,18 +1,16 @@
 #imported from EU4 file: history/provinces/4298 - Ayntab.txt
 2.1.1:
+  pops: 
+    syriac_culture-judaism: 1
   owner: ROM
   controller: ROM
   cores:
     ROM: yes
   resource: wool
-  pops:
-    - religion: judaism
-      estate: peasant
-      size: 1000
 260.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    syriac_culture-judaism: 0
+    syriac_culture-chalcedonism: 1
 269.1.1:
   cores:
     PALM: yes
@@ -27,9 +25,9 @@
     ROM: no
     BYZ: yes
 512.11.16:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    syriac_culture-chalcedonism: 0
+    syriac_culture-miaphysite: 1
 613.1.1:
   controller: ERA
 627.1.1:
@@ -46,10 +44,9 @@
     RASH: no
     UMAY: yes
 720.1.1:
-  pops:
-    - religion: sunni
-      estate: peasant
-      size: 1000
+  pops: 
+    syriac_culture-miaphysite: 0
+    levantine_culture-sunni: 1
 750.8.6:
   owner: ABBA
   controller: ABBA
@@ -130,9 +127,9 @@
   cores:
     ARM: no
 1320.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    levantine_culture-sunni: 0
+    turkish_culture-sunni: 1
 1337.1.1:
   owner: DUL
   controller: DUL

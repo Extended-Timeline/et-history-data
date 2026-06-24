@@ -1,9 +1,7 @@
 #imported from EU4 file: history/provinces/4089 - Kuba.txt
 2.1.1:
-  pops:
-    - religion: bantu_religion
-      estate: peasant
-      size: 1000
+  pops: 
+    kuba-bantu_religion: 1
 1350.1.1:
   owner: KUB
   controller: KUB
@@ -11,13 +9,13 @@
     KUB: yes
   resource: tropical_wood
 1892.1.1:
+  pops: 
+    kuba-bantu_religion: 0
+    kuba-lutheran: 1
   owner: BEL
   controller: BEL
   cores:
     BEL: yes
-  pops:
-    - estate: peasant
-      size: 1000
 1960.7.1:
   owner: DRCO
   controller: DRCO

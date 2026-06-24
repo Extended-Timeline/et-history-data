@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/4707 - Rosenheim.txt
 2.1.1:
+  pops: 
+    southern_bavarian-germanic: 1
   owner: ROM
   controller: ROM
   cores:
     ROM: yes
   resource: salt
-  pops:
-    - religion: germanic_polytheism
-      estate: peasant
-      size: 1000
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -24,9 +22,9 @@
   cores:
     ROMW: no
 720.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    southern_bavarian-germanic: 0
+    southern_bavarian-chalcedonism: 1
 788.1.1:
   owner: FRAN
   controller: FRAN
@@ -39,9 +37,9 @@
     FRAN: no
     BAV: yes
 867.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    southern_bavarian-chalcedonism: 0
+    southern_bavarian-catholic: 1
 880.3.22:
   owner: EFRA
   controller: EFRA

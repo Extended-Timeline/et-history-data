@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/2411 - Mansur.txt
 2.1.1:
+  pops: 
+    sarmatian-: 1
   owner: SARM
   controller: SARM
   cores:
     SARM: yes
   resource: livestock
-  pops:
-    - religion: 
-      estate: peasant
-      size: 1000
 220.1.1:
   owner: OSTR
   controller: OSTR
@@ -16,20 +14,18 @@
     SARM: no
     OSTR: yes
 370.1.1:
+  pops: 
+    hunnic-: 1
   owner: HUNS
   controller: HUNS
   cores:
     OSTR: no
     HUNS: yes
-  pops:
-    - estate: peasant
-      size: 1000
 420.1.1:
+  pops: 
+    bolghar_culture-: 1
   cores:
     KUTR: yes
-  pops:
-    - estate: peasant
-      size: 1000
 469.1.1:
   owner: KUTR
   controller: KUTR
@@ -42,14 +38,13 @@
     KUTR: no
     BUL: yes
 750.1.1:
+  pops: 
+    hungarian-: 1
   owner: HUN
   controller: HUN
   cores:
     BUL: no
     HUN: yes
-  pops:
-    - estate: peasant
-      size: 1000
 840.1.1:
   owner: KHAZ
   controller: KHAZ
@@ -57,14 +52,13 @@
     HUN: no
     KHAZ: yes
 969.1.1:
+  pops: 
+    pecheneg-: 1
   owner: PECH
   controller: PECH
   cores:
     KHAZ: no
     PECH: yes
-  pops:
-    - estate: peasant
-      size: 1000
 1060.1.1:
   owner: CUMA
   controller: CUMA
@@ -72,9 +66,8 @@
     PECH: no
     CUMA: yes
 1220.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    crimean-: 1
 1241.1.1:
   owner: MGE
   controller: MGE
@@ -89,9 +82,8 @@
     MGE: no
     WHHO: yes
 1280.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    crimean-sunni: 1
 1372.1.1:
   owner: BLHO
   controller: BLHO
@@ -113,14 +105,13 @@
   cores:
     CRI: yes
 1555.1.1:
+  pops: 
+    crimean-sunni: 0
+    ruthenian-orthodox: 1
   owner: ZAZ
   controller: ZAZ
   cores:
     CRI: no
-  pops:
-    - religion: orthodox
-      estate: peasant
-      size: 1000
 1700.7.14:
   owner: RUS
   cores:

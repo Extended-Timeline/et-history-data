@@ -1,18 +1,16 @@
 #imported from EU4 file: history/provinces/338 - Al-Djazair.txt
 2.1.1:
+  pops: 
+    zenati-bantu_religion: 1
   owner: ROM
   controller: ROM
   cores:
     ROM: yes
   resource: grain
-  pops:
-    - religion: bantu_religion
-      estate: peasant
-      size: 1000
 360.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    zenati-bantu_religion: 0
+    zenati-chalcedonism: 1
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -20,14 +18,14 @@
     ROM: no
     ROMW: yes
 429.1.1:
+  pops: 
+    zenati-chalcedonism: 0
+    zenati-arianism: 1
   owner: VAND
   controller: VAND
   cores:
     ROMW: no
     VAND: yes
-  pops:
-    - estate: peasant
-      size: 1000
 534.3.1:
   owner: BYZ
   controller: BYZ
@@ -35,9 +33,9 @@
     VAND: no
     BYZ: yes
 560.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    zenati-arianism: 0
+    zenati-chalcedonism: 1
 708.1.1:
   owner: UMAY
   controller: UMAY
@@ -45,9 +43,9 @@
     BYZ: no
     UMAY: yes
 740.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    zenati-chalcedonism: 0
+    zenati-ibadi: 1
 743.1.1:
   owner: TLE
   controller: TLE
@@ -67,10 +65,9 @@
     MZB: no
     FATI: yes
 940.1.1:
-  pops:
-    - religion: shia
-      estate: peasant
-      size: 1000
+  pops: 
+    zenati-ibadi: 0
+    algerian-shia: 1
 973.1.1:
   owner: TUN
   controller: TUN
@@ -84,9 +81,9 @@
     TUN: no
     KABY: yes
 1050.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    algerian-shia: 0
+    algerian-sunni: 1
 1152.1.1:
   owner: MOR
   controller: MOR

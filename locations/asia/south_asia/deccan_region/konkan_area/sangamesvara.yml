@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/530 - Malvana.txt
 2.1.1:
+  pops: 
+    marathi_culture-jain: 1
   owner: SATA
   controller: SATA
   cores:
     SATA: yes
   resource: spices
-  pops:
-    - religion: jain
-      estate: peasant
-      size: 1000
 220.1.1:
   owner: ABHI
   controller: ABHI
@@ -46,9 +44,9 @@
     RAST: no
     KONK: yes
 1220.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    marathi_culture-jain: 0
+    marathi_culture-hindu: 1
 1265.1.1:
   owner: YADA
   controller: YADA

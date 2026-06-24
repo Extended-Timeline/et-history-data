@@ -1,34 +1,30 @@
 #imported from EU4 file: history/provinces/257 - Warszawa.txt
 2.1.1:
+  pops: 
+    yotvingian-romuva: 1
   owner: NEUR
   controller: NEUR
   cores:
     NEUR: yes
   resource: cloth
-  pops:
-    - religion: romuva
-      estate: peasant
-      size: 1000
 140.1.1:
+  pops: 
+    yotvingian-romuva: 0
+    gothic-germanic: 1
   owner: GOTH
   controller: GOTH
   cores:
     NEUR: no
     GOTH: yes
-  pops:
-    - religion: germanic_polytheism
-      estate: peasant
-      size: 1000
 150.1.1:
+  pops: 
+    gothic-germanic: 0
+    lesser_polish-slavic: 1
   owner: VEND
   controller: VEND
   cores:
     NEUR: no
     VEND: yes
-  pops:
-    - religion: slavic_polytheism
-      estate: peasant
-      size: 1000
 450.1.1:
   owner: MAZ
   controller: MAZ
@@ -49,9 +45,9 @@
   owner: POL
   controller: POL
 1050.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    lesser_polish-slavic: 0
+    lesser_polish-catholic: 1
 1138.10.28:
   owner: MAZ
   controller: MAZ

@@ -1,19 +1,16 @@
 #imported from EU4 file: history/provinces/2874 - Aysen.txt
 2.1.1:
-  pops:
-    - religion: muisca_religion
-      estate: peasant
-      size: 1000
+  pops: 
+    teushen_culture-muisca_religion: 1
 1776.1.1:
+  pops: 
+    teushen_culture-muisca_religion: 0
+    iberian_peruvian-catholic: 1
   owner: SPA
   controller: SPA
   cores:
     SPA: yes
   resource: fish
-  pops:
-    - religion: catholic
-      estate: peasant
-      size: 1000
 1810.9.18:
   owner: CHIL
   controller: CHIL

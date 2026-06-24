@@ -1,9 +1,7 @@
 #imported from EU4 file: history/provinces/4355 - Caraga.txt
 2.1.1:
-  pops:
-    - religion: bimoism
-      estate: peasant
-      size: 1000
+  pops: 
+    cebuano_culture-bimoism: 1
 1655.6.29:
   owner: SPA
   controller: SPA
@@ -11,9 +9,9 @@
     SPA: yes
   resource: grain
 1752.2.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    cebuano_culture-bimoism: 0
+    cebuano_culture-catholic: 1
 1872.1.1:
   cores:
     PHIL: yes
@@ -23,9 +21,6 @@
   cores:
     SPA: yes
 1890.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
 1898.8.12:
   owner: USA
   controller: USA

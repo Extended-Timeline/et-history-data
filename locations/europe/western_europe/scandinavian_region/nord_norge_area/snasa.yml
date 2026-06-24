@@ -1,9 +1,7 @@
 #imported from EU4 file: history/provinces/20 - Trondelag.txt
 2.1.1:
-  pops:
-    - religion: norse
-      estate: peasant
-      size: 1000
+  pops: 
+    norwegian-norse: 1
 700.1.1:
   owner: HALO
   controller: HALO
@@ -17,17 +15,17 @@
     HALO: no
     NOR: yes
 997.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    norwegian-norse: 0
+    norwegian-catholic: 1
 1536.1.1:
+  pops: 
+    norwegian-catholic: 0
+    norwegian-lutheran: 1
   owner: DAN
   controller: DAN
   cores:
     DAN: yes
-  pops:
-    - estate: peasant
-      size: 1000
 1564.3.3:
   controller: SWE
 1564.5.21:

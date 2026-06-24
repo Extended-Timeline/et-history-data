@@ -1,37 +1,34 @@
 #imported from EU4 file: history/provinces/254 - Poznan.txt
 2.1.1:
+  pops: 
+    burgundione-germanic: 1
   owner: BUR
   controller: BUR
   cores:
     BUR: yes
   resource: salt
-  pops:
-    - religion: germanic_polytheism
-      estate: peasant
-      size: 1000
 280.1.1:
+  pops: 
+    burgundione-germanic: 0
+    western_pomeranian-germanic: 1
   owner: LEMO
   controller: LEMO
   cores:
     BUR: no
     LEMO: yes
-  pops:
-    - estate: peasant
-      size: 1000
 395.1.1:
+  pops: 
+    western_pomeranian-germanic: 0
+    lesser_polish-slavic: 1
   owner: POL
   controller: POL
   cores:
     LEMO: no
     POL: yes
-  pops:
-    - religion: slavic_polytheism
-      estate: peasant
-      size: 1000
 966.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    lesser_polish-slavic: 0
+    lesser_polish-catholic: 1
 1138.10.28:
   owner: GPOL
   controller: GPOL

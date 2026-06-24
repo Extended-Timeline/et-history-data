@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/2196 - Guria.txt
 2.1.1:
+  pops: 
+    georgian_culture-georgian_religion: 1
   owner: PONT
   controller: PONT
   cores:
     PONT: yes
   resource: fish
-  pops:
-    - religion: georgian_religion
-      estate: peasant
-      size: 1000
 62.1.1:
   owner: ROM
   controller: ROM
@@ -18,9 +16,9 @@
   cores:
     PONT: no
 360.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    georgian_culture-georgian_religion: 0
+    georgian_culture-chalcedonism: 1
 395.1.17:
   owner: BYZ
   controller: BYZ
@@ -45,9 +43,9 @@
     BYZ: no
     GEO: yes
 867.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    georgian_culture-chalcedonism: 0
+    georgian_culture-orthodox: 1
 1234.1.1:
   owner: MGE
   controller: MGE
@@ -115,7 +113,3 @@
   cores:
     TUR: no
 1923.1.1:
-  pops:
-    - religion: sunni
-      estate: peasant
-      size: 1000

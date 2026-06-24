@@ -1,15 +1,13 @@
 #imported from EU4 file: history/provinces/700 - Shaanxi.txt
 2.1.1:
+  pops: 
+    zhongyuan_culture-sanjiao: 1
   owner: HAN0
   controller: HAN0
   cores:
     HAN0: yes
     WEI0: yes
   resource: grain
-  pops:
-    - religion: sanjiao
-      estate: peasant
-      size: 1000
 9.1.10:
   owner: XIN0
   controller: XIN0

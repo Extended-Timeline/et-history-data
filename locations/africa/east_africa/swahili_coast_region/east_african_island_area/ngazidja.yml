@@ -1,17 +1,15 @@
 #imported from EU4 file: history/provinces/4020 - Comores.txt
 2.1.1:
-  pops:
-    - religion: bimoism
-      estate: peasant
-      size: 1000
+  pops: 
+    uninhabited-bimoism: 1
 800.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    uninhabited-bimoism: 0
+    swahili_culture-bimoism: 1
 1200.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    swahili_culture-bimoism: 0
+    swahili_culture-sunni: 1
 1886.1.1:
   owner: FRA
   controller: FRA

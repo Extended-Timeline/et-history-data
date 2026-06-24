@@ -1,27 +1,25 @@
 #imported from EU4 file: history/provinces/4531 - Bucharest.txt
 2.1.1:
+  pops: 
+    dacian-zamolxism: 1
   owner: DACI
   controller: DACI
   cores:
     DACI: yes
   resource: livestock
-  pops:
-    - religion: zamolxism
-      estate: peasant
-      size: 1000
 271.1.1:
+  pops: 
+    dacian-zamolxism: 0
+    gothic-zamolxism: 1
   owner: VISG
   controller: VISG
   cores:
     DACI: no
     VISG: yes
-  pops:
-    - estate: peasant
-      size: 1000
 290.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    gothic-zamolxism: 0
+    gothic-germanic: 1
 376.1.1:
   owner: HUNS
   controller: HUNS
@@ -29,9 +27,9 @@
     VISG: no
     HUNS: yes
 400.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    gothic-germanic: 0
+    gothic-: 1
 520.1.1:
   owner: ANTE
   controller: ANTE
@@ -45,18 +43,16 @@
     ANTE: no
     AVR: yes
 681.1.1:
+  pops: 
+    wallachian-: 1
   owner: BUL
   controller: BUL
   cores:
     AVR: no
     BUL: yes
-  pops:
-    - estate: peasant
-      size: 1000
 867.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    wallachian-orthodox: 1
 1003.1.1:
   owner: HUN
   controller: HUN

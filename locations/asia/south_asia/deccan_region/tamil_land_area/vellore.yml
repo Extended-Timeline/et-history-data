@@ -1,27 +1,25 @@
 #imported from EU4 file: history/provinces/2027 - Arcot.txt
 2.1.1:
+  pops: 
+    tamil-hindu: 1
   owner: CHOL
   controller: CHOL
   cores:
     CHOL: yes
   resource: iron
-  pops:
-    - religion: hindu
-      estate: peasant
-      size: 1000
 275.1.1:
   owner: PALL
   controller: PALL
   cores:
     PALL: yes
 590.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    tamil-hindu: 0
+    tamil-jain: 1
 620.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    tamil-jain: 0
+    tamil-hindu: 1
 848.1.1:
   owner: CHOL
   controller: CHOL

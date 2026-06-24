@@ -1,33 +1,31 @@
 #imported from EU4 file: history/provinces/1224 - Gonder.txt
 2.1.1:
+  pops: 
+    agaw_culture-bantu_religion: 1
   owner: AWI0
   controller: AWI0
   cores:
     AWI0: yes
   resource: grain
-  pops:
-    - religion: bantu_religion
-      estate: peasant
-      size: 1000
 318.1.1:
   owner: AKSM
   controller: AKSM
   cores:
     AKSM: yes
 330.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    agaw_culture-bantu_religion: 0
+    agaw_culture-chalcedonism: 1
 350.1.1:
+  pops: 
+    agaw_culture-chalcedonism: 0
+    amhara-chalcedonism: 1
   cores:
     AWI0: no
-  pops:
-    - estate: peasant
-      size: 1000
 451.11.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    amhara-chalcedonism: 0
+    amhara-miaphysite: 1
 960.1.1:
   owner: ETH
   controller: ETH

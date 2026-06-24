@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/397 - Beni Yas.txt
 2.1.1:
+  pops: 
+    bahrani_culture-south_arabian: 1
   owner: MASC
   controller: MASC
   cores:
     MASC: yes
   resource: livestock
-  pops:
-    - religion: south_arabian_polytheism
-      estate: peasant
-      size: 1000
 325.1.1:
   owner: ERA
   controller: ERA
@@ -16,23 +14,23 @@
     MASC: no
     ERA: yes
 634.1.1:
+  pops: 
+    bahrani_culture-south_arabian: 0
+    bahrani_culture-islam: 1
   owner: RASH
   controller: RASH
   cores:
     ERA: no
     RASH: yes
-  pops:
-    - estate: peasant
-      size: 1000
 661.7.28:
+  pops: 
+    bahrani_culture-islam: 0
+    bahrani_culture-shia: 1
   owner: UMAY
   controller: UMAY
   cores:
     RASH: no
     UMAY: yes
-  pops:
-    - estate: peasant
-      size: 1000
 750.8.6:
   owner: ABBA
   controller: ABBA
@@ -108,9 +106,9 @@
     YAS: yes
   resource: gems
 1830.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    bahrani_culture-shia: 0
+    bahrani_culture-sunni: 1
 1833.7.9:
   owner: DUBA
   controller: DUBA

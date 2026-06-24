@@ -1,18 +1,16 @@
 #imported from EU4 file: history/provinces/103 - Piedmont.txt
 2.1.1:
+  pops: 
+    ligurian-hellenism_religion: 1
   owner: ROM
   controller: ROM
   cores:
     ROM: yes
   resource: wine
-  pops:
-    - religion: hellenism_religion
-      estate: peasant
-      size: 1000
 300.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    ligurian-hellenism_religion: 0
+    ligurian-chalcedonism: 1
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -34,22 +32,22 @@
     ITA: no
     OSTR: yes
 500.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    ligurian-chalcedonism: 0
+    ligurian-arianism: 1
 553.1.1:
+  pops: 
+    ligurian-arianism: 0
+    piedmontese-arianism: 1
   owner: LOMB
   controller: LOMB
   cores:
     OSTR: no
     LOMB: yes
-  pops:
-    - estate: peasant
-      size: 1000
 600.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    piedmontese-arianism: 0
+    piedmontese-chalcedonism: 1
 773.1.1:
   owner: FRAN
   controller: FRAN
@@ -69,9 +67,9 @@
     LOMB: no
     ITA: yes
 867.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    piedmontese-chalcedonism: 0
+    piedmontese-catholic: 1
 962.2.2:
   owner: TURI
   controller: TURI

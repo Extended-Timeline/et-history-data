@@ -1,23 +1,21 @@
 #imported from EU4 file: history/provinces/730 - Haixi.txt
 2.1.1:
+  pops: 
+    buyeo-muism: 1
   owner: BUYE
   controller: BUYE
   cores:
     BUYE: yes
   resource: grain
-  pops:
-    - religion: muism
-      estate: peasant
-      size: 1000
 380.1.1:
   owner: GOGU
   controller: GOGU
   cores:
     GOGU: yes
 390.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    buyeo-muism: 0
+    buyeo-mahayana: 1
 698.1.1:
   owner: BALH
   controller: BALH
@@ -31,13 +29,13 @@
     BALH: no
     LIAO: yes
 950.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    buyeo-mahayana: 0
+    jurchen_culture-mahayana: 1
 1110.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    jurchen_culture-mahayana: 0
+    jurchen_culture-sanjiao: 1
 1115.1.1:
   owner: JIN0
   controller: JIN0
@@ -68,14 +66,14 @@
   cores:
     JIAZ: yes
 1616.1.1:
+  pops: 
+    jurchen_culture-sanjiao: 0
+    manchu_new-sanjiao: 1
   owner: MCH
   controller: MCH
   cores:
     JIAZ: no
     MCH: yes
-  pops:
-    - estate: peasant
-      size: 1000
 1636.5.15:
   owner: QNG
   controller: QNG

@@ -1,48 +1,44 @@
 #imported from EU4 file: history/provinces/2558 - Espachomy.txt
 2.1.1:
-  pops:
-    - religion: iroquoian_totemism
-      estate: peasant
-      size: 1000
+  pops: 
+    unami_culture-iroquoian_totemism: 1
 1652.1.1:
+  pops: 
+    unami_culture-iroquoian_totemism: 0
+    low_franconian-calvinist: 1
   owner: NED
   controller: NED
   cores:
     NED: yes
   resource: grain
-  pops:
-    - religion: calvinist
-      estate: peasant
-      size: 1000
 1665.6.1:
   controller: ENG
 1667.7.31:
+  pops: 
+    low_franconian-calvinist: 0
+    english-calvinist: 1
   owner: ENG
   cores:
     NED: no
     ENG: yes
-  pops:
-    - estate: peasant
-      size: 1000
 1673.1.1:
+  pops: 
+    english-calvinist: 0
+    low_franconian-calvinist: 1
   owner: NED
   controller: NED
   cores:
     ENG: no
     NED: yes
-  pops:
-    - estate: peasant
-      size: 1000
 1674.11.1:
+  pops: 
+    low_franconian-calvinist: 0
+    english-lutheran: 1
   owner: ENG
   controller: ENG
   cores:
     NED: no
     ENG: yes
-  pops:
-    - religion: lutheran
-      estate: peasant
-      size: 1000
 1707.5.12:
   owner: GBR
   controller: GBR
@@ -50,9 +46,9 @@
     ENG: no
     GBR: yes
 1764.7.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    english-lutheran: 0
+    american-lutheran: 1
 1776.7.4:
   owner: USA
   controller: USA

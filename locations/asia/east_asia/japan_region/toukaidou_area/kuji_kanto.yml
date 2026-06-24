@@ -1,18 +1,16 @@
 #imported from EU4 file: history/provinces/1027 - Hitachi.txt
 2.1.1:
+  pops: 
+    emishi-mari_paganism: 1
   owner: EMIS
   controller: EMIS
   cores:
     EMIS: yes
   resource: fish
-  pops:
-    - religion: mari_paganism
-      estate: peasant
-      size: 1000
 607.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    emishi-mari_paganism: 0
+    emishi-mahayana: 1
 650.1.1:
   owner: YMT
   controller: YMT
@@ -20,13 +18,13 @@
     EMIS: no
     YMT: yes
 712.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    emishi-mahayana: 0
+    emishi-shinto: 1
 750.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    emishi-shinto: 0
+    saigoku_culture-shinto: 1
 794.1.1:
   owner: JAP
   controller: JAP

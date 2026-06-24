@@ -1,17 +1,15 @@
 #imported from EU4 file: history/provinces/1986 - New Caledonia.txt
 2.1.1:
-  pops:
-    - religion: bimoism
-      estate: peasant
-      size: 1000
+  pops: 
+    tiri_culture-bimoism: 1
 1854.6.25:
+  pops: 
+    tiri_culture-bimoism: 0
+    tiri_culture-catholic: 1
   owner: FRA
   controller: FRA
   cores:
     FRA: yes
-  pops:
-    - estate: peasant
-      size: 1000
 1864.1.1:
   resource: copper
 1870.9.4:

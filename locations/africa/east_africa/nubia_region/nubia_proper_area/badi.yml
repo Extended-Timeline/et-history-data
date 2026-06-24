@@ -1,18 +1,16 @@
 #imported from EU4 file: history/provinces/1232 - Suakin.txt
 2.1.1:
+  pops: 
+    beja_culture-egyptian: 1
   owner: BLEM
   controller: BLEM
   cores:
     BLEM: yes
   resource: slaves
-  pops:
-    - religion: egyptian_polytheism
-      estate: peasant
-      size: 1000
 480.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    beja_culture-egyptian: 0
+    beja_culture-miaphysite: 1
 650.1.1:
   owner: NAGS
   controller: NAGS
@@ -20,9 +18,9 @@
     BLEM: no
     NAGS: yes
 1250.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    beja_culture-miaphysite: 0
+    beja_culture-sunni: 1
 1317.1.1:
   owner: MAM
   controller: MAM

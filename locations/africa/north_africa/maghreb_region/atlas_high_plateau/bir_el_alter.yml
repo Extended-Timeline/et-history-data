@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/351 - Biskra.txt
 2.1.1:
+  pops: 
+    zenati-bantu_religion: 1
   owner: ROM
   controller: ROM
   cores:
     ROM: yes
   resource: wool
-  pops:
-    - religion: bantu_religion
-      estate: peasant
-      size: 1000
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -22,9 +20,9 @@
     ROMW: no
     AURE: yes
 540.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    zenati-bantu_religion: 0
+    zenati-chalcedonism: 1
 702.1.1:
   owner: UMAY
   controller: UMAY
@@ -42,9 +40,9 @@
   cores:
     ABBA: yes
 760.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    zenati-chalcedonism: 0
+    zenati-ibadi: 1
 777.1.1:
   owner: MZB
   controller: MZB
@@ -70,9 +68,9 @@
     TUN: no
     TGT: yes
 1080.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    zenati-ibadi: 0
+    zenati-sunni: 1
 1671.1.1:
   owner: ALG
   controller: ALG

@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/4578 - Tzapotzingo.txt
 2.1.1:
+  pops: 
+    tepic-nahuatl: 1
   owner: TEUC
   controller: TEUC
   cores:
     TEUC: yes
   resource: wool
-  pops:
-    - religion: nahuatl
-      estate: peasant
-      size: 1000
 1000.1.1:
   owner: XAL
   controller: XAL
@@ -16,17 +14,17 @@
     TEUC: no
     XAL: yes
 1532.1.1:
+  pops: 
+    tepic-nahuatl: 0
+    tepic-catholic: 1
   owner: SPA
   controller: SPA
   cores:
     SPA: yes
-  pops:
-    - estate: peasant
-      size: 1000
 1770.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    tepic-catholic: 0
+    mexican-catholic: 1
 1810.9.16:
   owner: MEX
   controller: MEX

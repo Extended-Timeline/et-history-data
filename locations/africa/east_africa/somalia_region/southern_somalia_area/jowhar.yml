@@ -1,18 +1,16 @@
 #imported from EU4 file: history/provinces/2780 - Beledweyne.txt
 2.1.1:
-  pops:
-    - religion: bantu_religion
-      estate: peasant
-      size: 1000
+  pops: 
+    somali_culture-bantu_religion: 1
 850.1.1:
+  pops: 
+    somali_culture-bantu_religion: 0
+    somali_culture-sunni: 1
   owner: AJU
   controller: AJU
   cores:
     AJU: yes
   resource: livestock
-  pops:
-    - estate: peasant
-      size: 1000
 1526.1.1:
   owner: ADA
   controller: ADA

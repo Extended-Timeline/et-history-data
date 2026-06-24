@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/558 - Bihar.txt
 2.1.1:
+  pops: 
+    magahi-mahayana: 1
   owner: MAGA
   controller: MAGA
   cores:
     MAGA: yes
   resource: silk
-  pops:
-    - religion: mahayana
-      estate: peasant
-      size: 1000
 120.1.1:
   owner: KUSH
   controller: KUSH
@@ -69,9 +67,9 @@
     GHOR: no
     DLH: yes
 1250.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    magahi-mahayana: 0
+    magahi-hindu: 1
 1394.1.1:
   owner: JNP
   controller: JNP

@@ -1,51 +1,46 @@
 #imported from EU4 file: history/provinces/162 - Zemplen.txt
 2.1.1:
+  pops: 
+    pannonian-druidism: 1
   owner: BAST
   controller: BAST
   cores:
     BAST: yes
   resource: grain
-  pops:
-    - religion: druidism
-      estate: peasant
-      size: 1000
 150.1.1:
-  pops:
-    - religion: germanic_polytheism
-      estate: peasant
-      size: 1000
+  pops: 
+    pannonian-druidism: 0
+    gothic-germanic: 1
 200.1.1:
+  pops: 
+    gothic-germanic: 0
+    gepid-germanic: 1
   owner: GEPI
   controller: GEPI
   cores:
     BAST: no
     GEPI: yes
-  pops:
-    - estate: peasant
-      size: 1000
 469.1.1:
+  pops: 
+    gepid-germanic: 0
+    scirian-germanic: 1
   owner: SCIR
   controller: SCIR
   cores:
     GEPI: no
     SCIR: yes
-  pops:
-    - estate: peasant
-      size: 1000
 567.1.1:
+  pops: 
+    scirian-germanic: 0
+    avar_culture-: 1
   owner: AVR
   controller: AVR
   cores:
     SCIR: no
     AVR: yes
-  pops:
-    - religion: 
-      estate: peasant
-      size: 1000
 750.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    slovak-: 1
 804.1.1:
   owner: HUN
   controller: HUN
@@ -53,9 +48,8 @@
     AVR: no
     HUN: yes
 1010.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    slovak-catholic: 1
 1526.8.30:
   owner: HAB
   controller: HAB
@@ -63,9 +57,9 @@
     HAB: yes
     TRA: yes
 1545.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    slovak-catholic: 0
+    slovak-lutheran: 1
 1570.1.1:
   cores:
     TRA: no
@@ -74,9 +68,9 @@
 1626.1.1:
   controller: HAB
 1640.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    slovak-lutheran: 0
+    slovak-catholic: 1
 1648.1.1:
   owner: TRA
   controller: TRA

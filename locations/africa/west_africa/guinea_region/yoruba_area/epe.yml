@@ -1,9 +1,7 @@
 #imported from EU4 file: history/provinces/2290 - Ijebu.txt
 2.1.1:
-  pops:
-    - religion: bantu_religion
-      estate: peasant
-      size: 1000
+  pops: 
+    yoruba-bantu_religion: 1
 523.1.1:
   owner: IFE
   controller: IFE
@@ -23,9 +21,9 @@
     GBR: yes
   resource: ivory
 1900.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    yoruba-bantu_religion: 0
+    yoruba-lutheran: 1
 1960.10.1:
   owner: NIGR
   controller: NIGR

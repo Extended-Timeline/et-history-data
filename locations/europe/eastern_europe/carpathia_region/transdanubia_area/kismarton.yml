@@ -1,18 +1,17 @@
 #imported from EU4 file: history/provinces/135 - Sopron.txt
 2.1.1:
+  pops: 
+    noric-druidism: 1
   owner: ROM
   controller: ROM
   cores:
     ROM: yes
   resource: grain
-  pops:
-    - religion: druidism
-      estate: peasant
-      size: 1000
+340.1.1:
+  pops: 
+    noric-druidism: 0
+    noric-chalcedonism: 1
 380.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -20,16 +19,24 @@
     ROM: no
     ROMW: yes
 420.1.1:
-  pops:
-    - religion: germanic_polytheism
-      estate: peasant
-      size: 1000
 447.1.1:
   owner: OSTR
   controller: OSTR
   cores:
     ROMW: no
     OSTR: yes
+460.1.1:
+  pops: 
+    noric-chalcedonism: 0
+    danube_bavarian-chalcedonism: 1
+467.1.1:
+  pops: 
+    danube_bavarian-chalcedonism: 0
+    danube_bavarian-arianism: 1
+489.1.1:
+  pops: 
+    danube_bavarian-arianism: 0
+    langobardi-arianism: 1
 530.1.1:
   owner: GEPI
   controller: GEPI
@@ -37,22 +44,20 @@
     OSTR: no
     GEPI: yes
 540.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
 567.1.1:
   owner: AVR
   controller: AVR
   cores:
     GEPI: no
     AVR: yes
-  pops:
-    - estate: peasant
-      size: 1000
+568.1.1:
+  pops: 
+    langobardi-arianism: 0
+    danube_bavarian-arianism: 1
 570.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    danube_bavarian-arianism: 0
+    danube_bavarian-chalcedonism: 1
 846.1.1:
   owner: PANO
   controller: PANO
@@ -60,22 +65,16 @@
     AVR: no
     PANO: yes
 850.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
 867.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    danube_bavarian-chalcedonism: 0
+    danube_bavarian-catholic: 1
 897.1.1:
   owner: HUN
   controller: HUN
   cores:
     PANO: no
     HUN: yes
-  pops:
-    - estate: peasant
-      size: 1000
 1507.1.1:
   controller: HUN
 1515.1.1:
@@ -86,14 +85,7 @@
   cores:
     HAB: yes
 1545.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
 1580.1.1:
-  pops:
-    - ethnicity: danube_bavarian
-      estate: peasant
-      size: 1000
 1594.9.29:
   controller: TUR
 1598.3.28:

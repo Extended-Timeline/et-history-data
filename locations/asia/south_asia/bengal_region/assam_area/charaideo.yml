@@ -1,23 +1,21 @@
 #imported from EU4 file: history/provinces/4440 - Narayanpur.txt
 2.1.1:
+  pops: 
+    dimasa_culture-bimoism: 1
   owner: DAVA
   controller: DAVA
   cores:
     DAVA: yes
   resource: tea
-  pops:
-    - religion: bimoism
-      estate: peasant
-      size: 1000
 400.1.1:
   owner: KAMA
   controller: KAMA
   cores:
     KAMA: yes
 500.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    dimasa_culture-bimoism: 0
+    dimasa_culture-hindu: 1
 1100.1.1:
   owner: SADI
   controller: SADI
@@ -31,9 +29,9 @@
     SADI: no
     AHO: yes
 1230.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    dimasa_culture-hindu: 0
+    tai_nua_culture-hindu: 1
 1770.4.11:
   controller: AHO
 1817.3.27:
@@ -62,9 +60,9 @@
   cores:
     GBR: yes
 1840.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    tai_nua_culture-hindu: 0
+    kamarupi-hindu: 1
 1930.1.1:
   cores:
     BURM: no

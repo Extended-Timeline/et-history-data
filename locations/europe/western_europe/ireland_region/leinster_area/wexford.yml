@@ -1,22 +1,20 @@
 #imported from EU4 file: history/provinces/374 - Leinster.txt
 2.1.1:
+  pops: 
+    irish-druidism: 1
   owner: LEI
   controller: LEI
   cores:
     LEI: yes
   resource: livestock
-  pops:
-    - religion: druidism
-      estate: peasant
-      size: 1000
 600.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    irish-druidism: 0
+    irish-chalcedonism: 1
 867.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    irish-chalcedonism: 0
+    irish-catholic: 1
 996.1.1:
   owner: DMS
   controller: DMS

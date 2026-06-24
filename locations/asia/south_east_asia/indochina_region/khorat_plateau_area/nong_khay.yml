@@ -1,9 +1,7 @@
 #imported from EU4 file: history/provinces/2385 - Nongbua Lamphu.txt
 2.1.1:
-  pops:
-    - religion: bimoism
-      estate: peasant
-      size: 1000
+  pops: 
+    bru_culture-bimoism: 1
 550.1.1:
   owner: CHTB
   controller: CHTB
@@ -11,27 +9,27 @@
     CHTB: yes
   resource: grain
 650.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    bru_culture-bimoism: 0
+    bru_culture-mahayana: 1
 880.1.1:
   owner: CAMB
   controller: CAMB
   cores:
     CAMB: yes
 950.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    bru_culture-mahayana: 0
+    khmer_culture-mahayana: 1
 1050.1.1:
+  pops: 
+    khmer_culture-mahayana: 0
+    lao_culture-mahayana: 1
   owner: CHTB
   controller: CHTB
   cores:
     CAMB: no
     CHTB: yes
-  pops:
-    - estate: peasant
-      size: 1000
 1185.1.1:
   owner: CAMB
   controller: CAMB
@@ -49,9 +47,9 @@
   cores:
     SUK: yes
 1290.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    lao_culture-mahayana: 0
+    lao_culture-theravada: 1
 1354.1.1:
   owner: LAXA
   controller: LAXA

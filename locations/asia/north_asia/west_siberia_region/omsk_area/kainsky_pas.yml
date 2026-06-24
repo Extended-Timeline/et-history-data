@@ -1,18 +1,16 @@
 #imported from EU4 file: history/provinces/2433 - Vah.txt
 2.1.1:
-  pops:
-    - religion: mari_paganism
-      estate: peasant
-      size: 1000
+  pops: 
+    selkup_culture-mari_paganism: 1
 1245.1.1:
+  pops: 
+    selkup_culture-mari_paganism: 0
+    selkup_culture-: 1
   owner: MGE
   controller: MGE
   cores:
     MGE: yes
   resource: fur
-  pops:
-    - estate: peasant
-      size: 1000
 1260.1.1:
   owner: BLHO
   controller: BLHO
@@ -34,14 +32,12 @@
   owner: SIBI
   controller: SIBI
 1582.10.23:
+  pops: 
+    muscovite-orthodox: 1
   owner: RUS
   controller: RUS
   cores:
     RUS: yes
-  pops:
-    - religion: orthodox
-      estate: peasant
-      size: 1000
 1620.1.1:
   cores:
     SIBI: no

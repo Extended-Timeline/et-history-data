@@ -1,32 +1,30 @@
 #imported from EU4 file: history/provinces/77 - Pfalz.txt
 2.1.1:
+  pops: 
+    high_alemannic-germanic: 1
   owner: ALEM
   controller: ALEM
   cores:
     ALEM: yes
   resource: wine
-  pops:
-    - religion: germanic_polytheism
-      estate: peasant
-      size: 1000
 395.1.1:
+  pops: 
+    high_alemannic-germanic: 0
+    burgundione-germanic: 1
   owner: BUR
   controller: BUR
   cores:
     ALEM: no
     BUR: yes
-  pops:
-    - estate: peasant
-      size: 1000
 443.1.1:
+  pops: 
+    burgundione-germanic: 0
+    high_alemannic-germanic: 1
   owner: ALEM
   controller: ALEM
   cores:
     BUR: no
     ALEM: yes
-  pops:
-    - estate: peasant
-      size: 1000
 496.1.1:
   owner: FRAN
   controller: FRAN
@@ -53,9 +51,9 @@
   owner: ASTS
   controller: ASTS
 600.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    high_alemannic-germanic: 0
+    high_alemannic-chalcedonism: 1
 613.10.10:
   owner: FRAN
   controller: FRAN
@@ -80,9 +78,9 @@
     FRAN: no
     EFRA: yes
 867.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    high_alemannic-chalcedonism: 0
+    high_alemannic-catholic: 1
 911.11.10:
   owner: FKN
   controller: FKN
@@ -96,9 +94,9 @@
     FKN: no
     PAL: yes
 1546.4.19:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    high_alemannic-catholic: 0
+    high_alemannic-lutheran: 1
 1689.8.1:
   controller: FRA
 1697.4.19:
@@ -121,9 +119,9 @@
   cores:
     GER: yes
 1880.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    high_alemannic-lutheran: 0
+    east_franconian-lutheran: 1
 1900.1.1:
   cores:
     BAV: no

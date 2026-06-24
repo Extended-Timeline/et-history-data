@@ -1,30 +1,27 @@
 #imported from EU4 file: history/provinces/971 - Abnaki.txt
 2.1.1:
+  pops: 
+    eastern_abenaki_culture-iroquoian_totemism: 1
   owner: PEN
   controller: PEN
   cores:
     PEN: yes
   resource: naval_supplies
-  pops:
-    - religion: iroquoian_totemism
-      estate: peasant
-      size: 1000
 1701.1.1:
   cores:
     FRA: yes
 1763.2.10:
+  pops: 
+    eastern_abenaki_culture-iroquoian_totemism: 0
+    english-lutheran: 1
   owner: GBR
   controller: GBR
   cores:
     GBR: yes
-  pops:
-    - religion: lutheran
-      estate: peasant
-      size: 1000
 1764.7.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    english-lutheran: 0
+    american-lutheran: 1
 1776.7.4:
   owner: USA
   controller: USA

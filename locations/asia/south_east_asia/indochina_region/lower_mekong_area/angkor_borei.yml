@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/4826 - Kampot.txt
 2.1.1:
+  pops: 
+    khmer_culture-hindu: 1
   owner: FUNA
   controller: FUNA
   cores:
     FUNA: yes
   resource: grain
-  pops:
-    - religion: hindu
-      estate: peasant
-      size: 1000
 550.1.1:
   owner: CHEN
   controller: CHEN
@@ -22,13 +20,13 @@
     CHEN: no
     CAMB: yes
 820.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    khmer_culture-hindu: 0
+    khmer_culture-mahayana: 1
 1295.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    khmer_culture-mahayana: 0
+    khmer_culture-theravada: 1
 1431.1.1:
   owner: KHM
   controller: KHM

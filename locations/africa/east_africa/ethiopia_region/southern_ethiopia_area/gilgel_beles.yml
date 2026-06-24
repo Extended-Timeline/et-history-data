@@ -1,23 +1,21 @@
 #imported from EU4 file: history/provinces/2770 - Agew.txt
 2.1.1:
+  pops: 
+    agaw_culture-bantu_religion: 1
   owner: AWI0
   controller: AWI0
   cores:
     AWI0: yes
   resource: grain
-  pops:
-    - religion: bantu_religion
-      estate: peasant
-      size: 1000
 1000.1.1:
   owner: GJJ
   controller: GJJ
   cores:
     GJJ: yes
 1240.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    agaw_culture-bantu_religion: 0
+    agaw_culture-miaphysite: 1
 1317.1.1:
   owner: ETH
   controller: ETH

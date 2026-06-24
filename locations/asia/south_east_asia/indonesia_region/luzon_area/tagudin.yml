@@ -1,18 +1,16 @@
 #imported from EU4 file: history/provinces/657 - Samtoy.txt
 2.1.1:
-  pops:
-    - religion: bimoism
-      estate: peasant
-      size: 1000
+  pops: 
+    ilocano_culture-bimoism: 1
 1570.1.1:
+  pops: 
+    ilocano_culture-bimoism: 0
+    ilocano_culture-catholic: 1
   owner: SPA
   controller: SPA
   cores:
     SPA: yes
   resource: grain
-  pops:
-    - estate: peasant
-      size: 1000
 1807.9.26:
   controller: SPA
 1872.1.1:

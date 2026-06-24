@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/4466 - Mahoba.txt
 2.1.1:
+  pops: 
+    bundeli-hindu: 1
   owner: VATS
   controller: VATS
   cores:
     VATS: yes
   resource: grain
-  pops:
-    - religion: hindu
-      estate: peasant
-      size: 1000
 120.1.1:
   owner: PADM
   controller: PADM

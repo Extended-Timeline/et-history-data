@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/170 - Finistere.txt
 2.1.1:
+  pops: 
+    gallian-druidism: 1
   owner: ROM
   controller: ROM
   cores:
     ROM: yes
   resource: naval_supplies
-  pops:
-    - religion: druidism
-      estate: peasant
-      size: 1000
 260.1.1:
   cores:
     GALL: yes
@@ -23,17 +21,17 @@
     ROM: no
     ROMW: yes
 420.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    gallian-druidism: 0
+    gallian-chalcedonism: 1
 430.1.1:
+  pops: 
+    gallian-chalcedonism: 0
+    breton-chalcedonism: 1
   owner: BROE
   controller: BROE
   cores:
     BROE: yes
-  pops:
-    - estate: peasant
-      size: 1000
 480.6.1:
   cores:
     ROMW: no
@@ -44,9 +42,9 @@
     BROE: no
     BRI: yes
 867.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    breton-chalcedonism: 0
+    breton-catholic: 1
 890.1.1:
   controller: BRI
 907.1.1:

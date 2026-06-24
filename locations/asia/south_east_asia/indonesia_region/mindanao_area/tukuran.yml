@@ -1,26 +1,24 @@
 #imported from EU4 file: history/provinces/4354 - Zamboanga.txt
 2.1.1:
-  pops:
-    - religion: bimoism
-      estate: peasant
-      size: 1000
+  pops: 
+    cebuano_culture-bimoism: 1
 1520.1.1:
+  pops: 
+    cebuano_culture-bimoism: 0
+    cebuano_culture-sunni: 1
   owner: MAGU
   controller: MAGU
   cores:
     MAGU: yes
   resource: tropical_wood
-  pops:
-    - estate: peasant
-      size: 1000
 1569.1.1:
+  pops: 
+    cebuano_culture-sunni: 0
+    cebuano_culture-catholic: 1
   owner: SPA
   controller: SPA
   cores:
     SPA: yes
-  pops:
-    - estate: peasant
-      size: 1000
 1895.3.10:
   owner: SPA
   controller: SPA

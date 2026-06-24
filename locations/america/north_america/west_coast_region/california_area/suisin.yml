@@ -1,19 +1,16 @@
 #imported from EU4 file: history/provinces/2021 - Miwok.txt
 2.1.1:
-  pops:
-    - religion: iroquoian_totemism
-      estate: peasant
-      size: 1000
+  pops: 
+    south_valley_yokut_culture-iroquoian_totemism: 1
 1817.1.1:
+  pops: 
+    south_valley_yokut_culture-iroquoian_totemism: 0
+    iberian_californian-catholic: 1
   owner: MEX
   controller: SPA
   cores:
     MEX: yes
   resource: fur
-  pops:
-    - religion: catholic
-      estate: peasant
-      size: 1000
 1821.9.27:
   controller: MEX
   cores:
@@ -21,12 +18,12 @@
 1846.8.13:
   controller: USA
 1848.2.2:
+  pops: 
+    iberian_californian-catholic: 0
+    british_californian-catholic: 1
   owner: USA
   cores:
     MEX: no
     USA: yes
-  pops:
-    - estate: peasant
-      size: 1000
 1970.1.1:
   resource: electronics

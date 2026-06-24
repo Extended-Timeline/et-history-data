@@ -1,9 +1,7 @@
 #imported from EU4 file: history/provinces/4473 - Mizoram.txt
 2.1.1:
-  pops:
-    - religion: sanamahism
-      estate: peasant
-      size: 1000
+  pops: 
+    zo_culture-sanamahism: 1
 1825.6.26:
   owner: MLB
   controller: MLB
@@ -16,9 +14,9 @@
   cores:
     GBR: yes
 1920.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    zo_culture-sanamahism: 0
+    zo_culture-lutheran: 1
 1930.1.1:
   cores:
     MLB: no

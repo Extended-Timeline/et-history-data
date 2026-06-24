@@ -1,27 +1,25 @@
 #imported from EU4 file: history/provinces/644 - Menade.txt
 2.1.1:
-  pops:
-    - religion: bimoism
-      estate: peasant
-      size: 1000
+  pops: 
+    cebuano_culture-bimoism: 1
 1580.1.1:
+  pops: 
+    cebuano_culture-bimoism: 0
+    cebuano_culture-sunni: 1
   owner: TER
   controller: TER
   cores:
     TER: yes
   resource: tropical_wood
-  pops:
-    - estate: peasant
-      size: 1000
 1658.1.1:
   owner: NED
   controller: NED
   cores:
     NED: yes
 1740.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    cebuano_culture-sunni: 0
+    cebuano_culture-calvinist: 1
 1912.9.10:
   cores:
     TER: no

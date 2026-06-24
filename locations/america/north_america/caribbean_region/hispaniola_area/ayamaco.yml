@@ -1,16 +1,13 @@
 #imported from EU4 file: history/provinces/492 - Puerto Rico.txt
 2.1.1:
-  pops:
-    - religion: muisca_religion
-      estate: peasant
-      size: 1000
+  pops: 
+    arawak_culture-muisca_religion: 1
 1498.1.1:
+  pops: 
+    arawak_culture-muisca_religion: 0
+    castilian-catholic: 1
   owner: CAS
   controller: CAS
-  pops:
-    - religion: catholic
-      estate: peasant
-      size: 1000
 1500.1.1:
   resource: sugar
 1516.1.23:
@@ -20,9 +17,9 @@
   cores:
     SPA: yes
 1780.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    castilian-catholic: 0
+    iberian_caribbean-catholic: 1
 1898.8.12:
   owner: USA
   controller: USA

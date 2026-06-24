@@ -1,31 +1,29 @@
 #imported from EU4 file: history/provinces/253 - Western Isles.txt
 2.1.1:
+  pops: 
+    pictish-druidism: 1
   owner: CALD
   controller: CALD
   cores:
     CALD: yes
   resource: grain
-  pops:
-    - religion: druidism
-      estate: peasant
-      size: 1000
 250.1.1:
   owner: PICT
   controller: PICT
   cores:
     PICT: yes
 600.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    pictish-druidism: 0
+    pictish-chalcedonism: 1
 700.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    pictish-chalcedonism: 0
+    highland-chalcedonism: 1
 800.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    highland-chalcedonism: 0
+    highland-norse: 1
 843.1.1:
   owner: SCO
   controller: SCO
@@ -39,9 +37,9 @@
     SCO: no
     LOI: yes
 920.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    highland-norse: 0
+    highland-catholic: 1
 1005.1.1:
   owner: NOR
   controller: NOR
@@ -56,9 +54,9 @@
   owner: SCO
   controller: SCO
 1560.8.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    highland-catholic: 0
+    highland-calvinist: 1
 1707.5.12:
   owner: GBR
   controller: GBR

@@ -1,16 +1,14 @@
 #imported from EU4 file: history/provinces/799 - Chaco Boreal.txt
 2.1.1:
-  pops:
-    - religion: muisca_religion
-      estate: peasant
-      size: 1000
+  pops: 
+    guaikuru_culture-muisca_religion: 1
 1565.1.1:
+  pops: 
+    guaikuru_culture-muisca_religion: 0
+    guaikuru_culture-catholic: 1
   owner: SPA
   controller: SPA
   resource: tropical_wood
-  pops:
-    - estate: peasant
-      size: 1000
 1590.1.1:
   cores:
     SPA: yes

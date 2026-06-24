@@ -1,15 +1,13 @@
 #imported from EU4 file: history/provinces/3010 - Dalian.txt
 2.1.1:
+  pops: 
+    korean_culture-sanjiao: 1
   owner: HAN0
   controller: HAN0
   cores:
     HAN0: yes
     WEI0: yes
   resource: grain
-  pops:
-    - religion: sanjiao
-      estate: peasant
-      size: 1000
 9.1.10:
   owner: XIN0
   controller: XIN0
@@ -84,9 +82,9 @@
     BALH: no
     LIAO: yes
 920.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    korean_culture-sanjiao: 0
+    khitan-sanjiao: 1
 1115.1.1:
   owner: JIN0
   controller: JIN0
@@ -94,9 +92,9 @@
     LIAO: no
     JIN0: yes
 1200.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    khitan-sanjiao: 0
+    jurchen_culture-sanjiao: 1
 1214.1.1:
   owner: MGE
   controller: MGE
@@ -105,9 +103,9 @@
     MGE: yes
     QIN0: yes
 1240.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    jurchen_culture-sanjiao: 0
+    shandong_culture-sanjiao: 1
 1271.1.1:
   owner: YUA
   controller: YUA

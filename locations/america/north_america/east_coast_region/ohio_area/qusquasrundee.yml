@@ -1,61 +1,55 @@
 #imported from EU4 file: history/provinces/946 - Wyandot.txt
 2.1.1:
-  pops:
-    - religion: iroquoian_totemism
-      estate: peasant
-      size: 1000
+  pops: 
+    piankeshaw_culture-iroquoian_totemism: 1
 1650.1.1:
+  pops: 
+    piankeshaw_culture-iroquoian_totemism: 0
+    attigneenongnahac_culture-iroquoian_totemism: 1
   cores:
     ???: yes
-  pops:
-    - estate: peasant
-      size: 1000
 1656.1.1:
+  pops: 
+    attigneenongnahac_culture-iroquoian_totemism: 0
+    onondowaga_culture-iroquoian_totemism: 1
   cores:
     ???: yes
-  pops:
-    - estate: peasant
-      size: 1000
 1701.8.14:
+  pops: 
+    onondowaga_culture-iroquoian_totemism: 0
+    attigneenongnahac_culture-iroquoian_totemism: 1
   cores:
     ???: no
-  pops:
-    - estate: peasant
-      size: 1000
 1753.8.3:
+  pops: 
+    attigneenongnahac_culture-iroquoian_totemism: 0
+    french-catholic: 1
   owner: FRA
   controller: FRA
   cores:
     FRA: yes
   resource: fur
-  pops:
-    - religion: catholic
-      estate: peasant
-      size: 1000
 1763.2.10:
+  pops: 
+    french-catholic: 0
+    english-lutheran: 1
   owner: GBR
   controller: GBR
   cores:
     FRA: no
     GBR: yes
-  pops:
-    - religion: lutheran
-      estate: peasant
-      size: 1000
 1763.10.9:
+  pops: 
+    english-lutheran: 0
+    attigneenongnahac_culture-iroquoian_totemism: 1
   cores:
     GBR: no
     ???: yes
-  pops:
-    - religion: iroquoian_totemism
-      estate: peasant
-      size: 1000
 1807.11.17:
+  pops: 
+    attigneenongnahac_culture-iroquoian_totemism: 0
+    american-lutheran: 1
   owner: USA
   controller: USA
   cores:
     USA: yes
-  pops:
-    - religion: lutheran
-      estate: peasant
-      size: 1000

@@ -1,22 +1,20 @@
 #imported from EU4 file: history/provinces/4187 - Kii.txt
 2.1.1:
+  pops: 
+    saigoku_culture-shinto: 1
   owner: YMT
   controller: YMT
   cores:
     YMT: yes
   resource: naval_supplies
-  pops:
-    - religion: shinto
-      estate: peasant
-      size: 1000
 607.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    saigoku_culture-shinto: 0
+    saigoku_culture-mahayana: 1
 712.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    saigoku_culture-mahayana: 0
+    saigoku_culture-shinto: 1
 794.1.1:
   owner: JAP
   controller: JAP

@@ -1,24 +1,18 @@
 #imported from EU4 file: history/provinces/242 - Gwynedd.txt
 2.1.1: #Was held by Deceangli Tribe through Iron Age/Roman Britain period
+  pops: 
+    briton-druidism: 1
   owner: DECE
   controller: DECE
   cores:
     DECE: yes
   resource: livestock
   pop:
-    ethnicity: briton
-    religion: druidism
-    estate: peasant
-    size: 1000
 78.1.1:
-  pops:
-    - culture: missing_culture
-      estate: peasant
-      size: 1000
 200.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    briton-druidism: 0
+    welsh-druidism: 1
 350.1.1:
   owner: GDD
   controller: GDD
@@ -27,13 +21,13 @@
     ROM: no
     GDD: yes
 660.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    welsh-druidism: 0
+    welsh-chalcedonism: 1
 867.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    welsh-chalcedonism: 0
+    welsh-catholic: 1
 1282.1.1:
   owner: ENG
   controller: ENG
@@ -54,6 +48,3 @@
     ENG: no
     GBR: yes
 1750.1.1:
-  pops:
-    - estate: peasant
-      size: 1000

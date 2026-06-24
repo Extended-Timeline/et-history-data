@@ -1,33 +1,29 @@
 #imported from EU4 file: history/provinces/981 - Taqamkuk.txt
 2.1.1:
-  pops:
-    - religion: iroquoian_totemism
-      estate: peasant
-      size: 1000
+  pops: 
+    innu_culture-iroquoian_totemism: 1
 1620.1.1:
+  pops: 
+    innu_culture-iroquoian_totemism: 0
+    french-catholic: 1
   owner: FRA
   controller: FRA
   cores:
     FRA: yes
   resource: fish
-  pops:
-    - religion: catholic
-      estate: peasant
-      size: 1000
 1713.4.11:
+  pops: 
+    french-catholic: 0
+    english-lutheran: 1
   owner: GBR
   controller: GBR
   cores:
     FRA: no
     GBR: yes
-  pops:
-    - religion: lutheran
-      estate: peasant
-      size: 1000
 1790.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    english-lutheran: 0
+    british_canadian-lutheran: 1
 1907.9.26:
   owner: NEWF
   controller: NEWF

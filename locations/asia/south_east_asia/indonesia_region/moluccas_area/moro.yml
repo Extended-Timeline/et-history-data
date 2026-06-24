@@ -1,9 +1,7 @@
 #imported from EU4 file: history/provinces/3047 - Jailolo.txt
 2.1.1:
-  pops:
-    - religion: bimoism
-      estate: peasant
-      size: 1000
+  pops: 
+    asmat_culture-bimoism: 1
 1247.1.1:
   owner: JLO
   controller: JLO
@@ -11,9 +9,9 @@
     JLO: yes
   resource: spices
 1390.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    asmat_culture-bimoism: 0
+    asmat_culture-sunni: 1
 1656.1.1:
   owner: TER
   controller: TER

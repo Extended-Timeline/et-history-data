@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/206 - Galicia.txt
 2.1.1:
+  pops: 
+    gallaecian-druidism: 1
   owner: ROM
   controller: ROM
   cores:
     ROM: yes
   resource: fish
-  pops:
-    - religion: druidism
-      estate: peasant
-      size: 1000
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -16,13 +14,13 @@
     ROM: no
     ROMW: yes
 409.6.1:
+  pops: 
+    gallaecian-druidism: 0
+    gallaecian-germanic: 1
   owner: SUEB
   controller: SUEB
   cores:
     SUEB: yes
-  pops:
-    - estate: peasant
-      size: 1000
 450.1.1:
   cores:
     ROMW: no
@@ -35,13 +33,13 @@
   owner: SUEB
   controller: SUEB
 466.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    gallaecian-germanic: 0
+    gallaecian-arianism: 1
 561.5.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    gallaecian-arianism: 0
+    gallaecian-chalcedonism: 1
 584.1.1:
   owner: VISG
   controller: VISG
@@ -49,14 +47,14 @@
     SUEB: no
     VISG: yes
 711.1.1:
+  pops: 
+    gallaecian-chalcedonism: 0
+    galician-chalcedonism: 1
   owner: UMAY
   controller: UMAY
   cores:
     VISG: no
     UMAY: yes
-  pops:
-    - estate: peasant
-      size: 1000
 739.1.1:
   owner: ASTU
   controller: ASTU
@@ -64,9 +62,9 @@
     UMAY: no
     ASTU: yes
 867.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    galician-chalcedonism: 0
+    galician-catholic: 1
 910.12.10:
   owner: GLC
   controller: GLC

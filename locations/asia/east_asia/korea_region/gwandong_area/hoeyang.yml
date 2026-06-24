@@ -1,23 +1,21 @@
 #imported from EU4 file: history/provinces/732 - Hamgyeong.txt
 2.1.1:
+  pops: 
+    korean_culture-muism: 1
   owner: OKJE
   controller: OKJE
   cores:
     OKJE: yes
   resource: fish
-  pops:
-    - religion: muism
-      estate: peasant
-      size: 1000
 56.1.1:
   owner: GOGU
   controller: GOGU
   cores:
     GOGU: yes
 372.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    korean_culture-muism: 0
+    korean_culture-mahayana: 1
 555.1.1:
   owner: SILL
   controller: SILL
@@ -64,14 +62,14 @@
     YUA: no
     GORY: yes
 1392.7.12:
+  pops: 
+    korean_culture-mahayana: 0
+    korean_culture-sanjiao: 1
   owner: KOR
   controller: KOR
   cores:
     GORY: no
     KOR: yes
-  pops:
-    - estate: peasant
-      size: 1000
 1592.7.18:
   controller: TOYO
 1593.2.22:
@@ -109,10 +107,7 @@
     NKOR: yes
     SKOR: yes
 1955.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    korean_culture-sanjiao: 0
+    korean_culture-muism: 1
 1970.1.1:
-  pops:
-    - estate: peasant
-      size: 1000

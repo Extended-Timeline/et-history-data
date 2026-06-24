@@ -1,23 +1,21 @@
 #imported from EU4 file: history/provinces/240 - Marches.txt
 2.1.1:
+  pops: 
+    briton-druidism: 1
   owner: CORV
   controller: CORV
   cores:
     CORV: yes
   resource: wool
-  pops:
-    - religion: druidism
-      estate: peasant
-      size: 1000
 47.1.1:
   owner: ROM
   controller: ROM
   cores:
     ROM: yes
 300.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    briton-druidism: 0
+    welsh-druidism: 1
 380.1.1:
   cores:
     ELME: yes
@@ -34,22 +32,22 @@
     ROMW: no
     PWS: yes
 640.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    welsh-druidism: 0
+    welsh-chalcedonism: 1
 716.1.1:
+  pops: 
+    welsh-chalcedonism: 0
+    anglo_saxon-chalcedonism: 1
   owner: MERC
   controller: MERC
   cores:
     ELME: no
     MERC: yes
-  pops:
-    - estate: peasant
-      size: 1000
 867.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    anglo_saxon-chalcedonism: 0
+    anglo_saxon-catholic: 1
 883.1.1:
   cores:
     WESS: yes
@@ -66,9 +64,9 @@
   cores:
     MERC: no
 1066.12.25:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    anglo_saxon-catholic: 0
+    english-catholic: 1
 1461.6.28:
   controller: ENG
 1470.10.6:
@@ -76,13 +74,13 @@
 1471.5.4:
   controller: ENG
 1548.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    english-catholic: 0
+    english-lutheran: 1
 1585.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    english-lutheran: 0
+    english-calvinist: 1
 1646.5.5:
   controller: ENG
 1707.5.12:

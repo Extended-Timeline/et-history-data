@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/2638 - Xocnochca.txt
 2.1.1:
+  pops: 
+    kiche_culture-mayan: 1
   owner: IZAP
   controller: IZAP
   cores:
     IZAP: yes
   resource: cocoa
-  pops:
-    - religion: mayan
-      estate: peasant
-      size: 1000
 1200.1.1:
   owner: ZAP
   controller: ZAP
@@ -26,17 +24,16 @@
   owner: SPA
   controller: SPA
 1529.1.1:
-  pops:
-    - religion: catholic
-      estate: peasant
-      size: 1000
+  pops: 
+    kiche_culture-mayan: 0
+    castilian-catholic: 1
 1549.1.1:
   cores:
     SPA: yes
 1770.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    castilian-catholic: 0
+    mexican-catholic: 1
 1810.9.16:
   owner: MEX
   controller: SPA

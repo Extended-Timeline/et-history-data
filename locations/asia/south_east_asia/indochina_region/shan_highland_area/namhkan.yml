@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/582 - Kachin.txt
 2.1.1:
+  pops: 
+    tai_lu_culture-satsana_phi: 1
   owner: PONG
   controller: PONG
   cores:
     PONG: yes
   resource: copper
-  pops:
-    - religion: satsana_phi
-      estate: peasant
-      size: 1000
 603.1.1:
   owner: MYA
   controller: MYA
@@ -32,9 +30,9 @@
   cores:
     PAGA: yes
 1080.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    tai_lu_culture-satsana_phi: 0
+    tai_lu_culture-theravada: 1
 1215.1.1:
   owner: MYA
   controller: MYA
@@ -74,9 +72,9 @@
   cores:
     GBR: no
 1950.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    tai_lu_culture-theravada: 0
+    burmese_culture-theravada: 1
 1989.1.1:
   owner: MYAN
   controller: MYAN

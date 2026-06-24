@@ -1,23 +1,20 @@
 #imported from EU4 file: history/provinces/4846 - Woolna.txt
 2.1.1:
-  pops:
-    - religion: dreamtime_religion
-      estate: peasant
-      size: 1000
+  pops: 
+    yangman_culture-dreamtime_religion: 1
 1200.1.1:
   cores:
     ???: yes
   resource: tobacco
 1869.1.1:
+  pops: 
+    yangman_culture-dreamtime_religion: 0
+    british_australian-lutheran: 1
   owner: GBR
   controller: GBR
   cores:
     GBR: yes
   resource: grain
-  pops:
-    - religion: lutheran
-      estate: peasant
-      size: 1000
 1901.1.1:
   owner: AUST
   controller: AUST

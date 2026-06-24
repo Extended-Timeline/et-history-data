@@ -1,18 +1,16 @@
 #imported from EU4 file: history/provinces/346 - Figuig.txt
 2.1.1:
+  pops: 
+    zenati-bantu_religion: 1
   owner: SIJI
   controller: SIJI
   cores:
     SIJI: yes
   resource: gold
-  pops:
-    - religion: bantu_religion
-      estate: peasant
-      size: 1000
 780.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    zenati-bantu_religion: 0
+    zenati-ibadi: 1
 1053.1.1:
   owner: MOR
   controller: MOR
@@ -20,9 +18,9 @@
     SIJI: no
     MOR: yes
 1100.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    zenati-ibadi: 0
+    zenati-sunni: 1
 1145.1.1:
   controller: SOS
 1147.4.1:
@@ -38,9 +36,9 @@
   cores:
     TLE: no
 1300.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    zenati-sunni: 0
+    moroccan-sunni: 1
 1352.1.1:
   owner: ATLA
   controller: ATLA

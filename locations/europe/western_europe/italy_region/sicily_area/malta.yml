@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/126 - Malta.txt
 2.1.1:
+  pops: 
+    griko_culture-hellenism_religion: 1
   owner: ROM
   controller: ROM
   cores:
     ROM: yes
   resource: fish
-  pops:
-    - religion: hellenism_religion
-      estate: peasant
-      size: 1000
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -28,9 +26,9 @@
     VAND: no
     OSTR: yes
 500.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    griko_culture-hellenism_religion: 0
+    griko_culture-chalcedonism: 1
 533.1.1:
   owner: BYZ
   controller: BYZ
@@ -38,21 +36,21 @@
     OSTR: no
     BYZ: yes
 867.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    griko_culture-chalcedonism: 0
+    griko_culture-catholic: 1
 870.1.1:
+  pops: 
+    griko_culture-catholic: 0
+    maltese-catholic: 1
   owner: SICI
   controller: SICI
   cores:
     SICI: yes
-  pops:
-    - estate: peasant
-      size: 1000
 880.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    maltese-catholic: 0
+    maltese-sunni: 1
 1048.1.1:
   owner: BYZ
   controller: BYZ
@@ -66,10 +64,10 @@
     SIC: yes
     NAP: yes
 1127.1.1:
+  pops: 
+    maltese-sunni: 0
+    maltese-catholic: 1
   controller: SIC
-  pops:
-    - estate: peasant
-      size: 1000
 1409.7.25:
   owner: ARA
   controller: ARA

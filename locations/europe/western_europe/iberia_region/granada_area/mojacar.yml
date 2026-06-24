@@ -1,22 +1,20 @@
 #imported from EU4 file: history/provinces/222 - Almeria.txt
 2.1.1:
+  pops: 
+    iberi-bimoism: 1
   owner: ROM
   controller: ROM
   cores:
     ROM: yes
   resource: grain
-  pops:
-    - religion: bimoism
-      estate: peasant
-      size: 1000
 200.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    iberi-bimoism: 0
+    iberi-hellenism_religion: 1
 340.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    iberi-hellenism_religion: 0
+    iberi-chalcedonism: 1
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -53,9 +51,9 @@
   cores:
     ROMW: no
 500.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    iberi-chalcedonism: 0
+    iberi-arianism: 1
 552.1.1:
   owner: BYZ
   controller: BYZ
@@ -73,9 +71,9 @@
     VISG: no
     UMAY: yes
 750.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    iberi-arianism: 0
+    iberi-sunni: 1
 750.8.6:
   owner: CRDB
   controller: CRDB
@@ -83,9 +81,9 @@
     UMAY: no
     CRDB: yes
 800.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    iberi-sunni: 0
+    andalusi-sunni: 1
 1011.1.1:
   owner: ALME
   controller: ALME
@@ -129,18 +127,18 @@
   cores:
     CAS: yes
 1502.2.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    andalusi-sunni: 0
+    andalusi-catholic: 1
 1516.1.23:
   owner: SPA
   controller: SPA
   cores:
     SPA: yes
 1570.10.28:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    andalusi-catholic: 0
+    castilian-catholic: 1
 1713.4.11:
   cores:
     CAS: no

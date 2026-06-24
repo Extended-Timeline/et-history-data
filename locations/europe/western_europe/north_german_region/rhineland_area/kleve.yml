@@ -1,23 +1,21 @@
 #imported from EU4 file: history/provinces/2975 - Kleve.txt
 2.1.1:
+  pops: 
+    frankish-germanic: 1
   owner: SICA
   controller: SICA
   cores:
     SICA: yes
   resource: cloth
-  pops:
-    - religion: germanic_polytheism
-      estate: peasant
-      size: 1000
 290.1.1:
   owner: FRAN
   controller: FRAN
   cores:
     FRAN: yes
 500.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    frankish-germanic: 0
+    rhine_franconian-germanic: 1
 511.11.27:
   owner: ASTS
   controller: ASTS
@@ -38,9 +36,9 @@
   owner: ASTS
   controller: ASTS
 600.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    rhine_franconian-germanic: 0
+    rhine_franconian-chalcedonism: 1
 613.10.10:
   owner: FRAN
   controller: FRAN
@@ -65,9 +63,9 @@
     FRAN: no
     EFRA: yes
 867.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    rhine_franconian-chalcedonism: 0
+    rhine_franconian-catholic: 1
 911.11.10:
   owner: LOT
   controller: LOT

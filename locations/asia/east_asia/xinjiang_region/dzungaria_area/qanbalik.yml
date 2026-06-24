@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/715 - Urumqi.txt
 2.1.1:
+  pops: 
+    tocharian-: 1
   owner: XION
   controller: XION
   cores:
     XION: yes
   resource: grain
-  pops:
-    - religion: 
-      estate: peasant
-      size: 1000
 91.2.1:
   owner: XIAN
   controller: XIAN
@@ -22,9 +20,8 @@
     XIAN: no
     ROUR: yes
 360.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    uyghur_culture-: 1
 460.1.1:
   owner: UYGH
   controller: UYGH
@@ -43,17 +40,16 @@
     GOKT: no
     UYGH: yes
 765.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    uyghur_culture-manichaeism: 1
 840.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    uyghur_culture-manichaeism: 0
+    uyghur_culture-nestorianism: 1
 1204.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    uyghur_culture-nestorianism: 0
+    uyghur_culture-: 1
 1209.1.1:
   owner: MGE
   controller: MGE
@@ -91,9 +87,8 @@
   cores:
     QNG: yes
 1780.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    uyghur_culture-sunni: 1
 1850.1.1:
   cores:
     OIR: no
@@ -110,6 +105,3 @@
   cores:
     UYGH: yes
 1960.1.1:
-  pops:
-    - estate: peasant
-      size: 1000

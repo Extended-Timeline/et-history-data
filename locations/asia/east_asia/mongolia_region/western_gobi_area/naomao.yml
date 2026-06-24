@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/4206 - Balikul.txt
 2.1.1:
+  pops: 
+    tocharian-: 1
   owner: XION
   controller: XION
   cores:
     XION: yes
   resource: livestock
-  pops:
-    - religion: 
-      estate: peasant
-      size: 1000
 91.2.1:
   owner: XIAN
   controller: XIAN
@@ -22,9 +20,8 @@
     XIAN: no
     ROUR: yes
 360.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    uyghur_culture-: 1
 547.1.1:
   owner: GOKT
   controller: GOKT
@@ -66,9 +63,8 @@
     KHMO: no
     MGE: yes
 1250.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    oirat_culture-: 1
 1271.1.1:
   owner: YUA
   controller: YUA
@@ -106,9 +102,8 @@
   cores:
     QNG: yes
 1755.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    uyghur_culture-: 1
 1862.4.1:
   cores:
     UYGH: yes

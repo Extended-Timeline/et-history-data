@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/4785 - Sheffield.txt
 2.1.1:
+  pops: 
+    briton-druidism: 1
   owner: BRIG
   controller: BRIG
   cores:
     BRIG: yes
   resource: iron
-  pops:
-    - religion: druidism
-      estate: peasant
-      size: 1000
 71.1.1:
   controller: ROM
 78.1.1:
@@ -26,19 +24,18 @@
     ROM: no
     ROMW: yes
 410.1.1:
+  pops: 
+    briton-druidism: 0
+    welsh-druidism: 1
   owner: ELME
   controller: ELME
   cores:
     ROMW: no
     ELME: yes
-  pops:
-    - estate: peasant
-      size: 1000
 559.1.1:
-  pops:
-    - religion: germanic_polytheism
-      estate: peasant
-      size: 1000
+  pops: 
+    welsh-druidism: 0
+    anglo_saxon-germanic: 1
 616.1.1:
   owner: DEIR
   controller: DEIR
@@ -46,13 +43,10 @@
     BERN: no
     DEIR: yes
 620.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
 640.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    anglo_saxon-germanic: 0
+    anglo_saxon-chalcedonism: 1
 654.1.1:
   owner: NOL
   controller: NOL
@@ -66,9 +60,9 @@
     ELME: no
     NOL: yes
 867.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    anglo_saxon-chalcedonism: 0
+    anglo_saxon-catholic: 1
 918.1.1:
   owner: MNN
   controller: MNN
@@ -99,9 +93,9 @@
   cores:
     ENG: yes
 1066.12.25:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    anglo_saxon-catholic: 0
+    english-catholic: 1
 1461.6.28:
   controller: ENG
 1470.10.6:
@@ -109,9 +103,9 @@
 1471.5.4:
   controller: ENG
 1600.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    english-catholic: 0
+    english-lutheran: 1
 1646.5.5:
   controller: ENG
 1707.5.12:

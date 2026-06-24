@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/86 - Munster.txt
 2.1.1:
+  pops: 
+    frankish-germanic: 1
   owner: SICA
   controller: SICA
   cores:
     SICA: yes
   resource: cloth
-  pops:
-    - religion: germanic_polytheism
-      estate: peasant
-      size: 1000
 40.1.1:
   owner: CHMV
   controller: CHMV
@@ -21,9 +19,9 @@
   cores:
     FRAN: yes
 400.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    frankish-germanic: 0
+    eastphalian-germanic: 1
 511.11.27:
   owner: ASTS
   controller: ASTS
@@ -61,9 +59,9 @@
   owner: FRAN
   controller: FRAN
 797.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    eastphalian-germanic: 0
+    eastphalian-chalcedonism: 1
 840.6.21:
   owner: EFRA
   controller: EFRA
@@ -71,9 +69,9 @@
     FRAN: no
     EFRA: yes
 867.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    eastphalian-chalcedonism: 0
+    eastphalian-catholic: 1
 911.11.10:
   owner: SAX
   controller: SAX

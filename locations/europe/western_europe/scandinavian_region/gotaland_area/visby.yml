@@ -1,9 +1,7 @@
 #imported from EU4 file: history/provinces/25 - Gotland.txt
 2.1.1:
-  pops:
-    - religion: norse
-      estate: peasant
-      size: 1000
+  pops: 
+    gutnish-norse: 1
 880.1.1:
   owner: GOTL
   controller: GOTL
@@ -11,18 +9,18 @@
     GOTL: yes
   resource: wool
 1000.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    gutnish-norse: 0
+    gutnish-catholic: 1
 1285.1.1:
   owner: SWE
   controller: SWE
   cores:
     SWE: yes
 1320.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    gutnish-catholic: 0
+    swedish-catholic: 1
 1361.1.1:
   owner: DAN
   controller: DAN
@@ -50,9 +48,9 @@
 1525.6.1:
   controller: DAN
 1536.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    swedish-catholic: 0
+    swedish-lutheran: 1
 1644.7.1:
   controller: SWE
 1645.8.13:

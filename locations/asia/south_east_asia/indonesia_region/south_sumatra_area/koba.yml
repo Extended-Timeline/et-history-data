@@ -1,9 +1,7 @@
 #imported from EU4 file: history/provinces/2678 - Bangka.txt
 2.1.1:
-  pops:
-    - religion: bimoism
-      estate: peasant
-      size: 1000
+  pops: 
+    malay_culture-bimoism: 1
 690.1.1:
   owner: SRIV
   controller: SRIV
@@ -23,9 +21,9 @@
     SING: no
     MAJ: yes
 1360.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    malay_culture-bimoism: 0
+    malay_culture-sunni: 1
 1377.1.1:
   owner: PLB
   controller: PLB

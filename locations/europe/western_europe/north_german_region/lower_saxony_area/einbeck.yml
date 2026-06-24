@@ -1,27 +1,25 @@
 #imported from EU4 file: history/provinces/4773 - Gottingen.txt
 2.1.1:
+  pops: 
+    rhine_franconian-germanic: 1
   owner: CHRS
   controller: CHRS
   cores:
     CHRS: yes
   resource: cloth
-  pops:
-    - religion: germanic_polytheism
-      estate: peasant
-      size: 1000
 300.1.1:
+  pops: 
+    rhine_franconian-germanic: 0
+    saxon-germanic: 1
   owner: SAX
   controller: SAX
   cores:
     CHRS: no
     SAX: yes
-  pops:
-    - estate: peasant
-      size: 1000
 700.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    saxon-germanic: 0
+    lower_saxon-germanic: 1
 804.1.1:
   owner: FRAN
   controller: FRAN
@@ -34,9 +32,9 @@
     FRAN: no
     EFRA: yes
 900.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    lower_saxon-germanic: 0
+    lower_saxon-catholic: 1
 911.11.10:
   owner: FKN
   controller: FKN
@@ -56,9 +54,9 @@
     SAX: no
     BRU: yes
 1529.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    lower_saxon-catholic: 0
+    lower_saxon-lutheran: 1
 1692.1.1:
   owner: HAN
   controller: HAN

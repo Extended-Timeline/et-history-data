@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/76 - Salzburg.txt
 2.1.1:
+  pops: 
+    noric-druidism: 1
   owner: ROM
   controller: ROM
   cores:
     ROM: yes
   resource: salt
-  pops:
-    - religion: druidism
-      estate: peasant
-      size: 1000
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -16,10 +14,9 @@
     ROM: no
     ROMW: yes
 420.1.1:
-  pops:
-    - religion: germanic_polytheism
-      estate: peasant
-      size: 1000
+  pops: 
+    noric-druidism: 0
+    southern_bavarian-germanic: 1
 467.1.1:
   owner: RUGI
   controller: RUGI
@@ -50,9 +47,9 @@
     SAMO: no
     CRH: yes
 700.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    southern_bavarian-germanic: 0
+    southern_bavarian-chalcedonism: 1
 745.1.1:
   owner: BAV
   controller: BAV
@@ -72,9 +69,9 @@
     FRAN: no
     BAV: yes
 867.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    southern_bavarian-chalcedonism: 0
+    southern_bavarian-catholic: 1
 880.3.22:
   owner: EFRA
   controller: EFRA
@@ -93,9 +90,9 @@
     BAV: no
     SLZ: yes
 1250.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    southern_bavarian-catholic: 0
+    danube_bavarian-catholic: 1
 1803.1.1:
   owner: ETRU
   controller: ETRU

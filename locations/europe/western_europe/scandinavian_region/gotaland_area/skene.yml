@@ -1,9 +1,7 @@
 #imported from EU4 file: history/provinces/4163 - Elfsborg.txt
 2.1.1:
-  pops:
-    - religion: norse
-      estate: peasant
-      size: 1000
+  pops: 
+    gutnish-norse: 1
 350.1.1:
   owner: WGEA
   controller: WGEA
@@ -17,17 +15,17 @@
     WGEA: no
     SWE: yes
 980.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    gutnish-norse: 0
+    swedish-norse: 1
 1000.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    swedish-norse: 0
+    swedish-catholic: 1
 1527.6.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    swedish-catholic: 0
+    swedish-lutheran: 1
 1598.8.15:
   controller: PLC
 1598.12.15:

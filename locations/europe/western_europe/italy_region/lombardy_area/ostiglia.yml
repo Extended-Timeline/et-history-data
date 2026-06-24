@@ -1,18 +1,16 @@
 #imported from EU4 file: history/provinces/109 - Mantua.txt
 2.1.1:
+  pops: 
+    etruscan-hellenism_religion: 1
   owner: ROM
   controller: ROM
   cores:
     ROM: yes
   resource: livestock
-  pops:
-    - religion: hellenism_religion
-      estate: peasant
-      size: 1000
 250.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    etruscan-hellenism_religion: 0
+    roman-hellenism_religion: 1
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -20,9 +18,9 @@
     ROM: no
     ROMW: yes
 420.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    roman-hellenism_religion: 0
+    roman-chalcedonism: 1
 476.9.4:
   owner: ITA
   controller: ITA
@@ -32,29 +30,29 @@
   cores:
     ROMW: no
 489.1.1:
+  pops: 
+    roman-chalcedonism: 0
+    gothic-chalcedonism: 1
   owner: OSTR
   controller: OSTR
   cores:
     ITA: no
     OSTR: yes
-  pops:
-    - estate: peasant
-      size: 1000
 551.1.1:
   owner: BYZ
   controller: BYZ
   cores:
     BYZ: yes
 568.6.1:
+  pops: 
+    gothic-chalcedonism: 0
+    emilian-chalcedonism: 1
   owner: LOMB
   controller: LOMB
   cores:
     OSTR: no
     BYZ: no
     LOMB: yes
-  pops:
-    - estate: peasant
-      size: 1000
 774.1.1:
   owner: FRAN
   controller: FRAN
@@ -74,9 +72,9 @@
     LOMB: no
     ITA: yes
 867.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    emilian-chalcedonism: 0
+    emilian-catholic: 1
 962.2.2:
   owner: MAN
   controller: MAN

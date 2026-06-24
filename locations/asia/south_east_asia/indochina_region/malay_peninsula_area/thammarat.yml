@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/593 - Ligore.txt
 2.1.1:
+  pops: 
+    malay_culture-mahayana: 1
   owner: LGK
   controller: LGK
   cores:
     LGK: yes
   resource: tropical_wood
-  pops:
-    - religion: mahayana
-      estate: peasant
-      size: 1000
 150.1.1:
   owner: FUNA
   controller: FUNA
@@ -58,9 +56,9 @@
   cores:
     RTP: yes
 1850.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    malay_culture-mahayana: 0
+    thai_culture-mahayana: 1
 1932.7.24:
   owner: SIA
   controller: SIA

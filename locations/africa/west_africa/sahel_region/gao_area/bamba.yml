@@ -1,9 +1,7 @@
 #imported from EU4 file: history/provinces/2262 - Karabara.txt
 2.1.1:
-  pops:
-    - religion: bantu_religion
-      estate: peasant
-      size: 1000
+  pops: 
+    songhai-bantu_religion: 1
 350.1.1:
   owner: TMB
   controller: TMB
@@ -11,9 +9,9 @@
     TMB: yes
   resource: fish
 1200.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    songhai-bantu_religion: 0
+    songhai-sunni: 1
 1324.1.1:
   owner: MAL
   controller: MAL

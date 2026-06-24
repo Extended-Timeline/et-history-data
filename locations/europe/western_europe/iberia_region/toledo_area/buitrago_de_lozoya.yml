@@ -1,18 +1,16 @@
 #imported from EU4 file: history/provinces/217 - Madrid.txt
 2.1.1:
+  pops: 
+    celtiberian-druidism: 1
   owner: ROM
   controller: ROM
   cores:
     ROM: yes
   resource: cloth
-  pops:
-    - religion: druidism
-      estate: peasant
-      size: 1000
 360.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    celtiberian-druidism: 0
+    celtiberian-chalcedonism: 1
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -43,13 +41,13 @@
   cores:
     ROMW: no
 470.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    celtiberian-chalcedonism: 0
+    celtiberian-arianism: 1
 570.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    celtiberian-arianism: 0
+    celtiberian-chalcedonism: 1
 711.1.1:
   owner: UMAY
   controller: UMAY
@@ -63,13 +61,13 @@
     UMAY: no
     CRDB: yes
 780.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    celtiberian-chalcedonism: 0
+    celtiberian-sunni: 1
 800.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    celtiberian-sunni: 0
+    andalusi-sunni: 1
 1011.1.1:
   owner: TOLE
   controller: TOLE
@@ -83,18 +81,18 @@
   owner: TOLE
   controller: TOLE
 1085.5.25:
+  pops: 
+    andalusi-sunni: 0
+    castilian-sunni: 1
   owner: CAS
   controller: CAS
   cores:
     TOLE: no
     CAS: yes
-  pops:
-    - estate: peasant
-      size: 1000
 1150.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    castilian-sunni: 0
+    castilian-catholic: 1
 1516.1.23:
   owner: SPA
   controller: SPA

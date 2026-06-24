@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/2386 - Chaiyaphum.txt
 2.1.1:
+  pops: 
+    bru_culture-bimoism: 1
   owner: KUY
   controller: KUY
   cores:
     KUY: yes
   resource: grain
-  pops:
-    - religion: bimoism
-      estate: peasant
-      size: 1000
 450.1.1:
   owner: CHEN
   controller: CHEN
@@ -16,9 +14,9 @@
     KUY: no
     CHEN: yes
 700.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    bru_culture-bimoism: 0
+    bru_culture-mahayana: 1
 707.2.6:
   owner: KUY
   controller: KUY
@@ -32,9 +30,9 @@
     KUY: no
     CAMB: yes
 1310.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    bru_culture-mahayana: 0
+    bru_culture-theravada: 1
 1354.1.1:
   owner: LAXA
   controller: LAXA
@@ -48,9 +46,9 @@
     LAXA: no
     VTN: yes
 1817.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    bru_culture-theravada: 0
+    lao_culture-theravada: 1
 1828.11.12:
   owner: RTP
   controller: RTP

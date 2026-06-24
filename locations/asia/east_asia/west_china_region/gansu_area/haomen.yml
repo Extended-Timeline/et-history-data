@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/2184 - Xining.txt
 2.1.1:
+  pops: 
+    amdowa_culture-bon: 1
   owner: QIAN
   controller: QIAN
   cores:
     QIAN: yes
   resource: salt
-  pops:
-    - religion: bon
-      estate: peasant
-      size: 1000
 284.1.1:
   owner: TUYU
   controller: TUYU
@@ -21,9 +19,9 @@
   cores:
     TIB: yes
 800.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    amdowa_culture-bon: 0
+    amdowa_culture-tibetan_buddhism: 1
 842.1.1:
   owner: PHAG
   controller: PHAG
@@ -84,9 +82,9 @@
     MGE: no
     MNG: yes
 1390.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    amdowa_culture-tibetan_buddhism: 0
+    xibei-tibetan_buddhism: 1
 1644.1.1:
   owner: CSH
   controller: CSH

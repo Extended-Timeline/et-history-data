@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/190 - Bourbon.txt
 2.1.1:
+  pops: 
+    gallian-druidism: 1
   owner: ROM
   controller: ROM
   cores:
     ROM: yes
   resource: iron
-  pops:
-    - religion: druidism
-      estate: peasant
-      size: 1000
 260.1.1:
   cores:
     GALL: yes
@@ -17,9 +15,9 @@
   cores:
     GALL: no
 350.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    gallian-druidism: 0
+    gallian-chalcedonism: 1
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -61,9 +59,9 @@
   cores:
     ASTS: yes
 600.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    gallian-chalcedonism: 0
+    languedocien-chalcedonism: 1
 613.10.10:
   owner: FRAN
   controller: FRAN
@@ -90,9 +88,9 @@
     FRAN: no
     WFRA: yes
 867.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    languedocien-chalcedonism: 0
+    languedocien-catholic: 1
 987.7.3:
   owner: FRA
   controller: FRA
@@ -115,9 +113,9 @@
   cores:
     BOU: yes
 1400.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    languedocien-catholic: 0
+    french-catholic: 1
 1537.1.1:
   owner: FRA
   controller: FRA

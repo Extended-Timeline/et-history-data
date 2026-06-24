@@ -1,33 +1,30 @@
 #imported from EU4 file: history/provinces/4786 - Prignitz.txt
 2.1.1:
+  pops: 
+    langobardi-germanic: 1
   owner: LOMB
   controller: LOMB
   cores:
     LOMB: yes
   resource: livestock
-  pops:
-    - religion: germanic_polytheism
-      estate: peasant
-      size: 1000
 395.1.1:
+  pops: 
+    langobardi-germanic: 0
+    saxon-germanic: 1
   owner: SAX
   controller: SAX
   cores:
     LOMB: no
     SAX: yes
-  pops:
-    - estate: peasant
-      size: 1000
 570.1.1:
+  pops: 
+    saxon-germanic: 0
+    polabian-slavic: 1
   owner: OBOT
   controller: OBOT
   cores:
     SAX: no
     OBOT: yes
-  pops:
-    - religion: slavic_polytheism
-      estate: peasant
-      size: 1000
 929.1.1:
   owner: SAX
   controller: SAX
@@ -47,26 +44,26 @@
     BRA: no
     KOPA: yes
 1120.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    polabian-slavic: 0
+    polabian-catholic: 1
 1157.10.3:
   owner: BRA
   controller: BRA
   cores:
     BRA: yes
 1160.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    polabian-catholic: 0
+    saxon-catholic: 1
 1536.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    saxon-catholic: 0
+    saxon-lutheran: 1
 1650.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    saxon-lutheran: 0
+    prussian-lutheran: 1
 1701.1.18:
   owner: PRU
   controller: PRU
@@ -87,9 +84,9 @@
   cores:
     EGER: yes
 1990.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    prussian-lutheran: 0
+    prussian-irreligious: 1
 1990.10.3:
   owner: GER
   controller: GER

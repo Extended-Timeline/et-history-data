@@ -1,18 +1,16 @@
 #imported from EU4 file: history/provinces/137 - Ragusa.txt
 2.1.1:
+  pops: 
+    dalmatian-hellenism_religion: 1
   owner: ROM
   controller: ROM
   cores:
     ROM: yes
   resource: salt
-  pops:
-    - religion: hellenism_religion
-      estate: peasant
-      size: 1000
 300.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    dalmatian-hellenism_religion: 0
+    dalmatian-chalcedonism: 1
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -44,9 +42,9 @@
     BYZ: no
     ZACH: yes
 867.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    dalmatian-chalcedonism: 0
+    dalmatian-orthodox: 1
 940.1.1:
   owner: SER
   controller: SER
@@ -74,13 +72,13 @@
   cores:
     DUKL: no
 1205.1.1:
+  pops: 
+    dalmatian-orthodox: 0
+    dalmatian-catholic: 1
   owner: VEN
   controller: VEN
   cores:
     VEN: yes
-  pops:
-    - estate: peasant
-      size: 1000
 1358.2.18:
   owner: RAG
   controller: RAG
@@ -106,9 +104,9 @@
     FRA: no
     HAB: yes
 1840.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    dalmatian-catholic: 0
+    croatian-catholic: 1
 1918.12.1:
   owner: YUGO
   controller: YUGO

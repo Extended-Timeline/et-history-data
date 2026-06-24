@@ -1,21 +1,18 @@
 #imported from EU4 file: history/provinces/901 - Pawnee.txt
 2.1.1:
+  pops: 
+    tsawi_culture-iroquoian_totemism: 1
   owner: KIA
   controller: KIA
   cores:
     KIA: yes
   resource: grain
-  pops:
-    - religion: iroquoian_totemism
-      estate: peasant
-      size: 1000
 1848.1.1:
+  pops: 
+    tsawi_culture-iroquoian_totemism: 0
+    american-lutheran: 1
   owner: USA
   controller: USA
   cores:
     USA: yes
   resource: grain
-  pops:
-    - religion: lutheran
-      estate: peasant
-      size: 1000

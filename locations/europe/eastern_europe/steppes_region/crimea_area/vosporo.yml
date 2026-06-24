@@ -1,15 +1,13 @@
 #imported from EU4 file: history/provinces/285 - Kaffa.txt
 2.1.1:
+  pops: 
+    pontic_greek_culture-hellenism_religion: 1
   owner: BOSP
   controller: BOSP
   cores:
     BOSP: yes
     ROM: yes
   resource: wine
-  pops:
-    - religion: hellenism_religion
-      estate: peasant
-      size: 1000
 63.1.1:
   owner: ROM
   controller: ROM
@@ -24,9 +22,9 @@
     ROM: no
     OSTR: yes
 300.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    pontic_greek_culture-hellenism_religion: 0
+    pontic_greek_culture-germanic: 1
 370.1.1:
   owner: GOTH
   controller: GOTH
@@ -39,9 +37,9 @@
   cores:
     BYZ: yes
 600.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    pontic_greek_culture-germanic: 0
+    pontic_greek_culture-chalcedonism: 1
 750.1.1:
   owner: KHAZ
   controller: KHAZ
@@ -49,9 +47,9 @@
     GOTH: no
     KHAZ: yes
 867.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    pontic_greek_culture-chalcedonism: 0
+    pontic_greek_culture-orthodox: 1
 969.1.1:
   owner: BYZ
   controller: BYZ
@@ -85,15 +83,14 @@
     WHHO: no
     GEN: yes
 1475.5.1:
+  pops: 
+    pontic_greek_culture-orthodox: 0
+    turkish_culture-sunni: 1
   owner: TUR
   controller: TUR
   cores:
     GEN: no
     TUR: yes
-  pops:
-    - religion: sunni
-      estate: peasant
-      size: 1000
 1771.7.1:
   controller: RUS
 1774.7.21:
@@ -102,9 +99,9 @@
     TUR: no
     RUS: yes
 1880.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    turkish_culture-sunni: 0
+    turkish_culture-orthodox: 1
 1900.1.1:
   cores:
     CRI: no
@@ -119,9 +116,9 @@
 1944.5.9:
   controller: SOVI
 1945.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    turkish_culture-orthodox: 0
+    muscovite-orthodox: 1
 1991.8.24:
   owner: UKR
   controller: UKR

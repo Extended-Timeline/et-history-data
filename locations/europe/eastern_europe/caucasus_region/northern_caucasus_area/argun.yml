@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/2198 - Khundzia.txt
 2.1.1:
+  pops: 
+    avar_culture-: 1
   owner: ALN
   controller: ALN
   cores:
     ALN: yes
   resource: livestock
-  pops:
-    - religion: 
-      estate: peasant
-      size: 1000
 440.1.1:
   owner: SARI
   controller: SARI
@@ -16,26 +14,25 @@
     ALN: no
     SARI: yes
 550.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    avar_culture-chalcedonism: 1
 780.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    avar_culture-chalcedonism: 0
+    lezgin_culture-chalcedonism: 1
 867.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    lezgin_culture-chalcedonism: 0
+    lezgin_culture-orthodox: 1
 1200.1.1:
+  pops: 
+    lezgin_culture-orthodox: 0
+    lezgin_culture-sunni: 1
   owner: AVR
   controller: AVR
   cores:
     SARI: no
     AVR: yes
-  pops:
-    - estate: peasant
-      size: 1000
 1236.1.1:
   owner: MGE
   controller: MGE

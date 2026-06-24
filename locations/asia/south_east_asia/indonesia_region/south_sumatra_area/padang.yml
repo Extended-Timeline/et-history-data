@@ -1,9 +1,7 @@
 #imported from EU4 file: history/provinces/4817 - Padang.txt
 2.1.1:
-  pops:
-    - religion: bimoism
-      estate: peasant
-      size: 1000
+  pops: 
+    minangkabau_culture-bimoism: 1
 200.1.1:
   owner: MINK
   controller: MINK
@@ -17,9 +15,9 @@
     MINK: no
     SRIV: yes
 800.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    minangkabau_culture-bimoism: 0
+    minangkabau_culture-hindu: 1
 1025.1.1:
   owner: DHAR
   controller: DHAR
@@ -38,9 +36,9 @@
   cores:
     NED: yes
 1880.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    minangkabau_culture-hindu: 0
+    minangkabau_culture-sunni: 1
 1912.9.10:
   cores:
     PAGR: no

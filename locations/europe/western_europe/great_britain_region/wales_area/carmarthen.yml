@@ -1,24 +1,18 @@
 #imported from EU4 file: history/provinces/4369 - Carmarthen.txt
 2.1.1: #Was held by Demetae Tribe through Iron Age/Roman Britain period; precursor to Kingdom of Dyfed
+  pops: 
+    briton-druidism: 1
   owner: DEME
   controller: DEME
   cores:
     DEME: yes
   resource: livestock
   pop:
-    ethnicity: briton
-    religion: druidism
-    estate: peasant
-    size: 1000
 78.1.1:
-  pops:
-    - culture: missing_culture
-      estate: peasant
-      size: 1000
 200.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    briton-druidism: 0
+    welsh-druidism: 1
 383.1.1:
   owner: DYFE
   controller: DYFE
@@ -27,13 +21,13 @@
     ROM: no
     DYFE: yes
 660.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    welsh-druidism: 0
+    welsh-chalcedonism: 1
 867.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    welsh-chalcedonism: 0
+    welsh-catholic: 1
 920.1.1:
   owner: DHB
   controller: DHB
@@ -68,7 +62,7 @@
     ENG: no
     GBR: yes
 1750.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    welsh-catholic: 0
+    welsh-anglican: 1
 

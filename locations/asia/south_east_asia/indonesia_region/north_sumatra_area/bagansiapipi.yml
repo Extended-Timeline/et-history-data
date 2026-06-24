@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/2675 - Rokan.txt
 2.1.1:
+  pops: 
+    malay_culture-mahayana: 1
   owner: KADS
   controller: KADS
   cores:
     KADS: yes
   resource: fish
-  pops:
-    - religion: mahayana
-      estate: peasant
-      size: 1000
 240.1.1:
   owner: RIAI
   controller: RIAI
@@ -44,9 +42,9 @@
     PANI: no
     DELI: yes
 1300.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    malay_culture-mahayana: 0
+    malay_culture-sunni: 1
 1471.1.1:
   cores:
     ATJ: yes

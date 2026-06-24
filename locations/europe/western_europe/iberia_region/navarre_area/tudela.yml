@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/210 - Navarra.txt
 2.1.1:
+  pops: 
+    basque-bimoism: 1
   owner: VASC
   controller: VASC
   cores:
     VASC: yes
   resource: iron
-  pops:
-    - religion: bimoism
-      estate: peasant
-      size: 1000
 14.1.1:
   owner: ROM
   controller: ROM
@@ -21,9 +19,9 @@
     ROM: no
     ROMW: yes
 420.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    basque-bimoism: 0
+    basque-chalcedonism: 1
 455.1.1:
   owner: VASC
   controller: VASC
@@ -42,9 +40,6 @@
   cores:
     VISG: yes
 589.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
 711.1.1:
   owner: VASC
   controller: VASC
@@ -74,9 +69,9 @@
     VASC: no
     NAV: yes
 867.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    basque-chalcedonism: 0
+    basque-catholic: 1
 1512.7.24:
   owner: ARA
   controller: ARA

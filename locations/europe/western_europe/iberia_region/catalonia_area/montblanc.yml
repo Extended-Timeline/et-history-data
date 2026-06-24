@@ -1,18 +1,16 @@
 #imported from EU4 file: history/provinces/2988 - Tarragona.txt
 2.1.1:
+  pops: 
+    iberi-hellenism_religion: 1
   owner: ROM
   controller: ROM
   cores:
     ROM: yes
   resource: wine
-  pops:
-    - religion: hellenism_religion
-      estate: peasant
-      size: 1000
 360.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    iberi-hellenism_religion: 0
+    iberi-chalcedonism: 1
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -28,27 +26,27 @@
   owner: ROMW
   controller: ROMW
 476.9.4:
+  pops: 
+    iberi-chalcedonism: 0
+    iberi-arianism: 1
   owner: VISG
   controller: VISG
   cores:
     ROMW: no
     VISG: yes
-  pops:
-    - estate: peasant
-      size: 1000
 570.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    iberi-arianism: 0
+    iberi-chalcedonism: 1
 711.1.1:
+  pops: 
+    iberi-chalcedonism: 0
+    catalan-chalcedonism: 1
   owner: UMAY
   controller: UMAY
   cores:
     VISG: no
     UMAY: yes
-  pops:
-    - estate: peasant
-      size: 1000
 750.8.6:
   owner: CRDB
   controller: CRDB
@@ -56,9 +54,9 @@
     UMAY: no
     CRDB: yes
 867.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    catalan-chalcedonism: 0
+    catalan-catholic: 1
 1010.1.1:
   owner: TORT
   controller: TORT

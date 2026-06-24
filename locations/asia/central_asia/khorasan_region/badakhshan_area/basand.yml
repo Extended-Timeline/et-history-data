@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/4344 - Kish.txt
 2.1.1:
+  pops: 
+    sogdian-mahayana: 1
   owner: KUSH
   controller: KUSH
   cores:
     KUSH: yes
   resource: wool
-  pops:
-    - religion: mahayana
-      estate: peasant
-      size: 1000
 230.1.1:
   owner: KSAS
   controller: KSAS
@@ -34,9 +32,9 @@
     HEPH: no
     CHAG: yes
 620.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    sogdian-mahayana: 0
+    sogdian-zoroastrian: 1
 642.1.1:
   owner: SAMA
   controller: SAMA
@@ -70,9 +68,9 @@
   cores:
     KOKA: yes
 850.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    sogdian-zoroastrian: 0
+    tajik_culture-zoroastrian: 1
 870.1.1:
   owner: CHAG
   controller: CHAG
@@ -80,9 +78,9 @@
     KOKA: no
     CHAG: yes
 880.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    tajik_culture-zoroastrian: 0
+    tajik_culture-sunni: 1
 1040.5.23:
   owner: SELJ
   controller: SELJ
@@ -135,9 +133,9 @@
   cores:
     TIM: yes
 1380.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    tajik_culture-sunni: 0
+    uzbek_culture-sunni: 1
 1409.5.13:
   owner: TRAN
   controller: TRAN

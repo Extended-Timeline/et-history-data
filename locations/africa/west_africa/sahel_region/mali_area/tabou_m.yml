@@ -1,9 +1,7 @@
 #imported from EU4 file: history/provinces/2248 - Do.txt
 2.1.1:
-  pops:
-    - religion: bantu_religion
-      estate: peasant
-      size: 1000
+  pops: 
+    mandinka-bantu_religion: 1
 800.1.1:
   owner: KAGB
   controller: KAGB
@@ -22,9 +20,9 @@
   cores:
     SEGU: yes
 1830.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    mandinka-bantu_religion: 0
+    mandinka-sunni: 1
 1890.1.1:
   owner: FRA
   controller: FRA

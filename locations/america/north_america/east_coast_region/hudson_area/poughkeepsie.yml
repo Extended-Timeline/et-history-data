@@ -1,29 +1,25 @@
 #imported from EU4 file: history/provinces/963 - Mahican.txt
 2.1.1:
-  pops:
-    - religion: iroquoian_totemism
-      estate: peasant
-      size: 1000
+  pops: 
+    mahican_culture-iroquoian_totemism: 1
 1624.1.1:
+  pops: 
+    mahican_culture-iroquoian_totemism: 0
+    low_franconian-calvinist: 1
   owner: NED
   controller: NED
   cores:
     NED: yes
   resource: fur
-  pops:
-    - religion: calvinist
-      estate: peasant
-      size: 1000
 1665.6.1:
   controller: ENG
 1667.7.31:
+  pops: 
+    low_franconian-calvinist: 0
+    english-lutheran: 1
   owner: ENG
   cores:
     ENG: yes
-  pops:
-    - religion: lutheran
-      estate: peasant
-      size: 1000
 1673.1.1:
   owner: NED
   controller: NED
@@ -42,9 +38,9 @@
     ENG: no
     GBR: yes
 1764.7.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    english-lutheran: 0
+    american-lutheran: 1
 1776.7.4:
   owner: USA
   controller: USA

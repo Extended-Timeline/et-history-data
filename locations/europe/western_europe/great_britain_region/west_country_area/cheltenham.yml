@@ -1,23 +1,21 @@
 #imported from EU4 file: history/provinces/239 - Gloucestershire.txt
 2.1.1:
+  pops: 
+    briton-druidism: 1
   owner: ERGY
   controller: ERGY
   cores:
     ERGY: yes
   resource: naval_supplies
-  pops:
-    - religion: druidism
-      estate: peasant
-      size: 1000
 43.1.1:
   owner: ROM
   controller: ROM
   cores:
     ROM: yes
 300.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    briton-druidism: 0
+    welsh-druidism: 1
 380.1.1:
   cores:
     ERGY: yes
@@ -33,19 +31,15 @@
   cores:
     ROMW: no
     ERGY: yes
-  pops:
-    - estate: peasant
-      size: 1000
 590.1.1:
   owner: WESS
   controller: WESS
   cores:
     WESS: yes
 600.1.1:
-  pops:
-    - religion: germanic_polytheism
-      estate: peasant
-      size: 1000
+  pops: 
+    welsh-druidism: 0
+    anglo_saxon-germanic: 1
 628.1.1:
   owner: MERC
   controller: MERC
@@ -53,9 +47,9 @@
     WESS: no
     MERC: yes
 650.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    anglo_saxon-germanic: 0
+    anglo_saxon-chalcedonism: 1
 829.1.1:
   owner: WESS
   controller: WESS
@@ -67,9 +61,9 @@
   cores:
     WESS: no
 867.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    anglo_saxon-chalcedonism: 0
+    anglo_saxon-catholic: 1
 883.1.1:
   cores:
     WESS: yes
@@ -86,13 +80,13 @@
   cores:
     WESS: no
 1066.12.25:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    anglo_saxon-catholic: 0
+    english-catholic: 1
 1541.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    english-catholic: 0
+    english-anglican: 1
 1643.7.26:
   controller: ENG
 1646.5.5:

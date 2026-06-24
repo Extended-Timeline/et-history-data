@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/2226 - Jalalabad.txt
 2.1.1:
+  pops: 
+    afghan_culture-mahayana: 1
   owner: KAPI
   controller: KAPI
   cores:
     KAPI: yes
   resource: livestock
-  pops:
-    - religion: mahayana
-      estate: peasant
-      size: 1000
 10.1.1:
   owner: IPAR
   controller: IPAR
@@ -39,9 +37,9 @@
     KIDA: no
     KAPI: yes
 500.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    afghan_culture-mahayana: 0
+    afghan_culture-hindu: 1
 665.1.1:
   owner: SHI
   controller: SHI
@@ -61,9 +59,9 @@
     SIST: no
     BUKH: yes
 910.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    afghan_culture-hindu: 0
+    afghan_culture-sunni: 1
 977.1.1:
   owner: GHAZ
   controller: GHAZ

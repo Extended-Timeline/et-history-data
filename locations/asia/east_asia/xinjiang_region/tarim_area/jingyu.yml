@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/711 - Qarqan.txt
 2.1.1:
+  pops: 
+    tocharian-mahayana: 1
   owner: SHAN
   controller: SHAN
   cores:
     SHAN: yes
   resource: livestock
-  pops:
-    - religion: mahayana
-      estate: peasant
-      size: 1000
 350.1.1:
   owner: TUYU
   controller: TUYU
@@ -49,17 +47,17 @@
     TANG: no
     TIB: yes
 765.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    tocharian-mahayana: 0
+    tocharian-manichaeism: 1
 820.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    tocharian-manichaeism: 0
+    uyghur_culture-manichaeism: 1
 840.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    uyghur_culture-manichaeism: 0
+    uyghur_culture-tibetan_buddhism: 1
 842.1.1:
   owner: UTSA
   controller: UTSA
@@ -108,9 +106,9 @@
     MOGH: no
     YARK: yes
 1680.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    uyghur_culture-tibetan_buddhism: 0
+    uyghur_culture-sunni: 1
 1682.1.1:
   owner: ZUNG
   controller: ZUNG

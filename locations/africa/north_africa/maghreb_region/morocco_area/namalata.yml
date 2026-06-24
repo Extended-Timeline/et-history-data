@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/343 - Fez.txt
 2.1.1:
+  pops: 
+    zenati-bantu_religion: 1
   owner: MAUT
   controller: MAUT
   cores:
     MAUT: yes
   resource: cloth
-  pops:
-    - religion: bantu_religion
-      estate: peasant
-      size: 1000
 40.1.1:
   owner: ROM
   controller: ROM
@@ -21,9 +19,9 @@
     ROM: no
     MOOR: yes
 320.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    zenati-bantu_religion: 0
+    zenati-chalcedonism: 1
 708.1.1:
   owner: UMAY
   controller: UMAY
@@ -31,9 +29,9 @@
     MOOR: no
     UMAY: yes
 730.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    zenati-chalcedonism: 0
+    zenati-ibadi: 1
 743.1.1:
   owner: FEZ
   controller: FEZ
@@ -41,18 +39,18 @@
     UMAY: no
     FEZ: yes
 789.1.1:
+  pops: 
+    zenati-ibadi: 0
+    moroccan-ibadi: 1
   owner: MOR
   controller: MOR
   cores:
     FEZ: no
     MOR: yes
-  pops:
-    - estate: peasant
-      size: 1000
 790.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    moroccan-ibadi: 0
+    moroccan-shia: 1
 922.1.1:
   owner: FATI
   controller: FATI
@@ -99,9 +97,9 @@
     TLE: no
     FEZ: yes
 1050.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    moroccan-shia: 0
+    moroccan-sunni: 1
 1070.1.1:
   owner: MOR
   controller: MOR

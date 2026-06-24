@@ -1,9 +1,7 @@
 #imported from EU4 file: history/provinces/2102 - Urkan.txt
 2.1.1:
-  pops:
-    - religion: 
-      estate: peasant
-      size: 1000
+  pops: 
+    evenk_culture-: 1
 1206.1.1:
   owner: SOL
   controller: SOL
@@ -11,12 +9,10 @@
     SOL: yes
   resource: fur
 1653.1.1:
+  pops: 
+    muscovite-orthodox: 1
   owner: RUS
   controller: RUS
-  pops:
-    - religion: orthodox
-      estate: peasant
-      size: 1000
 1683.1.1:
   cores:
     RUS: yes

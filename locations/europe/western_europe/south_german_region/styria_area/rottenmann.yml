@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/132 - Steiermark.txt
 2.1.1:
+  pops: 
+    noric-druidism: 1
   owner: ROM
   controller: ROM
   cores:
     ROM: yes
   resource: grain
-  pops:
-    - religion: druidism
-      estate: peasant
-      size: 1000
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -16,10 +14,9 @@
     ROM: no
     ROMW: yes
 420.1.1:
-  pops:
-    - religion: germanic_polytheism
-      estate: peasant
-      size: 1000
+  pops: 
+    noric-druidism: 0
+    danube_bavarian-germanic: 1
 467.1.1:
   owner: RUGI
   controller: RUGI
@@ -42,15 +39,14 @@
     OSTR: no
     LOMB: yes
 591.1.1:
+  pops: 
+    danube_bavarian-germanic: 0
+    slovene-slavic: 1
   owner: AVR
   controller: AVR
   cores:
     LOMB: no
     AVR: yes
-  pops:
-    - religion: slavic_polytheism
-      estate: peasant
-      size: 1000
 623.1.1:
   owner: SAMO
   controller: SAMO
@@ -70,9 +66,9 @@
     CRH: no
     BAV: yes
 750.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    slovene-slavic: 0
+    danube_bavarian-slavic: 1
 788.1.1:
   owner: FRAN
   controller: FRAN
@@ -86,9 +82,9 @@
     FRAN: no
     BAV: yes
 867.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    danube_bavarian-slavic: 0
+    danube_bavarian-catholic: 1
 880.3.22:
   owner: EFRA
   controller: EFRA

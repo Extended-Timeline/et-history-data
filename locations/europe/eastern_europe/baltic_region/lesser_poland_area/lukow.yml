@@ -1,34 +1,30 @@
 #imported from EU4 file: history/provinces/260 - Lublin.txt
 2.1.1:
+  pops: 
+    lesser_polish-slavic: 1
   owner: VEND
   controller: VEND
   cores:
     VEND: yes
   resource: cloth
-  pops:
-    - religion: slavic_polytheism
-      estate: peasant
-      size: 1000
 140.1.1:
+  pops: 
+    lesser_polish-slavic: 0
+    gothic-germanic: 1
   owner: GOTH
   controller: GOTH
   cores:
     VEND: no
     GOTH: yes
-  pops:
-    - religion: germanic_polytheism
-      estate: peasant
-      size: 1000
 150.1.1:
+  pops: 
+    gothic-germanic: 0
+    lesser_polish-slavic: 1
   owner: VEND
   controller: VEND
   cores:
     GOTH: no
     VEND: yes
-  pops:
-    - religion: slavic_polytheism
-      estate: peasant
-      size: 1000
 550.1.1:
   owner: LEDN
   controller: LEDN
@@ -47,9 +43,9 @@
   cores:
     POL: yes
 1050.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    lesser_polish-slavic: 0
+    lesser_polish-catholic: 1
 1138.10.28:
   owner: SAND
   controller: SAND
@@ -71,9 +67,9 @@
   cores:
     HAL: no
 1550.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    lesser_polish-catholic: 0
+    lesser_polish-calvinist: 1
 1569.7.1:
   owner: PLC
   controller: PLC
@@ -112,9 +108,9 @@
   owner: GER
   controller: GER
 1940.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    lesser_polish-calvinist: 0
+    lesser_polish-catholic: 1
 1944.7.24:
   controller: SOVI
 1945.5.8:

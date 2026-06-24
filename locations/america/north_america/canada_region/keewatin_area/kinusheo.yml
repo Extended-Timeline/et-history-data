@@ -1,19 +1,16 @@
 #imported from EU4 file: history/provinces/1004 - Attawapiskat.txt
 2.1.1:
-  pops:
-    - religion: iroquoian_totemism
-      estate: peasant
-      size: 1000
+  pops: 
+    ilili_culture-iroquoian_totemism: 1
 1689.1.1:
+  pops: 
+    ilili_culture-iroquoian_totemism: 0
+    english-lutheran: 1
   owner: ENG
   controller: ENG
   cores:
     ENG: yes
   resource: fur
-  pops:
-    - religion: lutheran
-      estate: peasant
-      size: 1000
 1707.5.12:
   owner: GBR
   controller: GBR
@@ -21,9 +18,9 @@
     ENG: no
     GBR: yes
 1790.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    english-lutheran: 0
+    british_canadian-lutheran: 1
 1870.7.15:
   owner: CAN
   controller: CAN

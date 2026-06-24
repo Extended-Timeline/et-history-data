@@ -1,20 +1,18 @@
 #imported from EU4 file: history/provinces/1832 - Yamato.txt
 #Edit by Raun139
 2.1.1:
+  pops: 
+    saigoku_culture-shinto: 1
   resource: lumber
-  pops:
-    - religion: shinto
-      estate: peasant
-      size: 1000
 250: #古墳時代の始まり。ヤマト王権の成立に結びつけられる箸墓古墳、纒向遺跡が3世紀中頃～と推定される。（The beginning of the Kofun period. Hashihaka Kofun and the Makimuku site—often linked to the emergence of the Yamato polity—are estimated to date from around the mid-3rd century onward.）
   owner: YMT
   controller: YMT
   cores:
     YMT: yes
 607.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    saigoku_culture-shinto: 0
+    saigoku_culture-mahayana: 1
 701: #大宝律令の制定で国支配が確立(Provincial governance was consolidated with the enactment of the Taihō Code.)
   owner: JAP
   controller: JAP
@@ -22,9 +20,9 @@
     YMT: no
     JAP: yes
 712.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    saigoku_culture-mahayana: 0
+    saigoku_culture-shinto: 1
 1192.8.21: #鎌倉幕府成立(The establishment of the Kamakura shogunate.)
   owner: MINM
   controller: MINM

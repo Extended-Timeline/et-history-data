@@ -1,18 +1,16 @@
 #imported from EU4 file: history/provinces/4232 - Ganggye.txt
 2.1.1:
+  pops: 
+    korean_culture-muism: 1
   owner: GOGU
   controller: GOGU
   cores:
     GOGU: yes
   resource: fur
-  pops:
-    - religion: muism
-      estate: peasant
-      size: 1000
 372.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    korean_culture-muism: 0
+    korean_culture-mahayana: 1
 698.1.1:
   owner: BALH
   controller: BALH
@@ -60,14 +58,14 @@
     YUA: no
     GORY: yes
 1392.7.12:
+  pops: 
+    korean_culture-mahayana: 0
+    korean_culture-sanjiao: 1
   owner: KOR
   controller: KOR
   cores:
     GORY: no
     KOR: yes
-  pops:
-    - estate: peasant
-      size: 1000
 1592.7.19:
   controller: TOYO
 1593.2.8:

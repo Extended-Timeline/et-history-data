@@ -1,18 +1,16 @@
 #imported from EU4 file: history/provinces/2071 - Limbuwan.txt
 2.1.1:
+  pops: 
+    newar_culture-mahayana: 1
   owner: LWA
   controller: LWA
   cores:
     LWA: yes
   resource: wool
-  pops:
-    - religion: mahayana
-      estate: peasant
-      size: 1000
 640.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    newar_culture-mahayana: 0
+    newar_culture-tibetan_buddhism: 1
 1609.1.1:
   owner: SKK
   controller: SKK
@@ -29,6 +27,3 @@
   cores:
     NPL: yes
 1800.1.1:
-  pops:
-    - estate: peasant
-      size: 1000

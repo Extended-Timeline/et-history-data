@@ -1,15 +1,13 @@
 #imported from EU4 file: history/provinces/2163 - Guangxi.txt
 2.1.1:
+  pops: 
+    zhuang_culture-bimoism: 1
   owner: HAN0
   controller: HAN0
   cores:
     HAN0: yes
     WUU: yes
   resource: salt
-  pops:
-    - religion: bimoism
-      estate: peasant
-      size: 1000
 9.1.10:
   owner: XIN0
   controller: XIN0
@@ -86,9 +84,9 @@
     LIAN: no
     TANG: yes
 650.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    zhuang_culture-bimoism: 0
+    zhuang_culture-sanjiao: 1
 907.6.1:
   owner: CHU0
   controller: CHU0

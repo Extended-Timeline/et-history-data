@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/395 - Qatar.txt
 2.1.1:
+  pops: 
+    bahrani_culture-south_arabian: 1
   owner: GERR
   controller: GERR
   cores:
     GERR: yes
   resource: gems
-  pops:
-    - religion: south_arabian_polytheism
-      estate: peasant
-      size: 1000
 220.1.1:
   owner: LAKH
   controller: LAKH
@@ -16,9 +14,9 @@
     GERR: no
     LAKH: yes
 280.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    bahrani_culture-south_arabian: 0
+    bahrani_culture-chalcedonism: 1
 325.1.1:
   owner: ERA
   controller: ERA
@@ -26,27 +24,27 @@
     LAKH: no
     ERA: yes
 431.7.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    bahrani_culture-chalcedonism: 0
+    bahrani_culture-nestorianism: 1
 634.1.1:
+  pops: 
+    bahrani_culture-nestorianism: 0
+    bahrani_culture-islam: 1
   owner: RASH
   controller: RASH
   cores:
     ERA: no
     RASH: yes
-  pops:
-    - estate: peasant
-      size: 1000
 661.7.28:
+  pops: 
+    bahrani_culture-islam: 0
+    bahrani_culture-shia: 1
   owner: UMAY
   controller: UMAY
   cores:
     RASH: no
     UMAY: yes
-  pops:
-    - estate: peasant
-      size: 1000
 750.8.6:
   owner: ABBA
   controller: ABBA
@@ -107,9 +105,9 @@
   cores:
     TUR: yes
 1900.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    bahrani_culture-shia: 0
+    bahrani_culture-sunni: 1
 1913.7.17:
   owner: QATA
   controller: QATA

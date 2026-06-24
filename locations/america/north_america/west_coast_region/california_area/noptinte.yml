@@ -1,16 +1,13 @@
 #imported from EU4 file: history/provinces/870 - Yorkuts.txt
 2.1.1:
-  pops:
-    - religion: iroquoian_totemism
-      estate: peasant
-      size: 1000
+  pops: 
+    south_valley_yokut_culture-iroquoian_totemism: 1
 1848.2.2:
+  pops: 
+    south_valley_yokut_culture-iroquoian_totemism: 0
+    british_californian-catholic: 1
   owner: USA
   controller: USA
   cores:
     USA: yes
   resource: gold
-  pops:
-    - religion: catholic
-      estate: peasant
-      size: 1000

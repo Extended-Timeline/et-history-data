@@ -1,24 +1,21 @@
 #imported from EU4 file: history/provinces/3061 - Bukovina.txt
 2.1.1:
+  pops: 
+    dacian-zamolxism: 1
   owner: DACI
   controller: DACI
   cores:
     DACI: yes
   resource: wool
-  pops:
-    - religion: zamolxism
-      estate: peasant
-      size: 1000
 150.1.1:
+  pops: 
+    dacian-zamolxism: 0
+    gothic-germanic: 1
   owner: BAST
   controller: BAST
   cores:
     DACI: no
     BAST: yes
-  pops:
-    - religion: germanic_polytheism
-      estate: peasant
-      size: 1000
 271.1.1:
   owner: VISG
   controller: VISG
@@ -26,27 +23,26 @@
     BAST: no
     VISG: yes
 370.1.1:
+  pops: 
+    gothic-germanic: 0
+    hunnic-germanic: 1
   owner: HUNS
   controller: HUNS
   cores:
     VISG: no
     HUNS: yes
-  pops:
-    - estate: peasant
-      size: 1000
 400.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    hunnic-germanic: 0
+    hunnic-: 1
 520.1.1:
+  pops: 
+    ruthenian-: 1
   owner: ANTE
   controller: ANTE
   cores:
     HUNS: no
     ANTE: yes
-  pops:
-    - estate: peasant
-      size: 1000
 560.1.1:
   owner: WHCR
   controller: WHCR
@@ -59,9 +55,8 @@
   cores:
     HUN: yes
 940.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    ruthenian-orthodox: 1
 950.1.1:
   owner: PECH
   controller: PECH
@@ -69,11 +64,11 @@
     HUN: no
     PECH: yes
 960.1.1:
+  pops: 
+    ruthenian-orthodox: 0
+    wallachian-orthodox: 1
   cores:
     WHCR: no
-  pops:
-    - estate: peasant
-      size: 1000
 1054.2.20:
   owner: HAL
   controller: HAL
@@ -129,9 +124,9 @@
   cores:
     RMN: no
 1980.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    wallachian-orthodox: 0
+    ruthenian-orthodox: 1
 1991.8.24:
   owner: UKR
   controller: UKR

@@ -1,18 +1,16 @@
 #imported from EU4 file: history/provinces/3220 - Cunene.txt
 2.1.1:
-  pops:
-    - religion: bantu_religion
-      estate: peasant
-      size: 1000
+  pops: 
+    herero-bantu_religion: 1
 1912.8.8:
+  pops: 
+    herero-bantu_religion: 0
+    herero-catholic: 1
   owner: POR
   controller: POR
   cores:
     POR: yes
   resource: wool
-  pops:
-    - estate: peasant
-      size: 1000
 1975.11.11:
   owner: ANGO
   controller: ANGO

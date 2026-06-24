@@ -1,42 +1,37 @@
 #imported from EU4 file: history/provinces/4884 - Houma.txt
 2.1.1:
-  pops:
-    - religion: iroquoian_totemism
-      estate: peasant
-      size: 1000
+  pops: 
+    natchez_culture-iroquoian_totemism: 1
 1716.1.1:
+  pops: 
+    natchez_culture-iroquoian_totemism: 0
+    french-catholic: 1
   owner: FRA
   controller: FRA
   cores:
     FRA: yes
   resource: cotton
-  pops:
-    - religion: catholic
-      estate: peasant
-      size: 1000
 1763.2.10:
   owner: GBR
   controller: GBR
   cores:
     FRA: no
 1763.10.9:
+  pops: 
+    french-catholic: 0
+    choctaw_culture-iroquoian_totemism: 1
   owner: CHC
   controller: CHC
   cores:
     CHC: yes
-  pops:
-    - religion: iroquoian_totemism
-      estate: peasant
-      size: 1000
 1786.1.3:
+  pops: 
+    choctaw_culture-iroquoian_totemism: 0
+    british_louisianan-lutheran: 1
   owner: USA
   controller: USA
   cores:
     USA: yes
-  pops:
-    - religion: lutheran
-      estate: peasant
-      size: 1000
 1861.1.9:
   owner: CSAM
   controller: CSAM

@@ -1,34 +1,30 @@
 #imported from EU4 file: history/provinces/4538 - Chelm.txt
 2.1.1:
+  pops: 
+    lesser_polish-slavic: 1
   owner: VEND
   controller: VEND
   cores:
     VEND: yes
   resource: wool
-  pops:
-    - religion: slavic_polytheism
-      estate: peasant
-      size: 1000
 150.1.1:
+  pops: 
+    lesser_polish-slavic: 0
+    gothic-germanic: 1
   owner: GOTH
   controller: GOTH
   cores:
     VEND: no
     GOTH: yes
-  pops:
-    - religion: germanic_polytheism
-      estate: peasant
-      size: 1000
 220.1.1:
+  pops: 
+    gothic-germanic: 0
+    lesser_polish-slavic: 1
   owner: VEND
   controller: VEND
   cores:
     GOTH: no
     VEND: yes
-  pops:
-    - religion: slavic_polytheism
-      estate: peasant
-      size: 1000
 550.1.1:
   owner: LEDN
   controller: LEDN
@@ -63,9 +59,9 @@
   cores:
     KIEV: yes
 1050.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    lesser_polish-slavic: 0
+    lesser_polish-catholic: 1
 1054.2.20:
   owner: HAL
   controller: HAL
@@ -84,9 +80,6 @@
   cores:
     PLC: yes
 1570.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
 1657.7.1:
   controller: SWE
 1660.1.1:

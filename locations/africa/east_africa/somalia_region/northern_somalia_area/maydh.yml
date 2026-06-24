@@ -1,22 +1,20 @@
 #imported from EU4 file: history/provinces/2790 - Sanaag.txt
 2.1.1:
+  pops: 
+    somali_culture-bantu_religion: 1
   owner: HEIS
   controller: HEIS
   cores:
     HEIS: yes
   resource: incense
-  pops:
-    - religion: bantu_religion
-      estate: peasant
-      size: 1000
 1100.1.1:
+  pops: 
+    somali_culture-bantu_religion: 0
+    somali_culture-sunni: 1
   owner: WAR
   controller: WAR
   cores:
     WAR: yes
-  pops:
-    - estate: peasant
-      size: 1000
 1526.1.1:
   owner: ADA
   controller: ADA

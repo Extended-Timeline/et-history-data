@@ -1,18 +1,16 @@
 #imported from EU4 file: history/provinces/1009 - Atikaki.txt
 2.1.1:
-  pops:
-    - religion: iroquoian_totemism
-      estate: peasant
-      size: 1000
+  pops: 
+    asinikawithini_culture-iroquoian_totemism: 1
 1790.1.1:
+  pops: 
+    asinikawithini_culture-iroquoian_totemism: 0
+    asinikawithini_culture-lutheran: 1
   owner: GBR
   controller: GBR
   cores:
     GBR: yes
   resource: fur
-  pops:
-    - estate: peasant
-      size: 1000
 1870.7.15:
   owner: CAN
   controller: CAN

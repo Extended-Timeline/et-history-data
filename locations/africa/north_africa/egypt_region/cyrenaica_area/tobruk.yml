@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/2326 - Bardiyah.txt
 2.1.1:
+  pops: 
+    eastern_amazigh-hellenism_religion: 1
   owner: ROM
   controller: ROM
   cores:
     ROM: yes
   resource: livestock
-  pops:
-    - religion: hellenism_religion
-      estate: peasant
-      size: 1000
 395.1.17:
   owner: BYZ
   controller: BYZ
@@ -28,10 +26,9 @@
     RASH: no
     UMAY: yes
 710.1.1:
-  pops:
-    - religion: sunni
-      estate: peasant
-      size: 1000
+  pops: 
+    eastern_amazigh-hellenism_religion: 0
+    lower_egyptian_culture-sunni: 1
 750.8.6:
   owner: ABBA
   controller: ABBA

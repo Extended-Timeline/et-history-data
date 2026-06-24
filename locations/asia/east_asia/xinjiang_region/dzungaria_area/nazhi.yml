@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/2122 - Hami.txt
 2.1.1:
+  pops: 
+    tocharian-mahayana: 1
   owner: XION
   controller: XION
   cores:
     XION: yes
   resource: grain
-  pops:
-    - religion: mahayana
-      estate: peasant
-      size: 1000
 60.1.1:
   owner: HAN0
   controller: HAN0
@@ -57,9 +55,9 @@
   cores:
     JIN1: no
 360.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    tocharian-mahayana: 0
+    uyghur_culture-mahayana: 1
 376.9.26:
   owner: QIN0
   controller: QIN0
@@ -151,9 +149,9 @@
     MGE: no
     YUA: yes
 1275.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    uyghur_culture-mahayana: 0
+    uyghur_culture-tibetan_buddhism: 1
 1368.1.23:
   owner: MGE
   controller: MGE
@@ -213,6 +211,3 @@
   cores:
     UYGH: yes
 1970.1.1:
-  pops:
-    - estate: peasant
-      size: 1000

@@ -1,19 +1,17 @@
 #imported from EU4 file: history/provinces/2989 - Rioja.txt
 2.1.1:
+  pops: 
+    basque-druidism: 1
   owner: ROM
   controller: ROM
   cores:
     ROM: yes
     VASC: yes
   resource: wine
-  pops:
-    - religion: druidism
-      estate: peasant
-      size: 1000
 360.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    basque-druidism: 0
+    basque-chalcedonism: 1
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -50,9 +48,9 @@
     UMAY: no
     CRDB: yes
 867.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    basque-chalcedonism: 0
+    basque-catholic: 1
 923.1.1:
   owner: NAV
   controller: NAV
@@ -69,9 +67,9 @@
   cores:
     NAV: no
 1250.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    basque-catholic: 0
+    castilian-catholic: 1
 1516.1.23:
   owner: SPA
   controller: SPA

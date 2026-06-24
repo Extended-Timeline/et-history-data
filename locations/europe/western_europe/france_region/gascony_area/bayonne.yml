@@ -1,19 +1,17 @@
 #imported from EU4 file: history/provinces/173 - Labourd.txt
 2.1.1:
+  pops: 
+    aquitanian-bimoism: 1
   owner: ROM
   controller: ROM
   cores:
     ROM: yes
     VASC: yes
   resource: wine
-  pops:
-    - religion: bimoism
-      estate: peasant
-      size: 1000
 300.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    aquitanian-bimoism: 0
+    aquitanian-chalcedonism: 1
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -28,9 +26,9 @@
     ROMW: no
     VISG: yes
 500.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    aquitanian-chalcedonism: 0
+    basque-chalcedonism: 1
 507.1.1:
   owner: FRAN
   controller: FRAN
@@ -99,9 +97,9 @@
     WFRA: no
     AQN: yes
 867.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    basque-chalcedonism: 0
+    basque-catholic: 1
 877.10.6:
   owner: GUY
   controller: GUY
@@ -149,9 +147,9 @@
     AMG: no
     AUV: yes
 1560.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    basque-catholic: 0
+    basque-calvinist: 1
 1589.1.5:
   owner: NAV
   controller: NAV
@@ -162,9 +160,9 @@
   owner: FRA
   controller: FRA
 1686.1.17:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    basque-calvinist: 0
+    basque-catholic: 1
 1870.9.4:
   owner: FRA
   controller: FRA
@@ -177,6 +175,3 @@
   owner: FRA
   controller: FRA
 1950.1.1:
-  pops:
-    - estate: peasant
-      size: 1000

@@ -1,18 +1,16 @@
 #imported from EU4 file: history/provinces/3042 - North Quebec.txt
 2.1.1:
-  pops:
-    - religion: iroquoian_totemism
-      estate: peasant
-      size: 1000
+  pops: 
+    ilili_culture-iroquoian_totemism: 1
 1920.1.1:
+  pops: 
+    ilili_culture-iroquoian_totemism: 0
+    ilili_culture-catholic: 1
   owner: CAN
   controller: CAN
   cores:
     CAN: yes
   resource: iron
-  pops:
-    - estate: peasant
-      size: 1000
 1980.5.20:
   cores:
     QUEB: yes

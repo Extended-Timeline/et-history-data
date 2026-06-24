@@ -1,18 +1,16 @@
 #imported from EU4 file: history/provinces/4761 - Traungau.txt
 2.1.1:
+  pops: 
+    noric-druidism: 1
   owner: ROM
   controller: ROM
   cores:
     ROM: yes
   resource: iron
-  pops:
-    - religion: druidism
-      estate: peasant
-      size: 1000
 340.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    noric-druidism: 0
+    noric-chalcedonism: 1
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -20,10 +18,9 @@
     ROM: no
     ROMW: yes
 420.1.1:
-  pops:
-    - religion: germanic_polytheism
-      estate: peasant
-      size: 1000
+  pops: 
+    noric-chalcedonism: 0
+    southern_bavarian-germanic: 1
 467.1.1:
   owner: RUGI
   controller: RUGI
@@ -58,9 +55,9 @@
     FRAN: no
     BAV: yes
 867.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    southern_bavarian-germanic: 0
+    southern_bavarian-catholic: 1
 880.3.22:
   owner: EFRA
   controller: EFRA
@@ -73,9 +70,9 @@
     EFRA: no
     BAV: yes
 950.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    southern_bavarian-catholic: 0
+    danube_bavarian-catholic: 1
 976.1.1:
   owner: HAB
   controller: HAB

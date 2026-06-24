@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/458 - Kokand.txt
 2.1.1:
+  pops: 
+    sogdian-zoroastrian: 1
   owner: KAGJ
   controller: KAGJ
   cores:
     KAGJ: yes
   resource: iron
-  pops:
-    - religion: zoroastrian
-      estate: peasant
-      size: 1000
 260.1.1:
   owner: WUSU
   controller: WUSU
@@ -45,9 +43,9 @@
   cores:
     TURG: yes
 750.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    sogdian-zoroastrian: 0
+    uzbek_culture-zoroastrian: 1
 766.1.1:
   owner: KARL
   controller: KARL
@@ -61,9 +59,9 @@
     KARL: no
     KOKA: yes
 820.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    uzbek_culture-zoroastrian: 0
+    uzbek_culture-sunni: 1
 892.8.1:
   owner: BUKH
   controller: BUKH

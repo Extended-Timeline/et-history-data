@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/4290 - Hoveyzeh.txt
 2.1.1:
+  pops: 
+    khuzi-zoroastrian: 1
   owner: ELYM
   controller: ELYM
   cores:
     ELYM: yes
   resource: grain
-  pops:
-    - religion: zoroastrian
-      estate: peasant
-      size: 1000
 224.4.24:
   owner: ERA
   controller: ERA
@@ -21,18 +19,18 @@
     ERA: no
     RASH: yes
 650.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    khuzi-zoroastrian: 0
+    khuzi-islam: 1
 661.7.28:
+  pops: 
+    khuzi-islam: 0
+    khuzi-shia: 1
   owner: UMAY
   controller: UMAY
   cores:
     RASH: no
     UMAY: yes
-  pops:
-    - estate: peasant
-      size: 1000
 750.8.6:
   owner: ABBA
   controller: ABBA
@@ -40,9 +38,9 @@
     UMAY: no
     ABBA: yes
 900.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    khuzi-shia: 0
+    lur_culture-shia: 1
 940.1.1:
   owner: IRAQ
   controller: IRAQ

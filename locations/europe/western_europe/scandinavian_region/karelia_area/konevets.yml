@@ -1,9 +1,7 @@
 #imported from EU4 file: history/provinces/32 - Keksholm.txt
 2.1.1:
-  pops:
-    - religion: muinaisusko
-      estate: peasant
-      size: 1000
+  pops: 
+    finnish-muinaisusko: 1
 750.1.1:
   owner: KAKI
   controller: KAKI
@@ -18,9 +16,9 @@
     NOV: yes
     FIN: yes
 1200.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    finnish-muinaisusko: 0
+    finnish-orthodox: 1
 1337.1.1:
   controller: SWE
 1338.1.1:
@@ -78,9 +76,9 @@
 1944.9.4:
   controller: SOVI
 1948.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    finnish-orthodox: 0
+    novgorodian-orthodox: 1
 1991.12.25:
   owner: RUS
   controller: RUS

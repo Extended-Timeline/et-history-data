@@ -1,23 +1,21 @@
 #imported from EU4 file: history/provinces/251 - Aberdeen.txt
 2.1.1:
+  pops: 
+    pictish-druidism: 1
   owner: TAEX
   controller: TAEX
   cores:
     TAEX: yes
   resource: fish
-  pops:
-    - religion: druidism
-      estate: peasant
-      size: 1000
 250.1.1:
   owner: PICT
   controller: PICT
   cores:
     PICT: yes
 500.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    pictish-druidism: 0
+    pictish-chalcedonism: 1
 843.1.1:
   owner: SCO
   controller: SCO
@@ -25,25 +23,25 @@
     PICT: no
     SCO: yes
 867.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    pictish-chalcedonism: 0
+    pictish-catholic: 1
 900.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    pictish-catholic: 0
+    highland-catholic: 1
 1296.1.1:
   controller: ENG
 1314.1.1:
   controller: SCO
 1350.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    highland-catholic: 0
+    scottish-catholic: 1
 1560.8.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    scottish-catholic: 0
+    scottish-calvinist: 1
 1645.9.13:
   controller: SCO
 1707.5.12:

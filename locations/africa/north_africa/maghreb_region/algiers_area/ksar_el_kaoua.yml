@@ -1,23 +1,21 @@
 #imported from EU4 file: history/provinces/2462 - Ouarsenis.txt
 2.1.1:
+  pops: 
+    zenati-bantu_religion: 1
   owner: MAUT
   controller: MAUT
   cores:
     MAUT: yes
   resource: livestock
-  pops:
-    - religion: bantu_religion
-      estate: peasant
-      size: 1000
 40.1.1:
   owner: ROM
   controller: ROM
   cores:
     ROM: yes
 340.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    zenati-bantu_religion: 0
+    zenati-chalcedonism: 1
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -42,13 +40,13 @@
   cores:
     UMAY: yes
 725.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    zenati-chalcedonism: 0
+    zenati-sunni: 1
 739.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    zenati-sunni: 0
+    zenati-ibadi: 1
 743.1.1:
   owner: TLE
   controller: TLE
@@ -61,9 +59,6 @@
   cores:
     TLE: no
     MZB: yes
-  pops:
-    - estate: peasant
-      size: 1000
 909.1.1:
   owner: FATI
   controller: FATI
@@ -71,9 +66,9 @@
     MZB: no
     FATI: yes
 960.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    zenati-ibadi: 0
+    zenati-shia: 1
 973.1.1:
   owner: TUN
   controller: TUN
@@ -87,9 +82,9 @@
     TUN: no
     KABY: yes
 1040.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    zenati-shia: 0
+    zenati-sunni: 1
 1070.1.1:
   owner: MOR
   controller: MOR

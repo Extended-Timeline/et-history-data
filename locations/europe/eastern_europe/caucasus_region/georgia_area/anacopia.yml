@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/1856 - Abkhazia.txt
 2.1.1:
+  pops: 
+    circassian_culture-georgian_religion: 1
   owner: PONT
   controller: PONT
   cores:
     PONT: yes
   resource: wine
-  pops:
-    - religion: georgian_religion
-      estate: peasant
-      size: 1000
 62.1.1:
   owner: ROM
   controller: ROM
@@ -30,9 +28,9 @@
     BYZ: no
     LAZI: yes
 500.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    circassian_culture-georgian_religion: 0
+    circassian_culture-chalcedonism: 1
 697.1.1:
   owner: ABKH
   controller: ABKH
@@ -40,9 +38,9 @@
     LAZI: no
     ABKH: yes
 867.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    circassian_culture-chalcedonism: 0
+    circassian_culture-orthodox: 1
 1008.1.1:
   owner: GEO
   controller: GEO

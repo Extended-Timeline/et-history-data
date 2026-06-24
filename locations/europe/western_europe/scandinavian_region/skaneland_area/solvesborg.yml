@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/1982 - Blekinge.txt
 2.1.1:
+  pops: 
+    scanian-norse: 1
   owner: HERU
   controller: HERU
   cores:
     HERU: yes
   resource: naval_supplies
-  pops:
-    - religion: norse
-      estate: peasant
-      size: 1000
 380.1.1:
   owner: EGEA
   controller: EGEA
@@ -16,9 +14,9 @@
     HERU: no
     EGEA: yes
 450.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    scanian-norse: 0
+    danish-norse: 1
 650.1.1:
   owner: DAN
   controller: DAN
@@ -26,28 +24,28 @@
     EGEA: no
     DAN: yes
 950.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    danish-norse: 0
+    danish-catholic: 1
 1000.1.1:
   cores:
     SWE: yes
 1525.5.10:
   controller: DAN
 1536.3.15:
+  pops: 
+    danish-catholic: 0
+    danish-lutheran: 1
   controller: DAN
-  pops:
-    - estate: peasant
-      size: 1000
 1658.2.26:
   owner: SWE
   controller: SWE
   cores:
     SWE: yes
 1680.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    danish-lutheran: 0
+    swedish-lutheran: 1
 1850.1.1:
   cores:
     DAN: no

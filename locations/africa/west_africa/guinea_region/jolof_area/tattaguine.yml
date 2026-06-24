@@ -1,9 +1,7 @@
 #imported from EU4 file: history/provinces/1113 - Cayor.txt
 2.1.1:
-  pops:
-    - religion: bantu_religion
-      estate: peasant
-      size: 1000
+  pops: 
+    wolof-bantu_religion: 1
 1285.1.1:
   owner: MAL
   controller: MAL
@@ -17,9 +15,9 @@
     MAL: no
     JOL: yes
 1800.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    wolof-bantu_religion: 0
+    wolof-sunni: 1
 1875.1.1:
   owner: FRA
   controller: FRA
@@ -42,9 +40,6 @@
     FRA: no
     MAL: yes
     SENE: yes
-  pops:
-    - estate: peasant
-      size: 1000
 1960.8.20:
   owner: SENE
   controller: SENE

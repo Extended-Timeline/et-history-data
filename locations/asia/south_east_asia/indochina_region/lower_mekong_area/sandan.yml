@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/4827 - Kampom Pous Thom.txt
 2.1.1:
+  pops: 
+    khmer_culture-bimoism: 1
   owner: CAMB
   controller: CAMB
   cores:
     CAMB: yes
   resource: grain
-  pops:
-    - religion: bimoism
-      estate: peasant
-      size: 1000
 220.1.1:
   owner: FUNA
   controller: FUNA
@@ -16,9 +14,9 @@
     CAMB: no
     FUNA: yes
 300.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    khmer_culture-bimoism: 0
+    khmer_culture-hindu: 1
 550.1.1:
   owner: CHEN
   controller: CHEN
@@ -32,13 +30,13 @@
     CHEN: no
     CAMB: yes
 820.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    khmer_culture-hindu: 0
+    khmer_culture-mahayana: 1
 1295.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    khmer_culture-mahayana: 0
+    khmer_culture-theravada: 1
 1431.1.1:
   owner: KHM
   controller: KHM

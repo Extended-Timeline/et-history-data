@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/4379 - Midlands.txt
 2.1.1:
+  pops: 
+    irish-druidism: 1
   owner: CNN
   controller: CNN
   cores:
     CNN: yes
   resource: livestock
-  pops:
-    - religion: druidism
-      estate: peasant
-      size: 1000
 450.1.1:
   owner: MTH
   controller: MTH
@@ -22,13 +20,13 @@
     MTH: no
     FLY: yes
 700.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    irish-druidism: 0
+    irish-chalcedonism: 1
 867.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    irish-chalcedonism: 0
+    irish-catholic: 1
 897.1.1:
   owner: MTH
   controller: MTH

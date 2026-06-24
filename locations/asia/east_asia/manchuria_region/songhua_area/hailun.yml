@@ -1,9 +1,7 @@
 #imported from EU4 file: history/provinces/4200 - Hulan.txt
 2.1.1:
-  pops:
-    - religion: 
-      estate: peasant
-      size: 1000
+  pops: 
+    jurchen_culture-: 1
 410.1.1:
   owner: DUMA
   controller: DUMA
@@ -63,10 +61,8 @@
     MCH: no
     QNG: yes
 1880.1.1:
-  pops:
-    - religion: sanjiao
-      estate: peasant
-      size: 1000
+  pops: 
+    manchu_new-sanjiao: 1
 1912.2.12:
   owner: CHI
   controller: CHI

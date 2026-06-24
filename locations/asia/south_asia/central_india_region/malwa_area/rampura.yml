@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/518 - Chittor.txt
 2.1.1:
+  pops: 
+    marwari-hindu: 1
   owner: WSAT
   controller: WSAT
   cores:
     WSAT: yes
   resource: grain
-  pops:
-    - religion: hindu
-      estate: peasant
-      size: 1000
 405.1.1:
   owner: GUPT
   controller: GUPT

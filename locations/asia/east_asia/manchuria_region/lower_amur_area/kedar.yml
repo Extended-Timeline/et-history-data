@@ -1,9 +1,7 @@
 #imported from EU4 file: history/provinces/4214 - Kalar.txt
 2.1.1:
-  pops:
-    - religion: mari_paganism
-      estate: peasant
-      size: 1000
+  pops: 
+    nivkh_culture-mari_paganism: 1
 1206.1.1:
   owner: NVK
   controller: NVK
@@ -28,10 +26,9 @@
     QNG: no
     RUS: yes
 1880.1.1:
-  pops:
-    - religion: orthodox
-      estate: peasant
-      size: 1000
+  pops: 
+    nivkh_culture-mari_paganism: 0
+    muscovite-orthodox: 1
 1922.12.30:
   owner: SOVI
   controller: SOVI

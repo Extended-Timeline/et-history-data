@@ -1,18 +1,16 @@
 #imported from EU4 file: history/provinces/2463 - Kasdir.txt
 2.1.1:
+  pops: 
+    zenati-bantu_religion: 1
   owner: GAET
   controller: GAET
   cores:
     GAET: yes
   resource: livestock
-  pops:
-    - religion: bantu_religion
-      estate: peasant
-      size: 1000
 420.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    zenati-bantu_religion: 0
+    zenati-chalcedonism: 1
 429.1.1:
   owner: ALTA
   controller: ALTA
@@ -31,9 +29,9 @@
     UMAY: no
     MZB: yes
 777.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    zenati-chalcedonism: 0
+    zenati-ibadi: 1
 790.1.1:
   owner: MOR
   controller: MOR
@@ -63,10 +61,9 @@
 1147.4.1:
   controller: MOR
 1200.1.1:
-  pops:
-    - religion: sunni
-      estate: peasant
-      size: 1000
+  pops: 
+    zenati-ibadi: 0
+    algerian-sunni: 1
 1235.1.1:
   owner: TLE
   controller: TLE

@@ -1,40 +1,36 @@
 #imported from EU4 file: history/provinces/753 - Rio Grande.txt
 2.1.1:
-  pops:
-    - religion: muisca_religion
-      estate: peasant
-      size: 1000
+  pops: 
+    tupinamba_culture-muisca_religion: 1
 1501.5.10:
+  pops: 
+    tupinamba_culture-muisca_religion: 0
+    portuguese-catholic: 1
   owner: POR
   controller: POR
   cores:
     POR: yes
   resource: tropical_wood
-  pops:
-    - religion: catholic
-      estate: peasant
-      size: 1000
 1633.1.1:
+  pops: 
+    portuguese-catholic: 0
+    low_franconian-calvinist: 1
   owner: NED
   controller: NED
-  pops:
-    - religion: calvinist
-      estate: peasant
-      size: 1000
 1661.1.1:
+  pops: 
+    low_franconian-calvinist: 0
+    portuguese-calvinist: 1
   owner: POR
   controller: POR
-  pops:
-    - estate: peasant
-      size: 1000
 1700.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    portuguese-calvinist: 0
+    portuguese-catholic: 1
 1780.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    portuguese-catholic: 0
+    brazilian-catholic: 1
 1822.9.7:
   owner: BRAZ
   controller: BRAZ

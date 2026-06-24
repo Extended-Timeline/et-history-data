@@ -1,9 +1,7 @@
 #imported from EU4 file: history/provinces/2427 - Ostyaki.txt
 2.1.1:
-  pops:
-    - religion: mari_paganism
-      estate: peasant
-      size: 1000
+  pops: 
+    khanty_culture-mari_paganism: 1
 1468.1.1:
   owner: SIBI
   controller: SIBI
@@ -15,10 +13,9 @@
     SIBI: no
     RUS: yes
 1736.1.1:
-  pops:
-    - religion: orthodox
-      estate: peasant
-      size: 1000
+  pops: 
+    khanty_culture-mari_paganism: 0
+    muscovite-orthodox: 1
 1775.2.1:
   controller: RUS
 1922.12.30:

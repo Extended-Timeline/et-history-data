@@ -1,21 +1,18 @@
 #imported from EU4 file: history/provinces/930 - Yamasee.txt
 2.1.1:
+  pops: 
+    muscogee_culture-iroquoian_totemism: 1
   cores:
     ???: yes
   resource: cotton
-  pops:
-    - religion: iroquoian_totemism
-      estate: peasant
-      size: 1000
 1814.8.9:
+  pops: 
+    muscogee_culture-iroquoian_totemism: 0
+    british_louisianan-lutheran: 1
   owner: USA
   controller: USA
   cores:
     USA: yes
-  pops:
-    - religion: lutheran
-      estate: peasant
-      size: 1000
 1861.1.19:
   owner: CSAM
   controller: CSAM

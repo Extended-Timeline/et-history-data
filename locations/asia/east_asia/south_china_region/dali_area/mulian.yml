@@ -1,9 +1,7 @@
 #imported from EU4 file: history/provinces/660 - Xishuan Banna.txt
 2.1.1:
-  pops:
-    - religion: satsana_phi
-      estate: peasant
-      size: 1000
+  pops: 
+    khon_muang_culture-satsana_phi: 1
 620.1.1:
   owner: CHH
   controller: CHH
@@ -16,13 +14,13 @@
   cores:
     NANZ: yes
 880.1.1:
+  pops: 
+    khon_muang_culture-satsana_phi: 0
+    tai_lu_culture-satsana_phi: 1
   owner: CHH
   controller: CHH
   cores:
     CHH: yes
-  pops:
-    - estate: peasant
-      size: 1000
 1180.1.1:
   owner: HIRA
   controller: HIRA
@@ -35,9 +33,9 @@
     HIRA: no
     CHH: yes
 1240.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    tai_lu_culture-satsana_phi: 0
+    tai_lu_culture-theravada: 1
 1292.1.1:
   owner: MMA
   controller: MMA

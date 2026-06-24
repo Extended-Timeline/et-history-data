@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/2395 - Hkamti Long.txt
 2.1.1:
+  pops: 
+    kado_culture-bimoism: 1
   owner: PONG
   controller: PONG
   cores:
     PONG: yes
   resource: grain
-  pops:
-    - religion: bimoism
-      estate: peasant
-      size: 1000
 820.1.1:
   owner: NANZ
   controller: NANZ
@@ -43,9 +41,9 @@
   cores:
     BURM: yes
 1800.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    kado_culture-bimoism: 0
+    kado_culture-theravada: 1
 1885.11.29:
   owner: GBR
   controller: GBR

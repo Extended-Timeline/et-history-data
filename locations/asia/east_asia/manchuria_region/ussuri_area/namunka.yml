@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/2186 - Iman.txt
 2.1.1:
+  pops: 
+    jurchen_culture-: 1
   owner: YILO
   controller: YILO
   cores:
     YILO: yes
   resource: naval_supplies
-  pops:
-    - religion: 
-      estate: peasant
-      size: 1000
 500.1.1:
   owner: GOGU
   controller: GOGU
@@ -74,10 +72,8 @@
     RUS: no
     SOVI: yes
 1970.1.1:
-  pops:
-    - religion: orthodox
-      estate: peasant
-      size: 1000
+  pops: 
+    muscovite-orthodox: 1
 1991.12.25:
   owner: RUS
   controller: RUS

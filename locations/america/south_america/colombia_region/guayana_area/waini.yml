@@ -1,38 +1,35 @@
 #imported from EU4 file: history/provinces/743 - Essequibo.txt
 2.1.1:
+  pops: 
+    wayuu_culture-muisca_religion: 1
   owner: ARW
   controller: ARW
   cores:
     ARW: yes
   resource: sugar
-  pops:
-    - religion: muisca_religion
-      estate: peasant
-      size: 1000
 1616.1.1:
+  pops: 
+    wayuu_culture-muisca_religion: 0
+    low_franconian-calvinist: 1
   owner: NED
   controller: NED
-  pops:
-    - religion: calvinist
-      estate: peasant
-      size: 1000
 1641.1.1:
   cores:
     NED: yes
 1763.12.23:
   controller: NED
 1780.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    low_franconian-calvinist: 0
+    germanic_colombian-calvinist: 1
 1796.1.1:
+  pops: 
+    germanic_colombian-calvinist: 0
+    british_colombian-calvinist: 1
   owner: GBR
   controller: GBR
   cores:
     NED: no
-  pops:
-    - estate: peasant
-      size: 1000
 1821.1.1:
   cores:
     GBR: yes

@@ -1,16 +1,14 @@
 #imported from EU4 file: history/provinces/1235 - Guam.txt
 2.1.1:
-  pops:
-    - religion: bimoism
-      estate: peasant
-      size: 1000
+  pops: 
+    kajoor_ri_majel_culture-bimoism: 1
 1668.1.1:
+  pops: 
+    kajoor_ri_majel_culture-bimoism: 0
+    kajoor_ri_majel_culture-catholic: 1
   owner: SPA
   controller: SPA
   resource: fish
-  pops:
-    - estate: peasant
-      size: 1000
 1693.1.1:
   cores:
     SPA: yes

@@ -1,27 +1,25 @@
 #imported from EU4 file: history/provinces/2379 - Battambang.txt
 2.1.1:
+  pops: 
+    pear-bimoism: 1
   owner: PEAR
   controller: PEAR
   cores:
     PEAR: yes
   resource: fish
-  pops:
-    - religion: bimoism
-      estate: peasant
-      size: 1000
 68.1.1:
   owner: FUNA
   controller: FUNA
   cores:
     FUNA: yes
 450.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    pear-bimoism: 0
+    pear-mahayana: 1
 500.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    pear-mahayana: 0
+    khmer_culture-mahayana: 1
 550.1.1:
   owner: CHEN
   controller: CHEN
@@ -35,9 +33,9 @@
     CHEN: no
     CAMB: yes
 1295.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    khmer_culture-mahayana: 0
+    khmer_culture-theravada: 1
 1431.1.1:
   owner: KHM
   controller: KHM

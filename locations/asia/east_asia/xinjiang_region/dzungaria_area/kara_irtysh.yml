@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/4683 - Altay.txt
 2.1.1:
+  pops: 
+    oirat_culture-: 1
   owner: XION
   controller: XION
   cores:
     XION: yes
   resource: livestock
-  pops:
-    - religion: 
-      estate: peasant
-      size: 1000
 91.2.1:
   owner: XIAN
   controller: XIAN
@@ -39,13 +37,12 @@
     GOKT: no
     UYGH: yes
 765.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    oirat_culture-manichaeism: 1
 840.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    oirat_culture-manichaeism: 0
+    oirat_culture-: 1
 848.1.1:
   owner: NAIM
   controller: NAIM
@@ -83,27 +80,26 @@
     MGE: no
     OIR: yes
 1623.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    oirat_culture-tibetan_buddhism: 1
 1635.1.1:
   owner: ZUNG
   controller: ZUNG
   cores:
     ZUNG: yes
 1750.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    oirat_culture-tibetan_buddhism: 0
+    oirat_culture-sunni: 1
 1754.1.1:
   owner: QNG
   controller: QNG
   cores:
     QNG: yes
 1755.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    oirat_culture-sunni: 0
+    khazak-sunni: 1
 1850.1.1:
   cores:
     OIR: no

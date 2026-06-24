@@ -1,24 +1,21 @@
 #imported from EU4 file: history/provinces/2663 - Nicoya.txt
 2.1.1:
-  pops:
-    - religion: muisca_religion
-      estate: peasant
-      size: 1000
+  pops: 
+    muisca_culture-muisca_religion: 1
 1544.1.1:
+  pops: 
+    muisca_culture-muisca_religion: 0
+    castilian-catholic: 1
   owner: SPA
   controller: SPA
   resource: naval_supplies
-  pops:
-    - religion: catholic
-      estate: peasant
-      size: 1000
 1569.1.1:
   cores:
     SPA: yes
 1770.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    castilian-catholic: 0
+    mexican-catholic: 1
 1810.9.16:
   owner: MEX
   controller: SPA

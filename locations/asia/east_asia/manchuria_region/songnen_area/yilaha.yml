@@ -1,15 +1,13 @@
 #imported from EU4 file: history/provinces/725 - Cicigar.txt
 2.1.1:
+  pops: 
+    chahar-: 1
   owner: XION
   controller: XION
   cores:
     XION: yes
     XIAN: yes
   resource: naval_supplies
-  pops:
-    - religion: 
-      estate: peasant
-      size: 1000
 46.1.1:
   owner: XIAN
   controller: XIAN
@@ -69,9 +67,8 @@
     YUA: no
     KHRC: yes
 1520.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    chahar-tibetan_buddhism: 1
 1624.1.1:
   owner: MCH
   controller: MCH
@@ -85,9 +82,9 @@
     MGE: no
     QNG: yes
 1880.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    chahar-tibetan_buddhism: 0
+    manchu_new-tibetan_buddhism: 1
 1912.2.12:
   owner: CHI
   controller: CHI

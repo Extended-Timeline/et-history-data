@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/2036 - Baglana.txt
 2.1.1:
+  pops: 
+    saurashtri-jain: 1
   owner: WSAT
   controller: WSAT
   cores:
     WSAT: yes
   resource: grain
-  pops:
-    - religion: jain
-      estate: peasant
-      size: 1000
 260.1.1:
   owner: ABHI
   controller: ABHI
@@ -52,9 +50,9 @@
     CHAL: no
     BAGL: yes
 1250.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    saurashtri-jain: 0
+    saurashtri-hindu: 1
 1317.1.1:
   owner: DLH
   controller: DLH

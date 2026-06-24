@@ -1,23 +1,21 @@
 #imported from EU4 file: history/provinces/2188 - Alchuka.txt
 2.1.1:
+  pops: 
+    buyeo-muism: 1
   owner: BUYE
   controller: BUYE
   cores:
     BUYE: yes
   resource: grain
-  pops:
-    - religion: muism
-      estate: peasant
-      size: 1000
 410.1.1:
   owner: GOGU
   controller: GOGU
   cores:
     GOGU: yes
 420.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    buyeo-muism: 0
+    buyeo-mahayana: 1
 668.1.1:
   owner: SUMO
   controller: SUMO
@@ -43,10 +41,9 @@
     LIAO: no
     JIN0: yes
 1120.1.1:
-  pops:
-    - religion: 
-      estate: peasant
-      size: 1000
+  pops: 
+    buyeo-mahayana: 0
+    jurchen_culture-: 1
 1214.1.1:
   owner: MGE
   controller: MGE
@@ -71,14 +68,13 @@
   cores:
     JIAZ: yes
 1616.1.1:
+  pops: 
+    manchu_new-: 1
   owner: MCH
   controller: MCH
   cores:
     JIAZ: no
     MCH: yes
-  pops:
-    - estate: peasant
-      size: 1000
 1636.5.15:
   owner: QNG
   controller: QNG
@@ -86,9 +82,8 @@
     MCH: no
     QNG: yes
 1880.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    manchu_new-sanjiao: 1
 1912.2.12:
   owner: CHI
   controller: CHI

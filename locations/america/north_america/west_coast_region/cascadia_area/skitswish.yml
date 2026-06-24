@@ -1,16 +1,13 @@
 #imported from EU4 file: history/provinces/4940 - Schitsuumsh.txt
 2.1.1:
-  pops:
-    - religion: iroquoian_totemism
-      estate: peasant
-      size: 1000
+  pops: 
+    saleesh_culture-iroquoian_totemism: 1
 1855.1.1:
+  pops: 
+    saleesh_culture-iroquoian_totemism: 0
+    british_californian-lutheran: 1
   owner: USA
   controller: USA
   cores:
     USA: yes
   resource: fur
-  pops:
-    - religion: lutheran
-      estate: peasant
-      size: 1000

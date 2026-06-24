@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/4583 - Xocotla.txt
 2.1.1:
+  pops: 
+    nahua_culture-nahuatl: 1
   owner: CLL
   controller: CLL
   cores:
     CLL: yes
   resource: sugar
-  pops:
-    - religion: nahuatl
-      estate: peasant
-      size: 1000
 650.1.1:
   owner: XICA
   controller: XICA
@@ -32,13 +30,13 @@
     TLX: no
     SPA: yes
 1525.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    nahua_culture-nahuatl: 0
+    nahua_culture-catholic: 1
 1770.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    nahua_culture-catholic: 0
+    mexican-catholic: 1
 1810.9.16:
   owner: MEX
   controller: SPA

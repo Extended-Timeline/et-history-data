@@ -1,21 +1,19 @@
 #imported from EU4 file: history/provinces/2468 - Tadla.txt
 2.1.1:
+  pops: 
+    zenati-bantu_religion: 1
   owner: MOOR
   controller: MOOR
   cores:
     MOOR: yes
   resource: copper
-  pops:
-    - religion: bantu_religion
-      estate: peasant
-      size: 1000
 720.1.1:
   owner: UMAY
   controller: UMAY
 730.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    zenati-bantu_religion: 0
+    zenati-ibadi: 1
 743.1.1:
   owner: FEZ
   controller: FEZ
@@ -29,9 +27,9 @@
     FEZ: no
     MOR: yes
 790.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    zenati-ibadi: 0
+    zenati-shia: 1
 922.1.1:
   owner: FATI
   controller: FATI
@@ -51,9 +49,9 @@
     MOR: no
     CRDB: yes
 990.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    zenati-shia: 0
+    zenati-sunni: 1
 1031.1.1:
   owner: FEZ
   controller: FEZ
@@ -67,9 +65,9 @@
     FEZ: no
     MOR: yes
 1060.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    zenati-sunni: 0
+    moroccan-sunni: 1
 1472.1.1:
   owner: FEZ
   controller: FEZ

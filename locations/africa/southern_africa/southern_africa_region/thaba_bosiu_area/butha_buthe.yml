@@ -1,13 +1,11 @@
 #imported from EU4 file: history/provinces/3011 - Lesotho.txt
 2.1.1:
-  pops:
-    - religion: bantu_religion
-      estate: peasant
-      size: 1000
+  pops: 
+    xam_culture-bantu_religion: 1
 400.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    xam_culture-bantu_religion: 0
+    nguni_culture-bantu_religion: 1
 1822.1.1:
   owner: LESO
   controller: LESO
@@ -15,13 +13,13 @@
     LESO: yes
   resource: grain
 1868.1.1:
+  pops: 
+    nguni_culture-bantu_religion: 0
+    nguni_culture-lutheran: 1
   owner: GBR
   controller: GBR
   cores:
     GBR: yes
-  pops:
-    - estate: peasant
-      size: 1000
 1966.10.4:
   owner: LESO
   controller: LESO

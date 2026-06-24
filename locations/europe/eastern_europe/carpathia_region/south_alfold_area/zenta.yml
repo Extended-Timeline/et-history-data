@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/4126 - Bacs.txt
 2.1.1:
+  pops: 
+    sarmatian-: 1
   owner: IAZY
   controller: IAZY
   cores:
     IAZY: yes
   resource: livestock
-  pops:
-    - religion: 
-      estate: peasant
-      size: 1000
 300.1.1:
   owner: RUGI
   controller: RUGI
@@ -22,35 +20,33 @@
     RUGI: no
     HUNS: yes
 420.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    sarmatian-arianism: 1
 469.1.1:
+  pops: 
+    sarmatian-arianism: 0
+    gepid-arianism: 1
   owner: GEPI
   controller: GEPI
   cores:
     HUNS: no
     GEPI: yes
-  pops:
-    - estate: peasant
-      size: 1000
 567.1.1:
+  pops: 
+    gepid-arianism: 0
+    avar_culture-arianism: 1
   owner: AVR
   controller: AVR
   cores:
     GEPI: no
     AVR: yes
-  pops:
-    - estate: peasant
-      size: 1000
 570.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    avar_culture-arianism: 0
+    avar_culture-: 1
 620.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    serbian-: 1
 804.1.1:
   owner: BUL
   controller: BUL
@@ -58,9 +54,8 @@
     AVR: no
     BUL: yes
 867.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    serbian-orthodox: 1
 897.1.1:
   owner: HUN
   controller: HUN
@@ -68,9 +63,9 @@
     BUL: no
     HUN: yes
 1200.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    serbian-orthodox: 0
+    hungarian-orthodox: 1
 1514.6.1:
   controller: HUN
 1526.8.30:
@@ -89,9 +84,9 @@
   cores:
     HAB: no
 1567.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    hungarian-orthodox: 0
+    hungarian-calvinist: 1
 1598.1.1:
   controller: TUR
 1718.1.1:
@@ -105,9 +100,9 @@
 1770.1.1:
   controller: HAB
 1800.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    hungarian-calvinist: 0
+    hungarian-catholic: 1
 1918.12.1:
   owner: YUGO
   controller: YUGO
@@ -128,9 +123,9 @@
   owner: YUGO
   controller: YUGO
 1950.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    hungarian-catholic: 0
+    serbian-catholic: 1
 2006.6.5:
   owner: SER
   controller: SER

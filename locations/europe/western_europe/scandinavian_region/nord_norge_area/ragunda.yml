@@ -1,9 +1,7 @@
 #imported from EU4 file: history/provinces/10 - Jamtland.txt
 2.1.1:
-  pops:
-    - religion: norse
-      estate: peasant
-      size: 1000
+  pops: 
+    norwegian-norse: 1
 750.1.1:
   owner: JAMT
   controller: JAMT
@@ -11,19 +9,19 @@
     JAMT: yes
   resource: fur
 1178.1.1:
+  pops: 
+    norwegian-norse: 0
+    norwegian-catholic: 1
   owner: NOR
   controller: NOR
   cores:
     JAMT: no
     NOR: yes
     SWE: yes
-  pops:
-    - estate: peasant
-      size: 1000
 1527.6.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    norwegian-catholic: 0
+    norwegian-lutheran: 1
 1536.1.1:
   owner: DAN
   controller: DAN
@@ -49,9 +47,9 @@
 1658.2.26:
   controller: SWE
 1690.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    norwegian-lutheran: 0
+    swedish-lutheran: 1
 1850.1.1:
   cores:
     DAN: no

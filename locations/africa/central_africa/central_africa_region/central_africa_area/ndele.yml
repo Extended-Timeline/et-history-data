@@ -1,18 +1,16 @@
 #imported from EU4 file: history/provinces/3231 - Vakaga.txt
 2.1.1:
-  pops:
-    - religion: bantu_religion
-      estate: peasant
-      size: 1000
+  pops: 
+    maba_africa_culture-bantu_religion: 1
 1830.1.1:
+  pops: 
+    maba_africa_culture-bantu_religion: 0
+    maba_africa_culture-sunni: 1
   owner: WAD
   controller: WAD
   cores:
     WAD: yes
   resource: slaves
-  pops:
-    - estate: peasant
-      size: 1000
 1912.1.1:
   owner: FRA
   controller: FRA

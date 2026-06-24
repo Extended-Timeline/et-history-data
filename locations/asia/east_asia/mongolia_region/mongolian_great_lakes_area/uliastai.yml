@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/4680 - Zakhchin.txt
 2.1.1:
+  pops: 
+    rouran-: 1
   owner: XION
   controller: XION
   cores:
     XION: yes
   resource: livestock
-  pops:
-    - religion: 
-      estate: peasant
-      size: 1000
 91.2.1:
   owner: XIAN
   controller: XIAN
@@ -22,14 +20,13 @@
     XIAN: no
     ROUR: yes
 460.1.1:
+  pops: 
+    tuvan_culture-: 1
   owner: GOKT
   controller: GOKT
   cores:
     ROUR: no
     GOKT: yes
-  pops:
-    - estate: peasant
-      size: 1000
 627.1.1:
   owner: XUEY
   controller: XUEY
@@ -53,13 +50,11 @@
     GOKT: no
     UYGH: yes
 750.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    oirat_culture-: 1
 765.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    oirat_culture-manichaeism: 1
 848.1.1:
   owner: NAIM
   controller: NAIM
@@ -67,9 +62,9 @@
     UYGH: no
     NAIM: yes
 850.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    oirat_culture-manichaeism: 0
+    oirat_culture-nestorianism: 1
 1204.1.1:
   owner: KHMO
   controller: KHMO
@@ -83,9 +78,9 @@
     KHMO: no
     MGE: yes
 1220.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    oirat_culture-nestorianism: 0
+    oirat_culture-: 1
 1271.1.1:
   owner: YUA
   controller: YUA
@@ -105,9 +100,8 @@
     MGE: no
     OIR: yes
 1500.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    oirat_culture-tibetan_buddhism: 1
 1552.1.1:
   owner: MGE
   controller: MGE

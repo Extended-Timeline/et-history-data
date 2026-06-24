@@ -1,13 +1,11 @@
 #imported from EU4 file: history/provinces/621 - Benkulen.txt
 2.1.1:
-  pops:
-    - religion: bimoism
-      estate: peasant
-      size: 1000
+  pops: 
+    minangkabau_culture-bimoism: 1
 800.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    minangkabau_culture-bimoism: 0
+    minangkabau_culture-mahayana: 1
 1550.1.1:
   owner: BAN
   controller: BAN
@@ -33,9 +31,9 @@
     GBR: no
     NED: yes
 1840.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    minangkabau_culture-mahayana: 0
+    minangkabau_culture-sunni: 1
 1912.9.10:
   cores:
     ATJ: no

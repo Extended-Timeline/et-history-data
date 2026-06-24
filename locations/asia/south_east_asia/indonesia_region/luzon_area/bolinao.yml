@@ -1,9 +1,7 @@
 #imported from EU4 file: history/provinces/2698 - Pangasinan.txt
 2.1.1:
-  pops:
-    - religion: bimoism
-      estate: peasant
-      size: 1000
+  pops: 
+    ilocano_culture-bimoism: 1
 1406.1.1:
   owner: PANG
   controller: PANG
@@ -16,9 +14,9 @@
   cores:
     SPA: yes
 1600.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    ilocano_culture-bimoism: 0
+    ilocano_culture-catholic: 1
 1762.10.6:
   controller: GBR
 1763.2.10:

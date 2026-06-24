@@ -1,25 +1,23 @@
 #imported from EU4 file: history/provinces/4299 - Shamakhi.txt
 2.1.1:
+  pops: 
+    aghwan-zoroastrian: 1
   owner: CALB
   controller: CALB
   cores:
     CALB: yes
   resource: wool
-  pops:
-    - religion: zoroastrian
-      estate: peasant
-      size: 1000
 253.1.1:
   cores:
     ERA: yes
 460.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    aghwan-zoroastrian: 0
+    aghwan-chalcedonism: 1
 506.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    aghwan-chalcedonism: 0
+    aghwan-miaphysite: 1
 822.1.1:
   owner: ABBA
   controller: ABBA
@@ -32,13 +30,13 @@
     ABBA: no
     SRV: yes
 880.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    aghwan-miaphysite: 0
+    aghwan-shia: 1
 1100.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    aghwan-shia: 0
+    azeri_culture-shia: 1
 1236.1.1:
   owner: MGE
   controller: MGE

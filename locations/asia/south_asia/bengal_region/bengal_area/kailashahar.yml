@@ -1,18 +1,16 @@
 #imported from EU4 file: history/provinces/2091 - Tripura.txt
 2.1.1:
+  pops: 
+    dimasa_culture-hindu: 1
   owner: TRPR
   controller: TRPR
   cores:
     TRPR: yes
   resource: tropical_wood
-  pops:
-    - religion: hindu
-      estate: peasant
-      size: 1000
 1800.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    dimasa_culture-hindu: 0
+    bengali-hindu: 1
 1930.1.1:
   cores:
     INDI: yes

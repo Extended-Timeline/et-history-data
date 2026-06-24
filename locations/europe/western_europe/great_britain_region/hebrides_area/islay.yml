@@ -1,32 +1,30 @@
 #imported from EU4 file: history/provinces/4364 - Inner Hebrides.txt
 2.1.1:
+  pops: 
+    pictish-druidism: 1
   owner: CALD
   controller: CALD
   cores:
     CALD: yes
   resource: grain
-  pops:
-    - religion: druidism
-      estate: peasant
-      size: 1000
 250.1.1:
   owner: PICT
   controller: PICT
   cores:
     PICT: yes
 450.1.1:
+  pops: 
+    pictish-druidism: 0
+    highland-druidism: 1
   owner: DALR
   controller: DALR
   cores:
     PICT: no
     DALR: yes
-  pops:
-    - estate: peasant
-      size: 1000
 600.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    highland-druidism: 0
+    highland-chalcedonism: 1
 736.1.1:
   owner: PICT
   controller: PICT
@@ -44,13 +42,13 @@
     SCO: no
     LOI: yes
 850.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    highland-chalcedonism: 0
+    highland-norse: 1
 920.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    highland-norse: 0
+    highland-catholic: 1
 1005.1.1:
   owner: NOR
   controller: NOR
@@ -65,9 +63,9 @@
   owner: SCO
   controller: SCO
 1560.8.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    highland-catholic: 0
+    highland-calvinist: 1
 1707.5.12:
   owner: GBR
   controller: GBR

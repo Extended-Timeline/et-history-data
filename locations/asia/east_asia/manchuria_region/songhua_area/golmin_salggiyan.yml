@@ -1,18 +1,16 @@
 #imported from EU4 file: history/provinces/4201 - Jiangzhou.txt
 2.1.1:
+  pops: 
+    korean_culture-muism: 1
   owner: GOGU
   controller: GOGU
   cores:
     GOGU: yes
   resource: fur
-  pops:
-    - religion: muism
-      estate: peasant
-      size: 1000
 372.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    korean_culture-muism: 0
+    korean_culture-mahayana: 1
 698.1.1:
   owner: BALH
   controller: BALH
@@ -37,9 +35,9 @@
     JEON: no
     LIAO: yes
 1040.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    korean_culture-mahayana: 0
+    jurchen_culture-mahayana: 1
 1115.1.1:
   owner: JIN0
   controller: JIN0
@@ -47,9 +45,9 @@
     LIAO: no
     JIN0: yes
 1120.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    jurchen_culture-mahayana: 0
+    jurchen_culture-sanjiao: 1
 1214.1.1:
   owner: MGE
   controller: MGE
@@ -69,14 +67,14 @@
     YUA: no
     JIAZ: yes
 1616.1.1:
+  pops: 
+    jurchen_culture-sanjiao: 0
+    manchu_new-sanjiao: 1
   owner: MCH
   controller: MCH
   cores:
     JIAZ: no
     MCH: yes
-  pops:
-    - estate: peasant
-      size: 1000
 1636.5.15:
   owner: QNG
   controller: QNG

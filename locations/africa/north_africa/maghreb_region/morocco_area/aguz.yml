@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/345 - Safi.txt
 2.1.1:
+  pops: 
+    masmuda-bantu_religion: 1
   owner: MOOR
   controller: MOOR
   cores:
     MOOR: yes
   resource: sugar
-  pops:
-    - religion: bantu_religion
-      estate: peasant
-      size: 1000
 720.1.1:
   owner: UMAY
   controller: UMAY
@@ -27,10 +25,9 @@
     BARG: no
     MOR: yes
 1080.1.1:
-  pops:
-    - religion: sunni
-      estate: peasant
-      size: 1000
+  pops: 
+    masmuda-bantu_religion: 0
+    moroccan-sunni: 1
 1374.1.1:
   owner: MRK
   controller: MRK

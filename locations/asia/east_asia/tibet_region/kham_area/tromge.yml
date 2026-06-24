@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/2133 - Dege.txt
 2.1.1:
+  pops: 
+    khampa_culture-bon: 1
   owner: DRG
   controller: DRG
   cores:
     DRG: yes
   resource: wool
-  pops:
-    - religion: bon
-      estate: peasant
-      size: 1000
 618.1.1:
   owner: TIB
   controller: TIB
@@ -16,9 +14,9 @@
     DRG: no
     TIB: yes
 630.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    khampa_culture-bon: 0
+    khampa_culture-tibetan_buddhism: 1
 842.1.1:
   owner: PHAG
   controller: PHAG

@@ -1,9 +1,7 @@
 #imported from EU4 file: history/provinces/1153 - Pindinga.txt
 2.1.1:
-  pops:
-    - religion: bantu_religion
-      estate: peasant
-      size: 1000
+  pops: 
+    nupe-bantu_religion: 1
 1300.1.1:
   owner: NUP
   controller: NUP
@@ -21,9 +19,9 @@
   cores:
     GBR: yes
 1910.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    nupe-bantu_religion: 0
+    nupe-lutheran: 1
 1960.10.1:
   owner: NIGR
   controller: NIGR

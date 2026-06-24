@@ -1,9 +1,7 @@
 #imported from EU4 file: history/provinces/18 - Lappland.txt
 2.1.1:
-  pops:
-    - religion: muinaisusko
-      estate: peasant
-      size: 1000
+  pops: 
+    sapmi-muinaisusko: 1
 750.1.1:
   owner: SMI
   controller: SMI
@@ -11,17 +9,16 @@
     SMI: yes
   resource: fur
 1607.1.1:
+  pops: 
+    sapmi-muinaisusko: 0
+    sapmi-catholic: 1
   owner: SWE
   controller: SWE
   cores:
     SWE: yes
-  pops:
-    - estate: peasant
-      size: 1000
 1640.1.2:
-  pops:
-    - religion: lutheran
-      estate: peasant
-      size: 1000
+  pops: 
+    sapmi-catholic: 0
+    swedish-lutheran: 1
 1920.1.1:
   resource: paper

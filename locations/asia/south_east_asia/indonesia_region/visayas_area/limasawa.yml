@@ -1,18 +1,16 @@
 #imported from EU4 file: history/provinces/4353 - Leyte.txt
 2.1.1:
-  pops:
-    - religion: bimoism
-      estate: peasant
-      size: 1000
+  pops: 
+    cebuano_culture-bimoism: 1
 1595.1.1:
+  pops: 
+    cebuano_culture-bimoism: 0
+    cebuano_culture-catholic: 1
   owner: SPA
   controller: SPA
   cores:
     SPA: yes
   resource: tropical_wood
-  pops:
-    - estate: peasant
-      size: 1000
 1872.1.1:
   cores:
     PHIL: yes

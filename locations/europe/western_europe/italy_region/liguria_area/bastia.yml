@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/1247 - Corsica.txt
 2.1.1:
+  pops: 
+    etruscan-bimoism: 1
   owner: ROM
   controller: ROM
   cores:
     ROM: yes
   resource: naval_supplies
-  pops:
-    - religion: bimoism
-      estate: peasant
-      size: 1000
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -16,9 +14,9 @@
     ROM: no
     ROMW: yes
 410.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    etruscan-bimoism: 0
+    tuscan-bimoism: 1
 476.9.4:
   owner: VAND
   controller: VAND
@@ -40,9 +38,9 @@
     OSTR: no
     BYZ: yes
 580.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    tuscan-bimoism: 0
+    tuscan-chalcedonism: 1
 725.1.1:
   owner: LOMB
   controller: LOMB
@@ -68,9 +66,9 @@
     LOMB: no
     ITA: yes
 867.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    tuscan-chalcedonism: 0
+    tuscan-catholic: 1
 962.2.2:
   owner: COR
   controller: COR

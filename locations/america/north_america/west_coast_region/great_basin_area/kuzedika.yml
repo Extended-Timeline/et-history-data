@@ -1,19 +1,16 @@
 #imported from EU4 file: history/provinces/4636 - Choinumni.txt
 2.1.1:
+  pops: 
+    south_valley_yokut_culture-iroquoian_totemism: 1
   cores:
     ???: yes
   resource: grain
-  pops:
-    - religion: iroquoian_totemism
-      estate: peasant
-      size: 1000
 1848.2.2:
+  pops: 
+    south_valley_yokut_culture-iroquoian_totemism: 0
+    british_californian-lutheran: 1
   owner: USA
   controller: USA
   cores:
     USA: yes
   resource: gold
-  pops:
-    - religion: lutheran
-      estate: peasant
-      size: 1000

@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/2303 - Malatya.txt
 2.1.1:
+  pops: 
+    armenian_culture-hellenism_religion: 1
   owner: COMM
   controller: COMM
   cores:
     COMM: yes
   resource: cloth
-  pops:
-    - religion: hellenism_religion
-      estate: peasant
-      size: 1000
 17.1.1:
   owner: ROM
   controller: ROM
@@ -32,9 +30,9 @@
   cores:
     PALM: no
 310.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    armenian_culture-hellenism_religion: 0
+    armenian_culture-chalcedonism: 1
 395.1.17:
   owner: BYZ
   controller: BYZ
@@ -42,9 +40,9 @@
     ROM: no
     BYZ: yes
 500.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    armenian_culture-chalcedonism: 0
+    greek_culture-chalcedonism: 1
 615.1.1:
   controller: ERA
 626.1.1:
@@ -67,9 +65,9 @@
     UMAY: no
     ABBA: yes
 867.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    greek_culture-chalcedonism: 0
+    greek_culture-orthodox: 1
 911.1.1:
   owner: MOSU
   controller: MOSU
@@ -104,10 +102,9 @@
     BYZ: no
     DANI: yes
 1120.1.1:
-  pops:
-    - religion: sunni
-      estate: peasant
-      size: 1000
+  pops: 
+    greek_culture-orthodox: 0
+    turkish_culture-sunni: 1
 1149.1.1:
   owner: RUM
   controller: RUM

@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/355 - Sirt.txt
 2.1.1:
+  pops: 
+    eastern_amazigh-bantu_religion: 1
   owner: ROM
   controller: ROM
   cores:
     ROM: yes
   resource: fish
-  pops:
-    - religion: bantu_religion
-      estate: peasant
-      size: 1000
 350.1.1:
   owner: LAGU
   controller: LAGU
@@ -33,10 +31,9 @@
     RASH: no
     UMAY: yes
 720.1.1:
-  pops:
-    - religion: sunni
-      estate: peasant
-      size: 1000
+  pops: 
+    eastern_amazigh-bantu_religion: 0
+    tunisian-sunni: 1
 745.1.1:
   owner: TUN
   controller: TUN

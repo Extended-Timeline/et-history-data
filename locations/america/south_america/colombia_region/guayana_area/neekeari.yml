@@ -1,31 +1,27 @@
 #imported from EU4 file: history/provinces/745 - Paramaribo.txt
 2.1.1:
-  pops:
-    - religion: muisca_religion
-      estate: peasant
-      size: 1000
+  pops: 
+    wayuu_culture-muisca_religion: 1
 1593.1.1:
+  pops: 
+    wayuu_culture-muisca_religion: 0
+    castilian-catholic: 1
   owner: SPA
   controller: SPA
   resource: sugar
-  pops:
-    - religion: catholic
-      estate: peasant
-      size: 1000
 1616.1.1:
+  pops: 
+    castilian-catholic: 0
+    low_franconian-calvinist: 1
   owner: NED
   controller: NED
-  pops:
-    - religion: calvinist
-      estate: peasant
-      size: 1000
 1641.1.1:
   cores:
     NED: yes
 1780.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    low_franconian-calvinist: 0
+    germanic_colombian-calvinist: 1
 1799.8.1:
   controller: GBR
 1801.2.9:

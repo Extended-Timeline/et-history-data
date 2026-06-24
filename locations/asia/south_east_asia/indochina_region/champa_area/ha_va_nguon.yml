@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/607 - Vijaya.txt
 2.1.1:
+  pops: 
+    cham_culture-hindu: 1
   owner: HUYN
   controller: HUYN
   cores:
     HUYN: yes
   resource: tropical_wood
-  pops:
-    - religion: hindu
-      estate: peasant
-      size: 1000
 192.1.1:
   owner: CHA
   controller: CHA
@@ -32,10 +30,9 @@
     TONK: no
     ANNA: yes
 1600.1.1:
-  pops:
-    - religion: mahayana
-      estate: peasant
-      size: 1000
+  pops: 
+    cham_culture-hindu: 0
+    vietnamese_culture-mahayana: 1
 1776.1.1:
   owner: DAI
   controller: DAI

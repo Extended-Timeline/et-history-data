@@ -1,32 +1,29 @@
 #imported from EU4 file: history/provinces/2014 - Natchitoches.txt
 2.1.1:
+  pops: 
+    caddo_culture-iroquoian_totemism: 1
   owner: NST
   controller: NST
   cores:
     NST: yes
-  pops:
-    - religion: iroquoian_totemism
-      estate: peasant
-      size: 1000
 1714.1.1:
+  pops: 
+    caddo_culture-iroquoian_totemism: 0
+    french-catholic: 1
   owner: FRA
   controller: FRA
   cores:
     FRA: yes
   resource: cotton
-  pops:
-    - religion: catholic
-      estate: peasant
-      size: 1000
 1762.1.1:
   owner: SPA
   controller: SPA
   cores:
     FRA: no
 1770.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    french-catholic: 0
+    french_louisianan-catholic: 1
 1787.1.1:
   cores:
     SPA: yes
@@ -43,13 +40,13 @@
     FRA: no
     USA: yes
 1830.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    french_louisianan-catholic: 0
+    british_louisianan-catholic: 1
 1840.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    british_louisianan-catholic: 0
+    british_louisianan-lutheran: 1
 1861.1.26:
   owner: LOUI
   controller: LOUI

@@ -1,23 +1,21 @@
 #imported from EU4 file: history/provinces/337 - Oran.txt
 2.1.1:
+  pops: 
+    zenati-bantu_religion: 1
   owner: MAUT
   controller: MAUT
   cores:
     MAUT: yes
   resource: cloth
-  pops:
-    - religion: bantu_religion
-      estate: peasant
-      size: 1000
 40.1.1:
   owner: ROM
   controller: ROM
   cores:
     ROM: yes
 360.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    zenati-bantu_religion: 0
+    zenati-chalcedonism: 1
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -42,13 +40,13 @@
   cores:
     UMAY: yes
 725.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    zenati-chalcedonism: 0
+    zenati-sunni: 1
 739.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    zenati-sunni: 0
+    zenati-ibadi: 1
 743.1.1:
   owner: TLE
   controller: TLE
@@ -61,13 +59,10 @@
   cores:
     TLE: no
     MZB: yes
-  pops:
-    - estate: peasant
-      size: 1000
 790.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    zenati-ibadi: 0
+    algerian-ibadi: 1
 909.1.1:
   owner: FATI
   controller: FATI
@@ -75,9 +70,9 @@
     MZB: no
     FATI: yes
 920.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    algerian-ibadi: 0
+    algerian-shia: 1
 973.1.1:
   owner: TUN
   controller: TUN
@@ -91,9 +86,9 @@
     TUN: no
     KABY: yes
 1060.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    algerian-shia: 0
+    algerian-sunni: 1
 1070.1.1:
   owner: MOR
   controller: MOR

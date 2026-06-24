@@ -1,17 +1,14 @@
 #imported from EU4 file: history/provinces/766 - Sao Vicente.txt
 2.1.1:
-  pops:
-    - religion: muisca_religion
-      estate: peasant
-      size: 1000
+  pops: 
+    tupinamba_culture-muisca_religion: 1
 1532.1.1:
+  pops: 
+    tupinamba_culture-muisca_religion: 0
+    portuguese-catholic: 1
   owner: POR
   controller: POR
   resource: slaves
-  pops:
-    - religion: catholic
-      estate: peasant
-      size: 1000
 1557.1.1:
   cores:
     POR: yes
@@ -19,9 +16,9 @@
   cores:
     POR: yes
 1780.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    portuguese-catholic: 0
+    brazilian-catholic: 1
 1822.9.7:
   owner: BRAZ
   controller: BRAZ

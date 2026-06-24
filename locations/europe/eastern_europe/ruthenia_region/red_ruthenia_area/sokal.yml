@@ -1,43 +1,39 @@
 #imported from EU4 file: history/provinces/1940 - Belz.txt
 2.1.1:
+  pops: 
+    lesser_polish-slavic: 1
   owner: VEND
   controller: VEND
   cores:
     VEND: yes
   resource: livestock
-  pops:
-    - religion: slavic_polytheism
-      estate: peasant
-      size: 1000
 150.1.1:
+  pops: 
+    lesser_polish-slavic: 0
+    gothic-germanic: 1
   owner: GOTH
   controller: GOTH
   cores:
     VEND: no
     GOTH: yes
-  pops:
-    - religion: germanic_polytheism
-      estate: peasant
-      size: 1000
 220.1.1:
+  pops: 
+    gothic-germanic: 0
+    lesser_polish-slavic: 1
   owner: VEND
   controller: VEND
   cores:
     GOTH: no
     VEND: yes
-  pops:
-    - religion: slavic_polytheism
-      estate: peasant
-      size: 1000
 550.1.1:
+  pops: 
+    lesser_polish-slavic: 0
+    ruthenian-slavic: 1
   owner: LEDN
   controller: LEDN
   cores:
     VEND: no
     LEDN: yes
-  pops:
-    - estate: peasant
-      size: 1000
 981.1.1:
   owner: KIEV
   controller: KIEV
@@ -46,9 +42,9 @@
     KIEV: yes
     UKR: yes
 988.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    ruthenian-slavic: 0
+    ruthenian-orthodox: 1
 1018.7.1:
   owner: POL
   controller: POL
@@ -117,9 +113,9 @@
     PLC: yes
     POL: no
 1570.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    ruthenian-orthodox: 0
+    ruthenian-catholic: 1
 1589.1.1:
   controller: PLC
 1735.1.1:

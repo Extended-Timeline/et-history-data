@@ -1,33 +1,30 @@
 #imported from EU4 file: history/provinces/4897 - Keinouche.txt
 2.1.1:
-  pops:
-    - religion: iroquoian_totemism
-      estate: peasant
-      size: 1000
+  pops: 
+    weskarini_culture-iroquoian_totemism: 1
 1666.1.1:
+  pops: 
+    weskarini_culture-iroquoian_totemism: 0
+    french-catholic: 1
   owner: FRA
   controller: FRA
   cores:
     FRA: yes
   resource: fur
-  pops:
-    - religion: catholic
-      estate: peasant
-      size: 1000
 1760.1.1:
   controller: GBR
 1763.2.10:
+  pops: 
+    french-catholic: 0
+    english-catholic: 1
   owner: GBR
   cores:
     FRA: no
     GBR: yes
-  pops:
-    - estate: peasant
-      size: 1000
 1790.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    english-catholic: 0
+    british_canadian-catholic: 1
 1867.7.1:
   owner: CAN
   controller: CAN

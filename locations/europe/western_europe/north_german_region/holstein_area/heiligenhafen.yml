@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/1775 - Holstein.txt
 2.1.1:
+  pops: 
+    lower_saxon-germanic: 1
   owner: ANGL
   controller: ANGL
   cores:
     ANGL: yes
   resource: livestock
-  pops:
-    - religion: germanic_polytheism
-      estate: peasant
-      size: 1000
 700.1.1:
   owner: SAX
   controller: SAX
@@ -21,9 +19,9 @@
   cores:
     OBOT: yes
 900.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    lower_saxon-germanic: 0
+    lower_saxon-catholic: 1
 911.11.10:
   owner: SAX
   controller: SAX
@@ -52,9 +50,9 @@
   cores:
     DAN: yes
 1529.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    lower_saxon-catholic: 0
+    lower_saxon-lutheran: 1
 1544.1.1:
   owner: HOLS
   controller: HOLS

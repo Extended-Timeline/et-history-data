@@ -1,15 +1,13 @@
 #imported from EU4 file: history/provinces/1802 - Northern Amazonas.txt
 2.1.1:
-  pops:
-    - religion: muisca_religion
-      estate: peasant
-      size: 1000
+  pops: 
+    tupinamba_culture-muisca_religion: 1
 1850.1.1:
+  pops: 
+    tupinamba_culture-muisca_religion: 0
+    tupinamba_culture-catholic: 1
   owner: BRAZ
   controller: BRAZ
   cores:
     BRAZ: yes
   resource: fish
-  pops:
-    - estate: peasant
-      size: 1000

@@ -1,9 +1,7 @@
 #imported from EU4 file: history/provinces/2948 - Matamba.txt
 2.1.1:
-  pops:
-    - religion: bantu_religion
-      estate: peasant
-      size: 1000
+  pops: 
+    ambundu-bantu_religion: 1
 1350.1.1:
   owner: NDON
   controller: NDON
@@ -21,9 +19,9 @@
   cores:
     POR: yes
 1870.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    ambundu-bantu_religion: 0
+    ambundu-catholic: 1
 1900.1.1:
   resource: grain
 1975.11.11:

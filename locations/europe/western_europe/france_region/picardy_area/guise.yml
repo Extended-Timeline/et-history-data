@@ -1,31 +1,29 @@
 #imported from EU4 file: history/provinces/1743 - Cambray.txt
 2.1.1:
+  pops: 
+    belgae-germanic: 1
   owner: ROM
   controller: ROM
   cores:
     ROM: yes
   resource: grain
-  pops:
-    - religion: germanic_polytheism
-      estate: peasant
-      size: 1000
 260.1.1:
+  pops: 
+    belgae-germanic: 0
+    gallian-germanic: 1
   cores:
     GALL: yes
-  pops:
-    - estate: peasant
-      size: 1000
 274.1.1:
+  pops: 
+    gallian-germanic: 0
+    belgae-germanic: 1
   controller: ROM
   cores:
     GALL: no
-  pops:
-    - estate: peasant
-      size: 1000
 360.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    belgae-germanic: 0
+    belgae-chalcedonism: 1
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -33,14 +31,14 @@
     ROM: no
     ROMW: yes
 456.1.1:
+  pops: 
+    belgae-chalcedonism: 0
+    walloon-chalcedonism: 1
   owner: FRAN
   controller: FRAN
   cores:
     ROMW: no
     FRAN: yes
-  pops:
-    - estate: peasant
-      size: 1000
 511.11.27:
   owner: SOIS
   controller: SOIS
@@ -79,9 +77,9 @@
     FRAN: no
     WFRA: yes
 867.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    walloon-chalcedonism: 0
+    walloon-catholic: 1
 925.1.1:
   owner: LOT
   controller: LOT
@@ -124,9 +122,9 @@
     SPA: no
     FRA: yes
 1684.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    walloon-catholic: 0
+    french-catholic: 1
 1870.9.4:
   owner: FRA
   controller: PRU

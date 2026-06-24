@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/4839 - Champasak.txt
 2.1.1:
+  pops: 
+    bru_culture-bimoism: 1
   owner: KUY
   controller: KUY
   cores:
     KUY: yes
   resource: tea
-  pops:
-    - religion: bimoism
-      estate: peasant
-      size: 1000
 450.1.1:
   owner: CHEN
   controller: CHEN
@@ -28,10 +26,9 @@
     LCHE: no
     CAMB: yes
 1150.1.1:
-  pops:
-    - religion: satsana_phi
-      estate: peasant
-      size: 1000
+  pops: 
+    bru_culture-bimoism: 0
+    lao_culture-satsana_phi: 1
 1354.1.1:
   owner: LAXA
   controller: LAXA
@@ -42,9 +39,9 @@
   cores:
     DAI: yes
 1650.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    lao_culture-satsana_phi: 0
+    lao_culture-theravada: 1
 1707.1.1:
   owner: VTN
   controller: VTN

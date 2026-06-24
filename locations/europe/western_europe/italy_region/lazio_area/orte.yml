@@ -1,18 +1,16 @@
 #imported from EU4 file: history/provinces/118 - Roma.txt
 2.1.1:
+  pops: 
+    roman-hellenism_religion: 1
   owner: ROM
   controller: ROM
   cores:
     ROM: yes
   resource: paper
-  pops:
-    - religion: hellenism_religion
-      estate: peasant
-      size: 1000
 280.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    roman-hellenism_religion: 0
+    roman-chalcedonism: 1
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -29,9 +27,9 @@
   cores:
     ROMW: no
 480.8.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    roman-chalcedonism: 0
+    median-chalcedonism: 1
 488.6.1:
   owner: OSTR
   controller: OSTR
@@ -58,9 +56,9 @@
     BYZ: no
     PAP: yes
 867.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    median-chalcedonism: 0
+    median-catholic: 1
 1347.12.15:
   controller: PAP
 1354.10.8:

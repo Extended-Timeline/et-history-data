@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/4488 - Champaran.txt
 2.1.1:
+  pops: 
+    magahi-mahayana: 1
   owner: VAJJ
   controller: VAJJ
   cores:
     VAJJ: yes
   resource: grain
-  pops:
-    - religion: mahayana
-      estate: peasant
-      size: 1000
 120.1.1:
   owner: KUSH
   controller: KUSH
@@ -57,9 +55,9 @@
     PALA: no
     TIRH: yes
 1250.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    magahi-mahayana: 0
+    magahi-hindu: 1
 1497.1.1:
   controller: DLH
 1498.1.1:

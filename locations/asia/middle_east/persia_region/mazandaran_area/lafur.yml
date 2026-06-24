@@ -1,15 +1,13 @@
 #imported from EU4 file: history/provinces/4341 - Sari.txt
 2.1.1:
+  pops: 
+    mazanderani_culture-zoroastrian: 1
   owner: PART
   controller: PART
   cores:
     PART: yes
     HYRC: yes
   resource: silk
-  pops:
-    - religion: zoroastrian
-      estate: peasant
-      size: 1000
 60.1.1:
   controller: PART
 135.1.1:
@@ -29,9 +27,9 @@
     ERA: no
     MZN: yes
 890.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    mazanderani_culture-zoroastrian: 0
+    mazanderani_culture-shia: 1
 900.1.1:
   owner: BUKH
   controller: BUKH
@@ -44,18 +42,18 @@
   owner: BUKH
   controller: BUKH
 929.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    mazanderani_culture-shia: 0
+    mazanderani_culture-zoroastrian: 1
 930.1.1:
   owner: MZN
   controller: MZN
   cores:
     BUKH: no
 935.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    mazanderani_culture-zoroastrian: 0
+    mazanderani_culture-shia: 1
 977.1.1:
   owner: QOM
   controller: QOM

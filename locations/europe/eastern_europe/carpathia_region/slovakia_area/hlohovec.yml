@@ -1,33 +1,30 @@
 #imported from EU4 file: history/provinces/1772 - Pozsony.txt
 2.1.1:
+  pops: 
+    pannonian-druidism: 1
   owner: GOTI
   controller: GOTI
   cores:
     GOTI: yes
   resource: grain
-  pops:
-    - religion: druidism
-      estate: peasant
-      size: 1000
 395.1.1:
+  pops: 
+    pannonian-druidism: 0
+    southern_bavarian-germanic: 1
   owner: MARC
   controller: MARC
   cores:
     GOTI: no
     MARC: yes
-  pops:
-    - religion: germanic_polytheism
-      estate: peasant
-      size: 1000
 500.1.1:
+  pops: 
+    southern_bavarian-germanic: 0
+    langobardi-germanic: 1
   owner: LOMB
   controller: LOMB
   cores:
     MARC: no
     LOMB: yes
-  pops:
-    - estate: peasant
-      size: 1000
 568.1.1:
   owner: AVR
   controller: AVR
@@ -35,10 +32,9 @@
     LOMB: no
     AVR: yes
 580.1.1:
-  pops:
-    - religion: slavic_polytheism
-      estate: peasant
-      size: 1000
+  pops: 
+    langobardi-germanic: 0
+    slovak-slavic: 1
 623.1.1:
   owner: SAMO
   controller: SAMO
@@ -57,13 +53,13 @@
   cores:
     MVA: yes
 850.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    slovak-slavic: 0
+    slovak-chalcedonism: 1
 867.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    slovak-chalcedonism: 0
+    slovak-catholic: 1
 902.1.1:
   owner: NITR
   controller: NITR
@@ -96,23 +92,23 @@
     HAB: yes
     TRA: yes
 1545.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    slovak-catholic: 0
+    slovak-lutheran: 1
 1570.1.1:
   cores:
     TRA: no
 1606.1.1:
+  pops: 
+    slovak-lutheran: 0
+    slovak-calvinist: 1
   controller: HAB
-  pops:
-    - estate: peasant
-      size: 1000
 1626.1.1:
   controller: HAB
 1660.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    slovak-calvinist: 0
+    slovak-catholic: 1
 1711.1.1:
   controller: HAB
 1918.10.28:

@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/1756 - Budjak.txt
 2.1.1:
+  pops: 
+    dacian-zamolxism: 1
   owner: DACI
   controller: DACI
   cores:
     DACI: yes
   resource: wool
-  pops:
-    - religion: zamolxism
-      estate: peasant
-      size: 1000
 106.1.1:
   owner: ROM
   controller: ROM
@@ -18,13 +16,13 @@
   cores:
     DACI: no
 370.1.1:
+  pops: 
+    dacian-zamolxism: 0
+    dacian-: 1
   owner: HUNS
   controller: HUNS
   cores:
     HUNS: yes
-  pops:
-    - estate: peasant
-      size: 1000
 395.1.17:
   cores:
     BYZ: yes
@@ -41,14 +39,13 @@
     BYZ: no
     AVR: yes
 567.1.1:
+  pops: 
+    bolghar_culture-: 1
   owner: KUTR
   controller: KUTR
   cores:
     AVR: no
     KUTR: yes
-  pops:
-    - estate: peasant
-      size: 1000
 632.1.1:
   owner: BUL
   controller: BUL
@@ -56,18 +53,16 @@
     KUTR: no
     BUL: yes
 864.1.1:
-  pops:
-    - religion: chalcedonism
-      estate: peasant
-      size: 1000
+  pops: 
+    bulgarian-chalcedonism: 1
 867.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    bulgarian-chalcedonism: 0
+    bulgarian-orthodox: 1
 900.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    bulgarian-orthodox: 0
+    wallachian-orthodox: 1
 969.1.1:
   owner: PECH
   controller: PECH
@@ -165,9 +160,9 @@
     RMN: no
     MOL: no
 1980.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    wallachian-orthodox: 0
+    ruthenian-orthodox: 1
 1991.8.24:
   owner: UKR
   controller: UKR

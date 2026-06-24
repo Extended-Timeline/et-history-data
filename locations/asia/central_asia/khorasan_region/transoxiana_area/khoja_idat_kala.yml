@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/444 - Charjuy.txt
 2.1.1:
+  pops: 
+    sogdian-zoroastrian: 1
   owner: BUKH
   controller: BUKH
   cores:
     BUKH: yes
   resource: livestock
-  pops:
-    - religion: zoroastrian
-      estate: peasant
-      size: 1000
 30.1.1:
   owner: KUSH
   controller: KUSH
@@ -68,18 +66,18 @@
     UMAY: no
     ABBA: yes
 770.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    sogdian-zoroastrian: 0
+    sogdian-sunni: 1
 819.1.1:
+  pops: 
+    sogdian-sunni: 0
+    tajik_culture-sunni: 1
   owner: SAMA
   controller: SAMA
   cores:
     ABBA: no
     SAMA: yes
-  pops:
-    - estate: peasant
-      size: 1000
 842.1.1:
   owner: KOKA
   controller: KOKA
@@ -110,9 +108,9 @@
     GHAZ: no
     SELJ: yes
 1040.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    tajik_culture-sunni: 0
+    uzbek_culture-sunni: 1
 1153.1.1:
   owner: KHWA
   controller: KHWA
@@ -173,9 +171,9 @@
   cores:
     BUKH: no
 1700.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    uzbek_culture-sunni: 0
+    turkmen_culture-sunni: 1
 1785.1.1:
   owner: BUKH
   controller: BUKH

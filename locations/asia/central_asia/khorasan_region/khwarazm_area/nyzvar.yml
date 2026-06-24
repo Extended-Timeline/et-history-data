@@ -1,18 +1,16 @@
 #imported from EU4 file: history/provinces/2362 - Gurganj.txt
 2.1.1:
+  pops: 
+    khwarezmian-zoroastrian: 1
   owner: KHWA
   controller: KHWA
   cores:
     KHWA: yes
   resource: wool
-  pops:
-    - religion: zoroastrian
-      estate: peasant
-      size: 1000
 800.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    khwarezmian-zoroastrian: 0
+    khwarezmian-sunni: 1
 1041.1.1:
   owner: OGHU
   controller: OGHU
@@ -39,9 +37,9 @@
     KHWA: no
     MGE: yes
 1222.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    khwarezmian-sunni: 0
+    uzbek_culture-sunni: 1
 1260.1.1:
   owner: CHG
   controller: CHG
@@ -71,9 +69,9 @@
   cores:
     TIM: yes
 1380.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    uzbek_culture-sunni: 0
+    turkmen_culture-sunni: 1
 1409.5.13:
   owner: TRAN
   controller: TRAN

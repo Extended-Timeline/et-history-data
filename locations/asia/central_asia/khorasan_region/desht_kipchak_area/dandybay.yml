@@ -1,9 +1,7 @@
 #imported from EU4 file: history/provinces/4685 - Karagandy.txt
 2.1.1:
-  pops:
-    - religion: 
-      estate: peasant
-      size: 1000
+  pops: 
+    khazak-: 1
 260.1.1:
   owner: TIEL
   controller: TIEL
@@ -68,9 +66,8 @@
   cores:
     GLH: yes
 1380.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    khazak-sunni: 1
 1394.1.1:
   owner: KAZA
   controller: KAZA

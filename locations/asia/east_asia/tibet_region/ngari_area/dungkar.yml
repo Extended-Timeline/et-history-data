@@ -1,25 +1,23 @@
 #imported from EU4 file: history/provinces/2128 - Guge.txt
 2.1.1:
+  pops: 
+    zhangzhung-bon: 1
   owner: ZHAN
   controller: ZHAN
   cores:
     ZHAN: yes
   resource: wool
-  pops:
-    - religion: bon
-      estate: peasant
-      size: 1000
 625.1.1:
   owner: TIB
   controller: TIB
   cores:
     TIB: yes
 700.1.1:
+  pops: 
+    zhangzhung-bon: 0
+    utsang_culture-bon: 1
   cores:
     ZHAN: no
-  pops:
-    - estate: peasant
-      size: 1000
 842.1.1:
   owner: UTSA
   controller: UTSA
@@ -33,9 +31,9 @@
     UTSA: no
     GUG: yes
 920.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    utsang_culture-bon: 0
+    utsang_culture-tibetan_buddhism: 1
 1635.1.1:
   owner: LADA
   controller: LADA

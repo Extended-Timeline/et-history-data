@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/4441 - Ganjam.txt
 2.1.1:
+  pops: 
+    orissan-jain: 1
   owner: KALI
   controller: KALI
   cores:
     KALI: yes
   resource: salt
-  pops:
-    - religion: jain
-      estate: peasant
-      size: 1000
 150.1.1:
   owner: TOSH
   controller: TOSH
@@ -30,9 +28,9 @@
   cores:
     GUPT: no
 600.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    orissan-jain: 0
+    orissan-hindu: 1
 620.1.1:
   owner: KOGD
   controller: KOGD

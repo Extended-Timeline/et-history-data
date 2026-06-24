@@ -1,18 +1,15 @@
 #imported from EU4 file: history/provinces/367 - The Azores.txt
 2.1.1:
+  pops: 
+    uninhabited-bimoism: 1
   resource: fish
-  pops:
-    - religion: bimoism
-      estate: peasant
-      size: 1000
 1427.11.29:
+  pops: 
+    uninhabited-bimoism: 0
+    portuguese-catholic: 1
   owner: POR
   controller: POR
   cores:
     POR: yes
-  pops:
-    - religion: catholic
-      estate: peasant
-      size: 1000
 1500.1.1:
   resource: fish

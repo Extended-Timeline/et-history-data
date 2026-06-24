@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/2957 - Niederbayern.txt
 2.1.1:
+  pops: 
+    swabian-germanic: 1
   owner: ROM
   controller: ROM
   cores:
     ROM: yes
   resource: cloth
-  pops:
-    - religion: germanic_polytheism
-      estate: peasant
-      size: 1000
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -16,17 +14,17 @@
     ROM: no
     ROMW: yes
 450.1.1:
+  pops: 
+    swabian-germanic: 0
+    southern_bavarian-germanic: 1
   owner: BAV
   controller: BAV
   cores:
     BAV: yes
-  pops:
-    - estate: peasant
-      size: 1000
 600.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    southern_bavarian-germanic: 0
+    southern_bavarian-chalcedonism: 1
 788.1.1:
   owner: FRAN
   controller: FRAN
@@ -39,9 +37,9 @@
     FRAN: no
     BAV: yes
 867.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    southern_bavarian-chalcedonism: 0
+    southern_bavarian-catholic: 1
 880.3.22:
   owner: EFRA
   controller: EFRA
@@ -60,9 +58,9 @@
     BAV: no
     REG: yes
 1542.10.15:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    southern_bavarian-catholic: 0
+    southern_bavarian-lutheran: 1
 1810.1.6:
   owner: BAV
   controller: BAV

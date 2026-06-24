@@ -1,9 +1,7 @@
 #imported from EU4 file: history/provinces/8 - Dalaskogen.txt
 2.1.1:
-  pops:
-    - religion: norse
-      estate: peasant
-      size: 1000
+  pops: 
+    swedish-norse: 1
 750.1.1:
   owner: JAMT
   controller: JAMT
@@ -17,9 +15,9 @@
     JAMT: no
     NOR: yes
 1020.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    swedish-norse: 0
+    swedish-catholic: 1
 1050.1.1:
   owner: SWE
   controller: SWE
@@ -35,6 +33,3 @@
 1448.6.20:
   controller: SWE
 1527.6.1:
-  pops:
-    - estate: peasant
-      size: 1000

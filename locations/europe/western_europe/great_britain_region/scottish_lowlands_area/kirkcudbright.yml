@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/4362 - West March.txt
 2.1.1:
+  pops: 
+    cumbric-druidism: 1
   owner: DAMN
   controller: DAMN
   cores:
     DAMN: yes
   resource: wool
-  pops:
-    - religion: druidism
-      estate: peasant
-      size: 1000
 84.1.1:
   owner: ROM
   controller: ROM
@@ -34,17 +32,17 @@
     DAMN: no
     STRA: yes
 430.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    cumbric-druidism: 0
+    cumbric-chalcedonism: 1
 600.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    cumbric-chalcedonism: 0
+    highland-chalcedonism: 1
 867.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    highland-chalcedonism: 0
+    highland-catholic: 1
 1054.1.1:
   owner: SCO
   controller: SCO
@@ -52,17 +50,17 @@
     STRA: no
     SCO: yes
 1066.12.25:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    highland-catholic: 0
+    scottish-catholic: 1
 1296.1.1:
   controller: ENG
 1314.1.1:
   controller: SCO
 1560.8.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    scottish-catholic: 0
+    scottish-calvinist: 1
 1651.4.1:
   controller: ENG
 1652.4.21:

@@ -1,9 +1,7 @@
 #imported from EU4 file: history/provinces/4248 - Kashin.txt
 2.1.1:
-  pops:
-    - religion: muinaisusko
-      estate: peasant
-      size: 1000
+  pops: 
+    merya_culture-muinaisusko: 1
 600.1.1:
   owner: MERY
   controller: MERY
@@ -17,10 +15,9 @@
     MERY: no
     KIEV: yes
 980.1.1:
-  pops:
-    - religion: slavic_polytheism
-      estate: peasant
-      size: 1000
+  pops: 
+    merya_culture-muinaisusko: 0
+    muscovite-slavic: 1
 1054.2.20:
   owner: NOV
   controller: NOV
@@ -28,9 +25,9 @@
     KIEV: no
     NOV: yes
 1120.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    muscovite-slavic: 0
+    muscovite-orthodox: 1
 1209.1.1:
   owner: VLR
   controller: VLR

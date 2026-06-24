@@ -1,19 +1,16 @@
 #imported from EU4 file: history/provinces/4398 - Mawkmai.txt
 2.1.1:
+  pops: 
+    wa_culture-bimoism: 1
   owner: PALN
   controller: PALN
   cores:
     PALN: yes
   resource: grain
-  pops:
-    - religion: bimoism
-      estate: peasant
-      size: 1000
 600.1.1:
-  pops:
-    - religion: satsana_phi
-      estate: peasant
-      size: 1000
+  pops: 
+    wa_culture-bimoism: 0
+    tai_lu_culture-satsana_phi: 1
 630.1.1:
   owner: HARI
   controller: HARI
@@ -27,9 +24,9 @@
     HARI: no
     MOPA: yes
 1700.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    tai_lu_culture-satsana_phi: 0
+    tai_lu_culture-theravada: 1
 1942.5.1:
   controller: SIA
 1945.3.1:

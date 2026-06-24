@@ -1,9 +1,7 @@
 #imported from EU4 file: history/provinces/2689 - Demak.txt
 2.1.1:
-  pops:
-    - religion: hindu
-      estate: peasant
-      size: 1000
+  pops: 
+    javanese_culture-hindu: 1
 530.1.1:
   owner: KALG
   controller: KALG
@@ -47,14 +45,14 @@
     SING: no
     MAJ: yes
 1475.1.1:
+  pops: 
+    javanese_culture-hindu: 0
+    javanese_culture-sunni: 1
   owner: DEMA
   controller: DEMA
   cores:
     MAJ: no
     DEMA: yes
-  pops:
-    - estate: peasant
-      size: 1000
 1587.1.1:
   owner: MATA
   controller: MATA

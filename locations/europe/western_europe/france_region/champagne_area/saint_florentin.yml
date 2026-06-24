@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/185 - Othe.txt
 2.1.1:
+  pops: 
+    gallian-druidism: 1
   owner: ROM
   controller: ROM
   cores:
     ROM: yes
   resource: grain
-  pops:
-    - religion: druidism
-      estate: peasant
-      size: 1000
 260.1.1:
   cores:
     GALL: yes
@@ -23,9 +21,9 @@
     ROM: no
     ROMW: yes
 440.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    gallian-druidism: 0
+    gallian-chalcedonism: 1
 461.11.1:
   owner: SOIS
   controller: SOIS
@@ -35,14 +33,14 @@
   cores:
     ROMW: no
 486.6.1:
+  pops: 
+    gallian-chalcedonism: 0
+    french-chalcedonism: 1
   owner: FRAN
   controller: FRAN
   cores:
     SOIS: no
     FRAN: yes
-  pops:
-    - estate: peasant
-      size: 1000
 511.11.27:
   owner: ASTS
   controller: ASTS
@@ -86,9 +84,9 @@
     FRAN: no
     WFRA: yes
 867.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    french-chalcedonism: 0
+    french-catholic: 1
 987.7.3:
   owner: FRA
   controller: FRA

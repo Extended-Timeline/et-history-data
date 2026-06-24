@@ -1,17 +1,14 @@
 #imported from EU4 file: history/provinces/2511 - Itscheabine.txt
 2.1.1:
+  pops: 
+    nakoda_culture-iroquoian_totemism: 1
   resource: fur
-  pops:
-    - religion: iroquoian_totemism
-      estate: peasant
-      size: 1000
 1886.1.1:
+  pops: 
+    nakoda_culture-iroquoian_totemism: 0
+    american-lutheran: 1
   owner: USA
   controller: USA
   cores:
     USA: yes
   resource: fur
-  pops:
-    - religion: lutheran
-      estate: peasant
-      size: 1000

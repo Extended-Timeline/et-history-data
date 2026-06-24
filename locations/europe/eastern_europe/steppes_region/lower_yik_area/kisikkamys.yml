@@ -1,9 +1,7 @@
 #imported from EU4 file: history/provinces/2367 - Lower Yaik.txt
 2.1.1:
-  pops:
-    - religion: 
-      estate: peasant
-      size: 1000
+  pops: 
+    hunnic-: 1
 160.1.1:
   owner: HUNS
   controller: HUNS
@@ -11,20 +9,18 @@
     HUNS: yes
   resource: livestock
 376.1.1:
+  pops: 
+    khazar-: 1
   cores:
     KHAZ: yes
-  pops:
-    - estate: peasant
-      size: 1000
 448.1.1:
   owner: KHAZ
   controller: KHAZ
   cores:
     HUNS: no
 593.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    pecheneg-: 1
 820.1.1:
   owner: PECH
   controller: PECH
@@ -32,27 +28,25 @@
     KHAZ: no
     PECH: yes
 870.1.1:
+  pops: 
+    cuman_culture-: 1
   owner: CUMA
   controller: CUMA
   cores:
     PECH: no
     CUMA: yes
-  pops:
-    - estate: peasant
-      size: 1000
 1100.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    cuman_culture-sunni: 1
 1236.1.1:
+  pops: 
+    cuman_culture-sunni: 0
+    nogai-sunni: 1
   owner: MGE
   controller: MGE
   cores:
     CUMA: no
     MGE: yes
-  pops:
-    - estate: peasant
-      size: 1000
 1260.1.1:
   owner: BLHO
   controller: BLHO
@@ -66,14 +60,14 @@
     BLHO: no
     NOG: yes
 1634.1.1:
+  pops: 
+    nogai-sunni: 0
+    khazak-sunni: 1
   owner: RUS
   controller: RUS
   cores:
     NOG: no
     RUS: yes
-  pops:
-    - estate: peasant
-      size: 1000
 1917.12.13:
   cores:
     KAZK: yes

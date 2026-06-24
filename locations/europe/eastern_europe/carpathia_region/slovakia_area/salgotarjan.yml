@@ -1,49 +1,45 @@
 #imported from EU4 file: history/provinces/4125 - Szolnok.txt
 2.1.1:
+  pops: 
+    sarmatian-: 1
   owner: IAZY
   controller: IAZY
   cores:
     IAZY: yes
   resource: livestock
-  pops:
-    - religion: 
-      estate: peasant
-      size: 1000
 300.1.1:
+  pops: 
+    southern_bavarian-: 1
   owner: RUGI
   controller: RUGI
   cores:
     IAZY: no
     RUGI: yes
-  pops:
-    - estate: peasant
-      size: 1000
 325.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    southern_bavarian-arianism: 1
 450.1.1:
+  pops: 
+    southern_bavarian-arianism: 0
+    gepid-arianism: 1
   owner: GEPI
   controller: GEPI
   cores:
     RUGI: no
     GEPI: yes
-  pops:
-    - estate: peasant
-      size: 1000
 567.1.1:
+  pops: 
+    gepid-arianism: 0
+    avar_culture-arianism: 1
   owner: AVR
   controller: AVR
   cores:
     GEPI: no
     AVR: yes
-  pops:
-    - estate: peasant
-      size: 1000
 570.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    avar_culture-arianism: 0
+    avar_culture-: 1
 804.1.1:
   owner: BUL
   controller: BUL
@@ -57,18 +53,16 @@
     BUL: no
     MVA: yes
 897.1.1:
+  pops: 
+    hungarian-: 1
   owner: HUN
   controller: HUN
   cores:
     MVA: no
     HUN: yes
-  pops:
-    - estate: peasant
-      size: 1000
 1010.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    hungarian-catholic: 1
 1507.1.1:
   controller: HUN
 1515.1.1:
@@ -81,9 +75,9 @@
   cores:
     HAB: yes
 1540.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    hungarian-catholic: 0
+    hungarian-calvinist: 1
 1542.1.1:
   controller: TRA
 1545.8.1:
@@ -100,9 +94,6 @@
   owner: TRA
   controller: TRA
 1567.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
 1570.1.1:
   owner: HAB
   controller: HAB
@@ -114,9 +105,9 @@
   owner: HAB
   controller: HAB
 1800.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    hungarian-calvinist: 0
+    hungarian-catholic: 1
 1918.10.31:
   owner: HUN
   controller: HUN

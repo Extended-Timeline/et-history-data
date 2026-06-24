@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/2321 - Queseer.txt
 2.1.1:
+  pops: 
+    beja_culture-egyptian: 1
   owner: ROM
   controller: ROM
   cores:
     ROM: yes
   resource: livestock
-  pops:
-    - religion: egyptian_polytheism
-      estate: peasant
-      size: 1000
 395.1.17:
   owner: BYZ
   controller: BYZ
@@ -26,18 +24,18 @@
     BYZ: no
     RASH: yes
 655.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    beja_culture-egyptian: 0
+    beja_culture-islam: 1
 661.7.28:
+  pops: 
+    beja_culture-islam: 0
+    beja_culture-sunni: 1
   owner: UMAY
   controller: UMAY
   cores:
     RASH: no
     UMAY: yes
-  pops:
-    - estate: peasant
-      size: 1000
 750.8.6:
   owner: ABBA
   controller: ABBA
@@ -73,9 +71,9 @@
     FATI: no
     EGY: yes
 1200.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    beja_culture-sunni: 0
+    lower_egyptian_culture-sunni: 1
 1250.5.2:
   owner: MAM
   controller: MAM
@@ -83,9 +81,9 @@
     EGY: no
     MAM: yes
 1350.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    lower_egyptian_culture-sunni: 0
+    upper_egyptian_culture-sunni: 1
 1517.1.1:
   cores:
     MAM: no

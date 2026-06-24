@@ -1,23 +1,21 @@
 #imported from EU4 file: history/provinces/233 - Cornwall.txt
 2.1.1:
+  pops: 
+    briton-druidism: 1
   owner: DUMN
   controller: DUMN
   cores:
     DUMN: yes
   resource: copper
-  pops:
-    - religion: druidism
-      estate: peasant
-      size: 1000
 55.1.1:
   owner: ROM
   controller: ROM
   cores:
     ROM: yes
 200.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    briton-druidism: 0
+    cornish-druidism: 1
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -31,9 +29,9 @@
     ROMW: no
     DUMN: yes
 500.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    cornish-druidism: 0
+    cornish-chalcedonism: 1
 710.1.1:
   owner: CRN
   controller: CRN
@@ -41,9 +39,9 @@
     DUMN: no
     CRN: yes
 867.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    cornish-chalcedonism: 0
+    cornish-catholic: 1
 890.1.1:
   owner: WESS
   controller: WESS
@@ -64,13 +62,13 @@
 1470.10.6:
   controller: ENG
 1575.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    cornish-catholic: 0
+    cornish-lutheran: 1
 1600.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    cornish-lutheran: 0
+    cornish-calvinist: 1
 1707.5.12:
   owner: GBR
   controller: GBR

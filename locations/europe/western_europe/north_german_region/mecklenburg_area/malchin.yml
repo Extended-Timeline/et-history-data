@@ -1,28 +1,25 @@
 #imported from EU4 file: history/provinces/4749 - Neubrandenburg.txt
 2.1.1:
+  pops: 
+    saxon-germanic: 1
   owner: WARI
   controller: WARI
   cores:
     WARI: yes
   resource: livestock
-  pops:
-    - religion: germanic_polytheism
-      estate: peasant
-      size: 1000
 260.1.1:
+  pops: 
+    saxon-germanic: 0
+    western_pomeranian-germanic: 1
   owner: RUGE
   controller: RUGE
   cores:
     WARI: no
     RUGE: yes
-  pops:
-    - estate: peasant
-      size: 1000
 395.1.1:
-  pops:
-    - religion: slavic_polytheism
-      estate: peasant
-      size: 1000
+  pops: 
+    western_pomeranian-germanic: 0
+    polabian-slavic: 1
 570.1.1:
   owner: POM
   controller: POM
@@ -59,13 +56,13 @@
   cores:
     BRA: yes
 1160.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    polabian-slavic: 0
+    polabian-catholic: 1
 1240.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    polabian-catholic: 0
+    western_pomeranian-catholic: 1
 1317.11.25:
   owner: MKL
   controller: MKL
@@ -73,9 +70,9 @@
     BRA: no
     MKL: yes
 1531.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    western_pomeranian-catholic: 0
+    western_pomeranian-lutheran: 1
 1871.1.18:
   owner: GER
   controller: GER
@@ -94,6 +91,3 @@
   cores:
     EGER: no
 2010.1.1:
-  pops:
-    - estate: peasant
-      size: 1000

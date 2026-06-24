@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/2310 - Tikrit.txt
 2.1.1:
+  pops: 
+    assyrian-zoroastrian: 1
   owner: PART
   controller: PART
   cores:
     PART: yes
   resource: livestock
-  pops:
-    - religion: zoroastrian
-      estate: peasant
-      size: 1000
 116.1.1:
   owner: ROM
   controller: ROM
@@ -30,9 +28,9 @@
     PART: no
     ERA: yes
 440.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    assyrian-zoroastrian: 0
+    assyrian-nestorianism: 1
 637.1.1:
   owner: RASH
   controller: RASH
@@ -114,12 +112,11 @@
     ILK: no
     JAL: yes
 1380.1.1:
+  pops: 
+    assyrian-nestorianism: 0
+    iraqi_culture-sunni: 1
   cores:
     TIM: yes
-  pops:
-    - religion: sunni
-      estate: peasant
-      size: 1000
 1405.1.1:
   owner: QAKO
   controller: QAKO
@@ -163,8 +160,5 @@
 2013.4.8:
   cores:
     ISIS: yes
-  pops:
-    - estate: peasant
-      size: 1000
 2015.3.31:
   controller: IRAQ

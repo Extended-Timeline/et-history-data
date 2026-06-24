@@ -1,9 +1,7 @@
 #imported from EU4 file: history/provinces/619 - Batak.txt
 2.1.1:
-  pops:
-    - religion: bimoism
-      estate: peasant
-      size: 1000
+  pops: 
+    batak_culture-bimoism: 1
 200.1.1:
   owner: BUS
   controller: BUS
@@ -11,9 +9,9 @@
     BUS: yes
   resource: incense
 700.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    batak_culture-bimoism: 0
+    batak_culture-hindu: 1
 1471.1.1:
   cores:
     ATJ: yes
@@ -21,9 +19,9 @@
   owner: ATJ
   controller: ATJ
 1550.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    batak_culture-hindu: 0
+    batak_culture-sunni: 1
 1903.1.10:
   owner: NED
   controller: NED

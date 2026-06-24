@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/2044 - Bhagalpur.txt
 2.1.1:
+  pops: 
+    magahi-hindu: 1
   owner: MAGA
   controller: MAGA
   cores:
     MAGA: yes
   resource: silk
-  pops:
-    - religion: hindu
-      estate: peasant
-      size: 1000
 320.1.1:
   owner: GUPT
   controller: GUPT
@@ -32,9 +30,9 @@
     GUPT: no
     KANN: yes
 740.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    magahi-hindu: 0
+    magahi-mahayana: 1
 750.1.1:
   owner: PALA
   controller: PALA
@@ -42,9 +40,9 @@
     KANN: no
     PALA: yes
 1170.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    magahi-mahayana: 0
+    magahi-hindu: 1
 1174.1.1:
   owner: GAUD
   controller: GAUD

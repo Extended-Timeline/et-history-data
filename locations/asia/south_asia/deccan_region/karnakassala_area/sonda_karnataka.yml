@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/4427 - Honnavara.txt
 2.1.1:
+  pops: 
+    kannadiga-jain: 1
   owner: PUZH
   controller: PUZH
   cores:
     PUZH: yes
   resource: spices
-  pops:
-    - religion: jain
-      estate: peasant
-      size: 1000
 250.1.1:
   owner: VAKA
   controller: VAKA
@@ -40,9 +38,9 @@
     RAST: no
     KADA: yes
 1300.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    kannadiga-jain: 0
+    kannadiga-hindu: 1
 1310.1.1:
   owner: DLH
   controller: DLH

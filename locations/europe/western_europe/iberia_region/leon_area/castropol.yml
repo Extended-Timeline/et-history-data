@@ -1,15 +1,13 @@
 #imported from EU4 file: history/provinces/207 - Asturias.txt
 2.1.1:
+  pops: 
+    cantabrian-druidism: 1
   owner: ROM
   controller: ROM
   cores:
     ROM: yes
     VASC: yes
   resource: livestock
-  pops:
-    - religion: druidism
-      estate: peasant
-      size: 1000
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -17,14 +15,14 @@
     ROM: no
     ROMW: yes
 409.6.1:
+  pops: 
+    cantabrian-druidism: 0
+    cantabrian-germanic: 1
   owner: SUEB
   controller: SUEB
   cores:
     VASC: no
     SUEB: yes
-  pops:
-    - estate: peasant
-      size: 1000
 450.1.1:
   cores:
     ROMW: no
@@ -37,13 +35,13 @@
   owner: SUEB
   controller: SUEB
 466.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    cantabrian-germanic: 0
+    cantabrian-arianism: 1
 561.5.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    cantabrian-arianism: 0
+    cantabrian-chalcedonism: 1
 584.1.1:
   owner: VISG
   controller: VISG
@@ -57,18 +55,18 @@
     VISG: no
     UMAY: yes
 718.1.1:
+  pops: 
+    cantabrian-chalcedonism: 0
+    leonese-chalcedonism: 1
   owner: ASTU
   controller: ASTU
   cores:
     UMAY: no
     ASTU: yes
-  pops:
-    - estate: peasant
-      size: 1000
 867.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    leonese-chalcedonism: 0
+    leonese-catholic: 1
 924.1.1:
   owner: LON
   controller: LON

@@ -1,27 +1,25 @@
 #imported from EU4 file: history/provinces/4841 - Lamphun.txt
 2.1.1:
+  pops: 
+    wa_culture-bimoism: 1
   owner: LAWA
   controller: LAWA
   cores:
     LAWA: yes
   resource: grain
-  pops:
-    - religion: bimoism
-      estate: peasant
-      size: 1000
 580.1.1:
+  pops: 
+    wa_culture-bimoism: 0
+    mon_culture-bimoism: 1
   owner: DVAR
   controller: DVAR
   cores:
     LAWA: no
     DVAR: yes
-  pops:
-    - estate: peasant
-      size: 1000
 590.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    mon_culture-bimoism: 0
+    mon_culture-mahayana: 1
 629.1.1:
   owner: HARI
   controller: HARI
@@ -29,9 +27,9 @@
     DVAR: no
     HARI: yes
 1150.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    mon_culture-mahayana: 0
+    mon_culture-theravada: 1
 1292.1.1:
   owner: LNA
   controller: LNA
@@ -39,9 +37,9 @@
     HARI: no
     LNA: yes
 1300.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    mon_culture-theravada: 0
+    khon_muang_culture-theravada: 1
 1884.1.1:
   owner: RTP
   controller: RTP

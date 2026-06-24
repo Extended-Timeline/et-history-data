@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/4585 - Tzotzil.txt
 2.1.1:
+  pops: 
+    chol_culture-mayan: 1
   owner: PALQ
   controller: PALQ
   cores:
     PALQ: yes
   resource: cocoa
-  pops:
-    - religion: mayan
-      estate: peasant
-      size: 1000
 850.1.1:
   owner: LAC
   controller: LAC
@@ -16,13 +14,13 @@
     PALQ: no
     LAC: yes
 1528.1.1:
+  pops: 
+    chol_culture-mayan: 0
+    chol_culture-catholic: 1
   owner: SPA
   controller: SPA
   cores:
     SPA: yes
-  pops:
-    - estate: peasant
-      size: 1000
 1553.1.1:
   cores:
     SPA: yes

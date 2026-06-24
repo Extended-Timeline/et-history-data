@@ -1,33 +1,28 @@
 #imported from EU4 file: history/provinces/4306 - Lakia.txt
 2.1.1:
+  pops: 
+    avar_culture-: 1
   owner: ALN
   controller: ALN
   cores:
     ALN: yes
   resource: iron
-  pops:
-    - religion: 
-      estate: peasant
-      size: 1000
 448.1.1:
+  pops: 
+    khazar-: 1
   owner: KHAZ
   controller: KHAZ
   cores:
     ALN: no
     KHAZ: yes
-  pops:
-    - estate: peasant
-      size: 1000
 734.1.1:
   owner: GAZI
   controller: GAZI
   cores:
     GAZI: yes
 780.1.1:
-  pops:
-    - religion: sunni
-      estate: peasant
-      size: 1000
+  pops: 
+    lezgin_culture-sunni: 1
 1236.1.1:
   owner: MGE
   controller: MGE

@@ -1,25 +1,22 @@
 #imported from EU4 file: history/provinces/2899 - Vila Rica.txt
 2.1.1:
-  pops:
-    - religion: muisca_religion
-      estate: peasant
-      size: 1000
+  pops: 
+    akwe_culture-muisca_religion: 1
 1652.1.1:
+  pops: 
+    akwe_culture-muisca_religion: 0
+    portuguese-catholic: 1
   owner: POR
   controller: POR
   cores:
     POR: yes
   resource: gold
-  pops:
-    - religion: catholic
-      estate: peasant
-      size: 1000
 1710.1.1:
   controller: POR
 1780.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    portuguese-catholic: 0
+    brazilian-catholic: 1
 1792.4.21:
   controller: POR
 1822.9.7:

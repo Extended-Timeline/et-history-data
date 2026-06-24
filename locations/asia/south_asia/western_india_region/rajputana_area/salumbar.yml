@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/2058 - Mewar.txt
 2.1.1:
+  pops: 
+    marwari-hindu: 1
   owner: WSAT
   controller: WSAT
   cores:
     WSAT: yes
   resource: gold
-  pops:
-    - religion: hindu
-      estate: peasant
-      size: 1000
 405.1.1:
   owner: GUPT
   controller: GUPT
@@ -74,13 +72,13 @@
     MEW: no
     GUJ: yes
 1150.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    marwari-hindu: 0
+    marwari-jain: 1
 1171.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    marwari-jain: 0
+    marwari-hindu: 1
 1172.1.1:
   owner: MEW
   controller: MEW

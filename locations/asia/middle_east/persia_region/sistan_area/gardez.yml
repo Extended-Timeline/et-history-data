@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/448 - Gazni.txt
 2.1.1:
+  pops: 
+    afghan_culture-mahayana: 1
   owner: IPAR
   controller: IPAR
   cores:
     IPAR: yes
   resource: grain
-  pops:
-    - religion: mahayana
-      estate: peasant
-      size: 1000
 76.1.1:
   owner: KUSH
   controller: KUSH
@@ -56,9 +54,9 @@
   cores:
     SHI: yes
 850.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    afghan_culture-mahayana: 0
+    afghan_culture-hindu: 1
 870.1.1:
   owner: SIST
   controller: SIST
@@ -66,9 +64,9 @@
     SHI: no
     SIST: yes
 875.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    afghan_culture-hindu: 0
+    afghan_culture-sunni: 1
 913.5.24:
   owner: BUKH
   controller: BUKH

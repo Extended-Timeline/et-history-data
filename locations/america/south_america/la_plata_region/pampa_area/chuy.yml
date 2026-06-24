@@ -1,19 +1,16 @@
 #imported from EU4 file: history/provinces/2857 - Patos.txt
 2.1.1:
-  pops:
-    - religion: muisca_religion
-      estate: peasant
-      size: 1000
+  pops: 
+    ava_culture-muisca_religion: 1
 1737.2.19:
+  pops: 
+    ava_culture-muisca_religion: 0
+    portuguese-catholic: 1
   owner: POR
   controller: POR
   cores:
     POR: yes
   resource: tobacco
-  pops:
-    - religion: catholic
-      estate: peasant
-      size: 1000
 1763.4.1:
   owner: SPA
   controller: SPA
@@ -21,9 +18,9 @@
   owner: POR
   controller: POR
 1780.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    portuguese-catholic: 0
+    brazilian-catholic: 1
 1822.9.7:
   owner: BRAZ
   controller: BRAZ

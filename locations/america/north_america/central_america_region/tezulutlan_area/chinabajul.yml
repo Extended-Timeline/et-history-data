@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/4587 - Qumarkaj.txt
 2.1.1:
+  pops: 
+    kiche_culture-mayan: 1
   owner: KAMI
   controller: KAMI
   cores:
     KAMI: yes
   resource: cocoa
-  pops:
-    - religion: mayan
-      estate: peasant
-      size: 1000
 1194.1.1:
   owner: KIC
   controller: KIC
@@ -16,11 +14,11 @@
     KAMI: no
     KIC: yes
 1524.1.1:
+  pops: 
+    kiche_culture-mayan: 0
+    kiche_culture-catholic: 1
   owner: SPA
   controller: SPA
-  pops:
-    - estate: peasant
-      size: 1000
 1549.1.1:
   cores:
     SPA: yes

@@ -1,18 +1,16 @@
 #imported from EU4 file: history/provinces/349 - Atlas.txt
 2.1.1:
+  pops: 
+    zenati-bantu_religion: 1
   owner: SIJI
   controller: SIJI
   cores:
     SIJI: yes
   resource: livestock
-  pops:
-    - religion: bantu_religion
-      estate: peasant
-      size: 1000
 420.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    zenati-bantu_religion: 0
+    zenati-chalcedonism: 1
 429.1.1:
   owner: ALTA
   controller: ALTA
@@ -31,9 +29,9 @@
     UMAY: no
     SIJI: yes
 760.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    zenati-chalcedonism: 0
+    zenati-ibadi: 1
 789.1.1:
   owner: MOR
   controller: MOR
@@ -60,9 +58,9 @@
     FATI: no
     TLE: yes
 1050.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    zenati-ibadi: 0
+    zenati-sunni: 1
 1066.10.1:
   owner: MOR
   controller: MOR

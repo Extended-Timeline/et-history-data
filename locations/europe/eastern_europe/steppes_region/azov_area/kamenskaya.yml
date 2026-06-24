@@ -1,29 +1,25 @@
 #imported from EU4 file: history/provinces/288 - Cherkassk.txt
 2.1.1:
+  pops: 
+    sarmatian-: 1
   owner: SARM
   controller: SARM
   cores:
     SARM: yes
   resource: livestock
-  pops:
-    - religion: 
-      estate: peasant
-      size: 1000
 370.1.1:
+  pops: 
+    hunnic-: 1
   owner: HUNS
   controller: HUNS
   cores:
     SARM: no
     HUNS: yes
-  pops:
-    - estate: peasant
-      size: 1000
 420.1.1:
+  pops: 
+    bolghar_culture-: 1
   cores:
     ONOG: yes
-  pops:
-    - estate: peasant
-      size: 1000
 469.1.1:
   owner: ONOG
   controller: ONOG
@@ -36,23 +32,21 @@
     ONOG: no
     BUL: yes
 720.1.1:
+  pops: 
+    khazar-: 1
   owner: KHAZ
   controller: KHAZ
   cores:
     BUL: no
     KHAZ: yes
-  pops:
-    - estate: peasant
-      size: 1000
 969.1.1:
+  pops: 
+    cuman_culture-: 1
   owner: PECH
   controller: PECH
   cores:
     KHAZ: no
     PECH: yes
-  pops:
-    - estate: peasant
-      size: 1000
 1055.1.1:
   owner: CUMA
   controller: CUMA
@@ -61,19 +55,17 @@
     CUMA: yes
     ZAZ: yes
 1237.1.1:
+  pops: 
+    mishar-: 1
   owner: MGE
   controller: MGE
   cores:
     CUMA: no
     MGE: yes
     GLH: yes
-  pops:
-    - estate: peasant
-      size: 1000
 1250.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    mishar-sunni: 1
 1260.1.1:
   owner: WHHO
   controller: WHHO
@@ -114,10 +106,9 @@
     ATR: no
     RUS: yes
 1570.1.1:
-  pops:
-    - religion: orthodox
-      estate: peasant
-      size: 1000
+  pops: 
+    mishar-sunni: 0
+    muscovite-orthodox: 1
 1671.4.14:
   controller: RUS
 1775.2.1:
@@ -136,9 +127,6 @@
 1943.2.13:
   controller: SOVI
 1945.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
 1991.12.25:
   owner: RUS
   controller: RUS

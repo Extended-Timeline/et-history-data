@@ -1,33 +1,30 @@
 #imported from EU4 file: history/provinces/13 - Slesvig.txt
 2.1.1:
+  pops: 
+    lower_saxon-germanic: 1
   owner: ANGL
   controller: ANGL
   cores:
     ANGL: yes
   resource: livestock
-  pops:
-    - religion: germanic_polytheism
-      estate: peasant
-      size: 1000
 737.1.1:
+  pops: 
+    lower_saxon-germanic: 0
+    danish-norse: 1
   owner: SLV
   controller: SLV
   cores:
     ANGL: no
     SLV: yes
-  pops:
-    - religion: norse
-      estate: peasant
-      size: 1000
 770.1.1:
   owner: DAN
   controller: DAN
   cores:
     DAN: yes
 900.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    danish-norse: 0
+    danish-catholic: 1
 1115.1.1:
   owner: SLV
   controller: SLV
@@ -64,9 +61,9 @@
   owner: DAN
   controller: DAN
 1536.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    danish-catholic: 0
+    danish-lutheran: 1
 1644.1.12:
   controller: SWE
 1645.8.13:
@@ -95,9 +92,9 @@
     HOLS: no
     GER: yes
 1900.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    danish-lutheran: 0
+    lower_saxon-lutheran: 1
 1945.5.8:
   owner: WGER
   controller: WGER

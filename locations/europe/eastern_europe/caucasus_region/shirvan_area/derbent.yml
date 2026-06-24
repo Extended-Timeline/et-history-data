@@ -1,25 +1,22 @@
 #imported from EU4 file: history/provinces/425 - Dagestan.txt
 2.1.1:
+  pops: 
+    avar_culture-: 1
   owner: ALN
   controller: ALN
   cores:
     ALN: yes
   resource: fish
-  pops:
-    - religion: 
-      estate: peasant
-      size: 1000
 253.1.1:
   owner: ERA
   controller: ERA
   cores:
     ERA: yes
 450.1.1:
+  pops: 
+    khazar-: 1
   cores:
     ALN: no
-  pops:
-    - estate: peasant
-      size: 1000
 620.1.1:
   owner: KHAZ
   controller: KHAZ
@@ -39,10 +36,8 @@
     RASH: no
     UMAY: yes
 720.1.1:
-  pops:
-    - religion: shia
-      estate: peasant
-      size: 1000
+  pops: 
+    lezgin_culture-shia: 1
 734.1.1:
   owner: GAZI
   controller: GAZI

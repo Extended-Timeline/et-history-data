@@ -1,13 +1,11 @@
 #imported from EU4 file: history/provinces/3074 - Ennedi.txt
 2.1.1:
-  pops:
-    - religion: bantu_religion
-      estate: peasant
-      size: 1000
+  pops: 
+    toubou_culture-bantu_religion: 1
 1250.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    toubou_culture-bantu_religion: 0
+    toubou_culture-sunni: 1
 1905.1.1:
   owner: FRA
   controller: FRA

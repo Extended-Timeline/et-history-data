@@ -1,9 +1,7 @@
 #imported from EU4 file: history/provinces/2357 - Aksary.txt
 2.1.1:
-  pops:
-    - religion: 
-      estate: peasant
-      size: 1000
+  pops: 
+    cuman_culture-: 1
 659.1.1:
   owner: KANG
   controller: KANG
@@ -17,14 +15,13 @@
     KANG: no
     CUMA: yes
 870.1.1:
+  pops: 
+    khazak-: 1
   owner: KIME
   controller: KIME
   cores:
     CUMA: no
     KIME: yes
-  pops:
-    - estate: peasant
-      size: 1000
 1050.1.1:
   owner: KIPC
   controller: KIPC
@@ -43,9 +40,8 @@
     CUMA: no
     MGE: yes
 1250.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    khazak-sunni: 1
 1260.1.1:
   owner: BLHO
   controller: BLHO
@@ -83,9 +79,9 @@
   cores:
     RUS: yes
 1880.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    khazak-sunni: 0
+    khazak-orthodox: 1
 1917.12.13:
   cores:
     KAZA: no
@@ -97,9 +93,9 @@
     RUS: no
     SOVI: yes
 1930.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    khazak-orthodox: 0
+    muscovite-orthodox: 1
 1991.12.16:
   owner: KAZK
   controller: KAZK

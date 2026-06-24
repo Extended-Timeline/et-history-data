@@ -1,9 +1,7 @@
 #imported from EU4 file: history/provinces/653 - Tagoloan.txt
 2.1.1:
-  pops:
-    - religion: bimoism
-      estate: peasant
-      size: 1000
+  pops: 
+    cebuano_culture-bimoism: 1
 1200.1.1:
   owner: MAGU
   controller: MAGU
@@ -12,9 +10,9 @@
     LNO: yes
   resource: spices
 1450.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    cebuano_culture-bimoism: 0
+    cebuano_culture-sunni: 1
 1520.1.1:
   owner: LNO
   controller: LNO

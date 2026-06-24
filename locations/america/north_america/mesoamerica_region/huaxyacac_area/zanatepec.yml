@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/2649 - Tehuantepec.txt
 2.1.1:
+  pops: 
+    zapotec_culture-nahuatl: 1
   owner: ZAP
   controller: ZAP
   cores:
     ZAP: yes
   resource: fish
-  pops:
-    - religion: nahuatl
-      estate: peasant
-      size: 1000
 1490.1.1:
   owner: AZTE
   controller: AZTE
@@ -20,14 +18,13 @@
   cores:
     SPA: yes
 1529.1.1:
-  pops:
-    - religion: catholic
-      estate: peasant
-      size: 1000
+  pops: 
+    zapotec_culture-nahuatl: 0
+    castilian-catholic: 1
 1770.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    castilian-catholic: 0
+    mexican-catholic: 1
 1810.9.16:
   owner: MEX
   controller: SPA

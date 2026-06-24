@@ -1,23 +1,21 @@
 #imported from EU4 file: history/provinces/66 - Bamberg.txt
 2.1.1:
+  pops: 
+    swabian-germanic: 1
   owner: VARI
   controller: VARI
   cores:
     VARI: yes
   resource: wine
-  pops:
-    - religion: germanic_polytheism
-      estate: peasant
-      size: 1000
 260.1.1:
+  pops: 
+    swabian-germanic: 0
+    east_franconian-germanic: 1
   owner: HERM
   controller: HERM
   cores:
     VARI: no
     HERM: yes
-  pops:
-    - estate: peasant
-      size: 1000
 395.1.1:
   owner: THU
   controller: THU
@@ -30,9 +28,9 @@
   cores:
     FRAN: yes
 800.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    east_franconian-germanic: 0
+    east_franconian-chalcedonism: 1
 840.6.21:
   owner: EFRA
   controller: EFRA
@@ -45,9 +43,9 @@
   cores:
     THU: yes
 867.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    east_franconian-chalcedonism: 0
+    east_franconian-catholic: 1
 908.8.3:
   owner: EFRA
   controller: EFRA

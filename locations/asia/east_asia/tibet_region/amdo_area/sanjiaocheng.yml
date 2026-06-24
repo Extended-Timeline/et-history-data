@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/4204 - Anding.txt
 2.1.1:
+  pops: 
+    amdowa_culture-bon: 1
   owner: QIAN
   controller: QIAN
   cores:
     QIAN: yes
   resource: livestock
-  pops:
-    - religion: bon
-      estate: peasant
-      size: 1000
 284.1.1:
   owner: TUYU
   controller: TUYU
@@ -16,18 +14,17 @@
     QIAN: no
     TUYU: yes
 285.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    amdowa_culture-bon: 0
+    amdowa_culture-: 1
 663.1.1:
   owner: TIB
   controller: TIB
   cores:
     TIB: yes
 680.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    amdowa_culture-tibetan_buddhism: 1
 842.1.1:
   owner: PHAG
   controller: PHAG
@@ -47,14 +44,14 @@
     QIAN: no
     TSON: yes
 1038.1.1:
+  pops: 
+    amdowa_culture-tibetan_buddhism: 0
+    uyghur_culture-tibetan_buddhism: 1
   owner: SYOG
   controller: SYOG
   cores:
     TSON: no
     SYOG: yes
-  pops:
-    - estate: peasant
-      size: 1000
 1227.1.1:
   owner: MGE
   controller: MGE
@@ -78,9 +75,9 @@
   cores:
     KHOS: yes
 1650.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    uyghur_culture-tibetan_buddhism: 0
+    oirat_culture-tibetan_buddhism: 1
 1717.1.1:
   owner: ZUNG
   controller: ZUNG

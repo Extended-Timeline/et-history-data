@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/364 - Gaza.txt
 2.1.1:
+  pops: 
+    old_egyptian-judaism: 1
   owner: ROM
   controller: ROM
   cores:
     ROM: yes
   resource: salt
-  pops:
-    - religion: judaism
-      estate: peasant
-      size: 1000
 395.1.17:
   owner: BYZ
   controller: BYZ
@@ -16,9 +14,9 @@
     ROM: no
     BYZ: yes
 400.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    old_egyptian-judaism: 0
+    old_egyptian-chalcedonism: 1
 618.1.1:
   controller: ERA
 628.1.1:
@@ -36,10 +34,9 @@
     RASH: no
     UMAY: yes
 720.1.1:
-  pops:
-    - religion: sunni
-      estate: peasant
-      size: 1000
+  pops: 
+    old_egyptian-chalcedonism: 0
+    lower_egyptian_culture-sunni: 1
 750.8.6:
   owner: ABBA
   controller: ABBA

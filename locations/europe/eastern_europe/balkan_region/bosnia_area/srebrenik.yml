@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/4755 - Podrinje.txt
 2.1.1:
+  pops: 
+    illyrian-druidism: 1
   owner: ROM
   controller: ROM
   cores:
     ROM: yes
   resource: salt
-  pops:
-    - religion: druidism
-      estate: peasant
-      size: 1000
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -16,18 +14,18 @@
     ROM: no
     ROMW: yes
 450.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    illyrian-druidism: 0
+    illyrian-arianism: 1
 455.1.1:
+  pops: 
+    illyrian-arianism: 0
+    gothic-arianism: 1
   owner: OSTR
   controller: OSTR
   cores:
     ROMW: no
     OSTR: yes
-  pops:
-    - estate: peasant
-      size: 1000
 540.1.1:
   owner: BYZ
   controller: BYZ
@@ -35,21 +33,20 @@
     OSTR: no
     BYZ: yes
 610.1.1:
+  pops: 
+    gothic-arianism: 0
+    serbian-slavic: 1
   cores:
     SER: yes
-  pops:
-    - religion: slavic_polytheism
-      estate: peasant
-      size: 1000
 630.1.1:
   owner: SER
   controller: SER
   cores:
     BYZ: no
 869.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    serbian-slavic: 0
+    serbian-orthodox: 1
 960.1.1:
   owner: CRO
   controller: CRO

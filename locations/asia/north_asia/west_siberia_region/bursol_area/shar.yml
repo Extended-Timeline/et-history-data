@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/2355 - Altai.txt
 2.1.1:
+  pops: 
+    kyrgyz_culture-: 1
   owner: XION
   controller: XION
   cores:
     XION: yes
   resource: fish
-  pops:
-    - religion: 
-      estate: peasant
-      size: 1000
 260.1.1:
   owner: TIEL
   controller: TIEL
@@ -34,9 +32,8 @@
     UYGH: no
     KIME: yes
 1100.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    kyrgyz_culture-mahayana: 1
 1124.1.1:
   owner: KKHI
   controller: KKHI
@@ -50,10 +47,9 @@
     KKHI: no
     MGE: yes
 1240.1.1:
-  pops:
-    - religion: 
-      estate: peasant
-      size: 1000
+  pops: 
+    kyrgyz_culture-mahayana: 0
+    khazak-: 1
 1260.1.1:
   owner: BLHO
   controller: BLHO
@@ -66,9 +62,8 @@
   cores:
     GLH: yes
 1380.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    khazak-sunni: 1
 1394.1.1:
   owner: KAZA
   controller: KAZA

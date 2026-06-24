@@ -1,39 +1,36 @@
 #imported from EU4 file: history/provinces/772 - Uruguay.txt
 2.1.1:
+  pops: 
+    charrua_culture-muisca_religion: 1
   owner: CUA
   controller: CUA
   cores:
     CUA: yes
   resource: grain
-  pops:
-    - religion: muisca_religion
-      estate: peasant
-      size: 1000
 1680.1.1:
+  pops: 
+    charrua_culture-muisca_religion: 0
+    portuguese-catholic: 1
   owner: POR
   controller: POR
   cores:
     POR: yes
-  pops:
-    - religion: catholic
-      estate: peasant
-      size: 1000
 1724.1.1:
+  pops: 
+    portuguese-catholic: 0
+    castilian-catholic: 1
   owner: SPA
   controller: SPA
   cores:
     POR: no
     SPA: yes
-  pops:
-    - estate: peasant
-      size: 1000
 1749.1.1:
   cores:
     SPA: yes
 1770.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    castilian-catholic: 0
+    iberian_la_platan-catholic: 1
 1822.9.7:
   owner: BRAZ
   controller: BRAZ

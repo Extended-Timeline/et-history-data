@@ -1,15 +1,13 @@
 #imported from EU4 file: history/provinces/1840 - Guilin.txt
 2.1.1:
+  pops: 
+    zhuang_culture-bimoism: 1
   owner: HAN0
   controller: HAN0
   cores:
     HAN0: yes
     WUU: yes
   resource: silk
-  pops:
-    - religion: bimoism
-      estate: peasant
-      size: 1000
 9.1.10:
   owner: XIN0
   controller: XIN0
@@ -38,9 +36,9 @@
     WUU: no
     JIN1: yes
 300.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    zhuang_culture-bimoism: 0
+    zhuang_culture-sanjiao: 1
 420.1.1:
   owner: LSON
   controller: LSON

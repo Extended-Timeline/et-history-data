@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/532 - Raichur Doab.txt
 2.1.1:
+  pops: 
+    kannadiga-mahayana: 1
   owner: SATA
   controller: SATA
   cores:
     SATA: yes
   resource: cloth
-  pops:
-    - religion: mahayana
-      estate: peasant
-      size: 1000
 220.1.1:
   owner: PUZH
   controller: PUZH
@@ -16,9 +14,9 @@
     SATA: no
     PUZH: yes
 240.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    kannadiga-mahayana: 0
+    kannadiga-jain: 1
 275.1.1:
   owner: PALL
   controller: PALL
@@ -56,9 +54,9 @@
     CHAL: no
     HSL: yes
 1220.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    kannadiga-jain: 0
+    kannadiga-hindu: 1
 1325.1.1:
   owner: DLH
   controller: DLH

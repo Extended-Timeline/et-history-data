@@ -1,29 +1,26 @@
 #imported from EU4 file: history/provinces/2527 - Chickamauga.txt
 2.1.1:
+  pops: 
+    muscogee_culture-iroquoian_totemism: 1
   cores:
     ???: yes
   resource: fur
-  pops:
-    - religion: iroquoian_totemism
-      estate: peasant
-      size: 1000
 1650.1.1:
+  pops: 
+    muscogee_culture-iroquoian_totemism: 0
+    cherokee_culture-iroquoian_totemism: 1
   owner: CHRK
   controller: CHRK
   cores:
     CHRK: yes
-  pops:
-    - estate: peasant
-      size: 1000
 1791.7.2:
+  pops: 
+    cherokee_culture-iroquoian_totemism: 0
+    british_louisianan-lutheran: 1
   owner: USA
   controller: USA
   cores:
     USA: yes
-  pops:
-    - religion: lutheran
-      estate: peasant
-      size: 1000
 1861.5.7:
   owner: CSAM
   controller: CSAM

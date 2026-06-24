@@ -1,15 +1,13 @@
 #imported from EU4 file: history/provinces/2093 - Malwa.txt
 2.1.1:
+  pops: 
+    malvi-hindu: 1
   owner: WSAT
   controller: WSAT
   cores:
     WSAT: yes
     MLW: yes
   resource: spices
-  pops:
-    - religion: hindu
-      estate: peasant
-      size: 1000
 405.1.1:
   owner: GUPT
   controller: GUPT

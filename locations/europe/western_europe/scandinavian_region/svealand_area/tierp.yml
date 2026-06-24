@@ -1,9 +1,7 @@
 #imported from EU4 file: history/provinces/1 - Uppland.txt
 2.1.1:
-  pops:
-    - religion: norse
-      estate: peasant
-      size: 1000
+  pops: 
+    swedish-norse: 1
 350.1.1:
   owner: SVEA
   controller: SVEA
@@ -11,9 +9,9 @@
     SVEA: yes
   resource: grain
 960.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    swedish-norse: 0
+    swedish-catholic: 1
 970.1.1:
   owner: SWE
   controller: SWE
@@ -31,9 +29,9 @@
 1502.5.9:
   controller: SWE
 1527.6.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    swedish-catholic: 0
+    swedish-lutheran: 1
 1598.8.12:
   controller: PLC
 1598.12.15:
@@ -41,6 +39,3 @@
 1970.1.1:
   resource: electronics
 2020.1.1:
-  pops:
-    - estate: peasant
-      size: 1000

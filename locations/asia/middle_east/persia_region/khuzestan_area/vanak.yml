@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/4342 - Malamir.txt
 2.1.1:
+  pops: 
+    lur_culture-zoroastrian: 1
   owner: ELYM
   controller: ELYM
   cores:
     ELYM: yes
   resource: wool
-  pops:
-    - religion: zoroastrian
-      estate: peasant
-      size: 1000
 222.1.1:
   owner: ERA
   controller: ERA
@@ -27,9 +25,9 @@
     RASH: no
     UMAY: yes
 680.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    lur_culture-zoroastrian: 0
+    lur_culture-sunni: 1
 750.8.6:
   owner: ABBA
   controller: ABBA
@@ -79,9 +77,9 @@
     SHB: no
     IDAJ: yes
 1280.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    lur_culture-sunni: 0
+    lur_culture-shia: 1
 1424.1.1:
   owner: TIM
   controller: TIM

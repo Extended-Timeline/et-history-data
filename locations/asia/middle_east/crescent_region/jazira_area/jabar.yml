@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/407 - Dayr Az Zor.txt
 2.1.1:
+  pops: 
+    syriac_culture-ashurism: 1
   owner: OSRO
   controller: OSRO
   cores:
     OSRO: yes
   resource: livestock
-  pops:
-    - religion: ashurism
-      estate: peasant
-      size: 1000
 91.1.1:
   owner: ARM
   controller: ARM
@@ -20,9 +18,9 @@
   cores:
     ARM: no
 110.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    syriac_culture-ashurism: 0
+    syriac_culture-zoroastrian: 1
 116.1.1:
   owner: ROM
   controller: ROM
@@ -34,9 +32,9 @@
   cores:
     ROM: no
 179.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    syriac_culture-zoroastrian: 0
+    syriac_culture-chalcedonism: 1
 244.1.1:
   owner: ROM
   controller: ROM
@@ -57,9 +55,9 @@
     ROM: no
     BYZ: yes
 512.11.16:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    syriac_culture-chalcedonism: 0
+    syriac_culture-miaphysite: 1
 613.1.1:
   controller: ERA
 627.1.1:
@@ -89,10 +87,9 @@
     ABBA: no
     MOSU: yes
 920.1.1:
-  pops:
-    - religion: shia
-      estate: peasant
-      size: 1000
+  pops: 
+    syriac_culture-miaphysite: 0
+    levantine_culture-shia: 1
 945.1.1:
   owner: SYRI
   controller: SYRI
@@ -121,9 +118,9 @@
   cores:
     SELJ: yes
 1100.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    levantine_culture-shia: 0
+    levantine_culture-sunni: 1
 1127.1.1:
   owner: MOSU
   controller: MOSU
@@ -213,13 +210,13 @@
   cores:
     AIA: no
 2013.4.8:
+  pops: 
+    levantine_culture-sunni: 0
+    iraqi_culture-sunni: 1
   cores:
     ISIS: yes
-  pops:
-    - estate: peasant
-      size: 1000
 2017.9.21:
+  pops: 
+    iraqi_culture-sunni: 0
+    levantine_culture-sunni: 1
   controller: SYRI
-  pops:
-    - estate: peasant
-      size: 1000

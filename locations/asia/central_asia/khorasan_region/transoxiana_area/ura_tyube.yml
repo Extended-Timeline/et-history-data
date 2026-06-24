@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/1967 - Khujand.txt
 2.1.1:
+  pops: 
+    sogdian-zoroastrian: 1
   owner: KAGJ
   controller: KAGJ
   cores:
     KAGJ: yes
   resource: silk
-  pops:
-    - religion: zoroastrian
-      estate: peasant
-      size: 1000
 320.1.1:
   owner: KIDA
   controller: KIDA
@@ -51,9 +49,9 @@
     UMAY: no
     ABBA: yes
 800.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    sogdian-zoroastrian: 0
+    tajik_culture-zoroastrian: 1
 819.1.1:
   owner: KOKA
   controller: KOKA
@@ -66,9 +64,9 @@
   cores:
     BUKH: yes
 950.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    tajik_culture-zoroastrian: 0
+    tajik_culture-sunni: 1
 992.1.1:
   owner: KKHA
   controller: KKHA

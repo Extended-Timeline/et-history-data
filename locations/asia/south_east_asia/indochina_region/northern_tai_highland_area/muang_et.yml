@@ -1,28 +1,26 @@
 #imported from EU4 file: history/provinces/1844 - Xiankhouang.txt
 2.1.1:
+  pops: 
+    khmu_culture-satsana_phi: 1
   resource: grain
-  pops:
-    - religion: satsana_phi
-      estate: peasant
-      size: 1000
 620.1.1:
+  pops: 
+    khmu_culture-satsana_phi: 0
+    lao_culture-satsana_phi: 1
   owner: MPHU
   controller: MPHU
   cores:
     MPHU: yes
   resource: grain
-  pops:
-    - estate: peasant
-      size: 1000
 1295.1.1:
   owner: LUPR
   controller: LUPR
   cores:
     LUPR: yes
 1300.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    lao_culture-satsana_phi: 0
+    lao_culture-theravada: 1
 1354.1.1:
   owner: MPHU
   controller: MPHU

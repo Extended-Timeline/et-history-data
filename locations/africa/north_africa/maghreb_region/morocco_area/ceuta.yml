@@ -1,18 +1,16 @@
 #imported from EU4 file: history/provinces/1751 - Ceuta.txt
 2.1.1:
+  pops: 
+    zenati-bantu_religion: 1
   owner: ROM
   controller: ROM
   cores:
     ROM: yes
   resource: fish
-  pops:
-    - religion: bantu_religion
-      estate: peasant
-      size: 1000
 320.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    zenati-bantu_religion: 0
+    zenati-chalcedonism: 1
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -38,9 +36,9 @@
     BYZ: no
     UMAY: yes
 715.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    zenati-chalcedonism: 0
+    zenati-sunni: 1
 743.1.1:
   owner: NEKO
   controller: NEKO
@@ -54,9 +52,9 @@
     NEKO: no
     MOR: yes
 790.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    zenati-sunni: 0
+    moroccan-sunni: 1
 922.1.1:
   owner: FATI
   controller: FATI
@@ -100,9 +98,9 @@
 1415.9.1:
   owner: POR
 1500.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    moroccan-sunni: 0
+    moroccan-catholic: 1
 1640.1.1:
   owner: SPA
   controller: SPA

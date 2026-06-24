@@ -1,41 +1,39 @@
 #imported from EU4 file: history/provinces/4288 - Shatt.txt
 2.1.1:
+  pops: 
+    iraqi_culture-hellenism_religion: 1
   owner: CHRC
   controller: CHRC
   cores:
     CHRC: yes
   resource: spices
-  pops:
-    - religion: hellenism_religion
-      estate: peasant
-      size: 1000
 116.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    iraqi_culture-hellenism_religion: 0
+    iraqi_culture-zoroastrian: 1
 222.1.1:
   owner: ERA
   controller: ERA
   cores:
     ERA: yes
 639.1.1:
+  pops: 
+    iraqi_culture-zoroastrian: 0
+    iraqi_culture-islam: 1
   owner: RASH
   controller: RASH
   cores:
     ERA: no
     RASH: yes
-  pops:
-    - estate: peasant
-      size: 1000
 661.7.28:
+  pops: 
+    iraqi_culture-islam: 0
+    iraqi_culture-sunni: 1
   owner: UMAY
   controller: UMAY
   cores:
     RASH: no
     UMAY: yes
-  pops:
-    - estate: peasant
-      size: 1000
 750.8.6:
   owner: ABBA
   controller: ABBA
@@ -114,14 +112,14 @@
     QAKO: no
     MUSH: yes
 1508.1.1:
+  pops: 
+    iraqi_culture-sunni: 0
+    iraqi_culture-shia: 1
   owner: IRA
   controller: IRA
   cores:
     AKQO: no
     IRA: yes
-  pops:
-    - estate: peasant
-      size: 1000
 1538.1.1:
   owner: TUR
   controller: TUR

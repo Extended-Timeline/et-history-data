@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/4292 - Mardin.txt
 2.1.1:
+  pops: 
+    assyrian-ashurism: 1
   owner: OSRO
   controller: OSRO
   cores:
     OSRO: yes
   resource: wool
-  pops:
-    - religion: ashurism
-      estate: peasant
-      size: 1000
 91.1.1:
   owner: ARM
   controller: ARM
@@ -20,9 +18,9 @@
   cores:
     ARM: no
 110.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    assyrian-ashurism: 0
+    assyrian-zoroastrian: 1
 116.1.1:
   owner: ROM
   controller: ROM
@@ -34,9 +32,9 @@
   cores:
     ROM: no
 179.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    assyrian-zoroastrian: 0
+    assyrian-chalcedonism: 1
 244.1.1:
   owner: ROM
   controller: ROM
@@ -57,9 +55,9 @@
     ROM: no
     BYZ: yes
 431.7.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    assyrian-chalcedonism: 0
+    assyrian-nestorianism: 1
 613.1.1:
   controller: ERA
 627.1.1:
@@ -150,10 +148,9 @@
   cores:
     IRA: no
 1915.1.1:
-  pops:
-    - religion: sunni
-      estate: peasant
-      size: 1000
+  pops: 
+    assyrian-nestorianism: 0
+    kurdish_culture-sunni: 1
 1920.3.8:
   owner: SYRI
   controller: SYRI

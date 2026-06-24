@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/4296 - Bitlis.txt
 2.1.1:
+  pops: 
+    kurdish_culture-ashurism: 1
   owner: CORD
   controller: CORD
   cores:
     CORD: yes
   resource: wool
-  pops:
-    - religion: ashurism
-      estate: peasant
-      size: 1000
 130.1.1:
   owner: ROM
   controller: ROM
@@ -27,9 +25,9 @@
     ERA: no
     ROM: yes
 360.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    kurdish_culture-ashurism: 0
+    kurdish_culture-chalcedonism: 1
 384.1.1:
   owner: ARM
   controller: ARM
@@ -43,9 +41,9 @@
     ARM: no
     ERA: yes
 431.7.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    kurdish_culture-chalcedonism: 0
+    kurdish_culture-nestorianism: 1
 637.1.1:
   owner: RASH
   controller: RASH
@@ -65,9 +63,9 @@
     UMAY: no
     ABBA: yes
 780.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    kurdish_culture-nestorianism: 0
+    kurdish_culture-sunni: 1
 885.1.1:
   owner: ARM
   controller: ARM

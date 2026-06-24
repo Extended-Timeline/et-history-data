@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/2676 - Indragiri.txt
 2.1.1:
+  pops: 
+    malay_culture-mahayana: 1
   owner: KADS
   controller: KADS
   cores:
     KADS: yes
   resource: copper
-  pops:
-    - religion: mahayana
-      estate: peasant
-      size: 1000
 200.1.1:
   owner: JMB
   controller: JMB
@@ -49,9 +47,9 @@
     SING: no
     MAJ: yes
 1300.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    malay_culture-mahayana: 0
+    malay_culture-sunni: 1
 1389.1.1:
   owner: SIAK
   controller: SIAK

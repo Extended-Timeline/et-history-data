@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/4711 - Donauworth.txt
 2.1.1:
+  pops: 
+    swabian-germanic: 1
   owner: VARI
   controller: VARI
   cores:
     VARI: yes
   resource: grain
-  pops:
-    - religion: germanic_polytheism
-      estate: peasant
-      size: 1000
 75.1.1:
   owner: ROM
   controller: ROM
@@ -21,13 +19,13 @@
     ROM: no
     ALEM: yes
 380.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    swabian-germanic: 0
+    swabian-chalcedonism: 1
 450.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    swabian-chalcedonism: 0
+    southern_bavarian-chalcedonism: 1
 555.1.1:
   owner: BAV
   controller: BAV
@@ -47,9 +45,9 @@
     FRAN: no
     BAV: yes
 867.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    southern_bavarian-chalcedonism: 0
+    southern_bavarian-catholic: 1
 880.3.22:
   owner: EFRA
   controller: EFRA

@@ -1,23 +1,21 @@
 #imported from EU4 file: history/provinces/4523 - Inowroclaw.txt
 2.1.1:
+  pops: 
+    scirian-germanic: 1
   owner: SCIR
   controller: SCIR
   cores:
     SCIR: yes
   resource: livestock
-  pops:
-    - religion: germanic_polytheism
-      estate: peasant
-      size: 1000
 140.1.1:
+  pops: 
+    scirian-germanic: 0
+    western_pomeranian-germanic: 1
   owner: RUGI
   controller: RUGI
   cores:
     SCIR: no
     RUGI: yes
-  pops:
-    - estate: peasant
-      size: 1000
 150.1.1:
   owner: LEMO
   controller: LEMO
@@ -25,19 +23,18 @@
     RUGI: no
     LEMO: yes
 500.1.1:
+  pops: 
+    western_pomeranian-germanic: 0
+    lesser_polish-slavic: 1
   owner: POL
   controller: POL
   cores:
     LEMO: no
     POL: yes
-  pops:
-    - religion: slavic_polytheism
-      estate: peasant
-      size: 1000
 966.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    lesser_polish-slavic: 0
+    lesser_polish-catholic: 1
 1231.11.3:
   owner: MAZ
   controller: MAZ

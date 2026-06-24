@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/12 - Sjaelland.txt
 2.1.1:
+  pops: 
+    danish-norse: 1
   owner: HERU
   controller: HERU
   cores:
     HERU: yes
   resource: fish
-  pops:
-    - religion: norse
-      estate: peasant
-      size: 1000
 340.1.1:
   owner: DAN
   controller: DAN
@@ -16,13 +14,13 @@
     HERU: no
     DAN: yes
 960.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    danish-norse: 0
+    danish-catholic: 1
 1536.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    danish-catholic: 0
+    danish-lutheran: 1
 1536.7.28:
   controller: DAN
 1940.4.9:

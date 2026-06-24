@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/2077 - Margalla.txt
 2.1.1:
+  pops: 
+    punjabi-mahayana: 1
   owner: GAND
   controller: GAND
   cores:
     GAND: yes
   resource: iron
-  pops:
-    - religion: mahayana
-      estate: peasant
-      size: 1000
 10.1.1:
   owner: IPAR
   controller: IPAR
@@ -21,9 +19,9 @@
     IPAR: no
     KUSH: yes
 300.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    punjabi-mahayana: 0
+    punjabi-hindu: 1
 375.1.1:
   owner: KIDA
   controller: KIDA
@@ -107,9 +105,9 @@
     TIM: no
     MUG: yes
 1540.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    punjabi-hindu: 0
+    punjabi-sikhism: 1
 1544.1.1:
   owner: BNG
   controller: BNG
@@ -153,9 +151,9 @@
   cores:
     GBR: yes
 1880.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    punjabi-sikhism: 0
+    punjabi-sunni: 1
 1930.12.29:
   cores:
     PUN: no

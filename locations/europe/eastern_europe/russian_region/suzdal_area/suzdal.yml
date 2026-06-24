@@ -1,9 +1,7 @@
 #imported from EU4 file: history/provinces/1956 - Suzdal.txt
 2.1.1:
-  pops:
-    - religion: muinaisusko
-      estate: peasant
-      size: 1000
+  pops: 
+    muromian-muinaisusko: 1
 600.1.1:
   owner: MRM
   controller: MRM
@@ -11,14 +9,14 @@
     MRM: yes
   resource: grain
 720.1.1:
+  pops: 
+    muromian-muinaisusko: 0
+    merya_culture-muinaisusko: 1
   owner: MERY
   controller: MERY
   cores:
     MRM: no
     MERY: yes
-  pops:
-    - estate: peasant
-      size: 1000
 999.1.1:
   owner: KIEV
   controller: KIEV
@@ -26,9 +24,9 @@
     MERY: no
     KIEV: yes
 1040.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    merya_culture-muinaisusko: 0
+    merya_culture-orthodox: 1
 1054.2.20:
   owner: VLR
   controller: VLR
@@ -36,9 +34,9 @@
     KIEV: no
     VLR: yes
 1060.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    merya_culture-orthodox: 0
+    muscovite-orthodox: 1
 1389.1.1:
   owner: NZH
   controller: NZH

@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/4503 - Mansura.txt
 2.1.1:
+  pops: 
+    sindhi-mahayana: 1
   owner: SND
   controller: SND
   cores:
     SND: yes
   resource: cloth
-  pops:
-    - religion: mahayana
-      estate: peasant
-      size: 1000
 76.1.1:
   owner: KUSH
   controller: KUSH
@@ -20,9 +18,9 @@
   cores:
     KUSH: no
 632.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    sindhi-mahayana: 0
+    sindhi-hindu: 1
 711.1.1:
   owner: UMAY
   controller: UMAY
@@ -41,26 +39,26 @@
     ABBA: no
     SND: yes
 1000.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    sindhi-hindu: 0
+    sindhi-sunni: 1
 1024.1.1:
   owner: GHAZ
   controller: GHAZ
   cores:
     GHAZ: yes
 1026.1.1:
+  pops: 
+    sindhi-sunni: 0
+    sindhi-shia: 1
   owner: SND
   controller: SND
   cores:
     GHAZ: no
-  pops:
-    - estate: peasant
-      size: 1000
 1360.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    sindhi-shia: 0
+    sindhi-sunni: 1
 1544.1.1:
   owner: BNG
   controller: BNG
@@ -83,9 +81,9 @@
   cores:
     GBR: yes
 1850.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    sindhi-sunni: 0
+    sindhi-shia: 1
 1930.12.29:
   cores:
     PAKI: yes

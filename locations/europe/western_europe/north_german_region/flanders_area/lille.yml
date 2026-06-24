@@ -1,31 +1,29 @@
 #imported from EU4 file: history/provinces/4769 - Lille.txt
 2.1.1:
+  pops: 
+    belgae-druidism: 1
   owner: ROM
   controller: ROM
   cores:
     ROM: yes
   resource: cloth
-  pops:
-    - religion: druidism
-      estate: peasant
-      size: 1000
 260.1.1:
+  pops: 
+    belgae-druidism: 0
+    gallian-druidism: 1
   cores:
     GALL: yes
-  pops:
-    - estate: peasant
-      size: 1000
 274.1.1:
+  pops: 
+    gallian-druidism: 0
+    belgae-druidism: 1
   controller: ROM
   cores:
     GALL: no
-  pops:
-    - estate: peasant
-      size: 1000
 380.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    belgae-druidism: 0
+    belgae-chalcedonism: 1
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -39,9 +37,9 @@
     ROMW: no
     FRAN: yes
 486.6.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    belgae-chalcedonism: 0
+    walloon-chalcedonism: 1
 511.11.27:
   owner: SOIS
   controller: SOIS
@@ -79,9 +77,9 @@
     FRAN: no
     WFRA: yes
 867.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    walloon-chalcedonism: 0
+    walloon-catholic: 1
 898.1.1:
   owner: FLA
   controller: FLA
@@ -121,13 +119,13 @@
   cores:
     NED: yes
 1555.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    walloon-catholic: 0
+    walloon-calvinist: 1
 1582.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    walloon-calvinist: 0
+    walloon-catholic: 1
 1648.1.30:
   cores:
     NED: no

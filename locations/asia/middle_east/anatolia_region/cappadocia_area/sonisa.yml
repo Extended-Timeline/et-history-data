@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/4315 - Tokat.txt
 2.1.1:
+  pops: 
+    pontic_greek_culture-hellenism_religion: 1
   owner: PONT
   controller: PONT
   cores:
     PONT: yes
   resource: cloth
-  pops:
-    - religion: hellenism_religion
-      estate: peasant
-      size: 1000
 62.1.1:
   owner: ROM
   controller: ROM
@@ -18,9 +16,9 @@
   cores:
     PONT: no
 360.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    pontic_greek_culture-hellenism_religion: 0
+    pontic_greek_culture-chalcedonism: 1
 395.1.17:
   owner: BYZ
   controller: BYZ
@@ -32,23 +30,23 @@
 626.1.1:
   controller: BYZ
 867.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    pontic_greek_culture-chalcedonism: 0
+    pontic_greek_culture-orthodox: 1
 1071.8.26:
+  pops: 
+    pontic_greek_culture-orthodox: 0
+    turkish_culture-orthodox: 1
   owner: DANI
   controller: DANI
   cores:
     DANI: yes
-  pops:
-    - estate: peasant
-      size: 1000
 1090.1.1:
+  pops: 
+    turkish_culture-orthodox: 0
+    turkish_culture-sunni: 1
   cores:
     BYZ: no
-  pops:
-    - estate: peasant
-      size: 1000
 1178.1.1:
   owner: RUM
   controller: RUM

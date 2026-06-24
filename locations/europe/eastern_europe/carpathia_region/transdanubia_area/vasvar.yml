@@ -1,18 +1,16 @@
 #imported from EU4 file: history/provinces/135 - Sopron.txt
 2.1.1:
+  pops: 
+    pannonian-druidism: 1
   owner: ROM
   controller: ROM
   cores:
     ROM: yes
   resource: grain
-  pops:
-    - religion: druidism
-      estate: peasant
-      size: 1000
 380.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    pannonian-druidism: 0
+    pannonian-chalcedonism: 1
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -20,10 +18,9 @@
     ROM: no
     ROMW: yes
 420.1.1:
-  pops:
-    - religion: germanic_polytheism
-      estate: peasant
-      size: 1000
+  pops: 
+    pannonian-chalcedonism: 0
+    danube_bavarian-germanic: 1
 447.1.1:
   owner: OSTR
   controller: OSTR
@@ -37,22 +34,22 @@
     OSTR: no
     GEPI: yes
 540.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    danube_bavarian-germanic: 0
+    danube_bavarian-arianism: 1
 567.1.1:
+  pops: 
+    danube_bavarian-arianism: 0
+    avar_culture-arianism: 1
   owner: AVR
   controller: AVR
   cores:
     GEPI: no
     AVR: yes
-  pops:
-    - estate: peasant
-      size: 1000
 570.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    avar_culture-arianism: 0
+    avar_culture-: 1
 846.1.1:
   owner: PANO
   controller: PANO
@@ -60,22 +57,21 @@
     AVR: no
     PANO: yes
 850.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    avar_culture-chalcedonism: 1
 867.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    avar_culture-chalcedonism: 0
+    avar_culture-catholic: 1
 897.1.1:
+  pops: 
+    avar_culture-catholic: 0
+    hungarian-catholic: 1
   owner: HUN
   controller: HUN
   cores:
     PANO: no
     HUN: yes
-  pops:
-    - estate: peasant
-      size: 1000
 1507.1.1:
   controller: HUN
 1515.1.1:
@@ -86,13 +82,13 @@
   cores:
     HAB: yes
 1545.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    hungarian-catholic: 0
+    hungarian-lutheran: 1
 1580.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    hungarian-lutheran: 0
+    hungarian-catholic: 1
 1594.9.29:
   controller: TUR
 1598.3.28:

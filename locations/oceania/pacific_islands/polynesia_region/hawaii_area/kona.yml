@@ -1,9 +1,7 @@
 #imported from EU4 file: history/provinces/1240 - Hawaii.txt
 2.1.1:
-  pops:
-    - religion: bimoism
-      estate: peasant
-      size: 1000
+  pops: 
+    maohi_culture-bimoism: 1
 1060.1.1:
   owner: HAW
   controller: HAW
@@ -17,15 +15,12 @@
   owner: HAW
   controller: HAW
 1862.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    maohi_culture-bimoism: 0
+    maohi_culture-lutheran: 1
 1898.7.4:
   owner: USA
   controller: USA
   cores:
     USA: yes
 1920.1.1:
-  pops:
-    - estate: peasant
-      size: 1000

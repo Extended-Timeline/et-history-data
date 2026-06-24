@@ -1,24 +1,20 @@
 #imported from EU4 file: history/provinces/1998 - Christmas Island.txt
 2.1.1:
-  pops:
-    - religion: bimoism
-      estate: peasant
-      size: 1000
+  pops: 
+    uninhabited-bimoism: 1
 1888.6.6:
+  pops: 
+    uninhabited-bimoism: 0
+    english-lutheran: 1
   owner: GBR
   controller: GBR
   cores:
     GBR: yes
-  pops:
-    - religion: lutheran
-      estate: peasant
-      size: 1000
 1920.1.1:
+  pops: 
+    english-lutheran: 0
+    yan_culture-mahayana: 1
   resource: fish
-  pops:
-    - religion: mahayana
-      estate: peasant
-      size: 1000
 1942.1.20:
   controller: JAP
 1945.10.1:

@@ -1,9 +1,7 @@
 #imported from EU4 file: history/provinces/1169 - Mayombe.txt
 2.1.1:
-  pops:
-    - religion: bantu_religion
-      estate: peasant
-      size: 1000
+  pops: 
+    kongo-bantu_religion: 1
 1350.1.1:
   cores:
     ???: yes
@@ -19,9 +17,9 @@
   cores:
     FRA: yes
 1900.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    kongo-bantu_religion: 0
+    kongo-catholic: 1
 1960.8.15:
   owner: CONG
   controller: CONG

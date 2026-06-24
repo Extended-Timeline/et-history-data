@@ -1,9 +1,7 @@
 #imported from EU4 file: history/provinces/2758 - Illubabor.txt
 2.1.1:
-  pops:
-    - religion: bantu_religion
-      estate: peasant
-      size: 1000
+  pops: 
+    sidama_culture-bantu_religion: 1
 1180.1.1:
   owner: ENN
   controller: ENN
@@ -11,13 +9,13 @@
     ENN: yes
   resource: slaves
 1510.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    sidama_culture-bantu_religion: 0
+    sidama_culture-miaphysite: 1
 1650.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    sidama_culture-miaphysite: 0
+    oromo_culture-miaphysite: 1
 1710.1.1:
   owner: ETH
   controller: ETH

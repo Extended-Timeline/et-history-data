@@ -1,24 +1,21 @@
 #imported from EU4 file: history/provinces/2960 - Nowy Sacz.txt
 2.1.1:
+  pops: 
+    quadian-germanic: 1
   owner: QUAD
   controller: QUAD
   cores:
     QUAD: yes
   resource: iron
-  pops:
-    - religion: germanic_polytheism
-      estate: peasant
-      size: 1000
 550.1.1:
+  pops: 
+    quadian-germanic: 0
+    lesser_polish-slavic: 1
   owner: VIST
   controller: VIST
   cores:
     QUAD: no
     VIST: yes
-  pops:
-    - religion: slavic_polytheism
-      estate: peasant
-      size: 1000
 870.1.1:
   owner: MVA
   controller: MVA
@@ -35,13 +32,13 @@
   cores:
     POL: yes
 980.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    lesser_polish-slavic: 0
+    lesser_polish-catholic: 1
 1558.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    lesser_polish-catholic: 0
+    lesser_polish-lutheran: 1
 1569.7.1:
   owner: PLC
   controller: PLC
@@ -51,9 +48,9 @@
 1589.1.1:
   controller: PLC
 1658.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    lesser_polish-lutheran: 0
+    lesser_polish-catholic: 1
 1735.1.1:
   controller: PLC
 1772.8.5:

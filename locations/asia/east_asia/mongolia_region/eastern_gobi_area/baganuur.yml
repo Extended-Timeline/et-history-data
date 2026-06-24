@@ -1,15 +1,13 @@
 #imported from EU4 file: history/provinces/4671 - Kalgan.txt
 2.1.1:
+  pops: 
+    khitan-: 1
   owner: XION
   controller: XION
   cores:
     XION: yes
     XIAN: yes
   resource: livestock
-  pops:
-    - religion: 
-      estate: peasant
-      size: 1000
 46.1.1:
   owner: XIAN
   controller: XIAN
@@ -46,9 +44,8 @@
     KHIT: no
     LIAO: yes
 1120.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    chahar-: 1
 1125.1.1:
   owner: TATA
   controller: TATA
@@ -62,9 +59,8 @@
     TATA: no
     MGE: yes
 1265.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    chahar-tibetan_buddhism: 1
 1271.1.1:
   owner: YUA
   controller: YUA
@@ -111,6 +107,3 @@
   cores:
     MENG: no
 1950.1.1:
-  pops:
-    - estate: peasant
-      size: 1000

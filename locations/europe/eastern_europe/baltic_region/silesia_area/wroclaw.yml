@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/264 - Breslau.txt
 2.1.1:
+  pops: 
+    vandal-germanic: 1
   owner: VAND
   controller: VAND
   cores:
     VAND: yes
   resource: cloth
-  pops:
-    - religion: germanic_polytheism
-      estate: peasant
-      size: 1000
 395.1.1:
   owner: NAHA
   controller: NAHA
@@ -16,15 +14,14 @@
     VAND: no
     NAHA: yes
 500.1.1:
+  pops: 
+    vandal-germanic: 0
+    silesian-slavic: 1
   owner: SIL
   controller: SIL
   cores:
     NAHA: no
     SIL: yes
-  pops:
-    - religion: slavic_polytheism
-      estate: peasant
-      size: 1000
 940.1.1:
   owner: BOH
   controller: BOH
@@ -37,9 +34,9 @@
     BOH: no
     POL: yes
 1020.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    silesian-slavic: 0
+    silesian-catholic: 1
 1039.1.1:
   owner: BOH
   controller: BOH
@@ -78,9 +75,9 @@
   cores:
     BOH: yes
 1340.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    silesian-catholic: 0
+    german_silesian-catholic: 1
 1470.1.1:
   resource: paper
 1526.8.30:
@@ -116,15 +113,12 @@
 1945.5.6:
   controller: SOVI
 1945.5.8:
+  pops: 
+    german_silesian-catholic: 0
+    lesser_polish-catholic: 1
   owner: POL
   controller: POL
   cores:
     GER: no
     POL: yes
-  pops:
-    - estate: peasant
-      size: 1000
 1950.1.1:
-  pops:
-    - estate: peasant
-      size: 1000

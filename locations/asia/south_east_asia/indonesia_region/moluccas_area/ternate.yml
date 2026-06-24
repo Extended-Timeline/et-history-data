@@ -1,9 +1,7 @@
 #imported from EU4 file: history/provinces/649 - Ternate.txt
 2.1.1:
-  pops:
-    - religion: bimoism
-      estate: peasant
-      size: 1000
+  pops: 
+    asmat_culture-bimoism: 1
 1257.1.1:
   owner: TER
   controller: TER
@@ -11,9 +9,9 @@
     TER: yes
   resource: cloves
 1486.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    asmat_culture-bimoism: 0
+    asmat_culture-sunni: 1
 1799.12.31:
   owner: NED
   controller: NED

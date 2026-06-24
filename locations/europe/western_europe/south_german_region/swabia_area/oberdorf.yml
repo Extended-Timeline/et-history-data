@@ -1,18 +1,16 @@
 #imported from EU4 file: history/provinces/1868 - Augsburg.txt
 2.1.1:
+  pops: 
+    southern_bavarian-hellenism_religion: 1
   owner: ROM
   controller: ROM
   cores:
     ROM: yes
   resource: cloth
-  pops:
-    - religion: hellenism_religion
-      estate: peasant
-      size: 1000
 320.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    southern_bavarian-hellenism_religion: 0
+    southern_bavarian-chalcedonism: 1
 350.1.1:
   owner: ALEM
   controller: ALEM
@@ -26,9 +24,6 @@
     ALEM: no
     BAV: yes
 600.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
 788.1.1:
   owner: FRAN
   controller: FRAN
@@ -42,9 +37,9 @@
     FRAN: no
     BAV: yes
 867.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    southern_bavarian-chalcedonism: 0
+    southern_bavarian-catholic: 1
 880.3.22:
   owner: EFRA
   controller: EFRA

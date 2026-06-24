@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/4480 - Manikantha.txt
 2.1.1:
+  pops: 
+    saurashtri-hindu: 1
   owner: WSAT
   controller: WSAT
   cores:
     WSAT: yes
   resource: cloth
-  pops:
-    - religion: hindu
-      estate: peasant
-      size: 1000
 405.1.1:
   owner: GUPT
   controller: GUPT
@@ -45,13 +43,13 @@
     MLW: no
     GUJ: yes
 1150.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    saurashtri-hindu: 0
+    saurashtri-jain: 1
 1171.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    saurashtri-jain: 0
+    saurashtri-hindu: 1
 1257.1.1:
   owner: IDR
   controller: IDR

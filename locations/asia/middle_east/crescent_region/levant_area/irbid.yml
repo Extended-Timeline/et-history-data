@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/381 - Hawran.txt
 2.1.1:
+  pops: 
+    nabataean_culture-nabataean: 1
   owner: NABA
   controller: NABA
   cores:
     NABA: yes
   resource: grain
-  pops:
-    - religion: nabataean_religion
-      estate: peasant
-      size: 1000
 106.6.1:
   owner: ROM
   controller: ROM
@@ -16,26 +14,26 @@
     NABA: no
     ROM: yes
 120.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    nabataean_culture-nabataean: 0
+    nabataean_culture-hellenism_religion: 1
 269.1.1:
+  pops: 
+    nabataean_culture-hellenism_religion: 0
+    syriac_culture-hellenism_religion: 1
   cores:
     PALM: yes
-  pops:
-    - estate: peasant
-      size: 1000
 272.1.1:
+  pops: 
+    syriac_culture-hellenism_religion: 0
+    najdi_culture-hellenism_religion: 1
   controller: ROM
   cores:
     PALM: no
-  pops:
-    - estate: peasant
-      size: 1000
 320.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    najdi_culture-hellenism_religion: 0
+    najdi_culture-chalcedonism: 1
 395.1.17:
   owner: BYZ
   controller: BYZ
@@ -59,10 +57,9 @@
     RASH: no
     UMAY: yes
 670.1.1:
-  pops:
-    - religion: sunni
-      estate: peasant
-      size: 1000
+  pops: 
+    najdi_culture-chalcedonism: 0
+    palestinian-sunni: 1
 750.8.6:
   owner: ABBA
   controller: ABBA

@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/561 - Bengal Delta.txt
 2.1.1:
+  pops: 
+    bengali-mahayana: 1
   owner: VANG
   controller: VANG
   cores:
     VANG: yes
   resource: silk
-  pops:
-    - religion: mahayana
-      estate: peasant
-      size: 1000
 355.1.1:
   owner: GUPT
   controller: GUPT
@@ -39,9 +37,9 @@
   cores:
     GAUD: yes
 1080.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    bengali-mahayana: 0
+    bengali-hindu: 1
 1230.1.1:
   owner: SAMT
   controller: SAMT

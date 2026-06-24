@@ -1,18 +1,16 @@
 #imported from EU4 file: history/provinces/1813 - Saskatoon.txt
 2.1.1:
-  pops:
-    - religion: iroquoian_totemism
-      estate: peasant
-      size: 1000
+  pops: 
+    mahmikiwini_culture-iroquoian_totemism: 1
 1753.1.1:
+  pops: 
+    mahmikiwini_culture-iroquoian_totemism: 0
+    mahmikiwini_culture-catholic: 1
   owner: FRA
   controller: FRA
   cores:
     FRA: yes
   resource: fur
-  pops:
-    - estate: peasant
-      size: 1000
 1763.2.10:
   owner: GBR
   controller: GBR

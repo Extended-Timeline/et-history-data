@@ -1,22 +1,20 @@
 #imported from EU4 file: history/provinces/113 - Ferrara.txt
 2.1.1:
+  pops: 
+    etruscan-hellenism_religion: 1
   owner: ROM
   controller: ROM
   cores:
     ROM: yes
   resource: salt
-  pops:
-    - religion: hellenism_religion
-      estate: peasant
-      size: 1000
 250.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    etruscan-hellenism_religion: 0
+    roman-hellenism_religion: 1
 380.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    roman-hellenism_religion: 0
+    roman-chalcedonism: 1
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -32,29 +30,29 @@
   cores:
     ROMW: no
 489.1.1:
+  pops: 
+    roman-chalcedonism: 0
+    gothic-chalcedonism: 1
   owner: OSTR
   controller: OSTR
   cores:
     ITA: no
     OSTR: yes
-  pops:
-    - estate: peasant
-      size: 1000
 551.1.1:
   owner: BYZ
   controller: BYZ
   cores:
     BYZ: yes
 569.6.1:
+  pops: 
+    gothic-chalcedonism: 0
+    emilian-chalcedonism: 1
   owner: LOMB
   controller: LOMB
   cores:
     OSTR: no
     BYZ: no
     LOMB: yes
-  pops:
-    - estate: peasant
-      size: 1000
 774.1.1:
   owner: FRAN
   controller: FRAN
@@ -74,9 +72,9 @@
     LOMB: no
     ITA: yes
 867.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    emilian-chalcedonism: 0
+    emilian-catholic: 1
 962.2.2:
   owner: FER
   controller: FER

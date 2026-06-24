@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/4127 - Torda.txt
 2.1.1:
+  pops: 
+    dacian-zamolxism: 1
   owner: DACI
   controller: DACI
   cores:
     DACI: yes
   resource: salt
-  pops:
-    - religion: zamolxism
-      estate: peasant
-      size: 1000
 106.1.1:
   owner: ROM
   controller: ROM
@@ -18,18 +16,18 @@
   cores:
     DACI: no
 271.1.1:
+  pops: 
+    dacian-zamolxism: 0
+    dacian-germanic: 1
   owner: VISG
   controller: VISG
   cores:
     ROM: no
     VISG: yes
-  pops:
-    - estate: peasant
-      size: 1000
 360.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    dacian-germanic: 0
+    dacian-chalcedonism: 1
 376.1.1:
   owner: HUNS
   controller: HUNS
@@ -37,9 +35,9 @@
     VISG: no
     HUNS: yes
 450.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    dacian-chalcedonism: 0
+    wallachian-chalcedonism: 1
 469.1.1:
   owner: GEPI
   controller: GEPI
@@ -47,14 +45,14 @@
     HUNS: no
     GEPI: yes
 567.1.1:
+  pops: 
+    wallachian-chalcedonism: 0
+    wallachian-: 1
   owner: AVR
   controller: AVR
   cores:
     GEPI: no
     AVR: yes
-  pops:
-    - estate: peasant
-      size: 1000
 804.1.1:
   owner: BUL
   controller: BUL
@@ -73,9 +71,8 @@
   cores:
     HUN: yes
 1020.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    wallachian-catholic: 1
 1507.1.1:
   controller: HUN
 1514.10.1:
@@ -100,9 +97,9 @@
 1563.1.1:
   controller: TRA
 1567.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    wallachian-catholic: 0
+    wallachian-calvinist: 1
 1599.1.1:
   owner: WAL
   controller: WAL
@@ -151,6 +148,3 @@
   owner: RMN
   controller: RMN
 1950.1.1:
-  pops:
-    - estate: peasant
-      size: 1000

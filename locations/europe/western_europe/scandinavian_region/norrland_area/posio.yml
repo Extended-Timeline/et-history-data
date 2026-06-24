@@ -1,38 +1,36 @@
 #imported from EU4 file: history/provinces/4151 - Kainuu.txt
 2.1.1:
+  pops: 
+    karelian-muinaisusko: 1
   resource: fur
-  pops:
-    - religion: muinaisusko
-      estate: peasant
-      size: 1000
 750.1.1:
   owner: KRL
   controller: KRL
   cores:
     KRL: yes
 1250.1.1:
+  pops: 
+    karelian-muinaisusko: 0
+    sapmi-muinaisusko: 1
   owner: SMI
   controller: SMI
   cores:
     SMI: yes
-  pops:
-    - estate: peasant
-      size: 1000
 1348.1.1:
   owner: SWE
   controller: SWE
   cores:
     SWE: yes
 1400.1.1:
+  pops: 
+    sapmi-muinaisusko: 0
+    finnish-muinaisusko: 1
   cores:
     FIN: yes
-  pops:
-    - estate: peasant
-      size: 1000
 1527.6.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    finnish-muinaisusko: 0
+    finnish-lutheran: 1
 1598.8.1:
   controller: PLC
 1599.7.15:

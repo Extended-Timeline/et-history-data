@@ -1,23 +1,20 @@
 #imported from EU4 file: history/provinces/4864 - Yuat.txt
 2.1.1:
-  pops:
-    - religion: dreamtime_religion
-      estate: peasant
-      size: 1000
+  pops: 
+    noongar_culture-dreamtime_religion: 1
 1829.5.2:
+  pops: 
+    noongar_culture-dreamtime_religion: 0
+    english-lutheran: 1
   owner: GBR
   controller: GBR
   cores:
     GBR: yes
   resource: grain
-  pops:
-    - religion: lutheran
-      estate: peasant
-      size: 1000
 1860.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    english-lutheran: 0
+    british_australian-lutheran: 1
 1901.1.1:
   owner: AUST
   controller: AUST

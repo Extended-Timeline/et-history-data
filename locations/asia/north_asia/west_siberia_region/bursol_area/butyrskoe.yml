@@ -1,9 +1,7 @@
 #imported from EU4 file: history/provinces/2434 - Barnaul.txt
 2.1.1:
-  pops:
-    - religion: 
-      estate: peasant
-      size: 1000
+  pops: 
+    kyrgyz_culture-: 1
 1245.1.1:
   owner: MGE
   controller: MGE
@@ -29,12 +27,10 @@
     MGE: no
     OIR: yes
 1618.1.1:
+  pops: 
+    muscovite-orthodox: 1
   owner: RUS
   controller: RUS
-  pops:
-    - religion: orthodox
-      estate: peasant
-      size: 1000
 1623.1.1:
   cores:
     RUS: yes

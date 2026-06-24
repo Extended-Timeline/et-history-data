@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/4725 - Jindrichuv Hradec.txt
 2.1.1:
+  pops: 
+    southern_bavarian-germanic: 1
   owner: MARC
   controller: MARC
   cores:
     MARC: yes
   resource: grain
-  pops:
-    - religion: germanic_polytheism
-      estate: peasant
-      size: 1000
 454.1.1:
   owner: RUGI
   controller: RUGI
@@ -16,24 +14,23 @@
     MARC: no
     RUGI: yes
 467.1.1:
+  pops: 
+    southern_bavarian-germanic: 0
+    langobardi-germanic: 1
   owner: LOMB
   controller: LOMB
   cores:
     RUGI: no
     LOMB: yes
-  pops:
-    - estate: peasant
-      size: 1000
 569.1.1:
+  pops: 
+    langobardi-germanic: 0
+    czech-slavic: 1
   owner: MVA
   controller: MVA
   cores:
     LOMB: no
     MVA: yes
-  pops:
-    - religion: slavic_polytheism
-      estate: peasant
-      size: 1000
 623.1.1:
   owner: SAMO
   controller: SAMO
@@ -45,9 +42,9 @@
   cores:
     SAMO: no
 880.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    czech-slavic: 0
+    czech-catholic: 1
 894.1.1:
   owner: BOH
   controller: BOH

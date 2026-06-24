@@ -1,18 +1,16 @@
 #imported from EU4 file: history/provinces/219 - Toledo.txt
 2.1.1:
+  pops: 
+    celtiberian-druidism: 1
   owner: ROM
   controller: ROM
   cores:
     ROM: yes
   resource: iron
-  pops:
-    - religion: druidism
-      estate: peasant
-      size: 1000
 360.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    celtiberian-druidism: 0
+    celtiberian-chalcedonism: 1
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -20,13 +18,13 @@
     ROM: no
     ROMW: yes
 448.1.1:
+  pops: 
+    celtiberian-chalcedonism: 0
+    celtiberian-arianism: 1
   owner: SUEB
   controller: SUEB
   cores:
     SUEB: yes
-  pops:
-    - estate: peasant
-      size: 1000
 453.1.1:
   owner: ROMW
   controller: ROMW
@@ -46,9 +44,9 @@
   cores:
     ROMW: no
 580.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    celtiberian-arianism: 0
+    celtiberian-chalcedonism: 1
 711.1.1:
   owner: UMAY
   controller: UMAY
@@ -62,13 +60,13 @@
     UMAY: no
     CRDB: yes
 790.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    celtiberian-chalcedonism: 0
+    celtiberian-sunni: 1
 800.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    celtiberian-sunni: 0
+    andalusi-sunni: 1
 1011.1.1:
   owner: TOLE
   controller: TOLE
@@ -81,18 +79,18 @@
   owner: TOLE
   controller: TOLE
 1085.5.25:
+  pops: 
+    andalusi-sunni: 0
+    castilian-sunni: 1
   owner: CAS
   controller: CAS
   cores:
     TOLE: no
     CAS: yes
-  pops:
-    - estate: peasant
-      size: 1000
 1120.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    castilian-sunni: 0
+    castilian-catholic: 1
 1516.1.23:
   owner: SPA
   controller: SPA

@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/3212 - Jersey.txt
 2.1.1:
+  pops: 
+    gallian-druidism: 1
   owner: ROM
   controller: ROM
   cores:
     ROM: yes
   resource: fish
-  pops:
-    - religion: druidism
-      estate: peasant
-      size: 1000
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -16,9 +14,9 @@
     ROM: no
     ROMW: yes
 430.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    gallian-druidism: 0
+    breton-druidism: 1
 461.11.1:
   owner: SOIS
   controller: SOIS
@@ -39,9 +37,9 @@
   cores:
     NEUS: yes
 550.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    breton-druidism: 0
+    breton-chalcedonism: 1
 558.12.23:
   owner: FRAN
   controller: FRAN
@@ -68,20 +66,20 @@
     FRAN: no
     WFRA: yes
 867.1.1:
+  pops: 
+    breton-chalcedonism: 0
+    breton-catholic: 1
   owner: BRI
   controller: BRI
   cores:
     WFRA: no
     BRI: yes
-  pops:
-    - estate: peasant
-      size: 1000
 911.1.1:
+  pops: 
+    breton-catholic: 0
+    norman-catholic: 1
   cores:
     NRM: yes
-  pops:
-    - estate: peasant
-      size: 1000
 933.1.1:
   owner: NRM
   controller: NRM
@@ -93,9 +91,9 @@
   cores:
     ENG: yes
 1540.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    norman-catholic: 0
+    norman-anglican: 1
 1707.5.12:
   owner: GBR
   controller: GBR
@@ -103,6 +101,3 @@
     ENG: no
     GBR: yes
 1901.1.1:
-  pops:
-    - estate: peasant
-      size: 1000

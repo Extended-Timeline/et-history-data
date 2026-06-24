@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/4459 - Saugor.txt
 2.1.1:
+  pops: 
+    bundeli-jain: 1
   owner: GOND
   controller: GOND
   cores:
     GOND: yes
   resource: grain
-  pops:
-    - religion: jain
-      estate: peasant
-      size: 1000
 360.1.1:
   owner: BND
   controller: BND
@@ -27,9 +25,9 @@
   cores:
     GUJ: yes
 620.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    bundeli-jain: 0
+    bundeli-hindu: 1
 745.1.1:
   owner: GURJ
   controller: GURJ

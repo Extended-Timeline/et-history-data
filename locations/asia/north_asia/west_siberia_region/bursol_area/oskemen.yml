@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/4684 - Dzhemenika.txt
 2.1.1:
+  pops: 
+    kyrgyz_culture-: 1
   owner: XION
   controller: XION
   cores:
     XION: yes
   resource: fish
-  pops:
-    - religion: 
-      estate: peasant
-      size: 1000
 260.1.1:
   owner: TIEL
   controller: TIEL
@@ -50,9 +48,8 @@
     UYGH: no
     YKYR: yes
 1100.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    kyrgyz_culture-mahayana: 1
 1124.1.1:
   owner: KKHI
   controller: KKHI
@@ -66,10 +63,9 @@
     KKHI: no
     MGE: yes
 1240.1.1:
-  pops:
-    - religion: 
-      estate: peasant
-      size: 1000
+  pops: 
+    kyrgyz_culture-mahayana: 0
+    oirat_culture-: 1
 1271.1.1:
   owner: YUA
   controller: YUA
@@ -83,9 +79,8 @@
     YUA: no
     MGE: yes
 1380.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    oirat_culture-sunni: 1
 1399.1.1:
   owner: OIR
   controller: OIR
@@ -98,13 +93,13 @@
   cores:
     ZUNG: yes
 1755.1.1:
+  pops: 
+    oirat_culture-sunni: 0
+    khazak-sunni: 1
   owner: QNG
   controller: QNG
   cores:
     QNG: yes
-  pops:
-    - estate: peasant
-      size: 1000
 1854.2.4:
   owner: RUS
   controller: RUS

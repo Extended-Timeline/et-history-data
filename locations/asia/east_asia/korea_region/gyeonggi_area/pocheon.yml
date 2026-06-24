@@ -1,22 +1,20 @@
 #imported from EU4 file: history/provinces/735 - Gyeonggi.txt
 2.1.1:
+  pops: 
+    korean_culture-muism: 1
   owner: BAEK
   controller: BAEK
   cores:
     BAEK: yes
     MAHA: yes
   resource: paper
-  pops:
-    - religion: muism
-      estate: peasant
-      size: 1000
 360.1.1:
   cores:
     MAHA: no
 372.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    korean_culture-muism: 0
+    korean_culture-mahayana: 1
 555.1.1:
   owner: SILL
   controller: SILL
@@ -38,14 +36,14 @@
     GOGU: no
     GORY: yes
 1392.7.12:
+  pops: 
+    korean_culture-mahayana: 0
+    korean_culture-sanjiao: 1
   owner: KOR
   controller: KOR
   cores:
     GORY: no
     KOR: yes
-  pops:
-    - estate: peasant
-      size: 1000
 1592.6.11:
   controller: TOYO
 1593.5.20:
@@ -85,10 +83,7 @@
 1970.1.1:
   resource: electronics
 1971.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    korean_culture-sanjiao: 0
+    korean_culture-lutheran: 1
 1990.1.1:
-  pops:
-    - estate: peasant
-      size: 1000

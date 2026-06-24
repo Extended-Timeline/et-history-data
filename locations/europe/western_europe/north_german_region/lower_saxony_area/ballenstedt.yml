@@ -1,41 +1,39 @@
 #imported from EU4 file: history/provinces/4741 - Halle.txt
 2.1.1:
+  pops: 
+    langobardi-germanic: 1
   owner: LOMB
   controller: LOMB
   cores:
     LOMB: yes
   resource: salt
-  pops:
-    - religion: germanic_polytheism
-      estate: peasant
-      size: 1000
 260.1.1:
+  pops: 
+    langobardi-germanic: 0
+    saxon-germanic: 1
   owner: WARI
   controller: WARI
   cores:
     LOMB: no
     WARI: yes
-  pops:
-    - estate: peasant
-      size: 1000
 453.1.1:
+  pops: 
+    saxon-germanic: 0
+    east_franconian-germanic: 1
   owner: THU
   controller: THU
   cores:
     WARI: no
     THU: yes
-  pops:
-    - estate: peasant
-      size: 1000
 600.1.1:
+  pops: 
+    east_franconian-germanic: 0
+    saxon-germanic: 1
   owner: SAX
   controller: SAX
   cores:
     THU: no
     SAX: yes
-  pops:
-    - estate: peasant
-      size: 1000
 804.1.1:
   owner: FRAN
   controller: FRAN
@@ -48,13 +46,10 @@
     FRAN: no
     EFRA: yes
 867.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    saxon-germanic: 0
+    saxon-catholic: 1
 900.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
 911.11.10:
   owner: SAX
   controller: SAX
@@ -67,13 +62,13 @@
     SAX: no
     MAG: yes
 1524.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    saxon-catholic: 0
+    saxon-lutheran: 1
 1650.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    saxon-lutheran: 0
+    prussian-lutheran: 1
 1680.10.4:
   owner: BRA
   controller: BRA
@@ -119,6 +114,3 @@
   cores:
     EGER: no
 2010.1.1:
-  pops:
-    - estate: peasant
-      size: 1000

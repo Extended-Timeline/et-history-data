@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/4509 - Karor.txt
 2.1.1:
+  pops: 
+    punjabi-hindu: 1
   owner: IPAR
   controller: IPAR
   cores:
     IPAR: yes
   resource: iron
-  pops:
-    - religion: hindu
-      estate: peasant
-      size: 1000
 76.1.1:
   owner: KUSH
   controller: KUSH
@@ -58,9 +56,9 @@
     UMAY: no
     ABBA: yes
 800.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    punjabi-hindu: 0
+    punjabi-sunni: 1
 841.1.1:
   owner: SND
   controller: SND

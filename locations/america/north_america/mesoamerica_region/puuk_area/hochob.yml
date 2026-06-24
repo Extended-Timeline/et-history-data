@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/845 - Campeche.txt
 2.1.1:
+  pops: 
+    yucatec_culture-mayan: 1
   owner: CALA
   controller: CALA
   cores:
     CALA: yes
   resource: sugar
-  pops:
-    - religion: mayan
-      estate: peasant
-      size: 1000
 987.1.1:
   owner: MAY
   controller: MAY
@@ -21,13 +19,13 @@
   cores:
     CPEC: yes
 1542.1.23:
+  pops: 
+    yucatec_culture-mayan: 0
+    yucatec_culture-catholic: 1
   owner: SPA
   controller: SPA
   cores:
     SPA: yes
-  pops:
-    - estate: peasant
-      size: 1000
 1810.9.16:
   owner: MEX
   controller: SPA

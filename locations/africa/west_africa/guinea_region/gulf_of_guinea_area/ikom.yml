@@ -1,9 +1,7 @@
 #imported from EU4 file: history/provinces/1163 - Calabar.txt
 2.1.1:
-  pops:
-    - religion: bantu_religion
-      estate: peasant
-      size: 1000
+  pops: 
+    igbo-bantu_religion: 1
 1690.1.1:
   owner: ARO0
   controller: ARO0
@@ -17,9 +15,9 @@
     GBR: yes
   resource: grain
 1930.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    igbo-bantu_religion: 0
+    igbo-catholic: 1
 1960.10.1:
   owner: NIGR
   controller: NIGR

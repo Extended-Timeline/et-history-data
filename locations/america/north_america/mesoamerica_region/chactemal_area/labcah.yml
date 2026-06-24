@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/2652 - Ecab.txt
 2.1.1:
+  pops: 
+    yucatec_culture-mayan: 1
   owner: ITZ
   controller: ITZ
   cores:
     ITZ: yes
   resource: fish
-  pops:
-    - religion: mayan
-      estate: peasant
-      size: 1000
 881.1.1:
   owner: TOLT
   controller: TOLT
@@ -37,9 +35,9 @@
   cores:
     SPA: yes
 1572.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    yucatec_culture-mayan: 0
+    yucatec_culture-catholic: 1
 1810.9.16:
   owner: MEX
   controller: SPA

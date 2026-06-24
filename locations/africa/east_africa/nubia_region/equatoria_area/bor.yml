@@ -1,9 +1,7 @@
 #imported from EU4 file: history/provinces/1798 - Imatong.txt
 2.1.1:
-  pops:
-    - religion: bantu_religion
-      estate: peasant
-      size: 1000
+  pops: 
+    dinka_culture-bantu_religion: 1
 1873.1.1:
   owner: EGY
   controller: EGY
@@ -19,9 +17,9 @@
   cores:
     SUDA: yes
 1910.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    dinka_culture-bantu_religion: 0
+    dinka_culture-lutheran: 1
 1956.1.1:
   owner: SUDA
   controller: SUDA

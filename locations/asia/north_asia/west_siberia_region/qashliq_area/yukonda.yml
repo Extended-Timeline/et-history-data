@@ -1,18 +1,16 @@
 #imported from EU4 file: history/provinces/1074 - Sibir.txt
 2.1.1:
-  pops:
-    - religion: mari_paganism
-      estate: peasant
-      size: 1000
+  pops: 
+    khanty_culture-mari_paganism: 1
 1245.1.1:
+  pops: 
+    khanty_culture-mari_paganism: 0
+    khanty_culture-: 1
   owner: MGE
   controller: MGE
   cores:
     MGE: yes
   resource: fur
-  pops:
-    - estate: peasant
-      size: 1000
 1260.1.1:
   owner: BLHO
   controller: BLHO
@@ -26,9 +24,8 @@
     GLH: yes
     SIBI: yes
 1390.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    khanty_culture-sunni: 1
 1428.1.1:
   owner: SHAY
   controller: SHAY
@@ -43,10 +40,9 @@
   cores:
     RUS: yes
 1587.1.1:
-  pops:
-    - religion: orthodox
-      estate: peasant
-      size: 1000
+  pops: 
+    khanty_culture-sunni: 0
+    muscovite-orthodox: 1
 1620.1.1:
   cores:
     SIBI: no

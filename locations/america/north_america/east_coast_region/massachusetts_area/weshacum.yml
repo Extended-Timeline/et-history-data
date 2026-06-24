@@ -1,22 +1,19 @@
 #imported from EU4 file: history/provinces/966 - Nipmuc.txt
 2.1.1:
+  pops: 
+    massachusett_culture-iroquoian_totemism: 1
   owner: WMG
   controller: WMG
   cores:
     WMG: yes
-  pops:
-    - religion: iroquoian_totemism
-      estate: peasant
-      size: 1000
 1638.1.1:
+  pops: 
+    massachusett_culture-iroquoian_totemism: 0
+    english-calvinist: 1
   owner: ENG
   controller: ENG
   cores:
     ENG: yes
-  pops:
-    - religion: calvinist
-      estate: peasant
-      size: 1000
 1660.1.1:
   cores:
     ENG: yes
@@ -27,9 +24,9 @@
     ENG: no
     GBR: yes
 1764.4.7:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    english-calvinist: 0
+    american-calvinist: 1
 1776.7.4:
   owner: USA
   controller: USA
@@ -39,6 +36,3 @@
   cores:
     GBR: no
 1840.1.1:
-  pops:
-    - estate: peasant
-      size: 1000

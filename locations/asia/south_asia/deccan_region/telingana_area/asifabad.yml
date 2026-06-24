@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/4444 - Manidurg.txt
 2.1.1:
+  pops: 
+    telugu-mahayana: 1
   owner: SATA
   controller: SATA
   cores:
     SATA: yes
   resource: tropical_wood
-  pops:
-    - religion: mahayana
-      estate: peasant
-      size: 1000
 220.1.1:
   owner: ABHI
   controller: ABHI
@@ -22,9 +20,9 @@
     ABHI: no
     VAKA: yes
 260.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    telugu-mahayana: 0
+    telugu-hindu: 1
 500.1.1:
   owner: RDY
   controller: RDY

@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/4375 - Chester.txt
 2.1.1:
+  pops: 
+    cumbric-druidism: 1
   owner: BRIG
   controller: BRIG
   cores:
     BRIG: yes
   resource: salt
-  pops:
-    - religion: druidism
-      estate: peasant
-      size: 1000
 71.1.1:
   controller: ROM
 78.1.1:
@@ -33,9 +31,9 @@
     BRIG: no
     RHEG: yes
 630.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    cumbric-druidism: 0
+    cumbric-chalcedonism: 1
 633.1.1: #controlled by Mercia from 633, changed history to adjust for being controlled by Mercia. https://www.wilcuma.org.uk/mercia/a-history-of-cheshire/
   owner: MERC
   controller: MERC
@@ -43,13 +41,13 @@
     RHEG: no
     MERC: yes
 720.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    cumbric-chalcedonism: 0
+    anglo_saxon-chalcedonism: 1
 867.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    anglo_saxon-chalcedonism: 0
+    anglo_saxon-catholic: 1
 927.1.1:
   owner: ENG
   controller: ENG
@@ -59,9 +57,9 @@
   cores:
     MERC: no
 1066.12.25:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    anglo_saxon-catholic: 0
+    english-catholic: 1
 1070.1.1: # controlled by Chester due to creation of County Palatine of Chester. Control ends in 1536.
   owner: CET
   controller: CET

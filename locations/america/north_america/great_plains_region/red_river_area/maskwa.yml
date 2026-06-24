@@ -1,33 +1,29 @@
 #imported from EU4 file: history/provinces/1008 - Winnipeg.txt
 2.1.1:
-  pops:
-    - religion: iroquoian_totemism
-      estate: peasant
-      size: 1000
+  pops: 
+    asinikawithini_culture-iroquoian_totemism: 1
 1734.1.1:
+  pops: 
+    asinikawithini_culture-iroquoian_totemism: 0
+    french-catholic: 1
   owner: FRA
   controller: FRA
   cores:
     FRA: yes
   resource: fur
-  pops:
-    - religion: catholic
-      estate: peasant
-      size: 1000
 1763.2.10:
+  pops: 
+    french-catholic: 0
+    english-lutheran: 1
   owner: GBR
   controller: GBR
   cores:
     FRA: no
     GBR: yes
-  pops:
-    - religion: lutheran
-      estate: peasant
-      size: 1000
 1790.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    english-lutheran: 0
+    british_canadian-lutheran: 1
 1850.1.1:
   resource: paper
 1870.7.15:

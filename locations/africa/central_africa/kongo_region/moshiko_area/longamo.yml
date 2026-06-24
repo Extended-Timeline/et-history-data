@@ -1,9 +1,7 @@
 #imported from EU4 file: history/provinces/4104 - Ndola.txt
 2.1.1:
-  pops:
-    - religion: bantu_religion
-      estate: peasant
-      size: 1000
+  pops: 
+    bemba-bantu_religion: 1
 1897.1.1:
   owner: GBR
   controller: GBR
@@ -11,9 +9,9 @@
     GBR: yes
   resource: copper
 1940.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    bemba-bantu_religion: 0
+    bemba-lutheran: 1
 1964.10.24:
   owner: ZAMB
   controller: ZAMB

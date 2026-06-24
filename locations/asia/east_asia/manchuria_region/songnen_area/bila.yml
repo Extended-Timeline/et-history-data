@@ -1,9 +1,7 @@
 #imported from EU4 file: history/provinces/4218 - Butaha.txt
 2.1.1:
-  pops:
-    - religion: 
-      estate: peasant
-      size: 1000
+  pops: 
+    chahar-: 1
 450.1.1:
   owner: SHIW
   controller: SHIW
@@ -45,13 +43,12 @@
     MCH: no
     QNG: yes
 1650.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    chahar-tibetan_buddhism: 1
 1900.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    chahar-tibetan_buddhism: 0
+    manchu_new-tibetan_buddhism: 1
 1912.2.12:
   owner: CHI
   controller: CHI

@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/283 - Zaporozhia.txt
 2.1.1:
+  pops: 
+    sarmatian-: 1
   owner: SARM
   controller: SARM
   cores:
     SARM: yes
   resource: livestock
-  pops:
-    - religion: 
-      estate: peasant
-      size: 1000
 220.1.1:
   owner: OSTR
   controller: OSTR
@@ -16,32 +14,29 @@
     SARM: no
     OSTR: yes
 370.1.1:
+  pops: 
+    hunnic-: 1
   owner: HUNS
   controller: HUNS
   cores:
     OSTR: no
     HUNS: yes
-  pops:
-    - estate: peasant
-      size: 1000
 469.1.1:
+  pops: 
+    avar_culture-: 1
   owner: AVR
   controller: AVR
   cores:
     HUNS: no
     AVR: yes
-  pops:
-    - estate: peasant
-      size: 1000
 567.1.1:
+  pops: 
+    bolghar_culture-: 1
   owner: KUTR
   controller: KUTR
   cores:
     AVR: no
     KUTR: yes
-  pops:
-    - estate: peasant
-      size: 1000
 632.1.1:
   owner: BUL
   controller: BUL
@@ -49,23 +44,21 @@
     KUTR: no
     BUL: yes
 750.1.1:
+  pops: 
+    hungarian-: 1
   owner: HUN
   controller: HUN
   cores:
     BUL: no
     HUN: yes
-  pops:
-    - estate: peasant
-      size: 1000
 870.1.1:
+  pops: 
+    pecheneg-: 1
   owner: PECH
   controller: PECH
   cores:
     HUN: no
     PECH: yes
-  pops:
-    - estate: peasant
-      size: 1000
 1060.1.1:
   owner: CUMA
   controller: CUMA
@@ -73,23 +66,20 @@
     PECH: no
     CUMA: yes
 1220.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    ruthenian-: 1
 1241.1.1:
+  pops: 
+    crimean-: 1
   owner: MGE
   controller: MGE
   cores:
     CUMA: no
     MGE: yes
     ZAZ: yes
-  pops:
-    - estate: peasant
-      size: 1000
 1250.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    crimean-orthodox: 1
 1260.1.1:
   owner: WHHO
   controller: WHHO
@@ -118,14 +108,13 @@
   cores:
     CRI: yes
 1555.1.1:
+  pops: 
+    crimean-orthodox: 0
+    ruthenian-orthodox: 1
   owner: ZAZ
   controller: ZAZ
   cores:
     CRI: no
-  pops:
-    - religion: orthodox
-      estate: peasant
-      size: 1000
 1764.1.1:
   owner: RUS
   controller: RUS

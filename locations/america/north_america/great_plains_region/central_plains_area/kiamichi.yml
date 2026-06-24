@@ -1,25 +1,19 @@
 #imported from EU4 file: history/provinces/896 - Ozark.txt
 2.1.1:
-  pops:
-    - religion: iroquoian_totemism
-      estate: peasant
-      size: 1000
+  pops: 
+    kitikitish_culture-iroquoian_totemism: 1
 1830.9.1:
+  pops: 
+    kitikitish_culture-iroquoian_totemism: 0
+    choctaw_culture-iroquoian_totemism: 1
   owner: CHC
   controller: CHC
   cores:
     CHC: yes
   resource: grain
-  pops:
-    - estate: peasant
-      size: 1000
 1834.6.30:
   owner: USA
   controller: USA
   cores:
     USA: yes
 1890.5.2:
-  pops:
-    - religion: lutheran
-      estate: peasant
-      size: 1000

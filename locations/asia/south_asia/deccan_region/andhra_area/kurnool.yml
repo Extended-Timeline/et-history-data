@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/2090 - Kurnool.txt
 2.1.1:
+  pops: 
+    telugu-hindu: 1
   owner: SATA
   controller: SATA
   cores:
     SATA: yes
   resource: iron
-  pops:
-    - religion: hindu
-      estate: peasant
-      size: 1000
 220.1.1:
   owner: RDY
   controller: RDY
@@ -22,13 +20,13 @@
     RDY: no
     PALL: yes
 590.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    telugu-hindu: 0
+    telugu-jain: 1
 620.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    telugu-jain: 0
+    telugu-hindu: 1
 897.1.1:
   owner: CHOL
   controller: CHOL

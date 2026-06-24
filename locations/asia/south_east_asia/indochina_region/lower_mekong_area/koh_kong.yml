@@ -1,27 +1,25 @@
 #imported from EU4 file: history/provinces/4825 - Pursat.txt
 2.1.1:
+  pops: 
+    pear-bimoism: 1
   owner: PEAR
   controller: PEAR
   cores:
     PEAR: yes
   resource: grain
-  pops:
-    - religion: bimoism
-      estate: peasant
-      size: 1000
 68.1.1:
   owner: FUNA
   controller: FUNA
   cores:
     FUNA: yes
 200.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    pear-bimoism: 0
+    pear-hindu: 1
 400.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    pear-hindu: 0
+    khmer_culture-hindu: 1
 550.1.1:
   owner: CHEN
   controller: CHEN
@@ -35,13 +33,13 @@
     CHEN: no
     CAMB: yes
 820.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    khmer_culture-hindu: 0
+    khmer_culture-mahayana: 1
 1295.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    khmer_culture-mahayana: 0
+    khmer_culture-theravada: 1
 1431.1.1:
   owner: KHM
   controller: KHM

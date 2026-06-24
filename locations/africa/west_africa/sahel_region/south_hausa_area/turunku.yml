@@ -1,9 +1,7 @@
 #imported from EU4 file: history/provinces/1154 - Zazzau.txt
 2.1.1:
-  pops:
-    - religion: bantu_religion
-      estate: peasant
-      size: 1000
+  pops: 
+    hausa-bantu_religion: 1
 523.1.1:
   owner: RAN
   controller: RAN
@@ -17,9 +15,9 @@
     RAN: no
     ZZZ: yes
 1720.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    hausa-bantu_religion: 0
+    hausa-sunni: 1
 1805.1.1:
   owner: SOKO
   controller: SOKO

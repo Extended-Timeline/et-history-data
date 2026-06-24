@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/156 - Temes.txt
 2.1.1:
+  pops: 
+    dacian-zamolxism: 1
   owner: DACI
   controller: DACI
   cores:
     DACI: yes
   resource: wool
-  pops:
-    - religion: zamolxism
-      estate: peasant
-      size: 1000
 106.1.1:
   owner: ROM
   controller: ROM
@@ -18,15 +16,14 @@
   cores:
     DACI: no
 273.1.1:
+  pops: 
+    dacian-zamolxism: 0
+    gothic-germanic: 1
   owner: VISG
   controller: VISG
   cores:
     ROM: no
     VISG: yes
-  pops:
-    - religion: germanic_polytheism
-      estate: peasant
-      size: 1000
 376.1.1:
   owner: HUNS
   controller: HUNS
@@ -34,36 +31,34 @@
     VISG: no
     HUNS: yes
 469.1.1:
+  pops: 
+    gothic-germanic: 0
+    gepid-germanic: 1
   owner: GEPI
   controller: GEPI
   cores:
     HUNS: no
     GEPI: yes
-  pops:
-    - estate: peasant
-      size: 1000
 567.1.1:
+  pops: 
+    gepid-germanic: 0
+    gepid-: 1
   owner: AVR
   controller: AVR
   cores:
     GEPI: no
     AVR: yes
-  pops:
-    - estate: peasant
-      size: 1000
 804.1.1:
+  pops: 
+    wallachian-: 1
   owner: BUL
   controller: BUL
   cores:
     AVR: no
     BUL: yes
-  pops:
-    - estate: peasant
-      size: 1000
 890.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    wallachian-orthodox: 1
 930.1.1:
   owner: BANT
   controller: BANT
@@ -76,9 +71,9 @@
   cores:
     HUN: yes
 1010.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    wallachian-orthodox: 0
+    wallachian-catholic: 1
 1514.6.1:
   controller: HUN
 1526.8.30:
@@ -100,9 +95,9 @@
   cores:
     HAB: no
 1567.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    wallachian-catholic: 0
+    wallachian-calvinist: 1
 1570.1.1:
   owner: TUR
   controller: TUR
@@ -110,9 +105,9 @@
     TRA: no
     HAB: yes
 1700.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    wallachian-calvinist: 0
+    wallachian-orthodox: 1
 1718.1.1:
   owner: HAB
   controller: HAB

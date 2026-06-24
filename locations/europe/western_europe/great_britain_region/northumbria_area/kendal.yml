@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/247 - Cumbria.txt
 2.1.1:
+  pops: 
+    cumbric-druidism: 1
   owner: DAMN
   controller: DAMN
   cores:
     DAMN: yes
   resource: wool
-  pops:
-    - religion: druidism
-      estate: peasant
-      size: 1000
 78.1.1:
   owner: ROM
   controller: ROM
@@ -32,9 +30,9 @@
     BRIG: no
     RHEG: yes
 450.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    cumbric-druidism: 0
+    cumbric-chalcedonism: 1
 480.6.1:
   cores:
     ROMW: no
@@ -45,9 +43,9 @@
     RHEG: no
     STRA: yes
 867.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    cumbric-chalcedonism: 0
+    cumbric-catholic: 1
 945.1.1:
   owner: SCO
   controller: SCO
@@ -55,17 +53,17 @@
     STRA: no
     SCO: yes
 1066.12.25:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    cumbric-catholic: 0
+    scottish-catholic: 1
 1092.1.1:
+  pops: 
+    scottish-catholic: 0
+    english-catholic: 1
   owner: ENG
   controller: ENG
   cores:
     ENG: yes
-  pops:
-    - estate: peasant
-      size: 1000
 1136.1.1:
   owner: SCO
   controller: SCO
@@ -95,9 +93,9 @@
   owner: ENG
   controller: ENG
 1585.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    english-catholic: 0
+    english-lutheran: 1
 1645.6.28:
   controller: SCO
 1646.5.5:

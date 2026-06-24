@@ -1,9 +1,7 @@
 #imported from EU4 file: history/provinces/729 - Wusuli.txt
 2.1.1:
-  pops:
-    - religion: 
-      estate: peasant
-      size: 1000
+  pops: 
+    jurchen_culture-: 1
 600.1.1:
   owner: HSMO
   controller: HSMO
@@ -40,10 +38,8 @@
     RUS: no
     SOVI: yes
 1930.1.1:
-  pops:
-    - religion: orthodox
-      estate: peasant
-      size: 1000
+  pops: 
+    muscovite-orthodox: 1
 1991.12.25:
   owner: RUS
   controller: RUS

@@ -1,16 +1,13 @@
 #imported from EU4 file: history/provinces/1101 - Diego Garcia.txt
 2.1.1:
-  pops:
-    - religion: bimoism
-      estate: peasant
-      size: 1000
+  pops: 
+    uninhabited-bimoism: 1
 1780.1.1:
+  pops: 
+    uninhabited-bimoism: 0
+    french-catholic: 1
   owner: FRA
   controller: FRA
-  pops:
-    - religion: catholic
-      estate: peasant
-      size: 1000
 1800.1.1:
   resource: slaves
 1805.1.1:

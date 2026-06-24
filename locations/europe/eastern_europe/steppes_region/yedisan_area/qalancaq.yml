@@ -1,23 +1,20 @@
 #imported from EU4 file: history/provinces/1974 - Yedishkul.txt
 2.1.1:
+  pops: 
+    sarmatian-: 1
   owner: SARM
   controller: SARM
   cores:
     SARM: yes
   resource: salt
-  pops:
-    - religion: 
-      estate: peasant
-      size: 1000
 220.1.1:
+  pops: 
+    gothic-: 1
   owner: OSTR
   controller: OSTR
   cores:
     SARM: no
     OSTR: yes
-  pops:
-    - estate: peasant
-      size: 1000
 370.1.1:
   owner: HUNS
   controller: HUNS
@@ -31,9 +28,8 @@
     HUNS: no
     GOTH: yes
 620.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    gothic-chalcedonism: 1
 632.1.1:
   owner: BUL
   controller: BUL
@@ -47,22 +43,22 @@
     BUL: no
     KHAZ: yes
 800.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    gothic-chalcedonism: 0
+    khazar-chalcedonism: 1
 867.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    khazar-chalcedonism: 0
+    khazar-orthodox: 1
 969.1.1:
+  pops: 
+    khazar-orthodox: 0
+    pecheneg-orthodox: 1
   owner: PECH
   controller: PECH
   cores:
     KHAZ: no
     PECH: yes
-  pops:
-    - estate: peasant
-      size: 1000
 1060.1.1:
   owner: CUMA
   controller: CUMA
@@ -70,9 +66,9 @@
     PECH: no
     CUMA: yes
 1120.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    pecheneg-orthodox: 0
+    crimean-orthodox: 1
 1237.1.1:
   owner: MGE
   controller: MGE
@@ -87,9 +83,9 @@
     MGE: no
     WHHO: yes
 1300.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    crimean-orthodox: 0
+    crimean-sunni: 1
 1372.1.1:
   owner: BLHO
   controller: BLHO
@@ -130,9 +126,9 @@
   cores:
     CRI: no
 1840.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    crimean-sunni: 0
+    crimean-orthodox: 1
 1900.1.1:
   cores:
     CRI: no
@@ -155,9 +151,9 @@
 1944.3.13:
   controller: SOVI
 1960.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    crimean-orthodox: 0
+    ruthenian-orthodox: 1
 1991.8.24:
   owner: UKR
   controller: UKR

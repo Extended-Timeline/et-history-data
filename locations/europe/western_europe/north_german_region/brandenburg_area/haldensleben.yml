@@ -1,23 +1,21 @@
 #imported from EU4 file: history/provinces/52 - Magdeburg.txt
 2.1.1:
+  pops: 
+    langobardi-germanic: 1
   owner: LOMB
   controller: LOMB
   cores:
     LOMB: yes
   resource: cloth
-  pops:
-    - religion: germanic_polytheism
-      estate: peasant
-      size: 1000
 395.1.1:
+  pops: 
+    langobardi-germanic: 0
+    saxon-germanic: 1
   owner: SAX
   controller: SAX
   cores:
     LOMB: no
     SAX: yes
-  pops:
-    - estate: peasant
-      size: 1000
 804.1.1:
   owner: FRAN
   controller: FRAN
@@ -30,9 +28,9 @@
     FRAN: no
     EFRA: yes
 900.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    saxon-germanic: 0
+    saxon-catholic: 1
 911.11.10:
   owner: SAX
   controller: SAX
@@ -45,13 +43,13 @@
     SAX: no
     MAG: yes
 1524.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    saxon-catholic: 0
+    saxon-lutheran: 1
 1650.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    saxon-lutheran: 0
+    prussian-lutheran: 1
 1680.10.4:
   owner: BRA
   controller: BRA
@@ -92,9 +90,9 @@
   cores:
     EGER: yes
 1975.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    prussian-lutheran: 0
+    prussian-irreligious: 1
 1990.10.3:
   owner: GER
   controller: GER

@@ -1,18 +1,16 @@
 #imported from EU4 file: history/provinces/4709 - Passau.txt
 2.1.1:
+  pops: 
+    southern_bavarian-germanic: 1
   owner: ROM
   controller: ROM
   cores:
     ROM: yes
   resource: fish
-  pops:
-    - religion: germanic_polytheism
-      estate: peasant
-      size: 1000
 350.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    southern_bavarian-germanic: 0
+    southern_bavarian-chalcedonism: 1
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -49,9 +47,9 @@
     FRAN: no
     BAV: yes
 867.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    southern_bavarian-chalcedonism: 0
+    southern_bavarian-catholic: 1
 880.3.22:
   owner: EFRA
   controller: EFRA

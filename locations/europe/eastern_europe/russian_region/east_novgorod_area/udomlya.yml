@@ -1,9 +1,7 @@
 #imported from EU4 file: history/provinces/4260 - Vyshny Volochyok.txt
 2.1.1:
-  pops:
-    - religion: muinaisusko
-      estate: peasant
-      size: 1000
+  pops: 
+    vepsian-muinaisusko: 1
 750.1.1:
   owner: VEPS
   controller: VEPS
@@ -11,9 +9,9 @@
     VEPS: yes
   resource: naval_supplies
 780.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    vepsian-muinaisusko: 0
+    vepsian-slavic: 1
 862.1.1:
   owner: NOV
   controller: NOV
@@ -21,9 +19,9 @@
     VEPS: no
     NOV: yes
 880.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    vepsian-slavic: 0
+    novgorodian-slavic: 1
 882.1.1:
   owner: KIEV
   controller: KIEV
@@ -31,9 +29,9 @@
     NOV: no
     KIEV: yes
 1000.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    novgorodian-slavic: 0
+    novgorodian-orthodox: 1
 1054.2.20:
   owner: NOV
   controller: NOV

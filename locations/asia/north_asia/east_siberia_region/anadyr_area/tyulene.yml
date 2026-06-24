@@ -1,18 +1,16 @@
 #imported from EU4 file: history/provinces/2440 - Kagyrgyn.txt
 2.1.1:
-  pops:
-    - religion: mari_paganism
-      estate: peasant
-      size: 1000
+  pops: 
+    itelmen_culture-mari_paganism: 1
 1778.1.1:
+  pops: 
+    itelmen_culture-mari_paganism: 0
+    itelmen_culture-orthodox: 1
   owner: RUS
   controller: RUS
   cores:
     RUS: yes
   resource: fish
-  pops:
-    - estate: peasant
-      size: 1000
 1922.12.30:
   owner: SOVI
   controller: SOVI

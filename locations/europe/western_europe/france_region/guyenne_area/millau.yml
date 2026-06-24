@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/198 - Rouergue.txt
 2.1.1:
+  pops: 
+    gallian-druidism: 1
   owner: ROM
   controller: ROM
   cores:
     ROM: yes
   resource: livestock
-  pops:
-    - religion: druidism
-      estate: peasant
-      size: 1000
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -16,9 +14,9 @@
     ROM: no
     ROMW: yes
 420.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    gallian-druidism: 0
+    gallian-chalcedonism: 1
 455.1.1:
   owner: VISG
   controller: VISG
@@ -54,9 +52,9 @@
   cores:
     ASTS: yes
 600.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    gallian-chalcedonism: 0
+    languedocien-chalcedonism: 1
 613.10.10:
   owner: FRAN
   controller: FRAN
@@ -95,9 +93,9 @@
   cores:
     AUV: yes
 867.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    languedocien-chalcedonism: 0
+    languedocien-catholic: 1
 918.1.1:
   owner: TOU
   controller: TOU

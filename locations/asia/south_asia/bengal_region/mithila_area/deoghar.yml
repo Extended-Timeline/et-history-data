@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/2096 - Damin.txt
 2.1.1:
+  pops: 
+    magahi-hindu: 1
   owner: MAGA
   controller: MAGA
   cores:
     MAGA: yes
   resource: ivory
-  pops:
-    - religion: hindu
-      estate: peasant
-      size: 1000
 320.1.1:
   owner: GUPT
   controller: GUPT
@@ -38,9 +36,9 @@
     KANN: no
     PALA: yes
 760.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    magahi-hindu: 0
+    magahi-mahayana: 1
 1174.1.1:
   owner: GAUD
   controller: GAUD
@@ -48,9 +46,9 @@
     PALA: no
     GAUD: yes
 1180.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    magahi-mahayana: 0
+    magahi-hindu: 1
 1203.1.1:
   owner: BNG
   controller: BNG

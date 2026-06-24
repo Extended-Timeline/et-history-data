@@ -1,15 +1,13 @@
 #imported from EU4 file: history/provinces/733 - Hwanghae.txt
 2.1.1:
+  pops: 
+    korean_culture-muism: 1
   owner: HAN0
   controller: HAN0
   cores:
     HAN0: yes
     WEI0: yes
   resource: fish
-  pops:
-    - religion: muism
-      estate: peasant
-      size: 1000
 9.1.10:
   owner: XIN0
   controller: XIN0
@@ -47,9 +45,9 @@
   owner: BAEK
   controller: BAEK
 372.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    korean_culture-muism: 0
+    korean_culture-mahayana: 1
 395.1.1:
   owner: GOGU
   controller: GOGU
@@ -82,14 +80,14 @@
   cores:
     MGE: no
 1392.7.12:
+  pops: 
+    korean_culture-mahayana: 0
+    korean_culture-sanjiao: 1
   owner: KOR
   controller: KOR
   cores:
     GORY: no
     KOR: yes
-  pops:
-    - estate: peasant
-      size: 1000
 1592.6.9:
   controller: TOYO
 1593.2.15:
@@ -127,6 +125,3 @@
     NKOR: yes
     SKOR: yes
 1960.1.1:
-  pops:
-    - estate: peasant
-      size: 1000

@@ -1,31 +1,29 @@
 #imported from EU4 file: history/provinces/4189 - Sagami.txt
 2.1.1:
+  pops: 
+    saeki-shinto: 1
   owner: KENO
   controller: KENO
   cores:
     KENO: yes
   resource: iron
-  pops:
-    - religion: shinto
-      estate: peasant
-      size: 1000
 500.1.1:
+  pops: 
+    saeki-shinto: 0
+    saigoku_culture-shinto: 1
   owner: YMT
   controller: YMT
   cores:
     KENO: no
     YMT: yes
-  pops:
-    - estate: peasant
-      size: 1000
 607.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    saigoku_culture-shinto: 0
+    saigoku_culture-mahayana: 1
 712.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    saigoku_culture-mahayana: 0
+    saigoku_culture-shinto: 1
 794.1.1:
   owner: JAP
   controller: JAP

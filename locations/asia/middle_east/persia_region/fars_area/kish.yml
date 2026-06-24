@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/2219 - Bandar Langeh.txt
 2.1.1:
+  pops: 
+    farsi_culture-zoroastrian: 1
   owner: PESS
   controller: PESS
   cores:
     PESS: yes
   resource: spices
-  pops:
-    - religion: zoroastrian
-      estate: peasant
-      size: 1000
 207.1.1:
   owner: ERA
   controller: ERA
@@ -28,9 +26,9 @@
     RASH: no
     UMAY: yes
 680.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    farsi_culture-zoroastrian: 0
+    farsi_culture-sunni: 1
 750.8.6:
   owner: ABBA
   controller: ABBA
@@ -38,9 +36,9 @@
     UMAY: no
     ABBA: yes
 800.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    farsi_culture-sunni: 0
+    bahrani_culture-sunni: 1
 870.1.1:
   owner: FARS
   controller: FARS

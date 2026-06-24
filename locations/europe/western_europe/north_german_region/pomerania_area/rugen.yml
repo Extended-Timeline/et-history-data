@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/4745 - Rugen.txt
 2.1.1:
+  pops: 
+    western_pomeranian-germanic: 1
   owner: RUGI
   controller: RUGI
   cores:
     RUGI: yes
   resource: fish
-  pops:
-    - religion: germanic_polytheism
-      estate: peasant
-      size: 1000
 140.1.1:
   owner: RUGE
   controller: RUGE
@@ -16,10 +14,9 @@
     RUGI: no
     RUGE: yes
 395.1.1:
-  pops:
-    - religion: slavic_polytheism
-      estate: peasant
-      size: 1000
+  pops: 
+    western_pomeranian-germanic: 0
+    polabian-slavic: 1
 570.1.1:
   owner: OBOT
   controller: OBOT
@@ -37,13 +34,13 @@
   cores:
     DAN: yes
 1170.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    polabian-slavic: 0
+    western_pomeranian-slavic: 1
 1220.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    western_pomeranian-slavic: 0
+    western_pomeranian-catholic: 1
 1227.1.1:
   owner: RUGE
   controller: RUGE
@@ -93,6 +90,3 @@
   cores:
     EGER: no
 2020.1.1:
-  pops:
-    - estate: peasant
-      size: 1000

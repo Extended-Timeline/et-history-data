@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/702 - Hohhot.txt
 2.1.1:
+  pops: 
+    chahar-: 1
   owner: XION
   controller: XION
   cores:
     XION: yes
   resource: iron
-  pops:
-    - religion: 
-      estate: peasant
-      size: 1000
 48.1.1:
   owner: SXIO
   controller: SXIO
@@ -28,9 +26,8 @@
     ZHAO: no
     DDI: yes
 370.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    khitan-: 1
 376.1.1:
   owner: QIN0
   controller: QIN0
@@ -86,9 +83,8 @@
     TANG: no
     LIAO: yes
 950.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    khitan-mahayana: 1
 1125.1.1:
   owner: XIA0
   controller: XIA0
@@ -96,13 +92,13 @@
     LIAO: no
     XIA0: yes
 1150.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    khitan-mahayana: 0
+    khitan-tibetan_buddhism: 1
 1160.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    khitan-tibetan_buddhism: 0
+    chahar-tibetan_buddhism: 1
 1227.1.1:
   owner: MGE
   controller: MGE
@@ -156,9 +152,9 @@
     QNG: no
     CHI: yes
 1920.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    chahar-tibetan_buddhism: 0
+    jin_culture-tibetan_buddhism: 1
 1936.5.12:
   owner: MENG
   controller: MENG

@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/179 - Berry.txt
 2.1.1:
+  pops: 
+    gallian-druidism: 1
   owner: ROM
   controller: ROM
   cores:
     ROM: yes
   resource: wine
-  pops:
-    - religion: druidism
-      estate: peasant
-      size: 1000
 260.1.1:
   cores:
     GALL: yes
@@ -17,9 +15,9 @@
   cores:
     GALL: no
 340.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    gallian-druidism: 0
+    gallian-chalcedonism: 1
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -33,14 +31,14 @@
     ROMW: no
     VISG: yes
 507.1.1:
+  pops: 
+    gallian-chalcedonism: 0
+    languedocien-chalcedonism: 1
   owner: FRAN
   controller: FRAN
   cores:
     SOIS: no
     FRAN: yes
-  pops:
-    - estate: peasant
-      size: 1000
 511.11.27:
   owner: ORL
   controller: ORL
@@ -100,9 +98,9 @@
     FRAN: no
     WFRA: yes
 867.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    languedocien-chalcedonism: 0
+    languedocien-catholic: 1
 987.7.3:
   owner: FRA
   controller: FRA
@@ -110,9 +108,9 @@
     WFRA: no
     FRA: yes
 1050.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    languedocien-catholic: 0
+    french-catholic: 1
 1360.10.1:
   owner: BER
   controller: BER
@@ -124,15 +122,15 @@
   cores:
     FRA: yes
 1560.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    french-catholic: 0
+    french-calvinist: 1
 1652.10.21:
   controller: FRA
 1686.1.17:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    french-calvinist: 0
+    french-catholic: 1
 1870.9.4:
   owner: FRA
   controller: FRA

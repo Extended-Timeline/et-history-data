@@ -1,18 +1,16 @@
 #imported from EU4 file: history/provinces/2297 - Saruhan.txt
 2.1.1:
+  pops: 
+    greek_culture-hellenism_religion: 1
   owner: ROM
   controller: ROM
   cores:
     ROM: yes
   resource: cotton
-  pops:
-    - religion: hellenism_religion
-      estate: peasant
-      size: 1000
 340.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    greek_culture-hellenism_religion: 0
+    greek_culture-chalcedonism: 1
 395.1.17:
   owner: BYZ
   controller: BYZ
@@ -20,9 +18,9 @@
     ROM: no
     BYZ: yes
 867.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    greek_culture-chalcedonism: 0
+    greek_culture-orthodox: 1
 1077.1.1:
   owner: RUM
   controller: RUM
@@ -44,15 +42,14 @@
   cores:
     NICA: no
 1313.1.1:
+  pops: 
+    greek_culture-orthodox: 0
+    turkish_culture-sunni: 1
   owner: SRU
   controller: SRU
   cores:
     BYZ: no
     SRU: yes
-  pops:
-    - religion: sunni
-      estate: peasant
-      size: 1000
 1390.1.1:
   owner: TUR
   controller: TUR

@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/4417 - Kanchipuram.txt
 2.1.1:
+  pops: 
+    tamil-hindu: 1
   owner: CHOL
   controller: CHOL
   cores:
     CHOL: yes
   resource: cloth
-  pops:
-    - religion: hindu
-      estate: peasant
-      size: 1000
 275.1.1:
   owner: PALL
   controller: PALL
@@ -21,9 +19,9 @@
     PALL: no
     CHOL: yes
 1100.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    tamil-hindu: 0
+    telugu-hindu: 1
 1279.1.1:
   owner: TNK
   controller: TNK

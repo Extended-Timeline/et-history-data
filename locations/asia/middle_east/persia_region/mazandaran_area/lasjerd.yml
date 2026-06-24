@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/2216 - Semnan.txt
 2.1.1:
+  pops: 
+    parthian-zoroastrian: 1
   owner: PART
   controller: PART
   cores:
     PART: yes
   resource: gems
-  pops:
-    - religion: zoroastrian
-      estate: peasant
-      size: 1000
 224.4.24:
   owner: ERA
   controller: ERA
@@ -16,9 +14,9 @@
     PART: no
     ERA: yes
 400.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    parthian-zoroastrian: 0
+    farsi_culture-zoroastrian: 1
 643.1.1:
   owner: RASH
   controller: RASH
@@ -49,9 +47,9 @@
     ABBA: no
     SIST: yes
 880.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    farsi_culture-zoroastrian: 0
+    farsi_culture-sunni: 1
 900.1.1:
   owner: BUKH
   controller: BUKH
@@ -101,9 +99,9 @@
     MGE: no
     ILK: yes
 1270.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    farsi_culture-sunni: 0
+    farsi_culture-shia: 1
 1335.1.1:
   owner: ASR
   controller: ASR

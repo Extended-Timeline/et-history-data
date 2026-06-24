@@ -1,27 +1,25 @@
 #imported from EU4 file: history/provinces/4828 - Preah Vihear.txt
 2.1.1:
+  pops: 
+    bru_culture-bimoism: 1
   owner: CAMB
   controller: CAMB
   cores:
     CAMB: yes
   resource: tropical_wood
-  pops:
-    - religion: bimoism
-      estate: peasant
-      size: 1000
 400.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    bru_culture-bimoism: 0
+    khmer_culture-bimoism: 1
 450.1.1:
+  pops: 
+    khmer_culture-bimoism: 0
+    khmer_culture-hindu: 1
   owner: CHEN
   controller: CHEN
   cores:
     CAMB: no
     CHEN: yes
-  pops:
-    - estate: peasant
-      size: 1000
 707.2.6:
   owner: LCHE
   controller: LCHE
@@ -35,13 +33,13 @@
     LCHE: no
     CAMB: yes
 820.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    khmer_culture-hindu: 0
+    khmer_culture-mahayana: 1
 1295.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    khmer_culture-mahayana: 0
+    khmer_culture-theravada: 1
 1431.1.1:
   owner: KHM
   controller: KHM

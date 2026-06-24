@@ -1,23 +1,21 @@
 #imported from EU4 file: history/provinces/100 - Friesland.txt
 2.1.1:
+  pops: 
+    frisian-germanic: 1
   owner: FRI
   controller: FRI
   cores:
     FRI: yes
   resource: livestock
-  pops:
-    - religion: germanic_polytheism
-      estate: peasant
-      size: 1000
 734.1.1:
   owner: FRAN
   controller: FRAN
   cores:
     FRAN: yes
 800.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    frisian-germanic: 0
+    frisian-chalcedonism: 1
 839.1.1:
   owner: FRI
   controller: FRI
@@ -25,9 +23,9 @@
     FRAN: no
     FRI: yes
 867.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    frisian-chalcedonism: 0
+    frisian-catholic: 1
 922.1.1:
   owner: HOL
   controller: HOL
@@ -64,9 +62,9 @@
 1524.1.1:
   controller: SPA
 1536.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    frisian-catholic: 0
+    frisian-calvinist: 1
 1549.11.4:
   owner: NED
   controller: NED

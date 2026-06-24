@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/4764 - Salins.txt
 2.1.1:
+  pops: 
+    gallian-druidism: 1
   owner: ROM
   controller: ROM
   cores:
     ROM: yes
   resource: salt
-  pops:
-    - religion: druidism
-      estate: peasant
-      size: 1000
 260.1.1:
   cores:
     GALL: yes
@@ -23,27 +21,26 @@
     ROM: no
     ROMW: yes
 443.1.1:
+  pops: 
+    gallian-druidism: 0
+    burgundione-germanic: 1
   owner: BUR
   controller: BUR
   cores:
     ROMW: no
     BUR: yes
-  pops:
-    - religion: germanic_polytheism
-      estate: peasant
-      size: 1000
 450.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    burgundione-germanic: 0
+    burgundione-arianism: 1
 486.6.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    burgundione-arianism: 0
+    burgundian-arianism: 1
 500.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    burgundian-arianism: 0
+    burgundian-chalcedonism: 1
 534.1.1:
   owner: NEUS
   controller: NEUS
@@ -103,9 +100,9 @@
     MFRA: no
     LOT: yes
 867.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    burgundian-chalcedonism: 0
+    burgundian-catholic: 1
 870.8.8:
   owner: EFRA
   controller: EFRA

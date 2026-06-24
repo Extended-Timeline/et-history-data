@@ -1,63 +1,57 @@
 #imported from EU4 file: history/provinces/259 - Sandomierz.txt
 2.1.1:
+  pops: 
+    lesser_polish-slavic: 1
   owner: VEND
   controller: VEND
   cores:
     VEND: yes
   resource: cloth
-  pops:
-    - religion: slavic_polytheism
-      estate: peasant
-      size: 1000
 140.1.1:
+  pops: 
+    lesser_polish-slavic: 0
+    gothic-germanic: 1
   owner: GOTH
   controller: GOTH
   cores:
     VEND: no
     GOTH: yes
-  pops:
-    - religion: germanic_polytheism
-      estate: peasant
-      size: 1000
 150.1.1:
+  pops: 
+    gothic-germanic: 0
+    lesser_polish-slavic: 1
   owner: VEND
   controller: VEND
   cores:
     GOTH: no
     VEND: yes
-  pops:
-    - religion: slavic_polytheism
-      estate: peasant
-      size: 1000
 200.1.1:
+  pops: 
+    lesser_polish-slavic: 0
+    gepid-germanic: 1
   owner: GEPI
   controller: GEPI
   cores:
     VEND: no
     GEPI: yes
-  pops:
-    - religion: germanic_polytheism
-      estate: peasant
-      size: 1000
 250.1.1:
+  pops: 
+    gepid-germanic: 0
+    lesser_polish-slavic: 1
   owner: VIST
   controller: VIST
   cores:
     GEPI: no
     VIST: yes
-  pops:
-    - religion: slavic_polytheism
-      estate: peasant
-      size: 1000
 940.1.1:
   owner: POL
   controller: POL
   cores:
     POL: yes
 1050.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    lesser_polish-slavic: 0
+    lesser_polish-catholic: 1
 1138.10.28:
   owner: SAND
   controller: SAND
@@ -69,9 +63,9 @@
   cores:
     POL: yes
 1550.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    lesser_polish-catholic: 0
+    lesser_polish-calvinist: 1
 1569.7.1:
   owner: PLC
   controller: PLC
@@ -117,9 +111,9 @@
 1939.10.6:
   owner: GER
 1940.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    lesser_polish-calvinist: 0
+    lesser_polish-catholic: 1
 1945.1.16:
   controller: SOVI
 1945.5.8:

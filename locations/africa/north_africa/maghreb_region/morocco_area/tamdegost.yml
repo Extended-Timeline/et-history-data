@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/344 - Marrakech.txt
 2.1.1:
+  pops: 
+    masmuda-bantu_religion: 1
   owner: ATLA
   controller: ATLA
   cores:
     ATLA: yes
   resource: sugar
-  pops:
-    - religion: bantu_religion
-      estate: peasant
-      size: 1000
 720.1.1:
   owner: UMAY
   controller: UMAY
@@ -21,9 +19,9 @@
   cores:
     UMAY: no
 780.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    masmuda-bantu_religion: 0
+    masmuda-ibadi: 1
 1040.1.1:
   owner: MOR
   controller: MOR
@@ -31,10 +29,9 @@
     BARG: no
     MOR: yes
 1060.1.1:
-  pops:
-    - religion: sunni
-      estate: peasant
-      size: 1000
+  pops: 
+    masmuda-ibadi: 0
+    moroccan-sunni: 1
 1367.1.1:
   cores:
     MRK: yes

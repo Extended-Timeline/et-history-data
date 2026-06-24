@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/2082 - Raipur.txt
 2.1.1:
+  pops: 
+    chhattisgarhi-mahayana: 1
   owner: KANK
   controller: KANK
   cores:
     KANK: yes
   resource: grain
-  pops:
-    - religion: mahayana
-      estate: peasant
-      size: 1000
 120.1.1:
   owner: SATA
   controller: SATA
@@ -21,9 +19,9 @@
     SATA: no
     DAKS: yes
 300.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    chhattisgarhi-mahayana: 0
+    chhattisgarhi-hindu: 1
 320.1.1:
   owner: VAKA
   controller: VAKA

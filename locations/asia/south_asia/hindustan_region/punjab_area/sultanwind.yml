@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/2075 - Doaba.txt
 2.1.1:
+  pops: 
+    punjabi-mahayana: 1
   owner: INGR
   controller: INGR
   cores:
     INGR: yes
   resource: dyes
-  pops:
-    - religion: mahayana
-      estate: peasant
-      size: 1000
 10.1.1:
   owner: NSAT
   controller: NSAT
@@ -75,9 +73,9 @@
     KGR: no
     GHAZ: yes
 1100.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    punjabi-mahayana: 0
+    punjabi-hindu: 1
 1187.1.1:
   owner: GHOR
   controller: GHOR
@@ -100,9 +98,9 @@
   owner: DLH
   controller: DLH
 1499.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    punjabi-hindu: 0
+    punjabi-sikhism: 1
 1526.2.1:
   controller: TIM
 1526.4.21:

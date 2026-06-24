@@ -1,9 +1,7 @@
 #imported from EU4 file: history/provinces/4079 - Mbamba.txt
 2.1.1:
-  pops:
-    - religion: bantu_religion
-      estate: peasant
-      size: 1000
+  pops: 
+    kongo-bantu_religion: 1
 1350.1.1:
   owner: KON
   controller: KON
@@ -22,10 +20,10 @@
   cores:
     BEL: yes
 1900.1.1:
+  pops: 
+    kongo-bantu_religion: 0
+    kongo-catholic: 1
   resource: coffee
-  pops:
-    - estate: peasant
-      size: 1000
 1960.7.1:
   owner: DRCO
   controller: DRCO

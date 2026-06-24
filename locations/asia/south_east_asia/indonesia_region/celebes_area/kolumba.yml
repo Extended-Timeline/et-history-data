@@ -1,13 +1,11 @@
 #imported from EU4 file: history/provinces/4796 - Kendari.txt
 2.1.1:
-  pops:
-    - religion: bimoism
-      estate: peasant
-      size: 1000
+  pops: 
+    makassarese_culture-bimoism: 1
 1608.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    makassarese_culture-bimoism: 0
+    makassarese_culture-sunni: 1
 1832.5.9:
   owner: NED
   controller: NED

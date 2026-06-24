@@ -1,27 +1,25 @@
 #imported from EU4 file: history/provinces/4770 - sHertogenbosch.txt
 2.1.1:
+  pops: 
+    frankish-germanic: 1
   owner: ROM
   controller: ROM
   cores:
     ROM: yes
   resource: cloth
-  pops:
-    - religion: germanic_polytheism
-      estate: peasant
-      size: 1000
 260.1.1:
+  pops: 
+    frankish-germanic: 0
+    gallian-germanic: 1
   cores:
     GALL: yes
-  pops:
-    - estate: peasant
-      size: 1000
 274.1.1:
+  pops: 
+    gallian-germanic: 0
+    frankish-germanic: 1
   controller: ROM
   cores:
     GALL: no
-  pops:
-    - estate: peasant
-      size: 1000
 358.1.1:
   owner: FRAN
   controller: FRAN
@@ -29,13 +27,13 @@
     ROM: no
     FRAN: yes
 400.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    frankish-germanic: 0
+    frankish-chalcedonism: 1
 500.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    frankish-chalcedonism: 0
+    low_franconian-chalcedonism: 1
 511.11.27:
   owner: SOIS
   controller: SOIS
@@ -79,9 +77,9 @@
     MFRA: no
     LOT: yes
 867.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    low_franconian-chalcedonism: 0
+    low_franconian-catholic: 1
 870.8.8:
   owner: WFRA
   controller: WFRA
@@ -155,6 +153,3 @@
   owner: NED
   controller: NED
 2020.1.1:
-  pops:
-    - estate: peasant
-      size: 1000

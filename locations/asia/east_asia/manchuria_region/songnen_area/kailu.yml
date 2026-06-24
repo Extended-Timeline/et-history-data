@@ -1,15 +1,13 @@
 #imported from EU4 file: history/provinces/722 - Jurim.txt
 2.1.1:
+  pops: 
+    khitan-: 1
   owner: XION
   controller: XION
   cores:
     XION: yes
     XIAN: yes
   resource: livestock
-  pops:
-    - religion: 
-      estate: peasant
-      size: 1000
 46.1.1:
   owner: XIAN
   controller: XIAN
@@ -46,13 +44,11 @@
     JIN0: no
     MGE: yes
 1220.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    chahar-: 1
 1265.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    chahar-tibetan_buddhism: 1
 1271.1.1:
   owner: YUA
   controller: YUA

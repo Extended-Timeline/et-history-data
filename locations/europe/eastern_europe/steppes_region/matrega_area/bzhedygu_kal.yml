@@ -1,15 +1,13 @@
 #imported from EU4 file: history/provinces/287 - Kouban.txt
 2.1.1:
+  pops: 
+    circassian_culture-: 1
   owner: BOSP
   controller: BOSP
   cores:
     BOSP: yes
     ROM: yes
   resource: livestock
-  pops:
-    - religion: 
-      estate: peasant
-      size: 1000
 63.1.1:
   owner: ROM
   controller: ROM
@@ -72,9 +70,8 @@
     MGE: yes
     CRI: yes
 1250.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    crimean-: 1
 1260.1.1:
   owner: WHHO
   controller: WHHO
@@ -82,9 +79,8 @@
     MGE: no
     WHHO: yes
 1300.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    crimean-sunni: 1
 1372.1.1:
   owner: BLHO
   controller: BLHO
@@ -116,9 +112,9 @@
     CRI: no
     TUR: no
 1792.6.12:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    crimean-sunni: 0
+    ruthenian-sunni: 1
 1918.2.20:
   owner: UKR
   controller: UKR
@@ -136,9 +132,9 @@
     RUS: no
     SOVI: yes
 1933.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    ruthenian-sunni: 0
+    muscovite-sunni: 1
 1942.8.12:
   controller: GER
 1943.2.12:

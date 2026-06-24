@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/4714 - Durlach.txt
 2.1.1:
+  pops: 
+    high_alemannic-germanic: 1
   owner: ALEM
   controller: ALEM
   cores:
     ALEM: yes
   resource: wine
-  pops:
-    - religion: germanic_polytheism
-      estate: peasant
-      size: 1000
 75.1.1:
   owner: ROM
   controller: ROM
@@ -32,9 +30,9 @@
     BUR: no
     ALEM: yes
 600.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    high_alemannic-germanic: 0
+    high_alemannic-chalcedonism: 1
 746.1.1:
   owner: FRAN
   controller: FRAN
@@ -47,9 +45,9 @@
     FRAN: no
     EFRA: yes
 867.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    high_alemannic-chalcedonism: 0
+    high_alemannic-catholic: 1
 911.11.10:
   owner: SWA
   controller: SWA

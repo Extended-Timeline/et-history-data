@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/2363 - Atakent.txt
 2.1.1:
+  pops: 
+    sogdian-: 1
   owner: KAGJ
   controller: KAGJ
   cores:
     KAGJ: yes
   resource: livestock
-  pops:
-    - religion: 
-      estate: peasant
-      size: 1000
 320.1.1:
   owner: KIDA
   controller: KIDA
@@ -34,9 +32,8 @@
     GOKT: no
     WGOK: yes
 600.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    sogdian-zoroastrian: 1
 642.1.1:
   owner: SAMA
   controller: SAMA
@@ -44,9 +41,9 @@
     WGOK: no
     SAMA: yes
 700.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    sogdian-zoroastrian: 0
+    sogdian-manichaeism: 1
 740.1.1:
   owner: UMAY
   controller: UMAY
@@ -59,18 +56,18 @@
     UMAY: no
     ABBA: yes
 800.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    sogdian-manichaeism: 0
+    sogdian-sunni: 1
 819.1.1:
+  pops: 
+    sogdian-sunni: 0
+    tajik_culture-sunni: 1
   owner: CHAC
   controller: CHAC
   cores:
     ABBA: no
     CHAC: yes
-  pops:
-    - estate: peasant
-      size: 1000
 855.1.1:
   owner: KOKA
   controller: KOKA
@@ -89,9 +86,9 @@
     BUKH: no
     TRAN: yes
 1000.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    tajik_culture-sunni: 0
+    khazak-sunni: 1
 1212.1.1:
   owner: KHWA
   controller: KHWA
@@ -171,9 +168,9 @@
   cores:
     RUS: yes
 1870.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    khazak-sunni: 0
+    uzbek_culture-sunni: 1
 1900.1.1:
   resource: gold
 1917.11.27:

@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/171 - Morbihan.txt
 2.1.1:
+  pops: 
+    gallian-druidism: 1
   owner: ROM
   controller: ROM
   cores:
     ROM: yes
   resource: fish
-  pops:
-    - religion: druidism
-      estate: peasant
-      size: 1000
 260.1.1:
   cores:
     GALL: yes
@@ -23,17 +21,17 @@
     ROM: no
     ROMW: yes
 400.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    gallian-druidism: 0
+    gallian-chalcedonism: 1
 450.1.1:
+  pops: 
+    gallian-chalcedonism: 0
+    breton-chalcedonism: 1
   owner: VANN
   controller: VANN
   cores:
     VANN: yes
-  pops:
-    - estate: peasant
-      size: 1000
 480.6.1:
   cores:
     ROMW: no
@@ -50,9 +48,9 @@
     BROE: no
     BRI: yes
 867.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    breton-chalcedonism: 0
+    breton-catholic: 1
 907.1.1:
   owner: DAN
   controller: DAN

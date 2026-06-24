@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/2048 - Garjat.txt
 2.1.1:
+  pops: 
+    gond-jain: 1
   owner: JEYP
   controller: JEYP
   cores:
     JEYP: yes
   resource: tropical_wood
-  pops:
-    - religion: jain
-      estate: peasant
-      size: 1000
 120.1.1:
   owner: SATA
   controller: SATA
@@ -31,13 +29,13 @@
     BST: no
     JEYP: yes
 900.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    gond-jain: 0
+    gond-hindu: 1
 950.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    gond-hindu: 0
+    garjati-hindu: 1
 1038.1.1:
   owner: KALI
   controller: KALI

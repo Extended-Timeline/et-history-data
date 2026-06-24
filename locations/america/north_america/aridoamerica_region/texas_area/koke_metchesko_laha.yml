@@ -1,31 +1,28 @@
 #imported from EU4 file: history/provinces/883 - Lipan.txt
 2.1.1:
-  pops:
-    - religion: iroquoian_totemism
-      estate: peasant
-      size: 1000
+  pops: 
+    coahuilteco_culture-iroquoian_totemism: 1
 1200.1.1:
+  pops: 
+    coahuilteco_culture-iroquoian_totemism: 0
+    lepai_nde_culture-iroquoian_totemism: 1
   owner: LIPA
   controller: LIPA
   cores:
     LIPA: yes
   resource: grain
-  pops:
-    - estate: peasant
-      size: 1000
 1718.5.1:
+  pops: 
+    lepai_nde_culture-iroquoian_totemism: 0
+    castilian-catholic: 1
   owner: SPA
   controller: SPA
   cores:
     SPA: yes
-  pops:
-    - religion: catholic
-      estate: peasant
-      size: 1000
 1770.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    castilian-catholic: 0
+    mexican-catholic: 1
 1810.9.16:
   owner: MEX
   controller: SPA
@@ -36,13 +33,13 @@
   cores:
     SPA: no
 1836.3.2:
+  pops: 
+    mexican-catholic: 0
+    iberian_louisianan-catholic: 1
   owner: TEXA
   controller: TEXA
   cores:
     TEXA: yes
-  pops:
-    - estate: peasant
-      size: 1000
 1845.12.29:
   owner: USA
   controller: USA
@@ -67,6 +64,3 @@
   cores:
     CSAM: no
 1920.1.1:
-  pops:
-    - estate: peasant
-      size: 1000

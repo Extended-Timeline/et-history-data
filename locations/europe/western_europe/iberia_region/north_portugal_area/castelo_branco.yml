@@ -1,18 +1,16 @@
 #imported from EU4 file: history/provinces/228 - Beira.txt
 2.1.1:
+  pops: 
+    lusitanian-druidism: 1
   owner: ROM
   controller: ROM
   cores:
     ROM: yes
   resource: wine
-  pops:
-    - religion: druidism
-      estate: peasant
-      size: 1000
 380.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    lusitanian-druidism: 0
+    lusitanian-chalcedonism: 1
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -51,13 +49,13 @@
     UMAY: no
     CRDB: yes
 820.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    lusitanian-chalcedonism: 0
+    lusitanian-sunni: 1
 900.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    lusitanian-sunni: 0
+    andalusi-sunni: 1
 1011.1.1:
   owner: BADJ
   controller: BADJ
@@ -75,18 +73,18 @@
   cores:
     SEVI: no
 1037.1.1:
+  pops: 
+    andalusi-sunni: 0
+    portuguese-sunni: 1
   owner: LON
   controller: LON
   cores:
     BADJ: no
     LON: yes
-  pops:
-    - estate: peasant
-      size: 1000
 1100.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    portuguese-sunni: 0
+    portuguese-catholic: 1
 1139.6.23:
   owner: POR
   controller: POR

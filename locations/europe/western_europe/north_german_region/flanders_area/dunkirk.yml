@@ -1,27 +1,25 @@
 #imported from EU4 file: history/provinces/87 - Calais.txt
 2.1.1:
+  pops: 
+    belgae-druidism: 1
   owner: ROM
   controller: ROM
   cores:
     ROM: yes
   resource: fish
-  pops:
-    - religion: druidism
-      estate: peasant
-      size: 1000
 260.1.1:
+  pops: 
+    belgae-druidism: 0
+    gallian-druidism: 1
   cores:
     GALL: yes
-  pops:
-    - estate: peasant
-      size: 1000
 274.1.1:
+  pops: 
+    gallian-druidism: 0
+    flemish-druidism: 1
   controller: ROM
   cores:
     GALL: no
-  pops:
-    - estate: peasant
-      size: 1000
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -35,9 +33,9 @@
     ROMW: no
     FRAN: yes
 500.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    flemish-druidism: 0
+    flemish-chalcedonism: 1
 511.11.27:
   owner: SOIS
   controller: SOIS
@@ -79,9 +77,9 @@
   cores:
     FLA: yes
 867.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    flemish-chalcedonism: 0
+    flemish-catholic: 1
 896.1.1:
   owner: FLA
   controller: FLA
@@ -108,13 +106,13 @@
 1558.1.7:
   controller: FRA
 1559.4.3:
+  pops: 
+    flemish-catholic: 0
+    french-catholic: 1
   owner: FRA
   cores:
     ENG: no
     FRA: yes
-  pops:
-    - estate: peasant
-      size: 1000
 1596.1.1:
   controller: SPA
 1598.1.1:

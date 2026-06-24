@@ -1,40 +1,36 @@
 #imported from EU4 file: history/provinces/757 - Ilheus.txt
 2.1.1:
+  pops: 
+    tupinamba_culture-muisca_religion: 1
   owner: TPQ
   controller: TPQ
   cores:
     TPQ: yes
   resource: cocoa
-  pops:
-    - religion: muisca_religion
-      estate: peasant
-      size: 1000
 1534.6.26:
+  pops: 
+    tupinamba_culture-muisca_religion: 0
+    portuguese-muisca_religion: 1
   owner: POR
   controller: POR
   cores:
     POR: yes
-  pops:
-    - estate: peasant
-      size: 1000
 1624.5.1:
+  pops: 
+    portuguese-muisca_religion: 0
+    low_franconian-calvinist: 1
   owner: NED
   controller: NED
-  pops:
-    - religion: calvinist
-      estate: peasant
-      size: 1000
 1625.4.1:
+  pops: 
+    low_franconian-calvinist: 0
+    portuguese-catholic: 1
   owner: POR
   controller: POR
-  pops:
-    - religion: catholic
-      estate: peasant
-      size: 1000
 1780.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    portuguese-catholic: 0
+    brazilian-catholic: 1
 1822.9.7:
   owner: BRAZ
   controller: BRAZ

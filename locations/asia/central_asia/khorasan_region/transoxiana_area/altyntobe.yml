@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/2356 - Shymkent.txt
 2.1.1:
+  pops: 
+    sogdian-zoroastrian: 1
   owner: KAGJ
   controller: KAGJ
   cores:
     KAGJ: yes
   resource: tea
-  pops:
-    - religion: zoroastrian
-      estate: peasant
-      size: 1000
 320.1.1:
   owner: KIDA
   controller: KIDA
@@ -68,13 +66,13 @@
     KOKA: no
     KKHA: yes
 870.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    sogdian-zoroastrian: 0
+    uzbek_culture-zoroastrian: 1
 880.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    uzbek_culture-zoroastrian: 0
+    uzbek_culture-sunni: 1
 991.1.1:
   owner: TRAN
   controller: TRAN

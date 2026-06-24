@@ -1,15 +1,13 @@
 #imported from EU4 file: history/provinces/2180 - Tianshui.txt
 2.1.1:
+  pops: 
+    zhongyuan_culture-sanjiao: 1
   owner: HAN0
   controller: HAN0
   cores:
     HAN0: yes
     SHU0: yes
   resource: grain
-  pops:
-    - religion: sanjiao
-      estate: peasant
-      size: 1000
 9.1.10:
   owner: XIN0
   controller: XIN0
@@ -33,9 +31,9 @@
     WEI0: no
     JIN1: yes
 296.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    zhongyuan_culture-sanjiao: 0
+    baima_culture-sanjiao: 1
 314.3.4:
   owner: LIAN
   controller: LIAN
@@ -61,9 +59,9 @@
     WEI0: no
     ZHOU: yes
 580.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    baima_culture-sanjiao: 0
+    zhongyuan_culture-sanjiao: 1
 581.3.4:
   owner: SUI0
   controller: SUI0

@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/4744 - Zwickau.txt
 2.1.1:
+  pops: 
+    east_franconian-germanic: 1
   owner: HERM
   controller: HERM
   cores:
     HERM: yes
   resource: cloth
-  pops:
-    - religion: germanic_polytheism
-      estate: peasant
-      size: 1000
 390.1.1:
   owner: THU
   controller: THU
@@ -16,15 +14,14 @@
     HERM: no
     THU: yes
 600.1.1:
+  pops: 
+    east_franconian-germanic: 0
+    sorbian-slavic: 1
   owner: SORB
   controller: SORB
   cores:
     LOMB: no
     SORB: yes
-  pops:
-    - religion: slavic_polytheism
-      estate: peasant
-      size: 1000
 932.1.1:
   owner: SAX
   controller: SAX
@@ -38,10 +35,9 @@
     SAX: no
     BRA: yes
 960.1.1:
-  pops:
-    - religion: catholic
-      estate: peasant
-      size: 1000
+  pops: 
+    sorbian-slavic: 0
+    saxon-catholic: 1
 965.5.20:
   owner: MEI
   controller: MEI

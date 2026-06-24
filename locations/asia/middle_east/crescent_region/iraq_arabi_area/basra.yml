@@ -1,37 +1,35 @@
 #imported from EU4 file: history/provinces/408 - Basra.txt
 2.1.1:
+  pops: 
+    iraqi_culture-zoroastrian: 1
   owner: CHRC
   controller: CHRC
   cores:
     CHRC: yes
   resource: salt
-  pops:
-    - religion: zoroastrian
-      estate: peasant
-      size: 1000
 222.1.1:
   owner: ERA
   controller: ERA
   cores:
     ERA: yes
 639.1.1:
+  pops: 
+    iraqi_culture-zoroastrian: 0
+    iraqi_culture-islam: 1
   owner: RASH
   controller: RASH
   cores:
     ERA: no
     RASH: yes
-  pops:
-    - estate: peasant
-      size: 1000
 661.7.28:
+  pops: 
+    iraqi_culture-islam: 0
+    iraqi_culture-sunni: 1
   owner: UMAY
   controller: UMAY
   cores:
     RASH: no
     UMAY: yes
-  pops:
-    - estate: peasant
-      size: 1000
 750.8.6:
   owner: ABBA
   controller: ABBA
@@ -76,9 +74,9 @@
     SELJ: no
     ABBA: yes
 1250.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    iraqi_culture-sunni: 0
+    iraqi_culture-shia: 1
 1258.2.10:
   owner: MGE
   controller: MGE

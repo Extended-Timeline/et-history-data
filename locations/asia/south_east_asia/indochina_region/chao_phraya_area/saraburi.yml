@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/4832 - Lopburi.txt
 2.1.1:
+  pops: 
+    mon_culture-mahayana: 1
   owner: MON0
   controller: MON0
   cores:
     MON0: yes
   resource: grain
-  pops:
-    - religion: mahayana
-      estate: peasant
-      size: 1000
 150.1.1:
   owner: FUNA
   controller: FUNA
@@ -22,9 +20,9 @@
     FUNA: no
     DVAR: yes
 600.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    mon_culture-mahayana: 0
+    mon_culture-theravada: 1
 661.1.1:
   owner: LAV
   controller: LAV
@@ -37,18 +35,15 @@
   cores:
     CAMB: yes
 1050.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    mon_culture-theravada: 0
+    thai_culture-theravada: 1
 1060.1.1:
   owner: LAV
   controller: LAV
   cores:
     CAMB: no
 1290.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
 1388.1.1:
   owner: AYU
   controller: AYU

@@ -1,18 +1,16 @@
 #imported from EU4 file: history/provinces/2786 - Bosaso.txt
 2.1.1:
+  pops: 
+    somali_culture-bantu_religion: 1
   owner: BOSA
   controller: BOSA
   cores:
     BOSA: yes
   resource: incense
-  pops:
-    - religion: bantu_religion
-      estate: peasant
-      size: 1000
 1050.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    somali_culture-bantu_religion: 0
+    somali_culture-sunni: 1
 1200.1.1:
   owner: WAR
   controller: WAR

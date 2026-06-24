@@ -1,15 +1,13 @@
 #imported from EU4 file: history/provinces/286 - Azow.txt
 2.1.1:
+  pops: 
+    pontic_greek_culture-hellenism_religion: 1
   owner: BOSP
   controller: BOSP
   cores:
     BOSP: yes
     ROM: yes
   resource: slaves
-  pops:
-    - religion: hellenism_religion
-      estate: peasant
-      size: 1000
 250.1.1:
   owner: OSTR
   controller: OSTR
@@ -18,25 +16,23 @@
     ROM: no
     OSTR: yes
 300.1.1:
-  pops:
-    - religion: germanic_polytheism
-      estate: peasant
-      size: 1000
+  pops: 
+    pontic_greek_culture-hellenism_religion: 0
+    gothic-germanic: 1
 370.1.1:
+  pops: 
+    gothic-germanic: 0
+    gothic-: 1
   owner: HUNS
   controller: HUNS
   cores:
     OSTR: no
     HUNS: yes
-  pops:
-    - estate: peasant
-      size: 1000
 420.1.1:
+  pops: 
+    bolghar_culture-: 1
   cores:
     UTIG: yes
-  pops:
-    - estate: peasant
-      size: 1000
 469.1.1:
   owner: UTIG
   controller: UTIG
@@ -55,23 +51,21 @@
     BUL: no
     HUN: yes
 750.1.1:
+  pops: 
+    khazar-: 1
   owner: KHAZ
   controller: KHAZ
   cores:
     HUN: no
     KHAZ: yes
-  pops:
-    - estate: peasant
-      size: 1000
 969.1.1:
+  pops: 
+    cuman_culture-: 1
   owner: PECH
   controller: PECH
   cores:
     KHAZ: no
     PECH: yes
-  pops:
-    - estate: peasant
-      size: 1000
 1060.1.1:
   owner: CUMA
   controller: CUMA
@@ -80,18 +74,16 @@
     CUMA: yes
     ZAZ: yes
 1237.1.1:
+  pops: 
+    crimean-: 1
   owner: MGE
   controller: MGE
   cores:
     CUMA: no
     MGE: yes
-  pops:
-    - estate: peasant
-      size: 1000
 1240.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    crimean-sunni: 1
 1260.1.1:
   owner: WHHO
   controller: WHHO
@@ -139,13 +131,13 @@
 1760.1.1:
   resource: salt
 1840.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    crimean-sunni: 0
+    crimean-orthodox: 1
 1860.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    crimean-orthodox: 0
+    muscovite-orthodox: 1
 1922.12.30:
   owner: SOVI
   controller: SOVI

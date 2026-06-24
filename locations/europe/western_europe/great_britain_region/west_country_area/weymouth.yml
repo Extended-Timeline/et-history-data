@@ -1,23 +1,21 @@
 #imported from EU4 file: history/provinces/4374 - Dorset.txt
 2.1.1:
+  pops: 
+    briton-druidism: 1
   owner: DURO
   controller: DURO
   cores:
     DURO: yes
   resource: livestock
-  pops:
-    - religion: druidism
-      estate: peasant
-      size: 1000
 55.1.1:
   owner: ROM
   controller: ROM
   cores:
     ROM: yes
 200.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    briton-druidism: 0
+    welsh-druidism: 1
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -31,17 +29,17 @@
     ROMW: no
     DUMN: yes
 500.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    welsh-druidism: 0
+    welsh-chalcedonism: 1
 520.1.1:
+  pops: 
+    welsh-chalcedonism: 0
+    anglo_saxon-chalcedonism: 1
   owner: WESS
   controller: WESS
   cores:
     WESS: yes
-  pops:
-    - estate: peasant
-      size: 1000
 645.1.1:
   owner: MERC
   controller: MERC
@@ -53,9 +51,9 @@
   cores:
     MERC: no
 867.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    anglo_saxon-chalcedonism: 0
+    anglo_saxon-catholic: 1
 927.1.1:
   owner: ENG
   controller: ENG
@@ -63,15 +61,15 @@
     WESS: no
     ENG: yes
 1066.12.25:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    anglo_saxon-catholic: 0
+    english-catholic: 1
 1461.6.28:
   controller: ENG
 1540.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    english-catholic: 0
+    english-anglican: 1
 1707.5.12:
   owner: GBR
   controller: GBR

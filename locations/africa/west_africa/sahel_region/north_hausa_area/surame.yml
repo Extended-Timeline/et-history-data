@@ -1,9 +1,7 @@
 #imported from EU4 file: history/provinces/1148 - Gobir.txt
 2.1.1:
-  pops:
-    - religion: bantu_religion
-      estate: peasant
-      size: 1000
+  pops: 
+    hausa-bantu_religion: 1
 523.1.1:
   owner: GOB
   controller: GOB
@@ -11,9 +9,9 @@
     GOB: yes
   resource: iron
 1360.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    hausa-bantu_religion: 0
+    hausa-sunni: 1
 1514.1.1:
   owner: SON
   controller: SON

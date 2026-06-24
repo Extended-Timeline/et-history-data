@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/4387 - Angouleme.txt
 2.1.1:
+  pops: 
+    gallian-druidism: 1
   owner: ROM
   controller: ROM
   cores:
     ROM: yes
   resource: livestock
-  pops:
-    - religion: druidism
-      estate: peasant
-      size: 1000
 260.1.1:
   cores:
     GALL: yes
@@ -23,9 +21,9 @@
     ROM: no
     ROMW: yes
 400.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    gallian-druidism: 0
+    gallian-chalcedonism: 1
 455.1.1:
   owner: VISG
   controller: VISG
@@ -33,14 +31,14 @@
     ROMW: no
     VISG: yes
 507.1.1:
+  pops: 
+    gallian-chalcedonism: 0
+    languedocien-chalcedonism: 1
   owner: FRAN
   controller: FRAN
   cores:
     VISG: no
     FRAN: yes
-  pops:
-    - estate: peasant
-      size: 1000
 511.11.27:
   owner: SOIS
   controller: SOIS
@@ -108,9 +106,9 @@
     WFRA: no
     AQN: yes
 867.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    languedocien-chalcedonism: 0
+    languedocien-catholic: 1
 893.1.1:
   owner: AUV
   controller: AUV
@@ -138,9 +136,9 @@
     FRA: no
     BER: yes
 1400.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    languedocien-catholic: 0
+    french-catholic: 1
 1404.1.1:
   owner: ORL
   controller: ORL

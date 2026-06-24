@@ -1,18 +1,16 @@
 #imported from EU4 file: history/provinces/334 - Tangiers.txt
 2.1.1:
+  pops: 
+    zenati-bantu_religion: 1
   owner: ROM
   controller: ROM
   cores:
     ROM: yes
   resource: cloth
-  pops:
-    - religion: bantu_religion
-      estate: peasant
-      size: 1000
 320.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    zenati-bantu_religion: 0
+    zenati-chalcedonism: 1
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -20,14 +18,14 @@
     ROM: no
     ROMW: yes
 429.1.1:
+  pops: 
+    zenati-chalcedonism: 0
+    zenati-arianism: 1
   owner: VAND
   controller: VAND
   cores:
     ROMW: no
     VAND: yes
-  pops:
-    - estate: peasant
-      size: 1000
 534.3.1:
   owner: BYZ
   controller: BYZ
@@ -35,9 +33,9 @@
     VAND: no
     BYZ: yes
 550.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    zenati-arianism: 0
+    zenati-chalcedonism: 1
 702.1.1:
   owner: UMAY
   controller: UMAY
@@ -45,9 +43,9 @@
     BYZ: no
     UMAY: yes
 730.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    zenati-chalcedonism: 0
+    zenati-ibadi: 1
 743.1.1:
   owner: NEKO
   controller: NEKO
@@ -61,9 +59,9 @@
     NEKO: no
     MOR: yes
 790.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    zenati-ibadi: 0
+    zenati-shia: 1
 922.1.1:
   owner: FATI
   controller: FATI
@@ -83,9 +81,9 @@
     MOR: no
     CRDB: yes
 990.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    zenati-shia: 0
+    zenati-sunni: 1
 1026.1.1:
   owner: ALGC
   controller: ALGC

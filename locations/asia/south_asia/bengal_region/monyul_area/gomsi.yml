@@ -1,27 +1,25 @@
 #imported from EU4 file: history/provinces/2040 - Sadiya.txt
 2.1.1:
+  pops: 
+    dimasa_culture-bimoism: 1
   owner: SADI
   controller: SADI
   cores:
     SADI: yes
   resource: tea
-  pops:
-    - religion: bimoism
-      estate: peasant
-      size: 1000
 450.1.1:
   owner: KAMA
   controller: KAMA
   cores:
     KAMA: yes
 550.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    dimasa_culture-bimoism: 0
+    dimasa_culture-hindu: 1
 950.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    dimasa_culture-hindu: 0
+    kamarupi-hindu: 1
 1100.1.1:
   owner: SADI
   controller: SADI

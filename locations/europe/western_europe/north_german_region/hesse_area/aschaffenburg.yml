@@ -1,32 +1,30 @@
 #imported from EU4 file: history/provinces/4718 - Aschaffenburg.txt
 2.1.1:
+  pops: 
+    rhine_franconian-germanic: 1
   owner: CHTT
   controller: CHTT
   cores:
     CHTT: yes
   resource: cloth
-  pops:
-    - religion: germanic_polytheism
-      estate: peasant
-      size: 1000
 72.1.1:
+  pops: 
+    rhine_franconian-germanic: 0
+    high_alemannic-germanic: 1
   owner: ALEM
   controller: ALEM
   cores:
     CHTT: no
     ALEM: yes
-  pops:
-    - estate: peasant
-      size: 1000
 395.1.1:
+  pops: 
+    high_alemannic-germanic: 0
+    burgundione-germanic: 1
   owner: BUR
   controller: BUR
   cores:
     VAND: no
     BUR: yes
-  pops:
-    - estate: peasant
-      size: 1000
 443.1.1:
   owner: ALEM
   controller: ALEM
@@ -34,14 +32,14 @@
     BUR: no
     ALEM: yes
 451.1.1:
+  pops: 
+    burgundione-germanic: 0
+    east_franconian-germanic: 1
   owner: THU
   controller: THU
   cores:
     ALEM: no
     THU: yes
-  pops:
-    - estate: peasant
-      size: 1000
 454.1.1:
   owner: FRAN
   controller: FRAN
@@ -49,9 +47,9 @@
     THU: no
     FRAN: yes
 500.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    east_franconian-germanic: 0
+    east_franconian-chalcedonism: 1
 511.11.27:
   owner: ASTS
   controller: ASTS
@@ -95,9 +93,9 @@
     FRAN: no
     EFRA: yes
 867.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    east_franconian-chalcedonism: 0
+    east_franconian-catholic: 1
 911.11.10:
   owner: FKN
   controller: FKN
@@ -111,9 +109,9 @@
     FKN: no
     MAI: yes
 1556.4.19:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    east_franconian-catholic: 0
+    east_franconian-lutheran: 1
 1631.12.22:
   controller: SWE
 1635.1.1:

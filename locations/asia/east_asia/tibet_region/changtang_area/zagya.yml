@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/4205 - Nagchu.txt
 2.1.1:
+  pops: 
+    amdowa_culture-bon: 1
   owner: SUMP
   controller: SUMP
   cores:
     SUMP: yes
   resource: livestock
-  pops:
-    - religion: bon
-      estate: peasant
-      size: 1000
 600.1.1:
   owner: YARL
   controller: YARL
@@ -21,10 +19,9 @@
     ZHAN: no
     TIB: yes
 630.1.1:
-  pops:
-    - religion: tibetan_buddhism
-      estate: peasant
-      size: 1000
+  pops: 
+    amdowa_culture-bon: 0
+    utsang_culture-tibetan_buddhism: 1
 842.1.1:
   owner: PHAG
   controller: PHAG

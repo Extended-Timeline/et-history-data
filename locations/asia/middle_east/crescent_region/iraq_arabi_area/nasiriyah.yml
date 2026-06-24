@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/2311 - Samayah.txt
 2.1.1:
+  pops: 
+    iraqi_culture-ashurism: 1
   owner: PART
   controller: PART
   cores:
     PART: yes
   resource: spices
-  pops:
-    - religion: ashurism
-      estate: peasant
-      size: 1000
 116.1.1:
   owner: ROM
   controller: ROM
@@ -20,9 +18,9 @@
   cores:
     ROM: no
 210.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    iraqi_culture-ashurism: 0
+    iraqi_culture-chalcedonism: 1
 220.1.1:
   owner: LAKH
   controller: LAKH
@@ -30,9 +28,9 @@
     PART: no
     LAKH: yes
 431.7.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    iraqi_culture-chalcedonism: 0
+    iraqi_culture-nestorianism: 1
 602.1.1:
   owner: ERA
   controller: ERA
@@ -52,9 +50,9 @@
     RASH: no
     UMAY: yes
 680.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    iraqi_culture-nestorianism: 0
+    iraqi_culture-sunni: 1
 750.8.6:
   owner: ABBA
   controller: ABBA
@@ -99,9 +97,9 @@
     SELJ: no
     ABBA: yes
 1250.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    iraqi_culture-sunni: 0
+    iraqi_culture-shia: 1
 1258.2.10:
   owner: MGE
   controller: MGE

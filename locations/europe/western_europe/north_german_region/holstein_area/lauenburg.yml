@@ -1,23 +1,21 @@
 #imported from EU4 file: history/provinces/1857 - Lauenburg.txt
 2.1.1:
+  pops: 
+    saxon-germanic: 1
   owner: SAX
   controller: SAX
   cores:
     SAX: yes
   resource: salt
-  pops:
-    - religion: germanic_polytheism
-      estate: peasant
-      size: 1000
 804.1.1:
   owner: OBOT
   controller: OBOT
   cores:
     OBOT: yes
 900.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    saxon-germanic: 0
+    saxon-catholic: 1
 911.11.10:
   owner: SAX
   controller: SAX
@@ -25,9 +23,9 @@
     OBOT: no
     SAX: yes
 1200.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    saxon-catholic: 0
+    lower_saxon-catholic: 1
 1296.1.1:
   owner: LAU
   controller: LAU
@@ -35,9 +33,9 @@
     SAX: no
     LAU: yes
 1529.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    lower_saxon-catholic: 0
+    lower_saxon-lutheran: 1
 1689.1.1:
   owner: BRU
   controller: BRU
@@ -107,6 +105,3 @@
   cores:
     WGER: no
 2020.1.1:
-  pops:
-    - estate: peasant
-      size: 1000

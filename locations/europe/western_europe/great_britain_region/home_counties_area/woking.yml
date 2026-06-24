@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/4371 - Sussex.txt
 2.1.1:
+  pops: 
+    briton-druidism: 1
   owner: KENT
   controller: KENT
   cores:
     KENT: yes
   resource: grain
-  pops:
-    - religion: druidism
-      estate: peasant
-      size: 1000
 20.1.1:
   owner: CATU
   controller: CATU
@@ -27,28 +25,27 @@
     ROM: no
     ROMW: yes
 420.1.1:
+  pops: 
+    briton-druidism: 0
+    anglo_saxon-germanic: 1
   owner: SUSS
   controller: SUSS
   cores:
     ROMW: no
     SUSS: yes
-  pops:
-    - religion: germanic_polytheism
-      estate: peasant
-      size: 1000
 675.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    anglo_saxon-germanic: 0
+    anglo_saxon-chalcedonism: 1
 827.1.1:
   owner: WESS
   controller: WESS
   cores:
     WESS: yes
 867.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    anglo_saxon-chalcedonism: 0
+    anglo_saxon-catholic: 1
 927.1.1:
   owner: ENG
   controller: ENG
@@ -59,21 +56,21 @@
   cores:
     SUSS: no
 1066.12.25:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    anglo_saxon-catholic: 0
+    english-catholic: 1
 1450.7.12:
   controller: ENG
 1461.6.28:
   controller: ENG
 1538.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    english-catholic: 0
+    english-anglican: 1
 1580.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    english-anglican: 0
+    english-calvinist: 1
 1646.5.5:
   controller: ENG
 1648.6.1:

@@ -1,51 +1,48 @@
 #imported from EU4 file: history/provinces/4237 - Olomouc.txt
 2.1.1:
+  pops: 
+    quadian-germanic: 1
   owner: QUAD
   controller: QUAD
   cores:
     QUAD: yes
   resource: grain
-  pops:
-    - religion: germanic_polytheism
-      estate: peasant
-      size: 1000
 395.1.1:
+  pops: 
+    quadian-germanic: 0
+    vandal-germanic: 1
   owner: NAHA
   controller: NAHA
   cores:
     QUAD: no
     NAHA: yes
-  pops:
-    - estate: peasant
-      size: 1000
 454.1.1:
+  pops: 
+    vandal-germanic: 0
+    southern_bavarian-germanic: 1
   owner: HERU
   controller: HERU
   cores:
     NAHA: no
     HERU: yes
-  pops:
-    - estate: peasant
-      size: 1000
 509.1.1:
+  pops: 
+    southern_bavarian-germanic: 0
+    langobardi-germanic: 1
   owner: LOMB
   controller: LOMB
   cores:
     HERU: no
     LOMB: yes
-  pops:
-    - estate: peasant
-      size: 1000
 569.1.1:
+  pops: 
+    langobardi-germanic: 0
+    czech-slavic: 1
   owner: MVA
   controller: MVA
   cores:
     LOMB: no
     MVA: yes
-  pops:
-    - religion: slavic_polytheism
-      estate: peasant
-      size: 1000
 623.1.1:
   owner: SAMO
   controller: SAMO
@@ -57,13 +54,13 @@
   cores:
     SAMO: no
 831.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    czech-slavic: 0
+    czech-chalcedonism: 1
 867.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    czech-chalcedonism: 0
+    czech-catholic: 1
 907.1.1:
   owner: BOH
   controller: BOH
@@ -80,9 +77,9 @@
   cores:
     POL: no
 1419.12.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    czech-catholic: 0
+    czech-hussite: 1
 1436.7.5:
   controller: BOH
 1526.8.30:
@@ -120,9 +117,9 @@
   cores:
     GER: no
 1980.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    czech-hussite: 0
+    czech-irreligious: 1
 1992.12.31:
   owner: CZEC
   controller: CZEC

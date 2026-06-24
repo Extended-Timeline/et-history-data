@@ -1,23 +1,21 @@
 #imported from EU4 file: history/provinces/1226 - Taka.txt
 2.1.1:
+  pops: 
+    beja_culture-bantu_religion: 1
   owner: BEJ
   controller: BEJ
   cores:
     BEJ: yes
   resource: livestock
-  pops:
-    - religion: bantu_religion
-      estate: peasant
-      size: 1000
 350.1.1:
   owner: AKSM
   controller: AKSM
   cores:
     AKSM: yes
 650.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    beja_culture-bantu_religion: 0
+    beja_culture-miaphysite: 1
 700.1.1:
   owner: BAZI
   controller: BAZI
@@ -25,9 +23,9 @@
     AKSM: no
     BAZI: yes
 1430.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    beja_culture-miaphysite: 0
+    beja_culture-sunni: 1
 1503.1.1:
   owner: FUNJ
   controller: FUNJ
@@ -41,9 +39,6 @@
   cores:
     TUR: yes
 1830.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
 1867.6.8:
   owner: EGY
   controller: EGY

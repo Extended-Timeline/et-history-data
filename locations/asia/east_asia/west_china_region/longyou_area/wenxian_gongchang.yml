@@ -1,15 +1,13 @@
 #imported from EU4 file: history/provinces/2183 - Taozhou.txt
 2.1.1:
+  pops: 
+    baima_culture-mahayana: 1
   owner: HAN0
   controller: HAN0
   cores:
     HAN0: yes
     DI00: yes
   resource: chinaware
-  pops:
-    - religion: mahayana
-      estate: peasant
-      size: 1000
 9.1.10:
   owner: DI00
   controller: DI00
@@ -82,9 +80,9 @@
     TIB: no
     DI00: yes
 1050.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    baima_culture-mahayana: 0
+    baima_culture-tibetan_buddhism: 1
 1072.1.1:
   owner: SONG
   controller: SONG

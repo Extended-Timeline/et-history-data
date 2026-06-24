@@ -1,18 +1,16 @@
 #imported from EU4 file: history/provinces/4777 - Forez.txt
 2.1.1:
+  pops: 
+    gallian-druidism: 1
   owner: ROM
   controller: ROM
   cores:
     ROM: yes
   resource: livestock
-  pops:
-    - religion: druidism
-      estate: peasant
-      size: 1000
 360.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    gallian-druidism: 0
+    gallian-chalcedonism: 1
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -20,18 +18,17 @@
     ROM: no
     ROMW: yes
 450.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    gallian-chalcedonism: 0
+    gallian-arianism: 1
 455.1.1:
+  pops: 
+    gallian-arianism: 0
+    burgundione-germanic: 1
   owner: BUR
   controller: BUR
   cores:
     BUR: yes
-  pops:
-    - religion: germanic_polytheism
-      estate: peasant
-      size: 1000
 458.1.1:
   owner: ROMW
   controller: ROMW
@@ -41,13 +38,13 @@
   cores:
     ROMW: no
 486.6.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    burgundione-germanic: 0
+    burgundian-germanic: 1
 500.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    burgundian-germanic: 0
+    burgundian-chalcedonism: 1
 534.1.1:
   owner: NEUS
   controller: NEUS
@@ -75,9 +72,9 @@
   cores:
     ASTS: no
 600.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    burgundian-chalcedonism: 0
+    arpitan-chalcedonism: 1
 612.1.1:
   owner: ASTS
   controller: ASTS
@@ -117,9 +114,9 @@
     PRO: no
     ITA: yes
 867.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    arpitan-chalcedonism: 0
+    arpitan-catholic: 1
 888.1.1:
   owner: BUR
   controller: BUR
@@ -153,9 +150,9 @@
 1651.4.1:
   controller: FRA
 1850.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    arpitan-catholic: 0
+    french-catholic: 1
 1870.9.4:
   owner: FRA
   controller: FRA

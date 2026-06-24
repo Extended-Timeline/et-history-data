@@ -1,25 +1,23 @@
 #imported from EU4 file: history/provinces/878 - Navajo.txt
 2.1.1:
-  pops:
-    - religion: iroquoian_totemism
-      estate: peasant
-      size: 1000
+  pops: 
+    ancestral_pueblo_culture-iroquoian_totemism: 1
 1200.1.1:
+  pops: 
+    ancestral_pueblo_culture-iroquoian_totemism: 0
+    dine_culture-iroquoian_totemism: 1
   owner: DNE
   controller: DNE
   cores:
     DNE: yes
   resource: salt
-  pops:
-    - estate: peasant
-      size: 1000
 1866.1.1:
+  pops: 
+    dine_culture-iroquoian_totemism: 0
+    dine_culture-catholic: 1
   owner: USA
   controller: USA
   cores:
     USA: yes
-  pops:
-    - estate: peasant
-      size: 1000
 1880.1.1:
   resource: coal

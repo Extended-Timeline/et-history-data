@@ -1,18 +1,16 @@
 #imported from EU4 file: history/provinces/1769 - Gorz.txt
 2.1.1:
+  pops: 
+    venetian-hellenism_religion: 1
   owner: ROM
   controller: ROM
   cores:
     ROM: yes
   resource: iron
-  pops:
-    - religion: hellenism_religion
-      estate: peasant
-      size: 1000
 320.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    venetian-hellenism_religion: 0
+    venetian-chalcedonism: 1
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -28,18 +26,18 @@
   cores:
     ROMW: no
 489.1.1:
+  pops: 
+    venetian-chalcedonism: 0
+    gothic-chalcedonism: 1
   owner: OSTR
   controller: OSTR
   cores:
     ITA: no
     OSTR: yes
-  pops:
-    - estate: peasant
-      size: 1000
 490.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    gothic-chalcedonism: 0
+    gothic-arianism: 1
 545.1.1:
   owner: BYZ
   controller: BYZ
@@ -53,18 +51,17 @@
     BYZ: no
     LOMB: yes
 568.6.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    gothic-arianism: 0
+    lombard-arianism: 1
 650.1.1:
-  pops:
-    - religion: slavic_polytheism
-      estate: peasant
-      size: 1000
+  pops: 
+    lombard-arianism: 0
+    slovene-slavic: 1
 680.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    slovene-slavic: 0
+    slovene-chalcedonism: 1
 774.1.1:
   owner: FRAN
   controller: FRAN
@@ -84,9 +81,9 @@
     MFRA: no
     ITA: yes
 867.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    slovene-chalcedonism: 0
+    slovene-catholic: 1
 951.1.1:
   owner: BAV
   controller: BAV

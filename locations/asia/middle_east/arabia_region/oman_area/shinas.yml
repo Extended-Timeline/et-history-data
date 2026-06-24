@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/399 - Suhar.txt
 2.1.1:
+  pops: 
+    omani_culture-south_arabian: 1
   owner: MASC
   controller: MASC
   cores:
     MASC: yes
   resource: grain
-  pops:
-    - religion: south_arabian_polytheism
-      estate: peasant
-      size: 1000
 325.1.1:
   owner: ERA
   controller: ERA
@@ -16,23 +14,23 @@
     MASC: no
     ERA: yes
 634.1.1:
+  pops: 
+    omani_culture-south_arabian: 0
+    omani_culture-islam: 1
   owner: RASH
   controller: RASH
   cores:
     ERA: no
     RASH: yes
-  pops:
-    - estate: peasant
-      size: 1000
 661.7.28:
+  pops: 
+    omani_culture-islam: 0
+    omani_culture-sunni: 1
   owner: UMAY
   controller: UMAY
   cores:
     RASH: no
     UMAY: yes
-  pops:
-    - estate: peasant
-      size: 1000
 750.8.6:
   owner: ABBA
   controller: ABBA
@@ -40,9 +38,9 @@
     UMAY: no
     ABBA: yes
 751.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    omani_culture-sunni: 0
+    omani_culture-ibadi: 1
 840.1.1:
   owner: OMA
   controller: OMA

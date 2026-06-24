@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/563 - Gauda.txt
 2.1.1:
+  pops: 
+    bengali-mahayana: 1
   owner: PUND
   controller: PUND
   cores:
     PUND: yes
   resource: paper
-  pops:
-    - religion: mahayana
-      estate: peasant
-      size: 1000
 358.1.1:
   owner: GUPT
   controller: GUPT
@@ -39,9 +37,9 @@
     KANN: no
     PALA: yes
 1170.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    bengali-mahayana: 0
+    bengali-hindu: 1
 1174.1.1:
   owner: GAUD
   controller: GAUD

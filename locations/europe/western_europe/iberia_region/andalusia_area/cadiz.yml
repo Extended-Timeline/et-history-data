@@ -1,22 +1,20 @@
 #imported from EU4 file: history/provinces/1749 - Cadiz.txt
 2.1.1:
+  pops: 
+    iberi-bimoism: 1
   owner: ROM
   controller: ROM
   cores:
     ROM: yes
   resource: naval_supplies
-  pops:
-    - religion: bimoism
-      estate: peasant
-      size: 1000
 100.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    iberi-bimoism: 0
+    iberi-hellenism_religion: 1
 310.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    iberi-hellenism_religion: 0
+    iberi-chalcedonism: 1
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -24,13 +22,13 @@
     ROM: no
     ROMW: yes
 409.1.1:
+  pops: 
+    iberi-chalcedonism: 0
+    iberi-arianism: 1
   owner: VAND
   controller: VAND
   cores:
     VAND: yes
-  pops:
-    - estate: peasant
-      size: 1000
 425.1.1:
   owner: ROMW
   controller: ROMW
@@ -61,9 +59,9 @@
   cores:
     BYZ: yes
 555.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    iberi-arianism: 0
+    iberi-chalcedonism: 1
 572.1.1:
   owner: VISG
   controller: VISG
@@ -76,13 +74,13 @@
     VISG: no
     UMAY: yes
 740.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    iberi-chalcedonism: 0
+    iberi-sunni: 1
 750.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    iberi-sunni: 0
+    andalusi-sunni: 1
 750.8.6:
   owner: CRDB
   controller: CRDB
@@ -120,18 +118,18 @@
     CRDB: no
     CAS: yes
 1320.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    andalusi-sunni: 0
+    andalusi-catholic: 1
 1516.1.23:
   owner: SPA
   controller: SPA
   cores:
     SPA: yes
 1610.1.12:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    andalusi-catholic: 0
+    castilian-catholic: 1
 1713.4.11:
   cores:
     CAS: no

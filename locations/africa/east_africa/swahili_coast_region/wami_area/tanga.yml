@@ -1,13 +1,11 @@
 #imported from EU4 file: history/provinces/1200 - Tanga.txt
 2.1.1:
-  pops:
-    - religion: bantu_religion
-      estate: peasant
-      size: 1000
+  pops: 
+    maasai_culture-bantu_religion: 1
 200.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    maasai_culture-bantu_religion: 0
+    swahili_culture-bantu_religion: 1
 850.1.1:
   owner: MBA
   controller: MBA
@@ -30,9 +28,9 @@
   cores:
     OMA: no
 1830.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    swahili_culture-bantu_religion: 0
+    swahili_culture-sunni: 1
 1856.10.19:
   owner: ZZB
   controller: ZZB

@@ -1,18 +1,16 @@
 #imported from EU4 file: history/provinces/230 - Algarve.txt
 2.1.1:
+  pops: 
+    turduli-druidism: 1
   owner: ROM
   controller: ROM
   cores:
     ROM: yes
   resource: fish
-  pops:
-    - religion: druidism
-      estate: peasant
-      size: 1000
 340.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    turduli-druidism: 0
+    turduli-chalcedonism: 1
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -51,13 +49,13 @@
     UMAY: no
     CRDB: yes
 780.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    turduli-chalcedonism: 0
+    turduli-sunni: 1
 800.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    turduli-sunni: 0
+    andalusi-sunni: 1
 1023.1.1:
   owner: SEVI
   controller: SEVI
@@ -93,19 +91,19 @@
   cores:
     MOR: yes
 1249.1.1:
+  pops: 
+    andalusi-sunni: 0
+    portuguese-sunni: 1
   owner: POR
   controller: POR
   cores:
     SILV: no
     MOR: no
     POR: yes
-  pops:
-    - estate: peasant
-      size: 1000
 1290.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    portuguese-sunni: 0
+    portuguese-catholic: 1
 1807.11.30:
   controller: SPA
 1808.6.18:

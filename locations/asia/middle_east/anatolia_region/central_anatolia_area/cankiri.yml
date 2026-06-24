@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/4313 - Cangiri.txt
 2.1.1:
+  pops: 
+    galatian-hellenism_religion: 1
   owner: ROM
   controller: ROM
   cores:
     ROM: yes
   resource: wool
-  pops:
-    - religion: hellenism_religion
-      estate: peasant
-      size: 1000
 395.1.17:
   owner: BYZ
   controller: BYZ
@@ -16,33 +14,32 @@
     ROM: no
     BYZ: yes
 440.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    galatian-hellenism_religion: 0
+    galatian-chalcedonism: 1
 600.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    galatian-chalcedonism: 0
+    greek_culture-chalcedonism: 1
 615.1.1:
   controller: ERA
 626.1.1:
   controller: BYZ
 867.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    greek_culture-chalcedonism: 0
+    greek_culture-orthodox: 1
 1075.1.1:
   owner: DANI
   controller: DANI
   cores:
     DANI: yes
 1120.1.1:
+  pops: 
+    greek_culture-orthodox: 0
+    turkish_culture-sunni: 1
   cores:
     BYZ: no
-  pops:
-    - religion: sunni
-      estate: peasant
-      size: 1000
 1178.1.1:
   owner: RUM
   controller: RUM

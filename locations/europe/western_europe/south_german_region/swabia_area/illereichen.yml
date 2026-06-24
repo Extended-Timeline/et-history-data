@@ -1,23 +1,21 @@
 #imported from EU4 file: history/provinces/68 - Schwaben.txt
 2.1.1:
+  pops: 
+    swabian-germanic: 1
   owner: ROM
   controller: ROM
   cores:
     ROM: yes
   resource: cloth
-  pops:
-    - religion: germanic_polytheism
-      estate: peasant
-      size: 1000
 350.1.1:
+  pops: 
+    swabian-germanic: 0
+    swabian-chalcedonism: 1
   owner: ALEM
   controller: ALEM
   cores:
     ROM: no
     ALEM: yes
-  pops:
-    - estate: peasant
-      size: 1000
 555.1.1:
   owner: BAV
   controller: BAV
@@ -25,9 +23,6 @@
     ALEM: no
     BAV: yes
 600.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
 788.1.1:
   owner: FRAN
   controller: FRAN
@@ -41,9 +36,9 @@
     FRAN: no
     EFRA: yes
 867.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    swabian-chalcedonism: 0
+    swabian-catholic: 1
 911.11.10:
   owner: SWA
   controller: SWA
@@ -74,9 +69,9 @@
     BAV: no
     MEM: yes
 1525.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    swabian-catholic: 0
+    swabian-lutheran: 1
 1702.1.1:
   owner: BAV
   controller: BAV

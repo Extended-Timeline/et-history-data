@@ -1,18 +1,16 @@
 #imported from EU4 file: history/provinces/706 - Sarig Yogir.txt
 2.1.1:
+  pops: 
+    amdowa_culture-bon: 1
   owner: QIAN
   controller: QIAN
   cores:
     QIAN: yes
   resource: salt
-  pops:
-    - religion: bon
-      estate: peasant
-      size: 1000
 285.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    amdowa_culture-bon: 0
+    amdowa_culture-: 1
 350.1.1:
   owner: TUYU
   controller: TUYU
@@ -25,9 +23,8 @@
   cores:
     TIB: yes
 680.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    amdowa_culture-tibetan_buddhism: 1
 842.1.1:
   owner: PHAG
   controller: PHAG
@@ -41,14 +38,14 @@
     PHAG: no
     QIAN: yes
 1038.1.1:
+  pops: 
+    amdowa_culture-tibetan_buddhism: 0
+    uyghur_culture-tibetan_buddhism: 1
   owner: SYOG
   controller: SYOG
   cores:
     QIAN: no
     SYOG: yes
-  pops:
-    - estate: peasant
-      size: 1000
 1227.1.1:
   owner: MGE
   controller: MGE
@@ -72,9 +69,9 @@
   cores:
     KHOS: yes
 1650.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    uyghur_culture-tibetan_buddhism: 0
+    oirat_culture-tibetan_buddhism: 1
 1717.1.1:
   owner: ZUNG
   controller: ZUNG

@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/454 - Samarkand.txt
 2.1.1:
+  pops: 
+    sogdian-zoroastrian: 1
   owner: SAMA
   controller: SAMA
   cores:
     SAMA: yes
   resource: spices
-  pops:
-    - religion: zoroastrian
-      estate: peasant
-      size: 1000
 130.1.1:
   owner: KUSH
   controller: KUSH
@@ -72,9 +70,9 @@
     UMAY: no
     ABBA: yes
 800.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    sogdian-zoroastrian: 0
+    tajik_culture-zoroastrian: 1
 819.1.1:
   owner: SAMA
   controller: SAMA
@@ -87,9 +85,9 @@
   cores:
     KOKA: yes
 880.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    tajik_culture-zoroastrian: 0
+    tajik_culture-sunni: 1
 892.8.1:
   owner: BUKH
   controller: BUKH
@@ -144,9 +142,9 @@
   cores:
     TIM: yes
 1380.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    tajik_culture-sunni: 0
+    uzbek_culture-sunni: 1
 1409.5.13:
   owner: TRAN
   controller: TRAN

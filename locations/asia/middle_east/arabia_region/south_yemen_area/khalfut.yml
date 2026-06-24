@@ -1,31 +1,29 @@
 #imported from EU4 file: history/provinces/4284 - Al Ghayda.txt
 2.1.1:
+  pops: 
+    mehri_culture-south_arabian: 1
   owner: MAHR
   controller: MAHR
   cores:
     MAHR: yes
   resource: fish
-  pops:
-    - religion: south_arabian_polytheism
-      estate: peasant
-      size: 1000
 635.1.1:
+  pops: 
+    mehri_culture-south_arabian: 0
+    mehri_culture-islam: 1
   owner: RASH
   controller: RASH
   cores:
     RASH: yes
-  pops:
-    - estate: peasant
-      size: 1000
 661.7.28:
+  pops: 
+    mehri_culture-islam: 0
+    mehri_culture-sunni: 1
   owner: UMAY
   controller: UMAY
   cores:
     RASH: no
     UMAY: yes
-  pops:
-    - estate: peasant
-      size: 1000
 750.8.6:
   owner: ABBA
   controller: ABBA
@@ -33,9 +31,9 @@
     UMAY: no
     ABBA: yes
 760.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    mehri_culture-sunni: 0
+    mehri_culture-ibadi: 1
 847.1.1:
   owner: MAHR
   controller: MAHR
@@ -43,9 +41,9 @@
     ABBA: no
     MAHR: yes
 1150.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    mehri_culture-ibadi: 0
+    mehri_culture-sunni: 1
 1278.12.22:
   owner: YEM
   controller: YEM

@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/2222 - Ardakan.txt
 2.1.1:
+  pops: 
+    parthian-zoroastrian: 1
   owner: PART
   controller: PART
   cores:
     PART: yes
   resource: incense
-  pops:
-    - religion: zoroastrian
-      estate: peasant
-      size: 1000
 224.4.24:
   owner: ERA
   controller: ERA
@@ -16,9 +14,9 @@
     PART: no
     ERA: yes
 300.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    parthian-zoroastrian: 0
+    farsi_culture-zoroastrian: 1
 643.1.1:
   owner: RASH
   controller: RASH
@@ -70,9 +68,9 @@
     MZN: no
     QOM: yes
 980.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    farsi_culture-zoroastrian: 0
+    farsi_culture-sunni: 1
 1029.1.1:
   owner: ISFA
   controller: ISFA
@@ -104,9 +102,9 @@
     MGE: no
     ILK: yes
 1270.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    farsi_culture-sunni: 0
+    farsi_culture-shia: 1
 1335.1.1:
   owner: YAZD
   controller: YAZD
@@ -167,9 +165,6 @@
     BUKH: no
     IRA: yes
 1650.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
 1750.1.2:
   owner: KHOR
   controller: KHOR

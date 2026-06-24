@@ -1,19 +1,17 @@
 #imported from EU4 file: history/provinces/838 - Mosquito.txt
 2.1.1:
+  pops: 
+    miskito_culture-muisca_religion: 1
   cores:
     ???: yes
   resource: coffee
-  pops:
-    - religion: muisca_religion
-      estate: peasant
-      size: 1000
 1740.1.1:
+  pops: 
+    miskito_culture-muisca_religion: 0
+    miskito_culture-lutheran: 1
   owner: GBR
   controller: GBR
   resource: coffee
-  pops:
-    - estate: peasant
-      size: 1000
 1765.1.1:
   cores:
     GBR: yes

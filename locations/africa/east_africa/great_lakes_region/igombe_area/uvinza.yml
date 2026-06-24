@@ -1,9 +1,7 @@
 #imported from EU4 file: history/provinces/4072 - Ujiji.txt
 2.1.1:
-  pops:
-    - religion: bantu_religion
-      estate: peasant
-      size: 1000
+  pops: 
+    rwanda_culture-bantu_religion: 1
 1350.1.1:
   owner: UBH
   controller: UBH
@@ -11,13 +9,13 @@
     UBH: yes
   resource: salt
 1890.1.1:
+  pops: 
+    rwanda_culture-bantu_religion: 0
+    rwanda_culture-catholic: 1
   owner: GER
   controller: GER
   cores:
     GER: yes
-  pops:
-    - estate: peasant
-      size: 1000
 1919.6.28:
   owner: GBR
   controller: GBR

@@ -1,9 +1,7 @@
 #imported from EU4 file: history/provinces/2446 - Chara.txt
 2.1.1:
-  pops:
-    - religion: 
-      estate: peasant
-      size: 1000
+  pops: 
+    buryat_culture-: 1
 1206.1.1:
   owner: MGE
   controller: MGE
@@ -23,12 +21,10 @@
     YUA: no
     BRT: yes
 1635.1.1:
+  pops: 
+    muscovite-orthodox: 1
   owner: RUS
   controller: RUS
-  pops:
-    - religion: orthodox
-      estate: peasant
-      size: 1000
 1637.1.1:
   cores:
     RUS: yes

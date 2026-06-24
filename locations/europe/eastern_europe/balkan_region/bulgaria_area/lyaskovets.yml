@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/4704 - Bulgaria.txt
 2.1.1:
+  pops: 
+    thracian-zamolxism: 1
   owner: ODRY
   controller: ODRY
   cores:
     ODRY: yes
   resource: iron
-  pops:
-    - religion: zamolxism
-      estate: peasant
-      size: 1000
 46.1.1:
   owner: ROM
   controller: ROM
@@ -18,41 +16,39 @@
   cores:
     ODRY: no
 350.1.1:
+  pops: 
+    thracian-zamolxism: 0
+    thracian-germanic: 1
   owner: VISG
   controller: VISG
   cores:
     VISG: yes
-  pops:
-    - estate: peasant
-      size: 1000
 395.1.17:
   cores:
     ROM: no
     BYZ: yes
 408.1.1:
+  pops: 
+    thracian-germanic: 0
+    thracian-: 1
   owner: BYZ
   controller: BYZ
   cores:
     VISG: no
-  pops:
-    - estate: peasant
-      size: 1000
 681.1.1:
+  pops: 
+    bulgarian-: 1
   owner: BUL
   controller: BUL
   cores:
     BUL: yes
-  pops:
-    - estate: peasant
-      size: 1000
 864.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    bulgarian-chalcedonism: 1
 867.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    bulgarian-chalcedonism: 0
+    bulgarian-orthodox: 1
 900.1.1:
   resource: cloth
 1014.1.1:

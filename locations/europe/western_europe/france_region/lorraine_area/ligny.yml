@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/187 - Barrois.txt
 2.1.1:
+  pops: 
+    gallian-druidism: 1
   owner: ROM
   controller: ROM
   cores:
     ROM: yes
   resource: cloth
-  pops:
-    - religion: druidism
-      estate: peasant
-      size: 1000
 260.1.1:
   cores:
     GALL: yes
@@ -23,9 +21,9 @@
     ROM: no
     ROMW: yes
 440.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    gallian-druidism: 0
+    gallian-chalcedonism: 1
 461.1.1:
   owner: ALEM
   controller: ALEM
@@ -33,14 +31,14 @@
     ROMW: no
     ALEM: yes
 496.1.1:
+  pops: 
+    gallian-chalcedonism: 0
+    french-chalcedonism: 1
   owner: FRAN
   controller: FRAN
   cores:
     ALEM: no
     FRAN: yes
-  pops:
-    - estate: peasant
-      size: 1000
 511.11.27:
   owner: ASTS
   controller: ASTS
@@ -78,9 +76,9 @@
   owner: FRAN
   controller: FRAN
 800.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    french-chalcedonism: 0
+    burgundian-chalcedonism: 1
 840.6.21:
   owner: MFRA
   controller: MFRA
@@ -94,9 +92,9 @@
     MFRA: no
     LOT: yes
 867.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    burgundian-chalcedonism: 0
+    burgundian-catholic: 1
 870.8.8:
   owner: EFRA
   controller: EFRA
@@ -166,9 +164,9 @@
   owner: FRA
   controller: FRA
 1830.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    burgundian-catholic: 0
+    french-catholic: 1
 1870.9.4:
   owner: FRA
   controller: PRU

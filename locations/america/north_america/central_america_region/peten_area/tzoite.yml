@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/4589 - Moran.txt
 2.1.1:
+  pops: 
+    putun_culture-mayan: 1
   owner: NARA
   controller: NARA
   cores:
     NARA: yes
   resource: cocoa
-  pops:
-    - religion: mayan
-      estate: peasant
-      size: 1000
 820.1.1:
   owner: TIKA
   controller: TIKA
@@ -32,14 +30,13 @@
   cores:
     ITZ: yes
 1638.1.1:
+  pops: 
+    putun_culture-mayan: 0
+    english-lutheran: 1
   owner: ENG
   controller: ENG
   cores:
     ENG: yes
-  pops:
-    - religion: lutheran
-      estate: peasant
-      size: 1000
 1707.5.12:
   owner: GBR
   controller: GBR
@@ -47,9 +44,9 @@
     ENG: no
     GBR: yes
 1800.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    english-lutheran: 0
+    british_mexican-lutheran: 1
 1981.9.21:
   owner: BELI
   controller: BELI

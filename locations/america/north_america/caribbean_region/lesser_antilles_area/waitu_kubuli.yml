@@ -1,17 +1,14 @@
 #imported from EU4 file: history/provinces/498 - Dominica.txt
 2.1.1:
-  pops:
-    - religion: muisca_religion
-      estate: peasant
-      size: 1000
+  pops: 
+    guaribes_culture-muisca_religion: 1
 1493.11.3:
+  pops: 
+    guaribes_culture-muisca_religion: 0
+    castilian-catholic: 1
   owner: CAS
   controller: CAS
   resource: sugar
-  pops:
-    - religion: catholic
-      estate: peasant
-      size: 1000
 1516.1.23:
   owner: SPA
   controller: SPA
@@ -19,24 +16,23 @@
   cores:
     SPA: yes
 1761.11.1:
+  pops: 
+    castilian-catholic: 0
+    english-calvinist: 1
   owner: GBR
   controller: GBR
   cores:
     SPA: no
-  pops:
-    - religion: calvinist
-      estate: peasant
-      size: 1000
 1778.1.1:
+  pops: 
+    english-calvinist: 0
+    english-catholic: 1
   owner: FRA
   controller: FRA
-  pops:
-    - estate: peasant
-      size: 1000
 1780.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    english-catholic: 0
+    british_caribbean-catholic: 1
 1782.1.1:
   owner: GBR
   controller: GBR

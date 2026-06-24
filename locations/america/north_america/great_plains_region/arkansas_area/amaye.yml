@@ -1,10 +1,8 @@
 #imported from EU4 file: history/provinces/4886 - Nasoni.txt
 2.1.1:
+  pops: 
+    caddo_culture-iroquoian_totemism: 1
   resource: cotton
-  pops:
-    - religion: iroquoian_totemism
-      estate: peasant
-      size: 1000
 1722.1.1:
   owner: CAD
   controller: CAD
@@ -12,18 +10,14 @@
     CAD: yes
   resource: grain
 1818.8.24:
+  pops: 
+    caddo_culture-iroquoian_totemism: 0
+    british_louisianan-lutheran: 1
   owner: USA
   controller: USA
   cores:
     USA: yes
-  pops:
-    - religion: lutheran
-      estate: peasant
-      size: 1000
 1860.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
 1861.5.6:
   owner: CSAM
   controller: CSAM

@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/1851 - Ribatejo.txt
 2.1.1:
+  pops: 
+    lusitanian-druidism: 1
   owner: ROM
   controller: ROM
   cores:
     ROM: yes
   resource: grain
-  pops:
-    - religion: druidism
-      estate: peasant
-      size: 1000
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -16,9 +14,9 @@
     ROM: no
     ROMW: yes
 400.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    lusitanian-druidism: 0
+    lusitanian-chalcedonism: 1
 409.6.1:
   owner: SUEB
   controller: SUEB
@@ -51,17 +49,17 @@
     UMAY: no
     CRDB: yes
 867.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    lusitanian-chalcedonism: 0
+    lusitanian-catholic: 1
 868.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    lusitanian-catholic: 0
+    portuguese-catholic: 1
 890.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    portuguese-catholic: 0
+    portuguese-sunni: 1
 1011.1.1:
   owner: BADJ
   controller: BADJ
@@ -98,13 +96,10 @@
 1143.10.5:
   cores:
     LON: no
-  pops:
-    - estate: peasant
-      size: 1000
 1150.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    portuguese-sunni: 0
+    portuguese-catholic: 1
 1580.8.25:
   controller: SPA
 1580.8.26:

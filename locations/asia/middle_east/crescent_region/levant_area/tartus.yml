@@ -1,18 +1,16 @@
 #imported from EU4 file: history/provinces/3070 - Latakia.txt
 2.1.1:
+  pops: 
+    syriac_culture-judaism: 1
   owner: ROM
   controller: ROM
   cores:
     ROM: yes
   resource: cloth
-  pops:
-    - religion: judaism
-      estate: peasant
-      size: 1000
 260.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    syriac_culture-judaism: 0
+    syriac_culture-chalcedonism: 1
 269.1.1:
   cores:
     PALM: yes
@@ -27,9 +25,9 @@
     ROM: no
     BYZ: yes
 512.11.16:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    syriac_culture-chalcedonism: 0
+    syriac_culture-miaphysite: 1
 613.1.1:
   controller: ERA
 627.1.1:
@@ -74,9 +72,9 @@
     EGY: no
     SYRI: yes
 960.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    syriac_culture-miaphysite: 0
+    levantine_culture-miaphysite: 1
 970.1.1:
   owner: BYZ
   controller: BYZ
@@ -107,9 +105,9 @@
     ANTI: yes
     BYZ: yes
 1099.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    levantine_culture-miaphysite: 0
+    levantine_culture-catholic: 1
 1108.1.1:
   cores:
     BYZ: no
@@ -131,9 +129,9 @@
     ANTI: no
     MAM: yes
 1320.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    levantine_culture-catholic: 0
+    levantine_culture-sunni: 1
 1382.1.1:
   controller: MAM
 1516.8.24:
@@ -154,9 +152,9 @@
     EGY: no
     TUR: yes
 1880.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    levantine_culture-sunni: 0
+    levantine_culture-shia: 1
 1920.3.8:
   owner: SYRI
   controller: SYRI

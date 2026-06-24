@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/211 - Pirineo.txt
 2.1.1:
+  pops: 
+    basque-bimoism: 1
   owner: ROM
   controller: ROM
   cores:
     ROM: yes
   resource: wool
-  pops:
-    - religion: bimoism
-      estate: peasant
-      size: 1000
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -16,9 +14,9 @@
     ROM: no
     ROMW: yes
 420.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    basque-bimoism: 0
+    basque-chalcedonism: 1
 456.1.1:
   owner: VISG
   controller: VISG
@@ -33,13 +31,13 @@
   cores:
     ROMW: no
 480.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    basque-chalcedonism: 0
+    basque-arianism: 1
 570.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    basque-arianism: 0
+    basque-chalcedonism: 1
 711.1.1:
   owner: UMAY
   controller: UMAY
@@ -53,18 +51,18 @@
     UMAY: no
     CRDB: yes
 795.1.1:
+  pops: 
+    basque-chalcedonism: 0
+    aragonese-chalcedonism: 1
   owner: ARA
   controller: ARA
   cores:
     CRDB: no
     ARA: yes
-  pops:
-    - estate: peasant
-      size: 1000
 867.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    aragonese-chalcedonism: 0
+    aragonese-catholic: 1
 922.1.1:
   owner: NAV
   controller: NAV

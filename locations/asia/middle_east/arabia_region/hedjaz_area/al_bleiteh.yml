@@ -1,15 +1,13 @@
 #imported from EU4 file: history/provinces/2328 - Tayma.txt
 2.1.1:
+  pops: 
+    hijazi_culture-south_arabian: 1
   owner: NABA
   controller: NABA
   cores:
     NABA: yes
     LIHY: yes
   resource: salt
-  pops:
-    - religion: south_arabian_polytheism
-      estate: peasant
-      size: 1000
 106.1.1:
   owner: LIHY
   controller: LIHY
@@ -17,13 +15,13 @@
     NABA: no
     LIHY: yes
 220.1.1:
+  pops: 
+    hijazi_culture-south_arabian: 0
+    najdi_culture-south_arabian: 1
   owner: GHAS
   controller: GHAS
   cores:
     GHAS: yes
-  pops:
-    - estate: peasant
-      size: 1000
 320.1.1:
   owner: GHAT
   controller: GHAT
@@ -37,18 +35,18 @@
     GHAT: no
     RASH: yes
 650.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    najdi_culture-south_arabian: 0
+    najdi_culture-islam: 1
 661.7.28:
+  pops: 
+    najdi_culture-islam: 0
+    najdi_culture-sunni: 1
   owner: UMAY
   controller: UMAY
   cores:
     RASH: no
     UMAY: yes
-  pops:
-    - estate: peasant
-      size: 1000
 750.8.6:
   owner: ABBA
   controller: ABBA

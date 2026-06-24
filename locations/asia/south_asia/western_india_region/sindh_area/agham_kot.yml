@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/4504 - Nasirpur.txt
 2.1.1:
+  pops: 
+    sindhi-hindu: 1
   owner: SND
   controller: SND
   cores:
     SND: yes
   resource: cotton
-  pops:
-    - religion: hindu
-      estate: peasant
-      size: 1000
 76.1.1:
   owner: KUSH
   controller: KUSH
@@ -37,9 +35,9 @@
     ABBA: no
     SND: yes
 1020.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    sindhi-hindu: 0
+    sindhi-shia: 1
 1024.1.1:
   owner: GHAZ
   controller: GHAZ
@@ -51,9 +49,9 @@
   cores:
     GHAZ: no
 1356.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    sindhi-shia: 0
+    sindhi-sunni: 1
 1544.1.1:
   owner: BNG
   controller: BNG
@@ -71,9 +69,9 @@
   cores:
     MUG: no
 1830.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    sindhi-sunni: 0
+    sindhi-shia: 1
 1843.2.17:
   owner: GBR
   controller: GBR

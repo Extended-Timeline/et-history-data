@@ -1,9 +1,7 @@
 #imported from EU4 file: history/provinces/869 - Salinan.txt
 2.1.1:
-  pops:
-    - religion: iroquoian_totemism
-      estate: peasant
-      size: 1000
+  pops: 
+    pima_culture-iroquoian_totemism: 1
 1770.1.1:
   owner: SPA
   controller: SPA
@@ -11,10 +9,9 @@
     SPA: yes
   resource: wool
 1795.1.1:
-  pops:
-    - religion: catholic
-      estate: peasant
-      size: 1000
+  pops: 
+    pima_culture-iroquoian_totemism: 0
+    iberian_californian-catholic: 1
 1810.9.16:
   owner: MEX
   controller: SPA
@@ -27,10 +24,10 @@
 1846.8.13:
   controller: USA
 1848.2.2:
+  pops: 
+    iberian_californian-catholic: 0
+    british_californian-catholic: 1
   owner: USA
   cores:
     MEX: no
     USA: yes
-  pops:
-    - estate: peasant
-      size: 1000

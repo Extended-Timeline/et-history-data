@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/583 - Hsenwi.txt
 2.1.1:
+  pops: 
+    tai_lu_culture-satsana_phi: 1
   owner: AILA
   controller: AILA
   cores:
     AILA: yes
   resource: tropical_wood
-  pops:
-    - religion: satsana_phi
-      estate: peasant
-      size: 1000
 560.1.1:
   owner: HSE
   controller: HSE
@@ -21,9 +19,9 @@
   cores:
     NANZ: yes
 850.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    tai_lu_culture-satsana_phi: 0
+    tai_lu_culture-tibetan_buddhism: 1
 937.1.1:
   owner: CDL
   controller: CDL
@@ -31,9 +29,9 @@
     NANZ: no
     CDL: yes
 1080.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    tai_lu_culture-tibetan_buddhism: 0
+    tai_lu_culture-theravada: 1
 1253.1.1:
   owner: HSE
   controller: HSE

@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/4568 - Demnate.txt
 2.1.1:
+  pops: 
+    masmuda-bantu_religion: 1
   owner: ATLA
   controller: ATLA
   cores:
     ATLA: yes
   resource: wool
-  pops:
-    - religion: bantu_religion
-      estate: peasant
-      size: 1000
 720.1.1:
   owner: UMAY
   controller: UMAY
@@ -19,9 +17,9 @@
     UMAY: no
     ATLA: yes
 780.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    masmuda-bantu_religion: 0
+    masmuda-ibadi: 1
 789.1.1:
   owner: MOR
   controller: MOR
@@ -52,9 +50,9 @@
   cores:
     MOR: yes
 1060.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    masmuda-ibadi: 0
+    masmuda-sunni: 1
 1124.1.1:
   owner: SOS
   controller: SOS

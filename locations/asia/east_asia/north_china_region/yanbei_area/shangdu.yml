@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/703 - Chengde.txt
 2.1.1:
+  pops: 
+    khitan-: 1
   owner: WUHU
   controller: WUHU
   cores:
     WUHU: yes
   resource: livestock
-  pops:
-    - religion: 
-      estate: peasant
-      size: 1000
 207.10.1:
   owner: WEI0
   controller: WEI0
@@ -61,9 +59,8 @@
     TANG: no
     LIAO: yes
 950.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    khitan-mahayana: 1
 1115.1.1:
   owner: JIN0
   controller: JIN0
@@ -78,9 +75,9 @@
     MGE: yes
     CSH: yes
 1220.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    khitan-mahayana: 0
+    chahar-mahayana: 1
 1271.1.1:
   owner: YUA
   controller: YUA
@@ -137,6 +134,3 @@
 1949.10.1:
   controller: CHI
 1969.1.1:
-  pops:
-    - estate: peasant
-      size: 1000

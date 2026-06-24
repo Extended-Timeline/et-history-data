@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/4173 - Syrmia.txt
 2.1.1:
+  pops: 
+    pannonian-druidism: 1
   owner: ROM
   controller: ROM
   cores:
     ROM: yes
   resource: grain
-  pops:
-    - religion: druidism
-      estate: peasant
-      size: 1000
 395.1.17:
   owner: BYZ
   controller: BYZ
@@ -27,17 +25,17 @@
     HUNS: no
     OSTR: yes
 470.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    pannonian-druidism: 0
+    pannonian-arianism: 1
 488.1.1:
+  pops: 
+    pannonian-arianism: 0
+    gepid-arianism: 1
   owner: GEPI
   controller: GEPI
   cores:
     GEPI: yes
-  pops:
-    - estate: peasant
-      size: 1000
 504.1.1:
   owner: OSTR
   controller: OSTR
@@ -56,21 +54,20 @@
     GEPI: no
     BYZ: yes
 582.1.1:
+  pops: 
+    gepid-arianism: 0
+    avar_culture-arianism: 1
   owner: AVR
   controller: AVR
   cores:
     AVR: yes
-  pops:
-    - estate: peasant
-      size: 1000
 600.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    avar_culture-arianism: 0
+    avar_culture-: 1
 620.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    serbian-: 1
 804.1.1:
   owner: PANO
   controller: PANO
@@ -83,9 +80,8 @@
   cores:
     BUL: yes
 867.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    serbian-orthodox: 1
 1003.1.1:
   owner: HUN
   controller: HUN
@@ -134,9 +130,6 @@
   owner: YUGO
   controller: YUGO
 1950.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
 2006.6.5:
   owner: SER
   controller: SER

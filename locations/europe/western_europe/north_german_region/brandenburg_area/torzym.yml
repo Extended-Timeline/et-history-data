@@ -1,24 +1,21 @@
 #imported from EU4 file: history/provinces/2969 - Sternberg.txt
 2.1.1:
+  pops: 
+    burgundione-germanic: 1
   owner: BUR
   controller: BUR
   cores:
     BUR: yes
   resource: cloth
-  pops:
-    - religion: germanic_polytheism
-      estate: peasant
-      size: 1000
 395.1.1:
+  pops: 
+    burgundione-germanic: 0
+    polabian-slavic: 1
   owner: VELE
   controller: VELE
   cores:
     BUR: no
     VELE: yes
-  pops:
-    - religion: slavic_polytheism
-      estate: peasant
-      size: 1000
 920.1.1:
   owner: POM
   controller: POM
@@ -26,14 +23,14 @@
     VELE: no
     POM: yes
 950.1.1:
+  pops: 
+    polabian-slavic: 0
+    polabian-catholic: 1
   owner: POL
   controller: POL
   cores:
     POM: no
     POL: yes
-  pops:
-    - estate: peasant
-      size: 1000
 1138.10.28:
   owner: GPOL
   controller: GPOL
@@ -46,17 +43,17 @@
     POL: no
     BRA: yes
 1260.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    polabian-catholic: 0
+    saxon-catholic: 1
 1539.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    saxon-catholic: 0
+    saxon-lutheran: 1
 1650.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    saxon-lutheran: 0
+    prussian-lutheran: 1
 1701.1.18:
   owner: PRU
   controller: PRU
@@ -78,12 +75,11 @@
 1945.1.30:
   controller: SOVI
 1945.5.8:
+  pops: 
+    prussian-lutheran: 0
+    lesser_polish-catholic: 1
   owner: POL
   controller: POL
   cores:
     GER: no
     POL: yes
-  pops:
-    - religion: catholic
-      estate: peasant
-      size: 1000

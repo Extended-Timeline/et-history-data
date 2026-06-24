@@ -1,13 +1,11 @@
 #imported from EU4 file: history/provinces/2684 - Nias.txt
 2.1.1:
-  pops:
-    - religion: bimoism
-      estate: peasant
-      size: 1000
+  pops: 
+    batak_culture-bimoism: 1
 1300.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    batak_culture-bimoism: 0
+    batak_culture-sunni: 1
 1855.1.1:
   owner: NED
   controller: NED

@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/4327 - Jask.txt
 2.1.1:
+  pops: 
+    baloch_culture-zoroastrian: 1
   owner: PART
   controller: PART
   cores:
     PART: yes
   resource: fish
-  pops:
-    - religion: zoroastrian
-      estate: peasant
-      size: 1000
 224.4.24:
   owner: ERA
   controller: ERA
@@ -28,9 +26,9 @@
     RASH: no
     UMAY: yes
 680.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    baloch_culture-zoroastrian: 0
+    baloch_culture-sunni: 1
 750.8.6:
   owner: ABBA
   controller: ABBA
@@ -52,9 +50,9 @@
     KHOR: no
     SIST: yes
 880.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    baloch_culture-sunni: 0
+    baloch_culture-shia: 1
 913.5.24:
   owner: BUKH
   controller: BUKH
@@ -153,9 +151,9 @@
     KHOR: no
     IRA: yes
 1820.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    baloch_culture-shia: 0
+    farsi_culture-shia: 1
 1935.1.1:
   owner: IRAN
   controller: IRAN

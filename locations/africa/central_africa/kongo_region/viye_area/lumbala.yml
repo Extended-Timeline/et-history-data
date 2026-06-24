@@ -1,9 +1,7 @@
 #imported from EU4 file: history/provinces/4095 - Ishindi.txt
 2.1.1:
-  pops:
-    - religion: bantu_religion
-      estate: peasant
-      size: 1000
+  pops: 
+    chokwe-bantu_religion: 1
 1350.1.1:
   owner: CHO
   controller: CHO
@@ -27,9 +25,9 @@
   cores:
     POR: yes
 1960.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    chokwe-bantu_religion: 0
+    chokwe-lutheran: 1
 1975.11.11:
   owner: ANGO
   controller: ANGO

@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/4238 - Leignitz.txt
 2.1.1:
+  pops: 
+    vandal-germanic: 1
   owner: NAHA
   controller: NAHA
   cores:
     NAHA: yes
   resource: copper
-  pops:
-    - religion: germanic_polytheism
-      estate: peasant
-      size: 1000
 250.1.1:
   owner: VAND
   controller: VAND
@@ -22,24 +20,23 @@
     VAND: no
     NAHA: yes
 500.1.1:
+  pops: 
+    vandal-germanic: 0
+    silesian-slavic: 1
   owner: SIL
   controller: SIL
   cores:
     NAHA: no
     SIL: yes
-  pops:
-    - religion: slavic_polytheism
-      estate: peasant
-      size: 1000
 940.1.1:
   owner: BOH
   controller: BOH
   cores:
     BOH: yes
 980.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    silesian-slavic: 0
+    silesian-catholic: 1
 990.1.1:
   owner: POL
   controller: POL
@@ -70,9 +67,9 @@
 1250.1.1:
   resource: glass
 1260.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    silesian-catholic: 0
+    german_silesian-catholic: 1
 1449.10.31:
   owner: BOH
   controller: BOH
@@ -107,12 +104,11 @@
 1945.4.30:
   controller: SOVI
 1945.5.8:
+  pops: 
+    german_silesian-catholic: 0
+    lesser_polish-catholic: 1
   owner: POL
   controller: POL
   cores:
     GER: no
     POL: yes
-  pops:
-    - religion: catholic
-      estate: peasant
-      size: 1000

@@ -1,9 +1,7 @@
 #imported from EU4 file: history/provinces/819 - Guayaquil.txt
 2.1.1:
-  pops:
-    - religion: inti
-      estate: peasant
-      size: 1000
+  pops: 
+    cara_culture-inti: 1
 980.1.1:
   owner: QTO
   controller: QTO
@@ -11,20 +9,19 @@
     QTO: yes
   resource: fish
 1535.1.1:
+  pops: 
+    cara_culture-inti: 0
+    castilian-catholic: 1
   owner: SPA
   controller: SPA
-  pops:
-    - religion: catholic
-      estate: peasant
-      size: 1000
 1550.1.1:
   cores:
     SPA: yes
   resource: grain
 1770.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    castilian-catholic: 0
+    iberian_colombian-catholic: 1
 1819.12.17:
   owner: COLO
   controller: COLO

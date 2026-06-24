@@ -1,17 +1,14 @@
 #imported from EU4 file: history/provinces/501 - Barbados.txt
 2.1.1:
-  pops:
-    - religion: muisca_religion
-      estate: peasant
-      size: 1000
+  pops: 
+    guaribes_culture-muisca_religion: 1
 1620.1.1:
+  pops: 
+    guaribes_culture-muisca_religion: 0
+    english-lutheran: 1
   owner: ENG
   controller: ENG
   resource: sugar
-  pops:
-    - religion: lutheran
-      estate: peasant
-      size: 1000
 1645.1.1:
   cores:
     ENG: yes
@@ -22,9 +19,9 @@
     ENG: no
     GBR: yes
 1780.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    english-lutheran: 0
+    british_caribbean-lutheran: 1
 1817.1.1:
   controller: GBR
 1966.11.30:

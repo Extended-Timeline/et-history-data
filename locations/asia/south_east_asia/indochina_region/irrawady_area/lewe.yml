@@ -1,31 +1,29 @@
 #imported from EU4 file: history/provinces/585 - Toungoo.txt
 2.1.1:
+  pops: 
+    pyu-theravada: 1
   owner: SRKS
   controller: SRKS
   cores:
     SRKS: yes
   resource: chinaware
-  pops:
-    - religion: theravada
-      estate: peasant
-      size: 1000
 820.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    pyu-theravada: 0
+    pyu-tibetan_buddhism: 1
 900.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    pyu-tibetan_buddhism: 0
+    burmese_culture-tibetan_buddhism: 1
 1044.1.1:
   owner: PAGA
   controller: PAGA
   cores:
     PAGA: yes
 1050.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    burmese_culture-tibetan_buddhism: 0
+    burmese_culture-theravada: 1
 1279.4.17:
   owner: TNG
   controller: TNG

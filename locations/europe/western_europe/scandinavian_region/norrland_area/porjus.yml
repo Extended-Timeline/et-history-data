@@ -1,9 +1,7 @@
 #imported from EU4 file: history/provinces/4114 - Jokkmokk.txt
 2.1.1:
-  pops:
-    - religion: muinaisusko
-      estate: peasant
-      size: 1000
+  pops: 
+    sapmi-muinaisusko: 1
 750.1.1:
   owner: SMI
   controller: SMI
@@ -16,8 +14,8 @@
   cores:
     SWE: yes
 1640.1.2:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    sapmi-muinaisusko: 0
+    sapmi-lutheran: 1
 1650.1.1:
   resource: iron

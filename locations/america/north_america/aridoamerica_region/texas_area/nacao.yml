@@ -1,33 +1,30 @@
 #imported from EU4 file: history/provinces/2669 - Hasinai.txt
 2.1.1:
+  pops: 
+    caddo_culture-iroquoian_totemism: 1
   owner: CAD
   controller: CAD
   cores:
     CAD: yes
-  pops:
-    - religion: iroquoian_totemism
-      estate: peasant
-      size: 1000
 1819.2.22:
+  pops: 
+    caddo_culture-iroquoian_totemism: 0
+    mexican-catholic: 1
   owner: MEX
   controller: SPA
   cores:
     CAD: no
     MEX: yes
-  pops:
-    - religion: catholic
-      estate: peasant
-      size: 1000
 1821.9.27:
   controller: MEX
 1836.3.2:
+  pops: 
+    mexican-catholic: 0
+    british_louisianan-catholic: 1
   owner: TEXA
   controller: TEXA
   cores:
     TEXA: yes
-  pops:
-    - estate: peasant
-      size: 1000
 1845.12.29:
   owner: USA
   controller: USA

@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/15 - Jylland.txt
 2.1.1:
+  pops: 
+    jute-norse: 1
   owner: JUTE
   controller: JUTE
   cores:
     JUTE: yes
   resource: livestock
-  pops:
-    - religion: norse
-      estate: peasant
-      size: 1000
 650.1.1:
   owner: DAN
   controller: DAN
@@ -16,19 +14,19 @@
     JUTE: no
     DAN: yes
 660.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    jute-norse: 0
+    danish-norse: 1
 900.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    danish-norse: 0
+    danish-catholic: 1
 1534.11.2:
   controller: DAN
 1536.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    danish-catholic: 0
+    danish-lutheran: 1
 1627.8.1:
   controller: HAB
 1629.5.22:

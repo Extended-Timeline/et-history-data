@@ -1,9 +1,7 @@
 #imported from EU4 file: history/provinces/642 - Bone.txt
 2.1.1:
-  pops:
-    - religion: bimoism
-      estate: peasant
-      size: 1000
+  pops: 
+    makassarese_culture-bimoism: 1
 960.1.1:
   owner: LUW
   controller: LUW
@@ -11,9 +9,9 @@
     LUW: yes
   resource: spices
 1605.2.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    makassarese_culture-bimoism: 0
+    makassarese_culture-sunni: 1
 1905.1.1:
   owner: NED
   controller: NED

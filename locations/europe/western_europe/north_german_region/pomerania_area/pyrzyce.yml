@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/1858 - Stettin.txt
 2.1.1:
+  pops: 
+    western_pomeranian-germanic: 1
   owner: LEMO
   controller: LEMO
   cores:
     LEMO: yes
   resource: naval_supplies
-  pops:
-    - religion: germanic_polytheism
-      estate: peasant
-      size: 1000
 140.1.1:
   owner: RUGE
   controller: RUGE
@@ -16,20 +14,18 @@
     LEMO: no
     RUGE: yes
 395.1.1:
+  pops: 
+    western_pomeranian-germanic: 0
+    kashubian-slavic: 1
   owner: POM
   controller: POM
   cores:
     RUGE: no
     POM: yes
-  pops:
-    - religion: slavic_polytheism
-      estate: peasant
-      size: 1000
 1128.1.1:
-  pops:
-    - religion: catholic
-      estate: peasant
-      size: 1000
+  pops: 
+    kashubian-slavic: 0
+    western_pomeranian-catholic: 1
 1186.1.1:
   owner: DAN
   controller: DAN
@@ -47,9 +43,9 @@
     POM: no
     STE: yes
 1529.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    western_pomeranian-catholic: 0
+    western_pomeranian-lutheran: 1
 1630.1.1:
   owner: SWE
   controller: SWE
@@ -78,7 +74,3 @@
     GER: no
     POL: yes
 1975.1.1:
-  pops:
-    - religion: catholic
-      estate: peasant
-      size: 1000

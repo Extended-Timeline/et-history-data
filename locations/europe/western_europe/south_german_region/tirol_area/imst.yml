@@ -1,18 +1,16 @@
 #imported from EU4 file: history/provinces/73 - Tirol.txt
 2.1.1:
+  pops: 
+    romansh-druidism: 1
   owner: ROM
   controller: ROM
   cores:
     ROM: yes
   resource: gold
-  pops:
-    - religion: druidism
-      estate: peasant
-      size: 1000
 300.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    romansh-druidism: 0
+    romansh-chalcedonism: 1
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -20,10 +18,9 @@
     ROM: no
     ROMW: yes
 420.1.1:
-  pops:
-    - religion: germanic_polytheism
-      estate: peasant
-      size: 1000
+  pops: 
+    romansh-chalcedonism: 0
+    danube_bavarian-germanic: 1
 476.9.4:
   owner: BAV
   controller: BAV
@@ -33,18 +30,18 @@
   cores:
     ROMW: no
 500.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    danube_bavarian-germanic: 0
+    danube_bavarian-arianism: 1
 553.1.1:
   owner: LOMB
   controller: LOMB
   cores:
     LOMB: yes
 600.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    danube_bavarian-arianism: 0
+    danube_bavarian-chalcedonism: 1
 774.1.1:
   owner: FRAN
   controller: FRAN
@@ -58,9 +55,9 @@
     FRAN: no
     BAV: yes
 867.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    danube_bavarian-chalcedonism: 0
+    danube_bavarian-catholic: 1
 880.3.22:
   owner: EFRA
   controller: EFRA

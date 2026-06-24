@@ -1,15 +1,13 @@
 #imported from EU4 file: history/provinces/4469 - Rohtaspur.txt
 2.1.1:
+  pops: 
+    magahi-hindu: 1
   owner: DASA
   controller: DASA
   cores:
     DASA: yes
     JHAR: yes
   resource: salt
-  pops:
-    - religion: hindu
-      estate: peasant
-      size: 1000
 83.1.1:
   owner: JHAR
   controller: JHAR
@@ -44,9 +42,9 @@
     KANN: no
     PALA: yes
 760.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    magahi-hindu: 0
+    magahi-mahayana: 1
 1174.1.1:
   owner: GAUD
   controller: GAUD
@@ -54,9 +52,9 @@
     PALA: no
     GAUD: yes
 1180.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    magahi-mahayana: 0
+    magahi-hindu: 1
 1193.1.1:
   owner: GHOR
   controller: GHOR

@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/347 - Ifni.txt
 2.1.1:
+  pops: 
+    masmuda-bantu_religion: 1
   owner: SOS
   controller: SOS
   cores:
     SOS: yes
   resource: fish
-  pops:
-    - religion: bantu_religion
-      estate: peasant
-      size: 1000
 789.1.1:
   owner: MOR
   controller: MOR
@@ -16,10 +14,9 @@
     SOS: no
     MOR: yes
 860.1.1:
-  pops:
-    - religion: sunni
-      estate: peasant
-      size: 1000
+  pops: 
+    masmuda-bantu_religion: 0
+    moroccan-sunni: 1
 922.1.1:
   owner: FATI
   controller: FATI

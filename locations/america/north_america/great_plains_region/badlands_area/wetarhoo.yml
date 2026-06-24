@@ -1,24 +1,21 @@
 #imported from EU4 file: history/provinces/2008 - Lakota.txt
 2.1.1:
-  pops:
-    - religion: iroquoian_totemism
-      estate: peasant
-      size: 1000
+  pops: 
+    tsawi_culture-iroquoian_totemism: 1
 1750.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    tsawi_culture-iroquoian_totemism: 0
+    ithanktunwan_culture-iroquoian_totemism: 1
 1810.1.1:
   owner: LAKO
   controller: LAKO
   cores:
     LAKO: yes
 1876.1.1:
+  pops: 
+    ithanktunwan_culture-iroquoian_totemism: 0
+    american-lutheran: 1
   owner: USA
   controller: USA
   cores:
     USA: yes
-  pops:
-    - religion: lutheran
-      estate: peasant
-      size: 1000

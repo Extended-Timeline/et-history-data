@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/565 - Bhutan.txt
 2.1.1:
+  pops: 
+    ngalop_culture-bon: 1
   owner: BHUT
   controller: BHUT
   cores:
     BHUT: yes
   resource: wool
-  pops:
-    - religion: bon
-      estate: peasant
-      size: 1000
 605.1.1:
   owner: KAMA
   controller: KAMA
@@ -27,6 +25,3 @@
     TIB: no
     BHUT: yes
 750.1.1:
-  pops:
-    - estate: peasant
-      size: 1000

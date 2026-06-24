@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/806 - Nazca.txt
 2.1.1:
+  pops: 
+    inka_culture-inti: 1
   owner: NAZC
   controller: NAZC
   cores:
     NAZC: yes
   resource: fish
-  pops:
-    - religion: inti
-      estate: peasant
-      size: 1000
 600.1.1:
   owner: HUAR
   controller: HUAR
@@ -28,21 +26,20 @@
     NAZC: no
     INC: yes
 1533.8.29:
+  pops: 
+    inka_culture-inti: 0
+    castilian-catholic: 1
   owner: SPA
   controller: SPA
   cores:
     SPA: yes
-  pops:
-    - religion: catholic
-      estate: peasant
-      size: 1000
 1558.8.29:
   cores:
     SPA: yes
 1770.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    castilian-catholic: 0
+    iberian_peruvian-catholic: 1
 1821.7.28:
   owner: PERU
   controller: PERU

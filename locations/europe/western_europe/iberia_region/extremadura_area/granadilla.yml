@@ -1,18 +1,16 @@
 #imported from EU4 file: history/provinces/4788 - Plasencia.txt
 2.1.1:
+  pops: 
+    lusitanian-druidism: 1
   owner: ROM
   controller: ROM
   cores:
     ROM: yes
   resource: livestock
-  pops:
-    - religion: druidism
-      estate: peasant
-      size: 1000
 360.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    lusitanian-druidism: 0
+    lusitanian-chalcedonism: 1
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -51,13 +49,13 @@
     UMAY: no
     CRDB: yes
 820.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    lusitanian-chalcedonism: 0
+    lusitanian-sunni: 1
 850.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    lusitanian-sunni: 0
+    andalusi-sunni: 1
 1011.1.1:
   owner: TOLE
   controller: TOLE
@@ -86,15 +84,15 @@
   cores:
     MOR: yes
 1229.1.1:
+  pops: 
+    andalusi-sunni: 0
+    leonese-sunni: 1
   owner: LON
   controller: LON
   cores:
     MOR: no
     BADJ: no
     LON: yes
-  pops:
-    - estate: peasant
-      size: 1000
 1230.9.23:
   owner: CAS
   controller: CAS
@@ -102,9 +100,9 @@
     LON: no
     CAS: yes
 1260.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    leonese-sunni: 0
+    leonese-catholic: 1
 1475.6.2:
   controller: POR
 1479.2.25:

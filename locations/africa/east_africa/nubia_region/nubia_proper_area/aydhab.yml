@@ -1,18 +1,16 @@
 #imported from EU4 file: history/provinces/2324 - Halaib.txt
 2.1.1:
+  pops: 
+    beja_culture-egyptian: 1
   owner: BLEM
   controller: BLEM
   cores:
     BLEM: yes
   resource: slaves
-  pops:
-    - religion: egyptian_polytheism
-      estate: peasant
-      size: 1000
 550.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    beja_culture-egyptian: 0
+    beja_culture-miaphysite: 1
 650.1.1:
   owner: TANK
   controller: TANK
@@ -20,9 +18,9 @@
     BLEM: no
     TANK: yes
 680.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    beja_culture-miaphysite: 0
+    beja_culture-sunni: 1
 980.1.1:
   owner: FATI
   controller: FATI

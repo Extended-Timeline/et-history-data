@@ -1,15 +1,13 @@
 #imported from EU4 file: history/provinces/284 - Crimea.txt
 2.1.1:
+  pops: 
+    pontic_greek_culture-hellenism_religion: 1
   owner: BOSP
   controller: BOSP
   cores:
     BOSP: yes
     ROM: yes
   resource: salt
-  pops:
-    - religion: hellenism_religion
-      estate: peasant
-      size: 1000
 63.1.1:
   owner: ROM
   controller: ROM
@@ -17,19 +15,19 @@
   owner: BOSP
   controller: BOSP
 250.1.1:
+  pops: 
+    pontic_greek_culture-hellenism_religion: 0
+    gothic-hellenism_religion: 1
   owner: OSTR
   controller: OSTR
   cores:
     BOSP: no
     ROM: no
     OSTR: yes
-  pops:
-    - estate: peasant
-      size: 1000
 300.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    gothic-hellenism_religion: 0
+    gothic-germanic: 1
 370.1.1:
   owner: GOTH
   controller: GOTH
@@ -37,9 +35,9 @@
     OSTR: no
     GOTH: yes
 620.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    gothic-germanic: 0
+    gothic-chalcedonism: 1
 750.1.1:
   owner: KHAZ
   controller: KHAZ
@@ -47,22 +45,22 @@
     GOTH: no
     KHAZ: yes
 800.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    gothic-chalcedonism: 0
+    khazar-chalcedonism: 1
 867.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    khazar-chalcedonism: 0
+    khazar-orthodox: 1
 969.1.1:
+  pops: 
+    khazar-orthodox: 0
+    pecheneg-orthodox: 1
   owner: PECH
   controller: PECH
   cores:
     KHAZ: no
     PECH: yes
-  pops:
-    - estate: peasant
-      size: 1000
 1060.1.1:
   owner: CUMA
   controller: CUMA
@@ -70,9 +68,9 @@
     PECH: no
     CUMA: yes
 1120.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    pecheneg-orthodox: 0
+    crimean-orthodox: 1
 1237.1.1:
   owner: MGE
   controller: MGE
@@ -87,9 +85,9 @@
     MGE: no
     WHHO: yes
 1300.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    crimean-orthodox: 0
+    crimean-sunni: 1
 1372.1.1:
   owner: BLHO
   controller: BLHO
@@ -130,9 +128,9 @@
   cores:
     CRI: no
 1880.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    crimean-sunni: 0
+    crimean-orthodox: 1
 1900.1.1:
   cores:
     CRI: no
@@ -147,9 +145,9 @@
 1943.10.1:
   controller: SOVI
 1945.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    crimean-orthodox: 0
+    muscovite-orthodox: 1
 1991.8.24:
   owner: UKR
   controller: UKR

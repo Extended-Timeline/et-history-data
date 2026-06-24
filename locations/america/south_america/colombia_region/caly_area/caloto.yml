@@ -1,24 +1,21 @@
 #imported from EU4 file: history/provinces/823 - Cauca.txt
 2.1.1:
-  pops:
-    - religion: muisca_religion
-      estate: peasant
-      size: 1000
+  pops: 
+    wayuu_culture-muisca_religion: 1
 1525.1.1:
+  pops: 
+    wayuu_culture-muisca_religion: 0
+    castilian-catholic: 1
   owner: SPA
   controller: SPA
   resource: grain
-  pops:
-    - religion: catholic
-      estate: peasant
-      size: 1000
 1550.1.1:
   cores:
     SPA: yes
 1770.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    castilian-catholic: 0
+    iberian_colombian-catholic: 1
 1810.7.20:
   owner: COLO
   controller: COLO

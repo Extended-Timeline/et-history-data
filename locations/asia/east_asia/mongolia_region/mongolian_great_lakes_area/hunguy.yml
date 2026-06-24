@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/4222 - Ulaangom.txt
 2.1.1:
+  pops: 
+    oirat_culture-: 1
   owner: XION
   controller: XION
   cores:
     XION: yes
   resource: livestock
-  pops:
-    - religion: 
-      estate: peasant
-      size: 1000
 91.2.1:
   owner: XIAN
   controller: XIAN
@@ -22,14 +20,13 @@
     XIAN: no
     ROUR: yes
 460.1.1:
+  pops: 
+    tuvan_culture-: 1
   owner: GOKT
   controller: GOKT
   cores:
     ROUR: no
     GOKT: yes
-  pops:
-    - estate: peasant
-      size: 1000
 627.1.1:
   owner: UYGH
   controller: UYGH
@@ -47,22 +44,20 @@
     GOKT: no
     UYGH: yes
 765.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    tuvan_culture-manichaeism: 1
 840.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    tuvan_culture-manichaeism: 0
+    tuvan_culture-: 1
 848.1.1:
+  pops: 
+    oirat_culture-: 1
   owner: NAIM
   controller: NAIM
   cores:
     UYGH: no
     NAIM: yes
-  pops:
-    - estate: peasant
-      size: 1000
 1204.1.1:
   owner: KHMO
   controller: KHMO
@@ -99,9 +94,8 @@
   cores:
     MGE: yes
 1586.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    oirat_culture-tibetan_buddhism: 1
 1623.1.1:
   owner: OIR
   controller: OIR

@@ -1,26 +1,23 @@
 #imported from EU4 file: history/provinces/891 - Jicarilla.txt
 2.1.1:
-  pops:
-    - religion: iroquoian_totemism
-      estate: peasant
-      size: 1000
+  pops: 
+    kitikitish_culture-iroquoian_totemism: 1
 1760.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    kitikitish_culture-iroquoian_totemism: 0
+    kaigwu_culture-iroquoian_totemism: 1
 1834.6.30:
+  pops: 
+    kaigwu_culture-iroquoian_totemism: 0
+    muscogee_culture-iroquoian_totemism: 1
   owner: USA
   controller: USA
   cores:
     USA: yes
   resource: grain
-  pops:
-    - estate: peasant
-      size: 1000
 1890.5.2:
+  pops: 
+    muscogee_culture-iroquoian_totemism: 0
+    american-lutheran: 1
   cores:
     ???: no
-  pops:
-    - religion: lutheran
-      estate: peasant
-      size: 1000

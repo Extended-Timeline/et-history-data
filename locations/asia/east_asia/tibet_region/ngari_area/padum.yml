@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/2074 - Ladakh.txt
 2.1.1:
+  pops: 
+    ladakh_culture-bon: 1
   owner: KSH
   controller: KSH
   cores:
     KSH: yes
   resource: wool
-  pops:
-    - religion: bon
-      estate: peasant
-      size: 1000
 375.1.1:
   owner: LADA
   controller: LADA
@@ -45,9 +43,9 @@
     GUG: no
     LADA: yes
 980.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    ladakh_culture-bon: 0
+    ladakh_culture-tibetan_buddhism: 1
 1450.1.1:
   owner: KSH
   controller: KSH

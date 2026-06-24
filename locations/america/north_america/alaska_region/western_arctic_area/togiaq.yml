@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/3105 - Kuskokwim.txt
 2.1.1:
-  pops:
-    - religion: mari_paganism
-      estate: peasant
-      size: 1000
+  pops: 
+    unalaska_culture-mari_paganism: 1
 1867.10.18:
+  pops: 
+    unalaska_culture-mari_paganism: 0
+    unalaska_culture-lutheran: 1
   owner: USA
   controller: USA
   cores:
     USA: yes
-  pops:
-    - estate: peasant
-      size: 1000

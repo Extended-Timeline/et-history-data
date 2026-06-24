@@ -1,9 +1,7 @@
 #imported from EU4 file: history/provinces/2249 - Sibiridugu.txt
 2.1.1:
-  pops:
-    - religion: bantu_religion
-      estate: peasant
-      size: 1000
+  pops: 
+    mandinka-bantu_religion: 1
 800.1.1:
   owner: KAGB
   controller: KAGB
@@ -29,15 +27,15 @@
     ZAFU: no
     SEGU: yes
 1650.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    mandinka-bantu_religion: 0
+    bambara-bantu_religion: 1
 1720.1.1:
   controller: SEGU
 1850.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    bambara-bantu_religion: 0
+    bambara-sunni: 1
 1890.1.1:
   owner: FRA
   controller: FRA

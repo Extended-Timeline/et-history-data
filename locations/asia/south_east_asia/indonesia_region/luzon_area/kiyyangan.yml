@@ -1,9 +1,7 @@
 #imported from EU4 file: history/provinces/4348 - Ifugao.txt
 2.1.1:
-  pops:
-    - religion: bimoism
-      estate: peasant
-      size: 1000
+  pops: 
+    ilocano_culture-bimoism: 1
 1846.1.1:
   owner: SPA
   controller: SPA
@@ -14,9 +12,9 @@
   cores:
     PHIL: yes
 1880.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    ilocano_culture-bimoism: 0
+    ilocano_culture-catholic: 1
 1898.8.12:
   owner: USA
   controller: USA

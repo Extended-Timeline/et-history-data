@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/4829 - Raung Dapey.txt
 2.1.1:
+  pops: 
+    bahnar_culture-hindu: 1
   owner: FUNA
   controller: FUNA
   cores:
     FUNA: yes
   resource: grain
-  pops:
-    - religion: hindu
-      estate: peasant
-      size: 1000
 550.1.1:
   owner: CHEN
   controller: CHEN
@@ -67,9 +65,9 @@
   cores:
     FRA: no
 1960.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    bahnar_culture-hindu: 0
+    vietnamese_culture-hindu: 1
 1976.7.2:
   owner: VIET
   controller: VIET

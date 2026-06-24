@@ -1,18 +1,15 @@
 #imported from EU4 file: history/provinces/4209 - Maralbexi.txt
 2.1.1:
+  pops: 
+    saka-: 1
   owner: YARK
   controller: YARK
   cores:
     YARK: yes
   resource: wool
-  pops:
-    - religion: 
-      estate: peasant
-      size: 1000
 200.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    saka-mahayana: 1
 440.1.1:
   owner: HEPH
   controller: HEPH
@@ -42,13 +39,13 @@
     TIB: no
     TANG: yes
 720.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    saka-mahayana: 0
+    uyghur_culture-mahayana: 1
 750.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    uyghur_culture-mahayana: 0
+    uyghur_culture-manichaeism: 1
 763.1.1:
   owner: TIB
   controller: TIB
@@ -56,14 +53,14 @@
     TANG: no
     TIB: yes
 840.1.1:
+  pops: 
+    uyghur_culture-manichaeism: 0
+    uyghur_culture-: 1
   owner: KKHA
   controller: KKHA
   cores:
     TIB: no
     KKHA: yes
-  pops:
-    - estate: peasant
-      size: 1000
 1211.1.1:
   owner: KKHI
   controller: KKHI
@@ -89,9 +86,8 @@
     CHG: no
     MOGH: yes
 1350.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    uyghur_culture-sunni: 1
 1389.1.1:
   owner: YARK
   controller: YARK

@@ -1,24 +1,21 @@
 #imported from EU4 file: history/provinces/2872 - Chiquiyami.txt
 2.1.1:
-  pops:
-    - religion: muisca_religion
-      estate: peasant
-      size: 1000
+  pops: 
+    warpe_culture-muisca_religion: 1
 1561.3.2:
+  pops: 
+    warpe_culture-muisca_religion: 0
+    castilian-catholic: 1
   owner: SPA
   controller: SPA
-  pops:
-    - religion: catholic
-      estate: peasant
-      size: 1000
 1576.1.1:
   cores:
     SPA: yes
   resource: wool
 1770.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    castilian-catholic: 0
+    iberian_la_platan-catholic: 1
 1816.7.9:
   owner: ARGE
   controller: ARGE

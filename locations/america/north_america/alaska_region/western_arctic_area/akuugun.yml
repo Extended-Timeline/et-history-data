@@ -1,24 +1,22 @@
 #imported from EU4 file: history/provinces/979 - Aleut.txt
 2.1.1:
-  pops:
-    - religion: mari_paganism
-      estate: peasant
-      size: 1000
+  pops: 
+    unalaska_culture-mari_paganism: 1
 1784.1.1:
+  pops: 
+    unalaska_culture-mari_paganism: 0
+    unalaska_culture-orthodox: 1
   owner: RUS
   controller: RUS
   cores:
     RUS: yes
   resource: fur
-  pops:
-    - estate: peasant
-      size: 1000
 1867.10.18:
+  pops: 
+    unalaska_culture-orthodox: 0
+    unalaska_culture-lutheran: 1
   owner: USA
   controller: USA
   cores:
     RUS: no
     USA: yes
-  pops:
-    - estate: peasant
-      size: 1000

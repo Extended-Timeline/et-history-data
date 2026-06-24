@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/4743 - Weimar.txt
 2.1.1:
+  pops: 
+    east_franconian-germanic: 1
   owner: HERM
   controller: HERM
   cores:
     HERM: yes
   resource: grain
-  pops:
-    - religion: germanic_polytheism
-      estate: peasant
-      size: 1000
 390.1.1:
   owner: THU
   controller: THU
@@ -16,9 +14,9 @@
     HERM: no
     THU: yes
 470.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    east_franconian-germanic: 0
+    east_franconian-chalcedonism: 1
 531.1.1:
   owner: ASTS
   controller: ASTS
@@ -71,9 +69,9 @@
   cores:
     THU: yes
 867.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    east_franconian-chalcedonism: 0
+    east_franconian-catholic: 1
 908.8.3:
   owner: EFRA
   controller: EFRA
@@ -93,9 +91,9 @@
     FKN: no
     THU: yes
 1031.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    east_franconian-catholic: 0
+    saxon-catholic: 1
 1046.1.24:
   owner: MEI
   controller: MEI
@@ -107,9 +105,9 @@
   cores:
     MEI: no
 1531.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    saxon-catholic: 0
+    saxon-lutheran: 1
 1871.1.18:
   owner: GER
   controller: GER
@@ -127,9 +125,9 @@
   cores:
     EGER: yes
 1985.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    saxon-lutheran: 0
+    saxon-irreligious: 1
 1990.10.3:
   owner: GER
   controller: GER

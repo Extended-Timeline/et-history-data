@@ -1,21 +1,18 @@
 #imported from EU4 file: history/provinces/1847 - Shiribeshi.txt
 2.1.1:
+  pops: 
+    ainu_culture-mari_paganism: 1
   owner: ANU
   controller: ANU
   cores:
     ANU: yes
   resource: fish
-  pops:
-    - religion: mari_paganism
-      estate: peasant
-      size: 1000
 1679.1.1:
+  pops: 
+    ainu_culture-mari_paganism: 0
+    saigoku_culture-shinto: 1
   owner: TOKU
   controller: TOKU
-  pops:
-    - religion: shinto
-      estate: peasant
-      size: 1000
 1704.1.1:
   cores:
     TOKU: yes

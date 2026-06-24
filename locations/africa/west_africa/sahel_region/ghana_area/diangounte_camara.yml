@@ -1,9 +1,7 @@
 #imported from EU4 file: history/provinces/2245 - Wagadu.txt
 2.1.1:
-  pops:
-    - religion: bantu_religion
-      estate: peasant
-      size: 1000
+  pops: 
+    soninke-bantu_religion: 1
 350.1.1:
   owner: GHA
   controller: GHA
@@ -50,9 +48,9 @@
     FUL: no
     SEGU: yes
 1830.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    soninke-bantu_religion: 0
+    soninke-sunni: 1
 1890.1.1:
   owner: FRA
   controller: FRA

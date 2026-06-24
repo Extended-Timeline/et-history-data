@@ -1,50 +1,48 @@
 #imported from EU4 file: history/provinces/79 - Wurzburg.txt
 2.1.1:
+  pops: 
+    swabian-germanic: 1
   owner: VARI
   controller: VARI
   cores:
     VARI: yes
   resource: wine
-  pops:
-    - religion: germanic_polytheism
-      estate: peasant
-      size: 1000
 120.1.1:
+  pops: 
+    swabian-germanic: 0
+    high_alemannic-germanic: 1
   owner: ALEM
   controller: ALEM
   cores:
     VARI: no
     ALEM: yes
-  pops:
-    - estate: peasant
-      size: 1000
 260.1.1:
+  pops: 
+    high_alemannic-germanic: 0
+    east_franconian-germanic: 1
   owner: HERM
   controller: HERM
   cores:
     ALEM: no
     HERM: yes
-  pops:
-    - estate: peasant
-      size: 1000
 395.1.1:
+  pops: 
+    east_franconian-germanic: 0
+    burgundione-germanic: 1
   owner: BUR
   controller: BUR
   cores:
     HERM: no
     BUR: yes
-  pops:
-    - estate: peasant
-      size: 1000
 443.1.1:
+  pops: 
+    burgundione-germanic: 0
+    east_franconian-germanic: 1
   owner: THU
   controller: THU
   cores:
     BUR: no
     THU: yes
-  pops:
-    - estate: peasant
-      size: 1000
 531.1.1:
   owner: ASTS
   controller: ASTS
@@ -81,9 +79,9 @@
   cores:
     THU: yes
 686.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    east_franconian-germanic: 0
+    east_franconian-chalcedonism: 1
 719.1.1:
   owner: FRAN
   controller: FRAN
@@ -101,9 +99,9 @@
   cores:
     THU: yes
 867.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    east_franconian-chalcedonism: 0
+    east_franconian-catholic: 1
 908.8.3:
   owner: EFRA
   controller: EFRA

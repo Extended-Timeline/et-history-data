@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/4668 - Orkhon.txt
 2.1.1:
+  pops: 
+    mongolian_culture-: 1
   owner: XION
   controller: XION
   cores:
     XION: yes
   resource: fur
-  pops:
-    - religion: 
-      estate: peasant
-      size: 1000
 91.2.1:
   owner: XIAN
   controller: XIAN
@@ -74,9 +72,8 @@
     MGE: no
     YUA: yes
 1275.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    mongolian_culture-tibetan_buddhism: 1
 1368.1.23:
   owner: MGE
   controller: MGE
@@ -84,13 +81,12 @@
     YUA: no
     MGE: yes
 1370.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    mongolian_culture-tibetan_buddhism: 0
+    mongolian_culture-: 1
 1586.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    mongolian_culture-tibetan_buddhism: 1
 1635.4.1:
   owner: KHAL
   controller: KHAL

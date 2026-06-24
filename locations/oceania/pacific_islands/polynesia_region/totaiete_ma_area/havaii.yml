@@ -1,9 +1,7 @@
 #imported from EU4 file: history/provinces/1987 - Society Islands.txt
 2.1.1:
-  pops:
-    - religion: bimoism
-      estate: peasant
-      size: 1000
+  pops: 
+    maohi_culture-bimoism: 1
 1788.1.1:
   owner: TAHI
   controller: TAHI
@@ -11,15 +9,12 @@
     TAHI: yes
   resource: fish
 1840.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    maohi_culture-bimoism: 0
+    maohi_culture-lutheran: 1
 1880.6.29:
   owner: FRA
   controller: FRA
   cores:
     FRA: yes
 1900.1.1:
-  pops:
-    - estate: peasant
-      size: 1000

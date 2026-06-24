@@ -1,23 +1,21 @@
 #imported from EU4 file: history/provinces/1876 - Frankfurt.txt
 2.1.1:
+  pops: 
+    rhine_franconian-germanic: 1
   owner: CHTT
   controller: CHTT
   cores:
     CHTT: yes
   resource: grain
-  pops:
-    - religion: germanic_polytheism
-      estate: peasant
-      size: 1000
 406.1.1:
+  pops: 
+    rhine_franconian-germanic: 0
+    burgundione-germanic: 1
   owner: BUR
   controller: BUR
   cores:
     CHTT: no
     BUR: yes
-  pops:
-    - estate: peasant
-      size: 1000
 443.1.1:
   owner: ALEM
   controller: ALEM
@@ -31,14 +29,14 @@
     ALEM: no
     THU: yes
 454.1.1:
+  pops: 
+    burgundione-germanic: 0
+    rhine_franconian-germanic: 1
   owner: FRAN
   controller: FRAN
   cores:
     THU: no
     FRAN: yes
-  pops:
-    - estate: peasant
-      size: 1000
 511.11.27:
   owner: ASTS
   controller: ASTS
@@ -76,9 +74,9 @@
   owner: FRAN
   controller: FRAN
 750.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    rhine_franconian-germanic: 0
+    rhine_franconian-chalcedonism: 1
 840.6.21:
   owner: EFRA
   controller: EFRA
@@ -86,9 +84,9 @@
     FRAN: no
     EFRA: yes
 867.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    rhine_franconian-chalcedonism: 0
+    rhine_franconian-catholic: 1
 911.11.10:
   owner: FKN
   controller: FKN
@@ -104,9 +102,9 @@
     FKN: no
     FRN: yes
 1556.4.19:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    rhine_franconian-catholic: 0
+    rhine_franconian-lutheran: 1
 1792.10.1:
   controller: FRA
 1792.12.3:
@@ -132,6 +130,3 @@
   cores:
     WGER: no
 2020.1.1:
-  pops:
-    - estate: peasant
-      size: 1000

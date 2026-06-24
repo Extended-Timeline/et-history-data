@@ -1,9 +1,7 @@
 #imported from EU4 file: history/provinces/2337 - Unaizah.txt
 2.1.1:
-  pops:
-    - religion: south_arabian_polytheism
-      estate: peasant
-      size: 1000
+  pops: 
+    najdi_culture-south_arabian: 1
 425.1.1:
   owner: KIND
   controller: KIND
@@ -17,22 +15,22 @@
     KIND: no
     SHM: yes
 630.1.1:
+  pops: 
+    najdi_culture-south_arabian: 0
+    najdi_culture-islam: 1
   owner: RASH
   controller: RASH
   cores:
     RASH: yes
-  pops:
-    - estate: peasant
-      size: 1000
 661.7.28:
+  pops: 
+    najdi_culture-islam: 0
+    najdi_culture-sunni: 1
   owner: UMAY
   controller: UMAY
   cores:
     RASH: no
     UMAY: yes
-  pops:
-    - estate: peasant
-      size: 1000
 750.8.6:
   owner: ABBA
   controller: ABBA

@@ -1,9 +1,7 @@
 #imported from EU4 file: history/provinces/2334 - Badiyat Ash Sham.txt
 2.1.1:
-  pops:
-    - religion: ashurism
-      estate: peasant
-      size: 1000
+  pops: 
+    najdi_culture-ashurism: 1
 220.1.1:
   owner: GHAS
   controller: GHAS
@@ -11,9 +9,9 @@
     GHAS: yes
   resource: grain
 230.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    najdi_culture-ashurism: 0
+    najdi_culture-chalcedonism: 1
 425.1.1:
   owner: LAKH
   controller: LAKH
@@ -21,9 +19,9 @@
     GHAS: no
     LAKH: yes
 431.7.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    najdi_culture-chalcedonism: 0
+    najdi_culture-nestorianism: 1
 602.1.1:
   owner: ANZ
   controller: ANZ
@@ -31,22 +29,22 @@
     LAKH: no
     ANZ: yes
 633.1.1:
+  pops: 
+    najdi_culture-nestorianism: 0
+    najdi_culture-islam: 1
   owner: RASH
   controller: RASH
   cores:
     RASH: yes
-  pops:
-    - estate: peasant
-      size: 1000
 661.7.28:
+  pops: 
+    najdi_culture-islam: 0
+    najdi_culture-sunni: 1
   owner: UMAY
   controller: UMAY
   cores:
     RASH: no
     UMAY: yes
-  pops:
-    - estate: peasant
-      size: 1000
 750.8.6:
   owner: ABBA
   controller: ABBA
@@ -77,9 +75,9 @@
   cores:
     TUR: yes
 1860.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    najdi_culture-sunni: 0
+    iraqi_culture-sunni: 1
 1920.7.24:
   owner: GBR
   controller: GBR

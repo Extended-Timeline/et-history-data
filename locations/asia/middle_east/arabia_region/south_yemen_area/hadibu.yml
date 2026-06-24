@@ -1,18 +1,16 @@
 #imported from EU4 file: history/provinces/1099 - Socotra.txt
 2.1.1:
+  pops: 
+    mehri_culture-bimoism: 1
   resource: fish
-  pops:
-    - religion: bimoism
-      estate: peasant
-      size: 1000
 52.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    mehri_culture-bimoism: 0
+    mehri_culture-chalcedonism: 1
 431.7.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    mehri_culture-chalcedonism: 0
+    mehri_culture-nestorianism: 1
 525.1.1:
   owner: YEM
   controller: YEM
@@ -48,9 +46,9 @@
   owner: MAHR
   controller: MAHR
 1550.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    mehri_culture-nestorianism: 0
+    mehri_culture-sunni: 1
 1967.11.30:
   owner: ADEN
   controller: ADEN

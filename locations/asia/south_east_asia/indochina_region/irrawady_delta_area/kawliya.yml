@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/586 - Pegu.txt
 2.1.1:
+  pops: 
+    mon_culture-theravada: 1
   owner: THAT
   controller: THAT
   cores:
     THAT: yes
   resource: spices
-  pops:
-    - religion: theravada
-      estate: peasant
-      size: 1000
 1057.5.17:
   owner: PAGA
   controller: PAGA
@@ -45,9 +43,9 @@
   owner: BURM
   controller: BURM
 1814.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    mon_culture-theravada: 0
+    burmese_culture-theravada: 1
 1852.12.20:
   owner: GBR
   controller: GBR

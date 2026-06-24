@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/2127 - Badakhshan.txt
 2.1.1:
+  pops: 
+    sogdian-mahayana: 1
   owner: KUSH
   controller: KUSH
   cores:
     KUSH: yes
   resource: livestock
-  pops:
-    - religion: mahayana
-      estate: peasant
-      size: 1000
 230.1.1:
   owner: BADA
   controller: BADA
@@ -27,13 +25,13 @@
     HEPH: no
     BADA: yes
 800.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    sogdian-mahayana: 0
+    tajik_culture-mahayana: 1
 1065.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    tajik_culture-mahayana: 0
+    tajik_culture-sunni: 1
 1219.1.1:
   owner: MGE
   controller: MGE
@@ -63,9 +61,9 @@
   cores:
     ZUNG: yes
 1750.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    tajik_culture-sunni: 0
+    tajik_culture-shia: 1
 1755.1.1:
   owner: YARK
   controller: YARK

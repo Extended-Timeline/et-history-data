@@ -1,17 +1,14 @@
 #imported from EU4 file: history/provinces/2866 - Olavarria.txt
 2.1.1:
-  pops:
-    - religion: muisca_religion
-      estate: peasant
-      size: 1000
+  pops: 
+    het_culture-muisca_religion: 1
 1840.1.1:
+  pops: 
+    het_culture-muisca_religion: 0
+    iberian_la_platan-catholic: 1
   owner: ARGE
   controller: ARGE
   resource: grain
-  pops:
-    - religion: catholic
-      estate: peasant
-      size: 1000
 1867.11.25:
   cores:
     ARGE: yes

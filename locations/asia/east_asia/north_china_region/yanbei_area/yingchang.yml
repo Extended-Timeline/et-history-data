@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/2115 - Chahar.txt
 2.1.1:
+  pops: 
+    khitan-: 1
   owner: WUHU
   controller: WUHU
   cores:
     WUHU: yes
   resource: livestock
-  pops:
-    - religion: 
-      estate: peasant
-      size: 1000
 207.10.1:
   owner: KMXI
   controller: KMXI
@@ -28,9 +26,8 @@
     KHIT: no
     LIAO: yes
 1120.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    chahar-: 1
 1125.1.1:
   owner: TATA
   controller: TATA
@@ -44,9 +41,8 @@
     TATA: no
     MGE: yes
 1265.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    chahar-tibetan_buddhism: 1
 1271.1.1:
   owner: YUA
   controller: YUA
@@ -83,9 +79,9 @@
     MCH: no
     QNG: yes
 1880.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    chahar-tibetan_buddhism: 0
+    yan_culture-tibetan_buddhism: 1
 1912.2.12:
   owner: CHI
   controller: CHI

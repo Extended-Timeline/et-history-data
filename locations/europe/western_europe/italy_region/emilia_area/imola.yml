@@ -1,18 +1,16 @@
 #imported from EU4 file: history/provinces/114 - Romagna.txt
 2.1.1:
+  pops: 
+    etruscan-hellenism_religion: 1
   owner: ROM
   controller: ROM
   cores:
     ROM: yes
   resource: salt
-  pops:
-    - religion: hellenism_religion
-      estate: peasant
-      size: 1000
 250.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    etruscan-hellenism_religion: 0
+    roman-hellenism_religion: 1
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -20,9 +18,9 @@
     ROM: no
     ROMW: yes
 420.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    roman-hellenism_religion: 0
+    roman-chalcedonism: 1
 476.9.4:
   owner: ITA
   controller: ITA
@@ -43,14 +41,14 @@
   cores:
     BYZ: yes
 727.1.1:
+  pops: 
+    roman-chalcedonism: 0
+    emilian-chalcedonism: 1
   owner: LOMB
   controller: LOMB
   cores:
     OSTR: no
     LOMB: yes
-  pops:
-    - estate: peasant
-      size: 1000
 730.1.1:
   owner: BYZ
   controller: BYZ
@@ -78,9 +76,9 @@
     FRAN: no
     PAP: yes
 867.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    emilian-chalcedonism: 0
+    emilian-catholic: 1
 1218.1.1:
   owner: RAV
   controller: RAV

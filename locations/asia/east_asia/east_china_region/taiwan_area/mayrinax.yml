@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/2154 - Kelam.txt
 2.1.1:
+  pops: 
+    formosan_culture-bimoism: 1
   owner: ATAY
   controller: ATAY
   cores:
     ATAY: yes
   resource: chinaware
-  pops:
-    - religion: bimoism
-      estate: peasant
-      size: 1000
 1626.1.1:
   owner: SPA
   controller: SPA
@@ -31,10 +29,9 @@
   cores:
     QNG: yes
 1800.1.1:
-  pops:
-    - religion: sanjiao
-      estate: peasant
-      size: 1000
+  pops: 
+    formosan_culture-bimoism: 0
+    taiwanese-sanjiao: 1
 1895.4.17:
   owner: JAP
   controller: JAP

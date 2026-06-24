@@ -1,18 +1,16 @@
 #imported from EU4 file: history/provinces/4751 - Cilli.txt
 2.1.1:
+  pops: 
+    noric-druidism: 1
   owner: ROM
   controller: ROM
   cores:
     ROM: yes
   resource: wine
-  pops:
-    - religion: druidism
-      estate: peasant
-      size: 1000
 300.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    noric-druidism: 0
+    noric-chalcedonism: 1
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -28,27 +26,27 @@
   cores:
     ROMW: no
 489.1.1:
+  pops: 
+    noric-chalcedonism: 0
+    gothic-chalcedonism: 1
   owner: OSTR
   controller: OSTR
   cores:
     ITA: no
     OSTR: yes
-  pops:
-    - estate: peasant
-      size: 1000
 490.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    gothic-chalcedonism: 0
+    gothic-arianism: 1
 545.1.1:
   owner: BYZ
   controller: BYZ
   cores:
     BYZ: yes
 550.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    gothic-arianism: 0
+    gothic-chalcedonism: 1
 568.1.1:
   owner: LOMB
   controller: LOMB
@@ -57,14 +55,14 @@
     BYZ: no
     LOMB: yes
 588.1.1:
+  pops: 
+    gothic-chalcedonism: 0
+    slovene-chalcedonism: 1
   owner: AVR
   controller: AVR
   cores:
     LOMB: no
     AVR: yes
-  pops:
-    - estate: peasant
-      size: 1000
 623.1.1:
   owner: SAMO
   controller: SAMO
@@ -78,9 +76,6 @@
     SAMO: no
     CRH: yes
 690.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
 745.1.1:
   owner: BAV
   controller: BAV
@@ -100,9 +95,9 @@
     FRAN: no
     BAV: yes
 867.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    slovene-chalcedonism: 0
+    slovene-catholic: 1
 880.3.22:
   owner: EFRA
   controller: EFRA

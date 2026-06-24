@@ -1,33 +1,29 @@
 #imported from EU4 file: history/provinces/1095 - Falklands.txt
 2.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    uninhabited-: 1
 1764.1.1:
+  pops: 
+    french-catholic: 1
   owner: FRA
   controller: FRA
-  pops:
-    - religion: catholic
-      estate: peasant
-      size: 1000
 1766.1.1:
+  pops: 
+    french-catholic: 0
+    english-lutheran: 1
   owner: GBR
   controller: GBR
   resource: fish
-  pops:
-    - religion: lutheran
-      estate: peasant
-      size: 1000
 1767.1.1:
+  pops: 
+    english-lutheran: 0
+    english-catholic: 1
   owner: SPA
   controller: SPA
-  pops:
-    - estate: peasant
-      size: 1000
 1770.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    english-catholic: 0
+    iberian_la_platan-catholic: 1
 1816.1.1:
   cores:
     ARGE: yes
@@ -42,9 +38,9 @@
   cores:
     GBR: yes
 1845.7.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    iberian_la_platan-catholic: 0
+    british_la_platan-catholic: 1
 1982.4.2:
   controller: ARGE
   cores:

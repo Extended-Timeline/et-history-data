@@ -1,23 +1,21 @@
 #imported from EU4 file: history/provinces/4727 - Saluzzo.txt
 2.1.1:
+  pops: 
+    gallian-druidism: 1
   owner: COTT
   controller: COTT
   cores:
     COTT: yes
   resource: iron
-  pops:
-    - religion: druidism
-      estate: peasant
-      size: 1000
 64.1.1:
   owner: ROM
   controller: ROM
   cores:
     ROM: yes
 330.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    gallian-druidism: 0
+    gallian-chalcedonism: 1
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -39,14 +37,14 @@
     ITA: no
     OSTR: yes
 553.1.1:
+  pops: 
+    gallian-chalcedonism: 0
+    piedmontese-chalcedonism: 1
   owner: LOMB
   controller: LOMB
   cores:
     OSTR: no
     LOMB: yes
-  pops:
-    - estate: peasant
-      size: 1000
 773.1.1:
   owner: FRAN
   controller: FRAN
@@ -66,9 +64,9 @@
     LOMB: no
     ITA: yes
 867.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    piedmontese-chalcedonism: 0
+    piedmontese-catholic: 1
 962.2.2:
   owner: TURI
   controller: TURI

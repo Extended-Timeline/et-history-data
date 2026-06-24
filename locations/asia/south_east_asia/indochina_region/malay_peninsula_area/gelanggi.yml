@@ -1,9 +1,7 @@
 #imported from EU4 file: history/provinces/597 - Johor.txt
 2.1.1:
-  pops:
-    - religion: mahayana
-      estate: peasant
-      size: 1000
+  pops: 
+    malay_culture-mahayana: 1
 770.1.1:
   owner: SRIV
   controller: SRIV
@@ -17,9 +15,9 @@
     SRIV: no
     PAH: yes
 1380.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    malay_culture-mahayana: 0
+    malay_culture-sunni: 1
 1400.1.1:
   owner: MALC
   controller: MALC

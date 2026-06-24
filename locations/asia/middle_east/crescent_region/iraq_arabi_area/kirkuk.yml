@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/415 - Sharizhor.txt
 2.1.1:
+  pops: 
+    assyrian-zoroastrian: 1
   owner: PART
   controller: PART
   cores:
     PART: yes
   resource: grain
-  pops:
-    - religion: zoroastrian
-      estate: peasant
-      size: 1000
 224.4.24:
   owner: ERA
   controller: ERA
@@ -16,9 +14,9 @@
     PART: no
     ERA: yes
 460.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    assyrian-zoroastrian: 0
+    assyrian-nestorianism: 1
 643.1.1:
   owner: RASH
   controller: RASH
@@ -38,9 +36,9 @@
     UMAY: no
     ABBA: yes
 880.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    assyrian-nestorianism: 0
+    assyrian-sunni: 1
 942.1.1:
   owner: MOSU
   controller: MOSU
@@ -79,9 +77,9 @@
     IRA: no
     SELJ: yes
 1100.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    assyrian-sunni: 0
+    kurdish_culture-sunni: 1
 1127.1.1:
   owner: MOSU
   controller: MOSU

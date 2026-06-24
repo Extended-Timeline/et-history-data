@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/176 - Bearn.txt
 2.1.1:
+  pops: 
+    aquitanian-bimoism: 1
   owner: ROM
   controller: ROM
   cores:
     ROM: yes
   resource: wool
-  pops:
-    - religion: bimoism
-      estate: peasant
-      size: 1000
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -16,18 +14,18 @@
     ROM: no
     ROMW: yes
 418.1.1:
+  pops: 
+    aquitanian-bimoism: 0
+    aquitanian-arianism: 1
   owner: VISG
   controller: VISG
   cores:
     ROMW: no
     VISG: yes
-  pops:
-    - estate: peasant
-      size: 1000
 500.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    aquitanian-arianism: 0
+    gascon-arianism: 1
 507.1.1:
   owner: FRAN
   controller: FRAN
@@ -46,9 +44,9 @@
     SOIS: no
     FRAN: yes
 560.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    gascon-arianism: 0
+    gascon-chalcedonism: 1
 561.11.29:
   owner: NEUS
   controller: NEUS
@@ -100,9 +98,9 @@
     WFRA: no
     AQN: yes
 867.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    gascon-chalcedonism: 0
+    gascon-catholic: 1
 877.10.6:
   owner: GUY
   controller: GUY
@@ -150,9 +148,9 @@
   cores:
     NAV: yes
 1560.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    gascon-catholic: 0
+    gascon-calvinist: 1
 1589.8.2:
   owner: FRA
   controller: FRA

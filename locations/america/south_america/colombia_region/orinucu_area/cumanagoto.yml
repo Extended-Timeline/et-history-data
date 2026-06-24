@@ -1,26 +1,23 @@
 #imported from EU4 file: history/provinces/4616 - Anzoategui.txt
 2.1.1:
-  pops:
-    - religion: muisca_religion
-      estate: peasant
-      size: 1000
+  pops: 
+    guaribes_culture-muisca_religion: 1
 1547.1.1:
   cores:
     SPA: yes
 1567.1.1:
+  pops: 
+    guaribes_culture-muisca_religion: 0
+    castilian-catholic: 1
   owner: SPA
   controller: SPA
   cores:
     SPA: yes
   resource: fur
-  pops:
-    - religion: catholic
-      estate: peasant
-      size: 1000
 1770.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    castilian-catholic: 0
+    iberian_colombian-catholic: 1
 1811.7.5:
   owner: VENE
   controller: VENE

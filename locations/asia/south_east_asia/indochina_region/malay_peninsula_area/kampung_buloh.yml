@@ -1,18 +1,16 @@
 #imported from EU4 file: history/provinces/2393 - Terengganu.txt
 2.1.1:
+  pops: 
+    malay_culture-mahayana: 1
   owner: CHTU
   controller: CHTU
   cores:
     CHTU: yes
   resource: fish
-  pops:
-    - religion: mahayana
-      estate: peasant
-      size: 1000
 200.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    malay_culture-mahayana: 0
+    malay_culture-hindu: 1
 250.1.1:
   owner: PPAN
   controller: PPAN
@@ -25,14 +23,14 @@
   cores:
     LGK: yes
 1267.1.1:
+  pops: 
+    malay_culture-hindu: 0
+    malay_culture-sunni: 1
   owner: KELN
   controller: KELN
   cores:
     LGK: no
     KELN: yes
-  pops:
-    - estate: peasant
-      size: 1000
 1512.1.1:
   owner: PATT
   controller: PATT

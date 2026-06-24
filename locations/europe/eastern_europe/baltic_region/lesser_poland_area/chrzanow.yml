@@ -1,33 +1,30 @@
 #imported from EU4 file: history/provinces/262 - Krakow.txt
 2.1.1:
+  pops: 
+    quadian-germanic: 1
   owner: QUAD
   controller: QUAD
   cores:
     QUAD: yes
   resource: salt
-  pops:
-    - religion: germanic_polytheism
-      estate: peasant
-      size: 1000
 400.1.1:
+  pops: 
+    quadian-germanic: 0
+    lesser_polish-slavic: 1
   owner: VIST
   controller: VIST
   cores:
     QUAD: no
     VIST: yes
-  pops:
-    - religion: slavic_polytheism
-      estate: peasant
-      size: 1000
 940.1.1:
   owner: POL
   controller: POL
   cores:
     POL: yes
 980.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    lesser_polish-slavic: 0
+    lesser_polish-catholic: 1
 1569.7.1:
   owner: PLC
   controller: PLC

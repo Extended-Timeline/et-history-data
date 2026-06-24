@@ -1,9 +1,7 @@
 #imported from EU4 file: history/provinces/3237 - Kakongo.txt
 2.1.1:
-  pops:
-    - religion: bantu_religion
-      estate: peasant
-      size: 1000
+  pops: 
+    kongo-bantu_religion: 1
 1350.1.1:
   owner: KON
   controller: KON
@@ -22,9 +20,9 @@
     KON: no
     POR: yes
 1900.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    kongo-bantu_religion: 0
+    kongo-catholic: 1
 1975.11.11:
   owner: ANGO
   cores:

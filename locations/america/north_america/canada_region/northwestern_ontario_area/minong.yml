@@ -1,44 +1,38 @@
 #imported from EU4 file: history/provinces/910 - Chippewa.txt
 2.1.1:
+  pops: 
+    ojibwe_culture-iroquoian_totemism: 1
   resource: fur
-  pops:
-    - religion: iroquoian_totemism
-      estate: peasant
-      size: 1000
 1737.1.1:
+  pops: 
+    ojibwe_culture-iroquoian_totemism: 0
+    french-catholic: 1
   owner: FRA
   controller: FRA
   cores:
     FRA: yes
   resource: fur
-  pops:
-    - religion: catholic
-      estate: peasant
-      size: 1000
 1763.2.10:
+  pops: 
+    french-catholic: 0
+    english-lutheran: 1
   owner: GBR
   controller: GBR
   cores:
     FRA: no
-  pops:
-    - religion: lutheran
-      estate: peasant
-      size: 1000
 1763.10.9:
+  pops: 
+    english-lutheran: 0
+    ojibwe_culture-iroquoian_totemism: 1
   owner: OJI
   controller: OJI
   cores:
     OJI: yes
-  pops:
-    - religion: iroquoian_totemism
-      estate: peasant
-      size: 1000
 1813.10.5:
+  pops: 
+    ojibwe_culture-iroquoian_totemism: 0
+    american-lutheran: 1
   owner: USA
   controller: USA
   cores:
     USA: yes
-  pops:
-    - religion: lutheran
-      estate: peasant
-      size: 1000

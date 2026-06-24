@@ -1,23 +1,21 @@
 #imported from EU4 file: history/provinces/97 - Holland.txt
 2.1.1:
+  pops: 
+    frisian-germanic: 1
   owner: FRI
   controller: FRI
   cores:
     FRI: yes
   resource: cloth
-  pops:
-    - religion: germanic_polytheism
-      estate: peasant
-      size: 1000
 734.1.1:
   owner: FRAN
   controller: FRAN
   cores:
     FRAN: yes
 780.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    frisian-germanic: 0
+    frisian-chalcedonism: 1
 840.6.21:
   owner: MFRA
   controller: MFRA
@@ -34,9 +32,9 @@
     MFRA: no
     LOT: yes
 867.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    frisian-chalcedonism: 0
+    frisian-catholic: 1
 870.8.8:
   cores:
     LOT: no
@@ -54,9 +52,9 @@
     FRI: no
     HOL: yes
 1120.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    frisian-catholic: 0
+    low_franconian-catholic: 1
 1477.1.5:
   owner: HAB
   controller: HAB
@@ -75,9 +73,9 @@
     SPA: no
     NED: yes
 1572.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    low_franconian-catholic: 0
+    low_franconian-calvinist: 1
 1786.10.13:
   controller: NED
 1810.7.10:
@@ -105,6 +103,3 @@
 1970.1.1:
   resource: electronics
 2005.1.1:
-  pops:
-    - estate: peasant
-      size: 1000

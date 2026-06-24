@@ -1,9 +1,7 @@
 #imported from EU4 file: history/provinces/2415 - Etkara.txt
 2.1.1:
-  pops:
-    - religion: 
-      estate: peasant
-      size: 1000
+  pops: 
+    moksha_culture-: 1
 600.1.1:
   owner: MORD
   controller: MORD
@@ -16,10 +14,8 @@
   cores:
     MGE: yes
 1250.1.1:
-  pops:
-    - religion: sunni
-      estate: peasant
-      size: 1000
+  pops: 
+    mishar-sunni: 1
 1260.1.1:
   owner: WHHO
   controller: WHHO
@@ -61,10 +57,9 @@
     CRI: no
     RUS: yes
 1650.1.1:
-  pops:
-    - religion: orthodox
-      estate: peasant
-      size: 1000
+  pops: 
+    mishar-sunni: 0
+    muscovite-orthodox: 1
 1922.12.30:
   owner: SOVI
   controller: SOVI

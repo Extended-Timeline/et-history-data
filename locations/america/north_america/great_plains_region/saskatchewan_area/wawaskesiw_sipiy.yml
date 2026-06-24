@@ -1,19 +1,16 @@
 #imported from EU4 file: history/provinces/2017 - Nehiyawewin.txt
 2.1.1:
-  pops:
-    - religion: iroquoian_totemism
-      estate: peasant
-      size: 1000
+  pops: 
+    mahmikiwini_culture-iroquoian_totemism: 1
 1795.1.1:
+  pops: 
+    mahmikiwini_culture-iroquoian_totemism: 0
+    british_canadian-lutheran: 1
   owner: GBR
   controller: GBR
   cores:
     GBR: yes
   resource: fur
-  pops:
-    - religion: lutheran
-      estate: peasant
-      size: 1000
 1850.1.1:
   resource: paper
 1870.7.15:

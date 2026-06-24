@@ -1,18 +1,16 @@
 #imported from EU4 file: history/provinces/1205 - Mogadishu.txt
 2.1.1:
+  pops: 
+    somali_culture-bantu_religion: 1
   owner: MDI
   controller: MDI
   cores:
     MDI: yes
   resource: ivory
-  pops:
-    - religion: bantu_religion
-      estate: peasant
-      size: 1000
 850.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    somali_culture-bantu_religion: 0
+    somali_culture-sunni: 1
 1555.1.1:
   owner: AJU
   controller: AJU

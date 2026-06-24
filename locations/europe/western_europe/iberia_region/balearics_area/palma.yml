@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/333 - The Baleares.txt
 2.1.1:
+  pops: 
+    iberi-bimoism: 1
   owner: ROM
   controller: ROM
   cores:
     ROM: yes
   resource: fish
-  pops:
-    - religion: bimoism
-      estate: peasant
-      size: 1000
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -16,9 +14,9 @@
     ROM: no
     ROMW: yes
 400.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    iberi-bimoism: 0
+    iberi-chalcedonism: 1
 450.1.1:
   owner: VAND
   controller: VAND
@@ -44,10 +42,9 @@
     UMAY: no
     CRDB: yes
 800.1.1:
-  pops:
-    - religion: sunni
-      estate: peasant
-      size: 1000
+  pops: 
+    iberi-chalcedonism: 0
+    andalusi-sunni: 1
 1011.1.1:
   owner: DENI
   controller: DENI
@@ -82,6 +79,9 @@
   cores:
     MOR: yes
 1231.1.1:
+  pops: 
+    andalusi-sunni: 0
+    catalan-sunni: 1
   owner: MLL
   controller: MLL
   cores:
@@ -89,13 +89,10 @@
     MAJO: no
     MLL: yes
     ARA: yes
-  pops:
-    - estate: peasant
-      size: 1000
 1250.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    catalan-sunni: 0
+    catalan-catholic: 1
 1286.1.1:
   owner: ARA
   controller: ARA

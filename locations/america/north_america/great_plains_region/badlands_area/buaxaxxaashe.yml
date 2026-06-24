@@ -1,16 +1,13 @@
 #imported from EU4 file: history/provinces/2006 - Apsaalooke.txt
 2.1.1:
-  pops:
-    - religion: iroquoian_totemism
-      estate: peasant
-      size: 1000
+  pops: 
+    siksika_culture-iroquoian_totemism: 1
 1860.1.1:
+  pops: 
+    siksika_culture-iroquoian_totemism: 0
+    british_californian-lutheran: 1
   owner: USA
   controller: USA
   cores:
     USA: yes
   resource: naval_supplies
-  pops:
-    - religion: lutheran
-      estate: peasant
-      size: 1000

@@ -1,22 +1,20 @@
 #imported from EU4 file: history/provinces/579 - Arakan.txt
 2.1.1:
+  pops: 
+    rakhine_culture-mahayana: 1
   owner: ARK
   controller: ARK
   cores:
     ARK: yes
   resource: grain
-  pops:
-    - religion: mahayana
-      estate: peasant
-      size: 1000
 1150.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    rakhine_culture-mahayana: 0
+    rakhine_culture-theravada: 1
 1500.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    rakhine_culture-theravada: 0
+    rakhine_culture-sunni: 1
 1785.1.2:
   owner: BURM
   controller: BURM

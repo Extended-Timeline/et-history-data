@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/4590 - Xiu.txt
 2.1.1:
+  pops: 
+    yucatec_culture-mayan: 1
   owner: XIU
   controller: XIU
   cores:
     XIU: yes
   resource: cocoa
-  pops:
-    - religion: mayan
-      estate: peasant
-      size: 1000
 930.1.1:
   owner: TOLT
   controller: TOLT
@@ -32,13 +30,13 @@
   cores:
     XIU: yes
 1542.1.23:
+  pops: 
+    yucatec_culture-mayan: 0
+    yucatec_culture-catholic: 1
   owner: SPA
   controller: SPA
   cores:
     SPA: yes
-  pops:
-    - estate: peasant
-      size: 1000
 1810.9.16:
   owner: MEX
   controller: SPA

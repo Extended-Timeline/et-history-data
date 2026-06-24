@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/182 - Vermandois.txt
 2.1.1:
+  pops: 
+    gallian-druidism: 1
   owner: ROM
   controller: ROM
   cores:
     ROM: yes
   resource: livestock
-  pops:
-    - religion: druidism
-      estate: peasant
-      size: 1000
 260.1.1:
   cores:
     GALL: yes
@@ -17,9 +15,9 @@
   cores:
     GALL: no
 350.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    gallian-druidism: 0
+    gallian-chalcedonism: 1
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -35,14 +33,14 @@
   cores:
     ROMW: no
 486.6.1:
+  pops: 
+    gallian-chalcedonism: 0
+    french-chalcedonism: 1
   owner: FRAN
   controller: FRAN
   cores:
     SOIS: no
     FRAN: yes
-  pops:
-    - estate: peasant
-      size: 1000
 511.11.27:
   owner: SOIS
   controller: SOIS
@@ -80,9 +78,9 @@
     FRAN: no
     WFRA: yes
 867.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    french-chalcedonism: 0
+    french-catholic: 1
 987.7.3:
   owner: FRA
   controller: FRA

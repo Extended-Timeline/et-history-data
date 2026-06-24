@@ -1,9 +1,7 @@
 #imported from EU4 file: history/provinces/4535 - Wilkimierz.txt
 2.1.1:
-  pops:
-    - religion: romuva
-      estate: peasant
-      size: 1000
+  pops: 
+    aukstaitian-romuva: 1
 550.1.1:
   owner: LIT
   controller: LIT
@@ -11,9 +9,9 @@
     LIT: yes
   resource: livestock
 1390.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    aukstaitian-romuva: 0
+    aukstaitian-catholic: 1
 1569.7.1:
   owner: PLC
   controller: PLC

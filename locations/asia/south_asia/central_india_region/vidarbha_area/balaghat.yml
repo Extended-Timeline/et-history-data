@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/551 - Mahakoshal.txt
 2.1.1:
+  pops: 
+    gond-hindu: 1
   owner: GOND
   controller: GOND
   cores:
     GOND: yes
   resource: tropical_wood
-  pops:
-    - religion: hindu
-      estate: peasant
-      size: 1000
 675.1.1:
   owner: KALC
   controller: KALC

@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/2470 - Haha.txt
 2.1.1:
+  pops: 
+    masmuda-bantu_religion: 1
   owner: ATLA
   controller: ATLA
   cores:
     ATLA: yes
   resource: grain
-  pops:
-    - religion: bantu_religion
-      estate: peasant
-      size: 1000
 720.1.1:
   owner: UMAY
   controller: UMAY
@@ -27,9 +25,9 @@
     BARG: no
     MOR: yes
 1060.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    masmuda-bantu_religion: 0
+    masmuda-sunni: 1
 1374.1.1:
   owner: MRK
   controller: MRK

@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/1767 - Veroce.txt
 2.1.1:
+  pops: 
+    pannonian-druidism: 1
   owner: ROM
   controller: ROM
   cores:
     ROM: yes
   resource: livestock
-  pops:
-    - religion: druidism
-      estate: peasant
-      size: 1000
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -22,9 +20,9 @@
     ROMW: no
     OSTR: yes
 480.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    pannonian-druidism: 0
+    pannonian-arianism: 1
 530.1.1:
   owner: GEPI
   controller: GEPI
@@ -38,16 +36,14 @@
     GEPI: no
     AVR: yes
 600.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    pannonian-arianism: 0
+    pannonian-: 1
 630.1.1:
+  pops: 
+    croatian-slavic: 1
   cores:
     CRO: yes
-  pops:
-    - religion: slavic_polytheism
-      estate: peasant
-      size: 1000
 790.1.1:
   owner: PANO
   controller: PANO
@@ -55,9 +51,9 @@
     AVR: no
     PANO: yes
 870.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    croatian-slavic: 0
+    croatian-catholic: 1
 897.1.1:
   owner: CRO
   controller: CRO
@@ -80,9 +76,9 @@
   cores:
     TUR: yes
 1567.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    croatian-catholic: 0
+    croatian-calvinist: 1
 1606.1.1:
   controller: TUR
 1687.9.29:
@@ -93,14 +89,14 @@
     TUR: no
     HAB: yes
 1918.12.1:
+  pops: 
+    croatian-calvinist: 0
+    croatian-catholic: 1
   owner: YUGO
   controller: YUGO
   cores:
     HAB: no
     YUGO: yes
-  pops:
-    - estate: peasant
-      size: 1000
 1941.4.6:
   owner: GER
   controller: GER

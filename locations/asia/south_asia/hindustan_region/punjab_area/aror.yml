@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/2086 - Cholistan.txt
 2.1.1:
+  pops: 
+    punjabi-hindu: 1
   owner: IPAR
   controller: IPAR
   cores:
     IPAR: yes
   resource: livestock
-  pops:
-    - religion: hindu
-      estate: peasant
-      size: 1000
 76.1.1:
   owner: KUSH
   controller: KUSH
@@ -73,9 +71,9 @@
     SND: no
     MULT: yes
 965.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    punjabi-hindu: 0
+    punjabi-sunni: 1
 1005.1.1:
   owner: GHAZ
   controller: GHAZ

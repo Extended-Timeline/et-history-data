@@ -1,9 +1,7 @@
 #imported from EU4 file: history/provinces/1058 - Nerchinsky.txt
 2.1.1:
-  pops:
-    - religion: 
-      estate: peasant
-      size: 1000
+  pops: 
+    mongolian_culture-: 1
 580.1.1:
   owner: GOKT
   controller: GOKT
@@ -57,13 +55,11 @@
     YUA: no
     MGE: yes
 1653.1.1:
+  pops: 
+    muscovite-orthodox: 1
   owner: RUS
   controller: RUS
   resource: wool
-  pops:
-    - religion: orthodox
-      estate: peasant
-      size: 1000
 1678.1.1:
   cores:
     RUS: yes

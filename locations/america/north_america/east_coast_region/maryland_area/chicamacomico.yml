@@ -1,17 +1,14 @@
 #imported from EU4 file: history/provinces/2554 - Nanticoke.txt
 2.1.1:
-  pops:
-    - religion: iroquoian_totemism
-      estate: peasant
-      size: 1000
+  pops: 
+    powhatan_culture-iroquoian_totemism: 1
 1684.1.1:
+  pops: 
+    powhatan_culture-iroquoian_totemism: 0
+    english-lutheran: 1
   owner: ENG
   controller: ENG
   resource: tobacco
-  pops:
-    - religion: lutheran
-      estate: peasant
-      size: 1000
 1707.5.12:
   owner: GBR
   controller: GBR
@@ -19,9 +16,9 @@
   cores:
     GBR: yes
 1764.7.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    english-lutheran: 0
+    american-lutheran: 1
 1776.7.4:
   owner: USA
   controller: USA

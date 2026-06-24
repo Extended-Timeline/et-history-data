@@ -1,27 +1,25 @@
 #imported from EU4 file: history/provinces/4412 - Dindigul.txt
 2.1.1:
+  pops: 
+    tamil-hindu: 1
   owner: TNK
   controller: TNK
   cores:
     TNK: yes
   resource: naval_supplies
-  pops:
-    - religion: hindu
-      estate: peasant
-      size: 1000
 250.1.1:
   owner: KALA
   controller: KALA
   cores:
     KALA: yes
 280.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    tamil-hindu: 0
+    tamil-jain: 1
 580.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    tamil-jain: 0
+    tamil-hindu: 1
 590.1.1:
   owner: TNK
   controller: TNK

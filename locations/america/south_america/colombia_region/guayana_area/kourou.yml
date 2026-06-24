@@ -1,17 +1,14 @@
 #imported from EU4 file: history/provinces/746 - Cayenne.txt
 2.1.1:
-  pops:
-    - religion: muisca_religion
-      estate: peasant
-      size: 1000
+  pops: 
+    wayuu_culture-muisca_religion: 1
 1604.1.1:
+  pops: 
+    wayuu_culture-muisca_religion: 0
+    french-catholic: 1
   owner: FRA
   controller: FRA
   resource: sugar
-  pops:
-    - religion: catholic
-      estate: peasant
-      size: 1000
 1629.1.1:
   cores:
     FRA: yes
@@ -28,9 +25,9 @@
 1677.1.1:
   controller: FRA
 1780.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    french-catholic: 0
+    french_colombian-catholic: 1
 1870.9.4:
   owner: FRA
   controller: FRA

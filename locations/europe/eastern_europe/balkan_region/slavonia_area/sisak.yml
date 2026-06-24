@@ -1,18 +1,16 @@
 #imported from EU4 file: history/provinces/131 - Zagorje.txt
 2.1.1:
+  pops: 
+    illyrian-hellenism_religion: 1
   owner: ROM
   controller: ROM
   cores:
     ROM: yes
   resource: cloth
-  pops:
-    - religion: hellenism_religion
-      estate: peasant
-      size: 1000
 340.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    illyrian-hellenism_religion: 0
+    illyrian-chalcedonism: 1
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -26,10 +24,9 @@
     ROMW: no
     OSTR: yes
 460.1.1:
-  pops:
-    - religion: arianism
-      estate: peasant
-      size: 1000
+  pops: 
+    illyrian-chalcedonism: 0
+    gothic-arianism: 1
 540.1.1:
   owner: BYZ
   controller: BYZ
@@ -37,16 +34,15 @@
     OSTR: no
     BYZ: yes
 550.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    gothic-arianism: 0
+    gothic-chalcedonism: 1
 620.1.1:
+  pops: 
+    gothic-chalcedonism: 0
+    croatian-slavic: 1
   cores:
     CRO: yes
-  pops:
-    - religion: slavic_polytheism
-      estate: peasant
-      size: 1000
 630.1.1:
   owner: CRO
   controller: CRO
@@ -59,9 +55,9 @@
     CRO: no
     PANO: yes
 870.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    croatian-slavic: 0
+    croatian-catholic: 1
 897.1.1:
   owner: CRO
   controller: CRO

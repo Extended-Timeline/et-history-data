@@ -1,36 +1,34 @@
 #imported from EU4 file: history/provinces/4395 - Yamethin.txt
 2.1.1:
+  pops: 
+    pyu-theravada: 1
   owner: BEIK
   controller: BEIK
   cores:
     BEIK: yes
   resource: ivory
-  pops:
-    - religion: theravada
-      estate: peasant
-      size: 1000
 450.1.1:
   owner: SRKS
   controller: SRKS
   cores:
     SRKS: yes
 750.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    pyu-theravada: 0
+    pyu-tibetan_buddhism: 1
 800.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    pyu-tibetan_buddhism: 0
+    burmese_culture-tibetan_buddhism: 1
 1043.12.1:
   owner: PAGA
   controller: PAGA
   cores:
     PAGA: yes
 1050.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    burmese_culture-tibetan_buddhism: 0
+    burmese_culture-theravada: 1
 1297.12.17:
   owner: MYIN
   controller: MYIN

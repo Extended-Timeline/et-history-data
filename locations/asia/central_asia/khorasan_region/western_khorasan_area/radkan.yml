@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/2221 - Khurasan.txt
 2.1.1:
+  pops: 
+    parthian-zoroastrian: 1
   owner: PART
   controller: PART
   cores:
     PART: yes
   resource: copper
-  pops:
-    - religion: zoroastrian
-      estate: peasant
-      size: 1000
 224.4.24:
   owner: ERA
   controller: ERA
@@ -32,9 +30,9 @@
     ERA: no
     RASH: yes
 650.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    parthian-zoroastrian: 0
+    khorasani_culture-zoroastrian: 1
 661.7.28:
   owner: UMAY
   controller: UMAY
@@ -48,9 +46,9 @@
     UMAY: no
     ABBA: yes
 770.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    khorasani_culture-zoroastrian: 0
+    khorasani_culture-sunni: 1
 821.1.1:
   owner: KHOR
   controller: KHOR
@@ -150,13 +148,13 @@
     BUKH: no
     IRA: yes
 1516.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    khorasani_culture-sunni: 0
+    khorasani_culture-shia: 1
 1650.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    khorasani_culture-shia: 0
+    farsi_culture-shia: 1
 1750.1.2:
   owner: KHOR
   controller: KHOR

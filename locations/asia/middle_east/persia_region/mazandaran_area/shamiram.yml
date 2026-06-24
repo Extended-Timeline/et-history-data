@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/2212 - Zanjan.txt
 2.1.1:
+  pops: 
+    talysh_culture-zoroastrian: 1
   owner: PART
   controller: PART
   cores:
     PART: yes
   resource: spices
-  pops:
-    - religion: zoroastrian
-      estate: peasant
-      size: 1000
 224.4.24:
   owner: ERA
   controller: ERA
@@ -50,9 +48,9 @@
   cores:
     SELJ: yes
 1060.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    talysh_culture-zoroastrian: 0
+    azeri_culture-zoroastrian: 1
 1157.5.8:
   owner: AZER
   controller: AZER
@@ -79,9 +77,9 @@
     MGE: no
     ILK: yes
 1310.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    azeri_culture-zoroastrian: 0
+    azeri_culture-shia: 1
 1335.1.1:
   owner: TABR
   controller: TABR

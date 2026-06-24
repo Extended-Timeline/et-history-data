@@ -1,18 +1,16 @@
 #imported from EU4 file: history/provinces/2991 - Folcalquier.txt
 2.1.1:
+  pops: 
+    ligurian-druidism: 1
   owner: ROM
   controller: ROM
   cores:
     ROM: yes
   resource: wool
-  pops:
-    - religion: druidism
-      estate: peasant
-      size: 1000
 340.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    ligurian-druidism: 0
+    ligurian-chalcedonism: 1
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -26,9 +24,9 @@
     ROMW: no
     VISG: yes
 500.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    ligurian-chalcedonism: 0
+    gothic-chalcedonism: 1
 508.1.1:
   owner: OSTR
   controller: OSTR
@@ -69,9 +67,9 @@
   cores:
     ASTS: no
 600.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    gothic-chalcedonism: 0
+    languedocien-chalcedonism: 1
 612.1.1:
   owner: ASTS
   controller: ASTS
@@ -116,9 +114,9 @@
   cores:
     ITA: yes
 867.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    languedocien-chalcedonism: 0
+    languedocien-catholic: 1
 879.1.1:
   owner: PRO
   controller: PRO
@@ -170,9 +168,9 @@
   cores:
     FRA: yes
 1900.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    languedocien-catholic: 0
+    french-catholic: 1
 1940.6.14:
   owner: VFRA
   controller: VFRA

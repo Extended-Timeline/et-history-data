@@ -1,38 +1,34 @@
 #imported from EU4 file: history/provinces/1953 - Szabolcs.txt
 2.1.1:
+  pops: 
+    pannonian-druidism: 1
   owner: IAZY
   controller: IAZY
   cores:
     IAZY: yes
   resource: livestock
-  pops:
-    - religion: druidism
-      estate: peasant
-      size: 1000
 300.1.1:
+  pops: 
+    pannonian-druidism: 0
+    gepid-germanic: 1
   owner: GEPI
   controller: GEPI
   cores:
     IAZY: no
     GEPI: yes
-  pops:
-    - religion: germanic_polytheism
-      estate: peasant
-      size: 1000
 400.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    gepid-germanic: 0
+    gepid-arianism: 1
 567.1.1:
+  pops: 
+    gepid-arianism: 0
+    avar_culture-: 1
   owner: AVR
   controller: AVR
   cores:
     GEPI: no
     AVR: yes
-  pops:
-    - religion: 
-      estate: peasant
-      size: 1000
 804.1.1:
   owner: BUL
   controller: BUL
@@ -40,18 +36,16 @@
     AVR: no
     BUL: yes
 850.1.1:
+  pops: 
+    hungarian-: 1
   owner: HUN
   controller: HUN
   cores:
     BUL: no
     HUN: yes
-  pops:
-    - estate: peasant
-      size: 1000
 1050.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    hungarian-catholic: 1
 1507.1.1:
   controller: HUN
 1515.1.1:
@@ -65,9 +59,9 @@
     HAB: yes
     TRA: yes
 1540.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    hungarian-catholic: 0
+    hungarian-calvinist: 1
 1542.1.1:
   controller: TRA
 1545.8.1:
@@ -81,9 +75,6 @@
   owner: TRA
   controller: TRA
 1567.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
 1570.1.1:
   owner: HAB
   controller: HAB

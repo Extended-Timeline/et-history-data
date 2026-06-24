@@ -1,15 +1,13 @@
 #imported from EU4 file: history/provinces/693 - Taiyuan.txt
 2.1.1:
+  pops: 
+    jin_culture-sanjiao: 1
   owner: HAN0
   controller: HAN0
   cores:
     HAN0: yes
     WEI0: yes
   resource: iron
-  pops:
-    - religion: sanjiao
-      estate: peasant
-      size: 1000
 9.1.10:
   owner: XIN0
   controller: XIN0
@@ -38,9 +36,9 @@
     WEI0: no
     JIN1: yes
 300.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    jin_culture-sanjiao: 0
+    jin_culture-mahayana: 1
 304.1.1:
   owner: ZHAO
   controller: ZHAO
@@ -54,9 +52,9 @@
     ZHAO: no
     QIN0: yes
 360.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    jin_culture-mahayana: 0
+    jin_culture-sanjiao: 1
 384.1.1:
   owner: WYAN
   controller: WYAN

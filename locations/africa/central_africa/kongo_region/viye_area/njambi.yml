@@ -1,9 +1,7 @@
 #imported from EU4 file: history/provinces/4093 - Lunda.txt
 2.1.1:
-  pops:
-    - religion: bantu_religion
-      estate: peasant
-      size: 1000
+  pops: 
+    lunda-bantu_religion: 1
 1350.1.1:
   owner: LND
   controller: LND
@@ -21,9 +19,9 @@
   cores:
     POR: yes
 1950.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    lunda-bantu_religion: 0
+    lunda-catholic: 1
 1975.11.11:
   owner: ANGO
   controller: ANGO

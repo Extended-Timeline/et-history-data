@@ -1,22 +1,19 @@
 #imported from EU4 file: history/provinces/890 - Kiowa.txt
 2.1.1:
-  pops:
-    - religion: iroquoian_totemism
-      estate: peasant
-      size: 1000
+  pops: 
+    tsawi_culture-iroquoian_totemism: 1
 1760.1.1:
+  pops: 
+    tsawi_culture-iroquoian_totemism: 0
+    kaigwu_culture-iroquoian_totemism: 1
   cores:
     ???: yes
   resource: grain
-  pops:
-    - estate: peasant
-      size: 1000
 1867.1.1:
+  pops: 
+    kaigwu_culture-iroquoian_totemism: 0
+    american-lutheran: 1
   owner: USA
   controller: USA
   cores:
     USA: yes
-  pops:
-    - religion: lutheran
-      estate: peasant
-      size: 1000

@@ -1,9 +1,7 @@
 #imported from EU4 file: history/provinces/2691 - Kediri.txt
 2.1.1:
-  pops:
-    - religion: hindu
-      estate: peasant
-      size: 1000
+  pops: 
+    javanese_culture-hindu: 1
 732.1.1:
   owner: MATA
   controller: MATA
@@ -45,9 +43,9 @@
     MAJ: no
     DEMA: yes
 1550.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    javanese_culture-hindu: 0
+    javanese_culture-sunni: 1
 1587.1.1:
   owner: BLAM
   controller: BLAM

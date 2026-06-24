@@ -1,33 +1,30 @@
 #imported from EU4 file: history/provinces/55 - Oldenburg.txt
 2.1.1:
+  pops: 
+    eastphalian-germanic: 1
   owner: CHCI
   controller: CHCI
   cores:
     CHCI: yes
   resource: salt
-  pops:
-    - religion: germanic_polytheism
-      estate: peasant
-      size: 1000
 500.1.1:
+  pops: 
+    eastphalian-germanic: 0
+    frisian-germanic: 1
   owner: FRI
   controller: FRI
   cores:
     CHCI: no
     FRI: yes
-  pops:
-    - estate: peasant
-      size: 1000
 734.1.1:
   owner: FRAN
   controller: FRAN
   cores:
     FRAN: yes
 800.1.1:
-  pops:
-    - religion: chalcedonism
-      estate: peasant
-      size: 1000
+  pops: 
+    frisian-germanic: 0
+    lower_saxon-chalcedonism: 1
 839.1.1:
   owner: FRI
   controller: FRI
@@ -35,9 +32,9 @@
     FRAN: no
     FRI: yes
 867.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    lower_saxon-chalcedonism: 0
+    lower_saxon-catholic: 1
 896.1.1:
   owner: EFRI
   controller: EFRI
@@ -61,9 +58,9 @@
   cores:
     DAN: no
 1531.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    lower_saxon-catholic: 0
+    lower_saxon-lutheran: 1
 1667.1.1:
   owner: DAN
   controller: DAN

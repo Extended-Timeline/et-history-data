@@ -1,9 +1,7 @@
 #imported from EU4 file: history/provinces/2289 - Ondo.txt
 2.1.1:
-  pops:
-    - religion: bantu_religion
-      estate: peasant
-      size: 1000
+  pops: 
+    edo-bantu_religion: 1
 523.1.1:
   owner: BEN
   controller: BEN
@@ -16,9 +14,9 @@
   cores:
     GBR: yes
 1900.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    edo-bantu_religion: 0
+    edo-lutheran: 1
 1960.10.1:
   owner: NIGR
   controller: NIGR

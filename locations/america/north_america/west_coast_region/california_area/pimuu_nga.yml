@@ -1,19 +1,16 @@
 #imported from EU4 file: history/provinces/868 - Chumash.txt
 2.1.1:
-  pops:
-    - religion: iroquoian_totemism
-      estate: peasant
-      size: 1000
+  pops: 
+    pima_culture-iroquoian_totemism: 1
 1774.1.1:
+  pops: 
+    pima_culture-iroquoian_totemism: 0
+    mexican-catholic: 1
   owner: SPA
   controller: SPA
   cores:
     SPA: yes
   resource: grain
-  pops:
-    - religion: catholic
-      estate: peasant
-      size: 1000
 1810.9.16:
   owner: MEX
   controller: SPA
@@ -31,8 +28,8 @@
     MEX: no
     USA: yes
 1850.4.4:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    mexican-catholic: 0
+    british_californian-catholic: 1
 1911.1.1:
   resource: oil

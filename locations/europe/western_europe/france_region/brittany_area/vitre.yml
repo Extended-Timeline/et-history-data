@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/4384 - Rennes.txt
 2.1.1:
+  pops: 
+    gallian-druidism: 1
   owner: ROM
   controller: ROM
   cores:
     ROM: yes
   resource: cloth
-  pops:
-    - religion: druidism
-      estate: peasant
-      size: 1000
 260.1.1:
   cores:
     GALL: yes
@@ -23,20 +21,20 @@
     ROM: no
     ROMW: yes
 450.1.1:
+  pops: 
+    gallian-druidism: 0
+    breton-druidism: 1
   owner: VANN
   controller: VANN
   cores:
     VANN: yes
-  pops:
-    - estate: peasant
-      size: 1000
 480.6.1:
   cores:
     ROMW: no
 490.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    breton-druidism: 0
+    breton-chalcedonism: 1
 846.1.1:
   owner: BRI
   controller: BRI
@@ -44,9 +42,9 @@
     VANN: no
     BRI: yes
 867.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    breton-chalcedonism: 0
+    breton-catholic: 1
 876.1.1:
   controller: BRI
 907.1.1:
@@ -62,13 +60,13 @@
   owner: FRA
   controller: FRA
 1560.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    breton-catholic: 0
+    breton-calvinist: 1
 1686.1.17:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    breton-calvinist: 0
+    breton-catholic: 1
 1870.9.4:
   owner: FRA
   controller: FRA

@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/550 - Mahakoshal.txt
 2.1.1:
+  pops: 
+    gond-hindu: 1
   owner: GOND
   controller: GOND
   cores:
     GOND: yes
   resource: grain
-  pops:
-    - religion: hindu
-      estate: peasant
-      size: 1000
 675.1.1:
   owner: KALC
   controller: KALC
@@ -58,9 +56,9 @@
     NAGP: no
     GBR: yes
 1850.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    gond-hindu: 0
+    bagheli-hindu: 1
 1930.1.1:
   cores:
     BERR: no

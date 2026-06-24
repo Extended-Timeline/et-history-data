@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/4833 - Phetchabun.txt
 2.1.1:
+  pops: 
+    mon_culture-bimoism: 1
   owner: MON0
   controller: MON0
   cores:
     MON0: yes
   resource: grain
-  pops:
-    - religion: bimoism
-      estate: peasant
-      size: 1000
 300.1.1:
   owner: DVAR
   controller: DVAR
@@ -16,13 +14,13 @@
     MON0: no
     DVAR: yes
 500.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    mon_culture-bimoism: 0
+    mon_culture-mahayana: 1
 650.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    mon_culture-mahayana: 0
+    mon_culture-theravada: 1
 661.1.1:
   owner: LAV
   controller: LAV
@@ -35,9 +33,9 @@
   cores:
     CAMB: yes
 1020.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    mon_culture-theravada: 0
+    thai_culture-theravada: 1
 1060.1.1:
   owner: LAV
   controller: LAV
@@ -50,9 +48,6 @@
     LAV: no
     SUK: yes
 1260.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
 1390.1.1:
   owner: AYU
   controller: AYU

@@ -1,27 +1,25 @@
 #imported from EU4 file: history/provinces/1866 - Namur.txt
 2.1.1:
+  pops: 
+    belgae-germanic: 1
   owner: ROM
   controller: ROM
   cores:
     ROM: yes
   resource: iron
-  pops:
-    - religion: germanic_polytheism
-      estate: peasant
-      size: 1000
 260.1.1:
+  pops: 
+    belgae-germanic: 0
+    gallian-germanic: 1
   cores:
     GALL: yes
-  pops:
-    - estate: peasant
-      size: 1000
 274.1.1:
+  pops: 
+    gallian-germanic: 0
+    frankish-germanic: 1
   controller: ROM
   cores:
     GALL: no
-  pops:
-    - estate: peasant
-      size: 1000
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -35,9 +33,9 @@
     ROMW: no
     FRAN: yes
 486.6.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    frankish-germanic: 0
+    walloon-germanic: 1
 511.11.27:
   owner: SOIS
   controller: SOIS
@@ -69,9 +67,9 @@
   owner: FRAN
   controller: FRAN
 705.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    walloon-germanic: 0
+    walloon-chalcedonism: 1
 840.6.21:
   owner: MFRA
   controller: MFRA
@@ -85,9 +83,9 @@
     MFRA: no
     LOT: yes
 867.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    walloon-chalcedonism: 0
+    walloon-catholic: 1
 870.8.8:
   owner: WFRA
   controller: WFRA

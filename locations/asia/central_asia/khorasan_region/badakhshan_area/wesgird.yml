@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/1968 - Kulob.txt
 2.1.1:
+  pops: 
+    sogdian-mahayana: 1
   owner: KUSH
   controller: KUSH
   cores:
     KUSH: yes
   resource: wool
-  pops:
-    - religion: mahayana
-      estate: peasant
-      size: 1000
 230.1.1:
   owner: KSAS
   controller: KSAS
@@ -39,9 +37,9 @@
   cores:
     ABBA: yes
 800.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    sogdian-mahayana: 0
+    tajik_culture-mahayana: 1
 819.1.1:
   owner: KOKA
   controller: KOKA
@@ -54,9 +52,9 @@
   cores:
     BUKH: yes
 920.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    tajik_culture-mahayana: 0
+    tajik_culture-sunni: 1
 992.1.1:
   owner: KKHA
   controller: KKHA

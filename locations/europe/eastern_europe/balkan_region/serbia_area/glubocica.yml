@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/3000 - Nis.txt
 2.1.1:
+  pops: 
+    thracian-zamolxism: 1
   owner: ROM
   controller: ROM
   cores:
     ROM: yes
   resource: livestock
-  pops:
-    - religion: zamolxism
-      estate: peasant
-      size: 1000
 395.1.17:
   owner: BYZ
   controller: BYZ
@@ -16,34 +14,34 @@
     ROM: no
     BYZ: yes
 700.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    thracian-zamolxism: 0
+    thracian-chalcedonism: 1
 842.1.1:
+  pops: 
+    thracian-chalcedonism: 0
+    bulgarian-chalcedonism: 1
   owner: BUL
   controller: BUL
   cores:
     BUL: yes
-  pops:
-    - estate: peasant
-      size: 1000
 867.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    bulgarian-chalcedonism: 0
+    bulgarian-orthodox: 1
 1014.1.1:
   owner: BYZ
   controller: BYZ
   cores:
     BUL: no
 1162.1.1:
+  pops: 
+    bulgarian-orthodox: 0
+    serbian-orthodox: 1
   owner: SER
   controller: SER
   cores:
     SER: yes
-  pops:
-    - estate: peasant
-      size: 1000
 1203.1.1:
   owner: BUL
   controller: BUL

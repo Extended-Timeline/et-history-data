@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/1745 - Cantabria.txt
 2.1.1:
+  pops: 
+    cantabrian-druidism: 1
   owner: ROM
   controller: ROM
   cores:
     ROM: yes
   resource: naval_supplies
-  pops:
-    - religion: druidism
-      estate: peasant
-      size: 1000
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -16,9 +14,9 @@
     ROM: no
     ROMW: yes
 420.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    cantabrian-druidism: 0
+    cantabrian-chalcedonism: 1
 455.1.1:
   owner: VASC
   controller: VASC
@@ -43,15 +41,15 @@
     UMAY: no
     ASTU: yes
 850.1.1:
+  pops: 
+    cantabrian-chalcedonism: 0
+    castilian-chalcedonism: 1
   cores:
     VASC: no
-  pops:
-    - estate: peasant
-      size: 1000
 867.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    castilian-chalcedonism: 0
+    castilian-catholic: 1
 924.1.1:
   owner: LON
   controller: LON

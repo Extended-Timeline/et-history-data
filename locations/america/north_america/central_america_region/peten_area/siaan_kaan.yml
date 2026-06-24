@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/842 - Peten.txt
 2.1.1:
+  pops: 
+    putun_culture-mayan: 1
   owner: TIKA
   controller: TIKA
   cores:
     TIKA: yes
   resource: cocoa
-  pops:
-    - religion: mayan
-      estate: peasant
-      size: 1000
 987.1.1:
   owner: MAY
   controller: MAY
@@ -22,11 +20,11 @@
     MAY: no
     ITZ: yes
 1700.1.1:
+  pops: 
+    putun_culture-mayan: 0
+    putun_culture-catholic: 1
   owner: SPA
   controller: SPA
-  pops:
-    - estate: peasant
-      size: 1000
 1725.1.1:
   cores:
     SPA: yes
@@ -51,10 +49,7 @@
     UPCA: no
     SPA: no
 1880.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    putun_culture-catholic: 0
+    putun_culture-lutheran: 1
 1983.1.1:
-  pops:
-    - estate: peasant
-      size: 1000

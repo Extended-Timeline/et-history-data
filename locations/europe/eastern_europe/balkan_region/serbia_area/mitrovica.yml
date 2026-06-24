@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/1766 - Kosovo.txt
 2.1.1:
+  pops: 
+    thracian-zamolxism: 1
   owner: ROM
   controller: ROM
   cores:
     ROM: yes
   resource: gold
-  pops:
-    - religion: zamolxism
-      estate: peasant
-      size: 1000
 395.1.17:
   owner: BYZ
   controller: BYZ
@@ -16,21 +14,20 @@
     ROM: no
     BYZ: yes
 610.1.1:
+  pops: 
+    thracian-zamolxism: 0
+    serbian-slavic: 1
   cores:
     SER: yes
-  pops:
-    - religion: slavic_polytheism
-      estate: peasant
-      size: 1000
 630.1.1:
   owner: SER
   controller: SER
   cores:
     BYZ: no
 700.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    serbian-slavic: 0
+    serbian-chalcedonism: 1
 842.1.1:
   owner: BUL
   controller: BUL
@@ -38,9 +35,9 @@
     BYZ: no
     BUL: yes
 867.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    serbian-chalcedonism: 0
+    serbian-orthodox: 1
 930.1.1:
   owner: SER
   controller: SER
@@ -94,17 +91,17 @@
 1817.1.1:
   controller: TUR
 1830.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    serbian-orthodox: 0
+    serbian-sunni: 1
 1877.12.24:
   controller: SER
 1878.3.3:
   controller: TUR
 1890.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    serbian-sunni: 0
+    albanian-sunni: 1
 1913.5.30:
   owner: SER
   controller: SER

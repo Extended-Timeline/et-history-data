@@ -1,27 +1,25 @@
 #imported from EU4 file: history/provinces/1229 - Berber.txt
 2.1.1:
+  pops: 
+    beja_culture-egyptian: 1
   owner: MERO
   controller: MERO
   cores:
     MERO: yes
   resource: livestock
-  pops:
-    - religion: egyptian_polytheism
-      estate: peasant
-      size: 1000
 350.1.1:
+  pops: 
+    beja_culture-egyptian: 0
+    beja_culture-chalcedonism: 1
   owner: MAK
   controller: MAK
   cores:
     MERO: no
     MAK: yes
-  pops:
-    - estate: peasant
-      size: 1000
 451.11.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    beja_culture-chalcedonism: 0
+    beja_culture-miaphysite: 1
 1276.1.1:
   owner: ABW
   controller: ABW
@@ -29,9 +27,9 @@
     MAK: no
     ABW: yes
 1480.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    beja_culture-miaphysite: 0
+    beja_culture-sunni: 1
 1503.1.1:
   owner: FUNJ
   controller: FUNJ

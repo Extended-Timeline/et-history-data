@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/2312 - Wasit.txt
 2.1.1:
+  pops: 
+    iraqi_culture-zoroastrian: 1
   owner: CHRC
   controller: CHRC
   cores:
     CHRC: yes
   resource: grain
-  pops:
-    - religion: zoroastrian
-      estate: peasant
-      size: 1000
 164.1.1:
   controller: ROM
 166.1.1:
@@ -19,23 +17,23 @@
   cores:
     ERA: yes
 637.1.1:
+  pops: 
+    iraqi_culture-zoroastrian: 0
+    iraqi_culture-islam: 1
   owner: RASH
   controller: RASH
   cores:
     ERA: no
     RASH: yes
-  pops:
-    - estate: peasant
-      size: 1000
 661.7.28:
+  pops: 
+    iraqi_culture-islam: 0
+    iraqi_culture-sunni: 1
   owner: UMAY
   controller: UMAY
   cores:
     RASH: no
     UMAY: yes
-  pops:
-    - estate: peasant
-      size: 1000
 750.8.6:
   owner: ABBA
   controller: ABBA
@@ -93,9 +91,9 @@
     MGE: no
     ILK: yes
 1300.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    iraqi_culture-sunni: 0
+    iraqi_culture-shia: 1
 1335.1.1:
   owner: JAL
   controller: JAL

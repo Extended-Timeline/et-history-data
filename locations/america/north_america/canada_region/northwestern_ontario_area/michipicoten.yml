@@ -1,9 +1,7 @@
 #imported from EU4 file: history/provinces/2015 - Nipigon.txt
 2.1.1:
-  pops:
-    - religion: iroquoian_totemism
-      estate: peasant
-      size: 1000
+  pops: 
+    ojibwe_culture-iroquoian_totemism: 1
 1684.1.1:
   owner: FRA
   controller: FRA
@@ -11,23 +9,22 @@
     FRA: yes
   resource: fur
 1700.1.1:
-  pops:
-    - religion: catholic
-      estate: peasant
-      size: 1000
+  pops: 
+    ojibwe_culture-iroquoian_totemism: 0
+    french-catholic: 1
 1763.2.10:
+  pops: 
+    french-catholic: 0
+    english-catholic: 1
   owner: GBR
   controller: GBR
   cores:
     FRA: no
     GBR: yes
-  pops:
-    - estate: peasant
-      size: 1000
 1790.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    english-catholic: 0
+    british_canadian-catholic: 1
 1850.1.1:
   resource: paper
 1867.7.1:

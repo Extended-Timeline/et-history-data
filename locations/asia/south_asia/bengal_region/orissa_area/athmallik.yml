@@ -1,15 +1,13 @@
 #imported from EU4 file: history/provinces/4451 - Sonpur.txt
 2.1.1:
+  pops: 
+    garjati-hindu: 1
   owner: KALI
   controller: KALI
   cores:
     KALI: yes
     DAKS: yes
   resource: naval_supplies
-  pops:
-    - religion: hindu
-      estate: peasant
-      size: 1000
 120.1.1:
   owner: DAKS
   controller: DAKS

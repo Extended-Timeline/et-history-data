@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/4385 - Cotentin.txt
 2.1.1:
+  pops: 
+    gallian-druidism: 1
   owner: ROM
   controller: ROM
   cores:
     ROM: yes
   resource: naval_supplies
-  pops:
-    - religion: druidism
-      estate: peasant
-      size: 1000
 260.1.1:
   cores:
     GALL: yes
@@ -23,9 +21,9 @@
     ROM: no
     ROMW: yes
 440.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    gallian-druidism: 0
+    gallian-chalcedonism: 1
 461.11.1:
   owner: SOIS
   controller: SOIS
@@ -35,14 +33,14 @@
   cores:
     ROMW: no
 486.6.1:
+  pops: 
+    gallian-chalcedonism: 0
+    french-chalcedonism: 1
   owner: FRAN
   controller: FRAN
   cores:
     SOIS: no
     FRAN: yes
-  pops:
-    - estate: peasant
-      size: 1000
 511.11.27:
   owner: NEUS
   controller: NEUS
@@ -74,20 +72,20 @@
     FRAN: no
     WFRA: yes
 867.1.1:
+  pops: 
+    french-chalcedonism: 0
+    french-catholic: 1
   owner: BRI
   controller: BRI
   cores:
     WFRA: no
     BRI: yes
-  pops:
-    - estate: peasant
-      size: 1000
 911.1.1:
+  pops: 
+    french-catholic: 0
+    norman-catholic: 1
   cores:
     NRM: yes
-  pops:
-    - estate: peasant
-      size: 1000
 933.1.1:
   owner: NRM
   controller: NRM

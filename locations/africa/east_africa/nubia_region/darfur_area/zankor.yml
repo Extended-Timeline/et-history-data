@@ -1,9 +1,7 @@
 #imported from EU4 file: history/provinces/2802 - Kobbe.txt
 2.1.1:
-  pops:
-    - religion: bantu_religion
-      estate: peasant
-      size: 1000
+  pops: 
+    fur_culture-bantu_religion: 1
 1596.1.1:
   owner: DARF
   controller: DARF
@@ -11,9 +9,9 @@
     DARF: yes
   resource: grain
 1682.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    fur_culture-bantu_religion: 0
+    fur_culture-sunni: 1
 1874.1.1:
   owner: EGY
   controller: EGY

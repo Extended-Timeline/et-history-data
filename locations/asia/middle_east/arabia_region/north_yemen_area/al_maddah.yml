@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/386 - Asir.txt
 2.1.1:
+  pops: 
+    hijazi_culture-south_arabian: 1
   owner: MINA
   controller: MINA
   cores:
     MINA: yes
   resource: coffee
-  pops:
-    - religion: south_arabian_polytheism
-      estate: peasant
-      size: 1000
 250.1.1:
   owner: HIMY
   controller: HIMY
@@ -27,9 +25,9 @@
     AKSM: no
     HIMY: yes
 450.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    hijazi_culture-south_arabian: 0
+    hijazi_culture-judaism: 1
 525.1.1:
   owner: AKSM
   controller: AKSM
@@ -49,22 +47,22 @@
     YEM: no
     NAJR: yes
 628.1.1:
+  pops: 
+    hijazi_culture-judaism: 0
+    hijazi_culture-islam: 1
   owner: RASH
   controller: RASH
   cores:
     RASH: yes
-  pops:
-    - estate: peasant
-      size: 1000
 661.7.28:
+  pops: 
+    hijazi_culture-islam: 0
+    hijazi_culture-sunni: 1
   owner: UMAY
   controller: UMAY
   cores:
     RASH: no
     UMAY: yes
-  pops:
-    - estate: peasant
-      size: 1000
 750.8.6:
   owner: ABBA
   controller: ABBA
@@ -72,9 +70,9 @@
     UMAY: no
     ABBA: yes
 755.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    hijazi_culture-sunni: 0
+    hijazi_culture-shia: 1
 868.9.15:
   owner: EGY
   controller: EGY
@@ -150,9 +148,9 @@
     EGY: no
     TUR: yes
 1860.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    hijazi_culture-shia: 0
+    hijazi_culture-sunni: 1
 1906.1.1:
   owner: ASIR
   controller: ASIR

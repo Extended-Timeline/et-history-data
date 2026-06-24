@@ -1,17 +1,14 @@
 #imported from EU4 file: history/provinces/968 - Massachusetts.txt
 2.1.1:
-  pops:
-    - religion: iroquoian_totemism
-      estate: peasant
-      size: 1000
+  pops: 
+    massachusett_culture-iroquoian_totemism: 1
 1623.1.1:
+  pops: 
+    massachusett_culture-iroquoian_totemism: 0
+    english-calvinist: 1
   owner: ENG
   controller: ENG
   resource: fish
-  pops:
-    - religion: calvinist
-      estate: peasant
-      size: 1000
 1645.1.1:
   cores:
     ENG: yes
@@ -22,9 +19,9 @@
     ENG: no
     GBR: yes
 1764.7.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    english-calvinist: 0
+    american-calvinist: 1
 1776.7.4:
   owner: USA
   controller: USA
@@ -34,8 +31,8 @@
   cores:
     GBR: no
 1920.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    american-calvinist: 0
+    american-catholic: 1
 1970.1.1:
   resource: electronics

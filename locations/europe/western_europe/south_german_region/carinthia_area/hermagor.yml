@@ -1,18 +1,16 @@
 #imported from EU4 file: history/provinces/4759 - Oberkarnten.txt
 2.1.1:
+  pops: 
+    noric-druidism: 1
   owner: ROM
   controller: ROM
   cores:
     ROM: yes
   resource: iron
-  pops:
-    - religion: druidism
-      estate: peasant
-      size: 1000
 340.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    noric-druidism: 0
+    noric-chalcedonism: 1
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -20,9 +18,9 @@
     ROM: no
     ROMW: yes
 420.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    noric-chalcedonism: 0
+    danube_bavarian-chalcedonism: 1
 476.9.4:
   owner: ITA
   controller: ITA
@@ -32,44 +30,44 @@
   cores:
     ROMW: no
 489.1.1:
+  pops: 
+    danube_bavarian-chalcedonism: 0
+    gothic-chalcedonism: 1
   owner: OSTR
   controller: OSTR
   cores:
     ITA: no
     OSTR: yes
-  pops:
-    - estate: peasant
-      size: 1000
 500.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    gothic-chalcedonism: 0
+    gothic-arianism: 1
 553.1.1:
+  pops: 
+    gothic-arianism: 0
+    langobardi-arianism: 1
   owner: LOMB
   controller: LOMB
   cores:
     OSTR: no
     LOMB: yes
-  pops:
-    - estate: peasant
-      size: 1000
 568.6.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    langobardi-arianism: 0
+    lombard-arianism: 1
 591.1.1:
+  pops: 
+    lombard-arianism: 0
+    slovene-arianism: 1
   owner: AVR
   controller: AVR
   cores:
     LOMB: no
     AVR: yes
-  pops:
-    - estate: peasant
-      size: 1000
 595.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    slovene-arianism: 0
+    slovene-chalcedonism: 1
 623.1.1:
   owner: SAMO
   controller: SAMO
@@ -83,18 +81,15 @@
     SAMO: no
     CRH: yes
 745.1.1:
+  pops: 
+    slovene-chalcedonism: 0
+    danube_bavarian-chalcedonism: 1
   owner: BAV
   controller: BAV
   cores:
     CRH: no
     BAV: yes
-  pops:
-    - estate: peasant
-      size: 1000
 750.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
 788.1.1:
   owner: FRAN
   controller: FRAN
@@ -108,9 +103,9 @@
     FRAN: no
     BAV: yes
 867.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    danube_bavarian-chalcedonism: 0
+    danube_bavarian-catholic: 1
 880.3.22:
   owner: EFRA
   controller: EFRA

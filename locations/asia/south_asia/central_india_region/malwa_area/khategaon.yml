@@ -1,15 +1,13 @@
 #imported from EU4 file: history/provinces/526 - Mandu.txt
 2.1.1:
+  pops: 
+    malvi-jain: 1
   owner: WSAT
   controller: WSAT
   cores:
     WSAT: yes
     MLW: yes
   resource: dyes
-  pops:
-    - religion: jain
-      estate: peasant
-      size: 1000
 405.1.1:
   owner: GUPT
   controller: GUPT
@@ -28,9 +26,9 @@
   cores:
     GUJ: yes
 620.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    malvi-jain: 0
+    malvi-hindu: 1
 745.1.1:
   owner: GURJ
   controller: GURJ

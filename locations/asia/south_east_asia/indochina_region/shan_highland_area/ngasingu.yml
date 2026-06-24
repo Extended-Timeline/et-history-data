@@ -1,18 +1,16 @@
 #imported from EU4 file: history/provinces/584 - Kyuakse.txt
 2.1.1:
+  pops: 
+    pyu-theravada: 1
   owner: MAIN
   controller: MAIN
   cores:
     MAIN: yes
   resource: gems
-  pops:
-    - religion: theravada
-      estate: peasant
-      size: 1000
 849.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    pyu-theravada: 0
+    burmese_culture-theravada: 1
 1050.1.1:
   owner: PAGA
   controller: PAGA

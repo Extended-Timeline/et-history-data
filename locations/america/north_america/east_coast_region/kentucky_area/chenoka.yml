@@ -1,23 +1,20 @@
 #imported from EU4 file: history/provinces/941 - Cumberland.txt
 2.1.1:
+  pops: 
+    tsoyaha_culture-iroquoian_totemism: 1
   owner: CHIS
   controller: CHIS
   cores:
     CHIS: yes
   resource: fur
-  pops:
-    - religion: iroquoian_totemism
-      estate: peasant
-      size: 1000
 1774.10.19:
+  pops: 
+    tsoyaha_culture-iroquoian_totemism: 0
+    british_louisianan-lutheran: 1
   owner: GBR
   controller: GBR
   cores:
     GBR: yes
-  pops:
-    - religion: lutheran
-      estate: peasant
-      size: 1000
 1776.7.4:
   owner: USA
   controller: USA

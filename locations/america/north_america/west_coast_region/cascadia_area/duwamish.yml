@@ -1,18 +1,15 @@
 #imported from EU4 file: history/provinces/874 - Salish.txt
 2.1.1:
+  pops: 
+    saleesh_culture-iroquoian_totemism: 1
   cores:
     ???: yes
   resource: fur
-  pops:
-    - religion: iroquoian_totemism
-      estate: peasant
-      size: 1000
 1851.9.25:
+  pops: 
+    saleesh_culture-iroquoian_totemism: 0
+    british_californian-lutheran: 1
   owner: USA
   controller: USA
   cores:
     USA: yes
-  pops:
-    - religion: lutheran
-      estate: peasant
-      size: 1000

@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/4519 - Damxung.txt
 2.1.1:
+  pops: 
+    utsang_culture-bon: 1
   owner: SUMP
   controller: SUMP
   cores:
     SUMP: yes
   resource: wool
-  pops:
-    - religion: bon
-      estate: peasant
-      size: 1000
 600.1.1:
   owner: YARL
   controller: YARL
@@ -27,9 +25,9 @@
     TIB: no
     PHAG: yes
 980.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    utsang_culture-bon: 0
+    utsang_culture-tibetan_buddhism: 1
 1240.1.1:
   owner: TIB
   controller: TIB

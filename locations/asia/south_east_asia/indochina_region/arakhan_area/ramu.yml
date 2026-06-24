@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/568 - Chittagong.txt
 2.1.1:
+  pops: 
+    bengali-mahayana: 1
   owner: SAMT
   controller: SAMT
   cores:
     ARK: yes
   resource: cotton
-  pops:
-    - religion: mahayana
-      estate: peasant
-      size: 1000
 670.1.1:
   owner: ARK
   controller: ARK
@@ -21,9 +19,9 @@
   cores:
     SAMT: yes
 1180.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    bengali-mahayana: 0
+    bengali-hindu: 1
 1300.1.1:
   owner: ARK
   controller: ARK
@@ -60,9 +58,9 @@
   cores:
     GBR: yes
 1800.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    bengali-hindu: 0
+    bengali-sunni: 1
 1930.12.29:
   cores:
     BNG: no

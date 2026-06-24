@@ -1,23 +1,21 @@
 #imported from EU4 file: history/provinces/53 - Luneburg.txt
 2.1.1:
+  pops: 
+    langobardi-germanic: 1
   owner: LOMB
   controller: LOMB
   cores:
     LOMB: yes
   resource: salt
-  pops:
-    - religion: germanic_polytheism
-      estate: peasant
-      size: 1000
 300.1.1:
+  pops: 
+    langobardi-germanic: 0
+    saxon-germanic: 1
   owner: SAX
   controller: SAX
   cores:
     LOMB: no
     SAX: yes
-  pops:
-    - estate: peasant
-      size: 1000
 804.1.1:
   owner: FRAN
   controller: FRAN
@@ -30,18 +28,18 @@
     FRAN: no
     EFRA: yes
 900.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    saxon-germanic: 0
+    saxon-catholic: 1
 911.11.10:
   owner: SAX
   controller: SAX
   cores:
     EFRA: no
 1100.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    saxon-catholic: 0
+    lower_saxon-catholic: 1
 1180.1.1:
   owner: BRU
   controller: BRU
@@ -55,9 +53,9 @@
     BRU: no
     LUN: yes
 1529.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    lower_saxon-catholic: 0
+    lower_saxon-lutheran: 1
 1705.8.28:
   owner: HAN
   controller: HAN
@@ -99,6 +97,3 @@
   cores:
     WGER: no
 2020.1.1:
-  pops:
-    - estate: peasant
-      size: 1000

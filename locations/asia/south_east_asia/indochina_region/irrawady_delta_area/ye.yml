@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/2403 - Martaban.txt
 2.1.1:
+  pops: 
+    mon_culture-mahayana: 1
   owner: THAT
   controller: THAT
   cores:
     THAT: yes
   resource: chinaware
-  pops:
-    - religion: mahayana
-      estate: peasant
-      size: 1000
 1057.5.17:
   owner: PAGA
   controller: PAGA
@@ -16,9 +14,9 @@
     THAT: no
     PAGA: yes
 1120.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    mon_culture-mahayana: 0
+    mon_culture-theravada: 1
 1287.4.4:
   owner: PEG
   cores:

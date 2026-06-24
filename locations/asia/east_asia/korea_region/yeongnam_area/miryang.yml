@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/2745 - Gyeongsang.txt
 2.1.1:
+  pops: 
+    korean_culture-muism: 1
   owner: JINH
   controller: JINH
   cores:
     JINH: yes
   resource: tea
-  pops:
-    - religion: muism
-      estate: peasant
-      size: 1000
 120.1.1:
   owner: SILL
   controller: SILL
@@ -16,9 +14,9 @@
     JINH: no
     SILL: yes
 530.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    korean_culture-muism: 0
+    korean_culture-mahayana: 1
 935.1.1:
   owner: GORY
   controller: GORY
@@ -26,14 +24,14 @@
     SILL: no
     GORY: yes
 1392.7.12:
+  pops: 
+    korean_culture-mahayana: 0
+    korean_culture-sanjiao: 1
   owner: KOR
   controller: KOR
   cores:
     GORY: no
     KOR: yes
-  pops:
-    - estate: peasant
-      size: 1000
 1592.5.25:
   controller: TOYO
 1598.12.24:
@@ -73,6 +71,3 @@
 1950.1.1:
   resource: cars
 1960.1.1:
-  pops:
-    - estate: peasant
-      size: 1000

@@ -1,22 +1,19 @@
 #imported from EU4 file: history/provinces/2553 - Potomac.txt
 2.1.1:
-  pops:
-    - religion: iroquoian_totemism
-      estate: peasant
-      size: 1000
+  pops: 
+    carantouan_culture-iroquoian_totemism: 1
 1739.1.1:
+  pops: 
+    carantouan_culture-iroquoian_totemism: 0
+    english-lutheran: 1
   owner: GBR
   controller: GBR
   cores:
     GBR: yes
-  pops:
-    - religion: lutheran
-      estate: peasant
-      size: 1000
 1764.7.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    english-lutheran: 0
+    american-lutheran: 1
 1776.7.4:
   owner: USA
   controller: USA

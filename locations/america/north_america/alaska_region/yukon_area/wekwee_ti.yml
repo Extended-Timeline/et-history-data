@@ -1,17 +1,15 @@
 #imported from EU4 file: history/provinces/1812 - Northwest Terretories.txt
 2.1.1:
-  pops:
-    - religion: iroquoian_totemism
-      estate: peasant
-      size: 1000
+  pops: 
+    denesoline_culture-iroquoian_totemism: 1
 1930.1.1:
+  pops: 
+    denesoline_culture-iroquoian_totemism: 0
+    denesoline_culture-catholic: 1
   owner: CAN
   controller: CAN
   cores:
     CAN: yes
   resource: fur
-  pops:
-    - estate: peasant
-      size: 1000
 1968.1.1:
   resource: uranium

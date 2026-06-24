@@ -1,27 +1,24 @@
 #imported from EU4 file: history/provinces/913 - Fox.txt
 2.1.1:
+  pops: 
+    baxoje_culture-iroquoian_totemism: 1
   cores:
     ???: yes
   resource: fur
-  pops:
-    - religion: iroquoian_totemism
-      estate: peasant
-      size: 1000
 1650.1.1:
+  pops: 
+    baxoje_culture-iroquoian_totemism: 0
+    meskwaki_culture-iroquoian_totemism: 1
   owner: MSK
   controller: MSK
   cores:
     MSK: yes
-  pops:
-    - estate: peasant
-      size: 1000
 1813.10.5:
+  pops: 
+    meskwaki_culture-iroquoian_totemism: 0
+    american-lutheran: 1
   owner: USA
   controller: USA
   cores:
     USA: yes
   resource: iron
-  pops:
-    - religion: lutheran
-      estate: peasant
-      size: 1000

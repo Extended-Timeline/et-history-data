@@ -1,15 +1,13 @@
 #imported from EU4 file: history/provinces/2136 - Baoding.txt
 2.1.1:
+  pops: 
+    khitan-sanjiao: 1
   owner: HAN0
   controller: HAN0
   cores:
     HAN0: yes
     WEI0: yes
   resource: grain
-  pops:
-    - religion: sanjiao
-      estate: peasant
-      size: 1000
 9.1.10:
   owner: XIN0
   controller: XIN0
@@ -97,9 +95,9 @@
   cores:
     TANG: yes
 650.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    khitan-sanjiao: 0
+    yan_culture-sanjiao: 1
 907.6.1:
   owner: YAN0
   controller: YAN0

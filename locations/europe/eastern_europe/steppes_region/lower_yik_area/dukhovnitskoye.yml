@@ -1,9 +1,7 @@
 #imported from EU4 file: history/provinces/2419 - Kanadey.txt
 2.1.1:
-  pops:
-    - religion: 
-      estate: peasant
-      size: 1000
+  pops: 
+    bolghar_culture-: 1
 660.1.1:
   owner: VBUL
   controller: VBUL
@@ -11,18 +9,17 @@
     VBUL: yes
   resource: livestock
 960.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    bolghar_culture-sunni: 1
 1236.1.1:
   owner: MGE
   controller: MGE
   cores:
     MGE: yes
 1250.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    bolghar_culture-sunni: 0
+    kazani-sunni: 1
 1260.1.1:
   owner: WHHO
   controller: WHHO
@@ -57,10 +54,9 @@
     KAZN: no
     RUS: yes
 1641.1.1:
-  pops:
-    - religion: orthodox
-      estate: peasant
-      size: 1000
+  pops: 
+    kazani-sunni: 0
+    muscovite-orthodox: 1
 1671.4.14:
   controller: RUS
 1775.2.1:

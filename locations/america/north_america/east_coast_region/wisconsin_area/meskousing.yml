@@ -1,24 +1,21 @@
 #imported from EU4 file: history/provinces/912 - Sauk.txt
 2.1.1:
-  pops:
-    - religion: iroquoian_totemism
-      estate: peasant
-      size: 1000
+  pops: 
+    baxoje_culture-iroquoian_totemism: 1
 1763.10.9:
+  pops: 
+    baxoje_culture-iroquoian_totemism: 0
+    meskwaki_culture-iroquoian_totemism: 1
   owner: MSK
   controller: MSK
   cores:
     MSK: yes
   resource: fur
-  pops:
-    - estate: peasant
-      size: 1000
 1813.10.5:
+  pops: 
+    meskwaki_culture-iroquoian_totemism: 0
+    american-lutheran: 1
   owner: USA
   controller: USA
   cores:
     USA: yes
-  pops:
-    - religion: lutheran
-      estate: peasant
-      size: 1000

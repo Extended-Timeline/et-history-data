@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/138 - Zeta.txt
 2.1.1:
+  pops: 
+    illyrian-hellenism_religion: 1
   owner: ROM
   controller: ROM
   cores:
     ROM: yes
   resource: livestock
-  pops:
-    - religion: hellenism_religion
-      estate: peasant
-      size: 1000
 395.1.17:
   owner: BYZ
   controller: BYZ
@@ -16,16 +14,15 @@
     ROM: no
     BYZ: yes
 400.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    illyrian-hellenism_religion: 0
+    illyrian-chalcedonism: 1
 610.1.1:
+  pops: 
+    illyrian-chalcedonism: 0
+    serbian-slavic: 1
   cores:
     DUKL: yes
-  pops:
-    - religion: slavic_polytheism
-      estate: peasant
-      size: 1000
 768.1.1:
   owner: SER
   controller: SER
@@ -33,13 +30,13 @@
     BYZ: no
     SER: yes
 860.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    serbian-slavic: 0
+    serbian-chalcedonism: 1
 867.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    serbian-chalcedonism: 0
+    serbian-orthodox: 1
 969.1.1:
   owner: BYZ
   controller: BYZ

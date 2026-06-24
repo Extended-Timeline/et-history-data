@@ -1,59 +1,56 @@
 #imported from EU4 file: history/provinces/153 - Pest.txt
 2.1.1:
+  pops: 
+    pannonian-druidism: 1
   owner: IAZY
   controller: IAZY
   cores:
     IAZY: yes
   resource: grain
-  pops:
-    - religion: druidism
-      estate: peasant
-      size: 1000
 300.1.1:
+  pops: 
+    pannonian-druidism: 0
+    southern_bavarian-germanic: 1
   owner: RUGI
   controller: RUGI
   cores:
     IAZY: no
     RUGI: yes
-  pops:
-    - religion: germanic_polytheism
-      estate: peasant
-      size: 1000
 450.1.1:
+  pops: 
+    southern_bavarian-germanic: 0
+    gepid-germanic: 1
   owner: GEPI
   controller: GEPI
   cores:
     RUGI: no
     GEPI: yes
-  pops:
-    - estate: peasant
-      size: 1000
 480.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    gepid-germanic: 0
+    gepid-arianism: 1
 500.1.1:
+  pops: 
+    gepid-arianism: 0
+    langobardi-arianism: 1
   owner: LOMB
   controller: LOMB
   cores:
     IAZY: no
     LOMB: yes
-  pops:
-    - estate: peasant
-      size: 1000
 567.1.1:
+  pops: 
+    langobardi-arianism: 0
+    avar_culture-arianism: 1
   owner: AVR
   controller: AVR
   cores:
     GEPI: no
     AVR: yes
-  pops:
-    - estate: peasant
-      size: 1000
 570.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    avar_culture-arianism: 0
+    avar_culture-: 1
 804.1.1:
   owner: BUL
   controller: BUL
@@ -67,18 +64,16 @@
     BUL: no
     MVA: yes
 897.1.1:
+  pops: 
+    hungarian-: 1
   owner: HUN
   controller: HUN
   cores:
     MVA: no
     HUN: yes
-  pops:
-    - estate: peasant
-      size: 1000
 1010.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    hungarian-catholic: 1
 1507.1.1:
   controller: HUN
 1515.1.1:

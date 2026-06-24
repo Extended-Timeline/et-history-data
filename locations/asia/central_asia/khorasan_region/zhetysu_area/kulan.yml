@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/459 - Taraz.txt
 2.1.1:
+  pops: 
+    khazak-: 1
   owner: KAGJ
   controller: KAGJ
   cores:
     KAGJ: yes
   resource: cloth
-  pops:
-    - religion: 
-      estate: peasant
-      size: 1000
 260.1.1:
   owner: CHUB
   controller: CHUB
@@ -52,9 +50,8 @@
     BUKH: no
     KKHA: yes
 934.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    khazak-sunni: 1
 1137.1.1:
   owner: KKHI
   controller: KKHI

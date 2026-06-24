@@ -1,9 +1,7 @@
 #imported from EU4 file: history/provinces/656 - Manila.txt
 2.1.1:
-  pops:
-    - religion: bimoism
-      estate: peasant
-      size: 1000
+  pops: 
+    tagalog_culture-bimoism: 1
 900.1.1:
   owner: TDO
   controller: TDO
@@ -17,9 +15,9 @@
     TDO: no
     MNA: yes
 1500.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    tagalog_culture-bimoism: 0
+    tagalog_culture-sunni: 1
 1570.5.1:
   owner: SPA
   controller: SPA
@@ -29,9 +27,9 @@
 1588.1.1:
   controller: SPA
 1599.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    tagalog_culture-sunni: 0
+    tagalog_culture-catholic: 1
 1762.10.6:
   controller: GBR
 1763.2.10:

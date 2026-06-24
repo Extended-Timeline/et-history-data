@@ -1,24 +1,21 @@
 #imported from EU4 file: history/provinces/566 - Assam.txt
 2.1.1:
+  pops: 
+    dimasa_culture-bimoism: 1
   owner: DAVA
   controller: DAVA
   cores:
     DAVA: yes
   resource: grain
-  pops:
-    - religion: bimoism
-      estate: peasant
-      size: 1000
 400.1.1:
   owner: KAMA
   controller: KAMA
   cores:
     KAMA: yes
 500.1.1:
-  pops:
-    - religion: hindu
-      estate: peasant
-      size: 1000
+  pops: 
+    dimasa_culture-bimoism: 0
+    kamarupi-hindu: 1
 1100.1.1:
   owner: KACH
   controller: KACH

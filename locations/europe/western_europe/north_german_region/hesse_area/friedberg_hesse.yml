@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/81 - Hessen.txt
 2.1.1:
+  pops: 
+    rhine_franconian-germanic: 1
   owner: CHTT
   controller: CHTT
   cores:
     CHTT: yes
   resource: wool
-  pops:
-    - religion: germanic_polytheism
-      estate: peasant
-      size: 1000
 481.1.1:
   owner: FRAN
   controller: FRAN
@@ -34,9 +32,9 @@
   owner: ASTS
   controller: ASTS
 600.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    rhine_franconian-germanic: 0
+    rhine_franconian-chalcedonism: 1
 613.10.10:
   owner: FRAN
   controller: FRAN
@@ -61,9 +59,9 @@
     FRAN: no
     EFRA: yes
 867.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    rhine_franconian-chalcedonism: 0
+    rhine_franconian-catholic: 1
 911.11.10:
   owner: FKN
   controller: FKN
@@ -83,9 +81,9 @@
   cores:
     THU: no
 1536.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    rhine_franconian-catholic: 0
+    rhine_franconian-lutheran: 1
 1807.7.9:
   owner: WES
   controller: WES

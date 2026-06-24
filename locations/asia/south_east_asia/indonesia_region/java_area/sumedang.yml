@@ -1,9 +1,7 @@
 #imported from EU4 file: history/provinces/2688 - Cirebon.txt
 2.1.1:
-  pops:
-    - religion: hindu
-      estate: peasant
-      size: 1000
+  pops: 
+    sundanese_culture-hindu: 1
 130.1.1:
   owner: SALA
   controller: SALA
@@ -39,14 +37,14 @@
   cores:
     SUN: yes
 1482.1.1:
+  pops: 
+    sundanese_culture-hindu: 0
+    sundanese_culture-sunni: 1
   owner: CIRE
   controller: CIRE
   cores:
     SUN: no
     CIRE: yes
-  pops:
-    - estate: peasant
-      size: 1000
 1807.1.1:
   owner: NED
   controller: NED

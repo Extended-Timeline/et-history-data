@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/2397 - Tamanthi.txt
 2.1.1:
+  pops: 
+    burmese_culture-sanamahism: 1
   owner: PONG
   controller: PONG
   cores:
     PONG: yes
   resource: tea
-  pops:
-    - religion: sanamahism
-      estate: peasant
-      size: 1000
 1050.1.1:
   owner: PAGA
   controller: PAGA
@@ -16,9 +14,9 @@
     PONG: no
     PAGA: yes
 1150.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    burmese_culture-sanamahism: 0
+    tai_lu_culture-sanamahism: 1
 1215.1.1:
   owner: MYA
   controller: MYA
@@ -32,9 +30,9 @@
     MYA: no
     SHA: yes
 1520.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    tai_lu_culture-sanamahism: 0
+    tai_lu_culture-theravada: 1
 1604.1.1:
   owner: TNG
   controller: TNG

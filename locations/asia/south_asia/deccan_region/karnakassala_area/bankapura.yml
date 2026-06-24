@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/2033 - Savanaur.txt
 2.1.1:
+  pops: 
+    kannadiga-jain: 1
   owner: PUZH
   controller: PUZH
   cores:
     PUZH: yes
   resource: cotton
-  pops:
-    - religion: jain
-      estate: peasant
-      size: 1000
 280.1.1:
   owner: PALL
   controller: PALL
@@ -46,9 +44,9 @@
     CHAL: no
     HSL: yes
 1220.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    kannadiga-jain: 0
+    kannadiga-hindu: 1
 1325.1.1:
   owner: DLH
   controller: DLH

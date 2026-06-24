@@ -1,9 +1,7 @@
 #imported from EU4 file: history/provinces/1249 - Yola.txt
 2.1.1:
-  pops:
-    - religion: bantu_religion
-      estate: peasant
-      size: 1000
+  pops: 
+    jukun-bantu_religion: 1
 1807.1.1:
   owner: SOKO
   controller: SOKO
@@ -16,9 +14,9 @@
   cores:
     GER: yes
 1910.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    jukun-bantu_religion: 0
+    jukun-catholic: 1
 1919.6.28:
   owner: GBR
   controller: GBR

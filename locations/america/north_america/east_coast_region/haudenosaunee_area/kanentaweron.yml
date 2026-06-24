@@ -1,49 +1,43 @@
 #imported from EU4 file: history/provinces/4872 - Wenrohonon.txt
 2.1.1:
+  pops: 
+    tionontate_culture-iroquoian_totemism: 1
   owner: WRO
   controller: WRO
   cores:
     WRO: yes
   resource: fur
-  pops:
-    - religion: iroquoian_totemism
-      estate: peasant
-      size: 1000
 1726.1.1:
+  pops: 
+    tionontate_culture-iroquoian_totemism: 0
+    french-catholic: 1
   owner: FRA
   controller: FRA
   cores:
     FRA: yes
-  pops:
-    - religion: catholic
-      estate: peasant
-      size: 1000
 1763.2.10:
+  pops: 
+    french-catholic: 0
+    english-lutheran: 1
   owner: GBR
   controller: GBR
   cores:
     FRA: no
     GBR: yes
-  pops:
-    - religion: lutheran
-      estate: peasant
-      size: 1000
 1763.10.9:
+  pops: 
+    english-lutheran: 0
+    onondowaga_culture-iroquoian_totemism: 1
   owner: WRO
   controller: WRO
   cores:
     GBR: no
     WRO: yes
-  pops:
-    - religion: iroquoian_totemism
-      estate: peasant
-      size: 1000
 1784.10.22:
+  pops: 
+    onondowaga_culture-iroquoian_totemism: 0
+    american-lutheran: 1
   owner: USA
   controller: USA
   cores:
     USA: yes
-  pops:
-    - religion: lutheran
-      estate: peasant
-      size: 1000

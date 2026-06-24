@@ -1,15 +1,13 @@
 #imported from EU4 file: history/provinces/2068 - Siwi.txt
 2.1.1:
+  pops: 
+    baloch_culture-hindu: 1
   owner: IPAR
   controller: IPAR
   cores:
     IPAR: yes
     BALU: yes
   resource: wool
-  pops:
-    - religion: hindu
-      estate: peasant
-      size: 1000
 46.1.1:
   owner: BALU
   controller: BALU
@@ -52,9 +50,9 @@
     UMAY: no
     ABBA: yes
 800.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    baloch_culture-hindu: 0
+    baloch_culture-sunni: 1
 841.1.1:
   owner: SND
   controller: SND

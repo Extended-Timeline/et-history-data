@@ -1,15 +1,13 @@
 #imported from EU4 file: history/provinces/442 - Bukhara.txt
 2.1.1:
+  pops: 
+    khwarezmian-zoroastrian: 1
   owner: BUKH
   controller: BUKH
   cores:
     BUKH: yes
     KHWA: yes
   resource: salt
-  pops:
-    - religion: zoroastrian
-      estate: peasant
-      size: 1000
 80.1.1:
   owner: KUSH
   controller: KUSH
@@ -73,10 +71,9 @@
     KHWA: no
     BUKH: yes
 910.1.1:
-  pops:
-    - religion: sunni
-      estate: peasant
-      size: 1000
+  pops: 
+    khwarezmian-zoroastrian: 0
+    uzbek_culture-sunni: 1
 999.1.1:
   owner: TRAN
   controller: TRAN

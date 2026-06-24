@@ -1,23 +1,21 @@
 #imported from EU4 file: history/provinces/2132 - Markam.txt
 2.1.1:
+  pops: 
+    khampa_culture-bon: 1
   owner: BATH
   controller: BATH
   cores:
     BATH: yes
   resource: livestock
-  pops:
-    - religion: bon
-      estate: peasant
-      size: 1000
 618.1.1:
   owner: TIB
   controller: TIB
   cores:
     TIB: yes
 630.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    khampa_culture-bon: 0
+    khampa_culture-tibetan_buddhism: 1
 842.1.1:
   owner: BATH
   controller: BATH

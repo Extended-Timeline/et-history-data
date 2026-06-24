@@ -1,9 +1,7 @@
 #imported from EU4 file: history/provinces/4124 - Karelia.txt
 2.1.1:
-  pops:
-    - religion: muinaisusko
-      estate: peasant
-      size: 1000
+  pops: 
+    karelian-muinaisusko: 1
 750.1.1:
   owner: KAKI
   controller: KAKI
@@ -11,14 +9,14 @@
     KAKI: yes
   resource: fur
 1250.1.1:
+  pops: 
+    karelian-muinaisusko: 0
+    karelian-orthodox: 1
   owner: NOV
   controller: NOV
   cores:
     KAKI: no
     NOV: yes
-  pops:
-    - estate: peasant
-      size: 1000
 1478.1.15:
   owner: MOS
   controller: MOS
@@ -50,12 +48,11 @@
     RUS: no
     SWE: yes
 1640.1.1:
+  pops: 
+    karelian-orthodox: 0
+    finnish-lutheran: 1
   cores:
     FIN: yes
-  pops:
-    - religion: lutheran
-      estate: peasant
-      size: 1000
 1710.9.8:
   controller: RUS
 1721.8.30:

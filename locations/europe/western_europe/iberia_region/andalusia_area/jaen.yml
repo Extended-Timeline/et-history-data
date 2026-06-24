@@ -1,18 +1,16 @@
 #imported from EU4 file: history/provinces/1748 - La Mancha.txt
 2.1.1:
+  pops: 
+    iberi-bimoism: 1
   owner: ROM
   controller: ROM
   cores:
     ROM: yes
   resource: livestock
-  pops:
-    - religion: bimoism
-      estate: peasant
-      size: 1000
 340.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    iberi-bimoism: 0
+    iberi-chalcedonism: 1
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -61,13 +59,13 @@
     UMAY: no
     CRDB: yes
 800.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    iberi-chalcedonism: 0
+    andalusi-chalcedonism: 1
 820.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    andalusi-chalcedonism: 0
+    andalusi-sunni: 1
 1013.1.1:
   owner: GRA
   controller: GRA
@@ -99,9 +97,9 @@
     GRA: no
     CAS: yes
 1300.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    andalusi-sunni: 0
+    andalusi-catholic: 1
 1516.1.23:
   owner: SPA
   controller: SPA
@@ -110,9 +108,9 @@
 1522.2.3:
   controller: SPA
 1570.10.28:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    andalusi-catholic: 0
+    castilian-catholic: 1
 1713.4.11:
   cores:
     CAS: no

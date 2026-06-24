@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/246 - Northumberland.txt
 2.1.1:
+  pops: 
+    briton-druidism: 1
   owner: BRIG
   controller: BRIG
   cores:
     BRIG: yes
   resource: wool
-  pops:
-    - religion: druidism
-      estate: peasant
-      size: 1000
 78.1.1:
   owner: ROM
   controller: ROM
@@ -25,24 +23,23 @@
     ROM: no
     ROMW: yes
 410.1.1:
+  pops: 
+    briton-druidism: 0
+    welsh-druidism: 1
   owner: BERN
   controller: BERN
   cores:
     ROMW: no
     BRIG: no
     BERN: yes
-  pops:
-    - estate: peasant
-      size: 1000
 547.1.1:
-  pops:
-    - religion: germanic_polytheism
-      estate: peasant
-      size: 1000
+  pops: 
+    welsh-druidism: 0
+    anglo_saxon-germanic: 1
 630.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    anglo_saxon-germanic: 0
+    anglo_saxon-chalcedonism: 1
 634.1.1:
   owner: NOL
   controller: NOL
@@ -50,9 +47,9 @@
     BERN: no
     NOL: yes
 867.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    anglo_saxon-chalcedonism: 0
+    anglo_saxon-catholic: 1
 875.1.1:
   owner: BERN
   controller: BERN
@@ -88,15 +85,15 @@
   owner: ENG
   controller: ENG
 1066.12.25:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    anglo_saxon-catholic: 0
+    english-catholic: 1
 1464.6.1:
   controller: ENG
 1585.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    english-catholic: 0
+    english-lutheran: 1
 1640.10.1:
   controller: SCO
 1640.10.26:

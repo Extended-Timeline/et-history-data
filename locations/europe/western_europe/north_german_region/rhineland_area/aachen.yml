@@ -1,31 +1,29 @@
 #imported from EU4 file: history/provinces/1878 - Aachen.txt
 2.1.1:
+  pops: 
+    frankish-germanic: 1
   owner: ROM
   controller: ROM
   cores:
     ROM: yes
   resource: grain
-  pops:
-    - religion: germanic_polytheism
-      estate: peasant
-      size: 1000
 260.1.1:
+  pops: 
+    frankish-germanic: 0
+    gallian-germanic: 1
   cores:
     GALL: yes
-  pops:
-    - estate: peasant
-      size: 1000
 274.1.1:
+  pops: 
+    gallian-germanic: 0
+    frankish-germanic: 1
   controller: ROM
   cores:
     GALL: no
-  pops:
-    - estate: peasant
-      size: 1000
 380.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    frankish-germanic: 0
+    frankish-chalcedonism: 1
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -70,9 +68,9 @@
   owner: FRAN
   controller: FRAN
 700.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    frankish-chalcedonism: 0
+    rhine_franconian-chalcedonism: 1
 840.6.21:
   owner: MFRA
   controller: MFRA
@@ -86,9 +84,9 @@
     MFRA: no
     LOT: yes
 867.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    rhine_franconian-chalcedonism: 0
+    rhine_franconian-catholic: 1
 870.8.8:
   owner: EFRA
   controller: EFRA

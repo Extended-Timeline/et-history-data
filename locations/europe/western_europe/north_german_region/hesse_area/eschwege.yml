@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/1762 - Kassel.txt
 2.1.1:
+  pops: 
+    rhine_franconian-germanic: 1
   owner: CHRS
   controller: CHRS
   cores:
     CHRS: yes
   resource: grain
-  pops:
-    - religion: germanic_polytheism
-      estate: peasant
-      size: 1000
 88.1.1:
   owner: CHTT
   controller: CHTT
@@ -41,9 +39,9 @@
   owner: ASTS
   controller: ASTS
 600.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    rhine_franconian-germanic: 0
+    rhine_franconian-chalcedonism: 1
 613.10.10:
   owner: FRAN
   controller: FRAN
@@ -68,9 +66,9 @@
     FRAN: no
     EFRA: yes
 867.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    rhine_franconian-chalcedonism: 0
+    rhine_franconian-catholic: 1
 911.11.10:
   owner: FKN
   controller: FKN
@@ -92,9 +90,9 @@
     THU: no
     HES: yes
 1536.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    rhine_franconian-catholic: 0
+    rhine_franconian-lutheran: 1
 1730.3.23:
   owner: SWE
   controller: SWE

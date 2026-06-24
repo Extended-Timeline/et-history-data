@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/354 - Tripolitania.txt
 2.1.1:
+  pops: 
+    eastern_amazigh-bantu_religion: 1
   owner: ROM
   controller: ROM
   cores:
     ROM: yes
   resource: cloth
-  pops:
-    - religion: bantu_religion
-      estate: peasant
-      size: 1000
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -16,9 +14,9 @@
     ROM: no
     ROMW: yes
 420.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    eastern_amazigh-bantu_religion: 0
+    eastern_amazigh-chalcedonism: 1
 439.1.1:
   owner: VAND
   controller: VAND
@@ -43,10 +41,9 @@
     BYZ: no
     UMAY: yes
 700.1.1:
-  pops:
-    - religion: sunni
-      estate: peasant
-      size: 1000
+  pops: 
+    eastern_amazigh-chalcedonism: 0
+    tunisian-sunni: 1
 745.1.1:
   owner: TUN
   controller: TUN

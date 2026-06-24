@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/853 - Huastec.txt
 2.1.1:
+  pops: 
+    nahua_culture-nahuatl: 1
   owner: TEOT
   controller: TEOT
   cores:
     TEOT: yes
   resource: cotton
-  pops:
-    - religion: nahuatl
-      estate: peasant
-      size: 1000
 496.1.1:
   owner: TOLT
   controller: TOLT
@@ -22,13 +20,13 @@
     TOLT: no
     AZTE: yes
 1521.8.13:
+  pops: 
+    nahua_culture-nahuatl: 0
+    nahua_culture-catholic: 1
   owner: SPA
   controller: SPA
   cores:
     SPA: yes
-  pops:
-    - estate: peasant
-      size: 1000
 1810.9.16:
   owner: MEX
   controller: SPA

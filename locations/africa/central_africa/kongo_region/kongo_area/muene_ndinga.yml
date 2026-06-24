@@ -1,9 +1,7 @@
 #imported from EU4 file: history/provinces/4085 - Mbata.txt
 2.1.1:
-  pops:
-    - religion: bantu_religion
-      estate: peasant
-      size: 1000
+  pops: 
+    yaka-bantu_religion: 1
 1350.1.1:
   owner: YAK
   controller: YAK
@@ -11,13 +9,13 @@
     YAK: yes
   resource: slaves
 1885.1.1:
+  pops: 
+    yaka-bantu_religion: 0
+    yaka-catholic: 1
   owner: BEL
   controller: BEL
   cores:
     BEL: yes
-  pops:
-    - estate: peasant
-      size: 1000
 1890.1.1:
   resource: naval_supplies
 1960.7.1:

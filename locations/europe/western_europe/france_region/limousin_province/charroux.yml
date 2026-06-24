@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/4697 - La Marche.txt
 2.1.1:
+  pops: 
+    gallian-druidism: 1
   owner: ROM
   controller: ROM
   cores:
     ROM: yes
   resource: livestock
-  pops:
-    - religion: druidism
-      estate: peasant
-      size: 1000
 260.1.1:
   cores:
     GALL: yes
@@ -23,9 +21,9 @@
     ROM: no
     ROMW: yes
 420.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    gallian-druidism: 0
+    gallian-chalcedonism: 1
 461.8.2:
   owner: VISG
   controller: VISG
@@ -33,14 +31,14 @@
     ROMW: no
     VISG: yes
 507.1.1:
+  pops: 
+    gallian-chalcedonism: 0
+    languedocien-chalcedonism: 1
   owner: FRAN
   controller: FRAN
   cores:
     VISG: no
     FRAN: yes
-  pops:
-    - estate: peasant
-      size: 1000
 511.11.27:
   owner: ASTS
   controller: ASTS
@@ -112,9 +110,9 @@
     WFRA: no
     AQN: yes
 867.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    languedocien-chalcedonism: 0
+    languedocien-catholic: 1
 877.10.6:
   owner: WFRA
   controller: WFRA
@@ -154,9 +152,9 @@
     BOU: no
     AMG: yes
 1560.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    languedocien-catholic: 0
+    languedocien-calvinist: 1
 1589.8.2:
   owner: FRA
   controller: FRA
@@ -165,9 +163,9 @@
 1652.10.21:
   controller: FRA
 1686.1.17:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    languedocien-calvinist: 0
+    languedocien-catholic: 1
 1705.1.1:
   controller: FRA
 1870.9.4:
@@ -176,9 +174,9 @@
   cores:
     FRA: yes
 1900.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    languedocien-catholic: 0
+    french-catholic: 1
 1940.6.14:
   owner: VFRA
   controller: VFRA

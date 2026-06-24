@@ -1,13 +1,11 @@
 #imported from EU4 file: history/provinces/3213 - Natuna.txt
 2.1.1:
-  pops:
-    - religion: bimoism
-      estate: peasant
-      size: 1000
+  pops: 
+    malay_culture-bimoism: 1
 1440.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    malay_culture-bimoism: 0
+    malay_culture-sunni: 1
 1528.1.1:
   owner: JOHO
   controller: JOHO

@@ -1,34 +1,30 @@
 #imported from EU4 file: history/provinces/3249 - Balti.txt
 2.1.1:
+  pops: 
+    dacian-zamolxism: 1
   owner: DACI
   controller: DACI
   cores:
     DACI: yes
   resource: grain
-  pops:
-    - religion: zamolxism
-      estate: peasant
-      size: 1000
 150.1.1:
+  pops: 
+    dacian-zamolxism: 0
+    gothic-germanic: 1
   owner: BAST
   controller: BAST
   cores:
     DACI: no
     BAST: yes
-  pops:
-    - religion: germanic_polytheism
-      estate: peasant
-      size: 1000
 370.1.1:
+  pops: 
+    gothic-germanic: 0
+    hunnic-: 1
   owner: HUNS
   controller: HUNS
   cores:
     OSTR: no
     HUNS: yes
-  pops:
-    - religion: 
-      estate: peasant
-      size: 1000
 520.1.1:
   owner: ANTE
   controller: ANTE
@@ -36,14 +32,13 @@
     HUNS: no
     ANTE: yes
 560.1.1:
+  pops: 
+    ruthenian-: 1
   owner: AVR
   controller: AVR
   cores:
     ANTE: no
     AVR: yes
-  pops:
-    - estate: peasant
-      size: 1000
 567.1.1:
   owner: TIVE
   controller: TIVE
@@ -67,13 +62,12 @@
   cores:
     PECH: yes
 940.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    ruthenian-orthodox: 1
 960.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    ruthenian-orthodox: 0
+    wallachian-orthodox: 1
 1094.1.1:
   owner: CUMA
   controller: CUMA

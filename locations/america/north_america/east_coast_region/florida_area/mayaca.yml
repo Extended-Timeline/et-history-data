@@ -1,28 +1,25 @@
 #imported from EU4 file: history/provinces/927 - Timucua.txt
 2.1.1:
-  pops:
-    - religion: iroquoian_totemism
-      estate: peasant
-      size: 1000
+  pops: 
+    yamasee_culture-iroquoian_totemism: 1
 1564.1.1:
+  pops: 
+    yamasee_culture-iroquoian_totemism: 0
+    french-catholic: 1
   owner: FRA
   controller: FRA
   cores:
     FRA: yes
   resource: sugar
-  pops:
-    - religion: catholic
-      estate: peasant
-      size: 1000
 1565.8.28:
+  pops: 
+    french-catholic: 0
+    castilian-catholic: 1
   owner: SPA
   controller: SPA
   cores:
     FRA: no
     SPA: yes
-  pops:
-    - estate: peasant
-      size: 1000
 1590.8.28:
   cores:
     SPA: yes
@@ -33,9 +30,9 @@
     SPA: no
     GBR: yes
 1770.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    castilian-catholic: 0
+    iberian_east_american-catholic: 1
 1783.9.3:
   owner: SPA
   controller: SPA
@@ -49,13 +46,13 @@
     SPA: no
     USA: yes
 1830.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    iberian_east_american-catholic: 0
+    iberian_east_american-lutheran: 1
 1832.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    iberian_east_american-lutheran: 0
+    british_louisianan-lutheran: 1
 1861.1.10:
   owner: CSAM
   controller: CSAM

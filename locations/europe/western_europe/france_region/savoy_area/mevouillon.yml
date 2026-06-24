@@ -1,18 +1,16 @@
 #imported from EU4 file: history/provinces/204 - Dauphine.txt
 2.1.1:
+  pops: 
+    gallian-druidism: 1
   owner: ROM
   controller: ROM
   cores:
     ROM: yes
   resource: wool
-  pops:
-    - religion: druidism
-      estate: peasant
-      size: 1000
 377.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    gallian-druidism: 0
+    gallian-chalcedonism: 1
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -20,13 +18,13 @@
     ROM: no
     ROMW: yes
 455.1.1:
+  pops: 
+    gallian-chalcedonism: 0
+    burgundione-chalcedonism: 1
   owner: BUR
   controller: BUR
   cores:
     BUR: yes
-  pops:
-    - estate: peasant
-      size: 1000
 458.1.1:
   owner: ROMW
   controller: ROMW
@@ -36,9 +34,9 @@
   cores:
     ROMW: no
 486.6.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    burgundione-chalcedonism: 0
+    burgundian-chalcedonism: 1
 534.1.1:
   owner: SOIS
   controller: SOIS
@@ -66,9 +64,9 @@
   cores:
     ASTS: no
 600.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    burgundian-chalcedonism: 0
+    arpitan-chalcedonism: 1
 612.1.1:
   owner: ASTS
   controller: ASTS
@@ -107,9 +105,9 @@
   cores:
     ITA: yes
 867.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    arpitan-chalcedonism: 0
+    arpitan-catholic: 1
 879.1.1:
   owner: PRO
   controller: PRO
@@ -146,22 +144,22 @@
 1461.7.22:
   controller: FRA
 1560.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    arpitan-catholic: 0
+    arpitan-calvinist: 1
 1686.1.17:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    arpitan-calvinist: 0
+    arpitan-catholic: 1
 1870.9.4:
   owner: FRA
   controller: FRA
   cores:
     FRA: yes
 1900.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    arpitan-catholic: 0
+    french-catholic: 1
 1940.6.14:
   owner: VFRA
   controller: VFRA

@@ -1,18 +1,16 @@
 #imported from EU4 file: history/provinces/4553 - Zamora.txt
 2.1.1:
+  pops: 
+    cantabrian-druidism: 1
   owner: ROM
   controller: ROM
   cores:
     ROM: yes
   resource: livestock
-  pops:
-    - religion: druidism
-      estate: peasant
-      size: 1000
 360.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    cantabrian-druidism: 0
+    cantabrian-chalcedonism: 1
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -42,14 +40,14 @@
     SUEB: no
     VISG: yes
 711.1.1:
+  pops: 
+    cantabrian-chalcedonism: 0
+    leonese-chalcedonism: 1
   owner: UMAY
   controller: UMAY
   cores:
     VISG: no
     UMAY: yes
-  pops:
-    - estate: peasant
-      size: 1000
 742.1.1:
   owner: ASTU
   controller: ASTU
@@ -57,9 +55,9 @@
     UMAY: no
     ASTU: yes
 867.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    leonese-chalcedonism: 0
+    leonese-catholic: 1
 910.12.10:
   owner: LON
   controller: LON

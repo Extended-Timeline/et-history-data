@@ -1,9 +1,7 @@
 #imported from EU4 file: history/provinces/1960 - Ostrov.txt
 2.1.1:
-  pops:
-    - religion: slavic_polytheism
-      estate: peasant
-      size: 1000
+  pops: 
+    novgorodian-slavic: 1
 550.1.1:
   owner: ILME
   controller: ILME
@@ -17,9 +15,9 @@
     ILME: no
     KIEV: yes
 988.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    novgorodian-slavic: 0
+    novgorodian-orthodox: 1
 1054.2.20:
   owner: NOV
   controller: NOV

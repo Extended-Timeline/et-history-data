@@ -1,17 +1,14 @@
 #imported from EU4 file: history/provinces/496 - Antigua.txt
 2.1.1:
-  pops:
-    - religion: muisca_religion
-      estate: peasant
-      size: 1000
+  pops: 
+    guaribes_culture-muisca_religion: 1
 1632.1.1:
+  pops: 
+    guaribes_culture-muisca_religion: 0
+    english-lutheran: 1
   owner: ENG
   controller: ENG
   resource: sugar
-  pops:
-    - religion: lutheran
-      estate: peasant
-      size: 1000
 1657.1.1:
   cores:
     ENG: yes
@@ -21,9 +18,9 @@
   cores:
     GBR: yes
 1780.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    english-lutheran: 0
+    british_caribbean-lutheran: 1
 1981.11.1:
   owner: ANBR
   controller: ANBR

@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/2965 - Chemnitz.txt
 2.1.1:
+  pops: 
+    east_franconian-germanic: 1
   owner: HERM
   controller: HERM
   cores:
     HERM: yes
   resource: wool
-  pops:
-    - religion: germanic_polytheism
-      estate: peasant
-      size: 1000
 260.1.1:
   owner: SEMN
   controller: SEMN
@@ -28,15 +26,14 @@
     HERM: no
     THU: yes
 600.1.1:
+  pops: 
+    east_franconian-germanic: 0
+    sorbian-slavic: 1
   owner: SORB
   controller: SORB
   cores:
     THU: no
     SORB: yes
-  pops:
-    - religion: slavic_polytheism
-      estate: peasant
-      size: 1000
 932.1.1:
   owner: SAX
   controller: SAX
@@ -50,10 +47,9 @@
     SAX: no
     BRA: yes
 960.1.1:
-  pops:
-    - religion: catholic
-      estate: peasant
-      size: 1000
+  pops: 
+    sorbian-slavic: 0
+    saxon-catholic: 1
 965.5.20:
   owner: MEI
   controller: MEI
@@ -88,9 +84,9 @@
   cores:
     EGER: yes
 1990.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    saxon-catholic: 0
+    saxon-irreligious: 1
 1990.10.3:
   owner: GER
   controller: GER

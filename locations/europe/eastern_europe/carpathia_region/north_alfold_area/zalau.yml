@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/157 - Bihar.txt
 2.1.1:
+  pops: 
+    dacian-zamolxism: 1
   owner: DACI
   controller: DACI
   cores:
     DACI: yes
   resource: naval_supplies
-  pops:
-    - religion: zamolxism
-      estate: peasant
-      size: 1000
 106.1.1:
   owner: IAZY
   controller: IAZY
@@ -16,23 +14,22 @@
     DACI: no
     IAZY: yes
 250.1.1:
+  pops: 
+    dacian-zamolxism: 0
+    gepid-germanic: 1
   owner: GEPI
   controller: GEPI
   cores:
     IAZY: no
     GEPI: yes
-  pops:
-    - religion: germanic_polytheism
-      estate: peasant
-      size: 1000
 271.1.1:
+  pops: 
+    gepid-germanic: 0
+    gothic-germanic: 1
   owner: VISG
   controller: VISG
   cores:
     VISG: yes
-  pops:
-    - estate: peasant
-      size: 1000
 376.1.1:
   owner: HUNS
   controller: HUNS
@@ -40,27 +37,25 @@
     VISG: no
     HUNS: yes
 469.1.1:
+  pops: 
+    gothic-germanic: 0
+    gepid-germanic: 1
   owner: GEPI
   controller: GEPI
   cores:
     HUNS: no
-  pops:
-    - estate: peasant
-      size: 1000
 567.1.1:
+  pops: 
+    gepid-germanic: 0
+    avar_culture-: 1
   owner: AVR
   controller: AVR
   cores:
     GEPI: no
     AVR: yes
-  pops:
-    - religion: 
-      estate: peasant
-      size: 1000
 750.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    wallachian-: 1
 804.1.1:
   owner: BUL
   controller: BUL
@@ -79,13 +74,11 @@
   cores:
     HUN: yes
 980.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    hungarian-: 1
 1050.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    hungarian-orthodox: 1
 1507.1.1:
   controller: HUN
 1515.1.1:
@@ -99,9 +92,9 @@
     HAB: yes
     TRA: yes
 1540.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    hungarian-orthodox: 0
+    hungarian-calvinist: 1
 1551.7.19:
   owner: HAB
   controller: HAB
@@ -111,9 +104,6 @@
 1563.1.1:
   controller: TRA
 1567.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
 1570.1.1:
   cores:
     HAB: no
@@ -159,7 +149,3 @@
   owner: RMN
   controller: RMN
 1950.1.1:
-  pops:
-    - religion: orthodox
-      estate: peasant
-      size: 1000

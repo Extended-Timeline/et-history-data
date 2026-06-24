@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/4594 - Tzul.txt
 2.1.1:
+  pops: 
+    putun_culture-mayan: 1
   owner: TIKA
   controller: TIKA
   cores:
     TIKA: yes
   resource: cocoa
-  pops:
-    - religion: mayan
-      estate: peasant
-      size: 1000
 987.1.1:
   owner: MAY
   controller: MAY
@@ -22,13 +20,13 @@
     MAY: no
     ITZ: yes
 1700.1.1:
+  pops: 
+    putun_culture-mayan: 0
+    putun_culture-catholic: 1
   owner: SPA
   controller: SPA
   cores:
     SPA: yes
-  pops:
-    - estate: peasant
-      size: 1000
 1810.9.16:
   owner: MEX
   controller: SPA
@@ -50,6 +48,3 @@
     UPCA: no
     SPA: no
 1960.1.1:
-  pops:
-    - estate: peasant
-      size: 1000

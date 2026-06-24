@@ -1,15 +1,13 @@
 #imported from EU4 file: history/provinces/435 - Sistan.txt
 2.1.1:
+  pops: 
+    afghan_culture-zunism: 1
   owner: IPAR
   controller: IPAR
   cores:
     IPAR: yes
     SURE: yes
   resource: wool
-  pops:
-    - religion: zunism
-      estate: peasant
-      size: 1000
 20.1.1:
   owner: SURE
   controller: SURE
@@ -28,9 +26,9 @@
     ERA: no
     RASH: yes
 650.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    afghan_culture-zunism: 0
+    khorasani_culture-zunism: 1
 661.7.28:
   owner: UMAY
   controller: UMAY
@@ -38,9 +36,9 @@
     RASH: no
     UMAY: yes
 680.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    khorasani_culture-zunism: 0
+    khorasani_culture-sunni: 1
 750.8.6:
   owner: ABBA
   controller: ABBA

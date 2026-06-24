@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/549 - Kalingandhra.txt
 2.1.1:
+  pops: 
+    telugu-mahayana: 1
   owner: KALI
   controller: KALI
   cores:
     KALI: yes
   resource: cotton
-  pops:
-    - religion: mahayana
-      estate: peasant
-      size: 1000
 88.1.1:
   owner: SATA
   controller: SATA
@@ -33,18 +31,18 @@
     RDY: no
     KALI: yes
 400.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    telugu-mahayana: 0
+    telugu-jain: 1
 560.1.1:
   owner: RDY
   controller: RDY
   cores:
     RDY: yes
 800.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    telugu-jain: 0
+    telugu-hindu: 1
 1000.1.1:
   owner: KALI
   controller: KALI

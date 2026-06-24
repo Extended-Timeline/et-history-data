@@ -1,13 +1,11 @@
 #imported from EU4 file: history/provinces/4842 - Phayao.txt
 2.1.1:
-  pops:
-    - religion: bimoism
-      estate: peasant
-      size: 1000
+  pops: 
+    mon_culture-bimoism: 1
 500.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    mon_culture-bimoism: 0
+    mon_culture-mahayana: 1
 550.1.1:
   owner: SIHV
   controller: SIHV
@@ -15,18 +13,18 @@
     SIHV: yes
   resource: grain
 600.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    mon_culture-mahayana: 0
+    mon_culture-theravada: 1
 638.1.1:
+  pops: 
+    mon_culture-theravada: 0
+    khon_muang_culture-theravada: 1
   owner: HIRA
   controller: HIRA
   cores:
     SIHV: no
     HIRA: yes
-  pops:
-    - estate: peasant
-      size: 1000
 1094.1.1:
   owner: PHY
   controller: PHY

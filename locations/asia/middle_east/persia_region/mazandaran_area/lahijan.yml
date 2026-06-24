@@ -1,15 +1,13 @@
 #imported from EU4 file: history/provinces/417 - Gilan.txt
 2.1.1:
+  pops: 
+    mazanderani_culture-zoroastrian: 1
   owner: PART
   controller: PART
   cores:
     PART: yes
     HYRC: yes
   resource: silk
-  pops:
-    - religion: zoroastrian
-      estate: peasant
-      size: 1000
 60.1.1:
   controller: PART
 135.1.1:
@@ -35,9 +33,9 @@
     MZN: no
     KRY: yes
 864.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    mazanderani_culture-zoroastrian: 0
+    mazanderani_culture-shia: 1
 1004.1.1:
   owner: AZER
   controller: AZER

@@ -1,18 +1,16 @@
 #imported from EU4 file: history/provinces/1867 - Freiburg.txt
 2.1.1:
+  pops: 
+    helvetian-druidism: 1
   owner: ROM
   controller: ROM
   cores:
     ROM: yes
   resource: livestock
-  pops:
-    - religion: druidism
-      estate: peasant
-      size: 1000
 380.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    helvetian-druidism: 0
+    helvetian-chalcedonism: 1
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -20,20 +18,20 @@
     ROM: no
     ROMW: yes
 443.1.1:
+  pops: 
+    helvetian-chalcedonism: 0
+    burgundione-chalcedonism: 1
   owner: BUR
   controller: BUR
   cores:
     BUR: yes
-  pops:
-    - estate: peasant
-      size: 1000
 480.6.1:
   cores:
     ROMW: no
 486.6.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    burgundione-chalcedonism: 0
+    burgundian-chalcedonism: 1
 534.1.1:
   owner: NEUS
   controller: NEUS
@@ -81,9 +79,9 @@
   owner: FRAN
   controller: FRAN
 700.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    burgundian-chalcedonism: 0
+    arpitan-chalcedonism: 1
 840.6.21:
   owner: MFRA
   controller: MFRA
@@ -97,9 +95,9 @@
     MFRA: no
     LOT: yes
 867.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    arpitan-chalcedonism: 0
+    arpitan-catholic: 1
 870.8.8:
   owner: ITA
   controller: ITA
@@ -127,11 +125,11 @@
   owner: SAV
   controller: SAV
 1536.1.1:
+  pops: 
+    arpitan-catholic: 0
+    arpitan-calvinist: 1
   owner: SWI
   controller: SWI
-  pops:
-    - estate: peasant
-      size: 1000
 1564.10.30:
   cores:
     SAV: no

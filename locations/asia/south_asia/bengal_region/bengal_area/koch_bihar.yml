@@ -1,18 +1,16 @@
 #imported from EU4 file: history/provinces/562 - Koch.txt
 2.1.1:
+  pops: 
+    kamarupi-bimoism: 1
   owner: KAMA
   controller: KAMA
   cores:
     KAMA: yes
   resource: grain
-  pops:
-    - religion: bimoism
-      estate: peasant
-      size: 1000
 360.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    kamarupi-bimoism: 0
+    kamarupi-hindu: 1
 1185.1.1:
   owner: KMA
   controller: KMA

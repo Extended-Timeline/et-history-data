@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/2450 - Ghadames.txt
 2.1.1:
+  pops: 
+    eastern_amazigh-bantu_religion: 1
   owner: GARA
   controller: GARA
   cores:
     GARA: yes
   resource: spices
-  pops:
-    - religion: bantu_religion
-      estate: peasant
-      size: 1000
 660.1.1:
   owner: AURE
   controller: AURE
@@ -22,10 +20,9 @@
   cores:
     AURE: no
 850.1.1:
-  pops:
-    - religion: sunni
-      estate: peasant
-      size: 1000
+  pops: 
+    eastern_amazigh-bantu_religion: 0
+    tunisian-sunni: 1
 1173.1.1:
   owner: MAM
   controller: MAM

@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/533 - Mysore.txt
 2.1.1:
+  pops: 
+    kannadiga-jain: 1
   owner: CHER
   controller: CHER
   cores:
     CHER: yes
   resource: iron
-  pops:
-    - religion: jain
-      estate: peasant
-      size: 1000
 275.1.1:
   owner: PALL
   controller: PALL
@@ -28,9 +26,9 @@
     GANG: no
     CHOL: yes
 1010.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    kannadiga-jain: 0
+    kannadiga-hindu: 1
 1026.1.1:
   owner: HSL
   controller: HSL
@@ -38,9 +36,6 @@
     CHOL: no
     HSL: yes
 1200.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
 1343.1.1:
   owner: VIJ
   controller: VIJ

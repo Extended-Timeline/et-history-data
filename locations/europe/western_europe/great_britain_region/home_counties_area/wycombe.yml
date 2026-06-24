@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/237 - Oxfordshire.txt
 2.1.1:
+  pops: 
+    briton-druidism: 1
   owner: CATU
   controller: CATU
   cores:
     CATU: yes
   resource: livestock
-  pops:
-    - religion: druidism
-      estate: peasant
-      size: 1000
 43.1.1:
   owner: ROM
   controller: ROM
@@ -24,42 +22,41 @@
     ROM: no
     ROMW: yes
 410.1.1:
+  pops: 
+    briton-druidism: 0
+    welsh-druidism: 1
   owner: ERGY
   controller: ERGY
   cores:
     ROMW: no
     ERGY: yes
-  pops:
-    - estate: peasant
-      size: 1000
 519.1.1:
+  pops: 
+    welsh-druidism: 0
+    anglo_saxon-germanic: 1
   owner: WESS
   controller: WESS
   cores:
     ERGY: no
     WESS: yes
-  pops:
-    - religion: germanic_polytheism
-      estate: peasant
-      size: 1000
 645.1.1:
   owner: MERC
   controller: MERC
   cores:
     MERC: yes
 650.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    anglo_saxon-germanic: 0
+    anglo_saxon-chalcedonism: 1
 825.1.1:
   owner: WESS
   controller: WESS
   cores:
     WESS: yes
 867.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    anglo_saxon-chalcedonism: 0
+    anglo_saxon-catholic: 1
 927.1.1:
   owner: ENG
   controller: ENG
@@ -69,13 +66,13 @@
   cores:
     WESS: no
 1066.12.25:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    anglo_saxon-catholic: 0
+    english-catholic: 1
 1560.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    english-catholic: 0
+    english-anglican: 1
 1642.10.24:
   controller: ENG
 1707.5.12:

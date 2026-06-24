@@ -1,9 +1,7 @@
 #imported from EU4 file: history/provinces/1159 - Bagirmi.txt
 2.1.1:
-  pops:
-    - religion: bantu_religion
-      estate: peasant
-      size: 1000
+  pops: 
+    bilala_culture-bantu_religion: 1
 523.1.1:
   owner: KOT
   controller: KOT
@@ -30,9 +28,9 @@
     YAO: no
     BGI: yes
 1580.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    bilala_culture-bantu_religion: 0
+    bilala_culture-sunni: 1
 1720.1.1:
   controller: BGI
 1752.1.1:

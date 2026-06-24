@@ -1,26 +1,23 @@
 #imported from EU4 file: history/provinces/4514 - Sakya.txt
 2.1.1:
+  pops: 
+    zhangzhung-bon: 1
   owner: ZHAN
   controller: ZHAN
   cores:
     ZHAN: yes
   resource: livestock
-  pops:
-    - religion: bon
-      estate: peasant
-      size: 1000
 625.1.1:
   owner: TIB
   controller: TIB
   cores:
     TIB: yes
 630.1.1:
+  pops: 
+    zhangzhung-bon: 0
+    utsang_culture-tibetan_buddhism: 1
   cores:
     ZHAN: no
-  pops:
-    - religion: tibetan_buddhism
-      estate: peasant
-      size: 1000
 842.1.1:
   owner: UTSA
   controller: UTSA

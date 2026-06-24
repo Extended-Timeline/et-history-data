@@ -1,27 +1,25 @@
 #imported from EU4 file: history/provinces/4383 - Haag.txt
 2.1.1:
+  pops: 
+    frisian-germanic: 1
   owner: ROM
   controller: ROM
   cores:
     ROM: yes
   resource: cloth
-  pops:
-    - religion: germanic_polytheism
-      estate: peasant
-      size: 1000
 260.1.1:
+  pops: 
+    frisian-germanic: 0
+    gallian-germanic: 1
   cores:
     GALL: yes
-  pops:
-    - estate: peasant
-      size: 1000
 274.1.1:
+  pops: 
+    gallian-germanic: 0
+    frisian-germanic: 1
   controller: ROM
   cores:
     GALL: no
-  pops:
-    - estate: peasant
-      size: 1000
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -35,17 +33,17 @@
     ROMW: no
     FRI: yes
 734.1.1:
+  pops: 
+    frisian-germanic: 0
+    low_franconian-germanic: 1
   owner: FRAN
   controller: FRAN
   cores:
     FRAN: yes
-  pops:
-    - estate: peasant
-      size: 1000
 780.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    low_franconian-germanic: 0
+    low_franconian-chalcedonism: 1
 840.6.21:
   owner: MFRA
   controller: MFRA
@@ -59,9 +57,9 @@
     MFRA: no
     LOT: yes
 867.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    low_franconian-chalcedonism: 0
+    low_franconian-catholic: 1
 870.8.8:
   owner: EFRA
   controller: EFRA
@@ -87,9 +85,9 @@
   cores:
     NED: yes
 1572.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    low_franconian-catholic: 0
+    low_franconian-calvinist: 1
 1786.10.13:
   controller: NED
 1810.7.10:
@@ -115,6 +113,3 @@
   owner: NED
   controller: NED
 2020.1.1:
-  pops:
-    - estate: peasant
-      size: 1000

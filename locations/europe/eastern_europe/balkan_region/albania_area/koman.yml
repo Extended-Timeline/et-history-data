@@ -1,18 +1,16 @@
 #imported from EU4 file: history/provinces/4175 - Albania.txt
 2.1.1:
+  pops: 
+    albanian-hellenism_religion: 1
   owner: ROM
   controller: ROM
   cores:
     ROM: yes
   resource: wool
-  pops:
-    - religion: hellenism_religion
-      estate: peasant
-      size: 1000
 360.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    albanian-hellenism_religion: 0
+    albanian-chalcedonism: 1
 395.1.17:
   owner: BYZ
   controller: BYZ
@@ -25,9 +23,9 @@
   cores:
     DUKL: yes
 867.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    albanian-chalcedonism: 0
+    albanian-orthodox: 1
 930.1.1:
   owner: SER
   controller: SER
@@ -93,9 +91,9 @@
   cores:
     TUR: yes
 1520.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    albanian-orthodox: 0
+    albanian-sunni: 1
 1803.1.1:
   controller: TUR
 1912.11.28:

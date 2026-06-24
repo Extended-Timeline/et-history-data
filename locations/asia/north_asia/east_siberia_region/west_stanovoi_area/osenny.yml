@@ -1,9 +1,7 @@
 #imported from EU4 file: history/provinces/1055 - Verkne-Angarsky.txt
 2.1.1:
-  pops:
-    - religion: 
-      estate: peasant
-      size: 1000
+  pops: 
+    buryat_culture-: 1
 848.1.1:
   owner: MERK
   controller: MERK
@@ -35,12 +33,10 @@
     YUA: no
     BRT: yes
 1632.9.25:
+  pops: 
+    muscovite-orthodox: 1
   owner: RUS
   controller: RUS
-  pops:
-    - religion: orthodox
-      estate: peasant
-      size: 1000
 1657.1.1:
   cores:
     RUS: yes

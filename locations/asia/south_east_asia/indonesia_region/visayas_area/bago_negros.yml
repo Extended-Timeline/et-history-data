@@ -1,9 +1,7 @@
 #imported from EU4 file: history/provinces/4351 - Buglas.txt
 2.1.1:
-  pops:
-    - religion: bimoism
-      estate: peasant
-      size: 1000
+  pops: 
+    cebuano_culture-bimoism: 1
 1200.1.1:
   owner: MDY
   controller: MDY
@@ -11,13 +9,13 @@
     MDY: yes
   resource: sugar
 1565.1.1:
+  pops: 
+    cebuano_culture-bimoism: 0
+    cebuano_culture-catholic: 1
   owner: SPA
   controller: SPA
   cores:
     SPA: yes
-  pops:
-    - estate: peasant
-      size: 1000
 1762.10.6:
   controller: GBR
 1763.2.10:

@@ -1,9 +1,7 @@
 #imported from EU4 file: history/provinces/27 - Finland.txt
 2.1.1:
-  pops:
-    - religion: muinaisusko
-      estate: peasant
-      size: 1000
+  pops: 
+    finnish-muinaisusko: 1
 750.1.1:
   owner: TAV
   controller: TAV
@@ -11,15 +9,15 @@
     TAV: yes
   resource: grain
 1150.1.1:
+  pops: 
+    finnish-muinaisusko: 0
+    finnish-catholic: 1
   owner: SWE
   controller: SWE
   cores:
     TAV: no
     SWE: yes
     FIN: yes
-  pops:
-    - estate: peasant
-      size: 1000
 1468.3.15:
   owner: DAN
   controller: DAN
@@ -35,9 +33,9 @@
 1502.9.8:
   controller: SWE
 1527.6.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    finnish-catholic: 0
+    finnish-lutheran: 1
 1563.8.12:
   controller: SWE
 1598.8.1:

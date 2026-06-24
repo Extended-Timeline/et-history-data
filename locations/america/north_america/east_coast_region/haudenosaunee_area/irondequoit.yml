@@ -1,20 +1,17 @@
 #imported from EU4 file: history/provinces/958 - Seneca.txt
 2.1.1:
+  pops: 
+    onondowaga_culture-iroquoian_totemism: 1
   owner: ONN
   controller: ONN
   cores:
     ONN: yes
   resource: fur
-  pops:
-    - religion: iroquoian_totemism
-      estate: peasant
-      size: 1000
 1784.10.22:
+  pops: 
+    onondowaga_culture-iroquoian_totemism: 0
+    american-lutheran: 1
   owner: USA
   controller: USA
   cores:
     USA: yes
-  pops:
-    - religion: lutheran
-      estate: peasant
-      size: 1000

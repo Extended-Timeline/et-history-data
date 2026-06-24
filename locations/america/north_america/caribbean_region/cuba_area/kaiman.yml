@@ -1,20 +1,14 @@
 #imported from EU4 file: history/provinces/3255 - Cayman Islands.txt
 2.1.1:
-  pops:
-    - religion: muisca_religion
-      estate: peasant
-      size: 1000
+  pops: 
+    arawak_culture-muisca_religion: 1
 1730.1.1:
+  pops: 
+    arawak_culture-muisca_religion: 0
+    english-lutheran: 1
   owner: GBR
   controller: GBR
   cores:
     GBR: yes
   resource: naval_supplies
-  pops:
-    - religion: lutheran
-      estate: peasant
-      size: 1000
 1780.1.1:
-  pops:
-    - estate: peasant
-      size: 1000

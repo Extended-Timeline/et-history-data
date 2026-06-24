@@ -1,18 +1,16 @@
 #imported from EU4 file: history/provinces/713 - Kuruk Tag.txt
 2.1.1:
+  pops: 
+    tocharian-mahayana: 1
   owner: KARA
   controller: KARA
   cores:
     KARA: yes
   resource: salt
-  pops:
-    - religion: mahayana
-      estate: peasant
-      size: 1000
 420.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    tocharian-mahayana: 0
+    uyghur_culture-mahayana: 1
 439.1.1:
   owner: NLIA
   controller: NLIA
@@ -37,18 +35,18 @@
     GOKT: no
     UYGH: yes
 745.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    uyghur_culture-mahayana: 0
+    uyghur_culture-manichaeism: 1
 789.1.1:
   owner: TIB
   controller: TIB
   cores:
     TIB: yes
 840.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    uyghur_culture-manichaeism: 0
+    uyghur_culture-tibetan_buddhism: 1
 842.1.1:
   owner: UTSA
   controller: UTSA
@@ -68,9 +66,9 @@
     UYGH: no
     MGE: yes
 1210.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    uyghur_culture-tibetan_buddhism: 0
+    uyghur_culture-: 1
 1260.1.1:
   owner: CHG
   controller: CHG
@@ -94,9 +92,8 @@
   cores:
     ZUNG: yes
 1680.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    uyghur_culture-sunni: 1
 1755.1.1:
   owner: QNG
   controller: QNG

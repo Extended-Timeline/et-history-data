@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/2307 - Van.txt
 2.1.1:
+  pops: 
+    armenian_culture-armenian_religion: 1
   owner: ARM
   controller: ARM
   cores:
     ARM: yes
   resource: wool
-  pops:
-    - religion: armenian_religion
-      estate: peasant
-      size: 1000
 114.1.1:
   owner: ROM
   controller: ROM
@@ -20,18 +18,18 @@
   cores:
     ROM: no
 301.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    armenian_culture-armenian_religion: 0
+    armenian_culture-chalcedonism: 1
 428.1.1:
   owner: ERA
   controller: ERA
   cores:
     ERA: yes
 506.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    armenian_culture-chalcedonism: 0
+    armenian_culture-miaphysite: 1
 637.1.1:
   owner: RASH
   controller: RASH
@@ -147,10 +145,9 @@
   cores:
     ARM: no
 1922.1.1:
-  pops:
-    - religion: sunni
-      estate: peasant
-      size: 1000
+  pops: 
+    armenian_culture-miaphysite: 0
+    kurdish_culture-sunni: 1
 1922.11.1:
   cores:
     TUR: no

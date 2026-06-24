@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/511 - Garhwal.txt
 2.1.1:
+  pops: 
+    garhwali-mahayana: 1
   owner: KUNI
   controller: KUNI
   cores:
     KUNI: yes
   resource: cotton
-  pops:
-    - religion: mahayana
-      estate: peasant
-      size: 1000
 300.1.1:
   owner: GWL
   controller: GWL
@@ -25,9 +23,9 @@
   cores:
     HEPH: no
 1003.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    garhwali-mahayana: 0
+    garhwali-hindu: 1
 1803.1.1:
   controller: NPL
 1805.1.1:

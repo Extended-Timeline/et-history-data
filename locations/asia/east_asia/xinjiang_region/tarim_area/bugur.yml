@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/2121 - Kuqa.txt
 2.1.1:
+  pops: 
+    tocharian-mahayana: 1
   owner: KUCH
   controller: KUCH
   cores:
     KUCH: yes
   resource: gold
-  pops:
-    - religion: mahayana
-      estate: peasant
-      size: 1000
 440.1.1:
   owner: HEPH
   controller: HEPH
@@ -32,10 +30,9 @@
     TANG: no
     TIB: yes
 680.1.1:
-  pops:
-    - religion: manichaeism
-      estate: peasant
-      size: 1000
+  pops: 
+    tocharian-mahayana: 0
+    uyghur_culture-manichaeism: 1
 692.1.1:
   owner: TANG
   controller: TANG
@@ -61,9 +58,9 @@
     UTSA: no
     UYGH: yes
 880.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    uyghur_culture-manichaeism: 0
+    uyghur_culture-mahayana: 1
 1209.1.1:
   owner: MGE
   controller: MGE
@@ -71,9 +68,9 @@
     UYGH: no
     MGE: yes
 1210.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    uyghur_culture-mahayana: 0
+    uyghur_culture-: 1
 1260.1.1:
   owner: CHG
   controller: CHG
@@ -87,9 +84,8 @@
     CHG: no
     MOGH: yes
 1350.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    uyghur_culture-sunni: 1
 1389.1.1:
   owner: YARK
   controller: YARK

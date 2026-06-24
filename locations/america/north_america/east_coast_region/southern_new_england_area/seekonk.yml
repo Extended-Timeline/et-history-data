@@ -1,17 +1,14 @@
 #imported from EU4 file: history/provinces/967 - Narraganset.txt
 2.1.1:
-  pops:
-    - religion: iroquoian_totemism
-      estate: peasant
-      size: 1000
+  pops: 
+    pequot_culture-iroquoian_totemism: 1
 1636.1.1:
+  pops: 
+    pequot_culture-iroquoian_totemism: 0
+    english-calvinist: 1
   owner: ENG
   controller: ENG
   resource: fish
-  pops:
-    - religion: calvinist
-      estate: peasant
-      size: 1000
 1661.1.1:
   cores:
     ENG: yes
@@ -22,9 +19,9 @@
     ENG: no
     GBR: yes
 1764.7.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    english-calvinist: 0
+    american-calvinist: 1
 1776.7.4:
   owner: USA
   controller: USA
@@ -34,6 +31,3 @@
   cores:
     GBR: no
 1900.1.1:
-  pops:
-    - estate: peasant
-      size: 1000

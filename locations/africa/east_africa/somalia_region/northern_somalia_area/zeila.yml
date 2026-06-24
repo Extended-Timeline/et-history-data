@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/1212 - Zeila.txt
 2.1.1:
+  pops: 
+    somali_culture-bantu_religion: 1
   owner: AVAL
   controller: AVAL
   cores:
     AVAL: yes
   resource: incense
-  pops:
-    - religion: bantu_religion
-      estate: peasant
-      size: 1000
 550.1.1:
   owner: PIPA
   controller: PIPA
@@ -22,9 +20,9 @@
     PIPA: no
     ADA: yes
 670.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    somali_culture-bantu_religion: 0
+    somali_culture-sunni: 1
 1185.1.1:
   owner: IFA
   controller: IFA

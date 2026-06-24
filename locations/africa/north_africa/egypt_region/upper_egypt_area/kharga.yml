@@ -1,18 +1,16 @@
 #imported from EU4 file: history/provinces/1233 - Kargah.txt
 2.1.1:
+  pops: 
+    eastern_amazigh-egyptian: 1
   owner: ROM
   controller: ROM
   cores:
     ROM: yes
   resource: livestock
-  pops:
-    - religion: egyptian_polytheism
-      estate: peasant
-      size: 1000
 360.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    eastern_amazigh-egyptian: 0
+    eastern_amazigh-chalcedonism: 1
 395.1.17:
   owner: BYZ
   controller: BYZ
@@ -20,9 +18,9 @@
     ROM: no
     BYZ: yes
 451.11.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    eastern_amazigh-chalcedonism: 0
+    eastern_amazigh-miaphysite: 1
 655.1.1:
   owner: RASH
   controller: RASH
@@ -42,10 +40,9 @@
     UMAY: no
     ABBA: yes
 860.1.1:
-  pops:
-    - religion: sunni
-      estate: peasant
-      size: 1000
+  pops: 
+    eastern_amazigh-miaphysite: 0
+    upper_egyptian_culture-sunni: 1
 868.9.15:
   owner: EGY
   controller: EGY

@@ -1,15 +1,13 @@
 #imported from EU4 file: history/provinces/697 - Datong.txt
 2.1.1:
+  pops: 
+    khitan-sanjiao: 1
   owner: HAN0
   controller: HAN0
   cores:
     HAN0: yes
     WEI0: yes
   resource: iron
-  pops:
-    - religion: sanjiao
-      estate: peasant
-      size: 1000
 9.1.10:
   owner: XIN0
   controller: XIN0
@@ -92,9 +90,9 @@
     SUI0: no
     TANG: yes
 650.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    khitan-sanjiao: 0
+    jin_culture-sanjiao: 1
 907.6.1:
   owner: JIN1
   controller: JIN1

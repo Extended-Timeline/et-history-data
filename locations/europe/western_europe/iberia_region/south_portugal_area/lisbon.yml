@@ -1,18 +1,16 @@
 #imported from EU4 file: history/provinces/227 - Lisboa.txt
 2.1.1:
+  pops: 
+    turduli-druidism: 1
   owner: ROM
   controller: ROM
   cores:
     ROM: yes
   resource: fish
-  pops:
-    - religion: druidism
-      estate: peasant
-      size: 1000
 360.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    turduli-druidism: 0
+    turduli-chalcedonism: 1
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -55,13 +53,13 @@
 798.1.1:
   controller: CRDB
 800.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    turduli-chalcedonism: 0
+    andalusi-chalcedonism: 1
 820.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    andalusi-chalcedonism: 0
+    andalusi-sunni: 1
 955.1.1:
   controller: LON
 958.1.1:
@@ -94,17 +92,17 @@
   cores:
     MOR: no
 1147.10.25:
+  pops: 
+    andalusi-sunni: 0
+    portuguese-sunni: 1
   owner: POR
   controller: POR
   cores:
     POR: yes
-  pops:
-    - estate: peasant
-      size: 1000
 1150.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    portuguese-sunni: 0
+    portuguese-catholic: 1
 1580.8.25:
   controller: SPA
 1580.8.26:

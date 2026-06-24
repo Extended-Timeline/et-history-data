@@ -1,29 +1,25 @@
 #imported from EU4 file: history/provinces/467 - Borisoglebsk.txt
 2.1.1:
+  pops: 
+    sarmatian-: 1
   owner: SARM
   controller: SARM
   cores:
     SARM: yes
   resource: livestock
-  pops:
-    - religion: 
-      estate: peasant
-      size: 1000
 350.1.1:
+  pops: 
+    hunnic-: 1
   owner: HUNS
   controller: HUNS
   cores:
     SARM: no
     HUNS: yes
-  pops:
-    - estate: peasant
-      size: 1000
 420.1.1:
+  pops: 
+    bolghar_culture-: 1
   cores:
     ONOG: yes
-  pops:
-    - estate: peasant
-      size: 1000
 469.1.1:
   owner: ONOG
   controller: ONOG
@@ -36,14 +32,13 @@
     ONOG: no
     BUL: yes
 720.1.1:
+  pops: 
+    khazar-: 1
   owner: KHAZ
   controller: KHAZ
   cores:
     BUL: no
     KHAZ: yes
-  pops:
-    - estate: peasant
-      size: 1000
 750.1.1:
   owner: BURT
   controller: BURT
@@ -51,18 +46,16 @@
     HUN: no
     BURT: yes
 969.1.1:
+  pops: 
+    cuman_culture-: 1
   owner: PECH
   controller: PECH
   cores:
     BURT: no
     PECH: yes
-  pops:
-    - estate: peasant
-      size: 1000
 1000.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    cuman_culture-sunni: 1
 1055.1.1:
   owner: CUMA
   controller: CUMA
@@ -71,15 +64,15 @@
     CUMA: yes
     ZAZ: yes
 1237.1.1:
+  pops: 
+    cuman_culture-sunni: 0
+    mishar-sunni: 1
   owner: MGE
   controller: MGE
   cores:
     CUMA: no
     MGE: yes
     CRI: yes
-  pops:
-    - estate: peasant
-      size: 1000
 1260.1.1:
   owner: WHHO
   controller: WHHO
@@ -119,13 +112,13 @@
     CRI: no
     RUS: yes
 1600.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    mishar-sunni: 0
+    muscovite-sunni: 1
 1650.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    muscovite-sunni: 0
+    muscovite-orthodox: 1
 1775.2.1:
   controller: RUS
 1850.1.1:

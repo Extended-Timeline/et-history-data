@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/2228 - Maymana.txt
 2.1.1:
+  pops: 
+    sogdian-mahayana: 1
   owner: PART
   controller: PART
   cores:
     PART: yes
   resource: cotton
-  pops:
-    - religion: mahayana
-      estate: peasant
-      size: 1000
 50.1.1:
   owner: KUSH
   controller: KUSH
@@ -66,18 +64,18 @@
     UMAY: no
     ABBA: yes
 819.1.1:
+  pops: 
+    sogdian-mahayana: 0
+    tajik_culture-mahayana: 1
   owner: KRT
   controller: KRT
   cores:
     ABBA: no
     KRT: yes
-  pops:
-    - estate: peasant
-      size: 1000
 820.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    tajik_culture-mahayana: 0
+    tajik_culture-sunni: 1
 870.1.1:
   owner: GUZG
   controller: GUZG
@@ -102,9 +100,9 @@
     SELJ: no
     GHOR: yes
 1200.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    tajik_culture-sunni: 0
+    afghan_culture-sunni: 1
 1207.1.1:
   owner: KHWA
   controller: KHWA

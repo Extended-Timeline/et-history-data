@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/674 - Guiyang.txt
 2.1.1:
+  pops: 
+    yi_culture-bimoism: 1
   owner: YI00
   controller: YI00
   cores:
     YI00: yes
   resource: iron
-  pops:
-    - religion: bimoism
-      estate: peasant
-      size: 1000
 60.1.1:
   owner: HAN0
   controller: HAN0
@@ -83,9 +81,9 @@
   cores:
     QNG: yes
 1900.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    yi_culture-bimoism: 0
+    yi_culture-sanjiao: 1
 1912.2.12:
   owner: CHI
   controller: CHI

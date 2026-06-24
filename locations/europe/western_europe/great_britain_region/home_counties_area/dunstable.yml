@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/4370 - Cambridge.txt
 2.1.1:
+  pops: 
+    briton-druidism: 1
   owner: ICEN
   controller: ICEN
   cores:
     ICEN: yes
   resource: cloth
-  pops:
-    - religion: druidism
-      estate: peasant
-      size: 1000
 43.1.1:
   owner: ROM
   controller: ROM
@@ -21,20 +19,19 @@
     ROM: no
     ROMW: yes
 410.1.1:
+  pops: 
+    briton-druidism: 0
+    anglo_saxon-germanic: 1
   owner: EANG
   controller: EANG
   cores:
     ROMW: no
     ICEN: no
     EANG: yes
-  pops:
-    - religion: germanic_polytheism
-      estate: peasant
-      size: 1000
 616.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    anglo_saxon-germanic: 0
+    anglo_saxon-chalcedonism: 1
 794.1.1:
   owner: MERC
   controller: MERC
@@ -46,9 +43,9 @@
   cores:
     MERC: no
 867.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    anglo_saxon-chalcedonism: 0
+    anglo_saxon-catholic: 1
 869.1.1:
   owner: DAN
   controller: DAN
@@ -70,13 +67,13 @@
   cores:
     EANG: no
 1066.12.25:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    anglo_saxon-catholic: 0
+    english-catholic: 1
 1560.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    english-catholic: 0
+    english-lutheran: 1
 1642.10.24:
   controller: ENG
 1707.5.12:

@@ -1,19 +1,16 @@
 #imported from EU4 file: history/provinces/982 - Unamakik.txt
 2.1.1:
-  pops:
-    - religion: iroquoian_totemism
-      estate: peasant
-      size: 1000
+  pops: 
+    mikmaq_culture-iroquoian_totemism: 1
 1629.1.1:
+  pops: 
+    mikmaq_culture-iroquoian_totemism: 0
+    french-catholic: 1
   owner: FRA
   controller: FRA
   cores:
     FRA: yes
   resource: naval_supplies
-  pops:
-    - religion: catholic
-      estate: peasant
-      size: 1000
 1745.6.16:
   controller: GBR
 1748.10.18:
@@ -21,19 +18,18 @@
 1758.7.26:
   controller: GBR
 1763.2.10:
+  pops: 
+    french-catholic: 0
+    highland-lutheran: 1
   owner: GBR
   controller: GBR
   cores:
     FRA: no
     GBR: yes
-  pops:
-    - religion: lutheran
-      estate: peasant
-      size: 1000
 1790.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    highland-lutheran: 0
+    gaelic_canadian-lutheran: 1
 1867.7.1:
   owner: CAN
   controller: CAN

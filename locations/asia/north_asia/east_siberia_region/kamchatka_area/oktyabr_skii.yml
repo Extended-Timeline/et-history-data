@@ -1,20 +1,17 @@
 #imported from EU4 file: history/provinces/1034 - Kamchatka.txt
 2.1.1:
-  pops:
-    - religion: mari_paganism
-      estate: peasant
-      size: 1000
+  pops: 
+    itelmen_culture-mari_paganism: 1
 1300.1.1:
   cores:
     ???: yes
   resource: fish
 1732.1.1:
+  pops: 
+    itelmen_culture-mari_paganism: 0
+    muscovite-orthodox: 1
   owner: RUS
   controller: RUS
-  pops:
-    - religion: orthodox
-      estate: peasant
-      size: 1000
 1757.1.1:
   cores:
     RUS: yes

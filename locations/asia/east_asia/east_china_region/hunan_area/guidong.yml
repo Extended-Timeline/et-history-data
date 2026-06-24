@@ -1,15 +1,13 @@
 #imported from EU4 file: history/provinces/2174 - Hengyang.txt
 2.1.1:
+  pops: 
+    hmong_culture-bimoism: 1
   owner: HAN0
   controller: HAN0
   cores:
     HAN0: yes
     WUU: yes
   resource: gold
-  pops:
-    - religion: bimoism
-      estate: peasant
-      size: 1000
 9.1.10:
   owner: XIN0
   controller: XIN0
@@ -148,9 +146,9 @@
   cores:
     QNG: yes
 1900.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    hmong_culture-bimoism: 0
+    hmong_culture-sanjiao: 1
 1912.2.12:
   owner: CHI
   controller: CHI

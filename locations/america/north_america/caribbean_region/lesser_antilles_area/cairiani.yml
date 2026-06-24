@@ -1,17 +1,14 @@
 #imported from EU4 file: history/provinces/502 - Trinidad.txt
 2.1.1:
-  pops:
-    - religion: muisca_religion
-      estate: peasant
-      size: 1000
+  pops: 
+    guaribes_culture-muisca_religion: 1
 1498.7.31:
+  pops: 
+    guaribes_culture-muisca_religion: 0
+    castilian-catholic: 1
   owner: CAS
   controller: CAS
   resource: sugar
-  pops:
-    - religion: catholic
-      estate: peasant
-      size: 1000
 1516.1.23:
   owner: SPA
   controller: SPA
@@ -21,9 +18,9 @@
 1700.1.1:
   controller: SPA
 1780.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    castilian-catholic: 0
+    iberian_caribbean-catholic: 1
 1797.10.17:
   controller: GBR
 1802.3.25:
@@ -32,13 +29,13 @@
     SPA: no
     GBR: yes
 1850.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    iberian_caribbean-catholic: 0
+    british_caribbean-catholic: 1
 1900.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    british_caribbean-catholic: 0
+    british_caribbean-lutheran: 1
 1962.8.31:
   owner: TRTO
   controller: TRTO

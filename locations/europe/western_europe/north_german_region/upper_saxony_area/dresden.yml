@@ -1,33 +1,30 @@
 #imported from EU4 file: history/provinces/61 - Dresden.txt
 2.1.1:
+  pops: 
+    east_franconian-germanic: 1
   owner: SEMN
   controller: SEMN
   cores:
     SEMN: yes
   resource: iron
-  pops:
-    - religion: germanic_polytheism
-      estate: peasant
-      size: 1000
 280.1.1:
+  pops: 
+    east_franconian-germanic: 0
+    burgundione-germanic: 1
   owner: BUR
   controller: BUR
   cores:
     SEMN: no
     BUR: yes
-  pops:
-    - estate: peasant
-      size: 1000
 395.1.1:
+  pops: 
+    burgundione-germanic: 0
+    sorbian-slavic: 1
   owner: SORB
   controller: SORB
   cores:
     BUR: no
     SORB: yes
-  pops:
-    - religion: slavic_polytheism
-      estate: peasant
-      size: 1000
 932.1.1:
   owner: SAX
   controller: SAX
@@ -41,10 +38,9 @@
     SAX: no
     BRA: yes
 960.1.1:
-  pops:
-    - religion: catholic
-      estate: peasant
-      size: 1000
+  pops: 
+    sorbian-slavic: 0
+    saxon-catholic: 1
 965.5.20:
   owner: MEI
   controller: MEI
@@ -58,9 +54,9 @@
     MEI: no
     SAX: yes
 1531.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    saxon-catholic: 0
+    saxon-lutheran: 1
 1871.1.18:
   owner: GER
   controller: GER
@@ -75,9 +71,9 @@
   cores:
     EGER: yes
 1965.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    saxon-lutheran: 0
+    saxon-irreligious: 1
 1990.10.3:
   owner: GER
   controller: GER

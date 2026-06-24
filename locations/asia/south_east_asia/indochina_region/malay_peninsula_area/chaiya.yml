@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/2390 - Chaiya.txt
 2.1.1:
+  pops: 
+    malay_culture-mahayana: 1
   owner: LGK
   controller: LGK
   cores:
     LGK: yes
   resource: fish
-  pops:
-    - religion: mahayana
-      estate: peasant
-      size: 1000
 150.1.1:
   owner: FUNA
   controller: FUNA
@@ -30,9 +28,9 @@
   cores:
     SUK: yes
 1300.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    malay_culture-mahayana: 0
+    thai_culture-mahayana: 1
 1350.1.1:
   cores:
     SUK: no

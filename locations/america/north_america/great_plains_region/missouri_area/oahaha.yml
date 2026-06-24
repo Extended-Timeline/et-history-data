@@ -1,28 +1,25 @@
 #imported from EU4 file: history/provinces/900 - Tamaroa.txt
 2.1.1:
-  pops:
-    - religion: iroquoian_totemism
-      estate: peasant
-      size: 1000
+  pops: 
+    cahokia_culture-iroquoian_totemism: 1
 1721.1.1:
+  pops: 
+    cahokia_culture-iroquoian_totemism: 0
+    french-catholic: 1
   owner: FRA
   controller: FRA
   cores:
     FRA: yes
   resource: grain
-  pops:
-    - religion: catholic
-      estate: peasant
-      size: 1000
 1762.1.1:
   owner: SPA
   controller: SPA
   cores:
     FRA: no
 1770.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    french-catholic: 0
+    french_louisianan-catholic: 1
 1787.1.1:
   cores:
     SPA: yes
@@ -33,12 +30,11 @@
     SPA: no
     FRA: yes
 1803.4.3:
+  pops: 
+    french_louisianan-catholic: 0
+    american-lutheran: 1
   owner: USA
   controller: USA
   cores:
     FRA: no
     USA: yes
-  pops:
-    - religion: lutheran
-      estate: peasant
-      size: 1000

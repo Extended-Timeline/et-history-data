@@ -1,28 +1,25 @@
 #imported from EU4 file: history/provinces/255 - Kalisz.txt
 2.1.1:
+  pops: 
+    vandal-germanic: 1
   owner: VAND
   controller: VAND
   cores:
     VAND: yes
   resource: cloth
-  pops:
-    - religion: germanic_polytheism
-      estate: peasant
-      size: 1000
 395.1.1:
+  pops: 
+    vandal-germanic: 0
+    lesser_polish-slavic: 1
   owner: POL
   controller: POL
   cores:
     VAND: no
     POL: yes
-  pops:
-    - religion: slavic_polytheism
-      estate: peasant
-      size: 1000
 966.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    lesser_polish-slavic: 0
+    lesser_polish-catholic: 1
 1138.10.28:
   owner: GPOL
   controller: GPOL

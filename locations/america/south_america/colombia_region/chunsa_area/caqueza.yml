@@ -1,27 +1,24 @@
 #imported from EU4 file: history/provinces/825 - Bogota.txt
 2.1.1:
+  pops: 
+    muisca_culture-muisca_religion: 1
   owner: ZIP
   controller: ZIP
   cores:
     ZIP: yes
   resource: gems
-  pops:
-    - religion: muisca_religion
-      estate: peasant
-      size: 1000
 1538.9.6:
+  pops: 
+    muisca_culture-muisca_religion: 0
+    castilian-catholic: 1
   owner: SPA
   controller: SPA
   cores:
     SPA: yes
-  pops:
-    - religion: catholic
-      estate: peasant
-      size: 1000
 1770.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    castilian-catholic: 0
+    iberian_colombian-catholic: 1
 1810.7.20:
   owner: COLO
   controller: COLO

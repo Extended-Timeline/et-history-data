@@ -1,18 +1,16 @@
 #imported from EU4 file: history/provinces/2227 - Kunduz.txt
 2.1.1:
+  pops: 
+    bactrian-mahayana: 1
   owner: KUSH
   controller: KUSH
   cores:
     KUSH: yes
   resource: cotton
-  pops:
-    - religion: mahayana
-      estate: peasant
-      size: 1000
 20.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    bactrian-mahayana: 0
+    afghan_culture-mahayana: 1
 230.1.1:
   owner: KSAS
   controller: KSAS
@@ -82,9 +80,9 @@
   cores:
     BUKH: yes
 920.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    afghan_culture-mahayana: 0
+    afghan_culture-sunni: 1
 1002.1.1:
   owner: GHAZ
   controller: GHAZ

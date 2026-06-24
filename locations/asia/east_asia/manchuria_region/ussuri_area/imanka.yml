@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/4655 - Shimilian.txt
 2.1.1:
+  pops: 
+    jurchen_culture-: 1
   owner: YILO
   controller: YILO
   cores:
     YILO: yes
   resource: naval_supplies
-  pops:
-    - religion: 
-      estate: peasant
-      size: 1000
 500.1.1:
   owner: GOGU
   controller: GOGU
@@ -51,13 +49,12 @@
     YUA: no
     ORQ: yes
 1616.1.1:
+  pops: 
+    manchu_new-: 1
   owner: MCH
   controller: MCH
   cores:
     MCH: yes
-  pops:
-    - estate: peasant
-      size: 1000
 1636.5.15:
   owner: QNG
   controller: QNG
@@ -77,10 +74,8 @@
     RUS: no
     SOVI: yes
 1970.1.1:
-  pops:
-    - religion: orthodox
-      estate: peasant
-      size: 1000
+  pops: 
+    muscovite-orthodox: 1
 1991.12.25:
   owner: RUS
   controller: RUS

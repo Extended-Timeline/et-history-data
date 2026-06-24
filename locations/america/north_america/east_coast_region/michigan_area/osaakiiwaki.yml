@@ -1,58 +1,52 @@
 #imported from EU4 file: history/provinces/944 - Potawatomi.txt
 2.1.1:
+  pops: 
+    meskwaki_culture-iroquoian_totemism: 1
   owner: MSK
   controller: MSK
   cores:
     MSK: yes
   resource: fur
-  pops:
-    - religion: iroquoian_totemism
-      estate: peasant
-      size: 1000
 1670.1.1:
+  pops: 
+    meskwaki_culture-iroquoian_totemism: 0
+    onondowaga_culture-iroquoian_totemism: 1
   cores:
     ???: yes
-  pops:
-    - estate: peasant
-      size: 1000
 1701.8.4:
+  pops: 
+    onondowaga_culture-iroquoian_totemism: 0
+    french-catholic: 1
   owner: FRA
   controller: FRA
   cores:
     ???: no
     FRA: yes
-  pops:
-    - religion: catholic
-      estate: peasant
-      size: 1000
 1763.2.10:
+  pops: 
+    french-catholic: 0
+    english-lutheran: 1
   owner: GBR
   controller: GBR
   cores:
     FRA: no
     GBR: yes
-  pops:
-    - religion: lutheran
-      estate: peasant
-      size: 1000
 1783.9.3:
+  pops: 
+    english-lutheran: 0
+    ojibwe_culture-iroquoian_totemism: 1
   owner: BDK
   controller: BDK
   cores:
     GBR: no
     BDK: yes
-  pops:
-    - religion: iroquoian_totemism
-      estate: peasant
-      size: 1000
 1807.11.17:
+  pops: 
+    ojibwe_culture-iroquoian_totemism: 0
+    american-lutheran: 1
   owner: USA
   controller: USA
   cores:
     USA: yes
-  pops:
-    - religion: lutheran
-      estate: peasant
-      size: 1000
 1920.1.1:
   resource: cars

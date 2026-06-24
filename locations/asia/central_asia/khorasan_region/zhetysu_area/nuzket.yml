@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/2126 - Taraz.txt
 2.1.1:
+  pops: 
+    tocharian-: 1
   owner: WUSU
   controller: WUSU
   cores:
     WUSU: yes
   resource: wool
-  pops:
-    - religion: 
-      estate: peasant
-      size: 1000
 495.1.1:
   owner: HEPH
   controller: HEPH
@@ -40,18 +38,16 @@
     TURG: no
     KARL: yes
 840.1.1:
+  pops: 
+    khitan-: 1
   owner: KKHA
   controller: KKHA
   cores:
     KARL: no
     KKHA: yes
-  pops:
-    - estate: peasant
-      size: 1000
 1100.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    khitan-sunni: 1
 1137.1.1:
   owner: KKHI
   controller: KKHI
@@ -59,9 +55,9 @@
     KKHA: no
     KKHI: yes
 1218.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    khitan-sunni: 0
+    kyrgyz_culture-sunni: 1
 1219.1.1:
   owner: MGE
   controller: MGE
@@ -127,9 +123,6 @@
   cores:
     KAZA: no
     KYRG: yes
-  pops:
-    - estate: peasant
-      size: 1000
 1991.8.31:
   owner: KYRG
   controller: KYRG

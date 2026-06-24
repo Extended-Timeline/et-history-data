@@ -1,27 +1,25 @@
 #imported from EU4 file: history/provinces/383 - Tabouk.txt
 2.1.1:
+  pops: 
+    nabataean_culture-nabataean: 1
   owner: NABA
   controller: NABA
   cores:
     NABA: yes
   resource: livestock
-  pops:
-    - religion: nabataean_religion
-      estate: peasant
-      size: 1000
 106.6.1:
+  pops: 
+    nabataean_culture-nabataean: 0
+    najdi_culture-nabataean: 1
   owner: LIHY
   controller: LIHY
   cores:
     NABA: no
     LIHY: yes
-  pops:
-    - estate: peasant
-      size: 1000
 140.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    najdi_culture-nabataean: 0
+    najdi_culture-judaism: 1
 220.1.1:
   owner: GHAS
   controller: GHAS
@@ -29,9 +27,9 @@
     NABA: no
     GHAS: yes
 280.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    najdi_culture-judaism: 0
+    najdi_culture-chalcedonism: 1
 320.1.1:
   owner: GHAT
   controller: GHAT
@@ -45,18 +43,18 @@
     GHAT: no
     RASH: yes
 650.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    najdi_culture-chalcedonism: 0
+    najdi_culture-islam: 1
 661.7.28:
+  pops: 
+    najdi_culture-islam: 0
+    najdi_culture-sunni: 1
   owner: UMAY
   controller: UMAY
   cores:
     RASH: no
     UMAY: yes
-  pops:
-    - estate: peasant
-      size: 1000
 750.8.6:
   owner: ABBA
   controller: ABBA

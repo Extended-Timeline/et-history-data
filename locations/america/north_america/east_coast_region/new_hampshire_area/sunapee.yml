@@ -1,9 +1,7 @@
 #imported from EU4 file: history/provinces/2562 - Pennacook.txt
 2.1.1:
-  pops:
-    - religion: iroquoian_totemism
-      estate: peasant
-      size: 1000
+  pops: 
+    massachusett_culture-iroquoian_totemism: 1
 1638.1.1:
   owner: WMG
   controller: WMG
@@ -16,22 +14,21 @@
   cores:
     WMG: no
 1734.1.1:
+  pops: 
+    massachusett_culture-iroquoian_totemism: 0
+    english-lutheran: 1
   owner: GBR
   controller: GBR
   cores:
     GBR: yes
   resource: naval_supplies
-  pops:
-    - religion: lutheran
-      estate: peasant
-      size: 1000
 1760.1.1:
   cores:
     GBR: yes
 1764.7.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    english-lutheran: 0
+    american-lutheran: 1
 1776.7.4:
   owner: USA
   controller: USA

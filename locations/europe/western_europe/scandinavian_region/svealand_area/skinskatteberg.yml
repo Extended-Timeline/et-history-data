@@ -1,9 +1,7 @@
 #imported from EU4 file: history/provinces/4 - Bergslagen.txt
 2.1.1:
-  pops:
-    - religion: norse
-      estate: peasant
-      size: 1000
+  pops: 
+    swedish-norse: 1
 350.1.1:
   owner: SVEA
   controller: SVEA
@@ -17,9 +15,9 @@
     SVEA: no
     SWE: yes
 1000.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    swedish-norse: 0
+    swedish-catholic: 1
 1436.4.27:
   controller: SWE
 1438.3.1:
@@ -37,6 +35,3 @@
 1503.6.1:
   controller: SWE
 1527.6.1:
-  pops:
-    - estate: peasant
-      size: 1000

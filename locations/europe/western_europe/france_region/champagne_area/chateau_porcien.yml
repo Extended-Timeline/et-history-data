@@ -1,24 +1,22 @@
 #imported from EU4 file: history/provinces/181 - Valenciennes.txt
 2.1.1:
+  pops: 
+    gallian-druidism: 1
   owner: ROM
   controller: ROM
   cores:
     ROM: yes
   resource: cloth
-  pops:
-    - religion: druidism
-      estate: peasant
-      size: 1000
 260.1.1:
   cores:
     GALL: yes
 274.1.1:
+  pops: 
+    gallian-druidism: 0
+    frankish-druidism: 1
   controller: ROM
   cores:
     GALL: no
-  pops:
-    - estate: peasant
-      size: 1000
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -26,9 +24,9 @@
     ROM: no
     ROMW: yes
 420.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    frankish-druidism: 0
+    frankish-chalcedonism: 1
 461.11.1:
   owner: SOIS
   controller: SOIS
@@ -38,14 +36,14 @@
   cores:
     ROMW: no
 486.6.1:
+  pops: 
+    frankish-chalcedonism: 0
+    walloon-chalcedonism: 1
   owner: FRAN
   controller: FRAN
   cores:
     SOIS: no
     FRAN: yes
-  pops:
-    - estate: peasant
-      size: 1000
 511.11.27:
   owner: SOIS
   controller: SOIS
@@ -86,9 +84,9 @@
     FRAN: no
     WFRA: yes
 867.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    walloon-chalcedonism: 0
+    walloon-catholic: 1
 987.7.3:
   owner: FRA
   controller: FRA
@@ -146,9 +144,9 @@
 1636.10.10:
   controller: FRA
 1684.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    walloon-catholic: 0
+    french-catholic: 1
 1870.9.4:
   owner: FRA
   controller: PRU

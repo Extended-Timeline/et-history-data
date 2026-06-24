@@ -1,32 +1,30 @@
 #imported from EU4 file: history/provinces/4478 - Haibitnagar.txt
 2.1.1:
+  pops: 
+    khasi_culture-bimoism: 1
   owner: JNT
   controller: JNT
   cores:
     JNT: yes
   resource: cotton
-  pops:
-    - religion: bimoism
-      estate: peasant
-      size: 1000
 600.1.1:
+  pops: 
+    khasi_culture-bimoism: 0
+    khasi_culture-hindu: 1
   owner: LUR
   controller: LUR
   cores:
     JNT: no
     LUR: yes
-  pops:
-    - estate: peasant
-      size: 1000
 810.1.1:
   owner: PALA
   controller: PALA
   cores:
     PALA: yes
 900.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    khasi_culture-hindu: 0
+    bengali-hindu: 1
 950.1.1:
   owner: VANG
   controller: VANG
@@ -46,9 +44,6 @@
     SAMT: no
     GOUR: yes
 1180.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
 1303.1.1:
   owner: BNG
   controller: BNG
@@ -82,9 +77,9 @@
   cores:
     GBR: yes
 1840.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    bengali-hindu: 0
+    bengali-sunni: 1
 1930.12.29:
   cores:
     BNG: no

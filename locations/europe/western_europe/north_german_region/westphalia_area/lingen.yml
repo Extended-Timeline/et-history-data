@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/56 - Osnabruck.txt
 2.1.1:
+  pops: 
+    frankish-germanic: 1
   owner: SICA
   controller: SICA
   cores:
     SICA: yes
   resource: salt
-  pops:
-    - religion: germanic_polytheism
-      estate: peasant
-      size: 1000
 39.1.1:
   owner: CHMV
   controller: CHMV
@@ -21,9 +19,9 @@
   cores:
     FRAN: yes
 500.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    frankish-germanic: 0
+    eastphalian-germanic: 1
 511.11.27:
   owner: ASTS
   controller: ASTS
@@ -67,9 +65,9 @@
     FRAN: no
     EFRA: yes
 900.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    eastphalian-germanic: 0
+    eastphalian-catholic: 1
 911.11.10:
   owner: SAX
   controller: SAX

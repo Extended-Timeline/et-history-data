@@ -1,9 +1,7 @@
 #imported from EU4 file: history/provinces/611 - Thakhek.txt
 2.1.1:
-  pops:
-    - religion: bimoism
-      estate: peasant
-      size: 1000
+  pops: 
+    bru_culture-bimoism: 1
 550.1.1:
   owner: SGOT
   controller: SGOT
@@ -16,10 +14,9 @@
   cores:
     CAMB: yes
 950.1.1:
-  pops:
-    - religion: satsana_phi
-      estate: peasant
-      size: 1000
+  pops: 
+    bru_culture-bimoism: 0
+    lao_culture-satsana_phi: 1
 1050.1.1:
   owner: SGOT
   controller: SGOT
@@ -43,9 +40,9 @@
   cores:
     LAXA: yes
 1510.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    lao_culture-satsana_phi: 0
+    lao_culture-theravada: 1
 1707.1.1:
   owner: VTN
   controller: VTN

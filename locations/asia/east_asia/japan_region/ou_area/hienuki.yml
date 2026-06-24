@@ -1,23 +1,21 @@
 #imported from EU4 file: history/provinces/4131 - Nanbu.txt
 2.1.1:
+  pops: 
+    ainu_culture-mari_paganism: 1
   owner: ANU
   controller: ANU
   cores:
     ANU: yes
   resource: livestock
-  pops:
-    - religion: mari_paganism
-      estate: peasant
-      size: 1000
 650.1.1:
+  pops: 
+    ainu_culture-mari_paganism: 0
+    emishi-mari_paganism: 1
   owner: EMIS
   controller: EMIS
   cores:
     ANU: no
     EMIS: yes
-  pops:
-    - estate: peasant
-      size: 1000
 802.1.1:
   owner: JAP
   controller: JAP
@@ -25,9 +23,9 @@
     EMIS: no
     JAP: yes
 820.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    emishi-mari_paganism: 0
+    emishi-shinto: 1
 940.1.1:
   owner: ABE0
   controller: ABE0
@@ -35,9 +33,9 @@
     JAP: no
     ABE0: yes
 1050.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    emishi-shinto: 0
+    saigoku_culture-shinto: 1
 1062.10.22:
   owner: KIYO
   controller: KIYO

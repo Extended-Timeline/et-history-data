@@ -1,32 +1,29 @@
 #imported from EU4 file: history/provinces/2192 - Korla.txt
 2.1.1:
+  pops: 
+    tocharian-: 1
   owner: KARA
   controller: KARA
   cores:
     KARA: yes
   resource: grain
-  pops:
-    - religion: 
-      estate: peasant
-      size: 1000
 180.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    tocharian-mahayana: 1
 439.1.1:
   owner: TUYU
   controller: TUYU
   cores:
     TUYU: yes
 460.1.1:
+  pops: 
+    tocharian-mahayana: 0
+    uyghur_culture-mahayana: 1
   owner: KARA
   controller: KARA
   cores:
     TUYU: no
     KARA: yes
-  pops:
-    - estate: peasant
-      size: 1000
 650.1.1:
   owner: TANG
   controller: TANG
@@ -39,9 +36,9 @@
     TANG: no
     TIB: yes
 680.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    uyghur_culture-mahayana: 0
+    uyghur_culture-manichaeism: 1
 692.1.1:
   owner: TANG
   controller: TANG
@@ -67,9 +64,9 @@
     UTSA: no
     UYGH: yes
 880.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    uyghur_culture-manichaeism: 0
+    uyghur_culture-tibetan_buddhism: 1
 1209.1.1:
   owner: MGE
   controller: MGE
@@ -110,9 +107,9 @@
   cores:
     QNG: yes
 1820.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    uyghur_culture-tibetan_buddhism: 0
+    uyghur_culture-sunni: 1
 1850.1.1:
   cores:
     OIR: no

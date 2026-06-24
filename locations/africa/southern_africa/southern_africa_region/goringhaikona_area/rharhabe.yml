@@ -1,20 +1,17 @@
 #imported from EU4 file: history/provinces/833 - Graaff-Reinet.txt
 2.1.1:
-  pops:
-    - religion: bantu_religion
-      estate: peasant
-      size: 1000
+  pops: 
+    xam_culture-bantu_religion: 1
 400.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    xam_culture-bantu_religion: 0
+    nguni_culture-bantu_religion: 1
 1786.7.19:
+  pops: 
+    nguni_culture-bantu_religion: 0
+    low_franconian-calvinist: 1
   owner: NED
   controller: NED
-  pops:
-    - religion: calvinist
-      estate: peasant
-      size: 1000
 1794.1.1:
   controller: NED
 1795.2.1:

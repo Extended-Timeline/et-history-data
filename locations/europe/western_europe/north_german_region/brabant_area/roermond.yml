@@ -1,27 +1,25 @@
 #imported from EU4 file: history/provinces/1742 - Limburg.txt
 2.1.1:
+  pops: 
+    frankish-germanic: 1
   owner: ROM
   controller: ROM
   cores:
     ROM: yes
   resource: cloth
-  pops:
-    - religion: germanic_polytheism
-      estate: peasant
-      size: 1000
 260.1.1:
+  pops: 
+    frankish-germanic: 0
+    gallian-germanic: 1
   cores:
     GALL: yes
-  pops:
-    - estate: peasant
-      size: 1000
 274.1.1:
+  pops: 
+    gallian-germanic: 0
+    frankish-germanic: 1
   controller: ROM
   cores:
     GALL: no
-  pops:
-    - estate: peasant
-      size: 1000
 358.1.1:
   owner: FRAN
   controller: FRAN
@@ -29,9 +27,9 @@
     ROM: no
     FRAN: yes
 360.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    frankish-germanic: 0
+    frankish-chalcedonism: 1
 511.11.27:
   owner: SOIS
   controller: SOIS
@@ -63,9 +61,9 @@
   owner: FRAN
   controller: FRAN
 700.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    frankish-chalcedonism: 0
+    flemish-chalcedonism: 1
 840.6.21:
   owner: MFRA
   controller: MFRA
@@ -79,9 +77,9 @@
     MFRA: no
     LOT: yes
 867.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    flemish-chalcedonism: 0
+    flemish-catholic: 1
 870.8.8:
   owner: EFRA
   controller: EFRA

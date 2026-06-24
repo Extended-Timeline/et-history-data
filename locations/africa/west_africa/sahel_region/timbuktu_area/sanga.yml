@@ -1,9 +1,7 @@
 #imported from EU4 file: history/provinces/2261 - Kala.txt
 2.1.1:
-  pops:
-    - religion: bantu_religion
-      estate: peasant
-      size: 1000
+  pops: 
+    bozo-bantu_religion: 1
 350.1.1:
   owner: JENN
   controller: JENN
@@ -63,9 +61,9 @@
     SEGU: yes
   resource: grain
 1870.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    bozo-bantu_religion: 0
+    bozo-sunni: 1
 1890.1.1:
   owner: FRA
   controller: FRA

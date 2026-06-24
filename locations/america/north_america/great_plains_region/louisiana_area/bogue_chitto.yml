@@ -1,31 +1,28 @@
 #imported from EU4 file: history/provinces/921 - Bayougoula.txt
 2.1.1:
-  pops:
-    - religion: iroquoian_totemism
-      estate: peasant
-      size: 1000
+  pops: 
+    natchez_culture-iroquoian_totemism: 1
 1719.1.1:
+  pops: 
+    natchez_culture-iroquoian_totemism: 0
+    french-catholic: 1
   owner: FRA
   controller: FRA
   cores:
     FRA: yes
   resource: cotton
-  pops:
-    - religion: catholic
-      estate: peasant
-      size: 1000
 1763.2.10:
+  pops: 
+    french-catholic: 0
+    french-lutheran: 1
   owner: GBR
   controller: GBR
   cores:
     FRA: no
-  pops:
-    - estate: peasant
-      size: 1000
 1770.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    french-lutheran: 0
+    french_louisianan-lutheran: 1
 1783.9.3:
   owner: SPA
   controller: SPA
@@ -55,6 +52,3 @@
   cores:
     CSAM: no
 1890.1.1:
-  pops:
-    - estate: peasant
-      size: 1000

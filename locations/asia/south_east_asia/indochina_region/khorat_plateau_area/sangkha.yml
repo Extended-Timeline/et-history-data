@@ -1,18 +1,16 @@
 #imported from EU4 file: history/provinces/2383 - Khukhan.txt
 2.1.1:
+  pops: 
+    bru_culture-bimoism: 1
   owner: KUY
   controller: KUY
   cores:
     KUY: yes
   resource: grain
-  pops:
-    - religion: bimoism
-      estate: peasant
-      size: 1000
 400.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    bru_culture-bimoism: 0
+    khmer_culture-bimoism: 1
 450.1.1:
   owner: CHEN
   controller: CHEN
@@ -20,9 +18,9 @@
     KUY: no
     CHEN: yes
 550.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    khmer_culture-bimoism: 0
+    khmer_culture-mahayana: 1
 707.2.6:
   owner: LCHE
   controller: LCHE
@@ -36,9 +34,9 @@
     LCHE: no
     CAMB: yes
 1295.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    khmer_culture-mahayana: 0
+    khmer_culture-theravada: 1
 1420.1.1:
   owner: LAXA
   controller: LAXA
@@ -46,9 +44,9 @@
     CAMB: no
     LAXA: yes
 1490.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    khmer_culture-theravada: 0
+    lao_culture-theravada: 1
 1707.1.1:
   owner: VTN
   controller: VTN

@@ -1,18 +1,15 @@
 #imported from EU4 file: history/provinces/716 - Tannu Tuva.txt
 2.1.1:
+  pops: 
+    kyrgyz_culture-: 1
   owner: YKYR
   controller: YKYR
   cores:
     YKYR: yes
   resource: fur
-  pops:
-    - religion: 
-      estate: peasant
-      size: 1000
 750.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    tuvan_culture-: 1
 848.1.1:
   owner: TUVA
   controller: TUVA
@@ -48,9 +45,8 @@
   cores:
     MGE: yes
 1586.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    tuvan_culture-tibetan_buddhism: 1
 1623.1.1:
   owner: OIR
   controller: OIR

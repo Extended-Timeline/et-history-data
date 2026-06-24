@@ -1,18 +1,16 @@
 #imported from EU4 file: history/provinces/2990 - Teruel.txt
 2.1.1:
+  pops: 
+    iberi-bimoism: 1
   owner: ROM
   controller: ROM
   cores:
     ROM: yes
   resource: cloth
-  pops:
-    - religion: bimoism
-      estate: peasant
-      size: 1000
 380.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    iberi-bimoism: 0
+    iberi-chalcedonism: 1
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -38,18 +36,18 @@
   owner: ROMW
   controller: ROMW
 460.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    iberi-chalcedonism: 0
+    iberi-arianism: 1
 461.8.2:
   owner: VISG
   controller: VISG
   cores:
     ROMW: no
 560.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    iberi-arianism: 0
+    iberi-chalcedonism: 1
 711.1.1:
   owner: UMAY
   controller: UMAY
@@ -63,17 +61,17 @@
     UMAY: no
     CRDB: yes
 867.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    iberi-chalcedonism: 0
+    iberi-catholic: 1
 880.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    iberi-catholic: 0
+    iberi-sunni: 1
 900.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    iberi-sunni: 0
+    andalusi-sunni: 1
 1013.1.1:
   owner: ZARA
   controller: ZARA
@@ -86,19 +84,19 @@
   cores:
     MOR: yes
 1118.12.18:
+  pops: 
+    andalusi-sunni: 0
+    aragonese-sunni: 1
   owner: ARA
   controller: ARA
   cores:
     ZARA: no
     MOR: no
     ARA: yes
-  pops:
-    - estate: peasant
-      size: 1000
 1140.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    aragonese-sunni: 0
+    aragonese-catholic: 1
 1516.1.23:
   owner: SPA
   controller: SPA

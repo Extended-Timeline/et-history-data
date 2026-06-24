@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/406 - As Sahiliyah.txt
 2.1.1:
+  pops: 
+    assyrian-ashurism: 1
   owner: PART
   controller: PART
   cores:
     PART: yes
   resource: livestock
-  pops:
-    - religion: ashurism
-      estate: peasant
-      size: 1000
 116.1.1:
   owner: ROM
   controller: ROM
@@ -30,13 +28,13 @@
     PART: no
     ERA: yes
 230.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    assyrian-ashurism: 0
+    assyrian-chalcedonism: 1
 431.7.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    assyrian-chalcedonism: 0
+    assyrian-nestorianism: 1
 634.1.1:
   owner: RASH
   controller: RASH
@@ -56,9 +54,9 @@
     UMAY: no
     ABBA: yes
 780.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    assyrian-nestorianism: 0
+    assyrian-sunni: 1
 942.1.1:
   owner: MOSU
   controller: MOSU
@@ -115,9 +113,9 @@
     MGE: no
     ILK: yes
 1300.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    assyrian-sunni: 0
+    iraqi_culture-sunni: 1
 1335.1.1:
   owner: JAL
   controller: JAL

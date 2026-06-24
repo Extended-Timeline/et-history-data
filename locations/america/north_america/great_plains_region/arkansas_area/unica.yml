@@ -1,20 +1,17 @@
 #imported from EU4 file: history/provinces/2515 - Satuskhdin.txt
 2.1.1:
-  pops:
-    - religion: iroquoian_totemism
-      estate: peasant
-      size: 1000
+  pops: 
+    tunica_culture-iroquoian_totemism: 1
 1808.11.10:
+  pops: 
+    tunica_culture-iroquoian_totemism: 0
+    british_louisianan-lutheran: 1
   owner: USA
   controller: USA
   cores:
     WZZ: no
     USA: yes
   resource: cotton
-  pops:
-    - religion: lutheran
-      estate: peasant
-      size: 1000
 1861.5.6:
   owner: CSAM
   controller: CSAM

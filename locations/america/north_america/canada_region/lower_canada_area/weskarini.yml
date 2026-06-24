@@ -1,27 +1,24 @@
 #imported from EU4 file: history/provinces/992 - Algonquin.txt
 2.1.1:
+  pops: 
+    weskarini_culture-iroquoian_totemism: 1
   owner: ALGO
   controller: ALGO
   cores:
     ALGO: yes
   resource: fur
-  pops:
-    - religion: iroquoian_totemism
-      estate: peasant
-      size: 1000
 1784.1.1:
+  pops: 
+    weskarini_culture-iroquoian_totemism: 0
+    french-catholic: 1
   owner: GBR
   controller: GBR
   cores:
     GBR: yes
-  pops:
-    - religion: catholic
-      estate: peasant
-      size: 1000
 1790.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    french-catholic: 0
+    french_canadian-catholic: 1
 1867.7.1:
   owner: CAN
   controller: CAN

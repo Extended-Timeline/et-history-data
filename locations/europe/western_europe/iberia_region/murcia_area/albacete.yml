@@ -1,18 +1,16 @@
 #imported from EU4 file: history/provinces/4547 - Albacete.txt
 2.1.1:
+  pops: 
+    iberi-bimoism: 1
   owner: ROM
   controller: ROM
   cores:
     ROM: yes
   resource: grain
-  pops:
-    - religion: bimoism
-      estate: peasant
-      size: 1000
 360.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    iberi-bimoism: 0
+    iberi-chalcedonism: 1
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -20,13 +18,13 @@
     ROM: no
     ROMW: yes
 448.1.1:
+  pops: 
+    iberi-chalcedonism: 0
+    iberi-arianism: 1
   owner: SUEB
   controller: SUEB
   cores:
     SUEB: yes
-  pops:
-    - estate: peasant
-      size: 1000
 453.1.1:
   owner: ROMW
   controller: ROMW
@@ -47,9 +45,9 @@
   cores:
     ROMW: no
 580.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    iberi-arianism: 0
+    iberi-chalcedonism: 1
 711.1.1:
   owner: UMAY
   controller: UMAY
@@ -63,13 +61,13 @@
     UMAY: no
     CRDB: yes
 790.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    iberi-chalcedonism: 0
+    iberi-sunni: 1
 800.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    iberi-sunni: 0
+    andalusi-sunni: 1
 1010.1.1:
   owner: DENI
   controller: DENI
@@ -111,20 +109,20 @@
   cores:
     CAS: yes
 1300.1.1:
+  pops: 
+    andalusi-sunni: 0
+    andalusi-catholic: 1
   cores:
     GRA: no
-  pops:
-    - estate: peasant
-      size: 1000
 1516.1.23:
   owner: SPA
   controller: SPA
   cores:
     SPA: yes
 1566.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    andalusi-catholic: 0
+    castilian-catholic: 1
 1713.4.11:
   cores:
     CAS: no

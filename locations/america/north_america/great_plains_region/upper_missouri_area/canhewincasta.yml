@@ -1,16 +1,13 @@
 #imported from EU4 file: history/provinces/2598 - Hebina.txt
 2.1.1:
-  pops:
-    - religion: iroquoian_totemism
-      estate: peasant
-      size: 1000
+  pops: 
+    siksika_culture-iroquoian_totemism: 1
 1882.1.1:
+  pops: 
+    siksika_culture-iroquoian_totemism: 0
+    british_canadian-lutheran: 1
   owner: CAN
   controller: CAN
   cores:
     CAN: yes
   resource: grain
-  pops:
-    - religion: lutheran
-      estate: peasant
-      size: 1000

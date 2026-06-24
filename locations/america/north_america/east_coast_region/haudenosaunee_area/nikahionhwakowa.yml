@@ -1,41 +1,37 @@
 #imported from EU4 file: history/provinces/4912 - Kaniatarowanen.txt
 2.1.1:
-  pops:
-    - religion: iroquoian_totemism
-      estate: peasant
-      size: 1000
+  pops: 
+    stadaconan_culture-iroquoian_totemism: 1
 1650.1.1:
+  pops: 
+    stadaconan_culture-iroquoian_totemism: 0
+    onondowaga_culture-iroquoian_totemism: 1
   owner: KKA
   controller: KKA
   cores:
     KKA: yes
   resource: fur
-  pops:
-    - estate: peasant
-      size: 1000
 1749.1.1:
+  pops: 
+    onondowaga_culture-iroquoian_totemism: 0
+    french-catholic: 1
   owner: FRA
   controller: FRA
   cores:
     FRA: yes
-  pops:
-    - religion: catholic
-      estate: peasant
-      size: 1000
 1763.2.10:
+  pops: 
+    french-catholic: 0
+    english-lutheran: 1
   owner: GBR
   controller: GBR
   cores:
     FRA: no
     GBR: yes
-  pops:
-    - religion: lutheran
-      estate: peasant
-      size: 1000
 1775.5.10:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    english-lutheran: 0
+    american-lutheran: 1
 1776.7.4:
   owner: USA
   controller: USA

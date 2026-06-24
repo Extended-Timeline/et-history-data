@@ -1,15 +1,13 @@
 #imported from EU4 file: history/provinces/1992 - Nauru.txt
 2.1.1:
-  pops:
-    - religion: bimoism
-      estate: peasant
-      size: 1000
+  pops: 
+    kajoor_ri_majel_culture-bimoism: 1
 1888.10.1:
+  pops: 
+    kajoor_ri_majel_culture-bimoism: 0
+    kajoor_ri_majel_culture-lutheran: 1
   owner: GER
   controller: GER
-  pops:
-    - estate: peasant
-      size: 1000
 1900.1.1:
   resource: fish
 1914.9.1:

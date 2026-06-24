@@ -1,18 +1,16 @@
 #imported from EU4 file: history/provinces/2713 - Gorotalo.txt
 2.1.1:
-  pops:
-    - religion: bimoism
-      estate: peasant
-      size: 1000
+  pops: 
+    cebuano_culture-bimoism: 1
 1580.1.1:
+  pops: 
+    cebuano_culture-bimoism: 0
+    cebuano_culture-sunni: 1
   owner: TER
   controller: TER
   cores:
     TER: yes
   resource: tropical_wood
-  pops:
-    - estate: peasant
-      size: 1000
 1683.1.1:
   owner: NED
   controller: NED

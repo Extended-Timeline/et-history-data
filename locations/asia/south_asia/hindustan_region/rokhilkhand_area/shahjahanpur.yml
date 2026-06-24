@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/4499 - Bareily.txt
 2.1.1:
+  pops: 
+    kannauji-jain: 1
   owner: PANC
   controller: PANC
   cores:
     PANC: yes
   resource: cotton
-  pops:
-    - religion: jain
-      estate: peasant
-      size: 1000
 120.1.1:
   owner: KUSH
   controller: KUSH
@@ -28,9 +26,9 @@
     PANC: no
     GUPT: yes
 440.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    kannauji-jain: 0
+    kannauji-hindu: 1
 540.1.1:
   owner: KANN
   controller: KANN
@@ -64,13 +62,13 @@
     KANN: no
     TOMA: yes
 800.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    kannauji-hindu: 0
+    kannauji-mahayana: 1
 890.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    kannauji-mahayana: 0
+    kannauji-hindu: 1
 1068.1.1:
   owner: GAHA
   controller: GAHA

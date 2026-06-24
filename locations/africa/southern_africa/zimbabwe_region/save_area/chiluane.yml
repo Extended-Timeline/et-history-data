@@ -1,13 +1,11 @@
 #imported from EU4 file: history/provinces/2952 - Uteve.txt
 2.1.1:
-  pops:
-    - religion: bantu_religion
-      estate: peasant
-      size: 1000
+  pops: 
+    kung_culture-bantu_religion: 1
 100.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    kung_culture-bantu_religion: 0
+    shona_culture-bantu_religion: 1
 1220.1.1:
   owner: MADN
   controller: MADN
@@ -33,9 +31,9 @@
 1760.1.1:
   resource: slaves
 1850.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    shona_culture-bantu_religion: 0
+    shona_culture-lutheran: 1
 1900.1.1:
   resource: ivory
 1975.6.25:

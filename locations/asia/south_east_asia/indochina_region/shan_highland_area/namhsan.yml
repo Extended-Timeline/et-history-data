@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/2400 - Hsipaw.txt
 2.1.1:
+  pops: 
+    tai_lu_culture-satsana_phi: 1
   owner: SHA
   controller: SHA
   cores:
     SHA: yes
   resource: grain
-  pops:
-    - religion: satsana_phi
-      estate: peasant
-      size: 1000
 620.1.1:
   owner: HSI
   controller: HSI
@@ -16,9 +14,9 @@
     SHA: no
     HSI: yes
 1050.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    tai_lu_culture-satsana_phi: 0
+    tai_lu_culture-theravada: 1
 1527.1.1:
   owner: SHA
   controller: SHA

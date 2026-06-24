@@ -1,18 +1,15 @@
 #imported from EU4 file: history/provinces/370 - Reykjavik.txt
 2.1.1:
-  pops:
-    - religion: mari_paganism
-      estate: peasant
-      size: 1000
+  pops: 
+    uninhabited-mari_paganism: 1
 874.1.1:
+  pops: 
+    uninhabited-mari_paganism: 0
+    icelandic-norse: 1
   owner: NOR
   controller: NOR
   cores:
     NOR: yes
-  pops:
-    - religion: norse
-      estate: peasant
-      size: 1000
 900.1.1:
   resource: fish
 930.1.1:
@@ -22,22 +19,22 @@
     NOR: no
     ICE: yes
 999.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    icelandic-norse: 0
+    icelandic-catholic: 1
 1262.1.1:
   owner: NOR
   controller: NOR
   cores:
     NOR: yes
 1536.1.1:
+  pops: 
+    icelandic-catholic: 0
+    icelandic-lutheran: 1
   owner: DAN
   controller: DAN
   cores:
     DAN: yes
-  pops:
-    - estate: peasant
-      size: 1000
 1752.1.1:
   resource: wool
 1918.12.1:

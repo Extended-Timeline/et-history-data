@@ -1,18 +1,16 @@
 #imported from EU4 file: history/provinces/4560 - Ibiza.txt
 2.1.1:
+  pops: 
+    punic-bimoism: 1
   owner: ROM
   controller: ROM
   cores:
     ROM: yes
   resource: fish
-  pops:
-    - religion: bimoism
-      estate: peasant
-      size: 1000
 100.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    punic-bimoism: 0
+    iberi-bimoism: 1
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -20,9 +18,9 @@
     ROM: no
     ROMW: yes
 400.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    iberi-bimoism: 0
+    iberi-chalcedonism: 1
 450.1.1:
   owner: VAND
   controller: VAND
@@ -48,10 +46,9 @@
     UMAY: no
     CRDB: yes
 800.1.1:
-  pops:
-    - religion: sunni
-      estate: peasant
-      size: 1000
+  pops: 
+    iberi-chalcedonism: 0
+    andalusi-sunni: 1
 1011.1.1:
   owner: DENI
   controller: DENI
@@ -94,10 +91,9 @@
     MLL: yes
     ARA: yes
 1250.1.1:
-  pops:
-    - religion: catholic
-      estate: peasant
-      size: 1000
+  pops: 
+    andalusi-sunni: 0
+    catalan-catholic: 1
 1286.1.1:
   owner: ARA
   controller: ARA

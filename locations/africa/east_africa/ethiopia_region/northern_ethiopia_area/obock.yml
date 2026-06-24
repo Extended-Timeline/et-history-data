@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/1215 - Djibouti.txt
 2.1.1:
+  pops: 
+    afar_culture-bantu_religion: 1
   owner: AVAL
   controller: AVAL
   cores:
     AVAL: yes
   resource: livestock
-  pops:
-    - religion: bantu_religion
-      estate: peasant
-      size: 1000
 220.1.1:
   owner: AKSM
   controller: AKSM
@@ -27,9 +25,9 @@
     AFAR: no
     ADA: yes
 1150.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    afar_culture-bantu_religion: 0
+    afar_culture-sunni: 1
 1185.1.1:
   owner: IFA
   controller: IFA
@@ -69,9 +67,9 @@
   cores:
     VFRA: no
 1950.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    afar_culture-sunni: 0
+    somali_culture-sunni: 1
 1977.6.27:
   owner: DJIB
   controller: DJIB

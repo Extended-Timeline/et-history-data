@@ -1,29 +1,25 @@
 #imported from EU4 file: history/provinces/2409 - Bahmut.txt
 2.1.1:
+  pops: 
+    sarmatian-: 1
   owner: SARM
   controller: SARM
   cores:
     SARM: yes
   resource: iron
-  pops:
-    - religion: 
-      estate: peasant
-      size: 1000
 370.1.1:
+  pops: 
+    hunnic-: 1
   owner: HUNS
   controller: HUNS
   cores:
     SARM: no
     HUNS: yes
-  pops:
-    - estate: peasant
-      size: 1000
 420.1.1:
+  pops: 
+    bolghar_culture-: 1
   cores:
     ONOG: yes
-  pops:
-    - estate: peasant
-      size: 1000
 469.1.1:
   owner: ONOG
   controller: ONOG
@@ -36,55 +32,50 @@
     ONOG: no
     BUL: yes
 720.1.1:
+  pops: 
+    hungarian-: 1
   owner: HUN
   controller: HUN
   cores:
     BUL: no
     HUN: yes
-  pops:
-    - estate: peasant
-      size: 1000
 840.1.1:
+  pops: 
+    khazar-: 1
   owner: KHAZ
   controller: KHAZ
   cores:
     HUN: no
     KHAZ: yes
-  pops:
-    - estate: peasant
-      size: 1000
 969.1.1:
+  pops: 
+    pecheneg-: 1
   owner: PECH
   controller: PECH
   cores:
     KHAZ: no
     PECH: yes
-  pops:
-    - estate: peasant
-      size: 1000
 1060.1.1:
+  pops: 
+    cuman_culture-: 1
   owner: CUMA
   controller: CUMA
   cores:
     PECH: no
     CUMA: yes
-  pops:
-    - estate: peasant
-      size: 1000
 1230.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    cuman_culture-sunni: 1
 1241.1.1:
+  pops: 
+    cuman_culture-sunni: 0
+    mishar-sunni: 1
   owner: MGE
   controller: MGE
   cores:
     CUMA: no
     MGE: yes
     ZAZ: yes
-  pops:
-    - estate: peasant
-      size: 1000
 1260.1.1:
   owner: WHHO
   controller: WHHO
@@ -132,9 +123,9 @@
   cores:
     CRI: no
 1880.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    mishar-sunni: 0
+    mishar-orthodox: 1
 1918.1.22:
   owner: UKR
   controller: UKR
@@ -154,9 +145,9 @@
 1943.2.14:
   controller: SOVI
 1980.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    mishar-orthodox: 0
+    muscovite-orthodox: 1
 1991.8.24:
   owner: UKR
   controller: UKR

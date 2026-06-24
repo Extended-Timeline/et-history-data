@@ -1,27 +1,25 @@
 #imported from EU4 file: history/provinces/89 - Picardie.txt
 2.1.1:
+  pops: 
+    belgae-druidism: 1
   owner: ROM
   controller: ROM
   cores:
     ROM: yes
   resource: grain
-  pops:
-    - religion: druidism
-      estate: peasant
-      size: 1000
 260.1.1:
+  pops: 
+    belgae-druidism: 0
+    gallian-druidism: 1
   cores:
     GALL: yes
-  pops:
-    - estate: peasant
-      size: 1000
 274.1.1:
+  pops: 
+    gallian-druidism: 0
+    belgae-druidism: 1
   controller: ROM
   cores:
     GALL: no
-  pops:
-    - estate: peasant
-      size: 1000
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -37,22 +35,22 @@
   cores:
     ROMW: no
 481.1.1:
+  pops: 
+    belgae-druidism: 0
+    frankish-druidism: 1
   owner: FRAN
   controller: FRAN
   cores:
     SOIS: no
     FRAN: yes
-  pops:
-    - estate: peasant
-      size: 1000
 486.6.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    frankish-druidism: 0
+    french-druidism: 1
 500.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    french-druidism: 0
+    french-chalcedonism: 1
 511.11.27:
   owner: NEUS
   controller: NEUS
@@ -94,9 +92,9 @@
   cores:
     FLA: yes
 867.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    french-chalcedonism: 0
+    french-catholic: 1
 987.7.3:
   owner: FRA
   controller: FRA

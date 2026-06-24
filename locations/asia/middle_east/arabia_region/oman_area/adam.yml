@@ -1,9 +1,7 @@
 #imported from EU4 file: history/provinces/403 - Nizwa.txt
 2.1.1:
-  pops:
-    - religion: south_arabian_polytheism
-      estate: peasant
-      size: 1000
+  pops: 
+    omani_culture-south_arabian: 1
 580.1.1:
   owner: OMA
   controller: OMA
@@ -11,22 +9,22 @@
     OMA: yes
   resource: wool
 634.1.1:
+  pops: 
+    omani_culture-south_arabian: 0
+    omani_culture-islam: 1
   owner: RASH
   controller: RASH
   cores:
     RASH: yes
-  pops:
-    - estate: peasant
-      size: 1000
 661.7.28:
+  pops: 
+    omani_culture-islam: 0
+    omani_culture-sunni: 1
   owner: UMAY
   controller: UMAY
   cores:
     RASH: no
     UMAY: yes
-  pops:
-    - estate: peasant
-      size: 1000
 750.8.6:
   owner: ABBA
   controller: ABBA
@@ -34,9 +32,9 @@
     UMAY: no
     ABBA: yes
 751.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    omani_culture-sunni: 0
+    omani_culture-ibadi: 1
 840.1.1:
   owner: OMA
   controller: OMA

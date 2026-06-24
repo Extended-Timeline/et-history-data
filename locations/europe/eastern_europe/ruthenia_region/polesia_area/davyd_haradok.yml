@@ -1,9 +1,7 @@
 #imported from EU4 file: history/provinces/1941 - Turov.txt
 2.1.1:
-  pops:
-    - religion: slavic_polytheism
-      estate: peasant
-      size: 1000
+  pops: 
+    polatskian_culture-slavic: 1
 550.1.1:
   owner: DREV
   controller: DREV
@@ -18,9 +16,9 @@
     KIEV: yes
     UKR: yes
 1000.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    polatskian_culture-slavic: 0
+    polatskian_culture-orthodox: 1
 1054.2.20:
   owner: KIE
   controller: KIE
@@ -52,9 +50,6 @@
   cores:
     HAL: no
 1350.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
 1569.7.1:
   owner: PLC
   controller: PLC

@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/2999 - Qeshm.txt
 2.1.1:
+  pops: 
+    farsi_culture-zoroastrian: 1
   owner: PART
   controller: PART
   cores:
     PART: yes
   resource: gems
-  pops:
-    - religion: zoroastrian
-      estate: peasant
-      size: 1000
 224.4.24:
   owner: ERA
   controller: ERA
@@ -28,9 +26,9 @@
     RASH: no
     UMAY: yes
 680.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    farsi_culture-zoroastrian: 0
+    farsi_culture-sunni: 1
 750.8.6:
   owner: ABBA
   controller: ABBA
@@ -38,9 +36,9 @@
     UMAY: no
     ABBA: yes
 800.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    farsi_culture-sunni: 0
+    bahrani_culture-sunni: 1
 850.1.1:
   owner: KHOR
   controller: KHOR

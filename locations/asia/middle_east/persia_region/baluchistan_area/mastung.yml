@@ -1,23 +1,21 @@
 #imported from EU4 file: history/provinces/576 - Kalat.txt
 2.1.1:
+  pops: 
+    baloch_culture-zoroastrian: 1
   owner: BALU
   controller: BALU
   cores:
     BALU: yes
   resource: dyes
-  pops:
-    - religion: zoroastrian
-      estate: peasant
-      size: 1000
 300.1.1:
   owner: ERA
   controller: ERA
   cores:
     ERA: yes
 600.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    baloch_culture-zoroastrian: 0
+    baloch_culture-hindu: 1
 620.1.1:
   owner: BALU
   controller: BALU
@@ -48,9 +46,9 @@
     UMAY: no
     ABBA: yes
 780.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    baloch_culture-hindu: 0
+    baloch_culture-sunni: 1
 841.1.1:
   owner: SND
   controller: SND
@@ -70,18 +68,18 @@
     SIST: no
     BALU: yes
 971.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    baloch_culture-sunni: 0
+    baloch_culture-ibadi: 1
 1011.1.1:
   owner: GHAZ
   controller: GHAZ
   cores:
     GHAZ: yes
 1070.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    baloch_culture-ibadi: 0
+    baloch_culture-sunni: 1
 1175.1.1:
   owner: GHOR
   controller: GHOR

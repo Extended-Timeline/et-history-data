@@ -1,9 +1,7 @@
 #imported from EU4 file: history/provinces/1132 - Timbuktu.txt
 2.1.1:
-  pops:
-    - religion: bantu_religion
-      estate: peasant
-      size: 1000
+  pops: 
+    tuareg-bantu_religion: 1
 350.1.1:
   owner: TMB
   controller: TMB
@@ -11,9 +9,9 @@
     TMB: yes
   resource: cloth
 1200.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    tuareg-bantu_religion: 0
+    tuareg-sunni: 1
 1324.1.1:
   owner: MAL
   controller: MAL
@@ -25,13 +23,13 @@
   cores:
     MAL: no
 1469.1.1:
+  pops: 
+    tuareg-sunni: 0
+    songhai-sunni: 1
   owner: SON
   controller: SON
   cores:
     SON: yes
-  pops:
-    - estate: peasant
-      size: 1000
 1588.1.1:
   controller: SON
 1591.5.1:

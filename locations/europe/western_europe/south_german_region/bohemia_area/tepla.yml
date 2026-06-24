@@ -1,32 +1,30 @@
 #imported from EU4 file: history/provinces/267 - Plsen.txt
 2.1.1:
+  pops: 
+    southern_bavarian-germanic: 1
   owner: MARC
   controller: MARC
   cores:
     MARC: yes
   resource: naval_supplies
-  pops:
-    - religion: germanic_polytheism
-      estate: peasant
-      size: 1000
 395.1.1:
+  pops: 
+    southern_bavarian-germanic: 0
+    vandal-germanic: 1
   owner: VAND
   controller: VAND
   cores:
     MARC: no
     VAND: yes
-  pops:
-    - estate: peasant
-      size: 1000
 417.1.1:
+  pops: 
+    vandal-germanic: 0
+    southern_bavarian-germanic: 1
   owner: BAV
   controller: BAV
   cores:
     VAND: no
     BAV: yes
-  pops:
-    - estate: peasant
-      size: 1000
 450.1.1:
   owner: RUGI
   controller: RUGI
@@ -34,24 +32,23 @@
     BAV: no
     RUGI: yes
 454.1.1:
+  pops: 
+    southern_bavarian-germanic: 0
+    langobardi-germanic: 1
   owner: LOMB
   controller: LOMB
   cores:
     RUGI: no
     LOMB: yes
-  pops:
-    - estate: peasant
-      size: 1000
 550.1.1:
+  pops: 
+    langobardi-germanic: 0
+    czech-slavic: 1
   owner: BOH
   controller: BOH
   cores:
     LOMB: no
     BOH: yes
-  pops:
-    - religion: slavic_polytheism
-      estate: peasant
-      size: 1000
 833.1.1:
   owner: MVA
   controller: MVA
@@ -63,9 +60,9 @@
   cores:
     MVA: no
 900.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    czech-slavic: 0
+    czech-catholic: 1
 1466.1.1:
   owner: HUN
   controller: HUN
@@ -111,9 +108,9 @@
   cores:
     GER: no
 1990.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    czech-catholic: 0
+    czech-irreligious: 1
 1992.12.31:
   owner: CZEC
   controller: CZEC

@@ -1,18 +1,16 @@
 #imported from EU4 file: history/provinces/4207 - Turpan.txt
 2.1.1:
+  pops: 
+    tocharian-mahayana: 1
   owner: KARA
   controller: KARA
   cores:
     KARA: yes
   resource: wine
-  pops:
-    - religion: mahayana
-      estate: peasant
-      size: 1000
 420.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    tocharian-mahayana: 0
+    uyghur_culture-mahayana: 1
 439.1.1:
   owner: NLIA
   controller: NLIA
@@ -49,18 +47,18 @@
     KARA: no
     UYGH: yes
 745.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    uyghur_culture-mahayana: 0
+    uyghur_culture-manichaeism: 1
 789.1.1:
   owner: TIB
   controller: TIB
   cores:
     TIB: yes
 840.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    uyghur_culture-manichaeism: 0
+    uyghur_culture-tibetan_buddhism: 1
 842.1.1:
   owner: UTSA
   controller: UTSA
@@ -90,9 +88,9 @@
     UYGH: no
     MGE: yes
 1210.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    uyghur_culture-tibetan_buddhism: 0
+    uyghur_culture-: 1
 1260.1.1:
   owner: CHG
   controller: CHG
@@ -117,9 +115,8 @@
   cores:
     YARK: yes
 1600.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    uyghur_culture-sunni: 1
 1635.1.1:
   owner: ZUNG
   controller: ZUNG
@@ -143,6 +140,3 @@
   cores:
     UYGH: yes
 1970.1.1:
-  pops:
-    - estate: peasant
-      size: 1000

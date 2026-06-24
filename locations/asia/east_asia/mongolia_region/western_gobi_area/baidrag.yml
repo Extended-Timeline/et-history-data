@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/2190 - Bayankhongor.txt
 2.1.1:
+  pops: 
+    rouran-: 1
   owner: XION
   controller: XION
   cores:
     XION: yes
   resource: livestock
-  pops:
-    - religion: 
-      estate: peasant
-      size: 1000
 91.2.1:
   owner: XIAN
   controller: XIAN
@@ -28,9 +26,8 @@
     ROUR: no
     GOKT: yes
 560.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    tuvan_culture-: 1
 627.1.1:
   owner: XUEY
   controller: XUEY
@@ -48,9 +45,8 @@
   cores:
     GOKT: yes
 700.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    mongolian_culture-: 1
 744.1.1:
   owner: UYGH
   controller: UYGH
@@ -64,13 +60,12 @@
     UYGH: no
     NAIM: yes
 850.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    mongolian_culture-nestorianism: 1
 1201.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    mongolian_culture-nestorianism: 0
+    mongolian_culture-: 1
 1204.1.1:
   owner: KHMO
   controller: KHMO
@@ -107,9 +102,8 @@
   cores:
     MGE: yes
 1560.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    mongolian_culture-tibetan_buddhism: 1
 1635.4.1:
   owner: KHAL
   controller: KHAL

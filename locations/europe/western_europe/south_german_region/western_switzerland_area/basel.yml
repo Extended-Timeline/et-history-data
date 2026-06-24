@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/165 - Bern.txt
 2.1.1:
+  pops: 
+    helvetian-druidism: 1
   owner: ROM
   controller: ROM
   cores:
     ROM: yes
   resource: iron
-  pops:
-    - religion: druidism
-      estate: peasant
-      size: 1000
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -16,21 +14,20 @@
     ROM: no
     ROMW: yes
 410.1.1:
+  pops: 
+    helvetian-druidism: 0
+    high_alemannic-germanic: 1
   owner: ALEM
   controller: ALEM
   cores:
     ALEM: yes
-  pops:
-    - religion: germanic_polytheism
-      estate: peasant
-      size: 1000
 480.6.1:
   cores:
     ROMW: no
 620.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    high_alemannic-germanic: 0
+    high_alemannic-chalcedonism: 1
 746.1.1:
   owner: FRAN
   controller: FRAN
@@ -50,9 +47,9 @@
     MFRA: no
     LOT: yes
 867.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    high_alemannic-chalcedonism: 0
+    high_alemannic-catholic: 1
 870.8.8:
   owner: EFRA
   controller: EFRA
@@ -72,9 +69,9 @@
     BUR: no
     BAS: yes
 1528.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    high_alemannic-catholic: 0
+    high_alemannic-calvinist: 1
 1798.3.5:
   controller: FRA
 1798.4.12:

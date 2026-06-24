@@ -1,18 +1,16 @@
 #imported from EU4 file: history/provinces/4293 - Arbil.txt
 2.1.1:
+  pops: 
+    assyrian-ashurism: 1
   owner: ADIA
   controller: ADIA
   cores:
     ADIA: yes
   resource: cloth
-  pops:
-    - religion: ashurism
-      estate: peasant
-      size: 1000
 30.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    assyrian-ashurism: 0
+    assyrian-judaism: 1
 116.1.1:
   owner: ROM
   controller: ROM
@@ -26,9 +24,9 @@
     ADIA: no
     PART: yes
 150.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    assyrian-judaism: 0
+    assyrian-chalcedonism: 1
 224.4.24:
   owner: ERA
   controller: ERA
@@ -36,9 +34,9 @@
     PART: no
     ERA: yes
 431.7.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    assyrian-chalcedonism: 0
+    assyrian-nestorianism: 1
 637.1.1:
   owner: RASH
   controller: RASH
@@ -58,14 +56,14 @@
     UMAY: no
     ABBA: yes
 850.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    assyrian-nestorianism: 0
+    assyrian-ibadi: 1
 869.1.1:
+  pops: 
+    assyrian-ibadi: 0
+    assyrian-sunni: 1
   controller: ABBA
-  pops:
-    - estate: peasant
-      size: 1000
 911.1.1:
   owner: MOSU
   controller: MOSU
@@ -95,9 +93,9 @@
     SELJ: no
     MOSU: yes
 1200.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    assyrian-sunni: 0
+    kurdish_culture-sunni: 1
 1250.1.1:
   owner: MGE
   controller: MGE

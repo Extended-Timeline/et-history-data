@@ -1,15 +1,13 @@
 #imported from EU4 file: history/provinces/2447 - Matrega.txt
 2.1.1:
+  pops: 
+    pontic_greek_culture-hellenism_religion: 1
   owner: BOSP
   controller: BOSP
   cores:
     BOSP: yes
     ROM: yes
   resource: livestock
-  pops:
-    - religion: hellenism_religion
-      estate: peasant
-      size: 1000
 63.1.1:
   owner: ROM
   controller: ROM
@@ -26,9 +24,9 @@
   cores:
     UTIG: yes
 450.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    pontic_greek_culture-hellenism_religion: 0
+    pontic_greek_culture-: 1
 469.1.1:
   owner: UTIG
   controller: UTIG
@@ -41,14 +39,13 @@
     UTIG: no
     BUL: yes
 720.1.1:
+  pops: 
+    khazar-: 1
   owner: KHAZ
   controller: KHAZ
   cores:
     BUL: no
     KHAZ: yes
-  pops:
-    - estate: peasant
-      size: 1000
 988.1.1:
   owner: TMUT
   controller: TMUT
@@ -56,9 +53,8 @@
     KHAZ: no
     TMUT: yes
 990.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    khazar-orthodox: 1
 1035.1.1:
   owner: KIEV
   controller: KIEV
@@ -71,17 +67,17 @@
     KIEV: no
     TMUT: yes
 1094.1.1:
+  pops: 
+    khazar-orthodox: 0
+    cuman_culture-orthodox: 1
   owner: CUMA
   controller: CUMA
   cores:
     CUMA: yes
-  pops:
-    - estate: peasant
-      size: 1000
 1120.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    cuman_culture-orthodox: 0
+    crimean-orthodox: 1
 1237.1.1:
   owner: MGE
   controller: MGE
@@ -89,15 +85,12 @@
     CUMA: no
     MGE: yes
     CRI: yes
-  pops:
-    - estate: peasant
-      size: 1000
 1240.1.1:
+  pops: 
+    crimean-orthodox: 0
+    circassian_culture-orthodox: 1
   cores:
     CIR: yes
-  pops:
-    - estate: peasant
-      size: 1000
 1260.1.1:
   owner: WHHO
   controller: WHHO
@@ -119,20 +112,18 @@
   cores:
     TUR: yes
 1784.1.2:
-  pops:
-    - religion: sunni
-      estate: peasant
-      size: 1000
+  pops: 
+    circassian_culture-orthodox: 0
+    nogai-sunni: 1
 1791.6.22:
   controller: RUS
 1792.6.12:
+  pops: 
+    nogai-sunni: 0
+    ruthenian-orthodox: 1
   owner: RUS
   cores:
     RUS: yes
-  pops:
-    - religion: orthodox
-      estate: peasant
-      size: 1000
 1918.2.20:
   owner: UKR
   controller: UKR
@@ -150,9 +141,9 @@
     RUS: no
     SOVI: yes
 1933.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    ruthenian-orthodox: 0
+    muscovite-orthodox: 1
 1942.9.10:
   controller: GER
 1943.9.16:

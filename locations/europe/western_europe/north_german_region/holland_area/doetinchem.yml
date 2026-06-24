@@ -1,23 +1,21 @@
 #imported from EU4 file: history/provinces/99 - Gelre.txt
 2.1.1:
+  pops: 
+    frankish-germanic: 1
   owner: CHMV
   controller: CHMV
   cores:
     CHMV: yes
   resource: livestock
-  pops:
-    - religion: germanic_polytheism
-      estate: peasant
-      size: 1000
 290.1.1:
   owner: FRAN
   controller: FRAN
   cores:
     FRAN: yes
 500.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    frankish-germanic: 0
+    low_franconian-germanic: 1
 511.11.27:
   owner: ASTS
   controller: ASTS
@@ -55,9 +53,9 @@
   owner: FRAN
   controller: FRAN
 750.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    low_franconian-germanic: 0
+    low_franconian-chalcedonism: 1
 840.6.21:
   owner: MFRA
   controller: MFRA
@@ -71,9 +69,9 @@
     MFRA: no
     LOT: yes
 867.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    low_franconian-chalcedonism: 0
+    low_franconian-catholic: 1
 870.8.8:
   owner: EFRA
   controller: EFRA

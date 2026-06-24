@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/4360 - Mikawa.txt
 2.1.1:
+  pops: 
+    saigoku_culture-shinto: 1
   owner: OWAR
   controller: OWAR
   cores:
     OWAR: yes
   resource: grain
-  pops:
-    - religion: shinto
-      estate: peasant
-      size: 1000
 320.1.1:
   owner: YMT
   controller: YMT
@@ -16,13 +14,13 @@
     OWAR: no
     YMT: yes
 607.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    saigoku_culture-shinto: 0
+    saigoku_culture-mahayana: 1
 712.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    saigoku_culture-mahayana: 0
+    saigoku_culture-shinto: 1
 794.1.1:
   owner: JAP
   controller: JAP

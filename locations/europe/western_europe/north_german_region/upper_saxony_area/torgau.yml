@@ -1,33 +1,30 @@
 #imported from EU4 file: history/provinces/59 - Meissen.txt
 2.1.1:
+  pops: 
+    east_franconian-germanic: 1
   owner: SEMN
   controller: SEMN
   cores:
     SEMN: yes
   resource: wool
-  pops:
-    - religion: germanic_polytheism
-      estate: peasant
-      size: 1000
 280.1.1:
+  pops: 
+    east_franconian-germanic: 0
+    burgundione-germanic: 1
   owner: BUR
   controller: BUR
   cores:
     SEMN: no
     BUR: yes
-  pops:
-    - estate: peasant
-      size: 1000
 395.1.1:
+  pops: 
+    burgundione-germanic: 0
+    sorbian-slavic: 1
   owner: SORB
   controller: SORB
   cores:
     BUR: no
     SORB: yes
-  pops:
-    - religion: slavic_polytheism
-      estate: peasant
-      size: 1000
 932.1.1:
   owner: SAX
   controller: SAX
@@ -47,10 +44,9 @@
     BRA: no
     SOR: yes
 968.1.1:
-  pops:
-    - religion: catholic
-      estate: peasant
-      size: 1000
+  pops: 
+    sorbian-slavic: 0
+    saxon-catholic: 1
 1046.1.1:
   owner: SAX
   controller: SAX
@@ -63,9 +59,9 @@
   cores:
     THU: yes
 1520.12.10:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    saxon-catholic: 0
+    saxon-lutheran: 1
 1547.5.19:
   owner: SAX
   controller: SAX
@@ -92,9 +88,9 @@
   cores:
     EGER: yes
 1990.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    saxon-lutheran: 0
+    saxon-irreligious: 1
 1990.10.3:
   owner: GER
   controller: GER

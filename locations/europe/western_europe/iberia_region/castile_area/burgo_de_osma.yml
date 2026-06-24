@@ -1,19 +1,17 @@
 #imported from EU4 file: history/provinces/2755 - Soria.txt
 2.1.1:
+  pops: 
+    celtiberian-druidism: 1
   owner: ROM
   controller: ROM
   cores:
     ROM: yes
     VASC: yes
   resource: wool
-  pops:
-    - religion: druidism
-      estate: peasant
-      size: 1000
 360.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    celtiberian-druidism: 0
+    celtiberian-chalcedonism: 1
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -45,14 +43,14 @@
   cores:
     ROMW: no
 711.1.1:
+  pops: 
+    celtiberian-chalcedonism: 0
+    castilian-chalcedonism: 1
   owner: UMAY
   controller: UMAY
   cores:
     VISG: no
     UMAY: yes
-  pops:
-    - estate: peasant
-      size: 1000
 750.8.6:
   owner: CRDB
   controller: CRDB
@@ -60,9 +58,9 @@
     UMAY: no
     CRDB: yes
 867.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    castilian-chalcedonism: 0
+    castilian-catholic: 1
 1013.1.1:
   owner: ZARA
   controller: ZARA

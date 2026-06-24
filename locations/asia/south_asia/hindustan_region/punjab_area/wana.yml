@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/2078 - Sind Sagar.txt
 2.1.1:
+  pops: 
+    punjabi-hindu: 1
   owner: IPAR
   controller: IPAR
   cores:
     IPAR: yes
   resource: livestock
-  pops:
-    - religion: hindu
-      estate: peasant
-      size: 1000
 76.1.1:
   owner: KUSH
   controller: KUSH
@@ -63,9 +61,9 @@
   cores:
     GHAZ: yes
 1150.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    punjabi-hindu: 0
+    punjabi-sunni: 1
 1175.1.1:
   owner: GHOR
   controller: GHOR

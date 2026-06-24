@@ -1,9 +1,7 @@
 #imported from EU4 file: history/provinces/313 - Archangelsk.txt
 2.1.1:
-  pops:
-    - religion: muinaisusko
-      estate: peasant
-      size: 1000
+  pops: 
+    nenets_culture-muinaisusko: 1
 750.1.1:
   owner: BJA
   controller: BJA
@@ -16,13 +14,13 @@
   cores:
     NOV: yes
 1200.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    nenets_culture-muinaisusko: 0
+    novgorodian-muinaisusko: 1
 1230.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    novgorodian-muinaisusko: 0
+    novgorodian-orthodox: 1
 1478.1.15:
   owner: MOS
   controller: MOS

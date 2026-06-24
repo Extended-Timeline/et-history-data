@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/420 - Qarabagh.txt
 2.1.1:
+  pops: 
+    aghwan-zoroastrian: 1
   owner: ARM
   controller: ARM
   cores:
     ARM: yes
   resource: cotton
-  pops:
-    - religion: zoroastrian
-      estate: peasant
-      size: 1000
 114.1.1:
   owner: ROM
   controller: ROM
@@ -26,13 +24,13 @@
     ARM: no
     CALB: yes
 460.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    aghwan-zoroastrian: 0
+    aghwan-chalcedonism: 1
 506.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    aghwan-chalcedonism: 0
+    aghwan-miaphysite: 1
 822.1.1:
   owner: ABBA
   controller: ABBA
@@ -51,9 +49,9 @@
     SRV: no
     AZER: yes
 920.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    aghwan-miaphysite: 0
+    aghwan-sunni: 1
 951.1.1:
   owner: GANJ
   controller: GANJ
@@ -66,9 +64,9 @@
   cores:
     SELJ: yes
 1080.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    aghwan-sunni: 0
+    azeri_culture-sunni: 1
 1124.1.1:
   owner: GEO
   controller: GEO
@@ -89,9 +87,9 @@
     KHWA: no
     MGE: yes
 1240.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    azeri_culture-sunni: 0
+    azeri_culture-shia: 1
 1260.1.1:
   owner: GANJ
   controller: GANJ

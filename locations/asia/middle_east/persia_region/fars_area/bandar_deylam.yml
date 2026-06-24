@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/430 - Rushehr.txt
 2.1.1:
+  pops: 
+    khuzi-zoroastrian: 1
   owner: PESS
   controller: PESS
   cores:
     PESS: yes
   resource: silk
-  pops:
-    - religion: zoroastrian
-      estate: peasant
-      size: 1000
 207.1.1:
   owner: ERA
   controller: ERA
@@ -28,9 +26,9 @@
     RASH: no
     UMAY: yes
 680.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    khuzi-zoroastrian: 0
+    khuzi-sunni: 1
 750.8.6:
   owner: ABBA
   controller: ABBA
@@ -38,9 +36,9 @@
     UMAY: no
     ABBA: yes
 840.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    khuzi-sunni: 0
+    khuzi-shia: 1
 870.1.1:
   owner: FARS
   controller: FARS
@@ -52,9 +50,9 @@
   cores:
     SIST: yes
 900.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    khuzi-shia: 0
+    lur_culture-shia: 1
 912.1.1:
   owner: ABBA
   controller: ABBA

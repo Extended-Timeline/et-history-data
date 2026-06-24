@@ -1,16 +1,13 @@
 #imported from EU4 file: history/provinces/2839 - Selknam.txt
 2.1.1:
-  pops:
-    - religion: muisca_religion
-      estate: peasant
-      size: 1000
+  pops: 
+    teushen_culture-muisca_religion: 1
 1884.10.12:
+  pops: 
+    teushen_culture-muisca_religion: 0
+    iberian_la_platan-catholic: 1
   owner: ARGE
   controller: ARGE
   cores:
     ARGE: yes
   resource: fish
-  pops:
-    - religion: catholic
-      estate: peasant
-      size: 1000

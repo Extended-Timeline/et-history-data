@@ -1,9 +1,7 @@
 #imported from EU4 file: history/provinces/269 - Podlasia.txt
 2.1.1:
-  pops:
-    - religion: romuva
-      estate: peasant
-      size: 1000
+  pops: 
+    yotvingian-romuva: 1
 550.1.1:
   owner: YOTV
   controller: YOTV
@@ -16,10 +14,9 @@
   cores:
     LIT: yes
 1320.1.1:
-  pops:
-    - religion: catholic
-      estate: peasant
-      size: 1000
+  pops: 
+    yotvingian-romuva: 0
+    lesser_polish-catholic: 1
 1569.7.1:
   owner: PLC
   controller: PLC

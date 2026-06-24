@@ -1,13 +1,11 @@
 #imported from EU4 file: history/provinces/4044 - Ngonde.txt
 2.1.1:
-  pops:
-    - religion: bantu_religion
-      estate: peasant
-      size: 1000
+  pops: 
+    twa_culture-bantu_religion: 1
 300.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    twa_culture-bantu_religion: 0
+    sena-bantu_religion: 1
 1350.1.1:
   owner: TBK
   controller: TBK
@@ -20,9 +18,9 @@
   cores:
     GBR: yes
 1940.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    sena-bantu_religion: 0
+    sena-lutheran: 1
 1964.7.6:
   owner: MALW
   controller: MALW

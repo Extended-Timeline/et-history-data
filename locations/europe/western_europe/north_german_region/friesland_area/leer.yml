@@ -1,41 +1,39 @@
 #imported from EU4 file: history/provinces/1931 - East Frisia.txt
 2.1.1:
+  pops: 
+    frisian-germanic: 1
   owner: FRI
   controller: FRI
   cores:
     FRI: yes
   resource: salt
-  pops:
-    - religion: germanic_polytheism
-      estate: peasant
-      size: 1000
 58.1.1:
+  pops: 
+    frisian-germanic: 0
+    eastphalian-germanic: 1
   owner: CHCI
   controller: CHCI
   cores:
     FRI: no
     CHCI: yes
-  pops:
-    - estate: peasant
-      size: 1000
 500.1.1:
+  pops: 
+    eastphalian-germanic: 0
+    frisian-germanic: 1
   owner: FRI
   controller: FRI
   cores:
     CHCI: no
     FRI: yes
-  pops:
-    - estate: peasant
-      size: 1000
 734.1.1:
   owner: FRAN
   controller: FRAN
   cores:
     FRAN: yes
 800.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    frisian-germanic: 0
+    frisian-chalcedonism: 1
 839.1.1:
   owner: FRI
   controller: FRI
@@ -43,9 +41,9 @@
     FRAN: no
     FRI: yes
 867.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    frisian-chalcedonism: 0
+    frisian-catholic: 1
 896.1.1:
   owner: EFRI
   controller: EFRI
@@ -55,13 +53,13 @@
 1427.10.28:
   controller: EFRI
 1519.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    frisian-catholic: 0
+    frisian-lutheran: 1
 1537.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    frisian-lutheran: 0
+    frisian-calvinist: 1
 1744.5.26:
   owner: PRU
   controller: PRU

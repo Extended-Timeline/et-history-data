@@ -1,42 +1,37 @@
 #imported from EU4 file: history/provinces/2542 - Cusabo.txt
 2.1.1:
-  pops:
-    - religion: iroquoian_totemism
-      estate: peasant
-      size: 1000
+  pops: 
+    catawba_culture-iroquoian_totemism: 1
 1566.1.1:
+  pops: 
+    catawba_culture-iroquoian_totemism: 0
+    castilian-catholic: 1
   owner: SPA
   controller: SPA
   cores:
     SPA: yes
   resource: fish
-  pops:
-    - religion: catholic
-      estate: peasant
-      size: 1000
 1587.1.1:
+  pops: 
+    castilian-catholic: 0
+    catawba_culture-iroquoian_totemism: 1
   owner: ---
   controller: ---
   cores:
     SPA: no
-  pops:
-    - religion: iroquoian_totemism
-      estate: peasant
-      size: 1000
 1711.1.1:
+  pops: 
+    catawba_culture-iroquoian_totemism: 0
+    english-lutheran: 1
   owner: GBR
   controller: GBR
   cores:
     GBR: yes
   resource: fish
-  pops:
-    - religion: lutheran
-      estate: peasant
-      size: 1000
 1764.7.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    english-lutheran: 0
+    british_louisianan-lutheran: 1
 1776.7.4:
   owner: USA
   controller: USA

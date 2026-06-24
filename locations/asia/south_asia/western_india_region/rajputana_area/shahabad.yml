@@ -1,23 +1,21 @@
 #imported from EU4 file: history/provinces/528 - Hadoti.txt
 2.1.1:
+  pops: 
+    bundeli-hindu: 1
   owner: MLW
   controller: MLW
   cores:
     MLW: yes
   resource: cotton
-  pops:
-    - religion: hindu
-      estate: peasant
-      size: 1000
 375.1.1:
   owner: GUPT
   controller: GUPT
   cores:
     GUPT: yes
 400.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    bundeli-hindu: 0
+    marwari-hindu: 1
 515.1.1:
   owner: KAPI
   controller: KAPI

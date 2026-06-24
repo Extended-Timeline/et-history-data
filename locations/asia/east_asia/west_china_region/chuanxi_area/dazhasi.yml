@@ -1,34 +1,32 @@
 #imported from EU4 file: history/provinces/2170 - Songqu.txt
 2.1.1:
+  pops: 
+    baima_culture-bon: 1
   owner: DI00
   controller: DI00
   cores:
     DI00: yes
   resource: livestock
-  pops:
-    - religion: bon
-      estate: peasant
-      size: 1000
 525.1.1:
+  pops: 
+    baima_culture-bon: 0
+    amdowa_culture-bon: 1
   owner: TAGT
   controller: TAGT
   cores:
     TAGT: yes
-  pops:
-    - estate: peasant
-      size: 1000
 540.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    amdowa_culture-bon: 0
+    amdowa_culture-mahayana: 1
 629.1.1:
+  pops: 
+    amdowa_culture-mahayana: 0
+    baima_culture-mahayana: 1
   owner: TIB
   controller: TIB
   cores:
     TIB: yes
-  pops:
-    - estate: peasant
-      size: 1000
 842.1.1:
   owner: DI00
   controller: DI00
@@ -41,9 +39,9 @@
   cores:
     TSON: yes
 1050.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    baima_culture-mahayana: 0
+    baima_culture-tibetan_buddhism: 1
 1104.1.1:
   owner: SONG
   controller: SONG

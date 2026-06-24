@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/1022 - Amaravati.txt
 2.1.1:
+  pops: 
+    cham_culture-hindu: 1
   owner: HUYN
   controller: HUYN
   cores:
     HUYN: yes
   resource: incense
-  pops:
-    - religion: hindu
-      estate: peasant
-      size: 1000
 192.1.1:
   owner: CHA
   controller: CHA
@@ -31,10 +29,9 @@
   cores:
     TONK: no
 1600.1.1:
-  pops:
-    - religion: theravada
-      estate: peasant
-      size: 1000
+  pops: 
+    cham_culture-hindu: 0
+    vietnamese_culture-theravada: 1
 1776.1.1:
   owner: DAI
   controller: DAI

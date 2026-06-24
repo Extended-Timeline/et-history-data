@@ -1,18 +1,16 @@
 #imported from EU4 file: history/provinces/4060 - Kikuyu.txt
 2.1.1:
-  pops:
-    - religion: bantu_religion
-      estate: peasant
-      size: 1000
+  pops: 
+    maasai_culture-bantu_religion: 1
 1895.7.1:
+  pops: 
+    maasai_culture-bantu_religion: 0
+    maasai_culture-lutheran: 1
   owner: GBR
   controller: GBR
   cores:
     GBR: yes
   resource: grain
-  pops:
-    - estate: peasant
-      size: 1000
 1963.12.12:
   owner: KENY
   controller: KENY

@@ -1,9 +1,7 @@
 #imported from EU4 file: history/provinces/4350 - Mindoro.txt
 2.1.1:
-  pops:
-    - religion: bimoism
-      estate: peasant
-      size: 1000
+  pops: 
+    tagalog_culture-bimoism: 1
 900.1.1:
   owner: TDO
   controller: TDO
@@ -11,22 +9,22 @@
     TDO: yes
   resource: gems
 1200.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    tagalog_culture-bimoism: 0
+    tagalog_culture-mahayana: 1
 1500.1.1:
   owner: BEI
   controller: BEI
   cores:
     BEI: yes
 1571.1.1:
+  pops: 
+    tagalog_culture-mahayana: 0
+    tagalog_culture-catholic: 1
   owner: SPA
   controller: SPA
   cores:
     SPA: yes
-  pops:
-    - estate: peasant
-      size: 1000
 1762.10.6:
   controller: GBR
 1763.2.10:

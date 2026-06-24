@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/4340 - Astara.txt
 2.1.1:
+  pops: 
+    talysh_culture-zoroastrian: 1
   owner: ARM
   controller: ARM
   cores:
     ARM: yes
   resource: fish
-  pops:
-    - religion: zoroastrian
-      estate: peasant
-      size: 1000
 114.1.1:
   owner: ROM
   controller: ROM
@@ -52,9 +50,9 @@
     ABBA: no
     SRV: yes
 880.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    talysh_culture-zoroastrian: 0
+    talysh_culture-shia: 1
 890.1.1:
   owner: AZER
   controller: AZER
@@ -71,9 +69,9 @@
   cores:
     SELJ: yes
 1070.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    talysh_culture-shia: 0
+    azeri_culture-shia: 1
 1100.1.1:
   owner: SRV
   controller: SRV

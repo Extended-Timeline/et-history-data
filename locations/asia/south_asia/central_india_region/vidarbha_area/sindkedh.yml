@@ -1,23 +1,21 @@
 #imported from EU4 file: history/provinces/545 - Marathwada.txt
 2.1.1:
+  pops: 
+    marathi_culture-mahayana: 1
   owner: SATA
   controller: SATA
   cores:
     SATA: yes
   resource: grain
-  pops:
-    - religion: mahayana
-      estate: peasant
-      size: 1000
 220.1.1:
+  pops: 
+    marathi_culture-mahayana: 0
+    marathi_culture-hindu: 1
   owner: ABHI
   controller: ABHI
   cores:
     SATA: no
     ABHI: yes
-  pops:
-    - estate: peasant
-      size: 1000
 250.1.1:
   owner: VAKA
   controller: VAKA
@@ -25,14 +23,14 @@
     ABHI: no
     VAKA: yes
 500.1.1:
+  pops: 
+    marathi_culture-hindu: 0
+    marathi_culture-jain: 1
   owner: KALC
   controller: KALC
   cores:
     VAKA: no
     KALC: yes
-  pops:
-    - estate: peasant
-      size: 1000
 620.1.1:
   owner: CHAL
   controller: CHAL
@@ -60,9 +58,9 @@
     CHAL: no
     YADA: yes
 1190.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    marathi_culture-jain: 0
+    marathi_culture-hindu: 1
 1317.1.1:
   owner: DLH
   controller: DLH

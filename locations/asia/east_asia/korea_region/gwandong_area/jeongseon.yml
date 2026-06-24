@@ -1,18 +1,16 @@
 #imported from EU4 file: history/provinces/734 - West Gangwon.txt
 2.1.1:
+  pops: 
+    korean_culture-muism: 1
   owner: DONG
   controller: DONG
   cores:
     DONG: yes
   resource: chinaware
-  pops:
-    - religion: muism
-      estate: peasant
-      size: 1000
 372.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    korean_culture-muism: 0
+    korean_culture-mahayana: 1
 420.1.1:
   owner: GOGU
   controller: GOGU
@@ -38,14 +36,14 @@
     GOGU: no
     GORY: yes
 1392.7.12:
+  pops: 
+    korean_culture-mahayana: 0
+    korean_culture-sanjiao: 1
   owner: KOR
   controller: KOR
   cores:
     GORY: no
     KOR: yes
-  pops:
-    - estate: peasant
-      size: 1000
 1637.1.1:
   cores:
     MNG: yes
@@ -79,6 +77,3 @@
     SKOR: yes
     NKOR: yes
 1970.1.1:
-  pops:
-    - estate: peasant
-      size: 1000

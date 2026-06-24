@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/676 - Shigatse.txt
 2.1.1:
+  pops: 
+    utsang_culture-bon: 1
   owner: YARL
   controller: YARL
   cores:
     YARL: yes
   resource: incense
-  pops:
-    - religion: bon
-      estate: peasant
-      size: 1000
 618.1.1:
   owner: TIB
   controller: TIB
@@ -16,9 +14,9 @@
     YARL: no
     TIB: yes
 630.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    utsang_culture-bon: 0
+    utsang_culture-tibetan_buddhism: 1
 842.1.1:
   owner: UTSA
   controller: UTSA

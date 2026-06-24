@@ -1,39 +1,34 @@
 #imported from EU4 file: history/provinces/980 - Beothuk.txt
 2.1.1:
-  pops:
-    - religion: iroquoian_totemism
-      estate: peasant
-      size: 1000
+  pops: 
+    innu_culture-iroquoian_totemism: 1
 1623.1.1:
+  pops: 
+    innu_culture-iroquoian_totemism: 0
+    english-lutheran: 1
   owner: ENG
   controller: ENG
   cores:
     ENG: yes
   resource: fish
-  pops:
-    - religion: lutheran
-      estate: peasant
-      size: 1000
 1664.6.1:
+  pops: 
+    english-lutheran: 0
+    low_franconian-calvinist: 1
   owner: NED
   controller: NED
   cores:
     ENG: no
     NED: yes
-  pops:
-    - religion: calvinist
-      estate: peasant
-      size: 1000
 1673.1.1:
+  pops: 
+    low_franconian-calvinist: 0
+    english-lutheran: 1
   owner: ENG
   controller: ENG
   cores:
     NED: no
     ENG: yes
-  pops:
-    - religion: lutheran
-      estate: peasant
-      size: 1000
 1696.1.1:
   controller: FRA
 1697.9.20:
@@ -45,9 +40,9 @@
     ENG: no
     GBR: yes
 1790.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    english-lutheran: 0
+    british_canadian-lutheran: 1
 1907.9.26:
   owner: NEWF
   controller: NEWF

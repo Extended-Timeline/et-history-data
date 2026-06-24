@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/570 - Naga.txt
 2.1.1:
+  pops: 
+    zo_culture-sanamahism: 1
   owner: MLB
   controller: MLB
   cores:
     MLB: yes
   resource: tropical_wood
-  pops:
-    - religion: sanamahism
-      estate: peasant
-      size: 1000
 350.1.1:
   owner: KAMA
   controller: KAMA
@@ -22,9 +20,9 @@
     KAMA: no
     KACH: yes
 1300.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    zo_culture-sanamahism: 0
+    zo_culture-hindu: 1
 1526.2.1:
   controller: AHO
 1531.1.1:
@@ -46,9 +44,9 @@
   cores:
     GBR: yes
 1860.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    zo_culture-hindu: 0
+    zo_culture-lutheran: 1
 1930.1.1:
   cores:
     KACH: no

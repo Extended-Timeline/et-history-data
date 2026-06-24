@@ -1,9 +1,7 @@
 #imported from EU4 file: history/provinces/4810 - Deli.txt
 2.1.1:
-  pops:
-    - religion: mahayana
-      estate: peasant
-      size: 1000
+  pops: 
+    batak_culture-mahayana: 1
 600.1.1:
   owner: PANI
   controller: PANI
@@ -28,9 +26,9 @@
     PANI: no
     DELI: yes
 1250.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    batak_culture-mahayana: 0
+    batak_culture-sunni: 1
 1471.1.1:
   cores:
     ATJ: yes

@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/1768 - Lienz.txt
 2.1.1:
+  pops: 
+    noric-druidism: 1
   owner: ROM
   controller: ROM
   cores:
     ROM: yes
   resource: iron
-  pops:
-    - religion: druidism
-      estate: peasant
-      size: 1000
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -16,14 +14,13 @@
     ROM: no
     ROMW: yes
 420.1.1:
-  pops:
-    - religion: germanic_polytheism
-      estate: peasant
-      size: 1000
+  pops: 
+    noric-druidism: 0
+    danube_bavarian-germanic: 1
 430.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    danube_bavarian-germanic: 0
+    danube_bavarian-chalcedonism: 1
 476.9.4:
   owner: ITA
   controller: ITA
@@ -39,9 +36,9 @@
     ITA: no
     OSTR: yes
 500.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    danube_bavarian-chalcedonism: 0
+    danube_bavarian-arianism: 1
 553.1.1:
   owner: LOMB
   controller: LOMB
@@ -55,9 +52,9 @@
     LOMB: no
     AVR: yes
 600.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    danube_bavarian-arianism: 0
+    danube_bavarian-chalcedonism: 1
 623.1.1:
   owner: SAMO
   controller: SAMO
@@ -89,9 +86,9 @@
     FRAN: no
     BAV: yes
 867.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    danube_bavarian-chalcedonism: 0
+    danube_bavarian-catholic: 1
 880.3.22:
   owner: EFRA
   controller: EFRA

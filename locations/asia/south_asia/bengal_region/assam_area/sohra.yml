@@ -1,26 +1,24 @@
 #imported from EU4 file: history/provinces/1950 - Meghalaya.txt
 2.1.1:
+  pops: 
+    khasi_culture-bimoism: 1
   owner: JNT
   controller: JNT
   cores:
     JNT: yes
-  pops:
-    - religion: bimoism
-      estate: peasant
-      size: 1000
 610.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    khasi_culture-bimoism: 0
+    khasi_culture-hindu: 1
 1835.3.15:
   owner: GBR
   controller: GBR
   cores:
     GBR: yes
 1870.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    khasi_culture-hindu: 0
+    khasi_culture-lutheran: 1
 1930.1.1:
   cores:
     INDI: yes

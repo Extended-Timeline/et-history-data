@@ -1,22 +1,20 @@
 #imported from EU4 file: history/provinces/221 - Murcia.txt
 2.1.1:
+  pops: 
+    iberi-bimoism: 1
   owner: ROM
   controller: ROM
   cores:
     ROM: yes
   resource: grain
-  pops:
-    - religion: bimoism
-      estate: peasant
-      size: 1000
 200.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    iberi-bimoism: 0
+    iberi-hellenism_religion: 1
 340.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    iberi-hellenism_religion: 0
+    iberi-chalcedonism: 1
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -24,13 +22,13 @@
     ROM: no
     ROMW: yes
 448.1.1:
+  pops: 
+    iberi-chalcedonism: 0
+    iberi-arianism: 1
   owner: SUEB
   controller: SUEB
   cores:
     SUEB: yes
-  pops:
-    - estate: peasant
-      size: 1000
 453.1.1:
   owner: ROMW
   controller: ROMW
@@ -50,13 +48,13 @@
   cores:
     ROMW: no
 552.1.1:
+  pops: 
+    iberi-arianism: 0
+    iberi-chalcedonism: 1
   owner: BYZ
   controller: BYZ
   cores:
     BYZ: yes
-  pops:
-    - estate: peasant
-      size: 1000
 620.1.1:
   owner: VISG
   controller: VISG
@@ -75,13 +73,13 @@
     UMAY: no
     CRDB: yes
 780.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    iberi-chalcedonism: 0
+    iberi-sunni: 1
 800.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    iberi-sunni: 0
+    andalusi-sunni: 1
 1011.1.1:
   owner: MURC
   controller: MURC
@@ -141,18 +139,18 @@
     MURC: no
     CAS: yes
 1280.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    andalusi-sunni: 0
+    andalusi-catholic: 1
 1516.1.23:
   owner: SPA
   controller: SPA
   cores:
     SPA: yes
 1566.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    andalusi-catholic: 0
+    castilian-catholic: 1
 1713.4.11:
   cores:
     CAS: no

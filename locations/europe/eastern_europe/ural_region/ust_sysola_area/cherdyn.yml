@@ -1,9 +1,7 @@
 #imported from EU4 file: history/provinces/1963 - Cherdyn.txt
 2.1.1:
-  pops:
-    - religion: muinaisusko
-      estate: peasant
-      size: 1000
+  pops: 
+    udmurt-muinaisusko: 1
 750.1.1:
   owner: PRM
   controller: PRM
@@ -11,9 +9,9 @@
     PRM: yes
   resource: salt
 1455.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    udmurt-muinaisusko: 0
+    udmurt-orthodox: 1
 1505.4.1:
   owner: RUS
   controller: RUS
@@ -21,9 +19,9 @@
     PRM: no
     RUS: yes
 1660.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    udmurt-orthodox: 0
+    muscovite-orthodox: 1
 1922.12.30:
   owner: SOVI
   controller: SOVI

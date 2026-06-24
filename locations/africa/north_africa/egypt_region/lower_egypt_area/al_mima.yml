@@ -1,18 +1,16 @@
 #imported from EU4 file: history/provinces/363 - Diamientia.txt
 2.1.1:
+  pops: 
+    old_egyptian-judaism: 1
   owner: ROM
   controller: ROM
   cores:
     ROM: yes
   resource: grain
-  pops:
-    - religion: judaism
-      estate: peasant
-      size: 1000
 340.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    old_egyptian-judaism: 0
+    old_egyptian-chalcedonism: 1
 395.1.17:
   owner: BYZ
   controller: BYZ
@@ -20,9 +18,9 @@
     ROM: no
     BYZ: yes
 451.11.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    old_egyptian-chalcedonism: 0
+    old_egyptian-miaphysite: 1
 618.1.1:
   controller: ERA
 628.1.1:
@@ -68,10 +66,9 @@
   cores:
     FATI: yes
 1060.1.1:
-  pops:
-    - religion: shia
-      estate: peasant
-      size: 1000
+  pops: 
+    old_egyptian-miaphysite: 0
+    lower_egyptian_culture-shia: 1
 1171.1.1:
   owner: EGY
   controller: EGY
@@ -79,9 +76,9 @@
     FATI: no
     EGY: yes
 1220.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    lower_egyptian_culture-shia: 0
+    lower_egyptian_culture-sunni: 1
 1249.6.6:
   controller: FRA
 1250.1.1:

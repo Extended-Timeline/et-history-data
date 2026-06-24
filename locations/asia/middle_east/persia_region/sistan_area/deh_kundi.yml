@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/2225 - Bamyan.txt
 2.1.1:
+  pops: 
+    afghan_culture-mahayana: 1
   owner: PART
   controller: PART
   cores:
     PART: yes
   resource: dyes
-  pops:
-    - religion: mahayana
-      estate: peasant
-      size: 1000
 50.1.1:
   owner: KUSH
   controller: KUSH
@@ -69,13 +67,13 @@
   cores:
     GHAZ: yes
 980.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    afghan_culture-mahayana: 0
+    hazara_culture-mahayana: 1
 1012.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    hazara_culture-mahayana: 0
+    hazara_culture-sunni: 1
 1041.1.1:
   owner: GHOR
   controller: GHOR

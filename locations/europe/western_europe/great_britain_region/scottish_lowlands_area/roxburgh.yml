@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/4361 - East March.txt
 2.1.1:
+  pops: 
+    briton-druidism: 1
   owner: VOTA
   controller: VOTA
   cores:
     VOTA: yes
   resource: iron
-  pops:
-    - religion: druidism
-      estate: peasant
-      size: 1000
 84.1.1:
   owner: ROM
   controller: ROM
@@ -28,22 +26,22 @@
   cores:
     ROM: no
 409.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    briton-druidism: 0
+    briton-chalcedonism: 1
 410.1.1:
+  pops: 
+    briton-chalcedonism: 0
+    welsh-chalcedonism: 1
   owner: GODO
   controller: GODO
   cores:
     VOTA: no
     GODO: yes
-  pops:
-    - estate: peasant
-      size: 1000
 600.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    welsh-chalcedonism: 0
+    highland-chalcedonism: 1
 638.1.1:
   owner: NOL
   controller: NOL
@@ -51,9 +49,9 @@
     GODO: no
     NOL: yes
 867.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    highland-chalcedonism: 0
+    highland-catholic: 1
 867.3.23:
   owner: SCO
   controller: SCO
@@ -61,9 +59,9 @@
     NOL: no
     SCO: yes
 1066.12.25:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    highland-catholic: 0
+    scottish-catholic: 1
 1296.1.1:
   controller: ENG
 1314.1.1:
@@ -81,9 +79,9 @@
 1550.1.1:
   controller: SCO
 1560.8.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    scottish-catholic: 0
+    scottish-calvinist: 1
 1650.12.24:
   controller: ENG
 1652.4.21:

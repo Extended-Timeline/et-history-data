@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/2046 - Nasirabad.txt
 2.1.1:
+  pops: 
+    bengali-mahayana: 1
   owner: PUND
   controller: PUND
   cores:
     PUND: yes
   resource: cotton
-  pops:
-    - religion: mahayana
-      estate: peasant
-      size: 1000
 330.1.1:
   owner: KAMA
   controller: KAMA
@@ -28,9 +26,9 @@
     GAUD: no
     KAMA: yes
 650.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    bengali-mahayana: 0
+    bengali-hindu: 1
 732.1.1:
   owner: KANN
   controller: KANN
@@ -113,9 +111,9 @@
   cores:
     MUG: no
 1750.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    bengali-hindu: 0
+    bengali-sunni: 1
 1760.1.1:
   owner: GBR
   controller: GBR

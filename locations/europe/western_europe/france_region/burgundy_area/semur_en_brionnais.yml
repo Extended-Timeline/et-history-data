@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/1877 - Charolais.txt
 2.1.1:
+  pops: 
+    gallian-druidism: 1
   owner: ROM
   controller: ROM
   cores:
     ROM: yes
   resource: salt
-  pops:
-    - religion: druidism
-      estate: peasant
-      size: 1000
 260.1.1:
   cores:
     GALL: yes
@@ -17,9 +15,9 @@
   cores:
     GALL: no
 320.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    gallian-druidism: 0
+    gallian-chalcedonism: 1
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -27,18 +25,18 @@
     ROM: no
     ROMW: yes
 455.1.1:
+  pops: 
+    gallian-chalcedonism: 0
+    burgundione-chalcedonism: 1
   owner: BUR
   controller: BUR
   cores:
     ROMW: no
     BUR: yes
-  pops:
-    - estate: peasant
-      size: 1000
 486.6.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    burgundione-chalcedonism: 0
+    burgundian-chalcedonism: 1
 534.1.1:
   owner: NEUS
   controller: NEUS
@@ -104,9 +102,9 @@
     PRO: no
     LOT: yes
 867.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    burgundian-chalcedonism: 0
+    burgundian-catholic: 1
 870.8.8:
   owner: WFRA
   controller: WFRA

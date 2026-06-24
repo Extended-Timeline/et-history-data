@@ -1,18 +1,16 @@
 #imported from EU4 file: history/provinces/615 - Luang Prabang.txt
 2.1.1:
-  pops:
-    - religion: satsana_phi
-      estate: peasant
-      size: 1000
+  pops: 
+    khmu_culture-satsana_phi: 1
 620.1.1:
+  pops: 
+    khmu_culture-satsana_phi: 0
+    lao_culture-satsana_phi: 1
   owner: LUPR
   controller: LUPR
   cores:
     LUPR: yes
   resource: chinaware
-  pops:
-    - estate: peasant
-      size: 1000
 880.1.1:
   owner: CAMB
   controller: CAMB
@@ -41,9 +39,9 @@
   cores:
     LAXA: yes
 1560.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    lao_culture-satsana_phi: 0
+    lao_culture-theravada: 1
 1707.1.1:
   owner: LUPR
   controller: LUPR

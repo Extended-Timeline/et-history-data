@@ -1,26 +1,24 @@
 #imported from EU4 file: history/provinces/2399 - Pagan.txt
 2.1.1:
+  pops: 
+    pyu-theravada: 1
   owner: PAGA
   controller: PAGA
   cores:
     PAGA: yes
   resource: tropical_wood
-  pops:
-    - religion: theravada
-      estate: peasant
-      size: 1000
 750.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    pyu-theravada: 0
+    pyu-tibetan_buddhism: 1
 800.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    pyu-tibetan_buddhism: 0
+    burmese_culture-tibetan_buddhism: 1
 1050.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    burmese_culture-tibetan_buddhism: 0
+    burmese_culture-theravada: 1
 1297.12.17:
   owner: MYIN
   controller: MYIN

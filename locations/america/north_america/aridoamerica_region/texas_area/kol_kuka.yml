@@ -1,13 +1,11 @@
 #imported from EU4 file: history/provinces/2500 - Querecho.txt
 2.1.1:
-  pops:
-    - religion: iroquoian_totemism
-      estate: peasant
-      size: 1000
+  pops: 
+    coahuilteco_culture-iroquoian_totemism: 1
 1200.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    coahuilteco_culture-iroquoian_totemism: 0
+    lepai_nde_culture-iroquoian_totemism: 1
 1720.1.1:
   owner: LIPA
   controller: LIPA
@@ -15,22 +13,21 @@
     LIPA: yes
   resource: grain
 1835.1.1:
+  pops: 
+    lepai_nde_culture-iroquoian_totemism: 0
+    mexican-catholic: 1
   owner: MEX
   controller: MEX
   cores:
     MEX: yes
-  pops:
-    - religion: catholic
-      estate: peasant
-      size: 1000
 1836.3.2:
+  pops: 
+    mexican-catholic: 0
+    british_louisianan-catholic: 1
   owner: TEXA
   controller: TEXA
   cores:
     TEXA: yes
-  pops:
-    - estate: peasant
-      size: 1000
 1845.12.29:
   owner: USA
   controller: USA
@@ -40,9 +37,9 @@
   cores:
     MEX: no
 1850.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    british_louisianan-catholic: 0
+    british_louisianan-lutheran: 1
 1861.2.1:
   owner: TEXA
   controller: TEXA

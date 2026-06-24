@@ -1,9 +1,7 @@
 #imported from EU4 file: history/provinces/2288 - Yao.txt
 2.1.1:
-  pops:
-    - religion: bantu_religion
-      estate: peasant
-      size: 1000
+  pops: 
+    bilala_culture-bantu_religion: 1
 523.1.1:
   owner: KBO
   controller: KBO
@@ -11,9 +9,9 @@
     KBO: yes
   resource: grain
 1064.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    bilala_culture-bantu_religion: 0
+    bilala_culture-sunni: 1
 1370.1.1:
   owner: YAO
   controller: YAO

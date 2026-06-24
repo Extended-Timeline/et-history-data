@@ -1,18 +1,16 @@
 #imported from EU4 file: history/provinces/2694 - Gangwon.txt
 2.1.1:
+  pops: 
+    korean_culture-muism: 1
   owner: DONG
   controller: DONG
   cores:
     DONG: yes
   resource: fish
-  pops:
-    - religion: muism
-      estate: peasant
-      size: 1000
 372.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    korean_culture-muism: 0
+    korean_culture-mahayana: 1
 400.1.1:
   owner: GOGU
   controller: GOGU
@@ -38,14 +36,14 @@
     GOGU: no
     GORY: yes
 1392.7.12:
+  pops: 
+    korean_culture-mahayana: 0
+    korean_culture-sanjiao: 1
   owner: KOR
   controller: KOR
   cores:
     GORY: no
     KOR: yes
-  pops:
-    - estate: peasant
-      size: 1000
 1627.1.1:
   cores:
     MCH: yes
@@ -74,6 +72,3 @@
     SKOR: yes
     NKOR: yes
 1960.1.1:
-  pops:
-    - estate: peasant
-      size: 1000

@@ -1,18 +1,16 @@
 #imported from EU4 file: history/provinces/1006 - Chipewyan.txt
 2.1.1:
-  pops:
-    - religion: mari_paganism
-      estate: peasant
-      size: 1000
+  pops: 
+    inuit_culture-mari_paganism: 1
 1717.1.1:
+  pops: 
+    inuit_culture-mari_paganism: 0
+    inuit_culture-catholic: 1
   owner: GBR
   controller: GBR
   cores:
     GBR: yes
   resource: fur
-  pops:
-    - estate: peasant
-      size: 1000
 1870.7.15:
   owner: CAN
   controller: CAN

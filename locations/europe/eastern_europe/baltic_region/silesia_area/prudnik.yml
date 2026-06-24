@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/4723 - Opole.txt
 2.1.1:
+  pops: 
+    vandal-germanic: 1
   owner: VAND
   controller: VAND
   cores:
     VAND: yes
   resource: grain
-  pops:
-    - religion: germanic_polytheism
-      estate: peasant
-      size: 1000
 395.1.1:
   owner: NAHA
   controller: NAHA
@@ -16,24 +14,23 @@
     VAND: no
     NAHA: yes
 550.1.1:
+  pops: 
+    vandal-germanic: 0
+    silesian-slavic: 1
   owner: SIL
   controller: SIL
   cores:
     NAHA: no
     SIL: yes
-  pops:
-    - religion: slavic_polytheism
-      estate: peasant
-      size: 1000
 940.1.1:
   owner: BOH
   controller: BOH
   cores:
     BOH: yes
 980.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    silesian-slavic: 0
+    silesian-catholic: 1
 990.1.1:
   owner: POL
   controller: POL
@@ -46,9 +43,9 @@
   cores:
     OPL: yes
 1523.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    silesian-catholic: 0
+    silesian-lutheran: 1
 1675.11.21:
   owner: HAB
   controller: HAB
@@ -81,6 +78,3 @@
     GER: no
     POL: yes
 1950.1.1:
-  pops:
-    - estate: peasant
-      size: 1000

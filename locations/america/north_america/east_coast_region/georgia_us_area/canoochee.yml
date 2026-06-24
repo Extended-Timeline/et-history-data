@@ -1,42 +1,37 @@
 #imported from EU4 file: history/provinces/929 - Muskogee.txt
 2.1.1:
-  pops:
-    - religion: iroquoian_totemism
-      estate: peasant
-      size: 1000
+  pops: 
+    yamasee_culture-iroquoian_totemism: 1
 1602.1.1:
+  pops: 
+    yamasee_culture-iroquoian_totemism: 0
+    castilian-catholic: 1
   owner: SPA
   controller: SPA
   cores:
     SPA: yes
   resource: cotton
-  pops:
-    - religion: catholic
-      estate: peasant
-      size: 1000
 1702.1.1:
+  pops: 
+    castilian-catholic: 0
+    muscogee_culture-iroquoian_totemism: 1
   owner: MCG
   controller: MCG
   cores:
     SPA: no
     MCG: yes
-  pops:
-    - religion: iroquoian_totemism
-      estate: peasant
-      size: 1000
 1733.2.12:
+  pops: 
+    muscogee_culture-iroquoian_totemism: 0
+    english-lutheran: 1
   owner: GBR
   controller: GBR
   cores:
     GBR: yes
-  pops:
-    - religion: lutheran
-      estate: peasant
-      size: 1000
 1764.7.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    english-lutheran: 0
+    british_louisianan-lutheran: 1
 1776.7.4:
   owner: USA
   controller: USA

@@ -1,38 +1,34 @@
 #imported from EU4 file: history/provinces/2961 - Lwow.txt
 2.1.1:
+  pops: 
+    pannonian-druidism: 1
   owner: BAST
   controller: BAST
   cores:
     BAST: yes
   resource: dyes
-  pops:
-    - religion: druidism
-      estate: peasant
-      size: 1000
 150.1.1:
-  pops:
-    - religion: germanic_polytheism
-      estate: peasant
-      size: 1000
+  pops: 
+    pannonian-druidism: 0
+    gothic-germanic: 1
 200.1.1:
+  pops: 
+    gothic-germanic: 0
+    gepid-germanic: 1
   owner: GEPI
   controller: GEPI
   cores:
     BAST: no
     GEPI: yes
-  pops:
-    - estate: peasant
-      size: 1000
 450.1.1:
+  pops: 
+    gepid-germanic: 0
+    ruthenian-slavic: 1
   owner: WHCR
   controller: WHCR
   cores:
     GEPI: no
     WHCR: yes
-  pops:
-    - religion: slavic_polytheism
-      estate: peasant
-      size: 1000
 804.1.1:
   owner: HUN
   controller: HUN
@@ -53,9 +49,9 @@
     POL: no
     KIEV: yes
 988.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    ruthenian-slavic: 0
+    ruthenian-orthodox: 1
 1054.2.20:
   owner: HAL
   controller: HAL

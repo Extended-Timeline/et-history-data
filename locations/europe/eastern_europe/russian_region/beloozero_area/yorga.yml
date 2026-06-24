@@ -1,9 +1,7 @@
 #imported from EU4 file: history/provinces/314 - Ustyug.txt
 2.1.1:
-  pops:
-    - religion: muinaisusko
-      estate: peasant
-      size: 1000
+  pops: 
+    vepsian-muinaisusko: 1
 750.1.1:
   owner: VEPS
   controller: VEPS
@@ -17,13 +15,13 @@
     VEPS: no
     NOV: yes
 1200.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    vepsian-muinaisusko: 0
+    novgorodian-muinaisusko: 1
 1220.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    novgorodian-muinaisusko: 0
+    novgorodian-orthodox: 1
 1412.1.1:
   owner: MOS
   controller: MOS

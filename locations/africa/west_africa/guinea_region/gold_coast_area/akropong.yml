@@ -1,27 +1,25 @@
 #imported from EU4 file: history/provinces/1139 - Gold Coast.txt
 2.1.1:
-  pops:
-    - religion: bantu_religion
-      estate: peasant
-      size: 1000
+  pops: 
+    akan-bantu_religion: 1
 1550.1.1:
+  pops: 
+    akan-bantu_religion: 0
+    akan-catholic: 1
   owner: POR
   controller: POR
   resource: gold
-  pops:
-    - estate: peasant
-      size: 1000
 1600.1.1:
   cores:
     POR: yes
 1652.1.1:
+  pops: 
+    akan-catholic: 0
+    akan-lutheran: 1
   owner: SWE
   controller: SWE
   cores:
     POR: no
-  pops:
-    - estate: peasant
-      size: 1000
 1657.1.1:
   owner: DAN
   controller: DAN

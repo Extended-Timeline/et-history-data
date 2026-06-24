@@ -1,17 +1,15 @@
 #imported from EU4 file: history/provinces/4042 - Makonde.txt
 2.1.1:
-  pops:
-    - religion: bantu_religion
-      estate: peasant
-      size: 1000
+  pops: 
+    sandawe_culture-bantu_religion: 1
 300.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    sandawe_culture-bantu_religion: 0
+    makhuwa_culture-bantu_religion: 1
 1750.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    makhuwa_culture-bantu_religion: 0
+    makhuwa_culture-sunni: 1
 1905.1.1:
   owner: GER
   controller: GER

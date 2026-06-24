@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/4404 - Minsin.txt
 2.1.1:
+  pops: 
+    burmese_culture-bimoism: 1
   owner: PONG
   controller: PONG
   cores:
     PONG: yes
   resource: grain
-  pops:
-    - religion: bimoism
-      estate: peasant
-      size: 1000
 1050.1.1:
   owner: PAGA
   controller: PAGA
@@ -16,9 +14,9 @@
     PONG: no
     PAGA: yes
 1100.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    burmese_culture-bimoism: 0
+    kado_culture-bimoism: 1
 1215.1.1:
   owner: MKA
   controller: MKA
@@ -37,9 +35,9 @@
     SHA: no
     MKA: yes
 1700.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    kado_culture-bimoism: 0
+    kado_culture-theravada: 1
 1796.1.1:
   owner: BURM
   controller: BURM

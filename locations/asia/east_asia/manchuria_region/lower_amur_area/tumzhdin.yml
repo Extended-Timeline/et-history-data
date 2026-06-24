@@ -1,9 +1,7 @@
 #imported from EU4 file: history/provinces/4216 - Ulch.txt
 2.1.1:
-  pops:
-    - religion: 
-      estate: peasant
-      size: 1000
+  pops: 
+    jurchen_culture-: 1
 600.1.1:
   owner: HSMO
   controller: HSMO
@@ -17,13 +15,12 @@
     HSMO: no
     ORQ: yes
 1620.1.1:
+  pops: 
+    manchu_new-: 1
   owner: MCH
   controller: MCH
   cores:
     MCH: yes
-  pops:
-    - estate: peasant
-      size: 1000
 1636.5.15:
   owner: QNG
   controller: QNG
@@ -43,10 +40,8 @@
     RUS: no
     SOVI: yes
 1930.1.1:
-  pops:
-    - religion: orthodox
-      estate: peasant
-      size: 1000
+  pops: 
+    muscovite-orthodox: 1
 1991.12.25:
   owner: RUS
   controller: RUS

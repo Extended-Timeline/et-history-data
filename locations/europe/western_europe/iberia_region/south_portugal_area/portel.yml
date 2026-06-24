@@ -1,18 +1,16 @@
 #imported from EU4 file: history/provinces/4150 - Evora.txt
 2.1.1:
+  pops: 
+    turduli-druidism: 1
   owner: ROM
   controller: ROM
   cores:
     ROM: yes
   resource: wine
-  pops:
-    - religion: druidism
-      estate: peasant
-      size: 1000
 360.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    turduli-druidism: 0
+    turduli-chalcedonism: 1
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -51,13 +49,13 @@
     UMAY: no
     CRDB: yes
 770.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    turduli-chalcedonism: 0
+    turduli-sunni: 1
 800.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    turduli-sunni: 0
+    andalusi-sunni: 1
 1011.1.1:
   owner: BADJ
   controller: BADJ
@@ -91,18 +89,18 @@
   cores:
     MOR: yes
 1165.9.1:
+  pops: 
+    andalusi-sunni: 0
+    portuguese-sunni: 1
   owner: POR
   controller: POR
   cores:
     MOR: no
     POR: yes
-  pops:
-    - estate: peasant
-      size: 1000
 1220.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    portuguese-sunni: 0
+    portuguese-catholic: 1
 1704.1.1:
   controller: SPA
 1713.4.11:

@@ -1,18 +1,16 @@
 #imported from EU4 file: history/provinces/1863 - Graz.txt
 2.1.1:
+  pops: 
+    noric-druidism: 1
   owner: ROM
   controller: ROM
   cores:
     ROM: yes
   resource: grain
-  pops:
-    - religion: druidism
-      estate: peasant
-      size: 1000
 340.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    noric-druidism: 0
+    noric-chalcedonism: 1
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -20,10 +18,9 @@
     ROM: no
     ROMW: yes
 420.1.1:
-  pops:
-    - religion: germanic_polytheism
-      estate: peasant
-      size: 1000
+  pops: 
+    noric-chalcedonism: 0
+    danube_bavarian-germanic: 1
 476.9.4:
   owner: ITA
   controller: ITA
@@ -39,9 +36,9 @@
     ITA: no
     OSTR: yes
 500.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    danube_bavarian-germanic: 0
+    danube_bavarian-arianism: 1
 553.1.1:
   owner: LOMB
   controller: LOMB
@@ -49,15 +46,14 @@
     OSTR: no
     LOMB: yes
 591.1.1:
+  pops: 
+    danube_bavarian-arianism: 0
+    slovene-slavic: 1
   owner: AVR
   controller: AVR
   cores:
     LOMB: no
     AVR: yes
-  pops:
-    - religion: slavic_polytheism
-      estate: peasant
-      size: 1000
 623.1.1:
   owner: SAMO
   controller: SAMO
@@ -71,9 +67,9 @@
     SAMO: no
     CRH: yes
 660.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    slovene-slavic: 0
+    slovene-chalcedonism: 1
 745.1.1:
   owner: BAV
   controller: BAV
@@ -81,9 +77,9 @@
     CRH: no
     BAV: yes
 750.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    slovene-chalcedonism: 0
+    danube_bavarian-chalcedonism: 1
 788.1.1:
   owner: FRAN
   controller: FRAN
@@ -97,9 +93,9 @@
     FRAN: no
     BAV: yes
 867.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    danube_bavarian-chalcedonism: 0
+    danube_bavarian-catholic: 1
 880.3.22:
   owner: EFRA
   controller: EFRA

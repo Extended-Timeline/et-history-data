@@ -1,23 +1,20 @@
 #imported from EU4 file: history/provinces/2600 - Nihithawak.txt
 2.1.1:
-  pops:
-    - religion: iroquoian_totemism
-      estate: peasant
-      size: 1000
+  pops: 
+    mahmikiwini_culture-iroquoian_totemism: 1
 1788.1.1:
+  pops: 
+    mahmikiwini_culture-iroquoian_totemism: 0
+    english-catholic: 1
   owner: GBR
   controller: GBR
   cores:
     GBR: yes
   resource: fur
-  pops:
-    - religion: catholic
-      estate: peasant
-      size: 1000
 1790.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    english-catholic: 0
+    british_canadian-catholic: 1
 1870.7.15:
   owner: CAN
   controller: CAN

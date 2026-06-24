@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/4757 - Kolubara.txt
 2.1.1:
+  pops: 
+    illyrian-zamolxism: 1
   owner: ROM
   controller: ROM
   cores:
     ROM: yes
   resource: grain
-  pops:
-    - religion: zamolxism
-      estate: peasant
-      size: 1000
 395.1.17:
   owner: BYZ
   controller: BYZ
@@ -27,9 +25,9 @@
     HUNS: no
     OSTR: yes
 470.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    illyrian-zamolxism: 0
+    illyrian-arianism: 1
 488.1.1:
   owner: GEPI
   controller: GEPI
@@ -46,29 +44,28 @@
   cores:
     OSTR: no
 520.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    illyrian-arianism: 0
+    illyrian-chalcedonism: 1
 584.1.1:
   controller: AVR
 592.1.1:
   controller: BYZ
 610.1.1:
+  pops: 
+    illyrian-chalcedonism: 0
+    serbian-slavic: 1
   cores:
     SER: yes
-  pops:
-    - religion: slavic_polytheism
-      estate: peasant
-      size: 1000
 630.1.1:
   owner: SER
   controller: SER
   cores:
     BYZ: no
 869.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    serbian-slavic: 0
+    serbian-orthodox: 1
 924.1.1:
   owner: BUL
   controller: BUL

@@ -1,27 +1,24 @@
 #imported from EU4 file: history/provinces/933 - Catawba.txt
 2.1.1:
+  pops: 
+    catawba_culture-iroquoian_totemism: 1
   owner: CFQ
   controller: CFQ
   cores:
     CFQ: yes
   resource: tobacco
-  pops:
-    - religion: iroquoian_totemism
-      estate: peasant
-      size: 1000
 1735.1.1:
+  pops: 
+    catawba_culture-iroquoian_totemism: 0
+    english-lutheran: 1
   owner: GBR
   controller: GBR
   cores:
     GBR: yes
-  pops:
-    - religion: lutheran
-      estate: peasant
-      size: 1000
 1764.7.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    english-lutheran: 0
+    british_louisianan-lutheran: 1
 1776.7.4:
   owner: USA
   controller: USA

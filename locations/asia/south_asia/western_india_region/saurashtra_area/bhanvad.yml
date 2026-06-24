@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/521 - Rajkot.txt
 2.1.1:
+  pops: 
+    gujarati-hindu: 1
   owner: WSAT
   controller: WSAT
   cores:
     WSAT: yes
   resource: dyes
-  pops:
-    - religion: hindu
-      estate: peasant
-      size: 1000
 405.1.1:
   owner: GUPT
   controller: GUPT
@@ -34,9 +32,9 @@
     PORD: no
     JNG: yes
 1080.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    gujarati-hindu: 0
+    gujarati-jain: 1
 1147.1.1:
   owner: KATH
   controller: KATH
@@ -44,9 +42,9 @@
     JNG: no
     KATH: yes
 1190.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    gujarati-jain: 0
+    gujarati-hindu: 1
 1470.1.1:
   owner: GUJ
   controller: GUJ

@@ -1,18 +1,16 @@
 #imported from EU4 file: history/provinces/388 - Aden.txt
 2.1.1:
+  pops: 
+    yemeni_culture-south_arabian: 1
   owner: HIMY
   controller: HIMY
   cores:
     HIMY: yes
   resource: incense
-  pops:
-    - religion: south_arabian_polytheism
-      estate: peasant
-      size: 1000
 500.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    yemeni_culture-south_arabian: 0
+    yemeni_culture-judaism: 1
 525.1.1:
   owner: AKSM
   controller: AKSM
@@ -26,22 +24,22 @@
     AKSM: no
     YEM: yes
 628.1.1:
+  pops: 
+    yemeni_culture-judaism: 0
+    yemeni_culture-islam: 1
   owner: RASH
   controller: RASH
   cores:
     RASH: yes
-  pops:
-    - estate: peasant
-      size: 1000
 661.7.28:
+  pops: 
+    yemeni_culture-islam: 0
+    yemeni_culture-sunni: 1
   owner: UMAY
   controller: UMAY
   cores:
     RASH: no
     UMAY: yes
-  pops:
-    - estate: peasant
-      size: 1000
 750.8.6:
   owner: ABBA
   controller: ABBA

@@ -1,9 +1,7 @@
 #imported from EU4 file: history/provinces/4937 - Kubuna.txt
 2.1.1:
-  pops:
-    - religion: bimoism
-      estate: peasant
-      size: 1000
+  pops: 
+    maohi_culture-bimoism: 1
 900.1.1:
   owner: KBN
   controller: KBN
@@ -11,9 +9,9 @@
     KBN: yes
   resource: livestock
 1840.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    maohi_culture-bimoism: 0
+    maohi_culture-lutheran: 1
 1871.6.5:
   owner: FIJI
   controller: FIJI

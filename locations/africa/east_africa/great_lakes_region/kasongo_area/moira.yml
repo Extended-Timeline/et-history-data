@@ -1,9 +1,7 @@
 #imported from EU4 file: history/provinces/4101 - Katanga.txt
 2.1.1:
-  pops:
-    - religion: bantu_religion
-      estate: peasant
-      size: 1000
+  pops: 
+    luba-bantu_religion: 1
 1350.1.1:
   owner: KAZE
   controller: KAZE
@@ -11,14 +9,14 @@
     KAZE: yes
   resource: salt
 1894.1.1:
+  pops: 
+    luba-bantu_religion: 0
+    luba-lutheran: 1
   owner: BEL
   controller: BEL
   cores:
     BEL: yes
   resource: copper
-  pops:
-    - estate: peasant
-      size: 1000
 1960.7.1:
   owner: DRCO
   controller: DRCO

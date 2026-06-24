@@ -1,9 +1,7 @@
 #imported from EU4 file: history/provinces/2258 - Cape Coast.txt
 2.1.1:
-  pops:
-    - religion: bantu_religion
-      estate: peasant
-      size: 1000
+  pops: 
+    akan-bantu_religion: 1
 1400.1.1:
   owner: DENK
   controller: DENK
@@ -14,11 +12,11 @@
   owner: POR
   controller: POR
 1532.1.1:
+  pops: 
+    akan-bantu_religion: 0
+    akan-catholic: 1
   cores:
     POR: yes
-  pops:
-    - estate: peasant
-      size: 1000
 1600.1.1:
   resource: slaves
 1637.8.29:
@@ -36,9 +34,9 @@
     NED: no
     GBR: yes
 1900.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    akan-catholic: 0
+    akan-lutheran: 1
 1957.3.6:
   owner: GHA
   controller: GHA

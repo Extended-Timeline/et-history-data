@@ -1,9 +1,7 @@
 #imported from EU4 file: history/provinces/2757 - Kefa.txt
 2.1.1:
-  pops:
-    - religion: bantu_religion
-      estate: peasant
-      size: 1000
+  pops: 
+    sidama_culture-bantu_religion: 1
 1180.1.1:
   owner: KAFF
   controller: KAFF
@@ -11,9 +9,9 @@
     KAFF: yes
   resource: gold
 1390.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    sidama_culture-bantu_religion: 0
+    sidama_culture-miaphysite: 1
 1897.9.10:
   owner: ETH
   controller: ETH

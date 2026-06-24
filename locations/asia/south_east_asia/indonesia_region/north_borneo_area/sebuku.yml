@@ -1,9 +1,7 @@
 #imported from EU4 file: history/provinces/2709 - Tarakan.txt
 2.1.1:
-  pops:
-    - religion: bimoism
-      estate: peasant
-      size: 1000
+  pops: 
+    bidayuh_culture-bimoism: 1
 950.1.1:
   owner: TIDU
   controller: TIDU
@@ -16,9 +14,9 @@
   cores:
     BERA: yes
 1700.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    bidayuh_culture-bimoism: 0
+    bidayuh_culture-sunni: 1
 1703.1.1:
   owner: SULU
   controller: SULU

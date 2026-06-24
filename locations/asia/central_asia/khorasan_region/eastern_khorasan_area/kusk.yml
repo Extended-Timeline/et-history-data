@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/445 - Marv.txt
 2.1.1:
+  pops: 
+    parthian-zoroastrian: 1
   owner: PART
   controller: PART
   cores:
     PART: yes
   resource: cotton
-  pops:
-    - religion: zoroastrian
-      estate: peasant
-      size: 1000
 180.1.1:
   owner: KUSH
   controller: KUSH
@@ -21,13 +19,13 @@
     KUSH: no
     ERA: yes
 424.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    parthian-zoroastrian: 0
+    parthian-chalcedonism: 1
 431.7.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    parthian-chalcedonism: 0
+    parthian-nestorianism: 1
 484.1.1:
   owner: HEPH
   controller: HEPH
@@ -45,9 +43,9 @@
     ERA: no
     RASH: yes
 650.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    parthian-nestorianism: 0
+    khorasani_culture-nestorianism: 1
 661.7.28:
   owner: UMAY
   controller: UMAY
@@ -61,9 +59,9 @@
     UMAY: no
     ABBA: yes
 770.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    khorasani_culture-nestorianism: 0
+    khorasani_culture-sunni: 1
 819.1.1:
   owner: KRT
   controller: KRT
@@ -88,9 +86,9 @@
     BUKH: no
     GHAZ: yes
 1020.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    khorasani_culture-sunni: 0
+    turkmen_culture-sunni: 1
 1037.1.1:
   owner: SELJ
   controller: SELJ
@@ -145,22 +143,22 @@
 1505.1.1:
   controller: BUKH
 1506.1.1:
+  pops: 
+    turkmen_culture-sunni: 0
+    uzbek_culture-sunni: 1
   owner: BUKH
   cores:
     KHOR: no
     BUKH: yes
-  pops:
-    - estate: peasant
-      size: 1000
 1510.12.2:
   owner: IRA
   controller: IRA
   cores:
     IRA: yes
 1700.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    uzbek_culture-sunni: 0
+    turkmen_culture-sunni: 1
 1750.1.2:
   owner: KHOR
   controller: KHOR

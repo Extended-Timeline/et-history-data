@@ -1,19 +1,16 @@
 #imported from EU4 file: history/provinces/2322 - Wadi Halfa.txt
 2.1.1:
+  pops: 
+    kushite-egyptian: 1
   owner: MERO
   controller: MERO
   cores:
     MERO: yes
   resource: livestock
-  pops:
-    - religion: egyptian_polytheism
-      estate: peasant
-      size: 1000
 340.1.1:
-  pops:
-    - religion: bantu_religion
-      estate: peasant
-      size: 1000
+  pops: 
+    kushite-egyptian: 0
+    nubian_language-bantu_religion: 1
 350.1.1:
   owner: MAK
   controller: MAK
@@ -21,9 +18,9 @@
     MERO: no
     MAK: yes
 550.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    nubian_language-bantu_religion: 0
+    nubian_language-miaphysite: 1
 1276.1.1:
   owner: MAM
   controller: MAM
@@ -64,6 +61,3 @@
     GBR: no
     EGY: no
 1960.1.1:
-  pops:
-    - estate: peasant
-      size: 1000

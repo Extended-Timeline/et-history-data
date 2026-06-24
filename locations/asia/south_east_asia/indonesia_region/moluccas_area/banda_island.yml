@@ -1,18 +1,16 @@
 #imported from EU4 file: history/provinces/2725 - Aru.txt
 2.1.1:
-  pops:
-    - religion: bimoism
-      estate: peasant
-      size: 1000
+  pops: 
+    tetum_culture-bimoism: 1
 1850.1.1:
+  pops: 
+    tetum_culture-bimoism: 0
+    tetum_culture-calvinist: 1
   owner: NED
   controller: NED
   cores:
     NED: yes
   resource: spices
-  pops:
-    - estate: peasant
-      size: 1000
 1912.9.10:
   cores:
     INDN: yes

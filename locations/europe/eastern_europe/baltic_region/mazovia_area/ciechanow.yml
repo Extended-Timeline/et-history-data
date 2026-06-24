@@ -1,24 +1,21 @@
 #imported from EU4 file: history/provinces/1938 - Wizna.txt
 2.1.1:
+  pops: 
+    yotvingian-romuva: 1
   owner: NEUR
   controller: NEUR
   cores:
     NEUR: yes
   resource: naval_supplies
-  pops:
-    - religion: romuva
-      estate: peasant
-      size: 1000
 450.1.1:
+  pops: 
+    yotvingian-romuva: 0
+    lesser_polish-slavic: 1
   owner: MAZ
   controller: MAZ
   cores:
     NEUR: no
     MAZ: yes
-  pops:
-    - religion: slavic_polytheism
-      estate: peasant
-      size: 1000
 940.1.1:
   owner: POL
   controller: POL
@@ -33,9 +30,9 @@
   owner: POL
   controller: POL
 1080.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    lesser_polish-slavic: 0
+    lesser_polish-catholic: 1
 1138.10.28:
   owner: MAZ
   controller: MAZ

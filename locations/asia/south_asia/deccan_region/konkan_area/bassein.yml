@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/529 - North Konkan.txt
 2.1.1:
+  pops: 
+    marathi_culture-jain: 1
   owner: SATA
   controller: SATA
   cores:
     SATA: yes
   resource: cloth
-  pops:
-    - religion: jain
-      estate: peasant
-      size: 1000
 80.1.1:
   owner: WSAT
   controller: WSAT
@@ -59,9 +57,9 @@
     RAST: no
     KONK: yes
 820.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    marathi_culture-jain: 0
+    marathi_culture-hindu: 1
 1265.1.1:
   owner: YADA
   controller: YADA

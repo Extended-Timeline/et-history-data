@@ -1,15 +1,13 @@
 #imported from EU4 file: history/provinces/2229 - Bust.txt
 2.1.1:
+  pops: 
+    afghan_culture-zunism: 1
   owner: IPAR
   controller: IPAR
   cores:
     IPAR: yes
     SURE: yes
   resource: livestock
-  pops:
-    - religion: zunism
-      estate: peasant
-      size: 1000
 20.1.1:
   owner: SURE
   controller: SURE
@@ -40,9 +38,9 @@
     KHOR: no
     SIST: yes
 870.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    afghan_culture-zunism: 0
+    afghan_culture-sunni: 1
 913.5.24:
   owner: BUKH
   controller: BUKH

@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/4586 - Jakaltek.txt
 2.1.1:
+  pops: 
+    chol_culture-mayan: 1
   owner: YAXC
   controller: YAXC
   cores:
     YAXC: yes
   resource: cocoa
-  pops:
-    - religion: mayan
-      estate: peasant
-      size: 1000
 850.1.1:
   owner: LAC
   controller: LAC
@@ -16,18 +14,17 @@
     YAXC: no
     LAC: yes
 1521.8.13:
+  pops: 
+    chol_culture-mayan: 0
+    castilian-catholic: 1
   owner: SPA
   controller: SPA
   cores:
     SPA: yes
-  pops:
-    - religion: catholic
-      estate: peasant
-      size: 1000
 1770.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    castilian-catholic: 0
+    mexican-catholic: 1
 1810.9.16:
   owner: MEX
   controller: SPA

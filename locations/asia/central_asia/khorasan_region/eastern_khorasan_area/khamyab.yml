@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/4343 - Termez.txt
 2.1.1:
+  pops: 
+    sogdian-mahayana: 1
   owner: BACT
   controller: BACT
   cores:
     BACT: yes
   resource: livestock
-  pops:
-    - religion: mahayana
-      estate: peasant
-      size: 1000
 30.1.1:
   owner: KUSH
   controller: KUSH
@@ -65,23 +63,23 @@
     UMAY: no
     ABBA: yes
 819.1.1:
+  pops: 
+    sogdian-mahayana: 0
+    tajik_culture-mahayana: 1
   owner: SAMA
   controller: SAMA
   cores:
     ABBA: no
     SAMA: yes
-  pops:
-    - estate: peasant
-      size: 1000
 842.1.1:
   owner: KOKA
   controller: KOKA
   cores:
     KOKA: yes
 860.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    tajik_culture-mahayana: 0
+    tajik_culture-sunni: 1
 870.1.1:
   owner: GUZG
   controller: GUZG
@@ -145,9 +143,9 @@
   cores:
     TIM: yes
 1380.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    tajik_culture-sunni: 0
+    uzbek_culture-sunni: 1
 1449.1.1:
   owner: KHOR
   controller: KHOR

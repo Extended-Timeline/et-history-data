@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/2087 - Ajmer.txt
 2.1.1:
+  pops: 
+    marwari-hindu: 1
   owner: WSAT
   controller: WSAT
   cores:
     WSAT: yes
   resource: salt
-  pops:
-    - religion: hindu
-      estate: peasant
-      size: 1000
 360.1.1:
   owner: GUPT
   controller: GUPT

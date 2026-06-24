@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/2396 - Mong Kawng.txt
 2.1.1:
+  pops: 
+    tai_lu_culture-satsana_phi: 1
   owner: PONG
   controller: PONG
   cores:
     PONG: yes
   resource: gems
-  pops:
-    - religion: satsana_phi
-      estate: peasant
-      size: 1000
 820.1.1:
   owner: NANZ
   controller: NANZ
@@ -21,13 +19,13 @@
     NANZ: no
     CDL: yes
 950.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    tai_lu_culture-satsana_phi: 0
+    kado_culture-satsana_phi: 1
 1120.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    kado_culture-satsana_phi: 0
+    kado_culture-theravada: 1
 1215.1.1:
   owner: MKA
   controller: MKA

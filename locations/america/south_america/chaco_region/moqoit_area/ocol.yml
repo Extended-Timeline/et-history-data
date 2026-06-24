@@ -1,19 +1,16 @@
 #imported from EU4 file: history/provinces/2878 - Matara.txt
 2.1.1:
-  pops:
-    - religion: muisca_religion
-      estate: peasant
-      size: 1000
+  pops: 
+    guaikuru_culture-muisca_religion: 1
 1786.1.1:
+  pops: 
+    guaikuru_culture-muisca_religion: 0
+    iberian_la_platan-catholic: 1
   owner: SPA
   controller: SPA
   cores:
     SPA: yes
   resource: tobacco
-  pops:
-    - religion: catholic
-      estate: peasant
-      size: 1000
 1816.7.9:
   owner: ARGE
   controller: ARGE

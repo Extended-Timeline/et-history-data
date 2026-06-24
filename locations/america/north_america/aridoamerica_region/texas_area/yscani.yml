@@ -1,9 +1,7 @@
 #imported from EU4 file: history/provinces/4911 - Nabaydacu.txt
 2.1.1:
-  pops:
-    - religion: iroquoian_totemism
-      estate: peasant
-      size: 1000
+  pops: 
+    caddo_culture-iroquoian_totemism: 1
 1819.1.1:
   owner: CAD
   controller: CAD
@@ -11,14 +9,13 @@
     CAD: yes
   resource: grain
 1833.1.1:
+  pops: 
+    caddo_culture-iroquoian_totemism: 0
+    british_louisianan-lutheran: 1
   owner: MEX
   controller: MEX
   cores:
     MEX: yes
-  pops:
-    - religion: lutheran
-      estate: peasant
-      size: 1000
 1836.3.2:
   owner: TEXA
   controller: TEXA

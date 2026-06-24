@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/564 - Dacca.txt
 2.1.1:
+  pops: 
+    bengali-mahayana: 1
   owner: SAMT
   controller: SAMT
   cores:
     SAMT: yes
   resource: cloth
-  pops:
-    - religion: mahayana
-      estate: peasant
-      size: 1000
 605.1.1:
   owner: GAUD
   controller: GAUD
@@ -50,9 +48,9 @@
     SAMT: no
     GAUD: yes
 1160.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    bengali-mahayana: 0
+    bengali-hindu: 1
 1230.1.1:
   owner: SAMT
   controller: SAMT
@@ -81,9 +79,9 @@
   cores:
     DLH: no
 1560.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    bengali-hindu: 0
+    bengali-sunni: 1
 1576.7.12:
   owner: MUG
   controller: MUG

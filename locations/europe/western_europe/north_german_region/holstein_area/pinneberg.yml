@@ -1,18 +1,16 @@
 #imported from EU4 file: history/provinces/44 - Hamburg.txt
 2.1.1:
+  pops: 
+    lower_saxon-germanic: 1
   owner: SAX
   controller: SAX
   cores:
     SAX: yes
   resource: fish
-  pops:
-    - religion: germanic_polytheism
-      estate: peasant
-      size: 1000
 700.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    lower_saxon-germanic: 0
+    lower_saxon-chalcedonism: 1
 804.1.1:
   owner: FRAN
   controller: FRAN
@@ -25,9 +23,9 @@
     FRAN: no
     EFRA: yes
 867.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    lower_saxon-chalcedonism: 0
+    lower_saxon-catholic: 1
 911.11.10:
   owner: SAX
   controller: SAX
@@ -63,9 +61,9 @@
     HOLS: no
     HAM: yes
 1529.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    lower_saxon-catholic: 0
+    lower_saxon-lutheran: 1
 1810.12.13:
   owner: FRA
   controller: FRA

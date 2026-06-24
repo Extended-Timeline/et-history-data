@@ -1,50 +1,44 @@
 #imported from EU4 file: history/provinces/282 - Yedisan.txt
 2.1.1:
+  pops: 
+    sarmatian-: 1
   owner: SARM
   controller: SARM
   cores:
     SARM: yes
   resource: livestock
-  pops:
-    - religion: 
-      estate: peasant
-      size: 1000
 220.1.1:
+  pops: 
+    gothic-: 1
   owner: OSTR
   controller: OSTR
   cores:
     SARM: no
     OSTR: yes
-  pops:
-    - estate: peasant
-      size: 1000
 370.1.1:
+  pops: 
+    hunnic-: 1
   owner: HUNS
   controller: HUNS
   cores:
     OSTR: no
     HUNS: yes
-  pops:
-    - estate: peasant
-      size: 1000
 469.1.1:
+  pops: 
+    avar_culture-: 1
   owner: AVR
   controller: AVR
   cores:
     HUNS: no
     AVR: yes
-  pops:
-    - estate: peasant
-      size: 1000
 567.1.1:
+  pops: 
+    bolghar_culture-: 1
   owner: KUTR
   controller: KUTR
   cores:
     AVR: no
     KUTR: yes
-  pops:
-    - estate: peasant
-      size: 1000
 632.1.1:
   owner: BUL
   controller: BUL
@@ -52,23 +46,21 @@
     KUTR: no
     BUL: yes
 770.1.1:
+  pops: 
+    hungarian-: 1
   owner: HUN
   controller: HUN
   cores:
     BUL: no
     HUN: yes
-  pops:
-    - estate: peasant
-      size: 1000
 870.1.1:
+  pops: 
+    pecheneg-: 1
   owner: PECH
   controller: PECH
   cores:
     HUN: no
     PECH: yes
-  pops:
-    - estate: peasant
-      size: 1000
 1094.1.1:
   owner: CUMA
   controller: CUMA
@@ -76,10 +68,8 @@
     PECH: no
     CUMA: yes
 1220.1.1:
-  pops:
-    - religion: orthodox
-      estate: peasant
-      size: 1000
+  pops: 
+    ruthenian-orthodox: 1
 1241.1.1:
   owner: MGE
   controller: MGE
@@ -138,16 +128,10 @@
     TUR: no
     RUS: yes
 1820.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
 1850.1.1:
   cores:
     CRI: no
 1860.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
 1918.1.22:
   owner: UKR
   controller: UKR

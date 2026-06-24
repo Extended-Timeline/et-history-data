@@ -1,9 +1,7 @@
 #imported from EU4 file: history/provinces/302 - Tambow.txt
 2.1.1:
-  pops:
-    - religion: 
-      estate: peasant
-      size: 1000
+  pops: 
+    hungarian-: 1
 600.1.1:
   owner: HUN
   controller: HUN
@@ -11,18 +9,16 @@
     HUN: yes
   resource: iron
 750.1.1:
+  pops: 
+    moksha_culture-: 1
   owner: BURT
   controller: BURT
   cores:
     HUN: no
     BURT: yes
-  pops:
-    - estate: peasant
-      size: 1000
 940.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    cuman_culture-: 1
 969.1.1:
   owner: PECH
   controller: PECH
@@ -36,18 +32,17 @@
     PECH: no
     CUMA: yes
 1220.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    cuman_culture-sunni: 1
 1237.1.1:
+  pops: 
+    cuman_culture-sunni: 0
+    mishar-sunni: 1
   owner: MGE
   controller: MGE
   cores:
     CUMA: no
     MGE: yes
-  pops:
-    - estate: peasant
-      size: 1000
 1260.1.1:
   owner: WHHO
   controller: WHHO
@@ -90,10 +85,9 @@
     CRI: no
     RUS: yes
 1650.1.1:
-  pops:
-    - religion: orthodox
-      estate: peasant
-      size: 1000
+  pops: 
+    mishar-sunni: 0
+    muscovite-orthodox: 1
 1850.1.1:
   cores:
     CRI: no

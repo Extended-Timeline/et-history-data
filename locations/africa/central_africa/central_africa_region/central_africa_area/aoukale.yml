@@ -1,9 +1,7 @@
 #imported from EU4 file: history/provinces/3235 - Salamat.txt
 2.1.1:
-  pops:
-    - religion: bantu_religion
-      estate: peasant
-      size: 1000
+  pops: 
+    daju_language-bantu_religion: 1
 1100.1.1:
   owner: DAJ
   controller: DAJ
@@ -11,17 +9,17 @@
     DAJ: yes
   resource: grain
 1810.1.1:
+  pops: 
+    daju_language-bantu_religion: 0
+    daju_language-sunni: 1
   owner: WAD
   controller: WAD
   cores:
     WAD: yes
-  pops:
-    - estate: peasant
-      size: 1000
 1850.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    daju_language-sunni: 0
+    maba_africa_culture-sunni: 1
 1912.1.1:
   owner: FRA
   controller: FRA

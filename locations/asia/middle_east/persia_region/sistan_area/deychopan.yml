@@ -1,15 +1,13 @@
 #imported from EU4 file: history/provinces/447 - Kandahar.txt
 2.1.1:
+  pops: 
+    afghan_culture-zunism: 1
   owner: IPAR
   controller: IPAR
   cores:
     IPAR: yes
     SURE: yes
   resource: cotton
-  pops:
-    - religion: zunism
-      estate: peasant
-      size: 1000
 20.1.1:
   owner: SURE
   controller: SURE
@@ -33,11 +31,11 @@
   cores:
     SIST: yes
 875.1.1:
+  pops: 
+    afghan_culture-zunism: 0
+    afghan_culture-sunni: 1
   cores:
     ZUNB: no
-  pops:
-    - estate: peasant
-      size: 1000
 913.5.24:
   owner: BUKH
   controller: BUKH

@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/232 - Braganca.txt
 2.1.1:
+  pops: 
+    gallaecian-druidism: 1
   owner: ROM
   controller: ROM
   cores:
     ROM: yes
   resource: wine
-  pops:
-    - religion: druidism
-      estate: peasant
-      size: 1000
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -16,9 +14,9 @@
     ROM: no
     ROMW: yes
 400.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    gallaecian-druidism: 0
+    gallaecian-chalcedonism: 1
 409.6.1:
   owner: SUEB
   controller: SUEB
@@ -34,14 +32,14 @@
     SUEB: no
     VISG: yes
 711.1.1:
+  pops: 
+    gallaecian-chalcedonism: 0
+    portuguese-chalcedonism: 1
   owner: UMAY
   controller: UMAY
   cores:
     VISG: no
     UMAY: yes
-  pops:
-    - estate: peasant
-      size: 1000
 750.8.6:
   owner: CRDB
   controller: CRDB
@@ -49,9 +47,9 @@
     UMAY: no
     CRDB: yes
 867.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    portuguese-chalcedonism: 0
+    portuguese-catholic: 1
 970.1.1:
   owner: LON
   controller: LON

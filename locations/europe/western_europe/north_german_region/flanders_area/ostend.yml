@@ -1,31 +1,29 @@
 #imported from EU4 file: history/provinces/90 - Vlaanderen.txt
 2.1.1:
+  pops: 
+    belgae-druidism: 1
   owner: ROM
   controller: ROM
   cores:
     ROM: yes
   resource: cloth
-  pops:
-    - religion: druidism
-      estate: peasant
-      size: 1000
 260.1.1:
+  pops: 
+    belgae-druidism: 0
+    gallian-druidism: 1
   cores:
     GALL: yes
-  pops:
-    - estate: peasant
-      size: 1000
 274.1.1:
+  pops: 
+    gallian-druidism: 0
+    flemish-druidism: 1
   controller: ROM
   cores:
     GALL: no
-  pops:
-    - estate: peasant
-      size: 1000
 380.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    flemish-druidism: 0
+    flemish-chalcedonism: 1
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -81,9 +79,9 @@
     WFRA: no
     FLA: yes
 867.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    flemish-chalcedonism: 0
+    flemish-catholic: 1
 1477.1.5:
   owner: NED
   controller: NED

@@ -1,35 +1,33 @@
 #imported from EU4 file: history/provinces/633 - Flores.txt
 2.1.1:
-  pops:
-    - religion: bimoism
-      estate: peasant
-      size: 1000
+  pops: 
+    tetum_culture-bimoism: 1
 1515.1.1:
+  pops: 
+    tetum_culture-bimoism: 0
+    tetum_culture-catholic: 1
   owner: POR
   controller: POR
   resource: spices
-  pops:
-    - estate: peasant
-      size: 1000
 1540.1.1:
   cores:
     POR: yes
 1605.1.1:
+  pops: 
+    tetum_culture-catholic: 0
+    tetum_culture-bimoism: 1
   owner: XXX
   controller: XXX
   cores:
     POR: no
-  pops:
-    - estate: peasant
-      size: 1000
 1616.1.1:
+  pops: 
+    tetum_culture-bimoism: 0
+    tetum_culture-catholic: 1
   owner: POR
   controller: POR
   cores:
     POR: yes
-  pops:
-    - estate: peasant
-      size: 1000
 1618.1.1:
   owner: NED
   controller: NED

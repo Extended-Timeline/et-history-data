@@ -1,37 +1,33 @@
 #imported from EU4 file: history/provinces/1318 - Spis.txt
 2.1.1:
+  pops: 
+    pannonian-druidism: 1
   owner: GOTI
   controller: GOTI
   cores:
     GOTI: yes
   resource: copper
-  pops:
-    - religion: druidism
-      estate: peasant
-      size: 1000
 300.1.1:
+  pops: 
+    pannonian-druidism: 0
+    quadian-germanic: 1
   owner: QUAD
   controller: QUAD
   cores:
     GOTI: no
     QUAD: yes
-  pops:
-    - religion: germanic_polytheism
-      estate: peasant
-      size: 1000
 568.1.1:
+  pops: 
+    quadian-germanic: 0
+    quadian-: 1
   owner: AVR
   controller: AVR
   cores:
     QUAD: no
     AVR: yes
-  pops:
-    - estate: peasant
-      size: 1000
 580.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    slovak-: 1
 623.1.1:
   owner: SAMO
   controller: SAMO
@@ -62,9 +58,8 @@
     MVA: no
     HUN: yes
 950.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    slovak-catholic: 1
 1001.1.1:
   owner: POL
   controller: POL
@@ -85,26 +80,23 @@
   cores:
     HAB: yes
 1545.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    slovak-catholic: 0
+    slovak-lutheran: 1
 1567.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    slovak-lutheran: 0
+    slovak-calvinist: 1
 1606.1.1:
   controller: HAB
-  pops:
-    - estate: peasant
-      size: 1000
 1626.1.1:
   controller: HAB
 1711.1.1:
   controller: HAB
 1750.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    slovak-calvinist: 0
+    slovak-catholic: 1
 1918.10.28:
   owner: CZES
   controller: CZES

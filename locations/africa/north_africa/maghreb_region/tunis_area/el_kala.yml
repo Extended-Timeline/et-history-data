@@ -1,18 +1,16 @@
 #imported from EU4 file: history/provinces/1882 - Bone.txt
 2.1.1:
+  pops: 
+    zenati-bantu_religion: 1
   owner: ROM
   controller: ROM
   cores:
     ROM: yes
   resource: naval_supplies
-  pops:
-    - religion: bantu_religion
-      estate: peasant
-      size: 1000
 320.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    zenati-bantu_religion: 0
+    zenati-chalcedonism: 1
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -20,14 +18,14 @@
     ROM: no
     ROMW: yes
 432.1.1:
+  pops: 
+    zenati-chalcedonism: 0
+    zenati-arianism: 1
   owner: VAND
   controller: VAND
   cores:
     ROMW: no
     VAND: yes
-  pops:
-    - estate: peasant
-      size: 1000
 534.3.1:
   owner: BYZ
   controller: BYZ
@@ -35,9 +33,9 @@
     VAND: no
     BYZ: yes
 560.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    zenati-arianism: 0
+    zenati-chalcedonism: 1
 697.1.1:
   owner: UMAY
   controller: UMAY
@@ -45,9 +43,9 @@
     BYZ: no
     UMAY: yes
 740.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    zenati-chalcedonism: 0
+    zenati-sunni: 1
 745.1.1:
   owner: TUN
   controller: TUN

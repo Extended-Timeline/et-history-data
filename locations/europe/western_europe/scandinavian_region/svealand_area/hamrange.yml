@@ -1,9 +1,7 @@
 #imported from EU4 file: history/provinces/9 - Halsingland.txt
 2.1.1:
-  pops:
-    - religion: norse
-      estate: peasant
-      size: 1000
+  pops: 
+    swedish-norse: 1
 350.1.1:
   owner: SVEA
   controller: SVEA
@@ -17,10 +15,7 @@
     SVEA: no
     SWE: yes
 1080.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    swedish-norse: 0
+    swedish-catholic: 1
 1527.6.1:
-  pops:
-    - estate: peasant
-      size: 1000

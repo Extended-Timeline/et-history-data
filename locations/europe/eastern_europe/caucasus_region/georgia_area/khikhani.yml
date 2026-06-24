@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/462 - Georgia.txt
 2.1.1:
+  pops: 
+    georgian_culture-georgian_religion: 1
   owner: PONT
   controller: PONT
   cores:
     PONT: yes
   resource: wine
-  pops:
-    - religion: georgian_religion
-      estate: peasant
-      size: 1000
 62.1.1:
   owner: ROM
   controller: ROM
@@ -30,9 +28,9 @@
     BYZ: no
     LAZI: yes
 460.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    georgian_culture-georgian_religion: 0
+    georgian_culture-chalcedonism: 1
 697.1.1:
   owner: IBER
   controller: IBER
@@ -51,9 +49,9 @@
     ABBA: no
     ABKH: yes
 867.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    georgian_culture-chalcedonism: 0
+    georgian_culture-orthodox: 1
 1008.1.1:
   owner: GEO
   controller: GEO

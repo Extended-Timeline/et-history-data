@@ -1,18 +1,13 @@
 #imported from EU4 file: history/provinces/4210 - Karakoram.txt
 2.1.1:
+  pops: 
+    saka-mahayana: 1
   owner: SHUL
   controller: SHUL
   cores:
     SHUL: yes
   resource: wool
-  pops:
-    - religion: mahayana
-      estate: peasant
-      size: 1000
 200.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
 440.1.1:
   owner: HEPH
   controller: HEPH
@@ -42,9 +37,9 @@
     TIB: no
     TANG: yes
 750.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    saka-mahayana: 0
+    saka-manichaeism: 1
 763.1.1:
   owner: TIB
   controller: TIB
@@ -52,18 +47,18 @@
     TANG: no
     TIB: yes
 830.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    saka-manichaeism: 0
+    uyghur_culture-manichaeism: 1
 840.1.1:
+  pops: 
+    uyghur_culture-manichaeism: 0
+    uyghur_culture-: 1
   owner: KKHA
   controller: KKHA
   cores:
     TIB: no
     KKHA: yes
-  pops:
-    - estate: peasant
-      size: 1000
 1211.1.1:
   owner: KKHI
   controller: KKHI
@@ -89,9 +84,8 @@
     CHG: no
     MOGH: yes
 1350.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    uyghur_culture-sunni: 1
 1389.1.1:
   owner: YARK
   controller: YARK

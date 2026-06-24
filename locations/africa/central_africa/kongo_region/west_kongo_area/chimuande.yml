@@ -1,9 +1,7 @@
 #imported from EU4 file: history/provinces/1168 - Luanda.txt
 2.1.1:
-  pops:
-    - religion: bantu_religion
-      estate: peasant
-      size: 1000
+  pops: 
+    kongo-bantu_religion: 1
 1575.1.1:
   owner: POR
   controller: POR
@@ -22,9 +20,9 @@
   cores:
     NED: no
 1850.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    kongo-bantu_religion: 0
+    kongo-catholic: 1
 1900.1.1:
   resource: wool
 1975.11.11:

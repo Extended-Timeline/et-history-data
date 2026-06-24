@@ -1,24 +1,21 @@
 #imported from EU4 file: history/provinces/2928 - Tucurui.txt
 2.1.1:
-  pops:
-    - religion: muisca_religion
-      estate: peasant
-      size: 1000
+  pops: 
+    tupinamba_culture-muisca_religion: 1
 1616.1.12:
+  pops: 
+    tupinamba_culture-muisca_religion: 0
+    portuguese-catholic: 1
   owner: POR
   controller: POR
   resource: cocoa
-  pops:
-    - religion: catholic
-      estate: peasant
-      size: 1000
 1641.1.1:
   cores:
     POR: yes
 1780.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    portuguese-catholic: 0
+    brazilian-catholic: 1
 1822.9.7:
   owner: BRAZ
   controller: BRAZ

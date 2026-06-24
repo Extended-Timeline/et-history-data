@@ -1,24 +1,21 @@
 #imported from EU4 file: history/provinces/2966 - Glogau.txt
 2.1.1:
+  pops: 
+    burgundione-germanic: 1
   owner: BUR
   controller: BUR
   cores:
     BUR: yes
   resource: iron
-  pops:
-    - religion: germanic_polytheism
-      estate: peasant
-      size: 1000
 395.1.1:
+  pops: 
+    burgundione-germanic: 0
+    silesian-slavic: 1
   owner: SIL
   controller: SIL
   cores:
     BUR: no
     SIL: yes
-  pops:
-    - religion: slavic_polytheism
-      estate: peasant
-      size: 1000
 940.1.1:
   owner: BOH
   controller: BOH
@@ -31,9 +28,9 @@
     BOH: no
     POL: yes
 1020.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    silesian-slavic: 0
+    silesian-catholic: 1
 1039.1.1:
   owner: BOH
   controller: BOH
@@ -63,9 +60,9 @@
     WRC: no
     GLG: yes
 1300.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    silesian-catholic: 0
+    german_silesian-catholic: 1
 1331.1.11:
   owner: BOH
   controller: BOH
@@ -126,12 +123,11 @@
 1945.4.30:
   controller: SOVI
 1945.5.8:
+  pops: 
+    german_silesian-catholic: 0
+    lesser_polish-catholic: 1
   owner: POL
   controller: POL
   cores:
     GER: no
     POL: yes
-  pops:
-    - religion: catholic
-      estate: peasant
-      size: 1000

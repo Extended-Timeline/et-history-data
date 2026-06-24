@@ -1,9 +1,7 @@
 #imported from EU4 file: history/provinces/2104 - Birija.txt
 2.1.1:
-  pops:
-    - religion: 
-      estate: peasant
-      size: 1000
+  pops: 
+    jurchen_culture-: 1
 1206.1.1:
   owner: SIB
   controller: SIB
@@ -32,10 +30,8 @@
     RUS: no
     SOVI: yes
 1939.1.1:
-  pops:
-    - religion: orthodox
-      estate: peasant
-      size: 1000
+  pops: 
+    muscovite-orthodox: 1
 1991.12.25:
   owner: RUS
   controller: RUS

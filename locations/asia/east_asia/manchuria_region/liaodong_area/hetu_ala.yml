@@ -1,18 +1,16 @@
 #imported from EU4 file: history/provinces/2111 - Hetu Ala.txt
 2.1.1:
+  pops: 
+    korean_culture-muism: 1
   owner: GOGU
   controller: GOGU
   cores:
     GOGU: yes
   resource: iron
-  pops:
-    - religion: muism
-      estate: peasant
-      size: 1000
 372.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    korean_culture-muism: 0
+    korean_culture-mahayana: 1
 668.10.1:
   owner: TANG
   controller: TANG
@@ -48,9 +46,9 @@
     JEON: no
     LIAO: yes
 1020.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    korean_culture-mahayana: 0
+    jurchen_culture-mahayana: 1
 1115.1.1:
   owner: JIN0
   controller: JIN0
@@ -58,9 +56,9 @@
     LIAO: no
     JIN0: yes
 1120.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    jurchen_culture-mahayana: 0
+    jurchen_culture-sanjiao: 1
 1214.1.1:
   owner: MGE
   controller: MGE

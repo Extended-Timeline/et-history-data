@@ -1,26 +1,24 @@
 #imported from EU4 file: history/provinces/1213 - Shoa.txt
 2.1.1:
-  pops:
-    - religion: bantu_religion
-      estate: peasant
-      size: 1000
+  pops: 
+    amhara-bantu_religion: 1
 380.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    amhara-bantu_religion: 0
+    amhara-chalcedonism: 1
 451.11.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    amhara-chalcedonism: 0
+    amhara-miaphysite: 1
 896.1.1:
+  pops: 
+    amhara-miaphysite: 0
+    amhara-sunni: 1
   owner: SOA
   controller: SOA
   cores:
     SOA: yes
   resource: grain
-  pops:
-    - estate: peasant
-      size: 1000
 1283.1.1:
   owner: IFA
   controller: IFA
@@ -45,9 +43,9 @@
 1771.1.1:
   controller: ETH
 1780.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    amhara-sunni: 0
+    amhara-miaphysite: 1
 1936.5.5:
   controller: ITA
 1936.5.9:

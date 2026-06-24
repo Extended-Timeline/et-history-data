@@ -1,23 +1,21 @@
 #imported from EU4 file: history/provinces/4435 - Sholhapur.txt
 2.1.1:
+  pops: 
+    marathi_culture-mahayana: 1
   owner: SATA
   controller: SATA
   cores:
     SATA: yes
   resource: cotton
-  pops:
-    - religion: mahayana
-      estate: peasant
-      size: 1000
 220.1.1:
+  pops: 
+    marathi_culture-mahayana: 0
+    marathi_culture-hindu: 1
   owner: ABHI
   controller: ABHI
   cores:
     SATA: no
     ABHI: yes
-  pops:
-    - estate: peasant
-      size: 1000
 250.1.1:
   owner: VAKA
   controller: VAKA
@@ -31,14 +29,14 @@
     VAKA: no
     KADA: yes
 543.1.1:
+  pops: 
+    marathi_culture-hindu: 0
+    marathi_culture-jain: 1
   owner: CHAL
   controller: CHAL
   cores:
     KADA: no
     CHAL: yes
-  pops:
-    - estate: peasant
-      size: 1000
 753.1.1:
   owner: RAST
   controller: RAST
@@ -52,9 +50,9 @@
     RAST: no
     CHAL: yes
 1180.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    marathi_culture-jain: 0
+    marathi_culture-hindu: 1
 1189.1.1:
   owner: YADA
   controller: YADA

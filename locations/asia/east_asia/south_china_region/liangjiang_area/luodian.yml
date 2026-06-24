@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/664 - Wenshan.txt
 2.1.1:
+  pops: 
+    zhuang_culture-bimoism: 1
   owner: SHYU
   controller: SHYU
   cores:
     SHYU: yes
   resource: tea
-  pops:
-    - religion: bimoism
-      estate: peasant
-      size: 1000
 110.1.1:
   owner: HAN0
   controller: HAN0
@@ -72,9 +70,9 @@
   cores:
     TANG: yes
 750.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    zhuang_culture-bimoism: 0
+    zhuang_culture-sanjiao: 1
 907.6.1:
   owner: DAI
   controller: DAI

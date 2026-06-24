@@ -1,17 +1,13 @@
 #imported from EU4 file: history/provinces/2442 - Ust-Kut.txt
 2.1.1:
-  pops:
-    - religion: 
-      estate: peasant
-      size: 1000
+  pops: 
+    buryat_culture-: 1
 1632.1.1:
+  pops: 
+    muscovite-orthodox: 1
   owner: RUS
   controller: RUS
   resource: fish
-  pops:
-    - religion: orthodox
-      estate: peasant
-      size: 1000
 1634.1.1:
   cores:
     RUS: yes

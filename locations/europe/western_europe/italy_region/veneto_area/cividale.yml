@@ -1,18 +1,16 @@
 #imported from EU4 file: history/provinces/111 - Friuli.txt
 2.1.1:
+  pops: 
+    venetian-hellenism_religion: 1
   owner: ROM
   controller: ROM
   cores:
     ROM: yes
   resource: wine
-  pops:
-    - religion: hellenism_religion
-      estate: peasant
-      size: 1000
 300.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    venetian-hellenism_religion: 0
+    venetian-chalcedonism: 1
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -64,9 +62,9 @@
     LOMB: no
     ITA: yes
 867.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    venetian-chalcedonism: 0
+    venetian-catholic: 1
 952.1.1:
   owner: VER
   controller: VER

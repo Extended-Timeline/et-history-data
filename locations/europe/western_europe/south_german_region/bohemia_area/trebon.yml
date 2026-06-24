@@ -1,32 +1,30 @@
 #imported from EU4 file: history/provinces/2968 - Budejovice.txt
 2.1.1:
+  pops: 
+    southern_bavarian-germanic: 1
   owner: MARC
   controller: MARC
   cores:
     MARC: yes
   resource: grain
-  pops:
-    - religion: germanic_polytheism
-      estate: peasant
-      size: 1000
 395.1.1:
+  pops: 
+    southern_bavarian-germanic: 0
+    vandal-germanic: 1
   owner: VAND
   controller: VAND
   cores:
     MARC: no
     VAND: yes
-  pops:
-    - estate: peasant
-      size: 1000
 417.1.1:
+  pops: 
+    vandal-germanic: 0
+    southern_bavarian-germanic: 1
   owner: MARC
   controller: MARC
   cores:
     VAND: no
     MARC: yes
-  pops:
-    - estate: peasant
-      size: 1000
 454.1.1:
   owner: RUGI
   controller: RUGI
@@ -34,24 +32,23 @@
     MARC: no
     RUGI: yes
 467.1.1:
+  pops: 
+    southern_bavarian-germanic: 0
+    langobardi-germanic: 1
   owner: LOMB
   controller: LOMB
   cores:
     RUGI: no
     LOMB: yes
-  pops:
-    - estate: peasant
-      size: 1000
 550.1.1:
+  pops: 
+    langobardi-germanic: 0
+    czech-slavic: 1
   owner: BOH
   controller: BOH
   cores:
     LOMB: no
     BOH: yes
-  pops:
-    - religion: slavic_polytheism
-      estate: peasant
-      size: 1000
 623.1.1:
   owner: SAMO
   controller: SAMO
@@ -64,9 +61,9 @@
     SAMO: no
     MVA: yes
 880.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    czech-slavic: 0
+    czech-catholic: 1
 894.1.1:
   owner: BOH
   controller: BOH

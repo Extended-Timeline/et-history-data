@@ -1,18 +1,16 @@
 #imported from EU4 file: history/provinces/4738 - Trieste.txt
 2.1.1:
+  pops: 
+    venetian-hellenism_religion: 1
   owner: ROM
   controller: ROM
   cores:
     ROM: yes
   resource: fish
-  pops:
-    - religion: hellenism_religion
-      estate: peasant
-      size: 1000
 320.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    venetian-hellenism_religion: 0
+    venetian-chalcedonism: 1
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -34,9 +32,9 @@
     ITA: no
     OSTR: yes
 490.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    venetian-chalcedonism: 0
+    venetian-arianism: 1
 545.1.1:
   owner: BYZ
   controller: BYZ
@@ -50,13 +48,13 @@
     BYZ: no
     LOMB: yes
 650.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    venetian-arianism: 0
+    venetian-slavic: 1
 680.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    venetian-slavic: 0
+    venetian-chalcedonism: 1
 774.1.1:
   owner: FRAN
   controller: FRAN
@@ -76,9 +74,9 @@
     MFRA: no
     ITA: yes
 867.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    venetian-chalcedonism: 0
+    venetian-catholic: 1
 952.1.1:
   owner: VER
   controller: VER

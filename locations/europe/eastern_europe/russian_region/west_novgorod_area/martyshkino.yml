@@ -1,9 +1,7 @@
 #imported from EU4 file: history/provinces/33 - Neva.txt
 2.1.1:
-  pops:
-    - religion: muinaisusko
-      estate: peasant
-      size: 1000
+  pops: 
+    ingrian-muinaisusko: 1
 550.1.1:
   owner: VOTI
   controller: VOTI
@@ -30,9 +28,9 @@
     NOV: no
     KIEV: yes
 960.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    ingrian-muinaisusko: 0
+    ingrian-orthodox: 1
 1054.2.20:
   owner: NOV
   controller: NOV
@@ -79,12 +77,12 @@
 1702.10.22:
   controller: RUS
 1703.5.27:
+  pops: 
+    ingrian-orthodox: 0
+    muscovite-orthodox: 1
   owner: RUS
   cores:
     RUS: yes
-  pops:
-    - estate: peasant
-      size: 1000
 1721.8.30:
   cores:
     SWE: no

@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/26 - Halland.txt
 2.1.1:
+  pops: 
+    scanian-norse: 1
   owner: HERU
   controller: HERU
   cores:
     HERU: yes
   resource: livestock
-  pops:
-    - religion: norse
-      estate: peasant
-      size: 1000
 380.1.1:
   owner: WGEA
   controller: WGEA
@@ -16,9 +14,9 @@
     HERU: no
     WGEA: yes
 450.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    scanian-norse: 0
+    danish-norse: 1
 650.1.1:
   owner: DAN
   controller: DAN
@@ -26,17 +24,17 @@
     WGEA: no
     DAN: yes
 1000.1.1:
+  pops: 
+    danish-norse: 0
+    danish-catholic: 1
   cores:
     SWE: yes
-  pops:
-    - estate: peasant
-      size: 1000
 1534.11.15:
   controller: DAN
 1536.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    danish-catholic: 0
+    danish-lutheran: 1
 1565.9.15:
   controller: SWE
 1569.12.4:
@@ -45,9 +43,9 @@
   owner: SWE
   controller: SWE
 1680.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    danish-lutheran: 0
+    swedish-lutheran: 1
 1850.1.1:
   cores:
     DAN: no

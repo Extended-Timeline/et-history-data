@@ -1,27 +1,25 @@
 #imported from EU4 file: history/provinces/91 - Hainaut.txt
 2.1.1:
+  pops: 
+    belgae-druidism: 1
   owner: ROM
   controller: ROM
   cores:
     ROM: yes
   resource: cloth
-  pops:
-    - religion: druidism
-      estate: peasant
-      size: 1000
 260.1.1:
+  pops: 
+    belgae-druidism: 0
+    gallian-druidism: 1
   cores:
     GALL: yes
-  pops:
-    - estate: peasant
-      size: 1000
 274.1.1:
+  pops: 
+    gallian-druidism: 0
+    frankish-druidism: 1
   controller: ROM
   cores:
     GALL: no
-  pops:
-    - estate: peasant
-      size: 1000
 395.1.17:
   owner: ROMW
   controller: ROMW
@@ -35,9 +33,9 @@
     ROMW: no
     FRAN: yes
 486.6.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    frankish-druidism: 0
+    walloon-druidism: 1
 511.11.27:
   owner: SOIS
   controller: SOIS
@@ -66,9 +64,9 @@
   owner: NEUS
   controller: NEUS
 650.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    walloon-druidism: 0
+    walloon-chalcedonism: 1
 679.12.23:
   owner: FRAN
   controller: FRAN
@@ -85,9 +83,9 @@
     MFRA: no
     LOT: yes
 867.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    walloon-chalcedonism: 0
+    walloon-catholic: 1
 870.8.8:
   owner: WFRA
   controller: WFRA

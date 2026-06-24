@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/2750 - Plovdiv.txt
 2.1.1:
+  pops: 
+    thracian-zamolxism: 1
   owner: ODRY
   controller: ODRY
   cores:
     ODRY: yes
   resource: grain
-  pops:
-    - religion: zamolxism
-      estate: peasant
-      size: 1000
 46.1.1:
   owner: ROM
   controller: ROM
@@ -18,9 +16,9 @@
   cores:
     ODRY: no
 120.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    thracian-zamolxism: 0
+    thracian-hellenism_religion: 1
 395.1.17:
   owner: BYZ
   controller: BYZ
@@ -28,25 +26,25 @@
     ROM: no
     BYZ: yes
 700.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    thracian-hellenism_religion: 0
+    thracian-chalcedonism: 1
 812.1.1:
   owner: BUL
   controller: BUL
 834.1.1:
+  pops: 
+    thracian-chalcedonism: 0
+    bulgarian-chalcedonism: 1
   cores:
     BUL: yes
-  pops:
-    - estate: peasant
-      size: 1000
 856.1.1:
   owner: BYZ
   controller: BYZ
 867.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    bulgarian-chalcedonism: 0
+    bulgarian-orthodox: 1
 894.1.1:
   owner: BUL
   controller: BUL

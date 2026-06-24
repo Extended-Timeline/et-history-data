@@ -1,50 +1,48 @@
 #imported from EU4 file: history/provinces/1757 - Oberpfalz.txt
 2.1.1:
+  pops: 
+    southern_bavarian-germanic: 1
   owner: MARC
   controller: MARC
   cores:
     MARC: yes
   resource: iron
-  pops:
-    - religion: germanic_polytheism
-      estate: peasant
-      size: 1000
 72.1.1:
+  pops: 
+    southern_bavarian-germanic: 0
+    swabian-germanic: 1
   owner: VARI
   controller: VARI
   cores:
     MARC: no
     VARI: yes
-  pops:
-    - estate: peasant
-      size: 1000
 395.1.1:
+  pops: 
+    swabian-germanic: 0
+    vandal-germanic: 1
   owner: VAND
   controller: VAND
   cores:
     VARI: no
     VAND: yes
-  pops:
-    - estate: peasant
-      size: 1000
 417.1.1:
+  pops: 
+    vandal-germanic: 0
+    southern_bavarian-germanic: 1
   owner: BAV
   controller: BAV
   cores:
     VAND: no
     BAV: yes
-  pops:
-    - estate: peasant
-      size: 1000
 451.1.1:
   owner: THU
   controller: THU
   cores:
     THU: yes
 739.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    southern_bavarian-germanic: 0
+    southern_bavarian-chalcedonism: 1
 774.1.1:
   owner: FRAN
   controller: FRAN
@@ -57,9 +55,9 @@
     FRAN: no
     BAV: yes
 867.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    southern_bavarian-chalcedonism: 0
+    southern_bavarian-catholic: 1
 880.3.22:
   owner: EFRA
   controller: EFRA

@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/2387 - Phetchaburi.txt
 2.1.1:
+  pops: 
+    mon_culture-mahayana: 1
   owner: MON0
   controller: MON0
   cores:
     MON0: yes
   resource: tropical_wood
-  pops:
-    - religion: mahayana
-      estate: peasant
-      size: 1000
 150.1.1:
   owner: FUNA
   controller: FUNA
@@ -28,9 +26,9 @@
     DVAR: no
     LAV: yes
 750.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    mon_culture-mahayana: 0
+    mon_culture-theravada: 1
 880.1.1:
   owner: CAMB
   controller: CAMB
@@ -42,9 +40,9 @@
   cores:
     CAMB: no
 1100.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    mon_culture-theravada: 0
+    thai_culture-theravada: 1
 1285.1.1:
   owner: SUK
   controller: SUK
@@ -52,9 +50,6 @@
     LAV: no
     SUK: yes
 1310.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
 1350.1.1:
   owner: AYU
   controller: AYU

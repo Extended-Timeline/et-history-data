@@ -1,32 +1,30 @@
 #imported from EU4 file: history/provinces/4774 - Fulda.txt
 2.1.1:
+  pops: 
+    rhine_franconian-germanic: 1
   owner: CHTT
   controller: CHTT
   cores:
     CHTT: yes
   resource: grain
-  pops:
-    - religion: germanic_polytheism
-      estate: peasant
-      size: 1000
 395.1.1:
+  pops: 
+    rhine_franconian-germanic: 0
+    burgundione-germanic: 1
   owner: BUR
   controller: BUR
   cores:
     CHTT: no
     BUR: yes
-  pops:
-    - estate: peasant
-      size: 1000
 443.1.1:
+  pops: 
+    burgundione-germanic: 0
+    rhine_franconian-germanic: 1
   owner: CHTT
   controller: CHTT
   cores:
     BUR: no
     CHTT: yes
-  pops:
-    - estate: peasant
-      size: 1000
 481.1.1:
   owner: FRAN
   controller: FRAN
@@ -34,9 +32,9 @@
     CHTT: no
     FRAN: yes
 500.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    rhine_franconian-germanic: 0
+    east_franconian-germanic: 1
 511.11.27:
   owner: ASTS
   controller: ASTS
@@ -73,9 +71,9 @@
   cores:
     THU: yes
 686.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    east_franconian-germanic: 0
+    east_franconian-chalcedonism: 1
 719.1.1:
   owner: FRAN
   controller: FRAN
@@ -93,9 +91,9 @@
   cores:
     THU: yes
 867.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    east_franconian-chalcedonism: 0
+    east_franconian-catholic: 1
 908.8.3:
   owner: EFRA
   controller: EFRA

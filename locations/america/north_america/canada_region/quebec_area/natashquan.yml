@@ -1,23 +1,20 @@
 #imported from EU4 file: history/provinces/2576 - Mingan.txt
 2.1.1:
-  pops:
-    - religion: iroquoian_totemism
-      estate: peasant
-      size: 1000
+  pops: 
+    innu_culture-iroquoian_totemism: 1
 1780.1.1:
+  pops: 
+    innu_culture-iroquoian_totemism: 0
+    french-catholic: 1
   owner: GBR
   controller: GBR
   cores:
     GBR: yes
   resource: fish
-  pops:
-    - religion: catholic
-      estate: peasant
-      size: 1000
 1790.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    french-catholic: 0
+    french_canadian-catholic: 1
 1867.7.1:
   owner: CAN
   controller: CAN

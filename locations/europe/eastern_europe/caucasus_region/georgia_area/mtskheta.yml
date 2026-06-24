@@ -1,18 +1,16 @@
 #imported from EU4 file: history/provinces/4301 - Kartli.txt
 2.1.1:
+  pops: 
+    georgian_culture-georgian_religion: 1
   owner: IBER
   controller: IBER
   cores:
     IBER: yes
   resource: silk
-  pops:
-    - religion: georgian_religion
-      estate: peasant
-      size: 1000
 326.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    georgian_culture-georgian_religion: 0
+    georgian_culture-chalcedonism: 1
 527.1.1:
   controller: ERA
 532.1.1:
@@ -47,9 +45,9 @@
   cores:
     ABBA: no
 867.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    georgian_culture-chalcedonism: 0
+    georgian_culture-orthodox: 1
 1020.1.1:
   owner: GEO
   controller: GEO

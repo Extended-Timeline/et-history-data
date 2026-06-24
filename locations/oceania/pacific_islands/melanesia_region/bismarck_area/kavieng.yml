@@ -1,16 +1,14 @@
 #imported from EU4 file: history/provinces/1236 - Rabaul.txt
 2.1.1:
-  pops:
-    - religion: bimoism
-      estate: peasant
-      size: 1000
+  pops: 
+    tiri_culture-bimoism: 1
 1884.11.3:
+  pops: 
+    tiri_culture-bimoism: 0
+    tiri_culture-lutheran: 1
   owner: GER
   controller: GER
   resource: naval_supplies
-  pops:
-    - estate: peasant
-      size: 1000
 1900.1.1:
   cores:
     GER: yes

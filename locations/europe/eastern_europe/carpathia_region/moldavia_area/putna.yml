@@ -1,23 +1,21 @@
 #imported from EU4 file: history/provinces/268 - Suceava.txt
 2.1.1:
+  pops: 
+    dacian-zamolxism: 1
   owner: DACI
   controller: DACI
   cores:
     DACI: yes
   resource: livestock
-  pops:
-    - religion: zamolxism
-      estate: peasant
-      size: 1000
 271.1.1:
+  pops: 
+    dacian-zamolxism: 0
+    dacian-germanic: 1
   owner: VISG
   controller: VISG
   cores:
     DACI: no
     VISG: yes
-  pops:
-    - estate: peasant
-      size: 1000
 370.1.1:
   owner: HUNS
   controller: HUNS
@@ -25,13 +23,12 @@
     VISG: no
     HUNS: yes
 400.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    dacian-germanic: 0
+    dacian-: 1
 450.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    wallachian-: 1
 520.1.1:
   owner: ANTE
   controller: ANTE
@@ -74,9 +71,8 @@
   cores:
     PECH: yes
 980.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    wallachian-orthodox: 1
 1094.1.1:
   owner: CUMA
   controller: CUMA

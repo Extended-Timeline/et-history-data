@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/4463 - Bhatnair.txt
 2.1.1:
+  pops: 
+    punjabi-hindu: 1
   owner: NSAT
   controller: NSAT
   cores:
     NSAT: yes
   resource: livestock
-  pops:
-    - religion: hindu
-      estate: peasant
-      size: 1000
 120.1.1:
   owner: KUSH
   controller: KUSH
@@ -96,13 +94,13 @@
     DLH: no
     MUG: yes
 1540.1.1:
+  pops: 
+    punjabi-hindu: 0
+    punjabi-sikhism: 1
   owner: BNG
   controller: BNG
   cores:
     BNG: yes
-  pops:
-    - estate: peasant
-      size: 1000
 1553.1.1:
   owner: SIRH
   controller: SIRH

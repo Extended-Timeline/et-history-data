@@ -1,14 +1,12 @@
 #imported from EU4 file: history/provinces/4208 - Qurqarasu.txt
 2.1.1:
+  pops: 
+    uyghur_culture-: 1
   owner: WUSU
   controller: WUSU
   cores:
     WUSU: yes
   resource: grain
-  pops:
-    - religion: 
-      estate: peasant
-      size: 1000
 150.1.1:
   owner: XIAN
   controller: XIAN
@@ -45,13 +43,12 @@
     GOKT: no
     UYGH: yes
 763.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    uyghur_culture-manichaeism: 1
 840.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    uyghur_culture-manichaeism: 0
+    uyghur_culture-: 1
 1130.1.1:
   owner: KKHI
   controller: KKHI
@@ -77,9 +74,8 @@
     CHG: no
     MOGH: yes
 1350.1.1:
-  pops:
-    - estate: peasant
-      size: 1000
+  pops: 
+    uyghur_culture-sunni: 1
 1518.1.1:
   owner: OIR
   controller: OIR

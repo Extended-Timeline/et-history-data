@@ -30,6 +30,8 @@ Location data is recorded in yml format as shown below. Each location has its ow
     neighbouringplace: yes
   modifiers:
     skane_herring_market: yes
+  pops:
+    sample_culture-sample_religion: 1
     
 1240.5.7:
   owner: YYY #Treaty of ABC, location given to YYY
@@ -40,6 +42,10 @@ Location data is recorded in yml format as shown below. Each location has its ow
     castle:
       level: 0 #Castle destroyed
   market: no
+  pops:
+    sample_culture-sample_religion:
+      clergy: 0.1
+      peasants: 0.9
 ```
 
 ---
@@ -53,6 +59,16 @@ Some locations may have cities. For such locations, as city section needs to be 
 ## Buildings
 
 Buildings are defined in a separate section. Each building must have a level defined. Setting the level to zero removes the building. Buildings can also have an owner defined. The owner should only be defined if it is different from the location owner.
+
+---
+
+## Pops
+
+Pops are defined in a separate section. Each pop entry has as its indentifier the ethnicity of the pop and the religion of the pop separated by a hyphen. The pop entry can take its argument in two different ways.
+
+A pop entry can be given a number as an argument. In this case the estate distrubution is automatically determined. Alternatively, the argument can be a set of entries with an estate as the key and a number as the value.
+
+The number values are not absolute population figures, as the total population of a location is defined in a separate file. This total population is then divided proportionally between all the pops in the location. For example if pop A has a value of 1 and pop B has a value of 2, pop A will get a third of the total population in the location and pop B will get the other two thirds.
 
 ---
 
@@ -73,5 +89,6 @@ Buildings are defined in a separate section. Each building must have a level def
 | institutions | list of *institution ID: yes/no* | no | Sets what institutions are present in the location |
 | roads | list of *location ID: yes/no* | no | Sets the locations connected to this location via road, it is sufficient to only record a connection one way |
 | modifiers | list of *modifier ID: yes/no* | no | Sets modifiers present in the location |
+| pops | see pops section | no | Sets the pops in the location |
 
 ---

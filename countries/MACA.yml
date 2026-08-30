@@ -1,0 +1,10 @@
+2.1.1:		#Default settings
+    name: "Macau"
+    color: "rgb { 253 209 16 }"
+    primary_culture: cantonese
+    religion: sanjiao
+    court_language: "cantonese"
+    type: "default" #can also be "pop" for SoPs, "building", "army" or "navy"
+    government: republic_colony
+    government_rank: rank_county
+    capital: macau

@@ -1,0 +1,80 @@
+checked_on: '2026-10-13'
+method: Read-only use of the existing converter reference extractor on current native+mod
+  files; this extractor uses an unindented top-key regex, not a complete parser. No
+  cache rebuilt or saved.
+categories:
+  buildings:
+    cached_count: 465
+    fresh_extracted_count: 465
+    fresh_not_cached: []
+    cached_not_fresh: []
+  casus_belli:
+    cached_count: 102
+    fresh_extracted_count: 102
+    fresh_not_cached: []
+    cached_not_fresh: []
+  cultures:
+    cached_count: 2217
+    fresh_extracted_count: 2217
+    fresh_not_cached: []
+    cached_not_fresh: []
+  gov_templates:
+    cached_count: 212
+    fresh_extracted_count: 212
+    fresh_not_cached: []
+    cached_not_fresh: []
+  heir_selections:
+    cached_count: 45
+    fresh_extracted_count: 45
+    fresh_not_cached: []
+    cached_not_fresh: []
+  io_types:
+    cached_count: 36
+    fresh_extracted_count: 36
+    fresh_not_cached: []
+    cached_not_fresh: []
+  languages:
+    cached_count: 557
+    fresh_extracted_count: 557
+    fresh_not_cached: []
+    cached_not_fresh: []
+  parliament_types:
+    cached_count: 14
+    fresh_extracted_count: 14
+    fresh_not_cached: []
+    cached_not_fresh: []
+  religions:
+    cached_count: 328
+    fresh_extracted_count: 328
+    fresh_not_cached: []
+    cached_not_fresh: []
+  religious_schools:
+    cached_count: 43
+    fresh_extracted_count: 43
+    fresh_not_cached: []
+    cached_not_fresh: []
+  resources:
+    cached_count: 74
+    fresh_extracted_count: 74
+    fresh_not_cached: []
+    cached_not_fresh: []
+  subject_types:
+    cached_count: 20
+    fresh_extracted_count: 20
+    fresh_not_cached: []
+    cached_not_fresh: []
+  town_setups:
+    cached_count: 117
+    fresh_extracted_count: 117
+    fresh_not_cached: []
+    cached_not_fresh: []
+  traits:
+    cached_count: 147
+    fresh_extracted_count: 147
+    fresh_not_cached: []
+    cached_not_fresh: []
+  vanilla_tags:
+    cached_count: 2340
+    fresh_extracted_count: 2340
+    fresh_not_cached: []
+    cached_not_fresh: []

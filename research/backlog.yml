@@ -1,0 +1,123 @@
+schema_version: 1
+updated_on: "2026-10-17"
+tasks:
+  roman_succession_dates:
+    period_id: ancient
+    priority: 1
+    state: pending
+    targets: [characters/ROM.yml, countries/ROM - Rome.yml]
+    source_refs: [suetonius_augustus, suetonius_tiberius]
+    question: Distinguish the ruler's death from de facto succession and formal recognition.
+    evidence: >-
+      Augustus death is sourced to 14.8.19 while the existing character and
+      country transition use 14.9.18. Tiberius death is sourced to 37.3.16
+      while the existing character and country transition use 37.3.18.
+    acceptance: Apply linked timelines together with explicit dating and modeling notes; do not leave a dead ruler selected accidentally.
+  antium_location_mapping:
+    period_id: ancient
+    priority: 1
+    state: pending
+    targets: [characters/ROM.yml, locations]
+    source_refs: [suetonius_caligula, suetonius_nero]
+    question: Which existing EU5 location covers Antium, and how precise is that mapping?
+    acceptance: Record the historical place and verified location ID before replacing the old Rome birthplace approximation.
+  roman_duplicate_ids:
+    period_id: ancient
+    priority: 2
+    state: pending
+    targets: [characters/ROM.yml, countries/ROM - Rome.yml]
+    source_refs: [suetonius_caligula, suetonius_claudius]
+    question: Can duplicate Caligula and Claudius IDs be reconciled without breaking historical references?
+    acceptance: Audit every reference first; retain stable IDs or publish a complete alias/migration list.
+  armenia_war_and_succession:
+    period_id: ancient
+    priority: 1
+    state: pending
+    targets: [wars/firstromanparthianwar.txt, countries/ARM - Armenia.yml]
+    source_refs: [iranica_armenia, iranica_vologases]
+    question: Which dates and war phases are supported for Corbulo's campaign and Tigranes' appointment?
+    evidence: >-
+      The source places the campaign in spring 58 and Tigranocerta's surrender
+      in spring 59. Existing data uses 58.2.1 for the war and 58.7.1 for the
+      ruler change. These exact days have not been verified. Tigranes numbering
+      differs between scholarly accounts.
+    acceptance: Preserve year/season uncertainty and avoid forcing a precise game day without a documented conversion policy.
+  abbassid_capital_mapping:
+    period_id: medieval
+    priority: 2
+    state: pending
+    targets: [countries/ABBA - Abbasid.yml, locations]
+    source_refs: [met_abbasid]
+    question: Are the Baghdad and Samarra capital changes already present, and which location IDs represent them?
+    evidence: >-
+      The 58 CE cities batch marks the Baghdad tile with the Seleucia-Ctesiphon
+      reading at 58.2.1; a dated 762 change for Baghdad itself is still to be modeled.
+    acceptance: Verify existing timeline keys and mapping before adding year-level events; Baghdad foundation does not erase earlier settlements in its location.
+  eic_full_archive_review:
+    period_id: early_modern
+    priority: 2
+    state: pending
+    targets: [research/early_modern/2026-10-13_eic.yml]
+    source_refs: [bl_eic]
+    question: Obtain the full IOR/B catalogue and charter text beyond the indexed excerpt.
+    acceptance: Verify charter scope and organizational representation; do not convert incorporation into territorial ownership.
+  railway_route_mapping:
+    period_id: industrial
+    priority: 2
+    state: pending
+    targets: [locations]
+    source_refs: [nrm_stockton_darlington, smg_rocket]
+    question: How should dated routes, railway infrastructure and locomotive evidence be represented?
+    acceptance: Map the actual route to existing location IDs and distinguish an opening event from nationwide adoption.
+  un_membership_mapping:
+    period_id: contemporary
+    priority: 2
+    state: pending
+    targets: [international_organizations]
+    source_refs: [un_founders]
+    question: Map all 51 founding states and their effective dates to repository tags.
+    acceptance: Separate signature and ratification; do not assign every founding state membership on 24 October 1945.
+  geographic_coverage:
+    period_id: ancient
+    priority: 1
+    state: pending
+    targets: [countries, characters, locations]
+    source_refs: [met_han, wiki_han_economy, wiki_urban_sizes, periplus_schoff]
+    question: Extend the 58 CE batch to South Asia, Africa and the Americas, and obtain stronger Eastern Han ruler sources.
+    evidence: >-
+      Batch "2026-10-17 58ce cities and markets" added city rank and market
+      flags for 74 locations across Europe, Asia, Africa and Mesoamerica
+      (economy layer, batch 1). Eastern Han ruler sources are still pending.
+    acceptance: Add scoped sources and explicit uncertainties; this first batch does not establish global coverage.
+  ancient_economy_roads_and_town_ranks:
+    period_id: ancient
+    priority: 2
+    state: pending
+    targets: [locations]
+    source_refs: [periplus_schoff, wiki_urban_sizes]
+    question: Which dated roads adjacency and town-level ranks belong to the 58 CE economy layer (batch 2)?
+    acceptance: Add only evidence-backed neighbor-name road maps and town ranks; re-read the Location Files doc before editing.
+  ancient_city_setup_field:
+    period_id: ancient
+    priority: 3
+    state: pending
+    targets: [locations]
+    source_refs: []
+    question: Which vanilla town_setups values exist, and should the 74 city locations gain a setup field?
+    acceptance: Copy setup values only from verified vanilla data; do not invent setup ids.
+  ancient_economy_source_upgrades:
+    period_id: ancient
+    priority: 2
+    state: pending
+    targets: [research/ancient/2026-10-17_58ce_cities_and_markets.yml, research/sources.yml]
+    source_refs: [wiki_corduba, wiki_damascus, wiki_narbonne]
+    question: Replace the weak sources flagged in the 58 CE cities batch (Corduba stub, Damascus intro, Narbonne colony status, Peshawar and Dunhuang intros) with stronger references.
+    acceptance: Keep findings and confidence levels in sync with any replacement; do not silently drop caveats.
+  location_tile_identifications:
+    period_id: ancient
+    priority: 2
+    state: pending
+    targets: [locations]
+    source_refs: [wiki_urban_sizes, periplus_schoff]
+    question: Which tiles cover Rhodes, Paithan, Memphis, Berenice, Istakhr and Yangzhou/Guangling, and how precise are the approximations already noted (Petra, Artaxata, Taxila, Cyrene, Chang'an, Linzi, Dunhuang)?
+    acceptance: Verify filename uniqueness and document distances in records; postpone tile renames.

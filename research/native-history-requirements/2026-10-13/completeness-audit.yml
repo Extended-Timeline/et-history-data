@@ -1,0 +1,346 @@
+schema_version: 1
+checked_on: '2026-10-13'
+audit_status: completed
+historical_collection_complete: false
+active_period: prehistoric
+native_root: D:\Games\Europa Universalis 5\Europa.Universalis.V.v1.2.5-0xdeadcode\game
+native_common_directories: 124
+native_start_files: 25
+native_start_files_changed_since_previous_inventory: 0
+native_start_file_checks:
+- path: main_menu/setup/start/02_core.txt
+  sha256: 3e4bb471e8a4de0ee1a3cf437571721260f8f90cc88b1ff10ddeba043f2dbd1a
+  matches_previous_inventory: true
+- path: main_menu/setup/start/03_markets.txt
+  sha256: 7818c25dc67598d29fd7494e7d086ee325f5389c953fa2ef42600eabac9fba50
+  matches_previous_inventory: true
+- path: main_menu/setup/start/04_dynasties.txt
+  sha256: 430fffc6f698d110b9e4df36c955b0c2a50e2b6ab440844aea874f3ad7070546
+  matches_previous_inventory: true
+- path: main_menu/setup/start/05_characters.txt
+  sha256: a14c45c66a0e85ebde0cdf19e03d3982ad6bfe45b1a95c9fc8b0e212622d8667
+  matches_previous_inventory: true
+- path: main_menu/setup/start/06_pops.txt
+  sha256: 9ff82f578ce535314bf20eecdcc61c6f4b892ee12cc0fe8c228c56c4be035d1e
+  matches_previous_inventory: true
+- path: main_menu/setup/start/07_cities_and_buildings.txt
+  sha256: 0812a9f7c5e1875675f304afcd4bb6a8239b2f9c894840a47c599ea43dd602b6
+  matches_previous_inventory: true
+- path: main_menu/setup/start/08_institutions.txt
+  sha256: 7ca8a90d96ccab2deb5f1b94179fb215dce45eede70b6dd8b0bbd0474e3165f7
+  matches_previous_inventory: true
+- path: main_menu/setup/start/09_roads.txt
+  sha256: 65f360f3e4c08f1f5b4a1978731cdc6dc33901d6758f6551fc21c9c2fd1f52d2
+  matches_previous_inventory: true
+- path: main_menu/setup/start/10_countries.txt
+  sha256: 1f2491ea199e78709fa4e5cc2c59666730996195c005c0663001c04ed64abc8a
+  matches_previous_inventory: true
+- path: main_menu/setup/start/11_art.txt
+  sha256: 58364aa41e99b6e0a96b9901eae8f3c98f4092d30efe13a6b4aa483d142cd13e
+  matches_previous_inventory: true
+- path: main_menu/setup/start/12_diplomacy.txt
+  sha256: c2b86e760721342a26f15d54629de32feef29d33e081cf0828c570a058d047d3
+  matches_previous_inventory: true
+- path: main_menu/setup/start/13_religion.txt
+  sha256: acff3fd8a7edbe2ba656c986f5fe533a2706997d63a020b640cd0e1d96295f6c
+  matches_previous_inventory: true
+- path: main_menu/setup/start/14_development.txt
+  sha256: d633ff37d4987d40d365f5f176b51552a2d3d29649cded1baa86cc86b53206ed
+  matches_previous_inventory: true
+- path: main_menu/setup/start/15_international_organizations.txt
+  sha256: 9398a1ec2095580419370969428264e5fdaeb7e114230aff9e66a444e1d01a3e
+  matches_previous_inventory: true
+- path: main_menu/setup/start/16_wars.txt
+  sha256: 27a35c71ac212d4f965a0b342f34ccca39022d1259a1969d1a0ed742e3d6173b
+  matches_previous_inventory: true
+- path: main_menu/setup/start/18_opinions.txt
+  sha256: ffa73fdde1ece3c4472efb0731baf2efc51007f9465f46b379c099a0c38c246c
+  matches_previous_inventory: true
+- path: main_menu/setup/start/19_diseases.txt
+  sha256: 1e7ff731b97d1e0aa83b8f69c7b117f88395c070ab7c8c9f5aaeacfec8fe2c83
+  matches_previous_inventory: true
+- path: main_menu/setup/start/20_rivals.txt
+  sha256: 777b28ee7bf9a2efd9f0522974cbb4e7b7544d165f0b4b8188b70f80079eacdf
+  matches_previous_inventory: true
+- path: main_menu/setup/start/21_locations.txt
+  sha256: a8e7fff8434185c4430b592622e2bf7204d5b31a9bddfc199305ed55fdce477b
+  matches_previous_inventory: true
+- path: main_menu/setup/start/22_situations.txt
+  sha256: ae94b21a8976bf2ef2dbd890c51f6a83d1b27d8cb1b1b290b309c47a8c2a90f3
+  matches_previous_inventory: true
+- path: main_menu/setup/start/23_colonies.txt
+  sha256: 648749fa05dc0df8347a550fe5f1596535d9ba4a55a35fb3702206c494dbf02f
+  matches_previous_inventory: true
+- path: main_menu/setup/start/24_town_rights.txt
+  sha256: 479c0285595e26c0a1863730351e21717c7be2340ca229b572698cd2751a803d
+  matches_previous_inventory: true
+- path: main_menu/setup/start/25_area_preferences.txt
+  sha256: b4b5262b91fd0083f4f3c292b937635b8aaddb9a7353503095039dd21eb22a6c
+  matches_previous_inventory: true
+- path: main_menu/setup/start/26_ai_personalities.txt
+  sha256: 1f58036fb63014fae33b75d532bd7846791a3fe4ad6218718854eabfb15003a2
+  matches_previous_inventory: true
+- path: main_menu/setup/start/27_armies.txt
+  sha256: bc7625b8bd4cc2a14ff67f109839f15a29617cb40a49f1d118ed158e9a2ea7f1
+  matches_previous_inventory: true
+reviewed_batches:
+- file: prehistoric/bookends.yml
+  record_count: 4
+- file: prehistoric/regions/africa_americas.yml
+  record_count: 25
+- file: prehistoric/regions/asia_oceania.yml
+  record_count: 26
+- file: prehistoric/regions/westasia_europe.yml
+  record_count: 22
+- file: native-comparison/2026-10-13/ages-systems-research.yml
+  record_count: 4
+- file: native-comparison/2026-10-13/countries-characters-research.yml
+  record_count: 3
+- file: native-comparison/2026-10-13/locations-population-research.yml
+  record_count: 5
+- file: native-history-requirements/2026-10-13/material-world-research.yml
+  record_count: 3
+- file: native-history-requirements/2026-10-13/politics-research.yml
+  record_count: 3
+- file: native-history-requirements/2026-10-13/societies-research.yml
+  record_count: 3
+raw_distinct_records: 98
+count_limits: Includes explicitly retained boundary contexts and source intervals crossing research classes. Excludes
+  legacy overlapping four-site batch, methodology notes, and source-unverified repository entity data. Count is
+  not number of complete entities or a completion percentage.
+record_status_counts:
+  collected: 98
+catalogues:
+- catalogue: societies
+  requirements: 24
+  explicitly_linked_to_new_nine_records: 10
+  not_linked_in_new_batch: 14
+  interpretation: New-batch linkage only. No link is proof of completion; old records may also supply related evidence.
+- catalogue: politics
+  requirements: 25
+  explicitly_linked_to_new_nine_records: 4
+  not_linked_in_new_batch: 21
+  interpretation: New-batch linkage only. No link is proof of completion; old records may also supply related evidence.
+- catalogue: material-world
+  requirements: 27
+  explicitly_linked_to_new_nine_records: 6
+  not_linked_in_new_batch: 21
+  interpretation: New-batch linkage only. No link is proof of completion; old records may also supply related evidence.
+total_requirement_rows: 76
+domains_with_demonstrated_full_period_and_geographic_coverage: 0
+domain_status_counts:
+  partial: 15
+  not_found_in_reviewed_collection: 1
+domains:
+  identity_and_language:
+    status: partial
+    previous_anchors:
+    - wae_lbk_central_europe
+    - wae_halaf_material_culture
+    - aso_jomon_early_pottery
+    remaining_requirement: Regional names, attested or reconstructed languages, independently supported identity
+      links, continuity and divergence processes.
+    full_coverage_demonstrated: false
+  ritual_and_religious_organization:
+    status: partial
+    previous_anchors:
+    - wae_gobekli_tepe_monuments
+    - aso_liangzhu_ritual_jade
+    - aso_australia_mungo
+    remaining_requirement: Dated changes in ritual practice, religious authority, sacred places and alternative
+      interpretations; named belief systems only where independently evidenced.
+    full_coverage_demonstrated: false
+  demography_mobility_and_social_groups:
+    status: partial
+    previous_anchors:
+    - lpr_catal_population_reestimate
+    - ccg_fact_kinship_shift
+    - aam_americas_white_sands_tracks
+    remaining_requirement: Regional estimates with units and uncertainty, migration and local continuity sequences,
+      household and status organization over time.
+    full_coverage_demonstrated: false
+  polities_and_territorial_control:
+    status: partial
+    previous_anchors:
+    - aam_naqada_competition
+    - pre_uruk_urban_architecture
+    remaining_requirement: Evidence for political emergence and integration, actor identities, effective reach and
+      competing interpretations; no borders inferred from artifact distributions.
+    full_coverage_demonstrated: false
+  persons_lineages_and_succession:
+    status: partial
+    previous_anchors:
+    - ccg_fact_maternal_links
+    - ccg_fact_kinship_shift
+    remaining_requirement: Independently identified individuals and succession where evidence exists; explicit unknown
+      status elsewhere.
+    full_coverage_demonstrated: false
+  governance_law_and_social_power:
+    status: partial
+    previous_anchors:
+    - pre_barley_administration_tablet
+    - aso_liangzhu_ritual_jade
+    - wae_varna_copper_age_burials
+    remaining_requirement: Administrative practices, distribution of authority and obligations, temporal changes
+      and evidence separating ritual prestige from political rule.
+    full_coverage_demonstrated: false
+  diplomacy_dependencies_and_organizations:
+    status: not_found_in_reviewed_collection
+    previous_anchors: []
+    remaining_requirement: Evidence specifically establishing parties, obligations, direction and chronology; exchange
+      alone does not establish alliance or tribute.
+    full_coverage_demonstrated: false
+  conflict_military_and_equipment:
+    status: partial
+    previous_anchors:
+    - aam_nataruk_violence_claim
+    - asr_hamoukar_sling_battle
+    remaining_requirement: Regional violence and defense sequences, attacker identification where possible, equipment
+      and organization with dates; alternative explanations for destruction.
+    full_coverage_demonstrated: false
+  settlements_and_urbanization:
+    status: partial
+    previous_anchors:
+    - wae_jericho_neolithic_village
+    - aso_mehrgarh_expansion
+    - pre_uruk_urban_architecture
+    remaining_requirement: Phase-specific location, extent, hierarchy, founding or abandonment and changing networks;
+      site coordinates and contemporary landscape context.
+    full_coverage_demonstrated: false
+  food_production_and_subsistence:
+    status: partial
+    previous_anchors:
+    - wae_ganj_dareh_goat_management
+    - aso_newguinea_kuk_mounds
+    - aam_balsas_maize
+    - lpr_catal_cereal_mixture
+    remaining_requirement: Regional adoption, mixed subsistence, domestication evidence and trade-offs; farming
+      is not an automatic political stage.
+    full_coverage_demonstrated: false
+  resources_and_production:
+    status: partial
+    previous_anchors:
+    - aam_olorgesailie_obsidian
+    - asr_catalhoyuk_copper_finds
+    - asr_hamoukar_obsidian_production
+    remaining_requirement: Extraction places and phases, production organization and scale, imported versus locally
+      made artifacts, resource exhaustion or abandonment.
+    full_coverage_demonstrated: false
+  exchange_and_transport:
+    status: partial
+    previous_anchors:
+    - lpr_catal_obsidian_provenance
+    - wae_halaf_material_culture
+    remaining_requirement: Changing source-destination networks, transport evidence, intermediary relations and
+      quantities; provenance does not prove a specific route or market.
+    full_coverage_demonstrated: false
+  technology_and_institutional_diffusion:
+    status: partial
+    previous_anchors:
+    - pre_lomekwi_toolmaking
+    - aso_jomon_early_pottery
+    - pre_barley_administration_tablet
+    remaining_requirement: Local appearance, adoption and abandonment sequences, different uses and evidence for
+      transmission mechanisms; earliest find differs from invention.
+    full_coverage_demonstrated: false
+  environment_and_landscape:
+    status: partial
+    previous_anchors:
+    - aam_african_humid_period
+    - aso_newguinea_kuk_early_use
+    remaining_requirement: Local climate, sea level, river and vegetation series aligned with settlement dates;
+      independent causal evidence for demographic or economic effects.
+    full_coverage_demonstrated: false
+  disease_and_health:
+    status: partial
+    previous_anchors: []
+    remaining_requirement: Dated pathogen, skeletal-health or nutritional evidence with sample scope; regional disease
+      impact and mechanisms only if supported.
+    full_coverage_demonstrated: false
+    new_anchor: mw_ri_nukalns_yersinia
+    limitation: Single sampled infection; outbreak, transmission, and demographic impact not established.
+  art_and_knowledge:
+    status: partial
+    previous_anchors:
+    - aam_blombos_engraved_ochre
+    - aso_siberia_malta_art
+    - pre_barley_administration_tablet
+    remaining_requirement: Dated production contexts, creators when known, distribution and changing functions;
+      meanings distinguished from interpretation.
+    full_coverage_demonstrated: false
+additional_native_subsystem_questions:
+- question: administration
+  native_path: in_game/common/bureaucracies/byz.txt
+  lines:
+  - 1
+  - 23
+  status: Needs explicit evidence review within existing broad categories; no new historical data collected by this
+    audit.
+  applicability: Conditional on period and source evidence; native institution is not projected unchanged into prehistory.
+- question: collective_decisions
+  native_path: in_game/common/parliament_types/00_default.txt
+  lines:
+  - 1
+  - 30
+  status: Needs explicit evidence review within existing broad categories; no new historical data collected by this
+    audit.
+  applicability: Conditional on period and source evidence; native institution is not projected unchanged into prehistory.
+- question: interim_rule
+  native_path: in_game/common/regencies/00_fratricide_succesion.txt
+  lines:
+  - 2
+  - 16
+  status: Needs explicit evidence review within existing broad categories; no new historical data collected by this
+    audit.
+  applicability: Conditional on period and source evidence; native institution is not projected unchanged into prehistory.
+- question: religious_specialists
+  native_path: in_game/common/religious_figures/00_muslim.txt
+  lines:
+  - 1
+  - 5
+  status: Needs explicit evidence review within existing broad categories; no new historical data collected by this
+    audit.
+  applicability: Conditional on period and source evidence; native institution is not projected unchanged into prehistory.
+- question: named_deities
+  native_path: in_game/common/gods/common.txt
+  lines:
+  - 1
+  - 13
+  status: Needs explicit evidence review within existing broad categories; no new historical data collected by this
+    audit.
+  applicability: Conditional on period and source evidence; native institution is not projected unchanged into prehistory.
+- question: labor_allocation
+  native_path: in_game/common/employment_systems/00_default.txt
+  lines:
+  - 1
+  - 29
+  status: Needs explicit evidence review within existing broad categories; no new historical data collected by this
+    audit.
+  applicability: Conditional on period and source evidence; native institution is not projected unchanged into prehistory.
+- question: organized_settlement_expansion
+  native_path: main_menu/setup/start/23_colonies.txt
+  lines:
+  - 1
+  - 16
+  status: Needs explicit evidence review within existing broad categories; no new historical data collected by this
+    audit.
+  applicability: Conditional on period and source evidence; native institution is not projected unchanged into prehistory.
+- question: settlement_rights
+  native_path: main_menu/setup/start/24_town_rights.txt
+  lines:
+  - 1
+  - 5
+  status: Needs explicit evidence review within existing broad categories; no new historical data collected by this
+    audit.
+  applicability: Conditional on period and source evidence; native institution is not projected unchanged into prehistory.
+previous_validation_interpretation: Previous passed status means enumerated structural checks passed; it does not
+  mean historical collection is complete.
+completion_gate: Source-backed states and supported processes for relevant categories across defined regional/temporal
+  coverage, with documented unknowns, inapplicable fields, disputes, provenance and uncertainty. Not currently met.
+limits:
+- The native data identify game categories, not a universally mandatory historical form for every society.
+- All inherited repository history files have not been source-audited.
+- No new external historical claims were collected in this audit.
+- Native and mod files were not edited.
+- Game runtime behavior is outside this historical completeness check.
+protected_defines_sha256: 4ff3b80742a2d6b53a3804892fba75c8c466b8b14c6af84663369c89371a535a

@@ -1,0 +1,149 @@
+schema_version: 1
+period_id: prehistoric
+collected_on: '2026-10-13'
+records:
+  lpr_catal_population_reestimate:
+    entity: Çatalhöyük East Mound
+    subject: population_estimate_method
+    finding: A building-biography model using revised residential building distribution and archaeological
+      plus ethnographic evidence estimates 600–800 residents in an average year during the Middle phase, 6700–6500
+      cal BCE; the authors argue earlier estimates of 3,500–10,000 were high.
+    dating:
+      precision: range
+      earliest_year: -6700
+      latest_year: -6500
+      time_scale: cal_BCE
+      calibrated: true
+      approximate: true
+    population_estimate:
+      lower: 600
+      upper: 800
+      unit: residents
+      quantity: average_year_estimate
+      spatial_scope: East_Mound
+      method: Residential building distribution and building life-history combined with archaeological and
+        ethnographic evidence
+      supersedes: No universal settlement coefficient; challenges earlier thousands-level estimates
+    source_refs:
+    - id: lpr_src_population
+      locator: Abstract and population-estimation discussion
+    confidence: medium
+    integration:
+      status: collected
+      note: Use as a dated site-area estimate with stated method and range. No game location ID assigned; it
+        is not a whole province total or a culture-wide density.
+    addresses_comparison_gaps:
+    - lpg_population
+    - ccg10
+  lpr_catal_cereal_mixture:
+    entity: Çatalhöyük East Mound
+    subject: subsistence_and_food_processing
+    finding: Archaeobotanical research reports long-term use of six cereals and three pulses together with
+      nuts, fruits, and gathered wild resources, indicating a mixed plant economy rather than cereal monoculture.
+    dating:
+      precision: range
+      earliest_year: -7100
+      latest_year: -5950
+      time_scale: cal_BCE
+      calibrated: true
+      approximate: true
+    source_refs:
+    - id: lpr_src_cereal
+      locator: East Mound chronology and plant subsistence strategies
+    confidence: high
+    integration:
+      status: collected
+      note: Supports crop and gathered-resource categories; does not quantify yields, output share, or game-building
+        levels.
+    addresses_comparison_gaps:
+    - lpg_resource_emission
+    - lpg_production_methods
+    - agriculture_advances
+  lpr_catal_obsidian_provenance:
+    entity: Çatalhöyük East Mound, one Neolithic structure
+    subject: raw_material_provenance
+    finding: Chemical sourcing of 42 obsidian artefacts from one structure matched samples to East Göllü Dağ
+      and Nenezi Dağ geological sources in southern Cappadocia.
+    dating:
+      precision: range
+      earliest_year: -7100
+      latest_year: -5950
+      time_scale: cal_BCE
+      calibrated: true
+      approximate: true
+    source_refs:
+    - id: lpr_src_obsidian
+      locator: Abstract, artefact sample and source matches
+    confidence: medium
+    integration:
+      status: collected
+      note: This establishes raw-material provenance for a sample. It does not by itself establish a formal
+        market, route, extraction volume, or a game resource at a full map location. The wide date range is
+        site context from the cereal study, not the measured date of these 42 artifacts; their excavated building/phase
+        chronology still needs review.
+    dating_scope: site_occupation_context_not_artifact_sample_date
+    date_source_refs:
+    - id: lpr_src_cereal
+      locator: Neolithic Çatalhöyük plant subsistence, East Mound occupation context 7100–5950 cal BC
+    addresses_comparison_gaps:
+    - lpg_production_methods
+    - trade_and_economy
+  lpr_catal_charred_samples:
+    entity: Çatalhöyük East Mound
+    subject: food_processing_evidence
+    finding: The 2013–2015 excavation collection included more than 200 charred food samples spanning the site's
+      chronological sequence; the study summarizes systematic analyses of 100 samples.
+    dating:
+      precision: range
+      earliest_year: -7100
+      latest_year: -5950
+      time_scale: cal_BCE
+      calibrated: true
+      approximate: true
+    source_refs:
+    - id: lpr_src_cereal
+      locator: Materials, methods, and analysed sample set
+    confidence: high
+    integration:
+      status: collected
+      note: Method and excavated sample count support confidence in food-processing study, not ancient population
+        or production totals. Collection years are modern fieldwork dates; exact archaeological levels of each
+        sample must be retained before projection.
+    dating_scope: associated_site_occupation_context_not_date_of_every_sample
+    collection_period:
+      start_year: 2013
+      end_year: 2015
+      calendar: CE
+    addresses_comparison_gaps:
+    - lpg_production_methods
+  lpr_catal_site_coordinates:
+    entity: Çatalhöyük, Konya Plain
+    subject: published_site_coordinates
+    finding: The plant-subsistence study locates Çatalhöyük on the Konya Plain at 37.6664° N, 32.8257° E; these
+      published site coordinates supply an anchor for later spatial mapping.
+    dating:
+      precision: range
+      earliest_year: -7100
+      latest_year: -5950
+      time_scale: cal_BCE
+      approximate: true
+    dating_scope: associated_site_occupation_context_not_coordinate_measurement_date
+    geometry:
+      type: Point
+      crs: EPSG:4326
+      coordinates:
+      - 32.8257
+      - 37.6664
+      spatial_precision: Published decimal-degree point; positional accuracy and full site extent not stated
+    source_refs:
+    - id: lpr_src_cereal
+      locator: Neolithic Çatalhöyük plant subsistence, paragraph locating the site; following paragraph defines
+        East Mound occupation
+    confidence: high
+    integration:
+      status: collected
+      note: Longitude is first in the coordinate pair. Verify the mod map projection and location geometry
+        before assigning a location ID; the point does not establish a whole province or site footprint.
+    addresses_comparison_gaps:
+    - lpg_id_semantics
+    - lpg_site_scale_to_rank

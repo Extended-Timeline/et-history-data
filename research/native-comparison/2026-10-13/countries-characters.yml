@@ -1,0 +1,108 @@
+schema_version: 1
+collected_on: '2026-10-13'
+target: 'Installed game files mounted at native root; local manifest identifies game files but does not independently verify executable patch version.'
+gaps:
+  - id: ccg01
+    field: prehistoric country identity and owned territory
+    priority: P1
+    classification: design_gap
+    evidence: [{file: 'et-converter/etl/model.py', lines: '186-190', claim: 'Country state is instantiated only when owned or controlled locations exist.'}, {file: 'et-history-data/research/prehistoric/methodology.yml', lines: '41-45', claim: 'Point sites and unknown occupation do not establish province ownership or political territory.'}]
+    impact: 'Site and culture evidence cannot safely create a sovereign country tag or map ownership.'
+    research_acceptance: 'Require independently supported political organization, dated territorial footprint, and defensible mapping to game locations; otherwise retain site/culture evidence outside country history.'
+  - id: ccg02
+    field: prehistoric ruler, heir, dynasty, regnal and consort history
+    priority: P1
+    classification: design_gap
+    evidence: [{file: 'et-converter/etl/gen_countries.py', lines: '79-88', claim: 'A valid dated country ruler is emitted and a spouse may emit as consort.'}, {file: 'et-history-data/docs/Character Files.md', lines: '6-23', claim: 'History schema supports named individuals, birth, ancestry, spouse, and death.'}]
+    impact: 'Archaeological cultures and graves do not automatically identify named rulers, succession, or dynasties.'
+    research_acceptance: 'Add individuals only when a source identifies identity, chronology, and relationship; otherwise mark person/name/succession as unknown and do not synthesize a ruler.'
+  - id: ccg03
+    field: personal names and linguistic/cultural affiliation
+    priority: P1
+    classification: unsupported_conversion
+    evidence: [{file: 'et-converter/etl/gen_characters.py', lines: '35-49', claim: 'Character generator writes a first name and optional name fields.'}, {file: 'et-converter/etl/model.py', lines: '150-161', claim: 'Character culture/religion resolve through game identifier registries and fallbacks.'}]
+    impact: 'A named archaeological horizon does not establish an ethnic, linguistic, or personal-name identity.'
+    research_acceptance: 'Require independent evidence for any named language, people, or person; preserve archaeological labels as material-culture entities.'
+  - id: ccg04
+    field: government, rank, court/liturgical language, religion, cultures
+    priority: P1
+    classification: design_gap
+    evidence: [{file: 'et-history-data/docs/Country Files.md', lines: '82-105', claim: 'Project country schema documents government, religion, culture, languages, capital, rank, diplomacy and dependencies.'}, {file: 'et-converter/etl/model.py', lines: '190-224', claim: 'World model consumes government, culture, religion, capital, rank, ruler, exploration, color only.'}]
+    impact: 'Even populated history YAML fields for court language, regnal number, dependencies and tolerated cultures do not reach these outputs.'
+    research_acceptance: 'Separate converter support from the existence of history schema; map or explicitly defer each field and preserve evidence provenance.'
+  - id: ccg05
+    field: government and template resolution
+    priority: P2
+    classification: data_gap
+    evidence: [{file: 'et-converter/etl/model.py', lines: '190-195', claim: 'Missing government selects fallback and emits warning.'}, {file: 'et-converter/etl/gen_countries.py', lines: '60-68', claim: 'Generator emits recognized included templates.'}]
+    impact: 'Unknown/absent history identifiers can silently give a prehistoric record a modern default template.'
+    research_acceptance: 'No government assignment from site size or monument alone; use only supported governance evidence and valid project/native IDs.'
+  - id: ccg06
+    field: capital and rank
+    priority: P2
+    classification: unsupported_conversion
+    evidence: [{file: 'et-converter/etl/model.py', lines: '203-211', claim: 'Missing/invalid capital can fall back to first owned location; rank defaults to kingdom.'}, {file: 'et-history-data/docs/Country Files.md', lines: '88-102', claim: 'Documentation describes capital as required and rank as optional.'}]
+    impact: 'Fallbacks are technical conveniences, not historical claims or proofs of engine requirements.'
+    research_acceptance: 'Only assign an evidenced center when a polity exists; record uncertainty rather than use fallback as archaeology.'
+  - id: ccg07
+    field: traits and character stats
+    priority: P2
+    classification: unsupported_conversion
+    evidence: [{file: 'et-converter/etl/gen_characters.py', lines: '72-89', claim: 'Generator accepts numeric stats and traits.'}, {file: 'et-history-data/docs/Character Files.md', lines: '15-22', claim: 'Character docs expose stats and traits.'}]
+    impact: 'Prehistoric archaeological evidence rarely warrants personality traits or game-stat scores.'
+    research_acceptance: 'Do not assign traits or ADM/DIP/MIL without direct, defensible biographical evidence and a documented scoring method.'
+  - id: ccg08
+    field: character relationships and dynasty output
+    priority: P2
+    classification: data_gap
+    evidence: [{file: 'et-converter/etl/gen_characters.py', lines: '60-102', claim: 'Unknown father/mother/spouse/dynasty references are warned and omitted.'}, {file: 'et-converter/etl/gen_dynasties.py', lines: '7-35', claim: 'Dynasty output can include name, name type, home, and name lists.'}]
+    impact: 'Arbitrary kinship/dynasty links would generate unsupported game relationships.'
+    research_acceptance: 'Add only explicitly supported genealogical links; household co-burial or genetic relatedness does not establish a named dynasty.'
+  - id: ccg09
+    field: character birth/death and period activity
+    priority: P2
+    classification: design_gap
+    evidence: [{file: 'et-converter/etl/model.py', lines: '76-108, 241-257', claim: 'Characters are folded by dated blocks and only living-at-target characters are retained.'}, {file: 'et-history-data/docs/Character Files.md', lines: '3-24', claim: 'Character source history uses birth-ordered dated records.'}]
+    impact: 'Archaeological phase dates cannot be converted into precise individual life spans.'
+    research_acceptance: 'Use a character only with source-supported individual chronology; no invented dates derived from cultural-period duration.'
+  - id: ccg10
+    field: population and site-to-location allocation
+    priority: P1
+    classification: unsupported_conversion
+    evidence: [{file: 'et-converter/README.md', lines: '26-31', claim: 'Population output is based on vanilla location totals multiplied by an era factor.'}, {file: 'et-history-data/research/prehistoric/methodology.yml', lines: '41-45', claim: 'Site population cannot be assigned to a whole province without an allocation method.'}]
+    impact: 'A site estimate is not a provincial total; current output is explicitly placeholder behavior.'
+    research_acceptance: 'Require location-level estimates with uncertainty, dated archaeological survey coverage, and a stated allocation model before replacing the placeholder.'
+  - id: ccg11
+    field: static country identity, color and map definition
+    priority: P2
+    classification: preserved_vanilla
+    evidence: [{file: 'et-converter/etl/gen_countries.py', lines: '103-140', claim: 'Country definitions emit color/culture/religion for generated tags.'}, {file: 'et-converter/etl/generate.py', lines: '47-60', claim: 'Generator copies static vanilla files and avoids replacing native country tags.'}]
+    impact: 'A generated country record and static country definition are distinct layers; vanilla tag definitions may remain authoritative.'
+    research_acceptance: 'Verify tag collision and static definition behavior before adding a prehistoric tag; do not infer historical colors or modern definition IDs.'
+  - id: ccg12
+    field: unconverted diplomatic and succession state
+    priority: P2
+    classification: unsupported_conversion
+    evidence: [{file: 'et-history-data/docs/Country Files.md', lines: '38-54,96-105', claim: 'History docs define regnal numbers, diplomacy, dependencies, inheritance.'}, {file: 'et-converter/etl/gen_countries.py', lines: '53-100', claim: 'Country start generator currently emits ownership, templates, rank, technology placeholder, government, ruler, spouse, exploration and capital.'}]
+    impact: 'Fields can be valid history inputs but absent from generated country setup.'
+    research_acceptance: 'Track support field by field; never treat YAML presence as converter output or native engine requirement.'
+  - id: ccg14
+    field: country type (default/pop/building/army)
+    priority: P1
+    classification: unsupported_conversion
+    evidence: [{file: 'et-history-data/docs/Country Files.md', lines: '60-70', claim: 'Project schema distinguishes default, pop, building, and army country types.'}, {file: 'et-converter/etl/model.py', lines: '186-190,217-224', claim: 'Country construction uses owned/controlled location buckets and CountryInfo has no type field.'}]
+    impact: 'Non-territorial societies and building/army entities cannot be represented faithfully by the current location ownership gate.'
+    research_acceptance: 'Do not force archaeological communities into territorial tags; implement and test country-type semantics before collecting such inputs.'
+  - id: ccg13
+    field: technology and current age
+    priority: P2
+    classification: design_gap
+    evidence: [{file: 'et-converter/etl/gen_countries.py', lines: '53-55,78,100', claim: 'Current age and technology level are emitted as constants.'}, {file: 'et-converter/README.md', lines: '26-31', claim: 'README labels these outputs placeholders.'}]
+    impact: 'These fields are not date-specific historical findings in the current converter.'
+    research_acceptance: 'Use period- and society-specific supported mechanics only after replacing constants with a documented model.'
+research_records:
+  source_ids: [ccg_src_pubmed, ccg_src_frontiers, ccg_src_management]
+  evidence_records: [ccg_fact_kinship_shift, ccg_fact_maternal_links, ccg_fact_west_burial]
+
+
+

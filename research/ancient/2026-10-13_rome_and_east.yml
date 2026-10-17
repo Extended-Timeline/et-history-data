@@ -1,0 +1,116 @@
+schema_version: 1
+period_id: ancient
+collected_on: "2026-10-13"
+records:
+  augustus_birth:
+    entity: rom_augustus_julio_claudian
+    subject: character_birth
+    finding: Conventional birth date is 23 September 63 BCE, at Rome.
+    dating: {precision: day, date: "-63.9.23", calendar: roman_civil_date_normalized_to_et}
+    source_refs: [{id: suetonius_augustus, locator: "5.1 and editor note a"}]
+    confidence: medium
+    integration: {status: applied, target: characters/ROM.yml, note: Replaces guessed -28.1.1; Rome retained. Ancient calendar conversion is not a proleptic Gregorian claim.}
+  augustus_death:
+    entity: rom_augustus_julio_claudian
+    subject: character_death
+    finding: Death is dated 19 August 14 CE by the Roman calendar account.
+    dating: {precision: day, date: "14.8.19", calendar: roman_civil_date_normalized_to_et}
+    source_refs: [{id: suetonius_augustus, locator: "100.1"}]
+    confidence: high
+    integration: {status: collected, target: characters/ROM.yml, note: Apply the death date together with a documented country succession policy; the current country and death keys both use 14.9.18.}
+  tiberius_birth:
+    entity: rom_tiberius_julio_claudian
+    subject: character_birth
+    finding: The preferred account dates his birth to 16 November 42 BCE at Rome.
+    dating: {precision: day, date: "-42.11.16", calendar: roman_civil_date_normalized_to_et}
+    source_refs: [{id: suetonius_tiberius, locator: "5.1"}]
+    confidence: medium
+    integration: {status: applied, target: characters/ROM.yml, note: Replaces guessed -16.1.1; the source mentions competing birth-year traditions.}
+  tiberius_death:
+    entity: rom_tiberius_julio_claudian
+    subject: character_death
+    finding: Death is dated 16 March 37 CE.
+    dating: {precision: day, date: "37.3.16", calendar: roman_civil_date_normalized_to_et}
+    source_refs: [{id: suetonius_tiberius, locator: "73.1"}]
+    confidence: high
+    integration: {status: collected, target: characters/ROM.yml, note: Resolve death versus recognition and accession dates together; both current timeline keys use 37.3.18.}
+  caligula_birth:
+    entity: Caligula
+    subject: character_birth
+    finding: Birth is dated 31 August 12 CE; the source favors Antium among competing birthplace accounts.
+    dating: {precision: day, date: "12.8.31", calendar: roman_civil_date_normalized_to_et}
+    source_refs: [{id: suetonius_caligula, locator: "8.1–5"}]
+    confidence: medium
+    integration: {status: applied, target: characters/ROM.yml, note: Corrected the used _1 variant's date; Antium-to-location mapping is still unresolved. The two existing IDs were retained.}
+  caligula_father:
+    entity: Caligula
+    subject: genealogy
+    finding: His father was Germanicus, not Tiberius.
+    dating: {precision: day, date: "12.8.31", calendar: roman_civil_date_normalized_to_et}
+    source_refs: [{id: suetonius_caligula, locator: "7.1–2 and 8"}]
+    confidence: high
+    integration: {status: applied, target: characters/ROM.yml, note: Removed the incorrect father link. No unsourced Germanicus character or ability ratings were generated.}
+  claudius_birth:
+    entity: Claudius
+    subject: character_birth
+    finding: Birth is normalized to 1 August 10 BCE at Lugdunum, corresponding to Lyon.
+    dating: {precision: day, date: "-10.8.1", calendar: roman_civil_date_normalized_to_et}
+    source_refs: [{id: suetonius_claudius, locator: "2.1, consular year of Iullus Antonius and Fabius Africanus"}]
+    confidence: high
+    integration: {status: applied, target: characters/ROM.yml, location_id: lyon, note: Both existing Claudius IDs retain their identity but receive the sourced date and place.}
+  claudius_father:
+    entity: Claudius
+    subject: genealogy
+    finding: His father was Drusus, not Caligula.
+    dating: {precision: day, date: "-10.8.1", calendar: roman_civil_date_normalized_to_et}
+    source_refs: [{id: suetonius_claudius, locator: "1.1 and 1.6"}]
+    confidence: high
+    integration: {status: applied, target: characters/ROM.yml, note: Removed the false Caligula father link; a Drusus character needs its own verified record.}
+  nero_birthplace:
+    entity: rom_nero_julio_claudian
+    subject: character_birth
+    finding: Nero's birth is reported at Antium on 15 December 37 CE.
+    dating: {precision: day, date: "37.12.15", calendar: roman_civil_date_normalized_to_et}
+    source_refs: [{id: suetonius_nero, locator: "6.1"}]
+    confidence: high
+    integration: {status: collected, target: characters/ROM.yml, note: Existing date agrees; replace the guessed Rome birthplace only after Antium is mapped to an actual location ID.}
+  eastern_han_chronology:
+    entity: HAN0
+    subject: polity_chronology
+    finding: Eastern Han is dated 25–220 CE.
+    dating: {precision: range, earliest_year: 25, latest_year: 220, approximate: false}
+    source_refs: [{id: met_han, locator: Opening chronology}]
+    confidence: high
+    integration: {status: collected, target: countries/HAN0 - Han.yml, note: "The source provides years, not exact accession or dissolution days."}
+  eastern_han_capital:
+    entity: HAN0
+    subject: capital
+    finding: Eastern Han ruled from Luoyang; this supports Luoyang as the 58 CE scenario capital.
+    dating: {precision: range, earliest_year: 25, latest_year: 220, approximate: false}
+    source_refs: [{id: met_han, locator: Eastern Han paragraph}]
+    confidence: high
+    integration: {status: verified_existing, target: countries/HAN0 - Han.yml, location_id: luoyang, note: Does not independently verify the existing 25.1.1 transition day or Emperor Ming's birth date.}
+  corbulo_armenia_campaign:
+    entity: firstromanparthianwar
+    subject: military_campaign
+    finding: Corbulo's advance into Armenia is placed in spring 58 CE.
+    dating: {precision: season, year: 58, season: spring}
+    source_refs: [{id: iranica_armenia, locator: Paragraph beginning In the face of this Parthian coup}, {id: iranica_vologases, locator: Campaign chronology caveat}]
+    confidence: medium
+    integration: {status: collected, target: wars/firstromanparthianwar.txt, note: This does not verify 58.2.1 as the overall war start or a July 58 accession by Tigranes.}
+  rhandeia_defeat:
+    entity: firstromanparthianwar
+    subject: military_campaign
+    finding: The Roman force under Paetus capitulated near Rhandeia at the end of 62 CE.
+    dating: {precision: year, year: 62, qualifier: end_of_year}
+    source_refs: [{id: iranica_vologases, locator: Rhandeia paragraph}]
+    confidence: medium
+    integration: {status: collected, target: wars/firstromanparthianwar.txt, note: Do not invent a day or translate this into a country ownership transfer without local evidence.}
+  armenian_investiture:
+    entity: arm_tiridates_i_arsacid
+    subject: diplomacy_and_legitimacy
+    finding: Tiridates received investiture from Nero at Rome in 66 CE.
+    dating: {precision: year, year: 66}
+    source_refs: [{id: iranica_vologases, locator: Journey to Rome in 66}]
+    confidence: high
+    integration: {status: collected, target: countries/ARM - Armenia.yml, note: "Investiture is not an automatic change of dynasty, religion or full territorial ownership."}

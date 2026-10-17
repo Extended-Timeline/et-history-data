@@ -1,0 +1,138 @@
+schema_version: 1
+catalogue_id: native_history_requirements_2026_10_13
+collected_on: '2026-10-13'
+native_install:
+  path: D:/Games/Europa Universalis 5/Europa.Universalis.V.v1.2.5-0xdeadcode/game
+  path_version_warning: Folder naming is not independent verification of the installed build.
+requirements:
+- id: phr_territory_owner
+  category: Territorial ownership
+  native_evidence: main_menu/setup/start/10_countries.txt:15; own_control_core block in same file near lines 20-60
+  historical_requirement: Record which political actor claims/owns which territory at each supported date. Distinguish
+    ownership from control and record contested or uncertain status explicitly.
+- id: phr_territory_control
+  category: Control versus ownership
+  native_evidence: main_menu/setup/start/10_countries.txt:1-13 comments define own_control_core, own_control_integrated,
+    own_control_conquered, own_control_colony, own_core, control_core and control
+  historical_requirement: Maintain separate evidence for effective control, claimed/core territory, and incorporation.
+    Do not turn archaeological culture extents into borders.
+- id: phr_country_identity
+  category: Political entity identity
+  native_evidence: main_menu/setup/start/10_countries.txt:15-19; in_game/common/country_ranks/00_default.txt
+  historical_requirement: Track entity name/identifier, chronology and political basis; archaeological culture names
+    are not state identities.
+- id: phr_formation_dissolution
+  category: Formation, succession, dissolution
+  native_evidence: main_menu/setup/start/10_countries.txt:15; country presence and territory blocks
+  historical_requirement: Date evidence for emergence, transformation, merger, conquest, fragmentation and disappearance,
+    with uncertainty and continuity relations; distinguish a polity label from a cultural horizon.
+- id: phr_government_type
+  category: Government form
+  native_evidence: main_menu/setup/start/10_countries.txt:68-72; in_game/common/government_types/00_default.txt:1,40,69,119
+  historical_requirement: Record a government category only when sources support an institutional form; monarchy,
+    republic, theocracy and tribe are game categories, not universal stages.
+- id: phr_government_reform
+  category: Governmental institution or reform
+  native_evidence: in_game/common/government_reforms/monarchy.txt and common.txt; main_menu/setup/start/10_countries.txt:68-72
+  historical_requirement: Track dated institutional changes separately from broad government type. Do not infer
+    a reform from monuments or settlement size.
+- id: phr_laws
+  category: Formal rules and legal organization
+  native_evidence: in_game/common/laws/00_tribes.txt:1,58,123,159,201,249; laws/00_monarchy.txt
+  historical_requirement: Record attested rules or institutions with scope, date and evidentiary basis. Native law
+    names should not be assigned as analogies without direct evidence.
+- id: phr_succession_system
+  category: Succession institution
+  native_evidence: main_menu/setup/start/10_countries.txt:68-72; in_game/common/heir_selections/monarchy.txt:1
+  historical_requirement: Record a succession mechanism only when historically evidenced and applicable to the political
+    institution; leave unknown where sources do not resolve it.
+- id: phr_named_ruler
+  category: Named office holder
+  native_evidence: main_menu/setup/start/10_countries.txt:68-72; main_menu/setup/start/05_characters.txt:3
+  historical_requirement: Store names and office only with reliable identification and chronology. Unknown prehistoric
+    rulers remain unknown; never create placeholder monarchs.
+- id: phr_ruler_terms
+  category: Time-bounded rule and transitions
+  native_evidence: main_menu/setup/start/10_countries.txt:74-80 ruler_term entries
+  historical_requirement: Represent reign/office spans and succession/change dates as ranges or approximate events;
+    avoid fabricated day precision.
+- id: phr_character_biography
+  category: Person-level evidence
+  native_evidence: main_menu/setup/start/05_characters.txt:3; sample swe_birger_jarl entry near lines 9-20
+  historical_requirement: Separate attested person identity, name, life dates, origin, culture/religion and office;
+    record uncertain fields independently rather than filling templates.
+- id: phr_kinship
+  category: Kinship links
+  native_evidence: main_menu/setup/start/05_characters.txt parent/child links; in_game/common/heir_selections/monarchy.txt:1
+  historical_requirement: Model biological or social kinship links only at the evidence level observed. A burial
+    relationship or genetic pattern is not a complete genealogy or hereditary dynasty.
+- id: phr_dynasty
+  category: Dynasty or lineage
+  native_evidence: main_menu/setup/start/04_dynasties.txt:1-20; main_menu/setup/start/05_characters.txt:3 and dynasty
+    field
+  historical_requirement: Use a dynasty only where a documented lineage links identified people; house continuity
+    and political succession need not coincide.
+- id: phr_estate_hierarchy
+  category: Corporate social groups
+  native_evidence: main_menu/setup/start/10_countries.txt estate satisfaction near lines 6218-6220; in_game/common/estates/00_default.txt:44,984
+  historical_requirement: Record evidence for socially organized groups and their role, date and scope. Do not map
+    archaeological status differences automatically to nobles, clergy, burghers or peasants.
+- id: phr_estate_privileges
+  category: Privileges and institutional power
+  native_evidence: main_menu/setup/start/10_countries.txt privilege blocks near lines 3426, 6229; in_game/common/estates/00_default.txt:44
+  historical_requirement: Track rights, obligations, influence and distribution only where supported; the estate
+    framework is an engine abstraction rather than a default archaeological taxonomy.
+- id: phr_societal_dimensions
+  category: Social and political dimensions
+  native_evidence: in_game/common/societal_values/00_default.txt:1,26,61,96,123,228,251,279,352
+  historical_requirement: Keep any mapped value separate from observations. Numeric axes such as centralization/decentralization
+    are design parameters, not archaeological measurements.
+- id: phr_alliances
+  category: Alliance and bilateral ties
+  native_evidence: main_menu/setup/start/12_diplomacy.txt:1; in_game/common/scripted_relations/alliance.txt:1
+  historical_requirement: Record parties, tie type, chronology, terms and evidence; infer no alliance from similar
+    artefacts or exchange alone.
+- id: phr_dependency_tribute
+  category: Dependency, tribute and overlord relations
+  native_evidence: main_menu/setup/start/12_diplomacy.txt:7-20 dependency entries; in_game/common/subject_types/tributary.txt:2
+  historical_requirement: Represent tributary or other unequal ties only with evidence for direction and obligations;
+    distinguish tribute from exchange, gifting and tax within one polity.
+- id: phr_international_organization
+  category: Multi-polity institutions
+  native_evidence: main_menu/setup/start/15_international_organizations.txt:1; in_game/common/international_organizations
+  historical_requirement: Track membership, leadership, rules, territorial scope and time for supra-polity bodies
+    when evidence supports them; do not treat ritual centers as organizations by default.
+- id: phr_war_episode
+  category: Conflict episode
+  native_evidence: main_menu/setup/start/16_wars.txt:1-32 war_manager, dates and attacker/defender blocks
+  historical_requirement: Record conflict participants, date ranges, evidence, and uncertain identification separately.
+    Archaeological violence does not by itself identify two states or a named war. Distinguish direct participants
+    from allies, subjects, auxiliaries or victims where evidence permits; otherwise retain unknown identities.
+- id: phr_territorial_change_process
+  category: Conquest, annexation and border change
+  native_evidence: main_menu/setup/start/10_countries.txt:1-13 control categories; main_menu/setup/start/12_diplomacy.txt
+    dependency start_date
+  historical_requirement: Date territorial changes and effective-control changes as processes rather than assuming
+    static polygon ownership. Record source and temporal uncertainty.
+- id: phr_governance_change_process
+  category: Governance and institutional change
+  native_evidence: main_menu/setup/start/10_countries.txt:68-80 government and ruler_term; in_game/common/laws;
+    in_game/common/government_reforms
+  historical_requirement: Record dated emergence, persistence, replacement or collapse of institutions; do not force
+    a continuous government history where evidence has gaps.
+- id: phr_social_hierarchy_process
+  category: Emergence and change in social differentiation
+  native_evidence: in_game/common/estates/00_default.txt:44,984; in_game/common/societal_values/00_default.txt:1
+  historical_requirement: Describe observed differences in access, status, labor, ritual role and material wealth
+    separately. A hierarchy label requires convergent evidence and should be confidence-qualified.
+- id: phr_succession_process
+  category: Succession and kinship through time
+  native_evidence: main_menu/setup/start/10_countries.txt:74-80 ruler_term; main_menu/setup/start/04_dynasties.txt:1;
+    main_menu/setup/start/05_characters.txt:3; in_game/common/heir_selections/monarchy.txt:1
+  historical_requirement: Connect transitions to attested people and rules where possible; represent disputed succession
+    as alternatives or unknown, and do not invent prehistoric kings.
+- id: phr_diplomacy_conflict_process
+  category: Alliance, tribute, war and settlement of conflict
+  native_evidence: main_menu/setup/start/12_diplomacy.txt:1,7-20; main_menu/setup/start/16_wars.txt:1-32; in_game/common/subject_types/tributary.txt:2
+  historical_requirement: Model start/end, parties, relationship type, obligations and resolution only when evidenced;
+    trade, cultural similarity and violence alone do not prove diplomatic institutions.

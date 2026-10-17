@@ -1,0 +1,448 @@
+schema_version: 1
+period_id: prehistoric
+collected_on: '2026-10-14'
+records:
+  aso14_mehrgarh_period1_redating:
+    entity: Mehrgarh Period I cemetery, Balochistan, Pakistan
+    subject: revised_aceramic_neolithic_chronology
+    finding: Bayesian modelling of new tooth-enamel radiocarbon dates from 23 graves in nine stratified
+      cemetery levels places the modeled start at 5223–4914 cal BCE and the end at 4769–4679 cal BCE,
+      with a modeled duration of 186–531 years. This revises an earlier much older chronology; cemetery
+      dates alone do not date the first cultivation or domestication.
+    dating:
+      precision: range
+      time_scale: cal BCE
+      reported_range: Start 5223–4914; end 4769–4679; modeled duration 186–531 years
+      approximate: true
+    source_refs:
+    - id: aso14_src_mehrgarh_dates
+      locator: 'Abstract and Results: Bayesian model, start/end ranges and duration; Fig. 2'
+    confidence: high
+    scope:
+      examined: 23 human tooth-enamel samples from graves in nine stratified Period I cemetery levels
+        at one site.
+      generalization_limit: Constrains cemetery chronology, not the beginning of agriculture across South
+        Asia or first occupation at Mehrgarh.
+    historical_process:
+      process_type: chronology_revision
+      temporal_evidence: Modeled cemetery start and end are reported as separate ranges; the older conventional
+        chronology is revised.
+      evidence_for_mechanism: New enamel radiocarbon assays, previously published enamel dates, stratigraphic
+        level sequence and Bayesian model.
+      source_interpretation: A calibration plateau broadens the estimated start interval.
+      limits: Does not date the first crop or domestication; enamel sample and cemetery sequence are not
+        the entire settlement record.
+    related_requirements:
+    - catalogue_id: native_material_world_requirements
+      requirement_id: settlement_occupancy
+    - catalogue_id: native_material_world_requirements
+      requirement_id: date_resolution_and_provenance
+    - catalogue_id: native_material_world_requirements
+      requirement_id: domestication_sequence
+    integration:
+      status: collected
+      note: Use modeled cemetery intervals; keep cultivation and domestication as separate questions.
+    related_existing_records:
+    - aso_mehrgarh_aceramic
+    chronology_comparison:
+      existing_anchor: aso_mehrgarh_aceramic reports the UNESCO tentative-list Period I chronology as
+        approximately 7000–5500 BCE.
+      new_study: The 2025 study models the sampled Period I cemetery start at 5223–4914 cal BCE and end
+        at 4769–4679 cal BCE.
+      assessment: These chronologies conflict; retain the source-specific dating disagreement and do not
+        apply the new cemetery model to all occupation or farming evidence.
+  aso14_mehrgarh_dental_drilling:
+    entity: Neolithic graveyard at Mehrgarh, Pakistan
+    subject: drilled_molar_crowns
+    finding: Eleven molar crowns from nine adults had been drilled in vivo in a graveyard dated by the
+      study to 7,500–9,000 years ago. This documents a controlled dental procedure in one population;
+      its purpose and frequency beyond the excavated sample remain unknown.
+    dating:
+      precision: relative
+      reported_value: 7,500–9,000
+      unit: years ago
+      reference_year: null
+      calibrated: null
+      approximate: true
+    source_refs:
+    - id: aso14_src_mehrgarh_dental
+      locator: Abstract; drilled molars and graveyard chronology
+    confidence: high
+    scope:
+      examined: Eleven drilled molars from nine adults in one graveyard.
+      generalization_limit: Exceptional remains do not measure regional prevalence, practitioner status
+        or treatment success.
+    historical_process:
+      process_type: dental_technology_observation
+      temporal_evidence: No earlier or later local series establishes when the technique began or ceased.
+      evidence_for_mechanism: Microscopic and morphological examination of drilled teeth.
+      source_interpretation: The authors identify drilling during life; a connection to bead-making skills
+        is suggested, not demonstrated as practitioner identity.
+      limits: Small, cemetery-specific sample; treatment motive and social organization are not established.
+    related_requirements:
+    - catalogue_id: native_material_world_requirements
+      requirement_id: craft_and_material_technology
+    - catalogue_id: native_material_world_requirements
+      requirement_id: production_chains
+    integration:
+      status: collected
+      note: Treat as a dated craft/health practice, not a universal technology level or named profession.
+    related_existing_records:
+    - aso_mehrgarh_aceramic
+    - aso14_mehrgarh_period1_redating
+    chronology_comparison:
+      source_report: The 2006 dental study assigns the graveyard a relative age of 7500–9000 years ago.
+      new_study: The 2025 study dates a Period I cemetery sequence using enamel from 23 graves; the published
+        evidence does not establish that the 2006 drilled-tooth sample is the same set of graves or levels.
+      assessment: Keep the two publications’ chronology statements distinct; do not convert or silently
+        reconcile them.
+  aso14_jomon_population_proxy:
+    entity: 'Jomon-period eastern Japan: Kanto, Aomori and Hokkaido datasets'
+    subject: regional_population_proxy
+    finding: A summed-probability analysis of 1,433 radiocarbon dates spanning 7,000–3,000 cal BP found
+      statistically significant rise-and-fall patterns, with regional divergences especially during the
+      sixth millennium cal BP. This is a proxy for dated archaeological activity, not a census or absolute
+      population count.
+    dating:
+      precision: bp
+      reported_range:
+      - 7000
+      - 3000
+      unit: cal BP
+      reference_year: 1950
+      calibrated: true
+      approximate: true
+    source_refs:
+    - id: aso14_src_jomon_spd
+      locator: Abstract; Methods on date compilation and null models; regional results
+    confidence: high
+    scope:
+      examined: 1,433 calibrated dates from three regions analyzed using summed probabilities and permutation
+        tests.
+      generalization_limit: Date density can reflect research, preservation and sampling as well as population;
+        study does not cover all Japan.
+    temporal_scope: boundary_context
+    historical_process:
+      process_type: regional_activity_proxy_change
+      temporal_evidence: Broad rise-and-fall pattern with regional divergence during the sixth millennium
+        cal BP; full interval extends beyond the project cutoff.
+      evidence_for_mechanism: Calibrated radiocarbon dataset and statistical comparisons against null
+        models.
+      source_interpretation: The authors infer divergent regional population dynamics; climate links remain
+        hypotheses for further testing.
+      limits: Proxy is not a census; survey intensity and preservation can affect date distributions.
+        The post-cutoff portion is retained as source context, not as a pre-3000 BCE event.
+    related_requirements:
+    - catalogue_id: native_society_identity_requirements
+      requirement_id: r11
+    - catalogue_id: native_society_identity_requirements
+      requirement_id: r21
+    integration:
+      status: collected
+      note: Preserve full 7,000–3,000 cal BP interval and treat as a regional proxy with sampling limitations.
+    period_relation: crosses_boundary
+  aso14_tibet_forager_camps:
+    entity: Northeastern Tibetan Plateau, multiple archaeological sites
+    subject: episodic_high_altitude_foraging
+    finding: The study reports archaeological traces at Jiangxigou 1 (14,600 cal BP, about 3,200 m), Heimahe
+      1 (13,100 cal BP, about 3,200 m), Xidatan 2 (9,200 cal BP, about 4,300 m) and Yeniugou 7 (7,500
+      cal BP, about 3,800 m). Lithics, animal bones and hearths are interpreted mostly as short hunting
+      camps rather than permanent high-altitude villages.
+    dating:
+      precision: bp
+      reported_range:
+      - 14600
+      - 7500
+      unit: cal yr BP
+      reference_year: 1950
+      calibrated: true
+      approximate: true
+    source_refs:
+    - id: aso14_src_tibet
+      locator: 'Discussion and cited site evidence: four sites, elevations and dates'
+    confidence: medium
+    scope:
+      examined: Four site observations summarized in a regional study; chronologies and interpretations
+        vary.
+      generalization_limit: Sparse traces do not establish continuous occupation, population size or a
+        region-wide migration wave.
+    historical_process:
+      process_type: episodic_high_altitude_use
+      temporal_evidence: Four dated observations span the late Pleistocene and Holocene; intervening gaps
+        are not filled by these data.
+      evidence_for_mechanism: Published site contexts with lithics, faunal remains, hearths, elevations
+        and chronologies.
+      source_interpretation: Most are interpreted as possible short hunting camps.
+      limits: Sparse sampling and site-specific dates; camp interpretation does not prove every visit
+        was brief.
+    related_requirements:
+    - catalogue_id: native_material_world_requirements
+      requirement_id: settlement_occupancy
+    - catalogue_id: native_material_world_requirements
+      requirement_id: population_mobility
+    - catalogue_id: native_material_world_requirements
+      requirement_id: seasonality_and_subsistence
+    integration:
+      status: collected
+      note: Represent discrete site observations, not one continuous occupation zone.
+  aso14_tibet_millet_villages:
+    entity: Northeastern Tibetan Plateau
+    subject: millet_agriculture_and_village_elevation
+    finding: The study dates its first villages to about 5,200 cal BP and reports millet farming at lower
+      elevations in a 5,200–3,600 cal BP sequence, followed by settlement at higher elevations. The full
+      reported sequence crosses the project boundary; crop presence alone does not prove year-round residence.
+    dating:
+      precision: bp
+      reported_range:
+      - 5200
+      - 3600
+      unit: cal yr BP
+      reference_year: 1950
+      calibrated: true
+      approximate: true
+    source_refs:
+    - id: aso14_src_tibet
+      locator: Abstract; Results on 53 sites and 63 dated grains; discussion of crop and site elevations
+    confidence: high
+    scope:
+      examined: Regional study of 53 archaeological sites and AMS dates on 63 charred grains.
+      generalization_limit: Sequence crosses cutoff; sites and crop remains do not estimate population
+        or prove permanent residence at each elevation.
+    temporal_scope: boundary_context
+    historical_process:
+      process_type: crop_adoption_and_settlement_elevation_change
+      temporal_evidence: The source contrasts earlier occasional visits with farming villages from about
+        5,200 cal BP and later higher-elevation settlement.
+      evidence_for_mechanism: AMS-dated charred grains, archaeobotanical identification and site elevations.
+      source_interpretation: Millet is proposed to support villages; later frost-tolerant barley is linked
+        to higher elevation occupation.
+      limits: A regional model, not one uniform transition; uneven preservation and sampling affect chronology.
+        Later components after the 3000 BCE cutoff are contextual only.
+    related_requirements:
+    - catalogue_id: native_material_world_requirements
+      requirement_id: domestication_sequence
+    - catalogue_id: native_material_world_requirements
+      requirement_id: settlement_occupancy
+    - catalogue_id: native_material_world_requirements
+      requirement_id: seasonality_and_subsistence
+    integration:
+      status: collected
+      note: Retain full BP span and distinguish crop presence from permanent settlement.
+    period_relation: crosses_boundary
+  aso14_tongtian_cereals:
+    entity: Tongtian Cave, eastern Altai Mountains
+    subject: northern_cereal_presence_and_exchange
+    finding: Archaeobotanical, pollen and charcoal evidence from a punctuated cave sequence dated 5,200–3,200
+      cal BP documents wheat and barley in the eastern Altai and supports earlier northern crop presence
+      than previously recognized. These data are compatible with long-distance connections but do not
+      identify traders, one route or political control.
+    dating:
+      precision: bp
+      reported_range:
+      - 5200
+      - 3200
+      unit: cal BP
+      reference_year: 1950
+      calibrated: true
+      approximate: true
+    source_refs:
+    - id: aso14_src_tongtian
+      locator: Abstract; charred seeds and stratigraphy; Supplementary Fig. 3 radiocarbon chronology
+    confidence: high
+    scope:
+      examined: One cave sequence in the eastern Altai with archaeobotanical and palaeoenvironmental samples.
+      generalization_limit: Punctuated occupation does not establish a continuous route, uniform farming
+        or population identities.
+    temporal_scope: boundary_context
+    historical_process:
+      process_type: crop_presence_and_northern_adaptation
+      temporal_evidence: Wheat and barley occur in contexts across 5,200–3,200 cal BP; the full source
+        sequence crosses the cutoff.
+      evidence_for_mechanism: Charred seeds, pollen, charcoal, stratigraphy and calibrated dates.
+      source_interpretation: Authors place the site within broader trans-Eurasian crop exchange and discuss
+        northern adaptation; exact route and carriers remain unresolved.
+      limits: Presence does not measure dietary importance; site occupation is punctuated and pathways
+        remain interpretive. Late sequence components after the cutoff are contextual only.
+    related_requirements:
+    - catalogue_id: native_material_world_requirements
+      requirement_id: domestication_sequence
+    - catalogue_id: native_material_world_requirements
+      requirement_id: exchange_networks
+    - catalogue_id: native_material_world_requirements
+      requirement_id: ecology_climate_series
+    integration:
+      status: collected
+      note: Map crop evidence at the site; do not turn proposed pathways into political or market borders.
+    period_relation: crosses_boundary
+  aso14_jeju_mixed_diet:
+    entity: Gosan-ri and Incipient Neolithic sites, Jeju Island, Korea
+    subject: coastal_terrestrial_foodways
+    finding: Gosan-ri and other Incipient Neolithic sites are dated by the study to 10,000–8,000 cal BP.
+      Though coastal, compound-specific isotope and stone-tool evidence indicates substantial use of terrestrial
+      resources, challenging a marine-only assumption without quantifying every food's share.
+    dating:
+      precision: bp
+      reported_range:
+      - 10000
+      - 8000
+      unit: cal BP
+      reference_year: 1950
+      calibrated: true
+      approximate: true
+    source_refs:
+    - id: aso14_src_jeju
+      locator: Abstract; Gosan-ri chronology, isotope and tool results
+    confidence: high
+    scope:
+      examined: Gosan-ri and related Jeju Incipient Neolithic contexts in a dietary study.
+      generalization_limit: Challenges a marine-only model but does not give a complete quantitative food
+        budget for all sites or seasons.
+    historical_process:
+      process_type: mixed_resource_use_observation
+      temporal_evidence: No continuous before/after sequence for island diet is established.
+      evidence_for_mechanism: Compound-specific isotope analysis of pottery residues and stone-tool composition.
+      source_interpretation: Terrestrial foods formed a substantial part of the sampled diet despite coastal
+        location.
+      limits: Preservation and sampled residues affect observed foods; coastal location does not determine
+        diet.
+    related_requirements:
+    - catalogue_id: native_material_world_requirements
+      requirement_id: seasonality_and_subsistence
+    - catalogue_id: native_material_world_requirements
+      requirement_id: settlement_coastal_adaptation
+    - catalogue_id: native_material_world_requirements
+      requirement_id: population_mobility
+    integration:
+      status: collected
+      note: Keep subsistence mixed; do not code coastal populations as marine specialists by default.
+  aso14_panaeati_occupation:
+    entity: Kelebwanagum Cave, Panaeati Island, Massim region, Papua New Guinea
+    subject: late_pleistocene_island_occupation
+    finding: Cave deposits indicate occupation of Panaeati during 17.3–16.8 cal ka BP, the earliest reported
+      settlement evidence for the Massim region in this study. The authors interpret the uplifted limestone
+      island as an ecological refuge during deglacial sea-level rise; this is a local case, not evidence
+      for the whole New Guinea coast.
+    dating:
+      precision: bp
+      reported_range:
+      - 17.3
+      - 16.8
+      unit: cal ka BP
+      reference_year: 1950
+      calibrated: true
+      approximate: true
+    source_refs:
+    - id: aso14_src_panaeati
+      locator: Abstract; Kelebwanagum Cave stratigraphy and dated occupation; refuge interpretation
+    confidence: medium
+    scope:
+      examined: One cave sequence on Panaeati Island, about 160 m inland from its northwest coast.
+      generalization_limit: Does not establish regional settlement density, population size or a universal
+        coastal response.
+    historical_process:
+      process_type: island_occupation_under_coastal_change
+      temporal_evidence: Occupation reported at 17.3–16.8 cal ka BP; no prior island sequence or named
+        occupants are established.
+      evidence_for_mechanism: Stratified cave deposits, radiocarbon chronology, geomorphology and sea-level
+        reconstruction.
+      source_interpretation: Authors interpret uplifted Panaeati as a refuge as lower coastlines became
+        unstable.
+      limits: Refuge is an interpretation; one cave cannot represent all Sahul or Oceania.
+    related_requirements:
+    - catalogue_id: native_material_world_requirements
+      requirement_id: settlement_occupancy
+    - catalogue_id: native_material_world_requirements
+      requirement_id: settlement_coastal_adaptation
+    - catalogue_id: native_material_world_requirements
+      requirement_id: ecology_climate_series
+    integration:
+      status: collected
+      note: Keep as a site-specific island observation; do not extrapolate to all Sahul.
+  aso14_panaeati_hiatus:
+    entity: Kelebwanagum Cave and palaeolandscape of Panaeati Island, Papua New Guinea
+    subject: cave_use_gap_and_island_area_loss
+    finding: The study reports no cave use during 12.4–4.78 cal ka BP and estimates that inundation reduced
+      Panaeati's area by about 90% before sea levels stabilized. The authors associate the hiatus with
+      landscape change, but one cave cannot prove complete human absence from the island or region.
+    dating:
+      precision: bp
+      reported_range:
+      - 12.4
+      - 4.78
+      unit: cal ka BP
+      reference_year: 1950
+      calibrated: true
+      approximate: true
+    source_refs:
+    - id: aso14_src_panaeati
+      locator: 'Results and Discussion: cave-use hiatus, island area estimate and inundation chronology'
+    confidence: medium
+    scope:
+      examined: One excavated cave sequence and a reconstructed island-area change.
+      generalization_limit: No cave deposits do not prove no people elsewhere; later edge reaches beyond
+        3000 BCE.
+    temporal_scope: boundary_context
+    historical_process:
+      process_type: cave_use_gap_during_coastal_inundation
+      temporal_evidence: The source reports a long cave-use gap after earlier occupation and renewed use
+        around 4.78–4.49 cal ka BP, which is outside this period.
+      evidence_for_mechanism: Cave stratigraphy and dates compared with reconstructed sea level and island
+        area.
+      source_interpretation: Authors suggest habitable-area loss and changing lagoons shaped cave use.
+      limits: People may have used other places; cave gaps can reflect settlement choice or sampling rather
+        than depopulation. Its final portion beyond the cutoff is contextual only.
+    related_requirements:
+    - catalogue_id: native_material_world_requirements
+      requirement_id: settlement_occupancy
+    - catalogue_id: native_material_world_requirements
+      requirement_id: settlement_coastal_adaptation
+    - catalogue_id: native_material_world_requirements
+      requirement_id: ecology_climate_series
+    integration:
+      status: collected
+      note: Retain the full source interval; do not equate cave hiatus with regional depopulation.
+    period_relation: crosses_boundary
+  aso14_caibeo_plant_use:
+    entity: Cai Beo site, Cat Ba Island, Ha Long Bay, northeastern Vietnam
+    subject: plant_residues_on_stone_tools
+    finding: Starch and phytolith analyses of Cai Beo stone tools document plant-resource use, including
+      acorns and underground storage organs, in a coastal foraging context. Cultural layers span broadly
+      around 7,000–5,000 years BP; a fish-bone date is 6,893–6,391 cal BP. These residues do not establish
+      local rice farming.
+    dating:
+      precision: bp
+      reported_range:
+      - 6893
+      - 6391
+      unit: cal yr BP
+      reference_year: 1950
+      calibrated: true
+      approximate: true
+    source_refs:
+    - id: aso14_src_caibeo
+      locator: Cai Beo context and ZK-328-0 fish-bone date; results on stone-tool starch and phytoliths
+    confidence: medium
+    scope:
+      examined: Microbotanical residues on stone tools from one island site; the date is on fish bone
+        in the cultural layer, not the plant residue.
+      generalization_limit: Residues do not measure dietary proportions or cultivation; dating is contextual
+        rather than direct.
+    historical_process:
+      process_type: wild_plant_foodways_observation
+      temporal_evidence: The study describes plant-food use in lower cultural phases; later rice evidence
+        in the article lies beyond the 3000 BCE cutoff and is not claimed here.
+      evidence_for_mechanism: Starch and phytolith analyses on stone tools with stratigraphic and associated
+        radiocarbon context.
+      source_interpretation: Plant microremains indicate processing/use, not cultivation status.
+      limits: One site; residue date is not direct; tools and preserved residues sample selected activities.
+    related_requirements:
+    - catalogue_id: native_material_world_requirements
+      requirement_id: seasonality_and_subsistence
+    - catalogue_id: native_material_world_requirements
+      requirement_id: craft_and_material_technology
+    - catalogue_id: native_material_world_requirements
+      requirement_id: date_resolution_and_provenance
+    integration:
+      status: collected
+      note: Separate wild plant use from cultivation and later rice evidence; preserve the association
+        caveat.

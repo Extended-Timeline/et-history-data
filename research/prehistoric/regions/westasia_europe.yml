@@ -1,0 +1,402 @@
+schema_version: 1
+period_id: prehistoric
+collected_on: '2026-10-13'
+records:
+  wae_carmel_mousterian_sequence:
+    entity: Nahal Me'arot / Wadi el-Mughara caves
+    subject: human_occupation_and_technology
+    finding: The Mount Carmel cave sequence includes Mousterian deposits dated 250,000–45,000 years BP and
+      evidence for both Neanderthals and early anatomically modern humans within that cultural framework.
+    dating:
+      precision: bp
+      value: 250,000–45,000
+      unit: years
+      reference_year: 1950
+      calibrated: null
+    source_refs:
+    - id: wae_src_carmel_unesco
+      locator: Outstanding Universal Value, Mousterian chronology
+    confidence: high
+    integration:
+      status: collected
+      note: A long-lived cave sequence is not a single polity or settlement; the BP timescale must remain distinct
+        from BCE calendar dates.
+  wae_atapuerca_early_hominins:
+    entity: Sierra de Atapuerca
+    subject: human_occupation
+    finding: Atapuerca's cave deposits preserve some of Europe's earliest hominin evidence, including Pleistocene
+      occupations represented across multiple sites in the complex.
+    dating:
+      precision: relative
+      reported_value: nearly 1 million
+      unit: years_ago
+      reference_year: null
+      calibrated: null
+    source_refs:
+    - id: wae_src_atapuerca_unesco
+      locator: Outstanding Universal Value, Brief Synthesis
+    confidence: high
+    integration:
+      status: collected
+      note: UNESCO gives a broad years-ago chronology, not an exact calibrated interval; model as archaeological
+        evidence at a regional location, not a country.
+  wae_natufian_carmel:
+    entity: Nahal Me'arot Natufian hamlet
+    subject: settlement_and_subsistence
+    finding: The el-Wad terrace preserves Natufian stone houses and pits within a regional Late Epipalaeolithic
+      tradition associated with increasingly sedentary hunter-gatherer communities.
+    dating:
+      precision: bp
+      value: 15,000–11,500
+      unit: years
+      reference_year: 1950
+      calibrated: null
+    source_refs:
+    - id: wae_src_carmel_unesco
+      locator: Outstanding Universal Value, Natufian chronology and significance
+    confidence: high
+    integration:
+      status: collected
+      note: Do not label the Natufian as farming or a state; UNESCO reports its chronology in years BP.
+  wae_jericho_early_activity:
+    entity: Tell es-Sultan / Ancient Jericho
+    subject: settlement_chronology
+    finding: Archaeological deposits at Tell es-Sultan document human activity from about 10,500 BCE beside
+      the perennial spring of 'Ain es-Sultan.
+    dating:
+      precision: year
+      earliest_year: -10500
+      approximate: true
+    source_refs:
+    - id: wae_src_jericho_unesco
+      locator: Outstanding Universal Value, Brief Synthesis
+    confidence: high
+    integration:
+      status: collected
+      note: This start date covers site activity and does not imply continuous occupation or a city at that
+        date.
+  wae_jericho_neolithic_village:
+    entity: Tell es-Sultan / Ancient Jericho
+    subject: settlement_architecture
+    finding: By the ninth to eighth millennia BCE, Tell es-Sultan was a substantial permanent Neolithic settlement
+      with a wall, ditch, and tower.
+    dating:
+      precision: range
+      earliest_year: -9000
+      latest_year: -7000
+      approximate: true
+    source_refs:
+    - id: wae_src_jericho_unesco
+      locator: Outstanding Universal Value, Brief Synthesis
+    confidence: high
+    integration:
+      status: collected
+      note: UNESCO's millennium labels are broad and do not specify exact construction years; later Bronze
+        Age urbanism is outside this record.
+  wae_gobekli_tepe_monuments:
+    entity: Göbekli Tepe
+    subject: monumental_architecture
+    finding: Round-oval and rectangular megalithic structures were erected at Göbekli Tepe by Pre-Pottery Neolithic
+      hunter-gatherer groups between 9600 and 8200 BCE.
+    dating:
+      precision: range
+      earliest_year: -9600
+      latest_year: -8200
+      approximate: true
+    source_refs:
+    - id: wae_src_gobekli_unesco
+      locator: Description
+    confidence: high
+    integration:
+      status: collected
+      note: Monument construction is not evidence for a state, city, or specific religion.
+  wae_catalhoyuk_east_mound:
+    entity: Çatalhöyük East Mound
+    subject: settlement_chronology
+    finding: The eastern mound contains eighteen levels of Neolithic occupation dated 7400–6200 BCE, with houses,
+      wall art, reliefs, and sculpture.
+    dating:
+      precision: range
+      earliest_year: -7400
+      latest_year: -6200
+      approximate: true
+    source_refs:
+    - id: wae_src_catalhoyuk_unesco
+      locator: Description, eastern mound
+    confidence: high
+    integration:
+      status: collected
+      note: Treat East and West mounds as distinct archaeological sequences.
+  wae_catalhoyuk_west_mound:
+    entity: Çatalhöyük West Mound
+    subject: settlement_chronology
+    finding: The western mound records Chalcolithic occupation around 6200–5200 BCE.
+    dating:
+      precision: range
+      earliest_year: -6200
+      latest_year: -5200
+      approximate: true
+    source_refs:
+    - id: wae_src_catalhoyuk_unesco
+      locator: Description, western mound
+    confidence: high
+    integration:
+      status: collected
+      note: This full interval falls before the 3000 BCE research cutoff; keep it distinct from the East Mound
+        sequence.
+  wae_ganj_dareh_goat_management:
+    entity: Ganj Dareh and Tepe Abdul Hosein
+    subject: animal_management
+    finding: Genomic and zooarchaeological evidence supports management of genetically domestic goats in the
+      central Zagros by about 8200 cal BCE, while morphological change appears later.
+    dating:
+      precision: year
+      earliest_year: -8200
+      approximate: true
+    source_refs:
+    - id: wae_src_zagros_goats
+      locator: Abstract; Results
+    confidence: high
+    integration:
+      status: collected
+      note: The source reports cal BCE; distinguish early management from later visible morphological domestication.
+  wae_hassuna_samarra_pottery:
+    entity: Northern Mesopotamian Hassuna and Samarra traditions
+    subject: pottery_and_material_culture
+    finding: Sixth-millennium BCE northern Mesopotamian communities produced distinctive Hassuna, Samarra,
+      and Halaf pottery traditions, including painted geometric designs.
+    dating:
+      precision: range
+      earliest_year: -6000
+      latest_year: -5000
+      approximate: true
+    source_refs:
+    - id: wae_src_mesopotamia_met
+      locator: Chronology, 7000–6000 and 5500–4000 B.C.
+    confidence: medium
+    integration:
+      status: collected
+      note: These are overlapping archaeological traditions, not borders or named political entities; the date
+        range is deliberately broad.
+  wae_halaf_material_culture:
+    entity: Halaf archaeological tradition
+    subject: material_culture_and_exchange
+    finding: Halaf pottery and related material culture spread across northern Mesopotamia from the Mediterranean
+      toward the Zagros foothills during the sixth millennium BCE.
+    dating:
+      precision: range
+      earliest_year: -6100
+      latest_year: -5300
+      approximate: true
+    source_refs:
+    - id: wae_src_mesopotamia_met
+      locator: Chronology, 5500–4000 B.C.
+    confidence: medium
+    integration:
+      status: collected
+      note: A material-culture distribution is not a territorial state; published end dates vary by region.
+  wae_ubaid_southern_mesopotamia:
+    entity: Ubaid archaeological tradition
+    subject: settlement_and_subsistence
+    finding: Southern Mesopotamian Ubaid villages emerged around 6200 BCE with irrigated farming and fishing;
+      related pottery and material culture later spread north across Mesopotamia.
+    dating:
+      precision: range
+      earliest_year: -6200
+      latest_year: -4000
+      approximate: true
+    source_refs:
+    - id: wae_src_ubaid_met
+      locator: The Ubaid Period, southern Mesopotamia and expansion
+    confidence: high
+    integration:
+      status: collected
+      note: This source's Ubaid chronology (5500–4000 BCE) falls before 3000 BCE; no polity is inferred.
+  wae_chirokitia_cyprus:
+    entity: Choirokoitia
+    subject: settlement_chronology
+    finding: Permanent human occupation of Cyprus began around 7000 BCE at the aceramic Neolithic settlement
+      of Choirokoitia.
+    dating:
+      precision: year
+      earliest_year: -7000
+      approximate: true
+    source_refs:
+    - id: wae_src_choirokoitia_unesco
+      locator: UNESCO advisory evaluation, chronology
+    confidence: high
+    integration:
+      status: collected
+      note: The proposed Anatolian or Levantine origin is an interpretation, not a demonstrated migration route
+        in this record.
+  wae_early_european_farming_routes:
+    entity: Southeast and Central Europe
+    subject: farming_dispersal
+    finding: Archaeological evidence identifies early farming dispersal through the Balkans, followed by a
+      Mediterranean coastal Impressa/Cardial route and an inland Danube Linearbandkeramik route.
+    dating:
+      precision: range
+      earliest_year: -6000
+      latest_year: -5500
+      approximate: true
+    source_refs:
+    - id: wae_src_europe_farming_routes
+      locator: Abstract and introduction
+    confidence: medium
+    integration:
+      status: collected
+      note: The routes summarize archaeological patterns and do not imply uniform replacement; interactions
+        varied by region.
+  wae_lbk_central_europe:
+    entity: Linearbandkeramik (LBK) communities
+    subject: farming_settlement_and_pottery
+    finding: LBK communities spread along the Danube into central Europe around 5600–5400 cal BCE with a farming
+      package that included distinctive band-decorated pottery.
+    dating:
+      precision: range
+      earliest_year: -5600
+      latest_year: -5400
+      approximate: true
+    source_refs:
+    - id: wae_src_europe_farming_routes
+      locator: Abstract and figure 1 description
+    confidence: medium
+    integration:
+      status: collected
+      note: A named archaeological culture should not become an ethnic label or country; source chronology
+        is approximate and regional.
+  wae_cardial_mediterranean:
+    entity: Impressa and Cardial traditions
+    subject: farming_dispersal_and_pottery
+    finding: Early farming communities moved westward along Mediterranean coasts from about 5900 cal BCE, with
+      Cardial pottery traditions reaching Iberia by approximately 5500 cal BCE.
+    dating:
+      precision: range
+      earliest_year: -5900
+      latest_year: -5500
+      approximate: true
+    source_refs:
+    - id: wae_src_europe_farming_routes
+      locator: Introduction
+    confidence: medium
+    integration:
+      status: collected
+      note: The study discusses maritime pioneer colonization as an interpretation; submerged coastlines limit
+        reconstruction.
+  wae_lepenski_vir_forage_farming_contact:
+    entity: Lepenski Vir and Iron Gates sites
+    subject: settlement_and_subsistence
+    finding: Dated remains at Iron Gates sites document Mesolithic to Early Neolithic occupation from about
+      9500 to 5500 BCE, including contact between foragers and incoming farming communities.
+    dating:
+      precision: range
+      earliest_year: -9500
+      latest_year: -5500
+      approximate: true
+    source_refs:
+    - id: wae_src_lepenski_geopark
+      locator: Lepenski Vir overview
+    confidence: medium
+    integration:
+      status: collected
+      note: The site sequence contains distinct phases and mixed practices; avoid depicting a single abrupt
+        transition.
+  wae_varna_copper_age_burials:
+    entity: Varna cemetery
+    subject: burial_and_metalworking
+    finding: Late fifth-millennium BCE cemetery burials at Varna included elaborate grave assemblages and some
+      of Europe's earliest substantial gold artifacts.
+    dating:
+      precision: range
+      earliest_year: -4600
+      latest_year: -4200
+      approximate: true
+    source_refs:
+    - id: wae_src_varna_museum
+      locator: Collection chronology and cemetery overview
+    confidence: medium
+    integration:
+      status: collected
+      note: Evidence for wealth differentiation in burials does not establish a named polity, kingship, or
+        population size.
+  wae_trypillia_settlements:
+    entity: Cucuteni-Trypillia archaeological complex
+    subject: settlement_and_agriculture
+    finding: Between about 4900 and 4050 BCE, Cucuteni-Trypillia settlements expanded across parts of present-day
+      Romania, Moldova, and Ukraine in agriculturally favorable landscapes.
+    dating:
+      precision: range
+      earliest_year: -4900
+      latest_year: -4050
+      approximate: true
+    source_refs:
+    - id: wae_src_trypillia_unesco
+      locator: Development stages and settlement siting
+    confidence: medium
+    integration:
+      status: collected
+      note: Keep the complex's archaeological footprint separate from modern borders; particular sites may
+        extend beyond this phase.
+  wae_malta_megalithic_temples:
+    entity: Megalithic temples of Malta
+    subject: monumental_architecture
+    finding: The Maltese temple tradition includes monumental buildings erected during the fourth and third
+      millennia BCE; the full reported tradition extends beyond 3000 BCE.
+    dating:
+      precision: range
+      earliest_year: -4000
+      latest_year: -2000
+      approximate: true
+      reported_range:
+        earliest_year: -4000
+        latest_year: -2000
+        unit: BCE
+      research_window:
+        earliest_year: -4000
+        latest_year_exclusive: -3000
+    source_refs:
+    - id: wae_src_malta_unesco
+      locator: Description
+    confidence: high
+    integration:
+      status: collected
+      note: UNESCO's reported fourth- and third-millennium span is retained; this research window ends before
+        3000 BCE, and temple functions or beliefs should not be over-specified.
+    scope: crosses_boundary
+  wae_stonehenge_landscape_early:
+    entity: Stonehenge landscape
+    subject: monuments_and_burial
+    finding: By about 3500 BCE, farming communities in the Stonehenge landscape had built causewayed enclosures,
+      cursus monuments, and long barrows; the first Stonehenge earthwork followed around 3000 BCE.
+    dating:
+      precision: range
+      earliest_year: -3500
+      latest_year: -3000
+      approximate: true
+    source_refs:
+    - id: wae_src_stonehenge_timeline
+      locator: Timeline, 3500–3000 BC
+    confidence: high
+    integration:
+      status: collected
+      note: Later stone-circle construction is outside this research period; the circa-3000 boundary is approximate.
+    scope: crosses_boundary
+    research_window:
+      end_exclusive: -3000.1.1
+      note: Landscape activity before the cutoff is in scope; the circa-3000-BCE earthwork is boundary context.
+  wae_britain_neolithic_arrival:
+    entity: Britain and Ireland
+    subject: farming_transition
+    finding: Farming reached Britain around 4000 BCE through inward migration from continental Europe, bringing
+      domestic cereals and livestock and transforming settlement and land use.
+    dating:
+      precision: year
+      earliest_year: -4000
+      approximate: true
+    source_refs:
+    - id: wae_src_britain_historic_england
+      locator: The Neolithic (4000 BC to 2000 BC)
+    confidence: high
+    integration:
+      status: collected
+      note: This is a broad island-wide transition date; local adoption and hunter-gatherer persistence varied.

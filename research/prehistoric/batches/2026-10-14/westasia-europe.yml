@@ -1,0 +1,524 @@
+schema_version: 1
+period_id: prehistoric
+collected_on: '2026-10-14'
+records:
+  we14_tell_brak_urbanization_sequence:
+    entity: Tell Brak and its suburban survey zone, Upper Mesopotamia
+    subject: settlement_growth_and_urban_form
+    finding: Systematic surface survey reconstructs Late Chalcolithic urban growth at Tell Brak from spatially discrete
+      settlement zones into a roughly 130-hectare city over several centuries in the late fifth and early fourth
+      millennia BCE.
+    dating:
+      precision: relative
+      reported_value: late fifth to early fourth millennium BCE
+      time_scale: BCE
+      approximate: true
+      reported_range: survey article describes a several-century process and LC 3 expansion
+    source_refs:
+    - id: we14_src_brak_survey
+      locator: Abstract; survey results and urban morphology, pp. 1–19
+    confidence: high
+    integration:
+      status: collected
+      note: The broad calendar envelope expresses the published late-fifth/early-fourth-millennium sequence, not
+        exact phase endpoints; 130 ha is the reconstructed maximum, not a continuous footprint throughout the period.
+    historical_process:
+      process_type: settlement_zones_coalesce_and_expand
+      temporal_evidence: Survey and remote sensing place coalescence over several centuries in the late fifth and
+        early fourth millennia BCE; spatial zones precede the 130-hectare LC 3 city.
+      evidence_for_mechanism: Intensive systematic surface survey, remote sensing, artifact distributions, and site-area
+        reconstruction.
+      source_interpretation: The authors identify a multi-century growth path rather than a single foundation event.
+      limits: The survey dates and delineates settlement areas; it does not identify a sovereign authority or demonstrate
+        continuous occupation of every area.
+    related_requirements:
+    - catalogue_id: native_material_world_requirements
+      requirement_id: settlement_occupancy
+    - catalogue_id: native_material_world_requirements
+      requirement_id: settlement_scale
+    scope:
+      entity_scope: Tell Brak and its suburban survey zone, Upper Mesopotamia
+      evidence_limit: The survey dates and delineates settlement areas; it does not identify a sovereign authority
+        or demonstrate continuous occupation of every area.
+      spatial_geometry_reviewed: false
+  we14_tell_brak_urban_growth_without_irrigation:
+    entity: Tell Brak, Upper Mesopotamia
+    subject: settlement_growth_and_agricultural_environment
+    finding: The Tell Brak suburban survey reports that its late-fifth- to early-fourth-millennium urban expansion
+      occurred without the benefit of irrigated agriculture.
+    dating:
+      precision: relative
+      reported_value: late fifth and early fourth millennia BCE
+      time_scale: BCE
+      approximate: true
+    source_refs:
+    - id: we14_src_brak_survey
+      locator: Abstract; statement on urban coalescence and absence of irrigated agriculture
+    confidence: high
+    integration:
+      status: collected
+      note: This is a site-specific contrast to irrigation-centered explanations, not evidence that no water management
+        or irrigation existed elsewhere in Upper Mesopotamia.
+    historical_process:
+      process_type: urban_expansion_without_irrigation_evidence
+      temporal_evidence: The article associates the finding with the late fifth/early fourth millennium urbanization
+        sequence.
+      evidence_for_mechanism: The authors combine the survey-derived settlement sequence with the regional agricultural
+        setting.
+      source_interpretation: Urban coalescence did not require irrigated agriculture at Tell Brak.
+      limits: A survey-level regional inference; it does not exclude small-scale water management or establish a
+        single cause of growth.
+    related_requirements:
+    - catalogue_id: native_material_world_requirements
+      requirement_id: settlement_scale
+    - catalogue_id: native_material_world_requirements
+      requirement_id: seasonality_and_subsistence
+    scope:
+      entity_scope: Tell Brak, Upper Mesopotamia
+      evidence_limit: A survey-level regional inference; it does not exclude small-scale water management or establish
+        a single cause of growth.
+      spatial_geometry_reviewed: false
+  we14_tell_brak_population_estimates:
+    entity: Tell Brak LC 3–4 settlement
+    subject: modeled_settlement_population
+    finding: Two area-and-density approaches estimate roughly 17,000–24,000 residents for the 100–130-hectare Late
+      Chalcolithic settlement, while a newer scaling model yields about 23,000 at 130 hectares.
+    dating:
+      precision: relative
+      reported_value: Late Chalcolithic LC 3–4
+      time_scale: archaeological_phase
+      approximate: true
+    source_refs:
+    - id: we14_src_urban_scaling
+      locator: Results, density scaling and demography; Discussion of Tell Brak LC 3–4 estimate
+    confidence: medium
+    integration:
+      status: collected
+      note: These are model outputs, not census counts. Retain the area, assumed density/scaling method, uncertainty
+        and phase together; the scaling paper notes that Tell Brak contributes only five houses to its model and
+        that phase boundaries/settlement extent remain uncertain.
+    historical_process:
+      process_type: phase_specific_demographic_estimate
+      temporal_evidence: The estimate refers to Tell Brak at LC 3–4 maximum settlement scale, not the whole multi-century
+        growth sequence.
+      evidence_for_mechanism: Reconstructed site area multiplied by a fixed persons-per-hectare coefficient in one
+        estimate; a separate settlement-scaling model based on measured house areas and site-phase extent in the
+        other.
+      source_interpretation: Independent methods converge on a population in the high tens of thousands.
+      limits: Both depend on reconstructed site extent and assumptions about density; the scaling sample has very
+        few Tell Brak houses, and no precise census is possible.
+    related_requirements:
+    - catalogue_id: native_material_world_requirements
+      requirement_id: population_structure
+    - catalogue_id: native_material_world_requirements
+      requirement_id: settlement_scale
+    scope:
+      entity_scope: Tell Brak LC 3–4 settlement
+      evidence_limit: Both depend on reconstructed site extent and assumptions about density; the scaling sample
+        has very few Tell Brak houses, and no precise census is possible.
+      spatial_geometry_reviewed: false
+  we14_tell_brak_growth_pulse:
+    entity: Tell Brak, LC 2 to LC 3, Upper Mesopotamia
+    subject: settlement_area_change
+    finding: Survey-based estimates place Tell Brak near 55 hectares in LC 2 before rapid expansion to more than
+      130 hectares in LC 3.
+    dating:
+      precision: relative
+      reported_value: LC 2 to LC 3
+      time_scale: archaeological_phase
+      approximate: true
+    source_refs:
+    - id: we14_src_brak_mobility
+      locator: Abstract; settlement-area sequence and Late Chalcolithic phase dates
+    confidence: high
+    integration:
+      status: collected
+      note: These are phase-area estimates, not population counts; LC labels are preserved because the source does
+        not supply exact year endpoints in its abstract.
+    historical_process:
+      process_type: rapid_phase_specific_settlement_expansion
+      temporal_evidence: The source describes growth from LC 2 to LC 3 and identifies LC 3 as the period of maximum
+        area.
+      evidence_for_mechanism: Systematic survey-derived site-area reconstruction and comparison with satellite settlement
+        zones.
+      source_interpretation: The authors discuss the growth in relation to urbanization and possible mobility.
+      limits: Area change alone does not determine whether growth came from natural increase, in-migration, aggregation
+        or boundary-delineation differences.
+    related_requirements:
+    - catalogue_id: native_material_world_requirements
+      requirement_id: settlement_scale
+    - catalogue_id: native_material_world_requirements
+      requirement_id: population_mobility
+    scope:
+      entity_scope: Tell Brak, LC 2 to LC 3, Upper Mesopotamia
+      evidence_limit: Area change alone does not determine whether growth came from natural increase, in-migration,
+        aggregation or boundary-delineation differences.
+      spatial_geometry_reviewed: false
+  we14_tell_brak_workshop_expansion:
+    entity: Area TW, Tell Brak
+    subject: craft_production_and_activity_zoning
+    finding: Excavated levels show activity moving from early unstructured pottery and stone-tool manufacture around
+      4200 BCE to an expanded industrial area with larger buildings, ovens, obsidian and flint debris, spindle whorls,
+      limestone and jasper by about 4000–3900 BCE.
+    dating:
+      precision: range
+      earliest_year: -4200
+      latest_year: -3900
+      approximate: true
+      reported_range: Level 21 c. 4200 BCE; Level 19 LC 2–3 c. 4000–3900 BCE
+    source_refs:
+    - id: we14_src_brak_project
+      locator: Early Urbanism, Area TW levels 21 and 19
+    confidence: high
+    integration:
+      status: collected
+      note: The report describes an excavated activity-area sequence; the label industrial-scale belongs to the
+        project interpretation and should not be generalized to every household or all crafts in the city.
+    historical_process:
+      process_type: spatially_concentrated_production_intensifies
+      temporal_evidence: Published level sequence distinguishes Level 21 at approximately 4200 BCE from Level 19
+        at approximately 4000–3900 BCE.
+      evidence_for_mechanism: Building scale, ovens, production debris and raw materials recovered in stratified
+        excavation contexts.
+      source_interpretation: Excavators interpret the later building as evidence for intensifying industry and possible
+        movement of processes toward the urban edge as central living space became more demanded.
+      limits: A single excavated area cannot quantify total city output, labor organization, or the date and scale
+        of relocation across the settlement.
+    related_requirements:
+    - catalogue_id: native_material_world_requirements
+      requirement_id: production_chains
+    - catalogue_id: native_material_world_requirements
+      requirement_id: settlement_facilities
+    scope:
+      entity_scope: Area TW, Tell Brak
+      evidence_limit: A single excavated area cannot quantify total city output, labor organization, or the date
+        and scale of relocation across the settlement.
+      spatial_geometry_reviewed: false
+  we14_tell_brak_sealings_and_goods_control:
+    entity: Area TW, Tell Brak
+    subject: administration_and_material_exchange
+    finding: Clay container sealings from Levels 19 and 20, including lion imagery, occur in the excavated economic
+      area associated with raw-material imports and manufacturing.
+    dating:
+      precision: range
+      earliest_year: -4100
+      latest_year: -3900
+      approximate: true
+      reported_range: Levels 19–20; Late Chalcolithic 2–3, with Level 19 around 4000–3900 BCE
+    source_refs:
+    - id: we14_src_brak_project
+      locator: Early Urbanism, Area TW; container sealings from Levels 19–20
+    confidence: medium
+    integration:
+      status: collected
+      note: Sealings are direct finds; their role in economic control and the building's formal oversight function
+        are excavators' interpretations. They do not establish a named bureaucracy, state, tax or market.
+    historical_process:
+      process_type: administrative_marking_within_expanding_production_context
+      temporal_evidence: Sealings are reported in Levels 19 and 20 during the Late Chalcolithic sequence.
+      evidence_for_mechanism: Clay container sealings in an area with production debris and a street connection
+        to the city's north entrance.
+      source_interpretation: The project interprets imagery and context as evidence for growing ideological representation
+        in an elaborated system of economic control and suggests a formal economic oversight role.
+      limits: Sealings do not uniquely identify ownership, accounting practice, authority structure, or the scale/direction
+        of exchange.
+    related_requirements:
+    - catalogue_id: native_material_world_requirements
+      requirement_id: markets
+    - catalogue_id: native_material_world_requirements
+      requirement_id: exchange_networks
+    - catalogue_id: native_history_requirements_2026_10_13
+      requirement_id: phr_governance_change_process
+    scope:
+      entity_scope: Area TW, Tell Brak
+      evidence_limit: Sealings do not uniquely identify ownership, accounting practice, authority structure, or
+        the scale/direction of exchange.
+      spatial_geometry_reviewed: false
+  we14_tell_brak_population_segmentation:
+    entity: Tell Brak main site and satellite mound Tell Majnuna
+    subject: biological_distance_and_urban_social_segmentation
+    finding: Dental non-metric comparison of 111 Tell Brak and 179 Tell Majnuna individuals found differences among
+      Late Chalcolithic groups, which the authors interpret as population segmentation within the early urban center.
+    dating:
+      precision: relative
+      reported_value: Late Chalcolithic groups compared with Early Bronze Age samples
+      time_scale: archaeological_phase
+      approximate: true
+      scope: includes_boundary_and_later_comparator
+    source_refs:
+    - id: we14_src_brak_dental
+      locator: Abstract; sample counts, method and Late Chalcolithic result
+    confidence: medium
+    integration:
+      status: collected
+      note: Dental biodistance can reveal patterned biological differences in the sampled groups but does not identify
+        language, ethnicity, legal status, migration origin or political incorporation.
+    historical_process:
+      process_type: cross_sectional_late_chalcolithic_group_difference
+      temporal_evidence: The study compares Late Chalcolithic and Early Bronze Age archaeological samples; its reported
+        LC result is not a dated before/after trajectory.
+      evidence_for_mechanism: Non-metric dental traits assessed with the ASUDAS system in excavated skeletal samples.
+      source_interpretation: Authors report differences among LC groups and infer social segmentation in the early
+        urban population.
+      limits: Biological distance is not a direct ethnic or linguistic marker; cemetery and preservation samples
+        are selective and cannot alone explain how segmentation arose.
+    related_requirements:
+    - catalogue_id: native_material_world_requirements
+      requirement_id: population_mobility
+    - catalogue_id: native_history_requirements_2026_10_13
+      requirement_id: phr_social_hierarchy_process
+    scope:
+      sample: Tell Brak main mound (n=111) and satellite Tell Majnuna (n=179); Late Chalcolithic groups compared
+        with Early Bronze Age samples.
+      temporal_note: Late Chalcolithic is the prehistoric result; Early Bronze Age is retained as comparative context
+        and is not assigned an unsupported year range here.
+  we14_europe_crop_manuring_practices:
+    entity: Neolithic farming sites across Europe
+    subject: crop_production_and_land_management
+    finding: Stable-isotope and weed-ecology analysis of 124 crop samples containing more than 2,500 grains or pulse
+      seeds from 13 sites identifies livestock manuring and intensive land management among multiple early farming
+      communities.
+    dating:
+      precision: range
+      earliest_year: -5900
+      latest_year: -2400
+      approximate: true
+      reported_range: approximately 5900–2400 cal BCE across the full comparative sample
+      scope: crosses_boundary
+    source_refs:
+    - id: we14_src_crop_manuring
+      locator: Abstract; 13-site sample and integrated isotope/weed-ecology method
+    confidence: high
+    integration:
+      status: collected
+      note: Full source range is retained; the dataset includes later-than-3000 BCE samples, so only dated prehistoric
+        site subsets are in scope. The abstract-level comparative result supports practices, not a uniform European
+        system or measured yield increase.
+    historical_process:
+      process_type: multi_site_crop_management_pattern
+      temporal_evidence: Comparative sample spans approximately 5900–2400 cal BCE; the source does not date the
+        origin or rate of adoption of manuring as a single transition.
+      evidence_for_mechanism: Stable carbon/nitrogen isotope values from crop remains, herbivore collagen comparisons,
+        experimental controls and arable weed assemblages.
+      source_interpretation: Authors infer livestock-manure use and labor-intensive management at multiple sampled
+        sites.
+      limits: Sites and dates are unevenly sampled; practice varies by crop and settlement, and the full reported
+        range crosses the project boundary.
+    related_requirements:
+    - catalogue_id: native_material_world_requirements
+      requirement_id: production_chains
+    - catalogue_id: native_material_world_requirements
+      requirement_id: seasonality_and_subsistence
+    scope:
+      entity_scope: Neolithic farming sites across Europe
+      evidence_limit: Sites and dates are unevenly sampled; practice varies by crop and settlement, and the full
+        reported range crosses the project boundary.
+      spatial_geometry_reviewed: false
+  we14_southwest_asia_crop_water_differences:
+    entity: Neolithic and Chalcolithic crop samples from eastern Mediterranean and Southwest Asian sites
+    subject: crop_water_status_and_field_management
+    finding: Carbon-isotope analysis across nine sites found wheat was regularly grown in wetter conditions than
+      barley, while pulses experienced more varied water conditions; the pattern may reflect crop preference or
+      opportunistic watering.
+    dating:
+      precision: relative
+      reported_value: Neolithic and Bronze Age contexts in a broader study extending to Islamic-period samples
+      time_scale: archaeological_period
+      approximate: true
+      reported_range: included Neolithic sites range from PPNB onward
+      scope: crosses_boundary
+    source_refs:
+    - id: we14_src_crop_water
+      locator: Abstract; site/sample selection and interpretation limits, paragraphs 1–3
+    confidence: medium
+    integration:
+      status: collected
+      note: 'Do not interpret crop water status as irrigation by itself: isotope values cannot distinguish water
+        supplied by people from naturally moist soil. The selected record covers the study''s prehistoric site contexts
+        only; full comparative article includes later contexts.'
+    historical_process:
+      process_type: cross_site_crop_specific_water_status_pattern
+      temporal_evidence: Samples include PPNB, late PPN/Pottery Neolithic and Ubaid contexts; there is no single
+        dated adoption transition in this comparison.
+      evidence_for_mechanism: Stable carbon-isotope discrimination measured on 275 charred grain samples from nine
+        sites and interpreted with climate/context information.
+      source_interpretation: Authors interpret consistently wetter wheat than barley as possible preference and
+        varied pulse conditions as possible opportunistic watering.
+      limits: Crop species have different isotope responses; sample contexts and dates are uneven, natural water
+        availability is a competing cause, and some study sites postdate 3000 BCE.
+    related_requirements:
+    - catalogue_id: native_material_world_requirements
+      requirement_id: domestication_sequence
+    - catalogue_id: native_material_world_requirements
+      requirement_id: seasonality_and_subsistence
+    - catalogue_id: native_material_world_requirements
+      requirement_id: ecology_climate_series
+    scope:
+      entity_scope: Neolithic and Chalcolithic crop samples from eastern Mediterranean and Southwest Asian sites
+      evidence_limit: Crop species have different isotope responses; sample contexts and dates are uneven, natural
+        water availability is a competing cause, and some study sites postdate 3000 BCE.
+      spatial_geometry_reviewed: false
+  we14_tell_madhur_ubaid_crop_context:
+    entity: Tell Madhur, southern Mesopotamia
+    subject: crop_context_and_water_management
+    finding: A barley-rich floor deposit from the Ubaid period at Tell Madhur yielded a reported calibrated date
+      of 4470 ± 80 cal BCE and was included in crop-water isotope analysis.
+    dating:
+      precision: range
+      earliest_year: -4550
+      latest_year: -4390
+      approximate: true
+      reported_value: 4470 ± 80 cal BCE
+      calibrated: true
+    source_refs:
+    - id: we14_src_crop_water
+      locator: Site contexts, paragraph describing Tell Madhur; calibrated floor-layer date
+    confidence: high
+    integration:
+      status: collected
+      note: The dated context supports an evidence chain for Ubaid crop analysis; it does not alone establish irrigation,
+        storage policy or regional production volume.
+    historical_process:
+      process_type: dated_crop_deposit_observation
+      temporal_evidence: Source reports a barley-rich floor context dated 4470 ± 80 cal BCE.
+      evidence_for_mechanism: Archaeobotanical concentration from a floor layer and its radiocarbon date.
+      source_interpretation: The study uses the deposit as one sample context in comparing ancient crop water status.
+      limits: One floor deposit is not a regional crop census or proof of how the barley was watered.
+    related_requirements:
+    - catalogue_id: native_material_world_requirements
+      requirement_id: seasonality_and_subsistence
+    - catalogue_id: native_material_world_requirements
+      requirement_id: date_resolution_and_provenance
+    scope:
+      entity_scope: Tell Madhur, southern Mesopotamia
+      evidence_limit: One floor deposit is not a regional crop census or proof of how the barley was watered.
+      spatial_geometry_reviewed: false
+  we14_european_population_boom_bust:
+    entity: Multiple European Neolithic subregions
+    subject: radiocarbon_proxy_population_change
+    finding: A summed calibrated radiocarbon-date study of 7,944 dates, 3,785 site phases and 2,472 sites found
+      a statistically significant combined expansion around 6000–5400 cal BP followed by a late-sixth-millennium
+      decline.
+    dating:
+      precision: bp
+      value: 6000–5400
+      unit: cal years BP
+      reference_year: 1950
+      calibrated: true
+      reported_range: Combined sample expansion 6000–5400 cal BP; followed by a crash in the late sixth millennium
+        cal BP
+    source_refs:
+    - id: we14_src_europe_demography
+      locator: Table 1, all-regions row; lines 426–440; methods, lines 447–497
+    confidence: medium
+    integration:
+      status: collected
+      note: Summed calibrated date distributions are a demographic proxy, not absolute population counts; the paper
+        uses site-phase normalization and simulations to reduce sampling and calibration-curve effects. Preserve
+        reported cal BP units and do not convert by mental arithmetic.
+    historical_process:
+      process_type: proxy_inferred_population_expansion_then_decline
+      temporal_evidence: Combined regional expansion at 6000–5400 cal BP and a late-sixth-millennium decline in
+        the study's reported scale.
+      evidence_for_mechanism: 7,944 radiocarbon dates grouped into 3,785 site phases from 2,472 sites; calibrated
+        probability distributions tested against simulated long-term growth.
+      source_interpretation: Authors infer a subcontinental-scale expansion associated mainly, but not entirely,
+        with farming dispersal into northwest Europe, followed by decline.
+      limits: Date density is an indirect, regionally uneven demographic proxy; explanatory linkage to agriculture
+        is not proof of a single causal mechanism and no absolute population totals follow.
+    related_requirements:
+    - catalogue_id: native_material_world_requirements
+      requirement_id: population_structure
+    - catalogue_id: native_material_world_requirements
+      requirement_id: date_resolution_and_provenance
+    scope:
+      entity_scope: Multiple European Neolithic subregions
+      evidence_limit: Date density is an indirect, regionally uneven demographic proxy; explanatory linkage to agriculture
+        is not proof of a single causal mechanism and no absolute population totals follow.
+      spatial_geometry_reviewed: false
+  we14_paris_basin_demographic_sequence:
+    entity: Paris Basin Neolithic subregion
+    subject: radiocarbon_proxy_population_change
+    finding: The Paris Basin sample shows a major Neolithic proxy-demographic expansion from about 7160 to 6190
+      cal BP, followed by a return toward trend and a reported late-sixth-millennium crash lasting through the fifth
+      millennium.
+    dating:
+      precision: bp
+      value: 7160–6190
+      unit: cal years BP
+      reference_year: 1950
+      calibrated: true
+      reported_range: expansion 7160–6190 cal BP; subsequent crash reported as late sixth millennium lasting through
+        the fifth millennium
+      scope: crosses_boundary
+      additional_reported_context: The reported contraction follows the expansion and extends through the fifth
+        millennium in the source chronology; the article does not assign exact endpoints to this Paris Basin interval.
+    source_refs:
+    - id: we14_src_europe_demography
+      locator: Table 1, Paris Basin row; lines 373–378
+    confidence: medium
+    integration:
+      status: collected
+      note: This is a regional proxy sequence, not a direct population count. The source flags long low intervals
+        and edge effects; keep the full reported period and avoid a single Europe-wide trajectory.
+    historical_process:
+      process_type: regional_proxy_expansion_and_contraction
+      temporal_evidence: Table 1 reports a 970-year boom interval at 7160–6190 cal BP and a later crash across the
+        late sixth and fifth millennia.
+      evidence_for_mechanism: Normalized summed calibrated radiocarbon probabilities for regionally grouped site
+        phases, with simulated significance testing.
+      source_interpretation: Authors describe a large early farming-era boom followed by a fall back to trend and
+        a later crash.
+      limits: Statistical peaks are not measured headcounts; the table notes possible edge effects for some later
+        signals and does not establish why population changed.
+    related_requirements:
+    - catalogue_id: native_material_world_requirements
+      requirement_id: population_structure
+    - catalogue_id: native_material_world_requirements
+      requirement_id: date_resolution_and_provenance
+    scope:
+      sample: Paris Basin summed calibrated radiocarbon date probability distribution.
+      temporal_note: The record's primary numeric interval is the 7160–6190 cal BP expansion; the subsequent reported
+        decline is retained separately as broad later context because its exact dates are not specified in Table
+        1.
+  we14_europe_regional_demographic_variation:
+    entity: Northern and central German Neolithic subregions
+    subject: regional_variation_in_population_proxy
+    finding: In the same radiocarbon study, Northern Germany and Central Germany showed no statistically significant
+      departure from the long-term exponential model, unlike several neighboring regions with significant boom–bust
+      signals.
+    dating:
+      precision: bp
+      value: 8000–4000
+      unit: cal years BP
+      reference_year: 1950
+      calibrated: true
+      reported_range: study analyzes 8000–4000 cal BP; region-specific results vary within this interval
+      scope: crosses_boundary
+    source_refs:
+    - id: we14_src_europe_demography
+      locator: Table 1, Northern Germany and Central Germany rows; Figure 3 caption
+    confidence: medium
+    integration:
+      status: collected
+      note: A non-significant aggregate signal does not mean populations were static or that no local event occurred;
+        the records preserve sampling scale and regional differences.
+    historical_process:
+      process_type: regional_demographic_proxy_contrast
+      temporal_evidence: The study tests multiple subregions over a common 8000–4000 cal BP analytical span and
+        reports no significant boom/bust test for these two German regions.
+      evidence_for_mechanism: Regionally normalized summed calibrated radiocarbon probabilities and null-model simulations.
+      source_interpretation: The authors emphasize regional variation and report hints of subperiod fluctuation
+        that do not pass the global significance test.
+      limits: A null aggregate test cannot establish no demographic change; it depends on available dates, site
+        phases, and the study's significance threshold.
+    related_requirements:
+    - catalogue_id: native_material_world_requirements
+      requirement_id: population_structure
+    - catalogue_id: native_material_world_requirements
+      requirement_id: date_resolution_and_provenance
+    scope:
+      sample: Northern Germany and Central Germany radiocarbon-date aggregates in a study spanning 8000–4000 cal
+        BP.
+      temporal_note: The full analytical interval is retained, including dates after the prehistoric cutoff; reported
+        non-significance is an aggregate result, not a statement that no local change occurred.

@@ -1,0 +1,36 @@
+schema_version: 1
+period_id: medieval
+collected_on: "2026-10-13"
+records:
+  abbasid_succession:
+    entity: ABBA
+    subject: dynasty_and_polity
+    finding: The Abbasids succeeded the Umayyads in 750 CE.
+    dating: {precision: year, year: 750}
+    source_refs: [{id: met_abbasid, locator: Opening paragraph}]
+    confidence: high
+    integration: {status: collected, target: countries/ABBA - Abbasid.yml, note: Regional control and the exact effective day require separate sources.}
+  baghdad_foundation:
+    entity: Baghdad
+    subject: settlement_and_capital
+    finding: Baghdad was founded as the new Abbasid capital in 762 CE.
+    dating: {precision: year, year: 762}
+    source_refs: [{id: met_abbasid, locator: "Opening paragraph, City of Peace"}]
+    confidence: high
+    integration: {status: collected, location_id: baghdad, target: countries/ABBA - Abbasid.yml, note: Modern location ID can cover earlier settlements; city foundation does not mean the entire location was previously empty.}
+  samarra_capital_start:
+    entity: Samarra
+    subject: capital
+    finding: Samarra replaced Baghdad as the Abbasid capital in 836 CE.
+    dating: {precision: year, year: 836}
+    source_refs: [{id: met_abbasid, locator: "Opening paragraph, Samarra"}]
+    confidence: high
+    integration: {status: collected, target: countries/ABBA - Abbasid.yml, note: Verify the game location ID and exact transition date before applying.}
+  samarra_capital_end:
+    entity: Samarra
+    subject: capital
+    finding: The cited Samarra capital interval ends in 892 CE.
+    dating: {precision: year, year: 892}
+    source_refs: [{id: met_abbasid, locator: "Opening paragraph, interval 836–92"}]
+    confidence: high
+    integration: {status: collected, target: countries/ABBA - Abbasid.yml, note: Preserve year precision; do not infer a 1 January transition.}

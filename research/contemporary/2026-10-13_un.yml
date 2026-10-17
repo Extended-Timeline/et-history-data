@@ -1,0 +1,44 @@
+schema_version: 1
+period_id: contemporary
+collected_on: "2026-10-13"
+records:
+  un_charter_signature:
+    entity: United Nations
+    subject: organization_foundation
+    finding: The Charter was signed on 26 June 1945.
+    dating: {precision: day, date: "1945.6.26", calendar: source_civil_date}
+    source_refs: [{id: un_founders, locator: Introduction}]
+    confidence: high
+    integration: {status: collected, note: Charter signing and the organization's entry into force must be different events.}
+  un_initial_signatories:
+    entity: United Nations
+    subject: organization_membership
+    finding: Representatives of 50 countries signed the Charter on 26 June 1945.
+    dating: {precision: day, date: "1945.6.26", calendar: source_civil_date}
+    source_refs: [{id: un_founders, locator: Introduction}]
+    confidence: high
+    integration: {status: collected, note: A count is not a mapped game-tag membership list.}
+  poland_charter_signature:
+    entity: Poland
+    subject: organization_membership
+    finding: Poland signed the Charter on 15 October 1945.
+    dating: {precision: day, date: "1945.10.15", calendar: source_civil_date}
+    source_refs: [{id: un_founders, locator: Introduction}]
+    confidence: high
+    integration: {status: collected, note: Do not confuse signature with the table's ratification or membership-effective dates.}
+  un_entry_into_force:
+    entity: United Nations
+    subject: organization_foundation
+    finding: The Charter entered into force on 24 October 1945.
+    dating: {precision: day, date: "1945.10.24", calendar: source_civil_date}
+    source_refs: [{id: un_founders, locator: "Introduction, Article 110 explanation"}]
+    confidence: high
+    integration: {status: collected, note: "Membership must be built from country-specific effective dates, not all signature dates."}
+  un_founding_member_count:
+    entity: United Nations
+    subject: organization_membership
+    finding: There were 51 founding members in 1945.
+    dating: {precision: year, year: 1945}
+    source_refs: [{id: un_founders, locator: Introduction and table}]
+    confidence: high
+    integration: {status: collected, note: The table includes ratifications after 24 October; do not put all 51 into a 24 October snapshot automatically.}

@@ -1,0 +1,237 @@
+schema_version: 1
+collected_on: '2026-10-13'
+comparison_id: ages_systems_2026_10_13
+native_install:
+  path: 'D:/Games/Europa Universalis 5/Europa.Universalis.V.v1.2.5-0xdeadcode/game'
+  path_version_warning: >-
+    Folder naming is not verified as the installed executable/game patch version.
+  start_date: '1337.4.1'
+  end_date: '1836.12.31'
+  start_date_source: 'loading_screen/common/defines/00_defines.txt:2-3'
+project:
+  mod_path: 'repo/Extended Timeline'
+  history_path: et-history-data
+  converter_path: et-converter
+  chronological_classes: et-history-data/periods/universal.yml
+  mod_start_date: '58.2.1'
+  mod_end_date: '9999.12.31'
+  current_age: age_1_traditions
+  replace_paths:
+    - main_menu/common/defines
+    - main_menu/setup/start
+  note: >-
+    The project global chronological classes are editorial/research periods,
+    not EU5 gameplay ages. In-game gameplay definitions are inherited unless
+    the mod overrides them; absence of a mod-local file is not an absent engine system.
+comparisons:
+  - id: age_catalog
+    native: 'in_game/common/age/00_default.txt: age_1_traditions year=1; age_2_renaissance year=1342; age_3_discovery year=1437; age_4_reformation year=1537; age_5_absolutism year=1637; age_6_revolutions year=1737'
+    project: 'et-history-data/periods/universal.yml: six global chronological classes; prehistoric ends -3000.1.1'
+    converter: 'etl/gen_countries.py:9-10, 100-101 emits age_1_traditions globally'
+    classification: 'historical_design_gap'
+    impact: 'Calendar classes do not trigger six gameplay age transitions; prehistoric facts cannot be treated as EU5 age definitions.'
+    priority: high
+  - id: date_window
+    native: 'loading_screen/common/defines/00_defines.txt:2-3; start 1337.4.1, end 1836.12.31'
+    project: 'loading_screen/common/defines/00_defines.txt:2-3; start 58.2.1, end 9999.12.31'
+    converter: 'etl/generate.py defaults to 58.2.1 and emits one selected snapshot'
+    classification: 'project_override'
+    impact: 'A long end date is configured, but does not by itself establish tested engine support or playable historic progression.'
+    priority: high
+  - id: negative_dates
+    native: 'in_game/common/age/00_default.txt:1-2 first native age starts at year 1; inspected examples do not establish BCE behavior'
+    project: 'et-history-data uses signed BCE year strings, including -3000.1.1'
+    converter: 'etl/dates.py parses signed years; runtime interpretation of BCE dates remains unverified'
+    classification: 'design_question'
+    impact: 'Converter date acceptance is not proof that the game engine can load, display, or simulate negative years.'
+    priority: high
+  - id: tech_level
+    native: 'in_game/common/advances/0_age_of_traditions.txt:1,14,22,29; starting_technology_level gates advances in age 1'
+    project: 'main_menu/setup/start/10_countries.txt:18 uses level 3 in sampled emitted country'
+    converter: 'etl/gen_countries.py:9,75-78 writes constant level 3'
+    classification: 'converter_lossy'
+    impact: 'One level is assigned to every country without date, region, evidence, or per-advance state.'
+    priority: high
+  - id: advance_catalog
+    native: 'in_game/common/advances/0_age_of_traditions.txt:4-62 contains written_alphabet, codified_laws, mapmaking, colonies and age/prerequisite gates'
+    project: 'No project-local in_game/common/advances definitions; vanilla definitions are inherited'
+    converter: 'No conversion emits country advance research or known/unknown advance state'
+    classification: 'converter_unmapped'
+    impact: 'The engine has identifiable advances, but chronological research facts do not set their historical adoption.'
+    priority: high
+  - id: agriculture_advances
+    native: 'in_game/common/advances/0_age_of_traditions.txt:161-173 includes agriculture_advance'
+    project: 'Historical data records subsistence and farming in research classes, not EU5 advance ownership'
+    converter: 'No advance-state conversion'
+    classification: 'converter_unmapped'
+    impact: 'Farming histories cannot be represented by blanket technology level without falsely universalizing adoption.'
+    priority: high
+  - id: institutions
+    native: 'main_menu/setup/start/02_core.txt:1-15 sets institution active state and birthplace'
+    project: 'Mod main_menu/setup/start/02_core.txt preserves three institution birthplaces; chronology/spread evidence is in research data'
+    converter: '02_core is hand-maintained; no historical institution spread conversion'
+    classification: 'manual_static_state'
+    impact: 'Birthplace and active flags do not encode region-by-region diffusion dates.'
+    priority: medium
+  - id: reforms
+    native: 'in_game/common/government_reforms/monarchy.txt:12-26 defines feudal_nobility with age, government, conditions and modifiers'
+    project: 'Definitions inherited; no project-local dated reform history identified'
+    converter: 'Country output includes government template but no dated reform state'
+    classification: 'converter_unmapped'
+    impact: 'Historical institutional variation should not be mapped to guessed vanilla reform IDs.'
+    priority: high
+  - id: legal_laws
+    native: 'in_game/common/laws/01_military_laws.txt:2-33 defines recruitment_law and levy policies; laws are gameplay choice states'
+    project: 'No project-local law definitions; law history needs evidence before mapping'
+    converter: 'etl/gen_events.py: generate_15 maps laws.add only inside international organizations, not country law selections'
+    classification: 'converter_unmapped'
+    impact: 'Legal evidence can be collected, but cannot yet populate dated country law state through this converter.'
+    priority: high
+  - id: land_units
+    native: 'in_game/common/unit_types/00_age_templates_land.txt:9-13 baseline a_light_infantry; age-specific templates later in same file'
+    project: 'No project-local unit_types; engine catalog inherited'
+    converter: '27_armies.txt is an empty unit_manager'
+    classification: 'converter_unmapped'
+    impact: 'Unit definitions exist, but no historically dated deployed army compositions are emitted.'
+    priority: high
+  - id: naval_units
+    native: 'in_game/common/unit_types/00_age_templates_navy.txt:1-14 n_age_1_traditions_galley template'
+    project: 'No project-local unit_types; inherited'
+    converter: 'No dated fleet deployment output'
+    classification: 'converter_unmapped'
+    impact: 'Naval technologies/forces are unsupported as historical country state.'
+    priority: medium
+  - id: country_government
+    native: 'main_menu/setup/start/10_countries.txt:15-18 opens countries state and first country'
+    project: 'Generated countries include government template; sampled mod file 10_countries.txt:14-22'
+    converter: 'etl/gen_countries.py:68-85 maps government template and ruler/consort/capital'
+    classification: 'mapped_partial'
+    impact: 'Baseline government class is represented, while reform sequence and law state are not.'
+    priority: medium
+  - id: country_population
+    native: 'main_menu/setup/start/06_pops.txt:1-4 locations state and first defined population rows'
+    project: 'Historical population model and estimates are separate research fields'
+    converter: 'Converter reads population inputs but current project documentation identifies placeholder population tuning'
+    classification: 'mapped_partial'
+    impact: 'Population totals and distribution require site- and date-specific evidence and calibrated mapping.'
+    priority: high
+  - id: wars
+    native: 'main_menu/setup/start/16_wars.txt:1 war_manager; dated war blocks follow'
+    project: 'Mod output includes firstromanparthianwar at 58.2.1, start/first action lines 3,15-16'
+    converter: 'etl/gen_events.py:56-151 maps participants and dates, validates sides/target, emits literal war key'
+    classification: 'mapped_lossy'
+    impact: 'Wars with missing sides are skipped; unknown targets lose objectives; generic names and limited participant structure may flatten detail.'
+    priority: medium
+  - id: war_identifiers
+    native: 'main_menu/setup/start/16_wars.txt:1 native war_manager block shape'
+    project: 'History retains source war IDs as comments in generated data'
+    converter: 'gen_events.py:111 comment explains custom war IDs crash the parser; emits literal war key'
+    classification: 'converter_constraint'
+    impact: 'Source event identity is not preserved as a game key; audit data should retain the original ID.'
+    priority: medium
+  - id: international_organizations
+    native: 'main_menu/setup/start/15_international_organizations.txt:6 international_organization_manager; first organization begins line 11'
+    project: 'Converter-generated 15 output is date-specific'
+    converter: 'etl/gen_events.py:11-53 maps known IO types, members, creation date, religion/seat variables and law additions'
+    classification: 'mapped_partial'
+    impact: 'Unknown organization types are skipped and members absent from the date snapshot are dropped.'
+    priority: medium
+  - id: diplomacy
+    native: 'main_menu/setup/start/12_diplomacy.txt:1 diplomacy_manager'
+    project: 'Generated 12_diplomacy.txt is empty manager'
+    converter: 'etl/generate.py:39-45 declares EMPTY_MANAGERS'
+    classification: 'converter_unmapped'
+    impact: 'Relationships such as alliances, subjects, truces and diplomatic status are not emitted as dated state.'
+    priority: high
+  - id: opinions
+    native: 'main_menu/setup/start/18_opinions.txt:1 diplomacy_manager'
+    project: 'Generated 18_opinions.txt is empty manager'
+    converter: 'etl/generate.py:39-45 declares EMPTY_MANAGERS'
+    classification: 'converter_unmapped'
+    impact: 'Opinion modifiers are not generated from evidence.'
+    priority: low
+  - id: rivals
+    native: 'main_menu/setup/start/20_rivals.txt:1 diplomacy_manager'
+    project: 'Generated 20_rivals.txt is empty manager'
+    converter: 'etl/generate.py:39-45 declares EMPTY_MANAGERS'
+    classification: 'converter_unmapped'
+    impact: 'Rivalries are not emitted.'
+    priority: low
+  - id: religions
+    native: 'main_menu/setup/start/13_religion.txt:1 is a building_manager; native main_menu/setup/start/02_core.txt:18 starts religion_manager'
+    project: 'Mod 13_religion.txt is hand-maintained religion data; 02_core also has school relations'
+    converter: 'etl/generate.py:48 keeps 13_religion hand-maintained'
+    classification: 'manual_static_state'
+    impact: 'Religion data is arranged differently between files; catalogs/relation graphs exist, while historical distributions still need date-specific evidence.'
+    priority: medium
+  - id: diseases
+    native: 'main_menu/setup/start/19_diseases.txt:1 disease_outbreak_manager'
+    project: 'Generated 19_diseases.txt'
+    converter: 'etl/gen_events.py:182-200 only maps type=resistance; all other types skipped'
+    classification: 'mapped_lossy'
+    impact: 'Outbreaks and other disease events do not pass through this conversion.'
+    priority: low
+  - id: colonies
+    native: 'main_menu/setup/start/23_colonies.txt:1 colony_manager'
+    project: 'Generated 23_colonies.txt is empty manager'
+    converter: 'etl/generate.py:39-45 declares EMPTY_MANAGERS'
+    classification: 'converter_unmapped'
+    impact: 'Settlement/colonization records do not create EU5 colony state.'
+    priority: medium
+  - id: situations
+    native: 'main_menu/setup/start/22_situations.txt:1 situation_manager'
+    project: '25 setup files present; native-identical static files include 22_situations.txt per inventory'
+    converter: 'etl/generate.py:30-37 copies static files from vanilla'
+    classification: 'static_vanilla_inherited'
+    impact: 'Existing native situations are preserved, but no ET historical situation state is dated or generated.'
+    priority: low
+  - id: area_preferences
+    native: 'main_menu/setup/start/25_area_preferences.txt: byte-identical native setup file (file begins with blank line)'
+    project: 'Byte-identical native static file per project inventory'
+    converter: 'etl/generate.py:30-37 copies from vanilla'
+    classification: 'static_vanilla_inherited'
+    impact: 'Native preferences remain; project history does not adapt them to earlier time.'
+    priority: low
+  - id: ai_personalities
+    native: 'main_menu/setup/start/26_ai_personalities.txt: byte-identical native setup file (file begins with blank line)'
+    project: 'Byte-identical native static file per project inventory'
+    converter: 'etl/generate.py:30-37 copies from vanilla'
+    classification: 'static_vanilla_inherited'
+    impact: 'AI setup is inherited from vanilla rather than generated for the chosen date.'
+    priority: low
+  - id: development
+    native: 'main_menu/setup/start/14_development.txt:1 development'
+    project: 'Byte-identical native static file per project inventory'
+    converter: 'etl/generate.py:30-37 copies from vanilla'
+    classification: 'static_vanilla_inherited'
+    impact: 'Static baseline is preserved; historical development trajectory is not generated.'
+    priority: medium
+  - id: locations
+    native: 'main_menu/setup/start/21_locations.txt:1 locations'
+    project: 'Byte-identical native static file per project inventory'
+    converter: 'etl/generate.py:30-37 copies from vanilla'
+    classification: 'static_vanilla_inherited'
+    impact: 'Location definitions/state remain native static data; no archaeological settlement map conversion follows.'
+    priority: high
+  - id: town_rights
+    native: 'main_menu/setup/start/24_town_rights.txt:1 townrights_manager'
+    project: 'Byte-identical native static file per project inventory'
+    converter: 'etl/generate.py:30-37 copies from vanilla'
+    classification: 'static_vanilla_inherited'
+    impact: 'Native town rights are preserved without date-specific historical adjustment.'
+    priority: low
+  - id: trade_and_economy
+    native: 'main_menu/setup/start/03_markets.txt:1-8 market_manager and initial market list'
+    project: 'Research periods include settlement/subsistence/material-culture focus; no general archaeological trade-flow schema'
+    converter: 'No broad trade-route, exchange-network or dated market conversion identified in inspected generator'
+    classification: 'research_and_conversion_gap'
+    impact: 'Exchange evidence risks being compressed into modern borders or omitted; represent documented routes/sites before extrapolating.'
+    priority: high
+  - id: setup_copy_semantics
+    native: 'Native base setup files are available to the generator'
+    project: '25 setup files present; inventory records 6 byte-identical native files and 19 differing outputs'
+    converter: 'etl/generate.py:30-37 identifies static copy set; :39-48 generated empty or manually maintained categories'
+    classification: 'mixed_override_and_inheritance'
+    impact: 'Review must separate copied, generated, hand-maintained and engine-inherited data; file absence alone is not system absence.'
+    priority: high
+

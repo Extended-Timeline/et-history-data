@@ -1,0 +1,519 @@
+schema_version: 1
+period_id: prehistoric
+collected_on: '2026-10-13'
+records:
+  aam_jebel_irhoud_early_sapiens:
+    entity: Jebel Irhoud
+    subject: biological_context
+    finding: Fossils with a mosaic of early and derived Homo sapiens features were dated to 315 ± 34 thousand
+      years ago; this is evidence for early sapiens morphology in North Africa, not a state or archaeological
+      ethnic group.
+    dating:
+      precision: relative
+      reported_value: 315000
+      uncertainty: 34000
+      unit: years_ago
+      reference_year: null
+      calibrated: null
+    source_refs:
+    - id: aam_src_jebel_irhoud
+      locator: Abstract; thermoluminescence age
+    confidence: high
+    integration:
+      status: collected
+      note: Biological/evolutionary context only; do not create a country, culture tag, language or religion
+        from the fossil attribution.
+  aam_omo_i_minimum_age:
+    entity: Omo Kibish, Omo I
+    subject: biological_context
+    finding: Correlation of the KHS Tuff with the 233 ± 22 ka Shala eruption places Omo I below a tephra of
+      that age, establishing a minimum age older than about 233 ka; the paper emphasizes stratigraphic uncertainty
+      in earlier estimates.
+    dating:
+      precision: relative
+      reported_value: 233000
+      uncertainty: 22000
+      unit: years_ago
+      reference_year: null
+      calibrated: null
+    source_refs:
+    - id: aam_src_omo
+      locator: Abstract; KHS Tuff correlation
+    confidence: high
+    integration:
+      status: collected
+      note: Dating value is the tephra minimum-age anchor, not an exact fossil date; retain minimum-age wording.
+  aam_olorgesailie_msa_shift:
+    entity: Olorgesailie Basin
+    subject: technology
+    finding: Excavated sites dated at least 295–about 320 ka document a Middle Stone Age toolkit replacing
+      a long local Acheulean sequence; archaeological industry is not itself a species identification.
+    dating:
+      precision: relative
+      reported_range:
+      - 320000
+      - 295000
+      unit: years_ago
+      reference_year: null
+      calibrated: null
+    source_refs:
+    - id: aam_src_olorgesailie
+      locator: Abstract; site dates
+    confidence: high
+    integration:
+      status: collected
+      note: Use as technological chronology, not a polity or ethnic label.
+  aam_olorgesailie_obsidian:
+    entity: Olorgesailie Basin
+    subject: exchange_and_materials
+    finding: Middle Stone Age occupants obtained obsidian from sources tens of kilometres away, alongside worked
+      pigments; this demonstrates long-distance movement of materials, not necessarily formal trade or a market.
+    dating:
+      precision: relative
+      reported_range:
+      - 320000
+      - 295000
+      unit: years_ago
+      reference_year: null
+      calibrated: null
+    source_refs:
+    - id: aam_src_olorgesailie
+      locator: Abstract; obsidian sourcing and pigment analyses
+    confidence: high
+    integration:
+      status: collected
+      note: Do not turn material transport into a defined trade route or political relationship.
+  aam_klasies_coastal_economy:
+    entity: Klasies River Caves
+    subject: subsistence
+    finding: Klasies River preserves early human fossils and extensive evidence of marine-resource use; the
+      heritage agency describes research into human adaptations over the past roughly 120,000 years.
+    dating:
+      precision: relative
+      reported_value: 120000
+      unit: years_ago
+      reference_year: null
+      calibrated: null
+      approximate: true
+    source_refs:
+    - id: aam_src_klasies
+      locator: Site significance; occupation and marine-resource evidence
+    confidence: high
+    integration:
+      status: collected
+      note: Long, recurrent site-use span; not evidence of uninterrupted occupation or a numeric population.
+  aam_blombos_engraved_ochre:
+    entity: Blombos Cave
+    subject: technology_and_symbolic_material
+    finding: Engraved ochre plaques from Middle Stone Age layers are dated about 77,000–75,000 years old, documenting
+      deliberate geometric marking; meaning is not recoverable from the object alone.
+    dating:
+      precision: relative
+      reported_range:
+      - 77000
+      - 75000
+      unit: years_ago
+      reference_year: null
+      calibrated: null
+    source_refs:
+    - id: aam_src_blombos
+      locator: Site and age
+    confidence: high
+    integration:
+      status: collected
+      note: Evidence for marking only; do not assign a named belief system.
+  aam_african_humid_period:
+    entity: North African Sahara and Sahel
+    subject: environment_and_mobility
+    finding: The African Humid Period supported substantially wetter northern African environments from roughly
+      15 to 5 thousand years BP; aridification after about 5 ka altered habitats and human land use. Regional
+      termination was not necessarily synchronous.
+    dating:
+      precision: bp
+      earliest_value: 15000
+      latest_value: 5000
+      unit: years
+      reference_year: 1950
+      calibrated: null
+    source_refs:
+    - id: aam_src_green_sahara
+      locator: Introduction; humid-period interval and transition
+    confidence: high
+    integration:
+      status: collected
+      note: Preserve the published 15–5 kyr BP environmental interval and unspecified calibration; do not encode
+        a regionally variable transition as a single migration or disappearance.
+  aam_ounjougou_early_pottery:
+    entity: Ounjougou, Mali
+    subject: technology_and_subsistence
+    finding: Ceramic and lithic assemblages dated before 9400 cal BCE associate early pottery in West Africa
+      with selective intensive gathering of wild grasses in a grassland setting; pottery does not imply farming.
+    dating:
+      precision: year
+      year: -9400
+      calendar: cal_bce
+      relation: before
+    source_refs:
+    - id: aam_src_ounjougou
+      locator: Abstract; assemblage date and subsistence context
+    confidence: high
+    integration:
+      status: collected
+      note: A local archaeological sequence; avoid projecting it across West Africa.
+  aam_nabta_playa_gathering_livestock:
+    entity: Nabta Playa–Bir Kiseiba, southern Egypt
+    subject: economy_and_animal_management
+    finding: A reassessment discusses lake formation at Nabta Playa near 9000 BP and rejects interpreting early
+      Bos remains as proof of local cattle domestication; it argues these were hunted aurochs and that domestic
+      cattle arrived later from the Near East.
+    dating:
+      precision: bp
+      value: 9000
+      unit: years
+      reference_year: 1950
+      calibrated: null
+      approximate: true
+    source_refs:
+    - id: aam_src_nabta
+      locator: 'Geological setting: quoted near-9000-BP lake chronology; Conclusions: cattle origins'
+    confidence: medium
+    integration:
+      status: collected
+      note: Do not state local cattle domestication as settled fact; reported archaeological phases vary by
+        site and source.
+  aam_east_africa_turkana_herding:
+    scope: crosses_boundary
+    research_window:
+      end_exclusive: -3000.1.1
+      note: Only the portion preceding the cutoff is in scope; retain the published cal BP interval.
+    entity: Lake Turkana Basin, northern Kenya
+    subject: economy_and_food_production
+    finding: Domestic livestock appear in the Turkana Basin around 5000–4500 cal BP; early communities combined
+      herding with fishing, rather than an abrupt replacement of foraging by specialized pastoralism. This
+      interval crosses the 3000 BCE cutoff, so only its earliest edge falls within the class.
+    dating:
+      precision: bp
+      earliest_value: 5000
+      latest_value: 4500
+      unit: cal_years
+      reference_year: 1950
+      calibrated: true
+    source_refs:
+    - id: aam_src_east_africa_herding
+      locator: Introduction; earliest livestock in Turkana Basin
+    confidence: high
+    integration:
+      status: collected
+      note: Boundary-context record; original source uses calibrated BP, and most of the range falls after
+        3000 BCE. Do not infer a modern ethnic identity or polity.
+  aam_east_africa_livestock_spread:
+    scope: boundary_context
+    entity: Kenya and northern Tanzania
+    subject: economy_and_mobility
+    finding: Sheep and goats characteristic of Turkana contexts appear in Kenya's south-central Rift Valley
+      around 4200 cal BP; specialized pastoralism spread more broadly later, around 3300 BP, after the 3000
+      BCE cutoff.
+    dating:
+      precision: bp
+      value: 4200
+      unit: cal_years
+      reference_year: 1950
+      calibrated: true
+    source_refs:
+    - id: aam_src_east_africa_herding
+      locator: Introduction; livestock spread into south-central Rift Valley
+    confidence: high
+    integration:
+      status: collected
+      note: Only the 4200 cal BP occurrence falls before this period's cutoff; later spread is explicitly outside
+        scope.
+  aam_nataruk_violence_claim:
+    entity: Nataruk, West Turkana, Kenya
+    subject: conflict_and_interpersonal_violence
+    finding: Ten of twelve articulated skeletons in the excavated assemblage showed evidence interpreted as
+      violent death; the original authors argue it records an inter-group attack among hunter-gatherers around
+      10,000 years ago. A published response contests the massacre interpretation, so the scale and classification
+      of the event remain disputed.
+    dating:
+      precision: relative
+      reported_value: 10000
+      unit: years_ago
+      reference_year: null
+      calibrated: null
+    source_refs:
+    - id: aam_src_nataruk
+      locator: Abstract; trauma and inter-group interpretation
+    - id: aam_src_nataruk_critique
+      locator: Critical response to the massacre interpretation
+    confidence: medium
+    integration:
+      status: collected
+      note: Preserve the competing reading; do not generalize from one disputed assemblage to a regional pattern
+        of warfare.
+  aam_naqada_i_upper_egypt:
+    scope: prehistoric
+    entity: Naqada I, Upper Egypt
+    subject: settlement_and_craft
+    finding: Predynastic farming communities and distinctive material culture are documented in Upper Egypt
+      by the fourth millennium BCE; the British Museum places Naqada I at about 4000 BCE and describes small
+      Nile-valley farming settlements.
+    dating:
+      precision: year
+      year: -4000
+      approximate: true
+    source_refs:
+    - id: aam_src_egypt
+      locator: Predynastic period; Naqada I
+    confidence: high
+    integration:
+      status: collected
+      note: Use archaeological period and local settlement evidence, not an early national-state assumption.
+  aam_naqada_competition:
+    entity: Upper Egypt, Naqada period
+    subject: political_organization
+    finding: Near the end of the Predynastic period, about 3300 BCE, regional rulers competed for power and
+      territory; this describes emerging local political competition and does not by itself establish a unified
+      kingdom.
+    dating:
+      precision: year
+      earliest_year: -3300
+      latest_year: -3300
+      approximate: true
+    source_refs:
+    - id: aam_src_egypt
+      locator: Toward the end of the Predynastic period
+    confidence: high
+    integration:
+      status: collected
+      note: Do not move unification earlier than the source supports; exact polity boundaries and rulers are
+        not established here.
+  aam_americas_white_sands_tracks:
+    entity: White Sands, New Mexico
+    subject: settlement_chronology
+    finding: Human footprints in lake-margin deposits are dated to about 23,000–21,000 years ago by radiocarbon
+      on aquatic seeds; independent pollen and luminescence estimates were published in 2023 to address a reservoir-effect
+      objection.
+    dating:
+      precision: relative
+      reported_range:
+      - 23000
+      - 21000
+      unit: years_ago
+      reference_year: null
+      calibrated: null
+    source_refs:
+    - id: aam_src_white_sands
+      locator: Abstract; original and independent age estimates
+    confidence: medium
+    integration:
+      status: collected
+      note: Very early North American presence with method-specific controversy; retain independent corroboration
+        and residual debate.
+  aam_americas_coopers_ferry:
+    entity: Cooper's Ferry, Idaho
+    subject: settlement_and_technology
+    finding: A dated assemblage includes stemmed projectile points and other tools at about 15,785 cal years
+      BP, documenting a pre-Clovis occupation in western North America.
+    dating:
+      precision: bp
+      value: 15785
+      unit: cal_years
+      reference_year: 1950
+      calibrated: true
+    source_refs:
+    - id: aam_src_coopers_ferry
+      locator: Abstract; cultural features and point assemblage
+    confidence: high
+    integration:
+      status: collected
+      note: The paper's lithic comparison does not prove a specific migration route or source population.
+  aam_clovis_chronology:
+    entity: Clovis archaeological complex
+    subject: technology_and_chronology
+    finding: A modeled chronology places Clovis between 13,050 and 12,750 cal years BP; the earlier Clovis-first
+      model has been superseded by accepted pre-Clovis evidence.
+    dating:
+      precision: bp
+      earliest_value: 13050
+      latest_value: 12750
+      unit: cal_years
+      reference_year: 1950
+      calibrated: true
+    source_refs:
+    - id: aam_src_clovis
+      locator: Abstract; modeled age range and interpretation
+    confidence: high
+    integration:
+      status: collected
+      note: A widespread archaeological complex, not a polity, ethnicity, or demonstrated first-arrival date.
+  aam_monte_verde_accepted_chronology:
+    entity: Monte Verde II, Chile
+    subject: settlement_and_economy
+    finding: The excavated team and subsequent 2023 assessment support human occupation around 14,500 cal BP,
+      with structures, hearths, lithics, plant remains, wood objects and footprints; the still-earlier levels
+      need further confirmation.
+    dating:
+      precision: bp
+      value: 14500
+      unit: cal_years
+      reference_year: 1950
+      calibrated: true
+    source_refs:
+    - id: aam_src_monte_verde_accepted
+      locator: Abstract; MV-II and pre-14,500 cal BP levels
+    confidence: medium
+    integration:
+      status: collected
+      note: Retain attributed chronology and the source's caveat on earlier levels; see separate 2026 challenge
+        record.
+  aam_monte_verde_2026_challenge:
+    entity: Monte Verde II, Chile
+    subject: dating_controversy
+    finding: Surovell and colleagues propose a Middle Holocene age of 8200–4200 BP for MV-II based on sediment,
+      luminescence and tephra evidence. A 2026 published archaeological response disputes their stratigraphy
+      and redeposition interpretation and defends an approximately 14,500-year occupation; the competing claims
+      remain separate.
+    dating:
+      precision: bp
+      earliest_value: 8200
+      latest_value: 4200
+      unit: years
+      reference_year: 1950
+      calibrated: null
+      approximate: true
+    source_refs:
+    - id: aam_src_monte_verde_science_2026
+      locator: 'Abstract: Middle Holocene age hypothesis'
+    - id: aam_src_monte_verde_response_2026
+      locator: 'Opening discussion: contested tephra, hiatus and redeposition arguments'
+    confidence: medium
+    integration:
+      status: collected
+      note: Retain both scholarly positions; original indexed passages were reviewed, but full supporting materials
+        have not been audited. No gameplay timeline should select one automatically.
+    scope: crosses_boundary
+    research_window:
+      end_exclusive: -3000.1.1
+      note: This is a contested full source range, not an adopted occupation date; its later portion is outside
+        scope.
+  aam_guila_naquitz_squash:
+    entity: Guilá Naquitz Cave, Oaxaca
+    subject: plant_use_and_domestication
+    finding: Directly dated squash remains and morphology indicate domesticated Cucurbita pepo by roughly 10,000
+      calendar years ago; early food-plant domestication does not imply full-time farming or village life at
+      the cave.
+    dating:
+      precision: relative
+      reported_value: 10000
+      unit: calendar_years_ago
+      reference_year: null
+      calibrated: null
+    source_refs:
+    - id: aam_src_guila_naquitz
+      locator: Abstract; direct AMS dates on Cucurbita remains
+    confidence: medium
+    integration:
+      status: collected
+      note: Crop-origin chronology is regional; the attached Balsas study is contextual evidence, not the original
+        Guilá Naquitz seed-dating paper.
+  aam_balsas_maize:
+    entity: Xihuatoxtla Shelter, Central Balsas, Mexico
+    subject: plant_use_and_domestication
+    finding: Maize phytoliths and starch grains at Xihuatoxtla are reported by about 8700 cal BP in a tropical
+      seasonal-forest setting; regional human occupation began by at least 9000 years ago. This evidence documents
+      early crop use without establishing a single moment of domestication.
+    dating:
+      precision: bp
+      value: 8700
+      unit: cal_years
+      reference_year: 1950
+      calibrated: true
+    source_refs:
+    - id: aam_src_balsas
+      locator: Abstract; Xihuatoxtla findings and chronology
+    confidence: high
+    integration:
+      status: collected
+      note: Source uses years ago for the early occupation and crop chronology; preserve that broad uncertainty
+        rather than assigning a precise BCE date.
+  aam_pacific_central_american_dispersal:
+    entity: Central American isthmus
+    subject: settlement_and_mobility
+    finding: Radiocarbon-dated archaeological sequences place human occupation on the isthmus between roughly
+      13,000 and 7,000 BP, adding evidence for movement between North and South America during the terminal
+      Pleistocene and early Holocene.
+    dating:
+      precision: bp
+      earliest_value: 13000
+      latest_value: 7000
+      unit: years
+      reference_year: 1950
+      calibrated: null
+    source_refs:
+    - id: aam_src_panama
+      locator: Title and abstract; chronology
+    confidence: medium
+    integration:
+      status: collected
+      note: The paper gives a regional range; use site-specific dates and evidence before mapping discrete
+        settlements.
+  aam_southwest_amazon_plant_use:
+    entity: Teotonio, Upper Madeira, southwestern Amazonia
+    subject: economy_and_plant_management
+    finding: Archaeobotanical, phytolith and lithic-residue evidence documents early Holocene exploitation
+      and cultivation of useful plants at Teotonio; evidence challenges a simple forager-to-farmer sequence
+      but does not establish a large settled polity.
+    dating:
+      precision: relative
+      reported_value: 9000
+      unit: years_ago
+      reference_year: null
+      calibrated: null
+    source_refs:
+    - id: aam_src_southwest_amazon
+      locator: Abstract; Girau and Massangana phases
+    confidence: medium
+    integration:
+      status: collected
+      note: Early plant management is not equivalent to full dependence on agriculture; source uses approximate
+        BP.
+  aam_southwest_amazon_manioc:
+    entity: Upper Madeira, southwestern Amazonia
+    subject: plant_domestication
+    finding: Archaeological synthesis and genetic evidence place manioc's domestication in an approximately
+      8,000–10,000 BP window; Teotonio research situates early plant production in this region, while individual
+      crop identifications and dates remain an active research area.
+    dating:
+      precision: relative
+      reported_range:
+      - 10000
+      - 8000
+      unit: years_ago
+      reference_year: null
+      calibrated: null
+    source_refs:
+    - id: aam_src_southwest_amazon
+      locator: Introduction; manioc chronology and regional plant domestication
+    confidence: medium
+    integration:
+      status: collected
+      note: A broad inferred domestication interval, not a single directly dated domestication event.
+  aam_caral_boundary:
+    scope: boundary_context
+    entity: Caral-Supe, Peru
+    subject: boundary_context
+    finding: UNESCO dates construction of the Sacred City of Caral-Supe to about 3000 BCE and identifies it
+      as part of the Late Archaic period; this is boundary context, not evidence for a pre-3000 BCE state or
+      city phase.
+    dating:
+      precision: year
+      earliest_year: -3000
+      latest_year: -3000
+      approximate: true
+    source_refs:
+    - id: aam_src_caral
+      locator: Construction date and Late Archaic interval
+    confidence: high
+    integration:
+      status: collected
+      note: Boundary marker only; retain the source's approximate start date and do not backdate urbanism.

@@ -1,0 +1,113 @@
+schema_version: 1
+checked_on: '2026-10-13'
+period_id: prehistoric
+audit_scope: >-
+  Source-backed prehistoric regional, bookend and methodology records plus the preceding
+  native-comparison research batch. Selected anchors establish partial coverage;
+  this is not an audit of generated mod support or proof of exhaustive literature coverage.
+statuses:
+  partial: Selected sourced anchors exist; geographic or temporal completeness is not established.
+  not_found_in_reviewed_collection: No targeted record identified in the reviewed collection; not historical absence.
+coverage:
+  identity_and_language:
+    status: partial
+    anchors: [wae_lbk_central_europe, wae_halaf_material_culture, aso_jomon_early_pottery]
+    distinction: Anchors concern material traditions, not proven ethnic or linguistic identities.
+    missing: Regional names, attested or reconstructed languages, independently supported identity links, continuity and divergence processes.
+  ritual_and_religious_organization:
+    status: partial
+    anchors: [wae_gobekli_tepe_monuments, aso_liangzhu_ritual_jade, aso_australia_mungo]
+    missing: Dated changes in ritual practice, religious authority, sacred places and alternative interpretations; named belief systems only where independently evidenced.
+  demography_mobility_and_social_groups:
+    status: partial
+    anchors: [lpr_catal_population_reestimate, ccg_fact_kinship_shift, aam_americas_white_sands_tracks]
+    missing: Regional estimates with units and uncertainty, migration and local continuity sequences, household and status organization over time.
+  polities_and_territorial_control:
+    status: partial
+    anchors: [aam_naqada_competition, pre_uruk_urban_architecture]
+    missing: Evidence for political emergence and integration, actor identities, effective reach and competing interpretations; no borders inferred from artifact distributions.
+  persons_lineages_and_succession:
+    status: partial
+    anchors: [ccg_fact_maternal_links, ccg_fact_kinship_shift]
+    distinction: Sampled kinship patterns do not identify named rulers, dynasties or inheritance law.
+    missing: Independently identified individuals and succession where evidence exists; explicit unknown status elsewhere.
+  governance_law_and_social_power:
+    status: partial
+    anchors: [pre_barley_administration_tablet, aso_liangzhu_ritual_jade, wae_varna_copper_age_burials]
+    missing: Administrative practices, distribution of authority and obligations, temporal changes and evidence separating ritual prestige from political rule.
+  diplomacy_dependencies_and_organizations:
+    status: not_found_in_reviewed_collection
+    anchors: []
+    missing: Evidence specifically establishing parties, obligations, direction and chronology; exchange alone does not establish alliance or tribute.
+  conflict_military_and_equipment:
+    status: partial
+    anchors: [aam_nataruk_violence_claim, asr_hamoukar_sling_battle]
+    missing: Regional violence and defense sequences, attacker identification where possible, equipment and organization with dates; alternative explanations for destruction.
+  settlements_and_urbanization:
+    status: partial
+    anchors: [wae_jericho_neolithic_village, aso_mehrgarh_expansion, pre_uruk_urban_architecture]
+    missing: Phase-specific location, extent, hierarchy, founding or abandonment and changing networks; site coordinates and contemporary landscape context.
+  food_production_and_subsistence:
+    status: partial
+    anchors: [wae_ganj_dareh_goat_management, aso_newguinea_kuk_mounds, aam_balsas_maize, lpr_catal_cereal_mixture]
+    missing: Regional adoption, mixed subsistence, domestication evidence and trade-offs; farming is not an automatic political stage.
+  resources_and_production:
+    status: partial
+    anchors: [aam_olorgesailie_obsidian, asr_catalhoyuk_copper_finds, asr_hamoukar_obsidian_production]
+    missing: Extraction places and phases, production organization and scale, imported versus locally made artifacts, resource exhaustion or abandonment.
+  exchange_and_transport:
+    status: partial
+    anchors: [lpr_catal_obsidian_provenance, wae_halaf_material_culture]
+    missing: Changing source-destination networks, transport evidence, intermediary relations and quantities; provenance does not prove a specific route or market.
+  technology_and_institutional_diffusion:
+    status: partial
+    anchors: [pre_lomekwi_toolmaking, aso_jomon_early_pottery, pre_barley_administration_tablet]
+    missing: Local appearance, adoption and abandonment sequences, different uses and evidence for transmission mechanisms; earliest find differs from invention.
+  environment_and_landscape:
+    status: partial
+    anchors: [aam_african_humid_period, aso_newguinea_kuk_early_use]
+    missing: Local climate, sea level, river and vegetation series aligned with settlement dates; independent causal evidence for demographic or economic effects.
+  disease_and_health:
+    status: not_found_in_reviewed_collection
+    anchors: []
+    missing: Dated pathogen, skeletal-health or nutritional evidence with sample scope; regional disease impact and mechanisms only if supported.
+  art_and_knowledge:
+    status: partial
+    anchors: [aam_blombos_engraved_ochre, aso_siberia_malta_art, pre_barley_administration_tablet]
+    missing: Dated production contexts, creators when known, distribution and changing functions; meanings distinguished from interpretation.
+next_regional_packages:
+  - region: West Asia and Europe
+    questions: Farming and settlement networks, social authority, population mobility, material and linguistic identities where evidence permits.
+  - region: Africa
+    questions: Climate and mobility, food production networks, Nile political integration, social organization and local health evidence.
+  - region: South and Central Asia
+    questions: Settlement and production networks, farming and herding adoption, exchange and regional differentiation.
+  - region: East and Southeast Asia
+    questions: Food production, regional settlement hierarchies, ritual and social authority, mobility and identity distinctions.
+  - region: Oceania
+    questions: Local occupation and landscape management, food production, mobility and contact with regional chronology.
+  - region: Americas
+    questions: Occupation sequences and dating debates, domestication, production and settlement networks, social differentiation.
+acceptance: >-
+  Each regional package reports intervals actually searched, source-backed states and processes,
+  explicit unknowns and disputes for relevant requirements. These tasks have no arbitrary
+  minimum fact count and no claim that one site represents an entire region.
+new_batch_evidence:
+  note: >-
+    The coverage statuses above describe the prior collection. These new starter records
+    extend it without closing any domain's worldwide geographic and temporal gaps.
+  identity_mobility_and_continuity:
+    records: [nr_proc_levant_zagros_lineages, nr_proc_southeast_europe_mixing, nr_proc_northpontic_contact_and_yamnaya]
+    limitation: Ancestry studies do not independently identify ethnic groups or languages.
+  social_authority_and_production:
+    records: [phr_fact_hongshan_regional_ritual, phr_fact_hongshan_household_roles, phr_fact_hongshan_pottery_specialization]
+    limitation: One regional case; two sampled household patterns are not independently demonstrated before-after transitions.
+  coastal_adaptation:
+    records: [mw_tel_hreiz_coastal_defense]
+    limitation: Partial archaeological sequence with interpreted mechanism and unresolved individual phase dates.
+  pathogen_presence:
+    records: [mw_ri_nukalns_yersinia]
+    limitation: The prior disease coverage gap now has a starter observation; outbreak and demographic effects remain unestablished.
+  art_and_dating:
+    records: [mw_sulawesi_narrative_art]
+    limitation: Minimum dating bound and scene observation; maker identity and meaning remain unresolved.

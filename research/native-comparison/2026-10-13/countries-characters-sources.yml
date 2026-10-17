@@ -1,0 +1,30 @@
+schema_version: 1
+sources:
+  ccg_src_pubmed:
+    title: 'Female lineages and changing kinship patterns in Neolithic Çatalhöyük'
+    publisher: PubMed / Science
+    type: peer_reviewed_research_abstract
+    url: https://pubmed.ncbi.nlm.nih.gov/40570118/
+    locator: Abstract, especially lines 291-293
+    checked_on: '2026-10-13'
+  ccg_src_frontiers:
+    title: 'Socio-Material Archaeological Networks at Çatalhöyük: a Community Detection Approach'
+    publisher: Frontiers in Digital Humanities
+    type: peer_reviewed_research
+    url: https://www.frontiersin.org/journals/digital-humanities/articles/10.3389/fdigh.2019.00008/full
+    locator: Section 'Background', paragraphs on social stratification and competing household-network interpretations
+    checked_on: '2026-10-13'
+  ccg_src_management:
+    title: 'Çatalhöyük: A Prehistoric Settlement on the Konya Plain — Site Management Plan'
+    publisher: Çatalhöyük Research Project / Turkish Ministry of Culture and Tourism
+    type: heritage_management_plan
+    url: https://www.catalhoyuk.com/sites/default/files/Catal_SMP_EN_Revised.pdf
+    locator: Section 'Çatalhöyük West', PDF pages 16-17, lines 389-407 of extracted text
+    checked_on: '2026-10-13'
+  ccg_src_unesco:
+    title: Neolithic Site of Çatalhöyük
+    publisher: UNESCO World Heritage Centre
+    type: heritage_listing
+    url: https://whc.unesco.org/en/list/1405
+    locator: Outstanding Universal Value; West Mound Chalcolithic period, 6200-5200 BCE
+    checked_on: '2026-10-13'

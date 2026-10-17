@@ -1,0 +1,47 @@
+schema_version: 1
+period_id: prehistoric
+collected_on: "2026-10-13"
+population_reference:
+  hyde_10000_bce:
+    model: HYDE 3.2
+    year: -10000
+    geography: global
+    unit: persons
+    central_estimate: 4400000
+    lower_bound:
+      operator: less_than
+      value: 10000
+    upper_bound: 8900000
+    uncertainty_type: author_reported_lower_and_upper_estimates
+    evidence_type: modeled_reconstruction
+    finding: HYDE combines historical estimates with spatial allocation algorithms; its global population figure is a model output, not a census or a count for a particular archaeological site.
+    source_refs:
+      - id: pre_src_hyde_2017
+        locator: Abstract, global population in 10000 BCE and allocation methodology
+    integration:
+      status: collected
+      note: Preserve the unusually wide reported bounds. A global total cannot establish location populations or their ethnicity, religion, or estate composition. Dataset files have not been downloaded or resampled.
+dating_rules:
+  radiocarbon_bp:
+    finding: Conventional radiocarbon BP uses AD 1950 as its reference and requires calibration before interpretation as calendar dates.
+    source_refs:
+      - id: pre_src_radiocarbon_reporting
+        locator: Reporting 14C Dates; Uncalibrated Ages — BP
+  calibrated_intervals:
+    finding: Calibrated ages are probability estimates which may have multiple calendar intervals; retain the stated confidence level, calibration curve and laboratory identifier when available.
+    source_refs:
+      - id: pre_src_radiocarbon_reporting
+        locator: Calibrated Ages — cal BC, cal AD, cal BP; Date Lists
+  relative_ages:
+    project_rule: A generic years-ago or luminescence age must not acquire an assumed 1950 reference or a radiocarbon calibration flag. Preserve native notation; unknown metadata is null.
+  temporal_scope:
+    project_rule: The project prehistoric class ends exclusively at -3000.1.1. Preserve full source ranges and mark boundary_context for facts outside that class. Clipping a research window never means disappearance or abandonment.
+map_integration_rules:
+  site_mapping:
+    project_rule: Verify source coordinates and their containment in the mod's map location geometry before assigning location_id. A matching place name alone is insufficient.
+  spatial_claim:
+    project_rule: Point-site evidence does not establish a whole location's population, political ownership, religion, language, raw material production or dominant subsistence.
+  negative_evidence:
+    project_rule: Unknown occupation is not zero population. Modern coastlines and province borders must not be projected into prehistoric mobility without a palaeogeographic review.
+  archaeological_labels:
+    project_rule: Archaeological traditions are analytical labels. Their boundaries do not automatically define countries, ethnicities, languages or religions.

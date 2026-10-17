@@ -1,0 +1,723 @@
+schema_version: 1
+checked_on: '2026-10-13'
+native_root: D:\Games\Europa Universalis 5\Europa.Universalis.V.v1.2.5-0xdeadcode\game
+mod_root: C:\Users\Bahadir\Desktop\ExtendedTimeline\repo\Extended Timeline
+baseline_note: Native path verified in current debug.log mounts. Directory name is
+  not a reliable patch-version identifier; a v1.3.10.xxh128 manifest exists but was
+  not independently verified, and executable version resource says 1.0.
+mod_supported_version: 1.3.*
+replace_paths:
+- main_menu/common/defines
+- main_menu/setup/start
+start_files:
+  02_core.txt:
+    native_present: true
+    mod_present: true
+    native_bytes: 1585
+    mod_bytes: 1681
+    native_sha256: 3e4bb471e8a4de0ee1a3cf437571721260f8f90cc88b1ff10ddeba043f2dbd1a
+    mod_sha256: dd110594207d3ccdeb1bc5c085c9fb170e7525c903090da3b9212841c688822b
+    comparison: different
+  03_markets.txt:
+    native_present: true
+    mod_present: true
+    native_bytes: 3726
+    mod_bytes: 23
+    native_sha256: 7818c25dc67598d29fd7494e7d086ee325f5389c953fa2ef42600eabac9fba50
+    mod_sha256: 9172947e6ecf5f53876c180e6ff043388972639d4b560e9941012f2a0f57d431
+    comparison: different
+  04_dynasties.txt:
+    native_present: true
+    mod_present: true
+    native_bytes: 238359
+    mod_bytes: 179586
+    native_sha256: 430fffc6f698d110b9e4df36c955b0c2a50e2b6ab440844aea874f3ad7070546
+    mod_sha256: 05ef3bfb511fa3e82bc0f3d435e8c3055ab6e82300d6bda424c249693b539254
+    comparison: different
+  05_characters.txt:
+    native_present: true
+    mod_present: true
+    native_bytes: 2473374
+    mod_bytes: 47659
+    native_sha256: a14c45c66a0e85ebde0cdf19e03d3982ad6bfe45b1a95c9fc8b0e212622d8667
+    mod_sha256: d9db887f6bab6010b4199206a32e97532edb13fc5af4fd327288df32edd8c74b
+    comparison: different
+  06_pops.txt:
+    native_present: true
+    mod_present: true
+    native_bytes: 5084334
+    mod_bytes: 5269777
+    native_sha256: 9ff82f578ce535314bf20eecdcc61c6f4b892ee12cc0fe8c228c56c4be035d1e
+    mod_sha256: fa7de4a8d7b481e556b7b842d022eae7fc70db064438e628df5e9ee4494367a8
+    comparison: different
+  07_cities_and_buildings.txt:
+    native_present: true
+    mod_present: true
+    native_bytes: 257174
+    mod_bytes: 47
+    native_sha256: 0812a9f7c5e1875675f304afcd4bb6a8239b2f9c894840a47c599ea43dd602b6
+    mod_sha256: 5b88410b41eac2b78d1b364795019986f95869a113a768a53992500ff15ad9f2
+    comparison: different
+  08_institutions.txt:
+    native_present: true
+    mod_present: true
+    native_bytes: 661890
+    mod_bytes: 20
+    native_sha256: 7ca8a90d96ccab2deb5f1b94179fb215dce45eede70b6dd8b0bbd0474e3165f7
+    mod_sha256: fb2a8f2391900c3398c61d46e8c6d933b0a9bc8b9b8a63f3fdc99466347df980
+    comparison: different
+  09_roads.txt:
+    native_present: true
+    mod_present: true
+    native_bytes: 32940
+    mod_bytes: 23
+    native_sha256: 65f360f3e4c08f1f5b4a1978731cdc6dc33901d6758f6551fc21c9c2fd1f52d2
+    mod_sha256: 1d06fc5c17a3b8156630aac4555c09c0dd87ca48eeabc06d8f49a3ba4d0ea5a8
+    comparison: different
+  10_countries.txt:
+    native_present: true
+    mod_present: true
+    native_bytes: 1584355
+    mod_bytes: 186316
+    native_sha256: 1f2491ea199e78709fa4e5cc2c59666730996195c005c0663001c04ed64abc8a
+    mod_sha256: a3744d657ccd2164eb82e0c681e9c0e4809f7badfa3e4ab073e9decf11169576
+    comparison: different
+  11_art.txt:
+    native_present: true
+    mod_present: true
+    native_bytes: 21258
+    mod_bytes: 869
+    native_sha256: 58364aa41e99b6e0a96b9901eae8f3c98f4092d30efe13a6b4aa483d142cd13e
+    mod_sha256: 51ea72a2283af1b1c1118c1135bdb694ee67a19cacf9055a5e6284958b592e02
+    comparison: different
+  12_diplomacy.txt:
+    native_present: true
+    mod_present: true
+    native_bytes: 50126
+    mod_bytes: 26
+    native_sha256: c2b86e760721342a26f15d54629de32feef29d33e081cf0828c570a058d047d3
+    mod_sha256: 1ccf67febdfb7bd22eea8ca7bd52b8d99857125242d712b3298e506ea998f975
+    comparison: different
+  13_religion.txt:
+    native_present: true
+    mod_present: true
+    native_bytes: 5596
+    mod_bytes: 3035
+    native_sha256: acff3fd8a7edbe2ba656c986f5fe533a2706997d63a020b640cd0e1d96295f6c
+    mod_sha256: 004ff6113f1d06dfb51f8b1f5cf39b23267347cda8cf6b1e624e105eb036bf16
+    comparison: different
+  14_development.txt:
+    native_present: true
+    mod_present: true
+    native_bytes: 6890
+    mod_bytes: 6890
+    native_sha256: d633ff37d4987d40d365f5f176b51552a2d3d29649cded1baa86cc86b53206ed
+    mod_sha256: d633ff37d4987d40d365f5f176b51552a2d3d29649cded1baa86cc86b53206ed
+    comparison: identical
+  15_international_organizations.txt:
+    native_present: true
+    mod_present: true
+    native_bytes: 66684
+    mod_bytes: 779
+    native_sha256: 9398a1ec2095580419370969428264e5fdaeb7e114230aff9e66a444e1d01a3e
+    mod_sha256: 71fbaadb604d964a59d4b44371afa59976fd322b396136ecd7c53d849ccf714a
+    comparison: different
+  16_wars.txt:
+    native_present: true
+    mod_present: true
+    native_bytes: 14429
+    mod_bytes: 822
+    native_sha256: 27a35c71ac212d4f965a0b342f34ccca39022d1259a1969d1a0ed742e3d6173b
+    mod_sha256: 669443fbbb7359cb906b364e488d1c582aa25dfb91c3badee4a6b6da7d08f6ff
+    comparison: different
+  18_opinions.txt:
+    native_present: true
+    mod_present: true
+    native_bytes: 6611
+    mod_bytes: 26
+    native_sha256: ffa73fdde1ece3c4472efb0731baf2efc51007f9465f46b379c099a0c38c246c
+    mod_sha256: 1ccf67febdfb7bd22eea8ca7bd52b8d99857125242d712b3298e506ea998f975
+    comparison: different
+  19_diseases.txt:
+    native_present: true
+    mod_present: true
+    native_bytes: 12131
+    mod_bytes: 33
+    native_sha256: 1e7ff731b97d1e0aa83b8f69c7b117f88395c070ab7c8c9f5aaeacfec8fe2c83
+    mod_sha256: 4689e541311e1a135721a213009b5fb779d1d957b5babc55d798b7b3c35a152e
+    comparison: different
+  20_rivals.txt:
+    native_present: true
+    mod_present: true
+    native_bytes: 2137
+    mod_bytes: 26
+    native_sha256: 777b28ee7bf9a2efd9f0522974cbb4e7b7544d165f0b4b8188b70f80079eacdf
+    mod_sha256: 1ccf67febdfb7bd22eea8ca7bd52b8d99857125242d712b3298e506ea998f975
+    comparison: different
+  21_locations.txt:
+    native_present: true
+    mod_present: true
+    native_bytes: 360
+    mod_bytes: 360
+    native_sha256: a8e7fff8434185c4430b592622e2bf7204d5b31a9bddfc199305ed55fdce477b
+    mod_sha256: a8e7fff8434185c4430b592622e2bf7204d5b31a9bddfc199305ed55fdce477b
+    comparison: identical
+  22_situations.txt:
+    native_present: true
+    mod_present: true
+    native_bytes: 714
+    mod_bytes: 714
+    native_sha256: ae94b21a8976bf2ef2dbd890c51f6a83d1b27d8cb1b1b290b309c47a8c2a90f3
+    mod_sha256: ae94b21a8976bf2ef2dbd890c51f6a83d1b27d8cb1b1b290b309c47a8c2a90f3
+    comparison: identical
+  23_colonies.txt:
+    native_present: true
+    mod_present: true
+    native_bytes: 1931
+    mod_bytes: 23
+    native_sha256: 648749fa05dc0df8347a550fe5f1596535d9ba4a55a35fb3702206c494dbf02f
+    mod_sha256: 638d94d3ed5d5ee2fad527cb14f03531a9d1eeb8d8d5f8610f8fb50c72302ff9
+    comparison: different
+  24_town_rights.txt:
+    native_present: true
+    mod_present: true
+    native_bytes: 5522
+    mod_bytes: 5522
+    native_sha256: 479c0285595e26c0a1863730351e21717c7be2340ca229b572698cd2751a803d
+    mod_sha256: 479c0285595e26c0a1863730351e21717c7be2340ca229b572698cd2751a803d
+    comparison: identical
+  25_area_preferences.txt:
+    native_present: true
+    mod_present: true
+    native_bytes: 20935
+    mod_bytes: 20935
+    native_sha256: b4b5262b91fd0083f4f3c292b937635b8aaddb9a7353503095039dd21eb22a6c
+    mod_sha256: b4b5262b91fd0083f4f3c292b937635b8aaddb9a7353503095039dd21eb22a6c
+    comparison: identical
+  26_ai_personalities.txt:
+    native_present: true
+    mod_present: true
+    native_bytes: 5040
+    mod_bytes: 5040
+    native_sha256: 1f58036fb63014fae33b75d532bd7846791a3fe4ad6218718854eabfb15003a2
+    mod_sha256: 1f58036fb63014fae33b75d532bd7846791a3fe4ad6218718854eabfb15003a2
+    comparison: identical
+  27_armies.txt:
+    native_present: true
+    mod_present: true
+    native_bytes: 1497
+    mod_bytes: 21
+    native_sha256: bc7625b8bd4cc2a14ff67f109839f15a29617cb40a49f1d118ed158e9a2ea7f1
+    mod_sha256: 9984509ebc7976cef0cfa3f22b005aade0c64944f0d888c8d4f289e76bd2c599
+    comparison: different
+common_directories:
+  advances:
+    native_txt_files: 216
+    mod_txt_files: 0
+    overlapping_relative_paths: 0
+  age:
+    native_txt_files: 1
+    mod_txt_files: 0
+    overlapping_relative_paths: 0
+  ai_diplochance:
+    native_txt_files: 1
+    mod_txt_files: 0
+    overlapping_relative_paths: 0
+  ai_personalities:
+    native_txt_files: 1
+    mod_txt_files: 0
+    overlapping_relative_paths: 0
+  ai_scripted_expansion_score:
+    native_txt_files: 2
+    mod_txt_files: 0
+    overlapping_relative_paths: 0
+  ai_scripted_expansion_target:
+    native_txt_files: 2
+    mod_txt_files: 0
+    overlapping_relative_paths: 0
+  alert_descriptions:
+    native_txt_files: 1
+    mod_txt_files: 0
+    overlapping_relative_paths: 0
+  area_preferences:
+    native_txt_files: 2
+    mod_txt_files: 0
+    overlapping_relative_paths: 0
+  artist_types:
+    native_txt_files: 2
+    mod_txt_files: 0
+    overlapping_relative_paths: 0
+  artist_work:
+    native_txt_files: 2
+    mod_txt_files: 0
+    overlapping_relative_paths: 0
+  attribute_columns:
+    native_txt_files: 62
+    mod_txt_files: 0
+    overlapping_relative_paths: 0
+  auto_modifiers:
+    native_txt_files: 6
+    mod_txt_files: 0
+    overlapping_relative_paths: 0
+  avatars:
+    native_txt_files: 2
+    mod_txt_files: 0
+    overlapping_relative_paths: 0
+  biases:
+    native_txt_files: 8
+    mod_txt_files: 0
+    overlapping_relative_paths: 0
+  building_categories:
+    native_txt_files: 1
+    mod_txt_files: 0
+    overlapping_relative_paths: 0
+  building_types:
+    native_txt_files: 45
+    mod_txt_files: 0
+    overlapping_relative_paths: 0
+  bureaucracies:
+    native_txt_files: 4
+    mod_txt_files: 0
+    overlapping_relative_paths: 0
+  cabinet_actions:
+    native_txt_files: 72
+    mod_txt_files: 0
+    overlapping_relative_paths: 0
+  casus_belli:
+    native_txt_files: 68
+    mod_txt_files: 0
+    overlapping_relative_paths: 0
+  character_interactions:
+    native_txt_files: 33
+    mod_txt_files: 0
+    overlapping_relative_paths: 0
+  child_educations:
+    native_txt_files: 3
+    mod_txt_files: 0
+    overlapping_relative_paths: 0
+  chivalric_orders:
+    native_txt_files: 3
+    mod_txt_files: 0
+    overlapping_relative_paths: 0
+  climates:
+    native_txt_files: 1
+    mod_txt_files: 0
+    overlapping_relative_paths: 0
+  country_description_categories:
+    native_txt_files: 2
+    mod_txt_files: 0
+    overlapping_relative_paths: 0
+  country_interactions:
+    native_txt_files: 89
+    mod_txt_files: 0
+    overlapping_relative_paths: 0
+  country_ranks:
+    native_txt_files: 2
+    mod_txt_files: 0
+    overlapping_relative_paths: 0
+  culture_groups:
+    native_txt_files: 1
+    mod_txt_files: 1
+    overlapping_relative_paths: 0
+  cultures:
+    native_txt_files: 53
+    mod_txt_files: 23
+    overlapping_relative_paths: 5
+  customizable_localization:
+    native_txt_files: 25
+    mod_txt_files: 0
+    overlapping_relative_paths: 0
+  death_reason:
+    native_txt_files: 3
+    mod_txt_files: 0
+    overlapping_relative_paths: 0
+  designated_heir_reason:
+    native_txt_files: 1
+    mod_txt_files: 0
+    overlapping_relative_paths: 0
+  diplomatic_costs:
+    native_txt_files: 2
+    mod_txt_files: 0
+    overlapping_relative_paths: 0
+  disasters:
+    native_txt_files: 37
+    mod_txt_files: 0
+    overlapping_relative_paths: 0
+  diseases:
+    native_txt_files: 8
+    mod_txt_files: 0
+    overlapping_relative_paths: 0
+  effect_localization:
+    native_txt_files: 36
+    mod_txt_files: 0
+    overlapping_relative_paths: 0
+  employment_systems:
+    native_txt_files: 2
+    mod_txt_files: 0
+    overlapping_relative_paths: 0
+  estate_privileges:
+    native_txt_files: 8
+    mod_txt_files: 0
+    overlapping_relative_paths: 0
+  estates:
+    native_txt_files: 1
+    mod_txt_files: 0
+    overlapping_relative_paths: 0
+  ethnicities:
+    native_txt_files: 54
+    mod_txt_files: 0
+    overlapping_relative_paths: 0
+  formable_countries:
+    native_txt_files: 3
+    mod_txt_files: 0
+    overlapping_relative_paths: 0
+  generic_action_ai_lists:
+    native_txt_files: 86
+    mod_txt_files: 0
+    overlapping_relative_paths: 0
+  generic_actions:
+    native_txt_files: 105
+    mod_txt_files: 0
+    overlapping_relative_paths: 0
+  genes:
+    native_txt_files: 10
+    mod_txt_files: 0
+    overlapping_relative_paths: 0
+  gods:
+    native_txt_files: 12
+    mod_txt_files: 0
+    overlapping_relative_paths: 0
+  goods:
+    native_txt_files: 6
+    mod_txt_files: 0
+    overlapping_relative_paths: 0
+  goods_demand:
+    native_txt_files: 7
+    mod_txt_files: 0
+    overlapping_relative_paths: 0
+  goods_demand_category:
+    native_txt_files: 1
+    mod_txt_files: 0
+    overlapping_relative_paths: 0
+  government_reforms:
+    native_txt_files: 7
+    mod_txt_files: 0
+    overlapping_relative_paths: 0
+  government_types:
+    native_txt_files: 1
+    mod_txt_files: 0
+    overlapping_relative_paths: 0
+  hegemons:
+    native_txt_files: 5
+    mod_txt_files: 0
+    overlapping_relative_paths: 0
+  heir_selections:
+    native_txt_files: 5
+    mod_txt_files: 0
+    overlapping_relative_paths: 0
+  historical_scores:
+    native_txt_files: 1
+    mod_txt_files: 0
+    overlapping_relative_paths: 0
+  holy_site_types:
+    native_txt_files: 2
+    mod_txt_files: 1
+    overlapping_relative_paths: 0
+  holy_sites:
+    native_txt_files: 17
+    mod_txt_files: 3
+    overlapping_relative_paths: 0
+  institution:
+    native_txt_files: 7
+    mod_txt_files: 0
+    overlapping_relative_paths: 0
+  insults:
+    native_txt_files: 1
+    mod_txt_files: 0
+    overlapping_relative_paths: 0
+  international_organization_land_ownership_rules:
+    native_txt_files: 9
+    mod_txt_files: 0
+    overlapping_relative_paths: 0
+  international_organization_payments:
+    native_txt_files: 7
+    mod_txt_files: 0
+    overlapping_relative_paths: 0
+  international_organization_special_statuses:
+    native_txt_files: 11
+    mod_txt_files: 0
+    overlapping_relative_paths: 0
+  international_organizations:
+    native_txt_files: 35
+    mod_txt_files: 0
+    overlapping_relative_paths: 0
+  join_war_rules:
+    native_txt_files: 2
+    mod_txt_files: 0
+    overlapping_relative_paths: 0
+  language_families:
+    native_txt_files: 1
+    mod_txt_files: 1
+    overlapping_relative_paths: 0
+  languages:
+    native_txt_files: 54
+    mod_txt_files: 10
+    overlapping_relative_paths: 2
+  laws:
+    native_txt_files: 30
+    mod_txt_files: 0
+    overlapping_relative_paths: 0
+  levies:
+    native_txt_files: 9
+    mod_txt_files: 0
+    overlapping_relative_paths: 0
+  location_ranks:
+    native_txt_files: 1
+    mod_txt_files: 0
+    overlapping_relative_paths: 0
+  mission_task_defs:
+    native_txt_files: 0
+    mod_txt_files: 0
+    overlapping_relative_paths: 0
+  missions:
+    native_txt_files: 12
+    mod_txt_files: 0
+    overlapping_relative_paths: 0
+  movements:
+    native_txt_files: 5
+    mod_txt_files: 0
+    overlapping_relative_paths: 0
+  music_player_tracks:
+    native_txt_files: 1
+    mod_txt_files: 0
+    overlapping_relative_paths: 0
+  on_action:
+    native_txt_files: 21
+    mod_txt_files: 0
+    overlapping_relative_paths: 0
+  parliament_agendas:
+    native_txt_files: 7
+    mod_txt_files: 0
+    overlapping_relative_paths: 0
+  parliament_issues:
+    native_txt_files: 10
+    mod_txt_files: 0
+    overlapping_relative_paths: 0
+  parliament_types:
+    native_txt_files: 3
+    mod_txt_files: 0
+    overlapping_relative_paths: 0
+  peace_treaties:
+    native_txt_files: 54
+    mod_txt_files: 0
+    overlapping_relative_paths: 0
+  persistent_dna:
+    native_txt_files: 1
+    mod_txt_files: 0
+    overlapping_relative_paths: 0
+  policies:
+    native_txt_files: 0
+    mod_txt_files: 0
+    overlapping_relative_paths: 0
+  pop_types:
+    native_txt_files: 1
+    mod_txt_files: 0
+    overlapping_relative_paths: 0
+  prices:
+    native_txt_files: 8
+    mod_txt_files: 0
+    overlapping_relative_paths: 0
+  production_methods:
+    native_txt_files: 3
+    mod_txt_files: 0
+    overlapping_relative_paths: 0
+  rebel_demands:
+    native_txt_files: 2
+    mod_txt_files: 0
+    overlapping_relative_paths: 0
+  recruitment_method:
+    native_txt_files: 3
+    mod_txt_files: 0
+    overlapping_relative_paths: 0
+  regencies:
+    native_txt_files: 16
+    mod_txt_files: 0
+    overlapping_relative_paths: 0
+  religion_groups:
+    native_txt_files: 1
+    mod_txt_files: 1
+    overlapping_relative_paths: 0
+  religions:
+    native_txt_files: 30
+    mod_txt_files: 13
+    overlapping_relative_paths: 0
+  religious_aspects:
+    native_txt_files: 19
+    mod_txt_files: 0
+    overlapping_relative_paths: 0
+  religious_factions:
+    native_txt_files: 2
+    mod_txt_files: 0
+    overlapping_relative_paths: 0
+  religious_figures:
+    native_txt_files: 2
+    mod_txt_files: 0
+    overlapping_relative_paths: 0
+  religious_focuses:
+    native_txt_files: 2
+    mod_txt_files: 0
+    overlapping_relative_paths: 0
+  religious_schools:
+    native_txt_files: 6
+    mod_txt_files: 0
+    overlapping_relative_paths: 0
+  resolutions:
+    native_txt_files: 24
+    mod_txt_files: 0
+    overlapping_relative_paths: 0
+  rival_criteria:
+    native_txt_files: 2
+    mod_txt_files: 0
+    overlapping_relative_paths: 0
+  road_types:
+    native_txt_files: 2
+    mod_txt_files: 0
+    overlapping_relative_paths: 0
+  script_values:
+    native_txt_files: 25
+    mod_txt_files: 0
+    overlapping_relative_paths: 0
+  scriptable_hints:
+    native_txt_files: 2
+    mod_txt_files: 0
+    overlapping_relative_paths: 0
+  scripted_country_names:
+    native_txt_files: 1
+    mod_txt_files: 0
+    overlapping_relative_paths: 0
+  scripted_diplomatic_objectives:
+    native_txt_files: 3
+    mod_txt_files: 0
+    overlapping_relative_paths: 0
+  scripted_effects:
+    native_txt_files: 16
+    mod_txt_files: 0
+    overlapping_relative_paths: 0
+  scripted_geography:
+    native_txt_files: 3
+    mod_txt_files: 0
+    overlapping_relative_paths: 0
+  scripted_guis:
+    native_txt_files: 1
+    mod_txt_files: 0
+    overlapping_relative_paths: 0
+  scripted_lists:
+    native_txt_files: 3
+    mod_txt_files: 0
+    overlapping_relative_paths: 0
+  scripted_modifiers:
+    native_txt_files: 0
+    mod_txt_files: 0
+    overlapping_relative_paths: 0
+  scripted_relations:
+    native_txt_files: 35
+    mod_txt_files: 0
+    overlapping_relative_paths: 0
+  scripted_rules:
+    native_txt_files: 0
+    mod_txt_files: 0
+    overlapping_relative_paths: 0
+  scripted_triggers:
+    native_txt_files: 25
+    mod_txt_files: 0
+    overlapping_relative_paths: 0
+  situations:
+    native_txt_files: 23
+    mod_txt_files: 0
+    overlapping_relative_paths: 0
+  societal_values:
+    native_txt_files: 1
+    mod_txt_files: 0
+    overlapping_relative_paths: 0
+  subject_military_stances:
+    native_txt_files: 2
+    mod_txt_files: 0
+    overlapping_relative_paths: 0
+  subject_types:
+    native_txt_files: 18
+    mod_txt_files: 0
+    overlapping_relative_paths: 0
+  tests:
+    native_txt_files: 5
+    mod_txt_files: 0
+    overlapping_relative_paths: 0
+  topography:
+    native_txt_files: 1
+    mod_txt_files: 0
+    overlapping_relative_paths: 0
+  town_rights:
+    native_txt_files: 10
+    mod_txt_files: 0
+    overlapping_relative_paths: 0
+  town_setups:
+    native_txt_files: 1
+    mod_txt_files: 0
+    overlapping_relative_paths: 0
+  trait_flavor:
+    native_txt_files: 1
+    mod_txt_files: 0
+    overlapping_relative_paths: 0
+  traits:
+    native_txt_files: 9
+    mod_txt_files: 0
+    overlapping_relative_paths: 0
+  trigger_localization:
+    native_txt_files: 43
+    mod_txt_files: 0
+    overlapping_relative_paths: 0
+  tutorial_lesson_chains:
+    native_txt_files: 1
+    mod_txt_files: 0
+    overlapping_relative_paths: 0
+  tutorial_lessons:
+    native_txt_files: 4
+    mod_txt_files: 0
+    overlapping_relative_paths: 0
+  unit_abilities:
+    native_txt_files: 17
+    mod_txt_files: 0
+    overlapping_relative_paths: 0
+  unit_categories:
+    native_txt_files: 11
+    mod_txt_files: 0
+    overlapping_relative_paths: 0
+  unit_formation_preference:
+    native_txt_files: 3
+    mod_txt_files: 0
+    overlapping_relative_paths: 0
+  unit_types:
+    native_txt_files: 31
+    mod_txt_files: 0
+    overlapping_relative_paths: 0
+  vegetation:
+    native_txt_files: 1
+    mod_txt_files: 0
+    overlapping_relative_paths: 0
+  wargoals:
+    native_txt_files: 2
+    mod_txt_files: 0
+    overlapping_relative_paths: 0
+history_yaml_files:
+  characters: 1413
+  countries: 3337
+  dynasties: 4
+  locations: 20939
+  international_organizations: 16
+  wars: 5
+  artworks: 1
+  diseases: 1
+  periods: 1
+  research/prehistoric: 13
+method: SHA-256 byte comparison of setup/start txt files; recursive txt-file counts
+  for common directories. Counts do not establish ID validity, override behavior or
+  historical completeness.

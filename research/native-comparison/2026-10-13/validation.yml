@@ -1,0 +1,33 @@
+schema_version: 1
+checked_on: '2026-10-13'
+yaml_files_checked: 13
+field_mappings: 89
+mapping_counts:
+  countries_characters: 30
+  locations_population: 29
+  ages_systems: 30
+structured_items_by_report:
+  countries-characters.yml: 14
+  locations-population.yml: 7
+  ages-systems.yml: 30
+new_records: 12
+research_source_ids: 10
+new_record_scopes:
+  prehistoric: 11
+  boundary_context: 1
+research_statuses:
+  collected: 12
+research_tasks: 11
+issues: []
+checks:
+- YAML parsing with duplicate-key rejection
+- Source metadata, reference shapes and target IDs
+- Research record IDs unique across old and new collections
+- Date range order and boundary-context labels
+- Comparison-gap links and research-plan evidence links
+- Research integration remains collected
+limits:
+- Counts do not prove engine-required fields or runtime behavior.
+- Native examples and selected source claims were reviewed; not every external full
+  text or engine behavior was validated.
+- Full-game load and BCE simulation were not tested in this comparison.

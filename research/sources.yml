@@ -1,0 +1,423 @@
+schema_version: 1
+checked_on: "2026-10-17"
+sources:
+  unesco_gobekli:
+    title: Göbekli Tepe
+    publisher: UNESCO World Heritage Centre
+    type: institutional_site_record
+    url: https://whc.unesco.org/en/list/1572/
+    locator: Description and Outstanding Universal Value
+  unesco_catalhoyuk:
+    title: Neolithic Site of Çatalhöyük
+    publisher: UNESCO World Heritage Centre
+    type: institutional_site_record
+    url: https://whc.unesco.org/en/list/1405/
+    locator: Description
+  suetonius_augustus:
+    title: Suetonius, Life of Augustus
+    publisher: LacusCurtius, hosted by the University of Chicago
+    type: primary_text_translation
+    edition: J. C. Rolfe, Loeb Classical Library, 1913
+    url: https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Suetonius/12Caesars/Augustus%2A.html
+    locator: Sections 5.1 and 100.1; translator/editor notes
+    caveat: Birth date follows the conventional Roman-calendar rendering, not a proleptic Gregorian conversion.
+  suetonius_tiberius:
+    title: Suetonius, Life of Tiberius
+    publisher: LacusCurtius, hosted by the University of Chicago
+    type: primary_text_translation
+    edition: J. C. Rolfe, Loeb Classical Library, 1913
+    url: https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Suetonius/12Caesars/Tiberius%2A.html
+    locator: Sections 5.1 and 73.1
+    caveat: Section 5 also records competing ancient accounts of the birth year.
+  suetonius_caligula:
+    title: Suetonius, Life of Caligula
+    publisher: LacusCurtius, hosted by the University of Chicago
+    type: primary_text_translation
+    edition: J. C. Rolfe, Loeb Classical Library, 1913
+    url: https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Suetonius/12Caesars/Caligula%2A.html
+    locator: Sections 7.1–2 and 8.1–5
+    caveat: Section 8 discusses conflicting birthplace traditions and favors Antium.
+  suetonius_claudius:
+    title: Suetonius, Life of Claudius
+    publisher: LacusCurtius, hosted by the University of Chicago
+    type: primary_text_translation
+    edition: J. C. Rolfe, Loeb Classical Library, 1913
+    url: https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Suetonius/12Caesars/Claudius%2A.html
+    locator: Sections 1.1, 1.6 and 2.1
+    caveat: The birth year is normalized from the named consular year, not from the altar-dedication footnote.
+  suetonius_nero:
+    title: Suetonius, Life of Nero
+    publisher: Perseus Digital Library, Tufts University
+    type: primary_text_translation
+    url: https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0132%3Alife%3Dnero%3Achapter%3D6
+    locator: Section 6.1
+  iranica_vologases:
+    title: BALĀŠ ii. Balāš I
+    publisher: Encyclopaedia Iranica
+    type: scholarly_reference
+    url: https://www.iranicaonline.org/articles/balas/ii-balas-i/
+    locator: Fighting over Armenia and the chronology caveat; Rhandeia 62 and negotiations 63
+    caveat: The article explicitly warns that the campaign chronology cannot be reconstructed precisely.
+  iranica_armenia:
+    title: ARMENIA AND IRAN ii. The pre-Islamic period
+    publisher: Encyclopaedia Iranica
+    type: scholarly_reference
+    url: https://www.iranicaonline.org/articles/armenia-ii/
+    locator: Tiridates at Artaxata in 52; Corbulo's spring 58 campaign; Tigranocerta in 59
+  met_han:
+    title: Han Dynasty (206 B.C.–220 A.D.)
+    publisher: The Metropolitan Museum of Art
+    type: museum_research
+    url: https://www.metmuseum.org/essays/han-dynasty-206-b-c-220-a-d
+    locator: Opening chronology and Eastern Han capital paragraph
+  met_abbasid:
+    title: The Art of the Abbasid Period (750–1258)
+    publisher: The Metropolitan Museum of Art
+    type: museum_research
+    url: https://www.metmuseum.org/essays/the-art-of-the-abbasid-period-750-1258
+    locator: Opening paragraph; Baghdad 762 and Samarra 836–892
+  bl_eic:
+    title: IOR/B — East India Company administrative history
+    publisher: British Library Archives and Manuscripts Catalogue
+    type: archival_catalogue
+    url: https://searcharchives.bl.uk/catalog/032-000164862
+    locator: Administrative history, opening sentence, charter of 31 December 1600
+    access: search_index_excerpt
+    caveat: Catalogue excerpt was available; direct page fetch failed. Verify the full catalogue before territorial or monopoly-scope claims.
+  nrm_stockton_darlington:
+    title: Shildon, the Cradle of the Railways and Locomotion No.1
+    publisher: National Railway Museum, Science Museum Group
+    type: museum_research
+    url: https://blog.railwaymuseum.org.uk/shildon-the-cradle-of-the-railways-and-locomotion-no-1/
+    locator: Opening on 27 September 1825
+  smg_rocket:
+    title: Rocket locomotive
+    publisher: Science Museum Group Collection
+    type: museum_object_catalogue
+    url: https://collection.sciencemuseumgroup.org.uk/objects/co26704
+    locator: Made, designer, maker and Details fields
+    record_id: co26704
+  un_founders:
+    title: UN Founding Members
+    publisher: United Nations Dag Hammarskjöld Library
+    type: institutional_membership_record
+    url: https://research.un.org/en/unmembers/founders
+    locator: Introduction and founding-member ratification table
+  periplus_schoff:
+    title: The Voyage around the Erythraean Sea (Periplus Maris Erythraei)
+    publisher: Silk Road Seattle, University of Washington
+    type: primary_text_translation
+    edition: W. H. Schoff translation, 1912
+    url: https://depts.washington.edu/silkroad/texts/periplus/periplus.html
+    locator: Sections cited per record
+    caveat: Toponym identifications follow Schoff and are partly debated; section numbers follow this edition.
+  wiki_urban_sizes:
+    title: Historical urban community sizes
+    publisher: Wikipedia
+    type: encyclopedia_article
+    url: https://en.wikipedia.org/wiki/Historical_urban_community_sizes
+    locator: Classical and Iron Age tables, AD 1 and AD 100 columns
+    caveat: Tertiary compilation of Chandler and Fox, Modelski, Morris and Wilson estimates; ranges are wide and occasionally conflicting.
+  iranica_ctesiphon:
+    title: CTESIPHON
+    publisher: Encyclopaedia Iranica
+    type: scholarly_reference
+    url: https://www.iranicaonline.org/articles/ctesiphon
+    locator: Position and name sections
+  wiki_han_economy:
+    title: Economy of the Han dynasty
+    publisher: Wikipedia
+    type: encyclopedia_article
+    url: https://en.wikipedia.org/wiki/Economy_of_the_Han_dynasty
+    locator: Urbanization and population; Foreign trade sections
+  wiki_massalia:
+    title: Massalia
+    publisher: Wikipedia
+    type: encyclopedia_article
+    url: https://en.wikipedia.org/wiki/Massalia
+    locator: Article intro
+  wiki_narbonne:
+    title: Narbonne
+    publisher: Wikipedia
+    type: encyclopedia_article
+    url: https://en.wikipedia.org/wiki/Narbonne
+    locator: Article intro
+  wiki_tarraco:
+    title: Tarraco
+    publisher: Wikipedia
+    type: encyclopedia_article
+    url: https://en.wikipedia.org/wiki/Tarraco
+    locator: Article intro
+  wiki_augusta_emerita:
+    title: Augusta Emerita
+    publisher: Wikipedia
+    type: encyclopedia_article
+    url: https://en.wikipedia.org/wiki/Augusta_Emerita
+    locator: Article intro
+  wiki_cadiz:
+    title: Cádiz
+    publisher: Wikipedia
+    type: encyclopedia_article
+    url: https://en.wikipedia.org/wiki/C%C3%A1diz
+    locator: History, Under Rome's rule
+  wiki_camulodunum:
+    title: Camulodunum
+    publisher: Wikipedia
+    type: encyclopedia_article
+    url: https://en.wikipedia.org/wiki/Camulodunum
+    locator: Article intro
+  wiki_corduba:
+    title: Corduba
+    publisher: Wikipedia (Italian)
+    type: encyclopedia_article
+    url: https://it.wikipedia.org/wiki/Corduba
+    locator: Article intro
+    caveat: Short stub article used for the provincial-capital statement; upgrade source later.
+  wiki_tingi:
+    title: Tingi
+    publisher: Wikipedia
+    type: encyclopedia_article
+    url: https://en.wikipedia.org/wiki/Tingi
+    locator: Article intro
+  wiki_cirta:
+    title: Cirta
+    publisher: Wikipedia
+    type: encyclopedia_article
+    url: https://en.wikipedia.org/wiki/Cirta
+    locator: Article intro
+  wiki_hippo_regius:
+    title: Hippo Regius
+    publisher: Wikipedia
+    type: encyclopedia_article
+    url: https://en.wikipedia.org/wiki/Hippo_Regius
+    locator: Article intro
+  wiki_leptis_magna:
+    title: Leptis Magna
+    publisher: Wikipedia
+    type: encyclopedia_article
+    url: https://en.wikipedia.org/wiki/Leptis_Magna
+    locator: Article intro
+  wiki_cyrene:
+    title: Cyrene, Libya
+    publisher: Wikipedia
+    type: encyclopedia_article
+    url: https://en.wikipedia.org/wiki/Cyrene,_Libya
+    locator: Article intro
+  wiki_nicomedia:
+    title: Nicomedia
+    publisher: Wikipedia
+    type: encyclopedia_article
+    url: https://en.wikipedia.org/wiki/Nicomedia
+    locator: History section
+  wiki_pergamon:
+    title: Pergamon
+    publisher: Wikipedia
+    type: encyclopedia_article
+    url: https://en.wikipedia.org/wiki/Pergamon
+    locator: Article intro
+  wiki_smyrna:
+    title: Smyrna
+    publisher: Wikipedia
+    type: encyclopedia_article
+    url: https://en.wikipedia.org/wiki/Smyrna
+    locator: Article intro
+  wiki_miletus:
+    title: Miletus
+    publisher: Wikipedia
+    type: encyclopedia_article
+    url: https://en.wikipedia.org/wiki/Miletus
+    locator: Article intro
+  wiki_tarsus:
+    title: Tarsus, Mersin
+    publisher: Wikipedia
+    type: encyclopedia_article
+    url: https://en.wikipedia.org/wiki/Tarsus,_Mersin
+    locator: Article intro
+  wiki_antioch:
+    title: Antioch
+    publisher: Wikipedia
+    type: encyclopedia_article
+    url: https://en.wikipedia.org/wiki/Antioch
+    locator: Article intro
+  wiki_damascus:
+    title: Damascus
+    publisher: Wikipedia
+    type: encyclopedia_article
+    url: https://en.wikipedia.org/wiki/Damascus
+    locator: Article intro
+    caveat: Intro is thin on the pre-Islamic era; upgrade source later.
+  wiki_gaza_city:
+    title: Gaza City
+    publisher: Wikipedia
+    type: encyclopedia_article
+    url: https://en.wikipedia.org/wiki/Gaza_City
+    locator: Article intro
+  wiki_bosra:
+    title: Bosra
+    publisher: Wikipedia
+    type: encyclopedia_article
+    url: https://en.wikipedia.org/wiki/Bosra
+    locator: Article intro
+  wiki_petra:
+    title: Petra
+    publisher: Wikipedia
+    type: encyclopedia_article
+    url: https://en.wikipedia.org/wiki/Petra
+    locator: Article intro
+  wiki_palmyra:
+    title: Palmyra
+    publisher: Wikipedia
+    type: encyclopedia_article
+    url: https://en.wikipedia.org/wiki/Palmyra
+    locator: Article intro
+  wiki_osroene:
+    title: Osroene
+    publisher: Wikipedia
+    type: encyclopedia_article
+    url: https://en.wikipedia.org/wiki/Osroene
+    locator: Article intro
+  wiki_shabwa:
+    title: Shabwa
+    publisher: Wikipedia
+    type: encyclopedia_article
+    url: https://en.wikipedia.org/wiki/Shabwa
+    locator: Article intro
+  wiki_marib:
+    title: Marib
+    publisher: Wikipedia
+    type: encyclopedia_article
+    url: https://en.wikipedia.org/wiki/Marib
+    locator: Article intro
+  wiki_ecbatana:
+    title: Ecbatana
+    publisher: Wikipedia
+    type: encyclopedia_article
+    url: https://en.wikipedia.org/wiki/Ecbatana
+    locator: Article intro
+  wiki_susa:
+    title: Susa
+    publisher: Wikipedia
+    type: encyclopedia_article
+    url: https://en.wikipedia.org/wiki/Susa
+    locator: Article intro
+  wiki_mtskheta:
+    title: Mtskheta
+    publisher: Wikipedia
+    type: encyclopedia_article
+    url: https://en.wikipedia.org/wiki/Mtskheta
+    locator: Article intro
+  wiki_axum:
+    title: Axum
+    publisher: Wikipedia
+    type: encyclopedia_article
+    url: https://en.wikipedia.org/wiki/Axum
+    locator: Article intro
+  wiki_meroe:
+    title: Meroë
+    publisher: Wikipedia
+    type: encyclopedia_article
+    url: https://en.wikipedia.org/wiki/Mero%C3%AB
+    locator: Article intro
+  wiki_mathura:
+    title: Mathura
+    publisher: Wikipedia
+    type: encyclopedia_article
+    url: https://en.wikipedia.org/wiki/Mathura
+    locator: Article intro
+  wiki_patna:
+    title: Patna
+    publisher: Wikipedia
+    type: encyclopedia_article
+    url: https://en.wikipedia.org/wiki/Patna
+    locator: Article intro
+  wiki_tamralipta:
+    title: Tamralipta
+    publisher: Wikipedia
+    type: encyclopedia_article
+    url: https://en.wikipedia.org/wiki/Tamralipta
+    locator: Article intro
+  wiki_pandya_dynasty:
+    title: Pandya dynasty
+    publisher: Wikipedia
+    type: encyclopedia_article
+    url: https://en.wikipedia.org/wiki/Pandya_dynasty
+    locator: Article intro
+  wiki_varanasi:
+    title: Varanasi
+    publisher: Wikipedia
+    type: encyclopedia_article
+    url: https://en.wikipedia.org/wiki/Varanasi
+    locator: Article intro
+  wiki_anuradhapura:
+    title: Anuradhapura
+    publisher: Wikipedia
+    type: encyclopedia_article
+    url: https://en.wikipedia.org/wiki/Anuradhapura
+    locator: Article intro
+  wiki_taxila:
+    title: Taxila
+    publisher: Wikipedia
+    type: encyclopedia_article
+    url: https://en.wikipedia.org/wiki/Taxila
+    locator: Article intro
+  wiki_merv:
+    title: Merv
+    publisher: Wikipedia
+    type: encyclopedia_article
+    url: https://en.wikipedia.org/wiki/Merv
+    locator: Article intro, Parthian era
+  wiki_balkh:
+    title: Balkh
+    publisher: Wikipedia
+    type: encyclopedia_article
+    url: https://en.wikipedia.org/wiki/Balkh
+    locator: Article intro
+  wiki_samarkand:
+    title: Samarkand
+    publisher: Wikipedia
+    type: encyclopedia_article
+    url: https://en.wikipedia.org/wiki/Samarkand
+    locator: Article intro
+  wiki_kashgar:
+    title: Kashgar
+    publisher: Wikipedia
+    type: encyclopedia_article
+    url: https://en.wikipedia.org/wiki/Kashgar
+    locator: Article intro
+  wiki_hotan:
+    title: Hotan
+    publisher: Wikipedia
+    type: encyclopedia_article
+    url: https://en.wikipedia.org/wiki/Hotan
+    locator: Article intro
+  wiki_hexi_corridor:
+    title: Hexi Corridor
+    publisher: Wikipedia
+    type: encyclopedia_article
+    url: https://en.wikipedia.org/wiki/Hexi_Corridor
+    locator: Article intro
+  wiki_handan:
+    title: Handan
+    publisher: Wikipedia
+    type: encyclopedia_article
+    url: https://en.wikipedia.org/wiki/Handan
+    locator: Article intro
+  wiki_nanyue:
+    title: Nanyue
+    publisher: Wikipedia (Italian)
+    type: encyclopedia_article
+    url: https://it.wikipedia.org/wiki/Nanyue
+    locator: Article intro
+    caveat: Italian-language article; capital-at-Panyu statement.
+  wiki_guangzhou:
+    title: Guangzhou
+    publisher: Wikipedia
+    type: encyclopedia_article
+    url: https://en.wikipedia.org/wiki/Guangzhou
+    locator: Article intro
+  wiki_teotihuacan:
+    title: Teotihuacan
+    publisher: Wikipedia
+    type: encyclopedia_article
+    url: https://en.wikipedia.org/wiki/Teotihuacan
+    locator: Article intro and Period II section

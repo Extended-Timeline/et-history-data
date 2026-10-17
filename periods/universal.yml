@@ -1,0 +1,134 @@
+# Chronological research classes, not EU5 gameplay age definitions.
+# Exact boundaries are project conventions; societies develop at different times.
+schema_version: 1
+classification: chronological
+scope: global_calendar
+date_format: et_year_month_day
+boundary_policy: project_convention
+intervals:
+  start: inclusive
+  end: exclusive
+  null_boundary: unbounded
+
+periods:
+  prehistoric:
+    order: 1
+    name:
+      en: Prehistoric Period
+      tr: Tarih Öncesi Dönem
+    start: null
+    end: "-3000.1.1"
+    research_focus:
+      - archaeological_settlements
+      - subsistence_and_agriculture
+      - material_cultures
+      - population_estimates
+    note: >-
+      This calendar class does not imply that written records existed in every
+      region after 3000 BCE. Local prehistoric periods require regional dating.
+
+  ancient:
+    order: 2
+    name:
+      en: Ancient Period
+      tr: Antik Dönem
+    start: "-3000.1.1"
+    end: "500.1.1"
+    research_focus:
+      - polities_and_territorial_control
+      - rulers_and_dynasties
+      - languages_cultures_and_religions
+      - settlements_trade_and_population
+      - wars_and_dependencies
+    note: >-
+      Use local period names for regional interpretation. A date in this class
+      does not establish a region's political organization or technology.
+
+  medieval:
+    order: 3
+    name:
+      en: Medieval and Postclassical Period
+      tr: Orta Çağ ve Klasik Sonrası Dönem
+    start: "500.1.1"
+    end: "1500.1.1"
+    research_focus:
+      - polities_frontiers_and_dependencies
+      - rulers_dynasties_and_succession
+      - religious_and_cultural_changes
+      - cities_trade_and_population
+      - migrations_wars_and_institutions
+    note: >-
+      Medieval terminology originates in European periodization. Postclassical
+      and local period names can describe other regions within this calendar window.
+
+  early_modern:
+    order: 4
+    name:
+      en: Early Modern Period
+      tr: Erken Modern Dönem
+    start: "1500.1.1"
+    end: "1800.1.1"
+    research_focus:
+      - state_administration_and_dependencies
+      - religions_and_political_institutions
+      - maritime_trade_and_colonial_control
+      - military_organization_and_wars
+      - settlement_and_population_changes
+    note: >-
+      1500 and 1800 are convenient research boundaries. Regional processes can
+      begin earlier or later and must retain their own dated evidence.
+
+  industrial:
+    order: 5
+    name:
+      en: Industrial and World Wars Period
+      tr: Sanayi ve Dünya Savaşları Dönemi
+    start: "1800.1.1"
+    end: "1945.1.1"
+    research_focus:
+      - borders_unification_and_independence
+      - industrialization_resources_and_transport
+      - urbanization_and_population
+      - governments_and_political_movements
+      - colonial_dependencies_and_world_wars
+    note: >-
+      The interval does not assert simultaneous industrialization worldwide.
+      1945.1.1 is a calendar boundary, not the date World War II ended.
+
+  contemporary:
+    order: 6
+    name:
+      en: Contemporary Period
+      tr: Çağdaş Dönem
+    start: "1945.1.1"
+    end: null
+    research_focus:
+      - borders_decolonization_and_sovereignty
+      - governments_and_international_organizations
+      - population_migration_and_urbanization
+      - energy_industry_and_information_technology
+      - wars_conflicts_and_dependencies
+    note: >-
+      The open endpoint supports later catalog updates, not invented future
+      history. Historical records still require dated sources and uncertainty notes.
+
+sources:
+  - id: global_medieval_contexts
+    title: Global Medieval Contexts 500–1500 — chapter resources
+    publisher: Routledge
+    url: https://routledgetextbooks.com/textbooks/9781138103399/chapters.php
+    relevance: >-
+      Global medieval research context and the limits of applying European
+      medieval terminology worldwide; not evidence for every exact catalog boundary.
+  - id: global_early_modern_interactions
+    title: Global Interactions in the Early Modern Age, 1400–1800 — frontmatter
+    publisher: Cambridge University Press
+    url: https://assets.cambridge.org/97805216/88673/frontmatter/9780521688673_frontmatter.pdf
+    relevance: >-
+      Global early modern research context. Its 1400 start also illustrates
+      that period boundaries vary; this catalog adopts 1500 as a project convention.
+  - id: world_in_1945
+    title: The World in 1945
+    publisher: US Department of State, Office of the Historian
+    url: https://history.state.gov/departmenthistory/short-history/worldin1945/worldin1945
+    relevance: Context for the postwar research window; not an exact global transition date.

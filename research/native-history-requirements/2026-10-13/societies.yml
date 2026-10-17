@@ -1,0 +1,298 @@
+schema_version: 1
+collected_on: '2026-10-13'
+native_snapshot: Installed game files under D:/Games/Europa Universalis 5/Europa.Universalis.V.v1.2.5-0xdeadcode/game;
+  describes observed files, not executable patch verification.
+requirements:
+- category: culture_snapshot
+  id: r01
+  native_path: in_game/common/cultures/00_cultures.info:1-28
+  native_keys:
+  - culture.language
+  - culture_groups
+  - tags
+  - opinions
+  - modifiers
+  history_requirement: Dated location/pop culture assignment, identity label, validity interval, spatial precision,
+    confidence, and alternative interpretations.
+  process_requirement: Track transitions with dated before/after states, scope, proposed mechanisms, evidence
+    for each mechanism, alternatives, and uncertainty.
+  interpretation_rule: Graphics tags and modifiers are game effects, not historical evidence.
+  priority: high
+- category: culture_membership
+  id: r02
+  native_path: in_game/common/cultures/scandinavian.txt:1-19
+  native_keys:
+  - culture_groups
+  history_requirement: Record which documented cultures a group label covers and when; permit nested or overlapping
+    affinities.
+  process_requirement: Track transitions with dated before/after states, scope, proposed mechanisms, evidence
+    for each mechanism, alternatives, and uncertainty.
+  interpretation_rule: Shared material assemblages alone do not prove common self-identity.
+  priority: medium
+- category: group_taxonomy
+  id: r03
+  native_path: in_game/common/culture_groups/00_culture_groups.txt:1-8
+  native_keys:
+  - culture group definitions
+  history_requirement: Keep grouping rationale and date range explicit; allow membership uncertainty and competing
+    groupings.
+  process_requirement: Track transitions with dated before/after states, scope, proposed mechanisms, evidence
+    for each mechanism, alternatives, and uncertainty.
+  interpretation_rule: A game culture group is not automatically a linguistic family, ethnicity, or polity.
+  priority: medium
+- category: language_snapshot
+  id: r04
+  native_path: in_game/common/languages/00_italy.txt:1-18
+  native_keys:
+  - language family
+  - fallback
+  - male_names
+  - female_names
+  - dynasty_names
+  history_requirement: Record language/dialect, geographic and chronological scope, evidence basis, reconstruction
+    status, and uncertainty.
+  process_requirement: Track transitions with dated before/after states, scope, proposed mechanisms, evidence
+    for each mechanism, alternatives, and uncertainty.
+  interpretation_rule: Do not assign language to archaeological cultures without independent historical-linguistic
+    support.
+  priority: high
+- category: language_family
+  id: r05
+  native_path: in_game/common/language_families/00_language_families.txt:1-8
+  native_keys:
+  - language family definitions
+  history_requirement: Track proposed family, proto-language, divergence dates, and competing models as hypotheses
+    with confidence.
+  process_requirement: Track transitions with dated before/after states, scope, proposed mechanisms, evidence
+    for each mechanism, alternatives, and uncertainty.
+  interpretation_rule: Family resemblance is not a migration date or a biological ancestry claim.
+  priority: medium
+- category: names
+  id: r06
+  native_path: in_game/common/languages/00_italy.txt:8-18
+  native_keys:
+  - language-specific name pools
+  history_requirement: Require attested names or clearly labeled linguistic reconstructions with source, language,
+    period, and confidence.
+  process_requirement: Track transitions with dated before/after states, scope, proposed mechanisms, evidence
+    for each mechanism, alternatives, and uncertainty.
+  interpretation_rule: No invented named prehistoric people, rulers, houses, or dynasties.
+  priority: medium
+- category: ethnicity_portrait
+  id: r07
+  native_path: in_game/common/ethnicities/00_ethnicities_european.txt:1-25
+  native_keys:
+  - template
+  - skin_color
+  - eye_color
+  - hair_color
+  history_requirement: Keep biological phenotype/portrait assignment separate from cultural or historical identity
+    evidence.
+  process_requirement: Track transitions with dated before/after states, scope, proposed mechanisms, evidence
+    for each mechanism, alternatives, and uncertainty.
+  interpretation_rule: Native file comment describes gene-driven portrait templates; do not make these templates
+    ancient ethnic group definitions.
+  priority: high
+- category: religion_snapshot
+  id: r08
+  native_path: in_game/common/religions/christian.txt:188-206
+  native_keys:
+  - group
+  - language
+  - has_religious_head
+  - has_cardinals
+  - tithe
+  history_requirement: Date ritual practice, religious community, institutional structure, and inferred named
+    tradition separately.
+  process_requirement: Track transitions with dated before/after states, scope, proposed mechanisms, evidence
+    for each mechanism, alternatives, and uncertainty.
+  interpretation_rule: Ritual objects, burials, and figurines rarely identify a specific doctrine or named
+    religion by themselves.
+  priority: high
+- category: religious_language
+  id: r09
+  native_path: in_game/common/religions/christian.txt:188-194
+  native_keys:
+  - religion.language
+  history_requirement: Keep liturgical, administrative, and everyday spoken languages distinct, with different
+    evidence and date ranges.
+  process_requirement: Track transitions with dated before/after states, scope, proposed mechanisms, evidence
+    for each mechanism, alternatives, and uncertainty.
+  interpretation_rule: A religious language field is not the language of every believer.
+  priority: medium
+- category: population_segments
+  id: r10
+  native_path: in_game/common/pop_types/00_default.txt:1-28
+  native_keys:
+  - pop type growth
+  - consumption
+  - estate
+  - promotion
+  - literacy effects
+  history_requirement: Describe empirically supported livelihood/role segments at a location and date; state
+    sample and representativeness.
+  process_requirement: Track transitions with dated before/after states, scope, proposed mechanisms, evidence
+    for each mechanism, alternatives, and uncertainty.
+  interpretation_rule: Do not project later estate/class labels onto mobile foragers or early villages without
+    evidence.
+  priority: high
+- category: population_estimate
+  id: r11
+  native_path: in_game/common/pop_types/00_default.txt:1-22
+  native_keys:
+  - pop type grow
+  - has_cap
+  - pop_food_consumption
+  history_requirement: Provide estimate unit, surveyed area, household/occupancy assumptions, uncertainty range,
+    and population model.
+  process_requirement: Track transitions with dated before/after states, scope, proposed mechanisms, evidence
+    for each mechanism, alternatives, and uncertainty.
+  interpretation_rule: Game growth and consumption parameters are not historical counts.
+  priority: high
+- category: literacy_and_specialists
+  id: r12
+  native_path: in_game/common/pop_types/00_default.txt:18-28,47-58
+  native_keys:
+  - literacy_impact and clergy pop effects
+  history_requirement: Separate literacy evidence, specialized ritual roles, and institutional clergy, including
+    dating and confidence.
+  process_requirement: Track transitions with dated before/after states, scope, proposed mechanisms, evidence
+    for each mechanism, alternatives, and uncertainty.
+  interpretation_rule: Monumental or ritual architecture does not establish a clergy estate or literacy.
+  priority: medium
+- category: ruler_culture_change
+  id: r13
+  native_path: in_game/events/wokou_events.txt:566-569
+  native_keys:
+  - change_culture (country/character scope)
+  history_requirement: Record governing/individual identity shifts separately from changes among residents,
+    with exact actor and date.
+  process_requirement: Track transitions with dated before/after states, scope, proposed mechanisms, evidence
+    for each mechanism, alternatives, and uncertainty.
+  interpretation_rule: A ruler’s change is not population-wide assimilation.
+  priority: high
+- category: pop_culture_change
+  id: r14
+  native_path: in_game/events/DHE/flavor_SWE.txt:2148-2148
+  native_keys:
+  - change_pop_culture
+  history_requirement: Record affected population, starting/ending identity, place, interval, scale, mechanism,
+    source, and confidence.
+  process_requirement: Track transitions with dated before/after states, scope, proposed mechanisms, evidence
+    for each mechanism, alternatives, and uncertainty.
+  interpretation_rule: Single locations or sampled groups cannot establish province-wide change.
+  priority: high
+- category: ruler_religion_change
+  id: r15
+  native_path: in_game/events/DHE/flavor_SWE.txt:232-233
+  native_keys:
+  - change_religion
+  - change_religion_for_ruler_and_family
+  history_requirement: Separate court/character conversion from population conversion and institutional change.
+  process_requirement: Track transitions with dated before/after states, scope, proposed mechanisms, evidence
+    for each mechanism, alternatives, and uncertainty.
+  interpretation_rule: Political conversion does not prove immediate or complete popular conversion.
+  priority: medium
+- category: pop_religion_change
+  id: r16
+  native_path: in_game/events/debug/qa_debug.txt:164-164
+  native_keys:
+  - change_pop_religion
+  history_requirement: Date religious change by population and locality; distinguish adoption, migration, coercion,
+    and mixed practice.
+  process_requirement: Track transitions with dated before/after states, scope, proposed mechanisms, evidence
+    for each mechanism, alternatives, and uncertainty.
+  interpretation_rule: Do not infer named belief from material resemblance alone.
+  priority: medium
+- category: transformation_cause
+  id: r17
+  native_path: in_game/events/wokou_events.txt:566-569
+  native_keys:
+  - separate country/character and pop change effects
+  history_requirement: Every transition record must distinguish observed change from proposed causes and list
+    plausible alternatives.
+  process_requirement: Track transitions with dated before/after states, scope, proposed mechanisms, evidence
+    for each mechanism, alternatives, and uncertainty.
+  interpretation_rule: Temporal association does not establish causation.
+  priority: high
+- category: migration
+  id: r18
+  native_path: in_game/common/effect_localization/pop_effects.txt:12-19
+  native_keys:
+  - pop culture/religion change effects
+  history_requirement: For migration claims specify dated origin, destination, route, scale, evidence and whether
+    movement was inferred or directly observed.
+  process_requirement: Track transitions with dated before/after states, scope, proposed mechanisms, evidence
+    for each mechanism, alternatives, and uncertainty.
+  interpretation_rule: An ancestry component is not by itself a named migration, route, or language shift.
+  priority: medium
+- category: ancestry
+  id: r19
+  native_path: in_game/common/ethnicities/00_ethnicities_african_bantu.txt:1-31
+  native_keys:
+  - ethnicity portrait system is gene/template based
+  history_requirement: Genome claims identify dated specimens, context, sample size, proxy populations, statistical
+    model, and confidence.
+  process_requirement: Track transitions with dated before/after states, scope, proposed mechanisms, evidence
+    for each mechanism, alternatives, and uncertainty.
+  interpretation_rule: Genetic ancestry is not ethnicity, language, culture, or self-identification.
+  priority: medium
+- category: interaction_and_admixture
+  id: r20
+  native_path: in_game/common/cultures/00_cultures.info:1-28
+  native_keys:
+  - separate culture
+  - language family
+  - and ethnicity systems
+  history_requirement: Track population continuity, admixture, cultural exchange, and technological borrowing
+    as separable processes.
+  process_requirement: Track transitions with dated before/after states, scope, proposed mechanisms, evidence
+    for each mechanism, alternatives, and uncertainty.
+  interpretation_rule: Shared artifacts may result from trade, imitation, migration, or convergence; compare
+    explanations.
+  priority: high
+- category: chronology
+  id: r21
+  native_path: in_game/events/DHE/flavor_SWE.txt:2148-2148
+  native_keys:
+  - dated separate cultural and pop change fields
+  history_requirement: Preserve reported dating scale, calibration, interval, phase, and uncertainty; provide
+    separate regional chronologies.
+  process_requirement: Track transitions with dated before/after states, scope, proposed mechanisms, evidence
+    for each mechanism, alternatives, and uncertainty.
+  interpretation_rule: Do not convert BP mentally or impose one continental event date.
+  priority: medium
+- category: contact_and_opinion
+  id: r22
+  native_path: in_game/common/cultures/00_cultures.info:18-27
+  native_keys:
+  - opinions and culture_groups
+  history_requirement: Date contacts and exchanges independently from assumed affinity, hostility, or group
+    membership.
+  process_requirement: Track transitions with dated before/after states, scope, proposed mechanisms, evidence
+    for each mechanism, alternatives, and uncertainty.
+  interpretation_rule: Opinion categories are game mechanics, not historical attitudes.
+  priority: medium
+- category: research_absence
+  id: r23
+  native_path: in_game/common/cultures/00_cultures.info:28-28
+  native_keys:
+  - suppress_no_pops_error
+  history_requirement: Record missing evidence, unstudied areas, preservation limits, and true absence as distinct
+    states.
+  process_requirement: Track transitions with dated before/after states, scope, proposed mechanisms, evidence
+    for each mechanism, alternatives, and uncertainty.
+  interpretation_rule: Unrecorded is not uninhabited.
+  priority: medium
+- category: state_vs_society
+  id: r24
+  native_path: in_game/events/wokou_events.txt:566-569
+  native_keys:
+  - country culture/religion changes and separate pop changes
+  history_requirement: Maintain independent dated population, government/court, language, religion, material-culture,
+    and ancestry tracks.
+  process_requirement: Track transitions with dated before/after states, scope, proposed mechanisms, evidence
+    for each mechanism, alternatives, and uncertainty.
+  interpretation_rule: No one track is a substitute for another; preserve unknowns.
+  priority: high
+catalogue_id: native_society_identity_requirements

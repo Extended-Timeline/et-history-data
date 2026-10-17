@@ -1,0 +1,50 @@
+schema_version: 1
+checked_on: '2026-10-13'
+purpose: Native EU5 data categories define historical research questions; current mod support does not define research scope.
+native_root: 'D:\Games\Europa Universalis 5\Europa.Universalis.V.v1.2.5-0xdeadcode\game'
+version_note: Directory name is not a verified installed game version.
+calendar_classes_file: ../../../periods/universal.yml
+active_collection_period: prehistoric
+active_collection_scope: Entire prehistoric research class, retaining full source intervals and regional periodization.
+exhaustive_historical_collection: false
+historical_categories:
+  - peoples_cultures_languages_and_identity
+  - beliefs_religions_rituals_and_religious_organization
+  - population_migration_and_social_structure
+  - polities_territorial_control_and_capitals
+  - rulers_kinship_dynasties_and_succession
+  - government_law_estates_and_political_values
+  - diplomacy_dependencies_and_international_organizations
+  - conflicts_military_organization_and_equipment
+  - settlement_hierarchy_and_urbanization
+  - agriculture_livestock_and_subsistence
+  - resources_extraction_crafts_and_production
+  - exchange_markets_and_transport
+  - technology_institutions_and_diffusion
+  - climate_hydrology_habitat_and_landscape
+  - disease_health_and_demographic_disruption
+  - art_monuments_and_knowledge_transmission
+research_record_types:
+  - dated_state
+  - change_process
+  - mechanism_hypothesis
+  - alternative_interpretation
+  - coverage_gap
+excluded_as_historical_facts:
+  - game_balance_numbers
+  - portrait_gene_weights_as_ethnic_taxonomy
+  - ai_preferences
+  - ui_and_rendering_configuration
+  - universal_deterministic_progression_from_calendar_age
+coverage_status_basis: Review of existing source-backed research records, not emitted mod files or converter support.
+future_periods:
+  ancient: Same categories, with independently sourced bridges from regional prehistory.
+  medieval: Same categories, with independently sourced continuities and changes from antiquity.
+  early_modern: Same categories, with independently sourced regional transitions.
+  industrial: Same categories, including industrial production and political-demographic changes where documented.
+  contemporary: Same categories, including modern territorial and institutional changes where documented.
+mutation_scope:
+  historical_research_files: true
+  native_game_files: false
+  generated_mod_files: false
+  converter: false

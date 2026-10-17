@@ -1,0 +1,83 @@
+schema_version: 1
+period_id: prehistoric
+collected_on: "2026-10-13"
+scope:
+  start: null
+  end_exclusive: "-3000.1.1"
+  temporal_intent: Entire project prehistoric class, with selected archaeological anchors across its phases
+  coverage_level: regional_research_foundation
+  exhaustive_site_inventory: false
+  game_ready: false
+datasets:
+  bookends:
+    records: bookends.yml
+    sources: bookend_sources.yml
+    report: README.md
+  westasia_europe:
+    records: regions/westasia_europe.yml
+    sources: regions/westasia_europe_sources.yml
+    report: reports/WestAsia-Europe.md
+  asia_oceania:
+    records: regions/asia_oceania.yml
+    sources: regions/asia_oceania_sources.yml
+    report: reports/Asia-Oceania.md
+  africa_americas:
+    records: regions/africa_americas.yml
+    sources: regions/africa_americas_sources.yml
+    report: reports/Africa-Americas.md
+  methodology:
+    data: methodology.yml
+    sources: methodology_sources.yml
+legacy:
+  file: 2026-10-13_sites.yml
+  note: Earlier four-record Anatolian batch overlaps the regional dataset; do not count repeated site claims as independent discoveries.
+follow_up_batches:
+  native_2026_10_13:
+    report: ../native-history-requirements/2026-10-13/README.md
+    note: Native-derived historical requirements and nine starter findings; separate from the initial 77-record inventory.
+  regional_2026_10_14:
+    report: batches/2026-10-14/README.md
+    coverage: batches/2026-10-14/coverage-update.yml
+    validation: batches/2026-10-14/validation.yml
+    records: 39
+    source_entries: 29
+    exhaustive: false
+    note: Quantified and phase-specific regional/process evidence; retains full source intervals and boundary contexts.
+research_gaps:
+  coordinates_and_map:
+    priority: 1
+    required: Source-backed coordinates, spatial precision, map geometry containment and a reviewable mapping table for every selected site
+    acceptance: A location ID is assigned only after checking the real game map; regional culture distributions remain separate from point locations.
+  mesopotamian_urbanization:
+    priority: 1
+    required: Uruk-period settlement hierarchy, urban growth, administration, production and writing evidence before 3000 BCE with competing local chronologies
+    existing_anchor: Uruk circa 3200 BCE and a separately catalogued administrative tablet are collected in bookends.yml; territorial reach and demographic estimates remain open.
+    acceptance: Individual phases and sites are dated; institutions or political reach are never inferred solely from shared artifacts.
+  egypt_political_geography:
+    priority: 1
+    required: Badarian and Naqada sequences, regional centers, territorial integration and evidence underlying early ruler identifications
+    acceptance: Site, polity, ruler identification and chronological uncertainty are separate records; later dynastic facts are boundary context.
+  population:
+    priority: 1
+    required: Site-level and regional demographic studies with explicit areas, households, occupancy rates and uncertainty; independently review HYDE allocation assumptions
+    acceptance: Estimates preserve units and scope, and are labeled modeled; relative pop weights are not substituted for absolute totals.
+  languages_and_beliefs:
+    priority: 2
+    required: Evidence-specific discussions of linguistic reconstruction, ritual practice, iconography and burial interpretation
+    acceptance: Archaeological labels are not assigned as ethnicity or named religion without independent support; unknown values remain unknown.
+  conflict_and_defenses:
+    priority: 2
+    required: Dated regional osteological trauma, mass burial, destruction and defensive architecture studies including alternative causes
+    acceptance: Violence, accident, ritual, walls and state warfare are distinguished; armies and named wars require their own evidence.
+  resources_and_exchange:
+    priority: 2
+    required: Dated mine or quarry activity, metallurgy and material-provenance studies; distances and likely routes
+    acceptance: Production origins are separated from imported finds; routes and exchange volumes are labeled by confidence.
+  environmental_geography:
+    priority: 2
+    required: Palaeocoastlines, sea-level history, hydrology, habitat and climate sequences relevant to the chosen map dates
+    acceptance: Mobility and agricultural suitability are checked against the contemporary environment and uncertainty, not modern borders.
+  regional_depth:
+    priority: 2
+    required: More local sequences for Iran, the Aegean, northern/eastern Europe, Central/North Asia, interior Africa and the Americas
+    acceptance: Coverage is recorded by subregion and date interval; absence from this collection is not treated as absence of people.

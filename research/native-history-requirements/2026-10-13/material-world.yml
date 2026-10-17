@@ -1,0 +1,196 @@
+schema_version: 1
+collected_on: '2026-10-13'
+catalogue_id: native_material_world_requirements
+native_root: 'D:/Games/Europa Universalis 5/Europa.Universalis.V.v1.2.5-0xdeadcode/game'
+scope: 'Evidence requirements derived from native EU5 data structures for a prehistoric history layer; this is a research specification, not a claim that the native scenario files themselves encode prehistoric timelines.'
+requirements:
+  - id: settlement_occupancy
+    native_path: 'main_menu/setup/start/07_cities_and_buildings.txt:4-5'
+    native_keys: [locations, rank, town_setup]
+    history_requirement: 'For each archaeological settlement, record the occupied phase, dated start/end range, hiatuses, and confidence independently of the modern game location.'
+    process_requirement: 'Track establishment, growth, contraction, relocation, reoccupation, and abandonment as separate dated states; preserve full source spans.'
+    interpretation_rule: 'Do not infer continuous occupation from a site-name match or a single find.'
+    priority: high
+  - id: settlement_scale
+    native_path: 'in_game/common/location_ranks/00_default.txt:1-13; main_menu/setup/start/07_cities_and_buildings.txt:4-5'
+    native_keys: [rank, rank_modifier, local_population_capacity]
+    history_requirement: 'Record settlement area, density, built footprint, function, and source method before assigning a comparable scale category.'
+    process_requirement: 'Allow scale to rise or fall by phase rather than inheriting one rank over a millennia-long date range.'
+    interpretation_rule: 'Archaeological village, camp, ceremonial site, and urban center need not map one-to-one to native ranks.'
+    priority: high
+  - id: settlement_facilities
+    native_path: 'in_game/common/town_setups/00_default.txt:1-11; main_menu/setup/start/07_cities_and_buildings.txt:4-5'
+    native_keys: [town_setup, brewery, temple, tools_guild, weapon_guild, marketplace]
+    history_requirement: 'Document excavated activity areas and structures, their functions, dating, rebuild episodes, and uncertainty.'
+    process_requirement: 'Record when facilities appear, change function, expand, or cease use; distinguish domestic production from centralized workshops.'
+    interpretation_rule: 'A modern building key is only a later analogy; it is not proof that an archaeological structure had the same institutional role.'
+    priority: high
+  - id: population_structure
+    native_path: 'main_menu/setup/start/06_pops.txt:1-10'
+    native_keys: [locations, define_pop, type, size, culture, religion]
+    history_requirement: 'Store estimated population separately from demographic composition, with site area, house count, occupation duration, assumptions, and uncertainty interval.'
+    process_requirement: 'Represent population growth, decline, movement, and changing composition by dated phase, including unknown intervals.'
+    interpretation_rule: 'Native pop proportions are not direct archaeological counts; do not invent culture, religion, or social class from artifacts alone.'
+    priority: high
+  - id: population_mobility
+    native_path: 'main_menu/setup/start/06_pops.txt:1-10; in_game/common/location_ranks/00_default.txt:4-15'
+    native_keys: [define_pop, size, local_population_capacity, local_food_capacity]
+    history_requirement: 'Require dated mobility evidence such as strontium/oxygen isotopes, aDNA, settlement sequence, or securely sourced raw materials, with geographic scale stated.'
+    process_requirement: 'Separate individual mobility, community migration, seasonal movement, and population expansion; record origins, destinations, timing, and uncertainty.'
+    interpretation_rule: 'A movement signal does not by itself establish language, ethnicity, conquest, or state borders.'
+    priority: high
+  - id: local_resources
+    native_path: 'in_game/common/goods/00_raw_materials.txt:2-9; main_menu/setup/start/21_locations.txt:7'
+    native_keys: [method, category, default_market_price, modifier]
+    history_requirement: 'For a material, record geological occurrence, extraction evidence, production debris, processing, and source provenance as separate claims.'
+    process_requirement: 'Date first exploitation, intensity changes, interruption, and renewed use; locate the extraction site rather than the exchange destination.'
+    interpretation_rule: 'An imported object or traded good does not prove local extraction or production.'
+    priority: high
+  - id: production_chains
+    native_path: 'in_game/common/production_methods/village_production_methods.txt:1-9'
+    native_keys: [produced, output, iron, category]
+    history_requirement: 'Document input material, transformation sequence, tools/facilities, output class, scale, and evidence such as residues, waste, or installations.'
+    process_requirement: 'Track transitions between household, specialist, and larger-scale production without assuming that a later method existed earlier.'
+    interpretation_rule: 'A game production method is an abstract recipe; map archaeological processes only when each step has evidence.'
+    priority: high
+  - id: domestication_sequence
+    native_path: 'in_game/common/advances/0_age_of_traditions.txt:161-173; in_game/common/goods/00_raw_materials.txt:2-9'
+    native_keys: [agriculture_advance, requires, method, category]
+    history_requirement: 'Keep wild gathering, cultivation, animal management, morphological domestication, and fully domestic production as distinct statuses.'
+    process_requirement: 'Date onset, persistence, geographic spread, local adoption, and abandonment independently for each crop and animal.'
+    interpretation_rule: 'One seed, bone, or phytolith occurrence does not prove regional farming or a domesticated population.'
+    priority: high
+  - id: seasonality_and_subsistence
+    native_path: 'in_game/common/goods/00_raw_materials.txt:2-9; main_menu/setup/start/06_pops.txt:3-10'
+    native_keys: [method, category, define_pop]
+    history_requirement: 'Record seasonal resource use, dietary contribution, storage, and complementary subsistence strategies from faunal/floral, isotopic, and contextual evidence.'
+    process_requirement: 'Allow mixed economies and seasonal shifts to coexist; date the transition rather than assigning a single permanent economy.'
+    interpretation_rule: 'Presence of a crop or domestic animal does not establish subsistence dominance.'
+    priority: medium
+  - id: markets
+    native_path: 'main_menu/setup/start/03_markets.txt:1-8'
+    native_keys: [market_manager, add_market]
+    history_requirement: 'Identify actual exchange hubs, catchment, participation, goods, and date from evidence such as weights, seals, imported goods, or distribution patterns.'
+    process_requirement: 'Track emergence, relocation, seasonal operation, expansion, and decline of exchange centers.'
+    interpretation_rule: 'A native market is a gameplay construct; archaeological exchange need not mean a formal market or currency economy.'
+    priority: high
+  - id: exchange_networks
+    native_path: 'main_menu/setup/start/03_markets.txt:1-8; in_game/common/goods/00_raw_materials.txt:2-9'
+    native_keys: [add_market, transport_cost, origin_in_old_world]
+    history_requirement: 'Record source provenance, find location, direction, route alternatives, chronology, and frequency/volume proxy for each exchange claim.'
+    process_requirement: 'Represent network expansion, rerouting, interruption, and contraction as dated edges; distinguish direct contact from down-the-line circulation.'
+    interpretation_rule: 'A find from a distant source does not identify a named trader, political control, or a single route.'
+    priority: high
+  - id: roads_and_corridors
+    native_path: 'main_menu/setup/start/09_roads.txt:2-10; in_game/common/road_types/00_generic.txt:1-9'
+    native_keys: [road_network, gravel_road, movement_cost, market_access]
+    history_requirement: 'Require dated route surfaces, waystations, repeated movement traces, or independently sourced connection between endpoint places.'
+    process_requirement: 'Date route establishment, maintenance, use intensity, bypass, and abandonment; include water/coastal corridors where evidence supports them.'
+    interpretation_rule: 'A reconstructed least-cost path is a hypothesis, not an excavated road.'
+    priority: high
+  - id: craft_and_material_technology
+    native_path: 'in_game/common/advances/0_age_of_traditions.txt:4-14; in_game/common/production_methods/village_production_methods.txt:1-9'
+    native_keys: [written_alphabet, starting_technology_level, produced, output]
+    history_requirement: 'Capture material, technique, artifact context, earliest secure occurrence, repeated local production, and specialist skill evidence.'
+    process_requirement: 'Separate invention, first attestation, sustained local manufacture, adoption by other communities, and disappearance.'
+    interpretation_rule: 'A single artifact is not a regional technology level or evidence that all communities used it.'
+    priority: high
+  - id: advance_adoption
+    native_path: 'in_game/common/advances/0_age_of_traditions.txt:1-29'
+    native_keys: [age, requires, starting_technology_level, written_alphabet, cultural_traditions_law_advance]
+    history_requirement: 'Research prerequisite practices, first use, continuity, local adoption, and spread for each candidate technology/institution.'
+    process_requirement: 'Model uptake as place- and time-specific, potentially uneven and reversible, not a single invention date.'
+    interpretation_rule: 'The native advance catalog is a gameplay abstraction and does not define prehistoric universal stages.'
+    priority: high
+  - id: institutions_and_diffusion
+    native_path: 'in_game/common/institution/age_1_traditions_institutions.txt:1-10; main_menu/setup/start/02_core.txt:1-15; main_menu/setup/start/08_institutions.txt:1-5'
+    native_keys: [can_spawn, promote_chance, birth_place, active]
+    history_requirement: 'Establish the earliest supported center, diagnostic evidence, geographic spread, and regional arrival ranges for an institution or organized practice.'
+    process_requirement: 'Track birthplace separately from diffusion, selective adoption, interruption, and decline.'
+    interpretation_rule: 'An institution label should not be assigned to a prehistoric community from a single monument or artifact.'
+    priority: high
+  - id: resource_processing_and_trade
+    native_path: 'in_game/common/goods/00_raw_materials.txt:2-9; in_game/common/production_methods/village_production_methods.txt:1-9'
+    native_keys: [category, default_market_price, produced, output]
+    history_requirement: 'Keep extraction, processing, finished product, and distribution as different stages with evidence and locations.'
+    process_requirement: 'Date changes in production scale and material circulation independently; record source-to-find links.'
+    interpretation_rule: 'A high-value game good does not establish prehistoric value, currency, or centralized trade.'
+    priority: medium
+  - id: political_authority
+    native_path: 'main_menu/setup/start/10_countries.txt:1,15-22; main_menu/setup/start/16_wars.txt:1'
+    native_keys: [current_age, countries, own_control_core, government, ruler, attacker, defender]
+    history_requirement: 'Require positive evidence for named or inferable authority, center, reach, and dates; record competing interpretations and areas not attributable.'
+    process_requirement: 'Track emergence, consolidation, fragmentation, succession, expansion, and loss of control separately.'
+    interpretation_rule: 'Archaeological culture, stylistic region, or settlement network is not itself a country or sovereign border.'
+    priority: high
+  - id: governance_and_law
+    native_path: 'in_game/common/laws/01_military_laws.txt:2-15; in_game/common/government_reforms/monarchy.txt:12-26; in_game/common/town_rights/11_scandinavian.txt:6-23; main_menu/setup/start/24_town_rights.txt:1'
+    native_keys: [recruitment_law, expanded_levies_policy, feudal_nobility, scandinavian_fishing_privileges, location_modifier, potential, allow, years]
+    history_requirement: 'Seek explicit legal texts, administrative practice, local rights/privileges, institutional settings, and geographic/jurisdictional scope.'
+    process_requirement: 'Record promulgation, attested use, revision, enforcement, and replacement separately.'
+    interpretation_rule: 'A surviving law text does not show universal compliance or population-wide enforcement.'
+    priority: medium
+  - id: military_organization
+    native_path: 'main_menu/setup/start/27_armies.txt:2-11; main_menu/setup/start/16_wars.txt:1'
+    native_keys: [unit_manager, army, country, location, sub_units, morale, leader, war_manager]
+    history_requirement: 'Require evidence for organized force, command relationships, recruitment, logistics, and scale before representing an army.'
+    process_requirement: 'Track formation, seasonal mobilization, demobilization, institutionalization, and regional spread.'
+    interpretation_rule: 'Weapon finds, mass burials, or fortifications alone do not yield army sizes, named states, or standing forces.'
+    priority: high
+  - id: military_technology
+    native_path: 'in_game/common/unit_types/00_age_templates_land.txt:9-14,66-75; in_game/common/advances/0_age_of_traditions.txt:4-14'
+    native_keys: [category, age, starting_technology_level, requires]
+    history_requirement: 'Date weapon manufacture/use, tactical context, and distribution, not merely first discovery of a similar object.'
+    process_requirement: 'Track invention, local production, adoption, tactical use, and obsolescence across groups and periods.'
+    interpretation_rule: 'Do not infer native unit categories or uniform military capabilities from isolated equipment.'
+    priority: high
+  - id: conflict_events
+    native_path: 'main_menu/setup/start/16_wars.txt:1 and participant/date/objective blocks'
+    native_keys: [war_manager, start_date, action, attacker, defender, reason]
+    history_requirement: 'Separate direct violence evidence, fortified-place evidence, destruction, and written accounts; identify source limits and actors only where supported.'
+    process_requirement: 'Distinguish event date, duration, local impact, recurrence, expansion, and recovery.'
+    interpretation_rule: 'Violence evidence can reflect interpersonal conflict, execution, ritual, accident, or warfare; test alternatives.'
+    priority: high
+  - id: ecology_climate_series
+    native_path: 'in_game/common/climates/00_default.txt:1-12; in_game/common/vegetation/00_default.txt:1-14 (local_food_capacity at 11-13); in_game/common/topography/00_default.txt:5-14'
+    native_keys: [winter, location_modifier, local_population_capacity, local_food_capacity, movement_cost]
+    history_requirement: 'Use dated local proxy series (pollen, sediment, isotopes, charcoal, shoreline) with resolution, calibration, and geographic footprint.'
+    process_requirement: 'Track environmental change and human response independently so correlation is not reported as causation.'
+    interpretation_rule: 'Modern static climate/terrain values are not prehistoric conditions; model spatial uncertainty.'
+    priority: high
+  - id: disease_and_resistance
+    native_path: 'in_game/common/diseases/bubonic_plague.txt:1-15; main_menu/setup/start/19_diseases.txt:1-20'
+    native_keys: [monthly_spawn_chance, disease_outbreak_manager, add_disease_outbreak, infected, origin, add_disease_resistance]
+    history_requirement: 'Require pathogen/parasite identification, host, dated sample context, affected place, diagnostic method, and uncertainty.'
+    process_requirement: 'Separate isolated infection evidence from outbreak, transmission route, regional spread, recurrence, and population impact.'
+    interpretation_rule: 'One ancient pathogen genome does not establish an epidemic, pandemic, or demographic collapse.'
+    priority: high
+  - id: art_and_object_biography
+    native_path: 'main_menu/setup/start/11_art.txt:1-8; in_game/common/artist_work/00_default.txt:1-12'
+    native_keys: [work_of_art_manager, location, origin, quality, creation_date, key, captured]
+    history_requirement: 'Record medium, technique, context, deposition, date method, production place, find place, and provenance separately.'
+    process_requirement: 'Track creation, reuse, transfer, capture, repair, concealment, and loss where evidence permits.'
+    interpretation_rule: 'Visual narrative and object provenance do not by themselves identify language, religion, ethnicity, or historical event.'
+    priority: medium
+  - id: belief_and_ritual_practice
+    native_path: 'main_menu/setup/start/02_core.txt:18-45; main_menu/setup/start/11_art.txt:1-8'
+    native_keys: [religion_manager, relation, location, origin]
+    history_requirement: 'Describe observable ritual setting, repeated practice, deposition, and evidence for shared meaning; preserve competing explanations.'
+    process_requirement: 'Track change and spatial spread only when repeated dated evidence supports it.'
+    interpretation_rule: 'Do not turn burials, monuments, or figurines into named religions or gods without independent evidence.'
+    priority: medium
+  - id: settlement_coastal_adaptation
+    native_path: 'main_menu/setup/start/07_cities_and_buildings.txt:4-5; main_menu/setup/start/09_roads.txt:2-10'
+    native_keys: [rank, town_setup, road_network]
+    history_requirement: 'Record shoreline position, water-management/defense structures, settlement proximity, and sea-level evidence on linked but separate timelines.'
+    process_requirement: 'Track construction, repair, altered use, relocation, and abandonment; model inundation as gradual or episodic only when supported.'
+    interpretation_rule: 'A coastal wall can be flood/wave defense without being a military fortification.'
+    priority: high
+  - id: date_resolution_and_provenance
+    native_path: 'main_menu/setup/start/11_art.txt:3-8; main_menu/setup/start/16_wars.txt: date and action keys'
+    native_keys: [creation_date, start_date, action]
+    history_requirement: 'Store original reported notation, dating method, sample/context, full range, calibration state, and source locator for every dated claim.'
+    process_requirement: 'Keep event date, object date, site phase, and research cutoff distinct; never clip a cross-boundary source range.'
+    interpretation_rule: 'Do not convert uncal BP, generic years-ago, or minimum ages into exact BCE dates by arithmetic.'
+    priority: high
+

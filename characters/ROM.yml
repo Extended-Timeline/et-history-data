@@ -1,6 +1,6 @@
 rom_augustus_julio_claudian:
-  -28.1.1:
-    birth: rome #TODO: Date and location guessed, check if better data is available
+  -63.9.23: #Suetonius, Augustus 5.1; conventional Roman-calendar date
+    birth: rome #Source: research/ancient/2026-10-13_rome_and_east.yml, augustus_birth
     first_name: augustus
     dynasty: julio_claudian_dynasty
     adm: 60
@@ -12,8 +12,8 @@ rom_augustus_julio_claudian:
   14.9.18:
     death: yes
 rom_tiberius_julio_claudian:
-  -16.1.1:
-    birth: rome #TODO: Date and location guessed, check if better data is available
+  -42.11.16: #Suetonius, Tiberius 5.1; preferred account, competing years noted
+    birth: rome #Source: research/ancient/2026-10-13_rome_and_east.yml, tiberius_birth
     first_name: tiberius
     dynasty: julio_claudian_dynasty
     adm: 60
@@ -29,7 +29,7 @@ rom_caligula_julio_claudian:
     birth: rome #TODO: Location guessed, check if better data is available
     first_name: caligula
     dynasty: julio_claudian_dynasty
-    father: rom_tiberius_julio_claudian #TODO: check if this makes sense
+    #Father was Germanicus, not Tiberius: Suetonius, Caligula 7–8.
     adm: 30
     dip: 45
     mil: 60
@@ -39,8 +39,8 @@ rom_caligula_julio_claudian:
   41.1.24:
     death: yes
 rom_caligula_julio_claudian_1:
-  7.1.1:
-    birth: rome #TODO: Date and location guessed, check if better data is available
+  12.8.31: #Suetonius, Caligula 8.1; see caligula_birth research record
+    birth: rome #TODO: Source favors Antium; replace this old approximation after location mapping
     first_name: caligula
     dynasty: julio_claudian_dynasty
     adm: 30
@@ -52,11 +52,11 @@ rom_caligula_julio_claudian_1:
   41.1.24:
     death: yes
 rom_claudius_julio_claudian:
-  2.1.1:
-    birth: rome #TODO: Date and location guessed, check if better data is available
+  -10.8.1: #Suetonius, Claudius 2.1; consular year normalized to ET
+    birth: lyon #Lugdunum; source: research/ancient/2026-10-13_rome_and_east.yml, claudius_birth
     first_name: claudius
     dynasty: julio_claudian_dynasty
-    father: rom_caligula_julio_claudian_1 #TODO: check if this makes sense
+    #Father was Drusus, not Caligula: Suetonius, Claudius 1.1 and 1.6.
     adm: 75
     dip: 30
     mil: 45
@@ -66,8 +66,8 @@ rom_claudius_julio_claudian:
   54.10.13:
     death: yes
 rom_claudius_julio_claudian_1:
-  11.1.1:
-    birth: rome #TODO: Date and location guessed, check if better data is available
+  -10.8.1: #Suetonius, Claudius 2.1; consular year normalized to ET
+    birth: lyon #Lugdunum; same emperor as the existing non-suffixed ID
     first_name: claudius
     dynasty: julio_claudian_dynasty
     adm: 75

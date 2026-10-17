@@ -1,0 +1,101 @@
+schema_version: 1
+period_id: prehistoric
+collected_on: '2026-10-13'
+records:
+  asr_catalhoyuk_copper_finds:
+    entity: archaeological_site
+    subject: copper_based_metallic_finds
+    finding: A concentration of metallic finds from Çatalhöyük levels South M–O is dated to approximately 6600–6450
+      BC. The chapter reviews copper-based objects and preliminary analyses; their presence does not by itself
+      establish local smelting or manufacture.
+    dating:
+      precision: range
+      earliest_year: -6600
+      latest_year: -6450
+      approximate: true
+      calibrated: null
+      reported_range: c.6600–6450 BC
+    source_refs:
+    - id: asr_src_catalhoyuk_metal
+      locator: Abstract; metallic finds concentration South M-O
+    confidence: medium
+    integration:
+      status: collected
+      note: Site-level metal-object evidence. Verify artifact treatment, origins and manufacturing evidence
+        before projecting a production activity or advance; no game location ID is assigned.
+    addresses_comparison_gaps:
+    - tech_level
+    - advance_catalog
+  asr_hamoukar_sling_battle:
+    entity: archaeological_site
+    subject: destruction_and_projectiles
+    finding: Excavators at Hamoukar interpreted a destruction horizon around 3500 BCE as evidence of a fierce
+      battle; sling bullets occurred at manufacture, use and impact stages, including an impact-damaged projectile.
+      The aggressor is not identified, and sling bullets at other sites can also relate to hunting, so this
+      remains site-specific interpretive evidence.
+    dating:
+      precision: year
+      year: -3500
+      approximate: true
+      reported_date: about 3500 B.C.
+    source_refs:
+    - id: asr_src_hamoukar_battle
+      locator: Opening paragraphs; excavation director’s quoted interpretation
+    confidence: medium
+    integration:
+      status: collected
+      note: Do not infer state, army size, named belligerents or universal warfare technology.
+    addresses_comparison_gaps:
+    - land_units
+    - wars
+  asr_hamoukar_obsidian_production:
+    entity: archaeological_site
+    subject: obsidian_manufacture_and_exchange
+    finding: At Hamoukar, excavators reported obsidian fragments across an area of more than 700 acres, dated
+      to 4500–4000 BC using associated pottery, and obsidian cores and blade-production debris. The excavation
+      team proposed specialized mass production for trade as a possible driver of northern urban development;
+      the finds do not quantify trade volume or identify every exchange partner.
+    dating:
+      precision: range
+      earliest_year: -4500
+      latest_year: -4000
+      approximate: true
+      calibrated: null
+      reported_range: 4500–4000 BC; dated using associated pottery
+    source_refs:
+    - id: asr_src_hamoukar_battle
+      locator: Report paragraphs on obsidian fragments, associated pottery dating, and specialized production
+        for trade
+    confidence: medium
+    integration:
+      status: collected
+      note: Distinct from the existing Uruk barley-tablet record. Candidate settlement/economic activity; no
+        invented route edges or trade quantities.
+    addresses_comparison_gaps:
+    - lpg_production_methods
+    - trade_and_economy
+  asr_ur_standard_onager_vehicles:
+    entity: archaeological_object
+    subject: elite_war_imagery_and_wheeled_vehicles
+    finding: The British Museum dates the Standard of Ur to 2550–2400 BC and describes the war-side vehicles
+      as drawn by teams of four onagers. This is evidence for military imagery and wheeled vehicles in southern
+      Mesopotamia well after the project’s prehistoric cutoff; it does not establish how common the vehicles
+      were or their precise battlefield role.
+    dating:
+      precision: range
+      earliest_year: -2550
+      latest_year: -2400
+      approximate: true
+      calibrated: null
+      reported_range: 2550–2400 BC
+    scope: boundary_context
+    source_refs:
+    - id: asr_src_standard_ur
+      locator: Object date and War side description
+    confidence: medium
+    integration:
+      status: collected
+      note: Ancient-period boundary context, not a prehistoric fact. Keep the museum’s vehicle interpretation
+        explicit.
+    addresses_comparison_gaps:
+    - land_units

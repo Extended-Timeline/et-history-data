@@ -25,14 +25,14 @@
   government_power: 40
   inflation: 1
   estate_satisfaction:
-    nobles_estate: { satisfaction
-    clergy_estate: { satisfaction
-    burghers_estate: { satisfaction
+    nobles_estate: 0
+    clergy_estate: 0
+    burghers_estate: 0
   spiritualist_vs_humanist: 50
 
 #imported from EU4
 2.1.1:
-  government: indian_muslim_monarchy
+  government: et_tribal_federation
   #color: rgb { 157  200  42 }
   religion: sunni
   primary_culture: kannauji

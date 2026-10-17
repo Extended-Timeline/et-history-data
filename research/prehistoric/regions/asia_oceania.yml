@@ -1,0 +1,534 @@
+schema_version: 1
+period_id: prehistoric
+collected_on: '2026-10-13'
+records:
+  aso_india_jwalapuram_toba:
+    entity: Jwalapuram Locality 22, India
+    subject: lithic_sequence
+    finding: More than 1,600 Middle Palaeolithic artefacts occur beneath tephra correlated with the approximately
+      74 ka Toba eruption; tool continuity across ash is evidence for occupation but does not identify the
+      makers as Homo sapiens.
+    dating:
+      precision: relative
+      value: 74000
+      unit: years_ago
+      reference_year: null
+      calibrated: null
+      approximate: true
+    source_refs:
+    - id: aso_src_jwalapuram
+      locator: Abstract and chronology
+    confidence: medium
+    integration:
+      status: collected
+      note: Toba-era attribution and hominin identity are debated; native ka BP is retained without conversion.
+  aso_india_dhaba_sequence:
+    entity: Dhaba, Middle Son Valley, India
+    subject: lithic_sequence
+    finding: Excavated deposits record occupation spanning the Toba eruption and later technological change
+      from Levallois to microlithic assemblages.
+    dating:
+      precision: relative
+      earliest_value: 80000
+      latest_value: 65000
+      unit: years_ago
+      reference_year: null
+      calibrated: null
+      approximate: true
+    source_refs:
+    - id: aso_src_dhaba
+      locator: Abstract and site chronology
+    confidence: medium
+    integration:
+      status: collected
+      note: Preserve the reported date model and broad range from the study; do not equate lithic assemblages
+        with a named population.
+  aso_southasia_cave_foragers:
+    entity: Fa-Hien Lena, Sri Lanka
+    subject: bone_tools_and_foraging
+    finding: Bone-tool analysis at Fa-Hien Lena identifies hunting implements interpreted as arrow points alongside
+      other tools and symbolic objects from contexts reaching approximately 48,000 BP; the interpretation concerns
+      excavated assemblages, not a regional polity.
+    dating:
+      precision: bp
+      value: 48000
+      unit: years
+      reference_year: 1950
+      calibrated: null
+      approximate: true
+    source_refs:
+    - id: aso_src_fahien_2020
+      locator: 'Abstract: hunting toolkit and symbolic repertoire at Fa-Hien Lena'
+    confidence: medium
+    integration:
+      status: collected
+      note: Primary study replaces the earlier regional secondary citation; do not generalize the technology
+        to all Sri Lankan sites. Full dating tables need review before precise calendar mapping.
+  aso_mehrgarh_aceramic:
+    entity: Mehrgarh, Period I, Balochistan
+    subject: settlement_and_farming
+    finding: UNESCO's site sequence describes Period I as an aceramic settlement with small mudbrick storage
+      structures and evidence for cattle and barley domestication.
+    dating:
+      precision: range
+      earliest_year: -7000
+      latest_year: -5500
+      approximate: true
+    source_refs:
+    - id: aso_src_mehrgarh
+      locator: Period I, MR3
+    confidence: medium
+    integration:
+      status: collected
+      note: UNESCO tentative-list page uses this phase chronology; newer dating discussions exist, so keep
+        approximate and avoid a single exact foundation year.
+  aso_mehrgarh_ceramics:
+    entity: Mehrgarh, Period IB
+    subject: ceramics_and_craft
+    finding: Ceramic Neolithic occupation at Mehrgarh is assigned approximately 6000–5500 BCE in UNESCO's phase
+      table.
+    dating:
+      precision: range
+      earliest_year: -6000
+      latest_year: -5500
+      approximate: true
+    source_refs:
+    - id: aso_src_mehrgarh
+      locator: Period IB, MR3
+    confidence: medium
+    integration:
+      status: collected
+      note: A phased archaeological site, not a polity or ethnic label.
+  aso_mehrgarh_expansion:
+    entity: Mehrgarh, Period II
+    subject: settlement_and_craft
+    finding: By Period II the settlement is described as a substantial village with a distinctive craft zone;
+      UNESCO associates its development with changing subsistence and craft specialization.
+    dating:
+      precision: range
+      earliest_year: -5500
+      latest_year: -4500
+      approximate: true
+    source_refs:
+    - id: aso_src_mehrgarh
+      locator: Period II, MR4
+    confidence: medium
+    integration:
+      status: collected
+      note: Do not infer city status, political hierarchy or population size from settlement scale alone.
+  aso_indus_early_regionalization:
+    entity: Greater Indus region
+    subject: settlement_networks
+    finding: A published synthesis treats the Early Food Producing phase (about 7000–5500 BCE) and later regionalization
+      (about 5500–2600 BCE) as long, diverse Indus traditions rather than a single uniform state.
+    dating:
+      precision: range
+      earliest_year: -5500
+      latest_year: -2600
+      approximate: true
+    source_refs:
+    - id: aso_src_indus
+      locator: Table 1, Indus Tradition phases
+    confidence: medium
+    integration:
+      status: collected
+      note: Range crosses cutoff; retain full reported range separately and restrict this class to evidence
+        on or before 3000 BCE.
+    reported_range:
+      earliest_year: -5500
+      latest_year: -2600
+      approximate: true
+    scope: crosses_boundary
+    research_window:
+      end_exclusive: -3000.1.1
+  aso_shangshan_rice:
+    entity: Shangshan culture sites, lower Yangtze
+    subject: plant_use
+    finding: Phytolith and harvesting-tool studies document early rice use, with cultivation and domestication
+      interpreted as a prolonged process rather than a single event.
+    dating:
+      precision: bp
+      earliest_value: 10000
+      latest_value: 8200
+      unit: calibrated_years_before_present
+      reference_year: 1950
+      calibrated: true
+      approximate: true
+    source_refs:
+    - id: aso_src_shangshan
+      locator: Abstract; early Shangshan phase
+    confidence: medium
+    integration:
+      status: collected
+      note: Source reports ranges around 10,000–8,200 cal BP; this anchor is approximate and not a claim that
+        fully domesticated rice existed everywhere.
+  aso_shangshan_pottery:
+    entity: Shangshan sites, lower Yangtze
+    subject: ceramics
+    finding: Pottery vessels are present in early Holocene Shangshan contexts associated with rice exploitation,
+      showing that pottery and plant management do not map onto one universal Neolithic sequence.
+    dating:
+      precision: bp
+      earliest_value: 10000
+      latest_value: 8200
+      unit: calibrated_years_before_present
+      reference_year: 1950
+      calibrated: true
+      approximate: true
+    source_refs:
+    - id: aso_src_shangshan
+      locator: Abstract
+    confidence: medium
+    integration:
+      status: collected
+      note: Broad regional archaeological association; avoid assigning all vessels to fermenting or a specific
+        social practice.
+  aso_jiahu_rice:
+    entity: Jiahu, Henan
+    subject: agriculture_and_food_processing
+    finding: The Penn Museum research account describes rice remains at Jiahu and rice identified in pottery
+      residues, while questions about the domestication status of the early rice require independent archaeobotanical
+      review.
+    dating:
+      precision: range
+      earliest_year: -7000
+      latest_year: -6600
+      approximate: true
+    source_refs:
+    - id: aso_src_jiahu
+      locator: 'Project overview and description: Jiahu rice and residue analysis'
+    confidence: medium
+    integration:
+      status: collected
+      note: Date is a broad calibrated archaeological phase; domestication status of early rice remains debated.
+  aso_jiahu_fermented_beverage:
+    entity: Jiahu pottery residues, Henan
+    subject: food_processing
+    finding: Chemical analysis of pottery identified a mixed fermented beverage made from rice, honey and fruit
+      in contexts dated approximately 7000–6600 BCE.
+    dating:
+      precision: range
+      earliest_year: -7000
+      latest_year: -6600
+      approximate: true
+    source_refs:
+    - id: aso_src_jiahu
+      locator: Residue analysis project summary
+    confidence: medium
+    integration:
+      status: collected
+      note: Evidence concerns selected pottery residues, not a generalized beverage economy.
+  aso_liangzhu_city:
+    entity: Liangzhu archaeological complex, lower Yangtze
+    subject: settlement_and_water_management
+    finding: The Liangzhu complex (approximately 3300–2300 BCE) includes an urban center, water-management
+      works and a hierarchy of settlements within a rice-based regional society.
+    dating:
+      precision: range
+      earliest_year: -3300
+      latest_year: -2300
+      approximate: true
+    source_refs:
+    - id: aso_src_liangzhu
+      locator: Description and criteria
+    confidence: high
+    integration:
+      status: collected
+      note: Full span crosses 3000 BCE; clipped analysis to 3300–3000 BCE must preserve the reported 3300–2300
+        BCE span.
+    reported_range:
+      earliest_year: -3300
+      latest_year: -2300
+      approximate: true
+    scope: crosses_boundary
+    research_window:
+      end_exclusive: -3000.1.1
+  aso_liangzhu_ritual_jade:
+    entity: Liangzhu culture, lower Yangtze
+    subject: ritual_and_social_differentiation
+    finding: UNESCO describes jade objects from altar-tomb sites and social differentiation as evidence for
+      a shared ritual system in this late Neolithic regional center.
+    dating:
+      precision: range
+      earliest_year: -3300
+      latest_year: -2300
+      approximate: true
+    source_refs:
+    - id: aso_src_liangzhu
+      locator: Criteria iii and site description
+    confidence: high
+    integration:
+      status: collected
+      note: Archaeological interpretation supports ritual evidence, not named deities, doctrines or a recoverable
+        polity tag.
+    reported_range:
+      earliest_year: -3300
+      latest_year: -2300
+      approximate: true
+    scope: crosses_boundary
+    research_window:
+      end_exclusive: -3000.1.1
+  aso_korea_neolithic:
+    entity: Korean Peninsula
+    subject: pottery_and_subsistence
+    finding: National Museum of Korea dates its broad Neolithic period from about 8000 to 1500 BCE and describes
+      stone and bone tools and the earliest pottery.
+    dating:
+      precision: range
+      earliest_year: -8000
+      latest_year: -1500
+      approximate: true
+    source_refs:
+    - id: aso_src_korea
+      locator: Neolithic Period
+    confidence: high
+    integration:
+      status: collected
+      note: Broad period crosses cutoff; use no unified political entity or agricultural start date from this
+        period label.
+    reported_range:
+      earliest_year: -8000
+      latest_year: -1500
+      approximate: true
+    scope: crosses_boundary
+    research_window:
+      end_exclusive: -3000.1.1
+  aso_jomon_early_pottery:
+    entity: Japanese archipelago, Jomon contexts
+    subject: pottery_and_settlement
+    finding: Tokyo National Museum identifies Jomon as a pottery-defined archaeological period and displays
+      Natsushima pottery dated 7000–4000 BCE.
+    dating:
+      precision: range
+      earliest_year: -7000
+      latest_year: -4000
+      approximate: true
+    source_refs:
+    - id: aso_src_japan
+      locator: Japanese Archaeology Gallery, Natsushima Deep Bowl
+    confidence: high
+    integration:
+      status: collected
+      note: Range crosses cutoff; Jomon subsistence varied, so pottery is not evidence by itself of farming
+        or a state.
+    reported_range:
+      earliest_year: -7000
+      latest_year: -4000
+      approximate: true
+  aso_centralasia_jeitun:
+    entity: Jeitun, southern Turkmenistan
+    subject: agriculture_and_villages
+    finding: Excavation synthesis identifies Jeitun as an early agricultural settlement with rectangular houses,
+      ceramics, domestic barley and wheat, and sheep; it interprets settled farming as introduced into the
+      region.
+    dating:
+      precision: range
+      earliest_year: -6000
+      latest_year: -5000
+      approximate: true
+    source_refs:
+    - id: aso_src_jeitun
+      locator: Djeitun sequence and early settlement
+    confidence: medium
+    integration:
+      status: collected
+      note: Approximate phase anchor; regional diffusion does not establish a migration route or political
+        border.
+  aso_siberia_malta:
+    entity: Mal'ta, Baikal Siberia
+    subject: paleolithic_settlement
+    finding: The museum essay describes subterranean houses made with large animal bones and reindeer antler
+      at Mal’ta, within a Siberian Upper Palaeolithic tradition placed around 20,000 BCE.
+    dating:
+      precision: year
+      year: -20000
+      approximate: true
+    source_refs:
+    - id: aso_src_malta_met
+      locator: Mal’ta essay, circa-20000-BCE traditions and subterranean houses
+    confidence: medium
+    integration:
+      status: collected
+      note: Source-backed site architecture; no numeric population, exact founding date or continuous occupation
+        is inferred.
+  aso_siberia_malta_art:
+    entity: Mal'ta, Baikal Siberia
+    subject: material_culture
+    finding: The museum essay illustrates a mammoth-ivory female figurine from Mal’ta dated approximately 21,000
+      BCE, an example of portable art.
+    dating:
+      precision: year
+      year: -21000
+      approximate: true
+    source_refs:
+    - id: aso_src_malta_met
+      locator: Mal’ta essay, illustrated mammoth-ivory figurine
+    confidence: medium
+    integration:
+      status: collected
+      note: A dated artifact does not identify a language, ethnicity or specific belief system.
+  aso_southeastasia_hoabinhian:
+    entity: Mainland Southeast Asia Hoabinhian techno-complex
+    subject: lithic_technology
+    finding: A regional lithic synthesis characterizes Hoabinhian assemblages as a variable hunter-gatherer
+      technocomplex, broadly late Pleistocene to middle Holocene, with incomplete and uneven archaeological
+      coverage.
+    dating:
+      precision: bp
+      earliest_value: 30000
+      latest_value: 5000
+      unit: years
+      reference_year: 1950
+      calibrated: null
+      approximate: true
+    source_refs:
+    - id: aso_src_hoabinhian
+      locator: 'Abstract, final paragraph: circa-30000–5000-years-BP regional technocomplex'
+    confidence: medium
+    integration:
+      status: collected
+      note: The label denotes an archaeological assemblage, not a people or language; site chronologies vary.
+  aso_laang_spean:
+    entity: Laang Spean Cave, Cambodia
+    subject: lithic_sequence
+    finding: Hoabinhian-associated deposits at Laang Spean are dated approximately 11,000–5,000 BP between
+      older Palaeolithic and younger Neolithic levels.
+    dating:
+      precision: relative
+      earliest_value: 11000
+      latest_value: 5000
+      unit: years_ago
+      reference_year: null
+      calibrated: null
+      approximate: true
+    source_refs:
+    - id: aso_src_laang
+      locator: Abstract, stratigraphic sequence
+    confidence: medium
+    integration:
+      status: collected
+      note: Keep source BP scale; do not treat a technocomplex span as continuous occupation at every site.
+  aso_thailand_spirit_cave:
+    entity: Spirit Cave, northwestern Thailand
+    subject: mixed_subsistence
+    finding: Thailand's archaeological site database describes a sequence around 13,000–7,500 years ago, including
+      upper layers with pottery, polished stone and plant remains that may indicate cultivation.
+    dating:
+      precision: relative
+      earliest_value: 13000
+      latest_value: 7500
+      unit: years_ago
+      reference_year: null
+      calibrated: null
+      approximate: true
+    source_refs:
+    - id: aso_src_spirit
+      locator: Spirit Cave site entry
+    confidence: medium
+    integration:
+      status: collected
+      note: The source presents cultivation as a possibility; retain mixed foraging evidence and reported BP
+        units.
+  aso_newguinea_kuk_early_use:
+    entity: Kuk Swamp, New Guinea Highlands
+    subject: wetland_management
+    finding: Excavations document human manipulation of wetland margins and plant exploitation from approximately
+      10,000 cal BP, while whether the earliest phase constitutes agriculture is disputed.
+    dating:
+      precision: bp
+      value: 10000
+      unit: calibrated_years_before_present
+      reference_year: 1950
+      calibrated: true
+      approximate: true
+    source_refs:
+    - id: aso_src_kuk_anu
+      locator: Chapter 12, Phase 1 discussion
+    confidence: medium
+    integration:
+      status: collected
+      note: Preserve interpretive disagreement; early plant management is not automatically equivalent to domesticated
+        farming.
+  aso_newguinea_kuk_mounds:
+    entity: Kuk Swamp, New Guinea Highlands
+    subject: cultivation
+    finding: Archaeological syntheses identify mounded cultivation as the earliest unequivocal evidence for
+      agriculture at Kuk, dated approximately 6950–6440 BP.
+    dating:
+      precision: bp
+      earliest_value: 6950
+      latest_value: 6440
+      unit: calibrated_years_before_present
+      reference_year: 1950
+      calibrated: true
+      approximate: true
+    source_refs:
+    - id: aso_src_kuk_anu
+      locator: Chapter 12, Introduction; Table 12.1 Date (cal. BP), Early subphase
+    confidence: high
+    integration:
+      status: collected
+      note: Broad calibrated range ends before 3000 BCE; do not infer state formation from agricultural innovation.
+  aso_australia_madjedbebe:
+    entity: Madjedbebe, northern Australia
+    subject: human_settlement
+    finding: Excavations reported evidence for human occupation by approximately 65 ± 6 ka, an early but debated
+      chronology for settlement of Sahul.
+    dating:
+      precision: relative
+      value: 65000
+      uncertainty: 6000
+      unit: years_ago
+      reference_year: null
+      calibrated: null
+      approximate: true
+    source_refs:
+    - id: aso_src_madjedbebe
+      locator: Study summary and Nature paper date
+    confidence: medium
+    integration:
+      status: collected
+      note: Preserve uncertainty interval and controversy; do not assign modern national borders or exact arrival
+        year.
+  aso_australia_mungo:
+    entity: Lake Mungo, Australia
+    subject: burial_practice
+    finding: National Museum of Australia reports Mungo Lady remains as approximately 40,000–42,000 years old
+      and associated with cremation.
+    dating:
+      precision: relative
+      earliest_value: 42000
+      latest_value: 40000
+      unit: years_ago
+      reference_year: null
+      calibrated: null
+      approximate: true
+    source_refs:
+    - id: aso_src_mungo
+      locator: Mungo Lady
+    confidence: medium
+    integration:
+      status: collected
+      note: Curated date range; burial evidence does not warrant specific religious beliefs or a population
+        estimate.
+  aso_remote_oceania_settlement_boundary:
+    scope: boundary_context
+    entity: Remote Oceania
+    subject: settlement_chronology
+    finding: Lapita-associated initial settlement of Remote Oceania is reported around 3000 years ago, well
+      after the 3000 BCE cutoff; Polynesian and later island settlement therefore lies outside this class.
+    dating:
+      precision: relative
+      value: 3000
+      unit: years_ago
+      reference_year: null
+      calibrated: null
+      approximate: true
+    source_refs:
+    - id: aso_src_lapita
+      locator: Lapita pottery sites, description
+    confidence: medium
+    integration:
+      status: collected
+      note: Boundary note only; exclude Lapita-period events from pre-3000 BCE entries unless older local evidence
+        is independently demonstrated.

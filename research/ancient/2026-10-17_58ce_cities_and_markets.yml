@@ -1,0 +1,596 @@
+schema_version: 1
+period_id: ancient
+collected_on: "2026-10-17"
+records:
+  rome_city_58ce:
+    entity: loc_rome
+    subject: city_and_market_58ce
+    finding: Rome, capital of the Roman Empire and the largest city of the ancient Mediterranean; compilations estimate around 1,000,000 inhabitants at the start of the common era.
+    dating: {precision: year, date: "58", calendar: ce_year_normalized_to_et}
+    source_refs: [{id: wiki_urban_sizes, locator: "Rome row, AD 1 and AD 100 columns"}]
+    confidence: high
+    integration: {status: applied, target: locations/europe/western_europe/italy_region/lazio_area/rome.yml, note: "City and market flags added to the 58.2.1 block."}
+  milano_city_58ce:
+    entity: loc_milano
+    subject: city_rank_58ce
+    finding: Mediolanum (Milan), a leading city of Cisalpine Gaul and imperial Italy; compiled estimates around 30,000 (Wilson 2011 range 25,000-100,000).
+    dating: {precision: year, date: "58", calendar: ce_year_normalized_to_et}
+    source_refs: [{id: wiki_urban_sizes, locator: "Milan row, Classical table"}]
+    confidence: medium
+    integration: {status: applied, target: locations/europe/western_europe/italy_region/lombardy_area/milano.yml, note: "City rank added to the 58.2.1 block."}
+  aquileia_city_58ce:
+    entity: loc_aquileia
+    subject: city_and_market_58ce
+    finding: Aquileia, at the head of the Adriatic, was the principal gateway between Italy and the Danube provinces; compiled estimate about 12,000 (Wilson 2011).
+    dating: {precision: year, date: "58", calendar: ce_year_normalized_to_et}
+    source_refs: [{id: wiki_urban_sizes, locator: "Aquileia row (~12,000, Wilson 2011)"}]
+    confidence: medium
+    integration: {status: applied, target: locations/europe/western_europe/italy_region/veneto_area/aquileia.yml, note: "City and market flags added to the 58.2.1 block."}
+  syracuse_city_58ce:
+    entity: loc_syracuse
+    subject: city_rank_58ce
+    finding: Syracuse, former royal capital of Sicily and one of the island's chief ports; compiled estimates range to about 90,000 (Wilson 2011).
+    dating: {precision: year, date: "58", calendar: ce_year_normalized_to_et}
+    source_refs: [{id: wiki_urban_sizes, locator: "Syracuse row (~90,000, Wilson 2011)"}]
+    confidence: medium
+    integration: {status: applied, target: locations/europe/western_europe/italy_region/sicily_area/syracuse.yml, note: "City rank added to the 58.2.1 block."}
+  lyon_city_58ce:
+    entity: loc_lyon
+    subject: city_and_market_58ce
+    finding: Lugdunum (Lyon), the administrative hub of the Gallic provinces at the confluence of the Rhone and Saone; estimates 25,000-50,000 (Wilson 2011).
+    dating: {precision: year, date: "58", calendar: ce_year_normalized_to_et}
+    source_refs: [{id: wiki_urban_sizes, locator: "Lugdunum row (25,000-50,000, Wilson 2011)"}]
+    confidence: medium
+    integration: {status: applied, target: locations/europe/western_europe/france_region/lyonnais_area/lyon.yml, note: "City and market flags added to the 58.2.1 block."}
+  marseille_city_58ce:
+    entity: loc_marseille
+    subject: city_and_market_58ce
+    finding: Massalia (Marseille), an ancient Greek colony described as a center of ancient Greek trade in the western Mediterranean.
+    dating: {precision: year, date: "58", calendar: ce_year_normalized_to_et}
+    source_refs: [{id: wiki_massalia, locator: "Article intro"}]
+    confidence: high
+    integration: {status: applied, target: locations/europe/western_europe/france_region/provence_area/marseille.yml, note: "City and market flags added to the 58.2.1 block."}
+  narbonne_city_58ce:
+    entity: loc_narbonne
+    subject: city_rank_58ce
+    finding: Narbo (Narbonne), historically a prosperous Mediterranean port city of southern Gaul.
+    dating: {precision: year, date: "58", calendar: ce_year_normalized_to_et}
+    source_refs: [{id: wiki_narbonne, locator: "Article intro"}]
+    confidence: medium
+    integration: {status: applied, target: locations/europe/western_europe/france_region/languedoc_area/narbonne.yml, note: "Roman colony status (118 BC) not quoted in the cited intro; upgrade source later. City rank added to the 58.2.1 block."}
+  tarragona_city_58ce:
+    entity: loc_tarragona
+    subject: city_and_market_58ce
+    finding: Tarraco (Tarragona), the oldest Roman settlement on the Iberian Peninsula, which became the capital of Hispania Tarraconensis.
+    dating: {precision: year, date: "58", calendar: ce_year_normalized_to_et}
+    source_refs: [{id: wiki_tarraco, locator: "Article intro"}]
+    confidence: high
+    integration: {status: applied, target: locations/europe/western_europe/iberia_region/catalonia_area/tarragona.yml, note: "City and market flags added to the 58.2.1 block."}
+  cordoba_city_58ce:
+    entity: loc_cordoba
+    subject: city_rank_58ce
+    finding: Corduba (Cordoba), capital of the Roman province of Baetica in Hispania.
+    dating: {precision: year, date: "58", calendar: ce_year_normalized_to_et}
+    source_refs: [{id: wiki_corduba, locator: "Article intro (Italian: capitale della Betica nella Hispania romana)"}]
+    confidence: high
+    integration: {status: applied, target: locations/europe/western_europe/iberia_region/andalusia_area/cordoba.yml, note: "Source is the Italian Wikipedia entry for the ancient city name. City rank added to the 58.2.1 block."}
+  merida_city_58ce:
+    entity: loc_merida
+    subject: city_rank_58ce
+    finding: Augusta Emerita (Merida), a Roman colonia founded in 25 BC by Augustus to settle veteran legions of the Cantabrian Wars.
+    dating: {precision: year, date: "58", calendar: ce_year_normalized_to_et}
+    source_refs: [{id: wiki_augusta_emerita, locator: "Article intro"}]
+    confidence: high
+    integration: {status: applied, target: locations/europe/western_europe/iberia_region/extremadura_area/merida.yml, note: "City rank added to the 58.2.1 block."}
+  cadiz_city_58ce:
+    entity: loc_cadiz
+    subject: city_and_market_58ce
+    finding: Gades (Cadiz), Phoenician-founded Atlantic port that under Rome flourished as a port and naval base; by the Augustan census its equites concentration rivalled all but Rome and Patavium.
+    dating: {precision: year, date: "58", calendar: ce_year_normalized_to_et}
+    source_refs: [{id: wiki_cadiz, locator: "History, Under Rome's rule"}]
+    confidence: high
+    integration: {status: applied, target: locations/europe/western_europe/iberia_region/andalusia_area/cadiz.yml, note: "City and market flags added to the 58.2.1 block."}
+  london_city_58ce:
+    entity: loc_london
+    subject: city_rank_58ce
+    finding: Londinium (London), river port and road hub of the new province of Britannia; later compilations estimate about 30,000 at the Roman-era peak.
+    dating: {precision: year, date: "58", calendar: ce_year_normalized_to_et}
+    source_refs: [{id: wiki_urban_sizes, locator: "London row, Roman-era column (~30,000)"}]
+    confidence: medium
+    integration: {status: applied, target: locations/europe/western_europe/great_britain_region/home_counties_area/london.yml, note: "City rank is a forward-weighted judgement; the compiled figure refers to the Roman-era peak, not 58 CE. City rank added to the 58.2.1 block."}
+  colchester_city_58ce:
+    entity: loc_colchester
+    subject: city_rank_58ce
+    finding: Camulodunum (Colchester), an important castrum and city in Roman Britain and the first capital of the province.
+    dating: {precision: year, date: "58", calendar: ce_year_normalized_to_et}
+    source_refs: [{id: wiki_camulodunum, locator: "Article intro"}]
+    confidence: high
+    integration: {status: applied, target: locations/europe/western_europe/great_britain_region/east_anglia_area/colchester.yml, note: "City rank added to the 58.2.1 block."}
+  athens_city_58ce:
+    entity: loc_athens
+    subject: city_rank_58ce
+    finding: Athens, the ancient cultural centre of the Greek world; compiled estimates range widely (about 10,000 to 90,000 across classical-era tables).
+    dating: {precision: year, date: "58", calendar: ce_year_normalized_to_et}
+    source_refs: [{id: wiki_urban_sizes, locator: "Athens rows (Morris; Wilson 2011)"}]
+    confidence: medium
+    integration: {status: applied, target: locations/europe/eastern_europe/balkan_region/northern_greece_area/athens.yml, note: "City rank added to the 58.2.1 block."}
+  corinth_city_58ce:
+    entity: loc_corinth
+    subject: city_and_market_58ce
+    finding: Corinth, refounded as a Roman colonia in 44 BC, controlling the Isthmus portages; compiled estimates 40,000-100,000.
+    dating: {precision: year, date: "58", calendar: ce_year_normalized_to_et}
+    source_refs: [{id: wiki_urban_sizes, locator: "Corinth row (40,000-100,000)"}]
+    confidence: medium
+    integration: {status: applied, target: locations/europe/eastern_europe/balkan_region/morea_area/corinth.yml, note: "City and market flags added to the 58.2.1 block."}
+  thessaloniki_city_58ce:
+    entity: loc_thessaloniki
+    subject: city_and_market_58ce
+    finding: Thessalonica, capital of the province of Macedonia and principal station of the Via Egnatia; compiled estimate about 30,000.
+    dating: {precision: year, date: "58", calendar: ce_year_normalized_to_et}
+    source_refs: [{id: wiki_urban_sizes, locator: "Thessaloniki row (~30,000)"}]
+    confidence: medium
+    integration: {status: applied, target: locations/europe/eastern_europe/balkan_region/macedonia_area/thessaloniki.yml, note: "City and market flags added to the 58.2.1 block."}
+  constantinople_city_58ce:
+    entity: loc_constantinople
+    subject: city_and_market_58ce
+    finding: Byzantium on the Bosphorus, listed with about 15,000-20,000 inhabitants in early imperial compilations.
+    dating: {precision: year, date: "58", calendar: ce_year_normalized_to_et}
+    source_refs: [{id: wiki_urban_sizes, locator: "Byzantium/Constantinople row"}]
+    confidence: medium
+    integration: {status: applied, target: locations/europe/eastern_europe/balkan_region/thrace_area/constantinople.yml, note: "Tile carries the later name; at 58 CE the city is Byzantium. City and market flags added to the 58.2.1 block."}
+  izmit_city_58ce:
+    entity: loc_izmit
+    subject: city_rank_58ce
+    finding: Nicomedia (modern Izmit), the metropolis and capital of the Roman province of Bithynia; one of the most important cities of northwestern Asia Minor since 264 BC.
+    dating: {precision: year, date: "58", calendar: ce_year_normalized_to_et}
+    source_refs: [{id: wiki_nicomedia, locator: "History section"}]
+    confidence: high
+    integration: {status: applied, target: locations/asia/middle_east/anatolia_region/marmara_area/izmit.yml, note: "City rank added to the 58.2.1 block."}
+  bergama_city_58ce:
+    entity: loc_bergama
+    subject: city_rank_58ce
+    finding: Pergamon (Bergama), a rich and powerful ancient Greek city of Aeolis and former Attalid royal capital.
+    dating: {precision: year, date: "58", calendar: ce_year_normalized_to_et}
+    source_refs: [{id: wiki_pergamon, locator: "Article intro"}]
+    confidence: high
+    integration: {status: applied, target: locations/asia/middle_east/anatolia_region/marmara_area/bergama.yml, note: "City rank added to the 58.2.1 block."}
+  smyrna_city_58ce:
+    entity: loc_smyrna
+    subject: city_and_market_58ce
+    finding: Smyrna (Izmir), Aegean port city whose advantageous port conditions and inland connections drove its rise to prominence.
+    dating: {precision: year, date: "58", calendar: ce_year_normalized_to_et}
+    source_refs: [{id: wiki_smyrna, locator: "Article intro"}]
+    confidence: high
+    integration: {status: applied, target: locations/asia/middle_east/anatolia_region/west_anatolia_area/smyrna.yml, note: "City and market flags added to the 58.2.1 block."}
+  ayasuluk_city_58ce:
+    entity: loc_ayasuluk
+    subject: city_and_market_58ce
+    finding: Ephesus (site at Ayasuluk hill by modern Selcuk), one of the largest cities of Roman Asia; compiled estimate about 33,600 (Wilson 2011).
+    dating: {precision: year, date: "58", calendar: ce_year_normalized_to_et}
+    source_refs: [{id: wiki_urban_sizes, locator: "Ephesus row (~33,600, Wilson 2011)"}]
+    confidence: medium
+    integration: {status: applied, target: locations/asia/middle_east/anatolia_region/west_anatolia_area/ayasuluk.yml, note: "Tile named Ayasuluk, the Turkish settlement on the Ephesus site. City and market flags added to the 58.2.1 block."}
+  tarsus_city_58ce:
+    entity: loc_tarsus
+    subject: city_rank_58ce
+    finding: Tarsus, historic city 20 km inland from the Mediterranean that under the Roman Empire was the capital of the province of Cilicia.
+    dating: {precision: year, date: "58", calendar: ce_year_normalized_to_et}
+    source_refs: [{id: wiki_tarsus, locator: "Article intro"}]
+    confidence: high
+    integration: {status: applied, target: locations/asia/middle_east/anatolia_region/cilicia_area/tarsus.yml, note: "City rank added to the 58.2.1 block."}
+  balat_city_58ce:
+    entity: loc_balat
+    subject: city_rank_58ce
+    finding: Miletus (site at Balat village), an influential ancient Greek city renowned for its wealth and maritime power and a major trade center through the Roman period.
+    dating: {precision: year, date: "58", calendar: ce_year_normalized_to_et}
+    source_refs: [{id: wiki_miletus, locator: "Article intro"}]
+    confidence: high
+    integration: {status: applied, target: locations/asia/middle_east/anatolia_region/west_anatolia_area/balat.yml, note: "Tile named for Balat, the village on the Miletus site. City rank added to the 58.2.1 block."}
+  antioch_city_58ce:
+    entity: loc_antioch
+    subject: city_and_market_58ce
+    finding: Antioch on the Orontes, capital of Roman Syria and one of the largest cities of the Roman Empire (third after Rome and Alexandria).
+    dating: {precision: year, date: "58", calendar: ce_year_normalized_to_et}
+    source_refs: [{id: wiki_antioch, locator: "Article intro"}]
+    confidence: high
+    integration: {status: applied, target: locations/asia/middle_east/crescent_region/levant_area/antioch.yml, note: "City and market flags added to the 58.2.1 block."}
+  damascus_city_58ce:
+    entity: loc_damascus
+    subject: city_and_market_58ce
+    finding: Damascus, one of the oldest continuously inhabited capitals of the region and a long-established Syrian caravan centre.
+    dating: {precision: year, date: "58", calendar: ce_year_normalized_to_et}
+    source_refs: [{id: wiki_damascus, locator: "Article intro"}]
+    confidence: medium
+    integration: {status: applied, target: locations/asia/middle_east/crescent_region/levant_area/damascus.yml, note: "Cited intro is thin on the pre-Islamic era; upgrade source later. City and market flags added to the 58.2.1 block."}
+  jerusalem_city_58ce:
+    entity: loc_jerusalem
+    subject: city_rank_58ce
+    finding: Jerusalem, the temple city of Judaea; compilations estimate about 40,000 around the early empire.
+    dating: {precision: year, date: "58", calendar: ce_year_normalized_to_et}
+    source_refs: [{id: wiki_urban_sizes, locator: "Jerusalem row (~40,000)"}]
+    confidence: medium
+    integration: {status: applied, target: locations/asia/middle_east/crescent_region/levant_area/jerusalem.yml, note: "City rank added to the 58.2.1 block."}
+  gaza_city_58ce:
+    entity: loc_gaza
+    subject: city_and_market_58ce
+    finding: Gaza, Mediterranean-coast city inhabited since at least the 15th century BC, terminus of the southern caravan routes.
+    dating: {precision: year, date: "58", calendar: ce_year_normalized_to_et}
+    source_refs: [{id: wiki_gaza_city, locator: "Article intro"}]
+    confidence: medium
+    integration: {status: applied, target: locations/asia/middle_east/crescent_region/levant_area/gaza.yml, note: "The caravan-terminus context is conventional; the intro supports the antiquity of the city. City and market flags added to the 58.2.1 block."}
+  bosra_city_58ce:
+    entity: loc_bosra
+    subject: city_and_market_58ce
+    finding: Bostra (Bosra), an ancient city of the Hauran mentioned in 14th-century BC Egyptian sources; later capital of Roman Arabia.
+    dating: {precision: year, date: "58", calendar: ce_year_normalized_to_et}
+    source_refs: [{id: wiki_bosra, locator: "Article intro"}]
+    confidence: medium
+    integration: {status: applied, target: locations/asia/middle_east/crescent_region/levant_area/bosra.yml, note: "City and market flags added to the 58.2.1 block."}
+  tadmur_city_58ce:
+    entity: loc_tadmur
+    subject: city_and_market_58ce
+    finding: Palmyra (Tadmur), caravan city that became a subject of the Roman Empire in the first century CE and grew wealthy from trade; its merchants were renowned.
+    dating: {precision: year, date: "58", calendar: ce_year_normalized_to_et}
+    source_refs: [{id: wiki_palmyra, locator: "Article intro"}]
+    confidence: high
+    integration: {status: applied, target: locations/asia/middle_east/crescent_region/levant_area/tadmur.yml, note: "City and market flags added to the 58.2.1 block."}
+  maan_city_58ce:
+    entity: loc_maan
+    subject: city_and_market_58ce
+    finding: Petra, ancient rock-cut city of southern Jordan, reached by road from the Red Sea coast and subject to Malichas, King of the Nabataans, per the mid-first-century Periplus.
+    dating: {precision: year, date: "58", calendar: ce_year_normalized_to_et}
+    source_refs: [{id: periplus_schoff, locator: "19"}, {id: wiki_petra, locator: "Article intro"}]
+    confidence: high
+    integration: {status: applied, target: locations/asia/middle_east/crescent_region/levant_area/maan.yml, note: "Petra's site is approximated by the Ma'an tile; mapping is coarse. City and market flags added to the 58.2.1 block."}
+  urfa_city_58ce:
+    entity: loc_urfa
+    subject: city_and_market_58ce
+    finding: Edessa (modern Sanliurfa), capital of the kingdom of Osroene (the Kingdom of Edessa), ruled by the Abgarid dynasty from the 2nd century BC into the 3rd century AD.
+    dating: {precision: year, date: "58", calendar: ce_year_normalized_to_et}
+    source_refs: [{id: wiki_osroene, locator: "Article intro"}]
+    confidence: high
+    integration: {status: applied, target: locations/asia/middle_east/crescent_region/jazira_area/urfa.yml, note: "City and market flags added to the 58.2.1 block."}
+  baghdad_city_58ce:
+    entity: loc_baghdad
+    subject: city_and_market_58ce
+    finding: Seleucia-Ctesiphon, the Parthian royal twin-city on the Tigris (Ctesiphon adjacent to Seleucia, about 35 km south of later Baghdad).
+    dating: {precision: year, date: "58", calendar: ce_year_normalized_to_et}
+    source_refs: [{id: iranica_ctesiphon, locator: "Position and name sections"}, {id: wiki_urban_sizes, locator: "Seleucia and Ctesiphon rows"}]
+    confidence: high
+    integration: {status: applied, target: locations/asia/middle_east/crescent_region/iraq_arabi_area/baghdad.yml, note: "Tile named Baghdad covers the Ctesiphon/Seleucia zone; Baghdad itself is founded in 762 CE (see backlog abbassid_capital_mapping). City and market flags added to the 58.2.1 block."}
+  shabwa_city_58ce:
+    entity: loc_shabwa
+    subject: city_and_market_58ce
+    finding: Shabwa (Sabbatha), inland metropolis of the frankincense country where the king lived and where frankincense was brought to be stored.
+    dating: {precision: year, date: "58", calendar: ce_year_normalized_to_et}
+    source_refs: [{id: wiki_shabwa, locator: "Article intro"}, {id: periplus_schoff, locator: "27"}]
+    confidence: high
+    integration: {status: applied, target: locations/asia/middle_east/arabia_region/south_yemen_area/shabwa.yml, note: "City and market flags added to the 58.2.1 block."}
+  marib_city_58ce:
+    entity: loc_marib
+    subject: city_rank_58ce
+    finding: Marib, capital of the ancient kingdom of Saba (Sheba); compilations list about 45,000.
+    dating: {precision: year, date: "58", calendar: ce_year_normalized_to_et}
+    source_refs: [{id: wiki_marib, locator: "Article intro"}, {id: wiki_urban_sizes, locator: "Marib row (~45,000)"}]
+    confidence: medium
+    integration: {status: applied, target: locations/asia/middle_east/arabia_region/south_yemen_area/marib.yml, note: "City rank added to the 58.2.1 block."}
+  hamadan_city_58ce:
+    entity: loc_hamadan
+    subject: city_and_market_58ce
+    finding: Ecbatana (Hamadan), capital of the Median kingdom and the summer capital of the Achaemenid and Parthian empires.
+    dating: {precision: year, date: "58", calendar: ce_year_normalized_to_et}
+    source_refs: [{id: wiki_ecbatana, locator: "Article intro"}]
+    confidence: high
+    integration: {status: applied, target: locations/asia/middle_east/persia_region/iraq_ajam_area/hamadan.yml, note: "City and market flags added to the 58.2.1 block."}
+  shush_city_58ce:
+    entity: loc_shush
+    subject: city_rank_58ce
+    finding: Susa, one of the most important cities of the Ancient Near East, which remained a strategic centre during the Parthian and Sasanian periods; compilations list about 25,000-40,000.
+    dating: {precision: year, date: "58", calendar: ce_year_normalized_to_et}
+    source_refs: [{id: wiki_susa, locator: "Article intro"}, {id: wiki_urban_sizes, locator: "Susa rows (~25,000; ~40,000)"}]
+    confidence: high
+    integration: {status: applied, target: locations/asia/middle_east/persia_region/khuzestan_area/shush.yml, note: "City rank added to the 58.2.1 block."}
+  mtskheta_city_58ce:
+    entity: loc_mtskheta
+    subject: city_rank_58ce
+    finding: Mtskheta, for nearly a millennium until the 5th century AD a large fortified city and a significant economic and political center of the Kingdom of Iberia.
+    dating: {precision: year, date: "58", calendar: ce_year_normalized_to_et}
+    source_refs: [{id: wiki_mtskheta, locator: "Article intro"}]
+    confidence: high
+    integration: {status: applied, target: locations/europe/eastern_europe/caucasus_region/georgia_area/mtskheta.yml, note: "City rank added to the 58.2.1 block."}
+  yerevan_city_58ce:
+    entity: loc_yerevan
+    subject: city_rank_58ce
+    finding: The Ararat plain around modern Yerevan held Artaxata, the Armenian royal capital; in 58 CE the Arsacid Tiridates I held the Armenian throne.
+    dating: {precision: year, date: "58", calendar: ce_year_normalized_to_et}
+    source_refs: [{id: iranica_armenia, locator: "Tiridates at Artaxata; Corbulo's spring 58 campaign"}]
+    confidence: medium
+    integration: {status: applied, target: locations/europe/eastern_europe/caucasus_region/armenia_area/yerevan.yml, note: "Artaxata's site lies south of modern Yerevan; tile approximation (see backlog armenia_war_and_succession). City rank added to the 58.2.1 block."}
+  alexandria_city_58ce:
+    entity: loc_alexandria
+    subject: city_and_market_58ce
+    finding: Alexandria, second city of the Roman Empire and hub of the Indian Ocean trade; compilations estimate 300,000-600,000 (AD 100 column).
+    dating: {precision: year, date: "58", calendar: ce_year_normalized_to_et}
+    source_refs: [{id: wiki_urban_sizes, locator: "Alexandria row (AD 100)"}]
+    confidence: high
+    integration: {status: applied, target: locations/africa/north_africa/egypt_region/lower_egypt_area/alexandria.yml, note: "City and market flags added to the 58.2.1 block."}
+  tunis_city_58ce:
+    entity: loc_tunis
+    subject: city_and_market_58ce
+    finding: Carthage, refounded as a Roman colonia in 44 BC and among the largest cities of the western Mediterranean (compiled estimates 150,000-200,000 around AD 100).
+    dating: {precision: year, date: "58", calendar: ce_year_normalized_to_et}
+    source_refs: [{id: wiki_urban_sizes, locator: "Carthage row (AD 100)"}]
+    confidence: high
+    integration: {status: applied, target: locations/africa/north_africa/maghreb_region/tunis_area/tunis.yml, note: "Tile named Tunis covers the Carthage urban site. City and market flags added to the 58.2.1 block."}
+  al_khums_city_58ce:
+    entity: loc_al_khums
+    subject: city_and_market_58ce
+    finding: Leptis Magna (site at al-Khums), a prominent city of Roman Libya at the mouth of the Wadi Lebda, with Punic settlement prior to 500 BC.
+    dating: {precision: year, date: "58", calendar: ce_year_normalized_to_et}
+    source_refs: [{id: wiki_leptis_magna, locator: "Article intro"}]
+    confidence: high
+    integration: {status: applied, target: locations/africa/north_africa/maghreb_region/tripolitania_area/al_khums.yml, note: "City and market flags added to the 58.2.1 block."}
+  al_bayda_city_58ce:
+    entity: loc_al_bayda
+    subject: city_rank_58ce
+    finding: Cyrene, an ancient Greek colony and Roman city near present-day Shahhat, part of the Pentapolis that gave Cyrenaica its name.
+    dating: {precision: year, date: "58", calendar: ce_year_normalized_to_et}
+    source_refs: [{id: wiki_cyrene, locator: "Article intro"}]
+    confidence: high
+    integration: {status: applied, target: locations/africa/north_africa/egypt_region/cyrenaica_area/al_bayda.yml, note: "Tile al_bayda approximates the Cyrene plateau. City rank added to the 58.2.1 block."}
+  annaba_city_58ce:
+    entity: loc_annaba
+    subject: city_rank_58ce
+    finding: Hippo Regius (modern Annaba), an important city for the Phoenicians, Berbers, Romans and Vandals.
+    dating: {precision: year, date: "58", calendar: ce_year_normalized_to_et}
+    source_refs: [{id: wiki_hippo_regius, locator: "Article intro"}]
+    confidence: high
+    integration: {status: applied, target: locations/africa/north_africa/maghreb_region/tunis_area/annaba.yml, note: "City rank added to the 58.2.1 block."}
+  constantine_alg_city_58ce:
+    entity: loc_constantine_alg
+    subject: city_rank_58ce
+    finding: Cirta (later Constantine), the capital city of the Berber kingdom of Numidia; an ancient Berber and Roman settlement.
+    dating: {precision: year, date: "58", calendar: ce_year_normalized_to_et}
+    source_refs: [{id: wiki_cirta, locator: "Article intro"}]
+    confidence: high
+    integration: {status: applied, target: locations/africa/north_africa/maghreb_region/tunis_area/constantine_ALG.yml, note: "City rank added to the 58.2.1 block."}
+  tangier_city_58ce:
+    entity: loc_tangier
+    subject: city_and_market_58ce
+    finding: Tingis (Tangier), an important Carthaginian, Mauretanian and Roman port on the Atlantic; later capital of Mauretania Tingitana.
+    dating: {precision: year, date: "58", calendar: ce_year_normalized_to_et}
+    source_refs: [{id: wiki_tingi, locator: "Article intro"}]
+    confidence: high
+    integration: {status: applied, target: locations/africa/north_africa/maghreb_region/morocco_area/tangier.yml, note: "City and market flags added to the 58.2.1 block."}
+  axum_city_58ce:
+    entity: loc_axum
+    subject: city_and_market_58ce
+    finding: Aksum, site of the historic capital of the Aksumite Empire; the Periplus notes the inland city of the people called Auxumites, five days from Adulis.
+    dating: {precision: year, date: "58", calendar: ce_year_normalized_to_et}
+    source_refs: [{id: wiki_axum, locator: "Article intro"}, {id: periplus_schoff, locator: "4-5"}]
+    confidence: high
+    integration: {status: applied, target: locations/africa/east_africa/ethiopia_region/northern_ethiopia_area/axum.yml, note: "City and market flags added to the 58.2.1 block."}
+  shendi_city_58ce:
+    entity: loc_shendi
+    subject: city_rank_58ce
+    finding: Meroe, ancient city on the east bank of the Nile about 6 km north-east of Shendi, royal city of Kush; the Periplus knows a city called Meroe inland from the coast.
+    dating: {precision: year, date: "58", calendar: ce_year_normalized_to_et}
+    source_refs: [{id: wiki_meroe, locator: "Article intro"}, {id: periplus_schoff, locator: "2"}]
+    confidence: high
+    integration: {status: applied, target: locations/africa/east_africa/nubia_region/butana_area/shendi.yml, note: "City rank added to the 58.2.1 block."}
+  mathura_city_58ce:
+    entity: loc_mathura
+    subject: city_rank_58ce
+    finding: Mathura, in ancient times an economic hub located at the junction of important caravan routes.
+    dating: {precision: year, date: "58", calendar: ce_year_normalized_to_et}
+    source_refs: [{id: wiki_mathura, locator: "Article intro"}]
+    confidence: high
+    integration: {status: applied, target: locations/asia/south_asia/hindustan_region/doab_area/mathura.yml, note: "City rank added to the 58.2.1 block."}
+  ujjain_city_58ce:
+    entity: loc_ujjain
+    subject: city_and_market_58ce
+    finding: Ujjain (Ozene), formerly a royal capital, from which goods needed for the country about Barygaza were brought down; compilations list about 94,000.
+    dating: {precision: year, date: "58", calendar: ce_year_normalized_to_et}
+    source_refs: [{id: periplus_schoff, locator: "48"}, {id: wiki_urban_sizes, locator: "Ujjain row (~94,000)"}]
+    confidence: high
+    integration: {status: applied, target: locations/asia/south_asia/central_india_region/malwa_area/ujjain.yml, note: "City and market flags added to the 58.2.1 block."}
+  patna_city_58ce:
+    entity: loc_patna
+    subject: city_and_market_58ce
+    finding: Patna, historically known as Pataliputra, great city of the Ganges plain; compilations range from 69,000 to over 350,000.
+    dating: {precision: year, date: "58", calendar: ce_year_normalized_to_et}
+    source_refs: [{id: wiki_patna, locator: "Article intro"}, {id: wiki_urban_sizes, locator: "Pataliputra rows"}]
+    confidence: medium
+    integration: {status: applied, target: locations/asia/south_asia/bengal_region/mithila_area/patna.yml, note: "City and market flags added to the 58.2.1 block."}
+  tamluk_city_58ce:
+    entity: loc_tamluk
+    subject: city_and_market_58ce
+    finding: Tamralipta (Tamluk), an ancient port city on the coast of the Bay of Bengal, capital of ancient Suhma and Vanga; the Periplus's Ganges market-town.
+    dating: {precision: year, date: "58", calendar: ce_year_normalized_to_et}
+    source_refs: [{id: wiki_tamralipta, locator: "Article intro"}, {id: periplus_schoff, locator: "63"}]
+    confidence: medium
+    integration: {status: applied, target: locations/asia/south_asia/bengal_region/bengal_area/tamluk.yml, note: "Identification of the Periplus Ganges emporium with Tamralipti is the conventional reading. City and market flags added to the 58.2.1 block."}
+  madurai_city_58ce:
+    entity: loc_madurai
+    subject: city_rank_58ce
+    finding: Madurai, seat of the Pandya dynasty (the Pandyas of Madurai), one of the four great kingdoms of Tamilakam.
+    dating: {precision: year, date: "58", calendar: ce_year_normalized_to_et}
+    source_refs: [{id: wiki_pandya_dynasty, locator: "Article intro"}]
+    confidence: medium
+    integration: {status: applied, target: locations/asia/south_asia/deccan_region/tamil_land_area/madurai.yml, note: "City rank added to the 58.2.1 block."}
+  kodungallur_city_58ce:
+    entity: loc_kodungallur
+    subject: city_and_market_58ce
+    finding: Muziris (conventionally identified with Kodungallur), of leading importance on the Malabar coast, abounding in ships from Arabia and the Greek world for the pepper trade.
+    dating: {precision: year, date: "58", calendar: ce_year_normalized_to_et}
+    source_refs: [{id: periplus_schoff, locator: "53-54, 56"}]
+    confidence: high
+    integration: {status: applied, target: locations/asia/south_asia/deccan_region/malabar_area/kodungallur.yml, note: "Muziris's exact site is debated (Pattanam); the tile is Kodungallur. City and market flags added to the 58.2.1 block."}
+  thoothukudi_city_58ce:
+    entity: loc_thoothukudi
+    subject: city_rank_58ce
+    finding: Korkai (Colchi in the Periplus), Pandyan port of the pearl fisheries worked by condemned criminals.
+    dating: {precision: year, date: "58", calendar: ce_year_normalized_to_et}
+    source_refs: [{id: periplus_schoff, locator: "59"}]
+    confidence: medium
+    integration: {status: applied, target: locations/asia/south_asia/deccan_region/tamil_land_area/thoothukudi.yml, note: "Korkai lies near modern Thoothukudi; tile approximation. City rank added to the 58.2.1 block."}
+  broach_city_58ce:
+    entity: loc_broach
+    subject: city_and_market_58ce
+    finding: Barygaza (Bharuch), the great emporium of the Gujarat coast on the Narmada, beginning of the kingdom of Nambanus and of all India.
+    dating: {precision: year, date: "58", calendar: ce_year_normalized_to_et}
+    source_refs: [{id: periplus_schoff, locator: "41-49"}]
+    confidence: high
+    integration: {status: applied, target: locations/asia/south_asia/western_india_region/gujarat_area/broach.yml, note: "City and market flags added to the 58.2.1 block."}
+  varanasi_city_58ce:
+    entity: loc_varanasi
+    subject: city_rank_58ce
+    finding: Varanasi (Kashi), city on the Ganges holding a central place in Hindu pilgrimage traditions.
+    dating: {precision: year, date: "58", calendar: ce_year_normalized_to_et}
+    source_refs: [{id: wiki_varanasi, locator: "Article intro"}]
+    confidence: medium
+    integration: {status: applied, target: locations/asia/south_asia/hindustan_region/bhojpur_area/varanasi.yml, note: "City rank added to the 58.2.1 block."}
+  anuradhapura_city_58ce:
+    entity: loc_anuradhapura
+    subject: city_rank_58ce
+    finding: Anuradhapura, major city of Sri Lanka's north central plain, site of the ancient Sinhalese civilisation and its well-preserved ruins; compilations estimate about 68,000 around AD 100.
+    dating: {precision: year, date: "58", calendar: ce_year_normalized_to_et}
+    source_refs: [{id: wiki_anuradhapura, locator: "Article intro"}, {id: wiki_urban_sizes, locator: "Anuradhapura row (AD 100, ~68,000)"}]
+    confidence: medium
+    integration: {status: applied, target: locations/asia/south_asia/deccan_region/sailan_area/anuradhapura.yml, note: "City rank added to the 58.2.1 block."}
+  peshawar_city_58ce:
+    entity: loc_peshawar
+    subject: city_rank_58ce
+    finding: Purushapura (Peshawar) at the approaches to the Khyber; compilations estimate about 120,000 around AD 100.
+    dating: {precision: year, date: "58", calendar: ce_year_normalized_to_et}
+    source_refs: [{id: wiki_urban_sizes, locator: "Peshawar row (~120,000)"}]
+    confidence: medium
+    integration: {status: applied, target: locations/asia/south_asia/hindustan_region/punjab_area/peshawar.yml, note: "City rank added to the 58.2.1 block."}
+  rawalpindi_city_58ce:
+    entity: loc_rawalpindi
+    subject: city_rank_58ce
+    finding: Taxila (site in Rawalpindi District), historically Takshashila, founded around c. 1000 BC and one of the oldest cities in South Asia; compilations list about 60,000.
+    dating: {precision: year, date: "58", calendar: ce_year_normalized_to_et}
+    source_refs: [{id: wiki_taxila, locator: "Article intro"}, {id: wiki_urban_sizes, locator: "Taxila row (~60,000)"}]
+    confidence: high
+    integration: {status: applied, target: locations/asia/south_asia/hindustan_region/punjab_area/rawalpindi.yml, note: "Taxila's archaeological zone lies northwest of Rawalpindi; tile approximation. City rank added to the 58.2.1 block."}
+  merv_city_58ce:
+    entity: loc_merv
+    subject: city_and_market_58ce
+    finding: Merv, a major Iranian city in Central Asia located on the historical Silk Road.
+    dating: {precision: year, date: "58", calendar: ce_year_normalized_to_et}
+    source_refs: [{id: wiki_merv, locator: "Article intro, Parthian era"}]
+    confidence: high
+    integration: {status: applied, target: locations/asia/central_asia/khorasan_region/eastern_khorasan_area/merv.yml, note: "City and market flags added to the 58.2.1 block."}
+  balkh_city_58ce:
+    entity: loc_balkh
+    subject: city_and_market_58ce
+    finding: Balkh (Bactra), renowned as the capital of Bactria and later Tokharistan, among the richest cities of Khorasan in the pre-Mongol era.
+    dating: {precision: year, date: "58", calendar: ce_year_normalized_to_et}
+    source_refs: [{id: wiki_balkh, locator: "Article intro"}]
+    confidence: high
+    integration: {status: applied, target: locations/asia/central_asia/khorasan_region/eastern_khorasan_area/balkh.yml, note: "City and market flags added to the 58.2.1 block."}
+  samarkand_city_58ce:
+    entity: loc_samarkand
+    subject: city_and_market_58ce
+    finding: Samarkand, among the oldest continuously inhabited cities in Central Asia and a major node of the Sogdian trade routes.
+    dating: {precision: year, date: "58", calendar: ce_year_normalized_to_et}
+    source_refs: [{id: wiki_samarkand, locator: "Article intro"}]
+    confidence: medium
+    integration: {status: applied, target: locations/asia/central_asia/khorasan_region/transoxiana_area/samarkand.yml, note: "City and market flags added to the 58.2.1 block."}
+  kashgar_city_58ce:
+    entity: loc_kashgar
+    subject: city_and_market_58ce
+    finding: Kashgar, the city through which the main trade route leading into Han China passed first, at the western edge of the Tarim Basin.
+    dating: {precision: year, date: "58", calendar: ce_year_normalized_to_et}
+    source_refs: [{id: wiki_kashgar, locator: "Article intro"}, {id: wiki_han_economy, locator: "Foreign trade section"}]
+    confidence: high
+    integration: {status: applied, target: locations/asia/east_asia/xinjiang_region/tarim_area/kashgar.yml, note: "City and market flags added to the 58.2.1 block."}
+  khotan_city_58ce:
+    entity: loc_khotan
+    subject: city_and_market_58ce
+    finding: Khotan, a major oasis town of the southern Tarim route in southwestern Xinjiang.
+    dating: {precision: year, date: "58", calendar: ce_year_normalized_to_et}
+    source_refs: [{id: wiki_hotan, locator: "Article intro"}]
+    confidence: medium
+    integration: {status: applied, target: locations/asia/east_asia/xinjiang_region/tarim_area/khotan.yml, note: "City and market flags added to the 58.2.1 block."}
+  shazhou_city_58ce:
+    entity: loc_shazhou
+    subject: city_and_market_58ce
+    finding: Dunhuang (tile name Shazhou), Han-era commandery city of the Hexi (Gansu) Corridor, the most important trade route in Northwest China on the Northern Silk Road.
+    dating: {precision: year, date: "58", calendar: ce_year_normalized_to_et}
+    source_refs: [{id: wiki_hexi_corridor, locator: "Article intro"}]
+    confidence: medium
+    integration: {status: applied, target: locations/asia/east_asia/west_china_region/gansu_area/shazhou.yml, note: "Tile named Shazhou, the historical name of Dunhuang. City and market flags added to the 58.2.1 block."}
+  luoyang_city_58ce:
+    entity: loc_luoyang
+    subject: city_and_market_58ce
+    finding: Luoyang, the Eastern Han imperial capital from 25 CE, with approximately 500,000 inhabitants per the cited compilation.
+    dating: {precision: year, date: "58", calendar: ce_year_normalized_to_et}
+    source_refs: [{id: wiki_han_economy, locator: "Urbanization and population"}, {id: wiki_urban_sizes, locator: "Luoyang rows"}]
+    confidence: high
+    integration: {status: applied, target: locations/asia/east_asia/north_china_region/henan_area/luoyang.yml, note: "City and market flags added to the 58.2.1 block."}
+  xianyang_city_58ce:
+    entity: loc_xianyang
+    subject: city_and_market_58ce
+    finding: Chang'an, the Western Han imperial capital, with approximately 250,000 inhabitants; among the largest cities in the world at the time.
+    dating: {precision: year, date: "58", calendar: ce_year_normalized_to_et}
+    source_refs: [{id: wiki_han_economy, locator: "Urbanization and population"}, {id: wiki_urban_sizes, locator: "Chang'an/Xi'an row"}]
+    confidence: high
+    integration: {status: applied, target: locations/asia/east_asia/west_china_region/shaanxi_area/xianyang.yml, note: "Tile named Xianyang (the Qin capital adjacent to the Han capital site); Xi'an does not exist as a separate tile. City and market flags added to the 58.2.1 block."}
+  chengdu_city_58ce:
+    entity: loc_chengdu
+    subject: city_and_market_58ce
+    finding: Chengdu, major city of the Han southwest; compilations list about 94,000-100,000.
+    dating: {precision: year, date: "58", calendar: ce_year_normalized_to_et}
+    source_refs: [{id: wiki_urban_sizes, locator: "Chengdu rows (~94,000-100,000)"}]
+    confidence: medium
+    integration: {status: applied, target: locations/asia/east_asia/west_china_region/chuanxi_area/chengdu.yml, note: "City and market flags added to the 58.2.1 block."}
+  handan_city_58ce:
+    entity: loc_handan
+    subject: city_rank_58ce
+    finding: Handan, one of the oldest cities in China and the former capital of the State of Zhao, described as northern China's political, economic and cultural center.
+    dating: {precision: year, date: "58", calendar: ce_year_normalized_to_et}
+    source_refs: [{id: wiki_handan, locator: "Article intro"}]
+    confidence: medium
+    integration: {status: applied, target: locations/asia/east_asia/north_china_region/hebei_area/handan.yml, note: "The cited prominence refers to its Warring States-era apex; it remained a major commandery city. City rank added to the 58.2.1 block."}
+  linzhang_city_58ce:
+    entity: loc_linzhang
+    subject: city_rank_58ce
+    finding: Ye (Linzhang), major city of the Hebei plain; compilations list 120,000-140,000 (late Han era).
+    dating: {precision: year, date: "58", calendar: ce_year_normalized_to_et}
+    source_refs: [{id: wiki_urban_sizes, locator: "Ye row (120,000-140,000)"}]
+    confidence: medium
+    integration: {status: applied, target: locations/asia/east_asia/north_china_region/hebei_area/linzhang.yml, note: "City rank added to the 58.2.1 block."}
+  yidu_qingzhou_city_58ce:
+    entity: loc_yidu_qingzhou
+    subject: city_rank_58ce
+    finding: Linzi (tile name Yidu/Qingzhou), ancient Qi capital and one of the largest cities of the Han era; compilations range from about 55,000 to 200,000 depending on era.
+    dating: {precision: year, date: "58", calendar: ce_year_normalized_to_et}
+    source_refs: [{id: wiki_urban_sizes, locator: "Linzi rows"}]
+    confidence: medium
+    integration: {status: applied, target: locations/asia/east_asia/north_china_region/haiyou_area/yidu_qingzhou.yml, note: "Tile named yidu_qingzhou; the Linzi site lies in the Qingzhou area. City rank added to the 58.2.1 block."}
+  wuxian_city_58ce:
+    entity: loc_wuxian
+    subject: city_rank_58ce
+    finding: Suzhou (tile name Wuxian), Wu commandery city of the lower Yangzi; compilations list about 66,000-100,000.
+    dating: {precision: year, date: "58", calendar: ce_year_normalized_to_et}
+    source_refs: [{id: wiki_urban_sizes, locator: "Suzhou rows (Suzhou, Jiangsu)"}]
+    confidence: medium
+    integration: {status: applied, target: locations/asia/east_asia/east_china_region/jiangnan_area/wuxian.yml, note: "Tile named Wuxian, the historical county at Suzhou. City rank added to the 58.2.1 block."}
+  panyu_city_58ce:
+    entity: loc_panyu
+    subject: city_and_market_58ce
+    finding: Panyu (modern Guangzhou), capital of the Nanyue kingdom until 111 BC; the southern Chinese seaport that was a major terminus of the Silk Road.
+    dating: {precision: year, date: "58", calendar: ce_year_normalized_to_et}
+    source_refs: [{id: wiki_nanyue, locator: "Article intro (Italian: la sua capitale era chiamata Panyu)"}, {id: wiki_guangzhou, locator: "Article intro"}, {id: wiki_han_economy, locator: "Foreign trade section (Roman glass at Guangzhou)"}]
+    confidence: high
+    integration: {status: applied, target: locations/asia/east_asia/south_china_region/guangdong_area/panyu.yml, note: "The adjacent Guangzhou tile carries the modern name. City and market flags added to the 58.2.1 block."}
+  tehotihuacan_city_58ce:
+    entity: loc_tehotihuacan
+    subject: city_and_market_58ce
+    finding: Teotihuacan, which began as a religious center around the first century CE and emerged as the largest metropolis of Mesoamerica (Period II, 1-350 CE); population about 60,000-80,000 by c. 100 CE.
+    dating: {precision: year, date: "58", calendar: ce_year_normalized_to_et}
+    source_refs: [{id: wiki_teotihuacan, locator: "Article intro, Period II"}, {id: wiki_urban_sizes, locator: "Teotihuacan row (~60,000-80,000)"}]
+    confidence: high
+    integration: {status: applied, target: locations/america/north_america/mesoamerica_region/mexihko_area/tehotihuacan.yml, note: "City and market flags added to the 58.2.1 block."}

@@ -1,5 +1,5 @@
 schema_version: 1
-updated_on: "2026-10-13"
+updated_on: "2026-10-17"
 tasks:
   roman_succession_dates:
     period_id: ancient
@@ -49,6 +49,9 @@ tasks:
     targets: [countries/ABBA - Abbasid.yml, locations]
     source_refs: [met_abbasid]
     question: Are the Baghdad and Samarra capital changes already present, and which location IDs represent them?
+    evidence: >-
+      The 58 CE cities batch marks the Baghdad tile with the Seleucia-Ctesiphon
+      reading at 58.2.1; a dated 762 change for Baghdad itself is still to be modeled.
     acceptance: Verify existing timeline keys and mapping before adding year-level events; Baghdad foundation does not erase earlier settlements in its location.
   eic_full_archive_review:
     period_id: early_modern
@@ -79,6 +82,42 @@ tasks:
     priority: 1
     state: pending
     targets: [countries, characters, locations]
-    source_refs: [met_han]
+    source_refs: [met_han, wiki_han_economy, wiki_urban_sizes, periplus_schoff]
     question: Extend the 58 CE batch to South Asia, Africa and the Americas, and obtain stronger Eastern Han ruler sources.
+    evidence: >-
+      Batch "2026-10-17 58ce cities and markets" added city rank and market
+      flags for 74 locations across Europe, Asia, Africa and Mesoamerica
+      (economy layer, batch 1). Eastern Han ruler sources are still pending.
     acceptance: Add scoped sources and explicit uncertainties; this first batch does not establish global coverage.
+  ancient_economy_roads_and_town_ranks:
+    period_id: ancient
+    priority: 2
+    state: pending
+    targets: [locations]
+    source_refs: [periplus_schoff, wiki_urban_sizes]
+    question: Which dated roads adjacency and town-level ranks belong to the 58 CE economy layer (batch 2)?
+    acceptance: Add only evidence-backed neighbor-name road maps and town ranks; re-read the Location Files doc before editing.
+  ancient_city_setup_field:
+    period_id: ancient
+    priority: 3
+    state: pending
+    targets: [locations]
+    source_refs: []
+    question: Which vanilla town_setups values exist, and should the 74 city locations gain a setup field?
+    acceptance: Copy setup values only from verified vanilla data; do not invent setup ids.
+  ancient_economy_source_upgrades:
+    period_id: ancient
+    priority: 2
+    state: pending
+    targets: [research/ancient/2026-10-17_58ce_cities_and_markets.yml, research/sources.yml]
+    source_refs: [wiki_corduba, wiki_damascus, wiki_narbonne]
+    question: Replace the weak sources flagged in the 58 CE cities batch (Corduba stub, Damascus intro, Narbonne colony status, Peshawar and Dunhuang intros) with stronger references.
+    acceptance: Keep findings and confidence levels in sync with any replacement; do not silently drop caveats.
+  location_tile_identifications:
+    period_id: ancient
+    priority: 2
+    state: pending
+    targets: [locations]
+    source_refs: [wiki_urban_sizes, periplus_schoff]
+    question: Which tiles cover Rhodes, Paithan, Memphis, Berenice, Istakhr and Yangzhou/Guangling, and how precise are the approximations already noted (Petra, Artaxata, Taxila, Cyrene, Chang'an, Linzi, Dunhuang)?
+    acceptance: Verify filename uniqueness and document distances in records; postpone tile renames.

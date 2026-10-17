@@ -1,0 +1,31 @@
+checked_on: '2026-10-13'
+yaml_files_parsed: 19
+expanded_records: 77
+records_by_dataset:
+  bookends: 4
+  westasia_europe: 22
+  asia_oceania: 26
+  africa_americas: 25
+source_ids: 64
+distinct_source_urls: 64
+scope_counts:
+  prehistoric: 65
+  crosses_boundary: 9
+  boundary_context: 3
+integration_status_counts:
+  collected: 77
+legacy_records_excluded_from_expanded_count: 4
+checks:
+- YAML syntax and duplicate keys
+- Unique record and source IDs
+- Required fields and strings
+- Exact source-ref and integration key sets
+- All source references resolve; no unused source IDs
+- Calendar/native range order and explicit boundary scope
+- Coverage-manifest paths exist
+issues: []
+limits:
+- Schema checks do not prove archaeological correctness.
+- Selected high-risk chronology and source claims were independently reviewed; this
+  is not a full review of all supporting materials.
+- No archaeological site has been assigned a game location ID.

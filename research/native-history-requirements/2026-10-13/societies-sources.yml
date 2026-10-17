@@ -1,0 +1,44 @@
+schema_version: 1
+catalogue_id: native_society_identity_requirements
+sources:
+  nr_src_lazaridis2016:
+    title: Genomic insights into the origin of farming in the ancient Near East
+    publisher: Nature / PubMed; author manuscript hosted by University of Huddersfield
+    type: peer_reviewed_ancient_dna_research
+    url: https://eprints.hud.ac.uk/id/eprint/30576/1/059311.full.pdf
+    locator: 'Main text, pp. 3-4, lines 112-114 (regional differentiation and continuity), 151-153 (Neolithic sample groups and chronology), 253-262 (continuity analyses).'
+    access_level: full_text_author_copy
+    checked_on: '2026-10-13'
+  nr_src_mathieson2018:
+    title: The genomic history of southeastern Europe
+    publisher: Nature / PubMed
+    type: peer_reviewed_ancient_dna_research
+    url: https://pubmed.ncbi.nlm.nih.gov/29466330/
+    locator: 'Abstract lines 392-395; Extended Data Figure 5 caption lines 451-454.'
+    access_level: abstract_and_figure_captions
+    checked_on: '2026-10-13'
+  nr_src_marchi2023:
+    title: Early contact between late farming and pastoralist societies in southeastern Europe
+    publisher: Nature / PubMed
+    type: peer_reviewed_ancient_dna_research
+    url: https://pubmed.ncbi.nlm.nih.gov/37468624/
+    locator: Abstract; 135 ancient individuals, from-about-4500-BCE contact, and proposed innovation-transfer mechanism.
+    access_level: abstract_only
+    checked_on: '2026-10-13'
+  nr_src_lazaridis2025:
+    title: The genetic origin of the Indo-Europeans
+    publisher: Nature
+    type: peer_reviewed_ancient_dna_research
+    url: https://reich.hms.harvard.edu/sites/reich.hms.harvard.edu/files/inline-files/2025_LazaridisPattersonAnthonyVyazov_IndoEuropean_Nature.pdf
+    locator: 'Abstract; Results section on admixture formation around 4000 BCE and archaeological Yamnaya appearance around 3300 BCE.'
+    access_level: full_text_author_copy
+    checked_on: '2026-10-13'
+  nr_src_klejn2017:
+    title: The steppe hypothesis of Indo-European origins remains to be proven
+    publisher: Acta Archaeologica / Wiley
+    type: peer_reviewed_critical_review
+    url: https://doi.org/10.1111/j.1600-0390.2017.12184.x
+    locator: Abstract; disagreements across archaeological, linguistic, genetic, and cultural interpretations.
+    access_level: abstract_only
+    checked_on: '2026-10-13'
+

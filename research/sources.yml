@@ -1,0 +1,105 @@
+schema_version: 1
+checked_on: "2026-10-13"
+sources:
+  unesco_gobekli:
+    title: Göbekli Tepe
+    publisher: UNESCO World Heritage Centre
+    type: institutional_site_record
+    url: https://whc.unesco.org/en/list/1572/
+    locator: Description and Outstanding Universal Value
+  unesco_catalhoyuk:
+    title: Neolithic Site of Çatalhöyük
+    publisher: UNESCO World Heritage Centre
+    type: institutional_site_record
+    url: https://whc.unesco.org/en/list/1405/
+    locator: Description
+  suetonius_augustus:
+    title: Suetonius, Life of Augustus
+    publisher: LacusCurtius, hosted by the University of Chicago
+    type: primary_text_translation
+    edition: J. C. Rolfe, Loeb Classical Library, 1913
+    url: https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Suetonius/12Caesars/Augustus%2A.html
+    locator: Sections 5.1 and 100.1; translator/editor notes
+    caveat: Birth date follows the conventional Roman-calendar rendering, not a proleptic Gregorian conversion.
+  suetonius_tiberius:
+    title: Suetonius, Life of Tiberius
+    publisher: LacusCurtius, hosted by the University of Chicago
+    type: primary_text_translation
+    edition: J. C. Rolfe, Loeb Classical Library, 1913
+    url: https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Suetonius/12Caesars/Tiberius%2A.html
+    locator: Sections 5.1 and 73.1
+    caveat: Section 5 also records competing ancient accounts of the birth year.
+  suetonius_caligula:
+    title: Suetonius, Life of Caligula
+    publisher: LacusCurtius, hosted by the University of Chicago
+    type: primary_text_translation
+    edition: J. C. Rolfe, Loeb Classical Library, 1913
+    url: https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Suetonius/12Caesars/Caligula%2A.html
+    locator: Sections 7.1–2 and 8.1–5
+    caveat: Section 8 discusses conflicting birthplace traditions and favors Antium.
+  suetonius_claudius:
+    title: Suetonius, Life of Claudius
+    publisher: LacusCurtius, hosted by the University of Chicago
+    type: primary_text_translation
+    edition: J. C. Rolfe, Loeb Classical Library, 1913
+    url: https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Suetonius/12Caesars/Claudius%2A.html
+    locator: Sections 1.1, 1.6 and 2.1
+    caveat: The birth year is normalized from the named consular year, not from the altar-dedication footnote.
+  suetonius_nero:
+    title: Suetonius, Life of Nero
+    publisher: Perseus Digital Library, Tufts University
+    type: primary_text_translation
+    url: https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0132%3Alife%3Dnero%3Achapter%3D6
+    locator: Section 6.1
+  iranica_vologases:
+    title: BALĀŠ ii. Balāš I
+    publisher: Encyclopaedia Iranica
+    type: scholarly_reference
+    url: https://www.iranicaonline.org/articles/balas/ii-balas-i/
+    locator: Fighting over Armenia and the chronology caveat; Rhandeia 62 and negotiations 63
+    caveat: The article explicitly warns that the campaign chronology cannot be reconstructed precisely.
+  iranica_armenia:
+    title: ARMENIA AND IRAN ii. The pre-Islamic period
+    publisher: Encyclopaedia Iranica
+    type: scholarly_reference
+    url: https://www.iranicaonline.org/articles/armenia-ii/
+    locator: Tiridates at Artaxata in 52; Corbulo's spring 58 campaign; Tigranocerta in 59
+  met_han:
+    title: Han Dynasty (206 B.C.–220 A.D.)
+    publisher: The Metropolitan Museum of Art
+    type: museum_research
+    url: https://www.metmuseum.org/essays/han-dynasty-206-b-c-220-a-d
+    locator: Opening chronology and Eastern Han capital paragraph
+  met_abbasid:
+    title: The Art of the Abbasid Period (750–1258)
+    publisher: The Metropolitan Museum of Art
+    type: museum_research
+    url: https://www.metmuseum.org/essays/the-art-of-the-abbasid-period-750-1258
+    locator: Opening paragraph; Baghdad 762 and Samarra 836–892
+  bl_eic:
+    title: IOR/B — East India Company administrative history
+    publisher: British Library Archives and Manuscripts Catalogue
+    type: archival_catalogue
+    url: https://searcharchives.bl.uk/catalog/032-000164862
+    locator: Administrative history, opening sentence, charter of 31 December 1600
+    access: search_index_excerpt
+    caveat: Catalogue excerpt was available; direct page fetch failed. Verify the full catalogue before territorial or monopoly-scope claims.
+  nrm_stockton_darlington:
+    title: Shildon, the Cradle of the Railways and Locomotion No.1
+    publisher: National Railway Museum, Science Museum Group
+    type: museum_research
+    url: https://blog.railwaymuseum.org.uk/shildon-the-cradle-of-the-railways-and-locomotion-no-1/
+    locator: Opening on 27 September 1825
+  smg_rocket:
+    title: Rocket locomotive
+    publisher: Science Museum Group Collection
+    type: museum_object_catalogue
+    url: https://collection.sciencemuseumgroup.org.uk/objects/co26704
+    locator: Made, designer, maker and Details fields
+    record_id: co26704
+  un_founders:
+    title: UN Founding Members
+    publisher: United Nations Dag Hammarskjöld Library
+    type: institutional_membership_record
+    url: https://research.un.org/en/unmembers/founders
+    locator: Introduction and founding-member ratification table

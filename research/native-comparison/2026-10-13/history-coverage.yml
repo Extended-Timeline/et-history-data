@@ -1,0 +1,122 @@
+schema_version: 1
+checked_on: '2026-10-13'
+coverage_probes:
+- date: -6000.1.1
+  meaning: Input coverage probe, not a proposed gameplay bookmark
+  countries:
+    parsed_files: 3337
+    parse_error_files: 0
+    files_with_a_date_at_or_before_probe: 0
+    nonempty_folded_states: 0
+  locations:
+    parsed_files: 20939
+    parse_error_files: 0
+    files_with_a_date_at_or_before_probe: 0
+    nonempty_folded_states: 0
+  characters:
+    parsed_files: 1413
+    parse_error_files: 0
+    character_entities: 31240
+    files_with_dated_character_data: 0
+    entities_with_date_at_or_before_probe: 0
+    alive_character_entities_by_converter_rules: 0
+- date: -4000.1.1
+  meaning: Input coverage probe, not a proposed gameplay bookmark
+  countries:
+    parsed_files: 3337
+    parse_error_files: 0
+    files_with_a_date_at_or_before_probe: 0
+    nonempty_folded_states: 0
+  locations:
+    parsed_files: 20939
+    parse_error_files: 0
+    files_with_a_date_at_or_before_probe: 0
+    nonempty_folded_states: 0
+  characters:
+    parsed_files: 1413
+    parse_error_files: 0
+    character_entities: 31240
+    files_with_dated_character_data: 0
+    entities_with_date_at_or_before_probe: 0
+    alive_character_entities_by_converter_rules: 0
+- date: -3100.1.1
+  meaning: Input coverage probe, not a proposed gameplay bookmark
+  countries:
+    parsed_files: 3337
+    parse_error_files: 0
+    files_with_a_date_at_or_before_probe: 0
+    nonempty_folded_states: 0
+  locations:
+    parsed_files: 20939
+    parse_error_files: 0
+    files_with_a_date_at_or_before_probe: 0
+    nonempty_folded_states: 0
+  characters:
+    parsed_files: 1413
+    parse_error_files: 0
+    character_entities: 31240
+    files_with_dated_character_data: 0
+    entities_with_date_at_or_before_probe: 0
+    alive_character_entities_by_converter_rules: 0
+- date: 58.2.1
+  meaning: Input coverage probe, not a proposed gameplay bookmark
+  countries:
+    parsed_files: 3337
+    parse_error_files: 0
+    files_with_a_date_at_or_before_probe: 3337
+    nonempty_folded_states: 3337
+  locations:
+    parsed_files: 20939
+    parse_error_files: 0
+    files_with_a_date_at_or_before_probe: 20939
+    nonempty_folded_states: 20933
+  characters:
+    parsed_files: 1413
+    parse_error_files: 0
+    character_entities: 31240
+    files_with_dated_character_data: 128
+    entities_with_date_at_or_before_probe: 413
+    alive_character_entities_by_converter_rules: 229
+world_at_58_2_1:
+  countries: 353
+  locations: 20939
+  characters: 229
+  dynasties: 1224
+  wars: 1
+  international_organizations: 4
+  locations_with_owner: 11082
+  locations_with_explicit_pop_weights: 20933
+  warning_count: 56
+  warning_categories:
+    dynasty: 36
+    PTA4@58.2.1: 2
+    ABIH@58.2.1: 1
+    ADIA@58.2.1: 1
+    ATAH@58.2.1: 1
+    ATTI@58.2.1: 1
+    CAYU@58.2.1: 1
+    CHIA@58.2.1: 1
+    CORD@58.2.1: 1
+    DECE@58.2.1: 1
+    DEME@58.2.1: 1
+    HIMY@58.2.1: 1
+    KLH@58.2.1: 1
+    KUSH@58.2.1: 1
+    MMM@58.2.1: 1
+    NABA@58.2.1: 1
+    OSRO@58.2.1: 1
+    QATB@58.2.1: 1
+    SABA@58.2.1: 1
+    load: 1
+limits:
+- Native+mod ID sets are extracted with the current converter regex; this is not validation
+  against engine parsing.
+- A nonempty folded state can be a name or a partial datum, not a complete playable
+  state.
+- Location model entries are emitted even when their historical state at the probe
+  date is empty.
+- Research records under research/ are not loaded by build_world.
+- No mod output or cache was generated; history data were read only.
+- Country/location coverage probes count nonempty states only; they do not establish
+  field completeness or correct ownership. Character probes descend into entity IDs
+  and use independent deep copies for each fold.

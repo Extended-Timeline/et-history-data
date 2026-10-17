@@ -1,0 +1,140 @@
+schema_version: 1
+period_id: prehistoric
+collected_on: '2026-10-13'
+records:
+  mw_ri_nukalns_yersinia:
+    catalogue_id: native_material_world_requirements
+    requirement_refs: [disease_and_resistance]
+    entity: Riņņukalns, Latvia
+    subject: ancient_pathogen_detection
+    finding: >-
+      Ancient DNA analysis reconstructed Yersinia pestis genome RV 2039 from
+      one hunter-fisher-gatherer individual buried at Riņņukalns. The individual
+      dates to 5300–5050 cal BP. The study reports an early strain whose
+      genetic characteristics differ from later highly virulent,
+      flea-borne bubonic plague strains; one infected individual is not evidence
+      of an outbreak, epidemic, or population decline.
+    dating:
+      precision: bp
+      reported_range: [5300, 5050]
+      unit: cal BP
+      reference_year: 1950
+      calibrated: true
+      approximate: false
+    source_refs:
+      - id: mw_src_ri_nukalns_plague
+        locator: 'Abstract; genome RV 2039 and reported individual dating'
+    confidence: high
+    scope:
+      examined: 'One hunter-fisher-gatherer individual represented by genome RV 2039 at Riņņukalns.'
+      generalization_limit: 'A single sampled individual does not estimate local prevalence or community-wide exposure.'
+    historical_process:
+      type: cross_sectional
+      assessment: 'Cross-sectional pathogen observation; no local transition has been demonstrated.'
+      before_after: 'No community-level before/after infection sequence is established by this individual genome.'
+      change_type: pathogen_presence_observation
+      mechanism:
+        interpretation: 'The molecular finding establishes Y. pestis DNA in the sampled person; transmission route and population-level spread are not established.'
+        evidence_status: direct_detection_plus_interpretation
+      alternatives: ['No disease transmission path can be selected from this one sample.', 'No pandemic or Neolithic population-collapse mechanism is supported by this record alone.']
+      evidence_basis: 'Ancient DNA genome reconstruction, archaeological burial context, and individual calibrated date.'
+    integration:
+      status: collected
+      note: >-
+        Pathogen presence only. Do not infer transmission route, local prevalence,
+        outbreak, or demographic impact from this individual genome.
+  mw_sulawesi_narrative_art:
+    catalogue_id: native_material_world_requirements
+    requirement_refs: [art_and_object_biography, date_resolution_and_provenance]
+    entity: Leang Karampuang, Maros-Pangkep karst, Sulawesi, Indonesia
+    subject: narrative_figurative_cave_art
+    finding: >-
+      A cave panel depicting human-like figures interacting with a Sulawesi
+      warty pig has a minimum age of 51,200 years based on laser-ablation
+      U-series analysis of overlying calcium-carbonate deposits. This is a
+      minimum bound for the painting, not an exact creation date or a direct
+      date on pigment; the authors discuss methodological limits where
+      carbonate layers have complex growth histories.
+    dating:
+      precision: relative
+      reported_value: 51200
+      unit: years_ago
+      reference_year: null
+      calibrated: null
+      approximate: true
+      minimum_age: true
+    source_refs:
+      - id: mw_src_sulawesi_art
+        locator: 'Abstract; results for Leang Karampuang panel; U-series minimum-age method'
+    confidence: high
+    scope:
+      examined: 'One figurative panel and associated overlying carbonate deposits at Leang Karampuang.'
+      generalization_limit: 'This panel cannot establish the prevalence, meaning, or spread of the practice across Sulawesi or beyond.'
+    historical_process:
+      type: cross_sectional
+      assessment: 'Cross-sectional dated artwork; the record does not demonstrate a local stylistic transition or diffusion process.'
+      before_after: 'No before/after sequence of local artistic practice is established; this dates a minimum age for one panel.'
+      change_type: dated_art_production_evidence
+      mechanism:
+        interpretation: 'U-series dating of carbonate overlying pigment sets a minimum age; it does not directly date pigment application.'
+        evidence_status: dating_method_with_taphonomic_limits
+      alternatives: ['Complex carbonate growth can affect date interpretation.', 'The narrative subject cannot be decoded from the image alone.']
+      evidence_basis: 'Panel context, figurative composition, and laser-ablation U-series analysis of overlying carbonate.'
+    integration:
+      status: collected
+      note: >-
+        Art-production and dating-method evidence. Do not identify the figures'
+        meaning, ritual, language, religion, or maker ethnicity from the scene.
+  mw_tel_hreiz_coastal_defense:
+    catalogue_id: native_material_world_requirements
+    requirement_refs: [settlement_coastal_adaptation, settlement_occupancy, settlement_facilities]
+    entity: Tel Hreiz, Carmel coast, Israel
+    subject: coastal_adaptation_and_settlement_change
+    finding: >-
+      Underwater excavation documented a Neolithic coastal settlement and a
+      free-standing boulder-built wall interpreted by the authors as a seawall
+      protecting the settlement from waves and marine erosion amid post-glacial
+      sea-level rise. The authors discuss possible repair/rebuilding episodes
+      and eventual inundation/abandonment, but the broad site range does not
+      date each construction or repair episode independently.
+    dating:
+      precision: relative
+      reported_range: [7500, 7000]
+      unit: years_BP
+      reference_year: 1950
+      calibrated: null
+      approximate: true
+      reported_notation: '7500–7000 BP'
+    source_refs:
+      - id: mw_src_tel_hreiz
+        locator: 'Abstract; results and discussion; Table 1 site dating context'
+    confidence: medium
+    scope:
+      examined: 'Underwater archaeological settlement and its free-standing boulder-built wall at Tel Hreiz.'
+      generalization_limit: 'The broad site range does not date every wall segment, repair, relocation, or the exact final abandonment.'
+    historical_process:
+      type: process_with_interpretive_mechanism
+      assessment: 'One partially evidenced transition: coastal settlement and wall are observed; their adaptation function and relationship to sea-level change are the authors’ interpretation, and the broad dates do not resolve every phase.'
+      before_after:
+        - state: 'Coastal settlement occupied during the reported 7500–7000 BP site range; local shoreline and relative water level changing.'
+          dating: 'Reported whole-site range only; no exact phase date asserted.'
+          evidence: 'Underwater settlement deposits and the article’s regional sea-level context.'
+        - state: 'A free-standing boulder wall was constructed and may have been repaired or modified.'
+          dating: 'Construction/repair episodes are not individually fixed to exact dates in this record.'
+          evidence: 'Underwater mapped wall sections, construction form, and authors’ functional interpretation.'
+        - state: 'The settlement was eventually inundated and abandoned.'
+          dating: 'Sequence outcome; exact end date not assigned here.'
+          evidence: 'Submerged settlement context and article interpretation.'
+      change_type: coastal_adaptation_then_inundation
+      mechanism:
+        interpretation: 'The authors interpret the wall as a response to waves and marine erosion in the context of rising post-glacial sea level.'
+        evidence_status: archaeological observation_plus_authors_functional_interpretation
+      alternatives: ['Different wall sections may reflect repairs, local topography, erosion, or staged construction.', 'A coastal defense structure is not thereby a military fortification.']
+      evidence_basis: 'Underwater archaeological survey/excavation, mapped wall construction, settlement dating, and regional sea-level reconstruction.'
+    integration:
+      status: collected
+      note: >-
+        Interpret as coastal adaptation, not automatically military fortification.
+        Preserve the article's broad BP site range; wall phases and abandonment
+        need finer dating before separate events can be represented.
+

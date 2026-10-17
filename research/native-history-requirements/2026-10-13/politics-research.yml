@@ -1,0 +1,108 @@
+schema_version: 1
+period_id: prehistoric
+collected_on: '2026-10-13'
+records:
+  phr_fact_hongshan_regional_ritual:
+    entity: Niuheliang and Hongshan regional communities, northeastern China
+    subject: ceremonial_centers_and_regional_differentiation
+    finding: A regional settlement study interprets Niuheliang ceremonial centers and select sub-localities as mechanisms
+      of social, political and regional stratification around the mid-fourth millennium BCE, while residential sites
+      were more loosely organized.
+    dating:
+      precision: relative
+      reported_value: roughly the mid 4th millennium BCE
+      time_scale: BCE
+      approximate: true
+    source_refs:
+    - id: phr_src_ucl_niuheliang
+      locator: 'Abstract, lines 36-40: landscape chronology and mid-fourth-millennium interpretation'
+    confidence: medium
+    integration:
+      status: collected
+      note: Approximate relative chronology preserved as reported. This is a scholarly interpretation of regional
+        ceremonial centrality and differentiation, not evidence for a named state, ruler, territorial border or
+        centralized government.
+    historical_process:
+      process_type: interpreted_growth_of_regional_ceremonial_differentiation
+      temporal_evidence: Authors describe Niuheliang as a chronologically late stage of Hongshan ceremonial investment
+        and especially impressive localities as particularly late; their abstract places stratification around the
+        mid 4th millennium BCE.
+      evidence_for_mechanism: Landscape position, access to routes, local geology, visibility, architecture and
+        portable goods.
+      source_interpretation: Ceremonial centers and sub-localities acted as mechanisms of social, political and
+        regional stratification.
+      limits: This is an archaeological interpretation of regional differentiation, not evidence for a named state,
+        ruler, territorial border or centralized government.
+    related_requirements:
+    - phr_governance_change_process
+    - phr_social_hierarchy_process
+  phr_fact_hongshan_household_roles:
+    entity: Hongshan household communities, northeastern China
+    subject: household_social_differentiation
+    finding: Analysis of 69 household artifact assemblages reports modest prestige differences, similar household
+      living standards and very low productive differentiation, while ritual and religious roles showed the strongest
+      detected differentiation.
+    dating:
+      precision: range
+      earliest_year: -4500
+      latest_year: -3000
+      time_scale: BCE
+      approximate: true
+      reported_range: Hongshan period, 4500–3000 BCE
+      scope: boundary_context
+    source_refs:
+    - id: phr_src_drennan_households
+      locator: Article abstract; sample size, household differentiation and limits on political power
+    confidence: high
+    integration:
+      status: collected
+      note: Reported range 4500–3000 BCE is retained in full and flagged as boundary context. The cross-sectional
+        household sample does not establish a before/after process, identify estates, hereditary offices, or rulers,
+        or justify generalization beyond the sampled communities.
+    historical_process:
+      process_type: period_spanning_household_pattern_not_a_demonstrated_transition
+      temporal_evidence: The study aggregates 69 household assemblages dated to the Hongshan period (4500–3000 BCE);
+        its abstract does not establish a before-and-after transition.
+      evidence_for_mechanism: Household artifact assemblages compared across residential units.
+      source_interpretation: Modest prestige difference, similar standards of living, low production differentiation,
+        and strongest observable differentiation in ritual/religious roles.
+      limits: Cross-sectional sampled pattern; not proof of an estate system or dated emergence of hereditary class.
+    related_requirements:
+    - phr_estate_hierarchy
+    - phr_social_hierarchy_process
+  phr_fact_hongshan_pottery_specialization:
+    entity: Dongshanzui area, Hongshan core zone, western Liaoning
+    subject: household_production_and_access
+    finding: Geochemical analysis of 231 sherds from six Late Hongshan household units found a limited set of local
+      clay sources and evidence that a small number of specialized households supplied a wider community; the study
+      associates status with preferential access rather than control of production.
+    dating:
+      precision: range
+      earliest_year: -3500
+      latest_year: -3000
+      time_scale: BCE
+      approximate: true
+      reported_range: Late Hongshan, 3500–3000 BCE
+      scope: boundary_context
+    source_refs:
+    - id: phr_src_zhu_pottery
+      locator: Abstract; sample size, supply interpretation and status/access conclusion
+    confidence: medium
+    integration:
+      status: collected
+      note: Full reported 3500–3000 BCE range is preserved and flagged as boundary context. This site-specific sample
+        describes a production/access pattern, not its emergence date, a polity boundary, tax, tribute system, or
+        named class.
+    historical_process:
+      process_type: late_period_production_network_pattern_not_a_demonstrated_transition
+      temporal_evidence: Six Late Hongshan household units dated 3500–3000 BCE; the abstract does not show a before-and-after
+        change.
+      evidence_for_mechanism: Geochemical analysis of 231 pottery sherds and identified clay-source distribution.
+      source_interpretation: A small number of specialized households supplied a broader community; status was linked
+        to preferential access rather than production control.
+      limits: Local sampled pattern; does not establish when specialization began or a tax, tribute, political territory,
+        or named social class.
+    related_requirements:
+    - phr_estate_privileges
+    - phr_social_hierarchy_process
+catalogue_id: native_history_requirements_2026_10_13

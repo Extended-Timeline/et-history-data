@@ -1,0 +1,182 @@
+schema_version: 1
+period_id: prehistoric
+collected_on: '2026-10-13'
+catalogue_id: native_society_identity_requirements
+records:
+  nr_proc_levant_zagros_lineages:
+    related_requirements:
+    - r01
+    - r04
+    - r07
+    - r19
+    - r20
+    - r21
+    - r24
+    entity: Early Neolithic populations of the southern Levant and Zagros
+    subject: ancestry_and_local_continuity
+    finding: A genome-wide study of ancient Near Eastern samples reports that early farming populations in the southern
+      Levant and Zagros were genetically differentiated and each descended from local hunter-gatherer populations.
+      Sampled southern Levant farmers at Ain Ghazal and Motza date to 8300-6700 BCE; Ganj Dareh farmers in the Zagros
+      date to 8200-7600 BCE.
+    dating:
+      precision: range
+      earliest_year: -8300
+      latest_year: -6700
+      approximate: true
+    reported_ranges:
+    - location: southern Levant, Ain Ghazal and Motza
+      start: 8300 BCE
+      end: 6700 BCE
+      time_scale: BCE
+    - location: Zagros, Ganj Dareh
+      start: 8200 BCE
+      end: 7600 BCE
+      time_scale: BCE
+    source_refs:
+    - id: nr_src_lazaridis2016
+      locator: 'Abstract and main text, pp. 3-4: lines 112-114 on differentiation/local descent and lines 151-153
+        on samples/date ranges.'
+    confidence: medium
+    access_level: full_text_author_copy
+    integration:
+      status: collected
+      note: Genetic clusters and local continuity models do not prove independently invented agriculture, ethnicity,
+        or language. Sample ranges are not synchronous event dates; use only as ancestry evidence.
+    historical_process:
+      process_type: distinct_local_continuity_across_farming_transition
+      before_after:
+      - before: Pre-farming hunter-gatherer populations in the southern Levant and southern Caucasus-Iran highlands,
+          grouped by site and chronology.
+        after: Early farming populations in the corresponding regions, genetically differentiated from one another.
+      temporal_evidence: Samples at Ain Ghazal/Motza (8300-6700 BCE) and Ganj Dareh (8200-7600 BCE); source reports
+        continuity separately in the Levant and Caucasus-Iran highlands.
+      evidence_for_mechanism: Ancient-genome comparisons using PCA, ADMIXTURE, outgroup f3, and f4 statistics cluster
+        local foragers with early farmers in each region; article reports no single farming population displacing
+        Near Eastern hunter-gatherers.
+      source_interpretation: Local population continuity accompanied adoption/spread of farming in multiple structured
+        Near Eastern populations.
+      limits: Genetic continuity does not distinguish every mix of local adoption, limited migration, or cultural
+        transmission; results do not by themselves establish multiple independent inventions of farming.
+  nr_proc_southeast_europe_mixing:
+    related_requirements:
+    - r01
+    - r04
+    - r07
+    - r18
+    - r19
+    - r20
+    - r21
+    - r24
+    entity: Early farming communities of southeastern and central Europe
+    subject: farmer_forager_interaction
+    finding: Ancient-DNA analyses report that first farmers who moved through southeastern Europe toward northern
+      and western Europe had limited local hunter-gatherer admixture, while some early groups remaining in the southeast
+      mixed extensively with hunter-gatherers without the male-biased pattern reported later farther north and west.
+    dating:
+      precision: range
+      earliest_year: -12000
+      latest_year: -500
+      approximate: true
+    reported_range:
+      start: 12000 BCE
+      end: 500 BCE
+      time_scale: BCE
+    research_window:
+      earliest_year: -7000
+      latest_year: -3001
+      note: Research question is restricted to the sampled first-farmer dispersal and pre-3000 BCE local interaction;
+        source dataset also includes post-3000 BCE samples, which are not treated as this period’s events.
+    source_refs:
+    - id: nr_src_mathieson2018
+      locator: 'Abstract, lines 392-395: study sample span and summary of first-farmer dispersal/admixture patterns;
+        Extended Data Figure 5, lines 451-454: sex-bias analysis.'
+    confidence: medium
+    access_level: abstract_and_figure_captions
+    integration:
+      status: collected
+      note: Cross-sectional genome samples show regionally different ancestry patterns; they do not identify named
+        cultural, linguistic, or ethnic transitions. The study’s entire sample span extends after 3000 BCE; only
+        pre-cutoff comparisons are relevant here.
+    historical_process:
+      process_type: migration_and_regionally_variable_forager_admixture
+      before_after:
+      - before: Southeastern European hunter-gatherer populations with structured west-east ancestry variation.
+        after: Farmer populations dispersing north/west with limited local admixture, alongside some southeastern
+          groups with extensive admixture.
+      temporal_evidence: Study abstract dates first farming introduction in Europe to the mid-seventh millennium
+        BCE; its full dataset spans 12000-500 BCE. It reports a pre/post regional contrast, not a single admixture
+        date.
+      evidence_for_mechanism: Genome-wide data from 225 people; inferred ancestry clines and comparisons between
+        regional and chronological samples. The authors infer migrant-associated farming and regional admixture.
+      source_interpretation: Migration of farming groups and local hunter-gatherer admixture varied by region; ancestry
+        change was not a single uniform process.
+      limits: Genetic mixture alone cannot resolve the relative role of migration, local adoption, intermarriage,
+        or sampling; the study’s post-3000 BCE results are excluded from this prehistoric window.
+    dating_scope: Full source dataset interval, not a single transition interval.
+  nr_proc_northpontic_contact_and_yamnaya:
+    related_requirements:
+    - r01
+    - r03
+    - r04
+    - r05
+    - r07
+    - r18
+    - r19
+    - r20
+    - r21
+    - r24
+    entity: Southeastern Europe, northwestern Black Sea contact zone, and Pontic-Caspian steppe
+    subject: farmer_forager_pastoralist_contact_and_cultural_formation
+    finding: A 135-individual study reports that from about 4500 BCE some northwestern Black Sea groups carried
+      varying ancestry related to Copper Age communities and forest-steppe populations, indicating roughly a millennium
+      of contact before later pastoralist expansion. A separate 2025 genomic synthesis models Yamnaya ancestors
+      forming by admixture around 4000 BCE and archaeological emergence of the Yamnaya complex around 3300 BCE;
+      contact-related transfer of innovations is proposed as one contributor, not demonstrated as a sole cause.
+    dating:
+      precision: range
+      earliest_year: -4500
+      latest_year: -3300
+      approximate: true
+    reported_ranges:
+    - start: about 4500 BCE
+      end: about 3500 BCE
+      time_scale: BCE
+      note: Study describes about 1000 years of contact before pastoralist expansion around 3300 BCE.
+    - start: about 4000 BCE
+      end: about 3300 BCE
+      time_scale: BCE
+      note: Modeled ancestry formation then archaeological emergence.
+    reported_context: The 2025 study says the Yamnaya complex reached its maximal extent around 3000 BCE; that boundary
+      and later expansion are not claimed as completed before the cutoff.
+    source_refs:
+    - id: nr_src_marchi2023
+      locator: 'Abstract: study of 135 ancient individuals, contact from about 4500 BCE, and the authors’ proposed
+        role of innovation transfer in later pastoralist formation.'
+    - id: nr_src_lazaridis2025
+      locator: 'Abstract: 435 ancient genomes, Yamnaya appearance around 3300 BCE and maximum extent by about 3000
+        BCE; Results section on ancestral admixture around 4000 BCE.'
+    - id: nr_src_klejn2017
+      locator: 'Abstract: critical review describing unresolved discrepancies among archaeological, linguistic,
+        genetic, and cultural evidence.'
+    confidence: medium
+    access_level: publisher_abstract_and_searchable_author_copy
+    integration:
+      status: collected
+      note: Ancestry, material-culture contact, pastoralism, archaeological complex, language, ethnicity, and state
+        are distinct. Linguistic homeland claims remain contested; evidence supports no named polity or self-identified
+        ethnic group.
+    historical_process:
+      process_type: contact_and_admixture_preceding_pastoralist_expansion
+      before_after:
+      - before: Copper Age farming communities and forest/steppe populations represented in the regional samples.
+        after: Some northwestern Black Sea groups with mixed ancestry from about 4500 BCE; later steppe groups whose
+          modeled admixture predates Yamnaya archaeological emergence.
+      temporal_evidence: 135-person study reports contact from about 4500 BCE for roughly a millennium; 2025 genome
+        synthesis models Yamnaya-ancestor admixture around 4000 BCE and archaeological emergence around 3300 BCE.
+      evidence_for_mechanism: Ancient genomes support ancestry mixing and contact; related material and technical
+        innovations are discussed by the 2023 authors.
+      source_interpretation: The 2023 study proposes transfer of innovations across ecogeographic zones as integral
+        to later pastoralist formation and expansion.
+      limits: Contact and admixture are observed through samples; causal priority of innovation transfer is an interpretation.
+        Yamnaya is an archaeological complex, not a direct ethnic or language label. Maximum extent around 3000
+        BCE touches the project boundary; later spread is outside this batch.

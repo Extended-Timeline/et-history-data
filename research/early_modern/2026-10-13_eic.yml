@@ -1,0 +1,28 @@
+schema_version: 1
+period_id: early_modern
+collected_on: "2026-10-13"
+records:
+  eic_charter:
+    entity: English East India Company
+    subject: organization_foundation
+    finding: The founding charter was granted on 31 December 1600.
+    dating: {precision: day, date: "1600.12.31", calendar: source_civil_date}
+    source_refs: [{id: bl_eic, locator: "IOR/B administrative history, opening sentence"}]
+    confidence: medium
+    integration: {status: collected, note: The archival search excerpt supports the date; full catalogue and organizational mapping need review before emission.}
+  eic_charter_issuer:
+    entity: English East India Company
+    subject: organization_foundation
+    finding: Elizabeth I was the monarch who granted the charter.
+    dating: {precision: day, date: "1600.12.31", calendar: source_civil_date}
+    source_refs: [{id: bl_eic, locator: "IOR/B administrative history, opening sentence"}]
+    confidence: medium
+    integration: {status: collected, note: Founding a trading corporation does not establish sovereignty over an Indian location.}
+  eic_original_name:
+    entity: English East India Company
+    subject: organization_identity
+    finding: The chartered corporation's name identifies the Governor and Company of Merchants of London Trading into the East Indies.
+    dating: {precision: day, date: "1600.12.31", calendar: source_civil_date}
+    source_refs: [{id: bl_eic, locator: "IOR/B administrative history, opening sentence"}]
+    confidence: medium
+    integration: {status: collected, note: Store as historical organization identity; no country tag or localization key has been invented.}

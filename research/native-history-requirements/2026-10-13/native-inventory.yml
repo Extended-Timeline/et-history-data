@@ -1,0 +1,431 @@
+schema_version: 1
+checked_on: '2026-10-13'
+native_root: D:\Games\Europa Universalis 5\Europa.Universalis.V.v1.2.5-0xdeadcode\game
+purpose: Native-only inventory; folder presence is not a historical assertion or a
+  proof of runtime semantics.
+common_category_count: 124
+common_categories:
+  advances:
+    files: 216
+    example: in_game/common/advances/0_age_of_absolutism.txt
+  age:
+    files: 1
+    example: in_game/common/age/00_default.txt
+  ai_diplochance:
+    files: 2
+    example: in_game/common/ai_diplochance/00_ai_diplochance.txt
+  ai_personalities:
+    files: 1
+    example: in_game/common/ai_personalities/00_ai_personalities.txt
+  ai_scripted_expansion_score:
+    files: 2
+    example: in_game/common/ai_scripted_expansion_score/guelphs_and_ghibellines.txt
+  ai_scripted_expansion_target:
+    files: 2
+    example: in_game/common/ai_scripted_expansion_target/guelphs_and_ghibellines.txt
+  alert_descriptions:
+    files: 1
+    example: in_game/common/alert_descriptions/00_default.txt
+  area_preferences:
+    files: 2
+    example: in_game/common/area_preferences/conquest_preferences.txt
+  artist_types:
+    files: 2
+    example: in_game/common/artist_types/00_default.txt
+  artist_work:
+    files: 2
+    example: in_game/common/artist_work/00_default.txt
+  attribute_columns:
+    files: 62
+    example: in_game/common/attribute_columns/00_defaults.txt
+  auto_modifiers:
+    files: 6
+    example: in_game/common/auto_modifiers/byzantium.txt
+  avatars:
+    files: 2
+    example: in_game/common/avatars/hindu.txt
+  biases:
+    files: 8
+    example: in_game/common/biases/00_opinion_hardcoded.txt
+  building_categories:
+    files: 1
+    example: in_game/common/building_categories/00_default.txt
+  building_types:
+    files: 45
+    example: in_game/common/building_types/00_unique_buildings_to_make_obsolete.txt
+  bureaucracies:
+    files: 4
+    example: in_game/common/bureaucracies/byz.txt
+  cabinet_actions:
+    files: 72
+    example: in_game/common/cabinet_actions/aid_constantinople.txt
+  casus_belli:
+    files: 68
+    example: in_game/common/casus_belli/00_hardcoded.txt
+  character_interactions:
+    files: 33
+    example: in_game/common/character_interactions/abdicate.txt
+  child_educations:
+    files: 3
+    example: in_game/common/child_educations/00_default.txt
+  chivalric_orders:
+    files: 3
+    example: in_game/common/chivalric_orders/01_historical_orders.txt
+  climates:
+    files: 1
+    example: in_game/common/climates/00_default.txt
+  country_description_categories:
+    files: 2
+    example: in_game/common/country_description_categories/categories.txt
+  country_interactions:
+    files: 89
+    example: in_game/common/country_interactions/annul_casus_belli.txt
+  country_ranks:
+    files: 2
+    example: in_game/common/country_ranks/00_default.txt
+  culture_groups:
+    files: 2
+    example: in_game/common/culture_groups/00_culture_groups.info
+  cultures:
+    files: 54
+    example: in_game/common/cultures/00_cultures.info
+  customizable_localization:
+    files: 26
+    example: in_game/common/customizable_localization/00_customizable_localization.txt
+  death_reason:
+    files: 3
+    example: in_game/common/death_reason/00_hardcoded.txt
+  designated_heir_reason:
+    files: 1
+    example: in_game/common/designated_heir_reason/00_standard.txt
+  diplomatic_costs:
+    files: 2
+    example: in_game/common/diplomatic_costs/00_hardcoded.txt
+  disasters:
+    files: 37
+    example: in_game/common/disasters/ambrosian_republic.txt
+  diseases:
+    files: 8
+    example: in_game/common/diseases/bubonic_plague.txt
+  effect_localization:
+    files: 36
+    example: in_game/common/effect_localization/00_tutorial_effects_loc.txt
+  employment_systems:
+    files: 2
+    example: in_game/common/employment_systems/00_default.txt
+  estate_privileges:
+    files: 8
+    example: in_game/common/estate_privileges/burghers_estate.txt
+  estates:
+    files: 1
+    example: in_game/common/estates/00_default.txt
+  ethnicities:
+    files: 54
+    example: in_game/common/ethnicities/00_ethnicities.txt
+  formable_countries:
+    files: 3
+    example: in_game/common/formable_countries/00_formable_countries.txt
+  generic_action_ai_lists:
+    files: 86
+    example: in_game/common/generic_action_ai_lists/advisor_management_list.txt
+  generic_actions:
+    files: 105
+    example: in_game/common/generic_actions/autocephalous_patriarchates.txt
+  genes:
+    files: 11
+    example: in_game/common/genes/00_genes_color.txt
+  gods:
+    files: 12
+    example: in_game/common/gods/common.txt
+  goods:
+    files: 6
+    example: in_game/common/goods/00_raw_materials.txt
+  goods_demand:
+    files: 7
+    example: in_game/common/goods_demand/army_demands.txt
+  goods_demand_category:
+    files: 1
+    example: in_game/common/goods_demand_category/00_default.txt
+  government_reforms:
+    files: 7
+    example: in_game/common/government_reforms/common.txt
+  government_types:
+    files: 1
+    example: in_game/common/government_types/00_default.txt
+  hegemons:
+    files: 5
+    example: in_game/common/hegemons/0_economic_hegemon.txt
+  heir_selections:
+    files: 6
+    example: in_game/common/heir_selections/00_heir_selections.info
+  historical_scores:
+    files: 1
+    example: in_game/common/historical_scores/the_best_and_worst.txt
+  holy_site_types:
+    files: 2
+    example: in_game/common/holy_site_types/00_holy_site_types.txt
+  holy_sites:
+    files: 17
+    example: in_game/common/holy_sites/bogomilism.txt
+  institution:
+    files: 7
+    example: in_game/common/institution/age_1_traditions_institutions.txt
+  insults:
+    files: 1
+    example: in_game/common/insults/00_insults.txt
+  international_organization_land_ownership_rules:
+    files: 9
+    example: in_game/common/international_organization_land_ownership_rules/high_kingship_land_ownership.txt
+  international_organization_payments:
+    files: 7
+    example: in_game/common/international_organization_payments/hre.txt
+  international_organization_special_statuses:
+    files: 11
+    example: in_game/common/international_organization_special_statuses/catholic_church.txt
+  international_organizations:
+    files: 35
+    example: in_game/common/international_organizations/autocephalous_patriarchate.txt
+  join_war_rules:
+    files: 2
+    example: in_game/common/join_war_rules/readme.txt
+  language_families:
+    files: 1
+    example: in_game/common/language_families/00_language_families.txt
+  languages:
+    files: 54
+    example: in_game/common/languages/00_alaska.txt
+  laws:
+    files: 30
+    example: in_game/common/laws/00_monarchy.txt
+  levies:
+    files: 9
+    example: in_game/common/levies/00_revolutions_levies.txt
+  location_ranks:
+    files: 1
+    example: in_game/common/location_ranks/00_default.txt
+  mission_task_defs:
+    files: 1
+    example: in_game/common/mission_task_defs/missin_task_defs.info
+  missions:
+    files: 12
+    example: in_game/common/missions/____Info.txt
+  movements:
+    files: 5
+    example: in_game/common/movements/calvinism_movement.txt
+  music_player_tracks:
+    files: 2
+    example: in_game/common/music_player_tracks/00_music_player_tracks.txt
+  on_action:
+    files: 22
+    example: in_game/common/on_action/_hardcoded.txt
+  parliament_agendas:
+    files: 7
+    example: in_game/common/parliament_agendas/00_common.txt
+  parliament_issues:
+    files: 10
+    example: in_game/common/parliament_issues/01_country_specific_parliament_issues.txt
+  parliament_types:
+    files: 3
+    example: in_game/common/parliament_types/00_default.txt
+  peace_treaties:
+    files: 54
+    example: in_game/common/peace_treaties/abandon_colonial_claim.txt
+  persistent_dna:
+    files: 1
+    example: in_game/common/persistent_dna/custom_characters.txt
+  policies:
+    files: 1
+    example: in_game/common/policies/policies.info
+  pop_types:
+    files: 1
+    example: in_game/common/pop_types/00_default.txt
+  prices:
+    files: 8
+    example: in_game/common/prices/00_hardcoded.txt
+  production_methods:
+    files: 3
+    example: in_game/common/production_methods/__readme.txt
+  rebel_demands:
+    files: 2
+    example: in_game/common/rebel_demands/900_country_specific_from_startup_or_events.txt
+  recruitment_method:
+    files: 3
+    example: in_game/common/recruitment_method/army.txt
+  regencies:
+    files: 16
+    example: in_game/common/regencies/00_fratricide_succesion.txt
+  religion_groups:
+    files: 1
+    example: in_game/common/religion_groups/00_default.txt
+  religions:
+    files: 30
+    example: in_game/common/religions/buddhist.txt
+  religious_aspects:
+    files: 19
+    example: in_game/common/religious_aspects/anglican.txt
+  religious_factions:
+    files: 2
+    example: in_game/common/religious_factions/readme.txt
+  religious_figures:
+    files: 2
+    example: in_game/common/religious_figures/00_muslim.txt
+  religious_focuses:
+    files: 2
+    example: in_game/common/religious_focuses/nahuatl.txt
+  religious_schools:
+    files: 6
+    example: in_game/common/religious_schools/hinduism.txt
+  resolutions:
+    files: 24
+    example: in_game/common/resolutions/00_excommunicate.txt
+  rival_criteria:
+    files: 2
+    example: in_game/common/rival_criteria/europe.txt
+  road_types:
+    files: 2
+    example: in_game/common/road_types/00_generic.txt
+  script_values:
+    files: 26
+    example: in_game/common/script_values/_____debug_stuf.txt
+  scriptable_hints:
+    files: 2
+    example: in_game/common/scriptable_hints/____info.txt
+  scripted_country_names:
+    files: 1
+    example: in_game/common/scripted_country_names/00_default.txt
+  scripted_diplomatic_objectives:
+    files: 3
+    example: in_game/common/scripted_diplomatic_objectives/hre_emperorship.txt
+  scripted_effects:
+    files: 16
+    example: in_game/common/scripted_effects/00_event_illustration_effects.txt
+  scripted_geography:
+    files: 4
+    example: in_game/common/scripted_geography/00_event_scripted_geography.txt
+  scripted_guis:
+    files: 2
+    example: in_game/common/scripted_guis/economy_satisfaction_target.txt
+  scripted_lists:
+    files: 3
+    example: in_game/common/scripted_lists/character_lists.txt
+  scripted_modifiers:
+    files: 1
+    example: in_game/common/scripted_modifiers/scripted_modifiers.info
+  scripted_relations:
+    files: 35
+    example: in_game/common/scripted_relations/agitate_for_liberty.txt
+  scripted_rules:
+    files: 1
+    example: in_game/common/scripted_rules/scripted_rules.info
+  scripted_triggers:
+    files: 25
+    example: in_game/common/scripted_triggers/00_clothing_triggers.txt
+  situations:
+    files: 23
+    example: in_game/common/situations/black_death.txt
+  societal_values:
+    files: 1
+    example: in_game/common/societal_values/00_default.txt
+  subject_military_stances:
+    files: 2
+    example: in_game/common/subject_military_stances/00_default.txt
+  subject_types:
+    files: 18
+    example: in_game/common/subject_types/appanage.txt
+  tests:
+    files: 5
+    example: in_game/common/tests/00_generic.txt
+  topography:
+    files: 1
+    example: in_game/common/topography/00_default.txt
+  town_rights:
+    files: 10
+    example: in_game/common/town_rights/00_traditions.txt
+  town_setups:
+    files: 1
+    example: in_game/common/town_setups/00_default.txt
+  trait_flavor:
+    files: 1
+    example: in_game/common/trait_flavor/00_default.txt
+  traits:
+    files: 10
+    example: in_game/common/traits/00_ruler.txt
+  trigger_localization:
+    files: 44
+    example: in_game/common/trigger_localization/_trigger_localization.info
+  tutorial_lesson_chains:
+    files: 2
+    example: in_game/common/tutorial_lesson_chains/00_tutorial_lesson_chains.txt
+  tutorial_lessons:
+    files: 5
+    example: in_game/common/tutorial_lessons/00_tutorial_lesson_admin.txt
+  unit_abilities:
+    files: 17
+    example: in_game/common/unit_abilities/absorb_pops.txt
+  unit_categories:
+    files: 11
+    example: in_game/common/unit_categories/00_army_light_infantry.txt
+  unit_formation_preference:
+    files: 3
+    example: in_game/common/unit_formation_preference/army.txt
+  unit_types:
+    files: 31
+    example: in_game/common/unit_types/00_age_templates_land.txt
+  vegetation:
+    files: 1
+    example: in_game/common/vegetation/00_default.txt
+  wargoals:
+    files: 2
+    example: in_game/common/wargoals/00_default.txt
+start_file_count: 25
+start_files:
+- path: main_menu/setup/start/02_core.txt
+  sha256: 3e4bb471e8a4de0ee1a3cf437571721260f8f90cc88b1ff10ddeba043f2dbd1a
+- path: main_menu/setup/start/03_markets.txt
+  sha256: 7818c25dc67598d29fd7494e7d086ee325f5389c953fa2ef42600eabac9fba50
+- path: main_menu/setup/start/04_dynasties.txt
+  sha256: 430fffc6f698d110b9e4df36c955b0c2a50e2b6ab440844aea874f3ad7070546
+- path: main_menu/setup/start/05_characters.txt
+  sha256: a14c45c66a0e85ebde0cdf19e03d3982ad6bfe45b1a95c9fc8b0e212622d8667
+- path: main_menu/setup/start/06_pops.txt
+  sha256: 9ff82f578ce535314bf20eecdcc61c6f4b892ee12cc0fe8c228c56c4be035d1e
+- path: main_menu/setup/start/07_cities_and_buildings.txt
+  sha256: 0812a9f7c5e1875675f304afcd4bb6a8239b2f9c894840a47c599ea43dd602b6
+- path: main_menu/setup/start/08_institutions.txt
+  sha256: 7ca8a90d96ccab2deb5f1b94179fb215dce45eede70b6dd8b0bbd0474e3165f7
+- path: main_menu/setup/start/09_roads.txt
+  sha256: 65f360f3e4c08f1f5b4a1978731cdc6dc33901d6758f6551fc21c9c2fd1f52d2
+- path: main_menu/setup/start/10_countries.txt
+  sha256: 1f2491ea199e78709fa4e5cc2c59666730996195c005c0663001c04ed64abc8a
+- path: main_menu/setup/start/11_art.txt
+  sha256: 58364aa41e99b6e0a96b9901eae8f3c98f4092d30efe13a6b4aa483d142cd13e
+- path: main_menu/setup/start/12_diplomacy.txt
+  sha256: c2b86e760721342a26f15d54629de32feef29d33e081cf0828c570a058d047d3
+- path: main_menu/setup/start/13_religion.txt
+  sha256: acff3fd8a7edbe2ba656c986f5fe533a2706997d63a020b640cd0e1d96295f6c
+- path: main_menu/setup/start/14_development.txt
+  sha256: d633ff37d4987d40d365f5f176b51552a2d3d29649cded1baa86cc86b53206ed
+- path: main_menu/setup/start/15_international_organizations.txt
+  sha256: 9398a1ec2095580419370969428264e5fdaeb7e114230aff9e66a444e1d01a3e
+- path: main_menu/setup/start/16_wars.txt
+  sha256: 27a35c71ac212d4f965a0b342f34ccca39022d1259a1969d1a0ed742e3d6173b
+- path: main_menu/setup/start/18_opinions.txt
+  sha256: ffa73fdde1ece3c4472efb0731baf2efc51007f9465f46b379c099a0c38c246c
+- path: main_menu/setup/start/19_diseases.txt
+  sha256: 1e7ff731b97d1e0aa83b8f69c7b117f88395c070ab7c8c9f5aaeacfec8fe2c83
+- path: main_menu/setup/start/20_rivals.txt
+  sha256: 777b28ee7bf9a2efd9f0522974cbb4e7b7544d165f0b4b8188b70f80079eacdf
+- path: main_menu/setup/start/21_locations.txt
+  sha256: a8e7fff8434185c4430b592622e2bf7204d5b31a9bddfc199305ed55fdce477b
+- path: main_menu/setup/start/22_situations.txt
+  sha256: ae94b21a8976bf2ef2dbd890c51f6a83d1b27d8cb1b1b290b309c47a8c2a90f3
+- path: main_menu/setup/start/23_colonies.txt
+  sha256: 648749fa05dc0df8347a550fe5f1596535d9ba4a55a35fb3702206c494dbf02f
+- path: main_menu/setup/start/24_town_rights.txt
+  sha256: 479c0285595e26c0a1863730351e21717c7be2340ca229b572698cd2751a803d
+- path: main_menu/setup/start/25_area_preferences.txt
+  sha256: b4b5262b91fd0083f4f3c292b937635b8aaddb9a7353503095039dd21eb22a6c
+- path: main_menu/setup/start/26_ai_personalities.txt
+  sha256: 1f58036fb63014fae33b75d532bd7846791a3fe4ad6218718854eabfb15003a2
+- path: main_menu/setup/start/27_armies.txt
+  sha256: bc7625b8bd4cc2a14ff67f109839f15a29617cb40a49f1d118ed158e9a2ea7f1

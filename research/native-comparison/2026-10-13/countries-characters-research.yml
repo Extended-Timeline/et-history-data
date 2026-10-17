@@ -1,0 +1,71 @@
+schema_version: 1
+period_id: prehistoric
+collected_on: '2026-10-13'
+records:
+  ccg_fact_kinship_shift:
+    entity: Çatalhöyük East Mound
+    subject: household_kinship_change
+    finding: Analysis of 131 ancient genomes with archaeological data reports that early same-building burials
+      were often close genetic relatives, while later same-building individuals were often unrelated despite
+      similar diets.
+    dating:
+      precision: range
+      earliest_year: -7100
+      latest_year: -5950
+      approximate: true
+    source_refs:
+    - id: ccg_src_pubmed
+      locator: Abstract; East Mound occupation range and early-versus-later building kinship results
+    confidence: high
+    integration:
+      status: collected
+      note: This is a sampled burial and kinship pattern, not a complete household genealogy, dynasty, or named-character
+        roster.
+    addresses_comparison_gaps:
+    - ccg01
+    - ccg02
+    - ccg04
+  ccg_fact_maternal_links:
+    entity: Çatalhöyük East Mound
+    subject: within_building_kinship_pattern
+    finding: The same study reports that genetic connections within buildings were predominantly maternal rather
+      than paternal throughout the examined periods, with no detected sex-biased mobility into the settlement.
+    dating:
+      precision: range
+      earliest_year: -7100
+      latest_year: -5950
+      approximate: true
+    source_refs:
+    - id: ccg_src_pubmed
+      locator: Abstract; sex-biased mobility and within-building genetic connections
+    confidence: high
+    integration:
+      status: collected
+      note: Maternal-line predominance is a sampled kinship pattern and cannot justify a named matrilineal
+        dynasty or political succession.
+    addresses_comparison_gaps:
+    - ccg02
+    - ccg04
+  ccg_fact_west_burial:
+    entity: Çatalhöyük West Mound
+    subject: burial_context
+    finding: The site management plan reports no evidence for burials beneath West Mound house floors and suggests
+      burial may have shifted off site, weakening direct house-based ancestry links in the excavated context.
+    dating:
+      precision: range
+      earliest_year: -6200
+      latest_year: -5200
+      approximate: true
+    source_refs:
+    - id: ccg_src_management
+      locator: Section 'Çatalhöyük West', PDF pages 16–17; under-floor burial discussion
+    - id: ccg_src_unesco
+      locator: Outstanding Universal Value; West Mound Chalcolithic date range 6200-5200 BCE
+    confidence: medium
+    integration:
+      status: collected
+      note: Negative evidence is limited to excavated contexts and the management plan interpretation; it does
+        not prove all burial was off-site.
+    addresses_comparison_gaps:
+    - ccg02
+    - ccg09

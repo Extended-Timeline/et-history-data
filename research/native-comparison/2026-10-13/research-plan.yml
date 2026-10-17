@@ -1,0 +1,83 @@
+schema_version: 1
+updated_on: "2026-10-13"
+period_id: prehistoric
+dependency_note: Data collection may proceed while converter/design questions remain open. Collected evidence is not automatically applied to gameplay.
+tasks:
+  spatial_site_register:
+    priority: P0
+    kind: data_collection
+    comparison_refs: [lpg_id_semantics, lpg_site_scale_to_rank, ccg10]
+    targets: [site_name, coordinates, coordinate_reference_system, footprint, occupation_phase, permanence, settlement_function]
+    state: started
+    evidence_records: [lpr_catal_site_coordinates]
+    acceptance: Published coordinates and their precision are recorded; game projection and location geometry are checked before assigning location_id. A point is not a provincial boundary.
+  population_estimates:
+    priority: P0
+    kind: data_collection
+    comparison_refs: [lpg_population, country_population]
+    targets: [total_population, unit, geographic_scope, dated_phase, low_estimate, high_estimate, method, contemporaneous_buildings, occupancy_assumptions]
+    state: started
+    evidence_records: [lpr_catal_population_reestimate]
+    acceptance: Preserve competing models and uncertainty; distinguish average-year, peak and cumulative inhabitants. Verify native output units before any projection; relative pop weights remain separate.
+  subsistence_and_production:
+    priority: P0
+    kind: data_collection
+    comparison_refs: [lpg_resource_emission, lpg_production_methods, trade_and_economy]
+    targets: [material, natural_availability, extraction_site, production_site, processing_activity, imported_find, source_provenance, phase, uncertainty]
+    state: started
+    evidence_records: [lpr_catal_cereal_mixture, lpr_catal_obsidian_provenance, lpr_catal_charred_samples, asr_hamoukar_obsidian_production]
+    acceptance: Consumption and imported material are not local production. Site-wide chronology does not date each sample. An activity does not establish a game production-method ID or output quantity.
+  local_technology_adoption:
+    priority: P1
+    kind: data_collection
+    comparison_refs: [tech_level, advance_catalog, agriculture_advances]
+    targets: [activity, first_observed_context, dating_method, repeated_use, regional_adoption, diffusion_evidence]
+    state: started
+    evidence_records: [asr_catalhoyuk_copper_finds]
+    acceptance: Separate native-copper working from smelting, plant use from domestication and literacy from isolated marks. Source dates do not directly prescribe starting_technology_level.
+  social_organization:
+    priority: P1
+    kind: data_collection
+    comparison_refs: [ccg01, ccg02, ccg04, ccg14]
+    targets: [household_organization, kinship_evidence, settlement_hierarchy, authority_evidence, interpretation_alternatives]
+    state: started
+    evidence_records: [ccg_fact_kinship_shift, ccg_fact_maternal_links, ccg_fact_west_burial]
+    acceptance: Do not derive named dynasties, succession laws or sovereignty from maternal links, burial groups or ceramic traditions. Country/pop/building/army representation is a separate design decision.
+  violence_and_defenses:
+    priority: P1
+    kind: data_collection
+    comparison_refs: [land_units, wars, war_identifiers]
+    targets: [trauma, destruction_context, projectile_type, defensive_architecture, dating, alternative_explanation, identified_participants]
+    state: started
+    evidence_records: [asr_hamoukar_sling_battle, asr_ur_standard_onager_vehicles]
+    acceptance: Preserve disputed interpretations. Unknown belligerents and force sizes remain unknown. Standard of Ur is ancient boundary context and must not be counted as prehistoric vehicle evidence.
+  regional_expansion:
+    priority: P1
+    kind: data_collection
+    targets: [West_Asia, Europe, Africa, South_Asia, East_Asia, Southeast_Asia, Oceania, Americas]
+    state: pending
+    acceptance: Apply the same field-oriented evidence model beyond the initial Anatolian/Mesopotamian examples. Keep archaeological phase names local and source population methods independently for each region.
+  resource_and_population_projection:
+    priority: P0
+    kind: converter_design
+    comparison_refs: [lpg_resource_emission, lpg_population, lpg_id_semantics]
+    state: documented_not_implemented
+    acceptance: Define resource semantics, absolute-population units and field handling; require no-loss checks when conversion is implemented. Unknown input must remain visible rather than silently becoming a medieval median.
+  nonterritorial_society_model:
+    priority: P0
+    kind: game_and_converter_design
+    comparison_refs: [ccg14, ccg01, country_population]
+    state: documented_not_implemented
+    acceptance: Check native support and select explicit rules for societies without territorial ownership; do not grant a fictional state merely to bypass an owner gate.
+  ages_institutions_and_presets:
+    priority: P0
+    kind: game_design
+    comparison_refs: [age_catalog, tech_level, institutions, reforms, legal_laws]
+    state: documented_not_implemented
+    acceptance: Define dated and regional mechanics independently of research classes. Review existing presets and inherited institution starts against each era while preserving upstream files.
+  signed_year_runtime:
+    priority: P0
+    kind: runtime_validation
+    comparison_refs: [negative_dates, date_window]
+    state: unverified
+    acceptance: Test negative scenario start, dated setup values, UI display, time progression and age transitions separately before claiming BCE gameplay support. Preserve source calendars in the archive regardless of implementation choice.

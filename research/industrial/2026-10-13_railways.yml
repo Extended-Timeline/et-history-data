@@ -1,0 +1,36 @@
+schema_version: 1
+period_id: industrial
+collected_on: "2026-10-13"
+records:
+  stockton_darlington_opening:
+    entity: Stockton and Darlington Railway
+    subject: transport_infrastructure
+    finding: The railway's opening took place on 27 September 1825.
+    dating: {precision: day, date: "1825.9.27", calendar: source_civil_date}
+    source_refs: [{id: nrm_stockton_darlington, locator: Opening paragraph dated 27 September 1825}]
+    confidence: high
+    integration: {status: collected, note: Exact route-to-location edges and a compatible building or transport model are needed before applying.}
+  locomotion_opening_engine:
+    entity: Locomotion No.1
+    subject: technology_and_transport
+    finding: Locomotion hauled the opening train, with Stephenson at its controls.
+    dating: {precision: day, date: "1825.9.27", calendar: source_civil_date}
+    source_refs: [{id: nrm_stockton_darlington, locator: Opening train paragraph}]
+    confidence: high
+    integration: {status: collected, note: One documented train is not evidence that every region had railway technology.}
+  rocket_manufacture:
+    entity: Rocket locomotive
+    subject: technology_and_industry
+    finding: Robert Stephenson and Company made Rocket at Newcastle upon Tyne in 1829.
+    dating: {precision: year, year: 1829}
+    source_refs: [{id: smg_rocket, locator: Made and maker fields; Details}]
+    confidence: high
+    integration: {status: collected, note: "Source gives a manufacture year, not an exact completion day or production quantity."}
+  rocket_rainhill_trials:
+    entity: Rocket locomotive
+    subject: technology_demonstration
+    finding: Rocket won the Rainhill locomotive trials in 1829.
+    dating: {precision: year, year: 1829}
+    source_refs: [{id: smg_rocket, locator: "Details, trials paragraph"}]
+    confidence: high
+    integration: {status: collected, note: No national technology level or military modifier is inferred.}

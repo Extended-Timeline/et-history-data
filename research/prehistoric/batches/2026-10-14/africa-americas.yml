@@ -1,0 +1,441 @@
+schema_version: 1
+period_id: prehistoric
+collected_on: '2026-10-14'
+records:
+  aam14_aby_u_j_tomb_scale:
+    catalogue_id: native_material_world_requirements
+    requirement_refs: [settlement_scale, political_authority]
+    related_requirements: [material-world:settlement_scale, material-world:political_authority]
+    entity: Tomb U-j, Cemetery U, Umm el-Qa'ab, Abydos, Egypt
+    subject: elite_burial_and_concentrated_provisioning
+    finding: >-
+      The Naqada IIIA2 Tomb U-j is a 12-chamber mudbrick tomb with approximately
+      2,000 ceramic vessels despite ancient plundering. This exceptional funerary
+      concentration documents unequal capacity to mobilize goods; the tomb alone
+      cannot identify the deceased's territorial jurisdiction or the institutions
+      that supplied it.
+    dating:
+      precision: relative
+      reported_value: Naqada IIIA2
+      unit: archaeological_phase
+      reference_year: null
+      calibrated: null
+      approximate: true
+    source_refs:
+      - id: aam14_src_aby_u_j
+        locator: 'Chapter 14, Tomb U-j: a royal burial of Dynasty 0 at Abydos; description of tomb and assemblage'
+    confidence: high
+    scope:
+      examined: One tomb and its excavated/plundered funerary assemblage at Abydos.
+      generalization_limit: This exceptional grave is not a population sample and does not define a state border.
+    historical_process:
+      type: cross_sectional
+      assessment: A dated concentration of funerary goods; no before/after political transition is established by this tomb alone.
+      before_after: Earlier and later political reach cannot be reconstructed from the tomb assemblage alone.
+      change_type: elite_provisioning_observation
+      mechanism:
+        interpretation: The chambered architecture and large vessel deposit indicate concentrated labor and provisioning for burial.
+        evidence_status: archaeological_observation_plus_social_interpretation
+      alternatives: [Vessel count is approximate because the tomb was plundered; ritual deposition does not measure routine taxation or administrative reach.]
+      evidence_basis: Tomb plan, chamber architecture, and reported ceramic count.
+    integration:
+      status: collected
+      note: Do not convert grave wealth into a quantified population, standing army, or territorial claim.
+  aam14_aby_u_j_tags:
+    catalogue_id: native_material_world_requirements
+    requirement_refs: [political_authority, governance_and_law, exchange_networks]
+    related_requirements: [material-world:political_authority, material-world:governance_and_law, material-world:exchange_networks]
+    entity: Tomb U-j, Cemetery U, Umm el-Qa'ab, Abydos, Egypt
+    subject: incised_labels_and_distribution
+    finding: >-
+      Tomb U-j contained ivory, bone, and stone tags marked with numbers and
+      signs interpreted as possible place names, alongside sealed vessels. The
+      assemblage is evidence for early labeling and differentiated handling of
+      grave goods, but proposed place-name readings and the administrative
+      meaning of the marks remain uncertain.
+    dating:
+      precision: relative
+      reported_value: Naqada IIIA2
+      unit: archaeological_phase
+      reference_year: null
+      calibrated: null
+      approximate: true
+    source_refs:
+      - id: aam14_src_aby_u_j
+        locator: 'Chapter 14, Tomb U-j: inscribed tags and sealings'
+    confidence: medium
+    scope:
+      examined: Inscribed tags and vessel sealings recovered from one elite tomb.
+      generalization_limit: The objects were deposited in a funerary context; their everyday use and geographic coverage are not independently known.
+    historical_process:
+      type: cross_sectional
+      assessment: This is an early administrative-looking assemblage, not a demonstrated evolution into state bureaucracy.
+      before_after: No pre-U-j and post-U-j label series is provided by this context.
+      change_type: recording_practice_observation
+      mechanism:
+        interpretation: Marks may have sorted goods, people, or origins; the reading of particular signs as places is an interpretation.
+        evidence_status: direct_artifact_observation_with_underdetermined_function
+      alternatives: [The tags may have been attached to funerary goods rather than routine shipments; numerical marks do not establish taxation or jurisdiction.]
+      evidence_basis: Inscribed tags, vessel inscriptions, and clay seal impressions from the tomb.
+    integration:
+      status: collected
+      note: Keep possible place names and bureaucracy as qualified interpretations.
+  aam14_aby_u_j_levantine_goods:
+    catalogue_id: native_material_world_requirements
+    requirement_refs: [exchange_networks, resource_processing_and_trade]
+    related_requirements: [material-world:exchange_networks, material-world:resource_processing_and_trade]
+    entity: Tomb U-j, Cemetery U, Umm el-Qa'ab, Abydos, Egypt
+    subject: imported_vessels_and_contents
+    finding: >-
+      Excavation and ceramic study identified several hundred Levantine
+      vessels in Tomb U-j; residue work on early Egyptian tomb
+      vessels identified wine with fig, herbal, and tree-resin additives. Ceramic
+      fabric and contents support long-distance movement, but neither a named
+      route nor state control of exchange follows from these finds.
+    dating:
+      precision: relative
+      reported_value: Naqada IIIA2
+      unit: archaeological_phase
+      reference_year: null
+      calibrated: null
+      approximate: true
+    source_refs:
+      - id: aam14_src_aby_u_j
+        locator: 'Chapter 14, Tomb U-j: imported pottery and vessel contents'
+      - id: aam14_src_egypt_wine_residues
+        locator: 'Abstract and results: chemical identification of residues from Tomb U-j vessels'
+    confidence: medium
+    scope:
+      examined: Pottery and residue evidence discussed for Tomb U-j and a comparative sample of early Egyptian vessels.
+      generalization_limit: The tomb deposit is a selected elite context; traded volume, intermediaries, and political sponsorship are unknown.
+    historical_process:
+      type: cross_sectional
+      assessment: Secure evidence of imported vessels and contents at one burial, without a dated network expansion sequence.
+      before_after: No before/after trade-volume series is established by these sources.
+      change_type: interregional_exchange_observation
+      mechanism:
+        interpretation: Vessel fabric and residue chemistry indicate movement of containers or their contents from outside the Nile Valley.
+        evidence_status: material_provenance_and_chemical_residue
+      alternatives: [The origin of individual vessels and the route by which they reached Abydos are not recoverable from the burial alone; direct trader and political-control claims remain open.]
+      evidence_basis: Petrographic fabric identification and organic residue analysis as reported in the cited studies.
+    integration:
+      status: collected
+      note: Do not encode a specific trade route, merchant group, or tribute relationship without additional evidence.
+  aam14_butana_sorghum_mixed_traits:
+    catalogue_id: native_material_world_requirements
+    requirement_refs: [domestication_sequence, seasonality_and_subsistence, production_chains]
+    related_requirements: [material-world:domestication_sequence, material-world:seasonality_and_subsistence, material-world:production_chains]
+    entity: KG23, Butana Group, southern Atbai, eastern Sudan
+    subject: sorghum_domestication_sequence
+    finding: >-
+      Sorghum spikelet impressions on KG23 pottery include both wild and
+      domesticated morphologies. The authors interpret this fourth-millennium
+      BCE assemblage as evidence that domestication was underway, not as a
+      completed or region-wide conversion to farming.
+    dating:
+      precision: range
+      earliest_year: -4000
+      latest_year: -3001
+      approximate: true
+      reported_range: fourth millennium BCE
+    source_refs:
+      - id: aam14_src_butana_sorghum
+        locator: 'Abstract; Results and discussion of diagnostic spikelet bases from KG23 ceramic impressions'
+    confidence: high
+    scope:
+      examined: Plant impressions on ceramic sherds recovered at KG23, one large Butana Group site.
+      generalization_limit: A single site assemblage cannot establish the crop status or diet of all eastern Sudanese communities.
+    historical_process:
+      type: transition
+      assessment: Co-occurrence of wild and domestic-type forms is consistent with a gradual domestication process; the sherd assemblage is not a direct sequence of successive harvests.
+      before_after: Earlier wild-type sorghum use is reported in the broader region; KG23 shows both morphologies during the fourth millennium BCE. The endpoint and rate of local fixation are not established here.
+      change_type: gradual_morphological_domestication
+      mechanism:
+        interpretation: Selection under cultivation is a proposed explanation for domesticated traits; the impressions demonstrate morphology, not the precise human selection regime.
+        evidence_status: direct_morphological_observation_plus_process_interpretation
+      alternatives: [Mixed wild and domestic forms can reflect continued gathering alongside cultivation; ceramic impressions do not quantify crop contribution to diet.]
+      evidence_basis: Image and statistical analysis of sorghum spikelet-base impressions in ceramics.
+    integration:
+      status: collected
+      note: Distinguish early domestication traits from fully domesticated seed and crop-dominant agriculture.
+  aam14_tilemsi_early_millet_date:
+    period_relation: boundary_context
+    catalogue_id: native_material_world_requirements
+    requirement_refs: [domestication_sequence, date_resolution_and_provenance]
+    related_requirements: [material-world:domestication_sequence, material-world:date_resolution_and_provenance]
+    entity: Karkarichinkat Nord and Lower Tilemsi Valley, northeastern Mali
+    subject: pearl_millet_domestication_evidence
+    finding: >-
+      A directly dated pearl millet grain from Karkarichinkat Nord falls in
+      2621–2464 BCE, but the 2025 reassessment notes that this particular grain
+      lacks clear domestication traits. It is direct evidence of millet presence,
+      not by itself proof that the grain was fully domesticated; older pottery
+      temper dates also require caution because old carbon may bias them.
+    dating:
+      precision: range
+      earliest_year: -2621
+      latest_year: -2464
+      approximate: false
+      reported_range: 2621–2464 BCE
+      research_window: boundary_context_only; outside the prehistoric cutoff
+    source_refs:
+      - id: aam14_src_millet_reassessment
+        locator: 'Abstract and discussion of the Karkarichinkat Nord KN05 AMS date and domestication morphology'
+    confidence: high
+    scope:
+      classification: boundary_context
+      examined: One directly dated Pennisetum grain and compared earlier Lower Tilemsi ceramic-temper evidence; the KN05 grain's calibrated range is after the -3000 BCE cutoff.
+      generalization_limit: This record is boundary context only, not a pre-3000 BCE domestication claim; a single grain without diagnostic domestication morphology cannot establish local cultivation intensity or regional crop adoption.
+    historical_process:
+      type: cross_sectional
+      assessment: The direct date anchors crop presence; the distinction between wild, cultivated, and domestic forms remains unresolved for this dated grain.
+      before_after: No sequence from wild gathering to domesticated cultivation is demonstrated by this specimen alone.
+      change_type: dated_crop_presence_with_status_uncertainty
+      mechanism:
+        interpretation: Morphology and context, rather than species presence alone, are needed to establish domestication.
+        evidence_status: directly_dated_specimen_plus_morphological_assessment
+      alternatives: [Earlier pottery-temper dates may be too old because associated organic matter can contain old carbon; the exact onset of cultivation and domestication remains disputed.]
+      evidence_basis: Direct AMS date on a millet grain, reported calibration range, and evaluation of morphological domestication traits.
+    integration:
+      status: collected
+      note: Preserve the disputed status; do not promote this specimen to a secure domestic-crop date.
+  aam14_tilemsi_millet_transition:
+    period_relation: crosses_boundary
+    catalogue_id: native_material_world_requirements
+    requirement_refs: [settlement_occupancy, domestication_sequence, seasonality_and_subsistence]
+    related_requirements: [material-world:settlement_occupancy, material-world:domestication_sequence, material-world:seasonality_and_subsistence]
+    entity: Three ceramic assemblage sites, northern Mali
+    subject: seasonal_mobility_and_millet_adoption
+    finding: >-
+      Ceramic chaff from three northern Mali sites records changing pearl millet
+      morphology: fifth- and fourth-millennium BCE impressions are wild-type;
+      fourth-millennium average grain breadth is reported 28% above the wild
+      baseline while spikelet traits remain wild-like; third-millennium grains
+      average 38% wider and include paired spikelets and non-dehiscent forms.
+      Non-shattering may have become fixed around 2000 BCE, while grain size
+      continued increasing later. The full sequence crosses the 3000 BCE cutoff.
+    dating:
+      precision: range
+      earliest_year: -5000
+      latest_year: -1001
+      approximate: true
+      reported_range: fifth through second millennia BCE
+      research_window: before -3000.1.1; retain later source phases as boundary context
+      basis: ceramic-context chronology; chaff specimens are not individually radiocarbon dated
+    source_refs:
+      - id: aam14_src_millet_sequence
+        locator: 'Abstract; results and discussion: chaff morphologies, grain breadth, and non-shattering chronology'
+    confidence: medium
+    scope:
+      classification: crosses_boundary
+      examined: Ceramic chaff from three northern Mali sites.
+      generalization_limit: The sequence is regional and cannot be projected across the western Sahel; second-millennium continuation is retained as boundary context, not a prehistoric claim.
+    historical_process:
+      type: transition
+      assessment: The primary study documents a gradual crop-morphology sequence; it does not directly establish settlement mobility, diet share, or crop-driven social change.
+      before_after: 'Earlier: fifth- and fourth-millennium BCE ceramic impressions have wild morphologies. Later: third-millennium BCE samples show paired spikelets and non-dehiscent stalked involucres; around 2000 BCE non-shattering may be fixed. Further grain-size increase belongs partly to the post-cutoff second millennium BCE.'
+      change_type: gradual_crop_morphology_change
+      mechanism:
+        interpretation: Cultivation and selection can account for increasing grain size and non-shattering traits; regional crop dispersal into different ecologies also influenced grain variation.
+        evidence_status: ceramic_microfossil_observations_and_morphological_sequence
+      alternatives: [The authors note that dispersal into different ecologies also changes grain-size variation; ceramic-temper samples do not measure dietary importance or sedentism.]
+      evidence_basis: Stereomicroscopy, SEM, microCT of eleven sherds, and grain/spikelet morphology across three site assemblages.
+    integration:
+      status: collected
+      note: Full source interval is preserved; post-3000 BCE stages are boundary context only.
+  aam14_huaca_prehistoric_foodscape:
+    catalogue_id: native_material_world_requirements
+    requirement_refs: [seasonality_and_subsistence, ecology_climate_series, settlement_occupancy]
+    related_requirements: [material-world:seasonality_and_subsistence, material-world:ecology_climate_series, material-world:settlement_occupancy]
+    entity: Sangamon Terrace camps, lower Chicama Valley, north coast Peru
+    subject: coastal_and_inland_food_procurement
+    finding: >-
+      Excavated premound layers at Huaca Prieta and nearby sites show intermittent
+      occupations dated about 15,000–8,000 cal yr BP, with fish, sea mammals,
+      birds, plants, and terrestrial resources drawn from shoreline, estuary,
+      wetlands, valley, and mountain settings. The assemblages support diverse
+      complementary procurement, while the authors' trapping/clubbing and
+      slow-migration explanations remain interpretations.
+    dating:
+      precision: bp
+      reported_range: [15000, 8000]
+      unit: cal yr BP
+      reference_year: 1950
+      calibrated: true
+      approximate: true
+    source_refs:
+      - id: aam14_src_huaca_early_foodways
+        locator: 'Abstract; Results on faunal remains; Conclusion on intermittent premound occupation and procurement'
+    confidence: high
+    scope:
+      examined: Six deeply excavated units with premound cultural deposits at Huaca Prieta, Paredones, and nearby Unit 16; 281 marine and three terrestrial specimens are specifically enumerated for one early assemblage.
+      generalization_limit: Small, deeply buried excavation areas and discontinuous cultural lenses do not represent the full coast or a continuous village population.
+    historical_process:
+      type: transition
+      assessment: Repeated short occupation lenses record intermittent camp use; no continuous settlement or simple shift from foraging to farming is shown.
+      before_after: 'Earlier and later lenses span the source-reported 15,000–8,000 cal yr BP window with sterile gaps of hundreds of years in some sequences; the article does not establish a single permanent settlement transition.'
+      change_type: intermittent_occupation_and_resource_use
+      mechanism:
+        interpretation: Access to juxtaposed littoral and inland habitats plausibly supported repeated short stays; migration pace and economic risk reduction are author interpretations.
+        evidence_status: excavated_contexts_and_faunal_flora_counts_plus_interpretation
+      alternatives: [Small sampled areas may miss longer occupations elsewhere; taphonomy and intrasite variability affect taxon frequencies.]
+      evidence_basis: Stratigraphy, radiocarbon dates, identified faunal/floral remains, and artifact distributions.
+    integration:
+      status: collected
+      note: Do not model continuous occupation or assign a single subsistence type across this long interval.
+  aam14_huaca_rush_matting:
+    catalogue_id: native_material_world_requirements
+    requirement_refs: [craft_and_material_technology, art_and_object_biography, date_resolution_and_provenance]
+    related_requirements: [material-world:craft_and_material_technology, material-world:art_and_object_biography, material-world:date_resolution_and_provenance]
+    entity: Huaca Prieta, north coast Peru
+    subject: plant_fiber_technology
+    finding: >-
+      A directly dated rush-matting fragment from an early Huaca Prieta layer
+      falls at 10,600–11,159 cal yr BP and is interpreted as simple twining,
+      possibly for sleeping or flooring. It demonstrates plant-fiber craft in
+      one context, not the start or regional spread of weaving.
+    dating:
+      precision: bp
+      reported_range: [11159, 10600]
+      unit: cal yr BP
+      reference_year: 1950
+      calibrated: true
+      approximate: false
+    source_refs:
+      - id: aam14_src_huaca_early_foodways
+        locator: 'Results/Conclusion: Unit 12 Layer 11 rush matting; direct calibrated date and possible use'
+    confidence: high
+    scope:
+      examined: One rush matting fragment in a stratified early cultural lens at Huaca Prieta.
+      generalization_limit: Function is tentative and a single fragment cannot establish regional craft specialization.
+    historical_process:
+      type: cross_sectional
+      assessment: One dated craft object; no local technological before/after sequence is demonstrated.
+      before_after: No earlier or later matting series is established in this claim.
+      change_type: fiber_craft_observation
+      mechanism:
+        interpretation: Twined rush construction reflects deliberate fiber working; use as bedding or flooring is proposed, not observed directly.
+        evidence_status: dated_artifact_with_functional_interpretation
+      alternatives: [The object may have served another matting purpose; preservation and excavation contexts are highly selective.]
+      evidence_basis: Direct radiocarbon date and artifact construction analysis.
+    integration:
+      status: collected
+      note: Preserve source's tentative functional reading.
+  aam14_huaca_exotic_resources:
+    catalogue_id: native_material_world_requirements
+    requirement_refs: [exchange_networks, population_mobility, resource_processing_and_trade]
+    related_requirements: [material-world:exchange_networks, material-world:population_mobility, material-world:resource_processing_and_trade]
+    entity: Huaca Prieta and Paredones, lower Chicama Valley, Peru
+    subject: resource_network_interpretation
+    finding: >-
+      Exotic plant foods and stone raw materials occur in the early Huaca Prieta
+      area assemblages. The excavators suggest that some may have arrived through
+      exchange with inland groups or direct collection; the evidence does not
+      distinguish these mechanisms, identify counterpart settlements, or define
+      a route.
+    dating:
+      precision: bp
+      reported_range: [15000, 8000]
+      unit: cal yr BP
+      reference_year: 1950
+      calibrated: true
+      approximate: true
+      basis: site cultural-layer chronology, not direct dating of each exotic item
+    source_refs:
+      - id: aam14_src_huaca_early_foodways
+        locator: 'Conclusion: exotic plant foods and stone raw materials; exchange versus direct collection alternatives'
+    confidence: medium
+    scope:
+      examined: Early cultural deposits in limited excavated units at Huaca Prieta and nearby sites.
+      generalization_limit: No source provenance, partner site, exchanged quantity, or direction is established for these materials.
+    historical_process:
+      type: cross_sectional
+      assessment: Possible exchange or direct collection is an interpretation of a site assemblage, not a demonstrated regional network transition.
+      before_after: No dated change in source, route, or intensity is demonstrated in this record.
+      change_type: ambiguous_resource_acquisition
+      mechanism:
+        interpretation: Movement of people or goods could explain nonlocal resources, but the archaeological observations cannot distinguish exchange from direct collection.
+        evidence_status: material_presence_plus_explicit_alternative_hypotheses
+      alternatives: [Direct acquisition by the people occupying the site; down-the-line exchange; unidentified local sources not sampled.]
+      evidence_basis: Identified plant and lithic materials in stratified deposits and the authors' discussion of alternative acquisition mechanisms.
+    integration:
+      status: collected
+      note: Do not construct a trade route or settlement link without provenance and independently dated counterpart sites.
+  aam14_huaca_maize_early_races:
+    catalogue_id: native_material_world_requirements
+    requirement_refs: [domestication_sequence, production_chains, exchange_networks]
+    related_requirements: [material-world:domestication_sequence, material-world:production_chains, material-world:exchange_networks]
+    entity: Paredones and Huaca Prieta, north coast Peru
+    subject: maize_diversification_and_processing
+    finding: >-
+      Excavators report 293 newly recovered maize macrofossils, 15 direct AMS
+      dates, and phytolith/starch evidence; maize macrofossils reach 6775–6504
+      cal BP. Early cobs include primitive popcorn forms and distinct regional
+      morphologies, but the sparse, discontinuous remains imply that maize was
+      not yet a staple in the sampled local diet.
+    dating:
+      precision: bp
+      reported_range: [6775, 6504]
+      unit: cal BP
+      reference_year: 1950
+      calibrated: true
+      approximate: false
+    source_refs:
+      - id: aam14_src_huaca_maize
+        locator: 'Abstract; Results: Table 1 and early cob morphology; Discussion on discontinuous occurrence and diet'
+    confidence: high
+    scope:
+      examined: Maize macro- and microremains from stratified contexts at Paredones and Huaca Prieta, including 293 macrofossils and 15 direct radiocarbon assays reported by the study.
+      generalization_limit: A site-specific early record does not establish staple status or uniform adoption elsewhere in South America.
+    historical_process:
+      type: transition
+      assessment: The sequence documents early crop presence and local morphological diversity; it does not establish a continuous rise in maize consumption or a regional farming transition.
+      before_after: 'Earliest reported macrofossils: 6775–6504 cal BP. Later contexts show additional cob forms; relative frequencies change, while maize remains intermittent in the sampled deposits.'
+      change_type: crop_presence_and_morphological_diversification
+      mechanism:
+        interpretation: Human selection and hybridization are plausible explanations for cob morphology; the paper does not infer that maize drove settlement growth.
+        evidence_status: directly_dated_macroremains_plus_microbotanical_context
+      alternatives: [Low macrofossil frequency may reflect occasional use; different races and stratigraphic sampling complicate a single domestication path.]
+      evidence_basis: Direct AMS dates on plant remains, diagnostic cob morphology, phytoliths, and starch grains from undisturbed contexts.
+    integration:
+      status: collected
+      note: Date crop presence separately from domestication state and dietary importance.
+  aam14_huaca_indigo_textile:
+    catalogue_id: native_material_world_requirements
+    requirement_refs: [craft_and_material_technology, production_chains, date_resolution_and_provenance]
+    related_requirements: [material-world:craft_and_material_technology, material-world:production_chains, material-world:date_resolution_and_provenance]
+    entity: Huaca Prieta, north coast Peru
+    subject: indigo_dye_technology
+    finding: >-
+      Chemical analysis identified indigoid dye on approximately 6,000-year-old
+      cotton textiles from Huaca Prieta, making these the earliest identified
+      indigo-dyed textiles reported by the study. The source plant is inferred
+      rather than botanically identified, and the find does not locate the
+      origin of cotton domestication.
+    dating:
+      precision: relative
+      reported_range: [6200, 6000]
+      unit: years_ago
+      reference_year: null
+      calibrated: null
+      approximate: true
+    source_refs:
+      - id: aam14_src_huaca_indigo
+        locator: 'Abstract; analytical results for cotton textile specimen 2009.065.01; discussion of plant-source uncertainty'
+    confidence: high
+    scope:
+      examined: Two cotton textile fragments from stratum 44 at one Preceramic site; the age is inferred from stratigraphic position relative to radiocarbon-dated levels, not a direct textile assay.
+      generalization_limit: Preservation is exceptional; the study cannot estimate how common indigo dyeing was or where cotton was domesticated.
+    historical_process:
+      type: cross_sectional
+      assessment: Chemical evidence documents a sophisticated dyeing practice at one site; no sequence of adoption or diffusion is demonstrated.
+      before_after: No local before/after series of dyed textiles is established.
+      change_type: textile_dyeing_observation
+      mechanism:
+        interpretation: Indigoid compounds on cotton fibers imply application of a blue dye; exact plant species and dye preparation sequence remain unknown.
+        evidence_status: instrumental_chemical_identification
+      alternatives: [The botanical source is inferred from likely regional Indigofera species; the archaeological record is filtered by preservation and sampling.]
+      evidence_basis: Chromatographic and spectral identification of indigotin/indigoid compounds on textiles; age is estimated from the dated stratigraphic sequence.
+    integration:
+      status: collected
+      note: Keep dye identification distinct from inferred plant source and from cotton domestication geography.

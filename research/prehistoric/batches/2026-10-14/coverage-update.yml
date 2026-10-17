@@ -1,0 +1,159 @@
+schema_version: 1
+checked_on: '2026-10-14'
+active_period: prehistoric
+collection_complete: false
+new_records: 39
+source_entries: 29
+packets:
+  westasia-europe:
+    records: 13
+    source_entries: 8
+  asia-oceania:
+    records: 10
+    source_entries: 8
+  africa-americas:
+    records: 11
+    source_entries: 8
+  processes:
+    records: 5
+    source_entries: 5
+catalogue_root: ../../../native-history-requirements/2026-10-13
+requirement_evidence:
+  material-world:art_and_object_biography:
+  - aam14_huaca_rush_matting
+  material-world:conflict_events:
+  - pre14_kilianstadten_collective_violence
+  material-world:craft_and_material_technology:
+  - aso14_mehrgarh_dental_drilling
+  - aso14_caibeo_plant_use
+  - aam14_huaca_rush_matting
+  - aam14_huaca_indigo_textile
+  material-world:date_resolution_and_provenance:
+  - we14_tell_madhur_ubaid_crop_context
+  - we14_european_population_boom_bust
+  - we14_paris_basin_demographic_sequence
+  - we14_europe_regional_demographic_variation
+  - aso14_mehrgarh_period1_redating
+  - aso14_caibeo_plant_use
+  - aam14_tilemsi_early_millet_date
+  - aam14_huaca_rush_matting
+  - aam14_huaca_indigo_textile
+  material-world:disease_and_resistance:
+  - pre14_scandinavian_repeated_plague
+  - pre14_baikal_infection_phases
+  material-world:domestication_sequence:
+  - we14_southwest_asia_crop_water_differences
+  - aso14_mehrgarh_period1_redating
+  - aso14_tibet_millet_villages
+  - aso14_tongtian_cereals
+  - aam14_butana_sorghum_mixed_traits
+  - aam14_tilemsi_early_millet_date
+  - aam14_tilemsi_millet_transition
+  - aam14_huaca_maize_early_races
+  material-world:ecology_climate_series:
+  - we14_southwest_asia_crop_water_differences
+  - aso14_tongtian_cereals
+  - aso14_panaeati_occupation
+  - aso14_panaeati_hiatus
+  - aam14_huaca_prehistoric_foodscape
+  material-world:exchange_networks:
+  - we14_tell_brak_sealings_and_goods_control
+  - aso14_tongtian_cereals
+  - aam14_aby_u_j_tags
+  - aam14_aby_u_j_levantine_goods
+  - aam14_huaca_exotic_resources
+  - aam14_huaca_maize_early_races
+  material-world:governance_and_law:
+  - aam14_aby_u_j_tags
+  material-world:markets:
+  - we14_tell_brak_sealings_and_goods_control
+  material-world:political_authority:
+  - aam14_aby_u_j_tomb_scale
+  - aam14_aby_u_j_tags
+  material-world:population_mobility:
+  - we14_tell_brak_growth_pulse
+  - we14_tell_brak_population_segmentation
+  - aso14_tibet_forager_camps
+  - aso14_jeju_mixed_diet
+  - aam14_huaca_exotic_resources
+  material-world:population_structure:
+  - we14_tell_brak_population_estimates
+  - we14_european_population_boom_bust
+  - we14_paris_basin_demographic_sequence
+  - we14_europe_regional_demographic_variation
+  material-world:production_chains:
+  - we14_tell_brak_workshop_expansion
+  - we14_europe_crop_manuring_practices
+  - aso14_mehrgarh_dental_drilling
+  - aam14_butana_sorghum_mixed_traits
+  - aam14_huaca_maize_early_races
+  - aam14_huaca_indigo_textile
+  - pre14_trypillia_integrated_farming
+  material-world:resource_processing_and_trade:
+  - aam14_aby_u_j_levantine_goods
+  - aam14_huaca_exotic_resources
+  material-world:seasonality_and_subsistence:
+  - we14_tell_brak_urban_growth_without_irrigation
+  - we14_europe_crop_manuring_practices
+  - we14_southwest_asia_crop_water_differences
+  - we14_tell_madhur_ubaid_crop_context
+  - aso14_tibet_forager_camps
+  - aso14_tibet_millet_villages
+  - aso14_jeju_mixed_diet
+  - aso14_caibeo_plant_use
+  - aam14_butana_sorghum_mixed_traits
+  - aam14_tilemsi_millet_transition
+  - aam14_huaca_prehistoric_foodscape
+  - pre14_trypillia_integrated_farming
+  material-world:settlement_coastal_adaptation:
+  - aso14_jeju_mixed_diet
+  - aso14_panaeati_occupation
+  - aso14_panaeati_hiatus
+  material-world:settlement_facilities:
+  - we14_tell_brak_workshop_expansion
+  material-world:settlement_occupancy:
+  - we14_tell_brak_urbanization_sequence
+  - aso14_mehrgarh_period1_redating
+  - aso14_tibet_forager_camps
+  - aso14_tibet_millet_villages
+  - aso14_panaeati_occupation
+  - aso14_panaeati_hiatus
+  - aam14_tilemsi_millet_transition
+  - aam14_huaca_prehistoric_foodscape
+  material-world:settlement_scale:
+  - we14_tell_brak_urbanization_sequence
+  - we14_tell_brak_urban_growth_without_irrigation
+  - we14_tell_brak_population_estimates
+  - we14_tell_brak_growth_pulse
+  - aam14_aby_u_j_tomb_scale
+  - pre14_trypillia_institutional_sequence
+  - pre14_trypillia_integrated_farming
+  politics:phr_governance_change_process:
+  - we14_tell_brak_sealings_and_goods_control
+  - pre14_trypillia_institutional_sequence
+  politics:phr_kinship:
+  - pre14_scandinavian_repeated_plague
+  - pre14_baikal_infection_phases
+  politics:phr_social_hierarchy_process:
+  - we14_tell_brak_population_segmentation
+  - pre14_trypillia_institutional_sequence
+  politics:phr_war_episode:
+  - pre14_kilianstadten_collective_violence
+  societies:r11:
+  - aso14_jomon_population_proxy
+  societies:r19:
+  - pre14_scandinavian_repeated_plague
+  societies:r21:
+  - aso14_jomon_population_proxy
+  - pre14_baikal_infection_phases
+  - pre14_kilianstadten_collective_violence
+linked_requirement_rows: 27
+interpretation: Links indicate related evidence only. They do not certify regional or temporal completeness or demonstrate
+  every mechanism.
+remaining_priority_gaps:
+- Independently identified political-relationship parties and obligations where evidence allows.
+- Regional language and identity chronologies with evidence distinct from material or biological ancestry.
+- Source-backed spatial extents and contemporary geography.
+- Broader region/phase population models and production/exchange sequences.
+- Explicit cross-period continuity, changes and competing causes.
+native_and_generated_mod_mutated: false

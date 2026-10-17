@@ -1,0 +1,72 @@
+schema_version: 1
+checked_on: '2026-10-14'
+structural_validation: passed
+historical_collection_complete: false
+packets:
+  westasia-europe:
+    records: 13
+    source_entries: 8
+  asia-oceania:
+    records: 10
+    source_entries: 8
+  africa-americas:
+    records: 11
+    source_entries: 8
+  processes:
+    records: 5
+    source_entries: 5
+new_records: 39
+source_entries: 29
+distinct_source_urls: 29
+qualified_requirement_links: 101
+linked_requirement_rows: 27
+date_scope_annotations:
+- record_id: we14_tell_brak_population_segmentation
+  scope: includes_boundary_and_later_comparator
+- record_id: we14_europe_crop_manuring_practices
+  scope: crosses_boundary
+- record_id: we14_southwest_asia_crop_water_differences
+  scope: crosses_boundary
+- record_id: we14_paris_basin_demographic_sequence
+  scope: crosses_boundary
+- record_id: we14_europe_regional_demographic_variation
+  scope: crosses_boundary
+- record_id: aso14_jomon_population_proxy
+  scope: crosses_boundary
+- record_id: aso14_tibet_millet_villages
+  scope: crosses_boundary
+- record_id: aso14_tongtian_cereals
+  scope: crosses_boundary
+- record_id: aso14_panaeati_hiatus
+  scope: crosses_boundary
+- record_id: aam14_tilemsi_early_millet_date
+  scope: boundary_context
+- record_id: aam14_tilemsi_millet_transition
+  scope: crosses_boundary
+- record_id: pre14_scandinavian_repeated_plague
+  scope: crosses_boundary
+- record_id: pre14_baikal_infection_phases
+  scope: crosses_boundary
+- record_id: pre14_trypillia_integrated_farming
+  scope: reaches_boundary
+checks:
+- Duplicate YAML keys rejected
+- New record/source IDs unique within package; new record IDs do not collide with prior research
+- All source_refs contain exactly id and locator and resolve; no unused sources
+- Source URLs and access levels present
+- All qualified native requirement references resolve
+- Scope, process interpretation, confidence and collected status present
+- Calendar and native BP interval order checked; numeric outside/cross-boundary calendar spans marked
+- Prior-record links resolve
+- Local report links resolve
+- Protected defines hash unchanged
+review_corrections:
+- Tibetan original article DOI corrected; response/comment is not treated as the original study.
+- Mehrgarh older chronology, new cemetery modelling and dental sample chronology distinguished.
+- Indigo source relative age retained without unsupported BP calibration conversion.
+- Late demographic and morphological contexts retained and flagged rather than clipped.
+limits:
+- Sources and selected high-risk claims reviewed; all raw supplementary datasets not independently reanalysed.
+- Related requirement links do not establish causal mechanisms or full worldwide coverage.
+- No game location IDs assigned or runtime/converter compatibility asserted.
+protected_defines_sha256: 4ff3b80742a2d6b53a3804892fba75c8c466b8b14c6af84663369c89371a535a

@@ -1,0 +1,87 @@
+schema_version: 1
+period_id: prehistoric
+collected_on: '2026-10-13'
+records:
+  pre_lomekwi_toolmaking:
+    entity: Lomekwi 3, West Turkana, Kenya
+    subject: early_hominin_technology
+    finding: Excavators report stone artifacts dated approximately 3.3 million years ago at Lomekwi 3 and propose
+      a Lomekwian technological tradition distinct from later Oldowan tools.
+    dating:
+      precision: relative
+      reported_value: 3300000
+      unit: years_ago
+      reference_year: null
+      calibrated: null
+      approximate: true
+    source_refs:
+    - id: pre_src_lomekwi_2015
+      locator: Abstract; proposed Lomekwian industry and archaeological age
+    confidence: high
+    integration:
+      status: collected
+      note: Evolutionary context only. These artifacts do not establish Homo sapiens, a language, a polity
+        or an exact date of technological invention.
+  pre_namorotukunan_oldowan:
+    entity: Namorotukunan, East Turkana Basin, Kenya
+    subject: early_hominin_technology
+    finding: Three archaeological horizons document Oldowan stone-tool production across approximately 2.75–2.44
+      million years ago, with systematic selection of rock types.
+    dating:
+      precision: relative
+      reported_range:
+      - 2750000
+      - 2440000
+      unit: years_ago
+      reference_year: null
+      calibrated: null
+      approximate: true
+    source_refs:
+    - id: pre_src_namorotukunan_2025
+      locator: Abstract; Introduction, horizons dated 2.75, 2.58 and 2.44 Ma
+    confidence: high
+    integration:
+      status: collected
+      note: Discrete excavated horizons are not evidence of continuous settlement or a country across the whole
+        interval. The article gives 2.58 Ma in its introduction and 2.60 Ma in stratigraphic discussion for
+        the middle horizon.
+  pre_uruk_urban_architecture:
+    entity: Uruk, southern Mesopotamia
+    subject: urbanization_and_monumental_architecture
+    finding: By approximately 3200 BCE, Uruk was a major urban settlement with monumental mudbrick buildings
+      and walls decorated with painted clay-cone mosaics.
+    dating:
+      precision: year
+      year: -3200
+      approximate: true
+    source_refs:
+    - id: pre_src_uruk_met
+      locator: Opening paragraph, circa-3200-BCE city and monumental buildings
+    confidence: high
+    integration:
+      status: collected
+      note: Supports an urban-site candidate after coordinate mapping, not a numeric population or sovereign
+        province boundary. Gilgamesh and Early Dynastic rulers discussed later in the essay belong outside
+        this class.
+  pre_barley_administration_tablet:
+    scope: crosses_boundary
+    entity: Metropolitan Museum tablet 1988.433.1, Mesopotamia
+    subject: writing_and_administration
+    finding: A clay proto-cuneiform tablet dated approximately 3100–2900 BCE is catalogued as an account of
+      barley distribution and carries a cylinder-seal impression. The museum interprets the grain allocation
+      as probable and notes uncertainty in early texts.
+    dating:
+      precision: range
+      earliest_year: -3100
+      latest_year: -2900
+      approximate: true
+    research_window:
+      end_exclusive: -3000.1.1
+    source_refs:
+    - id: pre_src_barley_tablet_met
+      locator: Object details, date, period and description
+    confidence: high
+    integration:
+      status: collected
+      note: The dated range crosses the cutoff and does not establish an invention date or certain pre-3000
+        use. The catalogue gives probably Uruk as its origin; no location is assigned from that uncertain provenance.

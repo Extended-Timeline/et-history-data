@@ -1,0 +1,175 @@
+schema_version: 1
+period_id: prehistoric
+collected_on: '2026-10-14'
+requirement_catalogue_root: ../../../native-history-requirements/2026-10-13
+records:
+  pre14_scandinavian_repeated_plague:
+    entity: Sampled Neolithic burial communities in Sweden and Denmark
+    subject: repeated_pathogen_infection_and_kinship
+    finding: >-
+      Genomes from 108 individuals yielded 18 plague detections. The authors
+      reconstruct three infection events across roughly 120 years and four
+      pedigrees, the largest with 38 individuals across six generations.
+    dating:
+      precision: bp
+      reported_range: [5300, 4900]
+      unit: cal_BP
+      reference_year: 1950
+      calibrated: true
+      scope: crosses_boundary
+      date_role: Reported Neolithic-decline context; not one exact infection date or the complete sample age span.
+    quantitative_evidence:
+      individuals: 108
+      plague_positive: 18
+      approximate_sample_fraction: 0.17
+      reconstructed_infection_events: 3
+      approximate_process_duration_years: 120
+    scope:
+      sample: Eight megalithic graves and one stone cist.
+      limitation: Burial sample infection frequency is not regional prevalence or mortality.
+    historical_process:
+      type: reconstructed_repeated_infections
+      evidence: Pathogen genomes and multigeneration kinship.
+      mechanism_status: Spread within related communities is reconstructed; the cause of regional demographic decline remains debated.
+      limits: Transmission route, death of every infected individual and region-wide causal impact are not established by this record.
+    related_requirements: [material-world:disease_and_resistance, politics:phr_kinship, societies:r19]
+    source_refs:
+      - id: pre14_src_scandinavian_plague
+        locator: Abstract; Three Neolithic plague strains, 18/108; pedigree reconstruction.
+    confidence: high
+    integration: {status: collected, note: Preserve sampled population and boundary-crossing context; do not assign a population-loss modifier.}
+  pre14_baikal_infection_phases:
+    entity: Four Cis-Baikal cemeteries
+    subject: hunter_gatherer_disease_recurrence
+    finding: >-
+      Among 46 sampled individuals, 18 yielded Yersinia pestis. The authors
+      distinguish two infection phases from four cemeteries; reservoir-corrected
+      Bayesian dating retains broad uncertainty, especially for the later phase.
+    dating:
+      precision: bp
+      unit: cal_BP
+      reference_year: 1950
+      calibrated: true
+      scope: crosses_boundary
+      phase_intervals:
+        - phase: early
+          reported_range: [5520, 5265]
+          confidence_percent: 95.4
+        - phase: later
+          reported_range: [5315, 4235]
+          confidence_percent: 95.4
+      method: Modelled infected-individual dates corrected for freshwater reservoir effects.
+    quantitative_evidence: {sampled_individuals: 46, plague_positive: 18, cemeteries: 4}
+    scope: {region: Western and northern Lake Baikal, limitation: Cemetery sample; not an estimate of all regional inhabitants.}
+    historical_process:
+      type: reconstructed_infection_phases
+      evidence: Pathogen genomes, burial contexts and modelled chronology.
+      mechanism_status: Kinship supports affected familial groups; exact transmission remains inferential.
+      limits: Later-phase long tail rests on two direct dates; overlap of confidence intervals does not identify a continuous epidemic.
+    related_requirements: [material-world:disease_and_resistance, politics:phr_kinship, societies:r21]
+    source_refs:
+      - id: pre14_src_baikal_plague
+        locator: Main, modelled 95.4% ranges; Outbreaks of basal plague strains; Figure 1.
+    confidence: high
+    integration: {status: collected, note: Keep both complete intervals; later evidence crosses the research boundary.}
+  pre14_trypillia_institutional_sequence:
+    entity: Tripolye settlement networks
+    subject: collective_institutions_centralization_and_disintegration
+    finding: >-
+      Integrative-building patterns support an interpreted sequence from local
+      community facilities through multiple decision levels to centralization
+      and settlement dispersal. The reconstruction concerns institutional
+      architecture, without identifying named councils or rulers.
+    dating:
+      precision: range
+      earliest_year: -4600
+      latest_year: -3500
+      approximate: true
+      time_scale: BCE
+    interpreted_phases:
+      - dating: around 4600 BCE
+        state: Central integrative structures in smaller settlements.
+      - dating: around 4100/4000 BCE
+        state: Community fusion with retained lower levels and new settlement-wide institutions.
+      - dating: around 3900/3800 BCE
+        state: Increasing differentiation of integrative buildings and activities.
+      - dating: around 3700 BCE
+        state: Loss of middle-lower decision-making levels.
+      - dating: around 3650/3500 BCE
+        state: Giant-settlement disintegration and dispersed settlements without visible integrative architecture.
+    scope: {region: Studied Tripolye settlements, limitation: Regional reconstruction; not one synchronous transformation at every site.}
+    historical_process:
+      type: interpreted_regional_institutional_sequence
+      evidence: Comparative building position, size, functions and chronology.
+      mechanism_status: Community fusion and increasing centralization are the authors' explanatory model.
+      limits: Architecture alone does not prove constitutions, office titles or a universal causal law for collapse.
+    related_requirements: [politics:phr_governance_change_process, politics:phr_social_hierarchy_process, material-world:settlement_scale]
+    source_refs:
+      - id: pre14_src_trypillia_governance
+        locator: Figure 26, five approximate stages; accompanying discussion.
+    confidence: medium
+    integration: {status: collected, note: Preserve competing interpretations; native parliament labels are not assigned.}
+  pre14_trypillia_integrated_farming:
+    entity: Trypillia settlements between the Prut and Dnieper
+    subject: phase_specific_production_intensification
+    finding: >-
+      Approximately 480 isotope measurements underpin food-web models and
+      inferred intensive manuring. High nitrogen-isotope values concentrate
+      in the mega-site phase and region; the study connects crop cultivation
+      with managed cattle rather than a uniform regional farming regime.
+    dating:
+      precision: range
+      earliest_year: -4800
+      latest_year: -3000
+      time_scale: BCE
+      approximate: true
+      scope: reaches_boundary
+    source_phases:
+      early: 4800–4200/4100 BCE
+      agglomeration: 4200/4100–3650 BCE
+      dispersal: 3650–3000 BCE
+    scope:
+      region: Prut–Dnieper study area; intensive mega-site pattern principally Dniester–Dnieper.
+      limitation: Human isotope coverage is limited; modelled diets are not counts of harvested goods.
+    historical_process:
+      type: phase_and_region_comparison
+      evidence: Human, animal and charred-crop isotope measurements with food-web models.
+      mechanism_status: Cattle management and dung application explain production integration in the authors' model.
+      limits: This evidence does not independently prove the proposed social cause of settlement decline.
+    related_requirements: [material-world:production_chains, material-world:seasonality_and_subsistence, material-world:settlement_scale]
+    source_refs:
+      - id: pre14_src_trypillia_isotopes
+        locator: Abstract, phase ranges and isotope sample; Figure 1; Conclusions, regional/temporal differentiation.
+    confidence: medium
+    integration: {status: collected, note: Do not translate modelled food-web shares into native output quantities.}
+  pre14_kilianstadten_collective_violence:
+    entity: Schöneck-Kilianstädten mass grave
+    subject: collective_violence_and_dating
+    finding: >-
+      Osteological analysis identifies at least 26 individuals and perimortem
+      injuries. Four radiocarbon samples constrain the burial context;
+      interpretation as collective killing does not identify the attackers.
+    dating:
+      precision: range
+      earliest_year: -5207
+      latest_year: -4849
+      time_scale: cal_BCE
+      calibrated: true
+      date_role: Envelope of four sample intervals; not duration of an attack.
+    sample_intervals:
+      - {lab_id: MAMS14991, earliest_year: -5036, latest_year: -4849, interval: two_sigma}
+      - {lab_id: MAMS14992, earliest_year: -5207, latest_year: -4961, interval: two_sigma}
+      - {lab_id: MAMS14993, earliest_year: -5207, latest_year: -4991, interval: two_sigma}
+      - {lab_id: MAMS14994, earliest_year: -5206, latest_year: -4944, interval: two_sigma}
+    scope: {sample: One mass grave, limitation: Minimum individual count is not an army strength or regional death rate.}
+    historical_process:
+      type: event_evidence_without_complete_before_after_sequence
+      evidence: Skeletal injury and primary burial context.
+      mechanism_status: Collective killing is supported; captivity and wider causes remain interpretations.
+      limits: No named conflict, state boundary, commander or deterministic collapse cause is established.
+    related_requirements: [material-world:conflict_events, politics:phr_war_episode, societies:r21]
+    source_refs:
+      - id: pre14_src_kilianstadten
+        locator: Table S1, four two-sigma intervals; Osteological Results, MNI 26; Discussion.
+    confidence: high
+    integration: {status: collected, note: Keep event chronology uncertain and participants unidentified.}

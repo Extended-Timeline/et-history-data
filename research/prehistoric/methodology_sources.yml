@@ -1,0 +1,18 @@
+schema_version: 1
+sources:
+  pre_src_hyde_2017:
+    title: Anthropogenic land use estimates for the Holocene – HYDE 3.2
+    authors: [Kees Klein Goldewijk, Arthur Beusen, Jonathan Doelman, Elke Stehfest]
+    publisher: Earth System Science Data
+    type: original_model_description
+    url: https://essd.copernicus.org/articles/9/927/2017/
+    doi: 10.5194/essd-9-927-2017
+    locator: Abstract, population estimate and allocation methodology
+    checked_on: "2026-10-13"
+  pre_src_radiocarbon_reporting:
+    title: Radiocarbon — Preparing your materials
+    publisher: Cambridge University Press / Radiocarbon
+    type: journal_reporting_conventions
+    url: https://www.cambridge.org/core/journals/radiocarbon/information/author-instructions/preparing-your-materials
+    locator: Reporting 14C Dates; Use of BP, cal BP/BC/AD
+    checked_on: "2026-10-13"

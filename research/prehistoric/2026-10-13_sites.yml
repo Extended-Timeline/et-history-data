@@ -1,0 +1,36 @@
+schema_version: 1
+period_id: prehistoric
+collected_on: "2026-10-13"
+records:
+  gobekli_monumental_construction:
+    entity: Göbekli Tepe
+    subject: settlement_and_monuments
+    finding: Monumental structures are assigned to approximately 9600–8200 BCE.
+    dating: {precision: range, earliest_year: -9600, latest_year: -8200, approximate: true}
+    source_refs: [{id: unesco_gobekli, locator: Description}]
+    confidence: high
+    integration: {status: collected, note: Site-to-location mapping and archaeological uncertainty must be retained before adding a dated building.}
+  gobekli_builder_context:
+    entity: Göbekli Tepe
+    subject: population_context
+    finding: UNESCO attributes the monumental structures to Pre-Pottery Neolithic hunter-gatherer communities.
+    dating: {precision: range, earliest_year: -9600, latest_year: -8200, approximate: true}
+    source_refs: [{id: unesco_gobekli, locator: Description}]
+    confidence: high
+    integration: {status: collected, note: "This does not establish a population count, polity tag or religious ID."}
+  catalhoyuk_east_mound:
+    entity: Çatalhöyük East Mound
+    subject: settlement_chronology
+    finding: The eastern mound contains Neolithic occupation layers dated approximately 7400–6200 BCE.
+    dating: {precision: range, earliest_year: -7400, latest_year: -6200, approximate: true}
+    source_refs: [{id: unesco_catalhoyuk, locator: "Description, eastern mound"}]
+    confidence: high
+    integration: {status: collected, note: No exact foundation day or numeric game population has been inferred.}
+  catalhoyuk_west_mound:
+    entity: Çatalhöyük West Mound
+    subject: settlement_chronology
+    finding: The western mound records Chalcolithic occupation approximately 6200–5200 BCE.
+    dating: {precision: range, earliest_year: -6200, latest_year: -5200, approximate: true}
+    source_refs: [{id: unesco_catalhoyuk, locator: "Description, western mound"}]
+    confidence: high
+    integration: {status: collected, note: Keep this phase separate from the eastern mound chronology.}

@@ -1,0 +1,244 @@
+schema_version: 1
+collected_on: '2026-10-13'
+priority_gaps:
+- id: lpg_population
+  priority: P0
+  gap: Absolute site/location population is missing; scalar history pops only weight cultural groups.
+  evidence:
+  - native main_menu/setup/start/06_pops.txt:3-10 encodes location-level `define_pop` size values.
+  - converter etl/gen_pops.py:120-136 uses vanilla-1337 totals, substitutes median where absent, then applies placeholder
+    era and share logic.
+  - A peer-reviewed Çatalhöyük re-estimate demonstrates published estimates can range from thousands to 600-800 average-year
+    residents with an explicit building/life-history method.
+  impact: Prehistoric output can inherit late-medieval magnitudes and scale cultures without preserving the site estimate
+    or uncertainty.
+  acceptance: Store a bounded estimate, unit, source period, site/area, method, uncertainty and confidence in research; only
+    map it to game locations after verified geometry containment. Leave unsupported location totals unknown rather than filling
+    with cache median.
+- id: lpg_site_scale_to_rank
+  priority: P0
+  gap: The project has no standard archaeological settlement-scale/permanence field or defensible translation to native rank/setup.
+  evidence:
+  - 'Native rank taxonomy: game/in_game/common/location_ranks/00_default.txt:2,75,138.'
+  - Native city/rank and setup are both required by converter etl/gen_places.py:13-14.
+  - Current et-history-data/locations scan found zero `city:` fields; prehistoric research distinguishes site, village, seasonal
+    camp, and monumental place.
+  impact: Rank is required to trigger rank-dependent development and urban pop shares, but assigning it from a period, monument,
+    or broad archaeological label can create false cities.
+  acceptance: Add evidence-backed site attributes for permanence/area/settlement function and an explicit no-rank state; define
+    conservative rubric and keep city rank separate from native town_setup templates.
+- id: lpg_resource_emission
+  priority: P0
+  gap: Location `resource` is read and validated in the world model but no output generator emits it.
+  evidence:
+  - 'Native per-location resource vocabulary: game/in_game/common/goods/03_food.txt:3.'
+  - History example `et-history-data/locations/oceania/australasia/new_zealand_region/south_island_area/whakatu.yml:13`.
+  - converter etl/model.py:144-146 resolves it; no generator reads `loc.resource`.
+  impact: Documented local resources disappear at conversion, blocking testable prehistoric resource representation.
+  acceptance: Define whether the field means natural availability, extraction, or marketable output; emit only supported target
+    semantics with dates and clear confidence, and add a regression check for non-loss.
+- id: lpg_production_methods
+  priority: P1
+  gap: No dated history field or converter output represents production methods, building outputs, or evidence of processing
+    intensity.
+  evidence:
+  - 'Native examples: game/in_game/common/production_methods/village_production_methods.txt:11-20.'
+  - Converter locations retain buildings but `gen_places.py:18-42` emits building type, level, location and owner only.
+  - Cereal processing and obsidian sourcing are observable at Çatalhöyük, but neither establishes a specific EU5 production
+    method ID.
+  impact: Evidence for production, processing, and resource acquisition cannot be represented as the native economy system
+    without an explicit mapping.
+  acceptance: Extend source-backed research with production activity, material, date and context before mapping to native
+    methods; distinguish workshop/consumption evidence from output quantities.
+- id: lpg_temporal_institutions_networks
+  priority: P1
+  gap: History has no converter-supported temporal fields for timed location modifiers, town rights, or institutions without
+    owner tags; roads are untyped adjacency.
+  evidence:
+  - 'Native inputs: start/21_locations.txt:4-10; start/24_town_rights.txt:1-4; start/08_institutions.txt:3-4; start/09_roads.txt:2-4.'
+  - Converter `generate.py:34-41` copies 21 and 24 unchanged; `gen_places.py:47-76` emits owner-gated institutions and undirected
+    road pairs.
+  impact: Those native files preserve base-game state rather than the selected historical target date.
+  acceptance: Classify each feature as intentionally invariant, out of scope, or temporal; implement only after dated evidence
+    and ownership-independent semantics are specified.
+- id: lpg_id_semantics
+  priority: P1
+  gap: Location cache contains IDs beyond verified land geography, while current pipeline validates ID existence rather than
+    spatial containment of archaeological evidence.
+  evidence:
+  - 'Cached identifiers: et-converter/.cache/location_ids.json has 34,377 entries.'
+  - Native `game/in_game/map_data/named_locations/00_default.txt:3658` and `default.map:442` explicitly include a Ligurian
+    sea location.
+  - converter `etl/model.py:129-132` checks ID membership, not land status or point-in-polygon evidence.
+  impact: A name match or broad map ID count could produce invalid site placement, false land coverage, or false zero population.
+  acceptance: Require verified coordinate containment in the mod geometry for site mapping; distinguish uninhabited, unknown,
+    and unresearched instead of conflating them.
+- id: lpg_native_id_validation
+  priority: P2
+  gap: Reference-ID validation omits several native vocabularies needed for a future richer historical schema.
+  evidence:
+  - Native definitions include pop types, ranks, estates, production methods, road types, and institutions.
+  - converter `etl/reference.py:13-31` scans goods, buildings, town setups, traits and selected other types, but not those
+    vocabularies.
+  impact: New values could pass validation without being native, or receive a generic fallback at output.
+  acceptance: If fields are promoted into supported history output, add native reference extraction, validation coverage and
+    warnings for each new vocabulary.
+comparisons:
+- id: lpc_01
+  field: Start population data
+  native_evidence: '`main_menu/setup/start/06_pops.txt:1-10`'
+  project_converter: Date-keyed location `pops` snapshots are accepted by `model.py:127-160`.
+  prehistoric_impact: Native file provides one scenario snapshot; project can vary by historical date.
+- id: lpc_02
+  field: Pop entry shape
+  native_evidence: '`06_pops.txt:4-10` uses `define_pop` with type, size, culture, religion.'
+  project_converter: Culture-religion keys plus scalar weights or type-share mappings are normalized in `gen_pops.py:99-118`.
+  prehistoric_impact: Scalar history values do not encode an absolute headcount.
+- id: lpc_03
+  field: Size magnitude
+  native_evidence: '`06_pops.txt:4-10` contains decimal sizes from 0.031 to 18.908.'
+  project_converter: '`gen_pops.py:120-128` computes output sizes from baseline × factor × share.'
+  prehistoric_impact: The inspected data does not define a person or million-person unit; document before interpreting.
+- id: lpc_04
+  field: Baseline population cache
+  native_evidence: Native 1337 baseline is named in `gen_pops.py:17-20`; cache load is at `:44-46`.
+  project_converter: '`.cache/vanilla_pop_totals.json` has 20,803 keyed totals. Missing location keys use the median at `:120-124`.'
+  prehistoric_impact: Cache key count is not a land-location count and totals are not prehistoric evidence.
+- id: lpc_05
+  field: Era scaling
+  native_evidence: Native pop values are supplied for its start scenario.
+  project_converter: 'Placeholder factors are in `gen_pops.py:20-40`: 0.4 before year 200, 0.6 before 1000, 1.0 before 1400
+    and 1.0 thereafter.'
+  prehistoric_impact: These factors do not constitute a global or prehistoric demographic series.
+- id: lpc_06
+  field: Automatic rural/urban mix
+  native_evidence: Native example explicitly encodes type shares at `06_pops.txt:4-10`.
+  project_converter: '`gen_pops.py:27-29,49-80,94` assigns fixed rural/urban mixes; only town/city ranks count as urban.'
+  prehistoric_impact: Scalar shorthand inserts a strong composition assumption.
+- id: lpc_07
+  field: Pop type vocabulary
+  native_evidence: '`in_game/common/pop_types/00_default.txt:1,33,63,101,166,223` includes nobles, clergy, burghers, laborers,
+    peasants and slaves.'
+  project_converter: Type IDs are hard-coded in `gen_pops.py:31`; no native pop-type reference set is built. Unknown names
+    become peasants at `:65-72`.
+  prehistoric_impact: Support for a richer breakdown exists, with a validation gap and fallback risk.
+- id: lpc_08
+  field: Estates versus pop types
+  native_evidence: '`in_game/common/estates/00_default.txt:44,712` defines nobles and peasants estates.'
+  project_converter: Historical pop maps use pop-type keys and output native `type`, not estate-definition IDs.
+  prehistoric_impact: “Estate shares” in prose must not be keyed with separate estate IDs.
+- id: lpc_09
+  field: Map ID universe
+  native_evidence: '`in_game/map_data/named_locations/00_default.txt:3658` defines `ligurian_sea_location_1`; `default.map:428-442`
+    places it in a sea-area list.'
+  project_converter: Cache `location_ids.json` recognizes 34,377 IDs; `model.py:129-132` checks membership.
+  prehistoric_impact: IDs include water geography; no all-land assumption or denominator is safe.
+- id: lpc_10
+  field: Rank data
+  native_evidence: '`in_game/common/location_ranks/00_default.txt:2,75,138` defines megalopolis, city and town.'
+  project_converter: '`city.rank` is read in `model.py:147-154`; a scan found no `city:` field in current location history.'
+  prehistoric_impact: Rank support is defined but unused in current dated history.
+- id: lpc_11
+  field: Town setup
+  native_evidence: Native Stockholm has `rank=town` and `town_setup=important_scandinavian_town` at `main_menu/setup/start/07_cities_and_buildings.txt:4`;
+    setup definitions begin at `common/town_setups/00_default.txt:1,13`.
+  project_converter: '`city.setup` is checked against town setup IDs in `model.py:149-152`.'
+  prehistoric_impact: Converter uses a modern setup template; archaeological site type does not establish one.
+- id: lpc_12
+  field: Rank output gate
+  native_evidence: Native Stockholm shows the rank/setup pair at `07_cities_and_buildings.txt:4`.
+  project_converter: '`gen_places.py:13-14` outputs a location only if both rank and setup are present.'
+  prehistoric_impact: Rank-only evidence currently disappears from the cities file. This is a converter rule, not a claim
+    about engine requirements.
+- id: lpc_13
+  field: Rank-based development
+  native_evidence: Native formula at `14_development.txt:8,15,18-19` includes base −2, road 2, city 5 and town 2.
+  project_converter: '`generate.py:34-41` copies the formula unchanged; it does not infer historic rank.'
+  prehistoric_impact: Native formula can remain available, but the project supplies no evidence-to-rank mapping.
+- id: lpc_14
+  field: Building instances
+  native_evidence: Native city/building setup is in `07_cities_and_buildings.txt`; building definitions include `in_game/common/building_types/port_buildings.txt:1`.
+  project_converter: '`buildings` retains type/level/optional owner; `gen_places.py:18-42` emits known positive-level entries.
+    Three current location files contain a building key.'
+  prehistoric_impact: Historical structure evidence has a representable path, but sparse usage and game building mappings
+    need review.
+- id: lpc_15
+  field: Building ownership gate
+  native_evidence: Native setup puts instances in a manager context.
+  project_converter: '`gen_places.py:37-42` uses building owner or location owner and skips when neither is a known country.'
+  prehistoric_impact: Ownerless monuments may be omitted; this is converter behavior, not universal engine semantics.
+- id: lpc_16
+  field: Production methods
+  native_evidence: '`in_game/common/production_methods/village_production_methods.txt:11-20` defines a rural millet brewery
+    and output.'
+  project_converter: No production-method field exists in `LocInfo` and no generator emits a method.
+  prehistoric_impact: Farming, brewing or craft evidence cannot become native production configuration yet.
+- id: lpc_17
+  field: Goods definitions
+  native_evidence: '`in_game/common/goods/03_food.txt:3` defines wild game.'
+  project_converter: '`resource` is accepted and resolved in `model.py:144-146`; `reference.py:13-31` scans goods.'
+  prehistoric_impact: The native vocabulary is known to the converter.
+- id: lpc_18
+  field: Resource emission
+  native_evidence: Native goods serve as IDs in the game.
+  project_converter: The `resource` field remains on `LocInfo`, but no generator references `loc.resource`; a history example
+    is `whakatu.yml:13`.
+  prehistoric_impact: Current converter silently drops validated location resources. This is a concrete implementation gap.
+- id: lpc_19
+  field: Resource meaning
+  native_evidence: '`common/goods/03_food.txt` defines goods; production methods separately define outputs.'
+  project_converter: Project has one scalar `resource` per location.
+  prehistoric_impact: Natural occurrence, gathered subsistence, mining/extraction and marketable output are conflated unless
+    separately modeled.
+- id: lpc_20
+  field: Markets
+  native_evidence: Native `03_markets.txt:1,83-94` lists Dadu, Kyoto, Hangzhou and other market anchors.
+  project_converter: Boolean `market` is read in `model.py:162` and emitted by `gen_places.py:79-85`.
+  prehistoric_impact: Evidence of exchange or aggregation alone is not evidence of an EU5-style market institution.
+- id: lpc_21
+  field: Institutions
+  native_evidence: Native Stockholm has `feudalism=yes` at `08_institutions.txt:3-4`; definition at `common/institution/age_1_traditions_institutions.txt:1`.
+  project_converter: Date-keyed institution flags are stored; `gen_places.py:47-60` emits only for owned locations.
+  prehistoric_impact: No current histories use the field; an ownerless archaeological site cannot emit through this gate.
+- id: lpc_22
+  field: Institution ID validation
+  native_evidence: Native has institution definitions.
+  project_converter: '`reference.py:13-31` does not scan institution IDs.'
+  prehistoric_impact: Field values lack the same reference validation provided for buildings, goods and town setups.
+- id: lpc_23
+  field: Road network
+  native_evidence: Native `09_roads.txt:2-4` begins a list of location pairs such as Stockholm–Uppsala.
+  project_converter: History stores neighbors; `gen_places.py:63-76` removes invalid IDs, sorts endpoints and emits unique
+    undirected pairs.
+  prehistoric_impact: Link evidence may represent connection but does not prove a constructed road.
+- id: lpc_24
+  field: Road type
+  native_evidence: '`in_game/common/road_types/00_generic.txt:1,15` defines gravel and paved roads.'
+  project_converter: History stores adjacency only; generated pairs have no road-type field.
+  prehistoric_impact: Road type and construction date are unsupported.
+- id: lpc_25
+  field: Timed location modifiers
+  native_evidence: Native `21_locations.txt:4-10,17-23` contains dated modifier blocks.
+  project_converter: No timed-modifier state exists in `LocInfo`; `generate.py:34-41` copies the native file.
+  prehistoric_impact: Those effects remain vanilla, irrespective of selected historical date.
+- id: lpc_26
+  field: Town rights
+  native_evidence: Native `24_town_rights.txt:1-4` grants Magdeburg rights.
+  project_converter: No town-right field exists; the native file is copied unchanged.
+  prehistoric_impact: Rights cannot be varied from project history.
+- id: lpc_27
+  field: Date folding
+  native_evidence: Native setup files are snapshots for their start.
+  project_converter: '`snapshot.py:29-45` applies date entries through the requested date in order.'
+  prehistoric_impact: Temporal resolution exists, but only for fields that reach an output generator.
+- id: lpc_28
+  field: Validation coverage
+  native_evidence: Native defines ranks, pop types, estates, institutions, road types and production methods.
+  project_converter: '`reference.py:13-31` scans goods, buildings, town setups and selected vocabularies, not these additional
+    types.'
+  prehistoric_impact: Implementing the missing fields needs paired ID extraction and validation.
+- id: lpc_29
+  field: Preserved native files
+  native_evidence: Native supplies `14_development.txt`, `21_locations.txt`, and `24_town_rights.txt`.
+  project_converter: '`generate.py:34-41,111-117` copies these static files from the selected native directory.'
+  prehistoric_impact: Current output preserves base-game setup there, not date-specific mod history.

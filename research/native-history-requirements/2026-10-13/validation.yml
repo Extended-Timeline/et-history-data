@@ -1,0 +1,31 @@
+schema_version: 1
+checked_on: '2026-10-13'
+yaml_files_checked: 13
+requirements_by_catalogue:
+  societies: 24
+  politics: 25
+  material-world: 27
+requirement_rows: 76
+new_records: 9
+source_entries: 11
+historical_domains: 16
+distinct_cited_native_files_checked: 54
+numbered_native_anchors_within_file_bounds: 112
+local_markdown_links_checked: 19
+checks:
+- Duplicate YAML keys rejected
+- Exact id/locator source references resolve
+- All research records link to catalogue requirements
+- Sources declare access level
+- New research IDs do not collide with prior research
+- Coverage anchors resolve in previous research
+- Explicit native paths exist and numbered anchors are within file bounds
+- Protected upstream defines hash unchanged
+- New coverage annotations resolve to the nine new research records
+limits:
+- Structural checks do not prove every native key occurs within every cited range.
+- Sources and chronology reviewed separately; worldwide prehistoric completeness is
+  not claimed.
+- No game runtime test or converter compatibility claim.
+protected_defines_sha256: 4ff3b80742a2d6b53a3804892fba75c8c466b8b14c6af84663369c89371a535a
+status: passed
